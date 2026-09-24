@@ -343,6 +343,25 @@ function setupScrollListener() {
   let lastScrollY = window.scrollY;
   let ticking = false;
   const SCROLL_THRESHOLD = 8; // Ignore small deltas (e.g. mobile Safari address bar)
+  const MINIFY_AT = 140;
+
+  // Minifying changes the height of the sticky bar, which shifts the page and
+  // fires scroll events of its own (scroll anchoring, clamping on short lists).
+  // Absorb that shift so it is not mistaken for the user scrolling, otherwise
+  // the bar flips between states in a loop.
+  function setMinified(on) {
+    if (controls.classList.contains('minified') === on) return;
+    controls.classList.toggle('minified', on);
+    if (on) {
+      // Not worth minifying if the page would become too short to stay past
+      // the threshold (e.g. a filter leaves only a few results).
+      const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+      if (maxScroll <= MINIFY_AT + SCROLL_THRESHOLD) {
+        controls.classList.remove('minified');
+      }
+    }
+    lastScrollY = window.scrollY;
+  }
 
   window.addEventListener('scroll', () => {
     if (!ticking) {
@@ -357,12 +376,12 @@ function setupScrollListener() {
         const atBottom = currentScrollY >= maxScroll - 5;
 
         if (Math.abs(delta) > SCROLL_THRESHOLD && !atBottom) {
-          if (currentScrollY > 140 && delta > 0) {
-            controls.classList.add('minified');
-          } else if (delta < 0 || currentScrollY <= 140) {
-            controls.classList.remove('minified');
-          }
           lastScrollY = currentScrollY;
+          if (currentScrollY > MINIFY_AT && delta > 0) {
+            setMinified(true);
+          } else if (delta < 0 || currentScrollY <= MINIFY_AT) {
+            setMinified(false);
+          }
         }
 
         ticking = false;
