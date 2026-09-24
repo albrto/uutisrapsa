@@ -1,5 +1,64 @@
 [
   {
+    "id": "4d80ed10-02a0-4617-8db7-b61d67cc06a7",
+    "jakso_otsikko": "Stubb–Trump, kaikki kovat YK:ssa, aborttikiista, ehdokasavatarit",
+    "paivamaara": "24.9.2026",
+    "suositukset": [
+      {
+        "teos": "Slow Horses (uusi kausi)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses+uusi+kausi",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses",
+        "kuvaus": "Brittiläinen agenttisarja on saanut uuden kauden, jonka kaksi ensimmäistä jaksoa on jo nähty. Puhuja pitää sarjaa yhtenä aikamme parhaista ja suosittelee sitä lämpimästi, vaikka kriitikko oli eri mieltä.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "agenttisarja",
+          "brittisarja",
+          "jännitys"
+        ]
+      },
+      {
+        "teos": "Suomen lentopallomaajoukkueen EM-ottelu (perjantai klo 22)",
+        "paakategoria": "urheilu",
+        "google_linkki": "https://www.google.com/search?q=Suomi+lentopallo+EM+puolivälierä+Ranska",
+        "lisatieto_linkki": "https://www.google.com/search?q=Suomi+lentopallo+EM+lähetys",
+        "kuvaus": "Suomen lentopallomaajoukkue kaatoi Italian ja on nyt neljän parhaan joukossa. Puhuja suosittelee katsomaan perjantain ottelun kello 22, jossa vastassa on Ranska.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "lentopallo",
+          "EM-kisat",
+          "urheilu"
+        ]
+      },
+      {
+        "teos": "A Poet (Un poeta)",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=A+Poet+Un+poeta+kolumbialainen+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=A%20Poet%20Un%20poeta",
+        "kuvaus": "Kolumbialainen elokuva keski-ikäisestä runoilijasta, josta piti tulla jotain suurta, mutta joka joutuu kohtaamaan elämänsä ongelmat. Puhuja kehuu leffaa hauskaksi, koskettavaksi ja erikoiseksi ja suosittelee käymään katsomassa sen Rakkautta & Anarkiaa -festivaalilla sunnuntaina.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "festivaalielokuva",
+          "draama",
+          "Kolumbia"
+        ]
+      },
+      {
+        "teos": "Tähtitaivaan opetteleminen tekoälyn kanssa keskustellen luontokävelyillä",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=tähtitaivaan+opettelu+tekoälyn+avulla",
+        "lisatieto_linkki": "https://www.google.com/search?q=Claude+AI+tähtitaivas+opastus",
+        "kuvaus": "Puhuja suosittelee yhdistämään luonnossa kulkemisen ja tekoälyn: keskustelemalla ääneen tekoälyn (Clauden) kanssa koiralenkeillä hän on oppinut tunnistamaan tähtikuvioita, kuten Otavan, ja niiden taustatarinoita. Suosittelee nimenomaan puhumista tekoälylle, ei näpyttelyä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "luonto",
+          "tekoäly",
+          "hyvinvointi"
+        ]
+      }
+    ]
+  },
+  {
     "id": "91ad3b32-e99f-47f2-9d46-bf9192a267fc",
     "jakso_otsikko": "Datakeskus-doomerismi, oikeiston Nasima-foliot, keskustan riemukas psykedelia",
     "paivamaara": "17.9.2026",

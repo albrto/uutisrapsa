@@ -11297,6 +11297,83 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 484,
+    "jakso_id": "4d80ed10-02a0-4617-8db7-b61d67cc06a7",
+    "jakso_otsikko": "Stubb–Trump, kaikki kovat YK:ssa, aborttikiista, ehdokasavatarit",
+    "paivamaara": "24.9.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4d80ed10-02a0-4617-8db7-b61d67cc06a7.mp3",
+    "kesto_sek": 5274,
+    "kesto_str": "01:27:54",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski ja Marko Junkkari keskustelevat YK:n huippuviikosta, jossa puheita pitivät Suomen tasavallan presidentti ja Yhdysvaltain presidentti, Putin kutsuttiin sivistyneisiin pöytiin, mutta niin kutsuttiin Suomikin, Grönlanti sai rauhan, Iran ei... ja muutenkin YK näytti niin vilkkaalta keskustelufoorumilta ettei vuosikymmeniin ole näyttäytynyt. L",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Slow Horses (uusi kausi)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "agenttisarja",
+          "brittisarja",
+          "jännitys"
+        ],
+        "kuvaus": "Brittiläinen agenttisarja on saanut uuden kauden, jonka kaksi ensimmäistä jaksoa on jo nähty. Puhuja pitää sarjaa yhtenä aikamme parhaista ja suosittelee sitä lämpimästi, vaikka kriitikko oli eri mieltä.",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses+uusi+kausi",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Suomen lentopallomaajoukkueen EM-ottelu (perjantai klo 22)",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "lentopallo",
+          "EM-kisat",
+          "urheilu"
+        ],
+        "kuvaus": "Suomen lentopallomaajoukkue kaatoi Italian ja on nyt neljän parhaan joukossa. Puhuja suosittelee katsomaan perjantain ottelun kello 22, jossa vastassa on Ranska.",
+        "google_linkki": "https://www.google.com/search?q=Suomi+lentopallo+EM+puolivälierä+Ranska",
+        "lisatieto_linkki": "https://www.google.com/search?q=Suomi+lentopallo+EM+lähetys"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "A Poet (Un poeta)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "festivaalielokuva",
+          "draama",
+          "Kolumbia"
+        ],
+        "kuvaus": "Kolumbialainen elokuva keski-ikäisestä runoilijasta, josta piti tulla jotain suurta, mutta joka joutuu kohtaamaan elämänsä ongelmat. Puhuja kehuu leffaa hauskaksi, koskettavaksi ja erikoiseksi ja suosittelee käymään katsomassa sen Rakkautta & Anarkiaa -festivaalilla sunnuntaina.",
+        "google_linkki": "https://www.google.com/search?q=A+Poet+Un+poeta+kolumbialainen+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=A%20Poet%20Un%20poeta"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tähtitaivaan opetteleminen tekoälyn kanssa keskustellen luontokävelyillä",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "tekoäly",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Puhuja suosittelee yhdistämään luonnossa kulkemisen ja tekoälyn: keskustelemalla ääneen tekoälyn (Clauden) kanssa koiralenkeillä hän on oppinut tunnistamaan tähtikuvioita, kuten Otavan, ja niiden taustatarinoita. Suosittelee nimenomaan puhumista tekoälylle, ei näpyttelyä.",
+        "google_linkki": "https://www.google.com/search?q=tähtitaivaan+opettelu+tekoälyn+avulla",
+        "lisatieto_linkki": "https://www.google.com/search?q=Claude+AI+tähtitaivas+opastus"
+      }
+    ]
+  },
+  {
     "j_idx": 314,
     "jakso_id": "tag:soundcloud,2010:tracks/1600138725",
     "jakso_otsikko": "24.8.2023: Prigožin, Orpo Ukrainassa, Taleban",
