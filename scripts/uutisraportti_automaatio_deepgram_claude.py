@@ -176,6 +176,7 @@ SÄÄNNÖT:
 {suosittelija_saanto}
 5. KATEGORIAT: Määritä AINA jokaiselle suositukselle ylätason "paakategoria", jonka on TISMALLEEN YKSI SEURAAVISTA: "kirja", "elokuva", "tv-sarja", "podcast", "artikkeli", "musiikki", "ruoka", "kulttuuri", "urheilu", tai "muu" (jos mikään edeltävistä ei sovi). Keksi lisäksi 1-3 tarkempaa, vapaamuotoista tägiä "kategoriat"-listaan (esim. "teatteri", "historia", "viini").
 6. LINKIT: Lisää Goodreads-linkki (`https://www.goodreads.com/search?q=Nimi`) kirjoille ja IMDb-linkki (`https://www.imdb.com/find/?q=Nimi`) elokuville/sarjoille. Musiikille ja podcasteille lisää suoratoistolinkki "lisatieto_linkki" -kenttään (esim. `https://open.spotify.com/search/Nimi` tai vastaava haku Apple Musiciin, Tidaliin tai Suplaan). Kaikille "google_linkki" -kenttään hakulinkki `https://www.google.com/search?q=Nimi`.
+7. KUVAUS: Kirjoita 1-2 lauseen kuvaus sujuvaa yleiskieltä. Kun viittaat suosituksen antajaan, käytä hänen etunimeään (esim. "Salla pitää sarjaa yhtenä aikamme parhaista") tai koko nimeä, jos jaksossa on toinen samanniminen. Jos suosittelija on "tuntematon", muotoile lause viittaamatta henkilöön. ÄLÄ KOSKAAN käytä kuvauksessa sanoja "puhuja", "Puhuja N" tai "suosittelija" — puhujanumerot ovat vain sisäistä apua suosittelijan päättelyyn.
 
 VASTAUKSEN RAKENNE (palauta taulukko):
 [
@@ -184,7 +185,7 @@ VASTAUKSEN RAKENNE (palauta taulukko):
     "paakategoria": "kirja",
     "google_linkki": "https://www.google.com/...",
     "lisatieto_linkki": "https://www.goodreads.com/...",
-    "kuvaus": "1-2 lausetta...",
+    "kuvaus": "Tuomas suosittelee...",
     "suosittelija": "Tuomas Peltomäki",
     "puhuja_peruste": "Puhuja 2 esittelee itsensä: 'Mun nimi on Tuomas Peltomäki'",
     "kategoriat": ["historia", "elämäkerrat"]
@@ -292,6 +293,12 @@ def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
         if s.get("epavarma_teos"):
             varoitukset.append(
                 f"Epävarma teosnimi: \"{s.get('teos', '?')}\" ({s['suosittelija']}) — tarkista kirjoitusasu, kyseessä voi olla uutuusjulkaisu."
+            )
+        # Transkriptin "Puhuja N:" -merkinnät ovat vain poiminnan apuväline
+        # eivätkä saa näkyä julkaistussa kuvauksessa.
+        if re.search(r"\b(puhuja|suosittelija)\b", s.get("kuvaus", ""), re.IGNORECASE):
+            varoitukset.append(
+                f"Kuvauksessa viitataan \"puhujaan\" tai \"suosittelijaan\" nimen sijaan: \"{s.get('teos', '?')}\" ({s['suosittelija']}) — muotoile kuvaus uudelleen."
             )
         for kentta in SISAISET_KENTAT:
             s.pop(kentta, None)
