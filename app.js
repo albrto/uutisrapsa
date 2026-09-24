@@ -282,8 +282,43 @@ function setupScrollListener() {
   // fires scroll events of its own (scroll anchoring, clamping on short lists).
   // Absorb that shift so it is not mistaken for the user scrolling, otherwise
   // the bar flips between states in a loop.
+  //
+  // Korkeus vaihtuu yhä kerralla (korkeuden animointi toisi siirtymän joka
+  // ruutuun); pehmeys tulee clip-path-rullauksesta ja häivytyksestä (style.css).
+  // Sulkeutuessa animaatio ajetaan ensin ja palkki pienennetään vasta sen jälkeen.
+  const AUKI_MS = 280;
+  const KIINNI_MS = 200;
+  let collapseTimer = null;
+  let expandTimer = null;
+
   function setMinified(on) {
-    if (controls.classList.contains('minified') === on) return;
+    const minified = controls.classList.contains('minified');
+    if (on) {
+      if (minified || collapseTimer) return;
+      clearTimeout(expandTimer);
+      controls.classList.remove('expanding');
+      controls.classList.add('collapsing');
+      collapseTimer = setTimeout(() => {
+        collapseTimer = null;
+        controls.classList.remove('collapsing');
+        applyMinified(true);
+      }, KIINNI_MS);
+    } else {
+      if (collapseTimer) {
+        // Sulkeutuminen kesken: perutaan, palkki on vielä täysikokoinen
+        clearTimeout(collapseTimer);
+        collapseTimer = null;
+        controls.classList.remove('collapsing');
+        return;
+      }
+      if (!minified) return;
+      applyMinified(false);
+      controls.classList.add('expanding');
+      expandTimer = setTimeout(() => controls.classList.remove('expanding'), AUKI_MS);
+    }
+  }
+
+  function applyMinified(on) {
     controls.classList.toggle('minified', on);
     if (on) {
       // Not worth minifying if the page would become too short to stay past

@@ -153,7 +153,6 @@ a:hover {
   background: var(--bg-primary);
   padding-top: 16px;
   border-bottom: 1px solid var(--border);
-  transition: background 0.3s ease;
 }
 
 /* Vieritettäessä palkki "nestaantuu" ohueksi kahvaksi, joka avaa sen napautuksella */
@@ -169,6 +168,63 @@ a:hover {
 .controls.minified .filter-toggle-btn,
 .controls.minified .results-count {
   display: none;
+}
+
+/* Siirtymät kahvan ja koko palkin välillä: paneeli rullautuu kahvan korkeudelta
+   alas (clip-path, ei layoutin animointia) ja sisältö liukuu hienovaraisesti esiin */
+.controls.expanding {
+  animation: paneeli-auki 280ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.controls.expanding > :not(.filter-handle) {
+  animation: sisalto-esiin 280ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.controls.collapsing {
+  animation: paneeli-kiinni 200ms cubic-bezier(0.55, 0, 0.75, 0.3) forwards;
+}
+
+.controls.collapsing > :not(.filter-handle) {
+  animation: sisalto-pois 200ms ease-in forwards;
+}
+
+.controls.minified .filter-handle {
+  animation: kahva-esiin 180ms ease-out;
+}
+
+@keyframes paneeli-auki {
+  from { clip-path: inset(0 0 calc(100% - 27px) 0); }
+  to   { clip-path: inset(0 0 0 0); }
+}
+
+@keyframes paneeli-kiinni {
+  from { clip-path: inset(0 0 0 0); }
+  to   { clip-path: inset(0 0 calc(100% - 27px) 0); }
+}
+
+@keyframes sisalto-esiin {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@keyframes sisalto-pois {
+  from { opacity: 1; transform: none; }
+  to   { opacity: 0; transform: translateY(-8px); }
+}
+
+@keyframes kahva-esiin {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .controls.expanding,
+  .controls.expanding > *,
+  .controls.collapsing,
+  .controls.collapsing > *,
+  .controls.minified .filter-handle {
+    animation-duration: 1ms;
+  }
 }
 
 .filter-handle {
