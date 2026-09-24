@@ -153,19 +153,67 @@ a:hover {
   background: var(--bg-primary);
   padding-top: 16px;
   border-bottom: 1px solid var(--border);
-  transition: transform 0.3s ease, padding 0.3s ease, background 0.3s ease;
+  transition: background 0.3s ease;
 }
 
+/* Vieritettäessä palkki "nestaantuu" ohueksi kahvaksi, joka avaa sen napautuksella */
 .controls.minified {
-  transform: translateY(-80px); /* Hide filters but keep search visible ? No, let's just slide it up slightly and hide non-essential */
-  padding-bottom: 8px;
+  padding-top: 0;
+  padding-bottom: 0;
   background: rgba(10, 10, 15, 0.95);
   backdrop-filter: blur(12px);
 }
 
-.controls.minified .filter-row, 
+.controls.minified .search-container,
+.controls.minified .filter-row,
 .controls.minified .filter-toggle-btn,
 .controls.minified .results-count {
+  display: none;
+}
+
+.filter-handle {
+  display: none;
+  width: 100%;
+  height: 26px;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.controls.minified .filter-handle {
+  display: flex;
+}
+
+.filter-handle svg {
+  width: 12px;
+  height: 12px;
+}
+
+.filter-handle:hover,
+.filter-handle:focus-visible {
+  color: var(--accent-light);
+  outline: none;
+}
+
+.filter-handle-count {
+  min-width: 15px;
+  height: 15px;
+  padding: 0 4px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.62rem;
+  font-weight: 700;
+  line-height: 15px;
+  text-align: center;
+}
+
+.filter-handle-count:empty {
   display: none;
 }
 

@@ -142,6 +142,10 @@ function applyFilters() {
   
   document.getElementById('resultsCount').textContent = 
     `${filtered.length} suositusta löytyi` + (query || categoryFilter || recommenderFilter || yearFilter ? ' suodattimilla' : '');
+
+  // Kahvan merkki kertoo pienennetyssä tilassa, montako rajausta on päällä
+  const activeCount = [query, categoryFilter, recommenderFilter, yearFilter].filter(Boolean).length;
+  document.getElementById('filterHandleCount').textContent = activeCount || '';
 }
 
 function renderResults(recs) {
@@ -266,8 +270,11 @@ function setupListeners() {
 
 function setupScrollListener() {
   const controls = document.querySelector('.controls');
+  const handle = document.getElementById('filterHandle');
+  const searchInput = document.getElementById('searchInput');
   let lastScrollY = window.scrollY;
   let ticking = false;
+  let settleUntil = 0;
   const SCROLL_THRESHOLD = 8; // Ignore small deltas (e.g. mobile Safari address bar)
   const MINIFY_AT = 100;
 
@@ -286,8 +293,19 @@ function setupScrollListener() {
         controls.classList.remove('minified');
       }
     }
+    handle.setAttribute('aria-expanded', String(!controls.classList.contains('minified')));
     lastScrollY = window.scrollY;
+    // Scroll anchoring may apply the shift only on a later frame, so ignore
+    // scroll deltas for a moment after every state change.
+    settleUntil = performance.now() + 250;
   }
+
+  handle.addEventListener('click', () => {
+    setMinified(false);
+    // Suodatinsymbolista avattaessa suodattimet näkyviin myös mobiilissa
+    setFilterRowOpen(true);
+    lastScrollY = window.scrollY;
+  });
 
   window.addEventListener('scroll', () => {
     if (!ticking) {
@@ -299,11 +317,16 @@ function setupScrollListener() {
         const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
         const atBottom = currentScrollY >= maxScroll - 5;
 
-        if (Math.abs(delta) > SCROLL_THRESHOLD && !atBottom) {
+        if (performance.now() < settleUntil) {
           lastScrollY = currentScrollY;
+        } else if (Math.abs(delta) > SCROLL_THRESHOLD && !atBottom) {
+          lastScrollY = currentScrollY;
+          // Ylöspäin vieritys ei tuo palkkia takaisin (se ponnahti liian herkästi
+          // sisällön päälle) – palkki aukeaa vain kahvasta tai sivun yläosassa.
+          // Hakukentän ollessa aktiivinen palkkia ei piiloteta kirjoittajan alta.
           if (currentScrollY > MINIFY_AT && delta > 0) {
-            setMinified(true);
-          } else if (delta < 0 || currentScrollY <= MINIFY_AT) {
+            if (document.activeElement !== searchInput) setMinified(true);
+          } else if (currentScrollY <= MINIFY_AT) {
             setMinified(false);
           }
         }
@@ -315,16 +338,22 @@ function setupScrollListener() {
   }, { passive: true });
 }
 
+function setFilterRowOpen(open) {
+  const toggleBtn = document.getElementById('mobileFilterToggle');
+  const filterRow = document.getElementById('filterRow');
+  filterRow.classList.toggle('show', open);
+  toggleBtn.classList.toggle('active', open);
+  toggleBtn.querySelector('span').textContent = open ? 'Piilota suodattimet' : 'Näytä suodattimet';
+}
+
 function setupMobileFilters() {
   const toggleBtn = document.getElementById('mobileFilterToggle');
   const filterRow = document.getElementById('filterRow');
-  
+
   if (!toggleBtn || !filterRow) return;
-  
+
   toggleBtn.addEventListener('click', () => {
-    const isShowing = filterRow.classList.toggle('show');
-    toggleBtn.classList.toggle('active', isShowing);
-    toggleBtn.querySelector('span').textContent = isShowing ? 'Piilota suodattimet' : 'Näytä suodattimet';
+    setFilterRowOpen(!filterRow.classList.contains('show'));
   });
 }
 
