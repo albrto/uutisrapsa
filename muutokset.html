@@ -4,10 +4,58 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Muutosloki - Uutisraportti suosittelee</title>
-  <meta name="theme-color" content="#11141b">
-  <link rel="icon" href="/favicon.ico" sizes="48x48">
-  <link rel="preload" href="fonts/spline-sans-mono-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <style>
+    .changelog-container {
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 0 24px;
+    }
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 32px;
+      color: var(--accent-light);
+      font-weight: 500;
+    }
+    .version-tag {
+      display: inline-block;
+      padding: 4px 12px;
+      background: var(--accent-glow);
+      color: var(--accent-light);
+      border-radius: 100px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    .change-item {
+      margin-bottom: 48px;
+      padding-left: 24px;
+      border-left: 2px solid var(--border);
+    }
+    .change-date {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+    }
+    .change-list {
+      list-style: none;
+    }
+    .change-list li {
+      margin-bottom: 8px;
+      position: relative;
+    }
+    .change-list li::before {
+      content: '•';
+      position: absolute;
+      left: -16px;
+      color: var(--accent);
+    }
+  </style>
 </head>
 <body>
   <div class="changelog-container">
@@ -18,17 +66,29 @@
       Takaisin suosituksiin
     </a>
     
-    <h1 class="changelog-title">Muutosloki</h1>
+    <h1 class="hero-title" style="text-align: left; margin-bottom: 40px;">Päivitykset & <span class="hero-accent">Muutosloki</span></h1>
     <div class="change-item">
-      <span class="version-tag">v2.0.0</span>
+      <span class="version-tag">v1.15.0</span>
+      <div class="change-date">24. syyskuuta 2026</div>
+      <ul class="change-list">
+<li>Parannettu automaation ajastusta: uudet jaksot käsitellään nyt aiemmin päivällä aiemman ilta-ajan sijaan.</li>
+</ul>
+    </div>
+
+    <div class="change-item">
+      <span class="version-tag">v1.14.0</span>
       <div class="change-date">16. syyskuuta 2026</div>
       <ul class="change-list">
-        <li>Sivusto sai uuden, selkeämmän ilmeen: entistä pelkistetympi tumma ulkoasu ilman liukuvärejä ja hehkuja.</li>
-        <li>Kategoriat näkyvät aina värikoodattuina suodatinnappeina hakukentän alla – suodatus onnistuu yhdellä napautuksella ilman valikkoa.</li>
-        <li>Uusi <strong>Yllätä minut</strong> -nappi nostaa satunnaisen suosituksen esiin.</li>
-        <li>Suosituslista latoutuu leveillä näytöillä kahteen palstaan.</li>
-        <li>Lisätty selkeä maininta siitä, että sivusto on epävirallinen fanisivusto.</li>
-      </ul>
+  <li>Lisätty evästeetön kävijämittaus sivustolle — yksityisyyttä kunnioittava ratkaisu, joka ei kirjaa kehitys- tai testikäyttöä.</li>
+  <li>Lisätty sivustolle favicon, kosketuslaitteiden pikakuvake ja hakukoneohjeet — korjaa satoja turhia virheitä, joita sivusto aiemmin kirjasi.</li>
+  <li>Korjattu sosiaalisen median linkkien osoitteet osoittamaan oikeaan paikkaan.</li>
+  <li>Footerin versionumero pysyy jatkossa automaattisesti ajan tasalla.</li>
+  <li>Lisätty maininta siitä, että Uutisrapsa.fi ei ole Helsingin Sanomien tai Sanoma Oyj:n virallinen sivusto.</li>
+  <li>Lisätty automaattinen valvonta: järjestelmä hälyttää, jos jokin podcast-jakso jää käsittelemättä tai automaatio epäonnistuu.</li>
+  <li>Korjattu automaation hälytysviestit, jotka olivat aiemmin päätyneet roskapostisuodattimeen.</li>
+  <li>Parannettu automaation sisäistä rakennetta — päällekkäiset työkalut yhdistetty, mikä vähentää virheiden mahdollisuutta jatkossa.</li>
+  <li>Korjattu muutoslokin generoinnissa ilmennyt virhe, joka oli estänyt sen toimimisen elokuun puolivälistä lähtien.</li>
+</ul>
     </div>
 
     <div class="change-item">

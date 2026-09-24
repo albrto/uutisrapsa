@@ -70,7 +70,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Automaatio'
           git config --global user.email 'actions@github.com'
-          git add suositukset.json historia_json.txt admin/epailyttavat.json admin/epailyttavat.js admin/korjaukset.json muutokset.html || true
+          git add suositukset.json historia_json.txt admin/epailyttavat.json admin/epailyttavat.js admin/korjaukset.json muutokset.html index.html || true
           git add transkriptit/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Ei muutoksia commitattavaksi."

@@ -4,19 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Kiitos palautteesta! – Uutisraportti</title>
-  <meta name="theme-color" content="#11141b">
-  <link rel="icon" href="/favicon.ico" sizes="48x48">
-  <link rel="preload" href="fonts/spline-sans-mono-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <main class="receipt-page">
-    <div class="receipt">
-      <h1>Kiitos palautteesta!</h1>
-      <p>Viestisi on lähetetty onnistuneesti. Tiedot pysyvät kunnossa juuri tällaisten viestien ansiosta.</p>
-      <a href="/" class="submit-btn">Palaa suositusten pariin</a>
-    </div>
-  </main>
+<body style="background-color: #0a0a1a; color: #f8f8f8; margin: 0; min-height: 100vh;">
+  <div class="app">
+    <header class="hero" style="min-height: 100vh; display: flex; flex-direction: column; justify-content: center;">
+      <div class="hero-content">
+        <h1 class="hero-title">Kiitos palautteesta!</h1>
+        <p class="hero-subtitle" style="margin-bottom: 40px;">Viestisi on lähetetty onnistuneesti ja se auttaa meitä kehittämään palvelua.</p>
+        <a href="/" class="submit-btn" style="display: inline-block; max-width: 250px; text-decoration: none;">Palaa etusivulle</a>
+      </div>
+    </header>
+  </div>
   <!-- Kävijämittaus (GoatCounter): evästeetön, vain tuotantodomainilla,
        jotta dev-kokeiluversio ja paikallinen selailu eivät kirjaudu tilastoihin -->
   <script>

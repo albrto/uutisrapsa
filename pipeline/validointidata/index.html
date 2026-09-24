@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Uutisraportti – Suosittelijavalidointi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0f1117;
+      --bg-card: #191d28;
+      --bg-card-hover: #1e2333;
+      --bg-elevated: #242838;
+      --accent: #4f8ef7;
+      --accent-dim: #2d5cb8;
+      --warn: #f59e0b;
+      --warn-bg: #2a1f06;
+      --success: #34d399;
+      --success-bg: #052918;
+      --danger: #f87171;
+      --danger-bg: #2a0a0a;
+      --text: #e2e8f0;
+      --text-muted: #8892a4;
+      --text-dim: #5b6478;
+      --border: #2a2f3d;
+      --border-accent: #364060;
+      --radius: 12px;
+      --radius-sm: 8px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* === HEADER === */
+    header {
+      background: linear-gradient(135deg, #111827 0%, #1a2035 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 32px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(8px);
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .logo-icon {
+      width: 36px; height: 36px;
+      background: linear-gradient(135deg, var(--accent), #7c3aed);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+
+    h1 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    h1 span {
+      display: block;
+      font-size: 0.75rem;
+      font-weight: 400;
+      color: var(--text-muted);
+      margin-top: 1px;
+    }
+
+    .stats {
+      margin-left: auto;
+      display: flex;
+      gap: 16px;
+    }
+
+    .stat-chip {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 5px 14px;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .stat-chip strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    /* Filter bar */
+    .filterbar {
+      max-width: 1200px;
+      margin: 24px auto 0;
+      padding: 0 32px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .search-wrap {
+      flex: 1;
+      min-width: 240px;
+      position: relative;
+    }
+
+    .search-wrap input {
+      width: 100%;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 9px 14px 9px 38px;
+      color: var(--text);
+      font-size: 0.875rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-wrap input:focus {
+      border-color: var(--border-accent);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 12px; top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
+      font-size: 14px;
+    }
+
+    .filter-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 8px 14px;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: rgba(79,142,247,0.06);
+    }
+
+    .progress-info {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      margin-left: auto;
+    }
+
+    .progress-bar-wrap {
+      width: 120px;
+      height: 4px;
+      background: var(--bg-elevated);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      background: var(--success);
+      border-radius: 2px;
+      transition: width 0.3s;
+    }
+
+    /* === MAIN LAYOUT === */
+    main {
+      max-width: 1200px;
+      margin: 24px auto;
+      padding: 0 32px 60px;
+    }
+
+    /* === EPISODE CARD === */
+    .episode-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 16px;
+      overflow: hidden;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .episode-card:hover {
+      border-color: var(--border-accent);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+
+    .episode-card.resolved {
+      opacity: 0.5;
+      border-color: var(--border);
+    }
+
+    .episode-card.resolved .card-header {
+      background: var(--bg);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 16px 20px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .episode-num {
+      flex-shrink: 0;
+      width: 28px; height: 28px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .episode-meta {
+      flex: 1;
+    }
+
+    .episode-date {
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      font-weight: 500;
+      letter-spacing: 0.3px;
+      margin-bottom: 3px;
+    }
+
+    .episode-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.35;
+    }
+
+    .episode-badge-row {
+      display: flex;
+      gap: 8px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 3px 9px;
+      border-radius: 20px;
+      font-size: 0.7rem;
+      font-weight: 500;
+    }
+
+    .badge-warn {
+      background: var(--warn-bg);
+      color: var(--warn);
+      border: 1px solid rgba(245,158,11,0.25);
+    }
+
+    .badge-ok {
+      background: var(--success-bg);
+      color: var(--success);
+      border: 1px solid rgba(52,211,153,0.25);
+    }
+
+    .badge-participants {
+      background: rgba(79,142,247,0.08);
+      color: var(--accent);
+      border: 1px solid rgba(79,142,247,0.2);
+    }
+
+    .chevron {
+      flex-shrink: 0;
+      color: var(--text-dim);
+      font-size: 16px;
+      transition: transform 0.2s;
+      margin-top: 4px;
+    }
+
+    .episode-card.open .chevron { transform: rotate(180deg); }
+
+    /* === CARD BODY === */
+    .card-body {
+      display: none;
+      border-top: 1px solid var(--border);
+    }
+
+    .episode-card.open .card-body { display: block; }
+
+    /* Audio player section */
+    .player-section {
+      padding: 16px 20px;
+      background: linear-gradient(135deg, rgba(15,17,23,0.8), rgba(20,25,40,0.8));
+      border-bottom: 1px solid var(--border);
+    }
+
+    .player-label {
+      font-size: 0.7rem;
+      color: var(--text-dim);
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .player-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .play-btn {
+      flex-shrink: 0;
+      width: 40px; height: 40px;
+      background: var(--accent);
+      border: none;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      cursor: pointer;
+      font-size: 14px;
+      color: white;
+      transition: background 0.15s, transform 0.1s;
+    }
+
+    .play-btn:hover { background: #3a7ae8; transform: scale(1.05); }
+    .play-btn.playing { background: var(--warn); }
+
+    .player-controls {
+      flex: 1;
+    }
+
+    .seek-bar-wrap {
+      position: relative;
+      height: 20px;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+
+    .seek-bg {
+      position: absolute;
+      left: 0; right: 0;
+      height: 4px;
+      background: var(--bg-elevated);
+      border-radius: 2px;
+    }
+
+    .seek-fill {
+      position: absolute;
+      left: 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--accent), #a78bfa);
+      border-radius: 2px;
+      pointer-events: none;
+    }
+
+    .seek-thumb {
+      position: absolute;
+      width: 12px; height: 12px;
+      background: white;
+      border-radius: 50%;
+      box-shadow: 0 0 6px rgba(0,0,0,0.5);
+      transform: translateX(-50%);
+      pointer-events: none;
+      transition: transform 0.05s;
+    }
+
+    .seek-bar-wrap input[type=range] {
+      position: absolute;
+      left: 0; right: 0;
+      width: 100%;
+      opacity: 0;
+      height: 20px;
+      cursor: pointer;
+      margin: 0;
+    }
+
+    .time-row {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 4px;
+    }
+
+    .time-label {
+      font-size: 0.68rem;
+      color: var(--text-dim);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .startpoint-label {
+      font-size: 0.65rem;
+      color: var(--warn);
+      text-align: center;
+    }
+
+    /* Skip buttons */
+    .skip-btns {
+      display: flex;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+
+    .skip-btn {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 5px 10px;
+      color: var(--text-muted);
+      font-size: 0.7rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .skip-btn:hover {
+      border-color: var(--border-accent);
+      color: var(--text);
+    }
+
+    .rss-kuvaus {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      padding: 10px 20px;
+      border-bottom: 1px solid var(--border);
+      line-height: 1.5;
+    }
+
+    .rss-kuvaus strong {
+      color: var(--text-muted);
+    }
+
+    /* Recommendations */
+    .recs-section {
+      padding: 16px 20px;
+    }
+
+    .recs-title {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--text-dim);
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+
+    .rec-item {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+      transition: border-color 0.15s;
+    }
+
+    .rec-item.resolved-rec {
+      border-color: rgba(52,211,153,0.3);
+      background: rgba(5,41,24,0.5);
+    }
+
+    .rec-item.skipped-rec {
+      opacity: 0.4;
+    }
+
+    .rec-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .rec-teos {
+      flex: 1;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.3;
+    }
+
+    .rec-category {
+      font-size: 0.68rem;
+      background: rgba(255,255,255,0.06);
+      border-radius: 4px;
+      padding: 2px 7px;
+      color: var(--text-muted);
+      flex-shrink: 0;
+    }
+
+    .rec-kuvaus {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+
+    .rec-alert {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--warn-bg);
+      border: 1px solid rgba(245,158,11,0.2);
+      border-radius: 6px;
+      padding: 8px 12px;
+      margin-bottom: 10px;
+    }
+
+    .rec-alert-icon { font-size: 14px; }
+
+    .rec-alert-text {
+      font-size: 0.78rem;
+      color: var(--warn);
+    }
+
+    .rec-alert-text strong { font-weight: 600; }
+
+    /* Participants selector */
+    .rec-participants {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+
+    .participant-btn {
+      padding: 5px 12px;
+      border-radius: 20px;
+      border: 1px solid var(--border-accent);
+      background: var(--bg-card);
+      color: var(--text-muted);
+      font-size: 0.76rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .participant-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: rgba(79,142,247,0.08);
+    }
+
+    .participant-btn.selected {
+      border-color: var(--success);
+      color: var(--success);
+      background: rgba(52,211,153,0.1);
+    }
+
+    .rec-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .custom-input {
+      flex: 1;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 6px 10px;
+      color: var(--text);
+      font-size: 0.78rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    .custom-input:focus { border-color: var(--border-accent); }
+    .custom-input::placeholder { color: var(--text-dim); }
+
+    .action-btn {
+      padding: 6px 14px;
+      border-radius: var(--radius-sm);
+      border: none;
+      font-size: 0.76rem;
+      font-family: inherit;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: white;
+    }
+
+    .btn-primary:hover { background: #3a7ae8; }
+    .btn-primary:disabled { background: var(--bg-elevated); color: var(--text-dim); cursor: default; }
+
+    .btn-skip {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+    }
+
+    .btn-skip:hover { border-color: var(--border-accent); color: var(--text); }
+
+    .btn-verify {
+      background: rgba(52, 211, 153, 0.05);
+      border: 1px solid rgba(52, 211, 153, 0.3);
+      color: #34d399;
+    }
+
+    .btn-verify:hover {
+      background: rgba(52, 211, 153, 0.15);
+      border-color: #34d399;
+    }
+
+    .resolved-label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.78rem;
+      color: var(--success);
+    }
+
+    /* Empty state */
+    .empty {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-dim);
+    }
+
+    .empty-icon { font-size: 48px; margin-bottom: 16px; }
+    .empty h2 { font-size: 1.1rem; color: var(--text-muted); margin-bottom: 8px; }
+    .empty p { font-size: 0.87rem; }
+
+    /* Save button */
+    .save-bar {
+      position: fixed;
+      bottom: 24px;
+      right: 32px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .save-btn {
+      background: linear-gradient(135deg, var(--accent), #7c3aed);
+      color: white;
+      border: none;
+      border-radius: 24px;
+      padding: 12px 24px;
+      font-size: 0.875rem;
+      font-family: inherit;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: 0 4px 20px rgba(79,142,247,0.35);
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .save-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 28px rgba(79,142,247,0.45);
+    }
+
+    .save-count {
+      background: white;
+      color: var(--accent);
+      border-radius: 12px;
+      padding: 1px 7px;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    /* Toast */
+    .toast {
+      position: fixed;
+      bottom: 80px;
+      right: 32px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-accent);
+      border-radius: var(--radius-sm);
+      padding: 10px 18px;
+      font-size: 0.82rem;
+      color: var(--text);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+      opacity: 0;
+      transform: translateY(10px);
+      transition: all 0.25s;
+      pointer-events: none;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    @media (max-width: 640px) {
+      header, main, .filterbar { padding-left: 16px; padding-right: 16px; }
+      .stats { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-icon">🎙️</div>
+      <h1>
+        Uutisraportti – Suosittelijavalidointi
+        <span>Tarkista ja korjaa epäilyttävät suosittelijamerkinnät</span>
+      </h1>
+    </div>
+    <div class="stats">
+      <div class="stat-chip" id="stat-jakso">– jaksoa</div>
+      <div class="stat-chip" id="stat-rec">– suositusta</div>
+      <div class="stat-chip" id="stat-resolved">0 korjattu</div>
+    </div>
+  </div>
+</header>
+
+<script src="epailyttavat.js"></script>
+
+<div class="filterbar">
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="search" placeholder="Hae jaksoa tai suosittelijaa..." />
+  </div>
+  <button class="filter-btn active" id="filter-all" onclick="setFilter('all')">Kaikki</button>
+  <button class="filter-btn" id="filter-open" onclick="setFilter('open')">Avoimet</button>
+  <button class="filter-btn" id="filter-done" onclick="setFilter('done')">Korjatut</button>
+  <div style="display:flex; align-items:center; gap:8px; margin-left:auto;">
+    <div class="progress-bar-wrap">
+      <div class="progress-bar-fill" id="global-progress" style="width:0%"></div>
+    </div>
+    <span class="progress-info" id="progress-text">0 / 0</span>
+  </div>
+</div>
+
+<main id="main-list">
+  <div class="empty" id="loading">
+    <div class="empty-icon">⏳</div>
+    <h2>Ladataan dataa...</h2>
+  </div>
+</main>
+
+<div class="save-bar">
+  <button class="save-btn" id="save-btn" onclick="saveChanges()">
+    💾 Tallenna muutokset
+    <span class="save-count" id="save-count">0</span>
+  </button>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// =====================================================
+// STATE
+// =====================================================
+let DATA = [];           // alkuperäinen data
+let CORRECTIONS = {};    // { "jakso_id:r_idx": { suosittelija: "...", skipped: false } }
+let currentFilter = 'all';
+let currentSearch = '';
+let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
+
+// =====================================================
+// LOAD DATA
+// =====================================================
+function loadData() {
+  if (window.VALIDATION_DATA) {
+    DATA = window.VALIDATION_DATA;
+    updateStats();
+    renderList();
+  } else {
+    document.getElementById('loading').innerHTML = `
+      <div class="empty-icon">❌</div>
+      <h2>Datan lataus epäonnistui</h2>
+      <p>Varmista että epailyttavat.js on samassa kansiossa.</p>
+    `;
+  }
+}
+
+// =====================================================
+// HELPERS
+// =====================================================
+function corrKey(jakso_id, r_idx) {
+  return `${jakso_id}:${r_idx}`;
+}
+
+function getCorr(jakso_id, r_idx) {
+  return CORRECTIONS[corrKey(jakso_id, r_idx)];
+}
+
+function setCorr(jakso_id, r_idx, val) {
+  CORRECTIONS[corrKey(jakso_id, r_idx)] = val;
+  updateStats();
+  updateSaveBtn();
+}
+
+function totalRecs() {
+  return DATA.reduce((s, j) => s + j.epailyttavat_suositukset.length, 0);
+}
+
+function resolvedRecs() {
+  return Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.suosittelija).length;
+}
+
+function updateStats() {
+  document.getElementById('stat-jakso').innerHTML = `<strong>${DATA.length}</strong> jaksoa`;
+  document.getElementById('stat-rec').innerHTML = `<strong>${totalRecs()}</strong> suositusta`;
+  document.getElementById('stat-resolved').innerHTML = `<strong>${resolvedRecs()}</strong> korjattu`;
+
+  const pct = totalRecs() > 0 ? Math.round(resolvedRecs() / totalRecs() * 100) : 0;
+  document.getElementById('global-progress').style.width = pct + '%';
+  document.getElementById('progress-text').textContent = `${resolvedRecs()} / ${totalRecs()}`;
+}
+
+function updateSaveBtn() {
+  const n = Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.suosittelija).length;
+  document.getElementById('save-count').textContent = n;
+}
+
+function formatTime(sek) {
+  const h = Math.floor(sek / 3600);
+  const m = Math.floor((sek % 3600) / 60);
+  const s = Math.floor(sek % 60);
+  if (h > 0) return `${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  return `${m}:${String(s).padStart(2,'0')}`;
+}
+
+function showToast(msg, duration = 2500) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), duration);
+}
+
+// =====================================================
+// RENDER
+// =====================================================
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('filter-' + f).classList.add('active');
+  renderList();
+}
+
+document.getElementById('search').addEventListener('input', e => {
+  currentSearch = e.target.value.toLowerCase();
+  renderList();
+});
+
+function isJaksoResolved(jakso) {
+  return jakso.epailyttavat_suositukset.every(rec => {
+    const c = getCorr(jakso.jakso_id, rec.r_idx);
+    return c && (c.skipped || c.suosittelija);
+  });
+}
+
+function renderList() {
+  let filtered = DATA.filter(jakso => {
+    if (currentSearch) {
+      const hay = (jakso.jakso_otsikko + ' ' +
+        jakso.epailyttavat_suositukset.map(r => r.suosittelija + ' ' + r.teos).join(' ')).toLowerCase();
+      if (!hay.includes(currentSearch)) return false;
+    }
+    if (currentFilter === 'done') return isJaksoResolved(jakso);
+    if (currentFilter === 'open') return !isJaksoResolved(jakso);
+    return true;
+  });
+
+  const container = document.getElementById('main-list');
+
+  if (filtered.length === 0) {
+    container.innerHTML = `
+      <div class="empty">
+        <div class="empty-icon">✨</div>
+        <h2>Ei tuloksia</h2>
+        <p>Muuta hakuehtoja tai suodatinta.</p>
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = filtered.map((jakso, i) => renderCard(jakso, i + 1)).join('');
+  attachCardEvents();
+}
+
+function renderCard(jakso, num) {
+  const resolved = isJaksoResolved(jakso);
+  const n_open = jakso.epailyttavat_suositukset.filter(r => {
+    const c = getCorr(jakso.jakso_id, r.r_idx);
+    return !c || (!c.skipped && !c.suosittelija);
+  }).length;
+
+  const startSek = Math.max(0, jakso.kesto_sek - 900); // 15 min ennen loppua tai alusta
+  // Jos jakso on lyhyt (alle 20 min), mennään 75% kohtaan
+  const startPct = jakso.kesto_sek > 0 ? Math.min(startSek / jakso.kesto_sek, 0.75) : 0;
+
+  return `
+<div class="episode-card${resolved ? ' resolved' : ''}" id="card-${jakso.jakso_id}">
+  <div class="card-header" onclick="toggleCard('${jakso.jakso_id}')">
+    <div class="episode-num">${num}</div>
+    <div class="episode-meta">
+      <div class="episode-date">${jakso.paivamaara}</div>
+      <div class="episode-title">${escHtml(jakso.jakso_otsikko)}</div>
+      <div class="episode-badge-row">
+        ${resolved
+          ? `<span class="badge badge-ok">✓ Kaikki käsitelty</span>`
+          : `<span class="badge badge-warn">⚠️ ${n_open} auki</span>`}
+        ${jakso.rss_osallistujat.length > 0
+          ? `<span class="badge badge-participants">📻 ${escHtml(jakso.rss_osallistujat.join(', '))}</span>`
+          : ''}
+        ${jakso.kesto_str ? `<span class="badge" style="background:rgba(255,255,255,0.04);color:var(--text-dim);border:1px solid var(--border);">⏱ ${jakso.kesto_str}</span>` : ''}
+      </div>
+    </div>
+    <div class="chevron">▾</div>
+  </div>
+  <div class="card-body">
+    ${jakso.audio_url ? `
+    <div class="player-section">
+      <div class="player-label">JAKSON KUUNTELU</div>
+      <div class="player-row">
+        <button class="play-btn" id="playbtn-${jakso.jakso_id}" onclick="togglePlay('${jakso.jakso_id}', '${jakso.audio_url}', ${startSek}, ${jakso.kesto_sek})">▶</button>
+        <div class="player-controls">
+          <div class="seek-bar-wrap" id="seekwrap-${jakso.jakso_id}" onclick="seekClick(event,'${jakso.jakso_id}',${jakso.kesto_sek})">
+            <div class="seek-bg"></div>
+            <div class="seek-fill" id="seekfill-${jakso.jakso_id}" style="width:${(startPct*100).toFixed(1)}%"></div>
+            <div class="seek-thumb" id="seekthumb-${jakso.jakso_id}" style="left:${(startPct*100).toFixed(1)}%"></div>
+            <input type="range" min="0" max="${jakso.kesto_sek}" step="1" value="${startSek}"
+              oninput="seekInput(this,'${jakso.jakso_id}',${jakso.kesto_sek})"
+              id="seekrange-${jakso.jakso_id}" />
+          </div>
+          <div class="time-row">
+            <span class="time-label" id="curtime-${jakso.jakso_id}">${formatTime(startSek)}</span>
+            <span class="startpoint-label">⬆ aloituspiste (suosittelujen kohdalla)</span>
+            <span class="time-label">${jakso.kesto_str || ''}</span>
+          </div>
+        </div>
+        <div class="skip-btns">
+          <button class="skip-btn" onclick="skipBy('${jakso.jakso_id}', -30)">−30s</button>
+          <button class="skip-btn" onclick="skipBy('${jakso.jakso_id}', -60)">−1min</button>
+          <button class="skip-btn" onclick="skipBy('${jakso.jakso_id}', 30)">+30s</button>
+        </div>
+      </div>
+    </div>
+    ` : `<div class="rss-kuvaus">⚠️ Ei audio-URL:ta tälle jaksolle.</div>`}
+    <div class="rss-kuvaus">
+      <strong>RSS-kuvaus:</strong> ${escHtml(jakso.rss_kuvaus || '–')}
+    </div>
+    <div class="recs-section">
+      <div class="recs-title">Epäilyttävät suositukset (${jakso.epailyttavat_suositukset.length} kpl)</div>
+      ${jakso.epailyttavat_suositukset.map(rec => renderRec(jakso, rec)).join('')}
+    </div>
+  </div>
+</div>`;
+}
+
+function renderRec(jakso, rec) {
+  const c = getCorr(jakso.jakso_id, rec.r_idx);
+  const resolved = c && !c.skipped && c.suosittelija;
+  const skipped = c && c.skipped;
+
+  const participants = jakso.rss_osallistujat;
+
+  return `
+<div class="rec-item${resolved ? ' resolved-rec' : ''}${skipped ? ' skipped-rec' : ''}" id="rec-${jakso.jakso_id}-${rec.r_idx}">
+  <div class="rec-header">
+    <div class="rec-teos">
+      ${escHtml(rec.teos)}
+      ${rec.kuulijasuositus ? `<span style="background:var(--accent);color:#fff;font-size:10px;padding:1px 5px;border-radius:4px;margin-left:6px;vertical-align:middle;">KUULIJA</span>` : ''}
+    </div>
+    ${rec.paakategoria ? `<span class="rec-category">${escHtml(rec.paakategoria)}</span>` : ''}
+  </div>
+  ${rec.kuvaus ? `<div class="rec-kuvaus">${escHtml(rec.kuvaus)}</div>` : ''}
+  <div class="rec-alert">
+    <span class="rec-alert-icon">⚠️</span>
+    <div class="rec-alert-text">
+      Suosittelija <strong>"${escHtml(rec.suosittelija)}"</strong> ei löydy jakson RSS-osallistujista
+    </div>
+  </div>
+  ${resolved ? `
+    <div class="resolved-label">
+      ✅ Korjattu → <strong>${escHtml(c.suosittelija)}</strong>
+      <button class="skip-btn" style="margin-left:8px;" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>
+    </div>
+  ` : skipped ? `
+    <div class="resolved-label" style="color:var(--text-dim)">
+      ⏭ Ohitettu
+      <button class="skip-btn" style="margin-left:8px;" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>
+    </div>
+  ` : `
+    <div class="rec-participants">
+      ${participants.map(p => `
+        <button class="participant-btn" id="pbtn-${jakso.jakso_id}-${rec.r_idx}-${encodeURIComponent(p)}"
+          onclick="selectParticipant('${jakso.jakso_id}',${rec.r_idx},'${escAttr(p)}',this)">
+          ${escHtml(p)}
+        </button>
+      `).join('')}
+    </div>
+    <div class="rec-actions">
+      <input class="custom-input" type="text"
+        id="custominput-${jakso.jakso_id}-${rec.r_idx}"
+        placeholder="Tai kirjoita nimi vapaasti..."
+        oninput="customInputChange('${jakso.jakso_id}',${rec.r_idx},this)"
+        onkeydown="if(event.key==='Enter') confirmCorr('${jakso.jakso_id}',${rec.r_idx})" />
+      <button class="action-btn btn-primary" id="confirmbtn-${jakso.jakso_id}-${rec.r_idx}"
+        onclick="confirmCorr('${jakso.jakso_id}',${rec.r_idx})" disabled>
+        Tallenna
+      </button>
+      <button class="action-btn btn-verify" onclick="verifyCorrect('${jakso.jakso_id}',${rec.r_idx})">
+        Vahvista oikeaksi
+      </button>
+      <button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">
+        Ohita
+      </button>
+    </div>
+  `}
+</div>`;
+}
+
+// =====================================================
+// CARD TOGGLE
+// =====================================================
+function toggleCard(jakso_id) {
+  const card = document.getElementById('card-' + jakso_id);
+  if (!card) return;
+  const isOpen = card.classList.contains('open');
+  // Sulje muut
+  document.querySelectorAll('.episode-card.open').forEach(c => {
+    if (c !== card) {
+      c.classList.remove('open');
+      const id = c.id.replace('card-', '');
+      stopAudio(id);
+    }
+  });
+  if (!isOpen) {
+    card.classList.add('open');
+  } else {
+    card.classList.remove('open');
+    stopAudio(jakso_id);
+  }
+}
+
+// =====================================================
+// AUDIO
+// =====================================================
+const audioObjects = {}; // jakso_id → Audio
+
+function togglePlay(jakso_id, url, startSek, durationSek) {
+  let audio = audioObjects[jakso_id];
+
+  // Jos sama audio on jo käynnissä, pauseta
+  if (audio && !audio.paused) {
+    audio.pause();
+    document.getElementById('playbtn-' + jakso_id).textContent = '▶';
+    document.getElementById('playbtn-' + jakso_id).classList.remove('playing');
+    return;
+  }
+
+  // Pauseta muut
+  Object.entries(audioObjects).forEach(([id, a]) => {
+    if (id !== jakso_id && !a.paused) {
+      a.pause();
+      const btn = document.getElementById('playbtn-' + id);
+      if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+    }
+  });
+
+  // Luo audio jos ei ole
+  if (!audio) {
+    audio = new Audio(url);
+    audio.preload = 'metadata';
+    audioObjects[jakso_id] = audio;
+
+    audio.addEventListener('loadedmetadata', () => {
+      if (audio.currentTime < 1) {
+        audio.currentTime = startSek;
+      }
+    });
+
+    audio.addEventListener('timeupdate', () => {
+      updateSeekUI(jakso_id, audio.currentTime, audio.duration || durationSek);
+    });
+
+    audio.addEventListener('ended', () => {
+      const btn = document.getElementById('playbtn-' + jakso_id);
+      if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+    });
+
+    // Aseta aloitusaika heti
+    audio.currentTime = startSek;
+  }
+
+  audio.play().then(() => {
+    const btn = document.getElementById('playbtn-' + jakso_id);
+    if (btn) { btn.textContent = '⏸'; btn.classList.add('playing'); }
+  }).catch(e => {
+    showToast('❌ Äänen lataus epäonnistui: ' + e.message, 4000);
+  });
+}
+
+function stopAudio(jakso_id) {
+  const audio = audioObjects[jakso_id];
+  if (audio && !audio.paused) {
+    audio.pause();
+    const btn = document.getElementById('playbtn-' + jakso_id);
+    if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+  }
+}
+
+function updateSeekUI(jakso_id, current, duration) {
+  const pct = duration > 0 ? (current / duration * 100) : 0;
+  const fill = document.getElementById('seekfill-' + jakso_id);
+  const thumb = document.getElementById('seekthumb-' + jakso_id);
+  const timeEl = document.getElementById('curtime-' + jakso_id);
+  const range = document.getElementById('seekrange-' + jakso_id);
+  if (fill) fill.style.width = pct + '%';
+  if (thumb) thumb.style.left = pct + '%';
+  if (timeEl) timeEl.textContent = formatTime(current);
+  if (range) range.value = current;
+}
+
+function seekClick(e, jakso_id, durationSek) {
+  const wrap = document.getElementById('seekwrap-' + jakso_id);
+  if (!wrap) return;
+  const rect = wrap.getBoundingClientRect();
+  const pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+  const newTime = pct * durationSek;
+  const audio = audioObjects[jakso_id];
+  if (audio) audio.currentTime = newTime;
+  updateSeekUI(jakso_id, newTime, durationSek);
+}
+
+function seekInput(input, jakso_id, durationSek) {
+  const newTime = parseFloat(input.value);
+  const audio = audioObjects[jakso_id];
+  if (audio) audio.currentTime = newTime;
+  updateSeekUI(jakso_id, newTime, durationSek);
+}
+
+function skipBy(jakso_id, delta) {
+  const audio = audioObjects[jakso_id];
+  if (audio) {
+    audio.currentTime = Math.max(0, audio.currentTime + delta);
+  } else {
+    // Ei audiota vielä, päivitä vain UI
+    const range = document.getElementById('seekrange-' + jakso_id);
+    if (range) {
+      const newVal = Math.max(0, parseFloat(range.value) + delta);
+      range.value = newVal;
+      updateSeekUI(jakso_id, newVal, parseFloat(range.max));
+    }
+  }
+}
+
+// =====================================================
+// CORRECTIONS
+// =====================================================
+let pendingSelections = {}; // { "jakso_id:r_idx": "nimi" }
+
+function selectParticipant(jakso_id, r_idx, name, btn) {
+  const key = `${jakso_id}:${r_idx}`;
+  // Toggle
+  if (pendingSelections[key] === name) {
+    delete pendingSelections[key];
+    btn.classList.remove('selected');
+    // Tyhjennä custom input
+    const inp = document.getElementById(`custominput-${jakso_id}-${r_idx}`);
+    if (inp) inp.value = '';
+  } else {
+    // Poista muut valinnat tässä rec:ssä
+    document.querySelectorAll(`[id^="pbtn-${jakso_id}-${r_idx}-"]`).forEach(b => b.classList.remove('selected'));
+    pendingSelections[key] = name;
+    btn.classList.add('selected');
+    // Päivitä custom input
+    const inp = document.getElementById(`custominput-${jakso_id}-${r_idx}`);
+    if (inp) inp.value = name;
+  }
+  updateConfirmBtn(jakso_id, r_idx);
+}
+
+function customInputChange(jakso_id, r_idx, input) {
+  const key = `${jakso_id}:${r_idx}`;
+  pendingSelections[key] = input.value.trim();
+  // Synkroi nappeihin
+  document.querySelectorAll(`[id^="pbtn-${jakso_id}-${r_idx}-"]`).forEach(b => {
+    b.classList.remove('selected');
+    if (b.textContent.trim() === input.value.trim()) b.classList.add('selected');
+  });
+  updateConfirmBtn(jakso_id, r_idx);
+}
+
+function updateConfirmBtn(jakso_id, r_idx) {
+  const key = `${jakso_id}:${r_idx}`;
+  const btn = document.getElementById(`confirmbtn-${jakso_id}-${r_idx}`);
+  if (btn) btn.disabled = !pendingSelections[key];
+}
+
+function confirmCorr(jakso_id, r_idx) {
+  const key = `${jakso_id}:${r_idx}`;
+  const name = pendingSelections[key] || document.getElementById(`custominput-${jakso_id}-${r_idx}`)?.value?.trim();
+  if (!name) return;
+  setCorr(jakso_id, r_idx, { suosittelija: name });
+  delete pendingSelections[key];
+  refreshRec(jakso_id, r_idx);
+  refreshCardHeader(jakso_id);
+  showToast(`✅ Korjattu: ${name}`);
+}
+
+function skipRec(jakso_id, r_idx) {
+  setCorr(jakso_id, r_idx, { skipped: true });
+  updateSaveBtn();
+  refreshRec(jakso_id, r_idx);
+  refreshCardHeader(jakso_id);
+}
+
+function undoCorr(jakso_id, r_idx) {
+  delete CORRECTIONS[corrKey(jakso_id, r_idx)];
+  updateSaveBtn();
+  refreshRec(jakso_id, r_idx);
+  refreshCardHeader(jakso_id);
+}
+
+async function verifyCorrect(jakso_id, r_idx) {
+  if (!confirm('Haluatko varmasti lisätä tämän pysyviin ohituksiin? Se ei enää koskaan ilmesty tälle listalle.')) return;
+  
+  const item = { jakso_id, r_idx };
+  
+  try {
+    const response = await fetch('/ohita', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(item)
+    });
+    
+    if (!response.ok) throw new Error('Palvelinvirhe');
+    
+    showToast('✅ Lisätty pysyviin ohituksiin. Lista päivittyy...');
+    setTimeout(() => location.reload(), 1500);
+  } catch (err) {
+    console.error('Verify failed:', err);
+    showToast('❌ Virhe tallennettaessa ohitusta.');
+  }
+}
+
+function refreshRec(jakso_id, r_idx) {
+  const jakso = DATA.find(j => j.jakso_id === jakso_id);
+  if (!jakso) return;
+  const rec = jakso.epailyttavat_suositukset.find(r => r.r_idx === r_idx);
+  if (!rec) return;
+  const el = document.getElementById(`rec-${jakso_id}-${r_idx}`);
+  if (el) el.outerHTML = renderRec(jakso, rec);
+}
+
+function refreshCardHeader(jakso_id) {
+  const jakso = DATA.find(j => j.jakso_id === jakso_id);
+  if (!jakso) return;
+  const card = document.getElementById('card-' + jakso_id);
+  if (!card) return;
+  const resolved = isJaksoResolved(jakso);
+  if (resolved) card.classList.add('resolved');
+  else card.classList.remove('resolved');
+  // Päivitä badge
+  const n_open = jakso.epailyttavat_suositukset.filter(r => {
+    const c = getCorr(jakso.jakso_id, r.r_idx);
+    return !c || (!c.skipped && !c.suosittelija);
+  }).length;
+  const badgeRow = card.querySelector('.episode-badge-row');
+  if (badgeRow) {
+    const first = badgeRow.firstElementChild;
+    if (first) {
+      first.className = resolved ? 'badge badge-ok' : 'badge badge-warn';
+      first.textContent = resolved ? '✓ Kaikki käsitelty' : `⚠️ ${n_open} auki`;
+    }
+  }
+}
+
+// =====================================================
+// SAVE
+// =====================================================
+function attachCardEvents() {
+  // Ei tarvita erikseen – onclick-handlerit ovat HTML:ssä
+}
+
+function saveChanges() {
+  const corrections = [];
+  DATA.forEach(jakso => {
+    jakso.epailyttavat_suositukset.forEach(rec => {
+      const c = getCorr(jakso.jakso_id, rec.r_idx);
+      if (c && !c.skipped && c.suosittelija) {
+        corrections.push({
+          jakso_id: jakso.jakso_id,
+          jakso_otsikko: jakso.jakso_otsikko,
+          paivamaara: jakso.paivamaara,
+          r_idx: rec.r_idx,
+          vanha_suosittelija: rec.suosittelija,
+          uusi_suosittelija: c.suosittelija,
+          teos: rec.teos,
+        });
+      }
+    });
+  });
+
+  if (corrections.length === 0) {
+    showToast('Ei muutoksia tallennettavaksi.');
+    return;
+  }
+
+  const saveBtn = document.getElementById('save-btn');
+  const originalHtml = saveBtn.innerHTML;
+  saveBtn.disabled = true;
+  saveBtn.innerHTML = '⏳ Tallennetaan ja julkaistaan...';
+
+  // Lähetetään paikalliselle palvelimelle
+  fetch('/tallenna', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(corrections)
+  })
+  .then(async response => {
+    const data = await response.json();
+    if (!response.ok) {
+      throw new Error(data.message || data.error || 'Palvelinvirhe');
+    }
+    return data;
+  })
+  .then(data => {
+    showToast('✅ Korjaukset julkaistu onnistuneesti!', 5000);
+    console.log('Server response:', data);
+    setTimeout(() => location.reload(), 2000);
+  })
+  .catch(err => {
+    console.error('Save failed:', err);
+    // Yritetään tunnistaa onko kyseessä verkkovirhe (palvelin alhaalla) vai koodivirhe
+    const msg = err.message === 'Failed to fetch' 
+      ? '❌ Palvelin ei vastaa. Käynnistä palvelin.py uudelleen.' 
+      : `❌ Virhe: ${err.message}`;
+    
+    showToast(msg, 7000);
+    
+    // Fallback: tarjotaan latausta
+    const blob = new Blob([JSON.stringify(corrections, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'korjaukset.json';
+    a.click();
+    URL.revokeObjectURL(url);
+  })
+  .finally(() => {
+    saveBtn.disabled = false;
+    saveBtn.innerHTML = originalHtml;
+  });
+}
+
+// =====================================================
+// UTILS
+// =====================================================
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;');
+}
+
+function escAttr(str) {
+  return String(str).replace(/'/g,"\\'").replace(/"/g,'\\"');
+}
+
+// =====================================================
+// INIT
+// =====================================================
+loadData();
+</script>
+</body>
+</html>

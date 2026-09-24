@@ -7,11 +7,17 @@ Käyttö:
   python3 sovella_korjaukset.py korjaukset.json
 """
 import json
+import os
 import sys
 import shutil
 from datetime import datetime
 
-SUOSITUKSET = "suositukset.json"
+# Sama skripti ajaa Actionsin (suositukset.json repon juuressa) ja paikallisen
+# putken (kopio pipeline/-kansiossa, UUTISRAPSA_DATAKANSIO asetettuna);
+# oletus säilyttää entisen Actions-käytöksen. Korjaustiedosto tulee argumenttina.
+JUURI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATAKANSIO = os.environ.get("UUTISRAPSA_DATAKANSIO", JUURI)
+SUOSITUKSET = os.path.join(DATAKANSIO, "suositukset.json")
 
 def main():
     if len(sys.argv) < 2:

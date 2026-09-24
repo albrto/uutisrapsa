@@ -374,5 +374,39 @@
       "google_linkki": "https://www.google.com/search?q=Apple+The+First+50+Years+David+Pogue",
       "lisatieto_linkki": "https://www.goodreads.com/book/show/239495879-apple"
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/597272277",
+    "jakso_otsikko": "28.3.2019: Järkyttävä pedofiliarinki paljastui, Muellerin raportti ja persujen vaalivideo",
+    "paivamaara": "28.3.2019",
+    "r_idx": 0,
+    "teos": "Hesburger Ranskan perunat paprikamajoneesilla",
+    "uusi_data": {
+      "teos": "Hesburger ranskanperunat paprikamajoneesilla",
+      "suosittelija": "Aino Frilander",
+      "kuvaus": "Aino Frilander suosittelee Hesburgerin ranskanperunoita paprikamajoneesilla. Keskustelussa todettiin Hesburgerin ranskalaiset parhaimmiksi pikaruokaketjujen tarjonnassa.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "pikaruoka",
+        "ranskalaiset perunat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/597272277",
+    "jakso_otsikko": "28.3.2019: Järkyttävä pedofiliarinki paljastui, Muellerin raportti ja persujen vaalivideo",
+    "paivamaara": "28.3.2019",
+    "r_idx": 0,
+    "teos": "Hesburger ranskanperunat paprikamajoneesilla",
+    "uusi_data": {
+      "teos": "Hesburgerin ranskanperunat paprikamajoneesilla",
+      "suosittelija": "Aino Frilander",
+      "kuvaus": "Aino Frilander suosittelee Hesburgerin ranskanperunoita paprikamajoneesilla. Keskustelussa todettiin Hesburgerin ranskalaiset parhaimmiksi pikaruokaketjujen tarjonnassa.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "pikaruoka",
+        "ranskalaiset perunat"
+      ]
+    }
   }
 ]

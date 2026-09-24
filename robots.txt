@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /transkriptit/
+Disallow: /pipeline/
+Disallow: /scripts/

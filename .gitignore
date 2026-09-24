@@ -1,3 +1,23 @@
 __pycache__/
 *.pyc
 ajon_tulos.json
+
+# Paikallinen pipeline: salaisuudet, venv ja paikalliset datakopiot
+# eivät kuulu gitiin (eivätkä siten Netlifyyn)
+pipeline/venv/
+pipeline/.env
+pipeline/.vscode/
+pipeline/screenshotit/
+pipeline/suositukset.json
+pipeline/suositukset_backup_*.json
+pipeline/historia_json.txt
+pipeline/historia_json_backup_*.txt
+pipeline/korjaukset.json
+pipeline/ohitukset.json
+pipeline/korjausehdotukset.json
+pipeline/supla_audio_urlit.json
+pipeline/ajon_tulos.json
+pipeline/validointidata/epailyttavat.js
+pipeline/validointidata/epailyttavat.json
+.claude/
+pipeline/korjaukset_applied_*.json

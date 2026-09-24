@@ -7,19 +7,28 @@ import json
 from pydub import AudioSegment
 from dotenv import load_dotenv
 import anthropic
-from generoi_validointidata import poimi_osallistujat_rss, TUNNETUT_NIMET
+from nimet import poimi_osallistujat_rss, TUNNETUT_NIMET
 
-load_dotenv(override=True)
+# --- POLUT ---
+# Sama skripti ajaa sekä GitHub Actionsin (data repon juuressa) että
+# paikallisen putken (datakopiot pipeline/-kansiossa). Paikallinen ajo
+# asettaa UUTISRAPSA_DATAKANSIO-ympäristömuuttujan; oletus on repon juuri,
+# jolloin käytös on täsmälleen entinen Actions-käytös.
+JUURI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATAKANSIO = os.environ.get("UUTISRAPSA_DATAKANSIO", JUURI)
+
+# Actionsissa avaimet tulevat ympäristöstä; paikallisesti pipeline/.env:stä
+load_dotenv(os.path.join(DATAKANSIO, ".env"), override=True)
 
 # --- ASETUKSET ---
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
 LATAA_MÄÄRÄ = 421
 LEIKKAUS_SEKUNTIA = 1200  # Viimeiset 20 min
 ALKU_SEKUNTIA = 300  # Ensimmäiset 5 min — esittelykierros voi alkaa vasta ~3 min kohdalla (alun mainokset, aiheet ennen esittelyjä)
-TULOS_TIEDOSTO = "suositukset.json"
-HISTORIA_TIEDOSTO = "historia_json.txt"
-TRANSKRIPTIT_KANSIO = "transkriptit"
-AJON_TULOS_TIEDOSTO = "ajon_tulos.json"
+TULOS_TIEDOSTO = os.path.join(DATAKANSIO, "suositukset.json")
+HISTORIA_TIEDOSTO = os.path.join(DATAKANSIO, "historia_json.txt")
+TRANSKRIPTIT_KANSIO = os.path.join(JUURI, "transkriptit")  # jaettu välimuisti, aina repon juuressa
+AJON_TULOS_TIEDOSTO = os.path.join(DATAKANSIO, "ajon_tulos.json")
 
 # --- API AVAIMET ---
 # Nämä pitää lisätä .env-tiedostoon!
@@ -36,6 +45,13 @@ def tallenna_transkripti(jakso_id, teksti):
     with open(polku, "w", encoding="utf-8") as f:
         f.write(teksti)
     return polku
+
+def lue_transkripti(jakso_id):
+    polku = transkriptin_polku(jakso_id)
+    if os.path.exists(polku):
+        with open(polku, "r", encoding="utf-8") as f:
+            return f.read()
+    return None
 
 def transkriboi_deepgram(audio_path):
     print("Lähetetään ääni Deepgramille transkriptioon (tämä kestää vain pari sekuntia)...")
@@ -160,6 +176,7 @@ SÄÄNNÖT:
 {suosittelija_saanto}
 5. KATEGORIAT: Määritä AINA jokaiselle suositukselle ylätason "paakategoria", jonka on TISMALLEEN YKSI SEURAAVISTA: "kirja", "elokuva", "tv-sarja", "podcast", "artikkeli", "musiikki", "ruoka", "kulttuuri", "urheilu", tai "muu" (jos mikään edeltävistä ei sovi). Keksi lisäksi 1-3 tarkempaa, vapaamuotoista tägiä "kategoriat"-listaan (esim. "teatteri", "historia", "viini").
 6. LINKIT: Lisää Goodreads-linkki (`https://www.goodreads.com/search?q=Nimi`) kirjoille ja IMDb-linkki (`https://www.imdb.com/find/?q=Nimi`) elokuville/sarjoille. Musiikille ja podcasteille lisää suoratoistolinkki "lisatieto_linkki" -kenttään (esim. `https://open.spotify.com/search/Nimi` tai vastaava haku Apple Musiciin, Tidaliin tai Suplaan). Kaikille "google_linkki" -kenttään hakulinkki `https://www.google.com/search?q=Nimi`.
+7. KUVAUS: Kirjoita 1-2 lauseen kuvaus sujuvaa yleiskieltä. Kun viittaat suosituksen antajaan, käytä hänen etunimeään (esim. "Salla pitää sarjaa yhtenä aikamme parhaista") tai koko nimeä, jos jaksossa on toinen samanniminen. Jos suosittelija on "tuntematon", muotoile lause viittaamatta henkilöön. ÄLÄ KOSKAAN käytä kuvauksessa sanoja "puhuja", "Puhuja N" tai "suosittelija" — puhujanumerot ovat vain sisäistä apua suosittelijan päättelyyn.
 
 VASTAUKSEN RAKENNE (palauta taulukko):
 [
@@ -168,7 +185,7 @@ VASTAUKSEN RAKENNE (palauta taulukko):
     "paakategoria": "kirja",
     "google_linkki": "https://www.google.com/...",
     "lisatieto_linkki": "https://www.goodreads.com/...",
-    "kuvaus": "1-2 lausetta...",
+    "kuvaus": "Tuomas suosittelee...",
     "suosittelija": "Tuomas Peltomäki",
     "puhuja_peruste": "Puhuja 2 esittelee itsensä: 'Mun nimi on Tuomas Peltomäki'",
     "kategoriat": ["historia", "elämäkerrat"]
@@ -276,6 +293,12 @@ def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
         if s.get("epavarma_teos"):
             varoitukset.append(
                 f"Epävarma teosnimi: \"{s.get('teos', '?')}\" ({s['suosittelija']}) — tarkista kirjoitusasu, kyseessä voi olla uutuusjulkaisu."
+            )
+        # Transkriptin "Puhuja N:" -merkinnät ovat vain poiminnan apuväline
+        # eivätkä saa näkyä julkaistussa kuvauksessa.
+        if re.search(r"\b(puhuja|suosittelija)\b", s.get("kuvaus", ""), re.IGNORECASE):
+            varoitukset.append(
+                f"Kuvauksessa viitataan \"puhujaan\" tai \"suosittelijaan\" nimen sijaan: \"{s.get('teos', '?')}\" ({s['suosittelija']}) — muotoile kuvaus uudelleen."
             )
         for kentta in SISAISET_KENTAT:
             s.pop(kentta, None)
