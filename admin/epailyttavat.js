@@ -11314,7 +11314,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Marko Junkkari",
         "teos": "Slow Horses (uusi kausi)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -11322,14 +11322,14 @@ window.VALIDATION_DATA = [
           "brittisarja",
           "jännitys"
         ],
-        "kuvaus": "Brittiläinen agenttisarja on saanut uuden kauden, jonka kaksi ensimmäistä jaksoa on jo nähty. Salla pitää sarjaa yhtenä aikamme parhaista ja suosittelee sitä lämpimästi, vaikka kriitikko oli eri mieltä.",
+        "kuvaus": "Brittiläinen agenttisarja on saanut uuden kauden, jonka kaksi ensimmäistä jaksoa on jo nähty. Marko pitää sarjaa yhtenä aikamme parhaista ja suosittelee sitä lämpimästi, vaikka kriitikko oli eri mieltä.",
         "google_linkki": "https://www.google.com/search?q=Slow+Horses+uusi+kausi",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses"
       },
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Suomen lentopallomaajoukkueen EM-ottelu (perjantai klo 22)",
         "paakategoria": "urheilu",
         "kategoriat": [
@@ -11337,14 +11337,14 @@ window.VALIDATION_DATA = [
           "EM-kisat",
           "urheilu"
         ],
-        "kuvaus": "Suomen lentopallomaajoukkue kaatoi Italian ja on nyt neljän parhaan joukossa. Marko suosittelee katsomaan perjantain ottelun kello 22, jossa vastassa on Ranska.",
+        "kuvaus": "Suomen lentopallomaajoukkue kaatoi Italian ja on nyt neljän parhaan joukossa. Salla suosittelee katsomaan perjantain ottelun kello 22, jossa vastassa on Ranska.",
         "google_linkki": "https://www.google.com/search?q=Suomi+lentopallo+EM+puolivälierä+Ranska",
         "lisatieto_linkki": "https://www.google.com/search?q=Suomi+lentopallo+EM+lähetys"
       },
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "A Poet (Un poeta)",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -11352,7 +11352,7 @@ window.VALIDATION_DATA = [
           "draama",
           "Kolumbia"
         ],
-        "kuvaus": "Kolumbialainen elokuva keski-ikäisestä runoilijasta, josta piti tulla jotain suurta, mutta joka joutuu kohtaamaan elämänsä ongelmat. Marko kehuu leffaa hauskaksi, koskettavaksi ja erikoiseksi ja suosittelee käymään katsomassa sen Rakkautta & Anarkiaa -festivaalilla sunnuntaina.",
+        "kuvaus": "Kolumbialainen elokuva keski-ikäisestä runoilijasta, josta piti tulla jotain suurta, mutta joka joutuu kohtaamaan elämänsä ongelmat. Salla kehuu leffaa hauskaksi, koskettavaksi ja erikoiseksi ja suosittelee käymään katsomassa sen Rakkautta & Anarkiaa -festivaalilla sunnuntaina.",
         "google_linkki": "https://www.google.com/search?q=A+Poet+Un+poeta+kolumbialainen+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=A%20Poet%20Un%20poeta"
       },
