@@ -8872,7 +8872,7 @@
         "google_linkki": "https://www.google.com/search?q=Fuska+ravintola+Oulu",
         "lisatieto_linkki": "https://www.google.com/search?q=Fuska+ravintola+Oulu",
         "kuvaus": "Bangladeshilainen ravintola Oulussa, joka tarjoaa ainutlaatuisia makuelämyksiä. Suositellaan myös ruoan ottamista mukaan keittorasioissa.",
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "ravintola",
           "bangladeshilainen ruoka",
@@ -8880,11 +8880,11 @@
         ]
       },
       {
-        "teos": "Succession-podcast (Yle)",
+        "teos": "Succession-sessio",
         "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Succession+podcast+Yle+Elijonora+Riihinen+Hilla+Kyrkkö",
-        "lisatieto_linkki": "https://supla.fi/search?q=Succession+Elijonora+Riihinen+Hilla+Kyrkkö",
-        "kuvaus": "Elijonora Riihisen ja Hilla Kyrkön Hesarille tekemä podcast, jossa puretaan Succession-sarjan jaksoja tapahtuma kerrallaan. Löytyy kaikista podcast-alustoista.",
+        "google_linkki": "https://www.google.com/search?q=Succession-sessio+podcast+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.supla.fi/podcast/succession-sessio",
+        "kuvaus": "Helsingin Sanomien kulttuuritoimituksen Hilla Körkön ja Eleonoora Riihisen podcast, jossa puretaan Succession-sarjan jaksoja tapahtuma kerrallaan. Löytyy kaikista podcast-sovelluksista.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "tv-sarja",
@@ -8898,11 +8898,24 @@
         "google_linkki": "https://www.google.com/search?q=Benji+Plants+YouTube",
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Benji+Plants",
         "kuvaus": "Kalifornialainen some-vaikuttaja, joka esittelee huonekasvejaan YouTubessa, Instagramissa ja TikTokissa. Erityisesti suositellaan videota, jossa hän esittelee koko asuntonsa lukuisine kasveineen.",
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "huonekasvit",
           "some-vaikuttaja",
           "sisustus"
+        ]
+      },
+      {
+        "teos": "A-studio: Matti Vanhanen vieraana",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=A-studio+Matti+Vanhanen+huhtikuu+2023",
+        "lisatieto_linkki": "https://www.google.com/search?q=A-studio+Matti+Vanhanen+Yle+Areena",
+        "kuvaus": "Ylen A-studion vaalien jälkeinen jakso, jossa entinen pääministeri Matti Vanhanen kannusti kokoomusta ja perussuomalaisia muodostamaan hallituksen ja totesi, ettei keskusta ole estämässä oikeistohallituksen syntymistä. Katsottavissa Yle Areenassa.",
+        "suosittelija": "Anni Keski-Heikkilä",
+        "kategoriat": [
+          "politiikka",
+          "ajankohtaisohjelma",
+          "Yle Areena"
         ]
       }
     ]
@@ -8932,16 +8945,29 @@
         ]
       },
       {
-        "teos": "Succession-podcast (Helsingin Sanomat)",
+        "teos": "Succession-sessio",
         "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Succession+podcast+Helsingin+Sanomat+Hilla+K%C3%B6kk%C3%B6+Eleonora+Riihinen",
-        "lisatieto_linkki": "https://open.spotify.com/search/Succession%20podcast%20Helsingin%20Sanomat",
-        "kuvaus": "Helsingin Sanomien kulttuuritoimituksen Hilla Kökkö ja Eleonora Riihinen tekevät jakso jaksolta etenevää podcast-sarjaa HBO:n Succession-sarjasta. Uusi jakso ilmestyy heti, kun vastaava sarjan jakso on katsottavissa.",
-        "suosittelija": "Marko Junkkari",
+        "google_linkki": "https://www.google.com/search?q=Succession-sessio+podcast+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.supla.fi/podcast/succession-sessio",
+        "kuvaus": "Helsingin Sanomien kulttuuritoimituksen Hilla Körkön ja Eleonoora Riihisen podcast, joka käy HBO:n Succession-sarjan läpi jakso jaksolta. Uusi podcast-jakso ilmestyy heti, kun vastaava sarjan jakso on katsottavissa.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "tv-sarja",
           "kulttuuri",
           "viihde"
+        ]
+      },
+      {
+        "teos": "Succession (kausi 4)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Succession+HBO+kausi+4",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession",
+        "kuvaus": "HBO:n draamasarja mediamogul Logan Royn perheen valtataistelusta. Sarjan neljäs ja viimeinen kausi jatkuu uusin jaksoin maanantaisin.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "draama",
+          "perhedraama",
+          "media"
         ]
       }
     ]
