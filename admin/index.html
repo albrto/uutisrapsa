@@ -1055,6 +1055,7 @@ async function loadFullData() {
         kuvaus: rec.kuvaus || '',
         google_linkki: rec.google_linkki || '',
         lisatieto_linkki: rec.lisatieto_linkki || '',
+        alkupera: rec.alkupera || '',
       }));
       return {
         j_idx: allData.length - j_idx, // vanhin = 1, uusin = N
@@ -1396,8 +1397,8 @@ function renderRec(jakso, rec) {
     </div>
     <div>
       <label class="player-label" style="font-size:0.6rem">PÄÄKATEGORIA</label>
-      <select class="custom-input" id="edit-paak-${jakso.jakso_id}-${rec.r_idx}" onchange="markEdited('${jakso.jakso_id}',${rec.r_idx})">
-        ${['kirja', 'elokuva', 'tv-sarja', 'podcast', 'artikkeli', 'musiikki', 'ruoka', 'kulttuuri', 'urheilu', 'muu'].map(cat => 
+      <select class="custom-input" id="edit-paak-${jakso.jakso_id}-${rec.r_idx}" onchange="markEdited('${jakso.jakso_id}',${rec.r_idx}); naytaAlkupera('edit', '${jakso.jakso_id}-${rec.r_idx}')">
+        ${PAAKATEGORIAT.map(cat =>
           `<option value="${cat}" ${currentRec.paakategoria === cat ? 'selected' : ''}>${cat}</option>`
         ).join('')}
       </select>
@@ -1406,6 +1407,7 @@ function renderRec(jakso, rec) {
       <label class="player-label" style="font-size:0.6rem">TÄGIT (pilkulla erotettu)</label>
       <input class="custom-input" type="text" id="edit-tagit-${jakso.jakso_id}-${rec.r_idx}" value="${escAttr((currentRec.kategoriat || []).join(', '))}" oninput="markEdited('${jakso.jakso_id}',${rec.r_idx})">
     </div>
+    ${alkuperaKentta('edit', `${jakso.jakso_id}-${rec.r_idx}`, currentRec, `markEdited('${jakso.jakso_id}',${rec.r_idx})`)}
   </div>
 
   <div class="rec-actions" style="margin-top: 12px; justify-content: flex-end;">
@@ -1535,7 +1537,9 @@ function confirmCorr(jakso_id, r_idx) {
     paakategoria: document.getElementById(`edit-paak-${jakso_id}-${r_idx}`).value,
     kategoriat: document.getElementById(`edit-tagit-${jakso_id}-${r_idx}`).value.split(',').map(s => s.trim()).filter(s => s)
   };
-  
+  const alkupera = document.getElementById(`edit-alkupera-${jakso_id}-${r_idx}`).value;
+  if (uusi_data.paakategoria === 'podcast' && alkupera) uusi_data.alkupera = alkupera;
+
   setCorr(jakso_id, r_idx, { is_edited: true, uusi_data: uusi_data });
   refreshRec(jakso_id, r_idx);
   refreshCardHeader(jakso_id);
@@ -1559,6 +1563,32 @@ function undoCorr(jakso_id, r_idx) {
 // LISÄÄ SUOSITUS
 // =====================================================
 const PAAKATEGORIAT = ['kirja', 'elokuva', 'tv-sarja', 'podcast', 'artikkeli', 'musiikki', 'ruoka', 'kulttuuri', 'urheilu', 'muu'];
+
+// Podcastin alkuperä ohjaa julkisen sivun kuuntelulinkkejä (app.js podcastLinkit)
+const ALKUPERAT = [
+  ['', 'Ei valittu (Spotify + Apple)'],
+  ['yle', 'Yle (Areena)'],
+  ['hs', 'HS (HS + Supla)'],
+  ['kotimainen', 'Muu kotimainen (Spotify + Apple + Supla)'],
+  ['podme', 'Podme (Spotify + Apple)'],
+  ['ulkomainen', 'Ulkomainen (Spotify + Apple)'],
+];
+
+// Näkyy vain, kun pääkategoria on podcast
+function alkuperaKentta(etuliite, id, rec, onchange) {
+  return `
+    <div id="${etuliite}-alkupera-rivi-${id}" style="grid-column: span 2${rec.paakategoria === 'podcast' ? '' : '; display:none'}">
+      <label class="player-label" style="font-size:0.6rem">PODCASTIN ALKUPERÄ (kuuntelulinkit)</label>
+      <select class="custom-input" style="width:100%" id="${etuliite}-alkupera-${id}"${onchange ? ` onchange="${onchange}"` : ''}>
+        ${ALKUPERAT.map(([arvo, nimi]) => `<option value="${arvo}"${(rec.alkupera || '') === arvo ? ' selected' : ''}>${nimi}</option>`).join('')}
+      </select>
+    </div>`;
+}
+
+function naytaAlkupera(etuliite, id) {
+  const podcast = document.getElementById(`${etuliite}-paak-${id}`).value === 'podcast';
+  document.getElementById(`${etuliite}-alkupera-rivi-${id}`).style.display = podcast ? '' : 'none';
+}
 
 function hakulinkki(teksti) {
   return 'https://www.google.com/search?q=' + encodeURIComponent(teksti).replace(/%20/g, '+');
@@ -1611,7 +1641,7 @@ function renderNewRecs(jakso) {
       </div>
       <div>
         <label class="player-label" style="font-size:0.6rem">PÄÄKATEGORIA</label>
-        <select class="custom-input" style="width:100%" id="add-paak-${id}">
+        <select class="custom-input" style="width:100%" id="add-paak-${id}" onchange="naytaAlkupera('add', '${id}')">
           ${PAAKATEGORIAT.map(cat => `<option value="${cat}"${cat === 'muu' ? ' selected' : ''}>${cat}</option>`).join('')}
         </select>
       </div>
@@ -1619,6 +1649,7 @@ function renderNewRecs(jakso) {
         <label class="player-label" style="font-size:0.6rem">TÄGIT (pilkulla erotettu)</label>
         <input class="custom-input" style="width:100%" type="text" id="add-tagit-${id}">
       </div>
+      ${alkuperaKentta('add', id, { paakategoria: 'muu' })}
       <div style="grid-column: span 2">
         <label class="player-label" style="font-size:0.6rem">LISÄTIETOLINKKI (valinnainen – oletuksena Google-haku teoksen nimellä)</label>
         <input class="custom-input" style="width:100%" type="url" id="add-linkki-${id}" placeholder="https://...">
@@ -1651,19 +1682,17 @@ function lisaaUusi(jakso_id) {
     return;
   }
   const google = hakulinkki(teos);
-  NEW_RECS.push({
-    tmp_id: ++newRecSeq,
-    jakso_id,
-    uusi_data: {
-      teos,
-      suosittelija,
-      kuvaus: arvo('kuvaus'),
-      paakategoria: arvo('paak'),
-      kategoriat: arvo('tagit').split(',').map(s => s.trim()).filter(s => s),
-      google_linkki: google,
-      lisatieto_linkki: arvo('linkki'),
-    }
-  });
+  const uusi_data = {
+    teos,
+    suosittelija,
+    kuvaus: arvo('kuvaus'),
+    paakategoria: arvo('paak'),
+    kategoriat: arvo('tagit').split(',').map(s => s.trim()).filter(s => s),
+    google_linkki: google,
+    lisatieto_linkki: arvo('linkki'),
+  };
+  if (uusi_data.paakategoria === 'podcast' && arvo('alkupera')) uusi_data.alkupera = arvo('alkupera');
+  NEW_RECS.push({ tmp_id: ++newRecSeq, jakso_id, uusi_data });
   updateSaveBtn();
   refreshCard(jakso_id);
   showToast(`➕ Lisätty tallennettavaksi: ${teos}`);
