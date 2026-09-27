@@ -8608,7 +8608,10 @@
           "haastattelu",
           "HS"
         ],
-        "alkupera": "hs"
+        "alkupera": "hs",
+        "lisalinkit": [
+          "https://www.hs.fi/nyt/art-2000009587257.html"
+        ]
       },
       {
         "teos": "Rocky (Virus-teatteri)",

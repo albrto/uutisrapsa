@@ -322,24 +322,30 @@ const PODCASTIEN_PALVELUT = {
 
 function podcastLinkit(rec) {
   const palvelut = PODCASTIEN_PALVELUT[rec.alkupera] || ['spotify', 'apple'];
-  const lisa = rec.lisatieto_linkki || '';
-  let lisaHost = '', lisaOnHaku = true;
-  try {
-    const u = new URL(lisa);
-    lisaHost = u.hostname.toLowerCase().replace(/^www\./, '');
-    lisaOnHaku = /search|haku|hae/i.test(u.pathname + u.search);
-  } catch {}
-  const samaPalvelu = osoite => lisaHost === osoite || lisaHost.endsWith('.' + osoite);
+  // Suorat linkit: lisätietolinkki + valinnainen "lisalinkit"-lista (esim. kun
+  // sarjalla on sekä Supla-sivu että HS:n esittelyartikkeli)
+  const suorat = [rec.lisatieto_linkki, ...(rec.lisalinkit || [])].flatMap(osoite => {
+    try {
+      const u = new URL(osoite);
+      return [{
+        osoite,
+        host: u.hostname.toLowerCase().replace(/^www\./, ''),
+        haku: /search|haku|hae/i.test(u.pathname + u.search),
+      }];
+    } catch { return []; }
+  });
+  const samaPalvelu = (l, osoite) => l.host === osoite || l.host.endsWith('.' + osoite);
   const q = encodeURIComponent(podcastHakusana(rec));
 
   const linkit = palvelut.map(p => {
     const [nimi, osoite, haku] = PODCASTPALVELUT[p];
-    return [nimi, samaPalvelu(osoite) && !lisaOnHaku ? lisa : haku(q)];
+    const suora = suorat.find(l => samaPalvelu(l, osoite) && !l.haku);
+    return [nimi, suora ? suora.osoite : haku(q)];
   });
-  // Muun palvelun lisätietolinkki (esim. sarjan oma sivu tai YouTube) jää mukaan
-  const tunnettu = Object.values(PODCASTPALVELUT).some(([, osoite]) => samaPalvelu(osoite));
-  if (lisaHost && !tunnettu && !onGoogleLinkki(lisa)) {
-    linkit.push([linkinNimi(lisa), lisa]);
+  // Muun palvelun linkki (esim. sarjan oma sivu tai YouTube) jää mukaan
+  for (const l of suorat) {
+    const tunnettu = Object.values(PODCASTPALVELUT).some(([, osoite]) => samaPalvelu(l, osoite));
+    if (!tunnettu && !onGoogleLinkki(l.osoite)) linkit.push([linkinNimi(l.osoite), l.osoite]);
   }
   return linkit;
 }
