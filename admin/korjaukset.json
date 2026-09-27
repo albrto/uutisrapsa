@@ -500,5 +500,25 @@
         "Yhdysvallat"
       ]
     }
+  },
+  {
+    "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
+    "jakso_otsikko": "Velkajarru–laaja oppimäärä, Gazaan aselepo, porvari-Suomi",
+    "paivamaara": "15.10.2025",
+    "r_idx": 0,
+    "teos": "Teemu Luukan kirja (hallituksen tapahtumahistoria 2024)",
+    "uusi_data": {
+      "teos": "Teemu Luukan kirja (hallituksen tapahtumahistoria 2024)",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Teemu+Luukka+kirja+hallitus+2024",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Teemu+Luukka",
+      "kuvaus": "Tuomas suosittelee Teemu Luukan kirjoittamaa kirjaa, joka käy yksityiskohtaisesti läpi Orpo-Purra-hallituksen toimintaa ja analysoi Suomen 2000-luvun oikeistolaistumista.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "politiikka",
+        "historia",
+        "ajankohtainen"
+      ]
+    }
   }
 ]
