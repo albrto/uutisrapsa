@@ -480,5 +480,23 @@
         "seikkailu"
       ]
     }
+  },
+  {
+    "jakso_id": "ef7ee644-0c61-4674-b551-b35a5aa7c52f",
+    "jakso_otsikko": "Hallitushimo, Anneli Auer, nepotismi",
+    "paivamaara": "30.10.2025",
+    "r_idx": 2,
+    "teos": "Ultra – Rachel Maddow (podcast)",
+    "uusi_data": {
+      "teos": "Ultra – Rachel Maddow (podcast)",
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "MSNBC:n Rachel Maddowin podcast, jonka toinen kausi sukeltaa amerikkalaisen äärioikeiston ja natsisympatioiden historiaan 1940–50-lukujen Yhdysvalloissa. Ajatuksia herättävä ja tässä ajassa erittäin ajankohtainen.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "historia",
+        "politiikka",
+        "Yhdysvallat"
+      ]
+    }
   }
 ]
