@@ -462,5 +462,23 @@
         "Kolumbia"
       ]
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1225590673",
+    "jakso_otsikko": "3.3.2022: Ukrainan sota ja ilmasto",
+    "paivamaara": "3.3.2022",
+    "r_idx": 4,
+    "teos": "Kaukopartiohiihto",
+    "uusi_data": {
+      "teos": "Kaukopartiohiihto",
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Alma hiihti Kouvolassa yön yli 75 kilometrin kaukopartiohiihdon \"pikamatkan\" – illalla puoli kahdeksalta liikkeelle, moottorikelkkareittejä ja kompassisuuntaa pitkin metsän pimeydessä, maaliin seuraavana päivänä ennen puoltapäivää. Vaativa ja elämyksellinen irtiotto arjesta.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "retkeily",
+        "hiihto",
+        "seikkailu"
+      ]
+    }
   }
 ]

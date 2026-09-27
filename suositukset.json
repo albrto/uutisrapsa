@@ -11586,6 +11586,32 @@
           "hiihto",
           "seikkailu"
         ]
+      },
+      {
+        "teos": "Anjalankosken ABC",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=ABC+Anjalankoski+Kouvola",
+        "lisatieto_linkki": "https://www.google.com/search?q=ABC+Anjalankoski+Kouvola",
+        "kuvaus": "Alman vitsisuositus: kaukopartiohiihdon ensimmäinen lämmin taukopaikka noin 50 kilometrin jälkeen. Ryhmä ehti paikalle juuri kuuden avauksen aikaan, joten pihalle ei onneksi tarvinnut jäätyä. Marko kiistää koko paikan olemassaolon – hänen mukaansa kyseessä on Keltakankaan ABC.",
+        "suosittelija": "Alma Onali",
+        "kategoriat": [
+          "huoltoasema",
+          "Kouvola",
+          "vitsi"
+        ]
+      },
+      {
+        "teos": "Ufojen tarkkailu",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla",
+        "lisatieto_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla",
+        "kuvaus": "Alman vitsisuositus: kaukopartiohiihdon aamuyönä taivaalla lipui äänettömästi pitkulainen, kuin Hayao Miyazakin elokuvasta tullut alus, jonka kaikki kolme hiihtäjää näkivät. Ufo paljastui myöhemmin samana iltana Kaliforniasta laukaistuiksi Starlink-satelliiteiksi.",
+        "suosittelija": "Alma Onali",
+        "kategoriat": [
+          "taivas",
+          "avaruus",
+          "vitsi"
+        ]
       }
     ]
   },
