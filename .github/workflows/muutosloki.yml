@@ -1,0 +1,70 @@
+name: Muutosloki
+
+# Kirjaa muutokset muutoslokiin (muutokset.html) ja nostaa footerin versiota
+# heti, kun mainiin pushataan käyttäjälle näkyvä muutos – ei vasta seuraavassa
+# viikoittaisessa automaatioajossa. Käyttää samaa generaattoria kuin
+# automaatio.yml:n askel 5 (scripts/generoi_muutosloki.py), joka lukee commitit
+# edelliseen "Automaatio:"-committiin asti. Tämän työnkulun oma commit alkaa
+# "Automaatio:", joten sama muutos ei kirjaudu kahdesti, ja GITHUB_TOKENilla
+# tehty push ei käynnistä työnkulkuja uudelleen (ei silmukkaa).
+
+on:
+  push:
+    branches:
+      - main
+    # Pelkät data- ja dokumentaatiopushit eivät tee lokimerkintää. Korjaukset
+    # (admin/) kirjautuvat automaatio.yml:n ajossa, jonka ne käynnistävät.
+    paths-ignore:
+      - 'suositukset*.json'
+      - 'historia_json.txt'
+      - 'admin/**'
+      - 'transkriptit/**'
+      - 'muutokset.html'
+      - 'pipeline/**'
+      - '**.md'
+  workflow_dispatch:
+
+# Sama ryhmä kuin automaatio.yml:ssä: mainiin kirjoittavat ajot jonoon,
+# jotteivät ne pushaa toistensa päälle
+concurrency:
+  group: main-kirjoitus
+  cancel-in-progress: false
+
+jobs:
+  paivita-muutosloki:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Lataa repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+
+      - name: Asenna Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Asenna riippuvuudet
+        run: pip install anthropic
+
+      - name: Generoi muutoslokimerkintä
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generoi_muutosloki.py
+
+      - name: Commitoi ja pushaa (Netlify julkaisee)
+        run: |
+          git config --global user.name 'GitHub Actions Automaatio'
+          git config --global user.email 'actions@github.com'
+          git add muutokset.html index.html
+          if git diff --staged --quiet; then
+            echo "Ei uusia muutoksia lokiin."
+          else
+            git commit -m "Automaatio: Päivitetty muutosloki"
+            git pull --rebase
+            git push
+          fi

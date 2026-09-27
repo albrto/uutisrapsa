@@ -20,6 +20,11 @@ on:
   workflow_dispatch:
     # Mahdollistaa käsin ajamisen GitHubin web-käyttöliittymästä
 
+# Sama ryhmä kuin muutosloki.yml:ssä: mainiin kirjoittavat ajot jonoon
+concurrency:
+  group: main-kirjoitus
+  cancel-in-progress: false
+
 jobs:
   run-automation:
     runs-on: ubuntu-latest

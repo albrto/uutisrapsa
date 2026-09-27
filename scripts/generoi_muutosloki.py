@@ -141,10 +141,9 @@ def paivita_html(uusi_teksti):
     nyt = datetime.now()
     nykyinen_pvm = f"{nyt.day}. {kuukaudet[nyt.month]} {nyt.year}"
     
-    # Tarkistetaan, onko tälle päivälle jo tehty automaattipäivitys (vältetään tuplat)
-    if f'<div class="change-date">{nykyinen_pvm}</div>' in sisalto:
-        print(f"⚠️ Muutosloki on jo päivitetty tänään ({nykyinen_pvm}). Hypätään yli.")
-        return False
+    # Samalle päivälle saa tulla useampi merkintä: muutosloki.yml ajaa tämän
+    # jokaisesta mainin koodipushista. Tuplat estää hae_git_historia, joka
+    # pysähtyy edelliseen "Automaatio:"-committiin (eli edelliseen lokiajoon).
 
     uusi_html_lohkare = f'''
     <div class="change-item">

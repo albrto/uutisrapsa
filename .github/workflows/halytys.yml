@@ -1,14 +1,14 @@
 name: Automaatiohälytys
 
 # Lähettää sähköposti-ilmoituksen (Netlify Forms, sama kanava kuin
-# laheta_ilmoitus.py) kun automaatioajo tai tuoreusvahti päättyy virheeseen,
+# laheta_ilmoitus.py) kun automaatioajo, tuoreusvahti tai muutosloki päättyy virheeseen,
 # peruuntuu tai osuu aikakattoon. workflow_run-triggeri kattaa myös
 # timeout-tapaukset, joita ajon sisäinen if: failure() -askel ei kata.
 # Käsin ajettuna (workflow_dispatch) lähettää testihälytyksen.
 
 on:
   workflow_run:
-    workflows: ["Uutisraportti Automaatio", "Tuoreusvahti"]
+    workflows: ["Uutisraportti Automaatio", "Tuoreusvahti", "Muutosloki"]
     types: [completed]
   workflow_dispatch:
 
