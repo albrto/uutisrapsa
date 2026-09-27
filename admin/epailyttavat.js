@@ -6157,8 +6157,8 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Jussi Niemeläinen",
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Ultra – Rachel Maddow (podcast)",
         "paakategoria": "podcast",
         "kategoriat": [
