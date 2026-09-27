@@ -2602,19 +2602,6 @@
         ]
       },
       {
-        "teos": "Vaino",
-        "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Jenni+Räinä+Vaino+kirja",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jenni+Räinä+Vaino",
-        "kuvaus": "Jenni Räinän romaani, joka kuvaa isonvihan aikaa 1700-luvulla Pohjanmaalla pakenevien lasten näkökulmasta. Painostava mutta vetävä, lähes elokuvakäsikirjoituksen tasoinen teos.",
-        "suosittelija": "Anna-Sofia Berner",
-        "kategoriat": [
-          "historiallinen romaani",
-          "Suomi",
-          "isonviha"
-        ]
-      },
-      {
         "teos": "E-kirjasto -sovellus",
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=e-kirjasto+sovellus+kansalliskirjasto",
@@ -2638,6 +2625,19 @@
           "muistelmat",
           "New York",
           "ravintolat"
+        ]
+      },
+      {
+        "teos": "Vaino",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Jenni+Räinä+Vaino+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jenni+Räinä+Vaino",
+        "kuvaus": "Jenni Räinän romaani, joka kuvaa isonvihan aikaa 1700-luvulla Pohjanmaalla pakenevien lasten näkökulmasta. Painostava mutta vetävä, lähes elokuvakäsikirjoituksen tasoinen teos.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "historiallinen romaani",
+          "Suomi",
+          "isonviha"
         ]
       },
       {
