@@ -1172,10 +1172,23 @@ function updateStats() {
   document.getElementById('progress-text').textContent = `${resolvedRecs()} / ${totalRecs()}`;
 }
 
-function updateSaveBtn() {
-  const n = Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.is_edited).length + NEW_RECS.length;
-  document.getElementById('save-count').textContent = n;
+function tallentamattomia() {
+  return Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.is_edited).length + NEW_RECS.length;
 }
+
+function updateSaveBtn() {
+  document.getElementById('save-count').textContent = tallentamattomia();
+}
+
+// Tallentamattomat muutokset ovat vain selaimen muistissa → varoitus ennen sivulta
+// poistumista (27.9.2026 korjaus jäi kerran tallentamatta). Onnistunut tallennus
+// lataa sivun uudelleen, joten silloin varoitus ohitetaan.
+let tallennusValmis = false;
+window.addEventListener('beforeunload', e => {
+  if (tallennusValmis || tallentamattomia() === 0) return;
+  e.preventDefault();
+  e.returnValue = '';  // vanhemmat selaimet (mm. Safari) vaativat tämän
+});
 
 function formatTime(sek) {
   const h = Math.floor(sek / 3600);
@@ -1859,6 +1872,7 @@ function saveChanges() {
   })
   .then(data => {
     showToast('✅ Korjaukset tallennettu GitHubiin (viive n. 1min ennen kuin näkyy Netlifyssä)!', 5000);
+    tallennusValmis = true;
     setTimeout(() => location.reload(), 3000);
   })
   .catch(err => {
