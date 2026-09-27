@@ -341,7 +341,7 @@
         "teos": "Menetetyt miljardit",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Fortum",
-        "lisatieto_linkki": "https://open.spotify.com/search/Menetetyt%20miljardit",
+        "lisatieto_linkki": "https://www.hs.fi/kuuntele/menetetyt-miljardit/",
         "kuvaus": "Helsingin Sanomien podcast, joka kertoo Fortumin seikkailusta Venäjällä ja käsittelee vallankäyttöä sekä vastuuta. Salla Vuorikosken mukaan todella hyvä ja huolellisesti tehty teos.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
@@ -349,7 +349,7 @@
           "valta",
           "tutkiva journalismi"
         ],
-        "alkupera": "hs"
+        "alkupera": "hs-vain"
       },
       {
         "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
@@ -1567,7 +1567,7 @@
           "tutkiva journalismi",
           "Suomi"
         ],
-        "alkupera": "hs"
+        "alkupera": "hs-vain"
       }
     ]
   },

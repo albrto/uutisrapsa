@@ -315,6 +315,8 @@ const PODCASTPALVELUT = {
 const PODCASTIEN_PALVELUT = {
   yle: ['areena'],
   hs: ['hs', 'supla'],
+  // HS:n erikoissarjat (esim. Menetetyt miljardit), joita ei ole edes Suplassa
+  'hs-vain': ['hs'],
   kotimainen: ['spotify', 'apple', 'supla'],
 };
 
