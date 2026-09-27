@@ -2613,6 +2613,45 @@
           "Suomi",
           "isonviha"
         ]
+      },
+      {
+        "teos": "E-kirjasto -sovellus",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=e-kirjasto+sovellus+kansalliskirjasto",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas suosittelee ilmaista E-kirjasto-sovellusta, jonka avulla voi lainata ja kuunnella äänikirjoja sekä lukea e-kirjoja ja lehtiä kirjastokortilla ilman maksullista äänikirjapalvelua.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "kirjastopalvelu",
+          "äänikirjat",
+          "sovellus"
+        ]
+      },
+      {
+        "teos": "New Yorkin uhmatar",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=New+Yorkin+uhmatar+Teemu+Muhonen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=New+Yorkin+uhmatar",
+        "kuvaus": "Anna-Sofia mainitsee lämpimästi Teemu Luukan aiemman kirjan, joka kertoo amerikansuomalaisesta baarinpitäjästä, jonka Teemu oli itsekin tuntenut työskennellessään Harlemissa baarimikkona 1980-luvulla.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "muistelmat",
+          "New York",
+          "ravintolat"
+        ]
+      },
+      {
+        "teos": "Pohjoismaisten pörssiyritysten animaatiovideot",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas kertoo tehneensä tilastotieteen kurssin ohessa animaatiovideoita pohjoismaisten pörssiyritysten arvostuksen kehityksestä ja suosittelee käymään katsomassa niitä hänen omissa somekanavissaan.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "data-analyysi",
+          "talous",
+          "koodaus"
+        ]
       }
     ]
   },

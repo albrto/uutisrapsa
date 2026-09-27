@@ -22088,6 +22088,57 @@
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jenni+Räinä+Vaino",
         "alkupera": "",
         "lisalinkit": []
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "E-kirjasto -sovellus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "kirjastopalvelu",
+          "äänikirjat",
+          "sovellus"
+        ],
+        "kuvaus": "Tuomas suosittelee ilmaista E-kirjasto-sovellusta, jonka avulla voi lainata ja kuunnella äänikirjoja sekä lukea e-kirjoja ja lehtiä kirjastokortilla ilman maksullista äänikirjapalvelua.",
+        "google_linkki": "https://www.google.com/search?q=e-kirjasto+sovellus+kansalliskirjasto",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "New Yorkin uhmatar",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "New York",
+          "ravintolat"
+        ],
+        "kuvaus": "Anna-Sofia mainitsee lämpimästi Teemu Luukan aiemman kirjan, joka kertoo amerikansuomalaisesta baarinpitäjästä, jonka Teemu oli itsekin tuntenut työskennellessään Harlemissa baarimikkona 1980-luvulla.",
+        "google_linkki": "https://www.google.com/search?q=New+Yorkin+uhmatar+Teemu+Muhonen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=New+Yorkin+uhmatar",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Pohjoismaisten pörssiyritysten animaatiovideot",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "data-analyysi",
+          "talous",
+          "koodaus"
+        ],
+        "kuvaus": "Tuomas kertoo tehneensä tilastotieteen kurssin ohessa animaatiovideoita pohjoismaisten pörssiyritysten arvostuksen kehityksestä ja suosittelee käymään katsomassa niitä hänen omissa somekanavissaan.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": []
       }
     ]
   },
@@ -23432,7 +23483,9 @@
         "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Fortum",
         "lisatieto_linkki": "https://www.hs.fi/kuuntele/menetetyt-miljardit/",
         "alkupera": "hs-vain",
-        "lisalinkit": []
+        "lisalinkit": [
+          "https://www.hs.fi/visio/art-2000012191398.html"
+        ]
       },
       {
         "r_idx": 6,
