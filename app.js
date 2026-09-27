@@ -211,6 +211,9 @@ function renderCard(rec) {
     else if (url.includes('spotify')) linkLabel = 'Spotify';
     else if (url.includes('apple')) linkLabel = 'Apple';
     else if (url.includes('tidal')) linkLabel = 'Tidal';
+    else if (url.includes('supla.fi')) linkLabel = 'Supla';
+    else if (url.includes('areena.yle.fi')) linkLabel = 'Yle Areena';
+    else if (url.includes('youtube.com')) linkLabel = 'YouTube';
     links += `<a href="${escapeHtml(rec.lisatieto_linkki)}" target="_blank" class="rec-link">${linkLabel}</a>`;
   }
   
