@@ -739,6 +739,7 @@ a:hover {
 
 .rec-links {
   display: flex;
+  flex-wrap: wrap;
   gap: 8px;
 }
 

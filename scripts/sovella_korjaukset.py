@@ -67,7 +67,7 @@ def main():
                 virhe += 1
                 continue
             uusi_data = korj["uusi_data"]
-            suositukset.append({
+            uusi = {
                 "teos": uusi_data["teos"],
                 "paakategoria": uusi_data.get("paakategoria", "muu"),
                 "google_linkki": uusi_data.get("google_linkki", ""),
@@ -75,7 +75,11 @@ def main():
                 "kuvaus": uusi_data.get("kuvaus", ""),
                 "suosittelija": uusi_data.get("suosittelija", "tuntematon"),
                 "kategoriat": uusi_data.get("kategoriat", []),
-            })
+            }
+            # Podcastin alkuperä (yle/kotimainen/ulkomainen) ohjaa kuuntelulinkkejä
+            if uusi_data.get("alkupera"):
+                uusi["alkupera"] = uusi_data["alkupera"]
+            suositukset.append(uusi)
             print(f"  ➕ {korj.get('paivamaara', '?')}: Lisätty uusi suositus: \"{uusi_data['teos']}\"")
             ok += 1
             continue

@@ -203,8 +203,12 @@ function renderCard(rec) {
   if (rec.google_linkki) {
     links += `<a href="${escapeHtml(rec.google_linkki)}" target="_blank" class="rec-link">Google</a>`;
   }
+  if (rec.paakategoria === 'podcast') {
+    for (const [nimi, url] of podcastLinkit(rec)) {
+      links += `<a href="${escapeHtml(url)}" target="_blank" class="rec-link">${nimi}</a>`;
+    }
   // Google-haku lisätietolinkkinä olisi tupla Google-linkin kanssa
-  if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki && !onGoogleLinkki(rec.lisatieto_linkki)) {
+  } else if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki && !onGoogleLinkki(rec.lisatieto_linkki)) {
     const linkLabel = linkinNimi(rec.lisatieto_linkki);
     links += `<a href="${escapeHtml(rec.lisatieto_linkki)}" target="_blank" class="rec-link">${linkLabel}</a>`;
   }
@@ -294,6 +298,59 @@ const LINKKIEN_NIMET = [
   ['ifixit.com', 'iFixit'],
   ['myfitnesspal.com', 'MyFitnessPal'],
 ];
+
+// Podcastien kuuntelulinkit alkuperän mukaan ("alkupera"-kenttä):
+// Ylen podcastit ovat vain Areenassa, kotimaiset myös Suplassa, kaikki muut
+// Spotifyssa ja Apple Podcastsissa. Lisätietolinkki korvaa saman palvelun
+// haun, jos se osoittaa suoraan sarjan sivulle (ei hakusivulle).
+const PODCASTPALVELUT = {
+  areena: ['Yle Areena', 'areena.yle.fi', q => `https://areena.yle.fi/hae?q=${q}&service=radio`],
+  spotify: ['Spotify', 'spotify.com', q => `https://open.spotify.com/search/${q}`],
+  apple: ['Apple Podcasts', 'apple.com', q => `https://podcasts.apple.com/fi/search?term=${q}`],
+  supla: ['Supla', 'supla.fi', q => `https://www.supla.fi/haku?search_term=${q}`],
+};
+
+function podcastLinkit(rec) {
+  const palvelut = rec.alkupera === 'yle' ? ['areena']
+    : rec.alkupera === 'kotimainen' ? ['spotify', 'apple', 'supla']
+    : ['spotify', 'apple'];
+  const lisa = rec.lisatieto_linkki || '';
+  let lisaHost = '', lisaOnHaku = true;
+  try {
+    const u = new URL(lisa);
+    lisaHost = u.hostname.toLowerCase().replace(/^www\./, '');
+    lisaOnHaku = /search|haku|hae/i.test(u.pathname + u.search);
+  } catch {}
+  const samaPalvelu = osoite => lisaHost === osoite || lisaHost.endsWith('.' + osoite);
+  const q = encodeURIComponent(podcastHakusana(rec));
+
+  const linkit = palvelut.map(p => {
+    const [nimi, osoite, haku] = PODCASTPALVELUT[p];
+    return [nimi, samaPalvelu(osoite) && !lisaOnHaku ? lisa : haku(q)];
+  });
+  // Muun palvelun lisätietolinkki (esim. sarjan oma sivu tai YouTube) jää mukaan
+  const tunnettu = Object.values(PODCASTPALVELUT).some(([, osoite]) => samaPalvelu(osoite));
+  if (lisaHost && !tunnettu && !onGoogleLinkki(lisa)) {
+    linkit.push([linkinNimi(lisa), lisa]);
+  }
+  return linkit;
+}
+
+// Hakusana: Spotify-haun sana on yleensä valmiiksi siisti, muuten teoksen
+// nimi ilman sulkeita, alaotsikkoa ja "-podcast"-päätettä.
+function podcastHakusana(rec) {
+  const m = (rec.lisatieto_linkki || '').match(/open\.spotify\.com\/search\/([^?#]+)/);
+  if (m) {
+    try {
+      return decodeURIComponent(m[1].replace(/\+/g, ' '));
+    } catch {}
+  }
+  return rec.teos
+    .replace(/\s*\([^)]*\)/g, '')
+    .replace(/\s+[–—]\s.*$/, '')
+    .replace(/\s*-?podcast\b/gi, '')
+    .trim() || rec.teos;
+}
 
 function onGoogleLinkki(url) {
   try {

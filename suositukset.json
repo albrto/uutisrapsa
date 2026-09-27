@@ -144,7 +144,8 @@
         "kategoriat": [
           "haastattelu",
           "media"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Luomakunta-podcast",
@@ -156,7 +157,8 @@
         "kategoriat": [
           "stand up",
           "keskustelu"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Tekoälyn (Claude) käyttäminen luonnonilmiöiden seuraamiseen",
@@ -332,7 +334,8 @@
           "historia",
           "kirjallisuus",
           "antiikin Kreikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Menetetyt miljardit",
@@ -345,7 +348,8 @@
           "talous",
           "valta",
           "tutkiva journalismi"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
@@ -601,7 +605,8 @@
           "historia",
           "kirjallisuus",
           "elokuva"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Tribe: On Homecoming and Belonging",
@@ -673,7 +678,8 @@
           "rikos",
           "oikeudenkäynti",
           "journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Yövartiosto",
@@ -1124,7 +1130,8 @@
           "yhteiskunta",
           "selittävä journalismi",
           "talous"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Totuus palvelutalosta",
@@ -1288,7 +1295,8 @@
           "tutkiva journalismi",
           "historia",
           "musiikki"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -1380,7 +1388,8 @@
           "komedia",
           "viihde",
           "haastattelu"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Pistaasilevite (Fiasconaro)",
@@ -1557,7 +1566,8 @@
           "lastensuojelu",
           "tutkiva journalismi",
           "Suomi"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -2120,7 +2130,8 @@
           "politiikka",
           "Yhdysvallat",
           "ulkopolitiikka"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Mississippi Blue 61",
@@ -2518,7 +2529,8 @@
           "historia",
           "politiikka",
           "Yhdysvallat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -2670,7 +2682,8 @@
           "talous",
           "yrittäjyys",
           "luento"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Murenevan maa (Ida Tikka)",
@@ -2683,7 +2696,8 @@
           "politiikka",
           "Yhdysvallat",
           "dokumentti"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Slow Horses",
@@ -2807,7 +2821,8 @@
           "kulttuurisota",
           "historia",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -2891,7 +2906,8 @@
           "komedia",
           "huumori",
           "kevyt viihde"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -2950,7 +2966,8 @@
           "tekoäly",
           "teknologia",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Dwarkesh Podcast",
@@ -2963,7 +2980,8 @@
           "tekoäly",
           "teknologia",
           "Silicon Valley"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Memos to the President -podcast",
@@ -2976,7 +2994,8 @@
           "tekoäly",
           "geopolitiikka",
           "teknologia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -3016,7 +3035,8 @@
           "musiikki",
           "nostalgia",
           "haastattelu"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Middlesex",
@@ -3088,7 +3108,8 @@
           "historia",
           "Britannia",
           "dokumentaari"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Michael Collins",
@@ -3114,7 +3135,8 @@
           "historia",
           "Pohjois-Irlanti",
           "vakoilu"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -3265,7 +3287,8 @@
           "hyvinvointi",
           "arki",
           "mindfulness"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Murdle",
@@ -3389,7 +3412,8 @@
           "politiikka",
           "yhdysvallat",
           "maailmanpolitiikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -3507,7 +3531,8 @@
           "journalismi",
           "media",
           "oikeudenkäynnit"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -3579,7 +3604,8 @@
           "politiikka",
           "yhteiskunta",
           "vasemmisto"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -3947,7 +3973,8 @@
           "historia",
           "yliopistoluento",
           "Eurooppa"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -4025,7 +4052,8 @@
           "politiikka",
           "oikeusvaltio",
           "Yhdysvallat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "American Factory",
@@ -4189,7 +4217,8 @@
           "yhteiskunta",
           "historia",
           "brittiläinen"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Rugby ja 6 Nations Aussibarissa",
@@ -4333,7 +4362,8 @@
           "politiikka",
           "amerikka",
           "uutisanalyysi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Obscure Islands (amanvir.com/obscure-islands)",
@@ -4392,7 +4422,8 @@
           "narratiivinen",
           "tietoviihde",
           "suomalainen"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -4458,7 +4489,8 @@
           "politiikka",
           "historia",
           "Trump"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -4504,7 +4536,8 @@
           "tv-analyysi",
           "Severance",
           "jaksoanalyysi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -4596,7 +4629,8 @@
           "uusmedia",
           "journalismi",
           "audio"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -4766,7 +4800,8 @@
           "historia",
           "Suomi",
           "TikTok"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Google Willow -kvanttitietokone",
@@ -4884,7 +4919,8 @@
           "vakoilu",
           "historia",
           "true crime"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -5099,7 +5135,8 @@
           "keskustelu",
           "julkisuus",
           "kulttuuri"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Stratechery",
@@ -5112,7 +5149,8 @@
           "teknologia",
           "bisnesanalyysi",
           "geopolitiikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -5165,7 +5203,8 @@
           "politiikka",
           "Yhdysvallat",
           "dokumentti"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Pinnan alta – Suomen talouden uusi nousu",
@@ -5224,7 +5263,8 @@
           "historia",
           "politiikka",
           "lukupiiri"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Erkki Tuomiojan päiväkirjat",
@@ -5263,7 +5303,8 @@
           "kuluttaja",
           "tiede",
           "BBC"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -5296,7 +5337,8 @@
           "hyvinvointi",
           "alkoholi",
           "elämäntavat"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Rest Is Politics: US",
@@ -5309,7 +5351,8 @@
           "politiikka",
           "USA",
           "historia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -5473,7 +5516,8 @@
           "historia",
           "brittiläinen",
           "tietopodcast"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Past Present Future",
@@ -5486,7 +5530,8 @@
           "historia",
           "filosofia",
           "brittiläinen"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -5591,7 +5636,8 @@
           "tosi-tarina",
           "huijaus",
           "suomalainen podcast"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Herrasmies-hakkerit",
@@ -5604,7 +5650,8 @@
           "teknologia",
           "kyberturvallisuus",
           "tietoturva"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -5683,7 +5730,8 @@
           "politiikka",
           "maailmanpolitiikka",
           "USA"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Hymni rakkaudelle – Céline Dionin esitys Pariisin olympialaisten avajaisissa",
@@ -5906,7 +5954,8 @@
           "rikospodcast",
           "tutkiva journalismi",
           "tosi tarina"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Jet Lag: The Game",
@@ -5945,7 +5994,8 @@
           "kulttuuri",
           "keskustelu",
           "huumori"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -6135,7 +6185,8 @@
           "teknologia",
           "tekoäly",
           "media"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -6221,7 +6272,8 @@
           "tekoäly",
           "tiede",
           "teknologia"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Kuningas Charlesin virallinen muotokuva (Jonathan Yeo, 2024)",
@@ -6260,7 +6312,8 @@
           "politiikka",
           "sote",
           "terveydenhuolto"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -6487,7 +6540,8 @@
         "kategoriat": [
           "politiikka",
           "suomalainen podcast"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "More Savory Goods",
@@ -6553,7 +6607,8 @@
           "hiihto",
           "urheilu",
           "urheilijapodcast"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Vapaaehtoisesti lapseton",
@@ -6735,7 +6790,8 @@
           "musiikki",
           "dokumentti",
           "etiikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Merriam-Webster: Word of the Day",
@@ -6748,7 +6804,8 @@
           "kieli",
           "oppiminen",
           "englanti"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -6924,7 +6981,8 @@
           "urheilu",
           "viihde",
           "amerikkalaiset"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Miss Americana",
@@ -7295,7 +7353,8 @@
         "kategoriat": [
           "politiikka",
           "suomalainen podcast"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "The Fall: The End of Fox News",
@@ -7380,7 +7439,8 @@
           "luento",
           "kansainvälinen politiikka",
           "historia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -7536,7 +7596,8 @@
           "politiikka",
           "Britannia",
           "ajankohtainen"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -7569,7 +7630,8 @@
           "historia",
           "filosofia",
           "ideat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "The Times: How the Newspaper of Record Survived Scandal, Scorn, and the Transformation of Journalism",
@@ -7661,7 +7723,8 @@
           "yhdysvaltalainen",
           "ADHD",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -7791,7 +7854,8 @@
           "ihmissuhteet",
           "viihde",
           "Taylor Swift"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Veden varaan",
@@ -7863,7 +7927,8 @@
           "historia",
           "symbolit",
           "suomalainen podcast"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Revisionist History",
@@ -7876,7 +7941,8 @@
           "historia",
           "journalismi",
           "Yhdysvallat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -7909,7 +7975,8 @@
           "monologi",
           "kulttuuri",
           "muoti"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -8217,7 +8284,8 @@
           "audiodraama",
           "elämäkerta",
           "suomalainen kulttuuri"
-        ]
+        ],
+        "alkupera": "yle"
       }
     ]
   },
@@ -8237,7 +8305,8 @@
           "politiikka",
           "Venäjä",
           "Ukraina"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "La Haine",
@@ -8399,7 +8468,8 @@
           "historia",
           "politiikka",
           "Suomi"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Traffic",
@@ -8536,7 +8606,8 @@
         "kategoriat": [
           "uusi podcast",
           "HS"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Rocky (Virus-teatteri)",
@@ -8575,7 +8646,8 @@
           "politiikka",
           "äärioikeisto",
           "perussuomalaiset"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Tuomas Peltomäki -podcast (tekoäly-sarja)",
@@ -8588,7 +8660,8 @@
           "tekoäly",
           "teknologia",
           "tiede"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Nervous States: How Feeling Took Over the World",
@@ -8634,7 +8707,8 @@
           "historia",
           "teknologia",
           "Elon Musk"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -8667,7 +8741,8 @@
           "puhe",
           "huumori",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Euroviisut 2023 – esityksiin perehtyminen etukäteen",
@@ -8765,7 +8840,8 @@
           "historia",
           "filosofia",
           "ideat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -8890,7 +8966,8 @@
           "tv-sarja",
           "kulttuuri",
           "viihde"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Benji Plants",
@@ -8955,7 +9032,8 @@
           "tv-sarja",
           "kulttuuri",
           "viihde"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Succession (kausi 4)",
@@ -9047,7 +9125,8 @@
           "tekoäly",
           "teknologia",
           "tulevaisuus"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Kadoneiden kaupunkien jäljillä",
@@ -9060,7 +9139,8 @@
           "historia",
           "arkeologia",
           "yleissivistys"
-        ]
+        ],
+        "alkupera": "yle"
       }
     ]
   },
@@ -9297,7 +9377,8 @@
           "muoti",
           "historia",
           "kulttuuri"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -9474,7 +9555,8 @@
           "historia",
           "brittiläinen",
           "sivistys"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -9625,7 +9707,8 @@
           "dokumentaarinen",
           "perhe",
           "historia"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Matkoja maalauksiin",
@@ -9638,7 +9721,8 @@
           "taide",
           "maalaukset",
           "kulttuuri"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "The White Lotus – kausi 2",
@@ -9808,7 +9892,8 @@
           "kirjoittaminen",
           "haastattelu",
           "suomalainen"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -9828,7 +9913,8 @@
           "huumori",
           "arkielämä",
           "rentoutuminen"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Song of the Cell",
@@ -9874,7 +9960,8 @@
           "politiikka",
           "Italia",
           "historia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "The Prince – Xi Jinping",
@@ -9887,7 +9974,8 @@
           "politiikka",
           "Kiina",
           "historia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Meduza English Podcast",
@@ -9900,7 +9988,8 @@
           "politiikka",
           "Venäjä",
           "journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -10071,7 +10160,8 @@
           "talous",
           "energia",
           "Fortum"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -10130,7 +10220,8 @@
           "tv-sarja",
           "seurantapodcast",
           "fantasia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Energy: A Human History",
@@ -10201,7 +10292,8 @@
           "rikos",
           "tutkiva journalismi",
           "tositarina"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "House of the Dragon",
@@ -10272,7 +10364,8 @@
           "rikos",
           "dokumentti",
           "poliisityö"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "House of the Dragon",
@@ -10351,7 +10444,8 @@
           "musiikki",
           "popmusiikki",
           "analyysi"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Have You Heard George's Podcast?",
@@ -10364,7 +10458,8 @@
           "yhteiskunta",
           "runous",
           "rap"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -10430,7 +10525,8 @@
           "eläinoikeudet",
           "filosofia",
           "tiede"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Tender is the Flesh",
@@ -10574,7 +10670,8 @@
           "politiikka",
           "dokumentti",
           "Suomi"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -10712,7 +10809,8 @@
           "kieli",
           "etymologia",
           "tietoviihde"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Kaikki synnit (kausi 2)",
@@ -10751,7 +10849,8 @@
           "tiede",
           "yle areena",
           "oppiminen"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Pimeyden vasen käsi",
@@ -11014,7 +11113,8 @@
           "podcast",
           "talous",
           "geopolitiikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Swedish Grace -näyttely, Tukholma",
@@ -11073,7 +11173,8 @@
           "kulttuuri-ilmiöt",
           "yhteiskunta",
           "historia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Musta Laatikko",
@@ -11217,7 +11318,8 @@
           "kryptovaluutta",
           "talous",
           "tutkiva journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -11526,7 +11628,8 @@
           "uutiset",
           "suomalainen podcast",
           "journalismi"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "UEFA:n Instagram-tili",
@@ -11703,7 +11806,8 @@
           "seksuaalisuus",
           "suomalainen podcast",
           "hyvinvointi"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Ali Wong: Baby Cobra",
@@ -11775,7 +11879,8 @@
           "politiikka",
           "yhdysvallat",
           "journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Troijan hevonen -podcast (The Trojan Horse Affair)",
@@ -11788,7 +11893,8 @@
           "tutkiva journalismi",
           "islam",
           "britannia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -11924,7 +12030,8 @@
           "luonto",
           "eläimet",
           "dokumentti"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Drive",
@@ -11950,7 +12057,8 @@
           "yhteiskunta",
           "keskustelu",
           "suomalainen"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -12009,7 +12117,8 @@
           "poliittinen satiiri",
           "komedia",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Cum Town",
@@ -12022,7 +12131,8 @@
           "stand-up",
           "komedia",
           "absurdi huumori"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -12287,7 +12397,8 @@
           "politiikka",
           "konservatiivismi",
           "yhdysvallat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Block and Reported",
@@ -12300,7 +12411,8 @@
           "politiikka",
           "kulttuuri",
           "huumori"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Politics War Room",
@@ -12313,7 +12425,8 @@
           "politiikka",
           "yhdysvallat",
           "demokratia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -12365,7 +12478,8 @@
           "historia",
           "Suomi",
           "haastattelu"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -12398,7 +12512,8 @@
           "ihmisoikeudet",
           "politiikka",
           "islam"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Piraneesi",
@@ -12457,7 +12572,8 @@
           "tiede",
           "biologia",
           "evoluutio"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -13173,7 +13289,8 @@
           "meemit",
           "some",
           "nuorisokulttuuri"
-        ]
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -13605,7 +13722,8 @@
           "kulttuuri",
           "media",
           "sarjakuva"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -13625,7 +13743,8 @@
           "rikostarina",
           "dokumentaari",
           "amerikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "From Hell",
@@ -13704,7 +13823,8 @@
           "historia",
           "kuriositeetti",
           "blogi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Taru Salamurhojen Oppipoika",
@@ -14563,7 +14683,8 @@
           "filosofia",
           "tiede",
           "esoteerisuus"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "A Spy Among Friends",
@@ -14831,7 +14952,8 @@
           "eläkejärjestelmä",
           "talous",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
@@ -14929,7 +15051,8 @@
           "rikos",
           "dokumentti",
           "suomalainen"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Historian jännät naiset",
@@ -15113,7 +15236,8 @@
           "EU",
           "politiikka",
           "talous"
-        ]
+        ],
+        "alkupera": "yle"
       }
     ]
   },
@@ -15192,7 +15316,8 @@
           "politiikka",
           "teoria",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "MasterChef Australia",
@@ -15238,7 +15363,8 @@
           "monologi",
           "musiikki",
           "komedia"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Normaaleja ihmisiä",
@@ -15284,7 +15410,8 @@
           "historia",
           "eläimet",
           "dokumentti"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Antti Holman oopperajuhlat",
@@ -15297,7 +15424,8 @@
           "ooppera",
           "kulttuuri",
           "huumori"
-        ]
+        ],
+        "alkupera": "yle"
       }
     ]
   },
@@ -15383,7 +15511,8 @@
           "historia",
           "musiikki",
           "salaliittoteoria"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Say Nothing",
@@ -15481,7 +15610,8 @@
           "historia",
           "tiedustelu",
           "musiikki"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -15736,7 +15866,8 @@
         "kategoriat": [
           "tiedejournalismi",
           "ajankohtainen"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Ologies-podcast",
@@ -15749,7 +15880,8 @@
           "tiede",
           "kulttuuri",
           "tietoviihde"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -15946,7 +16078,8 @@
           "uutiset",
           "ajankohtainen",
           "koronavirus"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "The Syllabus",
@@ -15979,7 +16112,8 @@
           "ulkomaanuutiset",
           "analyysi",
           "journalismi"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Dark Towers",
@@ -16176,7 +16310,8 @@
           "musiikki",
           "kulttuuri",
           "Yhdysvallat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Watership Down (Ruohometsän kansa)",
@@ -16294,7 +16429,8 @@
           "historia",
           "politiikka",
           "islam"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Bon Appétit YouTube-kanava",
@@ -16807,7 +16943,8 @@
           "dokumentti",
           "kulttuuri",
           "Amerikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Stalinin kuolema",
@@ -16945,7 +17082,8 @@
           "terveys",
           "alkoholi",
           "elämäntapa"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -16978,7 +17116,8 @@
           "tiede",
           "fysiikka",
           "keskusteluohjelma"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Radio Sodoma, toinen tuotantokausi",
@@ -16991,7 +17130,8 @@
           "kuunnelma",
           "komedia",
           "Yle Areena"
-        ]
+        ],
+        "alkupera": "yle"
       }
     ]
   },
@@ -17181,7 +17321,8 @@
         "kategoriat": [
           "uutiset",
           "journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "The Economist Podcast",
@@ -17194,7 +17335,8 @@
           "talous",
           "politiikka",
           "journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Mikä meitä vaivaa?",
@@ -17206,7 +17348,8 @@
         "kategoriat": [
           "suomalainen",
           "yhteiskunta"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Olli Seurin haastattelijapodcast (Yle Areena)",
@@ -17219,7 +17362,8 @@
           "journalismi",
           "haastattelu",
           "suomalainen"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "Once Upon a Time in Hollywood",
@@ -17409,7 +17553,8 @@
           "true crime",
           "murha",
           "amerikka"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -17521,7 +17666,8 @@
           "dystopia",
           "tulevaisuus",
           "ruotsinkielinen"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Möhkö-artikkeli (Kuukausiliite)",
@@ -17567,7 +17713,8 @@
           "jalkapallo",
           "urheilu",
           "naisten MM-jalkapallo"
-        ]
+        ],
+        "alkupera": "yle"
       },
       {
         "teos": "99% Invisible",
@@ -17580,7 +17727,8 @@
           "arkkitehtuuri",
           "kaupunkisuunnittelu",
           "design"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Ilmastouutiset – Timo Korven päästöpaasto",
@@ -17593,7 +17741,8 @@
           "ilmastonmuutos",
           "ympäristö",
           "dokumentti"
-        ]
+        ],
+        "alkupera": "yle"
       }
     ]
   },
@@ -17613,7 +17762,8 @@
           "true crime",
           "murha",
           "historia"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Helsingin Sanomien jutut Jari Aarnion tuomiosta",
@@ -18058,7 +18208,8 @@
           "fantasia",
           "jaksoseuranta",
           "televisio"
-        ]
+        ],
+        "alkupera": "kotimainen"
       },
       {
         "teos": "Against the Rules with Michael Lewis",
@@ -18071,7 +18222,8 @@
           "talous",
           "yhteiskunta",
           "journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -18240,7 +18392,8 @@
           "podcast",
           "bisnes",
           "media"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Letter from London: Bad Boy – New Yorker",
@@ -18371,7 +18524,8 @@
           "komedia",
           "stand-up",
           "viihde"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -18437,7 +18591,8 @@
           "tekoäly",
           "filosofia",
           "tiede"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "I Went on a Date with Aziz Ansari. It Turned into the Worst Night of My Life.",
@@ -18542,7 +18697,8 @@
           "raittius",
           "elämäntapa",
           "hyvinvointi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -18797,7 +18953,8 @@
           "dokumentaari",
           "rikospodcast",
           "journalismi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -19176,7 +19333,8 @@
           "politiikka",
           "yhdysvallat",
           "analyysi"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
@@ -19347,7 +19505,8 @@
           "opetus",
           "yliopisto",
           "luennot"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       }
     ]
   },
