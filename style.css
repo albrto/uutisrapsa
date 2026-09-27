@@ -151,10 +151,10 @@ a:hover {
   margin-top: 2px;
 }
 
-/* Huomaamaton linkki palautelomakkeeseen */
-.hero-palaute {
+/* Huomaamaton tekstilinkki (Figma: v2/Tekstilinkki): heron "Anna palautetta"
+   ja alatunnisteen "Takaisin ylös" */
+.tekstilinkki {
   display: inline-block;
-  margin-top: 24px;
   padding: 4px 0;
   font-family: var(--fontti-koodi);
   font-size: 12px;
@@ -164,9 +164,17 @@ a:hover {
   text-underline-offset: 3px;
 }
 
-.hero-palaute:hover,
-.hero-palaute:focus-visible {
+.tekstilinkki:hover,
+.tekstilinkki:focus-visible {
   color: var(--aksentti);
+}
+
+.hero-palaute {
+  margin-top: 24px;
+}
+
+.ylos-linkki {
+  margin-bottom: 32px;
 }
 
 /* ===== CONTROLS ===== */
