@@ -1,0 +1,462 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Helsingin
+Puhuja 1: Sanomat
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin
+Puhuja 0: torstaina kaksisataakolmekymmentäviisi.
+Puhuja 0: Meillä oli kaksituhatta
+Puhuja 0: kaksikymmentäneljä aivan mahdottoman pitkä toukokuu.
+Puhuja 0: Mun nimi on Tuomas Peltomäki, kanssani täällä Helsingin Sanomien Väliaikaissppodcast
+Puhuja 0: studiossa kerroksessa numero viisi ovat
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: gaalakuilta.
+Puhuja 0: Tänään
+Puhuja 0: menossa tutkivan journalismin
+Puhuja 0: yhdistyksen
+Puhuja 0: arvostettuun,
+Puhuja 0: ihailtuun,
+Puhuja 0: hulppeaan,
+Puhuja 0: eleganttiin
+Puhuja 0: gaalaan.
+Puhuja 0: Lumilapio
+Puhuja 0: illalliselle
+Puhuja 0: on Helsingin Sanomien tutkivien juttujen Boss
+Puhuja 0: Sallavuorikoski. Hei, Salla! Terve.
+Puhuja 2: Menen tosi iloissani, koska meillä on kahden mahtavan toimittajan Paavo Teittisen ja uutisolovaaran jutut siellä ehdolla. Pitäkää peukkuja. Mitkä eivät ole meillä ehdolla?
+Puhuja 2: Siellä on Paavo Teittisen ja itse asiassa KV-työryhmä
+Puhuja 2: juttuprojekti
+Puhuja 2: Täydellinen pako, josta olet itse tehnyt sen podcastin. Ehkä muistan. Sen tiedän, että miksen taas siellä ehdolla Paavo Teittisen takaa. Just, toi on törkeää,
+Puhuja 0: varsinkin kun Paavo tuli nyt. Pitäisi tutkivan osaston bossiia olisi pitänyt laittaa sinne.
+Puhuja 2: Heti alkoi tällaisella
+Puhuja 2: kireällä.
+Puhuja 2: Sitten meidän Venäjä-aiheisiin
+Puhuja 2: erikoistunut
+Puhuja 2: avustaja, joka tekee paljon meille töitä. Outi Salovaara, tällaisella Sebittäjän sisäpiirissä
+Puhuja 2: jo tulla. Mainia juttu. Molemmat kovia juttuja. Toivotaan, että napsataan.
+Puhuja 0: Ja nauttikaa
+Puhuja 0: galasta ja onnea molemmille ehdokkaille.
+Puhuja 0: Sen lisäksi meillä on paikalla
+Puhuja 0: Meillä on
+Puhuja 0: organisaatiouudistus ollut Helsingin Sanomissa, niin mä en tiedä yhtään missä sä oot nykyään töissä. Mä oon edelleen feature-toimituksessa
+Puhuja 2: töissä. Viime viikolla
+Puhuja 2: feature-toimituksessa. Onko
+Puhuja 0: se nimi edelleen typeräisesti feature? On.
+Puhuja 1: Ymmärretäänkö täällä, että se on englannin tekijä? Ymmärretään, mutta kukaan ei ikinä ole keksinyt parempi. Se on
+Puhuja 2: aina se sama keskustelu, että se on tyhmä nimi ja ei tarkoita mitään. Ja on englantia, mutta keksi itse parempi.
+Puhuja 1: Mutta meiltä halutaan myös lyhyitä juttuja.
+Puhuja 0: Ei ruveta näinkin firmaan sisätiloihin väittelyitä.
+Puhuja 1: Ystävien kesken sohvin? Kyllä. Saanko ystävien kesken, nyt kun sanoit ton päivämäärät, toivottaa
+Puhuja 1: eräälle kuulijalle Hyvää
+Puhuja 0: syntypäivää Tommi. No Tommi, paljon onnea.
+Puhuja 2: Onko se sukunimi Nieminen? Ei ole.
+Puhuja 0: OK. Tämän viikon podcastissa keskustellaan
+Puhuja 0: rajoista
+Puhuja 0: kahdella eri tapaa:
+Puhuja 0: maalla ja merellä. Nimittäin
+Puhuja 0: tällä viikolla
+Puhuja 0: aika kuumottava
+Puhuja 0: uutistapahtuma, joka
+Puhuja 0: alkoi venäläismedian
+Puhuja 0: saatua tietoja tai venäläismedian
+Puhuja 0: levitettyä
+Puhuja 0: tietoja.
+Puhuja 0: Nyt ollaan tosi silleen, että kuinkahan hybridioperaatio tämä on vai onko tämä vain jotain vokkaanhuistelua
+Puhuja 0: sekoilua.
+Puhuja 0: Kukaan ei tiedä varmasti.
+Puhuja 0: Mutta
+Puhuja 0: jostain tupsahti esille tämmöinen ajatus, että Venäjä saattaisi tehdä pientä kautta suurta kiusaa Suomelle ja Liettualle siirtelemällä
+Puhuja 0: merirajoja.
+Puhuja 0: Keskustellaan siitä. Tällä viikolla myös hallitus
+Puhuja 0: siirsi eteenpäin
+Puhuja 0: eduskunnalle viimein tämän pysyvän
+Puhuja 0: rajalain,
+Puhuja 0: joka on
+Puhuja 0: nykysessäänkin
+Puhuja 0: muodossa jännitteinen
+Puhuja 0: kansainvälisten sopimusten ja ihmisoikeusvelvoitteiden kanssa. Se lähtee nyt sitten tämmöiselle
+Puhuja 0: eduskuntataivaalle.
+Puhuja 0: Keskustellaan siitä aiheesta. Ja myös
+Puhuja 0: puhutaan
+Puhuja 0: europarlamenttivaaleista.
+Puhuja 0: Tällä viikolla on
+Puhuja 0: no,
+Puhuja 0: puhutaan vaaleista, joita on
+Puhuja 0: noi
+Puhuja 0: vaikka sanoa sanoa: Ylen vaalistudio
+Puhuja 0: ja Merisää.
+Puhuja 0: Mun mielestä mahtavalla ja upealla ja iloisella tavalla on tämmöinen positiivinen aihe EU-vaaleissa.
+Puhuja 0: Muutenhan
+Puhuja 0: totta kai
+Puhuja 0: keskustelu on ehkä ollut vähän maltillista.
+Puhuja 2: Puhutaan siitä. Ja ihan ameba maista. Mä haluan kertoa miksi. Kyllä. Mun mielestä suomalainen EU-vaalikeskustelu.
+Puhuja 0: Puhutaan sen lisäksi
+Puhuja 0: sitten
+Puhuja 0: myös Vasemmistoliiton europarlamentti
+Puhuja 0: ryhmittä on rakentunut sen vaagenhtin
+Puhuja 0: ympärille.
+Puhuja 0: Vaagenht ei ole
+Puhuja 0: ainoastaan Putinisti, vaan hän on stalinisti.
+Puhuja 0: Hän on siis aivan titityy
+Puhuja 0: kukkuluuruu.
+Puhuja 0: Hän on täysillä tukea Putinin oikeutta hyökätä
+Puhuja 0: Krimille, täysillä tukea sitä, että kaikki aseapu
+Puhuja 0: Ukrainaan pitää lopettaa.
+Puhuja 0: Tää tulee siis tämä vasemmistoporukka
+Puhuja 0: tulee nyt Euroopan parlamenttiin.
+Puhuja 0: Okei,
+Puhuja 0: spekulaatiot
+Puhuja 0: on, että totta kai se menee Euroopan parlamentin vasemmistoryhmään,
+Puhuja 0: mihin on menossa myös Suomen
+Puhuja 0: vasemmistomepit. Kuulostaa ihan helvetin kuumottavalta, että jos sinne on tulossa joidenkin arvioiden mukaan jopa kahdeksan meppiä, joka kasvattaa sille, että siitä tulee sen porukan merkittävin ryhmä. Ne on siis jälleen kerran stalinisteja.
+Puhuja 0: Suomalaiset vasemmistomepit on siinä porukassa kyllä ihan väärässä
+Puhuja 0: jengissä.
+Puhuja 0: Mä kyllä ymmärsin, että muut vasemmistoryhmät Euroopan parlamentissa on tekemässä tällä hetkellä peliliikkeitä siihen, että jos se vaagennehtin porukka Saksasta, eli saksalaiset stalinistit tulee ja voittaa näissä europarlamentin vaaleissa ison voiton, niin siinä tapauksessa se estetään jollain keinoin, että se vaagennehtiporukka
+Puhuja 0: ei pääse liittymään tähän europarlamentin vasemmistoon.
+Puhuja 1: Saanko sanoa tästä vaagennehtista, koska myös tässä meidän jutussa on kuva hänen vaalimainoksestaan
+Puhuja 1: ja se
+Puhuja 1: liittyy siihen, että millainen teema
+Puhuja 1: Ukraina on, niin tässä lukee, voinko saksaksi. Kyllä.
+Puhuja 1: Klikår de frieedden, että Sota vai rauha?
+Puhuja 1: Tihapendets
+Puhuja 1: deval, teillä on nyt valinta.
+Puhuja 1: Jos äänestätte häntä, niin tulee rauha ja rauhahan tietenkin
+Puhuja 1: tulee Venäjän ehdoilla.
+Puhuja 1: Tämä on se tunnelma, mitä
+Puhuja 1: Euroopassa on heti, jos mennään vähän kauemmaksi tästä Venäjän rajalta. Wagenneht on niin kaukaa taaksepäin, että hän on ollut
+Puhuja 0: tämmöinen Itä-Saksan pikkupioneeri.
+Puhuja 0: Sieltä asti jo
+Puhuja 0: kommunisti-leirissä
+Puhuja 0: on
+Puhuja 0: opettanut Venäjää
+Puhuja 0: ihmisille, tienannut sillä tavalla
+Puhuja 0: leipänsä, pitänyt Saksan muurin murtumisesta tosi valitettavana tapahtumana
+Puhuja 0: ja että siinä oli kyseessä vastavallankumous.
+Puhuja 0: Ja
+Puhuja 1: siis joo hyvin hyvin hyvin. Se mikä tässä on äärimmäisen
+Puhuja 1: kiinnostavaa,
+Puhuja 1: mistä tää vaakinehto on hyvä esimerkki
+Puhuja 1: käsittääkseni, on se, miten
+Puhuja 1: laita oikeiston ja laita vasemmiston argumentit
+Puhuja 1: ja kannattajakuntakin
+Puhuja 1: lähenee toisiaan.
+Puhuja 1: Saksassa kun
+Puhuja 1: on tämä iso kannatus, tämä on suuresti nostanut
+Puhuja 1: laita oikeiston puoli ja avD,
+Puhuja 1: AfD niin näyttää siltä, että nyt kun tämä vaagendeista perusti oman puolueensa. Kysyin tätä meidän Berliininilienvaihjalta
+Puhuja 1: Suvi Turtiselta, niin Suvi sanoi että ne korreloi sillä tavalla, että Afden kannatus on laskenut suurin piirtein sen verran mitä tämä on. Että tavallaan
+Puhuja 1: sieltä niin oikealta kuin
+Puhuja 0: ollaan, niin on siirrytty niin vasemmalla kuin ollaan. Afhe jopa pyysi vaagenehtiä liittymään alun perin Aft:hen.
+Puhuja 1: Tavallaan nämä
+Puhuja 1: hurulaidat
+Puhuja 1: yhdistyvät.
+Puhuja 0: Vielä viimeinen pointti, joka liittyy siis tähän vasemmisto
+Puhuja 0: asiaan, on se, että
+Puhuja 0: mikäli
+Puhuja 0: esimerkiksi Li Andersson valitaan europarlamenttiin,
+Puhuja 0: jossa ehkä on vaagenhdtit ja se ei niinku, se ei ole yksinkertainen se asia,
+Puhuja 0: Sittenhän käy semmoinen
+Puhuja 0: huonous vielä, että Li Andersonin tilalle Suomen eduskuntaan
+Puhuja 0: nousee
+Puhuja 0: Johannes Yrttiaho.
+Puhuja 0: Kun
+Puhuja 0: Venäjä hyökkäsi Ukrainaan, niin Yrttiaho
+Puhuja 0: sanoi esimerkiksi,
+Puhuja 0: että olen Ylen hallintoneuvoston
+Puhuja 0: jäsen ja pidän vastuuttomana,
+Puhuja 0: että julkisen palvelun Yleisradioyhtiö
+Puhuja 0: lähtee kriisin ja varsin vahvan informaatiovaikuttamisen
+Puhuja 0: kampanjoiden
+Puhuja 0: ollessa päälle tekemään viikoittaisia gallupeja, kun Yle kyseli, että Nato vai ei. Nato vai ei.
+Puhuja 0: Ihan outoja juttuja, joissa
+Puhuja 0: käytetään
+Puhuja 0: asemaa hallintoneuvostossa
+Puhuja 0: ja kyseenalaistetaan
+Puhuja 0: Ylen riippumaton journalismi.
+Puhuja 0: Näin. Eli kyllä se aika
+Puhuja 1: huilu Sekä oikealla että vasemmalla pitää miettiä tätä, mihin porukkaan halutaan Euroopassa. Totta kai.
+Puhuja 0: Mun ymmärrys on se, että oikealla meininki on europarlamentilla
+Puhuja 0: vielä huomattavasti sekopaisempaa
+Puhuja 0: kuin vasemmalla.
+Puhuja 0: Mutta tämä
+Puhuja 0: keskustelu tässä yhteydessä liittyi tähän vasemmtoon.
+Puhuja 0: Jos
+Puhuja 1: heidät valitaan sinne, niin he sitten vaan parantaisi sitä tilannetta siellä. Se on ainakin se heidän argumentti, että mennään sinne vaikuttamaan, mutta tästä tosiaan voi olla montaa mieltä. Jes. Salla.
+Puhuja 2: Onko teillä lapsia Helsingin kouluissa?
+Puhuja 0: Ei ole. Nolla kappaletta.
+Puhuja 0: Mutta
+Puhuja 2: teillä on varmaan ystäviä
+Puhuja 2: ja sukulaisia, joilla on lapsia Helsingin Sanomat. Sinä
+Puhuja 2: olet
+Puhuja 2: kuitenkin
+Puhuja 2: helsinkiläisiä.
+Puhuja 2: Huhtikuussa tuli jo tieto, muistaakseni Iltalehti siitä ensimmäisenä kertoi,
+Puhuja 2: että
+Puhuja 2: epäily Venäjältä murtauduttu Helsingin tietoverkkoon
+Puhuja 2: henkilötietoja vaarassa.
+Puhuja 2: Epätavallinen
+Puhuja 2: toiminta havaittiin
+Puhuja 2: vappuaattona. Tämä on itseasiassa viisitoista.
+Puhuja 2: Tästä asiasta ilmoitettiin poliisille viranomaiselle ja sitten hän oli jonkunlaista. Mäkin katsoin, että no niin, joku tietomurto taas ja näin. Oli vähän seisovaa vettä ja nyt tämä
+Puhuja 2: tilannekuva on tarkentunut.
+Puhuja 2: Tämän päivän tieto,
+Puhuja 2: jos en ole uusimpia saanut, niin pyydän anteeksi, mutta tämä tuoreimmat tiedot.
+Puhuja 2: Tiedonmurto koskee sataviisikymmentä
+Puhuja 2: nolla
+Puhuja 2: nykyistä ja entistä oppijaa,
+Puhuja 2: kolmekymmentäkahdeksan
+Puhuja 2: nolla työntekijää
+Puhuja 2: ja myös huoltajien tietoja. Ja
+Puhuja 2: myös
+Puhuja 2: esimerkiksi
+Puhuja 2: Santahaminan
+Puhuja 2: lapsia ja teidän huoltajiaan,
+Puhuja 2: which is great.
+Puhuja 2: Tekijälle on saattanut päätyä Santahaminan varuskunta-alueella
+Puhuja 2: sijaitsevan päiväkodin leikkipuisto ja koulun asiakastietoja
+Puhuja 2: samoin kuin niiden vieraiden kulkulupatietoja
+Puhuja 2: ja ulkomaalaistaustaisten
+Puhuja 2: perheiden passien numeroita.
+Puhuja 2: Nythän tämä kuva alkaa näyttää
+Puhuja 2: siltä, että ei ole vaan johonkin
+Puhuja 2: levylle isketty ja jotain saatu vaan on saatu ihan
+Puhuja 1: kaikki. Satajatuhojen
+Puhuja 2: ihmisten kuitenkin. Joku puhuu, että saattaisi koskettaa jopa puolta miljoonaa ihmistä Suomessa. No, lasketaan nyt paljon, se on prosentuaalisesti suomalaisista. Mutta kuten Tuomas sanoi
+Puhuja 2: introssa, tämä on
+Puhuja 2: todennäköisesti ja onkin tähän mennessä
+Puhuja 2: ilmitulleista
+Puhuja 2: tietomurtotapauksista
+Puhuja 0: suurin Siis vastaamaan ihan peanuts verrattuna tähän. Niin määrältä. Vastaannut sisältö on aivan eri kokoluokka
+Puhuja 2: tai merkiksi. Erilaisia asioita, mutta myös
+Puhuja 2: täällä on esimerkiksi erityisen tuen päätöksiin liittyviä asioita ja ihmisten tilanteisiin liittyviä asioita. Nehän saattaa
+Puhuja 2: olla tosi yksityistä ja intiimiä
+Puhuja 2: tietoa ihmisistä.
+Puhuja 1: Myös
+Puhuja 1: kaikki
+Puhuja 1: Helsingissä asuvat poliitikot, joilla on lapsia.
+Puhuja 2: Kaikki helsinkiläiset voi lohduttaa toinen toisiaan. Ai sinäkin, joo, noniin, koitetaanpa pärjätä.
+Puhuja 2: Tietoliikenteen ja kyberturvallisuustekniikan
+Puhuja 2: professori Jouni Iso Aho Turun yliopistosta sanoi meidän
+Puhuja 2: jutussa, että
+Puhuja 2: tiedonhallinta on ollut laajemminkin pielessä ja kaupunki nyt tiedottamalla haluaa saada tietyn credibiliteetin aikaiseksi. Katsoisin
+Puhuja 2: vähän aikaa
+Puhuja 2: peiliin. Täytyy olla Iso-ahon kanssa samaa mieltä, että on todella aika katsoa peiliin ja miettiä, miten tämä on mahdollista.
+Puhuja 2: Tietoturva ja tiedottamisen heikko taso oli iso ahven pointteja.
+Puhuja 2: No niin.
+Puhuja 2: Se, mitä tässä on nyt tapahtunut? Ilmeisesti en ole mikään ATK-asiantuntija,
+Puhuja 2: mutta voin vilkaista.
+Puhuja 2: Helsinki on säilyttänyt samalla verkkolevyllä kymmentä miljoonaa asiakirjaa.
+Puhuja 2: Ja sitten kun kysytään johdolta,
+Puhuja 2: että miten tämä on mahdollista, että jossain jollakin
+Puhuja 2: venäläisellä taholla
+Puhuja 2: on meidän tyyliin kaikkien tiedot potentiaalisesti.
+Puhuja 2: Nythän ei ole tullut mitään ilmeisesti kiristysviestejä tai muuta. Me ei oikein tiedetä, mihin niitä käytetään, mutta voidaan vain kuvitella mihin kaikkeen tällaisia tietoja
+Puhuja 2: voisi käyttää.
+Puhuja 2: Satu Järven-allas, jonka tittelin juuri unohdin, mutta
+Puhuja 2: kouluasioiden
+Puhuja 2: ylipäällikkö siellä.
+Puhuja 2: Sanoo näin,
+Puhuja 2: että ketään ei pidä lähteä tuomitsemaan ennen kuin asiaa on käyty läpi. Ei voi sanoa, että ohjeita ei olisi noudatettu.
+Puhuja 1: Mä puhuin tästä
+Puhuja 1: kaupunkitoimittaja
+Puhuja 1: Milla Palkohon kanssa, joka on tätä asiaa seurannut.
+Puhuja 1: Hän oli sitä mieltä, että tämä on ensinnäkin ihan valtava asia. Tämä on ihan törkeä
+Puhuja 1: asia, että on ollut tiedossa, että tämä on ongelmallista
+Puhuja 1: ja että nämä tiedot on siellä.
+Puhuja 1: Siitä on pitkään jo kerrottu, että tämä ei saisi olla näin. Ja
+Puhuja 1: sitten kysyin Millaltä juuri sitä, että kuka tästä on vastuussa ja pitäisikö jonkun ero tai kenen pää on ikään kuin panttina
+Puhuja 1: tässä pölkyllä.
+Puhuja 1: Se on vähän hankala asia
+Puhuja 1: ja Milla on tästä meillä kirjoittanutkin,
+Puhuja 1: koska
+Puhuja 1: kansliapäällikkö
+Puhuja 1: ja
+Puhuja 1: digitalisaatiojohtaja,
+Puhuja 1: joiden
+Puhuja 1: vastuuetta ensisijaisesti kuuluu,
+Puhuja 1: He ovat vasta aloittaneet työssään, koska heidän edeltänsä joutuu eroamaan tämän Sarastia palkkakohun vuoksi. Tai he sai mennä siinä.
+Puhuja 0: Siis samaa
+Puhuja 0: organisaationhaamista
+Puhuja 0: näitä tuloja.
+Puhuja 0: Tietotekniikka-asiat.
+Puhuja 2: Niin se liittyy näihin
+Puhuja 2: palkanllisuudesta, mihin se ei saanut palkkoja.
+Puhuja 2: Tai ei ole ollut syytä epäillä. Tai mitä ne onkaan. Ja ne on toimittu normaalin
+Puhuja 2: käytännön mukaisesti.
+Puhuja 2: Kun kaikki näkee lopputuleman, että tässä ei ole mitään normaalia. Tämä on mennyt todella
+Puhuja 2: epänormaalisti.
+Puhuja 2: Ja nämä vahinkojen mittakaava, just niin kuin Milla
+Puhuja 2: sanoi,
+Puhuja 2: sillähänhän ei ole mitään määrää eikä mittaa,
+Puhuja 2: mitä kaikkea tästä voi seurata. Mihin ne ilmestyy ne tiedot yhtäkkiä esimerkiksi?
+Puhuja 2: Käyttääkö Venäjä niitä johonkin omiin operaatioihinsa?
+Puhuja 2: Myydäänkö ne
+Puhuja 2: jossain
+Puhuja 2: poliisi
+Puhuja 1: Helsingin kaupunki yrittää nyt näyttää, että he ovat tässä uhri, he ovat tietyn murronuhria, he ovat niin kuin asianomista.
+Puhuja 1: Heidän ei pitäisi tästä syyttää. Ja sitten millä kuvasi, että se on vähän niin kuin sinä menisit pimeälle moottoritielle
+Puhuja 1: seisomaan
+Puhuja 1: ja sitten joku ajaa sun yli ja sanot, että sä oot tuuri.
+Puhuja 1: Tämä laiminlyönti on ollut niin suuri.
+Puhuja 2: Kyllä kyllä.
+Puhuja 2: Ymmärrän sen, että poliisi ei ehkä halua viisisataa nolla rikosilmoitusta tästä,
+Puhuja 2: Mutta toisaalta musta on myös vähän omituista
+Puhuja 2: antaa ihmisille ohjeita, että asianomistaja
+Puhuja 2: ja uhri, kuten sanoit, moottoritiellä on seissyt yöllä Helsingin kaupunki.
+Puhuja 2: Teidän ei tarvitse tehdä mitään.
+Puhuja 2: En mä nyt mitenkään usuta, että lähtekää tekemään rikosilmoituksen.
+Puhuja 2: Mutta kyllä mun mielestä jokaisella kansalaisellakin on oikeus katsoa omaan oikeusturvansa perään, että mitä tässä on tehty. Onhan
+Puhuja 2: se aivan pöyristyttävää.
+Puhuja 2: Jos tästä ei siis
+Puhuja 2: jatketaan. Bisnes as usual
+Puhuja 1: ja varmaan pormestari on se, joka viime kädessä sitten
+Puhuja 1: on tästä varten.
+Puhuja 0: Onko tässä vähän semmoinen
+Puhuja 0: ylätason ajatus, mutta suhtaudutaanko me
+Puhuja 0: edelleen siihen tietokonejuttuihin
+Puhuja 0: silleen, että no joo, se on siellä jossain Mä just sanoin
+Puhuja 1: Millalle samaa, että mun mielestä se johtuu siitä, että en minäkään mullekin tuli päiväkodista kuitenkin kirje tästä tietomurrosta ja näin,
+Puhuja 1: Mutta sitten se on joitakin ATK-asioita
+Puhuja 1: ja mitään ei ehkä kuitenkaan ole tapahtunut.
+Puhuja 1: Ei kuulosta kun. Niin en jaksa nyt kuulostaa vaikealta. Montako bittiä siitä?
+Puhuja 2: Niin ja eikö aina voi vetää se vanha argumentti, että jos ei ole mitään salattavaa, niin
+Puhuja 0: niin what's the problem? Minkähän verran meillä vielä
+Puhuja 0: Mä väitän, että tässä on ikäpolvi kysymys myös silleen, että mun ikäiset ja varsinkin mua vanhemmat on silleen, että aa joo, että noi on jotain pojat pelaa tietokoneella.
+Puhuja 0: Ja mua on nuori, mutta totta kai ne on silleen, että niin joo, koko meidän elämä on
+Puhuja 0: pelkästään tietokoneista ja digitaalista. Se täytyy ottaa vakavasti. Ja luulen, että
+Puhuja 0: hallintorakenteet
+Puhuja 0: edelleen
+Puhuja 0: heijastelee tätä
+Puhuja 1: vanhan kaltaista ajattelua. Ehkä. Enkä itsekään, siis tietoturvallisuuden
+Puhuja 1: ajattelu on ihan karmea.
+Puhuja 2: Joudun valitettavasti poistumaan, mutta hoitakaa te suositukset.
+Puhuja 0: Kyllä.
+Puhuja 0: Mistä puheen ollen?
+Puhuja 0: Sitten kun
+Puhuja 0: lasket
+Puhuja 0: purjeet
+Puhuja 0: ja lähde tuonne saaristoon
+Puhuja 0: itäisellä
+Puhuja 1: Pohjanlahdella.
+Puhuja 0: Suomenlahdella. Anteeksi Suomenlahdella.
+Puhuja 0: Koulutukea
+Puhuja 0: läpi
+Puhuja 0: tästä.
+Puhuja 0: Suomenlahdella ja siellä
+Puhuja 0: sitten turvallisen matkan päästä näet kun venäläiset
+Puhuja 0: sotilaslaivat
+Puhuja 0: siellä
+Puhuja 0: pysyy omalla
+Puhuja 0: puolella. Niin
+Puhuja 0: tota ehkä otat jonkun näköisen
+Puhuja 0: Eikö veneelle
+Puhuja 0: sä
+Puhuja 0: johda martinilasista
+Puhuja 1: sellaisia stroaeja? Veneille sä
+Puhuja 1: juodaan semmoisia pieniä jalluja, kun on nostettu purjeet.
+Puhuja 1: Voidaan laittaa pikkujaulut
+Puhuja 0: veneillessä.
+Puhuja 0: Mitä sä rupeat kajuutta kavereille
+Puhuja 1: kertomaan? No nyt on hyvin sellainen aito ja vilpitön
+Puhuja 1: suositus, johon ei liity mitään, vaikka voi kuulostaa siltä, että tämä on
+Puhuja 1: maksettu mainos, mutta ei ole. Luin
+Puhuja 1: viikonloppuna
+Puhuja 1: Tuomas Niskakankaan
+Puhuja 1: meidän kollegan uuden dekkarin nimeltä Kotka.
+Puhuja 1: Se oli ihan törkeän hyvä. Luin sen vähän silleen, että no pitää lukea, että tämä meillä on tulossa yksi yhteinen tilaisuus
+Puhuja 1: ja en ole lukenut niitä Tuomaksen. Tämä on hänen kolmas dekkari,
+Puhuja 1: että no mäpäs nyt lukaisen sen. Ja sitten luin kaksi lausetta ja kuulu vaan sellainen
+Puhuja 1: imu ääni, kun se imaisi
+Puhuja 1: mukaansa trilleri,
+Puhuja 1: jonka juoni on siis niin iso ja päätön kuin voi olla, mutta silti Tuomas on onnistunut kirjoittamaan sen uskottavaksi
+Puhuja 1: ja vetäväksi ja tyylikkääksi
+Puhuja 1: ja että
+Puhuja 1: ainakin olin alusta loppuun.
+Puhuja 1: Sellainen kuin vaan hyvä dekkari
+Puhuja 1: tai trilleri voi pitää otteessaan, niin se piti otteessaan.
+Puhuja 1: Ja siihen liittyy siis myös tämä
+Puhuja 1: päähenkilö
+Puhuja 1: Leo Koski, Suomen entinen pääministeri, joka on päätynyt Washingtoniin
+Puhuja 1: elämään matalan profiilin elämää.
+Puhuja 1: Ja sitten maailmanpolitiikan
+Puhuja 1: suuret tapahtumat nappaavat hänet
+Puhuja 1: taas
+Puhuja 1: otteeseensa.
+Puhuja 1: Mutta siinä on kyse just tällaisesta tilanteesta, että Yhdysvalloissa
+Puhuja 1: on arvaamaton
+Puhuja 1: populisti presidentti, joka on luvannut vetää maan Natosta ja Suomen
+Puhuja 1: kohtalo on vaakalaudalla
+Puhuja 1: ja Venäjä odottaa
+Puhuja 1: tykkien kanssa tyyliin rajan toisella puolella, että se kytkeytyy tähän Venäjä-keskusteluun.
+Puhuja 1: Mutta kaikki tämä, jos mä lukisin tämän juonen, niin mä olisin vähän silleen, että no,
+Puhuja 1: aika lailla tämmöistä jotenkin tässä ajassa ja
+Puhuja 1: vähän
+Puhuja 1: populistista
+Puhuja 1: kirjoittaa kirja näin. Mutta se kirja on tosi hyvä. Okei, mikä sen nimi oli? Kotka.
+Puhuja 0: Kotka. Tuomas niskakangas,
+Puhuja 0: meidän kollegamme täältä Helsingin Sanomista.
+Puhuja 0: Hyvin harvoin kannattaa suositella musiikkia, koska musiikki on ihmisille,
+Puhuja 0: mistä ne nyt tykkää itsensä.
+Puhuja 0: Hyvin harvoin mitään järkeä suositella mitään biisejä kenellekään, mutta aion silti tehdä niin.
+Puhuja 0: Olen suuren draaman ystävä ollut aina.
+Puhuja 0: Pidän myös dramaattisesta
+Puhuja 0: musiikista. Mun lempilaulajan porno sen takia, että kukaan muu laulaja ei saa niin paljon
+Puhuja 0: energiaa. Tai ei energia ole väärä, vaan
+Puhuja 0: raakaa tunnetta sen lauluun.
+Puhuja 0: Mutta dramaattisista säveltäjistä mä oon tykännyt aina Hans Timmeristä,
+Puhuja 0: koska hän tekee semmoista isoa musaa.
+Puhuja 0: Mä oon todella ilahtunut siihen, että Hans Timmerille on löytynyt manttelin periä. Hän on ruotsalainen säveltäjä Ludvig Göransson, joka on tehnyt musiikin muun muassa Openheimer-elokuvaan.
+Puhuja 0: Nautin suunnattomasti
+Puhuja 0: siitä, miten paljon
+Puhuja 0: Göransson
+Puhuja 0: saa
+Puhuja 0: tunnetta.
+Puhuja 0: Sitä isouttasi
+Puhuja 0: musiikkiin.
+Puhuja 0: Kuunnelkaa
+Puhuja 0: biisi: Can you hear the Music? Joka on siis Openheimer elokuvan Soundtrackista.
+Puhuja 0: Mä toivoisin, että toi vaan loopppaisi. Se on mun elämän Soundtrack ne loputtomasti.
+Puhuja 0: Miten isoa voi olla musiikki, niin se on
+Puhuja 0: Jeranssonin sävellyksessä.
+Puhuja 1: Hieno nimi hänellä myös. Ludvig, kierros.
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Anna-Sofia Bernerä. Kiitos Tuomas. Kiitos Salla Vuorikoskelle, joka joutui poistumaan tästä kesken kaiken.
+Puhuja 0: Mun nimi on Tuomas Peltomäki ja kanssani täällä. Ei kun anteeksi, ääneen ja kaiken muu mahtaa meille tekee tällä
+Puhuja 0: viikolla Mikko Peura. Kiitos Mikolle seinän taakse.
+Puhuja 0: Lähettäkää meille palautetta
+Puhuja 0: ja oikaisuvaatimuksia
+Puhuja 0: ja kaikkea muuta, uutisraportti ja kaikki muut mahdolliset kanavat ja kuullaan taas.
+Puhuja 0: Ensi viikolla!
+Puhuja 0: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi suurvaltapolitiikassa. Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään
+Puhuja 0: kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

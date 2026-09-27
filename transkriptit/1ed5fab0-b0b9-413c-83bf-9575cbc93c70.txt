@@ -1,165 +1,382 @@
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Utikoulutusportti-podcastiin
-Puhuja 0: torstaina yhdeksän.
-Puhuja 0: Tammikuuta vuonna kaksituhatta kaksikymmentäviisi.
-Puhuja 0: Minun nimeni on Tuomas Peltomäki ja kanssani Helsingin Sanomien
-Puhuja 0: podcast-studiossa
-Puhuja 0: sanomatalossa
-Puhuja 0: Helsingissä,
-Puhuja 0: Suomessa, Euroopassa, EurAasiassa
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Uutiraportti-podcastiin
+Puhuja 0: torstaina yhdeksän. Tammikuuta,
+Puhuja 0: oho, vuonna kaksituhatta kaksikymmentäviisi.
+Puhuja 0: Mun nimi on Tuomas Peltomäki ja kanssani Helsingin Sanomien podcast-studiossa
+Puhuja 0: sanomatalossa Helsingissä,
+Puhuja 0: Suomessa, Euroopassa,
+Puhuja 0: Euraasiassa
 Puhuja 0: ja Maapallo nimisellä planeetalla
 Puhuja 0: tunnetaan myös latinankielisellä
 Puhuja 0: nimellä Tellus
 Puhuja 0: ovat
 Puhuja 0: Helsingin Sanomissa
-Puhuja 0: tutkivaa ryhmää johtava
+Puhuja 0: tutkivaa ryhmää johtava,
 Puhuja 0: kaikkien rosmojen pelkäämme.
-Puhuja 0: I were lady och the görda lisme.
-Puhuja 0: Salla Vuorikoski. Hei Salla! Terve!
-Puhuja 0: Mitäs kuuluu?
-Puhuja 1: Kuuluu hyvää, mukavaa, kiireistä
-Puhuja 1: ja hauskaa.
-Puhuja 1: Olen jäänyt edelleen tällaiseen leppostelumoodiin.
+Puhuja 0: I warn lady och the görda lisemme.
+Puhuja 0: Salla Vuorikoski. Hei, Salla. Terve.
+Puhuja 0: Mitä kuuluu?
+Puhuja 1: Kuuluu hyvää, mukavaa,
+Puhuja 1: kiireistä ja hauskaa.
+Puhuja 1: Olen jäänyt edelleen leppostelumoodiin.
 Puhuja 1: En ole päässyt oikeastaan jouluajan lomailua
-Puhuja 1: kauhna päällä
-Puhuja 1: kaksikymmentäneljä tuntia kotona hiihtämismoodista
+Puhuja 1: kautena päällä kaksikymmentäneljä tuntia kotona hiihtämismoodista
 Puhuja 1: ulos,
 Puhuja 1: että jotenkin
 Puhuja 0: työnantaja odottaa enemmän. Paikalla myös Helsingin Sanomissa,
-Puhuja 0: politiikkahan toimitat.
-Puhuja 0: Marko Junkkari, hei Marko. Heissä.
-Puhuja 2: Ketkäs mua pelkää?
-Puhuja 0: Sun olemassa on semmoinen, että ei varmaan kyllä kukaan.
-Puhuja 1: Onko sulla kukaan poliitikko ikinä suuttunut ihan kunnolla?
-Puhuja 1: Monta
-Puhuja 1: kertaa. Nimeä pöytä. Nimeä nimiä? En nimeä. Okei, mutta se on mahdollista.
+Puhuja 0: politiikkahan se toimitat. Marko Junkkari, hei Marko, hissan.
+Puhuja 0: Ketkä mua
+Puhuja 0: pelkää?
+Puhuja 0: Sun alemmas on semmoinen, että ei varmaan kyllä kukaan.
+Puhuja 1: Onko sulla kukaan poliitikko ikinä suuttunut sille ihan kunnolla?
+Puhuja 2: Monta
+Puhuja 1: kertaa. Nimeä pöytään. Nimeä nimiä? En nimeä. Okei, mutta se on mahdollista.
 Puhuja 0: Sen
-Puhuja 0: lisäksi meillä on ilo ja kunnia
-Puhuja 0: saada tänne vieraaksi,
-Puhuja 0: tai siis vierailemaan, vieras, hän et ole, mutta vierailemaan
-Puhuja 0: sosiaali
-Puhuja 0: ja
-Puhuja 0: terveyslaskelmien
+Puhuja 0: lisäksi meillä
+Puhuja 0: on ilo ja kunnia
+Puhuja 0: saada
+Puhuja 0: tänne vieraaksi,
+Puhuja 0: tai siis vierailemaan, vierashan et ole, mutta vierailemaan
+Puhuja 0: sosiaali ja terveyslaskelmien
 Puhuja 0: hormonit
 Puhuja 0: kuningas,
 Puhuja 0: Teemu Muhonen Helsingin Sanomien politiikan
-Puhuja 0: toimituksista. Hei Teemu. Terve.
-Puhuja 0: Ja kiitos, kun pääsit paikalle. Vartiainen vanha Perga. Ja minuamar Goddaff.
-Puhuja 2: Jossain vaiheessa hänen tehtävänsä Goddaffin poika oli Jenkeissä
-Puhuja 2: ördäämässä
-Puhuja 2: Las Vegasissa.
-Puhuja 2: Hänen tehtäväänsä
-Puhuja 2: oli koittaa pitää
-Puhuja 2: pojan prosttuedun
-Puhuja 2: käyttö
-Puhuja 2: ja kaikki muu sikailu pois mediasta.
-Puhuja 2: Sitten hän on ollut
+Puhuja 0: toimituksesta. Hei Teemu. Terve.
+Puhuja 0: Ja kiitos, kun pääsit paikalle. Tämän viikon podcastissa
+Puhuja 0: keskustellaan hallituksen
+Puhuja 0: suunnitelmista leikata vielä
+Puhuja 0: viimekätisistä
+Puhuja 0: sosiaalituista,
+Puhuja 0: vaikka, mitä en tiennyt, Suomi on toistuvasti ollut nyt jo nuudeltavana siitä, että viimekätiset
+Puhuja 0: sosiaalituet ovat liian pieniä eurooppalaiselle
+Puhuja 0: maalle.
+Puhuja 0: Keskustellaan siitä,
+Puhuja 0: koska meillä
+Puhuja 0: on niin mahtava tilanne, että meillä on ihminen, joka oikeasti tuntee sen asian kuin omat taskunsa.
+Puhuja 0: Sen jälkeen
+Puhuja 0: keskustellaan
+Puhuja 0: Mark Zucker bergistä, joka on
+Puhuja 0: paitsi Metaan pääomistaja,
+Puhuja 0: myös maailman ensimmäinen
+Puhuja 0: rotan penisiirrännäisen
+Puhuja 0: vastaanottaja
+Puhuja 0: ja lopetti faktojen tarkistamisen
+Puhuja 0: omassa palvelussaan.
+Puhuja 0: Vitsi, ei ollut keksimä, vaan pöllin sen internetistä.
+Puhuja 0: Eli puhutaan tästä tämän viikon
+Puhuja 0: oudosta teemasta, jossa
+Puhuja 0: jotenkin
+Puhuja 0: sekä
+Puhuja 0: humoristisella että hälyttävällä tavalla nämä teknologiatitaanit
+Puhuja 0: ovat siirtäneet itsensä
+Puhuja 0: makaeiriin
+Puhuja 0: aika pysyvästi,
+Puhuja 0: mistä tämä kertoo, mitä se varsinaisesti tarkoittaa, mitä konkreettisesti
+Puhuja 0: tapahtuu.
+Puhuja 0: On paljon puhuttu,
+Puhuja 0: mitä tapahtuu Amerikassa,
+Puhuja 0: mutta tällä on myös merkittäviä vaikutuksia
+Puhuja 0: Euroopan alueella.
+Puhuja 0: Hämmentävästi
+Puhuja 0: näistä asioista Euroopan alueella vastaa meidän omakomissaari
+Puhuja 0: Henna Virkkunen.
+Puhuja 2: Keskustellaan siitä. Eipäs suckerberg tiedä, mitä meni tekemään.
+Puhuja 2: Nyt saa Hennan kimppuun.
+Puhuja 0: Vielä kolmanneksi puhutaan
+Puhuja 0: sitten viimeinkin
+Puhuja 0: entisestä eduskunnan
+Puhuja 0: ulkoasiain
+Puhuja 0: valiokunnan puheenjohtajasta Kimmo Kiljosesta,
+Puhuja 0: joka teki tällä viikolla Havaiji-paitaisen
+Puhuja 0: paluun
+Puhuja 0: lantsarakelta
+Puhuja 0: rantatuolilta
+Puhuja 0: suomalaisten tietoisuuteen.
+Puhuja 0: Eli puhutaan siitä,
+Puhuja 0: mitä oikein tapahtui,
+Puhuja 0: kun eduskunnan ulkoasiainvaliokunnan
+Puhuja 0: puheenjohtaja menimme ajattelemaan tässä
+Puhuja 0: hyvin, hyvin
+Puhuja 0: karmivassa,
+Puhuja 0: oudossa typerässä videohaastattelussa
+Puhuja 0: kaikennäköistä.
+Puhuja 0: Kimmo Kiljunipää on sairauslomalta ja hän on nyt Lanzarotella kirjoittamassa kirjaa tämän vaimonsa kanssa, jonka kirjan nimi on rajalla. Nyt hän antoi seiskalle haastattelun ja sitten vähän joka lehdelle, missä hän jossain
+Puhuja 2: haastattelussa sanoi, että ei hän sanonut mitään väärää ja tätä kaikki on Suomen ulko ja turvallisuuspoliittisen
+Puhuja 2: linjan mukaista. Sen jälkeen haastattelussa aina on perunut, että ei kaikki ryttiä ollutkaan.
+Puhuja 2: Tämä on ollut jotenkin
+Puhuja 2: niin murheellista
+Puhuja 2: seurattavaa kaikin puolin.
+Puhuja 2: Sitten siinä oli vielä
+Puhuja 2: viimeisimmissä
+Puhuja 2: haastatteluissa, taisi olla myös Hesarin haastattelussa ja jossain muussakin, hän sanoi, että hän oli ymmärtänyt, että kun
+Puhuja 2: Aleksanterin
+Puhuja 2: Aleksanterin liitto
+Puhuja 2: tuli käymään. Tämä oli
+Puhuja 2: yksi niistä hänen kaverinsa ja tämä oli chat-ham-hous
+Puhuja 2: säännöillä. Chat-ham-house
+Puhuja 2: tarkoittaa sitä, että joku poliitikko puhuu jotain ja kuulijat eivät saa suoraan siteerata.
+Puhuja 2: Mutta miten ihmeessä, jos siellä on
+Puhuja 2: vähintään kaksi videokamerää kuvaamassa häntä.
+Puhuja 0: Plus hän on ainoa poliitikko siinä tilaisuudessa.
+Puhuja 0: Ei se ole mikään, että täällä on neljäkymmentä poliitikkoa.
+Puhuja 0: Ei, ja miten hän Mikä on se, missä yleensä chathakemuksessa.
+Puhuja 2: Tavallaan tai yleensä joku voi pitää luennon ja siellä on normi. Yksi poliitikko pitää luennon ja muut kuuntelee, ja sitten ei saa vain siteerata suoraan.
+Puhuja 0: Eikö chat-häm-hous
+Puhuja 0: ole, että saa siteerata, mutta ei saa sanoa,
+Puhuja 0: että kuka on sanonut? No joo.
+Puhuja 2: Ei saa
+Puhuja 2: ei saa nimenomaan määritellä kuka saa. Asia
+Puhuja 0: saa kertoa sisään. Olisi täysin mahdollista, että yksi poliitikko puhuu ja sitten ei vain kerrota kuka oli puhunut, juuri näin. Joo tai että tietoja voi käyttää.
+Puhuja 2: Joka tapauksessa hän sanoi, että kuvaaja
+Puhuja 2: oli
+Puhuja 2: oli hänen ystävänsä ja kuulemma piti tulla sisäiseen käyttöön. Sitten Kimmo Kilyyden selitti, että hän ei tajunnut, että hän menee Youtubeen, ja mikä se on Youtubeen, kun hän ei oikein
+Puhuja 2: tietotekniikkaihminen.
+Puhuja 2: Siis voi herranjumala
+Puhuja 2: sentään. Tämä ihminen on ollut yksi keskeisistä Suomen ulkopolitiikan linjaajista
+Puhuja 0: tässä. Toki myös sama heppu, joka on siinä aamuna, kun Venäjä hyökkäsi Ukrainaan,
+Puhuja 0: sanoi
+Puhuja 0: puheenaihe-podcastin
+Puhuja 0: haastattelussa,
+Puhuja 0: että jos oli
+Puhuja 0: nykyisen kansanedustaja Teresa Sammanlahden kanssa
+Puhuja 0: haastattelussa,
+Puhuja 0: hän sanoi siellä, että ei heitä ukrainalaiset
+Puhuja 0: kiinnosta, kuka siellä valtaa pitää. Onko se
+Puhuja 0: Kiovassa joku tyyppi vai onko Moskova, joka tällä kertaa pitää valtaa. Niillä on aivan sama,
+Puhuja 0: kuka kuuntelee juttua olevan, mitä helvettiä. Niitä
+Puhuja 0: sanotaan vähän venäläisiksi.
+Puhuja 2: Ehkä tässä pitää muistaa,
+Puhuja 2: kun
+Puhuja 2: Kimmo Kiljus-kohu
+Puhuja 2: on lähinnä somessa vellannut. Yksi asia, mikä toimii sytykkeenä, on se, että Kimmo Kiljunaa luettelee
+Puhuja 2: Aleksanteriliitolle
+Puhuja 2: videolla, että hänen kanssaan samoja ajattelevia poliitikkoja on muitakin SDP:ssä. Hän mainitsee
+Puhuja 2: ainakin Eero Heinäluovan ja Maria Gutz Ninan
+Puhuja 2: ja joitain muita.
+Puhuja 2: Sitten
+Puhuja 2: on viritetty, että onko tämä
+Puhuja 2: jonkinlainen SDP:n sisällä oleva viideskolona
+Puhuja 2: tai Suomen sisällä oleva salaliitto.
+Puhuja 2: Ai minä olin tuon missannut ihan koko ajan. Vaikka katsoin sitä videota? En katsonut varmaan ihan loppuun. Joo, mutta en muista myöskään mikä se sanamuoto siinä kohdassa oli. Mutta se on kuitenkin fakta, että Kimmo Kiljunen edustaa
+Puhuja 2: Hän on eduskunnan vanhin kansanedustaja ja hän edustaa tavallaan
+Puhuja 2: hyvin vanhaa demari,
+Puhuja 2: sieltä Neuvostoliiton ajoilta kumpuavaa perinnettä. Ehkä sitä Kimmo Kiljusen
+Puhuja 2: ajatusmaailmaa ei voi yleistää koko SDP:hen
+Puhuja 2: ulkopoliittisen ajattelu tällä hetkellä. Hän edustaa Erkki Tuomioja
+Puhuja 0: sukupolven ajattelua. Aiheesta paljon lisää monia sun tekemässä podcastissa
+Puhuja 2: päätös siitä ei koskaan tee. Niinpä.
+Puhuja 0: Haluan vielä loppuun sanoa, en nyt tähän Alexander, en tavallaan
+Puhuja 0: symppaan Suomessa asuvia venäläisiä.
+Puhuja 0: Ei varmasti ole helppoa
+Puhuja 0: Kyllä huomaan junassakin, että jos kuuluu venäjän kieltä, kaikki kääntyy katsomaan, mitä vittua.
+Puhuja 0: Ei varmasti ole helppoa olla tavallinen fiksu venäläinen tällä hetkellä missään Venäjän
+Puhuja 0: ulkopuolella. Paljon
+Puhuja 0: on katseita ja muita.
+Puhuja 0: Mutta kun luin Aleksanteriliiton
+Puhuja 0: toiminnasta, josta erinomainen Outi Salovaara oli tehnyt selvitystä meille, niin se kuulostaa Se kuulostaa ihan
+Puhuja 0: Putinin
+Puhuja 0: käsikassaralta täällä Suomessa. En väitä, että on, mutta siltä kuulostaa. Esimerkiksi
+Puhuja 0: yhdistys
+Puhuja 0: osoittaa mieltä pelkästään Suomen
+Puhuja 0: eduskuntatalon edessä
+Puhuja 0: ja myös Lappeenrannassa,
+Puhuja 0: eikä
+Puhuja 0: esimerkiksi
+Puhuja 0: Venäjän suurlähetystön
+Puhuja 0: edessä ole
+Puhuja 0: tuominut hyökkäyssotaa,
+Puhuja 0: ei
+Puhuja 0: katso, että heidän asiaan on arvostella
+Puhuja 0: Venäjää, vaan heidän asian arvostella
+Puhuja 0: Suomea.
+Puhuja 0: Vaikka yhdistyksen
+Puhuja 0: tehtävä on ilmoitettu sillä tavalla, että
+Puhuja 0: he ovat vakuutelleet, että he toimivat vain Suomen viranomaisten,
+Puhuja 0: he ovat kuitenkin
+Puhuja 0: itse kirjelmöineet
+Puhuja 0: ja toimittaneet Venäjän ulkoministeriölle
+Puhuja 0: valituksia, tavallaan
+Puhuja 0: aineistoa,
+Puhuja 0: jolla Venäjä voi käyttää omassa mediassaan
+Puhuja 0: osoituksena siitä, että Suomessa
+Puhuja 0: huonosti kohdellaan venäläisiä
+Puhuja 0: oikein
+Puhuja 0: tyypillistä Putinistipropagandan
+Puhuja 0: kehittämistä
+Puhuja 0: Suomen sisältä Venäjän mediaan.
+Puhuja 0: Kuulosti hyvin, hyvin sisusyhdistykseltä tämä. Tietenkään
+Puhuja 0: en voi sanoa, onko, mutta ainakin raportoinnin perusteella
+Puhuja 0: heiltä puuttuu totaalisesti semmoinen ymmärrys,
+Puhuja 0: mitä esimerkiksi Suomessa
+Puhuja 0: pitää tai miten olisi hyvä edistää venäläisten asioita Suomessa, mitä olisi hyvä sanoa, olisi hyvä tuomita, mitä olisi hyvä käydä keskustelua,
+Puhuja 0: joka huomioi sen, mikä on kansalais mielipide siinä maassa, missä he ovat.
+Puhuja 0: Okei. Sitten,
+Puhuja 0: kun viimeisillä
+Puhuja 0: penneillä
+Puhuja 0: keräilet ne jostain vanhasta lompakosta ja käyt lasten
+Puhuja 0: takkien taskut läpi, jos sieltä löytyisi jotain senttejä
+Puhuja 0: ja keräilet ne. Ja sitten, koska sinulta on hallitus leikannut toimeentulotukea
+Puhuja 0: ja ajat on kovat,
+Puhuja 0: Sitten keräänitte rahat ja käyt varmaan hakemassa
+Puhuja 0: Ginger Joe
+Puhuja 0: juoman
+Puhuja 0: paikallisesta
+Puhuja 0: S-Marketista.
+Puhuja 0: Ja sitten istut
+Puhuja 0: S-Marketin portaille, koska mitä olettelee,
+Puhuja 0: korkki auki vain, ja rupeat siinä siemailemaan. Sinun vieressä on koira.
+Puhuja 0: Sitten alat sille juttelemaan kaikennäköistä.
+Puhuja 0: Koiralle? Kyllä. Mistä hänelle?
+Puhuja 2: Luulen, että koiraa ei yhtään kiinnostaisi minun jutut.
+Puhuja 2: Tämä on minusta jotenkin
+Puhuja 2: kiehtova
+Puhuja 2: kirja.
+Puhuja 2: Tämän nimi on
+Puhuja 2: All the World Humans.
+Puhuja 2: Eli kaikki maailman huonoimmat ihmiset ja kirjoittajana nimi on Fill Elwood. Tämä on siis ilmestynyt muistelmat
+Puhuja 2: loppuvuodesta kaksituhatta kaksikymmentäneljä. Tämä Fill Elwood, hänen omaelämäkertataan,
+Puhuja 2: on
+Puhuja 2: tämmöinen spindoctor
+Puhuja 2: lobbaaja-viestiä,
+Puhuja 2: mutta hän edustaa
+Puhuja 2: siellä case Trietallä Washingtonissa
+Puhuja 2: näiden lobbaustoimistoja.
+Puhuja 2: Hän on
+Puhuja 2: pahojen temppujen
+Puhuja 2: osaston superosaaja.
+Puhuja 2: Hän syöttää
+Puhuja 2: medialle
+Puhuja 2: uutisia, mitä
+Puhuja 2: Hän on hyvin häikäisevä. Hän kertoo hyvin yksityiskohtaisesti
+Puhuja 2: tässä kirjassa, että mitä kaikkea hän
+Puhuja 2: ei lähtökohtaisesti valehdellut toimittajille, mutta ei kertonut koko totuutta ja pyrki niin, koska hänellä oli hyvät mediasuhteet. Hän pystyy syöttämään mediaa
+Puhuja 2: erilaisia uutisia, jotka hyödyntävät
+Puhuja 2: hänen asiakastaan.
+Puhuja 2: Ja tämä heppu
+Puhuja 2: on ihan mahtava,
+Puhuja 2: kenen kanssa hän työskentelee. Hän ei pelkästään työskennellyt amerikkalaisten firmojen kanssa. Hänen asiakkaitaan oli muun muassa Bazhar
+Puhuja 2: Assad.
+Puhuja 2: Hän oli siellä syrjässä. Aina se nostaa pääse,
+Puhuja 0: josta Bachardalberg.
+Puhuja 2: Ja muamar Goddaf. Hänen
+Puhuja 2: tehtäväänsä oli jossakin vaiheessa Goddafin poika
+Puhuja 2: Jenkeissä
+Puhuja 2: ja ördaamässä
+Puhuja 2: Las Vegasissa. Hänen tehtäväänsä oli
+Puhuja 2: koittaa pitää
+Puhuja 2: pojan prostituoidun käyttö ja kaikki muu sikailu pois mediasta.
+Puhuja 2: Sitten
+Puhuja 2: hän on ollut
 Puhuja 2: vaikka mitä muuta.
 Puhuja 2: Hän oli Israelin salaisen palvelun
-Puhuja 2: apuna, kun
-Puhuja 2: hän
-Puhuja 2: lähti Mossarin tyypit olivat perustamassa yksityisen yrityksen,
-Puhuja 2: josta hän joutui sittemmin myös FBI:n
-Puhuja 2: kuultavaksi.
-Puhuja 2: Mikä minusta oli kiehtovin.
-Puhuja 2: Sitten hän palkattiin silloin kun Qatarille myönnettiin Fudiksen MM-kisat,
-Puhuja 2: joka oli
-Puhuja 2: kaikinpuolin
-Puhuja 2: kiistanalainen temppu, niin sitten siinä oli tilanne, että Yhdysvallat oli
-Puhuja 2: äänestys,
-Puhuja 2: niin Yhdysvallatkin oli arkistot että he voisivat lähteä hakemaan.
+Puhuja 2: apuna
+Puhuja 2: kun Mossadin tyypit olivat perustamassa yksityisen yrityksen,
+Puhuja 2: josta hän joutui sittemmin myös FBI:n kuultavaksi.
+Puhuja 2: Sitten mikä oli kiehtovin.
+Puhuja 2: Sitten hänet palkattiin silloin kun Qatarille myönnettiin Fudiksen MM-kisat,
+Puhuja 2: joka
+Puhuja 2: oli kaikin puolin
+Puhuja 2: kiistanalainen
+Puhuja 2: temppu. Sitten siinä oli tilanne, että kun
+Puhuja 2: äänestys oli tulossa, niin Yhdysvallatkin oli arkistot, että he voisivat lähteä hakemaan.
 Puhuja 2: Mutta sitten Qatar
-Puhuja 2: palkastaan hepuneita, niin tämän täytyy tuhota
-Puhuja 2: Yhdysvaltain hakemus.
-Puhuja 2: Hän onnistui siinä.
-Puhuja 2: Se kertoo hyvin yksityiskohtaisesti
-Puhuja 2: miten
-Puhuja 2: Siis se olisi vaatinut
+Puhuja 2: palkkasvat hepuneita, niin tämän täytyy tuhota
+Puhuja 2: Yhdysvaltain hakemus. Hän onnistui siinä.
+Puhuja 2: Se kertoo hyvin yksityiskohtaisesti,
+Puhuja 2: että se olisi vaatinut
 Puhuja 2: budjettirahoitusta
-Puhuja 2: ja fyrkkaa, että hakua voidaan tehdä, mutta hän onnistui syöttämään tällaisen tarinan,
+Puhuja 2: ja fyrkkaa, että hakua voidaan tehdä, mutta hän onnistui syöttämään
+Puhuja 2: tämmöisen tarinan,
 Puhuja 2: että amerikkalaiset lapset ovat lihavia.
-Puhuja 2: Miten voidaan laittaa rahaa fudiksen MM-kisoihin,
-Puhuja 2: kun amerikkalaiset lapset ovat lihavia? Ei tarvitse lisää liikuntaa ja
-Puhuja 2: vaikka tunteja ja
-Puhuja 2: paikkoja joissa amerikkalaiset lapset voisivat liikkua. Hän onnistui
-Puhuja 2: pyöritys aloittamaan
-Puhuja 2: tästä
-Puhuja 2: poliittisen keskustelun, joka lopulta johti siihen että Yhdysvallat
-Puhuja 2: vetäytyi
-Puhuja 2: siitä skavasta ja Qatar sai MM-kisat.
-Puhuja 2: Hän kertoi
-Puhuja 2: tarinoita hyvin yksityiskohtaisesti
-Puhuja 2: ja että vaikka mitä muita. Kun jatkan on ollut,
-Puhuja 2: Sehän alkaa kärsiä pahasta omasta tunnosta ja sitähän masentuu koittaa tehdä itsemurhan.
-Puhuja 2: Mutta yritän huikea kirja, All the World Human. Se kertoo
+Puhuja 2: Miten voidaan laittaa rahaa Furiksen MM-kisoihin,
+Puhuja 2: kun amerikkalaiset lapset ovat lihavia. Ei tarvitse lisää liikuntaa, lisää vaikka
+Puhuja 2: tämmöisiä paikkoja missä amerikkalaiset lapset voisi liikkua. Hän onnistui
+Puhuja 2: auttamaan tästä semmoisen poliittisen
+Puhuja 2: keskustelun, joka lopulta johti siihen, että Yhdysvallat
+Puhuja 2: vetäytyivät siitä skavasta ja Qatar
+Puhuja 2: sai MM-kisat.
+Puhuja 2: Uppo, älä voi kertoa näitä hyvin yksityiskohtaisesti ja että vaikka mitä muita. Jatka en ollut, niin se rupeaa kärsimään pahasta omasta tunnosta ja masentoja koettaa tehdä itsemurhan.
+Puhuja 2: Mutta huikean kirja, All the World Human. Se kertoo
 Puhuja 2: lobbauksen
-Puhuja 2: dalgh arts puolesta.
-Puhuja 0: Vau,
-Puhuja 0: mahtava.
-Puhuja 0: Tiedän, että meillä on nyt kello jo loppu.
+Puhuja 2: ja dalg arts puolesta.
+Puhuja 0: Vau, mahtava. Hei, tiedän,
+Puhuja 0: että meillä on nyt kello jo loppu.
 Puhuja 0: Yritän olla tiivis. Tämä on vähän mieltä alentava.
-Puhuja 0: Marko,
-Puhuja 0: toivoisin, että sinulla on jotain viisasta sanottavaa.
+Puhuja 0: Marko, toivoisin,
+Puhuja 0: että sinulla olisi jotain viisasta sanottavaa.
 Puhuja 0: Tämä liittyy
-Puhuja 0: semmoiseen X-eeraukseen,
-Puhuja 0: jonka tein.
-Puhuja 0: Minun X-eerauksen ympärillä oli valtava
+Puhuja 0: XMLukseen, jonka tein.
+Puhuja 0: Minun XMLuksen ympärillä oli valtava
 Puhuja 0: raivoisa.
-Puhuja 0: Raivoista.
-Puhuja 0: Sitä jaettiin ja siitä tykättiin tuhansittain ja sen ympärille oli valtavasti tyypillistä
-Puhuja 0: persuhenkistä
-Puhuja 0: raivoa. Sen takia mulla on itsellä nihkeä olo edes nyt puhua tästä asiasta.
-Puhuja 0: Mun mielestä tässä sisällä on kiinnostava
-Puhuja 0: asia.
+Puhuja 0: Raivoista. Sitä jaettiin ja siitä tykättiin tuhansittain ja sen ympärille oli valtavasti tyypillistä
+Puhuja 0: vähän perushenkistä
+Puhuja 0: raivoa. Sen takia mulla on itsellä nihkeä olo edes puhua tästä asiasta.
+Puhuja 0: Mun mielestä tässä sisällä on kiinnostava asia.
 Puhuja 0: Tavallaan kaipaisin tähän
 Puhuja 0: vanhemman valtionpäämiehen
 Puhuja 0: eli sinun
-Puhuja 0: ajatusta
-Puhuja 2: hyvin. Jos koitan kaivaa sitä.
+Puhuja 0: ajatusta hyvin. Yritän kaivaa sitä.
 Puhuja 0: Älä, mä selitän.
 Puhuja 0: Tällä viikolla tuli viimeiset tuomiot
 Puhuja 0: Oikeuskeississä,
 Puhuja 0: joka liittyy minun
-Puhuja 0: kotikaupunkiin Ouluun. Se on ihan pohjattuvan surullinen ja kamala tapaus
+Puhuja 0: kotikaupunkiin Ouluun. Se on ihan pohjatvan surullinen ja kamala tapaus
 Puhuja 0: vuodelta kaksituhatta kahdeksantoista,
 Puhuja 0: jolloin
 Puhuja 0: kahdeksan miestä
 Puhuja 0: raiskasi
 Puhuja 0: 13-vuotiasta
 Puhuja 0: tyttöä kuukausien ajan.
-Puhuja 0: Se on hyvin kuuluisa keissi. Se edelsi
-Puhuja 0: eduskuntavaaleja, todennäköisesti persut saivat siitä paljon
-Puhuja 0: lisää kannatusta.
+Puhuja 0: Se on hyvin kuuluisa keissi. Se edelsi eduskuntavaaleja, todennäköisesti persut saivat siitä
+Puhuja 0: paljon lisää kannatusta.
 Puhuja 0: Varsinkin Oulussa
 Puhuja 0: se oli pysäyttävä asia meille oululaisille.
-Puhuja 0: Minäkin olen siis alun perin oululainen,
-Puhuja 0: että miten on mahdollista, että tämmöistä on käynyt.
-Puhuja 0: Miehet napattiin silloin kiinni ja sitten heidät tuomittiin.
+Puhuja 0: Minäkin olen siis alun perin oululainen.
+Puhuja 0: Että miten on mahdollista, että tämmöistä on käynyt.
+Puhuja 0: Ne miehet napattiin silloin kiinni
+Puhuja 0: ja sitten heidät tuomittiin.
 Puhuja 0: Tuomiot olivat maksimissaan neljä vuotta, eli nämä kaikki miehet
 Puhuja 0: on jo vapautettu.
 Puhuja 0: Tällä viikolla tuli
 Puhuja 0: viimeiset
-Puhuja 0: tuomiot, jotka tulivat kahdelle tämän tytön asioista vastanneille sosiaalivirkailijalle
+Puhuja 0: tuomiot, jotka tulivat
+Puhuja 0: kahdelle tämän tytön asioista vastanneille
+Puhuja 0: sosiaalivirkailijalle
 Puhuja 0: sillä tavalla, että
 Puhuja 0: Tämä on kaikki
 Puhuja 0: hyvin
 Puhuja 0: yksinkertaistetusti.
 Puhuja 0: Tämä tyttö oli Kempeleen kunnassa
 Puhuja 0: sosiaalihuollon
-Puhuja 0: alaisuudessa ja sitten
+Puhuja 0: alaisuudessa
+Puhuja 0: ja sitten
 Puhuja 0: hänen asioista
-Puhuja 0: käytännössä vastanneille
-Puhuja 0: sosiaalivirkailijoille
+Puhuja 0: käytännössä
+Puhuja 0: vastanneille sosiaalivirkailijoille
 Puhuja 0: annettiin
 Puhuja 0: neljäsataa euron sakko ja
 Puhuja 0: toiselle vähän
-Puhuja 0: pienempi, parin kolmesataa euron sakko. Okei, eli
-Puhuja 0: eli nyt tulee se mun ajatus, kysymys tai pohdinta, johon mulla ei ole vastausta.
-Puhuja 0: Se on se, että
+Puhuja 0: pienempi, parin kolmesataa euron sakko. Okei.
+Puhuja 0: Nyt tulee ajatus, kysymys tai pohdinta, johon mulla ei ole vastausta.
+Puhuja 0: Se on se, että tämmöinen
 Puhuja 0: symbolisesti,
-Puhuja 0: inhimillisesti
-Puhuja 0: merkittävä asia. En väitä, että se on ainoa kamala asia, mitä lapsille on ikinä tapahtunut Suomessa, ei todellakaan. Mutta symbolisesti se on jotenkin tosi merkittävä, että miten voi olla mahdollista, että yhteisen
-Puhuja 0: huosapidon alainen
-Puhuja 0: 13-vuotias
+Puhuja 0: inhimillisesti merkittävä asia. En väitä, että se on ainoa, kamala asia, mitä lapsille on ikinä tapahtunut Suomessa, ei todellakaan.
+Puhuja 0: Mutta symbolisesti se on jotenkin tosi merkittävää, miten voi olla mahdollista, että yhteisen
+Puhuja 0: huosapidon alainen 13-vuotias
 Puhuja 0: tyttö
 Puhuja 0: voidaan kuukausia
 Puhuja 0: aikuisten miesten toimesta
@@ -168,83 +385,113 @@ Puhuja 0: tällä tavalla
 Puhuja 0: seksuaalisesti,
 Puhuja 0: vaikka
 Puhuja 0: hän kuuluu sosiaalitoimen alle.
-Puhuja 0: Rangaistukset ovat silleen, että ne on jo kärsitty ajat sitten, kukaan ei ole enää siitä vankilassa. Ja sitten tällä viikolla tuli hyvin
-Puhuja 0: pieniä sakkoja.
-Puhuja 2: Näin.
-Puhuja 2: Sakkoja siis sosiaalivirkailijoille.
-Puhuja 0: Yritin googlata, että jos tuo oli se viimeinen koko tästä isosta
-Puhuja 0: henkisesti merkittävästä vyyhdistä.
-Puhuja 0: Sitten, kun en löytänyt
-Puhuja 0: mitään muuta, että kenelle kukaan olisi joutunut siis kommentoimaan,
-Puhuja 0: sanomaan tai olemaan vastuussa tässä,
+Puhuja 0: Rangaistukset
+Puhuja 0: ovat niin, että ne on jo kärsitty ajat sitten, kukaan ei ole enää siitä vankilassa. Ja sitten tällä viikolla tuli hyvin pieniä
+Puhuja 0: sakkoja.
+Puhuja 0: Sakkoja
+Puhuja 0: siis
+Puhuja 0: sosiaalivirkaarkailijoille.
+Puhuja 0: Yritin googlata, että mikä Jos tuo oli se viimeinen,
+Puhuja 0: koko tästä isosta
+Puhuja 0: henkisesti
+Puhuja 0: merkittävästä vyyhdistä.
+Puhuja 0: Sitten kun en löytänyt
+Puhuja 0: mitään muuta, että kenelle, kukaan olisi joutunut
+Puhuja 0: kommentoimaan,
+Puhuja 0: sanomaan tai olemaan vastuussa
+Puhuja 0: tässä,
 Puhuja 0: paitsi ne itse tekijät, jotka tuomittiin,
-Puhuja 0: ja sitten alin
+Puhuja 0: ja sitten
+Puhuja 0: alin
 Puhuja 0: runko
-Puhuja 0: tikkaalla, jonka piti huolehtia tästä tytöstä.
-Puhuja 0: Nyt mulla ei ole tietoa eikä vastausta, mutta musta
+Puhuja 0: tikkaalla, jonka piti huolehtia tästä
+Puhuja 0: tytöstä.
+Puhuja 0: Nyt minulla ei ole tietoa eikä vastausta, mutta musta
 Puhuja 0: tuntuu, että jossain semmoisessa mun ankkalinna
 Puhuja 0: ihmemaassa,
 Puhuja 0: jossa asiat toimii niin kuin pitää,
-Puhuja 0: olisi olemassa esimerkiksi paikallispoliitikko,
+Puhuja 0: olisi olemassa esimerkiksi
+Puhuja 0: paikallispoliitikko,
 Puhuja 0: joka ajattelee, että ei hitto,
 Puhuja 0: minähän olen sosiaalilautakunnan
-Puhuja 0: puheenjohtaja. Tämä asia kuuluu minun alle,
-Puhuja 0: joten minua varmaan äänestäjät rankaisee tästä. Voi ei, minun täytyy tarttua nyt toimeen, pitää
-Puhuja 0: lehdistötilaisuus, sanoa, että tämä kamaluus on tapahtunut, on my watch,
-Puhuja 0: mutta muutamme asiat.
+Puhuja 0: puheenjohtaja. Tämä asia kuuluu minun alle, joten
+Puhuja 0: minua varmaan äänestäjät rankaisee tästä. Voi ei, minun täytyy tarttua nyt toimeen, pitää lehdistötilaisuus
+Puhuja 0: sanoa, että tämä kamaluus on tapahtunut. On my watch, mutta muutamme asiat.
 Puhuja 0: Annan potkut tälle
 Puhuja 0: virkamiesjohtajalle
 Puhuja 0: ja palkkaan siihen uuden virkamiesjohtajan,
-Puhuja 0: koska haluan todellakin poliitikkona
-Puhuja 0: jatkaa työssäni ja ansaita teidän äänenne myös ensivaaleissa.
-Puhuja 0: Mitään
-Puhuja 0: tämmöistä ei löydy.
+Puhuja 0: koska haluan
+Puhuja 0: todellakin poliitikkona jatkaa työssäni ja ansaita teidän äänenne myös ensivaaleissa.
+Puhuja 0: Mitään tämmöistä ei löydy.
 Puhuja 0: Myöskään ei
 Puhuja 0: löydy virkamiesjohtajilta
-Puhuja 0: mitään sille, että sinä virkavastuulla oleva ihminen, joka olet organisoinut tämän
-Puhuja 0: sosiaalihuollon
-Puhuja 0: siellä tai lastensuojelun tai mitä ikinä, että miten vastaat tähän? Miksi olet organisoinut sen niin päin helvettiä, että nämä kaksi sosiaalivirkailijaa
-Puhuja 0: eivät ole kerenneet hoitamaan asiansa?
-Puhuja 0: Mitään tämmöistä en googlaamalla ja katsomalla ja lukemalla arkistoja löytänyt mistään, niin minusta on outoa, että tekijät tuomitaan ja se on totta kai juuri näin pitää olla. Tuomiot vaikuttivat sinänsä aika vähäisiltä.
-Puhuja 0: Ja sitten tavallaan
-Puhuja 0: alin runko, pari
-Puhuja 0: jotain raukkaparka-henkiiheverissä
+Puhuja 0: mitään, että sinä virkavastuulla oleva ihminen, joka olet organisoinut tämän
+Puhuja 0: sosiaalihuollon siellä tai lastensuojelun tai mitä ikinä, että miten vastaat tähän, miksi olet organisoinut sen niin päin helvettiä, että nämä kaksi sosiaalivirkailijaa
+Puhuja 0: eivät ole kerenneet
+Puhuja 0: hoitamaan asiansa.
+Puhuja 0: Mitään tämmöistä en googlaamalla ja katsomalla ja lukemalla arkistoja löytänyt mistään. Minusta on outoa, että tekijät tuomitaan ja siinä on totta kai juuri nämä pitää olla. Tuomiot vaikutti sinänsä aika vähäisiltä.
+Puhuja 0: Sitten tavallaan
+Puhuja 0: se alin runko, pari jotain raukkaparka
+Puhuja 0: henkihieverissä
 Puhuja 0: kiirettä pitävää
-Puhuja 0: sosiaalivirkailee
-Puhuja 0: sieltä alimmalta
-Puhuja 0: asteelta, niin heidät tuomittiin sakkoihin.
-Puhuja 0: Kukaan minua ei edes keskustele siitä?
-Puhuja 0: Minusta tuntuu, että se keskustelu olisi niin tärkeä.
-Puhuja 0: No
-Puhuja 0: niin, sain sanottua. Sanoa, että aiotaan viisasta.
-Puhuja 2: Ei mulla ole siis, onhan toi ihan tarina ei ole epäonnistunut,
-Puhuja 2: mutta onko tämä sun tämmöinen Elon Musk-hetki?
-Puhuja 2: Eli olet saman tyyliin kuin Elon Muskon
-Puhuja 2: riehuu
-Puhuja 2: vanhasta raiskauslasten
-Puhuja 2: hyväksikäyttökeissistä, jossa bugistanilaiset
-Puhuja 2: tekivät seksuaalista väkivaltaa
-Puhuja 2: isolle määrälle
-Puhuja 2: tyttöjä ja mistä hän nyt vaatii
+Puhuja 0: sosiaalivirkailijaa sieltä alimmalta asteelta, niin heidät tuomittiin sakkoihin.
+Puhuja 0: Kukaan minua ei edes keskustele siitä, vaikka musta tuntuu, että se keskustelu olisi niin tärkeä.
+Puhuja 0: No niin,
+Puhuja 0: sain sanottua. Sanoi, että aiotaan viisasta.
+Puhuja 2: Ei mulla ole siis onhan toi ihan järjet, joka on epällisejärjestelmältä,
+Puhuja 2: mutta onko tämä sun tällainen Elon Musk-hetki?
+Puhuja 2: Eli sä olet saman tyyliin kuin nyt Elon Muskoa
+Puhuja 2: siitä vanhasta
+Puhuja 2: raiskauslasten
+Puhuja 2: hyväksikäyttökeissistä,
+Puhuja 2: jossa bugistanilaiset
+Puhuja 2: teki seksuaalista väkivaltaa tälle isolle määrälle
+Puhuja 2: tyttöjä, ja mistä hän nyt vaatii
 Puhuja 2: Britannian pääministeri Keir Starteria
-Puhuja 0: vastuuseen, koska hän toimi silloin syyttäjänä. Joo, kyllä. Eli tämä on sun tämmöinen Mutta ei, mä en tiennyt, että tämä on menossa briteissä. Mä en tiennyt. Vasta kun olen itse postannut tämän oman X-seurauksen, tietenkin siellä kommenteissa nämä oikeisto
-Puhuja 0: perustui tyyliset oli, että englannissa on just sama meininki. Mulla se ei liittynyt siihen Sulla ja Elon Musk on tällainen henkinen yhteys. Minua
-Puhuja 0: tässä tämä mamu-aspekti
-Puhuja 0: ei kiinnosta. Se
-Puhuja 2: on olennainen Se mahdollinen pointti on nimenomaan vastuukysymys, että mikä on silloin se syyttäjä ja miksi tämä saattoi mennä näin.
-Puhuja 0: Juuri näin. Mä en tiedä, mutta Minua kiinnostaa se, että miksi tästä minun mielestäni keskustelu sen ympärillä, että okei, hei, sinä sosiaalitoimen
-Puhuja 0: johtaja
-Puhuja 0: vittuiksi meni, miksi meni? Sitten hän voi sanoa, että no hei, sen takia jouduttiin aliresursoimaan lastenhuoltoon,
-Puhuja 2: Meillä on valtavat fende-muuri. Eikö se puuttu edes aikoinaan? Ei.
-Puhuja 0: Okei, en ole kaikkia maailman juttuja lukenut siitä, en todellakaan. Voin olla
-Puhuja 0: väärässä.
-Puhuja 0: Mutta
-Puhuja 0: jotenkin nimenomaan tässä se keskustelu olisi niin hedelmällistä ja hyvää, sen pitäisi käydä.
+Puhuja 2: vastuuseen, koska hän toimi silloin
+Puhuja 0: syyttäjänä.
+Puhuja 0: Tämä on sun tämmöinen Mutta en tiennyt, että tämä on menossa Briteissä.
+Puhuja 0: Vasta kun olin itse postannut oman X-seurauksen,
+Puhuja 0: niin siellä
+Puhuja 0: kommenteissa
+Puhuja 0: oikeisto-perusteettyyliset
+Puhuja 0: oli, että englannissa on just sama meininki. Mulla se ei liittynyt siihen Sulla ja Elon Musk on henkinen yhteys. Mutta kun mulla se ei liity, kun
+Puhuja 2: Mua tässä tämä mamu-aspekti ei kiinnosta. Tai siis se on olennainen asia. Se asia on nimenomaan tämä vastuukysymys, että mikä on silloin se syyttäjä ja miksi tämä saattoi mennä näin. Niin, juuri näin. En tiedä,
+Puhuja 0: mutta kun minua kiinnostaa se, että miksi tästä minun mielestä keskustelu sen ympärillä, että okei, hei, sinä
+Puhuja 0: sosiaalitoimen
+Puhuja 0: johtaja, vituiksi meni, miksi meni. Sitten hän voisi sanoa, että no hei, sen takia jouduttiin aliresursoimaan
+Puhuja 0: lastenhuoltoa, että meillä on tämä valtavat. Fennog oli. Ei,
+Puhuja 0: Okei, mä en ole kaikkia maailman juttuja lukenut siitä. En todellakaan, voin olla väärässä.
+Puhuja 0: Mutta jotenkin
+Puhuja 0: nimenomaan tässä se keskustelu olisi niin hedelmällistä ja hyvää, sen pitäisi käydä.
 Puhuja 0: No niin.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marko Junkkari, kiitos kun kuuntelit tämän alan brändinä.
-Puhuja 0: Kiitos Salla Vuorekoskelle, joka joutui lähtemään tästä
-Puhuja 0: ajoissa.
-Puhuja 0: Ja minun nimi on Tuomas Peltämämäki, Äänikuva, ja kaiken mun mahtava meille tekee tällä viikolla Janne Erkki.
-Puhuja 0: Muistakaa lähettää meille palautetta
-Puhuja 0: uutisraportti
-Puhuja 0: ja kuullaan taas ensi viikolla.
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Marko Junkkari, kiitos, kun kuuntelit tämän alan brändin.
+Puhuja 0: Kiitos Salla Vuorekoskelle, joka joutui tosiaan lähtemään tästä
+Puhuja 0: ajoissa. Mun nimi on Tuomas Pelmäki, äänen kuva ja kaiken mun mahtava meille tekee tällä viikolla Janne Erkki.
+Puhuja 0: Muistakaa lähettää meille palautetta:
+Puhuja 0: uutisraportti ja kuullaan taas ensi viikolla!
+Puhuja 0: Moi Tuomas tässä.
+Puhuja 0: Mun uusi podcast, menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin, melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

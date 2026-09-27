@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tarkistusnäkymä</title>
+<style>
+  :root {
+    --bg: #f6f5f8; --pinta: #ffffff; --pinta2: #efedf3; --reuna: #dcd8e3;
+    --teksti: #1d1b22; --toissijainen: #5f5a6b; --aksentti: #0a7d58; --aksentti-teksti: #fff;
+    --hylatty: #a33a3a; --varoitus: #8a5a00; --korostus: #ffe58a;
+    --p0: #2f6fdb; --p1: #b8480f; --p2: #0a7d58; --p3: #8a3fc7; --p4: #b0226e; --p5: #4b6b00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16151a; --pinta: #1f1d25; --pinta2: #28252f; --reuna: #3a3643;
+      --teksti: #ecebf0; --toissijainen: #a7a2b3; --aksentti: #3bdaa5; --aksentti-teksti: #0c1f18;
+      --hylatty: #f08080; --varoitus: #f0c060; --korostus: #6b5a00;
+      --p0: #7aa7ff; --p1: #ff9a5c; --p2: #3bdaa5; --p3: #c89bff; --p4: #ff7ab8; --p5: #b5d65c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--teksti);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  button, input, textarea, select { font: inherit; color: inherit; }
+  header { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--reuna);
+    padding: 12px 20px; display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; }
+  header h1 { font-size: 18px; margin: 0; }
+  .edistyminen { color: var(--toissijainen); font-variant-numeric: tabular-nums; }
+  .palkki { width: 160px; height: 6px; background: var(--pinta2); border-radius: 3px; overflow: hidden; }
+  .palkki > div { height: 100%; background: var(--aksentti); }
+  .tyhja { flex: 1; }
+  select, input[type=search] { background: var(--pinta); border: 1px solid var(--reuna); border-radius: 6px; padding: 5px 8px; }
+  .nappi { border: 1px solid var(--reuna); background: var(--pinta); border-radius: 6px; padding: 5px 12px; cursor: pointer; }
+  .nappi:hover { border-color: var(--toissijainen); }
+  .nappi.ensisijainen { background: var(--aksentti); color: var(--aksentti-teksti); border-color: var(--aksentti); }
+  .nappi.hylkaa:hover { border-color: var(--hylatty); color: var(--hylatty); }
+  .nappi:disabled { opacity: .45; cursor: default; }
+  main { display: grid; grid-template-columns: minmax(0, 1fr) minmax(320px, 40%); gap: 20px; padding: 20px; }
+  @media (max-width: 900px) { main { grid-template-columns: 1fr; } #transkripti { position: static; height: 60vh; } }
+
+  .jakso { background: var(--pinta); border: 1px solid var(--reuna); border-radius: 10px; padding: 16px 18px; margin-bottom: 16px; }
+  .jakso.aktiivinen { border-color: var(--aksentti); }
+  .jakso-otsikko { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+  .jakso-otsikko h2 { font-size: 16px; margin: 0; flex: 1; min-width: 240px; }
+  .meta { color: var(--toissijainen); font-size: 13px; }
+  .tagi { font-size: 12px; padding: 1px 7px; border-radius: 999px; background: var(--pinta2); color: var(--toissijainen); white-space: nowrap; }
+  details.nykyiset { margin: 10px 0 4px; font-size: 13px; }
+  details.nykyiset summary { cursor: pointer; color: var(--toissijainen); }
+  details.nykyiset ol { margin: 6px 0 0; padding-left: 22px; }
+  details.nykyiset li { margin: 2px 0; }
+
+  .ero { border-top: 1px solid var(--reuna); padding: 12px 0 4px; margin-top: 10px; }
+  .ero-otsikko { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-weight: 600; }
+  .laji { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 4px; background: var(--pinta2); }
+  .laji.puuttuu { color: var(--aksentti); } .laji.suosittelija { color: var(--p0); }
+  .laji.teos { color: var(--p3); } .laji.ylimaarainen { color: var(--varoitus); }
+  .muutos { margin: 6px 0; }
+  .muutos del { color: var(--hylatty); } .muutos ins { color: var(--aksentti); text-decoration: none; font-weight: 600; }
+  .peruste { margin: 6px 0; padding: 6px 10px; border-left: 3px solid var(--reuna); color: var(--toissijainen); font-size: 13px; font-style: italic; }
+  .huom { color: var(--varoitus); font-size: 13px; margin: 4px 0; }
+  .kentat { display: grid; grid-template-columns: 110px 1fr; gap: 6px 10px; margin: 8px 0; align-items: start; }
+  .kentat label { color: var(--toissijainen); font-size: 13px; padding-top: 5px; }
+  .kentat input, .kentat textarea { width: 100%; background: var(--bg); border: 1px solid var(--reuna); border-radius: 6px; padding: 5px 8px; }
+  .kentat textarea { min-height: 54px; resize: vertical; }
+  .kentat.tallennettu div { padding-top: 5px; }
+  .toiminnot { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 4px; }
+  .ero.hyvaksytty { opacity: .85; } .ero.hylatty, .ero.poista { opacity: .5; }
+  .tila { font-size: 13px; font-weight: 600; }
+  .tila.hyvaksytty { color: var(--aksentti); } .tila.hylatty { color: var(--hylatty); } .tila.poista { color: var(--varoitus); }
+  .ei-eroja { color: var(--toissijainen); margin-top: 8px; }
+
+  #transkripti { position: sticky; top: 76px; height: calc(100vh - 96px); display: flex; flex-direction: column;
+    background: var(--pinta); border: 1px solid var(--reuna); border-radius: 10px; overflow: hidden; }
+  .tr-ylapalkki { padding: 10px 12px; border-bottom: 1px solid var(--reuna); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .tr-ylapalkki strong { flex: 1; min-width: 150px; font-size: 14px; }
+  .tr-ylapalkki input { flex: 1; min-width: 140px; }
+  #tr-rivit { overflow-y: auto; padding: 8px 12px; font-size: 13.5px; }
+  #tr-rivit p { margin: 0 0 4px; }
+  #tr-rivit .puhuja { font-weight: 700; margin-right: 4px; }
+  #tr-rivit mark { background: var(--korostus); color: inherit; border-radius: 2px; }
+  #tr-rivit p.nykyinen { outline: 2px solid var(--aksentti); outline-offset: 2px; border-radius: 2px; }
+  .tr-tyhja { color: var(--toissijainen); padding: 20px; }
+  #ilmoitus { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--teksti); color: var(--bg);
+    padding: 10px 16px; border-radius: 8px; opacity: 0; transition: opacity .2s; pointer-events: none; max-width: 90vw; }
+  #ilmoitus.nakyy { opacity: 1; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Tarkistusnäkymä</h1>
+  <span class="edistyminen" id="edistyminen">Ladataan…</span>
+  <div class="palkki"><div id="palkki" style="width:0"></div></div>
+  <span class="tyhja"></span>
+  <label>Näytä
+    <select id="suodatin">
+      <option value="avoimet">avoimet</option>
+      <option value="kaikki">kaikki</option>
+      <option value="paatetyt">päätetyt</option>
+    </select>
+  </label>
+  <button class="nappi ensisijainen" id="vie">Vie hyväksytyt korjauksiin</button>
+</header>
+<main>
+  <div id="jaksot"></div>
+  <aside id="transkripti">
+    <div class="tr-ylapalkki">
+      <strong id="tr-otsikko">Transkriptio</strong>
+      <input type="search" id="tr-haku" placeholder="Hae transkriptiosta…">
+      <button class="nappi" id="tr-seuraava" title="Seuraava osuma">↓</button>
+      <span class="meta" id="tr-osumat"></span>
+    </div>
+    <div id="tr-rivit"><p class="tr-tyhja">Valitse ehdotuksesta ”Näytä transkriptiossa”.</p></div>
+  </aside>
+</main>
+<div id="ilmoitus"></div>
+
+<script>
+const TYYPIT = {
+  puuttuu: "Puuttuva suositus",
+  suosittelija: "Suosittelija vaihtuu",
+  teos: "Teoksen nimi",
+  ylimaarainen: "Ei löytynyt uudesta poiminnasta",
+};
+let DATA = { jaksot: [], paatokset: {} };
+let transkriptiJakso = null, osumat = [], osumaIdx = -1;
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+function ilmoita(teksti) {
+  const el = document.getElementById("ilmoitus");
+  el.textContent = teksti;
+  el.classList.add("nakyy");
+  clearTimeout(ilmoita.ajastin);
+  ilmoita.ajastin = setTimeout(() => el.classList.remove("nakyy"), 3500);
+}
+
+async function lataa() {
+  const r = await fetch("/data");
+  DATA = await r.json();
+  piirra();
+}
+
+function oletusData(ero) {
+  const u = ero.uusi_data || {};
+  if (ero.tyyppi === "suosittelija") return { suosittelija: ero.uusi, kuvaus: u.kuvaus || "" };
+  if (ero.tyyppi === "teos") return { teos: ero.uusi, google_linkki: u.google_linkki || "", lisatieto_linkki: u.lisatieto_linkki || "" };
+  if (ero.tyyppi === "puuttuu") return {
+    teos: u.teos || ero.teos, suosittelija: ero.uusi || u.suosittelija, kuvaus: u.kuvaus || "",
+    paakategoria: u.paakategoria || "muu", kategoriat: u.kategoriat || [],
+    google_linkki: u.google_linkki || "", lisatieto_linkki: u.lisatieto_linkki || "",
+  };
+  return {};
+}
+
+// Mitkä kentät ihminen voi korjata ennen hyväksyntää
+const MUOKATTAVAT = {
+  suosittelija: ["suosittelija", "kuvaus"],
+  teos: ["teos"],
+  puuttuu: ["teos", "suosittelija", "kuvaus", "paakategoria"],
+  ylimaarainen: [],
+};
+const NIMET = { teos: "Teos", suosittelija: "Suosittelija", kuvaus: "Kuvaus", paakategoria: "Pääkategoria" };
+
+function laskeTilanne() {
+  let kaikki = 0, paatetty = 0, hyvaksyttyViematta = 0;
+  for (const j of DATA.jaksot) for (const e of j.erot) {
+    kaikki++;
+    const p = DATA.paatokset[e.avain];
+    if (p) paatetty++;
+    if (p && p.paatos === "hyvaksytty" && !p.viety) hyvaksyttyViematta++;
+  }
+  document.getElementById("edistyminen").textContent =
+    `${paatetty} / ${kaikki} päätetty · ${DATA.jaksot.length} jaksoa`;
+  document.getElementById("palkki").style.width = kaikki ? `${100 * paatetty / kaikki}%` : "0";
+  const vie = document.getElementById("vie");
+  vie.textContent = `Vie hyväksytyt korjauksiin (${hyvaksyttyViematta})`;
+  vie.disabled = hyvaksyttyViematta === 0;
+}
+
+function piirra() {
+  const suodatin = document.getElementById("suodatin").value;
+  const juuri = document.getElementById("jaksot");
+  const osat = [];
+  for (const j of DATA.jaksot) {
+    const avoimia = j.erot.filter(e => !DATA.paatokset[e.avain]).length;
+    if (suodatin === "avoimet" && avoimia === 0) continue;
+    if (suodatin === "paatetyt" && avoimia === j.erot.length) continue;
+    osat.push(piirraJakso(j, avoimia));
+  }
+  juuri.innerHTML = osat.join("") || `<p class="ei-eroja">Ei näytettävää tällä suodattimella. 🎉</p>`;
+  laskeTilanne();
+}
+
+function piirraJakso(j, avoimia) {
+  const osallistujat = (j.osallistujat_tiukka && j.osallistujat_tiukka.length ? j.osallistujat_tiukka : j.osallistujat_rss) || [];
+  const nykyiset = j.vanhat.map((r, i) =>
+    `<li value="${i}"><strong>${esc(r.suosittelija)}</strong> — ${esc(r.teos)}</li>`).join("");
+  const erot = j.erot.length
+    ? j.erot.map((e, i) => piirraEro(j, e, i)).join("")
+    : `<p class="ei-eroja">✅ Uusi poiminta täsmäsi sivun kanssa — ei muutettavaa.</p>`;
+  return `
+  <section class="jakso${transkriptiJakso === j.jakso_id ? " aktiivinen" : ""}" id="j-${esc(j.jakso_id)}">
+    <div class="jakso-otsikko">
+      <h2>${esc(j.jakso_otsikko)}</h2>
+      <span class="meta">${esc(j.paivamaara)}</span>
+      <span class="tagi">${esc(j.pisteet)} p</span>
+      ${j.otos && j.otos !== "-" ? `<span class="tagi">${esc(j.otos)}</span>` : ""}
+    </div>
+    <div class="meta">Studiossa: ${osallistujat.length ? esc(osallistujat.join(", ")) : "ei tiedossa (RSS)"} · sivulla ${j.vanhat.length}, uusi poiminta ${j.uusia}</div>
+    <details class="nykyiset"><summary>Sivulla nyt (${j.vanhat.length})</summary><ol start="0">${nykyiset || "<li>—</li>"}</ol></details>
+    ${erot}
+    ${avoimia > 1 ? `<div class="toiminnot"><button class="nappi" data-toiminto="hyvaksy-kaikki" data-jakso="${esc(j.jakso_id)}">Hyväksy jakson kaikki avoimet (${avoimia})</button></div>` : ""}
+  </section>`;
+}
+
+function piirraEro(j, e, i) {
+  const p = DATA.paatokset[e.avain];
+  const data = (p && p.data) || oletusData(e);
+  const idx = e.r_idx != null ? ` #${e.r_idx}` : "";
+  let muutos = "";
+  if (e.tyyppi === "suosittelija") muutos = `”${esc(e.teos)}”: <del>${esc(e.vanha)}</del> → <ins>${esc(e.uusi)}</ins>`;
+  else if (e.tyyppi === "teos") muutos = `<del>${esc(e.vanha)}</del> → <ins>${esc(e.uusi)}</ins>`;
+  else if (e.tyyppi === "puuttuu") muutos = `<ins>${esc(e.teos)}</ins> — ${esc(e.uusi)}`;
+  else muutos = `”${esc(e.teos)}” (${esc(e.vanha)}) — uusi poiminta ei löytänyt tätä. Heikko signaali: tuore poimintakin voi missata.`;
+
+  const kentat = MUOKATTAVAT[e.tyyppi].map(k => {
+    const arvo = data[k] ?? "";
+    const kentta = k === "kuvaus"
+      ? `<textarea data-kentta="${k}">${esc(arvo)}</textarea>`
+      : `<input data-kentta="${k}" value="${esc(arvo)}">`;
+    return `<label>${NIMET[k]}</label>${kentta}`;
+  }).join("");
+
+  const huomiot = [];
+  // Oma vienti näkyy korjaukset.json:ssa — ei varoiteta siitä käsikorjauksena
+  if (e.kasikorjattu && !(p && p.viety)) huomiot.push("Tätä suositusta on jo korjattu käsin admin-näkymässä — hyväksyntä ylikirjoittaa sen.");
+  if (e.tyyppi === "puuttuu" && /,/.test(data.suosittelija || "")) huomiot.push("Yhteissuositus: valitse yksi suosittelija (tai lisää kullekin oma).");
+  if (p && p.paatos === "hyvaksytty" && p.data) {
+    const muut = kuvauksenMuutNimet(j, p.data);
+    if (muut.length) huomiot.push(`Kuvauksessa mainitaan ${muut.join(", ")}, mutta suosittelija on ${p.data.suosittelija} — peru ja korjaa kuvaus, jos se on väärin.`);
+  }
+
+  let napit;
+  if (p && p.viety) napit = `<span class="tila hyvaksytty">✓ Viety korjauksiin</span>`;
+  else if (p) napit = `<span class="tila ${p.paatos}">${{ hyvaksytty: "✓ Hyväksytty", hylatty: "✕ Hylätty", poista: "Merkitty poistettavaksi" }[p.paatos]}</span>
+      <button class="nappi" data-toiminto="peru" data-avain="${esc(e.avain)}">Peru</button>`;
+  else if (e.tyyppi === "ylimaarainen") napit = `
+      <button class="nappi" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Pidä sivulla</button>
+      <button class="nappi hylkaa" data-toiminto="poista" data-avain="${esc(e.avain)}">Poista (kun poisto on toteutettu)</button>`;
+  else napit = `
+      <button class="nappi ensisijainen" data-toiminto="hyvaksytty" data-avain="${esc(e.avain)}">Hyväksy</button>
+      <button class="nappi hylkaa" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Hylkää</button>`;
+
+  return `
+  <div class="ero ${p ? p.paatos : ""}" data-avain="${esc(e.avain)}" data-jakso="${esc(j.jakso_id)}" data-i="${i}">
+    <div class="ero-otsikko"><span class="laji ${e.tyyppi}">${TYYPIT[e.tyyppi]}${idx}</span></div>
+    <div class="muutos">${muutos}</div>
+    ${e.peruste ? `<div class="peruste">Näyttö: ${esc(e.peruste)}</div>` : ""}
+    ${huomiot.map(h => `<div class="huom">⚠️ ${esc(h)}</div>`).join("")}
+    ${kentat && !p ? `<div class="kentat">${kentat}</div>` : ""}
+    ${p && p.paatos === "hyvaksytty" && p.data ? `<div class="kentat tallennettu">${
+      MUOKATTAVAT[e.tyyppi].map(k => `<label>${NIMET[k]}</label><div>${esc(p.data[k])}</div>`).join("")
+    }</div>` : ""}
+    <div class="toiminnot">
+      ${napit}
+      ${j.transkriptio ? `<button class="nappi" data-toiminto="nayta" data-jakso="${esc(j.jakso_id)}" data-i="${i}">Näytä transkriptiossa</button>` : ""}
+    </div>
+  </div>`;
+}
+
+// Jakson henkilöiden etunimet (+ Anna-Sofia Bernerin lempinimi Sohvi), joilla
+// tunnistetaan kuvaus, joka puhuu eri ihmisestä kuin suosittelija
+function jaksonEtunimet(j) {
+  const nimet = new Set();
+  const lisaa = n => {
+    if (!n || n === "tuntematon") return;
+    nimet.add(n.split(/\s+/)[0]);
+    if (n.startsWith("Anna-Sofia")) nimet.add("Sohvi");
+  };
+  [...(j.osallistujat_rss || []), ...(j.osallistujat_tiukka || [])].forEach(lisaa);
+  j.vanhat.forEach(r => lisaa(r.suosittelija));
+  j.erot.forEach(e => { lisaa(e.uusi); lisaa(e.vanha); });
+  return nimet;
+}
+
+function omatNimet(suosittelija) {
+  const etu = (suosittelija || "").split(/\s+/)[0];
+  return new Set(etu.startsWith("Anna-Sofia") ? [etu, "Sohvi"] : [etu]);
+}
+
+function kuvauksenMuutNimet(j, data) {
+  if (!data.kuvaus || !data.suosittelija) return [];
+  const omat = omatNimet(data.suosittelija);
+  return [...jaksonEtunimet(j)].filter(n => !omat.has(n) && new RegExp(`(^|[^\\p{L}])${n}`, "u").test(data.kuvaus));
+}
+
+// Suosittelijan nimen vaihto vaihtaa kuvauksen etunimen samalla ("Marko suosittelee" → "Tuomas suosittelee")
+document.getElementById("jaksot").addEventListener("focusin", ev => {
+  if (ev.target.dataset.kentta === "suosittelija") ev.target.dataset.edellinen = ev.target.value;
+});
+document.getElementById("jaksot").addEventListener("change", ev => {
+  const kentta = ev.target;
+  if (kentta.dataset.kentta !== "suosittelija") return;
+  const vanha = (kentta.dataset.edellinen || "").split(/\s+/)[0];
+  const uusi = kentta.value.trim().split(/\s+/)[0];
+  kentta.dataset.edellinen = kentta.value;
+  const kuvaus = kentta.closest(".ero").querySelector('[data-kentta="kuvaus"]');
+  if (!kuvaus || !vanha || !uusi || vanha === uusi) return;
+  const re = new RegExp(`(^|[^\\p{L}])${vanha}(?![\\p{L}-])`, "gu");
+  const korvattu = kuvaus.value.replace(re, `$1${uusi}`);
+  if (korvattu !== kuvaus.value) {
+    kuvaus.value = korvattu;
+    ilmoita(`Kuvauksen nimi vaihdettu: ${vanha} → ${uusi}. Tarkista taivutusmuodot (esim. ”Markon”).`);
+  }
+});
+
+function etsiEro(jaksoId, i) {
+  return DATA.jaksot.find(j => j.jakso_id === jaksoId).erot[i];
+}
+
+function kerääData(eroEl, ero) {
+  const data = { ...oletusData(ero) };
+  eroEl.querySelectorAll("[data-kentta]").forEach(k => { data[k.dataset.kentta] = k.value.trim(); });
+  return data;
+}
+
+async function tallennaPaatos(avain, paatos, eroEl) {
+  const jaksoId = eroEl.dataset.jakso, ero = etsiEro(jaksoId, +eroEl.dataset.i);
+  const runko = { avain, paatos, r_idx: ero.r_idx ?? null, data: paatos === "hyvaksytty" ? kerääData(eroEl, ero) : null };
+  const r = await fetch("/paatos", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(runko) });
+  if (!r.ok) { ilmoita((await r.json()).virhe || "Tallennus epäonnistui"); return false; }
+  if (paatos === null) delete DATA.paatokset[avain];
+  else DATA.paatokset[avain] = { paatos, r_idx: runko.r_idx, data: runko.data };
+  return true;
+}
+
+document.getElementById("jaksot").addEventListener("click", async ev => {
+  const nappi = ev.target.closest("[data-toiminto]");
+  if (!nappi) return;
+  const toiminto = nappi.dataset.toiminto;
+  if (toiminto === "nayta") return naytaTranskriptio(nappi.dataset.jakso, +nappi.dataset.i);
+  if (toiminto === "hyvaksy-kaikki") {
+    const osio = document.getElementById("j-" + nappi.dataset.jakso);
+    for (const el of osio.querySelectorAll(".ero")) {
+      const ero = etsiEro(el.dataset.jakso, +el.dataset.i);
+      if (!DATA.paatokset[el.dataset.avain] && ero.tyyppi !== "ylimaarainen")
+        await tallennaPaatos(el.dataset.avain, "hyvaksytty", el);
+    }
+    return piirra();
+  }
+  const eroEl = nappi.closest(".ero");
+  const paatos = toiminto === "peru" ? null : toiminto;
+  if (await tallennaPaatos(nappi.dataset.avain, paatos, eroEl)) piirra();
+});
+
+document.getElementById("suodatin").addEventListener("change", piirra);
+
+document.getElementById("vie").addEventListener("click", async () => {
+  const r = await fetch("/vie", { method: "POST", headers: { "Content-Type": "application/json" }, body: "{}" });
+  const t = await r.json();
+  ilmoita(`Viety admin/korjaukset.json:iin: ${t.muokkauksia} muokkausta, ${t.lisayksia} lisäystä. Sivusto päivittyy, kun tiedosto pushataan mainiin.`);
+  await lataa();
+});
+
+// --- Transkriptio ---
+const HUKKASANAT = new Set(["the", "and", "with", "from", "that", "this", "podcast", "sarja", "kirja", "elokuva", "jakso"]);
+
+function hakusanat(ero) {
+  const sanat = [];
+  const teos = ero.tyyppi === "teos" ? `${ero.vanha} ${ero.uusi}` : (ero.teos || "");
+  for (const s of teos.split(/[\s–—\-:,()"'””.!?]+/))
+    if (s.length >= 4 && !HUKKASANAT.has(s.toLowerCase())) sanat.push(s);
+  return sanat.slice(0, 4);
+}
+
+async function naytaTranskriptio(jaksoId, i) {
+  const jakso = DATA.jaksot.find(j => j.jakso_id === jaksoId);
+  const ero = jakso.erot[i];
+  if (transkriptiJakso !== jaksoId) {
+    const r = await fetch("/transkripti?id=" + encodeURIComponent(jaksoId));
+    const teksti = await r.text();
+    document.getElementById("tr-rivit").innerHTML = teksti.split("\n").map(rivi => {
+      const m = rivi.match(/^Puhuja (\d+):\s?(.*)$/);
+      if (!m) return `<p>${esc(rivi)}</p>`;
+      return `<p data-teksti="${esc(m[2])}"><span class="puhuja" style="color:var(--p${+m[1] % 6})">P${m[1]}</span><span class="rt">${esc(m[2])}</span></p>`;
+    }).join("");
+    transkriptiJakso = jaksoId;
+    document.getElementById("tr-otsikko").textContent = `${jakso.paivamaara} · transkriptio`;
+    document.querySelectorAll(".jakso").forEach(el => el.classList.toggle("aktiivinen", el.id === "j-" + jaksoId));
+  }
+  const sanat = hakusanat(ero);
+  document.getElementById("tr-haku").value = sanat.join(" ");
+  korosta(sanat);
+}
+
+function korosta(sanat) {
+  const rivit = [...document.querySelectorAll("#tr-rivit p")];
+  const lausekkeet = sanat.filter(Boolean).map(s => new RegExp(s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "i"));
+  osumat = [];
+  for (const p of rivit) {
+    const rt = p.querySelector(".rt") || p;
+    const alkuperainen = p.dataset.teksti ?? p.textContent;
+    let html = esc(alkuperainen), osui = false;
+    for (const re of lausekkeet) {
+      if (re.test(alkuperainen)) { osui = true; html = html.replace(new RegExp(re.source, "gi"), m => `<mark>${m}</mark>`); }
+    }
+    rt.innerHTML = html;
+    p.classList.remove("nykyinen");
+    if (osui) osumat.push(p);
+  }
+  osumaIdx = -1;
+  document.getElementById("tr-osumat").textContent = sanat.length ? `${osumat.length} osumaa` : "";
+  seuraavaOsuma();
+}
+
+function seuraavaOsuma() {
+  if (!osumat.length) return;
+  osumat[osumaIdx]?.classList.remove("nykyinen");
+  osumaIdx = (osumaIdx + 1) % osumat.length;
+  const p = osumat[osumaIdx];
+  p.classList.add("nykyinen");
+  p.scrollIntoView({ block: "center", behavior: "smooth" });
+  document.getElementById("tr-osumat").textContent = `${osumaIdx + 1} / ${osumat.length}`;
+}
+
+document.getElementById("tr-seuraava").addEventListener("click", seuraavaOsuma);
+document.getElementById("tr-haku").addEventListener("keydown", ev => {
+  if (ev.key !== "Enter") return;
+  ev.preventDefault();
+  const sanat = ev.target.value.split(/\s+/).filter(s => s.length >= 2);
+  korosta(sanat);
+});
+
+lataa();
+</script>
+</body>
+</html>

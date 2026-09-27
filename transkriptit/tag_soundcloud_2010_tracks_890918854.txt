@@ -1,0 +1,396 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
+Puhuja 0: miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien
+Puhuja 0: uutisremontti-podcastiin
+Puhuja 0: torstaina kymmenen.
+Puhuja 0: Syyskuuta vuonna kaksituhatta kaksikymmentä. Minun nimeni on Tuomas Peltomäki.
+Puhuja 0: Kanssani
+Puhuja 0: täällä vastikään remontoidossa Helsingin Sanomien podcast-studiossa
+Puhuja 0: ovat
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: politiikan toimittaja Marko Junkkari. Terve Marko!
+Puhuja 1: Moi, meillä on tosiaan taustalla uutisraportti,
+Puhuja 1: mikä toi jo näyttää.
+Puhuja 0: Eteen on kotoinen olo.
+Puhuja 0: Ei oo niin jäykkää kuin viimeksi.
+Puhuja 0: Ja Marian ollessa
+Puhuja 0: estynyt
+Puhuja 0: tavalla, jonka hän kertoi Slack, jota mä en kerennyt lukea, jollakin tapaa estynyt, niin saimme iloksemme
+Puhuja 0: ja mahtavasti ja upeasti. Tälle podcastille ja varsinkin tän podcastin
+Puhuja 2: kuulijoille riemyksiä ja onneksi taloustoimittaja Teemu Muhosen. Hei Teemu! Moi moi! Kiva olla täällä, on ennenkin ollut, mutta vain tuuraa kesätuuraajat
+Puhuja 2: aiemmin. Pääsee syksytuuraajat.
+Puhuja 0: Just näin. Kiitos siitä, että sä voit tuuraamaan myös näin syksyllä.
+Puhuja 0: Meillä oli uutismielessä vähän tällainen
+Puhuja 0: Vähän tällainen taskulammin
+Puhuja 0: viikko. Mitä niin? Eikö ollut suurin piirtein? No niin. Vähän taskullämmin.
+Puhuja 0: En ihan mitään mullistavaa ole.
+Puhuja 0: Suomalaisista puoluetta
+Puhuja 0: teki odotetuista odotetuimpia
+Puhuja 0: henkilövalintoja
+Puhuja 0: Annika Kasa Argon ja Petri Orpon
+Puhuja 0: muodossa.
+Puhuja 0: Keskustelemme
+Puhuja 0: näistä ainakin Annika Saarikon valinnasta keskustan puheenjohtajaksi.
+Puhuja 0: Marko Junkkari oli paikalla Ouluhallissa, jossa minä vietin nuoruuteni perjantain pelata jalkapalloa.
+Puhuja 0: Vielä puhumme Jussi Halla-aho,
+Puhuja 0: jota taas Teemu Muhonen haastatteli.
+Puhuja 0: Muun muassa
+Puhuja 0: sinun haastattelussasi
+Puhuja 0: Teemu Jussi Halla-ahoen
+Puhuja 0: heitti Suomen köyhät ja vaivasi kylmästi ulos perussuomalaisten
+Puhuja 0: agendalta.
+Puhuja 0: Ja
+Puhuja 0: vielä intressi kenties liioitellaan.
+Puhuja 0: Vielä puhumme lähes triljoonan euron eli oikeasti ei lähellekään triljoonan
+Puhuja 0: euron, mutta
+Puhuja 0: seitsemänsataaviisikymmentä
+Puhuja 0: miljardin euron hätärahoituksesta,
+Puhuja 0: jonka EU päätti myöntää itselleen palauttaakseen jotakin talous, talous, talous.
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 0: pitkien, epämukavien hiljaisyyksien
+Puhuja 0: varalle.
+Puhuja 0: Okei. Ensinnäkin oikaisu.
+Puhuja 0: Viime jaksossa mä sanon
+Puhuja 0: jotain epäselvästi tai väärin tai arvailin
+Puhuja 0: liian
+Puhuja 0: sen kuuloisesti, että tietäisin asiasta jotain. Väitin,
+Puhuja 0: että vihreiden
+Puhuja 0: varapuheenjohtaja
+Puhuja 0: on,
+Puhuja 0: oliko Elina Hirvonen?
+Puhuja 0: Hän ei ole, ei kun Moisio. Kyllä. Tämä Elina Moisio, joka on Milttonilla,
+Puhuja 0: joka oli
+Puhuja 0: hallitusneuvotteluissa.
+Puhuja 0: Mehän korjattiin se jo siellä vähän. Niin minunkin mielestä korjattiin, mutta sain siitä vähän russutusta
+Puhuja 0: jälkikäteen, että tällaisia väitin ja se ei pidä paikkaansa.
+Puhuja 0: Eli hän ei ole
+Puhuja 1: varapuheenjohtaja. Joo ei ole, mutta mun mielestä korjasin, mä sanoin siinä välissä. Näin oli. Mutta korjataan nyt vielä uudelleen, kun kerron. Kolmattannut siihen paikkaan, kun virheet tulee.
+Puhuja 0: Se on ainoa oikea tapa kuunnella podcastia. Heti ensimmäisestä pienestä slipsslipsa
+Puhuja 0: asukkaista poikki.
+Puhuja 0: Perussuomalaisten puheenjohtaja Jussi Halla-aho istui Teemun kanssa alas ja ilmestyi tällainen hyvin vaikuttava
+Puhuja 0: Mitä kuuluu Jussi haastattelu?
+Puhuja 0: Jossa käsittämättömästi
+Puhuja 0: ei tarvinnut kertaakaan puhua maahanmuutosta.
+Puhuja 0: Sen sijaan Halla-aho sanoi sellaisia persoäänestäjä-sterjiä
+Puhuja 0: murskaavia asioita kuten köyhät kyykkyyn, poista loputkin tuet ja ei vaitisikaan.
+Puhuja 0: Mutta haastattelussa Halla-aho jotenkin toi lihaksi sen, mitä moni saattoi viime vaaleissa alkaa epäillä, ainakin, jos lukivat
+Puhuja 0: perussuomalaisten vaaliohjelmaa,
+Puhuja 0: lukua maahanmuutto pidemmälle.
+Puhuja 0: Nimittäin sen maahanmuuttoluvun jälkeen alkoi aika kylmän
+Puhuja 0: oikeistolainen talous
+Puhuja 0: selostus myös vaaliohjelmassa.
+Puhuja 0: Nyt
+Puhuja 0: sinun haastattelussasi
+Puhuja 0: Teemu Jussi Hallaho jatkoi näiden talousajatustensa
+Puhuja 0: avaamista.
+Puhuja 0: Autoitko, Teemu, Jussi Hallahaa
+Puhuja 0: lappioimaan
+Puhuja 0: soinin perinnön kuinka syvälle maahan?
+Puhuja 2: No ensinnäkin, jottei tule taas oikaistavaa, niin ei istuttu alas vaan apua jo tästä koko hommaa ite.
+Puhuja 2: Ajatellaan vaikka SDP:tä, niin kyllähän niillä on siis pitkän linjan ohjelmatyö työ takana ja kaikki linjat on aika selvät. Se, kuka sinne johtoon menee,
+Puhuja 2: niin ei se hirveästi Niillä on selkeät prioriteetit. Se, joka neuvottelee vaikka puheenjohtaja, tietää, mitkä on meidän puolueelle
+Puhuja 2: tärkeitä asioita ja missä
+Puhuja 2: järjestyksessä.
+Puhuja 2: Sitten on tietysti puolueita, kuten perussuomalaiset, jossa ehkä se puheenjohtajakin
+Puhuja 2: voi
+Puhuja 2: yksin
+Puhuja 2: enemmän sitä poliittista linjaa
+Puhuja 2: määritellä.
+Puhuja 2: Mutta mä sanoisin vielä, kun toi Rinne tuli puheeksi, niin kyllähän Rinne taas tiedettiin sellaiseksi, joka osallistui erittäin aktiivisesti
+Puhuja 2: kaikenlaiseen demareiden ja muidenkin
+Puhuja 2: toimintaan. Ja puhelin soi joka puolella. Ja
+Puhuja 2: sillä oli varmasti vaikutusta tosi monien työhön, mutta kuulemma
+Puhuja 2: Marin enemmän
+Puhuja 2: antaa eri osastojen ja tehdä oman työnsä.
+Puhuja 2: Ja ylhäältä päin katsoo vaan, että kaikki menee
+Puhuja 2: suunnitellusti eteenpäin.
+Puhuja 0: Okei. Lyhyesti, hyvin tiiviisti ja lyhyesti
+Puhuja 0: keskustellaan vielä
+Puhuja 0: EU:sta.
+Puhuja 0: Eduskunta nimittäin kävi keskiviikkona kipakan keskustelun EU:n
+Puhuja 0: seitsemänsataaviisikymmentä miljardin euron hätärahoituspaketista,
+Puhuja 0: kun pääministeri Sanna Marin antoi asiasta pääministeri ilmoituksen.
+Puhuja 0: Marinin mukaan ehdottomasti
+Puhuja 0: hätärahoitus oli vaan ja ainoastaan koronakriisiin
+Puhuja 0: laadittu poikkeus, joka ei ikinä enää tule tapahtumaan uudelleen koskaan maailman historiassa.
+Puhuja 0: EU:lle
+Puhuja 0: ei millään tavalla olla antamassa
+Puhuja 0: lisää valtaa koskaan
+Puhuja 0: enää, ikinä. Mikään tässä ei toistu.
+Puhuja 0: Koska tämä on juuri se asia, mistä oppositio
+Puhuja 0: eli orpojaa. Varsinkin kristillisdemokraatit
+Puhuja 0: on aivan vauhkana tämän asian kanssa. Ja myös totta kai perussuomalaiset.
+Puhuja 0: Niin he taas pukkitaan
+Puhuja 0: tai he maalaavat. Eli tämän tällä tavalla, että nyt käytännössä
+Puhuja 0: on tehty. EU:lle on annettu verotusoikeus ja
+Puhuja 0: budjettiin pysyvä lisä koronakriisin
+Puhuja 0: myötä. Sitä kautta liittovaltiokehitys
+Puhuja 2: on ottanut aimo harppauksen eteenpäin ja näin plaaplaa. Käytännössä sama asiahan on saanut myös Sauli Niinistö.
+Puhuja 2: Niin. Ei ihan yhtä
+Puhuja 2: pitkälle vietynä, mutta samansuuntainen.
+Puhuja 0: Kyse on siis
+Puhuja 0: seitsemänsataaviisikymmentä
+Puhuja 0: miljardista eurosta, joka
+Puhuja 0: päätettiin heinäkuussa,
+Puhuja 0: että EU tämmöisen tekee ja sillä on tarkoitus siis korjata näitä koronan
+Puhuja 0: ajatuksia. Meidän
+Puhuja 0: taloustoimittajien
+Puhuja 0: kunkku Petri Sajari oli kirjoittanut tällä tavalla: EU,
+Puhuja 0: mistä pähkinänkuoressa on kyse, niin
+Puhuja 0: EU
+Puhuja 0: valtuuttaa
+Puhuja 0: komission hankkimaan rahoitusmarkkinoilta
+Puhuja 0: lainaa
+Puhuja 0: enintään
+Puhuja 0: seitsemänsataaviisikymmentä miljardia euroa, josta kolmesataayhdeksänkymmentä
+Puhuja 0: miljardia
+Puhuja 0: euroa annetaan jäsenvaltioille
+Puhuja 0: vastikkeettomina
+Puhuja 0: avustuksina,
+Puhuja 0: joita ei siis
+Puhuja 0: tarvitse maksaa takaisin. EU:n myöntämien lainojen
+Puhuja 0: enimmäismäärä on kolmesataakuusikymmentä miljardia euroa. Eli
+Puhuja 0: siis jos puretaan toi osiin
+Puhuja 1: Pitääks me oikeasti lähteä puhumaan? Eikö tää nyt toimi? Miks me käydään tätä läpi? Ei tästä ole puhuttu.
+Puhuja 0: Aapt kuin heinä jonkun puolivälissä. Niin, mutta kun tää on niin käsittämätöntä asia. Mikä siinä on käsittämätöntä? Se, että mitä siinä tapahtuu?
+Puhuja 2: EU ottaa lainaa. Eikö EU ennen ole ottanut lainaa? EU on ottanut lainaa hyvin pienissä määrin, ei ihan tässä mittakaavassa.
+Puhuja 2: On ajateltu,
+Puhuja 2: että EU:n perussopimuksetkin,
+Puhuja 2: tai siis on ajateltu, että on huono ilmaus, mutta monet ovat ajatelleet, että EU:n perussopimukset estäisi tällaisen, että EU voisi ottaa kaikkien
+Puhuja 2: maiden yhdessä takaamaa lainaa
+Puhuja 2: tällaisten juoksevien menojen ja tällaisten kattamiseen.
+Puhuja 2: Mutta
+Puhuja 2: käytännössä nyt on tulkittu niin, että ei ne nyt varsinaisesti estä ne perussopimukset sitä, kun niitä vähän venyttelee ja näin, niin kyllä tällainen paketti sieltä
+Puhuja 2: läpi sitten saadaan. Käytännössä tää tarkoittaa sitä, että nyt kun
+Puhuja 2: komissio ottaa
+Puhuja 2: markkinoilta lainaa, mitäs tietysti helposti
+Puhuja 2: ja aika halvalla korolla sieltä saa, niin sitten sitä jaetaan eri maille,
+Puhuja 2: eri EU-maille, kuten myös Suomelle. Tänne tulee kolme miljardia.
+Puhuja 2: Ja meidän pitää nyt keksiä, että mihin me laitetaan nää kolme
+Puhuja 2: miljardia, mihin kohteisiin, mihin investointeihin, mistä me löydetään fiksuja
+Puhuja 0: käyttökohteita. Komissio jollain tavalla ohjaa tätä kohti
+Puhuja 0: Sinne
+Puhuja 1: pitää nyt jo lokakuussa ainakin suunnilleen kertoa, mihin niitä kukin jäsenmaa meinaa käyttää.
+Puhuja 1: Mikä minusta se on kiehtovaa,
+Puhuja 1: että valtiovarainministeri Vanhanen sanoi tässä,
+Puhuja 1: että koska Suomen
+Puhuja 1: hallitusohjelmassahan oli tulevaisuusinvestointeja,
+Puhuja 1: mitkä eivät välttämättä olleet niin kovin investointeja. Mutta
+Puhuja 1: joka tapauksessa sitä rahaa pannaan joka puolelle, ja nämä piti tulevaisuusinvestointi-otsikon
+Puhuja 1: alla. Ja ne piti rahoittaa näillä
+Puhuja 1: valtion yhtiöiden osakkeiden myynnillä. Mutta osakkeita ei pysty myymään, kun kurssit laski keväällä
+Puhuja 1: ja muutenkin markkinat on ollut vaikea. Vanhahan sanoi kesällä, että nyt EU:n
+Puhuja 1: sitä kolmea miljardia voitaisiin käyttää näihin hallitusohjelman
+Puhuja 1: tulevaisuusinvestointeihin.
+Puhuja 1: Se muodostaa mun mielestä todella hassulta.
+Puhuja 1: Mikä siinä on hassu?
+Puhuja 1: Sitä käytetään nyt meidän budjetin
+Puhuja 1: hallitusohjelmassa
+Puhuja 1: ilmaistujen menojen paikkauksen, kun tilanne on muuttunut sen jälkeen. Nyt piti kumminkin rahaa laittaa
+Puhuja 1: tavallaan ilmastoystävällisiin
+Puhuja 1: elvytystoimiin. Ei se mun mielestä Mä en tiedä, kattaako ihan yksi yhteen se, että yhdellä rahalla maksetaankin sitä Suomen jonkun lähetystön
+Puhuja 1: peruskorjausta.
+Puhuja 2: No, nää asiat venyy ja paukkuu, mutta
+Puhuja 2: loppuun saakka vielä, että mistä se kiista on, niin nyt kun Suomeen tulee se kolme miljardia, niin se ei tietenkään tarkoita, että me saadaan tää ilmaiseksi, vaan sitten Suomen osuus
+Puhuja 2: siitä,
+Puhuja 2: ikään kuin vastuu siitä velasta, jonka EU ottaa, niin se taas on kuusi
+Puhuja 2: pilkku kuusi miljardia tai jotain. Ja sitten tietysti EU joutuu maksamaan tätä velkaa pois ja se tapahtuu vuodesta kaksituhatta kaksikymmentäkahdeksan tai
+Puhuja 2: kaksituhatta kaksikymmentäseitsemän eteenpäin
+Puhuja 2: kolmekymmentä vuoden ajan. Ja mistä EU silloin saa nää rahat, niin sitten niitä kerätään muun muassa
+Puhuja 2: Suomen korkeampina
+Puhuja 2: jäsenmaksuina.
+Puhuja 0: Mutta nyt palataan takaisin filosofiaan.
+Puhuja 0: Joutuuko EU maksaa näitä?
+Puhuja 1: Mikä on todennäköistä, että
+Puhuja 1: EU tämän myötä muuttuu
+Puhuja 1: ja komissiolle tulee oma budjetti ja sitten se laina juoksee siitä eteenpäin. Sitten ei ole mitään vasta takaisin. Olisi mahtava, jos niille ei ikinä perustaa budjettiosasta, vaan se on lainan hoitaa.
+Puhuja 0: Palataan vähän siihen rahan
+Puhuja 0: luomiskysymykseen.
+Puhuja 0: Että eikö jälleen kerran, jos se on seitsemänsataaviisikymmentä
+Puhuja 0: miljardia euroa tai EU:ssa
+Puhuja 0: lainaa, niin tuskin, missä on olemassa joku, kiekko pankki ja sillä on holvissa seitsemänsataaviisikymmentä
+Puhuja 0: miljardia euroa. Ei, vaan siellä just jälleen kerran se Ruukin osuuspankin. Neiti Näpsä kirjoittaa seitsemänsataaviisikymmentä
+Puhuja 0: miljardia, annetaan EU:lle, että se luodaan tyhjästä se raha.
+Puhuja 0: Ja sitten,
+Puhuja 0: mitä se on tyhjästä luotu, me leikitään, että se on jotain oikeata rahaa ja sitten
+Puhuja 0: jos on tosi paha taloustilanne, niin ei kukaan halua jotain leikkirahaa maksaa. Eikö se, että komissio
+Puhuja 1: laskee liikkeelle velkakirjoja,
+Puhuja 1: eiks se niin mene? Joo. Ja sitten kumminkin jossain vaiheessa EKP voisi ostaa komission velkakirjoja mitätöidä ne. Joo. Nythän
+Puhuja 2: siis tää
+Puhuja 2: ns. Halla-ahon kuvaama leikkirahamaailma on johtanut tilanteeseen, jossa keskuspankeilla, vaikka
+Puhuja 2: Euroopassa, on ihan hillitön määrä. Suomen Pankilla taitaa olla hallussaan joku
+Puhuja 2: Mä en nyt uskalla sanoa, ettei tää mee väärin tuu oikaisu, mutta sanotaan neljännes Suomen velasta. Entä jos keskuspankit vaan sanois valtiolle jossain kohtaa, että ei teidän nyt tarvikaan maksaa näitä takas, että me nyt otetaan tää hitti. Me merkitään tänne meidän kirjanpitoon.
+Puhuja 2: Olli Rehn, Suomen Pankki,
+Puhuja 2: otamme nyt tässä
+Puhuja 2: kolmekymmentä miljardia ja nyt kuusikymmentä miljardia
+Puhuja 2: takkiin ja elämä jatkuu.
+Puhuja 2: Vois periaatteessa tapahtua, mutta se kysymys on tietysti siitä, että missä kohtaa tässä meidän leikkirahamaailmassa niissä luottamus
+Puhuja 0: siihen rahaa. Tää kaikki toimii niin kauan kuin me kaikki teeskennellä, että me uskotaan tähän. Ei tarvii teeskennellä. Kannattaa vaan. Siihen uskoo ihan
+Puhuja 2: suhteellisen hyviäkin tuloksia tää tää on. Muun muassa Vesa Vihrielä,
+Puhuja 1: ekonomisti, joka nyt ei ole
+Puhuja 1: tämmöinen
+Puhuja 1: vasemmisto hippihörhla, niin
+Puhuja 1: on aika lähellä ki****u. Kuka on? Sano nyt tehdä.
+Puhuja 1: Niin,
+Puhuja 1: mutta siis musta
+Puhuja 0: Mua järkyttää se ajatus, että vuonna kaksituhatta, kun oli Millennium, niin silloin haettiin, että Afrikan köyhimmille maille, joiden
+Puhuja 0: koko tulevaisuus on Siis sitä ei ole olemassa sen takia, että niillä on niin paljon velkaa. Niille me ei suostuttu antamaan, ei Pennin lattiaan Kyllähän niitä mitätöytti. Joku kaksisataa miljoonaa, siellä on mitään se raha. Näin? Mutta sitten me ite,
+Puhuja 0: itelle annetaan, kaikki ovat velkavälteeks.
+Puhuja 0: Se on hyvä olla valkoinen
+Puhuja 0: eurooppalainen.
+Puhuja 0: Tässä positiossa on privilegioita.
+Puhuja 2: Mut toihan on ihan totta, kyllähän toi on pätenny. Joo, joo. Mut se on ihan kammottavaa.
+Puhuja 0: Niin. Oots EU:sta vielä jotain niin? Ei. Meidän pitäis perustaa erillinen podcast, jossa puhutaan Rahan filosofiasta.
+Puhuja 2: Kaikille tulee jossain
+Puhuja 2: kohtaa se vaihe, että ne kiinnostuu siitä, mitä raha on.
+Puhuja 0: Sitte kautta YouTubesta Zaidaistumisen
+Puhuja 0: foliahasta
+Puhuja 0: dokkari.
+Puhuja 2: Mutta tää on siis tällä hetkellä Sekottaapää.
+Puhuja 2: Tästä on myös Vanhanen. Siis
+Puhuja 2: valtiovarainministeriö on nyt puhunut viime aikoina paljon, että
+Puhuja 2: ajateltiin
+Puhuja 2: 2000-luvun alussa, että on tää raja EU:ssa tää kuusikymmentä prosenttia, että kuinka paljon saa olla velkaa suhteessa maan bruttokansantuotteeseen.
+Puhuja 2: Sitten, jos se siitä lähtee niinku karkaamaan,
+Puhuja 2: niin sitten markkinat ei enää uskalla lainata jollekin maalle ja sitten se
+Puhuja 2: käy Kreikalle, että korkotaso
+Puhuja 2: nousee ja sitten tulee kriisit ja muut. Mut nyt et tällaista näkymää jotenkin tai tällaista ei just nyt oo käsillä.
+Puhuja 2: Vaikka valtiot, Suomi ja muut ottaa hillittömiä määriä velkaa
+Puhuja 2: Suomessakin siellä kuusikymmentä prosenttia jo ylitetty ja tää on pienimmästä päässä. Suomihan oli just just kuusikymmentä alla ennen tätä koronaa. Ja nyt ollaan sen yli, mut eihän niinku
+Puhuja 2: markkinat antaa
+Puhuja 2: velkaa halvalla vaikka kuinka paljon, kunhan vaan otetaan. Niin kukaan ei voi oikein tietää. Vanhaenkin on sanonut, että ei kukaan voi tietää, miten sijoittajat
+Puhuja 2: tulee
+Puhuja 2: käyttäytymään.
+Puhuja 2: Jos tää menee sata prosenttiin, niin syntyykö jotain ongelmia vai missä kohtaa se tuntuu, että tässä ollaan vähän sellaisessa sumussa?
+Puhuja 1: Paljon Japanissa japanilla. Jenkit pystyy niiden sata
+Puhuja 0: Okei, sitten kun vietätte
+Puhuja 0: ihan tulleet, jättäkö, että viikolle tulee se päivä, että
+Puhuja 0: aurinko palaa, tuntuu jälleen vähän niinku kesältä. Te olette ehkä just siivannut koko talon, menette omalle takaterassille, kutsutte ystävät siihen ympärille, otatte siinä ihan rehellisen pelkän oluen.
+Puhuja 0: Ei mitään kikkailua eikä muuta. Mä voin
+Puhuja 0: aloittaa,
+Puhuja 1: koska olin viikonlopun siellä Ouluhallissa.
+Puhuja 0: Olihan
+Puhuja 0: siinä,
+Puhuja 1: kun oli katsonut tuo tennarin isossa salissa, niin kyllähän se jytisiä oli komean näköistä, mutta en ymmärtänyt siitä mitään. Se oli kyllä tiukka. Mä kävin katsomassa, kyllä.
+Puhuja 1: Ymmärsinkö sä? No,
+Puhuja 0: mä harrastan näitä
+Puhuja 0: aikaa ja fysiikkaa ja kaikkia tällaisia. Siis tykkään lukea niistä. Mä oon vähän harjaantunut,
+Puhuja 0: Tai miten On vaikka
+Puhuja 0: fysiikassa
+Puhuja 0: käsite kuin symmetria.
+Puhuja 0: Että mitä jos aika on symmetristä ja näin ja kaikki tämmöinen. Sitten se tekee vaan leffan siitä, mikä on ihan älytön tapa tehdä leffoja, mutta sillä niistä tulee Kreensa. Ja mä oon jotenkin
+Puhuja 1: eri päitä, kun hän syttyi palamaan,
+Puhuja 0: ei välittäisi siitä
+Puhuja 0: filosofiasta ja tieteestä siinä takana, niin se oli sellainen leffa, että siinä oli Mitä se oli? Varmaan kuusitoista sekuntia ajan alussa oli rauhallista ja sen jälkeen se oli loputtomalla,
+Puhuja 0: hillittämällä
+Puhuja 0: sykkeellä rytisti eteenpäin koko leffa. Se oli aika uskomaton suoritus. Kyllä. Ja siinä oli hienoja kuvia Tallinnasta. Joo,
+Puhuja 2: kyllä. Teema. Mäkin, jotka aiheella, josta kuulijat tuskin tajuaa mitään. Mä kysyin etukäteen Tuomakselta luvan, että saanko mä suositella toista podcastia.
+Puhuja 2: Tuomas antoi luvan etenkin, kun sitä vetää
+Puhuja 2: tätäkin ohjelmaa
+Puhuja 2: juontanut Tuija Siltamäki,
+Puhuja 2: joka on aloittanut juontamaan Eläketurvakeskuksen
+Puhuja 2: eläkekomitea-podcastia.
+Puhuja 2: Eikö se? Eikö saa?
+Puhuja 2: Mä
+Puhuja 2: en oo vielä ite ehtinyt kuunnella sitä ekaa jaksoa, joka on nyt tullut, mut mä oon ihan satavarma, että se
+Puhuja 2: on
+Puhuja 2: todella hyvä. Eli tehkää Tuija iloseksi ja käykää klikkaamassa
+Puhuja 2: auki
+Puhuja 2: kuulijamäärät monin kerkesi. Tässä listaa
+Puhuja 1: tässä maailmankaikkeudessa on
+Puhuja 1: ylipäätään kourallinen
+Puhuja 1: ihmisiä, jotka ymmärtää Suomen työeläkejärjestelmän
+Puhuja 1: ominaisluonteen.
+Puhuja 1: Mut kolme näistä henkilöistä on alle kuusikymppisiä.
+Puhuja 1: Sinä, Jani Hanska ja Tuija.
+Puhuja 2: On niitä enemmänkin oikeesti. On niitä enemmänkin. Ne
+Puhuja 2: on sellasia eläkenörttejä,
+Puhuja 2: jotka on
+Puhuja 2: siellä semmosissa hämysissä kavineteissa ja jolle Twitterissä kahdeksan Kavinettien ulkopuolella on kolme. Joo, kavinettien ulkopuolella on kolme.
+Puhuja 0: Erittäin
+Puhuja 0: kova podcast luvassa. Itse aion myös kuunnella ilman muuta.
+Puhuja 0: Mä suosittelen
+Puhuja 0: Mä tykkään lukea tosi nörttejä juttuja tosi paljon ja uppoa niihin syvälle. On olemassa semmoinen nörttiyden Sara, joka mua ei ole kiinnostanut tähän mennessä yhtään, mutta
+Puhuja 0: sitten mä tajusin, että ehkä on aika. Nimittäin tietokoneet.
+Puhuja 0: Ja mä tarkoitan tällä sitä, että kuivakoin
+Puhuja 0: ja tylsin mallinen aihealue
+Puhuja 0: on tietokoneiden historia.
+Puhuja 0: Mä oon vältellyt sitä. Se aina välillä varsinkin, kun fysiikkaa lukee jotain matikan historialta, että tämmöistä, niin se tietokoneiden historia käy siinä
+Puhuja 0: vieressä.
+Puhuja 0: Tämmöinen
+Puhuja 0: liittyy tietokoneeseen ja tälleen. Ja se aina tuntuu, että ei mennä sinne ja aa, niin kuivaa.
+Puhuja 0: Mutta nyt ajattelin, että jos me katsotaan tätä maailmaa meidän ympärillä
+Puhuja 0: nykyään tänä päivänä, niin se on niin täysin kaiken tän lävistämä,
+Puhuja 0: että
+Puhuja 0: tutustumalla
+Puhuja 0: tietokoneiden
+Puhuja 0: historiaan
+Puhuja 0: sen maailman, jossa me eletään tällä hetkellä, sen ehkä Sen tuo pari pykälää alas päin enemmän omalle tasolle. Sen ymmärtää, joku iPhone, joka on aivan käsittämätön
+Puhuja 0: laite, niin se muuttuisi kouriin tuntuvammaksi, että no niin okei, tää toimii tällä tavalla ja tämmöiset perusideat siellä on taustalla. Sitä varten on tämmöinen kirjailija, joka on ihan älyttömän hyvä kirjoittaja, kun Walther Iisaction. Hän kirjoittaa suuria elämänkertoja
+Puhuja 0: yleensä, mutta hän on ollut pitkään kiinnostunut tietotekniikan
+Puhuja 0: historiasta. Hän on kirjoittanut tämmösen kirjan kuin The Innovatities.
+Puhuja 0: How a group of hackers, Geneasis and Keas created the Digital Revolution,
+Puhuja 0: joka on tosi hyvä
+Puhuja 0: henkilöiden kautta käy läpi tietotekniikan
+Puhuja 0: historian, että miten lähdettiin jostain
+Puhuja 0: Babbagen difference engine, jossa 1800-luvulla,
+Puhuja 0: joka oli ensimmäinen talonkokoinen,
+Puhuja 0: mekaaninen, jollain veivattava
+Puhuja 0: systeemi.
+Puhuja 0: Miten siitä kuljetaan matka kohti
+Puhuja 0: iPhonea ja nykytietotekniikkaa?
+Puhuja 0: Tosi lähestyttävä,
+Puhuja 0: todella hyvin kerrottu, tosi viihdyttävä, hauska,
+Puhuja 0: ymmärrystä avaava ja tätä maailmaa ymmärtämään
+Puhuja 0: auttava kirja. The Innovatiots Waltter Iceksi suosittelen kyllä kovasti.
+Puhuja 2: Nää suositukset oli sikäli hyvät vielä, että jos on tosi lahjakas, niin voi samaan aikaan lukea sitä kirjaa,
+Puhuja 2: kuunnella eläkepodcastia
+Puhuja 2: ja katsoa sitä.
+Puhuja 0: Kyllä.
+Puhuja 0: Tää oli ehkä yksi nörteempiä
+Puhuja 0: lähetyksiä, mitä me ollaan tehty vähän aikaa. No sen
+Puhuja 2: siitä
+Puhuja 0: saako
+Puhuja 0: twitterissäuuteks-raportti:
+Puhuja 0: uomi.
+Puhuja 0: Peltomakihes.
+Puhuja 0: Fi, Marko. Junkkarihes.
+Puhuja 0: Fi, Teemu. Muhonenhes.
+Puhuja 0: Fi. Rakastetaan sähköpostia
+Puhuja 0: suuresti.
+Puhuja 0: Ja kuullaan taas
+Puhuja 0: ensi
+Puhuja 0: viikolla!
+Puhuja 0: Yritystappio syntyi. Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties
+Puhuja 0: maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko,
+Puhuja 0: joka lähti 70-luvulla Suomesta kohti Kaliforniaa.
+Puhuja 0: Ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen hämähäkinverkkoonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

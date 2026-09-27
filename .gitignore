@@ -19,5 +19,10 @@ pipeline/supla_audio_urlit.json
 pipeline/ajon_tulos.json
 pipeline/validointidata/epailyttavat.js
 pipeline/validointidata/epailyttavat.json
+pipeline/validointidata/pisteytys.json
+pipeline/tarkistusehdotukset.json
+pipeline/tarkistuspaatokset.json
+pipeline/tarkistuspaatokset.json.tmp
+pipeline/temp_tarkistus_*.mp3
 .claude/
 pipeline/korjaukset_applied_*.json

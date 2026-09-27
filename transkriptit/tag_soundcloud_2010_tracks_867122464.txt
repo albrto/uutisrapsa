@@ -1,213 +1,394 @@
-Puhuja 0: Hei ja tervetuloa
-Puhuja 0: Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin torstaina kolmekymmentä.
-Puhuja 0: Heinäkuuta.
-Puhuja 0: Minä olen Alma Onali ja kanssani täällä Sanomatalon studiossa ovat uutistoimittaja
-Puhuja 0: Onniniemi, hei Onni! Hei Alma! Ja sunnuntaitoimituksen
-Puhuja 0: toimittaja Ida-Sofia Hirvonen. Hei Ida-Sofia!
-Puhuja 0: Moikka! Tässä jaksossa me puhumme
-Puhuja 0: koronapandemian
-Puhuja 0: toisesta aallosta,
-Puhuja 0: kansanedustajien
-Puhuja 0: kielenkäytöstä
-Puhuja 0: ja Turkin
-Puhuja 0: törkeistä ihmisoikeusloukkauksista.
-Puhuja 0: Ja lopuksi vielä puheenaiheita
-Puhuja 0: pitkien kiusallisten hiljaisuuksien
-Puhuja 0: varalle. Tervetuloa mukaan!
-Puhuja 0: Hei,
-Puhuja 0: itku pitkästä ilosta! Tai ei niinkään pitkästä. Ei me kauaa kerättyä nauttia tästä pahimman koronakriisin
-Puhuja 0: selättämisestä,
-Puhuja 0: kun se jo kolkuttelee takaisin. Se paljon puhuttu ja pelätty toinen aalto. Laineet lyövät läpi niin Euroopassa kuin Aasiassakin.
-Puhuja 0: Tartuntojen määrä lisääntyy ainakin
-Puhuja 0: Balkanilla,
-Puhuja 0: Espanjassa ja Belgiassa.
-Puhuja 0: Puolassa, Australiassa ja Hongkongissa
-Puhuja 0: on tänään mitattu maiden ennätysmäärät
-Puhuja 0: uusia tartuntoja.
-Puhuja 0: Tai siis eilen ilmeisesti mitattu ja tänään ne on raportoitu.
-Puhuja 0: Monissa maissa on otettu uudestaan erilaisia rajoituksia käyttöön. Britannia asetti jo neljätoista päivän karanteenin kaikille Espanjasta palaaville briteille ja niitä olikin siellä jo yli puoli miljoonaa ja nyt Espanja on aivan helisemässä.
-Puhuja 0: Kun tää kauan kaivattu turismises
-Puhuja 0: onkin loppuukin näin törkeästi lyhyeen.
-Puhuja 0: Saksassa ollaan hyvin huolissaan tästä kehityksestä. Siellä on ollut sellaisia tartuntaryppäitä muun muassa vihannestilalla
-Puhuja 0: ja siellä on aikaisemmin näissä teurastamoissa ollut tällaista
-Puhuja 0: tartuntaongelmaa.
-Puhuja 0: Saksan tartuntataute
-Puhuja 0: sanoo, että uusien tartuntojen määrä johtuu ihmisten lepsuilusta. Mitäs
-Puhuja 1: tässä, asiat radikaalisti?
-Puhuja 0: Täähän on se ongelma, että Turkissahan on olemassa jo lainsäädäntöä,
-Puhuja 0: joka sallii
-Puhuja 0: materiaalin poistamisen
-Puhuja 0: sieltä viestimistä.
-Puhuja 0: Mutta se on ilmeisesti vaatinut Turkilta tosi sellaista tiukkaa
-Puhuja 0: tykittelyä jonnekin Twitterin ja muiden suuntaan plus sitä, että he ovat joutuneet jahtaamaan näitä
-Puhuja 0: yksittäisiä postaajia
-Puhuja 0: ja ottamaan heitä kiinni.
-Puhuja 0: Tällä
-Puhuja 0: uudella lainsäädännöllä
-Puhuja 0: Turkki haluaa päästä
-Puhuja 0: niiden somejättien
-Puhuja 0: sisälle oikeasti
-Puhuja 0: sieltä sisältäpäin hallitsemaan sitä systeemiä.
-Puhuja 0: Plus, että niillä on
-Puhuja 0: ilmeisesti tausta-ajatuksella myös se, että jos ne palvelimet
-Puhuja 0: ovat Turkin sisällä ja turkilla on omat edustajat
-Puhuja 0: näistä yhtiöistä, niin sitten ne joutuisivat maksamaan myös veroja turkkiin.
-Puhuja 0: Sinänsä
-Puhuja 0: pidän tällaista somejättien talutusnuoraan
-Puhuja 0: pistämistä ihan hyvänä ideana, koska kuinka paljon ne meistä
-Puhuja 0: omistaa
-Puhuja 0: tietoa ja mihinköhän heidänkin verovaransa kaikki oppavat? En tiedä. Sinänsä hyvä.
-Puhuja 0: Mutta Turkki tietysti tekee sen aivan vääristä syistä. Ja siis tällä lainsäädännöllä on luultavasti
-Puhuja 0: aivan hirveitä seurauksia ihmisille, koska Turkissahan
-Puhuja 0: Heidän lakihan kieltää
-Puhuja 0: presidentin halventamisen,
-Puhuja 0: kiellä
-Puhuja 0: turkkilaisuuden
-Puhuja 0: halventamisen,
-Puhuja 0: Turkin
-Puhuja 0: instituutioiden halventamisen.
-Puhuja 0: Siis miettikää se, että sä kritisoit Terokania, jossa asun twiitissä, niin se on niin kuin rikos, josta sut voidaan heittää vankilaan. Siis mä voin
-Puhuja 1: ostaa, että kun
-Puhuja 1: tää laki ajettiin tässä nyt hiljattain voimallisen läpi sen takia, että joku pilkkasi Twitterissä ehdogaanin vastasyntynyttä
-Puhuja 1: lapsenlapsia.
-Puhuja 2: Eiks tää oo perusteltu just, että haluamme vain rajoittaa vihapuhetta, joka tehostaa näillä alustoilla?
-Puhuja 0: Siellä on. Varmaan oikeasti jotain törkeää,
-Puhuja 0: voisin kuvitella.
-Puhuja 0: Mutta jotenkin tässä nyt tuntuu, että tällaisilla
-Puhuja 1: Vallanpitäjä arvostellaan,
-Puhuja 1: niin
-Puhuja 0: se ei ole ok. Joo, ja tällaisilla hyvin pientä osaa koskevilla perusteluilla
-Puhuja 0: ajetaan läpi lainsäädäntöä, jota voidaan käyttää oikeasti hyvin
-Puhuja 0: laajasti vain toisinajattelijoiden
-Puhuja 0: hiljentämiseen.
-Puhuja 2: Mutta todella huolestuttavaa, jos nämä somejätit
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 3: Hei, ja tervetuloa
+Puhuja 3: Helsingin Sanomien uutisraportti
+Puhuja 3: podcastiin torstaina kolmekymmentä.
+Puhuja 3: Heinäkuuta.
+Puhuja 3: Minä olen Alma Onali ja kanssani täällä Sanomatalon studiossa ovat uutistoimittaja Onniniemi, hei Onni! Hei Alma! Ja sunnuntaitoimituksen
+Puhuja 3: toimittaja Ida-Sofia Hirvonen. Hei Ida-Sofia. Moikka!
+Puhuja 3: Tässä
+Puhuja 3: jaksossa me puhumme
+Puhuja 3: koronapandemian toisesta aallosta,
+Puhuja 3: kansanedustajien
+Puhuja 3: kielenkäytöstä
+Puhuja 3: ja Turkin
+Puhuja 3: törkeistä
+Puhuja 3: ihmisoikeusloukkauksista.
+Puhuja 3: Lopuksi vielä puheenaiheita pitkien
+Puhuja 3: kiusallisten hiljaisuuksien varalle.
+Puhuja 3: Ei me kauaa kierretty nauttia tästä pahimman koronakriisin
+Puhuja 3: selättämisestä,
+Puhuja 3: kun se jo kolkuttelee takaisin. Se paljon puhuttu ja pelätty toinen aalto. Laineet lyövät läpi niin Euroopassa kuin Aasiassakin.
+Puhuja 3: Tartuntojen määrä lisääntyy ainakin
+Puhuja 3: Balkanilla, Espanjassa ja Belgiassa.
+Puhuja 3: Puolassa, Australiassa ja Hongkongissa on tänään mitattu maiden ennätysmäärät
+Puhuja 3: uusia tartuntoja.
+Puhuja 3: Tai siis eilen ilmeisesti mitattu ja tänään ne on raportoitu.
+Puhuja 3: Monissa maissa on otettu uudestaan erilaisia rajoituksia käyttöön. Britannia asetti jo neljätoista päivän karanteenin kaikille Espanjasta palaaville Briteille ja niitä olikin siellä jo yli puoli miljoonaa ja nyt Espanja on aivan helisemässä,
+Puhuja 3: kun tää kauan kaivattu turismisessa loppuukin näin törkeästi lyhyeen. Saksassa ollaan hyvin huolissaan tästä kehityksestä siellä
+Puhuja 3: Saksassa ollaan hyvin huolissaan tästä kehityksestä. Sielläkin on ollut sellaisia
+Puhuja 3: tartuntaryppäitä muun muassa vihannestilalla
+Puhuja 3: ja siellä on aikaisemmin näissä teurastamoissa ollut
+Puhuja 3: tällaista tartuntaongelmaa.
+Puhuja 3: Ja Saksan tartuntatauti Hefese sanoo, että uusien tartuntojen määrä johtuu
+Puhuja 3: ihmisten lepsuilusta.
+Puhuja 3: Mitäs, Onnia ja Ida-Sofia,
+Puhuja 3: kuinka lepsuja te olette olleet koronan suhteen?
+Puhuja 4: Täytyy sanoa, että kyllä tää kevään pahin eristämisaika
+Puhuja 4: on jo hyvin kaukainen muisto vain ja tuntuu, että se tapahtuu jossain toisessa todellisuudessa.
+Puhuja 4: Eli aika hyvin on kyllä ne opit kariset
+Puhuja 4: mielestä ja ei kyllä enää ihan hirveästi tuu ajateltua
+Puhuja 4: virusta
+Puhuja 4: arkielämässä.
+Puhuja 2: Sitä kuvitteli, että
+Puhuja 2: tää tapa tervehtiä ystäviä
+Puhuja 2: halaamalla katoaisi nytten, kun tulee tämä korona-kesä, mutta ei se kyllä hävinnyt minnekään ja on ihan
+Puhuja 2: pikemminkin melkeinpä jopa jotenkin päinvastoin,
+Puhuja 2: on jotenkin viettänyt paljon aikaa ihmisten kanssa ja
+Puhuja 2: myös halannut, jos siltä tuntuu ikään kuin varastoon tätä toista aaltoa varten, mikä on tietenkin aivan järjetöntä, koska juuri tällainen
+Puhuja 2: toimintahan sen toisen aallon sitten lyö liikkeelle. Aivan,
+Puhuja 3: aivan. No samaa olen havainnut myös minä ja tietysti itsekin elän aivan kuin pyy pellossa
+Puhuja 3: mistään koronavirusrajoituksista
+Puhuja 3: huolehtimatta.
+Puhuja 3: Helsingin Sanomien Berliinin kirjeenja Hanna Mahlamäki kirjoitti juuri kommentin, jossa hän ihmetteli suomalaisten asennetta,
+Puhuja 3: että täällä eletään ihan niin kuin mitään kriisiä ei olisikaan. Hanna oli täällä kolme viikkoa lomalla ja todisti,
+Puhuja 3: kuinka täällä ihmiset hilluu baareissa ja kaupoissa ja ties missä. Ilman huolen häivää, kun taas
+Puhuja 3: takaisin Saksassa, niin
+Puhuja 3: joka puolella muistutetaan siitä, että täällä on pandemia päällä. Tää on vakava tilanne ja turvaväleistä
+Puhuja 3: toitotetaan joka suunnassa ja kaupoissa on rajattu
+Puhuja 3: ne alueet todella tarkasti.
+Puhuja 3: Mitä mieltä te olette siitä, onko yleisesti
+Puhuja 3: Suomessa liian lepsumeininki?
+Puhuja 3: Lauantaista alkaenhan täällä sallitaan jo yli viisisataa hengen tapahtumat ja ei oo kaiketi mitään rajoituksia sen jälkeen enää edes jäljellä. Se on hämmentävää, että ne tapahtumat
+Puhuja 2: sallitaan tietyin rajoituksiin eli pitää olla turvavälejä ja pitää olla istumapaikkoja
+Puhuja 2: ja näin, mutta kuka niitä jaksaa valvoa? Sehän tuottaa aivan hirvittävästi
+Puhuja 2: työtä jo muutenkin varmaan vähän
+Puhuja 2: talousongelmissa olevalle tapahtuma-alalle.
+Puhuja 2: Niin tota saa nähdä, että jotenkin
+Puhuja 2: suhtaudun hyvin skeptisesti siihen, että onko tämä Iusllistaja
+Puhuja 2: kamalaa. Itsehänhän en halua ollenkaan voimaantua ainakaan
+Puhuja 2: julkisesti, jossa löysi somessa.
+Puhuja 2: Mutta tota miettii myös, että
+Puhuja 2: tää on lähtenyt turkista, niin siinä on kuitenkin se pointti, että siellä on lehdistö vapautta rajoitettu.
+Puhuja 2: Ainakin tähän mennessä some on ehkä ollut sellainen kanava missä oikeasti tällaista viestiä tai tietoa
+Puhuja 2: tästä väkivallan teosta voidaan levittää.
+Puhuja 2: Ehdocanhan on tuominut tämän murhan julkisesti,
+Puhuja 2: mutta sitä on pidetty hyvin tekopyhänä, koska hän ei halua
+Puhuja 2: sitoutua tähän Istanbulin
+Puhuja 2: sopimukseen, joka on siis Euroopan neuvoston vuonna kaksituhatta yhdeksäntoista kehittämä
+Puhuja 2: yleissopimus jonka tarkoituksena on
+Puhuja 2: ehkäistä naisiin kohdistuvaa väkivaltaa
+Puhuja 2: erilaisilla tukitoimilla,
+Puhuja 2: niin sitähän ei halua
+Puhuja 2: vastustaa ihan sitä, että
+Puhuja 2: vaikka mielenosoittajat Turkissa on ihan silleen, että
+Puhuja 2: tosi
+Puhuja 2: paljon nää
+Puhuja 2: niinku
+Puhuja 2: murhat kasvussa koska ihmiset on viettänyt niin paljon aikaa koronakevään takia kotona ja se on tosi järkyttävä. Toi on dramaattista että Suomessa avioerät lisääntyy, mutta siellä
+Puhuja 4: murhat lisääntyy koronakevään vuoksi.
+Puhuja 4: Aika huolestuttavaa.
+Puhuja 3: Toi on
+Puhuja 3: niin käsittämätöntä mun mielestä, että miten Turkissa ja esimerkiksi Puolassa, Venäjällä, kaikilla halutaan purkaa lainsäädäntöä, joka
+Puhuja 3: estää ja kieltää vaimon hakkaamisen
+Puhuja 3: ja naisiin kohdistuvan väkivallan. Mikä helvetti näitä ihmisiä vaivaa, ihan oikeasti.
+Puhuja 3: Siitä.
+Puhuja 3: Joku tämän valtapuolue AKP:n edustaja oli sanonut, että tämä Istanbulin sopimus jollakin tavalla ajaa
+Puhuja 3: juuri homopropagandaa.
+Puhuja 3: Se on
+Puhuja 3: niin
+Puhuja 3: järjettömän harhaista,
+Puhuja 3: että en käsitä
+Puhuja 3: Turkkilaiset ovat fiksua porukkaa.
+Puhuja 3: Todella odotan seuraavia vaaleja,
+Puhuja 3: että mitä siellä tapahtuisi.
+Puhuja 3: Koska
+Puhuja 3: tää homma menee vain huonompaan ja huonompaan suuntaan siellä koko ajan.
+Puhuja 3: Mutta se, mitä tulee mustavalkokuviin
+Puhuja 3: ja just siihen alkuperäiseen kampanjaan ja miksi niissä ei niin kauheasti
+Puhuja 3: jaettu just mitään saatetietoja ja hashtagitkin
+Puhuja 3: oli aika hienovaraisia,
+Puhuja 3: niin se on just sitä, kun ihmisiä pelottaa,
+Puhuja 3: koska
+Puhuja 3: Turkissa
+Puhuja 3: tuhansia ihmisiä on heitetty vankilan ihan vain heidän somepostauksiansa
+Puhuja 3: perusteella,
+Puhuja 3: twiitin
+Puhuja 3: perusteella sä joudut linnaan kuukausiksi,
+Puhuja 3: mahdollisesti jopa vuosiksi.
+Puhuja 3: Niin se,
+Puhuja 3: meininki.
+Puhuja 3: Postaamia
+Puhuja 3: mustavalkokuvia, jotka eivät millään tavalla enää liittyneet tähän
+Puhuja 3: alkuperäiseen kampanjaan murhatun
+Puhuja 3: naisen
+Puhuja 3: muistoksi,
+Puhuja 3: niin eka
+Puhuja 3: reaktioi oli jotenkin
+Puhuja 3: sellainen pöyristy
+Puhuja 3: Jos haluaa
+Puhuja 3: postata
+Puhuja 2: myös se, että se on vähän muuttanut muotoaan se kampanja. Niin, todellakin. Eihän siihen ole tosiaan pakko osallistua ja sen somen voi laittaa kiinni jos
+Puhuja 2: alkaa ärsyttää muiden, tai
+Puhuja 2: alkaa epäillä muiden ihmisten tarkoitus periä tässä postaamisen
+Puhuja 2: taustalla.
+Puhuja 3: Ja kyllä mä oon toisaalta ihan sitä mieltä, että toisaalta olen silleen, että kyllä kaikenlainen keikistely ja muu olisi
+Puhuja 3: ihan sallittava. Mä vaan haluaisin, että sellaista kaikenlaista keikistelyä ja vaikka omien kuvien postailua voisi tehdä myös ilman, että sitä tarvitsisi perustella jollakin tällaisella kampanjalla. Sepä juuri niin kuin kirjoitin joskus tästä
+Puhuja 2: arvokas pylly
+Puhuja 2: tällaisesta haasteesta, mikä oli tässä kesän aikana, jonka pointtina oli vaan jotenkin, että iltapäivälehdissä
+Puhuja 2: oli jotenkin kirjoitettu
+Puhuja 2: jostain tietyntyyppistä vikineistä jotenkin vähän niin kuin arvostelevasti,
+Puhuja 2: niin sitten rohkaistiin naisia julkaisemaan tällaisia voimaannuttavia pyllyselfieitä.
+Puhuja 2: Ja sitten tietenkin ne ihmiset, ketkä niitä julkaisi, olivat enimmäkseen
+Puhuja 2: just tällaisia valkoisia treenattuja
+Puhuja 2: babejä, jotka vaan nyt sai siitä vähän jalomman syyn
+Puhuja 2: esitellä
+Puhuja 2: parempi
+Puhuja 2: tai tapa olis myös sen kuvan postaamisen
+Puhuja 2: lisäksi katsoa, että jos on rahaa käytettävissä, niin sitä voi vaikka lahjoittaa jollekin järjestöille, jotka ajaa tätä naisten
+Puhuja 2: väkivallan ehkäiseviä
+Puhuja 4: asioita. Niinpä, niinpä. Ja se on ymmärrettävää just, kun sitä jaettiin tuommoisella kryptisellä
+Puhuja 2: ehkäpä
+Puhuja 2: ympäri maailman ihmiset on tietoisia siitä, että mitä Turkissa oikein tapahtuu ja huolissaan siitä, niin se on vain hyvä asia. Eli ehkä tämä on vain sellainen win-win tilanne, missä voimme samaan aikaan nostaa tietoisuutta
+Puhuja 3: Turkissa tapahtuvaa
+Puhuja 3: härskiä
+Puhuja 3: ihmisoikeushaisseja
+Puhuja 3: vastaan plus, että voimme voimaantua
+Puhuja 3: hyvillä mielin.
+Puhuja 3: Mutta puhutaan vielä toisesta Turkkiongelmasta.
+Puhuja 3: Toinen Turkkiuutinen
+Puhuja 3: tällä viikolla on se, että
+Puhuja 3: se pyrkii laittamaan somejätit
+Puhuja 3: talutusnuoraan
+Puhuja 3: Turkin Parlamenttia jo keskiviikkona läpi lain, jonka tarkoituksena on antaa turkille valtaa päättää näiden somejättien
+Puhuja 3: eli Facebookin, Twitterin ja YouTuben julkaisemasta sisällöstä
+Puhuja 3: Turkissa.
+Puhuja 3: Tämän uuden lain mukaan somejättien pitää nimittää Turkkiin oma edustaja,
+Puhuja 3: jolta hallintoto voi pyytää muutoksia sisältöön eli periaatteessa ne haluaa, että sieltä poistetaan kontenttia, mikä ei hallinnon
+Puhuja 3: mieleen käy.
+Puhuja 3: Turkissahan mitään vapaata printtimediaa
+Puhuja 3: ei enää ole ja itsenäinen media toimii verkossa ja somessa. Ja kuten äsken tässä jo sanoin, niin somekäyttäytymisen
+Puhuja 3: perusteella ihmiset
+Puhuja 3: ovat Turkissa varasutua epäreilujen pidätysten ja tuomioiden
+Puhuja 3: kohteeksi.
+Puhuja 3: Turkki tässä uudessa lainsäädännössä vaatii myös, että näiden somealustojen täytyy siirtää palvelimet Turkin rajojen sisäpuolelle.
+Puhuja 3: Sillä tavalla Turkin viranomaiset myös saisivat oikeuden pyytää niiltä mitä tahansa tietoja, mitä näillä palvelimilla on, Eli ne pystyisivät sulkemaan Telegrammit, WhatsApit, kaikki viestiohjelmat
+Puhuja 3: ihan haluamansa mukana. Jos ne haluaisi, niin ne voisi pyytää tälleen nyt
+Puhuja 3: kaikki tiedot, mitä teillä on vaikka jonkun sun Whatsapp
+Puhuja 3: historiasta, niin viranomaisille.
+Puhuja 3: Jos somejätit ei suostu näihin Turkin uuden lainsäädännön vaatimuksiin, niin Turkki määrää niille miljoonien eurojen mittaisia sakkoja, jos sekään ei auta, niin Turkki aikoo rajoittaa niiden kaistanleveyttä niin, että ne ei oikeastaan pysty enää toimimaan. Millaisia
+Puhuja 3: ajatuksia tämä herättää teissä, tämä turkinuus somelainsäädäntö?
+Puhuja 4: Mä tota ajasta luin. The New York Timesin mukaan siis viime vuonna
+Puhuja 4: Facebook-päivitystä, niin mä haluaisin kysyä, muuttuuko tässä asiat radikaalisti?
+Puhuja 3: Tämähän on se
+Puhuja 3: ongelma, että Turkissahan on olemassa jo lainsäädäntöä, joka sallii
+Puhuja 3: materiaalin poistamisen sieltä viestimistä. Mutta se on ilmeisesti vaatinut Turkilta tosi tiukkaa
+Puhuja 3: tyittelyä jonnekin Twitterin ja muiden suuntaan plus sitä, että he ovat joutuneet jahtaamaan näitä
+Puhuja 3: yksittäisiä postajia ja ottamaan heitä kiinni.
+Puhuja 3: Tällä
+Puhuja 3: uudella lainsäädännöllä Turkki haluaa päästä
+Puhuja 3: niiden somejättien
+Puhuja 3: sisälle, oikeasti sieltä sisältäpäin hallitsemaan sitä systeemiä.
+Puhuja 3: Plus, että niillä on
+Puhuja 3: talutusnuoraan
+Puhuja 3: pistämistä ihan hyvänä ideana, koska kuinka paljon oikeasti ne meistä omistaa tietoa. Ja mihinköhän heidänkin verovaransa
+Puhuja 3: kaikki oppavat? En tiedä. Sinänsä hyvä.
+Puhuja 3: Mutta Turkki tietysti tekee sen aivan vääristä syistä. Ja siis tällä lainsäädännöllä on luultavasti
+Puhuja 3: aivan hirveitä seurauksia ihmisille, koska Turkissahan
+Puhuja 3: Heidän lakihan kieltää
+Puhuja 3: muun muassa presidentin halventamisen,
+Puhuja 3: kieltää muun muassa turkkilaisuuden
+Puhuja 3: halventamisen,
+Puhuja 3: Turkin instituutioiden
+Puhuja 3: halventamisen.
+Puhuja 3: Siis miettikää se, että sä kritisoit edrykania, osassa sun twiitissä, niin se on niin kuin
+Puhuja 4: rikos, josta sut voidaan heittää vankilaan. Siis mä luin sen, luin jostain, että kun tää lakia ajettiin tässä nyt hiljattain voimallisen läpi sen takia, että joku pilkkasit Twitterissä Erukganin vastasyntynyttä
+Puhuja 2: lapsenlapsia. Eikös ole perusteltua just, että haluamme vain rajoittaa vihapuhetta, joka tehostaa näillä alustoilla?
+Puhuja 3: Nimenomaan, että tällainen moraaliton
+Puhuja 3: toiminta pitää kitkeä tältä. Siellä oli tosiaan yksitoista
+Puhuja 3: ihmistä pidätetty sen takia, että ne oli just jotenkin pilkaneet Erdoganin tytärtä, joka oli just synnyttänyt
+Puhuja 3: lapsen. Mä en itse tiedä, mikä se sisältö siellä on. Varmaan oikeasti jotain törkeää,
+Puhuja 3: voisin kuvitella.
+Puhuja 3: Mutta jotenkin tässä nyt tuntuu, että tällaisilla Vallanpitäjä arvostellaan, niin tota Niin ja silleen, että on ok. Joo ja tällasilla hyvin pientä osaa koskevilla perusteluilla
+Puhuja 3: ajetaan läpi lainsäädäntöä, jota voidaan käyttää oikeasti hyvin
+Puhuja 3: laajasti vain toisinajattelijoiden
+Puhuja 3: hiljentämiseen.
+Puhuja 2: Todella huolestuttavaa, jos nämä somejätit
 Puhuja 2: suostuu tähän yhteistyöhön.
-Puhuja 2: Sehän
-Puhuja 2: kertoo erittäin paljon,
-Puhuja 2: vähän niin kuin toi mikä toi tota Yuval Noa Harari, joka julkaisi
-Puhuja 2: tämän suositun kirjansa,
+Puhuja 2: Sehän kertoo
+Puhuja 2: erittäin paljon, vähän niin kuin toi mikä toi, tämä Juval Noa Harari, joka julkaisi tämän
+Puhuja 2: suositun kirjansa,
 Puhuja 2: olikos mikä se nyt olikaan,
-Puhuja 2: mä oon lukenut sen kyllä.
-Puhuja 2: Niin Venäjällä niin sitten
-Puhuja 2: huono juttu ja monet arvosteli sitä, niin toi että jos Facebook alkaa tehdä tota
-Puhuja 2: litaristisen kuulosen hallinnon
-Puhuja 2: kanssa yhteistyötä,
-Puhuja 2: niin se ois kyllä ihan kiinnostavaa, jos esim.
-Puhuja 2: Facebookin käyttäjät lähtis painostamaan
-Puhuja 0: Joo, kyllä. Onko muualla poikistettumaailmalla tehnyt
-Puhuja 0: tätä? Tässä on kyse just siitä, että haluaako nämä
-Puhuja 0: somejätit
-Puhuja 0: uhrata
-Puhuja 0: niin kuin miljoonat ja miljoonat käyttäjät,
-Puhuja 0: jotka
-Puhuja 0: tuottavat heille kontenttia siellä Turkissa vai haluavatko he kunnioittaa ihmisoikeuksia
-Puhuja 0: ja ilmaisunvapautta?
-Puhuja 2: Niin, se on just ongelma, kun he haluavat olla alustoja ilman mitään sen ihmeempää ideologiaa.
-Puhuja 0: Ilman mitään sen kumme Mutta sitten niin kuin, että
-Puhuja 0: tällä tavalla he sitten kuitenkin päätyvät avustamaan
-Puhuja 0: Turkin hallinnon pyrkimyksiä, joilla he haluavat tappaa kaiken vapaan sanan Turkissa
-Puhuja 0: ja syöksemme kaiken
-Puhuja 0: tiedonvälityksen
-Puhuja 0: hallinnon tai hallintoa lähellä olevien liikemiesten
-Puhuja 0: alaisuuteen.
-Puhuja 0: Pii, kovaa faskismia.
-Puhuja 1: Niin, mitä luulette, miten nämä somiehet suhtautuvat tähän? Taipuvatko he? Pelkään, että he taipuvat, koska heitä ohjaa tämä voiton
+Puhuja 2: mä oon lukenu sen kyllä.
+Puhuja 2: Niin tota Venäjällä, niin sitten sillä ehdolla, että siitä poistettiin tietyt jutut, jotka niinku kuvaa tätä
+Puhuja 2: niinku erilaisten ideologioiden
+Puhuja 2: leviämistä, niin tota hän sit suostu siihen ja se oli niinku tosi
+Puhuja 2: tavallaan huono juttu ja monet arvosteli sitä, niin toi että jos Facebook alkaa tehdä näin
+Puhuja 2: tota litaristisen
+Puhuja 2: kuulosen
+Puhuja 2: hallinnon kanssa yhteistyötä,
+Puhuja 2: niin se ois
+Puhuja 3: jotka tuottavat heille kontenttia siellä Turkissa vai haluavatko he kunnioittaa
+Puhuja 3: ihmisoikeuksia ja ilmaisunvapautta?
+Puhuja 2: Niin, se on just ongelma, kun he haluavat olla vain alustoja ilman mitään sen ihmeempää ideologiaa.
+Puhuja 3: Ilman mitään sen kumme Mutta sitten niin kuin, että
+Puhuja 3: tällä tavalla he sitten kuitenkin päätyvät oikeastaan
+Puhuja 3: avustamaan
+Puhuja 3: Turkin hallinnon pyrkimyksiä, joilla he haluavat tappaa kaiken vapaan sanan Turkissa
+Puhuja 3: ja syöksmään kaiken
+Puhuja 3: tiedonvälityksen
+Puhuja 3: hallinnon tai hallintoa
+Puhuja 3: lähellä olevien liikemiesten
+Puhuja 3: alaisuuteen.
+Puhuja 2: Piiin kovaa faskismia.
+Puhuja 2: Niin, mitä luuletteko, miten ne someetit suhtautuu tähän?
+Puhuja 2: Taipuvatko he? Mä pelkään, että he taipuvat, koska heitä ohjaa tämä voiton
 Puhuja 2: tavoittelu pelkästään sitten
-Puhuja 0: loppupeleissä. Saa nähdä. Mä oon tosi huolissani tästä, koska mun mielestä Turkki on toisaalta tosi ihana maa.
-Puhuja 0: Siellä on mahtavaa kulttuuria ja sieltä on suuria ajattelijoita tullut
-Puhuja 0: surettaa hirveästi kaikki, mitä siellä on tapahtunut. Vuoden kaksituhatta kuusitoista vallankaappausyrityksen
-Puhuja 0: jälkeen turkkilaiset ystäväni kaikki sanoivat mulle, kun kävin Istanbulissa
-Puhuja 0: pari vuotta sitten itse asiassa seuraamassa just tällaisten toimittajan oikeudenkäyntiä, jossa oli täysin tekaistu
-Puhuja 0: syytteitä näitä toimittajia vastaan. Siellä oli eräs toimittajakin
-Puhuja 0: kirjoittanut vähän kriittisen kolumnin erdocanista, niin hänet tosiaan
-Puhuja 0: syytteenä taisi olla terroristipropagandan
-Puhuja 0: levittäminen.
-Puhuja 0: Todella musertavaa, niin sielläkin vaan kaikki mun turkkilaiset ystävät sanoivat, että olisitko nähnyt, millainen paikka Istanbul oli muutama vuosi sitten.
-Puhuja 0: Mikä upea kaikkien erilaisten
-Puhuja 0: arvojen ja kulttuurien
-Puhuja 0: pesä se olikaan. Ja nyt siellä vaan mennään kohti tällaista autoritääristä islamisti
-Puhuja 0: valtiota.
-Puhuja 0: Kauheeta.
-Puhuja 0: Hei,
-Puhuja 0: tästä pienestä tällaisesta
-Puhuja 0: Turkki-tieto
-Puhuja 0: ihmisoikeuspläjäyksestä,
-Puhuja 0: kun me nyt sitten yhdessä lähdetään tuonne maskiostoksille,
-Puhuja 0: niin millä
-Puhuja 0: jutuilla me viihdytään toisiamme siellä
-Puhuja 0: jonossa sitten?
-Puhuja 1: No mä voisin kertoa teille siitä, kuinka satuin tällä viikolla katsomaan avaraa luontoa ensimmäistä kertaa vuosiin.
-Puhuja 1: Viimeksi katson sitä joskus lapsena silleen jotenkin
-Puhuja 1: säännöllisesti. Säännöllisesti
-Puhuja 2: kai,
-Puhuja 1: se oli kiehtova ja on edelleen.
-Puhuja 1: Siitä tulikin vahvasti nostalginen
-Puhuja 1: fiilis.
-Puhuja 1: Tiedän sitten, kun se toinen aalto Nyt en ossittelee näy. Kun se toinen aalto tulee, niin tiedän kyllä, että mille kanavalle käännä ja mitä katsoo, koska
-Puhuja 1: se tuo lohtua sitten
-Puhuja 1: neljän seinän sisällä aivan kuten jotkut saavat lohtua
-Puhuja 1: hapanleiveleipomisesta
-Puhuja 1: tai
-Puhuja 1: lihapullien valmistamisesta
-Puhuja 1: sillä isoäidin reseptillä, joka tuo myös mielen lapsuuden.
+Puhuja 3: loppupeleissä. Saa nähdä. Mä oon tosi huolissani tästä, koska mun mielestä Turkki on toisaalta tosi ihana maa.
+Puhuja 3: Siellä on mahtavaa kulttuuria ja sieltä on suuria ajattelijoita tullut
+Puhuja 3: surettaa hirveästi kaikki, mitä siellä on tapahtunut. Vuoden kaksituhatta kuusitoista vallankaappausyrityksen
+Puhuja 3: jälkeen turkkilaiset ystäväni kaikki sanoivat mulle, kun kävin Istanbulissa
+Puhuja 3: pari vuotta sitten itse asiassa seuraamassa just tällaisten toimittajien oikeudenkäyntiä, jossa oli täysin tekaistu
+Puhuja 3: syytteitä näitä toimittajia vastaan. Siellä oli eräs toimittajakin
+Puhuja 3: kirjoittanut vähän kriittisen kolumnin erdoganista,
+Puhuja 3: niin hänet syytteenä
+Puhuja 3: taisi olla terroristipropagandan
+Puhuja 3: levittäminen.
+Puhuja 3: Todella musertavaa.
+Puhuja 3: Sielläkin vaan kaikki mun turkkilaiset ystävät sanoivat, että olisitko nähnyt, millainen vaikka Istanbul oli
+Puhuja 3: muutama vuosi sitten.
+Puhuja 3: Mikä upea kaikkien erilaisten
+Puhuja 3: arvojen ja kulttuurien
+Puhuja 3: pesä se olikaan ja nyt siellä vaan mennään kohti tällaista autoritääristä
+Puhuja 3: islamisti
+Puhuja 3: valtiota.
+Puhuja 2: Kauheaa.
+Puhuja 3: Hei,
+Puhuja 3: tästä pienestä tällaisesta
+Puhuja 3: Turkki-tieto
+Puhuja 3: ihmisoikeuspläjäyksestä,
+Puhuja 3: kun me nyt sitten yhdessä lähdetään tuonne maskiostoksille,
+Puhuja 3: niin millä
+Puhuja 3: jutuilla
+Puhuja 3: me viihdytään toisiamme siellä
+Puhuja 3: jonossa sitten?
+Puhuja 4: No mä voisin kertoa teille siitä, kuinka satuin tällä viikolla katsomaan avaraa luontoa ensimmäistä kertaa vuosiin.
+Puhuja 4: Viimeksi jos katson sitä joskus lapsena silleen jotenkin
+Puhuja 4: säännöllisesti. Säännöllisesti
+Puhuja 3: tarkalleen naaraa luo.
+Puhuja 4: Tottakai, se oli kiehtova ja on edelleen.
+Puhuja 4: Siitä tulikin vahvasti nostalginen
+Puhuja 4: fiilis
+Puhuja 4: ja tiedän sitten, kun se toinen aalto Nyt en jossittelee näy, kun se toinen aalto tulee, niin tiedän kyllä, että mille kanavalle käännen ja mitä katsoo, koska
+Puhuja 4: se tuo lohtua sitten
+Puhuja 4: neljän seinän sisällä aivan kuten jotkut saavat lohtua
+Puhuja 4: hapanleiveleipomisesta
+Puhuja 4: tai
+Puhuja 4: lihapullien valmistamisesta
+Puhuja 4: sillä isoäidin reseptillä, joka tuo myös mielen lapsuuden.
 Puhuja 2: Mä
 Puhuja 2: voisin suositella
 Puhuja 2: tällaista kirjaa, jonka luin ensimmäisen
-Puhuja 2: aallon alussa tai oikeastaan
+Puhuja 2: aallon alussa,
+Puhuja 2: tai oikeastaan
 Puhuja 2: novelleja Thomas Mannin Kuolema Venetsiassa,
 Puhuja 2: joka kuvaa tällaista epidemian
-Puhuja 2: saapumista Venetsian ihanaan kaupunkiin
+Puhuja 2: saapumista Venetsian
+Puhuja 2: ihanaan kaupunkiin
 Puhuja 2: ja vähän vanhenevaa tällaista kirjailijamiestä,
-Puhuja 2: joka on siellä
-Puhuja 2: lomailemassa ja rakastuu aivan sekopäisesti
-Puhuja 2: johonkin nuoreen poikaan siellä ja lähtee sitten, tavallaan siinä kuvataan hyvin, että miten poikkeustila kun lähtee käyntiin, niin miten todellisuus muuttuu ja miten ihmisten tunne-elämä voi muuttua nopeasti. Siinä on sellainen rappiollinen, vähän goottilainen tunnelma ja hienoja kohtia.
+Puhuja 2: joka on siellä lomailemassa ja rakastuu
+Puhuja 2: aivan sekopäisesti
+Puhuja 2: johonkin nuoreen poikaan siellä ja lähtee sitten, tavallaan siinä kuvataan hyvin, että miten
+Puhuja 2: poikkeustila
+Puhuja 2: kun lähtee käyntiin, niin miten todellisuus
+Puhuja 2: muuttuu ja miten ihmisten tunne-elämä voi muuttua nopeasti. Siinä on semmonen
+Puhuja 2: rappiollinen, vähän goottilainen
+Puhuja 2: tunnelma ja hienoja kohtia.
 Puhuja 2: Jos monethan ovat varmaan lukeneet sen vaikka jossain lukiossa tai muualla, mutta jos eivät ole lukeneet vielä, niin voin suositella ehdottomasti
 Puhuja 2: luettavaksi sen toisen aallon kynnyksellä.
-Puhuja 0: Mahtava suositus, mulle on se vielä lukematta, niin otan tästä vaarin.
-Puhuja 0: Mäkin suosittelen
-Puhuja 0: tällaista tuotetta, joka auttoi toiminut ensimmäisen aallon läpi. Se on tällainen YouTube-kanava
-Puhuja 0: kuin jooga With Aadrian.
-Puhuja 0: Yoga With Aadrian on kanava, jossa Arian niminen joogaopettaja tarjoaa ilmaisia joogatunteja.
-Puhuja 0: Niitä löytyy ihan joka lähtöön. Sieltä löytyy aloittelijoille,
-Puhuja 0: joogaa jos sulla on päänsärky, joogaa jos oot huono tuulelle, joogaa jos oot vihainen,
-Puhuja 0: joogaa juoksijoille,
-Puhuja 0: joogaa rasvanpolttajille.
-Puhuja 0: Ihan kaikkia tosi erilaisia
-Puhuja 0: joogia ja tosi eri mittaisia. Jos sulla on tosi kiire, heittää vain kahdeksan minuutin lyhyen homman tai voit tehdä pidemmän tunnin mittaisen
-Puhuja 0: harjoituksen. Adrian on ihana tyyppi. Sillä on tosi lempeä,
-Puhuja 0: sellainen salliva asenne kaikkiin
-Puhuja 0: ihmisiin, jotka hänen joogiaan tekevät, ja hän siellä sinne
-Puhuja 0: mikkiin
-Puhuja 0: hyvällä, hyväksyvällä, lämpimällä otteella kehottaa
-Puhuja 0: hengittämään
-Puhuja 0: rakkautta sisään ja rakkautta
-Puhuja 0: ulos, kehottaa kuiskaamaan
-Puhuja 0: itsellesi: Yar a wurier,
-Puhuja 0: sä pystyt tähän!
-Puhuja 0: Plus että eli siinä saa samaan aikaan
-Puhuja 0: fyysistä sekä mentaalista
-Puhuja 0: treeniä.
-Puhuja 0: Mä lämpimästi suosittelen
-Puhuja 0: Yoga with Adrian kanavaa.
-Puhuja 0: Tässä oli uutisraportti
-Puhuja 0: podcastin tukipaketti
-Puhuja 0: uusiin karanteeneihin
-Puhuja 0: ja kaikki muukin tällä erää. Kuvan äänen ja kaiken muun kivan meille tekee tällä viikolla lomilta palaillut Janne Elkki.
-Puhuja 0: Lähettäkää meille kaikkea söpöä ja kivaa palautetta
-Puhuja 0: uutisraportti
-Puhuja 0: ja jos teillä on jotain kysyttävää meiltä kesätiimiläisiltä,
-Puhuja 0: ihan mitä vaan, niin lähettäkää niitä kysymyksiä, koska ensi viikolla, kun me vedetään kenties
-Puhuja 0: kesätiimin viimeinen jakso,
-Puhuja 0: ajateltiin vetää
-Puhuja 0: Q&A sessio, jossa
-Puhuja 0: me vastaillaan teidän
-Puhuja 0: murheisiin ja
-Puhuja 0: mietteisiin.
-Puhuja 0: Katsotaan saadaanko järkättyä. En voi luvata mitään, mutta nähdään silti ensi viikolla.
-Puhuja 0: Kiitos.
-Puhuja 0: Ai, mä unohdin kiittää teitä! Kiitos Anniinaiemi ja kiitos Ida-Sofia Hirvonen. Meni varmaan jo.
-Puhuja 0: Sori,
-Puhuja 0: sori!
-Puhuja 0: Mä oon aina kiittänyt teitä ja nyt mä unohdin, koska mä en kirjoittanut sitä tänne.
-Puhuja 0: Järkyttävää!
+Puhuja 3: Mahtava suositus, mulle on se vielä lukematta, niin otan tästä vaarin.
+Puhuja 3: Mäkin suosittelen
+Puhuja 3: tällaista tuotetta, joka auttoi minut ensimmäisen
+Puhuja 3: aallon läpi. Se on tällainen YouTube-kanava
+Puhuja 3: kuin jooga Whit Adrian.
+Puhuja 3: Yoga Whit Adrian on kanavavissa Adrian niminen joogaopettaja tarjoaa ilmaisia joogatunteja.
+Puhuja 3: Niitä löytyy ihan joka lähtöön. Sieltä löytyy aloittelijoille,
+Puhuja 3: joogaa jos sulla on päänsärky, joogaa jos oot huono tuulelle, joogaa jos oot vihainen,
+Puhuja 3: joogaa juoksijoille,
+Puhuja 3: joogaa rasvanpolttajille.
+Puhuja 3: Ihan kaikkia tosi erilaisia
+Puhuja 3: joogia ja tosi eri mittaisia. Jos sulla on tosi kiire, ehdottaa vain kahdeksan minuutin lyhyen homman tai voit tehdä pidemmän tunnin mittaisen
+Puhuja 3: harjoituksen.
+Puhuja 3: Adrian on ihana tyyppi. Sillä on tosi lempeä,
+Puhuja 3: sellainen salliva asenne kaikkiin
+Puhuja 3: ihmisiin, jotka hänen joogiaan tekevät ja hän siellä
+Puhuja 3: sinne mikkiin hyvällä,
+Puhuja 3: hyväksyvällä, lämpimällä otteella
+Puhuja 3: kehottaa hengittämään
+Puhuja 3: rakkautta sisään ja rakkautta
+Puhuja 3: ulos, kehottaa kuiskaamaan
+Puhuja 3: itsellesi Your a wurier,
+Puhuja 3: sä pystyt tähän.
+Puhuja 3: Eli siinä saa samaan aikaan fyysistä sekä mentaalista
+Puhuja 3: treeniä.
+Puhuja 3: Mä
+Puhuja 3: lämpimästi suosittelen
+Puhuja 3: Yoga with Adrian
+Puhuja 3: kanavaa.
+Puhuja 3: Tässä oli uutisraportti-podcastin
+Puhuja 3: tukipaketti
+Puhuja 3: uusiin karanteeneihin
+Puhuja 3: ja kaikki muukin tällä erää. Kuvan äänen ja kaiken muun kivan meille tekee tällä viikolla lomilta palaillut Janne Elkki.
+Puhuja 3: Lähettäkää meille kaikkea söpöä ja kivaa palautetta:
+Puhuja 3: uutisraportti.
+Puhuja 3: Jos teillä on jotain kysyttävää meiltä kesätiimiläisiltä,
+Puhuja 3: ihan mitä vaan, niin lähettäkää niitä kysymyksiä, koska ensi viikolla, kun me vedetään kenties
+Puhuja 3: kesätiimin viimeinen
+Puhuja 3: jakso,
+Puhuja 3: ajateltiin vetää sellainen Q&A
+Puhuja 3: sessio, jossa me vastaillaan teidän
+Puhuja 3: murheisiin
+Puhuja 3: ja
+Puhuja 3: mietteisiin.
+Puhuja 3: Katsotaan saadaanko järkättyä. En voi luvata mitään, mutta nähdään silti ensi viikolla.
+Puhuja 2: Kiitos.
+Puhuja 3: Ai niin, mä unohdin kiittää teitä! Kiitos Anniina Niemi ja kiitos Ida-Sofia Hirvonen, meni varmaan jo kiitos Sori,
+Puhuja 3: sori,
+Puhuja 3: mä oon aina kiittänyt teitä ja nyt mä unohdin, koska mä en kirjoittanut sitä tänne.
+Puhuja 3: Järkyttävää.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
