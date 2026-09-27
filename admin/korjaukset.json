@@ -540,5 +540,68 @@
         "ajankohtainen"
       ]
     }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
+    "jakso_otsikko": "Velkajarru–laaja oppimäärä, Gazaan aselepo, porvari-Suomi",
+    "paivamaara": "15.10.2025",
+    "r_idx": 2,
+    "teos": "E-kirjasto -sovellus",
+    "uusi_data": {
+      "teos": "E-kirjasto -sovellus",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=e-kirjasto+sovellus+kansalliskirjasto",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas suosittelee ilmaista E-kirjasto-sovellusta, jonka avulla voi lainata ja kuunnella äänikirjoja sekä lukea e-kirjoja ja lehtiä kirjastokortilla ilman maksullista äänikirjapalvelua.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "kirjastopalvelu",
+        "äänikirjat",
+        "sovellus"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
+    "jakso_otsikko": "Velkajarru–laaja oppimäärä, Gazaan aselepo, porvari-Suomi",
+    "paivamaara": "15.10.2025",
+    "r_idx": 3,
+    "teos": "New Yorkin uhmatar",
+    "uusi_data": {
+      "teos": "New Yorkin uhmatar",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=New+Yorkin+uhmatar+Teemu+Muhonen",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=New+Yorkin+uhmatar",
+      "kuvaus": "Anna-Sofia mainitsee lämpimästi Teemu Luukan aiemman kirjan, joka kertoo amerikansuomalaisesta baarinpitäjästä, jonka Teemu oli itsekin tuntenut työskennellessään Harlemissa baarimikkona 1980-luvulla.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "muistelmat",
+        "New York",
+        "ravintolat"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
+    "jakso_otsikko": "Velkajarru–laaja oppimäärä, Gazaan aselepo, porvari-Suomi",
+    "paivamaara": "15.10.2025",
+    "r_idx": 4,
+    "teos": "Pohjoismaisten pörssiyritysten animaatiovideot",
+    "uusi_data": {
+      "teos": "Pohjoismaisten pörssiyritysten animaatiovideot",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas kertoo tehneensä tilastotieteen kurssin ohessa animaatiovideoita pohjoismaisten pörssiyritysten arvostuksen kehityksestä ja suosittelee käymään katsomassa niitä hänen omissa somekanavissaan.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "data-analyysi",
+        "talous",
+        "koodaus"
+      ]
+    }
   }
 ]
