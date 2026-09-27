@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!-- Jakokuvan (og-image.png, 1200×630) lähde. Renderöinti: kuvalahteet/tee_kuvat.sh -->
+<html lang="fi"><head><meta charset="UTF-8">
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400..800&family=Google+Sans+Code:wght@400..500&display=block" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1200px; height: 630px; background: #09090f; overflow: hidden; }
+  body {
+    display: flex; flex-direction: column; justify-content: space-between;
+    padding: 72px 80px 64px;
+    color: #e8e8f0;
+    font-family: 'Google Sans Flex', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .ylaosa { display: flex; align-items: center; gap: 20px; }
+  .ylaosa svg { width: 56px; height: 56px; }
+  .ylaosa span { font-family: 'Google Sans Code', monospace; font-size: 26px; color: #aeaec9; }
+  h1 {
+    font-size: 124px; font-weight: 800; line-height: 0.98;
+    letter-spacing: -0.022em; text-transform: uppercase;
+    margin-top: -8px;
+  }
+  h1 span { display: block; color: #3bdaa5; }
+  .alaosa {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    padding-top: 28px;
+    font-family: 'Google Sans Code', monospace; font-size: 26px; color: #aeaec9;
+  }
+  .alaosa b { font-weight: 500; color: #3bdaa5; }
+</style></head><body>
+  <div class="ylaosa">
+    <svg viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#171721"/><path d="M19 14v20a13 13 0 0 0 26 0V14" fill="none" stroke="#3bdaa5" stroke-width="9"/></svg>
+    <span>Uutisraportti-podcastin suositukset · fanisivu</span>
+  </div>
+  <h1>Uutisraportti<span>suosittelee</span></h1>
+  <div class="alaosa">
+    <span>kirjat · sarjat · elokuvat · podcastit · ruoka</span>
+    <b>uutisrapsa.fi</b>
+  </div>
+</body></html>
