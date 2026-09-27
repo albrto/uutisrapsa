@@ -141,9 +141,25 @@ def paivita_html(uusi_teksti):
     nyt = datetime.now()
     nykyinen_pvm = f"{nyt.day}. {kuukaudet[nyt.month]} {nyt.year}"
     
-    # Samalle päivälle saa tulla useampi merkintä: muutosloki.yml ajaa tämän
-    # jokaisesta mainin koodipushista. Tuplat estää hae_git_historia, joka
-    # pysähtyy edelliseen "Automaatio:"-committiin (eli edelliseen lokiajoon).
+    # Saman päivän muutokset niputetaan yhteen versioon: jos päivälle on jo
+    # merkintä (muutosloki.yml ajaa tämän jokaisesta mainin koodipushista),
+    # uudet rivit lisätään sen listan loppuun eikä versiota nosteta. Tuplat
+    # estää hae_git_historia, joka pysähtyy edelliseen "Automaatio:"-committiin.
+    paivan_merkinta = re.search(
+        r'<div class="change-date">' + re.escape(nykyinen_pvm) + r'</div>\s*<ul class="change-list">(.*?)</ul>',
+        sisalto, re.DOTALL)
+    if paivan_merkinta:
+        uudet_rivit = re.findall(r'<li>.*?</li>', uusi_teksti, re.DOTALL)
+        if not uudet_rivit:
+            print("⚠️ Uudesta tekstistä ei löytynyt <li>-rivejä, ei lisättävää.")
+            return False
+        kohta = paivan_merkinta.end(1)
+        lisays = "".join(f"  {r}\n" for r in uudet_rivit)
+        uusi_sisalto = sisalto[:kohta] + lisays + sisalto[kohta:]
+        with open(html_polku, 'w', encoding='utf-8') as f:
+            f.write(uusi_sisalto)
+        print(f"🚀 Lisätty {len(uudet_rivit)} riviä tämän päivän merkintään ({nykyinen_pvm}).")
+        return True
 
     uusi_html_lohkare = f'''
     <div class="change-item">
