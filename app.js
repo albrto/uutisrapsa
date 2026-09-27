@@ -342,10 +342,17 @@ function podcastLinkit(rec) {
     const suora = suorat.find(l => samaPalvelu(l, osoite) && !l.haku);
     return [nimi, suora ? suora.osoite : haku(q)];
   });
-  // Muun palvelun linkki (esim. sarjan oma sivu tai YouTube) jää mukaan
+  // Muun palvelun linkki (esim. sarjan oma sivu tai YouTube) jää mukaan.
+  // Saman palvelun toinen suora linkki (esim. HS:n kuuntelusivun lisäksi
+  // esittelyartikkeli) näkyy omana "HS-esittely"-linkkinään.
+  const kaytetyt = new Set(linkit.map(([, osoite]) => osoite));
   for (const l of suorat) {
+    if (kaytetyt.has(l.osoite) || onGoogleLinkki(l.osoite)) continue;
+    const palvelu = palvelut.map(p => PODCASTPALVELUT[p]).find(([, osoite]) => samaPalvelu(l, osoite));
     const tunnettu = Object.values(PODCASTPALVELUT).some(([, osoite]) => samaPalvelu(l, osoite));
-    if (!tunnettu && !onGoogleLinkki(l.osoite)) linkit.push([linkinNimi(l.osoite), l.osoite]);
+    if (palvelu && !l.haku) linkit.push([`${palvelu[0]}-esittely`, l.osoite]);
+    else if (!tunnettu) linkit.push([linkinNimi(l.osoite), l.osoite]);
+    kaytetyt.add(l.osoite);
   }
   return linkit;
 }

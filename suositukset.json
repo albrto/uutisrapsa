@@ -349,7 +349,10 @@
           "valta",
           "tutkiva journalismi"
         ],
-        "alkupera": "hs-vain"
+        "alkupera": "hs-vain",
+        "lisalinkit": [
+          "https://www.hs.fi/visio/art-2000012191398.html"
+        ]
       },
       {
         "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
