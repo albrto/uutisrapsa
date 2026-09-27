@@ -6714,7 +6714,7 @@
       {
         "r_idx": 4,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Alma Onali",
         "teos": "Kaukopartiohiihto",
         "paakategoria": "urheilu",
         "kategoriat": [
@@ -6722,9 +6722,39 @@
           "hiihto",
           "seikkailu"
         ],
-        "kuvaus": "Yöllinen 75 kilometrin kaukopartiohiihto Kouvolassa – vaativa ja elämyksellinen retkeilymuoto, jossa hiihdettiin kompassin mukaan metsän pimeydessä. Tarjoaa ainutlaatuisen irtiottokokemuksen arjesta.",
+        "kuvaus": "Alma hiihti Kouvolassa yön yli 75 kilometrin kaukopartiohiihdon \"pikamatkan\" – illalla puoli kahdeksalta liikkeelle, moottorikelkkareittejä ja kompassisuuntaa pitkin metsän pimeydessä, maaliin seuraavana päivänä ennen puoltapäivää. Vaativa ja elämyksellinen irtiotto arjesta.",
         "google_linkki": "https://www.google.com/search?q=kaukopartiohiihto+Suomi",
         "lisatieto_linkki": "https://www.google.com/search?q=kaukopartiohiihto+Suomi"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Anjalankosken ABC",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "huoltoasema",
+          "Kouvola",
+          "vitsi"
+        ],
+        "kuvaus": "Alman vitsisuositus: kaukopartiohiihdon ensimmäinen lämmin taukopaikka noin 50 kilometrin jälkeen. Ryhmä ehti paikalle juuri kuuden avauksen aikaan, joten pihalle ei onneksi tarvinnut jäätyä. Marko kiistää koko paikan olemassaolon – hänen mukaansa kyseessä on Keltakankaan ABC.",
+        "google_linkki": "https://www.google.com/search?q=ABC+Anjalankoski+Kouvola",
+        "lisatieto_linkki": "https://www.google.com/search?q=ABC+Anjalankoski+Kouvola"
+      },
+      {
+        "r_idx": 6,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Ufojen tarkkailu",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "taivas",
+          "avaruus",
+          "vitsi"
+        ],
+        "kuvaus": "Alman vitsisuositus: kaukopartiohiihdon aamuyönä taivaalla lipui äänettömästi pitkulainen, kuin Hayao Miyazakin elokuvasta tullut alus, jonka kaikki kolme hiihtäjää näkivät. Ufo paljastui myöhemmin samana iltana Kaliforniasta laukaistuiksi Starlink-satelliiteiksi.",
+        "google_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla",
+        "lisatieto_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla"
       }
     ]
   },
