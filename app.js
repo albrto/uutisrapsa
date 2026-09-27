@@ -430,7 +430,13 @@ function setupScrollListener() {
   let ticking = false;
   let settleUntil = 0;
   const SCROLL_THRESHOLD = 8; // Ignore small deltas (e.g. mobile Safari address bar)
-  const MINIFY_AT = 100;
+  // Palkki pienennetään vasta, kun se on tarttunut ruudun yläreunaan ja sen alta
+  // on vieritetty vielä hetki – aiemmin (kiinteä 100 px) se pieneni jo hero-osion
+  // kohdalla, vaikka täysikokoinen palkki olisi vielä mahtunut näkyviin.
+  const hero = document.querySelector('.hero');
+  const MINIFY_MARGIN = 120;
+  const minifyAt = () =>
+    hero.offsetTop + hero.offsetHeight + parseFloat(getComputedStyle(hero).marginBottom || 0) + MINIFY_MARGIN;
 
   // Minifying changes the height of the sticky bar, which shifts the page and
   // fires scroll events of its own (scroll anchoring, clamping on short lists).
@@ -478,7 +484,7 @@ function setupScrollListener() {
       // Not worth minifying if the page would become too short to stay past
       // the threshold (e.g. a filter leaves only a few results).
       const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
-      if (maxScroll <= MINIFY_AT + SCROLL_THRESHOLD) {
+      if (maxScroll <= minifyAt() + SCROLL_THRESHOLD) {
         controls.classList.remove('minified');
       }
     }
@@ -513,9 +519,10 @@ function setupScrollListener() {
           // Ylöspäin vieritys ei tuo palkkia takaisin (se ponnahti liian herkästi
           // sisällön päälle) – palkki aukeaa vain kahvasta tai sivun yläosassa.
           // Hakukentän ollessa aktiivinen palkkia ei piiloteta kirjoittajan alta.
-          if (currentScrollY > MINIFY_AT && delta > 0) {
+          const raja = minifyAt();
+          if (currentScrollY > raja && delta > 0) {
             if (document.activeElement !== searchInput) setMinified(true);
-          } else if (currentScrollY <= MINIFY_AT) {
+          } else if (currentScrollY <= raja) {
             setMinified(false);
           }
         }

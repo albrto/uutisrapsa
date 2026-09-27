@@ -418,6 +418,13 @@ a:hover {
   outline: none;
 }
 
+.filter-handle-teksti {
+  font-family: var(--fontti-koodi);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
 .filter-handle-count {
   min-width: 15px;
   height: 15px;
