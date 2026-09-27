@@ -12552,7 +12552,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Tähtitaivaan opetteleminen tekoälyn kanssa keskustellen luontokävelyillä",
+        "teos": "Tähtitaivaan opetteleminen tekoälyn kanssa",
         "paakategoria": "muu",
         "kategoriat": [
           "luonto",
@@ -22075,23 +22075,6 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Anna-Sofia Berner",
-        "teos": "Vaino",
-        "paakategoria": "kirja",
-        "kategoriat": [
-          "historiallinen romaani",
-          "Suomi",
-          "isonviha"
-        ],
-        "kuvaus": "Jenni Räinän romaani, joka kuvaa isonvihan aikaa 1700-luvulla Pohjanmaalla pakenevien lasten näkökulmasta. Painostava mutta vetävä, lähes elokuvakäsikirjoituksen tasoinen teos.",
-        "google_linkki": "https://www.google.com/search?q=Jenni+Räinä+Vaino+kirja",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jenni+Räinä+Vaino",
-        "alkupera": "",
-        "lisalinkit": []
-      },
-      {
-        "r_idx": 2,
-        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "E-kirjasto -sovellus",
         "paakategoria": "muu",
@@ -22107,7 +22090,7 @@ window.VALIDATION_DATA = [
         "lisalinkit": []
       },
       {
-        "r_idx": 3,
+        "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "New Yorkin uhmatar",
@@ -22120,6 +22103,23 @@ window.VALIDATION_DATA = [
         "kuvaus": "Anna-Sofia mainitsee lämpimästi Teemu Luukan aiemman kirjan, joka kertoo amerikansuomalaisesta baarinpitäjästä, jonka Teemu oli itsekin tuntenut työskennellessään Harlemissa baarimikkona 1980-luvulla.",
         "google_linkki": "https://www.google.com/search?q=New+Yorkin+uhmatar+Teemu+Muhonen",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=New+Yorkin+uhmatar",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Vaino",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historiallinen romaani",
+          "Suomi",
+          "isonviha"
+        ],
+        "kuvaus": "Jenni Räinän romaani, joka kuvaa isonvihan aikaa 1700-luvulla Pohjanmaalla pakenevien lasten näkökulmasta. Painostava mutta vetävä, lähes elokuvakäsikirjoituksen tasoinen teos.",
+        "google_linkki": "https://www.google.com/search?q=Jenni+Räinä+Vaino+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jenni+Räinä+Vaino",
         "alkupera": "",
         "lisalinkit": []
       },
