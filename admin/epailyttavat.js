@@ -26293,23 +26293,6 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
-        "teos": "The Last Days of Night",
-        "paakategoria": "kirja",
-        "kategoriat": [
-          "historiallinen romaani",
-          "oikeussalidekari",
-          "keksijät"
-        ],
-        "kuvaus": "Fiktiivinen mutta osin tositapahtumiin perustuva romaani 1880-luvun Yhdysvalloista, jossa Edison, Westinghouse ja Tesla käyvät ankaraa patenttitaistelua sähkölampusta ja sähkövirran hallinnasta.",
-        "google_linkki": "https://www.google.com/search?q=The+Last+Days+of+Night+Graham+Moore",
-        "lisatieto_linkki": "https://www.goodreads.com/book/show/28363972-the-last-days-of-night",
-        "alkupera": "",
-        "lisalinkit": []
-      },
-      {
-        "r_idx": 1,
-        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Apple: The First 50 Years",
         "paakategoria": "kirja",
@@ -26321,6 +26304,23 @@ window.VALIDATION_DATA = [
         "kuvaus": "New York Timesin toimittaja David Poguen kirjoittama runsaasti kuvitettu coffee table -kirja Applen viisikymmenvuotisesta historiasta; kertoo yllättävän paljon uutta myös pitkälle Apple-historiaan perehtyneelle.",
         "google_linkki": "https://www.google.com/search?q=Apple+The+First+50+Years+David+Pogue",
         "lisatieto_linkki": "https://www.goodreads.com/book/show/239495879-apple",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Last Days of Night",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historiallinen romaani",
+          "oikeussalidekari",
+          "keksijät"
+        ],
+        "kuvaus": "Fiktiivinen mutta osin tositapahtumiin perustuva romaani 1880-luvun Yhdysvalloista, jossa Edison, Westinghouse ja Tesla käyvät ankaraa patenttitaistelua sähkölampusta ja sähkövirran hallinnasta.",
+        "google_linkki": "https://www.google.com/search?q=The+Last+Days+of+Night+Graham+Moore",
+        "lisatieto_linkki": "https://www.goodreads.com/book/show/28363972-the-last-days-of-night",
         "alkupera": "",
         "lisalinkit": []
       }

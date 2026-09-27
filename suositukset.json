@@ -76,19 +76,6 @@
     "paivamaara": "10.9.2026",
     "suositukset": [
       {
-        "teos": "The Last Days of Night",
-        "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=The+Last+Days+of+Night+Graham+Moore",
-        "lisatieto_linkki": "https://www.goodreads.com/book/show/28363972-the-last-days-of-night",
-        "kuvaus": "Fiktiivinen mutta osin tositapahtumiin perustuva romaani 1880-luvun Yhdysvalloista, jossa Edison, Westinghouse ja Tesla käyvät ankaraa patenttitaistelua sähkölampusta ja sähkövirran hallinnasta.",
-        "suosittelija": "Marko Junkkari",
-        "kategoriat": [
-          "historiallinen romaani",
-          "oikeussalidekari",
-          "keksijät"
-        ]
-      },
-      {
         "teos": "Apple: The First 50 Years",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Apple+The+First+50+Years+David+Pogue",
@@ -99,6 +86,19 @@
           "teknologia",
           "historia",
           "Apple"
+        ]
+      },
+      {
+        "teos": "The Last Days of Night",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Last+Days+of+Night+Graham+Moore",
+        "lisatieto_linkki": "https://www.goodreads.com/book/show/28363972-the-last-days-of-night",
+        "kuvaus": "Fiktiivinen mutta osin tositapahtumiin perustuva romaani 1880-luvun Yhdysvalloista, jossa Edison, Westinghouse ja Tesla käyvät ankaraa patenttitaistelua sähkölampusta ja sähkövirran hallinnasta.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "historiallinen romaani",
+          "oikeussalidekari",
+          "keksijät"
         ]
       }
     ]
