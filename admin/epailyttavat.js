@@ -18368,12 +18368,13 @@ window.VALIDATION_DATA = [
         "teos": "Ystäväkirja",
         "paakategoria": "podcast",
         "kategoriat": [
-          "uusi podcast",
+          "ystävyys",
+          "haastattelu",
           "HS"
         ],
-        "kuvaus": "Helsingin Sanomien toimittajan Inkeri Harjun tekemä uusi podcast. Suositellaan kuunneltavaksi.",
+        "kuvaus": "HS Nytin uusi podcast, jossa kaksi julkisuudesta tuttua kaverusta kertoo ystävyydestään ja yhteisistä muistoistaan. Tekijänä HS:n toimittaja Inkeri Harju, Uutisraportin entinen kesätiimiläinen.",
         "google_linkki": "https://www.google.com/search?q=Ystäväkirja+podcast+Inkeri+Harju",
-        "lisatieto_linkki": "https://open.spotify.com/search/Ystäväkirja%20podcast",
+        "lisatieto_linkki": "https://www.supla.fi/podcast/ystavakirja",
         "alkupera": "hs"
       },
       {
@@ -21067,7 +21068,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Teemu Luukan kirja (hallituksen tapahtumahistoria 2024)",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -21075,7 +21076,7 @@ window.VALIDATION_DATA = [
           "historia",
           "ajankohtainen"
         ],
-        "kuvaus": "Yksityiskohtainen tapahtumahistoria nykyisen hallituksen tekemisistä, erityisesti maaliskuun 2024 tapahtumista. Suositellaan kaikille politiikasta ja ajankohtaisista tapahtumista kiinnostuneille.",
+        "kuvaus": "Tuomas suosittelee Teemu Luukan kirjoittamaa kirjaa, joka käy yksityiskohtaisesti läpi Orpo-Purra-hallituksen toimintaa ja analysoi Suomen 2000-luvun oikeistolaistumista.",
         "google_linkki": "https://www.google.com/search?q=Teemu+Luukka+kirja+hallitus+2024",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Teemu+Luukka",
         "alkupera": ""
@@ -22379,8 +22380,8 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Helsingin Sanomien podcast, joka kertoo Fortumin seikkailusta Venäjällä ja käsittelee vallankäyttöä sekä vastuuta. Salla Vuorikosken mukaan todella hyvä ja huolellisesti tehty teos.",
         "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Fortum",
-        "lisatieto_linkki": "https://open.spotify.com/search/Menetetyt%20miljardit",
-        "alkupera": "hs"
+        "lisatieto_linkki": "https://www.hs.fi/kuuntele/menetetyt-miljardit/",
+        "alkupera": "hs-vain"
       },
       {
         "r_idx": 6,
@@ -23477,7 +23478,7 @@ window.VALIDATION_DATA = [
         "kuvaus": "Toimittaja Paavo Teittisen kolmiosainen podcast Loikalan lastensuojelulaitoksen epäkohdista. Useamman vuoden työn tulos, jossa kuullaan asianosaisten omat äänet.",
         "google_linkki": "https://www.google.com/search?q=Loikalan+lapset+podcast+Helsingin+Sanomat",
         "lisatieto_linkki": "https://open.spotify.com/search/Loikalan%20lapset",
-        "alkupera": "hs"
+        "alkupera": "hs-vain"
       }
     ]
   },
