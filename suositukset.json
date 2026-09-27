@@ -76,19 +76,6 @@
     "paivamaara": "10.9.2026",
     "suositukset": [
       {
-        "teos": "Apple: The First 50 Years",
-        "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Apple+The+First+50+Years+David+Pogue",
-        "lisatieto_linkki": "https://www.goodreads.com/book/show/239495879-apple",
-        "kuvaus": "New York Timesin toimittaja David Poguen kirjoittama runsaasti kuvitettu coffee table -kirja Applen viisikymmenvuotisesta historiasta; kertoo yllättävän paljon uutta myös pitkälle Apple-historiaan perehtyneelle.",
-        "suosittelija": "Tuomas Peltomäki",
-        "kategoriat": [
-          "teknologia",
-          "historia",
-          "Apple"
-        ]
-      },
-      {
         "teos": "The Last Days of Night",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=The+Last+Days+of+Night+Graham+Moore",
@@ -99,6 +86,19 @@
           "historiallinen romaani",
           "oikeussalidekari",
           "keksijät"
+        ]
+      },
+      {
+        "teos": "Apple: The First 50 Years",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Apple+The+First+50+Years+David+Pogue",
+        "lisatieto_linkki": "https://www.goodreads.com/book/show/239495879-apple",
+        "kuvaus": "New York Timesin toimittaja David Poguen kirjoittama runsaasti kuvitettu coffee table -kirja Applen viisikymmenvuotisesta historiasta; kertoo yllättävän paljon uutta myös pitkälle Apple-historiaan perehtyneelle.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "teknologia",
+          "historia",
+          "Apple"
         ]
       }
     ]
