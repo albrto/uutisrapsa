@@ -144,6 +144,7 @@ def main():
                 "google_linkki": rec.get("google_linkki", ""),
                 "lisatieto_linkki": rec.get("lisatieto_linkki", ""),
                 "alkupera": rec.get("alkupera", ""),
+                "lisalinkit": rec.get("lisalinkit", []),
             })
 
     # Suodatetaan vain ne jaksot, joissa on suosituksia

@@ -79,6 +79,9 @@ def main():
             # Podcastin alkuperä (yle/kotimainen/ulkomainen) ohjaa kuuntelulinkkejä
             if uusi_data.get("alkupera"):
                 uusi["alkupera"] = uusi_data["alkupera"]
+            # Podcastin suorat lisälinkit (Supla-sivu, HS:n esittelyartikkeli …)
+            if uusi_data.get("lisalinkit"):
+                uusi["lisalinkit"] = uusi_data["lisalinkit"]
             suositukset.append(uusi)
             print(f"  ➕ {korj.get('paivamaara', '?')}: Lisätty uusi suositus: \"{uusi_data['teos']}\"")
             ok += 1

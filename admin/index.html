@@ -1133,6 +1133,7 @@ async function loadFullData() {
         google_linkki: rec.google_linkki || '',
         lisatieto_linkki: rec.lisatieto_linkki || '',
         alkupera: rec.alkupera || '',
+        lisalinkit: rec.lisalinkit || [],
       }));
       return {
         j_idx: allData.length - j_idx, // vanhin = 1, uusin = N
@@ -1633,6 +1634,13 @@ function confirmCorr(jakso_id, r_idx) {
   };
   const alkupera = document.getElementById(`edit-alkupera-${jakso_id}-${r_idx}`).value;
   if (uusi_data.paakategoria === 'podcast' && alkupera) uusi_data.alkupera = alkupera;
+  if (uusi_data.paakategoria === 'podcast') {
+    const lisalinkit = lueLisalinkit('edit', `${jakso_id}-${r_idx}`);
+    if (!lisalinkit) return;
+    const jakso = DATA_FULL.find(j => j.jakso_id === jakso_id);
+    const tallennettu = jakso?.suositukset.find(r => r.r_idx === r_idx)?.lisalinkit || [];
+    if (JSON.stringify(lisalinkit) !== JSON.stringify(tallennettu)) uusi_data.lisalinkit = lisalinkit;
+  }
 
   setCorr(jakso_id, r_idx, { is_edited: true, uusi_data: uusi_data });
   refreshRec(jakso_id, r_idx);
@@ -1669,15 +1677,33 @@ const ALKUPERAT = [
   ['ulkomainen', 'Ulkomainen (Spotify + Apple)'],
 ];
 
-// Näkyy vain, kun pääkategoria on podcast
+// Näkyy vain, kun pääkategoria on podcast. Lisälinkit (yksi per rivi) ovat
+// suoria sarjasivuja: kukin korvaa saman palvelun haun julkisella sivulla
+// (app.js podcastLinkit), muun palvelun linkki näkyy omana linkkinään.
 function alkuperaKentta(etuliite, id, rec, onchange) {
+  const kasittelija = onchange ? ` onchange="${onchange}"` : '';
+  const syote = onchange ? ` oninput="${onchange}"` : '';
   return `
     <div id="${etuliite}-alkupera-rivi-${id}" style="grid-column: span 2${rec.paakategoria === 'podcast' ? '' : '; display:none'}">
       <label class="player-label" style="font-size:0.6rem">PODCASTIN ALKUPERÄ (kuuntelulinkit)</label>
-      <select class="custom-input" style="width:100%" id="${etuliite}-alkupera-${id}"${onchange ? ` onchange="${onchange}"` : ''}>
+      <select class="custom-input" style="width:100%" id="${etuliite}-alkupera-${id}"${kasittelija}>
         ${ALKUPERAT.map(([arvo, nimi]) => `<option value="${arvo}"${(rec.alkupera || '') === arvo ? ' selected' : ''}>${nimi}</option>`).join('')}
       </select>
+      <label class="player-label" style="font-size:0.6rem; margin-top:8px; display:block">LISÄLINKIT (valinnainen, yksi per rivi – esim. sarjan Supla-sivu tai HS:n esittelyartikkeli)</label>
+      <textarea class="custom-input" id="${etuliite}-lisalinkit-${id}" style="width:100%; height: 52px; resize: vertical;" placeholder="https://..."${syote}>${escHtml((rec.lisalinkit || []).join('\n'))}</textarea>
     </div>`;
+}
+
+// Palauttaa lisälinkit listana tai null, jos jokin rivi ei ole http(s)-osoite
+function lueLisalinkit(etuliite, id) {
+  const rivit = document.getElementById(`${etuliite}-lisalinkit-${id}`).value
+    .split('\n').map(s => s.trim()).filter(s => s);
+  const virheellinen = rivit.find(r => !/^https?:\/\/\S+$/i.test(r));
+  if (virheellinen) {
+    showToast(`Lisälinkki ei ole osoite: ${virheellinen}`, 4000);
+    return null;
+  }
+  return rivit;
 }
 
 function naytaAlkupera(etuliite, id) {
@@ -1787,6 +1813,11 @@ function lisaaUusi(jakso_id) {
     lisatieto_linkki: arvo('linkki'),
   };
   if (uusi_data.paakategoria === 'podcast' && arvo('alkupera')) uusi_data.alkupera = arvo('alkupera');
+  if (uusi_data.paakategoria === 'podcast') {
+    const lisalinkit = lueLisalinkit('add', jakso_id);
+    if (!lisalinkit) return;
+    if (lisalinkit.length) uusi_data.lisalinkit = lisalinkit;
+  }
   NEW_RECS.push({ tmp_id: ++newRecSeq, jakso_id, uusi_data });
   updateSaveBtn();
   refreshCard(jakso_id);
