@@ -35,6 +35,13 @@
   --badge-teksti: #94a3b8;
   --badge-tausta: rgba(148, 163, 184, 0.12);
 
+  /* Pienennetty suodatinpalkki, modaalin taustaverho, valikon nuoli */
+  --bg-palkki: rgba(9, 9, 15, 0.95);
+  --verho: rgba(0, 0, 0, 0.8);
+  --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23aeaec9' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+
+  color-scheme: dark;
+
   /* Fontit */
   --fontti: 'Google Sans Flex', -apple-system, BlinkMacSystemFont, sans-serif;
   --fontti-koodi: 'Google Sans Code', ui-monospace, SFMono-Regular, Menlo, monospace;
@@ -60,6 +67,71 @@
   --accent-light: var(--aksentti);
   --accent-glow: var(--aksentti-tausta-aktiivinen);
   --tag-ruoka: #f87171; /* palautelomakkeen virheväri (app.js) */
+}
+
+/* Vaalea teema (Figma: v2-kokoelman moodi "Vaalea"). Oletuksena seurataan laitteen
+   asetusta; teemakytkin asettaa <html data-theme="light|dark"> ja ohittaa sen.
+   Arvot ovat kahdesti, koska media query ja attribuuttivalitsin eivät yhdisty. */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg-sivu: #f4f4f8;
+    --bg-hero-yla: #e4e4ee;
+    --bg-kortti: #ffffff;
+    --bg-kortti-hover: #f9f9fc;
+    --bg-kentta: #ffffff;
+    --bg-tagi: rgba(28, 28, 40, 0.04);
+    --reuna: rgba(28, 28, 40, 0.10);
+
+    --teksti-ensisijainen: #1c1c28;
+    --teksti-toissijainen: #5c5c72;
+    --teksti-himmea: #6a6a82;
+    --teksti-vahva: #0f0f14;
+    --teksti-aksentin-paalla: #ffffff;
+
+    /* Tummempi vihreä: kontrasti valkoisella ≥ 4,5:1 */
+    --aksentti: #0a7d58;
+    --aksentti-tausta: rgba(10, 125, 88, 0.06);
+    --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+
+    --badge-teksti: #52606f;
+    --badge-tausta: rgba(82, 96, 111, 0.10);
+
+    --bg-palkki: rgba(244, 244, 248, 0.95);
+    --verho: rgba(28, 28, 40, 0.45);
+    --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235c5c72' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+
+    color-scheme: light;
+  }
+}
+
+:root[data-theme="light"] {
+  --bg-sivu: #f4f4f8;
+  --bg-hero-yla: #e4e4ee;
+  --bg-kortti: #ffffff;
+  --bg-kortti-hover: #f9f9fc;
+  --bg-kentta: #ffffff;
+  --bg-tagi: rgba(28, 28, 40, 0.04);
+  --reuna: rgba(28, 28, 40, 0.10);
+
+  --teksti-ensisijainen: #1c1c28;
+  --teksti-toissijainen: #5c5c72;
+  --teksti-himmea: #6a6a82;
+  --teksti-vahva: #0f0f14;
+  --teksti-aksentin-paalla: #ffffff;
+
+  /* Tummempi vihreä: kontrasti valkoisella ≥ 4,5:1 */
+  --aksentti: #0a7d58;
+  --aksentti-tausta: rgba(10, 125, 88, 0.06);
+  --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+
+  --badge-teksti: #52606f;
+  --badge-tausta: rgba(82, 96, 111, 0.10);
+
+  --bg-palkki: rgba(244, 244, 248, 0.95);
+  --verho: rgba(28, 28, 40, 0.45);
+  --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235c5c72' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+
+  color-scheme: light;
 }
 
 html {
@@ -177,6 +249,61 @@ a:hover {
   margin-bottom: 32px;
 }
 
+/* Teemakytkin heron oikeassa yläkulmassa (Figma: v2/Teemakytkin) */
+.teemakytkin {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 1;
+  width: 40px;
+  height: 22px;
+  padding: 2px;
+  border: 1px solid var(--reuna);
+  border-radius: var(--radius-pill);
+  background: var(--bg-kentta);
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity var(--transition), border-color var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.teemakytkin:hover,
+.teemakytkin:focus-visible {
+  opacity: 1;
+  border-color: var(--teksti-himmea);
+  outline: none;
+}
+
+.teemakytkin-nuppi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--teksti-himmea);
+  color: var(--bg-sivu);
+  transition: transform 200ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.teemakytkin-nuppi svg {
+  width: 10px;
+  height: 10px;
+}
+
+.teemakytkin .ikoni-aurinko { display: none; }
+
+.teemakytkin[aria-checked="true"] .teemakytkin-nuppi {
+  transform: translateX(18px);
+}
+
+.teemakytkin[aria-checked="true"] .ikoni-kuu { display: none; }
+.teemakytkin[aria-checked="true"] .ikoni-aurinko { display: block; }
+
+@media (prefers-reduced-motion: reduce) {
+  .teemakytkin-nuppi { transition: none; }
+}
+
 /* ===== CONTROLS ===== */
 .controls {
   max-width: 1000px;
@@ -194,7 +321,7 @@ a:hover {
 .controls.minified {
   padding-top: 0;
   padding-bottom: 0;
-  background: rgba(9, 9, 15, 0.95);
+  background: var(--bg-palkki);
   backdrop-filter: blur(12px);
 }
 
@@ -383,7 +510,7 @@ a:hover {
   cursor: pointer;
   transition: border-color var(--transition);
   appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23aeaec9' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-image: var(--nuoli-kuva);
   background-repeat: no-repeat;
   background-position: right 12px center;
   padding-right: 32px;
@@ -760,7 +887,7 @@ a:hover {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: var(--verho);
   backdrop-filter: blur(8px);
   animation: fadeIn 0.3s ease;
 }

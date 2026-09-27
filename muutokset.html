@@ -7,6 +7,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400..800&family=Google+Sans+Code:wght@400..500&display=swap" rel="stylesheet">
+  <!-- Teema: oletuksena laitteen asetus; käyttäjän valinta (teemakytkin) talletetaan.
+       Ajetaan ennen tyylejä, jottei sivu välähdä väärässä teemassa. -->
+  <script>
+    try {
+      var t = localStorage.getItem('teema');
+      if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
   <link rel="stylesheet" href="style.css">
   <style>
     .changelog-container {

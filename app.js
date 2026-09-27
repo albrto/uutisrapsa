@@ -454,7 +454,41 @@ function setupAboutModal() {
   });
 }
 
+// --- Teemakytkin ---
+// Oletuksena seurataan laitteen asetusta (prefers-color-scheme). Kytkin asettaa
+// <html data-theme>. Jos valinta osuu samaksi kuin laitteen asetus, tallennettu
+// valinta poistetaan, jolloin sivu palaa seuraamaan laitetta.
+function setupTeemakytkin() {
+  const kytkin = document.getElementById('teemakytkin');
+  if (!kytkin) return;
+  const laiteVaalea = window.matchMedia('(prefers-color-scheme: light)');
+
+  const nykyinen = () => document.documentElement.dataset.theme || (laiteVaalea.matches ? 'light' : 'dark');
+  const paivita = () => kytkin.setAttribute('aria-checked', String(nykyinen() === 'light'));
+
+  kytkin.addEventListener('click', () => {
+    const uusi = nykyinen() === 'light' ? 'dark' : 'light';
+    const laitteen = laiteVaalea.matches ? 'light' : 'dark';
+    try {
+      if (uusi === laitteen) {
+        delete document.documentElement.dataset.theme;
+        localStorage.removeItem('teema');
+      } else {
+        document.documentElement.dataset.theme = uusi;
+        localStorage.setItem('teema', uusi);
+      }
+    } catch (e) {
+      document.documentElement.dataset.theme = uusi;
+    }
+    paivita();
+  });
+
+  laiteVaalea.addEventListener('change', paivita);
+  paivita();
+}
+
 // Start the app
+setupTeemakytkin();
 init();
 setupFeedbackForm();
 setupAboutModal();
