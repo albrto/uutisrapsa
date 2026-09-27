@@ -1453,7 +1453,7 @@ function renderCard(jakso) {
     <div class="player-section">
       <div class="player-label">JAKSON KUUNTELU</div>
       <div class="player-row">
-        <button class="play-btn" id="playbtn-${jakso.jakso_id}" onclick="togglePlay('${jakso.jakso_id}', '${jakso.audio_url}', ${startSek}, ${jakso.kesto_sek})" aria-label="Toista">${IKONI_TOISTA}</button>
+        <button class="play-btn" id="playbtn-${jakso.jakso_id}" onclick="togglePlay('${jakso.jakso_id}', '${escJsAttr(jakso.audio_url)}', ${startSek}, ${jakso.kesto_sek})" aria-label="Toista">${IKONI_TOISTA}</button>
         <div class="player-controls">
           <div class="seek-bar-wrap" id="seekwrap-${jakso.jakso_id}" onclick="seekClick(event,'${jakso.jakso_id}',${jakso.kesto_sek})">
             <div class="seek-bg"></div>
@@ -2160,7 +2160,12 @@ function saveChanges() {
 }
 
 function escHtml(str) { return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
-function escAttr(str) { return String(str).replace(/'/g,"\\'").replace(/"/g,'\\"'); }
+// HTML-attribuutin arvoon (value="…"): HTML-entiteetit, ei kenoviivoja –
+// attribuutissa kenoviiva on kirjaimellinen ja päätyisi tallennettuun dataan.
+function escAttr(str) { return String(str).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+// JS-merkkijonoliteraaliin inline-käsittelijän sisällä (onclick="f('…')"):
+// ensin JS-escape, sitten HTML-escape, koska selain purkaa entiteetit ennen JS:n ajoa.
+function escJsAttr(str) { return escAttr(JSON.stringify(String(str)).slice(1, -1).replace(/'/g, "\\'")); }
 
 // Init
 if (adminToken) {
