@@ -204,16 +204,7 @@ function renderCard(rec) {
     links += `<a href="${escapeHtml(rec.google_linkki)}" target="_blank" class="rec-link">Google</a>`;
   }
   if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki) {
-    let linkLabel = 'Lisätietoa';
-    const url = rec.lisatieto_linkki.toLowerCase();
-    if (url.includes('goodreads')) linkLabel = 'Goodreads';
-    else if (url.includes('imdb')) linkLabel = 'IMDb';
-    else if (url.includes('spotify')) linkLabel = 'Spotify';
-    else if (url.includes('apple')) linkLabel = 'Apple';
-    else if (url.includes('tidal')) linkLabel = 'Tidal';
-    else if (url.includes('supla.fi')) linkLabel = 'Supla';
-    else if (url.includes('areena.yle.fi')) linkLabel = 'Yle Areena';
-    else if (url.includes('youtube.com')) linkLabel = 'YouTube';
+    const linkLabel = linkinNimi(rec.lisatieto_linkki);
     links += `<a href="${escapeHtml(rec.lisatieto_linkki)}" target="_blank" class="rec-link">${linkLabel}</a>`;
   }
   
@@ -241,6 +232,75 @@ function renderCard(rec) {
         ${tags ? `<div class="rec-tags">${tags}</div>` : ''}
       </div>
     </div>`;
+}
+
+// Lisätietolinkin nimi palvelun mukaan. Tarkemmat osoitteet ennen yleisempiä
+// (areena.yle.fi ennen yle.fi). Tuntematon palvelu → "Lisätietoa".
+const LINKKIEN_NIMET = [
+  ['goodreads.com', 'Goodreads'],
+  ['imdb.com', 'IMDb'],
+  ['spotify.com', 'Spotify'],
+  ['apple.com', 'Apple'],
+  ['tidal.com', 'Tidal'],
+  ['supla.fi', 'Supla'],
+  ['areena.yle.fi', 'Yle Areena'],
+  ['yle.fi', 'Yle'],
+  ['hs.fi', 'HS'],
+  ['youtube.com', 'YouTube'],
+  ['youtu.be', 'YouTube'],
+  ['instagram.com', 'Instagram'],
+  ['tiktok.com', 'TikTok'],
+  ['facebook.com', 'Facebook'],
+  ['twitter.com', 'X'],
+  ['x.com', 'X'],
+  ['cooking.nytimes.com', 'NYT Cooking'],
+  ['nytimes.com', 'NYT'],
+  ['newyorker.com', 'New Yorker'],
+  ['theatlantic.com', 'The Atlantic'],
+  ['wired.com', 'Wired'],
+  ['rollingstone.com', 'Rolling Stone'],
+  ['bbc.com', 'BBC'],
+  ['bbc.co.uk', 'BBC'],
+  ['theguardian.com', 'Guardian'],
+  ['politico.com', 'Politico'],
+  ['vox.com', 'Vox'],
+  ['nymag.com', 'New York Mag'],
+  ['theathletic.com', 'The Athletic'],
+  ['theconversation.com', 'The Conversation'],
+  ['wikipedia.org', 'Wikipedia'],
+  ['store.steampowered.com', 'Steam'],
+  ['igdb.com', 'IGDB'],
+  ['longplay.fi', 'Long Play'],
+  ['kansallisteatteri.fi', 'Kansallisteatteri'],
+  ['q-teatteri.fi', 'Q-teatteri'],
+  ['ateneum.fi', 'Ateneum'],
+  ['kansallismuseo.fi', 'Kansallismuseo'],
+  ['digi.kansalliskirjasto.fi', 'Kansalliskirjasto'],
+  ['suomenlinna.fi', 'Suomenlinna'],
+  ['linnanmaki.fi', 'Linnanmäki'],
+  ['luontoon.fi', 'Luontoon.fi'],
+  ['docpoint.info', 'DocPoint'],
+  ['superpesis.fi', 'Superpesis'],
+  ['journalisti.fi', 'Journalisti'],
+  ['cineast.fi', 'Cineast'],
+  ['chat.openai.com', 'ChatGPT'],
+  ['openai.com', 'OpenAI'],
+  ['midjourney.com', 'Midjourney'],
+  ['duolingo.com', 'Duolingo'],
+  ['chess.com', 'Chess.com'],
+  ['ifixit.com', 'iFixit'],
+  ['myfitnesspal.com', 'MyFitnessPal'],
+];
+
+function linkinNimi(url) {
+  let host;
+  try {
+    host = new URL(url).hostname.toLowerCase().replace(/^www\./, '');
+  } catch {
+    return 'Lisätietoa';
+  }
+  const osuma = LINKKIEN_NIMET.find(([osoite]) => host === osoite || host.endsWith('.' + osoite));
+  return osuma ? osuma[1] : 'Lisätietoa';
 }
 
 function escapeHtml(str) {
