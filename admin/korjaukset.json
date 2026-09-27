@@ -432,17 +432,19 @@
     "jakso_otsikko": "Stubb–Trump, kaikki kovat YK:ssa, aborttikiista, ehdokasavatarit",
     "paivamaara": "24.9.2026",
     "r_idx": 1,
-    "teos": "Suomen lentopallomaajoukkueen EM-ottelu (perjantai klo 22)",
+    "teos": "Suomen lentopallomaajoukkueen EM-välierä Ranskaa vastaan",
     "uusi_data": {
-      "teos": "Suomen lentopallomaajoukkueen EM-ottelu (perjantai klo 22)",
+      "teos": "Suomen lentopallomaajoukkueen EM-välierä Ranskaa vastaan",
       "suosittelija": "Salla Vuorikoski",
-      "kuvaus": "Suomen lentopallomaajoukkue kaatoi Italian ja on nyt neljän parhaan joukossa. Salla suosittelee katsomaan perjantain ottelun kello 22, jossa vastassa on Ranska.",
+      "kuvaus": "Suomen lentopallomaajoukkue kaatoi Italian ja nousi EM-kisojen neljän parhaan joukkoon. Salla suositteli katsomaan välierän Ranskaa vastaan – ottelu on nyt pelattu, ja sen tallenteen voi katsoa Yle Areenasta 25.3.2027 asti.",
       "paakategoria": "urheilu",
       "kategoriat": [
         "lentopallo",
         "EM-kisat",
         "urheilu"
-      ]
+      ],
+      "google_linkki": "https://www.google.com/search?q=Suomi+Ranska+lentopallo+EM+2026+välierä",
+      "lisatieto_linkki": "https://areena.yle.fi/1-78624438"
     }
   },
   {
