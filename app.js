@@ -430,13 +430,26 @@ function setupScrollListener() {
   let ticking = false;
   let settleUntil = 0;
   const SCROLL_THRESHOLD = 8; // Ignore small deltas (e.g. mobile Safari address bar)
-  // Palkki pienennetään vasta, kun se on tarttunut ruudun yläreunaan ja sen alta
-  // on vieritetty vielä hetki – aiemmin (kiinteä 100 px) se pieneni jo hero-osion
-  // kohdalla, vaikka täysikokoinen palkki olisi vielä mahtunut näkyviin.
+  // Palkki pienennetään heti, kun se on tarttunut ruudun yläreunaan (pieni
+  // marginaali), ei jo hero-osion kohdalla, jossa täysikokoinen palkki vielä mahtuu.
+  //
+  // Palautusraja on pienennysrajaa alempana palkin korkeuseron verran (hystereesi):
+  // pienentyessä palkin alla oleva sisältö nousee, ja selain (scroll anchoring)
+  // tai mobiilin vauhtivieritys voi siirtää vierityskohtaa saman verran taaksepäin.
+  // Jos rajat olisivat samat, palkki ehtisi pienentyä, suurentua hetkeksi ja
+  // pienentyä taas.
   const hero = document.querySelector('.hero');
-  const MINIFY_MARGIN = 120;
-  const minifyAt = () =>
-    hero.offsetTop + hero.offsetHeight + parseFloat(getComputedStyle(hero).marginBottom || 0) + MINIFY_MARGIN;
+  const MINIFY_MARGIN = 16;
+  const stickyAlku = () =>
+    hero.offsetTop + hero.offsetHeight + parseFloat(getComputedStyle(hero).marginBottom || 0);
+  const minifyAt = () => stickyAlku() + MINIFY_MARGIN;
+  let taysiKorkeus = 0; // palkin korkeus juuri ennen pienennystä
+  const expandAt = () => {
+    const pienennetty = controls.classList.contains('minified') || collapseTimer;
+    if (!pienennetty) return minifyAt();
+    const kahva = handle.offsetHeight || 26;
+    return stickyAlku() - Math.max(0, taysiKorkeus - kahva) - SCROLL_THRESHOLD;
+  };
 
   // Minifying changes the height of the sticky bar, which shifts the page and
   // fires scroll events of its own (scroll anchoring, clamping on short lists).
@@ -455,6 +468,7 @@ function setupScrollListener() {
     const minified = controls.classList.contains('minified');
     if (on) {
       if (minified || collapseTimer) return;
+      taysiKorkeus = controls.offsetHeight;
       clearTimeout(expandTimer);
       controls.classList.remove('expanding');
       controls.classList.add('collapsing');
@@ -519,10 +533,9 @@ function setupScrollListener() {
           // Ylöspäin vieritys ei tuo palkkia takaisin (se ponnahti liian herkästi
           // sisällön päälle) – palkki aukeaa vain kahvasta tai sivun yläosassa.
           // Hakukentän ollessa aktiivinen palkkia ei piiloteta kirjoittajan alta.
-          const raja = minifyAt();
-          if (currentScrollY > raja && delta > 0) {
+          if (currentScrollY > minifyAt() && delta > 0) {
             if (document.activeElement !== searchInput) setMinified(true);
-          } else if (currentScrollY <= raja) {
+          } else if (currentScrollY <= expandAt()) {
             setMinified(false);
           }
         }

@@ -136,6 +136,10 @@
 
 html {
   scroll-behavior: smooth;
+  /* Ei selaimen scroll anchoringia: kun sticky-suodatinpalkki pienenee kahvaksi,
+     se muuten siirtäisi vierityskohtaa taaksepäin ja hero-osio vilahtaisi
+     takaisin näkyviin (Chrome/Android). Nyt kaikki selaimet käyttäytyvät samoin. */
+  overflow-anchor: none;
 }
 
 body {
