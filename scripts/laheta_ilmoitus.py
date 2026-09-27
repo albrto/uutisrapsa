@@ -93,6 +93,15 @@ def main():
             osio += "Automaattiset laatuvaroitukset:\n"
             for v in varoitukset:
                 osio += f"- {v}\n"
+        # Tekoälyn perustelut sille, kuka puhujanumero on kuka. Validaattori ei
+        # huomaa, jos kaksi oikeaa osallistujaa menee ristiin — tästä sen näkee.
+        tunnistukset = t.get("tunnistukset", [])
+        if tunnistukset:
+            osio += "Kuka suositteli mitä — tekoälyn perustelut (tarkista, että päättely on järkevä):\n"
+            for tu in tunnistukset:
+                osio += f"- {tu.get('suosittelija', '?')}: {tu.get('teos', '?')}\n"
+                if tu.get("peruste"):
+                    osio += f"    ↳ {tu['peruste']}\n"
         osiot.append(osio)
 
     if len(tulokset) == 1:

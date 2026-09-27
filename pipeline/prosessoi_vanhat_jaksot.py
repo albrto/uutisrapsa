@@ -124,7 +124,7 @@ def main():
 
             if raakateksti:
                 tallenna_transkripti(jakso["id"], raakateksti)
-                suositukset_json, varoitukset = analysoi_claudella(raakateksti)
+                suositukset_json, varoitukset, _ = analysoi_claudella(raakateksti)
                 for v in varoitukset:
                     print(f"  ⚠️ {v}")
                 

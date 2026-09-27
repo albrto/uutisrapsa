@@ -98,7 +98,7 @@ MALLIT = [
 
 # Kentät, jotka malli tuottaa laadunvarmistusta varten mutta joita ei
 # tallenneta suositukset.json-tiedostoon (sivuston skeema pysyy ennallaan)
-SISAISET_KENTAT = ("puhuja_peruste", "epavarma_teos")
+SISAISET_KENTAT = ("puhuja_peruste", "puhuja_ristiriita", "epavarma_teos")
 
 
 def normalisoi_kirjoitusasu(nimi, tunnetut):
@@ -146,10 +146,22 @@ def rakenna_system_prompt(osallistujat):
     # ohjaisi mallia arvaamaan henkilöitä, jotka eivät ole studiossa.
     puhujaohje = (
         "Teksti sisältää jakson alkupuolen ja lopun suositusosion. Jos rivit on merkitty "
-        "puhujittain (\"Puhuja 0:\", \"Puhuja 1:\" jne.), selvitä ensin, kuka puhujanumero on "
-        "kukin henkilö: alkuesittelyt, nimeltä puhuttelut ja tervehdykset ovat todisteita. "
-        "Lisää jokaiseen suositukseen kenttä \"puhuja_peruste\": lyhyt suora sitaatti "
-        "transkriptista, joka osoittaa mistä päättelit puhujanumeron ja henkilön vastaavuuden. "
+        "puhujittain (\"Puhuja 0:\", \"Puhuja 1:\" jne.), selvitä ensin, kuka puhujanumero on kukin henkilö. "
+        "HUOM: merkinnät tulevat automaattisesta puhujantunnistuksesta, joka erehtyy usein juuri "
+        "puheenvuoron vaihtuessa — raja voi osua sanan tai pari väärään kohtaan, ja sama ääni voi "
+        "välillä saada väärän numeron. Arvioi todisteita tässä järjestyksessä: "
+        "(a) VAHVA: puhuja esittelee itsensä (\"mun nimi on…\", \"X tässä\"); puhuja viittaa toiseen "
+        "kolmannessa persoonassa (\"Anna puhuu siitä, että…\" → puhuja EI ole Anna, ja samasta asiasta "
+        "juuri puhunut on todennäköisesti Anna). "
+        "(b) HEIKKO: nimellä puhuttelu tai kysymys puheenvuoron alussa tai lopussa (\"Anna? Mitä mieltä…\") "
+        "— se on usein edellisen puhujan sana, joka on valunut seuraavan puhujan riville; jakson lopun "
+        "kiitokset (\"Kiitos Anna Esimerkki\") eivät kerro, kenen numeroa kiitetään. "
+        "Käy läpi KOKO teksti ja kerää kaikki vihjeet ennen päätöstä — älä lukitse vastaavuutta "
+        "ensimmäisen vihjeen perusteella. Heikko vihje ei kumoa vahvaa. "
+        "Lisää jokaiseen suositukseen kenttä \"puhuja_peruste\": lyhyt suora sitaatti transkriptista, "
+        "joka osoittaa puhujanumeron ja henkilön vastaavuuden (vahvin löytämäsi todiste — ei suosittelijan "
+        "omaa suosituslausetta, joka ei kerro kuka puhuu). Jos vastaavuudesta on ristiriitaisia vihjeitä, "
+        "lisää kenttä \"puhuja_ristiriita\": lyhyt kuvaus ristiriidasta sitaatteineen. "
     )
     if osallistujat:
         suosittelija_saanto = (
@@ -191,7 +203,7 @@ VASTAUKSEN RAKENNE (palauta taulukko):
     "kategoriat": ["historia", "elämäkerrat"]
   }}
 ]
-Kenttä "epavarma_teos": true lisätään vain, jos teoksen nimen kirjoitusasu jäi epävarmaksi.
+Kenttä "epavarma_teos": true lisätään vain, jos teoksen nimen kirjoitusasu jäi epävarmaksi. Kenttä "puhuja_ristiriita" lisätään vain, jos puhujan tunnistuksesta on ristiriitaisia vihjeitä.
 Palauta pelkkä suora lista `[]`. Älä käytä markdown-koodiblokkeja (```json ... ```). Jos suosituksia ei ole, palauta `[]`.
 """
 
@@ -205,21 +217,36 @@ def kysy_claudelta(client, system_prompt, viesti):
     """
     for model_name in MALLIT:
         try:
-            response = client.messages.create(
+            # Sonnet 5 ajattelee oletuksena (adaptive thinking), ja ajattelu kuluttaa
+            # samaa max_tokens-kiintiötä: 8000 tokenilla koko kiintiö saattoi mennä
+            # ajatteluun eikä JSON-vastausta tullut lainkaan (todettu 27.9.2026).
+            # Suuri kiintiö vaatii suoratoiston, ettei HTTP-pyyntö aikakatkaistu.
+            with client.messages.stream(
                 model=model_name,
-                max_tokens=8000,
+                max_tokens=32000,
                 system=system_prompt,
                 messages=[
                     {"role": "user", "content": viesti}
                 ]
-            )
+            ) as stream:
+                response = stream.get_final_message()
+            if response.stop_reason == "max_tokens":
+                raise ValueError("Vastaus katkesi max_tokens-rajaan")
             # Uudemmat mallit voivat palauttaa thinking-lohkoja tekstin edellä
             tulos = "".join(b.text for b in response.content if b.type == "text").strip()
             if tulos.startswith("```json"):
                 tulos = tulos[7:]
             if tulos.endswith("```"):
                 tulos = tulos[:-3]
-            jasennetty = json.loads(tulos.strip())
+            try:
+                jasennetty = json.loads(tulos.strip())
+            except json.JSONDecodeError:
+                # Sonnet 4.6 kirjoittaa joskus päättelynsä JSONin eteen —
+                # poimitaan uloin [...]-lista tekstin seasta
+                alku, loppu = tulos.find("["), tulos.rfind("]")
+                if alku == -1 or loppu <= alku:
+                    raise
+                jasennetty = json.loads(tulos[alku:loppu + 1])
             if not isinstance(jasennetty, list):
                 raise ValueError(f"Odotettiin JSON-listaa, saatiin {type(jasennetty).__name__}")
             print(f"Käytettiin mallia: {model_name}")
@@ -233,9 +260,10 @@ def kysy_claudelta(client, system_prompt, viesti):
 def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
     """Poimii suositukset kaksivaiheisesti: pääpoiminta + täydennystarkistus.
 
-    Palauttaa parin (suositukset, varoitukset). Varoitukset ovat ihmiselle
-    tarkoitettuja huomioita (epävarmat teosnimet, tuntemattomiksi jääneet
-    suosittelijat), jotka päätyvät sähköposti-ilmoitukseen.
+    Palauttaa kolmikon (suositukset, varoitukset, tunnistukset). Varoitukset
+    ovat ihmiselle tarkoitettuja huomioita (epävarmat teosnimet, tuntemattomiksi
+    jääneet suosittelijat), tunnistukset suosituskohtaiset puhujatunnistuksen
+    perustelut — molemmat päätyvät sähköposti-ilmoitukseen.
     """
     print("Pyydetään Claude-mallia poimimaan suositukset JSON-muodossa...")
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
@@ -249,7 +277,7 @@ def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
     suositukset = kysy_claudelta(client, system_prompt, viesti)
     if suositukset is None:
         print("Virhe: Yksikään Anthropic-malli ei palauttanut kelvollista JSON-listaa.")
-        return [], ["Poiminta epäonnistui kokonaan — yksikään malli ei palauttanut kelvollista JSONia."]
+        return [], ["Poiminta epäonnistui kokonaan — yksikään malli ei palauttanut kelvollista JSONia."], []
 
     varoitukset = []
 
@@ -281,6 +309,10 @@ def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
 
     # Deterministinen jälkikäsittely: suosittelijan kirjoitusasu ei jää mallin
     # varaan, ja sisäiset laadunvarmistuskentät siivotaan pois ennen tallennusta.
+    # Puhujatunnistuksen perustelut kerätään talteen sähköposti-ilmoitusta varten,
+    # jotta kahden oikean nimen ristiin meneminen (validaattori ei huomaa sitä)
+    # näkyy ihmiselle heti.
+    tunnistukset = []
     for s in suositukset:
         alkuperainen = s.get("suosittelija", "")
         s["suosittelija"] = normalisoi_suosittelija(alkuperainen, osallistujat or [])
@@ -300,10 +332,19 @@ def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
             varoitukset.append(
                 f"Kuvauksessa viitataan \"puhujaan\" tai \"suosittelijaan\" nimen sijaan: \"{s.get('teos', '?')}\" ({s['suosittelija']}) — muotoile kuvaus uudelleen."
             )
+        if s.get("puhuja_ristiriita"):
+            varoitukset.append(
+                f"Ristiriitaisia vihjeitä puhujan tunnistuksessa: \"{s.get('teos', '?')}\" ({s['suosittelija']}) — {s['puhuja_ristiriita']}"
+            )
+        tunnistukset.append({
+            "teos": s.get("teos", "?"),
+            "suosittelija": s["suosittelija"],
+            "peruste": s.get("puhuja_peruste", ""),
+        })
         for kentta in SISAISET_KENTAT:
             s.pop(kentta, None)
 
-    return suositukset, varoitukset
+    return suositukset, varoitukset, tunnistukset
 
 def aja_prosessi():
     if not DEEPGRAM_API_KEY or not ANTHROPIC_API_KEY:
@@ -384,7 +425,7 @@ def aja_prosessi():
                     print(f"Osallistujat RSS-kuvauksesta: {', '.join(osallistujat)}")
                 else:
                     print("⚠️ Osallistujia ei löytynyt RSS-kuvauksesta — suosittelija päätellään pelkästä tekstistä.")
-                suositukset_json, varoitukset = analysoi_claudella(raakateksti, osallistujat, jakso_kuvaus)
+                suositukset_json, varoitukset, tunnistukset = analysoi_claudella(raakateksti, osallistujat, jakso_kuvaus)
 
                 # Yleensä jokainen studiossa olija suosittelee jotain suositusosiossa —
                 # osallistuja ilman yhtään suositusta on merkki poimimatta jääneestä.
@@ -424,7 +465,8 @@ def aja_prosessi():
                     "jakso_otsikko": otsikko,
                     "suosituksia_kpl": len(suositukset_json),
                     "jakson_id": jakson_tunniste,
-                    "varoitukset": varoitukset
+                    "varoitukset": varoitukset,
+                    "tunnistukset": tunnistukset
                 })
                 with open(AJON_TULOS_TIEDOSTO, "w", encoding="utf-8") as ft:
                     json.dump(ajon_tulokset, ft, ensure_ascii=False)
