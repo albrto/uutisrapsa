@@ -8600,11 +8600,12 @@
         "teos": "Ystäväkirja",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Ystäväkirja+podcast+Inkeri+Harju",
-        "lisatieto_linkki": "https://open.spotify.com/search/Ystäväkirja%20podcast",
-        "kuvaus": "Helsingin Sanomien toimittajan Inkeri Harjun tekemä uusi podcast. Suositellaan kuunneltavaksi.",
+        "lisatieto_linkki": "https://www.supla.fi/podcast/ystavakirja",
+        "kuvaus": "HS Nytin uusi podcast, jossa kaksi julkisuudesta tuttua kaverusta kertoo ystävyydestään ja yhteisistä muistoistaan. Tekijänä HS:n toimittaja Inkeri Harju, Uutisraportin entinen kesätiimiläinen.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "uusi podcast",
+          "ystävyys",
+          "haastattelu",
           "HS"
         ],
         "alkupera": "hs"
