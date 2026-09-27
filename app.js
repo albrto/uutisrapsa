@@ -300,20 +300,26 @@ const LINKKIEN_NIMET = [
 ];
 
 // Podcastien kuuntelulinkit alkuperän mukaan ("alkupera"-kenttä):
-// Ylen podcastit ovat vain Areenassa, kotimaiset myös Suplassa, kaikki muut
-// Spotifyssa ja Apple Podcastsissa. Lisätietolinkki korvaa saman palvelun
+// Ylen podcastit ovat vain Areenassa, HS:n podcastit vain HS:n sivuilla ja
+// Suplassa, muut kotimaiset Spotifyssa, Apple Podcastsissa ja Suplassa, Podmen
+// ja ulkomaiset Spotifyssa ja Apple Podcastsissa. Lisätietolinkki korvaa saman palvelun
 // haun, jos se osoittaa suoraan sarjan sivulle (ei hakusivulle).
 const PODCASTPALVELUT = {
   areena: ['Yle Areena', 'areena.yle.fi', q => `https://areena.yle.fi/hae?q=${q}&service=radio`],
   spotify: ['Spotify', 'spotify.com', q => `https://open.spotify.com/search/${q}`],
   apple: ['Apple Podcasts', 'apple.com', q => `https://podcasts.apple.com/fi/search?term=${q}`],
   supla: ['Supla', 'supla.fi', q => `https://www.supla.fi/haku?search_term=${q}`],
+  hs: ['HS', 'hs.fi', q => `https://www.hs.fi/haku/?query=${q}`],
+};
+
+const PODCASTIEN_PALVELUT = {
+  yle: ['areena'],
+  hs: ['hs', 'supla'],
+  kotimainen: ['spotify', 'apple', 'supla'],
 };
 
 function podcastLinkit(rec) {
-  const palvelut = rec.alkupera === 'yle' ? ['areena']
-    : rec.alkupera === 'kotimainen' ? ['spotify', 'apple', 'supla']
-    : ['spotify', 'apple'];
+  const palvelut = PODCASTIEN_PALVELUT[rec.alkupera] || ['spotify', 'apple'];
   const lisa = rec.lisatieto_linkki || '';
   let lisaHost = '', lisaOnHaku = true;
   try {
@@ -336,15 +342,17 @@ function podcastLinkit(rec) {
   return linkit;
 }
 
-// Hakusana: Spotify-haun sana on yleensä valmiiksi siisti, muuten teoksen
-// nimi ilman sulkeita, alaotsikkoa ja "-podcast"-päätettä.
+// Hakusana: lisätietolinkin (Spotify-, Areena- ym.) haun sana on yleensä
+// valmiiksi siisti, muuten teoksen nimi ilman sulkeita, alaotsikkoa ja
+// "-podcast"-päätettä.
 function podcastHakusana(rec) {
-  const m = (rec.lisatieto_linkki || '').match(/open\.spotify\.com\/search\/([^?#]+)/);
-  if (m) {
-    try {
-      return decodeURIComponent(m[1].replace(/\+/g, ' '));
-    } catch {}
-  }
+  try {
+    const u = new URL(rec.lisatieto_linkki);
+    const m = u.pathname.match(/\/search\/([^/]+)/);
+    const sana = m ? decodeURIComponent(m[1].replace(/\+/g, ' '))
+      : ['q', 'term', 'search_term', 'query'].map(k => u.searchParams.get(k)).find(Boolean);
+    if (sana) return sana;
+  } catch {}
   return rec.teos
     .replace(/\s*\([^)]*\)/g, '')
     .replace(/\s+[–—]\s.*$/, '')

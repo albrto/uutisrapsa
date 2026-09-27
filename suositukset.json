@@ -349,7 +349,7 @@
           "valta",
           "tutkiva journalismi"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
@@ -1131,7 +1131,7 @@
           "selittävä journalismi",
           "talous"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "Totuus palvelutalosta",
@@ -1567,7 +1567,7 @@
           "tutkiva journalismi",
           "Suomi"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       }
     ]
   },
@@ -2131,7 +2131,7 @@
           "Yhdysvallat",
           "ulkopolitiikka"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "Mississippi Blue 61",
@@ -2689,7 +2689,7 @@
         "teos": "Murenevan maa (Ida Tikka)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Murenevan+maa+Ida+Tikka+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Murenevan+maa",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Mureneva%20maa&service=radio",
         "kuvaus": "Ida Tikan podcast-sarja Yle Areenassa Yhdysvaltain poliittisesta tilanteesta ja sen taustalla vaikuttavista voimista. Nyt ilmestynyt toinen kausi käsittelee Trumpin paluuta valtaan.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
@@ -4423,7 +4423,7 @@
           "tietoviihde",
           "suomalainen"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       }
     ]
   },
@@ -8461,7 +8461,7 @@
         "teos": "Jälkiviisas historia – Ruben Stiller",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=J%C3%A4lkiviisas+historia+Ruben+Stiller+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/J%C3%A4lkiviisas%20historia%20Ruben%20Stiller",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=J%C3%A4lkiviisas%20historia&service=radio",
         "kuvaus": "Kesäkuussa julkaistu Ruben Stillerin podcast-jakso, jossa vieraina professori Antero Holmila ja eduskuntatutkimuksen keskuksen johtaja Markku Joki-Sipilä. Käsittelee matalamielisen jälkiviisastelun rajaa ja Suomen Nato-prosessia.",
         "suosittelija": "Paavo Teittinen",
         "kategoriat": [
@@ -8469,7 +8469,7 @@
           "politiikka",
           "Suomi"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "yle"
       },
       {
         "teos": "Traffic",
@@ -8607,7 +8607,7 @@
           "uusi podcast",
           "HS"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "Rocky (Virus-teatteri)",
@@ -8734,7 +8734,7 @@
         "teos": "Antin koulumatka",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Antin+koulumatka+podcast+Antti+Holma",
-        "lisatieto_linkki": "https://open.spotify.com/search/Antin%20koulumatka",
+        "lisatieto_linkki": "https://open.spotify.com/search/Antin%20matka",
         "kuvaus": "Antti Holman podcast, jossa hän puhuu vapaasti omasta elämästään ja tiivistää asioita yhteiskunnallisesti itseironisella otteella. Anni kuunteli sitä remontin aikana seinien maalaamisen yhteydessä.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
@@ -8742,7 +8742,7 @@
           "huumori",
           "yhteiskunta"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "podme"
       },
       {
         "teos": "Euroviisut 2023 – esityksiin perehtyminen etukäteen",
@@ -8967,7 +8967,7 @@
           "kulttuuri",
           "viihde"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "Benji Plants",
@@ -9033,7 +9033,7 @@
           "kulttuuri",
           "viihde"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "Succession (kausi 4)",
@@ -9906,7 +9906,7 @@
         "teos": "Antti Holman koulumatka",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Antti+Holman+koulumatka+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Antti%20Holman%20koulumatka",
+        "lisatieto_linkki": "https://open.spotify.com/search/Antin%20matka",
         "kuvaus": "Antti Holman rento ja käsikirjoittamaton podcast, jossa hän juttelee vapaasti arkipäiväisistä asioista automatkallaan. Kuuntelijoille tulee hyvä mieli.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -9914,7 +9914,7 @@
           "arkielämä",
           "rentoutuminen"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "podme"
       },
       {
         "teos": "Song of the Cell",
@@ -10161,7 +10161,7 @@
           "energia",
           "Fortum"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       }
     ]
   },
@@ -16079,7 +16079,7 @@
           "ajankohtainen",
           "koronavirus"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "The Syllabus",
@@ -16113,7 +16113,7 @@
           "analyysi",
           "journalismi"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "hs"
       },
       {
         "teos": "Dark Towers",
