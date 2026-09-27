@@ -5,43 +5,133 @@
   box-sizing: border-box;
 }
 
+/* v2-ilme (Figma: sivu "v2 · Uusi ilme", muuttujakokoelma "v2 · Uusi ilme").
+   Muuttujien nimet noudattavat Figman tokeneita; vanhat nimet (--bg-primary,
+   --accent-light …) säilyvät aliaksina, koska muutokset.html ja kiitos.html
+   käyttävät niitä. */
 :root {
-  --bg-primary: #0a0a0f;
-  --bg-secondary: #12121a;
-  --bg-card: #1a1a2e;
-  --bg-card-hover: #222240;
-  --surface: #16162a;
-  --border: rgba(255, 255, 255, 0.06);
-  --border-hover: rgba(255, 255, 255, 0.12);
-  
-  --text-primary: #e8e8f0;
-  --text-secondary: #9898b0;
-  --text-muted: #6868880;
-  
-  --accent: #6c63ff;
-  --accent-light: #8b83ff;
-  --accent-glow: rgba(108, 99, 255, 0.15);
-  
-  --tag-kirja: #4ade80;
-  --tag-elokuva: #f472b6;
-  --tag-tv-sarja: #fb923c;
-  --tag-podcast: #a78bfa;
-  --tag-musiikki: #38bdf8;
-  --tag-artikkeli: #fbbf24;
-  --tag-ruoka: #f87171;
-  --tag-kulttuuri: #2dd4bf;
-  --tag-urheilu: #34d399;
-  --tag-muu: #94a3b8;
-  
+  /* Taustat */
+  --bg-sivu: #09090f;
+  --bg-hero-yla: #1c1c28;
+  --bg-kortti: #171721;
+  --bg-kortti-hover: #1c1c28;
+  --bg-kentta: #12121a;
+  --bg-tagi: rgba(255, 255, 255, 0.04);
+  --reuna: rgba(255, 255, 255, 0.06);
+
+  /* Tekstit */
+  --teksti-ensisijainen: #e8e8f0;
+  --teksti-toissijainen: #aeaec9;
+  --teksti-himmea: #848499;
+  --teksti-vahva: #ffffff;
+  --teksti-aksentin-paalla: #0f0f14;
+
+  /* Aksentti */
+  --aksentti: #3bdaa5;
+  --aksentti-tausta: rgba(59, 218, 165, 0.05);
+  --aksentti-tausta-aktiivinen: rgba(59, 218, 165, 0.12);
+
+  /* Neutraali kategoriabadge */
+  --badge-teksti: #94a3b8;
+  --badge-tausta: rgba(148, 163, 184, 0.12);
+
+  /* Pienennetty suodatinpalkki, modaalin taustaverho, valikon nuoli */
+  --bg-palkki: rgba(9, 9, 15, 0.95);
+  --verho: rgba(0, 0, 0, 0.8);
+  --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23aeaec9' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+
+  color-scheme: dark;
+
+  /* Fontit */
+  --fontti: 'Google Sans Flex', -apple-system, BlinkMacSystemFont, sans-serif;
+  --fontti-koodi: 'Google Sans Code', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Säteet */
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
-  --radius-xl: 24px;
-  
-  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.3);
-  --shadow-glow: 0 0 40px rgba(108, 99, 255, 0.08);
-  
+  --radius-pill: 100px;
+
   --transition: 0.2s ease;
+
+  /* Vanhat nimet aliaksina */
+  --bg-primary: var(--bg-sivu);
+  --bg-secondary: var(--bg-kentta);
+  --bg-card: var(--bg-kortti);
+  --bg-card-hover: var(--bg-kortti-hover);
+  --border: var(--reuna);
+  --text-primary: var(--teksti-ensisijainen);
+  --text-secondary: var(--teksti-toissijainen);
+  --text-muted: var(--teksti-himmea);
+  --accent: var(--aksentti);
+  --accent-light: var(--aksentti);
+  --accent-glow: var(--aksentti-tausta-aktiivinen);
+  --tag-ruoka: #f87171; /* palautelomakkeen virheväri (app.js) */
+}
+
+/* Vaalea teema (Figma: v2-kokoelman moodi "Vaalea"). Oletuksena seurataan laitteen
+   asetusta; teemakytkin asettaa <html data-theme="light|dark"> ja ohittaa sen.
+   Arvot ovat kahdesti, koska media query ja attribuuttivalitsin eivät yhdisty. */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg-sivu: #f4f4f8;
+    --bg-hero-yla: #e4e4ee;
+    --bg-kortti: #ffffff;
+    --bg-kortti-hover: #f9f9fc;
+    --bg-kentta: #ffffff;
+    --bg-tagi: rgba(28, 28, 40, 0.04);
+    --reuna: rgba(28, 28, 40, 0.10);
+
+    --teksti-ensisijainen: #1c1c28;
+    --teksti-toissijainen: #5c5c72;
+    --teksti-himmea: #6a6a82;
+    --teksti-vahva: #0f0f14;
+    --teksti-aksentin-paalla: #ffffff;
+
+    /* Tummempi vihreä: kontrasti valkoisella ≥ 4,5:1 */
+    --aksentti: #0a7d58;
+    --aksentti-tausta: rgba(10, 125, 88, 0.06);
+    --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+
+    --badge-teksti: #52606f;
+    --badge-tausta: rgba(82, 96, 111, 0.10);
+
+    --bg-palkki: rgba(244, 244, 248, 0.95);
+    --verho: rgba(28, 28, 40, 0.45);
+    --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235c5c72' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+
+    color-scheme: light;
+  }
+}
+
+:root[data-theme="light"] {
+  --bg-sivu: #f4f4f8;
+  --bg-hero-yla: #e4e4ee;
+  --bg-kortti: #ffffff;
+  --bg-kortti-hover: #f9f9fc;
+  --bg-kentta: #ffffff;
+  --bg-tagi: rgba(28, 28, 40, 0.04);
+  --reuna: rgba(28, 28, 40, 0.10);
+
+  --teksti-ensisijainen: #1c1c28;
+  --teksti-toissijainen: #5c5c72;
+  --teksti-himmea: #6a6a82;
+  --teksti-vahva: #0f0f14;
+  --teksti-aksentin-paalla: #ffffff;
+
+  /* Tummempi vihreä: kontrasti valkoisella ≥ 4,5:1 */
+  --aksentti: #0a7d58;
+  --aksentti-tausta: rgba(10, 125, 88, 0.06);
+  --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+
+  --badge-teksti: #52606f;
+  --badge-tausta: rgba(82, 96, 111, 0.10);
+
+  --bg-palkki: rgba(244, 244, 248, 0.95);
+  --verho: rgba(28, 28, 40, 0.45);
+  --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235c5c72' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+
+  color-scheme: light;
 }
 
 html {
@@ -49,21 +139,21 @@ html {
 }
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  background: var(--bg-primary);
-  color: var(--text-primary);
+  font-family: var(--fontti);
+  background: var(--bg-sivu);
+  color: var(--teksti-ensisijainen);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
 
 a {
-  color: var(--accent-light);
+  color: var(--aksentti);
   text-decoration: none;
   transition: color var(--transition);
 }
 
 a:hover {
-  color: #fff;
+  color: var(--teksti-vahva);
 }
 
 /* ===== HERO ===== */
@@ -71,20 +161,7 @@ a:hover {
   position: relative;
   padding: 80px 24px 48px;
   text-align: center;
-  background: linear-gradient(180deg, #12122a 0%, var(--bg-primary) 100%);
-  overflow: hidden;
-}
-
-.hero::before {
-  content: '';
-  position: absolute;
-  top: -200px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 800px;
-  height: 600px;
-  background: radial-gradient(ellipse, rgba(108, 99, 255, 0.12) 0%, transparent 70%);
-  pointer-events: none;
+  background: linear-gradient(180deg, var(--bg-hero-yla) 0%, var(--bg-sivu) 100%);
 }
 
 .hero-content {
@@ -93,28 +170,28 @@ a:hover {
   margin: 0 auto;
 }
 
+/* Otsikko skaalautuu kolmessa koossa: S (mobiili) 32, M (iPad) 40, L (desktop) 48 */
 .hero-title {
-  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-size: 40px;
   font-weight: 800;
   letter-spacing: -0.03em;
-  line-height: 1.1;
+  line-height: 1.05;
+  text-transform: uppercase;
   margin-bottom: 16px;
 }
 
 .hero-accent {
   display: block;
-  background: linear-gradient(135deg, var(--accent) 0%, #a78bfa 50%, #f472b6 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--aksentti);
 }
 
 .hero-subtitle {
-  font-size: 1.05rem;
-  color: var(--text-secondary);
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--teksti-toissijainen);
   max-width: 540px;
   margin: 0 auto 24px;
-  font-weight: 300;
 }
 
 .stats {
@@ -128,18 +205,103 @@ a:hover {
   text-align: center;
 }
 
+/* Tilastot skaalautuvat samoin S/M/L: numero 24/28/36, selite 10/11/12 */
 .stat-number {
-  font-size: 1.8rem;
-  font-weight: 700;
-  color: var(--accent-light);
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  color: var(--aksentti);
 }
 
 .stat-label {
-  font-size: 0.75rem;
-  color: var(--text-secondary);
+  font-size: 11px;
+  color: var(--teksti-toissijainen);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.2em;
+  line-height: 1.4;
   margin-top: 2px;
+}
+
+/* Huomaamaton tekstilinkki (Figma: v2/Tekstilinkki): heron "Anna palautetta"
+   ja alatunnisteen "Takaisin ylös" */
+.tekstilinkki {
+  display: inline-block;
+  padding: 4px 0;
+  font-family: var(--fontti-koodi);
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--teksti-himmea);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.tekstilinkki:hover,
+.tekstilinkki:focus-visible {
+  color: var(--aksentti);
+}
+
+.hero-palaute {
+  margin-top: 24px;
+}
+
+.ylos-linkki {
+  margin-bottom: 32px;
+}
+
+/* Teemakytkin heron oikeassa yläkulmassa (Figma: v2/Teemakytkin) */
+.teemakytkin {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 1;
+  width: 40px;
+  height: 22px;
+  padding: 2px;
+  border: 1px solid var(--reuna);
+  border-radius: var(--radius-pill);
+  background: var(--bg-kentta);
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity var(--transition), border-color var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.teemakytkin:hover,
+.teemakytkin:focus-visible {
+  opacity: 1;
+  border-color: var(--teksti-himmea);
+  outline: none;
+}
+
+.teemakytkin-nuppi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--teksti-himmea);
+  color: var(--bg-sivu);
+  transition: transform 200ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.teemakytkin-nuppi svg {
+  width: 10px;
+  height: 10px;
+}
+
+.teemakytkin .ikoni-aurinko { display: none; }
+
+.teemakytkin[aria-checked="true"] .teemakytkin-nuppi {
+  transform: translateX(18px);
+}
+
+.teemakytkin[aria-checked="true"] .ikoni-kuu { display: none; }
+.teemakytkin[aria-checked="true"] .ikoni-aurinko { display: block; }
+
+@media (prefers-reduced-motion: reduce) {
+  .teemakytkin-nuppi { transition: none; }
 }
 
 /* ===== CONTROLS ===== */
@@ -150,16 +312,16 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: var(--bg-primary);
+  background: var(--bg-sivu);
   padding-top: 16px;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--reuna);
 }
 
 /* Vieritettäessä palkki "nestaantuu" ohueksi kahvaksi, joka avaa sen napautuksella */
 .controls.minified {
   padding-top: 0;
   padding-bottom: 0;
-  background: rgba(10, 10, 15, 0.95);
+  background: var(--bg-palkki);
   backdrop-filter: blur(12px);
 }
 
@@ -236,7 +398,7 @@ a:hover {
   gap: 5px;
   background: transparent;
   border: none;
-  color: var(--text-secondary);
+  color: var(--teksti-toissijainen);
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
 }
@@ -252,7 +414,7 @@ a:hover {
 
 .filter-handle:hover,
 .filter-handle:focus-visible {
-  color: var(--accent-light);
+  color: var(--aksentti);
   outline: none;
 }
 
@@ -261,10 +423,11 @@ a:hover {
   height: 15px;
   padding: 0 4px;
   border-radius: 8px;
-  background: var(--accent);
-  color: #fff;
-  font-size: 0.62rem;
-  font-weight: 700;
+  background: var(--aksentti);
+  color: var(--teksti-aksentin-paalla);
+  font-family: var(--fontti-koodi);
+  font-size: 10px;
+  font-weight: 500;
   line-height: 15px;
   text-align: center;
 }
@@ -285,29 +448,29 @@ a:hover {
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
-  color: var(--text-secondary);
+  color: var(--teksti-toissijainen);
 }
 
 #searchInput {
   width: 100%;
   padding: 14px 16px 14px 48px;
-  font-size: 1rem;
-  font-family: inherit;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border);
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  line-height: 1.5;
+  background: var(--bg-kentta);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-lg);
-  color: var(--text-primary);
+  color: var(--teksti-ensisijainen);
   outline: none;
-  transition: all var(--transition);
+  transition: border-color var(--transition);
 }
 
 #searchInput:focus {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-glow);
+  border-color: var(--aksentti);
 }
 
 #searchInput::placeholder {
-  color: var(--text-secondary);
+  color: var(--teksti-toissijainen);
 }
 
 .filter-row {
@@ -324,57 +487,59 @@ a:hover {
 
 .filter-group label {
   display: block;
-  font-size: 0.7rem;
-  font-weight: 600;
-  color: var(--text-secondary);
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--teksti-toissijainen);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-bottom: 4px;
+  letter-spacing: 0.2em;
+  line-height: 1.4;
+  margin-bottom: 6px;
 }
 
 .filter-group select {
   width: 100%;
   padding: 10px 12px;
-  font-size: 0.9rem;
-  font-family: inherit;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border);
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  line-height: 1.5;
+  background: var(--bg-kentta);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-sm);
-  color: var(--text-primary);
+  color: var(--teksti-ensisijainen);
   outline: none;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: border-color var(--transition);
   appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%239898b0' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-image: var(--nuoli-kuva);
   background-repeat: no-repeat;
   background-position: right 12px center;
   padding-right: 32px;
 }
 
 .filter-group select:focus {
-  border-color: var(--accent);
+  border-color: var(--aksentti);
 }
 
 .reset-btn {
   display: flex;
   align-items: center;
   gap: 6px;
-  padding: 10px 16px;
-  font-size: 0.85rem;
-  font-family: inherit;
-  font-weight: 500;
+  padding: 10px 14px;
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  line-height: 1.5;
   background: transparent;
-  border: 1px solid var(--border);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-sm);
-  color: var(--text-secondary);
+  color: var(--teksti-toissijainen);
   cursor: pointer;
-  transition: all var(--transition);
+  transition: color var(--transition), border-color var(--transition);
   white-space: nowrap;
 }
 
 .reset-btn:hover {
-  border-color: var(--accent);
-  color: var(--text-primary);
+  border-color: var(--aksentti);
+  color: var(--teksti-ensisijainen);
 }
 
 .reset-btn svg {
@@ -390,30 +555,34 @@ a:hover {
   gap: 8px;
   padding: 12px;
   margin-bottom: 12px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border);
+  background: var(--bg-kentta);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-md);
-  color: var(--text-primary);
-  font-family: inherit;
-  font-weight: 600;
+  color: var(--teksti-ensisijainen);
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.5;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: background var(--transition), color var(--transition);
 }
 
-.filter-toggle-btn:hover {
-  border-color: var(--accent);
+.filter-toggle-btn svg {
+  width: 16px;
+  height: 16px;
 }
 
 .filter-toggle-btn.active {
-  background: var(--accent-glow);
-  border-color: var(--accent);
-  color: var(--accent-light);
+  background: var(--aksentti-tausta-aktiivinen);
+  color: var(--aksentti);
 }
 
 .results-count {
   padding: 12px 0 4px;
-  font-size: 0.85rem;
-  color: var(--text-secondary);
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--teksti-toissijainen);
 }
 
 /* ===== RESULTS ===== */
@@ -434,39 +603,37 @@ a:hover {
   gap: 12px;
   margin-bottom: 12px;
   padding-bottom: 8px;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--reuna);
 }
 
 .episode-title {
-  font-size: 1rem;
+  font-size: 16px;
   font-weight: 600;
-  color: var(--text-primary);
+  line-height: 1.5;
+  color: var(--teksti-toissijainen);
   flex: 1;
 }
 
 .episode-date {
-  font-size: 0.8rem;
-  color: var(--text-secondary);
+  font-family: var(--fontti-koodi);
+  font-size: 12px;
+  color: var(--teksti-toissijainen);
   white-space: nowrap;
-  font-weight: 500;
 }
 
 /* Recommendation card */
 .rec-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
+  background: var(--bg-kortti);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-md);
   padding: 20px;
   margin-bottom: 10px;
-  transition: all var(--transition);
+  transition: background var(--transition);
   animation: fadeIn 0.3s ease;
 }
 
 .rec-card:hover {
-  background: var(--bg-card-hover);
-  border-color: var(--border-hover);
-  box-shadow: var(--shadow-card);
-  transform: translateY(-1px);
+  background: var(--bg-kortti-hover);
 }
 
 @keyframes fadeIn {
@@ -483,52 +650,47 @@ a:hover {
 }
 
 .rec-title {
-  font-size: 1.05rem;
+  font-size: 17px;
   font-weight: 600;
-  color: #fff;
+  line-height: 1.4;
+  color: var(--teksti-vahva);
 }
 
 .rec-title a {
-  color: #fff;
+  color: var(--teksti-vahva);
   transition: color var(--transition);
 }
 
 .rec-title a:hover {
-  color: var(--accent-light);
+  color: var(--aksentti);
 }
 
+/* v2: kaikki kategoriat samalla neutraalilla badgella */
 .rec-badge {
   display: inline-flex;
   align-items: center;
   padding: 3px 10px;
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-family: var(--fontti-koodi);
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.4;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  border-radius: 100px;
+  border-radius: var(--radius-pill);
   white-space: nowrap;
   flex-shrink: 0;
+  background: var(--badge-tausta);
+  color: var(--badge-teksti);
 }
 
-.rec-badge.kirja { background: rgba(74, 222, 128, 0.12); color: var(--tag-kirja); }
-.rec-badge.elokuva { background: rgba(244, 114, 182, 0.12); color: var(--tag-elokuva); }
-.rec-badge.tv-sarja { background: rgba(251, 146, 60, 0.12); color: var(--tag-tv-sarja); }
-.rec-badge.podcast { background: rgba(167, 139, 250, 0.12); color: var(--tag-podcast); }
-.rec-badge.musiikki { background: rgba(56, 189, 248, 0.12); color: var(--tag-musiikki); }
-.rec-badge.artikkeli { background: rgba(251, 191, 36, 0.12); color: var(--tag-artikkeli); }
-.rec-badge.ruoka { background: rgba(248, 113, 113, 0.12); color: var(--tag-ruoka); }
-.rec-badge.kulttuuri { background: rgba(45, 212, 191, 0.12); color: var(--tag-kulttuuri); }
-.rec-badge.urheilu { background: rgba(52, 211, 153, 0.12); color: var(--tag-urheilu); }
-.rec-badge.muu { background: rgba(148, 163, 184, 0.12); color: var(--tag-muu); }
-.rec-badge.listener { 
-  background: rgba(108, 99, 255, 0.1); 
-  color: var(--accent-light);
-  border: 1px solid rgba(108, 99, 255, 0.2);
+.rec-badge.listener {
+  background: var(--aksentti-tausta-aktiivinen);
+  color: var(--aksentti);
 }
 
 .rec-desc {
-  font-size: 0.9rem;
-  color: var(--text-secondary);
+  font-size: 14px;
+  color: var(--teksti-toissijainen);
   line-height: 1.6;
   margin-bottom: 12px;
 }
@@ -542,9 +704,11 @@ a:hover {
 }
 
 .rec-recommender {
-  font-size: 0.8rem;
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
   font-weight: 500;
-  color: var(--accent-light);
+  line-height: 1.5;
+  color: var(--aksentti);
 }
 
 .rec-tags {
@@ -554,12 +718,14 @@ a:hover {
 }
 
 .rec-tag {
-  font-size: 0.7rem;
+  font-family: var(--fontti-koodi);
+  font-size: 11px;
+  line-height: 1.5;
   padding: 2px 8px;
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid var(--border);
-  border-radius: 100px;
-  color: var(--text-secondary);
+  background: var(--bg-tagi);
+  border: 1px solid var(--reuna);
+  border-radius: var(--radius-pill);
+  color: var(--teksti-toissijainen);
 }
 
 .rec-footer {
@@ -577,25 +743,27 @@ a:hover {
 }
 
 .rec-link {
-  font-size: 0.78rem;
+  font-family: var(--fontti-koodi);
+  font-size: 12px;
+  line-height: 1.6;
   padding: 4px 10px;
-  background: rgba(108, 99, 255, 0.08);
-  border: 1px solid rgba(108, 99, 255, 0.2);
+  background: var(--aksentti-tausta);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-sm);
-  color: var(--accent-light);
-  transition: all var(--transition);
+  color: var(--aksentti);
+  transition: background var(--transition);
 }
 
 .rec-link:hover {
-  background: rgba(108, 99, 255, 0.15);
-  color: #fff;
+  background: var(--aksentti-tausta-aktiivinen);
+  color: var(--aksentti);
 }
 
 /* Empty state */
 .empty-state {
   text-align: center;
   padding: 80px 24px;
-  color: var(--text-secondary);
+  color: var(--teksti-toissijainen);
 }
 
 .empty-state svg {
@@ -606,30 +774,33 @@ a:hover {
 }
 
 .empty-state h3 {
-  font-size: 1.2rem;
+  font-size: 19px;
   margin-bottom: 8px;
-  color: var(--text-primary);
+  color: var(--teksti-ensisijainen);
 }
 
 /* ===== FOOTER ===== */
 .footer {
   text-align: center;
   padding: 64px 24px;
-  background: rgba(255, 255, 255, 0.02);
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--reuna);
 }
 
 .feedback-container {
   max-width: 500px;
   margin: 0 auto 40px;
   text-align: left;
+  /* Hero-linkistä vieritettäessä lomake ei jää sticky-palkin alle */
+  scroll-margin-top: 48px;
 }
 
 .feedback-container h3 {
-  font-size: 1.2rem;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.4;
   margin-bottom: 20px;
   text-align: center;
-  color: var(--text-primary);
+  color: var(--teksti-ensisijainen);
 }
 
 .form-group {
@@ -640,14 +811,20 @@ a:hover {
 .form-group textarea {
   width: 100%;
   padding: 12px 16px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border);
+  background: var(--bg-kentta);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-sm);
-  color: var(--text-primary);
-  font-family: inherit;
-  font-size: 0.9rem;
+  color: var(--teksti-ensisijainen);
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  line-height: 1.5;
   outline: none;
   transition: border-color var(--transition);
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: var(--teksti-toissijainen);
 }
 
 .form-group textarea {
@@ -657,25 +834,44 @@ a:hover {
 
 .form-group input:focus,
 .form-group textarea:focus {
-  border-color: var(--accent);
+  border-color: var(--aksentti);
 }
 
 .submit-btn {
   width: 100%;
   padding: 12px;
-  background: var(--accent);
-  color: #fff;
+  background: var(--aksentti);
+  color: var(--teksti-aksentin-paalla);
   border: none;
   border-radius: var(--radius-sm);
-  font-size: 0.95rem;
+  font-family: var(--fontti);
+  font-size: 15px;
   font-weight: 600;
+  line-height: 1.4;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: filter var(--transition);
 }
 
 .submit-btn:hover {
   filter: brightness(1.1);
-  transform: translateY(-1px);
+}
+
+.footer-info {
+  font-family: var(--fontti-koodi);
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--teksti-ensisijainen);
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-info + .footer-info {
+  margin-top: 8px;
+}
+
+.footer-info.himmea {
+  color: var(--teksti-himmea);
 }
 
 .footer-info a:hover {
@@ -691,103 +887,161 @@ a:hover {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: var(--verho);
   backdrop-filter: blur(8px);
   animation: fadeIn 0.3s ease;
 }
 
 .modal-content {
-  background-color: var(--bg-card);
+  background-color: var(--bg-kortti);
   margin: 10% auto;
   padding: 40px;
-  border: 1px solid var(--border);
+  border: 1px solid var(--reuna);
   border-radius: var(--radius-lg);
   max-width: 600px;
   position: relative;
-  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
 }
 
 .modal-content h2 {
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  text-transform: uppercase;
   margin-bottom: 20px;
 }
 
 .modal-content p {
   margin-bottom: 16px;
-  color: var(--text-secondary);
+  color: var(--teksti-toissijainen);
 }
 
 .close-modal {
   position: absolute;
   right: 20px;
   top: 15px;
-  color: var(--text-secondary);
+  color: var(--teksti-toissijainen);
   font-size: 28px;
   font-weight: bold;
   cursor: pointer;
 }
 
 .close-modal:hover {
-  color: #fff;
+  color: var(--teksti-vahva);
 }
 
 /* ===== RESPONSIVE ===== */
-@media (max-width: 640px) {
-  .hero {
-    padding: 48px 16px 32px;
+
+/* L: desktop */
+@media (min-width: 1024px) {
+  .hero-title {
+    font-size: 48px;
   }
-  
+
+  .stats {
+    gap: 40px;
+  }
+
+  .stat-number {
+    font-size: 36px;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    margin-top: 4px;
+  }
+}
+
+/* Kosketusnäytöillä kenttien teksti vähintään 16 px, jottei iOS zoomaa kenttään */
+@media (pointer: coarse) {
+  #searchInput,
+  .filter-group select,
+  .form-group input,
+  .form-group textarea {
+    font-size: 16px;
+  }
+}
+
+/* S: mobiili */
+@media (max-width: 640px) {
+  /* Reilusti tilaa yläreunaan (Dynamic Island, selaimen palkit) */
+  .hero {
+    padding: 112px 16px 32px;
+  }
+
+  .hero-title {
+    font-size: 32px;
+  }
+
+  .stats {
+    gap: 20px;
+  }
+
+  .stat-number {
+    font-size: 24px;
+  }
+
+  .stat-label {
+    font-size: 10px;
+  }
+
+  .hero-palaute {
+    margin-top: 20px;
+  }
+
   .controls {
     padding-left: 16px;
     padding-right: 16px;
   }
-  
+
   .filter-row {
     flex-direction: column;
     gap: 8px;
   }
-  
+
   .filter-group {
     min-width: 100%;
   }
-  
+
   .filter-toggle-btn {
     display: flex;
   }
-  
+
   .filter-row {
     display: none; /* Hidden by default on mobile */
     margin-top: 8px;
   }
-  
+
   .filter-row.show {
     display: flex;
   }
-  
+
   .results {
     padding: 16px 16px 60px;
   }
-  
+
   .episode-header {
     flex-direction: column;
     gap: 4px;
   }
-  
+
   .rec-top {
     flex-direction: column;
     gap: 6px;
   }
-  
+
   .rec-meta {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .rec-footer {
     flex-direction: column-reverse;
     align-items: flex-start;
   }
-  
-  .stats {
-    gap: 20px;
+
+  .modal-content {
+    margin: 15% 16px;
+    padding: 32px 24px;
   }
 }

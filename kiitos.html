@@ -6,10 +6,18 @@
   <title>Kiitos palautteesta! – Uutisraportti</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400..800&family=Google+Sans+Code:wght@400..500&display=swap" rel="stylesheet">
+  <!-- Teema: oletuksena laitteen asetus; käyttäjän valinta (teemakytkin) talletetaan.
+       Ajetaan ennen tyylejä, jottei sivu välähdä väärässä teemassa. -->
+  <script>
+    try {
+      var t = localStorage.getItem('teema');
+      if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
   <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color: #0a0a1a; color: #f8f8f8; margin: 0; min-height: 100vh;">
+<body style="margin: 0; min-height: 100vh;">
   <div class="app">
     <header class="hero" style="min-height: 100vh; display: flex; flex-direction: column; justify-content: center;">
       <div class="hero-content">
