@@ -201,16 +201,16 @@ function renderCard(rec) {
   // Build links
   let links = '';
   if (rec.google_linkki) {
-    links += `<a href="${escapeHtml(rec.google_linkki)}" target="_blank" class="rec-link">🔍 Google</a>`;
+    links += `<a href="${escapeHtml(rec.google_linkki)}" target="_blank" class="rec-link">Google</a>`;
   }
   if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki) {
     let linkLabel = 'Lisätietoa';
     const url = rec.lisatieto_linkki.toLowerCase();
-    if (url.includes('goodreads')) linkLabel = '📚 Goodreads';
-    else if (url.includes('imdb')) linkLabel = '🎬 IMDb';
-    else if (url.includes('spotify')) linkLabel = '🎵 Spotify';
-    else if (url.includes('apple')) linkLabel = '🍎 Apple';
-    else if (url.includes('tidal')) linkLabel = '🎧 Tidal';
+    if (url.includes('goodreads')) linkLabel = 'Goodreads';
+    else if (url.includes('imdb')) linkLabel = 'IMDb';
+    else if (url.includes('spotify')) linkLabel = 'Spotify';
+    else if (url.includes('apple')) linkLabel = 'Apple';
+    else if (url.includes('tidal')) linkLabel = 'Tidal';
     links += `<a href="${escapeHtml(rec.lisatieto_linkki)}" target="_blank" class="rec-link">${linkLabel}</a>`;
   }
   

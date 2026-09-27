@@ -11,7 +11,7 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400..800&family=Google+Sans+Code:wght@400..500&display=swap"
     rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 
@@ -44,6 +44,7 @@
           tekemissuositukset –
           haettavana ja selattavana.</p>
         <div class="stats" id="stats"></div>
+        <a href="#palaute" class="hero-palaute">Anna palautetta</a>
       </div>
     </header>
 
@@ -66,7 +67,7 @@
       </div>
       
       <button id="mobileFilterToggle" class="filter-toggle-btn">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
           <path d="M22 3H2l8 9v7l4 3v-10L22 3z"/>
         </svg>
         <span>Näytä suodattimet</span>
@@ -106,7 +107,7 @@
 
     <!-- Footer -->
     <footer class="footer">
-      <div class="feedback-container">
+      <div class="feedback-container" id="palaute">
         <h3>Anna palautetta tai ehdota korjausta</h3>
         <form id="feedbackForm" name="palaute" data-netlify="true">
           <input type="hidden" name="form-name" value="palaute" />
@@ -124,10 +125,10 @@
         <a href="muutokset.html">Muutosloki</a> • 
         Versio v1.16.0
       </p>
-      <p class="footer-info" style="margin-top: 8px;">Data poimittu automaattisesti <a href="https://www.hs.fi/uutisraportti"
+      <p class="footer-info">Data poimittu automaattisesti <a href="https://www.hs.fi/uutisraportti"
           target="_blank">Uutisraportti-podcastista</a> tekoälyn avulla. Tekoälyn kanssa vibe-koodaili <a
           href="https://www.linkedin.com/in/anteropaarni/" target="_blank">Antero</a>.</p>
-      <p class="footer-info" style="margin-top: 8px;">Uutisrapsa.fi on epävirallinen fanisivusto. Se ei ole Helsingin
+      <p class="footer-info himmea">Uutisrapsa.fi on epävirallinen fanisivusto. Se ei ole Helsingin
         Sanomien tai Sanoma Oyj:n virallinen sivusto eikä liity niihin.</p>
     </footer>
 
