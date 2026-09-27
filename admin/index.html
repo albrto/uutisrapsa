@@ -3,54 +3,151 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Uutisraportti – Suosittelijavalidointi</title>
+  <title>Ylläpito · Uutisraportti suosittelee</title>
+  <meta name="robots" content="noindex" />
+  <link rel="icon" href="/favicon.ico" sizes="48x48" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400..800&family=Google+Sans+Code:wght@400..500&display=swap" rel="stylesheet" />
+  <!-- Teema: sama tallennettu valinta kuin julkisella sivulla; ennen tyylejä, ettei välähdä -->
+  <script>
+    try {
+      var t = localStorage.getItem('teema');
+      if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
   <style>
+    /* v2-ilme, sama kuin julkisella sivulla (style.css, Figma "v2 · Uusi ilme").
+       Tumma oletuksena, vaalea laitteen asetuksesta tai teemakytkimestä
+       (<html data-theme>, localStorage "teema" – yhteinen julkisen sivun kanssa). */
     :root {
-      --bg: #0f1117;
-      --bg-card: #191d28;
-      --bg-card-hover: #1e2333;
-      --bg-elevated: #242838;
-      --accent: #4f8ef7;
-      --accent-dim: #2d5cb8;
-      --warn: #f59e0b;
-      --warn-bg: #2a1f06;
-      --success: #34d399;
-      --success-bg: #052918;
-      --danger: #f87171;
-      --danger-bg: #2a0a0a;
-      --text: #e2e8f0;
-      --text-muted: #8892a4;
-      --text-dim: #5b6478;
-      --border: #2a2f3d;
-      --border-accent: #364060;
-      --radius: 12px;
+      --bg-sivu: #09090f;
+      --bg-kortti: #171721;
+      --bg-kortti-hover: #1c1c28;
+      --bg-upotus: #12121a;
+      --bg-kentta: #0f0f16;
+      --bg-palkki: #09090f;
+      --reuna: rgba(255, 255, 255, 0.07);
+      --reuna-vahva: rgba(255, 255, 255, 0.14);
+
+      --teksti-ensisijainen: #e8e8f0;
+      --teksti-toissijainen: #aeaec9;
+      --teksti-himmea: #848499;
+      --teksti-vahva: #ffffff;
+      --teksti-aksentin-paalla: #0f0f14;
+
+      --aksentti: #3bdaa5;
+      --aksentti-hover: #62e4b8;
+      --aksentti-tausta: rgba(59, 218, 165, 0.06);
+      --aksentti-tausta-aktiivinen: rgba(59, 218, 165, 0.12);
+      --aksentti-reuna: rgba(59, 218, 165, 0.35);
+
+      --varoitus: #f5b544;
+      --varoitus-tausta: rgba(245, 181, 68, 0.08);
+      --varoitus-reuna: rgba(245, 181, 68, 0.35);
+      --virhe: #f87171;
+
+      --verho: rgba(0, 0, 0, 0.8);
+      --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23aeaec9' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      color-scheme: dark;
+
+      --fontti: 'Google Sans Flex', -apple-system, BlinkMacSystemFont, sans-serif;
+      --fontti-koodi: 'Google Sans Code', ui-monospace, SFMono-Regular, Menlo, monospace;
       --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --radius-pill: 100px;
+      --siirtyma: 0.18s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    @media (prefers-color-scheme: light) {
+      :root:not([data-theme="dark"]) {
+        --bg-sivu: #f4f4f8;
+        --bg-kortti: #ffffff;
+        --bg-kortti-hover: #fafafd;
+        --bg-upotus: #f7f7fa;
+        --bg-kentta: #ffffff;
+        --bg-palkki: #f4f4f8;
+        --reuna: rgba(28, 28, 40, 0.10);
+        --reuna-vahva: rgba(28, 28, 40, 0.20);
+        --teksti-ensisijainen: #1c1c28;
+        --teksti-toissijainen: #5c5c72;
+        --teksti-himmea: #6a6a82;
+        --teksti-vahva: #0f0f14;
+        --teksti-aksentin-paalla: #ffffff;
+        --aksentti: #0a7d58;
+        --aksentti-hover: #086548;
+        --aksentti-tausta: rgba(10, 125, 88, 0.06);
+        --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+        --aksentti-reuna: rgba(10, 125, 88, 0.35);
+        --varoitus: #955800;
+        --varoitus-tausta: rgba(149, 88, 0, 0.07);
+        --varoitus-reuna: rgba(149, 88, 0, 0.35);
+        --virhe: #b42318;
+        --verho: rgba(28, 28, 40, 0.45);
+        --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235c5c72' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+        color-scheme: light;
+      }
+    }
+
+    :root[data-theme="light"] {
+      --bg-sivu: #f4f4f8;
+      --bg-kortti: #ffffff;
+      --bg-kortti-hover: #fafafd;
+      --bg-upotus: #f7f7fa;
+      --bg-kentta: #ffffff;
+      --bg-palkki: #f4f4f8;
+      --reuna: rgba(28, 28, 40, 0.10);
+      --reuna-vahva: rgba(28, 28, 40, 0.20);
+      --teksti-ensisijainen: #1c1c28;
+      --teksti-toissijainen: #5c5c72;
+      --teksti-himmea: #6a6a82;
+      --teksti-vahva: #0f0f14;
+      --teksti-aksentin-paalla: #ffffff;
+      --aksentti: #0a7d58;
+      --aksentti-hover: #086548;
+      --aksentti-tausta: rgba(10, 125, 88, 0.06);
+      --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+      --aksentti-reuna: rgba(10, 125, 88, 0.35);
+      --varoitus: #955800;
+      --varoitus-tausta: rgba(149, 88, 0, 0.07);
+      --varoitus-reuna: rgba(149, 88, 0, 0.35);
+      --virhe: #b42318;
+      --verho: rgba(28, 28, 40, 0.45);
+      --nuoli-kuva: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235c5c72' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      color-scheme: light;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      font-family: 'Inter', sans-serif;
-      background: var(--bg);
-      color: var(--text);
+      font-family: var(--fontti);
+      background: var(--bg-sivu);
+      color: var(--teksti-ensisijainen);
       min-height: 100vh;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
     }
+
+    ::selection { background: var(--aksentti); color: var(--teksti-aksentin-paalla); }
+    html { scrollbar-color: var(--reuna-vahva) transparent; }
+    :focus-visible { outline: 2px solid var(--aksentti); outline-offset: 2px; }
+
+    .ikoni { width: 16px; height: 16px; flex-shrink: 0; display: block; }
 
     /* === HEADER === */
     header {
-      background: linear-gradient(135deg, #111827 0%, #1a2035 100%);
-      border-bottom: 1px solid var(--border);
-      padding: 20px 32px;
+      background: var(--bg-palkki);
+      border-bottom: 1px solid var(--reuna);
+      padding: 16px 32px 14px;
       position: sticky;
       top: 0;
       z-index: 100;
-      backdrop-filter: blur(8px);
     }
 
     .header-inner {
-      max-width: 1200px;
+      max-width: 1100px;
       margin: 0 auto;
       display: flex;
       align-items: center;
@@ -58,64 +155,76 @@
       flex-wrap: wrap;
     }
 
-    .logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .logo-icon {
-      width: 36px; height: 36px;
-      background: linear-gradient(135deg, var(--accent), #7c3aed);
-      border-radius: 10px;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 18px;
-    }
+    .logo { min-width: 0; }
 
     h1 {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: var(--text);
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+      text-transform: uppercase;
+      color: var(--teksti-ensisijainen);
     }
 
-    h1 span {
-      display: block;
-      font-size: 0.75rem;
-      font-weight: 400;
-      color: var(--text-muted);
-      margin-top: 1px;
+    h1 .h1-aksentti { color: var(--aksentti); }
+
+    .alaotsikko {
+      font-family: var(--fontti-koodi);
+      font-size: 12px;
+      color: var(--teksti-toissijainen);
+      margin-top: 4px;
     }
 
     .stats {
       margin-left: auto;
       display: flex;
-      gap: 16px;
+      align-items: center;
+      gap: 8px;
     }
 
     .stat-chip {
-      background: var(--bg-elevated);
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      padding: 5px 14px;
-      font-size: 0.78rem;
-      color: var(--text-muted);
+      font-family: var(--fontti-koodi);
+      font-size: 12px;
+      color: var(--teksti-toissijainen);
+      padding: 5px 0;
+      font-variant-numeric: tabular-nums;
     }
 
-    .stat-chip strong {
-      color: var(--text);
-      font-weight: 600;
+    .stat-chip + .stat-chip::before {
+      content: "·";
+      margin-right: 8px;
+      color: var(--teksti-himmea);
     }
 
-    /* Filter bar */
+    .stat-chip strong { color: var(--teksti-ensisijainen); font-weight: 500; }
+
+    .teemakytkin {
+      width: 34px; height: 34px;
+      display: inline-flex; align-items: center; justify-content: center;
+      background: transparent;
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-sm);
+      color: var(--teksti-toissijainen);
+      cursor: pointer;
+      transition: color var(--siirtyma), border-color var(--siirtyma);
+    }
+    .teemakytkin:hover { color: var(--teksti-vahva); border-color: var(--reuna-vahva); }
+    .teemakytkin .ikoni-aurinko { display: none; }
+    :root[data-theme="light"] .teemakytkin .ikoni-kuu { display: none; }
+    :root[data-theme="light"] .teemakytkin .ikoni-aurinko { display: block; }
+    @media (prefers-color-scheme: light) {
+      :root:not([data-theme="dark"]) .teemakytkin .ikoni-kuu { display: none; }
+      :root:not([data-theme="dark"]) .teemakytkin .ikoni-aurinko { display: block; }
+    }
+
+    /* Suodatinpalkki */
     .filterbar {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 14px 0 0;
+      max-width: 1100px;
+      margin: 14px auto 0;
       display: flex;
-      gap: 12px;
+      gap: 8px;
       align-items: center;
       flex-wrap: wrap;
-      border-top: 1px solid var(--border);
     }
 
     .search-wrap {
@@ -126,98 +235,99 @@
 
     .search-wrap input {
       width: 100%;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
+      background: var(--bg-kentta);
+      border: 1px solid var(--reuna);
       border-radius: var(--radius-sm);
       padding: 9px 14px 9px 38px;
-      color: var(--text);
-      font-size: 0.875rem;
-      font-family: inherit;
+      color: var(--teksti-ensisijainen);
+      font-size: 13px;
+      font-family: var(--fontti-koodi);
       outline: none;
-      transition: border-color 0.2s;
+      transition: border-color var(--siirtyma);
     }
 
-    .search-wrap input:focus {
-      border-color: var(--border-accent);
-    }
+    .search-wrap input::placeholder { color: var(--teksti-himmea); }
+    .search-wrap input:focus { border-color: var(--aksentti); }
+    .search-wrap input:focus-visible { outline: none; }
 
     .search-icon {
       position: absolute;
-      left: 12px; top: 50%;
+      left: 13px; top: 50%;
       transform: translateY(-50%);
-      color: var(--text-dim);
-      font-size: 14px;
+      color: var(--teksti-himmea);
     }
 
     .filter-btn {
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-sm);
-      padding: 8px 14px;
-      color: var(--text-muted);
-      font-size: 0.8rem;
-      font-family: inherit;
+      background: transparent;
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-pill);
+      padding: 7px 14px;
+      color: var(--teksti-toissijainen);
+      font-size: 12px;
+      font-family: var(--fontti-koodi);
       cursor: pointer;
-      transition: all 0.15s;
+      white-space: nowrap;
+      transition: color var(--siirtyma), border-color var(--siirtyma), background var(--siirtyma);
     }
 
-    .filter-btn:hover, .filter-btn.active {
-      border-color: var(--accent);
-      color: var(--accent);
-      background: rgba(79,142,247,0.06);
+    .filter-btn:hover { color: var(--teksti-vahva); border-color: var(--reuna-vahva); }
+
+    .filter-btn.active {
+      border-color: var(--aksentti);
+      color: var(--aksentti);
+      background: var(--aksentti-tausta-aktiivinen);
+    }
+
+    .edistyminen {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-left: auto;
     }
 
     .progress-info {
-      font-size: 0.78rem;
-      color: var(--text-dim);
-      margin-left: auto;
+      font-family: var(--fontti-koodi);
+      font-size: 12px;
+      color: var(--teksti-himmea);
+      font-variant-numeric: tabular-nums;
     }
 
     .progress-bar-wrap {
       width: 120px;
-      height: 4px;
-      background: var(--bg-elevated);
+      height: 3px;
+      background: var(--reuna);
       border-radius: 2px;
       overflow: hidden;
     }
 
     .progress-bar-fill {
+      width: 100%;
       height: 100%;
-      background: var(--success);
-      border-radius: 2px;
-      transition: width 0.3s;
+      background: var(--aksentti);
+      transform-origin: left;
+      transition: transform 0.3s ease-out;
     }
 
-    /* === MAIN LAYOUT === */
+    /* === MAIN === */
     main {
-      max-width: 1200px;
+      max-width: 1100px;
       margin: 24px auto;
-      padding: 0 32px 60px;
+      padding: 0 32px 110px;
     }
 
-    /* === EPISODE CARD === */
+    /* === JAKSOKORTTI === */
     .episode-card {
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      margin-bottom: 16px;
+      background: var(--bg-kortti);
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-lg);
+      margin-bottom: 12px;
       overflow: hidden;
-      transition: border-color 0.2s, box-shadow 0.2s;
+      transition: border-color var(--siirtyma);
     }
 
-    .episode-card:hover {
-      border-color: var(--border-accent);
-      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-    }
-
-    .episode-card.resolved {
-      opacity: 0.5;
-      border-color: var(--border);
-    }
-
-    .episode-card.resolved .card-header {
-      background: var(--bg);
-    }
+    .episode-card:hover { border-color: var(--reuna-vahva); }
+    .episode-card.open { border-color: var(--reuna-vahva); }
+    .episode-card.resolved { opacity: 0.55; }
 
     .card-header {
       display: flex;
@@ -230,101 +340,96 @@
 
     .episode-num {
       flex-shrink: 0;
-      width: 28px; height: 28px;
-      background: var(--bg-elevated);
-      border: 1px solid var(--border);
-      border-radius: 50%;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 0.7rem;
-      font-weight: 600;
-      color: var(--text-muted);
-      margin-top: 2px;
+      min-width: 36px;
+      font-family: var(--fontti-koodi);
+      font-size: 12px;
+      color: var(--teksti-himmea);
+      font-variant-numeric: tabular-nums;
+      padding-top: 2px;
     }
 
-    .episode-meta {
-      flex: 1;
-    }
+    .episode-meta { flex: 1; min-width: 0; }
 
     .episode-date {
-      font-size: 0.72rem;
-      color: var(--text-dim);
-      font-weight: 500;
-      letter-spacing: 0.3px;
-      margin-bottom: 3px;
+      font-family: var(--fontti-koodi);
+      font-size: 12px;
+      color: var(--teksti-toissijainen);
+      margin-bottom: 2px;
+      font-variant-numeric: tabular-nums;
     }
 
     .episode-title {
-      font-size: 0.95rem;
+      font-size: 16px;
       font-weight: 600;
-      color: var(--text);
+      color: var(--teksti-ensisijainen);
       line-height: 1.35;
+      text-wrap: balance;
     }
 
     .episode-badge-row {
       display: flex;
-      gap: 8px;
-      margin-top: 8px;
+      gap: 6px;
+      margin-top: 10px;
       flex-wrap: wrap;
     }
 
     .badge {
       display: inline-flex;
       align-items: center;
-      gap: 5px;
+      gap: 6px;
       padding: 3px 9px;
-      border-radius: 20px;
-      font-size: 0.7rem;
-      font-weight: 500;
+      border-radius: var(--radius-pill);
+      font-family: var(--fontti-koodi);
+      font-size: 11px;
+      line-height: 1.4;
+      border: 1px solid transparent;
     }
 
-    .badge-warn {
-      background: var(--warn-bg);
-      color: var(--warn);
-      border: 1px solid rgba(245,158,11,0.25);
+    .badge::before {
+      content: "";
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: currentColor;
+      flex-shrink: 0;
     }
 
-    .badge-ok {
-      background: var(--success-bg);
-      color: var(--success);
-      border: 1px solid rgba(52,211,153,0.25);
-    }
-
-    .badge-participants {
-      background: rgba(79,142,247,0.08);
-      color: var(--accent);
-      border: 1px solid rgba(79,142,247,0.2);
-    }
+    .badge-warn { color: var(--varoitus); background: var(--varoitus-tausta); border-color: var(--varoitus-reuna); }
+    .badge-ok { color: var(--aksentti); background: var(--aksentti-tausta); border-color: var(--aksentti-reuna); }
+    .badge-new { color: var(--aksentti); background: transparent; border-color: var(--aksentti-reuna); border-style: dashed; }
+    .badge-participants,
+    .badge-neutral { color: var(--teksti-toissijainen); background: transparent; border-color: var(--reuna); }
+    .badge-participants::before,
+    .badge-neutral::before { display: none; }
 
     .chevron {
       flex-shrink: 0;
-      color: var(--text-dim);
-      font-size: 16px;
-      transition: transform 0.2s;
+      color: var(--teksti-himmea);
       margin-top: 4px;
+      transition: transform var(--siirtyma), color var(--siirtyma);
     }
 
+    .card-header:hover .chevron { color: var(--teksti-vahva); }
     .episode-card.open .chevron { transform: rotate(180deg); }
 
-    /* === CARD BODY === */
+    /* === KORTIN SISÄLTÖ === */
     .card-body {
       display: none;
-      border-top: 1px solid var(--border);
+      border-top: 1px solid var(--reuna);
     }
 
     .episode-card.open .card-body { display: block; }
 
-    /* Audio player section */
     .player-section {
       padding: 16px 20px;
-      background: linear-gradient(135deg, rgba(15,17,23,0.8), rgba(20,25,40,0.8));
-      border-bottom: 1px solid var(--border);
+      background: var(--bg-upotus);
+      border-bottom: 1px solid var(--reuna);
     }
 
     .player-label {
-      font-size: 0.7rem;
-      color: var(--text-dim);
-      font-weight: 500;
-      letter-spacing: 0.5px;
+      font-family: var(--fontti-koodi);
+      font-size: 11px;
+      color: var(--teksti-himmea);
+      letter-spacing: 0.06em;
       text-transform: uppercase;
       margin-bottom: 8px;
     }
@@ -332,28 +437,25 @@
     .player-row {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 14px;
     }
 
     .play-btn {
       flex-shrink: 0;
       width: 40px; height: 40px;
-      background: var(--accent);
+      background: var(--aksentti);
       border: none;
       border-radius: 50%;
       display: flex; align-items: center; justify-content: center;
       cursor: pointer;
-      font-size: 14px;
-      color: white;
-      transition: background 0.15s, transform 0.1s;
+      color: var(--teksti-aksentin-paalla);
+      transition: background var(--siirtyma);
     }
 
-    .play-btn:hover { background: #3a7ae8; transform: scale(1.05); }
-    .play-btn.playing { background: var(--warn); }
+    .play-btn:hover { background: var(--aksentti-hover); }
+    .play-btn .ikoni { width: 16px; height: 16px; }
 
-    .player-controls {
-      flex: 1;
-    }
+    .player-controls { flex: 1; min-width: 0; }
 
     .seek-bar-wrap {
       position: relative;
@@ -366,16 +468,16 @@
     .seek-bg {
       position: absolute;
       left: 0; right: 0;
-      height: 4px;
-      background: var(--bg-elevated);
+      height: 3px;
+      background: var(--reuna-vahva);
       border-radius: 2px;
     }
 
     .seek-fill {
       position: absolute;
       left: 0;
-      height: 4px;
-      background: linear-gradient(90deg, var(--accent), #a78bfa);
+      height: 3px;
+      background: var(--aksentti);
       border-radius: 2px;
       pointer-events: none;
     }
@@ -383,12 +485,10 @@
     .seek-thumb {
       position: absolute;
       width: 12px; height: 12px;
-      background: white;
+      background: var(--teksti-vahva);
       border-radius: 50%;
-      box-shadow: 0 0 6px rgba(0,0,0,0.5);
       transform: translateX(-50%);
       pointer-events: none;
-      transition: transform 0.05s;
     }
 
     .seek-bar-wrap input[type=range] {
@@ -404,22 +504,20 @@
     .time-row {
       display: flex;
       justify-content: space-between;
+      gap: 8px;
       margin-top: 4px;
     }
 
-    .time-label {
-      font-size: 0.68rem;
-      color: var(--text-dim);
+    .time-label,
+    .startpoint-label {
+      font-family: var(--fontti-koodi);
+      font-size: 11px;
+      color: var(--teksti-himmea);
       font-variant-numeric: tabular-nums;
     }
 
-    .startpoint-label {
-      font-size: 0.65rem;
-      color: var(--warn);
-      text-align: center;
-    }
+    .startpoint-label { color: var(--teksti-toissijainen); text-align: center; }
 
-    /* Skip buttons */
     .skip-btns {
       display: flex;
       gap: 6px;
@@ -427,71 +525,66 @@
     }
 
     .skip-btn {
-      background: var(--bg-elevated);
-      border: 1px solid var(--border);
-      border-radius: 6px;
+      background: transparent;
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-sm);
       padding: 5px 10px;
-      color: var(--text-muted);
-      font-size: 0.7rem;
-      font-family: inherit;
+      color: var(--teksti-toissijainen);
+      font-size: 11px;
+      font-family: var(--fontti-koodi);
       cursor: pointer;
-      transition: all 0.15s;
       white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+      transition: color var(--siirtyma), border-color var(--siirtyma);
     }
 
-    .skip-btn:hover {
-      border-color: var(--border-accent);
-      color: var(--text);
-    }
+    .skip-btn:hover { border-color: var(--reuna-vahva); color: var(--teksti-vahva); }
 
     .rss-kuvaus {
-      font-size: 0.75rem;
-      color: var(--text-dim);
-      padding: 10px 20px;
-      border-bottom: 1px solid var(--border);
-      line-height: 1.5;
+      font-size: 13px;
+      color: var(--teksti-toissijainen);
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--reuna);
+      line-height: 1.55;
     }
 
     .rss-kuvaus strong {
-      color: var(--text-muted);
+      font-family: var(--fontti-koodi);
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--teksti-himmea);
+      margin-right: 4px;
     }
 
-    /* Recommendations */
-    .recs-section {
-      padding: 16px 20px;
-    }
+    .rss-kuvaus.varoitus { color: var(--varoitus); }
+
+    /* Suositukset */
+    .recs-section { padding: 16px 20px 20px; }
 
     .recs-title {
-      font-size: 0.72rem;
-      font-weight: 600;
-      color: var(--text-dim);
-      letter-spacing: 0.5px;
+      font-family: var(--fontti-koodi);
+      font-size: 11px;
+      color: var(--teksti-himmea);
+      letter-spacing: 0.06em;
       text-transform: uppercase;
       margin-bottom: 12px;
     }
 
     .rec-item {
-      background: var(--bg-elevated);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-sm);
-      padding: 14px 16px;
+      background: var(--bg-upotus);
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-md);
+      padding: 16px;
       margin-bottom: 10px;
-      transition: border-color 0.15s;
+      transition: border-color var(--siirtyma), opacity var(--siirtyma);
     }
 
-    .rec-item.suspicious-border {
-      border-color: rgba(245, 158, 11, 0.4);
-      box-shadow: inset 4px 0 0 var(--warn);
-    }
-
-    .rec-item.resolved-rec {
-      border-color: rgba(52,211,153,0.3);
-      background: rgba(5,41,24,0.5);
-    }
-
-    .rec-item.skipped-rec {
-      opacity: 0.4;
-    }
+    .rec-item.suspicious-border { border-color: var(--varoitus-reuna); }
+    .rec-item.resolved-rec { border-color: var(--aksentti-reuna); background: var(--aksentti-tausta); }
+    .rec-item.skipped-rec { opacity: 0.45; }
+    .rec-item.new-rec { border-color: var(--aksentti-reuna); border-style: dashed; }
 
     .rec-header {
       display: flex;
@@ -502,342 +595,312 @@
 
     .rec-teos {
       flex: 1;
-      font-size: 0.88rem;
+      font-size: 15px;
       font-weight: 600;
-      color: var(--text);
-      line-height: 1.3;
+      color: var(--teksti-ensisijainen);
+      line-height: 1.35;
     }
 
+    .rec-teos .badge { vertical-align: 2px; }
+
     .rec-category {
-      font-size: 0.68rem;
-      background: rgba(255,255,255,0.06);
-      border-radius: 4px;
-      padding: 2px 7px;
-      color: var(--text-muted);
+      font-family: var(--fontti-koodi);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      background: var(--reuna);
+      border-radius: var(--radius-pill);
+      padding: 2px 9px;
+      color: var(--teksti-toissijainen);
       flex-shrink: 0;
     }
 
     .rec-kuvaus {
-      font-size: 0.78rem;
-      color: var(--text-muted);
+      font-size: 13px;
+      color: var(--teksti-toissijainen);
       line-height: 1.5;
       margin-bottom: 10px;
     }
+
+    .rec-kuvaus strong { color: var(--teksti-ensisijainen); font-weight: 600; }
 
     .rec-alert {
       display: flex;
       align-items: center;
       gap: 8px;
-      background: var(--warn-bg);
-      border: 1px solid rgba(245,158,11,0.2);
-      border-radius: 6px;
+      color: var(--varoitus);
+      background: var(--varoitus-tausta);
+      border: 1px solid var(--varoitus-reuna);
+      border-radius: var(--radius-sm);
       padding: 8px 12px;
       margin-bottom: 10px;
     }
 
-    .rec-alert-icon { font-size: 14px; }
-
-    .rec-alert-text {
-      font-size: 0.78rem;
-      color: var(--warn);
-    }
-
+    .rec-alert-text { font-size: 13px; }
     .rec-alert-text strong { font-weight: 600; }
-
-    /* Participants selector */
-    .rec-participants {
-      display: flex;
-      gap: 6px;
-      flex-wrap: wrap;
-      margin-bottom: 10px;
-    }
-
-    .participant-btn {
-      padding: 5px 12px;
-      border-radius: 20px;
-      border: 1px solid var(--border-accent);
-      background: var(--bg-card);
-      color: var(--text-muted);
-      font-size: 0.76rem;
-      font-family: inherit;
-      cursor: pointer;
-      transition: all 0.15s;
-    }
-
-    .participant-btn:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-      background: rgba(79,142,247,0.08);
-    }
-
-    .participant-btn.selected {
-      border-color: var(--success);
-      color: var(--success);
-      background: rgba(52,211,153,0.1);
-    }
 
     .rec-actions {
       display: flex;
       gap: 8px;
       align-items: center;
+      flex-wrap: wrap;
     }
 
     .custom-input {
       flex: 1;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
+      min-width: 0;
+      background: var(--bg-kentta);
+      border: 1px solid var(--reuna);
       border-radius: var(--radius-sm);
-      padding: 6px 10px;
-      color: var(--text);
-      font-size: 0.78rem;
-      font-family: inherit;
+      padding: 8px 10px;
+      color: var(--teksti-ensisijainen);
+      font-size: 13px;
+      font-family: var(--fontti-koodi);
+      line-height: 1.45;
       outline: none;
-      transition: border-color 0.15s;
+      transition: border-color var(--siirtyma);
     }
 
-    .custom-input:focus { border-color: var(--border-accent); }
-    .custom-input::placeholder { color: var(--text-dim); }
+    textarea.custom-input { font-family: var(--fontti); font-size: 14px; }
+
+    select.custom-input {
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: var(--nuoli-kuva);
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+      padding-right: 30px;
+      cursor: pointer;
+    }
+
+    .custom-input:focus { border-color: var(--aksentti); }
+    .custom-input:focus-visible { outline: none; }
+    .custom-input::placeholder { color: var(--teksti-himmea); }
+
+    .edit-grid .player-label { font-size: 11px !important; margin-bottom: 6px; display: block; }
+    .edit-grid > div > .custom-input { width: 100%; }
+    .edit-grid select.custom-input[style*="width:auto"] { flex: 0 0 auto; }
 
     .action-btn {
-      padding: 6px 14px;
+      padding: 7px 14px;
       border-radius: var(--radius-sm);
-      border: none;
-      font-size: 0.76rem;
-      font-family: inherit;
+      border: 1px solid transparent;
+      font-size: 12px;
+      font-family: var(--fontti-koodi);
       font-weight: 500;
       cursor: pointer;
-      transition: all 0.15s;
+      transition: background var(--siirtyma), color var(--siirtyma), border-color var(--siirtyma);
     }
 
-    .btn-primary {
-      background: var(--accent);
-      color: white;
-    }
+    .btn-primary { background: var(--aksentti); color: var(--teksti-aksentin-paalla); }
+    .btn-primary:hover { background: var(--aksentti-hover); }
+    .btn-primary:disabled { background: transparent; border-color: var(--reuna); color: var(--teksti-himmea); cursor: default; }
 
-    .btn-primary:hover { background: #3a7ae8; }
-    .btn-primary:disabled { background: var(--bg-elevated); color: var(--text-dim); cursor: default; }
+    .btn-skip { background: transparent; border-color: var(--reuna); color: var(--teksti-toissijainen); }
+    .btn-skip:hover { border-color: var(--reuna-vahva); color: var(--teksti-vahva); }
 
-    .btn-skip {
-      background: var(--bg-elevated);
-      border: 1px solid var(--border);
-      color: var(--text-muted);
-    }
-
-    .btn-skip:hover { border-color: var(--border-accent); color: var(--text); }
-
-    .btn-verify {
-      background: rgba(52, 211, 153, 0.05);
-      border: 1px solid rgba(52, 211, 153, 0.3);
-      color: #34d399;
-    }
-
-    .btn-verify:hover {
-      background: rgba(52, 211, 153, 0.15);
-      border-color: #34d399;
-    }
-
-    .resolved-label {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 0.78rem;
-      color: var(--success);
-    }
+    .btn-verify { background: transparent; border-color: var(--aksentti-reuna); color: var(--aksentti); }
+    .btn-verify:hover { background: var(--aksentti-tausta-aktiivinen); border-color: var(--aksentti); }
 
     /* Lisää suositus */
     .add-rec-btn {
       width: 100%;
       background: transparent;
-      border: 1px dashed var(--border-accent);
-      border-radius: var(--radius-sm);
-      padding: 10px 14px;
-      color: var(--text-muted);
-      font-size: 0.8rem;
-      font-family: inherit;
+      border: 1px dashed var(--reuna-vahva);
+      border-radius: var(--radius-md);
+      padding: 11px 14px;
+      color: var(--teksti-toissijainen);
+      font-size: 12px;
+      font-family: var(--fontti-koodi);
       cursor: pointer;
-      transition: all 0.15s;
+      transition: color var(--siirtyma), border-color var(--siirtyma), background var(--siirtyma);
     }
 
-    .add-rec-btn:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-      background: rgba(79,142,247,0.06);
-    }
+    .add-rec-btn:hover { border-color: var(--aksentti); color: var(--aksentti); background: var(--aksentti-tausta); }
 
-    .rec-item.new-rec {
-      border-color: rgba(79,142,247,0.4);
-      box-shadow: inset 4px 0 0 var(--accent);
-    }
-
-    .badge-new {
-      background: rgba(79,142,247,0.1);
-      color: var(--accent);
-      border: 1px solid rgba(79,142,247,0.3);
-    }
-
-    /* Empty state */
+    /* Tyhjä tila */
     .empty {
       text-align: center;
-      padding: 80px 20px;
-      color: var(--text-dim);
+      padding: 96px 20px;
+      color: var(--teksti-toissijainen);
     }
 
-    .empty-icon { font-size: 48px; margin-bottom: 16px; }
-    .empty h2 { font-size: 1.1rem; color: var(--text-muted); margin-bottom: 8px; }
-    .empty p { font-size: 0.87rem; }
+    .empty h2 { font-size: 18px; font-weight: 600; color: var(--teksti-ensisijainen); margin-bottom: 6px; }
+    .empty p { font-family: var(--fontti-koodi); font-size: 13px; }
+    .empty.virhe h2 { color: var(--virhe); }
 
-    /* Save button */
+    /* Tallenna */
     .save-bar {
       position: fixed;
       bottom: 24px;
       right: 32px;
-      display: flex;
-      gap: 10px;
-      align-items: center;
+      z-index: 50;
     }
 
     .save-btn {
-      background: linear-gradient(135deg, var(--accent), #7c3aed);
-      color: white;
+      background: var(--aksentti);
+      color: var(--teksti-aksentin-paalla);
       border: none;
-      border-radius: 24px;
-      padding: 12px 24px;
-      font-size: 0.875rem;
-      font-family: inherit;
-      font-weight: 600;
+      border-radius: var(--radius-pill);
+      padding: 12px 14px 12px 22px;
+      font-size: 14px;
+      font-family: var(--fontti);
+      font-weight: 700;
       cursor: pointer;
-      box-shadow: 0 4px 20px rgba(79,142,247,0.35);
-      transition: all 0.2s;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
+      transition: background var(--siirtyma);
     }
 
-    .save-btn:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 28px rgba(79,142,247,0.45);
-    }
+    .save-btn:hover { background: var(--aksentti-hover); }
 
     .save-count {
-      background: white;
-      color: var(--accent);
-      border-radius: 12px;
-      padding: 1px 7px;
-      font-size: 0.75rem;
-      font-weight: 700;
+      background: var(--teksti-aksentin-paalla);
+      color: var(--aksentti);
+      border-radius: var(--radius-pill);
+      min-width: 24px;
+      padding: 2px 8px;
+      font-family: var(--fontti-koodi);
+      font-size: 12px;
+      font-weight: 500;
+      text-align: center;
+      font-variant-numeric: tabular-nums;
     }
 
-    /* Toast */
+    /* Ilmoitus */
     .toast {
       position: fixed;
-      bottom: 80px;
+      bottom: 84px;
       right: 32px;
-      background: var(--bg-elevated);
-      border: 1px solid var(--border-accent);
+      max-width: min(440px, calc(100vw - 24px));
+      background: var(--teksti-ensisijainen);
+      color: var(--bg-sivu);
       border-radius: var(--radius-sm);
-      padding: 10px 18px;
-      font-size: 0.82rem;
-      color: var(--text);
-      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+      padding: 10px 16px;
+      font-family: var(--fontti-koodi);
+      font-size: 13px;
       opacity: 0;
-      transform: translateY(10px);
-      transition: all 0.25s;
+      transform: translateY(8px);
+      transition: opacity 0.22s ease-out, transform 0.22s cubic-bezier(0.22, 1, 0.36, 1);
       pointer-events: none;
       z-index: 1000;
     }
 
-    .toast.show {
-      opacity: 1;
-      transform: translateY(0);
-    }
-    
-    /* Login Gate */
+    .toast.show { opacity: 1; transform: translateY(0); }
+
+    /* Kirjautuminen */
     #login-gate {
       position: fixed;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(15, 17, 23, 0.95);
+      inset: 0;
+      background: var(--bg-sivu);
       z-index: 9999;
       display: flex;
       align-items: center;
       justify-content: center;
-      backdrop-filter: blur(10px);
+      padding: 20px;
     }
-    
+
     .login-box {
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 32px;
       width: 100%;
-      max-width: 360px;
-      text-align: center;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      max-width: 340px;
     }
-    
+
     .login-box h2 {
-      font-size: 1.25rem;
-      margin-bottom: 20px;
+      font-size: 28px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.05;
+      text-transform: uppercase;
+      margin-bottom: 8px;
     }
-    
+
+    .login-box h2 span { display: block; color: var(--aksentti); }
+
+    .login-box p {
+      font-family: var(--fontti-koodi);
+      font-size: 12px;
+      color: var(--teksti-toissijainen);
+      margin-bottom: 24px;
+    }
+
     .login-box input {
       width: 100%;
-      background: var(--bg);
-      border: 1px solid var(--border-accent);
+      background: var(--bg-kentta);
+      border: 1px solid var(--reuna-vahva);
       border-radius: var(--radius-sm);
-      padding: 12px 16px;
-      color: var(--text);
-      font-size: 1rem;
-      margin-bottom: 16px;
+      padding: 12px 14px;
+      color: var(--teksti-ensisijainen);
+      font-family: var(--fontti-koodi);
+      font-size: 16px;
+      margin-bottom: 12px;
       outline: none;
     }
-    
-    .login-box input:focus {
-      border-color: var(--accent);
-    }
-    
+
+    .login-box input:focus { border-color: var(--aksentti); }
+    .login-box input:focus-visible { outline: none; }
+
     .login-box button {
       width: 100%;
-      background: var(--accent);
-      color: white;
+      background: var(--aksentti);
+      color: var(--teksti-aksentin-paalla);
       border: none;
       border-radius: var(--radius-sm);
       padding: 12px;
-      font-size: 1rem;
-      font-weight: 600;
+      font-family: var(--fontti);
+      font-size: 15px;
+      font-weight: 700;
       cursor: pointer;
+      transition: background var(--siirtyma);
+    }
+
+    .login-box button:hover { background: var(--aksentti-hover); }
+
+    /* Kosketusnäytöt: 16 px kentät estävät iOS:n kohdistuszoomauksen */
+    @media (pointer: coarse) {
+      .custom-input, .search-wrap input, textarea.custom-input { font-size: 16px; }
     }
 
     @media (max-width: 768px) {
-      .action-btn, .filter-btn, .skip-btn, .participant-btn, .add-rec-btn { min-height: 44px; }
-      .play-btn { width: 48px; height: 48px; font-size: 16px; }
-      .custom-input { min-height: 44px; }
+      .action-btn, .filter-btn, .skip-btn, .add-rec-btn, .custom-input { min-height: 44px; }
+      .teemakytkin { width: 44px; height: 44px; }
+      .play-btn { width: 48px; height: 48px; }
     }
 
     @media (max-width: 640px) {
-      header, main { padding-left: 12px; padding-right: 12px; }
-      .filterbar { padding-left: 0; padding-right: 0; }
-      .stats { display: none; }
-      .progress-bar-wrap, .progress-info { display: none; }
+      header { padding: 12px 16px; }
+      main { padding: 0 12px 100px; margin-top: 16px; }
+      .header-inner { flex-wrap: nowrap; gap: 12px; }
+      h1 { font-size: 17px; }
+      h1 .h1-aksentti { display: block; }
+      .stats .filter-btn { flex: none; }
+      .alaotsikko { display: none; }
+      .stat-chip { display: none; }
+      .edistyminen { display: none; }
+      .filterbar { margin-top: 10px; }
+      .search-wrap { min-width: 100%; }
+      .filter-btn { flex: 1; }
 
-      main { padding-bottom: 90px; }
-
-      .card-header { padding: 12px 14px; }
-      .player-section, .recs-section { padding: 12px 14px; }
-      .rss-kuvaus { padding: 8px 14px; }
+      .card-header { padding: 14px; gap: 10px; }
+      .episode-num { min-width: 0; }
+      .player-section, .recs-section { padding: 14px; }
+      .rss-kuvaus { padding: 10px 14px; }
 
       .player-row { flex-wrap: wrap; }
-      .player-controls { width: 100%; order: 2; }
+      .player-controls { width: 100%; order: 2; flex-basis: 100%; }
       .skip-btns { order: 3; width: 100%; gap: 8px; }
       .skip-btn { flex: 1; text-align: center; }
+      .startpoint-label { display: none; }
 
       .edit-grid { grid-template-columns: 1fr !important; }
       .edit-grid > * { grid-column: span 1 !important; }
 
-      .rec-actions { flex-wrap: wrap; }
-      .action-btn { padding: 10px 14px; }
+      .rec-item { padding: 14px; }
+      .action-btn { padding: 10px 14px; flex: 1; }
 
       .save-bar { left: 12px; right: 12px; bottom: 16px; }
       .save-btn { width: 100%; justify-content: center; }
+      .toast { right: 12px; left: 12px; bottom: 80px; }
     }
   </style>
 </head>
@@ -846,8 +909,8 @@
 <!-- Login Gate -->
 <div id="login-gate">
   <div class="login-box">
-    <div class="logo-icon" style="margin: 0 auto 16px auto;">🔐</div>
-    <h2>Admin-kirjautuminen</h2>
+    <h2>Uutisraportti<span>suosittelee</span></h2>
+    <p>Ylläpito – kirjaudu sisään</p>
     <input type="password" id="admin-pswd" placeholder="Salasana" onkeydown="if(event.key==='Enter') tryLogin()" />
     <button onclick="tryLogin()">Kirjaudu</button>
   </div>
@@ -856,30 +919,31 @@
 <header>
   <div class="header-inner">
     <div class="logo">
-      <div class="logo-icon">🎙️</div>
-      <h1>
-        Uutisraportti – Suosittelijavalidointi
-        <span>Tarkista ja korjaa epäilyttävät suosittelijamerkinnät (Netlify Admin)</span>
-      </h1>
+      <h1>Uutisraportti <span class="h1-aksentti">suosittelee</span></h1>
+      <p class="alaotsikko">Ylläpito – tarkista ja korjaa suositukset</p>
     </div>
     <div class="stats">
       <div class="stat-chip" id="stat-jakso">– jaksoa</div>
       <div class="stat-chip" id="stat-rec">– suositusta</div>
       <div class="stat-chip" id="stat-resolved">0 korjattu</div>
-      <button class="filter-btn" style="margin-left:8px" onclick="logout()">Kirjaudu ulos</button>
+      <button type="button" class="teemakytkin" id="teemakytkin" aria-label="Vaihda teemaa" title="Vaihda vaalean ja tumman teeman välillä" onclick="vaihdaTeema()">
+        <svg class="ikoni ikoni-kuu" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        <svg class="ikoni ikoni-aurinko" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="currentColor" stroke="none"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+      </button>
+      <button class="filter-btn" onclick="logout()">Kirjaudu ulos</button>
     </div>
   </div>
   <div class="filterbar">
   <div class="search-wrap">
-    <span class="search-icon">🔍</span>
+    <svg class="ikoni search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
     <input type="text" id="search" placeholder="Hae jaksoa tai suosittelijaa..." />
   </div>
   <button class="filter-btn active" id="view-suspicious" onclick="setMainView('suspicious')">Vain epäilyttävät</button>
   <button class="filter-btn" id="view-all" onclick="setMainView('all')">Kaikki</button>
   <button class="filter-btn" id="view-corrected" onclick="setMainView('corrected')">Korjatut</button>
-  <div style="display:flex; align-items:center; gap:8px; margin-left:auto;">
+  <div class="edistyminen">
     <div class="progress-bar-wrap">
-      <div class="progress-bar-fill" id="global-progress" style="width:0%"></div>
+      <div class="progress-bar-fill" id="global-progress" style="transform:scaleX(0)"></div>
     </div>
     <div class="progress-info" id="progress-text">0 / 0</div>
   </div>
@@ -888,14 +952,13 @@
 
 <main id="main-list">
   <div class="empty" id="loading">
-    <div class="empty-icon">⏳</div>
     <h2>Ladataan dataa...</h2>
   </div>
 </main>
 
 <div class="save-bar">
   <button class="save-btn" id="save-btn" onclick="saveChanges()">
-    💾 Tallenna muutokset
+    Tallenna muutokset
     <span class="save-count" id="save-count">0</span>
   </button>
 </div>
@@ -907,6 +970,22 @@
 // AUTH / LOGIN
 // =====================================================
 let adminToken = localStorage.getItem('validaattori_token') || '';
+
+const IKONI_TOISTA = '<svg class="ikoni" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4.5v15l13-7.5z"/></svg>';
+const IKONI_TAUKO = '<svg class="ikoni" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="4.5" width="4" height="15" rx="1"/><rect x="14" y="4.5" width="4" height="15" rx="1"/></svg>';
+
+// Teemakytkin: sama logiikka ja localStorage-avain kuin julkisella sivulla.
+// Jos valinta on sama kuin laitteen asetus, tallennus poistetaan ja sivu seuraa laitetta.
+function vaihdaTeema() {
+  const laiteVaalea = matchMedia('(prefers-color-scheme: light)').matches;
+  const nyt = document.documentElement.dataset.theme || (laiteVaalea ? 'light' : 'dark');
+  const uusi = nyt === 'light' ? 'dark' : 'light';
+  document.documentElement.dataset.theme = uusi;
+  try {
+    if ((uusi === 'light') === laiteVaalea) localStorage.removeItem('teema');
+    else localStorage.setItem('teema', uusi);
+  } catch (e) {}
+}
 
 function tryLogin() {
   const input = document.getElementById('admin-pswd').value;
@@ -1010,7 +1089,6 @@ function loadDataScriptAndInit() {
       renderList();
     } else {
       document.getElementById('loading').innerHTML = `
-        <div class="empty-icon">❌</div>
         <h2>Datan lataus epäonnistui</h2>
         <p>Varmista että epailyttavat.js on samassa kansiossa.</p>
       `;
@@ -1018,7 +1096,6 @@ function loadDataScriptAndInit() {
   };
   script.onerror = () => {
     document.getElementById('loading').innerHTML = `
-      <div class="empty-icon">❌</div>
       <h2>Datan lataus epäonnistui</h2>
       <p>Tiedostoa epailyttavat.js ei löytynyt.</p>
     `;
@@ -1037,7 +1114,6 @@ async function loadFullData() {
   try {
     document.getElementById('main-list').innerHTML = `
       <div class="empty">
-        <div class="empty-icon">⏳</div>
         <h2>Ladataan koko tietokantaa...</h2>
       </div>`;
     const resp = await fetch('/suositukset.json?v=' + Date.now());
@@ -1105,7 +1181,6 @@ async function loadFullData() {
     console.error('Virhe ladattaessa suositukset.json:', err);
     document.getElementById('main-list').innerHTML = `
       <div class="empty">
-        <div class="empty-icon">❌</div>
         <h2>Tietokannan lataus epäonnistui</h2>
         <p>${err.message}</p>
       </div>`;
@@ -1168,7 +1243,7 @@ function updateStats() {
   document.getElementById('stat-resolved').innerHTML = `<strong>${resolved}</strong> muokattu`;
 
   const pct = totalRecs() > 0 ? Math.round(resolvedRecs() / totalRecs() * 100) : 0;
-  document.getElementById('global-progress').style.width = pct + '%';
+  document.getElementById('global-progress').style.transform = `scaleX(${pct / 100})`;
   document.getElementById('progress-text').textContent = `${resolvedRecs()} / ${totalRecs()}`;
 }
 
@@ -1276,9 +1351,14 @@ function renderList() {
   const container = document.getElementById('main-list');
 
   if (filtered.length === 0) {
-    container.innerHTML = `
+    container.innerHTML = !currentSearch && mainView === 'suspicious'
+      ? `
       <div class="empty">
-        <div class="empty-icon">✨</div>
+        <h2>Ei epäilyttäviä suosittelijoita</h2>
+        <p>Kaikki nimet täsmäävät jaksojen osallistujiin. Kahvitauon paikka.</p>
+      </div>`
+      : `
+      <div class="empty">
         <h2>Ei tuloksia</h2>
         <p>Muuta hakuehtoja tai suodatinta.</p>
       </div>`;
@@ -1312,22 +1392,22 @@ function renderCard(jakso) {
       <div class="episode-title">${escHtml(jakso.jakso_otsikko)}</div>
       <div class="episode-badge-row">
         ${n_open > 0
-          ? `<span class="badge badge-warn">⚠️ ${n_open} auki</span>`
-          : `<span class="badge badge-ok">✓ Valmis</span>`}
+          ? `<span class="badge badge-warn">${n_open} auki</span>`
+          : `<span class="badge badge-ok">Valmis</span>`}
         ${jakso.rss_osallistujat.length > 0
-          ? `<span class="badge badge-participants">📻 ${escHtml(jakso.rss_osallistujat.join(', '))}</span>`
+          ? `<span class="badge badge-participants">${escHtml(jakso.rss_osallistujat.join(', '))}</span>`
           : ''}
-        ${jakso.kesto_str ? `<span class="badge" style="background:rgba(255,255,255,0.04);color:var(--text-dim);border:1px solid var(--border);">⏱ ${jakso.kesto_str}</span>` : ''}
+        ${jakso.kesto_str ? `<span class="badge badge-neutral">${jakso.kesto_str}</span>` : ''}
       </div>
     </div>
-    <div class="chevron">▾</div>
+    <svg class="ikoni chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
   </div>
   <div class="card-body">
     ${jakso.audio_url ? `
     <div class="player-section">
       <div class="player-label">JAKSON KUUNTELU</div>
       <div class="player-row">
-        <button class="play-btn" id="playbtn-${jakso.jakso_id}" onclick="togglePlay('${jakso.jakso_id}', '${jakso.audio_url}', ${startSek}, ${jakso.kesto_sek})">▶</button>
+        <button class="play-btn" id="playbtn-${jakso.jakso_id}" onclick="togglePlay('${jakso.jakso_id}', '${jakso.audio_url}', ${startSek}, ${jakso.kesto_sek})" aria-label="Toista">${IKONI_TOISTA}</button>
         <div class="player-controls">
           <div class="seek-bar-wrap" id="seekwrap-${jakso.jakso_id}" onclick="seekClick(event,'${jakso.jakso_id}',${jakso.kesto_sek})">
             <div class="seek-bg"></div>
@@ -1339,7 +1419,7 @@ function renderCard(jakso) {
           </div>
           <div class="time-row">
             <span class="time-label" id="curtime-${jakso.jakso_id}">${formatTime(startSek)}</span>
-            <span class="startpoint-label">⬆ aloituspiste (suosittelujen kohdalla)</span>
+            <span class="startpoint-label">aloituspiste: suositukset alkavat</span>
             <span class="time-label">${jakso.kesto_str || ''}</span>
           </div>
         </div>
@@ -1350,9 +1430,9 @@ function renderCard(jakso) {
         </div>
       </div>
     </div>
-    ` : (jakso.kesto_sek > 0 ? `<div class="rss-kuvaus">⚠️ Ei audio-URL:ta tälle jaksolle.</div>` : '')}
+    ` : (jakso.kesto_sek > 0 ? `<div class="rss-kuvaus varoitus">Tälle jaksolle ei löytynyt äänitiedostoa.</div>` : '')}
     <div class="rss-kuvaus">
-      <strong>RSS-kuvaus:</strong> ${escHtml(jakso.rss_kuvaus || '–')}
+      <strong>RSS-kuvaus:</strong> ${escHtml((jakso.rss_kuvaus || '–').replace(/<[^>]+>/g, ''))}
     </div>
     <div class="recs-section">
       <div class="recs-title">${mainView === 'suspicious' ? 'Epäilyttävät suositukset' : 'Kaikki suositukset'} (${jakso.suositukset.length} kpl)</div>
@@ -1384,7 +1464,7 @@ function renderRec(jakso, rec) {
   
   ${isSuspicious && !isEdited && !isSkipped ? `
   <div class="rec-alert">
-    <span class="rec-alert-icon">⚠️</span>
+    <svg class="ikoni" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3 2 21h20L12 3z"/><path d="M12 10v5M12 18h.01"/></svg>
     <div class="rec-alert-text">Suosittelija <strong>"${escHtml(rec.suosittelija)}"</strong> ei löydy jakson RSS-osallistujista</div>
   </div>
   ` : ''}
@@ -1424,7 +1504,7 @@ function renderRec(jakso, rec) {
   </div>
 
   <div class="rec-actions" style="margin-top: 12px; justify-content: flex-end;">
-    ${isSaved ? `<div class="badge badge-ok" style="margin-right:auto">✓ Tallennettu GitHubiin</div>` : ''}
+    ${isSaved ? `<div class="badge badge-ok" style="margin-right:auto">Tallennettu GitHubiin</div>` : ''}
     ${(isEdited || isSkipped) && !isSaved ? `<button class="action-btn btn-skip" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>` : ''}
     ${isSuspicious && !isEdited && !isSkipped ? `<button class="action-btn btn-verify" onclick="verifyCorrect('${jakso.jakso_id}',${rec.r_idx})">Vahvista oikeaksi</button>` : ''}
     ${!isSaved ? `<button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">${isSkipped ? 'Ohitettu' : 'Ohita'}</button>` : ''}
@@ -1453,7 +1533,7 @@ function togglePlay(jakso_id, url, startSek, durationSek) {
   let audio = audioObjects[jakso_id];
   if (audio && !audio.paused) {
     audio.pause();
-    document.getElementById('playbtn-' + jakso_id).textContent = '▶';
+    document.getElementById('playbtn-' + jakso_id).innerHTML = IKONI_TOISTA;
     document.getElementById('playbtn-' + jakso_id).classList.remove('playing');
     return;
   }
@@ -1461,7 +1541,7 @@ function togglePlay(jakso_id, url, startSek, durationSek) {
     if (id !== jakso_id && !a.paused) {
       a.pause();
       const btn = document.getElementById('playbtn-' + id);
-      if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+      if (btn) { btn.innerHTML = IKONI_TOISTA; btn.classList.remove('playing'); }
     }
   });
   if (!audio) {
@@ -1472,14 +1552,14 @@ function togglePlay(jakso_id, url, startSek, durationSek) {
     audio.addEventListener('timeupdate', () => updateSeekUI(jakso_id, audio.currentTime, audio.duration || durationSek));
     audio.addEventListener('ended', () => {
       const btn = document.getElementById('playbtn-' + jakso_id);
-      if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+      if (btn) { btn.innerHTML = IKONI_TOISTA; btn.classList.remove('playing'); }
     });
     audio.currentTime = startSek;
   }
   audio.play().then(() => {
     const btn = document.getElementById('playbtn-' + jakso_id);
-    if (btn) { btn.textContent = '⏸'; btn.classList.add('playing'); }
-  }).catch(e => showToast('❌ Äänen lataus epäonnistui: ' + e.message, 4000));
+    if (btn) { btn.innerHTML = IKONI_TAUKO; btn.classList.add('playing'); }
+  }).catch(e => showToast('Äänen lataus epäonnistui: ' + e.message, 4000));
 }
 
 function stopAudio(jakso_id) {
@@ -1487,7 +1567,7 @@ function stopAudio(jakso_id) {
   if (audio && !audio.paused) {
     audio.pause();
     const btn = document.getElementById('playbtn-' + jakso_id);
-    if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+    if (btn) { btn.innerHTML = IKONI_TOISTA; btn.classList.remove('playing'); }
   }
 }
 
@@ -1556,7 +1636,7 @@ function confirmCorr(jakso_id, r_idx) {
   setCorr(jakso_id, r_idx, { is_edited: true, uusi_data: uusi_data });
   refreshRec(jakso_id, r_idx);
   refreshCardHeader(jakso_id);
-  showToast(`✅ Päivitetty paikallisesti: ${uusi_data.teos}`);
+  showToast(`Päivitetty paikallisesti: ${uusi_data.teos}`);
 }
 
 function skipRec(jakso_id, r_idx) {
@@ -1691,7 +1771,7 @@ function lisaaUusi(jakso_id) {
   const teos = arvo('teos');
   const suosittelija = arvo('suo');
   if (!teos || !suosittelija) {
-    showToast('⚠️ Teos ja suosittelija ovat pakollisia.', 3500);
+    showToast('Teos ja suosittelija ovat pakollisia.', 3500);
     return;
   }
   const google = hakulinkki(teos);
@@ -1708,7 +1788,7 @@ function lisaaUusi(jakso_id) {
   NEW_RECS.push({ tmp_id: ++newRecSeq, jakso_id, uusi_data });
   updateSaveBtn();
   refreshCard(jakso_id);
-  showToast(`➕ Lisätty tallennettavaksi: ${teos}`);
+  showToast(`Lisätty tallennettavaksi: ${teos}`);
 }
 
 function poistaUusi(tmp_id) {
@@ -1770,10 +1850,10 @@ async function verifyCorrect(jakso_id, r_idx) {
       updateStats();
     }
     
-    showToast('✅ Vahvistettu oikeaksi ja tallennettu pysyvästi.');
+    showToast('Vahvistettu oikeaksi ja tallennettu pysyvästi.');
   } catch (err) {
     console.error('Verify failed:', err);
-    showToast('❌ Virhe: ' + err.message);
+    showToast('Virhe: ' + err.message);
   }
 }
 
@@ -1803,10 +1883,10 @@ function refreshCardHeader(jakso_id) {
     if (first) {
       if (n_open > 0) {
         first.className = 'badge badge-warn';
-        first.innerHTML = `⚠️ ${n_open} auki`;
+        first.innerHTML = `${n_open} auki`;
       } else {
         first.className = 'badge badge-ok';
-        first.innerHTML = `✓ Valmis`;
+        first.innerHTML = `Valmis`;
       }
     }
   }
@@ -1871,13 +1951,13 @@ function saveChanges() {
     return response.json();
   })
   .then(data => {
-    showToast('✅ Korjaukset tallennettu GitHubiin (viive n. 1min ennen kuin näkyy Netlifyssä)!', 5000);
+    showToast('Korjaukset tallennettu GitHubiin (viive n. 1min ennen kuin näkyy Netlifyssä)!', 5000);
     tallennusValmis = true;
     setTimeout(() => location.reload(), 3000);
   })
   .catch(err => {
     console.error('Save failed:', err);
-    showToast('❌ Virhe: ' + err.message, 7000);
+    showToast('Virhe: ' + err.message, 7000);
   })
   .finally(() => {
     saveBtn.disabled = false;
