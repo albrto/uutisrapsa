@@ -52,8 +52,8 @@
       {
         "teos": "Tähtitaivaan opetteleminen tekoälyn kanssa keskustellen luontokävelyillä",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=tähtitaivaan+opettelu+tekoälyn+avulla",
-        "lisatieto_linkki": "https://www.google.com/search?q=Claude+AI+tähtitaivas+opastus",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Tuomas suosittelee yhdistämään luonnossa kulkemisen ja tekoälyn: keskustelemalla ääneen tekoälyn (Clauden) kanssa koiralenkeillä hän on oppinut tunnistamaan tähtikuvioita, kuten Otavan, ja niiden taustatarinoita. Suosittelee nimenomaan puhumista tekoälylle, ei näpyttelyä.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -161,7 +161,7 @@
       {
         "teos": "Tekoälyn (Claude) käyttäminen luonnonilmiöiden seuraamiseen",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=Claude+tekoäly+luontoretki",
+        "google_linkki": "",
         "lisatieto_linkki": "",
         "kuvaus": "Peltomäki suosittelee kysymään tekoälyltä (Claude) luonnossa liikkuessa, mitä eläimiä ja ilmiöitä alueella on odotettavissa - tekoäly kertoi mm. ilveksistä, kauriista ja lintulajeista sekä teki jopa kalenterimerkintöjä tulevia bongausretkiä varten.",
         "suosittelija": "Tuomas Peltomäki",
@@ -350,8 +350,8 @@
       {
         "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=kainalosauvat",
-        "lisatieto_linkki": "https://www.google.com/search?q=polven+hiusmurtuma+kainalosauvat",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Polven hiusmurtuman vuoksi kuukauden kainalosauvoilla liikkunut Marko Junkkari havaitsi, miten kilttejä ja avuliaita ihmiset – etenkin nuoret – ovat: metroaseman ovia pidetään auki ja kahvilassa kuppi kannetaan pöytään. Usko ihmisen hyvyyteen palasi.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -421,8 +421,8 @@
       {
         "teos": "Ile Vainion loppukesän hiljaisuus",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=Ile+Vainio+Dennis+Pasterstein",
-        "lisatieto_linkki": "https://www.google.com/search?q=Ile+Vainio+ylinopeus+K%C3%A4pyl%C3%A4",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Tuija Siltamäen toivesuositus: Ile Vainio olisi loppukesän hiljaa. Taustalla Vainion ylinopeussakoista poikinut, sittemmin poistettu Facebook-päivitys liikennevalvonnan johtajasta Dennis Pastersteinista sekä podcast-puheet mieskunnosta.",
         "suosittelija": "Tuija Siltamäki",
         "kategoriat": [
@@ -433,8 +433,8 @@
       {
         "teos": "Tikanheitto, lautapelit ja syvälliset keskustelut ystävien kanssa",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=tikanheitto+lautapelit+m%C3%B6kkeily",
-        "lisatieto_linkki": "https://www.google.com/search?q=lautapelit+suositukset",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "John Helin suosittelee mökkiviikonlopun ohjelmaa: tikanheittoa, lautapelejä poikien kanssa sekä miehisiä keskusteluja sielun syvimmistä asioista. Puhukaa ystävienne kanssa vaikeistakin asioista – se on hienoa.",
         "suosittelija": "John Helin",
         "kategoriat": [
@@ -946,8 +946,8 @@
       {
         "teos": "Kivijalkakaupoissa asiointi",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=kivijalkakaupoissa+asiointi+suomi",
-        "lisatieto_linkki": "https://www.google.com/search?q=kivijalkakaupoissa+asiointi+suomi",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Suositellaan asioimista kivijalkakaupoissa verkkokaupan sijaan. Henkilökohtainen ja ystävällinen palvelu on arvo sinänsä.",
         "suosittelija": "Jussi Niemeläinen",
         "kategoriat": [
@@ -1818,8 +1818,8 @@
       {
         "teos": "Työaikainen ruokailusuositus",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=Ty%C3%B6aikainen+ruokailusuositus+valtion+ravitsemusneuvottelukunta",
-        "lisatieto_linkki": "https://www.google.com/search?q=Ty%C3%B6aikainen+ruokailusuositus+THL",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Valtion ravitsemusneuvottelukunnan julkaisema suositus siitä, miten eri töissä kannattaa syödä. Tuomas suosittelee tutustumaan tähän humoristisessa hengessä.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -2622,8 +2622,8 @@
       {
         "teos": "Metsäpolun raivaaminen itse",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=mets%C3%A4polun+raivaaminen+vesuri",
-        "lisatieto_linkki": "https://www.google.com/search?q=mets%C3%A4polun+raivaaminen+vesuri",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Tuomas suosittelee ostamaan vesurin ja raivaamaan itse oman luontopolun lähimetsään tai joenvarsipusikkoon. Oman luontopaikan tekeminen lähelle kotia on henkisesti palkitsevaa.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -3604,8 +3604,8 @@
       {
         "teos": "Kollega-bingo (seuraleikki)",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=bingo+tutustumisleikki+ty%C3%B6paikka",
-        "lisatieto_linkki": "https://www.google.com/search?q=bingo+generator+fi",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Tutustumisleikki, jossa tehdään bingolappuja ihmisiin sopivilla luonnehdinnoilla. Osallistujat etsivät joukosta henkilöitä, jotka täyttävät kunkin ruudun ehdon – hauska tapa tutustua uusiin kollegoihin tai ryhmäläisiin.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
@@ -3971,8 +3971,8 @@
       {
         "teos": "Suunnistus Keskuspuistossa ja Nuuksiossa",
         "paakategoria": "urheilu",
-        "google_linkki": "https://www.google.com/search?q=suunnistus+Keskuspuisto+Nuuksio+Helsinki+kartta",
-        "lisatieto_linkki": "https://www.google.com/search?q=Pirkkalan+uimahallin+kahvio+suunnistuskartat+Helsinki",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Helsingin Pirkkalassa sijaitsevan uimahallin kahviolta saa suunnistuskarttoja edullisesti. Rasteja löytyy Keskuspuistosta, Nuuksiosta ja muualta – voi mennä omalla ajalla ilman paineita.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
@@ -7829,8 +7829,8 @@
       {
         "teos": "Virkkaaminen käsityöharrastuksena",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=virkkaaminen+aloittelijalle",
-        "lisatieto_linkki": "https://www.google.com/search?q=virkkaaminen+aloittelijalle",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Anni Keski-Heikki suosittelee virkkaamista rentoutumiskeinona. Yhdellä koukulla ja langoilla voi tehdä esimerkiksi viinipullopussukan – helppo ja konkreettinen tulos.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
@@ -8033,7 +8033,7 @@
       {
         "teos": "Marjastus ja äänikirjat luonnossa",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=marjastus+äänikirja+luonnossa",
+        "google_linkki": "",
         "lisatieto_linkki": "",
         "kuvaus": "Marjametsässä käynti äänikirja korvissa on meditatiivista ja rentouttavaa. Monotoninen käsillä tekeminen auttaa keskittymään äänikirjaan poikkeuksellisen hyvin.",
         "suosittelija": "Alli Hallonblad",
@@ -8177,8 +8177,8 @@
       {
         "teos": "Kylmät suihkut",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=kylm%C3%A4t+suihkut+hyv%C3%A4t+vaikutukset",
-        "lisatieto_linkki": "https://www.google.com/search?q=kylm%C3%A4t+suihkut+hyv%C3%A4t+vaikutukset",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Kylmät suihkut aloittaen lämpimästä vedestä ja viilentäen asteittain täysin kylmäksi. Suosittelijan mukaan tekee hyvää ja antaa läsnäolevan ja seikkailullisen olon.",
         "suosittelija": "Joakim Westrén-Doll",
         "kategoriat": [
@@ -8450,8 +8450,8 @@
       {
         "teos": "Yölaulajalintujen kuuntelu luonnossa",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=yölaulajalinnut+Suomi+viitakerttu+satakieli",
-        "lisatieto_linkki": "https://www.google.com/search?q=yölaulajalinnut+Suomi+viitakerttu+satakieli",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Kesäkuun alkupäivät ovat paras aika lähteä iltakävelylle kuulemaan yölaulajia kuten viitakerttu, satakieli ja viitasirkkalintu. Helsingissä esimerkiksi Lammassaari on hyvä kohde.",
         "suosittelija": "Petja Pelli",
         "kategoriat": [
@@ -9118,7 +9118,7 @@
       {
         "teos": "Jutteleminen vieraiden ihmisten kanssa",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=jutteleminen+vieraiden+ihmisten+kanssa+hyvinvointi",
+        "google_linkki": "",
         "lisatieto_linkki": "",
         "kuvaus": "Suositus rohkaistua juttelemaan tuntemattomien kanssa esimerkiksi junassa. Avaa uusia maailmoja ja saa aivot erilaisille raiteille.",
         "suosittelija": "Tuomas Peltomäki",
@@ -9846,8 +9846,8 @@
       {
         "teos": "Korean kielen opinnot",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=Korean+kielen+opinnot+ty%C3%B6v%C3%A4enopisto+Suomi",
-        "lisatieto_linkki": "https://www.google.com/search?q=Korean+kielen+opinnot+ty%C3%B6v%C3%A4enopisto+Suomi",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Anni Keski-Heikki suosittelee Korean kielen opiskelua työväenopistossa. Korealaiset aakkoset ovat yllättävän helppo opetella, koska ne perustuvat äänteisiin.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
@@ -10632,8 +10632,8 @@
       {
         "teos": "Lintujen tarkkailu",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=lintujen+tarkkailu+harrastus+Suomi",
-        "lisatieto_linkki": "https://www.google.com/search?q=lintujen+tarkkailu+harrastus+Suomi",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Lintujen rauhallinen tarkkailu arjessa ja luonnossa – ei kilpailullista bongailua, vaan matalan kynnyksen rauhoittavaa luontosuhdetta. Sopii kaikille, koska kaikki ovat nähneet lintuja.",
         "suosittelija": "Irina Hasala",
         "kategoriat": [
@@ -11459,8 +11459,8 @@
       {
         "teos": "Teatteri (yleinen suositus)",
         "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=teatteri+Helsinki",
-        "lisatieto_linkki": "https://www.google.com/search?q=teatteri+Helsinki+liput",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Alma Unali suosittelee lämpimästi menemään teatteriin, erityisesti koronarajoitusten jälkeen. Hän korostaa teatterin kehollisuutta ja läsnäolon kokemusta, jota ei voi pausettaa.",
         "suosittelija": "Alma Onali",
         "kategoriat": [
@@ -11629,8 +11629,8 @@
       {
         "teos": "Ufojen tarkkailu",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla",
-        "lisatieto_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Alman vitsisuositus: kaukopartiohiihdon aamuyönä taivaalla lipui äänettömästi pitkulainen, kuin Hayao Miyazakin elokuvasta tullut alus, jonka kaikki kolme hiihtäjää näkivät. Ufo paljastui myöhemmin samana iltana Kaliforniasta laukaistuiksi Starlink-satelliiteiksi.",
         "suosittelija": "Alma Onali",
         "kategoriat": [
@@ -11754,8 +11754,8 @@
       {
         "teos": "Suomalaiset naistenlehdet",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=suomalaiset+naistenlehdet",
-        "lisatieto_linkki": "https://www.google.com/search?q=suomalaiset+naistenlehdet",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Anna-Sofia Berner suosittelee suomalaisia naistenlehtiä, jotka hän koki ilona palattuaan Yhdysvalloista – järkeviä, tasa-arvoisia ja sekä viihdyttäviä että sisällöllisesti kiinnostavia.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
@@ -12073,8 +12073,8 @@
       {
         "teos": "Shakki",
         "paakategoria": "urheilu",
-        "google_linkki": "https://www.google.com/search?q=shakki+peli",
-        "lisatieto_linkki": "https://www.google.com/search?q=shakki+peli",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Tuomas suosittelee shakin pelaamista jouluna, muistellen edellisvuoden jouluun liittynyttä maanista shakinpeluuta lähipiirin kanssa.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -12607,8 +12607,8 @@
       {
         "teos": "Cooper-testi keskustelunaiheena",
         "paakategoria": "urheilu",
-        "google_linkki": "https://www.google.com/search?q=Cooper-testi+Mikko+Vieremeläinen",
-        "lisatieto_linkki": "https://www.google.com/search?q=Cooper-testi+Mikko+Vieremeläinen",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Suositellaan nostamaan Cooper-testi ja Mikko Vieremeläisen ennätystulos kahvipöytäkeskustelun aiheeksi – se herättää ihmisissä muistoja ja paljastaa paljon persoonallisuudesta.",
         "suosittelija": "Joakim Westrén-Doll",
         "kategoriat": [
@@ -12699,8 +12699,8 @@
       {
         "teos": "Juokseminen",
         "paakategoria": "urheilu",
-        "google_linkki": "https://www.google.com/search?q=juokseminen+aloittaminen",
-        "lisatieto_linkki": "https://www.google.com/search?q=Helsinki+City+Run+juoksu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Emil Elo suosittelee juoksemista liikuntamuotona erityisesti etätyövuoden jälkeen. Hän itse harjoittelee Helsinki City Runia varten ja kehuu liikunnan kansantaloudellisia hyötyjä.",
         "suosittelija": "Emil Elo",
         "kategoriat": [
@@ -13473,8 +13473,8 @@
       {
         "teos": "Merimelonta",
         "paakategoria": "urheilu",
-        "google_linkki": "https://www.google.com/search?q=merimelonta+Helsinki",
-        "lisatieto_linkki": "https://www.google.com/search?q=melontaseurat+Helsinki+kajakki+vuokraus",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Tommi Nieminen suosittelee merimelontaa Suomenlahdella – hänen mukaansa sekä hauskaa että koronaturvallista. Helsingissä on useita melontaseuroja, joilta voi vuokrata kajakkeja kohtuuhintaan.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -16878,8 +16878,8 @@
       {
         "teos": "Uiminen harrastuksena",
         "paakategoria": "urheilu",
-        "google_linkki": "https://www.google.com/search?q=uiminen+harrastus+uimahalli",
-        "lisatieto_linkki": "https://www.google.com/search?q=uiminen+harrastus+uimahalli",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "kuvaus": "Tuija Siltamäki suosittelee uimista syksyn uutena harrastuksena. Hän on käynyt uimassa useita kertoja viikossa koko kesän ja kokee sen voimaannuttavana arjen harmautta vastaan.",
         "suosittelija": "Tuija Siltamäki",
         "kategoriat": [

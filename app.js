@@ -203,7 +203,8 @@ function renderCard(rec) {
   if (rec.google_linkki) {
     links += `<a href="${escapeHtml(rec.google_linkki)}" target="_blank" class="rec-link">Google</a>`;
   }
-  if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki) {
+  // Google-haku lisätietolinkkinä olisi tupla Google-linkin kanssa
+  if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki && !onGoogleLinkki(rec.lisatieto_linkki)) {
     const linkLabel = linkinNimi(rec.lisatieto_linkki);
     links += `<a href="${escapeHtml(rec.lisatieto_linkki)}" target="_blank" class="rec-link">${linkLabel}</a>`;
   }
@@ -218,7 +219,9 @@ function renderCard(rec) {
       <div class="rec-card">
         <div class="rec-top">
           <div class="rec-title">
-            <a href="${escapeHtml(rec.google_linkki || '#')}" target="_blank">${escapeHtml(rec.teos)}</a>
+            ${rec.google_linkki
+              ? `<a href="${escapeHtml(rec.google_linkki)}" target="_blank">${escapeHtml(rec.teos)}</a>`
+              : escapeHtml(rec.teos)}
             ${rec.kuulijasuositus ? `<span class="rec-badge listener" style="margin-left:8px; vertical-align:middle;">🎧 Kuulijan suositus</span>` : ''}
           </div>
           <span class="rec-badge ${badgeClass}">${escapeHtml(rec.paakategoria || 'muu')}</span>
@@ -291,6 +294,14 @@ const LINKKIEN_NIMET = [
   ['ifixit.com', 'iFixit'],
   ['myfitnesspal.com', 'MyFitnessPal'],
 ];
+
+function onGoogleLinkki(url) {
+  try {
+    return /(^|\.)google\.[a-z.]+$/.test(new URL(url).hostname.toLowerCase());
+  } catch {
+    return false;
+  }
+}
 
 function linkinNimi(url) {
   let host;

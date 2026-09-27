@@ -1661,7 +1661,7 @@ function lisaaUusi(jakso_id) {
       paakategoria: arvo('paak'),
       kategoriat: arvo('tagit').split(',').map(s => s.trim()).filter(s => s),
       google_linkki: google,
-      lisatieto_linkki: arvo('linkki') || google,
+      lisatieto_linkki: arvo('linkki'),
     }
   });
   updateSaveBtn();
