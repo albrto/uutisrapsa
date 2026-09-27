@@ -38,6 +38,9 @@ jobs:
       - name: Lataa repositorio
         uses: actions/checkout@v7
         with:
+          # Uusin main eikä laukaisseen pushin commit: jonossa (concurrency) odottanut ajo
+          # näkee muuten vanhan tilan ja sen push hylätään non-fast-forwardina (27.9.2026)
+          ref: main
           fetch-depth: 0
         
       - name: Asenna Python
