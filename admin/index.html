@@ -719,6 +719,49 @@
 
     .add-rec-btn:hover { border-color: var(--aksentti); color: var(--aksentti); background: var(--aksentti-tausta); }
 
+    /* Järjestyksen muutos */
+    .recs-title-rivi { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+    .jarjestys-btn {
+      background: transparent;
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-sm);
+      padding: 4px 10px;
+      color: var(--teksti-toissijainen);
+      font-size: 12px;
+      font-family: var(--fontti-koodi);
+      cursor: pointer;
+      margin-bottom: 12px;
+      transition: color var(--siirtyma), border-color var(--siirtyma);
+    }
+    .jarjestys-btn:hover { color: var(--teksti-vahva); border-color: var(--reuna-vahva); }
+    .jarjestys-ohje { font-size: 13px; color: var(--teksti-toissijainen); margin-bottom: 10px; }
+    .jarjestys-rivi {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: var(--bg-upotus);
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-md);
+      padding: 8px 8px 8px 14px;
+      margin-bottom: 6px;
+    }
+    .jarjestys-rivi.siirretty { border-color: var(--aksentti-reuna); background: var(--aksentti-tausta); }
+    .jarjestys-nro { font-family: var(--fontti-koodi); font-size: 12px; color: var(--teksti-himmea); min-width: 1.5em; }
+    .jarjestys-teksti { flex: 1; min-width: 0; font-size: 14px; color: var(--teksti-ensisijainen); line-height: 1.35; }
+    .jarjestys-teksti span { display: block; font-size: 12px; font-family: var(--fontti-koodi); color: var(--teksti-toissijainen); }
+    .siirto-btn {
+      width: 36px; height: 36px;
+      display: inline-flex; align-items: center; justify-content: center;
+      background: transparent;
+      border: 1px solid var(--reuna);
+      border-radius: var(--radius-sm);
+      color: var(--teksti-toissijainen);
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .siirto-btn:hover:not(:disabled) { color: var(--aksentti); border-color: var(--aksentti); }
+    .siirto-btn:disabled { opacity: 0.3; cursor: default; }
+
     /* Tyhjä tila */
     .empty {
       text-align: center;
@@ -863,7 +906,8 @@
     }
 
     @media (max-width: 768px) {
-      .action-btn, .filter-btn, .skip-btn, .add-rec-btn, .custom-input { min-height: 44px; }
+      .action-btn, .filter-btn, .skip-btn, .add-rec-btn, .custom-input, .jarjestys-btn { min-height: 44px; }
+      .siirto-btn { width: 44px; height: 44px; }
       .teemakytkin { width: 44px; height: 44px; }
       .play-btn { width: 48px; height: 48px; }
     }
@@ -1204,7 +1248,7 @@ function lisaaOdottavatLisaykset(jaksot) {
     .forEach(k => {
       const jakso = jaksot.find(j => j.jakso_id === k.jakso_id);
       if (!jakso || jakso.suositukset.some(r => r.r_idx === k.r_idx)) return;
-      const rec = { r_idx: k.r_idx, is_suspicious: false, google_linkki: '', lisatieto_linkki: '', kategoriat: [], ...k.uusi_data };
+      const rec = { r_idx: k.r_idx, is_suspicious: false, google_linkki: '', lisatieto_linkki: '', kategoriat: [], ...k.uusi_data, odottava: true };
       // Lisätyn suosituksen myöhemmät muokkaukset (viimeisin voittaa)
       korjaukset.forEach(m => {
         if (m.tyyppi !== 'lisays' && m.jakso_id === k.jakso_id && m.r_idx === k.r_idx && m.uusi_data) Object.assign(rec, m.uusi_data);
@@ -1437,11 +1481,16 @@ function renderCard(jakso) {
       <strong>RSS-kuvaus:</strong> ${escHtml((jakso.rss_kuvaus || '–').replace(/<[^>]+>/g, ''))}
     </div>
     <div class="recs-section">
-      <div class="recs-title">${mainView === 'suspicious' ? 'Epäilyttävät suositukset' : 'Kaikki suositukset'} (${jakso.suositukset.length} kpl)</div>
+      <div class="recs-title-rivi">
+        <div class="recs-title">${mainView === 'suspicious' ? 'Epäilyttävät suositukset' : 'Kaikki suositukset'} (${jakso.suositukset.length} kpl)</div>
+        ${mainView !== 'suspicious' && jakso.suositukset.length > 1 && !JARJESTYS[jakso.jakso_id]
+          ? `<button class="jarjestys-btn" onclick="aloitaJarjestys('${jakso.jakso_id}')">⇅ Muuta järjestystä</button>` : ''}
+      </div>
+      ${JARJESTYS[jakso.jakso_id] ? renderJarjestys(jakso) : `
       ${jakso.suositukset
           .filter(r => mainView !== 'suspicious' || r.is_suspicious)
           .map(rec => renderRec(jakso, rec)).join('')}
-      ${mainView !== 'suspicious' ? renderNewRecs(jakso) : ''}
+      ${mainView !== 'suspicious' ? renderNewRecs(jakso) : ''}`}
     </div>
   </div>
 </div>`;
@@ -1836,6 +1885,118 @@ function refreshCard(jakso_id) {
   const jakso = DATA.find(j => j.jakso_id === jakso_id);
   const card = document.getElementById('card-' + jakso_id);
   if (jakso && card) card.outerHTML = renderCard(jakso);
+}
+
+// =====================================================
+// JÄRJESTYKSEN MUUTOS
+// Tallennus (netlify/functions/jarjesta.js) muuttaa kerralla sekä järjestyksen
+// että kaikki r_idx-viitteet (korjaukset, ohitukset, validointidata), koska
+// korjaukset ajetaan joka kerta uudelleen paikkanumeron perusteella.
+// =====================================================
+let JARJESTYS = {};  // jakso_id → vanhat r_idx:t muokattavassa järjestyksessä
+
+function jarjestysEste(jakso) {
+  const id = jakso.jakso_id;
+  if (NEW_RECS.some(n => n.jakso_id === id)) return 'Tallenna tai poista ensin jakson uudet suositukset.';
+  const tallentamaton = Object.entries(CORRECTIONS).some(([k, c]) =>
+    k.startsWith(id + ':') && c && !c.saved && (c.is_edited || c.skipped));
+  if (tallentamaton) return 'Tallenna tai kumoa ensin jakson muut muutokset.';
+  if (jakso.suositukset.some(r => r.odottava)) return 'Jaksossa on lisäys, jota ei ole vielä julkaistu. Odota pari minuuttia ja lataa sivu uudelleen.';
+  return null;
+}
+
+function aloitaJarjestys(jakso_id) {
+  const jakso = DATA.find(j => j.jakso_id === jakso_id);
+  if (!jakso) return;
+  const este = jarjestysEste(jakso);
+  if (este) { showToast(este, 5000); return; }
+  JARJESTYS[jakso_id] = jakso.suositukset.map(r => r.r_idx);
+  refreshCard(jakso_id);
+}
+
+function peruJarjestys(jakso_id) {
+  delete JARJESTYS[jakso_id];
+  refreshCard(jakso_id);
+}
+
+function siirraSuositus(jakso_id, paikka, suunta) {
+  const jarj = JARJESTYS[jakso_id];
+  const kohde = paikka + suunta;
+  if (!jarj || kohde < 0 || kohde >= jarj.length) return;
+  [jarj[paikka], jarj[kohde]] = [jarj[kohde], jarj[paikka]];
+  refreshCard(jakso_id);
+  // Pidä fokus siirretyssä rivissä, jotta sitä voi siirtää heti uudelleen (näppäimistö)
+  const nappi = document.querySelector(`#card-${CSS.escape(jakso_id)} [data-siirto="${kohde}:${suunta}"]`);
+  if (nappi && !nappi.disabled) nappi.focus();
+}
+
+function renderJarjestys(jakso) {
+  const id = jakso.jakso_id;
+  const jarj = JARJESTYS[id];
+  const recs = Object.fromEntries(jakso.suositukset.map(r => [r.r_idx, r]));
+  const muuttunut = jarj.some((vanha, i) => vanha !== i);
+  const rivit = jarj.map((vanha, i) => {
+    const rec = recs[vanha];
+    return `
+    <div class="jarjestys-rivi${vanha !== i ? ' siirretty' : ''}">
+      <span class="jarjestys-nro">${i + 1}.</span>
+      <div class="jarjestys-teksti">${escHtml(rec.teos)}<span>${escHtml(rec.suosittelija)}</span></div>
+      <button class="siirto-btn" data-siirto="${i}:-1" onclick="siirraSuositus('${id}', ${i}, -1)" ${i === 0 ? 'disabled' : ''} aria-label="Siirrä ylös">↑</button>
+      <button class="siirto-btn" data-siirto="${i}:1" onclick="siirraSuositus('${id}', ${i}, 1)" ${i === jarj.length - 1 ? 'disabled' : ''} aria-label="Siirrä alas">↓</button>
+    </div>`;
+  }).join('');
+  return `
+  <div class="jarjestys-ohje">Järjestä suositukset siihen järjestykseen, jossa ne mainitaan jaksossa. Tallennus julkaistaan heti.</div>
+  ${rivit}
+  <div class="rec-actions" style="margin-top: 12px; justify-content: flex-end;">
+    <button class="action-btn btn-skip" onclick="peruJarjestys('${id}')">Peruuta</button>
+    <button class="action-btn btn-primary" id="jarjestys-tallenna-${id}" onclick="tallennaJarjestys('${id}')" ${muuttunut ? '' : 'disabled'}>Tallenna järjestys</button>
+  </div>`;
+}
+
+async function tallennaJarjestys(jakso_id) {
+  const jakso = DATA.find(j => j.jakso_id === jakso_id);
+  const jarj = JARJESTYS[jakso_id];
+  if (!jakso || !jarj) return;
+  const recs = Object.fromEntries(jakso.suositukset.map(r => [r.r_idx, r]));
+  const nappi = document.getElementById('jarjestys-tallenna-' + jakso_id);
+  nappi.disabled = true;
+  nappi.textContent = 'Tallennetaan…';
+  try {
+    const response = await fetch('/.netlify/functions/jarjesta', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + adminToken },
+      body: JSON.stringify({ jakso_id, jarjestys: jarj, teokset: jarj.map(i => recs[i].teos) }),
+    });
+    if (response.status === 401) throw new Error('Väärä salasana.');
+    const tulos = await response.json().catch(() => ({}));
+    if (!response.ok) throw new Error(tulos.error || response.statusText);
+    sovellaJarjestysPaikallisesti(jakso_id, jarj);
+    delete JARJESTYS[jakso_id];
+    refreshCard(jakso_id);
+    showToast('Järjestys tallennettu. Julkinen sivu päivittyy noin minuutin kuluttua.', 5000);
+  } catch (err) {
+    console.error('Järjestyksen tallennus epäonnistui:', err);
+    showToast('Virhe: ' + err.message, 7000);
+    nappi.disabled = false;
+    nappi.textContent = 'Tallenna järjestys';
+  }
+}
+
+// Sama muunnos kuin palvelimella, jotta näkymä on heti ajan tasalla eikä
+// deployn viive (vanha suositukset.json) sekoita seuraavia muokkauksia
+function sovellaJarjestysPaikallisesti(jakso_id, jarj) {
+  const uusi = {};
+  jarj.forEach((vanha, i) => { uusi[vanha] = i; });
+  const siirra = r => { if (r.jakso_id === jakso_id && r.r_idx in uusi) r.r_idx = uusi[r.r_idx]; };
+  for (const lahde of [DATA_FULL, DATA_SUSPICIOUS]) {
+    const jakso = (lahde || []).find(j => j.jakso_id === jakso_id);
+    if (!jakso) continue;
+    jakso.suositukset.forEach(r => { if (r.r_idx in uusi) r.r_idx = uusi[r.r_idx]; });
+    jakso.suositukset.sort((a, b) => a.r_idx - b.r_idx);
+  }
+  (window.KORJAUKSET || []).forEach(siirra);
+  (window.OHITUKSET || []).forEach(siirra);
 }
 
 // NETLIFY API CALLS
