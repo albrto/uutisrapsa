@@ -100,6 +100,11 @@ MALLIT = [
 # tallenneta suositukset.json-tiedostoon (sivuston skeema pysyy ennallaan)
 SISAISET_KENTAT = ("puhuja_peruste", "puhuja_ristiriita", "epavarma_teos")
 
+# Jokaisen API-vastauksen tokenikulutus (malli, input, output) — lukee mm.
+# pipeline/tarkista_jaksot.py kustannuslaskentaan. Myös epäonnistuneet
+# (esim. max_tokens-rajaan katkenneet) vastaukset kirjataan, koska ne laskutetaan.
+KAYTTO = []
+
 
 def normalisoi_kirjoitusasu(nimi, tunnetut):
     """Napsauttaa täsmäävän tai lähes täsmäävän kirjoitusasun tunnettuun nimeen
@@ -149,7 +154,17 @@ def rakenna_system_prompt(osallistujat):
         "puhujittain (\"Puhuja 0:\", \"Puhuja 1:\" jne.), selvitä ensin, kuka puhujanumero on kukin henkilö. "
         "HUOM: merkinnät tulevat automaattisesta puhujantunnistuksesta, joka erehtyy usein juuri "
         "puheenvuoron vaihtuessa — raja voi osua sanan tai pari väärään kohtaan, ja sama ääni voi "
-        "välillä saada väärän numeron. Arvioi todisteita tässä järjestyksessä: "
+        "välillä saada väärän numeron. "
+        # Podcast-alusta liittää ääneen lataushetken mainokset (todettu 27.9.2026:
+        # HS:n "Menetetyt miljardit" -traileri arkistopätkineen 34 jaksossa), joten
+        # vanhankin jakson alussa voi kuulua studion ulkopuolisia ääniä
+        "MAINOKSET: Tekstin alussa tai välissä voi olla mainoksia ja muiden podcastien trailereita "
+        "(esim. \"Mun uusi podcast… kuuntele Hesarin sovelluksesta\"), joissa kuullaan myös studion "
+        "ulkopuolisia ääniä, kuten haastateltavia tai arkistopätkiä. Niiden puhujat EIVÄT ole jakson "
+        "osallistujia: älä kytke mainoksen puhujanumeroita osallistujiin, äläkä poimi mainoksen sisältöä "
+        "suositukseksi. Varsinainen jakso alkaa juontajan tervehdyksestä (esim. \"tervetuloa "
+        "Uutisraportti-podcastiin\"), ja osallistujien esittelykierros tulee sen jälkeen. "
+        "Arvioi todisteita tässä järjestyksessä: "
         "(a) VAHVA: puhuja esittelee itsensä (\"mun nimi on…\", \"X tässä\"); puhuja viittaa toiseen "
         "kolmannessa persoonassa (\"Anna puhuu siitä, että…\" → puhuja EI ole Anna, ja samasta asiasta "
         "juuri puhunut on todennäköisesti Anna). "
@@ -230,6 +245,7 @@ def kysy_claudelta(client, system_prompt, viesti):
                 ]
             ) as stream:
                 response = stream.get_final_message()
+            KAYTTO.append((model_name, response.usage.input_tokens, response.usage.output_tokens))
             if response.stop_reason == "max_tokens":
                 raise ValueError("Vastaus katkesi max_tokens-rajaan")
             # Uudemmat mallit voivat palauttaa thinking-lohkoja tekstin edellä
