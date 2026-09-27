@@ -520,5 +520,25 @@
         "ajankohtainen"
       ]
     }
+  },
+  {
+    "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
+    "jakso_otsikko": "Velkajarru–laaja oppimäärä, Gazaan aselepo, porvari-Suomi",
+    "paivamaara": "15.10.2025",
+    "r_idx": 0,
+    "teos": "Teemu Luukan kirja (hallituksen tapahtumahistoria 2024)",
+    "uusi_data": {
+      "teos": "Petteri Orpo ja oikeistovallan nousu",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Petteri+Orpo+ja+oikeistovallan+nousu+Teemu+Luukka",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Petteri+Orpo+ja+oikeistovallan+nousu",
+      "kuvaus": "Teemu Luukan kirja käy yksityiskohtaisesti läpi Orpon hallituksen toimintaa ja Suomen oikeistolaistumista. Tuomas nostaa kirjan esiin, ja Marko suosittelee sitä lämpimästi kaikille, joita politiikan tapahtumat kiinnostavat.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "politiikka",
+        "historia",
+        "ajankohtainen"
+      ]
+    }
   }
 ]
