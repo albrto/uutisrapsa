@@ -2737,8 +2737,8 @@ window.VALIDATION_DATA = [
           "julkisuus"
         ],
         "kuvaus": "Tuija Siltamäen toivesuositus: Ile Vainio olisi loppukesän hiljaa. Taustalla Vainion ylinopeussakoista poikinut, sittemmin poistettu Facebook-päivitys liikennevalvonnan johtajasta Dennis Pastersteinista sekä podcast-puheet mieskunnosta.",
-        "google_linkki": "https://www.google.com/search?q=Ile+Vainio+Dennis+Pasterstein",
-        "lisatieto_linkki": "https://www.google.com/search?q=Ile+Vainio+ylinopeus+K%C3%A4pyl%C3%A4"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 4,
@@ -2752,8 +2752,8 @@ window.VALIDATION_DATA = [
           "mökkeily"
         ],
         "kuvaus": "John Helin suosittelee mökkiviikonlopun ohjelmaa: tikanheittoa, lautapelejä poikien kanssa sekä miehisiä keskusteluja sielun syvimmistä asioista. Puhukaa ystävienne kanssa vaikeistakin asioista – se on hienoa.",
-        "google_linkki": "https://www.google.com/search?q=tikanheitto+lautapelit+m%C3%B6kkeily",
-        "lisatieto_linkki": "https://www.google.com/search?q=lautapelit+suositukset"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -2937,8 +2937,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Jaakko Lyytinen",
       "Maria Manner",
-      "Marko Junkkari",
-      "Tuomas Peltomäki"
+      "Marko Junkkari"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Jaakko Lyytinen keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat:",
     "suositukset": [
@@ -3022,7 +3021,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Fuska-ravintola, Oulu",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -3038,21 +3037,21 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
-        "teos": "Succession-podcast (Yle)",
+        "teos": "Succession-sessio",
         "paakategoria": "podcast",
         "kategoriat": [
           "tv-sarja",
-          "analyysi",
-          "draama"
+          "kulttuuri",
+          "viihde"
         ],
-        "kuvaus": "Elijonora Riihisen ja Hilla Kyrkön Hesarille tekemä podcast, jossa puretaan Succession-sarjan jaksoja tapahtuma kerrallaan. Löytyy kaikista podcast-alustoista.",
-        "google_linkki": "https://www.google.com/search?q=Succession+podcast+Yle+Elijonora+Riihinen+Hilla+Kyrkkö",
-        "lisatieto_linkki": "https://supla.fi/search?q=Succession+Elijonora+Riihinen+Hilla+Kyrkkö"
+        "kuvaus": "Helsingin Sanomien kulttuuritoimituksen Hilla Körkön ja Eleonoora Riihisen podcast, jossa puretaan Succession-sarjan jaksoja tapahtuma kerrallaan. Löytyy kaikista podcast-sovelluksista.",
+        "google_linkki": "https://www.google.com/search?q=Succession-sessio+podcast+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.supla.fi/podcast/succession-sessio"
       },
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Benji Plants",
         "paakategoria": "muu",
         "kategoriat": [
@@ -3063,6 +3062,21 @@ window.VALIDATION_DATA = [
         "kuvaus": "Kalifornialainen some-vaikuttaja, joka esittelee huonekasvejaan YouTubessa, Instagramissa ja TikTokissa. Erityisesti suositellaan videota, jossa hän esittelee koko asuntonsa lukuisine kasveineen.",
         "google_linkki": "https://www.google.com/search?q=Benji+Plants+YouTube",
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Benji+Plants"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "A-studio: Matti Vanhanen vieraana",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "politiikka",
+          "ajankohtaisohjelma",
+          "Yle Areena"
+        ],
+        "kuvaus": "Ylen A-studion vaalien jälkeinen jakso, jossa entinen pääministeri Matti Vanhanen kannusti kokoomusta ja perussuomalaisia muodostamaan hallituksen ja totesi, ettei keskusta ole estämässä oikeistohallituksen syntymistä. Katsottavissa Yle Areenassa.",
+        "google_linkki": "https://www.google.com/search?q=A-studio+Matti+Vanhanen+huhtikuu+2023",
+        "lisatieto_linkki": "https://www.google.com/search?q=A-studio+Matti+Vanhanen+Yle+Areena"
       }
     ]
   },
@@ -3900,8 +3914,8 @@ window.VALIDATION_DATA = [
           "terveys"
         ],
         "kuvaus": "Valtion ravitsemusneuvottelukunnan julkaisema suositus siitä, miten eri töissä kannattaa syödä. Tuomas suosittelee tutustumaan tähän humoristisessa hengessä.",
-        "google_linkki": "https://www.google.com/search?q=Ty%C3%B6aikainen+ruokailusuositus+valtion+ravitsemusneuvottelukunta",
-        "lisatieto_linkki": "https://www.google.com/search?q=Ty%C3%B6aikainen+ruokailusuositus+THL"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 2,
@@ -4558,8 +4572,8 @@ window.VALIDATION_DATA = [
           "paikallisuus"
         ],
         "kuvaus": "Suositellaan asioimista kivijalkakaupoissa verkkokaupan sijaan. Henkilökohtainen ja ystävällinen palvelu on arvo sinänsä.",
-        "google_linkki": "https://www.google.com/search?q=kivijalkakaupoissa+asiointi+suomi",
-        "lisatieto_linkki": "https://www.google.com/search?q=kivijalkakaupoissa+asiointi+suomi"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -6039,17 +6053,32 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
-        "teos": "Succession-podcast (Helsingin Sanomat)",
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Succession-sessio",
         "paakategoria": "podcast",
         "kategoriat": [
           "tv-sarja",
           "kulttuuri",
           "viihde"
         ],
-        "kuvaus": "Helsingin Sanomien kulttuuritoimituksen Hilla Kökkö ja Eleonora Riihinen tekevät jakso jaksolta etenevää podcast-sarjaa HBO:n Succession-sarjasta. Uusi jakso ilmestyy heti, kun vastaava sarjan jakso on katsottavissa.",
-        "google_linkki": "https://www.google.com/search?q=Succession+podcast+Helsingin+Sanomat+Hilla+K%C3%B6kk%C3%B6+Eleonora+Riihinen",
-        "lisatieto_linkki": "https://open.spotify.com/search/Succession%20podcast%20Helsingin%20Sanomat"
+        "kuvaus": "Helsingin Sanomien kulttuuritoimituksen Hilla Körkön ja Eleonoora Riihisen podcast, joka käy HBO:n Succession-sarjan läpi jakso jaksolta. Uusi podcast-jakso ilmestyy heti, kun vastaava sarjan jakso on katsottavissa.",
+        "google_linkki": "https://www.google.com/search?q=Succession-sessio+podcast+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.supla.fi/podcast/succession-sessio"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Succession (kausi 4)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "perhedraama",
+          "media"
+        ],
+        "kuvaus": "HBO:n draamasarja mediamogul Logan Royn perheen valtataistelusta. Sarjan neljäs ja viimeinen kausi jatkuu uusin jaksoin maanantaisin.",
+        "google_linkki": "https://www.google.com/search?q=Succession+HBO+kausi+4",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession"
       }
     ]
   },
@@ -6089,7 +6118,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/ef7ee644-0c61-4674-b551-b35a5aa7c52f.mp3",
     "kesto_sek": 4511,
     "kesto_str": "01:15:11",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Hanna Mahlamäki",
+      "Salla Vuorikoski",
+      "Toni Lehtinen"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Salla keskustelee politiikan tiimin esihenkilön Hanna Mahlamäen ja Turussa Hesaria toimittavan Toni Lehtisen kanssa vihreiden hallitushaaveista ja kohtalokkaasta velkajarruratkaisusta. Toni kertoo, miksi Anneli Auer on taas oikeudessa, lähes 20 vuotta aviomiehensä yhä avoinna olevan murhan jälkeen. Miksi lapset kertoivat sijaisvanhemmilleen karmeita tarinoita, jotka he ",
     "suositukset": [
       {
@@ -6124,7 +6157,7 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 2,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Ultra – Rachel Maddow (podcast)",
         "paakategoria": "podcast",
@@ -6148,7 +6181,10 @@ window.VALIDATION_DATA = [
     "kesto_sek": 5438,
     "kesto_str": "01:30:38",
     "rss_osallistujat": [
-      "Alex af Heurlin"
+      "Alex af Heurlin",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>HUOM! Extrapitkäjakso koska studion kello oli poks. Tämän viikon jaksossa Tuomas, Marko ja Salla ja vierailemaan tullut HS Visio podcastin (<a href=\"https://www.hs.fi/visiopodi/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.hs.fi/visiopodi/</a>) Alex af Heurlin keskustelevat DeepSeekin markkinoita myllertäneestä saapumisesta tekoälyareenalle, Tanskan kieltämättä kusisesta tilanteesta T",
     "suositukset": [
@@ -6266,7 +6302,6 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4865,
     "kesto_str": "01:21:05",
     "rss_osallistujat": [
-      "Hanna Havusto",
       "Hanna Mahlamäki",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -6343,7 +6378,7 @@ window.VALIDATION_DATA = [
           "harrastus"
         ],
         "kuvaus": "Peltomäki suosittelee kysymään tekoälyltä (Claude) luonnossa liikkuessa, mitä eläimiä ja ilmiöitä alueella on odotettavissa - tekoäly kertoi mm. ilveksistä, kauriista ja lintulajeista sekä teki jopa kalenterimerkintöjä tulevia bongausretkiä varten.",
-        "google_linkki": "https://www.google.com/search?q=Claude+tekoäly+luontoretki",
+        "google_linkki": "",
         "lisatieto_linkki": ""
       }
     ]
@@ -6753,8 +6788,8 @@ window.VALIDATION_DATA = [
           "vitsi"
         ],
         "kuvaus": "Alman vitsisuositus: kaukopartiohiihdon aamuyönä taivaalla lipui äänettömästi pitkulainen, kuin Hayao Miyazakin elokuvasta tullut alus, jonka kaikki kolme hiihtäjää näkivät. Ufo paljastui myöhemmin samana iltana Kaliforniasta laukaistuiksi Starlink-satelliiteiksi.",
-        "google_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla",
-        "lisatieto_linkki": "https://www.google.com/search?q=Starlink+satelliittijono+n%C3%A4kyy+taivaalla"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -6767,7 +6802,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4590,
     "kesto_str": "01:16:30",
     "rss_osallistujat": [
-      "Jussi Niemeläinen",
+      "Jussi Sippola",
       "Marko Junkkari",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -8063,7 +8098,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:12:25",
     "rss_osallistujat": [
       "Anna-Sofia Berner",
-      "Hanna Havusto",
+      "Hanna Mahlamäki",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
     ],
@@ -8189,7 +8224,6 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Marko Junkkari",
       "Salla Vuorikoski",
-      "Teemu Muhonen",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja Salla keskustelevat Suomen talouden tilanteesta, joka on ollut kaikkien huulilla nyt kun budjettiriihi käynnistyy ensi viikolla. Lisäksi aiheeksi valikoitui eilen keskiviikkona A-Studiossa melkoista mölinää pitänyt Teemu Keskisarja, ja lopuksi vielä keskustellaan vanhempien reaktiosta lasten kännykättömyyteen kouluissa sekä EU:n uudesta tiukemmasta laps",
@@ -8437,8 +8471,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Maria Manner",
       "Marko Junkkari",
-      "Tommi Nieminen",
-      "Tuomas Peltomäki"
+      "Tommi Nieminen"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Tommi Nieminen keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: ",
     "suositukset": [
@@ -9255,8 +9288,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Maria Manner",
       "Marko Junkkari",
-      "Sara Vainio",
-      "Tuomas Peltomäki"
+      "Sara Vainio"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Sara Vainio keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: tur",
     "suositukset": [
@@ -9897,8 +9929,8 @@ window.VALIDATION_DATA = [
           "korea"
         ],
         "kuvaus": "Anni Keski-Heikki suosittelee Korean kielen opiskelua työväenopistossa. Korealaiset aakkoset ovat yllättävän helppo opetella, koska ne perustuvat äänteisiin.",
-        "google_linkki": "https://www.google.com/search?q=Korean+kielen+opinnot+ty%C3%B6v%C3%A4enopisto+Suomi",
-        "lisatieto_linkki": "https://www.google.com/search?q=Korean+kielen+opinnot+ty%C3%B6v%C3%A4enopisto+Suomi"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -11398,8 +11430,8 @@ window.VALIDATION_DATA = [
           "hyvinvointi"
         ],
         "kuvaus": "Tuomas suosittelee yhdistämään luonnossa kulkemisen ja tekoälyn: keskustelemalla ääneen tekoälyn (Clauden) kanssa koiralenkeillä hän on oppinut tunnistamaan tähtikuvioita, kuten Otavan, ja niiden taustatarinoita. Suosittelee nimenomaan puhumista tekoälylle, ei näpyttelyä.",
-        "google_linkki": "https://www.google.com/search?q=tähtitaivaan+opettelu+tekoälyn+avulla",
-        "lisatieto_linkki": "https://www.google.com/search?q=Claude+AI+tähtitaivas+opastus"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -11582,8 +11614,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Alma Onali",
       "Elina Kervinen",
-      "Emil Elo",
-      "Jussi Niemeläinen"
+      "Emil Elo"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Elina Kervinen ja Emil Elo keskustelevat Jussi Halla-ahon ilmoituksesta, että hän ei aio jatkaa perussuomalaisten puheenjohtajana. Lisäksi puhutaan Ruotsin hallituskriisistä ja vuokrasääntelystä sekä Elokapinasta ja siitä, miksi se kiivastuttaa ihmisiä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan ",
     "suositukset": [
@@ -12778,8 +12809,8 @@ window.VALIDATION_DATA = [
           "joulu"
         ],
         "kuvaus": "Tuomas suosittelee shakin pelaamista jouluna, muistellen edellisvuoden jouluun liittynyttä maanista shakinpeluuta lähipiirin kanssa.",
-        "google_linkki": "https://www.google.com/search?q=shakki+peli",
-        "lisatieto_linkki": "https://www.google.com/search?q=shakki+peli"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 1,
@@ -13782,8 +13813,8 @@ window.VALIDATION_DATA = [
           "harrastus"
         ],
         "kuvaus": "Anni Keski-Heikki suosittelee virkkaamista rentoutumiskeinona. Yhdellä koukulla ja langoilla voi tehdä esimerkiksi viinipullopussukan – helppo ja konkreettinen tulos.",
-        "google_linkki": "https://www.google.com/search?q=virkkaaminen+aloittelijalle",
-        "lisatieto_linkki": "https://www.google.com/search?q=virkkaaminen+aloittelijalle"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 1,
@@ -13842,7 +13873,6 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:22:31",
     "rss_osallistujat": [
       "Anna-Sofia Berner",
-      "Jussi Niemeläinen",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -14352,7 +14382,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4687,
     "kesto_str": "01:18:07",
     "rss_osallistujat": [
-      "Hanna Havusto",
+      "Hanna Mahlamäki",
       "Maria Manner",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -14611,8 +14641,8 @@ window.VALIDATION_DATA = [
           "arkirutiini"
         ],
         "kuvaus": "Kylmät suihkut aloittaen lämpimästä vedestä ja viilentäen asteittain täysin kylmäksi. Suosittelijan mukaan tekee hyvää ja antaa läsnäolevan ja seikkailullisen olon.",
-        "google_linkki": "https://www.google.com/search?q=kylm%C3%A4t+suihkut+hyv%C3%A4t+vaikutukset",
-        "lisatieto_linkki": "https://www.google.com/search?q=kylm%C3%A4t+suihkut+hyv%C3%A4t+vaikutukset"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -15028,10 +15058,8 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4529,
     "kesto_str": "01:15:29",
     "rss_osallistujat": [
-      "Jussi Niemeläinen",
+      "Jussi Pullinen",
       "Maria Manner",
-      "Marko Junkkari",
-      "Pekka Mykkänen",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Maria Manner ja Marko Junkkarin hiihtolomaillessa HS:n politiikantoimituksen esimies Jussi Pullinen keskustelevat ulkoministeri Pekka Haaviston asioiden siirtymisestä valtakunnansyyttäjän selvitettäväksi, turvapaikanhakijoiden työlupien järjestämisestä sisäministeriössä, ja koronaviruksen hoitamisesta Suomessa ja globaalisti.\nPitkien epämukavien hiljaisuu",
@@ -15370,8 +15398,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Emil Elo",
       "Maria Manner",
-      "Marko Junkkari",
-      "Tuomas Peltomäki"
+      "Marko Junkkari"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manner ja Emil Elo keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhi",
     "suositukset": [
@@ -15944,7 +15971,7 @@ window.VALIDATION_DATA = [
           "arki"
         ],
         "kuvaus": "Suositus rohkaistua juttelemaan tuntemattomien kanssa esimerkiksi junassa. Avaa uusia maailmoja ja saa aivot erilaisille raiteille.",
-        "google_linkki": "https://www.google.com/search?q=jutteleminen+vieraiden+ihmisten+kanssa+hyvinvointi",
+        "google_linkki": "",
         "lisatieto_linkki": ""
       }
     ]
@@ -16190,7 +16217,6 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4160,
     "kesto_str": "01:09:20",
     "rss_osallistujat": [
-      "Hanna Havusto",
       "Hanna Mahlamäki",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -16378,8 +16404,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "56:24",
     "rss_osallistujat": [
       "Maria Manner",
-      "Marko Junkkari",
-      "Tuomas Peltomäki"
+      "Marko Junkkari"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Heikki Aittokoski keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuva",
     "suositukset": [
@@ -16673,6 +16698,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4233,
     "kesto_str": "01:10:33",
     "rss_osallistujat": [
+      "Anna-Sofia Berner",
       "Jussi Niemeläinen",
       "Salla Vuorikoski",
       "Teemu Muhonen"
@@ -16860,7 +16886,6 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:23:11",
     "rss_osallistujat": [
       "Anna-Sofia Berner",
-      "Jussi Niemeläinen",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
     ],
@@ -16939,7 +16964,6 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4372,
     "kesto_str": "01:12:52",
     "rss_osallistujat": [
-      "Jussi Niemeläinen",
       "Maria Manner",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -17931,7 +17955,7 @@ window.VALIDATION_DATA = [
           "rentoutuminen"
         ],
         "kuvaus": "Marjametsässä käynti äänikirja korvissa on meditatiivista ja rentouttavaa. Monotoninen käsillä tekeminen auttaa keskittymään äänikirjaan poikkeuksellisen hyvin.",
-        "google_linkki": "https://www.google.com/search?q=marjastus+äänikirja+luonnossa",
+        "google_linkki": "",
         "lisatieto_linkki": ""
       },
       {
@@ -18056,8 +18080,8 @@ window.VALIDATION_DATA = [
           "live-kokemus"
         ],
         "kuvaus": "Alma Unali suosittelee lämpimästi menemään teatteriin, erityisesti koronarajoitusten jälkeen. Hän korostaa teatterin kehollisuutta ja läsnäolon kokemusta, jota ei voi pausettaa.",
-        "google_linkki": "https://www.google.com/search?q=teatteri+Helsinki",
-        "lisatieto_linkki": "https://www.google.com/search?q=teatteri+Helsinki+liput"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 2,
@@ -18164,7 +18188,6 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Marko Junkkari",
       "Paavo Teittinen",
-      "Pekka Mykkänen",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Paavo Teittinen keskustelevat ulkoministeri Pekka Haaviston Al-Hol -operaation esitutkinnasta joka tuli julkiseksi ja kertoo paljon ulkoministeriön voimasuhteista, ja Suomen kuvalehden jutusta, joka kertoi teatterikorkeakoulun opiskelijoiden kaheleista woke-meiningeistä, jotka eivät välttämättä olleetkaan niin kaheleita.\nUutisraportti po",
@@ -18530,8 +18553,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Emil Elo",
       "Maria Manner",
-      "Marko Junkkari",
-      "Tuomas Peltomäki"
+      "Marko Junkkari"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manner ja Emil Elo keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhi",
     "suositukset": [
@@ -18577,8 +18599,8 @@ window.VALIDATION_DATA = [
           "Helsinki City Run"
         ],
         "kuvaus": "Emil Elo suosittelee juoksemista liikuntamuotona erityisesti etätyövuoden jälkeen. Hän itse harjoittelee Helsinki City Runia varten ja kehuu liikunnan kansantaloudellisia hyötyjä.",
-        "google_linkki": "https://www.google.com/search?q=juokseminen+aloittaminen",
-        "lisatieto_linkki": "https://www.google.com/search?q=Helsinki+City+Run+juoksu"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 3,
@@ -19035,7 +19057,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/4e5d8448-2363-49fc-856c-05931759c383.mp3",
     "kesto_sek": 3774,
     "kesto_str": "01:02:54",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podissa Salla, Sohvi ja Marko pohtivat, onko perussuomalaisten katastrofaalinen vaalitulos sen yhden valokuvan syytä. Lisäksi keskustellaan hallituksen avioliiton rapautumisesta, demareiden ruusuisista lupauksista ja siitä, oliko tuplavaalit virhe. Lopuksi ruoditaan NYT:n superkiinnostavaa artikkelia ADHD-diagnoosien suuresta kasvusta.</p>",
     "suositukset": [
       {
@@ -19064,8 +19090,8 @@ window.VALIDATION_DATA = [
           "ulkoilu"
         ],
         "kuvaus": "Helsingin Pirkkalassa sijaitsevan uimahallin kahviolta saa suunnistuskarttoja edullisesti. Rasteja löytyy Keskuspuistosta, Nuuksiosta ja muualta – voi mennä omalla ajalla ilman paineita.",
-        "google_linkki": "https://www.google.com/search?q=suunnistus+Keskuspuisto+Nuuksio+Helsinki+kartta",
-        "lisatieto_linkki": "https://www.google.com/search?q=Pirkkalan+uimahallin+kahvio+suunnistuskartat+Helsinki"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 2,
@@ -20046,7 +20072,6 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Anna-Sofia Berner",
       "Marko Junkkari",
-      "Teemu Muhonen",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat kokoomuksen läpi ajamasta velkajarrusta ja muiden puolueiden (paitsi vasemmistoliiton) riemuisasta rientämisestä austerity-aikaan; Trumpin hämmästyttävästi läpi ajamastas Gazan-rauhasta, ja toimittajan ja työtoverin Teemu Luukan kirjoittamasta Suomen oikeistolaistumista käsittelevästä kirjasta.</p>",
@@ -20433,8 +20458,8 @@ window.VALIDATION_DATA = [
           "harrastus"
         ],
         "kuvaus": "Lintujen rauhallinen tarkkailu arjessa ja luonnossa – ei kilpailullista bongailua, vaan matalan kynnyksen rauhoittavaa luontosuhdetta. Sopii kaikille, koska kaikki ovat nähneet lintuja.",
-        "google_linkki": "https://www.google.com/search?q=lintujen+tarkkailu+harrastus+Suomi",
-        "lisatieto_linkki": "https://www.google.com/search?q=lintujen+tarkkailu+harrastus+Suomi"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 1,
@@ -20494,8 +20519,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Maria Manner",
       "Marko Junkkari",
-      "Tommi Nieminen",
-      "Tuomas Peltomäki"
+      "Tommi Nieminen"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manner ja Tommi Nieminen keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat:",
     "suositukset": [
@@ -20541,8 +20565,8 @@ window.VALIDATION_DATA = [
           "vesiliikunta"
         ],
         "kuvaus": "Tommi Nieminen suosittelee merimelontaa Suomenlahdella – hänen mukaansa sekä hauskaa että koronaturvallista. Helsingissä on useita melontaseuroja, joilta voi vuokrata kajakkeja kohtuuhintaan.",
-        "google_linkki": "https://www.google.com/search?q=merimelonta+Helsinki",
-        "lisatieto_linkki": "https://www.google.com/search?q=melontaseurat+Helsinki+kajakki+vuokraus"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -21321,8 +21345,8 @@ window.VALIDATION_DATA = [
           "arki"
         ],
         "kuvaus": "Polven hiusmurtuman vuoksi kuukauden kainalosauvoilla liikkunut Marko Junkkari havaitsi, miten kilttejä ja avuliaita ihmiset – etenkin nuoret – ovat: metroaseman ovia pidetään auki ja kahvilassa kuppi kannetaan pöytään. Usko ihmisen hyvyyteen palasi.",
-        "google_linkki": "https://www.google.com/search?q=kainalosauvat",
-        "lisatieto_linkki": "https://www.google.com/search?q=polven+hiusmurtuma+kainalosauvat"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 7,
@@ -21470,7 +21494,6 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4842,
     "kesto_str": "01:20:42",
     "rss_osallistujat": [
-      "Hanna Havusto",
       "Hanna Mahlamäki",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -21596,7 +21619,6 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:09:03",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Maria Manner",
       "Marko Junkkari",
       "Tommi Nieminen"
     ],
@@ -22261,8 +22283,8 @@ window.VALIDATION_DATA = [
           "työyhteisö"
         ],
         "kuvaus": "Tutustumisleikki, jossa tehdään bingolappuja ihmisiin sopivilla luonnehdinnoilla. Osallistujat etsivät joukosta henkilöitä, jotka täyttävät kunkin ruudun ehdon – hauska tapa tutustua uusiin kollegoihin tai ryhmäläisiin.",
-        "google_linkki": "https://www.google.com/search?q=bingo+tutustumisleikki+ty%C3%B6paikka",
-        "lisatieto_linkki": "https://www.google.com/search?q=bingo+generator+fi"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 2,
@@ -23289,8 +23311,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Maria Manner",
       "Marko Junkkari",
-      "Tommi Nieminen",
-      "Tuomas Peltomäki"
+      "Tommi Nieminen"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Tommi Nieminen keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: ",
     "suositukset": [
@@ -23655,7 +23676,6 @@ window.VALIDATION_DATA = [
     "kesto_sek": 5314,
     "kesto_str": "01:28:34",
     "rss_osallistujat": [
-      "Maria Manner",
       "Maria Pettersson",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -23751,8 +23771,8 @@ window.VALIDATION_DATA = [
           "harrastus"
         ],
         "kuvaus": "Tuija Siltamäki suosittelee uimista syksyn uutena harrastuksena. Hän on käynyt uimassa useita kertoja viikossa koko kesän ja kokee sen voimaannuttavana arjen harmautta vastaan.",
-        "google_linkki": "https://www.google.com/search?q=uiminen+harrastus+uimahalli",
-        "lisatieto_linkki": "https://www.google.com/search?q=uiminen+harrastus+uimahalli"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 1,
@@ -23905,7 +23925,6 @@ window.VALIDATION_DATA = [
     "kesto_sek": 3887,
     "kesto_str": "01:04:47",
     "rss_osallistujat": [
-      "Jussi Niemeläinen",
       "Marko Junkkari",
       "Teemu Muhonen",
       "Tuomas Peltomäki"
@@ -24103,7 +24122,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/8c3759a2-25f0-4e8f-8284-cfd91d122eb5.mp3",
     "kesto_sek": 5042,
     "kesto_str": "01:24:02",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
+    ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Sohvi, Marko ja Salla puivat Trumpin kauppasotaa, joka ehkä peruttiin tai ehkä sittenkään ei. Lisäksi kolmikko keskustelee poliittisista virkanimityksistä ja siitä, voiko poliitikko olla pätevä johtaja. Sohvi tivaa Markon ja Sallan tärppejä vaali-illan seuraamiseen, ja lopuksi toivotaan roboteista pelastusta sukkien lajitteluun.</p>",
     "suositukset": [
       {
@@ -24304,8 +24327,8 @@ window.VALIDATION_DATA = [
           "media"
         ],
         "kuvaus": "Anna-Sofia Berner suosittelee suomalaisia naistenlehtiä, jotka hän koki ilona palattuaan Yhdysvalloista – järkeviä, tasa-arvoisia ja sekä viihdyttäviä että sisällöllisesti kiinnostavia.",
-        "google_linkki": "https://www.google.com/search?q=suomalaiset+naistenlehdet",
-        "lisatieto_linkki": "https://www.google.com/search?q=suomalaiset+naistenlehdet"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 2,
@@ -24350,7 +24373,6 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Maria Manner",
       "Marko Junkkari",
-      "Pekka Mykkänen",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat ulkoministeri Pekka Haaviston ministeririkosjupakasta, joka johti kovaan kuohuntaan perustuslakivaliokunnan sisällä ja sen ulkopuolellakin. Vieraaksi pikkujoululähetystä varten Sanomataloon on pyydetty toinen politiikkanarkkareiden suosikkipodcast, Apunen–Maliranta eli AM.\nUutisraportti podcast on Helsingin San",
@@ -24584,8 +24606,8 @@ window.VALIDATION_DATA = [
           "hyvinvointi"
         ],
         "kuvaus": "Tuomas suosittelee ostamaan vesurin ja raivaamaan itse oman luontopolun lähimetsään tai joenvarsipusikkoon. Oman luontopaikan tekeminen lähelle kotia on henkisesti palkitsevaa.",
-        "google_linkki": "https://www.google.com/search?q=mets%C3%A4polun+raivaaminen+vesuri",
-        "lisatieto_linkki": "https://www.google.com/search?q=mets%C3%A4polun+raivaaminen+vesuri"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
@@ -24874,8 +24896,8 @@ window.VALIDATION_DATA = [
           "kesä"
         ],
         "kuvaus": "Kesäkuun alkupäivät ovat paras aika lähteä iltakävelylle kuulemaan yölaulajia kuten viitakerttu, satakieli ja viitasirkkalintu. Helsingissä esimerkiksi Lammassaari on hyvä kohde.",
-        "google_linkki": "https://www.google.com/search?q=yölaulajalinnut+Suomi+viitakerttu+satakieli",
-        "lisatieto_linkki": "https://www.google.com/search?q=yölaulajalinnut+Suomi+viitakerttu+satakieli"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       },
       {
         "r_idx": 2,
@@ -25188,7 +25210,6 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Alma Onali",
       "Joakim Westrén-Doll",
-      "Maria Manner",
       "Marko Junkkari"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Heikki Aittokoski, Marko Junkkari ja Joakim Westrén-Doll keskustelevat Saksan liittopäivävaaleista, poliisin määrärahoista ja niiden käyttökohteista sekä sisäministeri Maria Ohisalon suhteesta Elokapinaan.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on s",
@@ -25235,8 +25256,8 @@ window.VALIDATION_DATA = [
           "keskusteluaihe"
         ],
         "kuvaus": "Suositellaan nostamaan Cooper-testi ja Mikko Vieremeläisen ennätystulos kahvipöytäkeskustelun aiheeksi – se herättää ihmisissä muistoja ja paljastaa paljon persoonallisuudesta.",
-        "google_linkki": "https://www.google.com/search?q=Cooper-testi+Mikko+Vieremeläinen",
-        "lisatieto_linkki": "https://www.google.com/search?q=Cooper-testi+Mikko+Vieremeläinen"
+        "google_linkki": "",
+        "lisatieto_linkki": ""
       }
     ]
   },
