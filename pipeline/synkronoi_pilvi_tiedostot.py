@@ -57,7 +57,8 @@ def main():
     ic_korj = lue_json(os.path.join(ICLOUD_DIR, "korjaukset.json"))
     gh_korj = lue_json(os.path.join(GITHUB_DIR, "admin", "korjaukset.json"))
     
-    yhd_korj, n_korj = yhdista_listat(ic_korj, gh_korj, ["jakso_id", "r_idx"])
+    # tyyppi erottaa lisäyksen ("lisays") saman paikan myöhemmästä muokkauksesta
+    yhd_korj, n_korj = yhdista_listat(ic_korj, gh_korj, ["jakso_id", "r_idx", "tyyppi"])
     if n_korj > 0:
         tallenna_json(os.path.join(ICLOUD_DIR, "korjaukset.json"), yhd_korj)
         print(f"✅ Lisättiin {n_korj} uutta korjausta pilvestä.")

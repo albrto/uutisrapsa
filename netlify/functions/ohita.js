@@ -18,7 +18,7 @@ exports.handler = async (event, context) => {
   try {
     const item = JSON.parse(event.body);
     const token = process.env.GITHUB_TOKEN;
-    const repo = 'albrto/uutisraportti-suosittelee';
+    const repo = 'albrto/uutisrapsa';
     const path = 'admin/ohitukset.json';
     
     if (!token) throw new Error('GITHUB_TOKEN missing');

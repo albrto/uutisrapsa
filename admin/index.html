@@ -644,6 +644,37 @@
       color: var(--success);
     }
 
+    /* Lisää suositus */
+    .add-rec-btn {
+      width: 100%;
+      background: transparent;
+      border: 1px dashed var(--border-accent);
+      border-radius: var(--radius-sm);
+      padding: 10px 14px;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .add-rec-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: rgba(79,142,247,0.06);
+    }
+
+    .rec-item.new-rec {
+      border-color: rgba(79,142,247,0.4);
+      box-shadow: inset 4px 0 0 var(--accent);
+    }
+
+    .badge-new {
+      background: rgba(79,142,247,0.1);
+      color: var(--accent);
+      border: 1px solid rgba(79,142,247,0.3);
+    }
+
     /* Empty state */
     .empty {
       text-align: center;
@@ -777,7 +808,7 @@
     }
 
     @media (max-width: 768px) {
-      .action-btn, .filter-btn, .skip-btn, .participant-btn { min-height: 44px; }
+      .action-btn, .filter-btn, .skip-btn, .participant-btn, .add-rec-btn { min-height: 44px; }
       .play-btn { width: 48px; height: 48px; font-size: 16px; }
       .custom-input { min-height: 44px; }
     }
@@ -898,6 +929,8 @@ let DATA = [];           // aktiivinen data (vaihtelee tilan mukaan)
 let DATA_SUSPICIOUS = null; // epailyttavat.js data
 let DATA_FULL = null;       // suositukset.json data (ladataan tarvittaessa)
 let CORRECTIONS = {};    // { "jakso_id:r_idx": { ...uudet_kentat... } }
+let NEW_RECS = [];       // tallentamattomat lisäykset: { tmp_id, jakso_id, uusi_data }
+let newRecSeq = 0;
 let mainView = 'suspicious'; // 'suspicious', 'all', 'corrected'
 let currentSearch = '';
 let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
@@ -950,6 +983,7 @@ function loadDataScriptAndInit() {
         if (korjRes.ok) {
           const korjaukset = await korjRes.json();
           window.KORJAUKSET = korjaukset;
+          lisaaOdottavatLisaykset(DATA_SUSPICIOUS);
           
           const korjMap = {};
           korjaukset.forEach(k => {
@@ -1036,6 +1070,8 @@ async function loadFullData() {
       };
     });
     
+    lisaaOdottavatLisaykset(DATA_FULL);
+
     // Rikasta validointidatasta: is_suspicious -liput, audio-URL:t, RSS-tiedot
     if (DATA_SUSPICIOUS) {
       const valMap = {};
@@ -1079,6 +1115,26 @@ async function loadFullData() {
 // HELPERS (sama kuin aiemmin)
 // =====================================================
 function corrKey(jakso_id, r_idx) { return `${jakso_id}:${r_idx}`; }
+
+// Tallennetut mutta vielä soveltamattomat lisäykset (korjaukset.json, tyyppi "lisays")
+// näytetään jakson suosituksina, ettei samaa lisätä kahdesti ennen seuraavaa ajoa.
+function lisaaOdottavatLisaykset(jaksot) {
+  const korjaukset = window.KORJAUKSET || [];
+  korjaukset
+    .filter(k => k.tyyppi === 'lisays')
+    .sort((a, b) => a.r_idx - b.r_idx)
+    .forEach(k => {
+      const jakso = jaksot.find(j => j.jakso_id === k.jakso_id);
+      if (!jakso || jakso.suositukset.some(r => r.r_idx === k.r_idx)) return;
+      const rec = { r_idx: k.r_idx, is_suspicious: false, google_linkki: '', lisatieto_linkki: '', kategoriat: [], ...k.uusi_data };
+      // Lisätyn suosituksen myöhemmät muokkaukset (viimeisin voittaa)
+      korjaukset.forEach(m => {
+        if (m.tyyppi !== 'lisays' && m.jakso_id === k.jakso_id && m.r_idx === k.r_idx && m.uusi_data) Object.assign(rec, m.uusi_data);
+      });
+      jakso.suositukset.push(rec);
+    });
+}
+
 function getCorr(jakso_id, r_idx) { 
   const k = corrKey(jakso_id, r_idx);
   if (CORRECTIONS[k]) return CORRECTIONS[k]; 
@@ -1087,7 +1143,8 @@ function getCorr(jakso_id, r_idx) {
     if (window.OHITUKSET.find(o => o.jakso_id === jakso_id && o.r_idx === r_idx)) return { skipped: true, saved: true };
   }
   if (window.KORJAUKSET) {
-    if (window.KORJAUKSET.find(o => o.jakso_id === jakso_id && o.r_idx === r_idx)) return { is_edited: true, saved: true };
+    const k = window.KORJAUKSET.find(o => o.jakso_id === jakso_id && o.r_idx === r_idx);
+    if (k) return { is_edited: true, saved: true, lisatty: k.tyyppi === 'lisays' };
   }
   return null;
 }
@@ -1115,7 +1172,7 @@ function updateStats() {
 }
 
 function updateSaveBtn() {
-  const n = Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.is_edited).length;
+  const n = Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.is_edited).length + NEW_RECS.length;
   document.getElementById('save-count').textContent = n;
 }
 
@@ -1194,7 +1251,8 @@ function renderList() {
       });
       if (!hasUnresolved) return false;
     } else if (mainView === 'corrected') {
-      const hasCorrection = jakso.suositukset.some(r => !!getCorr(jakso.jakso_id, r.r_idx));
+      const hasCorrection = jakso.suositukset.some(r => !!getCorr(jakso.jakso_id, r.r_idx))
+        || NEW_RECS.some(n => n.jakso_id === jakso.jakso_id);
       if (!hasCorrection) return false;
     }
 
@@ -1232,7 +1290,7 @@ function renderCard(jakso) {
   const showResolved = resolved && mainView === 'suspicious';
 
   return `
-<div class="episode-card${showResolved ? ' resolved' : ''}" id="card-${jakso.jakso_id}">
+<div class="episode-card${showResolved ? ' resolved' : ''}${openCards.has(jakso.jakso_id) ? ' open' : ''}" id="card-${jakso.jakso_id}">
   <div class="card-header" onclick="toggleCard('${jakso.jakso_id}')">
     <div class="episode-num">${jakso.j_idx || '?'}</div>
     <div class="episode-meta">
@@ -1287,6 +1345,7 @@ function renderCard(jakso) {
       ${jakso.suositukset
           .filter(r => mainView !== 'suspicious' || r.is_suspicious)
           .map(rec => renderRec(jakso, rec)).join('')}
+      ${mainView !== 'suspicious' ? renderNewRecs(jakso) : ''}
     </div>
   </div>
 </div>`;
@@ -1305,7 +1364,7 @@ function renderRec(jakso, rec) {
   return `
 <div class="rec-item${isEdited ? ' resolved-rec' : ''}${isSkipped ? ' skipped-rec' : ''}${isSuspicious && !isEdited && !isSkipped ? ' suspicious-border' : ''}" id="rec-${jakso.jakso_id}-${rec.r_idx}">
   <div class="rec-header">
-    <div class="rec-teos">${isEdited ? `<span class="badge badge-ok" style="margin-right:8px">Muokattu</span>` : ''}${escHtml(currentRec.teos)}</div>
+    <div class="rec-teos">${isEdited ? `<span class="badge ${c.lisatty ? 'badge-new' : 'badge-ok'}" style="margin-right:8px">${c.lisatty ? 'Lisätty' : 'Muokattu'}</span>` : ''}${escHtml(currentRec.teos)}</div>
     <div class="rec-category">${escHtml(currentRec.paakategoria)}</div>
   </div>
   
@@ -1362,6 +1421,8 @@ function renderRec(jakso, rec) {
 // =====================================================
 // INTERACTION / SCRIPT LOGIC
 // =====================================================
+const openCards = new Set();
+
 function toggleCard(jakso_id) {
   const card = document.getElementById('card-' + jakso_id);
   if (!card) return;
@@ -1369,7 +1430,8 @@ function toggleCard(jakso_id) {
   document.querySelectorAll('.episode-card.open').forEach(c => {
     if (c !== card) { c.classList.remove('open'); stopAudio(c.id.replace('card-', '')); }
   });
-  if (!isOpen) { card.classList.add('open'); } else { card.classList.remove('open'); stopAudio(jakso_id); }
+  openCards.clear();
+  if (!isOpen) { card.classList.add('open'); openCards.add(jakso_id); } else { card.classList.remove('open'); stopAudio(jakso_id); }
 }
 
 function togglePlay(jakso_id, url, startSek, durationSek) {
@@ -1493,6 +1555,134 @@ function undoCorr(jakso_id, r_idx) {
   refreshCardHeader(jakso_id);
 }
 
+// =====================================================
+// LISÄÄ SUOSITUS
+// =====================================================
+const PAAKATEGORIAT = ['kirja', 'elokuva', 'tv-sarja', 'podcast', 'artikkeli', 'musiikki', 'ruoka', 'kulttuuri', 'urheilu', 'muu'];
+
+function hakulinkki(teksti) {
+  return 'https://www.google.com/search?q=' + encodeURIComponent(teksti).replace(/%20/g, '+');
+}
+
+// Suosittelijavaihtoehdot: RSS-osallistujat + jakson nykyiset suosittelijat
+function jaksonSuosittelijat(jakso) {
+  const nimet = [...(jakso.rss_osallistujat || []), ...jakso.suositukset.map(r => r.suosittelija)];
+  return [...new Set(nimet.filter(n => n && n !== 'tuntematon'))];
+}
+
+function renderNewRecs(jakso) {
+  const id = jakso.jakso_id;
+  const jonossa = NEW_RECS.filter(n => n.jakso_id === id).map(n => `
+  <div class="rec-item new-rec">
+    <div class="rec-header">
+      <div class="rec-teos"><span class="badge badge-new" style="margin-right:8px">Uusi – tallentamatta</span>${escHtml(n.uusi_data.teos)}</div>
+      <div class="rec-category">${escHtml(n.uusi_data.paakategoria)}</div>
+    </div>
+    <div class="rec-kuvaus"><strong>${escHtml(n.uusi_data.suosittelija)}</strong>${n.uusi_data.kuvaus ? ' – ' + escHtml(n.uusi_data.kuvaus) : ''}</div>
+    <div class="rec-actions" style="justify-content: flex-end;">
+      <button class="action-btn btn-skip" onclick="poistaUusi(${n.tmp_id})">Poista</button>
+    </div>
+  </div>`).join('');
+
+  const nimet = jaksonSuosittelijat(jakso);
+  return `${jonossa}
+  <button class="add-rec-btn" id="add-btn-${id}" onclick="avaaLisays('${id}')">＋ Lisää suositus</button>
+  <div class="rec-item new-rec" id="add-form-${id}" style="display:none">
+    <div class="player-label">UUSI SUOSITUS</div>
+    <div class="edit-grid" style="display:grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 6px;">
+      <div>
+        <label class="player-label" style="font-size:0.6rem">TEOS *</label>
+        <input class="custom-input" style="width:100%" type="text" id="add-teos-${id}" placeholder="esim. Artemis Fowl -kirjasarja">
+      </div>
+      <div>
+        <label class="player-label" style="font-size:0.6rem">SUOSITTELIJA *</label>
+        <div style="display:flex; gap:4px">
+          <input class="custom-input" type="text" id="add-suo-${id}">
+          ${nimet.length > 0 ? `
+          <select class="custom-input" style="width:auto; padding: 2px" onchange="document.getElementById('add-suo-${id}').value=this.value">
+            <option value="">Valitse...</option>
+            ${nimet.map(p => `<option value="${escAttr(p)}">${escHtml(p)}</option>`).join('')}
+          </select>` : ''}
+        </div>
+      </div>
+      <div style="grid-column: span 2">
+        <label class="player-label" style="font-size:0.6rem">KUVAUS</label>
+        <textarea class="custom-input" id="add-kuvaus-${id}" style="width:100%; height: 60px; resize: vertical;"></textarea>
+      </div>
+      <div>
+        <label class="player-label" style="font-size:0.6rem">PÄÄKATEGORIA</label>
+        <select class="custom-input" style="width:100%" id="add-paak-${id}">
+          ${PAAKATEGORIAT.map(cat => `<option value="${cat}"${cat === 'muu' ? ' selected' : ''}>${cat}</option>`).join('')}
+        </select>
+      </div>
+      <div>
+        <label class="player-label" style="font-size:0.6rem">TÄGIT (pilkulla erotettu)</label>
+        <input class="custom-input" style="width:100%" type="text" id="add-tagit-${id}">
+      </div>
+      <div style="grid-column: span 2">
+        <label class="player-label" style="font-size:0.6rem">LISÄTIETOLINKKI (valinnainen – oletuksena Google-haku teoksen nimellä)</label>
+        <input class="custom-input" style="width:100%" type="url" id="add-linkki-${id}" placeholder="https://...">
+      </div>
+    </div>
+    <div class="rec-actions" style="margin-top: 12px; justify-content: flex-end;">
+      <button class="action-btn btn-skip" onclick="suljeLisays('${id}')">Peruuta</button>
+      <button class="action-btn btn-primary" onclick="lisaaUusi('${id}')">Lisää</button>
+    </div>
+  </div>`;
+}
+
+function avaaLisays(jakso_id) {
+  document.getElementById('add-form-' + jakso_id).style.display = 'block';
+  document.getElementById('add-btn-' + jakso_id).style.display = 'none';
+  document.getElementById('add-teos-' + jakso_id).focus();
+}
+
+function suljeLisays(jakso_id) {
+  document.getElementById('add-form-' + jakso_id).style.display = 'none';
+  document.getElementById('add-btn-' + jakso_id).style.display = 'block';
+}
+
+function lisaaUusi(jakso_id) {
+  const arvo = kentta => document.getElementById(`add-${kentta}-${jakso_id}`).value.trim();
+  const teos = arvo('teos');
+  const suosittelija = arvo('suo');
+  if (!teos || !suosittelija) {
+    showToast('⚠️ Teos ja suosittelija ovat pakollisia.', 3500);
+    return;
+  }
+  const google = hakulinkki(teos);
+  NEW_RECS.push({
+    tmp_id: ++newRecSeq,
+    jakso_id,
+    uusi_data: {
+      teos,
+      suosittelija,
+      kuvaus: arvo('kuvaus'),
+      paakategoria: arvo('paak'),
+      kategoriat: arvo('tagit').split(',').map(s => s.trim()).filter(s => s),
+      google_linkki: google,
+      lisatieto_linkki: arvo('linkki') || google,
+    }
+  });
+  updateSaveBtn();
+  refreshCard(jakso_id);
+  showToast(`➕ Lisätty tallennettavaksi: ${teos}`);
+}
+
+function poistaUusi(tmp_id) {
+  const n = NEW_RECS.find(x => x.tmp_id === tmp_id);
+  if (!n) return;
+  NEW_RECS = NEW_RECS.filter(x => x.tmp_id !== tmp_id);
+  updateSaveBtn();
+  refreshCard(n.jakso_id);
+}
+
+function refreshCard(jakso_id) {
+  const jakso = DATA.find(j => j.jakso_id === jakso_id);
+  const card = document.getElementById('card-' + jakso_id);
+  if (jakso && card) card.outerHTML = renderCard(jakso);
+}
+
 // NETLIFY API CALLS
 async function verifyCorrect(jakso_id, r_idx) {
   if (!confirm('Haluatko varmasti lisätä tämän pysyviin ohituksiin?')) return;
@@ -1595,6 +1785,20 @@ function saveChanges() {
           uusi_data: c.uusi_data
         });
       }
+    });
+  });
+
+  // Lisäykset: r_idx:n (paikan jakson lopussa) laskee tallennusfunktio
+  NEW_RECS.forEach(n => {
+    const jakso = (DATA_FULL || DATA).find(j => j.jakso_id === n.jakso_id);
+    corrections.push({
+      tyyppi: 'lisays',
+      jakso_id: n.jakso_id,
+      jakso_otsikko: jakso ? jakso.jakso_otsikko : '',
+      paivamaara: jakso ? jakso.paivamaara : '',
+      r_idx: null,
+      teos: n.uusi_data.teos,
+      uusi_data: n.uusi_data
     });
   });
 

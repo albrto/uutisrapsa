@@ -20,7 +20,7 @@ exports.handler = async (event, context) => {
     }
 
     const token = process.env.GITHUB_TOKEN;
-    const repo = 'albrto/uutisraportti-suosittelee';
+    const repo = 'albrto/uutisrapsa';
     const path = 'admin/korjaukset.json';
     
     if (!token) throw new Error('GITHUB_TOKEN puuttuu Netlifyn ympäristömuuttujista');
@@ -47,6 +47,36 @@ exports.handler = async (event, context) => {
       throw new Error(`Failed to fetch existing korjaukset.json: ${getRes.statusText}`);
     }
 
+    // Lisäykset ("Lisää suositus"): paikka (r_idx) lasketaan täällä eikä
+    // selaimessa, koska sivuston suositukset.json voi olla deployn verran
+    // jäljessä. Paikka = jakson loppu mainin suositukset.json:ssa, tai
+    // odottavien lisäysten perään, jos niitä ei ole vielä sovellettu.
+    const lisaykset = corrections.filter(k => k.tyyppi === 'lisays');
+    if (lisaykset.length > 0) {
+      const sRes = await fetch(`https://api.github.com/repos/${repo}/contents/suositukset.json`, {
+        headers: {
+          'Authorization': `token ${token}`,
+          // raw-muoto: contents-API:n JSON-vastaus ei kanna yli 1 Mt tiedostoja
+          'Accept': 'application/vnd.github.raw+json'
+        }
+      });
+      if (!sRes.ok) throw new Error(`suositukset.json lukeminen epäonnistui: ${sRes.statusText}`);
+      const suositukset = await sRes.json();
+      const seuraava = {};
+      for (const k of lisaykset) {
+        if (!(k.jakso_id in seuraava)) {
+          const jakso = suositukset.find(j => j.id === k.jakso_id);
+          if (!jakso) throw new Error(`Jaksoa ei löydy: ${k.jakso_id}`);
+          let paikka = (jakso.suositukset || []).length;
+          for (const o of currentList) {
+            if (o.tyyppi === 'lisays' && o.jakso_id === k.jakso_id) paikka = Math.max(paikka, o.r_idx + 1);
+          }
+          seuraava[k.jakso_id] = paikka;
+        }
+        k.r_idx = seuraava[k.jakso_id]++;
+      }
+    }
+
     // Yhdistä taulukot
     currentList = currentList.concat(corrections);
 
@@ -54,7 +84,7 @@ exports.handler = async (event, context) => {
     const newContent = Buffer.from(JSON.stringify(currentList, null, 2)).toString('base64');
     
     const putBody = {
-      message: `Tallenna ${corrections.length} korjausta iPadilta`,
+      message: `Tallenna ${corrections.length} korjausta admin-näkymästä`,
       content: newContent,
       branch: 'main'
     };
@@ -77,7 +107,7 @@ exports.handler = async (event, context) => {
 
     return {
       statusCode: 200,
-      body: JSON.stringify({ success: true, message: `Tallennettu ${corrections.length} korjausta` }),
+      body: JSON.stringify({ success: true, message: `Tallennettu ${corrections.length} korjausta`, tallennetut: corrections }),
     };
 
   } catch (error) {

@@ -53,7 +53,33 @@ def main():
             virhe += 1
             continue
 
-        suositukset = jakso.get("suositukset", [])
+        suositukset = jakso.setdefault("suositukset", [])
+
+        # Lisäys (admin-näkymän "Lisää suositus"): uusi suositus jakson loppuun.
+        # r_idx on paikka, jonka suositus saa — koko korjauslista ajetaan joka
+        # kerta uudelleen, joten jo lisätty (paikka täytetty) ohitetaan.
+        # Loppuun lisääminen ei siirrä muiden suositusten r_idx-viitteitä.
+        if korj.get("tyyppi") == "lisays":
+            if r_idx < len(suositukset):
+                continue
+            if r_idx > len(suositukset):
+                print(f"  ⚠️ Lisäyksen paikka {r_idx} ei ole jakson {jakso_id} lopussa ({len(suositukset)} suositusta) – OHITETAAN!")
+                virhe += 1
+                continue
+            uusi_data = korj["uusi_data"]
+            suositukset.append({
+                "teos": uusi_data["teos"],
+                "paakategoria": uusi_data.get("paakategoria", "muu"),
+                "google_linkki": uusi_data.get("google_linkki", ""),
+                "lisatieto_linkki": uusi_data.get("lisatieto_linkki", ""),
+                "kuvaus": uusi_data.get("kuvaus", ""),
+                "suosittelija": uusi_data.get("suosittelija", "tuntematon"),
+                "kategoriat": uusi_data.get("kategoriat", []),
+            })
+            print(f"  ➕ {korj.get('paivamaara', '?')}: Lisätty uusi suositus: \"{uusi_data['teos']}\"")
+            ok += 1
+            continue
+
         if r_idx >= len(suositukset):
             print(f"  ⚠️ Suositusindeksi {r_idx} ei löydy jaksosta {jakso_id}")
             virhe += 1
