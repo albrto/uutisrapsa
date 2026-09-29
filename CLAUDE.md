@@ -166,7 +166,6 @@ Old episodes were extracted with weaker prompts and contain many errors (missing
 
 Scoring signals (weights in `pisteyta`): 0 recs (+5, except MAISTIAISJAKSO and special episodes — vaaliraportti/eurovaalit minisarjat, reaktiocastit, Q&A, koosteet, USA-vaalispecialit, matched by `ERIKOISJAKSO`), each RSS participant with no rec (+3, +1 if the participant list is uncertain), same person with several recs while someone has none (+2, swap hint), non-participant/unknown recommender (+2 each, skipping `ohitukset`), ≥7 recs (+1), prior manual corrections (+1 each, max 3), episode older than the 25.8.2026 prompt (+1). It uses its own **stricter participant parser** (`poimi_osallistujat_tiukasti`: only names before the verb "X, Y ja Z keskustelevat", plus the "… kanssa" part; sentence split only on `[.!?]`+space so "HS:n" doesn't cut it; word boundaries so "Marko Junkkarin hiihtolomaillessa" isn't a participant; first name + different surname = guest, not the mapped regular). Calibration 27.9.2026: the "participant without rec" signal fires in 1/4 new-prompt episodes vs 60–75 % of older ones.
 
-**Known bug in the shared `scripts/nimet.py` `poimi_osallistujat_rss`** (used by production!): its `keskustelevat\s+([^.]+)` pattern reads the topic text after the verb, so e.g. "Teemu Luukan kirja" → Teemu Muhonen and "ilman Tuomas Peltomäkeä" → Tuomas become allowed participants in the extraction prompt. Not fixed yet.
 
 ### AI-assisted re-attribution (pipeline/korjaa_suosittelijat.py)
 
