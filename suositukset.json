@@ -10325,6 +10325,19 @@
     "paivamaara": "16.9.2022",
     "suositukset": [
       {
+        "teos": "Finns det en tystnadskultur i Göteborgs Stad?",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Finns+det+en+tystnadskultur+i+G%C3%B6teborgs+Stad+Anna+Ekstr%C3%B6m",
+        "lisatieto_linkki": "",
+        "kuvaus": "Marko suosittelee toimittaja Anna Ekströmin raporttia Göteborgin kaupungin sosiaalityöntekijöiden vaikenemiskulttuurista ja sosiaalitoimen vakavista ongelmista. Hänen mielestään se on tosi kiinnostava luettava.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "raportti",
+          "Ruotsi",
+          "sosiaalityö"
+        ]
+      },
+      {
         "teos": "Waste Lands: The True Story of Farm Country on Trial",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Waste+Lands+Corban+Addison",
@@ -10400,19 +10413,6 @@
         "kategoriat": [
           "tietokirja",
           "historia"
-        ]
-      },
-      {
-        "teos": "Finns det en tystnadskultur i Göteborgs Stad?",
-        "paakategoria": "artikkeli",
-        "google_linkki": "https://www.google.com/search?q=Finns+det+en+tystnadskultur+i+G%C3%B6teborgs+Stad+Anna+Ekstr%C3%B6m",
-        "lisatieto_linkki": "",
-        "kuvaus": "Marko suosittelee toimittaja Anna Ekströmin raporttia Göteborgin kaupungin sosiaalityöntekijöiden vaikenemiskulttuurista ja sosiaalitoimen vakavista ongelmista. Hänen mielestään se on tosi kiinnostava luettava.",
-        "suosittelija": "Marko Junkkari",
-        "kategoriat": [
-          "raportti",
-          "Ruotsi",
-          "sosiaalityö"
         ]
       }
     ]

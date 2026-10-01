@@ -20404,6 +20404,23 @@
         "r_idx": 0,
         "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
+        "teos": "Finns det en tystnadskultur i Göteborgs Stad?",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "raportti",
+          "Ruotsi",
+          "sosiaalityö"
+        ],
+        "kuvaus": "Marko suosittelee toimittaja Anna Ekströmin raporttia Göteborgin kaupungin sosiaalityöntekijöiden vaikenemiskulttuurista ja sosiaalitoimen vakavista ongelmista. Hänen mielestään se on tosi kiinnostava luettava.",
+        "google_linkki": "https://www.google.com/search?q=Finns+det+en+tystnadskultur+i+G%C3%B6teborgs+Stad+Anna+Ekstr%C3%B6m",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
         "teos": "Waste Lands: The True Story of Farm Country on Trial",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -20418,7 +20435,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 1,
+        "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Radionova 2004",
@@ -20435,7 +20452,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 2,
+        "r_idx": 3,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "House of the Dragon",
@@ -20452,7 +20469,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 3,
+        "r_idx": 4,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "HOTD – House of the Dragon Podcast (Bald Move)",
@@ -20469,7 +20486,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 4,
+        "r_idx": 5,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Energy: A Human History",
@@ -20486,7 +20503,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 5,
+        "r_idx": 6,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Making of the Atomic Bomb",
@@ -20498,23 +20515,6 @@
         "kuvaus": "Energy-kirjan yhteydessä Tuomas nostaa esiin myös Richard Rhodesin teoksen atomipommin synnystä ja kutsuu sitä parhaaksi koskaan kirjoitetuksi tietokirjaksi.",
         "google_linkki": "https://www.google.com/search?q=The+Making+of+the+Atomic+Bomb+Richard+Rhodes",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Making+of+the+Atomic+Bomb",
-        "alkupera": "",
-        "lisalinkit": []
-      },
-      {
-        "r_idx": 6,
-        "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
-        "teos": "Finns det en tystnadskultur i Göteborgs Stad?",
-        "paakategoria": "artikkeli",
-        "kategoriat": [
-          "raportti",
-          "Ruotsi",
-          "sosiaalityö"
-        ],
-        "kuvaus": "Marko suosittelee toimittaja Anna Ekströmin raporttia Göteborgin kaupungin sosiaalityöntekijöiden vaikenemiskulttuurista ja sosiaalitoimen vakavista ongelmista. Hänen mielestään se on tosi kiinnostava luettava.",
-        "google_linkki": "https://www.google.com/search?q=Finns+det+en+tystnadskultur+i+G%C3%B6teborgs+Stad+Anna+Ekstr%C3%B6m",
-        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": []
       }
