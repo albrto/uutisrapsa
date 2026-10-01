@@ -24234,7 +24234,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Rikos ja rangaistus (Q-teatteri)",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -24242,7 +24242,7 @@ window.VALIDATION_DATA = [
           "filosofia",
           "klassikko"
         ],
-        "kuvaus": "Q-teatterin näytelmä Dostojevskin romaanin pohjalta. Suosittelija kuvaa sitä filosofisesti syvälliseksi ja erinomaisesti toteutetuksi – yksi parhaista teatterikokemuksista.",
+        "kuvaus": "Q-teatterin näytelmä Dostojevskin romaanin pohjalta, siirrettynä kesäiseen Helsinkiin. Salla kehuu sitä filosofisesti syvälliseksi ja hienovaraisesti toteutetuksi – yhdeksi parhaista teatterikokemuksistaan.",
         "google_linkki": "https://www.google.com/search?q=Q-teatteri+Rikos+ja+rangaistus",
         "lisatieto_linkki": "https://www.q-teatteri.fi/",
         "alkupera": "",
@@ -24262,6 +24262,22 @@ window.VALIDATION_DATA = [
         "kuvaus": "Netflixin animaatiosarja, joka perustuu League of Legends -peliin. Suosittelija kehuu sitä yhdeksi parhaimmista animaatioista ikinä – tyylikkääksi, koukuttavaksi ja erinomaisesti ohjatuksi.",
         "google_linkki": "https://www.google.com/search?q=Arcane+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Arcane",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Veera Paananen",
+        "teos": "Salpausselän kisat – hiihtoa paikan päällä",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "hiihto",
+          "tapahtuma"
+        ],
+        "kuvaus": "Veera kehottaa menemään katsomaan hiihtoa livenä Lahden Salpausselän kisoihin, kun Iivo Niskanen ja muut vielä hiihtävät. Hän seurasi koko Trondheimin MM-kisojen kansanjuhlan ja vakuuttaa, että paikan päällä se on sen arvoista.",
+        "google_linkki": "https://www.google.com/search?q=Salpausselän+kisat",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": []
       }
@@ -28309,7 +28325,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "Something from Nothing – Alison Roman",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -28317,7 +28333,7 @@ window.VALIDATION_DATA = [
           "ruoanlaitto",
           "amerikkalainen keittiö"
         ],
-        "kuvaus": "Alison Romanin uusi keittokirja, jossa hyödynnetään ruokakomeron perusraaka-aineita kuten säilykkeitä, öljyjä ja papuja. Reseptit ovat klassisia mutta monipuolisia – pastoja, juutalaisvaikutteisia ruokia ja aasialaisia makuja.",
+        "kuvaus": "Alison Romanin uusi keittokirja, jossa hyödynnetään ruokakomeron perusraaka-aineita, kuten säilykkeitä, öljyjä ja papuja. Sohvi on tehnyt siitä kymmenkunta reseptiä ja kehuu niitä helpoiksi mutta erinomaisiksi.",
         "google_linkki": "https://www.google.com/search?q=Something+from+Nothing+Alison+Roman+keittokirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Something+from+Nothing+Alison+Roman",
         "alkupera": "",
@@ -28371,6 +28387,22 @@ window.VALIDATION_DATA = [
         "kuvaus": "Salla Vuorikoski aikoo matkustaa Milano-Cortina 2026 -talviolympialaisiin helmikuussa ja seurata erityisesti hiihtokisoja. Hänellä on jo liput hankittuna.",
         "google_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+talviolympialaiset",
         "lisatieto_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+talviolympialaiset",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Liikkuminen uudenvuodenlupauksena",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "liikunta",
+          "uusivuosi"
+        ],
+        "kuvaus": "Raskaan syksyn jälkeen Tuomas on aloittanut oman kuntoutusohjelmansa: painia pienen porukan kanssa, lenkkejä ja treenejä autotallin kuntosalilla.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": []
       }

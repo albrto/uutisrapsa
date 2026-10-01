@@ -2145,8 +2145,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Something+from+Nothing+Alison+Roman+keittokirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Something+from+Nothing+Alison+Roman",
-        "kuvaus": "Alison Romanin uusi keittokirja, jossa hyödynnetään ruokakomeron perusraaka-aineita kuten säilykkeitä, öljyjä ja papuja. Reseptit ovat klassisia mutta monipuolisia – pastoja, juutalaisvaikutteisia ruokia ja aasialaisia makuja.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Alison Romanin uusi keittokirja, jossa hyödynnetään ruokakomeron perusraaka-aineita, kuten säilykkeitä, öljyjä ja papuja. Sohvi on tehnyt siitä kymmenkunta reseptiä ja kehuu niitä helpoiksi mutta erinomaisiksi.",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "keittokirja",
           "ruoanlaitto",
@@ -2190,6 +2190,18 @@
           "hiihto",
           "olympialaiset",
           "talviurheilu"
+        ]
+      },
+      {
+        "teos": "Liikkuminen uudenvuodenlupauksena",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Raskaan syksyn jälkeen Tuomas on aloittanut oman kuntoutusohjelmansa: painia pienen porukan kanssa, lenkkejä ja treenejä autotallin kuntosalilla.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "liikunta",
+          "uusivuosi"
         ]
       }
     ]
@@ -4370,8 +4382,8 @@
         "paakategoria": "kulttuuri",
         "google_linkki": "https://www.google.com/search?q=Q-teatteri+Rikos+ja+rangaistus",
         "lisatieto_linkki": "https://www.q-teatteri.fi/",
-        "kuvaus": "Q-teatterin näytelmä Dostojevskin romaanin pohjalta. Suosittelija kuvaa sitä filosofisesti syvälliseksi ja erinomaisesti toteutetuksi – yksi parhaista teatterikokemuksista.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Q-teatterin näytelmä Dostojevskin romaanin pohjalta, siirrettynä kesäiseen Helsinkiin. Salla kehuu sitä filosofisesti syvälliseksi ja hienovaraisesti toteutetuksi – yhdeksi parhaista teatterikokemuksistaan.",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "teatteri",
           "filosofia",
@@ -4389,6 +4401,18 @@
           "animaatio",
           "fantasia",
           "steampunk"
+        ]
+      },
+      {
+        "teos": "Salpausselän kisat – hiihtoa paikan päällä",
+        "paakategoria": "urheilu",
+        "google_linkki": "https://www.google.com/search?q=Salpausselän+kisat",
+        "lisatieto_linkki": "",
+        "kuvaus": "Veera kehottaa menemään katsomaan hiihtoa livenä Lahden Salpausselän kisoihin, kun Iivo Niskanen ja muut vielä hiihtävät. Hän seurasi koko Trondheimin MM-kisojen kansanjuhlan ja vakuuttaa, että paikan päällä se on sen arvoista.",
+        "suosittelija": "Veera Paananen",
+        "kategoriat": [
+          "hiihto",
+          "tapahtuma"
         ]
       }
     ]
