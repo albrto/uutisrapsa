@@ -96,5 +96,13 @@ jobs:
             echo "Ei muutoksia commitattavaksi."
           else
             git commit -m "Automaatio: Päivitetty suositukset ja muutosloki"
-            git push
+            # main voi liikkua ajon aikana (esim. käsin tehty push käynnistää
+            # muutoslokin, joka ei ole samassa jonossa): haetaan väliin tulleet
+            # muutokset ja yritetään uudelleen (1.10.2026)
+            for yritys in 1 2 3; do
+              git push && exit 0
+              echo "Push hylättiin (yritys $yritys/3) — haetaan uudet muutokset..."
+              git pull --rebase origin main || exit 1
+            done
+            exit 1
           fi
