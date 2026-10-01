@@ -853,7 +853,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/74cda0f1-8dd9-49d3-a524-0335c3548bda.mp3",
     "kesto_sek": 2494,
     "kesto_str": "41:34",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Heini Pitkänen",
+      "Joona Aaltonen",
+      "Jukka Huusko"
+    ],
     "rss_kuvaus": "Tämän viikon hieman tavallista lyhyemmässä podcastissa Joona, Heini ja vieraileva tähti Jukka käyvät läpi valtiovarainministeriön pohjaesitystä ensi vuoden budjetiksi, joka on jäämässä 12,2 miljardia alijäämäiseksi. Tämän viikon henkinen pääaihe on kuitenkin Lähi-idän tulenarka tilanne ja Hizbollahin kostoisku-uhkaukset.",
     "suositukset": [
       {
@@ -2108,6 +2112,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:06:46",
     "rss_osallistujat": [
       "Alli Hallonblad",
+      "Jaakko Muilu",
       "Joakim Westrén-Doll",
       "Venla Kuokkanen"
     ],
@@ -3392,7 +3397,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/df01fe48-0608-4082-82a2-fc0e764c750b.mp3",
     "kesto_sek": 4444,
     "kesto_str": "01:14:04",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon Uutisraportti podcastissa aiheina Yhdysvaltojen toimiin liittyvät pelot ja paranoiat, KGB:n rooli Trumpin elämässä ja muut foliohattuteoriat, Euroopan tilanne ja tulevaisuus ja mahdolliset toimet Naton luhistuessa kasaan, ja lopuksi vielä Risto Murron esittelemä kasvutyöryhmän loppuraportti ja sen ehdotukset.</p><p>Tämän viikon jaksossa Tuomas, Marko ja Sohvi.</p>",
     "suositukset": [
       {
@@ -4536,7 +4545,12 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/918fa3a1-5a9e-4e0d-a497-8b2e791144ff.mp3",
     "kesto_sek": 4158,
     "kesto_str": "01:09:18",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Pauliina Siniauer",
+      "Salla Vuorikoski",
+      "Sami Sillanpää"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Salla, Marko sekä vierailevina staroina feature-toimittaja Pauliina Siniauer ja HS:n entinen Kiinan-kirjeenvaihtaja Sami Sillanpää. </p><p>Podcastissa yritetään saada tolkkua siitä, millaisista kurinpitomenettelyistä hallitus alkuviikon Keskisarja-kriisikokouksessaan päätti ja oliko kaikki vain teatteria kansalle. Keskustellaan myös siitä, millaisissa oloissa ulkomaalai",
     "suositukset": [
       {
@@ -4591,7 +4605,7 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 3,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Ovi oli koko ajan auki",
         "paakategoria": "artikkeli",
@@ -5601,8 +5615,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
       "Marko Junkkari",
-      "Salla Vuorikoski",
-      "Tuomas Peltomäki"
+      "Salla Vuorikoski"
     ],
     "rss_kuvaus": "Tämän viikon jaksossa otetaan vastaan kirje sadan vuoden takaa, puhutaan presidentinvaaleista ja säästetään sähköä. Studiossa Salla Vuorikoski, Marko Junkkari ja Anni Keski-Heikkilä.\nJakson leikkasi Janne Elkki.\n\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uutisraporttipod.\n\nLue podcastista lisää tästä jutusta: www.hs.fi/nyt/art-2000002918658.html\n\nTämän podcastin tuottaa T",
     "suositukset": [
@@ -6735,7 +6748,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "suosittelija": "Hanna Mahlamäki",
-        "teos": "It's You, Not Me – Lily Allen",
+        "teos": "West End Girl – Lily Allen",
         "paakategoria": "musiikki",
         "kategoriat": [
           "pop",
@@ -6743,8 +6756,8 @@ window.VALIDATION_DATA = [
           "breakup-albumi"
         ],
         "kuvaus": "Lily Allenin uusi levy, joka kertoo kronologisesti pieleen menneen avoimen suhteen tarinan. Ihanan kevyttä ja kaunista brittipoppia asenteella.",
-        "google_linkki": "https://www.google.com/search?q=Lily+Allen+It%27s+You+Not+Me+albumi",
-        "lisatieto_linkki": "https://open.spotify.com/search/Lily%20Allen%20It%27s%20You%20Not%20Me",
+        "google_linkki": "https://www.google.com/search?q=West+End+Girl+Lily+Allen",
+        "lisatieto_linkki": "https://open.spotify.com/search/West%20End%20Girl%20Lily%20Allen",
         "alkupera": "",
         "lisalinkit": []
       },
@@ -6752,7 +6765,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "suosittelija": "Toni Lehtinen",
-        "teos": "Oikeusmurha – Rami Näkinen & Matti Rämö",
+        "teos": "Oikeusmurha – Rami Mäkinen & Matti Rämö",
         "paakategoria": "kirja",
         "kategoriat": [
           "tietokirja",
@@ -6760,8 +6773,8 @@ window.VALIDATION_DATA = [
           "rikoskirjallisuus"
         ],
         "kuvaus": "Perinpohjainen tietokirja Auerin seksuaalirikostapauksesta. Hyvin kirjoitettu ja neutraali – asiat puhuvat puolestaan ilman tunnekohkaamista.",
-        "google_linkki": "https://www.google.com/search?q=Oikeusmurha+Rami+N%C3%A4kinen+Matti+R%C3%A4m%C3%B6",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Oikeusmurha+N%C3%A4kinen+R%C3%A4m%C3%B6",
+        "google_linkki": "https://www.google.com/search?q=Oikeusmurha+Rami+M%C3%A4kinen+Matti+R%C3%A4m%C3%B6",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Oikeusmurha+Rami+M%C3%A4kinen+Matti+R%C3%A4m%C3%B6",
         "alkupera": "",
         "lisalinkit": []
       },
@@ -7260,7 +7273,12 @@ window.VALIDATION_DATA = [
     "audio_url": "https://podcasts.captivate.fm/media/5852c7b7-dd3e-4efd-8363-0a6c30e67644/URPOD-25-04-03.mp3",
     "kesto_sek": 4463,
     "kesto_str": "01:14:23",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Niskakangas"
+    ],
     "rss_kuvaus": "<p>Marko, Salla ja Sohvi saavat vieraakseen taloustoimittaja Tuomas Niskakankaan, joka selittää millä ala-astetasoisella kaavalla Donald Trumpin tullit on eri maille määritelty. Lisäksi keskustellaan siitä Suomen ilmoituksesta Ottawan miinasopimuksesta irtoamisesta ja puolustusmäärärahojen kolmen miljardin nostoa. Lopuksi puhutaan siitä, miten kunta- ja aluevaalikuume nousee ja puidaan vaalitentte",
     "suositukset": [
       {
@@ -8183,7 +8201,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://podcasts.captivate.fm/media/887bbdd0-8d0f-48ed-a4b7-f7d24de34fc4/672766730-uutisraportti-2982019-porvoon-poliisiampumiset-boris.mp3",
     "kesto_sek": 4229,
     "kesto_str": "01:10:29",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuija Siltamäki",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tuomas ja Marko palaavat studioon yhdessä Tuijan kanssa keskustellakseen Porvoon poliisiampumisista, mediamylläkästä ja persumylläkästä niiden ympärillä, Maria Ohisalon haastattelusta ja Boris Johnsonin laukaisemasta perustuslaillisesta kriisistä Britanniasta, kun hän antoi kenkää koko parlamentille, sekä keskustan puheenjohtajakisasta mutta tämä keskustelu lähti vähän raiteiltaan.",
     "suositukset": [
       {
@@ -8431,6 +8453,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:06:41",
     "rss_osallistujat": [
       "Anna-Sofia Berner",
+      "Anu-Elina Lehti",
       "Salla Vuorikoski"
     ],
     "rss_kuvaus": "<p>Tällä viikolla podcastissa kuullaan, miltä Venäjän moukarointi ihan konkreettisesti tuntui yöllä kiovalaisessa kerrostalossa. Keskustellaan myös kohukirjasta, joka valottaa Joe Bidenin sairauden piilottelua hänen presidenttikautensa lopussa. Lisäksi käväistään boomer-osastolla fiilistelemässä ylioppilaskirjoituksia ja Anu-Elina kertoo, miksi hän päätti haastaa poikansa äikän kirjoituksissa. Stu",
@@ -8498,6 +8521,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:23:08",
     "rss_osallistujat": [
       "Salla Vuorikoski",
+      "Susanna Reinboth",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski ja oikeustoimittaja Susanne Reinboth keskustelevat vihreiden puheenjohtaja Sofia Virran ja sosiaali- ja terveysministeri Wille Rydmanin ryöpsähtäneestä biiffaamisesta A-studiossa, mutta myös niistä itse aiheista joista biiffi lähti. Lisäksi aiheena täydellinen ruumiinavaus sille oikeusjärjestelmän epäonnistumiselle, joka on tapaus Anneli ",
@@ -8834,6 +8858,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "55:18",
     "rss_osallistujat": [
       "Anna-Sofia Berner",
+      "Laura Saarikoski",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -10680,7 +10705,9 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4441,
     "kesto_str": "01:14:01",
     "rss_osallistujat": [
-      "Inkeri Harju"
+      "Inkeri Harju",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
     ],
     "rss_kuvaus": "<p>Salla, Marko ja HS:n audio- ja sometoimittaja Inkeri Harju äimistelevät Trumpin hallinnon Signal-viestisekoilua. Myös keskustellaan siitä, onko Petteri Orpo tehnyt valtavan mokan luvatessaan julkistaa sote-säästölistan ennen vaaleja. Onko kaikki vain pelinpolitiikkaa? Lopuksi tunnetaan syyllisyyttä ja opitaan käsittämättömiä asioita lemmikkien maailmasta.</p>",
     "suositukset": [
@@ -12177,6 +12204,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 3752,
     "kesto_str": "01:02:32",
     "rss_osallistujat": [
+      "Annikka Mutanen",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -12226,7 +12254,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/ed1dc39a-53c9-4106-8765-48e0aed2387a.mp3",
     "kesto_sek": 3208,
     "kesto_str": "53:28",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Marko ja Maria huilivat ajankohtaisaiheista ja vastailevat kuuntelijoiden postiin.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki vuosien  a",
     "suositukset": [
       {
@@ -12325,7 +12357,7 @@ window.VALIDATION_DATA = [
           "yhdysvallat",
           "demokratia"
         ],
-        "kuvaus": "Demokraattistrategien, muun muassa kuuluisan James Carvillen, pitämä podcast, jossa käydään läpi amerikkalaista politiikkaa ja kritisoidaan woke-kulttuuria. Suosittelija kutsuu sitä kotona 'patupodcastiksi'.",
+        "kuvaus": "Demokraattistrategien, muun muassa kuuluisan James Carvillen, pitämä podcast, jossa käydään läpi amerikkalaista politiikkaa ja kritisoidaan woke-kulttuuria. Sohvi kutsuu sitä kotona 'patupodcastiksi'.",
         "google_linkki": "https://www.google.com/search?q=Politics+War+Room+podcast+James+Carville",
         "lisatieto_linkki": "https://open.spotify.com/search/Politics%20War%20Room",
         "alkupera": "ulkomainen",
@@ -12695,7 +12727,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/0e06ae90-7df3-499a-8705-571395385d70.mp3",
     "kesto_sek": 3601,
     "kesto_str": "01:00:01",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Heini Pitkänen",
+      "Oskari Eronen",
+      "Rasmus Helaniemi"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Heini, Rasmus ja Oskari syväluotaavat Yhdysvaltain presidentinvaalien tuoreimmat käänteet, kun Kamala Harris valmistelee puolue-eliitin ja meemivideoiden tuella astumista Joe Bidenin hylkäämiin ehdokassaappaisiin. Jenkkitykityksen lisäksi pohditaan, kuka poimisi mustikat Suomen metsistä, kun thaimaalaispoimijoille on annettu porttikielto. Puhetta myös japanilaisten seksitt",
     "suositukset": [
       {
@@ -13372,6 +13408,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "John Helin",
       "Pihla Saravirta",
+      "Teija Sutinen",
       "Tuija Siltamäki"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee eduskuntakäsittelyyn edenneestä Garden Helsinki -kriisistä, jonka laajuus tuli todennäköisesti Kokoomukselle täytenä yllätyksenä.</p><p>Politiikan lisäksi studiossa puhutaan myös Helsingin sinkkunaisten vaikeudesta löytää itselleen hyviä miehiä, sekä Christopher Nolanin juuri julkaistun Odysseia-elokuvan ympärillä vellovista kulttuuri",
@@ -13706,6 +13743,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Anna-Sofia Berner",
       "Salla Vuorikoski",
+      "Teemu Muhonen",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Anna-Sofia Berner, Tuomas Peltomäki ja Salla Vuorikoski saavat vieraakseen Teemu Muhosen, sillä keskustellaan hallituksen kehysriihestä. Lopuksi aiheena vielä CNN:n selvitys, jonka mukaan ranskalaisen Gisele Pelicot’n kokema kohtalo ei ehkä ollutkaan niin ainutkertainen kuin olisi voinut kuvitella.</p>",
@@ -14509,7 +14547,12 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/b783f15e-80c8-4b72-ad34-1707669eb4ca.mp3",
     "kesto_sek": 4003,
     "kesto_str": "01:06:43",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Heini Pitkänen",
+      "Joona Aaltonen",
+      "Oskari Eronen",
+      "Rasmus Helaniemi"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Joona, Heini, Rasmus ja Oskari käyvät läpi sisäministerin yllättävää vaihtumista, kun Mari Rantasen (ps) tilalle astuu väliaikaisesti puoluetoveri Lulu Ranne.  Tämän jälkeen puhutaan vielä työ- ja elinkeinoministeriön hallitusneuvoksen viulukaupoista sekä sähköpotkulaudoilla hurjastelusta.",
     "suositukset": [
       {
@@ -14582,7 +14625,7 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 4,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Marko Junkkari",
         "teos": "Väkivallan historia",
         "paakategoria": "kirja",
@@ -15436,8 +15479,7 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Jaakko Lyytinen",
       "Maria Manner",
-      "Marko Junkkari",
-      "Tuomas Peltomäki"
+      "Marko Junkkari"
     ],
     "rss_kuvaus": "Tällä viikolla studiossa Maria Manner ja Jaakko Lyytinen. Etänä jostakin Pohjanmaan perukoilta mukana Marko Junkkari. Poissa edelleen Tuomas Peltomäki, joka rakentaa taloa idolinsa Matti Vanhasen innoittamana.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mu",
     "suositukset": [
@@ -16986,6 +17028,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4400,
     "kesto_str": "01:13:20",
     "rss_osallistujat": [
+      "Jarno Liski",
       "John Helin",
       "Pihla Saravirta",
       "Tuija Siltamäki"
@@ -17914,7 +17957,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Balanssın anatomia",
+        "teos": "Balanssin anatomia",
         "paakategoria": "podcast",
         "kategoriat": [
           "hyvinvointi",
@@ -17922,7 +17965,7 @@ window.VALIDATION_DATA = [
           "elämäntavat"
         ],
         "kuvaus": "Tamperelaisen Karoliina Pentikäisen podcast-sarja, jossa käsitellään muun muassa alkoholinkäyttöä, siitä pidättäytymistä ja elämän tasapainoa. Jakso on kuunneltavissa äänikirjapalveluissa.",
-        "google_linkki": "https://www.google.com/search?q=Balanssın+anatomia+podcast+Karoliina+Pentikäinen",
+        "google_linkki": "https://www.google.com/search?q=Balanssin+anatomia+podcast+Karoliina+Pentik%C3%A4inen",
         "lisatieto_linkki": "https://open.spotify.com/search/Balanssin%20anatomia",
         "alkupera": "kotimainen",
         "lisalinkit": []
@@ -18023,6 +18066,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 3384,
     "kesto_str": "56:24",
     "rss_osallistujat": [
+      "Heikki Aittokoski",
       "Maria Manner",
       "Marko Junkkari"
     ],
@@ -19032,7 +19076,8 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "John Helin",
       "Marko Junkkari",
-      "Salla Vuorikoski"
+      "Salla Vuorikoski",
+      "Veli-Pekka Lehtonen"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastissa keskustellaan vihreiden puheenjohtajan, kansanedustaja Sofia Virran huutoa aiheuttaneesta tosi-tv-keikasta ja ministeri Wille Rydmanin (ps) järjestöleikkurista. Lisäksi studioon saapuu entistä kauniimpi mies.</p><p>Podissa mukana ovat Salla Vuorikoski, Marko Junkkari, John Helin ja Veli-Pekka ”Vepsu” Lehtonen.</p>",
     "suositukset": [
@@ -19438,7 +19483,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://podcasts.captivate.fm/media/f3103293-ad57-4219-9580-057248df60c6/988040050-uutisraportti-1822021-kuulijapalautteita-ja-kysymyksi.mp3",
     "kesto_sek": 3299,
     "kesto_str": "54:59",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Marko ja Maria hulivat ajankohtaisaiheista ja vastailevat kuuntelijoiden postiin.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki vuosien  a",
     "suositukset": [
       {
@@ -19513,7 +19562,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
-        "teos": "Mississippi Blue 61",
+        "teos": "Mississippi Blue 42 – Eli Cranor",
         "paakategoria": "kirja",
         "kategoriat": [
           "dekkari",
@@ -19521,8 +19570,8 @@ window.VALIDATION_DATA = [
           "urheilu"
         ],
         "kuvaus": "Dekkari, joka sijoittuu amerikkalaisen jalkapallon yliopistosarjoihin. Todella hienosti kirjoitettu – suositellaan jenkkifutis- ja dekkariystäville.",
-        "google_linkki": "https://www.google.com/search?q=Mississippi+Blue+61+Eli+Greiner",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mississippi+Blue+61",
+        "google_linkki": "https://www.google.com/search?q=Mississippi+Blue+42+Eli+Cranor",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mississippi+Blue+42+Eli+Cranor",
         "alkupera": "",
         "lisalinkit": []
       },
@@ -20484,6 +20533,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4266,
     "kesto_str": "01:11:06",
     "rss_osallistujat": [
+      "Emilia Noschis",
       "John Helin",
       "Pihla Saravirta",
       "Topi Kosunen"
@@ -20736,6 +20786,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4616,
     "kesto_str": "01:16:56",
     "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
     ],
@@ -21462,7 +21513,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/bab18d0f-afde-48a7-8012-0d716ddc4604.mp3",
     "kesto_sek": 3926,
     "kesto_str": "01:05:26",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Heini Pitkänen",
+      "Oskari Eronen",
+      "Rasmus Helaniemi"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Heini, Rasmus ja Oskari käyvät läpi hyvinvointialueiden pomojen edesottamuksia.\n\nViimeisimmässä käänteessä Kainuun hyvinvointialueen johtajan kesäkuinen ero johti poliittiseen kriisiin, jonka jälkimainingeissa laineita ovat lyöneet muun muassa perusteetta salattu muistio sekä erimielisyydet eroprosessin syistä ja kulusta.\n\nLisäksi paneudutaan Ukrainan historialliseen hyökk",
     "suositukset": [
       {
@@ -21646,6 +21701,8 @@ window.VALIDATION_DATA = [
     "kesto_sek": 3055,
     "kesto_str": "50:55",
     "rss_osallistujat": [
+      "Emil Elo",
+      "Niclas Storås",
       "Sara Vainio"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Emil, Sara Vainio ja Niclas\nStorås keskustelevat Kuubasta, EU:n ilmastopaketista ja marjanpoimijoista sekä\nulkomaisen työvoiman työoloista Suomessa. Uutisraportti podcast on Helsingin Sanomien\njulkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon\ntärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä\ntavoin kuten ihmiset niistä",
@@ -21765,7 +21822,6 @@ window.VALIDATION_DATA = [
     "rss_osallistujat": [
       "Anna-Sofia Berner",
       "Anni Huttunen",
-      "Anni Keski-Heikkilä",
       "Marko Junkkari"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa keskustellaan Gazan epätoivoisesta humanitaarisesta tilanteesta, sodan jatkosta ja siitä, mitä ulkomaailma voi tehdä siviilien hädän helpottamiseksi. Miksi sota Gazassa on medialle vaikeampi aihe kuin sota Ukrainassa?</p><p>Lisäksi aiheena on Suomen datakeskusbuumi ja se, miksi perussuomalaiset ministerit epäilevät Tiktokin datakeskushanketta. Mikä oikeastaan on datakeskus",
@@ -22151,7 +22207,9 @@ window.VALIDATION_DATA = [
     "kesto_sek": 5155,
     "kesto_str": "01:25:55",
     "rss_osallistujat": [
-      "Petja Pelli"
+      "Petja Pelli",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Salla ja Petja Pelli saavat nauttia Suomen keskeisimmän Sanna Marin -asiantuntijan eli Salla Vuorikosken freudilaishenkisistä syväanalyyseista, kun ex-pm on jälleen ponkaissut otsikoihin Suomessa; ja lisäksi puhutaan kuohunnasta Suomen vesivarantojen ympärillä, ollaanko niitä kauppaamassa kiinaan vai ei HÄH KOKOOMUS???; ja lopuksi perustuslakioppineiden ilmiselv",
     "suositukset": [
@@ -22606,7 +22664,7 @@ window.VALIDATION_DATA = [
           "ruoka",
           "muistelmat"
         ],
-        "kuvaus": "Joosef Wahbergin vuonna 1953 ilmestynyt teos, joka käy läpi Euroopan historiaa ja sota-aikoja ruokamuistojen kautta. Kuulijasuosittelija Eveliina Paljärven mukaan sekä historian- että kulinaristin mestariteos – suositellaan luettavaksi vain juuri syöneenä.",
+        "kuvaus": "Joseph Wechsbergin vuonna 1953 ilmestynyt teos, joka käy läpi Euroopan historiaa ja sota-aikoja ruokamuistojen kautta. Kuulijasuosittelija Eveliina Paljärven mukaan sekä historian- että kulinaristin mestariteos – suositellaan luettavaksi vain juuri syöneenä.",
         "google_linkki": "https://www.google.com/search?q=Herkkusuun+kasvatus+Joosef+Wahberg",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Herkkusuun+kasvatus+Wahberg",
         "alkupera": "",
@@ -23582,7 +23640,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/7fdb72cf-81c9-4642-aef2-3f926c6d2e31.mp3",
     "kesto_sek": 4681,
     "kesto_str": "01:18:01",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Anni Keski-Heikkilä",
+      "Salla Vuorikoski"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Anni, Salla ja Sohvi käyvät läpi vaalien jälkeiset tunnelmat niin pettyneissä perussuomalaisissa ja Sdp:ssä kuin iloitsevissa kokoomuksessa ja vasemmistoliitossa. Lisäksi he käyvät läpi tällä viikolla puhuttaneet mielenosoitukset eli Elokapinan ja Helsingin yliopiston Palestiina-mielenosoituksen sekä puhuvat Donald Trumpista, joka on jatkanut tuomionsa jälkeen presidentinv",
     "suositukset": [
       {
@@ -23665,6 +23727,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:20:42",
     "rss_osallistujat": [
       "Hanna Mahlamäki",
+      "Juuso Määttänen",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
     ],
@@ -23810,16 +23873,16 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "suosittelija": "Tommi Nieminen",
-        "teos": "Karppoolaan asia – Christian Smeds / Kansallisteatteri",
+        "teos": "Karpolla on asiaa – Kristian Smeds / Kansallisteatteri",
         "paakategoria": "kulttuuri",
         "kategoriat": [
           "teatteri",
           "journalismi",
           "dokumentaarinen"
         ],
-        "kuvaus": "Teatteriohjaaja Christian Smedsin teos Kansallisteatterissa, joka käsittelee suomalaisen journalismin ikonin Hannu Karpon perintöä. Suosittelija kuvailee sitä mahdollisesti elämää muuttavaksi kokemukseksi.",
-        "google_linkki": "https://www.google.com/search?q=Karppoolaan+asia+Christian+Smeds+Kansallisteatteri",
-        "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
+        "kuvaus": "Teatteriohjaaja Kristian Smedsin näytelmä Kansallisteatterissa, joka käsittelee suomalaisen journalismin ikonin Hannu Karpon perintöä. Tommi kuvailee sitä mahdollisesti elämää muuttavaksi kokemukseksi.",
+        "google_linkki": "https://www.google.com/search?q=Karpolla+on+asiaa+Kristian+Smeds+Kansallisteatteri",
+        "lisatieto_linkki": "https://www.kansallisteatteri.fi/esitys/karpolla-asiaa",
         "alkupera": "",
         "lisalinkit": []
       },
@@ -23834,7 +23897,7 @@ window.VALIDATION_DATA = [
           "autismi",
           "suomalainen"
         ],
-        "kuvaus": "Yle Areenan sarja, joka kertoo autismin kirjolla elävien ihmisten arjesta. Suosittelija kehuu sarjaa erinomaiseksi ja kertoo olevansa puolivälissä.",
+        "kuvaus": "Yle Areenan sarja, joka kertoo autismin kirjolla elävien ihmisten arjesta. Anni kehuu sarjaa erinomaiseksi ja kertoo olevansa puolivälissä.",
         "google_linkki": "https://www.google.com/search?q=Kirjolla+Yle+Areena+sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kirjolla",
         "alkupera": "",
@@ -23884,7 +23947,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://podcasts.captivate.fm/media/84297b9a-60ef-4927-98d6-360eac790416/URPOD-25-03-13-v2.mp3",
     "kesto_sek": 5560,
     "kesto_str": "01:32:40",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki",
+      "Veera Paananen"
+    ],
     "rss_kuvaus": "<p>Tämän viikon aiheena alue- ja kuntavaalien outo tilanne poliittisesti, kun puolueet eivät oikein pyri hakemaan eroja toisiinsa, ja toisaalta lupaukset eivät välttämättä edes pidä. Lisäksi pitkällinen pohdinta jälkikirjoituksineen koronapandemian vaikutuksista Suomeen ja Salla kertoo jutun hiihtoreissulta Norjasta.</p><p>Tässä jaksossa mukana Tuomas, Salla ja HS:n soteen erikoistunut toimittaja ",
     "suositukset": [
       {
@@ -23962,7 +24029,7 @@ window.VALIDATION_DATA = [
           "historia",
           "Trump"
         ],
-        "kuvaus": "Clat and State Universityn historian professori Marko Maunula analysoi Trumpia syvällisesti ja akateemisesti useasta kulmasta. Jakson lopussa hän myös selittää, miksi Kendrick Lamar on tämän hetken kovin räppäri ja miksi Atlanta-trap on niin merkittävää.",
+        "kuvaus": "Clayton State Universityn historian professori Marko Maunula analysoi Trumpia syvällisesti ja akateemisesti useasta kulmasta. Jakson lopussa hän myös selittää, miksi Kendrick Lamar on tämän hetken kovin räppäri ja miksi Atlanta-trap on niin merkittävää.",
         "google_linkki": "https://www.google.com/search?q=Amerikkapodi+Marko+Maunula",
         "lisatieto_linkki": "https://www.hs.fi/kuuntele/audio-2000011259682.html",
         "alkupera": "hs",
@@ -25595,7 +25662,8 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:22:30",
     "rss_osallistujat": [
       "Marko Junkkari",
-      "Salla Vuorikoski"
+      "Salla Vuorikoski",
+      "Satu Vasantola"
     ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Marko Junkkari, Salla Vuorikoski ja Satu Vasantola puivat kokoomuksen puoluekokousta, Karoliina Partasen suosiota ja pääministeri Petteri Orpon ralliautolla ajelua. Lisäksi käydään läpi syyt, miksi Asianajajaliiton valvontavaliokunta olisi vuonna 2024 erottanut Partasen liiton jäsenyydestä. Muut aiheet ovat toimittaja Satu Vasantolan viikko koulukodissa ja lastensuojelu",
     "suositukset": [
@@ -25848,6 +25916,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 4992,
     "kesto_str": "01:23:12",
     "rss_osallistujat": [
+      "Jari Hanska",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
     ],
@@ -27195,7 +27264,11 @@ window.VALIDATION_DATA = [
     "audio_url": "https://episodes.captivate.fm/episode/4b4875e5-d5f5-4a8d-aeab-66aea8b9c9cd.mp3",
     "kesto_sek": 4151,
     "kesto_str": "01:09:11",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Joona Aaltonen",
+      "Oskari Eronen",
+      "Rasmus Helaniemi"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Joona, Rasmus ja Oskari käyvät läpi niin sanottua Turun tunnin junaa, jonka suunniteltu matka-aika on sittemmin venynyt nopeimmillaan 78 minuuttiin. Lisäksi keskustellaan hallituksen aikeesta poistaa yhdenvertaisuussuunnitelmat päiväkodeista ja brittiyhtye Coldplayn Helsingin-keikoista.",
     "suositukset": [
       {
@@ -27830,6 +27903,7 @@ window.VALIDATION_DATA = [
     "kesto_str": "01:09:35",
     "rss_osallistujat": [
       "Alma Onali",
+      "Heikki Aittokoski",
       "Joakim Westrén-Doll",
       "Marko Junkkari"
     ],
