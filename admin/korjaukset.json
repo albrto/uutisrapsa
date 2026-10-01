@@ -1581,5 +1581,23 @@
         "arki"
       ]
     }
+  },
+  {
+    "jakso_id": "918fa3a1-5a9e-4e0d-a497-8b2e791144ff",
+    "jakso_otsikko": "Hallituksen kriiseily, kodinhoitajat, Kiina pullistelee",
+    "paivamaara": "4.9.2025",
+    "r_idx": 3,
+    "teos": "Ovi oli koko ajan auki",
+    "uusi_data": {
+      "teos": "Ovi oli koko ajan auki",
+      "suosittelija": "Pauliina Siniauer",
+      "kuvaus": "Long Play -verkkomedian artikkeli, jonka ovat kirjoittaneet Anni Pasanen ja Anu Silverberg. Kertoo helsinkiläisestä tanssinopettajasta, joka keräsi ympärilleen lahkon ja alkoi kontrolloida jäsentensä elämää – ja siitä, kuinka vaikeaa lahkosta on päästä pois.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "tutkiva journalismi",
+        "lahkot",
+        "manipulaatio"
+      ]
+    }
   }
 ]
