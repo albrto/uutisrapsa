@@ -1,0 +1,491 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin
+Puhuja 3: Sanomat
+Puhuja 3: Hei
+Puhuja 3: ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 3: podcastiin torstaina kolmetoista.
+Puhuja 3: Elokuuta. Minä olen Alma Onali ja kanssani Salotalon studiossa ovat uutistoimittaja
+Puhuja 3: Onni Niemi Hei Onni Niemi. Hei Alma. Sekä freelance-toimittaja
+Puhuja 3: Ida-Sofia Hirvonen. Hei Ida-Sofia.
+Puhuja 3: Sinulla siis ilmeisesti kesäpesti Hesarilla
+Puhuja 3: loppui, mutta jatkat kuitenkin jossain muodossa töiden tekemistä. Muodossa tai toisessa. Mahtavaa,
+Puhuja 3: ei me Idos-Sofia haluaisi luopua.
+Puhuja 3: Tänään meidän aiheena
+Puhuja 3: on hallituksen koronapolitiikka,
+Puhuja 3: Valko-Venäjän
+Puhuja 3: trackdown
+Puhuja 3: ja kuuntelijoiden
+Puhuja 3: kysymyksiä.
+Puhuja 3: Lopuksi vielä puheenaiheita pitkien kiusallisten hiljaisuuksien
+Puhuja 3: varalle. Tervetuloa mukaan!
+Puhuja 3: Puhutaanas hallituksen
+Puhuja 3: koronapolitiikasta.
+Puhuja 3: Heti alkuun, breaking news.
+Puhuja 3: Suomessa on tänään raportoitu
+Puhuja 3: neljäkymmentäyksi
+Puhuja 3: uutta koronavirustartuntaa.
+Puhuja 3: Siis sosiaalisuus, mikäs teidän
+Puhuja 3: MP on tästä
+Puhuja 3: uudesta
+Puhuja 3: tartuntamäärästä?
+Puhuja 2: Se oli hieman järkyttävää, kun oletin, onhan täs ollut monta päivää, oon junnannut siinä kaksituhatta kaksikymmentäkaksi seitsemäntoista.
+Puhuja 2: Ja sitten tietää, että kun toi lähtee tuplaantumaan ja jos kehitys on sitä suuntaa niin vielä ei ole mikään paha tilanne, mutta voi olla kohta.
+Puhuja 4: Alma ei tämä nyt hyvältä näytä.
+Puhuja 4: Voidaanko nyt puhua sitten jo toisesta aallosta? Onko se rantautunut
+Puhuja 2: kaikki haluaa tietää, onko tämä toinen
+Puhuja 3: aalto. Niin ja jos ei ole toinen aalto, niin mikä se sitten on? Nimenomaan.
+Puhuja 2: Hei, tota toista liplatusta.
+Puhuja 2: Sellaista pientä värinää sen
+Puhuja 2: pandemian pinnalla
+Puhuja 2: rauhallisessa
+Puhuja 3: kesäisessä tyyni ilmassa. Joo, tää ei ole toinen aalto, tää on vasta väreilyä.
+Puhuja 3: Torstaina, elikkä tänään,
+Puhuja 3: hallitus antoi uusia suosituksia
+Puhuja 3: koronaviruksen torjumiseksi.
+Puhuja 3: Täällä
+Puhuja 3: tuli
+Puhuja 3: tällainen lista toimenpiteitä.
+Puhuja 3: Ensinnäkin etätyösuositus
+Puhuja 3: palaa, mutta alueellisesti joustavana.
+Puhuja 3: Tämä etätyösuositus
+Puhuja 3: on
+Puhuja 3: voimassa
+Puhuja 3: Uudellamaalla
+Puhuja 3: Varsinais-Suomessa ja missä muualla.
+Puhuja 3: Muistatteko te lainkaan? Joku kolmas maakunta siinä tuli vielä, mutta se meni multa ihanoihin.
+Puhuja 4: Sama homma kyllä.
+Puhuja 2: Mut varmaan kaikkialla, missä niitä tartuntoja tuo enimmäkseen,
+Puhuja 2: että alueellista tosiaan päätös tekoa. Just
+Puhuja 3: näin.
+Puhuja 3: Varmaan Satakunnassa on etätyösuositus ihan muuten vaan, ettei tarttisi
+Puhuja 3: muita ihmisiä katsella ja tavata,
+Puhuja 3: niin ihan sosiaalisista syistä.
+Puhuja 3: Sitten
+Puhuja 3: Marin ilmoitti
+Puhuja 3: tartuntatautilajin
+Puhuja 3: mukaisesta toiminnasta rajanylityspisteellä.
+Puhuja 3: Käytännössä tää siis tarkoittaa pelikieltoa
+Puhuja 3: ja penalttia
+Puhuja 3: kaikille niille, jotka tulee riskimaista Suomeen.
+Puhuja 3: Eli siis pakkokaranteenia
+Puhuja 3: ja pakkotestausta
+Puhuja 3: jopa radikaalemissa
+Puhuja 3: tilanteissa. Ja tän tavoitteena on ehkäistä tartuntojen leviämistä Suomeen ja
+Puhuja 3: he sanoivat, että tähän käytetään tällaista
+Puhuja 3: liikennevalomallia
+Puhuja 3: eri maille. Eli nyt aletaan jakaa maita punaisiin, keltaisiin ja vihreisiin maihin.
+Puhuja 3: Miten nää oikein jaottuu ja mitä seurauksia
+Puhuja 3: eri liikennevaloista
+Puhuja 3: nyt sitten tulee?
+Puhuja 2: Nehän vaihtelee
+Puhuja 2: melkein päivittäin, että mitkä maat on liikennevaloissa. Musta Saksassahan tää metodi ilmeisesti on ollut käytössä jo aikasemmin kesällä, esim. Suomi on ollut riskimaa jossain vaiheessa, jolloin
+Puhuja 2: pakkokaranteeni on asetettu, mutta ei ilmeisesti enää, koska tartuntatapaukset on mennyt alas. Se riippuu varmaan kunkin maan tilanteesta.
+Puhuja 4: Eli käytännössähän
+Puhuja 4: punaisen
+Puhuja 4: riskialue maista tulevat testataan laajasti ja määrätään ehkä pakkokatteeninkin.
+Puhuja 4: Keltaisesti joutuu omaehtoiseen
+Puhuja 4: karanteeniin.
+Puhuja 4: Siinä edelleen tämä vapaaehtoisuus ja oma
+Puhuja 4: järki punnitsee.
+Puhuja 3: Ja vihreistä maista ei ole mitään sen
+Puhuja 3: kummempia seurauksia.
+Puhuja 3: Oliko meillä mitään tietoa siitä, että mitkä maa on koronapandemian
+Puhuja 3: todennäköinen aiheuttaja eli eläinten hyväksikäyttö tarkasteluun
+Puhuja 3: tulevaisuudessa?
+Puhuja 3: Tietysti toivon, että
+Puhuja 3: eläinten hyväksikäyttö otetaan tarkasteluun tulevaisuudessa, ja luulen, että Kiinassakin on
+Puhuja 3: herätty siihen, että erilaiset
+Puhuja 3: villiäintorit
+Puhuja 3: ja
+Puhuja 3: haluaisin uskoa, että Afrikassa myös
+Puhuja 3: ebola-epidemioiden
+Puhuja 3: puhkeamiset
+Puhuja 3: muuttaisivat ihmisen ja eläimen suhdetta,
+Puhuja 3: joka tällä hetkellä on
+Puhuja 3: sellainen,
+Puhuja 3: että ihminen hyväksikäyttäjä
+Puhuja 3: alistaa näitä toisenlajisia
+Puhuja 3: ystäviämme.
+Puhuja 3: Mutta jälleen kerran, kuinka optimistisesti voi suhtautua ihmislajiin, en tiedä.
+Puhuja 3: Uskotteko, että koronavirus on tehty laboratoriossa?
+Puhuja 2: En usko.
+Puhuja 2: En kyllä minäkään.
+Puhuja 2: 3D-rintat
+Puhuja 2: tuolla Oodissa.
+Puhuja 3: Sehän
+Puhuja 3: se oli se Suomen koronavirus
+Puhuja 3: Oodista lähtöisin. Atte kysyy: Onko teillä tapana pitää hirvikkivääriä työhuonenne seinällä pahimman varalta. Mikäs kysymys tuo on. Mä just mietin, että onko tää viittaus johonkin populaarikulttuuriseen
+Puhuja 3: kohteeseen tai johonkin. Mä en ymmärrä,
+Puhuja 3: mutta ei ole.
+Puhuja 4: Aina on kovat piipussa, mutta
+Puhuja 4: tota... Mulla on työhuoneinai kotona suurin uhka, kaksi kotikissaa.
+Puhuja 4: Niihin riittää kyllä
+Puhuja 4: pienemmät kalliillisimmin asetukset. Just.
+Puhuja 3: Valtteri Törmänen kysyy myös, montako
+Puhuja 3: hapanjuurileipää
+Puhuja 3: Tuomas on leiponut kesän aikana. Mehän
+Puhuja 3: ei siis tiedetä, koska me ei olla asiaa Tuomakselta kysytty, mutta veikkaan, että Tuomaksen hapanjuuri-intolu
+Puhuja 3: päättyi about siinä vaiheessa, kun
+Puhuja 3: Suomen
+Puhuja 3: koronarajoituksia purettiin, niin kuin niin monella muullakin kotileipurilla
+Puhuja 4: tänä keväänä. Ehkä siellä on kesällä ollut parempaa tekemistä kuin leipoa. Olette täysin väärässä. Nimittäin muutama tunti sitten Instagramiin tuli Tuomas Filtomäeltä kuva leivästä.
+Puhuja 3: Ai niin ja sit mä muistan, että se jossain kyllä hekumoi siitä, että kuinka kesällä, kun lämpötilat muuttuu ja kaikki, että se on muuttanut myös niitä leivontaolosuhteita
+Puhuja 3: hänen kotonaan.
+Puhuja 3: Siellä ei varmaan ookaan muuta kuin leivottu näitä. Valtteri Törmänen, mä luulen, että Tuomas ei oo muuta tehnytkaan. Jos sua on opettanut bodaamiseen, vaan leipot. Onko korona tehty Tuomaksen kottilaboratoriossa
+Puhuja 2: keittiössä? Ehkä on.
+Puhuja 3: Juuso Viita kysyy: Mikä on isoin eläin, jonka saatte teipattua kiinni lampputulppaan?
+Puhuja 2: En kyllä eläimiä mihinkään teippaan.
+Puhuja 4: Tää on hyvä kysymys, mutta
+Puhuja 4: miksi siitä pitäisi teipata lampputolppiin?
+Puhuja 4: Tai
+Puhuja 4: että ei se ole ikävää. Teppihän kuitenkin se on
+Puhuja 2: tiedä. Ehkä mielelläni jonkun
+Puhuja 2: isomman eläimen.
+Puhuja 2: Se hevosen kokoinen ankka? Ehkä se hevosenkokoisen anka voisin laittaa
+Puhuja 4: pysyvällä teipillä, että et pääse ikinä irti siitä terrorisoimaan
+Puhuja 3: kylään. Ossi Koskelainen kysyy, milloin puhutte elimettömästä
+Puhuja 3: ruumiista.
+Puhuja 2: No, nyt puhutaan.
+Puhuja 2: Kysehän on
+Puhuja 2: siis Gild Dölöysin
+Puhuja 2: ranskalaisen filosofin tai siis oikeastaan teatteritaiteilija
+Puhuja 2: Antonin Arthodin
+Puhuja 2: kehittämästä käsitteestä.
+Puhuja 2: Arthwds kirjoitti
+Puhuja 2: radionäyttelemässään
+Puhuja 2: tällä tavalla, että: When you will have made him a body withhout organs, then you will have deliverd him from all his automatc
+Puhuja 2: reactions and ristord him
+Puhuja 2: to his true freedom.
+Puhuja 2: Eli kyse on periaatteessa
+Puhuja 2: rajapinnasta, johon erilaiset koneistot, jotka tuottaa vaikka halua tai ideologioita,
+Puhuja 2: kytkeytyy.
+Puhuja 2: Eli sitten
+Puhuja 2: mitä Dölö kirjottaa, että mitä keholle
+Puhuja 2: tai ihmiselle tapahtuu, kun esim. Psykoanalyysin
+Puhuja 2: kapitalismin
+Puhuja 2: TMS- tuottama koodaus pystytään
+Puhuja 2: ikään kuin poistamaan tai näkemään
+Puhuja 2: energian virta ilman niiden vaikutusta,
+Puhuja 2: niin jäljelle jää
+Puhuja 2: keho, joka voi ymmärtää, mitä kaikkea
+Puhuja 2: voikaan oikeastaan tehdä, joka perustuu taas
+Puhuja 2: spinotsalaiseen
+Puhuja 2: käsitykseen siitä, että
+Puhuja 2: ihmisillä on rajattomasti
+Puhuja 2: potentiaalisia
+Puhuja 2: ja piilossa olevia kykyjä,
+Puhuja 2: joiden
+Puhuja 2: kapasiteetista tai siitä, että mihin keho pystyy, niin ihmisellä ei edes ole tietoa. Eli kyse on tavallaan
+Puhuja 2: potentiaalin
+Puhuja 2: laajenemista.
+Puhuja 3: Mutta eikö ihminen ole kaikkialla vapaa ja silti kahleissa?
+Puhuja 2: Niin.
+Puhuja 3: Mä innostuin tästä, koska olen itse suuri Dölöesin ihmettelijä.
+Puhuja 3: Odotan
+Puhuja 3: itse henkilökohtaisesti
+Puhuja 3: Dölöysin kahden käsitteen yhdistymistä itsessäni eli tämän
+Puhuja 3: elimettömän ruumiin ja
+Puhuja 3: juurakkomaisen
+Puhuja 3: eli risomaattisen tiedon rakentamista Dölöcian Qatari on kehittänyt
+Puhuja 3: teorian siitä, kuinka tieto voisi ei-hierarkisesti,
+Puhuja 3: tavallaan jonkin juurakon tai verkoston tavoin
+Puhuja 3: jotenkin monipuolisesti
+Puhuja 3: yhdistyä
+Puhuja 3: ympäristön sisällä olennosta toiseen. Mun unelmissa minusta tulee valaistunut
+Puhuja 3: Delösiläinen
+Puhuja 3: jäkälä, joka vain harmonisesti ja ei-hierarkisesti
+Puhuja 3: saa tietoa ympäriltään.
+Puhuja 3: Siinä meidän pieni filosofinen
+Puhuja 3: hetki tässä. Mennään seuraavaan kysymyksen. Se on Untamolta:
+Puhuja 3: Miten asemoitte oman roolinne mediakentällä?
+Puhuja 4: Puhutaanko tässä nyt meistä
+Puhuja 4: Helsingin
+Puhuja 3: Sanomien palkkalistoilla vai? Ihan varmaan sinne, että meinäkin
+Puhuja 3: itseämme. Sä oot itse määritellä.
+Puhuja 4: No, jos puhutaan Helsingin Sanomien kontekstissa,
+Puhuja 4: niin olen kuitenkin muutamassa pienemmässä lehdissä työskentelystä ennen, niin
+Puhuja 4: onhan tässä yleisö hieman
+Puhuja 4: suurempi kuin jossakin
+Puhuja 4: paikallislehdissä.
+Puhuja 4: Siinä mielessä vastuu
+Puhuja 4: on toki myös yhtäläinen.
+Puhuja 4: Eli
+Puhuja 4: täytyy ottaa huomioon tämä seikka, mutta siinä kyllä myös suosittanut tosi paljon enemmän.
+Puhuja 3: Joo, mä kyllä ehkä lähden, koska minunkin eka ajatus oli, että mähän olen tällainen rivitoimittaja muiden joukossa.
+Puhuja 3: Mutta
+Puhuja 3: Toki Helsingin Sanomien ulkomaantoimittajana
+Puhuja 3: ymmärrän myös, että on tietynlaista valtaa koneiston
+Puhuja 3: sisällä, koska saan tosi itsenäisesti tehdä töitä ja päätöksiä siitä,
+Puhuja 3: että mistä asioista kirjoitan ja millä tavalla niistä kirjoitan. Esimerkiksi
+Puhuja 3: viime vuonna mun rooli
+Puhuja 3: sen päättämisessä, että mitä Hesarissa kerrotaan esimerkiksi Virosta, oli todella iso, kun työskentelin Baltian avustajana.
+Puhuja 3: Taidankin perua tämän alun vaatimattomuuteen ja sanoa, että mähän olen todellinen
+Puhuja 3: mediamymeli.
+Puhuja 2: Joo,
+Puhuja 2: hyvä. Mulla on myös niin kuin vaihtunut
+Puhuja 2: rooli
+Puhuja 2: aika paljonkin tässä vuosien saatossa vähän niin kuin tilanteen mukaan, joten
+Puhuja 2: en ole ehkä halukas
+Puhuja 2: lyömään sitä lukkoon, mutta viime aikoina on varmaan viimeisen parin vuoden sisään tehnyt enemmän
+Puhuja 2: feature-tyyppisiä
+Puhuja 2: ja ehkä vähän esseistisia juttuja
+Puhuja 2: etenkin jostain kulttuurista ja erilaisista
+Puhuja 2: ilmiöistä.
+Puhuja 2: Aloitin työt musiikkitoimittajana,
+Puhuja 2: josta
+Puhuja 2: luojan kiitos,
+Puhuja 2: olen päässyt tekemään paljon kaikkea muuta. Ja tavallaan median tila koko ajan
+Puhuja 2: muuttuu, niin myös ihmisten
+Puhuja 2: roolit siinä tilanteessa muuttuu, että yritän koko ajan vähän navigoida uudelleen kaikkea, että mitä voi tehdä
+Puhuja 2: tässä hommassa.
+Puhuja 4: Tästä myös siihen viime lähetyksessä keskusteltuun asiantuntijakysymykseen.
+Puhuja 4: Eli vaikka mä tiedän sanoi, että emme me ole asiantuntijoita, niin kyllä tavallaan
+Puhuja 4: tämä työnkuva jo tekee meistä jonkinlaisia
+Puhuja 4: asiantuntijoita, mikä se on. Välillä aika haasteellistakin,
+Puhuja 4: jos kyllä taistelmista et kuitenkaan
+Puhuja 4: hirveästi tiedä mitään.
+Puhuja 3: Niinpä. Untamo kysyy myös, että ohjaako työtänne journalistina tietyt henkilökohtaiset
+Puhuja 3: ihanteet.
+Puhuja 3: Mitkä?
+Puhuja 3: Itsellä varmaan ylevät totuus, tasa-arvo ja vapaus ja
+Puhuja 3: uteliaisuus ja kriittisyys.
+Puhuja 2: Joo mullakin journalistisesti
+Puhuja 2: varmastikin
+Puhuja 2: riippumattomuus, oikeudenmukaisuus.
+Puhuja 2: Se, että ei lähde vääristelemään
+Puhuja 2: faktoja
+Puhuja 2: mielensä mukaiseksi ihan niin kuin hyvissäkään
+Puhuja 2: tarkoitusperissä.
+Puhuja 2: Henk kohti ihan teitä myös niin kun uteliaisuus, kriittinen ajattelu,
+Puhuja 2: myös se, että olis aina tavallaan ehkä yhteiskunnallisesti tai globaalisti
+Puhuja 2: sorrettujen ihmisten
+Puhuja 2: puolella eikä niinkun sen
+Puhuja 2: valtaapitävien
+Puhuja 2: puolella kuulostaa juhlavalta, mutta se tietenkin tarkoittaa eri tilanteissa
+Puhuja 2: erilaisia asioita. Journalismissa arvostan myös sitä, että toimittaja
+Puhuja 2: ajattelee
+Puhuja 2: itse eikä vaan copy pastea muualta opittuja mielipiteitä eteenpäin.
+Puhuja 2: Huumorintaju on aina hyvä asia.
+Puhuja 2: Myös tykkään ihan hyvästä kielenkäytöstä
+Puhuja 2: ja kirjoittamisesta
+Puhuja 2: ja inhoan
+Puhuja 2: liikaa tarpeetonta
+Puhuja 2: sentimentaalisuudella
+Puhuja 2: mässäilyä.
+Puhuja 4: Kyllä. Olen täysin samaa mieltä kanssanne nämä ylevät
+Puhuja 4: periaatteet, ohjaavat omaakin tekemistä ja yleisesti myös
+Puhuja 4: semmoinen
+Puhuja 4: kiinnostavuus, koska asiat voi kuitenkin kehystä monella tapaa ja ja niitä voi kehystä usein kiinnostavaksi.
+Puhuja 2: Joo hyvät toimittajat saa tota tylsätkin
+Puhuja 2: aiheet ja tylsätkin tyypit maailman mielenkiintoisemmiksi asioiksi. Se on kyllä piriksi. Se on kyllä piriksi. Se
+Puhuja 2: musta uteliaisuuden herättäminen on aika hyvä asia, että jos se syntyy lukijalle se, että tämä ei ole tylsää, vaan että tästä pitää lukea lisää, niin silloin minusta aika monessa asiassa on
+Puhuja 2: onnistuttu tai että jonkinlainen yhteiskunnallinen tai joku muu aktivoituminen omasta kansalaisena tai ihmisenä olemisestaan.
+Puhuja 3: Untava kysymys, että mikä on vaikeinta
+Puhuja 2: työssänne?
+Puhuja 4: Se työ itsessään välillä aika vaikeata, koska tää on kuitenkin
+Puhuja 4: niin kuin hektistä asiantuntijatyötä, jos näin sanotaan. Te anta kokonaisuutena
+Puhuja 4: välillä
+Puhuja 4: tuntuu, että ei osaa yhtään mitään eikä ymmärrä mistään mitään, mutta
+Puhuja 4: niistä hetkistä yleensä aina selvittäjän kuitenkin
+Puhuja 4: parhain päin.
+Puhuja 3: Mun mielestä se on vähän niin kuin ruuanlaitossa, kun oon kattellut tota Master Jeff Austriliaa, niin siellä on tärkeintä, että se annos on balanssissa.
+Puhuja 3: Siellä on happamuus, suola ja makeus
+Puhuja 3: harmonisesti yhdessä. Se on mun mielestä journalismissa myös
+Puhuja 3: sama
+Puhuja 3: tietynlainen
+Puhuja 3: tasapainon löytäminen. Ja
+Puhuja 3: Varsinkin, jos tekee pidempiä, tutkivia juttuja, tosi vaikeaa on välillä
+Puhuja 3: todentaa faktoja. Myös
+Puhuja 3: sen navigoiminen, että
+Puhuja 3: kerronko minä tässä nyt jotenkin,
+Puhuja 3: että
+Puhuja 3: onko tämä mun täysin omaa olettamaa
+Puhuja 3: vai onko tämä oikeata tietoa, niin sen
+Puhuja 3: navigoiminen välillä
+Puhuja 3: voi olla haasteellista, mutta tietysti se on osa ammattitaitoa, että osaa myös kyseenalaistaa itse itsensä
+Puhuja 3: kunnon
+Puhuja 3: juttuprosessissa.
+Puhuja 2: Joo. Minustakin oli vaikeinta välillä jalostaa joku idea tai havainto juttuideaksi, koska välillä se saattaa se juttuidea tulla aivan niin kuin silmien eteen, olla siinä vaikka puoli vuotta ja sitten huomataan, että joku muu kirjoittaa jutun tästä aiheesta,
+Puhuja 2: jota on miettinyt päivittäin,
+Puhuja 2: mutta jota olet tajunnut itse juttuideaksi. Niin ylipäätänsä se
+Puhuja 2: jalostaminen, tämä prosessi, on toisinaan haastavaa, mutta myös välillä ihan itse kirjoittaminen on
+Puhuja 2: kärsimystä.
+Puhuja 2: Toisinaan sujuu kuin tanssi, mutta toisinaan se on kuin maailman huonoin huume et tästä kärsii ja kärsii päiväkausia
+Puhuja 2: ja sit tulee semmonen pieni onnen hetki kun palaset loksahtaa kohdilleen ja sitten alkaa epäillä että oliko tässä jutussa mitään järkeä vai onko tämä vain itsestäänselvyyksiä
+Puhuja 2: lukeeko tätä kukaan blaa blaa blaa blaa
+Puhuja 2: ja
+Puhuja 2: sitten ehkä tulee helpotus, kun näin ei käykään vaan se juttu
+Puhuja 2: ihan taitaa
+Puhuja 2: toimia siinä kohdassa.
+Puhuja 2: Mutta mikä on tietenkin mukavaa, niin aika harvoin näiden asioiden kanssa on yksin, vaan kaikki jutut on
+Puhuja 2: useamman
+Puhuja 2: ihmisen yhteistyönä vaikutusta
+Puhuja 3: parhaimmillaan. Ja sen takia korona-aika on vähän vaikeeta, koska mä oon samaa mieltä sun kanssa, että se ihmisten kanssa yhdessä työskentely on hyvin olennaista tälle työlle ja yksin työskentely on vaikeaa. Kyllä. Ideoiden jalostaminen on yksin vaikeampaa, koska muut ihmiset yleensä saattaa pystyä
+Puhuja 2: sinun sekavasta ajattelusta poimimaan ne oleelliset asiat ja tavallaan
+Puhuja 4: kertomaan, että mihin suuntaan kannattaa mennä. Eli ne kahvikon är ääressä keskustelut ovat äärimmäisen tärkeitä
+Puhuja 4: tämän työn lopputuloksen
+Puhuja 4: kannalta.
+Puhuja 3: Kaikesta tästä huolimatta täähän on yksi maailman parhaista ammateista.
+Puhuja 3: Tässä on
+Puhuja 3: ihan hirveästi hyviäkin puolia.
+Puhuja 3: Ne parhaat hetket on inspiroivia haastatteluja
+Puhuja 3: asiantuntevien
+Puhuja 3: ihmisten kanssa.
+Puhuja 3: Ja se hetki, kun saat sen jutun valmiiksi. Se on ainakin mun kaltaiselle
+Puhuja 3: ihmiselle, joka ei kestä jatkuvia, niin kuin
+Puhuja 3: hahmottomia prosesseja, vaan haluan nähdä tuloksia, niin se, että se juttu on valmis, niin se on best moment.
+Puhuja 2: Sama juttu tuosta. Ihanaa, ettei tarvi tehdä mitään esim. Tieteellistä tutkimusta, koska nyt voi innostua jostain aiheesta nopeasti, perehtyä siihen aikaan silleen, että miettii vaan jotain yhtä aihetta vaikka viikon
+Puhuja 2: ja sitten
+Puhuja 2: tuottaa siitä jonkun tekstin ja tietää siitä aiheesta enemmän ja sitten siirtyä seuraavaan aiheeseen, että sopii tällaiselle
+Puhuja 2: myös vähän
+Puhuja 2: levottomalla ihmisille oikein hyvin.
+Puhuja 3: Siirrytään seuraavaan kysymykseen. Tämä on tullut nimimerkiltä Tuomas Peltomäki Fan Account, jonka on varmaan siis Tuomas itse.
+Puhuja 3: Ensimmäinen kysymys kouluasteikolla neljä-kymmenen.
+Puhuja 3: Kuinka ihastunut olet Tuomas Peltomäkeen?
+Puhuja 3: Onni, entinen pomosi
+Puhuja 3: Tuomas, kuinka?
+Puhuja 4: Totta
+Puhuja 4: yksitoista
+Puhuja 4: tietysti oikein vastaus.
+Puhuja 3: Mikä on teidän lemppari Tuomas Peltomäki-tarina?
+Puhuja 3: Tuomas, miksi sä oot lähettänyt näitä kysymyksiä meille? Ei mulla oo mitään tarinaa Peltomäestä.
+Puhuja 2: Leipeleivän
+Puhuja 2: kerran tai toisenkin.
+Puhuja 3: Seuraava kysymys. Voisitteko perustaa fanikaupan, mistä voisi ostaa vahvan Marko Paitoja, uutisraportti,
+Puhuja 3: koronamaskeja
+Puhuja 3: jne.
+Puhuja 2: No miksei.
+Puhuja 2: Varmaan me voitais. Jos saisi rahaa?
+Puhuja 3: Varmaan se pitäisi
+Puhuja 3: perustaa.
+Puhuja 3: Noora Kuusisto kysyy.
+Puhuja 3: Tämä oli ihana kysymys. Kiitos, Noora, tästä. Kun hetkeksi hiljentyy ja miettii kysymystä,
+Puhuja 3: kesän tärkein oppi, niin mikä nousee päällimmäisenä mieleen?
+Puhuja 2: Niin, no tavallaan
+Puhuja 2: monestikin tässä kesätyöaikana
+Puhuja 2: on oppinut kaikenlaista
+Puhuja 2: journalismista ja kirjoittamisesta,
+Puhuja 2: mutta ehkä kuitenkin
+Puhuja 2: tärkein oppi on sitten vapaa-ajalla
+Puhuja 2: ymmärretty. Taas kerran, että ystävät on hyvin tärkeitä ja ystävien kanssa vietettyä aika saa elämän tuntumaan kevyemmältä
+Puhuja 2: ja
+Puhuja 2: merkityksellisemmältä.
+Puhuja 2: Tuntuu jotenkin tämän koronan jälkeen erittäin virkistävältä ja ihanalta viettää aikaa heidän kanssaan.
+Puhuja 4: Kyllä mä olen samaa mieltä. Tai sosiaaliset suhteet, kyllä sen huomasi tänä kesänä etenkin, kun niitä taas sai olla enemmän pitkän
+Puhuja 4: koronakevään jälkeen.
+Puhuja 4: Tietysti
+Puhuja 4: se on mukava, että myös kotona on joku, että se on ollut eräällä yksin koko kevät jossakin
+Puhuja 4: yksiössä tietysti, että siinä mielessä ei ole onnessa asemassa, mutta
+Puhuja 4: mukava, että
+Puhuja 4: sai kuitenkin koodata
+Puhuja 4: tovereita
+Puhuja 4: jonkin aikaa. Nyt tietysti taas menee neljän seinän sisään pian takaisin.
+Puhuja 3: Niinpä.
+Puhuja 3: Olen teidän kanssa samaa mieltä, mutta mulle ehkä
+Puhuja 3: tärkein oppi oli kevään ja kesän aikana se, että aina ei tarvitse juosta joka paikkaan tai olla suorittamassa
+Puhuja 3: kaksisataaneljäkymmentäseitsemän
+Puhuja 3: jotakin asioita
+Puhuja 3: ja
+Puhuja 3: täyttää kalenteriaan
+Puhuja 3: kaikenlaisilla menoilla, vaan välillä on ihan hyvä myös rauhoittua
+Puhuja 3: ja todeta, että voi olla tyytyväinen elämänsä, vaikka ei olisi sadassa paikassa samaan aikaan. Kyllä tämä minun mielenrauhani on vähän rikkoutunut
+Puhuja 3: sitä mukaa, kun rajoituksiin on purettu,
+Puhuja 3: mutta haluaisin uskoa, että jonkinlaista
+Puhuja 3: pientä mielenrauhaa
+Puhuja 3: koronakevät on tuonut minulle.
+Puhuja 3: Mennään sitten suosituksiin.
+Puhuja 3: Mitäs Ida-Sofia,
+Puhuja 3: mitä sulla on
+Puhuja 3: mielen päällä tällä viikolla?
+Puhuja 2: No siis
+Puhuja 2: hyviä elokuvia
+Puhuja 2: on nyt erittäin paljon esityksessä. Ehkä sen takia, että kun uusia leffoja ei juuri hirveästi valmistu, niin sitten näytetään erinomaisia
+Puhuja 2: vanhoja, aika obsguurejakin
+Puhuja 2: elokuvia.
+Puhuja 2: Eli tota tällä viikolla
+Puhuja 2: viikonloppuna ja ilmeisesti vielä ensi viikon maanantaina näytetään
+Puhuja 2: japanilainen
+Puhuja 2: animaatio
+Puhuja 2: nimeltä
+Puhuja 2: Akira, joka sijoittuu
+Puhuja 2: kätevästi
+Puhuja 2: vuoteen kaksituhatta
+Puhuja 2: yhdeksäntoista,
+Puhuja 2: vähän niin kuin tällaisessa
+Puhuja 2: kaaosmaisessa
+Puhuja 2: tilassa olevaan
+Puhuja 2: Tokioon, jossa
+Puhuja 2: sitten
+Puhuja 2: on
+Puhuja 2: semmoinen
+Puhuja 2: maailmanlopun
+Puhuja 2: meininki ja tavallaan uuden synty kaiken kaaoksen keskellä. Se on hyvin kaunis elokuva. Olen nähnyt sen tietokoneelta,
+Puhuja 2: mutta nyt tästä esitetään 4K
+Puhuja 2: versio Orionissa sekä Finnkinon
+Puhuja 2: Aimax salissa.
+Puhuja 2: Vaikka Marijonista tykkää, niin on kyllä pakko saada
+Puhuja 2: Multiplex
+Puhuja 2: Finnkino Elämys hinnalla millä hyvänsä ja sen näkemistä odotan, ellei joku aluehallintovirasto
+Puhuja 2: päätä pistä kaikkea elokuvanäytöntöä
+Puhuja 2: jäi.
+Puhuja 4: Minä suosittelen Riki Jurwacsin
+Puhuja 4: eli Suomesta Gervicen
+Puhuja 4: After Life-sarja, jota olen Netflixistä katsonut. Siitä tuli tänä keväänä toinen tuotantokausi.
+Puhuja 4: Se kertoo tämmöisestä
+Puhuja 4: paikallislehden toimittajasta,
+Puhuja 4: jonka vaimo kuolee syöpään.
+Puhuja 4: Hän on ollut keskikäinen mies, jota Riki Jörvece itse esittää.
+Puhuja 4: Hän kyynistyy tästä täysin ja ryhtyy siis rehellisesti muukuksi,
+Puhuja 4: eli hän ei päde enää kenenkään tunteista eikä yhtään mistään muustakaan,
+Puhuja 4: mutta hän huomaa, että ei tällä pitkälle pötkitä kuitenkaan.
+Puhuja 4: Mutta ihan hauska sarja. Katsokaa
+Puhuja 4: Imeellä.
+Puhuja 3: Kiitos suosituksista.
+Puhuja 3: No, mähän suosittelen maskin käyttöä julkisissa liikennevälineissä.
+Puhuja 4: Vastuullinen
+Puhuja 3: kansalainen. Vastuullisena kansalaisena.
+Puhuja 3: Tässä kaikki
+Puhuja 3: Janne Elkki
+Puhuja 3: ja laittakaa meille kaikkea söpö ja kivaa palautetta:
+Puhuja 3: uutisraportti!
+Puhuja 3: Me kesätiimin
+Puhuja 3: kanssa näemme
+Puhuja 3: teidän kanssanne vielä kerran
+Puhuja 3: ensi viikolla!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -1,0 +1,460 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien
+Puhuja 0: uutiskirjeraportti-podcastiin
+Puhuja 0: perjantaina
+Puhuja 0: kaksikymmentäviisi. Päivä huhtikuuta.
+Puhuja 0: Huhtikuuta.
+Puhuja 0: Vuonna kaksituhatta kaksikymmentäviisi mun nimi on Tuomas Peltömäki.
+Puhuja 0: Ai niin, mä suunnittelin, että mun olisi pitänyt Teksa siksi aloittaa tää.
+Puhuja 0: Hello, weecome to the Newclear vi hackle, that's call the Uts rapport podcast.
+Puhuja 0: Here the down, earth, belar.
+Puhuja 0: No niin, moni vertahus Peltämä ja kanssani täällä
+Puhuja 0: ehkä hivenen armollisesti vitselleni nauravat
+Puhuja 0: politiikkaa Helsingin Sanomissa toimittava. Marko Junkkari, hei Marko. Heissan Tuomas, meillä saattaa olla viikko kausia?
+Puhuja 0: Lähes
+Puhuja 1: kuukauteen tässä podcastissa. Luulen, että minulla ja kuulijoilla ehkä vielä enemmän ollut ikävä sua.
+Puhuja 0: Meillä on ilo ja kunnia saada ilmeisesti ensimmäistä kertaa
+Puhuja 0: tähän pitkästi vieraaksi. Joo,
+Puhuja 0: kiitos. Taloustoimittaja Anni Lassila Helsingin Sanomista. Hei Anni. Moi Tuomas. Kiva olla täällä. Kiitos, että pääsit paikalle
+Puhuja 0: näinä
+Puhuja 0: aikoina,
+Puhuja 0: jolloin Suomessa käydään
+Puhuja 0: talouden osalta aivan erinomaisen
+Puhuja 0: kirjavaa ja repivää keskustelua.
+Puhuja 0: Puhutaan siis
+Puhuja 0: muun muassa
+Puhuja 0: hallituksen
+Puhuja 0: puoliväliriihestä,
+Puhuja 0: jossa
+Puhuja 0: aiheena olivat dynaamiset
+Puhuja 0: vaikutukset,
+Puhuja 0: tricle down Economics
+Puhuja 0: ja saapas jalkakissan seikkailut
+Puhuja 0: ja muut sadut.
+Puhuja 0: Ei vaan. Veroalennukset köyhille ja rikkaille
+Puhuja 0: parin miljardin leikkauspaketti.
+Puhuja 0: Siitä systeemi: lainaaminen tulevista eläkkeestä, jonka Marko, saat kertoa, mitä se tarkoittaa, koska se ei tarkoita, mitä me luullaan, että se tarkoittaa.
+Puhuja 0: Eikö
+Puhuja 0: näin? Koska nyt kaikki luulee, että hallitus on ottanut tulevista
+Puhuja 0: eläkkeistä miljardin
+Puhuja 0: tämän hetken veronalennuksiin,
+Puhuja 0: mutta siitä ei kai ole kysymys.
+Puhuja 0: Mutta älä kerro nyt, kerro kohta. Sen lisäksi me keskustellaan
+Puhuja 0: viime
+Puhuja 0: sunnuntaina julkaistusta
+Puhuja 0: Susanna Rainbootin
+Puhuja 0: aivan erinomaisesta
+Puhuja 0: jutusta, jossa joukko kanslereita,
+Puhuja 0: professoreita ja juristeja oli arvioinut,
+Puhuja 0: miten semmoisilla
+Puhuja 0: pienillä siirroilla Suomessa olisi mahdollista,
+Puhuja 0: jos niin haluaa perustaa Unkarin kuningaskunta tänne? Eli siis tehdä Suomestakin
+Puhuja 0: tämmöinen
+Puhuja 0: omat oikeusperiaatteensa,
+Puhuja 0: vessassa alas vetänyt paska valtio.
+Puhuja 0: Se on yllättävänkin helppoa.
+Puhuja 0: Tämän artikkelin pointti plus kanslereiden
+Puhuja 0: ja professorin pointti
+Puhuja 0: oli se, että
+Puhuja 0: nyt just, kun
+Puhuja 0: on
+Puhuja 0: tyynen sään aikaa, kannattaisi
+Puhuja 0: muuttaa meidän lainsäädäntöä,
+Puhuja 0: lainvalvontajärjestelmää
+Puhuja 0: sillä tavalla, että tämmöiset estetään.
+Puhuja 0: Keskustellaan siitä. Ja vielä kolmanneksi:
+Puhuja 0: Vähän ehkä outo aihe, koska tämä ei varsinaisesti perustu mihinkään uutiseen, joka tällä viikolla olisi tapahtunut. Mutta tää perustuu mainoskampanjaan,
+Puhuja 0: joka tällä hetkellä pyörii.
+Puhuja 0: Se kampanjan takaa
+Puhuja 0: löytyy
+Puhuja 0: lihavuushoitolääke
+Puhuja 0: ja myös diabeteslääke,
+Puhuja 0: Osempikin valmistaja
+Puhuja 0: Novo Nord Disc,
+Puhuja 0: joka ainakin tuolla Helsingin keskustassa. Sen mainokset pyörii niin villiä väkkärää, että sitä ei voi olla huomaamatta.
+Puhuja 0: Ja tää on mun mielestä
+Puhuja 0: aihe, joka on jäänyt Suomessa
+Puhuja 0: vähän semmoiselle alihoidolle,
+Puhuja 0: koska siihen liittyy tämmöisiä syviä
+Puhuja 0: filosofisia
+Puhuja 0: inhimillisiä kysymyksiä siitä, että
+Puhuja 0: pitäisikö lihavuutta
+Puhuja 0: hoitaa lääkkeillä,
+Puhuja 0: missä määrin, pitäisikö se olla Kela korvattava,
+Puhuja 0: onko ok, jos tavallaan meidän länsimaisen yltäkylläisen elämäntavan semmoset
+Puhuja 0: negatiiviset puolet vain poistetaan kemiallisesti.
+Puhuja 0: Miksi se ei olisi OK? Siinä on tosi paljon kaikennäköistä, mistä mun mielestä olisi hyvä käydä
+Puhuja 0: järkevien
+Puhuja 0: ihmisten järkuvaa keskustelua, joten tehdään sillä tavalla. Ja lopuksi vielä hyviä keskustelunaiheita. Tuntuu...
+Puhuja 0: No niin, nyt vaan lasten.
+Puhuja 0: Anni, sano jotain.
+Puhuja 2: Sano vielä. Tää ylipaino asia, mitä mä oon pohtinut tosi paljon ihan henkilökohtaisesta kannalta. Mä oon ollut nuorena tosi ylipainoinen.
+Puhuja 2: Sitten mä laidun ihan sattumalta tai jotenkin vain itsestään.
+Puhuja 2: Mutta
+Puhuja 2: laihduttaminen on aivan mielettömän vaikeata. Jos yritän pudottaa pari kiloa, niin ei muuten onnistu, se on ihan sairaan vaikeeta.
+Puhuja 2: Ajatus, että itsekurilla ihmiset laihduttaa tai lihavaihimme on laiska tai jotain. Liikuntahan
+Puhuja 2: ei sinänsä laihduta se vaan kasvattaa ruokahalua.
+Puhuja 2: Pitäisi oikeasti pystyä olemaan syömättä ja se
+Puhuja 2: vaikuttaa aineenvaihduntaa tai kaikkea muuta. Laihduttaminen
+Puhuja 2: itse korilla on todella vaikeata ja kaikki, jotka sanoo, että näin ei ole, on sellaisia syntymälahoja. Ei ole varmaan ruokahalua, ei ole sellaista himoa.
+Puhuja 0: Saanko sanoa tuohon väliin vielä? Mä
+Puhuja 0: tykkään.
+Puhuja 0: Meidän kollega, Anstiina, Nykänen on kirjoittanut tästä aiheesta. Ja sitten hän on itse myös
+Puhuja 0: kokeillut tätä.
+Puhuja 0: Ja mä soitin hänelle, että hei, kerro, että mitäs meni ja mitä sä ajattelit.
+Puhuja 0: Mulle tuli täysin järkytyksenä, kun Annastiina sanoi, että
+Puhuja 0: tähän liittyy ihan täysin semmoinen ajatus,
+Puhuja 0: että ei sulle mitään lääkkeitä, että nyt
+Puhuja 0: selkärankaa ja lopeta se
+Puhuja 0: löysäily
+Puhuja 0: karkin mussuttaminen. Vähän itsekuria, että tekee sulle hyvää. Tää on se asenne, millä suhtaudutaan.
+Puhuja 0: Mä hoksasin, että koska mä olin lukenut lähinnä semmoisia tieteellisiä tai tieteellishenkisiä
+Puhuja 0: artikkeleita ja podcasteja, mistä tää oli tullut
+Puhuja 0: vastaan.
+Puhuja 0: Siellä on jo täysin siirretty siihen, että lihavuus ei toimi ollenkaan niin, että sä olet jotenkin perseestä ja sen takia sä olet lihava. Vaan se on... Ja nyt vähän liioitellen. Se on tätä samaa dopamiinirullaa,
+Puhuja 0: mitä koko muukin meidän elämä nykyään on.
+Puhuja 0: Sulla
+Puhuja 0: kehittyy se addiktio siihen hyvänolon tunteeseen,
+Puhuja 2: joka tulee tästä. Mä en edes menisi noin. Se on ihan normaali. Mun ikäinen nainen, vaihdevuosi-ikäinen,
+Puhuja 2: oikeasti voi syödä tosi vähän, jos ei halua lihoa.
+Puhuja 2: Mulla on aika vilkas aineenvaihdunta, monilla se on vielä paljon pahempi se vaikeampi.
+Puhuja 2: Mutta
+Puhuja 2: olin tulossa siihen, että mielestäni
+Puhuja 2: ehdottomasti lihavuutta pitää hoitaa ja sellaisella, jossa ei lähdetä esim.
+Puhuja 2: Lihavuusleikkaukseen tarjotaan, se on tosi radikaali operaatio, kallis operaatio, sitä tarjotaan vaan ihmiselle, joka sitoutuu elämäntapamuutokseen, sinun pitää ensin laihduttaa viisi prosenttia.
+Puhuja 2: Tosi vaikeita juttuja, plus se leikkaus on tosi iso operaatio. Sitten on lääke, joka
+Puhuja 2: valitettavasti
+Puhuja 2: ei toimi kaikilla, osa ei vaan laihdu sillä, osalle tulee niin paha pahoinvointi,
+Puhuja 2: että se ei pysty käyttämään ja oksentelee ja se ei tietenkään ole hyväksi
+Puhuja 2: sekään. Tällä hetkellä ongelma on hinta, se on ihan sairaan kallista, se on parisataa euroa
+Puhuja 2: kuukaudessa ja sen takia tosi monet käyttää sitä omalla rahalla. Olen miettinyt, että sen muuten saisi ruuasta
+Puhuja 2: aika
+Puhuja 2: nopeasti. Kyllä syön aika monella sadalla eurolla kuukaudessa.
+Puhuja 2: Mutta siihen hintaan.
+Puhuja 2: Tiedättekö te, koska VK:n patentit menevät umpeen?
+Puhuja 2: No. Siis on se diabetesversio
+Puhuja 2: tästä
+Puhuja 2: 30-luvulla. Eli siis ihan tässä 30-luvun alkupuolella, kun katsoin niitä juuri sinne,
+Puhuja 2: vuonna kaksituhatta kolmekymmentäyksi menee eka patentti, kolmekymmentäkolme seuraava patentti, siitä on jotain muitakin.
+Puhuja 2: Mutta pointti on se, että nämä
+Puhuja 2: hinnat tulevat laskemaan.
+Puhuja 2: Kolesterolilääkkeet,
+Puhuja 2: ne parhaat kolesterolilääkkeet, jotka olivat alun perin tosi kalliita, parhaat verenpainelääkkeet,
+Puhuja 2: jotka olivat alun perin tosi kalliita, maksaa yli kaksi euroa kuukaudessa nykyään. Mitä tullaan samaan?
+Puhuja 2: Sanoisin, että kaksikymmentä vuoden kuluttua näitä syödään
+Puhuja 2: ihan samalla tavalla kuin kolesteralilääkkeitä.
+Puhuja 0: Onpa jännittävää. Sitten me ollaan siinä tosiaan.
+Puhuja 0: Mutta koska jossain täällä,
+Puhuja 0: okei, minä suhtaudun tosi positiivista, totta kai, on näin merkittävä
+Puhuja 0: terveyshaitta
+Puhuja 0: suomalaisilla. Jos meillä on siihen varaa ja me ollaan edelleen maailman rikkaaimpia kansakuntia,
+Puhuja 0: miksi ei olisi varaa? Totta kai meidän pitää meidän
+Puhuja 0: keskeisintä terveyshaittaa hoitaa, jos siihen on lääke.
+Puhuja 0: Haluan nyt ihan lyhyesti
+Puhuja 0: sanoa sen, että nämä perustuu tähän, että mahassa,
+Puhuja 0: suolistossa missä ikinä jossain, ja nyt, tämä ei ole mikään tiedetunti, mutta
+Puhuja 0: summauksena,
+Puhuja 0: Mahassa on olemassa
+Puhuja 0: tämmöisiä
+Puhuja 0: siinä solukossa ja muussa tai missä nyt onkaan, on semmoisia
+Puhuja 0: reseptoreita,
+Puhuja 0: jotka,
+Puhuja 0: tai sanotaan, siellä on semmoinen mekanismi,
+Puhuja 0: joka aiheuttaa
+Puhuja 0: kylläisyyden
+Puhuja 0: tunteen. Ne on hyvin korkealla ja korkeita, mitä nämä lääkkeet tekevät, on se, että se menee
+Puhuja 0: reseptoriin ja sitten tukkii sen tai aktivoi tai inaktivoi.
+Puhuja 0: Ne toimivat vähän oudosti, että ne toimii sekä silloin kun ne aktivoi että silloin kun ne inaktivoi.
+Puhuja 0: Ja sitten naapurissa on joku toinen reseptori ja sillekin toimii näin. Sitä on monta eri. Se on semmoinen vyyhti.
+Puhuja 0: Mutta mahassa on olemassa semmoinen
+Puhuja 0: mekanismi,
+Puhuja 0: jonka nämä lääkkeet
+Puhuja 0: tai sammuttavat tai mitä ikinä. Se
+Puhuja 0: aiheuttaa ennenaikaisesti
+Puhuja 0: keinotekoisesti
+Puhuja 0: sen kylläisyyden tunteen.
+Puhuja 0: Et vain halua enää syödä. Sulla loppuu ruokahalu. Sitten olet silleen, että joo, en halua enempää. Ja siitä syntyy se laitfvene. Se ei ole mikään sellainen, että sä jotenkin sulattaa ne pois. Useimmilla sä ajoittaa sen, ettei tee meille viinoakaan.
+Puhuja 2: Kyllä.
+Puhuja 2: Se on jännä,
+Puhuja 2: että se säätelee semmoisia kaikenlaisia mielihaluja. Just näin.
+Puhuja 0: Tämä on se mekanismi
+Puhuja 0: ja sitä kautta tapahtuu
+Puhuja 0: laihtuminen.
+Puhuja 0: Kuulemma se on
+Puhuja 0: semmoinen, että sulla on täysin, sulla herää ruokahalu. Aa, onpa mun nälkä, sitten otat ruokaa,
+Puhuja 0: Jes, mahtavaa herkkuruokaa. Sit sä alat syömään. Onpa ihanaa. Jes näin. Ja sit yhtäkkiä, vitsi mä en halua enää. Niin silleen kun se syntymävaihe, joka ei
+Puhuja 2: edes tajua, mitä se ruoan ja karkinhimo on, koska silloin tää toimii ihan luontaisesti. Just näin.
+Puhuja 2: Okei. Useimmilla meillä ei toimi. Siihen varmaan vaikuttaa myös suomalainen perimä sillä tavalla, että me ollaan oltu tosi köyhä ja nälkää näkevä kansa
+Puhuja 2: 1900-luvun
+Puhuja 2: puoliväliin asti suurin piirtein. 1990-luvulla.
+Puhuja 2: Asti,
+Puhuja 2: oikeasti.
+Puhuja 2: Onhan meillä semmoinen perimä, että täällä on pärjännyt ne, jotka tulee toimeen tosi vähällä ruualla, joka tarkoittaa sitä, että sitten kun sitä ruokaa saakin niin paljon kuin haluaa, niin sitten me lihotaan
+Puhuja 2: tosi helposti.
+Puhuja 0: Jossain täällä on olemassa se kysymys, että
+Puhuja 0: lihavuus ja muut, ne on seurausta meidän länsimaisesta elämäntavassa,
+Puhuja 0: jossa
+Puhuja 0: meidän tehtaat hehkuu kuumina
+Puhuja 0: yötä päivää,
+Puhuja 0: tuotetaan
+Puhuja 0: ihan järjettömät määrät muovirojua,
+Puhuja 0: kakkuja,
+Puhuja 0: herkkuja,
+Puhuja 0: paketteja karkeille.
+Puhuja 0: Mainostoimistot,
+Puhuja 0: kellon
+Puhuja 0: ympäri siellä ovat suurimmat neropatit keksimässä
+Puhuja 0: mainoskampanjoita. Tekoälyn avulla suunnitellaan kauppoja sille, että jokainen
+Puhuja 0: houkutus siellä olisi heti toteutettavissa, saatavissa ja haluttavissa. Tämä on se länsimainen elämäntapa ja kaikki tämä on seurausta siitä. Ja onhan täällä olemassa joku helvetin ympyrä,
+Puhuja 0: että tekoälyn kanssa suunnitellaan mitään uskovimpia
+Puhuja 0: houkutuksia meille, joihin me voidaan
+Puhuja 0: suuamollaan
+Puhuja 0: heittäytyä
+Puhuja 2: ja sitten ottaa ussepitkiä. Ja ottaa ussepitkiä,
+Puhuja 0: jotta me vältetään niistä huonoista.
+Puhuja 2: Tosiasiahan on, että se otssempi aiheuttaa sen. Se ei ole paitsi
+Puhuja 2: joillain harvoilla poikkeuksuksella, ei ole oksennuslääke sille, että mä syön ja oksenan vaikka pois tai muuta. Se aiheuttaa sen, että ihmiset syö vähemmän, jolloin
+Puhuja 2: se varmaan vaikuttaa
+Puhuja 2: kulutukseen, ympäristö päästöihin. Ympäristö päästöihin. Siitä puhutaan vähemmän. Olen joskus miettinyt, että pitäisi laskea oma, että jos en urheile ja jos urheilen, niin kuinka paljon enemmän mä urheilevana
+Puhuja 2: päästän hiilidioksidiin, koska oikeasti
+Puhuja 2: sen takia ja poltat
+Puhuja 2: ruuan, siitä
+Puhuja 2: syntyy hiilidioksidia.
+Puhuja 0: Sitten
+Puhuja 0: kun,
+Puhuja 0: oletko saanut lukea Helsingin
+Puhuja 0: Sanomista. Ilouutisia, että
+Puhuja 0: kun
+Puhuja 0: olet tienannut jo tänä vuonna yhdeksänkymmentäviisi tonnia
+Puhuja 0: ja sitten, jos nyt vielä tienaat tonni enemmän, niin siitä jää sinulle enää,
+Puhuja 0: ei kun sinulle jää
+Puhuja 0: neljäkymmentäkahdeksan prosenttia
+Puhuja 0: siitä tonnesta käteen ja sitten ajattelet, että nyt
+Puhuja 0: pistetään haisemaan.
+Puhuja 0: Tricle dowataan nämä rahat sinne
+Puhuja 0: ravintolakypärille,
+Puhuja 0: sitten lyöt
+Puhuja 0: satkuun pöytään
+Puhuja 0: korttelikapakassa
+Puhuja 0: ja sanoin, että kipitäpäs köyhä hakemaan minulle
+Puhuja 0: lasillinen,
+Puhuja 0: mitäköhän nykyään juodaan?
+Puhuja 0: En osaa edes sanoa, mikä on
+Puhuja 0: tämän kesän hienojen ihmisten cocktail.
+Puhuja 0: Mä elän vielä aikaa kuin Aberal sprinttured.
+Puhuja 0: Mainostoimiston Kekkkulei.
+Puhuja 0: Limonchellv-spired.
+Puhuja 0: Limonchellikin
+Puhuja 0: on joo, ja mä luulen, että sekin on vähän vanha.
+Puhuja 0: Todennäkö kuulijat, jotka olette in ja
+Puhuja 0: tyyli-ihmisiä
+Puhuja 0: ja tiedätte, missä mennään, lähettäkää meille pliis tieto, että mikä on tulevan kesän
+Puhuja 0: se juoma, jolla voit viestittää
+Puhuja 0: ympärillesi, että tiedät missä mennään ja rahaa löytyy.
+Puhuja 0: Voisin
+Puhuja 1: kehua tuota, katselen tätä nyt muutaman jakson, tämä on siis Yle Areenassa,
+Puhuja 1: minulle tämä on ihan uusi,
+Puhuja 1: TNBeg
+Puhuja 1: niminen sarja.
+Puhuja 1: On siis
+Puhuja 1: tosipohjainen, voin saada suoraan, tosipohjainen draamasarja
+Puhuja 1: Jan Stenbekistä, joka aikoinaan on siis Kinnevik-yhtiön,
+Puhuja 1: kun se on sukuyhtiö,
+Puhuja 1: sen johtaja.
+Puhuja 1: Hän oli
+Puhuja 1: ihan sairaan hyvin tehty sarja ja kertoi
+Puhuja 1: sukutraama. Se on perheyhtiö, jolla on ollut
+Puhuja 1: rautamalmitehtaita
+Puhuja 1: ja raskasta teollisuutta Ruotsissa eri puolilla.
+Puhuja 1: Sitten Jan Stennevik pääsee valtaan ja hän on
+Puhuja 1: New Yorkissa
+Puhuja 1: asuvaa ja bilettävä
+Puhuja 1: komea nuori mies, joka
+Puhuja 1: on päättänyt, että hän ei enää Ruotsi enää ikinä mene ja sitten hän päätyy
+Puhuja 1: Ginevikin
+Puhuja 1: johtajaksi ja
+Puhuja 1: päättää tehdä mediaimpumin.
+Puhuja 1: Ja sitten hän lähtee ensin,
+Puhuja 1: Kuvataan, kun me aina puhutaan siitä, miten Suomi oli
+Puhuja 1: harmaa. Meillä oli
+Puhuja 1: kaksi TV-kanavaa, mutta molemmista tuli samaan aikaan TV-uutiset. Mutta kyllä Ruotsi on ollut ihan samanlainen.
+Puhuja 1: Ruotsalaisen
+Puhuja 1: sääntöruotsi
+Puhuja 1: toisenlaisen
+Puhuja 1: harmauden ja ankeiden tv-kanavien
+Puhuja 1: ja tavallaan tämmöiseen vähän 80-luvun maailmaan.
+Puhuja 1: Kinevik-yhtiö
+Puhuja 1: rupesi lähettämään
+Puhuja 1: ensin ulkomailta käsin
+Puhuja 1: mainosrahoitteista
+Puhuja 1: pitkästä kaapeleiden
+Puhuja 1: kautta. Ja sitten kävi valtavia oikeustaisteluita.
+Puhuja 1: Loppujen lopuksi tulos oli se, että he saivat mainostelevisioon
+Puhuja 1: Ruotsiin. Se kertoo Ruotsin muuttumisesta ja sukutrauma, missä
+Puhuja 1: Jan Kinevikik hänen siskonsa, jonka kansanedustaja hänen välissä ovat.
+Puhuja 1: Demarikan kansanedustaja välit ovat tosi huonot ja kaikki,
+Puhuja 1: Oliko se mieltä, että se ei varmaan ollut.
+Puhuja 1: Se oli Kokoomus kansanedustaja ja sisko. Joka tapauksessa
+Puhuja 1: ihan sairaan hyvin tehty sarja.
+Puhuja 1: Ruotsalaiset osaavat,
+Puhuja 1: että se näyttää hyvältä, se näyttää aidolta.
+Puhuja 1: Todella hyvät näyttelijät.
+Puhuja 1: Ihana
+Puhuja 1: katsoa
+Puhuja 1: tällaista sääntöä, ainakin otan ruotsia tässä lähetyksessä, mutta ihana katsoa
+Puhuja 1: ankeaa sääntöruotsia,
+Puhuja 1: joka myöskin on ollut todellisuutta joskus. Suosittelen. Ja sen sarjan nimi on
+Puhuja 1: Yle Areena
+Puhuja 1: Stenbäck.
+Puhuja 1: Mahtava sarja. Se on ihan uusi tänä vuonna valmistunut.
+Puhuja 1: Suosittelen lämpimästi.
+Puhuja 2: Anni. Jotenkin ajattelen,
+Puhuja 2: että meidän keskustelu aihe velkaantuva valtio ja kaikki tämä
+Puhuja 2: maailman yleisesti
+Puhuja 2: surkea tila. Ja sitten vielä tämä ylipainonkeskustelukin.
+Puhuja 2: Kannattaa lukea kaunokirjallisuutta
+Puhuja 2: ja mennä
+Puhuja 2: ihan
+Puhuja 2: toisenlaisia
+Puhuja 2: ajatuksia herättävään maailmaan.
+Puhuja 2: Tähän tilanteeseen sopisi vaikka Markus Nummen, onko se Markus Nummen? Oli. Joo, Käräjät-kirja,
+Puhuja 2: joka kertoo todella vanhoista ajoista. Ensinnäkin
+Puhuja 2: huomaa, miten oikeusvaltio-asiat
+Puhuja 2: ovat olleet haaste aina,
+Puhuja 2: Ylipaino ei silloin ollut haaste sen ajan Suomessa. Siitä ei ole saatu puhuttu, kaikki olivat aliravittuja.
+Puhuja 2: Ylipäätään hyvä kaunokirjallisuus,
+Puhuja 2: siitä
+Puhuja 2: tulee hyvä fiilis, mutta
+Puhuja 1: valaistunut.
+Puhuja 1: Se on ihan huikean hieno kirja. Parhaita uusia
+Puhuja 1: suomalaisia kaunokirjallisia teoksia, joita olen lukenut. Plus, että siinä on rakkaustarina. Sekin vielä.
+Puhuja 0: Haluan suositella yhtä asiaa, jota olen suositellut
+Puhuja 0: aiemminkin.
+Puhuja 0: Muistelen tämän ehkä
+Puhuja 0: noin kahdeksan vuotta sitten.
+Puhuja 0: Tämä on yliopistokurssi,
+Puhuja 0: joka on vaikuttanut minuun enemmän kuin
+Puhuja 0: siis puhutaan, että enemmän kuin mikään kirja tai enemmän kuin mikään podcast tai ainakin enemmän kuin mikään
+Puhuja 0: yliopistokurssi.
+Puhuja 0: Se on professori kuin Margaret Anderson.
+Puhuja 0: Hän oli Berklin
+Puhuja 0: yliopiston historian professori.
+Puhuja 0: Hänellä on tämmöinen, tämä on tarkoitettu
+Puhuja 0: tavallaan
+Puhuja 0: ensimmäisiin
+Puhuja 0: vuosien opiskelijoille tai sivuaineopiskelijoille,
+Puhuja 0: niitä sanotaan survey-kursseiksi,
+Puhuja 0: missä käydään laajalla kattauksella läpi se tutkimusaihe.
+Puhuja 0: Ja tämä on History 5
+Puhuja 0: eli
+Puhuja 0: The Making of Modern Europe, tuhat neljäsataaviisikymmentäkolme
+Puhuja 0: to the present.
+Puhuja 0: Se on siis Euroopan historian ja
+Puhuja 0: länsimaiden historian kurssi. Ja
+Puhuja 0: se on upea.
+Puhuja 0: Miksi vuodesta tuhat neljäsataaviisikymmentäkolme?
+Puhuja 0: Siitä alkaa
+Puhuja 0: renessanssiaika.
+Puhuja 1: Ai tarkalleen vuonna tuhat yhdeksänsataaviisikymmentäkolme?
+Puhuja 0: Joo, se liittyy, en muista tarkalleen, mihin se liittyy siinä
+Puhuja 0: Olen jaksossa kolme meneillään, kyllä se on mainittu siellä monta kertaa.
+Puhuja 0: Siitä alkaa
+Puhuja 0: kehityskulut, jotka alkavat muovata lännestä lännen.
+Puhuja 0: Ei kun niin, totta kai, sehän on
+Puhuja 0: Nikään kirkolliskokous.
+Puhuja 0: Joo.
+Puhuja 0: Muistaakseni, ei kun ei, ehkä Nikään kirkolliskokous oli aiemmin. Länsi muodostuu sillä, että on filioggre
+Puhuja 0: kiista.
+Puhuja 0: Onko kyse isästä, pojasta, Pyhästä Hengestä vai isästä ja pojasta
+Puhuja 0: ja
+Puhuja 0: Pyhästä Hengestä.
+Puhuja 0: Onko ne erillisiä vai yksi ja sama?
+Puhuja 0: Se raja on edelleen näkyvissä kaikissa tilastoissa,
+Puhuja 0: että ketkä jäävät Filioqvi-kiistan
+Puhuja 0: toiselle puolelle ja ketkä toiselle.
+Puhuja 1: Ketkä jää, ketkä ovat ne.
+Puhuja 0: Ne, jotka jäivät toiselle puolelle,
+Puhuja 0: niistä tuli ortodokseja ja ne, jotka ihan toiselta puolelta, niistä tuli
+Puhuja 2: katolilaisia. Miten se liittyy siihen, että ne hyökkäävät toisiin maihin? Ei mennä
+Puhuja 0: Se, näistä se kurssi lähtee
+Puhuja 0: liikkeelle ja sitten se vie ihan tähän päivään asti.
+Puhuja 0: Mä satuin vielä kuuntelemaan justiinsa katolisen kirkon vaiheita silloin, kun paavi kuoli.
+Puhuja 0: Se oli niin vavahduttavaa,
+Puhuja 0: kun just Luther oli alkanut purkamaan
+Puhuja 0: katolista kirkkoa. Siinä käytiin läpi sitä,
+Puhuja 0: mikä on ollut kirkon vaikutus ja mikä on kirkon hajoamisen vaikutus. Sitten samaan aikaan se paavi kuoli siellä uutisissa ja näin tuntui, että ahtaa on täydellinen kombo.
+Puhuja 0: Kurssi on huikea. Siihen liittyy semmoinen
+Puhuja 0: aivan
+Puhuja 0: ihme sivupolku.
+Puhuja 0: Berkleyn yliopisto, koska sehän on vähän tämmöinen
+Puhuja 0: Seventies
+Puhuja 0: ja
+Puhuja 0: vähän vassari liberaalihenkinen
+Puhuja 0: yliopisto, vaikka onkin siis maailman top viisi yliopistoja,
+Puhuja 0: niin he totta kai tarjosivat kaikki kurssinsa kaikille kansalle maapallolla kuunneltaviksi, että kuunnelkaa meidän kurssit, että opitte ja sivistyttyä, tämä on nyt maailman parasta opetusta. Ja sitten,
+Puhuja 0: opittuja ja sivistyttyä tämä on maailman parasta opetusta. Yhdysvalloissa oli oikeuskeissin,
+Puhuja 0: jossa ymmärrän
+Puhuja 0: tämän, ja vaikea olla.
+Puhuja 0: Tämmöinen kuuro nainen,
+Puhuja 0: joka valitsi siitä, että kun luentovideoita ei ole tekstitetty.
+Puhuja 0: Hän ei pysty katsomaan näitä.
+Puhuja 0: Niiden pitäisi olla tekstitetty Kaliforniien lainsäädännön mukaan.
+Puhuja 0: Worklyn yliopistolle oli, että meillä on joku neljäsataa kurssia täällä,
+Puhuja 0: kolmekymmentä kertaa kaksi tuntia luentoja. Meillä ei ole mitään mahdollisuutta tekstittää näitä, niin kuin Kaliforni lainsäädäntö vaatii.
+Puhuja 0: Vedetään nämä kaikki pois internetistä.
+Puhuja 0: Uskomaton
+Puhuja 0: aarre, että hävisi sen sileän tien. Ihan oikeasti,
+Puhuja 2: tekoälyä tekisi sen.
+Puhuja 0: Mutta jotkut aktivistit ja muut ja asialle omistautuneet on poikineet näitä kursseja esimerkiksi
+Puhuja 0: Spotifyhin.
+Puhuja 0: Sieltä löytyy tämä Margaret Andersonin
+Puhuja 0: kurssi, jonka nimi siis on
+Puhuja 0: History 5
+Puhuja 0: Spring kaksituhatta kahdeksan,
+Puhuja 0: The Making of Modern Europe tuhat neljäsataaviisikymmentäkolme
+Puhuja 0: to the President.
+Puhuja 0: Siinä kaikki tältä erää.
+Puhuja 0: Kiitos Hannele Lassila.
+Puhuja 0: Kiitos Marko Junkkari.
+Puhuja 0: Äänikuva ja kaiken muun mahtava meille tekee tällä viikolla Janne Elkki.
+Puhuja 0: Lähettäkää meille palautetta
+Puhuja 0: kaikissa mahdollisista muodoista ja tehdään niin, että kuullaan
+Puhuja 0: jälleen ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 1: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

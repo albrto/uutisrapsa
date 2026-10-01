@@ -1,0 +1,491 @@
+Puhuja 0: Ja tervetuloa Helsingin Sanomien Uutihaportti-podcastiin
+Puhuja 0: torstaina kahdeksas
+Puhuja 0: päivä.
+Puhuja 0: Syyskuuta
+Puhuja 0: vuonna kaksituhatta
+Puhuja 0: kaksikymmentäkaksi hetki meni. Mun nimi on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien
+Puhuja 0: podcast-studiossa
+Puhuja 0: ovat
+Puhuja 0: Helsingin Sanomien politiikan
+Puhuja 0: toimittaja
+Puhuja 0: Marko Junkkari.
+Puhuja 0: Hei Marko.
+Puhuja 0: No hei Tuomas. Mähän yritän erilaisilla variaatioilla aina saada se, että itseäni yllättäisin.
+Puhuja 0: Olet politiikan toimittaja.
+Puhuja 0: Mutta mikä mua yllättää todella on se, että meillä on täällä
+Puhuja 0: Helsingin Sanomien tutkivan journalismin
+Puhuja 0: tuottaja Salla Vuorikoski.
+Puhuja 2: Hei Salla. Hei, Tuomas! Sä oot ensimmäistä kertaa. Niin onkin. Mä oon odottanut. Mä aloitin helmikuun alussa Hesarissa. Mä olen koko ajan miettinyt,
+Puhuja 2: milloin sä pyydät mut tänne. Koska mehän ollaan oikeassa
+Puhuja 2: elämässä myös kavereita. Olen vähän ihmetellyt tätä pitkää
+Puhuja 0: hiljaisuutta. Pitkä hiljaisuus johtuu. Onko meidän kaveruudesta? Ihanaa.
+Puhuja 0: Tämän viikon podcastissa
+Puhuja 0: keskustellaan
+Puhuja 0: energiakriisistä.
+Puhuja 0: Suomen valtio pelasti Fortumin kymmenen miljardin
+Puhuja 0: pelastus paketilla. Toki siitä murusia meni myös muille energiayhtiöille,
+Puhuja 0: mutta Fortumin ympärillä pyörii
+Puhuja 0: Suomen osalta koko
+Puhuja 0: kauhistuttava
+Puhuja 0: energiatilanne.
+Puhuja 0: Keskustellaan
+Puhuja 0: siitä.
+Puhuja 0: Myös puhumme Jalis Harkimosta, joka Helsingin Sanomien viime sunnuntain ilmestyneen laajan artikkelin mukaan
+Puhuja 0: oli jo kovasti matkalla USA:n pakotelistalle
+Puhuja 0: hänen jäähalli
+Puhuja 0: ja Venäjä-yhteyksien
+Puhuja 0: vuoksi. Mutta mystisesti hän siltikin
+Puhuja 0: asteli tämän pakotelistan
+Puhuja 0: ohi. Mikä oli tämä kuvio? Kertoo
+Puhuja 0: Salla, joka jutun tuottajana
+Puhuja 0: seurasi hyvin läheltä
+Puhuja 0: tätä casea. Ja vielä puhutaan turkistarhauksesta.
+Puhuja 0: Maa ja metsätalousministeri
+Puhuja 0: Antti Kurvinen vieraili tällä viikolla turkistarhalla
+Puhuja 0: ja sen jälkeen naureskeli sille
+Puhuja 0: parahdukselle, joka pääkaupunki
+Puhuja 0: kuplasta
+Puhuja 0: kaikui.
+Puhuja 0: Ja lopuksi vielä hyviä keskustelun aiheita pitkien
+Puhuja 0: epämukavien
+Puhuja 0: hiljaisuuksien
+Puhuja 0: varalle.
+Puhuja 0: Okei,
+Puhuja 0: aloitetaan tästä energiakriisistä.
+Puhuja 0: Tiedostaen, että edelleen
+Puhuja 0: supermonimutkainen
+Puhuja 0: aihe. Tänään muun muassa Helsingin Sanomissa julkaistiin
+Puhuja 0: asiasta
+Puhuja 0: niin mainio
+Puhuja 0: Alexandherolinin
+Puhuja 0: juttu, jossa selitettiin tämä koko vakuus ja
+Puhuja 0: johdannaismarkkinakuvio.
+Puhuja 0: Se oli niin kuin olisi
+Puhuja 0: yhtäkkiä pätkästy lukemaan jotain
+Puhuja 0: pidempää matematiikkaa tai algebraa tai alkemiaa tai jotakin. Se oli todella vaikuttavaa
+Puhuja 0: ja upeaa.
+Puhuja 0: Mä haluaisin itse yrittäisi summata tätä
+Puhuja 0: energia kuviota, mutta ehkä mä vähän luovutan, Marko,
+Puhuja 0: sulle. Kiitos.
+Puhuja 1: Kiitos Tuomas siitä. Se oli tosi hyvä se Aleksi juttu.
+Puhuja 1: Olin siis taloustoimituksen pomo silloin vuonna kaksituhatta
+Puhuja 1: kahdeksan.
+Puhuja 1: Ja koitin ymmärtää, mitä Jenkeissä tapahtui. Opiskelin
+Puhuja 1: erilaisia
+Puhuja 1: johdannaishäkkyyröitä.
+Puhuja 1: Ja silloin vannoin, että ne ovat helvetin
+Puhuja 1: koneita. Ei sitä pitäisi kaikkien pysyä kaukana.
+Puhuja 1: Mutta nämähän on siis se Aleksi juttu liittyen
+Puhuja 1: näihin johdannaishäkkyreihin.
+Puhuja 1: Ei ole...
+Puhuja 1: Se juttu oli todella hyvä.
+Puhuja 1: Johdanaiset ovat maailman monimutkaisempia. Mutta se perusajatushan on hyvin yksinkertainen,
+Puhuja 1: minkä se Aleksin jutussa hyvin
+Puhuja 1: selitti.
+Puhuja 1: Jos
+Puhuja 1: siinä on joku taho, joka tavallaan myy vaikka
+Puhuja 1: Fortumitapas
+Puhuja 1: tulevaa sähköntuotantoa
+Puhuja 1: tai
+Puhuja 1: esimerkiksi esimerkiksi kemianalan
+Puhuja 1: yritys joka
+Puhuja 1: ostaa sähköä. Koska firmat tykkää siitä, että niillä on jonkinlainen näkymä
+Puhuja 1: tuleviin kuluihin ja näin, niin se on kiva.
+Puhuja 1: Kemian tiedosta voi vaikka sopia, että ne
+Puhuja 1: saavat sähköä ensi kuussa tai ensi vuonna tietyllä hinnalla.
+Puhuja 1: Eli
+Puhuja 1: he myyvät ja ostavat sähköä, jota ei vielä ole. Se on tulevaisuudessa
+Puhuja 1: toimitettavaa sähköä.
+Puhuja 1: Ja koska kehenkään ei voi tietenkään luottaa, sen pitää olla vakuus. Jos Fortum
+Puhuja 1: esimerkiksi
+Puhuja 1: myy
+Puhuja 1: syyskuussa kaksituhatta kaksikymmentäkolme
+Puhuja 1: toimitettavan
+Puhuja 1: sähkön
+Puhuja 1: kemianyhtiölle,
+Puhuja 1: niin sen kemianyhtiön pitää voida luottaa siihen, että se varmasti saa sen
+Puhuja 1: sähkön ja
+Puhuja 1: varmistetaan, että hinta on se, mitä on etukäteen vuotta aikaisemmin sovittu. Joo,
+Puhuja 1: vielä.
+Puhuja 1: Mietin
+Puhuja 0: Nyt tulee jotain. Suomi, että ne on hirveän vuodet.
+Puhuja 1: Ei ole syttynyt. Mietin vain, että voiko tätä
+Puhuja 1: ministerin omistusta. Mutta kyllä siis se...
+Puhuja 1: Siis nämähän ovat julkisia. Ministeri ilmoittaa siellä. Se löytyy suoraan hänen nettisivuiltaan,
+Puhuja 1: ministerin sidonnaisuudet, ja se kertoo, että hän omistaa monta sagaforsin osaketta. Satakaksikymmentä miljardia. Kännyyt ei vissiin ollutkaan. Tuhat euroa.
+Puhuja 1: Koska se on
+Puhuja 1: avointa, hän ei peittele omistustaan.
+Puhuja 1: Ja että hän vierailee sagaforssilla
+Puhuja 1: hakemassa
+Puhuja 1: pohjalaisia irtopisteitä, niin eihän se sinänsä hyödytä sagaforssia yhtään. En näe tässä minkäänlaista moraalista ongelmaa.
+Puhuja 0: Näistä Suomessa kaikki
+Puhuja 2: Että me mietimme
+Puhuja 2: sitä,
+Puhuja 2: että onko se nyt just se omistus ja miten se menee pykälien mukaan. Sitten tietysti sitä voi ehkä laajemmin
+Puhuja 2: ajatella sillä tavalla,
+Puhuja 2: että onko ministerin
+Puhuja 2: tehtävä ja missä määrin nostaa yksittäisiä
+Puhuja 2: yrityksiä. Varmasti
+Puhuja 2: jossain määrin on, koska yritykset ovat osa yhteiskuntaa.
+Puhuja 2: Niissäkin pitää vierailla ja pitää tuntea
+Puhuja 2: omaa toimialansa.
+Puhuja 2: Sittenhän se helposti menee
+Puhuja 2: mainosmiehen hommien puolelle.
+Puhuja 2: Juuri
+Puhuja 0: tällä
+Puhuja 0: kellonlyömällä
+Puhuja 0: tajusin, että tämähän on yksi aamupalakohu.
+Puhuja 1: Tässä oli se, ainakin Twitteristä oli näkevinäni, että tämän kurviskohun
+Puhuja 1: takia nyt on jälleen kerran
+Puhuja 1: tällainen
+Puhuja 1: kansalaisaloite turkistarhauksen
+Puhuja 1: kieltämisestä. Se yritti viisikymmentä tonnia tänä aamuna.
+Puhuja 0: Olikohan juuri tämä sama
+Puhuja 0: kansalaisaloite, tämä för free Europe?
+Puhuja 2: Mutta kyllähän se turkisala
+Puhuja 2: sinänsä...
+Puhuja 2: Jos lähtisin
+Puhuja 2: johdannaismarkkinoilla,
+Puhuja 2: veikkaan vain tästä, niin sanoisin, että varmaan ajan kysymys, milloin
+Puhuja 2: turkistarhaus
+Puhuja 2: ajetaan alas. Voi käydä
+Puhuja 2: toisinkin. Mutta jos katsoo kansainvälisiä
+Puhuja 2: trendejä,
+Puhuja 2: miten Euroopassa esimerkiksi on mennyt. Tämä on myös ehkä
+Puhuja 2: semmoista
+Puhuja 2: tietynlaista
+Puhuja 0: kamppailua vääjäämättömäksi. Kurvinehan sanoi, että tämä ei eroa liha ja maidon tuotantoalasta
+Puhuja 0: millään tavalla, jos
+Puhuja 0: ymmärrän, mitä hän sillä havittelee.
+Puhuja 0: Mutta mitä te olette mieltä tästä?
+Puhuja 0: Turkista nyt kuitenkaan ei enää missään päin maailmaa käytetä
+Puhuja 0: suojautuakseen
+Puhuja 0: talven kylmyyttä
+Puhuja 2: vastaan. Jos me ajatellaan,
+Puhuja 2: että eläimenkin elämä ja hyvä elämä on arvokasta,
+Puhuja 2: niin sitä me tietysti tasapainoillaan siinä, että missä määrin kuitenkin meille esim. Ruoan saaminen on
+Puhuja 2: välttämätöntä ja missä määrin tarvitaan
+Puhuja 2: sitä
+Puhuja 2: eläintaloutta. Mutta turkiksethan nyt on kuitenkin
+Puhuja 2: tarpeeton ihmiselle
+Puhuja 2: lähtökohtaisesti. Se on puhtaasti
+Puhuja 2: esteettinen asia,
+Puhuja 2: Käsittääkseni...
+Puhuja 2: Väistetinen
+Puhuja 2: mieluummin. Kuka mistäkin? Kuka mistäkin raajoja
+Puhuja 0: hartioilla.
+Puhuja 2: Onko koronan varma? Sinulla voisi olla iso
+Puhuja 2: turkisviitta.
+Puhuja 1: Kyllä olen myös ihan täysin varma, että turkistarhaus kielletään myös Suomessa seuraavan kymmenen vuoden kuluessa. Ehkä nopeammin. Viisi-viisi vuoden kuluessa. Mielestäni oli tosi mielenkiintoista, kun on olemassa
+Puhuja 0: För free Europe
+Puhuja 0: kansalaisadressi,
+Puhuja 0: jota muun muassa Animalia
+Puhuja 0: ajaa.
+Puhuja 0: Tämä
+Puhuja 0: on ei adressi, vaan tämä on
+Puhuja 0: EU:n laajuinen kansalaisaloite.
+Puhuja 0: Tämän
+Puhuja 0: taustamateriaaleissa
+Puhuja 0: tai millä nämä markkinoivat
+Puhuja 0: tätä omaasa, siellä
+Puhuja 0: sanotaan, että nyt on tavallaan ainutlaatuinen
+Puhuja 0: mahdollisuus lopettaa
+Puhuja 0: Euroopan
+Puhuja 0: laajuisesti, koska koronan seurauksena on käynyt sillä tavalla,
+Puhuja 0: että koska
+Puhuja 0: koronavirus
+Puhuja 0: leviää tosi herkästi vinkkitarhoilla,
+Puhuja 0: niin sen takia monessa maassa turkistatarhaus on väliaikaisesti
+Puhuja 0: pistänyt. Ainakin
+Puhuja 1: Tanskassa tapetti vissiin siinä turkiseläimiä oikein aikaa. Kyllä, täällä laitettiin
+Puhuja 0: pitkään säppiin
+Puhuja 0: turkistarhat
+Puhuja 0: ja sitten päätettiin, että okei, nyt kun ne on mennyt koronan takia säppiin, niin nyt itse asiassa
+Puhuja 0: pistetään koko ala kiinni.
+Puhuja 0: Tavallaan, että nyt olisi semmoinen sauma, että monet
+Puhuja 0: turkistarhat
+Puhuja 0: on jo varautuneet koronan vuoksi siihen, että heillä ei ole bisnestä, että he kehittää jotain muuta. Nyt olisi tavallaan heidänkin kannaltaan inhimillinen aika sitten jatkaa tätä väliaikaista turkis pannaa
+Puhuja 0: ja muuttaa se pysyväksi?
+Puhuja 2: Siis
+Puhuja 2: käytännössähän
+Puhuja 2: turkiksethan menee isolta osin
+Puhuja 2: Kiinaan
+Puhuja 2: ja sitten ennen myös Venäjälle, mä en tiedä, missä määrin sinne nyt on jatkettu myyntejä edelleen.
+Puhuja 0: Miksi ne menevät Kiinaan?
+Puhuja 0: Kiinan
+Puhuja 0: johtaja on Nalle Puh, niin siellä on muotia pukeutua.
+Puhuja 0: Sen niin kuin olla mukana Nallepuu.
+Puhuja 1: Taaks Nalle Puhilla turkki?
+Puhuja 2: Nallepuuhun.
+Puhuja 2: Sinä keksit tuon päästäsi.
+Puhuja 2: Pitää ymmärtää, kun me puhumme Antti kurvisesta ja turkistarhoista,
+Puhuja 2: niin pitää ymmärtää, että keskustalla on puolueena muutama tällainen
+Puhuja 2: elämänlanka, jota he pitävät hengissä. Toinen on turve
+Puhuja 2: ja toinen turkikset. Tällaiset, jotka oikeasti, kun ruvetaan katsomaan
+Puhuja 2: työllisyysvaikutuksia,
+Puhuja 2: esimerkiksi ihan työpaikkoja, mitä ne luovat, niin nehän ovat, jos ei nyt lilliputteja, niin sanotaan kuitenkin hyvin
+Puhuja 2: pieniä
+Puhuja 2: osuuksia taloudestamme.
+Puhuja 2: Näillä ei ole sellaista valtavaa taloudellista merkitystä, mutta niillä voi olla alueellisesti
+Puhuja 2: ja poliittisesti
+Puhuja 1: merkitystä. Ne myös symboloivat jotain. Nimenomaan se symboli merkitys on iso.
+Puhuja 1: Turkistarahasto on keskustan ehkä tällainen
+Puhuja 1: suurin pyhälihmä.
+Puhuja 1: Siellä koetaan,
+Puhuja 1: että tässä puututaan maaseudun
+Puhuja 1: elämäntapaan
+Puhuja 1: tavalla, joka ei käy.
+Puhuja 2: Saako
+Puhuja 2: tulla tällaisen yllätysaiheen tähän? Katso, mikä viesti tuli. Nuorisosäätiön
+Puhuja 2: entinen toimitusjohtaja
+Puhuja 2: Aki Haaro perui tunnustuksensa.
+Puhuja 2: Oikeudenkäynti
+Puhuja 2: peruuntuu.
+Puhuja 2: Siis kaiken piti olla jo selvää.
+Puhuja 1: No, kyllä tiesin tuon. Tiesit sen. Tai epäilet tämän. Onko se sinun juttu vai? Ei ole ennalta.
+Puhuja 1: Epäilijä, että noin käy.
+Puhuja 0: Okei. Ehkä meitä tähän nyt upota. Ei upota, mutta iso uutinen. Mielestäni turkista tarhat pitää lopettaa.
+Puhuja 0: Haluan sanoa sen. Mielestäni eläimille pitää taata samanlaiset oikeudet kuin ihmisille.
+Puhuja 0: Minulle tulee mieleen semmoinen,
+Puhuja 0: joskus Ysärillä
+Puhuja 0: oli tämmöinen ohjelma kuin Adventures.
+Puhuja 0: Ehkä se oli nollarilla, mutta kuitenkin vuosikymmeniä sitten. Siinä Riku ja Tunna meni
+Puhuja 0: johonkin afrikkalaiseen
+Puhuja 0: todella syrjäiseen heimon vieraaksi.
+Puhuja 0: Sillä heimolla oli semmoinen tapa, että kun lapsi oli syntynyt, siis vauva oli syntynyt ja kun se oli
+Puhuja 0: muutamia kuukausia vanha, niin sen naama viileltiin,
+Puhuja 0: Puukolla
+Puhuja 0: koristeltiin se naama.
+Puhuja 0: Muistan, kun katsoin sitä ohjelmaa, ja yritin sillä tavalla, että kaikilla
+Puhuja 0: omat tapansa ja täytyy kunnioittaa muiden kulttuuria. Puolivälissä
+Puhuja 0: sitä ajatusta, että tapaan, että ei, tämä on tyhmää paska ja tuo pitää lopettaa.
+Puhuja 0: Mun mielestä turkistarhaus
+Puhuja 2: on sama asia. Se on sama kuin vauvojen ja naamojen viiltelystä
+Puhuja 2: Afrikassa.
+Puhuja 0: Niin. Kunnioitsijat
+Puhuja 0: loppuu johonkin.
+Puhuja 0: Okei,
+Puhuja 0: siinäkö
+Puhuja 0: ehkä...
+Puhuja 0: Sitten kun käymme
+Puhuja 0: turkikset
+Puhuja 0: harteilla ulos afrikkalaista vihakkosta
+Puhuja 0: Puhaltelette vähän aikaa siinä kivellä.
+Puhuja 0: Otatte, mitä Pohjanmaalla
+Puhuja 0: juodaan, mikä on pohjanalaista
+Puhuja 0: jotain?
+Puhuja 1: Viime. Pontiikkaa
+Puhuja 0: kai siellä juodaan, joo.
+Puhuja 0: Otatte tömpsyn pontikkaa, varokaa sokeusvaara
+Puhuja 0: on suuri.
+Puhuja 0: Sitten rupeatte
+Puhuja 0: matkaseuru
+Puhuja 0: ennen
+Puhuja 0: partnereille
+Puhuja 0: ja
+Puhuja 0: auton kuljettajille kertomaan.
+Puhuja 0: Siirtomaaherottyylisiä
+Puhuja 0: juttuja. En tiedä, miksi tämä keskustelu meni tähän suuntaan.
+Puhuja 0: Ruppaatko kertoa heille kuitenkin juttuja välttääkseni kiusallisia hiljaisuuksia.
+Puhuja 0: Mistä heille kerrytti?
+Puhuja 1: Aloita
+Puhuja 2: sinä.
+Puhuja 2: Kerron siitä, että lähdin tänä kesänä
+Puhuja 2: kesälomareissulle
+Puhuja 2: ja sitten aina sanon, että nyt luen jotain.
+Puhuja 2: Luen
+Puhuja 2: reissulla jotain semmoista
+Puhuja 2: ei-asiasisältöistä,
+Puhuja 2: jotain romaania, jotain jännittävää tai romantiikkaa
+Puhuja 2: tai
+Puhuja 2: jotain sellaista, mikä irrottaa näistä Fortumeista ja turpeesta
+Puhuja 2: ja kaikesta muusta.
+Puhuja 2: Sitten kuitenkin käy niin, että löydän itseni
+Puhuja 2: kirja kädessä
+Puhuja 2: Italian rannalta.
+Puhuja 2: Olen työkaverilta varastanut,
+Puhuja 2: ei kerrota hänelle sitä.
+Puhuja 2: Vuodelta kaksituhatta kuusi Michael Finngelin
+Puhuja 2: kirjoittama kirja. Tunnetteko miehen?
+Puhuja 2: Ei soita mitään kelloja. Hän oli New York Timesin
+Puhuja 2: nuori, ehkä kolmekymppinen
+Puhuja 2: toimittaja, joka
+Puhuja 2: oli siis syöksynyt tällaiseen menestykseen tekemällä ulkomaanpreparijuttuja.
+Puhuja 2: Siis käynyt
+Puhuja 2: erilaisissa vaikeasti
+Puhuja 2: saavutettavissa paikoissa ja tehnyt hienoja
+Puhuja 0: juttuja. Matkarepportaanaseen?
+Puhuja 2: Niin, tai siis
+Puhuja 2: ulkomaan
+Puhuja 2: toimittajaa. Tällaista Peatureenhenkistä
+Puhuja 2: hienoa
+Puhuja 2: kamaa.
+Puhuja 2: Sitten hänellä kävi siinä semmoinen
+Puhuja 2: tilanne, että
+Puhuja 2: hän jäi kiinni.
+Puhuja 2: Eli hän oli sepittänyt
+Puhuja 2: omaan juttuunsa päähenkilön.
+Puhuja 2: Eli päähenkilö, tällainen
+Puhuja 2: kaakaoblantaaisin
+Puhuja 2: työntekijä,
+Puhuja 2: häntä ei oikeasti ollutkaan olemassa. Hän jäi siitä kiinni. Ja sitten hänen uraansa
+Puhuja 2: crash.
+Puhuja 2: Samaan aikaan toisaalla Meksikossa otetaan kiinni
+Puhuja 2: sellainen pakosalla oleva perheenisä,
+Puhuja 2: jota epäillään perheensä
+Puhuja 2: raa'asta murhasta, murhasta kahden pienen lapsen ja
+Puhuja 2: vaimonsa murhasta.
+Puhuja 2: Käy ilmi, että tämä mies on esiintynyt
+Puhuja 2: Michael Finkelinä
+Puhuja 2: New York Timesin toimittajana
+Puhuja 2: siellä pakoreississulansa.
+Puhuja 2: Erittäin onnistuneesti, kunnes hänen valheensa kasvoivat liian suuriksi ja hän jäi kiinni ja hänet vietiin
+Puhuja 2: Yhdysvaltoihin vankilaan. Mutta tämä on se setting, josta tämä kirja lähtee
+Puhuja 2: liikkeelle.
+Puhuja 2: Ja sitten alkaa
+Puhuja 2: tällainen
+Puhuja 2: omien syntien läpikäynnin
+Puhuja 2: ja
+Puhuja 2: journalismin
+Puhuja 2: ja
+Puhuja 2: ihmisyyden. Nämä ihmiset tutustuvat toisiinsa. Se käy vankilassa tapaamassa sitä. Odota, ota. Eli on tämä Löfacsin toimittaja, joka on kirjoittanut tämän kirjan.
+Puhuja 0: Hän
+Puhuja 0: siinä käy ilmi sitä, miten hän on kusettanut ihmisiä
+Puhuja 2: ja keksinyt päähenkilön omia juttujaan. Hän käy, hän tekee tilinpidon omasta
+Puhuja 2: toiminnasta ikään kuin katsoo peräpeiliin.
+Puhuja 0: Samalla hän myös kertoo tästä tyypistä, joka on esiintynyt hänenä. Joo, ja hän vankilassa tutustuu tähän
+Puhuja 2: Irpean. Tämä on totta. Mitä hittaa? Siis tämä kirja oli, vaikka tämä on oikeasti melkein kaksikymmentä vuotta vanha, niin tämä oli todella jotenkin, ehkä journalistiminään, niin sitten erityisesti tykkäsi tästä,
+Puhuja 2: niin todella kiehtova
+Puhuja 2: tositarina.
+Puhuja 2: Tämän nimi onkin true Story.
+Puhuja 2: Toisin kuin se,
+Puhuja 2: mistä hän oli jäänyt kiinni. True Story, mör the memoar Mea Kulppa.
+Puhuja 0: Oho!
+Puhuja 0: En
+Puhuja 2: tiedä, löytyykö kirjastoista
+Puhuja 2: jo lubear.
+Puhuja 1: 2000-luvun alussa jäi New York Timesissa myös Alexander Blair niminen toimittaja kiinni siitä, että se oli eeppittänyt
+Puhuja 1: kaikenlaista.
+Puhuja 1: Väittänyt olleensa paikoissa ja sitten keksinyt siellä haastatteluja ja kaikenlaista muutakin.
+Puhuja 1: Minäkin joskus luin aikaa sitten hänestä kirjan.
+Puhuja 1: Mekin hassua siinä oli se, että näki
+Puhuja 1: ihan suunnattomasti
+Puhuja 1: vaivaa.
+Puhuja 1: Ettei se siihen, että se ei mennyt niihin paikkoihin. Että se
+Puhuja 1: piilotteli jossain New Yorkissa
+Puhuja 1: pienessä asunnossa ja koitti muuta kautta selvittää millaista siellä lyseonssä jossain. Eikö se ollut helpompi mennä, vaan se menee sinne? Joskus rikoksen tekeminen on vaikeampaa.
+Puhuja 0: Kunnilla Jarkko Martikaisen kappale kesälomakellarissa,
+Puhuja 0: joka kertoo perheestä, joka kannattelee naapurille, joka lähtee kesäleelle, joka lähtee kesälomalla, että he menevät kellaaan.
+Puhuja 0: Kunnes tapahtuu katastrofia, heidän koira sairastuu.
+Puhuja 0: Ja sitten he joutuvat
+Puhuja 0: häpeällisesti luovuttamaan ja viemään koiran eläinlääkäri ja kaikki paljastuu.
+Puhuja 0: Nämä on mustalla.
+Puhuja 0: Hämmentätää kyllä todella koskettava biisi.
+Puhuja 0: Hyvä. Marko.
+Puhuja 1: Olen
+Puhuja 1: ja sitten aina junahdaamaan.
+Puhuja 1: Löydän jonkun
+Puhuja 1: genren ja jonkun kirjailijassa lukemaan sitä. Nyt olen päätynyt vakoilujajuttuihin.
+Puhuja 1: Nyt olen lukenut pelkästään
+Puhuja 1: viimeiset, varmaan puolitoista tai pari kuukautta pelkästään
+Puhuja 1: fiktiivisiä vakoja tarinoita. Viimeisin, jonka olen laittanut, on tällainen amerikkalainen,
+Puhuja 1: Oolen Stein Hower, joka on kirjoittanut tällaisia
+Puhuja 1: Tämä on vähän tällainen ehkä John Lekarre tyyppinen kirjailija.
+Puhuja 1: Hyvin monimutkaisia ja tavallaan
+Puhuja 1: kiehtovia nämä
+Puhuja 1: juonittelut ja agenttitarinat.
+Puhuja 1: Ehkä tämä ero on se, että tässä on toisin kuin Lekareilla, jolla on
+Puhuja 1: hienoja
+Puhuja 1: henkilöhahmoja ja niillä tunteet ja inhimillisiä piirteitä. Tällä
+Puhuja 1: uuden steinhawrilla
+Puhuja 1: ne henkilöhahmot ovat aika kapoisia.
+Puhuja 1: Ne ovat myös kiehtovia ne tarinat. Ne ovat niin sairaan monimutkaisia. Ne sijoittuvat. Kyllä se talo on nykyaikaa.
+Puhuja 1: Tapahtuu suunnilleen kirjoittamaan
+Puhuja 1: kirjoittamisen hetkellä. Luin tällaista...
+Puhuja 1: Tämän nimi
+Puhuja 1: oli Kairory Affair. Se sijoittuu
+Puhuja 1: Pohjois-Afrikkaan
+Puhuja 1: ja Lähi-itään tässä silloin, kun tämä
+Puhuja 1: kansanosuuden
+Puhuja 1: Arabian vallankumouksen aikaan.
+Puhuja 1: Olen tullut neljä kirjaa viimeisen parin viikon aikana.
+Puhuja 1: Joka kirjassa juoni on aina niin sairaan monimutkainen. Musta tuntuu, että
+Puhuja 1: lopussa
+Puhuja 0: Olen Stein Hower. Olen Stein Hower.
+Puhuja 0: Dekkareiden
+Puhuja 0: johdannaiskirjailija.
+Puhuja 0: Mulla on kaksi suositusta.
+Puhuja 0: Eka on semmoinen, että teidän täytyy luottaa muhun ja kuunnella tämä, vaikka kenenkään ei tee mieli kuunnella tätä. Myöskään mun ei tehnyt mieli kuunnella tätä, mutta onneksi kuuntelin sellainen kuin Hunting War Head, CPC:n eli Kanadan
+Puhuja 0: Yle,
+Puhuja 0: heidän tekemän podcast-sarja,
+Puhuja 0: muistaakseni kuususalainen,
+Puhuja 0: kertoo
+Puhuja 0: näistä internetistä
+Puhuja 0: toimivista lapsipornan ringeistä.
+Puhuja 0: Hyvin vastenmielinen aihe. Tämä sarja on tehty sillä tavalla, että vaikka on näin vastenmielinen ja luotaantyöntävä aihe, sen pystyy kuuntelemaan
+Puhuja 0: vajoamatta
+Puhuja 0: itseinhonia,
+Puhuja 0: synkkyyden maisemiin.
+Puhuja 0: Se kertoo todella mielenkiintoisesti
+Puhuja 0: norjalaisesta
+Puhuja 0: hakkerista, joka lähti paljastamaan
+Puhuja 0: tämmöistä Tor-verkossa
+Puhuja 0: toimivaa
+Puhuja 0: lapsipornon rinkiä. Se kertoo
+Puhuja 0: siitä tyypistä, joka pyöritti lapsipornoringin
+Puhuja 0: keskustelufoorumeita,
+Puhuja 0: missä ne jakotetaan materiaalia.
+Puhuja 0: Se kertoo australialaisesta
+Puhuja 0: poliisiyksiköstä,
+Puhuja 0: joka on maailmankuulu
+Puhuja 0: poliisien
+Puhuja 0: keskuudessa siitä, että ne työkseen nappaa näitä netissä toimivia lapsipannurinkejä.
+Puhuja 0: Aihe on tosi rankka. Siinä hyvin vähän sivutaan itse
+Puhuja 0: tapahtumaa. Sen voi kuunnella ilman, että joudut ajattelemaan koko ajan. Se keskittyy poliisityöhön ja näihin hakkereihin
+Puhuja 0: ja näihin
+Puhuja 0: tämmöisiin netissä toimiviin tapahtumiin. Se on superkiinnosta.
+Puhuja 0: Se on superkiinnostava
+Puhuja 0: katsaus, miten
+Puhuja 0: poliisit toimii,
+Puhuja 0: miten nämä ringit toimii.
+Puhuja 0: Kannattaa ehdottomasti kunnossa. Se on tosi hyvin tehty ja todella, todella kiehtova ja jännittävä.
+Puhuja 0: Hunting warhead.
+Puhuja 0: Suosittelen.
+Puhuja 0: Iloisemmissa merkeissä suosittelen.
+Puhuja 0: The house of the Dragon?
+Puhuja 0: No, Game of Thromce jatko-osa.
+Puhuja 0: Eli Game Rroms kaikki aikojen paras sarja. Sillä
+Puhuja 0: tehtiin
+Puhuja 0: heti, kun Game Rroms lakkasi, tiedettiin, että HBO tekee seuraavan suursatsauksia,
+Puhuja 0: joka on tämä. How's the Dragon kertoo targerien suvun
+Puhuja 0: tarinan, miten heistä tuli se suku, joka näytteli sitä roolia Game Thronesissa, mitä näytteli.
+Puhuja 0: Ja totta kai, koska Game Thrones oli niin upea ja semmoinen sukupolvikokemus,
+Puhuja 0: niin
+Puhuja 0: automaattinen oletus on silleen, että tämä sarja tulee olemaan ihan paskaa siihen verrattuna. Ja sen takia kieltäydyn katsomasta tätä. Ajattelen, että en kykene.
+Puhuja 0: Vähän niin kuin kun ihaile jotain
+Puhuja 0: muusikkoa vaikka, niin eihän sitä halua nähdä sitten, tiäkkäsen uran
+Puhuja 0: loppupäässä, kun se on paskaa ja vähän nolo.
+Puhuja 0: Sitä mä pelkäsin tämän suhteen. Mutta olin väärässä. Sarja on todella hyvä, todella, todella. Se on game of Thrones, mutta nämä tyypit ovat uusia. Sama intensiteetti, sama poliittinen juonittelu, sama
+Puhuja 0: monet eri tasot lähtee käyntiin.
+Puhuja 0: Todella
+Puhuja 0: brutaali, todella brutaali,
+Puhuja 0: seksi ja väkivaltaa. Kaikki mikä teki Game ofronce hyvän, se on tässä läsnä.
+Puhuja 0: Todella iloinen yllätys.
+Puhuja 0: Katsokaa
+Puhuja 0: ehdottomasti
+Puhuja 0: house of the Dragon tai house of the Dragon. Joku näistä vaihtoehdoista. Katsoin sen ekan jakson. No?
+Puhuja 1: Kun en enää katso koko Kiki näitä Game of pronssia. Olen
+Puhuja 1: ylpeä siitä, ei kai jo katsoakaan. Mitä
+Puhuja 0: otan. Kannattaa ehdottomasti katsoa kierros. Ja kannattaa katsoa House the Dragon.
+Puhuja 0: Siinä kaikki tältä erää. Kiitos, Marko Junkkari. Kiitos.
+Puhuja 0: Kiitos, Salla Vuorikoski.
+Puhuja 2: Kiitos.
+Puhuja 0: Äänenä ja kuvan ja kaiken muun mahtava meille tekevät tällä viikolla ONO:na Mattila.
+Puhuja 0: Kiitos, Oona.
+Puhuja 0: Oona siellä vilkuttelee.
+Puhuja 0: Lähettäkää meille palautetta
+Puhuja 0: uutisraporttia.
+Puhuja 0: Me kuulemme taas ensi viikolla... Minä haluan nyt loppua pahoitella kaikille, että olen vähän kipeä. Hän kuuluu
+Puhuja 0: äänessä ja energiassa.
+Puhuja 0: Ensi viikolla olen terve.
+Puhuja 0: Terve!

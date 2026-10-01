@@ -1,0 +1,449 @@
+Puhuja 0: Hei ja tervetuloa Uutis-robotti-podcastiin
+Puhuja 0: marraskuun kaksituhatta
+Puhuja 0: kuusitoista Minä olen Tuomas Peltomäki. Mukana myös Helsingin Sanomien politiikan toimittaja Marko Junkkari. Terve Marko! Terve Tuomas. Mistä sinä Marko tulit näin taas?
+Puhuja 0: Viisi minuuttia miehestä studioon.
+Puhuja 1: Joo, menen ensi viikolla itsenäisyyspäivä,
+Puhuja 1: Suomi täyttää -yhdeksänkymmentäyhdeksän.
+Puhuja 1: Minua on menossa sinne Linnan juhliin raportoimaan. Meillä oli äsken
+Puhuja 1: mainoskuvaukset.
+Puhuja 1: Aika frakki päällä.
+Puhuja 1: Kyllä vielä tehdään leikkisiä poseerauksia.
+Puhuja 0: Onko tämä ensimmäinen kertako Linnajuhlassa? Kyllä.
+Puhuja 0: Miltä tuntuu?
+Puhuja 1: Pohjimmiltaan hyvää katkerutta kun ei ole tullut kutsua.
+Puhuja 0: Niin Marko Junkkareihan siis palaa Helsingin Sanomien, arvosta sun Helsingin Sanoman politiikan toimituksen
+Puhuja 0: pitkäaikainen
+Puhuja 0: entinen esimies. Etkä silti ole saanut omilla ansioilla
+Puhuja 0: kutsua Linnan juhlin. Mistä tää johtuu? Sä oot kyllä tallonut jonkun varpailla. Tää on peiliin katsomisen
+Puhuja 0: katsomisen
+Puhuja 0: paikka. Ja mukana myös saman
+Puhuja 0: lehden sunnuntailiittojen
+Puhuja 0: toimittaja Anna-Sofia Perner, ystävien kesken Sohvi. Terve Sohvi!
+Puhuja 0: Terve, terve. Mitä sinulle kuuluu, oletko sinä saanut kutsun Linnan juhlin? En ole saanut kutsun Linnan juhuja. En ole minäkään,
+Puhuja 0: mutta ei kukaan kyllä oletakaan.
+Puhuja 0: Tämän viikon jaksossa puhutaan pääministeri Juha Sipilän, hänen lastensa, enojensa ja serkkujensa bisneksistä
+Puhuja 0: suomalaisissa korpimetsissä ja lisäksi Kelan uuden pääjohtajan Elli Aaltosen järkyttävistä
+Puhuja 0: lausunnoista viime viikon Suomen kuvalehdessä.
+Puhuja 0: Lopuksi hyviä keskustelun aiheita
+Puhuja 0: pitkien epämukavien hiljaisyyksien
+Puhuja 0: varalle, vaikka ensi perjantaina F2U:lle.
+Puhuja 0: Okei, ennen kuin mennään mihinkään aiheeseen, niin haluaisin
+Puhuja 0: lyhyesti sanoa teille, kun te ihmiset kuuntelette
+Puhuja 0: tätä podcastia esimerkiksi
+Puhuja 0: nyt. Fi:n
+Puhuja 0: saitilta,
+Puhuja 0: Playeristä.
+Puhuja 0: Sen lisäksi,
+Puhuja 0: jos haluat kuunnella tätä näppärästi kännykällä sillä tavalla, että kännykän
+Puhuja 0: saa laitettua kiinni siinä samalla, ettei tarvitse siitä nettiselaimesta
+Puhuja 0: kuunnella,
+Puhuja 0: niin ladatkaa sellainen Supla niminen appi teidän puhelimeen, löytyy Android Kaupasta ja löytyy Applen
+Puhuja 0: Storesta.
+Puhuja 0: Ja ladatkaa se Supla ja sen jälkeen etsikää uutisraportti-podcast
+Puhuja 0: sieltä, niin
+Puhuja 0: sen avulla voitte kuunnella vähän niin kuin järkevämmin. Olemme jonkin verran saaneet viestejä, että ihmisillä ei aina ihan aukea, että miten tätä on tarkoitus kuulla, koska se on niin epämukavaa, että jos sen jättää kännykässä auki sen selaimen, niin sitten se tiesi mitä siellä tapahtuu. Tämä vaan tiedoksi.
+Puhuja 0: Vielä pyytäisin
+Puhuja 0: heti näin alkuun,
+Puhuja 0: että kuulija hyvä:
+Puhuja 0: jos pidät podcastista,
+Puhuja 0: niin ole kiltti ja jaa sitä omassa sosiaalisessa
+Puhuja 0: mediassa.
+Puhuja 0: Tviittaa, mainosta
+Puhuja 0: ja näin päin pois. Se on meille tosi tärkeää, jotta me saadaan enemmän kuulijoita, jotta me pystytään jatkamaan tämän
+Puhuja 0: podcastin tekemistä. Hyvä, okei, tässä on.
+Puhuja 0: Tällä
+Puhuja 0: viikolla Yle
+Puhuja 0: ja ennen Yle Kansanuutiset
+Puhuja 0: kertovat, että pääministeri Juha Sipilän sukulaisten omistama konepajayhtiö
+Puhuja 0: Cutera Steel on saanut merkittävän tilauksen valtion omistamalta Terraframen
+Puhuja 0: eli tältä Terraframen.
+Puhuja 0: Eli Talvivaaran
+Puhuja 0: kaivokselta.
+Puhuja 0: Ongelmallista tässä on tietenkin se, että konepajayritys
+Puhuja 0: Katerastiilin pääomistajia
+Puhuja 0: ovat
+Puhuja 0: kaikki
+Puhuja 0: pääministeri Juha Sipilän enot ja serkut ja sukulaiset ja kaimat ja veljen enot ja koirat.
+Puhuja 1: Kai on olennaista, että Sipilän
+Puhuja 1: sijoitusyhtiö, jonka hän siirsi lapsille, jossa hän itse jonain mukana, omistaa viisi prosenttia. Kyllä,
+Puhuja 0: Sipilän sijoitusyhtiö
+Puhuja 0: Fortel Invest omistaa pienen osuuden yhtiöstä viisi prosenttia.
+Puhuja 0: Loput Sipilän
+Puhuja 0: sukulaiset eli enot ja serkut omistavat
+Puhuja 0: siitä yhdeksänkymmentäviisi prosenttia.
+Puhuja 0: Mutta siitä huolimatta kaksi viikkoa sitten hallituksen talouspoliittinen
+Puhuja 0: ministerivaliokunta päätti antaa Herra Famelle sata miljoonaa
+Puhuja 0: euroa lisää valtion rahaa. Tämä on herättänyt Suomessa kovan keskustelun pääministerin roolista ja mahdollisista
+Puhuja 0: jääviyskysymyksistä.
+Puhuja 0: Onko Sipilä toiminut oikein?
+Puhuja 2: Minun silmin näytti siltä, että
+Puhuja 2: keskustelu lähti vasta siitä Juha Sipilän
+Puhuja 2: blogikirjoituksesta,
+Puhuja 2: joka on otsikoitu ja tuli viime perjantaina, jonka hän oli otsikoinut Ylen jutussa
+Puhuja 2: jälleen väärä tiedot ja sitten hän kirjoitti muun muassa, että minä kestän sen, että minua hakataan median puolelta,
+Puhuja 2: mutta sitä en hyväksy, että lapset ja sukulaiset vedetään asemani vuoksi Logaan.
+Puhuja 2: Vedettiinkö Margoita tarkoittaa, että voit kuukaudeksi ottaa ihmisen töihin vähän kokeilulla ilman palkkaa ja on tavallaan erilaisia juttuja,
+Puhuja 2: joilla työnantaja voi palkata työttömiä siten, että se ei maksa hänelle pitää.
+Puhuja 2: Minua kiinnostaa myös se, että miksi Suomessa on niin vaikea palkata ihmisiä. Esimerkiksi
+Puhuja 2: yksi ystävä viime viikolla tuli Helsinkiin
+Puhuja 2: työhaastattelussa, ryhmätyöhaastatteluun,
+Puhuja 2: jonka järjesti
+Puhuja 2: työnvälitysvuokrausfirma.
+Puhuja 2: Se työ mitä se haki olisi
+Puhuja 2: kolme-kuusi viikon mittainen, ei ihan tarkkaan tiedetä. Yksitoista pilkku viisi euron tuntipalkka on aika simppeli toimistohomma.
+Puhuja 2: Siihen järjestettiin ensin ryhmähaastattelu,
+Puhuja 2: missä kuulemma oli tuplamaistereita ja kaikkea keskustelemassa keskenään, että minkälainen nyt on hyvä työntekijä.
+Puhuja 2: Sitten sen jälkeen tulee vielä yksilöhaastattelu
+Puhuja 2: ja sen jälkeen vielä joku testi, missä katsotaan, että osaatko nyt skannata niitä papereita vai ei.
+Puhuja 2: Se on liikaa. Niin tämä todellisuus minusta kertoo siitä, että se on ihan älytöntä, että
+Puhuja 2: niitä
+Puhuja 2: töitä ei välttämättä ole tai ainakin
+Puhuja 2: palkkaussysteemi
+Puhuja 2: on ihan pimeä.
+Puhuja 1: Sehän on niin kuin, jos nyt oikein olen ymmärtänyt, mutta sehän on myös vastikkeellisen sosiaaliturvan tausta-ajatuksena, että sehän johtaa...
+Puhuja 1: Sehän alentaa
+Puhuja 1: näiden vähiten koulutusta vaativien töiden palkkausta.
+Puhuja 1: Ja se synnyttää halpatyömarkkinat,
+Puhuja 1: ja siitä päästään taas työn
+Puhuja 1: tarjonnan
+Puhuja 1: lisäämisen kautta, niin myös työpaikkoja pitäisi syntyä.
+Puhuja 0: Mutta jälleen tuossa puhutaan siitä
+Puhuja 0: perspektiivieroista.
+Puhuja 0: Jos sä näet, että
+Puhuja 0: jokainen ihminen
+Puhuja 0: Suomessa on samanlainen
+Puhuja 0: kuin sinä, että
+Puhuja 0: niin kuin Tuomas Peltömäki tässä pöydän ääressä näin, ja että samanlaiset mahdollisuudet ja näin, niin pakottaa hänet niin kuin halpatöihin johonkin on ihmisarvoa
+Puhuja 0: loukkaavaa.
+Puhuja 0: Jos sä näet, että Suomessa on joku jengi, joka ei tule työllistymään johonkin normi duuneihin, niin sitten heille halpatyömarkkinoiden
+Puhuja 0: tekeminen voi olla hyväkin asia, jotta he työllistyvät sinne.
+Puhuja 1: On, ja sitten siinä odottaa kaikki tutkimukset,
+Puhuja 1: tutkimukset, että siinä vaiheessa kun ihmiset olivat pitkäaikaistyötön, kun hän on vaikka ollut viisisataa päivää työttömänä, hänen työllistymiseensä
+Puhuja 1: vaikeutuu merkittävästi.
+Puhuja 1: Sitten ihminen tulee kaikkia muita ongelmia, ihminen syrjäytyy muillakin tavoilla, ja hän
+Puhuja 1: ei jossain vaiheessa muuttuu kokonaan
+Puhuja 1: työkyvyttöväksi. Tässä
+Puhuja 1: mielessä on ihan perusteltu saada
+Puhuja 1: ihmisiä töihin.
+Puhuja 2: Mutta ajatukseni on juuri se, että koska tästä puhutaan niin esittämättömällä
+Puhuja 2: kielellä
+Puhuja 2: ja ne ovat meille vieraita asioita niin sitten ei tavallaan tule koskaan päästä siihen, että minkälaisia
+Puhuja 2: ne
+Puhuja 2: osallistavat
+Puhuja 2: tai vastikkieliset
+Puhuja 2: toimenpiteet on,
+Puhuja 2: että onko niissä mitään tolkkua. Varmaan viranomaisethan nyt järjestää koko ajan
+Puhuja 2: ajan kaiken maailman selvityksiä jne, mutta
+Puhuja 2: mediakin pitäisi ehkä enemmän
+Puhuja 2: kiinnittää huomiota siihen, että mitä tässä maailmassa tapahtuu. Kyllä ja paras ratkaisuhan löytyy tietysti
+Puhuja 1: SR,
+Puhuja 1: Sehän oli aikoinaan 1980-luvulla Urpo Leppä, niin S&P sai valtavan vaalivoiton, niin S&P:n vaalilupaus oli se, että kaikille järkätään töitä
+Puhuja 1: ja sitten se oli Heikki Rinne ja Urpo Leppä, heidän tämmöinen työllisyysmallinsa,
+Puhuja 1: jossa kaikille
+Puhuja 1: pitkäaikaistyöttömille hommattiin töitä.
+Puhuja 1: Joka
+Puhuja 1: paljastui
+Puhuja 1: ihan järkyttävän kalliiksi. Mutta joka tapauksessa pitkäaikaistyöttöminen
+Puhuja 1: katosi. Tänne jäi vissiin
+Puhuja 1: 80-luvun lopussa alle kolmetuhatta
+Puhuja 1: pitkäaikaistyötöntä.
+Puhuja 2: Mielestäni
+Puhuja 2: tästä pitäisi puhua paljon enemmän just koska tavallaan nytkin puhutaan ylätasolla siitä,
+Puhuja 2: että robotisaatio,
+Puhuja 2: digitalisaatio, globalisaatio
+Puhuja 2: työhäviää ja paksuyön häviävät. Mutta kyllä minä
+Puhuja 0: Minua itseäni, kun minua
+Puhuja 0: häiritsee tässä, että kun lähdetään Elli Aaltosen ja Kelan maksamista sosiaalietuuksista.
+Puhuja 0: Sitten puhutaan työttömyyskorvauksista.
+Puhuja 0: Ja sitten puhutaan ansiosidonnaisesta
+Puhuja 0: ja näistä kaikista puhutaan niinku jotenkin
+Puhuja 0: samassa sössössä.
+Puhuja 2: Niin Kela rahathan on enimmäkseen varmaan eläkkeitä
+Puhuja 2: ja sairauspäivärahaa. Niin
+Puhuja 1: ja sairauspäivärahoja.
+Puhuja 1: Tästä puhuu myös Liisa Hyssälä, tämä
+Puhuja 1: väistyvä Kelan pääjohtaja. Hän esitti
+Puhuja 1: huolensa siitä, että asumistuesta on tullut tämmönen
+Puhuja 1: tavallaan automaatti,
+Puhuja 1: se on vuokranantajien ja valtion ikuisesti
+Puhuja 1: pyörivä oravanpyörävissä
+Puhuja 1: asumistukea joudutaan nostamaan koska vuokrat nousevat ja sitten taas toisinpäin. Ja mielestäni vaikka...... Suora tulonsiirto valtiolta on
+Puhuja 1: porukka
+Puhuja 2: meille. Nämä erilaiset työkokeilut ja muut vaikuttaa siltä, että ne tekee saman työnantajille,
+Puhuja 2: käytännössä se tuki siirretään niiltä ihmisiltä
+Puhuja 2: työnantajille jos työnantajat voi ottaa ilmaiseksi ihmisiä töihin.
+Puhuja 1: En malta olla sanomatta, kun minä jotenkin sieppaan se, että tämä on ihan järkyttävä, että
+Puhuja 1: pääkaupunkiseudulla tulee vuodenvaihteessa
+Puhuja 1: voimaan uusi käytäntö, mistä hallitus päätti, jonka jälkeen
+Puhuja 1: tullaan tarkistamaan kaupungin vuokra-asunnoissa.
+Puhuja 1: Ensinnäkään sinne ei pääse, tulee uudestaan tulorajat, ja sitten ruvetaan jossain vaiheessa katsomaan myös jälkijättöisesti perheiden tulotasoa.
+Puhuja 2: Aletaan heittää ihmisiä
+Puhuja 1: pois kaupungin vuokra-asunnoista.
+Puhuja 1: Näin toimittiin aikoinaan ja se ei toiminut silloin, koska siitä tulee ihan megalomaaninen kannustinloukku, koska se johtaa siihen, että jos
+Puhuja 1: Tuomaksen perhe asuu kaupungin vuokra-asunnossa.
+Puhuja 1: Tuomas työllistyy, niin perhe lentää pian. Niin, ja ei ole mitään erityistä tässä työtä vastaan, jos tietää sen, että yksityisellä vuokramarkkinoilla vuokrat saattaa olla puolitoistakertaisia.
+Puhuja 2: Niinpä.
+Puhuja 2: Olisi kiva,
+Puhuja 2: jos työttömiinkin ihmisiin suhtauduttaisiin
+Puhuja 2: rationaalisina olentoina ja otetaan esimerkiksi tämmöiset asiat huomioon
+Puhuja 2: ja heitä ei hyppytettäisi
+Puhuja 2: oikeasti kaiken maailman kursseilla. Mulla on yksi kaveri, joka on ollut tosi pitkään työttömänä ja jolla on ollut aika
+Puhuja 2: hankalaa, mutta se esimerkiksi avautui siitä, että kyllähän ne tosi mielellään kävisi jossain kursseilla, jos niin opetettaisiin jotain järkeviä
+Puhuja 2: asioita, mutta nyt ne on esimerkiksi semmoisia, että aina uudestaan ja uudestaan käydään
+Puhuja 2: jotain CV:n tekemistä ja selataan ilmoituksia netistä
+Puhuja 2: ja sitten toistellaan
+Puhuja 2: omia vahvuuksia
+Puhuja 2: ja puhutaan yleisellä taholla joistain piilotyöpaikoista
+Puhuja 2: se sanoo.
+Puhuja 0: Tuohon on niin vaikea sanoa, koska itse
+Puhuja 0: olen minäkin työkkärissä käynyt
+Puhuja 0: ja ollut ties minkälaisessa pallossa media-alalla
+Puhuja 0: jumalauta,
+Puhuja 0: just ja juuri työttömän yläpuolella
+Puhuja 0: sosiaalisessa
+Puhuja 0: arvo-asteikossa.
+Puhuja 0: Mutta
+Puhuja 0: ei välttämättä ole sitä oikeaa, sitä perspektiiviä, mitä
+Puhuja 0: ihmisillä, jotka pyörii
+Puhuja 0: työkkärissä ja
+Puhuja 0: tavallaan työkkärin asiakkaita.
+Puhuja 0: Mutta siitäkin
+Puhuja 0: huolimatta, kyllähän se kuulostaa aivan nauretolta. Mikä tahansa työkkärin kurssi minkä ne järjestää, kuulostaa siltä että tuossa ei järjen hiventäjä, ei ole hyötyä yhtään kellekään.
+Puhuja 2: Ja sen takia varmaan kuulustikin monen mielestä hyvältä tämä yksityistäminen että joo joo, annetaan tämä homma
+Puhuja 2: VNP:lle
+Puhuja 2: ja optimille ja muille,
+Puhuja 2: kyllähän ne ovat tehokkaita ja niin edelleen,
+Puhuja 2: mutta kyllä niistäkin on kuulunut,
+Puhuja 2: ne taas vetävät tällaisia aivan ylimitoitettuja
+Puhuja 2: prosesseja,
+Puhuja 2: johonkin
+Puhuja 2: yksinkertaiseen duuniin kysytään sinun unelmista ja motivaatiosta
+Puhuja 2: ja ties mistä sen sijaan, että nyt vaan katsottaisiin, että voiko palkata tähän työhön. Tämä on mennyt tosi kummalliseksi koko
+Puhuja 1: ohjelma.
+Puhuja 1: Olisiko ollut Hesarin mielipidekirjoitus vai joku blogi, jossa joku työtön
+Puhuja 1: kertoi, että hän oli ollut nimenomaan... Tämmöisellä CV:n tekokurssilla ja se pääoppi oli se, että neuvotti että kannattaa
+Puhuja 1: kiinnittää huomiota.
+Puhuja 1: Ehkä
+Puhuja 1: laittaa jopa kuvaa.
+Puhuja 0: Se, tavallaan koko systeemi?
+Puhuja 0: Se varmaan kysymys on se, että onko meillä niin kuin työkkärin
+Puhuja 0: sisällä, tai niin kuin ihmiset, jotka on työkkärin asiakkaita, onko he itse asiassa semmoisia asiakkaita, joiden pitäisi olla vaikka Kelan
+Puhuja 0: asiakkaita?
+Puhuja 0: Pitäisikö työkkärin
+Puhuja 0: tiiviimmin hoitaa, että ne ihmiset, jotka on työmarkkinoilla,
+Puhuja 0: jotka
+Puhuja 0: oikeasti pystyy työllistymään johonkin,
+Puhuja 0: he hoitaa heidät töihin?
+Puhuja 0: Vai Ja Kela hoitaa sen tuen maksun tai
+Puhuja 0: näin?
+Puhuja 2: On tuo aika julmaa myös että kyllähän myös on ihmisiä jotka saattaa olla
+Puhuja 2: heikosti työllistyviä mutta jotka pääsee takaisin työelämään.
+Puhuja 2: Ihmisten jaotteluun jotenkin että te olette toivottumia menkää te kelaan ja teille hoidetaan duunit, se kuulostaa
+Puhuja 2: aika julmalta. Kiinnostaa oli minun mielestäni
+Puhuja 2: meidänkin lehdessä on kerrottu tänä syksynä. Entä oliko se Marko sinun juttusi, että esimerkiksi
+Puhuja 2: Ruotsissa, missä työttömiä on suunnilleen saman verran
+Puhuja 2: Suomessa, koska heillä on vähän parempi tämä työllisyysaste
+Puhuja 2: moneen kertaan kuultu, Ruotsin työkkäreissä on neljätoista
+Puhuja 2: sata työntekijää
+Puhuja 2: samalle määrälle
+Puhuja 2: työttömiä ja Suomessa
+Puhuja 2: on kaksituhatta kaksisataa
+Puhuja 2: eli Ruotsissa on kuusinkertainen määrä ihmisiä tekemässä
+Puhuja 2: sitä työnvälitystyötä.
+Puhuja 2: Ei Suomessa kenellekään tule mieleen, että työkkäristä oikeasti saisi jotain töitä, vaikka varmaan sitä paljon tapahtuu, mutta tavallaan se mielikuva ei ole ainakaan se niin varmaan se, että jos heillä ei ole aikaa
+Puhuja 2: etsiä
+Puhuja 0: ihmisille. Mutta onko tämä
+Puhuja 0: tämän
+Puhuja 0: pääkaupunkiseudun mediakuplan sisällä oleva mielikuva jolla ei ole mitään perusteita, että työkkäri on työn
+Puhuja 0: saannin kannalta hyödytön? Onko se oikeasti hyödyllinen
+Puhuja 0: jossain Kainuussa tai?
+Puhuja 1: En
+Puhuja 1: osaa tuohon pysty vastaamaan mutta onhan se siis sinänsä niin kun
+Puhuja 1: Helsingissä ja Uudellamaalla niin täällähän on itseasiassa avoimia työpaikkoja ihan älyttömän paljon.
+Puhuja 1: Sinänsä hauskaa, että täälläkin on näköjään kohtaanto-ongelma. Yleensä kohtaanto-ongelma puhutaan siitä, että
+Puhuja 1: ihminen asuu Kainuussa ja työpaikat on täällä, eikä
+Puhuja 1: ole kiva muuttaa Kainuusta tänne, mutta kohtaanto-ongelma on täällä myös alueen sisällä. Täällä on kuitenkin avoimia työpaikkoja
+Puhuja 1: valtavasti jotka ei täyty.
+Puhuja 0: Hyvä.
+Puhuja 0: Kun tänä viikonloppuna
+Puhuja 0: Marko kotiudut Slushista.
+Puhuja 1: Muitahan muuten lähtee sinne.
+Puhuja 1: Kaikkiin sen ammatissa tässä ammatissa joutuu. Menen kohta lentokentälle
+Puhuja 1: vastaanottavaan kun
+Puhuja 1: Finnairin
+Puhuja 1: kone San Franciscosta täynnä pääomasijoittajia laskeutuu seutulaan ja Slushin tyypit on rakentanut lentokentälle
+Puhuja 1: palavan Slush-logon.
+Puhuja 2: Ja ne on katsonut siellä elokuvan leffan mistä puhuttiin viime viikolla siellä lennoilla.
+Puhuja 2: Mä meen. Sä menet vastaan.
+Puhuja 1: Mä puhun tästä.
+Puhuja 0: Sä puhut siitä, Marko poistuu
+Puhuja 0: organisaatiosta.
+Puhuja 1: Kyllä, ja mukavaa loppuviikkoa kaikille. Kiitoksia.
+Puhuja 0: Marko Junkkari poistui keskuudestamme.
+Puhuja 2: Slussiin.
+Puhuja 0: Slussiin. Sohvi, kun viikonloppuna lähdet
+Puhuja 0: alkoholisoitumaan
+Puhuja 0: kevyesti
+Puhuja 0: niin mistä ajattelit kertoa kaverillasi?
+Puhuja 2: Voin jatkaa tästä samasta
+Puhuja 2: epämääräistä aiheesta, josta en tiedä onnistuiko sanoa kauhean mitään fiksua nytkään, mutta kävin
+Puhuja 2: viime viikolla katsomassa tämän kannessa voittaneen
+Puhuja 2: brittielokuvan
+Puhuja 2: Ai Daniel Black, joka kertoo juurikin tästä asiasta, mistä äsken yritettiin keskustella.
+Puhuja 2: Päähenkilönä on tällainen ehkä kuusikymppinen duunarimies, joka saa sydänkohtauksen
+Puhuja 2: ja lääkärit sanoo, että et voi mennä vielä töihin,
+Puhuja 2: mutta sitten työkkäri sanoi, että eipäs kyllä voitkin ja siinä on paljon
+Puhuja 2: absurdia
+Puhuja 2: byrokratiaalin naureskelua
+Puhuja 2: ja muuta. Lopussa se meni mielestäni vähän liian pateettiseksi,
+Puhuja 2: että oli kyllä todellista
+Puhuja 2: työläistraamaa,
+Puhuja 2: mutta
+Puhuja 2: sitten se oli myös oikeasti aika raastavaa, kun
+Puhuja 2: itsekin tietää ihan vastaavia caseja ja jotenkin tässä
+Puhuja 2: ihmisten pompottelussa.
+Puhuja 2: Se oli hämmentävä elokuva, koska se oli todella saatu
+Puhuja 2: aika
+Puhuja 2: raastava leffa
+Puhuja 2: Kelasta ja työkkäristä
+Puhuja 2: paitsi Briteissä.
+Puhuja 2: Aivan
+Puhuja 2: siitä, että ihminen joutuu
+Puhuja 2: siinä
+Puhuja 0: tämä ihminen esimerkiksi. Onko tämä tämmöinen kafkamainen
+Puhuja 2: byrokratian plattaisena? Joo,
+Puhuja 2: siinä on yksi semmoinen hirveä,
+Puhuja 2: juuri siitä hahmosta en oikein
+Puhuja 2: pitänyt, mutta oli sellainen hirveä vallankäyttäjä,
+Puhuja 2: nainen, joka
+Puhuja 2: vei kaikilta heti tilaisuuden tullen rahat pois, jos oli viisi minuuttia myöhässä ja sitten oli kaiken maailman puhelinpalveluita,
+Puhuja 2: joihin piti odottaa tuntikaupalla
+Puhuja 2: ja
+Puhuja 2: ikänsä töitä tehnyt puuseppä
+Puhuja 2: ei osannut käyttää
+Puhuja 2: tietokonetta käytännössä ollenkaan ja sitten kaikki asiat neuvottiin hoitamaan netissä. Ja juuri itse asiassa nämä työvoimapalvelut
+Puhuja 2: oli yksityistetty ja sitten siellä oli kaiken maailman tulostavoitteita
+Puhuja 2: ja kyttäystä ja muuta. Tavallaan
+Puhuja 2: toivoisi, että se on
+Puhuja 2: jotenkin kauhukuva,
+Puhuja 2: mutta paha pelkään, että moni suomalainenkin työtön siihen samastuu.
+Puhuja 2: Hyvä elokuva.
+Puhuja 0: Okei, hyvä.
+Puhuja 0: Mä ajattelin puhua pornosta.
+Puhuja 0: No, sepä kiva.
+Puhuja 0: Pari viikkoa sitten Britanniassa
+Puhuja 0: meni läpi tällainen se jotenkin,
+Puhuja 0: valtamedialta meni täysin ohi.
+Puhuja 0: Britanniassa meni läpi tällainen
+Puhuja 0: lakipaketti,
+Puhuja 0: joka velvoittaa
+Puhuja 0: brittiläiset
+Puhuja 0: teleoperaattorit
+Puhuja 0: tallentamaan
+Puhuja 0: niin
+Puhuja 0: kuin terrorismitarkoituksiin
+Puhuja 0: ja muihin,
+Puhuja 0: käyttäjiensä
+Puhuja 0: selaushistorian.
+Puhuja 2: Herra jumala. Joo.
+Puhuja 0: Ja tota, sehän on kammottavaa. Se on vitsiksi asti, että jokaisella ihmisellä täytyy olla se paras kaveri, jolla on sun salasana sun koneelle, jotta se voi mennä sinne ja tyhjentää sun
+Puhuja 0: sun
+Puhuja 0: selaushistoria paljastaa,
+Puhuja 0: joko
+Puhuja 0: että
+Puhuja 0: mitä ajattelet muista ihmisistä tai lähinnä, että miten
+Puhuja 2: kammottava perhesuunnittel on. Niin, kyllä. Ja mitä kaikkea se googlaa. Niin.
+Puhuja 0: Tämmöinen laki meni läpi. Eli ne velvoitetaan vuoden ajan säilymään tämä tieto jokaisesta ihmisestä, jokaisesta Britistä,
+Puhuja 0: jotta ne pystytään kaivamaan, jotta niihin pystytään tekemään, niin kuin totta kai oikeuden päätöksellä ja näin. Mutta
+Puhuja 0: ainakin raporttien mukaan siinä oli semmoinen,
+Puhuja 0: että
+Puhuja 0: yllättävän moni mesta saa silloin, kun ne tallennetaan, niin niillä on pääsy siihen, että ne pystyvät tarkistamaan sieltä työtä. Olen aina miettinyt esimerkiksi sitä, että jos käyttää Googlen tai Chromen Inkognitota
+Puhuja 2: ja sehän sanoo, ettei
+Puhuja 2: tallennut salahistoriasi,
+Puhuja 2: mutta ei pilta
+Puhuja 2: surffailua sitten työnantajalta.
+Puhuja 0: Niin, koska ne jäävät sinne. Ja olen joskus katsonut niitä feede, siis tietenkin missä työpaikalla.
+Puhuja 0: Mutta olen nähnyt, että miltä se näyttää kun joku käyttää nettiä, vaikka sun nettiä, niin saat siihen rullaamaan ne, että missä se on
+Puhuja 0: just sillä hetkellä menossa, missä
+Puhuja 0: nettiosoitteessa
+Puhuja 2: on näin.
+Puhuja 0: Mutta, Britanniassa tämä on vielä pahempi tämä,
+Puhuja 0: siis nyt kun puhutaan pornosta,
+Puhuja 0: Kaikille,
+Puhuja 0: pahoittelut, puhutaan todellakin pornosta.
+Puhuja 0: Nimittäin moni suomalainen
+Puhuja 0: ei tätä tiedä, mutta Britannia on aina ollut tavallaan todella konservatiivinen ja takapajuinen pornon suhteen. Sillä tavalla, että muistan itse kun olin kaksituhatta neljä Glasgow's vaihto-oppilaaa,
+Puhuja 0: niin siellä sitten jossain
+Puhuja 0: Keviössä, Seitin ohuessa, päivä
+Puhuja 0: hönössä puhuttiin paikallisten lädien kanssa
+Puhuja 0: pornosta.
+Puhuja 0: Ja sitten,
+Puhuja 0: he sanoivat,
+Puhuja 0: että kun heillä oli silloin vuonna kaksituhatta neljä
+Puhuja 0: kielletty
+Puhuja 0: mikään muu porno, esim. Pornolehdissä kuin siis vaginaaliyhdyntä
+Puhuja 0: ja rintojen näyttö.
+Puhuja 0: Tavallaan siinä vaiheessa Suomessa oltiin, internet oli niin kauan ollut olemassa, että
+Puhuja 0: se oli jo niin mennyt kauan sitten pois muodista
+Puhuja 0: ja porno oli sillä tavalla aivan erilaista, koska sitä pystyi internetin käyttämään. Eli oliko niillä joku laki, joka jotenkin kuvaa? Joo, niin kuin sensuuri laki. Ja näin. Mutta näiden uusien lakien myötä, mitä Britanniassa on mennyt läpi, niin tämä pornosensuuri
+Puhuja 0: siirtyy koskemaan myös nettiä.
+Puhuja 2: Näin. Että siis Britanniassa on pornosensuuri
+Puhuja 2: laki, A. Kyllä. En tiennyt.
+Puhuja 0: Eli siellä on vaan,
+Puhuja 0: siis melkein tämä vitsi, että valot kiinni ja lähetyssaarnaajassa.
+Puhuja 2: Mikä, tuota, miten Niin,
+Puhuja 0: eli, ja sen lain mukaan ja tämä on kaikki siis, se nyt vastaaminen läpi eli
+Puhuja 0: käytännöt tästä lähtee
+Puhuja 0: elämään ja ne löydetään.
+Puhuja 0: Mutta
+Puhuja 0: siellä on ainakin ehdotettu
+Puhuja 0: en tiedä onko jo nakutettu tällainen
+Puhuja 0: että siis briteillä on siis tämä sama sensuuri instanssi,
+Puhuja 0: joka on Suomessa tämä elokuvatarkastuskeskus,
+Puhuja 0: mikäs sen nimi olikaan?
+Puhuja 0: Joka siis tarkastaa esimerkiksi edelleen DVD-levitykseen
+Puhuja 0: tulevat, niin antaa ikäsuositukset ja näin. Siis tällainen sensorikeskus.
+Puhuja 0: Katsoa ettei siellä näe vaikka eläinten pahoinpitelyä ja muuta ja poistan elokuista.
+Puhuja 0: Tämä sama instanssi Britanniassa valvoo
+Puhuja 0: pornoa,
+Puhuja 0: että
+Puhuja 0: porno on Britannian
+Puhuja 0: lainsäädännön mukaista. Eli
+Puhuja 0: tavallaan ehkä ajatellaan, modernissa mielessä
+Puhuja 0: hyvinkin tällaista
+Puhuja 0: säädyllistä pornoa.
+Puhuja 0: Tämä sama instanssi rupeaa soveltamaan niitä säädöksiä, mitkä sillä on videofilmiä Dvd:n
+Puhuja 0: levitykseen, niin soveltamaan niitä internet-sitehin.
+Puhuja 0: Miten se tapa? Sillä tavalla, että jos he huomaavat, että jollakin amerikkalaisella nettisaitilla,
+Puhuja 0: siis pornonettisaitilla,
+Puhuja 0: mikä tarkoittaa kaikkia amerikkalaisia pornonettisaitteja,
+Puhuja 0: joka on täynnä
+Puhuja 0: vaikka mitä kamaa.
+Puhuja 0: Jos he huomaavat, että siellä on jotain, mikä ei sovi
+Puhuja 0: Britannian
+Puhuja 0: lainsäädäntöön,
+Puhuja 0: he lähettää sinne
+Puhuja 0: semmoisen käskykirjeen.
+Puhuja 0: Tällä teidän nettisitilla,
+Puhuja 0: joka näkyy Britanniassa,
+Puhuja 0: niin siellä on tällaista esimerkiksi
+Puhuja 0: pannaan perseeseen jotain ihmistä.
+Puhuja 0: Tämä ei nyt todellakaan käy päinsä. Teidän täytyy poistaa tämä content, jos he eivät suostu eikä tietenkään suostu, niin sen jälkeen
+Puhuja 0: he pystyvät laittamaan sen nettisaitin pois päältä.
+Puhuja 2: Niin kuin tällainen kiinalainen palomoori sitten. Kyllä.
+Puhuja 0: Tämä on
+Puhuja 0: tuhat yhdeksänsataakahdeksankymmentäneljä
+Puhuja 0: George Orwell.
+Puhuja 2: Ja tämä liittyi jotenkin etäisesti terrorismivastaiseen.
+Puhuja 0: Kyllä, sen takia samassa lakipaketissa säädettiin tästä, että nettiliikennettä pitää pystyä
+Puhuja 0: valvomaan.
+Puhuja 0: Äärimmäisen kiehtovaa. Erittäin huimaa kamaa. Ei olisi ikinä uskonut, että Euroopassa
+Puhuja 0: tänä vuonna tällaista. Mutta ehkä Britannia ei todellakaan kuulu Eurooppaan
+Puhuja 0: kuin ovat itsekin äänestäneet. Totta, totta.
+Puhuja 2: Jäävät keskenään sinne
+Puhuja 2: säännöllisesti lisäämään.
+Puhuja 0: Hyvä, okei, siinä kaikki tältä erää. Kiitos Anna-Sofia Perner. Kiitos Tuomas Peltomäki. Minä olen Tuomas Peltomäki. Katsokaa uutisraportti taas lauantain osoitteessa Hois. Fiuutisraportti.
+Puhuja 0: Käykää tykkäämässä Facebook-sivusto
+Puhuja 0: facebook piste com kauttaviiva uutisraporttia ja lähettäkää kommentteja: Twitterissä
+Puhuja 0: uutisraportti.
+Puhuja 0: Kuullaan taas ensi viikolla.

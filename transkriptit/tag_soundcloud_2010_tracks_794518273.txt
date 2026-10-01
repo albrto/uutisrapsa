@@ -1,0 +1,503 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Tervetuloa Helsingin Sanomien uutisraportti-podcast
+Puhuja 0: torstaina yhdeksän. Huhtikuuta. Minun nimeni on Tuomas Peltoväki. Kanssani täällä
+Puhuja 0: ihmeellisessä, erikoisessa
+Puhuja 0: bittivirtojen
+Puhuja 0: todellisuus
+Puhuja 0: universumissa on
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: politiikan toimittaja Marko Junkkari, hei Marko!
+Puhuja 1: No hei Tuomas!
+Puhuja 0: Miten sulla menee, viikko neljä!
+Puhuja 1: Tää
+Puhuja 1: on viikko neljä joo, tää menee koko ajan paremmin ja paremmin!
+Puhuja 0: Tän koronaskauden
+Puhuja 0: ja
+Puhuja 0: keskellä on mahtava
+Puhuja 0: on ihminen jolle tää etätyö ja kaikki maistuu niin hyvin ku sulle Marko!
+Puhuja 1: Joo, niinku mä sanoin, viimeeskimosta
+Puhuja 1: tää saa mulle täysin uutta, mä en koskaan tiedä etätöitä ja alun
+Puhuja 1: järkytyksen jälkeen ei mulla mitään haluakaan nähdä ketään ihmisiä! Ja
+Puhuja 0: sen lisäksi meillä on
+Puhuja 0: mahtavasti
+Puhuja 0: ihanasti paikalla Helsingin Sanomien Washingtonin
+Puhuja 0: kirjeenvaihtaja
+Puhuja 0: The American
+Puhuja 0: Anna-Sofia Berner eli ystävien kesken sohvi. Hei sohvi! Heipä hei Tuomas ja Markku!
+Puhuja 0: Miten sulla menee karanteeniin
+Puhuja 0: viikko neljä?
+Puhuja 0: No,
+Puhuja 2: pitääkö tässä nyt vielä kaikille kertoa, että olen siis Suomessa enkä vuosi missään?
+Puhuja 2: Pitää varmasti. Mä oon ollut nyt neljä viikkoa, sitten mä vissiin lähin sieltä.
+Puhuja 2: Joo.
+Puhuja 2: Haluaisin takas.
+Puhuja 0: Niin. Sulla on niinku koti-ikävä merkkaa.
+Puhuja 0: Kauan sä oot nyt asunut Amerikassa?
+Puhuja 2: No nyt kirjeenvaihteena
+Puhuja 2: mä ehdin olla
+Puhuja 2: vuoden ja kolme kuukautta.
+Puhuja 0: Joo, mutta sulla on niitä pätkiä opiskelua ja kaikkea muuta siinä? Kyllä.
+Puhuja 0: Hei! Tän viikon podcastissa
+Puhuja 0: keskustellaan
+Puhuja 0: maskeista, nimittäin suomalaisten ja uskon, että sama ilmiö on
+Puhuja 0: laajemmin
+Puhuja 0: myös muualla maailmassa.
+Puhuja 0: Suomalaiset käsittelee
+Puhuja 0: monia koronavirukseen liittyviä
+Puhuja 0: eksistentiaalisia
+Puhuja 0: ja yhteiskunnaalaispolitis
+Puhuja 0: filosofisia
+Puhuja 0: tuntemuksia
+Puhuja 0: ja kysymyksiä tappelemalla keskenään
+Puhuja 0: hengityssuojan aamioista. Siitä on tullut
+Puhuja 0: koko kansakunnan selkeästi
+Puhuja 0: symboli-asia
+Puhuja 0: jonka kautta tätä
+Puhuja 0: koronavirusepidemiaa
+Puhuja 0: ja sen aiheuttamia
+Puhuja 0: ahdistuksia käsitellään.
+Puhuja 0: Ja vielä
+Puhuja 0: puhumme hallituksen
+Puhuja 0: lisäbudjetista,
+Puhuja 0: joka normaalisti
+Puhuja 0: on mielenkiintotaa
+Puhuja 0: ehkä samaa luokkaa kuin firman
+Puhuja 0: tavoiteexcelin
+Puhuja 0: toinen välilehti.
+Puhuja 0: Tällä kertaa
+Puhuja 0: tähän lisäbudjettiin sisällytettiin
+Puhuja 0: oikeastaan
+Puhuja 0: valtaosa hallituksen
+Puhuja 0: koronavirusepidemian
+Puhuja 0: vastaisen taistelun
+Puhuja 0: rahoista eli miljardiluokan
+Puhuja 0: lisäbudjetista
+Puhuja 0: puhutaan.
+Puhuja 0: Tämän podcastin ainoa numerologisesti
+Puhuja 0: pätevöityn jäsen eli Marko Junkkari
+Puhuja 0: kertoo siitä syvällisen analyysin ja kertoo mitä meidän täytyy tietää.
+Puhuja 1: Saanko korjata tässä heti alkuun, kun unohdin muuten?
+Puhuja 1: Siis tämä oli kehysriihi, joka oli nyt tiistai tai keskiviikko.
+Puhuja 1: Lisäbudjetti on
+Puhuja 1: drawattista, niin itse asiassa kehysriihi, jossa sovitaan pitkän tähtäimen
+Puhuja 1: valtiontalouden
+Puhuja 1: linjoista, niin sitä ei pidetty ollenkaan. Se nykättiin syksyyn ja ne tekivät pelkästään
+Puhuja 1: lisätalousarvioon
+Puhuja 1: ja keskittyi pelkästään koronakriisiin,
+Puhuja 1: mikä oli aivan
+Puhuja 0: sensaatiomaistaista. Kiitos Marko kun heti alkuun,
+Puhuja 0: koska mä olisin myös voinut kirjoittaa hallituksen
+Puhuja 0: joku raha juttu! Kiitos että selvensitte tän terminologian!
+Puhuja 0: Sen lisäksi me puhutaan vielä
+Puhuja 0: senaatti Berni Sandersin
+Puhuja 0: vetäytyä
+Puhuja 0: Yhdysvaltain presidenttikisasta
+Puhuja 0: aihe, joka ei millään tavalla liity koronavirukseen!
+Puhuja 0: Okei, tuo oli liioittelua, sinne on pieni säijä, joka on
+Puhuja 0: koronavirus liitännääninen,
+Puhuja 0: mutta se tuntuu
+Puhuja 0: raikkaalta henkäykseltä
+Puhuja 0: kun meillä on yksi kokonainen segmentti tässä showssa, jossa ei puhuta koronaviruksesta
+Puhuja 0: ollenkaan.
+Puhuja 2: Sit mä voin kyllä kertoo, että siitä tullaan puhumaan siinäkin. Voi ei!
+Puhuja 0: Ja lopuksi vielä,
+Puhuja 2: hyviä kysymystä, että näistä ei tule presidenttiehdokasta,
+Puhuja 2: niin sitten ne säännösinläiset
+Puhuja 2: puoluekokousedustajat
+Puhuja 2: voi jotenkin vaikuttaa siihen puolueen linjaan puoluekokouksissa,
+Puhuja 2: jos sellainen nyt järjestetään kesä.
+Puhuja 0: Niin.
+Puhuja 2: A afrikkalaiset
+Puhuja 1: mustat äänestäjät tapahtuvat. Sä näet se pelkästään tällä tasolla.
+Puhuja 2: No mustat
+Puhuja 2: äänestäjät ja
+Puhuja 2: joo, ei ne kaikkea.
+Puhuja 2: Että Trumpia inhovat,
+Puhuja 2: mutta ei kauhean vasemmistolaiset
+Puhuja 2: demokraatit,
+Puhuja 2: joista moni äänesti niissä ekoosavaltioissa
+Puhuja 2: sitä feedbodia Cheechia,
+Puhuja 2: mutta sitten tavallaan
+Puhuja 2: sen tienous pystyyn, koska siitä ei ollut mustien tukea, niin sen takia ihmiset sitten siitä Bidenin
+Puhuja 0: keukkaan. Siis eiks tässä ole kyse siitä, tai mä olen ymmärtänyt, että Burne Sanders,
+Puhuja 0: mustilla
+Puhuja 0: amerikkalaisilla ei ollut varsinaisesti mitään Burne Sanderssia
+Puhuja 0: vastaan,
+Puhuja 0: mutta Joe Biden on
+Puhuja 0: musempi kuin musta itse. Se on tosissaan
+Puhuja 0: ollut aina
+Puhuja 0: mun käsittääkseni
+Puhuja 0: joku semmoinen hahmo
+Puhuja 2: toi sandersilaiset vetoaa
+Puhuja 2: nimenomaan siihen, että Biden teki rotuverottanut
+Puhuja 2: kannattajien kanssa yhteistyötä silloin,
+Puhuja 2: kun Berni, Tanssi ja Martin Luther Kinggin kanssa sitä vastaan.
+Puhuja 2: Siitä
+Puhuja 2: ei se argumentti silleen päde, mutta mun mielestä se järkevin selitys on
+Puhuja 2: tavallaan se, että varsinkin ne vanhemmat mustat on aika konservatiivisia.
+Puhuja 2: Ei ne vasemmistolaisia.
+Puhuja 2: Biden vastasi paremmin niiden poliittisia mielipiteitä.
+Puhuja 0: Se minkä mä luin, se ei ollut se, että
+Puhuja 0: Joe Biden on läpi historiansa ollut
+Puhuja 0: mustien
+Puhuja 0: joukossa hyväksytty vaan. Se juttu oli mun mielestä ihan hyvä juttu. Joku kirjotti, mä en muista missä, Se oli joku ihan tavisyyppi jossain Reddetessä, niin se kuvasi sen, miten iso juttu Joe Bidenin varapresidenttius
+Puhuja 0: oli mustille.
+Puhuja 2: Mä en nähnyt tuon teorian ja mä en ole varma, uskonko mä siihen. Kyllä siis tavallaan tietenkin se... Mutta se teoria itsessään on ollut,
+Puhuja 0: Mutta se teoria itsessään oli se, että koska
+Puhuja 0: hän käyttäytyi aina Obamaa kohtaan
+Puhuja 0: hyvin,
+Puhuja 0: niin se on tehnyt hirveän vaikutuksen siihen. Joe Biden edusti sitä
+Puhuja 0: hyvää, valkoista hyväksyntää Musta ollut presidentille,
+Puhuja 0: ja siitä on hänelle tullut semmoinen
+Puhuja 0: pyhimyksen kehä, että sitä ei hevin
+Puhuja 2: oteta pois. Kyllä, mutta mä en ole nähnyt
+Puhuja 2: tavallaan toi on mun mielestä ajatus ja mä en ole nähnyt
+Puhuja 2: semmoista todistusaineistoa, että mä sen ostaisin. Tietenkin Obamalla on vaikutusta ja sillä, että Biden oli Obaman
+Puhuja 2: työpari,
+Puhuja 2: mutta en tiedä, että onko se noin suora tai jotenkin noin kaunis tarina.
+Puhuja 2: Mitä Marko oli?
+Puhuja 1: No mä olin samaa pohtimassa. Siis
+Puhuja 1: Bidenillahan
+Puhuja 1: vastusti tätä Kalifornian bussikuljetuksia,
+Puhuja 1: missä
+Puhuja 1: mustia lapsia kuljetettiin
+Puhuja 1: parempiin
+Puhuja 1: kouluihin
+Puhuja 1: Eihän se hänen
+Puhuja 1: historiansa
+Puhuja 1: mustien kansalaisoikeuksien
+Puhuja 1: esitaistelijana
+Puhuja 1: ole kauhean hyvä. Mä kysyin,
+Puhuja 1: että mistä se oikein kumpuaa? Onko se vaan siitä, että se on omamman kaveri?
+Puhuja 2: Niin,
+Puhuja 2: mä tavallaan ajattelen, että
+Puhuja 2: se on loogisempi se selitys.
+Puhuja 2: Ihan niillä muistilla äänestäjillä, samoin kuin muillakin, niin niillä on mielipiteitä
+Puhuja 2: ja Biden nostaa niiden mielipiteitä
+Puhuja 2: paremmin
+Puhuja 2: kuin sääntöä. Olen
+Puhuja 2: paljon miettinyt, toki ne aina yksittäisiä aineotteja, mutta mitä tapasin
+Puhuja 2: varsinkin
+Puhuja 2: miljardit ansainnut ansainnut, niin ei niitä pidä ottaa sulta pois.
+Puhuja 2: Ne on eri mieltä kuin sääntöä.
+Puhuja 0: Niin. Miten sitten,
+Puhuja 0: no vaikea sanoa... Burny Sanders,
+Puhuja 0: oliko hän lähempänä? Joo,
+Puhuja 2: mä sanon vielä yhden asian oikeastaan olennaisimman. Kyllä mä luulen, että sitten
+Puhuja 2: Pustilla vaikutti myös tosi paljon se, että he ajattelivat Biden olevan se, joka voittaa Trumpin. Että ikään kuin se Trumpin
+Puhuja 2: voittaminen on kaikkein nykyistävoite. Ja niin kuin gallupit koko ajan näyttänyt, niin
+Puhuja 2: Bidenin mahdollisuuksia
+Puhuja 2: siihen pidettiin iso.
+Puhuja 0: Niin, Burni
+Puhuja 0: on lähempänä kahdeksankymmentä.
+Puhuja 0: Tuskin tulee enää
+Puhuja 0: hakemaan presidenttiehdokkaaksi.
+Puhuja 0: Hänen
+Puhuja 0: korkeimman tason poliittinen ura päättyi varmaan tähän. Mikä sun mielestä
+Puhuja 0: on Burniin ja Burnin näkyvin
+Puhuja 0: opetuslapsi on Alessandra
+Puhuja 0: Okassio Korteissa, jotka on varsinkin
+Puhuja 0: Mä arvioin, että he
+Puhuja 0: ovat
+Puhuja 0: keskustalaisia
+Puhuja 0: suomalaisia, suurin piirtein mutta jenkkikontekstissa
+Puhuja 0: he ovat niin punaisia
+Puhuja 0: moderneja,
+Puhuja 0: ja modernilla
+Puhuja 0: tarkoitan
+Puhuja 0: Twitteriä
+Puhuja 0: ajan sosiisteja.
+Puhuja 0: Niin mikä burnoin
+Puhuja 0: perintö on amerikkalaisille?
+Puhuja 0: En tiedä politiikalle, niille virtauksille ja muille. Mitä siitä jäi käteen, että burno tuli
+Puhuja 0: Burni tuli parissakin vaaleissa yhtäkkiä toi sosialistisen ajattelun
+Puhuja 0: ihan OK:ksi
+Puhuja 0: ja jopa varsinkin nuoremmissa porukassa
+Puhuja 0: inspiroivaksi
+Puhuja 0: viestiksi tämän sosialismin. Mikä on ennen jenkeissä ollut saatanasta seuraava?
+Puhuja 0: Niin
+Puhuja 0: kuin helvetin myrkkyä?
+Puhuja 2: Niin kyllä mä näen, että tavallaan se, koska säädössilläkin on vuosikymmenten poliittinen ura takana, niin tavallaan tässä ei ole kyse vain hänestä, vaan siihen, että hän osui
+Puhuja 2: semmoiseen aikaan, missä nämä kysymykset
+Puhuja 2: on ajankohtaisempia kuin
+Puhuja 2: pitkään aikaan. Ja ne resonoi
+Puhuja 2: varsinkin nuorten ihmisten keskuudessa, joille ei sitten taas tietenkään ole sitä sosialismin
+Puhuja 2: painolastia,
+Puhuja 2: kylmää sotaa ja niin edelleen, samalla tavalla. Mutta
+Puhuja 2: sää lähinnä, mikä se perintö on, niin vaikea sanoa. Nythän siis näyttää siltä, että semmoinen
+Puhuja 2: poliittinen aktiivisuus on lisääntynyt ja on tietty porukka,
+Puhuja 2: jotka
+Puhuja 2: kiertää tuluilla ja todella kohuttelemassa ovia silloin, kun se oli vielä mahdollista.
+Puhuja 2: Ja
+Puhuja 2: sieltä ruohonjuuritasolta ylöspäin
+Puhuja 2: aktivoituu poliittisesti.
+Puhuja 2: Mutta sitten taas toisaalta siihen nähden, miten paljon he on saanut huomiota, niin sitten ne tulokset on
+Puhuja 2: kuitenkin vielä aika pieniä.
+Puhuja 2: Esimerkiksi
+Puhuja 2: se, miten
+Puhuja 2: demokraatit
+Puhuja 2: voitti silloin kaksituhatta
+Puhuja 2: kahdeksantoista
+Puhuja 2: edustajaihuoneen
+Puhuja 2: itselleen. Niin ei ne ollut enimmäkseen, vaikka A0C. Sai suurimman julkisuuden,
+Puhuja 2: niin enimmäkseen
+Puhuja 2: ne voitat tuli kuitenkin semmoisilta
+Puhuja 2: niiltä Soberameilta
+Puhuja 2: ja tyyliin entisiltä sijajiityöntekijöiltä
+Puhuja 2: ja
+Puhuja 2: veteraani
+Puhuja 2: naisilta. Ja niinku tämmöisiä ehdokkaita, jotka ei oo ollenkaan niin vasemmistomaisia kuin
+Puhuja 2: säändöistäiset.
+Puhuja 2: Joten
+Puhuja 2: he kovasti korostaa sitä, että tää on kansanliike ja onkin, mutta että
+Puhuja 2: kuinka isoksi se leviää.
+Puhuja 2: Toistaiseksi se ei välttämättä hirveästi tässä neljässä vuodessa kasvaneen
+Puhuja 2: kaikesta huolimatta.
+Puhuja 1: Voinko sanoa vielä siis Word Sandersistä. Minusta tää tavallaan, tai mitä aina toistellaan, mitä Tomaskin sanoi äsken, että kuitenkin suomalais mittapuussa niin eihän niin kovin vasemmistolainen
+Puhuja 1: ole, mutta
+Puhuja 1: kumminkin siis onhan siellä historiassa,
+Puhuja 1: jotenkin tämä se Neuvostoliiton fanitus on todella hämmentävää.
+Puhuja 1: Body Sanders oli tämmöinen joku pienen amerikkalaisen kaupungin pormestari
+Puhuja 1: ja niillä oli Neuvostoliitossa joku ystävyyskaupunki
+Puhuja 1: ja sitten joku lehti oli kaivannut esimerkiksi
+Puhuja 1: tämän Berni Sanderssin ja sen pienen neuvostoliittolaisen
+Puhuja 1: kaupungin pormestarin käyvän kirjeenvaihdon.
+Puhuja 2: Ja sandyssä kävi Neuvostoliitossa häämologiasta
+Puhuja 1: oikein. Ja sittenhän on ymmärtänyt Qubaaja, että kyllä hänellä on,
+Puhuja 1: no
+Puhuja 1: siitä ehkä kirjeen neuvostoliittolaisen
+Puhuja 1: kaupungin pormestarin kanssa on tietyn sävystä, että se menee sensuurista läpi, mutta siitä huolimatta
+Puhuja 1: kyllähän Trump olisi
+Puhuja 1: listetyssä niin totaalisesti vain
+Puhuja 2: vaan näyttelyssä. Niin ja sitten just se, että tavallaan
+Puhuja 2: ollaanko keskusta oikeistolaisia, vasemmistolaisia, mitä ollaan suomalaisessa
+Puhuja 2: mittakaavassa, niin ei ne ole niin kuin täysin yhteismitallisia.
+Puhuja 2: Joissain asioissa
+Puhuja 2: ilmainen koulutus tai julkinen
+Puhuja 2: terveydenhoito, niin ne on meille itsestäänselvyyksiä, mutta sitten taas vaikka jossain maahanmuuttopolitiikassa
+Puhuja 2: tai vähemmistöjenoikeuksissa,
+Puhuja 2: niin sit taas suomalaiset on paljon konservatiivisempia
+Puhuja 2: kuin
+Puhuja 2: nää,
+Puhuja 0: ettei niitä voi ihan samalle Niin, mut siis, Bernihän oli ihan tämä persu, mitä tuli, maahanmuuttopolitiikkaa.
+Puhuja 0: Sen mielestä rajat piti laittaa kiinni ja välittömästi?
+Puhuja 2: No ei se kyllä ainakaan enää tässä viimeisessä tässä kampanjassa, ja kyllä tavallaan ne vaikea kuvitella jotenkin, että
+Puhuja 2: joku
+Puhuja 2: vastaava suomalainen poliitikko aloittais kaikki puheensa julistamalla, miten tämä on
+Puhuja 2: monikulttuurinen
+Puhuja 2: ja monirotuinen
+Puhuja 2: ja kaikki seksuaalisuudet
+Puhuja 2: ja kaikki mainittiin
+Puhuja 2: ihan toisella tavalla kuin
+Puhuja 0: heillä. Totta kai. Mutta
+Puhuja 0: Yhdysvalloissahan jos puhutaan monirotuisesta,
+Puhuja 0: niin sillä tarkoitetaan, että ne on kaikki silti amerikkalaisia.
+Puhuja 0: Suomessa tavallaan, että aina viitataan johonkin, että okei, ne on tulleet jostain muualta tänne.
+Puhuja 0: Mutta Amerikassa ne on amerikkalaisia, mutta burno oli silleen, että rajat kiinni ja tänne ei tule yhtään
+Puhuja 0: amerikkalaisilta työläisiltä viemään työpaikkaa. Se oli kuitenkin semmoinen ihan oikea duunarisosialisti.
+Puhuja 2: Jäin
+Puhuja 2: kiinni siitä, että en ole nyt ollut.
+Puhuja 0: Sitten kun
+Puhuja 0: tulee pääsiäinen.
+Puhuja 0: Pääsiäisenähän
+Puhuja 0: juodaan Mona-totia.
+Puhuja 0: Kaikkia säädöksiä ja muita
+Puhuja 0: noudatatte ja
+Puhuja 0: menette sillä tavalla juomana ja munat otit, että itse olette omalla takaterassilla ja naapuri on omallansa ja sitten huutelette siellä asioita.
+Puhuja 0: Mistäs naapurinne kanssa
+Puhuja 0: ajattelitte keskustella?
+Puhuja 1: Aloitanko mä?
+Puhuja 1: Mä voisin kun olen
+Puhuja 1: täällä eristyksissä ja mä olen jotenkin sopeutunut tähän
+Puhuja 1: lukenut ihan valtavasti.
+Puhuja 1: En lukenut vielä loppuun.
+Puhuja 1: Aloitin viikonloppuna tämmöinen
+Puhuja 1: ihan tuore
+Puhuja 1: kirja.
+Puhuja 1: Aika nimi on tässä Blend and The Weile. Se kertoo
+Puhuja 1: Churchillistä.
+Puhuja 1: Mä tuomaksen lupasin, että mä haluan puhua Churchillistä tässä lähetyksessä.
+Puhuja 0: Mä en edes odotan.
+Puhuja 1: Se on siis kirja, missä se kertoo
+Puhuja 1: Churchillistä
+Puhuja 1: ja vuoden ajalta kesästä neljäkymmentä
+Puhuja 1: kesää neljäkymmentäyksi,
+Puhuja 1: ja se on
+Puhuja 1: todella kiehtovasti tehty.
+Puhuja 1: Se on tämmönen vähän human interest Churchill tarina, missä on käytetty
+Puhuja 1: sekä hänen omiaan että sen lähipiirin,
+Puhuja 1: lasten
+Puhuja 1: ja
+Puhuja 1: avustajien ja muitakin päiväkirjoja.
+Puhuja 1: Kerrotaan
+Puhuja 1: hyvin yksityiskohtaisesti
+Puhuja 1: elämästä siinä vaiheessa, kun Natsi-Saksa
+Puhuja 1: pommittaa Lontoota
+Puhuja 1: joka yö Churchi
+Puhuja 1: suhtautuu tähän hyvin keposesti ja sehän kiipesi talous antaa
+Puhuja 1: Downingstfriitin
+Puhuja 1: pääministerin asunnon katsovaa niitä pommituksia.
+Puhuja 1: Kerrotaan Churchiin päivällisistä, kun joka viikonloppuna
+Puhuja 1: sinne maatilalla ja mitä siellä syötiin ja mitä siellä puhuttiin
+Puhuja 1: ja ketä siellä oli vieraana.
+Puhuja 1: Tämmöistä käytännön
+Puhuja 1: poliitikon elämää tuommoisessa täydellisessä kriisitilanteessa ja se on todella kiehtovaa luettavaa. Suosittelen kaikille!
+Puhuja 0: Okei, erinomaisen kuulosta.
+Puhuja 0: Mites Ahvi?
+Puhuja 2: Mä en oo nyt kuunnellut teitä muutamaan viikkoon. Mä en tiedä onko täällä puhuttu jo jostain HBO
+Puhuja 2: tuotekins
+Puhuja 2: tämän meidän vikasarjasta.
+Puhuja 2: Ei mun mielestä oo. Se on siis tämmöinen minisarja, joka liittyy myös
+Puhuja 2: natseihin.
+Puhuja 2: Ehkä just tämä
+Puhuja 2: naapuri, jos mä puhuisin naapurille, niin kun mun taloyhtiön
+Puhuja 2: Facebook-ryhmässä on kerrottu, että on joku aggressiivisesti
+Puhuja 2: käyttäytyä naapuri, joka haukkuu kaikkia natseiksi.
+Puhuja 2: Jos se tulee vastaan, niin ehkä mä voin sen kanssa puhua tästä sarjasta.
+Puhuja 2: Niin HBL:lla.
+Puhuja 2: Olen Phili Broadfin
+Puhuja 2: kirjaan
+Puhuja 2: perustuva minisaari.
+Puhuja 2: Jos eletään tällaista
+Puhuja 2: vaihtoehtoista historiaa, että
+Puhuja 2: Amerikan presidentiksi
+Puhuja 2: siinä toisen maailmansodan ollessa käynnissä valitaan
+Puhuja 2: Lindberg,
+Puhuja 2: jolla on natsi-symatioita
+Puhuja 2: ja joka haluaa pitää Yhdysvallat
+Puhuja 2: Euroopan
+Puhuja 2: sodista.
+Puhuja 2: Ja sitten siinä seurataan New Yorsin tällaista juutalaistaperhettä
+Puhuja 2: ja juutalaisyhteisöä,
+Puhuja 2: mikä mun mielestä siinä tavallaan just
+Puhuja 2: kivointa on melkein se
+Puhuja 2: 30-luvun
+Puhuja 2: tai 40-luvun
+Puhuja 2: New Yorsin juutalaiselämän
+Puhuja 2: kuvaaminen. En tiedä kuinka autenttista se on, mutta ainakin mun mielestä se on kiinnostavaa.
+Puhuja 2: Ja sitten siinä on hyvin, hyvin vahva ja selvä aggregadia niin kuin koko ajan ja Trumpin voittoon.
+Puhuja 2: Että siinä on kyllä
+Puhuja 2: Aika selväksi tehdään se, että pistä inspiraatio
+Puhuja 2: tehdä tää sarja. Nyt on
+Puhuja 2: tullut, että sitä
+Puhuja 2: imperiä verrataan. Erätään kovasti Trumpin.: Mulla on kysymys.:
+Puhuja 1: Sehän ilmestyi sohvi se kirja, se Phili Prothin kirja, se ilmestyi
+Puhuja 1: ennen, hieman ennen Trumpin valintaa.
+Puhuja 1: Ja sitten muistan lukeneeni jonkun Phili Prothin haastattelun, missä tavallaan Trumpin valinnan jälkeen, missä
+Puhuja 1: hän teki itsekin päivittelee, että kylläpäs kirja kerrallakin osui.
+Puhuja 1: Kysymys, joka liittyy nimenomaan
+Puhuja 0: tähän Phili Prohtiin,
+Puhuja 0: koska se hoveroi koko ajan, että sitä pitäisi lukea. Oletteko te lukeneet Philtia,
+Puhuja 0: olisiko se hyvä?
+Puhuja 1: Kyllä musta ehdottomasti on hyvä. Mä oon lukenut itseasiassa
+Puhuja 1: Portnoi taudit eli niitä ekoja, mutta sitten mä oon aina, että ihan näitä loppukauden kirjoja. Siis kyllä mä oon tykännyt niistä. Okei.
+Puhuja 0: Mä joudun
+Puhuja 0: lunttaanmaan.
+Puhuja 0: Mä
+Puhuja 1: Se on panostanut sillä välillä vielä,
+Puhuja 1: että en ole nähnyt tätä
+Puhuja 1: H5-sarjaa,
+Puhuja 1: mutta jostain luin, että tämä on kuulemma ensimmäinen ja ainut
+Puhuja 1: tämmöinen elokuva tai tv-sarjaversio
+Puhuja 1: FinGroftin kirjasto, joka jollain tavalla onnistuu. Kaikki on asti laskuja.
+Puhuja 2: Joo, se on myös siis ainoa, mitä mä oon en ees katsonut sitä Tigeringgia,
+Puhuja 2: mistä kaikki puhuu. Tai yksiltä alettiin katsoa tämän.
+Puhuja 0: Uusimassa
+Puhuja 0: The New Yorkur
+Puhuja 0: lehdessä
+Puhuja 0: oli pitkästä aikaa semmoinen juttu,
+Puhuja 0: että tämmöinenkin
+Puhuja 0: paatunut
+Puhuja 0: toimittaja ja ihminen, joka tavallaan työkseen joutuu lukemaan,
+Puhuja 0: joka vie tietenkin siitä kaiken ilon ja riemun pois, niin oli pitkästä aikaa journalistinen
+Puhuja 0: juttu, joka toi valtavia
+Puhuja 0: riemun,
+Puhuja 0: hyvän
+Puhuja 0: mielen,
+Puhuja 0: immersion
+Puhuja 0: ja semmoisen tunteita.
+Puhuja 0: Tämmöinen Bill Beauford
+Puhuja 0: niminen
+Puhuja 0: toimittaja.
+Puhuja 0: Kirjoittanut
+Puhuja 0: Nols of Gastronomi-sarjaa
+Puhuja 0: New Yorkissa
+Puhuja 0: tällaisen jutun kuin Goodread.
+Puhuja 0: Joka kertoo siitä, kuinka hän oli
+Puhuja 0: tämmöisenä
+Puhuja 0: harjoittelijana
+Puhuja 0: ranskalaisella
+Puhuja 0: leipurilla.
+Puhuja 0: Hän kertoo tästä, miten se oli aivan siivottomassa
+Puhuja 0: jossain korttelileipomossa,
+Puhuja 0: jossa tehtiin koko Ranskan parasta leipää
+Puhuja 0: ja silleen, että
+Puhuja 0: sen leipurin kynnen alla oli hiivoja ja se oli iljattavää se touhu, mutta silti se pyöritti
+Puhuja 0: aamu kahdesta aloitti työpäivä, pyöritti siellä
+Puhuja 0: maailman parasta leipää. Ranskaka parasta leipää ja sitä kautta maailman parasta leipää.
+Puhuja 0: Mun mielestä hyvän kirjoittajan,
+Puhuja 0: mediumista,
+Puhuja 0: lajista riippumatta tunnistaa siitä, että jos pystyy kirjoittamaan sille että se on riemukkaan
+Puhuja 0: hauskaa, silleen että hörähtelee
+Puhuja 0: ja saman artikkelin
+Puhuja 0: aikana vähän niin kuin toisessa kohtaa tulee tippa linssiä ymmärtää elämästä jotain. Jos kaksi nämä ääripäätä pystyy sovittamaan saman tekstin, niin silloin ollaan aina jonkun suuren
+Puhuja 0: äärellä. Oli kyse tv-sarjasta
+Puhuja 0: tai
+Puhuja 0: lehtitekstistä
+Puhuja 0: tai kirjasta tai muusta. Jos hauskuus ja
+Puhuja 0: syvä inhimillisyys,
+Puhuja 0: jos ne sotkeutuvat keskenään niin silloin se on pakko olla hyvä. Eli Bill Beauford ja Goodread
+Puhuja 0: neljäkymmentä minuuttia oli sellainen valtavan pitkä juttu
+Puhuja 0: New Yortermissa.
+Puhuja 0: Siinä kaikki tältä erää!
+Puhuja 0: Kiitos Marko Junkkari!
+Puhuja 1: Kiitos
+Puhuja 0: Tuomas! Kiitos Annosta ja Perjan.
+Puhuja 2: Kiitos Tuomas ja Marko!
+Puhuja 0: Mun nimeni on Tuomas Peltomäki.
+Puhuja 0: Kuvan, äänen ja kaiken muunmahtavan meille tekee tällä viikolla Janne Elkki!
+Puhuja 0: Muistakaa hei
+Puhuja 0: varsinkin näin korona-aikoina edelleen please!
+Puhuja 0: Laittakaa meille palautetta uutisraportti tai
+Puhuja 0: sitten itse kunkin! Laittakaa sohville!
+Puhuja 0: Morjestakaa sohvia! Sohvia ei pitkään aikaan ollut tässä kodissa vaikka hän on tavallaan aina tässä kodissa
+Puhuja 0: Laittakaa sohville Twitterissä
+Puhuja 0: hirveästi viestiä ja kuullaan me taas ensi viikolla!
+Puhuja 0: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, Ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

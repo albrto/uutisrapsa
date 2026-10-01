@@ -1,0 +1,408 @@
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uutisraportti-podcastin
+Puhuja 0: ja Facebook Liven toukokuun kuusitoista.
+Puhuja 0: Päivänä kaksituhatta
+Puhuja 0: seitsemäntoista. Minä olen Tuomas Peltomäki, mukana myös Helsingin Sanomien sunnuntailiitteen toimittaja Marko Junkkari. Terve, Marko. Terve, Tuomas.
+Puhuja 0: Ja samassa toimituksessa myöskin toimittava Anna-Sofia Berner, ystävien kesken Sohvi. Hei Sohvi. Heipä hei, Tuomas.
+Puhuja 0: Tämä podcast oli tänään ensimmäistä kertaa historiassa yhdessä jalkautunut
+Puhuja 0: maailmalle, kun olimme yhtä aikaa paikalla
+Puhuja 0: Yle Gate kirjan julkistamistilaisuudessa.
+Puhuja 1: Toisistamme tietävät siellä kauttasivat.
+Puhuja 2: Paitsi me ja Tomas mentiin kyllä yhtä maata. Ja mentiin, kyllä.
+Puhuja 0: Ja ehkä me edustamme
+Puhuja 0: Helsingin Sanomia, emmekä tätä
+Puhuja 0: podcastia. Mutta
+Puhuja 0: tämän viikon podcastissa puhutaan vain yhdestä aiheesta. Ei välttämättä merkityksellisyyden,
+Puhuja 0: vaan aikatauluteknisten
+Puhuja 0: syiden vuoksi. Sohvi on lähdössä porsaan.
+Puhuja 0: Eli tällä viikolla Yleisradion pokkurointi poliitikoille nousi kahtena päivänä peräkkäin esille,
+Puhuja 0: kun maanantaina oli Mäenpää julkisti armottoman selvityksensä
+Puhuja 0: Ylen journalistisesta
+Puhuja 0: päätöksentekoprosessista. Tiistaina Ylen entiset toimittajat Jussi Eronen, Salla Vuorikoski ja Jarno Liski
+Puhuja 0: julkaisivat
+Puhuja 0: kirjansa Yle Gate. Lopuksi vielä hyviä keskustelun aiheita pitkän epämukavien hiljaisuuden
+Puhuja 0: varalle.
+Puhuja 0: Okei, ensin pari sanaa tämän podcastin sponsorilta.
+Puhuja 2: Onko meillä sponsoroida? Meillä on sponsor. Herrajestas.
+Puhuja 0: Nimittäin tämän podcastin sponsoroivat Helsingin Sanomien tilaajat.
+Puhuja 0: Tiesitkö, että yksi parhaimpia tapoja taata, että hyvää journalismia tehdä Suomessa on tilata Helsingin Sanomat.
+Puhuja 0: Kiitoksia vain kaikille Helsingin Sanomien tilaajille.
+Puhuja 0: Kiitos teille, te mahdollistatte
+Puhuja 0: kaiken tämän.
+Puhuja 1: Meidän elämän. Kyllä.
+Puhuja 0: Niin kutsuttu
+Puhuja 0: Yle Gate eli tapaus, jossa Ylen päätoimittaja Atte Jääskeläinen ja hänen välittömät alaisensa ja muu hovi alkoivat sorkkia paikkaansa pitävää
+Puhuja 0: pääministeri Juha Sipilää koskevaa uutista ilman perusteltua syitä, mutta Sipilän painostuksesta
+Puhuja 0: sai tällä viikolla huipentuvansa,
+Puhuja 0: kun Ylen johtamisesta selvityksen tehnyt hallinto-oikeuden professori Olli Mäenpää julkisti
+Puhuja 0: oman näkemyksensä tapahtumista, joka olkoon siis se viimeinen
+Puhuja 0: totuus.
+Puhuja 0: Selvitys liittyy Ylen hallintokulttuuriin,
+Puhuja 0: mitä siellä oli tehty,
+Puhuja 0: mitä siellä oli tapahtunut. Se kaiken kaikkiaan se oli aika
+Puhuja 0: järkyttävä luettavaa.
+Puhuja 0: Sohvi, mitä sinulle jäi päällimmäiseksi mieleen tästä Mäenpään?
+Puhuja 1: Olin tosi yllättynyt siitä miten suorasanainen
+Puhuja 1: ja raju se oli, koska olen ylipäätään tottunut
+Puhuja 1: siihen, että kaikenlaiset selvitykset on vähän semmoista Juupa-Eipäs
+Puhuja 1: ja kaikki on ihan hyvin ja taputellaan jotenkin nätisti. Ja sitten tämä oli
+Puhuja 1: kyllä todella tylvä luettavaa varsinkin Atte Jääskeläiselle
+Puhuja 1: sanoisin,
+Puhuja 1: että sanottiin suoraan, että riippumattomuudessa
+Puhuja 1: on ongelmia
+Puhuja 1: ja että oli tämä terrame keissi ongelma mallinen, mutta että se ei jää siihen, vaan
+Puhuja 1: johtaminen on liian hierarkkista ja siis todella
+Puhuja 1: moneen suuntaan menevää tai siis saatte äskeniseen suuntaan, mutta eri asioista. Tuntuu että tämä oli
+Puhuja 2: jotenkin yksimielinen reaktio, että kaikki myös tämmöiset vimmolaisimmat
+Puhuja 2: yleitikot,
+Puhuja 2: kaikki oli sitä mieltä, että Mäenpää raportti oli yllättävän suora mukana. Kaikki odottivat.
+Puhuja 0: Kaikki odotti,
+Puhuja 0: koska silloin kun Mäenpään
+Puhuja 0: selvitys tilattiin,
+Puhuja 0: minulla
+Puhuja 0: ei ole tarkkoja sitaatteja siitä, mutta siinähän oli
+Puhuja 0: aivan hähmäistä ihme, että
+Puhuja 0: professori Mäenpää...
+Puhuja 0: Ensinnäkin selvityksen tilasi ylen johto itse
+Puhuja 0: itsestään,
+Puhuja 0: mikä sinänsä jo kuulosti aivan, että nyt tulee aivan täyttä nollaa. Sen lisäksi siinä oli jotain, että selvityksessä ei ole tarkoitus tarkastella, mitä on varsinaisesti tapahtunut, vaan Yleisradion ohjeistuksia.
+Puhuja 0: Samantekevää,
+Puhuja 2: että
+Puhuja 0: toisin kävi
+Puhuja 0: samantekevää,
+Puhuja 2: mutta toisin kävi. Joo, mutta Mäenpäähän, mikä itse asiassa nousi tänään YLEGate
+Puhuja 2: kirjan julkkareissakin, niin Mäenpäähän heti,
+Puhuja 2: sen jälkeen kun tämä on julkistettu, että hän rupeaa selvitysmieheksi,
+Puhuja 2: niin vähempää itse jossain STT haastattelussa sanoi, että kyllä hän meinaa tutkia muutakin.
+Puhuja 0: Kyllä, mutta se kuulosti siltä, että tässä nyt oikein tilataan
+Puhuja 0: olematon raportti.
+Puhuja 2: Ja hauskaa.
+Puhuja 2: Olen samaa mieltä, että se oli erittäin hyvä raportti
+Puhuja 2: ja huolella tehty. Siinä oli paljon,
+Puhuja 2: sekin on tavallaan hauskaa, että
+Puhuja 2: oikeustieteen professori, hallinto-oikeuden professori kirjoittaa sinne lauseen, että hän lähestyy
+Puhuja 2: tavallaan journalist tarvitsevat juristin kertomaan, että pitäisi harjoittaa
+Puhuja 2: enemmän. Tai hän kirjoittaa vähemmän
+Puhuja 2: juridiikkaa.
+Puhuja 0: Niin, ja
+Puhuja 0: sitten syöt sinne sitä karkkia ja otat vastaan,
+Puhuja 0: että
+Puhuja 2: Kyllä. Tuosta kirjasta josta paranoidi, on ehkä hyvä sana, koska tuossa tuntuu kyllä, että YLEhän on sieltä viime syksystä lähtien kun kohu lähti liikkeelle,
+Puhuja 2: niin olen hoitanut ihan helvetin huonosti.
+Puhuja 2: Kertoo sekin, että kohu vaan jatkuu ja jatkuu ja jatkuu. Aina
+Puhuja 2: tulee uusi käänne ja minusta Yle hoitaa se aina yhtä huonosti.
+Puhuja 0: Haluaisin vielä,
+Puhuja 0: näyttäytyyköhän media-alan ulkopuolelle tämä kuinka omituisena
+Puhuja 0: tämä koko keittiö?
+Puhuja 0: Minun omassa ajattelussa,
+Puhuja 0: siinä
+Puhuja 0: kun käveltiin
+Puhuja 0: kirjatilaisuuteen,
+Puhuja 0: niin
+Puhuja 0: mainitsit omasta, koska
+Puhuja 0: olet varsin iäkäs herrasmies,
+Puhuja 0: niin... Kiitos Tuomas.
+Puhuja 0: Ei, vaan mainitsit siitä, että niin ilman muuta, että Yle on aina ollut jossain myllerryksessä,
+Puhuja 0: aina ollut kahnauksessa poliitikkojen kanssa. Tätä on ollut aina johtuen siitä, että se on julkisesti
+Puhuja 0: rahoitettu laitos.
+Puhuja 0: Mutta
+Puhuja 0: mun mielestä
+Puhuja 0: nimenomaan tässä ajassa on olemassa
+Puhuja 0: vielä
+Puhuja 0: painavampi hetki johtuen median muuten huonosta tilanteesta.
+Puhuja 0: Me, jotka ollaan toimittajia,
+Puhuja 0: me nähdään se, miten
+Puhuja 0: mielettömillä
+Puhuja 0: resursseilla YLE tekee. Sitä tässä kirjassakin hyvin kuvataan. Varmaan
+Puhuja 0: maikkarilaisilla
+Puhuja 0: on hyvä perspektiivi siihen, miltä se näyttää, jos on ihan vitusti rahaa. Niin minä
+Puhuja 0: en ole sitä mieltä, että YLEllä pitäisi olla vähemmän rahaa. Koska on olemassa mahdollisuus, että pääsen joskus
+Puhuja 0: Ylen. Ja sitten minulla on paljon rahaa. Ja saan tehdä rauhassa asioita. Ja minulla on seitsemän avustajaa,
+Puhuja 0: kuusitoista sihteeriä.
+Puhuja 0: Ja
+Puhuja 0: mediatoimittajat
+Puhuja 0: erikseen ja kaikki nämä. Että on hyvä asia, että tässä yhteiskunnassa on vielä tahoja, joissa on rahaa kuin roskaa. Mahtavaa, pidetään se niin.
+Puhuja 0: Mutta
+Puhuja 0: kun rahan myötä
+Puhuja 0: tulee vaan valtaa.
+Puhuja 0: Silloin pystyt tekemään esimerkiksi samat jutut, mitä kaupallinen media tekee. Ne tekee silleen, että siellä on yksi toimittaja tunnin kirjoittaa sitä juttua ja ihan vitumainen kiire. Juttu on sinnepäin, vähän paska.
+Puhuja 0: Siellä
+Puhuja 0: pistetään neljä toimittajaa tekemään ja
+Puhuja 0: arkisto-osastoa,
+Puhuja 0: plaa, plaa, plaa, plaa. Totta kai se juttu mahdollisesti
+Puhuja 0: on todella paljon parempi, ihan vaan parempi. Yle pystyy, koska sillä on niitä resursseja, se pystyy hoitamaan hommaa
+Puhuja 0: todella hyvin, mikä kasvattaa sen vaikutusvaltaa,
+Puhuja 0: koska jengi rupeaa olemaan, että Yle laadimme paremmat jutut ja näin, koska siellä on paljon enemmän tekijöitä.
+Puhuja 0: Ja näin.
+Puhuja 0: Ja sen lisäksi
+Puhuja 0: kanavan kanavahallinta,
+Puhuja 0: se, että siellä on mitä, neljä vai viisi tv-kanavaa.
+Puhuja 0: Radio, käytännössä kaikki radioissa sanotaan jotain muuta kuin että moi, niin kaikki se on Ylen hallinnassa. Ja mun mielestä Yle on viime kuukausina noussut netissäkin
+Puhuja 0: luetuimmaksi
+Puhuja 0: mediaksi uutispuolella.
+Puhuja 0: Tämä aika nimenomaan on kasvattanut Ylen merkitystä yhteiskunnallisena
+Puhuja 0: voiman käyttäjänä ja vallan käyttäjänä
+Puhuja 0: aivan eri luokkaan kuin aiempina vuosikymmeninä,
+Puhuja 0: jolloin myös kaupallinen media oli
+Puhuja 0: voimissaan. Silloin ylen merkitys
+Puhuja 0: isona kanavana ei ollut niin suuri. Sen takia juuri nyt tämä on juuri nyt
+Puhuja 0: älyttömän tärkeätä, että mitä yleisessä tapahtuu. Ja että jos siellä tapahtuu jotain hähmää, niin se pitää heti hoitaa sieltä pois, koska Ylen asema suhteessa kaupalliseen media on niin dominoiva. Näin
+Puhuja 2: on, mutta onhan tuossa
+Puhuja 2: kirjassa myös, kun siellä myös päivitellään näitä Ylen
+Puhuja 2: resurssien hukkakäyttöä, mutta kyllähän siellä pointtina on myös se, että tavallaan kumminkin näillä resursseilla usein tulee aika puolivilla sitä kamaa. Kyllä siinä on myös yksi yhteen. Mutta se mitä olin sanomassa,
+Puhuja 2: niin vielä se Mäenpään rapsa, niin siinä oli minusta kiinnostava yksi pointti, että
+Puhuja 2: ylen pitäisi olla valmis journalismissaan isompaan riskinottoon ja ennen kaikkea tutkivassa journalismissaan. Ja se on minusta
+Puhuja 2: etenkin hauskaa, että tämä tulee Mäenpää suusta ja
+Puhuja 2: sehän on semmoinen
+Puhuja 2: iso
+Puhuja 2: journalistinen kysymys, ja itsekin tämmöisenä entisenä
+Puhuja 2: osaston pomona, joka on johtanut tutkivia journalisteja, niin tutkivassa journalismissa on sen pomoa vinkkelistä ennen kaikkea kysymys riskinotosta. Se
+Puhuja 2: riskinotto
+Puhuja 2: ei koske niinkään sitä, että jos joku Juha Sipilä suuttuu tai joku valtaapitävä suuttuu, vaan riskinotto on se, että koska nuo tutkivia
+Puhuja 2: projektit on niin työläitä ja ne syö paljon resursseja, niin sinun täytyy... Jos se pitää
+Puhuja 2: ottaa riskiä, että olenko valmis irrottamaan
+Puhuja 2: kaksi tyyppiä, ja sitten jää paljon muita tekemättä, kaksi tyyppiä
+Puhuja 2: pitkäksi aikaa
+Puhuja 2: tämän asian kimppuun, että mikä se tuotos-panossuhde
+Puhuja 2: on siinä. Se riski on myös sitä.
+Puhuja 0: Se on taloudellinen
+Puhuja 2: riski siinä mielessä, pannaanko me,
+Puhuja 2: mikä on se juttu mikä tästä projektista voisi tulla ulos, ja mikä sen yhteiskunnallinen merkitys on. Samalla
+Puhuja 2: kun mediatalojen talous kiristyy, niin tätä pohdintaa käydään yhä enemmän, että voidaanko irrottaa kaksi tutkivaa toimittajaa penkomaan jotain veroparatiiseja
+Puhuja 2: kolmeksi kuukaudeksi? Ja siis usein vastaus on nykyään ei. Mutta YLE:llä on ne resurssit, ja YLE:llä se riski ei niinkään tunnu olevan se, että voidaan
+Puhuja 2: irrottaa niin kuin Eronen ja Vuorikoski
+Puhuja 2: monta muuta
+Puhuja 2: sinne ikkunasta koppiin kuukausiksi, penkomaan nuorisosäätiötä
+Puhuja 2: ja kirjoittamaan sitä kolmekymmentä x uusiksi. Sekin oli tragikoomista
+Puhuja 2: vuoden sitä juttua, niin kun aina molemmat kirjoittamaan uusiksi ja näin. Se on tavallaan normaalia
+Puhuja 2: ja journalisti projektia, että juttuja kirjoitetaan uusiksi, mutta ainakin se lopputulos on ehkä
+Puhuja 2: pitää ottaa ja YLE:llä siihen olisi taloudelliset resurssit. Siihen nähden tämä
+Puhuja 2: tavallaan toimintatuokirja kertoo Ylen tutkivasta journalismista, niin siellä se riski nähdään eri tavalla. Se riski koetaan, että se tulee sieltä
+Puhuja 2: hallituksesta tai päättäjiltä.
+Puhuja 2: Ja se sitten taas lähtee,
+Puhuja 2: se johtuu tästä Ylen asemasta, se toimii
+Puhuja 2: julkisen rahoituksen varassa ja tässä tuntuu, että
+Puhuja 2: vastaava päätoimittaja ei saisi olla ykköseksi
+Puhuja 2: rahoitusta keräämässä. Se aiheuttaa just tän. Riskijakautessa ja riskien ottamista aletaan
+Puhuja 0: välttämään. Kyllä. Mun mielestä tässä kirjassa sanottiin, hyvin summattiin
+Puhuja 0: se,
+Puhuja 0: että kun normaalisti journalismissa
+Puhuja 0: uutiskynnys menee silleen, että mitä mitättömämpi ihminen olet,
+Puhuja 0: Sen korkeammalla on uutiskynnys. Ja tuossa vaan hyvin mainittiin, että YLE:llä se on päinvastoin. Mitä tärkeämpi olet, niin sen enemmän siinä on niin kuin,
+Puhuja 0: sen korkeammalla se rima on, että mitä sinusta voidaan uutisoida.
+Puhuja 0: Tässä kirjassahan viitattiin muun muassa sellaiseen tapaukseen, mitä ei julkaistu loppujen lopuksi, mistä ei tehty erillistä juttua, ja se jätettiin johonkin maininnan tasolle.
+Puhuja 0: Joku tyyppi
+Puhuja 0: oli rahoittanut Petteri Orpo,
+Puhuja 0: Tällä tyypillä oli satojentuhansien eurojen omaisuus veroparatiiseissa.
+Puhuja 0: Tämä
+Puhuja 0: liittyi uutisointiin hallintarekistereistä
+Puhuja 0: ja muista.
+Puhuja 0: Sitten oltiin haluttu tehdä juttu siitä, että Petteri Orpon vaalirahoittajalla
+Puhuja 0: on merkittäviä summia veroparatiiseissä.
+Puhuja 0: Suurin piirtein näin.
+Puhuja 0: Tätä ei saanut julkaista.
+Puhuja 0: Sen takia,
+Puhuja 0: että se jääskeläinen siellä sähköposteissaan perusteli, että se summa on mitätön, se on alle ilmoitusrajan. Jos
+Puhuja 0: vaalirahoituksen
+Puhuja 0: ilmoitusraja on 1700 euroa.
+Puhuja 0: Eli
+Puhuja 0: se on täysin mitätön se summa.
+Puhuja 0: Mutta minun mielestä
+Puhuja 0: se on hyvä esimerkki siitä,
+Puhuja 0: että siinä jutussa voi lukea ihan selvästi,
+Puhuja 0: että summa on pieni, Että summa on tuhat viisisataa euroa. Se kerrotaan tässä nyt Petteri Orpo,
+Puhuja 0: tämä tyyppi, joka on veroparatiiseja, ei laittanut satoja tuhansia.
+Puhuja 0: Rahoitittui muun muassa Petteri Orpon vaalikampanjaa.
+Puhuja 0: Summa oli erittäin pieni, tuhat viisisataa euroa.
+Puhuja 2: Niin, koska fiilistelen. Fiilistelen ja muistelen niitä kamalia aikoja.
+Puhuja 2: Tämä
+Puhuja 2: on
+Puhuja 2: Tuomo Pietiläinen, joka on varmaan Hesarin maineikkain tutkiva euroasta.
+Puhuja 0: Siis haluan viedä ajatuksen loppuun
+Puhuja 0: Jos se on täysin mitätön summa, että tuhat viisisataa euroa annettu Orpolle. Mä en ymmärrä, miksei sitä voi kirjoittaa sinne juttuun. Nyt sanottiin, että ei saa kirjoittaa juttuun, koska tästä syntyy mielikuvia ja tästä syntyy niin kuin
+Puhuja 0: kansanpäässä
+Puhuja 0: syntyy jotain ajatelmia. Vaikka se voi kirjoittaa sinne, että summa on hyvin pieni ja blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa
+Puhuja 0: b
+Puhuja 0: lisäksi, että he kertovat, mitä juuri nyt, tuottavat
+Puhuja 0: taustamateriaalia
+Puhuja 0: sitä varten, että tulevaisuudessa
+Puhuja 0: niihin juttuihin joku törmää tähän samaan tyyppiin vaikka myöhemmin uudelleen jossain toisessa yhteydessä,
+Puhuja 0: googlailee sitä. Sitten näkee sieltä uutisesta, joka on julkaistu, että niin tämä rahoitti orpoakin.
+Puhuja 0: Kyllähän journalismi myös tuottaa tätä perustietomassaa
+Puhuja 0: nettiä muualle.
+Puhuja 0: Sen takia se on kaksinkertainen synti, ettei
+Puhuja 0: anneta julkaista jotain sinänsä mitätöntä
+Puhuja 0: tiedonmurusta.
+Puhuja 2: Tavallaan just tuohon olisin
+Puhuja 2: jatkanut.
+Puhuja 2: Elikkä
+Puhuja 2: Tuomo
+Puhuja 2: Pietiläinen, joka on Hesarin ehkä tunnetuin
+Puhuja 2: tutkiva journalisti ja on kyllä suututtanut niin monta
+Puhuja 2: isoa herraa tässä vuosien varrella, että ei laskuissa pysy mukana. Olen
+Puhuja 2: ollut vuosia
+Puhuja 2: Tuomo pomona ja olen kyllä lukuisia hänen tavallaan juttuhankkeitaan
+Puhuja 2: ampunut alas, että ei lähdetä tekemään
+Puhuja 2: tuota. Tästä
+Puhuja 2: on väännetty kättä ja väitelty, mutta
+Puhuja 2: ainakin minulla on ollut koko ajan se olo,
+Puhuja 2: että ei tuo minua epäily, eikä tuo ole mitään syytäkään epäillä, että minulla olisi joku muu motiivi kuin tavallaan
+Puhuja 2: journalistinen motiivi tässä kun
+Puhuja 2: olen estänyt häntä tekemästä jotain.
+Puhuja 2: Ongelmahan tulee siitä, jos sille toimittajalle
+Puhuja 2: syntyy epäilys, niin kuin yleesä on nyt syntynyt, että siellä pomolla on joku muu kuin journalistinen motiivi tässä sen ei-lauseessaan.
+Puhuja 2: Janne Virkkunen, vanha Hesarin päätoimittaja, on joskus sanonut, että tutkivassa journalismissa on tärkeää
+Puhuja 2: se, että tavallaan se toimittaja luottaa siihen päätoimittajaan tai luottaa pomonsa, ja sitten se on myös toisinpäin, että pomo luottaa siihen alaiseensa. Ja tähän puuttuu nyt täysin yleistä. Se
+Puhuja 2: on se tutkivan journalismi perusvaatimus,
+Puhuja 2: koska rakenteellisesti
+Puhuja 2: tutkivassa journalismissa astutaan jonkun isokenkäisen
+Puhuja 2: varpaille.
+Puhuja 2: Virkkunen myöskin on sanonut, että
+Puhuja 2: tavallaan hänen pitää tietää näistä jutuista, että pahinta
+Puhuja 2: hänen kannaltaan on se, että hän on siellä jossain kekkereillä ja siellä tulee joku vuorineuvos
+Puhuja 2: rähjäämään hänelle, ja hän ei edes tiedä koko jumastaan.
+Puhuja 2: Hän haluaa tietää, miten se prosessi etenee ja mitä on tavallaan tekeillä. Hän
+Puhuja 2: voi luottaa
+Puhuja 2: tutkivaan toimittajaan ja toisaalta hän luottaa päätoimittajaan tai omaan lähiesimiehensä, että
+Puhuja 2: tavallaan ollaan samalla kartalla. Eikä ole muita motiiveja kuin journalistinen motiivi.
+Puhuja 2: Minusta tämä on yksinkertaista, mutta tämä vaan puuttuu yleensä. Se on sieltä romatunut aivan täysin.
+Puhuja 2: En sano vielä sen tuohon jatkona, ja näyttää se, että tämä Ylen tutkiva porukka, joka ei tämä erosen johtava porukka, oliko se virallisesti mikään varsinainen ryhmä?
+Puhuja 2: Nehän teki tutkivaa journalismia, mutta
+Puhuja 2: vähän niin kuin itse muotoutuneessa porukassa. En tiedä miten se tieto on kulkenut. Onhan sekin myös kestämätön tilanne, että pomot ei tiedä mitä toimittajat siellä duunaa.
+Puhuja 0: Niin, kyllä.
+Puhuja 0: Mutta pomot pidettiin hyvin informoituna siitä.
+Puhuja 0: Mutta totta kai
+Puhuja 0: organisaatiossa käy niin, että
+Puhuja 0: kirjassakin hyvin kuvataan, että kun
+Puhuja 0: aina jokaikiseen asiaan rupeaa tulemaan, että ei ja kahdeksan palaveria ja seitsemäntoista ihmistä muokkailemassa
+Puhuja 0: juttuja, niin kyllähän siinä tulee houkutus olla kertomatta pomoja. On ja siinä päästään taas yhden organisaatiokaavioita.
+Puhuja 2: Niin.
+Puhuja 0: Mutta hei vielä
+Puhuja 0: tähän kokonaiskuva.
+Puhuja 0: Tämä oli varmaan
+Puhuja 0: suurin piirtein päätepiste
+Puhuja 0: tälle yle asialle.
+Puhuja 2: Ei kai sentään.
+Puhuja 2: Jatkuhan tämä nyt tästä.
+Puhuja 0: Mutta uutta kamaa ei tämän tiimoilta tule. Kaikki on kerrottu mikä voidaan kertoa. Ellei nyt jääskeläinen tänä iltana, että repä se
+Puhuja 2: hihasta.
+Puhuja 2: Eikö tämä jatku siis ole,
+Puhuja 2: huomennahan Ylellä on kaikkien odottama suuri Ylen etiikka iltavissa,
+Puhuja 2: kun hyvät keskustelijat, että puolitoista tuntia.
+Puhuja 2: Ja
+Puhuja 2: sitten, ylen pidä uudistaa tämän organisaationsa,
+Puhuja 2: joskus juhannukseen mennessään.
+Puhuja 0: Kyllä, toivottavasti. Meidän pitää uudet sulkua. Nyt on tavallaan nähty ne pääpointit, että
+Puhuja 0: JSN
+Puhuja 0: antoi omat lausuman.
+Puhuja 0: Sanoi, että Yle on taipunut pääministerin painostukseen,
+Puhuja 0: Yle on tehnyt todella pahat synnit, nimenomaan jääskeläinen.
+Puhuja 0: Mäenpää
+Puhuja 0: sanoi tismalleen samat asiat,
+Puhuja 0: ja tota
+Puhuja 0: nyt tämä kirja vielä erikseen taustoittaa ja näiden
+Puhuja 0: lähtijöiden
+Puhuja 0: näkökulkananta
+Puhuja 0: on nyt selvä.
+Puhuja 0: Tai niinku heidän kertomansa.
+Puhuja 0: Niin,
+Puhuja 0: mitä seuraavaksi?
+Puhuja 2: Niin, mä
+Puhuja 2: en, tavallaan niin kuin Ylen kannalta olisi olennaista saada tämä jotenkin
+Puhuja 2: rauhoittumaan. Ja mä en vaan tiedä miten tämä nyt rauhoittuu.
+Puhuja 0: Niin. Ylen
+Puhuja 0: hallitus antoi Jääskeläiselle
+Puhuja 0: luottamuksensa.
+Puhuja 0: Mikä oli jotenkin ihan banaalia, katsoin
+Puhuja 0: sen Wilhelmssonin vai mikä se on, Helsingin yliopiston
+Puhuja 0: kansleri.
+Puhuja 0: Hän sanoi siellä, että aluksi hän sanoi, että päivänselvä, että jäiskeläisellä on luottamus. Ja näin, näin, näin. Sitten myöhemmin samassa haastattelussa
+Puhuja 0: sanoi, että joo ei me ehditty perehtyä
+Puhuja 0: raporttia, että tässä oli aivan liian kiireaikataulu
+Puhuja 0: omituista. Joka tapauksessa, heidän osaltaan Jääskeläistä
+Puhuja 2: kohtaan ei kohdistu mitään. Eikö se päinvastoin ollut perehtynyt raportti etukäteen?
+Puhuja 0: Sano myöhemmin A-Studion haastattelussa, että tämä tuli vähän liian innoissaan, ettei ole kirjattu kunnolla miettimään näitä asioita. Joka
+Puhuja 0: tapauksessa heidän kohdallaan Jääskeläistä ei pistetä pihalle.
+Puhuja 0: Mutta itse kuvasit tuon,
+Puhuja 0: miten esimerkiksi tutkiva journalismi ylös, niin eihän se voi
+Puhuja 0: jatkua.
+Puhuja 0: Kuka siellä rupeaa yhtään mitään enää tekemään? Juha Sipilän sotkuista.
+Puhuja 2: Niin tai kenenkään muunkaan poliitikolle. Niin,
+Puhuja 0: en minäkään jaksaisi.
+Puhuja 0: Niin. Jonkun näköinen masokistenhan sitä täytyisi olla, että lähtisi Ylellä tekemään
+Puhuja 0: jotain. Mutta sanotaan nyt se, että niin se... Ei, minulla on yksi Sipilän sukulaisten toinen firma tässä.
+Puhuja 2: Täällä näyttäisi olevan jotain sotkuja.
+Puhuja 2: Joo, mutta
+Puhuja 2: voimassa.
+Puhuja 2: Jos luottamusta ei ole, niin se on samantien kenkään.
+Puhuja 2: Mielestäni
+Puhuja 2: se ensimmäinen reaktio, mitä luottamus on, niin ehkä siinä halutaan myös katsoa, miten lähipäivät etenee tässä. Okei.
+Puhuja 0: Miten uskot, että käy?
+Puhuja 2: No, minä en ihan vilpittömästi tiedä.
+Puhuja 2: En yllätyisi kauheasti, jos Atte Jääskeläinen ja Lauri Kivinen
+Puhuja 2: eroaisi, koska en oikein näe, että heillä on kauhean toimintakykyisiä ääneen tuon organisaation vetäjinä.
+Puhuja 2: Osahan on äärimmäisen lojaaleja heille ja tykkää heistä johtajana, mutta sitten siellä on aika paljon kriittistä ääntä. En tiedä miten ne saa sen organisaation käännettyä
+Puhuja 2: tuollalleen.
+Puhuja 2: Toisaalta minusta tuntuu, että jos Atte Jääskeläen nyt eroaisi,
+Puhuja 2: niin sitten hän tavallaan eronne ja Vuorikoskia nämä voittaisi. En tiedä salliiko hän missään nimessä tänne
+Puhuja 2: tapahtumaan?
+Puhuja 2: En osaa sanoa. Siinä voi käydä kuluja tahansa.
+Puhuja 0: En
+Puhuja 0: myöskään tiedä.
+Puhuja 0: Mutta mahdottomalta tuntuu, että hän jatkaa.
+Puhuja 0: Täysin mahdottomalta.
+Puhuja 0: Yleisön silmissä
+Puhuja 0: hän on
+Puhuja 0: sortunut kardinaalisyntiin.
+Puhuja 0: Mihinkään mitä Ylen uudet alta tulee ulos, ei voi olla
+Puhuja 0: katsomatta onko tämän jutun kirjoittanut Sipilä vai ei. No joo, ei tule pidä liioitella.
+Puhuja 2: Tämä
+Puhuja 2: nyt jotenkin kuohuttaa meitä toimittajia ja kun me tunnetaan nämä tyypit ja näin mutta en
+Puhuja 2: usko suuren yleisön
+Puhuja 2: silmissä
+Puhuja 2: luottamus yleena mitenkään dramaattisesti romahtavana.
+Puhuja 0: No en tiedä. JS sanoo, että näin on. Kansainväliset
+Puhuja 0: toimittajatjärjestöt on huolissaan. Sananvapaus,
+Puhuja 0: sijoitus on romahtanut.
+Puhuja 2: On siis, on valmistelussa. Selvitys.
+Puhuja 0: Ihan vaikkei lukisi niitä juttuja niin kyllähän otsikkotasolla tuo vaikuttaa tosi
+Puhuja 0: huonolta.
+Puhuja 2: Niin, yleensä nyt selvästi toivotaan, että tämä jossain vaiheessa unohtuisi. Mutta mä en oo varma kun tää tuntuu.
+Puhuja 2: Sanoit että tää on nyt sen huippu kohta mä luulen että täs tulee vielä jotain käänteitä.
+Puhuja 0: No ehkä
+Puhuja 0: hei pitäisikö meidän ruveta lopettelemaan vielä
+Puhuja 0: Marko.
+Puhuja 0: Kun loppuviikosta
+Puhuja 0: selvittää tästä tästäkin Yleviikosta,
+Puhuja 0: käyt ehkä juomassa
+Puhuja 0: yhden
+Puhuja 0: alakerran sporttibaarissa.
+Puhuja 0: Niin milläs viihdität baarimikkoa siellä?
+Puhuja 2: Mä ehkä viihdytään
+Puhuja 2: huomenna erään juttukeikan yhteydessä tuommoiseen
+Puhuja 2: teurastamoon.
+Puhuja 2: En katso, onko sikoja tapetaan. Miksi?
+Puhuja 2: Se kolme tekee ihmiseltä kasvissyöjä. Katsopa, että tee mun käy. Ai sä oot tämmöinen koekaniini.
+Puhuja 2: En mä sen takia sinne, mihin se liittyy yhtään juttuun, mutta ihan kiva. En ole koskaan ollut teurastamassa.
+Puhuja 0: Aijaa, en minäkään. Verta ja suolen pätkiä. Enkä haluaisi nähdä.
+Puhuja 0: Syön, pidän siitä suunnasta. Syön.
+Puhuja 0: Joo, olen äärimmäisen hyvä kokki.
+Puhuja 0: Haluaisin pitää tämän
+Puhuja 0: nautinnon elämässäni.
+Puhuja 2: Voin ottaa kännykän kuvia lähettää sulle.
+Puhuja 0: Niitä löytyisi Googlesta,
+Puhuja 0: mutta en halua.
+Puhuja 0: Halusin pysyttäytyä illuusioissani.
+Puhuja 0: Hei, mulla ei ole mitään. En.
+Puhuja 2: Sait olla hiljaa. Ai olla hiljaa.
+Puhuja 2: Kerran,
+Puhuja 2: kiitos.
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos
+Puhuja 0: Marko Junkkari.
+Puhuja 0: Kiitos myös Anna-Sofia Vernerillä, joka jo poistuu lähetyksestä.
+Puhuja 0: Minä olen Tuomas Peltomäki. Katsokaa uutisraportin uusin jakso perjantaina
+Puhuja 0: osoitteessa Facebook piste com kauttaviivauutisraporttihew.
+Puhuja 0: Fiuutisraportti.
+Puhuja 0: Käykää tykkäämässä Facebook-Suomesta
+Puhuja 0: ja lähettäkää
+Puhuja 0: kommentteja
+Puhuja 0: Twitterissä. Kuullaan taas ensi viikolla.

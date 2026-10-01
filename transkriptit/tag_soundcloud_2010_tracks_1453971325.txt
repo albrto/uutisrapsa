@@ -1,0 +1,483 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 1: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 1: päätös asettua välikappaleeksi
+Puhuja 1: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 1: Kaasukauppaan,
+Puhuja 1: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 1: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 1: Lataa siis se ja kuuntele viisiosainen
+Puhuja 1: menetetyt miljardit.
+Puhuja 0: Helsingin
+Puhuja 2: Sanomat. Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 2: podcastiin.
+Puhuja 2: Torstaina
+Puhuja 2: kaksikymmentäkolme.
+Puhuja 2: Helmikuuta.
+Puhuja 2: Minun nimeni ei ole Tuomas Peltomäki vaan Anni Keski-Heikkilä ja kanssani täällä Salamatalon
+Puhuja 2: studiossa
+Puhuja 2: ovat Helsingin Sanomien politiikan toimittaja Marko Junkkari. Hei Marko. No heissan Anni.
+Puhuja 2: Hei. Ja tutkivien juttujen tuottaja Salla Vuorikoski. Hei Salla.
+Puhuja 2: Terve Anni. Lähdettiinpäs jotenkin innostuneesti.
+Puhuja 2: Kuten kuuluu, Tuomas on hiihtolomalla,
+Puhuja 2: mutta muuten on jengi kasassa niin sanotusti.
+Puhuja 2: Mitä teille kuuluu, Salla ja Marko?
+Puhuja 2: Mietin, kuinka monta kertaa tämän lähetyksen aikana voi sanoa, että tänään alkaa hiihdon
+Puhuja 2: MM-kisat
+Puhuja 3: ja sen takia minulle kuuluu oikein hyvää.
+Puhuja 3: Aion
+Puhuja 3: työnantajalle, ette kerro tästä, mutta aion käyttää työaikaa
+Puhuja 3: näiden kisojen katsomiseen. Tänään tulee sprinttiä ja
+Puhuja 3: siitä
+Puhuja 0: edespäin. Milloin ois ihoh hiihtää?
+Puhuja 3: Iivoh hiihtää,
+Puhuja 3: no niin, nyt sitten katsotaan milloin ihoh hiihtää. Mä hankin sinulle tämän tiedon.
+Puhuja 2: Tänään hiihdetään noita kuitenkin noita pikamatkojen sprinttejä.
+Puhuja 2: Pysykää kuulolla koko podcastin ajan, koska Iivo hiihtää.
+Puhuja 2: Sä saat sen tiedon täältä ensimmäisenä.
+Puhuja 2: Tämän viikon podcastissa keskustellaan
+Puhuja 2: koko Suomea järisyttäneestä
+Puhuja 2: Ylen koulukoneesta,
+Puhuja 2: jonka avulla vanhemmat pystyy kätevästi koulussa shoppailemaan lapsensa
+Puhuja 2: oikein hyvään opinahjoon
+Puhuja 2: ja jättämään
+Puhuja 2: toiset lapset, joiden vanhemmat ei ole näin tehneet, niin riutumaan lähikouluihin.
+Puhuja 2: Esimerkiksi opetusministeri Li Andersson sanoi, että ei näin yleisradio.
+Puhuja 2: Mutta
+Puhuja 2: oliko tässä toisaalta vaan kyse? Faktojen toteamisesta
+Puhuja 2: keskustellaan. Myös
+Puhuja 2: puhutaan siitä, kuinka kauan meidän on järkevää käyttää tällä pallolla
+Puhuja 2: elostamme työn tekemiseen. Onko meidän järkevää hikoilla sykkeet tapissa kahdeksan tuntia päivässä viisi päivää viikossa vai pitäisikö sitä tehdä
+Puhuja 2: tulevaisuudessa vain neljänä päivänä viikossa?
+Puhuja 2: Brittiläinen ajatuspaja toteutti kokeilun, jonka tulokset oli niin hyviä, että suomalainen
+Puhuja 2: vasemmisto suorastaan riehaantui
+Puhuja 2: ja
+Puhuja 2: elinkeinoelämä kauhistui.
+Puhuja 2: Ja vielä otetaan käsittelyyn
+Puhuja 2: MM-hiihtojen
+Puhuja 2: alla
+Puhuja 2: urheilukansaa tai ehkä jotain muuta kansaa kohuttanut hiihtäjä Kerttu Niskasen
+Puhuja 2: Porse
+Puhuja 2: tai pitäisikö sanoa luksusauto, niin ei anneta ylimääräistä tätä meidän arvokasta mainostilaa
+Puhuja 2: tälle kyseiselle automerkillä ilmaiseksi.
+Puhuja 3: Muuten meidän kuulijakunta on just sellaista, että ryntää heti ostamaan porssia
+Puhuja 3: kaupasta.
+Puhuja 2: Jos me nyt sanotaan se ääneen. Satakuusitoista
+Puhuja 2: nolla euroa, muistaakseni.
+Puhuja 2: Tätä luksusautoa
+Puhuja 2: Kerttu
+Puhuja 2: nimittäin mainosti
+Puhuja 2: ihan rehellisesti, mutta moni koki tulleensa huijatuksi, niin puhutaan siitä, että miten some mainostamiseen saataisiin jotain järkeä.
+Puhuja 2: Ja lopuksi vielä hyviä keskustelunaiheita
+Puhuja 2: pitkien epämukavien
+Puhuja 2: hiljaisuuksien
+Puhuja 2: varalle.
+Puhuja 2: Okei, koulujen eriytymisestä.
+Puhuja 2: Huolllistuminen on paljon muutakin kuin tämmöinen ylen yksi pieni koulukone,
+Puhuja 2: mutta lähdetään siitä liikkeelle, koska se herätti niin paljon tunteita ja leimautti tämän koulushoppailukeskustelun
+Puhuja 2: suorastaan uuteen liekkiin.
+Puhuja 2: Tätä
+Puhuja 2: nauhoittaessa
+Puhuja 2: siitä on tasan viikko, kun Yle julkaisi tämän kohutun koneen,
+Puhuja 2: josta syntyi hirveä
+Puhuja 2: haloo.
+Puhuja 2: Tästä hakukoneesta pystyy siis katsomaan valitsemansa peruskoulun
+Puhuja 2: päättötodistuksen
+Puhuja 2: keskiarvon,
+Puhuja 2: alueen palkkatulojen mediaanin,
+Puhuja 2: alueen korkeakoulutettujen
+Puhuja 2: osuuden, alueen työllisyysasteen
+Puhuja 2: ja niin sanottujen S2-oppilaiden
+Puhuja 2: määrän koulussa
+Puhuja 2: eli suomea toisena
+Puhuja 2: kielenä opiskelevien oppilaiden määrän.
+Puhuja 2: Opetusministeri Andersson suuttui,
+Puhuja 2: lapsiasiavaltuutettu
+Puhuja 2: Elina Pekkarinen piti tätä epäeettisenä ja harhaanjohtavana.
+Puhuja 2: Ei pelkästään tänään edes kaksi-oppilaiden määräsi eikä kaupalliseksi yhteistyöksi.
+Puhuja 2: On todella raivostuttavaa,
+Puhuja 2: että vaikuttajat on jotenkin ihmeellisesti saaneet vallan kielenkäytöstä
+Puhuja 2: tässä asiassa.
+Puhuja 2: Ja ne sanoo, että kaupallinen
+Puhuja 2: yhteistyö,
+Puhuja 3: mainos. Mutta se pohjahan on,
+Puhuja 3: että
+Puhuja 3: myös journalismin sisällä
+Puhuja 3: tarkoitan, että kun on lehti tai tv-kanava, että miten siellä sitten se mainos
+Puhuja 3: erotetaan siitä muusta sisällöstä.
+Puhuja 3: Meillä mediassa myös on ollut näitä kaikenlaisia
+Puhuja 3: yhteistyökuvioita.
+Puhuja 3: Erilaista on tässä, sanotaan
+Puhuja 3: ehkä kymmenen vuoden aikana testattu. Siitä käydään
+Puhuja 3: sellaista loputonta vääntöä, että millä sanamuodoilla, että
+Puhuja 3: saako käyttää
+Puhuja 3: joku yhteistyöhanke,
+Puhuja 3: kaupallinen
+Puhuja 3: yhteistyö vai?
+Puhuja 3: En enää edes muista, mutta on kokeiltu kaikkia sanoja ja niihin on otettu JSNGkin ottanut kantaa, että
+Puhuja 3: miten ne pitää ilmaista. No, sen kaiken taustalla on tietenkin se
+Puhuja 3: aito sisältö, että onko se joku, kuten Kerttu Niskasen
+Puhuja 3: sellainen, että tällaista oli tänään harjoituslenkillä
+Puhuja 3: joku lätinä tai
+Puhuja 3: sitten jo Marko Junkkarin
+Puhuja 3: hieno kolum.
+Puhuja 3: Se on sitä arvokasta. Yleisö kokee sen arvokkaana ja aitona ja kiinnostavimpana sisältönä, niin siinä on aina se intressi
+Puhuja 3: päästä vähän sanotaan, että joillain tahoilla on intressi päästä vähän ujuttamaan sinne sen aidon ja oikean
+Puhuja 3: sisällön puolelle ja myös hämärtämään sitä rajaa.
+Puhuja 3: Sitten me haukat valvotaan
+Puhuja 3: yleisön etua siinä asiassa. Sen takia somemarkkinointi
+Puhuja 2: on tosi vaikuttavaa, koska se nimenomaan hämärtää sitä rajaa ja sitten tulee semmoinen olo, että
+Puhuja 2: minun muka tuntemani
+Puhuja 2: ihminen
+Puhuja 2: suosittelee minulle aidosti tuotetta.
+Puhuja 3: Mä näen
+Puhuja 3: somessa
+Puhuja 3: kenen hyvänsä minkä tahansa tunnistettavan
+Puhuja 3: tuotteen kanssa, niin mä aina ajattelen, että se on mainos.
+Puhuja 3: Koska en tee
+Puhuja 3: Twitteriin
+Puhuja 3: postauksiin, että hei, tässä jos tätä kauramaitoa
+Puhuja 3: laitan tänään.
+Puhuja 3: Mutta
+Puhuja 2: vaikka tiedostaisi, että se on mainos, se voi silti vaikuttaa itseen sillä tavalla, että ostaa niitä tuotteita. Esimerkiksi
+Puhuja 2: siellä on kauneus ja meikkiä vaikuttajia.
+Puhuja 2: Olen seurannut niitä niin pitkään nuoresta teinistä asti, että niihin on muodostunut suhde, että luotan niihin aika paljon, jos olen niitä
+Puhuja 2: yli kymmenen vuotta nyt jo seurannut samaa tyyppiä somessa ja YouTubessa ja tälleen.
+Puhuja 2: Sitten sitä huomaa vain itsestään, että tulee ostaneeksi asioita,
+Puhuja 2: joihin... Ja mä olen tiedostanut, että tässä minä katselen mainosta
+Puhuja 2: ja kuitenkin
+Puhuja 2: se vaikuttaa enemmän kuin semmoinen tavallinen mainos, jonka näkisi jossain. En niin, oliko tälle mitään mennessä. Mutta tuo on se mainonnan
+Puhuja 3: funktio.
+Puhuja 2: Me sellainen paljon brittiläisiä somevaikuttajia.
+Puhuja 2: Siellä tämä on tehty todella hyvin. Siellä on yhteiskunta kunnossa
+Puhuja 2: tässä asiassa.
+Puhuja 2: Siellä on siis paikallinen kilpailu ja markkinaviranomainen
+Puhuja 2: linjannut,
+Puhuja 2: että aina jos on mainos tai joku kaupallinen yhteistyö,
+Puhuja 2: alennuskoodeja,
+Puhuja 2: oman brändin
+Puhuja 2: esittelyä,
+Puhuja 2: arvosteluja,
+Puhuja 2: joissa on saanut sen ilmaiseksi,
+Puhuja 2: jotain tavaroita, mitä vaikuttaja on saanut ilmaiseksi ja esittelee niitä. Niissä pitää kaikissa olla
+Puhuja 2: selvästi merkittynä
+Puhuja 2: add-sana
+Puhuja 2: ja se täytyy näkyä jossain
+Puhuja 2: siinä postauksessa.
+Puhuja 2: Se oikeasti näkyy niiden ihmisten sisällöissä.
+Puhuja 2: Niissä on todella selkeästi aina se addword
+Puhuja 2: siinä. Ja se on hyvä asia. Se on mun mielestä miellyttävä seurata, kun se on selkeää.
+Puhuja 2: Niin, kyllä.
+Puhuja 0: Tuo oli musta hyvä pointti, että puhuit näistä sanoista,
+Puhuja 0: mutta onko kaupallinen yhteistyö ja mainos kuin mikä on ihan synonyymejä?
+Puhuja 0: Koska mainos on
+Puhuja 0: yksi yksittäinen tapahtuma, mutta eikö yhteistyö voi olla
+Puhuja 0: pitkäkestoisempaa,
+Puhuja 0: että se vetää sitä Redbullia se sun seuraamasi tyyppi
+Puhuja 0: silloin tällöin ja se ei ole vain yksi
+Puhuja 0: mainostapahtuma vaan se on pitkäkestoisempi
+Puhuja 0: yhteistyösuhde.
+Puhuja 2: Ehkä sen voi ajatella noin, mutta kyllä ne somevaikuttajat käyttää sitä mainoksen
+Puhuja 2: synonyymina
+Puhuja 2: yksittäisen
+Puhuja 2: kampanjan.
+Puhuja 2: Siinä postauksessa voi olla
+Puhuja 2: kaupallinen yhteistyö.
+Puhuja 2: Toisaalta jos puhutaan esimerkiksi brändilähettiläistä,
+Puhuja 2: joita monet somevaikuttajat
+Puhuja 2: on, niin sehän voi olla
+Puhuja 2: vaikka vuodenkestävä
+Puhuja 2: kaupallinen yhteistyö.
+Puhuja 2: Onhan ne yksittäiset postaukset aina mainoksia.
+Puhuja 0: Olen sun kanssa samaa mieltä, mutta teen vaan mieleen. Jep.
+Puhuja 3: Haluaako Salla puhua politiikasta?
+Puhuja 3: Voin puhua. Tarkistin tämän redboll-väitteen,
+Puhuja 3: ettei tullut nyt jotain sanottua. Mutta kyllä tosiaan Iivo Niskanen
+Puhuja 3: on yrittänyt porontaalia jakkaralla naukkailla
+Puhuja 3: energiajuomaa ja siihen on puututtu ja jotain tällaisia.
+Puhuja 3: Ei mennä siihen. Ja huomenna siis
+Puhuja 3: Iivo Niskanen hiihtää.
+Puhuja 3: Minä vain tällaisen pienen sillanteen tähän
+Puhuja 3: vaalikaan,
+Puhuja 3: että tätä samaa keskusteluahan käytiin muun muassa
+Puhuja 3: meidän jutussa viime marraskuussa,
+Puhuja 3: jossa Nataliasalmella,
+Puhuja 3: te Marko, hänen postauksiaan? En seuraa, mutta tiedän, olenhan hänen nimensä kuullut. Kyllä hän on ollut paljon esillä.
+Puhuja 3: Hän sanoi, että hän ei lähde
+Puhuja 3: politiikkaan, koska hänelle on sanottu
+Puhuja 3: vihreiden puoluetoimistolla,
+Puhuja 3: että kaupalliset yhteistyöt tulee jättää siinä tapauksessa, että tulee valituksi
+Puhuja 3: eduskuntaan. Hän on sitä mieltä, että se on hänen ammattinsa ja hän ei siitä luovu, hän on pitkään rakentanut tätä omaa näkyvyyttäään ja varmaan aika
+Puhuja 3: tärkeä rahanlähde myös.
+Puhuja 3: Mitä Marko, olet mieltä siitä, että jos olisi kansanedustaja
+Puhuja 3: vai onko meillä esimerkki? Meillä oli yksi keissi Fatim Diaralla
+Puhuja 3: Helkaman kanssa jo, että se oli saanut ilmaiseksi
+Puhuja 3: polkupyöräjä jotain somepostausta
+Puhuja 3: vastaan. Ja siitä hän nousi vähän äkkä ja muistaakseni
+Puhuja 3: palautti sen pyörän
+Puhuja 3: ja
+Puhuja 3: ikään kuin perutti siinä asiassa.
+Puhuja 3: Mutta onko meillä tällaisia esimerkkejä ja
+Puhuja 3: miten, voisiko kansanedustaja
+Puhuja 0: mainostaa Red Bullia tai jotain auki? Luulen, että Fatimi Diarahan oli siinä mielessä, että hän ei ollut kansanedustaja, hän oli valtuutettu
+Puhuja 0: valtuutetut. Ja valtuustossahan ei olla täysipäiväisesti
+Puhuja 0: järkeä
+Puhuja 0: luottamustoimi.
+Puhuja 0: Kyllä. Ja jos ammattisi on mainosta Istassa polkupyöriä, niin kyllähän sinun pitää voida jatkaa
+Puhuja 0: ammattiasi.
+Puhuja 3: Sinun mielestä se ei ollut reilu.
+Puhuja 0: Ei kun se mokahan siinä oli, eikä kai jotenkin
+Puhuja 0: ilmaistu siitä.
+Puhuja 0: Se mainosteksti kai puuttui siitä. Eikö noussut enemmän siitä se ko vai oliko se ylipäätään yhteistyöstä?
+Puhuja 2: Niin se Vatin diaran.
+Puhuja 2: Ajattelin joinatasalmelalla, menin ihan sekaisin.
+Puhuja 0: Työstään,
+Puhuja 0: tuutaan
+Puhuja 0: kansanedustajiksi.
+Puhuja 0: Joitain poikkeuksia on, kuten Mikko Alatalon, aika keikkaili edelleen vaikka oli kansanedustaja, mutta aika harvaksiltaan.
+Puhuja 2: Eikö
+Puhuja 2: kansanedustajina ole esimerkiksi maatalousyrittäjiä, jotka jatkaa ikään kuin ja
+Puhuja 3: sitten meillä on näitä liikemieshahmoja,
+Puhuja 3: kuten Harry
+Puhuja 3: Harkimo. Kyllähän hän varmaan
+Puhuja 3: on kansanedustajuuden ohella pyörittänyt näitä, niin kuin
+Puhuja 3: niin kuin nyt on nähty esimerkiksi tässä
+Puhuja 3: Jokereiden kuviossa,
+Puhuja 3: mutta mietittiin juuri tuossa ennen lähetystä, että jos on
+Puhuja 3: vaikka lääkäri,
+Puhuja 3: kansanedustaja, niin pitävätkö he esimerkiksi jotain iltavastaanottoa?
+Puhuja 3: Siihen ei kai mitään varsinaista
+Puhuja 3: estettä ole.
+Puhuja 3: Mutta noissa kaupallisissa yhteistöissä ehkä on se ongelma, että sitten jos...
+Puhuja 3: Mainoksissa
+Puhuja 3: on se ongelma, että jos sä oot kauhean moneen suuntaan näitä rahavirtoja,
+Puhuja 3: sitten voi taas tulla näitä. Kansanedustajahan ei silleen ole jäävi,
+Puhuja 3: mutta voi tulla kysymyksiä
+Puhuja 3: siitä, mitä kaikkea siihen kaupalliseen yhteistyöhön tai mainontasuhteeseen
+Puhuja 3: voi liittyä ja näyttääkö
+Puhuja 3: joku sitten pahalta, jos se
+Puhuja 3: yhteistyökumppani on vaikka joku norjalainen
+Puhuja 3: terästehdas
+Puhuja 3: Inkoossa.
+Puhuja 3: Voidaan kuvitella
+Puhuja 3: sellaisia. Se Fatim Diarran keissi oli siis niin, että
+Puhuja 3: hän itse kertoi, että hän oli pyytänyt Helkamalta ilmaista sähköpyörää
+Puhuja 3: saaneensa sen.
+Puhuja 3: Nostati keskustelua siitä, käyttikö diapoliittista asemaansa hyväkseen arvokkaan pyörän hankkimisessa.
+Puhuja 3: Hän lopulta
+Puhuja 2: maksoi pyörän takaisin. Itse asiassa kansanedustajiin liittyvä esimerkki tuli mieleen, että tässä nousi pienimuotoinen kohu siitä, kun Pirkka-Pekka Peteliuksen tällaista hänen tällaista
+Puhuja 2: hänen
+Puhuja 2: luomaansa sketsi hahmoa oli käytetty rahapeliyhtiö
+Puhuja 2: Paffin maailmassa. Niin oli.
+Puhuja 2: Samaan aikaan Petelius oli ollut päättämässä arpajaislaista
+Puhuja 2: valiokunnassa.
+Puhuja 2: Hän oli saanut rahaa siitä, että hänen hahmoa oli käytetty siinä mainoksessa. Sehän on
+Puhuja 3: Mikko Alatalon keikan
+Puhuja 3: hänen ollessaan kansanedustajana. Tähän on tällainen vähän niin kuin harmaa alue tai
+Puhuja 3: veteen piirretty viiva, mikä
+Puhuja 3: on liikaa.
+Puhuja 3: On ihan selvää, että vaikka joku poliisi kansanedustaja, niin ei se nyt käy heittää mitään
+Puhuja 3: iltakeikkaa
+Puhuja 3: jossain.
+Puhuja 2: Jos tuollainen vaikuttaja olisi
+Puhuja 2: sitten eduskunnassa ja voi ollakin joku, en tiedä onko somevaikuttajia nyt ehdolla, niin sitten syntyisi vaan tosi paljon tällaisia Peteliuksen kaltaisia tilanteita. Niin,
+Puhuja 3: sitten me raapustettaisiin niitä uutisia, että kansanedustaja se ja se mainosti
+Puhuja 3: autoa.
+Puhuja 0: Eihän sitä kuitenkaan mikään. Tässä tämän Natalia Salmelan tapauksessa hän oli vihreät, joten hän sanoi, että Ir määritteli, että se ei käy. Ja kokoomus sanoi, että he ei puutu, että heille olisi käynyt.
+Puhuja 2: Somevaikuttajat tykkää aina sanoa, että heidän ammattinsa on oikea ammatti ja sitä ei tarpeeksi arvosteta, kuinka paljon he tekee työtä.
+Puhuja 2: Mutta
+Puhuja 2: eikö Natalia Salmela tässä tule vähän myös samalla paljastaneeksi
+Puhuja 2: sen, että minkälainen hänen työnsä on. Kansanedustajan työhän on oikeasti todella raskasta ja vie paljon aikaa
+Puhuja 2: ja sellaista kaksisataaneljäkymmentäseitsemän hommaa. Mutta Salmela oli sitä mieltä, että hän pystyisi tekemään nykyistä päivätyötään sen kansanedustajuuden oireessa. Ihmisten ei ymmärrä, miten raskasta se on, mutta sitten sitä pystyisi
+Puhuja 3: kuitenkin
+Puhuja 2: kuitenkin tekemään kansanedustajien duunin ohessa.
+Puhuja 3: Mutta ehkä vähän downshiftaisi sitä, että hän vähän vähemmän laittaisi niitä postauksia.
+Puhuja 3: Kaikki ihmisethän on sitä mieltä, ettei omaa ammattia arvosteta riittävästi. Niin
+Puhuja 2: hän on hirveän raskasta tässä.
+Puhuja 3: Ei uskoisi, miten raskasta
+Puhuja 3: tämä on.
+Puhuja 3: Kyllä varmaan moni huumekauppiaskin tekee raskasta työtä.
+Puhuja 3: Onhan se kovaa hommaa.
+Puhuja 3: Mitä? No ei, mutta jos sanotaan, että on raskasta työtä, että kenellä on kaikista raskain työ, niin kyllähän moni
+Puhuja 3: sellainen duuni, joka on tosi haitallistakin,
+Puhuja 3: voi olla tosi raskasta
+Puhuja 3: duunia.
+Puhuja 2: Somevaikuttajat tykkäävät myös suuttutua, kun heitä käsitellään julkisuudessa.
+Puhuja 2: Voin sanoa sen, että kyllä Natalia on varmasti tehnyt hirveästi töitä päästäkseen tähän pisteeseen, että hänen työnsä on kevyempää
+Puhuja 2: tällä hetkellä.
+Puhuja 3: Jos hänellä on paljon seuraajia, jotka haluaa nähdä hänen niitä aitoja postauksia ja näitä kaupallisia postauksia, niin kyllä hän varmaan sitten tätä omaa yleisöään ihan hyvin palvelee. Voisin kuvitella
+Puhuja 2: kaikki arvo hänen työlleen. Kyllä, mutta on kiinnostavaa vaaleissa nähdä, että
+Puhuja 2: tuleeko tällaisia tilanteita eteen. Onko somevaikuttajia
+Puhuja 2: ehdolla? Sen
+Puhuja 0: näkisi nyt kun en mene, niin tuossa parani meni nuo listat kiinni.
+Puhuja 2: Siitäpä juttua vinkkiä jollekin.
+Puhuja 0: Käsittääkseni ei se kauheasti ole näitä sometähtiä.
+Puhuja 3: Teemu Keskisarja, mutta hän ei ole siis sometahti. Hän ei ole somessa ollenkaan. Hän
+Puhuja 0: ilmoitti
+Puhuja 0: mainoksessaan, että
+Puhuja 0: hän ei usko someen.
+Puhuja 2: No niin, sitten kun
+Puhuja 2: menette nauttimaan
+Puhuja 2: hiihtoloma kaakaalta
+Puhuja 2: ja
+Puhuja 2: MMhiihdon katselu kaakaalta
+Puhuja 2: jonnekin
+Puhuja 2: mukavaan paikkaan vaikkapa vuorenrinneeseen.
+Puhuja 2: Miten Tuomas te kyllä? Sitten hyppäätte
+Puhuja 3: sieltä. No niin. Miten Tuomas keksii reita? No se viimeksi laittoi jotain
+Puhuja 3: järvikalaa
+Puhuja 3: siihen juomaan, se kuulosti.
+Puhuja 2: On se kyllä Epeli.
+Puhuja 2: Mistä sitten kavereille
+Puhuja 2: puhutte?
+Puhuja 0: Voin aloittaa.
+Puhuja 0: Tämä oli itse asiassa
+Puhuja 0: Twitteristä Jukka Manntiselta.
+Puhuja 0: Hän kehui tätä kirjaa ja rupesin lukemaan. Tämä on
+Puhuja 0: kirjoittajan
+Puhuja 0: Gavin Bar well,
+Puhuja 0: kirjan nimi on Chief of Staff
+Puhuja 0: Tämä on siis Teresa Mayn, joka oli entinen
+Puhuja 0: Britannian pääministeri, hänen
+Puhuja 0: Chiff of Stäff
+Puhuja 0: eli tämmöinen esikuntapäällikkö,
+Puhuja 0: korkea virkamies hänen
+Puhuja 0: esikunnassaan
+Puhuja 0: ja oli hyvin
+Puhuja 0: keskeisessä roolissa muun muassa tässä
+Puhuja 0: Brexit-sopimuksen
+Puhuja 0: syntymisessä
+Puhuja 0: EU:n
+Puhuja 0: kanssa.
+Puhuja 0: Äärimmäisen
+Puhuja 0: kiinnostava kirja kirjoittaa tosi selkeästi ja tulee
+Puhuja 0: hyvin avoimesti,
+Puhuja 0: mutta jotenkin ennen kaikkea on hauska nähdä
+Puhuja 0: tavallaan oikeat politiikan kulisseihin, että miten se politiikka toimii Britanniassa
+Puhuja 0: ja se on aika yleismaailmallista
+Puhuja 0: samanlaista kaikkialla, mutta minusta on poikkeuksellisen
+Puhuja 0: kiinnostavat ja hyvät muistelmat.
+Puhuja 3: Vau!
+Puhuja 3: Arvaatteko,
+Puhuja 3: mitä suosittelen?
+Puhuja 0: Voisiko hiihtoa?
+Puhuja 3: Ehkä puhuisin sille ystävälle sen kaakaon ääressä siellä vuoren jyrkänteillä
+Puhuja 3: siitä, että
+Puhuja 3: miten
+Puhuja 3: suomalainen
+Puhuja 3: perinne on uhattuna eli perinteinen hiihto.
+Puhuja 3: Kun meillähän on siis sellainen tilanne, että maailmalla
+Puhuja 3: tapahtuu kehitys ja toki se tapahtuu täälläkin, että hiihdossa
+Puhuja 3: vapaa tyyli on koko ajan vahvempi ja vahvempi.
+Puhuja 3: Perinteinen
+Puhuja 3: ja varsinkin tämmöinen vuorohiihto on jäämässä vähän jalkoja. Tulee lyhyemmät matkat,
+Puhuja 3: sprintit korostuu.
+Puhuja 3: Kaikenlainen tämmöinen
+Puhuja 3: räjähtävä voima ja
+Puhuja 3: suksinokkeluus,
+Puhuja 3: suksi
+Puhuja 3: taitavuus
+Puhuja 3: korostuu.
+Puhuja 3: Meillä on vähän semmoinen perinne, että osataan tätä
+Puhuja 3: perinteistä vuorohiihtoa ja siinähän niskasen
+Puhuja 3: sisarukset ovat
+Puhuja 3: erinomaisia.
+Puhuja 3: Pohtisin siitä, että pitäisikö suomalaisten opetella hiihtämään
+Puhuja 3: luistelutyyliä
+Puhuja 3: ja sprinttiä.
+Puhuja 3: Ja sitten tietysti sanoisin, että meillä on joitain osaajia. Mutta varmaan puhuisin tämmöisestä.
+Puhuja 2: Mikä on
+Puhuja 2: kiinnostavin
+Puhuja 2: hiihtokisa
+Puhuja 2: näissä MM-hiihtoloissa?
+Puhuja 2: Mitä yhtäkkiä suosittelisi? Ehkä yleisesti
+Puhuja 3: ottaen suosittelisin aina hiihtokisoissa
+Puhuja 3: väliaikalähtöjä.
+Puhuja 3: Siinä hiiltä lähtee eri aikaan ja otetaan heille jokaiselle se oma aika. Se on jotenkin motivoivaa,
+Puhuja 3: että siinä voi itse vähän laskeskella ja alkaa olla. Olen täsmälleen samaa mieltä, mutta yhteislähdöt on ihan
+Puhuja 0: modernia
+Puhuja 3: hapatuksi.
+Puhuja 3: Siinä on taustalla se,
+Puhuja 3: aina moitin tuota Fissiä eli tätä kansainvälistä hiihtoliittoa
+Puhuja 3: siitä, että he yrittävät apinoida
+Puhuja 3: näitä pyöräkisoja,
+Puhuja 3: Torde Frans tyyppisiä kisoja ja hakee hiihtoon samanlaisia
+Puhuja 3: elementtejä, siis sitä, että lähdetään isoissa massoissa.
+Puhuja 3: Musta ne on
+Puhuja 3: ymmärtänyt maastohiihdon
+Puhuja 3: ihan väärin.
+Puhuja 3: Väliaikalähöt,
+Puhuja 3: siitä lähdetään. Kyllä. Kävin
+Puhuja 2: viikonloppuna
+Puhuja 2: todella kiinnostavassa näyttelyssä Designmuseossa
+Puhuja 2: Helsingissä.
+Puhuja 2: Siellä esitellään
+Puhuja 2: Antti ja Vuokko Nurmesniemen
+Puhuja 2: Elämäntyötä,
+Puhuja 2: Tämmöinen suunnittelijapariskunta.
+Puhuja 2: Vuokko
+Puhuja 2: aloitti Marimekolta
+Puhuja 2: ja omistavista
+Puhuja 2: vaatteista ja Antti Nurmesniemi on muun muassa suunnitellut Helsingin Metron.
+Puhuja 2: Se oli todella
+Puhuja 2: kiva
+Puhuja 2: näyttely.
+Puhuja 2: Se oli jotenkin
+Puhuja 2: inspiroiva ja sen kanssa. Siis ne metronpenkit
+Puhuja 3: ja
+Puhuja 2: sen kanssa. Siellä oli alkuperäinen
+Puhuja 2: pienoismalli,
+Puhuja 2: mikä oli puusta tehty
+Puhuja 2: Helsingin Metron rakentamisen alkuajoilta
+Puhuja 2: ja
+Puhuja 2: miten siihen koko se design.
+Puhuja 2: Näitähän täytyy myös suunnitella näitä
+Puhuja 2: kulkuvälineitä.
+Puhuja 2: Se oli todella mielenkiintoista.
+Puhuja 2: Se metro-osuus oli varsinkin mielenkiintoista ja kyllä myös kaikki muu.
+Puhuja 3: Mä kyllä tykkään metrosta ihan hirveästi. Mä asun silleen, että mulla ei ole semmoista luontevaa metrokulkua,
+Puhuja 3: mutta välillä kun on
+Puhuja 3: joku, että pääsee menemään metrolla vaikka
+Puhuja 3: Itäkeskukseen
+Puhuja 3: tai
+Puhuja 3: johonkin Tapiolaan, niin sitten tulee hyvä mieli.
+Puhuja 0: Kyllä.
+Puhuja 0: Kuljen päivittäin metrolla ja sehän on ihan paras.
+Puhuja 2: Designmuseossa
+Puhuja 2: näyttely Antti ja Vuokko Nurmesniemestä
+Puhuja 2: oli jonnekin huhtikuulle asti vielä avoinna, niin siinä oli hyvin aikaa.
+Puhuja 2: Okei,
+Puhuja 2: siinä kaikki tältä erää. Kiitos Marko Junkkari. Kiitos. Kiitos Salla Vuorikoski. Kiitos. Minun nimeni on Anni Keski-Heikkilä ja äänen ja kuvan. Kaiken muun mahtavan meille tekee tällä viikolla Tuukka Lindholm.
+Puhuja 2: Muistakaa lähettää meille
+Puhuja 2: palautetta uutisraportti,
+Puhuja 2: ja kuullaan taas ensi viikolla!
+Puhuja 3: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt
+Puhuja 0: miljardit kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 1: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 1: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 1: Kaasukauppaan,
+Puhuja 1: joka päätyi aseeksi
+Puhuja 1: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 0: osasi
+Puhuja 1: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 1: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 1: Mun eteen avautui
+Puhuja 1: taloudellinen murhamysteeri.
+Puhuja 1: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 1: ja on poliitikkoja.
+Puhuja 1: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 1: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 1: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 1: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 1: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 1: Lataa siis C ja kuuntele viisiosainen
+Puhuja 1: menetetyt
+Puhuja 1: miljardit.

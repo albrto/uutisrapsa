@@ -1,0 +1,463 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 0: podcastiin
+Puhuja 0: torstaina
+Puhuja 0: kymmenen. Helmikuuta
+Puhuja 0: vuonna kaksituhatta
+Puhuja 0: kaksikymmentäkaksi.
+Puhuja 0: Mun nimi on Tuomas Peltomäki,
+Puhuja 0: Helsingin Sanomien talouden ja politiikan
+Puhuja 0: toimituksen
+Puhuja 0: tuottaja.
+Puhuja 1: Mä oonkin miettinyt, mikä se on.
+Puhuja 0: Mä en ole kertaakaan tämän
+Puhuja 0: podcastin historiassa esitellyt itseään.
+Puhuja 0: Ja kanssani täällä
+Puhuja 0: on tuo Osalle kuulijoista hyvin tuttu ääni, joka siellä kuului
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: Yhdysvalloista palannut
+Puhuja 0: Yhdysvaltain kirjeenvaihtaja.
+Puhuja 0: Nykyinen kotimaan
+Puhuja 0: toimittaja Anna-Sofia Berner, ystävien kesken sohvi. Hei Sopvi. No heipä hei Tuomas. Tervetuloa kotimaahan
+Puhuja 0: näin... Kauanko sä olit kolme vuotta?
+Puhuja 1: Kolme vuotta mä olin kirjeenvaihteena,
+Puhuja 2: joo. No niin. Ja vuoden sitä ennen kanssa poissa. Niin. Siis
+Puhuja 1: siitä, kun mä olen ollut jotenkin vakiokaartia
+Puhuja 1: teidän kanssa on kohta viisi vuotta. Se on aivan käsittämätön.
+Puhuja 2: Ajatella viisi vuotta sitten, mekin oltiin vielä silleen nuoria
+Puhuja 2: ja
+Puhuja 0: poikkaina.
+Puhuja 0: Oli ihan eri ihminen viisi vuotta sitten. Samat sanat. On paljon enemmän perillä asioista
+Puhuja 2: ei saa olla se. Ei
+Puhuja 1: todellakaan.
+Puhuja 0: Silloin kun sä sohvi lähdit
+Puhuja 0: Amerikkaan
+Puhuja 0: oltuais tän podcastin
+Puhuja 0: vakijäsenenä, niin mä olin ihan varma, että ei tää podcast pystyssä silloin, kun sä tuut
+Puhuja 0: takaisin. Ja käsittämättömästi me ollaan
+Puhuja 0: niin
+Puhuja 0: kuin pystyssä
+Puhuja 0: ja sanotaanko, että suositumpia kuin koskaan
+Puhuja 0: kymmenkertaisesti,
+Puhuja 0: suosituimpia kuin silloin.
+Puhuja 0: Eli
+Puhuja 0: hyvin menee täälläkin päässä, kiitos vaan kymlästä.
+Puhuja 0: Toinen
+Puhuja 0: ääni, jonka kuulitte taustalla
+Puhuja 0: oli Helsingin Sanomien
+Puhuja 0: politiikan toimittaja. Marko Junkkari. Hei Marko. No heissä.
+Puhuja 0: Tämän viikon podcastissa...
+Puhuja 0: Miksi te kysy mulle mitään?
+Puhuja 0: En mä tiedä. Et sä ikinä vastaa mitään. Ai niin, sano että. Mene eteenpäin.
+Puhuja 0: Tämän viikon podcastissa keskustellaan
+Puhuja 0: Mika Liikosta,
+Puhuja 0: joka poistui
+Puhuja 0: eduskunnan ulkoasiainvaliokunnan
+Puhuja 0: puheenjohtajan paikalta oman katastrofaalisen
+Puhuja 0: typerän mölöytyksensä
+Puhuja 0: myötä.
+Puhuja 0: Mutta en epäile ollenkaan, että kyseessä oli samalla myös hänen todellista ja syvältä jostain peräkirkistänista
+Puhuja 0: omaksuttua Venäjä-asennettaan heijasteleva Hot-take.
+Puhuja 0: Joten hänellä ei kyllä käytännössä ollut minkäännäköistä mahdollisuutta jatkaa pestissä.
+Puhuja 0: Miten
+Puhuja 0: tämä
+Puhuja 0: tunnettu nero ja kiinalaisten kaveri
+Puhuja 0: oli päätynyt
+Puhuja 0: näin merkittävän asemaan
+Puhuja 0: ylipäätänsä,
+Puhuja 0: suuri mysteeri monille?
+Puhuja 0: Ja miten hänen poistumisensa
+Puhuja 0: suomalaisen vallankäytön huipulta
+Puhuja 0: raivaa tietä
+Puhuja 0: presidenttiehdoksi
+Puhuja 0: Jussi Halla-aho. Keskustellaan siitä.
+Puhuja 0: En yllättynyt ollenkaan,
+Puhuja 0: kun luin jutun opettajasta, joka oli vaihtanut
+Puhuja 0: ratikkakuskiksi
+Puhuja 0: Tampereella.
+Puhuja 0: Luin sen jutun ja katsoin sen jälkeen kaukaisuuteen. Ihan oikein pohtimatta, olipa mainiosti kirjoitettu juttu.
+Puhuja 0: Ja sitten
+Puhuja 0: skrollasin
+Puhuja 0: ylöspäin katsomaan Bielinea. Ja siellähän oli Anna-Sofia Berner
+Puhuja 0: tän mainion jutun kirjoittajana. Ja se oli jotenkin, että no niinpä tietenkin.
+Puhuja 1: Mä oon vaihtanut Lasse Vegasin
+Puhuja 1: Tampereeseen.
+Puhuja 0: Niin kyllä, Tampere pesee kaiken maailman
+Puhuja 0: paikat. Miksi
+Puhuja 1: Lasse Vekasen? No se tuli ekana
+Puhuja 1: mieleen jostain ehdokkaista paikoistajissa.
+Puhuja 0: Oliko vielä Lasse Vekasen, mikä erityisen hoksaittuiksi?
+Puhuja 1: On, se on hieno paikka.
+Puhuja 0: Mikä siinä jutussa miellytti, oli se, että sun haastateltava
+Puhuja 0: tämä nykyinen ratikkakuski,
+Puhuja 0: entinen opettaja... Kun hän puhui tästä opettajan työstä, miksi päätti vaihtaa opettajasta ratikkakuskiksi
+Puhuja 0: Tampereella, niin se ei sortunut siihen sellaiseen perus
+Puhuja 0: onttoon sieluttomaan Kitinään siitä, että rahaa ei ole. Vaan että puhuttiin siitä työn substanssista ja siitä mistä tää
+Puhuja 2: on otettava ihan sekaisin.
+Puhuja 2: Ja tämähän on myös
+Puhuja 2: Ranskaan keltaliiveistä bensa. Varma.
+Puhuja 2: Miksei tämmöisiä ollut aikaisemmin, joita äsken rupesin miettimään.
+Puhuja 2: Takavuosina
+Puhuja 2: sieltä Kempeleestä tuli sellainen karvahattu lähetystö
+Puhuja 2: tapaamaan
+Puhuja 2: paikallista kansanedustajaa
+Puhuja 2: tai ministeriä niin kuin.
+Puhuja 2: Ja JHL järjesti jonkun
+Puhuja 1: kuvanmman. Niin, mutta löysin tähän vertailu kohden tuli siitä, kun kävin pitkästä aikaa sanomalehdilassa ja olin sanomalehdtalon hississä.
+Puhuja 1: Sieltä katselin ylhäältäisyydestä lasitalon
+Puhuja 1: seinien läpi, että tuolla ne ovat. Ja muistin että Okupai
+Puhuja 1: mielenosoit
+Puhuja 1: mielenosoitukset tasan kymmenen vuotta sitten ja ne oli myös tuontitavaraa Amerikasta. Ne leiritit olemaan samalle paikalle. Ja minusta tuntuu sitten kun lueskelin tuota, niin silloin niistä ei kirjoitettu
+Puhuja 1: mitään. Ne oli vaan niin, että tuossa noin nyt on ja niitä koko talvi. Niin kusissä oli kova. Joo, koko talvi
+Puhuja 0: katteltiin hissistä politteita. Ei jos oikeasti niin kusinpäästä jengiä, että huhhuh.
+Puhuja 1: Mutta nyt se on muuttunut
+Puhuja 1: jotenkin,
+Puhuja 1: että minä tai vaikka huomasin että tämä Saari Koskessa oli viitannut, miten hän kävi siellä keskustelemassa
+Puhuja 1: näiden ihmisten kanssa ja minäkin kävin siellä.
+Puhuja 1: Jotenkin on sellainen tarve että niitä ei ohitetakaan vaan nyt
+Puhuja 1: ollaan käsikänsä
+Puhuja 1: pulssilla.
+Puhuja 2: Niin. Niistä tulee performanssia. Ja sitten
+Puhuja 2: toisaalta haluavatko ihmiset oikeasti vaikuttaa eduskuntaan
+Puhuja 2: vai onko se vaikutus kuitenkin se, että he saavat sen huomion. Ja se on performanssi joka saa mennä töihin. Ja saa myös yhteisen. Sen
+Puhuja 1: kyllä huomasi, että siellä
+Puhuja 1: oli lihapanntu kuumana. Minusta mielessä. Tai siis tämä yhteisöllisyys.
+Puhuja 0: Tai minä myötäelän sen silleen päin, että
+Puhuja 0: ne vaikka rokotekriitikot,
+Puhuja 0: niin ne seuraa
+Puhuja 0: tosi kiihkeästi päivästä toiseen
+Puhuja 0: netissä, että mitä vaikka just Kanadassa tapahtuu. Ja sitten kun siellä on semmoinen hillitön meininki ja nähdään ne miekkarit ja näin, niin siitä tulee semmoinen, että no hitto, että mekin kyllä nyt ja nyt lähdetään. Ja sitten, okei, ehkä saa ihan rekkoja aikaisemmin, nyt lähdetään jollain autolla. Ja siitä tulee semmoinen me-henki ja sellainen
+Puhuja 0: positiivisella tavalla. Totta kai monesti ideat siellä
+Puhuja 0: takana voi olla ihan mitä sattuu, mutta
+Puhuja 0: itse
+Puhuja 0: asiassa se käynnistävä impulssi on tavallaan positiivinen. Niin, ja se yksi valta kuuluu kansalle
+Puhuja 1: puolueen
+Puhuja 1: maakuntavaaliehdoksi.
+Puhuja 1: Tämä jutut, niin se oli just sapannut
+Puhuja 1: karkkiväreillä
+Puhuja 1: koristelulla asuntoautolla
+Puhuja 1: siihen neljä päivää myöhässä, kun autosta oli hajonnut laturin
+Puhuja 1: hihnaa ja se naureskel ihan hirveästi ja oli suoraan jostain
+Puhuja 1: Navapiirin sankarit elokuvasta tyyliin se niiden matka.
+Puhuja 1: Mutta sekin oli, että no Levillä on kaikki paarit kiinni, niin me tultiin tänne.
+Puhuja 1: Ja sitten just se, että kuinka
+Puhuja 1: suuri tämä protesti on vai onko se vaan
+Puhuja 1: joillekin
+Puhuja 1: bileet, niin se on ehkä toinen kysymys. Mutta saanko kertoa vielä yhdestä hahmosta, jonka kanssa juttelin?
+Puhuja 0: Kerro. Koska
+Puhuja 1: se oli minusta hämmästyttävää,
+Puhuja 1: kun
+Puhuja 1: oli ehkä
+Puhuja 1: noin viisikymppinen
+Puhuja 1: ainakin lentoemäntä,
+Puhuja 1: joka
+Puhuja 1: oli hirveän ystävällisesti
+Puhuja 1: otti minut vastaan helsinkiläinen.
+Puhuja 1: Tavallaan lämmin ihminen niin kuin vain hyvä lentoemäntä voi olla.
+Puhuja 1: Ja sitten hän sanoi, että
+Puhuja 1: kysyin, että olenko ennen ollut poliittisesti aktiivinen, niin hän sanoi, että ei.
+Puhuja 1: Mutta lähti työt nyt koronan myötä. Ja sitten hän alkoi viettää aikaa internetissä ja hän on käynyt noin neljäkymmentä
+Puhuja 1: eri
+Puhuja 1: mielenosoituksessa.
+Puhuja 1: Joo
+Puhuja 1: ja valtavan lämmin ihminen, mutta
+Puhuja 1: lentoemäntä.
+Puhuja 1: Tapasin myös kapitalolivaltauksessa
+Puhuja 1: ihan samanlaisen
+Puhuja 1: superkivan
+Puhuja 1: lentojen männnän, jolta olivat menneet työt koronan takia. Ja joka sanoi, että aloin viettää aika paljon aikaa Twitterissä.
+Puhuja 0: Tyttäher Natfor ever emo. Nyt se oli
+Puhuja 1: siellä valtaamassa kapiitolia.
+Puhuja 0: Ja sitten
+Puhuja 0: myös
+Puhuja 0: kaikki hyvinvointi,
+Puhuja 0: jooga, kaikki tällainen ravintolaterapia ja muu, ne kaikki jotenkin, minä en tiedä, mutta se sisustus,
+Puhuja 0: lentoemäntä ja
+Puhuja 0: hyvinvointi, ne on
+Puhuja 2: siellä. Niin, ja ymmärtääkseni jos tosiaan jo lentoemälät varmasti on seuraava vallankumouksellinen ryhmä. Ja sitä paitsi mun mielestä... Nythän ne kuuluvat siis AccoT:hen ja AccoT on uhannut nyt lakolla hiihtolovaviikolla.
+Puhuja 0: Totta kai. Ne, jotka
+Puhuja 2: ovat siellä FINSkillä nyt töissä, kun koneet lentävät niin
+Puhuja 2: vajaakäyttöisesti,
+Puhuja 0: niin nyt ne menevät myös lakkoon. Haluan viimeisenä asiana tästä aiheesta sanoa, että minä törmäsin, minä ignaroin tätä Suomen liikehdintää, mutta törmäsin tähän mutkan kautta sillä tavalla, että katsoin pojan kanssa
+Puhuja 0: Marvelin Antman elokuvaa. Siinä
+Puhuja 0: näyttelee
+Puhuja 0: tämmöinen
+Puhuja 0: nainen, joka on mun mielestä kaunein nainen, kuka on ikinä elänyt.
+Puhuja 2: Tämä Eventelin Lily. Muistan edelleen vuonna... Anteeksi, Sanna Marin. Niin, sitäkin, että sanoinko, nostateko tämän esiin, Marko etsiin.
+Puhuja 0: Muistan edelleen vuonna varmaan jotain
+Puhuja 0: NTAn elokuvassa. Sitten katsoin sitä ja rupesin googlaamaan
+Puhuja 0: Evenjölyn Lilia, että mitä hänelle kuuluu nykyään.
+Puhuja 0: Hän on tämmöinen
+Puhuja 0: siellä Convoy-osassa.
+Puhuja 0: Hän on joutunut
+Puhuja 0: aika kuumaan liriin siitä, että hän on tämmöinen rokotekriittinen
+Puhuja 0: ja tälleen. Mutta sitten mä rupesin lueskelemaan, mitä hän on postannut
+Puhuja 0: ja tästä asiasta sanonut. Siinä oli vähän silleen, että
+Puhuja 0: hän esimerkiksi postasi tällä tavalla: I was in DC this weeken to support bodylly sovering to while Canadian truckers were ralliing for their cross country peaceful convo convoy in support of the same thing. I believe nobody should ever be force to injekt their body with anything against their th
+Puhuja 0: kun ennenkin protestoinut sitä, että copypastetaan Amerikan ongelmat tänne,
+Puhuja 0: niin eihän täällä mitään mandaatteja ole. No nehän sanoi, että sote-henkilökunnalla
+Puhuja 1: on.
+Puhuja 1: Niin, joo. Mutta se on ehkä... No ei nämä Amerikan mandaatit ole aika samanlaisia, että työnantaja vaatii
+Puhuja 1: kesessä.
+Puhuja 1: Niin, siellä
+Puhuja 0: kaikennäköistä pakkorokottamista
+Puhuja 1: vastaan. Ja varmaan kaikki suomalaiset. Se on minusta ollut kiinnostavaa. En tiedä
+Puhuja 1: puhutaanko liian pitkään, mutta
+Puhuja 1: mielestäni
+Puhuja 1: Suomen koronakeskustelu on huomattavasti
+Puhuja 1: vapaampaa.
+Puhuja 1: Mielestäni monet asiat, mitä ne konvooilaiset ajavat, jos unohdetaan ne huuruisimmat
+Puhuja 1: jutut, niin kaikki ovat sitä mieltä, että
+Puhuja 1: eiköhän nämä rajoitukset alkaneet olla tässä ja eiköhän tämä tästä
+Puhuja 1: tyyppisesti. Ja käydä
+Puhuja 1: aivan valtavirran politiikassa
+Puhuja 1: tosi reipasta keskustelua siitä mikä on ollut tarpeellista ja mikä ei. Niin Yhdysvalloissa kun se on niin jakautunut, että
+Puhuja 1: jos sanot mitään
+Puhuja 1: epäilet näitä koronatoimia. Tai pitkään se oli niin, että jos epäilet koronatoimia, niin sitten olet republikaani.
+Puhuja 1: Tai jos et ole kaikkien
+Puhuja 1: kannalla,
+Puhuja 1: niin olet republikaani.
+Puhuja 1: Ja nyt siellä tapahtuu hajontaa
+Puhuja 1: rintamalinjan läpi. Mutta Suomessa mielestäni keskustelu on aika vapaata.
+Puhuja 0: Sitten kun
+Puhuja 0: laskette pulkkamäkeä eduskunnan portaita alas,
+Puhuja 0: ja teidän conwöö kaverit ottaa teidät vastaan siellä alapuolella,
+Puhuja 0: Tarjoatte heille ehkä pienen naukun taskomaantista.
+Puhuja 0: Niin millaista rupeatte näitä conwöylaisia
+Puhuja 0: viihdyttämään?
+Puhuja 0: Marko?
+Puhuja 2: Joo niin kuin aikaisemmin tässä osiossa sanoin niin olen lukenut korona-aikana kaikkia dekkareita ja on vaikeaa kun löydä hauskaa luettavaa. Olen
+Puhuja 2: tässä pitkin matkaa koittanut etsiä hyviä ruotsalaisia. Tai nordic noir
+Puhuja 2: dekkareita.
+Puhuja 2: Suurin osa ruotsalaiset ovat ihan paskoja, en vain jaksa niitä.
+Puhuja 2: Yhden aika hyvän.
+Puhuja 2: Olen lukenut kaksi...
+Puhuja 2: Nyt voi tarkistaa sen. Juokimisander.
+Puhuja 2: Hän on siis tämmönen
+Puhuja 2: Entinen itse ollut EU parlamentissa töissä. Oliko lommarina tai jotain ja
+Puhuja 2: aika makeasti.
+Puhuja 2: Mä olen nyt keksinyt kaks hänen kirjan eka oli uimari ja toinen oli lähiö.
+Puhuja 2: Ja se lähiö oli aika makeesti. Hän on tehnyt valtavan taustatyön ja siinä oli
+Puhuja 2: Syyriaan
+Puhuja 2: Isis-taistelijoiksi
+Puhuja 2: lähteneitä nuoria ja lähiön ongelmia
+Puhuja 2: kytketty yhteen. Rakennetaan tämmöinen dekkarijuoni,
+Puhuja 2: jossa on venäläistä vaikuttamista
+Puhuja 2: ja ties mitä. Siellä
+Puhuja 2: on yksi semmoinen hahmo. Semmoinen EU:n parlamentin lobbari,
+Puhuja 2: joka on
+Puhuja 2: niin läpeensä
+Puhuja 2: silleen... Ei paha. Hän on aika symppis tyyppi, mutta on valmis tekemään aika minkälaisia
+Puhuja 2: pahuuden töitä rahasta.
+Puhuja 2: Molemmissa saman juoni. Hän tekee pahuuden töitä tässä jälkimmäisessä.
+Puhuja 2: Hän järjestää fyrkkaa
+Puhuja 2: näihin tuhholmalaisiin
+Puhuja 2: lähiöihin. Ne järjestävät mellakoita, jotta
+Puhuja 2: venäläisten oligarkkien omistama
+Puhuja 0: turvallisuus
+Puhuja 2: Suosittelen Jokkimissanderiaa.
+Puhuja 1: Mun pitää heti ennen kuin kukaan muu ehti
+Puhuja 1: mennä varaamaan kirjastosta, koska olen päättänyt alkaa uudestaan Käytety.
+Puhuja 2: Löytyi myös Mukbeatista.
+Puhuja 1: Niin mä en oikein kuuntele.
+Puhuja 2: Tai lue, kunhan sieltä lukeakin. Niin.
+Puhuja 1: Minusta tuntuu, että olen minäkin lukenut kaiken näköistä. Mutta se mitä haluaisin suositella on suomalaiset naisten lehdet
+Puhuja 1: kaiken kattavasti,
+Puhuja 1: koska
+Puhuja 1: kaikki kysyvät, että olen nyt, hetkinen, monesko päivä kymmenen. Huomenna olen ollut tasan kuukauden Suomessa.
+Puhuja 1: Kaikki kysyvät, että onko shokkia, onko kauheaa ja järkyttävä.
+Puhuja 1: Toistaiseksi ei ole ollut oikein mukavaa.
+Puhuja 1: Mutta yksi
+Puhuja 1: suuria iloja on mennä
+Puhuja 1: lähikauppaan.
+Puhuja 1: Juuri kun olin Tampereella, niin äärelle. Ja sitten vain
+Puhuja 1: katsoa niitä
+Puhuja 1: suomalaisia naisten lehtiä, koska ne ovat jotenkin niin
+Puhuja 1: järkeviä.
+Puhuja 1: Se
+Puhuja 1: genre puuttui elämästä Amerikassa kokonaan, koska
+Puhuja 1: joko on hirveitä juorulehtiä, jotka eivät kiinnosta minua, tai sitten
+Puhuja 1: joku wogue.
+Puhuja 0: Superrikkaiden
+Puhuja 0: ökyy
+Puhuja 0: palkkas.
+Puhuja 1: Niin. Niin. Sitten
+Puhuja 1: siinä huomaa suomalaisen yhteiskunnan
+Puhuja 1: tasa-arvoisuuden
+Puhuja 1: ja sen,
+Puhuja 1: että
+Puhuja 1: ne ovat edelleen,
+Puhuja 1: en tiedä miten naisten lehdille menee, mutta aikakauslehdille
+Puhuja 1: yleensä on maailmassa
+Puhuja 1: vaikeaa. Mutta sitä enemmän se ilahduttaa minua,
+Puhuja 1: että
+Puhuja 1: niissä
+Puhuja 1: on
+Puhuja 1: sekä viihdyttävät että niissä yleensä on jotain oikeasti kiinnostavaa.
+Puhuja 1: Kyllä. Ja ne ovat edelleen
+Puhuja 0: todella hyviä. Mielestäni on hauska talonrakennusprojektin
+Puhuja 0: myötä, olen lukenut läpi kaikki sisustuslehdet, mitä Suomessa on julkaistu,
+Puhuja 0: ja myös kaikki, mitä Ruotsissa ja Tanskassa julkaistu. Se on jännä, että esimerkiksi ruotsalaiset sisustuslehdet ovat täysin erilaisia kuin suomalaisia. Joo.
+Puhuja 0: Ruotlaisessa sisustuslehdissä
+Puhuja 0: esitellään aina
+Puhuja 0: kuninkaallinen
+Puhuja 0: palatsi, joka on täysin semmoista krumeluuria, ökyä ja kultaa ja pitsiverhoja, sellaisia. Tai en tiedä, mitä jotain sinuakin. En tiedä. Näin. Niin.
+Puhuja 0: Ja
+Puhuja 0: sitten suomalaisessa sisustuslehdessä se on aina
+Puhuja 0: maksimissaan
+Puhuja 1: juuri nyt kun sattui se on vähän ajankohtaista.
+Puhuja 1: Mutta juuri sanoin viikonloppuna mieleeni, että
+Puhuja 1: näiden sisustuslehtien
+Puhuja 1: perusteella Suomessa
+Puhuja 1: yleisimmät ammatit ovat
+Puhuja 1: arkkitehti,
+Puhuja 1: graafikko,
+Puhuja 1: kuvataiteilija,
+Puhuja 1: sisustussuunnittelijaa.
+Puhuja 1: Siinä
+Puhuja 1: sitten välillä on joku julkkiskokki tai muusikko. Kyllä. Ja ainoa sallittu elämänmuoto
+Puhuja 0: joko mökillä
+Puhuja 0: Sipoossa tai
+Puhuja 0: Turun saaristossa
+Puhuja 0: tai kaksiossa
+Puhuja 0: Helennossa.
+Puhuja 0: Tai kantakaupunki, joo. Niin. Mitään välimuotoja, joo. Kyllä.
+Puhuja 0: Okei, mulla on
+Puhuja 0: pikanen tähän. Muistakaa, rakkaat kuulijat, että on olemassa Twitter-tili
+Puhuja 0: kuin uutisraportti AV, joka kerää näitä meidän suosituksia. Hänellä on joku neljä-viisi vuoden
+Puhuja 0: backlogi
+Puhuja 0: selvitettävänä. Hän aina välistä aktivoituu tekemään tätä. Me rakastamme häntä. Me olemme kiitollisia hänelle. Seuratkaa
+Puhuja 0: tiliä ja auttakaa häntä. Kirjatkaa ylös
+Puhuja 0: näin. Koska urakka on ihan hillitön.
+Puhuja 0: Mutta hän on upea ihminen tässä universumissa.
+Puhuja 0: Lyhyesti, koska olisin halunnut puhua
+Puhuja 0: tästä Niikko-osuudessa,
+Puhuja 0: mun on pakko kehottaa ihmisiä kuuntelemaan
+Puhuja 0: Anestelly-podcast,
+Puhuja 0: jota pitää New York Timesientinen mielipidettä toimittaja Bari Wise, joka on
+Puhuja 0: tätein ja republikaanein
+Puhuja 0: nuori nainen, mitä voi olla. Hän kuulostaa ihan 60-vuotiaalta
+Puhuja 0: republikaanin tädiltä, mutta hän on jotain tyyliin yhdeksäntoista.
+Puhuja 0: Mutta hänellä on tämmöinen anestelly-podcast,
+Puhuja 0: joka on
+Puhuja 0: konservatiivirepublikaan
+Puhuja 0: podcast. Hänellä oli semmoinen jakso, ihan eilen tuli ulos, missä on
+Puhuja 0: New York Cinecen
+Puhuja 0: ulkomaan asioiden toimittaja, maailman upea tyyppi.
+Puhuja 0: Ja Matt-Typy,
+Puhuja 0: joka on amerikkalainen toimittajakirjoittaja,
+Puhuja 0: olen pitänyt häntä
+Puhuja 0: todella terämänä ja suorastaan nerona.
+Puhuja 0: Näin, Matt-Typy.
+Puhuja 0: Kaikki, mitä häneltä on lukenut, suurta neroutta. Mutta he kävi keskustelun Ukrainasta.
+Puhuja 0: Ja Matt-taiby
+Puhuja 0: paljastui ääliöksi,
+Puhuja 0: todella epärehelliseksi
+Puhuja 0: ääliöksi, joka ei hiff...
+Puhuja 0: Vau! Kuunnelkaa
+Puhuja 0: raivostuttavin
+Puhuja 0: ja typerin haastattelu
+Puhuja 0: ikinä
+Puhuja 0: Anestery-podcastista.
+Puhuja 0: Ja sen lisäksi
+Puhuja 0: Seralin,
+Puhuja 0: jota pidetään yleisesti ottaen
+Puhuja 0: yksin kaikkien aikojen parhaista podcasteista.
+Puhuja 0: Seralin tekijöiltä on tullut uusi
+Puhuja 0: podcast-sarja
+Puhuja 0: nimeltä The Trugien
+Puhuja 0: Horese A FAF.
+Puhuja 0: Se sijoittuu Englantiin.
+Puhuja 0: Siinä on kaiken keskiössä tämmöinen kirja.
+Puhuja 2: Ja mä näin mainoksen siitä, sä näytti tosi kiinnostavan. Kyllä. Tämä kirje,
+Puhuja 0: joka aiheutti mun mielestä vuonna kaksituhatta
+Puhuja 0: viisitoista, jotain tämmöistä kolmetoista ehkä,
+Puhuja 0: Englannissa...
+Puhuja 0: Bright...
+Puhuja 0: En muista sitä kaupunki tarkkaan.
+Puhuja 0: Kaupungissa
+Puhuja 0: suuren skandaalin, koska tässä
+Puhuja 0: kirjassa väitettiin, että
+Puhuja 0: siellä päin kouluissa, jotka on enemmistö
+Puhuja 0: muslimioppilaita,
+Puhuja 0: niin siellä päin
+Puhuja 0: ääri-salafin muslimit on ruvennut rekrytoimaan toisiaan opettajiksi ja koulun henkilökunnaksi. Ja että pikkuhiljaa
+Puhuja 0: koulussa ruvetaan
+Puhuja 0: indoktriroimaan
+Puhuja 0: oppilaita
+Puhuja 0: ääri-islamiin.
+Puhuja 0: Ja
+Puhuja 0: tämä podcast-sarja
+Puhuja 0: seuraa sitä. Siellä
+Puhuja 0: paljasti ihan hillittömiä
+Puhuja 0: aukkoja, että poliisi ei vaan missään vaiheessa
+Puhuja 0: yrittänyt edes selvittää, keneltä kirja ja ne väitteet on peräisin.
+Puhuja 0: Ja siihen liittyy Britannian
+Puhuja 0: hallituksen Michael Go, joka tunnetaan
+Puhuja 0: muslimikriitikoiden
+Puhuja 0: esi-isän
+Puhuja 0: suurpäällikkönä,
+Puhuja 0: joka teki tästä sellaisen mielettömän jutun.
+Puhuja 0: Seurataan se saaga todella hyvin. Se on tosi kiinnostavaa kuumottavaa. Siinä on lisäkierre,
+Puhuja 0: joka on ehkä hyvä tai ehkä huono, mutta sen toinen näistä tekijöistä, Ham Za Siid,
+Puhuja 0: hän on journalistiopiskelija.
+Puhuja 0: Hän on kyllä aikuinen ihminen, ja aiemmalta ammatiltaan lääkäri. Mutta hän
+Puhuja 0: törmäsi
+Puhuja 0: Breid Readiin, joka on tehnyt Seriain
+Puhuja 0: aiempia kausia. Hän törmäsi
+Puhuja 0: Peechas
+Puhuja 0: Brireadille, että voisiko hän tehdä
+Puhuja 0: oppilastyönä tämmöisen podcast-sarjan. Ja tämä on nyt se podcast-sarja. Joo.
+Puhuja 0: Siellä on...
+Puhuja 0: Se on todella...
+Puhuja 0: Kannattaa kuunnella.
+Puhuja 0: Todella hyvä, todella, todella hyvä.
+Puhuja 0: Truuggin hores a faeyre.
+Puhuja 0: Muistakaa myös anestelly-podcast,
+Puhuja 0: maailman raivostuttimia
+Puhuja 0: haastatteluja. Kaikki nämä löytyy neljä vuoden päästä:
+Puhuja 0: utilbotti av
+Puhuja 0: Twitter-tililtä,
+Puhuja 0: jota ylläpitää suurin nero.
+Puhuja 0: Siinä kaikki tältä erää.
+Puhuja 0: Kiitos Anna-Sofia Berner.
+Puhuja 0: Ihanaa, että olet
+Puhuja 0: saapunut Suomen kamaralle.
+Puhuja 0: Kiitos, Tuomas. Kiitos, Marki Junkkari. Kiitos. Minun nimi on Tuomas Peltömäckääni.
+Puhuja 0: Ja kaiken muun mahtava meille tekee tänään Janne Elkki.
+Puhuja 0: Ja me kuulemme taas ensi viikolla.
+Puhuja 1: Se
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin
+Puhuja 0: yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

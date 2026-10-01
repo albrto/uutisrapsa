@@ -1,0 +1,468 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcasti
+Puhuja 0: torstaina
+Puhuja 0: neljätoista. Päivä toukokuuta. Minun nimeni on Tuomas Peltomäki ja kanssani
+Puhuja 0: täällä.
+Puhuja 0: Täällä
+Puhuja 0: näin ei ainakaan Teamsissa vaan jossain paljon kuulimassa
+Puhuja 0: chattisovelluksessa,
+Puhuja 0: ei missään corporate
+Puhuja 0: Teams-hommassa.
+Puhuja 0: Teamsissä on
+Puhuja 0: politiikan toimittaja Helsingin Sanomista Suomen kuuluisiemmasta sanomalehdestä.
+Puhuja 0: Marko Junkkari, hei Marko!
+Puhuja 1: Moi!
+Puhuja 0: Huomaan, että sulla on kilpailevan podcastin
+Puhuja 0: paita päällä.
+Puhuja 0: Joo, mulla on asemaglopaita.
+Puhuja 0: Mikä on asemaglo?
+Puhuja 1: Hän
+Puhuja 1: on tällainen
+Puhuja 1: ekonomisti. Taitaa olla turkkilaisyntyneen
+Puhuja 1: ekonomisti, joka vaikuttaa. Onko hän MITCI:ssä vai Harvardissa?
+Puhuja 1: MITCI:ssä.
+Puhuja 1: MITS:ssä Ja hän on
+Puhuja 1: kilpaileva podcast Mika Malirannan ja Matti Apusen
+Puhuja 1: Työ ja elinkeinoministeriön
+Puhuja 1: sivuilla julkaisema podcast ja nämä kaksi herraa ihailevat
+Puhuja 1: asemogua
+Puhuja 1: ja ovat teettäneet tämmöiset paidat.
+Puhuja 0: MIT:n asiat siellä sivusta tunsi Helsingin Sanomien
+Puhuja 0: koko organisaation yksi semmoinen kiinteä napa.
+Puhuja 0: Eli Hesari Washingtonin kirjeen vaihteen annosvia perheer. Ystävien kesken sohvi, hei sohvi!
+Puhuja 2: Heipä hei! Ehkä ennemmin semmoinen kaukainen satelliitti kuin... Kyllä
+Puhuja 0: mä
+Puhuja 0: väitän, että Helsingin
+Puhuja 0: Sanomien arvovalta on
+Puhuja 0: tosi
+Puhuja 0: pitkälle perustunut siihen, että meillä on esimerkiksi just Washingtonissa
+Puhuja 0: sama kirjava.
+Puhuja 0: Voin kuvitella, että se on joskus 1900-luvun
+Puhuja 0: alussa ollut oikein kovaa valuuttaa sellainen.
+Puhuja 2: Ihan sieltä asti niitä ei ole tainnut olla, mutta kyllä kannatan.
+Puhuja 0: Tämä on tällainen löysä
+Puhuja 0: aloitus tälle podcastlle, mutta haluan silti kysyä teiltä, että mikä teillä on
+Puhuja 0: korona
+Puhuja 0: fiilis. Nyt on kaksi kuukautta aika pitkälle.
+Puhuja 0: Pari viikkoa vaille, viikko vaille kaksi kuukautta ollaan tässä käkitty.
+Puhuja 0: Mikä on tunnelma?
+Puhuja 2: Mulle kävi sillai jännittävästi, että mä teloin mun jalan, niin on ollut jotain muuta. Mietitään, kun korona
+Puhuja 2: Pelasin tosi kanelmäen ulkokentillä,
+Puhuja 2: että siitä sai ehkä katuskottavuutta,
+Puhuja 2: mutta kuului sellainen napsahdus, niin kuin olisi pallo osunut pohkeeseen, ja sitten en voinut enää kävellä
+Puhuja 2: ja seuraavana päivänä menin lääkäriin ja se kertoi, että mulla on tennispohja.
+Puhuja 2: Ja sitten mä googlasin tennis pohkeen ja kävin ilmi, että se on keski-ikäisten
+Puhuja 2: vaiva.
+Puhuja 2: Niin nyt mulla on
+Puhuja 2: ikäkriisi
+Puhuja 2: ja mä en pysty kävelemään normaalisti.
+Puhuja 0: Mehän
+Puhuja 0: Sohvi tavattiin silloin, kun sä olit muistaakseni yhdeksäntoista.
+Puhuja 0: Se oli ihan
+Puhuja 0: semmoinen lapsin ero, joka oli päässyt Tampereen yliopistoon opiskelemaan tiedotusoppia. Sehän oli,
+Puhuja 0: olit Kypsä
+Puhuja 0: 23-vuotias.
+Puhuja 2: Maailma maailmaa nähnyt,
+Puhuja 0: englannissakin opiskellut.
+Puhuja 0: Ja
+Puhuja 0: sä olit semmoinen lapsen ero, joka pääsi sinne suoraan lukiosta, vaikka se oli silloin Suomen vaikea paikka päästä yliopistoon opiskelemaan.
+Puhuja 2: Nykynuoret ovat viisaampia, ne eivät vissiin enää hae sinne samaan
+Puhuja 0: malliin. Kyllä, näin on.
+Puhuja 0: Samassa ikäryhmässä sinne haki myös Petja Pelli, josta on tullut myös
+Puhuja 0: suurkirjeenvaihtoa
+Puhuja 0: niin kuin Suomesta.
+Puhuja 0: Kyllä.
+Puhuja 0: Marko, miten sinun koronafiilisi?
+Puhuja 1: Oon valittanut joka lähetyksessä. Ei kai tässä sinänsä pitäisi mitään valittaa, mutta vähän tää käy puuduttavaksi.
+Puhuja 0: Mielestä tää on ollut hyvin positiivinen kaikessa paitsi yhdessä lähetyksessä.
+Puhuja 1: No ei tää on. Se on ollut ihan penkkiä. Mä pinnistelen tän tunnin ja sit mä taas romahdan.
+Puhuja 0: Mä en yritä silti rakentanut ihan eri tekniikoilla ne appit.
+Puhuja 0: Niin ne eivät vaan toimineet
+Puhuja 0: ollenkaan.
+Puhuja 0: Esimerkiksi Australiassa
+Puhuja 0: koronaseuranta-apin
+Puhuja 0: perustuu semmoiseen ajatukseen
+Puhuja 0: ihan vaan karrikoiden, että sillä ihmisellä on koko ajan se appi pahallä.
+Puhuja 0: Silleen se pystyy seuraamaan niitä tartuntoja. Mutta jos ne esimerkiksi soittavat
+Puhuja 0: puhelimella tai laittavat sen kiinni, niin sitten se ei enää seuraa niitä tartuntoja.
+Puhuja 0: Mikä on aivan käsittämätöntä.
+Puhuja 0: Olen satavarma, että sitten kun Suomessa ruvetaan tähän samaan, niin siitä tulee ihan älytön katastrofi. Se tehdään jollekin IBM:n fakeille se
+Puhuja 0: appi. Ja se
+Puhuja 0: toimii ihan mahtavasti vaan silloin jos et ikinä puhu sun kännykkään. Ja
+Puhuja 1: näin.
+Puhuja 1: Se on hassua, miksi tää pitää kehittää joka maassa erikseen, että miks nyt tässä
+Puhuja 1: EU kehittää läpi ja kaikki ottaa sen käyttöön?
+Puhuja 2: Sekin kuulostaa
+Puhuja 0: vuoristovalta.
+Puhuja 2: Tosiaan vuoristo. Kaunis ajatus.
+Puhuja 0: Okei.
+Puhuja 0: Yksi selvimpiä tapoja, millä korona pilaa sinunkin elämäsi on se, että
+Puhuja 0: pääsee tänä kesänä
+Puhuja 0: oikeastaan kovin helposti
+Puhuja 0: matkustelemaan.
+Puhuja 0: Oliko se eilen? EU
+Puhuja 0: piti maratonkokouksen
+Puhuja 0: ja tiedotustilaisuuden,
+Puhuja 0: jossa EU kertoo, että
+Puhuja 0: se suosittelee,
+Puhuja 0: että maat vapaaehtoisesti
+Puhuja 0: ja omin voimin
+Puhuja 0: voivat sopia tämmöistä matkustuskuplista,
+Puhuja 0: jossa
+Puhuja 0: sitten on mahdollista kesällä reissata.
+Puhuja 0: Maat, jossa on samanlainen
+Puhuja 0: epidemiatilanne
+Puhuja 0: koronan suhteen, niin ne pystyy sopimaan
+Puhuja 0: matkustuskuplista. Ja sitten esimerkiksi
+Puhuja 0: Kreikka, jossa on hyvin
+Puhuja 0: maltillinen koronatilanne,
+Puhuja 0: Kreikka sitten ilmoitti, että he mielellään auttavat Saksasta ilmateitse
+Puhuja 0: tänne heidän kufflaansa ihmisiä
+Puhuja 0: matkailemaan.
+Puhuja 0: Sohvi, olet meistä ulkomaan elävä ja olet
+Puhuja 0: tällainen pakolainen täällä Suomessa.
+Puhuja 0: Mikä sun näkemys on nyt tästä matkustustilanteesta?
+Puhuja 2: Se, että se alkaa jotenkin rakoilemaan
+Puhuja 2: ja mä en ole ihan kartalla mitä kaikkea voi tehdä. Mutta esimerkiksi tänään,
+Puhuja 2: eikö niin? Virosta pääsee Suomeen töihin ja päinvastoin.
+Puhuja 2: Vaikuttaa siltä, että ainakin alkuun avataan välttämätöntä
+Puhuja 2: liikennettä
+Puhuja 2: ja
+Puhuja 2: turismi ei siihen kuulu mutta
+Puhuja 2: että ihmiset pääsee
+Puhuja 2: tota rajan ylitöihin tai tai tapaamaan
+Puhuja 2: perhettään.
+Puhuja 2: Mutta onhan tää joo en
+Puhuja 2: usko enkä tiedä ketä on ne ihmiset tai kiinnostaa että jos meidän kuulijoissa on ihmisiä jotka
+Puhuja 2: niinku vaikka rajat avautuis niin
+Puhuja 2: lähtisi kreikanmpi itselle. Että mikä se
+Puhuja 2: mikä se
+Puhuja 2: niinku Kela siellä taustalla on.
+Puhuja 2: Että tässä musta vähän sama kuin
+Puhuja 2: kaikessa muussakin muussakin että vaikka rajoituksia puretaan niin ihmisten
+Puhuja 2: käyttäytyminen voi olla
+Puhuja 2: toisenlaista.
+Puhuja 2: Joo. Mutta kaikennäköistä siis todella kiinnostavaa varmaan tulee tapahtumaan.
+Puhuja 2: Yle Per Lenin kirjeenvaihtaja
+Puhuja 2: ja mun kaveri Suvi Turtiainen
+Puhuja 2: just viittasi, että se oli suunnitellut Itävaltaan
+Puhuja 2: juttumatkaa Saksasta koska itävalta tai viinin lentokenttä lupasi että sä saat siellä lentokentällä koronatestin
+Puhuja 2: ja sitten jos se on negatiivinen niin voit
+Puhuja 2: vapaasti lähteä sieltä, jotka joudu mihinkään
+Puhuja 2: kahden viikon karanteeniin.
+Puhuja 2: No sitten kävikin ilmi, että sitä testiä pitää odottaakin kaksikymmentä tuntia, saa mennä
+Puhuja 2: hotelliin tai pysyä siellä lentokentällä
+Puhuja 2: Ja sitten taas Saksa on asettanut rajan, että sä saat ilmeisesti
+Puhuja 2: matkustaa ainakin Itävaltaan
+Puhuja 2: kun sä saat siellä vähemmän kuin neljäkymmentäkahdeksan tuntia perillä
+Puhuja 2: jolloin tästä niin kuin Itävallan matkasta sulla on neljäkymmentäkahdeksan
+Puhuja 2: tuntia aikaa ja kaksikymmentä tuntia menisi odotellessa sitä testiä viinin lentokenttää hotellissa.
+Puhuja 2: Ja se testin valmistuminen kestää varmaan myöskin jonkun aikaa. Niin, ne olivat jonkunnäköisiä pikatestejä. Olen myös pudonnut kärryiltä testien kehityksessä ja niiden luotettavuus on toki yksi olennainen asia.
+Puhuja 2: Sitten joku siihen viittaisi meidän keskusteluun
+Puhuja 2: Hong Kongista.
+Puhuja 2: Se oli National Geographicin
+Puhuja 2: toimittaja tai valokuvaaja joka oli matkustanut
+Puhuja 2: Hong Kongiin ja kuvasi sen maahantulo
+Puhuja 2: semmoiseen rannekkeen, mikä seuraa sen liikkeitä
+Puhuja 2: ja piti täyttää kaiken maailman terveystietoja
+Puhuja 2: ja esimerkiksi
+Puhuja 2: ilmoittaa
+Puhuja 2: sen auton rekisterinumeron, jolta lähtee
+Puhuja 2: kentällä, että se tavoitetaan tarvittaessa.
+Puhuja 2: Sitten se myös teki itse... Sitten ne ihmiset ohjattiin
+Puhuja 2: tällaiselle testialueelle, jossa oli
+Puhuja 2: koppeja ja ihmiset
+Puhuja 2: siellä itse
+Puhuja 2: otti sen näytteen itseltään ja sitten odottelee sen tulosta ja
+Puhuja 2: pääsee jatkamaan matkaa.
+Puhuja 2: Mutta
+Puhuja 2: aika kiinnostavaa tulee.
+Puhuja 2: Paljon on verrattu mun mielestä tätä siihen kun näin
+Puhuja 2: 11 iskujen jälkeen, miten matkustusmuuttujat tuli tiukemmat turvatarkastukset
+Puhuja 2: ja niin edelleen niin
+Puhuja 2: ainakin se, mitä Hongkongista
+Puhuja 2: Twitterissä näin
+Puhuja 2: oli todella uusi
+Puhuja 2: maailma.
+Puhuja 2: Saa nähdä. Ja just se, että mitä nämä palvelut maksavat ja
+Puhuja 2: ketkä niihin on valmiita tarttumaan
+Puhuja 2: ja niin edelleen.
+Puhuja 0: Mun mielestä nyt
+Puhuja 0: on
+Puhuja 0: ihmiset
+Puhuja 0: kaikki Suomen kansa, joka kuuntelee kaikki tätä podcastia.
+Puhuja 0: Matka alkaa Suomessa.
+Puhuja 0: Tosi monet kanssa tekee. Mun sosiaalinen media on täyttynyt noista kysymyksistä, että hei, nyt tehdään tämmöinen omituinen juttu, että lähdetään Suomeen
+Puhuja 0: kesälomareissulle. Mihin täällä pitäisi mennä? Mitä täällä pitää tehdä?
+Puhuja 0: Jotenkin tuntuu, että nyt on aivan
+Puhuja 0: tuhansien
+Puhuja 0: taalojen ja tuhansien eurojen paikka niille
+Puhuja 0: firmoille,
+Puhuja 0: jotka
+Puhuja 0: tarjoamaan jotain muuta kuin semmoiset kylpyhälomat
+Puhuja 0: jossain mummon
+Puhuja 0: kotipaikkakunnalla.
+Puhuja 0: Nyt
+Puhuja 0: kaikki ne ihme hipsteripihat,
+Puhuja 0: krokettiturnaukset
+Puhuja 0: jossain äpsämässä.
+Puhuja 0: Siis kaikki tällainen näin. Nyt pitäisi vaan lyödä
+Puhuja 0: hirveästi rahaa mieluusti Hesariin mainosalustana,
+Puhuja 0: mutta ehkä myös Facebook-mainonta.
+Puhuja 0: Kaikki
+Puhuja 0: ne
+Puhuja 0: omat ihmetapahtumat
+Puhuja 0: ja muut,
+Puhuja 0: butiikkihotellit
+Puhuja 0: jossain
+Puhuja 0: Peräseinäjoella ja kaikki tällaiset. Nyt on sauma
+Puhuja 0: ja nyt ihmiset ovat selkeästi valmiita
+Puhuja 0: lähtemään lähtemään Suomi-matkailemaan.
+Puhuja 0: Nyt pitäisi takoa. Koska tämä voi olla semmoinen, joka muuttaa kulttuurin. Sille tulee yhtäkkiä ihan ok.
+Puhuja 0: Yhtäkkiä cooli ihmiset käy Suomessa matkailemassa.
+Puhuja 2: Kyllä. On voimakkaasti käynnissä jo ennen koronaa
+Puhuja 2: tämän lentovalta, että kotimaan matkailua alkoi kiinnostaa. Olen siis osallistunut tähän sillä tavalla, että olen vuokrannut auton koko kesäksi.
+Puhuja 2: Ai, mahtavaa! Joo, se on minun koronateko ja kyllä olen pohtinut just jotain.
+Puhuja 2: En ole koskaan harrastanut mitään retkeilyä, että pitää varmaan hommata
+Puhuja 2: jotkut retkeilyvermeet
+Puhuja 2: tai sitten luultavasti
+Puhuja 2: todennäköisempää on, että päädytään vaan mökille,
+Puhuja 2: mutta se on ihan totta. Mutta sitten niissä putiikhotelleissakin
+Puhuja 2: pitää miettiä, että miten järjestetään
+Puhuja 2: se
+Puhuja 2: oleminen turvallisesti ja miten ihmiset uskaltavat
+Puhuja 2: yöpyä
+Puhuja 2: jossain. Mutta
+Puhuja 0: toisaalta kyllä se tuntuu jotenkin turvallisemmalta
+Puhuja 0: Suomen putiikattilelissa
+Puhuja 0: olla kuin jossain Itävallassa?
+Puhuja 2: Kyllä,
+Puhuja 2: kyllä.
+Puhuja 2: Tietysti.
+Puhuja 2: Petjapellillä oli liian kiinnostava juttu Islannista ja miten ne on saaneet
+Puhuja 2: tämän epidemian kanssa kuriin.
+Puhuja 2: Toisella
+Puhuja 2: kirjavaihtajakaverilla,
+Puhuja 2: Ylen tulevalla Washingtonin kirjavaihtaja Iida Tikalla oli idea, kun me juteltiin, että Islannista pitäisi tehdä jenkkien
+Puhuja 2: odotushuone.
+Puhuja 2: Että ne vois kun
+Puhuja 2: niiden turismi on perustunut paljon jo tähän asti siihen että siellä voi pysähtyä
+Puhuja 2: ilmaiseksi Islannissa jonkun aikaa niin nyt jos ne vaan organisois jonkun infrastruktuurin
+Puhuja 2: jonka kautta esimerkiksi minä voisin mennä sinne Islantiin kahdeksi viikoksi odottelemaan, että
+Puhuja 2: pääsen Yhdysvaltoihin ja todistan olevani terve, niin musta siinä on ihan bisnesmahdollisuuksia.
+Puhuja 2: Kyllä.
+Puhuja 0: En muista oliko se korona-aika. Kyllä se oli varmaan korona-aika, mutta mä haluan jotenkin leukkia omalla mahtavalla tvietilläni.
+Puhuja 0: Nimittäin
+Puhuja 0: mä twiittasin
+Puhuja 0: sellaiseen asiaan, mikä mua ei ärsyttänyt,
+Puhuja 0: mutta rasittanut tosi pitkään. Ja se on se, että kun
+Puhuja 0: mä nyt vaan, sori, palaan suomimatkailuun
+Puhuja 0: tässä.
+Puhuja 0: Kun
+Puhuja 0: vaikka googlaa, että Suomen kauneimmat paikat, tai missä Suomessa
+Puhuja 0: kannattaa matkailla,
+Puhuja 0: Sitten tulee silleen kaksisataa Google-sivua
+Puhuja 0: tässä on kaksikymmentä
+Puhuja 0: Suomen parasta matkakohdetta.
+Puhuja 0: Ja sitten ne on aina sellaisia, että ne on silleen
+Puhuja 0: Saimaa.
+Puhuja 0: Sillä ei ole tietenkään joku kuusituhatta neljä
+Puhuja 0: kilometrin alue,
+Puhuja 0: joka on tosi jees tai aivan perseestä
+Puhuja 0: riippuen siitä mihin sä satut osumaan siellä. Se on surkea tapa
+Puhuja 0: matkustaa.
+Puhuja 0: Mä twiittasin että Gliis kertokaa mulle supertarkkoja
+Puhuja 0: supertarkkoja, että
+Puhuja 0: kävely oikealle
+Puhuja 0: ja kato vasempaan suuntaan
+Puhuja 0: kello viisitoista
+Puhuja 0: iltapäivällä.
+Puhuja 0: Ja näet näköalaa joka on upea.
+Puhuja 0: Ja siinä twiittiketjussa
+Puhuja 0: koko ketju oli aivan mahtava kiitos kaikille niille kymmeneille ihmisille, jotka kertoi tämmöisiä
+Puhuja 0: tiettyjä
+Puhuja 0: tosi
+Puhuja 0: tarkkoja, että tämä on Suomen paras silta tästä kulmasta katsottuna aivan uskomaton ja näin. Siellä oli valehtelematta Suomen kaunein maisema.
+Puhuja 0: Ikävä kyllä en muista twiitjän nimeä just Juha muistaakseni.
+Puhuja 0: Hän oli ottanut kuvankin siitä. Viisitoista kilometrin jälkeen Kevon kanjonilla
+Puhuja 0: on semmoinen
+Puhuja 0: näköala,
+Puhuja 0: joka katsoisi johonkin
+Puhuja 0: scifi-planeetalle.
+Puhuja 0: Se on aivan uskomaton näkymä.
+Puhuja 0: Etsikää vaikka Tuomas Peltomäki ja Kevon Kanjoni, niin löydätte sen twiitin.
+Puhuja 0: Se oli ihan mieletön.
+Puhuja 0: Mun twiittiketjussa,
+Puhuja 0: väitän, että se on tällä hetkellä paras
+Puhuja 0: matkaopas
+Puhuja 0: Suomeen,
+Puhuja 0: mitä on.
+Puhuja 2: Mä
+Puhuja 2: kaipasin
+Puhuja 2: viime viikolla, kun
+Puhuja 2: matkusteltiin
+Puhuja 2: mökille,
+Puhuja 2: ja
+Puhuja 2: me oltiin kunn kunnollisina ihmisenä pakattu eväät mukaan, ettei mennä lähtemään minnekään ABC:lle.
+Puhuja 2: Ja
+Puhuja 2: näin. Mutta sitten kun rupeaa Googmaan jossain Helsinki-Turku Moottoriteellä, että missä olisi kiva paikka pysähtyä syömään nää eväät, niin se oli ihan toivoton googlaus.
+Puhuja 2: Tuomaksen tätä twiittiä käydä lisäämässä, että missä pysähtyä, kun et voi ehkä pysähtyä
+Puhuja 2: siellä missä ennen pysähtyä.
+Puhuja 0: Marko,
+Puhuja 0: vaikutat siltä, että et ole välttämättä kesälomanuunnitelmia
+Puhuja 0: vielä lyönyt lukkoon vai miten mun pitää tulkita tämä hiljaisuus?
+Puhuja 1: Mä käyn katsomassa
+Puhuja 0: sun twiittiketjuja ja mietin viime vuoden kesällä. En ole kauheasti miettinyt vielä.
+Puhuja 1: Mutta nyt mennään tuota loppuosioon. Kun
+Puhuja 0: tässä ravintolat pikkuhiljaa avautuvat,
+Puhuja 0: niin käytte viimeisen kerran ottamassa ihan kotitegosta Pusaria omilla portailla ja jotta siinä ehkä yhden kylmän siiderin tai oluen tai lasillisen valtaviiniä.
+Puhuja 0: Mitäs huutelette kadun
+Puhuja 0: toiselle puolelle ohikulkijoille?
+Puhuja 2: Marko kuulosti siltä, että sulla on joku hyvä.
+Puhuja 1: Ei mulla oikein mitään. Mä voisin kehua.
+Puhuja 1: Olin tässä useamman viikon
+Puhuja 1: Netflix Netflix
+Puhuja 1: HBO tauolla enkä oikeastaan jaksanut katsoa juuri mitään, mutta nyt mä katselin tässä
+Puhuja 1: viikonloppuna ja katselin tätä Last Dance tätä Michael Churden
+Puhuja 1: dokkaria
+Puhuja 0: Oliks se hyvä?
+Puhuja 2: Mun mielestä se itseasiassa ei ole kauheen hyvä Hyvä, ihanaa olen samaa mieltä, mä olen toteuttanut melkein joka jakson
+Puhuja 1: supertähtenä
+Puhuja 1: supersankarina
+Puhuja 1: sieltä 90-luvulta
+Puhuja 1: ja
+Puhuja 1: sitä on tosi kiva kattoa, musta dokkarina se ei ole mua jotenkin riemoo, se hyppelee ajasta toiseen ja musta
+Puhuja 1: se ei oo dokumenttiteknisesti teknisesti kauhean hyvä, mutta sitä on tosi kiva kattoa. En mä siinä nukahda. Morissa
+Puhuja 1: kertoi Maija.
+Puhuja 2: No se kertoo... Niin, kerro vaan.
+Puhuja 1: Se on siis
+Puhuja 1: Chicagobols
+Puhuja 1: heidän tavallaan viimeinen kautensa, jolloin ne voitti mestaruuden ja siellä oli paljon sisäisiä riitoja ja valmentaja oli saamassa potkut ja se kertoo Michael Chådanin urasta, mutta se päällimmäinen tarina on tämä heidän viimeinen vestaruusvuotensa.
+Puhuja 2: Mutta Michael Jordan, jota
+Puhuja 2: on
+Puhuja 2: nyt nykyajassa haastateltu, niin sehän on ihan hirveä tyyppi siinä. Se on todella
+Puhuja 1: siirtämätön. Ja sitähän on kehuttu, koska Michael Jordanin oma tuotantoyhtiö on ollut mukana tuottamassa, mutta kyllä se
+Puhuja 1: osoittaa häneltä mielen lujuutta, että se ei ole sensuroinut omaa kusipäyspää
+Puhuja 1: sieltä
+Puhuja 2: Ja siis on se silleen kiehtova, että rupeaa miettimään, että
+Puhuja 2: mitä sellaisen
+Puhuja 2: taidon hankkiminen vaatii ja vaatiiko se nimenomaan sitä, että sua ei kiinnosta mikään muu kuin voittaminen niin kuin Michael Child. Se on aika ankea tyyppi siinä, että sitä ei oikeasti kiinnosta, minne muuhun voitava. Kyllä, mutta olisin hyvä pelata koripalloa.
+Puhuja 2: Niin. Ja on myös ihanaa katsoa, vaikka en ole mikään koripalloihminen,
+Puhuja 2: niin sitä on myös ihan mieletön katsoa. Kyllä siinä parasta on arkistopätkät
+Puhuja 2: niistä itse peleistä.
+Puhuja 1: Ja sitten
+Puhuja 1: sitä sarjaa varten siellä on myös sellaista,
+Puhuja 1: sinun kuvausryhmä oli seurannut joihinkin muihin tarkoituksiin
+Puhuja 1: sitä Michael Childeria ja sitä jengiä ja siellä on
+Puhuja 1: aiemmin julkaisemat kuvamateriaalia
+Puhuja 1: tosi paljon.
+Puhuja 2: Joo, semmoista kulissien näkökulmasta. Sit kaikilla on semmoset, ne on valtavan kokoisia koripalloilijoita
+Puhuja 2: ja sitten niillä on semmoset miettävät 90-luvun isot
+Puhuja 2: puvut päällä. Kyllä.
+Puhuja 2: Ne tulee varmaan muotiin.
+Puhuja 0: Joo joo, kuulostaa aivan jotenkin esteettisesti
+Puhuja 2: nimenomaan aivan upealta. Tämä voi olla minun ja Markon yhteinen suositus, koska tästä minä itse asiassa innostuin enemmän kuin minun omasta suosituksesta.
+Puhuja 0: Okei, koska minulla on vähän tylsä suositus.
+Puhuja 0: Mä olen
+Puhuja 0: kuunnellut
+Puhuja 0: Mikael
+Puhuja 0: Karva-alan
+Puhuja 0: seuraajaa Mikael Hakimia.
+Puhuja 0: Lempi kirjani maailmassa. Se on aivan
+Puhuja 0: uskomattoman hyvä.
+Puhuja 0: Olen lukenut sen varmasti kymmenen kertaa jo aiemmin, mutta se on ihan uskomattoman
+Puhuja 0: hyvä. Se islamin
+Puhuja 0: kuvaus
+Puhuja 0: ja se huumori ja se
+Puhuja 0: syvällisyys
+Puhuja 0: ja maailmankuva ja siis kaikki Waltari on Kenties, mikä oli Waltarin sijoitus suurin suomalainen äänestyksessä joskus kaksikymmentä vuotta sitten?
+Puhuja 0: Oliko ykkönen? Syytä olisi, koska hän on ainoa mieletöntä.
+Puhuja 2: Minäkin itse sanoin lukea mökillä
+Puhuja 2: valtakunnan salaisuutta, jota en
+Puhuja 2: ehtinyt ennen.
+Puhuja 2: Olen
+Puhuja 2: hirveästi yrittänyt,
+Puhuja 2: tai olen siinä kesken ja huomaan, että kaipaan
+Puhuja 2: jotain analyysiä sen kaveriksi minun Panu Rajalan Union mystikawowshittonissa
+Puhuja 2: ja netistä ei oikein löydy
+Puhuja 2: mitään valtakunnan salaisuusanalyysiä,
+Puhuja 2: että jos jollakin on siitä sanottavaa, niin mua kiinnostaa, koska
+Puhuja 2: Tai voidaan jatkaa Valtarikeskusteluita.
+Puhuja 0: Mä teen
+Puhuja 0: radikaalin
+Puhuja 0: suosituksen.
+Puhuja 0: Mika Valtari on
+Puhuja 0: sellainen, että ihmiset pyörittelee silmiään
+Puhuja 0: Mika Waltarille, jos ne ei ole lukenut sitä.
+Puhuja 0: Tai sitten ne on lukenut niitä moderneja
+Puhuja 0: novelleja vaikka.
+Puhuja 0: Ei silloinkaan yleensä enää pyöritellä silmiä, mutta on ehkä vähän silleen, että joo ei kiinnosta paljon ja 1920-luvun Helsingin, kuulit,
+Puhuja 0: jazzpiirit ja näin.
+Puhuja 0: Jos ei ole lukenut Waltarin niitä historiallisia romaaneja
+Puhuja 0: tai että jos opettaja on pakottanut lukemaan Sinuhen joskus 10-vuotiaana,
+Puhuja 0: niin ei varmaan ole jäänyt hyvät mielikuvat.
+Puhuja 0: Valtari on semmoinen
+Puhuja 0: kannattaa
+Puhuja 0: aivan hiton paljon.
+Puhuja 0: Ja mä sanon Mikael Hakim on kirjana sellainen, että sitä edeltää Mikael Karvajalka-kirja,
+Puhuja 0: joka on valtavan hyvä kirja uskomattoman hauska ja ratkiriemukas.
+Puhuja 0: Mutta Mikael Carvealassa on silleen keskellä
+Puhuja 0: sellainen aika
+Puhuja 0: raskassoutuneen osiossa, jossa käydään jotain uskonpuhdistusta
+Puhuja 0: läpi ja näin. Ja se on se, mikä monesti tuu peruuttaa ihmiset. Ja ne ei ikinä pääse sinne hakeminen asti. Hakimmin voi aloittaa ihan neitseellisesti.
+Puhuja 0: Unohan se Mikael karvajalka. Mitään voi
+Puhuja 0: palata myöhemmin.
+Puhuja 0: Aloittakaa suoraan Mika Waltariin tutustuminen
+Puhuja 0: Mikael Hakim teoksesta! Se on uskomattoman värikäs, hieno, hauska kuin mikä!
+Puhuja 0: Toimii äänikirjana.
+Puhuja 0: Löytyy Storytelistä,
+Puhuja 0: löytyy Bookbeatista.
+Puhuja 0: Kannattaa!
+Puhuja 0: Lukekaa Mikael Hakija!
+Puhuja 2: Kerrankin me ollaan tuomattako olisi samaa mieltä.
+Puhuja 0: Okei siinä kaikki tältä erää!
+Puhuja 0: Kiitos Marko Junkkari!
+Puhuja 0: Kiitos!
+Puhuja 0: Kiitos Anna-Sofia Berner.
+Puhuja 0: Kiitos!
+Puhuja 0: Minun nimeni on Tuomas Peltomäki ja ääniä kuvaaja kaiken muun mahtavan meille tekee tällä viikolla Mikko Peura.
+Puhuja 0: Kiva kun Mikko on pitkästä aikaa meidän kanssa tekemässä.
+Puhuja 0: Muistakaa lähettää meille palautetta uutisraportti ja kuullaan taas ensi viikolla!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 0: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

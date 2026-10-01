@@ -1,0 +1,466 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin torstaina kaksisataakuusikymmentäyksi.
+Puhuja 0: Minun nimeni on Tuomas Peltomäki ja kanssani täällä piuhojen servereiden ja elektron magneettisen
+Puhuja 0: säteilyn muodostamassa bittiavaruudessa
+Puhuja 0: paikalla ovat
+Puhuja 0: Helsingin Sanomien politiikan toimittaja Marko Junkkari. Hei Marko!
+Puhuja 3: Tervetuloa, Lasse!
+Puhuja 0: Mikä sulla vointi viimeksi, kun nähtiin
+Puhuja 0: näissä bittia alaruksissa, niin sun vointi oli vähän huono?
+Puhuja 3: Joo, mä voin huomattavasti
+Puhuja 3: paremmin, että mun flunssa on mennyt nyt ohi. Se on ihana kuulla! Kukaan meistä ei usko,
+Puhuja 0: että paitsi salaa, että se on korona?
+Puhuja 3: Enpä usko, että se oli. Ainakin mitään kuvauksia olen itse lukenut koronasta, niin ei tämä ihan vastannut niitä oireita.
+Puhuja 0: Se on helpottavaa kuulla.
+Puhuja 0: Sen lisäksi meillä on paikalla,
+Puhuja 0: ja valitettava
+Puhuja 0: kyllä
+Puhuja 0: edelleen yhtä huoneen yhteyksien päässä Itä-Helsingin
+Puhuja 0: ketossa
+Puhuja 0: sunnuntailiitteen
+Puhuja 0: toimittaja Marja Manner. Hei Marja!
+Puhuja 2: Hei Tuomas ja Marko!
+Puhuja 0: Miten
+Puhuja 0: sulla menee? Oletko pysynyt terveenä ja rauhallisena?
+Puhuja 2: Joo, siis mä olen ollut nyt kaksi
+Puhuja 2: viikkoa tapaamatta ketään käymättä missään. Olen mitään sosiaalisia kontakteja, ja musta tuntuu, että olen tuossa mökhöpölöksi.
+Puhuja 2: Olen alkanut kanutkinlla
+Puhuja 2: lintuja.
+Puhuja 2: Tunnistan nyt jo erilaisia linnunääniä.
+Puhuja 0: Okei.
+Puhuja 0: Se
+Puhuja 0: kuulostaa jotenkin silleen, että
+Puhuja 0: tuo pitäisi tehdä, vaikka ei olisi maailmanlaajuista pandemiakriisiä
+Puhuja 0: meneillään. Okei
+Puhuja 0: hei, ihan lyhyt ilmoitusasia
+Puhuja 0: tähän alkuun. Nyt on meneillään ennennäkemätön ja kokematon aika Suomessa ja myös maailmalla.
+Puhuja 0: Podcastin tekeminen näissä olosuhteissa on vähintäänkin haastavaa,
+Puhuja 0: joten
+Puhuja 0: rakkaat kuulijat olkaa niin kiltte, että autatte meitä tekemään tätä Podia
+Puhuja 0: paremmin ja siten, että tästä eristyneisyydestä
+Puhuja 0: huolimatta me jollakin tapaa
+Puhuja 0: säilytetään
+Puhuja 0: teihin
+Puhuja 0: kontakti.
+Puhuja 0: Parhaiten se onnistuu sillä tavalla, että twiitatkaa meille
+Puhuja 0: uutisraportti tai Markojunkkari,
+Puhuja 0: marjamanner jne.
+Puhuja 0: Tai laittakaa AIKUSissa
+Puhuja 0: tähtiä,
+Puhuja 0: laittakaa arviota podcastille,
+Puhuja 0: se onnistuu suoraan Appista, jakakaa Spotify-linkki
+Puhuja 0: ja jakakaa Supplalinkkiä
+Puhuja 0: omassa somessa.
+Puhuja 0: Jos millään pystytte, niin olkaa meihin päin eri tavoilla yhteyksissä, koska se auttaa meitä säilyttämään
+Puhuja 0: täällä, kun me ollaan kaikki suljettuna omiin makuuhuoneisiin,
+Puhuja 0: jonkun näköistä
+Puhuja 0: kontaktia sinne muuhun Suomeen,
+Puhuja 0: muihin suomalaisiin.
+Puhuja 0: Se on nyt,
+Puhuja 0: tulevina viikkoina ja ehkä tulevina kuukausina aivan älyttömän tärkeää meille, että meillä pysyy
+Puhuja 0: äärettömän
+Puhuja 0: tiivis ja tiukka
+Puhuja 0: yhteys
+Puhuja 0: teihin ja siitä olisi meille hirveästi apua ja hyötyä.
+Puhuja 0: Kiitos, jos autatte siinä.
+Puhuja 0: Tämän viikon podcastissa keskustellaan aiheesta, joka kuulostaa aluksi hirveän positiiviselta.
+Puhuja 0: Suomen exit-reitistä
+Puhuja 0: eli
+Puhuja 0: exit-poispääsypolku
+Puhuja 0: tästä pandemiasta,
+Puhuja 0: mutta joka kuitenkin on yhtä kaoottinen ja pelon reunasta aihe, kuten kaikki muutkin korona-aiheet, sillä meidän oma marjamme, Suomen lahjakkaimpia
+Puhuja 0: toimittajia, uuttera ja sinnikäs totuuden kaivelija ja paljastaja.
+Puhuja 0: Journalistinen sankari sanoisin suorastaan. Maria yhdessä Paavo Teittisen kanssa kirjoitti
+Puhuja 0: hyvin perusteellisen
+Puhuja 0: analyysin.
+Puhuja 0: Ja Tommi Nieminen. Ja Tommi Nieminen, kyllä, aivan näin. Hyvin perusteellisen analyysin niistä olettamuksista,
+Puhuja 0: joihin Suomen koronastrategia
+Puhuja 0: pohjaa
+Puhuja 0: ja mikä se koronastrategia
+Puhuja 0: on.
+Puhuja 0: Myös keskustellaan
+Puhuja 0: Uudenmaan edistämisestä
+Puhuja 0: ensimmäistä kertaa sitten jatkosodan. Tämä on historiallinen fakta, jonka tarjosi Tuomaksen hattu.
+Puhuja 0: Ensimmäistä kertaa sitten jatkosodan Suomessa on alueita, joihin suomalaiset eivät saa vapaasti liikkua eli meille uusmaalaisille alaisille muu Suomi puhumme siitä. Ei kai. Enkä kai jatkosodassakaan mitään, siis ei kai maan sisäistä liikkuvuutta ole koskaan rajattu.
+Puhuja 0: Ihan varmasti. Mä lähdin siitä
+Puhuja 0: ajatuksesta, että sota rajoittaa
+Puhuja 0: maan sisällä liikkumista merkittävää. Ei, kyllä. Silloin sai Uudeltamaalta poistua ihan vapaasti. Niin, mutta jos olen toimija. En tiedä pystyisikö hallitus edes määräämään THL:n ja tuskinpa.
+Puhuja 0: Kätensä.
+Puhuja 0: THL on esim. Kieltäytyneet
+Puhuja 0: luovuttamasta minkään näköisiä tietoja näistä kuolleista
+Puhuja 0: suomalaisista.
+Puhuja 0: Ei
+Puhuja 0: iästä laajin mahdollinen sinne päin
+Puhuja 0: arvio yli 15-vuotias
+Puhuja 0: suomalainen. Vanha keski-ikäinen
+Puhuja 0: nuori. Siinä on se tieto, mitä näistä kuolleista on saatu.
+Puhuja 0: Ja THL
+Puhuja 0: perustelee sen ja mulla on sympatiaa sitä kohtaan, että he eivät halua loukata näiden kuolleiden
+Puhuja 0: maailmanlaajuisen
+Puhuja 0: kriisin ensimmäisiä uhreja Suomessa. Heidän yksityisyyttä ei haluta loukata ja ymmärrän sen. Mutta toisaalta kyllä helvetissä mua kiinnostaisi
+Puhuja 0: että minkä ikäisiä ihmisiä Suomessa kuolee.
+Puhuja 0: Onko Suomessa sama tilanne, että ne on vanhuksia vai onko Suomessa tämän viruksen joku tietty mutanttihaara, joka tappaa just 38-vuotiaita
+Puhuja 0: uutispäällikkö. Että se kiinnostaa aivan hullona tällaiset tiedot. Mutta Suomessa on tehty se linja, että nämä kuuluu yksityisyydensuojan
+Puhuja 0: piiriin ja ihmisten oikeus tietää
+Puhuja 0: on huomattavasti pienempi kuin ihmisten oikeus
+Puhuja 0: yksityisyyteen.
+Puhuja 3: Näin näköjään on, ja mä en tiedä mihin se pohjautuu onko se ajatus myös se,
+Puhuja 3: että
+Puhuja 3: oletushan on, että korona
+Puhuja 3: tappaa eri puolilla maailmaa yhtä paljon 38-vuotiaita
+Puhuja 3: uutispäälliköitä,
+Puhuja 3: mä uskon että tässä on oletettavissa että
+Puhuja 3: Suomen kuolleisuus luvuttaisiin jollain tavalla uhrien
+Puhuja 3: väestörakenne
+Puhuja 3: olisi jotenkin erilainen, että ehkä siinä halutaan vain olla lietsomatta
+Puhuja 3: paniikkia.
+Puhuja 3: Palaan vielä tässä millä aloititte
+Puhuja 3: twiitti siitä, että onpas pirun hankalaa säätää lakeja
+Puhuja 3: valmiuslain perusteella
+Puhuja 3: käyttöönottoasetuksia
+Puhuja 3: lisävaltuuksien
+Puhuja 3: perusoikeuksien
+Puhuja 3: rajaamiseen
+Puhuja 3: sun muu
+Puhuja 3: Minusta se on todella lohdullista, että se on vaikeaa, tässä
+Puhuja 3: puhutaan niin
+Puhuja 3: valtavan suurista asioista,
+Puhuja 3: mun mielestä Paula Risikko, entinen eduskunnan puhemies,
+Puhuja 3: kokoomuslainen
+Puhuja 3: kansanedustaja tässä muutama päivä sitten, taisi meidän haastattelussa,
+Puhuja 3: päivittelin jo muutenkin sitä, miten nopeasti nämä runnotaan eduskunnasta läpi,
+Puhuja 3: Tässä
+Puhuja 3: kuitenkin tehdään todella nopealla tahdilla
+Puhuja 3: valtavan isoja päätöksiä, jotka vaikuttavat
+Puhuja 3: ihmisten elämään ja rajataan perusoikeuksia ja
+Puhuja 3: perustuslakivaliokunta
+Puhuja 3: ehtii kuulla asiantuntijoita
+Puhuja 3: ja
+Puhuja 3: ehtii hoitaa tämän,
+Puhuja 3: puhutaan kuitenkin muutamista päivistä, mun mielestä se on
+Puhuja 3: vähimmäisvaatimus
+Puhuja 3: kun tässä puhutaan nyt
+Puhuja 3: oikeusvaltition ytimestä ja tästä puhutaan todella perustavanoituista
+Puhuja 3: asioista, niin mun mielestä
+Puhuja 3: valitus siitä, että tämä on vaikeaa, niin piru vie pitää ollakin. Ei tämmöisiä voi noin vaan säätää.
+Puhuja 0: Puolustakseni
+Puhuja 0: Sanna Marinia, niin kyllä ymmärrän toisaalta sen, että tilanne on myös hyvin vaikea ja hallituksella ei ole päiviä aikaa ruveta käymään joidenkin professoreiden kanssa
+Puhuja 0: keskustelua
+Puhuja 0: siitä, että mitä tässä nyt tarvitaan? En ole oikeustieteilijä, mutta
+Puhuja 3: silloin kun tämä valmiuslaki julistettiin ja tuli
+Puhuja 3: ensimmäiset
+Puhuja 3: käyttöönottoasetukset ja niihin liittyvät
+Puhuja 3: määräykset, niin heti alkuvaiheessa
+Puhuja 3: hallitus ilmoitti, että se ottaa esimerkiksi
+Puhuja 3: tämän lääkemyyntiä
+Puhuja 3: koskevat
+Puhuja 3: rajoitukset,
+Puhuja 3: mitkä itsekin huomasin kun oltiin nostaa
+Puhuja 3: seuraavana päivänä apteekista jotain Muranaa niin niistä sai ottaa vain yhden paketin
+Puhuja 3: nehän tulivat saman tien, hallitus on
+Puhuja 3: myös keino ottaa joku
+Puhuja 3: uusi
+Puhuja 3: rajaus
+Puhuja 3: saman tien käyttöön jolloin kesto on toki myös lyhyempi,
+Puhuja 3: mutta jos nyt olisi pakko
+Puhuja 3: päivässä saada jotain tehtyä niin siihenkin olisi mahdollisuus ja sen jälkeen se pitäisi
+Puhuja 3: käydä läpi juridisesti perusteellisemmin
+Puhuja 3: ja
+Puhuja 3: perustuslain
+Puhuja 3: valossa.
+Puhuja 3: Tässä
+Puhuja 3: en muista, Sanna Marini kommentti ei ollut, ei ollut hyvä.
+Puhuja 0: Olet täysin oikeassa ja kaikki tuo kuulostaa tosi järkevältä ja itse asiassa olen täysin samaa
+Puhuja 0: kanssa samaa mieltä, mutta siltikin minua ärsyttää ihan suunnattomasti perustuslakivaliokunnan
+Puhuja 0: toimintaperiaate,
+Puhuja 0: jonka kaikki jotenkin vaan ottavat,
+Puhuja 0: että tällaista se nyt on, että se on niin epäformaali,
+Puhuja 0: se on niin äliömäinen, että siellä on kansanedustajia,
+Puhuja 0: jotka eivät kuitenkaan ole mitään perustuslakituomareita.
+Puhuja 0: Ne on ihan tavallisia
+Puhuja 0: S-Marketin
+Puhuja 0: ja K-kaupan
+Puhuja 0: asiakkaita niin kuin me kaikki muut, ja niillä
+Puhuja 0: Lain kirjaimen mukaan ne ovat ne, jotka tekevät sen tulkinnan. Käytännössähän se ei ole näin ollenkaan, vaan siellä ravaa ne viisi-kuusi professoria, juuri niin kuin Benzyskovitsa
+Puhuja 0: aina kiroaa, että ne viisi-kuusi profreja
+Puhuja 0: tekemässä nämä tulkinnat näiden kansanedustajien puolesta.
+Puhuja 0: Se on minun mielestä ihan fine, mutta kun niiden asema on epäformaali.
+Puhuja 0: Niitä ei voi pitää vastuussa siitä, että mitä ne ovat sanoneet.
+Puhuja 0: Ne ei joudu toimittamaan silleen
+Puhuja 0: julkisen arvioinnin kohteeksi omia lausuntoja. Kyllä ne lausunnot tulee.
+Puhuja 0: Ne
+Puhuja 0: on ihan mitä tahansa
+Puhuja 0: muita
+Puhuja 0: asiantuntijalausuntoja,
+Puhuja 0: mitä valiokunnat kuulevat. Sinne voi kuka tahansa S-Marketin pitää ja laittaa omaan mielipiteensä ja se menee samanarvoisena
+Puhuja 0: sinne niiden professoreiden
+Puhuja 0: kanssa. Mä vaan haluaisin, että nämä viisi-kuusi profffa,
+Puhuja 0: proffaa laitettaisiin formaalin
+Puhuja 0: aseman että he ovat perustuslain
+Puhuja 0: tulkitsijoita
+Puhuja 0: ja kaikki tietäisivät keitä ne on. Kaikki älyäiset että sieltä käydään lukemaan ne niiden lausunnot ja pohdinnat.
+Puhuja 0: Siitä pystyttäisiin käymään järkevämpää
+Puhuja 0: keskustelua Suomessa, että mitä nämä ajattelee.
+Puhuja 0: Sen lisäksi silloin heiltä voitaisiin myös esim. Kieltää Twitter.
+Puhuja 0: He eivät samaan aikaan tulkitse Suomen perustuslakia ja
+Puhuja 0: Twitterissä menemään jonkun Ivan Puololon kanssa
+Puhuja 0: Viifeissä.
+Puhuja 0: Ei siinä ole järjen himmentä, se on alhaista ja likaista ja hyvin!
+Puhuja 3: Joo, tosta vaan samaa mieltä, mutta kyllä siis näiden
+Puhuja 3: perustuslakiprofessoreiden
+Puhuja 3: lausunnoille tulee julki, siinä
+Puhuja 3: on mun mielestä yksi
+Puhuja 3: käytännön ongelma siinä on se, että sehän ei ole,
+Puhuja 3: jos nyt vertaa, kun aina puhutaan perustuslakituomioistuimesta,
+Puhuja 3: jos vertaa jenkkien korkeimpaan oikeuteen, niin
+Puhuja 3: siellä joku heistä ymmärtääkseni tekee sen pohjapaperin,
+Puhuja 3: jonka jälkeen
+Puhuja 3: tuomarit keskustelee keskenään. Mutta tämä vaihe puuttuu
+Puhuja 3: perustuslakivaliokunnasta, että siellä kaikki
+Puhuja 3: profat toimittaa oman lausuntonsa
+Puhuja 3: eivätkä ne tiedä etukäteen mitä muut profat samasta asiasta sanoo.
+Puhuja 3: Jokainen antaa oman lausuntonsa,
+Puhuja 3: jonka
+Puhuja 3: perustuslakivaliokunnan jäsenet ja kansanedustajat kuulee
+Puhuja 3: ja sitten sen jälkeen tehdään johtopäillä Mun mielestä siihen pitäisi
+Puhuja 3: jollain keinoin lisätä se, että nämä proffat pystyisivät
+Puhuja 3: argumentoimaan
+Puhuja 3: toisiaan vastaan ja koska ainahan ei ole samaa mieltä näistä tulkinnoista,
+Puhuja 3: tavallaan tulisi myös jonkinlainen
+Puhuja 3: perustuslakiprofessoreiden
+Puhuja 3: yhteinen pohdiskelu tästä asiasta, mut kyllä mä nyt muuten
+Puhuja 3: se haikaillut
+Puhuja 3: perustuslakituomioistuimeen,
+Puhuja 3: ne
+Puhuja 3: ihan samat
+Puhuja 0: Okei, se on kyllä totta ja tavallaan mitä tää kaikki mun argumentit, että okei se on toiminut ja jee? No totta kai se on kauheasti kritiikkiä liittyen soteen ja muuta, mut Suomessa on tällainen
+Puhuja 3: lakien ennakkotarkistus
+Puhuja 3: ja sen takia perustuslakivaliokunta.
+Puhuja 3: Ideahan on se, että me tarkistaa ennen kuin se laki me tarkistaa ennen kuin laki säädetään
+Puhuja 3: ja sen jälkeen Suomessa on myös jälkikäteenrkastus
+Puhuja 3: siinä mielessä, että tuomioistuimet
+Puhuja 3: voi jos
+Puhuja 3: Suomessa on voimassa laki, joka on
+Puhuja 3: perustuslain vastainen, tuomioistuin voi siihen jälkikäteen reagoida,
+Puhuja 3: mutta jos tulis
+Puhuja 3: perustuslakituomioistuin,
+Puhuja 3: niin sehän että me eduskunta voisi säätää ihan mitä sattuu ja vasta jälkikäteen
+Puhuja 3: tuomioistuin sitten kommentois että vedikö tää putkea vai ei. Se riippuu tosi tyhmältä. Eikö ole parempi alusta
+Puhuja 3: lähtien asiat oikein?
+Puhuja 0: Hyvä, okei. Vielä ihan lyhyesti,
+Puhuja 0: koska käsittämättömistä
+Puhuja 0: teknisistä
+Puhuja 0: ongelmista huolimatta. Me ollaan saatu lähes täysimittainen lähetes aikaan tässä.
+Puhuja 0: Marko, me ollaan nyt molemmat Uudellamaalla sää Helsingin päässä ja minä täällä Uudenmaan pohjoislaitamilla
+Puhuja 0: Hyvinkäällä.
+Puhuja 0: Me ollaan nyt karanteenissa.
+Puhuja 0: Sinä et
+Puhuja 0: mennä Mikkeliin. Mä en saa mennä synnyinsilleni
+Puhuja 0: Ouluun enkä rakastamalleni
+Puhuja 0: Tampereelle.
+Puhuja 0: Miltä susta tuntuu olla
+Puhuja 0: hyljeksityistä
+Puhuja 0: hyljeksityin
+Puhuja 0: Suomessa?
+Puhuja 3: Minusta tässä
+Puhuja 3: kiehtovinta on se, että minä täällä Itä-Helsingissä
+Puhuja 3: ja sinä Hyvinkäällä
+Puhuja 3: me ollaan ensimmäisen kerran samaa jengiä.
+Puhuja 3: Onhan tämä nyt
+Puhuja 3: siihen, että
+Puhuja 3: keskustalainen
+Puhuja 3: paikallispoliitikko
+Puhuja 3: Silja Silvasti, joka on myös
+Puhuja 3: kulttuuriministerin
+Puhuja 3: avustaja, hän twiittasi tänään hauskasti, että
+Puhuja 3: pohti sitä että hänelle kepulaisena
+Puhuja 3: tähän asti elämä on ollut tosi tuskallista, mikä nyt on monelle kepulaiselle
+Puhuja 3: ihan arkipäivää, mutta se että kepulaisuuden
+Puhuja 3: ydin
+Puhuja 3: lähtee maakunnista
+Puhuja 3: keskustan puoluekokouksessa on
+Puhuja 3: kansallispuku marssi, missä marssitaan maakunnitaid,
+Puhuja 3: siellä on Varsinais-Suomen
+Puhuja 3: kepulaiset
+Puhuja 3: yhdessä porukassa ja sen alueen
+Puhuja 3: kansallispukuja ja Kainuun kepulaiset
+Puhuja 3: Lapin kepulaiset ja mitä näitä maakuntia nyt onkaan Etelä-Savo
+Puhuja 3: Mut eihän
+Puhuja 3: Uusimaa oo mikään oikea maakunta Ei kukaan oo
+Puhuja 0: ihan mahtava pointti, eihän tää oo mikään paikka tää
+Puhuja 3: Eihän tämä
+Puhuja 3: uusi maa ole ikinä ollut
+Puhuja 3: kenellekään uusimaalaiselle
+Puhuja 3: identiteetmisen
+Puhuja 3: kohde ja nyt me ollaan yhdessä täällä karanteenissa
+Puhuja 0: Se on jännä, siinä on ristiriita! Ja mun mielestä pointti
+Puhuja 0: siinä kansallis... Ei kun,
+Puhuja 0: maakuntalaulussa oli hyvä.
+Puhuja 3: Nyt meitä tosiaan harmittaa, kun meillä oli niin paljon teknisiä ongelmia ja alunperin
+Puhuja 3: me aamulla
+Puhuja 3: tätä lähetystä pohdittiin, niin meillä oli ideana kutsua Silja, tää kepulainen tänne
+Puhuja 3: paikalle ja hän kuulemma osaa laulaa Uudenmaan
+Puhuja 3: maakuntalaulun.
+Puhuja 3: Kukaan muu, joka Uudellamaalla ei? Ei ja sehän on ihan käsittämättömän
+Puhuja 3: vaikea, siinä on jotain ihmeellisiä rytvisiä muutoksia,
+Puhuja 3: sitä ei kukaan osaa maailmassa laulaa, mutta Silja oisko laulanut sen.
+Puhuja 3: Niin.
+Puhuja 0: Jotenkin tämä tekniikka ja naiset
+Puhuja 0: me ei.
+Puhuja 0: Marko, ihan lyhyesti tähän loppuun.
+Puhuja 0: Sitten kun
+Puhuja 0: olet parantunut sinun taudistasi, joka ei missään nimessä olla
+Puhuja 0: nimessä olla korona. Ehkä sitten uskallat ensimmäisen sherryn ottaa
+Puhuja 0: tuolla takaterassilla
+Puhuja 0: lämmittävässä kevätauringossa.
+Puhuja 0: Millä
+Puhuja 0: takaterassilla haetaan, niin kuin ei sulla ole.
+Puhuja 0: En tiedä missä te helsinkiläiset rentoudutte siivouskomerossa
+Puhuja 0: tai jossain, mutta siellä sitten istut
+Puhuja 0: ylösalaisen käydyn ämpärin päällä ja juot
+Puhuja 0: sherryä, niin
+Puhuja 0: millä jutuilla ajattelit viihdyttää
+Puhuja 0: ystäviä ja perheenjäseniä ja muita?
+Puhuja 3: Aloita sä kun mä unohdin nyt sen kirjan nimen mitä mä just luen.
+Puhuja 3: Mä tarkistan sen, aloita sä!
+Puhuja 0: Mä haluan suositella semmoista, tää on tosi spesifi, kukaan ei varmasti tottele mun suositusta,
+Puhuja 0: mutta on sellainen netti saittu kuin perfecloof piste com.
+Puhuja 0: Se on ihmisille, jotka harrastaa leivän leivontaa.
+Puhuja 0: Se on
+Puhuja 0: tavallinen Pekka, joka harrastelee
+Puhuja 0: kotona sämpylöiden pyörittelyä ja pistää ne pellille ja paistaa uunissa ja sitten ne ovat sille ensimmäisen puoli tuntia hyvänmakuisia ne sämpylät ja sen jälkeen ne ovat jotenkin semmoisia puisia kovia ja huonoja. Se on se perusleipominen.
+Puhuja 0: Siitä on sitten seuraava askel, että
+Puhuja 0: opettelet tekemään the New York Timesin
+Puhuja 0: kaksituhatta kuusi julkaisema
+Puhuja 0: No need
+Puhuja 0: pataleipää,
+Puhuja 0: joka paistetaan tuolla kattilassa ja siitä tulee ihan mahtavaa ja tulee semmoinen rapea kuori ja sä
+Puhuja 0: ihan ihmettelet,
+Puhuja 0: miten voit olla näin hyvä leipomaan no need bredä ja tälleen. Se on toinen taso. Sen jälkeen on joku kahdeksantoista
+Puhuja 0: eri tasoa ja huipulla on sitten
+Puhuja 0: sour-dow
+Puhuja 0: eli hapanleivän
+Puhuja 0: tekeminen eli sen, että itse kehittelet paikallisista pakattua,
+Puhuja 0: kehittelet
+Puhuja 0: paikallisista
+Puhuja 0: bakteerikannoista
+Puhuja 0: hapanleipäjuuren
+Puhuja 0: ja sen avulla leivot semmoisen tiäkkön hipsterileivän,
+Puhuja 0: jossa on isot ilmakuplat ja rapeekuori
+Puhuja 0: ja tiekö, niistä saa upeita Instagram-kuvia
+Puhuja 0: ja näin... Niin mä oon tässä näin koronakaranteeni
+Puhuja 0: aikana harrastanut tätä kun mä oon tehnyt oman taikinan juuren, kasvatellut sitä viikkokausia,
+Puhuja 0: muovannut bakteerikantaa,
+Puhuja 0: yöllä kolmelta herännyt ruokkimaan mun bakteereja
+Puhuja 0: ja kaikkea tällaista.
+Puhuja 0: Ja sitten kun mä nyt siitä leivon pikkuhiljaa leipiä, niin perfectlof
+Puhuja 0: piste com on sellainen saitti, josta löytyy kaikki:
+Puhuja 0: miten taittelet leivät sinne, että sinne jää niitä ihania ilmakuppia, miten partaveitsen terällä viiltelet sen leivän, että siitä tulee upean kuvauksellinen ja herkullisen näköinen? Ehdottomasti
+Puhuja 0: paras leivän leivontasaitti,
+Puhuja 0: mitä on löytänyt: perfectlof piste com ja caliman suositus.
+Puhuja 3: Joo, nyt mä sain tarkistettua
+Puhuja 3: kirjan nimen rupesin tuossa alkuviikosta
+Puhuja 3: lukemaan tämmöistä
+Puhuja 3: se on suhteellisen tuore kirja
+Puhuja 3: viime vuodelta
+Puhuja 3: nimeltä Say nothing
+Puhuja 3: Se
+Puhuja 3: kertoo Pohjois-Irlannista
+Puhuja 3: ja se on aivan huikean kiehtova kirja Se kertoo
+Puhuja 3: IRA:sta
+Puhuja 3: ja näistä muista terroristeista
+Puhuja 3: mutta siinä
+Puhuja 3: päästään todella lähelle ihmisiä, siinä kerrotaan
+Puhuja 3: yksittäisistä henkilöistä
+Puhuja 3: heidän elämäntarinasta
+Puhuja 3: Siinä on sellainen nuori, kaksi nuorta naista, tämmöinen siskos, kaksi
+Puhuja 3: siskoa jotka on
+Puhuja 3: päävastuussa
+Puhuja 3: tämmöisestä Lontoosta tehdyistä pommi-iskuista
+Puhuja 3: mutta se kerrotaan koko heidän elämäntarinansa yksityiskohdat
+Puhuja 3: siitä heidän perheestään
+Puhuja 3: ja ennen kaikkea siitä millaista elämä on ollut 60-luvun lopussa ja 70-luvun alussa Belfastissa ja sehän on ollut aivan järkyttävä
+Puhuja 3: Siis ihan
+Puhuja 3: huikean hieno kirja Say nothing Say nothing, onpa mielenkiintoista
+Puhuja 3: Mä
+Puhuja 3: en tiedä mistä se
+Puhuja 3: lähdepohja on, ainakin siinä on haasteita ihmisiä,
+Puhuja 3: mutta siinä kerrotaan esimerkiksi yksi traaginen tarina, miten
+Puhuja 3: se on
+Puhuja 3: seitsemän lapsen perhe,
+Puhuja 3: jossa isä on kuollut ja sitten
+Puhuja 3: siellä on äiti, joka vaan yhtenä päivänä
+Puhuja 3: viedään pois
+Puhuja 3: sen niin kuin Iiraan tyypit
+Puhuja 3: Hänen epäillään vasikoiden tai jotain muuta, mutta se äiti viedään pois, se katoaa
+Puhuja 3: ja lapset jää keskenään siinä, niistä vanhin on vissiin viisitoista ja nuorin on ihan
+Puhuja 3: vauva ja sitten siihen kerrotaan miten nämä
+Puhuja 3: keskenään koittaa selvitä siellä velfastissa missä on ammutaan koko ajan ja missä on täysi sotatila käynnissä ja nämä lapset asuu keskenään ja
+Puhuja 3: ja sitten ne jossain vaiheessa otetaan huostaan ja että viedään
+Puhuja 3: lastenkotiivisessa
+Puhuja 3: elämään aivan karseaa.
+Puhuja 3: Siis
+Puhuja 3: todella dramaattinen ja todella vaikuttava kirja.
+Puhuja 0: Okei, mutta onko tämä fiktiokirja vai? Faktaa faktaa. Okei, onpa mahtavaa.
+Puhuja 0: Meillä on aivan yliajalla, mutta haluan sanoa, että minulle pohjoisillannin tilanne ja The trablles ja Irlanninsiat muutenkin hyvin lähellä sydäntä, koska olen koko ikäni
+Puhuja 0: 13-vuotiaasta
+Puhuja 0: asti uskonnollisella
+Puhuja 0: tavalla suhtautunut Youtube
+Puhuja 0: eli U2-yhtyeeseen.
+Puhuja 0: Se on mun epäjumala.
+Puhuja 3: Heillähän on se viisikin, mikä sai niin sanotusti. Niin kyllä.
+Puhuja 0: U2 oli silloin kun aloin kuuntelemaan niin se oli ehkä kuulemista kuulleen bändi. Nyt se on semmoista boomer bullshittiä,
+Puhuja 0: mutta ei haittaa, koska Mona on mun epäjumala.
+Puhuja 3: Noniin!
+Puhuja 3: Näin.
+Puhuja 0: Olen hyvin pahoillani
+Puhuja 0: näistä teknisistä ongelmista.
+Puhuja 0: Korjataan ne kaikki ensi viikoksi
+Puhuja 0: todennäköisesti
+Puhuja 0: joko sille, että ostetaan
+Puhuja 0: Marialle aivan uusi nettiliittymä tai sitten me siirretään hänet johonkin, missä internet toimii
+Puhuja 0: Ilmeisesti Itä-Helsingissä ei.
+Puhuja 0: Mutta lupaamme parantaa.
+Puhuja 0: Tosi ikävää, että Maria ei pysynyt meidän kanssa loppuun asti, mutta ehkä hänellä jäi hyviä juttuja säästön
+Puhuja 0: ensi viikolla.
+Puhuja 0: Kiitos Marjo Junkkari!
+Puhuja 0: Kiitos Tuomas! Kiitos Marja Mannerille, joka ei siis ole tässä, mutta kiitos hänelle silti! Mun nimi on Tuomas Peltomäki, ja äänen ja kuvan ja kaiken muun mahtava meille tekee tällä viikolla Janne Elkki!
+Puhuja 0: Muistakaa lähettää meille palautetta uutisraportti
+Puhuja 0: ja kuullaan taas ensi viikolla!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin, Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

@@ -1,0 +1,415 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Merkos huurudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin ja livelähetykseen
+Puhuja 0: torstaina
+Puhuja 0: kaksikymmentäyksi.
+Puhuja 0: Marraskuuta
+Puhuja 0: kaksituhatta yhdeksäntoista. Minun nimeni on Tuomas Peltomäki.
+Puhuja 0: Ja kanssani täällä Sanomatalossa Helsingissä EU:ssa
+Puhuja 0: on politiikan toimittaja Marko Junkkari. Hei Marko. Moi.
+Puhuja 0: Ja myös sunnuntailiitteen toimittaja Maria Manner. Hei Maria. Hei, Tuomas.
+Puhuja 0: Ei läpäise tähän yhtään enempää tähän alkuun. Tämän viikon podcastissa keskustellaan lähinnä Suomen oikeustoimittajien
+Puhuja 0: kruunaamattoman
+Puhuja 0: kuningattaren eli
+Puhuja 0: Susanna Rainbootti jutuista.
+Puhuja 0: Sillä hän tekee aina kaiken
+Puhuja 0: kovan juristikaman.
+Puhuja 0: Sillä.
+Puhuja 0: Euroopan ihmisoikeustuomioistuin
+Puhuja 0: antoi syystä
+Puhuja 0: häpeällisen
+Puhuja 0: ja karmivan tuomionsa jutussa, jossa Suomesta turvapaikkaa hakenut ja ilman jäänyt Irakilaismies
+Puhuja 0: tapettiin välittömästi,
+Puhuja 0: lähes välittömästi hänen saavuttuaan takaisin Irakiin.
+Puhuja 0: Lisäksi
+Puhuja 0: puhumme suomea uhkaavista suurlakoista,
+Puhuja 0: kyllä, kapitalistin karvainen kärsään tunkeutunut
+Puhuja 0: viimein liian syvälle kunnon ihmisten taskuihin
+Puhuja 0: ja siksi postilaat tukijoiden aikovat ensi maanantaina laittaa koko Suomen kiinni. Mutta mistä johtuu Kroisosten ja muiden raharikkaiden teollisuuspahattojen
+Puhuja 0: kyltymätön
+Puhuja 0: ahneus juuri nyt toveri Marko Junkkari selittää?
+Puhuja 0: No niin.
+Puhuja 0: Ja lisäksi keskustelemme jälleen
+Puhuja 0: sananvapausasioista,
+Puhuja 0: kun Suomen ylimmät oikeustoimijat eli valtakunnan syyttäjä Raija Toiviainen
+Puhuja 0: ja oikeuskansleri
+Puhuja 0: ja Suomen Kuule mies,
+Puhuja 0: -yhdeksänkymmentäkuusi-palkinnon voittaja Tuomas Pöysti
+Puhuja 0: ovat tällä viikolla ottaneet kantaa sananvapauden tilan Suomessa. Lisäksi kantaa otti kansanedustaja
+Puhuja 0: Pilkka-Pekka
+Puhuja 0: Petelius, joka tänään
+Puhuja 0: pyysi anteeksi vanhaa nunnukan-onukalla
+Puhuja 0: lailla
+Puhuja 0: sketsiään jostain ysärin alusta.
+Puhuja 0: Lopuksi,
+Puhuja 0: kuten aina, hyviä keskustelunaiheita pitkien epämukavien
+Puhuja 0: hiljaisyyksien
+Puhuja 0: varalle.
+Puhuja 0: Lyhyt
+Puhuja 0: ilmoitusasia,
+Puhuja 0: eli
+Puhuja 0: tervetuloa pikkujouluun
+Puhuja 0: niille ihmisille, joille sähköposti on lähtenyt. Niitä on lähtenyt sataneljäkymmentä
+Puhuja 0: kappaletta.
+Puhuja 0: Eli tulkaa te, jotka olette sähköpostin saaneet.
+Puhuja 0: Yksi joutui heti perään perumaan, koska olin lasten
+Puhuja 0: joulujuhla tapahtuma samaan aikaan.
+Puhuja 0: Ymmärrämme sen.
+Puhuja 0: Sitten kun näitä peruuntumisia tulee, niin lähettelen jonossa oleville ihmisille
+Puhuja 0: sähköpostia. Eli neljäsataakaksitoista
+Puhuja 0: tervetuloa pikkujouluihin
+Puhuja 0: te, jotka olette saaneet sähköpostin
+Puhuja 0: minulta.
+Puhuja 0: Jos
+Puhuja 0: ette löydä sitä, niin katsokaa roskapostika lantio.
+Puhuja 0: Okei, Euroopan ihmisoikeustuomioistuin
+Puhuja 0: antoi Suomelle ja tarkemmin Suomen maahanmuuttovirastolle,
+Puhuja 0: jonka nykyinen titteli on hyvin kestopotyylinen
+Puhuja 0: Migri
+Puhuja 0: tukkapöllyä,
+Puhuja 0: tapauksessa, jossa Migri oli käännyttänyt irakilaisen
+Puhuja 0: turvan
+Puhuja 0: turvapaikanhakijan takaisin kotimaahansa ja jossa tämä kolme viikkoa paluu jälkeen tapettiin.
+Puhuja 0: Euroopan
+Puhuja 0: ihmisoikeustuomioistuin
+Puhuja 0: päätti torstaina,
+Puhuja 0: että Suomi on rikkonut ihmisoikeussopimuksen
+Puhuja 0: ydinartiklaa
+Puhuja 0: eli toista ja kolmatta
+Puhuja 0: artiklaa. Mutta ennen kuin mennään pykäliin, niin Marja,
+Puhuja 0: haluatko kertoa meille, että mikä se alkuperäinen
+Puhuja 0: tarina ja tapaus siinä taustalla on tämän...
+Puhuja 0: Jo kuolleen irakilaismiehen
+Puhuja 2: tapauksessa? Joo. Luin itse asiassa tuota päätöstä
+Puhuja 2: tänä aamuna
+Puhuja 2: uudestaan. Kyseessä oli tämmöinen sukunimi muslimi
+Puhuja 2: mies, Irakilainen, joka tuli Suomeen kaksituhatta viisitoista,
+Puhuja 2: haki turvapaikkaa.
+Puhuja 2: Hänen tarinansa oli sellainen, että hän oli töissä Sadan Husseinin armeijassa
+Puhuja 2: myöhemmin yhdysvaltalaisten palveluksessa. Ja sen jälkeen Irakin sisäministeriössä, jos hän oli tutkinut rikoksia ja ihmisoikeusloukkauksia,
+Puhuja 2: joista monet
+Puhuja 2: epäillyistä olivat hänen shiialaisten aseryhmien jäseniä.
+Puhuja 2: Tämän miehen henkeä oli uhattu.
+Puhuja 2: Hänet oli yritetty tappaa kahdesti yhden kerran ampumalla, toisen kerran automilla. Hän pelastui
+Puhuja 2: täpärästi. Muistaakseni se oli ampumalla.
+Puhuja 2: Kaiken tämän Migri
+Puhuja 2: hyväksyi
+Puhuja 2: sitten tosiasiana. Tai kun mies tuli Suomeen ja hankki turvapaikkaan, niin Migri totesi, että oli kiistatonta.
+Puhuja 2: Tietysti tämä ajoitus täytti vähän hassulta. Tosin sinänsä,
+Puhuja 2: mikä tahansa oli syy, niin ajattelen, itse uskon
+Puhuja 2: sellaisen tekopyhyyden siviilisoiva
+Puhuja 2: vaikutus.
+Puhuja 2: Minusta sitä ei pidä väheksyä. Se voi ohjata
+Puhuja 2: ihmiskuntaa parempaan suuntaan.
+Puhuja 2: Tuli se tavallaan valtakunnan
+Puhuja 2: syyttäjän
+Puhuja 2: anteeksipyyntö oli kuitenkin ymmärtääkseni
+Puhuja 2: saamelaiset suhtautui siihen.
+Puhuja 0: Saavaiset suhtautui tähän nyrpistellen
+Puhuja 0: ja silleen, että
+Puhuja 0: se on hyvä. Onneksi pyys anteeksi. Olipa kivasti tehty. Hyvä homma. Mutta tästä virissu keskustelu, että miksei hän pyydä romaneilta anteeksi.
+Puhuja 0: No varmaan varmaan jossain vaiheessa
+Puhuja 0: romaneiltakin.
+Puhuja 0: Anteeksi, hyvin todennäköisesti
+Puhuja 0: hänellä ei ollut tällaista ajatusta takana, että okei, ketä kaikkia olen loukannut.
+Puhuja 0: Vaan että okei, saamme tunnetuin sketsi edelleen pyörii tuolla tubessa, edelleen viitataan jatkuvasti. Nyt hän pyytää anteeksi, koska tämä keskustelu on virinnyt.
+Puhuja 0: Valtakunnan syyt täältä tuli aika pureskeltua ja pohdittua kamaa. Nyt sen lisäksi hän on kansanedustaja ja hän ei ole enää mikään pelkkä televisionpelle. Minä
+Puhuja 0: haluaisin
+Puhuja 0: suhtautua
+Puhuja 0: nyrpistellen tähän, mutta se on hienosti tehty kaiken kaikkiaan. Hyvä
+Puhuja 1: pysä. Kiinnostavaa nähdä mitä Yle tekee. Sehän on Yle Areenassa, ja siellä on nyt jo ymmärtääkseni tekstit, joissa sanotaan että nämä
+Puhuja 1: sketsit ovat rasistisia.
+Puhuja 1: Ja
+Puhuja 1: perustellaan perustellaan että ne ovat täällä julkisia sen takia, koska tässä näytetään millaista sketsivihde oli kahdeksan.
+Puhuja 1: Saa nähdä muuttaako tämä nyt sitä? Poistotaanko yleensä, joka on aika herkkä näissä asioissa? Ja sitten päästään...
+Puhuja 0: Tosi
+Puhuja 0: monesti kun puhutaan nykyajan
+Puhuja 0: kysymyksistä, niin siinä on jännästi
+Puhuja 0: kaksi tasoa, jotka ovat melkein päinvastaisia. On se, että miten pitää toimia ja miten periaatteessa pitää toimia. Tässä on mun mielestä niin, että miten pitää toimia on silleen, että jos sä oot loukannut jotain, niin sä pyydät anteeksi ja niin pitää tehdä.
+Puhuja 0: Mutta tässä on mun mielestä periaatteellinen
+Puhuja 0: taso, että jos sä teet huumoria, jos sä teet sketsiviihdettä,
+Puhuja 0: niin älä nyt helvetissä
+Puhuja 0: ikinä pyydä anteeksi mitään, koska se täytyy ottaa sen huumorin...
+Puhuja 0: Se on paljon lähempänä musiikkia
+Puhuja 0: kuin
+Puhuja 0: sanotaan sanomalehteä tai journalistista
+Puhuja 0: artikkelia.
+Puhuja 0: Eli se, että vaadittaisiin jo... Joku tekee biisin, jolla se ilmaisee
+Puhuja 0: jotain, jolla se
+Puhuja 0: käsittelee vaikka vihaa tai
+Puhuja 0: käsittelee
+Puhuja 0: omia alhaisia puoliaan
+Puhuja 0: sillä biisillä, niin ei kukaan menisi silleen, että no niin, toi sun biis... Siinähän puhutaan rasismista.
+Puhuja 0: Kamalaa, sun pitää pyytää anteeksi tuota biisiä. Ei kukaan kuvittelisi
+Puhuja 0: Mutta itse asiassa komedia on paljon lähempänä tätä ääripäätä. Se on taidemuoto. Mutta en tiedä.
+Puhuja 2: Jos... Tai olisit tehnyt
+Puhuja 2: komediaa jo myöhemmin,
+Puhuja 2: tai taisit tietää, että esimerkiksi
+Puhuja 2: saamelaisia lapsia on kiusattu sen takia vuosia koulussa.
+Puhuja 2: Niin,
+Puhuja 1: musta kiusallista se, että toihan on sinänsä itsekäs veto. Hän nyt varmistaa, että hän ei saa tästä rapsuja. Mutta kyllähän hänen on tiennyt
+Puhuja 1: monta vuotta, että näitä saamelaislapsia on kiusattu tämän takia. Että jos hän on kansanedustaja
+Puhuja 1: ja
+Puhuja 1: tavallaan
+Puhuja 1: koettaa näyttää esimerkkiä, niin miksi se pyytää sitten tähän. Okei, ja mä luulen, että kansanedustajuus
+Puhuja 0: varmasti liittyy tähän. Mutta ei se asia ole noin yksinkertainen.
+Puhuja 0: Vaikka saamelaislapsilla on ollut hirveää ja vaikka sen faktiset seuraukset
+Puhuja 0: heille on ollut pahoja,
+Puhuja 0: se on väärin ja
+Puhuja 0: se on huono. Ja mä toivoisin, että sitä sketsejä ei olisi ikinä tehty ja toivoisin, että saamelaisilla asiat olisi ollut aina paljon paremmin.
+Puhuja 0: Mutta se ei poista sitä, että ei se kysymys ole niin mustavalkoinen, että jos sä olet sketsiviihdekoomikko,
+Puhuja 0: niin sitten sä lähdet perumaan sun kolmekymmentä vuotta vanhoja juttuja. Ihan komedian kirjoittajana, kirjoittajana,
+Puhuja 0: siinä tulee vähän kylmä reunassa, että mihin tämä johtaa mun kannalta, mitäs nämä on mun muut jutut, miten pystyn tästä eteenpäin tulevaisuudessa
+Puhuja 0: toimimaan ammatillisesti, miten mun tv-uran käy, miten suomalaisen tv-viihteen käy,
+Puhuja 0: teenkö karhunpalveluksen
+Puhuja 0: pyytämällä
+Puhuja 0: anteeksi, teenkö karhunpalveluksen
+Puhuja 0: kaikille muille
+Puhuja 0: ammattikunnan tyypeille, onko tämä meidän ammattikunnan etiikan kannalta hyvin kyseenalaista lähteä meidän ilmaisunvapautta
+Puhuja 0: kaventamaan anteeksi pyytelemään.
+Puhuja 0: Edelleen pitää pyytää anteeksi ja hyvä, että pyysi. Se oli hienosti tehty ja aivan oikein. Mutta kysymys ei sillä periaatteen tasolla ole mitenkään yksinkertainen.
+Puhuja 1: Näin on.
+Puhuja 2: Kyllä siis joo. Asiat eivät ole yksinkertaisia.
+Puhuja 2: Johtopäätös.
+Puhuja 2: Ei totta. Siis varmaan taiteessa, viihteessä
+Puhuja 2: sananvapauden, että on vähän toisenlaiset kuin vaikkapa
+Puhuja 2: esimerkiksi... Jos sen ulkopuolella,
+Puhuja 0: mutta...
+Puhuja 0: Aiemmin tässä kuussahan
+Puhuja 0: julkaistiin
+Puhuja 0: kaikista maailman instituutioista
+Puhuja 0: kunnallisalan
+Puhuja 0: kehittämissäätiön
+Puhuja 0: tilaama Gallup, jossa kysyttiin suomalaisten suhtautumista
+Puhuja 0: sananvapauskysymyksiin.
+Puhuja 0: Siellä oli ihan selkeästi silleen, että
+Puhuja 0: vihreässä ajattelevat
+Puhuja 0: kansalaiset, niin he olisivat valmiita
+Puhuja 0: kovasti rajoittamaan
+Puhuja 0: sananvapautta
+Puhuja 0: Suomessa. Ja sitten taas perussuomalaiset
+Puhuja 0: olisivat päinvastoin
+Puhuja 0: valmiita laventamaan sitä. Ja tämä nyt ei välttämättä ymmärrä... Ei kun siis anteeksi, yllätä ketään,
+Puhuja 0: mutta tämmöiset ovat ne jakolinjat.
+Puhuja 0: Tästä johtuen Suomen uutisesta esimerkiksi, eli Persoientää lehti, jota Matias Turkkila pää ihmettelee,
+Puhuja 0: niin heillä tuli todella pitkään. Mun mielestä vähän niin kuin paranoidi kuuloinen kirjaus
+Puhuja 0: tänään
+Puhuja 0: julkaistu itse asiassa. Luen täältä pätkän, koska tässä aika hyvin tiiviisti tulee
+Puhuja 0: tämä perussuomalaisten
+Puhuja 0: siiven ajattelu esille. Eli Turkkila kirjoittaa tällä tavalla:
+Puhuja 0: Kevät kaksituhatta yhdeksäntoista.
+Puhuja 0: Pääministeri Antti Rinteen tulipunainen
+Puhuja 0: hallitus aloittaa. Seuraa joukko kummallisia ulostuloja. Pienin askelin tavallisten ihmisten asioihin kajotaan. Kouluun, autoiluun, ruokaan. Vihreä aate etenee. Kirkon asema käy yhä tukalammaksi.
+Puhuja 0: Toisinaan ajattelijoille alkaa ropista
+Puhuja 0: kuulustelututsuja. Vihreänä kuntapoliitikkona
+Puhuja 0: äskettäin toiminut rikoskomisario
+Puhuja 0: alkaa johtaa rikostutkintaa, jonka kohteena ovat kansanedustajat Juha Mäenpää Husseinalataaja
+Puhuja 0: Päivi Räsänen.
+Puhuja 0: Tapaukset ovat erittäin poikkeuksellisia.
+Puhuja 0: Räsänen on entinen sisäministeri, siis poliisiorganisaatiojohtaja.
+Puhuja 0: Kansanedustaja Sebastian Tynkkystä vastaan on jo aiemmin nostettu syitä. Seuraavaksi vihapuheen jahtaamisen varjolla valtakunnan syyttäjä rajatoiviainen
+Puhuja 0: määrää Päivi Räsäs sitä toisen esitutkinnan.
+Puhuja 0: Ppapapapa.
+Puhuja 0: Vielä paljon rajumpaa on tulossa. Valtakunnan syyttää rajatoiveen ja sen Räsässyytöksen myötä julkiseen keskusteluun tungetaan uusi ajatus. Enää rangautuvuuden kannalta ei olisikaan väliä, onko kirjoitus
+Puhuja 0: julkaistu netissä eilen vai vuosikymmeniä sitten.
+Puhuja 0: Niin kyllähän tuo persunäkökulmasta
+Puhuja 0: saa kuulostaa aika
+Puhuja 0: uhkaavalta
+Puhuja 0: tämän kehityskulun.
+Puhuja 2: Siis tekijä tällä kehityskululla viittaat nyt siihen, että... Näihin sananvapautta
+Puhuja 0: kohtaan asetettuihin
+Puhuja 0: linjauspyrkimyksiä,
+Puhuja 0: sanotaanko tällä tavalla.
+Puhuja 0: Mitä olette mieltä persoonäkökulmasta?
+Puhuja 2: Tässä on
+Puhuja 0: Nyt pitää miettiä.
+Puhuja 0: Tuomas Pöystyi kommentoi juuri tätä. Häneltä kysyttiin, että voiko olla näin, että viisitoista vuotta vanha juttu, niin se yhtäkkiä nyt, kun ajat on muuttunut ja on paljon puritaanisempi
+Puhuja 0: menoja, niin hurtti huumori ei olekaan enää
+Puhuja 0: kaikkien mielestä hyvä asia, niin voiko siitä lähteä viemään ihmisiä roskikseen.
+Puhuja 0: Mua jännitti se, että perussuomalaiset
+Puhuja 0: Pöystin
+Puhuja 0: haastattelun,
+Puhuja 0: he spinnoivat sitä. He spinnoivat sen niin päin, että Pöysti on sanonut, että joo, kannattaa vanhat kirjoitukset ottaa äkkiä pois netistä. Näin kirjoitti Suomen uutiset. Kun taas, jos lukee sen Aamulehden Pöystien haastattelun,
+Puhuja 0: niin Pöysti kyllä sanoo siinä, että hän suhtautuisi hyvin... Hän käyttää sanoen pidättyväisesti
+Puhuja 0: ja harkiten
+Puhuja 0: siihen, että jos lähdetään vanhoja kirjoituksia
+Puhuja 0: nykylainsäädännön
+Puhuja 2: silmissä arvioimaan. Tosin Nonnukan palatakseni, että sehän on ollut saatavilla, mutta sillä saatetekstillä, että nämä on rasistisia. Tämä on esimerkki siitä, mitä Sketsivideo on ollut. Onhan
+Puhuja 2: meillä joku mindkamflissa
+Puhuja 2: saatavilla, vaan se riippuu siitä kontekstissa, missä sitä siteerataan.
+Puhuja 2: Ei se pelkästään mene, että on joku historiallinen... Mutta nyt mennään
+Puhuja 0: Mutta nyt mennään eteenpäin. Hei, mitäs me saamelaiset juo?
+Puhuja 0: Koska aion tehdä semisti rasistisen juonnon tähän väliin.
+Puhuja 1: Älä tee.
+Puhuja 0: Joikataksenne, nunnuka-lauluja.
+Puhuja 0: Ja sitten siinä ympärillä on Twitterin saamelaisienkin kuuntelemassa
+Puhuja 0: teidän juttuja. Millaisia jutui lähetä ajattelitte?
+Puhuja 1: Haluaisin kehua
+Puhuja 1: viime
+Puhuja 1: viikolla
+Puhuja 1: loppuun
+Puhuja 1: kirjan.
+Puhuja 1: Nimi on Deep State,
+Puhuja 1: ihan tuore kirja. Sen on kirjoittanut
+Puhuja 1: toimittajakirjailija
+Puhuja 1: James Bast
+Puhuja 1: stuward.
+Puhuja 1: Tämä
+Puhuja 1: James Bas stuward on mun yksi...
+Puhuja 1: Olen aina ihana tehdä juttuja ja se on tehnyt
+Puhuja 1: mun mielestä maailmanhistorian
+Puhuja 1: hienoimmista
+Puhuja 1: talouspuolen
+Puhuja 1: non fiction kirjoista, sellainen meidän Disney Wars, jossa käy hyvin yksityiskohtaisesti
+Puhuja 1: läpi Disney-yhtiöiden
+Puhuja 1: sisäisiä valtataisteluita.
+Puhuja 1: Hän on tämän amerikkalaisen kärpäsenä
+Puhuja 1: katossa kerronnan yksi mestareista. Eli kun kirjaa
+Puhuja 1: lukisi, niin se on ihan kuin lukisi fiktiota. Eli tuntuu että siellä on kaikki vuorosanat ja siellä pääsee tosi iholle näissä tapahtumissa.
+Puhuja 1: Deep State kertoo
+Puhuja 1: lähinnä
+Puhuja 1: tästä James Cowanista, tämä
+Puhuja 1: FBI:n entinen päällikkö, joka sai kenkään.
+Puhuja 0: Olet lukenut James Cowansta varmaan kahdeksan kirjaa. Se on kiehtova hahmo.
+Puhuja 1: Se käydään läpi hyvin yksityiskohtaisesti
+Puhuja 1: ensinnäkin se, mitä hän teki
+Puhuja 1: tässä Hillary Clintonin
+Puhuja 1: näissä sähköpostisähläyksissä
+Puhuja 1: siinä, että Hillary Clinton oli käyttänyt
+Puhuja 1: ei virallista serveriä vaan omaa serveriää myös virallisten sähköpostien lähettämiseen,
+Puhuja 1: missä hän ensin teki
+Puhuja 1: asian
+Puhuja 1: eteenpäin viemättä
+Puhuja 1: jättämispäätöksen ja sitten palasikin, että hän avasi uudestaan just ennen vaaleja.
+Puhuja 1: Se oli yksi syy, miksi
+Puhuja 1: hävisi hävisi tämän vaalin.
+Puhuja 1: Ja sen jälkeen tämä hänen suhteensa
+Puhuja 1: Trumppiin.
+Puhuja 1: Ja sitten se kertoo siellä
+Puhuja 1: FBI:n sisällä, kun siellä oli nämä kaksi
+Puhuja 1: FBI:n tutkijalla keskenään suhde ja heidän keskinäiset
+Puhuja 1: tekstiviestit paljastettiin myöhemmin. Ja sitähän Trump edelleen jauhaa ja yksi hänen keskeinen motio... Sanohan nyt tämä olla? Siitä, että
+Puhuja 1: FBI
+Puhuja 1: on nevertrampilainen.
+Puhuja 1: On nämä kaksi tyyppiä,
+Puhuja 1: jotka keskenään toivoivat ennen vaaleja. Toivottavasti Trumpia ei valita, ja ne tekstarin sitten paljastui.
+Puhuja 1: Mutta siis aivan huikea kirja, ja siinä päästään
+Puhuja 1: FBI:n
+Puhuja 1: sisälle seuraamaan, että
+Puhuja 1: millaista
+Puhuja 1: angstia ja ahdistusta tämä kaikki on aiheuttanut siellä. Se on instituutioon
+Puhuja 1: olemassa ollut vaarassa tässä. Se uskottavuus Aika moni johtaja. Se on aivan loistava kirja. Mielenkiintoista.
+Puhuja 0: Eli Deep state ja kirjoittaja
+Puhuja 0: James B. Styer.
+Puhuja 0: Ja tästä eteenpäin nämä meidän suosittelut tulevat aina linkkeinä aina tähän jakson kuvaukseen.
+Puhuja 0: Siinä äppissä swaippaatte sinne, missä on jakson kuvaus, niin siellä on linkit. Löydätte sieltä.
+Puhuja 2: Ja myös Twitterin yritän muistaa laittaa. Maria. Tämä ei lohduta ketään, joka on sen Lapin tulilla.
+Puhuja 2: Koska aion suositella Brahen kentän tekojää,
+Puhuja 2: niin huomasin aamulla riemuukseni,
+Puhuja 2: että se on auki.
+Puhuja 2: Siellä on iso hieno jääkone.
+Puhuja 2: Niin viristävältä tässä pimeydessä, kun se oli valkoinen ja kaunis ja suuri kenttämät, että tuossa on palanen talvea. Eli Brahn kentälle pääsee... On varmaan muuallakin jääkentät. Systeeeltä
+Puhuja 1: Systeeintä muun muassa Helsingissä on se, että
+Puhuja 1: jääkentät
+Puhuja 1: eivät jäähdytetä säätilan tai lämpötilan mukaan vaan kalenterin mukaan.
+Puhuja 2: Niin. Se höyrysi upeasti
+Puhuja 2: alkuviikosta,
+Puhuja 2: kun suihkutettiin.
+Puhuja 0: Mulla on mahtava. Oon nimittäin löytänyt uuden kirjailijan.
+Puhuja 0: Sitä tapahtuu nykyään aika harvoin. Joskus löytää,
+Puhuja 0: että vau. Osaa tyyppi kirjoittaa ja vau, mitkä aiheet ja herra jee. Ja sitten se on kirjoittanut kymmenen
+Puhuja 0: kirjaa Kaikki vaikuttaa ihan sairaan lupaavilta.
+Puhuja 0: Tällainen tyyppi kuin Simon Winchester,
+Puhuja 0: brittiläinen tyyppi asuu kyllä nykyään Jenkeissä. Guardiani entinen toimittaja, mutta siis ollut jo neljäkymmentä vuotta kirjailijana. Aloin lukea tällaista kirjaa kuin The Professor and the Mandman, a tail of Murder insänity and the making of the Oxford English Dictionary.
+Puhuja 0: Kirja on huikea.
+Puhuja 0: Spoilaamatta
+Puhuja 0: mitään, niin se alkaa tällä tavalla. Että tällainen
+Puhuja 0: englannin sanakirjan
+Puhuja 0: päätoimittaja,
+Puhuja 0: joka on myös Oxfordin
+Puhuja 0: yliopiston professori,
+Puhuja 0: niin 1800-luvun lopussa.
+Puhuja 0: Hän on tehnyt tätä sanakirjaa ja sitä tehdään silleen, että hän päätoimittaja sitä. Ja sitten hänellä on avustajia,
+Puhuja 0: jotka
+Puhuja 0: kirjoittelee niitä sanoja ja niiden merkityksiä. Ne on silleen vaikka, että Murdor. Ja sitten siinä on,
+Puhuja 0: että tarkoittaa tämmöistä
+Puhuja 0: harkittua toisen ihmisen laitonta
+Puhuja 0: hengiltä ottamista.
+Puhuja 0: Ja sitten siinä käydään läpi, että
+Puhuja 0: Amerikassa on myös 1st degree m
+Puhuja 0: Ja sitten se lähestyy kirja jotain juhlapainosta tai jotain tälleen. Ja sitten hän ajattelee, että okei, no nyt hän haluaa, että nämä kaikki tämän avustajat saa kunnian
+Puhuja 0: mittavasta työstään. Ja siellä avustajien joukossa on yksi kirkkaasti ylitse muiden. Tällainen
+Puhuja 0: Minorin sanat sinne sanakirjaan. Mutta Minorin on kirjoittanut kymmeniätuhansia sanoja sinne sanakirjaan. Aivan uskomaton hahmo täällä sanakirjassa kenen keskellä.
+Puhuja 0: Sitten he sopivat, että nyt viimekin haluaa tulla tapaamaan
+Puhuja 0: tämmöiset hevosvankkurit ja siellä on kuljettaja ja se lähtee viemään häntä. Ja sitten aika pitkän matkan, kunnes saavutaan puistotielle.
+Puhuja 0: Puistotien
+Puhuja 0: päässä on semmoinen punatiilinen,
+Puhuja 0: valtava kartano.
+Puhuja 0: Sitten hänet ohjataan kartanon sellaiseen kirjastohuoneeseen. Siellä on
+Puhuja 0: hyvin elegantin ja
+Puhuja 0: fiksun näköinen, harmahtava
+Puhuja 0: mieshenkilö odottaa häntä.
+Puhuja 0: Sanakirjanpäätoimittaja
+Puhuja 0: aloittaa
+Puhuja 0: ylistyspuheenvuoron,
+Puhuja 0: että
+Puhuja 0: viimeinkin tapaamme ja
+Puhuja 0: teidän työnne on mittaamaton englannin kielen kannalta ja blaa blaa blaa blaa ja näin ja näin. Sitten se rosena, että
+Puhuja 0: anteeksi, te olette erehtynyt,
+Puhuja 0: että minä en ole se ihminen, ketä te
+Puhuja 0: yritätte tavoittaa ducter
+Puhuja 0: minor.
+Puhuja 0: Minä
+Puhuja 0: olen vankimielisairaalajohtaja
+Puhuja 0: ja Ducter minor on potilaamme täällä.
+Puhuja 0: Ja sitten siitä alkaa se tarina tästä pienestä kuvauksesta.
+Puhuja 0: Ja sitten se kirittää aivan huima. Se vie niin täysin sinne 1800-luvun loppuun. Tiiätkö, miten tuntuu, että kun se tyyppi rupeaa sairastumaan
+Puhuja 0: psykoosiin englannissa
+Puhuja 0: pikkuhiljaa.
+Puhuja 0: Se kirja on niin täynnä, että aivan uskomatonta kamaa.
+Puhuja 0: Suuresti
+Puhuja 0: suosittelen. Ilmestyy myös elokuvana, tai ilmestyi elokuvana tänä vuonna. The Professor and the Madman atteil of myöder insänity and the making of the Oxor English Dctionary.
+Puhuja 0: Siinä kaikki tältä erää. Kiitos, Marko Junkkari. Kiitos. Kiitos, Marja Manner. Kiitos.
+Puhuja 0: Äänen videon kaiken mahtava ja meille tekee tällä viikolla Kristiina Marttinen.
+Puhuja 0: Me kuullaan taas ensi viikolla. Mun nimi on Tuomas Pelmäki. Me kuullaan taas ensi viikolla.
+Puhuja 0: Moikka!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, niin mä luulin, että mä lähtisin selvittämään
+Puhuja 0: kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun
+Puhuja 0: Kaveroni taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, Ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greatothunberg
+Puhuja 0: ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

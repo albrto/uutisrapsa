@@ -1,0 +1,452 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
+Puhuja 0: miljardit.
+Puhuja 0: Helsingin
+Puhuja 1: Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Utiraportti-podcastiin
+Puhuja 0: torstaina
+Puhuja 0: yhdeksän.
+Puhuja 0: P:nä marraskuuta vuonna kaksituhatta
+Puhuja 0: kaksikymmentä. Minun nimeni on Tuomas Pelmäki
+Puhuja 0: ja kanssani täällä
+Puhuja 0: podcast-studiossa
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: toimituksessa Helsingin
+Puhuja 0: kaupungissa, Sanomatalon nimisessä rakennuksessa. Siellä ovat Helsingin Sanomien politiikan toimittaja Marko Junkkari. Hei Marko. Hei.
+Puhuja 0: Mitä
+Puhuja 0: sulle kuuluu?
+Puhuja 2: Olen siis etätöissä ja tulin käymään Sanomatalossa ja tuntuu todella oudolta olla tästä.
+Puhuja 0: Sain muuten viimeksi kiitosta siitä, että en aloittanut
+Puhuja 0: podcastia tervehtimällä sinua ensin, vaan Mariaa ensin. Mun piti tehdä se nyt tälläkin kertaa, mutta vähän meni. Nimittäin
+Puhuja 0: meillä on mukana myös Suljetaan toimittaja Maria Manner.
+Puhuja 0: Hei Marja!
+Puhuja 1: Hei Tuomas!
+Puhuja 0: Mutta kuten ihmiset ehkä huomaavat,
+Puhuja 0: niin se syy miksi tervehti Mariaa toiseksi on se, että Maria ei ole tässä huoneessa vaan hän on tuolla muutaman
+Puhuja 0: huoneen päässä,
+Puhuja 0: nimittäin internetissä ja etäyhteydellä
+Puhuja 0: osallistuu tähän podcast-nauhoitukseen.
+Puhuja 0: Mistä johtuen livelähetykseen
+Puhuja 0: tulee vähän tämmöinen purkkinen
+Puhuja 0: bittiääni,
+Puhuja 0: mutta
+Puhuja 0: korjataan se,
+Puhuja 0: meillä Kristiina Marttinen
+Puhuja 0: äänivelhomme tuolla lasin takana, niin hän korjaa sen äänen sitten lähetetyn
+Puhuja 0: ahdtuksi. Näin, tämä oli tällainen pieni tekninen ilmoitusasia.
+Puhuja 0: Tämän viikon podcastissa
+Puhuja 0: keskustellaan
+Puhuja 0: Emmanuel Macronista, joka on Ranskassa tapahtuneiden terroristihyökkäyksen
+Puhuja 0: jälkeen ajautunut totaalisotaan
+Puhuja 0: muslimi
+Puhuja 0: kiihkoilijoiden,
+Puhuja 0: mutta myös yhdysvaltalaisen
+Puhuja 0: median kanssa
+Puhuja 0: ja samalla
+Puhuja 0: jotenkin häkellyttävästi
+Puhuja 0: tuottanut erittäin
+Puhuja 0: erinomaista ja hyvää keskustelua siitä, että mitä tarkoittaa olla eurooppalainen
+Puhuja 0: tässä myllertävässä
+Puhuja 0: maailmassa, jossa kaikki on kuohuntaa ja polarisoimista
+Puhuja 0: keskustelemme
+Puhuja 0: Macronin
+Puhuja 0: ristiretkestä
+Puhuja 0: varsinkin Financial Times
+Puhuja 0: ja The New York Timessia
+Puhuja 0: vastaan.
+Puhuja 0: Myös puhumme koronavirustilanteesta,
+Puhuja 0: joka elää sekuntisekunnilla
+Puhuja 0: vähän epäreilusti. Tällä hetkellä STM ja
+Puhuja 0: hallituksen virkamiehet ovat pitämässä
+Puhuja 0: tiedotustilaisuutta,
+Puhuja 0: jossa kertovat, mikä on
+Puhuja 0: meininki Suomessa.
+Puhuja 0: Näyttää siltä, että Helsinki ja Uusimaa ovat liukumassa
+Puhuja 0: tai ovat jopa astuneet
+Puhuja 0: tällaiseen leviämisvaiheeseen,
+Puhuja 0: mutta
+Puhuja 0: nämä ovat aivan tuoreita tietoja eli meillä
+Puhuja 0: ei viimeisintä tietoa tämän podcastin nauhoitettaessa
+Puhuja 0: ole.
+Puhuja 0: Mutta muutama sana
+Puhuja 0: tämänhetkisestä
+Puhuja 0: tilanteesta.
+Puhuja 0: Sitten kysytään, että onko
+Puhuja 0: Suomi syöksymässä rotkoon
+Puhuja 0: koronavirustilanteen
+Puhuja 0: kanssa ainakin Helsingin osalta sillä aikaa, kun pääministeri Sanna Marin kiertää Euroopan silmää tekevien pöydissä
+Puhuja 0: leuhkimassa
+Puhuja 0: Suomen vähäisillä
+Puhuja 0: koronatartuntamäärillä.
+Puhuja 0: Mistä
+Puhuja 0: keskustelemme siitä?
+Puhuja 0: Marialla on ehkä tähän avartavaa
+Puhuja 0: sanottavaa.
+Puhuja 0: Ja vielä
+Puhuja 0: keskustelemme kunnallisvaaleista,
+Puhuja 0: jotka
+Puhuja 0: tunnusetusti
+Puhuja 0: myös ulkomailta myöten tiedetään
+Puhuja 0: ja
+Puhuja 0: ilmestymisen jälkeen viime viikolla Jussi Halla-aho ilmoittautui
+Puhuja 0: seuraavaksi mahdolliseksi Jan Vapaavuoren seurajaksi Helsingin pormestariksi.
+Puhuja 0: Löytyykö Helsingin valtapuolueen vihreiltä
+Puhuja 0: ehdokasta, joka pystyy pistämään
+Puhuja 0: kampoihin Jussi Halla-aholle. Keskustelemme siis kunnallisvaalien asetelmista
+Puhuja 0: ja tämän Helsingin vihreiden tilanteesta.
+Puhuja 0: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien
+Puhuja 0: hiljaisuuksien
+Puhuja 0: varalle.
+Puhuja 2: Okei,
+Puhuja 2: Maria Ohisalon jossain
+Puhuja 2: S-Marketin pihallailemassa flyjereita, mutta eihän se tunne sitä. Mutta kuntavaaleissa on se ero, että siellä ihmiset paljon useammin
+Puhuja 2: tuntee sen ihmisen, jolle ne antaa äänensä, se on samasta lähiöstä tai samalta kylältä kuin hän. Ja silloin se keskustelu on oikeassa, siellä puhutaan sitten
+Puhuja 2: Herttoniemen
+Puhuja 2: kiekkokentän
+Puhuja 2: tekonurmesta ja siellä puhutaan kuitenkin asioista, jotka nyt varmasti koskettaa sitä ihmistä tai pitäisi koskettaa enemmän, kuin tämmöinen joku ylätason
+Puhuja 0: pohdiskelun tämmöisestä kansakunnan identiteetistä. Onko toi tuota, Maria, tunnetteko
+Puhuja 0: ihmiset, keitä sä äänestät, puhuitko tuolla kuntapolitiikkojen
+Puhuja 0: kanssa, että joo, hei tässä meidän lähialueella
+Puhuja 0: pitäisi sitten tämä
+Puhuja 0: tie
+Puhuja 0: leventää kaksi metriä kohti roskista ja
+Puhuja 0: silleen
+Puhuja 2: tilastoissa,
+Puhuja 2: se näkyy silleen, että jos kansanedustaja, joka yöhä sanoi, tai valtakullan tason poliitikko, niin se kerää esimerkiksi ääniä joka puolelta
+Puhuja 2: Helsinkiä. Mutta sitten kyllähän nämä pienemmät ehdokkaat, jotka
+Puhuja 2: nimenomaan kerää siltä omalta alueeltaan, että ne on näin tuttuja.
+Puhuja 0: Mun mielestä tuo kuulostaa ihan joltain eri universumilta.
+Puhuja 0: Jotenkin tuntuu aivan
+Puhuja 1: jos se on näin ja näinhän sen pitäisi toimia. Mutta se jotenkin tuntuu ihan väärältä. Onko sulle Marko
+Puhuja 1: tullut lisätietoa, kun siitä kukaan kokoomuksen
+Puhuja 1: pormestariehdokas
+Puhuja 2: Helsingistä? Ei ole tullut. Olen nyt jotenkin miettinyt sitä jo kaksi viikkoa, mutta en ole keksinyt ketään. Kai se tällä hetkellä povataan, että se voisi olla
+Puhuja 2: Keskuskauppakamarin
+Puhuja 2: Juho Romakkaniemi
+Puhuja 2: tai sitten se voi olla
+Puhuja 2: Kirsi piha, jota Twitterissä kysyttiin asioita Twitterissä ja se jotenkin vastasi jotain epämääräistä tai sitten se voi olla Ari Sarkomaa.
+Puhuja 2: Mutta jos vielä jatkan tuosta, kirjoitin eilen
+Puhuja 2: jutun
+Puhuja 2: tämmöinen Mika
+Puhuja 2: Välipirtti
+Puhuja 2: niminen,
+Puhuja 2: hän on Vasemmistoliiton
+Puhuja 2: varavaltuutettu, ei saanut montaakaan ääntä, mutta
+Puhuja 2: hän on tällainen lähiluontoaktivisti.
+Puhuja 2: Hän
+Puhuja 2: on muutamat kaverit ja ne on ollut tässä Pirkkalassa,
+Puhuja 2: rakennetaan siis tätä tämmöistä
+Puhuja 2: liikuntahallia,
+Puhuja 2: joka tulee
+Puhuja 2: keskuspuistoon
+Puhuja 2: ja siellä on hakattu keskuspuistosta puita vielä keskuspuiston kapeimmalta kohdalta. Se on herättänyt siellä Maunulan, Pirkkolan suunnalla
+Puhuja 2: valtavasti
+Puhuja 2: kohua ja ihmisiä harmittaa ja tämä on iso asia siellä.
+Puhuja 2: Ja tämä
+Puhuja 2: Mika Mäkipirtti,
+Puhuja 2: Välipirtti,
+Puhuja 2: jossa kerroin,
+Puhuja 2: että hän oli aikaisemmin Vasemmistoliiton
+Puhuja 2: ehdokkaana, nyt hän lähtee omalla listallaan,
+Puhuja 2: omalla tämmöisellä
+Puhuja 2: lähiluontoa
+Puhuja 2: korostavalla listallaan
+Puhuja 2: ehdolle. Ja ne lähtee tälleen sitoutumattomien
+Puhuja 2: listalla
+Puhuja 2: omana ryhmänään ehdolle ja niitä tulee, en tiedä kuinka paljon. Mutta tämä oli minusta jotenkin
+Puhuja 2: niin kuin ihan sairaan kiinnostavaa.
+Puhuja 2: Ei niinkuin, no siis kiinnostavaa on tietysti se, että tässä taas tavallaan toteutuu se, että
+Puhuja 2: kyllähän maunuulaisia
+Puhuja 2: kiinnostaa enemmän
+Puhuja 2: ne Pirkkolan puut, kun taas se joku tämmöinen
+Puhuja 2: iso, valtakunnan poliittinen kysymys
+Puhuja 2: helpostikin.
+Puhuja 2: Mutta jostain vielä kiinnostavampaa musta on se, että
+Puhuja 2: tässä jutussa yritin jotenkin
+Puhuja 2: muotoilla, että
+Puhuja 2: vihreät joka kyselyiden mukaan on hyvin vahvoilla, että vihreistä tulee Helsingin suurin puolue ja Anni Sinnemäestä tulee Helsingin pormestari.
+Puhuja 2: Kiinnostavaa tässä on se,
+Puhuja 2: että kun kuuntelee näiden
+Puhuja 2: Helsinkiläisten vihreiden keskusteluja niin silloin puhutaan tämmöisistä
+Puhuja 2: raitioteistä
+Puhuja 2: ja bulevardeista
+Puhuja 2: ja puhutaan täydennysrakentamisesta
+Puhuja 2: ja puhutaan tiiviistä kaupungista.
+Puhuja 2: Puhutaan siitä, että kaupungissa pitää olla kulttuuritarjontaa.
+Puhuja 2: Kumpikin perusidea on se, että kaupungin pitää olla kaupunkimainen
+Puhuja 2: ja mitä tiiviimmin rakennetaan niin sen parempi.
+Puhuja 2: Tämähän on niin kuin
+Puhuja 2: tavallaan
+Puhuja 2: jotakin
+Puhuja 2: ihan muuta, kun sitten taas pitää osa hyvin
+Puhuja 2: vihreästä ja ekologisesti ajattelevista ihmisistä.
+Puhuja 2: Etenikö siellä Pirkkalassa ajattelee, että niille on tärkeää pääsee lähiluonto ne puut. En tiedä haluaako ne museoida Helsingin nykyiselläänen, mutta kumminkin ne semmoiset,
+Puhuja 2: nyt ei puhuta mistään ikimetsistä vaan nyt puhutaan niistä neljästä puusta, jotka on tuossa jossain
+Puhuja 2: puiston laidalla.
+Puhuja 2: Se keskustelu, miten ne käy ja sitten vihreitä on kuitenkin ekologinen puolue. Tässä on musta kauhea ristiriita siinä, että miten on tämmöinen
+Puhuja 2: citypuolue
+Puhuja 2: ja toisaalta niin kuin ihmisiä, joille ne puut on paljon tärkeämpiä kuin se täydennysrakentaminen.
+Puhuja 2: Mä luulen, että tästä voi syntyä vihreiden sisällä vielä kuntavaalien alla tämmöinen haaste. Esimerkiksi toi ajatus oli nerokas, koska siinä tuli sellainen jaottelu,
+Puhuja 0: mikä mun mielestä kuulostaa
+Puhuja 0: todelta ja mitä mä en ole aiemmin kuullut, mutta on olemassa
+Puhuja 0: jaottelu luonnon ja ilmaston välillä. Se kuulostaa
+Puhuja 0: silleen väärältä, mutta niinhän se on. On olemassa ihmisiä, jotka ajattelee luontoa, joka on puita ja risuja ja paskaa lähellä. Ja sitten on ilmasto, joka on abstrakti hallinnollinen-asia Brysselissä.
+Puhuja 1: Ei kun mulla oli vähän asiasta eteenpäin, jos luin tuohon liittyen. Niin kun
+Puhuja 2: mäkin rupesin miettimään, kun mä jututin tätä
+Puhuja 2: tyyppiä, tätä välipirttiä joka on tämän oman ryhmänsä ollut perustamassa, niin
+Puhuja 2: mun olin jostain kuullut, että on tulossa tämmöinen syvävihreä lista ja sit mä käytin tätä syvävihreä termiä, että oletteko perustamassa jonkun syvävihreän listan ja sitten se kiisti sen syvävihreyden ehdottomasti.
+Puhuja 2: Hänen mielestään syvävihreys tarkoittaa
+Puhuja 2: tämmöistä syväekologisuutta
+Puhuja 2: ja
+Puhuja 2: siinä puhutaan sitten monimuotoisista metsistä ja isoista metsäalueista.
+Puhuja 2: Eihän sillä vastaan mitään niitä vastaan ole, mutta se mihin ne keskittyy on nimenomaan se
+Puhuja 2: kaupunkiluonto. Ne neljä puuta, jotka on siellä kahden kerrostalon välissä, niin nekin voi olla kauhean olennaisia. Tai sitten keskuspuisto, joka nyt on Helsingin. Vielä parempi, koska tässä on nyt kolme eri jaottelua.
+Puhuja 0: Tavallaan ympäristöystävällisyyden tai tämmöisen
+Puhuja 0: ajatusmaailman
+Puhuja 0: sisällä on se syvä vihreys, joka on silleen
+Puhuja 0: laajoja
+Puhuja 0: metsäalueita, jossa on monimuotoinen
+Puhuja 2: ekologia.
+Puhuja 2: Sitten
+Puhuja 1: toisaalta
+Puhuja 1: ihmisten...
+Puhuja 1: Tai asiat on ihmisiä lähellä ja ehkä ihmiset valitsee
+Puhuja 1: sillä tavalla ehdokkaansa, niin vaikka liittyy viimeaikaisiin keskusteluihin
+Puhuja 1: vaikkapa asuinalueiden segregaatiosta
+Puhuja 1: ja sellaisesta,
+Puhuja 1: Minusta
+Puhuja 1: joskus tuntuu siltä keskustelussa,
+Puhuja 1: että perussuomalaiset
+Puhuja 1: oikeasti kuuntelee niitä kuin tavallaan ihmisiltä tulevia arkisia huolia ja ihmisten huolet saattaa olla aika pieniä, tai ehkä Helsingissä ei näy ehkä siinä kannatuksessaan, mutta joillain muilla asuilla kyllä. Kun sitten taas
+Puhuja 1: joskus vaikka vasemmisto tai vihreä
+Puhuja 1: ehdokkaista, että heti jos me puhutaan esimerkiksi asuinalueiden sekakaatiosta
+Puhuja 1: Helsingissä tai Turussa tai jossain, niin ihmiset, jotka itse koulutetut,
+Puhuja 1: keskiluokkaiset ihmiset, jotka asuu vaikka pakon tulossa tai jossain muualla, niin sanoo, että tai ainakin vähättelee niitä huolia, että täällä on hyvää ruokaa ja halpoja partureita ja niin edelleen. Todellisuudessa, jos puhuu ihmisten kanssa, niin niitä saattaa ärsyttää
+Puhuja 1: pienet omaan lappukäytäään liittyvät asiat,
+Puhuja 1: sen kaltaisesti joita ei kuitenkaan...
+Puhuja 1: Vaikka ne eivät näyttäydy
+Puhuja 1: suurina ongelmina, vaan ne saattaa ihmisille sitten
+Puhuja 1: jonnekin.
+Puhuja 2: On ja mä luulen, että ihmiselle,
+Puhuja 2: joka
+Puhuja 2: asuu tämmöisessä lähiössä, jossa on paljon kaupungin vuokra-asuntoja niin hänellä on vähän erilainen näkemys segregaatiosta kuin sille, joka kommentoi asiaa jostain tutoisalaiselta
+Puhuja 2: asuinalueelta.
+Puhuja 1: Niin, eli saattaa olla siis asuinalueiden sisälläkin ihan taloyhtiökohtaisia.
+Puhuja 1: Mutta siksi niitä ei muista kannattaisi myöskään...
+Puhuja 0: Mä kysyn vielä....
+Puhuja 1: Kuitenkin naureskella tavallaan jollekin ruotsin tielle tai ranskan tielle. Itse asiassa ranskan yhteydessä, mistä minun oli tarkoitus alunperin puhua, oli niiden lähiöiden tilanne, mutta unohdin se ei ole
+Puhuja 1: moni jalkoihin.
+Puhuja 1: Kysyn
+Puhuja 0: vielä viimeinen kysymys vasta nanosakunnissa,
+Puhuja 0: Marko.
+Puhuja 0: Vihreät on Helsingissä valtapuolue,
+Puhuja 0: sellainen iso
+Puhuja 0: behemotti.
+Puhuja 2: Tällä hetkellä suurin on kokoomus, kuntapolitiikassa
+Puhuja 0: ja vihreät on kakkonen.
+Puhuja 0: Mutta eikö heitä voi silti Helsingissä ajatella valtapuolueena? No se on toiseksi suuri.
+Puhuja 0: Niin.
+Puhuja 0: Niin,
+Puhuja 0: mikä heidän pormestaritilanne
+Puhuja 0: on?
+Puhuja 2: No siis Anni Sinnemäki on tällä hetkellä
+Puhuja 2: apulaispormestari ja Sinnemäki ei ole vielä ilmoittautunut, mutta käsittääkseni
+Puhuja 2: vihreät pitää täysin satavarmana, että hän ilmoittautuu vähän myöhemmin.
+Puhuja 2: Saattaa saada jonkun haastajan elää joku proseduuri, miten se valitaan, mutta mun mielestä se on käytännössä varmaan, että Sinnemäki on vihreiden ehdokas.
+Puhuja 0: Hyvä, sitten kun
+Puhuja 0: taistelette Tuuleen ja Tuiskun läpi kohti
+Puhuja 0: myrskyn halki
+Puhuja 0: hapekkaan, mutta
+Puhuja 0: vaarallisen ilman
+Puhuja 0: ja kohti jotain lämpimänä kaukaa kutsuvaa baarin ikkunaa ja menette te pujahdatte sinne ja pyydätte jotain lämmintä juomaa
+Puhuja 0: baarimestarilta.
+Puhuja 0: Sitten asettaudutte
+Puhuja 0: sateenvarjoineenne
+Puhuja 0: pöytään, kuten ne englantilaiset gentlemannit
+Puhuja 0: ja genle roomanit
+Puhuja 0: ja seureelle
+Puhuja 0: alatte selostaa
+Puhuja 0: omia turinoita ja tarinoita, niin mistäs heidän kanssa puhutte?
+Puhuja 0: Aloita sinä Maria.
+Puhuja 1: Meillä ei ehtinyt tehdä tällä viikolla, ei oikein mitään muuta kuin töitä, mutta muutenkin mieli suositella
+Puhuja 1: tämän Ranskan ja sitten
+Puhuja 1: myös ehkä tällaisen asuinalueiden segregaation liittyvän keskustelun
+Puhuja 1: yhteydessä
+Puhuja 1: semmoista kirjaa. Mietin, että olenko suositellut tätä teille aikaisemmin, mutta siis tämmöinen kirja kuin murha Amsterdamissa,
+Puhuja 1: joka kertoo
+Puhuja 1: siitä Teova Cohin murhasta aikoinaan Amsterdamissa
+Puhuja 1: ja
+Puhuja 1: maallistuneen
+Puhuja 1: liberaalin Euroopan yhteentörmäyksestä
+Puhuja 1: poliittisen islamin kanssa.
+Puhuja 1: Ja ihan loistava kirja, joka
+Puhuja 1: on hyvin kirjoitettu
+Puhuja 1: ja pohtii tavallaan
+Puhuja 1: sitä, että mitkä asiat johtunut siihen, johti sillä aikoinaan, että se on kovin murhaaja siihen, että minkä
+Puhuja 0: takia.
+Puhuja 0: Kirjan nimi oli Murha Amsterdamissa.
+Puhuja 1: Joo, Mörkerdin Amsterda.
+Puhuja 1: Se on tämmönen ihan Burma, ajan Burma.
+Puhuja 1: Olet sulle linkin siihen.
+Puhuja 0: Hyvä,
+Puhuja 0: kiitos Maria. Marko.
+Puhuja 2: Mä voisin, mun piti puhua toisesta, mutta kumminkin päällimmäisenä nyt kaikilla on kumminkin mielessään toi jalkapallo, niin voisin puhua Fudiksesta.
+Puhuja 2: Puhutaan maajoukkueen peleistä, minun mielestä oli häkellyttävä se
+Puhuja 2: lauantain mulgaaiapeli.
+Puhuja 2: Suomi
+Puhuja 2: johti kaksituhatta:nolla ja Suomi pelasi mielestäni hyvin ja sitten Bulgaaia kavensi ja Bulgarihan painusti sen toisen, Tuomas hyvin muistat, sehän kumminkin piti palloa koko sen toisen puoliajan
+Puhuja 2: lopun.
+Puhuja 2: Mä olen katsonut vuosikymmeniä
+Puhuja 2: Suomi jalkapallomaajokea ja mulla on lähtökohtainen olotila, kun katson niitä pelejä niin mulla on sydänkurkus
+Puhuja 2: sulkea sellainen täydellinen paniikki päällä. Mutta mä olin tosi levollä. Mä olin täysin varmaa, että Suomi voittaa sen pelin. Mulla oli niinku vaikka se bulgari ja painosti ja niillä oli pari paikkaakin, mutta mä en ole niinku yhtään huolissani. Joo. Ja sitten mä
+Puhuja 2: nyt on oikeasti tapahtunut jotain todella mystistä, että
+Puhuja 2: joukkue, vaikka ne pelaaisi huonosti, niin silti
+Puhuja 2: ne pelaa hyvin.
+Puhuja 2: Mutta sitten sen takia oli niin kauhea shokki tämä eilinen
+Puhuja 2: peli.
+Puhuja 2: Ei se tappio sinänsä, mutta se pelin alku oliko se yhdeksäntoista
+Puhuja 2: minuutilla Uronensaiseen
+Puhuja 2: punaiseen, mutta ennen sitäkin Suomi
+Puhuja 2: pelasi ihan helvetin huonosti.
+Puhuja 2: Oli sellaista jatkuvia
+Puhuja 2: harhaisttejiä
+Puhuja 2: ja ne jännitti.
+Puhuja 2: Mulla palasi se tuttu pala kurkussa se peli alku. Kaikki suomalaiset urheiluystävät
+Puhuja 2: tunnistaa tuon. Se palasi, pelin alku oli tosi huono, sitten tuli se punainen kortti ja siitä se peli oli tavallaan selvä. Ja sitten sen jälkeen suomen rupesi pelaamaan vaan taas hyvin itseasiassa.
+Puhuja 2: Mä en tiedä mitä sille Suomelle tapahtuu pelin alussa. Se tunne
+Puhuja 0: on niin kuin, että se on joku semmoinen, että tässä käy kuitenkin vielä huonosti. Se on tavallaan
+Puhuja 0: semmoinen fataalismi.
+Puhuja 2: Mä muistan, kun rupesin katsomaan sitä peliä, mä olin kuitenkin innoissani pojan kanssa katsottiin, niin olin varma, että tästä tulee tämmöinen ikimuistoinen peli. Mutta kahden minuutin jälkeen tiesin, että tästä ei tule yhtään mitään.
+Puhuja 0: Mä väitän, että tämä ei ole edes jalkapallokysymys vaan tämä on kansakuntakysymys
+Puhuja 0: ja väitän, että tämä on sukupolvikysymys.
+Puhuja 0: Se rauhallisuus, minkä sä koet, niin se näyttäytyi
+Puhuja 0: sulle sellaisena uutena ja maagisena sen takia, että se on uutta ja maagista. Se on uutta ja maagista sen takia, että se on joku elämänasenne ja katsanto, joka on läsnä meitä mua ja sua nuoremmalla sukupolvella mutta ei meillä. Näin meillä on kuulemma.
+Puhuja 0: Mun suositus on, tää on tosi sellainen, että kukaan ei usko tähän, niin kuin moni ihminen, joka kuulee, mitä mä seuraavaksi aion sanoa, sanoo, että tyhjäpa
+Puhuja 0: laittaa podcast soittimen kiinni. Mukaan lukien Marko Junkkarille. Mä
+Puhuja 0: yritän taivutella, svua Marko, tähän. Sä oot hyvä koe yleensä.
+Puhuja 0: Mä olen sellainen niin kuin juntti-lattapää,
+Puhuja 0: iso neninen oululainen. Mä en usko mitään enkä ketään, en varsinkaan mitään typeryksiä enkä typeryksiä enkä haihattelua.
+Puhuja 0: En mitään uskontoja, en mitään ideologioita,
+Puhuja 0: en mitään.
+Puhuja 0: Kaikki on mulle kukkua ja kärpästen surinaa.
+Puhuja 0: Okei, nämä on ne premiset.
+Puhuja 0: Kaikki
+Puhuja 0: sellainen hihulointi ja kaikki
+Puhuja 0: sellainen henkisyys varsinkin on sellainen, että
+Puhuja 0: laatta lentää. Minä uskon kvanttifysiikkaan
+Puhuja 0: ja suhteellisuusteoriaan
+Puhuja 0: ja kylmään järkeen
+Puhuja 2: asiaan.
+Puhuja 0: Tämän podcastin kuulija
+Puhuja 0: jätän nimen sanomatta, vaikka varmaan voisin sanoa, mutta hän tietää, kuka on ja kiitoksia hänelle. Hän reagoi mun muutama
+Puhuja 0: viikko sitten kertomaan
+Puhuja 0: kaipuuseen siihen, että haluaisin jotain uusia asioita
+Puhuja 0: aivoille.
+Puhuja 0: Hän kiinnitin huomiota siihen, että kun olin kuvaillut, että joskus minusta tuntuu, että aivot on nyrkkiin puristanut käsi. Sitten kun kuuntelen jotain kvanttifysiikkakirjoja,
+Puhuja 0: niin sitten
+Puhuja 0: se höltyy se nyrkki. Hän sanoi, että se, mitä kuvailin äsken, on nimeltään stressi.
+Puhuja 0: Minun kannattaisi kokeilla sellaista asiaa kuin, ja nyt odotan, että Marko Junkkari nousee just seisomaan
+Puhuja 0: nimittäin
+Puhuja 0: mindfulness. No niin.
+Puhuja 0: Hän linkkasi minulle
+Puhuja 0: luentosarjan
+Puhuja 0: ja luentosarjan voi ostaa esimerkiksi Amazonista
+Puhuja 0: tai tietää, mistä sitä voi puolihuolimattomasti
+Puhuja 0: vahingossa törmätä esimerkiksi videomuodossa ja näin.
+Puhuja 0: Luentosarja nimeltään
+Puhuja 0: The science of
+Puhuja 0: mindfulness, research-based parh to welbeing. Ja nyt mä toivon, että varsinkin just ne ehkä sellaiset
+Puhuja 0: niin kuin purtajajäppiset
+Puhuja 0: niin kuin minä ja juntit ja kumparikansa
+Puhuja 0: siellä, niin älkää
+Puhuja 0: skipatko tätä.
+Puhuja 0: Kantaa kokeilla,
+Puhuja 0: koska
+Puhuja 0: mainostan, on yksi asia, minkä mindfulness
+Puhuja 0: opettaa ja se on tosi tärkeä oppi kenelle hyvänsä ja sen jälkeen sen voi lopettaa.
+Puhuja 0: Se ei ole mitään hihulointia, sen takana on psykologiaa ja tutkimusta.
+Puhuja 0: Mä väitän
+Puhuja 0: tosi
+Puhuja 0: ennakkoluuloisesti,
+Puhuja 0: että tämä aihepiiri ja tällainen ajattelu on esimerkiksi naisille paljon tutumpaa, ja he ovat törmänneet tähän paljon enemmän kuin miehet. Sen takia pidän tätä varsinkin
+Puhuja 0: nuorille miehille tärkeänä. Yksi asia, jonka mindfulness opettaa
+Puhuja 0: ensimmäisen viiden minuutin aikana, kun kokeilet
+Puhuja 0: esimerkiksi HeadSpace appia, jossa on ohjattu
+Puhuja 0: harjoitus, niin se opettaa sellaisen asian, että sinä
+Puhuja 0: et ole sama asia kuin sun ajatukset.
+Puhuja 0: Se tuntuu tosi
+Puhuja 0: nurinkuriselta
+Puhuja 0: ja väärältä
+Puhuja 0: ja silleen, että voiko näin olla. Mutta sitten kun tekee ensimmäisen harjoituksen,
+Puhuja 0: jossa
+Puhuja 0: yleensä ne tehdään silleen, että keskitytään omaan hengitykseen.
+Puhuja 0: Siinä ekassa harjoituksessa, siinä vaan hoksautetaan,
+Puhuja 0: että sä huomaat, että vaikka sinä yrität keskittyä sun hengitykseen, niin sun ajatukset tekee kaikkea muuta. Ne niin kuin porheltaan menemään ala-asteen välitunnilla,
+Puhuja 0: ne käy
+Puhuja 0: jonkun sliden väärässä sanassa, ne käy niin kuin ne heittää semmoista kiekkoa koko ajan. Ja sä et ikinä, koska sä kuljet sun elämän läpi semmoinen koko ajan pöllöinen
+Puhuja 0: härkä,
+Puhuja 0: niin sä et huomaa, että sun aivot tekee näin. Mindfulnessas opettaa sen, että sun aivot tekee tällaisia
+Puhuja 0: pakkoliikkeitä.
+Puhuja 0: Sitten siitä alkaa pikkuhiljaa
+Puhuja 0: sellainen, että voit opetella
+Puhuja 0: siihen, että kaikki ne sun ahistavat
+Puhuja 0: stressaavat ajatukset,
+Puhuja 0: niin sä muutat niitä suhtautumista niihin,
+Puhuja 0: että okei, nuo on pakkoliikkeitä.
+Puhuja 0: Jos mulla on ajatukset pörrää jossain tuolla, niin se ei tarkoita, että mun tarvitsee stressata siitä.
+Puhuja 0: Kannattaa
+Puhuja 0: lukea
+Puhuja 0: ja kuunnella tällainen
+Puhuja 0: kurssi kuin The science of Mindfulness,
+Puhuja 0: research based parf to wellbeing.
+Puhuja 0: Täyttä tiedätte, ei mitään hiihuonti-job.
+Puhuja 0: Suosittelen.
+Puhuja 0: Erittäin
+Puhuja 0: erittäin mielenkiintoinen
+Puhuja 0: matka siihen, miten omat ajatukset
+Puhuja 0: toimii.
+Puhuja 0: Kiitos Marke Junkkarin. Kiitos.
+Puhuja 0: Kiitos Maria Manner, joka poistui
+Puhuja 0: jo
+Puhuja 0: haastatteluun. Minun nimeni on Tuomas Peltolaki ja ääni ja kuvaaja kaiken minun mahtava meille tekee tällä viikolla Kristiina Marttinen.
+Puhuja 0: Muistakaa lähettää meille palautetta uutisraportti myös sähköpostiin,
+Puhuja 0: myös mihin tahansa kanavaan ja mediaan, mitä löydätte. Kuullaan taas ensi viikolla.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt
+Puhuja 0: miljardit kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin, Menetkö suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun
+Puhuja 0: Kaveroni taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

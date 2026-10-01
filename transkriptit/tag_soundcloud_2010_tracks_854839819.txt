@@ -1,0 +1,436 @@
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 0: podcastiin
+Puhuja 0: torstaina yhdeksän. Heinäkuuta.
+Puhuja 0: Minun nimeni on Alma Onali ja kanssani Sanomatalossa
+Puhuja 0: ovat sunnuntaitoimituksen
+Puhuja 0: toimittaja Ida-Sofia Hirvonen. Hei Ida-Sofia.
+Puhuja 0: Moikka.
+Puhuja 0: Ja tämän lafkan kruununjalokivi
+Puhuja 0: tutkiva toimittaja
+Puhuja 0: Paavo Teittinen. Hei Paavo!
+Puhuja 0: Moi! Tänään me puhutaan
+Puhuja 0: siivoojien riistosta,
+Puhuja 0: uusimmista koronavirusuutisista
+Puhuja 0: ja matkailusta.
+Puhuja 0: Tervetuloa
+Puhuja 1: mukaan!
+Puhuja 0: No niin, ensinnäkin
+Puhuja 0: aivan upeaa saada podcastiin takaisin kuuntelijoillekin tuttu parran rapsuttelija
+Puhuja 0: Paavo.
+Puhuja 0: Sillä on aivan erityispätevä syy miksi
+Puhuja 0: me haluttiin sut tällä viikolla tänne studioon, koska sillä aikaa kun me muut viime kuukausien aikana ollaan mietitty, että mikä sen jäätelöpuikon nimeksi pitäisi panna ja uskaltaakohan tuonne terassille nyt mennä bisselle,
+Puhuja 0: niin Paavo, sä oot
+Puhuja 0: tutkinut siivousalalla
+Puhuja 0: tapahtuvaa systemaattista
+Puhuja 0: hyväksikäyttöä ja riistoa.
+Puhuja 0: Sun sunnuntaina julkaistu juttu tuo esille järkyttävän
+Puhuja 0: ihmiskaupan,
+Puhuja 0: joka toteutuu meidän marketeissa,
+Puhuja 0: päiväkodeissa, kouluissa ja muissa julkisissa rakennuksissa.
+Puhuja 0: Tässä syväluotavassa
+Puhuja 0: jutussa
+Puhuja 0: käy ilmi, kuinka ulkomaalaistaustaiset
+Puhuja 0: siivoojat ovat joutuneet tekemään töitä kellon ympäri nälissään,
+Puhuja 0: nukkuneet siivouskohteidensa
+Puhuja 0: lattioilla,
+Puhuja 0: jääneet ilman asianmukaista
+Puhuja 0: palkkaa ja kertakaikkisesti siis vaan siivonneet meidän tahmattassujen
+Puhuja 0: sotkuja aivan epäinhimillisissä
+Puhuja 0: oloissa.
+Puhuja 0: Työntekijät eivät ole uskaltaneet tehdä asialle mitään, koska heitä on pelottanut, että siitä seuraa heille jotain kamalaa.
+Puhuja 0: Ihan ensimmäiseksi mä haluaisin jutella tästä sun juttuprosessista.
+Puhuja 0: Kuinka pitkään teit tätä juttua ja kuinka vaikeaa oli saada nämä ihmiset puhumaan, koska he ovat selvästi olleet kuitenkin peloissaan jo lähtökohtaisesti?
+Puhuja 2: No se varmaan
+Puhuja 2: tai jotenkin tämmöisiä juttuprojekteja tekee helposti
+Puhuja 2: limittäin muiden kanssa,
+Puhuja 2: niin tätäkin tein.
+Puhuja 2: Siinä
+Puhuja 2: tulee semmoisia vaiheita, että välillä tekee enemmän, sitten se jää vähän tauolle.
+Puhuja 2: Nyt esimerkiksi koronahan tavallaan pisti kaikki tällaiset juttuprojektit, mukaan lukien tämän, jäihin
+Puhuja 2: pariksi kuukaudeksi.
+Puhuja 2: Mutta
+Puhuja 2: se
+Puhuja 2: käynnistyi
+Puhuja 2: useita kuukausia sitten. Jos varmaan laskisi sen työajan yhteen, niin voisi sanoa, että tein sitä useita
+Puhuja 2: kuukausia. Mutta tosiaan silleen joskus vähän pätkissä ja sykähdyksissä.
+Puhuja 0: Joo.
+Puhuja 0: Ja vaikka juttuprosessi oli välillä jäissä, niin ilmeisesti tämä
+Puhuja 0: työntekijöiden riisto ei suinkaan ollut jäissä, vaan he nimenomaan tässä koronakriisinkin aikana jatkoivat
+Puhuja 0: tätä työn tekemistä.
+Puhuja 2: Joo, kyllähän se
+Puhuja 2: toiminta jatkuu ja osa niistä haastelemistani voi sitä edelleen näissä firmoissa töissä.
+Puhuja 0: Oikeasti? Pahintahan tässä sun jutussa on just se, että vaikuttaa siltä, että suomalaisviranomaiset
+Puhuja 0: ovat olleet hyvin tietoisia
+Puhuja 0: tästä ongelmasta
+Puhuja 0: ja silti mitään ei ole tehty. Sun jutussa
+Puhuja 0: esimerkiksi mainitaan, että näistä asioista on siis jo kymmenen vuotta sitten
+Puhuja 0: puhuttu ja näitä ongelmia on tuotu esiin.
+Puhuja 0: Sen toiminnan on annettu jatkua, koska ilmeessä sen tutkiminen on vaivalloista ja
+Puhuja 0: lisäksi reilusta siivoamisesta
+Puhuja 0: sen maksamisessa on jotenkin
+Puhuja 0: ongelmia.
+Puhuja 0: Miksi, Paavo, tähän riistoon ei ole puututtu? Eli mitä selityksiä nämä viranomaiset on tästä antanut?
+Puhuja 2: Siinä on tavallaan pari eri tasoa.
+Puhuja 2: Riippuu keneltä kysyy, että esimerkiksi Espoon kaupunki, jossa yksi
+Puhuja 2: työntekijöitä on hyväksikäyttöinen yritys nimeltä SMC toimi kymmenen vuotta,
+Puhuja 2: jonka
+Puhuja 2: pyörittäjiä epäillään ihmiskaupasta,
+Puhuja 2: Espoon kaupunki on sanonut, että he eivät tienneet,
+Puhuja 2: että ei tullut tietoja
+Puhuja 2: epäselvksistä, niin tämä ei esimerkiksi pidä paikkaansa. Heille kyllä tuli tietoja jo kymmenen vuotta ja vajaa kymmenen vuotta sitten erittäin paljonkin.
+Puhuja 2: Se on tavallaan yksi juttu.
+Puhuja 2: Sitten on tietenkin tavallaan se iso kysymys, että
+Puhuja 2: minkä takia tämän tyyppiseen vakavan työvoiman hyväksikäyttöön
+Puhuja 2: Suomessa hankala puuttua.
+Puhuja 2: Se
+Puhuja 2: on minun mielestä aika systeeminen ongelma.
+Puhuja 2: Se lähtee tavallaan siitä, että
+Puhuja 2: nämä
+Puhuja 2: ihmiset on riippuvaisia
+Puhuja 2: siitä työpaikasta, koska se oleskelulupa on kiinni siinä työssä.
+Puhuja 2: Meillä ei ulkomaalaislainsäädännössä
+Puhuja 2: ole
+Puhuja 2: huomioitu riittävän hyvin sitä, että
+Puhuja 2: joku
+Puhuja 2: hyväksikäyttävistä oloista lähtevä henkilö voisi saada tilapäisen oleskeluluvan
+Puhuja 2: vaikka sen rikosprosessin ajaksi. Eli he ei uskalla lähteä sitä pois. Työnantaeltä, että käyttää tätä hyväkseen. Ne kiristävät tällä oleskeluluvan mahdollisuudella ja uhkaa sillä, että jos haet apua, niin mä
+Puhuja 2: poistan sut maasta käytännössä.
+Puhuja 2: Se on yksi iso ongelma.
+Puhuja 2: Tällainen oleskelulupa on mahdollista saada, mutta se on hyvin hankalaa.
+Puhuja 0: Sun tilanne. Hitsisä jäädä vielä meidän kanssa juttelemaan? Okei, hienoa. Hei,
+Puhuja 0: seuraavaan aiheeseen, joka liippaa kyllä tätä koronavirusteemaa
+Puhuja 0: sikäli, että puhutaan
+Puhuja 0: matkailusta
+Puhuja 0: sekä ihmisten että koronaviruksiin.
+Puhuja 0: Hallitus pohti matkustusrajoituksia
+Puhuja 0: eilen keskiviikkona
+Puhuja 0: ja ne tuli siihen tulokseen, että ensi viikolla, maanantaina, kolmetoista.
+Puhuja 0: Heinäkuuta
+Puhuja 0: matkustusrajoitukset
+Puhuja 0: höllentyvät
+Puhuja 0: kaksikymmentäkahdeksan
+Puhuja 0: maan
+Puhuja 0: osalta. Euroopassa sisärajavalvonnasta
+Puhuja 0: luovutaan seitsemäntoista
+Puhuja 0: maan osalta. Mä en nyt luettele kaikkia, mutta joukossa on tällaisia maita kuin Saksa, Italia, Itävalta ja Irlanti. Esimerkiksi
+Puhuja 0: Kypros. Nämä listat ei siis tarkoita sitä, että nuo maat ottaisivat välttämättä meitä vastaan, vaan se pitää aina erikseen selvittää.
+Puhuja 0: Mutta se tarkoittaa sitä, että jos tuolta maasta joku tulee Suomeen, niin ei tarvitse jäädä karanteeniin.
+Puhuja 0: Periaatteessa on vapaata. Onhan se niin, että esimerkiksi Saksaan, Italian ja Itävaltaan suomalaisetkin saa jo matkustaa.
+Puhuja 0: Se on
+Puhuja 0: mahdollista.
+Puhuja 0: Maita, jotka ei kuulu
+Puhuja 0: näihin
+Puhuja 0: hallituksen
+Puhuja 0: vapauttamiin
+Puhuja 0: maihin, on muun muassa Britannia, Ranska
+Puhuja 0: ja Ruotsi.
+Puhuja 0: Mä en tiedä, miksi mä oon jotenkin näin supervahingon iloinen tästä Ruotsin
+Puhuja 0: muuttumisesta
+Puhuja 0: persoona Nongrataksi.
+Puhuja 2: Ehkä se on tää
+Puhuja 2: vuosisatoja ja pitkä alemmuuden tunne, mikä suomalaisille... Sä et pysty. On, on. Ruutsit tekemään väärin omassa itsetyytyväisyydessään.
+Puhuja 1: Voi ei.
+Puhuja 0: Niin. Mutta tässä, kun alkaa nämä
+Puhuja 0: matkailun
+Puhuja 0: prospektit
+Puhuja 0: avautumaan,
+Puhuja 0: niin onko teillä sellainen olo, että heti pitäisi päästä jonnekin
+Puhuja 0: Italiaan?
+Puhuja 2: Tää on kiinnostava, että täällä on
+Puhuja 2: matkusrajoituksia kevennetty Ruandaan.
+Puhuja 0: Joo, siis nimenomaan. Mä mietin kanssa sitä, että onkohan Ruandasta paljon tulijoita.
+Puhuja 0: Tai kuinka moni jotenkin algerialainen on silleen, että nyt mä pääsen Suomeen lomalle.
+Puhuja 2: Kattaako tää hetkinen, sallitaan työmatkaliikenne ja muu välttämätön liike. Joo, se oli näistä
+Puhuja 0: Euroopan ulkopuolisista maista eli algeri, Australia, Georgia ja Japani Uusi-elantin Ruandaan eteen. Ruandaan siis ei
+Puhuja 2: turistina periaatteessa
+Puhuja 2: hinshahaa lähdetä.
+Puhuja 2: Niin, ei kehoteta
+Puhuja 2: lähtemään. Ihan saa lähteä.
+Puhuja 0: Siis yhäkään
+Puhuja 0: sisäministeriö
+Puhuja 0: ei suosittele matkustamista.
+Puhuja 2: Tai ministeri Ohisalo suosittelee kotimaan matkailua. Mutta enää ei pysty huijaamaan sillä kuin jossain vaiheessa
+Puhuja 0: mutta mikään maa ei halua ottaa sua vastaan.
+Puhuja 0: Oletko Ruotsiin päässä? Niin, Ruotsiin päässä. Sinne taas ei kukaan halunnut mennä.
+Puhuja 0: Mikä teidän fiilis on? Haluatteko lähteä matkalle? Tuntuuko se turvalliselta?
+Puhuja 0: Tai kiinnostaako matkustus ylipäätään?
+Puhuja 1: Siis no mulla ei ainakaan tänä kesänä ole kyllä minkäänlaista
+Puhuja 1: matkakuumetta.
+Puhuja 1: Jotenkin on vielä semmoinen uutuuden viehätys kaikissa
+Puhuja 1: arkisissa vapaa-ajan asioissa, mitä pääsee tekemään.
+Puhuja 1: Toi, että pääsee vaikka
+Puhuja 1: ulos Badcombat
+Puhuja 1: tunnille tai karaokebaariin
+Puhuja 1: kavereiden kanssa, niin se on jo sellainen jonkinlainen
+Puhuja 1: seikkailu itsessään.
+Puhuja 1: Ja Suomen sisällä ehkä voisin jossain
+Puhuja 1: Tampereella tai Turussa käydä tai jossain kivassa
+Puhuja 1: luonnon kohteessa, mutta
+Puhuja 1: ei kyllä
+Puhuja 1: ulkomaille jaksaisi
+Puhuja 1: näinä aikoina lähteä.
+Puhuja 2: Mua ei mitään hirytä kaipuuta ollut. Toukokuussa
+Puhuja 2: piti olla lomalla New Yorkissa.
+Puhuja 1: Niin munkin piti. Silloin
+Puhuja 2: kun se oli
+Puhuja 2: köyhiin ja muuta.
+Puhuja 2: No se on tietysti peruuntu se lento, mutta ei ehkä ole ollut sellaista hirveää.
+Puhuja 2: Toki ei ole ollut myöskään lomaa, että ei ollut mahdollisuuttakaan, mutta jotenkin tuntuu, että kyllä se kotimaan matkailu ja täällä puuhailu, jotenkin se fiilis on jotenkin,
+Puhuja 2: tai siitä on tullut hyvä fiilis tavallaan siitä. Lähinnä olen katsonut muiden ihmisten Instastaoreja, mutta tavallaan kuitenkin,
+Puhuja 2: kun ihmiset vaeltelee tuolla ja menee eri kaupungeissa. Mutta siis se tuntuu kivalta ajatukselta. Mä en nyt tavallaan tiedä, nyt kun
+Puhuja 1: Mä en tiedä, ehkä vaan mieluummin lähtisi Suomessa johonkin. Jotenkin se lentäminen on tosi vastenmielinen ajatus nyt, kun
+Puhuja 1: mitataan kuumeet ja pistetään joku sellainen...
+Puhuja 1: Kaikkea valvotaan niin tarkasti ja testataan niin
+Puhuja 1: tyyliin koronavirustestiin
+Puhuja 1: jossain maahan tullessa,
+Puhuja 1: niin siitä on kyllä viimeisetkin glaboririn rippeet ainakin nyt tässä tämän virusepidemian
+Puhuja 0: myötä. Mutta siis nyt kun meidät on pakotettu olemaan omissa kotimaissamme
+Puhuja 0: kuukausitolkulla,
+Puhuja 0: niin
+Puhuja 0: onko teidän mielestä vähentynyt
+Puhuja 0: lentomatkustamiseen
+Puhuja 0: liittynyt häpeä? Tai minä ainakin koin
+Puhuja 0: todella vahvaa flygskamia
+Puhuja 0: eli lentohäpeää ilmastosyistä, mutta nyt tuntuu, että koska matkustaminen
+Puhuja 0: lopetettiin
+Puhuja 0: pakosta,
+Puhuja 0: eikä vapaaehtoisesti eikä ilmastosyistä, niin onko tämä ilmastokeskustelu matkustamisesta
+Puhuja 0: jotenkin
+Puhuja 0: häipynyt ihan kokonaan, kun yhtäkkiä puhutaan paljon isommista asioista, esimerkiksi turismisektorien
+Puhuja 0: hengissä pysymisestä,
+Puhuja 0: ihmisten työpaikoista ja jotenkin vain
+Puhuja 0: omasta oikeudesta nähdä maailmaa.
+Puhuja 0: Onko matkustamisessa tullut taas jotenkin sallitun?
+Puhuja 2: Mutta tavallaan, jos sitä ei tehdä, niin sitten sitä häpeääkään ei tunneta. Niin, niin, nimenomaan. Ehkä se
+Puhuja 2: luonnollista, että keskustelu
+Puhuja 2: tavallaan hiipuu.
+Puhuja 0: Mun täytyy sanoa, että en mäkään ole kyllä kokenut minkäänlaista kaipuuta mihinkään ulkomaille, niin kuin tässä tän
+Puhuja 0: kevään ja kesän aikana. Itse asiassa mä tossa kesäkuun alussa, kun mulla oli snadisti lomaa, niin mä itse tein pari pyöräreissua
+Puhuja 0: Savossa
+Puhuja 0: sellaisen Mekan Mikkeli Pieksämäki-pyöräilyn
+Puhuja 0: ja
+Puhuja 0: sitten
+Puhuja 0: kävin myös Turun saaristossa pyörän kanssa telttailemassa.
+Puhuja 0: Aivan fantastista.
+Puhuja 0: En kaipaa mitään muuta kuin vain meri-ilmaa
+Puhuja 0: tai
+Puhuja 0: savolaisten koivujen suhinaa.
+Puhuja 2: Kyllä täälläkin pääsee. Olen
+Puhuja 2: ajatellut niin, että jos on lomaa, jossa on mahdollista lähteä ulkomaille, niin olen tykännyt lähteä sen
+Puhuja 2: takia, että ajatukset paremmin pois duunista, jos lähdet rajojen ulkopuolelle johonkin
+Puhuja 2: vieraaseenmistaan.
+Puhuja 2: Mutta
+Puhuja 2: tuota ja hyvin se onnistuu savolaisten
+Puhuja 2: koivujen huminassa tai siellä Turun saaristossakin.
+Puhuja 0: Ei, todellakin. Mä suosittelen sitä ehdottomasti. Ja ministeri Ohisalokin suosittelee. Tää lähimatkailuhan on ollut ihan tällainen buumi, että tämän kevään aikana matkailuautoja
+Puhuja 0: on myyty ihan uudella tavalla. Kesämökkejä
+Puhuja 0: on myyty yhtäkkiä
+Puhuja 0: hirveätä vauhtia.
+Puhuja 0: Kotimaan matkailun prospektit kasvaa. Esimerkiksi tänään Hesarissa julkaistiin juttu, jossa
+Puhuja 0: erikoismuseota Suomessa. Siellä muun muassa noin kaksikymmentä nolla asukkaan Varkaudessa on sellainen mekaanisen musiikin museo.
+Puhuja 0: Se on
+Puhuja 0: Varkaus on tosi hyvällä paikalla, vitostien ja valtatie kaksikymmentäkolme siinä risteyksessä. Mä oon silleen, että eiks toi ole se paikka, missä yleensä vaan painetaan kaasua ja silleen niinku vedetään mahdollisimman nopeasti Varkauden ohi. Kuka on ikinä ollut silleen,
+Puhuja 0: menenpä Varkauden
+Puhuja 0: lomalle?
+Puhuja 1: Toi on
+Puhuja 1: ihan totta, että instastoori
+Puhuja 1: tuottaa ton halun matkustaa
+Puhuja 1: jonnekin paikkoihin ja nyt kun ei tavallaan näe, paitsi että jos seuraa ulkomaisia tyyppejä, jotka hekin ovat yleensä jumissa omissa
+Puhuja 1: kotikaupungeissaan,
+Puhuja 1: niin on näkynyt tosi paljon esim. Visulahden Vahakabinettiä.
+Puhuja 1: Se on ollu kova juttu varmaan kävijäluvut
+Puhuja 1: nousussa ja ylipäätänsä varmaan kaikki suomalaiset tällaset kesäkaupungit. Nyt ovat tänä vuonna todella niitä kesäkaupunkeja, joissa kannattaisi vierailla.
+Puhuja 0: Siis täähän on mun mielestä ihan mahtava homma, että kotimaan matkailu tavallaan
+Puhuja 0: nousisi, koska itse ainakin ilmastosyistä olen sitä mieltä, että
+Puhuja 0: lähimatkailun pitäisi kannustaa. Mutta mitä se kertoo
+Puhuja 0: suomalaisten
+Puhuja 0: asenteesta,
+Puhuja 0: että vaikka... No,
+Puhuja 0: koronavirus tietysti vielä varmasti vaikuttaa, että ei haluta matkustaa edes niihin maihin, joihin saisi. Mutta mietin vaikka Viroa ja Latvia, että kyllä sinne on saanut kesäkuun alusta asti jo lähteä.
+Puhuja 0: Mutta ei se silti ole Viroonkaan
+Puhuja 0: suuntautuvia. Esimerkiksi matkustusmäärät ei ole samanlaisia kuin mitä ne oli vuosi sitten kesällä. Että noin puolet
+Puhuja 0: on kesäku.
+Puhuja 0: Viisikymmentä prosenttia
+Puhuja 0: siitä matkustusmäärästä
+Puhuja 0: suomalaisia on käynyt tämän kesäkuun aikana kuin viime vuoden kesäkuussa Virossa.
+Puhuja 2: He ovat monia arkaileeista.
+Puhuja 1: Laivoissahan on tullut tartuntoja
+Puhuja 1: suljetussatilassa.
+Puhuja 0: Varmaan se on vielä sellaista tietynlaista
+Puhuja 0: arkailua, mutta voisiko tässä tulla, että pieneneekö maailma
+Puhuja 0: koronaviruksen
+Puhuja 0: jäljiltä,
+Puhuja 0: muuttuuko tämä matkailun
+Puhuja 1: profiili? Toi on tosi mielenkiintoista huomata, että varmaan ennen tätä näin, niin
+Puhuja 1: tosiaankin maailma oli silleen
+Puhuja 1: sillä tavalla pienentynyt, että monet,
+Puhuja 1: kun mun nuoruudessa
+Puhuja 1: ja
+Puhuja 1: Hesarin kotimaan sivulta jutun näissä Hietsussa
+Puhuja 1: bailaavista nuorista, jotka kertoivat, että ois pitänyt päästä jonnekin San Franciscoon viettämään synttäreitä, mutta nyt jouduin tyytymään Barcelonaan.
+Puhuja 1: Siellä
+Puhuja 1: oli
+Puhuja 1: jotain eliittinuoria,
+Puhuja 1: mutta kuitenkin, että se
+Puhuja 1: Barcelonan loma on nykyään se loma Japaniin tai Nykkiin.
+Puhuja 1: Ihmiset tekee tosi paljon kaukomatkoja, niin
+Puhuja 1: että josko ne nyt
+Puhuja 1: sitten vähän vähentyisi.
+Puhuja 0: Siis mä olin ihan ihmeissäni siitä jutusta, koska
+Puhuja 0: kerta kaikkiaan hämmästelin sitä, että kun lähes kaikki siinä
+Puhuja 0: jutussa haastatellut nuoret sanoivat, että heillä oli suunnitelmissa lähteä johonkin matkalle ja se oli peruuntunut,
+Puhuja 0: niin
+Puhuja 0: okei joo, olen itsekin matkustanut elämäni
+Puhuja 0: aikana tosi paljon,
+Puhuja 0: mutta varsinkin kesällä on ollut sellainen olo, että eihän kesällä kannata lähteä mihinkään muualle, vaan silloinhan on ihana olla
+Puhuja 0: täällä Suomessa mökkirannalla.
+Puhuja 0: Toiseksi mietin myös sitä, että eks nämä nuoret ole missään
+Puhuja 0: ja matkustaa jonnekin San Franciscoon parin viikon lomille? Voi niinku mikä homma?
+Puhuja 1: Ne oli varmasti juppeja kyllä. Niin, varmaan aika valikoitu
+Puhuja 2: otos kyllä,
+Puhuja 2: luulisin.
+Puhuja 0: Siis kertakaikkisesti.
+Puhuja 1: Siis mulla on ihan kyl semmoinen olo, että kun ulkomaanmatkailusta
+Puhuja 1: pitää luopua, kun tuli korona-alusta vähän tällaista viitettä, niin ei tunnu ollenkaan siltä, että joudun luopumaan mistään,
+Puhuja 1: koska jotenkin pidemmän aikaa, jos on käynyt jossain matkalla, niin on ollut vähän häiritsevä fiilis ennen kaikkea siitä, että kaikki
+Puhuja 1: kaupungit jotenkin hipsteröityy,
+Puhuja 1: että on samantyyppisiä
+Puhuja 1: kahviloita joka paikassa.
+Puhuja 1: Turisteja on niin
+Puhuja 1: paljon, koska ihmiset matkustaa nykyään niin hirveästi.
+Puhuja 1: Tavallaan suhtautuminen
+Puhuja 1: paikallisiin on jotenkin silleen, että tuntuu vähän niinku eksploittaavalta
+Puhuja 1: ja häiritsevältä, että mitä mä oikein teen täällä,
+Puhuja 0: ja erilaisiin kulttuureihin tutustumiselta.
+Puhuja 0: Mutta siinä on ollut tuo ihmeellinen sivuma siitä, että jos mä nyt vaikka hengaan jotenkin paikallisten kanssa jossain Indonesiassa tai vaikka Keniassa,
+Puhuja 0: niin eihän se ole millään tavalla kuitenkaan tasa-arvoista se hengailu. Se on jotenkin tosi
+Puhuja 0: omituinen sellainen vyyhti
+Puhuja 0: erilaisia valta-asetelmia.
+Puhuja 0: Jotenkin
+Puhuja 0: jälkikäteen tulee aina vähän sellainen fiilis, että olinko mä nyt oikeasti,
+Puhuja 0: oliko tämä hyvä homma, tiedättekö?
+Puhuja 0: Mä en osaa oikein sanoittaa sitä,
+Puhuja 0: mikä se fiilis on, mutta siinä on joku sellainen tunne siitä, että tämä ei ole
+Puhuja 0: vain sellaista
+Puhuja 0: helppoa ja hyväntahtoista hengailua,
+Puhuja 0: kun puhutaan ihmisistä, joiden
+Puhuja 0: vaikka
+Puhuja 0: kuukausipalkka
+Puhuja 0: on saman verran kuin mitä sä oot maksan jostain sun lounasta.
+Puhuja 1: Mut toi on just jännä asetelma toi että niinku länsimaista
+Puhuja 1: tai
+Puhuja 1: silleen west-tyyppisestä
+Puhuja 1: maasta ihmiset lähtee niinku laajentamaan just omaa tota
+Puhuja 1: tavallaan niin kuin käsitystään asioista ja odottaa saavansa itsellensä asioita
+Puhuja 1: tavallaan muiden ihmisten tai muiden
+Puhuja 1: kulttuurien
+Puhuja 1: kustannuksella.
+Puhuja 0: Että ongelmallista sitten taas toisaalta,
+Puhuja 0: että
+Puhuja 0: mikä sellainenkaan maailma olisi sitten, missä
+Puhuja 0: ei matkustettaisi
+Puhuja 0: ja ei tavattaisi
+Puhuja 0: erilaisia ja uusia ihmisiä. Että on sekin vähän surullinen
+Puhuja 0: maailma mun mielestä.
+Puhuja 0: Näin on. Itse haluaisin vaan pyöräillä maailman ympäri. Sehän olisi
+Puhuja 0: hyvä meininki. Hei, tuleeko matkustamisesta
+Puhuja 0: vielä teille mieleen jotakin? Tässä ollaan menty Varkaudelta
+Puhuja 0: Balille.
+Puhuja 0: Varkaudesta.
+Puhuja 2: Varkaudesta,
+Puhuja 0: niin. Järkyttävää. Suosittelen siis Savon matkailua ehdottomasti.
+Puhuja 0: Hei,
+Puhuja 0: tässä
+Puhuja 0: kun me kohta sitten lähdemme kimppakyydillä
+Puhuja 0: sinne
+Puhuja 0: musiikin museoon kokeilemaan kaikenlaisia erilaisia urkuja ja pillejä,
+Puhuja 2: niin mistä te siinä matkalla haluaisitte puhua? Saanko mä kertoa ensinnäkin, kun mun pitää lähteä. Joo.
+Puhuja 2: Mä kävin eilen elokuvissa.
+Puhuja 2: Siellä oli turvavälit, elokuvateatteria oli hyvin tyhjä.
+Puhuja 2: Kävin katsomassa semmoisen leffan kuin Dark Waters,
+Puhuja 2: joka perustuu semmoiseen New York Times Magazanin artikkeliin, joka on tosi hyvä, kantsii lukea se. Se on julkaistu kaksituhatta kuusitoista.
+Puhuja 2: En spoilaa liikaa, mutta se käsittelee
+Puhuja 2: sellaisen
+Puhuja 2: liikejuristin
+Puhuja 2: kamppailua,
+Puhuja 2: yhtä maailman suurinta kemikaaliyhtiöitä
+Puhuja 2: Duponttia vastaan.
+Puhuja 2: Siinä on kyse tavallaan siitä, että miten
+Puhuja 2: Dupont
+Puhuja 2: myrkyttää meitä
+Puhuja 2: ja mitä sille voi tehdä ja miten
+Puhuja 2: systeemi on luotu
+Puhuja 2: usein suojelemaan
+Puhuja 2: tällaisia
+Puhuja 2: tahoja ja miten hankalaa saattaa heitä vastuuta. Se on tosi kiinnostava. Tavallaan
+Puhuja 2: myös se juttu tavallaan jatkuu, että se ei ole mikään tämmöinen historiapläjäys, vaan tulee ihan tähän hetkeen saakka. Olet kyllä tosi raskaiden juttujen ystävä, Paavo. Mutta se on hyvä, ei ole mikään raskaselokuvassa
+Puhuja 2: katsomassa.
+Puhuja 0: Okei, hyvä. Kiitos tästä. Mitä Jina-Sofia suosittelisi? Mitä juosta? Joo, kiitos,
+Puhuja 0: Paavo, kun olit täällä.
+Puhuja 1: Mä suosittelen tota Politiics
+Puhuja 1: Tiery Oder nimistä
+Puhuja 1: podcastia,
+Puhuja 1: joka löytyy
+Puhuja 1: ainakin Spotifysta ja podcast-palveluista.
+Puhuja 1: Siellä on
+Puhuja 1: mukavia
+Puhuja 1: puolen tunnin
+Puhuja 1: jaksoja, joissa on aina vieraana joku
+Puhuja 1: tutkija tai teoreetikko-ajattelija,
+Puhuja 1: joka puhuu jostain ajankohtaisesta
+Puhuja 1: ilmiöstä ja jotenkin omasta
+Puhuja 1: näkökulmastaan.
+Puhuja 1: Siinä on
+Puhuja 1: mielenkiintoisia juttuja ja se
+Puhuja 1: napakka mitta tekee sellaisia, että niitä on helppo kuunnella,
+Puhuja 1: onko sulla perehtyä jonkun ajattelun.
+Puhuja 0: Onko sulla joku erityinen jakso, mitä suosittelisit, mistä kannattaa aloittaa?
+Puhuja 1: Nyt oli just ilmestynyt tuo. Ajattelin just tänään kuunnella, mutta en vielä ehtinyt toi, että missä oli ruotsalainen
+Puhuja 1: Andreas Malm puhumassa
+Puhuja 1: ilmastonmuutoksesta
+Puhuja 1: ja
+Puhuja 1: koronasta ja siitä, että mitä seuraavaksi
+Puhuja 0: voi tapahtua. Hei, mä oon lukenut sen Malmin kerta kaikkiaan artikkeleita. Sehän on tosi kiinnostava tutkija ja se on ottanut kantaa tällaiseen post humanistiseen
+Puhuja 0: keskusteluun ja muuhunkin
+Puhuja 1: siellä Ruotsissa, että terävä tyyppi. Joo, se progress of this Sterm
+Puhuja 1: niminen kirja oli tosi hyvä, mä luin sen viime syksynä.
+Puhuja 0: Siistiä, tosi
+Puhuja 0: hyvä suositus.
+Puhuja 0: Mun suosittelu
+Puhuja 0: on tosi paljon kevyempi kuin
+Puhuja 0: sun ja Paavon.
+Puhuja 0: Mä suosittelen
+Puhuja 0: Master Jeff Austran
+Puhuja 0: uusintatuotantokautta,
+Puhuja 0: koska Master Jeff Australia on ehkä maailman eniten hyvän mielen ohjelma, kun siellä kukaan ei huuda kenellekään, vaan kaikki tsemppaa toisiaan, ja siinä on kyse hyvästä ruuasta
+Puhuja 0: ja ihmisten taituruuden ihmettelystä.
+Puhuja 0: Nythän siellä on uudet tuomarit.
+Puhuja 0: Ne
+Puhuja 0: tuomarit, jotka on olleet kaikissa edellisissä kausiissa,
+Puhuja 0: niin ei ole tällä kertaa mukana, koska ne pyysi niin paljon palkkaa, että
+Puhuja 0: tuotantoyhtiö ei enää suostunut siihen.
+Puhuja 0: Se voi tuntua aluksi vähän hankalalta, vähän niin kuin tällaisten podcastienkin
+Puhuja 0: kuuntelu, kun tyypit vaihtuu.
+Puhuja 0: Mutta
+Puhuja 0: siis ne uudet tuomarit on tosi ihania ja tämä uustuomakausi on sellainen, että siellä kaikilta edellisiltä kausilta otettu kilpailijoita.
+Puhuja 0: Tämä on tällainen all start tuotantokausi. Ne on
+Puhuja 0: tosi ihania.
+Puhuja 0: Mulla on tapana illalla
+Puhuja 0: syödä muroja ja sitten katsoa sitä Masterchia ja kuvitella, että syön jotain hienoa kuumea ruokaa.
+Puhuja 0: Mä myös kuvittelen, että jonakin päivänä minäkin inspiroidun
+Puhuja 0: ruoanlaitosta
+Puhuja 0: katsomalla Master Jeff Australia, mutta ei sitä kyllä varmaan ikinä tapahdu. Koronakeväänkin aikana innostuin hetkeksi. Hapan juurileipää ja kaikkea leivoi, mutta se on jäänyt jo taaksepäin kuin viisi nolla koronkuoleman rajapyykki Ruotsissa. Ehkä voidaan kuvata Kainuussa
+Puhuja 1: se master Jeff seuraavaksi tai vaikka siellä Savossa ja sitten voit osallistua sinne jonnekin
+Puhuja 1: master Jeff Varkaus
+Puhuja 0: tai Kaj. Niinpä. Siis mä kuulin, että Temptation ILland kuvataan nyt
+Puhuja 0: tuolla Kainuussa ja mua harmittaa, että mä en tiennyt tästä ajoissa, koska olisin varmaan hakenut mukaan siinä. Niinpä. Sen piti alun perin olla Lahdessa, mutta kun ne kaikki osallistujat on
+Puhuja 0: Hei, tässä kaikki tältä päivältä.
+Puhuja 0: Kiitos
+Puhuja 0: Ida-Sofia,
+Puhuja 0: kun olit jälleen mukana. Kiitokset vielä Paavelle, joka lähti
+Puhuja 0: selvittämään seuraavia
+Puhuja 0: riistoasioita
+Puhuja 0: Suomessa.
+Puhuja 0: Ääneen ja kuvan ja kaiken ihanan meille tänään tekee Kristiina Marttinen.
+Puhuja 0: Lähettäkää meille kaikkea söpö ja kivaa palautetta:
+Puhuja 0: uutisraportti, ja nähdään ensi viikolla.

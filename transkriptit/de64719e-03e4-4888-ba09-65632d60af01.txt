@@ -1,0 +1,446 @@
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisrobotti-podcastiin
+Puhuja 0: ja Facebook Liven huhtikuun yhdeksäntoista.
+Puhuja 0: Päivänä vuonna kaksituhatta seitsemäntoista. Minä olen Tuomo Peltomäki,
+Puhuja 0: mukana myös Helsingin Sanomien
+Puhuja 0: nykyinen sunnuntailiitteen
+Puhuja 0: toimittaja
+Puhuja 0: Marko Junkkari. Terve, Marko. Jo neljättä päivää. Jo neljättä päivää. Miltäs se maistuu siellä suklaakomppaniassa?
+Puhuja 1: Se on,
+Puhuja 1: voin tälleen niin kuin vakaa-alan neljänpäiväkokemuksen
+Puhuja 1: sanoa, että se on todella raskasta työtä.
+Puhuja 0: En usko, eikä usko kukaan muukaan.
+Puhuja 0: Samassa
+Puhuja 0: toimituksessa hän myös
+Puhuja 0: toimittaa Anna-Sofia Berner ystävien kesken sohvi. Heipä
+Puhuja 2: hei, Tuomas, on tosi raskasta.
+Puhuja 1: Istutteko te vierekkäin? Ei. Siinä on yksi rivi meidän välissä.
+Puhuja 1: Me istutaan nykyään toimituksessa
+Puhuja 1: pari rivissä ja jonossa.
+Puhuja 0: Minkälaista siellä on
+Puhuja 0: verrattuna tähän uutistyöhön, mitä sinäkin olet Marko aiemmin tehnyt?
+Puhuja 1: Olin siis sunnuntaitoimituksessa
+Puhuja 1: myös viime kevään, mutta
+Puhuja 1: se
+Puhuja 1: on se erilaista. Siinä on tavallaan enemmän aikaa
+Puhuja 1: tehdä juttuja, mutta se on henkisesti paljon raskaampaa, koska silloin kun on aikaa tehdä sitä juttua, niin ei ole mitään tekosyytä jos tulee sutta ja sekunteja.
+Puhuja 0: Huonoja juttuja voi kirjoittaa. Ei pystytä ainakaan perustelemaan siihen, että ei pysty. Tuohon sisältyy se ajatus, että niin kuin uutispuolella
+Puhuja 0: voisi kirjoittaa huonoja juttuja. Ei,
+Puhuja 1: mutta uutispuolella siinä on rajallinen se aikaa. Yleensä sinun pitää kirjoittaa deadlineä
+Puhuja 1: vastaan ja jossa sulla on käytännössä vain muutama tunti aikaa tehdä siinä. Niin.
+Puhuja 0: Tämän viikon
+Puhuja 0: puhutaan Britannian ennenaikaisista
+Puhuja 0: parlamenttivaaleista.
+Puhuja 0: Pääministeri Teresa me ei yllätti kaikki Britanniassa ja myös muualla. Päätti pitää vaalit taas kesäkuussa.
+Puhuja 0: Onko tällä mitään merkitystä Brexitin
+Puhuja 0: kannalta?
+Puhuja 0: Lisäksi pääsiäistavon
+Puhuja 0: aikana käytin kunnallisvaalit, palataan vielä niihin. Lopuksi veikkaan Ranskan
+Puhuja 0: presidentinvaalien
+Puhuja 0: tulosta. Vaalit käydään siis nyt sunnuntaina.
+Puhuja 0: Lopuksi hyviä keskustelun aiheita pitkien
+Puhuja 0: epämukavien hiljaisyyksien varalle.
+Puhuja 0: Ennen kuin aloitetaan juttelu, niin minulla on pieni pyyntö teille kaikille kuuntelijoille. Jos tykkäät kuunnella tätä podcastia, se auttaa sinua esimerkiksi siivoamisessa tai pitkillä ajomatkoilla tai muuten vaan, sinusta on kiva kuunnella Markon ja Sohvin viisaita sanoja. Ole ystävällinen
+Puhuja 0: ja jaa tämä eteenpäin sosiaalisessa
+Puhuja 0: mediassasi
+Puhuja 0: tai twiittaa meille tai kasvotusten käy suosittelemassa kavereillesi,
+Puhuja 0: että hekin kuuntelisivat tätä. Siitä on oikeasti ihan hirveästi hyötyä.
+Puhuja 0: Joka kerta, kun joku meidän rakkaista kuulijoista on viitannut
+Puhuja 0: podcastista tai maininnut omassa Facebookissa,
+Puhuja 0: niin meillä näkyy täällä tilastoissa kuusi
+Puhuja 0: uutta kuuntelijaa. No,
+Puhuja 0: sille päivitämme.
+Puhuja 0: Mitä enemmän meillä on kuulijoita, sitä enemmän meillä on aikaa tehdä tätä podcastia.
+Puhuja 0: Okei, varsinaiset aiheet tuli tuossa aiemmin mainittua, mutta puhutaan nyt hot Take.
+Puhuja 0: Juuri tällä hetkellä
+Puhuja 0: tänään,
+Puhuja 0: keskiviikkona
+Puhuja 0: hallitus
+Puhuja 0: on esitellyt omat tiedustelulakiinsa
+Puhuja 0: eli
+Puhuja 0: pyrkivät antamaan
+Puhuja 0: valtaoikeuksia
+Puhuja 0: armeijalle ja Supolle vakoilla
+Puhuja 0: ihmisiä, eikö näin Marko?
+Puhuja 1: Tästä
+Puhuja 1: ei ole vielä hallituksen esitystä jos nyt puhutaan näistä tavallaan prosessista niin nyt oli siis kaksi
+Puhuja 1: työryhmää sisäministeriön ja... Puolustusministeriön
+Puhuja 1: työryhmät jotka julkistivat sekä... Sotilastiedustelusta
+Puhuja 1: että siviilitiedustelusta.
+Puhuja 1: Mutta ne raportit suurin piirtein hallituksen esityksestä. Nämä on ne työryhmien ehdotukset ja sitten tavallaan hallitus nyt katsoo niitä ja sitten tekee niistä
+Puhuja 0: lakiesitykset. No mitä siellä oikein ehdotetaan?
+Puhuja 1: No siellähän nyt on vaikka mitä. Ehkä me ei kannata tässä käydä niitä yksityiskohtia läpi, mutta tähänhän liittyy ehkä
+Puhuja 1: massavalvontaan se suuri kysymys, että
+Puhuja 1: miten laajasti
+Puhuja 1: annetaan viranomaiselle oikeus valvoa, mutta poliittisesti tässä on myös kiinnostavaa se, että hallituspuolueet
+Puhuja 1: ja aika moni oppositiopuolueenkin
+Puhuja 1: on sitä mieltä, että tämä laki pitäisi säätää
+Puhuja 1: nopeutetussa
+Puhuja 1: järjestyksessä, koska
+Puhuja 1: perustuslaki takaa kirjesälaisuuden
+Puhuja 1: ja tavallaan tämä
+Puhuja 1: siviiliterustelulaki
+Puhuja 1: mahdollistaisi
+Puhuja 1: yksityisten viestien seuraamisen uudella tavalla. Perustuslakia pitää muuttaa ja perustuslakia on
+Puhuja 1: tehty semmoiseksi, että sitä ei noin vaan muutella. Elikkä se vaatii,
+Puhuja 1: jos halutaan tehdä nopeutetusti, se vaatii ensin viisi kuudes enemmistön. Eduskunnan
+Puhuja 0: kansanedustajista
+Puhuja 0: viiden kuuresta täytyy puoltaa sitä. Nopeutettua
+Puhuja 1: järjestystä jonka jälkeen sitten kaksikymmentäkolme
+Puhuja 1: vaaditaan sen lain hyväksymiseen. Mutta siis teoriassa tämä laki voitaisiin saada voimaan jo syksyllä.
+Puhuja 0: Okei no voiko se mennä läpi?
+Puhuja 1: No se on kiinnostavaa.
+Puhuja 1: Sä
+Puhuja 0: kuitenkin juttelet niiden kansanedustajien kanssa ja tunnustelet siellä, että mitä mieltä ne on. No joo, ja missäs teitä tästä aiheesta viime viikolla jutunkin? Näissä
+Puhuja 0: soitin. Oikeastaan koko kampanjan
+Puhuja 0: ajan.
+Puhuja 0: Asiantuntijat
+Puhuja 0: pitää tätä sen verran painavana, että hän ei ehkä sen vuoksi pärjää.
+Puhuja 1: Katse,
+Puhuja 1: hän on ollut nousussa käsitettäisiin. On nousussa. Itse asiassa
+Puhuja 0: kolme
+Puhuja 0: suurinta erkasta on aika lailla tasoissa. Ensimmäistä kertaa historiassa
+Puhuja 0: näyttää todennäköiseltä, että Ranskan presidentti on joku muu kuin sosialisti tai rembblikaani.
+Puhuja 0: Silläkin tavalla
+Puhuja 0: nämä ovat historialliset vaalit. Mutta sen asetelman sijaan
+Puhuja 0: yksi ainoa kysymys, mikä näihin
+Puhuja 0: vaaleihin liittyy
+Puhuja 0: on tietenkin se, että äänestäkö Ranska ensimmäistä kertaa historiassa itselleen naispresidentin.
+Puhuja 0: Jota kaikki pelkää? Niin, jota kaikki pelkää sitä kylmää
+Puhuja 0: Eli Marin Lepen.
+Puhuja 0: Pidättekö te Lepenistä?
+Puhuja 0: Tämä oli penin vitsi.
+Puhuja 0: Kiitos, Tuomas. Kiitos Tuomas. Kiitoksia Henkalle, joka eilen toisteli
+Puhuja 0: Lepen
+Puhuja 0: penitsiä
+Puhuja 0: tauotta.
+Puhuja 0: Eka kylmät veikkaukset. Mitä siinä
+Puhuja 0: käy? Ensimmäinen kierros nyt. Mitäs
+Puhuja 0: siinä käy?
+Puhuja 2: Mun täytyy sanoa, että mun
+Puhuja 2: ranskalaiset,
+Puhuja 2: olen toki seurannut mitä Lepetistä sanotaan, mutta mun ranskalaisen sielunmaisemantuntijuus
+Puhuja 2: on olevanonta. Minun ei ole aavistustakaan.
+Puhuja 1: Kyllä
+Puhuja 1: me oikein odotan koska kohta Tuomas vinkkaa että Lepen on ottanut kovaa aina. Tiedän että
+Puhuja 1: hän on samaa trompista ja hän on vähän polleena edelleen tästä veikkauksesta.
+Puhuja 1: Kyllä veikkaan Lepen toisella kierroksella. Niin se
+Puhuja 0: on. Lepän kakkoskierrokselle
+Puhuja 2: ja kaveriksi macro. Niin sehän on kiinnostavaa tässä viime päivinä puhuttu tästä, hetkinen osa on lähes sanoa hänen nimensä
+Puhuja 2: melan koonista.
+Puhuja 1: Miten se lausutaan tuolla? Saksa-Ranske on? Shaann
+Puhuja 2: Duklen koon,
+Puhuja 2: joka nousi sinne noin yhdeksäntoista
+Puhuja 2: prosenttia samoihin
+Puhuja 1: Fioon kanssa. Joka tämä on Melen Georg, mikä sanoi.
+Puhuja 1: Hänhän on heidännyt ainakin somemainetta näillä hologrammeilla. Niin on,
+Puhuja 0: se väriläiska. Eli hän esiintyi kahdella vai kolmella lavalla yhtä aikaa. Jos Lepen on tavallaan Game Fronesista se white walker,
+Puhuja 0: sen tyyppinen hahmo, niin tämä on
+Puhuja 0: kääpiö Geot Thronesista. Mikä hänen nimensä on? Trian! Trian! Niin, kyllä. Tämmöinen
+Puhuja 0: hyvinkin värikäs
+Puhuja 2: ja teräväsanainen hahmo. Mutta myös aika pelottava.
+Puhuja 0: Että myös tällainen räyhä vasemmistolainen.
+Puhuja 2: Minusta mä aloin miettiä, että tämä on hämmentävää, että mistä
+Puhuja 2: näitä
+Puhuja 2: vanhoja vasemmistolaisia ukkoja tulee!
+Puhuja 2: Siis korbin,
+Puhuja 2: Elekoon,
+Puhuja 2: Sanders
+Puhuja 2: ja nuoret kannattaa, ainakin sekä Korbin että Sanders
+Puhuja 1: ja että
+Puhuja 0: Mutta jatkan Veikkausta toisin kuin. Asiantuntijathan
+Puhuja 0: siis ennustavat, että Lepen menee kakkoskierrokselle
+Puhuja 0: ja saa kaverikseen
+Puhuja 0: Maclonin,
+Puhuja 0: joka voittaa. Minä menen tässä asiantuntijavasta-eväeltä,
+Puhuja 0: että Lep voittaa. Arvasemmassa. Tämä edellä mutulla,
+Puhuja 0: mutta ainoa syy, miksi veikkaan, että Lepen
+Puhuja 0: voittaa on se, että Ranskassa on ollut niin verinen
+Puhuja 0: ja maahanmuuttoon ja islamismiin ja
+Puhuja 0: toisen polven ranskalaisiin maahanmuuttajataustaisiin
+Puhuja 0: liittyvä
+Puhuja 0: lähihistoria, siis puhutaan viimeistä viidestä vuodesta. Se on ollut niin verinen, niin julma, niin kammottava,
+Puhuja 0: että mun on vaikea nähdä etteikö se painaisi huomattavasti
+Puhuja 1: enemmän kuin että mitä täällä Suomessa pystytään edes käsitomaan. On ja samaan aikaan siellähän on raskas korkea työttömyysaste.
+Puhuja 1: Siellä maan taloudella menee
+Puhuja 1: todella
+Puhuja 1: huonosti.
+Puhuja 1: Uskon kuka että Le Pen on, että hänellä olisi lääkkeitä tämän talouden kääntämiseen, mutta
+Puhuja 1: silloin kun ihmisiä harmittaa niin silloin on kiva muistaa. Ranska on kuitenkin meidän
+Puhuja 2: demokratian
+Puhuja 2: synnyinmaa
+Puhuja 2: yhdessä Britannian kanssa,
+Puhuja 2: mutta
+Puhuja 2: Ranskassa
+Puhuja 2: eurobarometri kyselyssä kahdeksankymmentäkaksi prosenttia ranskalaiset
+Puhuja 2: piti taloustilannetta huonona,
+Puhuja 2: seitsemänkymmentäkuusi
+Puhuja 2: prosenttia uskoo, että niiden maa on menossa väärään suuntaan,
+Puhuja 2: yhdeksänkymmentä prosenttia ei lueta poliittisiin puolueihin, mikä on kiinnostavaa, koska
+Puhuja 2: sekä Macron
+Puhuja 2: ei ole mitään puoluetta. Se vaan päätti lähteä ehdolle.
+Puhuja 1: Hän ei ole koskaan ollut ehdolla missään vaaleissa. Hän on entinen
+Puhuja 0: talousministeri. Joo, joo. Olaandin entinen talousministeri.
+Puhuja 0: Mutta varmaan irtisanoutuakseen
+Puhuja 0: Olaandista vielä enemmän perustetaan En mars
+Puhuja 0: kansan liikkeen
+Puhuja 0: ja on nyt
+Puhuja 0: niillä eväillä vaaleissa ehdokkaana.
+Puhuja 1: Ja sehän
+Puhuja 1: on muistaakseni entinen investointipankkiiriä.
+Puhuja 0: Eliittien
+Puhuja 0: eliittiä.
+Puhuja 1: Edustan varmaan aika oikeistolaista talouspolitiikkaa, mutta samaan aikaan, koska hänellä ei ole mitään
+Puhuja 1: sitoumuksia, niin se napsii sieltä sun täältä näitä ajatuksia. Joo,
+Puhuja 2: mutta ranskalaiset ei
+Puhuja 2: todellakaan luota
+Puhuja 2: Ranskan tulevaisuuteen tai
+Puhuja 2: johtoon tai yli puolet ei lueta edes oikeus järjestelmää. Sehän kuulostaa
+Puhuja 2: joltain
+Puhuja 2: kehitysmaalta.
+Puhuja 1: Niin. Näin on, mutta onpas kyllä. Tulee kiinnostavat vaalit. Ihmisten
+Puhuja 0: otsissa paisuu sellainen kupla, joka poksahtaa kohta ja vie läpenin voittoon. Mun mielestä näitä kaikkia
+Puhuja 2: keskusteluita yhdistää
+Puhuja 2: puolueiden asema ja se on äärimmäisen kiinnostavaa.
+Puhuja 2: Muistatko Marko vastaavaa, onko tämmöistä tapahtunut näin suurta
+Puhuja 2: puolueiden
+Puhuja 2: asemien romahtamista ja toisten nousua ja muutoksia?
+Puhuja 1: En osaa sanoa.
+Puhuja 1: Kun nykyinen
+Puhuja 1: puoluejärjestelmä
+Puhuja 1: syntyi, niin sehän syntyy
+Puhuja 1: samoihin aikoihin 1900-luvun alkupuolella
+Puhuja 1: kaikkialla Euroopassa. Toki on vanhempiakin,
+Puhuja 1: mutta nykyinen puoluejärjestelmä on syntynyt teollisvan
+Puhuja 1: yhteiskunnan tarpeisiin. Oliko
+Puhuja 2: Suomi outo poikkeus, jossa keskustapuolue
+Puhuja 1: maalaisliitto on onnistunut pitämään asemistaan kiinni. Onhan Suomi siinäkin poikkeus, että kaikkiin eurooppalaisiin verrokkeihin verrattuna, Suomihan oli agraari mua 1960-luvulla.
+Puhuja 0: Suomessa on niin hyvä maaseutu. No niin
+Puhuja 0: on. Täällä kelpaa viljelyyn.
+Puhuja 2: Tai sitten
+Puhuja 2: se ehkä juontaa juurensa sisällis sataan ja sen jälkeen päätettiin antaa ihmisille maata, jottei ne tarvitsisi enää aseisiin. Ja sen takia meillä on vieläkin Ja vielä isommassa makrokuvassa, väitän, että se jollain tavalla liittyy siihen, että me ollaan niin pohjoinen ja
+Puhuja 0: nimenomaan maaseudullisesti
+Puhuja 0: paska maa.
+Puhuja 0: Sen takia täällä on tarvittu voimallisesti
+Puhuja 0: yhteistä
+Puhuja 0: asioiden
+Puhuja 0: ajamista nimenomaan maaseudun
+Puhuja 0: ihmiselle, koska muuten ne kaikki kuolisi. Koska eihän tuolla routasessa pellossa mikään kasva.
+Puhuja 1: Minusta jotenkin se muutos on vielä, olen samaa mieltä, että puolueenjärjestelmän
+Puhuja 1: romahtaminen tai romuttuminen
+Puhuja 1: on tosi kiinnostavaa.
+Puhuja 1: Yksi muutos on se, että perinteisesti
+Puhuja 1: puolueet
+Puhuja 1: perustettiin ajamaan jonkun väestöryhmän etuja. Ne
+Puhuja 1: oli etujärjestöjää tavalla.
+Puhuja 1: Demarit ajoi työväestön
+Puhuja 1: etuja ja lyhyttä työpäivää
+Puhuja 1: ja palkankorotuksia
+Puhuja 1: AY-liikkeen
+Puhuja 1: tuella. Ja sitten taas
+Puhuja 1: Maalaisliittokeskusta
+Puhuja 1: oli
+Puhuja 1: maanviljelijöiden
+Puhuja 1: puolue, joka
+Puhuja 1: oli tiivisti kytköksissä MTK:n
+Puhuja 1: kanssa, ja kokoomus oli tämmöisten
+Puhuja 1: virkamiesten ja vauraampien ihmisten puolue. Kaikki ajo veroja las kokoomuksessa
+Puhuja 1: ja
+Puhuja 1: maataloustukia
+Puhuja 1: siellä keskustassa
+Puhuja 1: ja työläisten oikeuksia demareissa. Mutta tämä
+Puhuja 1: etujärjestötilanne
+Puhuja 1: on jollain tavalla muuttunut. Nyt
+Puhuja 1: ei ole enää selkeitä väestöryhmiä, eikä selkeitä etuja ihmisillä mitä voisi ajaa.
+Puhuja 1: Ne ei äänestä enää rationaalisesti
+Puhuja 1: maksimoidakseen
+Puhuja 1: oman etunsa, vaan ne on maksimoidakseen
+Puhuja 2: jonkinlaisen mielikuvan itsestään. Onko tämä sitten taas,
+Puhuja 2: mietin sekä brittien suhteen että Ranskassa
+Puhuja 2: liittyen myös Vihreiden puheenjohtajaan,
+Puhuja 2: niin ylipäätään
+Puhuja 2: henkilöiden merkitystä ja johtajien merkitystä, niin se varmasti tavallaan korostuu entisestään, koska ne asiat on niin hämmäsisiä, niin sitten tulee
+Puhuja 2: messius-tyyppisiä
+Puhuja 2: toisille
+Puhuja 1: Lepen. On ja tämä politiikan
+Puhuja 2: persoitu.
+Puhuja 2: Ja
+Puhuja 1: politiikan
+Puhuja 1: personoituminen,
+Puhuja 1: sehän
+Puhuja 1: on tapahtunut kaikkialla maailmassa.
+Puhuja 0: Niin, ja se tietenkin liittyy myös siihen, että nyt nämä poliitikot pystyvät viestimään
+Puhuja 0: itse ilman, että meikäläisin on siinä välissä. Niin pystyvät saamaan sanansa kuuluviin. Mikä on varmaan loppujen lopuksi
+Puhuja 0: hyvä asia.
+Puhuja 0: Okei, hei.
+Puhuja 0: Jäädään jännittämään
+Puhuja 0: Ranskavaaleja.
+Puhuja 0: Mä sanon sen, tämä on vielä toistaiseksi en ole tarkistanut onnistuuko tämä. On hyvin mahdollista, että me tehdään Ranskan vaalien tulosiltalive.
+Puhuja 0: Ai jaa, ketkä tämän? Enkä minä?
+Puhuja 0: Uutisraportin
+Puhuja 0: kirjoittajien vieraiden ja
+Puhuja 0: pyydetään vieraita ja muita. Ehkä tehdään suora tulosilta Ranskan vaaleista. Siis sunnuntaina täällä
+Puhuja 0: Facebookissa. Mutta katsotaan.
+Puhuja 0: Tämä on vielä auki.
+Puhuja 0: Hei,
+Puhuja 0: mennään eteenpäin. Sitten kun
+Puhuja 0: esimerkiksi sunnuntaina
+Puhuja 0: tiukan vaalilan jälkeen
+Puhuja 0: katsotte, että millä
+Puhuja 0: mallilla maa makaa, haluatte siinä ehkä pienen dringson ottaa
+Puhuja 0: ystävienne seurassa. Niin mistäs puhututte muuta kuin ranskan vaaleista?
+Puhuja 1: Olen itse asiassa sunnuntaiaamuna lähdössä Puolaan, että voisin puhua puolestaan.
+Puhuja 1: Siinä on tosi hauska mennä. Olen käynyt siellä minne päin Puolaan. Varso on minun pariksi päiväksi.
+Puhuja 1: Puola on tosi kiehtova maa. Olen itse käynyt viimeksi
+Puhuja 0: viimeksi pikkupoikana 80-luvun alussa. Olen käynyt itse viimeksi viimeksi tammikuussa.
+Puhuja 0: Missä sinä kävit? Minä kävin Tanskissa.
+Puhuja 1: On, se on minusta kiehtova maa.
+Puhuja 1: Vaikka aika paljon tulee
+Puhuja 1: Euroopassakin tullut matustettua, aina tulee ventyä Puolan yli.
+Puhuja 1: Se jää jotenkin siihen vähän niin kuin jalkoihin. Kaikki jotka on siellä käynyt viime aikoina, kehuvat.
+Puhuja 0: En olisi
+Puhuja 0: ihanimpia reissoja.
+Puhuja 2: Sielläkin politiikkaa.
+Puhuja 1: No siellä se vasta onkin.
+Puhuja 0: Kävin
+Puhuja 0: myös
+Puhuja 0: tällä viikolla. Ei kun, viime viikolla. Kävin Berliinissä.
+Puhuja 0: Molemmat
+Puhuja 0: on aivan mielettömän ihania reissuja, pidin suuresti molemmista paikoista.
+Puhuja 0: Mutta pakko sanoa, että esimerkiksi kahvila ja baariskene oli Danskissa huomattavasti
+Puhuja 0: kuulimpaa
+Puhuja 0: kuin Berliinissä.
+Puhuja 0: Kaikki
+Puhuja 0: oli tyylikkäämpää,
+Puhuja 0: viimeistellympää
+Puhuja 0: ja sisustus oli
+Puhuja 0: oli
+Puhuja 0: oli
+Puhuja 0: puolalaisen rakennustyömaan
+Puhuja 0: työmaaruokalassa,
+Puhuja 0: jossa valtavan lihava mummo
+Puhuja 0: valtavan kauhan kanssa keitteli
+Puhuja 0: jotain puolalaista perunasoppaja, koska aina en ole maistanut mitään niin hyvää, mutta se oli. Puolalaiset on mun talossa meneillään julkisivuremonttia
+Puhuja 2: ja opin siellä kokouksessa että joku puolalainen
+Puhuja 2: piikkaajaryhmä on
+Puhuja 2: paras ja ne on nyt viikon
+Puhuja 2: Pohpaja,
+Puhuja 1: muistan että puolalaiset piikkautuu poralainen perunassa.
+Puhuja 1: Ehkä mä puhun näistä.
+Puhuja 0: Okei,
+Puhuja 2: Sauli.
+Puhuja 2: Varmaan puhun siitä englannista jos mä siellä oon, en oikein koskaan käynyt Englannissa, niin on minusta jännittävää mennä, mutta olen
+Puhuja 2: nyt
+Puhuja 2: kuunnellut,
+Puhuja 2: olen
+Puhuja 2: nyt trendin ja kuuntelin pääsiäisen ja
+Puhuja 2: sitä Estaan podcastia.
+Puhuja 0: Aa,
+Puhuja 0: Kyllä. Joku puhui tästä eilen. Okei, eli shitta on.
+Puhuja 2: Mä en esimerkiksi kun ei ole
+Puhuja 2: sitä siilia ollenkaan, mikä oli se edellinen mistä kohkattiin. Siinä on
+Puhuja 2: kaksi kautta,
+Puhuja 0: jotka olivat aivan huikeita molemmat.
+Puhuja 0: Varsinkin ykköskausi oli ihan mieletön, kakkoskausi oli myös hyvä. Tämä STH on Sirjaelin tekijä nyt kolmas
+Puhuja 0: paras parissa. Se on seitsemän. Podcastien aatelija joka tapauksessa. Seitsemän jaksoa.
+Puhuja 2: Se polveilee moneen suuntaan, mutta kaikki lähtee siitä,
+Puhuja 2: että nyörkilainen radiotoimittaja
+Puhuja 2: saa soiton
+Puhuja 2: alabamasta
+Puhuja 2: ja
+Puhuja 2: leveellä aksentilla puhuva mies rupeaa selittämään, että
+Puhuja 2: siellä on tapahtunut murha ja tekijä on päässyt kuin koira veräjästä.
+Puhuja 2: Menee pitkään ennen kuin toimittaja
+Puhuja 2: lähtee käymään siellä
+Puhuja 2: vuoden päästä tai jotain mutta niiden välille muodostuu yhteydenpito
+Puhuja 2: Ja lopulta siinä koko stoorissa on kyse jostain ihan muusta. Mulla on vielä viimeinen jakso kesken. Okei, älä spoilaa, älä spoilaa. En spoilaa kun en minäkään itsekään vielä tiedä mihin tämä kaikki johtaa, mutta se on ollut kiinnostavaa.
+Puhuja 0: Ja se on siis, se ei fiktio vaan kaikki on totta. Se on kaikki totta.
+Puhuja 2: Semmoisen tarinan varmaan saisi
+Puhuja 2: aika tai olen miettinyt sitä, että Radio on kiinnostava väline
+Puhuja 0: Siis podcast, eihän nyt radioon kukaan mitään enää tee. Ääni,
+Puhuja 2: koska se on
+Puhuja 2: sellaista perinteistä
+Puhuja 2: tarinankerrontaa.
+Puhuja 2: Helposti jos lehteen kirjoittaisi, niin siihen pitäisi alkaa dumpata
+Puhuja 2: hirveästi yleistä ja miksi tämä on merkittävää ja mistä asiasta tämä oikeasti kertoo. Mutta sitten kun se on sitä puhetta, niin sitten voidaan vaan kertoa jotenkin sitä juttua. Kyllä, minun mielestä se toimii varsinkin tämmöiset pitkät,
+Puhuja 0: hyvin kirjoitetut
+Puhuja 0: journalistiset
+Puhuja 0: selostukset, niin kuin sirjallit on ollut, niin ne toimii paremmin jopa äänenä kuin tekstinä.
+Puhuja 0: Siihen jotenkin uppoutuu siihen maailmaan paljon syvemmälle.
+Puhuja 0: Ne on ihan huikeita. Minä aion kyllä kuunnella myös tuon Esthawnin.
+Puhuja 0: Me voitaisiin kanssa Hesarissa tehdä joku laaja pitkä hyvä juttu.
+Puhuja 2: Niin, mikä mun pointti oli tässä, oli se, että koska se tyyppi, joka soittaa toimittajalle ja jos tämä kaikki alkaa, niin se
+Puhuja 2: kuulostaa todella raskaalta lukijalta,
+Puhuja 2: joita välillä tulee ja joista yrittää nopeasti päästä eroon,
+Puhuja 2: jotka jää johonkin luuppiin ja selittää omia salaliittoteorioitaan
+Puhuja 2: ja muita.
+Puhuja 0: Minulla on
+Puhuja 0: monet lopun
+Puhuja 0: selostuksista ollut tosi nörttejä
+Puhuja 0: pitkän aikaa, mutta minulla on ihan hillitä nört kausi meneillään.
+Puhuja 0: Mutta enyway,
+Puhuja 0: meillä oli
+Puhuja 0: Facebookissa
+Puhuja 0: suomalaisen avoimen datan ryhmä.
+Puhuja 0: Kuulostaa tosi kuivalta.
+Puhuja 0: Siellä
+Puhuja 0: joku ihan tosi hyvin kiinnitti huomiota. Mat pingattiin siihen keskusteluun mukaan,
+Puhuja 0: että
+Puhuja 0: eduskunnan verkkosivut on aivan kammottavat.
+Puhuja 0: Ne on ihan järjettömän huonot.
+Puhuja 0: Eduskunnan verkkosivuilla on sisällä ihan valtava määrä tietoa. Kaikki puheenvuorot
+Puhuja 0: tekstimuodossa,
+Puhuja 0: kaikki videot,
+Puhuja 0: kaikki mitä eduskunnassa tehdään, kaikki pöytäkirjat, asiakirjat,
+Puhuja 0: kaikki on siellä. Se on kansalaisten kannalta, demokratian
+Puhuja 0: kannalta valtava aareitta.
+Puhuja 0: Se on rakennettu,
+Puhuja 0: vaikka se uudistettiin
+Puhuja 0: ihan vasta pari vuotta sitten,
+Puhuja 0: eduskunta teki aivan alusta loppuun uusiksi omat systeeminsä.
+Puhuja 0: He teki sen pelkästään siihen käyttöön, että ihminen menee
+Puhuja 0: pöytätietokoneella
+Puhuja 0: eduskunnan
+Puhuja 0: sivuille ja itse nakuttaa sinne jonkun etsimiskenttään,
+Puhuja 0: että mitä Mauri Pekkarinen on sanonut, ja sitten klikkailee hireroja.
+Puhuja 0: Mitä sitä ei pysty käyttämään kännykällä.
+Puhuja 0: Kukaan ei voi rakentaa, siellä ei avoimia
+Puhuja 0: rajapintoja. Siihen ei voi rakentaa mitään hakukonetta, joka
+Puhuja 0: piirtäisi kuvan siitä, ketkä on ylipäätänsä puhunut turvallisuuspoliittisista
+Puhuja 0: aiheista tai tämmöisistä.
+Puhuja 0: Meille, jotka tehdään datajournalismia, tämä on hirveä
+Puhuja 0: tavallaan murheenkryyni.
+Puhuja 0: Mutta
+Puhuja 0: minua vituttaa se suomalaisen demokratian
+Puhuja 0: ja suomalaisen yhteiskunnan kannalta, että meidän keskeiset valtioinstituutiot,
+Puhuja 0: niiden se tietotekniikka on aivan täältä paskaa.
+Puhuja 0: Siis
+Puhuja 0: ne tilaa sen jostain tiedolta sellaisen jonkun ihme mammottijärjestelmän,
+Puhuja 0: joka on tehty ihmiselle, joka elää vuodessa tuhat yhdeksänsataayhdeksänkymmentäviisi.
+Puhuja 0: Me toimittajat tai tavalliset ihmiset, tavalliset nurtit ympäri Suomea. Me ei pystytä ottamaan sieltä tietoa,
+Puhuja 0: tarjoamaan sitä ihmisille jollain järkevällä tavalla,
+Puhuja 0: milloin ihmiset tietäisi enemmän yhteiskunnastaan.
+Puhuja 0: Se on häpeä Suomen tapaiselle maalle.
+Puhuja 1: Minua tuossa,
+Puhuja 1: sanoit äsken, että eduskunnan verkkosivusto on tehty siihen käyttöön, että ihmiset hakee tätä yksittäistä asiaa. Itseasiassa se ei toimi oikein siihen, käytän sitä aika paljon. Ja se hakeminen on itse asiassa tosi vaikeaa.
+Puhuja 1: Vaikka tietää päivän
+Puhuja 1: ja tietää kuka sanoo ja suunnilleen mitä sanoo, mutta etsii tarkkaan sitaattia kun siellähän on kaikki litteroituna. Kyllä se menee aina viisitoista minuuttia. Niin ja mä tietenkin kun mä käsikirjotan sitä uutisrapsaa joka perustuu siihen,
+Puhuja 0: että tietää tasan tarkkaan mitä ihminen sanoo ja näin, niin joudun sen kanssa painiin paljon.
+Puhuja 0: Mutta
+Puhuja 0: se on niin väärin.
+Puhuja 0: Itse kun kooda, tietää sen, että siihen on riittänyt, että ne olisi puhunut kahdelle jollekin jantterille.
+Puhuja 0: Jollekin
+Puhuja 0: nörtille, jotka tietää, miten homma toimii. Tehkääisi meille joku tämmöinen, niin siinä menisi
+Puhuja 0: muutama kuukausi ja ne olisi tehnyt varmaan puolet halvemmalla kuin se systeemi, mikä tilattiin. Mutta se on hirveän ongelma, että meille tilataan mammuttioimijoilta
+Puhuja 0: ihan Giganttisia systeemejä, jotka ei huomioi tavallista ihmistä ollenkaan.
+Puhuja 0: Ehkä tylsiä,
+Puhuja 0: anteeksi kaikille kavereille,
+Puhuja 0: joille puhun lasin ääressä näistä aiheista, mutta täytyy vituttaa.
+Puhuja 0: Hyvä, Siinä kaikki tällä erää. Kiitos Anna-Sofia Berner. Kiitos, Tuomas. Kiitos, Marko Junkkari. Kiitos, Tuomas. Minä olen Tuomas Pelmäki. Katsokaa uutisraportin
+Puhuja 0: uusin jakso todennäköisesti nyt perjantaina osoitteessa Facebook piste comuutisraportti
+Puhuja 0: ja HSY.
+Puhuja 0: Fiuutisraportti.
+Puhuja 0: Käykää tykkäämässä Facebook-sivusta ja lähettäkää kommentteja Twitterissä
+Puhuja 0: uutisraportti.
+Puhuja 0: Pelkkä moikkahan riittää. Aina mahtava kuulla.
+Puhuja 0: Todella ihanaa, jos joku tviittaa ja huomataan se.
+Puhuja 0: Kuullaan taas ensi viikolla.

@@ -1,0 +1,501 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
+Puhuja 0: miljardit.
+Puhuja 1: Helsingin
+Puhuja 2: Sanomat
+Puhuja 3: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 3: podcastiin ja livelähetykseen
+Puhuja 3: torstaina kahdeksan. Elokuuta.
+Puhuja 3: Minun nimeni on Tuija Siltamäki ja kanssani täällä Sanomatalossa Helsingissä
+Puhuja 3: vesilaseja pöydälle kaataa kaupunkitoimittaja
+Puhuja 3: Milka Valtanen. Hei.
+Puhuja 3: Ja Flow-asua valitsee
+Puhuja 3: politiikan toimittaja Teemu Muhonen. Moi. Tervetuloa taas joukkoomme Teemu. On taas todella kiva olla täällä.
+Puhuja 3: Kiva kun pääset näin lyhyellä varoitusajalla.
+Puhuja 3: Tämän viikon podcastissa puhutaan ainakin aseista,
+Puhuja 3: väärin tehdyistä lottoriveista
+Puhuja 3: ja kielipeleistä.
+Puhuja 3: Käsittelyssä siis Yhdysvaltain joukkomurhat, Veikkauksen pöyristyttävä
+Puhuja 3: mainonta ja ikivihreä
+Puhuja 3: pakkoruotsi
+Puhuja 3: keskustelu. Ja lopuksi vielä hyviä keskustelun aloituksia
+Puhuja 3: viikonlopun pitkien epämukavien hiljaisuuden
+Puhuja 3: maahan
+Puhuja 3: Siirrytään ensimmäiseen aiheeseen
+Puhuja 3: Yhdysvalloissa
+Puhuja 3: siis tapahtui lauantaina ja sunnuntaina muutaman tunnin sisällä kaksi joukkoampumista
+Puhuja 3: joissa kuoli yhteensä kolmekymmentä ihmistä
+Puhuja 3: Ensin El Pasossa Texasissa
+Puhuja 3: 21-vuotias
+Puhuja 3: mies tappoi kaksikymmentäkaksi
+Puhuja 3: ihmistä ostoskeskuksessa,
+Puhuja 3: sitten Deitonissa
+Puhuja 3: osiossa
+Puhuja 3: 24-vuotias mies ampui kymmenen ihmistä ja kaksikymmentäseitsemän haavoitoo. Huomaan tässä, että itse asiassa tämä 30-luku olikin täysin väärä, mutta Milka
+Puhuja 3: 30-luku olikin täysin väärä. Mutta
+Puhuja 3: Milka Valtanen,
+Puhuja 3: mitä näistä tapahtumista ja epäillyistä ampujista tiedetään tässä vaiheessa? Muuta kuin se, että päässälaskutaitoni
+Puhuja 3: ei ole kovin hyvä?
+Puhuja 2: Ainakin FBI tutkii kahta näistä tapauksista
+Puhuja 2: terroristisena
+Puhuja 2: iskuna.
+Puhuja 2: Eli tämä Kaliforniassa,
+Puhuja 2: heinäkuussa saattanut valkosipulifestivaali-isku
+Puhuja 2: ja sitten El Pason
+Puhuja 2: tämä tuore viime viikonloppuinen isku ilmeisesti
+Puhuja 2: ovat terrorismia.
+Puhuja 2: Tuo ohion ampuminen
+Puhuja 2: on vielä vähän epäselvää. Ilmeisesti ampujalla oli
+Puhuja 2: joku äärivvasemmistotausta
+Puhuja 2: ja lisäksi vakavia mielenterveysongelmia
+Puhuja 2: ja siitä ei tietääkseni ole vielä annettu mitään lausuntoja.
+Puhuja 3: Tiedetäänkö mitään siitä, että mitkä näistä teoista on ollut jotenkin spontaaneja ja mitkä on ollut jonkun pitkällisen
+Puhuja 3: suunnittelun tulosta?
+Puhuja 2: No toki nämä iskut, joita epäillään terrori-iskuiksi,
+Puhuja 2: niin on ehkä jotenkin suunnitellumpia kuin sitten
+Puhuja 2: kolmannesta ohjaniskusta on vähän vaikeampi sanoa.
+Puhuja 2: Tässä Elpason tapauksessa tekijä oli
+Puhuja 2: ajanut
+Puhuja 2: yhdeksän tunnin matkan kotoaan
+Puhuja 2: tarkoituksella,
+Puhuja 2: juurikin tuonne
+Puhuja 2: Walmartiin
+Puhuja 2: Meksikon ja Yhdysvaltain etelärajalle
+Puhuja 2: tai väliselle rajalle ja
+Puhuja 2: oli kirjoittanut manifestin
+Puhuja 2: ja kaikkea.
+Puhuja 2: Sitten taas tämä valkosipulifestivaaliampuja
+Puhuja 2: oli varustautunut luotiliivillä, eli sekään ei ehkä ollut täysin
+Puhuja 2: spontaanin kilahtaminen.
+Puhuja 3: Ei hetken mielijohteelta
+Puhuja 3: kieltämättä kuulosta. Huomaatteko vielä, että viime päivien keskusteluun viitaten tässä podcastissa tapahtumista
+Puhuja 3: käytetään
+Puhuja 3: nimityksiä joukko ampuminen,
+Puhuja 3: joukkomurha tai jokin muu vastaava. Ja tämän vähättelevän
+Puhuja 3: ammuskelutermin
+Puhuja 3: käyttäminen on uhkasakon nojalla kielletty.
+Puhuja 3: Oletko, Teemu, valmis näihin ehtoihin?
+Puhuja 1: Olen kyllä.
+Puhuja 1: Sen verran
+Puhuja 1: piristävä aloitus oli tälle podcastille tämä, että
+Puhuja 1: ei tässä voi muuta kuin olla valmis.
+Puhuja 1: Se on mielenkiintoista, kun
+Puhuja 1: nuo tapahtuivat viikonloppuna ja sen jälkeen
+Puhuja 1: itse en ollut paikalla
+Puhuja 1: siellä enkä myöskään uutisvälineiden ääressä, mutta seurasin jälkikäteen
+Puhuja 1: sitä keskustelua,
+Puhuja 1: miten
+Puhuja 1: erilainen yhteiskunnallinen keskustelu nousee
+Puhuja 1: erilaisten
+Puhuja 1: taustaisten
+Puhuja 1: henkilöiden tekemistä joukkosuurmista.
+Puhuja 1: Voisitko
+Puhuja 1: täsmentää? Olin juuri täsmentämässä.
+Puhuja 1: Euroopassa, kun viime vuosina paljon
+Puhuja 1: on
+Puhuja 1: ollut myös
+Puhuja 1: tämän tyyppisiä
+Puhuja 1: tapauksia,
+Puhuja 1: mutta tekijä on ollut
+Puhuja 1: ulkomaalaistaustainen
+Puhuja 1: tai ulkomaalainen
+Puhuja 1: henkilö.
+Puhuja 1: Silti terroristisina tekona tutkittu
+Puhuja 1: samantyyppisesti kuin nyt näitä
+Puhuja 1: Yhdysvaltain
+Puhuja 1: joukkosurmia.
+Puhuja 1: Näissä tapauksissa, kun tekijät ilmeisesti eivät ole olleet ulkomailla.
+Puhuja 3: Förslug igerings programmet att svenska våde igen vara ochbliaturisk I student skrivningarna.
+Puhuja 3: My ett teten av finländerna
+Puhuja 3: se är den dålig I D.
+Puhuja 3: Och Finlands ju nasistist för bund håller samå sig. Där för Ylef fråga det från finländerna
+Puhuja 3: kunnar dem svenska.
+Puhuja 3: Och tycker
+Puhuja 3: ni, att det nityksting att kunna svenska. Neij och näj, svarar de många, men va sig. Vilka Valtanen.
+Puhuja 3: Näin.
+Puhuja 3: Ser du näj, värcklingen.
+Puhuja 2: Sori, mutta en puhu ruotsia, koska Hesarin
+Puhuja 2: mielipideosastolla
+Puhuja 2: joku ihminen kirjoitti, että
+Puhuja 2: takelteleva ja huono ruotsin kieli vaivaannuttaa
+Puhuja 2: kaikkia ruotsin kielen taitoisia enkä halua vaivaannuttaa kellekään tietenkään ideoita. Pahoittelen
+Puhuja 2: äskeistä. Kyllä. Ja oikea syy on tietysti se, että minä en osaa ruotsia, koska jostain syystä kaikki Ruotsin opettajat joutuivat epäsuosiooni
+Puhuja 2: enkä voinut oppia mitään. Ja minä haluaisin
+Puhuja 1: kuvitella. Tuijakaa en haluaisi masentaa.
+Puhuja 1: Hienosti toi meni, mutta siis
+Puhuja 3: Dooli kirjoitetaan ruotsalaiselle O:lla. Niin kirjoitetaan. Mitä täällä mukaisit lukee?
+Puhuja 1: Palataan siihen lähetyksen jälkeen. Laitaoit sen ihan suomalaisella lolla, jolla se olisi Doolig. Vaimmeko siirtyä saivartelusta
+Puhuja 3: jostain toisesta asiasta? Puhutaan tästä kotona. Millainen
+Puhuja 3: ruotsi suhde Teemu sinulla on?
+Puhuja 1: Olin ihan hyvä niin kuin tästä mun tarkkuudesta varmaan huomasit.
+Puhuja 1: Mutta
+Puhuja 1: koska jäin
+Puhuja 1: ylppäreissä
+Puhuja 1: traagisesti
+Puhuja 1: yhden pisteen päähän L:stä, niin
+Puhuja 1: lopetin sen. Löin niin sanotusti hokkarit naulaa saman tien.
+Puhuja 1: Sanaakaan en ole puhunut sen jälkeen.
+Puhuja 3: Ymmärrän, mutta se ei ole kuitenkin estänyt saivartelemasta
+Puhuja 3: kollegoille
+Puhuja 3: asiattomasti.
+Puhuja 3: Monelle
+Puhuja 3: aina on hyvin vaikea ymmärtää suomalaisten
+Puhuja 3: täysin
+Puhuja 3: perusteetonta,
+Puhuja 3: ruotsi antipatiaa, koska mulle henkilökohtaisista syistä olen lapsena ajautunut
+Puhuja 3: opettelemaan
+Puhuja 3: ruotsia, koska ruotsinkieliset sukulaiseni
+Puhuja 3: ei oli kyvyttömiä opiskelemaan
+Puhuja 3: ne suomea ja monopoli pelaaminen
+Puhuja 3: kaksikielisesti muodostui
+Puhuja 3: jossain vaiheessa täysin mahdottomaksi, kun vanhemmat ei enää suostunut tulkkaamaan erilaisia
+Puhuja 3: summia
+Puhuja 1: ruotsiksi ja suomeksi. Milkais ehdottainen pitää purkaa sen monopoli?
+Puhuja 3: Ukkini.
+Puhuja 3: No,
+Puhuja 3: Milka,
+Puhuja 3: miten sä oot pärjännyt
+Puhuja 3: elämässä
+Puhuja 3: ilman ruotsin kieltä? Miten se on mahdollista?
+Puhuja 2: Se on oikeastaan ollut aika helppoa ja lisäksi oon onnistunut siinäkin, että oon tähän päivään asti onnistunut välttelemään
+Puhuja 2: Pakko-Ruotsi-keskustelua.
+Puhuja 2: Tämä on tavallaan vähän surun päivä, koska mun track record menee nyt tässä.
+Puhuja 2: Mutta
+Puhuja 2: on munkin
+Puhuja 2: hankala, vaikka en Ruotsia osaakaan, ymmärtää muiden kielitaidottomien
+Puhuja 1: ruotsin-inhoa. Mulle muuten sama tämä ensimmäinen pakkaruotse keskustelu, johon mä osallistun. Otan osaa.
+Puhuja 3: Voisinpa sanoa samaa.
+Puhuja 3: Mutta asiaan: Antti Rinteen hallitus on siis kirjannut tavoitteekseen palauttaa toinen kotimainen
+Puhuja 3: pakolliseksi
+Puhuja 3: ylioppilaskirjoituksissa. Ja sanotaanpa nyt
+Puhuja 3: kaikki yhteen nähden, niin mistä kummasta tää oikein voisi johtua?
+Puhuja 3: RKP.
+Puhuja 3: Noin.
+Puhuja 3: Suomen lukiolaisten liitto tietenkin vastustaa, koska heidän mielestään opiskelijat on jo nyt tarpeeksi kuormittuneita.
+Puhuja 3: Meidän tämän päivien keskustelupohja kuitenkin maanantaina julkaistuun Ylen kyselyn tuloksiin.
+Puhuja 3: Taloustutkimuksella teetetyssä
+Puhuja 3: kyselyssä
+Puhuja 3: tuhat viisi ihmistä kuvaili sitä, miten hyvin he osaavat ruotsia ja miten paljon hyötyä heille on ollut ruotsin kielestä.
+Puhuja 3: Kaksikymmentä prosenttia vastaajista oli sitä mieltä, että heidän kielitaitonsa
+Puhuja 3: on joko
+Puhuja 3: äidinkieli, erinomainen
+Puhuja 3: tai hyvä.
+Puhuja 3: Hyödyllisyyden kokemus jakautui vähän tasaisemmin ja neljäkymmentäseitsemän
+Puhuja 3: prosenttia
+Puhuja 3: vastasi, että erittäin tai melko hyödyllinen.
+Puhuja 3: Miltä nämä luvut teistä kuulostavat?
+Puhuja 1: Otsikkokielellä voisi sanoa, että Ruotsin hyödyllisyys
+Puhuja 1: jakaa kansaa. Voi luoja.
+Puhuja 1: Sitten taas osaaminen. Oliko se niin, että kaksikymmentä prosenttia oli sitä mieltä, että ne ovat hyviä tai erittäin hyviä? Joo,
+Puhuja 3: suurin segmentti taisi olla tyydyttävä.
+Puhuja 1: Okei, mutta tyypillistä
+Puhuja 1: suomalaista vaatimattomuutta.
+Puhuja 1: Se, mitä olen ymmärtänyt jenkkien LinkedIn standardeilla.
+Puhuja 1: Noin yhdeksänkymmentäkuusi prosenttia suomalaisista puhuisi ruotsin
+Puhuja 1: äidinkielenään ja loput neljä prosenttia erinomaisesti. Lyhyent. Me ei osata markkinoida. Eli Zander.
+Puhuja 2: Ei nää numerot ollut yhtään yllättäviä mun mielestä.
+Puhuja 3: Aiheeseen tartun myös
+Puhuja 3: yksi lempiohjelmiston
+Puhuja 3: eli A-studio,
+Puhuja 3: jossa
+Puhuja 3: kansanedustajat Ville Rydman ja Eeva Johanna Eloranta sekä RKP
+Puhuja 3: puheenjohtaja Anna-Maja Henriksson
+Puhuja 3: keskustelivat asiasta.
+Puhuja 3: Heille ruotsin kielestä on ollut hyötyä. Ryhmän
+Puhuja 3: haluaisi enemmän vaihtoehtoja ja tekisi Ruotsista vapaaehtoisen, ja elon rannan mielestä lasten ei pitäisi voida pois valita itseltään mahdollisuuksia.
+Puhuja 2: Argö.
+Puhuja 2: Siis tämä pakkoruotsin keskustelu ei edes koske lapsia,
+Puhuja 2: vaan noin 18-vuotiaita
+Puhuja 2: abiturientteja,
+Puhuja 2: joiden yo-kirjoituksiin
+Puhuja 1: valtio haluaa puuttua, vain sen takia, ettei yksi hallituspuolue suuttuisi. Tämä on tätä hedelmällistä pakkoruozz debattia, jota olen yrittänyt koko elämäni välttää. Tämän takia jäin
+Puhuja 1: A-studiopätkän
+Puhuja 1: katsomatta, vaikka yritit
+Puhuja 1: antaa sen kotiläksyksi.
+Puhuja 2: Minäkään en katsonut sitä.
+Puhuja 3: Ehtäs kehtaatte?
+Puhuja 3: Täällä studiossa ollaan krapulassa ja hirveässä kunnassa eikä saa studiota viitsi sitä katsoa. Kadellaan vesillä pöydälle ja saitko
+Puhuja 3: huomata, että tänään kukaan ei ole krapulassa? Se on totta.
+Puhuja 3: Mä alan protestoida tätä itse valitsemaani aihetta kohtaan, koska mun mielestä tää kysymys ruotsin kielen hyödyllisyydestä on täysin järjetön, koska en tietenkään
+Puhuja 3: kukaan, joka ei osaa puhua ruotsia, pidä sitä
+Puhuja 3: hirveän hyödyllisenä.
+Puhuja 3: Jos puhuu huonosti ruotsin, niin tietenkään ruotsin kielestä ei ole ollut mitään hyötyä.
+Puhuja 1: Niin
+Puhuja 1: no sinänsähän nuo äskeiset luvut olivat vähän yllättäviä, jos vain kaksikymmentä prosenttia on sitä mieltä, että ne osaa sitä, mut puolet on sitä mieltä, että se on hyödyllistä, niin kolmekymmentä
+Puhuja 1: prosenttia vastaajista kokee, että Ruotsi olisi hyödyllistä, mutta he eivät osaa sitä.
+Puhuja 3: Taloustoimittaja tässä katsois. Mun mielestä on aina ihanaa, kun sä selität mulle
+Puhuja 2: numeroita. Milka. Tämä keskustelu tästä hyödyttömyys
+Puhuja 2: näkökulmasta on
+Puhuja 2: täysin epäilyllistä ja raivostuttavaa, koska oikeastihan tässä on kysymys sivistyksestä
+Puhuja 2: ja sitä ei voi aliarvioida.
+Puhuja 3: Niin, ehkä yksiselitteisesti
+Puhuja 3: minun mielestäni jotenkin pelkistää sellaiselle oudolle hyödyllinen
+Puhuja 3: asteikolle, koska ei minullakaan ole ollut
+Puhuja 3: mitään suoranaista hyötyä
+Puhuja 3: siitä, että on kymmenen vuotta opetellut ulkoa jotain Saksan epäsäännöllisiä
+Puhuja 3: verbejä kuten Essen ist, arch har guessen,
+Puhuja 3: mutta niinku onhan se ollut aika siistiä, että jos on mennyt Berliiniin ryyppäämään, niin ei oo voinut ryypätä täysin saksaksi.
+Puhuja 3: Onhan se nyt kivaa. Ei mulle oo ollut sen sijaan mitään hyötyä opetella jotain ne niinku maalimassojen
+Puhuja 3: laskemista. Tai en mä oo niihin
+Puhuja 3: sotkeutunut ollenkaan sen jälkeen kun on ollut pakko, mutta
+Puhuja 3: ei se oo se pointti.
+Puhuja 3: Se niinku ei
+Puhuja 3: Joku sivistys ja koulutus ole resepti tai
+Puhuja 3: manuaalielämää, vaan
+Puhuja 3: mä alan kohta paisko esineitä täällä, niin voisiko joku muu puhua.
+Puhuja 1: Hait selvästi sitä, että annetaan onkin
+Puhuja 1: käteen.
+Puhuja 1: Eikö sen sijaan, että
+Puhuja 3: opetettaisi kalasta? Sen sijaan, että tuotisiin kolme rasiallista kalapuikkoja ja laitettaisiin ne mikro näitä
+Puhuja 3: syöttöporsaita
+Puhuja 1: varten. Niin, mut mä siis oon opiskellut aikanaan paljon kieliä,
+Puhuja 1: jotka mä oon unohtanut tässä kymmenen vuodessa lähes kokonaan.
+Puhuja 1: Yksi niistä kielistä on muutenkin aika unohtunut, koska se on kuollut kieli latina, jonka
+Puhuja 1: kirjoitin
+Puhuja 1: pitkän latinan
+Puhuja 3: lukjosta. En ole ikinä
+Puhuja 3: tiennyt, että on olemassa sellainen asia kuin pitkä latina. No aika harvoin. Eihän minäkään tiennyt ennen kuin vasta loppuvaiheessa. Ennen kuin vasta kokeessa.
+Puhuja 1: Olin lukenut sitä yläasteelta saakka.
+Puhuja 1: Sitten selvisi, että tämän voi kirjoittaa myös pitkänä.
+Puhuja 1: Minun elämäni suurin menestystarina on, että
+Puhuja 1: sain siitä tietääkseni
+Puhuja 1: Suomen parhaat pisteet keväällä kaksituhatta kahdeksan kirjoittaa, oli siis viisi-seitsemän tai
+Puhuja 1: jotain.
+Puhuja 1: Joka tapauksessa Latinan opiskelu
+Puhuja 1: annettiin sellaisia rakennuspalikoita
+Puhuja 1: elämään.
+Puhuja 1: Koska
+Puhuja 1: ne lauseet, vaikkei niistä mitään hyötyä ole eikä kukaan ikinä tule puhumaan niitä tai kuule, olivat vähän sellaista loogista
+Puhuja 1: palapeliä samoin kuin se koko kieli. Niin, mutta
+Puhuja 1: sellaista... Mä koen esimerkiksi, että mun myöhempi
+Puhuja 1: intohimoni
+Puhuja 1: suomalaista eläkejärjestelmää kohtaan on saanut valtavasti...
+Puhuja 3: Vastaa, jossa tuhat yhdeksänsataaviisikymmentä
+Puhuja 3: Päästiin eläkkeisiin. Aika hyvä tulos. Sä et hillinnyt itseasiassa ihailta vasta tänään.
+Puhuja 1: Mä luulen, että Latino on antanut palapelien
+Puhuja 1: ymmärtämiseen työkaluja.
+Puhuja 3: Aivan
+Puhuja 1: varmasti. Eli me kannatetaan siis kielten opiskelua kyllä täällä. Kyllä, raivoisasti.
+Puhuja 3: Mutta
+Puhuja 3: siis pakko-Ruotsin,
+Puhuja 3: ja kuten sitten taas
+Puhuja 3: yliopisto-opiskelijoita
+Puhuja 3: piinaava
+Puhuja 3: virkamiesruotsinne, kun ajatus on ne ajatus,
+Puhuja 3: niin käsittääkseni turvata se, että ruotsinkielisilläkin on oikeus saada palvelua omalla äidinkielellään Suomessa ja joihinkin
+Puhuja 3: kaikkiin virkamiestehtäviin
+Puhuja 3: vaaditaan ruotsin kielen
+Puhuja 3: taitoa, mutta se mikä mua hämmentää on se, että miten tää pakollisuus
+Puhuja 3: nimenomaan turvaa sen kielitaidon laadun?
+Puhuja 3: Koska on sitä
+Puhuja 3: nyt esimerkiksi
+Puhuja 3: yliopistossa, jolla ruotsin kursseilla on nähnyt
+Puhuja 3: kyllä
+Puhuja 3: sellaista räpiköintiä,
+Puhuja 3: että luottaisi sekuntiakaan siihen, että vaikka paperissa lukee, että on virkamies ruotsin suorittanut, niin ei se tarkoita, että osaisi sitä kieltä ollenkaan.
+Puhuja 2: Vahvistan, koska
+Puhuja 2: olen itsekin päässyt tästä virkamiesruotsin kurssista läpi.
+Puhuja 2: Ihan ok arvosanoja
+Puhuja 2: kaiken lisäksi en ymmärrä miten, mutta en siis todellakaan osaisi palvella ketään ruotsiksi. Onneksi ei myöskään ole virkamies.
+Puhuja 1: Taisi olla töissä.
+Puhuja 3: Luulen, että todella monet ihmisethän ovat siitä onnellisia. Mutta mikä sitten, Milka, mielestäsi olisi parempi ratkaisu?
+Puhuja 2: Mitä
+Puhuja 2: jos vaikka annettaisiin joku X määrä kieliä, joita sitten pitäisi opiskella
+Puhuja 2: esimerkiksi peruskoulussa
+Puhuja 2: ensimmäiseltä luokalta lähtien.
+Puhuja 1: Mutta siksi se noin mene?
+Puhuja 1: Ainakin muistelin niin, että kun menin kouluun, niin sitten käytiin vähän englantia, Ranskaa, vähän ruotsia ja ehkä jotain muutakin. Sen jälkeen
+Puhuja 2: päätin. Silloin kun olit jossain ressun hikkke koulussa. En muuten ollut Itä-Helsingissä.
+Puhuja 2: En tiedä, mistä on kysymys, koska kun minä olin nuori, mistä on hyvin vähän aikaa, niin meillä alkoi kolmannella luokalla englanti ja sen jälkeen sai aloittaa A2-kielen,
+Puhuja 1: joka alkoi tyyliin viidennellä. Ja sitten yläasteella alkoi ruotsi. Joo, joo. Okei. Meillä oli vaan siis lyhyet kokeilut kaikkia ennen sitä
+Puhuja 3: aikaa. Ei ollut edistyksestä. Ei meillä
+Puhuja 1: ole. Se oli hyvä systeemi. Sit sai valita ikään kuin. Tämmöistä systeemiä kannatan. Tämä on minun ideani.
+Puhuja 3: Lapset tuupattais heti ala-asteen alussa, silleen,
+Puhuja 3: että
+Puhuja 3: niille salakavalasti
+Puhuja 3: iskettäisiin lukujärjestykseen
+Puhuja 3: mahdollisimman
+Puhuja 3: montaa eri kieltä, koska nyt on
+Puhuja 3: aika ratkaisevan paljon helpompaa
+Puhuja 3: vaikka kymmenen kuin 30-vuotiaana
+Puhuja 3: ruveta opiskelemaan
+Puhuja 3: vaikka Saksaa
+Puhuja 3: tai
+Puhuja 3: jostain
+Puhuja 3: vaikeasti
+Puhuja 3: kielestä nyt puhumattakaan, mutta
+Puhuja 3: eikö niitä voisi tehdä jotenkin niin, että niitä olisi pakko opiskella,
+Puhuja 3: totta
+Puhuja 3: kai lukioon asti, ja sitten siellä saisi ruveta
+Puhuja 3: valitsemaan, että mitä haluaa käydä. Se olisi aika järkevää.
+Puhuja 2: Siis tämän
+Puhuja 2: Ruotsin opiskelun isoin ongelma
+Puhuja 2: ei ole se, onko se pakollista tai ei, vaan suurimmalla
+Puhuja 2: osalla, niillä, jotka eivät ole aloittaneet sitä A2-kielen
+Puhuja 2: ala-asteella, se alkaa silloin murrosi
+Puhuja 2: ihan pahimmassa
+Puhuja 2: kohdassa yläasteella,
+Puhuja 2: jolla
+Puhuja 2: mikään ei tartu päähän eikä kiinnosta. Se on surkein mahdollinen
+Puhuja 2: hetki ihmisen
+Puhuja 2: elämässä alkaa opetella mitään uutta. Kyllä minä ainakin, koska en ota vastuuta omista tekemisistäni,
+Puhuja 2: syytä nimenomaan sitä... Valtiota.
+Puhuja 2: Valtiota
+Puhuja 2: aloitushetkeä siitä, ettei Ruotsi koskaan mennyt mulle päähän.
+Puhuja 2: Aivoihini ei mahtunut mitään muuta kuin hirveä määrä
+Puhuja 2: aggressiivisia hormoneita.
+Puhuja 1: Mä en tiedäkö, että tilanne on muuttunut vuosien varrella? Sanoinko, että mun aivoihin vielä käy? Yhden mun hyvällä ystävälleni kävi niin, että pakkoruotsi kostautui hänelle.
+Puhuja 1: Nimenomaan kirjoituspakko.
+Puhuja 1: Hän ei olisi halunnut kirjoittaa sitä, mutta joutui kirjoittamaan,
+Puhuja 1: joten hän jäi pisteen päähän
+Puhuja 1: ylioppilaaksi
+Puhuja 1: pääsemisestä.
+Puhuja 1: Puoli vuotta myöhemmin sitten seuraavalla
+Puhuja 1: Ruotsin uusimisyrityksellä
+Puhuja 1: soitti suoraan kokeen jälkeen minulle ja kysyi,
+Puhuja 1: että onhan vaatteet ruotsiksi clanner.
+Puhuja 1: Sanoin,
+Puhuja 1: että on clanner.
+Puhuja 1: Eli
+Puhuja 1: ilmeisesti esseessä oli hänen ymmärtääkseen kysytty jotain kirpputorista. Hän oli kirjoittanut joka lauseeseen clanner ja pääsi ylioppilaaksi.
+Puhuja 3: Ihana menestystä.
+Puhuja 3: Ei ihan vertatoja tälle
+Puhuja 3: sun laatina mestaruudellesi,
+Puhuja 3: mutta oikein
+Puhuja 1: inspiroiva tarina. Se on enemmän sinne vaikeuksien kautta riman yli. Niin,
+Puhuja 3: jollain tapaa joo. Mutta mä haluaisin nyt tämän lähetyksen loppumetreillä
+Puhuja 3: esittää vielä
+Puhuja 3: salaliittoteorian.
+Puhuja 3: Jos tän te jotenkin tullut
+Puhuja 3: jostain jäännöksestä, niin tuntuu tulevan toistuva
+Puhuja 3: elementti näissä uutisraportilähetyksissä,
+Puhuja 3: Mutta siis me ollaan siis sellaisessa
+Puhuja 3: omituisessa
+Puhuja 3: tilanteessa Suomessa, jossa tällainen pieni puolue pitää
+Puhuja 3: koko Suomea ja meidän kielipolitiikkaa
+Puhuja 3: panttivankina,
+Puhuja 3: koska meidän täysin selkärangattomat
+Puhuja 3: hallitukset
+Puhuja 3: tarvitsevat sen aina tukipuolue puolueekseen.
+Puhuja 3: Katetteko te tottti mua silleen, että olen taas alkuun kuulostaa Lauran Huhtasaarelta.
+Puhuja 1: Katsottiin, mutta
+Puhuja 1: sulla oli vähän pointtia tässä.
+Puhuja 1: Kiitos.
+Puhuja 1: Kyllähän RKP on siellä mukana
+Puhuja 1: lähes poikkeuksetta
+Puhuja 1: sen takia, että se on sopivan
+Puhuja 1: kokoinen ja sopivan... Oportunistinen.
+Puhuja 1: Ja vähän Tyytyvä
+Puhuja 1: puolue ollakseen
+Puhuja 1: hallituksen tukipuolue.
+Puhuja 1: Mutta
+Puhuja 1: toisaalta
+Puhuja 1: mun mielestä tämä panttivankivertaus
+Puhuja 1: on ehkä vähän ylimitoitettu.
+Puhuja 1: Tämä ei kuitenkaan ole mitään vesikidutusta varsinaisesti,
+Puhuja 1: vaan sitä, että
+Puhuja 1: lapset käy muutaman kurssin ruotsin ja sitten tekevät yhden ylioppilaskokeen.
+Puhuja 3: Ei tässä kohtaa tunnustaa, että taisin vähän Laura Huhtasaaren kanavoimisen puolelle lipsahtaa.
+Puhuja 3: Mutta se mikä
+Puhuja 3: tästä pakko-Ruotsia asiasta tekee niin
+Puhuja 3: järjettömän puuduttavan on se, että tää on täsmälleen sama veivaaminen
+Puhuja 3: vuodesta toiseen ja nää kaikki argumentit, mitä tässä esitetään on niin saatanan typeriä,
+Puhuja 3: että
+Puhuja 3: ei niin päiväeroja mitään vastaamaan.
+Puhuja 3: Vilka,
+Puhuja 3: mikä on sinun suosikkini?
+Puhuja 2: Minun suosikkini on tämä,
+Puhuja 2: että pakko ruotsi on tyhmää, koska ruotsia puhuu niin
+Puhuja 2: harva.
+Puhuja 2: Siis koska jos tämän argumentin...
+Puhuja 2: Tai minua ärsyttää tässä argumentissa esittäjien epäloogisuus, koska silloinhan niiden pitäisi olla vaatimassa
+Puhuja 2: esimerkiksi pakkoKiinaa
+Puhuja 2: tai espanjaa
+Puhuja 2: tai muita tällaisia
+Puhuja 2: Pakkohindiä.
+Puhuja 2: Pakkohindiä. Ja sitten toisaalta
+Puhuja 2: globaalisti ajatellen myös suomi on hyvin pieni kieli. Eli pitäisikö silloin myös pakko suomi lakkauttaa?
+Puhuja 3: Ooteko
+Puhuja 2: miettinyt sitä? Niin, miettikääpäs sitä.
+Puhuja 3: Niin.
+Puhuja 3: Mä
+Puhuja 3: voin
+Puhuja 3: nyt olla pikkuhiljaa
+Puhuja 3: jotenkin
+Puhuja 3: raivoissani
+Puhuja 3: ja hysteerisessä
+Puhuja 3: tilassa, että mä luulen, että tää lähetys on pakko lopettaa ennen kuin mitään vielä pahempaa tapahtuu. Siirrytään suosituksiin.
+Puhuja 2: Joo, suosittelen
+Puhuja 2: Suomen Kuva-lehden huhtikuussa julkaistua juttua, jonka otsikko on Musta pilleri.
+Puhuja 2: Tämä juttu käsittelee
+Puhuja 2: erään
+Puhuja 2: internetnurkkauksen
+Puhuja 2: kulttuuria ja sen yhteyttä näihin joukkoampumisiin.
+Puhuja 1: Koska
+Puhuja 1: vieressä istuvani henkilö tuli maininneeksi tässä lähetyksessä, että briteistä ei ole tullut mitään hyvää,
+Puhuja 1: niin mun pitää suositella
+Puhuja 1: jo itse lähetyksessä
+Puhuja 1: mainitsemaani
+Puhuja 1: Jesministeri
+Puhuja 1: poliittinen satiiri tv-sarja
+Puhuja 1: 80-luvulta siis
+Puhuja 1: aivan huikeata kamaa ja käsittämättömän
+Puhuja 1: ajankohtaista Amazonista
+Puhuja 1: lähteä halvalla tv-deboksi.
+Puhuja 3: Mä haluan tosta inspiroituneena
+Puhuja 3: suositella itsekin aikaisemmin
+Puhuja 3: mainitsemani brittiläistä kulttuuriin
+Puhuja 3: hellmeä eli Manti Paatmanin lentävää sirkusta, joka oli
+Puhuja 3: ratkaisevassa osassa myös tämän viikon uutisraportin
+Puhuja 3: suunnittelussa.
+Puhuja 3: Manti Paathlimen en nyt muista, millä kaudella se on, mutta siinä on sellainen ajankohtaisohjelma,
+Puhuja 3: jonka nimi on Face the Press,
+Puhuja 3: jossa
+Puhuja 3: vieraana on jonkinlainen poliitikko
+Puhuja 3: ja toinen vieras on Ruskea tahra tuolilla.
+Puhuja 3: Me mietittiin, että jos tänne ei saada kolmatta panelistia. Jos Teemu Muhonen ei olisi päässyt, niin me harjoititte esimerkiksi pahvisen Kim Kard Dashianin rauhaastudioon,
+Puhuja 3: koska tahra ei olisi näkynyt striimmissä niin hyvin.
+Puhuja 3: Ja näihin
+Puhuja 3: tunnelmiin
+Puhuja 3: päätämme tämänkertaisen
+Puhuja 3: uutisraportti lähetyksen.
+Puhuja 3: Kiitos paljon ja kuullaan taas ensi viikolla
+Puhuja 3: meille leikkauksen ja äänen tekee Mikko Peura
+Puhuja 3: ja podcastin tuottaa Tuomas Peltomäki että hänelle sitten voi
+Puhuja 3: kaikenlaiset palautteet tästä tämän viikon hysteerisestä tunnelmasta lähettää. Kiitos.
+Puhuja 3: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun
+Puhuja 0: podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä niin mä luulin, että mä lähtisin selvittämään kenties
+Puhuja 0: maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta
+Puhuja 0: kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greetta Thunberg ja on Ruotsin kuningas ja suomalaiset
+Puhuja 0: Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
