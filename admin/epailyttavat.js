@@ -15095,14 +15095,14 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "One Day (Yksi päivä) -kirja",
         "paakategoria": "kirja",
         "kategoriat": [
           "romantiikka",
           "brittiläinen kirjallisuus"
         ],
-        "kuvaus": "David Nichollsin romaani, johon sarja perustuu. Anna-Sofia Bernerin mukaan kirja on erittäin liikuttava ja ihanaa luettavaa.",
+        "kuvaus": "David Nichollsin romaani, johon Netflixin One Day -sarja perustuu. Annin mielestä kirja on niin ihana, että pelkkä muistelu meinasi saada hänet itkemään.",
         "google_linkki": "https://www.google.com/search?q=One+Day+David+Nicholls+kirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls",
         "alkupera": "",
@@ -23130,6 +23130,40 @@ window.VALIDATION_DATA = [
         "kuvaus": "New York Times Magazinen pitkä haastattelu Venäjä- ja Ukraina-asiantuntija Fiona Hillistä, joka käy läpi Trumpin Ukraina-veivausta ja sen taustoja. Informatiivinen ja hyvin kirjoitettu.",
         "google_linkki": "https://www.google.com/search?q=Fiona+Hill+interview+New+York+Times+Magazine+Trump+Ukraine",
         "lisatieto_linkki": "https://www.nytimes.com/section/magazine",
+        "alkupera": "",
+        "lisalinkit": []
+      }
+    ]
+  },
+  {
+    "j_idx": 347,
+    "jakso_id": "tag:soundcloud,2010:tracks/1774580406",
+    "jakso_otsikko": "Lakot vol XXXI, feminismi Suomessa 2024, Prinsessa Kate",
+    "paivamaara": "14.3.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/7144e01d-f796-4559-8efc-8e28eb395145.mp3",
+    "kesto_sek": 4628,
+    "kesto_str": "01:17:08",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheena yhä ja edelleen lakkoilu ja lakkoilun vastatoimet, kokoomusnuorten tuoreen puheenjohtajan Binga Tupamäen paljon kuohuntaa herättänyt kirjoitus feminismistä, sekä prinsenssa Catherinen outo ja surullinen ja hauska ja pelottava ja kumma vatsasairaus/valokuva-gate.\nStudiossa Tuomas Peltomäki, Salla Vuorikoski ja Anni Keski-Heikkilä. \nJaksoon liittyviä linkkejä:\nBinga Tup",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Bref France (@bref.france Instagram-tili)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "some",
+          "Instagram",
+          "TikTok"
+        ],
+        "kuvaus": "Ranskankielinen some-tili, jonka tekijä pysäyttää ihmisiä kadulla ja teettää heillä nopeita 'tämä vai tuo' -valintoja, esimerkiksi lempileivonnaisista. Tuomaksen mukaan tilistä tulee tosi hyvä fiilis.",
+        "google_linkki": "https://www.google.com/search?q=Brief+France+Instagram",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": []
       }
