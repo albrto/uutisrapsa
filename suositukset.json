@@ -2857,8 +2857,8 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Goliath+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Goliath+tv+series",
-        "kuvaus": "Lakimiesdekkari-tv-sarja, jossa entinen huippulakimies on retkahtanut juopottelemaan, mutta nousee baaritiskin takaa sankaritekoihin. Tuomas Peltomäki löysi sarjan sattumalta Viaplayta selaillessaan.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Lakimiesdekkari-tv-sarja, jossa entinen huippulakimies on retkahtanut juopottelemaan mutta nousee baaritiskin takaa sankaritekoihin. Marko löysi sarjan sattumalta Viaplaysta, jonka hän oli tilannut Valioliigan takia.",
+        "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "dekkari",
           "lakidraama",
@@ -2870,8 +2870,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Natsin+mieli+kaksitoista+varoitusta+historiasta+Laurence+Rees",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Natsin+mieli+kaksitoista+varoitusta+historiasta",
-        "kuvaus": "Historioitsija Laurence Reesin tietokirja, joka tutkii psykologian keinoin, miten ihmisestä tulee natsismin kannattaja ja miten aiemmin poissuljettuja ajatuksia aletaan pitää järkevinä. Marko Junkkari suosittelee osana 'natsikesäänsä'.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Historioitsija Laurence Reesin tietokirja, joka tutkii psykologian keinoin, miten ihmisestä tulee natsismin kannattaja ja miten ennen torjutut ajatukset alkavat tuntua järkeviltä. Salla suosittelee sitä osana omaa \"natsikesäänsä\".",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "historia",
           "psykologia",
@@ -5419,8 +5419,8 @@
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=The+Cook+Political+Report+Demographic+Swing-o-Meter",
         "lisatieto_linkki": "https://www.cookpolitical.com",
-        "kuvaus": "Yhdysvaltain presidentinvaalien tulosanalytiikkasivusto, jossa voi säätää eri ikä- ja etnisten ryhmien äänestysprosentteja ja nähdä, miten ne vaikuttavat vaalitulokseen.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Salla vinkkaa The Cook Political Reportin demografisesta Swing-O-Meter-työkalusta, jolla voi kokeilla, miten eri ikä- ja etnisten ryhmien äänestysinto ja puoluevalinnat vaikuttavat Yhdysvaltain presidentinvaalien tulokseen.",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "politiikka",
           "data-analytiikka",
@@ -5454,6 +5454,55 @@
           "historia"
         ],
         "alkupera": "ulkomainen"
+      },
+      {
+        "teos": "Steve Martini: Paul Madriani -dekkarisarja",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Steve+Martini+Paul+Madriani",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Steve+Martini+Paul+Madriani",
+        "kuvaus": "Marko on lukenut kesällä Steve Martinin oikeussalidekkareita ja pitää niitä hauskoina, mutta harmittelee, että sarjan myöhemmissä osissa oikeussalikohtaukset vaihtuvat perinteiseen toimintaan.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "dekkari",
+          "oikeussalidraama"
+        ]
+      },
+      {
+        "teos": "Steve Cavanagh: Eddie Flynn -dekkarisarja",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Steve+Cavanagh+Eddie+Flynn",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Steve+Cavanagh+Eddie+Flynn",
+        "kuvaus": "Marko suosittelee myös Steve Cavanaghin lakimiesdekkareita, joissa hänen mukaansa sama ilmiö toistuu: sarjan edetessä oikeussalikuvaus vähenee ja toiminta lisääntyy.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "dekkari",
+          "oikeussalidraama"
+        ]
+      },
+      {
+        "teos": "Tekoälyllä tehtyjen Tiny House -kuvien bongailu Instagramissa",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Salla kertoo huvikseen zoomailevansa Instagramin idyllisiin pikkutalokuviin ja etsivänsä merkkejä siitä, että ne on tehty tekoälyllä – esimerkiksi tuoleista puuttuvia jalkoja tai kesken katkeavia puita.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "tekoäly",
+          "some",
+          "harrastus"
+        ]
+      },
+      {
+        "teos": "ADHD-diagnoosien kasvua käsittelevät jutut (HS, Yle, Lääkärilehti)",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=ADHD-diagnoosit+Pohjois-Karjala+Kanta-Häme+hoitosuositus",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas kehuu HS:n, Ylen ja Lääkärilehden juttuja ADHD-diagnoosien räjähdysmäisestä kasvusta, erityisesti Pohjois-Karjalan pojilla, sekä Ylen juttua Kanta-Hämeen uudesta hoitosuosituksesta, jossa lääkityksen sijaan tuetaan ensin koko perhettä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "journalismi",
+          "terveys"
+        ]
       }
     ]
   },
@@ -6063,8 +6112,8 @@
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=Jet+Lag+The+Game+YouTube",
         "lisatieto_linkki": "https://www.youtube.com/@jetlagthegame",
-        "kuvaus": "YouTube-matkailusarja, jossa jengi kiertää eri maiden osia erilaisilla haasteilla. Tuotantoarvoiltaan Netflix-sarjan tasoa. Australia-kausi juuri päättynyt, Eurooppa-kaudet hyvä aloituspaikka.",
-        "suosittelija": "Oskari Eronen",
+        "kuvaus": "Rasmus suosittelee YouTube-matkailusarjaa, jossa porukka kiertää eri maanosia ja suorittaa matkan varrella haasteita. Tuotantoarvot ovat Netflix-sarjan tasoa, ja aloittaa kannattaa esimerkiksi jostain Eurooppa-kaudesta.",
+        "suosittelija": "Rasmus Helaniemi",
         "kategoriat": [
           "youtube",
           "matkailu",
@@ -6076,8 +6125,8 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Challengers+2024+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Challengers+2024",
-        "kuvaus": "Luca Guadagnino ohjaama ihmissuhdedraama, jossa tennis toimii kulissina kahden ammattipelaajan ja heidän vaimonsa/valmentajansa väliselle kolmiodramaalle. Magneettinen elokuva, jossa loistava musiikki ja näyttelijäsuoritukset – Zendaya pääosassa.",
-        "suosittelija": "Rasmus Helaniemi",
+        "kuvaus": "Oskari suosittelee Luca Guadagninon ohjaamaa tennismaailmaan sijoittuvaa kolmiodraamaa, jonka pääosassa on Zendaya. Hän kävi katsomassa elokuvan teatterissa kahdesti, erityisesti musiikin ja näyttelijäsuoritusten takia.",
+        "suosittelija": "Oskari Eronen",
         "kategoriat": [
           "draama",
           "ihmissuhteet",
@@ -6089,8 +6138,8 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Sami+Syk%C3%B6+Jorma+Uotinen+Sami+ja+Jorma+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Sami%20ja%20Jorma",
-        "kuvaus": "Sami Sykön ja Jorma Uotisen podcast, jossa keskustellaan kulttuurista ja kaikenlaisesta maan ja taivaan väliltä. Helppoa ja hauskaa kuunneltavaa, josta oppii uusia asioita.",
-        "suosittelija": "Rasmus Helaniemi",
+        "kuvaus": "Joona suosittelee Sami Sykön ja Jorma Uotisen podcastia, jota hän kuuntelee kävelylenkeillä ja jossa keskustellaan kaikesta maan ja taivaan väliltä. Se on helppoa kuunneltavaa, joka tarjoaa huumoria ja uusia ajatuksia.",
+        "suosittelija": "Joona Aaltonen",
         "kategoriat": [
           "kulttuuri",
           "keskustelu",
@@ -6347,8 +6396,8 @@
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=Can+You+Hear+the+Music+Ludwig+Goransson+Oppenheimer",
         "lisatieto_linkki": "https://open.spotify.com/search/Can%20You%20Hear%20the%20Music%20Ludwig%20Goransson%20Oppenheimer",
-        "kuvaus": "Ruotsalaisen säveltäjän Ludwig Göranssonin kappale Oppenheimer-elokuvan soundtrackista. Dramaattinen ja tunnepitoinen sävellys, joka kantaa Hans Zimmerin perinnettä isosta ja tunteikkaasta elokuvamusiikista.",
-        "suosittelija": "Anna-Sofia Berner",
+        "kuvaus": "Tuomas suosittelee ruotsalaisen säveltäjän Ludwig Göranssonin kappaletta Oppenheimer-elokuvan soundtrackilta. Hänestä Göransson jatkaa Hans Zimmerin ison ja tunteikkaan elokuvamusiikin perinnettä.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "elokuvamusiikki",
           "soundtrack",
@@ -10293,8 +10342,8 @@
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=Radionova+2004+Spotify+playlist",
         "lisatieto_linkki": "https://open.spotify.com/search/Radionova%202004",
-        "kuvaus": "Spotify-soittolista nimimerkiltä DJ Lassi, joka kokoaa 2000-luvun alun radiosoittolistojen suosikkeja. Sisältää mm. Céline Dionin, Bossoa ja Laura Pausinia.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Anni suosittelee Spotify-soittolistaa, jonka nimimerkki DJ Lassi-Lassi on koonnut 2000-luvun alun radiohiteistä. Listalla on muun muassa Céline Dionia, Bossonia ja Laura Pausinia.",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "2000-luku",
           "nostalgia",
@@ -10306,8 +10355,8 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
-        "kuvaus": "Game of Thronesiin perustuva fantasiasarja, jonka neljäs jakso saa erityismaininnan: se seuraa nuoren naisen eroottista heräämistä jännitteikkäällä ja taidokkaalla tavalla. Erittäin suositeltava.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Tuomas suosittelee Game of Thronesin maailmaan sijoittuvaa fantasiasarjaa ja nostaa esiin erityisesti neljännen jakson, joka seuraa taidokkaasti ja jännitteisesti nuoren naisen eroottista heräämistä.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "fantasia",
           "draama",
@@ -10319,8 +10368,8 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Bald+Move+House+of+the+Dragon+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Bald%20Move%20House%20of%20the%20Dragon",
-        "kuvaus": "Bald Move -podcasttiimin tekemä seurantapodcast House of the Dragon -sarjalle. Käy läpi jokaisen jakson yksityiskohtaisesti ja lisää sarjan katsomisen nautintoa merkittävästi.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Tuomas suosittelee Bald Moven tekemää House of the Dragon -seurantapodcastia, joka käy sarjan jaksot läpi yksityiskohtaisesti ja lisää katsomisen nautintoa.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "tv-sarja",
           "seurantapodcast",
@@ -10333,12 +10382,37 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Energy+A+Human+History+Richard+Rhodes",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Energy+A+Human+History+Richard+Rhodes",
-        "kuvaus": "Richard Rhodesin kirja kertoo energian ja ihmisen suhteen historiasta eri aikakausina. Erityisen ajankohtainen energiakriisin aikana – käsittelee mm. valaistuksen historiaa ja eri energiamuotojen löytämistä.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Tuomas suosittelee Richard Rhodesin kirjaa energian ja ihmisen suhteen historiasta. Kirja kertoo esimerkiksi valaistuksen historiasta ja eri energiamuotojen löytämisestä, ja se on energiakriisin aikana erityisen ajankohtainen.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "historia",
           "energia",
           "tietokirja"
+        ]
+      },
+      {
+        "teos": "The Making of the Atomic Bomb",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Making+of+the+Atomic+Bomb+Richard+Rhodes",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Making+of+the+Atomic+Bomb",
+        "kuvaus": "Energy-kirjan yhteydessä Tuomas nostaa esiin myös Richard Rhodesin teoksen atomipommin synnystä ja kutsuu sitä parhaaksi koskaan kirjoitetuksi tietokirjaksi.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tietokirja",
+          "historia"
+        ]
+      },
+      {
+        "teos": "Finns det en tystnadskultur i Göteborgs Stad?",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Finns+det+en+tystnadskultur+i+G%C3%B6teborgs+Stad+Anna+Ekstr%C3%B6m",
+        "lisatieto_linkki": "",
+        "kuvaus": "Marko suosittelee toimittaja Anna Ekströmin raporttia Göteborgin kaupungin sosiaalityöntekijöiden vaikenemiskulttuurista ja sosiaalitoimen vakavista ongelmista. Hänen mielestään se on tosi kiinnostava luettava.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "raportti",
+          "Ruotsi",
+          "sosiaalityö"
         ]
       }
     ]
@@ -10611,8 +10685,8 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Tokyo+Vice+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tokyo+Vice",
-        "kuvaus": "HBO Max -sarja, joka perustuu tositapahtumiin: amerikkalainen toimittaja muuttaa 1990-luvulla Japaniin, pääsee töihin japaninkieliseen sanomalehteen ja alkaa tutkia jakuzan toimintaa. Visuaalisesti upea ja hienosti rakennettu päähenkilö.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Alma suosittelee HBO Maxin sarjaa amerikkalaistoimittajasta, joka pääsee 1990-luvulla töihin japanilaiseen sanomalehteen ja alkaa tutkia yakuzan toimintaa. Sarja on visuaalisesti hieno, ja raivostuttavan mutta sympaattisen päähenkilön varaan rakentuva.",
+        "suosittelija": "Alma Onali",
         "kategoriat": [
           "rikos",
           "journalismi",
@@ -10624,8 +10698,8 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Knowing+Animals+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Knowing%20Animals",
-        "kuvaus": "Podcast, jossa haastatellaan eläintieteilijöitä, eläinfilosofeja, lakiasiantuntijoita ja muita tutkijoita eläimiin liittyvistä aiheista. Avaa kiinnostavia moraalisia ja filosofisia kysymyksiä eläinoikeuksista.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Alma suosittelee podcastia, jossa haastatellaan eläintieteilijöitä, eläinfilosofeja, lakiasiantuntijoita ja muita eläimiä tutkineita. Hänen mukaansa se avaa kiinnostavia moraalisia ja filosofisia kysymyksiä eläinten oikeuksista.",
+        "suosittelija": "Alma Onali",
         "kategoriat": [
           "eläinoikeudet",
           "filosofia",
@@ -10634,12 +10708,12 @@
         "alkupera": "ulkomainen"
       },
       {
-        "teos": "Tender is the Flesh",
+        "teos": "Rotukarja (Tender Is the Flesh)",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Tender+is+the+Flesh+Agustina+Bazterrica",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tender+is+the+Flesh",
-        "kuvaus": "Vuonna 2019 julkaistu dystooppinen kauhufantasiaromaani maailmasta, jossa eläinkunta on tuhoutunut virukseen ja ihmiset kasvattavat toisia ihmisiä lihaksi. Pakottaa pohtimaan eläinten kohtelua yhteiskunnassamme.",
-        "suosittelija": "Marko Junkkari",
+        "google_linkki": "https://www.google.com/search?q=Rotukarja+Agustina+Bazterrica",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Rotukarja+Agustina+Bazterrica",
+        "kuvaus": "Alma suosittelee dystooppista kauhuromaania maailmasta, jossa eläimet on jouduttu lopettamaan viruksen takia ja ihmisiä kasvatetaan lihaksi. Kirja pakottaa pohtimaan eläinten kohtelua, ja Almaa kosketti eniten kuvaus maailmasta ilman koiria.",
+        "suosittelija": "Alma Onali",
         "kategoriat": [
           "dystopia",
           "kauhu",
@@ -10658,6 +10732,19 @@
           "kirjallisuus",
           "Nick Cave"
         ]
+      },
+      {
+        "teos": "Shania Twain: Not Just a Girl",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Shania+Twain+Not+Just+a+Girl",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Shania+Twain+Not+Just+a+Girl",
+        "kuvaus": "Anni suosittelee kevyeksi lomakatsottavaksi Netflixin dokumenttia kanadalaisesta countrytähdestä Shania Twainista. Hänen mielestään se on tyypillinen levy-yhtiön tuottama henkilökuva, mutta silti mahtavaa ysärifiilistelyä.",
+        "suosittelija": "Anni Keski-Heikkilä",
+        "kategoriat": [
+          "dokumentti",
+          "musiikki",
+          "country"
+        ]
       }
     ]
   },
@@ -10671,8 +10758,8 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Dopesick+sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Dopesick",
-        "kuvaus": "Tositapahtumiin pohjautuva dramatisoitu sarja Yhdysvaltojen opioidikriisin syntymisestä ja siitä, kuinka se on käytännössä yhden suvun ja yhden yhtiön syy. Viihdyttävä, sivistävä ja hyvin balansoitu.",
-        "suosittelija": "Anni Keski-Heikkilä",
+        "kuvaus": "Inkeri suosittelee Disney+:sta löytyvää tositapahtumiin pohjautuvaa draamasarjaa Yhdysvaltojen opioidikriisin synnystä ja siitä, kuinka se oli käytännössä yhden suvun ja yhden yhtiön syytä. Hänen mukaansa sarja on viihdyttävä, sivistävä ja hyvin tasapainotettu.",
+        "suosittelija": "Inkeri Harju",
         "kategoriat": [
           "draama",
           "tositapahtumat",
@@ -10680,11 +10767,11 @@
         ]
       },
       {
-        "teos": "Tauko",
-        "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Laura+Friman+Tauko+kirja",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Laura+Friman+Tauko",
-        "kuvaus": "Laura Frimanin kirja, jossa hän ryhtyy ostolakkoon. Inspiroi harkitsemaan omaa suhdetta kuluttamiseen ja vaatteiden ostamiseen.",
+        "teos": "Vaatelakko",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Anni on pitänyt tämän vuoden vaatelakkoa eikä ole ostanut yhtään uutta vaatetta. Hän suosittelee kokeilua kaikille, jotka siihen pystyvät: se saa miettimään omia ostoimpulsseja ja ostamaan jatkossa vähemmän ja harkitummin. Innoituksena toimi Laura Frimanin kirja Tauko.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "elämäntapa",
@@ -10697,8 +10784,8 @@
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=Final+Fantasy+VII+Remake",
         "lisatieto_linkki": "https://store.steampowered.com/search/?term=Final+Fantasy+VII+Remake",
-        "kuvaus": "Legendaarisen japanilaisen roolipelisarjan seitsemännen osan remake, jossa on vahvoja ympäristönsuojelu- ja ekologisen katastrofin teemoja. Saatavilla Steamista, Epic Gamesista ja PlayStation-konsoleille.",
-        "suosittelija": "Anni Keski-Heikkilä",
+        "kuvaus": "Ilmo on hakannut legendaarisen japanilaisen roolipelin Final Fantasy VII:n uusintaversiota, joka poikkeaa paljon alkuperäisestä mutta jossa on yhä vahvoja ympäristönsuojelun ja ekologisen katastrofin teemoja. Peli löytyy Steamista ja Epic Gamesista sekä PlayStation-konsoleille.",
+        "suosittelija": "Ilmo Ilkka",
         "kategoriat": [
           "videopeli",
           "roolipeli",
