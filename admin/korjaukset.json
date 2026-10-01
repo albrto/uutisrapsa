@@ -1778,5 +1778,45 @@
         "HS"
       ]
     }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1774580406",
+    "jakso_otsikko": "Lakot vol XXXI, feminismi Suomessa 2024, Prinsessa Kate",
+    "paivamaara": "14.3.2024",
+    "r_idx": 0,
+    "teos": "Bref France (@bref.france Instagram-tili)",
+    "uusi_data": {
+      "teos": "Bref France (@bref.france Instagram-tili)",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Brief+France+Instagram",
+      "lisatieto_linkki": "",
+      "kuvaus": "Ranskankielinen some-tili, jonka tekijä pysäyttää ihmisiä kadulla ja teettää heillä nopeita 'tämä vai tuo' -valintoja, esimerkiksi lempileivonnaisista. Tuomaksen mukaan tilistä tulee tosi hyvä fiilis.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "some",
+        "Instagram",
+        "TikTok"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1754877570",
+    "jakso_otsikko": "22.2.2024: Sota 2v., RIP Navalnyi, maahanmuuttajien kielivaikeudet, miesten vs. naisten politiikka",
+    "paivamaara": "22.2.2024",
+    "r_idx": 1,
+    "teos": "One Day (Yksi päivä) -kirja",
+    "uusi_data": {
+      "teos": "One Day (Yksi päivä) -kirja",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=One+Day+David+Nicholls+kirja",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls",
+      "kuvaus": "David Nichollsin romaani, johon Netflixin One Day -sarja perustuu. Annin mielestä kirja on niin ihana, että pelkkä muistelu meinasi saada hänet itkemään.",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kategoriat": [
+        "romantiikka",
+        "brittiläinen kirjallisuus"
+      ]
+    }
   }
 ]
