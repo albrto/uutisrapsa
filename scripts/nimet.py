@@ -6,6 +6,7 @@ Tämä on AINOA paikka, jossa nimilistoja ylläpidetään (yhdistetty 16.9.2026 
 aiemmin kopiot generoi_validointidata.py:ssä ja validoi_suosittelijat.py:ssä
 piti pitää käsin synkassa, ja ne ehtivät jo eriytyä "milka"-mappauksen verran).
 """
+import difflib
 import re
 
 TUNNETUT_NIMET = [
@@ -63,6 +64,12 @@ ETUNIMI_KARTTA = {
     "pihla": "Pihla Saravirta",
     "topi": "Topi Kosunen",
     "susanna": "Susanna Reinboth",
+    # Kesätiimit 2023–2024: kuvauksissa usein pelkät etunimet ("Joona, Heini ja Oskari")
+    "joona": "Joona Aaltonen",
+    "heini": "Heini Pitkänen",
+    "oskari": "Oskari Eronen",
+    # Anni Keski-Heikkilän nimikirjaimet ("Tuomas, AKH ja Salla keskustelevat", 16.5.2024)
+    "akh": "Anni Keski-Heikkilä",
 }
 
 
@@ -104,6 +111,9 @@ LAUSE = r'(?:[^.!?]|[.!?](?!\s))'
 # Vierailijalause: "…ja vierailun tekee valtiontaloustietäjä Teemu Muhonen",
 # "HS:n pääkirjoitustoimittaja Jussi Niemeläinen kertoo, …"
 VIERAILU = re.compile(r'vierai|vieraa|saapuu|\bkertoo\b|\bkertovat\b', re.IGNORECASE)
+# Lauseet, joissa vieras mainitaan taivutettuna: "saavat vieraakseen taloustoimittaja
+# Tuomas Niskakankaan", "saavat studioon … Anna-Sofia Bernerin", "yhdessä Tuijan kanssa"
+VIERAS_TAIVUTETTUNA = re.compile(r'vieraakseen|vieraaksi|\bstudioon\b|\bkanssa\b', re.IGNORECASE)
 
 
 def _sukunimen_vartalo(sukunimi):
@@ -159,6 +169,107 @@ def _nimet_osasta(osa, genetiivi_ok):
     return loydetyt
 
 
+# Nimiluettelon aloittavat sanat. Vahvat ("Studiossa …", "Podissa mukana ovat …")
+# kertovat aina osallistujista; heikot ("Tämän viikon podcastissa …") vain, jos
+# niitä seuraa pelkkä nimiluettelo ja monikon verbi tai lauseen loppu.
+LISTAMERKKI = re.compile(r'(?<![\w-])((?:(?:studiossa|podissa|podcastissa|jaksossa|mukana|ovat|'
+                         r'kesätiimiin\s+kuuluvat|' + OSALLISTUJAVERBIT + r')\s+)+)', re.IGNORECASE)
+VAHVA_LISTAMERKKI = re.compile(r'studiossa|mukana', re.IGNORECASE)
+# Pienellä alkavat sanat, jotka saavat esiintyä nimiluettelon sisällä
+# ("HS:n audio- ja sometoimittaja Inkeri Harju", "vieraileva tähti Jukka")
+LISTAN_TITTELI = re.compile(r'(toimittajat?|kirjeenvaihtajat?|reportterit?|tähti|tähtenä|staroina?|vieraana|'
+                            r'vieraina|tuottaja|juontaja|-)$|^(vieraile\w*|entinen|hs:n|af|von|van|de|lisäksi|myös)$',
+                            re.IGNORECASE)
+# Lause rajataan [.!?]+välilyönti -kohdista, mutta ei nimikirjaimen jälkeen ("Timo R. Stewart")
+LAUSERAJA = re.compile(r'(?<=[.!?])(?<!\b[A-ZÄÖÅ]\.)\s+')
+
+
+def _ratkaise_listanimi(nimi):
+    """Nimiluettelon yksi nimi kanoniseen muotoon: tunnettu koko nimi, etunimikartan
+    vakiokasvo tai — jos ei tunneta — koko nimi sellaisenaan (vieras, esim. "Jari
+    Hanska"). Tuntematon pelkkä etunimi → None."""
+    # Nimen edellä voi olla paikka: "puhelinyhteydellä Washingtonista Anna-Sofia Berner"
+    osat = nimi.split()
+    while len(osat) > 2 and re.search(r'(sta|stä|lta|ltä|ssa|ssä|lla|llä)$', osat[0]):
+        osat = osat[1:]
+    nimi = " ".join(osat)
+    tunnettu = next((n for n in TUNNETUT_NIMET if n.lower() == nimi.lower()), None)
+    if tunnettu:
+        return tunnettu
+    if len(osat) == 1:
+        if nimi.lower() in ETUNIMI_KARTTA:
+            return ETUNIMI_KARTTA[nimi.lower()]
+        # Pelkkä etunimi, jolla on tasan yksi tunnettu nimi ("vieraileva tähti Jukka" →
+        # Jukka Huusko, "Emil, Sara Vainio ja …" → Emil Elo; tarkistettu datasta);
+        # muuten se ei ole nimi lainkaan ("EU-parlamentin")
+        osumat = [n for n in TUNNETUT_NIMET if n.split()[0].lower() == nimi.lower()]
+        return osumat[0] if len(osumat) == 1 else None
+    # Lyhyempi tai samanpituinen lähes sama sukunimi = kirjoitusvirhe ("Maria Manne")
+    etu, suku = " ".join(osat[:-1]), osat[-1]
+    for n in TUNNETUT_NIMET:
+        n_etu, _, n_suku = n.rpartition(" ")
+        if n_etu.lower() == etu.lower() and len(suku) <= len(n_suku) and n_suku.startswith(suku[:-1]):
+            return n
+        # Sama sukunimi, lähes sama etunimi = kirjoitusvirhe ("Susanne Reinboth", 29.4.2026)
+        if n_suku == suku and difflib.SequenceMatcher(None, n_etu.lower(), etu.lower()).ratio() >= 0.8:
+            return n
+    return nimi
+
+
+def _nimiluettelot(teksti):
+    """Poimii osallistujat nimiluetteloista, joissa ei ole OSALLISTUJAVERBIT-verbiä:
+    "Studiossa Tuomas Peltomäki, Jari Hanska ja Salla Vuorikoski.", "Podissa mukana
+    ovat …", "Tämän viikon jaksossa Tuomas, Marko ja Sohvi." sekä lauseen alussa
+    monikon verbillä "Salla, Marko ja HS:n … Inkeri Harju äimistelevät …" (lisätty
+    1.10.2026 — nämä putosivat ennen laajaan parseriin, joka hukkasi tuntemattomat
+    vieraat ja pelkät etunimet). Tuntematon koko nimi palautetaan sellaisenaan."""
+    teksti = re.sub(r'["”“][^"”“]{0,40}["”“]', ' ', teksti)  # lempinimet: Anna-Sofia "Sohvi" Berner
+    loydetyt = set()
+    for lause in LAUSERAJA.split(teksti):
+        lause = " ".join(lause.split()).rstrip(".!?;: ")
+        alut = [(m.end(), bool(VAHVA_LISTAMERKKI.search(m.group(1)))) for m in LISTAMERKKI.finditer(lause)]
+        alut.append((0, False))  # myös ilman merkkisanaa lauseen alusta
+        for alku, vahva in alut:
+            nimet, nykyinen, loppu, kuvaussanat = [], [], None, 0
+            for sana in lause[alku:].replace(",", " , ").split():
+                if sana in (",", "ja", "sekä"):
+                    if nykyinen:
+                        nimet.append(nykyinen)
+                    nykyinen, kuvaussanat = [], 0
+                elif (nimet and not nykyinen and sana.islower() and kuvaussanat < 3
+                      and sana not in ("joka", "jotka", "kun", "että", "jossa", "mutta")):
+                    # Luettelon myöhempää nimeä voi edeltää lyhyt kuvaus: "mukana Tuomas,
+                    # Salla ja HS:n soteen erikoistunut toimittaja Veera Paananen",
+                    # "Teemu Muhonen ja politiikan toimittaja Teemu Luukka spekuloivat"
+                    kuvaussanat += 1
+                    continue
+                elif ":" in sana or LISTAN_TITTELI.search(sana) and sana.lower() not in ("af", "von", "van", "de"):
+                    nykyinen = []  # titteli edeltää nimeä
+                elif sana.isupper() and len(sana.rstrip(".")) > 1 and sana.lower() not in ETUNIMI_KARTTA:
+                    loppu = sana  # versaalilause ("PODCASTISSA ON INFOA …") ei ole nimiluettelo
+                    break
+                elif sana[0].isupper() or sana.lower() in ("af", "von", "van", "de"):
+                    nykyinen.append(sana)
+                else:
+                    loppu = sana
+                    break
+            verbi = loppu is not None and bool(re.search(r'(vat|vät)$', loppu)
+                                               or re.fullmatch(OSALLISTUJAVERBIT, loppu))
+            if nykyinen and (loppu is None or verbi):
+                # Muuhun sanaan katkennut viimeinen osa ei ole nimi ("… sekä
+                # Saksan-tietämystään ensimmäisessä osiossa jakava Hanna Mahlamäki")
+                nimet.append(nykyinen)
+            if not nimet:
+                continue
+            if alku == 0 and (len(nimet) < 2 or not verbi):
+                continue
+            if alku > 0 and not vahva and not (verbi or loppu is None):
+                continue
+            loydetyt |= {_ratkaise_listanimi(" ".join(n)) for n in nimet} - {None}
+            break
+    return loydetyt
+
+
 def poimi_osallistujat_tiukasti(kuvaus):
     """Katsoo vain osallistujaverbiä edeltävää lauseen alkua ("Tuomas, Marko ja Salla
     keskustelevat …"), "… kanssa" -osaa sekä vierailijalauseiden tunnettuja koko nimiä.
@@ -185,13 +296,34 @@ def poimi_osallistujat_tiukasti(kuvaus):
     osallistujat = set()
     for osa, genetiivi_ok in osat:
         osallistujat |= _nimet_osasta(osa, genetiivi_ok)
+    osallistujat |= _nimiluettelot(teksti)
     if not osallistujat:
         return poimi_osallistujat_laajasti(kuvaus), False
     for lause in re.split(r'[.!?]\s', teksti):
         if VIERAILU.search(lause):
             osallistujat |= {n for n in TUNNETUT_NIMET
                              if re.search(r'\b' + re.escape(n) + r'\b', lause, re.IGNORECASE)}
+        if VIERAS_TAIVUTETTUNA.search(lause):
+            osallistujat |= _taivutetut_vieraat(lause)
     return sorted(osallistujat), True
+
+
+def _taivutetut_vieraat(lause):
+    """Tunnetut nimet taivutettuina vieraslauseessa. Vartalo on lyhyt, koska
+    astevaihtelu muuttaa sukunimen loppua (Niskakangas → Niskakankaan); etunimen on
+    silti täsmättävä sellaisenaan. Pelkkä taivutettu etunimi ("Tuijan kanssa")
+    hyväksytään vain, jos sillä on tasan yksi tunnettu nimi."""
+    loydetyt = set()
+    for nimi in TUNNETUT_NIMET:
+        etu, _, suku = nimi.rpartition(" ")
+        vartalo = suku[:max(3, len(suku) - 3)]
+        if re.search(r'\b' + re.escape(etu) + r'\s+' + re.escape(vartalo) + r'\w*', lause, re.IGNORECASE):
+            loydetyt.add(nimi)
+    for m in re.finditer(r'\b([A-ZÄÖÅ][a-zäöå]+)n\s+kanssa\b', lause):
+        osumat = [n for n in TUNNETUT_NIMET if n.split()[0] == m.group(1)]
+        if len(osumat) == 1:
+            loydetyt.add(osumat[0])
+    return loydetyt
 
 
 def poimi_osallistujat_rss(kuvaus):
