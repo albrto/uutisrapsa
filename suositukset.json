@@ -8685,8 +8685,8 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Riistetyt+dokumenttisarja+Yle+Janette+Björqvist",
         "lisatieto_linkki": "https://imdb.com/find/?q=Riistetyt",
-        "kuvaus": "Kolmiosainen suomalainen dokumenttisarja (2022), ohjannut Janette Björqvist. Sarja käsittelee ihmiskauppaa, työorjuutta ja alaikäisinä Suomeen tulleita pakolaisia – löytyy Yle Areenasta.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Tuomas suosittelee Janette Björqvistin ohjaamaa kolmiosaista suomalaista dokumenttisarjaa, joka käsittelee ihmiskauppaa, työperäistä orjuutta ja alaikäisinä Suomeen tulleita pakolaisia. Sarja löytyy Yle Areenasta, ja Tuomaksen mukaan se näyttää television voiman, kun ihmiset näkee omin silmin.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "dokumentti",
           "maahanmuutto",
@@ -12505,12 +12505,37 @@
         "paakategoria": "kulttuuri",
         "google_linkki": "https://www.google.com/search?q=Sivullinen+kirjakauppa+Kaisaniemi+Helsinki",
         "lisatieto_linkki": "https://www.google.com/search?q=Sivullinen+kirjakauppa+Kaisaniemi+Helsinki",
-        "kuvaus": "Hannu Paloviidan ja Rouswadin avaama kirjakauppa Kaisaniemessä Helsingissä. Tarjolla paljon hyviä kirjoja, klassikoita ja erikielisiä teoksia, ja henkilökunta on lukenut myymänsä kirjat.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Maria suosittelee Kaisaniemeen avattua Sivullista, Hannu Paloviidan ja Rosebud-kirjakauppojen uutta kirjakauppaa, joka tekee hänet onnelliseksi: siellä on paljon hyviä ja vanhoja kirjoja, klassikoita, vieraskielisiä teoksia ja pöytiä lukemiseen.",
+        "suosittelija": "Maria Manner",
         "kategoriat": [
           "kirjakauppa",
           "Helsinki",
           "kulttuuri"
+        ]
+      },
+      {
+        "teos": "Kirjakauppakahvilassa vierailu matkoilla ja kirjan ostaminen matkamuistoksi",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas suosittelee, että aina uuteen kaupunkiin matkustaessa kannattaa etsiä kirjakauppakahvila, ostaa sieltä kirja ja säilyttää ostokuitti kirjan välissä muistona matkasta.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "matkailu",
+          "kirjat",
+          "elämäntapa"
+        ]
+      },
+      {
+        "teos": "James Somers (toimittaja, jsomers.net)",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=James+Somers+jsomers.net",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas suosittelee seuraamaan toimittaja James Somersin kirjoituksia yleisesti ja vinkkaa hänen kotisivustaan jsomers.net, jonne on koottu kaikki hänen artikkelinsa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "journalismi",
+          "kirjoittaja"
         ]
       }
     ]
@@ -14948,8 +14973,8 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Marianne+%26+Leonard+Words+of+Love+dokumentti",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Marianne+%26+Leonard+Words+of+Love",
-        "kuvaus": "Dokumenttielokuva Leonard Cohenin ja Marianne Ihlénin rakkaustarinaasta, 1960-luvun vapaasta rakkaudesta Kreikan Hidrassa sekä heidän elämänsä traagisista käänteitä. Marko Junkkari katsoi sen kahdesti peräkkäin.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Dokumenttielokuva Leonard Cohenin ja Marianne Ihlenin rakkaustarinasta, 1960-luvun vapaasta rakkaudesta Kreikan Hydran saarella ja heidän elämänsä traagisista käänteistä. Maria katsoi sen kahdesti saman viikonlopun aikana.",
+        "suosittelija": "Maria Manner",
         "kategoriat": [
           "dokumentti",
           "musiikki",
@@ -14961,12 +14986,25 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Chaos+Making+a+New+Science+James+Gleick",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Chaos+Making+a+New+Science+James+Gleick",
-        "kuvaus": "James Gleickin klassikkoteos kaaostieteen synnystä ja kehityksestä. Kirja selittää, miten todellisuus on pohjimmiltaan kaaosta, josta matematiikka valaisee vain pienen siivun.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "James Gleickin klassikkoteos kaaostutkimuksen synnystä. Tuomaksen mielestä kirja on erinomainen ja hyvin kirjoitettu: matematiikka luo illuusion järjestyksestä, vaikka todellisuus on pohjimmiltaan kaaosta.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "luonnontiede",
           "matematiikka",
           "tietokirja"
+        ]
+      },
+      {
+        "teos": "Kovan tieteen (esim. suhteellisuusteorian) kuunteleminen nukahtamisen apuna",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas suosittelee abstraktin fysiikan, kuten suhteellisuusteorian, lukemista ja kuuntelemista unen apuna, sillä sen käsittämätön abstraktius rentouttaa aivot ennen nukkumaanmenoa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "elämäntapa",
+          "tiede",
+          "uni"
         ]
       }
     ]
