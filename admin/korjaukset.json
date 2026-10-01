@@ -1527,5 +1527,41 @@
       ],
       "alkupera": "ulkomainen"
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1901910282",
+    "jakso_otsikko": "22.8.2024: Ministerinvaihdos, marjaviulut, sähköpotkulaudat",
+    "paivamaara": "22.8.2024",
+    "r_idx": 0,
+    "teos": "Eero Järnefelt -näyttely (Ateneum)",
+    "uusi_data": {
+      "teos": "Eero Järnefelt -näyttely (Ateneum)",
+      "suosittelija": "Oskari Eronen",
+      "kuvaus": "Ateneumin Eero Järnefelt -näyttely päättyy sunnuntaina 25. elokuuta 2024. Näyttelyssä on esillä mm. Järnefeltin Koli-maisemat.",
+      "paakategoria": "kulttuuri",
+      "kategoriat": [
+        "taide",
+        "maalaus",
+        "näyttely"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1901910282",
+    "jakso_otsikko": "22.8.2024: Ministerinvaihdos, marjaviulut, sähköpotkulaudat",
+    "paivamaara": "22.8.2024",
+    "r_idx": 1,
+    "teos": "The Good Wife",
+    "uusi_data": {
+      "teos": "The Good Wife",
+      "suosittelija": "Oskari Eronen",
+      "kuvaus": "Oikeussalidraama, jossa kotiäiti Lisa Florick joutuu kaivamaan vanhat juristin paperinsa esiin aviomiehensä lahjusskandaalin jälkeen. Seitsemän kautta pitkä sarja, jossa yhdistyvät rikos-, riita- ja ihmissuhdeasiat sekä myöhemmin myös politiikka.",
+      "paakategoria": "tv-sarja",
+      "kategoriat": [
+        "oikeussalidraama",
+        "draama",
+        "cozy"
+      ]
+    }
   }
 ]
