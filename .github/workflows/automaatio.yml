@@ -49,7 +49,19 @@ jobs:
           python-version: '3.11'
           
       - name: Asenna ffmpeg (pydub-leikkausta varten)
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+        # apt-get on jumittunut tähän useasti (3.9. ja 1.10.2026: pakettipalvelin ei
+        # vastaa, ajo odottaa koko aikarajan). Siksi: aikaraja per komento, ensin
+        # asennus ilman hidasta update-vaihetta, ja kolme yritystä.
+        timeout-minutes: 12
+        run: |
+          APT="sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=20 -o Acquire::https::Timeout=20"
+          for yritys in 1 2 3; do
+            if timeout 180 $APT install -y --no-install-recommends ffmpeg; then exit 0; fi
+            if timeout 180 $APT update && timeout 240 $APT install -y --no-install-recommends ffmpeg; then exit 0; fi
+            echo "ffmpeg-asennus epäonnistui (yritys $yritys/3), yritetään uudelleen..."
+            sleep 15
+          done
+          exit 1
           
       - name: Asenna Python-riippuvuudet
         run: pip install -r requirements.txt
