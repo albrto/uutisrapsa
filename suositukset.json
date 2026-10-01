@@ -5691,6 +5691,32 @@
     "paivamaara": "22.8.2024",
     "suositukset": [
       {
+        "teos": "Do You Know Mordechai?",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Do+You+Know+Mordechai+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Do%20You%20Know%20Mordechai",
+        "kuvaus": "USG Audion kuusiosainen podcast-sarja miehestä, jolla on monta identiteettiä. Heinin mielestä erityisen kiinnostavaa on, että yhdessä jaksossa haastatellaan itse huijaria.",
+        "suosittelija": "Heini Pitkänen",
+        "kategoriat": [
+          "true crime",
+          "huijarit"
+        ],
+        "alkupera": "ulkomainen"
+      },
+      {
+        "teos": "Believable: The Coco Berthmann Story",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Believable+The+Coco+Berthmann+Story+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Believable%20The%20Coco%20Berthmann%20Story",
+        "kuvaus": "Podcast naisesta, joka kertoo traagisesta lapsuudestaan Saksassa ja rakentaa tarinalla uran, kunnes joku alkaa epäillä sen todenperäisyyttä; toimittaja selvittää asiaa Saksan ja Yhdysvaltojen välillä. Heini kuunteli pitkän sarjan putkeen ja kiittää sitä, ettei tarina jää auki.",
+        "suosittelija": "Heini Pitkänen",
+        "kategoriat": [
+          "true crime",
+          "huijarit"
+        ],
+        "alkupera": "ulkomainen"
+      },
+      {
         "teos": "Eero Järnefelt -näyttely (Ateneum)",
         "paakategoria": "kulttuuri",
         "google_linkki": "https://www.google.com/search?q=Eero+J%C3%A4rnefelt+n%C3%A4yttely+Ateneum+2024",
@@ -5754,32 +5780,6 @@
           "ranskalaiskirjallisuus",
           "yhteiskunta"
         ]
-      },
-      {
-        "teos": "Do You Know Mordechai?",
-        "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Do+You+Know+Mordechai+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Do%20You%20Know%20Mordechai",
-        "kuvaus": "USG Audion kuusiosainen podcast-sarja miehestä, jolla on monta identiteettiä. Heinin mielestä erityisen kiinnostavaa on, että yhdessä jaksossa haastatellaan itse huijaria.",
-        "suosittelija": "Heini Pitkänen",
-        "kategoriat": [
-          "true crime",
-          "huijarit"
-        ],
-        "alkupera": "ulkomainen"
-      },
-      {
-        "teos": "Believable: The Coco Berthmann Story",
-        "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Believable+The+Coco+Berthmann+Story+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Believable%20The%20Coco%20Berthmann%20Story",
-        "kuvaus": "Podcast naisesta, joka kertoo traagisesta lapsuudestaan Saksassa ja rakentaa tarinalla uran, kunnes joku alkaa epäillä sen todenperäisyyttä; toimittaja selvittää asiaa Saksan ja Yhdysvaltojen välillä. Heini kuunteli pitkän sarjan putkeen ja kiittää sitä, ettei tarina jää auki.",
-        "suosittelija": "Heini Pitkänen",
-        "kategoriat": [
-          "true crime",
-          "huijarit"
-        ],
-        "alkupera": "ulkomainen"
       }
     ]
   },

@@ -14591,6 +14591,38 @@
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Do You Know Mordechai?",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "true crime",
+          "huijarit"
+        ],
+        "kuvaus": "USG Audion kuusiosainen podcast-sarja miehestä, jolla on monta identiteettiä. Heinin mielestä erityisen kiinnostavaa on, että yhdessä jaksossa haastatellaan itse huijaria.",
+        "google_linkki": "https://www.google.com/search?q=Do+You+Know+Mordechai+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Do%20You%20Know%20Mordechai",
+        "alkupera": "ulkomainen",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Believable: The Coco Berthmann Story",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "true crime",
+          "huijarit"
+        ],
+        "kuvaus": "Podcast naisesta, joka kertoo traagisesta lapsuudestaan Saksassa ja rakentaa tarinalla uran, kunnes joku alkaa epäillä sen todenperäisyyttä; toimittaja selvittää asiaa Saksan ja Yhdysvaltojen välillä. Heini kuunteli pitkän sarjan putkeen ja kiittää sitä, ettei tarina jää auki.",
+        "google_linkki": "https://www.google.com/search?q=Believable+The+Coco+Berthmann+Story+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Believable%20The%20Coco%20Berthmann%20Story",
+        "alkupera": "ulkomainen",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
         "suosittelija": "Oskari Eronen",
         "teos": "Eero Järnefelt -näyttely (Ateneum)",
         "paakategoria": "kulttuuri",
@@ -14606,7 +14638,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 1,
+        "r_idx": 3,
         "is_suspicious": false,
         "suosittelija": "Oskari Eronen",
         "teos": "The Good Wife",
@@ -14623,7 +14655,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 2,
+        "r_idx": 4,
         "is_suspicious": false,
         "suosittelija": "Oskari Eronen",
         "teos": "Alarmy (herätyskello-sovellus)",
@@ -14640,7 +14672,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 3,
+        "r_idx": 5,
         "is_suspicious": false,
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Pasila",
@@ -14657,7 +14689,7 @@
         "lisalinkit": []
       },
       {
-        "r_idx": 4,
+        "r_idx": 6,
         "is_suspicious": false,
         "suosittelija": "Joona Aaltonen",
         "teos": "Väkivallan historia",
@@ -14671,38 +14703,6 @@
         "google_linkki": "https://www.google.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
         "alkupera": "",
-        "lisalinkit": []
-      },
-      {
-        "r_idx": 5,
-        "is_suspicious": false,
-        "suosittelija": "Heini Pitkänen",
-        "teos": "Do You Know Mordechai?",
-        "paakategoria": "podcast",
-        "kategoriat": [
-          "true crime",
-          "huijarit"
-        ],
-        "kuvaus": "USG Audion kuusiosainen podcast-sarja miehestä, jolla on monta identiteettiä. Heinin mielestä erityisen kiinnostavaa on, että yhdessä jaksossa haastatellaan itse huijaria.",
-        "google_linkki": "https://www.google.com/search?q=Do+You+Know+Mordechai+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Do%20You%20Know%20Mordechai",
-        "alkupera": "ulkomainen",
-        "lisalinkit": []
-      },
-      {
-        "r_idx": 6,
-        "is_suspicious": false,
-        "suosittelija": "Heini Pitkänen",
-        "teos": "Believable: The Coco Berthmann Story",
-        "paakategoria": "podcast",
-        "kategoriat": [
-          "true crime",
-          "huijarit"
-        ],
-        "kuvaus": "Podcast naisesta, joka kertoo traagisesta lapsuudestaan Saksassa ja rakentaa tarinalla uran, kunnes joku alkaa epäillä sen todenperäisyyttä; toimittaja selvittää asiaa Saksan ja Yhdysvaltojen välillä. Heini kuunteli pitkän sarjan putkeen ja kiittää sitä, ettei tarina jää auki.",
-        "google_linkki": "https://www.google.com/search?q=Believable+The+Coco+Berthmann+Story+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Believable%20The%20Coco%20Berthmann%20Story",
-        "alkupera": "ulkomainen",
         "lisalinkit": []
       }
     ]
