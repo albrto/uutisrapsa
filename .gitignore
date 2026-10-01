@@ -30,3 +30,4 @@ pipeline/korjaukset_applied_*.json
 pipeline/tarkistusjono_*.txt
 pipeline/agenttiarvio/erat/
 pipeline/agenttiarvio/tulokset/
+pipeline/agenttiarvio/varmistus/

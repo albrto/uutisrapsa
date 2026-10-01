@@ -71,6 +71,12 @@
   .ei-eroja { color: var(--toissijainen); margin-top: 8px; }
   .claude-arvio { margin: 6px 0; padding: 6px 10px; border-radius: 6px; background: var(--pinta2); font-size: 13px; }
   .claude-arvio.epavarma { outline: 1px solid var(--varoitus); }
+  .toinen { margin: 6px 0; padding: 6px 10px; border-radius: 6px; font-size: 13px; border-left: 3px solid var(--reuna); background: var(--pinta2); }
+  .toinen.vahvistaa { border-left-color: var(--aksentti); }
+  .toinen.kiistaa { border-left-color: var(--hylatty); }
+  .toinen.epavarma { border-left-color: var(--varoitus); }
+  .toinen .korjaus { margin-top: 4px; }
+  .nappi.pieni { padding: 1px 8px; font-size: 12px; margin-left: 6px; }
 
   #transkripti { position: sticky; top: 76px; height: calc(100vh - 96px); display: flex; flex-direction: column;
     background: var(--pinta); border: 1px solid var(--reuna); border-radius: 10px; overflow: hidden; }
@@ -83,6 +89,8 @@
   #tr-rivit mark { background: var(--korostus); color: inherit; border-radius: 2px; }
   .tr-soitin { padding: 8px 12px; border-bottom: 1px solid var(--reuna); display: flex; flex-direction: column; gap: 4px; }
   .tr-soitin audio { width: 100%; height: 36px; }
+  .kelaus { display: flex; gap: 6px; }
+  .kelaus .nappi { padding: 3px 10px; font-size: 13px; }
   #tr-rivit p { cursor: pointer; border-radius: 2px; }
   #tr-rivit p:hover { background: var(--pinta2); }
   #tr-rivit p.nykyinen { outline: 2px solid var(--aksentti); outline-offset: 2px; border-radius: 2px; }
@@ -104,6 +112,8 @@
       <option value="kaikki">kaikki</option>
       <option value="paatetyt">päätetyt</option>
       <option value="epavarmat">avoimet: Claude epävarma</option>
+      <option value="kiistanalaiset">avoimet: kiistanalaiset (kuuntele)</option>
+      <option value="vahvistetut">avoimet: kahdesti vahvistetut</option>
     </select>
   </label>
   <button class="nappi ensisijainen" id="vie">Vie hyväksytyt korjauksiin</button>
@@ -118,6 +128,12 @@
       <span class="meta" id="tr-osumat"></span>
     </div>
     <div class="tr-soitin"><audio id="soitin" controls preload="metadata"></audio>
+      <div class="kelaus">
+        <button class="nappi" data-kelaa="-30">−30 s</button>
+        <button class="nappi" data-kelaa="-10">−10 s</button>
+        <button class="nappi" data-kelaa="10">+10 s</button>
+        <button class="nappi" data-kelaa="30">+30 s</button>
+      </div>
       <span class="meta" id="soitin-tila">Klikkaa riviä kuunnellaksesi sen kohdan.</span></div>
     <div id="tr-rivit"><p class="tr-tyhja">Valitse ehdotuksesta ”Näytä transkriptiossa”.</p></div>
   </aside>
@@ -172,11 +188,24 @@ const MUOKATTAVAT = {
 const NIMET = { teos: "Teos", suosittelija: "Suosittelija", kuvaus: "Kuvaus", paakategoria: "Pääkategoria" };
 const SUOSITUSNIMI = { hyvaksy: "hyväksy", hylkaa: "hylkää", poista: "poista sivulta" };
 
-// Ehdotuksen lähtöarvot: Clauden korjaamat arvot, jos Claude suosittelee hyväksymään
+// Ehdotuksen lähtöarvot: Clauden korjaamat arvot, jos Claude suosittelee hyväksymään;
+// toisen mielipiteen korjaus päälle, jos käyttäjä otti sen käyttöön
+const KORJAUS_KAYTOSSA = {};
 function lahtoData(ero, avain) {
   const a = (DATA.arviot || {})[avain];
-  return a && a.suositus === "hyvaksy" && a.data ? { ...oletusData(ero), ...a.data } : oletusData(ero);
+  const pohja = a && a.suositus === "hyvaksy" && a.data ? { ...oletusData(ero), ...a.data } : oletusData(ero);
+  return KORJAUS_KAYTOSSA[avain] ? { ...pohja, ...KORJAUS_KAYTOSSA[avain] } : pohja;
 }
+
+function kahdestiVahvistettu(avain) {
+  const a = (DATA.arviot || {})[avain];
+  return !!(a && a.toinen && a.toinen.kanta === "vahvistaa" && a.suositus !== "hylkaa");
+}
+function kiistanalainen(avain) {
+  const a = (DATA.arviot || {})[avain];
+  return !!(a && a.toinen && a.toinen.kanta !== "vahvistaa");
+}
+const KANTA = { vahvistaa: "✓ vahvistaa", kiistaa: "✗ kiistää", epavarma: "? epävarma" };
 
 function laskeTilanne() {
   let kaikki = 0, paatetty = 0, hyvaksyttyViematta = 0;
@@ -203,6 +232,8 @@ function piirra() {
     const avoimia = j.erot.filter(e => !DATA.paatokset[e.avain]).length;
     if (suodatin === "avoimet" && avoimia === 0) continue;
     if (suodatin === "paatetyt" && avoimia === j.erot.length) continue;
+    if (suodatin === "kiistanalaiset" && !j.erot.some(e => !DATA.paatokset[e.avain] && kiistanalainen(e.avain))) continue;
+    if (suodatin === "vahvistetut" && !j.erot.some(e => !DATA.paatokset[e.avain] && kahdestiVahvistettu(e.avain))) continue;
     if (suodatin === "epavarmat" && !j.erot.some(e => {
       const a = (DATA.arviot || {})[e.avain];
       return !DATA.paatokset[e.avain] && a && a.varmuus !== "varma";
@@ -285,13 +316,19 @@ function piirraEro(j, e, i) {
     ${a && !p ? `<div class="claude-arvio${a.varmuus === "varma" ? "" : " epavarma"}">
       <strong>Clauden suositus: ${SUOSITUSNIMI[a.suositus]}${a.varmuus === "varma" ? "" : " (epävarma)"}.</strong>
       ${a.suositus === "hyvaksy" ? "Kentissä on Clauden korjaamat arvot. " : ""}${esc(a.perustelu || "")}</div>` : ""}
+    ${a && a.toinen && !p ? `<div class="toinen ${a.toinen.kanta}">
+      <strong>Toinen mielipide: ${KANTA[a.toinen.kanta]}.</strong> ${esc(a.toinen.perustelu || "")}
+      ${a.toinen.korjaus ? `<div class="korjaus">Ehdottaa: ${Object.entries(a.toinen.korjaus).map(([k, v]) => `${esc(NIMET[k] || k)}: <strong>${esc(Array.isArray(v) ? v.join(", ") : v)}</strong>`).join(" · ")}
+        ${KORJAUS_KAYTOSSA[e.avain] ? " (käytössä)" : `<button class="nappi pieni" data-toiminto="kayta-korjaus" data-avain="${esc(e.avain)}">Käytä tätä</button>`}</div>` : ""}
+    </div>` : ""}
     ${kentat && !p ? `<div class="kentat">${kentat}</div>` : ""}
     ${p && p.paatos === "hyvaksytty" && p.data ? `<div class="kentat tallennettu">${
       MUOKATTAVAT[e.tyyppi].map(k => `<label>${NIMET[k]}</label><div>${esc(p.data[k])}</div>`).join("")
     }</div>` : ""}
     <div class="toiminnot">
       ${napit}
-      ${j.transkriptio ? `<button class="nappi" data-toiminto="nayta" data-jakso="${esc(j.jakso_id)}" data-i="${i}">Näytä transkriptiossa</button>` : ""}
+      ${j.transkriptio ? `<button class="nappi" data-toiminto="kuuntele" data-jakso="${esc(j.jakso_id)}" data-i="${i}">▶ Kuuntele kohta</button>
+      <button class="nappi" data-toiminto="nayta" data-jakso="${esc(j.jakso_id)}" data-i="${i}">Näytä transkriptiossa</button>` : ""}
     </div>
   </div>`;
 }
@@ -368,6 +405,17 @@ document.getElementById("jaksot").addEventListener("click", async ev => {
   if (!nappi) return;
   const toiminto = nappi.dataset.toiminto;
   if (toiminto === "nayta") return naytaTranskriptio(nappi.dataset.jakso, +nappi.dataset.i);
+  if (toiminto === "kayta-korjaus") {
+    KORJAUS_KAYTOSSA[nappi.dataset.avain] = DATA.arviot[nappi.dataset.avain].toinen.korjaus;
+    return piirra();
+  }
+  if (toiminto === "kuuntele") {
+    await naytaTranskriptio(nappi.dataset.jakso, +nappi.dataset.i);
+    const p = osumat[osumaIdx];
+    if (p) kelaaRiville(+p.dataset.i, true);
+    else ilmoita("Teoksen nimeä ei löytynyt transkriptiosta — hae sana hakukentästä tai klikkaa riviä.");
+    return;
+  }
   if (toiminto === "hyvaksy-kaikki") {
     const osio = document.getElementById("j-" + nappi.dataset.jakso);
     for (const el of osio.querySelectorAll(".ero")) {
@@ -392,7 +440,11 @@ document.getElementById("vie").addEventListener("click", async () => {
 });
 
 // --- Transkriptio ---
-const HUKKASANAT = new Set(["the", "and", "with", "from", "that", "this", "podcast", "sarja", "kirja", "elokuva", "jakso"]);
+// Yleissanat, jotka esiintyvät teosten kuvauksissa mutta eivät yksilöi kohtaa transkriptiosta
+const HUKKASANAT = new Set(["the", "and", "with", "from", "that", "this", "podcast", "podcastia", "sarja", "sarjan",
+  "kirja", "kirjan", "kirjat", "elokuva", "elokuvan", "jakso", "jakson", "toimittaja", "toimittajan", "kirjailija",
+  "artikkeli", "artikkelin", "dokumentti", "dokumenttisarja", "ohjelma", "kolumni", "juttu", "jutut", "netflix",
+  "yle", "areena", "areenan", "hesari", "suomi", "suomen", "sanomat", "sanomien", "helsingin", "teos", "levy", "albumi"]);
 
 function hakusanat(ero) {
   const sanat = [];
@@ -416,11 +468,14 @@ async function naytaTranskriptio(jaksoId, i) {
     }).join("");
     // Soitin: täysi jakso + rivien aikaleimat (jos tallennettu litteroinnissa)
     const a = await (await fetch("/aani?id=" + encodeURIComponent(jaksoId))).json();
-    AANI = { ajat: a.ajat, rivit: rivit.length };
+    // Arvio merkkimäärän osuudesta (mitattu 1.10.2026: mediaanivirhe 7 s vs. rivipohjaisen 19 s)
+    const kum = [0];
+    for (const r of rivit) kum.push(kum[kum.length - 1] + r.length);
+    AANI = { ajat: a.ajat, rivit: rivit.length, kum };
     const soitin = document.getElementById("soitin");
     soitin.src = a.audio_url || "";
     document.getElementById("soitin-tila").textContent = a.audio_url
-      ? (a.ajat ? "Klikkaa riviä kuunnellaksesi sen kohdan." : "Klikkaa riviä — kohta on arvio (±1 min), tarkkoja aikaleimoja ei ole tälle jaksolle.")
+      ? (a.ajat ? "Klikkaa riviä kuunnellaksesi sen kohdan." : "Klikkaa riviä — kohta on arvio (yleensä ±10–40 s), tarkkoja aikaleimoja ei ole tälle jaksolle.")
       : "Tälle jaksolle ei löytynyt äänitiedostoa.";
     transkriptiJakso = jaksoId;
     document.getElementById("tr-otsikko").textContent = `${jakso.paivamaara} · transkriptio`;
@@ -446,7 +501,16 @@ function korosta(sanat) {
     p.classList.remove("nykyinen");
     if (osui) osumat.push(p);
   }
-  osumaIdx = -1;
+  // Aloituskohdaksi rivi, jolla on eniten ja harvinaisimpia hakusanoja (sana, joka esiintyy
+  // monella rivillä, painaa vähän) — muuten esim. "toimittaja" vei jakson alkuun
+  const harvinaisuus = lausekkeet.map(re => 1 / Math.max(1, rivit.filter(p => re.test(p.dataset.teksti ?? p.textContent)).length));
+  let paras = -1, parasPisteet = 0;
+  osumat.forEach((p, n) => {
+    const teksti = p.dataset.teksti ?? p.textContent;
+    const pisteet = lausekkeet.reduce((summa, re, k) => summa + (re.test(teksti) ? harvinaisuus[k] : 0), 0);
+    if (pisteet > parasPisteet + 1e-9) { paras = n; parasPisteet = pisteet; }
+  });
+  osumaIdx = paras - 1;
   document.getElementById("tr-osumat").textContent = sanat.length ? `${osumat.length} osumaa` : "";
   seuraavaOsuma();
 }
@@ -467,7 +531,7 @@ function rivinKohta(i) {
   if (!isFinite(kesto) || !kesto) return null;
   // Arvio: rivin osuus leikkeestä × leikkeen kesto (puhenopeus oletetaan tasaiseksi)
   const leike = Math.min(kesto, ALKU_S + LOPPU_S);
-  const t = (i / Math.max(AANI.rivit, 1)) * leike;
+  const t = (AANI.kum[i] / Math.max(AANI.kum[AANI.kum.length - 1], 1)) * leike;
   return { aika: t < ALKU_S ? t : Math.max(ALKU_S, kesto - LOPPU_S) + (t - ALKU_S), tarkka: false };
 }
 
@@ -479,13 +543,20 @@ function kelaaRiville(i, soita) {
     const k = rivinKohta(i);
     if (!k) return;
     // Pari sekuntia ennen riviä, ja arviossa enemmän, jotta puhuja ehtii kuulua
-    soitin.currentTime = Math.max(0, k.aika - (k.tarkka ? 2 : 20));
+    soitin.currentTime = Math.max(0, k.aika - (k.tarkka ? 2 : 15));
     document.getElementById("soitin-tila").textContent =
-      `Kohta ${mmss(k.aika)}${k.tarkka ? "" : " (arvio, ±1 min)"} — klikkaa mitä tahansa riviä.`;
+      `Kohta ${mmss(k.aika)}${k.tarkka ? "" : " (arvio, yleensä ±10–40 s)"} — klikkaa mitä tahansa riviä.`;
     if (soita) soitin.play().catch(() => {});
   };
   if (soitin.readyState >= 1) tee(); else soitin.addEventListener("loadedmetadata", tee, { once: true });
 }
+
+document.querySelector(".kelaus").addEventListener("click", ev => {
+  const b = ev.target.closest("[data-kelaa]");
+  if (!b) return;
+  const soitin = document.getElementById("soitin");
+  soitin.currentTime = Math.max(0, soitin.currentTime + +b.dataset.kelaa);
+});
 
 document.getElementById("tr-rivit").addEventListener("click", ev => {
   const p = ev.target.closest("p[data-i]");
