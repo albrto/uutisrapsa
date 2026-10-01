@@ -27,6 +27,8 @@ KORJAUKSET = os.path.join(JUURI, "admin", "korjaukset.json")
 TRANSKRIPTIT = os.path.join(JUURI, "transkriptit")
 
 REC_KENTAT = ("teos", "paakategoria", "google_linkki", "lisatieto_linkki", "kuvaus", "suosittelija", "kategoriat")
+# Valinnaiset kentät: viedään vain, jos päätöksen datassa on arvo (podcastin alkuperä ohjaa kuuntelulinkkejä)
+VALINNAISET_KENTAT = ("alkupera", "lisalinkit")
 
 
 def lue(polku, oletus):
@@ -103,9 +105,11 @@ def vie_korjauksiin():
                 continue
             pohja = muokkaukset.setdefault((jakso_id, r_idx),
                                            {k: jakso["suositukset"][r_idx].get(k, "") for k in REC_KENTAT})
-            pohja.update({k: v for k, v in data.items() if k in REC_KENTAT})
+            pohja.update({k: v for k, v in data.items() if k in REC_KENTAT or (k in VALINNAISET_KENTAT and v)})
         elif tyyppi == "puuttuu":
-            lisaykset.append((jakso_id, {k: data.get(k, "" if k != "kategoriat" else []) for k in REC_KENTAT}))
+            uusi = {k: data.get(k, "" if k != "kategoriat" else []) for k in REC_KENTAT}
+            uusi.update({k: data[k] for k in VALINNAISET_KENTAT if data.get(k)})
+            lisaykset.append((jakso_id, uusi))
         else:
             continue  # "ylimaarainen": poistotyyppiä ei vielä ole — päätös jää odottamaan
         vietavat_avaimet.append(avain)

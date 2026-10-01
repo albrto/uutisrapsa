@@ -69,6 +69,8 @@
   .tila { font-size: 13px; font-weight: 600; }
   .tila.hyvaksytty { color: var(--aksentti); } .tila.hylatty { color: var(--hylatty); } .tila.poista { color: var(--varoitus); }
   .ei-eroja { color: var(--toissijainen); margin-top: 8px; }
+  .claude-arvio { margin: 6px 0; padding: 6px 10px; border-radius: 6px; background: var(--pinta2); font-size: 13px; }
+  .claude-arvio.epavarma { outline: 1px solid var(--varoitus); }
 
   #transkripti { position: sticky; top: 76px; height: calc(100vh - 96px); display: flex; flex-direction: column;
     background: var(--pinta); border: 1px solid var(--reuna); border-radius: 10px; overflow: hidden; }
@@ -97,6 +99,7 @@
       <option value="avoimet">avoimet</option>
       <option value="kaikki">kaikki</option>
       <option value="paatetyt">päätetyt</option>
+      <option value="claude-epavarmat">Clauden epävarmat</option>
     </select>
   </label>
   <button class="nappi ensisijainen" id="vie">Vie hyväksytyt korjauksiin</button>
@@ -186,6 +189,10 @@ function piirra() {
     const avoimia = j.erot.filter(e => !DATA.paatokset[e.avain]).length;
     if (suodatin === "avoimet" && avoimia === 0) continue;
     if (suodatin === "paatetyt" && avoimia === j.erot.length) continue;
+    if (suodatin === "claude-epavarmat" && !j.erot.some(e => {
+      const p = DATA.paatokset[e.avain];
+      return p && p.lahde === "claude" && p.varmuus !== "varma" && !p.viety;
+    })) continue;
     osat.push(piirraJakso(j, avoimia));
   }
   juuri.innerHTML = osat.join("") || `<p class="ei-eroja">Ei näytettävää tällä suodattimella. 🎉</p>`;
@@ -258,6 +265,8 @@ function piirraEro(j, e, i) {
     <div class="muutos">${muutos}</div>
     ${e.peruste ? `<div class="peruste">Näyttö: ${esc(e.peruste)}</div>` : ""}
     ${huomiot.map(h => `<div class="huom">⚠️ ${esc(h)}</div>`).join("")}
+    ${p && p.lahde === "claude" ? `<div class="claude-arvio${p.varmuus === "varma" ? "" : " epavarma"}">
+      <strong>Clauden arvio${p.varmuus === "varma" ? "" : " (epävarma)"}:</strong> ${esc(p.perustelu || "")}</div>` : ""}
     ${kentat && !p ? `<div class="kentat">${kentat}</div>` : ""}
     ${p && p.paatos === "hyvaksytty" && p.data ? `<div class="kentat tallennettu">${
       MUOKATTAVAT[e.tyyppi].map(k => `<label>${NIMET[k]}</label><div>${esc(p.data[k])}</div>`).join("")
