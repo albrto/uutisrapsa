@@ -882,12 +882,12 @@
         ]
       },
       {
-        "teos": "Roaster",
+        "teos": "Rooster",
         "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=Roaster+HBO+tv-sarja",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Roaster+HBO",
-        "kuvaus": "Amerikkalainen lempeä komediasarja HBO:lta, joka sijoittuu yliopistomaailmaan. Pääosassa Steve Carell, ja sarja käsittelee isä-tytär-suhdetta, professorien kilvoittelua sekä Amerikan jakautuneisuutta.",
-        "suosittelija": "Salla Vuorikoski",
+        "google_linkki": "https://www.google.com/search?q=Rooster+HBO+Steve+Carell",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Rooster+Steve+Carell",
+        "kuvaus": "Vepsun suosittelema HBO:n lempeä amerikkalainen komediasarja, joka sijoittuu yliopistolle. Pääosassa Steve Carell, ja sarjassa käsitellään isän ja tyttären suhdetta, professorien kilvoittelua ja Amerikan jakautuneisuutta.",
+        "suosittelija": "Veli-Pekka Lehtonen",
         "kategoriat": [
           "komedia",
           "yliopisto",
@@ -905,6 +905,30 @@
           "stand up",
           "komedia",
           "Helsinki"
+        ]
+      },
+      {
+        "teos": "Oululainen hampurilaispizza",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=hampurilaispizza+Oulu",
+        "lisatieto_linkki": "",
+        "kuvaus": "Johnin puolitosissaan antama vinkki: oululainen hampurilaispizza, jonka päällä on ranskalaisia, kebabia, kanaa, salaattia ja kastikkeita. Kannattaa kokeilla kerran elämässä – ei useammin.",
+        "suosittelija": "John Helin",
+        "kategoriat": [
+          "ruoka",
+          "Oulu"
+        ]
+      },
+      {
+        "teos": "Läpikotaisin – Demi Mooren muistelmat",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Demi+Moore+L%C3%A4pikotaisin",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Demi+Moore+Inside+Out",
+        "kuvaus": "Salla luki Demi Mooren muistelmat sekä Lena Dunhamin kirjan ja antaa niille puolittaisen antisuosituksen: jos haluaa kuulla Hollywood-juoruja ja päihteiden liikakäytöstä, ne kannattaa lukea – tai olla lukematta.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "muistelmat",
+          "Hollywood"
         ]
       }
     ]

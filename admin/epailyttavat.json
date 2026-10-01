@@ -19230,18 +19230,18 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
-        "teos": "Roaster",
+        "is_suspicious": true,
+        "suosittelija": "Veli-Pekka Lehtonen",
+        "teos": "Rooster",
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "komedia",
           "yliopisto",
           "amerikkalainen"
         ],
-        "kuvaus": "Amerikkalainen lempeä komediasarja HBO:lta, joka sijoittuu yliopistomaailmaan. Pääosassa Steve Carell, ja sarja käsittelee isä-tytär-suhdetta, professorien kilvoittelua sekä Amerikan jakautuneisuutta.",
-        "google_linkki": "https://www.google.com/search?q=Roaster+HBO+tv-sarja",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Roaster+HBO",
+        "kuvaus": "Vepsun suosittelema HBO:n lempeä amerikkalainen komediasarja, joka sijoittuu yliopistolle. Pääosassa Steve Carell, ja sarjassa käsitellään isän ja tyttären suhdetta, professorien kilvoittelua ja Amerikan jakautuneisuutta.",
+        "google_linkki": "https://www.google.com/search?q=Rooster+HBO+Steve+Carell",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Rooster+Steve+Carell",
         "alkupera": "",
         "lisalinkit": []
       },
@@ -19259,6 +19259,38 @@
         "kuvaus": "Käpylässä sijaitseva stand up -klubi, jossa esiintyy Suomen eturivin koomikkoja harjoittelemassa uutta materiaalia. Pieni ja intiimi tila, jossa mm. Jukka Lindström on esiintynyt.",
         "google_linkki": "https://www.google.com/search?q=Naurava+Sohvi+stand+up+Käpylä+Helsinki",
         "lisatieto_linkki": "https://www.google.com/search?q=Naurava+Sohvi+stand+up+Käpylä+Helsinki",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
+        "teos": "Oululainen hampurilaispizza",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "ruoka",
+          "Oulu"
+        ],
+        "kuvaus": "Johnin puolitosissaan antama vinkki: oululainen hampurilaispizza, jonka päällä on ranskalaisia, kebabia, kanaa, salaattia ja kastikkeita. Kannattaa kokeilla kerran elämässä – ei useammin.",
+        "google_linkki": "https://www.google.com/search?q=hampurilaispizza+Oulu",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Läpikotaisin – Demi Mooren muistelmat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "Hollywood"
+        ],
+        "kuvaus": "Salla luki Demi Mooren muistelmat sekä Lena Dunhamin kirjan ja antaa niille puolittaisen antisuosituksen: jos haluaa kuulla Hollywood-juoruja ja päihteiden liikakäytöstä, ne kannattaa lukea – tai olla lukematta.",
+        "google_linkki": "https://www.google.com/search?q=Demi+Moore+L%C3%A4pikotaisin",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Demi+Moore+Inside+Out",
         "alkupera": "",
         "lisalinkit": []
       }
