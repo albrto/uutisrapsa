@@ -1237,6 +1237,16 @@ async function loadFullData() {
 // =====================================================
 // HELPERS (sama kuin aiemmin)
 // =====================================================
+// Sama hakunormalisointi kuin julkisella sivulla (app.js): tarkkeet, viivat ja
+// välimerkit eivät vaikuta hakuun; ä/ö/å säilyvät
+function hakuNormalisoi(teksti) {
+  return String(teksti || '').toLowerCase()
+    .replace(/[äöå]/g, m => ({ 'ä': '\u0001', 'ö': '\u0002', 'å': '\u0003' }[m]))
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/\u0001/g, 'ä').replace(/\u0002/g, 'ö').replace(/\u0003/g, 'å')
+    .replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+}
+
 function corrKey(jakso_id, r_idx) { return `${jakso_id}:${r_idx}`; }
 
 // Tallennetut mutta vielä soveltamattomat lisäykset (korjaukset.json, tyyppi "lisays")
@@ -1367,15 +1377,16 @@ function renderList() {
   let filtered = DATA.filter(jakso => {
     // 1. Search filtering ENSIN — näin haku löytää aina kaikki osuvat jaksot
     if (currentSearch) {
-      const hay = (
+      const hay = hakuNormalisoi(
         jakso.jakso_otsikko + ' ' +
         jakso.paivamaara + ' ' +
         (jakso.rss_osallistujat || []).join(' ') + ' ' +
         jakso.suositukset.map(r =>
           [r.suosittelija, r.teos, r.paakategoria, r.kuvaus].filter(Boolean).join(' ')
         ).join(' ')
-      ).toLowerCase();
-      if (!hay.includes(currentSearch)) return false;
+      );
+      // Jokaisen hakusanan pitää löytyä, järjestyksellä ei väliä
+      if (!hakuNormalisoi(currentSearch).split(' ').every(sana => hay.includes(sana))) return false;
     }
 
     // 2. View filtering

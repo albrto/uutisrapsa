@@ -97,8 +97,19 @@ function renderStats() {
   `;
 }
 
+// Hakunormalisointi: pienet kirjaimet, tarkkeet pois (á→a, mutta ä/ö/å säilyvät),
+// kaikki viivat ja välimerkit välilyönneiksi — "Velkajarru-laaja" löytää otsikon
+// "Velkajarru–laaja oppimäärä" ja "orbanin" otsikon "Orbánin …"
+function hakuNormalisoi(teksti) {
+  return String(teksti || '').toLowerCase()
+    .replace(/[äöå]/g, m => ({ 'ä': '\u0001', 'ö': '\u0002', 'å': '\u0003' }[m]))
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/\u0001/g, 'ä').replace(/\u0002/g, 'ö').replace(/\u0003/g, 'å')
+    .replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+}
+
 function applyFilters() {
-  const query = document.getElementById('searchInput').value.toLowerCase().trim();
+  const query = hakuNormalisoi(document.getElementById('searchInput').value);
   const categoryFilter = document.getElementById('categoryFilter').value;
   const recommenderFilter = document.getElementById('recommenderFilter').value;
   const yearFilter = document.getElementById('yearFilter').value;
@@ -125,16 +136,19 @@ function applyFilters() {
   
   // Text search
   if (query) {
+    // Jokaisen hakusanan pitää löytyä jostain kentästä, järjestyksellä ei väliä
+    const sanat = query.split(' ');
     filtered = filtered.filter(r => {
-      const searchable = [
+      const searchable = hakuNormalisoi([
         r.teos,
         r.kuvaus,
         r.suosittelija,
         r.paakategoria,
         r.jakso_otsikko,
+        r.paivamaara,
         ...(r.kategoriat || [])
-      ].join(' ').toLowerCase();
-      return searchable.includes(query);
+      ].join(' '));
+      return sanat.every(sana => searchable.includes(sana));
     });
   }
   
