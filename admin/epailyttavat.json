@@ -27736,6 +27736,91 @@
     ]
   },
   {
+    "j_idx": 486,
+    "jakso_id": "40a1d4c1-b8b0-47f4-843d-1d44b12c65a6",
+    "jakso_otsikko": "Tunkeutumiset poliitikoiden kotiin, kok. leik., Ruotsi, HumppilAI",
+    "paivamaara": "1.10.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/40a1d4c1-b8b0-47f4-843d-1d44b12c65a6.mp3",
+    "kesto_sek": 4984,
+    "kesto_str": "01:23:04",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski ja Marko Junkkari keskustelevat kansanedustajien kotiin epäilysti tehdyistä tunkeutumisista; kokoomuksen leikkauslistoista ja eläkesuunnitelmasta; Ruotsin hallitustunnustelujen jumista ja paikallisen somaliyhteisön päälle levitetystä vaalivilppiepäilystä, sekä Humppilan kunnanjohtajien potkuista ja korvaamisesta tekoälyllä.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kurtuluş (Salvation)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "turkkilainen elokuva",
+          "Rakkautta ja anarkiaa -festivaali"
+        ],
+        "kuvaus": "Salla suosittelee Rakkautta ja anarkiaa -festivaalilla nähtyä turkkilaista draamaelokuvaa kahden kylän maakiistasta ja siihen liittyvästä vainoharhaisuudesta ja mystiikasta.",
+        "google_linkki": "https://www.google.com/search?q=Kurtulus+Emin+Alper+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Kurtulus",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Money to Burn",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "talous",
+          "elämäkerta"
+        ],
+        "kuvaus": "Marko suosittelee William D. Cohanin kirjoittamaa tietokirjaa pääomasijoittajalegenda Leon Blackista, joka on hänen mukaansa yksityiskohtainen ja viihdyttävä luku vaikka päähenkilö ei muuten erityisesti kiinnostaisikaan.",
+        "google_linkki": "https://www.google.com/search?q=Money+to+Burn+William+D.+Cohan+Leon+Black",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Money+to+Burn+William+D.+Cohan",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Mikael Karvajalka",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "historiallinen romaani",
+          "äänikirja"
+        ],
+        "kuvaus": "Tuomas suosittelee lämpimästi Mika Waltarin klassikkoromaania äänikirjana, jonka Veikko Honkanen lukee erinomaisesti ja jota hän on kuunnellut kymmeniä kertoja uudelleen.",
+        "google_linkki": "https://www.google.com/search?q=Mikael+Karvajalka+Mika+Waltari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikael+Karvajalka",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Claude (tekoälyavustaja)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tekoäly",
+          "lukeminen",
+          "työkalu"
+        ],
+        "kuvaus": "Tuomas suosittelee käyttämään tekoälyavustaja Claudea lukukumppanina: hän keskustelee sen kanssa historiallisista taustoista, kuten Kalmarin unionista, lukiessaan Mikael Karvajalkaa, ja pitää sitä hienona apuna kirjojen rinnalla.",
+        "google_linkki": "https://www.google.com/search?q=Claude+AI",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": []
+      }
+    ]
+  },
+  {
     "j_idx": 210,
     "jakso_id": "tag:soundcloud,2010:tracks/1134345391",
     "jakso_otsikko": "1.10.2021: Saksan vaalit, poliisin määrärahat, Elokapina ja Ohisalo",
