@@ -1659,5 +1659,85 @@
         "Hollywood"
       ]
     }
+  },
+  {
+    "jakso_id": "3bb7d25e-e779-459f-8bb1-5dfc5a04c811",
+    "jakso_otsikko": "Aluevaalitilanne, koronapandemia 5v., Sallan KAJ-hiihtojuttu",
+    "paivamaara": "13.3.2025",
+    "r_idx": 0,
+    "teos": "Rikos ja rangaistus (Q-teatteri)",
+    "uusi_data": {
+      "teos": "Rikos ja rangaistus (Q-teatteri)",
+      "paakategoria": "kulttuuri",
+      "google_linkki": "https://www.google.com/search?q=Q-teatteri+Rikos+ja+rangaistus",
+      "lisatieto_linkki": "https://www.q-teatteri.fi/",
+      "kuvaus": "Q-teatterin näytelmä Dostojevskin romaanin pohjalta, siirrettynä kesäiseen Helsinkiin. Salla kehuu sitä filosofisesti syvälliseksi ja hienovaraisesti toteutetuksi – yhdeksi parhaista teatterikokemuksistaan.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "teatteri",
+        "filosofia",
+        "klassikko"
+      ]
+    }
+  },
+  {
+    "jakso_id": "4a506983-ed11-44f0-907d-250fe58c9b0c",
+    "jakso_otsikko": "Vuosikooste 2025: mitä jäi käteen?",
+    "paivamaara": "1.1.2026",
+    "r_idx": 0,
+    "teos": "Something from Nothing – Alison Roman",
+    "uusi_data": {
+      "teos": "Something from Nothing – Alison Roman",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Something+from+Nothing+Alison+Roman+keittokirja",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Something+from+Nothing+Alison+Roman",
+      "kuvaus": "Alison Romanin uusi keittokirja, jossa hyödynnetään ruokakomeron perusraaka-aineita, kuten säilykkeitä, öljyjä ja papuja. Sohvi on tehnyt siitä kymmenkunta reseptiä ja kehuu niitä helpoiksi mutta erinomaisiksi.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "keittokirja",
+        "ruoanlaitto",
+        "amerikkalainen keittiö"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "3bb7d25e-e779-459f-8bb1-5dfc5a04c811",
+    "jakso_otsikko": "Aluevaalitilanne, koronapandemia 5v., Sallan KAJ-hiihtojuttu",
+    "paivamaara": "13.3.2025",
+    "r_idx": 2,
+    "teos": "Salpausselän kisat – hiihtoa paikan päällä",
+    "uusi_data": {
+      "teos": "Salpausselän kisat – hiihtoa paikan päällä",
+      "paakategoria": "urheilu",
+      "google_linkki": "https://www.google.com/search?q=Salpausselän+kisat",
+      "lisatieto_linkki": "",
+      "kuvaus": "Veera kehottaa menemään katsomaan hiihtoa livenä Lahden Salpausselän kisoihin, kun Iivo Niskanen ja muut vielä hiihtävät. Hän seurasi koko Trondheimin MM-kisojen kansanjuhlan ja vakuuttaa, että paikan päällä se on sen arvoista.",
+      "suosittelija": "Veera Paananen",
+      "kategoriat": [
+        "hiihto",
+        "tapahtuma"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "4a506983-ed11-44f0-907d-250fe58c9b0c",
+    "jakso_otsikko": "Vuosikooste 2025: mitä jäi käteen?",
+    "paivamaara": "1.1.2026",
+    "r_idx": 4,
+    "teos": "Liikkuminen uudenvuodenlupauksena",
+    "uusi_data": {
+      "teos": "Liikkuminen uudenvuodenlupauksena",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Raskaan syksyn jälkeen Tuomas on aloittanut oman kuntoutusohjelmansa: painia pienen porukan kanssa, lenkkejä ja treenejä autotallin kuntosalilla.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "liikunta",
+        "uusivuosi"
+      ]
+    }
   }
 ]
