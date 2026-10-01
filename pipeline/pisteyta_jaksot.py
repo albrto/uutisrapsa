@@ -21,7 +21,9 @@ import feedparser
 PIPELINE_KANSIO = os.path.dirname(os.path.abspath(__file__))
 JUURI = os.path.dirname(PIPELINE_KANSIO)
 sys.path.insert(0, os.path.join(JUURI, "scripts"))
-from nimet import TUNNETUT_NIMET, ETUNIMI_KARTTA, poimi_osallistujat_rss, loytyy  # noqa: E402
+# Tiukka osallistujaparseri on nimet.py:ssä (tuotannon kanssa sama; tämä tiedosto
+# piti siitä aiemmin omaa, vanhentuvaa kopiota — poistettu 1.10.2026)
+from nimet import TUNNETUT_NIMET, poimi_osallistujat_tiukasti, loytyy  # noqa: E402
 
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
 SUOSITUKSET = os.path.join(JUURI, "suositukset.json")
@@ -52,58 +54,6 @@ def parsi_pvm(pvm):
         return datetime.strptime(pvm, "%d.%m.%Y")
     except (ValueError, TypeError):
         return None
-
-
-def poimi_osallistujat_tiukasti(kuvaus):
-    """Tiukempi kuin nimet.poimi_osallistujat_rss: katsoo vain lauseen alkua ennen
-    verbiä ("Tuomas, Marko ja Salla keskustelevat …"). Jaettu parseri lukee myös
-    verbin jälkeisen aihetekstin, jolloin esim. "ilman Tuomas Peltomäkeä" tai
-    "Teemu Luukan kirja" tulkitaan osallistujiksi → vääriä 'ei suositusta' -hälytyksiä.
-    Palauttaa (osallistujat, varma); varma=False kun rakennetta ei löytynyt ja
-    käytettiin jaettua parseria."""
-    teksti = re.sub(r'<[^>]+>', ' ', kuvaus or "")
-    # Lause rajataan vain [.!?]+välilyönti -kohdista: "HS:n" tai "P. Orpon" eivät katkaise
-    osuma = re.search(
-        r'((?:[^.!?]|[.!?](?!\s))*?)\s+(keskustelevat|keskustelee|juttelevat|juttelee|pohtivat|puhuvat)\b'
-        r'((?:[^.!?]|[.!?](?!\s))*)', teksti)
-    if not osuma:
-        return poimi_osallistujat_rss(kuvaus), False
-    osat = [(osuma.group(1), False)]
-    # "Salla keskustelee Hanna Mahlamäen ja Toni Lehtisen kanssa" → kanssa-osan nimet
-    # ovat osallistujia genetiivissäkin
-    kanssa = re.match(r'(.*?)\bkanssa\b', osuma.group(3))
-    if kanssa:
-        osat.append((kanssa.group(1), True))
-
-    osallistujat = set()
-    for osa, genetiivi_ok in osat:
-        for nimi in TUNNETUT_NIMET:
-            # Sananraja estää "Marko Junkkarin hiihtolomaillessa" → Marko Junkkari
-            if re.search(r'\b' + re.escape(nimi) + r'\b', osa, re.IGNORECASE):
-                osallistujat.add(nimi)
-        sanat = list(re.finditer(r'\b([A-ZÄÖÅ][a-zäöåé]+(?:-[A-ZÄÖÅ][a-zäöåé]+)?)\b', osa))
-        for i, m in enumerate(sanat):
-            etunimi = m.group(1).lower()
-            if etunimi not in ETUNIMI_KARTTA:
-                continue
-            tunnettu = ETUNIMI_KARTTA[etunimi]
-            seuraava = sanat[i + 1] if i + 1 < len(sanat) else None
-            if seuraava and osa[m.end():seuraava.start()].strip() == "":
-                # Etunimeä seuraa sukunimi → joko tunnettu koko nimi (käsitelty yllä),
-                # tunnetun nimen taivutusmuoto tai kokonaan eri henkilö (vieras)
-                sukunimi = seuraava.group(1)
-                tunnettu_suku = tunnettu.split()[-1]
-                if sukunimi == tunnettu_suku:
-                    continue
-                if sukunimi.startswith(tunnettu_suku[:-1]):
-                    if genetiivi_ok:
-                        osallistujat.add(tunnettu)
-                    continue
-                vieras = f"{m.group(1)} {sukunimi}"
-                osallistujat.add(next((n for n in TUNNETUT_NIMET if n.startswith(vieras[:-2])), vieras))
-            else:
-                osallistujat.add(tunnettu)
-    return sorted(osallistujat), bool(osallistujat)
 
 
 def transkriptin_nimi(jakso_id):

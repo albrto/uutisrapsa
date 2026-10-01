@@ -19,7 +19,8 @@ jaksot ohitetaan). Jono tulee pisteyta_jaksot.py:n tuloksesta.
 Käyttö:
   ./venv/bin/python3 tarkista_jaksot.py --kokeilu            # 20 kärkijaksoa + 10 satunnaista
   ./venv/bin/python3 tarkista_jaksot.py --maara 50           # 50 seuraavaa jonosta
-  ./venv/bin/python3 tarkista_jaksot.py --jaksot ID1,ID2     # tietyt jaksot
+  ./venv/bin/python3 tarkista_jaksot.py --jaksot "ID1 ID2"   # tietyt jaksot (välilyönti/rivinvaihto)
+  ./venv/bin/python3 tarkista_jaksot.py --jaksot-tiedosto lista.txt   # id:t tiedostosta, yksi per rivi
   ./venv/bin/python3 tarkista_jaksot.py --yhteenveto         # tulosta tulokset uudelleen
 """
 import argparse
@@ -238,7 +239,7 @@ def tarkista_jakso(client, jakso, rss_entry):
 def valitse_jono(args, pisteytys, rss_kartta, valmiit):
     kelvolliset = [p for p in pisteytys if p["jakso_id"] in rss_kartta and p["jakso_id"] not in valmiit]
     if args.jaksot:
-        halutut = args.jaksot.split(",")
+        halutut = args.jaksot
         return [p for p in pisteytys if p["jakso_id"] in halutut and p["jakso_id"] not in valmiit]
     if args.kokeilu:
         karki = kelvolliset[:20]
@@ -299,11 +300,20 @@ def main():
     parser = argparse.ArgumentParser(description="Vanhojen jaksojen uudelleentarkistus")
     parser.add_argument("--kokeilu", action="store_true", help="20 kärkijaksoa + 10 satunnaista")
     parser.add_argument("--maara", type=int, help="N seuraavaa jaksoa pisteytysjonosta")
-    parser.add_argument("--jaksot", help="pilkulla erotetut jakso-id:t")
+    # Ei pilkkua erottimena: vanhojen jaksojen id:issä on pilkku ("tag:soundcloud,2010:tracks/…")
+    parser.add_argument("--jaksot", help="välilyönnillä tai rivinvaihdolla erotetut jakso-id:t")
+    parser.add_argument("--jaksot-tiedosto", help="tiedosto, jossa jakso-id:t (yksi per rivi; muut sarakkeet ohitetaan)")
     parser.add_argument("--yhteenveto", action="store_true", help="tulosta vain aiemmat tulokset")
     parser.add_argument("--uudelleen", action="store_true",
                         help="aja --jaksot-jaksot uudelleen (korvaa aiemman tuloksen, esim. promptimuutoksen jälkeen)")
     args = parser.parse_args()
+    # --jaksot/--jaksot-tiedosto → lista; tiedostossa id on rivin viimeinen sarake
+    # (sallii esim. "23.7.2026  20d33d41-…"-muotoisen listan sellaisenaan)
+    if args.jaksot_tiedosto:
+        with open(args.jaksot_tiedosto, encoding="utf-8") as f:
+            args.jaksot = [r.split()[-1] for r in f if r.strip() and not r.lstrip().startswith("#")]
+    elif args.jaksot:
+        args.jaksot = args.jaksot.split()
 
     ehdotukset = lue_json(EHDOTUKSET, [])
     aiemmat_otokset = {e["jakso_id"]: e.get("otos", "-") for e in ehdotukset}
@@ -312,7 +322,7 @@ def main():
         # Päätökset (tarkistuspaatokset.json) säilyvät: niiden avain ei riipu ajokerrasta
         # Uudelleen ajettu jakso palaa entiselle paikalleen (näkymän järjestys säilyy)
         aiemmat_paikat = {e["jakso_id"]: i for i, e in enumerate(ehdotukset)}
-        ehdotukset = [e for e in ehdotukset if e["jakso_id"] not in args.jaksot.split(",")]
+        ehdotukset = [e for e in ehdotukset if e["jakso_id"] not in args.jaksot]
     if args.yhteenveto:
         tulosta_yhteenveto(ehdotukset)
         return
