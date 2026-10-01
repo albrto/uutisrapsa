@@ -14657,7 +14657,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
-        "suosittelija": "Oskari Eronen",
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Alarmy (herätyskello-sovellus)",
         "paakategoria": "muu",
         "kategoriat": [
