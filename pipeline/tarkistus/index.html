@@ -99,7 +99,7 @@
       <option value="avoimet">avoimet</option>
       <option value="kaikki">kaikki</option>
       <option value="paatetyt">päätetyt</option>
-      <option value="claude-epavarmat">Clauden epävarmat</option>
+      <option value="epavarmat">avoimet: Claude epävarma</option>
     </select>
   </label>
   <button class="nappi ensisijainen" id="vie">Vie hyväksytyt korjauksiin</button>
@@ -164,6 +164,13 @@ const MUOKATTAVAT = {
   ylimaarainen: [],
 };
 const NIMET = { teos: "Teos", suosittelija: "Suosittelija", kuvaus: "Kuvaus", paakategoria: "Pääkategoria" };
+const SUOSITUSNIMI = { hyvaksy: "hyväksy", hylkaa: "hylkää", poista: "poista sivulta" };
+
+// Ehdotuksen lähtöarvot: Clauden korjaamat arvot, jos Claude suosittelee hyväksymään
+function lahtoData(ero, avain) {
+  const a = (DATA.arviot || {})[avain];
+  return a && a.suositus === "hyvaksy" && a.data ? { ...oletusData(ero), ...a.data } : oletusData(ero);
+}
 
 function laskeTilanne() {
   let kaikki = 0, paatetty = 0, hyvaksyttyViematta = 0;
@@ -174,10 +181,11 @@ function laskeTilanne() {
     if (p && p.paatos === "hyvaksytty" && !p.viety) hyvaksyttyViematta++;
   }
   document.getElementById("edistyminen").textContent =
-    `${paatetty} / ${kaikki} päätetty · ${DATA.jaksot.length} jaksoa`;
+    `${paatetty} / ${kaikki} päätetty itse · ${kaikki - paatetty} odottaa sinua · ${DATA.jaksot.length} jaksoa`;
   document.getElementById("palkki").style.width = kaikki ? `${100 * paatetty / kaikki}%` : "0";
   const vie = document.getElementById("vie");
   vie.textContent = `Vie hyväksytyt korjauksiin (${hyvaksyttyViematta})`;
+
   vie.disabled = hyvaksyttyViematta === 0;
 }
 
@@ -189,9 +197,9 @@ function piirra() {
     const avoimia = j.erot.filter(e => !DATA.paatokset[e.avain]).length;
     if (suodatin === "avoimet" && avoimia === 0) continue;
     if (suodatin === "paatetyt" && avoimia === j.erot.length) continue;
-    if (suodatin === "claude-epavarmat" && !j.erot.some(e => {
-      const p = DATA.paatokset[e.avain];
-      return p && p.lahde === "claude" && p.varmuus !== "varma" && !p.viety;
+    if (suodatin === "epavarmat" && !j.erot.some(e => {
+      const a = (DATA.arviot || {})[e.avain];
+      return !DATA.paatokset[e.avain] && a && a.varmuus !== "varma";
     })) continue;
     osat.push(piirraJakso(j, avoimia));
   }
@@ -217,13 +225,14 @@ function piirraJakso(j, avoimia) {
     <div class="meta">Studiossa: ${osallistujat.length ? esc(osallistujat.join(", ")) : "ei tiedossa (RSS)"} · sivulla ${j.vanhat.length}, uusi poiminta ${j.uusia}</div>
     <details class="nykyiset"><summary>Sivulla nyt (${j.vanhat.length})</summary><ol start="0">${nykyiset || "<li>—</li>"}</ol></details>
     ${erot}
-    ${avoimia > 1 ? `<div class="toiminnot"><button class="nappi" data-toiminto="hyvaksy-kaikki" data-jakso="${esc(j.jakso_id)}">Hyväksy jakson kaikki avoimet (${avoimia})</button></div>` : ""}
   </section>`;
 }
 
 function piirraEro(j, e, i) {
   const p = DATA.paatokset[e.avain];
-  const data = (p && p.data) || oletusData(e);
+  const a = (DATA.arviot || {})[e.avain];
+  const data = (p && p.data) || lahtoData(e, e.avain);
+  const suosittelee = toiminto => a && !p && ({ hyvaksy: "hyvaksytty", hylkaa: "hylatty", poista: "poista" }[a.suositus] === toiminto);
   const idx = e.r_idx != null ? ` #${e.r_idx}` : "";
   let muutos = "";
   if (e.tyyppi === "suosittelija") muutos = `”${esc(e.teos)}”: <del>${esc(e.vanha)}</del> → <ins>${esc(e.uusi)}</ins>`;
@@ -253,11 +262,11 @@ function piirraEro(j, e, i) {
   else if (p) napit = `<span class="tila ${p.paatos}">${{ hyvaksytty: "✓ Hyväksytty", hylatty: "✕ Hylätty", poista: "Merkitty poistettavaksi" }[p.paatos]}</span>
       <button class="nappi" data-toiminto="peru" data-avain="${esc(e.avain)}">Peru</button>`;
   else if (e.tyyppi === "ylimaarainen") napit = `
-      <button class="nappi" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Pidä sivulla</button>
-      <button class="nappi hylkaa" data-toiminto="poista" data-avain="${esc(e.avain)}">Poista (kun poisto on toteutettu)</button>`;
+      <button class="nappi${suosittelee("hylatty") ? " ensisijainen" : ""}" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Pidä sivulla</button>
+      <button class="nappi hylkaa${suosittelee("poista") ? " ensisijainen" : ""}" data-toiminto="poista" data-avain="${esc(e.avain)}">Poista (kun poisto on toteutettu)</button>`;
   else napit = `
-      <button class="nappi ensisijainen" data-toiminto="hyvaksytty" data-avain="${esc(e.avain)}">Hyväksy</button>
-      <button class="nappi hylkaa" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Hylkää</button>`;
+      <button class="nappi${!a || suosittelee("hyvaksytty") ? " ensisijainen" : ""}" data-toiminto="hyvaksytty" data-avain="${esc(e.avain)}">Hyväksy</button>
+      <button class="nappi hylkaa${suosittelee("hylatty") ? " ensisijainen" : ""}" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Hylkää</button>`;
 
   return `
   <div class="ero ${p ? p.paatos : ""}" data-avain="${esc(e.avain)}" data-jakso="${esc(j.jakso_id)}" data-i="${i}">
@@ -265,8 +274,9 @@ function piirraEro(j, e, i) {
     <div class="muutos">${muutos}</div>
     ${e.peruste ? `<div class="peruste">Näyttö: ${esc(e.peruste)}</div>` : ""}
     ${huomiot.map(h => `<div class="huom">⚠️ ${esc(h)}</div>`).join("")}
-    ${p && p.lahde === "claude" ? `<div class="claude-arvio${p.varmuus === "varma" ? "" : " epavarma"}">
-      <strong>Clauden arvio${p.varmuus === "varma" ? "" : " (epävarma)"}:</strong> ${esc(p.perustelu || "")}</div>` : ""}
+    ${a && !p ? `<div class="claude-arvio${a.varmuus === "varma" ? "" : " epavarma"}">
+      <strong>Clauden suositus: ${SUOSITUSNIMI[a.suositus]}${a.varmuus === "varma" ? "" : " (epävarma)"}.</strong>
+      ${a.suositus === "hyvaksy" ? "Kentissä on Clauden korjaamat arvot. " : ""}${esc(a.perustelu || "")}</div>` : ""}
     ${kentat && !p ? `<div class="kentat">${kentat}</div>` : ""}
     ${p && p.paatos === "hyvaksytty" && p.data ? `<div class="kentat tallennettu">${
       MUOKATTAVAT[e.tyyppi].map(k => `<label>${NIMET[k]}</label><div>${esc(p.data[k])}</div>`).join("")
@@ -329,7 +339,8 @@ function etsiEro(jaksoId, i) {
 }
 
 function kerääData(eroEl, ero) {
-  const data = { ...oletusData(ero) };
+  // Pohjana Clauden korjaamat arvot (mm. linkit ja alkuperä, joille ei ole kenttää)
+  const data = { ...lahtoData(ero, eroEl.dataset.avain) };
   eroEl.querySelectorAll("[data-kentta]").forEach(k => { data[k.dataset.kentta] = k.value.trim(); });
   return data;
 }

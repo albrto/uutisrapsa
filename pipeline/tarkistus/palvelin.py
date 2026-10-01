@@ -22,6 +22,9 @@ PIPELINE = os.path.dirname(KANSIO)
 JUURI = os.path.dirname(PIPELINE)
 EHDOTUKSET = os.path.join(PIPELINE, "tarkistusehdotukset.json")
 PAATOKSET = os.path.join(PIPELINE, "tarkistuspaatokset.json")
+# Clauden (agenttien) arviot: vain SUOSITUKSIA ihmiselle, eivät päätöksiä — ihminen
+# hyväksyy tai hylkää jokaisen itse (käyttäjän toive 1.10.2026)
+ARVIOT = os.path.join(PIPELINE, "tarkistusarviot.json")
 SUOSITUKSET = os.path.join(JUURI, "suositukset.json")
 KORJAUKSET = os.path.join(JUURI, "admin", "korjaukset.json")
 TRANSKRIPTIT = os.path.join(JUURI, "transkriptit")
@@ -73,7 +76,7 @@ def kokoa_data():
             "erot": erot,
             "transkriptio": os.path.exists(transkriptin_polku(e["jakso_id"])),
         })
-    return {"jaksot": jaksot, "paatokset": lue(PAATOKSET, {})}
+    return {"jaksot": jaksot, "paatokset": lue(PAATOKSET, {}), "arviot": lue(ARVIOT, {})}
 
 
 def transkriptin_polku(jakso_id):
@@ -149,11 +152,16 @@ class Kasittelija(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=KANSIO, **kwargs)
 
+    def end_headers(self):
+        # Ei välimuistia millekään (myös index.html): Safari näytti muuten
+        # vanhaa sivuversiota palvelimen päivityksen jälkeen (1.10.2026)
+        self.send_header("Cache-Control", "no-store")
+        super().end_headers()
+
     def vastaa(self, data, koodi=200, tyyppi="application/json; charset=utf-8"):
         runko = data if isinstance(data, bytes) else json.dumps(data, ensure_ascii=False).encode()
         self.send_response(koodi)
         self.send_header("Content-Type", tyyppi)
-        self.send_header("Cache-Control", "no-store")
         self.end_headers()
         self.wfile.write(runko)
 

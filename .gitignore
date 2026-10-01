@@ -22,6 +22,7 @@ pipeline/validointidata/epailyttavat.json
 pipeline/validointidata/pisteytys.json
 pipeline/tarkistusehdotukset.json
 pipeline/tarkistuspaatokset.json
+pipeline/tarkistusarviot.json
 pipeline/tarkistuspaatokset.json.tmp
 pipeline/temp_tarkistus_*.mp3
 .claude/
