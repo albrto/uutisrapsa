@@ -1247,6 +1247,37 @@ function hakuNormalisoi(teksti) {
     .replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
 }
 
+// Sumea osuma: sana löytyy, jos jokin tekstin sana alkaa lähes samalla merkkijonolla
+// (1 kirjain eroa, ≥8-kirjaimisissa 2). Alun vertailu sallii taivutuspäätteet:
+// "ministerivaihdos" löytää "ministerinvaihdoksesta". Alle 4 merkin sanat tarkasti.
+function lahesSama(a, b, raja) {
+  if (Math.abs(a.length - b.length) > raja) return false;
+  let edellinen = Array.from({ length: b.length + 1 }, (_, j) => j);
+  for (let i = 1; i <= a.length; i++) {
+    const rivi = [i];
+    let pienin = i;
+    for (let j = 1; j <= b.length; j++) {
+      rivi[j] = Math.min(edellinen[j] + 1, rivi[j - 1] + 1, edellinen[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      pienin = Math.min(pienin, rivi[j]);
+    }
+    if (pienin > raja) return false;
+    edellinen = rivi;
+  }
+  return edellinen[b.length] <= raja;
+}
+
+function sanaLoytyy(sana, teksti, sanat) {
+  if (teksti.includes(sana)) return true;
+  if (sana.length < 4) return false;
+  const raja = sana.length >= 8 ? 2 : 1;
+  return sanat.some(t => {
+    for (let pituus = sana.length - raja; pituus <= sana.length + raja; pituus++) {
+      if (pituus > 0 && pituus <= t.length && lahesSama(sana, t.slice(0, pituus), raja)) return true;
+    }
+    return false;
+  });
+}
+
 function corrKey(jakso_id, r_idx) { return `${jakso_id}:${r_idx}`; }
 
 // Tallennetut mutta vielä soveltamattomat lisäykset (korjaukset.json, tyyppi "lisays")
@@ -1386,7 +1417,8 @@ function renderList() {
         ).join(' ')
       );
       // Jokaisen hakusanan pitää löytyä, järjestyksellä ei väliä
-      if (!hakuNormalisoi(currentSearch).split(' ').every(sana => hay.includes(sana))) return false;
+      const haySanat = [...new Set(hay.split(' '))];
+      if (!hakuNormalisoi(currentSearch).split(' ').every(sana => sanaLoytyy(sana, hay, haySanat))) return false;
     }
 
     // 2. View filtering
