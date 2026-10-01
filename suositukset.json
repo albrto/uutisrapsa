@@ -6740,11 +6740,23 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=One+Day+David+Nicholls+kirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls",
-        "kuvaus": "Kirja, johon Netflix-sarja One Day perustuu. Tuomas Peltomäki mainitsi kirjan suosituksen yhteydessä sarjan kanssa.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "David Nichollsin romaani, johon Netflix-sarja One Day perustuu. Anni mainitsi kirjan olevan yhtä hyvä kuin sarja.",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "romantiikka",
           "draama"
+        ]
+      },
+      {
+        "teos": "Kadonneet lapset (Anu Nousiainen, HS Kuukausiliite)",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Kadonneet+lapset+Anu+Nousiainen+Kuukausiliite",
+        "lisatieto_linkki": "",
+        "kuvaus": "Anu Nousiaisen Kuukausiliitteen juttu Ruotsin 'apaattisista lapsista', turvapaikanhakijaperheiden lapsista, jotka vaipuivat liikkumattomaan tilaan, ja lääkäreiden vastuusta ilmiössä. Sallan mukaan juttu herättää paljon kysymyksiä ja on takuuvarma kyynelkanavien herkistäjä.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "reportaasi",
+          "HS"
         ]
       }
     ]

@@ -18468,16 +18468,32 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "One Day",
         "paakategoria": "kirja",
         "kategoriat": [
           "romantiikka",
           "draama"
         ],
-        "kuvaus": "Kirja, johon Netflix-sarja One Day perustuu. Tuomas Peltomäki mainitsi kirjan suosituksen yhteydessä sarjan kanssa.",
+        "kuvaus": "David Nichollsin romaani, johon Netflix-sarja One Day perustuu. Anni mainitsi kirjan olevan yhtä hyvä kuin sarja.",
         "google_linkki": "https://www.google.com/search?q=One+Day+David+Nicholls+kirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kadonneet lapset (Anu Nousiainen, HS Kuukausiliite)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "reportaasi",
+          "HS"
+        ],
+        "kuvaus": "Anu Nousiaisen Kuukausiliitteen juttu Ruotsin 'apaattisista lapsista', turvapaikanhakijaperheiden lapsista, jotka vaipuivat liikkumattomaan tilaan, ja lääkäreiden vastuusta ilmiössä. Sallan mukaan juttu herättää paljon kysymyksiä ja on takuuvarma kyynelkanavien herkistäjä.",
+        "google_linkki": "https://www.google.com/search?q=Kadonneet+lapset+Anu+Nousiainen+Kuukausiliite",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": []
       }
