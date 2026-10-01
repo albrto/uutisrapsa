@@ -1563,5 +1563,23 @@
         "cozy"
       ]
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1901910282",
+    "jakso_otsikko": "22.8.2024: Ministerinvaihdos, marjaviulut, sähköpotkulaudat",
+    "paivamaara": "22.8.2024",
+    "r_idx": 4,
+    "teos": "Alarmy (herätyskello-sovellus)",
+    "uusi_data": {
+      "teos": "Alarmy (herätyskello-sovellus)",
+      "suosittelija": "Rasmus Helaniemi",
+      "kuvaus": "Androidille ja iOS:lle saatavilla oleva herätyskello-sovellus, jossa herätyksen saa sammutettua vain suorittamalla haasteen, kuten skannaamalla viivakoodin keittiöstä.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "sovellus",
+        "tuottavuus",
+        "arki"
+      ]
+    }
   }
 ]
