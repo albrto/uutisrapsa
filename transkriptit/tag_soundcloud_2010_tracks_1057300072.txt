@@ -8,15 +8,14 @@ Puhuja 1: En edes naura pilkallisesti.
 Puhuja 1: Noniin, kuulostaako. Siihen mennessä, kun Tuomas palaa lokakuussa, niin olet ehkä saanut
 Puhuja 1: sen.
 Puhuja 0: Tuomas on raportoinut, että
-Puhuja 0: hänen talonsa hän rakennetaan taloa siellä Hyvinkäällä, niin talosta on perustukset
+Puhuja 0: hänen talonsa... Hän rakennetaan taloa siellä Hyvinkäällä, niin talosta on perustukset
 Puhuja 0: jo valettu. Eikö se ole silloin melkein valmis? Se on aika hyvin. Sokkeli on tärkeä. Tule Tuomas pian takaisin.
 Puhuja 0: Täällä kanssani studiossa Helsingin Sanomien
 Puhuja 0: sanomat talon seitsemännen kerroksen studiossa.
 Puhuja 0: Tuomas jatkaina Helsingissä, Euroopassa maailmassa.
 Puhuja 0: Täällä on Tommi Nieminen Helsingin Sanomien sunnuntaitoimituksessa.
 Puhuja 2: Kiitos kutsusta. Terve Tommi. Tämä on pelkkä juhla. Täällä on jatkuvasti pari viikkoa sitten viimeksi. Kyllä, tämä alkaa olla jo ihan toinen koti.
-Puhuja 2: Ja
-Puhuja 2: toisella puolella
+Puhuja 0: Toisella puolella
 Puhuja 0: Maria Manner myöskin Helsingin Sanomien Sunnuntailiitteestä.
 Puhuja 0: Moi.
 Puhuja 0: Miten sulla menee?
@@ -35,194 +34,450 @@ Puhuja 1: Mutta Marko olet tosi hienoksi pukeutunut tänne.
 Puhuja 1: Mitä tapahtuu?
 Puhuja 0: Välillä täytyy yrittää.
 Puhuja 0: Olen itse asiassa
-Puhuja 0: joskus oppinut semmoisen, että
-Puhuja 1: mitä huonommin on vaikka Hannon keinoja puuttuu. Avikinkin oli antanut kuitenkin näille huomautuksia
-Puhuja 1: toistuvasti ymmärtämistä. Varoituksia.
-Puhuja 1: Anteeksi varoituksia ja se ei ollut johtanut mihinkään.
-Puhuja 1: Tarkoitan sitä, että osa jatkossa toimintaa kuitenkin sellaisena ehkä tietentahtoinkin siksi, että he halusivat näemme valittaa siitä oikeuteen. Mutta
-Puhuja 1: mietin noista ratkaisuista sitä, että onko meillä valvovalla viranomaisella
+Puhuja 0: joskus oppinut semmosen että niin kuin mitä huonommin on vaikka niin kuin perehtynyt
+Puhuja 0: johonkin haastattelun taustoihin niin sitä paremmin kannattaa pukeutua. Silloin saa anteeksi vähän sitä tietämättömyyttä.
+Puhuja 2: Mutta toissa viikollakin kun olin täällä sulla oli pikkutakki päällä
+Puhuja 2: pistin merkille.
+Puhuja 0: Ehkä voin jatkuvasti huonosti ehtinyt taas. Meillä on kolme aihetta kuten aina. Ensin puhutaan
+Puhuja 0: Valko-Venäjästä
+Puhuja 0: lentokoneiden
+Puhuja 0: pakottamisesta laskeutumaan
+Puhuja 0: Valko-Venäjän oppositiosta ja näin edespäin. Tästä Tommi Nieminen tietää aivan kaiken.
+Puhuja 0: Sen lisäksi puhutaan
+Puhuja 0: Sanna Marinin
+Puhuja 0: aamupaloista,
+Puhuja 0: joka on kansakuntaa
+Puhuja 0: kuohuttanut tällä viikolla
+Puhuja 0: ja viimeisenä
+Puhuja 0: aiheena on...
+Puhuja 0: Perintätoimistot.
+Puhuja 0: Toimivat vähän miten sattuu kuten
+Puhuja 0: viime sunnuntain Helsingin Sanomista saimme lukea.
+Puhuja 0: Sitäkin Tommi tietää kaiken Tommi Niemisen mainiosta jutusta.
+Puhuja 0: Ja loppuun sitten
+Puhuja 0: näitä suosituksia
+Puhuja 0: ystävien kanssa trinksujen ääressä
+Puhuja 1: ja
+Puhuja 1: näin
+Puhuja 0: edespäin.
+Puhuja 0: Mutta ehdotan, että kumminkin
+Puhuja 0: toinen, Sanna Marinin aamupalan lisäksi toinen kansakuntaa ei ole Twitter väkeä kohuttanut asiaa on
+Puhuja 0: se, että sanomat
+Puhuja 0: on
+Puhuja 0: valittanut
+Puhuja 0: Euroopan unioniin
+Puhuja 0: Yleisradiosta
+Puhuja 0: ja ennen kaikkea Yle Areenasta. Tämä perustuu siihen valtiontukisäädöksiin
+Puhuja 0: ja
+Puhuja 0: miten
+Puhuja 0: julkinen palvelu kilpailee yksityisten toimijoiden kanssa. Sanopa
+Puhuja 0: Tommi,
+Puhuja 0: miksi ihmeessä haluat lakkauttaa Yle Areenan?
+Puhuja 2: Niin joo se on hyvä kysymys
+Puhuja 2: että tota sehän on
+Puhuja 2: tämmöinen
+Puhuja 2: verovaroin
+Puhuja 2: tuettu pimeiden voimien tuutti joka ehkäisee kaiken kilpailun
+Puhuja 2: ja muun.
+Puhuja 2: Kaikkihan me tietenkin rakastetaan Yle Areenaa ihan aidosti
+Puhuja 2: ja se
+Puhuja 2: on todella
+Puhuja 2: siis huikea
+Puhuja 2: aarrearkku
+Puhuja 2: kaikille suomalaisille
+Puhuja 2: ja sen rakentamiseen on käytetty varmaan mahtavia
+Puhuja 2: voimia. Kyllä
+Puhuja 2: mä luulen, että aika voimakas
+Puhuja 2: tuki Yle Areenalle noin kokonaisuutena
+Puhuja 2: löytyy
+Puhuja 2: Hesarin sisältäkin, että se on isompi kysymys, mikä on
+Puhuja 2: tavallaan se sanomien konserni ja
+Puhuja 2: Ylen välinen vääntö
+Puhuja 2: ikään kuin EU:n kautta.
+Puhuja 0: Niin ja vielä tarkennuksena, että ilmeisesti
+Puhuja 0: näiden lehtitietojen mukaan sanoma kanteli
+Puhuja 0: EU:lle
+Puhuja 0: tästä Yle Areenasta ja toinen kokonaisuus oli nää Ylen tuottamat oppimateriaalit.
+Puhuja 1: Mä tahtoisin nähdä sen kantelun, koska mulle ei ainakaan eilen mediatietojen
+Puhuja 1: pohjalta ihan selvinnyt, että mitä sanoma tarkkaan ottaen tavallaan, tai miltä se Yle Areena näyttäisi sen jälkeen.
+Puhuja 1: Mä mietin kyllä myös sitä, että onko sanoma Media Finland oikeasti ymmärtänyt, että
+Puhuja 1: mitä ne tekevät. [Sirkku
+Puhuja 0: ja
+Puhuja 0: muuta ihaninnoivat ohjeet
+Puhuja 1: itselleen, jonka jälkeen ne on musta jatkuvasti niin kuin juntturassa tämän julkisuuslain tulkintaa kanssa. Mä ihmettelen sitä. Mulla on ihan sama fiilis. Ne on koko ajan salaa jotain papereita tai tässä tapauksessa salattuja laskuja ja mieleen. Ne on jotenkin ihan toistuvaa ja tuntuu siltä, että ne tavallaan no, en tiedä mistä se on siellä lähtöisin.
+Puhuja 0: Luulen, että tässä on kyse siitä
+Puhuja 0: ne kauppakuitit, nehän on jotenkin koodattu silleen, että niitä ei näe sieltä.
+Puhuja 0: Niitä ei näe noin vain. Turvallisuuskysymys
+Puhuja 0: ei haluta kertoa,
+Puhuja 0: että
+Puhuja 0: siellä
+Puhuja 0: valtioneuvoston kansliassa on aiheuttanut se, että kellekään ei ole tullut mieleenkään,
+Puhuja 0: että joku nostaisi mekalla näistä aamupaloista. Tämä tuli täysin yllättäen.
+Puhuja 0: He eivät ole saaneet
+Puhuja 0: selittää, että tämä on vaan asia, näin on vaan aina toimittajia ja kukaan ei ole sitä miettinyt. Mutta sen takia se on mahtavaa, että meillä on Jarno Liski, joka
+Puhuja 1: pitää viänkoa varpaillaan. Kyllä me tällaisia kun miettii, tietysti
+Puhuja 1: jotain väliä,
+Puhuja 1: niin kuin sanoit kyse periaatteesta, mutta silti mä ajattelin myös sitä,
+Puhuja 1: että mikä siinä on ollut motiivina tai tarkoituksena, että onko yritettykin prototella jotain
+Puhuja 1: ylimääräisiä etuja, jotka eivät kuulu itselle tai muille vai onko vaan menty sen mukaan mitä on ajateltu, että tämä on
+Puhuja 0: jotenkin ollut? Luulen, että se perustelu
+Puhuja 0: kyllä valtioneuvoston
+Puhuja 0: kanslian tehtävänä on se, että mahdollistaa ja varmistaa, että pääministeri pystyy hoitamaan työnsä. Minusta se on ihan kiva että meidän pääministeri saa aamupalaa.
+Puhuja 0: Ei
+Puhuja 1: ole hyvä hoitaa tehtäviä nälkäisiin. Ei. Kyllä se heidän...
+Puhuja 0: Itse asiassa totta kai siellä pitää olla se aamupala, mutta
+Puhuja 0: Kyllä siis pääministeri,
+Puhuja 0: joka on Suomen kiireisin ihminen ja suurimmissa paineessa ja varsinkin jos hänellä on vielä pieni lapsi
+Puhuja 2: ja perhe ja koittaa yhdistää nämä kaikki keskellä pandemiaa niin on ihan kivaa että hänen elämäänsä on kaikki mahdollisin keinoin kun arkea yritetään helpottaa. Ehdottomasti näin mutta kyllähän ylipäätään vielä tämä keissi on mun mielestä hyvä muistutus kaikille. Myös meille toimittajille, mutta poliitikoille, virkamiehille,
+Puhuja 2: liike-elämän
+Puhuja 2: edustajille.
+Puhuja 2: Siitä kannattaa olla aika tarkkana siis ihan nyt ottamatta
+Puhuja 2: kantaa enää tähän
+Puhuja 2: tähän kyseiseen Marinin
+Puhuja 2: perheen aamiaiseen vaan ylipäätään laajemmin niin kannattaa olla tarkkana siitä mitä tarjotaan.
+Puhuja 2: Mikä on sen arvo ikään
+Puhuja 2: kuin
+Puhuja 2: vastalahjan tai jonkun ja mitä sinulta odotetaan sen jälkeen kun sinulle on jotain
+Puhuja 2: annettu.
+Puhuja 2: Nämä on tosi
+Puhuja 2: isoja asioita tämmöisessä
+Puhuja 2: avoimessa demokratiassa.
+Puhuja 0: Kauniisti sanottu. Mennään eteenpäin
+Puhuja 0: nyt siirrytään
+Puhuja 0: puhumaan
+Puhuja 0: perintötoimistoista
+Puhuja 0: Tommin
+Puhuja 0: loistavassa jutussa viime sunnuntaina
+Puhuja 0: tavallaan avattiin
+Puhuja 0: ylipäätään
+Puhuja 0: perintötoimistojen toimintaa ja huomio kiinnittyy siihen, että niitä on
+Puhuja 0: kahta sorttia. Niitä on kolme sorttia. Niitä on oikein toimivia ja väärin toimivia ja osa menee siinä välissä.
+Puhuja 0: Alaa
+Puhuja 0: säädellään, on ohjeistuksia ja avin pitäisi valvoa, mutta avi on aikalailla hampaaton kun perintätoimistot
+Puhuja 0: tavallaan tekee mitä Pystään
+Puhuja 0: ja saavat huomautuksen ja sitten jatkavat toimintaa joko
+Puhuja 0: entisen yhtiön kanssa tai uuden yhtiön kanssa. Mutta kerro Tommi ja lähinnä nyt kysymyksenä on se, että niin kuin millaista tähän asiaan saadaan jotain tolkkua?
+Puhuja 2: Niin siis
+Puhuja 2: perintäala on silleen aika niin kun
+Puhuja 2: se on
+Puhuja 2: monella tavalla kriittinen ala koska
+Puhuja 2: perintäyhtiöiden
+Puhuja 2: asiakaskunta
+Puhuja 2: tai tavallaan
+Puhuja 2: se porukka,
+Puhuja 2: joita asia koskee eniten ovat
+Puhuja 2: ylivelkaantuneet
+Puhuja 2: ihmiset joille näitä perintä laskuja alkaa kerääntyä aika paljon ja heitä on itseasiassa
+Puhuja 2: Suomessa
+Puhuja 0: valtava määrä tällä hetkellä noin neljäsataa nolla suomalaista on ollut. Onko se tarkennuksena nimenomaan, oletko lukenut sun jutun niin perintötoimiston asiakas on se periä.
+Puhuja 0: Joo. Se pieni velkainen palo on kohde. Kyllä juuri näin. Virallinen
+Puhuja 2: asiakassuhde on
+Puhuja 2: alkuperäisen velkojan eli vaikkapa jonkun kaupan
+Puhuja 2: ja asiakkaan
+Puhuja 2: eli
+Puhuja 2: velallisen välillä
+Puhuja 2: ja perintätoimisto on sitten
+Puhuja 2: tavallaan vaan ulkopuolinen
+Puhuja 2: välittäjätaho
+Puhuja 2: siinä. Mutta tämä on sitten taas hirveän monimutkainen case
+Puhuja 2: josta riidellään alan sisällä,
+Puhuja 2: Tämä on herkkä ala, että nämä ihmiset jotka joutuvat perinnän kohteeksi
+Puhuja 2: toistuvasti ja puhutaan
+Puhuja 2: tuhansista
+Puhuja 2: euroista niin he ovat ylivelkaantuneita
+Puhuja 2: ihmisiä jotka ovat jo valmiiksi
+Puhuja 2: usein heikoilla taloudellisesti
+Puhuja 2: ja
+Puhuja 2: siellä saattaa olla myös vakavia sairauksia ja saattaa olla vanhuuden heikkoutta
+Puhuja 2: ja mielenterveysongelmia
+Puhuja 2: ja muuta
+Puhuja 2: ja puhutaan siis sadoista ja sadoista tuhansista suomalaisista.
+Puhuja 2: Silloin
+Puhuja 2: tietenkin perintöalalta
+Puhuja 2: pitää
+Puhuja 2: vaatia
+Puhuja 2: ja myös pitää lainsäädännössä
+Puhuja 2: ja valvonnassa vaatia
+Puhuja 2: aivan erityistä tarkkuutta
+Puhuja 2: ja rehellisyyttä ja oikeudenmukaisuutta
+Puhuja 2: koska muuten me ajetaan satoja tuhansia
+Puhuja 2: suomalaisia ihan
+Puhuja 2: lopullisesti hautaan käytännössä.
+Puhuja 2: Perintäalassa on nyt se ongelma, että siellä on sekä isot toimijat tällaiset Suomen suurimmat perintöyhtiöt
+Puhuja 2: Intrumit,
+Puhuja 2: lovellit ja OK-perinnät ja muut
+Puhuja 2: niin
+Puhuja 2: ne rikkovat toistuvasti
+Puhuja 2: lakia ja perintätapaa
+Puhuja 2: ja sitten
+Puhuja 2: alalla on myös tällaisia niin
+Puhuja 2: kuin
+Puhuja 2: ihan pieniä hämäriä puljuja
+Puhuja 2: joilla ei ole edes perintälupaa
+Puhuja 2: ja ne ihan härskisti
+Puhuja 2: lähettelevät ihmisille perintäkirjeitä
+Puhuja 2: ja
+Puhuja 2: suorittaa perintää
+Puhuja 2: vaikka niille ei olisi edes
+Puhuja 2: oikeutta siihen.
+Puhuja 2: Ongelma on oikeastaan se, että meidän valvontajärjestelmä
+Puhuja 2: on tällä hetkellä sellainen,
+Puhuja 2: että jos yksi valvontaviranomainen
+Puhuja 2: kuin vaikkapa Etelä-Suomen
+Puhuja 2: aluehallintovirasto
+Puhuja 2: kieltää
+Puhuja 2: perintöfirma
+Puhuja 2: X:n
+Puhuja 2: sen toimimisen kokonaan, ilmoittaa, että ette saa enää suorittaa perintöä koska te rikotte jatkuvasti
+Puhuja 2: lakia. Ei se mitään, se sama firma
+Puhuja 2: sanoo että unohdetaan
+Puhuja 2: toi eli tämmöinen niin sanottu vapaaehtoinen perintö. Jatketaan sitten niin sanottua oikeudellista perintöä eli sitten se sama firma joka on jo kielletty voi jatkaa perintöä käräjäoikeuksien
+Puhuja 2: kautta
+Puhuja 2: ja ne pystyy tavallaan tällaista niin kuin
+Puhuja 2: sirkusta tekemään vuosikausia
+Puhuja 0: eikä niitä saada kiinni. Kyllä ja onko se vielä
+Puhuja 0: Marjo Marjo kommentoimaan asiaa,
+Puhuja 0: mutta onko se suurin yksittäinen asia, mikä tässä
+Puhuja 0: tavallaan on
+Puhuja 0: ongelmallista, onko se ne kulut? Jos sulla on viidenkympin
+Puhuja 0: velka, niin voit joutua maksamaan sitä niin kuin vaikka kuinka paljon kuluja peritatoimisto on ollut tuplasti alkuperäisen
+Puhuja 0: pääoman määrän. Onko se suurin yksittäinen ongelma?
+Puhuja 2: Ylsuuret kulut on varmaan suurin yksittäinen
+Puhuja 2: ongelma, mutta siinä on paljon muitakin ongelmia. Siinä on esimerkiksi vanhentuneiden
+Puhuja 2: velkojen
+Puhuja 2: periminen, joita ei enää lain mukaan saa periä.
+Puhuja 2: Siinä on
+Puhuja 2: sellaisia monimutkaisia, että kuinka paljon se velallinen
+Puhuja 2: voi tietää
+Puhuja 2: siitä, että mistä tämä velka alkuperäinen on edes peräisin. Perintäyhtiöt
+Puhuja 2: joskus hämärtää
+Puhuja 2: todella pitkälti sitä, että mistä velasta on edes kyse ja
+Puhuja 2: velallisen on vaikea saada selville.
+Puhuja 2: Hän saa vaan tavallaan selvityksen,
+Puhuja 2: että nyt sinua odottaa perintöfirmalta
+Puhuja 2: kahdeksansataa euron lasku
+Puhuja 2: ja sitten siinä saattaa olla erittely, että alkuperäinen summa on tuon verran ja perimiskulut on tän verran ja korot on tän verran.
+Puhuja 2: Mutta sulle saattaa jäädä täysin epäselväksi että mitä olet aikoinaan ostanut vaikka viisisataa
+Puhuja 2: eurolla josta sua nyt
+Puhuja 2: rokotetaan kahdeksansataa euroa.
+Puhuja 0: Mitä Marja tuumaat? Pääset kohta toimeen vielä kertomaan mitä tässä asialle tapahtuu koska olet saanut ymmärtääkseni valtavasti palautetta. Mitä Marja ajattelet?
+Puhuja 1: Itsehän tunne asia huonosti mutta
+Puhuja 1: se on niin, että aluehallintovirastot
+Puhuja 1: valvovat näitä.
+Puhuja 2: Kysymyksiä? Joo, Etelä-Suomen AFI
+Puhuja 2: valvoo
+Puhuja 1: koko maassa. Mietin tietenkin tätä lukiessa sitä, mikä fiilis on tullut
+Puhuja 1: jostain muistakin jutuista,
+Puhuja 1: missä näkyy se, että AFI on aika hampaattomia puuttumaan välillä
+Puhuja 1: ongelmiin ja se on näkynyt näissä
+Puhuja 1: työsuojeluasioissa ja työvoiman hyväksikäytössä. Meillä on ollut näitä paavuteittisen juttuja,
+Puhuja 1: siis työvoiman hyväksikäytöstä
+Puhuja 1: eri alueilla laiminlyönneistä.
+Puhuja 1: Rikosasioissa
+Puhuja 1: poliisilla on konstit ja keinot, on siis tällainen valvova viranomainen,
+Puhuja 1: niin sillä ei ole kunnon
+Puhuja 1: keinoja puhuttu. Avitkin oli antanut kuitenkin näille huomautuksia
+Puhuja 1: toistuvasti
+Puhuja 1: ymmärtää. Varoituksia,
+Puhuja 1: ja se ei ollut johtanut mihinkään.
+Puhuja 1: Tai
+Puhuja 1: siis mihin tarkoitan sitä, että osa jatkossa toimintaa kuitenkin
+Puhuja 1: sellaisena ehkä tietentahtoenkin siksi, että he halusivat nähdä valittaa oikeuteen.
+Puhuja 1: Mutta mä mietin noista ratkaisuista sitä, että onko meillä valvovalla viranomaisella
 Puhuja 1: riittävät toimivaltuudet vai pitäisikö niillä olla
 Puhuja 1: mahdollisuus määrätä vaikka kovempia uhkasakkoja tai sakkoja tai
-Puhuja 1: jotain kaltaista? Kun tuntuu, että tämä ongelma toistuu niin monella alueella. Avillahan on siis tosi isot valtuudet olemassa.
+Puhuja 1: jotain kaltaista kun tuntuu, että tämä ongelma toistuu niin monella alueella? Avillahan on siis tosi isot valtuudet
+Puhuja 2: olemassa.
 Puhuja 2: Avihan voi
-Puhuja 2: määrätä
-Puhuja 2: perintäyhtiön
-Puhuja 2: joko
-Puhuja 2: määräaikaiseen kuuden kuukauden
+Puhuja 2: määrätä perintäyhtiön joko määräaikaiseen
+Puhuja 2: kuuden kuukauden
 Puhuja 2: perintäkieltoon
-Puhuja 2: tai kokonaan. Ilmoitta, että ette enää kerta kaikkiaan
-Puhuja 2: tee tätä
-Puhuja 2: bisnestä koska terikoitte toistuvasti lakia,
-Puhuja 2: mutta AVI ei käytä
-Puhuja 2: sitä
-Puhuja 2: valtaa kuin silloin
-Puhuja 2: kun
-Puhuja 2: firma toimii kokonaan ilman lupia
-Puhuja 2: niin kuin viime
-Puhuja 2: vuonna viideltä
-Puhuja 2: täysin luvattomalta
+Puhuja 2: tai kokonaan,
+Puhuja 2: ilmoittaa, että ette enää kerta kaikkiaan tee
+Puhuja 2: tätä bisnestä koska terikoitta toistuvasti
+Puhuja 2: lakia, mutta AVI ei käytä
+Puhuja 2: sitä valtaa kuin silloin,
+Puhuja 2: kun firma toimii kokonaan ilman lupia.
+Puhuja 2: Niin kuin viime vuonna
+Puhuja 2: viideltä tällaiselta täysin
+Puhuja 2: luvattomalta
 Puhuja 2: onnisarmastetyyppiseltä
-Puhuja 2: periältä tai perintöä tekevältä hahmolta vietiin luvat koko ajan. Kyllä
-Puhuja 0: mä symppaan
-Puhuja 0: suomalaisia virkamiehiä.
-Puhuja 0: Pystyn myös mielessäni ymmärtämään sen, että jos olet sen
+Puhuja 2: periältä
+Puhuja 2: tai perintöä tekevältä hahmolta vietiin luvat koko ajan. Kyllä jotenkin...
+Puhuja 0: Sympaan suomalaisia virkamiehiä mutta pystyn myös jotenkin mielessäni ymmärtämään sen että jos olet sen
 Puhuja 0: Etelä-Suomen Avin
-Puhuja 0: virkamies ja sulla on vähän epäselvä keissi. Se ei
-Puhuja 0: selvästi näytä,
-Puhuja 0: että toimitaan
-Puhuja 0: absoluuttinen väärin, vaan siinä on harmaan sävyjä ja
-Puhuja 0: näin. Ja sitten kun mietit, että tässä olisi tavallaan kaikki perusteet
-Puhuja 0: kieltää tämän perintötoimiston toiminta tai antaa huomautus. Mutta tiedät, että
-Puhuja 0: on iso firma ja tiedät, että kielletsivät tulee helvetinmoinen
-Puhuja 0: haloo ja mennään oikeuteen tai mihin mennäänkään. Mutta siis, että helpommalla pääsee virkamies, kun se antaa vain sen huomautuksen.
-Puhuja 0: Ensi kerralla toimitaan, mutta ensi kertaa ei välttämättä vaan koskaan tule. Se tulee näiden huomautusten kierre. Jos kerrot, että joku firma voi saada kuinka monta peräkkäistä huomautusta.
-Puhuja 2: Joo, se on juuri näin ja
-Puhuja 2: jollain lovellilla tai indumilla tai OK-perinnällä
-Puhuja 2: Niillä
-Puhuja 2: saattaa olla
-Puhuja 2: neljäsataa viisisataa työntekijää
-Puhuja 2: Suomessa, niiden liikevaihtoa sata
-Puhuja 2: miljoonaa. Ne on
-Puhuja 2: todella isoja firmoja.
-Puhuja 2: Siinä pistetään
-Puhuja 2: yksittäinen virkamies
-Puhuja 2: ihan rehellisesti sanottuna liian kovaan paikkaan
+Puhuja 0: virkamies. Sinulla on vähän epäselvä keissi, joka ei nyt ihan selvästi näytä, että toimitaan absoluuttisen
+Puhuja 0: väärin, vaan siinä on harmaan sävyjä ja näin.
+Puhuja 0: Ja kun mietit, että tässä olisi tavallaan kaikki perusteet
+Puhuja 0: kieltää tämän perintötoimiston toiminta tai antaa huomautus. Tiedät, että
+Puhuja 0: on iso firma
+Puhuja 0: ja tiedät, että se kiellet. Se tulee helvetimo
+Puhuja 0: ja mennään oikeuteen tai mihin mennäänkään. Mutta siis
+Puhuja 0: helpoimalla virkamies pääsee, kun se antaa vain sen huomautuksen. Ja ajattelen että ensi kerralla toimitaan mutta ensi kertaa ei välttämättä vaan koskaan tule
+Puhuja 0: huomautusten kierre. Sanoit että joku firma voi saada kuinka monta peräkkäistä huomautusta.
+Puhuja 2: Joo se on just näin.
+Puhuja 2: Jollain lovellilla tai intermilla tai ok perinnällä
+Puhuja 2: niillä saattaa olla neljäsataa
+Puhuja 2: viisisataa työntekijää Suomessa.
+Puhuja 2: Niiden liikevaihto on sata miljoonaa.
+Puhuja 2: Ne on todella isoja firmoja. Siinä
+Puhuja 2: pistetään yksittäinen virkamies niin kuin ihan rehellisesti sanottuna liian kovaan paikkaan
 Puhuja 2: että
-Puhuja 2: hänen vastuun ja tehtävänsä
+Puhuja 2: hänen
+Puhuja 2: vastuun ja tehtävänsä
 Puhuja 2: olisi
-Puhuja 2: Nämä on kuitenkin
+Puhuja 2: ja nämä on kuitenkin
 Puhuja 2: keskitason rivimiehiä.
-Puhuja 2: Virkamiehiä eivät mistään
-Puhuja 2: minkään viraston huipulta vaan kyllä siinä tämmöinen
+Puhuja 2: Virkamiehiä
+Puhuja 2: eivät minkään
+Puhuja 2: viraston huipulta vaan kyllä siinä
 Puhuja 2: keskiportaan
-Puhuja 2: virkamies pistetään liian kovaan tehtävään.
-Puhuja 2: Toinen on sitten, että nyt tavallaan mun mielestä pitää katsoa
-Puhuja 2: sanomatalon naapuriin
-Puhuja 2: eduskuntataloon. Siellähän ne lait säädetään
+Puhuja 2: virkamies pistetään liian kovaan tiuh tehtävään.
+Puhuja 2: Mutta toinen on sitten että nyt tavallaan
+Puhuja 2: pitää katsoa sanomatalon
+Puhuja 2: naapuriin
+Puhuja 2: eduskuntataloon.
+Puhuja 2: Siellähän ne lait säädetään
 Puhuja 2: ja siellähän se valvontakoneisto
-Puhuja 2: määritellään
-Puhuja 2: että millä tavalla meidän valtio on Minkälaista palautetta nyt on? Oletko saanut poliitikoita palautetta?
-Puhuja 2: On
-Puhuja 2: tullut
-Puhuja 2: poliitikoilta palautetta, on tullut useammilta kansanedustajilta
+Puhuja 2: määritellään että millä tavalla meidän valtio on... Minkälaista
+Puhuja 0: palautetta nyt on? Oletko saanut poliitikoilta palautetta?
+Puhuja 2: On tullut poliitikoilta palautetta, on tullut useammilta kansanedustajilta
 Puhuja 2: palautetta
-Puhuja 2: ja toki sitten niin kun
-Puhuja 2: jutussahan
-Puhuja 2: esiintyi
-Puhuja 2: Keskustan kansanedustaja Hanna-Kaisa
-Puhuja 2: Heikkinen hän
-Puhuja 2: esiintyi jutussa sekä
+Puhuja 0: Toki sitten
+Puhuja 2: jutussahan esiintyi...
+Puhuja 2: Keskustan kansanedustaja Hanna-Kaisa Heikkinen
+Puhuja 2: esiintyi jutussa
+Puhuja 2: sekä
 Puhuja 2: perintäyhtiön
 Puhuja 2: väärien toimenpiteiden
-Puhuja 2: kohteeksi joutuneena
-Puhuja 2: yrittäjänä että
+Puhuja 2: kohteeksi
+Puhuja 2: joutuneena
+Puhuja 2: yrittäjänä,
+Puhuja 2: että
 Puhuja 2: kansanedustajana, joka
 Puhuja 2: aikoo tehdä lakiesityksen
+Puhuja 2: nyt
 Puhuja 2: lakialoitteen
-Puhuja 2: tähän valvontaan nimenomaan liittyen. Valvontaa pitää kiristää.
-Puhuja 0: Toivotaan että asiaan saadaan joku järjestö. Kyllä nyt sinänsä lainsäätäjällä on keinoja ja kyllähän
-Puhuja 0: ei tästä montaa vuotta ole kun kohkattiin näistä
+Puhuja 2: tähän
+Puhuja 2: valvontaan nimenomaan liittyen. Valvontaa pitää kiristää.
+Puhuja 0: Toivotaan,
+Puhuja 0: että asiaa saadaan joku järjestys. Kyllä nyt sinänsä
+Puhuja 0: lainsäätäjällä on keinoja ja kyllähän ei tästä montaa vuotta ole kun kohkattiin näistä
 Puhuja 0: pikavippi
-Puhuja 0: firmojen niinku satojen prosenttia vuosikoroista. Nehän on saatu
-Puhuja 2: pääsääntöisesti kuin Riina. Kaksituhatta kolmetoista saatiin niinku pikavippi
+Puhuja 0: firmojen niinku satojen prosenttia vuosikoroista.
+Puhuja 0: Nehän on saatu
+Puhuja 2: pääsääntöisesti kuriin. Kaksituhatta kolmetoista saatiin niinku pikavippi
 Puhuja 2: korkokatot
 Puhuja 2: ja se vähän rauhoitti tilannetta.
-Puhuja 0: No niin, mitäs Tommi ja Maria? Kun tulee viikonloppu, toivottavasti
-Puhuja 0: on todella kaunis sää. Voi
-Puhuja 0: lähteä jonnekin. Kevät
+Puhuja 0: No niin, mitäs Tommi ja Marja? Kun tulee viikonloppu, toivottavasti
+Puhuja 0: on todella kaunis sää.
+Puhuja 0: Voi lähteä
+Puhuja 0: jonnekin. Kevät
 Puhuja 0: on parhaimmillaan. Lähtee jonnekin
 Puhuja 0: ruohokentälle
 Puhuja 0: kierimään
-Puhuja 0: ruohikossa ystävien kanssa ja juomaan
-Puhuja 0: niitä
+Puhuja 0: ruohikossa ystävien kanssa
+Puhuja 0: ja juomaan
 Puhuja 0: kuohuviiniä.
-Puhuja 0: Ja välissä voi kertoa kavereille juttuja. Milläs Maria?
-Puhuja 1: Ruohokentällä ajattelin, että voisi katsoa Yle Areenassa on semmoinen tosi kiinnostava
-Puhuja 0: elokuva. Se kannattaa katsoa nopeasti ennen kuin Tommi
-Puhuja 1: joka
-Puhuja 1: kertoo lastensuojelujärjestelmästä ja vaikuttaa ihan hullun kiinnostavalta. En ehtinyt vielä katsoa sitä, mutta se on ollut minulla tuossa listalla.
+Puhuja 0: Ja välissä voi kertoa kavereille juttuja.
+Puhuja 0: Milläs Maria?
+Puhuja 1: Ruohokentällä ajattelin, että voisi katsoa... Yle Areenassa on tosi
+Puhuja 1: kiinnostava
+Puhuja 1: elokuva, jota
+Puhuja 1: Mutta siis systeeminen
+Puhuja 1: murskaaja, joka kertoo
+Puhuja 1: lastensuojelujärjestelmästä ja vaikuttaa ihan hullun kiinnostavalta. En ehtinyt vielä katsoa sitä, mutta se on ollut minulla tuossa listalla.
 Puhuja 1: Suosittelen sitä
 Puhuja 1: ja sitten voimme keskustella.
-Puhuja 0: Kiitos. No niin, mitäs Tommi, mitäs suosittelet?
+Puhuja 0: No niin, mitäs Tommi, mitä sä suosittelet?
 Puhuja 2: Aloin siis tällaisessa
 Puhuja 2: uusfeministisessä
 Puhuja 2: hengessä eilen
 Puhuja 2: illalla lukemaan meidän tyttärille
 Puhuja 2: pikkunenista
 Puhuja 2: pikkunen kirjaa.
-Puhuja 2: Hengjellevä suosiu. Joo, älä muuta sano ja ajattelin että kyllä jatkan sitä nyt vielä tässä
-Puhuja 2: vaikka ne terassit aukeaisi
+Puhuja 1: Se ei ole yllättävä.
+Puhuja 2: Älä muuta sano ja ajattelin että kyllä jatkan sitä nyt vielä tässä
+Puhuja 2: vaikka ne terassit
+Puhuja 2: aukeaisi
 Puhuja 2: ja nurmikentät
 Puhuja 2: kutsuisivat
 Puhuja 2: niin voihan se ottaa, voin ottaa kirjan mukaan myös sinne mutta siis klassikkojen klassikko.
-Puhuja 2: Vau, en sano että. Olen itsekin yllättynyt tästä mut
-Puhuja 2: otin aikaa lennosta.
-Puhuja 0: Kyllä. Voisinkin sanoa tosiaan niin kuin olen vissiin aiemmissa tai ihan viime lähetyksessä kertonut. Luin
+Puhuja 2: Vau,
+Puhuja 2: olen itsekin yllättynyt tästä mut,
+Puhuja 2: otin tämän aika lennosta.
+Puhuja 0: Kyllä. Olisinkin jo huono tosiaan niin kuin olen vissiin aikaisemmin tai ihan viime lähetyksessä kertonut. Luin
 Puhuja 0: aikoinaan kauheasti dekkareita ja sitten
 Puhuja 0: totaalisesti
-Puhuja 0: kylläsin ja nyt olen taas palannut ja voin tänne tässä Nessbooteen ja nyt
-Puhuja 0: löysin uuden ja aloitin tämän toissa päivänä. Tämä on ihan
-Puhuja 0: uusi jenkkidekkari ja tämä on minusta todella kiehtova. Sen nimi on Plot niin kuin juoni Plot. Sen on kirjoittanut tämmöinen henkilö kuin Jean Manef
+Puhuja 0: kyllästyin ja nyt olen taas palannut ja
+Puhuja 0: luin tässä Nessbuten ja
+Puhuja 0: nyt löysin uude ja aloitin tämän toissapäivänä.
+Puhuja 0: Tämä on ihan uusi
+Puhuja 0: jenkkidekkari
+Puhuja 0: ja tämä on minusta todella kiehtova. Sen nimi on Plot, niin kuin juoni Plot. Sen on kirjoittanut tämmöinen henkilö kuin Jean Manef
 Puhuja 0: Orellich.
 Puhuja 0: Siinä on kiehtova tarina. Siinä on tämmöinen
 Puhuja 0: elämässään kirjailijana epäonnistunut,
 Puhuja 0: joka julkaisi
 Puhuja 0: yhden
 Puhuja 0: tämmöisen
-Puhuja 0: tai hänellä on yksi tämmöinen nuorena miehenä julkaistu teos, jota jopa New York Times sanottiin että hän on lupaava
+Puhuja 0: tai hänellä on yksi tämmöinen nuorena miehenä julkaistu teos, jota jopa New York Times sanottiin että
+Puhuja 0: hän on lupaava
 Puhuja 0: kirjailija. Sitä myytiin
-Puhuja 0: kahdeksansataa kappaletta, mutta sai kumminkin huomiota.
-Puhuja 0: Sitten seuraava kirja novellikokoelma.
-Puhuja 0: Sitä se julkaistiin, mutta sitten ei ostanut kukaan. Sen jälkeenhän kahta seuraavaa kirjaa ei
-Puhuja 0: julkaistu lainkaan.
-Puhuja 0: Sitten hän on nelikymppisenä
-Puhuja 0: elämään pettyneenä ja turhautuneena hänestä tulee tämmöisen luovan kirjoittamisen opettaja ja hän on jossain
-Puhuja 0: jenkkin yliopistossa opettamassa
-Puhuja 0: pienessä pienessä koulussa mihin pääsee kuka tahansa joka haluaa ruveta kirjailijaksi niin pääsee sinne pääsee sinne opiskelemaan luovaa kirjoittavista.
+Puhuja 0: kahdeksansataa kappaletta, mutta sai kuitenkin huomiota.
+Puhuja 0: Seuraava kirja novellikokoelma
+Puhuja 0: julkaistiin, mutta sitä ei ostanut kukaan. Sen jälkeenhän kahta seuraavaa kirjaa ei
+Puhuja 0: julkaistu lainkaan. Sitten hän on nelikymppisenä
+Puhuja 0: elämään pettyneenä ja turhautuneena hänestä tulee tämmöisen luovan kirjoittamisen
+Puhuja 0: opettaja ja hän on jossain
+Puhuja 0: Jenkki yliopistossa opettamassa
+Puhuja 0: pienessä pienessä koulussa, mihin pääsee kuka tahansa, joka haluaa ruveta kirjailijaksi
+Puhuja 0: niin pääsee sinne pääsee sinne opiskelemaan luovaa kirjoittavista.
 Puhuja 0: Häntä
-Puhuja 0: ei voisi vähempää kiinnostaa ne
+Puhuja 0: ei voi vähempää kiinnostaa ne
 Puhuja 0: opiskelijoiden tekeleet.
-Puhuja 0: Sitten sinne tulee yksi nuori mies, joka
-Puhuja 0: on äärimmäisen itsevarma ja itserakas ilmoittaa, että hänellä on
-Puhuja 0: kaikkien aikojen paras kirja. Hän ei oikeastaan edes tarvitse sinua, että hän kirja on hänellä päässä ja siitä tulee maailman paras
-Puhuja 0: valtava jättimenestys ja Obraha kutsuu hänet ohjelmaansa. Pääsee Oopperaan kirjakerhoon.
-Puhuja 0: Tämä suhtautuu
-Puhuja 0: ylimielisesti siihen ja
-Puhuja 0: opettaja saa lukea pikku pätkän siitä ja se vaikuttaa ihan kiinnostavalta. Se ei ensin meinaa suostua, mutta opiskelija suostuu
+Puhuja 0: Sitten tulee yksi nuori mies,
+Puhuja 0: joka on äärimmäisen itsevarma ja itserakas ilmoittaa, että
+Puhuja 0: hänellä on kaikkien aikojen paras kirja. Hän ei oikeastaan edes tarvitse sinua, että kirja on hänellä päässä ja siitä tulee maailman paras
+Puhuja 0: valtava jättimenestys
+Puhuja 0: ja Opera kutsua hänet ohjelmaansa, että pääsee Opreen kirjakerhoon.
+Puhuja 0: Tämä suhtautuu ylimielisesti siihen
+Puhuja 0: ja opettaja saa lukea pikku pätkän siitä ja se vaikuttaa ihan kiinnostavalta.
+Puhuja 0: Se ei ensin meinaa suostua, mutta opiskelija suostuu
 Puhuja 0: kertomaan
 Puhuja 0: kirjan juonen.
-Puhuja 0: Yleensä
-Puhuja 0: kaikissa kirjoissa on juonirakenteita ja wishfie:ssä erilaista vaihtoehtoa. Tämä on keksinyt uudenlaisen juonenkäänteen, jossa on jotain aivan ainutlaatuista.
+Puhuja 0: Yleensä kaikissa kirjoissa juonirakenteita
+Puhuja 0: on viisi feeisi erilaista vaihtoehtoja. Tämä on keksinyt uudenlaisen juonenkäänteen,
+Puhuja 0: jossa on jotain aivan ainutlaatuista.
 Puhuja 0: Vasta kirjan puolivälissä vielä sitä käännettä ei ole paljastettu.
-Puhuja 2: Pelkäsin, että tässä spoilaan koko kirjan. En.
-Puhuja 0: Sitten
-Puhuja 0: opettaja jatkaa tätä ankeaa elämäänsä,
+Puhuja 2: Pelkäsin, että tässä spoilaan koko kirjan. Eli.
+Puhuja 0: Opettaja jatkaa tätä ankeaa elämäänsä,
 Puhuja 0: kunnes hän pari vuotta myöhemmin huomaa, että opiskelija on kuollut.
-Puhuja 0: Sitten hän varastaa kirjan. Hän kirjoittaa itse kirjan.
-Puhuja 0: Ei suoraan käsikirjasta, mutta hän kirjoittaa
+Puhuja 0: Hän varastaa kirjan. Hän kirjoittaa itse kirjan.
+Puhuja 0: Ei suoraan käsikirjasta, mutta kirjoittaa
 Puhuja 0: kirjan itse.
 Puhuja 0: Hänestä tulee maailmankuulu.
-Puhuja 0: Ja pääsee opbroniin ja kiertää Amerikkaa erilaisissa kirjallisuustapahtumissa.
+Puhuja 0: Ja hän pääsee opbroniin ja kiertää Amerikkaa erilaisissa kirjallisuustapahtumissa.
 Puhuja 0: Kunnes joku alkaa Twitterissä
-Puhuja 0: välisemään, että olet varastanut juonen.
-Puhuja 0: Ja sitten taas alkaa vasta
-Puhuja 2: trilleri. Ihanaa.
-Puhuja 2: Huikea kirja. Kannattaa lukea. Plot.
-Puhuja 2: Selvä. Joo kyllä toi koukutti.
-Puhuja 2: Toi sun tarina nimenomaan koukutti. Mä luulen että toi oli se tarina.
+Puhuja 0: välissä, että olet juonen.
+Puhuja 0: Ja sitten taas alkaa tavallaan
+Puhuja 2: trilleri.
+Puhuja 2: Ihanaa. Huike kirja.
+Puhuja 2: Plot.
+Puhuja 2: Selvä.
+Puhuja 2: Joo
+Puhuja 2: kyllä toi koukutti.
+Puhuja 2: Sun tarina nimenomaan koukutti. Luulen että toi oli se tarina. Kyllä.
 Puhuja 0: Kiitos Tommi Nieminen. Mahtavaa kun olit taas täällä. Kiitos
-Puhuja 1: Maria Manner. Kiitos. Saako Anna vielä yhden asian tähän loppuun?
-Puhuja 1: Laittakaa
-Puhuja 1: tupakantumpit roskiin, koska ne on muoviroskaa.
+Puhuja 1: Maria Manner. Kiitos. Saako Anna NVE yhden asian tähän loppuun? Laittakaa
+Puhuja 1: tupakantumpiin roskiin, koska ne on muoviroskaa.
 Puhuja 1: Opin hiljattain, että ne valuu niistä sadevesikaivoista
 Puhuja 1: puhdistamattomana.
-Puhuja 1: Mä renjan, kun tiedän Marko, että säkin tupakoitsi ja
-Puhuja 1: tästä innostuneena jopa Hesarin alkoi jonossa, kerroin tämän
-Puhuja 1: nuorille
-Puhuja 1: miehille,
-Puhuja 1: jotka suuntautuvat vakavasti vakavasti, mutta sanoivat, että he aikovat käyttää pahvifilttereitä,
+Puhuja 1: Minä treenin ja kun tiedän Marko, että sinäkin tupakoitsi ja
+Puhuja 1: tästä innostuneena jopa Hesarin alkoi jonossa. Kerroin tämän nuorille miehille,
+Puhuja 1: jotka suuntautuvat asian vakavasti, mutta sanoivat, että he aikovat käyttää pahvifilttereitä,
 Puhuja 1: mutta tavalliset filtterit eivät ole
-Puhuja 1: Ne on muoviroskaan tuo, eivätkä mahdu, mitä kaikki eivät tiedä. Tämä oli vielä
-Puhuja 0: vähän niin kuin se yleisradion tietoiskuiseen
-Puhuja 1: televisiiseksi. Pakko saada tämä ulos sanottua, kun tämä ei liittynyt minkään aikaisempaan aiheeseen. No niin, ja
-Puhuja 0: Äänenä kuvan ja kaikille ääneen ja kuvan. Äänenä ja kuvan. Kaiken muun mahtavaa. Minä teen Mikko Peura, kiitos Mikko ja kiitos hyvät kuulijat ja katsojat, omalla viikolla. Kiitos. Kiitos kiitos.
+Puhuja 1: muoviroskaa,
+Puhuja 1: eivätkä mahdu, mitä kaikki eivät tiedä. Tämä oli vielä loppu. Tämä oli vähän kuin se yleisradion
+Puhuja 0: tietoiskuiseen
+Puhuja 0: televisiiseksi. Oli pakko saada tämä ulos sanottua, kun tämä ei liittynyt minkään aikaisempaan aiheeseen. No niin, ja Äänenä ja kuvan ja ei kun niin, ääninä kuvan ja kaikille kaikille. Äänenä ja kuvan. Kaiken muun mahvaa. Minne tekee Mikko Peura, kiitos Mikko. Kiitos hyvät kuulijat ja katsojat, omalla viikolla. Kiitos. Kiitos kiitos.

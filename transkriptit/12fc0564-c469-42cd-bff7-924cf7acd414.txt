@@ -1,226 +1,455 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiönkaan Inkolopodcastin
-Puhuja 0: toinen kausi on kuunneltavissa Helsingin Sanomien
-Puhuja 0: sovelluksessa sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan kaninkoloon.
-Puhuja 1: Helsingin Sanomat.
-Puhuja 2: Hei! Ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 2: podcastiin.
-Puhuja 2: Torstaina
-Puhuja 2: yksitoista. Kesäkuuta
-Puhuja 2: täällä Helsingin
-Puhuja 2: Sanomien studiossa.
-Puhuja 2: Vähän kuuluu se rimpsu
-Puhuja 2: sitten, maapallolla Euroopassa, Helsingin pää kaiku ja Suomen pääkaupungissa.
-Puhuja 2: Minun nimeni on Marko Jukkari. Täällä kanssani ovat
-Puhuja 2: tutkivien juttujen
-Puhuja 2: ylipäällikkö,
-Puhuja 2: Salla Vuorikoski.
-Puhuja 1: Hei, viisi minusta, mutta Marko Junkkari on takaisin.
-Puhuja 1: Aulle lukee.
-Puhuja 2: Tämä on tosiaan ensimmäinen kerta tässä podissa
-Puhuja 2: melkein puoleen vuoteen.
-Puhuja 2: Onneksi joskus joulukuussa.
-Puhuja 2: Jännittääkö sua. Jännittääkö sua. Jännittää ihan sikana ja joudun suoraan tähän Hostin-hommaan.
-Puhuja 2: Eli minulla on tässä
-Puhuja 2: poissaoleessani edennyt
-Puhuja 2: podcast-uralla.
-Puhuja 3: Kaikki muut ovat vaan iloisia siitä, että sinä olet takaisin.
-Puhuja 1: Ajatteletko, että tuo on niin kuin yllätys, kun me pyydettiin, että voisitko juontaa.
-Puhuja 2: En ajatellut näin.
-Puhuja 2: Kaikki, että en olisi joutunut tähän tehtävään. Mutta Sallalla on sellainen komentoääni,
-Puhuja 2: että sitä on toteuttava.
-Puhuja 1: Ihana kun ottakaa.
-Puhuja 2: Tämä toinen
-Puhuja 2: naurava henkilö tuolla taustalla on
-Puhuja 2: Satu Vasantola.
-Puhuja 2: Olet Feturen toimituksen toimittaja. Niin on.
-Puhuja 3: Kiva, kun olet täällä. Kiitos kutsusta. Tulen tosi mielelläni.
-Puhuja 2: Niin sä olet nyt toista kertaa.
-Puhuja 3: Mä olen toista kertaa. Mun ilmeisesti erikoisaiheitani
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 1: Hei!
+Puhuja 1: Tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin.
+Puhuja 1: Torstaina
+Puhuja 1: yksitoista. Kesäkuuta.
+Puhuja 1: Täällä Helsingin Sanomien
+Puhuja 1: studiossa.
+Puhuja 1: Vähän kuuluu se rimpsu sitten, maapallolla Euroopassa,
+Puhuja 1: Helsingin pää kaikus-Suomen pääkaupungissa.
+Puhuja 1: Minun nimeni on Marko Jukkari.
+Puhuja 1: Täällä kanssani ovat
+Puhuja 1: tutkivien juttujen
+Puhuja 1: ylipäällikkö,
+Puhuja 1: Salla Vuorikoski.
+Puhuja 2: Hei, viisi minusta, mutta Marko Junkkari on takaisin.
+Puhuja 2: Jep, huomenta.
+Puhuja 1: Tämä on tosiaan ensimmäinen kerta tässä podissa melkein puoleen vuoteen.
+Puhuja 1: Ihan. Onneksi joskus joulukuussa. On
+Puhuja 2: jännittääkö sua. Jännittääkö sua? Minua jännittää ihan sikana, jos joudun suoraan Hostin-hommaan,
+Puhuja 1: eli olen tässä
+Puhuja 1: poissaoleessani edennyt
+Puhuja 1: podcast-uralla.
+Puhuja 3: Kaikki muut ovat vain iloisia siitä, että sinä olet takaisin.
+Puhuja 2: Ajatteletteko, että tuo on niin kuin yllätys, kun me pyydettiin, että voisitkoko juontaa. En ajatellut näin.
+Puhuja 1: Kaikki, että en olisi joutunut tähän tehtävään. Mutta Sallalla on sellainen komentoin ääni,
+Puhuja 1: että sitä olet toteuttava.
+Puhuja 2: Ihana kun ottakaa.
+Puhuja 1: Ja tämä toinen
+Puhuja 1: naurava henkilö tuolla taustalla on
+Puhuja 1: Satu Vasantola.
+Puhuja 1: Olet Ferture-toimituksen
+Puhuja 3: toimittaja. Niin on.
+Puhuja 3: Kiva, kun olet täällä. Kiitos kutsusta. Tulen tosi mielellään.
+Puhuja 1: Niin, sä olet nyt toista kertaa.
+Puhuja 3: Mä olen toista kertaa. Mä olen toista kertaa.
+Puhuja 3: Mun ilmeisesti erikoisaiheitani
 Puhuja 3: ovat seksi,
-Puhuja 3: jonka takia olin ekan kerran ja nyt sitten suljetut laitokset.
-Puhuja 1: Kaas varmaan jokainen matsikin erikseen. Mua on erityisesti kielletty osallistumasta
-Puhuja 1: siihen.
-Puhuja 1: Onko? Äitien meiksi.
+Puhuja 3: jonka takia olin ekan kerran, ja nyt sitten suljetut laitokset.
+Puhuja 2: Seuraavan kerran niiden yhdistelmät.
+Puhuja 3: Minulla on siitäkin sanottava vaikka heti.
+Puhuja 2: Nyt on vaaran tuntua,
+Puhuja 2: kun Tuomas on poissa. Kyllä.
+Puhuja 1: Meillä on tässä
+Puhuja 1: tämä ilmoitusasia-osio.
+Puhuja 1: Meillähän on ilmoittanut. Nyt on ilmoittanut. Nyt on ilmoitettava. Satu voi hoitaa tämän ilmoituspuolella.
+Puhuja 3: Minä todella, todella mielelläni ilmoitan tämän asian, koska olen teidän kaikkien rakkaan ystävänne Sohvin
+Puhuja 3: läheinen työkaveri ja puhuin Sohvin kanssa viimeksi tuossa
+Puhuja 3: aamupäivällä ja kysyin, että saanko kertoa ihanan uutisen siitä, että Sohvi on saanut vauvan ja siksi ei ole täällä nyt aikoihin ja vauva on jo viikon vanha ja kaikki on hyvin.
+Puhuja 2: Onnea sohri ja perhe ja kaikki.
+Puhuja 1: Ollaan me nyt jo onniteltu, mutta onnea nyt vielä näin podin
+Puhuja 1: välityksellä.
+Puhuja 1: Onpa hauskaa.
+Puhuja 3: Tänään vielä kuulostelin ja siellä hän oli hyvin
+Puhuja 3: semmoisissa onnen huuruissa,
+Puhuja 1: toivottavasti. Mutta eikö se mene ohikset aika nopeasti kumminkin?
+Puhuja 3: Sitten kun valvoo kaikki yöt ja vauvaa kaikki yöt. No mun on nyt jo yli kaksikymppiset lapsen, niin ei ole mennyt ohi.
+Puhuja 2: Vai vielä siinä leijuu. Mutta anekdoottina,
+Puhuja 2: uskon, että sohvi ei pahasta nyt tästä, että kerron tämän. Mutta hänhän siis paljasti, että lapsi oli yli yhden vuorokauden ikäisenä
+Puhuja 2: joutunut kuuntelemaan
+Puhuja 2: viime viikon uutisraporttipodin
+Puhuja 2: yösyöttöjen yhteydessä.
+Puhuja 2: Että tsemppiä tälle
+Puhuja 3: pienelle: lapsiparka.
+Puhuja 1: No niin, mennään asiaan. Tällä viikolla tämän viikon podissa keskustellaan
+Puhuja 1: kokoomuksesta.
+Puhuja 2: Taas.
+Puhuja 1: Taas. No, miksi sitä ei voisi puhua viikosta toiseen? Tietysti voi. Me puhumme nyt ennen kaikkea
+Puhuja 1: Kokoomuksen uudesta supertähdestä
+Puhuja 1: eli Carolina Partasesta,
+Puhuja 1: joka valittiin sunnuntaina
+Puhuja 1: Jyväskylässä Kokoomuksen puoluekokouksessa
+Puhuja 1: puolueen tai jatkokaudelle. Puolue varapuheenjohtajaksi hän oli sitä jo aikaisemminkin, mutta hän sai valtavan äänivyöryn
+Puhuja 1: ja tämä oli hyvinkin kiinnostava.
+Puhuja 1: Partanen on kumminkin vasta ensimmäisen kauden kansanedustaja
+Puhuja 1: ja kertoo siitä, että hän on aikamoisessa
+Puhuja 1: nosteessa siellä puolueen sisällä. Sitä paitsi, hänet valitaan tänään todennäköisesti myös ministeriksi.
+Puhuja 1: Tänään on
+Puhuja 1: kokoomuksen puoluehallitus koolla
+Puhuja 1: ilmeisesti aika lailla nyt jo tai ainakin ihan näillä hetkillä. Ja sitten
+Puhuja 1: iltapäivällä kokoomuksen
+Puhuja 1: eduskuntaryhmä valitsee hänet todennäköisesti
+Puhuja 1: Sanni Grahallaasosen
+Puhuja 1: vanhempainvapaa-asiaiseksi,
+Puhuja 1: erikseen puoleksi vuodeksi.
+Puhuja 2: Katsoa jotain naisten
+Puhuja 2: pertsan kymppiä, niin et ajattelisi, että vitsi,
+Puhuja 2: kun näin hiihdä niin nopeasti,
+Puhuja 2: kun miehet hiihtäisivät tämän saman matkan.
+Puhuja 2: Urheilun katsominen on niin paljon muutakin kuin teknistä suoritusta. Se on tunnelmaa,
+Puhuja 2: tilanteita,
+Puhuja 2: väriä ja kaikkea
+Puhuja 2: mahdollista muuta. Nyt olen ymmärtänyt, en tiedä,
+Puhuja 2: missä sarjassa Marko on tämän suhteen, kun ymmärtääkseni olet tämän studion jalkapalloisin
+Puhuja 2: ihminen.
+Puhuja 2: Enkä minäkään nyt kovin paljon, aion kyllä katsoa. Mutta olen ymmärtänyt ja kotoa kuullut, että tämä VARK,
+Puhuja 2: joka on tämä
+Puhuja 2: videotarkistusjärjestelmä
+Puhuja 2: jalkapallossa, että tämä on massoja
+Puhuja 2: jakava
+Puhuja 2: tai suorastaan
+Puhuja 2: suurta vastarintaa herättävä liikehdintä, tämä anti VARK. Ihmisiä ärsyttää se, että
+Puhuja 2: niitä tilanteita, ilmeisesti nyt vielä entistä enemmän kuin ennen, katsotaan jälkikäteen
+Puhuja 2: ja oliko virhe vai ei. Se vie autenttisuuden.
+Puhuja 1: No se vie autenttisuuden. Eikä siinä eniten rasittaa se, että
+Puhuja 1: var-tarkistus saattaa kestää
+Puhuja 1: tyyliin kahdeksan minuuttia ja sehän katkaisee sen pelin. Sitten vaan odotellaan, kun tyypit kelailee videolta
+Puhuja 1: edestakaisin. Ja sitten kun se on niin tarkka, että siinä katsotaan sitten
+Puhuja 1: sentin tarkkuudella, onko jonkun
+Puhuja 1: isovarvas paitsiossa vai ei. Se
+Puhuja 1: tuntuu usein vähän koomiselta.
+Puhuja 1: Mutta toisaalta, onhan tässä kuitenkin
+Puhuja 1: sekä näille yksittäisille pelaajille että sitten katsoen, kun tässä
+Puhuja 1: puhutaan valtavan isoista asioista. Niin on se tavallaan kiva, että ei tule sitten,
+Puhuja 1: sehän on se klassikko, olikohan, vuonna tuhat yhdeksänsataakuusikymmentäkuusi
+Puhuja 1: MM-kisoissa, jolloin englanti voitto ainoa mestaruutensa. Ja se, että oliko se pallo silloin maalissa vai ei, tästä kiistellään edelleenkin.
+Puhuja 1: Niin
+Puhuja 1: tuota... Tää oli tavallaan kiva, että se varsit tavallaan ratkaisee tai se, että oliko aikoinaan mardadonat muutti Jumalan kädestä, kun hän tosi lyhyt pelaaja, miten hän pystyi
+Puhuja 1: sieltä maalibaarin
+Puhuja 1: edestä mukavasti pukkaamaan sen pallon, vaikka hän oikeasti läpäisi sen kädellä. Tästäkin on kiistelty nyt jo mitä kolmekymmentä vuotta, että oliko siinä käsi vai ei. Ehkä se nyt on selvää, että se oli käsi, mutta Siinä
+Puhuja 1: mielessä se on tavallaan oikeudenmukaista. Mutta mua ehkä
+Puhuja 1: niin kuin... Mikä mua tässä ehkä nyppii, on ensinnäkin Yhdysvallat
+Puhuja 1: tässä,
+Puhuja 1: tavallaan tässä on...
+Puhuja 1: Jotenkin foodiksessa on kauhean makeeta mielestäni se, että kun
+Puhuja 1: olemme Brasilia, niin mikä se into on ja sellainen ihmisten
+Puhuja 1: katsojien
+Puhuja 1: intomielisyys ja rakkausjien laji, mutta kun eihän Yhdysvallat... Tämä just jostain luu, että nykyään
+Puhuja 1: tämä Soker-jalkapallo
+Puhuja 1: on Yhdysvaltain kolmanneksi
+Puhuja 1: suosittu urheilulaji. Onko todella?
+Puhuja 1: On, se lähentelee ja on hoitanut baseball.
+Puhuja 2: Ihan
+Puhuja 2: tosi, tämä on uutinen.
+Puhuja 1: Siitä huolimatta se on edelleen suurimmalle osalle jenkeistä
+Puhuja 1: marginaali
+Puhuja 1: laji.
+Puhuja 1: No tänään itse asiassa luin New York chamsessa.
+Puhuja 1: Näki saattoi kolmessa maassa Yhdysvalloissa Kanadassa ja Neksikossa ja siellä oli joka maassa yksi
+Puhuja 1: tämmöinen jalkapallotoimittajan
+Puhuja 1: analysoi ja kertoi mitä tuntemuksia on. Ja Se oli minusta oikeastaan aika hieno se jenkkitoimittaja
+Puhuja 1: kirjoitti siitä, että edellisen kerran nämä kisat olivat Yhdysvalloissa vuonna tuhat yhdeksänsataayhdeksänkymmentäneljä
+Puhuja 1: ja hänkin silloin nuorena poikana harrasti innokkaasti jalkapalloa, mutta hän ei ollut koskaan nähnyt, kun ei jenkkitelevisiossa
+Puhuja 1: näytetty huippujalkapalloa
+Puhuja 1: ollenkaan, kun se oli täysin margina laji, niin vuonna tuhat yhdeksänsataayhdeksänkymmentäneljä
+Puhuja 1: Yhdysvalloissa pidän MM-kisat, kun hän näki, miten maailman parhaat pelaajat pelaavat jalkapalloa. Ja hän edelleen muistelee, miten valtava
+Puhuja 1: hetki se oli hänelle. Hän tajusi, että
+Puhuja 1: maailma on muovia kuin siellä hänen kotikylässä. Täällä on olemassa. Kyllä. Se on tavallaan hauska, mutta sitten tavallaan näissä kisoissa
+Puhuja 1: jotenkin...
+Puhuja 1: Ehkä me ei mennä nyt FIFAn korruptioon, kun se on jotenkin niin rasittava aihe, mutta tässä tuntuu, että tässä on lypsetty
+Puhuja 1: jokaikinen
+Puhuja 1: liikennevä euro ja dollari joka paikasta ja nehän on niin super kaupalliset kisat, että siellä on ne lippujen hinnat,
+Puhuja 1: tuhannella dollarilla ei taida saada lippua edes. Niin, vaikka luvattiin,
+Puhuja 2: että tavan ihminenkin pääsisi kohtuullisella kustannuksella.
+Puhuja 1: No ei pääse. Ja sitten lopputulema on se, että mun mielestä siinä jenkkien avamatsasiissakin taitaa olla vielä lippuja myymättä.
+Puhuja 1: Että mikä se tunnelma sitten loppujen lopuksi stadioneilla on.
 Puhuja 1: Vaikka
-Puhuja 1: äitini on voittanut, siitä nyt on varmaan kymmenen vuotta,
-Puhuja 1: paljonko niistä kisoista on.
-Puhuja 1: Äitini on voittanut
-Puhuja 1: suvun laajan
-Puhuja 1: Veikkauksen tietämällä
-Puhuja 1: voittojen.
-Puhuja 1: Sikäli jos geenit menevät, niin kyllä mun melkein kannattaisi.
-Puhuja 3: No tosi kiva.
+Puhuja 1: nyt on luvattu, että siellä ei pitäisi olla näitä
+Puhuja 1: maahanmuuttoviranomaisia
+Puhuja 1: siellä stadioneiden ulkopuolella panemassa ihmisiä
+Puhuja 1: laittomia siirtolaisia häkkiin, mutta saa nähdä miten käy.
+Puhuja 1: Ja siellähän kuitenkin
+Puhuja 1: latinalaisamerikkalaistaustaisille
+Puhuja 1: ihmisille nämä kisat ovat ihan valtava juttu ja se,
+Puhuja 1: miten se oma lähtömaa pärjää ja näin,
+Puhuja 2: ja nythän siellä on sitten tähän maahan tulemiseenkin
+Puhuja 2: liittyen näitä rajoituksia, oli afrikkalainen
+Puhuja 2: erotuomari,
+Puhuja 2: joka
+Puhuja 2: siis korkeammalla
+Puhuja 2: tasolla tuomaroi Afrikassa erittäin kova ammattilainen.
+Puhuja 2: Hän oli päässyt lentämään
+Puhuja 2: Jenkkeihin ja siellä oli
+Puhuja 1: Turkissa Ei kun mun mielestä se oli siellä Turkissa. Se oli somaliasta lähtöisin ja mun mielestä Turkissa jo pysäytettiin.
+Puhuja 1: Hän
+Puhuja 1: ei pääse.
+Puhuja 2: Yhtäältä podia kuuntelin, jossa pohdittiin, että voisiko Kanadan
+Puhuja 2: antaa sille jonkun viisumin ja voisiko niitä pelejä jotenkin, niitä tuomarointeja sille vaihtaa,
+Puhuja 2: että se voisi Kanadan puolella olevissa peleissä
+Puhuja 2: tuomaroida. Minusta tuo, kun ylipäätään tuollaista
+Puhuja 2: keskustellaan,
+Puhuja 2: kertoo kaiken siitä alennustilasta.
+Puhuja 1: Joo, ja
+Puhuja 1: Iran on mukana kisoissa
+Puhuja 1: ja nyt tuo sitten oman
+Puhuja 1: jännitettäänsä, kun siellä Yhdysvallat
+Puhuja 1: Iran käyvät sotaa keskenään.
+Puhuja 1: Niin ensin nyt
+Puhuja 1: heitä joutuu pääsemään vasta ollenkaan maahan, mutta nyt ne nyt pääsee,
+Puhuja 1: niin ne pelit on Yhdysvalloissa, mutta ne asuu itse asiassa Meksikon puolella, majoittuu
+Puhuja 1: siellä. Eli ne sieltä aina lentää sinne matseihin. Ja mun mielestä
+Puhuja 1: Iranin maajoukkue on ilmoittanut jo, että
+Puhuja 1: jos siellä on mitään,
+Puhuja 1: että jos siellä näkyy vaikka
+Puhuja 1: katsomassa lippuja, jossa on Shahin kuva, se on tämmöinen symboli
+Puhuja 1: tämmöiselle
+Puhuja 1: Iranin nykyisen hallinnon vastustamiselle, niin ne kävelevät saman tienllodionilta.
+Puhuja 2: Ja millähän todennäköisyydellä se tapahtuu?
+Puhuja 1: Todennäköisyys on, ne pelaa minusta, jos muistan oikein, niin vela Los Angelesissa ja siellä on todella iso iranelaissiirtolaisten
+Puhuja 1: joukko. Eli varmasti kaikki vastustaa sitä nykyistä
+Puhuja 1: Iranin johtoa. Hyvin epätodennäköistä, että siellä ei jotain Addelia tulisi. Mutta mikä mua nyt ehkä eniten näissä kisoissa rassaa on se, että siellä on niitä joukkueita niin kauhean paljon?
+Puhuja 2: Kysymys on se, että jos siellä on
+Puhuja 2: ziljoona
+Puhuja 2: joukko: neljäkymmentäkuusi,
+Puhuja 2: neljäkymmentäkuusi, 4G8-neljäkymmentäkahdeksan,
+Puhuja 2: Miksei Suomi ole nyt, eikö me edes neljäkymmentäkahdeksan
+Puhuja 3: joukkoon päästä? Siis eikö nyt tuo Italiakin?
+Puhuja 3: Omasta Suomeen
+Puhuja 2: siellä, kuinka Suomi olisi? Minun mielestä Suomen pitää nyt FIFAa ruveta lahjomaan. Kaivakaa nyt kuva, että kuka se urheiluministeri onkaan nyt rahaa pöytään.
+Puhuja 2: Rahaa
+Puhuja 2: pöytään.
+Puhuja 2: Ja että laajennetaan
+Puhuja 2: sitä. Kuinka paljon pitää laajentaa, että me päästään?
+Puhuja 3: Saan kaikkien jalkapallofanien
+Puhuja 3: piha kiskaan. No
+Puhuja 2: ei, kun onhan meillä hyvä joukkue, mutta ei nyt ole toistaiseksi päästä. Mutta ehkä minun elinaikin...
+Puhuja 1: EM-kisoissa oltiin jo.
+Puhuja 1: Ehkä tuo joukkueiden määrä kyllä kiva tulee paljon matseja, mutta onhan se siellä tulee olemaan aika monta tosi tylsää peliä, koska onhan se niin
+Puhuja 1: kuin, että siellä on ne lohkot aiheuttavia, että siellä
+Puhuja 1: on aika harvassa alkolohkossa
+Puhuja 1: kovin montaa elämästä huippumaata, että sieltä tulee semmoisia, voi tulla aika suurenumeroisia
+Puhuja 1: voittoja sun muuta, mikä ei ole tietenkään kiva.
+Puhuja 1: Mutta tänään ne alkaa ja kuukauden kestää ja kyllä mä meinasin nyt kaikkia pelejä, mutta kyllä vähän aika monta niistä ajattelin katsoa kaikesta Meidän miesväylä on joku
+Puhuja 2: peliveikkaus, varmaan jokainen matsi erikseen ja minua on erityisesti kielletty osallistumasta
+Puhuja 2: siihen. Onko? Äitien mix?
+Puhuja 2: Vaikka
+Puhuja 2: äitini on voittanut, siitä nyt on varmaan kymmenen vuotta vai mitä liian, paljonko niistä kisoista on, mutta äitini on voittanut
+Puhuja 2: suvun laajan
+Puhuja 2: Veikkauksen
+Puhuja 2: tietämällä
+Puhuja 2: voittojen.
+Puhuja 2: Sikäli, jos geenit menee, niin kyllä mun melkein kannattaisi.
 Puhuja 3: Joo, tungit mukaan vaan.
-Puhuja 2: No niin,
-Puhuja 2: mitäs kun
-Puhuja 2: tänä iltana tai jonain iltana, nehän tulee muuten ne matsit vielä,
-Puhuja 2: osa tulee silloin keskellä yötä, onko se neljä, kolme vai neljä, alkaa eniten katsoa, mutta kymmenät alkavat aikaisemmat matsit, että sehän on ihan katsottavissa vielä. Mutta sä, että sä järkyttää meidän kuulijoita, sun pitää aloittaa sille, että sitten kun Mä tiedän, olen tulossa, se ainakaan välivuoden
-Puhuja 1: välivuoden. Okei, okei.
-Puhuja 2: Sitten, kun olet katsomassa sitä
-Puhuja 2: jalkapalloa, sitä
-Puhuja 2: seitsemäntoista
-Puhuja 2: matsia
-Puhuja 2: näissä kisoissa,
-Puhuja 2: joita on ehtinyt katsoa ja nautit siinä
-Puhuja 2: kokacolaa
-Puhuja 2: tietysti, koska
-Puhuja 2: ollaan Meliton Yhdysvalloissa,
-Puhuja 2: niin
-Puhuja 2: mistä sitten muiden
-Puhuja 2: seurasitte
-Puhuja 2: kanssa haluaisit jutella?
-Puhuja 3: Onko tämä nyt se suositukset?
-Puhuja 3: Tahansa. Jos minulta kysyy, se on melkein aina kirjallisuutta.
-Puhuja 3: Ehdottomasti
-Puhuja 3: erityisesti Tove Ditlevsenistä,
+Puhuja 1: No niin,
+Puhuja 1: mitäs kun
+Puhuja 1: tänä iltana tai jonain iltana, nehän tulee muuten ne matsit vielä,
+Puhuja 1: osa tulee silloin ihan keskellä leveitä, onko ne neljä, kolme vai neljältä alkaa enitenjäksi katsoa, mutta kymmeneltä alkaa aikaisilvasit, että sehän on ihan katsottavissa vielä. Mutta sä et sä järkyttää meidän kuulijoita, että sun pitää aloittaa sille, että sitten kun... Mä tiedän. Oli ne tulossa.
+Puhuja 1: Välivalta välivuoden. Okei, okei. Sitten,
+Puhuja 1: kun olet katsomassa sitä jalkapalloa,
+Puhuja 1: sitten
+Puhuja 1: seitsemäntoista
+Puhuja 1: matsia
+Puhuja 1: näissä kisoissa, joita olet etsinyt katsoa ja nautit siinä
+Puhuja 1: Kokacolaa
+Puhuja 1: tietysti, koska pelit
+Puhuja 1: on Yhdysvalloissa.
+Puhuja 1: Niin
+Puhuja 1: mistäs sitten muiden
+Puhuja 1: seuralastasi
+Puhuja 1: kanssa haluaisit jutella?
+Puhuja 3: Onko tämä nyt se suositukset? Tämä suositus on paikka. Onko se suositus? Onko se joku kysymys? Anteeksi, ekan kerran tässä,
+Puhuja 1: kirjallisuudesta. Se voi olla mikä tahansa.
+Puhuja 3: Jos minulta kysyy, se on melkein aina kirjallisuus.
+Puhuja 3: Ja
+Puhuja 3: sitten ehdottomasti
+Puhuja 3: erityisesti Tove Dittledsenistä,
 Puhuja 3: joka on
-Puhuja 3: kuuluisa tanskalainen kirjailija, jonka trilogiaa
-Puhuja 3: muistelmatos
-Puhuja 3: kolmatta kertaa, koska se on niin käsittämättömän hieno. Ne on ohuita kirjoja. Niiden nimet muistaa heti, että kandee
-Puhuja 3: etsiä ne käsiinsä.
-Puhuja 3: Ne nimet on lapsuus, nuoruus
-Puhuja 3: ja aikuisuus.
-Puhuja 3: Hän osaa kuvata ihan muutamilla sanoilla ihan järisyttäviä asioita.
-Puhuja 3: Minua viehätti esimerkiksi sellainen kohta
-Puhuja 3: joko
-Puhuja 3: lapsuus tai nuoruuskirjassa.
-Puhuja 3: Päähenkilö Minä kertoja tulee kotiin ja
+Puhuja 3: kuuluisa tanskalainen kirjailija, jonka trilogiassa muistelmateos
+Puhuja 3: julkaistiin suomeksi jo muutamia vuosia sitten. Mä luen sitä nyt ehkä kolmatta kertaa, koska se on niin käsittämättömän hieno. Ne on ohuita kirjoja. Niiden nimet muistaa heti, et kandee heti etsiä ne käsiinsä.
+Puhuja 3: Ne nimet ovat lapsuus, nuoruus ja aikuisuus.
+Puhuja 3: Hän osaa kuvata ihan muutamilla
+Puhuja 3: sanoilla ihan järisyttäviä
+Puhuja 3: asioita.
+Puhuja 3: Minua viehätti kohta
+Puhuja 3: joko lapsuus tai nuoruuskirjassa.
+Puhuja 3: Se päähenkilö minäkertoja
+Puhuja 3: tulee kotiin
+Puhuja 3: ja
 Puhuja 3: astuu olohuoneeseen,
 Puhuja 3: jossa isä makasi sohvalla takapuoli maailmaa päin.
-Puhuja 3: Eikö ole aika hienosti sanottavaa? On hienosti. Eikö kerro aika paljon isästä ja perheestä?
-Puhuja 1: Kyllä.
-Puhuja 1: Kyllä kertoo. Kiinnostava.
-Puhuja 1: Muistatteko,
-Puhuja 1: kun vuonna
-Puhuja 1: tuhat
-Puhuja 1: yhdeksänsataakahdeksankymmentäneljä
-Puhuja 1: neuvostoliittolainen
-Puhuja 1: ohjus syöksyi
-Puhuja 1: Inarijärveen.
-Puhuja 1: Tästähän on leffakin.
-Puhuja 1: Niin, ja siitä päästäänkin tähän mun
-Puhuja 1: suositukseeni.
-Puhuja 1: Tästä on tullut
-Puhuja 1: ensi-iltaan vuonna kaksituhatta
-Puhuja 1: kaksikymmentäneljä eli kohtuullisen tuore Miia Tervon
-Puhuja 1: Ohjaama.
-Puhuja 1: Elokuvan nimi on Ohjus.
-Puhuja 1: Se on fiktiivinen
-Puhuja 1: leffa, mutta siellä kulkee. Mietin, kun katsoin sitä, että
-Puhuja 1: onkohan niin, että ne kaikki sellaiset
-Puhuja 1: asia-asiat
-Puhuja 1: ohjukseen
-Puhuja 1: liittyen
-Puhuja 1: olivat totta, mutta siinä kulkee päällä
-Puhuja 1: tällainen fiktiivinen story
-Puhuja 1: yksinhuoltajaa
-Puhuja 1: äidistä, nuoresta naisesta,
-Puhuja 1: joka on elämässään
-Puhuja 1: hankalassa paikassa ja hän äiti yhtäkkiä paikallislehden
-Puhuja 1: toimittajaksi ja rupeaa tavallaan selvittämään
-Puhuja 1: tätä suuremmalla innolla tätä ohjusasiaa, kuin mitä häneltä varsinaisesti toivotaankaan.
-Puhuja 1: Siinä on
-Puhuja 1: rakkausasioita
-Puhuja 1: ja siinä on kaikenlaisia hahmoja.
-Puhuja 1: Sen elokuvan tunnelma ihan
-Puhuja 1: pelkästään on
-Puhuja 1: täysin hykerryttävä ja sellainen, että siinä on ihana upota sellaisen, olen vuonna kasineille, olen ollut seitsemänvuotias,
-Puhuja 1: että mulla on joku tuntuma siihen, että miltä Suomi näytti ja tuoksui
-Puhuja 1: ja tuntui sinä aikana.
-Puhuja 1: Se vie
-Puhuja 1: siihen
-Puhuja 1: maailmaan
-Puhuja 1: ja
-Puhuja 1: niihin, jotenkin siinä on sellaisia
-Puhuja 1: henkilöhahmoja. Siellä on tietenkin nämä kaikki
-Puhuja 1: parhaat näyttelijät mukana Suomesta,
-Puhuja 1: tunnetuimmat näyttelijät. Pääosassa on Oona Airola, joka on aivan kreisin hyvä. Sitten siellä on Hannu-Pekka Björkmania ja näitä kaikkia
-Puhuja 1: hahmoja. Se on ihan hirveän hauska,
-Puhuja 1: aivan valtava hauska.
-Puhuja 1: Maailman katastrofi
-Puhuja 1: leijuu
-Puhuja 1: yläpuolella,
-Puhuja 1: mutta jengi ei tajua. Ja jengi ei tajua. Ja sitten ne ihmiset, se Hannu-Pekka Björkman esittää
-Puhuja 1: paikallislehden
-Puhuja 1: päätoimittajaa.
-Puhuja 1: Pelkästään, kun edes sekunnin on siinä ruudussa,
-Puhuja 1: niin jotenkin ei meinaa pysyä kasassa, kun
-Puhuja 1: käsittämätön hauska.
-Puhuja 1: Katsokaa tämä elokuva. Olen ärsteet, miksi en ollut aikaisemmin katsonut.
-Puhuja 3: Olen itse asiassa nähnyt se. Se nauratti vain suuresti. Joo, olen myös nähnyt. Ja siinä on kyllä sitä ajankuvaa. Muistan ne karvareuhkat
+Puhuja 2: Eikö ole aika hienosti sanomassa? On hienosti. Eikö kerro aika paljon isästä ja perheestä?
+Puhuja 3: Kyllä.
+Puhuja 2: Kyllä kertoo. Kiinnostava.
+Puhuja 2: Muistatteko,
+Puhuja 2: kun vuonna
+Puhuja 2: tuhat
+Puhuja 2: yhdeksänsataakahdeksankymmentäneljä
+Puhuja 2: Neuvostoliittolainen
+Puhuja 2: ohjus syöksyi
+Puhuja 2: Inarijärveen.
+Puhuja 2: Tästähän on leffakin.
+Puhuja 2: Niin, ja siitä päästäänkin tähän minun
+Puhuja 2: suositukseeni.
+Puhuja 2: Tästä on tehty elokuva,
+Puhuja 2: se on tullut ensi-iltaan, vuonna kaksituhatta
+Puhuja 2: kaksikymmentäneljä
+Puhuja 2: eli kohtuullisen tuore Miia Tervon
+Puhuja 2: Ohjaama.
+Puhuja 2: Elokuvan nimi on Ohjus.
+Puhuja 2: Se on fiktiivinen
+Puhuja 2: leffa, mutta siellä kulkee. Mietin, kun katsoin
+Puhuja 2: sitä, että onkohan niin, että kaikki asia-asiat
+Puhuja 2: siihen ohjukseen
+Puhuja 2: liittyen olivat totta, mutta siinä kulkee päällä tällainen fiktiivinen
+Puhuja 2: stoori
+Puhuja 2: yksinhuoltajaaäidistä,
+Puhuja 2: nuoresta naisesta, joka on elämässään
+Puhuja 2: hankalassa paikassa ja äiti yhtäkkiä paikallislehden
+Puhuja 2: toimittajaksi ja rupeaa tavallaan selvittämään
+Puhuja 2: suuremmalla innolla tätä ohjusasiaa kuin mitä häneltä varsinaisesti toivotaankaan.
+Puhuja 2: Siinä
+Puhuja 2: on rakkausasioita ja
+Puhuja 2: siinä on kaikenlaisia hahmoja.
+Puhuja 2: Se on siis
+Puhuja 2: sen
+Puhuja 2: elokuvan tunnelma ihan pelkästään
+Puhuja 2: on jotenkin täysin
+Puhuja 2: semmoinen hykerryttävä
+Puhuja 2: ja sellainen, että siinä on ihana
+Puhuja 2: upota sellaisen, että mä olen
+Puhuja 2: vuonna kasineille ollut seitsemänvuotias,
+Puhuja 2: että minulla on joku tuntuma siihen, että miltä Suomi näytti
+Puhuja 2: ja tuoksui
+Puhuja 2: ja tuntui sinä aikana. Se vie
+Puhuja 2: siihen
+Puhuja 2: maailmaan
+Puhuja 2: ja niihin,
+Puhuja 2: siinä on
+Puhuja 2: henkilöhahmoja.
+Puhuja 2: Siellä on tietenkin nämä kaikki
+Puhuja 2: parhaat näyttelijät mukana Suomesta,
+Puhuja 2: tunnetuimmat näyttelijät. Pääosassa
+Puhuja 2: on Oona Airola, joka on aivan kreisin hyvä. Sitten siellä on Hannu-Pekka Björkmania ja
+Puhuja 2: näitä kaikkia hahmoja. Se on siis ihan hirveän hauska,
+Puhuja 2: aivan valtava hauska.
+Puhuja 2: Maailman katastrofi
+Puhuja 2: leijuu siinä yläpuolella.
+Puhuja 2: Jengi ei tajua. Ja jengi ei tajua. Ja jengi ei
+Puhuja 2: tajua.
+Puhuja 2: Hannu-Pekka Björkman esittää paikallislehden
+Puhuja 2: päätoimittajaa.
+Puhuja 2: Pelkästään,
+Puhuja 2: kun edes sekunnin on siinä ruudussa,
+Puhuja 2: jotenkin ei meinaa pysyä kasassakin.
+Puhuja 2: Käsittämättömän
+Puhuja 2: hauska. Katsokaa tämä elokuva. Mua ärsyttää, miksi en ollut aikaisemmin katsonut.
+Puhuja 1: Mä olen nähnyt, se
+Puhuja 3: nauratti minuakin suuresti. Joo, olen kanssa nähnyt ja siinä on kyllä sitä ajankuvaa.
+Puhuja 3: Muistan ne karvareuhkat
 Puhuja 3: esimerkit, joilla ukoilla oli päässä.
-Puhuja 1: Ja sitten siinä tietysti, kun aina pitää ottaa joku ajankohtaiskoukku, niin siinähän nyt, kun on nämä drooniasiat
-Puhuja 1: Suomessa kovasti tapetilla ja munkin tiimissä paljon niitä tutkitaan,
-Puhuja 1: siinähän on semmoinen tietty, tämä elokuva puhuttelee
-Puhuja 1: myös.
-Puhuja 1: No, mitäs sinä?
-Puhuja 2: No niin. Mä voisin, kun tämä on ihan mahtavaa, kun olla puoli vuotta pois, niin mulla on vaikka minkälaisia suosituksia voisi olla, mutta lähdetään nyt kuitenkin tärkeimmästä.
-Puhuja 2: Kuten kaikki tämän podin kuulijat
-Puhuja 2: tietävät, niin olen jopa
-Puhuja 2: kiusallisuuteen asti kova Patry Craden Khiffin fani. Patry Crade Khif on siis amerikkalainen
-Puhuja 2: New Yorkre lehden toimittaja ja tietokirjailija
-Puhuja 2: kirjoittanut.
-Puhuja 2: Useita kirjoja minä olen täällä näissä podeissa matkan varrella aina ylistänyt.
-Puhuja 2: Ja
-Puhuja 2: nyt
-Puhuja 2: hänet tuli keväällä, huhtikuussa muistaakseni
-Puhuja 2: uusi kirja nimeltä London Foling
-Puhuja 2: ja se on myös käännetty tai ainakin käännetään, en tiedä onko vielä
-Puhuja 2: suomeksi myynnissä, mutta on käsittääkseni myös tulossa
-Puhuja 2: joko tullut johtaisi ihan näinä aikoina tulossa
-Puhuja 2: suomeksikkin tarjolle.
-Puhuja 2: Ja se on ihan huikea kirja. Siis lyhyestihän
-Puhuja 2: Siis tavallaan
-Puhuja 2: New Yorkissa on tolkuttoman
-Puhuja 2: pitkiä ne jutut ja niitä toimittaja tekee kuukausia yhtä juttuja ja usein vaatii valtavan tutkimustyö. Eli
-Puhuja 2: kirjan tarina on ensin New Yorkissa New Yorkissa, jonka jälkeen hän on useamman vuoden aikana laajentanut tätä tarinaa.
-Puhuja 2: Mutta se yksinkertaisuudessaan kertoo pojasta,
-Puhuja 2: nuori mies,
-Puhuja 2: joka saadakseen tavallaan ehkä
-Puhuja 2: huomiota ja hän on ihan tavallisesta
-Puhuja 2: brittipoika tavallisesta perheestä ja näin.
-Puhuja 2: Ja sitten
-Puhuja 2: saadakseen huomiota
-Puhuja 2: ja myös rahaa, niin hän on krooninen valehtelija, että hän koko ajan esiintyy jonain henkilönä, mitä hän ei ole.
-Puhuja 2: Ja sitten hän sitten jossain vaiheessa rupeaa esiintymään tällaisen venäläisen oligarkin
-Puhuja 2: upporikkaana
-Puhuja 2: poikana,
-Puhuja 2: joka mukamas
-Puhuja 2: hoitaa isänsä satojen miljoonia
-Puhuja 2: varallisuutta ja etsivät hyviä investointikohteita. Hän on siis edelleen koulussa. Mutta sitten hän tutustuvat tai tutustuu tätä kautta semmoiseen
-Puhuja 2: aika hämäräperäiseen
-Puhuja 2: porukkaan, jotka ovat hyvinkin
-Puhuja 2: kiinnostuneita.
-Puhuja 2: Siis olemattoman oligarkki, mitä he eivät tiedä, että se on olematon oligarkki, mutta oligarkkiisan
-Puhuja 2: rahoista.
-Puhuja 2: Ja
-Puhuja 2: Yhtenä päivänä tämä poika sitten hyttysästi tippuu
-Puhuja 2: London Taimesin varrella olevan kerrostalon parvekkeelta ja kuolee.
-Puhuja 2: Sitten tässä on ruvettu selvittämään, että mitä siinä oikein tapahtuu.
-Puhuja 2: Bambässä oli läsnä yksi näistä vähän epäilyttävistä tyypeistä ja siinä kauhean moni asia ei täsmää ja näin. Ja tämä kirja kertoo tavallaan siitä, miten tässä
-Puhuja 2: ei
-Puhuja 2: koskaan ketään tuomittu ja hän ilmeisestikin
-Puhuja 2: hyppäsi itse, mutta mikä sai hänet hyppäämään parvekkeelta,
-Puhuja 2: koska ilmeisesti häntä
-Puhuja 2: todennäköisesti oltiin tappamassa joka tapauksessa, kun näille epäilyteille tyypeille oli selvinnyt, että ei mitään orikarkkirahoja
-Puhuja 2: olekaan ja tätä siinä käydään läpi ja siinä
-Puhuja 2: jotenkin se on koskettava kirja, kerrotaan myös siitä perheen surutyöstä ja se perhe on ollut tässä myös hyvin avoimesti mukana yhteistyössä. Mutta ei mikään kiiltokuva draama, vaan jotenkin hyvin jotenkin minusta kauniisti ja hienosti kuvataan.
-Puhuja 2: Ja koetetaan selvittää tätä mysteeriä, että mitä sille pojalle oikein tapahtuu.
-Puhuja 1: Siis Suomessahan on
-Puhuja 1: vaahdonnut tästä kirjasta.
-Puhuja 1: Ooks sä puhunut tästä kirjasta. Mielestäni se on juuri se kirja, jonka hän toi työpisteeelleni ja edellytti, että luen sen ja suosittelen
-Puhuja 1: sitä podissa ja kehumaan sitä. En tiedä onko se joku kaupallinen yhteistyö.
-Puhuja 1: No niin, vitsi vitsi, mutta sä hoidit tämän.
-Puhuja 1: Kiitos, mutta kyllä mä luen sen siltä.
-Puhuja 2: Joo suosittelen. Hän on huipputoimittaja ja sitten osaa kirjoittaa myös,
-Puhuja 2: vaikka hän ei suoranaisesti kirjoittaa toimittajan työstä, mutta hän kuitenkin kertoo nimenomaan myös toimittajan työstä, kun hän kirjoittaa itsensä mukaan sinne ja miten hän lähtee sitä asiaa selvittämään ja niin edespäin.
-Puhuja 2: Mutta siinä kaikki tältä erää. Kiitos Satu Vasantola.
-Puhuja 2: Kiitos. Ja kiitos Salla Vuorikoski. Kiitos. Minun nimeni on Marko Junkkari, ja äänen, kuvan ja kaiken muun mahtava meille tänään tekee
-Puhuja 2: Helmi Sundström.
-Puhuja 2: Muistakaa lähettää meille palautetta
-Puhuja 2: ja
-Puhuja 2: kuullaan taas ensin mukaan.
+Puhuja 2: Aina pitää ottaa joku ajankohtaiskoukku,
+Puhuja 2: niin siinähän nyt, kun on nämä drooniasiat
+Puhuja 2: Suomessa kovasti tapetilla ja minunkin tiimissäni paljon tutkitaan,
+Puhuja 2: niin siinähän on semmoinen tietty, se jotenkin puhuttelee
+Puhuja 2: tätä tematiikkaa, tämä elokuva myös.
+Puhuja 2: No mitäs sinä?
+Puhuja 1: Noniin,
+Puhuja 1: voisin, taidetaan on ihan mahtavaa, kun olla puoli vuotta pois, niin voin
+Puhuja 1: vaikka minkälaisia suosituksia voisi olla, mutta lähdetään nyt kuitenkin tärkeimmästä.
+Puhuja 1: Kuten kaikki tämän podin kuulijat tietävät, niin olen jopa
+Puhuja 1: kiusallisuuteen asti kova Patric Readen Khiffin fani. Patric Readen Khif on siis amerikkalainen
+Puhuja 1: New Yorkre lehden toimittaja ja tietokirjailija kirjoittanut.
+Puhuja 1: Useita kirjoja minä olen täällä näissä podeissa matkan varrella aina ylistänyt.
+Puhuja 1: Ja
+Puhuja 1: Nyt hänet tuli keväällä, huhtikuussa muistaakseni uusi kirja nimeltä
+Puhuja 1: London Foling
+Puhuja 1: ja se on myös käännetty tai ainakin käännetään, en tiedä onko vielä suomeksi myynnissä, mutta on käsittääkseni myös tulossa joko tullut johtaisi ihan näinä aikoina
+Puhuja 1: tulossa
+Puhuja 1: suomeksikin tarjolle.
+Puhuja 1: Ja se on ihan huikea kirja. Siis lyhyestihän,
+Puhuja 1: tavallaan New Yorkissa on semmoisia tolkuttoman pitkiä ne jutut ja niitä toimittaja
+Puhuja 1: tekee kuukausia yhtä juttuja ja usein vaatii valtavan tutkimustyö. Eli tavallaan
+Puhuja 1: kirjan tarina on ensin ilmestynyt New Yorkissa,
+Puhuja 1: jonka jälkeen hän on useamman vuoden aikana laajentanut tätä tarinaa. Mutta
+Puhuja 1: Se yksinkertaisuudessaan
+Puhuja 1: kertoo sellaisesta
+Puhuja 1: pojasta, nuori mies,
+Puhuja 1: joka saadakseen tavallaan ehkä huomiota ja myös rahaa. Hän on ihan tavallisesta
+Puhuja 1: brittipoika tavallisesta perheestä ja näin.
+Puhuja 1: Ja sitten saadakseen
+Puhuja 1: huomiota
+Puhuja 1: ja
+Puhuja 1: myös rahaa, niin hän
+Puhuja 1: on krooninen
+Puhuja 1: valehtelija, että hän koko ajan esiintyy jonain henkilönä, mitä hän ei ole.
+Puhuja 1: Sitten hän sitten jossain vaiheessa rupeaa esiintymään tällaisen venäläisen oligarkin
+Puhuja 1: upporikkaana
+Puhuja 1: poikana,
+Puhuja 1: joka
+Puhuja 1: mukamas
+Puhuja 1: hoitaa isänsä
+Puhuja 1: satojen miljoonia
+Puhuja 1: varallisuutta ja etsivät hyviä investointikohteita ja hän on siis edelleen koulussa. Mutta sitten hän ystävystyy
+Puhuja 1: tai tutustuu tätä kautta sellaiseen
+Puhuja 1: aika hämäräperäiseen
+Puhuja 1: porukkaan, jotka ovat hyvin
+Puhuja 1: kiinnostuneita.
+Puhuja 1: Siis olemattoman oligarkki, mitä hyvät tiedät, että se on olematon oligarkki-isän, mutta oligarkki-isän
+Puhuja 1: rahoista! Yhtenä päivänä tämä poika sitten mystisesti tippuu
+Puhuja 1: Tuondon Dameesin varrella olevan kerrostalon
+Puhuja 1: parvekkel ja kuolee.
+Puhuja 1: Ja sitten tässä on ruvettu selvittämään, että mitä siinä oikein tapahtui.
+Puhuja 1: Vain kämpässä oli läsnä yksi näistä epäilyttävistä
+Puhuja 1: tyypeistä ja siinä kauhean moni asia ei täsmää ja näin. Ja tämä kirja kertoo tavallaan siitä, miten tässä
+Puhuja 1: sitä ei koskaan ketään tuomittu ja hän ilmeisestikin
+Puhuja 1: hyppäsi itse, mutta mikä sai hänet hyppäämään parvekkeelta,
+Puhuja 1: koska ilmeisesti
+Puhuja 1: häntä todennäköisesti oltiin tappamassa joka tapauksessa, kun näille
+Puhuja 1: epäilyttäjälle tyypeille oli selvinnyt, että ei mitään orikarkkirahoja
+Puhuja 1: olekaan. Ja tätä siinä käydään läpi ja siinä
+Puhuja 1: se on koskettava kirja, siinä kerrotaan myös sitä perheen surutyöstä ja perhe on ollut
+Puhuja 1: myös hyvin avoimesti mukana yhteistyössä. Mutta ei mikään kiiltokuva draama, vaan jotenkin minusta
+Puhuja 1: kauniisti
+Puhuja 1: ja hienosti kuvataan. Ja sitten koitetaan selvittää tätä mysteeriä, että mitä sille pojalle oikein tapahtuu. Siis Suomi
+Puhuja 2: on vaahdonnut tästä kirjasta.
+Puhuja 2: Minun
+Puhuja 2: mielestä se on juuri se kirja, jonka hän toi työpisteeelleni
+Puhuja 2: ja edellytti, että luen sen ja suosittelen sitä täällä Podissa ja kehun sitä. En tiedä onko se joku kaupallinen yhteistyö.
+Puhuja 2: No niin, vitsi vitsi, mutta sä hoidit tämän. Mä hoidit tämän. Kiitos, mutta kyllä mä luen sen siltä. Joo suosittelen.
+Puhuja 1: Hän on huipputoimittaja ja sitten osaa kirjoittaa myös,
+Puhuja 1: vaikka hän ei suoraan näistä kirjoita toimittajan työstä, mutta se kuitenkin kertoo nimenomaan myös toimittajan työstä, kun hän kirjoittaa itsensä mukaan sinne ja miten hän lähtee sitä asiaa selvittämään ja edes päin.
+Puhuja 1: Mutta siinä kaikki tältä erää. Kiitos Satu Vasantola.
+Puhuja 1: Kiitos. Ja kiitos Salla Vuorikoski. Kiitos. Minun nimeni on Marko Junkkari, äänen,
+Puhuja 1: kuvan ja kaiken muun mahtava meille tänään tekee
+Puhuja 1: Helmi Sundström.
+Puhuja 1: Muistakaa lähettää meille palautetta.
+Puhuja 1: Kuullaan taas ensin
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: Oon Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkoonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a, kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -12,9 +12,9 @@ Puhuja 0: Kanssani täällä sanatalossa ovat kesätiimin tutut tähdet. Nimitt�
 Puhuja 1: Viikon siellä,
 Puhuja 1: missä
 Puhuja 1: Johnnilta pitää syödä.
-Puhuja 2: Millaista siellä oli 70-luvulla. Mikä on sun suotekkiasia
+Puhuja 1: Millaista siellä oli 70-luvulla. Mikä on sun suotekkiasia
 Puhuja 2: yYA-ajassa?
-Puhuja 1: Kyllä mä tykkään aika tällaisesta gekkosmaisuudesta
+Puhuja 1: Kyllä mä tykkään tällaisesta gekkosmaisuudesta
 Puhuja 1: aika paljon ja kaikista saunahommista.
 Puhuja 1: Saunakokouksista.
 Puhuja 1: Siitä, kun kutsutaan
@@ -31,162 +31,343 @@ Puhuja 2: Helsingin
 Puhuja 2: hengen rakastava ja iloinen vapputunnelma.
 Puhuja 2: Todellisuudessa
 Puhuja 2: ei välttämättä voi, kuten Venäjän delegaatiostakin
-Puhuja 2: tuolla huomisessa kokouksessa nähdään. Rasmus Elmiä, mitä olen myös teidän
-Puhuja 2: faranvaltsiklaisella.
-Puhuja 1: Kaikki on vaan vaikutteita.
-Puhuja 2: Tyhjentä
-Puhuja 2: alla.
-Puhuja 0: Kiitos, hyvä Espoon tyyliäihe.
-Puhuja 0: Kun olette siellä, jonottamassa Espoon viinijuhlilla
-Puhuja 0: viiniä pellavapaita päällä tai ihan mikä tahansa vaati oikeastaan päällä, riippuen mistä päin Spaita olet jotain. Markun ympäri paitapaita päällä. Ne on ehkä limitedition.
-Puhuja 0: Niitä ehkä kuuntelijalla ei ole, mutta teillä voi olla. Teillä on se Markun ympäripaita ja että ensi vuonna Espoon viiniulilla, niin mistä siinä veriselle espoolaiselle juttelet siinä jonossa? Miltä sanoo John?
-Puhuja 2: Mä voisin suositella tätä kirjaa. Mä en ole tehnyt tätä aikaisemmin, mä oon vaan suositellut huonoja asioita.
+Puhuja 2: tuolla huomisessa kokouksessa nähdään. Rasmus Elämia, mitä tämä on myös teidän viimeinen päivänne Helsingin Sanomien Päivälehden
+Puhuja 2: toimituksessa.
+Puhuja 2: Millaisia tunteita se teissä herättää? Kesä
+Puhuja 0: on kuuma, mukavaa. Sä et ole nyt lämpimät, niin nyt on kiva lähteä kesälaitumille.
+Puhuja 0: Mun mielestä rapsaa on kiva tehdä. Kiitos siitä teille jo tässä vaiheessa. Kiitos, on ollut tosi kivaa. Kuin myös. Kyllä. Olen ollut ihan pihalla, mutta onneksi olette paikanneet, mitä siellä tapahtuu. Editoin ja julkaisevat ja otsikoin.
+Puhuja 0: Te tietysti substanssistakin, niin se on tehnyt huomattavasti helpompaa. Kyllä.
+Puhuja 0: Tällä viikolla
+Puhuja 0: tehdään vielä ihan kunnon jakso koitetaan pysyä asiassa
+Puhuja 0: sillä asiat ovat
+Puhuja 0: hyvinkin
+Puhuja 0: vakavia.
+Puhuja 0: Tällä viikolla keskustelemme ensimmäisenä
+Puhuja 0: Ukrainaan lähtevistä vapaaehtoistajoista,
+Puhuja 0: jota siis yhä lähtee Suomesta
+Puhuja 0: Ukrainaan. Mikä vaikutus heillä on sotaan ja toisaalta
+Puhuja 0: yhteiskuntaan Suomessa puhutaan siitä.
+Puhuja 0: Lisäksi keskustellaan suomalaisten uimataidosta.
+Puhuja 0: Pelkästään viime viikolla hukkui kaksitoista ihmistä heidän joukossaan sekä aikuisia että lapsia.
+Puhuja 0: Mistä se saattaa johtua onko suomalaisten uimataitoja
+Puhuja 0: laskussa, puhutaan siitä.
+Puhuja 0: Kolmanneksi puhutaan vielä Espoo-tyylistä
+Puhuja 0: ja kesätyylistä
+Puhuja 0: muutenkin.
+Puhuja 0: Poddin espoolaiset ovat innoissaan siitä mikä on Espoon tyyli.
+Puhuja 0: Espoon viinijuhliilta tehdyn jutun perusteella espoolaiset ovat konservatiivisia
+Puhuja 0: pukeutujia.
+Puhuja 0: Mitä ihmettä nyt taas puhutaan siitä vielä.
+Puhuja 0: Lopuksi tuttuun tapaan keskustelun aiheita pitkien epämukavien hiljaisuuden varaan.
+Puhuja 0: Suomalaisia lähtee edelleen vapaaehtoistaistelijaksi
+Puhuja 0: Ukrainaan.
+Puhuja 0: Hovas kertoi lauantaina Ukrainaan pian lähtevästä 21-vuotiaasta
+Puhuja 0: Arttu Seirasta.
+Puhuja 0: Hän aikoo lähteä Ukrainaan palveluaan ensin lyhyen aikaa Ranskan muukalaislegioonassa.
+Puhuja 0: Vapaaehtoistaistelijoita
+Puhuja 0: uskotaan lähteneen Suomesta Ukrainaan sodan aikana useita kymmeniä tai satoja,
+Puhuja 0: mutta virallista tilastoa ei kukaan ainakaan julkisesti pidä. Suomen ulkoministeriö ei suosittele sotaan lähtemistä.
+Puhuja 0: Vapaaehtoistaistelijoiden
+Puhuja 0: motiivit ja roolit sodassa vaihtelevat, mutta on ilman muuta hyvin mielenkiintoinen ilmiö, kun Suomesta ja muualta Ukrainan ulkopuolelta nuoria osallistuu sotaan.
+Puhuja 0: Hanna teit Artun haastattelun, kerro vähän siitä.
+Puhuja 1: Joo, oli tosi mielenkiintoista
+Puhuja 1: tehdä haastattelu Artun kanssa,
+Puhuja 1: Koska tämä oli ainakin minulle henkilökohtaisesti ensimmäinen
+Puhuja 1: kerta, että puhun jonkun kanssa, joka on konkreettisesti lähiaikoina
+Puhuja 1: lähdössä sotaan.
+Puhuja 1: Oli todella mielenkiintoista
+Puhuja 1: kuulla siitä, millaisia ajatukset hänellä on.
+Puhuja 1: Arttuhan
+Puhuja 1: kertoi esimerkiksi,
+Puhuja 1: että hän haluaisi sotilasuran
+Puhuja 1: itselleen ja oli muun muassa ollut Ranskan muukalaislegioonassa
+Puhuja 1: muutaman kuukauden.
+Puhuja 1: Ja sitten olen käynyt Suomessa armeijaan, että tämä oli hänen taustansa.
+Puhuja 1: Ja nyt oli
+Puhuja 1: piakkoin lähdössä kohti Ukrainaa.
+Puhuja 1: Kyllä paljon
+Puhuja 1: mietin sitä
+Puhuja 1: siinä, että ulkoministeriö on sanonut, että ei edistä tai ei suosittele, että ihmiset
+Puhuja 1: lähtee Ukrainaan vapaaehtoistjoiksi.
+Puhuja 2: Niin kiinnostais ehdottomasti. Joo, ja mietin helmi, kun puhuit siitä, että
+Puhuja 2: ei ole saaneet kuulla suoralahkeista farkkuja ilosanomasta,
+Puhuja 2: niin sitten pukeutuu...
+Puhuja 2: No ei nyt välttämättä pillifarkkuihin,
+Puhuja 2: mutta kapeisiin farkkuihin.
+Puhuja 2: Kaikkien vaatteiden pitää olla mahdollisimman formfiding.
+Puhuja 2: Kun taas
+Puhuja 2: nuoret aikuiset pukeutuu
+Puhuja 2: suoralähkeisiin
+Puhuja 2: farkkuihin, jopa leveälahkeisiin
+Puhuja 2: farkkuihin. Se on semmonen paluu kasarille ysärille, pukeudutaan
+Puhuja 2: lösiempiin paitoihin.
+Puhuja 2: Muutenkin vaatteissa saa olla semmosta omaa muotoa nykyään paljon enemmän.
+Puhuja 2: Vaikka sulla on selkeästi
+Puhuja 2: asia sun pukeutumisessa,
+Puhuja 2: joka
+Puhuja 3: osoittaa sun kuuluvan tiettyyn ryhmään. Mutta sitä olin kans just sanomassa,
+Puhuja 3: että en ole mitenkään dissaamassa
+Puhuja 3: mitään tekemistä, vaan tämähän antaa mun kaltaisille ihmisille just mahdollisuuden avaa ovi, katsoa mitä siellä tapahtuu ja ottaa kaapissa about senmistään vaatteet.
+Puhuja 3: Pakko tälleen vasta itsensä ilmaisusta
+Puhuja 3: pakko heittää havainto
+Puhuja 3: vielä.
+Puhuja 3: Kun olin Kankaanpäässä
+Puhuja 3: Honkajoen markkinoilla viime viikolla. Kuten
+Puhuja 3: kaikki villiä nuoruuttaan
+Puhuja 3: elävät ihmiset.
+Puhuja 3: Siellä siis
+Puhuja 3: oli liikkeellä mies,
+Puhuja 3: jonka
+Puhuja 3: en muista tarkkaan mikä hänen
+Puhuja 3: paitansa teksti oli. Mutta se oli hyvin
+Puhuja 3: mallia. En ole lääkäri, mutta voin vilkasta.
+Puhuja 3: Ono.
+Puhuja 3: En ole pitkään
+Puhuja 3: aikaan nähnyt siis noin
+Puhuja 3: jäätävää
+Puhuja 3: meemipaitaa
+Puhuja 3: ihmisellä päällä.
+Puhuja 3: Arvostin sitä hetkeä, kun olin silleen, että mitäköhän tämä kertoo nyt hänestä? Miten hän tuo persoonansa iltaan Irmia. Siis ihan ok. Tämän
+Puhuja 3: avulla? Tää on jäänyt hyvin mulla
+Puhuja 3: ainakin paitsi jo nyt, että en oo nähnyt pitkään aikaan jotain näin tyylikästä. Eikö mun kaveriin lähde, että just kuvia sen kummiserästään, jolla oli joku
+Puhuja 2: samanlainen tosi pieni paita ja hän myös käyttäytyy
+Puhuja 2: äärimmäisen setäisesti.
+Puhuja 2: Kyllä siis pukeutuminen
+Puhuja 2: kertoo meille tosi paljon ihmisestä.
+Puhuja 2: Mä siteeraan nyt vapaasti tällaista sosiaalisen median persoonaa
+Puhuja 2: Dery Cay, joka kirjoittaa tosi paljon
+Puhuja 2: miesten pukeutumisesta. Ja ensinnäkin tietty muotia tyyli on kaksi hyvin eri asiaa. Muoti on trendikästä tyyli on usein
+Puhuja 2: ajatonta. Ja siis se usein vaan liittyy
+Puhuja 2: pukeutumiseen.
+Puhuja 2: Mutta myös tähän SUOMI-juttuun
+Puhuja 2: liittyen se, että tai siis mun suusta puhumaan suuri juttu liittyen se, että... Setä kerto. Se, että pukeutuminenhan on
+Puhuja 2: jaettu kulttuurinen kieli. Ja me kaikki ymmärretään suunnilleen, mitkä asiat näyttää hyvältä sen takia, koska meillä on sellainen kulttuurinen ymmärrys
+Puhuja 2: siitä, mitkä asiat sopii yhteen.
+Puhuja 2: Esimerkiksi, jos sulla
+Puhuja 2: on
+Puhuja 2: lökkäverkkarit
+Puhuja 2: ja kauluspaita ja puvun takki niin me kaikki ymmärrämme sisäisesti se, että nämä nyt ehkä cashää keskenään
+Puhuja 2: Jolloin sitten
+Puhuja 2: Mutta ihmiset viestii paljon
+Puhuja 2: itsestään pukeutumellaan,
+Puhuja 2: halus ne tai ei, oli sitten kyse Zomerfarkuista
+Puhuja 2: tai setäpaidoista.
+Puhuja 2: Tähän liittyen mua kiinnostaisiko kuulla, miten te kuvailisit teidän omaa tyyliä tämän Marko Junkkaripaidan
+Puhuja 2: ulkopuolella? Mä voin sanoa
+Puhuja 2: löytäneeni bootsit ja farkut
+Puhuja 2: sekä kaikki muut kivat amerikka-asiat
+Puhuja 2: itselleni tässä viime vuosina. Ja leikkisästi kutsun itseäni
+Puhuja 2: New
+Puhuja 2: England cowboy
+Puhuja 2: tyyliin siksi,
+Puhuja 2: koska minua on myös kutsuttu tällaisen
+Puhuja 2: Halmark leffan könsikkääksi
+Puhuja 2: ystävien toimesta
+Puhuja 2: pilkallaan. Tämä ei ole ollut kehu.
+Puhuja 1: Mutta aika synkkyys kuva.
+Puhuja 1: Jos
+Puhuja 1: kuvataan Halmark-elokuvan.
+Puhuja 1: Eli Halmark tekee semmoisia...
+Puhuja 1: Hei, jotka eivät tiedä.
+Puhuja 1: Siis
+Puhuja 1: sellaisia ihania asuja, että kuvitelkaa sellainen jouluiisa
+Puhuja 1: ympäristö, missä tulee mies
+Puhuja 1: ja yleensä nainen.
+Puhuja 1: Ja
+Puhuja 1: sitten sillä miehellä on ihana
+Puhuja 1: paita. Ja sitten se on silleen, että...
+Puhuja 1: Urani
+Puhuja 1: nen-fanelit.
+Puhuja 1: Juu, siinä on se surullinen paita. Nainen on sitten uraninen
+Puhuja 3: ja
+Puhuja 1: naise on sille. Nainen muutti maalle. Nainen muutti maalle. Nainen muutti maalle. Nainen muutti
+Puhuja 1: tulee. Jolloin on jouluuusifarmi.
+Puhuja 2: Ihan on joulukuussifarmi. Ihan auttaa lapsia joka päivä.
+Puhuja 1: Mies on ihana ja ne haluaa olla aina yhdessä.
+Puhuja 1: Ja sitten niillä tulee joku ongelma, kuten että auto hajoaa ja se aina luulee, että mies ei enää koskaan halua olla sen kanssa.
+Puhuja 1: Mutta sitten kuitenkin se pääsee juuri ajoissa perille ja voittaa sen kakkukilpailun.
+Puhuja 1: Flanelimiehen
+Puhuja 1: ja
+Puhuja 3: itseäni mukavuuden haluiseksi
+Puhuja 0: voi olla
+Puhuja 3: satoja paitoja. Kauheaa. Onhan kaikki kirpparitkin täynnä tosi absurdeja
+Puhuja 3: markkinointipaitoja
+Puhuja 3: ja kaikkia tällaisia, jotka on silleen, mihin tilaisuuteen nämä on ikinä tehty. Meinasin kerran taas semmoisen päälle, missä lukee olen lääkäri.
+Puhuja 0: Mä
+Puhuja 0: katsoin vanhoja kuvia, niin isoisäni on vanhassa kuvassa,
+Puhuja 1: ja työtyyli.
+Puhuja 1: Eli mä en ole ikinä ollut silleen niin tarkka, että pakko olla vaikka tietyn tyyliset vaatteet. Mutta kyllä mä nyt tykkään. Mä teen itse aika paljon vaatteita, niin varmasti se myös vaikuttaa tähän asiaan.
+Puhuja 1: Itse teen semmoisia kuin teen. Mutta mun röntötyyli on sellainen, että mulla on esimerkiksi ympäri vuoden aina, kun menen Tampereilta kotoa, mun vieressä on ruokakauppa.
+Puhuja 1: Käyn siellä tosi usein.
+Puhuja 1: Menen aina sinne, että mulla on sandaalit
+Puhuja 1: ja villasukat ja sitten yöshortsit
+Puhuja 1: ja villapaita ja usein vielä toppatakki
+Puhuja 1: siinä. Tämä on mulla tosi usein tämä tyyli.
+Puhuja 1: Käyn
+Puhuja 1: siellä joka päivä, kun kolme kertaa
+Puhuja 1: ja ne aina näkee mut tässä asussa. Musta tuntuu, että tämä on kaikista yleisin tyylimiä mulla on.
+Puhuja 1: Toinen varmaan kaikki kuuntelijat ympäri Suomen voi olla. Toi on myös mökkifitti ja se on ihan kaikkialla kotifitti.
+Puhuja 1: Oon.
+Puhuja 2: Kyllä. Koska
+Puhuja 2: et
+Puhuja 2: tavallaan mieti sun tyyliä toivottavasti hirveästi, kun käyt lähikaupassa. Jos mietit, niin
+Puhuja 0: että
+Puhuja 2: Tyhjätä lobbita.
+Puhuja 0: Hyvä Espoon tyyliäihe.
+Puhuja 0: Kun olette siellä jonottamassa Espoon viiniulilla
+Puhuja 0: viiniä ja pellavapaita päällä tai ihan mikä tahansa vaatii oikeastaan päällä, riippuen mistä päin Espoota olet. Tai Marko Junkkaripaita päällä. Ne on ehkä limiteditiation, niitä ehkä kuuntelijalla ei ole, mutta teillä
+Puhuja 0: on se Marko Junkkaripaita, että ensi vuonna Espoon viinihoilla, niin mistä, että siinä veriselle espoolaiselle juttelisit siinä
+Puhuja 0: jonossa? Nil sanoo John?
+Puhuja 2: Mä voisin suositella tällaista kirjaa. Mä en ole tehnyt tätä aikaisemmin, mä oon vaan suositellut huonoja asioita.
 Puhuja 2: Mutta mikäli Ukraina kiinnostaa ja Ukrainan sota ja varsinkin
 Puhuja 2: ukrainalaiset itsessään,
-Puhuja 2: Suosittelen jo Jungerin draivia tätä draivia,
-Puhuja 2: mutta
-Puhuja 2: Toma Match-nimisen
+Puhuja 2: Mä suosittelen Jungerin jo tätä draivia,
+Puhuja 2: mutta tällaisen Toma Match-nimisen
 Puhuja 2: journalistin,
 Puhuja 2: joka on viettänyt hyvin pitkiä aikoja Ukrainassa,
 Puhuja 2: raportoinut
 Puhuja 2: eturintamastakin,
-Puhuja 2: olen puhunut Mucchin kanssa sodan aikana useasti,
+Puhuja 2: olen puhunut Muskin kanssa sodan aikana useasti,
 Puhuja 2: niin hän julkaisi
 Puhuja 2: keväällä kirjan
 Puhuja 2: Dogsov
-Puhuja 2: Marjut, jossa hän on haastatellut monia ukrainalaisia tuttavia ja on kirjoittanut omasta kokemuksestaan
-Puhuja 2: journalistina Ukrainassa, mutta
-Puhuja 2: erityisesti ukrainalaisten
-Puhuja 2: sodan
+Puhuja 2: Marjupoli, jossa hän on haastatellut monia ukrainalaisia tuttavia ja on kirjoittanut
+Puhuja 2: omasta kokemuksestaan,
+Puhuja 2: journalistinen
+Puhuja 2: Ukrainassa, mutta erityisesti
+Puhuja 2: näistä
+Puhuja 2: ukrainalaisista sodan
 Puhuja 2: keskellä
-Puhuja 2: ja
-Puhuja 2: sotasukupolvesta.
-Puhuja 2: Se
-Puhuja 2: on
-Puhuja 2: erinomainen
-Puhuja 2: kirja, erinomainen kuvaus sekä
-Puhuja 2: sotajournalisti
-Puhuja 2: elämästä Ukrainassa,
+Puhuja 0: ja
+Puhuja 2: siitä sotasukupolvesta.
+Puhuja 2: Se on
+Puhuja 2: erinomainen kirja, erinomainen kuvaus
+Puhuja 2: sekä sotajournalisti elämästä Ukrainassa,
 Puhuja 2: mutta myös
-Puhuja 2: tästä ukrainalaisesta
-Puhuja 2: itsestään ja siis siitä ukrainalaisen
-Puhuja 2: kansan mielenmaisemasta.
-Puhuja 2: Voin suositella
-Puhuja 2: täysin rinnoin tätä kirjaa. Sen verran pitää paljastaa,
-Puhuja 2: että
+Puhuja 2: tästä
+Puhuja 2: ukrainalaisesta itsestään ja siis siitä ukrainalaisten
+Puhuja 2: kansan mielenmaisemasta
+Puhuja 2: siellä. Mä voin suositella
+Puhuja 2: täysin rinnoin tätä kirjaa. Sen verran pitää toki paljastaa, että
 Puhuja 2: tämä muts lähetti minulle siitä ennakkokappaleen siksi, koska autojen häntä
 Puhuja 2: muutamien analyysiosioiden
 Puhuja 2: avaamisessa
-Puhuja 2: kirjoitusprosessin
-Puhuja 2: aikana,
+Puhuja 2: kirjoitusprosessin aikana,
 Puhuja 2: mutta siitä huolimatta kirja on aidosti mielestäni erinomainen.
 Puhuja 0: Mitä helmiä?
 Puhuja 3: Mä suosittelisin.
-Puhuja 3: Olin siis muutama viikko sitten polttareissa
-Puhuja 3: ja nää oli sen verran hyvin perinteiset
+Puhuja 3: Olin siis muutama viikko sitten polttareissa ja nää oli sen verran hyvin
+Puhuja 3: perinteiset
 Puhuja 3: naisten porukan polttarit. Me mentiin Ilmajoogaan.
-Puhuja 3: En tiedä oletteko kokeilleet. Ajattelin, että se olisi mahdollisimman kaukana mun mukavuusalueesta,
-Puhuja 3: mutta pakko suositella, koska se oli siis ihan todella hauskaa. En pidä itseäni minä en niin kuin joogina, ehkä enemmän
-Puhuja 3: rautakankena.
-Puhuja 3: Silti sain kokea onnistumisen
+Puhuja 3: Wou! En tiedä oletteko kokeillut. Mä ajattelin, että se olisi mahdollisimman kaukana mun mukavuusalueesta,
+Puhuja 3: mutta pakko suositella, koska se oli siis ihan todella hauskaa. Mä en pidä itseäni. Minä en niin kuin joogina, en ehkä enemmän
+Puhuja 3: rautakankera, mutta silti sain kokea tällaisia onnistumisen
 Puhuja 3: tunteita.
-Puhuja 3: Siis ilmajooga Heli, jotka eivät tiedä on siis tehdään tällaisia
-Puhuja 3: joogaliikkeitä,
-Puhuja 3: mutta siis katosta
-Puhuja 3: roikkuu käytännössä
-Puhuja 3: lakana.
-Puhuja 3: Välillä
-Puhuja 3: istut siinä välissä, sä hyödynnät sitä muuten, kun teet joogaliikkeitä.
-Puhuja 3: Siis oli todella outoa. Pelkäsin kuollakseni ja ekan neljän minuutin ajan, mutta sen jälkeen se oli ihan superhauskaa.
-Puhuja 3: Ainoa minkä
-Puhuja 3: sanoisin siinä, että meillä tämä ohjaajakin varoitti siitä, että jos liikaa heilut, niin saattaa tulla vähän matkapahoinvointia
-Puhuja 3: tän tunnin jälkeen.
-Puhuja 3: Ajattelin silleen, että no okei, mulla ei ole yleensä matkapahoinvointi mikään juttu. Mutta sitten olin sen verran voittamisen halunnut, että halusin kokeilla kaikkia näitä temppuja, mitä hän meille näytti.
-Puhuja 3: Koin sen kärsimyksen sen jälkeen.
-Puhuja 3: Jos se tekee oman tason mukaan, ja järki päässä, niin se oli ihan superhauskaa.
-Puhuja 3: Lämmin suositus, jos teillä on ikinä mahdollisuus kokeilla ilmanjoogaa. Hyvä suositus.
-Puhuja 1: Mites Hanna? Mulla on viimeisenä kunniaksi kolme pikkusuositusta.
-Puhuja 0: Kolme pointtia.
-Puhuja 1: Kolme pointtia. Joo, kolme pointtia.
-Puhuja 1: Ensimmäisenä kotikaupunkini
-Puhuja 1: Tampere, vaikka Espoosta on puhuttukin runsain määrin. Mutta siellä ihmiset eivät kävele päin kaduilla, toisin kuin Helsingissä. Täällä aina
-Puhuja 1: aamuisin, kun menen
-Puhuja 1: jonnekin, ihmiset kävelevät päin ja se on stressaavaa. Mutta siellä ei mielestäni tällaista tapahdu.
-Puhuja 1: Sitten toinen suositus
-Puhuja 1: festareille. Jos ikinä menette festareille, niin jonkun rendom tyypin olkapäälle meneminen.
+Puhuja 3: Ilmajooga heille, jotka eivät tiedä on siis tehdään
+Puhuja 3: tällaisia joogaliikkeitä,
+Puhuja 3: mutta siis katosta roikkuu
+Puhuja 3: käytännössä lakana.
+Puhuja 3: Välillä istut siinä välillä, hyödynnät sitä muuten kun teet joogaliikkeitä.
+Puhuja 3: Siis oli todella outoa. Pelkäsin kuollakseni ekan neljän minuutin ajan, mutta sen jälkeen se oli ihan superhauskaa.
+Puhuja 3: Ainoa
+Puhuja 3: minkä sanoisin siinä, että meillä ohjaajakin
+Puhuja 3: varoitti siitä, että jos liikaa heilut, niin saattaa tulla vähän matkapahoinvointia
+Puhuja 3: tämän tunnin jälkeen.
+Puhuja 3: Ajattelin, että okei, mulla ei ole yleensä matkapahoinvointi mikään juttu.
+Puhuja 3: Sen
+Puhuja 3: jälkeen.
+Puhuja 3: Jos se tekee oman tason mukaan ja järki päässä, niin se oli ihan super hauskaa. Lämmin suositus, jos teillä on ikinä mahdollisuus kokeva Ilmajoogaa.
+Puhuja 3: Hyvä
+Puhuja 0: suositus. Entä Hanna? Minulla on
+Puhuja 1: viimeisenä jakson
+Puhuja 1: kunniaksi kolme pikkusuositusta.
+Puhuja 1: Kolme pointtia. Kolme pointtia. Kolme pointtia, niin kuin Stubb.
+Puhuja 1: Eli ekana kotikaupunkini
+Puhuja 1: Tampere, vaikka Espoosta
+Puhuja 1: on puhuttukin runsain määrin.
+Puhuja 1: Siellä ihmiset eivät kävele päin kaduilla, toisin kuin Helsingissä. Täällä aina aamuisin,
+Puhuja 1: kun menen
+Puhuja 1: jonnekin, niin ihmiset kävelevät päin ja se on stressaavaa.
+Puhuja 1: Mutta siellä ei mielestäni tällaista tapahdu. Sitten toinen suositus
+Puhuja 1: festareille. Jos ikinä menette festareille, niin jonkun random tyypin olkapäälle meneminen.
 Puhuja 1: Olen joskus ehkä
 Puhuja 1: 18-vuotiaana
 Puhuja 1: mennyt.
-Puhuja 1: Se oli hirveä kokemus. Se oli tosi stressaavaa ja jännittävää ja kiusallista, mutta se on muistona tosi kaunis.
+Puhuja 1: Se oli hirveä kokemus. Se oli tosi stressaavaa,
+Puhuja 1: jännittävää ja kiusallista, mutta se on muistona tosi
+Puhuja 1: kaunis.
 Puhuja 1: Muistan, että sieltä näki hyvin.
-Puhuja 1: Se oli vähän
+Puhuja 1: Se oli vähän,
 Puhuja 3: saattaa tulla yhden niskamurtumisen
-Puhuja 1: kanssa. Se oli vähän. Ja muiden
-Puhuja 1: rajoitteiden kanssa sen jälkeen. Mutta se voi silti olla ihan hyvä. Mutta viimeinen on kaikista tärkein suositus. Eli
+Puhuja 3: kanssa murtumisen
+Puhuja 1: ja muiden
+Puhuja 1: rajoitteiden kanssa sen jälkeen. Mutta se voi silti olla ihan hyvä.
+Puhuja 1: Mutta viimeinen on kaikista tärkein suositus. Eli
 Puhuja 1: itsemyötätunto.
 Puhuja 1: Olkaa ihmiset itsemyötätuntoisia.
 Puhuja 1: Muistakaa olla armollisia itsellänne.
 Puhuja 1: Vaikka välillä paska osuu tuulettimeen
 Puhuja 1: ja elämä ei ole aina niin kivaa.
 Puhuja 1: Tulee
-Puhuja 1: erilaisia kohtaamisia ja vaikeita hetkiä, niin olkaa myötätuntoisia itsellenne.
+Puhuja 1: erilaisia kohtaamisia ja vaikeita hetkiä, niin olkaa
+Puhuja 1: myötätuntoisia itsellenne.
 Puhuja 1: Tätä me toistelemme itsellemme tämän budjetin jälkeen.
-Puhuja 1: Kyllä. Kaikkien niiden vihapostien jälkeen. Mitä Rasmus? Mulla
-Puhuja 2: on
-Puhuja 0: kaksi tai kaksipolisopastusta.
+Puhuja 1: Kyllä.
+Puhuja 1: Kaikkien niiden vihapostien jälkeen. Mitä Rasmus?
+Puhuja 0: Mulla
+Puhuja 0: on
+Puhuja 0: kaksi tai kaksi bonus-rahoitusta.
 Puhuja 0: Olen
-Puhuja 0: viime keväänä perehtynyt tällaiseen teokseen kuin Markus Kantolan Jakautunut kansakunta.
-Puhuja 0: Se on siis kirja, jonka ala-otsikko on Yhdysvaltain poliittinen historia Richard Mixonista Barack Obamaan.
-Puhuja 0: Erinomainen yleistajuinen
-Puhuja 0: yleiskielinen
+Puhuja 0: viime keväänä perehtynyt tänne sen teokseen kuin Markus Kantolan Jakautunut kansakunta.
+Puhuja 0: Se on siis kirja, jonka ala-otsikko on Yhdysvaltojen poliittinen historia Richard Mixonista Barack Obaman.
+Puhuja 0: Erinomainen
+Puhuja 0: yleistajuinen yleiskielinen
 Puhuja 0: jenkkipoliittinen historia.
-Puhuja 0: Suosittelen sitä.
-Puhuja 0: Historia
-Puhuja 0: nauhoitushetkellä
-Puhuja 0: Gaudeamuksessa verkkokaupassa viisi euroa.
-Puhuja 0: Toisena
-Puhuja 0: suosittelen myös kirjaa, mutta aasinsiltana,
-Puhuja 0: jota luin keväällä,
-Puhuja 0: kun olimme
-Puhuja 0: kavereiden kanssa resursussa Sarajevassa,
-Puhuja 0: ensinnäkin välisuositus matka Sarajevoon.
+Puhuja 0: Matka Sarajevoon.
 Puhuja 0: Lentäkää
-Puhuja 0: halvalla Drupronnikkiin, mutta älkää jäkä sinne, koska siellä on Himskatin kallista, vaan ottakaa sieltä bussi ja juna.
-Puhuja 0: Kuvankaunin Mosterin läpi Sarajevoon erinomainen
+Puhuja 0: halvalla Drupronnikkiin, mutta älkää jäkä sinne, koska siellä on Himskatin kallista, vaan ottakaa sieltä bussi ja juna
+Puhuja 0: kuvankauden Mosterin läpi Sarajevoon
+Puhuja 0: erinomainen
 Puhuja 0: lomakohde.
-Puhuja 0: Todella mielenkiintohistoria, todella edullista. Varmaan siis kolme kertaa haluan paku Dubertnikissä,
-Puhuja 0: eli Soitteiden Bosni ja Hertzgominaa matkakohteena.
-Puhuja 0: Erittäin hyvä paketti. Siellä, mitä luimme kavereiden kanssa, oli Loidian elämäkerta
+Puhuja 0: Todella mielenkiintoistahistoriaa,
+Puhuja 0: todella edullista. Varmaan kolme kertaa halvempaa kuin Dubertnikissä,
+Puhuja 0: eli Sosten Bosni ja Hertzgominaa matkakohteena.
+Puhuja 0: Erittäin hyvä paketti. Siellä, mitä luittiin kavereiden kanssa, niin Loide Libis on elämäkerta
 Puhuja 0: pää edellä.
-Puhuja 0: Hekaisytä murslättä murskarit tikit, että se on paperin ja suurin piirtein atomien hukkaamista, kun sitä kirjaa on painettu, mutta se on
-Puhuja 0: tällaiselle kavereiden reissulle sareenehoa, niin se on loistava
-Puhuja 0: ottaa sinne mukaan, koska siellä ei ole EU:n Romangia, niin sitten on pakko keksiä jotain tekemistä, kun esimiehet on vähissä, niin hän kertoo erittäin
-Puhuja 0: yksityiskohtaisesti omasta elämästään ja hyvinkin pienistä sattumuksista,
-Puhuja 0: tätä painavaa asiaa Yhdysvaltain historiasta Wij LO LOIDSOn.
-Puhuja 2: Tähän tällainen lisäsuositus.
-Puhuja 2: Tämä on myös kirjastoja olemassa. Elikkä siis äidinkielen tuntisimulaattori,
-Puhuja 2: jossa te kaikki luette vuorilta ja meidän kirjojat sillä tavalla, että ihmiset lukevat
-Puhuja 3: lauseet tai kappale
-Puhuja 0: menevän Tuomas Peltomäen rakentama talo. Ihana koti hänen perheelleen. Oikein mukavaa oli päästä kutsulle, mutta sielläkin ehkä pikkasen näki, että se on mies, joka ei ole talonrakentaja, on tehnyt talon. Sitä täytyy kunnioittaa, että itse ensin pystyisi. Kyllä. Olen saanut useasti tämän saman kysymyksen.
-Puhuja 2: Mulla on teillä vielä viimeinen kysymys Rakas
-Puhuja 2: kanssapodiliaat.
+Puhuja 0: Hekaisilta murskaritikit,
+Puhuja 0: että se on paperin ja suurin piirtein atomien hukkaamista, kun sitä kirjaa on painettu, mutta se on
+Puhuja 0: tällaiselle kavereiden reissulle sareenhevonen, niin se on loistava
+Puhuja 0: tätä painavaa asiaa Yhdysvaltain historiasta Wild LIVAn.
+Puhuja 2: Onko tähän tällainen lisäsuositus?
+Puhuja 1: Mikä on myös kirjastoja olemassa?
+Puhuja 2: Elikkä siis äidinkielen tuntisimulaattori,
+Puhuja 2: jossa te kaikki luette vuorotellen kirjoitta sillä tavalla, että ihmiset lukevat lausetta
+Puhuja 2: tai kappale
+Puhuja 0: menevän Tuomas Peltomäen rakentama talo. Ihana koti hänen perheelleen, oikein mukava oli päästä kutsulle. Mutta siellä ehkä pikkasen näki, että se on mies, joka ei ole talonrakentaja, on tehnyt talon. Sitä täytyy kunnioittaa, että itse ensin pystyisi. Kyllä. Ja olen saanut useasti myös tämän saman kysymyksen.
+Puhuja 2: Mulla on teillä vielä viimeinen kysymys rakkaat
+Puhuja 2: kanssapodiliat.
 Puhuja 2: Paljastammeko me meidän salaisen teemamme?
-Puhuja 1: Joo, kyllä me varmistetaan.
-Puhuja 2: Hyvät kuulijat, joku saat varma arvata tämän. Mutta meillä oli myös salainen koko tämän kesän läpitunkeva teema tässä kodissa, jonka voimme nyt ilolla kertoa olleen YYA.
+Puhuja 1: Joo, kyllä me parannetaan.
+Puhuja 2: Hyvät kuulijat, olette joku saattanut arvata tämän. Mutta meillä oli myös salainen koko tämän kesän läpitunkeva teema tässä podissa, jonka voimme nyt ilolla kertoa olleen YYA.
 Puhuja 2: Mikäli
-Puhuja 2: olette YYA-faneja
-Puhuja 2: YYA-ihmisiä.
-Puhuja 2: Kyllä. Taikka muuten vain syntyneet 1940-luvulla
-Puhuja 2: Toivottavasti se on tuottanut teille iloa.
-Puhuja 2: Mikäli
-Puhuja 2: olette nuoria ja dynaamisia helsinkiläisiä,
-Puhuja 2: olen pahoillani. Ja toivottavasti ystävyys,
+Puhuja 2: olette YYA-faneja...
+Puhuja 2: YYA-ihmisiä!
+Puhuja 2: Kyllä! Taikka muuten vain syntyneet 1940-luvulla,
+Puhuja 2: niin toivottavasti se on tuottanut teille iloa.
+Puhuja 2: Mikäli olette nuoria ja dynaamisia helsinkiläisiä,
+Puhuja 2: olen pahoillani. Ja ehdottomasti ystävyys,
 Puhuja 1: yhteistyö ja avunanto ovat jatkossakin
-Puhuja 1: osa teidän elämää. Elämää.
-Puhuja 2: Kerroin kaverin häissä juhannuksena Kirjaimellisesti sanoen, koska hänkin on opiskellut poliittisesta historiaa, niin sanoin hänelle sekä hänen morsiamelleen että
-Puhuja 2: toivon heidän
-Puhuja 2: avioliitossaan olevan
+Puhuja 1: osa teidän elämää?
+Puhuja 2: Kerroin kaverin häissä juhannuksena. Kirjaimellisesti sanoen, koska hänkin on opiskellut poliittisesta historiaa, niin sanoin hänelle sekä hänen morsialleen
+Puhuja 2: että toivon heidän
+Puhuja 2: avioliitossaan
+Puhuja 2: olevan
+Puhuja 2: yhteistyötä.
+Puhuja 2: Sekä keskinäistä
+Puhuja 0: Näin on.
 Puhuja 0: Kiitos kesästä.
-Puhuja 3: Kiitos kesästä
-Puhuja 0: myös äänen kuvan ja kaiken muun teknisen nerouden meille lähes joka jaksossa tehnyt Jonne Piiltanen. Kiitos Jonnelle. Kiitos Jonne. Helve, haluatko
-Puhuja 0: Ole hyvä, haluatko päättää podcastimme tähän upeaan täällä vappuuteemaan ja kaikenlaisia paukkeita, jotka vaan menevät mikkoo meidän mikrofonit. Kiitos tästä kesästä. Mahtavaa kesänloppua ja syksyä ja kaikkea hyvää. Moi moi!
+Puhuja 3: Kiitos
+Puhuja 3: kesästä myös
+Puhuja 0: äänen, kuvan ja kaiken muun teknisen nerouden meille lähes joka jaksossa tehnyt Jonne Piltonen. Kiitos Jonnelle. Kiitos Jonne. Helmi,
+Puhuja 2: Ole hyvä. Haluatko päättää podcastimme tähän upeaan
+Puhuja 0: täällä vappuuteemaan ja kaikenlaisia paukkeita, jotka vaan moikkaa meidän mikrofonit. Kiitos tästä kesästä. Mahtavaa kesänloppua ja syksyä ja kaikkea hyvää. Moi moi!

@@ -1,0 +1,448 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Helsingin
+Puhuja 0: Sanomat. Hei, tiedoksi, että tää on tämmöinen pikkumainos tähän alkuun. Minä me Markolle ollaan tehty
+Puhuja 0: uutisraportin
+Puhuja 0: ekstrajakso, jossa me haastatellaan Riikka Purraa.
+Puhuja 0: Ai niin.
+Puhuja 0: Riikka Purra on siis
+Puhuja 0: Suomen valtiovarainministeri.
+Puhuja 0: Ja me saatiin haastatella häntä täällä meidän podcast-studiossa
+Puhuja 0: tunnin
+Puhuja 0: ajan, vähän reilusti.
+Puhuja 0: Antaa ministeri meille aikaa.
+Puhuja 0: Haastattelu outo.
+Puhuja 0: Kiitos minun. Hyvä, kiitos Markon.
+Puhuja 0: Mun mielestä asiantunteva ja
+Puhuja 0: kiehtova, kiinnostavaa.
+Puhuja 0: Tosi hyvä. Se on vain Hesarin sovelluksessa,
+Puhuja 0: koska niin kuin me on puhuttu, meillä pitää joku kaupallinen logiikka olla tässä meidän podcastissa.
+Puhuja 0: Meidän kaupallinen logiikka on silleen, että Hesarin sovelluksen käyttäjille
+Puhuja 0: ihan törkeän hyvää kamaa siellä uutisraportti-podcastin
+Puhuja 0: fiidissä. Eli mene Hesarin sovellukseen ja paina siellä alhaalla on semmoinen Kuuntele-nappula,
+Puhuja 0: mene sinne. Siellä on uutiskirje-podcast.
+Puhuja 0: Ja sieltä löydät sen Riikka Purra, uutiskirjeraportti
+Puhuja 0: extrajakson.
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutiskirjeraportti-podcastiin
+Puhuja 0: torstaina
+Puhuja 0: kolmetoista. Päivää.
+Puhuja 0: Marraskuuta
+Puhuja 0: vuonna kaksituhatta kaksikymmentäviisi. Mun nimi on Tuomas Peltomagian kanssani täällä Helsingin Sanomissa sanoi: Sohvi,
+Puhuja 0: hei.
+Puhuja 0: No heipä hei Tuomas. No niin, ei mitään kunnolla.
+Puhuja 0: Helsingin Sanomien Future-toimituksen
+Puhuja 0: toimittaja. Ansfonia Berner, ystävien kesken sohvi. Hei vaan sohvi. No heipä hei. Olipa ilahduttava aloittaa tämä
+Puhuja 0: podcast sinun
+Puhuja 0: naurun
+Puhuja 0: pyrskäyksellä.
+Puhuja 0: Kädet puuskassa varsin vakavan bisnesmiehen
+Puhuja 0: näköisenä siinä istuu
+Puhuja 0: Helsingin Sanomissa
+Puhuja 0: politiikkaan
+Puhuja 0: toimittama Marko Junkkari. Hei, Marko.
+Puhuja 0: Heissan.
+Puhuja 0: Kerropas, miksi olet noin hienona tänään.
+Puhuja 1: Toisin kuin Tuomas,
+Puhuja 1: mut ja sohvi on kutsuttu Helsingin Sanomat
+Puhuja 1: esikoiskirjapalkintoon
+Puhuja 1: gaalaan illalla.
+Puhuja 0: Olen tippunut tämän
+Puhuja 0: yhtiön arvoasteikossa
+Puhuja 0: kynnysmaton
+Puhuja 0: ja Vessaharjan väliin.
+Puhuja 2: Mä oon just päässyt sieltä pois, koska mutta ne ekaa kertaa kutsun.
+Puhuja 0: Mutta sä oot myös esikoiskirjailija.
+Puhuja 0: Liittyikö sieltä? Ei,
+Puhuja 0: ei paljon viime vuonna. Ei, okei. Mulla menee nyt suoritse kanssa.
+Puhuja 0: Tämän viikon podcastissa
+Puhuja 0: keskustellaan
+Puhuja 0: sinänsä, jos saan luonnehtia,
+Puhuja 0: hiljaisehkon
+Puhuja 0: uutisviikon
+Puhuja 0: tapahtumista.
+Puhuja 0: Tosin heti, kun sanoin tuon...
+Puhuja 0: Nyt tulee aivan väärän värinen mutka tähän. Heti kun sanoin tämän,
+Puhuja 0: tyyliin puolet sudanilaisesta on murhattu.
+Puhuja 0: Katsoin, suomalaisessa mediassa on ollut aiheesta neljä juttua.
+Puhuja 0: Siis aivan käsittämätön hiljaisuuden ympärillä, aivan niin kuin sitä ei seurata ollenkaan sillä intensiteetillä. Eikä nekään vissiin puhuta siitä.
+Puhuja 0: No, palloteltiin, että puhutaanko, mutta se
+Puhuja 0: tuli liian nopeaa, se on liian iso aihe, me ollaan liian pihalla siitä. Puhutaan
+Puhuja 0: ensi podcastissa Sudanin tilanteesta,
+Puhuja 0: mutta sillä on niin vakava. Ne videot, mitä sieltä tulee TikTokissa, on niin järkyttäviä,
+Puhuja 0: että
+Puhuja 0: se otetaan asialistalle. Mutta otetaan vasta ensi viikolla, koska
+Puhuja 0: parempi perehtyä siihen. Me puhuttiin
+Puhuja 0: Sudanin tapahtumista ehkä
+Puhuja 0: vuosi sitten,
+Puhuja 0: kun
+Puhuja 0: nykyiset ongelmat alkoivat. Sen jälkeen ei olla palattu siihen, mutta palataan.
+Puhuja 0: Tämän viikon podcast
+Puhuja 0: Suomessa hiljaisen
+Puhuja 0: uutisviikon
+Puhuja 0: osalta keskustellaan
+Puhuja 0: veropäivästä
+Puhuja 0: aihe, joka on vuosittainen...
+Puhuja 0: Se on semmoinen klisemmytty.
+Puhuja 0: Siinä voi vain sanoa asioita, jotka kuulostavat,
+Puhuja 0: että ottaa podit pois korvista ja sanoo, että aa, mä vahingossa kuuntelen Podcasti ei vuodelta tuhat yhdeksänsataayhdeksänkymmentäviisi.
+Puhuja 0: Keskustelu sen ympärillä ei ole muuttunut yhtään.
+Puhuja 0: Mutta
+Puhuja 0: yritetään kaivaa siitä jotain uutta,
+Puhuja 0: jotain sanottavaa, jotain
+Puhuja 0: mielekästä.
+Puhuja 0: Sen lisäksi keskustellaan
+Puhuja 0: Kelasta.
+Puhuja 2: Me on keskusteltu tosi paljon Kelasta, mä tajusin. Se on ollut monta kertaa.
+Puhuja 1: Epäluulo
+Puhuja 1: ylipäätään mediaa kohtaan joka maassa, myös Suomessa ja ennen kaikkea valtiollisia
+Puhuja 2: Yleisradio-yhtymiä. Ja tavallaan tässä
+Puhuja 1: on se epäluulo ja semmoinen
+Puhuja 1: Me Bacyn tai Suomessa Ylen tai Hesarin haukkuminen on tavallaan jo olemassa oleva
+Puhuja 1: iso ilmiö. Ja sitten tämä Telegraphin
+Puhuja 1: skoppaama se raportti
+Puhuja 1: toi siihen lisää vettä myymään. Sen takia se lähti näin rajusti
+Puhuja 1: se kohu briteissä liikkeelle. Ja sitten tavallaan se... Mun mielestä pointti,
+Puhuja 1: että kysehän ei ollut vain siitä yhdestä editystä, vaan siellä on ollut
+Puhuja 1: erilaista rakenteellista ongelmaa ja liiallista woketusta siellä siellä BBC:n toimituksessa. Tavallaan
+Puhuja 1: sen takia se pääjohtaja, että tämä kohulantushan joutui lähtemään. Mä sanoin kun yritin
+Puhuja 2: päästä myös tästä brittinäkökulmasta
+Puhuja 2: kärryille ja kuuntelin Rest Ispolityksi UKeita.
+Puhuja 2: Siellä opin uuden termin, joka oli
+Puhuja 2: MLL, memo to be leged. Eli tämä oli
+Puhuja 2: ylipäätään sellainen robotti, joka oli alunperinkin kirjoitettu
+Puhuja 2: sitä varten, jotta se voidaan
+Puhuja 0: Tämä The Restis-poliittisessa
+Puhuja 0: oli myös
+Puhuja 0: aivan erinomainen
+Puhuja 0: kertaus siitä, että tässä on
+Puhuja 0: kyse myös ilmiöstä, joka on nimeltään
+Puhuja 0: 1 of ours.
+Puhuja 0: Se tarkoittaa sitä, että Margaret Thatcherilla,
+Puhuja 0: 80-luvun Britannian pääministerillä, oli tapana kysyä, kun nimitettiin jotain pääjohtajaa
+Puhuja 0: paikalleen. Se vain kysyy
+Puhuja 0: pienemmiltä viskallilta,
+Puhuja 0: että is he 1 of ours.
+Puhuja 0: Ja tässä on kyse siitä,
+Puhuja 0: että
+Puhuja 0: tämänhetkinen BBC:n
+Puhuja 0: pääjohtaja ei ollut 1 of ARs näiden konservatiivien
+Puhuja 0: mielestä, jota se pullautettiin tällä tavalla pois
+Puhuja 0: käyttäen Telegraphia
+Puhuja 0: hyväksi. Mutta tämä on kaikki tietenkin salaliittoa.
+Puhuja 2: Ja totta kai tässä on siis myös koe-kyse Trumpin
+Puhuja 2: ikuisesta sodasta mediaa vastaan, jonka hän nyt onnistui ulottamaan myös maailman
+Puhuja 2: arvostetuimpaan uutismiin. Uudistukseen. Saanko
+Puhuja 0: kontekstoida omasta mielestä vielä myös ehkä
+Puhuja 0: enemmän tätä
+Puhuja 0: nimenomaan Britannian tilannetta?
+Puhuja 0: Britanniassa on tällä hetkellä meneillään semmoinen aivan todella tulehtunut keskustelu, joka liittyy
+Puhuja 0: esimerkiksi maahanmuuttajien tekemiin rikoksiin. Viimeksi oli tää South Saidin
+Puhuja 0: junapuukotus
+Puhuja 0: isosti uutisissa, missä tämmöinen mies kulki läpi matkustajajunan
+Puhuja 0: ja vain randomisti puukotti kaikkia siellä.
+Puhuja 0: Sen lisäksi brittiläiset tämmöiset
+Puhuja 0: Nigil
+Puhuja 0: Faralsia ja
+Puhuja 0: populisti oikeiston lähellä olevat tahot on aktivoitunut
+Puhuja 0: varsinkin sosiaalisessa mediassa.
+Puhuja 0: Mun sosiaalinen media plus mun kavereiden sosiaaliset mediat on, varsinkin TikTok,
+Puhuja 0: täyttänyt tämmöisillä videoilla,
+Puhuja 0: missä
+Puhuja 0: brittioikeasta
+Puhuja 0: aktivistit kulkee pitkin Britannian katuja. Kun ne näkee siellä vaikka jonkun maahanmuuttajan näköisen tyypin diilavahuumeita
+Puhuja 0: tai
+Puhuja 0: öykkäöivän tai muuta,
+Puhuja 0: sen
+Puhuja 0: videon narratiivi on, että hei, väistäkää.
+Puhuja 0: Hei, väistäkää sitä tyyppiä. Mutta sitten kun se tulee öykkäöimään, ne lyö sitä turpaan ja käsket painu vittuun täältä jakamasta huumeita.
+Puhuja 0: Tämä on se fiilis, minkä ne videot antaa. Ne on tietenkin täysin editoitu ja näin. Mutta meneillä on semmoinen tosi repivä
+Puhuja 0: keskustelu siitä, onko Britannia täysin
+Puhuja 0: vajoamassa
+Puhuja 0: maahanmuuttajajengiväkivallan
+Puhuja 0: alle.
+Puhuja 0: Telegraph on tässä myös ollut mukana. Telegraphin päätoimittaja on tätä seurannut ja todistanut
+Puhuja 0: eri numeroilla ja tavoilla. Se ei pidä ollenkaan paikkaansa, se on täysin keksitty. Se on pelkkä tiktok
+Puhuja 0: temppu, jonka
+Puhuja 0: Nigle Farashin lähellä olevat ihmiset. Olin kaksi viikkoa Lontoossa.
+Puhuja 2: Tuli just sellainen olo, että eihän
+Puhuja 2: tämä saarivaltakunta
+Puhuja 2: sittenkään tämä vanha imperiumi ole vielä tuhoutunut.
+Puhuja 0: Just näin.
+Puhuja 0: Mun mielestä tämä palaa takaisin siihen BBC:n siihen, että kun Britanniassa on niin polarisoitunut
+Puhuja 0: myös media ja varsinkin tällä hetkellä näistä syistä johtuen media on entisestään polarisoitunut vielä pahemmin sillä tavalla, että Gardan on mennyt tosi paljon vatsarimmaksi,
+Puhuja 0: Telegraph on aivan täysin oikealla, blaa blaa blaa blaa. Silloin
+Puhuja 0: poliittisesti jakautunutta
+Puhuja 0: massamediaa. Hesari ei ole oikealla eikä vasemmalla,
+Puhuja 0: iltapäivälehdet ei ole oikealla eikä vasemmalla. Se logiikka on erilainen. Sen takia Ylen ei tällä tavalla kohdistu
+Puhuja 0: paineita
+Puhuja 0: aika huuruisen Twitter kuplan
+Puhuja 0: ulkopuolelta. Okei, no niin. Sohvi, toinen
+Puhuja 0: ystäväsi Jeffreyemstin.
+Puhuja 2: No itse asiassa mietin
+Puhuja 2: tässä Jeffreyemstin
+Puhuja 2: eilen
+Puhuja 2: keskiviikkona
+Puhuja 2: ensin Yhdysvaltain
+Puhuja 2: edustajan huone ylipäätään
+Puhuja 2: palasi töihin, koska tämä government chat-on päättyi.
+Puhuja 2: Ja saman tien
+Puhuja 2: alkoi tapahtua EPstiin rintamalla. Ensin demokraatit
+Puhuja 2: julkaisi kolme sähköpostia,
+Puhuja 2: jotka EPStiin oli
+Puhuja 2: lähettänyt aikoinaan eri ihmisille. Ja sitten
+Puhuja 2: vielä samana päivänä republikaanit julkaisi tuhansia
+Puhuja 2: sivuja
+Puhuja 2: aineistoa.
+Puhuja 2: Ja ensi viikolla luultavasti äänestetään, että julkaistaanko nämä kaikki
+Puhuja 2: EPStiin filsit, jotka ovat olleet vähän niin kuin huuruisten salaliittoteorioiden
+Puhuja 2: kohde. Ja nyt ne ovat yhtäkkiä
+Puhuja 2: täysin keskellä amerikkalaista sisäpolitiikkaa
+Puhuja 0: ja sisäpoliittista keskustelua. Se on tietysti jopa tärkein asetramppia vastaan mikä on demokraatti?
+Puhuja 2: Kyllä. Ja sitten
+Puhuja 2: siitä tulee se olo, että okei, on
+Puhuja 2: tuomittu
+Puhuja 2: ja moneen kertaan dokumentoitu
+Puhuja 2: pedofiilia
+Puhuja 2: seksikaupparikollinen,
+Puhuja 2: mutta tuleeko se ystävä,
+Puhuja 2: jos se on sinun vihollisen vihollinen.
+Puhuja 2: Jotenkin yhtäkkiä Jeffee Ebtiin kelpaa
+Puhuja 2: todistusaineistoksi
+Puhuja 2: Trumpia vastaan.
+Puhuja 0: En muuten
+Puhuja 2: Ihanjoissa, mitä on nyt tullut, niin
+Puhuja 2: se on hämmästyttävää, miten laajalle
+Puhuja 2: eri amerikkalaisen
+Puhuja 2: yhteiskunnan ja toki myös vaikka Britannian kuninkaaisiin
+Puhuja 2: Jeffeefvudstadsbladetin
+Puhuja 2: tuttavapiiri on ulottunut
+Puhuja 2: ja keitä kaikkia siellä sähköposteissa mainitaan. Mutta se, mitä on nyt tähän mennessä selvinnyt, niin vaikuttaa siltä,
+Puhuja 2: että
+Puhuja 2: Trump ei ole itse tehnyt mitään
+Puhuja 0: kyseenalaistaa alaikäisten tyttöjen kanssa tai ainakaan ei ole vielä tullut julki mitään, mikä todistaisi siihen. En tiedä, no mä en osaa imitoida Trumpia, mutta mä osaan kuvitella miltä Jeffrey EPSniin kuulusvana ikinä kuulosta.
+Puhuja 0: Tämä on se sähköposti, jonka hän on lähettänyt. From Jeffrey EPStin
+Puhuja 0: Jeevecationalgmail
+Puhuja 0: piste com to G. Max eli Julian Maxware.
+Puhuja 2: Hänen läheinen yhteistyö.
+Puhuja 3: I want you to realize that
+Puhuja 3: the dogg that hasn't parked these Trump.
+Puhuja 3: Vigtim spent hours at my house wit him. He has never wited mansioned.
+Puhuja 3: Polise chem. Ettter. I'm kaksikymmentäviisi persont there.
+Puhuja 2: Tunnetuin näistä EPStiinin uhreista.
+Puhuja 2: Hän toki omassa kirjassaan sanoi, että hän on tavannut Trumpin kerran ja mitään ei tapahtunut. Mutta who knows, anyway. Minun aika leimaaviana, siis aika todella.
+Puhuja 0: The dok that hasn't parked is Trump sitten
+Puhuja 0: tää Dufree
+Puhuja 0: spent hours at my house with him.
+Puhuja 0: Täähän tää Gileen Max Weltää apujärjesteljä,
+Puhuja 0: tää nainen, vastasi, että yes, I have been thinking about.
+Puhuja 2: No
+Puhuja 2: tai selvemmältä on se, että Trump
+Puhuja 2: on ollut tietoinen näistä rikoksista tai ainakin voinut epäillä niitä eikä ole ehkä tehnyt silti mitään. Tai ainakin
+Puhuja 2: hänellä lienee syynsä, miksi hän on kiihkeästi
+Puhuja 0: ollut tätä julkaisua vastaan. Meillä on pariin vuoteen tehty podcastissa
+Puhuja 0: Veikkausta, mutta nyt tehdään, kaatuuko Trump tähän?
+Puhuja 1: En usko, että Trump ja pystyy kaatamaan mikään.
+Puhuja 1: Mielestäni se on käynyt varma, että ensi viikolla,
+Puhuja 1: koska
+Puhuja 1: nyt siellä kongressissa on enemmistö julkistamisen
+Puhuja 2: puolesta. Tosin Trump soittelee näille parille. Sitä ei voi enää perua,
+Puhuja 1: koska se on juuri ollut
+Puhuja 1: Nyt on kaksisataayhdeksäntoista
+Puhuja 1: tai kaksisataakahdeksantoista
+Puhuja 1: nimeä. Niillä on, että ensi viikolla äänestetään tästä, julkistetaanko
+Puhuja 1: Eepstein failejä. Nyt
+Puhuja 1: se on vielä tarkoitus hauskaa,
+Puhuja 1: koska nimet on kirjattu
+Puhuja 1: pöytäkirjaan, niitä ei saa enää pois. Vaikka joku joku näistä kuolee tai jotain muuta, niin siitä huolimatta se pysyy se.
+Puhuja 2: Ja tämähän on iso asia, että se tulee koko salin
+Puhuja 2: äänestykseen, koska
+Puhuja 2: nimenomaan republikaanien
+Puhuja 2: syvimmässä
+Puhuja 2: uskollisimmassa
+Puhuja 2: päädyssä, jossa on tätä salaliittoajattelua,
+Puhuja 2: on todella iso kysymys. Ja niille poliitikoille on painetta, että et voi äänestää tätä vastaan, koska
+Puhuja 2: omat äänestäjät
+Puhuja 2: on.
+Puhuja 1: Hauska yksityiskohta oli se, että tämä yksi demokraattien
+Puhuja 1: edustaja, joka jo seitsemän viikkoa sitten valittiin
+Puhuja 1: jonkun järjestöltä kesken kauden kongression,
+Puhuja 1: mutta häntä ei ole ostettu päästämään sinne. Hän on ollut se ratkaisevaa. Hän on
+Puhuja 0: Kaksi keskeisintä
+Puhuja 0: ihmistä tässä skandaalissa on tappanut itsensä: Jeffrey Ebstten ja Dufreee.
+Puhuja 2: Se ei ole se nimi. Mä äitit nyt sen oikein nimi.
+Puhuja 0: Tavallaan.
+Puhuja 0: Mutta mitä vittoa?
+Puhuja 0: Hä? Kaksi
+Puhuja 0: keskeisintä.
+Puhuja 0: Tämän presidenttejä ympärilleen
+Puhuja 0: kietovassa
+Puhuja 0: pedofiliaskandaalissa.
+Puhuja 0: En sano mitään, mutta jättää
+Puhuja 2: ehdottomasti...
+Puhuja 0: Mä en usko, että tämä ei
+Puhuja 0: tule kaataa Trumpia,
+Puhuja 0: virallisesti se ei pysty. Mutta se ei ole kannatusta. Mutta sanon, että tämä tulee paljastumaan, että tämä oli se syy, miksi Trump yhtäkkiä lopetti
+Puhuja 0: heittelemistä
+Puhuja 0: sitä kolmannen kauden ajatusta. Tämä oli se syy.
+Puhuja 0: Ilman
+Puhuja 1: mitään perusteita. Oletko muka lopettanut sen? On. Ei hän ollut.
+Puhuja 1: Justhan se taas jossain heitti sen.
+Puhuja 0: Jossain vaiheessa ekaa kertaa, että joo, problebly Nadge happentä ja tälleen.
+Puhuja 0: Sitten kun
+Puhuja 0: lampsitte baariin
+Puhuja 0: tässä ihan Helsingissä normi baariin tuohon,
+Puhuja 0: mikä se on se kauhea, ihan järkyttävä riko ihmisyyttä vastaan se:
+Puhuja 0: Joo, nyt maalaisystävämme,
+Puhuja 0: te ette nyt välttämättä tiedä tätä. Mutta Helsingin keskustassa,
+Puhuja 0: keskeisimmällä paikalla Helsinkiä,
+Puhuja 0: siis näkyvimmällä, isoimmalla, keskeisimmällä paikalla Helsinkiä
+Puhuja 0: Mannerheimintien varressa on arvotalossa
+Puhuja 0: baari, jonka nimi on Old Iris Pabi ja se ei ole Old eikä Iris eikä
+Puhuja 0: Pabna. Vaan se on tanskalainen ketju ja siihen
+Puhuja 0: tämä kaupunki on vajonnut. Mutta enlig, menette Old Iris Pabiin
+Puhuja 0: ja sitten
+Puhuja 0: mikä mieletön mäjäh käy!
+Puhuja 0: Terotilasto on jo ykkönen Miki Kuussiaselä.
+Puhuja 0: Ja se on just silleen, että nyt mä tarjoan kaikille kierroksen.
+Puhuja 0: Ja sitten tietenkin te juoksette riemusta kiljujen paaretiskille ja otatte siellä
+Puhuja 0: haluavanne juoman
+Puhuja 0: limonadin
+Puhuja 0: tai vissyn tai joku voi sitten oluenkin sieltä tilata.
+Puhuja 0: Mitä sitten? Vähän on tietenkin vaikea olla tyypillä niin paljon rahaa, että mistäs sille puhuisi, niin mistäs puhut Marko?
+Puhuja 1: Voisin kehua, katselin sen melkein yhteen putkeen
+Puhuja 1: brittisarja
+Puhuja 2: The Hack. Se on minun listalla. Se
+Puhuja 1: kertoo
+Puhuja 1: itse asiassa Guardianin toimittaja, joka silloin aikoinaan paljasti tämän News of the Worldin
+Puhuja 1: Murdocin omistaman lehden toimittajat
+Puhuja 1: tunkeutuivat julkisten
+Puhuja 1: puhelinvastaajiin
+Puhuja 1: ja kuunteli niiden viestejä.
+Puhuja 1: Hän vain kertoo, miten hän paljasti tämän. Se on
+Puhuja 1: todella...
+Puhuja 1: Siinä rikotaan just sitä kolmatta seinää ja se välillä henkilöt puhuu katsojalle. Se on sillä aika hauskasti tehty. Mutta se oli minusta todella kiinnostava.
+Puhuja 1: Rupesin katsomaan ja ajattelin, että jaksankaako tämä
+Puhuja 1: olisi viisi osaa vielä, mutta se oli sika hyvä.
+Puhuja 2: Mahtavaa.
+Puhuja 2: Olen katsonut vain diplomaattia,
+Puhuja 2: joka ei ole niin hyvä.
+Puhuja 2: Mutta olemme silti
+Puhuja 2: siitä jollain tasolla nauttinut, koska aina kun olen jaksanut
+Puhuja 2: valvoa
+Puhuja 2: yli yhdeksään, niin olen
+Puhuja 2: katsonut
+Puhuja 2: deplomaattia
+Puhuja 2: Netflixistä, joka on älytön
+Puhuja 2: saippuasarjan
+Puhuja 2: ja
+Puhuja 2: maailmanpolitiikan
+Puhuja 2: yhdistelmä, jonka päähenkilö on
+Puhuja 2: Yhdysvaltain
+Puhuja 2: Britannian suurlähettillästä esittävä nainen, jonka
+Puhuja 2: en ehkä tee enempää juonipaljastuksii
+Puhuja 2: on Della raivostuttava
+Puhuja 2: ja jotenkin järjetön ja toimii koko ajan aivan typerästi. Mutta
+Puhuja 2: joku
+Puhuja 2: siinä silti kuitenkin viehättää, että on saatava tietää, mitä tapahtuu
+Puhuja 2: seuraavaksi. Niin ehkäpä sitten juttelisimmän
+Puhuja 2: kanssa siitä, että
+Puhuja 2: mitä mieltä on diplomaatista ja
+Puhuja 2: eikö olekin aika
+Puhuja 2: ärsyttävä sarja.
+Puhuja 1: Mä
+Puhuja 0: kuulun
+Puhuja 0: tämmöiseen WhatsApp-ryhmään,
+Puhuja 0: jossa yksi jäsenistä on
+Puhuja 0: politiikan puskaradion,
+Puhuja 0: ei juontaja, koska niin ei saanut sanoa, vaan politiikan puskaradion
+Puhuja 0: toimittaja Jari Hanska.
+Puhuja 0: Jari monesti siinä politiikan puskaradiossa kertoo, siinä lopussa on sellainen osio, missä niillä on. Se on vähän silleen se, mistä Juntti-podcast.
+Puhuja 0: Siinä on sellainen osio, missä ne kertoo
+Puhuja 0: viikon vitsin.
+Puhuja 0: Meidän
+Puhuja 0: yhteinen kaveri Jarkko kertoi tässä meidän WhatsApp-ryhmässä
+Puhuja 0: ihan helvetin hyvän vitsin.
+Puhuja 0: Jari
+Puhuja 0: tietenkin innostui tästä, että hän kertoo tämän politiikan puskaradion viikon vitssiossa
+Puhuja 0: tämän Jarkon keksimän vitsin.
+Puhuja 0: Ja mä tajusin, että mä voin kilpailullisessa
+Puhuja 0: hengessä puikata siihen väliin ja varastaa Jarkon vitsin tähän podcastin, joka julkaistaan päivää ennen politiikan puskaradio.
+Puhuja 0: Joten mä aion kertoa tässä nyt
+Puhuja 0: vitsin, joka olisi ollut politiikan puskaradian viikon vitsejä, se kuuluu tällä tavalla. Tän on siis kirjoittanut ystävämme Jaakko.
+Puhuja 0: Stubb perustaa pressakausien
+Puhuja 0: jälkeen osaamisensa ympärille
+Puhuja 0: liikuntapalveluyrityksen.
+Puhuja 0: Siinä personal
+Puhuja 0: trainer avaa asiakkaalle
+Puhuja 0: treenin lomassa ulko ja turvallisuuspolitiikkaa.
+Puhuja 0: Palvelun nimi on
+Puhuja 0: PT-utVA.
+Puhuja 0: Se oli vapaaehtoista. Lauantaina kello -kaksikymmentäyksi
+Puhuja 0: tulee ensimmäinen jakso
+Puhuja 0: Amazing Race Suomi kisasta,
+Puhuja 0: missä
+Puhuja 1: mäkin kisaan yhdessä mun kaksosssiskon Sinin kanssa. Kuinka paljon meidän pitää hävetä sun puolesta?
+Puhuja 0: No sanotaan,
+Puhuja 0: että ei välttämättä vielä taas... Okei,
+Puhuja 0: ei.
+Puhuja 0: Joo, kyllä pitää hävetä.
+Puhuja 0: Siinä on semmoinen kohta,
+Puhuja 0: mä en paljasta liikaa, mutta
+Puhuja 0: semmoinen vähän ällöttävä
+Puhuja 0: tehtävä, mistä
+Puhuja 0: semmoinen, paljonko siellä oli
+Puhuja 0: kymmenen naispuolista kilpailijaa.
+Puhuja 0: Menee suut viivan
+Puhuja 0: otsayrmyssä läpi ja ei johdahda. Ja sitten minä tulen paikalle ja alan kiljuun ja heittelehtimään.
+Puhuja 0: Joo, se on
+Puhuja 0: hurjaa menoa.
+Puhuja 0: Olen nähnyt sen ensimmäisen jakson itse. Meillä oli semmoiset
+Puhuja 0: pirskeet
+Puhuja 0: kilpailijoiden
+Puhuja 0: ja aivan fantastisen
+Puhuja 0: tuotantotiimin
+Puhuja 0: kanssa.
+Puhuja 0: Se on kyllä puolueellinen mielipide, mutta se on todella hyvä.
+Puhuja 0: Vauhdikas, hauska, humaani.
+Puhuja 0: Kaikki löytyy. Kannattaa katsoa, vaikka formaattia ei olisi tuttu aiemmin.
+Puhuja 0: Eli... Joo, hyvä. Kiitos, sohvi, kun hoidit mun duunit mun puolesta. Ja
+Puhuja 0: kaiken muu mahtava meille tekee tällä viikolla Mikko Peura. Kiitos Mikko. Ja kuullaan taas ensi
+Puhuja 0: viikolla. Ellei
+Puhuja 0: Trump pisti jotain näistä.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

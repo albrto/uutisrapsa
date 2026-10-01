@@ -1,199 +1,384 @@
-Puhuja 0: Hei, uutisraportti-podcastin
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
+Puhuja 0: miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Hei, Uutisraportti-podcastin
 Puhuja 0: kuuntelijat.
-Puhuja 0: Semmoinen ilouutinen,
-Puhuja 0: että kahden vuoden
-Puhuja 0: tauon jälkeen uutisraportti-podcastin
+Puhuja 0: Semmoinen ilouutinen, että kahden vuoden tauon jälkeen Uutisraportti-podcastin
 Puhuja 0: pikkujoulut
 Puhuja 0: järjestetään taas, joten tässä ohjeet,
-Puhuja 0: miten pääset paikalle.
+Puhuja 0: miten
+Puhuja 0: pääset paikalle.
 Puhuja 0: Yksinkertaisuudessaan
 Puhuja 0: lähetä mulle sähköpostia:
 Puhuja 0: tuomas.
-Puhuja 0: Peltomagihs.
-Puhuja 0: Fi Laita sähköpostin
-Puhuja 0: otsikkoon sana
-Puhuja 0: Uutisraportti
+Puhuja 0: Peltomakihls.
+Puhuja 0: Fi.
+Puhuja 0: Laita sähköpostin
+Puhuja 0: otsikkoon
+Puhuja 0: sana
+Puhuja 0: uutisraportti
 Puhuja 0: podcastin
 Puhuja 0: pikkujoulut,
-Puhuja 0: vähintään pikkujoulut
-Puhuja 0: siihen, koska mä etsin sitten ne ilmoittautumissähköpostpostit,
-Puhuja 0: sillä pikkujoulut,
-Puhuja 0: monikossa
+Puhuja 0: vähintään
 Puhuja 0: pikkujoulut
-Puhuja 0: sanalla. Pikkujoulut järjestetään
+Puhuja 0: siihen, koska mä etsin sitten ne ilmoittautumiset,
+Puhuja 0: sillä pikkujoulut.
+Puhuja 0: Monikossa pikkujoulut
+Puhuja 0: sanalla.
+Puhuja 0: Pikkujoulut järjestetään
 Puhuja 0: noin kello kahdeksantoista
 Puhuja 0: eteenpäin
 Puhuja 0: ravintola
-Puhuja 0: Siltaisessa Helsingissä,
+Puhuja 0: Siltaisessa
+Puhuja 0: Helsingissä,
 Puhuja 0: tiistaina
 Puhuja 0: kolmetoista.
-Puhuja 0: Päivä joulukuuta.
+Puhuja 0: Joulukuuta.
 Puhuja 0: Tervetuloa sinne. Me järjestämme sinne ohjelmaa
 Puhuja 0: ja nauhoitetaan siellä
-Puhuja 0: podcastin joulujakso, kuten perinteisiin
+Puhuja 0: podcastin joulujakso,
+Puhuja 0: kuten perinteisiin
 Puhuja 0: kuuluu. Aiempina vuosina on ollut tosi kivat pikku ja ollut tosi lämminhenkiset,
-Puhuja 0: juteltu kaikki keskenään, tosi
-Puhuja 0: kiinnostavaa, aivan mahtavia
-Puhuja 0: tilaisuuksia. Tulkaa ihmeessä. En vielä ihan tarkkaan tiedä, paljonko Siltaisessa
-Puhuja 0: on
+Puhuja 0: juteltu kaikki keskenään.
+Puhuja 0: Tosi kiinnostavaa. Aivan mahtavia
+Puhuja 0: tilaisuuksia. Tulkaa ihmeessä. En vielä ihan tarkkaan tiedä, paljonko Siltasessa on
 Puhuja 0: yleisömäärän
 Puhuja 0: raja, mutta niin paljon otetaan kuin vain
 Puhuja 0: mahtuu. Se, miten tämä homma rahoitetaan,
 Puhuja 0: on, että Siltainen on suostunut siihen, että
-Puhuja 0: meillä on
-Puhuja 0: juomakatto.
+Puhuja 0: meillä on juomakatto.
 Puhuja 0: Jos te
-Puhuja 0: jokainen otatte pari drinksua
+Puhuja 0: jokainen otatte pari brinksua
 Puhuja 0: omalla kustannuksellanne,
-Puhuja 0: niin sitten meille ei tule mulle, varsinkaan mulle, ei tule mitään laskua siltaisesta. Joten
-Puhuja 0: lähde sillä mielellä, että vähän käytät omaa rahaa. Sillä me hoidetaan, Tuomas Peltomäki ei joudu konkurssiin
-Puhuja 0: sen takia, että hän järjestää podcastille
-Puhuja 0: pikkujoulut.
-Puhuja 0: Jos haluat tulla ja tulee
-Puhuja 0: hoippuessanne
-Puhuja 0: kohti jotain lämmintä. Kiva on semmoinen keltainen valo ja joku vähän joulukoristeita ja on ravintolassa. Menette sinne, että otatte ehkä pienen
-Puhuja 0: jonkun sherryn tai rommitotin
-Puhuja 0: tai tällaisen.
-Puhuja 0: Sitten fiilistelette,
-Puhuja 0: että kohta aika laittaa my could
-Puhuja 0: joulu levisi soimaan.
+Puhuja 0: niin varsinkaan mulle ei tule mitään laskua siltäsesta.
+Puhuja 0: Joten
+Puhuja 0: lähde sillä mielellä, että vähän käytät omaa rahaa. Sillä me hoidetaan, että Tuomas Peltomäki ei joudu konkurssiin
+Puhuja 0: sen takia, että hän järjestää podcastille pikkujoulut.
+Puhuja 0: Mutta jos haluat tulla ja tule ihmeessä,
+Puhuja 0: niin lähetä sähköpostia:
+Puhuja 0: tuomas.
+Puhuja 0: Peltomakihls.
+Puhuja 0: Fi. Laita otsikkoon
+Puhuja 0: Pikkujoulut
+Puhuja 0: ja toki oma nimesi, jotta saadaan nimilistalle ja sen perusteella pääset sisään. Sanomattakin on selvää, että jos ilmoittaudut, se on sitova ilmoittautuminen.
+Puhuja 0: On aivan hirveä hässä ruveta
+Puhuja 0: mitään jonotuslistoja ja muita
+Puhuja 0: järjestämään.
+Puhuja 0: Eli
+Puhuja 0: näin tehdään. Tervetuloa pikkujoulu.
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uutisraportti-podcastiin
+Puhuja 0: perjantaina.
+Puhuja 0: Kahdeksantoista.
+Puhuja 0: Marraskuuta vuonna kaksituhatta kaksikymmentäkaksi. Mun nimi on Tuomas Pelmäki.
+Puhuja 0: Myös täällä Helsingin Sanomien podcast studiossa
+Puhuja 0: Sanoma talossa Helsingissä Suomessa
+Puhuja 0: ovat hirveä määrä porukkaa.
+Puhuja 0: Tässä on tota, mistä päälle lähdetään liikkeelle. Tämä onko vaalipaneeli?
+Puhuja 0: Helsingin Sanomien tutkivien juttujen tuottaja Salla Vuorikoski.
+Puhuja 0: Terve, Salla. Moi. Helsingin Sanomien
+Puhuja 0: politiikan
+Puhuja 0: toimittaja Anni Keski-Heikkilä.
+Puhuja 0: Moi. Hei Anni. Ja
+Puhuja 0: Nero,
+Puhuja 0: renessanssimies
+Puhuja 0: ja erittäin komea veikkosen Petja Pelli.
+Puhuja 0: Kiitos. Joka
+Puhuja 3: kerta se. Tämä oli meille ehkä.
+Puhuja 4: Kiusaahduttavasti
+Puhuja 0: kehut minua, kun mä oon täällä.
+Puhuja 4: Otetaan vastaan.
+Puhuja 0: Mulla on
+Puhuja 0: vuosikymmeniä kestänyt ihastumissuhde
+Puhuja 0: Petjan kanssa. Se yksi puoleen.
+Puhuja 3: Pitääkö meidän lähteä?
+Puhuja 3: Menee dynamiikka heti alkuun.
+Puhuja 0: Tämän viikon podcastissa keskustellaan
+Puhuja 0: saamelaislaista.
+Puhuja 0: Pääministeri Sanna Marinin hallituksen luonnosteleman niin kutsuttu
+Puhuja 0: saamelaiskäräjälaki.
+Puhuja 3: Ja ei-saamelaislaki.
+Puhuja 3: Ei-saamelaiskäräjälaki
+Puhuja 0: aikoo muovata uuteen uskon sen, miten saamelaiset hallinnoivat omia asioitaan.
+Puhuja 0: Se on varmaan ainoa selkeä asia, mitä voi
+Puhuja 0: sanoa tuosta laista.
+Puhuja 0: Se repii hallitusta, repii
+Puhuja 0: saamelaisia
+Puhuja 0: ja sitten
+Puhuja 0: repiin tätä podcastia
+Puhuja 0: tämän ensimmäisen aiheen ajan. Sika vaikea aihe, jossa on tosi paljon kaikennäköisiä herkkyyksiä, mistä varmaan meistä kukaan ei ole saamelainen tehdä. Koska meidän täytyy, vaikka meillä ei olisi lapsia, vaikka me ei oltaisi päiväkodissa töissä,
+Puhuja 0: vaikka me ei itse oltaisi käyty
+Puhuja 0: päiväkodissa, meidän täytyy suomalaisina
+Puhuja 0: keskustella ja päästä jonkinnäköiseen yhteisymmärrykseen
+Puhuja 0: nimenomaan siitä,
+Puhuja 0: mitä me tehdään yhteisesti,
+Puhuja 4: minkälainen maa me ollaan ja minkälaista porukkaa täällä on ne. Ja kyllä se on niinku se silleen ihan relevantti keskustelu. Totta kai se on eri asia,
+Puhuja 4: että pannaanko lapset kodeissaan tekemään jotain kortteja vai että tehdäänkö sitä yhteisesti ohjatusti koulussa tai sitten päiväkodissa.
+Puhuja 4: Että
+Puhuja 4: Onhan se sellainen tietynlainen
+Puhuja 4: pakko sitten. Pitääkö siinä vaan punnita hyvät ja huonot? Paljon siitä tulee iloa tosi monille ja sitten joillekin tulee pahemmat. Haluatko sanoa? No mulla on niitä ryhmä, että mä sanoin ekana. Sä voit sanoa,
+Puhuja 3: että
+Puhuja 3: Mä mietin sitä, että
+Puhuja 3: kuitenkin semmoista perheen ja päiväkodin yhteyttä täytyy käsitellä
+Puhuja 3: Ja se, että lasten kanssa
+Puhuja 3: puhutaan asioista.
+Puhuja 3: Tosiaan nyt sanon tämän lapsettomana ja täysin epäasiantuntijana,
+Puhuja 3: mutta
+Puhuja 3: jotenkin kuvittelisin, että
+Puhuja 3: lasten kanssa ei välttämättä toimi parhaalla tavalla se, että joku pitää luentoa tai että nyt käydään tämmöinen keskustelu,
+Puhuja 3: vaan että se on
+Puhuja 3: toiminnan kautta ja siinä voi nousta kaikkia semmoisia asioita esiin, mistä ne haluaa puhua. Joo,
+Puhuja 0: ei missään nimessä voi jotain jutella.
+Puhuja 0: Ei se ollenkaan sama asia kuin krebippaperin
+Puhuja 0: kanssa tolskaaminen?
+Puhuja 2: Mulla on siis lapsia ja olen saanut näitä
+Puhuja 2: kortteja ja
+Puhuja 2: puolisokin on saanut näitä kortteja.
+Puhuja 2: Nehän on aivan ihania.
+Puhuja 2: Niinkuin itse asiassa Anukin kirjoittaa siinä, että ne on kalliita aarteita. On kiva katsella vuosi kertaa. Kirjoittaa kohdassa juuri ennen kuin kirjoittaa siitä, että iskä voi olla
+Puhuja 0: myös lähestymiskielloista.
+Puhuja 3: Tuo oli tosi koskettava pointti, minun mielestäni. Ehkä se, miksi mä sitä
+Puhuja 2: sun maltillista reaktiota silloin, kun tuli tämä teksti, niin vähän silloin
+Puhuja 2: ihmettelen enkä pelkästään sun, vaan sitä somekeskustelua mitä siitä käytiin.
+Puhuja 2: Mä en tiennytkään, että tähän yhteen
+Puhuja 2: korttiin tai tähän
+Puhuja 2: kortt traditioon liittyy näin valtavasti
+Puhuja 2: jotenkin pääomaa.
+Puhuja 2: Mäkin tiedän, että on ollut vuosia,
+Puhuja 2: tai joinain vuosina ei ole tullut sitä askarreltua korttia. Mä en ole
+Puhuja 2: ikinä hetkeäkään
+Puhuja 2: miettinyt, että miksikö hän nyt tai otanpa yhteyttä henkilökuntaan, vaan se on vaan, että no, näin on käynyt.
+Puhuja 0: Ei toi ole se argumentti, että sen
+Puhuja 0: kieltäminen.
+Puhuja 0: Se on se, mikä herätti raivon, ei se itse korkea.
+Puhuja 2: Tavallaan se pointti, mitä mä sanon, on se, että
+Puhuja 2: jos lapsille päiväkodissa mulla ei ole kovin vahvaa nyt kantaa tähän itse, että pitäisikö kieltää vai eikö pitäisi kieltää, mutta mun pointtini on se, että meillä on vähän semmoinen
+Puhuja 2: taipumus heijastella niihin omiin
+Puhuja 2: lapsuuden asioihin, perheeseen, kouluun ja päiväkotiin. Miten siellä oli, oliko mustikka ja mansikkaryhmät ja miten ihanaa se oli, mutta sitten tosiasiallista on kuitenkin niin, että ne traditiot
+Puhuja 2: syntyy omina aikoinani ja jos ei nyt ole korttiaskartelua,
+Puhuja 2: niin on jotain muuta,
+Puhuja 2: josta tulee lapsille sitten ne omat
+Puhuja 2: yhteiset kokemukset
+Puhuja 2: ja
+Puhuja 0: Jotenkin ne puhuu itselleen ja sellaiselle sisäiselle alalle. Mutta sä sanot, että tuolla ei olisi väliä, mutta onhan tuolla väliä.
+Puhuja 2: Ei kun mä vaan tarkoitan, että kun Anun näkökulma siinä tekstissä
+Puhuja 2: oli lapsen näkökulma.
+Puhuja 2: Että on lapsia, jotka kärsii siitä askartelusta. Ja se on varmasti ihan totta. Sitten voidaan miettiä,
+Puhuja 2: mikä sen asian mittakaava on. Mutta on lapsia, jotka kärsii siitä, että heidät ikään kuin väkipakolla pakotetaan kohtaamaan se
+Puhuja 2: hankala tilanne, onko se sitten menehtynyt isää tai jotain muuta. Sitten toisaalla on sitten meidän 45-vuotiaiden
+Puhuja 0: semmoinen, että näin maailma on ollut ja aina on askarreltu ja muu. Sitten näitä punnitaan, että kenen tunteet on tässä nyt niitä tärkeitä. Mun mielestä tuohonkin sisältyy semmoinen olettamus, mikä ei välttämättä pidä ollenkaan paikkaansa, että olisi jotenkin haitallista, että lapset kohtaa näitä asioita päiväkodissa ja koulussa.
+Puhuja 2: Mä ajattelin, että... Eikö toi ole aika ylimielistä tavallaan, että jos
+Puhuja 2: jonkun lapsi oireilee
+Puhuja 2: ja on kärttynä ja on vaikeata
+Puhuja 2: sen asian kanssa, niin tuletko sä siihen sitten sanomaan, että ei kun tää on sulle jotain hyvää? Ei,
+Puhuja 0: totta kai perheet voi sanoa, että hei, että meidän lapsella tää on ihan hirveä asia, että hänen isänsä on kuollut tosi traagisesti
+Puhuja 0: viime jouluna.
+Puhuja 0: Niin että meidän lapsi ei osallistu tähän. Sehän on ihan itsestään selvää, että näin voi olla.
+Puhuja 0: Ja siis on.
+Puhuja 0: Näin tehdään nytkin.
+Puhuja 0: Mutta
+Puhuja 0: sen vuoksi, että tämmöisiä ihmisiä on, niin kaikilta muilta
+Puhuja 2: Se on pojan silmät näin iso tällä hetkellä. Tänään tuo tuo
+Puhuja 3: lapsi työpaikalle päin.
+Puhuja 0: Lapsia on helppo harhauttaa.
+Puhuja 0: Heidät voi viedä mustikkametsään
+Puhuja 0: ja viimenaallot.
+Puhuja 2: Isäsi ei tiedä, mistä hän puhuu.
+Puhuja 0: Mutta odota, kun mä haluan sanoa sen mun alkuperäisen pointin, mikä oli se, että okei, joo, voi olla jotain lapsia, joille se on tosi traagista.
+Puhuja 0: Ja sitten he, totta kai he, meillä on tosi ammattitaitoiset
+Puhuja 0: opettajat ja päiväkodin
+Puhuja 0: henkilökunta. He kyllä hanskaa sen probleema.
+Puhuja 0: Mutta mä haluan myös vähän vastustaa sitä ajatusta, että
+Puhuja 0: esimerkiksi koulu
+Puhuja 0: tai päiväkoti
+Puhuja 0: on semmoinen ympäristö, jossa on tosi traagista joutua käsittelemään
+Puhuja 0: näitä asioita. Ei se välttämättä ole niin. Jos ihmisellä on vaikka, hänellä on erimuotoinen perhe, vaikka on kaksi äitiä, Hän
+Puhuja 0: joutuu kohtaamaan tämän, se lapsi joutuu kohtaamaan tämän asian toistuvasti
+Puhuja 0: elämässään. Se koko ajan tulee kaikkialla vastaan, että joo, erilaista ja näin, näin.
+Puhuja 0: Ja kaikista näistä kohtaamisista,
+Puhuja 0: niin eikö nimenomaan
+Puhuja 0: päiväkoti ja koulu ole se paras ympäristö kohdata, niin kuin treenata vähän, että okei, miten mä nyt selitän tän mun kavereille?
+Puhuja 0: Miten aikuiset reagoivat tähän informaatioon? Miten mun kaverit, rupeaako ne lällättelemään?
+Puhuja 0: Sehän on hyvä ympäristö käydä näitä asioita läpi. Ja isänpäivä, äitienpäivä
+Puhuja 0: tosi otollista, että ne tulee vastaan ja sitten me opetellaan keskustelemaan näistä. Lapset opettelee selittämään omia asioita. Lapset
+Puhuja 0: opettelee vaikka käsittelemään omaa suruaan, että mulla ei ole enää isää tai jotain tällaista. Se tapahtuu turvallisten aikuisten
+Puhuja 0: läsnä
+Puhuja 0: ollessa tutussa ympäristössä ja kaverit ympärillä. Ei se hirveän huonolta muutosta. Olen
+Puhuja 2: tavallaan samaa mieltä sun kanssa, mutta sitten myös mietin, että sulla on myös ehkä vähän semmoinen
+Puhuja 2: vaaleanpunainen käsitys siitä, että se aina olisi rakentavaa
+Puhuja 2: ja mukavaa. Mutta siinä on se vika mulle. Mutta mun mielestä sanoit tärkeän asian tuossa,
+Puhuja 2: mitä mäkin jotenkin ensisijaisesti ajattelen, että olen
+Puhuja 2: päiväkodissa työskenteleviä
+Puhuja 2: ammattilaisia aika kasan elämässäni tavannut.
+Puhuja 2: Ja mulla on aika suuri luottamus
+Puhuja 2: siihen, että he osaavat ja säkin tietää tätä mä olin sanonut tässä, että haluaisin luottaa. Niin, että he osaavat
+Puhuja 2: arvioida
+Puhuja 2: sitä
+Puhuja 2: tilannetta.
+Puhuja 4: Tarvitseeko tuosta
+Puhuja 4: asiasta linjata ylipäätään mitään? Mitä jos ne kukin päiväkoti saisi ihan itse päättää tuosta? Ja näin varmasti onkin. Ehkä
+Puhuja 2: se Anun teksti oli aika arvokas? Nyt varmaan sitten keskustelu aloitteena,
+Puhuja 3: kyllä. Niin, kyllä.
+Puhuja 3: Syitä miettiä. Okei.
 Puhuja 0: Sitten
-Puhuja 0: Barmikolle sinä rupeatte kertomaan
-Puhuja 0: asioita ja mielenkiintoisia juttuja, niin mistäs hänelle
+Puhuja 0: kun liukastelette
+Puhuja 0: viikonlopun
+Puhuja 0: lumipyryn jäljiltä kadulla
+Puhuja 0: hoippoessanne
+Puhuja 0: kohti jotain lämmintä. Kiv on sellainen keltainen valo ja joku vähän joulukoristeita
+Puhuja 0: ja on ravintolassa. Sitten otatte
+Puhuja 0: ehkä pienen jonkun sherryn tai rommitootin
+Puhuja 0: tai tällaisen Sitten
+Puhuja 0: fiilistelette, että kohta aika laittaa Michael Boblen
+Puhuja 0: joululevi soimaan.
+Puhuja 0: Sitten
+Puhuja 0: Barmikolle siinä rupeatte
+Puhuja 0: kertoa asioita ja mielenkiintoisia juttuja. Mistäs hänelle
 Puhuja 0: puhutte?
-Puhuja 1: Minäpä voisin vaikka aloittaa
-Puhuja 1: puhumalla
-Puhuja 1: Kaj
-Puhuja 1: A:n elämäkerrasta,
-Puhuja 1: joka ilmestyi.
-Puhuja 1: Yritin tässä googlettaa, että oliko se viime vuonna vai sitä edellisenä.
-Puhuja 1: Mutta mä oon siis, en ole vielä ihan loppuun asti päässyt sitä, mutta se on ihan järjettömän
-Puhuja 1: hyvä. Tai no okei, tosi hyvä.
-Puhuja 1: En mä halua ylimainostakaan
-Puhuja 1: sitä, sitten kun ei oikein. Se on siis Jouni K. Kemppäisen kirjoittama.
-Puhuja 1: Ja
-Puhuja 1: siinä siis mä jotenkin oon
-Puhuja 1: tosi
-Puhuja 1: yllättynyt,
-Puhuja 1: että miten kamalaa elämä Kaija koolla on ollut. Ja miten siinä jotenkin koko ajan tapahtuu vain hirveämpiä asioita ja sitten tuntuu, että no nyt Kaija selvisi ja sitten taas tapahtuu jotain kauheaa. Se on
-Puhuja 1: ollut aika rankka elämä sillä.
-Puhuja 1: Sen lisäksi musta tuntuu,
-Puhuja 1: että se olisi
-Puhuja 1: hyvää semmoista ajankuvaa
-Puhuja 1: kasarilta ja ysäriltä.
-Puhuja 1: En tietysti tiedä, onko se
-Puhuja 1: todenmukaista,
-Puhuja 1: mutta mun mielestä se on tosi mielenkiintoista
-Puhuja 1: lukea sitä kirjaa sillä ajatuksella, että tommosta elämää on ollut. Joo,
-Puhuja 1: siinä tulee jotenkin läpi semmoinen kasari ja ysäri ainakin niissä vaiheissa,
-Puhuja 0: missä mä nyt oon mennyt. Saanko mä kertoa aivan hirveän jutun, joka liittyy Ysäri-fiilistelyyn? No, mä sanon. Mä muistan, että sun lapsi on tuolla takana Ai jaa.
-Puhuja 0: No niin, Salla. Okei,
-Puhuja 2: hyvä. Mä olen hyvä lasten
-Puhuja 2: asialla. Pelastapäivät.
-Puhuja 2: Venäjän sotiessa Ukrainassa ja oikeastaan vähän jos tämä ennen,
-Puhuja 2: olette huomanneet, että Ranskan presidentti Emmanuel Macron
-Puhuja 2: on aika monet kerrat soitellut Putinille.
+Puhuja 3: Minä voisin vaikka aloittaa puhumalla
+Puhuja 3: Kaija Koon elämäkerrasta,
+Puhuja 3: joka ilmestyi.
+Puhuja 3: Yritin tässä googlettaa, että oliko se viime vuonna vai sitä edellisenä.
+Puhuja 3: En ole vielä ihan loppuun asti päässyt sitä, mutta se on ihan järjettömän hyvä.
+Puhuja 3: Tai no okei, tosi hyvä.
+Puhuja 3: En mä halua ylimainostakaan
+Puhuja 3: sitä, kun ei tykkää. Se on siis Jouni K. Kemppäisen kirjoittama.
+Puhuja 3: Siinä siis mä jotenkin olen
+Puhuja 3: tosi
+Puhuja 3: yllättynyt,
+Puhuja 3: että miten kamalaa elämä Kaija koolla on ollut. Ja miten siinä jotenkin koko ajan tapahtuu vain hirveämpiä asioita ja sitten tuntuu, että nyt Kaija selvisi ja sitten taas tapahtuu jotain kauheaa.
+Puhuja 3: Se on ollut aika rankka elämä.
+Puhuja 3: Sen lisäksi musta tuntuu,
+Puhuja 3: että
+Puhuja 3: se olisi hyvää
+Puhuja 3: ajankuvaa
+Puhuja 3: kasarilta
+Puhuja 3: ja ysäriltä.
+Puhuja 3: En tietysti tiedä, onko se todenmukaista.
+Puhuja 3: Mun mielestä se on tosi mielenkiintoista lukea sitä kirjaa sillä ajatuksella, että tommoista elämää on ollut.
+Puhuja 3: Joo, siinä tulee jotenkin läpi semmoinen kasari ja ysäri ainakin niissä vaiheissa,
+Puhuja 0: missä mä nyt oon mennyt. Saanko mä kertoa aivan hirveän jutun, joka liittyy Ysäri-fiilistelyyn?
+Puhuja 2: No mä sanon. Mä muistan, että sun lapsi on tuolla
+Puhuja 2: Salla. Okei, hyvä. No niin, mä olen
+Puhuja 2: lasten asialla.
+Puhuja 2: Pelastatelet.
+Puhuja 2: Venäjän sotiessa Ukrainassa ja oikeastaan vähän jo ennen
+Puhuja 2: olette huomanneet, että Ranskan presidentti ja Manuelle Macron
+Puhuja 2: on aika monet kerrat soitellut
+Puhuja 2: Putinille.
 Puhuja 2: Ja
-Puhuja 2: olen ehkä jossain Twitterissäkin vähän silleen,
-Puhuja 2: että kuinka paljon hyötyä on tästä soittelusta ollut ja onko siitä jopa jotain haittaa ja
-Puhuja 2: tätä asiaa pohdiskellut, siitä on erilaisia mielipiteitä,
-Puhuja 2: mutta tulin kotiin lenkiltä yhtenä iltana
-Puhuja 2: ja televisiossa pyöri
-Puhuja 2: dokumentti: Macron,
+Puhuja 2: mä oon ehkä jossain Twitterissäkin vähän silleen, että kuinka paljon hyötyä on tästä soittelusta ollut ja onko siitä jopa jotain haittaa
+Puhuja 2: ja tätä asiaa pohdiskellut. Siitä on erilaisia mielipiteitä,
+Puhuja 2: mutta
+Puhuja 2: tulin kotiin lenkiltä yhtenä iltana ja televisiossa
+Puhuja 2: pyöri
+Puhuja 2: dokumentti
+Puhuja 2: Macron,
 Puhuja 2: Eurooppa ja sota.
 Puhuja 2: Yle Areenasta löytyy.
-Puhuja 2: Mä ehkä kun mä katsoin sen,
-Puhuja 2: niin sitten vähän ymmärsin enemmän makronia.
-Puhuja 2: Tämä
-Puhuja 2: dokumentti on aivan historiallinen. Mä en ole ikinä nähnyt mitään vastaavaa. Se seuraa Emmanuelin,
-Puhuja 2: ihan kun mä otan kaverin,
-Puhuja 2: Macronin
-Puhuja 2: kintereillä
+Puhuja 2: Mä ehkä kun mä katsoin sen, niin sitten vähän ymmärsin enemmän Macronia.
+Puhuja 2: Tämä dokumentti
+Puhuja 2: on aivan historiallinen. Mä en ole ikinä nähnyt mitään vastaavaa. Se seuraa Emmanuelin,
+Puhuja 4: ihan kun mä saan kaverin,
+Puhuja 2: Macronin kintereillä
 Puhuja 2: tapahtumia,
-Puhuja 2: jonkin verran ennen sodan syttymistä
+Puhuja 2: jonkin verran ennen sodan syttymistä,
 Puhuja 2: kun tavallaan intensiteetti
 Puhuja 2: kasvaa ja yritetään saada
 Puhuja 2: Venäjää pysymään aisoissa.
 Puhuja 2: Sitten sodan sytyttyä ja sitten sodan edetessä.
 Puhuja 2: En tiedä miten se on alunperin se dokumentti
-Puhuja 2: saanut alkunsa, miksi sitä on ruvettu tekemään, mutta siinä pystytään
-Puhuja 2: tavallaan
-Puhuja 2: lähes ihokontaktissa
+Puhuja 2: saanut alkunsa miksi sitä on ruvettu tekemään, mutta siinä pystytään
+Puhuja 2: tavallaan ihan
+Puhuja 2: siis lähes ihokontaktissa
 Puhuja 2: seuraamaan sitä, miten Macron
 Puhuja 2: yrittää ja yrittää.
-Puhuja 2: Ja siinä on esimerkiksi
-Puhuja 2: sellaisia klippejä
+Puhuja 2: Yrittää. Ja siinä on esimerkiksi sellaisia
+Puhuja 2: klippejä
 Puhuja 2: puhelinhaastatteluista
 Puhuja 2: tai puhelinkeskusteluista
 Puhuja 2: Putinin kanssa, jollasia ei tavallisesti,
-Puhuja 2: mehän ei tavallisesti
-Puhuja 2: kuulla valtionjohtajien
+Puhuja 2: mehän ei tavallisesti kuulla valtiojohtajien
 Puhuja 2: puhelinkeskusteluja,
-Puhuja 2: mutta tässä niitä soitetaan
-Puhuja 2: ja näytetään tilanteita.
-Puhuja 2: Se on aivan käsittämätöntä. Kiitos, todellakin!
-Puhuja 3: Entisenä
-Puhuja 3: ulkomaantoimittajana
-Puhuja 3: ja Ranskan seuraajana mä oon pettynyt
-Puhuja 3: tässä matkan varrella Macroniin.
-Puhuja 3: Esimerkiksi se, että se meni sanomaan, että Ranska
-Puhuja 3: ei vastaisi
-Puhuja 3: välttämättä tähän ydinaseen käyttöön Ukrainassa. Tällä se ihan tuntuu diplomaattisia lapsuksia tai sitten sä ehdottelee Ei saa
-Puhuja 2: jossain vaiheessa sinä aikana mietin, tuleeko tästä liian
-Puhuja 2: myötäsukkanen kuvan Macronista, mutta ei. Siinä
-Puhuja 2: dokumentissa tulee kohta, jossa häntä haastetaan.
-Puhuja 0: Todella kiinnostaa. Sano vielä sen dokumentin nimi. Mitäs
-Puhuja 2: mä sanoin:
-Puhuja 3: on Eurooppa ja sota. Okei ja Yle Areenasta löytyy. Yle Areenasta löytyy. Pete. Mulle tuli tää omaisuus mieleen, kun Anni mainitsi ajankuva 80- ja 90-luvulta.
-Puhuja 3: Me katsottiin tuossa puolison kanssa vähän aikaa sitten tää munkkivuorisarja
-Puhuja 3: Jani Vuolasen.
-Puhuja 3: Otettiin sitä varten tää kyseinen maksupalveluki
-Puhuja 3: jota ei tässä nyt varmaan mainostaa monta. Nää mainostaa.
-Puhuja 3: Aijaa okei, eli sovittiin. Ne ei olla Yle.
-Puhuja 3: Ihan varta vasten kuule ajattelin, et jos ei nyt kerran satsaa kotimaiseen draamaan ja vielä vähän erikoiseen kotimaan sen draamaan, niin propsit heille. Todettiin nyt ainakin siksi aikaa, että saatiin se katsottua. Ja se ei nyt ole ehkä aivan yhtä kymppi plus ja nerokas kuin mitä MS romantic oli. Siis tää voi olla se edellinen. Mutta siis tosi omaperäinen,
-Puhuja 3: vaikea laittaa mihinkään
-Puhuja 3: kategoriaan. Jos taas ollaan puhuttu lapsista, niin siinähän se yksi oivallus on, että se sijoittuu 2000-luvun alkuun munkkivuoreen,
-Puhuja 3: jossa lähiössä katoaa yksi lapsi. Ja sitten se on seurattu tavallaan, se draama on kerrottu niitten lasten
-Puhuja 3: näkökulmasta, että miten koko ajan, kun aikuiset ei kerro lapsille totuutta. Ei ole kertonut mitä tapahtuu ja miten ne lapset kuulee ja miten ne muodostaa sitä kuvaa. Ja miten siinä sekoittuu se lapsen katoaminen ja niitten omat jotkut Aku Ankka ja muut fantasia
-Puhuja 3: jutut. Ja sitten se ajankuva nimenomaan siinä, että heti eka jakso sinne saapuu tää päähenkilö sinne munkkivuoreen
-Puhuja 3: muuttaa
-Puhuja 3: uusi lapsi sinne. Ja sitten kun se otetaan siihen porukkaan, niin eka mitä ne alkaa tehdä, niin ollaanko ajanottoa, millä on digitaalikellot.
-Puhuja 3: Sitten niin, että kuka saa nopeiten sen,
-Puhuja 3: että
-Puhuja 2: Palveluita. Ilmanen vain. Isolla rahaa. Jos nyt sellaista draamaa
-Puhuja 0: tuottaa, niin hyvä. Kyllä siitä pitää maksaa
-Puhuja 0: rahaa. Mä haluan kertoa käänteestä
-Puhuja 2: Uskalletaanko mä lähteä tuosta studioon?
-Puhuja 0: Mä Haluan kertoa käänteestä minun elämässä. Nimittäin olen aina vastustanut
-Puhuja 0: fiktion kuuntelemista äänikirjana. Sen seurauksena, jos en todellakaan jaksa lukea mitään, niin en vain kuluta fiktiota ollenkaan,
-Puhuja 0: koska se ei vaan toimi äänikirjana. Paitsi kaikki Mika Valtarin jutut toimivat ihan hiton hyvin äänikirjana.
-Puhuja 0: Mutta nyt, minä olen vissiin, kun olen rakentanut sitä taloja ja siinä aina tulee kuunneltua äänikirjoja ja siinä tulee kuunneltua podcasteja, niin minä olen korvat tursuaa
-Puhuja 0: kaikkea tätä tietoa ja faktaa ja analyysiä ja yhteiskuntaa ja tiedettä ja geenejä ja kaikkea. Tulee
+Puhuja 2: mutta tässä
+Puhuja 2: niitä soitetaan
+Puhuja 2: ja näytetään tilanteita. Se on
+Puhuja 2: aivan käsittämätöntä. Niin, mutta todellakin.
+Puhuja 4: Entisenä
+Puhuja 4: ulkomaantoimittajana ja Ranskan seuraajana mä oon pettynyt tässä matkan varrella Macroniin.
+Puhuja 4: Esimerkiksi se, että se meni sanomaan, että Ranska ei
+Puhuja 2: aivan kun hän olisi odottavat sitä. Joo. Ja mä jossain vaiheessa dokumentti on aika kiehtova.
+Puhuja 2: Kello oli jo ihan älyttömästi ja taas tuli huonot yöunet sen takia, kun tuli valvottua ja katoin, että mä jossain vaiheessa
+Puhuja 2: siinä aikana mietin, että tuleeko tästä liian
+Puhuja 2: myötäsukaninen kuva
+Puhuja 2: Macronista, mutta ei.
+Puhuja 2: Siinä dokumentissa tulee kohta, jossa häntä haastetaan.
+Puhuja 0: Lämmin sitä. Todella kiinnostaa. Sano vielä sen dokumentin nimi. Mitäs
+Puhuja 2: mä sanoin, Macron,
+Puhuja 4: Eurooppa ja sota. Okei ja Yle Areenasta löytyi. Yle Areenasta löytyi. Petja. Mulle tuli tää omaisuus mieleen, kun Anni mainitsi ajankuvaa 80- ja 90-luvulta.
+Puhuja 4: Niin me katottiin tossa puolison kanssa vähän aikaa sitten tää munkkivuorisarja
+Puhuja 4: Jani Voolasen.
+Puhuja 4: Otettiin sitä varten tää kyseinen maksupalvelu, jota ei tässä nyt varmaan mainostaa, mutta tää on mainostaa.
+Puhuja 3: Aijaa okei, Elisavi. Ei olla Yle.
+Puhuja 4: Ihan varta vasten kuule ajattelin, että jos ei nyt kerran satsaa kotimaan sen draamaan ja vielä vähän erikoiseen kotimaan sen draamaan, niin propsit heille otettiin nyt ainakin siksi aikaa, että saatiin se katsottua. Ja se nyt ei oo ehkä aivan yhtä kymppi plus ja nerokas kuin mitä MS romantic oli. Tää voi olla se edellinen, mutta tosi omaperäinen,
+Puhuja 4: vaikea laittaa mihinkään
+Puhuja 4: kategoriaan. Kun tässä ollaan puhuttu lapsista, niin siinähän se yksi oivallus on,
+Puhuja 4: että se sijoittuu 80-luvun alkuun munkkivuoreen,
+Puhuja 4: jossa lähiössä katoaa yksi lapsi. Ja sitten se on
+Puhuja 4: seurattu tavallaan, se draama on kerrottu niitten lasten näkökulmasta, että miten koko ajan, kun aikuiset ei kerro lapsille totuutta, ei ole kertonut mitä tapahtuu ja miten ne lapset kuulee ja miten ne muodostaa sitä kuvaa ja miten siinä sekoittuu se lapsen katoaminen ja niitten omat jotkut Aku Ankka ja muut fantasiajutut.
+Puhuja 4: Ja sitten se ajankuva nimenomaan siinä, että heti eka jaksossa sinne saapuu tää päähenkilö sinne munkkivuoreen
+Puhuja 4: muuttaa
+Puhuja 4: uusi lapsi sinne. Ja sitten kun se otetaan siihen porukkaan, niin eka mitä ne alkaa tekemään, niin ollaanko ajanottoa,
+Puhuja 0: Elisa Viihteeltä. Ostakaa kaikki Elisa Viihteen joku paketti. Palveluita.
+Puhuja 0: Ilmanen vain. Isolla rahaa. Jos nyt sellaista draamaa tuottaa, niin hyvä. Kyllä siitä pitää maksaa rahaa.
+Puhuja 0: Mä haluan kertoa käänteestä...
+Puhuja 2: Uskallanko lähteä tuosta studioon?
+Puhuja 0: Haluan kertoa käänteestä minun elämässä. Nimittäin olen aina vastustettu
+Puhuja 0: fiktion kuuntelemista
+Puhuja 0: äänikirjana. Sen seurauksena, koska en todellakaan jaksa lukea mitään, niin en vain kuluta fiktiota ollenkaan,
+Puhuja 0: koska se ei vaan toimi äänikirjana. Paitsi kaikki Mika Valtari jutut toimivat ihan hiton-hyviä.
+Puhuja 0: Mutta nyt, olen vissiin, kun olen rakentanut sitä taloja, siinä aina tulee kuunneltua
+Puhuja 0: äänikirjoja ja siinä tulee kuunneltua podcasteja.
+Puhuja 0: Minun korvat tursuaa
+Puhuja 0: kaikkea
+Puhuja 0: tätä tietoa ja faktaa ja analyysiä ja
+Puhuja 0: yhteiskuntaa ja tiedettä ja geenejä ja kaikkea. Tulee
 Puhuja 0: nenästä ulos.
 Puhuja 0: Joten, mulla tuli tarve kuunnella
 Puhuja 0: fiktiota.
 Puhuja 0: Mä aloitin tämmöisestä kuin Project Hail Mary,
 Puhuja 0: jota yleisesti pidetään vuoden kaksituhatta
-Puhuja 0: kaksikymmentäyksi parhaana science fiction kirjana. Kirjoittaja on Anddy Waire,
+Puhuja 0: kaksikymmentäyksi parhaana Science fiction kirjana. Kirjoittaja on Anddy Ware,
 Puhuja 0: joka on
 Puhuja 0: kirjoittanut muun muassa The Marchin
-Puhuja 0: kirjan, josta tehtiin leffa, jossa on The Matt Damen.
+Puhuja 0: kirjan, josta tehtiin leffa, jossa on Matt Daymen.
 Puhuja 0: Se kirja vaikuttaa
-Puhuja 0: ihan perus joltain tämmöiseltä scifiltä.
+Puhuja 0: ihan perus joltain
+Puhuja 0: scifiltä.
 Puhuja 0: Mutta tämän Anddy Waerin
-Puhuja 0: viehättävyys on siinä, että hänen
+Puhuja 0: viehättävyys on siinä, että
+Puhuja 0: hänen
 Puhuja 0: henkilöhahmo on tämmöisessä tilanteessa, jossa se joutuu kehittämään,
 Puhuja 0: on
-Puhuja 0: joko Marsissa yksin ja pitää siellä selvitä. Tai tässä tapauksessa
-Puhuja 0: Helmeryn päähenkilö on aamuyöhön
-Puhuja 0: syvään avaruuteen. Sieltä hänen pitää omin voimin päästä takaisin
-Puhuja 0: planeettamaalle.
-Puhuja 0: Se on tavallaan scifi Mac-gaiverismia
-Puhuja 0: ja se on jotenkin
+Puhuja 0: joko Marsissa
+Puhuja 0: yksin ja pitää siellä selvitä. Tai tässä tapauksessa tämä
+Puhuja 0: Helmeryn
+Puhuja 0: päähenkilö on ammuttu syvään avaruuteen. Sieltä hänen pitää omin voimin päästä takaisin A-planeettamaalle.
+Puhuja 0: Se on tavallaan semmoista scifi Mac giverismia.
+Puhuja 0: Se on jotenkin
 Puhuja 0: todella
-Puhuja 0: viehättävää.
-Puhuja 0: Mä vasta aloitin kirjan, en osaa sanoa, onko se kuin eeppinen tarina, mutta siitä on kehuttu tosi paljon ja mielelläni nyt tutustuin Project Helmery
-Puhuja 0: and it Wave.
+Puhuja 0: viehättävää. Mä vasta aloitin kirjan, en osaa sanoa, onko se kuin eeppinen tarina, mutta siitä on kehuttu tosi paljon ja mielelläni nyt tutustun Project Helmery
+Puhuja 0: and itway.
 Puhuja 0: Okei,
 Puhuja 0: siinä kaikki
 Puhuja 0: tämän hyvin eriskummallisen
@@ -204,12 +389,39 @@ Puhuja 0: Salo Vuorekoski.
 Puhuja 0: Kiitos. Kiitos Anni Keski-Heikkilä. Kiitos. Kiitos Petja Pellille. Kiitos. Mun nimi on Tuomas Peltomäki.
 Puhuja 0: Tässä
 Puhuja 0: podcast-jaksossa
-Puhuja 0: toista aihetta tausta toimitti Viljami Peltomäki, 11-vuotias.
-Puhuja 0: Hän
-Puhuja 0: kamalalla tavalla kuuli isänsä sanovan kirosanan.
+Puhuja 0: toista aihetta
+Puhuja 0: tausta toimitti Viljami Peltomäki, 11-vuotias.
+Puhuja 0: Hän kamalalla tavalla kuuli isänsä sanovan kirosanan.
 Puhuja 2: Koskaan ei ole tapahtunut.
-Puhuja 0: Pyydän, että meidän ihana Oona Mattila
+Puhuja 0: Pyydän, että
+Puhuja 0: meidän ihana Oona Mattila
 Puhuja 0: leikkaa sen pois.
-Puhuja 0: Oona puristaa päätä, mutta tällä tavalla tämä nyt meni. Lähettäkää meille palautetta:
+Puhuja 0: Oona puristaa päätä. Mutta tällä tavalla tämä nyt meni. Lähettäkää meille palautetta:
 Puhuja 0: uutisraportti
-Puhuja 0: ja kuullaan taas ensi viikolla. Kiitos vain kaikille! Kiitos!
+Puhuja 0: ja kuullaan taas ensi viikolla. Kiitos vain kaikille. Kiitos.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardia,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Melko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja, on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivisti.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

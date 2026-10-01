@@ -1,228 +1,494 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiyönkaan Inkolopodastin toinen kausi on kuunneltavissa Helsingin Sanomien sovelluksessa
-Puhuja 0: sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan Karinkoloon.
-Puhuja 1: Hei vain! Ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 1: podcastin
-Puhuja 1: pariin. Tänään on heinäkuun kolmekymmentä. Päivä täällä Helsingin Sanomien päiväehdon podcast studiossa Helsingin Klovissa Töölönlahden
-Puhuja 1: rannalla tai ainakin jossain tuolla kaukaisuudessa se Töölönlahtikin kimaltelee.
-Puhuja 1: Minä olen John Helin, tämän podcastin juontaja ja tänään seurassani on Ivitsan Bilehilettu
-Puhuja 1: ja Siltamäki.
-Puhuja 2: Päivää päivää.
-Puhuja 1: Sekä
-Puhuja 1: visiotoimituksen talousnero
-Puhuja 1: Pihla Saravirta.
-Puhuja 1: Päivää. Mitä aiotte tehdä nyt, kun ensikuun jälkeen onkin pian jo lokakuun?
-Puhuja 2: Tuota, ai niin kuin tänään asian suhteen. Ei ole vielä tänään.
-Puhuja 1: No vaikka tänään sen asian suhteen. Ahdistaako lähestyvä syksy?
-Puhuja 2: Ei.
-Puhuja 2: Sitten loppuu päivätyöt, niin pääsen keskellä päivää uimahalliin.
-Puhuja 1: Odotatko tätä innolla. Onko tämä syksyn paras asia? Se on mun elämäntyyli.
-Puhuja 1: Erittäin kunnioitettava. Mites Pihla?
-Puhuja 3: No syksyä odotan kauhulla.
-Puhuja 3: Tuntuu, että kesä ei ole vielä edes kunnolla alkanut. Eihän täällä ole ollut hellettä, mutta sitten se on ollut jossain muualla.
-Puhuja 1: Illat pimenee ja sateet saapuvat.
-Puhuja 1: Tänään me puhumme Ranskan Bordoossa Broihaavista maastopaloista, joiden vuoksi Ranskan taivaalle on noussut Pyrokummulonimusukkospilvi.
-Puhuja 1: Miltä tilanne Bordoce näytti ja mitä maast paveljedes voi tehdä? Sitä puimaan saapuu myös meidän Ranskasta palanut toimittajamme PET ja pell.
-Puhuja 1: Tämän jälkeen keskustelemme rakentamisesta
-Puhuja 1: juhlijalla.
-Puhuja 1: Mutta sitten
-Puhuja 1: se,
-Puhuja 1: että lähdet
-Puhuja 1: jonnekin hailuotoon tai pohjoiseen
-Puhuja 1: pohjoiseen,
-Puhuja 1: voi olla kokemuksena
-Puhuja 1: mielenkiintoisempi
-Puhuja 1: kuin se, että käyt samoissa festareissa. Niin juuri
-Puhuja 2: sitä paikkaa. Elämyksellisyys on
-Puhuja 2: myös asia, mitä halutaan ja sitten työtä uutta. Kyllä,
-Puhuja 2: joo.
-Puhuja 2: Pakitin sen verran näistä julistuksista,
-Puhuja 2: että
-Puhuja 2: festivaali, josta pidän, on Sodankylän elokuvajuhlat.
-Puhuja 2: Siellä kyllä
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin
+Puhuja 2: Sanomat. Hei vain ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 2: podcastin pariin. Tänään on joulukuun kolmekymmentä. Päivä täällä Helsingin Sanomien päivä-lehden podcast-studiossa
+Puhuja 2: Helsingin Klovissa Töölönlahden rannalla
+Puhuja 2: tai ainakin jossain tuolla kaukaisuudessa se Töölönlahtikin kimaltelee.
+Puhuja 2: Minä olen John Helin, tämän podcastin juontaja. Tänään seurassani on Ivitsan, Bilehilettu
+Puhuja 2: ja Siltamäki.
+Puhuja 3: Päivää päivää.
+Puhuja 2: Sekä visiotoimituksen
+Puhuja 2: talousnero
+Puhuja 2: Pihla Saravirta.
+Puhuja 1: Päivää.
+Puhuja 2: Mitä aiotte tehdä nyt, kun ensi kuun jälkeen onkin pian jo lokakuun?
+Puhuja 3: Tota, Ai niin kuin tänään. Ei ole
+Puhuja 2: vielä tänään, mutta no vaikka tänään sen asian suhteen. Ahdistaako lähestyvä syksy? Ei.
+Puhuja 3: Sitten loppuu päivätyöt, niin pääsen
+Puhuja 3: keskellä päivää uimahallia.
+Puhuja 2: Odotatko tätä innolla? Onko tämä syksyn paras asia? Se on
+Puhuja 3: mun elämäntyyli.
+Puhuja 2: Erittäin kunnioitettava. Mites Pihla?
+Puhuja 1: No syksyä odotan kauhulla.
+Puhuja 1: Tuntuu, että kesä ei oo vielä edes kunnolla alkanut. Eihän täällä oo ollut hellettä,
+Puhuja 1: mutta sitten se on ollut jossain muualla.
+Puhuja 2: Illat pimenee ja sateet saapuvat.
+Puhuja 2: Tänään me puhumme Ranskan Bordeossa Broihaavista maastopaloista, joiden vuoksi Ranskan taivaalle on noussut Pyrokummuloninbus-ukkos-pilvi.
+Puhuja 2: Miltä tilanne bordouse näytti ja mitä maastopaloille edes voi tehdä? Sitä puimaan saapuu myös meidän Ranskasta palanut toimittajamme PET ja pell.
+Puhuja 2: Tämän jälkeen keskustelemme rakentamisesta. Miksi Suomessa ei tätä nykyään osata rakentaa toimivaa taloa taikka urheilukenttää? Tähän kysymykseen
+Puhuja 2: yritämme löytää jonkinlaisen rakenteellisen vastauksen.
+Puhuja 2: Ja sitten kosketamme vielä hellästi Suomen keskinkertaista festarikesää, jossa etelässä ihmisille on pahimmillaan täytynyt jakaa ilmaislippuja,
+Puhuja 2: vaikka
+Puhuja 2: pohjoisessa festarit porskuttaa.
+Puhuja 2: Miksi ihmiset lähtevät pohjoiseen eikä Etelä kelpaa? Siitäkin puhumme vielä tänään. Lopuksi tarjoamme totuttuun tapaan puheenaiheita pitkien epämiellyttävien
+Puhuja 2: ideaisuuksien
+Puhuja 2: varalle.
+Puhuja 2: Varalle. Tällä kertaa emme ole saaneet oikaisupyyntöjä toisin kuin kahtena aikaisempana podcastina, joten siirrymme suoraan itse aiheeseen.
+Puhuja 2: Läntisessä Ranskassa rieh ovat nyt valtavat maastopalot, jotka ovat lähestyneet uhkaavasti suurkaupunkibordooneita
+Puhuja 2: kaupunkialueita.
+Puhuja 2: Kyseessä ovat Ranskan nykyhistorian pahimmat metsäpalot, joiden takia on evakuoitu enemmän ihmisiä kuin kertaakaan
+Puhuja 2: toisen maailmansodan.
+Puhuja 2: Suurpaut saavuttivat bordon laidevaden viikossa. Ne ovat olleet niin rajuja, että niiden vuoksi Ranskassa on nähty myös harvinainen sääilmiö eli Pyrokumulonimbus,
+Puhuja 2: ukkospilvi
+Puhuja 2: eli tuli tai palopilvi, jonka puuskatuulet ja salamat ruokkivat maastopaloja.
+Puhuja 2: Ja jonka voi synnyttää pyrotaornaadoja.
+Puhuja 2: Eli
+Puhuja 2: palavista kaasuista ja tuhkasta sekä liekeistä muodostuneita pyörremyrskyjä.
+Puhuja 2: Metsäpaloja on nähty myös muualla Euroopassa
+Puhuja 2: Kreikassa ja Espanjassa sekä Pohjois-Amerikassa,
+Puhuja 2: jossa Kanadan laajojen metsäpalojen aiheuttama savu on tehnyt törkeitä raaluukkauksia ja ajelehtunut Yhdysvaltojen New Yorkiin asti. Presidentti Donald Trump väitti Kanadan myrkyttävän Yhdysvaltain ilman ja lätkäisi kanadalle viisikymmentä prosentin tullit.
+Puhuja 2: Ranskan metsäpalojen ympärille taas on kehitelty salaliittoteorioita
+Puhuja 2: ja internetissä on spekuloitu
+Puhuja 2: sillä, että metsäpalot olisi sytytetty tarkoituksella.
+Puhuja 2: Pyyro Kummolanimbuksen
+Puhuja 2: muodostuessa Bordon ylle Helsingin Sanomien politiikan toimittaja Petja Pelli oli jo lähetetty Ranskaan seuraamaan paloja. Nyt hän on palannut ja on täällä seurassamme. Tervetuloa Petja. Kiitos.
+Puhuja 2: Sä pääsit lähestulkoon
+Puhuja 2: kosketusetäisyydelle
+Puhuja 2: näistä paloista
+Puhuja 2: ja vielä viikonloppuna, kun olit siellä, ei vaikuttanut siltä, että palo olisi hallinnassa. Millaista
+Puhuja 2: oli olla Bordoossa?
+Puhuja 4: Kyllähän sen aina
+Puhuja 4: tulee jotenkin havahduttaa ja tulee lähemmäs, kun menee paikan päälle. Itse olen näistä ilmastoasioista monta vuotta raportoinut ja tavallaan tiedän, että ilmastokriisi
+Puhuja 4: on Euroopassa päällä. Mutta kun sen savun itse haistaa ja siinä kun mentiin
+Puhuja 4: lähemmäs, mentiin evakuoituihin kaupunkeihin ja lopulta sinne, missä se ihan palorintama oli ja kuulee sen rätinnän,
+Puhuja 4: mikä lähtee takasta, kun sinne heittää
+Puhuja 4: havupuuta,
+Puhuja 4: vähän vain isommassa mittakaavassa. Niin totta
+Puhuja 4: kai
+Puhuja 4: siitä tulee paha enteen ja fiilis.
+Puhuja 2: Sä nousi esiin se, että varsinkin Etelä-Suomessa
+Puhuja 2: nämä isot festarit maksaa aivan julmetun paljon.
+Puhuja 2: Flow-festivaaliliput
+Puhuja 2: kolmelle päivälle maksaa yli kaksisataaviisikymmentä euroa.
+Puhuja 3: Miks te menette sinne?
+Puhuja 2: Ylle päivälle satakaksikymmentäviisi
+Puhuja 2: euroa.
+Puhuja 2: Ja siis Weeken festivaaleilla
+Puhuja 2: kyse on samansuuntaisista
+Puhuja 2: hinnoista.
+Puhuja 2: Kyllähän se
+Puhuja 2: alkaa olla aika hirvittävän hupia.
+Puhuja 2: Tai siis hirvittävän hintaista hupia mennä näille festareille.
+Puhuja 3: Varmasti se
+Puhuja 3: vaikuttaa monen
+Puhuja 3: osallistumismahdollisuuksiin.
+Puhuja 3: Toki tämä on asia, jota me
+Puhuja 3: mediassa hirvittelemme joka vuosi, että
+Puhuja 3: joskus entisaikaan ne pääsi ruisrockiin kuin pastiliaskin
+Puhuja 3: hinnalla.
+Puhuja 3: Nämä
+Puhuja 3: kallistuvat
+Puhuja 3: koko ajan ja tähän liittyy
+Puhuja 3: monia
+Puhuja 3: tekijöitä inflaatiosta alkaen.
+Puhuja 3: Ymmärrän, että jos on jotenkin, kun nuorista ihmisistä on kyse
+Puhuja 3: tai
+Puhuja 3: opiskelijoita tai joilla on paljon huolia
+Puhuja 3: huolta toimeentulosta, niin
+Puhuja 3: pitää
+Puhuja 3: aika tarkka valita.
+Puhuja 3: Sen sijaan,
+Puhuja 3: että käy joka kuussa jossain, niin pitää
+Puhuja 3: keskittyä
+Puhuja 3: yhteen kohteeseen.
+Puhuja 1: Itse perustelen omaa festareilla käymistä tunnelmalla.
+Puhuja 1: Tunnelmalla. Mun mielestä siellä on aina todella kiva tunnelma. Maksan ehkä enemmän jopa siitä kuin näistä artisteista.
+Puhuja 1: Se ehkä ärsyttää, että näiden lippujen hinnat nousee, mutta artistit ei parane.
+Puhuja 1: Esimerkiksi no en ollut Ruisrokissa tänä vuonna. Siellähän on ollut perinteisesti
+Puhuja 1: ulkomaalaisia artisteja, mutta
+Puhuja 1: tänä vuonna siellä ruisisissa ei olisi lauantaina
+Puhuja 1: lainkaan pääesiintyjää.
+Puhuja 1: Itse henkilökohtaisesti en jaksa enää yhtäkään JVG:n
+Puhuja 1: keikkaa.
+Puhuja 1: Olen nähnyt sen sitten oikeasti varmaan kuusi kertaa.
+Puhuja 1: Oikeasti antakaa tilalle vaikka Petri Nycort. Se olisi jotain uutta ja mahtavaa varmasti.
+Puhuja 3: Eli
+Puhuja 3: vaihtelua. Vaihtelua nimen. Erinyyppäyslauluja.
+Puhuja 1: Just näin.
+Puhuja 1: Tavallaan kun on
+Puhuja 1: nähnyt tietyt artistit monta kertaa, niin ei se sitten enää
+Puhuja 1: minua ainakaankaan saa liikkeelle.
+Puhuja 1: Sitten taas miettii tämmöisiä hyviä kokemuksia, niin paras keikka oli vuonna kaksituhatta kaksikymmentäneljä Pori Jazzissa.
+Puhuja 1: Sinnehän oli lentänyt kansainvälinen tähti Jason The Rulo.
+Puhuja 1: Se oli aivan oikea show.
+Puhuja 1: Samoin vuonna kaksituhatta
+Puhuja 1: kahdeksantoista Dualipa oli Ruisrockissa.
+Puhuja 1: Olin myös silloin häntä katsomassa.
+Puhuja 1: Se oli myös hyvin huikea keikka. Tavallaan
+Puhuja 1: missä nämä hienot artistit on? Saavatko nämä areena nyt nämä artistit tänne Suomeen vai mikä
+Puhuja 1: saisi nämä kansainväliset
+Puhuja 1: huippuartistit
+Puhuja 1: tänne festareille?
+Puhuja 3: En ymmärrä. Ei ne tue Garden Helsinkiä vielä.
+Puhuja 2: Festarien varjolla puhumme jälleen Garden Helsingistä. Eipä muuta oikeasti.
+Puhuja 3: Voitte jatkaa kuunnella.
+Puhuja 2: Suomalainen musiikkiskene on kuitenkin kapea
+Puhuja 2: ainakin
+Puhuja 2: isojen artistin osalta.
+Puhuja 2: Ihan niin kuin sanoit, samat artistit tuppaa olemaan kaikissa
+Puhuja 2: konserteissa.
+Puhuja 2: Jos asut Etelä-Suomessa,
+Puhuja 2: niin
+Puhuja 2: se tuntuu jotenkin järkevämmältä
+Puhuja 2: itselle, vaikka nyt
+Puhuja 2: en hulppea festarikäviä
+Puhuja 2: olekaan. Niin se, että panostat
+Puhuja 2: kotikaupungissa olevaan isoon festariin,
+Puhuja 2: jossa ne kaikki artistit kuitenkin on ja laitat kolmesataa
+Puhuja 2: euroa tiskiin siitä, että
+Puhuja 2: menet siihen paikkaan, johon pääset lähiliikennelipulla
+Puhuja 2: kotoa ja pystyt nukkumaan kotona, sun ei tarvitse pyöriä mudassa.
+Puhuja 2: Sen sijaan, että
+Puhuja 2: joo saatat maksaa marginaalisesti vähemmän jostain parista kolmesta
+Puhuja 2: muusta festarista maailmalla, mutta sinun pitää keksiä se, että kuinka pääset sinne, kuinka nukut siellä. Kaikki tällainen.
+Puhuja 2: Kuinka teet ruokaa ja hankit ruuan.
+Puhuja 2: Kyllähän ne kulut siihen, että lähdet pois Helsingistä
+Puhuja 2: pienemmille festareille verrattuna
+Puhuja 2: johonkin flow-festareilla käymiseen, kasvavat
+Puhuja 1: tosi paljon. Onhan tuo tosi kallista. Mutta tässä muistelin
+Puhuja 1: aikaisempien
+Puhuja 1: vuosien
+Puhuja 1: hyviä tapauksia, missä joku on yrittänyt päästä ilmaiseksi näille festareille. Muistatteko
+Puhuja 1: Mutta siis muistatteko Sorsamiehen, joka yritti päästä Ruisrockiin sillä, että hän
+Puhuja 1: siis sukelisi
+Puhuja 1: tänne festarialueen
+Puhuja 1: rantaan ja riisuisi sitten sukellustarvikkeet
+Puhuja 1: veden alla ja sitten nousisi tänne festareille kuin tavallinen kävijä.
+Puhuja 3: Muistatteko te tämän? En muista kyllä ollenkaan, mutta kuulostaa
+Puhuja 3: upealta
+Puhuja 1: kriminaal Master Mind hahmolta. Joo, no hän yritti päästä ilmaiseksi.
+Puhuja 1: Voitte katsoa sorsamies.
+Puhuja 1: Googlesta varmasti löytyy ilman mitään lisäkontekstia.
+Puhuja 1: Hän yritti uida tosiaan Ruisrockiin,
+Puhuja 1: oliko se kaksituhatta seitsemäntoista.
+Puhuja 1: Muistaakseni hänellä oli joku sorsaviritelmä
+Puhuja 1: hänen sukellusvälineissään
+Puhuja 1: kiinni.
+Puhuja 2: Sorssamiestapaus nousi julkisuuteen, kun MTV uutisoi, kuinka meripelastajat olivat nähneet epätavallisen
+Puhuja 2: määrätietoisen sorsan ja katsoneet, mistä on kyse.
+Puhuja 2: Elikkä siis hänellä oli päänsä päällä tällainen tekosorsori. Näin muistaakseni oli joo.
+Puhuja 1: Tässä on nähty hyvin luovia ideoita. Yksi vuosi muistan oli joku
+Puhuja 1: YouTube-video myös siitä, että joku oli pukeutunut... Oliko se mummoksi vai vaariksi, koska
+Puhuja 1: eläkeläisethän
+Puhuja 1: pääsee tällä vesibussilla
+Puhuja 1: ilmaiseksi ruisrockiin.
+Puhuja 1: Hän oli pukeutunut
+Puhuja 1: mummoksi tai vaariksi ja päässyt
+Puhuja 1: sinne alueelle menestyksekkäästi.
+Puhuja 1: Toi on upeaa. Pitää vaihtaa taktiikkaa, jos haluaa halvalla festareille. Metsin nuoruudessa yritettiin
+Puhuja 2: salakuljettaa
+Puhuja 2: viinapulleja sinne, mutta tämä koko
+Puhuja 2: itsensä
+Puhuja 2: salakuljettaminen
+Puhuja 2: ikäihmisenä on kyllä jotenkin
+Puhuja 2: luovuuden multikuipentuma.
+Puhuja 3: Niin tai sitten voi yrittää akkreditoitua
+Puhuja 3: erinäisillä
+Puhuja 3: olemassa olevilla tai keksityillä julkaisuilla, joita
+Puhuja 3: jotkut
+Puhuja 3: ihmiset ovat ehkä joskus väitetysti
+Puhuja 2: tehneet. Mikä on paras keksitty julkaisu, jolla tätä on tehty tietyissä mukaan? En tiedä tällaisesta
+Puhuja 2: sen tarkemmin. Helsingin sanomaan päivän ehti.
+Puhuja 2: Toinen hyvä tapa päästä festareille ilmaiseksi
+Puhuja 2: ryhtyä paikallispolitiikoksi
+Puhuja 2: tai
+Puhuja 2: kansanedustajaksi.
+Puhuja 2: Sitten kuulemma
+Puhuja 2: on helppo päästä ruisrokkiin mikäli pääset Turusta eduskuntaan. Tämä kuulemma
+Puhuja 2: edesauttamaan.
+Puhuja 3: Varmasti.
+Puhuja 3: Festarimisessa on ehkä myös sellaista,
+Puhuja 3: koska tämä ongelma nimenomaan
+Puhuja 3: isoja
+Puhuja 3: vai kaikkia Etelä-Suomessa?
+Puhuja 3: Ainakin
+Puhuja 3: nyt sitten näitä Helsingin
+Puhuja 2: liikendiä,
+Puhuja 2: Downce and Coaling, joilla kilpailua on aika paljon.
+Puhuja 3: Helsingissä järjestetään ihan kauhea määrä tapahtumia
+Puhuja 3: ylipäätään.
+Puhuja 3: Sitten tässä osana
+Puhuja 3: on
+Puhuja 3: luonnollista
+Puhuja 3: luonnollista
+Puhuja 3: poistumaan
+Puhuja 3: ja siirtymää,
+Puhuja 3: että kun
+Puhuja 3: ihminen pääsee tiettyyn ikään niin sitten alkaa kiinnostaa enemmän
+Puhuja 3: kesärauhan
+Puhuja 3: ja Tampereen
+Puhuja 3: festivaalin tyyppiset
+Puhuja 3: tapahtumat, joissa on hallittu
+Puhuja 3: määrä
+Puhuja 3: ihmisiä ja ei tarvitse jonottaa
+Puhuja 3: puoli
+Puhuja 3: tuntia
+Puhuja 3: joka asiaan ja
+Puhuja 3: sitten pääsee
+Puhuja 3: kivasti kotiin tai jonkun
+Puhuja 3: kaverin luokse. Ne
+Puhuja 3: on sellaisia asioita, mitä aikuinen haluaa. Ja ne Pohjois-Suomen festarit voi
+Puhuja 2: olla enemmän elämysmäinen.
+Puhuja 2: Tunnin kahden päähän kotoa lähteminen
+Puhuja 2: saattaa tietyllä festarioilla kiinnostaa. Esimerkiksi Giikeserra-aho
+Puhuja 2: teki kävijäennätyksen kohdalle neljällä neljällä
+Puhuja 2: neljällä
+Puhuja 2: juhlijalla.
+Puhuja 2: Mutta
+Puhuja 2: se, että
+Puhuja 2: lähdet
+Puhuja 2: jonnekin hailuotoon tai pohjoiseen,
+Puhuja 2: voi olla
+Puhuja 2: kokemuksena mielenkiintoisempi kuin se, että käyt samoissa festareissa. Niin juuri sitä vaihtelua.
+Puhuja 3: Elämyksellisyys
+Puhuja 3: on myös vain
+Puhuja 3: asia, mitä halutaan. Just näin. Kyllä. Ja sitten on jotain
+Puhuja 3: uutta.
+Puhuja 3: Pakitin sen verran näistä julistuksista, että se
+Puhuja 3: festivaali, josta pidän, on Sodankylän elokuvajuhlat.
+Puhuja 1: Siellä kyllä
 Puhuja 2: ryypätään.
-Puhuja 1: Siihen pitää tehdä tietty efforttia, että ehkä se väki on
-Puhuja 1: sitoutunut.
-Puhuja 2: Se on joku viikon operaatio, kun sinne menee ja
-Puhuja 2: sitten katselee niitä. Mitä siellä tehdään? Siellä katsotaan leffoja ja valvotaan ja juodaan
-Puhuja 2: Kitisen joen rannassa ja ollaan
-Puhuja 2: hyttysten
-Puhuja 2: syötevänä siellä. Kuulostaa
-Puhuja 1: hirveän mukavalta.
-Puhuja 2: Se
-Puhuja 2: on kyllä mukavaa.
-Puhuja 1: Vuoden parhaat festarit
-Puhuja 1: eivät ole festarit, vaan on se, kun pääsen
-Puhuja 1: kerran vuodessa lyömään lapsia sekä aikuisia
-Puhuja 1: pehmoaseilla.
-Puhuja 1: Pitää. Kai sotahuuto!
-Puhuja 1: Kyllä joo.
-Puhuja 3: Mikä tämä juttu on? Se on siis pehmomiekkailutapahtuma.
-Puhuja 1: Missä? Niin sanottu bofffaus.
+Puhuja 2: Siihen pitää tehdä tietty efforttia, että ehkä se väki on
+Puhuja 3: sitoutunut. Se on joku viikon operaatio, kun sinne menee ja sitten katselee... Mitä siellä tehdään? Siellä katsotaan leffoja ja valvotaan
+Puhuja 3: ja juodaan
+Puhuja 3: Kitisen joen rannassa ja ollaan
+Puhuja 3: hyttysten
+Puhuja 3: syötevänä siellä. Kuulostaa
+Puhuja 2: hirveän mukavalta. Se
+Puhuja 3: on kyllä mukavaa.
+Puhuja 2: Minulle mun
+Puhuja 2: vuoden parhaat festarit
+Puhuja 2: eivät ole festarit, vaan on se, kun pääsen kerran vuodessa lyömään lapsia sekä aikuisia
+Puhuja 2: pehmoleilla.
+Puhuja 3: Mitä? Ai sotahuuto!
+Puhuja 2: Joo, kyllä joo. Siis mikä tämä juttu on? Se on siis pehmomiekkailu
+Puhuja 1: tapahtuma. Missä? Niin sanottu bofffaus.
 Puhuja 1: Joo.
-Puhuja 1: Tätä kiertää
-Puhuja 1: ympäri Suomea. Nyt se oli Orivedellä toista kertaa peräkkäin.
-Puhuja 1: Mutta
-Puhuja 1: siinä tulee musta myös
-Puhuja 1: tätä kesäfestiongelma
-Puhuja 1: esiin.
-Puhuja 1: Jos voin maksaa kivasta viikonlopusta, jonka jälkeen olen täysin rikki, mutta olen päässyt lyömään lapseen ja aikuisia pehmuoeilla.
-Puhuja 1: Jos mä maksan siitä viiskymppiä
-Puhuja 1: viikonlopusta ja
-Puhuja 1: voin sillä nukkua pellolla,
-Puhuja 1: voi olla mutaa, voi olla ikävää.
-Puhuja 1: Toisella viilläkympillä
-Puhuja 1: saan ihan kohtalaisen tasokkaan
-Puhuja 1: tapahtumaruokailun. Niin miksi lähtisin maksamaan kolmesataaviisikymmentä euroa festareista, joissa mun pitää tapella kyynärpäätaktiikalla
-Puhuja 1: kaljasta.
-Puhuja 1: Siellä on liian paljon ihmisiä, joita en saa lyödä.
-Puhuja 2: Jos lyöt lasta ruisrockissa, niin saat sakot.
-Puhuja 1: Just
-Puhuja 1: tämä. Ja menetän työni. Puhumattakaan
-Puhuja 3: bajamajoista, joissa keko kasvaa kolmatta päivää
-Puhuja 1: yleensä kerran. Niitä on nähty myös sotahuudossa.
-Puhuja 1: Olemassa. Toisaalta
-Puhuja 1: käsittääkseni pajamajoja vuokraamalla tekee myös hirveän määrän rahaa,
-Puhuja 1: jos vuokraat niitä festivaaleille.
-Puhuja 1: Laitetaan nyt tämmöinen vinkki kaikille. Niin voisin tehdä ensin.
-Puhuja 1: Sitten
-Puhuja 1: on musta tehtykin
-Puhuja 1: ehkä juttu. Okei.
-Puhuja 1: Hauska.
-Puhuja 1: Esimerkiksi tällainen, että joku levitti rock-festivaalin
-Puhuja 1: ulosteen rantapuistoon tuli ensimmäinen haku Googlessa,
-Puhuja 1: kun kuukausi.
-Puhuja 1: Tämä ei ehkä liity tähän.
-Puhuja 2: This want make the cut.
-Puhuja 1: Tästä on tehty siis juttuja kyllä.
-Puhuja 1: Mutta Bajamajoella ilmeisesti tekee hyvän määrän rahaa, jonka myös seitsemänsataa
-Puhuja 1: hengen yleisötapahtumaa järjestäneenä voin sanoa, että Bajamajat maksaa
-Puhuja 3: ison osan budjetista. Kunhan ei itse tarvitse tyhjentää niitä.
-Puhuja 1: Jep. Sitten, kun te olette tyhjentämässä Bayamoja
-Puhuja 1: rakennusvirheitä
-Puhuja 1: täynnä olevassa murjussa
-Puhuja 1: ja metsät palavat vieressä ja se pitäisi keksiä vieruskaverin kanssa jotain mukavaa puhuttavaa
-Puhuja 1: juodessani ylihintaisia kaljoja.
-Puhuja 1: Mistä te puhutte,
-Puhuja 1: Pihla?
-Puhuja 3: No kuulkaas minä olen innostunut trillerikirjoista
-Puhuja 3: tässä vuoden
-Puhuja 3: sisällä, joten
-Puhuja 3: ajattelin, että kerron teille nyt omat
-Puhuja 3: suosikkini tältä
-Puhuja 3: listalta. Kaikki on tämmöisiä vähän ehkä psykologisia trillereitä.
-Puhuja 3: Kolmosena listalla on trilleri arvosana asteikolla neljäkymmentäviisi
-Puhuja 3: kotiapulainen, josta tuli myös elokuva.
-Puhuja 3: Tänä vuonna se on tosi helppolukuinen
-Puhuja 3: eli jos on ollut vaikka pitkään taukolukemisessa,
-Puhuja 3: niin loistava kirja aloittaa.
-Puhuja 3: Toisena on The Only 1 left. Luin sen englanniksi, mikäköhän sen nimi nyt suomeksi on.
-Puhuja 3: Mutta se sai arvosanaksi neljä pilkku viisi viisi.
-Puhuja 3: Tosi viihdyttävä kirja, voi suositella.
-Puhuja 3: Lukekaa sekin. Mutta ihan ykkösenä tänä vuonna on tällainen kirja
-Puhuja 3: nimeltä Hiljainen potilas. Se sai minulta täydet arvosanat viisikymmentäviisi.
-Puhuja 3: Se on hidas,
-Puhuja 3: mutta erittäin yllättävää. Yleensä
-Puhuja 3: itse arvaan nuo twistit noissa trillerikirjoissa,
-Puhuja 3: mutta tätä en osannut odottaa. Mistä se kertoo? Se kertoo tämmöisestä
-Puhuja 3: onko se psykologista vai psykiatrista,
-Puhuja 3: joka hoitaa tämmöistä hiljaista potilasta, joka ei
-Puhuja 3: puhu. Sitten se kertoo
-Puhuja 3: tarinaa. Miten se lähtee sitä, että on mahdollisuuksia. Tässä on jo mysteeri ollut. Muistaakseni
-Puhuja 3: tällä potilaalla oli joku suhde,
-Puhuja 3: jossa mies kuoli. Kukaan ei oikein tiedä, miten mies kuoli, koska nainen ei ole suostunut siitä asiasta puhumaan.
-Puhuja 2: Hämärät olosuhteet.
-Puhuja 2: Voisin
-Puhuja 2: kevyt suositella sitä, että
-Puhuja 2: ehkä
-Puhuja 2: tämän podin tosiystävät muistavat, että joitakin viikkoja oli puhetta yhdysvaltalaistoimittaja
-Puhuja 2: David Dranistä, joka on kirjoittanut Killers of the Flowurmuun ja monta muuta hienoa
-Puhuja 2: tietoteosta.
-Puhuja 2: Muun muassa Amazonin
-Puhuja 2: kadonneesta kaupungista, jota
-Puhuja 2: tutkimusmatkailija Percy Favchet yritti
-Puhuja 2: 1920-luvulla tunnetuin seurauksin etsiä ja tätä myös David Gran yritti etsiä kaupunkia.
-Puhuja 2: Nyt on
-Puhuja 2: julkaistu uutinen, että se on löytynyt.
-Puhuja 2: Suomalaistutkijat
-Puhuja 2: ovat löytäneet todisteita siitä, että Amazonin sademetsässä on todellakin ollut
-Puhuja 2: kaupunki.
-Puhuja 2: Sivilisaatio,
-Puhuja 2: jossa on asunut jopa kolme miljoonaa ihmistä, noin
-Puhuja 2: vuodesta kuusisataa
-Puhuja 2: ennen ajanlaskumien
-Puhuja 2: alkua alkaen. Siellä on
-Puhuja 2: tällaisia uusia
-Puhuja 2: tekniikoita,
-Puhuja 1: joilla voidaan Kun on tehnyt laserkeilausta?
-Puhuja 2: Niin, voidaan nähdä,
-Puhuja 2: miten siellä pinnan, kun sellaiset mitä on pinnan alla.
-Puhuja 2: Ei tarvitse
-Puhuja 2: löytää
-Puhuja 2: ruukunpalasta saada kuopsutettua
-Puhuja 2: esiin, vaan nähdään päältä päin, että siellä se on.
-Puhuja 2: Tästä oli tänään
-Puhuja 2: juttu, tämä on
-Puhuja 2: aika
-Puhuja 2: huikea homma. Oikea
-Puhuja 2: suositus
-Puhuja 2: on, jos
-Puhuja 2: maailmassa on kaikenlaisia asioita, joista ei välttämättä
-Puhuja 2: ole tietoinen,
-Puhuja 2: kuten japanilainen feministinen
-Puhuja 2: ja sen klassikot,
-Puhuja 2: mutta tällaisiakin tosiaan on,
-Puhuja 2: joista Fumiko Hajashin kiertolainen on julkaistu keväällä suomeksi, kun Suomeen perustettiin uusi pieni kustantamo, joka on erikoistunut japanilaiseen kirjallisuuteen.
-Puhuja 2: Päätyy
-Puhuja 2: erilaisiin tilanteisiin
-Puhuja 2: elämässä ja kertoo niistä aika sellaisella lakonisella ja melankolisella
-Puhuja 2: otteella.
-Puhuja 2: Se on
-Puhuja 2: kauhean
-Puhuja 2: hieno kirja
-Puhuja 2: myös fyysisesti,
-Puhuja 2: koska Eeva Värtö on suunnitellut kauniin kirjaesineen, joka on hienon
-Puhuja 2: muotoinen elehdin.
-Puhuja 2: Teidän täytyy itse googlata, että näette sen.
-Puhuja 1: Itse olen
-Puhuja 1: osallistunut juhliin sekä järjestänyt juhlia.
-Puhuja 1: En voi hyvillä mielin suositella kellekään juhlien järjestämistä. Pidin
-Puhuja 1: läksiäiset
-Puhuja 1: viime perjantaina.
-Puhuja 2: Mistä, Yhdysvaltoihin. Sinä olet täällä.
-Puhuja 1: Olen nähnyt se Yhdysvaltoihin syksyn aluksi
-Puhuja 1: Helsingin Sanomien säätiön
-Puhuja 1: rahoittamana Atlantic councy laitoshautomaan tekemään turvallisuuspoliittista tutkimusta.
-Puhuja 1: Mutta siitä lisää ehkä joskus. Mutta järjesti läksiäjaiset heinäkuussa, koska on hyvä varautua etukäteen.
-Puhuja 1: Juhlien järjestäminen aiheuttaa hirveästi
-Puhuja 1: erilaisia
-Puhuja 1: ahdistustiloja sekä rahan menoa. Sitä en voi tavallaan suositella. Mutta ystäväni helmi, joka on myös välillä
-Puhuja 1: tätä podia
-Puhuja 1: tekniikkaa
-Puhuja 1: hoitanut ja oli viime vuonna podissa,
-Puhuja 1: hän
-Puhuja 1: omissa juhlissaan teki tällaisen nakkikrokotiilin
-Puhuja 1: kaikille syötäväksi.
-Puhuja 1: Joten voin
-Puhuja 2: He kesti nyt pitkän alustuksen pian, kun suositus
-Puhuja 2: on nakki.
-Puhuja 1: Kyllä, nakkirokotiili.
-Puhuja 1: Eli hän teki
-Puhuja 1: nakeista
-Puhuja 1: juustosta
-Puhuja 1: sekä muista naposteltava
-Puhuja 1: tällaisen ihanaisen krokotiilimaisen
-Puhuja 1: olennon, jonka hän sitten tarjoaa ystävilleen.
-Puhuja 1: Vaikka
-Puhuja 1: juhlien järjestäminen on hieman perseestä,
-Puhuja 1: niin voin suositella kaikille sitä, että teette syötäviä pieniä eläimiä ystävillene siksi, koska ne tuottavat iloa.
-Puhuja 1: Tuokaa sitä Wimsiä teidän elämäänne vai se, mikä tämä kesä nyt olikaan. Ai niin, onko nyt joku keiju-kesä menossa? Joo, ehkä Wimsi tai joku tällainen.
-Puhuja 1: Mä olin ihan vanhan tämmöiseen. Mie en tiedä mistä te puhutte. Se on tosi fine.
-Puhuja 1: Kiitos Tuija!
-Puhuja 1: Kiitos Pihla!
-Puhuja 1: Tekniikassa meillä on toiminut Janne E.ekki, joka on juuri paljon nyt lomalta.
-Puhuja 1: Kiitos teille kuulijoille. Tämä uutisrobotti podcastin kesätiimi palaa vielä kertaalleen ensi viikolla, jos siihen asti.
-Puhuja 1: Kuulemmesi.
+Puhuja 2: Tätä kiertää
+Puhuja 2: ympäri Suomea. Nyt se oli Orivedellä toista kertaa peräkkäin.
+Puhuja 2: Mutta
+Puhuja 2: siinä tulee musta myös
+Puhuja 2: tätä kesäfestiongelma
+Puhuja 2: esiin. Jos voin maksaa kivasta viikonlopusta, jonka jälkeen olen täysin rikki, mutta olen päässyt lyömään lapsia ja aikuisia pehmoaseilla.
+Puhuja 2: Jos mä maksan siitä viiskymppiä
+Puhuja 2: viikonlopusta ja voin sillä nukkua siellä pellolla,
+Puhuja 2: voi olla mutaa,
+Puhuja 2: ikävää ja toisella villakympillä
+Puhuja 2: saan
+Puhuja 2: ihan kohtalaisen tasokkaan tapahtumaruokailun.
+Puhuja 2: Miksi lähtisin maksamaan kolmesataaviisikymmentä
+Puhuja 2: euroa festareista, joissa minun pitää tapella kyynärpäätaktiikalla
+Puhuja 2: kaljasta.
+Puhuja 2: Siellä on liian paljon ihmisiä, joita mä en saa lyödä.
+Puhuja 3: Jos sä lyöt lasta ruisrokissa, niin saat sakut. Jep,
+Puhuja 2: just tämä. Ja mä menetän työni.
+Puhuja 2: Puhumattakaan bajamajoista, joissa se keko kasvaa sitä kolmatta päivää kuin yleensä kerran. Niin, niitä on nähty myös satahuudossa. Mä
+Puhuja 2: järjestin sen kaksituhatta kaksikymmentäneljä.
+Puhuja 2: Olen
+Puhuja 2: tavallaan kevyjen jäävi, mutta mä en ole nykyään
+Puhuja 2: missään roolissa
+Puhuja 2: tässä organisaatiossa. Mutta vajaamajaongelma
+Puhuja 2: on tietty ehkä kaikkialla
+Puhuja 2: olemassa. Toisaalta
+Puhuja 2: käsittääkseni pajamajoja vuokraamalla tekee myös hirveä määrä rahaa,
+Puhuja 2: jos vuokraat niitä testivaaleja. Tämä on nyt tämmöinen vinkki kaikille
+Puhuja 2: ensi kesään.
+Puhuja 2: Sitten on musta tehtykin ehkä
+Puhuja 3: juttu. Okei.
+Puhuja 3: Hauskaa.
+Puhuja 2: Esimerkiksi tällainen, että joku levitti rock-festivaalin, nosteet rantapuistoon tuli ensimmäinen haku Googlessa,
+Puhuja 2: kun kuulkasin.
+Puhuja 3: This want make the cut.
+Puhuja 2: Tästä on tehty siis juttuja.
+Puhuja 2: Mutta bajamajoella ilmeisesti tekee hyvän määrän rahaa, jonka myös
+Puhuja 2: seitsemänsataa hengen yleisötapahtumaa järjestämänä voi sanoa, että bajamaijat maksaa
+Puhuja 1: ison osan budjetista. Kunhan ei itse tarvitse tyhjentää niitä.
+Puhuja 2: Sitten kun te olette tyhjentämässä bajamajoja
+Puhuja 2: rakennusvirheitä
+Puhuja 2: täynnä olevassa murjussa ja siis metsät palavat siinä vieressä ja se pitäisi keksiä vieruskaverin kanssa jotain mukavaa puhtavaa
+Puhuja 2: juodessani ylihintaisia kaljoja.
+Puhuja 2: Niin mistä te puhutte,
+Puhuja 2: Pihla?
+Puhuja 1: No kuulkaas, minä olen innostunut trillerikirjoista
+Puhuja 1: tässä vuoden
+Puhuja 1: sisällä, joten
+Puhuja 1: ajattelin, että kerron teille nyt omat suosikkini tältä listalta. Kaikki on tämmöisiä vähän ehkä psykologisia trillereitä.
+Puhuja 1: Kolmosena listalla on trilleri arvosana-asteikolla
+Puhuja 1: neljäkymmentäviisi
+Puhuja 1: kotiapulainen, josta tuli myös elokuva.
+Puhuja 1: Tänä vuonna se on tosi helppolukuinen,
+Puhuja 1: eli jos on ollut vaikka pitkään taukolukemisessa,
+Puhuja 1: niin loistava kirja aloittaa.
+Puhuja 1: Toisena on The Only 1 left.
+Puhuja 1: Luin sen englanniksi, mikäköhän sen nimi nyt suomeksi on.
+Puhuja 1: Mutta se sai arvosanaksi
+Puhuja 1: neljä pilkku viisi viisi.
+Puhuja 1: Tosi viihdyttävä kirja, voi suositella.
+Puhuja 1: Lukekaa sekin. Mutta ihan ykkösenä tänä vuonna on tällainen kirja
+Puhuja 1: nimeltä Hiljainen potilas. Se sai minulta täydet arvosanat viisikymmentäviisi.
+Puhuja 1: Se on hidas,
+Puhuja 1: mutta erittäin yllättävää. Yleensä
+Puhuja 1: itse arvaan nuo twistit noissa trillerikirjoissa,
+Puhuja 1: mutta tätä en osannut odottaa. Missä se kertoo?
+Puhuja 1: Se kertoo tämmösestä
+Puhuja 1: psykologista vai psykiatrista, joka hoitaa hiljaista
+Puhuja 1: potilasta, joka ei puhu. Ja sitten se kertoo
+Puhuja 1: tarinaa.
+Puhuja 1: Miten se lähtee johonkin mahdollisuuksia?
+Puhuja 1: Tässä on jo mysteeri ollut. Muistaakseni
+Puhuja 1: tällä potilaalla oli
+Puhuja 1: suhde,
+Puhuja 1: jossa mies kuoli. Kukaan ei oikein tiedä, miten mies kuoli, koska nainen ei ole suostunut asiasta puhumaan.
+Puhuja 1: Hämärät olosuhteet.
+Puhuja 3: Voisin
+Puhuja 3: kevyt suositella sitä, että
+Puhuja 3: ehkä
+Puhuja 3: tämän
+Puhuja 3: budjetin tosiystävät muistavat, että joitakin viikkoja sitten oli puhetta yhdysvaltalaistoimittaja
+Puhuja 3: David Dranistä, joka on kirjoittanut Killers of the Flowurmuun ja monta muuta hienoa
+Puhuja 3: tietoteosta.
+Puhuja 3: Muun muassa Amazonin
+Puhuja 3: kadonneesta kaupungista, jota
+Puhuja 3: tutkimusmatkailija Percy Favchet yritti
+Puhuja 3: 1920-luvulla
+Puhuja 3: tunnetuin seurauksin etsiä ja tätä myös David Gran yritti etsiä kaupunkia.
+Puhuja 3: Nyt on julkaistu uutinen, että se on löytynyt.
+Puhuja 3: Suomalaisistutkijat
+Puhuja 3: ovat löytäneet todisteita siitä, että Amazonin sademetsässä on todellakin ollut
+Puhuja 3: kaupunki.
+Puhuja 3: Sivilisaatio,
+Puhuja 3: jossa on asunut jopa kolme miljoonaa
+Puhuja 3: ihmistä,
+Puhuja 3: noin vuodesta kuusisataa
+Puhuja 3: ennen ajanlaskun alkua alkaen.
+Puhuja 3: Siellä on
+Puhuja 3: tällaisia uusia
+Puhuja 3: tekniikoita,
+Puhuja 2: joilla voidaan... Kun olen tehnyt laserkeilaus...
+Puhuja 3: Niin, voidaan
+Puhuja 3: nähdä,
+Puhuja 3: että miten siellä pinnalla on kuin sellaiset, mitä on pinnan alla. Ei tarvitse saada
+Puhuja 3: ruukunpalasta
+Puhuja 3: kuopsutettua
+Puhuja 3: esiin, vaan nähdään päältä päin, että siellä se on.
+Puhuja 3: Tästä oli tänään
+Puhuja 3: juttu,
+Puhuja 3: tämä on aika
+Puhuja 3: huikea
+Puhuja 3: homma.
+Puhuja 3: Oikea
+Puhuja 3: suositus on, jos
+Puhuja 3: maailmassa on kaikenlaisia asioita, joista ei
+Puhuja 3: välttämättä ole tietoinen, kuten japanilainen feministinen kirjallisuus ja sen klassikot,
+Puhuja 3: mutta tällaisiakin tosiaan on,
+Puhuja 3: joista Fumiko Hajashin kiertolainen
+Puhuja 3: on julkaistu keväällä suomeksi, kun Suomeen perustettiin uusi pieni kustantamo, joka on erikoistunut japanilaiseen
+Puhuja 3: kirjallisuuteen.
+Puhuja 3: Kiertolainen
+Puhuja 3: on
+Puhuja 3: autofiktiivinen
+Puhuja 3: teos työläisnaisesta,
+Puhuja 3: joka
+Puhuja 3: päätyy
+Puhuja 3: erilaisiin tilanteisiin
+Puhuja 3: elämässä ja kertoo niistä aika sellaisella lakonisella ja melankolisella
+Puhuja 3: otteella.
+Puhuja 3: Se on
+Puhuja 3: kauhean
+Puhuja 3: hieno kirja myös
+Puhuja 3: fyysisesti,
+Puhuja 3: koska Eeva Värtö on suunnitellut
+Puhuja 3: kauniin kirjaesineen, joka on
+Puhuja 3: hienon muotoinen elehdin sitä täällä studiossa. Mutta teidän täytyy itse googlata se, että näette sen.
+Puhuja 2: Itse olen
+Puhuja 2: osallistunut juhliin sekä järjestänyt juhlia.
+Puhuja 2: En voi hyvillä mielin suositella kellekään juhlien järjestämistä. Pidin
+Puhuja 2: läksiäiset
+Puhuja 2: viime perjantaina.
+Puhuja 3: Mistä, Yhdysvaltoihin. Sinä olet täällä.
+Puhuja 2: Olen nähnyt Yhdysvaltoihin syksyn aluksi
+Puhuja 2: Helsingin Sanomien säätiön
+Puhuja 2: rahoittamana Atlanti Counciljoitushautuman
+Puhuja 2: tekemän turvallisuuspoliittista
+Puhuja 2: tutkimusta.
+Puhuja 2: Mutta siitä lisää ehkä joskus. Mutta järjesti läksiäiset heinäkuussa, koska on hyvä varautua etukäteen.
+Puhuja 2: Juhlien järjestäminen aiheuttaa hirveästi
+Puhuja 2: erilaisia
+Puhuja 2: ahdistustiloja ja rahan menoa. Sitä en voi tavallaan suositella.
+Puhuja 2: Mutta ystäväni Helmi, joka myös on välillä
+Puhuja 2: tätä politiikassa hoitanut ja oli viime vuonna podissa,
+Puhuja 2: hän
+Puhuja 2: omissa juhlissaan teki tällaisen nakkikrokotiilin
+Puhuja 2: kaikille syötäväksi.
+Puhuja 3: Joten voin... He käesit nyt suppea pitkän alustuksen pian, kun suositus
+Puhuja 3: on nakki.
+Puhuja 2: Kyllä, nakkkrokotiili.
+Puhuja 2: Eli hän teki
+Puhuja 2: nakeista
+Puhuja 2: juustosta
+Puhuja 2: sekä muista naposteltavasta
+Puhuja 2: tällaisen ihanaisen krokotiilimaisen
+Puhuja 2: olennon, jonka hän sitten tarjoi ystävilleen.
+Puhuja 2: Vaikka
+Puhuja 2: juhlien järjestäminen on hieman perseistä,
+Puhuja 2: niin voin suositella kaikille sitä, että teette syötäviä pieniä eläimiä ystävillene siksi, koska ne tuottavat iloa.
+Puhuja 2: Tuokaa sitä Wimsiä teidän elämäänne vai se, mikä tämä kesä nyt olikaan. Aina, jos nyt joku keiju-kesä
+Puhuja 2: menossa? Joo, ehkä Wimsi tai joku tällainen.
+Puhuja 2: Mä olin ihan vanhan tämmöiseen. En tiedä, mistä te puhutte.
+Puhuja 2: Se on tosi fine.
+Puhuja 2: Kiitos Tuija!
+Puhuja 2: Kiitos Pihla!
+Puhuja 2: Tekniikassa meillä on toiminut Janne Ellkki, joka on juuri paljon lomalta.
+Puhuja 2: Ja kiitos teille kuulijoille. Tämä Uusi-raportti-podcastin
+Puhuja 2: Kesätiimi palaa vielä kertaalleen
+Puhuja 2: ensi viikolla ja siihen
+Puhuja 3: asti. Kuulemmesi.
+Puhuja 2: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin
+Puhuja 0: yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

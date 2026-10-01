@@ -1,0 +1,479 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Hei ja tervetuloa
+Puhuja 2: Helsingin Sanomien uutisraportti
+Puhuja 2: podcastin
+Puhuja 2: torstaina kaksikymmentäneljä.
+Puhuja 2: Kesäkuuta.
+Puhuja 2: Mehän nauhoitamme tämän jo keskiviikkona juhannusmenojen takia, mutta teidän iloksenne
+Puhuja 2: juhannusaattona
+Puhuja 2: saatetaan tämä lähetys.
+Puhuja 2: Minun nimeni on Alma Onali ja vedän jälleen uutisraportin kesätiimiä tänä armon kesänä kaksituhatta
+Puhuja 2: kaksikymmentäyksi.
+Puhuja 2: Kanssani täällä ihanan viileässä sanomatalossa ovat politiikan toimittaja
+Puhuja 2: Elina Kervinen
+Puhuja 2: ja HS-vision
+Puhuja 2: toimittaja Emil Elo. Hei Emil. Terve.
+Puhuja 2: Mitenkäs te ajattelitte
+Puhuja 2: viettää mittomaria? Aiotteko tehdä taikoja?
+Puhuja 3: Ei ehkä taikkoja,
+Puhuja 3: mutta mä oon ihan itseasiassa menossa Tammisaareen.
+Puhuja 3: Mun puolisoni
+Puhuja 3: perheaseman talo ja sinne mennään jollain rannalla
+Puhuja 3: ja grillaillaan.
+Puhuja 2: Kuulostaa ihanalta. Mitä Seemille?
+Puhuja 1: Varmaan ollaan ihan states. Veikkaan, että me mennään johonkin uimaan ja grillaamaan
+Puhuja 1: ja
+Puhuja 1: viettää koira johonkin kylmää.
+Puhuja 2: Juuri näin. Itsehän olen täällä Sanomatalossa
+Puhuja 2: työvuorossa
+Puhuja 2: juhannuksen yli.
+Puhuja 2: Tämän viikon podcastissa keskustellaan
+Puhuja 2: perussuomalaisten
+Puhuja 2: puheenjohtaja Jussi Halla-aho
+Puhuja 2: ilmoituksesta, että hän ei aio jatkaa perussuomalaisten puheenjohtajana.
+Puhuja 2: Lisäksi puhumme Ruotsin historiallisesta
+Puhuja 2: hallituskriisistä
+Puhuja 2: sekä elokapinasta,
+Puhuja 2: joka on nostattanut lämpöä niin kaduilla kuin somessakin,
+Puhuja 2: ja lopuksi vielä hyviä
+Puhuja 2: keskustelun aiheita pitkien
+Puhuja 2: epämukavien hiljaisuuksien
+Puhuja 2: varalle. Perussuomalaisten
+Puhuja 2: puheenjohtaja Jussi Halla-aho ilmoitti maanantaina, että ei aio hakea jatkokaudelle
+Puhuja 2: puheenjohtajaksi
+Puhuja 2: elokuisessa perussuomalaisten puoluekokouksessa.
+Puhuja 2: Tämä otettiin jotenkin yllätyksenä vastaan, mutta kuinka suuri yllätys tämä Halla-Ahon ilmoitus vetäytyä
+Puhuja 2: puheenjohtajuudesta
+Puhuja 2: oikeastaan lopulta oli?
+Puhuja 3: Kyllä se mun mielestä oli yllätys, että kyllähän tässä nyt on ollut sellaisia puhetta, että hänhän oli puhunut tästä tähän sävyyn jo aiemminkin, että hän ei
+Puhuja 3: aio siinä kauhean montaa kautta olla ja näin. Ja kyllä kai se siinä valossa olisi voinut olla nähtävissä. Mutta kyllä tämä mun mielestä ajatus oli kuitenkin
+Puhuja 3: suurelle osalle. Ainakin yllätyspuolueen johdossahan siitä tiedettiin ja näin.
+Puhuja 3: Jos nyt ajattelee kuitenkin, että miten heillä on ihan hyvin menneet kuntavaalit
+Puhuja 3: takana, tai oikeinkin hyvin, ei ehkä niin hyvin kuin gallupit antoi odottaa, mutta kuitenkin hyvät vaalit takana ja kannatus korkealla ja mahdollinen hallituspaikka tulossa ja niin kuin näin. Siinä aika moni
+Puhuja 3: poliittinen johtaja varmaan sitten olisi tehnyt toisenkin johtopäätöksen,
+Puhuja 3: mutta Halla-aho teki tällaisen.
+Puhuja 1: Kyllä
+Puhuja 1: huomasin itseni silloin, kun se ilmoitus tuli, yllätyin,
+Puhuja 1: vaikka jälkikäteen
+Puhuja 1: voi sanoa, että oli juuri nämä merkit ilmassa, mitä hän oli itsekin kommentoinut.
+Puhuja 1: Mulle päällimmäisenä jää ehkä mieleen, miksi
+Puhuja 1: eduskuntavaalit
+Puhuja 1: päätti skipata.
+Puhuja 1: Mikä se syy oli, että perussuomalaiset ei lähde Jussi Halla-ahon kanssa eduskuntavaaleihin.
+Puhuja 1: Tietty se voi olla, että he ovat
+Puhuja 1: vähän hallituskelpoisempia
+Puhuja 1: vaikkapa Riikka Purran kanssa.
+Puhuja 2: Niin, Halla-aho itsehän on puhunut tällaisia kulttijohtajia
+Puhuja 2: ja Kekkossyndroomaa
+Puhuja 2: vastaan.
+Puhuja 2: Olen ollut sitä mieltä, että puolueen ei pitäisi levätä vain yhden henkilön harteilla. Perussuomalaisethan
+Puhuja 2: nyt vaan ovat perinteisesti olleet sellainen puolue, joka lepää yhden ihmisen harteilla, ja sitten kun se johtaja vaihtuu, se tuntuu aluksi ihan todella omituiselta. Kyllä silloin, kun
+Puhuja 2: niin kyllähän silloinkin tuntui siltä,
+Puhuja 2: että miten voi olla, kun se on henkilöity niin vahvasti
+Puhuja 2: yhteen ihmiseen.
+Puhuja 2: Mutta sitä juuri mietin, onko tässä muutakin taustalla. Kyllähän tämä varmasti siellä puolueessa sinänsä on tiennyt, että Timo Soini esimerkiksi itse jo huhtikuussa blogissaan
+Puhuja 2: sanoi, että Halla-aho tekee tietä Riikka Purralle sitä elokuuista
+Puhuja 2: puoluekokousta varten.
+Puhuja 2: Mitä te arvelette?
+Puhuja 2: Otan kantaa näin. Mitkä on Kouvolasta, mä tiedän.
+Puhuja 2: Mutta tämä, mikä on yllättänyt ehkä tässä, on se, että elokapinan
+Puhuja 2: toimet ovat herättäneet aika paljon raivoa.
+Puhuja 2: Itse en ainakaan
+Puhuja 2: käsin, mutta tietysti en ole ollut täällä. Mun ei ole tarvinnut autoilla tai mennä ratikalla manskua pitkin. Tämä ei ole häirinnyt minua mitenkään kovasti, tämä
+Puhuja 2: heidän mielenosoituksensa. Ja tietysti mielenosoittuksen syyt
+Puhuja 2: on mun mielestä ihan kuitenkin
+Puhuja 2: relevantteja, sanotaanko näin.
+Puhuja 2: Ilmastonmuutos
+Puhuja 2: on aikamme
+Puhuja 2: vakavin asia.
+Puhuja 2: Miksi tämä elokuvat on herttanut niin paljon raivoa, koska kyllähän täällä aikaisemmin on
+Puhuja 2: turpeen tuottajat huristellut rekoilla pitkin manskua kanssa ja sen takia liikenne on jumahtanut
+Puhuja 2: ja
+Puhuja 2: samantyyppisiä juttuja on nähty aikaisemmin. No sitten on tietysti mielenostuksia, jotka sinänsä
+Puhuja 2: eivät häiritse mitään liikennettä, tulee mieleen vaikka
+Puhuja 2: kulttuurialan ihmisten
+Puhuja 2: erittäin esteettinen ja hieno mielenosoitus
+Puhuja 2: tuossa sanomatalon edustalla.
+Puhuja 2: Miksi tämä elokapina nyt
+Puhuja 1: osuu ihmisten hermoa? Tämä on identiteettipolitiikan
+Puhuja 1: ytimessä,
+Puhuja 1: oletko sä meitä vai heitä.
+Puhuja 1: Oletko hippi vai ei hippi
+Puhuja 1: tyyppisesti. Ajattelua.
+Puhuja 1: Mutta onko se oikeasti osunut niin paljon hermoa? Jos
+Puhuja 1: puhutaan, että Twitterissä on satoja ihmisiä, jotka on suuttunut,
+Puhuja 1: niin mitä se oikeasti kontekstiin laitettuna tarkoittaa?
+Puhuja 2: Sepä se, että mustakin tuntuu, että ei tämä lopulta ehkä koske niin suurta joukkoa ihmisiä. Ei.
+Puhuja 1: Mutta toisaalta kiinnostaa mun mutsi, joka asuu Turussa.
+Puhuja 2: Toisaalta
+Puhuja 2: on niitä ihmisiä, joita kiinnostaa. Myös sellaiset ihmiset, jotka ei edes asu Helsingissä, mutta asuu jossain muualla, niin jostain syystä tällaiset
+Puhuja 2: nuoret
+Puhuja 2: kivasti kadulla telttailevat
+Puhuja 2: tyypit, jotka puhuu ilmastonmuutoksesta,
+Puhuja 2: se herättää jonkun aivan jäätävän
+Puhuja 2: viha ja pelkoreaktion.
+Puhuja 2: Jotenkin ihmiset eivät lainkaan käsitä sitä,
+Puhuja 2: miksi he nyt ovat siellä.
+Puhuja 2: Minusta tuntuu, että onko tämä myös sitä, että Suomessa tällaista
+Puhuja 2: kansalaistottelemattomuuden
+Puhuja 2: perinnettä
+Puhuja 2: ei
+Puhuja 2: kauheasti kuitenkaan ole. On täällä toki asioita viety myös kansalaistottelemattomuudella,
+Puhuja 2: joskus eteenpäin, mutta onko täällä niin vahva
+Puhuja 2: usko ja luotto johonkin lakiin ja poliisiin,
+Puhuja 2: että joku
+Puhuja 2: oikein
+Puhuja 2: tarkoituksella
+Puhuja 2: väkivallattomasti,
+Puhuja 2: tavallaan eihän tässä ole mitään sellaista, että
+Puhuja 2: ei ole syytä.
+Puhuja 2: Eihän he
+Puhuja 2: mitään aivan käsittämätöntä haittaa aiheuta tällä toiminnalla.
+Puhuja 2: Onko siinä joku sellainen, että se sotii
+Puhuja 2: suomalaista
+Puhuja 2: sellaista, että pitäisi nyt olla kunnolla
+Puhuja 2: eikä aiheuttaa häiriötä. Mä veikkaan, että siinä on siis...
+Puhuja 1: Osasi on se, että kun eihän
+Puhuja 1: heidän
+Puhuja 1: kadulla istuminen
+Puhuja 1: ns. Järjestelmää vaurioita,
+Puhuja 1: sehän
+Puhuja 1: kiinnostaa tavallisia työmatkalaisia.
+Puhuja 1: Monet kokevat, että
+Puhuja 1: he osoittaa mieltä minua vastaan, koska minä en pääse nyt autolla töihin tai en ratikalla. Itsekin joudun kiertämään
+Puhuja 1: ratikalla
+Puhuja 1: duunia muutaman minuutin kauemmin. Ihan sama periaatteessa. Olen asunut nykis, missä korttelit olivat kiinni milloin mistäkin.
+Puhuja 1: Ehkä tämä on muuten myös osoitus siitä, että Helsingistä on kasvamassa aidosti iso kaupunki.
+Puhuja 1: Täällä voi
+Puhuja 1: tapahtua tuollaista.
+Puhuja 1: Kaupungissa nyt on paljon ihmisiä, joilla on erilaisia mielipiteitä ja
+Puhuja 1: välillä
+Puhuja 1: mielipiteet
+Puhuja 1: eskaloituu
+Puhuja 1: mielenosoitukseksi,
+Puhuja 1: eli mielipiteiden osoitukseksi.
+Puhuja 1: Sitten se vaikuttaa myös muiden ihmisten elämään. Sitten pitää vaan sopeutua.
+Puhuja 2: Tarvitseeko sitä aina ottaa niin henkilökohtaisesti?
+Puhuja 2: Tuntuu,
+Puhuja 2: että monelle on ollut henkilökohtainen
+Puhuja 2: loukkaus, nämä elokapinalaisten
+Puhuja 2: toimet tuolla.
+Puhuja 2: En itse jaksa
+Puhuja 2: yhtään
+Puhuja 2: pöyristyä tästä. En mä kauheasti jaksanut niistä
+Puhuja 2: pöyristön turvetuottajista
+Puhuja 2: varmaan muista
+Puhuja 2: syistä,
+Puhuja 2: mutta kyllähän nyt mielenosoitus on
+Puhuja 2: ihmisten perusoikeus mun mielestä. Mun mielestä se on jotenkin omituista, miten täällä niin voimakkaasti
+Puhuja 2: lähdettiin keskustelemaan siitä, pitäisikö
+Puhuja 2: mielenostuksille asettaa tiukempia tiukempia
+Puhuja 2: rajoituksia.
+Puhuja 2: Kyllähän ihmisellä pitäisi olla oikeus osoittaa mieltä niin kauan kuin ne haluaa. Mä olen ehkä silleen
+Puhuja 1: poikkeuksellinen
+Puhuja 1: yksilö tässä ajassa, koska mulla ei ole tästä oikein mitään mielipidettä. Mulla ei ole mitään semmoista, kun mä en ole mitenkään selkeästi
+Puhuja 1: elokapinalaisten
+Puhuja 1: puolella.
+Puhuja 1: Mulla en ota heitä vastaan. Ymmärrän täysin ilmastonmuutoksen
+Puhuja 1: vastainen taistelu.
+Puhuja 1: Niin kuin sanoit, se on aikamme tärkeimpiä tehtäviä ellei tärkein.
+Puhuja 1: Mielessoituksen,
+Puhuja 1: että ihmiset saa osoittaa mieltää.
+Puhuja 1: Ihan perusoikeus. Totta helvetis. Menkää ja tukikaan se mansku.
+Puhuja 1: Ei mitään kysymystäkään, ettei mun mielestä niin saisi tehdä. Toisaalta ymmärrän sitä kulmaa, että okei, nyt jotain
+Puhuja 1: poliisin resursseja hellepäivät,
+Puhuja 1: pitäisi olla ehkä jossain muuallakin.
+Puhuja 1: Hälytysajoneuvot
+Puhuja 1: ei pääse välttämättä
+Puhuja 1: menemään läpi. Ymmärrän senkin tulokulman. Sitten, kun olen tätä paaltellut mielessäni, niin olen silleen, että
+Puhuja 1: ehkä maailma ei tarvitse mielipidettäni
+Puhuja 1: tähän asiaan. Voin olla myös vain tarkkailemassa tilannetta ja kiertää muutaman minuutin
+Puhuja 1: työmatkani
+Puhuja 1: ja yrittää tehdä oman osai tähän ilmastonmuutoksen vastaiseen taisteluun. Tämä on vähän niin kuin Malmin lentokenttä. Ei
+Puhuja 1: siinäkään välttämättä kaikilla tarvitse olla mielipidettä. Ei kaikesta tarvitse olla mielipidettä. Eikä se tarkoita, että mulla ei ole mielipidettä elokapinaan,
+Puhuja 1: hänen manskolan istumiseen. Ei se tarkoita sitä, että mulla ei ole mielipidettä ilmastonmuutokseen.
+Puhuja 1: Sekin on, mikä yleensä otetaan sitten, että
+Puhuja 1: eikö sun mielestä ilmastonmuutoksen vasta ole edes tullut tärkeää? On, mutta mun mielestä
+Puhuja 1: yhteiskunta ja asiat on yleensä kompleksisempi.
+Puhuja 2: Sä oot, Emil, jotenkin mun mielestä ihan asian ytimessä tuossa, että tuntuu, että tästä on vähän tullut sellainen.
+Puhuja 2: Paljon on
+Puhuja 2: viime päivinä puhuttu siitä, saako esimerkiksi toimittaja tukea elokapinan.
+Puhuja 2: Tästä on ollut muun muassa hyviä ketjuja Twitterissä ja olen itsekin miettinyt tätä asiaa, että onko toimittajalle soveliasta
+Puhuja 2: tavallaan
+Puhuja 2: osoittaa olevansa aktiivinen osa jonkinlaista
+Puhuja 2: kansalaisliikettä
+Puhuja 2: ja mitä se tekee toimittajan
+Puhuja 2: no, ehkä hyvin hauraalle puolueettomuudelle
+Puhuja 2: tai sellaiselle.
+Puhuja 2: Mutta sitten tästä tulee helposti se fiilis,
+Puhuja 2: että jos ei ole varauksetta, että Go elokapina, niin ihmiset ehkä ajattelisivat, että sä
+Puhuja 2: oot jotenkin silleen, että ilmastonmuutos on jees ja antaa mennä vaan. Eihän näiden asioiden pitäisi lainkaan olla sama asia. Mun
+Puhuja 2: oma
+Puhuja 2: näkemystähän on se, että mun mielestä on ihan hyvä, että on tällainen elokapina, joka käyttää kansalaistottele
+Puhuja 2: näitä
+Puhuja 2: Jos ne edes pikkuisen pystyvät nyt käyttämään sitä eteenpäin,
+Puhuja 2: niin upeata. Mutta just tämä kysymys, että tarvitseeko mun olla just tässä
+Puhuja 2: elokapinan prosessissa mukana vai voinko olla
+Puhuja 2: jossain muissa prosesseissa mukana? Nimenomaan.
+Puhuja 1: En tiedä, olen jotenkin toi...
+Puhuja 1: Totta kai olen sen verran ymmärtänyt maailmasta, että ilmastonmuutos on totta. Toivon,
+Puhuja 1: että hallitukset tekevät mahdollisimman ripeeitä toimia.
+Puhuja 1: Samaan aikaan
+Puhuja 1: tiedostan,
+Puhuja 1: että jos tiedän, että se on totta ja ne tekee mahdollisimman nopeita toimia, luulisi, että hallituksetkin tietää. Niillä on kuitenkin paljon enemmän tietoa kuin minulla tavallisena kansalaisena
+Puhuja 1: kauppiksen käynneellä toimittajalla,
+Puhuja 1: mitä tarkoittaa ilmastonmuutos
+Puhuja 1: maailmalle.
+Puhuja 1: Ehkä
+Puhuja 1: se on naiivi usko myös
+Puhuja 1: päättäjiin.
+Puhuja 1: Kyllä ne
+Puhuja 1: varmasti tekee kaikkensa.
+Puhuja 2: Joo, mä en kyllä ole tota mieltä. Mä olen kyllä eri mieltä. Mä olen sitä mieltä, että päättäjät kyllä tähän mennessä ainakin ovat osoittaneet hyvin selvästi, että
+Puhuja 2: ilmastonmuutos ei ole mikään ykkösprioriteetti
+Puhuja 2: heidän
+Puhuja 2: toiminnassaan.
+Puhuja 2: Kyllä mä olen siinä mielessä
+Puhuja 2: katsoisin enemmän niiden tutkijoiden suuntaan, jotka siis käsittääkseni
+Puhuja 2: iso osa ilmastotutkijoista on sitä mieltä, että eihän tämä asia ole enää mitenkään korjattavissa. Me ollaan lähestymässä sellaista kahden, kolmen asteen
+Puhuja 2: keskilämpötilan lämpenemistä vuosisadan
+Puhuja 2: loppuun mennessä,
+Puhuja 2: mikä tarkoittaa
+Puhuja 2: tuhoisia asioita.
+Puhuja 2: Kun tässä
+Puhuja 2: kompleksisessa yhteiskunnassamme,
+Puhuja 2: monet eri asiat ovat tuhoisia. Myös se, että
+Puhuja 2: jos
+Puhuja 2: vaikka luin sellaisen kiinnostavan
+Puhuja 2: tekstin, missä jotkut
+Puhuja 2: eri
+Puhuja 2: ekonomistit vähän
+Puhuja 2: arvioivat, että voi olla, että kohta tullaan sellaiseen tilanteeseen, että
+Puhuja 2: ilmastonmuutoksen vaadittavat toimenpiteet eivät tapahdukaan enää niin sanotusti hallitusti, vaan ne tapahtuu hallitsemattomasti
+Puhuja 2: markkinoiden näkökulmasta.
+Puhuja 2: Eli kun hallitukset laittaa kaikkia rajoituksia ja ruvetaan tosissaan tekemään tätä työtä tämän
+Puhuja 2: ilmastonmuutoksen eteen, niin se tarkoittaa myös sitä, että yritykset ja muut ei välttämättä pysy perässä, ellei ne ole itse nyt oikeasti jo tosissaan ryhtyneet niihin toimiin. Sanoisin, että
+Puhuja 2: viherpesun ja muun takia hyvin monet eivät ole vieläkään ryhtyneet mihinkään todellisiin toimiin.
+Puhuja 2: Voihan se olla,
+Puhuja 2: että jos ja kun hallitukset alkaa tosi nopeasti ottaa
+Puhuja 2: tämän tilanteen tosissaan,
+Puhuja 2: se tarkoittaa aika isoja mullistuksia koko talousjärjestelmään ja muuhun. Nyt talousjärjestelmään. Nyt mä kuulostan tosi artiselta.
+Puhuja 1: En osaa ottaa kantaa, niin kuin sanoin. Olen kauppiksen käynyt toimittaja.
+Puhuja 1: Mä en tiedä.
+Puhuja 1: Mutta just tuo, mitä sä sanoit, että hallitukset ja nämä
+Puhuja 1: alkaa ottaa
+Puhuja 1: sitä
+Puhuja 1: roolia.
+Puhuja 2: Olen niin skeptinen toisaalta, että siksi elokapinaa vaikka tarvitaan. Toisaalta nämä elokapinan vaatimukset.
+Puhuja 2: Yksi heidän vaatimuksistaan oli myös muun muassa tällainen, että hallituksen pitäisi järjestää
+Puhuja 2: tällaista kriisiviestintää
+Puhuja 2: vähän niin kuin koronakriisiviestinnän
+Puhuja 2: tyyppisesti ilmastokriisistä.
+Puhuja 2: Anteeksi, kuka sellaista seuraisi?
+Puhuja 2: Kuka lukee hallituksen kriisiviestintää
+Puhuja 2: ylipäätänsä?
+Puhuja 1: Jos sen tekisi hyvin, niin sitten sitä voisi joku seurata.
+Puhuja 2: Totta. Siellä pitäisi olla joku. Andrew Kohan
+Puhuja 1: PR-porukka palkataan tekemään Suomen
+Puhuja 1: ilmastokriisiviestintää.
+Puhuja 2: Saitaisko me Mika Salminen
+Puhuja 2: tekee
+Puhuja 2: ilmastokriisiviestintää
+Puhuja 2: valtiolle?
+Puhuja 2: Niin, se voisi olla. Hän nyt on jotenkin
+Puhuja 2: sellainen
+Puhuja 1: rauhoittava. Tai Riikka Purra. No, Riikka Purra. Me just puhuttiin, miten taitava mediaviestiä Persut on ja miten hän on Persoen taustalla toiminut. Kyllä ja hänhän on ainakin aiemmin ollut huolissaankin
+Puhuja 2: mun mielestä ilmastonmuutoksesta.
+Puhuja 1: Ja mun mielestä muusta asiasta.
+Puhuja 2: Niin, nimenomaan.
+Puhuja 2: Ehkä tässä voi sanoa, että
+Puhuja 2: piti tämä, niin palaan vielä tähän, että saako toimittaja tukea elokapinaa?
+Puhuja 2: Mitä olet mieltä, Emil?
+Puhuja 2: Paha kysymys.
+Puhuja 1: Se outo kysymys,
+Puhuja 1: koska toimittajakin on ihminen. Miksei musta tuntuisi tosi oudolta, että mä en saisi tehdä jotain.
+Puhuja 2: Mutta tämähän on joissakin maissa menty. On annettu ohjeistuksia mediataloissa vaikka, että älkää osallistuko mihinkään kontroversiaaleihin
+Puhuja 2: mieleenostuitu
+Puhuja 1: mieleen. Sillä on seuraus, mutta se on eri asia, että saanko tehdä niin.
+Puhuja 1: Saanhan mä mennä kuntavaaliehdokkaaksi,
+Puhuja 1: mutta sillä on seuraus mun
+Puhuja 1: Puoluettomuus kärsii siitä
+Puhuja 1: joidenkin ihmisten silmissä.
+Puhuja 1: En tiedä.
+Puhuja 1: Ottaen toimittajat kantaa koulunneissaankin
+Puhuja 1: joka päivä.
+Puhuja 1: Toivottavasti kukaan ei kirjoita koulunneeen joka päivä.
+Puhuja 1: Niin.
+Puhuja 1: Miksei toimittaja saisi
+Puhuja 1: ilmaista tukea elokapinalle?
+Puhuja 1: Niin.
+Puhuja 1: Mutta sitten hänen pitää olla valmis, että jotkut
+Puhuja 1: lukijat tai työkaverit
+Puhuja 1: katsoo häntä eri tavalla kuin ennen.
+Puhuja 2: Minusta tuntuu, että kesäkapinasta
+Puhuja 2: ja elokapinastakin
+Puhuja 2: tulee jonkunlainen,
+Puhuja 2: tai koko
+Puhuja 2: ilmastoliikehdintä,
+Puhuja 2: kun katsoo, oliko
+Puhuja 2: se viime kesänä,
+Puhuja 2: kun oli
+Puhuja 2: nuoret järjestivät ilmastomarsseja
+Puhuja 2: ja näitä nyt on pakko, mielenosoituksia ja nyt on tätä Elokapinaa.
+Puhuja 2: Onhan tämä ihan uudenlaista
+Puhuja 2: liikettä, mitä
+Puhuja 2: itse, kun ajattelen omaa nuoruuttani Kouvolassa, niin ei siellä ikinä tapahtunut mitään eikä kukaan järjestänyt mitään mielenosoituksia eikä ollut poliittisesti
+Puhuja 2: valveutunut meininki.
+Puhuja 2: Jollakin tavalla mun mielestä on
+Puhuja 2: suotavaa se, että
+Puhuja 2: ihmiset
+Puhuja 2: kiinnostuu
+Puhuja 2: ylipäätänsä
+Puhuja 2: politiikasta ja poliittisesta vaikuttamisesta.
+Puhuja 2: Oli
+Puhuja 2: se sitten äänestämistä tai ihan jotain muitakin, koska kyllä mun mielestä kansalaistot
+Puhuja 2: tottelemattomuus,
+Puhuja 2: onhan se kuitenkin yksi näitä demokratian
+Puhuja 2: työkaluja.
+Puhuja 2: Ehkä moraalinen
+Puhuja 2: velvollisuus
+Puhuja 2: osallistua yhteiskunnalliseen
+Puhuja 2: toimintaan
+Puhuja 2: niiden
+Puhuja 2: virallisten raamien ulkopuolella,
+Puhuja 2: jos on sitä mieltä, että
+Puhuja 2: raamien sisäpuolella joku asia on tosi pahasti pielessä.
+Puhuja 1: Niin.
+Puhuja 1: Just tuossa, kun sanoin aikaisemmin, miten luotan tai
+Puhuja 1: haluan luottaa, sanotaan, että haluan luottaa päättäjiin.
+Puhuja 2: Yksi eri mieltä.
+Puhuja 1: Samaan aikaan se ei poista sitä, ettenkö kokisin, että esimerkiksi Elokapinan tapaisten
+Puhuja 1: liikehdintöjen
+Puhuja 1: tarpeet,
+Puhuja 1: ne ei ole tarpeellisia, koska ne saa niihin päättäjiin taas vauhtia.
+Puhuja 1: Tämä on kompleksinen
+Puhuja 1: asia.
+Puhuja 1: Yhteiskuntahan
+Puhuja 1: muodostuu tosi pienistä palasista. Näen Elokapinalle.
+Puhuja 1: Vaikka
+Puhuja 1: en tässä ilmaise tukea, niin heitä toimittajana,
+Puhuja 1: heitä kohtaan välttämättä sataprosenttisesti,
+Puhuja 1: mutta näen, että heillä on tarpeellinen osa ilmastonmuutoksen
+Puhuja 1: vastaisessa taistelussa,
+Puhuja 1: jotta he saavat päättäjien vauhtia.
+Puhuja 2: Olisihan se toivottava, että he saavat päättäjiä vauhtia siinä mielessä, että päättäjät tekisivät
+Puhuja 2: nopeammin ilmastotekoja,
+Puhuja 2: eikä siihen suuntaan, että ne tekevät nopeammin
+Puhuja 2: kansalaisten oikeuksia ja mielenosoitusvapautta
+Puhuja 2: rajoittavia toimenpiteitä, niin kuin on ollut
+Puhuja 2: viime päivinä myös ilmoilla tiettyjen
+Puhuja 2: poliitikkojen
+Puhuja 1: suunnalta. Pitää myös muistaa, että politiikka on peli, että silloin haetaan pisteitä
+Puhuja 1: identiteettikysymyksissä.
+Puhuja 1: Onko se miten relevanttia? Nämä on kaikki poliitikkojen
+Puhuja 1: kommentit, niin
+Puhuja 2: se ei välttämättä pidä paikkaansa. Niinpä. Nyt kaikki pistäkää se Twitter
+Puhuja 2: kiinni kesäksi. Ihan oikeasti pistäkää se Twitter kiinni. Nyt lähdetään juhannuksen viettoon.
+Puhuja 2: Hei, kuules Emil, kun olet siellä
+Puhuja 2: koiraasi uittamassamassa,
+Puhuja 2: jossain ihanassa,
+Puhuja 2: viileässä
+Puhuja 2: poukamassa
+Puhuja 2: ja mietiskelät,
+Puhuja 2: että millä mä nyt avaisin tämän keskustelun
+Puhuja 2: tässä ja
+Puhuja 2: viilentäisin tunnelmaa, niin
+Puhuja 2: mitä suosittelisit
+Puhuja 2: juhannukseen
+Puhuja 2: puheenaiheeksi?
+Puhuja 1: Pandemiaa, kun on vietetty
+Puhuja 1: jo toista vuotta,
+Puhuja 1: yhteisöllisyys
+Puhuja 1: kokemukset on jääneet
+Puhuja 1: vähän negatiivisiksi.
+Puhuja 1: Meidän yhteisökokemukset on tarkoittanut
+Puhuja 1: on tarkoittanut pandemiaa.
+Puhuja 1: Onhan
+Puhuja 1: kesämökki
+Puhuja 1: ja jalkapallo EM-kisat
+Puhuja 1: joku sellainen
+Puhuja 1: ihan poikkeuksellisen kiva juttu just tähän juhannukseen.
+Puhuja 2: Kuka niitä haluaa katsoa enää, kun Suomi ei ole enää messissä siellä? Vai onko se vielä messissä siellä? Mä en oikein jalkapallosta mitään. Ei.
+Puhuja 2: Siellä? Vai onko se vielä
+Puhuja 2: messissä siellä? Mä en tee jalkapallusta mitään. Ei, mutta onhan se, siinä on jotain semmoista herkullista. Onhan siinä. Sitten
+Puhuja 1: vähän keskustella matsista ja... Turvallinen aihe....
+Puhuja 1: Tiettyjen pelaajien
+Puhuja 1: persoonallisuus
+Puhuja 1: elämästä.
+Puhuja 1: Se on just niin, turvallinen aihe. Se on sellainen, mistä on kiva keskustella. Tässä on ollut viime vuosina niin paljon aiheita, mistä ei ole kiva keskustella. Suosittelen
+Puhuja 1: kaikille jalkapallon katsomista.
+Puhuja 2: Just näin. Minäkin suosittelen kaikille kuuntelijoille, että ette puhu perussuomalaisista,
+Puhuja 2: ettekä Ruotsin hallituskriisistä,
+Puhuja 2: ettekä varsinkaan elokapinasta,
+Puhuja 2: vaan katsokaa
+Puhuja 2: jalkapalloa ja olkaa hyvillä mielin.
+Puhuja 2: Kun mielikuvathan paljon
+Puhuja 2: vaikuttaa tähän meidän omaan olotilaan.
+Puhuja 2: Nyt kun on ollut infernaalinen
+Puhuja 2: helle ja on välillä ollut aika vaikea olla, niin olen
+Puhuja 2: tällaiseen perinteiseen kikkaan turvautunut eli olen lukenut
+Puhuja 2: tällaisia kirjoja ja tekstejä, jotka
+Puhuja 2: kertoo tosi kylmistä asioista. Luin juuri tuon Peter Högin
+Puhuja 2: klassikkoromaanin
+Puhuja 2: Lumentaju.
+Puhuja 2: Suosittelen
+Puhuja 2: kyllä kaikille
+Puhuja 2: tämän tyyppisiä kirjoja luettavaksi juhannuksen yli. Esimerkiksi lumen taju tai Ulla-Leena Lundbergin jää tai
+Puhuja 2: muumit ja Taikatalvi, missä paljon läträtään lumen ja jään kanssa.
+Puhuja 2: Ehkä se mielikuvien
+Puhuja 2: keskellä
+Puhuja 2: painiskelu saattaa auttaa viilentyminen. Lumenta Johan on muutenkin ihan loistava kirja. Jos joku ei ole sitä lukenut, niin suosittelen
+Puhuja 2: sitä
+Puhuja 2: erittäin lämpimästi.
+Puhuja 1: Tätä lukee.
+Puhuja 2: Okei, siinä kaikki tältä erää. Kiitos vielä näin jälkikäteen Elina Kerviselle ja kiitos Emil Elo. Kiitos. Minun nimeni on Alma Onali ja äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla Janne Elkki.
+Puhuja 2: Muistakaa lähettää palautetta
+Puhuja 2: kesätiimillekin
+Puhuja 2: uutisraportti,
+Puhuja 2: paitsi juuri pyysin teitä pysymään posa Twitteristä, mutta käykää laittaa palautetta, sitten voitte
+Puhuja 2: poistua. Kuullaan taas ensi viikolla! Ihanaa juhannusta kaikille!
+Puhuja 2: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 1: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

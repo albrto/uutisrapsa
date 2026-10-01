@@ -1,0 +1,453 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin
+Puhuja 1: Sanomat.
+Puhuja 2: No niin, moi ja tervetuloa
+Puhuja 2: Helsingin Sanomien uutisraportti-podcastiin.
+Puhuja 2: Eikös se vielä sanoa reippaasti.
+Puhuja 2: Perjantai kaksisataaviisitoista.
+Puhuja 2: Minun nimeni ei ole Tuomas Peltomäki eikä Marko Junkkari vaan Jaakko Lyytinen.
+Puhuja 2: Olen täällä Tuuraajan Tuuraajana
+Puhuja 2: studiossa
+Puhuja 2: nyt vetämässä
+Puhuja 2: uutisraportti podcastia
+Puhuja 2: elämäni ensimmäistä kertaa. Täällä istuu kanssani Maria Manner,
+Puhuja 2: Helsingin Sanomien sunnuntaitoimituksen
+Puhuja 2: toimittaja.
+Puhuja 3: Hei Jaakko. Moi.
+Puhuja 2: Lisäksi meillä on langoilla
+Puhuja 2: täällä Marko Junkkari,
+Puhuja 2: Helsingin Sanomien kuntapoliittinen
+Puhuja 2: torppedo ja erikoistoimittaja,
+Puhuja 2: joka on tällä hetkellä jossain Alajärven keskustan tuntumassa. Moi Marko.
+Puhuja 1: No, terä Jaakko ja Heitta Maria.
+Puhuja 1: Mulla on tarkkaan ottaen alajärvellä,
+Puhuja 1: mutta
+Puhuja 1: mulla on Lehtimäellä, joka on
+Puhuja 1: toinen kunta, joka liitettiin Alajärveen reilu
+Puhuja 1: kymmenen vuotta sitten. Olen ollut täällä Lehtimäen
+Puhuja 1: metsiköissä, ja kohta saavumme Alajärven keskusta. Ja varmaan äänenkin paranee, kun tulee enemmän pylväitä tähän kännykän kenttään.
+Puhuja 2: Hyvä. Mutta loistavaa, että on saatu sinut langoille, koska kohta kuullaan erikoisraportti
+Puhuja 2: kehittyvien
+Puhuja 2: maakuntien keskusta Suomesta. Eikö niin?
+Puhuja 2: Juuri näin. Eli me puhutaan tänään kuntavaaleista,
+Puhuja 2: vaalikoneista ja Jan Vapaavuoresta.
+Puhuja 2: Kaikki aiheet liittyvät politiikkaan ja tavallaan kunnallispolitiikkaan
+Puhuja 2: tavalla tai toisella.
+Puhuja 2: Aloitetaan
+Puhuja 2: nyt kuntavaaleista,
+Puhuja 2: joihin on vielä nelisen viikkoa vai mitä tässä on? En osaa laskea. Kolme vai neljä viikkoa? Kolme viikkoa. Kolme viikkoa ja pari päivää.
+Puhuja 2: Kohta alkaa ennakkoäänestys,
+Puhuja 2: kiihkeet tunne. Alkaako ensi viikolla? Mitä se nyt on?
+Puhuja 1: Joo, ennakkoäänestys alkaa nyt ja... Ennakkoäänestyshän
+Puhuja 1: on pidennetty
+Puhuja 1: koronatilanteen takia.
+Puhuja 2: Joo.
+Puhuja 2: Nyt on kaikkialla toisteltu. Kaikissa
+Puhuja 2: mahdollisissa podcasteissa ja ajankohtaisissa ohjelmissa toistellaan, että minkäänlaista vaalihuumaa ei ole näkyvissä.
+Puhuja 2: Mutta nyt me nostatamme omalta
+Puhuja 2: osaltamme tätä vaalihuumaa
+Puhuja 2: sitä kautta, että helsinkiläisethän eivät tiedä, mitä oikeasti maakunnissa tapahtuu.
+Puhuja 2: Marialla oli jäänyt puhelin myös päälle.
+Puhuja 2: Ei se mitään.
+Puhuja 2: Aletaan nyt kuntavaaleista. Ja aloitetaan Marko nyt.
+Puhuja 2: Sinä olet viettänyt muutaman päivän
+Puhuja 2: maakuntien
+Puhuja 2: Suomessa, ja sä just ehdit tuossa sanoa, että olet Alajärven
+Puhuja 2: keskustaan saapumassa.
+Puhuja 2: Miksi olet Alajärvellä?
+Puhuja 1: No joo, tämä ehkä nyt ei ole tämän koko juttu, projekti ei ole ehkä maailman omaperäisin tai yllättävin idea, mutta tämä lähti siitä
+Puhuja 1: ajatuksesta. Tässä itse asiassa Jaakko sinunkin kanssa keskustelusta, kun sun piti lähteä matkaan, mutta etpäs sitten lähtenytkään, kun olet niin urbaan ihminen etkä halunnut
+Puhuja 1: liata
+Puhuja 1: kenkiä siitä tämmöisestä maakuntien savetta vai miten se menettää?
+Puhuja 2: Se on totta, joo. Mä en löytänyt mun kumisaappaita, mä en voinut lähteä sun mukaan.
+Puhuja 2: Mutta sä lähdit taas.
+Puhuja 1: No lähdin matkaan, ja idea on se, että
+Puhuja 1: Helsingin Sanomissa, koska olemme pääkaupunkiseudun
+Puhuja 1: lehti, niin kuntavaalejahan
+Puhuja 1: käsitellään
+Puhuja 1: paljolti,
+Puhuja 1: pääkaupunkiseudun ja Uudenmaan
+Puhuja 1: vinkkelistä,
+Puhuja 1: ja sitten tavallaan koko muu Suomi
+Puhuja 1: hoituu siinä, että
+Puhuja 1: tarkastellaan kuntavaaleja
+Puhuja 1: yhtenä
+Puhuja 1: monoliitttina
+Puhuja 1: eli järjestetään tehdään
+Puhuja 1: kuntavaalikauluppeja
+Puhuja 1: ja katsotaan,
+Puhuja 1: mikä puolue on koko maassa suurin.
+Puhuja 1: Tavallaan tämähän on siinä mielessä hassua, koska tämän vanhan baarin mukaan kyseessähän ei ole yksi vaali vaan
+Puhuja 1: kaksisataayhdeksänkymmentäviisi
+Puhuja 1: vaalia, eli jokaisessa kunnassa käydään
+Puhuja 1: ihan omanlaisensa vaalitaisteluja.
+Puhuja 1: Kaikissa kunnissa on
+Puhuja 1: erilaiset ongelmat ja erilaiset vahvuudet ja erilaiset valta-asetelmat
+Puhuja 1: ja näin edespäin.
+Puhuja 1: Päätin
+Puhuja 1: lähteä
+Puhuja 1: katsomaan
+Puhuja 1: kolmea eri kuntaan tai ne kaikki on itseasiassa kaupunkeja.
+Puhuja 2: Tämmöisiä pieniä tai keskimäärin... Nopeimmin maailmaa muuttava, mutta ne molemmat, samoin kuin useimmat muut transformatiiviset
+Puhuja 2: megatrendit,
+Puhuja 2: ilmenevät ja saavat
+Puhuja 2: konkreettisen sisältönsä
+Puhuja 2: yhä useammin
+Puhuja 2: urbaanissa
+Puhuja 2: ympäristössä ja kontekstissa.
+Puhuja 2: Teknologinen kehitys kiihtyy ja ennen kaikkea skaalautuu kaupungeissa.
+Puhuja 2: Työn murros ja muut maailmaa eniten muokkaavat
+Puhuja 2: uudet ilmiöt konkretisoituvat kaupungeissa.
+Puhuja 2: Ratkaisut suurimpiin globaaleihin haasteisiin innovoidaan
+Puhuja 2: ja toimeenpannaan kaupungeissa.
+Puhuja 2: Urbaanin ympäristön vaikutukset kantavat lähes kaikkialle tehden urbaanisaatiosta
+Puhuja 2: keskeisen
+Puhuja 2: viitekehyksen ja selittäjän
+Puhuja 2: muille megatrendeille.
+Puhuja 2: Transformatiiviset
+Puhuja 2: megatrendit,
+Puhuja 2: globaalit haasteet innovoidaan,
+Puhuja 2: skaalautuu. Oliko sitä huonosta sketsistä tämä puhe. Jan Vapaavuori, suorasanainen entinen kaupunkipoliitikko
+Puhuja 2: siirtyy suoraan tällaiseksi niinku pupugeneraattori
+Puhuja 3: kaupunkikehittäjäkonsultiksi.
+Puhuja 3: Paljon suorempaa hän puhui tässä Helsingin Sanomien jutussa, jossa
+Puhuja 3: kysyttiin, että ymmärtääkö hän, mistä tämmöinen kritiikki
+Puhuja 3: Miltonille siirtymistä
+Puhuja 3: kohtaan saattaa
+Puhuja 3: kummuta. Ja hän sanoi näin, että
+Puhuja 3: Jos siirtyy julkiselle sektorille, moititaan, että saa palkkiovirran,
+Puhuja 3: että on luuseri, kun ei pärjää missään. Jos menee yksityiselle, niin nähdään ongelmia. Tämä on kateellisen ja kaunaisen maan ominaispiirre.
+Puhuja 2: Minuavuori kommentoi. Mitäs tästä nyt ajatellaan? Mielestäni Hesarin haastattelujuttu on aika hyvin sanottu.
+Puhuja 2: Ei tämä Miltonin tiedote, joka oli ihan kauheaa puppua.
+Puhuja 3: Osaatko sanoa tämän bullshit business. Onko sinulla Kimi Räikkösti tiedotteita, missä Kimi Räikkönen muka sanoi jonkun semmoisen
+Puhuja 3: kymmenen virkkeen?
+Puhuja 2: Transformaation.
+Puhuja 2: No niin, se oli kun menen
+Puhuja 3: paljon monta minuuttia. Olen aina kirjoittanut. No niin Marko, onko
+Puhuja 2: ajatuksia? Eli onko luuseri, jos
+Puhuja 2: ottaa julkisen viran ja sitten taas on Luopio,
+Puhuja 2: jos ottaa
+Puhuja 2: yksityisen virran? Mihin voi tällaiset vapaavuodet edes mennä? Onko heille paikkaa?
+Puhuja 1: Mari esittää sulle kysymykseen.
+Puhuja 1: Miksi sä sanoit, että olisi se toi lausunto, mikä osasi tähän ei pyri presidentiksi?
+Puhuja 3: Niin mä ajattelin.
+Puhuja 3: Että jotenkin se tapa, millä hän puhui, että kuulosti siltä, että...
+Puhuja 1: Eihän tuo minusta millään tavalla sulje sitä pois. Musta toihan oli enemmän
+Puhuja 1: Jan Vapaavuori
+Puhuja 1: puhui Jan Vapaavuorta.
+Puhuja 1: Tommoinenhan se on.
+Puhuja 1: Minusta tuo oli hänen
+Puhuja 1: suorasukainen
+Puhuja 1: ja suorasanainen tapa ilmoitetaan asia. Ei musta tuosta pysty tekemään oikein mitään.
+Puhuja 3: Minusta
+Puhuja 3: ehdottomasti kuulosti siltä, että ihan vapaavuori puhuu rehellisesti, mutta ajattelin, eikö mulla korvin se, että ihminen, joka sanoi, että tässä on kateellinen ja kauniina maa, tai miksi kukaan haluaisi presidentiksi maahan, joka on niin kateellinen ja kauniina?
+Puhuja 1: No
+Puhuja 2: joo. Oli sitä liian pitkälle menevää tulkintaa. Hänelle riittää, että viisikymmentäkaksi tai viisikymmentäyksi prosenttia ei ajattele kateellisesti ja kaunaisesti. Eihän se
+Puhuja 2: vastustajat
+Puhuja 2: vasemmistolaiset... Niin.
+Puhuja 1: Niin. Minun
+Puhuja 1: tämmöisen tieteellisen arvion mukaan
+Puhuja 1: yhdeksänkymmentäyhdeksän prosenttia
+Puhuja 1: suomalaisista ajattelee, että tämä on kauniina ja kateellinen maa.
+Puhuja 2: Niille kesti. Se oli tunnettu fakta. Mutta mielestäni puhutaan tästä,
+Puhuja 2: että mihin huippupolitikot voivat siirtyä.
+Puhuja 2: Aika paljon Suomessakin on keskusteltu tästä aiheesta. Entisiä pääministereitä
+Puhuja 2: on kriittisesti
+Puhuja 2: käsitelty heidän mentyään esimerkiksi
+Puhuja 2: erilaisiin lobbaustehtäviin
+Puhuja 2: oli kyseessä sitten
+Puhuja 2: venäläinen pankki tai kenties venäläisaksalainen
+Puhuja 2: kaasuyhteistyöyhtiö
+Puhuja 2: jne.
+Puhuja 2: Aika vaikeaa on tämä sijoittuminen. Jyrki Katainen on varmaan ihan tyytyväinen kun hän on siellä Sitrassa nyt. Vapaavuodesta ei koskaan tullut pääministeriä,
+Puhuja 2: mutta hän on ollut vähintään yhtä näkyvä
+Puhuja 2: poliitikko ellei paljon näkyvämpi kuin monet viimeaikaiset pääministerit.
+Puhuja 2: Nämä lyhytaikaiset sellaiset.
+Puhuja 2: Mihin
+Puhuja 2: voi siirtyä?
+Puhuja 2: Vastaan ensin että mielestäni
+Puhuja 2: näiden viestintätoimistojen
+Puhuja 2: iso ongelma on se, että ne eivät kerro asiakkaitaan. Niiden toiminta on täysin läpinäkymätöntä.
+Puhuja 2: He operoivat, käyttävät merkittävää vaikutusvaltaa.
+Puhuja 2: Tekevät
+Puhuja 2: varmaan todella fiksua,
+Puhuja 2: tärkeää työtä,
+Puhuja 2: auttavat kansainvälisiä yrityksiä tulemaan
+Puhuja 2: Suomen markkinoille,
+Puhuja 2: neuvot miten lainsäädäntö toimii,
+Puhuja 2: mitä yhteiskuntasuhteita pitää huomioida ja niin edelleen. Totta kai
+Puhuja 2: tämä on poliitikkojen perusosaamista
+Puhuja 2: heidän
+Puhuja 2: aineettoman pääomansa kova ydin. Olisi ihan outoa kieltää, etteivät he saisi käyttää sitä, jos he haluavat siirtyä elinkeinoelämän
+Puhuja 2: palvelukseen. Ongelmat alkavat siinä, että emme tiedä keitä nämä asiakkaat ovat, mitä palveluksia heille ikään kuin
+Puhuja 2: myydään, koska liikettä tapahtuu molempiin suuntiin. Joku menee viestintätoimistoon tai lobbariksi
+Puhuja 2: palaa politiikkaan, jolloin on syntynyt myös siteitä
+Puhuja 2: kenties näihin asiakasyrityksiin.
+Puhuja 2: Siinä kohtaa tietysti olisi hyvä tietää, ketä olet lobbannut ja mitä olet lobbannut
+Puhuja 2: ja niin edelleen. Samaan aikaan olisi todella autoa ruveta kieltämään ja karanteenit
+Puhuja 2: tuntuvat hassuilta.
+Puhuja 2: Ihmisillä on osaamista, ihmisillä on suhteita. Nyt Jan vapaavuuden siirtyy ikään kuin myymään
+Puhuja 2: niitä kahdelle
+Puhuja 2: eri taustayritykselle.
+Puhuja 3: Niin tai sama keskustelu, miten käytiin hallitusneuvotteluja jo aikaa, kun vihreillä oli aika paljon
+Puhuja 3: tyyppejä
+Puhuja 3: konsulttitoimessa ja muillakin.
+Puhuja 3: Kyllä. Ja me ei tiedetä, keitä
+Puhuja 3: niiden yritykset on. Mutta eihän näitä paikkoja ehkä ole niin kauhean paljon, että mihin mennään. Jan Vapaavuorikin on ollut Euroopan investointi
+Puhuja 3: pankissa kuitenkin aikaisemmin,
+Puhuja 1: missä hän oli? Mä voisin sen verran sanoa vielä, että
+Puhuja 1: kyllähän siis myös näillä viestintätoimistoilla
+Puhuja 1: on omat eettiset ohjeensa, mitkä ne ovat tehneet itse itselleen ja kyllähän niissä en todellakaan muista enkä tiedä,
+Puhuja 1: mitä niistä puhutaan läpinäkyvyydestä, mutta kyllähän ne joutuu kertomaan
+Puhuja 1: tavallaan se, että jos on tavallaan
+Puhuja 1: potentiaalinen konfliktitilanne, niin kyllähän niiden pitää kysyttäessä kertoa, että keitä niiden asiakkaat on. Mulle sitä velvoitetta ei ole, että sitten kun vapaudesta
+Puhuja 1: tulee presidentti, että hänen pitäisi sitten julkistaa
+Puhuja 1: kaikki miltton aikana hänellä olleet asiakkaat, mutta kai kyllähän hän varmaan senkin voi tehdä, siinä on jotain tiettyjä salassapitovaatimuksia
+Puhuja 1: asiakkaiden puolesta, mutta kyllähän ne ei ne täysin suljettuja ole. Kyllä sieltä myös saa tietoja ihan kysymällä.
+Puhuja 3: Mutta ajatteletko sinä Marko? Ihan vilpitön
+Puhuja 3: kysymys, koska ajattelin eilen, että tämä ei kuulosta ihmiseltä,
+Puhuja 3: joka olisi tässä nyt vaan vetämässä vähän
+Puhuja 3: happea yksityisellä
+Puhuja 3: puolella tai jossain ja sitten palaamassa ehdoilla.
+Puhuja 1: Osaa. En minä ota, en minä sinänsä sitä noin.
+Puhuja 1: Sen takia kysyn, koska en ole varma mihin lausun tuossa viittasit. Sen verran muistan siinä syksyllä, kun tein se juttu, mistä hän kertoo, että hän
+Puhuja 1: väistyy pormestarin
+Puhuja 1: tehtävässä
+Puhuja 1: ja hän sanoi oikeastaan siinä, että hän tulee hakemaan töitä todennäköisesti
+Puhuja 1: yksityiseltä sektorilta
+Puhuja 1: ja sitten oikeastaan ainut asia, minkä hän rajasta pois, sanoi, että hän ei mene
+Puhuja 1: työnantaja, hän ei mene EK:hon.
+Puhuja 1: Mun mielestä
+Puhuja 1: jotenkin jo silloin
+Puhuja 1: se kuulosti siltä, että hän todennäköisesti päätyy johonkin Milton tyyppiseen firmaan. En tiedä, ei hän sanonut sitä, mutta
+Puhuja 1: minusta tämä hänen valintansa ei ole kauhean yllättävä.
+Puhuja 1: Ja Sitten vielä
+Puhuja 1: miten minä sanoisin
+Puhuja 1: nuo molemmat hommat ovat sellaisia
+Puhuja 1: Oi, minä sain kahvikupin tänne.
+Puhuja 1: Mielestäni tarvii vähän jostain nyrkkaa, että saa nyt rahaa noista ja luulen, että se saa näillä
+Puhuja 1: näistä niin hyvän korvauksen, että hän voi sitten jatkaa muiden
+Puhuja 1: asioiden harrastamista tässä ohessa.
+Puhuja 1: Tämän pohjalta ei voi tehdä päätelmiä suuntaan eikä toiseen. Ehkä mennään tällaiseen enemmin. Musta tämä menee aika lailla kuin veikkasinkin.
+Puhuja 3: Asuntolain pitää kaikkien
+Puhuja 3: maksaa ja niin edelleen, mutta
+Puhuja 3: Näen sinänsä joitain ongelmia tai ymmärrän kritiikkiä
+Puhuja 3: viestintätoimistojen politiikan
+Puhuja 3: läheisiin suhteisiin liittyen. En ihan tiedä, mikä se ratkaisu olisi. Tietysti voi pohtia, mihin
+Puhuja 3: karanteenisäädökset ulotetaan ja niin edelleen. Tässähän
+Puhuja 3: tapauksessa tanskalainen
+Puhuja 3: firma sanoi, että vapaavuorta käytetään nimenomaan kansainvälisiin suhteisiin.
+Puhuja 3: Mikä minua ehkä hämätä tässä aina edelleen, kun mietin sitä, että tiedän itse aika vähän lopulta siitä, tai olen lukenut aika vähän siitä, että mitä nämä viestintätoimistot oikeasti tekevät. Niistä on kirjoitettu paljon, mutta sellaista
+Puhuja 3: kunnolla toimintaa avaavaa. Ja siksi se viime vuonna Katri Kulmunin
+Puhuja 3: eroon johtanut serkkaus oli jotenkin avartava, vaikka ottamatta kantaa se, että olisiko hänen pitänyt
+Puhuja 3: erota vai ei, niin minusta se oli kiinnostava siksi, että se paljasti konkreettisella konkreettisella tasolla siinä tapauksessa Tekirin ja Kulmunin välillä.
+Puhuja 1: Ne on kauhean erilaisia nämä Suomessakin toimivat lobbausvalmistajat.
+Puhuja 1: Ei
+Puhuja 1: oikeastaan
+Puhuja 1: voi tehdä yhtä juttua, missä kerrottaisiin,
+Puhuja 1: mitä
+Puhuja 1: otsikolla viestintätoimisto tekee, koska ne kaikki tekee vähän eri asioita ja painottaa vähän eri tavalla. Tässä melkein yksi kerrallaan käydään ne läpi. Milttulahan on some mittapuussa tosi iso ja ne tekee oikeastaan vähän kaikkea. Ne lobbaa meille hävittäjiä ja
+Puhuja 1: antaa
+Puhuja 1: jonkinnäköistä
+Puhuja 1: strategista konsultaatiota
+Puhuja 1: firmoille ja sitten ne tekee
+Puhuja 1: käsittääkseni ihan tämmöistä niin
+Puhuja 1: kuin nykyisten yritysten vuosikertomuksia. Ne tekee ihan laidasta laitaan kaikenlaiseen.
+Puhuja 2: Kyllä. Kyllä niiden ydinliiketoiminta
+Puhuja 2: tietenkin ja se missä raha virtaa liittyy siihen, että ne auttavat yrityksiä
+Puhuja 2: juuri näillä tavoilla. Loppujen lopuksi tässä julkisuudessa korostuu
+Puhuja 2: yhteydet politiikkaan, mutta se on lopulta
+Puhuja 2: liikevaihdollisesti
+Puhuja 2: kohtuullisen pieni osuus. Joku Katre Kulmunille
+Puhuja 2: vedetty kriisiviestintäkoulutus,
+Puhuja 2: puhekoulutus,
+Puhuja 2: niin kuin ei paljon Tekirin
+Puhuja 2: liikevaihdossa näy, mutta julkisuudessa se näkyy. Se on sikäli totta kai tosi merkittävää. Tuo mitä Maria sanoi, minusta tosi tärkeä pointti.
+Puhuja 2: Näin ne paljastuu jossain tapauskohtaisesti.
+Puhuja 1: Joo, ja sitten pitää jotenkin erottaa, että siinä on nämä... Toki ne antaa tosiaan
+Puhuja 1: viestintäkoulutusta ja mediakoulutusta,
+Puhuja 1: mutta sittenhän ne tekee Milttonilla
+Puhuja 1: erillinen yhtiö
+Puhuja 1: sitä varten, joka tekee tämmöistä
+Puhuja 1: vaikuttajaviestintää,
+Puhuja 1: lobbausta.
+Puhuja 1: Se on vain hyvin pieni osa siitä
+Puhuja 1: firman koko paletista.
+Puhuja 1: Sehän
+Puhuja 1: pitää
+Puhuja 1: tämmöisiä yhteiskuntaopin luentoja
+Puhuja 1: yritysjohtajille,
+Puhuja 1: jotka hätääntyy kun ne ymmärtää, että on tulossa joku
+Puhuja 1: uusi asetus tai laki, joka saattaa haitata heidän liiketoimintaansa ja sitten ne soittaa hädissään Milttoriin, että mitä me nyt tehdään. Sitten Miltton kertoo, että
+Puhuja 1: lakeja säädetään siten, että niitä
+Puhuja 1: valmistellaan
+Puhuja 1: ministeriöissä ja
+Puhuja 1: hallitus tekee lakiesitykseni.
+Puhuja 1: Sitten se tulee eduskuntaan, että sitä käsitellään valiokunnissa.
+Puhuja 1: Sitten yritysjohtaja
+Puhuja 1: vielä kysyy, että mitähän ne pitäisi nyt tehdä, ja sitten nämä sanoo, että sun kannattaa ehkä soittaa tuolle valiokunnan
+Puhuja 1: tai pyytää jotain tehdä tyyppiä soittamaan tuolle valiokunnan puheenjohtajalle tai jotain muuta. Ne ei itse tee lopausta, vaan ne kertoo, mitä yrityksen kannattaa tehdä. Nyt tässä kohtaa pitää sanoa, että ohjelma ei sisällä tuotesijoittelua.
+Puhuja 2: Miltton ei sponsoroi tätä ohjelmaa, vaikka koko ajan tässä toistellaan saman firman nimeä. Mutta sitten on näköjään tullut yleisnimi vähän kuin Airamn sähkölampuille.
+Puhuja 2: Ja
+Puhuja 2: abloiloille, että Miltton
+Puhuja 2: kun haluatte yhteiskuntaan... Sanokaa Miltton, kun haluatte yhteiskuntasuhteita.
+Puhuja 2: Mutta okei,
+Puhuja 2: case-vapaavuori,
+Puhuja 2: klousattu.
+Puhuja 2: Pakko sanoa että
+Puhuja 2: ongelmat on täällä pieniä. Keskustelu on pientä, katsokaa mitä
+Puhuja 2: tapahtuu Britanniassa. Entinen pääministeri
+Puhuja 2: David Cameron
+Puhuja 2: on
+Puhuja 2: siellä kaikkien aikojen skandaalisotkussa
+Puhuja 2: konsultoituaan
+Puhuja 2: Green Capital
+Puhuja 2: nimistä finanssiyhtiötä, jota vetää hänen australialainen kaverinsa.
+Puhuja 2: David Cameron, joka ensin tuhosi kaiken
+Puhuja 2: viemällä oman
+Puhuja 2: poliittisen uhkapelisän takia Britannian EU-kansanäänestykseen.
+Puhuja 2: Hän on tällaisen skandaalin keskellä, koska hän on yrittänyt
+Puhuja 2: tulla sieltä saranapuolelta
+Puhuja 2: poliittisia
+Puhuja 2: suhteita
+Puhuja 2: hyödyntäen auttamaan
+Puhuja 2: Greensill-yhtiötä
+Puhuja 2: eli yrittänyt lobata
+Puhuja 2: ja
+Puhuja 2: siinä
+Puhuja 2: hallitukselle ja eri virkamiehille. Anna-Mari Sipilä Hesarin Lontoon kirjeenvaihtaja, kirjoitti kolumnissaan mun mielestä hyvin tässä. Cameron voisi ottaa mallia muista Britannian lähihistorian häviäjäpääministereistä.
+Puhuja 2: Teresa May istuu siellä tyynesti alahuoneissa rivikansanedustajana
+Puhuja 2: ja työväenpuolueen pääministeri Gordon Brown on puolestaan kampanoinut köyhien maiden koronarokot
+Puhuja 2: rokottamisen puolesta. No niin, ehkä heillä on jotain pelimerkkejä
+Puhuja 2: mitä suomalaisilla poliitikoilla ei ole.
+Puhuja 2: Mutta lopetellaanpa uutisraportti tähän. Mikäs tässä lopussa nyt Maria pitää sanoa? Ja Marko,
+Puhuja 2: olette konkareita ja nyt tämä... Jotta suositukseni. Niin, ne suositukset. Eli nyt me ollaan käyty nämä aiheet läpi ja otetaan suosituksi. En ole valmistautunut tähän mitenkään, joten paitsi onko mulla joku suositus aina antaa.
+Puhuja 2: Aloitetaan Marko lyhyesti sieltä. Olet pitänyt pitkiä puheenvuoroja niin kuin minä itsekin,
+Puhuja 2: mutta sanopa nyt sieltä maakuntien Suomesta joku
+Puhuja 2: suositus vaikka matkailuvinkki tulevan kesän kotimaan reissuille.
+Puhuja 1: Niin
+Puhuja 1: kuin. Eleti taustalla on se, että me ollaan kaikki kolme
+Puhuja 1: oltu etätöissä nyt jo reilusti yli vuosi
+Puhuja 1: ja tosi vähän käyty missään juttukeikoilla.
+Puhuja 1: Sitten kun
+Puhuja 1: pääsee ulos sieltä omasta asunnosta, niin jotenkin maailma näyttää ihan erilaiselta ja
+Puhuja 1: kaikki on jotenkin niin hauskaa ja makeeta. Kyllä
+Puhuja 1: suosittelen ihmisille,
+Puhuja 1: että lähtekää
+Puhuja 1: kiertämään Suomea ja lähtekää
+Puhuja 1: pois omasta asunnostanne ja menkää tänne Alajärvelle.
+Puhuja 2: Okei.
+Puhuja 2: Alajärvi
+Puhuja 2: mainittu ja suositeltu. Lähtekää pois kodeistane. Minusta tuo on hyvä vinkki.
+Puhuja 2: Mielelläni olisin Marko lähtenyt kanssasi sinne, mutta ne kumisaappaat.
+Puhuja 2: Otetaan Marjo. Mikä on sinun suosituksesi tällä viikolla?
+Puhuja 3: Tuota... Saanko pöllin
+Puhuja 3: suosituksen? Mitä suosittelisit
+Puhuja 3: minulle tällä viikolla? Ai minun vai Markon? Ei kun Jaakko.
+Puhuja 3: Sinähän
+Puhuja 3: Sinet Oy Connerin haastattelua
+Puhuja 2: Niin suosittelenkin.
+Puhuja 3: En aiomme melkein puhua siitä, mutta se on kiinnostava.
+Puhuja 3: En saa sitä auki, koska tähän tulee maksumuureja. En muista näitä tunnuksia. Mutta New York Timesissa
+Puhuja 3: on
+Puhuja 3: otsikoitu, että Sinä Add Åckor
+Puhuja 3: remembers things differently ja siinä oli hullun...
+Puhuja 2: No säkin luin sen. Mä luin sen. Joo, se oli kiehtova.
+Puhuja 2: Se oli hätkähdyttävä haastattelu oli hienoa nähdä miltä hän nyt näyttää. Hän on kääntynyt islamin uskoon. Hän on vetäytynyt Irlannin maaseudulle. Hän on valitettavasti joutunut olemaan useita vuosia
+Puhuja 2: käsittääkseni
+Puhuja 2: mielisairaalassa
+Puhuja 2: myös viime aikoina. Hän vaikutti
+Puhuja 2: mielestäni hyvin fiksulla
+Puhuja 2: ja tasapainoisella
+Puhuja 2: jutussa sikäli
+Puhuja 2: mitä hänelle tapahtui sen jälkeen kun hän repi
+Puhuja 2: Sätö Dinite live ohjelmassa paavin kuvan.
+Puhuja 2: Miten myös kaikki muut artistit kääntyivät häntä vastaan
+Puhuja 2: ja minkälainen
+Puhuja 2: kohtelu hänellä oli
+Puhuja 2: sen jälkeen.
+Puhuja 2: Nyt hän on kirjoittanut muistelmansa jossa hän käy
+Puhuja 2: elämäänsä läpi.
+Puhuja 2: Mutta
+Puhuja 2: ensinnäkin kun näin sen jutun niin olin että oho, tuo on elossa.
+Puhuja 3: Se
+Puhuja 2: on hämmästyttävän näköinen. Se oli aika raffinkin näköinen kyllä.
+Puhuja 3: Se valokuva siis, kun sen vetää tyhjikiä siinä.
+Puhuja 2: Kyllä. Karun näköinen kuva. Se oli hyvä juttu. Lukekaa se.
+Puhuja 3: Linkataan se johonkin. Linkataan joo.
+Puhuja 2: Onko sinulla vielä joku muu suositus?
+Puhuja 2: Voin suositella... Sain viikko sitten koronarokotuksen.
+Puhuja 2: Voin suositella sitä rokotusta,
+Puhuja 2: mutta minulle nousi siitä... Ei, mulla
+Puhuja 2: on hirveä kuume siitä seuraavana yönä.
+Puhuja 2: Sitten makasin helatorstain
+Puhuja 2: aivan kanveisissa.
+Puhuja 2: Katsoin koko päivän sellaista brittiläistä Linde of Duuti nimistä poliisarjaa,
+Puhuja 2: jonka...
+Puhuja 2: Onneksi löysin ne vanhat tuotantokaudet.
+Puhuja 2: Nyt tulee tuotesijoittelua
+Puhuja 2: ruutu. Fi, joka on muuten sanoman oma palvelun. Sieltä löysin kuitenkin ne. Ne voi löytyä jostain muustakin maksu
+Puhuja 2: TV palvelusta.
+Puhuja 2: Sai hyvä sarja.
+Puhuja 2: Katsoin varmaan joku yhdeksän tuntia sitä ja aloin
+Puhuja 2: nähdä semmoisia kuumehallusinaatioita,
+Puhuja 2: missä istuin niissä Kuulusteluhuoneissa,
+Puhuja 2: jossa korruptoituneet
+Puhuja 2: poliisit oli grillattavina.
+Puhuja 2: Se kertoo poliisin tämmöisestä
+Puhuja 2: sisäisen valvonnan
+Puhuja 2: korruptioyksiköstä ja sen erilaisista tutkinnoista.
+Puhuja 2: Suositukseni: Line of duutti. Uusin kausi on Yle Areenassa,
+Puhuja 2: mutta kannattaa katsoa ne vanhat ennen kuin menee siihen uusimpaan, koska
+Puhuja 2: siinä on tavallaan se historia aika tärkeä.
+Puhuja 2: Minun pitää lähteä juttukeikalle. Pitääkö lähteä juttukeikalle? Hei, tämä oli
+Puhuja 2: uutisraportti.
+Puhuja 2: Laittakaa palautetta.
+Puhuja 2: Mikä tämä on Miukku Mauku-uutisraportti
+Puhuja 2: vai onko tämä joku hashtagö? Miten mitä? Sellainen kiekura siis Instassa vai missä? Twitterissä. Twitterissä.
+Puhuja 2: Okei, tällä on uutisraportti...
+Puhuja 2: Niin, turarmimiesky.
+Puhuja 2: No niin, minä olen ATK:ssa.
+Puhuja 2: No niin, hyvä. Tämä oli uutisraportti taas ensi viikolla sitten uudet aiheet ja toivottavasti vakivettäjä.
+Puhuja 2: No niin, moikka! Moi moi!
+Puhuja 1: Moikka! Moikka!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi
+Puhuja 0: podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin, melko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 1: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

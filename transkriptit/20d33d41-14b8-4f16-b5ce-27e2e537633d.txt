@@ -1,256 +1,521 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiönkaan Inkolopodcastin
-Puhuja 0: toinen kausi on kuunneltavissa Helsingin Sanomien
-Puhuja 0: sovelluksessa sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan kaninkoloon.
-Puhuja 0: Helsingin Sanomat.
-Puhuja 1: Hei vain ja tervetuloa Helsingin Sanomien Uutisraportti podcastin
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 1: Hei vain, ja tervetuloa Helsingin Sanomien Uusiisraportti
+Puhuja 1: podcastin
 Puhuja 1: pariin. Tänään on heinäkuun kaksikymmentäkolme. Päivä täällä Helsingin Sanomien Päivälehden podcast-studiossa
 Puhuja 1: Helsingin syksyisessä klubissa.
-Puhuja 1: Minä olen John Heling.
-Puhuja 1: Tänään seurassani on Ipitzalta maanpausta palannut Tuija Siltamäki. Tervetuloa Tuija! Kiitos kovasti. Oletko Paratiisisaaren
-Puhuja 1: jälkeen rapuna vai pappuna?
-Puhuja 2: Oi.
-Puhuja 2: Olen tosi iloinen siitä, että olen päässyt nauttimaan suomalaisesta viisitoista asteen lämpötilasta
-Puhuja 2: ja tihkusateesta,
-Puhuja 2: noin kolmekymmentäviisi
-Puhuja 2: asteen ja humidity
-Puhuja 2: sataviisikymmentä
-Puhuja 2: prosenttia piinan jälkeen.
+Puhuja 1: Minä olen John Helin. Tänään seurassani on Ipitzalta maanpausta palannut Tuija Siltamäki.
+Puhuja 1: Tervetuloa Tuija! Kiitos kovasti. Oletko Paratiisaarisaar
+Puhuja 1: jälkeen rapuna vai apuna?
+Puhuja 3: Oi.
+Puhuja 3: Olen tosi iloinen siitä, että olen päässyt nauttimaan suomalaisesta
+Puhuja 3: viisitoista asteen lämpötilasta
+Puhuja 3: ja tihkusateesta,
+Puhuja 3: Anna kolmekymmentäviisi
+Puhuja 3: asteen
+Puhuja 3: ja jumdity sataviisikymmentä
+Puhuja 3: prosenttia piinan jälkeen.
 Puhuja 1: Se
-Puhuja 1: on rankkaa heikommallekin ihmiselle. Kyllä.
-Puhuja 1: Tuijan lisäksi paikalla on HS-visiotoimituksen
-Puhuja 1: Pihla Saravilta.
-Puhuja 1: Moi. Kiitos.
-Puhuja 1: Mitä mieltä sinä olet tästä syksyisestä käänteestä? Olisitko mieluummin Ipitsalla
-Puhuja 1: vai Senaatintorilla
+Puhuja 1: on rankkaa heikommallekin ihmiselle.
+Puhuja 3: Kyllä.
+Puhuja 1: Tuijan lisäksi paikalla on HS-visio
+Puhuja 1: toimituksen Pihla Saravilta.
+Puhuja 1: Moi. Tai Lapila.
+Puhuja 1: Mitä mieltä olet tästä
+Puhuja 1: syksyisestä käänteestä? Olisitko mieluummin Ipitsalla vai
+Puhuja 1: Senaatintorilla
 Puhuja 1: ottamassa vastaan tihkusadetta?
-Puhuja 3: No arvaa vaan. Mieluummin olisin Ipitsalla vähän tässä kadehdin Tuijaa ja hänen ihanaa Ipitcaansa,
-Puhuja 3: mutta ehkä nyt pärjätään näille.
-Puhuja 2: Pitää ottaa, mitä annetaan. Aina voi mennä Jaajon superterassille.
-Puhuja 2: Paistaako siellä aina aurinko? No aivan varmasti. Jaajon aurinkoisen
-Puhuja 2: hymyn muodossa.
-Puhuja 1: Jaajon aurinkoisen hymyn lisäksi puhumme tänään Garden Helsinki LNG ympärille muodosta
-Puhuja 1: koosta, joka sai viimeisen tilauksensa tiistaina, kun eduskunta äänesti Ja sitten taas taas taas tässä Helsingin Bio Rex Ai jaa, ei minkään raketa.
-Puhuja 3: Sitten taas taas taas tässä Helsingin Bio Rex Lasipalatsissa,
-Puhuja 3: pystyy
-Puhuja 3: katsomaan tällaisella perinteisellä seitsemänkymmentämillisellä
-Puhuja 3: filmillä, mutta ei sitten taas sillä Aimaksi valkokankaalla.
-Puhuja 1: Miksi me Turussa on tehty leffa,
-Puhuja 3: jota pystyy katsomaan kokonaisuudessaan,
-Puhuja 3: ihan muutamassa kymmenessä paikassa maailmassa, koska näitä aineksia leffateattereita
-Puhuja 3: ei ole. Se on kiinnostanut
-Puhuja 2: suurmiehistä.
-Puhuja 2: Se pitää ymmärtää, että silloin, kun suurmiehillä
-Puhuja 2: on kaikenlaisia visioita
-Puhuja 2: kuin sekä taiteellisesti
-Puhuja 2: ihmisiin
-Puhuja 2: kohdistuvista että kulttuurisista valloituksista, niin
-Puhuja 2: tuommoinen
-Puhuja 2: ihmeen piipitys on täysin epäolennaista.
-Puhuja 2: Täytyy ymmärtää, että miehellä on visio ja on miehen oikeus toteuttaa se.
+Puhuja 2: No arvaa vaan. Mieluummin olisin Ipitsalla vähän tässä kadehdin Tuijaa ja hänen ihanaa Ipitcoonsa.
+Puhuja 2: Ehkä nyt pärjätään näille.
+Puhuja 3: Pitää ottaa, mitä annetaan. Aina voi mennä Jaajon superterassille.
+Puhuja 1: Vai slaako siellä aina aurinko?
+Puhuja 3: Aivan varmasti.
+Puhuja 3: Jaajon aurinkoisen
+Puhuja 3: hymyn muodossa.
+Puhuja 1: Jajon aurinkoisen hymyn
+Puhuja 1: lisäksi puhumme tänään Garden Helsinki hankkeen ympärille muodostaneestä koosta,
+Puhuja 1: joka sai viimeisen tilauksensa
+Puhuja 1: tiistaina, kun eduskunta äänesti
+Puhuja 1: pääministeri
+Puhuja 1: Petteri Orpo luottamuksesta.
+Puhuja 1: Tarkoittaako tämä voitettu luottamusäänestys sitä, että mitään väärää ei tapahtunut ja mitä kokoomuksen gallup-menestykselle
+Puhuja 1: tapahtuu? Siitä meillä on mukana puhumassa myös pääkirjoitustoimituksen
+Puhuja 1: Teija Sutinen.
+Puhuja 1: Tämän jälkeen keskustelemme
+Puhuja 1: naisenemmistöisestä
+Puhuja 1: Helsingistä,
+Puhuja 1: modernista
+Puhuja 1: datailukulttuurista
+Puhuja 1: sekä kallion naisista, jotka eivät mitä ilmeisimmin löydä koko kaupungista itseään kiinnostavia
+Puhuja 1: miehiä, sillä parhaat miehet ovat jo varattuja.
+Puhuja 1: Onko näin ja puhuuko uutisraportti lopulta vain kukista ja Mehiläisestä tänään? Siitäkin
+Puhuja 1: löydämme varmasti keskustelua.
+Puhuja 1: Naisista ja miehistä siirrymme sujuvasti puhumaan vuoden suurimmasta elokuvapläjäyksestä
+Puhuja 1: eli Christopher Nollain Oduseijasta
+Puhuja 1: ja sen ympärille jo kuukausia Wellonenesta
+Puhuja 1: keskustelusta.
+Puhuja 1: Ovatko kyklobit ja seireenet kulttuurisotien uhria Ja eksyykö uutisraportti
+Puhuja 1: odyksys sen tavoin harhailemaan
+Puhuja 1: Aavalla aiheiden merellä vuosikymmenen ajan?
+Puhuja 1: Siinäkin pähkinä purtavaksi.
+Puhuja 1: Ja lopuksi tarjoamme puheenaiheita
+Puhuja 1: pitkien
+Puhuja 1: epämiellyttävien
+Puhuja 1: hiljaisyyksien
+Puhuja 1: varaan. Aluksi ilmoituksia kansalle oikaisujen muodossa. Minä sanoin viime viikolla, että alle 39-vuotiaat
+Puhuja 1: ensiasun ostajat saisivat yhä asuntonsa ilman varainsiirtoveroa.
+Puhuja 1: Tämä ei kuitenkaan ole totta, vaan kyseinen mahdollisuus poistua vuoden kaksituhatta
+Puhuja 1: kaksikymmentäneljä alussa.
+Puhuja 1: Tämä kertoo hyvinkin siitä, milloin minä olen viimeksi harkinnut asunnon ostamista.
+Puhuja 1: Suuret
+Puhuja 1: pahoittelut tästä. Toinen oikaisu tulee
+Puhuja 1: viime viikolla jaksossa olleelta Topi Kosuselta,
+Puhuja 1: jonka hän on meille ystävällisesti lähettänyt.
+Puhuja 1: Hei vain! Minut on lukittu tänne äänitys koppiin, koska viime jaksossa mä puhuin Britannian satelliittiehdokas
+Puhuja 1: Count Binfacen vaalilupauksista.
+Puhuja 1: No mä sitten möläytin siinä jaksossa, että hän lupasi nimetä Britannian
+Puhuja 1: valtatie,
+Puhuja 1: OS2:n
+Puhuja 1: uudelleen.
+Puhuja 1: No, HS2:han ei ole valtatie, vaan itse asiassa se on Suurnopeusratahanke.
+Puhuja 1: Eli sehän tulee
+Puhuja 1: HSC2 lyhenne High speed too nimestä.
+Puhuja 1: Eli se on Suurnopeusratahanke,
+Puhuja 1: ei valtatie.
+Puhuja 1: Kiitos Sarvälle kuulijalle, kun oikaisit
+Puhuja 1: minua.
+Puhuja 1: Ja soo soo minä.
+Puhuja 1: Kiitos Topi. Lupaamme kastaa Topin tervaa ja höyhediin Helsingin Sanomien kesäjuhlien aikana.
+Puhuja 1: Pahoittelut kummastakin virheestä.
+Puhuja 1: Ja sitten itse aiheisiin.
+Puhuja 1: Eduskunta kokoontui tällä viikolla kesken kesätauon Gardn Helsinki-kohun
+Puhuja 1: vuoksi. Hallitus antoi eduskunnalle valtioneuvoston tiedonannon, jonka jälkeen eduskunta äänesti hallituksen luottamuksesta.
+Puhuja 1: Vähemmän yllättäen, tiistainäänestyksessä
+Puhuja 1: eduskunta juurikin antoi tämän luottamuksen. Asina ei kuitenkaan ollut, ja elokuva olisi muutenkin liian wake.
+Puhuja 1: Viimeisimpänä maailman rikkain mies teknobiljonääri
+Puhuja 1: Elon Musk sanoi, että hänen tekoälynsa Grock pystyisi tämän vuoden loppuun mennessä tekemään
+Puhuja 1: historiallisesti tarkan elokuvaversion Odysseyosta,
+Puhuja 1: mitä ikinä tällä sitten tarkoitetaankaan.
+Puhuja 1: Toisaalta, elokuvaa kritisoitiin myös kiistellyssä
+Puhuja 1: länsisaharassa kuvaamisesta sekä siitä, ettei kreikkalaisiin myytteihin perustuvassa elokuvassa ollut kreikkalaisia näyttelijöitä.
+Puhuja 1: Keskustelua herätti myös se, että Christapher Nolan ei järjestynyt influenssareille ennakonäytöksiä, vaan keskittyi nämä näytökset
+Puhuja 1: elokuvakriitikoihin.
+Puhuja 1: Kaikesta tästä huolimatta kaksisataayhdeksäntoista
+Puhuja 1: miljoonan euron budjetilla tehty elokuvat tuotti koko ensi-iltaviikonloppuna
+Puhuja 1: yli kaksisataakolmekymmentä
+Puhuja 1: miljoonaa euroa maailmanlaajuisesti
+Puhuja 1: ja on saanut laajaa ylistystä kriitikoilta.
+Puhuja 1: Pihla, olet nähnyt tämän elokuvan. Mitä mieltä olet
+Puhuja 1: näistä kritiikeistä sekä itse
+Puhuja 2: elokuvasta? Pidin kovasti tästä elokuvasta. Tässähän Kristopher Nollon oli pistänyt kaikki herkut samaan pakettiin. Oli Zende ja Tom Hollland, Tamon, tietenkin Edward Kullen eli Robert Pattison.
+Puhuja 2: Viitataakseni tähän aikaisempaan
+Puhuja 2: keskusteluun,
+Puhuja 2: sinkkuuteen
+Puhuja 2: ja miespulaan,
+Puhuja 2: niin tässä Odysse ja leffassa ei ollut miehistä pula eikä puute. Se on täynnä miehistä, energiaa. No siellä! Onko
+Puhuja 2: siellä mieskarkkia?
+Puhuja 2: Kyllä on.
+Puhuja 2: Se on täynnä
+Puhuja 2: miehiä,
+Puhuja 2: jopa tällä Odysseyn vaimolla Penelopella, jota Ann Hatway esittää,
+Puhuja 2: hänellähän on kosioita
+Puhuja 2: kilpailuun asti sillä aikaa, kun tämä hänen miehensä Odysseja yrittää löytää kotiin hänen
+Puhuja 2: luokseen.
+Puhuja 2: Itse pidin tästä
+Puhuja 2: elokuvasta.
+Puhuja 2: Ei haitannut oikeastaan se,
+Puhuja 2: että tässä olisi kästetty ihmisiä vääriin rooleihin.
+Puhuja 2: Ehkä kun tässä puhutaan
+Puhuja 2: mytologiasta,
+Puhuja 2: niin se on minulle ihan samantekevää,
+Puhuja 2: kuka näitä hahmoja esittää.
+Puhuja 2: Ehkä jos on
+Puhuja 2: oikeasti historiallinen hahmo,
+Puhuja 2: niin se voi olla tosi tarkka.
+Puhuja 2: Ehkä juuri antaisin enemmän kritiikkiä sille, että tässä
+Puhuja 2: antiikin aikoihin perustuvassa
+Puhuja 2: leffassa ei ole yhtään kreikkalaistaustaista
+Puhuja 2: näyttelijää, niin ehkä se on se oma kritiikin tässä. Mutta kaiken kaikkiaan leffa oli kyllä erittäin hyvä.
+Puhuja 1: Minusta jotenkin historiallinen
+Puhuja 1: tarkkuuskritiikki, tai siis tässä tietty pitää muistaa se,
+Puhuja 1: että mä olen hyvin nörtti. Mä tykkään kaikenlaisesta historiasta.
+Puhuja 1: Mua ärsyttää, mikäli
+Puhuja 1: vaikka keskiaikaan
+Puhuja 1: sijoittuvissa
+Puhuja 1: elokuvissa tehdään
+Puhuja 1: huonoja valintoja
+Puhuja 1: puvustuksen
+Puhuja 1: suhteen silloin, kun
+Puhuja 1: periodivaatetus
+Puhuja 1: ja panssari olisi vaikka näyttävämpää, kun tämä ärsyttää
+Puhuja 1: mua. Sitten me kuitenkin puhutaan tässä elokuvassa.
+Puhuja 1: Tämä kritiikki tuntui paisuvan toisaalta ihmisiltä, jotka ei ole lukenut koko teosta missään vaiheessa,
+Puhuja 1: mutta
+Puhuja 1: vähän niin kuin joku valittaessa siitä, että
+Puhuja 1: kuningasatrurista
+Puhuja 1: tehtävässä elokuvassa
+Puhuja 1: ei käytetä historiallisesti
+Puhuja 1: tarkkoja puvustusta taikka käytetään historiaa oikein sitten, kun
+Puhuja 1: kaikki siitä tehty media on jollain tavalla
+Puhuja 1: väärässä vaikkapa tässä Arthur-esimerkissä.
+Puhuja 1: Ainoastaan
+Puhuja 1: muutamat vedokset esittävät sen aidosti
+Puhuja 1: semmoisessa
+Puhuja 1: kuusisataa luvun vermeissä tämän myytin.
+Puhuja 1: Usein se kuvataan
+Puhuja 1: sydänkeskialle.
+Puhuja 1: Tässäkin
+Puhuja 1: tapahtuu satoja vuosia ennen kuin se on edes kirjoitettu. Tää on pronssikautinen Kreikka, jolloin kaikki näyttää tosi typerältä. Niin, musta
+Puhuja 3: tavallaan omanlaista on ihan kiinnostavaa pienuutta
+Puhuja 3: ihmiseltä ruveta faktan
+Puhuja 3: tarkistamaan jotain myyttien filmatisointia.
+Puhuja 3: Miten suurimmissa määrin mielikuvituusasioita.
+Puhuja 3: Jos siellä seikkailee gylooppeja
+Puhuja 3: ja seireenejä
+Puhuja 3: niin ehkä se nyt ei sitten
+Puhuja 3: ole siinä universumissa
+Puhuja 3: hirveän tärkeää, millaisia panssareita siellä on käytetty. Ymmärrän tietysti, että
+Puhuja 3: Mariseminen on mukavaa hommaa.
+Puhuja 2: Ja olihan tässä tavallaan
+Puhuja 2: käytetty näitä alkuperäisiä soittimia esimerkiksi tässä musiikissa. Tavallaan kyllä
+Puhuja 2: sitä on saatu leffaan
+Puhuja 2: tuotua joka puolelta
+Puhuja 2: kuitenkin jollain tapaa
+Puhuja 2: paikkaa ja historiaa ja tunnelmaa.
+Puhuja 1: Kyllä siis pitää
+Puhuja 1: myös muistaa se, että elokuvassa kaikki on valintoja
+Puhuja 1: tai
+Puhuja 1: että sä haluat viestiä jotain
+Puhuja 1: sillä, että sä puet tietyt henkilöt samalla tavalla
+Puhuja 1: tietyllä tavalla.
+Puhuja 1: En ole vielä nähnyt siis elokuvaa.
+Puhuja 3: Ootko lukenut Odysseijan?
+Puhuja 1: Kävi. En ole myöskään tehnyt sitä. Kävin meidän kulttuuritoimittaja Johanna Valjakan kanssa hyvin pitkän keskustelun tästä.
+Puhuja 1: Luin usein arvioita ja se kuitenkin tässä usein näistä valinnoista, joita on tehty, jotka on herättänyt kritiikkiä, oli ne puvustuksessa,
+Puhuja 1: oli ne näyttelijöissä,
+Puhuja 1: missä vaan on toisaalta tehty sen elokuvanviestin
+Puhuja 1: vahvistamiseksi, vaikka tämä Batman Kypärä,
+Puhuja 1: joka kuningas Agamonnilla
+Puhuja 1: on.
+Puhuja 1: Sehän
+Puhuja 1: halutaan alleviivata sitä, että
+Puhuja 1: anteeksi nyt kaikille, jotka eivät vielä ole nähneet tätä elokuvaa.
+Puhuja 1: Minä en niin välitä
+Puhuja 1: siitä, että juo ne tilataan, mutta sehän alleviivaa sitä, että
+Puhuja 1: elokuvan päähenkilöt eivät ole välttämättä hyviksiä. Siksi se näyttää
+Puhuja 1: pahiselta.
+Puhuja 1: Ne ovat valintoja, mitä elokuvaa tehdessä pitää tehdä.
+Puhuja 3: Ei sitä fantasiaa elokuva,
+Puhuja 3: eikä toisen maailmansodan epokki.
+Puhuja 3: Näistä
+Puhuja 3: kulttuurisodista
+Puhuja 3: kiinnostaa,
+Puhuja 3: että
+Puhuja 3: kun tämähän oli vääränvärisiä ihmisiä
+Puhuja 3: ikävästi otettu näyttelemään, niin sitten
+Puhuja 3: oli tällaisia twiittejä, että homeros pyörisi haudassaan ja
+Puhuja 3: niin poispäin.
+Puhuja 3: Minua kiinnostaa
+Puhuja 3: tämä
+Puhuja 3: magaajapersujengin
+Puhuja 3: tapa
+Puhuja 3: kiinnostua
+Puhuja 3: hyvin yllättävästi ja syvällisesti
+Puhuja 3: monista kulttuurituotteista.
+Puhuja 3: En tiennyt, että
+Puhuja 3: Maakaporukalle on kreikkalaiset mytologiat näin tärkeitä, mutta näin sitten varmaankin on. Samoin ne Suomessa
+Puhuja 3: Suvivirret
+Puhuja 3: ja muutamat muut
+Puhuja 3: kulttuurituotteet aina kun julkiseen keskusteluun nousee.
+Puhuja 3: Sitten paljastuu, että Suomessa on
+Puhuja 3: huomattava
+Puhuja 3: vähemmistö, joka ei mitään muuta teekään kuin lue
+Puhuja 3: virsiä illat ja lausun niitä illat pitkään.
+Puhuja 3: Yhtäkkiä todella tärkeitä,
+Puhuja 3: ratkaisevia kysymyksiä,
+Puhuja 3: niin
+Puhuja 3: se ehkä minua
+Puhuja 3: hieman huvittaa.
+Puhuja 2: Ehkä yksi asia, missä itse olin
+Puhuja 2: pettynyt, oli tämä Aimaksi.
+Puhuja 2: Eli elokuva on kuvattu kokonaan
+Puhuja 2: tämmöisellä Aimax, 70-millisellä
+Puhuja 2: Aimax-kameralla.
+Puhuja 2: Älkää kysykö lisää yksityiskohtia, en tiedä.
+Puhuja 2: Mutta siis... Aimeksi-kuva
+Puhuja 2: on noin neliön muotoinen, jos yritän
+Puhuja 2: yksinkertaisella
+Puhuja 2: ihmisen aivoilla selittää, niin se on noin neliön muotoinen. Mutta kun menee normaaliin elokuvateatteriin
+Puhuja 2: katsomaan tämän leffan, niin se
+Puhuja 2: näkyy sellaisena pienempänä. Käytännössä
+Puhuja 2: kuva kooltaan noin neljäkymmentä prosenttia tästä leffasta jää näkemättä.
+Puhuja 2: Kävin sunnuntaina katsomassa tämän Odyssein ja yritin saada liput jostain Ai Max-salista,
+Puhuja 2: mutta monessa paikassa oli ainoastaan eturivin paikat vapaana.
+Puhuja 2: Ai Max-salit on ollut ihan älyttömän suosittuja.
+Puhuja 2: Suomessa on ainoastaan yksi Ai Max-sali ja se on Helsingin Itiksessä.
+Puhuja 2: Yritin vähän tutkia tätä, mistä sen näkisi, niin kuin Christopher Nollan on sen tarkoittanut tässä leffassa, niin Suomessa ei ole yhtään ainoata
+Puhuja 2: seitsemänkymmentä millistä filmiprojektoria
+Puhuja 2: Aimex-salissa.
+Puhuja 2: Eli Finnon itiksessä on tämä ainoa Aimex-sali,
+Puhuja 2: mutta se on digitaalinen,
+Puhuja 2: jolloin tätä aitoa seitsemänkymmentä millistä filmiä ei pääse näkemään. En tiedä, onko niillä oikeasti mitään eroa. Sitten taas taas tässä Helsingin Bio Rex-lasipalat.
+Puhuja 2: Sitten
+Puhuja 2: taas taas tässä Helsingin Bio Rex-lasipalatsissa
+Puhuja 2: pystyy katsomaan tällaisella perinteisellä seitsemänkymmentämillisellä
+Puhuja 2: filmillä, mutta ei sitten taas sillä Aimeksi valkokankaalla.
+Puhuja 2: Miksi jutussa on tehty leffa, jota
+Puhuja 2: pystyy katsomaan kokonaisuudessaan vaan
+Puhuja 2: ihan muutamassa kymmenessä paikassa maailmassa, koska näitä Aimeksi leffateattereita
+Puhuja 2: ei ole.
+Puhuja 3: Kyseessä on suurimies. Se on kiinnostunut
+Puhuja 3: suurmiehistä.
+Puhuja 3: Se pitää ymmärtää, että silloin, kun suurmiehillä on kaikenlaisia visioita,
+Puhuja 3: kuin sekä
+Puhuja 3: taiteellisesti ihmisiin kohdistuvista että kulttuurisista valloituksista,
+Puhuja 3: niin tuollainen ihmeen piipitys on täysin epäolennaista.
+Puhuja 3: Se täytyy
+Puhuja 3: ymmärtää, että miehellä on visio ja on miehen oikeus toteuttaa se.
 Puhuja 1: Kulttuuritoimittaja Johanna Valjakka itse asiassa vahvisti minulle, että
 Puhuja 1: Suomea lähin paikka
 Puhuja 1: nähdä tämä
-Puhuja 1: elokuva niin kuin Christopher Noalan sen on tarkoittanut, löytyy P rahasta. Eli
-Puhuja 1: nyt kaikki voivat hankkia lentoliput Prahan nähdäkseen tämän, kuten on
-Puhuja 1: tarkoitettu.
-Puhuja 1: Se
-Puhuja 1: on minusta tosi hyvä kysymys, että kuinka paljon se oikeasti kärsii.
+Puhuja 1: elokuva niin kuin Christopher Nolan sinun on tarkoittanut, löytyy Prahassa.
+Puhuja 1: Eli nyt kaikki voivat hankkia lentoliput Prahan nähdäkseen tämän, kuten on tarkoitettu.
+Puhuja 1: Se on minusta tosi hyvä kysymys, että kuinka paljon se oikeasti kärsii.
 Puhuja 1: Juhannat suositteli tätä äärimmäisen paljon,
-Puhuja 1: myös
-Puhuja 1: perinteisessä leffateatterissa.
-Puhuja 1: Paljon se oikeasti kärsii siitä, että et näe sitä Ai Max-salissa. Vaikea uskoa, että se kärsisi merkittävästi tiettyyn.
-Puhuja 2: Ei tavallisen katsojan, närisit
-Puhuja 2: tietenkään ollenkaan.
-Puhuja 2: Jep. Netflixistä,
-Puhuja 2: läppärin
-Puhuja 2: näytöltä se kuitenkin puolen vuoden päästä katsotaan,
-Puhuja 2: niin
-Puhuja 2: voisinko kaikki rauhoittua.
-Puhuja 1: Mä haluan vähän palata taaksepäin siinä, että tavallaan mä en täysin yllättynyt siitä,
-Puhuja 1: että just Odysseja
-Puhuja 1: joutuu
-Puhuja 1: kulttuurisodan hampaisiin. Okei, osittain siksi, koska kyseessä on nolla ja OpenA-Amerit
-Puhuja 1: oli
+Puhuja 1: myös perinteisessä
+Puhuja 1: leffoteatterissa.
+Puhuja 1: Paljon se oikeasti kärsii siitä, että et näe sitä Aimax-salissa.
+Puhuja 1: Vaikea uskoa, että se kärsisi merkittävästi tiettyyn.
+Puhuja 3: Ei tavallisen katsoen
+Puhuja 3: kärsisi tietenkään ollenkaan.
+Puhuja 3: Jep. Netflixistä
+Puhuja 3: läppärin
+Puhuja 3: näytöltä se kuitenkin puolen vuoden päästä katsotaan,
+Puhuja 3: niin
+Puhuja 3: voisinko kaikki rauhoittua.
+Puhuja 1: Mä haluun vähän palata taaksepäin siinä, että tavallaan mä en täysin yllättynyt siitä, että
+Puhuja 1: just Odysseja joutuu
+Puhuja 1: tämän kulttuurisodan
+Puhuja 1: hampaisiin. Okei, osittain siksi, koska kyseessä on nollan ja siis oppena emereritty
 Puhuja 1: oli melko suosittu myös oikeistopiireissä.
-Puhuja 1: Mutta onhan tässä myös otettu tällainen hyvinkin
+Puhuja 1: Mutta onhan tässä myös otettu hyvinkin
 Puhuja 1: perinteinen,
 Puhuja 1: länsimaisen kulttuurin kulmakivi
 Puhuja 1: filmatisoitavaksi
 Puhuja 1: siinä mielessä,
-Puhuja 1: että Iliadja siis Odysseja kuuluu tällaiseen länsimaiseen kaanoniin. Ne on asioita, mitä muutama vuosikymmen
+Puhuja 1: että Iliad ja Odysseja kuuluu tällaiseen länsimaiseen kaanoniin. Ne on asioita, mitä muutama vuosikymmen
 Puhuja 1: kuului siihen
-Puhuja 1: angloamerikkalaiseen
+Puhuja 1: anglo-amerikkalaiseen
 Puhuja 1: yliopistosivistykseen,
 Puhuja 1: josta keskusteltiin
 Puhuja 1: kivasti
 Puhuja 1: ruokapöydissä.
 Puhuja 1: Siinä missä nykyään
-Puhuja 1: opetetaan kriittistä teoriaa ja kriittistä
-Puhuja 1: ajattelua
-Puhuja 1: ja rakenteita. Aikaisemmin se kuului siihen
+Puhuja 1: opetetaan kriittistä teoriaa ja
+Puhuja 1: kriittistä ajattelua ja rakenteita, niin aikaisemmin se kuului siihen
 Puhuja 1: yläluokan kulttuuriin, johon
-Puhuja 1: tietyt radikaali elioikeistolaisetpiirit
+Puhuja 1: tietyt
+Puhuja 1: radikaalioikeistolaiset
+Puhuja 1: piirit
 Puhuja 1: haluavat tavalla tai toisella takaisin.
-Puhuja 1: Se ei ole täysin yllättävää.
-Puhuja 1: Kyllä siitä varmaan pitäisikin keskustella, että
-Puhuja 1: miten tätä kaanonia tulkitaan,
-Puhuja 1: mutta
-Puhuja 1: toisaalta
-Puhuja 1: eihän se kadota niitä vanhoja tulkintoja, että me tehdään joku yksittäinen leffaudussa.
-Puhuja 2: Luulen,
-Puhuja 2: että yhteiskunta
-Puhuja 2: kestää sen. Kyllä.
-Puhuja 1: Sama tunne. Mutta jostain varmasti saadaan
-Puhuja 1: seuraavanakin vuonna tällainen suuri kulttuurisota-ilmiö
-Puhuja 1: aikaa.
-Puhuja 2: Suurimiaton herkkä
-Puhuja 2: aihe,
-Puhuja 2: Varttuneemmat kuulijat varmaan muistaa,
-Puhuja 2: millainen
-Puhuja 2: kansallinen hätätila syntyi mustasta Mannerheimista
-Puhuja 2: ja Uralin
-Puhuja 2: perhoisesta, jossa implikoitiin,
-Puhuja 2: että
-Puhuja 2: Mannerheim
-Puhuja 2: saattoi tykätä pojista.
-Puhuja 2: Niin
-Puhuja 2: kyllä näitä
-Puhuja 2: lisää luvassa.
-Puhuja 1: Eihän meillä välttämättä noussut sellaista haloota siitä,
-Puhuja 1: että Kullervosta tehtiin elokuva, vaikka se elokuva olikin
-Puhuja 2: käsittääkseni. Loistava.
-Puhuja 1: Se elokuva olikin. Se on loistava. Katoin
-Puhuja 2: siitä
-Puhuja 2: toissa päivänä ensimmäiset kaksikymmentä minuuttia ja se elämys
-Puhuja 2: oli
-Puhuja 2: mieletön. Siinä
-Puhuja 2: aluksi jätetään useita kuvia
-Puhuja 2: kuohuasta joesta. Jokainen voi miettiä, että mitä se kertoo
-Puhuja 2: päähenkilön mielenmaisemasta,
-Puhuja 2: onko tunnekuohuja
-Puhuja 2: tulossa kenties seuraavan viikon aikana.
-Puhuja 2: Suomalaisessa
-Puhuja 2: kirjoittamisessahan sen paremmin repliikit, kun kuvatkaan
-Puhuja 2: ne ovat
-Puhuja 2: tyhjiä sille, että meille selitetään sitä, mitä nähdään siinä
-Puhuja 2: kuvassa. Mutta sitten
-Puhuja 2: koko tarinan motivointi
-Puhuja 2: jäi tosi ohueksi. Kun hirveä
-Puhuja 2: kuuleman perheen teurastus
-Puhuja 2: alkaa
-Puhuja 2: ja untamo tappaa ileroonsa kaleroon ja
-Puhuja 2: sitten Kaleroon vaimo ja sytyttää talt palmaan, niin sitten
-Puhuja 2: tän teurastuksen
-Puhuja 2: syy vaikuttaa olevan sellaiset varsin vähäiset, maankäytölliset
-Puhuja 2: erimielisyydet
-Puhuja 2: ja seuraaksi
-Puhuja 2: se missään
-Puhuja 2: mittakaavassa siihen. Mutta
-Puhuja 2: suosittelen tutkimaan, olen
-Puhuja 2: vakavaa
-Puhuja 1: suurmiesasiaa.
-Puhuja 1: Noussisitko
-Puhuja 1: kulttuursota laivaan
-Puhuja 1: tämän elokuvan takia?
-Puhuja 2: Mistä satamasta ja
-Puhuja 2: millainen buffet siellä on? Riippuu
-Puhuja 2: siitä.
-Puhuja 2: Tärkeitä kysymyksiä.
-Puhuja 1: Nyt sitten, kun te rantaudutte
-Puhuja 1: sinne Ifikan saarella,
+Puhuja 1: Se
+Puhuja 1: ei ole täysin yllättävää.
+Puhuja 1: Siitä varmaan pitäisikin keskustella,
+Puhuja 1: miten tätä kaanonia tulkitaan, mutta toisaalta
+Puhuja 1: eihän se kadota niitä vanhoja tulkintoja, että me tehdään joku yksittäinen leffaudissa.
+Puhuja 3: Luulen, että
+Puhuja 3: yhteiskuntamme kestää
+Puhuja 3: sen.
+Puhuja 1: Sama tunne.
+Puhuja 1: Mutta jostain varmasti saadaan
+Puhuja 1: seuraavankin vuonna tällainen suuri kulttuurisota-ilmiö
+Puhuja 3: aikaa? Niin
+Puhuja 3: kyllä.
+Puhuja 3: Suuri mietön
+Puhuja 3: herkkä aihe.
+Puhuja 3: Varttuneemmat kuulijat varmaan muistaa millainen kansallinen hätätila
+Puhuja 3: syntyi mustasta Mannerheimista ja Uralin
+Puhuja 3: perhosesta,
+Puhuja 3: jossa implikoitiin,
+Puhuja 3: että
+Puhuja 3: Mannerheim saattoi tykätä pojista,
+Puhuja 3: niin kyllä
+Puhuja 3: näitä
+Puhuja 1: on lisää luvassa.
+Puhuja 1: Eihän meillä välttämättä noussut sellaista haloota siitä, että Kullermosta tehtiin elokuva, vaikka se elokuva olikin
+Puhuja 1: käsittääkseni.
+Puhuja 3: Toissapäivänä
+Puhuja 3: ensimmäiset kaksikymmentä minuuttia ja se elämys
+Puhuja 3: oli mieletön.
+Puhuja 3: Siinä
+Puhuja 3: aluksi useita
+Puhuja 3: kuvia kuohuasta joesta. Jokainen voi miettiä, että mitä se
+Puhuja 3: kertoo päähenkilön mielenmaisemasta,
+Puhuja 3: onko tunnekuohu
+Puhuja 3: ja luvassa seuraavan
+Puhuja 3: viikon aikana.
+Puhuja 3: Suomalaisessa
+Puhuja 3: kirjoittamisessahan
+Puhuja 3: sen paremmin repliikit,
+Puhuja 3: kun kuvatkaan eivät välttämättä vie tarinaa
+Puhuja 3: eteenpäin tai ne ovat tyhjiä sille, että meille selitetään sitä, mitä nähdään siinä
+Puhuja 3: kuvassa.
+Puhuja 3: Mutta
+Puhuja 3: tässäkin
+Puhuja 3: tarinan motivointi jäi ohueksi.
+Puhuja 3: Kun
+Puhuja 3: hirveä kuuleman perheen teurastus
+Puhuja 3: alkaa
+Puhuja 3: ja untamo tappaa yleensä kaleeron ja
+Puhuja 3: kaleron vaimo ja sytyttää talut palamaan. Sitten
+Puhuja 3: teurastuksen
+Puhuja 3: syy vaikuttaa olevan sellaiset
+Puhuja 3: varsin vähäiset,
+Puhuja 3: maankäytölliset
+Puhuja 3: erimielisyydet.
+Puhuja 3: Ja seuraavat
+Puhuja 3: missään
+Puhuja 3: mittakaavassa
+Puhuja 3: siihen.
+Puhuja 3: Suosittelen
+Puhuja 3: tutkimaan. Olen
+Puhuja 3: vakavaa,
+Puhuja 3: suurmiesasiaa.
+Puhuja 3: Nousisitko kulttuuri sota laivaan
+Puhuja 3: tämän elokuvan takia?
+Puhuja 3: Mistä
+Puhuja 3: satamasta ja millainen buffet siellä on?
+Puhuja 3: Riippuu
+Puhuja 3: siitä.
+Puhuja 1: Tärkeitä kysymyksiä.
+Puhuja 1: No, nyt sitten, kun te rantaudutte sinne Ifikan saarella
 Puhuja 1: järjestettävään sinkkutapahtumaan
-Puhuja 1: Jan vapaavuoren
-Puhuja 1: kanssa,
-Puhuja 1: ja kun teiltä loppuu puhuttava,
-Puhuja 1: niin mistä
-Puhuja 1: te aiotte puhua tässä tapahtumassa?
-Puhuja 1: Pihla.
-Puhuja 3: Nyt kun puhuttiin näistä leffoista,
-Puhuja 3: sehän on loistava myös varmaan treffiaktiviteetti.
-Puhuja 3: Kävin tämän Odysseyn lisäksi katsomassa
-Puhuja 3: tämän Opsetion-elokuvan.
-Puhuja 3: Siitäkin on paljon puhuttu. Se on kauhuleffa.
-Puhuja 3: En ole hirveä kauhuleffoja, vaan fani ne ovat vähän pelottavia, mutta
-Puhuja 3: jos tykkää, niin suosittelen kovasti.
-Puhuja 3: Sitä opsetion-elokuaa suosittelen.
-Puhuja 3: Toki olen myös muutenkin kova sarjamurhaaja
-Puhuja 3: eli tykkään katsoa paljon sarjoja luupilla, katsoin Game of Thronesin
-Puhuja 3: parissa kuukaudessa
-Puhuja 3: kaikki kaudet.
-Puhuja 3: Olen aloittanut myös House of Dragonin uuden kauden. Sehän perustuu näihin samoihin maisemiin kuin Game of Thrones. Sekin on oikein toimiva ja loistava. Ehkä
-Puhuja 3: jotain leffaa, sarjoja.
-Puhuja 1: Leffoja pimeneviin syksyihin.
-Puhuja 3: Just näin. Tässäkin
-Puhuja 2: podcastissa
-Puhuja 2: on puhuttu nykyajan
-Puhuja 2: työkulttuurista
-Puhuja 2: ja
-Puhuja 2: vertailtu pätkätyösopimusten
-Puhuja 2: määriä, niin
-Puhuja 2: voisin
-Puhuja 2: siihen sellaiseksi
-Puhuja 2: vertaistueksi
-Puhuja 2: suositella
-Puhuja 2: sen kiinalaisen
-Puhuja 2: Huanjan.
-Puhuja 2: Toivottavasti lausuin suurin piirtein sinnepäin
-Puhuja 2: tästä omaelämäkerrallista
-Puhuja 2: kirjaa kuin Pikalähettinä Pekingissa
-Puhuja 2: Duunarielämää
-Puhuja 2: 2000-luvun Kiinassa.
-Puhuja 2: Tämä on siis tänä vuonna
-Puhuja 2: julkaistu suomeksi ja saanut hirveästi
-Puhuja 2: kansainvälistä
-Puhuja 2: huomiota. Siinä
-Puhuja 2: kertoja työskentelee vähän
-Puhuja 2: Woltkuskin henkisessä
-Puhuja 2: tehtävässä
-Puhuja 2: Pekingissä
-Puhuja 2: ja
-Puhuja 2: kertoo kokemuksiaan.
-Puhuja 2: Se on
-Puhuja 2: aika
-Puhuja 2: hauskasti
-Puhuja 2: ja lakonisesti kerrottu ja selväksi
-Puhuja 2: tulee, että minkäänlaisia
-Puhuja 2: oikeuksia ei myöskään näillä läheteillä ole.
-Puhuja 2: Mutta jos
-Puhuja 2: oma määräaikaisten työsopimusten määrä tai työnäkymät
-Puhuja 2: ahdistaa, niin voi lukea, että me todeta, että muualla on vielä huonommin.
-Puhuja 1: Itse
-Puhuja 1: voisin ehdottaa, että
-Puhuja 1: mikäli mytologia
-Puhuja 1: ja sen käyttäminen väärin, kulttuurillisesti
-Puhuja 1: ärsyttää,
-Puhuja 1: suosittelen kaikille nyt jo suomalaiseen
-Puhuja 1: kulttuuriin iskosttunutta Don Rosan Sammon salaisuussarjakuvaa.
-Puhuja 1: Siinä voitte kehittää kulttuurisotia siitä, kuinka Roope Ankka tulee. Nämä
-Puhuja 2: olivat ihmisiä eivätkä ankkoja!
-Puhuja 1: Rohkeasti
-Puhuja 1: yksityismään
-Puhuja 1: suomalaisen kulttuuriperinnön.
-Puhuja 1: Sen lisäksi tämän Game of Throne-suosituksen hengessä voi myös lämpimästi suositella tätä
-Puhuja 1: tässä aikaisemmin tänä vuonna ulosluttaa Night of the 7 Kingdom televisiosarjaa,
-Puhuja 1: joka myös sijoittuu Game of Thrones universumiin
-Puhuja 1: jollekin House of the Dragonin sekä pääsarjan väliin. Se oli varmasti aidosti
+Puhuja 1: Jan Vapaavuoren kanssa
+Puhuja 1: ja sitten kun teiltä loppuu puhuttava,
+Puhuja 1: niin mistä te aiotte puhua tässä tapahtumassa?
+Puhuja 2: Pihla.
+Puhuja 2: Nyt kun puhuttiin näistä leffoista,
+Puhuja 2: sehän on loistava myös varmaan treffiaktiviteetti.
+Puhuja 2: Kävin tämän Odysseyn lisäksi katsomassa
+Puhuja 2: tämän Opsetion-elokuvan.
+Puhuja 2: Siitäkin on paljon puhuttu. Se on kauhuleffa.
+Puhuja 2: En ole hirveä kauhuleffojen fani, ne on vähän pelottavia, mutta
+Puhuja 2: jos tykkää, niin suosittelen kovasti.
+Puhuja 2: Sitä Opsetion-elokuaa
+Puhuja 2: suosittelen.
+Puhuja 2: Toki olen myös muutenkin kova sarjamurhaaja
+Puhuja 2: eli tykkään katsoa paljon sarjoja luupilla.
+Puhuja 2: Katsoin Game of Thronesin
+Puhuja 2: parissa kuukaudessa
+Puhuja 2: kaikki kaudet.
+Puhuja 2: Olen aloittanut myös House of Dragonin uuden kauden. Sehän perustuu näihin samoihin maisemiin kuin Game of Thrones, niin sekin on oikein toimiva ja loistava. Ehkä tällaista jotain
+Puhuja 2: leffaa,
+Puhuja 2: sarjoja.
+Puhuja 1: Leffoja pimeneviin syksyyn.
+Puhuja 2: Just näin.
+Puhuja 3: Tässäkin
+Puhuja 3: podcastissa on
+Puhuja 3: puhuttu nykyajan
+Puhuja 3: työkulttuurista
+Puhuja 3: ja vertailtu pätkätyösopimusten
+Puhuja 3: määriä,
+Puhuja 3: niin voisin
+Puhuja 3: siihen sellaiseksi
+Puhuja 3: vertaistueksi
+Puhuja 3: suositella
+Puhuja 3: sen kiinalaisen Huaan.
+Puhuja 3: Toivottavasti lausuin suurin piirtein sinne päin
+Puhuja 3: omaelämäkerrallista
+Puhuja 3: kirjaa kuin Pikalähettinä
+Puhuja 3: Pekinissä. Duunarielämää
+Puhuja 3: 2000-luvun
+Puhuja 3: Kiinassa.
+Puhuja 3: Tämä on siis tänä vuonna
+Puhuja 3: julkaistu suomeksi ja saanut hirveästi
+Puhuja 3: kansainvälistä huomiota. Siinä siis kertoja työskentelee
+Puhuja 3: vähän
+Puhuja 3: Woltkuskin
+Puhuja 3: henkisessä tehtävässä
+Puhuja 3: Pekingissä
+Puhuja 3: ja kertoo kokemuksiaan.
+Puhuja 3: Se on
+Puhuja 3: aika
+Puhuja 3: hauskasti ja lakonisesti
+Puhuja 3: kerrottu.
+Puhuja 3: Ja selväksi tulee,
+Puhuja 3: että minkäänlaisia oikeuksia ei myöskään näillä läheteillä ole. Mutta jos
+Puhuja 3: oma
+Puhuja 3: määräaikaisten työsopimusten määrä
+Puhuja 3: tai työnäkymät
+Puhuja 3: ahdistaa, niin voi lukea, että me todeta, että muualla on vielä huonommin.
+Puhuja 3: Itse
+Puhuja 1: voisin ehdottaa, että mikäli mytologia ja
+Puhuja 1: sen käyttäminen väärin, kulttuurisesti
+Puhuja 1: ärsyttää, suosittelen
+Puhuja 1: kaikille nyt jo suomalaiseen kulttuuriin iskosttunutta Don Rosan Sammon salaisuussarjakuvaa.
+Puhuja 1: Siinä voitte kehittää kulttuurisotia
+Puhuja 1: siitä, kuinka Roope Ankka tulee... Nämäilevät
+Puhuja 3: ihmisiä eivätkä ankkoja!
+Puhuja 3: Rohkeasti
+Puhuja 1: yksityistämään suomalaisen kulttuuriperinnön!
+Puhuja 1: Sen lisäksi tämän Game of Throne suosituksen hengessä voimme lämpimästi suositella
+Puhuja 1: tätä
+Puhuja 1: aikaisemmin tänä vuonna ulosvuutta Night of the 7 Kingdom
+Puhuja 1: televisiosarjaa, joka myös sijoittuu Game of Thrones universumiin jonnekin sinne House of the Dragonin sekä pääsarjan väliin. Se oli aidosti
 Puhuja 1: paras Game of Thrones
 Puhuja 1: asia, mitä on tapahtunut
 Puhuja 1: kolmannen kauden
-Puhuja 1: itsessään pääsarjaa. Voin näin keskiaika ja siis vain tasan örttinä suuresti ja suuresti suositella sitä sellaista pienempää ja henkilökohtaisempaa tarinaa, pidän niistä kovin. Eikö siinä ollut päähahmona
-Puhuja 3: tällainen muna?
+Puhuja 1: itsessään pääsarjaa. Voin
+Puhuja 1: näin keskiaika nörttinä ja siis vanhassa nörttinä suuresti
+Puhuja 1: suositella sitä sellaista pienempää ja henkilökohtaisempaa
+Puhuja 1: tarinaa. Pidä niistä kovin. Eikö siinä ollut päähahmona
+Puhuja 2: tällainen muna?
 Puhuja 1: Joo.
-Puhuja 1: Kyllä jo siinä pääsee näkemään munan
+Puhuja 1: Kyllä joo. Siinä pääsee näkemään munan
 Puhuja 1: monellakin tapaa.
-Puhuja 1: Olipahan taas asiallista.
-Puhuja 1: Kiitos Tuija!
-Puhuja 2: Kiitos
-Puhuja 2: näihin ämettyneisiin.
-Puhuja 3: Kiitos
-Puhuja 1: Pihla. Kiitos. Kiitos. Kiitos Miestekniikassa häärännyt Helmi Sundström.
+Puhuja 1: Olipa taas asiallista.
+Puhuja 1: Kiitos Tuija! Kiitos
+Puhuja 3: näihin hämmentyneisiin.
+Puhuja 1: Kiitos Pihla. Kiitos.
+Puhuja 1: Ja kiitos miestekniikassa häärännyt Helmi Sundström.
 Puhuja 1: Minä olen John Helin ja tämä on ollut Uutisraportti-podcast
 Puhuja 1: ja näemme jälleen
 Puhuja 1: ensi viikolla.
+Puhuja 3: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greatot Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir
+Puhuja 0: Putin ja hänen hämähäkinverkkosa.
+Puhuja 0: Verkkonsa. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a, kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

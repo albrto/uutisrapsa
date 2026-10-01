@@ -1,0 +1,466 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin torstaina
+Puhuja 0: kaksikymmentäviisi.
+Puhuja 0: Päivä, meinasin sanoa
+Puhuja 0: toukokuuta,
+Puhuja 0: mutta ollaan edelleen siellä maaliskuussa.
+Puhuja 0: Me ollaan kaksituhatta kaksikymmentäyksi.
+Puhuja 0: Mun nimi on Tuomas Peltomäki ja kanssani täällä Helsingin Sanomien
+Puhuja 0: videostudio
+Puhuja 0: huoneessa tai kopissa, voisi sanoa, että hyvin pieni tila
+Puhuja 0: ovat
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: politiikan toimittaja Marko Junkkari. Hei Marko! No terve, Tuomas.
+Puhuja 0: Oletko nauttinut aivan upean keväisestä päivästä?
+Puhuja 2: No, itse asiassa en. Siellä onnistunut sälekaihtimet
+Puhuja 2: kiinni himassa.
+Puhuja 0: Totta, olet kaikki. Kyllä. Se yhestä meemistä se jätkä, joka näkee,
+Puhuja 0: kun ulkona on kesä ja aurinko ja sitten
+Puhuja 0: Mimmit pelaa
+Puhuja 0: rantafutista,
+Puhuja 0: jossa kävelee sinne ikkunaan.
+Puhuja 0: Verhat kiinni ja menee tietokoneelle.
+Puhuja 2: Niin, koska se aurinko paistaa just silleen, että ei näin näyttöä ole jossain auki.
+Puhuja 0: Sitten
+Puhuja 0: meillä on internetin ihmeellisen
+Puhuja 0: ihmeellisten mekanismien kautta paikalla Helsingin sanain
+Puhuja 0: tiedetoimittajien
+Puhuja 0: tiedetoimittaja.
+Puhuja 0: Annikka Mutanen. Hei, Annikka.
+Puhuja 0: Moi moi! Sä olet siellä
+Puhuja 0: kotona ja
+Puhuja 0: meihin siis etäyhteydessä.
+Puhuja 0: Miten sun,
+Puhuja 0: oletko ehtinyt siellä kotona päin reippailemaan kevätauringossa?
+Puhuja 3: Joo ja siellä tuli kuuma.
+Puhuja 3: Nyt oli eka kertaa pakko ottaa pipo pois ja avata takki.
+Puhuja 3: Oho. Tuli hiki.
+Puhuja 0: Kävin itse
+Puhuja 0: kahvilla ja pullalla tuolla temppeliäukion
+Puhuja 0: kirkon katolla.
+Puhuja 0: Siinä on semmoisia kiven murkuloita, niin mä kiipesin sinne.
+Puhuja 0: Aurinko lämmitti niin, että tuntuu, että tuntuu, että rusketta.
+Puhuja 0: Se oli aika mahtavaa.
+Puhuja 0: Tämän viikon podcastissa keskustellaan pääministeri Sanna Marinin hallituksen määräämistä liikkumisrajoituksista.
+Puhuja 0: Lakiesitys,
+Puhuja 0: joka rajoittaa tietyillä alueilla suomalaisten
+Puhuja 0: liikkumista, on määrä antaa tänään torstaina eduskunnalle.
+Puhuja 0: Rajoitukset otettaisiin käyttöön
+Puhuja 0: vasta erillisellä valtioneuvoston asetuksella ja vain osassa maata. Vaikka eduskunta hyväksyisi esityksen,
+Puhuja 0: Se ei siis vielä itsessään tarkoittaisi, että rajoitukset tulevat voimaan.
+Puhuja 0: Mutta siitä huolimatta
+Puhuja 0: kyseessä on
+Puhuja 0: aivan erinomaisen
+Puhuja 0: poikkeuksellinen asia.
+Puhuja 0: Jälleen tällainen
+Puhuja 0: vain sodassa ja vain
+Puhuja 0: kerran elämässä tällaista tapahtuu ja nyt ollaan siinä. Keskustellaan siis koko jakso tästä yhdestä aiheesta.
+Puhuja 0: Keskustellaan
+Puhuja 0: varsinkin
+Puhuja 0: ensiksi niiden liikkumisrajoitusten
+Puhuja 0: epidemiologisista perusteista,
+Puhuja 0: sen jälkeen itse lakipaketin
+Puhuja 0: sisällöstä
+Puhuja 0: ja vielä kolmanneksi puhutaan siitä,
+Puhuja 0: että mitä tämän lakipaketin
+Puhuja 0: aikaansaaminen
+Puhuja 0: paljasti pääministeri Sanna Marinin
+Puhuja 0: hallituksen poliittisista
+Puhuja 0: jakolinjoista,
+Puhuja 0: jotka pulpahtivat
+Puhuja 0: pintaan, kun näitä yksityiskohtia arvettiin
+Puhuja 0: hieromaan.
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien
+Puhuja 0: hiljaisuutta siihen
+Puhuja 0: varalle.
+Puhuja 0: Asiakirjassa,
+Puhuja 0: jonka otsikko on
+Puhuja 0: Hallituksen esitys eduskunnalle
+Puhuja 0: laiksi liikkumisvapauden
+Puhuja 0: ja lähikontaktien
+Puhuja 0: väliaikaisesta
+Puhuja 0: rajoittamisesta
+Puhuja 0: luonnos kaksimiljoonaa
+Puhuja 0: neljäsataakaksituhatta
+Puhuja 0: kaksikymmentäyksi.
+Puhuja 0: Sinne sivulle kaksituhatta kaksikymmentäviisi on piilotettu mielestäni paras summaus tilanteesta, jossa Suomi tällä hetkellä on.
+Puhuja 0: Epidemiatilanne
+Puhuja 0: H OS eli Hus ja
+Puhuja 0: Varsinais-Suomen
+Puhuja 0: sairaanhoitopiireissä on vakava ja uhkaava.
+Puhuja 0: Päivittäiset
+Puhuja 0: tapausmäärät eivät ole kääntyneet laskuun, vaikka alueella on otettu käyttöön käytännössä lähes kaikki nykylainsäädännön
+Puhuja 0: mahdollistamat rajoitustoimet.
+Puhuja 0: Viranomaisten säännön mukaiset toimivaltuudet eivät enää ole riittäviä. Kyllä se kynnys saa olla aika korkealla, että
+Puhuja 0: poliisilla on lupa saapastella kenenkään kotiin. Ja se on parempi pitää siellä. Eikä siihen
+Puhuja 0: sisällö
+Puhuja 0: ajatusta, että siellä kotona tehdään jotain epäilyttävää. Muuten
+Puhuja 0: ovet appoi sen oikein, kuka tahansa saa kävellä sinne sisään. Jotenkin vaan tuntuu, että se tuntui äärettömän tärkeältä arvolta,
+Puhuja 0: että kenenkään pääministerin käskiläiset ei voi kävellä kenenkään kotiin ilman, että joku tuomari on senllu vaan mieltä.
+Puhuja 3: Minua askarruttaa sellainen asia tuossa samassa
+Puhuja 3: kokonaisuudessa, että ei ole kokeiltu lainkaan sitä suosittamista.
+Puhuja 3: Että olisi annettu vahva yksiääninen suositus siitä, että
+Puhuja 3: älkää tavatko enempää kuin vaikkapa
+Puhuja 3: yhtä
+Puhuja 3: muun talouden
+Puhuja 3: ihmistä tai yhden muun talouden jäseniä.
+Puhuja 3: Siis asiahan on nyt niin, että
+Puhuja 3: ei kuitenkaan ihan pelkästään ne nuoret, jotka hengailee yhdessä vaan kyllä ihan aikuisetkin hengailee ja... Tämmöiset muunkin ikäiset keski-ikäiset
+Puhuja 3: kaikessa hiljaisuudessa
+Puhuja 3: tapailee ei tarvi olla edes mitkään kauheet pirskeet vaan, että
+Puhuja 3: tavataan nyt vaikka sitten sen kuuden kesken.
+Puhuja 3: Ei meille ole kerrottu tai sanottu,
+Puhuja 3: että pyydämme, että kukaan ei tekisi näin nyt kolmeen viikkoon. Hyvin. Hyvä kysymys, koska
+Puhuja 2: minulla
+Puhuja 2: on
+Puhuja 2: mielikuva, että aika iso osa ihmisistä
+Puhuja 2: edelleen noudattaa samoja kokoontumisrajoituksia,
+Puhuja 2: jotka tulivat vuosi sitten keväällä voimaan. Ei tapaa
+Puhuja 2: tai juuri ketään ja ovat tosi tarkkoja.
+Puhuja 2: Sitten on osa, joka ei välttämättä silloin viime keväänä tai ehkä vähän paremmin, mutta kyllä kieltämättä
+Puhuja 2: vuosi on pitkä aika ja tässä on tullut väsymys.
+Puhuja 2: En tiedä mikä arvio on hallituksella ollut, että
+Puhuja 2: jos ne olisi tavallaan esittäneet
+Puhuja 2: samantyyppisiä vetoomuksia
+Puhuja 2: tai toistaneet samat vetoomukset uudestaan kuin viime keväänä, niin ne ei välttämättä ole stepsineet yhtä hyvin.
+Puhuja 0: Teidän tää varmasti perustuu tähän isollekaan.
+Puhuja 0: Sitten mä haluan vielä viimeiseksi puhua tästä
+Puhuja 0: näistä
+Puhuja 0: poliittisista jaoista, jotka
+Puhuja 0: suurin piirtein sillä tavalla
+Puhuja 0: ilmeni, että kun tämä ulkonaliikkumisrajoituspaketti
+Puhuja 0: oli tavallaan, että okei, se oli pöydällä, että tämmöinen on tulossa.
+Puhuja 0: Sitten eri puolueet
+Puhuja 0: rupesivat protestoimaan
+Puhuja 0: sitä hallituksen sisällä
+Puhuja 0: varsin
+Puhuja 0: voimakkaasti Vasemmistoliitto.
+Puhuja 0: Tosin
+Puhuja 0: Vasemmistoliitto ja sen lisäksi vihreät
+Puhuja 0: ottivat
+Puhuja 0: jotenkin aikalisää näihin
+Puhuja 0: ja sitten he ujuttivat sinne
+Puhuja 0: joukkoon
+Puhuja 0: omia lievennyksiä näihin ulkona liikkumiskieltoihin, jotka Vasemmistoliiton osalta koski ehkä enemmän sitä, että saa käydä
+Puhuja 0: tota
+Puhuja 0: polyamiisessa
+Puhuja 0: oriossa, jos haluaa ja tota
+Puhuja 0: ei.
+Puhuja 0: Tuomas. Anteeksi.
+Puhuja 0: Se liittyy siihen, että voi tavata
+Puhuja 0: virkistysmielessä
+Puhuja 0: myös muuta
+Puhuja 0: kuin ihan välitöntä lähipiiriä.
+Puhuja 0: Sitten vihreällä tää
+Puhuja 0: jonkun
+Puhuja 0: näköistä maagista taikauskoa ilmentämä
+Puhuja 0: maskipakko
+Puhuja 0: pakotettiin siihen.
+Puhuja 0: Siinä Mika Salminen pyöritteli silmiä tuolla tiedotustilaisuudessa.
+Puhuja 0: Tää nyt laitettiin tänne vaikka meillä mitään todistusaineistoa,
+Puhuja 0: että tää auttaa yhtään millään tavalla. Mutta
+Puhuja 0: että semmoinen sinne ja sitten
+Puhuja 0: tämmöisiä lievennyksiä ja lisäyksiä sinne laitettiin. Mistä Marko
+Puhuja 0: tämä
+Puhuja 0: koko keskustelu
+Puhuja 0: sun mielestä kertoo?
+Puhuja 2: Toi on musta ihan älyttömän hyvä kysymys. Minusta tämä ei mene niin kuin... En pysty sanomaan,
+Puhuja 2: että tässä on perusoikeudet.
+Puhuja 2: Nykyään vasemmistopuolueet,
+Puhuja 2: vihreät
+Puhuja 2: ja RKP
+Puhuja 2: perusoikeudet ovat niiden retoriikassakin
+Puhuja 2: kauhean keskeisessä osassa, että tämän takia sitä puolustavat.
+Puhuja 2: Mutta kun minä
+Puhuja 2: ehkä
+Puhuja 2: enemmän...
+Puhuja 2: Luulen,
+Puhuja 2: että
+Puhuja 2: tämä johtuu enemmän se, että miksi tietyt puolueet ovat hallituksen sisällä olleet tiukempia kuin toiset. Luulen, että se johtuu vähän sattumasta
+Puhuja 2: ja henkilöistä.
+Puhuja 2: RKP:n Anna ja Henriksson on oikeusministeri, joka vähän työnsä puolestakin
+Puhuja 2: tarkastelee perustuslakia ja perusoikeuksia
+Puhuja 2: vähän eri vinkkelistä. Sen lisäksi RKP:lla on pitkä liberaali perintö.
+Puhuja 2: Sitten vasemmistoliitto,
+Puhuja 2: joka
+Puhuja 2: on
+Puhuja 2: omalla tavallaan myös liberaali puolue, mutta luulen, että siellä vaikuttaa se,
+Puhuja 2: että puheenjohtaja eli Andersson on nyt Pekka ja myös Paavo
+Puhuja 2: Arhinmäen suhteellinen
+Puhuja 2: ja painoarvo puolueen sisällä on kasvanut.
+Puhuja 2: Ari Mäki on siis eduskuntaryhmän puheenjohtaja. Ari Mäki on
+Puhuja 2: katukulttuurin ja cityouhujen
+Puhuja 2: ilmentymä. Luulen että miltä se kumpuaa myös
+Puhuja 2: kaupunkilaisuudesta.
+Puhuja 2: Vihreät on
+Puhuja 2: molempia, liberaalipuolue ja kaupunkilaispuolue.
+Puhuja 2: Tässä tulee vähän
+Puhuja 2: niin kuin... Ja mielestäni vihreiden asento on ollut ehkä epäselvä, niin kuin vihreällä muissakin asioissa. Mutta
+Puhuja 2: En tiedä kertooko tämä puolueiden ideologiasta niin paljon kuin näistä joistain henkilöistä.
+Puhuja 2: Arhinmäestä ja Henrikssonista.
+Puhuja 2: Ja SDP,
+Puhuja 2: joka on jotenkin... SDP on täysin
+Puhuja 2: kriisimoodissa.
+Puhuja 2: Vielä Sanna Marin ja Krista Kiuru hoitaa vain kriisiä. En tiedä, käydäänkö siellä mitään ideologista pohdiskelua näistä asioista. Mun
+Puhuja 0: mielestä se oli kuitenkin tavallaan ihan arvokasta.
+Puhuja 0: Mä ihmettelin sitä, että miksi just vasemmistoliitto noin
+Puhuja 2: jotenkin suuresti lähtee tässä... Ai niin, että ainakin keskustalla on tietysti se, että ei saa helsinkiläisiä tai kaupunkilaisia rokottaa enemmän alaisia.
+Puhuja 0: Miksi vasemmistoliitto lähtee noin
+Puhuja 0: paljolti
+Puhuja 0: viemään eri linjalle?
+Puhuja 0: Mutta sitten kuitenkin ne tavallaan ehkä oli ihan arvokkaita ne
+Puhuja 0: pointit,
+Puhuja 0: mitkä
+Puhuja 0: tavallaan lähtemällä
+Puhuja 0: jotenkin keulimaan,
+Puhuja 0: niin
+Puhuja 0: se
+Puhuja 0: jonkun aikaa kiinnittyi huomiota, että okei, mitkä ne on ne perusteet.
+Puhuja 0: Sitten siellä oli tätä, että niin tosiaan kaikilla ei ole autoa, joilla hurauttaa työpaikalle
+Puhuja 0: tota
+Puhuja 0: niin
+Puhuja 0: kuin
+Puhuja 0: koronaturvallisesti
+Puhuja 0: ja näin.
+Puhuja 0: Kaikilla ei oo
+Puhuja 0: omaa mökkiä, jonka he omistavat, johon he voivat vetäytyä viettämään
+Puhuja 0: kuksastaa
+Puhuja 0: jallua juonen
+Puhuja 0: koronaliikkumiskieltoja
+Puhuja 0: ja näin.
+Puhuja 0: Jos sitä pysähtyy miettimään, niin onhan tää koko lakipaketti on semmoinen
+Puhuja 0: rikkaiden porsaiden hellimispaketti.
+Puhuja 0: Sit poljetaan
+Puhuja 0: tuonne maanrapaan kaikki, joilla ei ole rahaa, mammonaa ja autoja. Tää on faktaa! Se on juuri näin. Häpeä, Sanna Marin. Häpeä, mihin olet mennyt
+Puhuja 0: vanhoilta
+Puhuja 0: kunnon marxilaiselta, juurilta
+Puhuja 0: kysyn.
+Puhuja 0: Ai mitä, Annika, olet mieltä?
+Puhuja 3: Se on totta, että tää kohtelee epätasa-arvoisesti
+Puhuja 3: ihmisiä, joilla on paljon resurssia
+Puhuja 3: ja niitä, joilla on vähän.
+Puhuja 3: Mutta
+Puhuja 3: toisaalta on aika lyhytaikainen
+Puhuja 3: sulku
+Puhuja 3: kuitenkin toivon mukaan. Se
+Puhuja 3: ehkä vähän helpottaa tätä
+Puhuja 0: asiaa. Näin ihan ymmärrän.
+Puhuja 3: Sano vaan. Sitten on vielä sellainen asia,
+Puhuja 3: että myöskin sitten nämä ikävät seuraukset tästä pandemiasta
+Puhuja 3: tai kun ne tartunnat lähtee
+Puhuja 3: koville kerroksille niin kyllä ne sitten loppujen lopuksi myöskin se sairaus osuu pahiten niihin
+Puhuja 3: pienituloisiin ihmisiin jotka joutuu käymään
+Puhuja 3: lähitöissä eikä voi tehdä etänä
+Puhuja 3: kaikkea ja suojautua johonkin, että
+Puhuja 3: tääkin on isompi kuvio, ei ole ihan nollasummapeliä.
+Puhuja 3: Näin.
+Puhuja 0: Ihmettelen, en tiedä osaatko vasta, mutta
+Puhuja 0: jos tässä puhutaan kolmen viikon
+Puhuja 0: ulkonaliikkumiskiellosta
+Puhuja 0: eli liikkumisrajoituksesta,
+Puhuja 0: Miksi tässä hallituksen esityksessä lukee, että laki on tarkoitettu tulemaan voimaan mahdollisimman pian ja olemaan voimassa
+Puhuja 0: neljätoista. Toukokuuta asti?
+Puhuja 2: En tiedä, mutta oletan, että koska
+Puhuja 2: tämä laki tulee eduskuntaan,
+Puhuja 2: jonka jälkeen sitä aktivoidaan asetuksella. Sehän tehdään tilanteen mukaan ja perusteluissa on myös, että sen täytyy olla oikea-aikainen
+Puhuja 2: ja oikean kokoinen.
+Puhuja 2: Totta kai idea on se, että
+Puhuja 2: jos Helsingissä lähtee
+Puhuja 2: huhtikuun puolivälissä uudestaan nousuun, niin se voidaan ottaa myös silloin käyttöön.
+Puhuja 2: Samalla.
+Puhuja 2: Tämähän on
+Puhuja 2: vähän niin kuin varmistus,
+Puhuja 2: että nyt on aika satavarmasti, että tämä otetaan käyttöön, koska ei tässä mitään muutosta
+Puhuja 0: näy, tai isoa muutosta ei näy, mutta siinä on myös se ajatus, että sitä voidaan käyttää tilanteen mukaan. Annikka, osaatko vastata siihen, että kun mä jostain luin, en muista mistä, mutta jossakin sanottiin sillä tavalla, että brittien malli on ollut se, että siellä on tosi tiukka lockdown
+Puhuja 0: jolla
+Puhuja 0: se pyritään nitistään kokonaan
+Puhuja 0: samalla, kun rokotetaan aivan raivopäisesti.
+Puhuja 0: Siellä se
+Puhuja 0: kestää
+Puhuja 0: viisi viikkoa.
+Puhuja 0: Nyt...
+Puhuja 0: Miten mä täällä...
+Puhuja 0: Oletko sä Annika siellä?
+Puhuja 3: Joo, mä put tosi langalta.
+Puhuja 3: Okei.
+Puhuja 3: Saanko vastata siihen?
+Puhuja 0: Niin, siitä,
+Puhuja 0: että voiko olla, että tässä todellisuudessa tähdätään viiden viikon
+Puhuja 0: ulkona liikkumisrajoituksiin?
+Puhuja 0: Tämmöiseen brittimalliin on mun kysymys.
+Puhuja 3: Voi hyvinkin olla
+Puhuja 3: siis tässä esityksen liitteenä olevissa THL:n
+Puhuja 3: mallinnuksissa,
+Puhuja 3: niin siinä on käsitelty kaksi vaihtoehtoa,
+Puhuja 3: joista ensimmäinen on kolme viikkoa ja toinen on kuusi viikkoa.
+Puhuja 3: Ja
+Puhuja 3: sitten tällä niin kuin tämän näiden laskelmien mukaan niin se kuuden viikon
+Puhuja 3: liikkumisrajoitukset
+Puhuja 3: niin niillä vältettäisiin sitten se
+Puhuja 3: kova tartuntapiikki kokonaan, koska silloin ehtisi sieltä kesästä vastaan
+Puhuja 3: jo se rokotuskattavuus
+Puhuja 3: ja vuodenaikaisvaihtelu
+Puhuja 3: eli ei tulisi lainkaan tätä suurta nousua.
+Puhuja 3: Ja se kolmen viikon mallilla pystytään lykkäämään nousuun ja madaltaa siis vähentää sitä sairastuvien määrää kyllä
+Puhuja 3: dramaattisesti,
+Puhuja 3: mutta se nousee silti niitten purkamisen jälkeen
+Puhuja 3: uudestaan se epidemiapiikki.
+Puhuja 3: Eli tota kyllä tässä voidaan ihan hyvin tähdätä siihen kuuteen viikkoon.
+Puhuja 0: Okei. Hei,
+Puhuja 0: Annika,
+Puhuja 0: mä todella epärealistin unohdin sanoa sulle, että
+Puhuja 0: tässä lopussa on tämmöinen osuus, jossa me suositellaan kaikkia siistejä juttuja. Se on semmoinen afterwork osuus.
+Puhuja 0: Jos sulla
+Puhuja 0: tulee mieleen jotain, mitä sä luet nyt tai sarja, minkä olet katsonut tai elokuva, joka on tuottanut sulle nautintoa, saat kohta jakaa sen.
+Puhuja 0: Ensin kysyn Markolta, että
+Puhuja 0: sitten kun sä lähdet tonne ihanaan kevätauringonpaisteeseen,
+Puhuja 0: ehkä joku on pistänyt jonkun, ei salakapakan vaan salaaterassin pystyyn. Sitten voidaan vaikka kaksistaan mennä sinne istumaan, poliiseilta piiloon ja juomaan bisää.
+Puhuja 0: Millä sä rupeet viihdyttämään
+Puhuja 0: mua ja muita mahdollisia laisuujat?
+Puhuja 2: Joo, itse asiassa kun en nyt astelin kirjoja. Kerroin jostain ihan muusta. Mietin, etten tämän sano, mutta sanon nyt silti. Eli aloitin maanantaina tällaisen vissy dietin.
+Puhuja 2: Olen ollut tämän viikon... Otetaan siis tällainen dieettiä, joka löytyy netistä. En tiedä...
+Puhuja 2: Valitettavasti täällä on tiedetoimittaja paikalla, joka voi sanoa, että tuo on ihan pelleilyä ja tämä oli dieettiä.
+Puhuja 2: Mutta käytännössä tämän viikon juon kauheasti visua ja syön pihviä.
+Puhuja 2: Tää on ollut
+Puhuja 2: ihan kamalaa, mä oon ollut aika sekaisin, mutta itse asiassa tänä aamuna jotenkin ihan hyvä olo yllättäen. Vau!
+Puhuja 0: Tiesitkö, että Jordan Piirsen, joka on tämmöinen suuri guru
+Puhuja 0: tuolla internetoikeistoukkeleiden
+Puhuja 0: piirissä, niin se aloitti jonkun aivan hämmentävän.
+Puhuja 0: Syön pelkkää lihaa, en mitään muuta dieetin.
+Puhuja 0: Ja se melkein kuulisi.
+Puhuja 2: Ota on varmaan sama. Ootas siis myös vähän salaattia ja jotain, mutta aika
+Puhuja 2: yksipuolista ja aika
+Puhuja 2: kova on nälkä.
+Puhuja 0: Okei,
+Puhuja 0: Annika, tuliko sulla näin varoittamatta ja yllättäen kun heitin, tuliko
+Puhuja 1: mitään mieleen, mitä haluaisit suositella kuuntelijoille? Ei ole pakko. En suosittele samaa kuin Marko.
+Puhuja 0: Ei ole pakko.
+Puhuja 3: En suosittele samaa kuin Marko.
+Puhuja 2: Mä arvasin ton.
+Puhuja 3: Vaikka mä näinkin joskus sanotaan, että jos alun perin elää aivan älyttömän
+Puhuja 3: epäterveellisesti, niin mikä tahansa dieetti voi olla parannus siihen.
+Puhuja 3: Niin. Mutta omia suosituksiani, minä suosittelen aurinkoa
+Puhuja 3: kun sitä on.
+Puhuja 3: Se on terveellistä
+Puhuja 3: vaikka sillä on huono maine, niin tiedetoimittajana
+Puhuja 3: sanon,
+Puhuja 3: että
+Puhuja 3: sillä auringolla on todella paljon hyviä terveysvaikutuksia,
+Puhuja 3: että ei kannata palaamisen pelossa jäädä varjoon loppujiksi
+Puhuja 3: nyt ulos.
+Puhuja 2: Vielä puolustavisjuteettiä
+Puhuja 2: sillä, että jos katsotaan, että kumminkin tulee
+Puhuja 2: liikkumisrajoituksia
+Puhuja 2: ja muutenkin ollaan niin syvässä ankeudessa, niin sehän ei pieni lisäankeus,
+Puhuja 2: niin ei tunnu
+Puhuja 2: enää missään, että tämä menee vähän niin kuin sivussa.
+Puhuja 0: Mä en tiedä miten pihvi tietty voi olla kenenkään mielestä ankea.
+Puhuja 0: Paitsi mullehan kävi sillä tavalla, kun mä aloitin
+Puhuja 0: vuodenvaihteessa,
+Puhuja 0: että mä jätän punaisen lihan pois.
+Puhuja 0: Ja sitten, että mä syön vaan kanaa ja kalaa.
+Puhuja 0: Siinä kävit ehkä vahingossa silleen, että ne jäi kanaa ja kalakin pois. Kyllä mä niitä syö ja näin, mutta ei silleen tee mieli. Mä oon vähän niinkuin vahingossa
+Puhuja 0: umplahtanut
+Puhuja 0: kasvis.
+Puhuja 0: Tai siis silleen, että mä syön juustoa ja näin, Mutta lähinnä kasviksia. Ja sit mä teen sellaisen makronutrienttilaskelman
+Puhuja 0: mun, mitä mä syön päivän aikana, kun nyt kun mä oon kasvissyöjä.
+Puhuja 0: Mä en oo ikinä elämässäni syönyt näin epäterveellisessa. Se oli niinku viisikymmentä
+Puhuja 0: prosenttia oli rasvaa ja viisikymmentä prosenttia hiilaria. Se oli ihan silleen
+Puhuja 0: aivan
+Puhuja 0: kestämätön tän kasvissyötön.
+Puhuja 0: Hei, haluan suositella pikaisesti kahta
+Puhuja 0: mahtavaa
+Puhuja 0: tuotetta, joista ensimmäinen on Netflix-sarja, ambreela
+Puhuja 0: Academy.
+Puhuja 0: On todella hyvä. Onneksi rupesin sen kattoon.
+Puhuja 0: Perustuu sarjakuvaan.
+Puhuja 0: On tämmöinen niinku
+Puhuja 0: seikkailuuper
+Puhuja 0: supersankarijuttu.
+Puhuja 0: Sopii katsottavaksi aikuiset ja lapset keskenään. Toimii todella hyvin vauhdikas. Käsitellään
+Puhuja 0: niinku
+Puhuja 0: lapsuutta, aikuisuutta,
+Puhuja 0: kasvamista,
+Puhuja 0: minuuden kysymyksiä, arvostusta
+Puhuja 0: kaikkia tämmöisiä hyviä, hyviä kysymyksiä käsitellään samalla kun ratkaistaan
+Puhuja 0: aikahyppujen
+Puhuja 0: ja maailmanlopun
+Puhuja 0: välttämisen skenaariota.
+Puhuja 0: Todella hyvä, suosittelen laatua, tosi laatusarja.
+Puhuja 0: Tulee vähän niinku jopa Game of Thronce mieleen, on niin hyvä
+Puhuja 0: meininki.
+Puhuja 0: Sen lisäksi
+Puhuja 0: meidän kollegan
+Puhuja 0: Pekka Ervastin kirjoittama kirjaa Tiitinen
+Puhuja 0: vakoilijoita
+Puhuja 0: ja veijareita,
+Puhuja 0: joka on ilmestynyt myös äänikirjana ja on todella mielenkiintoinen.
+Puhuja 0: Kertoo eduskunnan ex-pääsihteeri
+Puhuja 0: ja Supon
+Puhuja 0: ex
+Puhuja 0: johtaja Seppo Tiitisen
+Puhuja 0: elämän. Skippaa ilahduttaa nopeasti maaseutulapsuudet
+Puhuja 0: ja opiskeluajat ja mennään suoraan asiaan siellä. Neukkujen kanssa pyöritään vakoiluympyröissä
+Puhuja 0: ja
+Puhuja 0: Neuvostoliiton suurlähettilään kanssa istutaan pullakahvilla
+Puhuja 0: ja juonitaan.
+Puhuja 0: Tosi mielenkiintoista kuvausta
+Puhuja 0: Kekkosen ajan politiikasta ja varsinkin Mauno Koiviston ajan politiikasta.
+Puhuja 0: Mä oon jossain vähän yli puolivälissä menossa siinä kirjassa. Todella hyvää luettavaa.
+Puhuja 0: Pekka Ervastihan on todella
+Puhuja 0: hyvä kirjoittaja
+Puhuja 0: myös lämpimästi.
+Puhuja 3: On hyvä kirja. Kiitos suositukset, kuulostaa tosi mielenkiintoiselta.
+Puhuja 2: Olen sen lukenut, se on hyvä kirja. Pitää muistaa, että Seppo Tiitinen, eläkkeellä oleva päiväkodin pääsihteeri, niin hän on myös
+Puhuja 2: suorastaan fanaattinen jääpallofani.
+Puhuja 2: Hän joskus sanoi, että hänen elämänsä suurin hetki oli se, kun Suomi, että ega kerran jääpallon maailmanmestaruuden
+Puhuja 2: joskus.
+Puhuja 0: Mahtavaa. Kymmenen vuotta sitten vai milloin se olikaan. Okei, siinä kaikki tältä erää.
+Puhuja 0: Kiitos, Annika
+Puhuja 0: Mutanen. Kiitos. Kiitos, Marko Junkkari. Kiitoksia. Mun nimi on Tuomas Pelmäki. Ääni ja kuva ja kaiken muu mahtava meille tekee tällä viikolla. Mikko
+Puhuja 0: Peura näyttää peukkua siellä lasin takana. Hei, lähettäkää meille palautetta.
+Puhuja 0: Sähköpostihan on tullut ihanasti, koska mä taisin sanoa viime jaksossa,
+Puhuja 0: että mistä muuten pahoittelut, että mulla oli hirveä
+Puhuja 0: kangasfrätti. Naamalla kukaan ei saanut mun puheesta selvää.
+Puhuja 0: Mutta pyysin sähköpostia, sitä on tullut aika paljon. On ollut ilahduttavaa lukea tosi lämmin, hyvä fiilis tulee kaikesta myös paskasta palautteesta.
+Puhuja 0: Lähettäkää palautetta
+Puhuja 0: uutisraportti ja
+Puhuja 0: meidän kaikkien omiin sähköposteihin.
+Puhuja 0: Kuullaan taas ensi viikolla.
+Puhuja 3: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

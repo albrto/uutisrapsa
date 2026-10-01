@@ -1,252 +1,467 @@
-Puhuja 0: Hei ja tervetuloa
-Puhuja 0: Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina
-Puhuja 0: kaksikymmentäkahdeksan.
-Puhuja 0: Heinäkuuta.
-Puhuja 0: Minun nimeni on Anni Keski-Heikkilä.
-Puhuja 0: Kanssani täällä Sanomatalon
-Puhuja 0: studiossa Helsingissä
-Puhuja 0: ovat Heliin sanomien ulkomaantoimittaja
-Puhuja 0: Ilmo Ilkka. Hei Ilmo. Hei Anne.
-Puhuja 0: Ja nyt. Fi:n toimittaja Inkeri Harju. Hei Inkeri. Ja
-Puhuja 0: politiikan toimittaja Joona Aaltonen.
-Puhuja 0: Hei Joona. Heippuli hei. Eli neljässään ollaan täällä taas, koska me kaikki haluttiin tulla tänne paikalle.
-Puhuja 0: Tämän viikon podcastissa keskustellaan
-Puhuja 0: Britannian
-Puhuja 0: pääministeri
-Puhuja 0: kisasta, johon on selvinnyt
-Puhuja 0: kaksi ehdokasta
-Puhuja 0: ja johon meidän Britanniaentusiastimme
-Puhuja 0: ilma on perehtynyt perinpohjaisesti.
-Puhuja 0: Ja myös puhutaan venäläisten turistiviisumeista
-Puhuja 0: Suomeen. Niiden jakaminen
-Puhuja 0: haluttaisiin keskeyttää
-Puhuja 0: eli venäläisten turistien tuleminen tänne lopettaa.
-Puhuja 0: Ja vielä otetaan käsittelyyn
-Puhuja 0: tapaus, jossa paikallislehti Loviisan sanomat paljasti täkäläisen K-Supermarketin
-Puhuja 0: perinnön asiakkailta vääriä hintoja.
-Puhuja 0: Ja tämän seurauksena
-Puhuja 0: kauppa veti ilmoituksensa lehdessä pois, koska kauppiaan mukaan asia meni hänellä liikaa
-Puhuja 0: tunteisiin.
-Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien hiljaisuuksien varalle.
-Puhuja 0: Okei, Lähdetään liikkeelle
-Puhuja 0: Britannian pääministeri
-Puhuja 0: kisasta.
-Puhuja 0: Siihen on Ilmo oikein
-Puhuja 0: uppoutunut syvälle.
-Puhuja 0: Ilman ajatuksena on esitellä meille
-Puhuja 0: näitä kandidaatteja.
-Puhuja 1: Joo.
-Puhuja 1: Kerrataan vielä, että tällä hetkellä
-Puhuja 1: tässä on kaksi ehdokasta.
-Puhuja 1: Ulkoministeri
-Puhuja 1: Listras
-Puhuja 1: ja entinen valtiovoimaministeri
-Puhuja 1: Risishi
-Puhuja 1: Sunak.
-Puhuja 1: Näistä kahdesta konservatiivvipuolueen
-Puhuja 1: jäsenet äänestävät.
-Puhuja 2: Meillä isommilla medioilla
-Puhuja 2: se ei niin paljon
-Puhuja 2: haittaa että suututaan jonkun tietyn ryhmän.
-Puhuja 2: Ne kyllä sitten toipuu siitä ja jos joku peruu niin se peruu.
-Puhuja 2: Pikkulehdessä se on tosi iso asia ja sitten jos ois joku
-Puhuja 2: riippumattomampi tuki
-Puhuja 2: joka tulis siitäkin huolimatta että sä kirjotat joskus jotain vähän raflaavampaa
-Puhuja 2: Se parantais mielestäni paikallislehdistöä.
-Puhuja 0: Kyllä. Helppoa tässä kun on sanottu kaikkea mitä pitäisi parantaa niin nämä on helpommin sanottu kuin tehtyä. Ymmärtää
-Puhuja 0: myös
-Puhuja 0: paikallislehdessä
-Puhuja 0: töitä tekevien ihmisten
-Puhuja 0: asemaa.
-Puhuja 0: Uudistaminen on vaikeaa.
-Puhuja 2: Kyllä olen ollut paikallisessa töissä ja se oli ihanaa
-Puhuja 2: aikaa.
-Puhuja 2: Mutta on vaikeaa
-Puhuja 2: kamppailla näiden asioiden kanssa, kun
-Puhuja 2: Se mistä se tulo tulee on tavallaan niin semmonen rajattu.
-Puhuja 3: Onkohan tässä riittävästi huudeltu norsunluutornista
-Puhuja 0: ohjeita?
-Puhuja 0: Mäkin
-Puhuja 0: oon tehnyt paikallislehteä
-Puhuja 0: juttuja ja siis niinku niin että jotenkin
-Puhuja 0: helppo tässä on sanoa, että tehkää näin ja näin, mutta oikeasti.
-Puhuja 1: Mun mielestä
-Puhuja 1: me ei huudella nuorisolu uhkarnasta, vaan me puhutaan idealismin kautta, että näin pitäisi mennä. Ja
-Puhuja 0: sitten se toteutus voi olla jotain sen nykytilan ja sen idean väliltä
-Puhuja 0: myös. Ettei edes vähän parempaa suuntaa.
-Puhuja 3: Mutta vielä
-Puhuja 3: Loviisa on hyvä esimerkki siitä, että
-Puhuja 3: Suomessa tehdään myös rohkeaa
-Puhuja 3: paikallisoralismia.
-Puhuja 3: Ainakin Loviisassa. Ainakin Loviisassa.
-Puhuja 1: Kannustammeko kaikkia tilaamaan paikallislehtiä?
-Puhuja 2: Kaikki otetaan vaikka Loviisan sanomia.
-Puhuja 2: Laitetaanko ilmoitus kaikki Loviisan sanomiin?
-Puhuja 2: No seuraavasta palkastamme.
-Puhuja 2: Ostamme ilmoituksen sen uutisraporttimainoksen.
-Puhuja 1: Kiitospa se mainoksen. Kiitos.
-Puhuja 0: No niin.
-Puhuja 3: Lähteekö laukalle?
-Puhuja 0: Sitten kun menette tätä
-Puhuja 0: varsin koleaa
-Puhuja 0: säätä pakoon johonkin ihanaan
-Puhuja 0: pubin nurkkaan ja siinä juotte lasin vettä
-Puhuja 0: tai jotain muuta.
-Puhuja 0: Mistä avaatte keskustelun
-Puhuja 0: työkaverillene?
-Puhuja 0: Ilmenettä, että kukaan ei halua aloittaa ilma. Mä voin aloittaa.
-Puhuja 1: Mä olen avannut viimein
-Puhuja 1: kirjapinoni.
-Puhuja 1: Kirjapino, joka on to be Red, pitää lukea. Se on noin kaksi kilometriä korkea, jos ne kaikki kasaisi.
-Puhuja 1: Mutta sieltä käteinen sattui
-Puhuja 1: tämä Barbara Valterin tänä vuonna julkaistu How sivuow Start
-Puhuja 1: kirja. Anteeksi, sanotko nyt tähän. How sivuo Voi start,
-Puhuja 1: miten sisällissodasta alkavat.
-Puhuja 1: Premissina on se, että kirjailija
-Puhuja 1: on käyttänyt
-Puhuja 1: Yhdysvaltain,
-Puhuja 1: muun muassa Seijan ja muiden
-Puhuja 1: viranomaislähteiden,
-Puhuja 1: viranomaisvirastojen
-Puhuja 1: työkaluja
-Puhuja 1: siitä, että missä päin maailmaa seuraavaksi leimahtaa
-Puhuja 1: sisällissota.
-Puhuja 1: Kääntelyt
-Puhuja 1: ne työkalut
-Puhuja 1: koskemaan Yhdysvaltoja.
-Puhuja 1: Huonoltahan se näyttää.
-Puhuja 1: Muistaakseni
-Puhuja 1: se kirjailija antaa maalle
-Puhuja 1: -kymmenen
-Puhuja 1: plus kymmenen ulottuvalla asteikolla plus viisi.
-Puhuja 1: Ja huonompaan suuntaan ollaan menossa.
-Puhuja 1: Se on kivaa
-Puhuja 1: kepeää kesälukemesta.
-Puhuja 2: Eiks tästä noussut jonkunlainen pieni kohu silloin kun se julkaistiin? Eikö tästä ollut semmoinen
-Puhuja 2: Jotkut oli ihan silleen, että tämä on alarmistista ja jotkut oli ihan silleen, että tämä on totuus. Eikö siitä ollut vähän sellaisia meilläkin oli juttuja.
-Puhuja 3: Onko se joku asia mistä Amerikassa ei syntyisi tällaista? Mutta myös täällä jopa meren takana
-Puhuja 2: keskusteltiin aiheesta.
-Puhuja 1: Joo, muistan jonkinlaisen kohun. En muista sitä
-Puhuja 1: mistä
-Puhuja 1: siinä keskusteltiin, mutta sitä kautta se on päätynyt mun lukulistalleni.
-Puhuja 0: Eli kohuteos House Sivwar Star start by
-Puhuja 1: Babora Walther. All right. All right.
-Puhuja 2: Sitten
-Puhuja 2: Inkeri.
-Puhuja 2: Minä keskustelen paljon iloisemmasta aiheesta, kuin Ilmo.
-Puhuja 2: Hypettäisin
-Puhuja 2: työkaverilleni
-Puhuja 2: stepan eli tämän räppäri Stepan uutta levyä,
-Puhuja 2: joka on siis niin ihana. Minä olen sen monta kertaa. Työkaverisi Stepan. Eiku työkaverilleni.
-Puhuja 2: Hän tekee myös räppiä edelleen. Tämä levy tuli nyt tänä vuonna
-Puhuja 2: ja niihin tulee niin hyvä mieli ja siinä on niin kaunista käytetty suomen kieltä. Siinä on yksi biisi, jonka nimi on Oulu Antm. Joten kaikille entisille,
-Puhuja 2: nykyisille ja Oulumielisille
-Puhuja 2: ihana biisi. Ihanaa.
-Puhuja 0: Muistatko Stepan uuden levyn nimen? Siistii räppiin.
-Puhuja 2: Allekirjoitan inkerininta. Mä oon erittäin hieno levy. Aivan loistava. Kuunnelkaa Stebaa, jos ette ole ikinä kuunnelleet. Tai vaikka olette lapsena tai aiemmin kuunnelleet niin kuunnelkaa nytkin.
-Puhuja 3: Mullakin on vähän räppityölinen
-Puhuja 3: suositus
-Puhuja 3: ehkä tietyllä tavalla.
-Puhuja 3: En tiedä muistatte, kun
-Puhuja 3: Jenkeissä tuli Hamilton
-Puhuja 3: musikaali muutama vuosi takaperin.
-Puhuja 3: Aivan
-Puhuja 3: loistava. Yksi
-Puhuja 3: suosikki musikaaleani
-Puhuja 3: Alexander Hamiltonista
-Puhuja 3: eli
-Puhuja 3: Yhdysvaltain perustajista.
-Puhuja 3: Ja vaikka se aihe saattaa kuulostaa kaikille muille paitsi meikäläiselle tylsältä
-Puhuja 3: Yhdysvaltojen
-Puhuja 3: perustamistarina,
-Puhuja 3: niin musikaali
-Puhuja 3: oli tehty aivan todella,
-Puhuja 3: todella, todella hyvin. Se myös
-Puhuja 3: nousi Yhdysvalloissa
-Puhuja 3: suureen
-Puhuja 3: suosioon. Silloin muistan harmitelleni,
-Puhuja 3: että sitä ei tule koskaan sinne
-Puhuja 3: jenkkeihin lähettytyä katsomaan, koska se on kaukana ja siellä borotwayllä kallista
-Puhuja 3: ja alkuperäinen paikka. Kela ammuskellaan.
-Puhuja 3: No se ei ehkä
-Puhuja 1: päällimmäinen kriteeri. Tai ongelma
-Puhuja 3: niillä alueilla on, missä näytetään sitä
-Puhuja 3: musikaalia.
-Puhuja 3: Mutta kuitenkin
-Puhuja 3: premisseni oli, että minä en koskaan sitä tule näkemään
-Puhuja 3: livenä.
-Puhuja 3: Mutta tässä
-Puhuja 3: koronaviruksen aikana Saksasta kuului hyviä uutisia.
-Puhuja 3: Hampurissa
-Puhuja 3: aiotaan nyt tänä syksystä lähtien esittää saksankielistä
-Puhuja 3: versiota
-Puhuja 3: tästä Hamilton musikaalista. Anteeksi, mitä? Kyllä! Mä odotan, että miten se tästä.
-Puhuja 3: Ja minä hyvä ystäväni. Olemme menossa syksyllä Saksaan tätä katsomaan.
-Puhuja 3: Ja tällä viikolla on nyt julkaistu
-Puhuja 3: tai minä huomasin ensimmäistä kertaa tällä viikolla, että sieltä on julkaistu sellaisia
-Puhuja 3: klippejä.
-Puhuja 3: Ensimmäiset klipit julkaistut niistä saksankielisistä
-Puhuja 3: versioista. Ja ai että, miten hyvää.
-Puhuja 3: Tässä yhdistyy kaikki. Tässä yhdistyy mun tällainen
-Puhuja 3: tietty historianumerot ja sitten mun
-Puhuja 3: epäterves suhde saksan kieleen.
-Puhuja 3: Tässä on kaikki.
-Puhuja 2: Ja se liittyy räptiin. Miten?
-Puhuja 3: Kyllä siinä musikaassa räpäitään. Et ole nähnyt sitä? No
-Puhuja 3: kannattaa katsoa myös se alkuperäinen.
-Puhuja 3: Se on tosi
-Puhuja 3: moderni musikaali. Siinä
-Puhuja 3: on
-Puhuja 3: paljon rap-jaksoja.
-Puhuja 2: Kertoo Luvis Hämittämistä.
-Puhuja 3: Melkein.
-Puhuja 3: Se on siis Lindmanuen
-Puhuja 3: Mirandan.
-Puhuja 3: Hän on ollut primusmotor tässä
-Puhuja 3: Ilmiössä.
-Puhuja 3: Mutta nyt tästä tulee myös saksankielinen
-Puhuja 3: versio.
-Puhuja 3: Suosittelen lämpimästi lähtemään tänä syksynä tai ensi keväänä Hampuriin kuuntelemaan
-Puhuja 3: Dea Hamiltsonia.
-Puhuja 0: Hampurri on ihana. Mä oon vieraillut siellä tänä vuonna kaksi kertaa, mutta
-Puhuja 0: saksankielelle No joo, kuulostaa hauskalta.
-Puhuja 2: Musikaali luis hamiltista. Alexander
-Puhuja 0: hamiltista. Ilman saksankielen taitoa vielä niinku ai. Siellä varmasti on jotkut tekstitykset.
-Puhuja 3: Itse osaan ne ulkomailta englanniksi, niin ei tarvitse edes opetella
-Puhuja 3: niitä tekstejä. Jatketaan.
-Puhuja 0: Joo ja mä olen tässä kun kesä on ollut
-Puhuja 0: todella kuivia politiikan viikkoja tässä parisen muutaman
-Puhuja 0: viikon, niin mä oon palannut
-Puhuja 0: politiikka-Suomen
-Puhuja 0: radio-ohjelma-podcastversioihin.
-Puhuja 0: Eli kun viime syksynä esitettiin tämä
-Puhuja 0: Paljon paljon kehuja saanut dokumenttisarja politiikka-Suomi.
-Puhuja 3: Aiheesta kehuja saanut. Aiheesta, ihan mahtavaa.
-Puhuja 0: Siitä tehtiin
-Puhuja 0: niiden samojen haastattelujen perusteella
-Puhuja 0: tällaiset audiohenkilökuvat
-Puhuja 0: eri poliitikoista.
-Puhuja 0: Mulla ainakin
-Puhuja 0: silloin jäi sen
-Puhuja 0: telkkari-dokumenttisarjan
-Puhuja 0: varjoon. Niin nyt olen palannut niihin
-Puhuja 0: ja kuuntelen ensimmäistä kertaa niitä. Siinä on jotenkin mahtavia. Erityisesti
-Puhuja 0: dokumenttisarjassakin,
-Puhuja 0: niin
-Puhuja 0: näissä audiohenkilökuvissa
-Puhuja 0: on parhaita
-Puhuja 0: ei-aktiivipoliitikkojen
-Puhuja 0: henkilökuvat.
-Puhuja 0: Ne poliitikot, jotka on jo vähän jättäneet taakseen
-Puhuja 0: politiikkaa, niin ne puhuu
-Puhuja 0: kivan rehellisesti.
-Puhuja 0: Siinäpä on politiikan nälkään
-Puhuja 0: ihmisille kuunneltavaa.
-Puhuja 0: Siinä kaikki tältä erää. Kiitos Immo Ilkka. Kiitos. Kiitos Inkeri Harju. Kiitos. Kiitos Joona Aaltonen. Dunkkee.
-Puhuja 0: Minun nimeni on Anni Keski-Heikkilä. Ja äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla
-Puhuja 0: Janne Elkki.
-Puhuja 0: Muistakaa lähettää meille palautetta
-Puhuja 0: uutisraportti.
-Puhuja 0: Kuullaan taas ensi viikolla. Moi moi!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin
+Puhuja 3: Sanomat
+Puhuja 3: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 3: podcastiin
+Puhuja 3: torstaina
+Puhuja 3: kaksikymmentäkahdeksan.
+Puhuja 3: Heinäkuuta.
+Puhuja 3: Minun nimeni on Anni Keski-Heikkilä
+Puhuja 3: ja kanssani täällä Sanomatalon studiossa Helsingissä
+Puhuja 3: ovat Heliin Sanomien ulkomaantoimittaja
+Puhuja 3: Ilmo Ilkka. Hei Ilmo. Hei Anni.
+Puhuja 3: Ja nyt. Fi:n toimittaja Inkeri Harju. Hei Inkeri! Hei!
+Puhuja 3: Ja politiikan toimittaja Joona Aaltonen.
+Puhuja 3: Hei Joona. Heippuli hei. Eli neljässäan ollaan täällä taas, koska me kaikki haluttiin tulla tänne
+Puhuja 3: paikalle.
+Puhuja 3: Tämän viikon podcastissa keskustellaan
+Puhuja 3: Britannian
+Puhuja 3: pääministeri
+Puhuja 3: kisasta, johon on selvinnyt
+Puhuja 3: ehdokasta ja joihin meidän Britanniaentuusiastimme
+Puhuja 3: ilma on perehtynyt perinpohjaisesti.
+Puhuja 3: Ja myös puhutaan venäläisten turistiviisumeista
+Puhuja 3: Suomeen. Niiden jakaminen
+Puhuja 3: haluttaisiin keskeyttää
+Puhuja 3: eli venäläisten turistien tuleminen tänne lopettaa.
+Puhuja 3: Ja vielä otetaan käsittelyyn tapaus, jossa paikallislehti
+Puhuja 3: Loviisaan sanomat paljasti täkälämarketin
+Puhuja 3: perinnän asiakkailta vääriä hintoja.
+Puhuja 3: Tämän seurauksena
+Puhuja 3: kauppa veti ilmoituksensa lehdestä pois, koska kauppiaan mukaan asia meni hänellä liikaa tunteisiin.
+Puhuja 3: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 3: pitkien epämukavien
+Puhuja 3: hiljaisuuden varalle.
+Puhuja 3: Okei, lähdetään liikkeelle
+Puhuja 3: Britannian
+Puhuja 3: pääministeri
+Puhuja 3: kisasta.
+Puhuja 3: Siihen on Ilmo
+Puhuja 3: oikein uppoutunut syvälle
+Puhuja 3: Ilman ajatuksena on esitellä meille näitä kandidaatteja.
+Puhuja 2: Joo. Eli
+Puhuja 2: kerrataan vielä, että tällä hetkellä
+Puhuja 2: tässä on kaksi ehdokasta:
+Puhuja 2: ulkoministeri Listras
+Puhuja 2: ja entinen valtiovarainministeri Risishi
+Puhuja 2: Sunak.
+Puhuja 2: Näistä kahdesta konservatiivpuolueen
+Puhuja 2: jäsenet äänestävät
+Puhuja 2: seuraavan
+Puhuja 2: puolueen puheenjohtaja ja siten pääministerin.
+Puhuja 2: Konservatiivipuolueella
+Puhuja 2: on noin satakuusikymmentä
+Puhuja 2: nolla
+Puhuja 2: jäsentä. Sanon noin, koska puolue ei kerro tarkkaa määrää.
+Puhuja 2: Mutta
+Puhuja 2: kyseessä
+Puhuja 2: on nolla pilkku jotain prosenttia Britannian väestöstä, jotka päättävät seuraavan
+Puhuja 2: pääministerin.
+Puhuja 2: Melkein yhtä iso puolue kuin keskustapuolue.
+Puhuja 1: Penaalihuumoria.
+Puhuja 2: Saadaan varmuus siihen, kuka on seuraava
+Puhuja 2: puheenjohtaja ja pääministeri, niin viisi. Syyskuuta.
+Puhuja 2: Eli siihen on vielä hetki aikaa. Nyt nämä ehdokkaat
+Puhuja 2: on muun muassa ollut
+Puhuja 2: TV-väittelyissä
+Puhuja 2: kahdestaan.
+Puhuja 2: Ensimmäinen
+Puhuja 2: oli muistaakseni
+Puhuja 2: BBC:n
+Puhuja 2: väittely, jossa
+Puhuja 2: meno oli sellaista
+Puhuja 2: hyvin ikävää. Siellä puhuttiin ja huudettiin päälle. Rischi synakkia syytettiin mansplainaamisesta
+Puhuja 2: muun muassa.
+Puhuja 2: Toinen väittely jouduttiin
+Puhuja 2: keskeyttämään
+Puhuja 2: väittelyn
+Puhuja 2: juontajan tai
+Puhuja 2: moderoijan pyörtymisen takia, mutta siinäkin oli jo nähtävillä
+Puhuja 2: sitä,
+Puhuja 2: että meno olisi ollut samanlaista kuin ensimmäisessä väittelyssä.
+Puhuja 2: Hirveä.
+Puhuja 2: Ne haukkuu toinen toistaan
+Puhuja 2: niistä poliittisista päätöksistä, joita heidän puolueensa on tehnyt viimeisen kaksitoista vuoden aikana, kun ne on ollut niin pitkään vallassa.
+Puhuja 2: Tämmöisiä
+Puhuja 2: isoja kuumia aiheita, mitä siellä on nyt ollut debattina, niin
+Puhuja 2: tietenkin inflaatio ja elinkustannusten
+Puhuja 2: nousu
+Puhuja 2: toukokuussa.
+Puhuja 2: Britannian inflaatio oli yhdeksän pilkku yksi prosenttia.
+Puhuja 2: Samaan aikaan
+Puhuja 2: Ruokapankkien
+Puhuja 2: tarve on räjähtänyt
+Puhuja 2: kasvuun, käsiin.
+Puhuja 2: Ihan hillittömästi
+Puhuja 2: siellä vanhemmat tai huoltajat joutuvat miettimään,
+Puhuja 2: syönkö itse vai annanko lapselle ruokaa, koska molempiin ei ole varaa.
+Puhuja 2: Nyt siellä on
+Puhuja 2: pitkin kevättä ja kesää ollut isoja lakko muun muassa junaliikenteessä ja asianajajien
+Puhuja 2: puolesta liittyen juuri siihen, että palkankorotukset
+Puhuja 2: ei tosi merkittävä juttu.
+Puhuja 2: Koko tämä prosessi on erinomainen
+Puhuja 2: osoitus siitä
+Puhuja 2: julkitulon
+Puhuja 2: kautta, että miten median pitäisi toimia. Eettisen median pitäisi toimia. Kyllä.
+Puhuja 2: Hattu pois ja viisi minuutin aplodit
+Puhuja 2: Loviisan
+Puhuja 2: suuntaan.
+Puhuja 2: Tämä pääkirjoitus,
+Puhuja 2: jossa tämä avattiin, tämä on todella hyvä. Median
+Puhuja 2: tietyssä mielessä
+Puhuja 2: kannattaisi
+Puhuja 2: rutiininomaisemminkin
+Puhuja 2: avata
+Puhuja 2: omia toimintaperiaatteitaan
+Puhuja 2: ja käytänteitä,
+Puhuja 2: koska
+Puhuja 2: vaikka
+Puhuja 2: menneinä vuosikymmeninä
+Puhuja 2: ollaan
+Puhuja 2: tai mediassa on oltu silleen, että me olemme suuria sanomalehti
+Puhuja 2: tyyppejä, silloin pääasiassa miehiä ja kerromme, miten maailma makaa.
+Puhuja 2: Nythän se on demokratisoitunut
+Puhuja 2: ja ollaan tultu tosi paljon lähemmäs
+Puhuja 2: yleisöä.
+Puhuja 2: Mun mielestä se olisi hyvä avata,
+Puhuja 2: miten tätä tehdään, kun ei tämä ole mitään
+Puhuja 2: salamysikkaa
+Puhuja 2: tai
+Puhuja 2: semmoista noituutta
+Puhuja 1: taikuutta. Kyllä. Mun mielestä se unohtuu tosi usein meiltä toimittajalta
+Puhuja 1: itseltämmekin.
+Puhuja 1: Ei siis se, että tämä ei ole salataikuutta ja mystiikkaa, vaan se, että
+Puhuja 1: sellaset meille hyvin itsestään selvät asiat ei välttämättä kaikille lukijoille ole itsestään selviä, jolloin niiden
+Puhuja 1: itsestäänselvienkin asioiden avaaminen tuo usein
+Puhuja 1: lisäarvoa
+Puhuja 1: lukijalle, joka ymmärtää
+Puhuja 1: prosessia taustalla paremmin.
+Puhuja 3: Kaikki ei välttämättä tiedä, että se ei ole ok soittaa sanomalehteen, että älkää julkaisko tätä kriittistä juttua meistä tai muuten.
+Puhuja 1: Esimerkiksi kauppias nyt ilmeisesti. Ei. Ei.
+Puhuja 3: Mä viittasinkin.
+Puhuja 1: Koska esimerkiksi näissä meidän jutuissahan eihän hän vaikuttanut mitenkään näkevän tässä ongelmaa hänen omassa toiminnassaan. Hän vähän ylireagoi ehkä.
+Puhuja 2: Siinä meni kauppiailla.
+Puhuja 2: Sisimpään
+Puhuja 4: että
+Puhuja 4: uhkailee tai
+Puhuja 4: yrittää vaikuttaa jos pelko on se, että
+Puhuja 4: saa tällaisen mediavyörytyksen.
+Puhuja 3: Kyllä. Muistin minun pointin, Mika on tehnyt joskus aikaa sitten.
+Puhuja 3: Näissä jutuissa
+Puhuja 3: tässä Loviis-sanomien C-kauppa jutussa on paikallislehtien
+Puhuja 3: arvo.
+Puhuja 3: Mikään muu media ei tee juttua Loviisan K-Supermarketin
+Puhuja 3: hinnoittelusta kuin Loviisan sanomat.
+Puhuja 3: Se ei välttämättä edes maakuntalehtitasolla
+Puhuja 3: ylitä uutiskynnystä.
+Puhuja 3: Vaikka paikallisesti
+Puhuja 3: se on tosi merkittävä asia. Ja tollasta pitäisi paikallislehtien,
+Puhuja 3: jotka me tiedetään,
+Puhuja 3: että paikallislehtien tilaus
+Puhuja 3: ja ilmoittajamäärät laskee koko
+Puhuja 3: ajan.
+Puhuja 3: Niin tuollaisissa jutuissa on se, että sitä niiden pitäisi mun mielestä tehdä enemmän.
+Puhuja 3: Kyllä.
+Puhuja 2: Ja sitten paikallispolitiikan valvominen.
+Puhuja 2: Kun
+Puhuja 2: tiedetään, että kuntavaalit, kuntapolitiikka ei kiinnosta
+Puhuja 2: äänestäjiä
+Puhuja 2: läheskään yhtä paljon kuin vaikka
+Puhuja 2: eduskunta tai puhumattakaan
+Puhuja 2: presidentinvaaleista.
+Puhuja 2: Sitten kunnissa kuitenkin käytetään
+Puhuja 2: todella paljon valtaa, niin jonkun sitä pitää vähän katsella niiden valtuutettujen
+Puhuja 2: perään, että siellä ei
+Puhuja 2: töpöillä
+Puhuja 2: ihan Kittilän tapaan, vai missä se Lapissa nyt olikaan, kun näitä... Niin, kyllä.
+Puhuja 2: Tästäkin on tutkimuksia.
+Puhuja 2: Esimerkiksi Jorestiliitto on tehnyt
+Puhuja 2: paljon tarkastelua
+Puhuja 2: ja tutkimusta siitä, että...
+Puhuja 2: Suomeen tarvittaisiin yleinen
+Puhuja 2: lehdistö tai mediatuki,
+Puhuja 2: mitä muissa Pohjoismaissa on, ihan vaan sen takia, että saadaan pidettyä
+Puhuja 2: ja vahvistettua
+Puhuja 2: vaikka paikallismediaa,
+Puhuja 2: jotka, kuten sanoit, niin ilmoittajamäärät,
+Puhuja 2: tilaajamäärät laskee
+Puhuja 2: ja on laskenut.
+Puhuja 2: Se ei
+Puhuja 2: ole kuitenkaan... Ne on
+Puhuja 2: kultaakin
+Puhuja 2: arvokkaampia
+Puhuja 2: siinä, mitä ne tekee, kun ne tekee oikein ja hyvin, mikäli
+Puhuja 2: varmasti valtaosa, ellei kaikki,
+Puhuja 2: tee hyvin.
+Puhuja 2: Suomessakin pitäisi tajuta, että se on hirveän klisee, mutta kliseet on kliseetä, koska kliseet on hyvin usein totta. Demokratian kulmakivi
+Puhuja 2: on vapaa riippumaton lehdistä. Sieltä se tuli.
+Puhuja 3: Tuommoinen tukihan voisi tuoda
+Puhuja 3: paikallislehdille
+Puhuja 3: rohkeutta tarttua asioihin.
+Puhuja 3: Kyllä tehdään hyvää työtä paikallislehdissä, mutta ihan hirveästi on myös sellaista, että ei kehdata omaa
+Puhuja 3: paikkakuntaa kritisoida millään tavalla, koska
+Puhuja 3: auta armias jos siitä tulee valtakunnan uutinen ja paikkakunta
+Puhuja 3: näyttääkin huonolta
+Puhuja 1: esimerkiksi. Eikä edes tilanteet, missä suoraan joku näin selkeästi painostaa sua vaan nimenomaan se sellainen
+Puhuja 1: ikään
+Puhuja 1: kuin itsesensuuri, että ei edes tartuta sellaisiin aiheisiin.
+Puhuja 1: On monia paikallislehtiä, jotka ei millään tavalla
+Puhuja 1: kriittisesti käsittele kuntapolitiikkaa siinä kunnassa, vaan kertoo vaan, että kunnassa päätettiin X. Ja kun asian käsittely jää siihen.
+Puhuja 1: Kieltämättä...
+Puhuja 1: Mun mielestä se ilman pointti siitä oli tosi hyvä,
+Puhuja 1: niitä asioita pitäisi tarkkailla ja penkoa. Koska vaikka siellä tapahtuisikin asioita, jotka ylittäisi
+Puhuja 1: kansallisen uutiskynnyksen, vaikka jossain...
+Puhuja 1: En
+Puhuja 1: nyt nosta tähän mitään yksin, vaikka
+Puhuja 1: eihän valtakunnan medioilla ole mitään mahdollisuutta valvoa jokaista kuntaa.
+Puhuja 1: Vaikka jossain kunnassa tapahtuisikin sellaisia asioita, jotka olisi
+Puhuja 1: kansallisen uutiskynnyksen
+Puhuja 1: nousemisen
+Puhuja 1: arvoisia. Ymmärrätkö
+Puhuja 3: tämä tässä
+Puhuja 1: se on myös totuus monissa paikallisllisissa pelätään.
+Puhuja 3: Enemmän. Mä luulen, että enemmän pelätään sitä mikä omassa
+Puhuja 3: kunnassa on se ilmapiiri. Jos
+Puhuja 3: jostain kirjoittaa pahasti niin se ei anna sulle enää ikinä haastattelua ja
+Puhuja 3: Aletaan suhtautua nihkeästi siihen lehteen.
+Puhuja 3: Ja pelätään ehkä että lehti
+Puhuja 3: kuolee sitä kautta pois. Kun ihmiset ei enää pidä sitä kun se aina vaan sellaista negatiivistakin
+Puhuja 4: meistä. Mun mielestä yksi tärkeä asia isojen
+Puhuja 4: mainostajien
+Puhuja 4: tai tilaukset ja mainokset tai ilmoitukset.
+Puhuja 4: Kokemukseni mukaan paikallislehdet myös ehkä todella paljon varoo sitä
+Puhuja 4: että että he eivät suututa ikinä sitä heidän
+Puhuja 4: ydinlukiokuntaa.
+Puhuja 4: Mikä on mielestäni myös median tehtävä että vähän ravistellaan välillä heidän
+Puhuja 4: mielipiteitään tai heidän niin kuin
+Puhuja 4: että oikeasti kirjoitetaan asioista jotka myös
+Puhuja 4: ärsyttää näitä lukijoita. Ja sellaisia että niille vahviroissa voi mennä väärään kurkkuun joskus.
+Puhuja 4: Kahvil lukeeessaan tätä rakasta paikallislehteä koska se on myös sen median tehtävä mutta sitä ehkä vähän varotaan koska jos sä kirjoitat jonkun joka ärsyttää tosi paljon vaikka tämän perähumpilan eläkeläisiä
+Puhuja 4: niin sitten sieltä tulee vaikka sata perumista.
+Puhuja 4: Se on tosi iso
+Puhuja 4: tälle lehdet. Esim. Meillä isommilla medioilla se
+Puhuja 4: ei niin paljon haittaa
+Puhuja 4: että suututtaa jonkun tietyn ryhmän.
+Puhuja 4: Ne kyllä sitten toipuu siitä ja jos joku peruu niin se peruu. Ja se ei ole niin iso asia mutta näissä pikkullehdissä se on tosi iso asia. Jos ois joku
+Puhuja 4: riippumattomampi tuki
+Puhuja 4: joka tulisi siitäkin huolimatta että sä kirjoitat joskus jotain vähän raflaavampaa.
+Puhuja 4: Se parantaisi mielestäni paikallislehdissä
+Puhuja 3: Kyllä. Helppoa
+Puhuja 3: tässä kun on sanottu kaikkea mitä pitäisi parantaa niin nää on helpommin sanottu kun tehtyä.
+Puhuja 3: Ymmärtää
+Puhuja 3: myös niiden paikallislehdissä töitä tekevien ihmisten asemaa.
+Puhuja 3: Uudistaminen on vaikeaa.
+Puhuja 4: Kyllä olen ollut paikallislehdessä töissä ja se oli ihanaa
+Puhuja 4: aikaa.
+Puhuja 4: Mutta on vaikeaa
+Puhuja 4: kamppailla näiden asioiden kanssa, kun
+Puhuja 4: Se mistä se tulo tulee on tavallaan niin semmonen rajattu. Onkohan tässä riittävästi huudeltu norsunluutornista
+Puhuja 1: ohjeita?
+Puhuja 3: Helppo tässä on sanoa, että tehkää näin ja näin, mutta oikeasti.
+Puhuja 2: Mun mielestä
+Puhuja 2: me ei huudella nuorisolla uhfronasta, vaan me puhutaan idealismin kautta, että näin pitäisi mennä.
+Puhuja 3: Ja se toteutus voi olla jotain sen nykytilan ja sen idean väliltä
+Puhuja 3: myös. Ettei edes vähän parempaa suuntaa.
+Puhuja 1: Mutta
+Puhuja 1: vielä Loviisa on hyvä esimerkki siitä, että
+Puhuja 1: Suomessa tehdään myös rohkeaa
+Puhuja 1: paikallisjournalismia.
+Puhuja 4: Ainakin Loviisassa. Ainakin Loviisassa.
+Puhuja 2: Kyllä. Kannustammeko kaikkia tilaamaan paikallislehtiä?
+Puhuja 4: Kaikki
+Puhuja 4: otetaan vaikka
+Puhuja 4: sanomia.
+Puhuja 4: Laitetaanko ilmoitus kaikki lomissan Sanomiin?
+Puhuja 4: No seuraavasta
+Puhuja 4: palkastamme
+Puhuja 4: ostamme ilmoituksen. Sen uutisraporttimainoksen.
+Puhuja 2: Kiitos.
+Puhuja 1: No niin.
+Puhuja 1: Lähteekö laukalle? Sitten
+Puhuja 3: kun menette tätä varsin koleaa säätä pakoon johonkin ihanaan
+Puhuja 3: pubin nurkkaan ja siinä juotte lasin vettä.
+Puhuja 3: Tai jotain muuta.
+Puhuja 3: Mistä sä avaatte siinä keskustelun työkaverille?
+Puhuja 3: Ilmennyttä siltä, että kukaan ei ole aloittaa.
+Puhuja 2: Mä voin aloittaa.
+Puhuja 2: Mä oon avannut viimein
+Puhuja 2: kirjapinoni
+Puhuja 2: kirjapinoni,
+Puhuja 2: joka on to be red, pitää lukea. Se on noin kaksi kilometriä korkea, jos ne kaikki kasaisi.
+Puhuja 2: Mutta sieltä käteni sattui tämä
+Puhuja 2: Barbara Valterin tänä vuonna julkaistu How sivuo
+Puhuja 2: Start Start kirja. Anteeksi, sanotko nyt? How sivuo Start
+Puhuja 2: Start.
+Puhuja 2: Miten sisällissodat alkavat.
+Puhuja 2: Premisinä on se, että kirjailija
+Puhuja 2: on käyttänyt Yhdysvaltoihin
+Puhuja 2: muun muassa Seijan ynnä muiden
+Puhuja 2: viranomaisvirastojen työkaluja
+Puhuja 2: siitä, missä päin maailmaa seuraavaksi leimahtaa sisällissota.
+Puhuja 2: Kääntelyt
+Puhuja 2: ne työkalut koskemaan Yhdysvaltoja.
+Puhuja 2: Huonoltahan se näyttää.
+Puhuja 2: Muistaakseni
+Puhuja 2: kirjailija antaa sille maalle
+Puhuja 2: -kymmenen plus kymmenen ulottuvalla asteikolla plus viisi.
+Puhuja 2: Ihan
+Puhuja 2: huonompaan suuntaan ollaan menossa.
+Puhuja 2: Se on kivaa
+Puhuja 2: kepeää kesälukemista.
+Puhuja 4: Eiks tästä noussu jonkunlainen pieni kohu silloin kun se julkaistiin? Eiks tästä ollu semmonen...
+Puhuja 4: Jotkut oli ihan silleen että tämä
+Puhuja 4: on alarmistista ja jotkut oli ihan silleen että tämä on totuus. Eiks siitä ollut vähän sellasia meilläkin oli juttuja Joo siis mä muistan et onks joku asia mistä
+Puhuja 3: War Start Baltiy.
+Puhuja 2: Babora Walther.
+Puhuja 4: All right. Sitten Inkeri.
+Puhuja 4: Minä
+Puhuja 4: keskustelen paljon iloisemmasta aiheesta kuin Ilmo.
+Puhuja 4: Hypettäisiin
+Puhuja 4: työkaverilleni
+Puhuja 4: Stepan eli tämän räppäri Stepan uutta levyä,
+Puhuja 4: joka on siis niin ihana. Minä olen sen mun
+Puhuja 4: Hän tekee myös räppiä edelleen. Tämä tuli nyt tänä vuonna tämä levy ja niihin tulee niin hyvä mieli ja siinä on niin kauniisti käytetty suomen kieltä. Ja siinä on yksi biisi, jonka nimi on Oulu Anthem. Joten
+Puhuja 4: kaikille entisille, nykyisille ja Oulu Mielisille
+Puhuja 4: ihana biisi. Ihanaa.
+Puhuja 3: Muistatko, jos panuuden levyn nimen? Siistiä räppiä.
+Puhuja 2: Allekirjoitan inkerintä. Mä oon
+Puhuja 4: erittäin hieno levy. Aivan loistava. Kuunnelkaa stebaa, jos ette ole ikinä kuunnelleet. Tai vaikka olette lapsena tai aiemmin kuunnelleet,
+Puhuja 4: niin kuunnelkaa nytkin.
+Puhuja 1: Mullakin on vähän
+Puhuja 1: räppityllinen
+Puhuja 1: suositus
+Puhuja 1: ehkä tietyllä tavalla.
+Puhuja 1: En tiedä muistatteko, kun Jenkeissä
+Puhuja 1: tuli Hamilton musikaali muutama vuosi takaperin.
+Puhuja 1: Aivan
+Puhuja 1: loistava. Yksi
+Puhuja 1: suosikki musikaaleani
+Puhuja 1: Alexander Hamiltonista eli
+Puhuja 1: Yhdysvaltojen perustajista.
+Puhuja 1: Ja vaikka se aihe kuulostaa
+Puhuja 1: kaikille muille paitsi meikäläiselle tylsältä Yhdysvaltojen
+Puhuja 1: perustamistarina,
+Puhuja 1: niin se musikaali
+Puhuja 1: oli tehty aivan
+Puhuja 1: todella, todella, todella hyvin. Se myös nousi Yhdysvalloissa
+Puhuja 1: suureen suosioon.
+Puhuja 1: Silloin muistan harmitelleni,
+Puhuja 1: että sitä ei tule koskaan
+Puhuja 1: jenkkeihin lähettymään katsomaan, koska se on kaukana ja
+Puhuja 1: borodveilla
+Puhuja 1: kallista ja
+Puhuja 1: alkuperäinen...
+Puhuja 1: Kela ammuskellaan.
+Puhuja 1: No se ei ehkä
+Puhuja 1: päällimmäinen
+Puhuja 1: kriteeri. Tai ongelma niillä alueilla on, missä näytetään sitä musikaalia.
+Puhuja 1: Mutta
+Puhuja 1: kuitenkin
+Puhuja 1: premissäni oli, etten minä koskaan sitä tule näkemään
+Puhuja 1: livenä.
+Puhuja 1: Mutta tässä koronavirusaikana
+Puhuja 1: Saksasta kuului hyviä uutisia.
+Puhuja 1: Hampurissa
+Puhuja 1: aiotaan nyt tänä syksystä lähtien esittää
+Puhuja 1: saksankielistä versiota
+Puhuja 1: tästä Hamilton musikaalista.
+Puhuja 1: Anteeksi, mitä?
+Puhuja 4: Kyllä. Mä osaan, että miten se
+Puhuja 1: tästä. Ja minä ja hyvä ystäväni.
+Puhuja 1: Olemme menossa syksyllä Saksaan tätä katsomaan.
+Puhuja 1: Minä huomasin ensimmäistä kertaa tällä viikolla, että sieltä on julkaistu
+Puhuja 1: ensimmäiset klipit julkaistu
+Puhuja 1: saksankielisistä
+Puhuja 1: versioista. Ja ai että, miten hyvää.
+Puhuja 1: Tässä yhdistyy kaikki. Tässä yhdistyy mun tietty
+Puhuja 1: historian nöyrteissa ja sitten mun
+Puhuja 1: epätervsuhde
+Puhuja 1: saksan kieleen.
+Puhuja 1: Tässä on kaikki.
+Puhuja 4: Ja se liittyy räppiin. Miten?
+Puhuja 1: No kyllä siinä musikaalissa räpäitään. Et ole nähnyt sitä? No en. Kannattaa katsoa myös alkuperäinen.
+Puhuja 1: Se on tosi
+Puhuja 1: moderni musikaali. Siinä
+Puhuja 1: on
+Puhuja 1: tällaisia rap-jaksoja.
+Puhuja 4: Kertoo Luvis Hämiltäänmista.
+Puhuja 1: Melkein.
+Puhuja 1: Se on siis Linnauelin Mirandan.
+Puhuja 1: Hän on ollut primusmotoratessa
+Puhuja 3: tässä. Ilmiössä.
+Puhuja 1: Mutta tästä tulee myös saksankielinen
+Puhuja 1: versio.
+Puhuja 1: Suosittelen lämpimästi lähtemään tänä syksynä tai ensi keväänä Hampuriin kuuntelemaan
+Puhuja 1: Dea Hamiltsonia.
+Puhuja 3: Hampuri on ihana. Mä oon vieraillut siellä tänä vuonna kaksi kertaa, mutta
+Puhuja 3: saksankielinen...
+Puhuja 3: No joo, kuulostaa hauskalta.
+Puhuja 1: Mutta
+Puhuja 3: jatketaan. Joo ja mä olen tässä kun kesä nyt on ollut todella
+Puhuja 3: kuivia politiikan viikkoja tässä parisen muutaman
+Puhuja 3: viikon, niin mä oon palannut
+Puhuja 3: politiikkaSuomen
+Puhuja 3: tämmösiin
+Puhuja 3: radio-ohjelma-podcastversioihin.
+Puhuja 3: Eli kun viime syksynä esitettiin tämä
+Puhuja 3: paljon, paljon kehuja saanut dokumenttisarja politiikka Suomi. Aiheesta kehuja saanut. Aiheesta, ihan mahtava.
+Puhuja 3: Siitä tehtiin
+Puhuja 3: samojen haastattelujen perusteella
+Puhuja 3: tällaiset audiohenkilökuvat
+Puhuja 3: eri poliitikoista.
+Puhuja 3: Mulla ainakin silloin jäi
+Puhuja 3: sen telkkari-dokumenttisarjan
+Puhuja 3: varjoon.
+Puhuja 3: Nyt olen palannut niihin
+Puhuja 3: ja kuuntelen ensimmäistä kertaa niitä. Siinä on jotenkin mahtavia. Erityisesti niin kuin dokumenttisarjassakin,
+Puhuja 3: niin
+Puhuja 3: näissä audiohenkilökuvissa
+Puhuja 3: on parhaita
+Puhuja 3: ei-aktiivipoliitikkojen
+Puhuja 3: henkilökuvat. Ne poliitikot, jotka on jo vähän jättäneet taakseen
+Puhuja 3: politiikkaa, niin ne puhuu
+Puhuja 3: kivan rehellisesti.
+Puhuja 3: Siinäpä on politiikan nälkään ihmisille
+Puhuja 3: kuunneltavaa.
+Puhuja 3: Siinä kaikki tältä erää. Kiitos Ilmo Ilkka. Kiitos. Kiitos Inkeri Harju. Kiitos. Kiitos Joona Aaltonen. Duck.
+Puhuja 3: Minun nimeni on Anni Keski-Heikkilä ja äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla
+Puhuja 3: Janne Elkki.
+Puhuja 3: Muistakaa lähettää meille
+Puhuja 3: palautetta uutisraportti.
+Puhuja 3: Kuullaan taas ensi viikolla. Moi moi!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastini, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

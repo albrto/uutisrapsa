@@ -1,199 +1,411 @@
-Puhuja 0: Hei ja tervetuloa uutisraportti
-Puhuja 0: podcastiin torstaina kolme. Heinäkuuta kaksituhatta kaksikymmentäviisi,
-Puhuja 0: jota äänitämme täällä Helsingin keskustassa vuonna tuhat yhdeksänsataayhdeksänkymmentäyhdeksän
-Puhuja 0: valmistuneessa saan oma talossa.
-Puhuja 0: Minun nimeni on Rasmus Helaniemi ja mukanani studiossa ovat Taitavan ja uuteenan kesätiimin huipputoimittajat.
-Puhuja 0: Nimittäin
-Puhuja 0: some ja audiotiimin toimittaja Helmi Sundström. Moikka Helmi. Onko
-Puhuja 0: some ja audiotiimillä ollut kiireinen viikko, vaikka vaikka kesä ja heinäkuun vaihteessa ja koko Suomi on lomalla? On itseasiassa, koska tulee hirveän paljon kaikkea hyvän mielen videoaiheita.
-Puhuja 1: Että Espooseen on perustettu
-Puhuja 1: kukkaniitty,
-Puhuja 1: kato kaatopaikan päälle. Kaikkea tällaista
-Puhuja 1: Isoja breaking news juttuja on, mutta hirveän sellaista. On ihan kiva, että on välillä vähän hyvä mielen juttuikin. Kuulostaa hyvältä.
-Puhuja 0: Talouden ja politiikan toimittaja Hanna Havusta. Moi Hanna. Moi Rasmus.
-Puhuja 0: No mites
-Puhuja 0: taloudessa? Talouden datat pyörivät aina, onko näin? On. Olen
-Puhuja 2: tällä viikolla työstänyt aika
-Puhuja 2: ajatonta aihetta,
-Puhuja 2: joka koskee kuolemaa.
-Puhuja 2: Positiivisessa
-Puhuja 2: merkeissä en ole tällä viikolla hirveästi ollut tämän äärellä, mutta se on aina ajankohtainen, koska jengi kuolee aina. Jengi kuolee myös kesällä. Joo. Miten
-Puhuja 0: ulkomaantoimittaja
-Puhuja 0: John Helyyn? Moi John. Hei vain.
-Puhuja 3: Maailmalla sattuu ja tapahtuu aina, eikö niin? Kyllä, näin se on, mutta
-Puhuja 3: Kirjoitetaan pitänyt, nyt on toki vähän ehkä hiljaisempi viikko näiden
-Puhuja 3: edellisten
-Puhuja 3: viikkojen isojen tapahtumien jälkeen, eli olen miettinyt lähinnä Serbiaa.
-Puhuja 0: Okei,
-Puhuja 0: mitä Serbiaa?
-Puhuja 3: Mitä ensi viikolla Serbiaa lisää? Tehdään näin.
-Puhuja 0: Tänään puhumme nimittäin ensin ulkopoliittisen instituutin eli UPIn julkisuuden valokeilaan nousseesta harjoitteluhausta.
-Puhuja 0: Eduskunnan alainen tutkimusinstituutti
-Puhuja 0: UPI palkkasi kolmen kuukauden kesäharjoittelun tasavallan presidentin Aleksandter Stubbin pojan, mutta palkkausprosessissa
-Puhuja 0: yhtä sun toista prosessillista vaihetta voi pitää hämäränä tai vähintäänkin epäjohdonmukaisena.
-Puhuja 0: Ja laitoksen johtaja HiskiAukkala on päässyt vastaamaan median puheluihin.
-Puhuja 3: Tänä keväänä Mäkkäri toi takaisin
-Puhuja 3: tämmöset Squish Mallowpehmolelut.
-Puhuja 3: Niiden Happymillien yhteyteen Jenkeissä.
-Puhuja 3: Mutta niitä oli vain rajallinen määrä. Joten
-Puhuja 3: sitten porukka syöksyi Mäkkäriin
-Puhuja 3: ostaakseen
-Puhuja 3: happy Mielejä ja ostaakseen niitä leluja.
-Puhuja 3: Ja siis se setelilei
-Puhuja 3: ei ole vain siitä, että ne lapset ostaisi
-Puhuja 3: sen happy Millin siellä
-Puhuja 3: käydessään Mäkkärissä. Vaan sitä varten mennään sinne. Vaan se ruokkii
-Puhuja 3: laajempaa kulutuskulttuuria.
-Puhuja 3: Mitä
-Puhuja 3: jos
-Puhuja 3: labubujen yhteydessä oltaisiin, että
-Puhuja 3: ostakaa happymilla, saatte labubun. Kuka
-Puhuja 3: maksaisi, jos kuusikymmentä prosenttia happyeistä? Varmaan aika moni ihminen. Periaatteessa, jos tuollaista kulutuskulttuuria
-Puhuja 2: on ollut
-Puhuja 2: samankaltaista,
-Puhuja 2: vaikka ruokakaupoissa esimerkiksi, että jos ostat
-Puhuja 2: vaikka seitsemäntoista bringdespurkkia,
-Puhuja 2: niin saat lippiksen, jossa lukee bringdesy.
-Puhuja 2: Ja siinä on hymynaama.
-Puhuja 2: Sillä tavalla tavallaan
-Puhuja 2: tuollaista toisen tuotteen varjolla ostamista on tavallaan, että ehkä vähän linkittyy siihen samaan. Jep, ja näitähän toki kritisoidaan varmasti lelutjä ostamaan siksi, koska näistä
-Puhuja 3: ei ole mitään hyötyä, että ostat kuusikymmentä euron keräilyn lylelun.
-Puhuja 3: Mutta onks vaikka, jos mä ostan sataseitsemänkymmentä:n
-Puhuja 3: kauluspaidan,
-Puhuja 3: mitä en ole missään nimessä tehnyt, niin paljonko siitä on mulle oikeasti hyötyä verrattuna
-Puhuja 3: yhdeksänkymmentä kauluspaidan.
-Puhuja 3: Paljonko se tavallaan
-Puhuja 3: käyttöesineen
-Puhuja 3: arvo on siinä oikeasti
-Puhuja 3: tärkeä versus vaan se,
-Puhuja 3: että
-Puhuja 3: kulutat rahaa. Eikö se ole yhtä tyhmää kuluttaa mihin tahansa muuhun rahaa. Toki vaatteissa kalliimpi on usein laadukkaampaa, mutta ei välttämättä. Voi olla lelyssäkin.
-Puhuja 3: Niin, mutta sitten Miten
-Puhuja 3: lelu on laadukas? Onko sen käyttöikä pidempi? Ehkä.
-Puhuja 3: Mutta mikä se vaikka labrun kuusikymmentä euron
-Puhuja 3: hinnan taustalla on,
-Puhuja 3: niin jos se on
-Puhuja 3: trendijuttu, johon käytät kuusikymmentä euroa,
-Puhuja 3: niin se on lelu
-Puhuja 3: ja asuste kuitenkin, niin kuinka se eroaa H&M:llä taustaan kuusikymmentä
-Puhuja 3: paitaa, jota käytät kolme kertaa.
-Puhuja 0: Toki kuusikymmentä paita hoitaa, että taitaa olla tosi kallista. Se aika olla jo. Se on varmaan arkkiteista sitä samaa firmaa. Mutta saat vaatteet mielestäni, niin en pidä arkkiteista.
-Puhuja 0: Hyvää pohdintaa.
-Puhuja 0: Vielä
-Puhuja 0: sitten kun jonotatte niitä labupuja
-Puhuja 0: siellä Stockmannin
-Puhuja 0: XML-leluissa.
-Puhuja 0: Ja siinä on
-Puhuja 0: hiljainen kiusollinen hetki siinä jonossa. Että tiedät, että mitä sanoa, kun kiusannut tai kaikki jonossa olevia, kun jonotat labupuja siellä neljä
-Puhuja 0: tuntia. Ja jännittää järjestää minkä värin saa. Mitä aiotte suositella naapuri
-Puhuja 0: jonottajalle
-Puhuja 0: siellä, jos vaikka Hanna?
-Puhuja 2: No,
-Puhuja 2: mulla on
-Puhuja 2: pääsuositus ja sivusuositus.
-Puhuja 2: Pääsuositus on, luin ensimmäistä kertaa
-Puhuja 2: Donna Tartyn Jumalat juhlivat öisin kirjan. Tykkäsin todella paljon.
-Puhuja 2: Uskoisin, että se sopii myös sellaisille ihmisille,
-Puhuja 2: jotka eivät välttämättä
-Puhuja 2: ole innostuneet
-Puhuja 2: lukemisesta
-Puhuja 2: tai haluaisivat vaikka lukea jotain vähän vanhempia kirjoja. Se on esimerkiksi ilmestynyt 90-luvulla.
-Puhuja 2: Niin se on tosi, tosi vetävä. En halua paljastaa siitä mitään, koska se on semmoinen erikoinen
-Puhuja 2: ja se pitää lukea itse.
-Puhuja 2: Mutta sitä voisin suositella.
-Puhuja 2: Mutta sitten mulla on sivusuositus, joka ei liity täyte mitenkään. No,
-Puhuja 2: Tätä Jualat juhlat öisin kirjaa voi vaikka lukea samalla kun on tässä paikassa eli siis julkisessa vessassa, johon tämä sivusuositus liittyy.
-Puhuja 2: Nimittäin mulla viime viikonloppuna kävi tällainen hassunhauska
-Puhuja 2: tapahtumankulku,
-Puhuja 2: kun olin huoltoasemalla.
-Puhuja 2: Sitten olin menossa
-Puhuja 2: julkiseen vessaan, olin vetämässä ovea kiinni.
-Puhuja 2: Tähän liittyy se suositus. Kun te menette julkiseen vessaan,
-Puhuja 2: vetäkää se oviava helkkarin nopeasti kiinni. Muuten voi käydä niin, että kun te olette rauhaksiin vetämässä sitä, niin kuin random lapsi yhtäkkiä ottaa ovesta
-Puhuja 2: kiinni
-Puhuja 2: ja vetäsä sen auki joku yhdeksänkymmentä senttiä pitkä lapsi
-Puhuja 2: ja kattoa mua ja irvistää!
-Puhuja 2: Ja sitten on silleen, että mitä mun pitää tehdä.
-Puhuja 2: Mitä hän haluaa minusta.
-Puhuja 2: Sitten hän katsoo minua, mitä katson häntä.
-Puhuja 1: Hän lähtee pois ja minä laitan sen oven kiinni. Oletko varmaan, että kohdannut vain labrupua?
-Puhuja 2: Näen unta, että mulla oli labrupua.
-Puhuja 3: Et siis ehtinyt sinne stokkaalle jonot, koska
-Puhuja 3: Mä suosittelen auringon rasvaa
-Puhuja 3: suoresti tähän Suomen
-Puhuja 3: sateiseen kesään siksi, koska on myös mahdollista polttaa rintansa
-Puhuja 3: kotimatkat
-Puhuja 3: töistä, mikäli on tarpeeksi
-Puhuja 3: kuuma.
-Puhuja 3: Ei siitä sen enempää. Toinen asia, mitä suosittelen,
-Puhuja 3: on myös vessakeskeinen.
-Puhuja 2: Wau!
-Puhuja 3: Osittain siksi, että kävimme eilen lounaalla,
-Puhuja 3: Ulkomailta
-Puhuja 3: kanssa ihanaisessa Zalan
-Puhuja 3: nimisessä ravintolassa
-Puhuja 3: tässä sanotulla vieressä. Sitä voi suositella ihan itse sängystä. Ruoka oli erinomaista kyllä.
-Puhuja 3: Mutta suosittelen erityisesti tämän paikan miesten vessaa, jossa on erittäin pehmeän nojatuaalien
-Puhuja 2: edessä. Ihanaa!
-Puhuja 3: Voi ottaa läpi. Jota jäin miettimään,
-Puhuja 3: että
-Puhuja 3: miksi tämä on täällä.
-Puhuja 3: Ja siis musta
-Puhuja 3: Musta on hyvä, että on persoonallisia vessoja.
-Puhuja 3: Ja ravintoloiden pitäis usein brändäytyä niillä. Esim. Hotellitornin
-Puhuja 3: vessahan on
-Puhuja 3: tunnettu nähtävyys Suomessa.
-Puhuja 3: Niin sen rinnalle haluaisin lisätä
-Puhuja 2: Char-isani vessa. Kiitos. Se oli mahtava. Ihanaa, että meidän kummankin suositukset liittyy tämmöiseen pissimaailmaan.
-Puhuja 1: Joka tapauksessa mulla on vähän aikaa tämmönen, ei ehkä ihan nyt liity samaan teemaan, mutta mulla on konseptisuositus,
-Puhuja 1: koska
-Puhuja 1: vaikka jotkut ovatkin
-Puhuja 1: polttaneet itsensä tässä, niin Suomen kesähän ei ole ainakaan täällä Helsingissä ollut vielä mitenkään ihan täysin ideaalinen.
-Puhuja 1: Harva asia ainakin henkilökohtaisesti mulle hittaa yhtä paljon kuin muistot lapsuuden kesistä. Tietty kun joka päivä paistoi aurinkoja ei tarvinnut huolehtia mistään
-Puhuja 1: ja henkisiä labruja tuli joka päivä. Oli kuin joulu ihanaa ja kaunista.
-Puhuja 3: Miks tarkoitan tinxin labupuja.
-Puhuja 1: Ihan ihania lahjoja joka päivä. Jokainen päivä on lahjoja. Olihan. Oli lähinnä mun ajatus tässä. Kaunis. Kiitos.
-Puhuja 1: Jos kaipaa tällaiseen välittömään lapsuuden kesä nostalgiaan takaisin sateisena
-Puhuja 1: lauantaina,
-Puhuja 1: niin suosittelen, että laittakaa soimaan joku oikein teidän lapsuudesta vahvasti resonoiva mökkimatkalevy.
-Puhuja 1: Esimerkiksi joku Eppu Normaalin
-Puhuja 1: repullinen hittejä tai Leevi and the Leavingsin
-Puhuja 1: keskiviikko neljäkymmentä ensimmäistä hittejä. Tiedättekö mitä tarkoitan tahroja paperilla? Jotain sellaista, mitä kaikki suomalaiset on ihanaa.
-Puhuja 1: Sitten kun teillä soi tämä levy täällä taustalla, niin ruvetkaa Kärtsäämään paistinpannulla
-Puhuja 1: siellä kerrostalo kaksi jossain vähän makkaraa, että tulee pieni semmoinen Kärtsänneen haju siihen ilmaan. Ja sitten suihkuttakaa vielä päälle ne vähän hyttyssuihuttajat
-Puhuja 1: ja aurinkorasvaa.
-Puhuja 1: Tulee muuten kesäinen tunnelma. Mahtavaa.
-Puhuja 1: Mä aion ainakin henkilökohtaisesti
-Puhuja 1: hyödyntää tätä aivoja.
-Puhuja 1: Sitten voi vielä ottaa jonkun kamun siihen, joka voi olla koko ajan näin.
-Puhuja 1: Ehdottomasti eli tän podcast!
-Puhuja 3: Tämä on musta hienoa, kuinka
-Puhuja 3: selkeesti suositus ihmisille, joilla ei ole kesälomaa siksi, koska he saattavat olla
-Puhuja 3: kesätöissä Sanoman Media Finland olulla tai Upilla. Tai Upilla
-Puhuja 3: kyllä. Oliverstub.
-Puhuja 3: Ota neuvosta vaan!
-Puhuja 0: Kiitos.
-Puhuja 0: Mun spontaanisuositus
-Puhuja 0: on grillaaaminen ja ykkösolut, koska aion tehdä sitä heti,
-Puhuja 0: kun audioäänitys päättyy. Speciisti Olvin highb maild IPA kaksi pilkku kahdeksan prosenttia.
-Puhuja 0: Hesarin lukiosta yhdeksänkymmentä prosenttia pitää IPA hirveän baana, mutta jos kuuluisi kymmenen prosenttia, niin tämä on tosi hyvä tämä ykkössipa.
-Puhuja 0: Varsinainen suositukseni tuli
-Puhuja 0: kyberavausvoiman
-Puhuja 0: aiheesta.
-Puhuja 0: Olen tuossa kymmenisen vuotta sitten lukenut, myöskin kymmenisen vuotta sitten ilmestyneen kirjan.
-Puhuja 0: Kirjan
-Puhuja 0: nimi on The
-Puhuja 0: Rise of the Millltery internet complex.
-Puhuja 0: Se on ihan mielenkiintoinen
-Puhuja 0: historia siitä, että miksi tämä kyber tuli relevantiksi Jenkeissä. Tai nimenomaan kybersodan käyntiin ja nämä kybervoimat ja muut. Se on toki aika vanhentunut tai se ei
-Puhuja 0: toimi enää minään
-Puhuja 0: ei enää toimi minään hirveän mielenkiintoisena askeleena tähän itse puolustushaaraan.
-Puhuja 0: Jos se ottaa sellaisena, että kun tekoälystä ei vielä tiedetty mitään tyyppisenä
-Puhuja 0: kymmenen vuoden takaisena aikahyppynä niin se on aika mielenkiintoinen
-Puhuja 0: kybersodan käyntiin ja sen historian Jenkeissä, että miksi sillä on
-Puhuja 0: merkitystä. Shain Harris Adword.
-Puhuja 0: Toi at on tuollainen
-Puhuja 0: Miiku maku sanotaan
-Puhuja 0: suomeksi varmaan. Miiku mal kuin Vaware
-Puhuja 0: kirja. Shain Harris, suosittelen sitä.
-Puhuja 0: Hei, kiitos jälleen tämän viikon jaksosta. Kiitos, Hanna. Kiitos. Kiitos, Don. Kiitos. Kiitos, Helmi. Kiitos. Ja kuulemiin jälleen ensi viikolla. Moi moi. Moikka.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 2: Hei ja tervetuloa uutisraportti podcastiin
+Puhuja 2: torstaina kolme. Heinäkuuta kaksituhatta kaksikymmentäviisi,
+Puhuja 2: jota äänitämme täällä... Helsingin keskustassa
+Puhuja 2: vuonna tuhat yhdeksänsataayhdeksänkymmentäyhdeksän valmistuneessa saan oma talossa.
+Puhuja 2: Minun nimeni on Rasmus Helaniemi ja mukanani studiossa ovat taitavan ja Utran kesätiimin
+Puhuja 2: huipputoimittajat.
+Puhuja 2: Nimittäin some ja audiotiimin toimittaja Helmi Sundström. Moikka Helmi. Ei vain.
+Puhuja 2: Onko some ja audiotiimillä ollut kiireinen viikko vaikka ollaan kesä ja heinäkuun vaihteessa ja koko Suomi on lomalla? On itseasiassa, koska tulee hirveän paljon hyvän mielen videoaiheita. Niin kuin
+Puhuja 3: Espooseen on perustettu
+Puhuja 3: kukkaniitty
+Puhuja 3: kato kaato paikan päälle. Kaikkea
+Puhuja 3: tällaista isoja breaking news juttuja on. Mutta hirveän sellaista. On ihan kiva, että on välillä vähän hyvän mielen juttuikin. Kuulostaa hyvältä.
+Puhuja 2: Talouden ja politiikan toimittaja Hanna Havusta. Moi Hanna. Moi Rasmus.
+Puhuja 2: No mites
+Puhuja 2: taloudessa? Talouden rattaat pyörivät aina, onko näin? On. Olen tällä viikolla työstänyt
+Puhuja 4: aika ajatonta aihetta, joka koskee kuolemaa.
+Puhuja 4: Positiivisessa merkeissä en ole tällä viikolla hirveästi ollut tämän äärellä, mutta se on aina ajankohtainen, koska jengi kuolee aina. Jengi kuolee myös kesällä. Joo. Miten ulkomaantoimittaja
+Puhuja 2: Johnn Helin? Moi Joon. Hei vain.
+Puhuja 1: Maailmalla sattuu ja tapahtuu aina, eikö niin? Kyllä, näin se on, mutta
+Puhuja 1: Kirjoitetaan pitänyt, nyt on toki vähän ehkä hiljaisempi viikko
+Puhuja 1: edellisten
+Puhuja 1: viikkojen
+Puhuja 1: isojen tapahtumien jälkeen, eli olen miettinyt lähinnä Serbiaa.
+Puhuja 1: Okei, mitä Serbiaa
+Puhuja 1: Mitä ensi viikolla Serbiaa lisää? Tehdään näin.
+Puhuja 2: Tänään puhumme ensin
+Puhuja 2: ulkopoliittisen instituutin eli UPIn julkisuuden valokeilaan nousseesta harjoitteluhausta.
+Puhuja 2: Eduskunnan alainen tutkimusinstituutti UP
+Puhuja 2: palkkasi kolmen kuukauden kesäharjoittelun
+Puhuja 2: tasavallan presidentin Aleksandys Stubbin pojan, mutta palkkausprosessissa
+Puhuja 2: yhtä sun toista prosessillista vaihetta voi pitää hämäränä tai vähintäänkin epäjohdonmukaisena.
+Puhuja 2: Ja laitoksen johtaja HiskiAukkala on päässyt vastaamaan median puheluihin oikein urakalla.
+Puhuja 2: Mistä on kyse puhutaan siitä.
+Puhuja 2: Puhuimme siitä, kuinka tasavallan presidentti Aleksandfors teki kesäkuussa avauksen, että Suomellakin tulisi olla viisi puolustushaaraa.
+Puhuja 2: Eli nykyisten maa, meri ja ilmavoimien lisäksi Suomikin
+Puhuja 2: tarvitsisi kyber ja avaruusvoimat.
+Puhuja 2: Nyt on käymässä ilmiö, että kyse ei tainnutkaan olla pelkistä
+Puhuja 2: raflaavista otsikoista.
+Puhuja 2: Tarvitseeko Suomi todella avaruusvoimat? Puhutaan siitäkin.
+Puhuja 2: Kolmanneksi puhutaan siitä, mitä leluille on tapahtunut. Suomalainen pikaruokaketju Hesburger ilmoitti tällä viikolla luopuvansa lasten aterioiden leluista viimeistään ensi keväänä.
+Puhuja 2: Nykyiset varastot myydään loppuun mutta Hesburger lopettaa lasten aterioiden lelut kokonaan kaikissa maissa joissa se toimii.
+Puhuja 2: Samalla kuitenkin vanhan ajan lelukapitalismi
+Puhuja 2: eli esimerkiksi kuusikymmentä euroa maksavat laboupehmälolut
+Puhuja 2: saavat yhä lapset sekaisin aivan kuten ennen vanhaan. Mistä on kyse? Puhutaan myös siitä.
+Puhuja 2: Lopuksi tuttuun tapaan vielä keskustelun aiheita pitkien epämukavien hiljaisuuksien vartta.
+Puhuja 2: Ulkopoliittinen instituutti eli UPI on joutunut vähintään kesämörekän keskelle, kun valitsi korkeakouluharjoittelunsa
+Puhuja 2: tasavallan presidentin Aleksander Stubbin pojan Oliver Stubbin.
+Puhuja 2: Eduskunnan alaisen tutkimuslaitoksen johtaja Hiski Haukkala
+Puhuja 2: Sauli Niston aikainen presidentin kansliapäällikkö entinen Tampereen yliopiston kansainvälisten suhteiden professori
+Puhuja 2: on vakuutellut, että prosessi on mennyt ihan kuten pitääkin.
+Puhuja 2: Oliver Stuub ei sevensä puolusta ollut paikan kokeneen hakija, vaan on vasta ensimmäisen vuoden opiskelija.
+Puhuja 2: Oliver Stuubia vastassa oli muun muassa viidennen vuoden opiskelija.
+Puhuja 2: Julkisuudessa sopien perustelut Stubbin valintaa poikkeuksellisella
+Puhuja 2: motivaatiolla mutta muut Stubille hävinneet hakijat kertovat Ilta-Sanomille että heille oli tiedotettu, että paikkaan valittiin henkilö jolla oli kokemusta
+Puhuja 2: tutkimustyöstä
+Puhuja 2: tai enemmän työkokemusta.
+Puhuja 2: Muiden hakijoiden mukaan
+Puhuja 2: perustelu Stubbin... Työkokemuksesta vaikuttaa jälkeenpäin katsottuna omituiselta...
+Puhuja 2: Sillä Stub kertoi itse hakuprosessin yhteydessä... Työkokemuksekseen
+Puhuja 2: pelkästään vuoden mittaisen
+Puhuja 2: varusmiespalveluksen ja tehtävät opiskelijajärjestössä.
+Puhuja 2: Kysymyksiä on herättänyt myös se, miksi Oliver Stubbin kohdalla sattumalta palkkausehdot
+Puhuja 2: muuttuivat juuri taksi vuodeksi. Stub opiskelee Britanniassa, eikä siksi voi saada sellainen... Tuotiin markkinoille vuonna tuhat yhdeksänsataaseitsemänkymmentäkolme.
+Puhuja 1: Ja siis McKRiin ne tuotiin seitsemänkymmentäyhdeksän. Eli siis
+Puhuja 1: Ne
+Puhuja 1: on hirveän pitkään
+Puhuja 1: osa pikaruokaiden juttua.
+Puhuja 1: Mutta
+Puhuja 1: niiden
+Puhuja 1: kysyntä on vähentynyt. Täähän on törkeen kapitalistinen
+Puhuja 1: ajattelu, ihan näissä
+Puhuja 1: lapuvuissakin,
+Puhuja 1: että
+Puhuja 1: lapset eivät halua enää näitä leluja.
+Puhuja 1: Niillä ei ole kysyntää, joten voidaan vähän niinku viherpestä itseään sillä,
+Puhuja 1: että nyt me vähentää muovia. Ja siis luin tämmösen New Yorsin artikkelin vuodelta kaksituhatta yhdeksäntoista.
+Puhuja 1: 1 Water Junior Hol the
+Puhuja 1: toi! Jossa
+Puhuja 1: käytiin läpi
+Puhuja 1: tätä vuoden kaksituhatta yhdeksäntoista
+Puhuja 1: kontekstissa.
+Puhuja 1: Ja esimerkiksi
+Puhuja 1: tässä isoina syynä
+Puhuja 1: oli
+Puhuja 1: se, että
+Puhuja 1: kertakäyttömuovin käyttäminen näyttää pahalta
+Puhuja 1: enemmän kuin se,
+Puhuja 1: että nämä yritykset haluaisi
+Puhuja 1: vähentää lelyä.
+Puhuja 1: Ja se oli
+Puhuja 1: jännittävä kertomus siitä,
+Puhuja 1: että... Ja siis kävi myös katsomassa itse, mutta lapset on kolmekymmentäkahdeksan
+Puhuja 1: prosenttia
+Puhuja 1: todennäköisemmin menossa syömään mäkkäriin, jos ne tietää saavansa lelua.
+Puhuja 4: Lelut. Onko muka näin, että lapset, kun sanoit, ettei enää haluaisi
+Puhuja 1: leluja, niin onkohan se vähentynyt oikeasti? Luulen, että se johtuu, koska uudella jutulla oli tästä
+Puhuja 1: kanssa juttu.
+Puhuja 1: Ja siinä puhuttiin näistä QR-koodeista muistaakseni.
+Puhuja 1: Lapsille
+Puhuja 1: ollaan siirtymässä
+Puhuja 1: applikaatio-based
+Puhuja 1: lelujuttuihin, jossa
+Puhuja 1: annetaan QR-koodi, jonka lapsi voi lukea sen kännykällä. Ja hän saa äppiin jotain
+Puhuja 1: semmoista kivaa
+Puhuja 1: turvallisuussanpää.
+Puhuja 1: Se
+Puhuja 1: juttu ei ole
+Puhuja 1: lelujen poistuminen, vaan siirretään
+Puhuja 1: niille platformeille
+Puhuja 1: leikkiminen, joilla ne lapset jo on. Eli
+Puhuja 1: lapsille
+Puhuja 1: markkinointi on edelleen juttu. Ongelma on vaan se, että lelut
+Puhuja 3: eivät ole ihan niin kannattavia kuin ne oli ennen. Mutta toisaalta sitten samalla tänä keväänä oli esimerkiksi, kun tuli
+Puhuja 3: suurin taiteellinen tuotos eli Minecraft-elokuva
+Puhuja 3: tuli teattereihin,
+Puhuja 4: niin mun yksi kaveri toivoi
+Puhuja 4: lasten synttäreille
+Puhuja 4: lahjaksi yhtä Mäkkärin tai Hesen lastenaterian lelua.
+Puhuja 4: Sitten menin Mäkkäriin
+Puhuja 4: isäni kanssa ja ostin minulle lastenateriaan ja sen lelun, minkä sain siitä, annoin
+Puhuja 4: kaverillei sitten lähekseni.
+Puhuja 4: En tiedä onko tämä joku lamajan
+Puhuja 4: jälkeinen
+Puhuja 4: mäkkäri-lelubuumi,
+Puhuja 4: mutta mun mielestä se oli myös itsestään aina kivaa. Myönnän, en ollut mikään
+Puhuja 4: vihreän siirtymän lapsi varmasti, niin
+Puhuja 4: se tuntui kivalta. Mutta aloin miettimään myös sitä, että
+Puhuja 4: mitä
+Puhuja 4: siihen tilalle voitaisiin laittaa. Sanoitkin, että nykyään
+Puhuja 4: on applikaation
+Puhuja 4: based
+Puhuja 4: applikaatiohommia
+Puhuja 4: QR-koodin kautta,
+Puhuja 4: mutta minä ehdotan.
+Puhuja 4: Teen virallisen ehdotuksen tässä. Onko tämä taas markkinointitimi?
+Puhuja 4: Joo, on.
+Puhuja 4: Otan
+Puhuja 4: tällaisen
+Puhuja 4: uutistenlukijaasemman
+Puhuja 4: oikein, että kun lasten aterioita aletaan,
+Puhuja 4: kun myydään,
+Puhuja 4: Sen sijasta, että siellä on lelua, niin pitää olla lapsille ohjekirja,
+Puhuja 4: jonka nimi on Näin selviät kapitalistisessa yhteiskunnassa.
+Puhuja 4: Siinä ohjekirjassa
+Puhuja 4: muun muassa neuvotaan, että miten maksaa veroja.
+Puhuja 4: Siinä annetaan arvio ensin ikäluokille, että milloin he pääsevät eläkkeelle. Tosi kiva!
+Puhuja 4: Ja sitten siinä on historiakatsaus,
+Puhuja 4: jossa kerrotaan
+Puhuja 4: maailmasta, jossa elämä ei arvotettu vielä sen mukaan, trendaako asiat TikTokissa.
+Puhuja 3: Mut sithän se on
+Puhuja 3: kiva,
+Puhuja 1: Tähän yhdistyy tähän laajempaan kysymykseen lapsille markkinoinnista.
+Puhuja 1: Joka
+Puhuja 1: ei ollut toki -seitsemänkymmentäkolme sinne alettu tunkimaan leluja,
+Puhuja 1: Burgertscheff
+Puhuja 1: nimisessä ravintolassa, josta ette ole koskaan kuulleet.
+Puhuja 4: Oliko silloin 70-luvulla,
+Puhuja 1: kun sinä Lasse? Se oli silloin 70-luvulla,
+Puhuja 1: kun minä olin lapsi Yhdysvalloissa.
+Puhuja 1: Mäkkärin suuri kilpailija.
+Puhuja 1: Mäkkärin myöhemmin taisi hotkaista sen. Mutta
+Puhuja 1: Lapselle markkinointihan ei ollut juttu. Eli nää ekat lelut. Ne oli jotain
+Puhuja 1: kumeja, joissa on brändäystä tai tällaista.
+Puhuja 1: Ja musta hauskaa, miten mainitsit
+Puhuja 1: kapitalistisessa
+Puhuja 1: yhteiskunnassa
+Puhuja 1: selviytymisen sen siks, koska lapsille markkinoinnin tuli isosti framille
+Puhuja 1: vasta 1980-luvulla. Sitten kun Ronald Dregan
+Puhuja 1: Amerikoissa vapautti lapsille markkinointia tosi paljon, jos me saatiin
+Puhuja 1: loistavia, koskettavia televisiosarjoja, kuten transforms
+Puhuja 1: ja himan.
+Puhuja 1: Lapselle markkinointi on kohtuullisen uusi ilmiö sinänsä.
+Puhuja 1: Se on ollut juttu nelisenkymmentä
+Puhuja 1: vuotta vaan,
+Puhuja 1: mutta se on silti tosi iso asia meillä siinäkin mielessä, että
+Puhuja 1: meillä on labumut
+Puhuja 1: lopulta. Kiitos Ronald Reagan, kiitos labumuista, kiitos Mäkkäri lasten aterioista
+Puhuja 2: aiheesta. Mutta onko tämä nyt kilpailivaltti Mäkkärille, koska Mäkkärin tai Burgiakin ei kuitenkaan luovu näistä luvuista? Meneekö lapset nykyään Suomessa aina
+Puhuja 2: vierasperäisiin
+Puhuja 3: ravintoloihinihin?
+Puhuja 4: Totta.
+Puhuja 1: Oliks miettineet just QR-koodia?
+Puhuja 1: Jos
+Puhuja 1: luet sen sun kämmenellä.
+Puhuja 1: Mut
+Puhuja 1: kyllähän tää on musta nettopositiivinen,
+Puhuja 1: mut toki jos ei mäkkäri, jos ei Burgerkin poista niitä,
+Puhuja 1: Niin sitten
+Puhuja 1: ehkä pitäis miettiä, että pitäisikö meillä saada Heselaki,
+Puhuja 1: joka pakottaa kaikki seuraamaan
+Puhuja 1: Hesen esimerkkiä
+Puhuja 1: ja poistamaan lasten. Aika epärökön maistu sulta.
+Puhuja 2: Poliittinen kysymys, miten se halutaan saada aikaan. Voisi toivoa myös, että
+Puhuja 2: lapset oppisi jossain vaiheessa, että
+Puhuja 2: orgaanistit tulisi liiketaloudellinen intressi poistaa ne
+Puhuja 1: Toisaalta jotain labrut.
+Puhuja 2: Se on hyvä pointti.
+Puhuja 1: Mä käytän nyt tosi huonoa lähdettä, koska käytän
+Puhuja 1: New Post-lehteä.
+Puhuja 1: Tämähän linkittyy
+Puhuja 1: labruihin myös Mäkkärin
+Puhuja 1: lelut siks, koska tänä
+Puhuja 1: keväänä
+Puhuja 1: toi takasin...
+Puhuja 1: Squish Mallo-pehmolelut.
+Puhuja 1: Niiden Happymileien yhteyteen Jenkeissä.
+Puhuja 1: Mutta niitä oli vain rajallinen määrä.
+Puhuja 1: Joten
+Puhuja 1: porukka syöksyi Mäkkäriin
+Puhuja 1: ostaakseen
+Puhuja 1: happy Mielejä ja ostaakseen leluja. Ja
+Puhuja 1: siis kyse ei ole vain siitä, että ne lapset ostaisi sen happy Millin siellä
+Puhuja 1: käydessään
+Puhuja 1: Mäkkärissä. Vaan sitä varten mennään sinne. Vaan se ruokkii laajempaa kulutuskulttuuria.
+Puhuja 1: Mikä on kanssa
+Puhuja 1: niin, että jos labubujen yhteydessä oltaisiin niin, että
+Puhuja 1: ostakaa Happymell saatte labubun? Kuka
+Puhuja 1: maksaisi, jos kuusikymmentä Happymedeista? Varmaan aika moni ihminen on. Mutta periaatteessa just tuollaista kulutuskulttuuria
+Puhuja 4: on ollut
+Puhuja 4: samankaltaista.
+Puhuja 4: Vaikka vähittäiskaupoissa,
+Puhuja 4: ruokakaupoissa esimerkiksi, että jos ostat
+Puhuja 4: vaikka seitsemäntoista
+Puhuja 4: bringlespurkkia,
+Puhuja 4: niin saat lippiksen, jossa lukee bringles
+Puhuja 4: ja siinä on hymynaama.
+Puhuja 4: Niin tavallaan tollasta
+Puhuja 4: toisen tuotteen varjolla ostamista on tavallaan, että vähän linkittyy
+Puhuja 1: siihen samaan. Jep ja näitähän toki kritisoidaan varmasti ilelujajä ostamaan siksi, koska näistä
+Puhuja 1: ei ole mitään hyötyä, että ostat kuusikymmentä euron keräilyn lyyllyyn. Mutta onks vaikka, jos mä ostan
+Puhuja 1: sataseitsemänkymmentä:n
+Puhuja 1: kauluspaidan,
+Puhuja 1: mitä en ole missään nimessä tehnyt, niin paljonko siitä on mulle oikeasti hyötyä verrattuna
+Puhuja 1: yhdeksänkymmentä kauluspaidan.
+Puhuja 1: Paljonko se
+Puhuja 1: tavallaan käyttöesineen arvo on siinä oikeasti tärkeä versus vaan se,
+Puhuja 1: että kulutat sitä rahaa. Eikö se ole yhtä tyhmää kuluttaa mihin tahansa muuhun rahaa. Toki vaatteissa kalliimpi on usein laadukkaampaa, mutta ei välttämättä. Rue lelössäkin ollaan.
+Puhuja 1: Tietty pistisäästi.
+Puhuja 1: Niin, mutta millä tavalla
+Puhuja 1: lelu on laadukas. Onko sen käyttöikä pidempi? Ehkä.
+Puhuja 1: Mutta mikä se vaikka labrun kuusikymmentä euron
+Puhuja 1: hinnan taustalla on,
+Puhuja 1: niin
+Puhuja 1: jos se on trendijuttu, johon käytät kuusikymmentä euroa,
+Puhuja 1: niin se on lelu
+Puhuja 1: ja asuste kuitenkin, niin kuinka se eroaa H&M:llä taustaan kuusikymmentä
+Puhuja 1: paitaa, jota käytät kolme kertaa.
+Puhuja 1: Toki kuusikymmentä kilometri Hoitavamalla tai taitaa olla tosi kallista. Se aika olla jo. Se varmaan arkkiteista siitä samaa firmaa.
+Puhuja 2: Mutta samat vaatteet mielestäni, niin en pidä arkkiteista.
+Puhuja 2: Hyvää pohdintaa.
+Puhuja 2: Vielä
+Puhuja 2: sitten kun jonotatte niitä labruja
+Puhuja 2: siellä Stockmannin
+Puhuja 2: XS-leluissa,
+Puhuja 2: niin siinähän on
+Puhuja 2: hiljainen
+Puhuja 2: kiusaaminen hetki siinä jonossa, kun ette oikein tiedä mitä sanoa, kun kiusannut tai kaikki jonossa olevia, kun jonotat labruja siellä
+Puhuja 2: neljä tuntia. Ja jännittää hirveästi, minkä värin saa. Mitä aiotte suositella naapuri
+Puhuja 2: jonottajalle
+Puhuja 2: siellä? Jos vaikka Hanna.
+Puhuja 4: No,
+Puhuja 4: mulla on
+Puhuja 4: pääsuositus ja sivusuositus.
+Puhuja 4: Pääsuositus on, luin ensimmäistä kertaa
+Puhuja 4: Donna Tartyn Jumalat juhlivat öisin kirjan. Tykkäsin todella paljon.
+Puhuja 4: Uskoisin, että se sopii myös sellaisille ihmisille,
+Puhuja 4: jotka eivät välttämättä ole
+Puhuja 4: innostuneet
+Puhuja 4: lukemisesta
+Puhuja 4: tai haluaisivat vaikka lukea jotain vähän vanhempia kirjoja. Se on esimerkiksi ilmestynyt 90-luvulla.
+Puhuja 4: Se on tosi, tosi vetävä. En halua paljastaa siitä mitään, koska se on erikoinen
+Puhuja 4: ja se pitää lukea itse.
+Puhuja 4: Mutta sitä voisin suositella.
+Puhuja 4: Sitten mulla on sivusuositus, joka ei liity täyttämään mitenkään.
+Puhuja 4: Tätä jumalat juhlava löysin kirjaa voi vaikka lukea samalla kun on tässä paikassa eli siis julkisessa vessassa, johon tämä sivusuositus liittyy.
+Puhuja 4: Nimittäin mulla viime viikonloppuna kävi tällainen hassunhauska
+Puhuja 4: tapahtumankulku,
+Puhuja 4: kun olin
+Puhuja 4: huoltoasemalla.
+Puhuja 4: Sitten olin menossa
+Puhuja 4: julkiseen vessaan ja olin vetämässä ovea kiinni.
+Puhuja 4: Tähän liittyy se suositus. Kun te menette julkiseen vessaan,
+Puhuja 4: vetäkää se oviava helkkarin nopeasti kiinni. Muuten voi käydä niin, että kun te olette rauhaksiin vetämässä sitä, niin kuin random lapsi yhtäkkiä ottaa ovesta
+Puhuja 4: kiinni
+Puhuja 4: ja vetäisee sen auki joku yhdeksänkymmentä senttiä pitkä lapsi
+Puhuja 4: ja kattoa mua
+Puhuja 4: ja irvistää!
+Puhuja 4: Ja sitten mä olen silleen, että mitä mun pitää tehdä,
+Puhuja 4: mitä hän haluaa minusta.
+Puhuja 4: Sitten hän katsoo mielenkiinnolla, mitä katson häntä.
+Puhuja 4: Hän lähtee pois ja minä laitan sen oven kiinni. Oletko varmaan, että kohdannut vain labrupua?
+Puhuja 4: Näen unta, että mulla oli labrupua.
+Puhuja 1: Et siis ehtinyt sinne stokkaalle jonot, mutta
+Puhuja 1: Mä suosittelen auringonrasvaa
+Puhuja 1: suorasti tähän Suomen
+Puhuja 1: sateiseen kesään siksi, koska on myös mahdollista
+Puhuja 1: polttaa rintansa
+Puhuja 1: kotimatkan
+Puhuja 1: töistä, mikäli on tarpeeksi
+Puhuja 1: kuuma.
+Puhuja 1: Ei siitä sen enempää.
+Puhuja 1: Toinen asia, mitä suosittelen,
+Puhuja 1: on myös vessakeskeinen.
+Puhuja 3: Wau!
+Puhuja 1: Osittain siksi, että kävimme eilen lounaalla,
+Puhuja 1: Ulkomaan toimituksen kanssa ihanaisessa Zapp isän
+Puhuja 1: nimisessä ravintolassa
+Puhuja 2: tässä sanomatolla vieressä. Sitä voi suositella ihan itse sen. Ruoka oli erinomaista kyllä.
+Puhuja 1: Mutta suosittelen erityisesti tämän paikan miesten vessaa,
+Puhuja 1: jossa on erittäin pehmeän nojattua ali sisäpuolella edessä. Ihanaa!
+Puhuja 4: Voi ottaa läpi. Jota jäit miettimään,
+Puhuja 1: että
+Puhuja 1: miksi tämä on täällä.
+Puhuja 1: Ja siis musta...
+Puhuja 1: Musta on hyvä, että on persoonallisia vessoja, Ja siis ravintoloiden pitäisi useammin brändäytyä niillä. Esimerkiksi hotellitorni
+Puhuja 1: vessahan on
+Puhuja 1: tunnettu nähtävyys Suomessa.
+Puhuja 1: Niin sen rinnalle mä haluaisin lisätä
+Puhuja 4: Char-isannin vessa. Kiitos. Se oli mahtava. Ihan, että meidän kummankin suositukset liittyy tämmöiseen pissimaailmaan.
+Puhuja 2: Mites Heidi? Korkeakoskulttuuripodcast.
+Puhuja 3: Joka tapauksessa mulla on vähän kans tämmönen,
+Puhuja 3: ei liity samaan teemaan, mutta mulla on tämmöinen konseptisuositus,
+Puhuja 3: koska
+Puhuja 3: vaikka jotkut ovatkin
+Puhuja 3: polttaneet itsensä tässä, niin Suomen kesähän ei ole ainakaan täällä Helsingissä ollut vielä mitenkään ihan täysin ideaalinen.
+Puhuja 3: Harva asia ainakin henkilökohtaisesti mulle hit yhtä paljon kuin muistot lapsuuden kesistä. Tietty kun joka päivä paistoi aurinko ja ei tarvinnut huolehtia mistään
+Puhuja 3: ja henkisiä labruja tuli joka päivä. Oli kuin joulu. Ihanaa kaunista.
+Puhuja 3: Laittakaa soimaan joku oikein teidän lapsuudesta vahvasti resonoiva
+Puhuja 3: mökkimatkalevy.
+Puhuja 3: Esimerkiksi joku Eppu normaalin
+Puhuja 3: repullinen hittejä tai Leevi and the Leavingsin
+Puhuja 3: keskiviikko neljäkymmentä ensimmäistä hittejä. Tiedätkö, mitä tarkoitan? Jotain tahroja paperilla. Jotain sellaista, mitä kaikki suomalaiset on. On ihanaa.
+Puhuja 3: Sitten kun teillä soi tämä levy täällä taustalla,
+Puhuja 3: niin ruvetkaa Kärtsäämään paistinpannulla
+Puhuja 3: kerrostalo kaksiossanne makkaraa, että tulee pieni Kärtsännen
+Puhuja 3: haju siihen ilmaan. Ja sitten suihkuttakaa vielä päälle ne vähän hyttyssuihketta
+Puhuja 3: ja aurinkorasvaa.
+Puhuja 3: Tulee muuten kesäinen tunne. On mahtavaa.
+Puhuja 3: Mä aion ainakin henkilökohtaisesti itse hyödyntää tätä. Todellakin.
+Puhuja 4: Sitten voi vielä ottaa jonkun kamun siihen, joka olla koko ajan
+Puhuja 4: näin.
+Puhuja 4: Ehdottomasti eli tän podcast.
+Puhuja 1: Tää on musta hienoa, kuinka
+Puhuja 1: tää on selkeesti suositus ihmisille, joilla ei ole kesälomaa siksi, koska he saattoivat olla
+Puhuja 1: kesätöissä Sanomanmedia Finland alla. Tai upella
+Puhuja 1: kyllä. Tai upella, Oliverstub.
+Puhuja 1: Ota neuvomaan!
+Puhuja 2: Kiitos! Mun
+Puhuja 2: spontaanisuositus on grillaaaminen ja ykkösolut, koska aion sitä heti, kun
+Puhuja 2: tämä audionäänitys
+Puhuja 2: päättyy. Speciisti Allwing High Pmail II kaksi pilkku kahdeksan prosenttia.
+Puhuja 2: Varsinainen suositukseni tuli
+Puhuja 2: kyberavaruusvoima
+Puhuja 2: aiheesta.
+Puhuja 2: Olen tuossa kymmenisen vuotta sitten lukenut myöskin kymmenisen vuotta sitten ilmestyneen kirjan.
+Puhuja 2: Kirjoitta kirjoittajan on Jane Harris.
+Puhuja 2: Kirjan nimi on Att War The Rise of the Millltery internet Complex.
+Puhuja 2: Se on
+Puhuja 2: ihan mielenkiintoinen
+Puhuja 2: historia siitä, että miksi tämä kyber tuli relevantiksi Jenkeissä. Tai nimen omaan kybersodankäynti
+Puhuja 2: kymmenen vuoden takaisena aikahyppynä niin se on aika mielenkiintoinen tähän kybersodan käyntiin ja sen historian Jenkeissä, että miksi sillä on merkitystä. Shain Harris Athwar.
+Puhuja 2: Ja tuo at on tuollainen...
+Puhuja 2: Miuku Markun sanotaan
+Puhuja 2: Suomeksi varmaan. Miiku Markun War, Attware
+Puhuja 2: kirja. Sainen Harvis. Suosittelen sitä.
+Puhuja 2: Kiitos jälleen tämän viikon jaksosta. Kiitos Hanna.
+Puhuja 2: Kiitos. Kiitos, Don. Kiitos. Kiitos Helmi. Kiitos. Ja kuulemiin jälleen ensi viikolla. Moi moi. Moikka. Moi moi.
+Puhuja 0: Moi Tuomas tässä.
+Puhuja 0: Mun uusi
+Puhuja 0: menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Menikö suuuudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään
+Puhuja 0: kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

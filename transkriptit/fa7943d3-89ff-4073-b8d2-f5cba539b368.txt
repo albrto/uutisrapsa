@@ -1,0 +1,455 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin tänään keskiviikkona
+Puhuja 2: seitsemäntoista.
+Puhuja 2: Kesäkuuta, joskin sinä kuuntelet tätä aikaisintaan torstaina kahdeksantoista.
+Puhuja 2: Kesäkuuta,
+Puhuja 2: äläkä nyt mieti sitä, että kesäkuu on jo puolivälissä.
+Puhuja 2: Älä varsinkaan mieti sitä, että kesästä on kulunut jo seitsemäntoista
+Puhuja 2: pilkku neljä prosenttia.
+Puhuja 3: Mistä mihin sä määrittelet kesän? Kesä-heinäelo
+Puhuja 2: Se on kesä.
+Puhuja 2: Älkää miettikö sitä. Kesä on kääntymässä kohti loppua, koska mekään emme mieti sitä, vaan ilolla vietämme yhteistä
+Puhuja 2: juhannuksen
+Puhuja 2: aaton
+Puhuja 2: aattoa täällä Helsingin Sanomien podcast-studiossa.
+Puhuja 2: Henkilö joka ehkä vähän epäilen ja suhtauduin minun laskentoni
+Puhuja 2: on politiikkareportteri
+Puhuja 2: Marko Junkkari. Moi! Viime
+Puhuja 2: viikolla sinä olit saanut ylennyksen. Olit juontajan. Nyt olet taas ikään kuin valunut takaisin.
+Puhuja 3: Se oli jännittävä kokeilu.
+Puhuja 2: Mitä kuuluu? Minulle
+Puhuja 3: kuuluu erittäin hyvin.
+Puhuja 4: Miksi? Tulee juhannus.
+Puhuja 2: Juhannussauna
+Puhuja 2: ja ehkä juhannusoluet
+Puhuja 2: jokimaaltavat
+Puhuja 2: myös
+Puhuja 2: Markon vieressä. John Helinin
+Puhuja 2: silmissä, olenko
+Puhuja 2: oikeassa? Viimeiseksi
+Puhuja 2: oli Podissa tutkivan
+Puhuja 2: toimituksen reportteri. Tällä hetkellä oli maailman toimituksen reportteri,
+Puhuja 2: mutta mikä
+Puhuja 2: tärkeintä? Ensi kuussa
+Puhuja 2: olet sekä tutkivan toimituksen
+Puhuja 2: että
+Puhuja 2: uutisraportti
+Puhuja 2: podcastin valtavan
+Puhuja 1: toimituksen suorastaan ykkösnyrki eli kesätiimin vetäjä. Kyllä mulla on useita hattuja tänä kesänä.
+Puhuja 1: Mistä sä äsken tulit junalla ja moikka! Minä tulin äsken tuolta, no moi vaan! Tulin tuolta Pohjois-Pohjanmaalta
+Puhuja 1: juttukeikalta ja VR meinasi minut jättää
+Puhuja 1: pois tästä podista röyhkeästi, kun juna oli hieman myöhässä. Mutta tänne ehdin.
+Puhuja 2: Ihana kun olet täällä. Aluksi on todettava, että me ollaan vähän mokailtu
+Puhuja 2: viime podissa. Me on tehty ainakin kaksi mokaa,
+Puhuja 2: jotka on syytä oikaista.
+Puhuja 2: Viime podissa puhuttiin futiksesta
+Puhuja 2: ja pohdittiin, että oliko se somalialainen
+Puhuja 2: MM-futistuomari,
+Puhuja 2: jonka nimi on Oma Arta.
+Puhuja 2: Oliko hän päässyt jenkkeihin asti vai oliko hänen matkaansa tyssännyt jo
+Puhuja 2: turkissa?
+Puhuja 2: Tämmöisiä pohdittiin.
+Puhuja 2: Taisin olla minä.
+Puhuja 2: Mä yritin ottaa tälle kollektiivisesti,
+Puhuja 2: mutta Marko,
+Puhuja 2: sanoit aika vahvalla tietämyksellä, että hän jo Turkissa loppui jo matka sinne jenkkeihin, mutta näin ei ole.
+Puhuja 2: Hän
+Puhuja 2: pääsi lentämään Jenkkeihin
+Puhuja 2: Miamiin tarkalleen ottaen ja sitten yksitoista tuntia kuulusteltiin lentokentällä
+Puhuja 2: ja häneltä kyseltiin muun muassa
+Puhuja 2: mahdollisista yhteyksistä somali tällaiseen
+Puhuja 2: alshaba,
+Puhuja 2: terroristi
+Puhuja 2: ja hän siellä selitti, että
+Puhuja 2: ei tunne tämmöistä järjestää, mutta ei siis päässyt tuomaroimaan
+Puhuja 2: kisoihin
+Puhuja 2: tämän takia. Anteeksi tämä virhe. No sitten toinen virhe ja tää on nyt mun virhe. Ei tällä kertaa ennen selittele
+Puhuja 2: oliko vaiko eikö. Mä väitin, että Petteri Orpon kravatin poistovideoille
+Puhuja 2: kettuiltiin,
+Puhuja 2: mä sanoin joko noin viikon studio tai noin viikon uutiset ohjelma ja kumpikin olisi väärin. Oikeasti ohjelman nimi on kovan viikon ilta.
+Puhuja 2: Pahoittelen tätä
+Puhuja 2: ja ehdotan Ylelle, että lopettakaa sateenkaariohjelmien
+Puhuja 2: nimenvaihtelu.
+Puhuja 2: Ei pysy
+Puhuja 2: kärryillä.
+Puhuja 3: Kumminkin sallita, että ne voi jatkaa sen tekemistä?
+Puhuja 2: No, mä annan heidän jatkaa sitä. Nyt nimi, nyt kun on tää kovan viikon ilta, niin sitä ei enää vaihdeta. Jukka Lindströmille
+Puhuja 2: terveisiä.
+Puhuja 2: Tällä viikolla
+Puhuja 2: keskustelemme viikon kuumista kotimaan politiikan uutisista. Niitä on nyt tarjolla.
+Puhuja 2: Ensinnäkin vihreiden puheenjohtaja Sofia Virta on käynyt kasvamassa
+Puhuja 2: ihmisenä lohalaisella tehdasalueella
+Puhuja 2: ja ottanut vastaan siellä
+Puhuja 2: kaikenlaisia käskyjä ja huutoa aika toimiilta sediltä.
+Puhuja 2: Kyse on siis Erikoisjoukot
+Puhuja 2: ohjelmasta.
+Puhuja 2: Keskustelu on käyty siitä, että Virta skippasi eduskuntatyönsä
+Puhuja 2: istuntokauden
+Puhuja 2: aikana ja lähti tähän tosi-tv ohjelmaan.
+Puhuja 4: Aamuisin ja iltaisin kotona erilaisia purkkeja
+Puhuja 4: Kävin myös erilaisissa hoidoissa suihkaruskatuksen
+Puhuja 4: lisäksi, kuten
+Puhuja 4: kynsisalonkin,
+Puhuja 4: karvanpoistoja
+Puhuja 4: ja niin poispäin.
+Puhuja 4: Onko sinulla jatkunut kauneuden ylläpito tämän podin tekemisen jälkeen?
+Puhuja 4: Etkö sinä
+Puhuja 2: näin? Mutta kuulin, että
+Puhuja 2: meidän
+Puhuja 2: somea audiotiimin
+Puhuja 2: pomo
+Puhuja 2: olisi maksanut sinulle myös botoxin.
+Puhuja 4: Menikö siinä rajaa? Siinä ehkä meni vähän rajaamaan,
+Puhuja 4: koska tämän
+Puhuja 4: Porin yksi idea on se, että
+Puhuja 4: kauneudenhoito ja ulkonäköhän on monille ihmisille täysin arkipäivää.
+Puhuja 4: Ulkonäköä tietenkin jokaisella arkipäivää, mutta myös kauneudenhoito
+Puhuja 4: arkipäivää.
+Puhuja 4: Minähän en ole suhtautunut
+Puhuja 4: siihen kovinkaan sellainen, että tämä olisi minun juttuni.
+Puhuja 4: Nyt unohdin, mitä se kysyy. Botoksista. Him niin Botoksista.
+Puhuja 4: Botoksiin suhtauduin vähän silleen, että onko se vähän toomach, mutta kyllä minulle tehtiin Botox-arvio.
+Puhuja 4: Se oli heti ensimmäisessä hoitolassa.
+Puhuja 4: Kiinnostaako se nyt se botox arvioi ketään muuta kuin muu, mutta semmoista suuri havainto oli musta se, että siinä joutuu todella nopeasti syvään päätyyn, jos lähtee tähän kauneuden
+Puhuja 4: hoitoon. Sieltä tulee nopeasti asiantuntijoilta arviot, että korjaa pa tuota. Entäs tästä?
+Puhuja 4: Siinä voisi aika äkkiä myös sairastua sellaiseen kierteeseen. Nyt olen nyt korjattu tuon, niin entäs mitä seuraavaksi?
+Puhuja 2: Mitä he olisivat sinulta lähteneet korjaamaan? On niin vaikea kuvitella, että mikä ei. Kiitos. Jatkamme
+Puhuja 4: vielä tuota imartelua.
+Puhuja 4: Yläluomet olisi kannattanut kannattanut leikata.
+Puhuja 4: Botoksiakin
+Puhuja 4: suositeltiin, mutta siinä oli
+Puhuja 4: ongelma ilmaista yläluomileikkausta.
+Puhuja 4: Silmäni olisivat jotenkin uppoutuneet
+Puhuja 4: vielä lisää,
+Puhuja 4: jonka jälkeen en olisi ehkä nähnyt,
+Puhuja 4: mikä olisi ollut vähän sellainen.
+Puhuja 4: Niin, mitä se väliä.
+Puhuja 1: Podcasthan sinä kuitenkin teet, mene. Niin.
+Puhuja 2: Mutta tässä naureskellaan.
+Puhuja 2: Mutta tosiasiassahan kysymys on valtavasta bisneksestä
+Puhuja 2: tämä kaikki ja se, että sä menit siihen kurkistamaan, niin sulle varmaan avautui. Mikä sulle tästä bisneksestä
+Puhuja 2: jäi päällimmäisenä
+Puhuja 2: mieleen? Se, että rahaa menee niin paljon kuin
+Puhuja 4: pystyy
+Puhuja 4: kaatumaan.
+Puhuja 4: Joo ja siis joo ja se
+Puhuja 4: vaatii myös pääomaa. Eihän kaikki voi lähteä siihen, koska
+Puhuja 4: suihkiruskitus maksaa seitsemänkymmentä euroa onko se sitten paljon vai vähän, mutta on se kuitenkin seitsemänkymmentä euroa
+Puhuja 4: ja ne kaikki purkit, mitä ostin, niin niihinkin meni melkein kolmesataa. Ne ovat valtavia summia loppupeleissä.
+Puhuja 4: Kyllä minä sitä mietin.
+Puhuja 4: Mutta sitten mietin myös juuri sitä, mitä ehkä jo tuossa sanoin, että kyllähän siihen myös helposti sairastuu.
+Puhuja 4: Jos ensin korjataan luomet ja sitten ehkä jotain piikkiä tuonne,
+Puhuja 4: niin missä menee raja, että
+Puhuja 4: missä lopetat
+Puhuja 4: sen, koska olet
+Puhuja 1: valmis? Et koskaan oikeastaan. Meillähän oli justiinsa Hesarin juttu. En nyt muista päivää enkä myöskään kirjoittaa. Tällä viikolla. Pari päivää sitten.
+Puhuja 1: Nuoresta naisesta, joka
+Puhuja 1: on alkanut käymään otoshoidoissa
+Puhuja 1: siksi,
+Puhuja 1: koska hän kokee, että siitä on hänelle
+Puhuja 1: hyötyä uralla.
+Puhuja 1: Se, että hän on nuori ja kaunis,
+Puhuja 1: avaa ovia. Ja siis se nuoruuden ihannointi hoituu
+Puhuja 1: botoxilla.
+Puhuja 1: Tai tämä vanhenemisen
+Puhuja 1: lykkääminen.
+Puhuja 2: Hän tiedostaa sen, että jossain vaiheessa pitää alkaa ehkä tekemään enemmän kuin tekemään nyt asioita. Olin siis aivan hämmästynyt sen jutun äärellä, koska käsitykseni botoksista oli jotenkin se, että se on
+Puhuja 2: enemmän mun ikäisten
+Puhuja 2: naisten
+Puhuja 2: tai tyyliin kolmekymmentäviisi ja siitä ylöspäin naisten juttu. Tämä haastateltava
+Puhuja 2: tässä
+Puhuja 2: jutussa oli alle 30-vuotias,
+Puhuja 2: Kaisan nimellä ainakin esiintyi tässä.
+Puhuja 2: Sinne on hänen
+Puhuja 2: kuvaansa silleen kunnolla että olisi voinut ikään kuin itse arvioida että
+Puhuja 2: kuinka nuorelta hän sitten tavallaan näyttää.
+Puhuja 2: Mutta jos alle kolmekymppisenä
+Puhuja 2: pitää olla tällaisia, en mä tiedä, nyt mulla tulee taas tää konservatiiv
+Puhuja 2: täältä jostain ryömii,
+Puhuja 2: mutta mitä se tekee mun ikäisenä?
+Puhuja 2: Aletaanko niitä samoja vai pitääkö siirtyä kovempiin aineisiin vai
+Puhuja 4: asiantuntija? Joo. Sanopa, että tässä se asiantuntija. En mä tiedä, olenko asiantuntija, mutta näinhän tässä.
+Puhuja 4: Tämähän on juuri se kysymys, että missä se on se raja sitten? Milloin sä oot valmis? Mitä Kaisa kertoi, että hän käy noin kolme kertaa vuodessa ottamassa botoxia
+Puhuja 2: ja se maksaa viisisataa euroa laaki
+Puhuja 2: eli siis tuhat viisisataa euroa vuodessa.
+Puhuja 2: Jos hän laittaisi sen indeksirahastoihin
+Puhuja 2: tollaisella maltillisellakin
+Puhuja 2: tuotolla, niin se olisi yli kuusikymmentä nolla
+Puhuja 2: kaksikymmentä vuoden
+Puhuja 2: päästä.
+Puhuja 2: Se on vaan mitä mä ajattelisin. Mutta miltähän silloin sitten näyttäisi?
+Puhuja 2: Ehkä se on ollut sen
+Puhuja 2: arvoista.
+Puhuja 2: No miten sun oma suhde, sano vaan. Vaan.
+Puhuja 1: Jos me katsotaan julkiseksi varsinkin jenkeissä, niin kyllähän se näkee
+Puhuja 1: sielläkin,
+Puhuja 1: että nuoremmat näyttelijät
+Puhuja 1: ja nämä
+Puhuja 1: isot julkikset tekevät itselleen
+Puhuja 1: erilaisia operaatioita.
+Puhuja 1: Ja se näkyy myös vanhempien ihmisiin.
+Puhuja 2: Mutta mun mielestä se on ihan hirveän surullista. No kyllä olen sitten jo
+Puhuja 1: samaa mieltä.
+Puhuja 1: Kyllähän tämä trendi alkaa olemaan
+Puhuja 1: ylisukupolvinen
+Puhuja 1: sillä tavalla, että jos siihen on mahdollisuus siellä. Jos on rahaa, ja jos on mahdollisuus tavoitella
+Puhuja 1: ihannoitua nuoruutta, niin kyllähän tämmöisessä
+Puhuja 1: dystopiakirjallisuudessakin
+Puhuja 1: tapahtuu. Siihen
+Puhuja 1: rahaa voidaan syyttää.
+Puhuja 2: Kyllä
+Puhuja 2: miehetkin,
+Puhuja 2: niin kuin tässä on esimerkki,
+Puhuja 2: mutta kyllä mä tästä
+Puhuja 2: naisnäkökulmasta
+Puhuja 2: ajattelen, että tämä on jotenkin tosi surullista kehitystä. Ainakin mulla on semmoinen illuusio, että oli joskus vuosikymmenten
+Puhuja 2: varrella sellainen
+Puhuja 2: vaihe,
+Puhuja 2: että naiseus tai naisena oleminen pystyt käyttämään valtaa ja olla muillakin
+Puhuja 2: tavoin olemassa kuin ulkonäkösi
+Puhuja 2: tai joidenkin äidillisten ominaisuuksiensi
+Puhuja 2: ansiosta,
+Puhuja 2: niin musta tuntuu, että me mennään jotenkin hirveällä vauhdilla takaisin johonkin sellaiseen maailmaan johon ainakaan mä en haluaisi mennä takaisin. Miksi sen nuoruuden ja erityisesti naisissa sen nuoruuden ihannointi
+Puhuja 2: saa tämmöisiä muotoja? Johtuuko se vain siitä, että me pystytään siihen? Että kaikki kehittyy siihen.
+Puhuja 2: Kaikki mitä naamalle voi pistää
+Puhuja 2: tai erilaisia kauneustuotteita.
+Puhuja 2: Kaikki kehittyy niin sitten se vaan kasvaa
+Puhuja 1: ja kasvaa. Kyllähän tämä näkyy vaikka muissakin
+Puhuja 1: ulkonäköihanteissa.
+Puhuja 1: Siitä
+Puhuja 1: sama asia tulee laihuuden ihannoinnissa. Ysärillä se oli tosi makeeta,
+Puhuja 1: tai
+Puhuja 1: mahdollisimman laiha ja lähestulkoon
+Puhuja 1: anorektinen. Sitten kävimme
+Puhuja 1: 2010-luvulla
+Puhuja 1: tämmöisessä, että
+Puhuja 1: kaikki on kauniita
+Puhuja 1: sellaisena kuin he ovat tyyppisessä diskurssissa.
+Puhuja 1: Mutta nyt kun on useampikin ja on mahdollisuus laihtua tosi helposti myös julkisilla.
+Puhuja 2: Kyllähän se näkyy välittömästi tuolla mallissa ja netissä. Se näkyy tässä studiossa viikko ennen kuin aloitettiin podia, niin Marko katseli
+Puhuja 2: tv-ruudulle
+Puhuja 2: ja mietti omiaan harmaantuneita hiuksia.
+Puhuja 2: Mitä sä ajattelet?
+Puhuja 3: Ja sitten Salla kannustiva värjäämään hiukset. En kannusta. Mä sanoin, että jos se häiritsi on
+Puhuja 3: paine.
+Puhuja 3: Eikö se tule juuri sellaisesta?
+Puhuja 4: Meinasin ruveta
+Puhuja 4: selittämään.
+Puhuja 4: Tässähän on sekä kapitalistin likainen käsi tässä kuviossa mukana.
+Puhuja 4: Aina, jos joku löytää jonkun paikan ja tehdä toisaalta rahaa, niin miksipä ei sitä joku keksi. Mutta sitten minä haastattelin podin myös Tampereen yliopiston tutkija Hanna Ojala, joka
+Puhuja 4: sanoi minulle suoraan, että tämä meidän yhteiskunta, jos nyt muistan tämän sivistyssanoin
+Puhuja 4: oikein, oli geronfobinen.
+Puhuja 4: Eli kaikki,
+Puhuja 4: mitä esimerkiksi media, ketkä sitä tekevät, en tiedä, niin
+Puhuja 4: Kaikki
+Puhuja 4: kuva ja mielikuva
+Puhuja 4: vanhoista ihmisistä
+Puhuja 4: on aina negatiivinen.
+Puhuja 4: Kukapa haluaisi olla silloin vanha?
+Puhuja 2: Minun mielestäni harmaasi tunne? Nehän eivät
+Puhuja 3: sitten
+Puhuja 2: Sano nyt vielä muutama sana podista.
+Puhuja 3: Kyllä. Milloin se tulee?
+Puhuja 1: Kun tämä podi tulee ulos, niin se on julki. Niin, se minua kiinnostaisi vielä se ennen kuin mennään tähän törkeään mainostukseen.
+Puhuja 1: Oliko siellä mitään, minkä koit olevasi itsellesi jotenkin hyödyllistä tai parantavan
+Puhuja 1: sinun minäkuvaasi jollain tavalla
+Puhuja 1: siinä kauneudenhoitoasiassa?
+Puhuja 4: No, kaikkein koomisinta oli suihkuruskutus, ja sitten kuitenkin minulle
+Puhuja 4: kaiken hiihtelyn jälkeen, niin se oli positiivinen kokemus.
+Puhuja 4: Voisin ehkä jopa kuvitella
+Puhuja 4: meneväni siihen joskus uudestaan.
+Puhuja 1: Mutta sitten voi tehdä taikka tämmöiset? Minusta
+Puhuja 4: siinä sitten
+Puhuja 4: aamuisin ja iltaisin pitäisi
+Puhuja 4: jotenkin se tuntui vievän liikaa minusta aikaa.
+Puhuja 2: Tuntuuko sinusta, että se ei näkynyt tavallaan tuloksina?
+Puhuja 4: Ehkä jollain tavalla näkyykin, mutta sitten taas toisaalta sitä aikaa meni siihen.
+Puhuja 4: Mä jotenkin
+Puhuja 4: mieluummin aamun sitä, että pesee hampaat ja aja parra ja se riittää. Laitoitko
+Puhuja 2: ylityötunneiksi näin illalla, kun
+Puhuja 4: loraasit rasvoja naamoja? En mä laittanut, mutta täytyy ottaa tämä asia
+Puhuja 2: Mutta siis, pohdin nimi on kaunis mies muistaakseni. Sehän ei olekaan aivan niin, vaan se on kauniimpi mies. Kaunimpi mies. Siinä on tämä kehitysaspekti takana. Kyllä, kyllä. Se on pitkä pohdinnan tulos, että se on juuri kauniimpi Mies se Vepsu on jo ollut kaunis mies ennen tätä, niin se on minusta täällä se loogista. Niin, jossain on sitten se perälauta, että siitä ei enää pysty.
+Puhuja 4: Niin, se viimeinen hard.
+Puhuja 2: Joo, mutta
+Puhuja 2: Hesarin
+Puhuja 2: sovelluksesta löytyy ehkä
+Puhuja 2: jostain muualtakin kuka tietää.
+Puhuja 2: Sitten
+Puhuja 2: kun olette käyneet
+Puhuja 2: suihkurusketuksessa
+Puhuja 2: ja
+Puhuja 2: menneet
+Puhuja 2: Hietaniemen
+Puhuja 2: uimarannalle,
+Puhuja 2: ja laittaneet itsenne
+Puhuja 2: rantaleijonakonaan
+Puhuja 2: ja kävelee ohi
+Puhuja 2: ihmisiä
+Puhuja 2: muutamia tuttuja ja kiinnittää huomiota että ohhoh,
+Puhuja 2: nyt on nyt on upean näköinen
+Puhuja 2: ihminen ja tutulta näyttää ja tulee jutustelemaan
+Puhuja 2: siihen. Mistä alatte
+Puhuja 2: hänelle ja heille kertoa?
+Puhuja 3: No mä voin aloittaa.
+Puhuja 3: Tämä tulee jotenkin ihan sattumaa. Mun
+Puhuja 3: piti
+Puhuja 3: tarkistaa yksi sellainen fakta, enkä mistään löytänyt sitä. Törvasin tällaiseen kirjaan.
+Puhuja 3: Tämä kirjoittaja on Otto Latva ja tämä kertoo yksisarvisten
+Puhuja 3: historia.
+Puhuja 3: Tämä on
+Puhuja 3: yksisarvinen
+Puhuja 3: maailman myyteissä ja tarinoissa.
+Puhuja 3: Löysin vastauksen tähän kysymykseeni, mutta sitten jotenkin jumahdin lukemaan sitä. Se on äärimmäisen kiehtova. Hän on siis tällainen kulttuurihistorioitsija
+Puhuja 3: ja hän kertoo sieltä, missä
+Puhuja 3: yksisarviset esiintyvät ensimmäisen kerran jossain antiikin
+Puhuja 3: kreikkalaisten
+Puhuja 3: kirjoituksissa, jonka olen Intian niemimaalla asui jotain yksisarvisen tapaisia olentoja, jotka paransivat epilepsiaan ja kaikkea muuta.
+Puhuja 3: Sitten hän käy ihan nykypäivään asti, miten sitä on käsitelty Raamatussa ja erilaisissa
+Puhuja 3: tarinoissa. Todella kiehtova tarina. Me tehdään nyt kaiken yksisarvisista.
+Puhuja 2: Eli jos tarvitaan
+Puhuja 3: asiantuntijaa... Kannattaa ehkä yleisö kirje.
+Puhuja 1: Se on. Minulla on vähän vähemmän
+Puhuja 1: mieltä ylentävä, mutta kun nyt tulin Pohjois-Pohjanmaalta
+Puhuja 1: ja eilen
+Puhuja 1: palasin sitten palasin juttukeikaltani
+Puhuja 1: Ouluun, jossa myös vietin yön, niin ehdin
+Puhuja 1: kivasti nähdä
+Puhuja 1: rakastaa ystävääi myöhäisillästa ja syömään hänen kanssaan
+Puhuja 1: oululaisen erikoisuuden eli hampurilaispizzan,
+Puhuja 1: jota en voi suositella kenellekään muuten kuin kerran elämässä kokeiltavaksi,
+Puhuja 1: jonka jälkeen ei enää koskaan tarvitse. Siinä on ranskalaisia,
+Puhuja 1: kebabia,
+Puhuja 1: kanaa,
+Puhuja 1: salaattia,
+Puhuja 1: kurkkua, tomaattia sekä erilaisia kastikkeita pizzan päällä.
+Puhuja 1: Kaloreita on ehkä kuusituhatta... Onko tää siis suositus?
+Puhuja 1: Tää on sellainen, että kannattaa kokeilla kerran.
+Puhuja 2: Okei. Sillä voi
+Puhuja 1: yllättyä omista rajoistaan.
+Puhuja 1: Moikka.
+Puhuja 2: Oonko aikaa. No vepsu?
+Puhuja 4: No tuota en nyt sitä suihkurusketusta
+Puhuja 4: enää suosittele.
+Puhuja 4: Keväällä tuli HBO:lle
+Puhuja 4: sellainen amerikkalainen
+Puhuja 4: lempeäkomedia,
+Puhuja 4: jonka nimi on Roaster.
+Puhuja 4: Siinähän on tietenkin
+Puhuja 4: useampi käsikirjoittaja ja ohjaaja niitä nimiä, nyt ette luettele, mutta pääosassa Steve Kärelle. Sitten siinä on
+Puhuja 4: tietenkin tasekomediaan tyypillisesti useita muita hahmoja,
+Puhuja 4: sijoittuu
+Puhuja 4: amerikkalaiselle yliopistolle. Se on hirveän ihanat ja ihanat hahmot.
+Puhuja 4: Siinä on isä ja tytärtä ja professoria
+Puhuja 4: ja kilvoittelua
+Puhuja 4: yliopiston
+Puhuja 4: johtopaikoista.
+Puhuja 4: Se on tosi ihanaa. Tosi hyvää sanailua,
+Puhuja 4: näppärää, se ei junaa, yö fiilis.
+Puhuja 4: Käsitellään
+Puhuja 2: myös vähän Amerikan jakautuneisuutta. Mulla oli jotenkin vaikeata tällä viikolla. Olen lukenut
+Puhuja 2: amerikkalaisten
+Puhuja 2: viitekehöiden
+Puhuja 2: kirjoja.
+Puhuja 2: Leena Danhamin,
+Puhuja 2: muista tän Girls sarjan luojan Leena Danhamin kirja, jonka nimi mä en nyt valitettavasti muista, mutta sitten mä luin myös Demi Mooren
+Puhuja 2: Läpikotaisin
+Puhuja 2: muistelmat, jo vähän vanhempi teos.
+Puhuja 2: Yritin miettiä, että haluaisinko mä suositella niitä mutta en oikein tiedä kun niistä ei jäänyt hirveästi käteen semmoista, että tämän opin maailmasta.
+Puhuja 2: Tämäkin on ehkä vähän semmoinen
+Puhuja 2: antisuositus
+Puhuja 2: suorastaan, mutta jos haluaa
+Puhuja 2: kuulla semmin
+Puhuja 2: kiinnostavaa läppää Hollywoodista
+Puhuja 2: ja millaista on, kun
+Puhuja 2: päihteitä tulee käytettyä vähän liikaa, niin kannattaa ne lukea
+Puhuja 2: tai olla lukematta.
+Puhuja 2: Mutta ehkä minun oikea suositus on se. Tätäkään ei pitäisi sinänsä suositella,
+Puhuja 2: Tila on pieni
+Puhuja 2: ja voi olla vaikea saada lippuja, jos vaikka kolmekin Porin kuulijaa
+Puhuja 2: päättää lähteä sinne. Käpylässä on stand up klubi,
+Puhuja 2: jonka nimi on naurava sohvi.
+Puhuja 2: Se ei ole siellä joka viikko, mutta jollain frekvenssillä.
+Puhuja 1: Eikä varmaan liity meidän sohviin myöskään?
+Puhuja 2: Ei liity meidän sohviin. Se on
+Puhuja 2: ravintola,
+Puhuja 2: jonka nimi on.
+Puhuja 2: Se oli ennen old solffia niinku vanha sohvi ja nyt se on kaivaa solffia, mutta
+Puhuja 2: siellä on stand up ilta aina silloin tällöin
+Puhuja 2: ja tota siellä on Suomen
+Puhuja 2: ihan eturivinkin
+Puhuja 2: koomikoita. Esimerkiksi viime sunnuntaina Jukka Lindström esiintyi siellä viimeisenä tämmöisenä yllätys
+Puhuja 2: esiintyjänä
+Puhuja 2: ja tota ja ne treenaa siellä juttuja, siis tulevia juttuja. Siellä pitää mennä vähän semmoisella asenteella, että kaikki ei välttämättä vielä ihan totaalisesti
+Puhuja 2: toimi, mutta se on tosi kiva. Se paikka on kiva ja klubi on kiva ja ehkä stand-uppia
+Puhuja 2: ylipäätään kannattaa harrastaa. Se haluaa nauraa.
+Puhuja 2: Siinä kaikki tältä erää. Nyt me päästämme teidät viettämään.
+Puhuja 2: Otetaanko vielä sellainen juhannuskierros? Mitä teette juhannuksena?
+Puhuja 1: Mutta pallot on oikeastaan vielä aika ilmassa. Minulla on vielä jotkut mökikutsu
+Puhuja 1: avoinna ja kaupunkijuhannustakin
+Puhuja 1: minulle
+Puhuja 1: on väläytelty. Tämä on viettää hauskaa sekä saunua ja tehdä laillisia asioita ystävieni kanssa. Sama se missä päin Suomea olen. Iloa, valoa ja hauskuutta,
+Puhuja 2: kuten eräs pääministeri aikanaan sanoi. Itse en tiedä vielä muuta kuin että menen laukaaseen.
+Puhuja 2: Teen siellä sitten jotain.
+Puhuja 2: Seuraavan kerran kuulette minua aja... Otan olla Vepsu mulle, juhannus sinulle. Eikö Vepsui sanonut, että hän menee mökille? Joo, mutta eri mökille kuin Markku. Joo.
+Puhuja 4: Ajattelin sä ostaa sille esimerkiksi kalaa. Siitä tulee valtavan hyvää.
+Puhuja 2: Seuraavan kerran kuulette minua ja Markoa joskus elokuun alussa.
+Puhuja 2: Podi menee kesätauolle,
+Puhuja 2: mutta ei hätää, Johnnia kuulette jo ensi viikolla. Tulee kesätiimi. Haluatko kertoa,
+Puhuja 2: ketä siellä on sun lisäksi? Kesätiimiin meille tulee
+Puhuja 1: seuraavat henkilöt, jotka etsin täältä kännykkelin syövereistä.
+Puhuja 1: Mutta meillähän tulee
+Puhuja 1: siis kerrassaan
+Puhuja 4: nyt siitä puhelivimoista?
+Puhuja 1: En.
+Puhuja 1: Ensinnäkin meille tulee Pihla Saravirta tuolta meidän HS-visiotoimituksestamme.
+Puhuja 1: Sekä tulee some-Jaudel tiimistä
+Puhuja 1: tulee aina iloinen Topi Kosonen.
+Puhuja 1: Sekä nyt jo uutisraportti Legendaksi muodostunut
+Puhuja 1: Tuija Siltamäki.
+Puhuja 2: Nyt on kovaa
+Puhuja 2: settiä.
+Puhuja 1: Ainakin näillä, ehkä myös joillain muilla, mutta näillä menemme eteenpäin. Äänenkuvan
+Puhuja 2: valot, juhannuskoivun tuoksun ja kaiken muun mahtavan meille on tälläkin viikolla
+Puhuja 2: tehnyt
+Puhuja 2: upea henkilö, ja hänen nimensä on Janne
+Puhuja 2: Elkki.
+Puhuja 2: Lähettäkää
+Puhuja 2: palautetta meille ja viettäkää iloinen juhannus!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 1: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -1,170 +1,353 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Uutisraportti-podcastia
-Puhuja 0: Facebook Liveen ja myös HSY. Fi Liveen toukokuun kolmekymmentä.
-Puhuja 0: Ensimmäisenä päivänä kaksituhatta yhdeksäntoista. Minä olen Tuomas Peltomäki
-Puhuja 0: Ja kanssani täällä Helsingissä, Sanomatalossa,
-Puhuja 0: tässä ihanassa pienessä studiossa,
-Puhuja 0: on viikontajun jälkeen yhdessä ihanasti täällä. Politiikan toimittaja Marko Junkkari, terve Marko.
-Puhuja 0: Moi.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
+Puhuja 0: miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastia
+Puhuja 0: Facebook-liveen
+Puhuja 0: ja myös HSY. Fi-liveen toukokuun kolmekymmentä.
+Puhuja 0: Ensimmäisenä päivänä kaksituhatta yhdeksäntoista. Minä olen Tuomas Peltomäki.
+Puhuja 0: Kanssani täällä Helsingissä Sanomatalossa tässä ihanassa pienessä studiossa
+Puhuja 0: on
+Puhuja 0: viikontavun jälkeen yhdessä ihanasti täällä. Politiikan toimittaja Marko Junkkari, terve Marko. No moi.
 Puhuja 0: Ja ulkomaantoimittaja
 Puhuja 0: Aina Frilander.
-Puhuja 1: Hei.
+Puhuja 2: Mutta hei.
 Puhuja 0: Piakkoinen
 Puhuja 0: amerikkalainen Aina Frilander.
 Puhuja 0: Kyllä, juuri näin. Pitäisikö meidän ruveta puhumaan
-Puhuja 1: Takesy Saccen, Hawde Pard. Eiköhän mennä sinne Kaliforniille, se ei ole niin kuin tuo. Jakke miten saa amerikkalaisen
-Puhuja 0: aksentin päälle, näin.
-Puhuja 0: Simpsoneista opettelee matkimaan Stechon äijä ja
-Puhuja 0: se sanoo semmoisen lauseen kuin
-Puhuja 0: minkä englantilainen sanoisi newclear
-Puhuja 0: vi high, we go.
-Puhuja 0: Niin sitten se sanoi: Newclear vi high co!
-Puhuja 1: Silleen saa sen Amerikan aksentin päälle. Kiitos tuosta vinkistä, käytän sitä varmasti tässä lähiviikkoina.
+Puhuja 0: Tax as Accen Hawde Pard.
+Puhuja 2: T. Ex AAAAA
+Puhuja 0: minkä englantilainen sanoisi: Newclear
+Puhuja 0: vi highco,
+Puhuja 0: Vigle.
+Puhuja 0: Niin sitten se sanoo, että Newclear vi highco!
+Puhuja 2: Silleen saa sen Amerikan aksentin päälle. Kiitos tuosta vinkistä. Käytän sitä varmasti tässä lähiviikkoina.
 Puhuja 0: Tämän viikon podcastissa palataan lyhyesti tiiviisti
-Puhuja 0: kiinnostavasti
-Puhuja 0: eurovaalitunnelmiin. Europarlamenttivaalit
+Puhuja 0: poikkeuksellisen kiinnostavasti eurovaalitunnelmiin.
+Puhuja 0: Europarlamenttivaalit
 Puhuja 0: käytiin viime sunnuntaina, joten nyt perjantaina pöly on laskeutunut ja vaikka vaali oli vähemmän kiihkeä kuin ehkä odotettiin,
-Puhuja 0: sen tulokset ovat aiheuttaneet
-Puhuja 0: lainoja myös täällä Suomessa Laura Huhtasaaren antaman hyvin häkellyttävän haastattelun myötä.
-Puhuja 0: Lisäksi puhumme hallitusneuvottelusta
-Puhuja 0: eli viittä Hilkkua vaille pääministeri Antti Rinteen hallitus on muodostumassa ja saanee kahdeksantoista pääisen olomuotonsa ensi viikolla.
+Puhuja 0: sen tulokset ovat aiheuttaneet lainoja myös täällä Suomessa Laura Huhtasaaren antaman hyvin häkellyttävän haastattelun myötä.
+Puhuja 0: Lisäksi
+Puhuja 0: puhumme hallitusneuvottelusta
+Puhuja 0: eli viittä hilkkua vaille pääministeri Antti Rinteen hallitus on muodostumassa ja saanee kahdeksantoista
+Puhuja 0: päisen olomuotonsa ensi viikolla.
 Puhuja 0: Euro parlamenttivaalit
-Puhuja 0: käytiin viime sunnuntaina ja vähän ennakkospekolaatioista
+Puhuja 0: käytiin viime sunnuntaina ja vähän ennakkosektorillaoista
 Puhuja 0: poiketen,
 Puhuja 0: vaikka ne olivat ainakin omalla kohdalla
 Puhuja 0: varsin asiantuntevasti hatusta vedettyjä,
 Puhuja 0: niin oikeistopopulistit
-Puhuja 0: eivät saaneet
-Puhuja 0: läntistä maailmanjärjestystä
+Puhuja 0: eivät saaneet läntistä maailmanjärjestystä
 Puhuja 0: tuhoavaa vaalivoittaa,
-Puhuja 0: vaan itse asiassa vaalien voittajana on
-Puhuja 2: Niitä
-Puhuja 2: harmittaa
-Puhuja 2: siellä
-Puhuja 0: Säätytalossa.
-Puhuja 0: Okei, hyvä.
-Puhuja 0: Oliko meillä
-Puhuja 0: siinä hallitusanalyysit?
-Puhuja 0: Häh.
-Puhuja 1: Ei siinä paljon analyysiä ole. Odottelen. Mutta hei, meillä on annettavaa enempää. Mä oon tosi pahallani tuomatta.
-Puhuja 0: Nyt tulee myrsky ja sitten myrskyn jälkeen on pouta sää ja tulee hellettä ensi viikoksi. Onko se mörköhelle?
-Puhuja 0: Joo, mörköhelle.
+Puhuja 0: vaan itse asiassa vaalien voittajana
+Puhuja 0: on useiden analyysien mukaan pidetty EU:n myönteisiä
+Puhuja 0: puolueita ja vihreittä.
+Puhuja 0: Marko ja Aino, onko mahdollista ihan rehellisesti,
+Puhuja 0: että
+Puhuja 0: demokraattinen ja mediallinen
+Puhuja 0: prosessi
+Puhuja 0: toimi
+Puhuja 0: ja esimerkiksi nämä hälyttävät
+Puhuja 0: IPCC-raportit
+Puhuja 0: ja huoli ympäristön tilasta
+Puhuja 0: heijastui vaalitulokseen?
+Puhuja 2: Jos
+Puhuja 2: ihmiset olisi oikeasti huolestunut tai
+Puhuja 2: antanut niille IPCC:n raporteille ym. Niiden ansaitseman arvon, niin siellä parlamentissa ei pitäisi tavallaan olla ketään muita kuin vihreitä, mutta
+Puhuja 2: olen silti
+Puhuja 2: varovaisen toiveikas
+Puhuja 2: maailman suhteen.
+Puhuja 0: Mitä
+Puhuja 1: Marko?
+Puhuja 1: En osaa sanoa.
+Puhuja 1: Minusta tuo oli
+Puhuja 1: siis... Äänestysprosentti Suomessa ei edes nouse, mutta se oli kuitenkin siis neljäkymmentäkaksi,
+Puhuja 1: joka on tosi
+Puhuja 1: vähän. Ja ehkä se yllätys oli se, että
+Puhuja 1: perussuomalaiset ovat kaikissa vaaleissa
+Puhuja 1: viime vuosina. Aina se on yllättänyt. Mutta nyt se ei yllättänyt. Yllätys oli se, että perussuomalaiset ei... Se teki kumminkin historiaan sen parhaan eurovaalituloksen,
+Puhuja 1: mutta ei se mikään
+Puhuja 1: yllätysvoitto
+Puhuja 1: ollut. Se oli semmoinen... Ja se johtuu siitä...
+Puhuja 1: Eurovaaleissa äänestää
+Puhuja 1: hyvin toimeen tulevat
+Puhuja 1: korkeasti koulutetut
+Puhuja 1: ja se näkyy tuosta tuloksesta. Perussuomalaisten
+Puhuja 2: äänestäjäkunta ei sitten kuitenkaan lähtenyt Uurnille. Kiinnostavaa on kiinnostavaa se, että me ollaan EU-mallioppilaita
+Puhuja 2: muuten, mutta me emme saa äänestettyä. Eikö EU:n keskiarvo
+Puhuja 2: äänestysprosentti ollut jotain viisikymmentä
+Puhuja 2: hoolia, mihin toki vaikuttaa se, että EU saa maita, joissa sakon
+Puhuja 2: uhalla on pakollista äänestää, mutta silti. Maa, Belgia.
+Puhuja 2: Muun muassa.
+Puhuja 1: Jääneet
+Puhuja 1: himaan myös.
+Puhuja 0: Mikä siinä on niin paha? Mä kävin
+Puhuja 2: saman ajatuskulun viisi minuuttia ennen kuin aloitettiin
+Puhuja 2: podcastin nauhoittaminen, niin en edes yritä vastata tähän. Eli tää jää Markolle.
+Puhuja 1: Sehän on ongelmaihminen joka on saanut karkoituspäätökseen
+Puhuja 1: eikä lähde ja jää sitten paperittomana pörräämään tänne. Onhan se potentiaalinen
+Puhuja 1: turvallisuusuhka, ja se ei ylipäätään
+Puhuja 1: mitään terveydenhoitonsa
+Puhuja 1: järjestetään ja näin edespäin. Se ei ole hyvä.
+Puhuja 1: Jotenkin pitäisi tehokkaammin karkottaa ihmisiä, mutta musta tuo panta-homma,
+Puhuja 1: siis
+Puhuja 1: Niin, no sittenhän se
+Puhuja 1: on tavallaan ihan ymmärrettävää, jos vaihtoehto on putkata ja panta ja panta yhteiskunnalle halvempi.
+Puhuja 0: Niin. Ja myös olettaisin, että heille itselleen
+Puhuja 0: mukavampi
+Puhuja 0: pääsee käymään kaupassa ja
+Puhuja 2: tai se ei ole kauhean niin kuin... Jos se turvapaikka-ajatus
+Puhuja 0: ei tarkoita mitään.
+Puhuja 2: Mutta myös se, että niitä tehdään vähän
+Puhuja 2: ilmeisesti heikon perusteita.
+Puhuja 0: Voiko niitä rinnastaa, että ihminen, joka jää tämän, joillakin voi olla oikeasti hyvät syyt jäädä tänne,
+Puhuja 0: mutta siinä tapauksessa ne syyt kyllä pitäisi tulla Migrin
+Puhuja 0: käräjäoikeuden,
+Puhuja 0: hallinto-oikeuden
+Puhuja 0: ja oikeuden
+Puhuja 0: valituslupakierroksen
+Puhuja 0: myötä ilmi.
+Puhuja 0: Jos se pelko on, että nää pannalliset ihmiset, että he on jotenkin syyttömästi,
+Puhuja 0: niihin
+Puhuja 0: pistetään pantajat, niillä oikeasti olisikin
+Puhuja 0: oikeus olla tää, eihän se voi niinkään olla, koska siinä on niin monta astetta,
+Puhuja 1: jotka tarkastelee sitä. Joo, mut mä oon ainoa linjoilla tästä.
+Puhuja 0: Että uusia menoja tulee
+Puhuja 0: yksi pilkku kaksi miljardia.
+Puhuja 0: Leikkauslistoja ei tule... Ja
+Puhuja 1: sekin se yksi pilkku kaksi... Uusia menojahan tulee, en muista onko se neljä vai viisi miljardia, mutta siis
+Puhuja 1: menojen kokonaismäärä kasvaa yhdellä, kahdella. Kyllähän siellä tapahtuu myös sitä, että rahaa siirretään
+Puhuja 1: paikasta A paikkaan B.
+Puhuja 0: En
+Puhuja 1: osaa laskea mun sormi ääntä. Mutta siis yksi pilkku kaksi miljoonaa miljardia on se netto.
+Puhuja 1: Taitaa olla siinä mukana ja sitä valtion omaisuuttahan ollaan kai myymässä jopa kolme miljardilla kanssa kyllä tosi paljon. Okei, ja valtion omaisuuden myyntilistalla, mitä siellä on?
+Puhuja 1: Osakkeita.
+Puhuja 0: Pelkkiä osakkeita. Näin vain. No niin, mutta sehän tarkoittaa esimerkiksi valtionyhtiöiden
+Puhuja 0: omistuksia.
+Puhuja 1: No,
+Puhuja 1: siellä on
+Puhuja 1: Neste, valtiolla iso potti, siellä on kaiken maailman uraninsoa.
+Puhuja 1: Ja laitan muista, onko Telian vielä jonkun verran.
+Puhuja 0: On vissiin ja kyllä osakkeita avaa vain kuinka. Okei. No jos valtio myy nestettä, niin mikä helvetin järki siinä on, jos Neste tekee rahaa?
+Puhuja 1: Niin,
+Puhuja 1: no kai se logiikka lähtee siitä,
+Puhuja 1: että
+Puhuja 1: nyt kun Sipilä toisilleen, että pannaan taseetöihin, mutta
+Puhuja 1: tuottaa osinkoja ja valtio saa siitä tuottoja. Ja tuotto voidaan
+Puhuja 1: käyttää,
+Puhuja 1: paitsi jos ei myydä arvonnousua mitään merkitystä. Tuottoja voidaan käyttää budjetissa. Joo, mutta
+Puhuja 1: miksi valtio... Siis valtion yhtiö aikoinaan on perustettu sen takia, että Kekkonen halusi Kainuuseen yrityksiä ja valtio perusti niitä ja sitten on siitä lähtien omistanut niitä. Mutta jos se on pörssiyhtiö, niin
+Puhuja 1: mikä se lisäarvo on siitä, että omistaja on valtio? Minkä verran
+Puhuja 0: No että on paperia. Sitten kun Venäjä hyökkää,
+Puhuja 2: kaikki nämä tuet
+Puhuja 0: kun Venäjä hyökkää, niin se alle mä jutut.
+Puhuja 0: Miksi sen kattilatehta?
+Puhuja 1: Ajattelu lähtee siitä, että jos
+Puhuja 1: arvioidaan, että tää
+Puhuja 1: omistus tuottaisi
+Puhuja 1: paremmin jossain muussa kohteessa, että jos
+Puhuja 1: Helsinki-Tampereen
+Puhuja 1: rata on yhteiskunnan
+Puhuja 2: nykyajassa,
+Puhuja 2: mutta miksei.
+Puhuja 0: Okei,
+Puhuja 0: ja sitten sanoit, että esimerkiksi
+Puhuja 0: translaki,
+Puhuja 0: että se on vaan tämmöinen, mitä heilutellaan nyt hölmöillä
+Puhuja 1: ja ei pidä paikkaansa? No en siitäkään tiedä.
+Puhuja 1: Sen verran kuulisin sieltä Säätytalolta, että
+Puhuja 1: sekin on jotenkin vielä prosessissa. En tiedä muuttuuko se vielä. Kuka siellä voi vastustaa Translaissa? Se on natsisalsasta
+Puhuja 0: peräisin oleva.
+Puhuja 1: Niin, mutta se mitä uutisoitiin,
+Puhuja 1: ei
+Puhuja 1: ollut yhtä
+Puhuja 1: pitkälle menevää kuin Ruotsissa. Siinähän oli tämä, että säilytään ikäraja
+Puhuja 1: ja siinä säilyi jotain muutakin.
+Puhuja 2: Progressiivisemmaksi.
+Puhuja 0: Okei, anteeksi, en tiedä, mutta luulen, että tämä liittyi vaan tähän lisääntymiskysymykseen,
+Puhuja 0: jossa on siis kyse siitä, että
+Puhuja 0: jos olet ihminen, joka on syntynyt naispuoliseen
+Puhuja 0: vartaloon ja sitten koet olevasi mies, korjaat sukupuolesi mieheksi, niin Suomen laki tällä hetkellä vaatii, että sinut
+Puhuja 0: täytyy steriloida.
+Puhuja 1: Mieltä
+Puhuja 1: sen
+Puhuja 1: vaija. Jos ei tiedetä, mitä tuleva hallitus mahdollisesti aikoo esittää, niin tavallaan on jo miekkareita ollut. Niitä
+Puhuja 1: harmittaa siellä Säätytalossa.
+Puhuja 0: Okei,
+Puhuja 0: hyvä.
+Puhuja 0: Oliko meillä siinä
+Puhuja 0: hallitusanalyysit?
+Puhuja 0: Häh?
+Puhuja 2: Ei siinä paljon analyysiä ole. Odotateltava. Mutta hei, meillä on annettavaa enempää. Mä oon tosi pahoillani huomannut.
+Puhuja 0: Nyt tulee myrsky ja myrskyn jälkeen on pouta sää ja tulee hellettä ensi viikoksi. Onko se mörköhelle?
+Puhuja 0: Joo mörköhelle.
 Puhuja 0: Sitten menette ehkä käymään
-Puhuja 0: beitsillä ensimmäistä kertaa.
-Puhuja 0: Tosin itse olin viime viikolla Espanjassa
-Puhuja 0: beitsilä
-Puhuja 0: kertaa jos toiseenkin.
-Puhuja 0: Ja siellä sitten otatte
-Puhuja 0: Mansikka Dagirin, koska sitä
-Puhuja 0: juodaan beechillä.
+Puhuja 0: beitsilä ekaa kertaa. Aijaa. Tosin itse olin viime viikolla Espanjassa
+Puhuja 0: beetsillä kertaa jos toiseenkin ja siellä sitten otatte
+Puhuja 0: Mansikka Dagirin, koska sitä juodaan beechillä.
 Puhuja 0: Ja sitten ystävillenne,
-Puhuja 0: random muille beetsiläisille ja haluatte kertoa jotain juttuja, niin mitä juttuja heille kerrotte?
-Puhuja 2: Joo, jos kerroin saanko aloittaa.
-Puhuja 2: Sanat. Voisin, tästä
-Puhuja 2: kohkaisin
-Puhuja 2: tälle kaksikolle aikaisemminkin. Mutta minusta oli aivan mahtava juttu tuoreimmassa New Yorkerissa, joka on siis tällä viikolla
-Puhuja 2: ilmestynyt
-Puhuja 2: jalkapallosta.
-Puhuja 2: Jalkapallohan on ehkä tärkein aihe mitä on olemassa. Kyllä.
-Puhuja 2: Olin tästä lukenut, tämä kertoo portugalilainen
-Puhuja 2: mies nimeltään Rui Pinto. Ja siitä on ollut aikaisemminkin juttu ja hän on pyörittänyt Portugalissa
-Puhuja 2: Fut Mor LEX sivustoa, johon
-Puhuja 2: hän itse ilmeisesti tai hänen
-Puhuja 2: kaverinsa tai jotkut ovat hakkeroineet erilaisia
-Puhuja 2: Se alkoi Portugalista ja siellä hakkeroi
-Puhuja 2: Portugalin suurseurojen
-Puhuja 2: sähköposteja sun muuta ja pystyi sieltä saamaan
-Puhuja 2: valtavan määrän
-Puhuja 2: dataa, josta paljastettiin
-Puhuja 2: erilaisia Benfican ja Portugalin suurseurojen
-Puhuja 2: väärinkäytöksiä
-Puhuja 2: ja kaikenlaista muuta. Ja sitten se on lähtenyt leviämään ja tämä sama Portugalinen heppu on nyt paljastanut
-Puhuja 2: kaikista Euroopan suurseuroista. Hänen asioistaan nyt Manchesterday,
-Puhuja 2: saattaa joutua ensi kaudella pannaan mestareiden liikesta, koska ne ovat rikkoneet erilaisia
-Puhuja 2: pelaajasiirtomääräyksiä.
-Puhuja 2: Hän paljasti tämän Ronalddon veronkierron,
-Puhuja 2: hän paljasti Ronalddon
-Puhuja 2: raiskaukseen
-Puhuja 2: Kanadassa. Ja tavallaan yksi heppu ja
-Puhuja 2: tällainen amatöörivoimiin
-Puhuja 2: pyöritetty
-Puhuja 2: vuoto sivusto.
-Puhuja 2: Ja hän siis itse kieltää olevansa minkäännäköinen hakker. Joo, kieltää, vaikka hän on itse asiassa hakker kai hakkeroinut. Tai häntä on aikoinaan epätyödään pankinkin hakkeroinnista.
-Puhuja 2: Mutta ihan huikea tarina, ja sitten tämä heppo
-Puhuja 2: on saanut tappouhkauksia Portugalissa. Hän on asunut monta vuotta Unkarissa Bodapestissä. Ja nyt hänet pidätettiin jokunen viikko sitten. Nyt hän on Portugalissa odottaa oikeudenkäyntiä. Hän on
-Puhuja 2: osalle
-Puhuja 2: valtava sankari ja osalle
-Puhuja 2: tavallaan maanpetturi, joka on paljastanut asioita Portug välisestä suurseurasta. Ihan huikea tarina. Sun suosittelun
+Puhuja 0: random muille beetsiläisille
+Puhuja 0: ja haluatte kertoa jotain juttuja, niin mitä juttuja heille kerrotte?
+Puhuja 1: Joo, jos
+Puhuja 1: kerroin saanko aloittaa. Saat. Minä voisin, minä tästä kohkaisin jo
+Puhuja 1: tälle kaksikolle aikaisemminkin, mutta minusta oli aivan mahtava juttu tuoreemmassa New Yorkerrissa, joka on siis tällä viikolla ilmestynyt
+Puhuja 1: jalkapallosta.
+Puhuja 1: Jalkapallohan on ehkä tärkein aihe mitä on olemassa. Kyllä.
+Puhuja 1: Olin tästä lukenut tai kertoo portugalilainen
+Puhuja 1: mies nimeltä Rui Pinto. Ja siitä on ollut aikaisemminkin juttu. Ja hän on pyörittänyt Portugalissa tällaista
+Puhuja 1: Futwal Leags sivustoa, johon hän itse
+Puhuja 1: ilmeisesti tai hänen kaverinsa tai jotkut ovat hakkeroineet
+Puhuja 1: erilaisia... Se alkoi Portugalista ja he siellä hakkeroi Portugalin
+Puhuja 1: suurseurojen
+Puhuja 1: sähköposteja sun muuta ja pystyi sieltä saamaan valtava määrän
+Puhuja 1: dataa, mistä paljastettiin
+Puhuja 1: erilaisia Benfican ja
+Puhuja 1: Portugalin suurseurojen
+Puhuja 1: väärinkäytöksiä
+Puhuja 1: ja kaikenlaista muuta. Sitten se on lähtenyt leviämään.
+Puhuja 1: Tämä sama Portugalinen heppu on paljastanut
+Puhuja 1: kaikista Euroopan suurseuroista. Hänen ansiostaan nyt Manchesterday City saattaa joutua ensi kaudella pannaan
+Puhuja 1: mestareidenikasta, koska ne ovat rikkoneet erilaisia
+Puhuja 1: pelaajasiirtomääräyksiä.
+Puhuja 1: Hän paljasti
+Puhuja 1: tämän Ronald Don veronkierron,
+Puhuja 1: hän paljasti Ronald Don raiskaukseen
+Puhuja 1: Kanadassa.
+Puhuja 1: Ja tavallaan yksi heppu ja tällainen
+Puhuja 1: amatöörivoimin pyöritetty
+Puhuja 1: vuotosivusto.
+Puhuja 0: Ja hän siis itse kieltää olevansa minkäännäköinen
+Puhuja 1: hakker? Joo, kieltää, vaikka hän on itse asiassa kai hakkeroinut.
+Puhuja 1: Tai häntä on aikoinaan epätyörän pankinkin hakkeroinnista.
+Puhuja 1: Mutta
+Puhuja 1: ihan huikea tarina. Ja sitä heppo on saanut tappouhkauksia
+Puhuja 1: Portugalissa. Hän on asunut monta vuotta Unkarissa, Vodapestissä.
+Puhuja 1: Ja nyt hänet pidätettiin jokunen viikko sitten. Nyt hän on Portugalissa odottaa oikeudenkäyntiä. Hän on
+Puhuja 1: osalle valtava sankari ja osalle tavallaan
+Puhuja 1: maanpetturi, joka on paljastanut asioita Portugalaisesta
+Puhuja 1: suurseurasta.
+Puhuja 1: Ihan huikea tarina. Sun suosittelun
 Puhuja 0: myötä
-Puhuja 0: aloin lukea tätä ja epäasialia puolelle veljeä. Oli siis todella huikea tarina.
-Puhuja 0: How Football legs is exposing corption in European sucker?
+Puhuja 0: aloin lukea tätä ja pääsee puoli velje. Oli todella huikea tarina.
+Puhuja 0: How football legs is exposen Corption in European sucker?
 Puhuja 0: Kirjoitta
-Puhuja 0: tietää,
-Puhuja 2: että ammattilaisen jalkapallo on täynnä kaikenlaista kuproa, mutta jotenkin
-Puhuja 2: tuo kokoluokka on niin järkyttävän, että
-Puhuja 2: Ne kaikin mahdollisin tavoin kiertää näitä
-Puhuja 2: erilaisia hataria
-Puhuja 2: sääntöjä, mitä
-Puhuja 0: liikat on näiden joukkueiden määrä. Ja pilaa ehkä kauneinmma asia, jonka ihmiskulttuuri on synnyttänyt.
-Puhuja 2: Ja hän myös paljasti sen, että nämä eurooppalaiset suurseurat miettivät, että tuo mestareiden liika eikä loppu-ottelu on itse asiassa huomannut. Niin. Se suljettaisi. Herra jumalta. Eli sinne pääsis vain nämä isot. No niin,
-Puhuja 0: onpa järkyttävä.
-Puhuja 0: Kauheaa.
-Puhuja 0: No niin. Mutta kiitos Rui Pintole
-Puhuja 0: kaikista tästä
-Puhuja 2: hakkiruo. Kerkuja vaan sinne putkaan.
-Puhuja 2: Hei, mä haluan puikata tähän väliin,
+Puhuja 1: tietää, että ammattilaisjalkapallo
+Puhuja 1: on täynnä kaikenlaista kuproa, mutta jotenkin tuo kokoluokka on niin järkyttävä kuin kaikki. Joo, ja se on kuitenkin
+Puhuja 1: Ne kaikin mahdollisin tavoin kiertää näitä
+Puhuja 1: erilaisia hataria
+Puhuja 1: sääntöjä, mitä
+Puhuja 0: näiden liikat on näille joukkueiden määrä. Ja pilaa ehkä kauneinmma asia, minkä ihmiskulttuuri on synnyttänyt.
+Puhuja 1: Ja hän myös paljasti sen, että nämä eurooppalaiset suurseurat miettivät, että tuo mestareiden liike eikä loppuottelu on itse asiassa huomenki. Niin. Se suljettaisiin.
+Puhuja 1: Herran jumalat. Elikkä sinne pääsisi vain nämä isot.
+Puhuja 0: Onpa
+Puhuja 0: järkyttävä. Kauheeta.
+Puhuja 0: No niin. Mutta kiitos Rui Pintalle kaikesta
+Puhuja 0: tästä.
+Puhuja 1: Hakkeroita
+Puhuja 1: vaan sinne putkaan.
+Puhuja 0: Hei, mä haluan puikata tähän väliin,
 Puhuja 0: koska mulla on hyvin rönsyilevä
 Puhuja 0: suosittelu, mutta mä suosittelen
-Puhuja 0: appia nimeltä. Ai niin. Se nimi on noloa, mä en ymmärrä miksi ne on nimen apinista tälleen, mutta siis Fat secret.
-Puhuja 0: Ja se on siis tällainen kalorilaskuri.
-Puhuja 0: Ja siinä on siis semmoinen tausta,
-Puhuja 0: että Siis suosittelen,
-Puhuja 0: että ihmiset lataa sen äpin tai minkä tahansa muun kalarilaskuri
-Puhuja 0: äpin. En missään nimessä aio ikinä verottaa. No niin, kuuntele, kuuntele nyt.
+Puhuja 0: appia
+Puhuja 2: nimeltä. Mä
+Puhuja 0: en ymmärrä, miksi ne on nimen äppinsa tälleen, mutta siis Fat secret.
+Puhuja 0: Ja se on siis tällainen siis kalarilaskuri.
+Puhuja 0: Ja siinä on siis sellainen
+Puhuja 0: tausta, että... Siis suosittelen,
+Puhuja 0: että ihmiset lataa sen appin tai minkä tahansa muun kalarilaskuriapin.
+Puhuja 2: En missään nimessä aio ikinä termiä. Kuuntele, kuuntele
+Puhuja 0: nyt.
 Puhuja 0: Huomasin, että olen ruvennut lihomaan.
-Puhuja 0: Miehet huomaa sen
+Puhuja 0: Miehet
+Puhuja 0: huomaa sen
 Puhuja 0: mahastaan
 Puhuja 0: ja siitä, että hei nämä enää omaa penistään.
-Puhuja 1: Älä kerro
+Puhuja 2: Älä kerro
 Puhuja 0: mulla on
-Puhuja 0: suvussa sydänvika ja näin. Sitten vähän oli semmoinen, että just Koska minun reaktio oli ollut aina tismalleen sama kuin sulla, ainoa, mikä on luonnollinen ja ymmärrettävä reaktio, että en varmana rupea mihinkään tuollaiseen, että se on aivan mielisairasta.
-Puhuja 0: Mutta sitten pistin tämän apin.
-Puhuja 0: Ja vain kaksi viikkoa, kaksi viikkoa
-Puhuja 0: pakollinen,
+Puhuja 0: suvussa sydänvika ja näin. Sitten vähän oli semmoinen, että just, koska mun reaktio oli ollut aina tismalleen sama kuin sulla, aina, mikä on luonnollinen ja ymmärrettävä reaktio, että en varmana rupea mihinkään tuollaiseen, että se on aivan mielisairasta.
+Puhuja 0: Apin.
+Puhuja 0: Ja
+Puhuja 0: vain
+Puhuja 0: kaksi viikkoa,
+Puhuja 0: kaksi viikkoa pakollinen,
 Puhuja 0: viikko riittää.
-Puhuja 0: Tehkää viikko seuratkaa sen avulla, mitä te syötte. Se on hyvin yksinkertaista. Syöt näkkileivän, niin sitten kirjoitat sinne näkkileipä, niin se hakee Finelin
+Puhuja 0: Tehkää viikko seuratkaa sen avulla, mitä te syötte. Se on hyvin yksinkertaista. Syöt
+Puhuja 0: Syöt näkkileivän, niin sitten sä kirjoitat näkkileipä,
+Puhuja 0: niin se hakee Finelin
 Puhuja 0: suomalaisesta
 Puhuja 0: Data basesta
-Puhuja 0: tiedon, että oliko se vaan näkkileipää ja yksi pala, no sitten näin ja ok, se on tosi yksinkertaista. Voit myös laittaa sinne, että jauhelihakeitto,
+Puhuja 0: tiedon, että oliko se Vaasan näkkileipää, yksi pala, näin ja sitten ok. Se on tosi yksinkertaista.
+Puhuja 0: Voit myös laittaa sinne, että jauhelihakeitto,
 Puhuja 0: niin sitten siellä on valmiina geneerinen jauhelihakeitto
-Puhuja 0: ja sen tiedot ja näin ja blaaplaaplaa. Näin. Sitten se näyttää,
+Puhuja 0: ja sen tiedot ja näin ja plaaplaap... Näin. Sitten se näyttää,
 Puhuja 0: teet sitä kaksi viikkoa. Sitten näet, että mitä
-Puhuja 0: syöt, mitä siellä on. Ja kuten esimerkiksi minun
-Puhuja 0: tapauksessa, että siitä ravinnosta, mitä saan,
+Puhuja 0: syöt, mitä siellä on. Ja kuten esimerkiksi minun tapauksessa, että siitä ravinnosta, mitä saan,
 Puhuja 0: puolet on rasvaa.
 Puhuja 0: Puolet kaikesta, mitä syön, on rasvaa.
 Puhuja 0: Se on ihan järkyttävä tieto.
-Puhuja 0: Kahden viikon vaivalla helpolla appilla
+Puhuja 0: Kahden viikon vaivalla helpolla äpillä
 Puhuja 0: saatoin
 Puhuja 0: selville ja sitten pystyt lähtemään
 Puhuja 0: tähtää siihen, että elät yli 42-vuotiaaksi.
-Puhuja 1: Mun ravinnosta yhdeksänkymmentä prosenttia voileipiä,
-Puhuja 1: Kyse on siis Guudienin jutusta. Tämä on tavallaan arkkitehtuurijuttu.
-Puhuja 1: Tämä on osa tätä, kun mä tutustuin mun uusiin kaliiinalaisiin
-Puhuja 1: naapureihin näin etukäteen.
-Puhuja 1: Tämä kertoo Forens Fhang nimisestä
-Puhuja 1: eläkeläisnäisestä,
-Puhuja 1: joka elää hyvin eksklusiivisessa naapuristossa San Francisco on lähellä
-Puhuja 1: ja hän on nyt joutunut pulaan,
-Puhuja 1: kun naapurit on sitä mieltä, että hänen
-Puhuja 1: ländscapeing,
-Puhuja 1: tällainen pihakoristeet
-Puhuja 1: sun muut ei ole ihan ok, koska se on se ihan tajuton Kiviset ja soraset-teemainen
-Puhuja 1: kiinteistö.
-Puhuja 1: Ilmeisesti siis hän on ostanut talon, jossa on aika voimakas
-Puhuja 1: Kiviset ja soraset-lokki
-Puhuja 1: ollut jo alun perin, mutta
-Puhuja 1: hän on vienyt sen erittäin paljon pidemmälle sillä tavalla,
-Puhuja 1: että siellä pihalla on valtavia kiviset ja soraset hahmoja ja viisi metrisiä dinosauruksia ja sitten siellä pihalla lukee kivistä Jabbadabada ja kaikkea muuta.
-Puhuja 0: Okei, siinä kaikki tältä viikolta. Kiitos Aino Frilander. Kiitos. Kiitos Marko Junkkari. Kiitos, Tuomas. Leikkauksen äänen meille tekee
-Puhuja 0: Janne Elkkiä Podcastin tuottaa minä. Minun nimeni on Tuomas Peltomäki.
-Puhuja 0: Kuullaan taas ensi viikolla.
+Puhuja 2: Mun ravinnosta yhdeksänkymmentä prosenttia voileipiä,
+Puhuja 2: Kyse on siis
+Puhuja 2: Guidienin jutusta. Tämä on tavallaan arkkitehtuurijuttu.
+Puhuja 2: Tämä on osa tätä, kun mä tutustuin mun uusiin Kalifornialaisiin
+Puhuja 2: naapureihin näin etukäteen.
+Puhuja 2: Tämä kertoo Forens Fhang nimisestä
+Puhuja 2: eläkeläisnäisestä,
+Puhuja 2: joka elää
+Puhuja 2: hyvin eksklusiivisessa
+Puhuja 2: naapuristossa San Francisco on lähellä
+Puhuja 2: ja hän on nyt joutunut pulaan, kun
+Puhuja 2: naapurit on sitä mieltä, että hänen
+Puhuja 2: ländskaping
+Puhuja 2: pihakoristeet
+Puhuja 2: sun muut ei ole ihan ok, koska se on se ihan tajuton Kiviset ja soraset-teemainen
+Puhuja 2: kiinteistö.
+Puhuja 2: Ilmeisesti siis hän on ostanut tällaisen talon, jossa on aika voimakas
+Puhuja 2: Kiviset ja soraset-lokki
+Puhuja 2: ollut jo alun perin, mutta hän on vienyt sen erittäin paljon pidemmälle sillä tavalla, että siellä pihalla on valtavia kivisiä sorasel hahmoja ja viisi metrisiä dinosauruksia ja pihalla lukee kivistä Jabba dabba dab do du ja kaikkea muuta. Hän
+Puhuja 2: katsoi Flingstonesia ja
+Puhuja 0: Okei, siinä kaikki tältä viikolta. Kiitos Aino Frilander. Kiitos. Kiitos Marko Junkkari. Kiitos Tuomas. Leikkauksen äänen meille tekee Janne Elkkiä Podcastin tuottaa minä. Minun nimeni on Tuomas Peltomäki.
+Puhuja 0: Kuullaan taas ensi
+Puhuja 1: viikolla.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen hämähäkinverkkoonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

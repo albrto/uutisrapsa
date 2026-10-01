@@ -1,107 +1,343 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiyönkaan Inkolopodastin toinen kausi on kuunneltavissa Helsingin Sanomien sovelluksessa
-Puhuja 0: sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan Karinkoloon.
-Puhuja 0: Helsingin Sanomat.
-Puhuja 1: Hei vain ja tervetuloa Helsingin Sanomat ja Uisraportti-podcastin
-Puhuja 1: pariin. Tänään on Helteisen heinäkuun kuusitoista. Päivä ja olemme toteuttamassa
-Puhuja 1: toimittajien lain fiblistä käyttäytymistä täällä Klovissa sijaitsevassa Helsingin Sanomien podcast-studiossa.
-Puhuja 1: Minä olen tämän podcastin kesäinen Host John Helin, ja tänään seurassani on kesäistäkin kesäisempi HSvision
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin
+Puhuja 2: Sanomat
+Puhuja 1: Hei vain! Ja tervetuloa Helsingin Sanomat ja USP raportti podcastin pariin. Tänään on Helteisen heinäkuun kuusitoista.
+Puhuja 1: Ja olemme toteuttamassa
+Puhuja 1: toimittajien lajiyypillistä käyttäytymistä täällä Klovissa sijaitsevassa Helsingin Sanomien podcast-studiossa.
+Puhuja 1: Minä olen tämän podcastin kesäinen Host John Helin, ja tänään seurassani on kesäistäkin kesäisempi
+Puhuja 1: HS-vision
 Puhuja 1: taloustoimittaja
-Puhuja 1: Pihla Saravirta.
+Puhuja 1: Pihla Saravirtaa.
 Puhuja 1: Tervetuloa.
-Puhuja 1: Kiitos. Mikä on
-Puhuja 1: kesän taloudellisin
-Puhuja 1: asia, jota olet tehnyt? En tiedä mikä tämä on sanonut.
-Puhuja 2: No enpä osaa sanoa.
+Puhuja 1: Kiitos. Mikä
+Puhuja 1: on kesän taloudellisin
+Puhuja 1: asia, jota olet tehnyt?
+Puhuja 1: En tiedä, mikä on kyse sanonut, no
+Puhuja 2: enpä osaa sanoa.
 Puhuja 2: Tällä viikolla minullahan on ollut rasvanyrkkivuoro.
 Puhuja 2: Ystävällisemmin
 Puhuja 1: rasvis tuolla visiossa. Taikka Edward rasvakäsi niin kuin kutsun sinua. Kyllä.
+Puhuja 2: Kyllä.
 Puhuja 2: Tarkoituksena siis tällä viikolla on ollut tehdä vähän tällaista nopeampaa uutista.
-Puhuja 2: Hiljainen talousviikko sanoisin.
-Puhuja 1: Tilanne semmoinen normaali katastrofi. Joo, normaali katastrofi. Joo, normaali katastrofi. No niin, hienoa. Sen lisäksi meillä on täällä
-Puhuja 1: some ja audiotoimituksen
-Puhuja 1: Topi Kosunen. Topi, mikä on kesäisin audio, jonka olet kuullut tänä vuonna?
-Puhuja 3: Varmaan ystäväni
-Puhuja 3: Leevin mökillä Keuruulla.
-Puhuja 3: Oi joi, kaikki keskisuomalaiset tappa, mutta sanoin
+Puhuja 2: Hiljainen talous viikko sanoisin. Elikkä siis
+Puhuja 1: tilanne semmoinen normaali katastrofh. Joo, normaali katastrofh. No niin, hienoa. Sen lisäksi meillä on täällä
+Puhuja 1: some ja
+Puhuja 1: audiotoimituksen Topi Kosunen. Topi, mikä on kesäisin audio, jonka olet kuullut tänä vuonna? Varmaan
+Puhuja 3: ystäväni
+Puhuja 3: Leevin mökillä Keuruulla...
+Puhuja 3: Oi joi, kaikki keskisuomalaiset tappaa, mutta nyt kun sanoin Keuruulla,
 Puhuja 3: Keuruulla.
-Puhuja 3: Siellä
-Puhuja 3: aamuyöllä
+Puhuja 3: Siellä aamuyöllä
 Puhuja 3: sade, kun oltiin uimassa.
-Puhuja 1: Sellainen kaunis. Joo. Lippottelu
-Puhuja 1: ja SMR-henkinen.
-Puhuja 1: Olen päässyt aikaisemmissa vaaleissa
-Puhuja 1: aika helpoinkin luvuin läpi sieltä. Eli se todellinen pelko
-Puhuja 1: vaalihävimisestä
+Puhuja 1: Sellainen kaunis.
+Puhuja 1: Pipottelu ja Alas SM-henkinen.
+Puhuja 3: Just semmoinen lempeä, lämmin,
+Puhuja 3: vähän kovempi kuin tihku, joka osuu sinne,
+Puhuja 3: nyt pilasit John aivan täysin.
+Puhuja 3: Mutta yritän rakentaa tämmöistä kaunista keskisuomalaista
+Puhuja 3: Keuruulaista maisemaa.
+Puhuja 3: Ja nyt teet tuollaisia. Erinomaista. Hyvä.
+Puhuja 1: Tällä kerralla puhumme uutisraportissa
+Puhuja 1: Suvilahdessa
+Puhuja 1: busseille tarkoitetun tien tieltä jyrettävästä skeitti Puistosta, jota vapaaehtoiset ovat rakentaneet omin pienintäsin jo vuosien ajan. Kenelle kaupunkitila kuuluu ja kuuluuko se busseille tai Mikko Leppilammin jäissä olevalle areenalle ja montako areenaa Suomi edes oikeastaan tarvitsee?
+Puhuja 1: Sitä mukana puimassa meillä on some-audiotiimin
+Puhuja 1: Emilia Deady Nochis.
+Puhuja 2: No, helloo,
+Puhuja 1: ihana olla täällä. Hyvä. Sen jälkeen
+Puhuja 1: keskustelemme historian keskiluokkaisemmasta
+Puhuja 1: asiasta eli asumisesta ja sen hinnasta.
+Puhuja 1: Kuka haluaa edes ostaa asunnon, onko meikämilelialilla
+Puhuja 1: varaa siihen ja valitsisiko toki mieluummin pakuelämän tai Hongkongilaisen arkkuasunnon kuin kaksi on punavuoressa?
+Puhuja 1: Siinä puhumme tänään.
+Puhuja 1: Ja lopuksi
+Puhuja 1: puhumme Britanniassa jälleen käynnissä olevasta poliittisesta hullumyllystä, jossa laitat oikeasta
+Puhuja 1: sen Reform-puolueen
+Puhuja 1: puheenjohtaja Nydel Forage, käy poliittista kamppailua roskista vastaan. Galluppien mukaan roskis on farakiat suositu suosituimpia, mutta voiko roskis voittaa Ja mistä
+Puhuja 1: tässä somessa viihdyttävässä roskispalossa on oikeastaan kysymys?
+Puhuja 1: Siitäkin puhumme lopuksi.
+Puhuja 1: Ja aivan viimeiseksi:
+Puhuja 1: Käymme läpi
+Puhuja 1: keskustelun aiheita
+Puhuja 1: epämiellyttävien hiljaisuuksien
+Puhuja 1: varalle.
+Puhuja 1: Pitkien epämiellyttävien hiljaisuuksien varalle ennen kuin joku valittaa mun sähköpostin jälleenrajasta.
+Puhuja 1: Ja sitten voimme mennä
+Puhuja 1: alkuintro.
+Puhuja 1: Ennen kuin siirrymme oikeisiin aiheisiin aluksi ilmoituksia kansalle oikaisun muodossa.
+Puhuja 1: Armoitettu journalisti
+Puhuja 1: Tuija Siltamäki on jakanut tässä puheohjelmassa viime viikolla väärää tietoa ja lähtenyt tämän tapauksen aiheuttaman syvän häpeän johdosta maanpakon Ivitsalle.
+Puhuja 1: Tuija väitti viime jaksossa, että
+Puhuja 1: 1970-luvulla
+Puhuja 1: nuorison mahdollisuuksia valita tulevaisuutensa ja potia
+Puhuja 1: identiteettikriisejä
+Puhuja 1: vaikutti myös se, ettei sillä ollut opintotukijärjestelmää.
+Puhuja 1: Asia on jossain määrin virheellisesti
+Puhuja 1: ilmaistu. Opintolainoja ryhdyttiin myöntämään 1960-luvun
+Puhuja 1: lopussa ja 1970-luvun
+Puhuja 1: alussa käyttöön otettiin opintoraha.
+Puhuja 1: Tuolloin opintorahaa kuitenkin myönnettiin hakemusten perusteella hyvin pienelle joukolle opiskelijoita.
+Puhuja 1: Oikeampi muotoilu olisi ollut
+Puhuja 1: se, ettei nykyisen kaltaista opintotukijärjestelmää
+Puhuja 1: ollut tuolloin olemassa
+Puhuja 1: paino tällä nykyisen kaltaisella.
+Puhuja 1: Uutisraportti pahoittelee tapahtunutta
+Puhuja 1: ja toivoo, että on päivänpolitiikkaan
+Puhuja 1: isoihin puolueisiin pettyneiden äänestäen puolue ollut erityisesti. Mutta nämä saatiinehdokkaat
+Puhuja 1: on
+Puhuja 1: toinen puoli
+Puhuja 1: ollut ihmisille, jotka ovat olleet pettyneitä
+Puhuja 1: politiikkaan, että heidän roolinsa
+Puhuja 1: on ollut
+Puhuja 1: kritisoida näitä valtarakenteita,
+Puhuja 1: vaaleja ja pakottaa sitten juuri joitain ilmiöitä näkyviin
+Puhuja 1: siellä vaaleissa. Miten tämä on mahdollista?
+Puhuja 1: Se
+Puhuja 1: tässä johtuu Brittien vaalijärjestelmästä
+Puhuja 1: eli siinä missä
+Puhuja 1: meillä astaa vaalilistat
+Puhuja 1: ja se siis kaikki tämmöinen.
+Puhuja 1: Ja vaalien tulos julkistetaan
+Puhuja 1: Yleisradiossa.
+Puhuja 1: Voimme kaikki yhdessä kokoontua perheen kanssa radion ääreen kuuntelemaan,
+Puhuja 1: kun Arvi Linde lukee tuloksen,
+Puhuja 1: niin Briteissä
+Puhuja 1: paikallisvaalien tulokset, kun
+Puhuja 1: siellä kaikki valitaan, niin kuin omasta vaalipiiristään
+Puhuja 1: tulee aina joku voittaja,
+Puhuja 1: niin voittaja julkistetaan tämmöisessä tapahtumassa
+Puhuja 1: vaali-iltana.
+Puhuja 1: Kaikki nämä ehdokkaat kutsutaan lavalle vaali-iltana ja heille kerrotaan, kuinka monta prosenttia äänistä he ovat saaneet ja se eniten ääniä on saanut
+Puhuja 1: yksinkertaisesti voittaa sen.
+Puhuja 1: Ja
+Puhuja 1: tämä vaalijärjestelmä
+Puhuja 1: mahdollistaa sen, että tällaiset huumeehdokkaat voi asettua vaikka pääministerin
+Puhuja 1: kanssa samassa vaalipiirissä ehdolle. Ja kun siellä on kuitenkin median edustajia paikalla,
+Puhuja 1: niin he saavat ikään kuin ilmaista näkyvyyttä itselleen, jos me ollaan rivissä jonkun
+Puhuja 1: konservatiivivipuolueen
+Puhuja 1: tai laborin
+Puhuja 2: ison, ison hefen kanssa. Mitä he tekevät sillä näkyvyydellä?
+Puhuja 1: Esimerkiksi
+Puhuja 1: kampanjoi
+Puhuja 1: poliittisten aatteiden puolesta, kuten tämä
+Puhuja 1: kettumies
+Puhuja 1: teki
+Puhuja 1: tai
+Puhuja 1: yleisesti kritisoi politiikkaa, niin kuin tämä
+Puhuja 1: ehkä
+Puhuja 1: roskismies
+Puhuja 1: nyt tekee.
+Puhuja 2: Ymmärtääkseni roskismies
+Puhuja 2: on ollut useita vuosia jo. Hän ei ole todellakaan uusi. Kaksituhatta yhdeksäntoista lähtien tällä hahmo. Hän on asettunut ehdolle useissa vaaleissa ja on ollut Boris Johnsonia ja Risysunakea vastaan
+Puhuja 2: ja Lontoon pormestarivaaleissa.
+Puhuja 2: Hän saikin silloin
+Puhuja 2: joku
+Puhuja 2: kaksikymmentäneljä
+Puhuja 2: nolla ääntä Lontoon pormestarivaaleissa
+Puhuja 2: pari vuotta taaksepäin.
+Puhuja 2: Vähän tämä äänestetään. Tähän on ilmeisen suosittu kuitenkin.
+Puhuja 2: Kyllä mun mielestä on ehkä vähän onnettomaksi
+Puhuja 2: mennyt, jos
+Puhuja 2: roskapönttökin
+Puhuja 2: on joidenkin mielestä parempi vaihtoehto,
+Puhuja 2: kaksikymmentäneljä nolla ihmisen mielestä.
+Puhuja 2: Mutta toisaalta eihän tämä Farkekaan ilmeisesti ole kummoinen kilpailija.
+Puhuja 2: Ilmeisesti
+Puhuja 2: hän on melko korruptoitunut ja pitää, kuten minäkin, henkilökohtaisten
+Puhuja 2: lahjojen vastaanotosta.
+Puhuja 2: Ilmeisesti hänen summat ei ole todellakaan seitsemänkymmentäneljä pilkku yhdeksän, vaan hän on ottanut jotain kryptomiljoona ääntä
+Puhuja 2: viisi miljoonan kunnan henkilökohtaisen
+Puhuja 2: lahjan, just sopivasti ennen kuin hän asettui ehdolle parlamenttiin kaksituhatta
+Puhuja 2: kaksikymmentäneljä.
+Puhuja 1: Oliko tässä jotain muutakin outoa? Mielestäni tässä on ollut muitakin lahjoitusasioita
+Puhuja 1: ja tähän liittyen For' on käsittääkseni sanonut, että
+Puhuja 1: eihän tämä vaikuta millään tavalla minun tekemääni
+Puhuja 1: päätöksentekoon ja olen täysin riippumaton.
+Puhuja 1: Mikä on tietty asia, mitä poliitikot aina sanoo.
+Puhuja 1: Mutta mikäli minulle annettaisiin viisi miljoonaa puntaa, eli siis lähes kuusi miljoonaa euroa, niin kyllä se saattaisi vaikuttaa
+Puhuja 1: politiikkaan, mitä teen jollain tavalla.
+Puhuja 1: Kyllä
+Puhuja 1: meitä voi nostaa käden ylös virheen merkiksi ja sanoa, että
+Puhuja 1: kyllä mä varmaan olisin ainakin vähän lahjoittavissa.
+Puhuja 3: Onko tässä
+Puhuja 3: vaalien alla tai
+Puhuja 3: kun ne on tässä nyt menossa,
+Puhuja 3: niin
+Puhuja 3: onko mahdollista,
+Puhuja 3: että on Binfae vastaan Farach debaatti?
+Puhuja 1: No kyllä ainakin toivon.
+Puhuja 1: Se olisi upeaa.
+Puhuja 1: Tässähän on myös kyse siitä, että
+Puhuja 1: nämä muut puolueet eivät ole halunneet asettaa omia ehdokkaitaan tänne, mikä on jättänyt mediatilan
+Puhuja 1: ikään kuin auki,
+Puhuja 1: auki roskismiehelle. Tämä taas johtuu siitä, että kaikkien muiden mielestä tämä on äärimmäisen typeräleikki, mitä
+Puhuja 1: Farucch tässä tekee.
+Puhuja 1: Parlamenttiin
+Puhuja 1: aloitti tämän tutkinnon, mutta se tutkinto pitää keskeyttää,
+Puhuja 1: mikäli
+Puhuja 1: edustaja eroaa tehtävästä.
+Puhuja 1: Tässä on koko
+Puhuja 1: 400-viisisataavuotisen
+Puhuja 1: parlamentarismin
+Puhuja 1: järjestelmä, jossa Forei ei oikeastaan voinut erota tehtävästään, vaan hänet piti nimittää rooliin,
+Puhuja 1: jossa ollessaan hän ei voi toimia kansanedustajan tehtävä. Tämä
+Puhuja 1: on ihme himmeli se, kun asiat on
+Puhuja 1: joskus pyörinyt varhaismodernista ajasta eteenpäin.
+Puhuja 1: Kun he erosivat,
+Puhuja 1: niin tutkinta pitää keskeyttää.
+Puhuja 1: Mutta jos hän pääsee takaisin vaaleilla sisään, niin se tutkinto saa jatkua. Eli tämä ei oikeastaan vaikuta mihinkään.
+Puhuja 1: Mutta Farale yrittää tällä
+Puhuja 1: käsittääkseni, tämä on minun
+Puhuja 1: ymmärrys, ikään kuin freimata sellaiseksi, että tästä korruptiosta huolimatta,
+Puhuja 1: taikka tutkinnasta huolimatta, anteeksi, minulla on äänestäjien tuki tyyliseksi
+Puhuja 1: vaaliksi, johon nämä muut puolueet eivät halua
+Puhuja 1: lähteä mukaan.
+Puhuja 1: Ja nämä muut puolueet
+Puhuja 1: on nähnyt sen, että Foresage on yrittänyt rakentaa tästä sellaista, että tässä on tämä poliittinen
+Puhuja 1: järjestelmä. Vähän tämä Trump-tyylinen,
+Puhuja 1: tässä on tämä deep state ja olemassa
+Puhuja 1: olevat poliitikot
+Puhuja 1: ja järjestelmä, joita vastaan minä nyt tässä taistelen. Ja hän vähän niinkuin yritti lähteä näihin vaaleihin
+Puhuja 1: tällaisella meiningillä.
+Puhuja 1: Että okei,
+Puhuja 1: no saatan saada rahaa, mutta hei, tässä murretaan tätä vanhojen puolueiden valtaa. Eiköhän ollut muuten jotenkin myös Trumpin
+Puhuja 1: lähipiirissä? Joo, on joo. Nämä
+Puhuja 1: erilaiset populistipuolueet
+Puhuja 1: Euroopassa sekä maailmalla.
+Puhuja 1: Mutta
+Puhuja 1: muut puolueet totesivat, että
+Puhuja 1: kilpailevat roskista vastaan, joka vie
+Puhuja 1: se ilman pois
+Puhuja 1: Farkevaalikampanjasta
+Puhuja 1: siinä, että sen sijaan, että pääsisi sanomaan, että katsokaa, tässä on konservatiivit ja työväenpuolue, jotka ovat hallinneet Britanniaa ikuisesti,
+Puhuja 1: minä olen vaihtoehto,
+Puhuja 1: niin sitten
+Puhuja 1: hän on tuolla se
+Puhuja 1: poliitikko, johon valtaa ja rahaa vs. Roskis mielessä,
+Puhuja 1: mikä tekee siitä
+Puhuja 1: mielenkiintoisen asetelman.
+Puhuja 1: Se
+Puhuja 1: herättää
+Puhuja 1: huvittuneisuutta
+Puhuja 1: myös sosiaalisessa mediassa aika paljon.
+Puhuja 1: Tässä itse asiassa
+Puhuja 1: vielä parempaa on se, että osa
+Puhuja 1: esimerkiksi laborin isoista lahjoittajista on uhannut lahjoittataa
+Puhuja 1: tämän roskismiehen kampanjaan
+Puhuja 1: merkitty rahaa. Tästä on tullut
+Puhuja 1: tämmöinen yleisbrittiläinen
+Puhuja 1: anti-faragiikampanja
+Puhuja 1: tämän
+Puhuja 1: ympärille. Koska kyllähän tämä on täysi farssi.
+Puhuja 1: Miettikää, kun meillä joku
+Puhuja 1: Jussi Halla-aho joutuis
+Puhuja 1: käymään keskustelemaan taikka Riikka Purra joutuisi
+Puhuja 1: olemaan lavalla
+Puhuja 1: proskiksen.
+Puhuja 2: Aika. Voi ei,
+Puhuja 2: toi on kyllä paha.
+Puhuja 3: Etkö sä sanonut alussa niitä prosentteja,
+Puhuja 1: että... Kyllä joo. Eli kaikesta briteistä kolmekymmentäkolme prosenttia äänestäisi roskismies. Just näin, joo. Ja kolmekymmentäkaksi prosenttia ei äänestäisi kumpaakaan ja vain kaksikymmentäneljä prosenttia äänestäisi
+Puhuja 1: Fargia.
+Puhuja 2: Mutta mitä tapahtuu, jos hänet oikeasti valitaan?
+Puhuja 2: Onko se mahdollista?
+Puhuja 1: Tavallaan se on mahdollista, mutta nämä on koko Britannia äänestyslukuja.
+Puhuja 1: Eli Clacton itsessään taas on aika vanhaa ja
+Puhuja 1: tosi arvokonservatiivista
+Puhuja 1: aluetta. Eli todennäköisyys
+Puhuja 1: siihen, että
+Puhuja 1: kreivi Roskis naama oikeasti voittaisi nämä vaalit,
+Puhuja 1: on aika matalat.
+Puhuja 1: Mutta jos sä voittaisi, niin sitten John Harvi
+Puhuja 1: varmaan ryhtyi Collectorin
+Puhuja 1: edustajaksi.
+Puhuja 3: Farire on kyllä varmastikin laskenut
+Puhuja 3: sen puolesta,
+Puhuja 3: että
+Puhuja 3: hän voittaa
+Puhuja 3: tuon alueen niin.
+Puhuja 1: Joo, kyllä. Hän on käsittääkseni päässyt aikaisemmissa vaaleissa
+Puhuja 1: aika helpoinkin lukujen läpi sieltä. Eli se todellinen pelko
+Puhuja 1: vaaleanhäviämisestä
 Puhuja 1: ei ole niin suuri,
-Puhuja 1: mutta ehkä se mielenkiintoinen osuus tässä juuri on se, että kuinka hyvin Foreige pystyy mobilisoimaan
-Puhuja 1: äänestäjänsa, jos hän ei pysty hyökkäämään
-Puhuja 1: valtapuolueita vastaan. Siellä on
+Puhuja 1: mutta ehkä se mielenkiintoinen osuus tässä juuri on se, että kuinka hyvin Foreige pystyy mobilisoimaan äänestäjään, jos hän ei pysty hyökkäämään
+Puhuja 1: näitä valtapuolueita vastaan. Siellä on
 Puhuja 1: joku ihme roskis,
-Puhuja 1: joka kuitenkin häviää ne vaalit henkisesti.
-Puhuja 1: Mä tiedän, mitä mä ryhdyin tekemään ja sitten, kun joskus poistui Helsingin Sanomien
-Puhuja 1: palveluksessa.
-Puhuja 2: No,
-Puhuja 1: mä ryhdyn roskismieheksi.
-Puhuja 1: Niin no joo, se olisi tietty
-Puhuja 1: omanlaisensa poliittinen satiiri
-Puhuja 1: tai kommentaaria.
-Puhuja 1: Täytyy
-Puhuja 1: keskustella vessanpöntön kanssa.
-Puhuja 3: Tai sitten mä pukeudun, en mä tiedä lokiksi. Hei lokki olisi hyvä. Mulla tuli vielä, unohdin äsken, mutta nyt mulla tuli, että: Oletteko Faral
+Puhuja 1: joka kuitenkin häviää ne vaalithenkisesti.
+Puhuja 1: Mä tiedän, mitä mä ryhdyn tekemään, kun joskus poistui Helsingin Sanomien
+Puhuja 1: palveluksesta.
+Puhuja 1: Mä
+Puhuja 3: ryhdyn
+Puhuja 3: roskismieksi
+Puhuja 1: siihen.
+Puhuja 1: Omanlaisensa poliittinen satiiri
+Puhuja 1: tai kommentaaria, että sitten täytyy keskustella vessanpöntön kanssa.
+Puhuja 1: Tai sitten pukeudun, en tiedä, lokiksi. Hei lokki olisi hyvä.
+Puhuja 3: Unohdin äsken. Oletteko Farach
 Puhuja 3: sitä, että nämä muut puolueet laittaisi ehdokkaansa sinne? Kyllä. Niin, että se voisi tavallaan
-Puhuja 3: nimenomaan näyttää, että hei eikö se ollut se pointti, että hän haluaa näyttää, että äänestäjät on hänen puolellaan? Joo, kyllä.
-Puhuja 3: Mutta niin selkeästi tosiaan oletti, että kaikki nämä labyrght sun muut on siellä
-Puhuja 3: rivissä myös, mutta se sai roskiksen.
-Puhuja 1: Mutta hän sai roskikseen. Suomessa tulee
-Puhuja 1: blokkihelin.
-Puhuja 1: Jep, paitsi että minun täytyisi mennä todennäköisesti jonkun puolueen listoilta
-Puhuja 1: tai jonkun kymmenen nolla:n
-Puhuja 1: kansalaisten hankkimalla ehdokkaana
-Puhuja 1: versus sen sijaan, tai
-Puhuja 1: En tiedä. Tarkastaan tämä jo sellainen, mutta
-Puhuja 1: se
-Puhuja 1: brittien systeemihän siis toimii sillain, että jos maksat pistää puntaa
+Puhuja 3: nimenomaan näyttää,
+Puhuja 3: että eikö se ollut se pointti, että hän haluaa näyttää, että äänestäjät on hänen puolellaan alla.
+Puhuja 3: Niin,
+Puhuja 3: hyvissä
+Puhuja 3: myös. Mutta se sai roskiksen.
+Puhuja 1: Mutta hän sai roskiksen. Suomessa tulee
+Puhuja 3: blokkihelin.
+Puhuja 1: Jep. Paitsi, että minun täytyisi mennä todennäköisesti jonkun puoluelistoilta
+Puhuja 1: tai tällaisena
+Puhuja 1: jonkun kymmenen nolla:n kansalaisten hankkiman
+Puhuja 1: ehdokkaana versus sen sijaan, tai tuhannen:n muistaakseni.
+Puhuja 1: Onko se viisituhatta?
+Puhuja 1: Tarkkaistaan
+Puhuja 1: brittien systeemihän siis toimii sillain, että jos maksat viistaa puntaa
 Puhuja 1: ja sulla on kymmenen tukijaa, jotka allekirjoittaa
-Puhuja 1: lappun nimensä, niin voit asettua edes. Laitetaan kolehti kiertämään tämä. Just tää.
-Puhuja 1: Kyllähän sulla on uutisrobotti-podcastin
-Puhuja 3: yleisö on ehkä sun puolella tässä. Kyllä.
-Puhuja 1: Lumataan ensin Suomen ja Savonlinna,
-Puhuja 1: jonka jälkeen voin asettua ehdolle
+Puhuja 1: nimensä,
+Puhuja 1: niin voit asettua. Laitetaan kolehti kiertämään tämä. Just tämä.
+Puhuja 3: Kyllähän sulla
+Puhuja 3: uutisrobotti-podcastin yleisö on ehkä sinun puolella tästä. En tiedä,
+Puhuja 1: kyllä. Lopataan ensin Suomeen Savonlinnan järjestelmä, jonka
+Puhuja 1: jälkeen
+Puhuja 1: voin asettua ehdolle
 Puhuja 1: lokki tai
 Puhuja 1: vessanpönttöpuussa.
 Puhuja 3: Muutos lähtee meistä.
-Puhuja 1: Kyllä, kyllä on muutospuolue.
+Puhuja 1: Kyllä, kyllä. Muutospuolue.
 Puhuja 1: Ei vitsi, se on jo olemassa.
-Puhuja 1: Sitten, kun te siellä puhutte
-Puhuja 1: Mikko Leppilammen
-Puhuja 1: Areenahankkeen
+Puhuja 1: Sitten, kun
+Puhuja 1: siellä puhutte
+Puhuja 1: Mikko Leppilammen Areena-hankkeen
 Puhuja 1: lehtereillä,
-Puhuja 1: Tasmoilla
-Puhuja 1: lehtereillä.
-Puhuja 1: Koskismiehen kanssa asuntokaupoista
-Puhuja 1: ja se keskustelu loppuu. Ja tulee pitkä
-Puhuja 1: epämiellyttävä
-Puhuja 1: hiljaisuus, niin mistä te ryhdytte puhumaan kreivi Roskisaamalle?
+Puhuja 1: Taas me olemme
+Puhuja 1: lehtereillä. Koskismiehen kanssa asuntokaupoista
+Puhuja 1: ja se
+Puhuja 1: keskustelu loppuu. Ja tulee pitkä
+Puhuja 1: epämiellyttävä hiljaisuus.
+Puhuja 1: Mistä te ryhdytte puhumaan Reivi Roskisnauralle?
 Puhuja 2: Pihla.
 Puhuja 2: Olen menossa tänään itse asiassa leikkimään.
 Puhuja 2: Suosittelen kreiviäkin
 Puhuja 2: harrastamaan tämmöistä leikkiä.
-Puhuja 2: Muistatteko ehkä, viime vuonna oli Helsinginillakin juttua tästä tämmöisestä leikkiklubista?
-Puhuja 3: Kyllä! Mä oon miettinyt pitkään tässä. Niin on menossa tänään leikkimään siihen
-Puhuja 2: leikkiklubiin.
-Puhuja 2: He järjestää siis tämmöinen Meneekö muuten vapaa vai eikö juttua? En tee juttua. Menee ihan vapaa-ajalla sinne. Ootko käynyt aika silleen? En ole käynyt, jos en osaa. En tiedä voiko tätä vielä suositella,
+Puhuja 2: Mutta muistatteko, ehkä viime vuonna oli Helsingin Sanomistakin juttua tämmöisestä leikkiklubista?
+Puhuja 2: Kyllä! Mä oon miettinyt pitkään tässä. Niin on menossa tänään leikkimään
+Puhuja 2: siihen leikkiklubiin.
+Puhuja 2: He järjestää siis tämmöinen... Miksei muuten vapaa vai eikö juttua? En tee juttua. Menee ihan vapaa-ajalla sinne. Ootko käynyt aikaisemmin? En ole käynyt, jos en osaa. En tiedä voiko tätä vielä suositella,
 Puhuja 2: mutta
-Puhuja 2: he järjestää tällaisia
-Puhuja 2: aikuisille leikkejä, kuten kirkonrottaa.
+Puhuja 2: he järjestää tällaisia aikuisille leikkejä, kuten kirkonrottaa.
 Puhuja 2: Onkohan siellä
 Puhuja 2: jotain hippaa?
-Puhuja 2: Mitähän
-Puhuja 2: näitä on tervapataan?
-Puhuja 2: Heitän ihan hatusta, mutta he järjestää tämmöisiä hauskoja pihapelejä, mitä lapsena pelattiin.
+Puhuja 2: Mitähän näitä on tervapapataan?
+Puhuja 2: Heitän ihan hatusta. Mutta he järjestävät tämmöisiä hauskoja pihapelejä, mitä lapsena pelattiin.
 Puhuja 2: Tänään on teemana
 Puhuja 2: olympialaiset, niin menen
 Puhuja 2: olympialaisiin sinne
@@ -109,52 +345,58 @@ Puhuja 2: leikkimään.
 Puhuja 2: He voisivat ehkä myös lähteä kokeilemaan tämmöistä
 Puhuja 2: leikkimielisyyttä.
 Puhuja 2: Se ei ehkä ole roskis päältä ongelma.
-Puhuja 1: Tiedätkö vielä mitä leikkejä olympiatimaan kuuluu? En.
-Puhuja 3: Ymmärrän. Topi. Se selviää tänään. Me kuullaan ehkä sitten myöhemmin. Ehkä myöhemmin ensi viikon.
+Puhuja 1: Tiedätkökö vielä mitä leikkejä olympiatimaan
+Puhuja 3: kuuluu? En.
+Puhuja 3: Ymmärrän. Topi, se selviää tänään. Ja me kuullaan ehkä sitten myöhemmin. Ehkä myöhemmin, ensi viikon.
 Puhuja 3: Mulla tulee nyt
 Puhuja 3: vähän sama levy pyörii,
-Puhuja 3: verrattuna viime viikkoon, koska mulla on taas New Timeesin podcast. Mutta tämä on yksittäinen jakso tällä kertaa, niin koettakaa kestää. Helsingin Sanomat tekee nykyään kaupallista yhteistyötä.
-Puhuja 1: Mutta
-Puhuja 3: siis
-Puhuja 3: tässä on myös nyt ajankohtainen pointti Nimittäin huomennahan
-Puhuja 3: tulee sellainen iso kesän suurin blockbaster-elokuva
+Puhuja 3: verrattuna viime viikkoon, koska mulla on taas New Timeesin podcast. Mutta tämä on yksittäinen jakso tällä kertaa, niin ottakaa kestää. Helsingin Sanomat tekee nykyään kaupallista yhteistä.
+Puhuja 1: New Timesin kanssa.
+Puhuja 3: Mä oon kuunnellut Dayliä pidempään
+Puhuja 3: Mutta
+Puhuja 3: siis tässä on myös nyt ajankohtainen
+Puhuja 3: pointti Nimittäin huomennahan tulee sellainen iso kesän suurin blockbaster-elokuva
 Puhuja 3: nimeltään Odys Say, Christoffer Nollain
-Puhuja 3: Se ensi-ilta on itseasiassa huomenna. Kyllä. Ja sen ympärillä on ollut, vaikka ei, mitä keskustelua.
+Puhuja 3: Se ensi-ilta on itseasiassa huomenna.
+Puhuja 3: Kyllä. Ja sen ympärillä on ollut vaikka ja mitä keskustelua.
 Puhuja 3: Keskustelu on ollut muun muassa siitä,
-Puhuja 3: että onko tämä
+Puhuja 3: että
+Puhuja 3: onko tämä
 Puhuja 3: tyhmennetty Hollywood versio
 Puhuja 3: tuhansia vuosia vanhasta
 Puhuja 3: upeasta
-Puhuja 3: sadusta.
-Puhuja 3: Kunnioittaako tämä nolla:n
+Puhuja 3: sadusta?
+Puhuja 3: Kunnioittaako tämä Nollinin
 Puhuja 3: leffa tarpeeksi
 Puhuja 3: alkuperäisteosta?
 Puhuja 3: Tässä Podi-jaksossa keskusteli
-Puhuja 3: Daily-toimittajan
-Puhuja 3: kanssa
-Puhuja 3: lisäksi Emili Willsson, joka on kääntänyt englanniksi Odisseja-teoksen.
-Puhuja 3: Se on törkeännös, mitä Noulankin on käyttänyt tässä
-Puhuja 3: elokuvaa tehdessä. Hän oli siellä keskustelemassa ja sitten tämmöinen Madeleine Miller, joka on kirjoittanut omia teoksiaan näistä odissojen hahmoista ja sun muuta. Eli kaksi tämmöistä ihanan
-Puhuja 3: Niin jotenkin oli ihana kuunnella keskustelua siitä, miten perillä ollaan yhdestä teoksesta.
+Puhuja 3: Deilin toimittajan kanssa
+Puhuja 3: lisäksi Emily Wihelsson, joka on kääntänyt englanniksi Odisseja-teoksen.
+Puhuja 3: Se on niin kuin törkeännös, mitä Noulankin on käyttänyt tässä
+Puhuja 3: elokuvaa tehdessä. Hän oli siellä keskustelemassa ja sitten tämmöinen Madeleine Miller, joka on kirjoittanut omia teoksia näistä Odissojen hahmoista ja sun muuta. Eli kaksi ihanan,
+Puhuja 3: niin jotenkin oli ihana kuunnella keskustelua siitä, miten perillä ollaan yhdestä teoksesta,
 Puhuja 3: Tollaisesta tuhansia vuotta
 Puhuja 3: vanhasta
-Puhuja 3: teoksesta, jossa kuitenkin ne oli löytäneet uusia kulmia. Sitten se keskustelu oli mun mielestä, siinä käytiin nämä kysymykset myös läpi. Siinä puhuttiin myös paljon siitä, miksi tämä on jotenkin relevantti
-Puhuja 3: teos edelleen, mutta sitten myös tästä nollanin
+Puhuja 3: teoksesta, jossa kuitenkin ne olivat löytäneet uusia kulmia. Siinä
+Puhuja 3: käytiin nämä kysymykset myös läpi. Siinä puhuttiin myös paljon siitä, miksi tämä on jotenkin relevantti
+Puhuja 3: teos edelleen. Mutta sitten myös tästä nollanin
 Puhuja 3: leffasta.
-Puhuja 3: Mun mielestä se oli hyvä alustus,
-Puhuja 3: jos leffa kiinnostaa ja keskustelu on seurannut tai sitten on vaan ihan täysin pihalla. Se on hyvä pohjustus tälle, jos ja kun saatatte leffaa mennä katsomaan. Itse kyllä aion ihan mennä myös sen katsomaan, koska kiinnostaa,
-Puhuja 3: mitä sen olla. Nyt tosiaan on
-Puhuja 3: tuosta teoksesta vääntänyt.
+Puhuja 3: Mun mielestä se oli hyvä
+Puhuja 3: alustus, jos leffa kiinnostaa ja keskustelu on seurannut tai sitten on vaan ihan täysin pihalla.
+Puhuja 3: Se on hyvä pohjustus tälle, jos ja kun saatatte leffaa mennä katsomaan. Itse aion mennä myös sen katsomaan, joka kiinnostaa,
+Puhuja 3: mitä sen ollen. Nyt tosiaan
+Puhuja 3: on tuosta teoksesta vääntänyt.
 Puhuja 3: Pohjustukseksi
-Puhuja 3: Daily jakso, jonka nimi Ootas, kaivan, sen. Sen nimi on otsikolla What's epic about the Odysy everything.
-Puhuja 3: Ja lupaan suositella ensi kerralla jotain muuta kuin Newk Timesin tuotteita.
-Puhuja 1: Käsittääkseni itse käännös, jonka pohjalta se on tehty, on
-Puhuja 1: siis myös herättänyt aika paljon
-Puhuja 1: kritiikkiä.
-Puhuja 1: Ei ehkä asiallista kritiikkiä, mutta siinä saattaa vaikuttaa myös se, että se on ensimmäinen
+Puhuja 3: Daily jakso, jonka nimi Ootas, kaivan, kaivan sen. Sen nimi on otsikolla
+Puhuja 3: What's epic about the Odys say everything.
+Puhuja 3: Ja mä lupaan suositella ensi kerroilla jotain muuta kuin Newk Timesin tuotteita.
+Puhuja 1: Käsittääkseni itse käännös, jonka pohjalta se on tehty, on tehty tämä Effa on siis myös herättänyt aika paljon kritiikkiä. Niin kyllä.
+Puhuja 1: Kritiikkiä.
+Puhuja 1: Ei ehkä asiallista kritiikkiä.
+Puhuja 1: Siihen saattaa vaikuttaa myös, että se on ensimmäinen
 Puhuja 3: englanninkielinen
 Puhuja 3: käännös, jonka on kääntänyt täysin nainen.
-Puhuja 3: En ole itse asiassa perehtynyt
+Puhuja 1: En ole perehtynyt
 Puhuja 3: tähän käännöskritiikkiin,
 Puhuja 3: mutta
 Puhuja 3: nyt tein oletuksia, että siihen saattaisi vaikuttaa se. En tiedä.
@@ -162,59 +404,84 @@ Puhuja 3: Mutta silti suosittelen tämän keskustelun, koska siellä oli tosi hy
 Puhuja 1: on
 Puhuja 1: liittynyt siihen, että aikaisemmat on ehkä ollut
 Puhuja 1: arkaisempia
-Puhuja 1: tai hyvin
-Puhuja 1: vakavasti käännetty, mikä ei ole aina välttämättä reflektoinut sen tekstin todellista luonnetta.
-Puhuja 3: Niin, en ole vähän perehtynyt.
-Puhuja 3: Mutta
-Puhuja 1: Mulla on vielä tämmöinen vakavampi suositus tähän loppuun. Tein tällaisen jutun
+Puhuja 1: tai
+Puhuja 1: hyvin vakavasti käännettyjä, mikä ei ole aina välttämättä reflektoinut tekstin
+Puhuja 1: todellista luonnetta.
+Puhuja 3: Niin, en mä ymmärtänyt. En ole tähän perehtynyt.
+Puhuja 3: Mutta käykää katsomassa vaikka se leffakin. En tiedä, se voi olla ihan hyvä.
+Puhuja 1: Mulla on vielä vakavampi suositus tähän loppuun. Tein tällaisen
+Puhuja 1: jutun
 Puhuja 1: Ukrainasta Suomeen Planesta Jarnosta, joka oli siis taistellut Ukrainassa vuoden ajan ja on nyt
-Puhuja 1: Suomessa palannut Suomeen ja hän kärsii PTSD:stä.
-Puhuja 1: Ja siis tässä artikkelissa
+Puhuja 1: Suomessa
+Puhuja 1: palannut Suomeen ja hän kärsii PTSD:stä. Ja siis tässä artikkelissa
 Puhuja 1: hyvä artikkeli, kirjoitin sen itse,
 Puhuja 1: mutta viittaan siinä
-Puhuja 1: Sebastian Junger-nimisen sotajournalistin
-Puhuja 1: kirjaan,
-Puhuja 1: Tribe.
+Puhuja 1: Sebastian Junger-nimisen sotajournistin kirjaan kuin Tribe.
 Puhuja 1: Junger
 Puhuja 1: on siis viettänyt pitkiä aikoja Irakissa ja Afganistanissa
 Puhuja 1: yhdysvaltalaissotilaiden
-Puhuja 3: kanssa. Ja
-Puhuja 1: siis tietty ystävystyi heidän kanssaan, mutta pääsi myös seuraamaan heidän kotiinpaluutaan
-Puhuja 1: ja integroitumista
-Puhuja 1: tai myös yhdysvaltalaiseen yhteiskuntaan.
+Puhuja 1: kanssa.
+Puhuja 1: Ja siis tietty ystävys siellä heidän kanssaan, mutta pääsi myös seuraamaan heidän kotiinpaluutaan
+Puhuja 1: ja siihen integroitumista
+Puhuja 1: takaisin yhdysvaltalaiseen yhteiskuntaan.
 Puhuja 1: Tämä kirja kertoo pohjimmiltaan siitä, että
 Puhuja 1: sota ja kriiseissä
 Puhuja 1: koetut
-Puhuja 1: yhteisöt, kun ne pirstaloituvat,
-Puhuja 1: palaa kotiin sellaiseen yhteiskuntaan,
-Puhuja 1: jossa
-Puhuja 1: ei ole
-Puhuja 1: sitä samaa yhteiskunnallista
-Puhuja 1: ymmärrystä siitä, että
-Puhuja 1: mitä se sota on ollut ja
+Puhuja 1: yhteisöt pirstaloituvat,
+Puhuja 1: kun palaa kotiin semmoiseen yhteiskuntaan, jossa
+Puhuja 1: ei ole sitä samaa
+Puhuja 1: yhteiskunnallista
+Puhuja 1: ymmärrystä
+Puhuja 1: siitä, että mitä se sota on ollut ja
 Puhuja 1: ne kokemukset vähän niin kuin,
 Puhuja 1: kukaan ei ymmärrä sua
-Puhuja 1: ja kokemuksia siinä päivittäisessä elämässä, niin
-Puhuja 1: se ruokkii näitä traumoja. Hän käy
-Puhuja 1: läpi sekä
-Puhuja 1: tuttuja sieltä
+Puhuja 1: ja sun kokemuksia siinä sun päivittäisessä elämässä, niin se
+Puhuja 1: ruokkii näitä traumoja. Hän käy sitten läpi näitä sekä
+Puhuja 1: tuttujaan sieltä
 Puhuja 1: sodista,
-Puhuja 1: että siinä viitataan myös näissä Jugoslavian hajoamissa sodissa esimerkiksi
+Puhuja 1: että myös siinä viitataan
+Puhuja 1: näissä Jugoslavian
+Puhuja 1: hajoamissa sodissa esimerkiksi
 Puhuja 1: Sareivon piirityksessä
 Puhuja 1: syntyneisiin
 Puhuja 1: nuorten ihmisten yhteisöihin.
-Puhuja 1: Siis kriisi kaikkeen tällaiseen, se on
-Puhuja 1: osittain journalistinen teos ehkä ja sitten osittain tällaista konfliktiantropologiaa.
-Puhuja 1: Se on tosi mielenkiintoinen, se on julkaistu vuonna kaksituhatta kuusitoista. Mä olen pitänyt siitä aina kovin,
-Puhuja 1: mutta voin nyt suositella sitä tässä, kun koko
-Puhuja 1: pääsin viittaamaan
+Puhuja 1: Siis kaikkeen tällaiseen, se on
+Puhuja 1: osittain journalistinen teos ehkä ja sitten
+Puhuja 1: konfliktiantropologiaa.
+Puhuja 1: Se on tosi mielenkiintoinen, se on julkaistu vuonna kaksituhatta kuusitoista. Olen pitänyt siitä aina kovin,
+Puhuja 1: mutta voin nyt suositella sitä tässä,
+Puhuja 1: kun pääsin viittaamaan
 Puhuja 1: siihen artikkelissani
 Puhuja 1: Erinomainen suositus!
 Puhuja 1: Näihin
 Puhuja 1: synkeisiin tunnelmiin
-Puhuja 1: jätämme teidät tällä kertaa. Tämä oli Uutisapat podcast. Kiitos Topi! Kiitos!
-Puhuja 1: Kiitos Pihla! Kiitos!
+Puhuja 1: jätämme teidät tällä kertaa. Tämä oli Uutiselbert-podcast.
+Puhuja 1: Kiitos Topi! Kiitos! Kiitos Pihla! Kiitos!
 Puhuja 1: Ja kiitos myös tekniikan puolella vaikuttanut
 Puhuja 1: Jonne Piltonen!
-Puhuja 1: Me palaamme jälleen
-Puhuja 1: Ensi viikon.
+Puhuja 1: Me palaamme
+Puhuja 1: jälleen Ensi viikon.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast, menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

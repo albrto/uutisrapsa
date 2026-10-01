@@ -1,0 +1,445 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat
+Puhuja 0: Hei! Tervetuloa Helsingin Sanomien Uutisaportti-podcast
+Puhuja 0: torstaina seitsemän.
+Puhuja 0: Toukokuuta
+Puhuja 0: vuonna
+Puhuja 0: kaksikymmentä! Mun nimi on Tuomas Peltolamäki ja kanssani täällä erilaisten
+Puhuja 0: applikaatiosoftien
+Puhuja 0: ja
+Puhuja 0: amerikkalaisten servereiden kautta kulkevan bittivirran ihmeellisessä
+Puhuja 0: taikamaailmassa
+Puhuja 0: on Helsingin Sanomien
+Puhuja 0: politiikan toimittaja Marko Junkkari. Hei Marko!
+Puhuja 0: Moi!
+Puhuja 0: Kiva nähdä näin melkein kahviviikon tauon jälkeen!
+Puhuja 3: Näin on, sä et viime viikolla ollut mukana!
+Puhuja 0: Oli ihana edes sun lomalla.
+Puhuja 0: Mitä sä teit? Meni aivan mahtavasti. Kävin isoisäni Esa Peltomäki, joka oli Kihniön kunnan suurmiehiä. Hän kuoli
+Puhuja 0: vuodenvaihteen. En tiedä noilla en muista edes tarkkaan milloin.
+Puhuja 0: Sitten häneltä jää jonkun verran metsiä ja sellaisia, niin kävin katsomassa näitä metsiä.
+Puhuja 0: Eli se olet metsänomistaja?
+Puhuja 0: Mä en ole, koska
+Puhuja 0: ne on vielä
+Puhuja 0: kuolinpesällä.
+Puhuja 0: Mä tunnen mun tätejä, niin he ovat sen verran viitaista porukkaa, että se kuolin perään ja siitä äkkiä selviä.
+Puhuja 3: Toki kiva, että kerrot podcastissa, jos tädit kuuntelee. Myös mun
+Puhuja 0: tädin mies Kaitsu kuuntelee innokkaasti tätä podcastia. Eli terveiset Kaitsulle!
+Puhuja 0: Joka tapauksessa
+Puhuja 0: sen lisäksi
+Puhuja 0: meillä on Sohvin
+Puhuja 0: ollessa
+Puhuja 0: lomalla
+Puhuja 0: Helsingin Sanomien Tallinnan kirjeenvaihtaja
+Puhuja 0: Alma Onali.
+Puhuja 0: Hei Alma!
+Puhuja 2: Jihuu! Ihanaa olla taas täällä!
+Puhuja 0: Uusiraportti-podcastin
+Puhuja 0: kesätiimissä
+Puhuja 0: ja se oli koko kesän
+Puhuja 0: paras juttu mitä tapahtui.
+Puhuja 2: No oli kyllä.
+Puhuja 2: Voin sanoa, että oon samaa mieltä.
+Puhuja 3: Mä kuljin Alva äsken paljasti salaisuuden ja se kertoo, että
+Puhuja 3: tämän aamutiimin
+Puhuja 3: loistavan podcastin spontaanisuus ja hauskuus johtuu siitä, että ne olivat ennakkovalmistelut niitä lähetyksiä.
+Puhuja 2: Siksi pelottaakin
+Puhuja 2: niin paljon, kun Tuomas on tuollainen lose Canon
+Puhuja 2: ja ettei ole voinut yhtään varautua tähän, mitä tässä tapahtuu.
+Puhuja 0: Kohta se nähdään!
+Puhuja 0: Tämä mikä podcastissa
+Puhuja 0: keskustellaan
+Puhuja 0: Okei, ja nyt myönnän kuulijoille heti kärkeen. Unohdin, että tämä oli se viikko, jolloin tämä hallituksen jatkosostrategia
+Puhuja 0: julkaistiin.
+Puhuja 0: Eli erittäin merkittävä asia. Keskustellaan toki siitä. Mutta sen jälkeen keskustellaan myös tästä vastustuksesta,
+Puhuja 0: jonka tämä
+Puhuja 0: strategia
+Puhuja 0: heti
+Puhuja 0: synnytti.
+Puhuja 0: Sanotaanko niin, että tämä hallituksen strategia nyt kun se hallituksen jatkostrategia
+Puhuja 0: koronan suhteen tuli,
+Puhuja 0: se
+Puhuja 0: välittömästi
+Puhuja 0: toi näkyviin
+Puhuja 0: ne faktiot ja sen jakaantumisen,
+Puhuja 0: mikä
+Puhuja 0: kansakunnassa on tämän koronan suhteen ollut.
+Puhuja 0: Yksi esimerkki tästä on suhtautuminen
+Puhuja 0: esimerkiksi Mika Salmiseen,
+Puhuja 0: THL:n tartuntatautihi
+Puhuja 0: johtajan, joka joutuu
+Puhuja 0: aivan poikkeuksellisen kovaan ryöpitykseen tällä viikolla.
+Puhuja 0: Eli onko kyseessä siis Suomen kansanmurhaa salaa hautuva maanpetturi?
+Puhuja 0: Vastaus tähän on ei. Mutta keskustelemme tästä koronan
+Puhuja 0: aiheuttavasta tunteesta, että vanne kiristää
+Puhuja 0: päätä.
+Puhuja 0: Sen lisäksi
+Puhuja 0: puhutaan laajemmin tästä
+Puhuja 0: mitä hallitus linjasi, mitä aiotaan saada aikaan, mitä aiotaan tehdä. Varsinkin ravinto, mitä tulee ravintolatukiin,
+Puhuja 0: yritystukiin, millä keinoilla
+Puhuja 0: Suomi nyt rämppii pois tästä talouskatastrofista,
+Puhuja 0: jonka korona on aiheuttanut?
+Puhuja 0: Marko kertoo siitä enemmän.
+Puhuja 0: Sen lisäksi keskustellaan naapurimaan Virosta
+Puhuja 0: ja sen koronatilanteesta
+Puhuja 0: paikallaan, kenties maapallon suurinta asiantuntijuutta,
+Puhuja 0: joten Alma kertoo siitä, miten Ruotsin jälkeen läheisin verrokkiryhmämme
+Puhuja 0: on kulkenut tämän. Osa ravintoloista
+Puhuja 3: on
+Puhuja 3: yrittäjävetoisia, missä se ihminen tekee siellä,
+Puhuja 3: Kokkaa itse ja on siellä yömyöhään
+Puhuja 3: keittiössä ja muuta. Kyllähän
+Puhuja 3: se joku oikeudenkäynti, että pitää saada tuki ja oikeudenkäynti päättyy kolmen vuoden päästä, niin ei se paljon lohdutaan, jos se firma on mennyt konkkaan tässä tänä kesänä.
+Puhuja 0: Niinpä.
+Puhuja 0: Jotakin tosi surullista.
+Puhuja 0: Mennään iloisempiin
+Puhuja 0: korona-aiheisiin.
+Puhuja 0: Alma, sä olet seurannut
+Puhuja 0: Viroa, josta tässä podcastissa
+Puhuja 0: ei kertaakaan ole edes mietitty, mitä Viroon kuuluu. Koska me ollaan kaikki vitopaja
+Puhuja 0: rasisteja
+Puhuja 0: ja
+Puhuja 0: muita.
+Puhuja 0: Suomen veljeskansa ja varmasti
+Puhuja 0: vertailukelpoisin
+Puhuja 0: Suomen kanssa. Miten Viro on käynyt läpi koronaepidemian?
+Puhuja 2: Joo, kuten aikaisemmin jo sanoin, mähän itse olin siellä Tallinnassa vielä silloin, siis kaksitoista. Maaliskuuta.
+Puhuja 2: Muistan sen erittäin hyvin, koska silloin oli syntymäpäiväni,
+Puhuja 2: vietin sen yksin Tallinnassa ja samana
+Puhuja 2: päivänä Viro julisti poikkeustilan.
+Puhuja 2: Silloin olin vielä niin, että
+Puhuja 2: hel jaa! Kiinnostava meininki, vähänkö jään tänne?
+Puhuja 2: Ja muutama päivä myöhemmin Suomikin ilmoitti, että
+Puhuja 2: se homma on mennyt silleen, että kaikkein pahin tartuntapesäke on ollut se saarenmaa,
+Puhuja 2: koska siellä maaliskuun alussa oli
+Puhuja 2: sellainen italialainen
+Puhuja 2: lentopallojoukkue
+Puhuja 2: pelaamassa
+Puhuja 2: ottelun,
+Puhuja 2: ja ilmeisesti jollakin joukkueessa oli sitten ollut koronavirustartunta,
+Puhuja 2: mistä se oli lähtenyt leviämään siellä Saarenmaalla.
+Puhuja 2: Virossa varauduttiin tosi paljon
+Puhuja 2: pahempaan tilanteeseen, mutta
+Puhuja 2: lopulta oikeastaan Viron
+Puhuja 2: kuolleisuusluvut esimerkiksi koronaviruksesta johtuen on väkilukuun
+Puhuja 2: suhtautettuna hyvin samanlaiset Suomen
+Puhuja 2: kanssa. Eli mitä tämä? Virossa on tähän
+Puhuja 2: mennessä
+Puhuja 2: kuollut viisikymmentäkuusi ihmistä.
+Puhuja 2: Siellä on todettu tuhat seitsemänsataakaksikymmentä
+Puhuja 2: tartuntaa.
+Puhuja 2: Kiinnostavaa tässä on se, että jos vertaa Tallinnan ja Helsingin lukuja, Tallinnassa asuu vähän päälle neljäsataa
+Puhuja 2: nolla ihmistä, Helsingissä asuu vähän päälle kuusisataa nolla ihmistä.
+Puhuja 2: Silti Helsingissä on noin kolme kertaa enemmän koronavirustartuntoja
+Puhuja 2: kuin Tallinnassa.
+Puhuja 0: Okei, mielenkiintoista.
+Puhuja 2: Joo.
+Puhuja 2: Virossahan nyt
+Puhuja 2: terveysviranomaiset
+Puhuja 2: ovat jo tulleet siihen tulokseen, että Viron tartuntahuippu on takanapäin.
+Puhuja 2: Sama tilanne on myös Latviassa ja Liettuassa.
+Puhuja 2: On jännä, että Latvia ja Liettua
+Puhuja 2: on suuremmat väkiluvut kuin Virossa,
+Puhuja 2: mutta silti niissä on
+Puhuja 2: vähemmän tartuntoja
+Puhuja 2: ja kuolemantapauksia
+Puhuja 2: kuin Virossa.
+Puhuja 2: Latvia ja Liettu on kärsinyt vielä vähemmän tästä. Tähän
+Puhuja 2: perustuu
+Puhuja 2: tällä viikolla julistama
+Puhuja 2: ajatus tästä baltian maiden
+Puhuja 2: matkustuskuplasta,
+Puhuja 2: että Baltian maat avaisivat toisilleen rajat, ja siellä saisi vapaasti liikkua ilman, että ihmisen tarvitsee jäädä neljätoista päivän karanteeniin, jos ylittää
+Puhuja 2: maarajan.
+Puhuja 2: Toiveenahan siellä on se, että Suomi tulisi mukaan
+Puhuja 2: tartuttavuusluku
+Puhuja 2: miinus
+Puhuja 2: jotakin Latviassa
+Puhuja 2: lieppajan hiekkarannalla, tiedätkö hengailemassa, syömässä jotain kolme pilkku viisi euron täytekakkua? Silleen, että
+Puhuja 3: Suomi päätti alkuviikosta,
+Puhuja 3: että koska mehän yhteiskunta
+Puhuja 3: romahtaa kohta jos meillä ei ole virolaisia raksamiehiä täällä Suomessa.
+Puhuja 3: Niin nyt avataan
+Puhuja 3: raja niin päin, että virolaiset pääsevät takaisin
+Puhuja 3: töihin Suomeen. Eikä joudu siihen neljätoista päivän karanteeniin. Viro siis sinun jutussahan oli
+Puhuja 3: käsittääkseni, että
+Puhuja 3: Viro toimii symmetrisesti.
+Puhuja 3: Eli nyt suomalaiset pääsevät myös ilman karanteenia
+Puhuja 3: töihin
+Puhuja 3: Viroon.
+Puhuja 2: Joo, mutta se määrä kuinka paljon suomalaisia tekee Virossa töitä on kyllä
+Puhuja 2: hyvin pieni verrattuna siihen kuinka paljon virolaisia tekee töitä Suomessa. Kysymys on lähinnä se,
+Puhuja 3: koska suurin osahan näistä virolaisista todennäköisesti tulee pääkaupunkiseudulle
+Puhuja 3: töihin ja kumminkin se ero on niin valtava
+Puhuja 3: Helsingin ja
+Puhuja 3: Tallinnan välillä Millaista keskustelua tämä herätti Virossa,
+Puhuja 2: että Ulkoministerit on tästä keskustellut
+Puhuja 2: ja tavallaan se painehan on ollut aika iso sen rajan työmatkaliikenteen avaamiselle
+Puhuja 2: työmatkaliikenteen avaamiselle juuri sen takia, että Suomi tarvitsee heitä, mutta sitten se on myös Viron taloudelle olennaista,
+Puhuja 2: että virolaiset työntekijät saavat Suomesta palkkaa.
+Puhuja 2: Se paine siihen rajan avaamiseen on ollut tosi suuri, ja musta tuntuu, että
+Puhuja 2: en tiedä onko tässä ajateltu ihan loppuun asti,
+Puhuja 2: tartuntatilanteen eroa juuri pääkaupunkiseudun
+Puhuja 2: ja Tallinnan välillä. Ei välttämättä ole, mutta toisaalta
+Puhuja 2: voi ajatella, että jos ihminen tulee tänne Okei, tässä on sellaisiakin pointteja,
+Puhuja 2: on erilaisia riskejä ihan vaan senkin perusteella, missä nämä työntekijät vaikka asuvat.
+Puhuja 2: Joillakin voi olla ihan oma joku tietty vuokrattu
+Puhuja 2: kämppä tai rivaripätkä jossakin. Mutta sitten on myös näitä keissejä, ja
+Puhuja 2: On se tiettyjä
+Puhuja 2: riskejä, mutta se on selvästi sellainen riski, minkä ne nyt haluaa ottaa.
+Puhuja 2: Mutta turismia ei
+Puhuja 2: siis olla avaamassa Tallinnan päin,
+Puhuja 2: senhän ne kyllä itsekin
+Puhuja 2: on varmaan tajunnut, että ei haluta päästää
+Puhuja 2: stadilaisia hipstereitä hengailemaan
+Puhuja 2: vanhaan kaupunkiin tässä tilanteessa.
+Puhuja 2: Tallinnaan, koska onhan minun omaisuuteni
+Puhuja 2: kaikki ollut siellä jo melkein pari kuukautta.
+Puhuja 3: Niin ja pääset sinne virukselta turvaan.
+Puhuja 2: Jep, pääsen sinne elämään mun best Corona life, että lähde sama tuoma Tukholmaan, sinne on raja auki tiedoksi!
+Puhuja 2: Ai niin, voit lähteä sinne, jos haluat.
+Puhuja 0: Sitten
+Puhuja 0: kun
+Puhuja 0: kuusitoista.
+Puhuja 0: Saapuu,
+Puhuja 0: pitäisikö meidänkin lähteä
+Puhuja 0: porukalla kaljalle johonkin?
+Puhuja 0: Kesäisin kesäisellä oluella.
+Puhuja 0: Siinä sitten viihditätte
+Puhuja 0: tarinoillanne
+Puhuja 0: ystäviä
+Puhuja 0: ja tuttaviänne.
+Puhuja 0: Mistä ajattelitte puhua?
+Puhuja 2: Just kun oli
+Puhuja 2: Ruotsista puhe, ja sinäkin Tuomas
+Puhuja 2: selvästi haluat mieluummin lukea itsesi
+Puhuja 2: sinne Betrefolkin kansankodin suuntaan kuin esimerkiksi
+Puhuja 2: rakkaisiin veljeskansoihimme tuonne etelään päin.
+Puhuja 0: Mä haluan oikeasti, että mä olen suuri
+Puhuja 0: Viron
+Puhuja 0: ystävä! Mun mielestä Suomi on virottaista! Liian
+Puhuja 0: myöhäistä! Mutta mä vedän
+Puhuja 0: rajan siihen Viron eteläpuolelle!
+Puhuja 2: Okei
+Puhuja 2: okei. Mutta Ruotsista puheen
+Puhuja 2: ollen
+Puhuja 2: Yle Areenassa on nyt sellainen
+Puhuja 2: ihan kiinnostava dokumentti,
+Puhuja 2: joka
+Puhuja 2: käsittelee ruotsalaisen nuorison deittailua ja Tinder-käyttäytymistä
+Puhuja 2: ja kaikkea muuta.
+Puhuja 2: Katsoin sen tuossa, sen nimi on Mating.
+Puhuja 2: Mikä mua eniten kiinnosti, ei suinkaan ollut ruotsalaisten
+Puhuja 2: liberaalien,
+Puhuja 2: avoimien, hurjien parikymppisten
+Puhuja 2: pohdinnat seksistä
+Puhuja 2: tai
+Puhuja 2: parisuhteita
+Puhuja 2: tai mistä tahansa, vaan kaikkein pöyristyttävintä
+Puhuja 2: oli heidän kielenkäyttönsä.
+Puhuja 2: Se, että millä tavalla
+Puhuja 2: ruotsalainen nuori ei voi yhtäkään lausetta sanoa ilman, että siellä olisi jotain englanninkielistä sanaa välissä. Hei! Hyi nolaa!
+Puhuja 0: Sori! Se oli ihan niin
+Puhuja 2: hyvä! Hirveätä!
+Puhuja 2: Mutta
+Puhuja 2: se oli
+Puhuja 2: liikaa. Eli
+Puhuja 2: Jos
+Puhuja 2: haluaa
+Puhuja 2: kuulostella sitä, millä tavalla ruotsalainen nuoriso tänä päivänä puhuu ja sitten jotenkin olla vähän pahoillaan siitä, niin kannattaa kattoa tämä maiting.
+Puhuja 0: Okei, erittäin hyvä,
+Puhuja 0: tosi hyvä suolisto ja kiinnostava.
+Puhuja 0: Marko!
+Puhuja 3: Mä voisin nyt ihan tämmöisen vähän poikkeavan tai oikeastaan tämä suositus, vaan tämä mikä nyt mua koko päivän
+Puhuja 3: on mietityttänyt,
+Puhuja 3: että aamullahan tuli tieto, että Matti Kalliokoski Hesarin
+Puhuja 0: pääkirjoitustoimituksen esimiehe siirtyy Suomeen. Kyllä erittäin hieno mies.
+Puhuja 3: Hieno mies ja tämä on niin kuin valtava menetys Hesarille ja sitten ennen kaikkea jotenkin minulle henkilökohtaisesti.
+Puhuja 3: Mä voisin nyt hetken kehua Mattia.
+Puhuja 0: Kehu ihmeessä. Mut kerro mistä sinä Matti tunnette
+Puhuja 3: Ei me ollaan siis työkavereita, siis me olemme siellä samassa kerroksessa
+Puhuja 3: mutta Matti
+Puhuja 3: on siis tosi mainio kollega ja hauska
+Puhuja 3: tyyppi ja hänen kanssaan on suunnattoman
+Puhuja 3: kiinnostava keskustella, koska hänellä on ihan valtava yleissivistys ja Matti tietää käytännössä kaiken.
+Puhuja 3: Tähän mun pointti liittyy koska Matilla on semmoinen
+Puhuja 3: ilmiömäinen kyky, siis on olemassa näitä
+Puhuja 3: hakukoneita kuten Google ja sieltä hakee jonkun ihmisen ja se antaa sulle jotain taustatietoja siitä tai sitten on jotain tämmöisiä hakutuloksia missä sä voit hakea että kuka on joku kuka on kenraaliseen.
+Puhuja 3: Matti
+Puhuja 3: tietää kaikki Suomen ihmiset ja sillä on
+Puhuja 3: ei
+Puhuja 3: varmaan
+Puhuja 3: henkilökohtaisesti, mutta kun Matille sanoo minkä tahansa nimen niin se pystyy välittömästi kertomaan, että hänen isänsä oli kirkkoherrana
+Puhuja 3: siellä ja siellä ja hänen
+Puhuja 3: serkkunsa oli chäs. Silloin sellainen
+Puhuja 3: jonkinlainen kaavio päässä missä on kaikki Suomen ihmiset yhteen.
+Puhuja 3: Tai ennen kaikkea keskittyy maakuntiin Suomeen.
+Puhuja 3: Kuka tahansa ihminen, muuten usein leikki vielä
+Puhuja 3: heittänyt jonkun nimen ja hän aina pystyy voittelemaan koko sukupuoli ja missä hän on asunut ja
+Puhuja 3: mitä
+Puhuja 3: hän on tehnyt. Tämä on
+Puhuja 3: ilmiömäinen
+Puhuja 3: kyky ja tähän ei tietokone pysty. Mun mielestä tämä patin
+Puhuja 3: ensyklopediamainen
+Puhuja 3: ominaisuus siinä, että se pystyy yhdistämään ihmisten sukulaisuussuhteet
+Puhuja 3: ja ylipäätään suhteet toisiinsa
+Puhuja 3: Mä en tiedä miten mä pärjään tämän jälkeen Ehkä mä voin soittaa Suomen Kuvalehden päätoimittaja
+Puhuja 0: Mattihan on Ilkka-lehden
+Puhuja 0: entinen päätoimittaja. Tää kuulostaa sellaiselta
+Puhuja 0: ominaisuudelta ihmisessä, joka hioutuu huippuunsa
+Puhuja 0: nimenomaan maakuntasatraapeilla.
+Puhuja 0: Niiden työtä on
+Puhuja 0: mennä kepun isäntien joukossa ja paiskella kättiä
+Puhuja 0: ja tuntea kaikki ja tietää kaikki, oisko näin?
+Puhuja 3: Matti on aikoinaan käyny
+Puhuja 3: sanoman toimittajakoulu tasolla
+Puhuja 3: historian nuorin ihminen joka on koskaan sinne kouluun päässy joskus kauan kauan sitten ja se
+Puhuja 3: oli Martti Ahtisaaren kabinista, kun on Ar Ahtisaaren presidentti ja se on ollu Nokialla
+Puhuja 3: ja Matti on tehny vaikka mitä ja tavallaan se palasi jossain vaiheessa takaisin journalismiin
+Puhuja 3: En mä tiedä mistä tää kumpuaa sen että hän tietää, hän tuntee kaikki.
+Puhuja 2: Ihana taito!
+Puhuja 0: Okei, mulla on
+Puhuja 0: jälleen kerran sellainen loikkailu
+Puhuja 0: Muistaakseni Marko,
+Puhuja 0: oliko niin, että sä kehut tota Peue Blindersia
+Puhuja 0: jossain podcast? Muistanko mä väärin? Muista pärjään, mä oon ikinä kattomassa sitä. Okei! Joku kehuu jossain sitä Peue Blindersia, joka on Netflixin mafia-sarja,
+Puhuja 0: Kertoo siis irlantilaismafiasta
+Puhuja 0: 1900-luvun
+Puhuja 0: alun
+Puhuja 0: Englannissa. Tämmöisestä perheestä,
+Puhuja 0: joka
+Puhuja 0: de fiksaa noita raveeilta.
+Puhuja 0: Todella hyvä sarja! Erittäin
+Puhuja 0: hyvä. Kannattaa kattoa! Mutta sitten mulla oli sen tahkoaminen läpi meneillään.
+Puhuja 0: Olin jotenkin sellainen fiilis, ettei jaksa katsoa sarjaa mutta haluaa katsoa jotain. Niin sitten mä vähän niinkuin samassa mafiateemassa
+Puhuja 0: katsoen. Marko tämä oli sun
+Puhuja 0: suositus The Irishmanin!
+Puhuja 3: Paitsi mä haukkui sen!
+Puhuja 0: Mutta mä ihan pidin siitä!
+Puhuja 0: Se oli hidas temponi, mutta mun mielestä se oli pohdiskeleva.
+Puhuja 0: Se aika onnistuneesti pohti
+Puhuja 0: vanhenemista ja
+Puhuja 0: ajankulua.
+Puhuja 0: Ja
+Puhuja 0: sitten siinä oli mafiameininkiä ja se oli hyvä. En En ole kattanut kaksi kertaa, kun olen yrittänyt katsoa tuosta.
+Puhuja 0: Mä pidin siitä!
+Puhuja 0: Siitä leffasta innostuneena ja nyt päästän mun varsinaiseen suositukseen
+Puhuja 0: rupesin googlasin, että mitäs se Martin Skorseeseen,
+Puhuja 0: mitäs se oikein
+Puhuja 0: puuhailee?
+Puhuja 0: Ennen
+Puhuja 0: tätä Irismania
+Puhuja 0: oli tehnyt sen nimisen elokuvan
+Puhuja 0: The Sillence,
+Puhuja 0: joka
+Puhuja 0: meni vähän niin kuin ohi. Kriitikot sanoivat, että se on mestariteos
+Puhuja 0: mutta
+Puhuja 0: tavallisia ihmisiä se ei kiinnostanut ollenkaan.
+Puhuja 0: Sitten ajattelin, että hitto mä tutustuin tutustuin tähän ja aloin katsomaan, en ole vielä päässyt ihan loppuun siinä.
+Puhuja 0: Se on tosi mielenkiintoinen! Se kertoo
+Puhuja 0: 1500-tuhat kuusisataa luvun
+Puhuja 0: Japanista.
+Puhuja 0: Se kertoo tämmöstä jesuiitta munkeista,
+Puhuja 0: jotka menee sinne Japaniin käännyttämään
+Puhuja 0: japanilaisia.
+Puhuja 0: Siis niinkuin lähetystyöhön.
+Puhuja 0: Ja
+Puhuja 0: Japanissa nimenomaan
+Puhuja 0: 1500-luvun
+Puhuja 0: lopussa ja 1600-luvun
+Puhuja 0: alussa ne kohtaavat ihan kauheuksia ne Jessujit ja munkit. Niitä siis kidutetaan niin sanoin kuvaamattomilla
+Puhuja 0: tavoilla.
+Puhuja 0: Se todellisuus, jonka ne kohtaa siellä Japanissa,
+Puhuja 0: se on niin hirvittävä,
+Puhuja 0: että se on aivan käsittämätöntä.
+Puhuja 0: Ja silti ne jesuitta munkit jatkaa. Ne jatkaa, koska ne haluaa pelastaa japanilaiselta kadotukselta.
+Puhuja 0: Korseeseen
+Puhuja 0: kuvaus näiden jeesuitta munkkien uskosta
+Puhuja 0: ja siitä, miten ne syöksyy sinne omaan kuolemaan
+Puhuja 0: siitä huolimatta. Se on jotenkin
+Puhuja 2: Mika Salmisen tarina!
+Puhuja 0: Se on jotenkin koskettava ja
+Puhuja 0: siinä on jännää sellaista mystiikkaa ja henkisyyttä,
+Puhuja 0: jota
+Puhuja 0: nimenomaan
+Puhuja 0: liitettynä,
+Puhuja 0: sitä ei nykyään enää ole missään. Kristinuskoahan on tosipasee ja en ole millään tavalla uskovainen ihminen.
+Puhuja 0: Arvostan siitä semmoista jännä fiilistä ja melkein
+Puhuja 0: semmoista muotia tai
+Puhuja 0: estetiikkaa ja tällaista. Siinä on nykyään jotain
+Puhuja 0: semmoista eksoottista, että joku kuvataan... Kristinhullun
+Puhuja 0: trendikkäitä!
+Puhuja 0: Joo ja kaikki krusifiksit
+Puhuja 0: ja tällaiset.
+Puhuja 0: Varmasti länsimaissakin paljon enemmän puhutaan islamista kuin kristinuskosta!
+Puhuja 0: Vaikka kristinuskossa on nimellisesti
+Puhuja 0: ja leimallisesti meidän omaa
+Puhuja 0: kamaa, niin me
+Puhuja 0: ollaan täysin irtaannuttu
+Puhuja 0: siitä ja mennään aivan eri sfääreissä ja se on niin
+Puhuja 0: autiota ja kaikki on unohtanut koko homman.
+Puhuja 0: Oli jännä
+Puhuja 0: taiteellisen ja fiilis leffan kautta uppoutua vähän siihen
+Puhuja 0: kristinuskon meininkeihin.
+Puhuja 0: The silence, mikä on sen elokuvan nimi,
+Puhuja 0: viittaa siihen, että kun Japanissa on niitä
+Puhuja 0: japanilaisia
+Puhuja 0: kristittyjä, kun ne ja myös nämä munkit joutuu piiloutumaan
+Puhuja 0: ettei niitä saada kiinni ja kiduteta. Ne joutuu viettämään päiväkausia
+Puhuja 0: pihahtamatta
+Puhuja 0: aivan hiljaa, ettei kukaan vaan kuule missä ne on.
+Puhuja 0: Tosi jännää tuollaista mystistä meininkiä.
+Puhuja 0: Kannattaa tsekata Skorsellin
+Puhuja 0: The Sillence
+Puhuja 0: elokuva.
+Puhuja 0: Tämä oli mun suositus.
+Puhuja 0: Pilat se on tehnyt sen siis?
+Puhuja 0: Kaksituhatta kuusitoista
+Puhuja 0: se on toiseksi viimeinen elokuva
+Puhuja 0: mun mielestä.
+Puhuja 3: En ole ikinä kuullut tuosta. Joo,
+Puhuja 0: ei se ole mennyt kaikilla ihan ohi. Sitä ylistettiin suorastaan arviossa sitä elokuvaa. Kaikki kriitikot ovat ihan täysin väärässä.
+Puhuja 2: Se oli vaikuttavaa kovaa. Pitäisikö meidän mennä kuusitoista. Kaljan sijasta kirkkoa mitä sanottua vasta?
+Puhuja 0: Aijaijai, kova. Entä eka kirkkain sitten Kaljalle? Joo, ei kun tuli. Se oli ihan loistavaa!
+Puhuja 0: Siinä kaikki tältä erää. Kiitos Marko ja Jukkari.
+Puhuja 3: Kiitos.
+Puhuja 0: Kiitos Alma ja On Ali.
+Puhuja 0: Kiitos! Minun nimeni on Toivof Peltomäki ja ääniä ja kuvaaja ja kuvaa ja kaiken muun mahtava meille tekee tällä viikolla Janne Elkki! Muistakaa pliis! Lähettäkää palautetta
+Puhuja 0: uutisraportti
+Puhuja 0: ja kuullaan taas ensi viikolla!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

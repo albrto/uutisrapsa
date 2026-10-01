@@ -2,9 +2,10 @@ Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uutisraportti-podcastiin
 Puhuja 0: torstaina
 Puhuja 0: kaksikymmentäyhdeksän.
 Puhuja 0: Päivä.
-Puhuja 0: Meinasin sanoa marraskuuta, mutta kyseessä on helmikuun loppupuolella kaksituhatta kaksikymmentäneljä. Mun nimi on Tuomas Peltonki, Kanssani täällä podcast-studiossa,
+Puhuja 0: Meinasin sanoa marraskuuta,
+Puhuja 0: mutta kyseessä on helmikuun loppupuolella kaksituhatta kaksikymmentäneljä. Mun nimi on Tuomas Peltonki, Kanssani täällä podcast-studiossa,
 Puhuja 0: Sanomatalossa,
-Puhuja 0: YTHS-neuvotteluista
+Puhuja 0: yt-neuvotteluista
 Puhuja 0: huolimatta, ovat
 Puhuja 0: politiikkaa toimittava.
 Puhuja 0: Marko Junkkari. Hei Marko. Heissä on Tuomas.
@@ -18,9 +19,9 @@ Puhuja 0: Niin.
 Puhuja 0: Markun lisäksi täällä on paikalla
 Puhuja 0: samassa toimituksessa
 Puhuja 0: asioita toimittava.
-Puhuja 0: Anna-Sofia Bernher, ystävien kesken, sohvi. Hei, sohvi. Hei, Tuomas. Mitä sinulle kuuluu? Oikein hyvää. Kerro mulle, mitä kuvaa esittelit
+Puhuja 0: Anna-Sofia Berner, ystävien kesken, sohvi. Hei, sohvi. Hei, Tuomas. Mitä sinulle kuuluu? Oikein hyvää. Kerro mulle, mitä kuvaa esittelit
 Puhuja 0: juuri aiemmin. Esittelin kirjan Takakanteen tulevaa kuvaa, joka vaihtui tänään. Ai ja ja se näytti tosi hienolta.
-Puhuja 0: Sano vielä, että mikä se sun kirja oli? Sen nimi on kymmenen haavaa Amerikan sydämessä. Hei vitsi tämä on niin runollinen tämä tippile, että huhhuh. Oli synkkä ja myrskyiden yö.
+Puhuja 0: Sano vielä, että mikä se sun kirja oli? Sen nimi on kymmenen haavaa Amerikan sydämessä. Hei vitsi tämä on niin runollinen tämä tippile, että huhhuh.
 Puhuja 2: Amerikan sydämessä on haavoja. Se ei ole
 Puhuja 2: vielä painossa.
 Puhuja 0: Milloin se tulee painoon?
@@ -29,32 +30,240 @@ Puhuja 2: Ihmisillä se on sitten huhtikuussa.
 Puhuja 1: Mikä on Amerikan sydän?
 Puhuja 2: Lue se kirja. Mitä se hahmo? Politiikka.
 Puhuja 2: Politiikka.
-Puhuja 0: Politi suhtautuu
-Puhuja 0: täysin semmoisena meditamisti.
-Puhuja 0: Okei, tämän viikon podcastessa
-Puhuja 0: joku jännä elementti, joka Mä en sano, että se oli arvotonta
-Puhuja 0: tai jotenkin huonoa tai hyiisaa. Mä en yritä sitä sanoa. Mutta siinä puuttui joku kohottava
+Puhuja 0: Täysin semmoinen meditamisti.
+Puhuja 0: Okei, tämän viikon podcastissa
+Puhuja 0: keskustellaan
+Puhuja 0: laajalti
+Puhuja 0: Gaasan kriisistä,
+Puhuja 0: mutta koska olemme tämmöisiä,
+Puhuja 0: miten sen sanottaisiin, tämmöisiä luikureita,
+Puhuja 0: emme keskustele siitä kriisitilanteesta
+Puhuja 0: Vaasassa, koska se vaatii
+Puhuja 0: asiantuntemusta ja
+Puhuja 0: sekuntisekunneilta
+Puhuja 0: muuttuvaa tietoa, johon meistä ei ole,
+Puhuja 0: me keskustellaan näistä lieveilmiöistä
+Puhuja 0: sen ympärillä,
+Puhuja 0: varsinkin siitä, miten gaasan kriisi vaikuttaa
+Puhuja 0: politiikkaan. Yhdysvalloissa miten se vaikuttaa politiikkaan esimerkiksi myös Britanniassa
+Puhuja 0: ja Suomessakin.
+Puhuja 0: Tosin
+Puhuja 0: suomalaisten suhtautuminen
+Puhuja 0: kriisin
+Puhuja 0: näyttäisi olevan hyvinkin kiihkeä.
+Puhuja 0: Keskustellaan siitä. Sen
+Puhuja 0: lisäksi
+Puhuja 0: puhutaan puheenjohtajavalinnoista,
+Puhuja 0: joita tällä hetkellä
+Puhuja 0: suorittavat
+Puhuja 0: RKP, jonka puheenjohtaja Anna-Maja Henriksson
+Puhuja 0: ilmoitti tämän viikon maanantaina lehdistötilaisuudessaan,
+Puhuja 0: että hän ei hae enää jatkoa syyskuun puoluekokouksessa,
+Puhuja 0: oliko näin? Kesäkuun. Kesäkuun puoluekokouksessa,
+Puhuja 0: vaan joku muu tulee sitten RKP:n johtoon. Mutta
+Puhuja 0: kuka spekuloidaan?
+Puhuja 0: Sillä tietoa on vielä hyvin vähän, koska asia on verrattain tuore.
+Puhuja 0: Lopuksi kolmanneksi puhutaan
+Puhuja 0: suomalaisesta
+Puhuja 0: kulttuuriskandaaleista.
+Puhuja 0: Yleisradiolla alkaa uusi mammutti-sarja,
+Puhuja 0: jossa
+Puhuja 0: käsitellään
+Puhuja 0: suomalaisia pöyristymisiä
+Puhuja 0: taiteen äärellä.
+Puhuja 0: Mistä suomalaiset pöyristyvät
+Puhuja 0: ja miksi? Ja mitä se kertoo meistä kaikesta?
+Puhuja 0: Keskustellaan siitä lopuksi vielä hyviä keskustelunaiheita
+Puhuja 0: pitkien epämukavien
+Puhuja 0: hiljaisuuksien
+Puhuja 0: varalle ja sanon sen,
+Puhuja 0: että tällä kertaa
+Puhuja 0: podcastin päätteeksi on ilmoitusasia.
+Puhuja 0: Hei, tähän alkuun mä haluan sanoa ehkä massiivisimman
+Puhuja 0: kiitoksen, mitä tässä podcastissa on ikinä esitetty.
+Puhuja 0: Ja se kiitos tulee teille kuulijat.
+Puhuja 0: Viime jaksossa
+Puhuja 0: kerroin tästä mun
+Puhuja 0: kömyksyksestä,
+Puhuja 0: jossa mun fiitti lähti viraaliksi ja kiersi Pohjois-Amerikkaa
+Puhuja 0: pitkin.
+Puhuja 0: Sen myötä
+Puhuja 0: joudun lupautumaan, että annan yli kolme nolla euroa Ukrainaan.
+Puhuja 0: Mulla ei todellakaan ole semmoisia varoja, joten pyysin teiltä, pystyttekö
+Puhuja 0: jeesaamaan tämän asian kanssa. Tämän taustalla on siis se, että mun naapuri, joka asuu kahden talon päästä
+Puhuja 0: minusta
+Puhuja 0: Hyvinkäällä puupelloilla, on perustanut hyvin
+Puhuja 0: pienen
+Puhuja 0: yhdistyksen, joka vie rahaa ja luovan oikeaan
+Puhuja 0: ajankohtaan. Tosin täytyy nyt heti kärkeen sanoa, että olen
+Puhuja 0: meidän aiheesta kirjoittamien juttujen varassa enkä ole itse dokumenttisarjaa
+Puhuja 0: lukenut. Mutta halusin hyvin lyhyesti keskustella näistä kulttuuriskandaaleista
+Puhuja 0: kuitenkin. Kysymys. Seurasitteko ollenkaan tätä SORI-asiaa,
+Puhuja 0: joka on näistä ajankohtaisin?
+Puhuja 2: Hyvin etäältä. Se tuntui
+Puhuja 1: että tämä on perseestä. Pystytkö sinä Marko
+Puhuja 0: kuvailemaan,
+Puhuja 0: mitä sinä näet tässä, kun tässä on se Lux- Helsinkiin tehty
+Puhuja 0: teos,
+Puhuja 1: jonka
+Puhuja 1: Saamupukun.
+Puhuja 1: En tiedä, eikö se ilmeisesti noussut myös siitä, että pukuori on jotenkin väärä ja siinä on väärä? Ihan varmasti. Kai minun mielestäni kaikki asiat on ollut niin
+Puhuja 2: paljon. Ja sitten siinä on vuoria tai tuntureita taustalla ja kuin punaisen sävyjä. Punaisen sävyjä.
+Puhuja 0: Hahmo pitelee poroa päitsistä kiinni.
+Puhuja 0: Porolla on komeet sarvet ja taustalla on kuu ja vuoristoa.
+Puhuja 0: Minun mielestä he eivät näytä tuntureilta vaan vuorilta.
+Puhuja 1: Mutta ihan
+Puhuja 0: siis selvästi taidokas.
+Puhuja 2: Kun sä sanoit, että et seurannut niitä muita,
+Puhuja 2: tai vastapuolen
+Puhuja 2: näkökulmia, niin kaivoin Petra
+Puhuja 2: Laitin
+Puhuja 2: Instagram-profiilin esiin. Hän on siellä kommentoinut
+Puhuja 2: vuorokauden
+Puhuja 2: sisään tätä yensaarjaa,
+Puhuja 2: pohjoismaiset kulttuuriskandaalit.
+Puhuja 2: Hän kiittelee sitä siitä, että siinä
+Puhuja 2: jaksossa
+Puhuja 2: on
+Puhuja 2: nostettu sitä pitkää historiaa,
+Puhuja 2: mikä Suomessa on tästä saamelaisten
+Puhuja 2: appropriaatiosta
+Puhuja 2: ja aiemmista
+Puhuja 2: keisseistä.
+Puhuja 2: Hän on ollut tyytyväinen
+Puhuja 2: siihen jaksoon ja korostaa sitä, että kyse ei ole sen suurista, vaan
+Puhuja 2: siitä, että
+Puhuja 2: ei saa nöyryyttää tällaista marginaalisoitua
+Puhuja 1: ryhmää.
+Puhuja 0: Playpämalleja.
+Puhuja 0: Mun mielestä tässä on läsnä,
+Puhuja 0: jos vähänkään pysytään vielä tässä Souri-kysymyksessä.
+Puhuja 0: Siis tämä on turha valitus. Tämä ei tule ikinä muuttumaan. Mutta se on tyhmä se mekanismi, jossa munkin päässä on olemassa
+Puhuja 0: semmoinen tyhmä kaksijakoinen,
+Puhuja 0: jossa on silleen, että joko tai...
+Puhuja 0: Joko saamelaisia saa pilkata ihan koska vain, kuka vain, missä haluaa taiteen nimissä vain. Tai sitten
+Puhuja 0: pitää poistaa. Pitää poistaa. Kukaan muu kuin se, jolla
+Puhuja 0: ei ole pisaraakaa muuta kuin
+Puhuja 0: saamelaisverta
+Puhuja 0: elimistössä,
+Puhuja 0: se saa edes sanoa sanan saamelainen.
+Puhuja 0: Se tuntuu niin tyhmältä, että semmoinen
+Puhuja 0: kaksjakoisuus tulee heti ihmisten päihin. Sillä ei jotenkin mahda mitään. Nämä kaikki asiathan on totta kai yhtä aikaa totta.
+Puhuja 0: Saamelaisten
+Puhuja 0: kulttuuria ei saa anastaa,
+Puhuja 0: ei saa tehdä hillittömästi massia saamelaiskulttuuriin
+Puhuja 0: kuuluvilla vaikka vaatteilla
+Puhuja 0: ja rummuilla ja muilla,
+Puhuja 0: rippaamalla sitä vaan
+Puhuja 0: ja myymälä jossain turistikrääsämyymälöissä.
+Puhuja 0: Se on tyhmää ja väärin. Sitten ne rahat ehkä kuuluisivat saamelaiselle ja näin päin pois.
+Puhuja 0: Ja myös yhtä aikaa, totta kai, jos Look Helsinki yrittää olla Helsingin ja taiteen puolestapuhuja,
+Puhuja 0: niin ei he saa kuulutella siellä, että varokaa taidetta ja varokaa, että tämä on loukannut jotain. Musta tässä
+Puhuja 1: on kaikkein
+Puhuja 1: ikävintä
+Puhuja 1: tai rasittavinta se, että miten
+Puhuja 1: Tai
+Puhuja 1: instituutioita johtavat henkilöt, jotka varmastikaan
+Puhuja 1: suhtautuvat vakavasti tällaisiin kysymyksiin alkuperäiskanssoista
+Puhuja 1: ja muusta. Ja sitten kun ne
+Puhuja 1: mokaa, niin ne menee jotenkin ihan sekaisin.
+Puhuja 1: Sitten tehdään tämmöisiä idioottimaisia
+Puhuja 1: ratkaisuja, kuten varoituskylttejä
+Puhuja 1: siitä, että seuraava
+Puhuja 1: Lux Helsinki-kuva saattaa loukata jotain kuulutuksia. Ei.
+Puhuja 1: Miksei ne
+Puhuja 1: joko ottaa sen kokonaan vekka tai seisoo taiteilijan takana ja puolustaisi, mutta ei tuommoista väliratkaisua.
+Puhuja 0: Minä puikkaan väliin.
+Puhuja 0: Kaksi viikkoa sitten tuli
+Puhuja 0: minun mielestä suurin tehty
+Puhuja 0: kirjallisuuskatsaus,
+Puhuja 0: joka liittyi
+Puhuja 0: sisältövaroituksiin.
+Puhuja 0: Siinä päädyttiin siihen, että ne eivät hyödytä. Ei
+Puhuja 1: traumatisoidu meitä ihmisiä, ei hyödytä ketään. Ei se ollut varmaan, kun Helsingillä on ollut huoli kenenkään traumatisoitumisen, koska eihän kukaan tuosta traumatisoidu. Ei, mutta varoitus on nimenomaan trigger warning. Se on samasta perinteistä ja samat ajatukset siellä on. Ei pidä tietää vaan mielestäni. Se on vaan sellainen pakotti, kun on mokattuja eikä haluta suututtaa omaa viiteryhmää enempää ja kiemurrellaan irti hankalasta tilanteestakin tekemään hätäratkaisu. Osinhan tämä liittyy myös, tässä tulee mieleen erilaiset patsaiden kaatamiset, mitä
+Puhuja 2: on ollut
+Puhuja 2: vaikka
+Puhuja 2: Yhdysvallat vaadittu poistamaan an ja poistettu Mitä orjaa kauppiaiden patsaita tai muita?
+Puhuja 0: Kyllä, juuri näin, juuri näin. Mantta-Kaisa
+Puhuja 2: ruotsalaisesta taidenäyttelystä,
+Puhuja 2: joka silloin kun teinini
+Puhuja 2: oli heti muisti, että ai niin tämä. Se oli valtava skandaali,
+Puhuja 2: kun oli kuvattu
+Puhuja 2: Jeesus hahmo
+Puhuja 2: nahkahomojen
+Puhuja 2: kanssa.
+Puhuja 2: Eihän tuollaisia skandaaleja ole enää ollenkaan.
+Puhuja 2: Ei ole niitä skandaaleja tai joku
+Puhuja 2: sikamessias.
+Puhuja 2: Konservatiivit eivät pöyristy enää taiteesta.
+Puhuja 0: Konservatiivivien pöyristy
+Puhuja 2: Niin tai juhannustanssit. Kertokaa,
+Puhuja 2: milloin viimeisen
+Puhuja 0: viiden vuoden aikana joku konservatiivivien pöyristettäisiin? On niitä varmaan, me ei vaan kiinnitetä siihen huomiota. Mutta sanotaanko tähän väliin sanoa?
+Puhuja 1: Ilahduttavin hetki pitkin aikoihin
+Puhuja 1: olin pressanvaalien ekaan kierroksen jälkeen
+Puhuja 1: puhumassa ulkomaisille toimittajille
+Puhuja 1: vaaleista kertomassa mitä tapahtui.
+Puhuja 1: En tiedä miten se keskustelu meni. Minä päädyin puhumaan erään
+Puhuja 1: ruotsalaisen toimittajan kanssa
+Puhuja 1: Koraania polttamisesta.
+Puhuja 1: Tämä keskustelee hyvin omituisesti
+Puhuja 1: kierteelle. Hän on lähinnä kiinnostunut siitä, että teillä on Suomessa siis laki. Jumalan pilkan kieltävä laki, joka liittyy juuri tähän
+Puhuja 1: juhannustansseihin.
+Puhuja 1: Sen perusteellahan
+Puhuja 1: kirjailija Salama ja muut aikoinaan 1960-luvulla tuomittiin. Tämä laki on edelleen voimassa, mikä
+Puhuja 1: jossain määrin sen avulla pystytään
+Puhuja 1: estämään koraanien polttamiseksi.
+Puhuja 1: Ruotsalaisen oli
+Puhuja 1: niin, että voi vitsi, että Suomessa on kaikki asiat niin fiksuiset.
+Puhuja 2: Ei. Okei.
+Puhuja 0: Mulle jäi tästä käteen semmoinen
+Puhuja 0: kysymys tai jotenkin ajatus...
+Puhuja 0: No, montakin.
+Puhuja 0: Näihin ei ole mitään oikeita vastauksia.
+Puhuja 0: Kun mietin sitä, siinä on se kuva, missä persettään ketkuttaa
+Puhuja 0: joku tanssija ja sitten se on pukeutunut johonkin saamelaisnuttuun
+Puhuja 0: tai johonkin. Se on myös ilmeisesti yksi tämän Ylen sarjan
+Puhuja 0: aiheista. Siinähän selkeästi taiteilija hakee tällä videoteoksella,
+Puhuja 0: jossa on superseksuaalalisoitu
+Puhuja 0: takapuoli, sitten se saamelais
+Puhuja 0: asuu ja siinä haetaan reaktiota.
+Puhuja 0: En tiedä, haetaanko...
+Puhuja 0: Mikä oli taiteilijan alkuperäinen tarkoitus, mutta selkeästi siinä on läsnä tämmöisiä, että mitäs mietitte tästä?
+Puhuja 0: Että provosoidutteko
+Puhuja 0: tästä?
+Puhuja 0: Silloin mun mielestä taiteilijat
+Puhuja 0: tavallaan täyttävät jotain tärkeää roolia
+Puhuja 0: yhteiskunnassa, jolloin hän saa Petra Laitin parahdmaan raivosta
+Puhuja 0: ja
+Puhuja 0: sitten muut ihmiset tavallaan, että pitääkö sitä nyt kaikesta aina suuttua. Se keskustelu lähtee käyntiin.
+Puhuja 0: Uskon hyväksi. Siellä taiteilijat tekee
+Puhuja 0: hyvin.
+Puhuja 0: Sitten taas
+Puhuja 0: provosointi voi olla myös jollain tavalla... Mä en tiedä, mikä se ero siinä on, mutta esimerkiksi
+Puhuja 0: tätä peppusamelaisvideota
+Puhuja 0: seuraavassa keskustelussa oli esim. Sellainen, että jossain vaiheessa Sanna Ukkola veti jotain muistaakseni Ylen ohjelmaa, toimittaja Sanna Ukkola, ja hän veti intiaani päähänsä,
+Puhuja 0: joka oli samantyylinen provosointi, että no niin, mitäs sanotte tästä. Mutta siitä puuttui joku
+Puhuja 0: jännä elementti, joka... En sano, että se oli arvotonta
+Puhuja 0: tai jotenkin huonoa tai hyiisaa. En yritä sitä sanoa. Mutta siinä puuttui joku kohottava
 Puhuja 0: elementti, mikä taideteoksella
 Puhuja 0: on
 Puhuja 0: keskustelunavavina. Siinä, että jos joku toimittaja vain provoilee,
 Puhuja 0: niin siitä puuttuu joku semmoinen, en tiedä, joku sivistyksen kaapu tai joku, joka jotenkin ylevöittää sen provokaation
-Puhuja 2: ylemmäs. Niin ja ehkä
-Puhuja 2: se intiaani päihinä on myös aika kulunut. Toinen kysymys, mikä mun mielestä
+Puhuja 2: ylemmäs. Niin ja ehkä se intiaani päihinä on myös aika kulunut. Toinen kysymys, mikä mun mielestä...
 Puhuja 0: Meidän ei tarvitse keskustella tästä, on lyhyt pointti. Mielestäni instituutioiden
 Puhuja 0: täytyy olla selvillä siitä, mitä ne edustaa.
 Puhuja 0: Instituutiot
 Puhuja 0: eivät voi
-Puhuja 0: edustaa
-Puhuja 0: kaikkea hyvää maailmassa, vaan niillä täytyy olla joku se yksi asia, mitä varten ne ovat tekemässä. Jos ne ovat taideinstituutiota,
-Puhuja 0: silloin niiden pitää viimeiseen asti olla taiteilijoiden
-Puhuja 0: puolella. Mun mielestä se on tällä tavalla.
+Puhuja 0: edustaa kaikkea hyvää maailmassa, vaan niillä täytyy olla joku se yksi asia, mitä varten ne ovat tekemässä. Jos ne ovat taideinstituutiota,
+Puhuja 0: silloin niiden pitää viimeiseen asti olla taiteilijoiden puolella. Mun mielestä se on tällä tavalla.
 Puhuja 0: Tämä on nyt tyhmä. Voi ei pidä sanoa tätä, mutta mua ärsyttää se, että esimerkiksi Amnesty on nykyään
 Puhuja 0: yleishyvä järjestö, missä kaikkia hyvää ja hyviä keloja
 Puhuja 0: edistetään.
 Puhuja 0: Mä tykkäsin siitä Amnestystä,
 Puhuja 0: jonka tehtävä oli tietää, että jossain vitun Guatemaalan
 Puhuja 0: peräkylässä
-Puhuja 0: jossain Hikiassa on haudattu jonnekin tyrmän pohjalle tämän niminen mies, ja se pitää saada sieltä vapaaksi. Lähettäkää postikortti. Siinä oli jotain colia, siinä oli jotain, että okei, vau, te teette tämmöistä ward-juttuja ja pelastatte näitä tyyppejä jostain viidakko tyrmistä,
+Puhuja 0: jossain Hikiassa on haudattu tyrmän pohjalle tämän niminen mies, ja se pitää saada sieltä vapaaksi. Lähettäkää postikortti. Siinä oli jotain colia, siinä oli jotain, että okei, vau, te teette tämmöistä ward-juttuja ja pelastatte näitä tyyppejä jostain viidakko tyrmistä,
 Puhuja 0: siistiä.
 Puhuja 0: Ja sitten heti, kun se on silleen, että mikä tahansa hyvä asia, jonka takana on tarpeeksi monta Twitteristä ja me ollaan sen puolella,
 Puhuja 0: tuntuu,
@@ -71,13 +280,18 @@ Puhuja 0: Mikä on Jobidenin
 Puhuja 2: lempijuoma? Tiedätkö sä? Hänhän ei juo alkoholia ollenkaan.
 Puhuja 0: Kumpikaan trumptailla. Mutta onkohan hän teemiehiä?
 Puhuja 2: Mitäköhän? No, lähdetään
-Puhuja 0: Kokiksesta.
+Puhuja 0: Kokiksesta. Koki varmaan, joo. Se on se, että sotkettu.
+Puhuja 2: Niin se on, mutta sanoisin, että se on kyllä kaikki amerikkalaista.
+Puhuja 0: Otatte
+Puhuja 0: semmoisen OKR-luvun kokiksen, jota
+Puhuja 0: Biden jo keski-ikäisenä
 Puhuja 0: Tarjoatte hänelle siinä ja rupeatte sitten heittämään.
 Puhuja 2: No mä luulen, että Biden voisi itse asiassa keskustellakin tästä aiheesta. Mistäs keskustelet hänelle? Tämä on vähän myöhäinen suositus, mutta koska minäkin törmäsin tähän vasta äskettäin, niin ehkä muutkin. Viime vuonna tuli sellainen Think Tuice niminen podcast Michael Jacksonista.
 Puhuja 2: Käyttänyt seksuaalisesti hyväksi, mutta en nähnyt sitä. Minulle jäi
 Puhuja 2: epämääräinen olo, että miten Michael Jackson nyt pitäisi suhtautua.
 Puhuja 2: Samaan aikaan kun se kertoo Michael Jacksonin tarinan, niin sitten se pohdiskelee tätä
-Puhuja 2: kysymystä. Se oli musta tosi hyvin tehty ja kiinnostava.
+Puhuja 2: kysymystä. Se oli musta tosi
+Puhuja 2: hyvin tehty ja kiinnostava.
 Puhuja 2: Ja auttoi minua selvittämään mun suhdetta Michael Jacksonin.
 Puhuja 0: Minä olen vanha Michael Jacksonin fani.
 Puhuja 0: Pitääkö minun katsoa vai ei pidä katsoa? Joo,
@@ -91,19 +305,20 @@ Puhuja 0: jostain muusta podcastista.
 Puhuja 0: Mutta
 Puhuja 0: sanakirjafirma
 Puhuja 0: nimeltä Mergian Webster
-Puhuja 0: julkaisee mainiota podcasteja
-Puhuja 0: Word of the day.
+Puhuja 0: julkaisee
+Puhuja 0: mainiota podcasteja Word of the day.
 Puhuja 0: Jokainen jakso kestää ehkä alle minuutin tai jotain.
 Puhuja 0: Se on hyvin lyhyt.
 Puhuja 0: Joka päivä on joku sana.
 Puhuja 0: Sitten he selittävät siinä, mikä se sana on, missä yhteyksissä sitä käytetään ja mikä on sen sanan historia.
-Puhuja 0: Sitten minulla on semmoinen tapa, että kun menen aamulla suihkuun, niin
+Puhuja 0: Sitten minulla on semmoinen tapa, että kun menen aamulla suihkuun,
+Puhuja 0: niin
 Puhuja 0: mulla on semmoinen
 Puhuja 0: uutisplaylist,
 Puhuja 0: joka lähtee soimaan. Siinä on kaikki yön aikana tulleet uutispodcastit.
 Puhuja 0: Painun suihkuun ja kuuntelen uutisia
-Puhuja 2: siellä suihkussa. Mäkin kuuntelen suihkussa uutis. Ja
-Puhuja 0: tykkään siitä. Se on kiva tapa aloittaa aamu.
+Puhuja 2: siellä suihkussa. Mäkin kuuntelen suihkussa uutis.
+Puhuja 0: Ja tykkään siitä. Se on kiva tapa aloittaa aamu.
 Puhuja 0: Mutta mua on huolehdittanut,
 Puhuja 0: että suomen kieli on katsonut,
 Puhuja 0: mutta huolestuttanut se, että
@@ -114,10 +329,11 @@ Puhuja 0: Sen tekee joko some tai uutiset
 Puhuja 0: silleen, että
 Puhuja 0: silmät aukeaa ja kännykkä menee kouraan.
 Puhuja 0: Siellä on heti, että ajattelet tätä.
-Puhuja 0: Ja somessa yleensä siellä on ehkä jotain kuohottavaa tai sitten siellä voi olla jotain Joku tulee ketkuttaa persettä
+Puhuja 0: Ja somessa yleensä siellä on ehkä jotain kuohottavaa tai sitten siellä voi olla jotain... Joku tulee ketkuttaa persettä
 Puhuja 0: siinä heti aamulla. Ja sitten olet koko päävellet,
 Puhuja 0: kertomus mielessä.
-Puhuja 0: Pointti on se, että joku tulee ja heti ensiseunnista asettaa sun päähän jonkun agendan.
+Puhuja 0: Pointti on se, että joku tulee ja heti ensiseunnista
+Puhuja 0: asettaa sun päähän jonkun agendan.
 Puhuja 0: Mun mielestä tämä on semmoinen, mitä ihmisten pitäisi olla tietoisia, että näin tapahtuu. Mun mielestä se ei ole hyvä asia.
 Puhuja 0: Joten
 Puhuja 0: tähän tämä merien Websterin Word of the Day, sekin asettaa agendaa, mutta se on sellainen super abstrakti asia, että mieti vaikka
@@ -125,7 +341,8 @@ Puhuja 0: semmoista sanaa kuin depays,
 Puhuja 0: joka tarkoittaa
 Puhuja 0: alentaa.
 Puhuja 0: Se on peräisin ranskalaisesta
-Puhuja 0: ilmaisusta 1800-luvulta.
+Puhuja 0: ilmaisusta
+Puhuja 0: 1800-luvulta.
 Puhuja 0: Se oli hyvin abstrakti
 Puhuja 0: asia. Se antaa pienen kivan
 Puhuja 0: vapaan aivosykäyksen
@@ -133,15 +350,13 @@ Puhuja 0: aamuun. Sen takia suosittelen
 Puhuja 0: tätä podcastia.
 Puhuja 0: Näin.
 Puhuja 0: Marko,
-Puhuja 0: tulla oli Suosittelen
-Puhuja 1: tietysti Sohvin kirjaa, joka ilmestyi
-Puhuja 1: ihan kohta huhtikuussa.
+Puhuja 1: tulla oli... No niin, suosittelen tietysti Sohvin kirjaa, joka ilmestyi ihan kohta huhtikuussa.
 Puhuja 1: Sitten suosittelen toista kirjaa, joka ilmestyi ensi syksynä.
 Puhuja 1: Eli jään itseasiassa
 Puhuja 1: tänään
 Puhuja 1: pois Hesarista pakattamalle vapaalle ja en ole uutisraportissa
 Puhuja 1: ennen kuin vasta kerran syyskuussa.
-Puhuja 1: Kärrpyttävää.
+Puhuja 1: Kärkyttävää.
 Puhuja 2: Miten sitä selvitään? Me varmaan menetetään puolet päin kuulijoilta. Ihan varmasti.
 Puhuja 1: Luulen, että kuulijamäärä lisääntyy vain. En ole koskaan kirjoittanut kirjaa. Jää nyt kauhean alle tohinalla tekemään kirjaa. Kirjoitan
 Puhuja 1: taloushistoriallista kirjaa
@@ -149,12 +364,12 @@ Puhuja 1: vakuutusyhtiö Pohjolan ympärillä käydyistä valtataisteluista
 Puhuja 1: vuosituhannen vaihteessa.
 Puhuja 1: Tämä kuulostaa ehkä tylsältä, mutta se on itseasiassa tosi kiinnostava.
 Puhuja 0: Kuulostaa kiehtovalta. Kun tietää, että sinä olet kirjoittamassa, niin eihän se voi olla mitään muuta kuin kenties paras kirja, mitä Suomessa ikinä kirjoitat. Just näin ja ilmestyvän syksynä. Niin. Saako
-Puhuja 0: sulta kysellä kuinka paljon tästä kirjaprojektista ja sen jälkeen ehkä voidaan yhdessä jotenkin fiilistellä
+Puhuja 0: sulta kysellä kuinka paljon tästä kirjaprojektista
+Puhuja 0: ja sen jälkeen ehkä voidaan yhdessä jotenkin fiilistellä
 Puhuja 0: sinun podcastista lähteä?
 Puhuja 0: Kyselen.
-Puhuja 0: Mistä tuli tämmöinen ajatus? Mun mielestä siinä on jotain tosi perheellisiä lähteä kirjoittamaan jostain vaikutusyhtiön
-Puhuja 0: kirja. Mistä tämä ajatus tuli? Tämä ei ole tilaustyö.
-Puhuja 1: Minua pyydettiin, minua ehdotettiin, että kiinnostaisiko tämmöinen aihe. Sitten kun olen vanha
+Puhuja 0: Mistä tuli tämmöinen ajatus? Mun mielestä siinä on jotain tosi perheellisiä lähteä kirjoittamaan jostain vaikutuskirjaston kirja. Mistä tämä ajatus tuli? Tämä ei ole tilaustyö.
+Puhuja 1: Minua pyydettiin, minua ehdotettiin, että kiinnostaisiko tällainen aihe. Sitten kun olen vanha
 Puhuja 1: taloustoimittaja, ja olen 2000-luvun
 Puhuja 1: alkuvuosina ollut taloustoimituksessa
 Puhuja 1: kirjoittanut Pohjolasta ja seurannut näitä asioita. Onhan se tosi makeeta. Olen
@@ -166,23 +381,17 @@ Puhuja 1: mitä helvettiä yhtiössä tapahtuu. Nyt saa lukea, mitä siellä oik
 Puhuja 2: taiittaja Konstantti Neunov lähetti tänään
 Puhuja 2: Slackin sellaisen kuvan,
 Puhuja 2: jossa oli Helsingin Sanomien taloustoimitus joskus
-Puhuja 2: vuonna noihin aikoihin. Ja siinä on myös semmoinen
+Puhuja 2: vuonna noihin aikoihin.
+Puhuja 2: Ja siinä on myös semmoinen
 Puhuja 2: Marko Ylitalo,
-Puhuja 2: jolla on todella pitkä tukka ja ponin Vai Marko Junkkari. Marko
+Puhuja 2: jolla on todella pitkä tukka ja ponin... Vai Marko Junkkari. Marko
 Puhuja 2: Junkkari.
-Puhuja 0: Naamagalleriaa?
-Puhuja 0: Joo, just. Ja ymmärtääkseni se postattu tää Twitterinkin
-Puhuja 0: kuulijoiden
-Puhuja 1: pyynnöstä. Mutta huomisaamusta lähtien mä näpyttelen kirjaa siellä kammiossani.
-Puhuja 0: Onko tää siis
-Puhuja 0: yrityshistoriikki vai semmoinen
-Puhuja 0: tarinakirja? Tarinakirja. Journalistinen tavallaan. No on fiktio. No on fiktio. Tää
+Puhuja 0: Yrityshistoriikki
+Puhuja 0: vai semmoinen
+Puhuja 0: tarinakirja? Tarinakirja. Journalistinen
+Puhuja 1: tavallaan. No on fiktio. No on fiktio. Tää
 Puhuja 1: ei ole tilaustyö. Mulla on pieni apuraha-aika varassa, laita kirjoitan ja täysin vapaat kädet saan kirjoittaa ihan mitä ite lystää. No niin, mä ainakin ihan satavarmasti luen sen sitten. Ja se tulee myös äänikirjalle.
-Puhuja 0: Mä kuuntelen sen. Perun äsken sen lupaksi, niin mä kuuntelen.
-Puhuja 0: Okei,
-Puhuja 0: Marko, mun mielestä on tietenkin ikävää, että pidät pikkutauon
-Puhuja 0: podcasttista.
-Puhuja 0: Mä varmasti
+Puhuja 0: Varmasti
 Puhuja 0: meidän itseni ja muiden kuulijoiden
 Puhuja 0: puolesta sanon, että tulee ikävä.
 Puhuja 0: Mulla on yksi kysymys, jossa se on, että aiotko kuunnella tätä podcastia, kun olet?

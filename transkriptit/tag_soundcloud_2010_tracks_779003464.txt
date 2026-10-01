@@ -1,0 +1,459 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien ultraraportti
+Puhuja 0: podcastiin ja livelähetykseen
+Puhuja 0: tai sinne päin ainakin livelähetykseen yritetään nauhoittaa tästä myös videoversio.
+Puhuja 0: Yhdeksäntoista
+Puhuja 0: p:nä maaliskuuta
+Puhuja 0: kaksituhatta kaksikymmentä.
+Puhuja 0: Minun nimeni on Tuomas Peltomäki.
+Puhuja 0: Kanssani
+Puhuja 0: ei ollenkaan sanomatalossa
+Puhuja 0: vähintään vaan
+Puhuja 0: koronavirusepidemian
+Puhuja 0: aiheuttamissa evakko-olosuhteissa
+Puhuja 0: ovat
+Puhuja 0: politiikan toimittaja.
+Puhuja 0: Marko Junkkari. Hei Marko!
+Puhuja 2: Terve Tuomas!
+Puhuja 0: Missä päin
+Puhuja 0: Suomea sä mahdollisesti olet?
+Puhuja 2: Olen siis kotonani
+Puhuja 2: ja itse asiassa lastenhuoneessa.
+Puhuja 0: Hyvä.
+Puhuja 0: Markon lisäksi meillä on täällä sunnuntain liitteen toimittaja Marja Manner. Hei Marja!
+Puhuja 1: Hei Tuomas ja Marko.
+Puhuja 0: Sinäkään et ole sanomassalossa päin. Missä päin maailmaa sä olet?
+Puhuja 1: Olen ollut tämän viikon
+Puhuja 1: sukulaisten nurkissa, koska mun paljon putkiremonttia varten piti muuttaa asuntoon, mutta ystäväni
+Puhuja 1: ei lähtenytkaan matkoille. Sen takia päädyin
+Puhuja 1: jälkikasvun
+Puhuja 1: kanssa tänne sukulaisten nurkkiin. Olen tehnyt viikon etätyötä pesutuvasta
+Puhuja 1: ja
+Puhuja 1: öisin mistä sattuu. Okei.
+Puhuja 0: Tässä
+Puhuja 0: todennäköisesti
+Puhuja 0: kuulijat jo kuulevatkin, niin me ollaan
+Puhuja 0: todella tällaisessa
+Puhuja 0: kaoottisessa teknisessä ympäristössä
+Puhuja 0: tällä hetkellä.
+Puhuja 0: Olen
+Puhuja 0: makuuhuoneessa. Mulla on täällä
+Puhuja 0: lamppuja, johtoja, kuulokkeita,
+Puhuja 0: läppäreitä, kännyköitä,
+Puhuja 0: pulkkaa, laastaria ja kaikkialla on yritetty saada viritettyä
+Puhuja 0: systeemi, jolla pystytään
+Puhuja 0: koronavirusepidemian
+Puhuja 0: keskelläkin tekemään
+Puhuja 0: tätä podcastia silleen, että
+Puhuja 0: jonkunnäköinen
+Puhuja 0: laatu säilyy.
+Puhuja 0: Todennäköisesti tulee
+Puhuja 0: katkoja, tulee pätkiä, tulee
+Puhuja 0: ärsyttävää häiriöääntä ja muuta.
+Puhuja 0: Mä olen siitä tosi pahoillani.
+Puhuja 0: Me ihan oikeasti yritetään parasta mihin me pystytään.
+Puhuja 0: Okei!
+Puhuja 2: Saanko tulla sanoa, mulla ois asiaa? Niin, sano.
+Puhuja 2: Mua todella innostunut kaikista
+Puhuja 2: etätyötehtävistä
+Puhuja 2: ja etäyhteyksistä.
+Puhuja 2: Oli todella kiva kun aikaisemmin
+Puhuja 2: Skype-yhteys,
+Puhuja 2: Tuomas näytti läppärillä ja esitteli
+Puhuja 2: kotinsa mulle.
+Puhuja 2: Näin on.
+Puhuja 2: Pakko sanoa, että sulla on...
+Puhuja 2: Tämä on varmaan joku
+Puhuja 2: uusmaalainen ajatus, koska olen aikoinaan käynyt
+Puhuja 2: silloin pääministeri Matti Vanhasen kotona Nurmieellä,
+Puhuja 2: minkä hän oli itse rakentanut. Mun mielestä sun kodissa on jotain samaa henkeä. Hei, nyt.
+Puhuja 0: Teille
+Puhuja 0: helsinkiläisille tulee tietenkin yllätyksenä se, että voi olla kuin kaksi
+Puhuja 0: huonetta
+Puhuja 0: ja sitten miellätte talot, jossa enemmän kuin kaksi huonetta, jotenkin kaikki muistuttaa toisiaan.
+Puhuja 2: Mennään eteenpäin. Mennään eteenpäin.
+Puhuja 0: Koronavirusepidemia
+Puhuja 0: iski Suomeen toden teolla.
+Puhuja 0: Ei välttämättä
+Puhuja 0: viruksen kannalta, mutta poliittiset realiteetit mukautui
+Puhuja 0: täysin maailmaan,
+Puhuja 0: jossa Suomea kohtaa virusepillinen. Ja minun mielestä nämä kaksi asiaa täytyy pitää
+Puhuja 0: toisistaan erillään.
+Puhuja 0: Väistämättä tulee olemaan sekava soppa miten me käsitellään tätä
+Puhuja 0: koronavirustapahtumia ja
+Puhuja 0: asioita Suomessa, mutta jos suurin piirtein yritetään edetä
+Puhuja 0: niin, että puhutaan aluksi
+Puhuja 0: hallituksen toimesta.
+Puhuja 0: Mitä politiikka, mitä valtio, miten Suomi on reagoinut tähän
+Puhuja 0: epidemiaan.
+Puhuja 0: Sitten
+Puhuja 0: puhutaan myös sen jälkeen
+Puhuja 0: epidemian
+Puhuja 0: vaikutuksista
+Puhuja 0: esim.
+Puhuja 0: Työllisyyteen,
+Puhuja 0: yrittäjiin,
+Puhuja 0: totta kai väestöön laajemmin. Ja sitten ehkä lopuksi voidaan jonkun verran arvioida,
+Puhuja 0: että filosofisesti
+Puhuja 0: missä me mennään.
+Puhuja 1: Niin, olen ollut tosi paljon miettinyt viime päivinä vaikkapa perheitä, joissa on alkoholi tai mielenterveysongelmia
+Puhuja 1: tai niin edelleen, että minkälaista heillä on
+Puhuja 1: lapsilla pitää kotikoulua silloin, ja toivottavasti
+Puhuja 1: tähän on riittävästi palvelua. Mutta kun ympäriltä kuuntelee tarinoita, niin minusta tuntuu, että tämä iskee ihmisiin niin monin eri tavoin.
+Puhuja 1: Tuttavia,
+Puhuja 1: jotka ovat vaikkapa orkeserimuusikoita ja heiltä on menneet
+Puhuja 1: toimeentuloon.
+Puhuja 1: Anteeksi.
+Puhuja 1: Ja
+Puhuja 1: sitten taas jotkut on ahdistuneita,
+Puhuja 1: että hei voi jäädä...
+Puhuja 1: Tavallaan
+Puhuja 1: että on ravintolayrittäjät,
+Puhuja 1: parturi kampaamot, kaikki tämän kaltaiset. Ja sitten on toisaalta
+Puhuja 1: sellaisissa palveluammateissa
+Puhuja 1: tai terveydenhuoltoalalla olevia ihmisiä, jotka ei voi jäädä kotiin.
+Puhuja 1: Ajattelen itse, että minulla kestää perse istumista pari kuukautta. Maria kyllä katosta sieltä.
+Puhuja 2: Siellä. Nyt kuuluu joo.
+Puhuja 1: Ehkä se johtuu siitä, että kiroilin.
+Puhuja 1: Olin sanomassa, että minulla kestää persse istumista täällä kotikonttorissa
+Puhuja 1: ihan hyvin, ja pystyn tekemään uutisia
+Puhuja 1: etänä. Se on ihan mahdollista,
+Puhuja 1: mutta niin on paljon ihmisiä, jotka eivät voi...
+Puhuja 0: Kun
+Puhuja 0: mua nyt vähän huolettaa se ajatus, että
+Puhuja 0: okei me täällä ylistetään.
+Puhuja 0: Kylläpäs
+Puhuja 0: pääministeri Sanna Marinin
+Puhuja 0: reaktio tähän on ollut ihan mahtavaa ja hienosti saatiin koko maan säppiin. Ja me voidaan tehdä silleen, että koska sanoma on varakas firma ja se maksaa meidän palkat vaikka...
+Puhuja 0: Siis
+Puhuja 0: tavallaan... En tarkoita, että me tehdään tässä jotakin tyhmästi, mutta
+Puhuja 0: on olemassa ehkä
+Puhuja 0: toinen todellisuus, jota emme näe?
+Puhuja 2: On ehdottomasti. Eikä sitä millään tavalla halua kiistää. Se, mitä kehuttiin
+Puhuja 2: hallituksen toimintaan, se nimenomaan liittyi niillä varauksilla,
+Puhuja 2: että jos tämä on oikea tapa toimia ja jos jos ja kun on päätetty tällainen tapa, mun mielestä aika tehokkaasti tämä on toteutettu.
+Puhuja 2: Ihan
+Puhuja 0: äkkiä Markolle Maria.
+Puhuja 0: Kun pääministeri tekee tällä tavalla, että hän pistää valmiuslait käytäntöön ja
+Puhuja 0: vie maan poikkeusoloihin,
+Puhuja 0: niin se vaatii tavallaan
+Puhuja 0: tosi laajan legitimiteetin.
+Puhuja 0: Olisiko tämä ollut
+Puhuja 0: sellainen tilanne, jossa pääministeri Sanna Marin, joka vaikka onkin tosi suosittu
+Puhuja 0: ja suoraan
+Puhuja 0: sanottuna ihastuttava ihminen,
+Puhuja 0: niin onko tämä sellainen, missä hänen olisi kannattanut
+Puhuja 0: ottaa persut ja kokoomus mukaan tähän
+Puhuja 0: poikkeusoloon?
+Puhuja 2: Hänhän
+Puhuja 2: Viime torstaina tai ensinnäkin viime viikon maanantaina
+Puhuja 2: presidentti Niinistö oli kutsunut kaikki puolueet Mäntyniemeen,
+Puhuja 2: siellä tästä
+Puhuja 2: tai ylipäätään keskusteltiin koronaviruksesta.
+Puhuja 2: Sitten torstaina Sanna Marin oli kutsunut myös opposition kaikkien puolueiden puheenjohtajat Säätytalolle
+Puhuja 2: ja siellähän hän haki tämän legitimiteetin että kaikki puolueet
+Puhuja 2: oli tämän valmiuslain kannalla kyllähän tässä haettiin
+Puhuja 2: parlamentaarinen tuki tälle.
+Puhuja 2: Sitten tämä itse valmiuslaki
+Puhuja 2: on hallituksen
+Puhuja 2: säädettävä asia,
+Puhuja 2: se on tämän
+Puhuja 2: valmiuslaissa sanotaan että sen valtioneuvosto
+Puhuja 2: päättää sen jälkeen kun valtioneuvosto on
+Puhuja 2: yhteistoiminnassa
+Puhuja 2: presidentin kanssa tavallaan todennut että on poikkeustila mutta sen jälkeen valtioneuvosto toimii eli pelkästään se presidentin rooli on ainoastaan se
+Puhuja 2: että presidentti ja hallitus toteavat, että on poikkeustila, jonka jälkeen hallitus voi itsessään antaa tämän lain
+Puhuja 2: voimaantulosta. Rehellisesti
+Puhuja 1: liittyen siihen,
+Puhuja 1: että
+Puhuja 1: mikä vaikutus niillä on yhteiskunnassa ihmisten toimeentuloon ja elontaan.
+Puhuja 1: Olin vähän hölmistynyt, kun luin sitä muistiota
+Puhuja 1: tätä valmiuslakia varten tehtyä. Kun siinä oli näitä eri skenaarioita,
+Puhuja 1: joita on tehty siitä, kuinka moni joutuu tehohoitoon tai
+Puhuja 1: kuolleen.
+Puhuja 1: Kaikkein synkimmässä tapauksessa ilman rajoituksia
+Puhuja 1: oli arvioitu, että vähän yli kolmetuhatta
+Puhuja 1: suomalaista
+Puhuja 1: tulisi kuolemaan tähän
+Puhuja 1: tautiin.
+Puhuja 1: Minusta se tuntui kauhean optimistiselta. Ajattelen, että nämä toimet tuntuivat kauhean järeiltä siihen nähden.
+Puhuja 1: Vaikka kolmetuhatta on tietysti paljon ihmisiä, mutta kuolleisuus oli kuitenkin kausi-influenssaluokkaa.
+Puhuja 1: Tavallaan ottaa huomioon, että leviäisi
+Puhuja 1: laajemmalle väestöön, joka
+Puhuja 1: vastaa rokote.
+Puhuja 0: Mun mielestä Maria on aivan älyttömän mielenkiintoista, koska selvästi
+Puhuja 0: se,
+Puhuja 0: että mitä ihminen
+Puhuja 0: ajattelee, että mikä on paljon
+Puhuja 0: kuolleita
+Puhuja 0: ja paljonko tulee kuolemaan ylipäänsä. Se kertoo tosi paljon siitä, mitä ihminen ajattelee tästä epidemiasta.
+Puhuja 0: Mä ajattelen, että varmasti mun ajatukset on niin epämääräisiä. Ei perustu mihinkään. Ne on lisäksi kaikkien muiden mielestä typeriä, että voin sanoa ne ääneen. Mä ennustan nyt. No niin.
+Puhuja 0: Ja kilmiin, mutta siis mä ennustan, että tähän tulee kuolleen kahdeksan ihmistä.
+Puhuja 1: Kun uutisoitiin ne ennusteet, niin varmaan monesta ihmisestä se kolmetuhatta kuulosti tosi paljolta.
+Puhuja 1: Mutta kun olen lukenut noita kansainvälisiä tutkimuksia aika paljon, niin
+Puhuja 1: toivon tosi paljon, että THL olisi oikeassa ja me selvittäisiin niin vähällä. Pitää muistaa, että kolmetuhatta oli ilman näitä rajoituksia. Voitaisiin toivoa, että näiden rajoitusten kanssa se olisi paljon vähemmän. Mutta pelkään pahoin, että ne ovat aika optimistisia THL:n luvut. Okei. Ja täytyy sanoa, että sinähän olet perehtynyt näin lukuihin ja olet käynyt läpi ne, että miten ne on laskettu.
+Puhuja 2: Se oli erittäin ansiokas juttu tämän päivän lehdessä, minkä sinä ja Paavo teitte ja kävitte läpi. Kerro Maria
+Puhuja 2: vähän, mikä fiilis sinulle jäi näistä skenaarioiden vertailuista?
+Puhuja 1: No,
+Puhuja 1: mulla jäi se fiilis, että niitä THL:n lukuja, ennen kuin he itsekin sanoivat, että ne
+Puhuja 1: on tehty aika karkealla arvioinnilla kiireesti koska tietysti tämä on uusi virus ja meillä ei ole riittävästi tietoa. Mutta THL julkaisi maanantaina,
+Puhuja 1: valtioneuvoston muistia julkaisi ja samana päivänä julkaistiin brittitutkijoiden,
+Puhuja 1: siis olen brittien kovien asiantuntijoiden
+Puhuja 1: vastaava raportti, jossa oli tehty mallinnoksia
+Puhuja 1: Britannian osalta, että miten tämä
+Puhuja 1: tauti
+Puhuja 1: vaikuttaisi ilman mitään rajoituksia erilaisten
+Puhuja 1: rajoitusten kanssa.
+Puhuja 1: Brittien
+Puhuja 1: käyttämät
+Puhuja 1: kuolleisuusluvut
+Puhuja 1: ovat selvästi isompia kuin THL:llä ja myös se osuus siitä, kuinka moni tulee vaatimaan sairaalahoitoa.
+Puhuja 1: THL
+Puhuja 1: lupasi nyt toimittaa tällä viikolla vielä tarkempia laskelmia
+Puhuja 1: He perehtyivät myös näihin brittien laskelmiin. Mutta kyllä se
+Puhuja 1: tilanne ei ole lainkaan hyvä. Miksi minä hölmötyin THL:n
+Puhuja 1: lukuja oli se, että
+Puhuja 1: ne määrät esimerkiksi tehohoitoon joutuvista olivat sen kaltaisia, että me selvittäisimme aika pienellä
+Puhuja 1: resurssilisäyksellä.
+Puhuja 1: Tiedättekö?
+Puhuja 1: Jos siinä oli arvioinut huonossa skenaariossa, että kahdeksantuhatta ihmistä joutuisi tehohoitoon,
+Puhuja 1: niin nykyisellään meillä on ilmeisesti tehohoitopaikkoja neljäsataa ja pystytään lisäämään
+Puhuja 1: kapasiteettia tuhanteen. Se ei kuulosta mitenkään ihan mahdottomalta katastrofilta.
+Puhuja 1: Siihen nähden nämä toimet ovat
+Puhuja 1: minusta järeiltä.
+Puhuja 1: Jäeitä tämä tietysti onkin, mutta en tiedä, onko se
+Puhuja 1: sitä
+Puhuja 1: ajattelen, että mitä tulee terveydenhuollon resursseihin, niin on varmaan parempi ylivarautua.
+Puhuja 0: Tästä me varmasti ollaan ihan kaikki samaa mieltä.
+Puhuja 0: Mieluummin näin päin.
+Puhuja 0: Haluan kysyä
+Puhuja 0: luvuista vielä sen, että onko meillä olemassa siis sellainen mahdollisuus, että tämä
+Puhuja 0: koronavirusepidemia
+Puhuja 0: asettuu
+Puhuja 0: yhdeksi kausiflunssaksi
+Puhuja 0: muiden joukkoon? Onko se enää mahdollista?
+Puhuja 1: No miten olen näitä tiedejuttuja lukenut,
+Puhuja 0: niin lieveneekö se ikään kuin ajan mittaan ja jää sellaiseksi yhdeksi... Tarkoitan enemmän sitä, että tämä mikä nyt on meneillään, niin kun nyt odotetaan, että kuinka tuhoisa se tulee olemaan suomalaisille, kuinka monta
+Puhuja 0: suomalaista se vie teholle ja kuinka monta suomalaista se
+Puhuja 0: vie hengen.
+Puhuja 0: Joka
+Puhuja 0: vuosi joku kausi-influenssa
+Puhuja 0: tänne tulee ja joka vuosi kausi-influenssa
+Puhuja 0: varsinkin vanhusväestössä
+Puhuja 0: aiheuttaa kuolemia, niin onko se mahdollista, että vaikka kolmen
+Puhuja 0: kuukauden päästä katsotaan tätä, että korona olikin vaan
+Puhuja 0: kausi-influenssa. Onko se mahdollista? Onko tämä tässä ajatuksessa mitään järkeä?
+Puhuja 1: Niin, kausi-influenssaan
+Puhuja 1: on rokote.
+Puhuja 1: Käsittääkseni se ei vie kauheasti työikäistä väestöä teholle.
+Puhuja 1: Esimerkiksi Italiassa katsoin kaksitoista prosenttia tehohoitopotilaista
+Puhuja 1: alle 50-vuotiaita.
+Puhuja 1: Minusta tuntuu että vertaaminen
+Puhuja 1: ei...
+Puhuja 1: Toisekseen koronaviruksen kuolleisuus on vielä pikkaisen avoin kysymys.
+Puhuja 1: Mutta yksi selitys,
+Puhuja 1: ja tämä kertoo minusta siitä, miksi rajoitukset ovat
+Puhuja 1: tärkeitä. Esimerkiksi siinä mallinnuksessa, mitä oli tehty, että minkä takia britit ovat käyttäneet
+Puhuja 1: korkeampia tartuttavuuslukuja kuin suomalaiset. Niin yksi syy oli se, että aikaisempien tutkimusten perusteella suomalaisilla on vähemmän
+Puhuja 1: sosiaalisia kontakteja kuin briteillä,
+Puhuja 1: joka hillit tätä tautia.
+Puhuja 1: Se ei auta kaikkeen, mutta painottaa sitä, että tapa katkaista
+Puhuja 1: tai
+Puhuja 1: hillitä sitä on vähentää sosiaalisia kontakteja.
+Puhuja 0: Mulla on vielä
+Puhuja 0: ehkä viimeinen pointti.
+Puhuja 0: Mä haluan sanoa, koska meidän lehden pääkirjoituksessa
+Puhuja 0: oli tänään
+Puhuja 0: Se ei ole mitenkään harvinaista, että siellä on viisaita sanoja.
+Puhuja 0: Siellä oli mun mielestä tosi mielenkiintoinen ajatus,
+Puhuja 0: että siellä kirjoitettiin niin, että
+Puhuja 0: koronavirus on yksi esimerkki
+Puhuja 0: muuttuvasta ajasta sillä tavalla, että
+Puhuja 0: ennen vanhaan oli sellainen ajatus, että kriisi joko on päällä tai
+Puhuja 0: ei ole, Että joko ollaan sodassa tai ei olla sodassa. Se on hyvin mustavalkoinen ja hyvin selkeä.
+Puhuja 0: Nykyään
+Puhuja 0: kriisit ovat
+Puhuja 0: erilaisia. Ne ovat lähes aina
+Puhuja 0: mustavalkoisia, vaan ne ovat harmaan sävyjä. Meillä ei ole täysin täys kriisi kaikki
+Puhuja 0: suomalaiset kuolemassa huomenna, vaan meillä on epidemian leviämässä maassa uhkaa osa. Tavallaan
+Puhuja 0: myös tällaiset medikaalakriisit
+Puhuja 0: muistuttavat Ukrainan
+Puhuja 0: sotaa,
+Puhuja 0: että täysi sota ei ihan,
+Puhuja 0: mutta pieniä vihreitä miehiä siellä täällä, kukaan ei halua niitä, mitä niille tehdään.
+Puhuja 0: Ymmärrätkö, että
+Puhuja 0: kriisin käsite on monimutkaistaistunut. Mielestäni mielenkiintoinen ajatus.
+Puhuja 2: Joo, itse asiassa mietin vähän niin kuin päinvastoin.
+Puhuja 2: Jos
+Puhuja 2: miettii
+Puhuja 2: kriisejä, mitä tässä on nyt viimeisen sadan vuoden aikana koettu, niin
+Puhuja 2: siinä on ollut yksi kansallisvaltio
+Puhuja 2: vastaan jotain muuta tai jonkinlainen hybridivaikuttaminen
+Puhuja 2: tämähän on ensimmäinen kerta
+Puhuja 2: varmaan koskaan kun on tämmöinen globaali
+Puhuja 2: kriisi missä niinku periaatteessa koko maapallo on niinku samalla puolella ulkoista vihollista vastaan tämmöistä pandemiaa vastaan ja täähän sama kuin jossain science fiction elokuvassa avaruusaloille hyökkäisi maapallolle
+Puhuja 2: mutta
+Puhuja 2: ajatuksena se, että nyt on ensimmäisen kerran
+Puhuja 2: globaali
+Puhuja 2: näin laaja pandemia mikä vaikuttaa joka ikiseen maapallon ihmiseen
+Puhuja 2: niin
+Puhuja 2: aika vaisua tämmöinen
+Puhuja 2: kansainvälinen
+Puhuja 2: yhteistyö ja se, että kaikki maailman kansat yhteistä taistelevat sitä vastaan tähän asti on ollut.
+Puhuja 2: Mikä on mielestäni jotenkin hämmentävä ajatus, että jos joskus nyt kuvittelisi, että tätä EU-tasolla tai maailman
+Puhuja 2: tasolla kaikki olisi samassa rintamassa mutta ei. Tässä
+Puhuja 2: syytetään
+Puhuja 2: puhutaan kiinalaisesta viruksesta
+Puhuja 2: ja kaikki sulkee omien rajojaan ja koittaa suojella omaa kansaansa, mikä totta kai on myös kansallisvaltion tehtävää, mutta
+Puhuja 2: aika lievää kansainvälinen yhteistyö on ollut.
+Puhuja 1: Joo, se siltä vaikuttaa.
+Puhuja 1: Saanko kysyä teiltä tähän? Mun pitää kohta lopettaa,
+Puhuja 1: mutta saanko kysyä yhden kysymyksen: Onko teillä koiraa? Joo.
+Puhuja 1: Koska
+Puhuja 1: jos tulee ulkona
+Puhuja 1: liikkumiskielto, niin koiraa saa ainakin muissa Euroopan maissa
+Puhuja 1: ulkoiluttaa. Ja minun ystävätni Italiasta kertovat, että koirat ovat ihan nääntyneitä,
+Puhuja 1: kun kaikki lainailevat
+Puhuja 1: niitä toisinensa.
+Puhuja 1: Ja mietin,
+Puhuja 1: pitäisikö hankkia
+Puhuja 1: koira
+Puhuja 1: jo siltä varalta, että
+Puhuja 1: jääntikikas, kun
+Puhuja 1: kesti täällä sisätiloissa. Mutta onnea vaan kaikille koiraomistajille.
+Puhuja 1: Saatte liikkua
+Puhuja 1: ulkona.
+Puhuja 0: Nyt kun
+Puhuja 0: olette siellä kotonane säpissä, on paljon aikaa
+Puhuja 0: kenties iltasella.
+Puhuja 0: Ottaa lasipunaviiniä
+Puhuja 0: ja rentoutua
+Puhuja 0: ja sitten viihdyttää
+Puhuja 0: perhettä tai sanotaanko naapurustoa
+Puhuja 0: tarinoilla, huudella niitä parvekkeelta niin
+Puhuja 0: mistäs te puhutte?
+Puhuja 2: Jos aloitan niin voisin ehenkin sanoa että mun mielestä siis mä uskon että
+Puhuja 2: tän tämmösen
+Puhuja 2: globaalin
+Puhuja 2: etätyöilmiön
+Puhuja 2: jälkeen niin tässä ihmiset vähitellen ehkä mekin jopa opitaan käyttämään
+Puhuja 2: Skypeää ja erilaisia viestintävälineitä ja varmaan
+Puhuja 2: etätyö tulee lisääntymään.
+Puhuja 2: Tavallaan, jos jatkuu kaksi kuukautta, niin
+Puhuja 2: tässä varmaan
+Puhuja 2: ehkä
+Puhuja 2: aika moni ihminen tajuaa, että etätyötä kannattaisi tehdä enemmänkin myös silloin, kun ei ole pakko. Mutta tällä hetkellä
+Puhuja 2: isoin ongelma tässä on se, että musta tuntuu, että kun tekee kotona töitä ja nämä päivät on aika rikkonaisia, meilläkin on kotikoululaisia
+Puhuja 2: täällä,
+Puhuja 2: niin musta mä olen
+Puhuja 2: koko ajan sellaisessa puolitilassa.
+Puhuja 2: Tavallaan
+Puhuja 2: teen mukamas päivisin töitä mutta se keskeytyy koko ajan jonka aikana se jatkuu illalla ja mä en ole oikeastaan mitään muuta kuin töitä hyvin ehdottomasti. Sama,
+Puhuja 0: kello on ympäri aivan hirveät.
+Puhuja 0: Tää on se syy miksi freelancerin
+Puhuja 0: elämä on niin huono. Kyllä ja
+Puhuja 2: mä luulen, että se muutos sitten kun ihmiset jos tätä jatkuu viikkokaupalla kuukausikaupalla
+Puhuja 2: niin ihmiset oppii ehkä jossain vaiheessa tai minäkin opin erottamaan sen työn ja vapaa-ajan.
+Puhuja 2: Mutta se mitä nyt halusin kehua niin se
+Puhuja 2: mitä me ollaan tehty nämä välit täällä on pelattu monopolia,
+Puhuja 2: se on aivan mahtava peli. En ole pelannut sitä
+Puhuja 2: vuosikymmeniin
+Puhuja 2: ja tämä on aiheuttanut meidän perheessä,
+Puhuja 2: miten sanoisin,
+Puhuja 2: tällaista hyvin paljon skismaa perheenjäsenten välillä. Ja myös se, koska me ei säälitä perheen pienimpiäkään,
+Puhuja 2: vaan yhdistetään jokainen penni niiltä.
+Puhuja 2: Tämä on paljastanut uusia piirteitä perheenjäsenistä.
+Puhuja 0: Maria.
+Puhuja 1: Tuomas, erityisesti sulle, kun viimeksi osoitit, miten paljon vaikeuksia sulla on ymmärtää naisten sieluelämää ja pohdit näitä... No tämä.
+Puhuja 1: En muista, miten kutsuisikaan.
+Puhuja 1: Oletteko
+Puhuja 1: te kumpikaan katsoneet
+Puhuja 1: britti
+Puhuja 1: sarjaa flyback?
+Puhuja 0: En ole, sitä on kehuttu aivan hirveästi.
+Puhuja 1: Se on ihan älyttömän hyvä. Tästä evakkoretkestäni
+Puhuja 1: hyvä seuraus on se, että kiinnostuin jonkun verran
+Puhuja 1: tutustumaan tähän sarjaan ja se on hillittömän hauska.
+Puhuja 1: Jos haluatte jotain muuta ajateltavaa, niin suosittelen sitä. Hei! Ja sitten vielä lisää lopuksi.
+Puhuja 1: Joo, etenkin sinä.
+Puhuja 1: Sinun kannattaa katsoa se. Mutta lisäksi haluaisin lisätä, että ei kannata kriisin takia hankkia koiraa vaan miettinyt sitä muutenkin. En suosittele pelkästään
+Puhuja 1: tämän takia, koska koirasta pitää pitää huolta
+Puhuja 1: koko ajan.
+Puhuja 0: Mä
+Puhuja 0: ostan myös Maria Mannerille
+Puhuja 0: sim-kortin, jossa on joku muu kuin yksi geeni yksi
+Puhuja 0: geeni
+Puhuja 0: yhteys. Mä haluan suositella...
+Puhuja 0: Okei, muutama asia.
+Puhuja 0: Helsingin sanomilta on alkanut tulla uusi podcast,
+Puhuja 0: joka tulee ulos päivittäin, jossa on viimeiset käänteet muun muassa koronavirusepidemiasta.
+Puhuja 0: Sen nimi on HS päivä. Se löytyy tällä hetkellä kaikista muista palveluista paitsi Applen podcasteista.
+Puhuja 0: Kannattaa tsekata. Mä juonan sitä, mutta mä en
+Puhuja 0: ole se pääasia siinä, vaan Hesarin
+Puhuja 0: tosi fiksut ja analyyttiset toimittajat. Muun muassa tästäkin podcastin ystäville tutut
+Puhuja 0: Paavo Teittein Jussi Sippola
+Puhuja 0: käy siinä vieraana. He kertovat, mitä he ovat saaneet selville ja näin päin pois. Erittäin hyvä kamaa. HS-päivä kannattaa kuunnella.
+Puhuja 0: Ja sitten toinen, mitä mä haluan suositella. Mä ikävästi joudun tuplaamaan nyt suosituksen
+Puhuja 0: eli The Sylläbuss
+Puhuja 0: niminen
+Puhuja 0: uutiskirje
+Puhuja 0: kannattaa ehdottomasti tilata itselle
+Puhuja 0: varsinkin tällaisina aikoina, jolloin informaatiomateriaalin
+Puhuja 0: määrä on loputon.
+Puhuja 0: Se, että joku kuratoi sulle, että tässä on covid-viruksesta
+Puhuja 0: paras
+Puhuja 0: tutkimussetti mitä on. Lue nämä neljä tutkimusta tästä. Se on todella jotenkin arvokasta.
+Puhuja 0: The Syllä Bous. Kannattaa ehdottomasti tutustua. Lopetetaanko
+Puhuja 0: Joo okei. Siinä kaikki tältä viikolta.
+Puhuja 0: Mä en
+Puhuja 0: tiedä, miten hyvin me saadaan äänet ja muut, mutta me yritetään tosissaan parhaamme ja parannetaan joka viikko.
+Puhuja 0: Kuuntelijoille pahoittelut, jos tämä ääni tuli nyt huonolaatuisena, vaikea saada selvää päätöksiä ja näin. Tästä
+Puhuja 0: parannetaan.
+Puhuja 0: Mutta siinä kaikki tältä viikolta. Kiitos Marko Junkkari.
+Puhuja 2: Kiitos Tuomas.
+Puhuja 0: Kiitos Mari Manner.
+Puhuja 1: Kiitos.
+Puhuja 0: Minun nimeni on Tuomas Peltomäki.
+Puhuja 0: Äänen
+Puhuja 0: ja kuvan ja kaiken muun meille tekee tällä viikolla Janne Elkki, joka on suoraan sanottuna hikoillut
+Puhuja 0: koko viikon, koska hän on laittanut näitä systeemejä.
+Puhuja 0: Kiitos Jannelle kovasti.
+Puhuja 0: Ei kai siinä, me kuullaan taas ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

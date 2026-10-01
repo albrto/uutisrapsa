@@ -1058,6 +1058,7 @@ let newRecSeq = 0;
 let mainView = 'suspicious'; // 'suspicious', 'all', 'corrected'
 let currentSearch = '';
 let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
+const audioObjects = {}; // jakso_id → Audio (puuttui: Toista-nappi kaatui ReferenceErroriin)
 
 // =====================================================
 // LOAD DATA

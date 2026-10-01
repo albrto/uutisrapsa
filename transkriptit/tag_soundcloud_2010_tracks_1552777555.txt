@@ -1,0 +1,449 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin
+Puhuja 1: Sanomat.
+Puhuja 1: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin torstaina kaksimiljoonaa
+Puhuja 1: yhdeksän. Kesäkuuta kaksituhatta kaksikymmentäkolme.
+Puhuja 1: Mun nimi on Venla Kuokkanen ja kanssani sanomaton studiossa ovat politiikan toimittaja Joona Aaltonen.
+Puhuja 2: Mukava olla täällä taas ja terkkuja erityisesti kaikki, jotka Twitterissä ovat minua tänne kaipailleet.
+Puhuja 1: Mahtavaa,
+Puhuja 3: puolesta, vaikka kukaan ei ehkä Twitterissä
+Puhuja 3: ole odottanut paikalle.
+Puhuja 1: Mutta täällä ollaan. Kyllä, ja sä olet ollut myös aikaisemmin viime kesänä. Kyllä kyllä. Mahtavaa,
+Puhuja 1: eli niin kuin kuulette,
+Puhuja 1: niin täällä on kesätiimi
+Puhuja 1: messissä
+Puhuja 1: ja valitettavasti, vaikka mekin Tuomaksesta niin paljon pidämme, niin hänenkin pitää joskus olla kesälomalla,
+Puhuja 1: mutta
+Puhuja 1: me yritetään hoitaa
+Puhuja 1: kesän ajan hommaa
+Puhuja 1: timanttisella
+Puhuja 1: ja rautaisella otteella.
+Puhuja 1: Tämän viikon podcastissa
+Puhuja 1: keskustellaan Venäjästä ja Jevkeni Brikoshinin aseellisesta kapinasta.
+Puhuja 1: Sitten me jatketaan tuoreen elinkeinoministeri
+Puhuja 1: Wilhelm Junnilan natsiviittausten
+Puhuja 1: analysointia
+Puhuja 1: Sitten keskustellaan Helsingin
+Puhuja 1: apulaispormestari
+Puhuja 1: Paavo Arhinmäen tekemästä Tiutyöstä, eli laittomasta grafiitista,
+Puhuja 1: jonka hän maalasi tunnelin Vuosaaren satamaradan
+Puhuja 1: varrelle.
+Puhuja 1: Lopuksi vielä hyviä keskustelun aiheita pitkien ja epämukavien hiljaisuuksien varalle.
+Puhuja 2: Voisi vielä tähän alkuun lisätä, että mehän ei olla koko kesätiimi vaan meitä on vielä kaksi
+Puhuja 2: tämän porukan lisäksi, jotka täällä muina viikkoina sitten saattavat esiintyä.
+Puhuja 2: Eli jos jotain meistä ei ensi viikolla kuule, niin se on ihan luonnollista ja normaalia. Ei ole saanut potkuja!
+Puhuja 1: Tää oli hyvä tää täydennys!
+Puhuja 1: Loistavaa!
+Puhuja 1: Jees!
+Puhuja 1: Elikkä venäläisen palkka-armeijan Wagnerin johtaja Jeevgenybricoshin
+Puhuja 1: väitti
+Puhuja 1: väitti perjantaina, että Venäjä olisi hyökännyt Wagnerin taistelijoita vastaan.
+Puhuja 1: Rikooshinin
+Puhuja 1: mukaan Iskussa olisi kuollut runsaasti sotilaita. Tämän jälkeen hän ilmoitti ryhtyvän vastatoimiin.
+Puhuja 1: Sitten perjantai ja lauantain
+Puhuja 1: välisenä yönä Wagnerin joukot lähti liikkeelle valtasivat
+Puhuja 1: Dondrostovin
+Puhuja 1: sotilaskohteet ja lähtivät marssimaan kohti Moskovaa.
+Puhuja 1: Sitten marssi
+Puhuja 1: keskeytyi,
+Puhuja 1: Brigoshin käski joukot kääntymään takaisin. Sitten ilmoitettiin,
+Puhuja 1: että Bricoshin siirretään Valko-Venäjälle ja Venäjä luopuu syytteistä Bricoshinia ja Wagneraa kohtaan.
+Puhuja 1: Ilmeisesti asia ei olekaan ihan näin,
+Puhuja 1: ja rikostutkintoa ei olisi lopetettu, ja nyt ei ole ihan myöskään viimeisten tietojen mukaan ilmeisesti myöskään selvää, että missä se prikoshin on.
+Puhuja 1: Mulla on vaikka mitä kysymyksiä tähän liittyen ja vaikka mitä spekulaatiota,
+Puhuja 1: mutta
+Puhuja 1: lähetäänkö ihan ensimmäiseksi liikkeelle prikosinista
+Puhuja 1: ja sen kohtalosta ja mennään
+Puhuja 1: pikkuhiljaa kohti sitä, että mitä tämä
+Puhuja 1: kertoo
+Puhuja 1: Venäjästä, Putinista,
+Puhuja 1: Venäjän hyökkäyssodasta Ukrainasta
+Puhuja 2: enemmän. Tai erilaisista tavoista viettää juhannusta.
+Puhuja 1: Se on myös totta.
+Puhuja 1: Mitä veikkaatte, mikä on kuin Brigoschin kohtalo?
+Puhuja 3: No
+Puhuja 3: se on hyvä kysymys. Sitä varmaan kaikki pohdiskelee ehkä prikootssin itsekin.
+Puhuja 3: Siis nythän oli
+Puhuja 3: viestejä sotablockereille eli Brigot olisi lentänyt Valko-Venäjälle. Nyt on taas ollut viestejä, että Brigot kone ois nähty takaisin Venäjällä.
+Puhuja 3: Tämä on mysteeri jopa hänen
+Puhuja 3: liikkumissijaintinsa.
+Puhuja 3: Siis hänhän on sanonut asioita,
+Puhuja 3: joiden jälkeen Putinille olisi aika kiusallista, ettei Rikozille
+Puhuja 3: mitään tehtäisi.
+Puhuja 1: Talous
+Puhuja 1: kuntoon ja tällä tavalla, että se jotenkin menisi sitten tämän asian yli.
+Puhuja 1: Ihmisoikeuksia
+Puhuja 1: on
+Puhuja 1: vaakakuppi missä on eri asioita.
+Puhuja 1: Miettikää
+Puhuja 1: sitä, että jos tämä olisi oikeasti
+Puhuja 1: vaikka meidän työpaikalla.
+Puhuja 1: Tällainen tilanne.
+Puhuja 1: Ehkä media on siitä huono, koska
+Puhuja 1: pyritään saamaan tottakai kaikkia ääneen, mutta
+Puhuja 1: Kun
+Puhuja 1: puhutaan
+Puhuja 1: työyhteisölle siitä, että tarvitaan diversiteettiä eri-ikäisiä,
+Puhuja 1: eri taustoista tulevia ihmisiä missä tahansa, siitä on hyötyä. Tavallaan äärimmilleen vietynä tämä on esimerkki siitä mun mielestä.
+Puhuja 1: Mietin sitä, että millaista siellä on oikeasti tehdä töitä? Millaista olisi tehdä töitä tällaisessa kohdassa, että ei ole minkäännäköistä luottamusta?
+Puhuja 2: Täytyy taas kuitenkin muistaa se, että
+Puhuja 2: nämä poliittiset kohut on poliittisia kohuja. Eduskunnassa ihmiset on siis aivan mestareita siinä,
+Puhuja 2: että ne voi olla hyvinkin eri mieltä, hyvinkin itselleen keskeisistä asioista ja kuitenkin tulla hyvin toimeen keskenään.
+Puhuja 2: En usko, että eduskunnassa,
+Puhuja 2: mitä junnilasta nyt puhutaan, niin hän on ilmeisesti oikein mukava seuramies ja
+Puhuja 2: hauskaa seuraa.
+Puhuja 2: Joku hän on todennut,
+Puhuja 2: että ilmeisesti hän osaa olla muillakin tavoilla hauska.
+Puhuja 3: On ihan oikeaakin huumoria.
+Puhuja 2: Jos eduskunnan kuppilassa ei tarvitse paljoakaan viettää aikaa, niin kyllä siellä sellaiset ihmiset, jotka ikään kuin julkisessa keskustelussa
+Puhuja 2: on täysin vastakkaisia mieli ja usein tukkanuottasilla, niin siellä tulee hyvin toimeen.
+Puhuja 2: En täysin
+Puhuja 2: ole sitä mieltä, että tämä olisi
+Puhuja 2: jotenkin
+Puhuja 2: aivan kamala työpaikka, mutta kyllähän eduskunta on siinä mielessä kansanedustajille työkavereita työpaikkoja valmiiksi, että kaikki ne kilpailee toisiaan vastaan.
+Puhuja 2: Tosin
+Puhuja 3: näkisin tossa pienen eron sen välillä, että onko mielipidettä
+Puhuja 3: koskeva erimielisyys joka on vaikka, että leikataanko täältä vai leikataanko täältä, vai onko sellainen,
+Puhuja 3: että joku vitsailee
+Puhuja 3: tällaisilla asioilla, kun
+Puhuja 3: toisen juutalaisten
+Puhuja 3: historia. Siinä on
+Puhuja 3: se ei ole samantyyppinen
+Puhuja 3: poliittinen
+Puhuja 3: ratkaisu. Neuvotellaanko nyt siitä, että saako
+Puhuja 3: ihmisiä massa tuhota.
+Puhuja 2: Täytyy kuitenkin muistaa, että junilla se on ollut vitsailua, joka on ollut asiatonta varmasti.
+Puhuja 2: Mutta
+Puhuja 2: kyllä
+Puhuja 2: eduskunta
+Puhuja 2: yleisesti ihmisten
+Puhuja 2: toistensa kanssa toimeentulon kannalta on aika jotenkin... Usein itse ihmettelen, että mitä ihmiset eivät hyvin toimeen keskenään
+Puhuja 2: loppupeleissä kuitenkin.
+Puhuja 3: Ei me toimi.
+Puhuja 1: Mulla on yksi asia, mikä on mun mielestä aika olennainen vielä.
+Puhuja 1: Monilla on kuitenkin
+Puhuja 1: häntä. Hänet on äänestetty sinne ja hänellä on ollut tuki, että hän on päässyt sinne.
+Puhuja 1: Mitä ne ihmiset, jotka on äänestänyt
+Puhuja 1: häntä ja ehkä jopa
+Puhuja 1: pitäneet tästä vitsailusta? Koska sellaisia ihmisiä varmasti on myös Suomessa.
+Puhuja 1: Mitä
+Puhuja 1: junnilan kannattajat ajattelee tästä tilanteesta,
+Puhuja 1: että hän on heille vähän antanut ymmärtää tai heittänyt vähän vitsiä tai näin?
+Puhuja 1: Sitten yhtäkkiä jotenkin, no takinkääntö on silleen, että kieltää
+Puhuja 1: kaiken
+Puhuja 1: pahoittelee. Miltä niistä mahtaa tuntua
+Puhuja 1: tällä hetkellä?
+Puhuja 2: Sosiaalisessa mediassahan on ollut jotain näitä kommentteja, missä häntä aika kovasti haukuttu siitä, että hän nyt...
+Puhuja 2: Pentti porukan.
+Puhuja 2: Niin,
+Puhuja 2: niin. Mutta toisaalta en tiedä, kuinka iso osa niistä on ollut hänen äänestäjiään tai hänen aktiivisiaan kannattajiaan.
+Puhuja 3: Tosi vaikeahan tähän on vastaamassa. Sometiliä näin tollasia jos ei ooterilla ihmisen henkilöllisyydestä ja muusta, niin paha sanoo minkä painoarvon millekin kommentille sitten.
+Puhuja 2: Vastaavasti tänne HS-Turku
+Puhuja 2: oli haastatellut
+Puhuja 2: nantalilaisia
+Puhuja 1: junnilan
+Puhuja 2: kannattajia
+Puhuja 2: heistä. Osa oli sitä mieltä, että tämä on vasemmistopuolueiden
+Puhuja 2: ajojahti, hän on syytön, mukava ja hauskaksi, taidettiin häntä sielläkin kutsui hauska mies, että tämä on nyt ihan tarpeetonta
+Puhuja 2: ajojahti. Uskon,
+Puhuja 2: että Junnilan
+Puhuja 2: kannattajakuntahan on kuitenkin
+Puhuja 2: tietyllä tavalla ääniharvan asemassa jopa sillä omalla alueella, niin kyllä siellä
+Puhuja 2: löytyy niin monenmoista kannattajaa, että löytyy kyllä yhtä monenmoista varmasti suhtautumista tähän. Ajattelen sitä
+Puhuja 1: ajatusta
+Puhuja 1: omasta näkökulmastani.
+Puhuja 1: Vaikka sitä, miten itse olen joitain ihmisiä äänestänyt, ja
+Puhuja 1: se että on sillä ihmisellä tai puolueella
+Puhuja 1: joku asia minkä takia sitä on päätynyt äänestämään.
+Puhuja 1: Se, että sitten menee
+Puhuja 1: tosi nopeasti ja se mielipide kääntyy,
+Puhuja 1: niin kyllä
+Puhuja 1: minä olisin raivona,
+Puhuja 1: jos minä olisin äänestäjä. Toki tämä nyt on sellainen, että
+Puhuja 1: ehkä siellä on monia muitakin syitä taustalla miksi häntä on äänestetty. Se ei nyt ole pelkästään tämä silmänvinkkaus.
+Puhuja 1: En sitä väitä.
+Puhuja 1: Voisi olla sellainen tilanne, että tavallaan
+Puhuja 1: kyllä minä ymmärtäisin, että jos jotkut ihmiset pahoittaisi mielensä
+Puhuja 1: siitä, että
+Puhuja 1: tavallaan se mitä he ovat kuvitelleet tämän ihmisen ajavan nyt se alkaa
+Puhuja 1: olla. Hän alkaa näyttää poliitikolta ja ministeriltä siinä mielessä.
+Puhuja 3: Siis
+Puhuja 3: senhän takia näissä myös välillä
+Puhuja 3: on tätä kaksoisviestintää, että saadaan se
+Puhuja 3: salonkikelpoinen
+Puhuja 3: viestintä ja sit sieltä kuitenkin vähän
+Puhuja 3: vilkutellaan
+Puhuja 3: silmää niin kuin
+Puhuja 3: sinne niille ydin
+Puhuja 3: kannatteille yleisellä tasolla sanon nyt. Joo eli
+Puhuja 1: tavallaan
+Puhuja 1: just se, että lopputulema on se, että me ei oikeasti tiedetä mitä ihmiset
+Puhuja 1: ajattelee. Ja sitten kun on viestintää,
+Puhuja 1: joka antaa ymmärtää toiseen suuntaan toista ja toiseen suuntaan toista, niin se tekee vielä asiasta
+Puhuja 1: sekavampaa.
+Puhuja 2: Mennäänkö eteenpäin? Aiotko sua sulan. Vielä yksi mielenkiintoinen pointti,
+Puhuja 2: mitä itse pidän
+Puhuja 2: tässä casessa
+Puhuja 2: junnelan ulkopuolelta mielenkiintoisena.
+Puhuja 2: Siinähän kun nosta äänestettiin
+Puhuja 2: eduskunnassa,
+Puhuja 2: junnilan luottamuksesta eilen,
+Puhuja 2: niin siellä oli tilanne, jossa
+Puhuja 2: junnilla ei saanut koko eduskunnan enemmistöä
+Puhuja 2: taakseen,
+Puhuja 2: niin kuin istuvan eduskunnan hän sai yhdeksänkymmentäviisi
+Puhuja 2: ääntä puolesta ja kahdeksankymmentäkuusi ääntä vastaan.
+Puhuja 2: Mikäli
+Puhuja 2: koko oppositio olisi ollut paikalla, sinne olisi tarvinnut kymmenen opposopuolueen
+Puhuja 2: edustajaa enemmän
+Puhuja 2: paikalle ja niitä oli kaksitoista poissa siellä.
+Puhuja 2: Junnillahan olisi joutunut eroamaan eilen. Hän ei ole saanut eduskunnan luottamusta.
+Puhuja 2: Sieltä osalla oli ihan järkeviä syitä. Esimerkiksi
+Puhuja 2: Tytti Tuppurainen, entinen Eurooppa-ministeri on ollut myynnissä Security konferenssin tilaisuudessa
+Puhuja 2: Wiisbyssä Ruotsissa.
+Puhuja 2: Atte Harjanne on ollut myös Ruotsissa, Amdels Veckanilla,
+Puhuja 2: Kimberg,
+Puhuja 2: SDP:stä on ollut Pohjoismaiden neuvoston
+Puhuja 2: valiokunnan kokouksessa Grönlannissa.
+Puhuja 2: Kaukaissa paikoissa sitä ei
+Puhuja 2: välttämättä ehdi paikalle tällä aikataululla. Esimerkiksi
+Puhuja 2: Sanna Marin,
+Puhuja 2: SDP:n puheenjohtaja,
+Puhuja 2: ei ollut paikalla. Ei ole myöskään ilmoittanut eduskuntaan.
+Puhuja 2: Täysseistunojen
+Puhuja 2: poissaoloistahan pitää
+Puhuja 2: jättää hyvissä ajoin viimeistään tuntia ennen täysistunnon alkua
+Puhuja 2: tieto siitä, miksi hän on estynyt osallistumasta, jos on estynyt Marinilta, ei ole tullut minkäänlaista ilmoitusta.
+Puhuja 2: Häneltä on myös kyselty, mutta ei ole ainakaan toistaiseksi tullut vastauksia,
+Puhuja 2: miksi hän on ollut poissa.
+Puhuja 2: Siellä on useita, jotka olisivat varmasti ehtineet paikalle jostain SuomiAreenasta.
+Puhuja 2: Kyllä tässä herää myös kysymys siitä, kuinka
+Puhuja 3: hyvin oppositio on oman tehtävänsä hoitanut. Ei ollut taktikoitu kovin hyvin, jos tuollaiseen
+Puhuja 3: ajankohtaan laitetaan, jolloin ei edes itse
+Puhuja 3: olla paikalla.
+Puhuja 2: Ymmärrän, että varmasti
+Puhuja 2: oppositiolle on nyt tullut tavalla tai toisella yllätyksenä se, että RKP tässä nyt äänestääkin vastaan. Se on ollut varmaan symbolisempi
+Puhuja 3: alun perin, että symbolisesti osoitetaan, että
+Puhuja 3: vastustetaan.
+Puhuja 2: Yleensähän nämä epäluottamusesitykset,
+Puhuja 2: mitä oppositio esittää, siitä hallitus äänestää puolesta oppositio vastaan ja siitä saadaan
+Puhuja 2: mediahuomiota
+Puhuja 2: asialle ja sitten jatketaan eteenpäin.
+Puhuja 2: Jos oppositio olisi pelannut tämän toisella tavalla, niin voi olla, että meillä ei olisi ministeri Vilhelm Junnila elinkeinkerron. Olisiko silloin hallitusta?
+Puhuja 2: Se on hyvä kysymys.
+Puhuja 1: No niin, tämä onkin mielenkiintoista. Saako varmasti jatkua vielä eteenpäin
+Puhuja 1: mahdollisesti.
+Puhuja 1: Seuraavaan aiheeseen. Ari Mäkeen ja Grafitiin.
+Puhuja 1: Olen kirjoittanut apulaisprofessori.
+Puhuja 1: No niin menipä heti oikein. Apulaisparmestari
+Puhuja 1: Päivä Arhinmäki jäi juhannuksena kiinni laittoman graffitin teosta.
+Puhuja 1: Kyseessä oli
+Puhuja 1: Vuosaaren
+Puhuja 1: Satamaradan tunneli,
+Puhuja 1: josta Arhinmäki ja toinen henkilö narautettiin itse teosta, kun vartija havaitsi nämä omin luvin katutaidetta tai spreijaavat henkilöt.
+Puhuja 1: Vantaalta Vuosaareen kulkeva tavarajunaliikenne jouduttiin pysäyttämään hetkeksi tämän takia.
+Puhuja 1: On arvioitu, että puhdistuskustannukset
+Puhuja 1: nousevat useisiin tuhansiin euroihin.
+Puhuja 1: Arhinmäki on pahoitellut asiaa. Se oli tyhmästi tehty ja olen tästä todella pahoillani.
+Puhuja 2: Näinhän hän kommentoi asiaa. Eilen tuli itse asiassa tarkka tieto kustannuksista, joka oli kolmetuhatta viisisataa euroa.
+Puhuja 1: No niin.
+Puhuja 1: Mikä oli teidän ensimmäinen ajatus kun te kuulitte tästä keisestä?
+Puhuja 1: Kaikkien näiden rikgoshinien
+Puhuja 1: jälkeen siinä juhannus
+Puhuja 1: lasilliset kädessä?
+Puhuja 3: No oli värikäs
+Puhuja 3: ja vaihderikas
+Puhuja 3: juhannus.
+Puhuja 3: Mulla heräsi jopa pieni sympatia, ei siis itse tekoa kohtaan, vaan sitä kohtaa.
+Puhuja 3: Ihanaa, että maailmassa on tällaisiakin
+Puhuja 3: ongelmia, eikä vaan näitä ongelmia,
+Puhuja 3: jotka liittyy
+Puhuja 3: johonkin suuriin sotiin
+Puhuja 3: ja kapinoihin, vaan
+Puhuja 3: tuollaisia
+Puhuja 3: piiperrykseen
+Puhuja 3: liittyviä ongelmia.
+Puhuja 1: Joona, mitä ajatuksia sulle tuli? Mietin
+Puhuja 2: sitä, että jos
+Puhuja 2: miettii omaa suht rauhallista maaseutujuhannusta ja samaan aikaan
+Puhuja 2: viittäkymppiä lähestyvä apulaispormestari
+Puhuja 2: vetää graffit ja junatyn välissä,
+Puhuja 2: niin eikö mun elämässä tapahtunut koskaan mitään
+Puhuja 2: tällaista mielenkiintoista? Pitäs varmaan alkaa elää vähän jollain toisella tavalla. Tiedättekö mitä?
+Puhuja 1: Siis mulle tuli sellainen olo.
+Puhuja 1: En tiedä, ehkä ei ole kenenkään juttu kokemus, mutta mulla on välillä sellainen olo, jos on vähän hiprakassa tai muuten, niin mulle voi tulla sellainen olo, että kun lainkuuliisena
+Puhuja 1: ajan pitää tehdä aina kaikki oikein, niin voi tulla sellainen olo, että nyt tekisi mieli jotain vähän kiellettyä. Ja siis se kielletty ei tarkoita yleensä mitään kovin radikaalia, tämä on ehkä enemmän tällainen muodollinen, niin
+Puhuja 1: Voisiko olla sellainen, että siellä olisi käynyt jotain tällaista samaa?
+Puhuja 2: Sitä graffitistahan näki, että se ei ollut mikään ensimmäistä kertaa
+Puhuja 2: harjoiteltu vaan se oli niin kuin oikeasti ihan
+Puhuja 2: minun mielestä ainakin
+Puhuja 2: täysin subjektiivisesti
+Puhuja 2: tarkasteltuna ihan hieno graffiti.
+Puhuja 2: Se oli taidokas.
+Puhuja 2: Kyllä mä olisin siinä tunnelissa sitä kattellut, että ei se mulle sinänsä se graffiti ollut mitenkään ongelma. Hienempi se oli kuin isoa sanoista tägeistä.
+Puhuja 2: Mitä niillä radanvarsilla
+Puhuja 2: näkee.
+Puhuja 2: En tiedä oliko tämä nyt niin sellainen hetken päähänpisto.
+Puhuja 2: Tai varmasti oli hetken päähänpisto sillä tavalla, mutta kyllähän on nyt ennenkin grafiikkaa.
+Puhuja 3: Tuohon paikkaan se pistetään.
+Puhuja 1: Kaolo tulee,
+Puhuja 1: näyttää näyttää hyvältä.
+Puhuja 1: Nyt en muista tarkkaan, mutta eihän tämä nyt ihan nopeasti myöskään syntynyt. Ei tämä ollut sellainen, että tuohon pistetään
+Puhuja 1: vähän
+Puhuja 1: spreijataan.
+Puhuja 2: Ei se oli kuitenkin, kun on sen lyhyen tunnelin seinämän mittainen melkein. Iso monivärinen
+Puhuja 2: graffiteos.
+Puhuja 2: Kyllä siinä on vaivaa pistetty.
+Puhuja 2: Eikä välttämättä,
+Puhuja 2: ainakaan itse välttämättä, jos hirveästi olisi siinä ottanut alkoholia alle, niin välttämättä
+Puhuja 2: tuollaisen tarkkuuteen
+Puhuja 2: pystyisi.
+Puhuja 3: Tontakoitu juhannus ihan selvinpäin sillä
+Puhuja 1: Mä en voi sille mitään, mun mielestä tässä on vähän jotain tragikoomista.
+Puhuja 1: Tiedättekö silleen, oliko
+Puhuja 1: joku twitterissakin vaatinut
+Puhuja 1: kaupunginvaltuutetuista
+Puhuja 1: Arhinmäen eroa?
+Puhuja 1: Meillä on samaan aikaan
+Puhuja 1: kaksi aika merkittävässä poliittisessa asemassa olevaa ihmistä. Helsingin apulais...
+Puhuja 1: Nyt mä menen koko ajan sanoa apulaisprofessori,
+Puhuja 1: mutta ette tiedä ketä minä tarkoitan?
+Puhuja 1: Arhinmäki.
+Puhuja 1: Sitten meillä on ministeri,
+Puhuja 1: jossa
+Puhuja 1: tällaisia natsivihjailuja
+Puhuja 1: mietitään. Mun mielestä on jotenkin tosi tragikoomista,
+Puhuja 1: että nämä kaksi asiaa tulee samaan aikaan. Ja sitten
+Puhuja 1: myös tällaisesta graffiticasistä
+Puhuja 1: jotenkin
+Puhuja 1: vaaditaan eroa tai jotain. Mun mielestä siinä on jotain tosi tragikoomista.
+Puhuja 2: Mun mielestä ehkä paras kuuma ote tähän
+Puhuja 2: siteeraan omaa pääkirjoitustamme
+Puhuja 2: juhannukselta.
+Puhuja 2: Katutaide oli kapinaa aukototiteettia
+Puhuja 2: vastaan.
+Puhuja 2: Nytkin siitä ollaan olevinaan närkästyneitä,
+Puhuja 2: mutta on se niin kesyä jo, että se sopii vallan mainiosti kepeäksi kesäpuuhaksi
+Puhuja 2: keski-ikäiselle
+Puhuja 2: auktoriteetille
+Puhuja 2: itselleen.
+Puhuja 2: Tämä kokonaisuus oli tällainen, että
+Puhuja 2: kyllä tämä minua jollain tavalla yllätti enemmän kuin se prikosin touhu.
+Puhuja 2: Kun tämä lävähti
+Puhuja 2: pushop-ilmoituksen
+Puhuja 2: puhelimen ruudulle, niin kyllä minä tämän menin nopeammin lukemaan, että anteeksi mitä?
+Puhuja 3: Okei,
+Puhuja 0: mutta
+Puhuja 3: siis kyllähän
+Puhuja 3: toi on ihan hyvä analyysi. Kyllähän
+Puhuja 3: graffitti ei ole enää mikään kauhean
+Puhuja 3: juttu vaan sopii ihan
+Puhuja 3: keski-ikäsillekin.
+Puhuja 1: Ei se myöskään kaavialihan boomere.
+Puhuja 1: Kesätiimi alkaa puhua boomereista,
+Puhuja 1: niin ei kanselöidä itsemme ensimmäisessä jaksossa tällä.
+Puhuja 1: Hei,
+Puhuja 1: kun te sitten lähdette viikonloppuna vaikka piknikille ja nappaatte sihijuomaa kyytipojaksi
+Puhuja 1: ja alatte kuikulla viereiselle
+Puhuja 1: piknikviltille,
+Puhuja 1: niin mistäs te alatte sitten kanssaihmisille höpöttelemään?
+Puhuja 3: Siis miksi mä kuikuilen sinne viereiselle viltin?
+Puhuja 3: Yleensä pysyttäydyn mun oman viltin
+Puhuja 3: sosiaalisessa
+Puhuja 3: keikossa.
+Puhuja 1: Osoitetaan tämä juonto Matildalle.
+Puhuja 1: Mistä alat omaan päiväkirjaasi
+Puhuja 1: kirjoittamaan, mistä upeasta sarjasta tai
+Puhuja 1: kirjasta tai muusta?
+Puhuja 3: Luin luin just jotain hyvää kirjaa, mutta en nyt muista edes mikä se on. Brigot sin on ihan sekoittanut.
+Puhuja 1: Sinä siis jatkaisit Ricosini sitä keskusteluamesta?
+Puhuja 3: Todennäköisesti, olen niin tylsä.
+Puhuja 1: Eli Marko Matilan pingitilttiä,
+Puhuja 1: hän haluaa olla siellä yksin ja miettiä Rikoosinia.
+Puhuja 2: Se oli hyvä täsmennys.
+Puhuja 2: Mä
+Puhuja 2: Mä olen nyt
+Puhuja 2: jo ehkä innoissaan, väärä sanoa, mä käyn tosi harvoin elokuvissa.
+Puhuja 2: Mä en yleensä jaksa lähteä sinne elokuvateatteriin asti, se on nykyään niin kallistakin.
+Puhuja 2: Ei saa tuoda edes omia
+Puhuja 2: eväitä paikan päälle ja hirveän vaivaa. Olen ensi viikolla menossa katsomaan tämän uuden Indiana Jones-elokuvan.
+Puhuja 2: En ole niitä vanhoja nähnyt pitkä aika, olen joskus lapsena nähnyt ne.
+Puhuja 2: Muistan aina tykkäsin niistä, kun
+Puhuja 2: historian professori
+Puhuja 2: lähtee seikkailemaan
+Puhuja 2: aarteiden perään ja kaikkea
+Puhuja 2: jännittävää tapahtuu.
+Puhuja 2: Kyllä mä vähän innoissani odotan ensi viikon Indiana Jones-elämystä.
+Puhuja 2: Saa nähdä, toivottavasti se on hyvä kokemus.
+Puhuja 1: Kuulostaa mielenkiintoista.
+Puhuja 1: Mä oon katsellut Yle Areenasta sellaista kolmiosaista dokumenttia
+Puhuja 1: vankilakokeiluun
+Puhuja 1: Lidl Scandinavian.
+Puhuja 2: Ootteko sattunut törmäämään? Mä luin Sari
+Puhuja 1: Joka
+Puhuja 1: tapauksessa, tämä kertoo yhdysvaltalaisesta
+Puhuja 1: vankilasta,
+Puhuja 1: jossa on otettu
+Puhuja 1: oppia Ruotsista ja nuorista muun muassa vankein hoitoon.
+Puhuja 1: Se on aika jännä.
+Puhuja 1: Siellä on jotenkin tosi karut olot siellä Yhdysvalloissa
+Puhuja 1: vankilassa.
+Puhuja 1: Mä en tiedä, tämä varmaan nyt on tosi oloa myöntää, mutta kun on katsonut koko lapsuutensa kaiken maailman sarjoja ja kaikkia dokumentteja ja nähnyt tottakai sitä Jenkkivankilaa, mutta jotenkin se on ollut sellainen, että voiko tämä oikeasti olla näin jäätävää?
+Puhuja 1: Kyllä, siellä muun muassa vessanpönttö on siitä vankilan punkasta,
+Puhuja 1: mitä nyt joku
+Puhuja 1: metri alle kaksi, ihan vieressä.
+Puhuja 1: Järkytyin,
+Puhuja 1: eli se aika
+Puhuja 1: mielenkiintoisesti rinnastaa, että millaista sitten on olla vankilassa. Siellä tai sitten
+Puhuja 1: täällä Skandinaviassa.
+Puhuja 1: Oliko
+Puhuja 3: tuossa loppupuhistos, että pitäisikö joutua täällä vankilaan, niin kaikki olisi aika mukavasti.
+Puhuja 1: Selvä, tässä kaikki tältä
+Puhuja 1: erää!
+Puhuja 1: Kiitos Joona Aaltonen!
+Puhuja 1: Kiitos Venla! Kiitos Matilta Jokinen!
+Puhuja 1: Mun nimeni on Venla Kuokkanen, äänen ja kuvan ja kaiken muun mahtavan meille täällä. Tällä viikolla tekee Tuukka Lindholm ja Ville Veikko Niemelä.
+Puhuja 1: Muistakaa lähettää palautettauutisraportti
+Puhuja 1: ja kuullaan taas ensi viikolla! Moi moi!
+Puhuja 2: Zau!
+Puhuja 0: Moi Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardia,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa,
+Puhuja 0: Ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greatothunberg
+Puhuja 0: ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a, kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

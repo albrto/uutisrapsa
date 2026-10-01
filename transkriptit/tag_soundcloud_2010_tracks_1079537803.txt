@@ -1,0 +1,457 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin
+Puhuja 3: Sanomat. Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
+Puhuja 3: heinäkuun ensimmäisenä päivänä. Se on kesäkohta ohi ja minun nimeni on Alma Onali. Kanssani täällä Sanomatalon studiossa ovat ulkomaantoimittaja
+Puhuja 3: Sara Vainio Moikku Sara. Moikka Alma. Ja HSY:n toimittaja Joakim Westren Dol. Moikku Joaki. Moikka moi.
+Puhuja 3: Hei, te olette ihan ensimmäistä kertaa
+Puhuja 3: uutisraportissa.
+Puhuja 3: Tarkoittaako tämä sitä, että teidän kaikki unelmat on tullut nyt toteen?
+Puhuja 2: Mä yritin miettiä, olisiko mulla jotain, mitä mä aina haluan sanoa tässä podcastissa, mutta ehkä ne tulee tässä
+Puhuja 2: mieleen.
+Puhuja 1: Joo, katsotaan nyt, kun tämä
+Puhuja 1: lähtee käyntiin tästä, kaatuuko haaveet
+Puhuja 3: vai käykö kaikki totea. Niinpä, käykö Norjan-Maria rannat vai jotain muuta.
+Puhuja 3: Tänään me puhutaan
+Puhuja 3: tietysti kesän massatapahtumista
+Puhuja 3: ja koronasta.
+Puhuja 3: Turismin ja rajojen avautumisesta
+Puhuja 3: ja lopuksi puhutaan vielä tiedepiratismista,
+Puhuja 3: josta me ei siis Saran kanssa tiedetä mitään, mutta jookin saa selittää meille, mistä on kyse ja lopuksi
+Puhuja 3: vielä puheenaiheita pitkien kiusallisten
+Puhuja 3: hiljaisuuksien varalle.
+Puhuja 3: Aloitetaan heti tästä.
+Puhuja 3: Tällä viikolla somea
+Puhuja 3: ja muuta yleisöä kuohuttaneesta
+Puhuja 3: Himoksen juhannuksesta ja Pietarin EM-kisaturisteista.
+Puhuja 3: Hommahan on nimittäin niin, että
+Puhuja 3: koronavirustartunnat
+Puhuja 3: ovat Suomessa lähteneet viikon sisällä kasvuun.
+Puhuja 3: Niitä on ollut yhteensä viikon sisällä melkein tuhat.
+Puhuja 3: Niistä lähes neljäsataa
+Puhuja 3: on jäljitetty
+Puhuja 3: näihin Pietarissa jalkapalloa katsomassa olleisiin
+Puhuja 3: kisaturisteihin.
+Puhuja 3: Huomiota on herättänyt
+Puhuja 3: myös nämä ensimmäiset isot festarit, jotka on järjestetty pandemian alun jälkeen. Se tapahtuma sattui olemaan himosjuhannus,
+Puhuja 3: jossa viisituhatta
+Puhuja 3: ihmistä bailasi kuin viimeistä päivää. Itsehän olin siellä
+Puhuja 3: todistamassa
+Puhuja 3: tätä meininkiä kulttuuritoimittajan
+Puhuja 3: roolissa. Siellä heidän joukossaan oli myös Suomen tämänhetkinen vihollinen numero yksi eli Himos Peter,
+Puhuja 3: jota Iltalehti oli haastatellut.
+Puhuja 3: Jäbä oli tullut suoraan
+Puhuja 3: Pietarin
+Puhuja 3: kisoista Himokselle
+Puhuja 3: bailaamaan.
+Puhuja 3: No asteikolla kello tuhat yhdeksänsataakymmenen, kuinka paljon teitä harmittaa, että te ette viettäneet juhannustaa kesän ekoilla festareilla? Että nimenomaan Himoksella. Ei
+Puhuja 1: ole tullut itse käytyä siellä aikaisemmin.
+Puhuja 1: En
+Puhuja 1: osaa ihan sanoa. Joku syy sille on, että en ole sinne päätynyt aikaisemmin, mutta aika vauhdikkaalta se vaikutti.
+Puhuja 3: Ehkä se olisi nyt ollut ihan... Mä tiedän, mikä syy se on, kuule jookin, koska säkin olet tuollainen cool jäbä, ja himoshan tunnetaan tavallaan vain sellaisena Suomen suurimpana
+Puhuja 3: Mutta sitä ei pidä tuomita siitä, koska kun olin siellä, niin siellähän oli varsin kiva tunnelma.
+Puhuja 3: Ihmisethän oli varsin
+Puhuja 3: iloisia, hyväntuulisia
+Puhuja 3: ja hyvällä meiningillä siellä. Sara, olisit sinä halunnut?
+Puhuja 2: Minua ei harmita, täytyy sanoa.
+Puhuja 2: Mutta en halua tuomita niitä ihmisiä, ketkä sinne on mennyt. Varsinkin
+Puhuja 2: jälkijunassa, kun huomataan, mitä ne tartunnat on ollut, koska eihän ne ihmiset ole sitä tienneet,
+Puhuja 2: kun ovat päättäneet sinne mennä.
+Puhuja 3: No juuri näin. Kauheastihan nämä festarit on
+Puhuja 3: saanut kritiikkiä siitä, että siellä ollaan nyt juhlittu
+Puhuja 3: porukassa ilman turvavälejä.
+Puhuja 3: Nämä festarithan järjestettiin
+Puhuja 3: kaikkien viranomaisten,
+Puhuja 3: lääkäreiden ja muiden taiteen sääntöjen mukaan.
+Puhuja 3: Kerta kaikkiaan oli lupa sille, että Jämsään Himoksen matkailukeskukseen kokoontuu viisituhatta ihmistä kuuntelemaan
+Puhuja 3: muun muassa ihanaa KaijaKoota. Oikeesti keikka oli tosi hyvä. Bopedan keikka ei ollut niin hyvä.
+Puhuja 3: Eikö ole vähän älyllisesti epärehellistä
+Puhuja 3: vaatia, että kaupalliset toimijat jättäisi näitä festareita järjestämättä, vaikka niille on kaikki luvat kunnossa?
+Puhuja 2: On se musta joo. Voin sanoa suoraan, että mun mielestä se on
+Puhuja 2: viranomaisia.
+Puhuja 2: Me voidaan yrittää pitää vastuussa ja painostaa, mutta siinä vaiheessa kun
+Puhuja 2: joku sääntö on tehty, niin
+Puhuja 2: mun puolestani
+Puhuja 2: ei ole ihme, että sitä
+Puhuja 2: sitten noudatetaan.
+Puhuja 1: Jotenkin tämä ahding on
+Puhuja 1: just
+Puhuja 1: tommonen
+Puhuja 1: kylä, missä on joku ruukki tai saha ollut, niin se
+Puhuja 1: riippuu niin voimakkaasti
+Puhuja 1: siitä, että ne venäläiset turistit
+Puhuja 1: tulee.
+Puhuja 1: Tässä möhkäläismiehessä.
+Puhuja 3: Thorts and preyers to möhkö!
+Puhuja 1: Joo, ehkä
+Puhuja 1: jos joku kuulija haluaa mennä tukemaan
+Puhuja 1: möhköä, niin
+Puhuja 1: multa oikeasti
+Puhuja 3: puoltava lausunto sille. Todellakin, mä ainakin haluaisin mennä möhkälle. Tätä
+Puhuja 3: juteltiin kauheasti kavereiden kanssa viime kesänä, että
+Puhuja 3: tarjoiko Suomi tarpeeksi mitään innostavaa
+Puhuja 3: matkailun osalta vai ei ja kuinka paljon kaivataan ulkomaille.
+Puhuja 3: Mun täytyy sanoa, en mä kauheasti kaipaa mihinkään ulkomaille
+Puhuja 3: vielä. En mä tiedä, missä se johtuu. Mä olen vaan jotenkin ihan silleen, että mä haluan vaan Itä-Suomeen, mä haluan vaan ainakin Pohjois-Karjalaan.
+Puhuja 1: Se on ihan valtava vielä se summa.
+Puhuja 1: Siitä oli just juttu, että se oli miljoona päivässä ne menetetyt tulot.
+Puhuja 1: Oliko
+Puhuja 1: se Etelä-Karjalassa?
+Puhuja 1: Se ei voi suoraan johtaa, mikä se venäläisten osuus on. Turismituloista
+Puhuja 1: siellä alueella se on about
+Puhuja 1: puolet.
+Puhuja 1: Silloin se meinaa sitä just. Tämmöisellä
+Puhuja 1: alueella, missä
+Puhuja 1: koko kokonaiskehityksen suunta on ollut aika
+Puhuja 1: apea jo pidemmän
+Puhuja 1: aikaa, niin tämä on
+Puhuja 3: aika huolestuttava. Ja katso, just tästä mulle tuli mieleen
+Puhuja 3: se, että nämä Suomen
+Puhuja 3: tiukat
+Puhuja 3: rajakäytännöt,
+Puhuja 3: kuinka reiluja ne on suomalaisia
+Puhuja 3: yrittäjiä, suomalaista matkailualaa kohtaan, että jos suomalaiset saavat lentelemään Barcelonaan
+Puhuja 3: ja ties minne pitämään hauskaa ja sitten
+Puhuja 3: tulevat tänne takaisin, mutta Suomi pitää silti ulkomaisilta turisteilta
+Puhuja 3: rajat kiinni,
+Puhuja 3: Tavallaan se riski tavallaan on olemassa kyllä, että virusta tulee Suomeen yhä, mutta suomalainen matkailuala ja yrittäjät vaan kärsivät siitä, että täällä yritetään pitää jotenkin rajaa
+Puhuja 3: ulkomaisilta turisteilta kiinni, kun taas suomalainen saa aina palata Suomeen. Mutta tämä on kaikki spekulaatio. Mehän ei tiedetä vielä, mitä tapahtuu.
+Puhuja 3: Kyllä soisi, että
+Puhuja 3: aluksi jo virolaiset työntekijät pääsisivät kulkemaan Suomen
+Puhuja 1: ja Helsingin ja Tallinnan väliä. Mihin te lähtisitte, jos teillä olisi kuukausi aikaa? Mä tiedän, että lähtisin sinne möhöön ainakin.
+Puhuja 2: Mahdottaa
+Puhuja 2: Pariisissa semmoinen
+Puhuja 2: kesto asunto.
+Puhuja 2: Mitä?
+Puhuja 2: Niihin minulla on kutsu käynyt.
+Puhuja 2: Nyt yritän haistella ilmaa,
+Puhuja 2: että koska yleinen mielipide sallii mennä.
+Puhuja 3: Minähän olen koko elämäni oikeastaan ollut sitä mieltä, että
+Puhuja 3: maailman ihanin paikka on Ahvenanmaa.
+Puhuja 3: Sitä ei ole muuttanut mitkään pandemiat eikä muut. Ahvenanmaa on super trendikäs tänä kesänä, niin en ehkä tänä kesänä lähtisi sinne kuukaudeksi, koska siellä on kaikki muut. Ja kuten sanottua, turistit eivät halua pällisistellä muita turisteja.
+Puhuja 3: Ehkä lähtisin
+Puhuja 3: albania.
+Puhuja 3: Palkan kiinnostaa.
+Puhuja 3: Joo. Tai
+Puhuja 3: groation.
+Puhuja 3: Meillähän on Georgian matkakin ollut tässä. No Georgiaa.
+Puhuja 3: Sinne
+Puhuja 3: lähtisin. Ainakin Saran kanssa todellakin.
+Puhuja 3: Otetaan vielä nopeasti viimeinen aihe, joka on tiedepiratismi.
+Puhuja 3: Tämä on nyt sun heiniä, koska mä ja Sara ei tiedetä tästä mitään, mutta sä oot kirjoittanut HS-visiolle isoin juttu, joka julkaistaan ilmeisesti lauantaina.
+Puhuja 3: Kerropa nyt, mistä tässä on kyse.
+Puhuja 1: Apua,
+Puhuja 1: mistä mä aloitan.
+Puhuja 1: Tuossa
+Puhuja 1: ei viime syksynä, vaan sitä edellisellä syksynä mä työstin mun omaa kandidaatintutkielmaa.
+Puhuja 1: Kuten joku kandidaatintutkielmaa
+Puhuja 1: työstänyt voi huomata,
+Puhuja 1: tausta-aineistonkeruu
+Puhuja 1: voi välillä olla
+Puhuja 1: haasteellista siitä syystä, että
+Puhuja 1: tiedekustantamoilla
+Puhuja 1: on kovia maksumuureja, jonka takia
+Puhuja 1: sitten ei aina saa sitä haluamassa tausta-aineistoa.
+Puhuja 1: Mutta sitten tutustuin
+Puhuja 1: tämmöiseen ohjelmaan nimeltä
+Puhuja 1: Skihub,
+Puhuja 1: minkä kautta
+Puhuja 1: pystyy lataamaan artikkeleita
+Puhuja 1: vähän.
+Puhuja 3: Siis ilmasiksi?
+Puhuja 3: Niin. Eli siis
+Puhuja 3: tällainen tieteen DC plus plus tai joku. Ja sitten mä
+Puhuja 1: kuulin tästä ohjelmasta ja sitten
+Puhuja 1: tein kanditdatutkielman
+Puhuja 1: eteenpäin.
+Puhuja 1: Koko asetelma jäi, mietityttää
+Puhuja 1: mua.
+Puhuja 1: Sitä
+Puhuja 1: eteenpäin tutkiessa selvisi, että
+Puhuja 1: sehän on hyvin, hyvin kummallinen
+Puhuja 1: tieteellisen julkaisutoiminnan
+Puhuja 1: rakenne tällä hetkellä.
+Puhuja 1: Se on vähän niin kuin jäänne jostain
+Puhuja 1: analogisesta
+Puhuja 1: ajasta.
+Puhuja 1: Käytännössähän,
+Puhuja 1: kun...
+Puhuja 1: Tämä on tosi monimutkainen juttu. Mä ajattelen jotenkin
+Puhuja 1: Tutkija haluaa, että se julkaistaan jossain
+Puhuja 1: maineikkaassa
+Puhuja 1: julkaisuharrossa tietysti, koska silloin mertoituu.
+Puhuja 1: Se saa merkinnän siitä, että on
+Puhuja 1: julkaisu tässä maineikkaassa julkaisuharrossa,
+Puhuja 1: joka on yleensä jonkun
+Puhuja 1: ison, valtavan tiedekustantamon
+Puhuja 1: omistuksessa.
+Puhuja 1: Silloin se lähetetään tiedekustantamoon.
+Puhuja 1: Sen arvioi muut tutkijat, joilla ei välttämättä...
+Puhuja 1: Niille ei pääosin makseta vertaisarvioinnista
+Puhuja 1: mitään. Kun se on läpäisse vertaisarvioinnin,
+Puhuja 1: se
+Puhuja 1: julkaistaan maineikkaassa
+Puhuja 1: julkaisussa, jonka jälkeen
+Puhuja 1: tämä julkisrahoitteinen instituutio, kuten yliopisto,
+Puhuja 1: maksaa
+Puhuja 1: laajemmin näistä lukuoikeuksista
+Puhuja 1: siihen julkaisusarjaan tai siitä,
+Puhuja 1: että kyseinen artikkeli julkaistaan
+Puhuja 1: avoimesti.
+Puhuja 1: Nää on valtavia summia, mitä niistä maksetaan.
+Puhuja 1: Hinta, mitä nää kustantamat pyytää,
+Puhuja 1: kasvaa ihan ehdotonta vauhtia.
+Puhuja 2: Eli meneekö niistä rahoista mitään tutkimuksen
+Puhuja 2: tekijälle
+Puhuja 2: sitten?
+Puhuja 3: Ei, vaan se maksaa siitä,
+Puhuja 3: jos ymmärsin oikein. Niin, kyllä. Niin, kyllä. Se saa
+Puhuja 3: julkaista tekstinsä meritoidussa
+Puhuja 1: toimia vielä maksaa tälle yksityiselle. Tää kuulostaa tältä kortelilta!
+Puhuja 2: Tosi monet tutkijat
+Puhuja 2: yrittää ajaa tämmöstä open access.
+Puhuja 1: Niin, mitä mä nyt olin sanomassa? Mitä tää tiedepiratismi nyt sit on? Sitten on tämmöinen
+Puhuja 1: kahdeksistanilaissyntyinen
+Puhuja 1: Hakkado nimeltä Alexandra
+Puhuja 1: El Bacjan, joka perusti vuonna kaksituhatta yksitoista tämmöisen sivuston, mikä sitten
+Puhuja 1: Hän suostui
+Puhuja 1: haastatteluun,
+Puhuja 1: mikä oli siinä mielessä hauska, että hän ei halunnut antaa haastattelu englanniksi, vaan se piti antaa venäjäksi.
+Puhuja 1: Suurda kiitos
+Puhuja 1: Helsingin Sanomien ulkomaantoimittaja Jenni Jesskaselle, joka tuli siihen.
+Puhuja 1: Paikkakaan ei ole omaa
+Puhuja 1: kääntäjän pätevyyttä,
+Puhuja 1: Sitten oltiin sovittu, että osinkirjalliseksi
+Puhuja 1: käydään haastattelu
+Puhuja 1: myöhemmin.
+Puhuja 1: Sitten
+Puhuja 1: kyseltiin polttavimmat
+Puhuja 1: kysymykset
+Puhuja 1: siinä videohaastattelussa.
+Puhuja 1: Tämä on tietysti
+Puhuja 1: tällaiset
+Puhuja 1: tietyt,
+Puhuja 1: vaikka
+Puhuja 1: joku
+Puhuja 1: Lontoon poliisi
+Puhuja 1: on vähän arvelu, että tässä on jotain hämärää tässä tämän
+Puhuja 1: sivuston
+Puhuja 1: toiminnassa. Samoin FBI on
+Puhuja 1: tutkinut
+Puhuja 1: toimintaa
+Puhuja 1: El Baggenin sanojen mukaan noin kahdeksan vuotta ollut kintereillä. Hän
+Puhuja 1: joutuu nyt majailemaan
+Puhuja 1: Venäjällä, koska
+Puhuja 1: Jos hän nyt päättäisi lähteä Yhdysvaltoihin, niin
+Puhuja 1: sitten tulisi miljoonakorvaukset
+Puhuja 1: maksettavaksi ensinnäkin
+Puhuja 1: näiltä tiedekustantamoilta.
+Puhuja 1: Sitten mietittäisiin myös, onko hän joku vakooja sun muuta. Okei, FBI:stä viisi,
+Puhuja 2: mutta mua kiinnostaa, onko hänelle tukea tutkijoilta.
+Puhuja 2: Minkälaisena
+Puhuja 2: nämä tutkijat, kenen töitä hän julkaisee, pitävät häntä? Niin,
+Puhuja 1: se on vähän semmoinen.
+Puhuja 1: Että kyllä jotain lisäarvoa nämä isot kustantamot tuottaa tietynlaisella laaduntarkkailulla sun muuta.
+Puhuja 1: Onhan tämä prosessiliike, mikä ei välttämättä
+Puhuja 1: edistä juridishallollisesti
+Puhuja 1: sitä, että tapahtuu joku muutos siinä, miten vertaisarviointi
+Puhuja 1: voitaisiin toteuttaa ilman kustantamoja sun muuta. Tästä suhtautumisesta on hyvä
+Puhuja 1: esimerkki se,
+Puhuja 1: että meksikolaiset ja venäläiset tutkijat löysivät looisampiaisen
+Puhuja 1: Neksikosta.
+Puhuja 1: Mikä se on se tieteellinen
+Puhuja 1: nimi, se lakinan kielen nimi? Se nimettiin Alexandra El Buganin mukaan.
+Puhuja 1: El Buggian
+Puhuja 1: suhtautui asiaan ensin, että mitä:
+Puhuja 1: minä
+Puhuja 1: loinen, ei pidä paikkaansa, tiede kustantamaton loisia.
+Puhuja 1: Venäläistutkija,
+Puhuja 1: joka oli päättänyt nimeämisestä nimeltä Andrei J. Chalim, oli selventänyt ei-ei,
+Puhuja 1: että
+Puhuja 1: tämmöiset sparraastitoidit,
+Puhuja 1: mitä tämä looisa ainakin on, on
+Puhuja 1: ennemmin saalistajia,
+Puhuja 1: uloisia.
+Puhuja 1: Se oli tunnustus.
+Puhuja 3: Kuka olisi arvannut, että
+Puhuja 3: tiedejulkaiseminen
+Puhuja 3: on näin seksikästä?
+Puhuja 3: Siis mulla on dekkarihomma.
+Puhuja 3: Ei oikein tiedä, kuka on hävisi ja kuka pahis. Aivan upeata!
+Puhuja 3: Jäädään todella mielenkiinnolla
+Puhuja 3: odottamaan
+Puhuja 3: sun artikkelia aiheesta. Jes, kiva.
+Puhuja 3: Ihan superkiinnostavaa.
+Puhuja 3: Hei,
+Puhuja 3: nyt kun olette lähdössä
+Puhuja 3: helteisiin
+Puhuja 3: nautiskelemaan lämmöstä
+Puhuja 3: ja toivottavasti
+Puhuja 3: jonkun vesistön äärelle esimerkiksi, ja siellä on niitä muita turisteja, jossain
+Puhuja 3: Turun saariston biitsillä
+Puhuja 3: ja joudutte sietämään niitä. Siellä saattaa tulla sellaisia tilanteita, että olette vaikka jätskiskiska jonossa ja olette kiusallisen
+Puhuja 3: lähellä muita
+Puhuja 3: ja sitten olette, että
+Puhuja 3: niin milläs avauksella lähdette jutustelemaan
+Puhuja 3: toiselle
+Puhuja 3: turistille?
+Puhuja 2: Apua. Tämä on siis se suositteluosuus.
+Puhuja 2: Olitko? Mä just ajattelin, että kyllä mulla suositus on, mutta tämä olisi
+Puhuja 2: tosi huono
+Puhuja 2: annettuun
+Puhuja 2: skenaarioon.
+Puhuja 2: Koska siinähän ihminen on lomalla
+Puhuja 2: ja jätskin hioinen ja ulkona.
+Puhuja 2: Mutta
+Puhuja 2: olin ajatellut suositella,
+Puhuja 2: koska ihmiset osaa itsekin
+Puhuja 2: helteillä mennä alasti
+Puhuja 2: uimaan. Niin
+Puhuja 2: ajattelin suositella, että silloin kun on oltava sisällä tai haluaa olla
+Puhuja 2: sisällä
+Puhuja 2: paossa hellettä niin
+Puhuja 2: pelaisi vähän shakkia. Se on toinen aihe mistä kirjoitin vähän aikaa sitten jutun
+Puhuja 2: ja innostuin itsekin pelaamaan nettishakkia.
+Puhuja 2: Sehän on
+Puhuja 2: valtavan mielenkiintoista.
+Puhuja 2: Vaikka osaisi säännöt periaatteessa,
+Puhuja 2: saa kyllä tuntea itsensä tosi tyhmäksi.
+Puhuja 2: Mutta
+Puhuja 2: anonyymisti.
+Puhuja 1: Tuliko Queens Gamdit ennen vai jälkeen?
+Puhuja 2: Ennen ehdottomasti.
+Puhuja 3: Queen skämpitin inspiroimana? Tämähän on hyvä avaus. Viiätkö sen jätsikin sanoi, että ootkos, pui skämptiä.
+Puhuja 3: Mitä jookin me?
+Puhuja 1: Mikä mun suositus on?
+Puhuja 1: Mun
+Puhuja 1: suositus on tuhlaaminen.
+Puhuja 3: Mulla on kolme pointtia. Tää on niin HS-visiovinkki.
+Puhuja 1: Tää on nyt aika, on bon brand. Anna mennä!
+Puhuja 1: Eka pointti. Siis tuhlaaminen on ensinnäkin
+Puhuja 1: kivaa, ja kuka tahansa voi tuhlata, vaikka kympillä kuussa voi alkaa
+Puhuja 1: tuhlaamaan rahaa
+Puhuja 1: valitsemaansa
+Puhuja 1: kohteeseen.
+Puhuja 1: Toinen on kasvatuksellinen
+Puhuja 1: ominaisuus. Itse pidän itseni tunne ihmisenä,
+Puhuja 1: Kylmät numerot kyllä
+Puhuja 1: myös koulivat ja kasvattaa.
+Puhuja 1: Etenkin, jos nyt, kun
+Puhuja 1: polttelee
+Puhuja 1: rahat
+Puhuja 1: monta. Kylmähikivirrassa
+Puhuja 1: mä mietin, että
+Puhuja 1: jotain muuta voi tehdä myös
+Puhuja 1: ajallaan, vaikka sekin oli tietty tosi miellyttävää ja mielekästä.
+Puhuja 1: Kolmas pointti:
+Puhuja 1: varallisuus keskittyi Suomessakin tällä hetkellä
+Puhuja 1: valtavasti. Tuomas Niskangaskangas,
+Puhuja 1: ansiokas,
+Puhuja 1: HSYon toimittaja,
+Puhuja 1: oli puntaroinut
+Puhuja 1: mahdollisiin
+Puhuja 1: ratkaisukeinoja tähän
+Puhuja 1: palveluiden keskittymiseen.
+Puhuja 1: Kolmantena pointtina hänellä oli siinä, että jos
+Puhuja 1: ylemmät tulodesiilit vaan tuhlaa. Mä en tiedä, mikä se kohde voisi olla. Nyt kuulolla kaikki uutisraportin
+Puhuja 2: kuulijakunnan
+Puhuja 2: ylemmän tulodesiilin.
+Puhuja 3: Eikö tuhlaaminen ole
+Puhuja 3: subjektiivista? Miten sä määrittelet, mikä on tuhlaamista ja mikä on järkevään rahankäyttöä?
+Puhuja 3: Apua.
+Puhuja 3: Mihin sä tuhlaisit Kykyn tänään?
+Puhuja 1: Kykyn
+Puhuja 1: tänään.
+Puhuja 1: Mulla on postitalon ne pizzat jotenkin. Mulle se on niin
+Puhuja 3: tyyppien puolesta.
+Puhuja 3: Aijai. Mutta siis joo.
+Puhuja 1: Niitä mä silti ostan toisinaan, koska se on
+Puhuja 1: jotain semmoista irrotealista kivaa.
+Puhuja 3: Ihanaa.
+Puhuja 3: Mihin sä Sara tuhlaisit kympille?
+Puhuja 2: En mä halua alkaa tuhlata mitään rahaa. Just näin.
+Puhuja 3: Suosittelen
+Puhuja 3: podcastia,
+Puhuja 3: josta on ilmestynyt vasta yksi jakso eli riskipelillä
+Puhuja 3: mennään. En
+Puhuja 3: tiedä mitään, kuinka tasalaatuista kamaa sieltä on tulossa, koska
+Puhuja 3: olen vain yhden jakson perusteella
+Puhuja 3: tässä inessä skenessä, mutta podcastia
+Puhuja 3: käsittelee meemejä ja sen nimi on Kaikki paskaksi ja ystävät.
+Puhuja 3: Tämä nimi johtuu siitä, että tällainen meemitili Kaikki paskaksi
+Puhuja 3: on tämän
+Puhuja 3: podcastin takana. Ja tässä podcastissa on ideana se, että meemitilien Adminit juttelee keskenään meemeistä politiikasta, elämästä
+Puhuja 3: ja ihan kaikesta.
+Puhuja 3: Se on kiinnostavaa, että nämä meemitilien ylläpitävät ovat ihan merkittäviä vallankäyttäjiä
+Puhuja 3: tänä päivänä,
+Puhuja 3: vaikka
+Puhuja 3: tässä podcastissa monet näistä meemuilijoista ovat tällaisia feministisiä ja vasemmistolaisia
+Puhuja 3: ja erittäin woke-tyyppejä,
+Puhuja 3: ja ne tiedostavat hyvin oman positionsa ja pyrkivät niitä valtarakenteita
+Puhuja 3: tietyllä tavalla myös purkamaan.
+Puhuja 3: Minua kiinnosti, että sieltä tuli tosi hyviä pointteja
+Puhuja 3: zoomereiden
+Puhuja 3: ja nuorempien
+Puhuja 3: sukupolvien tavasta katsoa elämää. Esimerkiksi eilen, kun kuuntelen jaksoa, nimimerkillä
+Puhuja 3: Pikakahvi
+Puhuja 3: Memegirl
+Puhuja 3: meemitiliä
+Puhuja 3: ylläpitävä tyyppi
+Puhuja 3: puhui siitä, että kukaan ei lue
+Puhuja 3: uutisia, varsinkaan tekstimuotoisia
+Puhuja 3: uutisia, kukaan ei jaa niitä tekstimuotoisia juttuja tai ylipäänsä seuraa perinteistä mediaa, että nämä nuoret saavat kaikki uutisensa ja tietonsa somesta ja meemeistä.
+Puhuja 3: Silloinhan se tarkoittaa sitä, että nämä meemit tulevat näiden adminien omien aattelisten linssien läpi
+Puhuja 3: eli käyttävät aika merkittävää
+Puhuja 3: soft powea siinä, miten ihmiset ajattelevat
+Puhuja 3: ajankohtaisista
+Puhuja 3: asioista.
+Puhuja 3: Superkiinnostavaa.
+Puhuja 3: Mä siis toivon, että tulevaisuudessa tässä podcastissa
+Puhuja 3: on vieraana ketamiini Markku, joka on minun ehkä suurin internet ihastukseni tällä hetkellä, joten sitä odotellessa.
+Puhuja 1: Mielenkiintoista.
+Puhuja 2: Ehdottomasti hyvä suosittu.
+Puhuja 3: No niin, siinä kaikki tällä kertaa. Kiitos Sara Vainio.
+Puhuja 3: Suuri kiitos Joakim Västrendol.
+Puhuja 3: Kiitos. Äänenäkuvan ja kaiken muun ihanan meille tänään tekee Mikko Peura.
+Puhuja 3: Lähettäkää meille kesätiiille kaikkea kivaa ja söpöpalautetta:
+Puhuja 3: uutisraportti
+Puhuja 3: ja nyt kuulkaa nauttimaan helteistä tai ahdistumaan ilmastonmuutoksesta,
+Puhuja 3: Your Choice
+Puhuja 3: ensi viikkoon!
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

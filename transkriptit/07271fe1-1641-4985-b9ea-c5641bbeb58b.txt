@@ -1,232 +1,444 @@
-Puhuja 0: Helsingin Sanomat.
-Puhuja 1: Hei, ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin.
-Puhuja 1: Ei oo torstai, vaan keskiviikko
-Puhuja 1: kolmetoista.
-Puhuja 1: Päivä
-Puhuja 1: toukokuuta
-Puhuja 1: vuonna kaksituhatta kaksikymmentäkuusi.
-Puhuja 1: Mun nimi on Tuomas Peltomäki, kanssa olit täällä Helsingin Sanomien podcast,
-Puhuja 1: jossa ovat tutkiva toimittaja Salo Vårrioski. Hei vaan. Hei vaan, hei.
-Puhuja 1: Mutta sen lisäksi meillä on
-Puhuja 1: suuri kunnia:
-Puhuja 1: ilo
-Puhuja 1: saada paikalle
-Puhuja 1: kollegamme ja ystävämme.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 0: podcastiin.
+Puhuja 0: Ei oo torstai. Mä oon keskiviikko
+Puhuja 0: kolmetoista.
+Puhuja 0: Päivä
+Puhuja 0: toukokuuta vuonna kaksituhatta kaksikymmentäkuusi.
+Puhuja 0: Mun nimi on Tuomas Peltomäki, kanssa olit täällä Helsingin Sanomien podcast, jossa ovat tutkiva toimittaja Sala Vårrioski. Hei vaan. Hei vaan, hei.
+Puhuja 0: Mutta sen lisäksi meillä on
+Puhuja 0: suuri kunnia,
+Puhuja 0: ilo saada paikalle
+Puhuja 0: kollegamme ja ystävämme.
 Puhuja 2: Kansan rakastamaa.
-Puhuja 1: Lähes univa.
-Puhuja 2: Katsokaa. Tämän takia kannattaa tulla vieraaksi.
-Puhuja 1: Sanna Mahlamäki, Helsingin Sanomien politiikan ja ei kun politiikan
-Puhuja 1: toimituksen esihenkilö.
-Puhuja 1: Suomalaisen politiikan syvä tuntia. Ja se onkin paikallaan. Nimittäin tämän viikon podcastissa keskustellaan.
-Puhuja 1: Okei.
-Puhuja 1: Okei.
-Puhuja 1: Oikein kirjoittanut näitä nyt.
-Puhuja 1: Minkälaisia hengitysoireita voi seurata, kun ympäri Suomea
-Puhuja 1: oikeistolaisukkelit
-Puhuja 1: on heränneet siestoiltaan
-Puhuja 1: ja ovat olleet tukehtua
-Puhuja 1: pandemia Kristalin, joka on espanjalais-tyylinen
-Puhuja 1: leipä.
-Puhuja 1: Tukehtumisen
-Puhuja 1: syy on se, että on alkanut näyttää yhä todennäköisemmältä, että Suomen seuraava pääministeri
-Puhuja 1: voi hyvinkin olla SDP:n Antti Lindman,
-Puhuja 1: joka vieläpä ammentaa talousteesiinsä
-Puhuja 1: lonkanvetäjien
-Puhuja 1: luvatusta
-Puhuja 1: häbin tuskin valkoihoiseksi
-Puhuja 1: laskettavasta maasta, nimittäin Espanjasta.
-Puhuja 1: Mä puhuin nyt tavallaan ikestolaisukkele
-Puhuja 2: jännä. Aivan myös tärkeä asia. Myös
-Puhuja 1: keskustellaan Euroviisuista,
-Puhuja 1: jotka tapahtuvat tänä viikonloppuna ja jossa meillä on podcastin ystävä Juuso Määttänen paikan päällä vienissä. Kysytään pikaseen, mikä meno varoituksen
-Puhuja 1: sana:
-Puhuja 1: ennakoidaan todellakin Suomi voittoa. Ja jos isä malää on? Ja onko se hyvä asia, jos näin?
-Puhuja 3: Mä toivon, että meillä oli yhteiseurooppalaisista
-Puhuja 3: kulttuurista oli muuta. Kyllähän mä esimerkiksi ajattelen, että
-Puhuja 3: olympiakilpailuissa
+Puhuja 0: Lähes jumittaa. Jatkakaa.
+Puhuja 2: Tämän takia kannattaa tulla vieraaksi.
+Puhuja 0: Sanna Mahlamäki, Helsingin Sanomien politiikan
+Puhuja 0: ja ei kun politiikan
+Puhuja 0: toimituksen esihenkilö.
+Puhuja 0: Suomalaisen politiikan syvä tuntia. Ja se onkin paikallaan nimittäin. Tämän viikon podcastissa keskustellaan.
+Puhuja 0: Siitä...
+Puhuja 0: Mä oikein kirjoittanut näitä nyt.
+Puhuja 0: Minkälaisia
+Puhuja 0: hengitysoireita voi seurata, kun ympäri Suomea
+Puhuja 0: oikeistolaisukkelit
+Puhuja 0: on heränneet siestoiltaan
+Puhuja 0: ja ovat olleet tukehtua
+Puhuja 0: Pande-Kristalliin,
+Puhuja 0: joka on espanjalainen tyyliinen leipä.
+Puhuja 0: Tuhettumisen
+Puhuja 0: syy on se, että on alkanut näyttää yhä todennäköisemmältä,
+Puhuja 0: että Suomen seuraava pääministeri
+Puhuja 0: voi hyvinkin olla SDP:n Antti Lindman,
+Puhuja 0: joka vieläpä annetaan talousteesiinsä
+Puhuja 0: lonkanvetäjien
+Puhuja 0: luvatusta
+Puhuja 0: hädin tuskin valkoihoiseksi
+Puhuja 0: laskettavasta maasta, nimittäin Espanjasta.
+Puhuja 0: Mä puhuin nyt tavallaan, mistä
+Puhuja 0: oikeistolaisukkele ei jännä. Aivan,
+Puhuja 2: jos tärkää.
+Puhuja 0: Myös keskustellaan euroviisuista,
+Puhuja 0: jotka tapahtuvat tänä viikonloppuna, ja jossa meillä on podcastin ystävä Juuso
+Puhuja 0: Määttänen paikan
+Puhuja 0: päällä vienissä. Kysytään pikaseen, mikä meno varoituksen sana.
+Puhuja 0: Ennakoidaan
+Puhuja 0: todellakin Suomi voittoa.
+Puhuja 0: Jos isänmaallinen paatos ei ole sun juttu, kannattaa skipata seuraavaan aiheeseen: mikä on Vladimir Putin?
+Puhuja 0: Nimittäin
+Puhuja 0: suurvaltapolitiikan
+Puhuja 0: hämärillä käytävillä, jossa salaiset suunnitelmat, näkymättömät liittolaisuudet ja merkitsevät katseet heijastuvat lukemattomina reflektioina pelipintaisessa
+Puhuja 0: todellisuudessa.
+Puhuja 0: Vladimir
+Puhuja 0: Putin näyttää ehkä olevan valmis lopettelemaan
+Puhuja 0: murhaamis ja sotarikoskampanjansa
+Puhuja 0: Ukrainassa.
+Puhuja 0: Miksi juuri nyt? Mitä se tarkoittaa maailmalle? Ja ennen muuta,
+Puhuja 0: koska hän on paikalla. Mitä se tarkoittaa suomalaisessa
+Puhuja 0: politiikassa ja suomalaisille
+Puhuja 0: poliitikoille ja suomalaisille
+Puhuja 0: keskustelulle.
+Puhuja 0: Keskustellaan mekin siitä.
+Puhuja 0: Ihan ensi alkuun kaksi lausetta: Miksi me ei puhuta hantäviruksista
+Puhuja 0: teidän
+Puhuja 1: mielestä? Ensinnäkin
+Puhuja 1: virukset on aika ärsyttävä asia. Niitä ei haluaisi ajatella, jos ei ole ihan pakko.
+Puhuja 1: Mä olin töissä,
+Puhuja 1: kun tuli,
+Puhuja 1: viime perjantaina iltapäivästä.
+Puhuja 1: Se jotenkin näytti siltä, että joo, nyt se rantautuu Eurooppaan.
+Puhuja 1: Ja sitten mä istuin tuossa meidän uutisteesken vieressä. Mä sanoin siinä istuville
+Puhuja 1: uutispäälliköille ja nopean
+Puhuja 1: toiminnan uutistyöntekijöille, että
+Puhuja 1: ai sagea mikä flashbac tulee tästä.
+Puhuja 1: Että onkohan tämä nyt tyyntä myrskyn edellä.
+Puhuja 1: Kaikki muistaa sen tunteen.
+Puhuja 1: Kaksituhatta
+Puhuja 1: yhdeksäntoista lopullahan se jo alkoi, mutta kun
+Puhuja 1: korona covid-yhdeksäntoista
+Puhuja 1: alkoi leviämään. Ja sitten siinä alkuvaiheessa
+Puhuja 1: oli
+Puhuja 1: semmoisia
+Puhuja 1: mixed feelingsejä, että
+Puhuja 1: kuulostaa pahalta, mutta mitä jos se nyt kuitenkaan leviäisi? Niin meillä oli perjantaina se tunne, että mitä jos tämä nyt, onko tämä nyt se sama tilanne vai ei. Ja nythän on tullut sitten niin kuin tässä viime päivien aikana
+Puhuja 1: uutisia,
+Puhuja 1: joissa on korostunut se
+Puhuja 1: viesti, että tämä ei ole nyt sama asia. Ei ole syytä pelätä
+Puhuja 1: massapandemiaa,
+Puhuja 1: joka olisi vaarallinen samalla tavalla kuin se. Just kun massapandemia
+Puhuja 0: olisi oven takana, niin tuo olisi just se viesti, minkä he sanoivat. Niin olisi. Ja tämähän on todella häiritsevä ajatus.
+Puhuja 3: Sitten
+Puhuja 3: keskustellaan kaikkien maiden esiintyjistä ja ne maiden esiintyjät käy tekee siellä, saattaa jotain pientä pressiä tekemään, jonkun maan promotyypit käy jakamassa jotain oman maansa mersiä ja kaikkea siellä. Se on semmoinen
+Puhuja 3: jatkuva promotilaisuus
+Puhuja 3: koko sille viikolle ja sitten
+Puhuja 3: tulee semmosia että Luxemburgin
+Puhuja 3: edustaja ei saakaan soittaa viulua mutta Linda saa soittaa viulua
+Puhuja 3: ja Sveitsin edustaja ei saa soittaa sähkökitaraa
+Puhuja 3: ja miksi se Australia esiintyy tolla paikalla kaikkia tämmösiä asioita jotka tuntuu sieltä käsin aivan epärelevanteilta
+Puhuja 3: mutta täällä niistä tuleekin isoja asioita, sit niistä puhutaan täällä päiväkaupalla
+Puhuja 3: et tää on niinku ehkä
+Puhuja 3: semmonen karkea
+Puhuja 3: tiivistys ja sittenhän
+Puhuja 3: täällä oistiin tosi hyvin sen tunnelman, et mitkä biisit rupee keräämään semmosta hyppiä ympärilleen, et se ei välity silleen Suomeen. Linda
+Puhuja 3: ja Pete on täällä valtavan
+Puhuja 3: huomion keskipisteenä.
+Puhuja 3: Eilen tosiaan kun ne pääsivät setminfinaalistit jatkoon niin ne tulivat vetämään lehdistötilaisuuden
+Puhuja 3: mediasenteriin
+Puhuja 3: joka oli tarkoitettu vain suomalaisille toimittajille,
+Puhuja 3: mutta siinähän oli
+Puhuja 3: afterbladetit,
+Puhuja 3: Expressisit ja aikamoinen liuta muitakin medioita paikan päälle ja siitähän tuli aidosti kaaos, kun Lindan ja Pete käveli siihen toimittajien eteen niin
+Puhuja 3: me
+Puhuja 3: oltiin suomalaista toimittajia eturivissä hyvin valmistauduttu, tiedettiin missä ollaan odottamassa. Sit sieltä tulee valtava määrä
+Puhuja 3: muita toimittajia rupeaa rynnimään meidän päälle ja työntämään silleen, että Hei,
+Puhuja 3: nyt
+Puhuja 3: oikeasti seis, että täällä jää ihmiset jo alle, että tämmöistä tunnelmaahan
+Puhuja 3: ei pysty
+Puhuja 3: Suomesta käsin aistimaan
+Puhuja 2: Mutta nyt jos lanseerataan tämmöisen uuden käsitteen, jonkinlainen
+Puhuja 2: Euroviisuh häpeä on
+Puhuja 2: myös vallannut alaa ihmiset,
+Puhuja 2: jotka haluavat olla innoissaan ja haluavat olla mukana
+Puhuja 2: hauskassa fiiliksessä ja ilonpidossa.
+Puhuja 2: Ja sitten on tämä Israel-kysymys,
+Puhuja 2: ettei oikein
+Puhuja 2: kuitenkaan olisi hyvä
+Puhuja 2: katsoa tai näin. Että paljon tämmöistä ajattelua on.
+Puhuja 2: Oon väärässä, mutta mun mielestä eilen esimerkiksi, kun Ylen lähetyksessä juonettiin sitä Israelin lavalle, niin musta tätä ristiriitaisuutta ei mainittu.
+Puhuja 3: Järjestettiin noin puoli vuotta Kaasa sodan syttymisen jälkeen ja silloin tavallaan
+Puhuja 3: Israel asia oli ihan toisella tavalla tapetilla.
+Puhuja 3: Siihen vaikutti myös se että Viissyt järjestettiin Ruotsissa ja Mallamössä joissa on merkittävä palestiinalaisvähemmistö
+Puhuja 3: asui myös
+Puhuja 3: ja tavallaan se oli tosi
+Puhuja 3: konkreettisesti
+Puhuja 3: niinku iholla ja siellä on joka päivä mielenosoituksia Sitten
+Puhuja 3: tuli
+Puhuja 3: ja Hollannin
+Puhuja 3: diskattiin finaalista
+Puhuja 3: ja
+Puhuja 3: ja ennen useampikin maa uhkasi jättäytyä pois siitä finaaliyöhäyksestä
+Puhuja 3: Silloin se tuntui siltä, että nyt tää
+Puhuja 3: Euroviisu-instituutio
+Puhuja 3: on hajoamassa
+Puhuja 3: Mä
+Puhuja 3: tosi akuutti kriisi niin nyt Israel asiasta on tullut Euroviisuissa tämmönen institutionaalinen
+Puhuja 3: ongelma tai mitä sanaa haluaa käyttää joka on tavallaan sinne kulisseihin
+Puhuja 3: painunut enemmän tänä vuonnahan siis viisi maata, jotka on perinteisiä Euroviisumaita, ei osallistu Euroviisuihin ollenkaan
+Puhuja 3: Espanja,
+Puhuja 3: Irlanti,
+Puhuja 3: Slovenia,
+Puhuja 3: Islanti,
+Puhuja 3: Hollanti jättäytyi pois sen takia, että Israelia ei ei suljettu pois. Sehän on tavallaan tosi iso asia Euroviisuille, mutta sehän ei näy meille arjessa samalla tavalla täällä. Ja ens vuonna varmasti käydään taas se pohdinta, että ketkä haluaa osallistua mukaan jos Israel on mukana Mitä jos Israel voittaa Euroviisut?
+Puhuja 3: Kuka haluaa lähteä
+Puhuja 3: Israeliin järjestettäviin Euroviisuihin? Nämähän on isoja kysymyksiä. Mutta siinä sä oot Salla kyllä oikeassa,
+Puhuja 3: että tän hetkisessä se ei ole
+Puhuja 3: kilpailussa samalla tavalla
+Puhuja 3: akuutisti iholla kuin mitä se oli mun mielestä vielä Malmössöä.
+Puhuja 2: Voiko tässä käydä
+Puhuja 2: niin, että
+Puhuja 2: jos Linda ja Pete, kuten heitä tuttavallisesti
+Puhuja 2: kutsumme,
+Puhuja 2: ystävämme Linda ja Pete, voiko
+Puhuja 2: tähän tulla sellainen asetelma, että valtava ennakkosuosikki Suomi
+Puhuja 2: vastaan Israel eli tavallaan
+Puhuja 2: Suomi voisi toimia
+Puhuja 2: joidenkin äänestäjien tai monienkin äänestäjien mielessä sellaisena vastapainona, että äänestetään
+Puhuja 2: sitä Suomea, kun se on suosikki ja se on
+Puhuja 2: ainoa tai yksi ainoista, jotka voi voittaa Israeliin, joka mahdollisesti
+Puhuja 2: yrittää taas ääniä
+Puhuja 2: vyöryttää jollain kyseenalaisisilla konsteilla.
+Puhuja 3: Kyllä,
+Puhuja 3: olette
+Puhuja 3: Epun tutkinta Elin Spotlight totesi että Israel oli
+Puhuja 3: harjoittanut tällaista hallitusvetoista
+Puhuja 3: äänten kalastelua
+Puhuja 3: artistilleen
+Puhuja 3: eli yksittäinen katsoja sai viime vuoteen asti antaa kaksikymmentä
+Puhuja 3: ääntä haluamalleen
+Puhuja 3: kilpailijalle ja Israel järjesti tällaisen hallitusvetoisen kampanjan, että anna kaksikymmentä ääntäsi Israelille
+Puhuja 3: Tänä vuonna sitten hallitusvetoinen ääntikalastelu on
+Puhuja 3: kielletty
+Puhuja 3: säännöissä
+Puhuja 3: ja otettu kymmenen per
+Puhuja 3: äänestäjän laite. New York Times teki tällä viikolla hyvän tutkivan artikkelin tästä, että itse asiassa edelleenkin tuolla kymmenelläkin äänellä esimerkiksi Espanjan kokoisessa maassa alle tuhat äänestäjää voi
+Puhuja 3: saada eniten
+Puhuja 3: yleisöpisteitä.
+Puhuja 3: Että
+Puhuja 3: voittavan niin todennäköisesti keskittää
+Puhuja 3: äänien tietyille maille ja todennäköisesti keskittää niitä ennakkosuoseille
+Puhuja 3: ja sanon vielä senkin, että täähän on mennyt mun tulkinnan mukaan, tästähän ei ole mitään virallista evidenssiä, koska
+Puhuja 3: ei voi olla eli nyt mennään vähän mutuilun puolelle mutta puolet pisteestähän tulee
+Puhuja 3: asiantuntijaraadeilta
+Puhuja 3: ja asiantuntijaraadit
+Puhuja 3: on ihan
+Puhuja 3: järjestelmällisesti kahtena viime vuonna jättänyt Israelin todella pienille pistemäärille
+Puhuja 3: paljon pienemmille pistemäärille kuin aikaisemmin. Israelhan on perinteisesti lähettänyt Euroviisuihin
+Puhuja 3: laadukkaita, hyviin tuotettuja Euroviisuikappaleita
+Puhuja 3: Israel on voittanut monta kertaa
+Puhuja 3: mutta nyt kahtena viime vuonna sattumalta
+Puhuja 3: asiantuntijaraadit on melkein jokaisessa maassa jättänyt Israelin pienille pistemäärille.
+Puhuja 3: Ja ennen kuin Tuomas tulee väliin, niin sanon vielä sen, että
+Puhuja 3: tämä voi jopa vaikuttaa siihen, että ne asiantuntijaraadit keskittää
+Puhuja 3: ääniään tässä
+Puhuja 3: tapauksessa Suomelle.
+Puhuja 0: Mulla on ehkä viimeinen
+Puhuja 0: ylevä kysymys tähän
+Puhuja 0: loppuun.
+Puhuja 0: Joskus mietin, onko tämä ainoa
+Puhuja 0: eurooppalaisen kulttuurin asia, mitä meillä on enää jäljellä, tämä euroviisut. Se on
+Puhuja 0: sekä mahtava asia euroviisuudella. Siinä on tapahtunut semmoinen muutos, missä se on menossa nolosta vähän camp-hommasta
+Puhuja 0: semmoiseksi yhteisen eurooppalaiseksi
+Puhuja 0: asiaksi.
+Puhuja 0: Jopa jenkit joutuvat tunnusmaan sen, että tämä on jollain tavalla arvokas asia, mitä heillä ei ole.
+Puhuja 0: Ehkä
+Puhuja 0: oli aika joskus, kun yhteys eurooppalaisia asioita oli jotkut muut: futis, Oliivetti, Siemens,
+Puhuja 0: Phillipsin
+Puhuja 0: tuotteet ja tällaiset.
+Puhuja 0: Onko tää se, mitä meillä Euroopassa kulttuurisesti
+Puhuja 0: enää on? Ja onko se hyvä asia jos näin?
+Puhuja 3: Mä toivon, että meillä on yhteiseurooppalaisista
+Puhuja 3: kulttuurista paljon muuta. Kyllähän mä esimerkiksi ajattelen,
+Puhuja 3: että olympiakilpailuissa
 Puhuja 3: järjestettävät
 Puhuja 3: kulttuuri avajaisnumerot,
-Puhuja 3: päätösnumerot on hieno osa eurooppalaista kulttuuria, meillä on
+Puhuja 3: päätösnumerot on hieno osa eurooppalaista kulttuuria meillä on
 Puhuja 3: merkittävää populaarikulttuurin
-Puhuja 3: tuotantoa,
-Puhuja 3: meillä on muotifestivaaleja, meillä on elokuvafestivaaleja,
-Puhuja 3: jotka on kansainvälisesti tunnustettuja, ei se nyt ehkä ihan näin oo. Mutta totta kai
-Puhuja 3: kulttuurissahan ei perinteisesti kilpailla, sehän niin kuin tästä tekee poikkeuksellisen. Euroviisut on kilpailu ja se on siinä mielessä
-Puhuja 3: vähän semmonen outo olo kun mä kirjotan noita juttuja mä kirjotan että Suomi tavoittelee finaalipaikkaa
-Puhuja 3: ja Suomen kovimmat haastajat finaalissa ihan niinku taas joku lätkän kisat tai jotain vastaavaa
-Puhuja 3: vaikka tässä
-Puhuja 3: esitetään
-Puhuja 3: esitetään erilaisia kappaleita
-Puhuja 3: lavalla ja joku niistä äänestetään voittajaksi niin se mun mielestä tekee sen ja se on siis se
-Puhuja 3: merkittävyys ja kyllä euroviisut on saavuttanut siinä mielessä varmaan erilaisen tason monessakin
-Puhuja 3: maassa viime vuosina
-Puhuja 3: koronan jälkeen tapahtui vielä sellainen
+Puhuja 3: tuotantoa
+Puhuja 3: meillä
+Puhuja 3: on
+Puhuja 3: Oxummoroni
+Puhuja 3: tulee koko ajan vähän semmonen outo olo kun mä kirjotan noita juttuja, mä kirjotan että Suomi tavoittelee finaalipaikkaa
+Puhuja 3: ja Suomen kovimmat haastajat finaalissa sehän niinku taas joku lätkän MM-kisat tai jotain vastaavaa
+Puhuja 3: vaikka tässä esitetään erilaisia kappaleita
+Puhuja 3: lavalla ja joku niistä äänestetään voittajaksi, niin se mun mielestä tekee sen. Ja se on siis se
+Puhuja 3: merkittävyys. Ja kyllä euroviisut on saavuttanut siinä mielessä varmaan semmoisen erilaisen tason
+Puhuja 3: monessakin maassa viime vuosina, siinä mun mielestä koronan jälkeen tapahtui vielä just sellainen
 Puhuja 3: tietty ylevöityminen ehkä tälle. Sitten on vaan tosi harmillista, että tää Israel-asia
-Puhuja 3: on kyllä tehnyt tästä tosi paljon vaikeampaa ja
-Puhuja 3: seuraamisen
-Puhuja 3: tämän asetelman takia.
-Puhuja 1: Juuso Määttänen,
-Puhuja 1: toivottavasti
-Puhuja 1: Suomi voittaa. Ja jos voittaa, niin sitten raahataan sut kyllä podiin puhumaan aiheesta uudelleen.
-Puhuja 3: Kyllä näin tehdään. Kiitoksia.
-Puhuja 1: Okei, Sitten
-Puhuja 1: kun
-Puhuja 1: otatte Sombreerone
-Puhuja 1: päähän,
-Puhuja 1: rullaatte El Payes
-Puhuja 1: nimisen sanomalehden
-Puhuja 1: rullalle kainaloon.
-Puhuja 1: Painuutte
-Puhuja 1: kohti riippumattoa
-Puhuja 1: kello
-Puhuja 1: tuhat satakolmekymmentä
-Puhuja 1: tiistaipäivänä.
-Puhuja 1: Hyppäätte siihen ja alatte viettämään seistaa.
-Puhuja 1: Huomaatte, että ei hitto, teidän riippumatossa
-Puhuja 1: on jo joku toinen tyyppi.
-Puhuja 1: No, siinä vähän mietitään, seesta aika on tullut ja jotain pitäisi tehdä, niin änkeydytte siihen samaan riippumattoon
-Puhuja 1: tämän ihmisen kanssa. Kuka siellä on? Siellä on se, ette te tunne, kuka se on. Mutta mukavan näköinen etu. Kyllä siirtyy kunnan riippumattoon. Olette Antti Lindman, mutta ei.
-Puhuja 1: Olette Antti Lindmanin kanssa riippumassa siinä. Missäs Joona Räsänen on?
-Puhuja 1: En sano tähän mitään.
-Puhuja 1: Sitten rupeatte
-Puhuja 1: siinä
-Puhuja 1: vähän riippumatta kaverille jotain kertoilee juttuja. Mitäs hänelle?
-Puhuja 0: Mä kertoisin
-Puhuja 0: riippumatossa,
-Puhuja 0: että
-Puhuja 0: mä ahmin just sellasen todella traagisen
-Puhuja 0: mut hyvän kirjan.
-Puhuja 0: Mä en oikein tiedä, millä tavalla mä
-Puhuja 0: suosittelisin sitä, koska se on hirveän koskettava ja
-Puhuja 0: hirvittävän pohjattoman surullinen
-Puhuja 0: ihmiskohtalo.
-Puhuja 0: Ehkä siinä on
-Puhuja 0: semmoista, että miten
-Puhuja 0: voi selviytyä ja
-Puhuja 0: elää eteenpäin
-Puhuja 0: elämässään, vaikka tapahtuu hirveitä asioita. Mutta siis
-Puhuja 0: näyttelijä Lotta Lehtikarin
-Puhuja 0: ja Anna Pihlajaniemen yhdessä kirjoittama Elämäni ilman sinua
-Puhuja 0: kirja
-Puhuja 0: kertoo siitä, että Lotta Lehtikarin
-Puhuja 0: sisko ja äiti
-Puhuja 0: ovat molemmat päätyneet itsemurhaan.
-Puhuja 0: Ja
-Puhuja 0: on taustalla
-Puhuja 0: mielenterveysongelmia
-Puhuja 0: tietenkin, kun noin tapahtuu
-Puhuja 0: usein ja myös
-Puhuja 0: semmoinen tilanne, että on yritetty saada apua ennen sitä.
-Puhuja 0: Ja tämä on hirveän lohduton kuva Suomesta.
-Puhuja 0: Ja näitä on edelleenkin, tästä on kauan aikaa kun nämä on tapahtunut, mutta niitä tarinoita on valitettavasti
-Puhuja 0: edelleenkin.
-Puhuja 0: Se on tosi
-Puhuja 0: kiinnostava kirja.
-Puhuja 0: Mitä
-Puhuja 0: mä sanoisin?
-Puhuja 0: Mä suosittelen sitä.
-Puhuja 1: Mikä sen nimi oli? Elämäni ilman sinua.
-Puhuja 1: Okei,
-Puhuja 1: kiitos.
-Puhuja 1: Salla.
-Puhuja 2: Sunnuntaina läheiseni mainitsi, että olen vähän lukenut sitä Facebook-johtajan
+Puhuja 3: on kyllä tehnyt tästä tosi paljon vaikeampaa ja niin kuin Salla viittasi aikaisemmin, niin moni
+Puhuja 3: perinteisistä Euroviisusfaneista
+Puhuja 3: on lopettanut
+Puhuja 3: kilpailun seuraamisen
+Puhuja 3: tämän asetelman takia. Juuso
+Puhuja 0: Määttänen,
+Puhuja 0: toivottavasti Suomi voittaa. Ja jos voittaa, niin sitten raahataan sut kyllä podiin puhumaan aiheesta uudelleen. Kyllä, näin tehdään. Kiitoksia. Okei, no Okei,
+Puhuja 0: sitten
+Puhuja 0: kun otatte Sobreeronne
+Puhuja 0: päähän,
+Puhuja 0: Rullaatte
+Puhuja 0: Elpais-nimisen
+Puhuja 0: sanomalehden
+Puhuja 0: rullalle kainaloon.
+Puhuja 0: Sitten painutte kohti riippumattoa
+Puhuja 0: kello tuhat satakolmekymmentä
+Puhuja 0: tiistaipäivänä.
+Puhuja 0: Hyppätte siihen ja alatte viettämään siestaa.
+Puhuja 0: Huomaatte, että ei hitto, teidän riippumatossa on jo joku toinen tyyppi.
+Puhuja 0: No, siinä vähän mietitään, asiasta aika on tullut ja jotain pitäisi tehdä, niin änkeydytte siihen samaan riippumattoon
+Puhuja 0: tämän ihmisen kanssa. Kuka siellä on? Siellä on se, että te tunne, kuka se on. Mutta mukavan näköinen epppu. Kyllä siirtyy kunnan riippumattoon. Asetet Antti Lindman, mut ei. Te
+Puhuja 0: olette Antti Lindmanin kanssa riippumatossa
+Puhuja 1: siinä. Missäs Joona Räsänen on?
+Puhuja 0: En sano tähän mitään.
+Puhuja 0: Sitten rupeatte
+Puhuja 0: siinä
+Puhuja 0: vähän riippumatta kaverille jotain kertoilemaan juttuja. Mitäs hänelle?
+Puhuja 1: Mä kertoisin
+Puhuja 1: riippumatossa,
+Puhuja 1: että
+Puhuja 1: ahmin just se oli sen todella traagisen
+Puhuja 1: mut hyvän kirjan.
+Puhuja 1: Mä en oikein tiedä millä tavalla mä
+Puhuja 1: suosittelisin
+Puhuja 1: sitä, koska se on hirveän koskettava ja hirvittävän pohjattoman surullinen
+Puhuja 1: ihmiskohtaloa.
+Puhuja 1: Ehkä siinä on
+Puhuja 1: semmoista, että miten
+Puhuja 1: voi selviytyä ja
+Puhuja 1: elää eteenpäin
+Puhuja 1: elämässään, vaikka tapahtuu hirveitä asioita. Mutta siis
+Puhuja 1: näyttelijä, Lotta Lehtikaaren
+Puhuja 1: ja Anna Pihlajaniemen yhdessä kirjoittama Elämäni ilman sinua
+Puhuja 1: kirja
+Puhuja 1: kertoo siitä, että Lotta Lehtikarin
+Puhuja 1: sisko ja äiti
+Puhuja 1: ovat molemmat päätyneet itsemurhaan.
+Puhuja 1: Ja
+Puhuja 1: on taustalla siis
+Puhuja 1: mielenterveysongelmia
+Puhuja 1: tietenkin, kun noin tapahtuu
+Puhuja 1: usein.
+Puhuja 1: Ja
+Puhuja 1: myös semmoinen tilanne, että on yritetty saada apua ennen sitä.
+Puhuja 1: Ja tämä on hirveän lohduton kuva Suomesta.
+Puhuja 1: Ja näitä on edelleenkin, tästä on kauan aikaa, kun nämä on tapahtunut, mutta niitä tarinoita on valitettavasti edelleenkin.
+Puhuja 1: Se on tosi
+Puhuja 1: kiinnostava kirja.
+Puhuja 1: Mitä
+Puhuja 1: mä sanoisin?
+Puhuja 1: Mä suosittelen sitä.
+Puhuja 0: Mikä sen nimi oli? Elämän ilman sinua.
+Puhuja 0: Okei,
+Puhuja 0: kiitos.
+Puhuja 0: Salla?
+Puhuja 2: Sunnuntaina läheiseni mainitsi,
+Puhuja 2: että olen vähän lukenut sitä Facebook-johtajan
 Puhuja 2: kirjaa.
-Puhuja 2: Oli sopiva hetki, niin ajattelin, että minäpä vähän vilkaisen kanssa, että onko siinä semmoista. Rupesin lukemaan Sarah Win Williamsin
-Puhuja 2: teosta,
-Puhuja 2: otaas nyt, Kierrelese people suomeksi, edes vastuutonta väkeä.
+Puhuja 2: Olin sopiva, heikko hetki, niin ajattelin, että minäpä vähän vilkaisen kanssa ja onko siinä semmoista. Rupesin lukemaan Sarah Winn William
+Puhuja 2: teosta
+Puhuja 2: Kerrale People suomeksi, edes vastuutonta väkeä.
 Puhuja 2: Siitä
-Puhuja 2: eteenpäin koko valveillaoloaikani,
-Puhuja 2: kun en tehnyt töitä, niin vain luin tätä ja kuuntelin tätä kirjaa.
-Puhuja 2: Ihan valtavan vetävä.
-Puhuja 2: Tämä kertoo seitsemän vuoden jaksosta, jolloin Sarah Win William työskenteli
-Puhuja 2: Facebookilla tällaisena vähän niin kuin politiikkajohtajana
-Puhuja 2: tai mikä global policy jotain?
-Puhuja 2: Se kertoo
-Puhuja 2: tarinan siitä miten se yhtiön johto rämettytyy
-Puhuja 2: ja muuttuu täysin edes vastuuttomaksi,
+Puhuja 2: eteenpäin koko valveillaoloaikana,
+Puhuja 2: kun en tehnyt töitä, vaan luin tätä ja kuuntelin tätä kirjaa. Tämä on
+Puhuja 2: valtavan vetävä.
+Puhuja 2: Tämä kertoo
+Puhuja 2: seitsemän vuoden jaksosta, jolloin Sarah Win William työskenteli Facebookilla
+Puhuja 2: tällaisena vähän niinku politiikkajohtajalla
+Puhuja 2: tai mikä global policy jotain.
+Puhuja 1: Se kertoo
+Puhuja 2: tarinan
+Puhuja 2: siitä, miten se yhtiön johto rämettyy ja muuttuu täysin edes vastuuttomaksi,
 Puhuja 2: jossa välitetään ainoastaan
 Puhuja 2: markkinoiden valtaamisesta
-Puhuja 2: ja ollaan valmiita
-Puhuja 2: kaikenlaisia täysin käsittämättömiä
-Puhuja 2: kompromisseja
+Puhuja 2: ja ollaan valmiita tekemään kaikenlaisia täysin käsittämättömiä kompromisseja
 Puhuja 2: esimerkiksi Kiinan kanssa.
-Puhuja 2: Se kertoo myös ihanasti alleviivaa yhä uudelleen sitä, miten korkeimmissakin
+Puhuja 2: Ja sitten se kertoo myös ihanasti alleviivaa yhä uudelleen sitä, miten korkeimmissakin
 Puhuja 2: asemissa olevat maailman rikkaimmat ihmiset, kuten tämä Zuckerberg,
-Puhuja 2: miten he lopulta ovat monet aika
-Puhuja 2: pieniä, tavallisia ja hassuja ihmisiä. Tai hassu on ehkä vähän väärässä klangissa.
-Puhuja 2: No sitten tietysti täytyy sanoa, että Win William on saanut tästä myös paljon kritiikkiä ja jotkut väittävät, että siellä on
-Puhuja 2: jotain virheellistä ja kuka tietää. Se on hänen näkemyksensä. Hänet potkittiin sieltä loppuviimeksi
+Puhuja 2: ja miten he lopulta ovat monet aika pieniä,
+Puhuja 2: tavallisia ja hassuja ihmisiä. Tai hassu on ehkä vähän väärässä klangissa.
+Puhuja 2: No sitten tietysti täytyy sanoa, että Win William on saanut tästä myös paljon kritiikkiä ja jotkut väittävät, että siellä on jotain virheellistä ja kuka tietää. Se on hänen näkemyksensä.
+Puhuja 2: Hänethän potkittiin sieltä loppuviimeksi
 Puhuja 2: pois.
-Puhuja 2: Hyvä opetus ihmiselle, joka on tehnyt tutkivaa journalismia aika pitkän pätkän ja luulen olevansa hirveän kriittinen, niin ehkä tajusin, että olen varmaan ollut kuitenkin vähän naiivisen suhteen, millaista meininkiä voi olla isojen teknologiayritysten
+Puhuja 2: Hyvä opetus ihmiselle, joka on tehnyt tutkivaa journalismia aika pitkän pätkän ja luulen olevansa hirveän kriittinen, niin ehkä tajusin, että olen varmaan ollut kuitenkin vähän naivisen suhteen,
+Puhuja 2: millaista meininkiä voi olla isojen teknologiayritysten
 Puhuja 2: johdossa. Suositukseni
 Puhuja 2: edes vastuutonta väkeä. Sara Win William.
-Puhuja 1: Mä puhuisin tällaisesta Hell or High Water leffasta,
-Puhuja 1: joka oli
-Puhuja 1: täysin mitäänsanomaton
-Puhuja 1: kolmen tähden leffa.
-Puhuja 1: Se kertoo veljespari Tobista ja Tanerysta,
-Puhuja 1: jotka heidän äitinsä kuolee.
-Puhuja 1: Äidin
-Puhuja 1: omistamalla farmilla
-Puhuja 1: on löydetty öljyä
-Puhuja 1: määrät öljyä.
-Puhuja 1: Veljekset olisivat
-Puhuja 1: koko loppuelämänsä
-Puhuja 1: turvattu, ja varsinkin
-Puhuja 1: veljesten perheet.
-Puhuja 1: Mutta pankki on järjestellyt äidin lainat silleen, että äiti on pikkuhiljaa velkaantunut
-Puhuja 1: ja pankki ottamassa
-Puhuja 1: farmin itselleen öljyineen päivineen. Tämä leffa kertoo siitä,
-Puhuja 1: minkälainen suunnitelma näillä veljeksillä on tämän asian korjaamiseksi ja poliisista,
-Puhuja 1: joka lähtee
-Puhuja 1: Texus rangerista, joka lähtee heitä jäljittämään.
-Puhuja 1: Mutta se leffa oli ihan ok, että jos se olisi tullut telkkarista, ei olisi harmittanut, että katso, mutta näin oli vähän tälleen, että mitäs, mitäs, mitäs.
-Puhuja 1: Mutta se, miten päädyin tähän leffaille, että kysyn Cloudelta, joka on suuri
-Puhuja 1: uusi ystävä. Vitsi, se on niin hyvä verrattuna ChatGPT:hen,
-Puhuja 1: joka on niin huono.
-Puhuja 1: Näin vaan.
-Puhuja 1: Paras valot vaihtelee.
-Puhuja 1: Claude suositteli tätä leffaa, kun kysyin, miten pystyisin jatkamaan tai
-Puhuja 1: jotenkin
-Puhuja 1: löytämään
-Puhuja 1: jotain, joka on Chur-direktiivin
-Puhuja 1: ykköskausi, joka on parasta asiaa, mitä TV:stä on ikinä tullut. Tämä ei ollut sinne päinkään toisin kuin Claude väitti.
-Puhuja 1: Mutta tästä tuli mahtava
-Puhuja 1: säi,
-Puhuja 1: että mistä mä katsoin tämän. Se oli semmoinen palvelu kuin
-Puhuja 1: sin-east,
-Puhuja 1: CIN
-Puhuja 1: EAASD.
-Puhuja 1: Sineman sin-east.
-Puhuja 2: Mä ajattelin, että joku synti. Fi,
-Puhuja 1: joka
-Puhuja 1: on Suomen,
-Puhuja 1: Ruotsin,
-Puhuja 1: Islannin, Norjan ja Tanskan näin ainakin mun mielestä ne oli kaikki Pohjoismaat
-Puhuja 1: kirjastojen
-Puhuja 1: yhteinen striimialusta.
-Puhuja 1: Ei ikinä kuulu. Josta pystyy katsomaan elokuvia
-Puhuja 1: neljä kappaletta kuukaudessa omalla kirjastokortilla.
-Puhuja 1: Käy Helsingin kirjastot, kävi Hyvinkään kirjastot,
-Puhuja 1: kävi kaikki muut. Ja tosiaan
-Puhuja 1: jonkun pitäisi nyt vähän opettaa
-Puhuja 0: markkinointia Hei, onko tää nyt sitä hyvinvointivaltaa,
-Puhuja 0: jos ei
-Puhuja 0: tarvitse luopumaan, Tuomas. Katso nyt vielä, kun ehdit.
-Puhuja 1: Siellä on myös kaikkia hörhöjä taide-elokuvia,
-Puhuja 1: kuten witherring Hights.
-Puhuja 2: Siellä on siis vaikka mitä. Tästä ei kyllä luovuta, jos säästöä joudutaan tekemään. Tämä on punainen viiva. Se menee tässä. Käykää
-Puhuja 1: rekisteröimässä kirjastokorttinne
-Puhuja 1: osoitteeseen cineast.
-Puhuja 1: Fi.
-Puhuja 0: Eli idän synnit, ei.
-Puhuja 1: Se
-Puhuja 1: oli vielä väännös ruotsinkielisestä
-Puhuja 1: alkuäppista,
-Puhuja 1: joka oli joku sinest Jernä tai joku tällainen, niin sitten se oli suomeksi sin east.
-Puhuja 0: Okei, hyvä. Kiitos vinkistä.
-Puhuja 1: Kiitos Sallavuorikoski.
-Puhuja 1: Kiitos. Kiitos Hanna Mahlamäki. Kiitos.
-Puhuja 1: Äänenäkuva ja kaiken muun meille tekee tänään Janne Elkki. Kiitos myös Juuslle, joka oli mukana Wienistä asti.
-Puhuja 1: Kunniva on Tuomas Peltomäki ja kuullaan taas ensi viikolla.
-Puhuja 1: Heippa!
+Puhuja 0: Mä puhuisin tällaisesta Heller or High Water leffasta,
+Puhuja 0: joka oli täysin
+Puhuja 0: mitään sanomaton kolmen tähden leffa,
+Puhuja 0: joka kertoo veljesparit Jobysta ja Tanerysta,
+Puhuja 0: jotka heidän äitinsä kuolee. Äidin omistamalla farmilla
+Puhuja 0: on löydetty öljyä
+Puhuja 0: määrät
+Puhuja 0: öljyä.
+Puhuja 0: Veljekset
+Puhuja 0: olisivat
+Puhuja 0: koko loppuelämänsä
+Puhuja 0: turvattu, ja varsinkin
+Puhuja 0: veljesten perheet.
+Puhuja 0: Mutta pankki on järjestellyt äidinlainat sille, että äiti on pikkuhiljaa
+Puhuja 0: velkaantunut
+Puhuja 0: ja pankki ottamassa tämän farmin itselleen öljyineen päivineen. Tämä leffa kertoo siitä,
+Puhuja 0: minkälainen suunnitelma näillä veljeksillä on tämän asian korjaamiseksi ja
+Puhuja 0: poliisista, joka lähtee
+Puhuja 0: Texas rangerista, joka lähtee heitä jäljittämään.
+Puhuja 0: Mutta se leffa oli ihan ok, että jos se olisi tullut telkkarista, ei olisi harmittanut, että katso, mutta näin oli vähän tälleen, että mitäs, mitäs, mitäs.
+Puhuja 0: Mutta se, miten päädyin tähän leffalle, että kysyn Cloudelta, joka on
+Puhuja 0: suuri uusi ystävä. Vitsi, se on niin hyvä verrattuna
+Puhuja 0: ChatGPT:hen,
+Puhuja 0: joka on niin huono.
+Puhuja 0: Näin ne vaan.
+Puhuja 0: Paras valot vaihtelevat.
+Puhuja 0: Claude suositteli tätä leffaa, kun kysyin, miten pystyisin jatkamaan
+Puhuja 0: tai jotenkin
+Puhuja 0: löytämään
+Puhuja 0: jotain, joka on true-direktiivin
+Puhuja 0: ykköskausi,
+Puhuja 0: joka on parasta asiaa, mitä TV:stä on ikinä tullut. No, tää ei ollut sinne päinkään toisin kuin Claude väitti.
+Puhuja 0: Mutta tästä tuli mahtava
+Puhuja 0: säi, että
+Puhuja 0: mistä mä katsoin tämän. Se oli semmoinen palvelu kuin
+Puhuja 0: sin-east,
+Puhuja 0: C-IN
+Puhuja 0: EAASTE
+Puhuja 0: Sinema sin-east.
+Puhuja 2: Mä ajattelin, että joku synti.
+Puhuja 0: Fi, joka on
+Puhuja 0: Suomen,
+Puhuja 0: Ruotsin ja Islannin ja Norjan ja Tanskan näin ainakin mun mielestä siinä oli kaikki Pohjoismaat
+Puhuja 0: kirjastojen
+Puhuja 0: yhteinen striimialusta.
+Puhuja 0: Ei ikinä kuullutkaan. Josta pystyy katsomaan elokuvia
+Puhuja 0: neljä kappaletta kuukaudessa omalla kirjastokortilla.
+Puhuja 0: Käy Helsingin
+Puhuja 0: kirjastot, kävi Hyvinkään kirjastot, kävi kaikki muut. Ja tosiaan
+Puhuja 0: jonkun pitäisi nyt vähän opettaa markkinointia
+Puhuja 1: Hei, onko tää nyt sitä hyvinvointivaltiosta sosiaalilinjaa? Jos me joudutaan luopumaan, Tuomas, katso nyt vielä, kun ehdit.
+Puhuja 0: Siellä on myös kaikkia
+Puhuja 0: hörhöjä taideelokuvia,
+Puhuja 0: kuten Withering hights.
+Puhuja 2: Siellä on siis vaikka mitä. Tästä ei kyllä sitten luovuta, jos säästöä joudutte tekemään.
+Puhuja 1: Tämä on punainen viiva, se menee tässä. Käykää rekisteröimässä kirjastokorttinne
+Puhuja 0: osoitteeseen
+Puhuja 0: cineast.
+Puhuja 0: Fi.
+Puhuja 1: Eli idän synnit, ei?
+Puhuja 0: Se oli vielä väännös ruotsinkielisestä
+Puhuja 0: alkuäppistä,
+Puhuja 0: joka oli joku sinest Jernä tai joku tällainen. Se oli suomeksi sinest.
+Puhuja 1: Okei. Hyvä. Kiitos vinkistä.
+Puhuja 0: Okei,
+Puhuja 0: kiitos Sallavuorikoski.
+Puhuja 0: Kiitos. Kiitos Hanna Mahamäki. Kiitos.
+Puhuja 0: Äänikuvan
+Puhuja 0: ja kaiken muun meille tekee tänään Janne Elkki. Kiitos myös Juusolle, joka oli mukana Wienistä asti.
+Puhuja 0: Kunniman Tuomas Peltomäki ja kuullaan taas ensi viikolla.
+Puhuja 0: Heippa!
+Puhuja 2: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit kertoo
+Puhuja 0: tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 0: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

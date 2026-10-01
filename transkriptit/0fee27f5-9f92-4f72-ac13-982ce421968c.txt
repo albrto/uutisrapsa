@@ -1,192 +1,390 @@
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uutisraportti-podcastiin
-Puhuja 0: torstaina
-Puhuja 0: kolmekymmentä. Päivä tammikuuta universu Siis mä annan historian pisin tammikuu.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin torstaina
+Puhuja 0: kolmekymmentä. Tammikuuta.
+Puhuja 0: Universumi... Siis mä annan historian pisin tammikuu.
 Puhuja 0: Jos mietitte nyt,
 Puhuja 0: että milloin oli uusi vuosi,
 Puhuja 0: niin tuntuu, että se oli joskus viime vuosikymmenellä.
-Puhuja 0: Eikö olekin?
-Puhuja 1: Eiku mä siis havahduin siihen, että vitsi hyvä, kun sanoit ton päivänmäärän, kun tajusin, että mun lähisukulaisella on tänään syntymäpäivä.
-Puhuja 0: Mielenkiintoista
-Puhuja 0: tapaa.
-Puhuja 1: Ei, mä en oo sukua mun miehelle.
-Puhuja 0: Auttaa maailmanpolitiikkaa.
+Puhuja 0: Eikö ookkin?
+Puhuja 1: Eiku mä siis havahduin siihen, että vitsi hyvä, kun sanoit ton päivämäärä, Mä tajusin, että mun lähisukulaisella
+Puhuja 1: on tänään syntymäpäivä. Mielenkiintoista
+Puhuja 2: vaan.
+Puhuja 1: Lähisukulaisen kann
 Puhuja 0: Ei me kyllä puhuta maailmanpolitiikkaa.
-Puhuja 0: No niin,
-Puhuja 0: okei. Vau. Mun nimi
+Puhuja 0: No niin, okei.
+Puhuja 0: Wau, mun nimi
 Puhuja 0: Tuomas Peltomäki.
-Puhuja 0: Kanssani täällä Helsingin Sanomien podcaststudiot
+Puhuja 0: Kanssani täällä Helsingin Sanomien
+Puhuja 0: podcaststudiot
 Puhuja 0: vähän erottamissa tunnelmissa
-Puhuja 0: ovat
-Puhuja 0: Helsingin
-Puhuja 0: Sanomien
-Puhuja 0: tutkivien
+Puhuja 0: ovat...... Helsingin Sanomien tutkivien
 Puhuja 0: juttujen
 Puhuja 0: esinainen
 Puhuja 0: nimeltä
 Puhuja 0: Salla Vuorikoski.
 Puhuja 0: Hei, Salla! Hei!
-Puhuja 0: Naimisissa
-Puhuja 0: Ei-sukulaisen
-Puhuja 0: kanssa.
+Puhuja 0: Naimisissa...
+Puhuja 0: Ei sukulaisen kanssa.
 Puhuja 0: Ja
-Puhuja 0: tämä katouttaa
-Puhuja 0: nyt poikkeuksellisen paljon
-Puhuja 0: politiikkaa toimittavaa. Marko Juncare, hei, Marko! Noissa.
+Puhuja 0: tämä katuttaa nyt poikkeuksellisen paljon
+Puhuja 0: politiikkaa toimittavaa. Marko Junbergin hei, Marko! No heissä.
 Puhuja 0: Ja sitten nyt mä haluan sanoa, että meillä on todellakin ilo ja kunnia
 Puhuja 0: saada tänne lisää
-Puhuja 0: podcast-housteja.
-Puhuja 0: Niistä on maailmassa kuulemma pulaa. Mutta
-Puhuja 0: syystä pyysin nimittäin paikalle
-Puhuja 0: Visiopedcastin
-Puhuja 0: toista vetäjää Alexaff Hörliniä.
-Puhuja 2: Ei kun me lopetetaan vaan.
-Puhuja 0: Mä en tiedä, mitäs kello on. Mä nyt hirvittää jotain kahden tunnin jaksoa.
-Puhuja 0: Puhutaan jostain, minkä värisiä käpyjä on syöty tällä viikolla.
-Puhuja 0: Kun
-Puhuja 0: istutte alas baariin ja sitten semmoinen robottibaarmikko
-Puhuja 0: tulee ja sanoo:
-Puhuja 0: Hyvää
-Puhuja 0: päivää,
-Puhuja 0: pitää saisi olla.
-Puhuja 0: Vai
-Puhuja 0: en matki muuten tässä nyt kiinalaista jaksanuttia.
-Puhuja 0: Kuulostaa rasistiselta.
-Puhuja 0: Sitten teidän
-Puhuja 0: robottipalvelija
+Puhuja 0: podcast-osia.
+Puhuja 0: Niistä maailmassa kuulemma pulaa.
+Puhuja 0: Mutta syystä pyysin nimittäin paikalle
+Puhuja 0: visiopedcastin
+Puhuja 0: toista vetäjää Alexavh Hörliniä
+Puhuja 0: sen takia, että teillä oli viime viikon visiopodissa
+Puhuja 0: aivan törkeän hyvä jakso, jossa oli
+Puhuja 0: eläkeyhtiö Varman
+Puhuja 0: toimitusjohtaja
+Puhuja 0: Risto Murto vieraana. Ja se oli tosi kiinnostavaa se Risto Murron turinaat. Mutta se ei ollut se pääsyy, vaan se oli se, että kuuntelin sitä teidän podia ja te puhuitte siitä, mikä on Suomen talouden tilanne,
+Puhuja 0: miltä se näyttää,
+Puhuja 0: mitä luottoluokittajat
+Puhuja 0: katsovat tällä hetkellä
+Puhuja 0: Suomea ja mistä
+Puhuja 0: hallituksen toimista, mistä talousasioista on riippuvaista se, että miten vaikka Suomea arvioidaan
+Puhuja 0: muiden
+Puhuja 0: näkökulmasta.
+Puhuja 0: Ja minä kuuntelin sitä keskustelua. Ja se oli niin
+Puhuja 0: törkeän kiinnostavaa ja niin törkeän hyvä.
+Puhuja 0: Ja me olemme ystäviä ja kollegoita
+Puhuja 0: ja törmätään toisiin täällä päivittäin. Mutta ilman yhtään puolueellisuutta silti sanon, että sen podcastin aikana
+Puhuja 0: minun päässäni oli ajatus, että missään
+Puhuja 0: muualla
+Puhuja 0: Suomessa ei ole näin hyvää
+Puhuja 0: talous
+Puhuja 0: ja talouteen liittyvää keskustelua kuin siinä podcastissa
+Puhuja 0: just sillä hetkellä. Se oli ihan maagesta. Vau, kiitos. Tulipa
+Puhuja 2: tämmöinen siirappinen.
+Puhuja 2: Tästä tuli kaikille vaille.
+Puhuja 2: Ikäselle
+Puhuja 2: ahvenalla.
+Puhuja 0: Mutta se oli niin röyhkeä hyvä. Ja siksi heti innostuin, että nyt haluan pyytää sinut tänne, koska meillä on talouteen
+Puhuja 0: ja uuteen teknologiaan, tekoälyyn ja muuhun liittyvä ensimmäinen aihe. Nimittäin tämän viikon podcastissa keskustellaan Deep Seikistä, joka syöksy maailman
+Puhuja 0: kaaokseen
+Puhuja 0: teknopuolella.
+Puhuja 0: Myös makropolitiikkaan
+Puhuja 0: vaikutti jotenkin oudon
+Puhuja 0: shokeervan
+Puhuja 0: paljon.
+Puhuja 0: Amerikan tämmöinen, mitä tässäkin
+Puhuja 0: on viikosta toiseen hehkutettu, semmoinen kuin Amerikan täysylivalta
+Puhuja 0: teknologiassa taloudessa,
+Puhuja 0: jotenkin maailman
+Puhuja 0: tulevaisuuden muokkauksessa,
+Puhuja 0: niin
+Puhuja 0: aivan yhtäkkiä heitti häränpyllyä
+Puhuja 0: eikä näytä yhtään niin varmalta kuin vielä viime viikolla.
+Puhuja 0: Keskustellaan
+Puhuja 0: siitä.
+Puhuja 0: Sen lisäksi sitten puhutaan
+Puhuja 1: Grönlannista. Se on termi lähivaalit.
+Puhuja 1: Se on hyvä ajatus. Sen takia
+Puhuja 2: halusin puhua, koska olen nyt niin
+Puhuja 2: innoissani
+Puhuja 2: kuntavaaleista. Koska kuntavaaleista puhuminen valtakunnallisesti on oikeasti hankalaa, koska ongelmat ovat erilaisia, niin puhutaan hetki Helsingin
+Puhuja 2: kuntavaalitilanteesta.
+Puhuja 2: Tähän liittyy tämä mitä Tuomas äsken viittasi, että halutaan
+Puhuja 2: kieltää
+Puhuja 2: polttomoottoriautolla
+Puhuja 2: Helsingin keskustassa. Tämä oli mielestäni
+Puhuja 2: vähän
+Puhuja 2: tämmöinen Donald Trump tyyppinen avaus,
+Puhuja 2: mikä oli
+Puhuja 2: suorastaan mykistävä, eli Helsingin apulaispormestari
+Puhuja 2: Anni Sinnemäki,
+Puhuja 2: taisi olla Hesarin haastattelussa
+Puhuja 2: viikonloppuna,
+Puhuja 2: toi esille, että
+Puhuja 2: vuonna kaksituhatta kolmekymmentäviisi
+Puhuja 2: pitäisi olla
+Puhuja 2: tarkkaa muotoa, mutta polttomoottoriautolla
+Puhuja 2: Helsingin keskustassa tai osassa keskustaan pitäisi olla kielletty.
+Puhuja 2: Kiinnostavaa tässä oli tavallaan se, että Sinne mäellä ei sinänsä ollut mitään syytä tehdä tuota avaus just nyt, koska tämä
+Puhuja 2: on menossa tuolla kaupungin hallinnossa,
+Puhuja 2: tämä on
+Puhuja 2: virkamiestasolla käytävää keskustelua, missä Helsingillä on ilmastotavoitteet ja niihin pääse, missä joudutaan tekemään ratkaisuja
+Puhuja 2: ja tässä ei ole mitään pakkoa aloittaa tällaista, saako
+Puhuja 2: bensa-autolla ajaa esiin
+Puhuja 2: keskustassa
+Puhuja 2: keskustelua juuri nyt. Sinne minäkin jostain syystä sen halusi aloittaa ja tässä hänen
+Puhuja 2: vihreät kollegansa ovat enemmän tai vähemmän kauhuissaan,
+Puhuja 2: että miksi juuri nyt, koska tämähän oli
+Puhuja 2: sekä Kokoomukselle
+Puhuja 2: että demareille
+Puhuja 2: täydellinen syöttö lapaan. Siellä Evelina Heinäluoma demareiden pormestariehdokas
+Puhuja 2: jo haukkui tämän ehdotuksen ja samoin Daniel Sazanov
+Puhuja 2: Kokoomuksen pormestariehdokas.
+Puhuja 2: Ja
+Puhuja 2: kaikki minä soittelin ja kukaan
+Puhuja 2: ei oikeastaan myöskään vihreissä, ihan täysin ymmärtää miksi
+Puhuja 2: Anni sinnemäki halusi nostaa tämän asian esille juuri nyt, koska tämä
+Puhuja 2: on vasta virkamiesvalmisteluun
+Puhuja 2: menevä asia, jota ei olisi tarvinnut millään tavalla vielä
+Puhuja 2: tuoda esille.
+Puhuja 0: Mutta tuo kuulostaa ihan tyhmältä, koska... Kyllä minä jatkan. Odota hetki. Minä menin hsyz. Fi ja sieltä haku ja haku kuntavaalit.
+Puhuja 0: Sitten siinä tulee hirveä liuta. Toinen toista on oudompia ja typerympi
+Puhuja 0: ehdotuksia, joita tulee puolueilta.
+Puhuja 0: Kristillisdemokraateilla
+Puhuja 0: oli joku, mikä se oli, jotain maahamehilä. Ei putoa, tai sitä tai jotain. Persuilla oli, että wokeitus pois kouluista.
+Puhuja 2: Tässä vihreät ihmettelee, että miksi hän tai moni ihmettelee miksi hän sen teki. Tämä oli ilmeisestikin Anni
+Puhuja 2: Sinnemäen toinen kausi apulaisporvesta,
+Puhuja 2: joka vastaa nimenomaan näistä asioistaan päättymässä ja tämä saattoi olla jonkinlainen, hänellä oli halu jättää vielä kädenjälkensä
+Puhuja 2: maailmankaikkeuden
+Puhuja 2: poliittiseen perintöön. Hän ainakin yritti kaikkensa. Mutta hän oli siis ollut
+Puhuja 0: maalastatti.
+Puhuja 1: Hän oli poistumassa
+Puhuja 1: ovesta, niin hän raapasi tulitikun ja heitti sen sinne huoneeseen ja häipyi.
+Puhuja 2: Sitten tässä on vielä,
+Puhuja 2: tilannehan on tosi kiinnostava. Perinteisesti kokoomus on yleensä aina ollut Helsingin suuri puolue ja nyt vihreät ovat olleet Jät ja kaksi. Nyt näyttää vahvasti siltä, että demarit menevät vihreiden ohi.
+Puhuja 2: Vihreät on
+Puhuja 2: enemmän tai vähemmän sekaisin.
+Puhuja 0: Vihreiden kaikki kärki tai isot nimet jättää valtuuston
+Puhuja 0: näissä vaaleissa, eikö näin? Siellä on Soinin vaaraa ja Sauria.
+Puhuja 2: Nämä vanhat mediatut ovathan siellä edelleen. Siellä on Atte Harjanne,
+Puhuja 2: Sana joku muu. Varianne Diarra on siellä oikeassa. Ihan pitkästi ystävä.
+Puhuja 0: Onko muita? Ei ole ketään muuta.
+Puhuja 2: No, kun niillä on niin pitkään toiminut isona puolue ensinnäkin, että onhan vihrellistä
+Puhuja 2: kelvollinen ja onhan siellä tuuri gousaa ja siellä on ties ketä.
+Puhuja 2: Vihreät on todella
+Puhuja 2: useassa, koska ne on jo muutenkin
+Puhuja 2: vaikeuksissa täydennysrakentamis
+Puhuja 2: lähiluontokeskustelun
+Puhuja 2: kanssa, mikä ei ole missään nimessä vain vihreiden syytä, koska Anni sinäkinmäki on myös siitä vastaava apulaispormestari,
+Puhuja 2: niin kaikki helsinkiläiset ovat sitä mieltä, että vihreät haluavat väkisin rakentaa
+Puhuja 2: Herttoniemeen
+Puhuja 2: 50-luvun alun lähiöön uusia taloja
+Puhuja 2: sinne missä lapset leikkii.
+Puhuja 2: Lapset ja Marika Junkkari. Kyllä.
+Puhuja 2: Kaavat
+Puhuja 2: on hyväksytty yhdessä ja vihreät ei voi yksin tehdä mitään, mutta vihreät on saanut syytökset tästä lähiluonto
+Puhuja 2: täydennysrakentaminen
+Puhuja 2: asiasta, mikä suututtaa kamalan monia ihmisiä.
+Puhuja 2: Ja nyt toinen suuria tunteita
+Puhuja 2: herättävä asia on
+Puhuja 2: autoilu. Ja nyt tavallaan vihreät on sekä molemmissa
+Puhuja 2: ottanut taas, kyllähän kaikki tietää, ettei vihreät kannata ehkä yksityisautoilua samassa vaan ei Kokoomuslaiset,
+Puhuja 2: mutta sinne minäkin heitti bensaa liekkeihin ja aloitti tämän keskustelun just nyt ja tätä kaikki kummastivat kovasti. Onhan siellä, kun piti oikein katsoa, niin onhan siellä Outi Alanko Kahiluoto-Harjanne
+Puhuja 1: Mari Holopainen, Emma Kari Otso Kivekäs,
+Puhuja 1: Osanjanar,
+Puhuja 1: tällaisia, Sanna Vesikansa ihan
+Puhuja 1: tiedä, ketkä ovat ehdolla.
+Puhuja 2: Valtiollisen talon tarvitaan. Jos katsoo isoja puolueita, niin Daniel Zasonov, joka on kokoomuksen Formestari erikois, hän on suhteellisen tuntematon,
+Puhuja 2: valtakunnan
+Puhuja 2: politiikassa ollut jät ja ajat
+Puhuja 2: kaupunkipolikin jonkun elämänsä teidän politiikkaa eikä mitään muuta. Sitten
+Puhuja 2: demareilla
+Puhuja 2: on
+Puhuja 2: tavallaan tällainen
+Puhuja 2: kahden kärjen taktiikka, eli Porvistaehdokassa on Eveliina Heinäluoma ja sitten sen lisäksi ehdokkaana tämä Nasima Rasimywar,
+Puhuja 2: joka molemmat on
+Puhuja 2: varsinkin Nasima on demareina varmaan suosituin poliitikko, joka tulee keräämään ihan
+Puhuja 2: valtavan
+Puhuja 2: äänimäärän.
+Puhuja 2: Ja
+Puhuja 2: sitten vihreillä, nyt on kumminkin äsken lueteltu, että tässä on sinänsä
+Puhuja 2: aika näkymät kärkiehdokkaat,
+Puhuja 2: mutta
+Puhuja 2: se vihreä kyllä pahaa pelkää.
+Puhuja 2: Turpaan tulee. Turpaan tulee ja jos ne jäisivät kolmanneksi niin olisi aika katastrofi. Ja itse asiassa Vasemmistoliittokin
+Puhuja 2: saattaa
+Puhuja 2: todennäköisesti tekee hyvän tuloksen
+Puhuja 1: ja saattaa koputella ihan niitä vihreitä. Mutta vihreät kyntää vähän jokaisella sektorilla.
+Puhuja 2: Kyllä,
+Puhuja 2: ja
+Puhuja 2: jos
+Puhuja 2: nämä kuntavaalit, aluevaalit menee huonosti niin kuin vahvasti näyttää, niin todennäköisesti vihreiden puheenjohtajaksi vaihtuu kesällä.
+Puhuja 1: Sitä konstia ovat kokeilleet muutaman kerran.
+Puhuja 2: Kyllä,
+Puhuja 2: joo.
+Puhuja 0: Jos
+Puhuja 0: perussuomalaiset olisivat saaneet päättää asiasta ja olisi todella tälleen, että saatte verotuloja siitä, kun elätte
+Puhuja 0: terveellisesti, niin mikä olisi tammikuun
+Puhuja 0: jäljiltä teidän saldo? Itse olisin hyvin rikas, koska en ole juonut pisaraakaan
+Puhuja 0: tammikuussa
+Puhuja 0: ja muutenkin elänyt civeää elämää. Vaikka sinänsä tofusta ja pervoillusta pidänkin. Mutta mun mielestä se edellytti lopullista pervoidun lopettavista. No, sitä ei voi. Heressä voi lukea
+Puhuja 2: Helsingissä dokaamaan,
+Puhuja 2: ei
+Puhuja 0: se silloin sitä eroa. Mutta en ala. Me olemme puolen vuoden raittius.
+Puhuja 0: Jos rupeat heinäkuussa dokaanista. Tätä matkaa voitte seurata minun matkaopas-podcastissa,
+Puhuja 0: joka on alkanut pyöriä jälleen kerran.
+Puhuja 1: Mutta olisitteko tiedonneet rahaa näillä? No siis kyllä mä varmaan olisin tiennyt, täytyy myös sanoa, että kun käyn silloin tällöin tuolla työpaikan kuntosalilla, niin
+Puhuja 1: kyllä on porukkaa. Siellä on joka laite
+Puhuja 1: täynnä joku kiihnuttamassa.
+Puhuja 1: Kyllä. Sanomalaisilla menee tässä suhteessa ainakin tammikuun
+Puhuja 1: ajan hyvin.
+Puhuja 0: Joo,
+Puhuja 0: muuta
+Puhuja 0: kiinnostavaa mä en kyllä nähnytkään tuolla kun tavaliin. Niin,
+Puhuja 1: mutta eikö me tavallaan, näistähän tekee mieli, puhun näistä kuntavaaleista,
+Puhuja 1: Mutta peittyykö sekin nyt sitten tällaisen...
+Puhuja 2: Helsingissähän on molemmat. Kyllä Helsingissä on käsittääkseni iso teema myös meidän
+Puhuja 2: terveyskeskukset ja jonotjen
+Puhuja 2: vanhustenhoitoja.
+Puhuja 1: Se on totta. Kyllä.
+Puhuja 0: Sitten kun... Kauhean nopeasti halusi lopettaa kuvasta. Sano nyt jotain. Ei, lopetetaan vaan.
+Puhuja 0: Mä en tiedä, mitäs kello on. Mä nyt hirvittää jotain kahden tunnin jakso. Ja puhutaan jostain,
+Puhuja 0: minkävärisiä käpyjä on syöty tällä viikolla.
+Puhuja 0: Kun istutte alas baariin ja sitten semmoinen robottibaari Mikko tulee ja sanoo:
+Puhuja 0: Hyvää päivää,
+Puhuja 0: pitää saisi olla,
+Puhuja 0: vai? En matki muuten tässä nyt kiinalaista aksenttia.
+Puhuja 0: Kuulostaa realistiselta.
+Puhuja 0: Sitten teidän robott palvelija
 Puhuja 0: kaataa teille
-Puhuja 0: viskishotin
-Puhuja 0: ja
-Puhuja 0: laittaa
-Puhuja 0: siihen
-Puhuja 0: kyytipöjaksi,
-Puhuja 0: ei kun kyytipöjaksi myös pienen oluen
-Puhuja 0: ja sitten rupeatte
-Puhuja 0: siinä
-Puhuja 0: keskustelemaan
-Puhuja 0: sekaisin ihmisiä
+Puhuja 0: visishotin.
+Puhuja 0: Laittaa siihen kyytipöjaksi, ei kun kyytipöjaksi myös pienen oluen ja sitten rupeatte
+Puhuja 0: siinä keskustelemaan
+Puhuja 0: sekaisin
+Puhuja 0: ihmisiä
 Puhuja 0: ja tekoälyjä ja muita viettämässä siinä iltaa
 Puhuja 0: tässä
-Puhuja 0: vähän science fiction-henkisessä
-Puhuja 0: baarissa.
-Puhuja 0: Millä rupeatte
-Puhuja 1: Deepsiikkejä ja Open AI:tä siellä viihdyttää, Minkälaisella on? Oliko mä Helsingissä tässä, kun tää tilanne Joo, tulevaisuuden Helsingissä. Joo, mä ensimmäisenä sanoisin, että kantsii käydä tuossa elokuvateatteri
-Puhuja 1: Gildassa, joka on tossa vanhalla paikassa. Mä kävin siellä, jos se on ihan mahtava. Se on aivan ihan. Missä? Joo,
-Puhuja 1: totta se on niin kuin vanha linja-autoasema eli Lasipalatsia Kampin keskuksen välissä. Aa siinä, missä on se kulttuurit
-Puhuja 0: Terassi. Joo, mä en tiedä. Mikä sen nimi on? Kulttuuri joku? Siis kulttuurimaja.
-Puhuja 1: No, herrymaalla, no sen vuoden myötä.
-Puhuja 0: Vanha Henryspubin ti.
-Puhuja 1: Klaus Härö-elokuva
-Puhuja 1: käytiin katsomassa siellä eilen. Oli jotenkin miellyttävä kokemus, se on niin modernia, että siellä osaa viedä alkoholiakin. En kyllä vienyt, mutta saisi viedä sinne.
-Puhuja 1: Se oli pehmeä ja kivaa. Paljon jalkatilaa.
-Puhuja 1: Joo, se oli, mutta se ei
-Puhuja 1: ole nyt varsinaisesti, no, oli sekin suositus, mutta mun
-Puhuja 1: varsinainen suositus on se, että
+Puhuja 0: vähän science fiction henkisessä baarissa.
+Puhuja 0: Milläs ruette Deepsiekkejä
+Puhuja 0: ja Open AI:tä siellä viihdyttämään?
+Puhuja 1: Olinko mä Helsingissä tässä, kun tää tilanne on? Joo, tulevaisuuden Helsingissä. On? Joo, tulevaisuuden Helsingissä. Ensimmäisenä mä sanoisin, että kannattaisi käydä tuossa elokuvateatterikiltaassa,
+Puhuja 1: joka on vanhalla
+Puhuja 1: nyt varsinaisesti, no oli sekin suositus, mutta mun varsinainen
+Puhuja 1: suositus on se, että
 Puhuja 1: on tarina tällaisesta
 Puhuja 1: parantumattomasti
-Puhuja 1: sairasta nuoresta 26-vuotiaasta
-Puhuja 1: miehestä, joka haluaa jättää sairaalat
-Puhuja 1: ja kaiken
-Puhuja 1: elämässään taakseen. Hänellä on nuoruusiän
-Puhuja 1: Alzheimer.
-Puhuja 1: Lähtökohta on siis tosiaan tää, että on tämä mies, joka haluaa jättää kaiken taakseen ja ikään kuin tehdä matkan kuolemaan.
-Puhuja 1: Hän oikeasti lähtee matkalle, hän hankkii tällaisen
-Puhuja 1: matkailuauton ja sitten laittaa ilmoituksen internettiin
-Puhuja 1: ja etsii matkatuveria. Ja sitten hän löytää matkatuverin.
-Puhuja 1: Ja
-Puhuja 1: tämä on se lähtökohta, josta Melissa Dakostan
+Puhuja 1: sairaalasta nuoresta, 26-vuotiaasta
+Puhuja 1: miehestä,
+Puhuja 1: joka haluaa jättää sairaalat ja
+Puhuja 1: kaiken elämässään taakseen. Hänellä on nuoruusiän Alzheimer.
+Puhuja 1: Lähtökohta
+Puhuja 1: on siis tosiaan tämä, että on tämä mies, joka haluaa jättää kaiken taakseen ja ikään kuin tehdä matkan kuolemaan.
+Puhuja 1: Ja hän oikeasti lähtee matkalle, hän hankkii tällaisen
+Puhuja 1: matkailuauton
+Puhuja 1: ja sitten laittaa ilmoituksen internettiin ja etsii matkatuveria. Ja sitten hän löytää matkatuverin.
+Puhuja 1: Tämä on se lähtökohta, josta Melissa Dakosta
 Puhuja 1: Kaikki taivaan Sini
 Puhuja 1: kirja lähtee liikkeelle.
-Puhuja 1: Ja tämä on aika perinteinen semmoinen matkakertomus,
-Puhuja 1: paikat vaihtuu, siellä on ruokaa ja siellä on paikkakuntia, ranskalaisia, pikkukyliä ja kaikenlaista. Ja sitten on ne ennen
+Puhuja 1: Ja tämä on aika perinteinen
+Puhuja 1: matkakertomus,
+Puhuja 1: paikat vaihtuu, siellä on ruokaa ja siellä on paikkakuntia ranskalaisia, pikkukyliä ja kaikenlaista.
+Puhuja 1: Ja sitten on näiden kahden
+Puhuja 1: ihmisen
+Puhuja 1: historiaa
 Puhuja 1: ja
-Puhuja 1: Minua on vähän vaikea saada
+Puhuja 1: tulevaa ja yhteistä elämää
+Puhuja 1: kerrotaan siinä samalla.
+Puhuja 1: Tämä on aivan ihana kirja. Mä en ole mikään vetistelijä. Minua on vähän vaikea saada
 Puhuja 1: itkemään liikutuksesta,
-Puhuja 1: mutta sanotaan, että tämän kirjan äärellä minunkin
-Puhuja 1: kova sydämeni hieman
+Puhuja 1: mutta sanotaan, että tämän kirjan äärellä minunkin kova
+Puhuja 1: sydämeni hieman
 Puhuja 1: suli.
 Puhuja 1: Minun suositus on Melisada Costa
 Puhuja 1: Kaikki taivaan Sini, joka kyllä siis Hesarikin antoi aika maidot arviot.
-Puhuja 1: Semmoista
-Puhuja 1: taivaavaa
+Puhuja 1: Mutta semmoista taivaavaa
 Puhuja 1: kerrontaa ja paljon
 Puhuja 1: semmoisia visuaalisia kuvia syntyy päässä, kun lukee tätä.
 Puhuja 2: Mä ryhdyin
-Puhuja 2: viikonloppuna vuoksi alkuviikosta
-Puhuja 2: vähän sattumalta katsoen
-Puhuja 2: suoratoistopalveluista
-Puhuja 2: tämän cone veljesten
-Puhuja 2: Big Lebalski leffan. Oikeastaan, jonka olen nähnyt jos aikoo, enkä yhtään muistanut mitä siinä tapahtuu.
-Puhuja 2: Jotka oli enemmän tai vähemmän häröjä ja
-Puhuja 2: niillä oli tällainen oma keilailujoukkue
-Puhuja 2: ja ne tapasi aina siellä keilahallissa ja
-Puhuja 2: osallistuivat johonkin keilailusarjaan
-Puhuja 2: ja se keilahalli oli yksi olennainen tapahtuma paikka tässä leffassa.
-Puhuja 2: Sitten tuli vaan mieleen, että tämähän on kyllä ihan totta, että maailma
-Puhuja 2: on muuttunut
-Puhuja 2: todella paljon, että eihän enää kukaan keilaa,
-Puhuja 2: Tästä on siis kirjoittanut tuo Neil Postman aikoinaan tuon Bouling a lown kirjaan joskus Ysärillä, missä data osoittaa, että keilaaminen on ollut Jenkeissä tällainen
+Puhuja 2: viikonloppuna vaikka alkuviikosta vähän sattumalta katsoen
+Puhuja 2: noista suoratoistopalveluista
+Puhuja 2: tämän
+Puhuja 2: Cone veljesten
+Puhuja 2: Big Lewalski leffan. Mun mielestä tämä, minkä olen nähnyt edes aikoin, enkä yhtään muistanut mitä siinä tapahtuu.
+Puhuja 2: Olisi uutta leffaa katsonut, vaikka sen on nähnyt silloin
+Puhuja 2: jotka oli enemmän tai vähemmän häröjä
+Puhuja 2: ja niillä oli oma keilailujoukkue
+Puhuja 2: ja ne tapasi aina siellä keilahallissa
+Puhuja 2: ja ottelivat jotain, osallistui johonkin keilailusarjaan
+Puhuja 2: ja se keilahalli oli yksi olennainen tapahtuma paikka tässä elokuvassa.
+Puhuja 2: Sitten tuli vaan mieleen, että tämähän on kyllä ihan totta.
+Puhuja 2: Maailma on muuttunut
+Puhuja 2: todella paljon, että eihän enää kukaan keilaa.
+Puhuja 2: Tästä on kirjoittanut
+Puhuja 2: Neil Postman tehnyt aikoinaan Bouling a lown kirjaan joskus Ysärillä,
+Puhuja 2: missä data osoittaa, että keilaaminen on ollut Jenkeissä tällainen
 Puhuja 2: yhteisöjen keskeinen
-Puhuja 2: koossa pitävä voima ja miten ihmiset ovat vetäneet vapaa-aikaan siellä keilahallissa ja perhe ei saa lähtenyt kavereiden kanssa keilaamaan jotain ja se on se, miten
-Puhuja 2: pidetään yhteyttä ja lyödään vähän kaljaa, mutta sitä ei enää tapahdu keila on ollut harrastuksena
+Puhuja 2: koossa pitävä voima ja miten ihmiset on vetänyt vapaa-ajalla siellä keilahallissa ja perhe
+Puhuja 2: ei saa lähtenyt kavereiden kanssa keilaamaan iltasia ja se on se
+Puhuja 2: miten
+Puhuja 2: pidetään yhteyttä ja lyödään vähän kaljaa, mutta sitä ei enää tapahdu. Keilailun harrastuksena
 Puhuja 2: Jenkeissä
-Puhuja 2: täysin lopahtanut,
-Puhuja 2: ei ole enää tällaisia keilailussa, ei ole enää seuroja, ei
-Puhuja 2: ole enää tapaa, että ihmiset lähtee
-Puhuja 2: viettämään aikaa siellä keilahallissa ja en tiedä onko Suomessa ikinä ollutkaan näillä laajaa keilailukulttuuria.
-Puhuja 0: Kyllä jostain syystä hohtokeilu.
-Puhuja 1: Mutta sitten tämä meidän koti Tällainen yhteisöllisyys tässä mielessä
-Puhuja 2: on muuttunut ja tästä on siis ihan data Jenkeistä
-Puhuja 1: muuttunut aivan totaalisesti. Mutta siis taas meidän kotiin kun on iskenyt tämmöinen Darts syöpäläinen eli meillä tosi paljon seurataan DARTia.
-Puhuja 1: Siinä on meillä taas vastakkainen kehitys, että se on kasvattatanut hirveästi suosiota. Niissähän on tiettyä samankaltasia. Sehän pitää kapakassa lähinnä, eikö tehdä? No ei, niillä on niitä semmoisia isoja eventtejä,
-Puhuja 1: joissa siis porukka on hulluna. Kyllä siellä kaljaa juontiin. Ei, mutta siellä on siis promillerajat.
+Puhuja 2: täysin lopahtanut
+Puhuja 2: ja ei ole enää tällaisia keilailussa, ei ole enää seuroja, ei ole enää
+Puhuja 2: tapaa, että ihmiset lähtee
+Puhuja 2: viettämään aikaa siellä keilahallissa ja en tiedä onko Suomessa ikinä ollutkaan näillä laaja keilailukulttuuria.
+Puhuja 2: Kyllä jostain syystä hohtokeila.
+Puhuja 2: Telkkaria
+Puhuja 2: tai Netflixia tai sitä Mikilebauskia
+Puhuja 2: tai Netflixistä.
+Puhuja 1: Mutta tällainen yhteisöllisyys
+Puhuja 2: tässä mielessä on muuttunut ja tästä on siis ihan dataa Jenkeistä muuttunut aivan totaalisesti. Mutta siis taas meidän
+Puhuja 1: kotiin, kun olen iskenyt tämmöinen DART Syöpäläinen eli meillä tosi paljon seurataan DARTia.
+Puhuja 1: Siinä mielessä taas on vastakkainen kehitys, että se on kasvattanut hirveästi suosiota. Niissähän on tietty samankaltasia. Mitä sä et mitään kapakassa lähinnä, eiks tehdä? No ei, niillä on niitä semmoisia isoja eventtejä,
+Puhuja 1: joissa siis porukka on hulluna. Kyllä siellä kaljaa juonti. Ei, mutta siellä on siis promillerajat.
 Puhuja 0: Pitää olla jonkun verran, ei muuten. Ai,
-Puhuja 0: päin, mutta yleisö ei välttätisi. Siinä on eri suuntaan ymmärrykseni mukaan. Suosittelen siis Michile Bowwskia ja keilailua. Se on upeileffa. Keilailu on upeela. Se on kiva, mennään keilaanmoon. Todella vaikea laji. Ja myös semmoinen laji, missä todella raivostuttavalla
-Puhuja 0: tavalla ex-vaimo oli mestari. Siis
-Puhuja 0: mestarikeilaaja.
-Puhuja 0: Siis sen
-Puhuja 0: takia on kertonut. Se oli niin
-Puhuja 0: nöyryyttävää käydä sen kanssa ikinä missään radalla.
+Puhuja 0: Sen takia on se ero. Se oli niin nöyryyttävää käydä sen kanssa ikinä missään radalla.
 Puhuja 0: Antisuositus
-Puhuja 0: keilaamiselle täältä.
-Puhuja 0: Mä haluan
-Puhuja 0: suositella
-Puhuja 0: tämmöistä Tämä ei ole obscuri, mutta tämä on oudosti obscuri ehkä kuitenkin.
-Puhuja 0: Mä suosittelen nimenomaan Instagram-tiliä
+Puhuja 0: keilaamiselle
+Puhuja 0: täältä.
+Puhuja 0: Mä
+Puhuja 0: haluan suositella
+Puhuja 0: tämmöistä...
+Puhuja 0: Tämä ei ole obscuuri, mutta tämä on oudosti obscuuri ehkä kuitenkin. Mä
+Puhuja 0: suosittelen nimenomaan Instagram-tiliä,
 Puhuja 0: vaikka liikehdintä on laajempaa.
 Puhuja 0: Tämä on tämmöinen
-Puhuja 0: Dast to Digital niminen tili.
+Puhuja 0: Dast to Digital
+Puhuja 0: niminen
+Puhuja 0: tili.
 Puhuja 0: Tämä on laajemmin
-Puhuja 0: kenties firma.
-Puhuja 0: Ennen kaikkea tämä on tämmöinen
-Puhuja 0: pariskunta nimeltä
-Puhuja 0: Lands ledbeder ja Appel ledbedder,
-Puhuja 0: jotka digitoivat
+Puhuja 0: kenties
+Puhuja 0: firma ja
+Puhuja 0: ennen kaikkea tämä on tällainen pariskunta
+Puhuja 0: nimeltä
+Puhuja 0: Lanz Ledbedter
+Puhuja 0: ja
+Puhuja 0: April Ledbedter,
+Puhuja 0: jotka
+Puhuja 0: digitoivat
 Puhuja 0: ja levittävät
 Puhuja 0: eteenpäin
 Puhuja 0: unohdettua
 Puhuja 0: musiikkia.
 Puhuja 0: Tarkoittaen sitä, että kaikkea outoa,
-Puhuja 0: ei-populaariaa,
+Puhuja 0: semmoista ei-populaaaa,
+Puhuja 0: semmoista,
 Puhuja 0: mikä on taltioitu
 Puhuja 0: johonkin kaitafilmille
-Puhuja 0: joskus 1950-luvulta,
+Puhuja 0: 1950-luvulta,
 Puhuja 0: miten
 Puhuja 0: länsipapuassa
-Puhuja 0: oli disco tai miltä näytti
+Puhuja 0: oli disco
+Puhuja 0: tai miltä näytti.
 Puhuja 0: Siellä on vaikka jotain suomalaista kansanmusiikkia.
-Puhuja 0: Saattaa olla,
-Puhuja 0: miten 1960-luvulla Irlannissa joku bändi esiintyi. Se musiikki kuulostaa oudolta ja hyvältä, ja ei ollenkaan
-Puhuja 0: popmusiikilta,
+Puhuja 0: Sitten saattaa olla, miten 1960-luvulla Irlannissa joku bändi esiintyy. Musiikki kuulostaa oudolta ja hyvältä ja ei
+Puhuja 0: ollenkaan pop-musiikista,
 Puhuja 0: mutta silti silleen, että okei, olipa hyvä kuuloja.
 Puhuja 0: Kun seuraa Instagram-tiliä,
-Puhuja 0: se hoksauttaa
-Puhuja 0: siihen, miten jotenkin sanattomasti me on semmoinen valinta, ehkä varsinkin näin internet ja TikTok-aikakaudella, jolloin TikTok sanelee kaiken musiikin,
-Puhuja 0: että miten me kuunnellaan todellakin
-Puhuja 0: vain yhtä musiikkia. Vain yksi musiikki, joka pitää sisällään pop-musiikista
+Puhuja 0: niin se hoksauttaa
+Puhuja 0: siihen, että miten jotenkin sanattomasti me on tehty semmoinen valinta, ehkä varsinkin näin internet ja TikTok-aikakaudella,
+Puhuja 0: jolloin TikTok sanelee kaiken musiikin,
+Puhuja 0: että miten me kuunnellaan
+Puhuja 0: todellakin vain yhtä musiikkia.
+Puhuja 0: Vain yksi musiikki, joka pitää sisällään pop-musiikista
 Puhuja 0: melodiseen black-metalliin
-Puhuja 0: kaiken. Se on oikeasti vain yksi hyvin kapea siivu
+Puhuja 0: kaiken, se on oikeasti vain yksi hyvin kapea siivu
 Puhuja 0: hyvän kuuloista kamaa.
-Puhuja 0: Tuolla Dasch digital
+Puhuja 0: Dash-Tash Digital
 Puhuja 0: Instagram-tilillä
 Puhuja 0: ja ehkä myös muillakin sometileillä, en tiedä, siellä on videoineen
 Puhuja 0: ja musiikkkeineen
@@ -194,22 +392,48 @@ Puhuja 0: aivan
 Puhuja 0: mahtavaa
 Puhuja 0: muuta musiikkia.
 Puhuja 0: Se on niin helppo tapa saada uusia
-Puhuja 0: siivuja maailmasta auki. Sieltä aina väliltä tulee video. Sitten näet sen, ai tällaistakin on. Eli Das to Digital suosittelen
-Puhuja 0: lämpimästi ja onnea vaan tälle pariskunnalle tekevät
+Puhuja 0: siivuja maailmasta auki, kun sieltä aina väliltä tulee video. Sitten näet sen, ai tällaistakin on.
+Puhuja 0: Eli Das to Digital suosittelen
+Puhuja 0: lämpimästi.
+Puhuja 0: Onnea vaan tälle pariskunnalle tekevät
 Puhuja 0: todella arvokasta työtä.
 Puhuja 0: En tiedä, mitä kello on. Se voi olla, että tuli taas pisin jakso ikinä. Mutta
 Puhuja 0: kiitän siitä
-Puhuja 0: Salla Vuorikoskea. Kiitos. Kiitän myös Marko Junkkaria. Kiitos. Kiitän Alexa Förliniä.
-Puhuja 0: Hänen ja Elina Lappalaisen
-Puhuja 0: vetämää
-Puhuja 0: aivan mainiota
-Puhuja 0: visio-podcastia
-Puhuja 0: löytyy kaikista mahdollisista kanavista. Ottakaa seurantaan, kuunnelkaa
+Puhuja 0: Salla Vuorikoskea.
+Puhuja 0: Kiitos. Kiitän myös Marko Junkkaria. Kiitos. Kiitän Alexand Förliniä ja hänen ja Elina Lappalaisen
+Puhuja 0: vetämänä aivan
+Puhuja 0: mainiota
+Puhuja 0: visio-podcastia löytyy kaikista
+Puhuja 0: mahdollisista kanavista. Ottakaa seurantaan, kuunnelkaa,
 Puhuja 0: varsinkin tämä edellisiin jakso, jossa oli Risto Murto vieraana.
 Puhuja 0: Aivan uskomattoman hyvää puhetta Suomen taloustilanteesta.
-Puhuja 0: Minun nimi on Tuomas Peltolaki, äänenkuva ja kaiken muun mahtava meille tekee tällä viikolla Jonne
-Puhuja 0: Viltonen.
-Puhuja 0: Kiitos Jonne,
-Puhuja 0: ja lähettäkää meille palautetta tavallisiin
-Puhuja 0: tapoihin.
-Puhuja 0: Ensi viikolla tehdään taas yksi podcast. Moi moi!
+Puhuja 0: Minun nimi on Tuomas Peltomäki, äänenkuva, ja kaiken muun mahtava meille tekee tällä viikolla
+Puhuja 0: Jonne Viltanen.
+Puhuja 0: Kiitos, Jonne.
+Puhuja 0: Lähettäkää meille palautetta tavallisiin tapoihin.
+Puhuja 0: Ensi viikolla tehdään taas yksi podcast, moi moi!
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

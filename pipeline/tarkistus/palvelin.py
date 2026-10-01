@@ -150,6 +150,36 @@ def vie_korjauksiin():
     return {"muokkauksia": len(muokkaukset), "lisayksia": len(lisaykset)}
 
 
+_AANET = None
+
+
+def aanet():
+    """jakso_id → täyden jakson MP3-osoite: RSS-syötteen enclosure tai Supla-osoite.
+    Haetaan kerran palvelimen elinaikana (RSS jäsennetään kevyesti ilman feedparseria)."""
+    global _AANET
+    if _AANET is None:
+        import re
+        import urllib.request
+        _AANET = {e["id"]: e["audio_url"] for e in lue(os.path.join(PIPELINE, "supla_audio_urlit.json"), [])
+                  if e.get("audio_url")}
+        try:
+            xml = urllib.request.urlopen("https://feeds.captivate.fm/uutisraportti-podcast/", timeout=30).read().decode("utf-8")
+            for item in re.findall(r"<item>(.*?)</item>", xml, re.S):
+                guid = re.search(r"<guid[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</guid>", item, re.S)
+                enc = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
+                if guid and enc:
+                    _AANET[guid.group(1).strip()] = enc.group(1).replace("&amp;", "&")
+        except Exception as e:
+            print(f"⚠️ RSS-syötteen haku epäonnistui: {e}")
+    return _AANET
+
+
+def aanitiedot(jakso_id):
+    """Soittimen tiedot: äänen osoite + rivien aikaleimat, jos ne tallennettiin litteroinnissa."""
+    ajat = lue(transkriptin_polku(jakso_id)[:-4] + ".ajat.json", None)
+    return {"audio_url": aanet().get(jakso_id), "ajat": ajat}
+
+
 class Kasittelija(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=KANSIO, **kwargs)
@@ -178,6 +208,9 @@ class Kasittelija(http.server.SimpleHTTPRequestHandler):
                 return self.vastaa({"virhe": "ei transkriptiota"}, 404)
             with open(polku, encoding="utf-8") as f:
                 return self.vastaa(f.read().encode(), tyyppi="text/plain; charset=utf-8")
+        if osoite.path == "/aani":
+            jakso_id = urllib.parse.parse_qs(osoite.query).get("id", [""])[0]
+            return self.vastaa(aanitiedot(jakso_id))
         return super().do_GET()
 
     def do_POST(self):

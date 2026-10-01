@@ -1,0 +1,492 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin
+Puhuja 3: Sanomat. Hei ja tervetuloa Helsingin Sanomien uutisrobotti podcastiin torstaina
+Puhuja 3: viisitoista. Elokuuta vuonna kaksituhatta kaksikymmentäneljä tänne turistikohtainakin tunnettuun Sanomataloon ja
+Puhuja 3: kaksikymmentäneljä
+Puhuja 3: tänne turistikohtakin
+Puhuja 3: tunnettuun Sanomataloon
+Puhuja 3: ja vielä tarkemmin viidennen kerroksen väliaikaiseen
+Puhuja 3: podcaststudioon.
+Puhuja 3: Minun nimeni on Heini Pitkänen ja kanssani täällä studiossa tänään ovat maailmotoimituksenahkerikko
+Puhuja 3: Rasmus Helaniemi.
+Puhuja 2: Moikka.
+Puhuja 3: Ja politiikan toimituksen Taitaja Oskari Eronen.
+Puhuja 3: Tänään viikon podcastissa
+Puhuja 3: keskustellaan sote-pomojen
+Puhuja 3: viimeaikaisista
+Puhuja 3: edesottamuksista
+Puhuja 3: ja myös
+Puhuja 3: Ukrainan hyökkäyksestä
+Puhuja 3: Venäjän Kurskin alueella
+Puhuja 3: ja vielä Pekka Toverin paljastuneesta
+Puhuja 3: vaalirahoituksesta,
+Puhuja 3: joka on herättänyt kysymyksiä muun muassa Kehätie neljä-nimisen
+Puhuja 3: hankkeen ympärillä.
+Puhuja 3: Päätetään jakso tuttuun tapaan hyvin
+Puhuja 3: keskustelun aiheisiin pitkien epämukavien hiljaisuuksien varalle.
+Puhuja 3: HS kertoi siis tosiaan maanantaina tällaisesta
+Puhuja 3: Kainuun hyvinvointialueen
+Puhuja 3: johtajan erosta, josta alkoi sellainen poliittinen kriisi.
+Puhuja 3: Ja tämän
+Puhuja 3: itse vyyhdin syitä ei oikein kukaan suostunut kertomaan, mutta kyse on siis tällaisesta.
+Puhuja 3: Siis
+Puhuja 3: Jukka Lindberg täältä Kainuun hyvinvointialueelta
+Puhuja 3: erosi.
+Puhuja 3: Ja
+Puhuja 3: aluevaltuusto
+Puhuja 3: vaatii nyt viipymättä äänestystä siitä, että ovatko nämä aluehallituksen
+Puhuja 3: puheenjohtajat toimineet asianmukaisesti,
+Puhuja 3: kun tätä erotilannetta
+Puhuja 3: setvittiin.
+Puhuja 3: Ja Linberhän siis lopulta itse irtisanoutui
+Puhuja 3: tehtävästään kesäkuussa
+Puhuja 3: ja sille kerrottiin syöksi tällainen aluehallituksessa
+Puhuja 3: syntynyt
+Puhuja 3: luottamuspula.
+Puhuja 3: No ennen kuin tämä ero tapahtui, niin kesäkuussa tapahtui tällainen Lindbergin ja aluehallituksen
+Puhuja 3: puheenjohtajien
+Puhuja 3: neuvonpito,
+Puhuja 3: josta laadittiin sitten muistio. Ja silloin sovittiin sitten suullisesti näiden äijien kesken, että näitä edun syitä ei nyt kerrota julkisuuteen.
+Puhuja 3: Ja sitten tämä muistiO on periaatteessa tai niin kuin lain silmissä julkinen asiakirja.
+Puhuja 3: Ja tätä muistiota ei kuitenkaan ostettu Helsingin
+Puhuja 3: Sanomien luovuttamaan.
+Puhuja 3: No, keskiviikkona
+Puhuja 3: se lopulta saatiin pitkällisen väännön tuloksena
+Puhuja 3: haltuunmme.
+Puhuja 3: Ja tässä muistissa kerrotaan hyvin lyhytsanaisesti,
+Puhuja 3: että
+Puhuja 3: Lindbergin
+Puhuja 3: mahdollisen luottamuspulan
+Puhuja 3: syitä olivat sidosryhmätyöskentely,
+Puhuja 3: johtoryhmän työskentely ja luottamushenkilöiden
+Puhuja 3: mahdollinen
+Puhuja 3: epäluottamus.
+Puhuja 3: Eli tällaiset
+Puhuja 3: perusteet tuli kerrottua.
+Puhuja 3: Oskari,
+Puhuja 3: mistä tässä nyt on kyse?
+Puhuja 1: Sinänsähän se ei ole uusi asia, että tällaisen eron tai epäluottamuksen
+Puhuja 1: syitä ei haluta avata julkisuuteen.
+Puhuja 1: Mutta se mikä tässä ehkä näyttää vähän oudolta toimittajan
+Puhuja 1: näkökulmasta,
+Puhuja 1: on se, että tämä haluttiin
+Puhuja 1: visusti pitää salassa täällä ravintolatapaamisessa
+Puhuja 1: tehty muistio, jossa ei oikeasti lukenut kauheasti mitään
+Puhuja 1: niistä oikeista syistä.
+Puhuja 1: Että just viitattiin
+Puhuja 1: tuossa
+Puhuja 1: sidosryhmäyhteistyöhön
+Puhuja 1: ja
+Puhuja 1: johtoryhmän
+Puhuja 1: työskentelyyn.
+Puhuja 1: Mutta sehän ei
+Puhuja 1: ei tarkoita käytännössä mitään tai siitä ei voi päätellä.
+Puhuja 1: Mihin se liittyy...
+Puhuja 1: No käytännössähän tässä varmaan on kyse siitä, että
+Puhuja 1: hyvinvointialueilla on vaikea taloustilanne
+Puhuja 1: ja alijäämät on kasvanut.
+Puhuja 1: Nämä on hyvin
+Puhuja 1: tuulisen oloisia paikkoja tällä hetkellä.
+Puhuja 1: Tänä vuonna jo kolme
+Puhuja 1: sote-pomoa on
+Puhuja 1: juuri luottamuspulan
+Puhuja 1: takia päätynyt irtisanoutumaan
+Puhuja 1: tämän
+Puhuja 1: Kainuun lisäksi tuolla
+Puhuja 1: Keski-Pohjanmaan
+Puhuja 1: ja Keski-Uusimaan
+Puhuja 1: hyvinvointialueella
+Puhuja 1: on nähty samanlaiset
+Puhuja 1: johtajien erot.
+Puhuja 1: Mutta se tekee tästä mun mielestä vähän
+Puhuja 1: omituista. Just että tässä on niin
+Puhuja 1: kiinteä poliittinen
+Puhuja 1: elementti siinä, että
+Puhuja 1: nämä
+Puhuja 1: hyvinvointialuejohtajathan
+Puhuja 1: on
+Puhuja 1: poliittisesti
+Puhuja 2: Tää on tietysti
+Puhuja 2: medialle
+Puhuja 2: mun
+Puhuja 2: mielestä aika
+Puhuja 2: tärkeä, mutta myös aika tällainen rutiinihommaan katsoa nämä vaalirahat läpi. Joo, ne katsotaan joka vuosi. Kyllä se on tärkeä tehtävä. Ja nythän on pistänyt silmään ymmärrettävästi, että mitä ihmettä, että aikamoinen
+Puhuja 2: potti.
+Puhuja 2: Mutta sitten
+Puhuja 2: tämä, mikä tähän
+Puhuja 2: keskeisiisimmin
+Puhuja 2: liittyy, tai ainakin aiemmin on liittynyt, on tämä kehä neljä.
+Puhuja 2: Kehän irikuva, kuten kakkonenkin.
+Puhuja 2: Mutta siinä
+Puhuja 2: Vantaan Helsingin lentoaseman
+Puhuja 2: pohjoispuolelle
+Puhuja 2: rakennettavat
+Puhuja 2: lyhyt pätkä eihän sitä Brysselistä edistätä. Jep. Korkeintaan sille jotain niin kuin sitten
+Puhuja 2: EU-hankerahaa
+Puhuja 2: voi hakea, mutta se ei mun mielestä ehkä yhdistä kyllä... No, en tuonne EU-rahoituksen
+Puhuja 2: yksityiskohtiin.
+Puhuja 2: Eihän halua sitä spekuloida, mutta
+Puhuja 2: mun mielestä
+Puhuja 2: ei tää nyt mikään
+Puhuja 2: maailman lopulta vaikuta. Jos hänellä on rahaa ja hän haluaa sen, että Pekka pääsee ja muut kokoomuslaiset pääsee
+Puhuja 2: paikoilleen,
+Puhuja 2: mihin he pyrkivät, niin ei kai siinä sitten. Joo, Pekka Toverihan tosiaan meni läpi näissä
+Puhuja 3: eurovaaleissa, ei ole ehkä tullut mainittua,
+Puhuja 3: että tavallaan hukkaan ei enää rahat sinällään mennyt.
+Puhuja 3: Hanke,
+Puhuja 3: jota siis
+Puhuja 3: elinkeinoelämä ja logistiikkayritykset
+Puhuja 3: on ollut ajamassa aikaisemmin. Ja siis niin kuin sä sanoit, niin tämä liittyy jotenkin tällaiseen
+Puhuja 3: pääkaupunkiseudun
+Puhuja 3: poikittaisliikenteeseen.
+Puhuja 3: Ja tämä tieyhteys kulkisi sieltä Helsinki-Vantaan lentokentän
+Puhuja 3: pohjoispuolella
+Puhuja 3: kolmisen kilometriä Tuusulassa ja vajaat kymmenen kilometriä Vantaalla.
+Puhuja 3: Tavallaan tämän
+Puhuja 3: soraa shöblomin
+Puhuja 3: ajatus siitä, että hän on Tuusulassa
+Puhuja 3: vaikuttavaa henkilöä, niin ajatus siitä, miksi yhteyksiä
+Puhuja 3: kannattaisi parantaa Tuusulasta
+Puhuja 3: tänne päin, niin on täysin sinällään
+Puhuja 3: Ymmärrettävä toive.
+Puhuja 3: Mutta miten
+Puhuja 3: tämä kytkeytyy Pekka Toveriin, niin se on jotenkin vielä vähän niin kuin kysymysmerkkinä. Pekka Toveri ei niin kuin hesarille suostunut
+Puhuja 3: minkälaisia keskusteluja siellä on käyty, koska siis tästä
+Puhuja 3: niin kuin se heidän
+Puhuja 3: jotenkin yhteistyönsä on siis vaikuttanut aika löyhältä tälleen ulkopuolelta katsottuna, kun ei mitään heidän keskusteluistaan tiedä.
+Puhuja 1: Niin, ilt sullehan on sanonut aikaisemmin, että he on joitakin kertoja tavannut. Ja puhunut Kenneelosista.
+Puhuja 1: Keskustelet tästä Kehä neljä hankkeesta.
+Puhuja 1: Nämä Sjöblomin perhe on siis tukenut toveria myös eduskuntavaaleissa,
+Puhuja 1: jolloin se oli yhteensä kymmenen
+Puhuja 1: neljäsataayhdeksänkymmentä
+Puhuja 1: euroa se summa.
+Puhuja 1: Kyllä sitä tukea on aikaisemminkin
+Puhuja 1: annettu. Mutta olen käsittänyt näistä toverin kommenteista, että hän on
+Puhuja 1: itse muutenkin
+Puhuja 1: kannattaa tätä Kehä4-hanketta.
+Puhuja 1: Hän on siis Tuusulassa,
+Puhuja 1: tai Tuusulassa asuu myös. Se on ilmeisesti sen alueen
+Puhuja 1: etu.
+Puhuja 1: Tätä projektiahan on puuhattu tosi pitkään. Se oli joskus
+Puhuja 1: ysärillä,
+Puhuja 1: joskus -yhdeksänkymmentäviisi. Onkohan se, kun se on tehty ensimmäinen
+Puhuja 1: ympäristövaikutusten
+Puhuja 1: arviointi
+Puhuja 1: tästä tiestä,
+Puhuja 1: mutta se
+Puhuja 1: ei ole edennyt. Sitä on esimerkiksi
+Puhuja 1: Pohjois-Vantaalla
+Puhuja 1: asukkaat
+Puhuja 1: vastustaneet aika voimakkaasti. Sen on pelätty
+Puhuja 1: tuhoavan luontoarvoja.
+Puhuja 1: Tähän liittyy myös tällainen, mistä mä en ole ihan sata prosenttia
+Puhuja 1: perillä, mutta joku tällainen
+Puhuja 1: projekti. Tällainen
+Puhuja 1: riippilan metsän louhoshanke,
+Puhuja 1: joka on muutama vuosi sitten
+Puhuja 1: kuopattu
+Puhuja 1: hallinto-oikeudessa,
+Puhuja 1: niin
+Puhuja 1: osa pelkää, että tämän
+Puhuja 1: uuden tiehankkeen
+Puhuja 1: varjolla
+Puhuja 1: yritetään
+Puhuja 1: elvyttää myös tämä hanke.
+Puhuja 1: Mutta
+Puhuja 1: tosiaan
+Puhuja 1: kaksituhatta kaksikymmentä on viimeksi
+Puhuja 1: tehty
+Puhuja 1: tällainen aluevaraussuunnitelma
+Puhuja 1: tätä tietä varten.
+Puhuja 1: Tällä hetkellä
+Puhuja 1: se on tuolla...
+Puhuja 1: Käydään
+Puhuja 1: tällaisia
+Puhuja 1: MAL-neuvotteluja,
+Puhuja 1: joissa
+Puhuja 1: kunnat ja valtio
+Puhuja 1: neuvottelee
+Puhuja 1: rahoituksesta
+Puhuja 1: erilaisille projekteille, esimerkiksi tiehankkeille.
+Puhuja 1: Yksinkertaistaen siinä on kyse siitä, että valtio lupaa rahoitusta joihinkin hankkeisiin ja siitä vastineeksi
+Puhuja 1: kunnat sitoutuvat
+Puhuja 1: kaavoittamaan ja rakentamaan tietyn verran vaikka
+Puhuja 1: asuntoja.
+Puhuja 1: Näitä MAL-sopimuksia
+Puhuja 1: tehdään tällaisten
+Puhuja 1: isojen kaupunkiseutujen.
+Puhuja 1: Esimerkiksi Helsingin seudun,
+Puhuja 1: Tampere, Turku, Kuopio, Oulu tällaisten alueiden kanssa.
+Puhuja 1: Mutta nämä neuvottelut
+Puhuja 1: on kestänyt aika pitkään, niin mä olen käsittänyt, että ne on vähän solmussa.
+Puhuja 1: Ne on siis alkanut jo viime syksyllä tämä
+Puhuja 1: neuvottelukierros. Sen olisi tarkoitus nyt syksyllä
+Puhuja 1: valmistua.
+Puhuja 1: Mutta
+Puhuja 1: kuten olemme muistakin uutisista ehkä saattaneet huomata, niin valtiolla on aika tiukka taloustilanne.
+Puhuja 1: Joten mä itse olisin aika yllättynyt, jos sieltä
+Puhuja 1: nyt
+Puhuja 1: syyskuussa alkaisi nytkähtämään liikkeelle tämä kehä
+Puhuja 1: nelonen.
+Puhuja 1: Niin,
+Puhuja 1: mutta
+Puhuja 1: en
+Puhuja 1: ehkä osaa olla
+Puhuja 1: hirveän huolissaan tästä ilmiöstä.
+Puhuja 1: Musta on kertoa suomalaisesta
+Puhuja 2: poliittisesta kulttuurista, että meillä on tällainen vaalirahakohu.
+Puhuja 2: Ei
+Puhuja 1: mulle tullut hyvin rahoja. Hyvin ollaan budjettitaloudessa.
+Puhuja 1: Se
+Puhuja 1: oli
+Puhuja 1: mahtavaa.
+Puhuja 1: Mutta
+Puhuja 1: tässähän on hyvä muistaa se, että tämä
+Puhuja 1: Kehä-hankehan
+Puhuja 1: on sellainen, mistä Pekka Toveri on itse halunnut puhua julkisuuteen
+Puhuja 1: ja kertonut sen toimittajille, että eihän me tiedetä mitä keskusteluja he ovat saattaneet käydä, vaikka sitten joihinkin
+Puhuja 1: EU-asioihin liittyen.
+Puhuja 1: Tämä on nyt vaan se, mikä on tullut
+Puhuja 1: julkisuuteen ja on lähdetty sitten selvittämään tätä, että
+Puhuja 1: mistä tässä on
+Puhuja 3: kyse
+Puhuja 3: Niin kyllä,
+Puhuja 3: No mutta kunhan
+Puhuja 3: Hesari tänään vähän myöhemmin tööttää, että nyt
+Puhuja 3: äänessä on Pekka Toveri ja hän kertoo, mitä hän tästä kaikesta ajattelee, niin saamme varmaan jonkinnäköisen lopputuloksen.
+Puhuja 2: Jos saamme.
+Puhuja 3: Jos saamme. Ehkä hänkin kertoo, että ei ole kommentoitavaa piste piste piste.
+Puhuja 3: Joo.
+Puhuja 3: No, kun hirpitte
+Puhuja 3: torstain
+Puhuja 3: alkoholittomia
+Puhuja 3: oluita ja venäläilette, että Hesari
+Puhuja 3: laittaa ilmoitusta siitä, että Pekka Toveri on nyt päässyt kertomaan oman
+Puhuja 3: puolensa tästä Kehätie
+Puhuja 3: nelosesta.
+Puhuja 3: Mitäpä
+Puhuja 3: kertoilette siinä ympärillä istuville ihmisille?
+Puhuja 3: Mä
+Puhuja 3: Se on kyllä. Rasmuksen
+Puhuja 2: kesäloma on
+Puhuja 2: Painheireräs
+Puhuja 2: niminen terassi Takatöölössä. Minäkin olen viettänyt paljon aika lapsuudessani. En ollut ikinä käynyt tässä kyseisessä
+Puhuja 2: baarissa. Pysytään siis hieno baari. Mutta
+Puhuja 2: mukava sellainen
+Puhuja 2: kattoterassi ollakseen parkkipaikan vieressä.
+Puhuja 2: Suosittelen
+Puhuja 2: tällaista urbaanina
+Puhuja 2: jännänä vierailukohteena
+Puhuja 2: kesäisin kesäisin, tämä ei oikein toimi.
+Puhuja 2: Voi suositella myös kahvilaa tuolta entinen
+Puhuja 2: ravintola Kaisaniemi, nykyinen Kaisan Helmi
+Puhuja 2: on muuten sustettu aivan
+Puhuja 2: menneen maailman fiilikseen.
+Puhuja 2: Kävin siellä isäni kanssa, joka kertoo siellä rypänneensä kasarilla ja kuulemma samalta näytti,
+Puhuja 2: että jos haluaa retroa, niin sinne voi mennä. Sehän on 1800-luvun puolesta välistä Helsingin vanhimpia
+Puhuja 2: kahvilaravintoloita.
+Puhuja 2: Voin myös mainita tässä kohtaa... En viime viikolla ollut poliisjeita ehkä
+Puhuja 2: oikaisuole, mutta puhuin näistä Coldplay
+Puhuja 2: kylttiihmisistä,
+Puhuja 2: niin Jere
+Puhuja 2: Satu kaksi viikkoa sitten
+Puhuja 2: ihmettelin, että onko Boliviaste asti tulleet Jerejä-satu
+Puhuja 2: callplayn tavalla, niin kävi ilmi, että todennäköisesti kyseessä oli joko minun erehdys tai Chris Marttinen erehdys. Tämä on ehkä todennäköisesti minun, mutta
+Puhuja 2: Jerejä-satu, jotka
+Puhuja 2: pääsivät callplayn lavalle, ovat Jyväskylästä.
+Puhuja 2: Heillä oli kyllä hieno kyltti myös siitä kuvan iso kiitos Jerelle ja satulle.
+Puhuja 2: Toivottavasti oli siistiä
+Puhuja 2: päästä lavalle, mutta he eivät ole Moliviasta, vaan ne ovat Jyväskylästä.
+Puhuja 1: Hyvä tietää.
+Puhuja 1: Minä voisin
+Puhuja 1: suunnattuani
+Puhuja 1: vaikka johonkin näistä ehdottamista
+Puhuja 1: kohteista suositella
+Puhuja 1: kirjaa.
+Puhuja 1: Nimittäin
+Puhuja 1: viime viikolla vietettiin
+Puhuja 1: Tove Janssonin ja suomalaisen
+Puhuja 1: taiteen
+Puhuja 1: päivää. Se osui just torstaille eli rapsapäivälle, mutta mä olin silloin vapaapäivän vietossa,
+Puhuja 1: joten
+Puhuja 1: nyt tulee vähän myöhässä tämä suositus.
+Puhuja 1: Haluaisin suositella Tove Janssonin romaania
+Puhuja 1: Aurinkokaupunki.
+Puhuja 1: Tämä
+Puhuja 1: kirja sijoittuu tällaiseen ikäihmisten
+Puhuja 1: vierastaloon Floridan
+Puhuja 1: Saint Peterbergin
+Puhuja 1: kaupungissa,
+Puhuja 1: joka on tällainen
+Puhuja 1: aurinkoinen, rauhallinen kaupunki, jossa on hyvin miellyttävä ilmasto.
+Puhuja 1: Valtaosa sen
+Puhuja 1: asukkaista on tällaisia
+Puhuja 1: ikääntyneitä ihmisiä, jotka on tullut sinne viettämään eläkepäiviään
+Puhuja 1: ja nauttimaan
+Puhuja 1: siitä
+Puhuja 1: vanhusyhteisöstä
+Puhuja 1: ja säästä.
+Puhuja 1: Tässä kirjassa seurataan tällaisen yhden tietyn
+Puhuja 1: vieraskodin
+Puhuja 1: asukkaita,
+Puhuja 1: joilla on
+Puhuja 1: on mun mielestä tosi
+Puhuja 1: mielenkiintoisesti rakennetut nämä hahmot.
+Puhuja 1: Kaikki on
+Puhuja 1: aika persoonallisia,
+Puhuja 1: ja heistä
+Puhuja 1: paljastuu uusia puolia
+Puhuja 1: kirjan aikana tässä näin kuin vanhukset.
+Puhuja 1: Sitten on tällainen
+Puhuja 1: nuoripari,
+Puhuja 1: Linda ja Joe, joista Linda on töissä
+Puhuja 1: siellä vierastalossa.
+Puhuja 1: Joe on hänen
+Puhuja 1: poikaystävänsä, joka on töissä tällaisessa
+Puhuja 1: turistikohde
+Puhuja 1: museolaivassa,
+Puhuja 1: jota nämä käyvät nämä vanhukset aina välillä katsomassa.
+Puhuja 1: Ja
+Puhuja 1: muutkin. Joe odottaa
+Puhuja 1: kärsimättömästi
+Puhuja 1: kirjettä tällaisilta
+Puhuja 1: Mayamissa
+Puhuja 1: tapaamilmilmilmilmiltaan
+Puhuja 1: kristityiltä,
+Puhuja 1: jotka odottavat
+Puhuja 1: Jeesuksen paluuta.
+Puhuja 1: Joe koko kirjan ajan
+Puhuja 1: ajan odottaa sitä, että milloin hän saa sen kirjeen. Voi lähteä sinne laajemmin odottamaan, että Jeesus tulee takaisin.
+Puhuja 1: Tämä kirja
+Puhuja 1: on juoneltaan aika vähäileinen. Tässä ei loppujen lopuksi tapahdu ihan hirveästi.
+Puhuja 1: Mutta se tunnelma ja hahmot on se, mikä tekee tosi mielenkiintoista.
+Puhuja 1: Mä tykkäsin kanssa siitä, että tämä on sellainen kirja, joka käsittelee
+Puhuja 1: vanhentumista.
+Puhuja 1: Musta tuntuu, että nykyisin aika vähän
+Puhuja 1: trendaa tai tehdään
+Puhuja 1: sellaisia kirjoja, joita oli mulle kiinnostava
+Puhuja 1: lukukokemus.
+Puhuja 1: Tove
+Puhuja 1: Janssonin Aurinkokaupunki.
+Puhuja 3: No niin.
+Puhuja 3: Minä voisin omassa suosituksessani mennä vähän AKH-jalanjäljessä,
+Puhuja 3: ja on siis sellainen tilanne, että mä oon tässä nyt muutaman viikon opetellut elämään siis Apple Watchin kanssa, mikä on ollut mahtavaa.
+Puhuja 3: Onko sulla kauheasti askelia? Kyllä siinä mittaisen askelia ennenkin, mutta tämä tekee sen todella paljon tehokkaammin.
+Puhuja 3: Se on ollut todella laadullista siihen, että arkiliikuntatavoitteet
+Puhuja 3: tulee täyteen aivan uskomattoman
+Puhuja 3: helposti, kun on tällainen asia, joka mittaa kaikki sun liikkeen. Mutta nyt ollaan siis päästy sellaiseen tilanteeseen, että tuntuu, että on silleen vähän saanut kiinni, miten nämä perusjutut
+Puhuja 3: toimii. Niin sitten mä tarvitsisin suosituksia, että mitä tähän kannattaa ladata.
+Puhuja 3: Sovelluksia on ihan valtava määrä ja mä en ollut siis
+Puhuja 3: aktiivisesti tilannut itse mitään muita kuin mitkä tulee nyt suoraan puhelimistaan. Siellä on BookBeat, Spotifyitä ja muita tällaisia
+Puhuja 3: niin kuin keskeisiä. Mutta sitten tällaisia
+Puhuja 3: muita hienoja asioita, millä voin
+Puhuja 3: optimoida unen ja veden juonteni ja kaiken muun mahdollista.
+Puhuja 3: Näiden suosituksia saa
+Puhuja 3: lähettää tuota minun suuntaan. Ilahtuisin
+Puhuja 3: niistä kovasti.
+Puhuja 3: Mutta ihan omana suosituksena
+Puhuja 3: teille päin, niin vinkkaan tällaisesta.
+Puhuja 3: Mä totesin, että mä olen suositellut vasta yhtä podcastia, mikä on
+Puhuja 3: hyvin vähän siihen nähden, miten paljon mä itse niitä kuuntelen.
+Puhuja 3: Ja edellinen oli kuitenkin tällainen väkivaltarikosta
+Puhuja 3: kertova.
+Puhuja 3: Niin nyt mennään ihan toiseen suuntaan.
+Puhuja 3: Sellainen podcast kuin Skamanda,
+Puhuja 3: niin kuin Amandan nimi, mutta niin kuin
+Puhuja 3: Scam, niin kuin yhdessä. Niin,
+Puhuja 3: joo.
+Puhuja 3: Niin,
+Puhuja 3: joo.
+Puhuja 3: Niin, joo. Niin tämä on erinomainen
+Puhuja 3: Lijen Sate
+Puhuja 3: produktionsin varmaankin
+Puhuja 3: podcast. Siitä on kyllä vähän aikaa, kun se on tehty. Milloinka tämä oli julkaistu? No ei ole niin kauan, kaksituhatta kaksikymmentäkolme,
+Puhuja 3: kun on lähdetty julkaisemaan. Siis mun menee joka kerta pieleen
+Puhuja 3: näet,
+Puhuja 3: viisi vuotta sitten se on ollut viime vuonna. No mutta anyway, tämä on siis aivan erinomainen
+Puhuja 3: ja täysin väkivaltaarikoksista
+Puhuja 3: erillinen podcast tällaisesta
+Puhuja 3: hyvin uskomattomasta
+Puhuja 3: vuosikymmeniä kestäneestä huijaustarinasta,
+Puhuja 3: jossa on ihan siis aivan uskomattomat
+Puhuja 3: kierteet
+Puhuja 3: aivan joka
+Puhuja 3: jaksossa. Sitä kuuntelisi aivan niin kuin suu auki jaksosta toiseen.
+Puhuja 3: Jaksoja on niin kuin tuollainen kahdeksan kappaletta ja ne kaikki kestää sellaisen
+Puhuja 3: tunnin verran, niin tämän saa kyllä
+Puhuja 3: viikossa esimerkiksi kulutettua, jos haluaa
+Puhuja 3: podcast-jakson
+Puhuja 3: päivään.
+Puhuja 3: Yhtenä päivänä kuuntelee kaksi disaa mukavasti koko tarinan haltuun.
+Puhuja 1: Ihanaa, että sä mainitsit erikseen, että tässä ei ole väkivaltarikoksia.
+Puhuja 3: Kyllä!
+Puhuja 3: Pidetään mun true Grann
+Puhuja 3: suosituksen tietyissä
+Puhuja 3: lokeroissansa kuitenkin.
+Puhuja 2: Mä voin vielä kaikille, jotka eivät ole Helsingissä, suositella. Tuli mieleen. Sanoinko
+Puhuja 3: viiseri suosiusta?
+Puhuja 2: Lennosta
+Puhuja 2: herrasmieshakkerit
+Puhuja 2: niminen podcast kaikille
+Puhuja 2: muille nörteille.
+Puhuja 2: F-sukonen Mikko Hyppönen on tämä tunninmpi kaveri tässä ja hänen kaverinsa
+Puhuja 2: Tomi Tuominen vetää
+Puhuja 2: teknologia-podcasta, jossa puhutaan
+Puhuja 2: hakkeroinnista ja kaikesta muusta
+Puhuja 2: teknologiaan
+Puhuja 2: liittyvästä. Vähämättömästä
+Puhuja 2: kybertuhosta
+Puhuja 2: he siinä puhuvat. Se
+Puhuja 2: on siinä rajamailla,
+Puhuja 2: että miten kova teknologinen osaaminen
+Puhuja 2: pitää olla sitten kunnallakseen. Suosittelen
+Puhuja 2: kaikkia ainakin kokeilemaan ja myös vanhat jaksot eivät vanhene hirveän nopeasti. Herrasmieshakkerit
+Puhuja 3: podcast. Mulla on siis joku ulkopuolinen taho suositellut tätä samaa podcastia tämän kesän aikana kerran aikaisemminkin.
+Puhuja 3: Tarpeeksi monta kertaa kuulee, niin kyllähän sitä pitää kokeilla.
+Puhuja 3: No, mutta näiden kymmenen eri suosituksen
+Puhuja 3: kanssa alkaa olemaan kaikki tältä erää.
+Puhuja 3: Kiitos Rasmus. Kiitos
+Puhuja 1: Oskari. Kiitos.
+Puhuja 3: Minun nimeni on tosiaan Heini Pitkänen ja äänen ja kuvan ja kaiken mun mahtavan meille tekee tällä viikolla melko varmasti Janne Elkki!
+Puhuja 3: Muistakaa lähettää meille palautetta
+Puhuja 3: somessat uutisraportti tai vaikka Hincof-säpöihin
+Puhuja 3: Ja kuullaan taas ensi viikolla!
+Puhuja 3: Helsingin
+Puhuja 3: Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi kertoo
+Puhuja 0: tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

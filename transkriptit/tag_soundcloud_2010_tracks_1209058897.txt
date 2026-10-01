@@ -1,0 +1,462 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 2: podcastiin
+Puhuja 2: torstaina miljoona kolmekymmentä
+Puhuja 2: vuonna kaksituhatta
+Puhuja 2: kaksikymmentäkaksi.
+Puhuja 2: Minun nimeni on Alma Onali ja kanssani täällä Sanomatalon
+Puhuja 2: seiska-kerroksen
+Puhuja 2: podcast-studiossa
+Puhuja 2: ovat
+Puhuja 2: politiikan toimittaja Marko Junkkari. Moikka Marko. Moi.
+Puhuja 2: Ja suuresti ihailemani sunnuntaitoimituksen
+Puhuja 2: toimittaja
+Puhuja 2: Tommi Nieminen. Moikka Tommi.
+Puhuja 3: Kiitos paljon. Heti tässä pistin sinulle jauhot suuhun tähän podcastin alkuun. Joo, tuo oli tosi jauhotus kyllä niin
+Puhuja 3: kuin nykyään sanotaan.
+Puhuja 2: Kyllä vaan.
+Puhuja 2: Olen ollut viikon lomalla
+Puhuja 2: ja sinä aikana tuntuu, että on tapahtunut
+Puhuja 2: ihan sikana kaikkea. Mulla on jotenkin sellainen fiilis, että edellinen
+Puhuja 2: kulunut viikko on ollut suurten
+Puhuja 2: uutisten ja
+Puhuja 2: tällaisten
+Puhuja 2: uutisteisten
+Puhuja 2: jatkumoiden
+Puhuja 2: aikaan. Venäjä-Gimi on lähtenyt aivan uusille raiteille. Koronarajoituksista
+Puhuja 2: ja koronapassista käyty keskustelu, heittänyt aivan häränpölllyn
+Puhuja 2: eduskunta on palannut lomalta. Sitten on vielä käyty kansainvälisestä
+Puhuja 2: monitahosta keskustelua alustataloudesta
+Puhuja 2: ja teknologian jätteen vastuusta ja sananvapaudesta.
+Puhuja 2: Aiheena meillä siis ovat Venäjä ja Valko-Venäjä,
+Puhuja 2: koronarajoitukset
+Puhuja 2: ja eduskunnan paluu lomalta ja sitten Spotify. Lopuksi vielä puheenaiheita pitkien
+Puhuja 2: kiusallisten, hiljaisuuksien varalle.
+Puhuja 4: Mitä sä Alma teit lomalla?
+Puhuja 2: Mä olin teneriffalla.
+Puhuja 2: Mä olin
+Puhuja 2: siellä Palmun alla
+Puhuja 2: fiilistelemässä
+Puhuja 2: toisenlaisia maisemia.
+Puhuja 3: Siistiä!
+Puhuja 2: Se oli aivan todella siistiä! Totta kai
+Puhuja 2: pyydän ikuisesti anteeksi tätä ilmastorikosta, mutta vitsi, mulla on sellainen olo tietsä, että hei,
+Puhuja 2: minähän olenkin ihan kiva ja hauska ihminen ja pitäis varmaan useamminkin
+Puhuja 2: käydä lomalla!
+Puhuja 2: Siis aivan
+Puhuja 2: mahtavaa! Mutta on ilo olla täällä takaisin,
+Puhuja 2: koska
+Puhuja 2: Venäjä, Venäjä ja Venäjä!
+Puhuja 2: Venäjällä on siis joku sata tuhatta ukkoa Ukrainan rajalla ja länsimaissa ollaan nyt todella huolissaan
+Puhuja 2: että kohta siellä soditaan. Ukrainassa ei siis niinkään ilmeisesti uskota tähän sodan mahdollisuuteen,
+Puhuja 2: mutta tästä syystä Venäjän ja länsimaiden välillä on kuitenkin välit kiristynyt jo monta viikkoa.
+Puhuja 2: Tällä viikolla
+Puhuja 2: Venäjän ulkoministeri
+Puhuja 2: Sergei Lovrov
+Puhuja 2: lähetti kirjeitä Euroopan turvallisuus ja yhteistyöjärjestö
+Puhuja 2: ETYJ:n
+Puhuja 2: tietyille jäsenmaille, lähinnä EU-maille ja Nato-maille ja Serbialle.
+Puhuja 2: Se oli siis kaivannut jostain ammoisesta
+Puhuja 2: Istanbulin
+Puhuja 2: sopimuksesta, Öljy pykälän,
+Puhuja 2: jossa mainitaan, että valtio ei saa vahvistaa turvallisuuttaan
+Puhuja 2: toisten valtioiden turvallisuuden kustannuksella.
+Puhuja 2: Ja nyt lavroe tässä kirjeessään Venäjä, että jokaisen valtion
+Puhuja 2: pitää erikseen
+Puhuja 2: vastata, että kuinka he nyt tämän pykälän ymmärtävät.
+Puhuja 2: Haluaisin ensin kysyä, että mitä itse vastaisitte jonkun alemmuuskompleksista
+Puhuja 2: kärsivän manipuloivan narsistin
+Puhuja 2: kirjeeseen, joka on kiusannut teitä ensin vuosikausia.
+Puhuja 2: Anteeksi,
+Puhuja 2: tällaisen valtion kirjeeseen.
+Puhuja 4: Eikö Venäjä ole itsekin etujien jäsen? Eikö senkin pitäisi vastata tuohon
+Puhuja 4: kysymykseen?
+Puhuja 3: Kieltämättä joo. Sehän on ihan taitava
+Puhuja 3: se venätys tai ajattelen, että se saattaa olla
+Puhuja 3: taitava. Koska
+Puhuja 3: ehkä näkisin, että kun Venäjä vaatii
+Puhuja 3: kaikilta mailta
+Puhuja 3: erillistä vastausta ja siinä on nimenomaan se ukaasi, että ette vastaa yhdessä sen tyhmät lännen
+Puhuja 3: maat vaan vastaatte kaikki erikseen.
+Puhuja 3: Ja jos vähänkään olen ymmärtänyt mistä siinä on kyse niin
+Puhuja 3: Venäjä tietää, mitä kaikki
+Puhuja 3: sanotaan tällaiset vakaat
+Puhuja 3: demokratiat lännestä vastaan.
+Puhuja 3: Mutta oletan, että ne vähän hakee sitä,
+Puhuja 3: että
+Puhuja 3: voisiko Unkari vähän sooloilla ja lähteä pikkasen
+Puhuja 3: Venäjän ymmärtäjien
+Puhuja 3: puolelle. Voisiko Puola tehdä vähän jotain
+Puhuja 3: samantyyppistä? Entä muut etujin? Musta vähän mokasta kampanja.
+Puhuja 3: Hyvä
+Puhuja 2: analyysi.
+Puhuja 2: Siirrytään tästä nyt, kun olemme kaikki jälleen tässä kotimaan poliittisella kartalla, täysin kärryillä, valtiopäivä tavattu,
+Puhuja 2: niin siirrytään vielä viimeiseen teemaan.
+Puhuja 4: Eiköhän nyt olisi aika haukkua. Nyt on haukuttu siis politiikan toimittajat, sunnuntaatoimintaa, nyt haukutaan taloustoimittajat.
+Puhuja 2: Okei, mä oon valmis, mä oon ollut lomalla, mä oon valmis ottamaan kaikki iskut vastaan.
+Puhuja 2: Puhutaan vähän tästä
+Puhuja 2: kansainvälisestä casesta, nimittäin
+Puhuja 2: Joe Rogön Ws Neil Young Spotifyssa.
+Puhuja 2: Tämä
+Puhuja 2: on purettu jo paljon tätä aihetta ja mä mietin tässä, että mitä uutta me voitaisiin vielä tästä sanoa. Mutta kyllä se on tosiaan siitä,
+Puhuja 2: että tämähän sai alkunsa jo jonkun aika sitten, koska Joe Rougen, joka siis on sama äijä, jonka naamaa mä olen katsellut teini-ikäisenä
+Puhuja 2: sunnuntaisin darrassa, tietekko kun telkkarista ei ole tullut muuta kuin Fear factory eli pelkokerroin eli tarrantellan syömiskilpailu,
+Puhuja 2: jota Joe Roegen juonsi.
+Puhuja 2: Ai se on se? Se on se! Se on se jäbä!
+Puhuja 2: Joe Rougen, joka on Tarantellan syömiskilpailun
+Puhuja 2: juontaja ja UEFC-otteluiden
+Puhuja 2: juontaja on myös maailman suosituin podcastaaja
+Puhuja 2: tänä päivänä.
+Puhuja 2: Hän on siis tehnyt aivan tällaisen
+Puhuja 2: jonkun sadan Miltsin dollarin Dealin
+Puhuja 2: kanssa, että hän tekee tätä maailman suosituimpia podcastiaan sinne Spotifile.
+Puhuja 2: Ja
+Puhuja 2: Joe Roganin suosio
+Puhuja 2: varmastikin selittyy sillä, että
+Puhuja 2: hän ei tuomitse vieraitaan, vaan hän ottaa sinne kaiken maailman karvaisia tyyppejä
+Puhuja 2: puhumaan asioista X jonkun neljän tunnin ajan. Vähän niin kuin Tuomas Peltonenkin.
+Puhuja 2: Oliko se viime vuoden lopulla,
+Puhuja 2: vai milloinkas se oli, niin hänellä oli vieraana
+Puhuja 2: tällainen Robert Mahle niminen
+Puhuja 2: tutkija.
+Puhuja 2: Ja Robert Malone on
+Puhuja 2: hyvin voimakkaasti puhunut näitä koronavirusrokotteita
+Puhuja 2: vastaan.
+Puhuja 2: Sen jakson jälkeen, kuuntelin sitä
+Puhuja 2: jaksoa. Sehän kuulostaa Robert Malow, se osaa puhua tosi hyvin, se puhuu hyvin tieteellisin termein todella selkeästi, todella miellyttävästi.
+Puhuja 2: Aivan erinomainen
+Puhuja 2: puhuja. Mutta sitten kun kuuntelee eteenpäin sitä jaksoa, niin tavallaan
+Puhuja 2: pikkuhiljaa alkaa aina vähän käymään jotenkin sakeammaksi ja sakeammaksi se meininki. Mutta on hyvin helppo nähdä myös, kuinka se hänen vakuuttava tyylinsä herättää
+Puhuja 2: ihan minussa
+Puhuja 2: Helsingin Sanomien taloustoimittajassakin
+Puhuja 2: kysymyksiä, että
+Puhuja 2: mutta onko näin? Entä jos onkin näin? Sen jälkeen menee googlettamaan, että mikäs tämä Robert Malm Lown on ja huomaa,
+Puhuja 2: että muussa tiedeyhteisössä
+Puhuja 2: sadat tutkijat sanoo, että herranjumala,
+Puhuja 2: ei tällaista pitäisi päästää eetteriin.
+Puhuja 2: Ensin
+Puhuja 2: he nämä tieteentekijät
+Puhuja 2: vaativat Spotifyilta,
+Puhuja 2: että tämä on
+Puhuja 2: vaarallista tietoa, tämä pitäisi poistaa.
+Puhuja 2: No ei mitään reaktiota,
+Puhuja 2: mutta
+Puhuja 2: antakaa sitten, kun nuori Nipa, nimittäin Yungin Niili
+Puhuja 2: otti tämän
+Puhuja 2: asiakseen.
+Puhuja 2: Niil Young,
+Puhuja 2: yksi maailman
+Puhuja 2: kuuluisimmista suosituimmista rokkareista kun sanoi, että Spotifyn pitää valita,
+Puhuja 2: kumpaa he pitävät listoillaan, häntä vai Joe Rougania, niin
+Puhuja 2: Niilihangy joutui lähtemään Spotifysta.
+Puhuja 2: Tommi, onko sinulla joku
+Puhuja 2: erityissuhde
+Puhuja 2: nuoreen nipaan?
+Puhuja 3: Minulla on erittäin lämmin suhde nuoreen nipaan.
+Puhuja 3: Nilijangon on
+Puhuja 3: minun
+Puhuja 3: aivan
+Puhuja 3: tärkeimpiä mulle. Tärkeimpiä muusikoita mitä on.
+Puhuja 4: Joka sinä olet luopunut Spotify tilauksesta?
+Puhuja 3: En ole vielä luopunut Spotifysta vaan pakko myöntää.
+Puhuja 3: Mutta jos ette ole vielä kuunnelleet
+Puhuja 3: Niljangin
+Puhuja 3: levyä after the Gold Russ vuodelta tuhat
+Puhuja 3: yhdeksänsataaseitsemänkymmentä niin kuunnelkaa nyt hyvät ihmiset tänään se
+Puhuja 3: viimeistään mistä kanavalta sen nyt pystyykin sitten enää kuuntelemaan.
+Puhuja 3: Itse
+Puhuja 3: tähän
+Puhuja 3: caseen
+Puhuja 3: niin
+Puhuja 3: tämähän
+Puhuja 3: on
+Puhuja 3: siis...
+Puhuja 3: Minun on hirveän vaikea
+Puhuja 3: alkaa liputtaa ja liehuttaa
+Puhuja 3: lippuja
+Puhuja 3: suuntaan tai toiseen tämän tyyppistä koska tämä on niin
+Puhuja 3: monimutkainen,
+Puhuja 3: ylipolitisoitunut
+Puhuja 3: ja valtaviin markkinoihin kiteytynyt
+Puhuja 3: keissiossa
+Puhuja 3: ei ole varmaan kauhean
+Puhuja 3: helppoja vastauksia
+Puhuja 3: mutta sehän tietysti on se iso kysymys että kyse ei
+Puhuja 3: ole vaan siitä että Spotify
+Puhuja 3: käyttäisi Joe Roganin
+Puhuja 3: materiaalia
+Puhuja 3: vaan he ovat
+Puhuja 3: nimenomaan järjettömällä
+Puhuja 3: summalla rahaa ostaneet Joe Roganista itselleen lippulaivatuotteen.
+Puhuja 3: Ja tämähän on se iso kysymys ja tämä on se varmaan mikä Niiljangia
+Puhuja 3: ja muutamia
+Puhuja 3: muita muusikoita ottaa
+Puhuja 3: ihan järjettömästi aivoon.
+Puhuja 3: Tämä on silleen aika härski ehkä ollut...
+Puhuja 4: Mä voisin tähän väliin lausua
+Puhuja 4: tällaisen uutisraportin virallisen kannanoton. Siis
+Puhuja 4: Spotify maksoi sata miltsiä Rogadille siitä, että niillä on yksinoikeus niihin podcasteihin.
+Puhuja 2: Ja yksi mainos sen podcastissa maksaa varmaan myös sen miltsiä. Voisin muistuttaa, hyvät kuulijat, että
+Puhuja 4: uutisrapsahan on myös Spotifyssa.
+Puhuja 4: Niinpä. Ja julistetaan, kun voin sanoa, että me ei oteta sata miltsiä vastaan, koska me halutaan säilyttää meidän kaikki kanavat se Suplaa. Joo, juuri näin? Joo. Ei nyt saa takaisin. Joo.
+Puhuja 3: Tapausta. Ei
+Puhuja 2: edes miltsiä. Ihan turha yrittää painostaa meitä ulos tänne.
+Puhuja 3: Me ei lähdetä. Me halutaan pitää Suplaa. Mä
+Puhuja 2: oon Tommy samaa mieltä sun kanssa siitä, että mun mielestä tää on sellainen asia,
+Puhuja 2: kun tämä liikkuu moneen suuntaan. Tavallaan on toisaalta kysymys jostain
+Puhuja 2: tällaisesta sananvapaudesta,
+Puhuja 2: toisaalta on kyse tästä, että minkälainen
+Puhuja 2: on tämä meidän totuuden jälkeinen aika ja minkälaista informaatiota
+Puhuja 2: pääsee tavallaan eetteriin, ja mikä on ihmisten medialukutaito?
+Puhuja 2: Sitten on tämä talouskysymys, että mikä on tämä näiden alustayhtiöiden
+Puhuja 2: vastuu ja valta, kun he itseasiassa
+Puhuja 2: siellä käärivät toisaalta sitä rahaa, mutta myös jakavat sitä rahaa.
+Puhuja 2: Niil Young on saanut varmaan ihan
+Puhuja 2: pennosia
+Puhuja 2: verrattuna siihen,
+Puhuja 2: mitä Rogan
+Puhuja 2: Spotifysta saa.
+Puhuja 2: Tämä menee niin moneen suuntaan, että se pitäisi tavallaan palastella
+Puhuja 2: osiin, että mitä osaa tässä nyt halutaankaan katsoa.
+Puhuja 2: Ehkä se, että siellä
+Puhuja 2: on, että ne kärjet tuntuu.
+Puhuja 2: Näiden pointtitien kärjet
+Puhuja 2: ylipolitisoituvat.
+Puhuja 2: Tietyt ihmiset vaatii, että nyt täytyy
+Puhuja 2: Spotifita boikotoida kokonaan, tai Joe Rogerinin ohjelma poistaa.
+Puhuja 2: Käsittääkseni Neil Young ei kuitenkaan vaatinut tavallaan tällaista, että
+Puhuja 2: pitäkää sitten sen rogan, mutta minä vaan lähden menemään, kyllä te saatte sitä kuunnella.
+Puhuja 2: Vaikea se teema siitä,
+Puhuja 2: että nythän Spotify teki tällaisia myönnytyksiä, että he esimerkiksi laittavat sisältövaroituksia
+Puhuja 2: sellaisten podcastjaksojen
+Puhuja 2: oheen,
+Puhuja 2: joissa vaikka saatetaan kertoa jotain väärää tietoa koronaviruksesta. Ja toisaalta olen, että
+Puhuja 2: okei, mahtava, ihmisethän saa itse kuunnella ja tehdä
+Puhuja 2: omia päätöksiään.
+Puhuja 2: Mutta
+Puhuja 2: minun mielestäni sekin on vähän ongelmallista, että kuka siellä sitten päättää, että mikä on misinformaatio ja disinformaatio ja mikä ei. Onko se joku Spotifile joku
+Puhuja 2: tyyppi vaan, joka on silleen, että minun mielestä kuulosti vähän erikoisalta, että niin laitetaan tuohon tuommoinen, että tässä voi olla... Varmaan sama kuin Facebookillakin, niitä tulee jotain
+Puhuja 3: tämmöisiä faktantarkistajia
+Puhuja 4: sinne.
+Puhuja 4: Niin. Mutta jotenkin voin kuvitella mikä fiilis... Oliko se ruotsalainen
+Puhuja 4: perustaja, joka on toimitusjohtaja Spotifyssa. Mikä fiilis sillä on ollut? Me ollaan juuri tehty
+Puhuja 4: yhtiön historian suurin, sata miljoonan investointi ja strateginen
+Puhuja 4: linjaus, että me halutaan olla
+Puhuja 4: nimenomaan alusta.
+Puhuja 4: Podit on tää
+Puhuja 4: tulevaisuuden homma. Lähdetään ihan uuteen skabaan. Ja sit joku saatana vanha hippi rupeaa kiukuttelemaan. Me vetää biisiinsä pois sieltä. Joo. Joo. Ja sä olet, että vivittu.
+Puhuja 2: Eikö se vaan paha? Niin. Ja miettikää
+Puhuja 3: millainen diskutereraaminen
+Puhuja 3: tällä hetkellä Spotifyssa
+Puhuja 3: on.
+Puhuja 3: Ruotsalaiset yhtiöthän on tunnettuja siitä että kun
+Puhuja 3: hiirimattojen väri
+Puhuja 3: ollaan muuttamassa
+Puhuja 3: keltaisesta punaiseksi niin koko yhtiön väki,
+Puhuja 3: seitsemäntoista nolla työntekijää,
+Puhuja 3: kannetaan johonkin messukeskukseen
+Puhuja 3: diskuteraamaan
+Puhuja 3: että käykö kuinka monelle prosentille käy nyt punainen väri ja kuinka monelle keltainen ja
+Puhuja 3: sitten kun ollaan päästy konsensukseen niin sitten tehdään jonkinlainen ratkaisuun. No nyt on vielä tällainen soppa tässä niin täähän on ai vitsi et olisi ihanaa päästä sinne kuuntelemaan kuin Anders Ek vai mikä se oli? Oliko se Anders Ek? Daniel Ek
+Puhuja 3: ja hänen alaisensa diskuteeraavat.
+Puhuja 2: Siellä kahvia ja pullaa menee. Menee. Joo. En mä tiedä onko meillä tässä
+Puhuja 2: Kuuntelijan
+Puhuja 2: on vastuu. Ja toisaalta
+Puhuja 2: todella haluaisin uskoa ihmisten omaan vastuuseen, mutta samaan aikaan ei ihmisille pitäisi minkäänlaista
+Puhuja 2: vastuuta jotenkin suoda, että jotenkin pelkään ihmisten medialukutaidon puolesta. Tuolla
+Puhuja 2: nyt
+Puhuja 2: sitten on mahtavat
+Puhuja 2: hiihtokelit
+Puhuja 2: tällä hetkellä täällä Suomessa, täällä alkuviikosta riehuneen myrskyn
+Puhuja 2: ansiosta. Ja kun käytte tuolla vähän
+Puhuja 2: hiihtoladulla
+Puhuja 2: hiihtelemässä
+Puhuja 2: ja hiihtomajalla
+Puhuja 2: tauolla, niin otatte vähän
+Puhuja 2: minttu kaakaota
+Puhuja 2: ja vilkasette
+Puhuja 2: sitä vieressä värjättelevää
+Puhuja 2: toista punaposkista hiihtäjiä, niin
+Puhuja 2: Niin mistä te haluaisitte keskustella hänen kanssaan?
+Puhuja 4: Jos aloitan kun... Olen
+Puhuja 4: innostunut jostain syystä, hän ei siinä saa mitään loogista perustetta, niin minusta olen onnistunut Jenkkifutiksesta tai katsomaan
+Puhuja 4: NFT:llä.
+Puhuja 4: Meillä on se Via play Briksen
+Puhuja 4: takia, niin siellä on myös nämä NFT:llä matsit.
+Puhuja 4: Musta se on kiehtovaa laji.
+Puhuja 4: Yritän edelliken
+Puhuja 4: täysin ymmärtämään sääntöjä,
+Puhuja 4: ja kuka niistä tyypeistä on kukin. Mikä pelipaikka on kukin.
+Puhuja 4: Mutta pelejä on kauhean hauska katsoa, mutta sehän on ihan siemättömän tylsää, kun ne a:ssa
+Puhuja 4: kestää jenkkitv-osasto.
+Puhuja 4: Lähetyksessä siellä on niin pitkät ne mainoskatkot,
+Puhuja 4: ja peli on muutenkin niin katkonaista. Siellä tulee aina yksi peli kestää kuusi sekuntia ja sitten taas odotellaan ja sitten tulee seuraava peli.
+Puhuja 4: Mutta nyt
+Puhuja 4: minä sain tämmöisen yksinkertaisuudessaan
+Puhuja 4: nerokkaan idean. Onneksi olemme Euroopassa, Amerikka on kaukana ja tässä on aikaero. Nyt tuli sunnuntaina ja maanantaina
+Puhuja 4: NFT:llä välierät. Ne tulivat molemmat aika myöhään illalla. Rupesin toista katsomaan, mutta en jaksanut ja lähdin
+Puhuja 4: nukkumaan ja sitten katsoisin seuraavana päivänä. Sehän on aivan ideaali tilanne katsoa varsinkin pädista
+Puhuja 4: nauhalta ottelua.
+Puhuja 4: Sillä on
+Puhuja 4: viisitoista sekunnin refreshsausnappi.
+Puhuja 4: Aina kun yksi peli on ohi,
+Puhuja 4: painaa kerran sitä. Ja se on viisitoista renkaassa se niiden
+Puhuja 4: yritysten väli. Ja se lähtee ne katkot vettä ja se matsi pystyi seuraamaan vähän yli puolet tunnissa.
+Puhuja 4: Peli on paljon parempi se peli, kun katsoisi jälkikäteen ja refchaa ne tauot pois.
+Puhuja 2: Eli sä suosittelet niinku katsomaan vanhoja pelejä.
+Puhuja 2: Joo.
+Puhuja 2: Selvä.
+Puhuja 2: Mites
+Puhuja 2: Tommi,
+Puhuja 2: onko sulla mitään suosituksia pitkien ja kiusallisten hiihtohiljaisuuksien
+Puhuja 3: varalle? Joo siis kun
+Puhuja 3: Kun Marko oli vähän moukkamainen
+Puhuja 3: suositus amerikkalaisesta
+Puhuja 3: jalkapallosta niin suosittelen
+Puhuja 3: tietenkin
+Puhuja 3: kulttuuria.
+Puhuja 3: Suosittelisin että ensin kuuntelee sen, ensin menee kotiin
+Puhuja 3: ja kuuntelee
+Puhuja 3: sen Niilon Nuoren
+Puhuja 3: After the Goldras
+Puhuja 3: levyn joko elpeltä
+Puhuja 3: tai cd:ltä
+Puhuja 3: ja jättää ne nykyajan
+Puhuja 3: digitaaliset kotkotukset
+Puhuja 3: kokonaan pois unohtaa ne ihan täysin
+Puhuja 3: ja antaa ruotsalaisten
+Puhuja 3: tehdä bisneksiä ilman sinun rahallista tarjoavaa apua siihen.
+Puhuja 3: Ja sen jälkeen lukee...
+Puhuja 3: Siis ihan mieletön lukukokemus minulla on ollut kun olen viime aikoina saanut
+Puhuja 3: loppuun
+Puhuja 3: kirja jota ajattelin, etten tule ikinä saamaan loppu vaikka se ei ole edes paksu kirja, se on varmaan
+Puhuja 3: alle 300-sivuinen
+Puhuja 3: kirja mutta
+Puhuja 3: Roosa Liksomin Väylä, joka on aivan mahtava kirja. Se on siis
+Puhuja 3: tavallaan sietämätön
+Puhuja 3: kirja koska se on kirjoitettu
+Puhuja 3: 1940-luvun
+Puhuja 3: Tornionjokilaaksolaisella
+Puhuja 3: paksulla murteella ja siis Roosa Liksom on kirjoittanut sen ihan koko kirjan sellaisella
+Puhuja 3: niin paksulla vanhalla murteella että sitä nipin napin pystyy
+Puhuja 3: 2020-luvun
+Puhuja 3: helsinkiläinen
+Puhuja 3: lukemaan ja ajattelin kun olin lukenut kolme riviä sitä niin ajattelin että ehihi helvettiä, että lopetan tähän ja heitän
+Puhuja 3: mäkeen tämän kirjan mutta LEXOm on niin taitava
+Puhuja 3: kirjoittaja että olen lukenut sen kirjan. Se kertoo Lapin sodan ajasta siitä kun
+Puhuja 3: suomalaiset lähtee evakkoon
+Puhuja 3: jalkaisin
+Puhuja 3: Ruotsin puolelle Lapin sotaa pakoon
+Puhuja 3: ja siinä on tämmöinen nuori tyttö
+Puhuja 3: päähenkilönä
+Puhuja 3: joka ottaa perheen karjan mukaan ja lähtee
+Puhuja 3: kävelemään
+Puhuja 3: sitä evakko
+Puhuja 3: jonoa
+Puhuja 3: yhtenä
+Puhuja 3: siinä pitkänä evakkoletkana.
+Puhuja 3: Se on kyllä niin hieno kirja
+Puhuja 3: että ette toista löydä.
+Puhuja 3: Mutta ainut siinä on vaan se tappavan
+Puhuja 3: taistelu että pystyt sitä
+Puhuja 3: Tornionjokilaakson
+Puhuja 3: 40-luvun
+Puhuja 3: kieltä jotenkin
+Puhuja 3: ymmärtämään. Mutta se on ihana kirja.
+Puhuja 3: Hyvä suositus joo. Ja Roosa Liksomo on siis ihana kirjailija.
+Puhuja 2: Joo eiks hytti numero kuusi
+Puhuja 2: on hänen kirjansa?
+Puhuja 3: Kyllä, siinä on muuten toinen suosittu. Se on mun kolmas suosittu.
+Puhuja 2: Sitä mäkin voin suositella.
+Puhuja 2: Okei, mä en vaan tiedä voinko mä ryhtyä tähän väylään, koska mä luulin siis täällä lomalla ollessani luin siellä pari kirjaa.
+Puhuja 2: Ensin luin Olli Jalosen Taivaanpallo-kirjan,
+Puhuja 2: joka on siis Finlandia-voittaja
+Puhuja 2: parin vuoden takaa, ja minä siis kyllä
+Puhuja 2: lähes tuuperruin
+Puhuja 2: sen alle, koska siinäkin se kieli oli se sieltä välimerkkejä
+Puhuja 2: puuttuu ja lauserakenteet on vähän sellaisia, ja välillä ei kauheesti tapahdu mitään. Luen
+Puhuja 2: kirjaamaan,
+Puhuja 2: että missä hyöevetin vaiheessa tämä kirja alkaa. Ja sitten pääsin sinne loppuun ja olin,
+Puhuja 2: että olihan siinä sellainen matka. Olin aluksi vähän, että tämä oli miesten
+Puhuja 2: kirjallisuutta. Ja se on vielä Finlandiaankin saanut, että olisi pitänyt arvata, mutta
+Puhuja 2: jälkikäteen siinä tarinassa on jotakin sellaista,
+Puhuja 2: mikä on selvästi jonkun pienen
+Puhuja 2: juuren minuun istuttanut.
+Puhuja 2: Sen sijaan toinen
+Puhuja 2: kirjanka luin, joka sopii paljon paremmin tällaisen hätäisen milleniaalin
+Puhuja 2: keskittymiskyvyllä, niin
+Puhuja 2: tuo Hyppösen Mikon internet.
+Puhuja 2: Tämä on F-Securen,
+Puhuja 2: Jabä, yksi maailman tunnetuimpia
+Puhuja 2: tietoturva-asiantuntijoita.
+Puhuja 2: Hyppäänhän on siitä
+Puhuja 2: jotenkin mainio tyyppi. Sen lisäksi että hän on tällainen
+Puhuja 2: meganörtti,
+Puhuja 2: niin hänellä on todella loistava ihmisrajapinta.
+Puhuja 2: Hän todella
+Puhuja 2: osaa jotenkin
+Puhuja 2: luovia sosiaalisia. Hänellä on selvästi aivan
+Puhuja 2: massiiviset verkostot. Kun lukee kirjaa,
+Puhuja 2: niin ihmettelen hänen kykyään verkostoitua ja
+Puhuja 2: sitä hänen jaksamista on siinä myös. Siellä on osia vaikka jostain hänen päiväkirjastaan, että millaisia hänen päivänsä on ollut ja ketä kaikkia hän tapaa. Niin olen, että vitsi minäkin pidän itseäni hän ekstroverttinä, mutta varmaan oikeasti
+Puhuja 2: saattaisin olla jo vähän toisissa tunnelmissa jonkun sellaisen työpäivän jälkeen.
+Puhuja 2: Mutta se hänen kirjansa on mun mielestä aika viihdyttävää ja ne on kirjoitettu pieninä palasina,
+Puhuja 2: ne sen huomiona anekdoottimaisia
+Puhuja 2: kertomuksia
+Puhuja 2: jotenkin internetin,
+Puhuja 2: tietoturvan ja
+Puhuja 2: kyberhyökkäysten historiasta.
+Puhuja 2: Sitä suosittelen,
+Puhuja 2: jos ei pysty tällaisiin
+Puhuja 2: väylän kaltaisiin
+Puhuja 2: seikkailuihin,
+Puhuja 2: niin suosittelen tällaista leppoisampaa kyberseikkailua.
+Puhuja 4: Olipa yllättävä suosittu. Oli, oli, oli. Mutta hyvä!
+Puhuja 2: Hei, kiitos kaikille tältä erää! Kiitos paljon Marko Junkkari! Kiitos! Kiitos erittäin paljon Tommi Nieminen! Kiitos kiitos!
+Puhuja 2: Äänen ja kuvan ja kaiken mun ihanan meille tekee tänään Janne Elkki.
+Puhuja 2: Laittakaa meille palautetta
+Puhuja 2: uutisraportti
+Puhuja 2: tai vaikka Tuomakselle.
+Puhuja 2: Voi mullekin yrittää pistää ja katsella, jos jaksan niitä katsella.
+Puhuja 2: Kaikki palaute on aivan ihanaa! Ei muuta kuin oikein
+Puhuja 2: ihanaa
+Puhuja 2: viikonloppua
+Puhuja 2: kaikille ja
+Puhuja 3: kuulemisiin!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

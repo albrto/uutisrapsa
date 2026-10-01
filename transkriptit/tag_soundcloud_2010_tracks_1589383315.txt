@@ -1,0 +1,455 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Hei vaan ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin
+Puhuja 1: tänään torstaina
+Puhuja 1: kymmenen. Elokuuta kaksituhatta kaksikymmentäkahdeksan.
+Puhuja 1: Kesä lähestyy loppuani, mutta minun nimeni on yhä Joona Aaltonen.
+Puhuja 1: Kanssani täällä Sanomatalon
+Puhuja 1: seiskakerroksen
+Puhuja 1: podcast-studiossa
+Puhuja 1: ovat ulkomaantoimittaja
+Puhuja 2: Matilda Jokinen. Hei Matilda. Hei, ja ei lähesty kesäloppua,
+Puhuja 2: ei.
+Puhuja 1: Tässä saadaan heti ensimmäinen debatti aikaiseksi ennen kuin päästäisiin loppuun asti.
+Puhuja 1: Meillä täällä Matildan kanssa debotoimessa
+Puhuja 1: keskustelemassa
+Puhuja 1: HS-vision toimittaja Joaki Vesteren dollaria. Kesä loppuu nyt, sanon.
+Puhuja 1: No niin, tässä on nyt tullut jo risteävät mielipiteet
+Puhuja 1: vahvasti tähän kesään.
+Puhuja 1: Tässä ihan heti alkuun
+Puhuja 1: pieni oikaisuasia.
+Puhuja 1: Viime viikon podcastissa keskusteltiin
+Puhuja 1: Coranien polttamisesta
+Puhuja 1: Ruotsissa.
+Puhuja 1: Siinä hataraan muistiini
+Puhuja 1: turvautuen
+Puhuja 1: muistelin, että
+Puhuja 1: joko presidentti Sauli Niinistö tai ulkoministeri, silloinen ulkoministeri
+Puhuja 1: Pekka Haavisto olisi todennut,
+Puhuja 1: että Suomessa Koraanin polttaminen ei ole sallittua, koska tulen tekeminen julkisilla paikoilla ei ole sallittua.
+Puhuja 1: Tämän
+Puhuja 1: nerokkaan toteamuksen totesi tietenkin silloinen pääministeri
+Puhuja 1: Sanna Marin.
+Puhuja 1: Pahoittelut
+Puhuja 1: kaikille,
+Puhuja 1: jotka tästä nyt väärän tiedon viime viikolla saivat.
+Puhuja 1: Ei voi aina toimittajamuistinsa
+Puhuja 1: luottaa. Mutta käydäänpä
+Puhuja 1: pidemmittä puheitta tämän viikon aiheisiin.
+Puhuja 1: Meillä
+Puhuja 1: tällä viikolla
+Puhuja 1: keskustelun
+Puhuja 1: aiheina
+Puhuja 1: ovat
+Puhuja 1: hallituksen yhdenvertaisuustiedonanto,
+Puhuja 1: Amazonin
+Puhuja 1: suojelu
+Puhuja 1: ja
+Puhuja 1: Suomea alkuviikolla
+Puhuja 1: lähes piinannut
+Puhuja 1: myrsky, mutta joka ei piinaamisasteille
+Puhuja 1: ehkä koskaan täällä
+Puhuja 1: Suomessa päässyt, mutta naapurimaisen
+Puhuja 1: senkin edestä.
+Puhuja 1: Mutta lähdetään liikkeelle tästä
+Puhuja 1: hallituksen yhdenvertaisuustiedonannosta.
+Puhuja 1: Hallitushan on ilmoittanut
+Puhuja 1: antavansa
+Puhuja 1: tiedonannon yhdenvertaisuuden,
+Puhuja 1: tasa-arvon ja syrjimättömyyden
+Puhuja 1: edistämisestä
+Puhuja 1: syysistuntokauden
+Puhuja 1: alussa.
+Puhuja 1: Tämän tiedonannon
+Puhuja 1: tarkoituksena on siis antaa tästä aiheesta
+Puhuja 1: eduskunnalle
+Puhuja 1: tieto, jonka pohjalta voidaan keskustella.
+Puhuja 1: Sen pohjalta
+Puhuja 1: voidaan äänestää hallituksen
+Puhuja 1: luottamuksesta.
+Puhuja 1: Oppositio voi esittää myös luottamusäänestystä
+Puhuja 1: yksittäisille ministereille.
+Puhuja 1: Odotetaan, että hallituksen luottamusäänestyksen
+Puhuja 1: lisäksi tullaan näkemään
+Puhuja 1: luottamusäänestykset
+Puhuja 1: ainakin valtiovarainministeri
+Puhuja 1: Riikka Purrasta
+Puhuja 1: ja elinkeinoministeri
+Puhuja 1: Ville Rydmanista,
+Puhuja 1: joiden
+Puhuja 1: vanhoja
+Puhuja 1: tekstejä ja kommentteja
+Puhuja 1: kesän aikana mediassakin
+Puhuja 1: on ruodittu.
+Puhuja 1: Yhdenvertaisuustaedonannon
+Puhuja 1: alun perin Orpo siitä ilmoitti Riikka Purran kanssa yhdessä pidetyssä
+Puhuja 1: tiedotustilaisuudessa. Sen jälkeen lisää tietoja tästä on tullut.
+Puhuja 1: Tiedetään, että RKP toivoo mahdollisimman konkreettisia
+Puhuja 1: toimenpiteitä näiden asioiden eteen tästä tiedonannosta.
+Puhuja 1: Siihen on kuultu, tai ollaan kuulemassa
+Puhuja 1: yhteensä yli sataa tahoa sekä suullisesti että
+Puhuja 1: kirjallisesti
+Puhuja 1: näistä suurinta osaa.
+Puhuja 1: Tällainen ihan isompi
+Puhuja 1: prosessi käynnissä. Ei ole ihan tavallinen toimenpide tämä
+Puhuja 1: tiedonanto.
+Puhuja 1: Millaisia
+Puhuja 1: ajatuksia tämä tiedonantoprosessi
+Puhuja 1: teissä on herättänyt?
+Puhuja 3: Niin, no joo. Olen tulkinnut sen ehkä silleen, että
+Puhuja 3: se on fiksua
+Puhuja 3: ikävästi sujinen kesän jälkeen tai ehkä hankalissa merkinnänisyyden kesän jälkeen potkaista se kausi käyntiin sillä tavalla
+Puhuja 3: omaehtoisesti.
+Puhuja 3: Ja siinä niitä kiusallisia
+Puhuja 3: elementtejä
+Puhuja 3: on ehkä,
+Puhuja 3: että ei siinä tiedonannossa
+Puhuja 3: tai hallitus halua ehkä välttää myötäilemästä liikettä. Tai sitten siellä muualla
+Puhuja 2: Pohjois-Euroopassa.
+Puhuja 1: Joo, jokainen maahan antaa aina nimen erikseen
+Puhuja 1: näille myrskylle.
+Puhuja 1: Ruotsissahan se taisi olla...
+Puhuja 1: Mikähän sen nimi oli?
+Puhuja 1: Mutta tarkistan sen nimen, mutta kertokaa sillä aikaa, että oliko tää turhaa varoittelua, eli päätän tällainen myrsky? Koska
+Puhuja 3: myrskyhän jää ihan suutariksi, niin mua olisi harmittanut. Jos se olisi mun nimen saanut tällainen vieru,
+Puhuja 3: puukille.
+Puhuja 3: Multa meni täydellisen ohi koko
+Puhuja 3: tapaus. Sitten mä yritin bongailla
+Puhuja 3: myrskyn
+Puhuja 3: jälkiä
+Puhuja 3: Käpyylän
+Puhuja 3: pihoilta.
+Puhuja 3: Luulin nähneeni muutamankaantuneen
+Puhuja 3: esineen kunnes poisoni selitti, että ne on varmaan laitettu
+Puhuja 3: makuulleen
+Puhuja 3: myrskyjä ennen. Joten en nähnyt edes mitään,
+Puhuja 3: mikä olisi
+Puhuja 2: siitä hetkahtanut. Mun täytyy sanoa, että mulla on myrskyhavainto.
+Puhuja 2: Ei
+Puhuja 2: sitä voi myrskyksi ihan sanoa. Mä heräsin sinä yönä, olikohan se maanantain ja tiistain välinen yö, niin siihen,
+Puhuja 2: kun mä olin jättänyt ikkunan... Mä en ollut siis uskonut oikein tähän myrskyön, niin mä olin jättänyt kyllä ikkunan auki.
+Puhuja 2: Mutta se helisi niin kovaa se ikkuna, kun on neljännes kerroksessa ja silleen vähän kukkulan päällä. Niin se helisi ja oli hirveä tuuli, mutta ei satanut eikä mitään sellaista. Silloin kyllä tuuli enemmän kuin ehkä kertaakaan
+Puhuja 2: niin kuin
+Puhuja 2: tän kesän aikana on tullut. Se oli ehkä aamu neljän aikaan.
+Puhuja 1: Helinä vain kävi. Helinä vain kävi. Mutta tämä on nyt jaettu kokemus, koska mäkin heräsin aamun neljä aikaan sulkemaan ikkunan juuri tästä samoista syystä. Ehkä tämä oli meidän
+Puhuja 1: myrskykokemus.
+Puhuja 2: Ei tämä ehkä nyt sen arvoinen tapahtuma ole, että mun olisi tarvinnut saada tästä mediaseurantaa
+Puhuja 2: monta päivää etukäteen.
+Puhuja 2: Kyllä ihan selvisin tästä ikkunan sulkemisesta ja olisin selvinnyt ilman mitään varautumistakaan.
+Puhuja 1: Mutta toisaalta,
+Puhuja 1: vaikka tämä nyt tällä kertaa meni tällaiseksi ylireagoinniksi,
+Puhuja 1: niin
+Puhuja 1: mun mielestä on hyvä, että näihin suhtaudutaan kuitenkin tietyllä vakavuudella
+Puhuja 1: näihin myrskyihin, koska
+Puhuja 1: niitähän on tosi vaikea ennustaa. Tai nytkin, jos katsoo, millaisia tuhoisia aiheutti Baltiassa tai Norjan ja Ruotsin alueella,
+Puhuja 1: niin sellaisiin olisi ollut ihan hyvä Suomessakin
+Puhuja 1: olla henkisesti varautunut, jos se olisi tullut tänne
+Puhuja 1: asti. Ja varsinkin sitten
+Puhuja 1: tuolla
+Puhuja 1: maaseudulla, jos on isoja pelto tai metsänomistuksia,
+Puhuja 1: niin nämä voi olla aika kohtalokkaita jotakin tällaiset myrskyt. Se just vähän pelottaa,
+Puhuja 2: että kun sään ääri-ilmiöt nyt on lisääntymässä.
+Puhuja 2: Ja sitten
+Puhuja 2: kun ei tee hirveän hyvää ihmisten tällaiselle kärsivällisyydelle,
+Puhuja 2: että samaan aikaan on
+Puhuja 2: eri lehdissä toisessa otsikko, että Myrsky on peruttu ja toisessa ei voi sanoa, että Myrsky olisi peruttu ja näin poispäin,
+Puhuja 2: niin että kyllästyvätkö ihmiset ja sitten ne ei ole varautuneita, kun oikeasti jotain olisi tapahtumassa. Koska mä muistan, kun silloin Saksassa oli ollut ne tulvat, oliko se kaksituhatta
+Puhuja 2: kaksikymmentäyksi, niin siellä osa just kertoi, että ne oli saanut sen myrsky
+Puhuja 2: tulvavaroituksen,
+Puhuja 2: mutta osa ei ollut tehnyt sille mitään, koska ne oli ajatelleet, että ei se nyt niin paha ole ja sitten se olikin ja vei kaiken.
+Puhuja 2: Tuleeks sellainen, että kun nämä ilmiöt lisääntyy ja ihmiset on silleen
+Puhuja 2: että
+Puhuja 3: on muuten kiinnostava. Tunnistaisin kanssa tuosta itseni, että joltain
+Puhuja 3: kauppareissulta
+Puhuja 3: sitten humahtaisin yläilmoihin.
+Puhuja 3: Ortlarodo saapuisikin.
+Puhuja 3: Muutenkin kiinnostavaa,
+Puhuja 3: jos Adrialmet
+Puhuja 3: yleistyy, niin ne kohtaavat sellaisen ehkä vähän
+Puhuja 3: löyhemmän journalistisen
+Puhuja 3: koodiston, mitä tulee sääuutisointi.
+Puhuja 3: Sitä voidaan tehdä myös epävarmemman tiedon perusteella usein kovallakin volyymilla.
+Puhuja 1: Joo, näinpä.
+Puhuja 1: Miten, Matilla jo viittasikin, että et ole ehkä
+Puhuja 1: itsehenkisesti parhaiten tällaisiin asioihin varautuva. Me nyt kaikki asutaan
+Puhuja 1: kaupunkialueella,
+Puhuja 1: missä välttämättä sähköjen
+Puhuja 1: katkeaminen pitkäksi aikaa ei ole niin realistinen
+Puhuja 1: skenaario. Mutta jos tulisi oikeasti myrsky
+Puhuja 1: tai jos itse jossain paikassa, jossa sähköt katkeaisivat pitkäksi aikaa,
+Puhuja 1: niin olisitteko varautunut sellaiseen?
+Puhuja 2: Mullahan ei ole mitään ongelmaa olla ilman sähköä. Mä tein jo viime syksynä
+Puhuja 2: testin.
+Puhuja 2: Mulla oli varmaan kolme viikkoa silleen, että mun sähkösopimus oli poikki ja mä eri varmaan kolme viikkoa ilman
+Puhuja 2: sähköä. Se sujui ihan hyvin.
+Puhuja 2: Tietenkin siis on
+Puhuja 2: sellaisessa asemassa, että sen pystyi hoitamaan, että mä esimerkiksi
+Puhuja 2: latasin asioita täällä sanomattalossa.
+Puhuja 2: Mutta
+Puhuja 2: ei niitä sähköjä...
+Puhuja 2: Ikävintä oli
+Puhuja 2: se, ettei voinut laittaa jääkaappiin ruokaa, mutta toisaalta mä olen niin huono suunnittelemaan,
+Puhuja 2: että sitten mä vaan ostin sen päivän ruuat ja söin
+Puhuja 2: ne. Sit mä olin aika pimeätä siellä oli,
+Puhuja 2: mutta sitten toisaalta ei sitä nyt niin paljon tartte nähdä.
+Puhuja 2: Että ei mua se sähkötömyys
+Puhuja 2: ainakaan hirveästi pelottaisi.
+Puhuja 1: Sä ehkä meistä kokeneet
+Puhuja 1: sähkötömyyden
+Puhuja 1: varalle. Ainakaan mulla ei ole tällaista useamman
+Puhuja 1: viikon sähkötömyyskokemusta.
+Puhuja 3: Mä samaistun kyllä tuohon, että mäkin elän niin epämääräisesti lähtökohtaisesti. Teitä varmaan sotkisi mun asiat ihan kauheasti. Mutta asun
+Puhuja 3: sellaisella alueella,
+Puhuja 3: jossa asuntoja voi lämmittää
+Puhuja 3: puulla.
+Puhuja 3: Mulla tuli ekana mieleen, että sitten ei voisi kyllä ulkona liikkua vähän aikaa,
+Puhuja 3: kun ilma olisi täynnä
+Puhuja 3: pienhiukkasia
+Puhuja 3: siitä puunlämmityksestä.
+Puhuja 3: Se olisi varmaan
+Puhuja 3: merkittäviä asia,
+Puhuja 3: miten se vaikuttaisi elämääni.
+Puhuja 1: Joo, sitten sähkökatkollahan on kaikkia
+Puhuja 1: sellaisia ikään kuin vaikutuksia, jotka
+Puhuja 1: ei välttämättä heti tule mieleen, vaikka korttimaksaminen
+Puhuja 1: ei onnistu
+Puhuja 1: jonkin ajan päästä kaupoissa. Tai ylipäätään kaupassa käynti, ei
+Puhuja 1: välttämättä
+Puhuja 1: toimi. Kaupat joutuu sulkemaan ovet ja tällaiset.
+Puhuja 1: Olen yrittänyt pitää kotona
+Puhuja 1: kotivaraa, että siellä on ruokaa riittävästi
+Puhuja 1: kuivamuona kaapeissa
+Puhuja 1: joksikin ajaksi. Jos tulee tilanne, ettei pääse kauppaan syystä tai toisesta. Mutta
+Puhuja 1: esimerkiksi vettä mulla ei kyllä ole.
+Puhuja 2: Ja se olisi eka mihin kuolisit. Se on eka
+Puhuja 2: mihin
+Puhuja 2: sä
+Puhuja 2: kuolisit.
+Puhuja 1: Se
+Puhuja 1: on eka.
+Puhuja 2: Ja se olisi isoin ongelma, jos se katkeaisi. Jos tapahtuisi jotain, en tiedä, että tulisi joku saaste.
+Puhuja 1: Tai sitten ihan, koska sähköyskin tarvitsee sinne.
+Puhuja 2: Niin, niin se olisi isoin. Se
+Puhuja 2: aiheuttaisi ongelmia.
+Puhuja 2: Ruoka-aika en kyllä varastoi. Mun on niin vaikea jotenkin kuvitella, että sitä ruokaa ei jostain saisi.
+Puhuja 1: Sä luet, että yhteiskunta hoitaa kyllä. Mä jotenkin luotan, että lopulta
+Puhuja 2: menen käpylän Alepaan ja sanon, että antakaa minulle
+Puhuja 2: ruokaa. Se on jotenkin niin hirveän kaukainen ajatus, että ei
+Puhuja 2: päiviin
+Puhuja 2: päiviin pääsisi käyttämään
+Puhuja 2: kauppaa eikä kenelläkään tutulla olisi enää missään ruokaa eikä käy
+Puhuja 1: Jos
+Puhuja 1: tämä
+Puhuja 1: sähköttö myöskin oli
+Puhuja 1: fine määriä.
+Puhuja 1: Onko juokkimilla vesivarannot
+Puhuja 1: kotona?
+Puhuja 3: Vis syön muutama tölkki.
+Puhuja 3: Niillä on päivän päällä.
+Puhuja 3: Kyllä mä sitä voin säännöstellä jonkin aikaa.
+Puhuja 3: Tulkaa multa kysymään, kun mä katken. Annan toisen
+Puhuja 1: jos puhelimesta loppuu akku tai muuten. Mitään muuta kautta. Meillä ei kyllä kotona ole mitään paristakäyttöistä radiota.
+Puhuja 1: Bluetooth
+Puhuja 1: kaiuttimet on, joihin saa radion soimaan.
+Puhuja 1: En olisi viranomaisviestinnän saavutettavissa. Toki ehkä Töölön se viesti saattaa kulkea myös jollain muulla keinolla kuin radiolla
+Puhuja 1: esimerkiksi painettuna
+Puhuja 1: sanomalehtenä.
+Puhuja 3: Pitää tuosta nopehan mainita, kun
+Puhuja 3: viime syksynä näitä aiheita
+Puhuja 3: selvittelin, kun ne oli sähkökriisi
+Puhuja 3: talven alla tapetilla. Ja mä törmäsin tällaiseen ympäristöaktivistiksille
+Puhuja 3: soitin. Hän oli tosi
+Puhuja 3: fiiliksissä
+Puhuja 3: tällaisista koululaisitteista, missä oli polkupyörää
+Puhuja 3: kytkennyt
+Puhuja 3: generaattorin
+Puhuja 3: tai hän lataisi kännykkäänsä silleen, että olisiko se tunnin tai kaksi polkenut polkupyörää ja sanoi, että tämä saattaisi kyllä tai sopisi yleistyä.
+Puhuja 3: Ehkä semmoinen laite. Ihan siis muutenkin, sehän olisi kyllä. Minulta se silloin jäi jotenkin hankkimatta.
+Puhuja 3: Mutta ihan integroisi osaksi arkea, niin kuntoillisi samalla.
+Puhuja 1: Olen myös miettinyt
+Puhuja 1: sen takia, että
+Puhuja 1: Liishin
+Puhuja 1: juna-asemalla
+Puhuja 1: Belgiassa
+Puhuja 1: on sellaiset kuntopyörät, joihin saat USB-liitännällä
+Puhuja 1: sun puhelimen kiinni. Olen siellä joskus myöhään ollut palaamassa,
+Puhuja 1: silloin kun asuin Belgiassa,
+Puhuja 1: ollut palaamassa takaisin
+Puhuja 1: omaan kotikaupunkiini ja odottanut siellä juna-asemalla. Mulla on ollut joku yksi prosentti akkua ja siellä ei pistorasioita missään. Sitten tajusin, että siinä on sähköpolkupyörät,
+Puhuja 1: sähköntuottopolkupyörät.
+Puhuja 1: Siellä poljin
+Puhuja 1: juna odottaessa. Yllättävän nopeasti se kyllä latasi puhelinta. Olin ihan yllättynyt siitä tehokkuudesta. Olen ajatellut, että
+Puhuja 1: ei se oikeasti lataisi puhelinta sellaista tahtia, että se olisi järkevää.
+Puhuja 2: Ei tollaisilla ituhippeilmenetelmillä
+Puhuja 2: puhelialla ratella.
+Puhuja 1: Nämä minut yllätti.
+Puhuja 1: Miten
+Puhuja 1: ylipäätään te suhtaudutte myrskyihin? Pelkäättekö te myrskyjä?
+Puhuja 2: Mä oon ihan ystävä.
+Puhuja 2: Mä olisin vähän toivonut sitä myrskyä. En tietenkään sellaisissa mittakaavoissa, missä se
+Puhuja 2: oikeasti aiheuttaisi jollekin
+Puhuja 2: henkilövahinkotyyppisiä
+Puhuja 2: tuhoja.
+Puhuja 2: Ehkä Suomessa on ollut helppo
+Puhuja 2: kasvaa
+Puhuja 2: sään ääri-ilmiöiden
+Puhuja 2: faniksi,
+Puhuja 2: koska täällä aika harvoin on sellaisia sään ääri-ilmiöitä, mitkä oikeasti olisi ihmiselle tosi vaarallisia. Niin sitten ei ole kehittynyt sellaista sisäsyntyistä pelkoa tietyllä tavalla. Meksi, koska mä huomaan, että siellä mulla on sellainen pelko
+Puhuja 2: tosi paljon. Ja ne oikeasti aiheuttaa asioita. Sitten se ei ole niin silleen, että olispa taas jännää.
+Puhuja 2: Siitä tulee enemmän sellainen ei.
+Puhuja 3: Joo, toi on kyllä hyvä pointti miettiä, että missä maantieteellisesti
+Puhuja 3: niistä S&P-ilmielmistä
+Puhuja 3: puhuu. Mutta joo, kyllä minä itse pidän myös. Etenkin
+Puhuja 3: siitä on kiva jutella etukäteen ja jälkikäteen. Ja sitten se on kiva, kun on kunnolla jonkinlainen sää, ettei ole epämääräinen
+Puhuja 3: harmaa tihuisaa.
+Puhuja 3: Se on aar-ryhmän
+Puhuja 1: vastakohta, ja sitä vihaan kaikista eniten. En ole koskaan ajatellut, mutta olen kyllä samaa mieltä. Sen pukeutuminen on paljon helpompaa noihin kaikkiin muihin. Jos ulkona on hirveä myrsky,
+Puhuja 1: laittaa kumisaappaat
+Puhuja 1: jalkaa ja sadettakin päälle ja sadehous jalkaan, vaikka menee lähikauppaan, koska ei halua
+Puhuja 1: täysin kastua siellä. Mutta sitten kun on tihkusade, sitä miettii, mitä pukisi päälle. Jaksaako laittaa sadettakin vai hilpasenko
+Puhuja 1: tuosta sateenvarjon kanssa.
+Puhuja 1: Jotenkin hankalaa aina päättää, miten siihen varautuu. Mä
+Puhuja 1: rakastan siis itse ukonilmaa. Silloin voi myysailla kotona
+Puhuja 1: ja lueskella jotain ja laittaa teen tippumaan. Laittaa vaikka valot pois, vaikka ei olisi sähkökatkokaan.
+Puhuja 1: Mäkin jäin vähän harmittelemaan, että tää lahjamyrsky ei koskaan tullut. Mutta ehkä
+Puhuja 1: maanviljelijät vaikka harmittelee sitä vähän vähemmän kuin minä.
+Puhuja 1: Ehkä olemme
+Puhuja 1: valmiita siirtymään
+Puhuja 1: viimeiseen
+Puhuja 1: osioonmme
+Puhuja 1: eli
+Puhuja 1: näihin hiljaisten hetkien varalle keskustelun aiheisiin.
+Puhuja 1: Mitäpä sitten siinä vaiheessa, jos
+Puhuja 1: nyt tulisi se myrsky, vaikka ei olisi lahjamyrsky, mutta joku toinen myrsky
+Puhuja 1: ja my sailette kaverin kanssa
+Puhuja 1: ilman
+Puhuja 1: sähköä kotona
+Puhuja 1: ja
+Puhuja 1: yritätte keksiä jotain keskustelun aihetta siihen tilanteeseen.
+Puhuja 2: Keskustella mitään hirveän syvällistä.
+Puhuja 2: Voisin sanoa, että
+Puhuja 2: mun kesän suurimpia jännityksen aiheita on ollut kurkku,
+Puhuja 2: jonka sain
+Puhuja 2: kaverilta
+Puhuja 2: ja työkaverilta
+Puhuja 2: sellaisena pikku taimena ja se kasvaa sellaista vauhtia, että sitä ei tarvitse edes
+Puhuja 2: odotella, vaan
+Puhuja 2: sitä pystyisi melkein katsomaan, kun se kasvaa.
+Puhuja 2: Jos sille laittaa jonkun uuden tikun, niin se on aina tunnissa jo kietoutunut
+Puhuja 2: uudella tavalla ja se kasvaa hirveää vauhtia, se tekee kurkkuja hirveää vauhtia.
+Puhuja 2: Ainut ongelma on se, että mä en pysy perässä,
+Puhuja 2: niin suurin osa niistä kurkuista ehtii aina muuttua
+Puhuja 2: tosi omituisen muotoisiksi ennen kuin ne
+Puhuja 2: saapuu täyteen mittaansa, koska mä en ehdi kastella sitä. Sitä pitäisi kastella... Mä oon laittanut sen varmaan liian pieneen ruukku, mutta sitä pitäisi kastella varmaan neljä kertaa päivässä, että se olisi tyytyväinen.
+Puhuja 2: Mä näen tässä suuret mahdollisuudet. Mulla olisi ihan hirveästi kurkkuja, jos ne ois kaikki selvinnyt ne kurkut, mitä se on yrittänyt synnyttää.
+Puhuja 2: Ehkä se sen takia yrittää synnyttää myös niin kovaa vauhtia. Se menee joka päivä kuolla se kurkku. Se on joka päivä näyttää siltä, että nyt on kurkun hautaamisen aika. Sitten seuraavana päivänä sillä on jo monta uutta kurkussa. Se on jatkuvaa
+Puhuja 2: uuden elämän ja vanhan elämän poistumisen
+Puhuja 2: näytelmä,
+Puhuja 2: joka...
+Puhuja 3: Olipa kaunista.
+Puhuja 3: Mun suositus. Mun suositus. Tää on ollut mun lempi puheenjana viime aikoina. Kun lopetin hyvin satunnaisiksi
+Puhuja 3: käyneen salilla käymisharrastukseni
+Puhuja 3: pienruproteiini
+Puhuja 3: ja kakanhajun ja muiden sisäilmaongelmien
+Puhuja 3: takia. Tai siis
+Puhuja 3: siellä salilla ihan hirveän hengittää
+Puhuja 3: keuhkoihinsa ja nenäänsä. Ja ostin tällaisen painoliivin,
+Puhuja 3: millä voi tehdä kehonpainoharjoituksia
+Puhuja 3: lisäpainolla.
+Puhuja 3: Se oli hieno ostos. Mutta ainoa ongelma on, että se näyttää ihan luotiliiviltä.
+Puhuja 3: Eli aina kun aistin ovesta ulos, se näyttää kun olisi yhden ihmisen
+Puhuja 3: militanttiryhmittymä
+Puhuja 3: menossa katuppartyömaa.
+Puhuja 3: Mun
+Puhuja 3: suositukseni on,
+Puhuja 3: että älkää asettatko poliiseja jos näette minut
+Puhuja 3: kävelemässä
+Puhuja 3: painoliivi päällä. Ostakaa itsekin painoliivi, niin tähän normalisoituu.
+Puhuja 1: En joudu
+Puhuja 1: vaikeuksiin.
+Puhuja 1: Ehkä
+Puhuja 1: sellainen asu, jolla ensimmäisenä lähtisi juoksemaan jonkun perässä pimeään. Se herättää
+Puhuja 1: ikäviä assosiaatioita.
+Puhuja 1: Itse voisin
+Puhuja 1: suositella suomalaista saunakulttuuria,
+Puhuja 1: julkisia
+Puhuja 1: saunoja.
+Puhuja 1: Olen tänä kesänä yrittänyt
+Puhuja 1: kiertää Helsingissä.
+Puhuja 1: Viime viikonloppuna on Klonan saunassa,
+Puhuja 1: saarella ihana
+Puhuja 1: meren rannassa sauna, josta pääsee mereen pulahtamaan.
+Puhuja 1: Toinen tosi hyvä on vaikka sompasauna
+Puhuja 1: tuolla
+Puhuja 1: Kalasataman
+Puhuja 1: lähellä, missä vapaaehtoiset pyörittää lahjoituksilla
+Puhuja 1: käytännössä
+Puhuja 1: sellaista sauna-aluetta
+Puhuja 1: siellä, useampaa
+Puhuja 1: saunaa.
+Puhuja 1: Niissä on aina
+Puhuja 1: tosi rentouttava
+Puhuja 1: tunnelma ja ihmiset puhuvat toisilleen jotenkin paljon matalammalla kynnyksellä kuin mitä suomalaiset ehkä muuten. Tiedätkö, miten sä olisit vielä vähän nämä hikeä pintaa siellä?
+Puhuja 3: No, painoliivillä.
+Puhuja 1: Se ainakin ihan edes keskustelualotas.
+Puhuja 1: Varmasti joku kysyi, että mikä tuo on? Ett se on old Finnish tradition.
+Puhuja 1: Joo, ei, mutta käykää ihmiset saunoissa.
+Puhuja 2: Mutta varokaa siellä luonnon saunassa, koska
+Puhuja 2: siitä sen uimapaikan edestä menee myös viikinlain. Mä oon melkein kerran jäänyt sen alle. Se menee tosi siitä läheltä.
+Puhuja 2: Siinä on isot riskit, jos ei kato.
+Puhuja 1: Sä olit siis aika pitkällä uimalenkillä, kun se ei ihan siinä kuitenkaan. Niin menee, se menee tosi läheltä.
+Puhuja 1: Kyllä mäkin näin, kun se kulki siitä, mutta
+Puhuja 3: aikamoista. Tulitko
+Puhuja 3: oikealta sen tielle?
+Puhuja 1: Kumman on oikea? Kumman on oikeassa? Mä
+Puhuja 2: tajusin lähteä.
+Puhuja 2: Se menee siitä, missä mä aina uin.
+Puhuja 3: Olkaamme varovaisia. Älkäämme jäikö viikingiläinen alle. Kyllä, josta sä jotain haluat ottaa taskuun. Joo,
+Puhuja 1: loistavaa. Mutta hei,
+Puhuja 1: kiitos tästä viikosta. Siinä kaikki tältä erää.
+Puhuja 1: Kiitos Matilda Jokinen. Kiitos. Kiitos Joakimesternroll.
+Puhuja 3: Kiitos kiitos.
+Puhuja 1: Minun nimeni oli Joona Aaltonen. Tänään meille äänen kuvan kaiken muun toimitti
+Puhuja 1: pienestä
+Puhuja 1: meidän
+Puhuja 1: alkusäädöstä riippumatta.
+Puhuja 1: Aina yhtä loistava Mikko Peura, kiitos Mikolle siitä.
+Puhuja 1: Palamisiin jälleen uutisraportin parissa ensi viikolla.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

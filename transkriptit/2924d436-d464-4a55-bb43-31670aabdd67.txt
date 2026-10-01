@@ -1,199 +1,402 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin
+Puhuja 2: Sanomat.
 Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uutisraportti-podcastiin
 Puhuja 0: torstaina yhdeksäntoista.
-Puhuja 0: Joulukuuta
-Puhuja 0: vuonna kaksituhatta kaksikymmentäneljä.
-Puhuja 0: Mun nimi on Tuomas Peltomäki
+Puhuja 0: Päivä joulukuuta vuonna kaksituhatta kaksikymmentäneljä.
+Puhuja 0: Mun nimi on Tuomas Peltömäki
 Puhuja 0: yhä tänäkin vuonna edelleen.
-Puhuja 1: Oletko muuten ikinä haaveillut, että vaihtaisit
-Puhuja 1: sukunimeä tai etunimeä?
-Puhuja 0: No,
-Puhuja 0: sukunimeä
-Puhuja 0: en.
-Puhuja 0: Silloin, kun mun isä kuoli, hetken aikaa
-Puhuja 0: mietin sitä ajatusta, rupesinko nyt sitten, koska hänen
+Puhuja 3: Oletko muuten ikinä haaveillut, että vaihtaisit sukunimeä
+Puhuja 3: tai etunimeä?
+Puhuja 0: No, sukunimeä en. Silloin, kun mun isä kuoli, mä hetken aikaa
+Puhuja 0: mietin sitä ajatusta, rupesinko nyt sitten, koska hänen...
 Puhuja 0: Mun nimihän on Vesa Tuomas Peltomäki.
-Puhuja 0: Mun isän nimi oli Vesa Peltomäki.
-Puhuja 0: Koska siihen aikaan miehillä oli parempaa tekemistä kuin keksiä pojille uusia nimiä.
-Puhuja 0: Mietin vähän aikaa, olinko vaihtanut
-Puhuja 0: itseni Vesa Peltomäksi, kun tämmöinen vapautui. Niin sä olisit jatkanut Vesa Peltomäen perinnettä. Sitten mun poika olisi myöhemmin.
-Puhuja 0: Mun kuoltoa
-Puhuja 2: asettautua Vesa Peltomäessä. Se on vähän niin kuin kuningas, joka otetaan se.
-Puhuja 0: Tuomas Peltolakin, ollaan täällä edelleen. Kanssani täällä Helsingin Sanomien
+Puhuja 0: Mun isän nimi oli Vesa Peltomäki,
+Puhuja 0: koska siihen aikaan miehillä oli parempaa tekemistä kuin keksiä pojille uusia nimiä.
+Puhuja 0: Niin sitten mä mietin vähän aikaa, että olinko mä vaihtanut
+Puhuja 3: itseni Vesa Peltomäksi, kun tämmöinen vapautui. Niin sä olisit jatkanut niin kuin Vesa Peltomäen perinnettä.
+Puhuja 0: Sitten mun poika olisi myöhemmin:
+Puhuja 0: mun kuoltoa
+Puhuja 2: asettaa tai yleensä peltoonkykyy. Se on vähän niin kuin kuninkaaksi, joka annetaan sitten hitaasti. No niin, eli meitä.
+Puhuja 0: Tuomas Peltomäki, ollaan täällä edelleen. Kanssani täällä Helsingin Sanomien
 Puhuja 0: uudessa
-Puhuja 0: uusi Tussa ja aivan helvetin kivan näköisessä podcast-studiossa
-Puhuja 0: ovat Anna-Sofia Perner, ystävien kesken Sohvi. Hei Sohvi. Heipä hei. Mitä kuuluu?
+Puhuja 0: Uusitus ja aivan helvetin kivan näköisessä podcast-studiossa
+Puhuja 0: ovat Anna-Sofia Perner, ystävien kesken Sohvi. Hei Sohvi. Heipä hei.
+Puhuja 0: Mitä kuuluu?
 Puhuja 2: Hyvää. Mä itse asiassa aion muuttaa mun nimen.
-Puhuja 2: Oho. Joo. Seuraavan kerran, kun mun passi vanhenee, niin aion lisätä sinne sen väliviivan, koska mun passissa ei ole väliviivaa.
-Puhuja 2: Okei, mitä hittoa? Se on Anna väli Sophia.
-Puhuja 1: Siis sinun oikein nimi on
-Puhuja 2: väliviivalla Kokö. No mikä nyt on oikea nimi?
-Puhuja 0: Mikä sinulle on kirjoittanut? Virallisissa papereissa ei
-Puhuja 2: ole väliviivaa.
-Puhuja 0: Vau! Mä en tiedä.
-Puhuja 0: Tiedä. Sä oot ottanut sen käyttöön, että se kuuluu olla. Niin se on aina. Mä olin joku
-Puhuja 2: viisitoista, kun mun mielestä selvisi, että sitä väliviivaa ei oikeasti ole. Mutta nyt mä oon päättänyt, että seuraavan kerran, kun passi vanhenee, niin mä en tässä.
+Puhuja 2: Oho.
+Puhuja 2: Seuraavan kerran, kun mun passi vanhenee, niin aion lisätä sinne sen väliviivan,
+Puhuja 2: koska minun passissa ei ole väliviivaa.
+Puhuja 2: Okei, mitä hittoa? Se on Anna väli Sofia.
+Puhuja 3: Siis sinun oikea nimi on kuitenkin väliviivalla
+Puhuja 2: Kokö? No mikä nyt on oikea nimi? Mikä sinulle on kirjoittanut? Virallisissa paperissa
+Puhuja 2: ei ole väliviiva.
+Puhuja 2: Vau, mä en tiedä. Okei. Mut sä oot ottanut sen käyttöön, että se kuuluu olla välillä. Niin se on aina. Mä olin joku viisitoista, kun mä selviän, että sitä väliviivaa ei oikeasti ole. Mutta nyt mä oon päättänyt, että seuraavan kerran, kun passi vanhenee,
+Puhuja 0: laita sen.
 Puhuja 0: Tässä studiossa normaaleimman
 Puhuja 0: nimen omista.
-Puhuja 1: Mun mielestä sun nimi on normaalimpi
-Puhuja 0: kuin mun. Mutta mulla on väärässä järjestö, joita
-Puhuja 0: mä oon suuri Papsbloun
-Puhuja 0: ystävä, koska Lanadelreiy
-Puhuja 0: laulaa Paps blury briboneeistä.
-Puhuja 0: Siinä niitä siemalle teidän jutuista kirjoittaa.
-Puhuja 2: Kysyn, että ovatko he nähneet Subody Samuel Arth, tv-sarjan
-Puhuja 2: kolmannen ja viimeisen kauden,
-Puhuja 2: jonka juuri katsoin. Minulla on pieni muistikuva, että olen ehkä hehkuttanut sarjaa täällä.
-Puhuja 2: Se on semmoinen pieni
+Puhuja 0: Mun nimi on kyllä normaalimpi kuin muuna. Mutta mulla on väärässä järjestö. Se oli se erikoisuus, mistä noista puhuttiin.
+Puhuja 0: Salla Vuorikoski Helsingin Sanomien tutkivien juttujana Bos of Bosse.
+Puhuja 0: Hei, Salla. Mitä
+Puhuja 0: kuuluu?
+Puhuja 3: Kuuluu hyvää. Jotenkin on levollinen,
+Puhuja 3: mukava olo. Kaikenlaisia
+Puhuja 3: jouluasioita
+Puhuja 3: ja juhlin tässä. Olen huomannut toimituksessa,
+Puhuja 3: kundeilla
+Puhuja 3: on joka päivä puvut päällä.
+Puhuja 3: Ne kun juoksee varsinkin
+Puhuja 3: talouspuolen porukat visio
+Puhuja 3: ja talous ja varmaan politiikkakin. Ne juoksevat koko ajan
+Puhuja 3: joululaunailla
+Puhuja 3: ja sidosryhmä
+Puhuja 0: tilaisuuksissa. Mulla on jälleen puku päällä. Mikäs tilaisuus? Olin menossa Italian suurlähetystöön.
+Puhuja 3: Olit menossa.
+Puhuja 3: Menitkö myös?
+Puhuja 0: A celebation of
+Puhuja 0: Italian food and wan,
+Puhuja 0: Minulla on suurlähetystöihin liittyvä trauma.
+Puhuja 0: En nyt arvon, että kerronko sitä. Enkä kerro. Tämä nyt löysin alkupodcastiin, mitä on ikinä tapahtunut.
+Puhuja 0: Mun toimittajauran yksi huippuhetkiä oli joskus ihan
+Puhuja 0: kymmenen, viisitoista vuotta sitten, en muista tarkkaan,
+Puhuja 0: kirjoitin Helsingin Sanomiin hyvin, hyvin lyhyen, siis niitä sanottiin palkki kakkosiksi
+Puhuja 0: silloin, maailman
+Puhuja 0: pienimmän uutisen siitä, että Yhdysvaltain suurlähetystön
+Puhuja 0: parveke on liian korkea suhteessa
+Puhuja 0: rakennusmääräyksiin.
+Puhuja 0: Se ylittää parilla sentillä jonkun kaavan laitetun arvon.
+Puhuja 0: Tämän uutisen julkaisun jälkeen
+Puhuja 0: Yhdysvaltain suurlähetystön Helsingissä
+Puhuja 0: pisti mut vit listan
+Puhuja 0: ykköseksi.
+Puhuja 0: Mä joudun jollekin ihan
+Puhuja 0: presidenteelle
+Puhuja 0: tarkoitetulle postisuuslistalle.
+Puhuja 0: Mulla rupesi tulee kutsu
+Puhuja 0: jokaikiseen kekkeriin, mitä Yhdysvallat Suomessa järjestää.
+Puhuja 0: Siis jokaikinen kohtaus lisää mun
+Puhuja 2: katkeruutta
+Puhuja 2: sitä lähetystyö kohtaan niin paljon. Aa, mä alan tulossa sinne, ala tulossa. Joka ikiseen kekkeriin, jokaikiseen viinimaistajaistilaisuuteen
+Puhuja 0: kaikki tämmöiset,
+Puhuja 0: mulle lähtee.
+Puhuja 0: Jos
+Puhuja 0: olet edes pieni, tavallinen, mitätön ihminen eli toimittaja,
+Puhuja 0: olet julkisuudessa
+Puhuja 0: työn kautta,
+Puhuja 0: koska sun työtä on tehdä julkisuuteen juttuja,
+Puhuja 0: niin siitä tulee paskaa niskaan.
+Puhuja 0: Kaikennäköiset iliöt alkavat kaikennäköistä
+Puhuja 0: kamaa suoltaasun päälle.
+Puhuja 0: Fatim Diar, kun häntä haastateltiin
+Puhuja 0: näistä asioista, niin hänkin sanoi, että ei tässä ole mitään uutta. Tätä tulee viikoittain.
+Puhuja 0: Ja nythän vaan
+Puhuja 0: hän postaisi tämän. En muista, mikä selittiköhän sitä, että miksi juuri nyt. Mutta tätä tulee.
+Puhuja 0: Ja sitten
+Puhuja 0: minä, kun
+Puhuja 0: näitä kaiken maailman kamoja
+Puhuja 0: on tullut, siihen totta kai turtuu.
+Puhuja 0: Mutta myös sitä oppii, jättämään oman arvonsa.
+Puhuja 0: Suomessa
+Puhuja 0: on joukko ihmisiä, joilla on tosi paha olla oman päänsä sisällä. On katkeruutta ja vihaa. Ja varmasti on
+Puhuja 0: jonkun näköisiä persoonallisuuden
+Puhuja 0: ongelmia ja tällaisia.
+Puhuja 0: Ja että se on se syy, miksi tulee
+Puhuja 0: tällaista
+Puhuja 0: palautetta
+Puhuja 0: tai
+Puhuja 0: tällaisia viestejä tuntemattomilta ihmisiltä.
+Puhuja 0: Joten mun
+Puhuja 0: mielestä ihmiset, jotka ovat paljon julkisuudessa, pitäisi tietää tämä ja heidän pitäisi tietää, että ei näillä ole mitään väliä.
+Puhuja 0: Nämä on lähinnä
+Puhuja 0: sosiaali ja terveydenhuollollisia
+Puhuja 0: kysymyksiä.
+Puhuja 0: Yleensä mä suhtaudun tällä tavalla. Mutta
+Puhuja 0: nyt musta tuntui, että
+Puhuja 0: tässä on samalla
+Puhuja 0: joku semmoinen outo vaibi tässä hetkessä, missä
+Puhuja 0: meillä käydään sitä jotenkin niin irvokasta
+Puhuja 0: lusianeitakeskustelua.
+Puhuja 0: Niin semmoista, että pahimmat mätäpäät
+Puhuja 0: päästetty ääneen tässä maassa
+Puhuja 0: typerine typerine
+Puhuja 0: paska
+Puhuja 0: mielipiteineen.
+Puhuja 0: Ja
+Puhuja 0: sen
+Puhuja 0: päälle
+Puhuja 0: käydään tätä...
+Puhuja 0: Lauri Tähkä
+Puhuja 0: tuomio tuli
+Puhuja 0: pakottamisesta
+Puhuja 0: seksuaaliseen tekoon. Tosin se ei ole vielä lainvoimainen, koska hän voi hakea sen korkeimmalta oikeudelta
+Puhuja 0: valituslupaa.
+Puhuja 0: Sen lisäksi
+Puhuja 0: tänään tuli
+Puhuja 0: tässä ranskalaisessa
+Puhuja 0: aivan käsittämättömässä
+Puhuja 0: raiskauskeississä,
+Puhuja 0: missä
+Puhuja 0: tämmöinen Dominique
+Puhuja 0: niminen mies oli huomannut
+Puhuja 0: 72-vuotiaan
+Puhuja 0: vaimonsa.
+Puhuja 3: Molemmat eläkeläisiä. Tai se oli jatkunut pitkään. Tosi vähän eri ikäinen eri vaiheessa. Jotenkin trollannut netistä
+Puhuja 0: miehiä, että tulkaa panee hänen
+Puhuja 0: huomattua vaivaa.
+Puhuja 0: Kymmenet miehet oli tulleet.
+Puhuja 0: Kaikennäköisiä psykopaattejahan voi olla, mutta että sinne oli tullut porukkaa, mitä en olis ikinä voinut kuvitella. Koska kaikkea tämmöistä voi varmaan myös tehdä ihan vapaaehtoisesti. Varmasti löytyy naisia, jotka haluaa, että seitsemänkymmentäkaksi miestä tulee. Ihan varmasti, maailman laaja ja suuri.
+Puhuja 3: Naisvihamielisyyden
+Puhuja 3: karisarjan. Kun
+Puhuja 0: yleensä mä uskon,
+Puhuja 0: mä oon naiivi ja mä oon ylpeästi naiivi. Mä uskon, että yhdeksänkymmentäyhdeksän
+Puhuja 0: pinnaa ihmistä on minä,
+Puhuja 0: ihan kivoja ja aika vilpittömiä ja lähinnä kiinnostuneita omista asioista. Ja sitten tietokoneella on kiva leikkiä.
+Puhuja 0: Mutta välillä tulee
+Puhuja 0: meininki,
+Puhuja 0: mitä nyt on liikaa.
+Puhuja 0: Se
+Puhuja 0: shokeraa silleen, että ehkä mä oonkin väärässä.
+Puhuja 0: Ehkä ihmiset on
+Puhuja 2: aivan perseestä suurin osa. Ei ole suurin osa. En usko siihen kyllä vieläkään. Ja tavallaan ajattelen, että aina on tapahtunut hirveitä asioita. Ja
+Puhuja 2: viisitoista vuotta sitten, että Lucioneidon
+Puhuja 2: valitsema järjestö ei itse halunnut siihen ilmeisesti tuumaihoista
+Puhuja 2: lalusia.
+Puhuja 2: Nyt pitää ehkä tarkistaa,
+Puhuja 2: mutta näin tällaisenkin
+Puhuja 2: uutisen jossain.
+Puhuja 2: Tavallaan myös ajat muuttuu.
+Puhuja 2: Ehkä nyt huumetun
+Puhuja 2: vaimon joukkoraiskaaminen ei ole koskaan ollut hyväksyttyä, mutta
+Puhuja 2: nyt näistä asioista myös puhutaan ja sen takia ne on esillä. Mutta
+Puhuja 2: olin aidosti yllättynyt siitä reaktiosta,
+Puhuja 2: että se Fatim Diarran kirjan mukaan ei olisi voinut olla aito.
+Puhuja 2: Se oli minusta niin, että mitä ihmettä.
+Puhuja 2: Olen viime aikoinakin
+Puhuja 2: haastatellut maahanmuuttajia ihan eri aiheista, mutta sitten olen mennyt kysynyt, että
+Puhuja 2: mitäs tämä rasismia on joka ikisellä
+Puhuja 2: valtava määrä kokemuksia siitä. Se oli minusta aivan älytöntä, ettei voisi olla tämä teema. Kyllä, ja sitten on jännä
+Puhuja 3: ajatus, että eduskunnan puhemies, jolla tuntuu, että sillä varmaan on muutakin tekemistä, niin sitten se seuraa jotain tuommoista X:n syvämpään
+Puhuja 3: Tai
+Puhuja 3: miten
+Puhuja 3: se
+Puhuja 3: sitten sanoo, että ei minulla ole enää mitään kommentoitavaa. Siitä tulee lähinnä sellainen olo,
+Puhuja 3: että onko asiat oikeassa järjestyksessä pöydällä hänellä.
+Puhuja 0: Saanko lisätä tuohon vielä? Sä haluat lisätä toki. Jussi Halla-aho,
+Puhuja 0: jos kuka on julkisuuden ihminen Jussi Halla-aho, jos kuka tietää mitä kaikkea paskaa, hän saa varmasti joka päivä sanko kaukavasta samaa kamaa, mitä Fatim tiedän. Hän tietää tasan tarkkaan, että se on aito ja oikea, koska tuommoista
+Puhuja 0: tulee. Ei se ole Halla-aholle mikään kysymys. Niin siis, jos miettii, että tietää, että se on.
+Puhuja 3: Sitä on.
+Puhuja 3: Eihän tarvitse, kun avaa silmät ja menee internetiin, niin näkee rasismia ja rasistista kirjoittelua
+Puhuja 3: hurumökkejä, niin minusta se on naurettava ajatus. Tokihan teoriassa voisi olla mahdollista, että joku kansanedustaja
+Puhuja 3: ja eikö meillä nyt jotain caseja olekin, että on jotain asioita ehkä liioiteltu? Tai olihan sillä Halla-aholla itselläänkin se joku polkupyörän takarenkaan runomiskeissi,
+Puhuja 3: jonka Marko Junkkari sitten jonkun
+Puhuja 3: etsivän avulla selvitti, ettei se ollutkaan sen polkupyörä takarengasta.
+Puhuja 3: Katsotaan lukea
+Puhuja 0: vanha.
+Puhuja 3: Niinhän se on.
+Puhuja 0: Koska kuuluisin
+Puhuja 0: tämmöinen feikattu
+Puhuja 0: uhkaus
+Puhuja 0: on
+Puhuja 0: amerikkalaiselta
+Puhuja 0: mustalta näyttelijältä kuin Just in Smallet.
+Puhuja 0: Fiksu.
+Puhuja 0: Hufvudstadsbladet totolta
+Puhuja 0: kyllä.
+Puhuja 0: Hän feikkasi oman pahoinpitelynsä
+Puhuja 0: ja yritti väittää, että sillä oli
+Puhuja 3: rasistisia motiiveja. Hän täysin lavasti sen. Joo. Ja siis sanoin siitä Halla-ahon polkupyörästä vielä sen, että Halla-aho ei yrittänyt feikata, vaan hän varmasti ihan aidosti sekoitti
+Puhuja 3: vain asioita ja luuli, että se oli hänen polkupyöräsä takarengas.
+Puhuja 3: Se oli absurdi juttu historiasta,
+Puhuja 3: mutta onhan se
+Puhuja 3: aivan ilmiselvää, että rasismia on,
+Puhuja 3: ja minusta
+Puhuja 3: sen kyseenalaistaminen tuntuu jotenkin
+Puhuja 3: omituiselta. Mutta ilmeisesti siellä oli jotkut nettitsivät
+Puhuja 3: suurennellut kuvia ja tulleet siihen tulokseen. Jotkut ryfyt oli väärällä tavalla niissä. Ei ne ole perehtynyt tarkemmin.
+Puhuja 0: Okei. Sitten kun
+Puhuja 0: mistä me edes aluksi puhuttiin?
+Puhuja 0: Sitten, kun viimeinkin,
+Puhuja 0: herrajumala viimeinkin
+Puhuja 0: Yhdysvaltain suurlähetysistä kutsuu,
+Puhuja 0: heidätt glögille.
+Puhuja 0: Siellä on vähän jäykkää ja jännittävää olla siellä.
+Puhuja 0: Lattiat on vahattu niin, että ne kiiltävät ja kalusteet ovat hienoja
+Puhuja 0: ja
+Puhuja 0: mahti tuntuu niskassa.
+Puhuja 0: Siinä teidän pitää keksiä vähän jotain jutusteltavaa
+Puhuja 0: suurlähetysten henkilökunnan kanssa. Mistä aiotte
+Puhuja 0: juodessanne
+Puhuja 0: Papsed Blue Ripön oluita,
+Puhuja 0: joita mä olen suuri Paps Blue ystävä, koska Lanadelreiray
+Puhuja 0: laulaa Paps Blue Ripboneeistä.
+Puhuja 0: Siinä niitä siemalle teidänmmistä jutuista
+Puhuja 0: kirjoittaa.
+Puhuja 2: Kysyn, että olenko he nähnyt Subody Samuel Arth
+Puhuja 2: tv-sarjan kolmannen ja viimeisen kauden, jonka
+Puhuja 2: just katsoin. Mulla on pieni muistikuva, että mä olen ehkä heikuttanut sitä sarjaa ennenkin täällä. Mutta se on semmoinen pieni
 Puhuja 2: ihana sarja
 Puhuja 2: Maxlla Hopeon sarja,
 Puhuja 2: joka sijoittuu Manhattanille,
-Puhuja 2: mutta ei New Yorkin Manhattanille,
-Puhuja 2: vaan kansasiin
+Puhuja 2: mutta ei New Yorkin Manhattanille, vaan kansasiin
 Puhuja 2: amerikkalaiseen
 Puhuja 2: pikkukaupunkiin.
-Puhuja 2: Se on oikein semmoista lämmintä amerikkalaista
+Puhuja 2: Se on
+Puhuja 2: oikein lämmintä
+Puhuja 2: amerikkalaista
 Puhuja 2: komediodraamaa
-Puhuja 2: jotenkin pikkukaupunki
-Puhuja 2: parhaimmillaan.
-Puhuja 2: Päähenkilö on semmoinen
-Puhuja 2: Brighet Evert, joka on ihan mieletön
-Puhuja 2: hahmo. Kaparea tähti isokokoinen nainen laulaa upeasti myös. Laulaa aina välillä siinä sarjassa. Sitten siinä on tämmöiset pikkukaupungin
+Puhuja 2: jotenkin
+Puhuja 2: pikkukaupunki
+Puhuja 2: parhaimmillaan. Päähenkilö on semmoinen Briget Evert, joka on ihan mieletön
+Puhuja 2: hahmo. Kaparee tähti isokokoinen nainen laulaa upeasti myös. Laulaa aina välillä siinä sarjassa. Sitten siinä on tämmöiset pikkukaupungin
 Puhuja 2: queer ihmiset ja
 Puhuja 2: niiden elämä ja
 Puhuja 2: tunteet
-Puhuja 2: ja isot elämän,
+Puhuja 2: ja isot elämän
 Puhuja 2: ihmissuhdekysymykset
 Puhuja 2: semmoisessa
-Puhuja 2: hyvin
-Puhuja 2: parhaalla tavalla lämminhenkisessä
+Puhuja 2: hyvin parhaalla tavalla lämminhenkisessä
 Puhuja 2: muodossa.
 Puhuja 2: Ja tosiaan se sarja nyt päättyi kolmanteen kauteen, joka
 Puhuja 2: tuli ulos ihan äskettäin.
-Puhuja 2: Mielestäni kaikkien pitää katsoa sitä, että se on minusta parasta TV:tä, mitä olen nähnyt pitkän aikaa. Hyvä. Olen kaivannut juuri jotain tuollaista.
+Puhuja 2: Mielestäni kaikkea pitää katsoa sitä, että se on minusta parasta TV:tä, mitä olen nähnyt pitkän aikaa. Hyvä. Olen kaivannut juuri jotain tuollaista.
 Puhuja 0: Sopiiko
 Puhuja 0: minkä ikäisille lapsille?
-Puhuja 2: Mitä veikkait? Kyllä varmasti.
+Puhuja 2: Mitä veikkaat? Kyllä varmasti.
 Puhuja 2: Ei ole mitään härskyksiä.
-Puhuja 0: Mukava katsoa iskän kanssa. Okei.
-Puhuja 1: Valta ja se, mitä valta tekee ihmiselle, niin se on ehkä kulttuurissa yksi
-Puhuja 1: keskeisimpiä teemoja, joita käsitellään
-Puhuja 1: kaikenlaisissa kulttuurituotteissa. En tiedä musiikissa ehkä ei, mutta
-Puhuja 1: näytelmissä,
-Puhuja 1: elokuvissa ja tv-sarjoissa.
-Puhuja 1: Niin tässä minunkin
-Puhuja 1: suosituksessani.
-Puhuja 1: Tässä
-Puhuja 1: näyttämönä on tämmöinen fiktiivinen
-Puhuja 1: eurooppalainen pikku valtio,
-Puhuja 1: joka sijaitsee jossain
-Puhuja 1: Keski-Euroopassa,
-Puhuja 1: jossa
-Puhuja 1: eletään todella
-Puhuja 1: oudossa todellisuudessa.
-Puhuja 1: Siellä on tällainen
-Puhuja 1: kansleri,
-Puhuja 1: joka hallitsee,
-Puhuja 1: Elena Vernam, joka hallitsee
-Puhuja 1: omaa pikkuvaltiotaan
-Puhuja 1: ja
-Puhuja 1: hän on vähän vinksallaan.
-Puhuja 1: Hän esim.
-Puhuja 1: Tämä alkaa tavallaan sellaista kuviosta, että Elena koko ajan epäilee, että siellä on jotain hometta tai jotain eri paikoissa.
-Puhuja 1: Ilma siellä palatsissa on jotenkin huono, ja hänellä kulkee semmoinen
-Puhuja 1: avustaja koko ajan mittaamassa jotain ilman
-Puhuja 1: eri pitoisuuksia. Tämä ei ole ollenkaan hulluinta, mitä siinä sitten myöhemmin hän alkaa uskoa kaikenlaisiin asioihin. Muun muassa siihen, että myös höyrytetyt
-Puhuja 1: perunat, kun niitä laitetaan palatsiin
-Puhuja 1: all over the Place, niin sitten ne tuovat jotain terveysvaikutuksia.
-Puhuja 1: Sitten hänellä on balsamoitu
-Puhuja 1: isä.
-Puhuja 1: Hänen puolueensa edellinen johtaja on balsamoituna siellä palatsi alakerrassa ja sen kanssa sitten hän käy siellä kummallisia
-Puhuja 1: keskusteluja.
-Puhuja 1: Tämä sarja
-Puhuja 1: Regime,
-Puhuja 1: miten se nyt oikein lausutaan. Regime.
-Puhuja 1: Tämä
-Puhuja 1: pohjimmiltaan kertoo siitä, miten diktatuuri
-Puhuja 1: pitää itseään kasassa ja minkälaisia
-Puhuja 1: kuiskaajia,
-Puhuja 1: tällainen vallanpitäjä alkaa kuunnella.
-Puhuja 1: Ja se, mikä tässä on ihaninta,
-Puhuja 1: tykkään kovasti tästä sarjasta, ja ihaninta on se, että pääosassa on Kate winslet.
-Puhuja 1: Olen siis aina pitänyt häntä hyvänä näyttelijänä, mutta hän on aivan sairaan hyvä tässä. Joku
-Puhuja 1: arvioija oli sitä mieltä, että ei ole riittävän hauska tämä, että pitäisi naurattaa enemmän.
-Puhuja 1: Olen kyllä sitä mieltä, että huumori on jotenkin
-Puhuja 1: äärimmäisen synkkinä,
-Puhuja 1: sellaisina pilvinä leijuu siellä
-Puhuja 1: joka puolella.
-Puhuja 2: RetGi,
-Puhuja 2: HBO.
+Puhuja 0: Mukava katsoa iskän kanssa.
+Puhuja 3: Se, mitä valta tekee ihmiselle, niin se on ehkä kulttuurissa
+Puhuja 3: yksi
+Puhuja 3: keskeisimpiä teemoja, joita käsitellään kaikenlaisissa kulttuurituotteissa.
+Puhuja 3: Ehkä ei, musiikissa ehkä ei, mutta
+Puhuja 3: näytelmissä,
+Puhuja 3: elokuvissa ja tv-sarjoissa.
+Puhuja 3: Niin tässä minunkin
+Puhuja 3: suosituksessani.
+Puhuja 3: Tässä
+Puhuja 3: näyttämönä on tämmöinen fiktiivinen eurooppalainen pikku valtio,
+Puhuja 3: joka sijaitsee
+Puhuja 3: jossain Keski-Euroopassa, jossa
+Puhuja 3: eletään todella oudossa todellisuudessa.
+Puhuja 3: Siellä on tällainen
+Puhuja 3: kansleri,
+Puhuja 3: joka hallitsee,
+Puhuja 3: Elena Vernaham, joka hallitsee
+Puhuja 3: omaa pikkuvaltiotaan
+Puhuja 3: ja
+Puhuja 3: hän on vähän vinksallaan.
+Puhuja 3: Hän esim.
+Puhuja 3: Alkaa tavallaan sellaista kuviosta, että Elena koko ajan epäilee, että siellä on jotain hometta tai jotain eri paikoissa, se
+Puhuja 3: ilma siellä palatsissa on jotenkin huono ja hänellä kulkee
+Puhuja 3: avustaja koko ajan mittaamassa jotain ilman
+Puhuja 3: eri pitoisuuksia. Tämä ei ole ollenkaan hulluinta, mitä siinä sitten myöhemmin hän alkaa uskoa kaikenlaisiin asioihin. Muun muassa siihen, että myös höyrytetyt
+Puhuja 3: perunat, kun niitä laitetaan palatsiin
+Puhuja 3: all over the Place, niin sitten ne tuovat jotain terveysvaikutuksia.
+Puhuja 3: Sitten hänellä on balsamoitu
+Puhuja 3: isä,
+Puhuja 3: siis
+Puhuja 3: hänen puolueensa edellinen johtaja on balsamoituna siellä palatsi alakerrassa ja sen kanssa sitten hän käy siellä kummallisia
+Puhuja 3: keskusteluja.
+Puhuja 3: Tämä tietenkin kertoo tämä sarja
+Puhuja 3: Regime.
+Puhuja 3: Mitä se nyt oikein lausutaan? Regime.
+Puhuja 3: Tämä kertoo pohjimmiltaan
+Puhuja 3: siitä, miten diktatuuri
+Puhuja 3: pitää itseään kasassa ja minkälaisia
+Puhuja 3: kuiskaajia,
+Puhuja 3: tämmöinen vallan pitäjä, alkaa kuunnella.
+Puhuja 3: Se, mikä tässä on ihaninta,
+Puhuja 3: tykkään kovasti tästä sarjasta. Ihaninta on se, että pääosassa on Kate winslet.
+Puhuja 3: Olen siis aina pitänyt häntä hyvänä näyttelijänä, mutta hän on aivan sairaan hyvä tässä.
+Puhuja 3: Joku arvioija oli sillä tavalla ollut sitä mieltä, että ei ole riittävän hauska tämä, että pitäisi naurattaa enemmän. Mutta olen kyllä sitä mieltä, että huumori on jotenkin äärimmäisen
+Puhuja 3: synkkinä, sellaisena
+Puhuja 3: pilvinä. Ne leijuu siellä
+Puhuja 3: joka puolella.
+Puhuja 3: No ReetBo.
 Puhuja 0: Itä-Euroopan
 Puhuja 0: kirjallisuus on monesti semmoista, että se kuvaa tosi synkkiä,
 Puhuja 0: jotain hirmuvaltaa ja tällaista. Siinä on koko
-Puhuja 1: ajan semmoinen absurdi huvtifika. Siis se absurditeetti karmeo
-Puhuja 0: absurdi. Just se kaikki.
+Puhuja 3: absurdihuivi. Siis sellainen absurditeetti,
+Puhuja 0: karmea absurdihuivi.
 Puhuja 0: Mä katsoin ensimmäisen jakson siitä joskus. Se oli kyllä
 Puhuja 0: hyvän oloinen sarja.
-Puhuja 0: Hei, mulla on muutama asia. Yksi pyyntö tähän
-Puhuja 0: alkuun.
-Puhuja 0: Mä päästän teidät joululomille ja mä teen ensi viikon jakson
+Puhuja 0: Mulla on muutama asia. Yksi pyyntö tähän
+Puhuja 0: alkuun. Mä
+Puhuja 0: päästän teidät joululomille ja mä teen ensi viikon jakson
 Puhuja 0: yksikseni.
 Puhuja 0: Sitä silmällä pitäen, jos teillä
 Puhuja 0: rakkaat kuulijat
 Puhuja 0: on mitään,
 Puhuja 0: ehdottakaa asioita, mistä mä voin puhua.
-Puhuja 0: Neuv voi olla kysymysten muodossa. Voitte kirjoittaa
+Puhuja 0: Neuvojalla kysymysten muodossa. Voitte kirjoittaa
 Puhuja 0: limerikkejä, jos osaatte hyvin Irlannin englantia.
 Puhuja 0: Voitte
 Puhuja 0: sanoa mielipiteenne
-Puhuja 0: lähettää esseen. Mä luen sen ääneen. Mitä vaan. Laittakaa mulle Instagramiin
+Puhuja 0: lähettää esseen. Mä luen sen ääneen. Mitä vaan, laittakaa mulle Instagramiin
 Puhuja 0: tai sähköpostiintuoma.
 Puhuja 0: Peltomakihs.
-Puhuja 0: Fi, mä
-Puhuja 0: teen ensi viikon jakson niillä voimin. Toinen
-Puhuja 0: Tää on huomio, että on meneillään tämmöinen uutisprosessi, joka on vähän pienelle jäänyt, mutta Helsingin hallinto-oikeus on ottanut kantaa Ukrainan asevoimien tukemiseen
+Puhuja 0: Fi,
+Puhuja 0: teen ensi viikon jakson niillä voimin.
+Puhuja 0: Toinen... Tää on huomio, että on meneillään tämmöinen uutisprosessi, joka on vähän pienelle jäänyt, mutta Helsingin hallinto-oikeus on ottanut kantaa Ukrainan asevoimien tukemiseen
 Puhuja 0: ja kouluttamiseen
 Puhuja 0: tähtäävien
 Puhuja 0: rahankeräysten
 Puhuja 0: kannalta.
-Puhuja 0: Sitten se on päätynyt siihen, että Suomessa ei saa kerätä suoraan Ukrainan asevoimille
+Puhuja 0: Sitten se on päätynyt siihen, että Suomessa ei saa kerätä suoraan
+Puhuja 0: Ukrainan asevoimille
 Puhuja 0: rahaa. Se on totta kai semmoinen, mitä tosi moni tällä hetkellä just nyt, kun Ukraina on jäämässä ihan usein,
-Puhuja 0: haluaisi tehdä. Tämmöinen oikeuskeissi on parhaillaan meneillään. Keskustelu
-Puhuja 0: ympärillä käy niissä piireissä tosi kuumana. Jotenkin haluaisin sanoa, että kiinnittäkää tuohon huomiota. Moni uutisraportin
+Puhuja 0: haluaisi tehdä.
+Puhuja 0: Tämmöinen oikeuskeissi on parhaillaan meneillään. Keskustelu sen ympärillä käy niissä piireissä tosi kuumana. Jotenkin haluaisin sanoa, että kiinnittäkää tuohon huomiota. Moni uutisraportin
 Puhuja 0: kuulijahan lahjoitti Ukrainalle
-Puhuja 0: rahankeräyksen kautta useita tuhansia. Neljä nolla euroa lähti Ukrainalle, siis tältä podcastlta.
-Puhuja 0: Sen takia
-Puhuja 0: teitä osaa saattaa tämä kiinnostaa. Okei, sitten vielä viimeinen.
+Puhuja 0: rahankeräyksen
+Puhuja 0: kautta useita tuhansia. Neljä nolla euroa lähti Ukrainalle, siis tältä podcastlta.
+Puhuja 0: Sen takia teitä osaa saattaa tämä kiinnostaa. Okei. Sitten vielä viimeinen.
 Puhuja 0: Mun piti tehdä tämä ehkä joskus jo aiemmin.
 Puhuja 0: Mutta kun
 Puhuja 0: vuosi
 Puhuja 0: vaihtuu,
 Puhuja 0: alkaa uusi aikakausi. Meillä oli paljon tätä USA-Eurooppa-asiaa.
-Puhuja 0: Sitten Trump tulee. Olen satavarma, että Trumpin aikana tulee taas Trumpin meininki. Se tulee hallitsemaan
-Puhuja 0: seuraavaa
-Puhuja 0: elämää, mitä me aletaan tässä nyt elämään.
+Puhuja 0: Asiaa. Sitten Trump tulee.
+Puhuja 0: Olen satavarma, että Trumpin aikana
+Puhuja 0: tulee taas Trumpin meininki. Se tulee hallitsemaan
+Puhuja 0: seuraavaa elämää, mitä me aletaan tässä nyt elämään.
 Puhuja 0: Halusin sanoa vielä loppuun sen, että
 Puhuja 0: Joe Bidenhan
-Puhuja 0: on presidenttinä. Hän saattaa saa olla montaa mieltä. Mutta hän on hieno mies.
+Puhuja 0: on presidenttinä. Hän saattaa olla montaa mieltä. Mutta hän on hieno mies.
 Puhuja 0: Hän on erittäin hieno tyyppi.
-Puhuja 0: Vaikka onkin vähän semmoinen sinile-käppaukko
+Puhuja 0: Vaikka onkin vähän semmoinen senilikäppäukko
 Puhuja 0: nykyään,
 Puhuja 0: Hänessä on jotain semmoista, mitä mä en suomalaisissa poliitikoissa
-Puhuja 0: usein löydä. Hänessä on jotain
+Puhuja 0: usein löydä.
+Puhuja 0: Hänessä on jotain
 Puhuja 0: jännää sivistystä,
-Puhuja 0: mitä mä
-Puhuja 2: arvostan. Esimerkiksi se, että hän armmattipoikansa. Eikö armaatti? Ei Nuorempaakaan Joe Bidenia ei kyllä varmasti pidetty
+Puhuja 0: mitä arvostan.
+Puhuja 3: Esimerkiksi se, että hän armahti poikaansa.
+Puhuja 2: Eikö armahti?
+Puhuja 2: Nuorempaakaan Joe Bidenia ei kyllä varmasti pidetty
 Puhuja 2: sivistyneeimpänä
-Puhuja 2: Yhdysvaltain politiikasta.
-Puhuja 0: Koska mä olen ihaillyt Joe Bidenissa. Siis ihme tällainen vuodato.
-Puhuja 0: Sitä,
+Puhuja 2: yhdessä jostain politiikasta.
+Puhuja 0: Koska mä olen iha ollut Joe Bidenissa. Siis ihme tällainen vuona tuossa. Sitä,
 Puhuja 0: että
-Puhuja 0: hänen sukujuuret on Irlannissa.
+Puhuja 0: hänen sukujuuret on siis Irlannissa.
 Puhuja 0: Hän esimerkiksi, kuten monet irlantilaiset,
 Puhuja 0: arvostaa runoutta hyvin korkealle.
 Puhuja 0: Yksi mun lempivideoita
 Puhuja 0: koko YouTubessa
-Puhuja 0: on, kun Jobiden
-Puhuja 0: lukee irlantilaisrunoilija,
+Puhuja 0: on, kun Jobiden lukee
+Puhuja 0: irlantilaisrunoilija,
 Puhuja 0: joka erinomainen irlantilaisrunoilija,
 Puhuja 0: Xam
 Puhuja 0: Shames
@@ -201,32 +404,62 @@ Puhuja 0: Hiiniin
 Puhuja 0: The Cure at Troi runon.
 Puhuja 0: Haluaisin osata lukea tämän ja lausua tämän yhtä hyvin kuin Jobiden, koska tämä on aivan täydellinen.
 Puhuja 0: Soitan sen teille tästä läppäristä nyt.
-Puhuja 0: Sitten Mikko vaihtaa sen
+Puhuja 0: Mikko vaihtaa sen
 Puhuja 0: ihan ok-ääniraidan
-Puhuja 0: tähän podcastiin. Tässä tulee Joe Bidenin lukemana Tämä on siis hyvin lyhyt.
+Puhuja 0: tähän podcastiin.
+Puhuja 0: Tässä tulee Joe Bidenin lukemana... Tämä on siis hyvin lyhyt.
 Puhuja 0: Joe Bidenin lukemana
 Puhuja 0: The Cucure At Troi.
-Puhuja 3: They get hurt and get hard.
-Puhuja 3: No poli more more play or song can fully rat the wrong
-Puhuja 3: inflicted an in doed.
-Puhuja 3: History sades, don't hope an this sideden the great.
-Puhuja 3: Et then,
-Puhuja 3: once in a lifetime.
-Puhuja 3: The long ford title way weived of justess kin rise up and
-Puhuja 3: hope and history
-Puhuja 3: rime.
-Puhuja 3: So a hope for a great see change on a far sight of renkige.
-Puhuja 3: Bolive that a further shur is reachiable for you.
-Puhuja 3: Bolive in mercles and heading welf.
-Puhuja 3: Coal mercle self feelin
-Puhuja 3: and other selfribing
-Puhuja 3: toble take a filey.
-Puhuja 3: If there is fire in the maut
-Puhuja 3: were light in in a stourm
-Puhuja 3: and good speks for usky.
-Puhuja 3: That means, some is hereing the out cri in the birth crive a new life
+Puhuja 1: They get hur and get hard.
+Puhuja 1: No the poll more play or song can fully rat the wrong
+Puhuja 1: inflicted an end dode.
+Puhuja 1: History sades,
+Puhuja 1: don't hope an this sideden the great.
+Puhuja 1: Et then,
+Puhuja 1: once in a lifetime.
+Puhuja 1: The long forward title way of justhess can rise up
+Puhuja 1: and hope and history riime.
+Puhuja 1: So a hope for a great see change on a far side of riverge.
+Puhuja 1: Balived that a further shur is reachiable for you.
+Puhuja 1: Balive in mercles and heini welf.
+Puhuja 1: Coal mercle selfhimiing
+Puhuja 1: and other selfribing
+Puhuja 1: doble take a feelin.
+Puhuja 1: If there is fire in the maut,
+Puhuja 1: where light in in the stream
+Puhuja 1: and good speks for the scy.
+Puhuja 1: That means Some is here in the out cri and the birth crive a new life at as term.
 Puhuja 0: Siinä oli Joe Biden.
 Puhuja 0: Hieno mies.
-Puhuja 0: Siinä kaikki tältä erää. Kiitos Anna-Sofia Berner. Kiitos. Kiitos. Kiitos.
-Puhuja 0: Mun nimi on Tuomas Pelmäki. Äänen ja kuva ja kaiken muun mahtava meille tekee tällä viikolla Mikko Peura. Ja pliis, lähettäkää mun aineksia ensi viikolla.
-Puhuja 0: Me kuullaan siis sillä!
+Puhuja 0: Siinä kaikki tältä erää. Kiitos Anna-Sofia Berner. Kiitos. Kiitos Salla Vuorikoski.
+Puhuja 0: Kiitos. Mun nimi on Tuomas Pelmäki. Äänen ja kuvaaja kaiken muun mahtava meille tekee tällä viikolla
+Puhuja 0: Mikko Peura. Ja
+Puhuja 0: pliis, lähettäkää mun
+Puhuja 0: aineksia ensi viikolle.
+Puhuja 0: Me kuullaan siis.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi
+Puhuja 0: podcast menetetyt miljardit kertoo
+Puhuja 0: tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

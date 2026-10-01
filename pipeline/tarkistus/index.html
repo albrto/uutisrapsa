@@ -81,6 +81,10 @@
   #tr-rivit p { margin: 0 0 4px; }
   #tr-rivit .puhuja { font-weight: 700; margin-right: 4px; }
   #tr-rivit mark { background: var(--korostus); color: inherit; border-radius: 2px; }
+  .tr-soitin { padding: 8px 12px; border-bottom: 1px solid var(--reuna); display: flex; flex-direction: column; gap: 4px; }
+  .tr-soitin audio { width: 100%; height: 36px; }
+  #tr-rivit p { cursor: pointer; border-radius: 2px; }
+  #tr-rivit p:hover { background: var(--pinta2); }
   #tr-rivit p.nykyinen { outline: 2px solid var(--aksentti); outline-offset: 2px; border-radius: 2px; }
   .tr-tyhja { color: var(--toissijainen); padding: 20px; }
   #ilmoitus { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--teksti); color: var(--bg);
@@ -113,6 +117,8 @@
       <button class="nappi" id="tr-seuraava" title="Seuraava osuma">↓</button>
       <span class="meta" id="tr-osumat"></span>
     </div>
+    <div class="tr-soitin"><audio id="soitin" controls preload="metadata"></audio>
+      <span class="meta" id="soitin-tila">Klikkaa riviä kuunnellaksesi sen kohdan.</span></div>
     <div id="tr-rivit"><p class="tr-tyhja">Valitse ehdotuksesta ”Näytä transkriptiossa”.</p></div>
   </aside>
 </main>
@@ -402,11 +408,20 @@ async function naytaTranskriptio(jaksoId, i) {
   if (transkriptiJakso !== jaksoId) {
     const r = await fetch("/transkripti?id=" + encodeURIComponent(jaksoId));
     const teksti = await r.text();
-    document.getElementById("tr-rivit").innerHTML = teksti.split("\n").map(rivi => {
+    const rivit = teksti.split("\n");
+    document.getElementById("tr-rivit").innerHTML = rivit.map((rivi, n) => {
       const m = rivi.match(/^Puhuja (\d+):\s?(.*)$/);
-      if (!m) return `<p>${esc(rivi)}</p>`;
-      return `<p data-teksti="${esc(m[2])}"><span class="puhuja" style="color:var(--p${+m[1] % 6})">P${m[1]}</span><span class="rt">${esc(m[2])}</span></p>`;
+      if (!m) return `<p data-i="${n}">${esc(rivi)}</p>`;
+      return `<p data-i="${n}" data-teksti="${esc(m[2])}"><span class="puhuja" style="color:var(--p${+m[1] % 6})">P${m[1]}</span><span class="rt">${esc(m[2])}</span></p>`;
     }).join("");
+    // Soitin: täysi jakso + rivien aikaleimat (jos tallennettu litteroinnissa)
+    const a = await (await fetch("/aani?id=" + encodeURIComponent(jaksoId))).json();
+    AANI = { ajat: a.ajat, rivit: rivit.length };
+    const soitin = document.getElementById("soitin");
+    soitin.src = a.audio_url || "";
+    document.getElementById("soitin-tila").textContent = a.audio_url
+      ? (a.ajat ? "Klikkaa riviä kuunnellaksesi sen kohdan." : "Klikkaa riviä — kohta on arvio (±1 min), tarkkoja aikaleimoja ei ole tälle jaksolle.")
+      : "Tälle jaksolle ei löytynyt äänitiedostoa.";
     transkriptiJakso = jaksoId;
     document.getElementById("tr-otsikko").textContent = `${jakso.paivamaara} · transkriptio`;
     document.querySelectorAll(".jakso").forEach(el => el.classList.toggle("aktiivinen", el.id === "j-" + jaksoId));
@@ -436,6 +451,47 @@ function korosta(sanat) {
   seuraavaOsuma();
 }
 
+// --- Soitin: transkription rivi → kohta täydessä jaksossa ---
+// Transkriptio on leike: jakson ensimmäiset 5 min + viimeiset 20 min.
+let AANI = null;
+const ALKU_S = 300, LOPPU_S = 1200;
+
+function rivinKohta(i) {
+  const soitin = document.getElementById("soitin");
+  if (!AANI) return null;
+  if (AANI.ajat && AANI.ajat.rivit[i] != null) {
+    const t = AANI.ajat.rivit[i], l = AANI.ajat.leike;
+    return { aika: t < l.alku_s ? t : l.loppu_alku_s + (t - l.alku_s), tarkka: true };
+  }
+  const kesto = soitin.duration;
+  if (!isFinite(kesto) || !kesto) return null;
+  // Arvio: rivin osuus leikkeestä × leikkeen kesto (puhenopeus oletetaan tasaiseksi)
+  const leike = Math.min(kesto, ALKU_S + LOPPU_S);
+  const t = (i / Math.max(AANI.rivit, 1)) * leike;
+  return { aika: t < ALKU_S ? t : Math.max(ALKU_S, kesto - LOPPU_S) + (t - ALKU_S), tarkka: false };
+}
+
+const mmss = t => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, "0")}`;
+
+function kelaaRiville(i, soita) {
+  const soitin = document.getElementById("soitin");
+  const tee = () => {
+    const k = rivinKohta(i);
+    if (!k) return;
+    // Pari sekuntia ennen riviä, ja arviossa enemmän, jotta puhuja ehtii kuulua
+    soitin.currentTime = Math.max(0, k.aika - (k.tarkka ? 2 : 20));
+    document.getElementById("soitin-tila").textContent =
+      `Kohta ${mmss(k.aika)}${k.tarkka ? "" : " (arvio, ±1 min)"} — klikkaa mitä tahansa riviä.`;
+    if (soita) soitin.play().catch(() => {});
+  };
+  if (soitin.readyState >= 1) tee(); else soitin.addEventListener("loadedmetadata", tee, { once: true });
+}
+
+document.getElementById("tr-rivit").addEventListener("click", ev => {
+  const p = ev.target.closest("p[data-i]");
+  if (p) kelaaRiville(+p.dataset.i, true);
+});
+
 function seuraavaOsuma() {
   if (!osumat.length) return;
   osumat[osumaIdx]?.classList.remove("nykyinen");
@@ -443,6 +499,7 @@ function seuraavaOsuma() {
   const p = osumat[osumaIdx];
   p.classList.add("nykyinen");
   p.scrollIntoView({ block: "center", behavior: "smooth" });
+  kelaaRiville(+p.dataset.i, false);
   document.getElementById("tr-osumat").textContent = `${osumaIdx + 1} / ${osumat.length}`;
 }
 

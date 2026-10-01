@@ -1,219 +1,445 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin torstaina sataviisikymmentäneljä.
-Puhuja 0: Minun nimeni on Emil Elo ja kanssani täällä Sanomatalon viileessä seiska-kerroksen
-Puhuja 0: studiossa ovat Helsingin Sanomien ulkomaantoimittaja
-Puhuja 0: Sara Vainio. Moikka.
-Puhuja 0: Sekä HSY:n
-Puhuja 0: teknologiatoimittaja Niclas Storaos.
-Puhuja 0: Moi.
-Puhuja 0: Käydään heti nyt nämä ilmoitusluonteiset
-Puhuja 0: asiat läpi. Nyt on ihan saakelin kuuma ulkona ja me ollaan duunissa.
-Puhuja 0: Niclas puhu mulle, miten olet pärjännyt?
-Puhuja 2: Täytyy sanoa, että kyllä lämpö on vaikuttanut yöuniin. Oma yritä pitää ikkunoita auki, mutta ei se auta ja tuuletin päällä.
-Puhuja 2: Nukkuu lakanoissa,
-Puhuja 2: mutta on tullut nukuttua aika huonosti viimeiset pari viikkoa.
-Puhuja 2: Karseet,
-Puhuja 2: Sara.
-Puhuja 1: Mullakin alkaa olla energiat aika lopussa. Oon nyt
-Puhuja 1: päässyt onneksi täksi viikoksi töihin tänne sanomataloon
-Puhuja 1: ilmastoituun tilaan, mutta mä pääsin tänne sillä verukkeella, että mä pyörryin himaan.
-Puhuja 1: Siellä on kaksikymmentäyksi neliötä. Se on pieni
-Puhuja 1: sauna.
-Puhuja 1: Ja myöskään en saa nukuttua, olen
-Puhuja 1: pari kertaa jo. Tää on tällainen uutta loma vasta muuttanut,
-Puhuja 1: niin pari kertaa jo viikonloppuyönä
-Puhuja 1: herännyt siihen, että joku väkivaltaisesti
-Puhuja 1: oksentaa.
-Puhuja 0: Okei,
-Puhuja 0: tein sen, mitä kaikki yli kolmekymppiset
-Puhuja 0: keski-ikätyvät miehet tekee. Lähdin mun mutsin luo etsimään etätöihin, missä siellä on ilmalämpöpumppu.
-Puhuja 0: Olen ollut kaksi viikkoa siellä etätöissä. Se on ollut
-Puhuja 0: ihan toimiva ratkaisu.
-Puhuja 0: Mutta hei, mennään tämän viikon aiheisiin.
-Puhuja 0: Heinäkuun tapa ihan tätä asiaa. Ensin pyöritään Kuubassa,
-Puhuja 0: sitten käydään vähän EU:ssa
-Puhuja 0: ja lopulta puhutaan marjan poimijoista.
-Puhuja 0: Yli kuusikymmentä vuotta sitten Dedel Alledro Castro Roos
-Puhuja 0: astui Kuubassa valtaan ja aloitti marxisti Leninistisen
-Puhuja 0: vallankumouksen.
-Puhuja 2: Tilalliset
-Puhuja 2: tai työtä välittävät tahot eivät ole riittävän ammattitaitoisia.
-Puhuja 1: Vai onko niitä tarpeeksi valvontaa, pitäisikö sitä olla? Mä en osaa sanoa. Miten te olette nähneet sen? Musta tuntuu, että ne argumentit on, että tämä ala on tällainen, että tätä voi hoitaa vaan.
-Puhuja 1: Nämä
-Puhuja 1: säännöt ovat ikään kuin kohtuuttomia ottaen huomioon tämän alan tarpeet. Mutta vasta-argumentti
-Puhuja 0: tuohon on heti se, että valtaosa näistä marjatiloista on hoitanut ilmeisesti asiansa ihan hyvin. Tavallaan, että työntekijöiden oikeudet pätevät ja niillä on ihan
-Puhuja 1: kelvolliset. Tuo on tosi huono argumentti. Huom! En mitenkään nyt aja sitä tässä. Mun mielestä se on ollut se argumentti,
-Puhuja 1: että sitten marjat mätänee
-Puhuja 1: pellolle, nör, nör, nör. Että sitten ette saa mansikoita.
-Puhuja 1: Mun mielestä
-Puhuja 1: suomalaiset ansaitsee pettuleipää,
-Puhuja 1: jos ei ne ole niin kuin Mä siirryn vadelma ihmiseksi, mikäli
-Puhuja 0: tällaiseksi menee tämä keskustelu. Piirin näiden työntekijöiden olosuhteiden
-Puhuja 0: ympärillä.
-Puhuja 0: Mutta tuo on ihan totta.
-Puhuja 0: Tai miten sä kritisoit tätä argumenttia. Sä
-Puhuja 0: voit
-Puhuja 0: palkata ihmisiä keräämään mansikoita ja tehdä niille hyvät työsopimukset.
-Puhuja 0: Ja tehdä niille sellaiset olosuhteet, että ne voi nukkua ilman hometta
-Puhuja 1: ilmaa. Se on ihan mahdollista. Ja jos sä et voi, niin
-Puhuja 1: mansikka ei ole mansikan
-Puhuja 1: syömisestä
-Puhuja 0: kenenkään elämä tässäkin. Niin, ei se ole mikään itseisarvo.
-Puhuja 1: Niin.
-Puhuja 2: Jokaiseen mansikkafirmaan
-Puhuja 2: tarjotaan vastuullisuusjohtaja. Ja HR-päälle.
-Puhuja 2: Mä
-Puhuja 1: oon
-Puhuja 1: lähtenyt tässä
-Puhuja 1: vähän turkisalalinjalle.
-Puhuja 1: Jos sitä hommaa ei voi hoitaa hyvin
-Puhuja 1: tai mitenkään eettisesti,
-Puhuja 1: niin ei sitä tarvitse hoitaa.
-Puhuja 0: Tämä
-Puhuja 0: keskusteluhan tähän voi vähän skaalata, koska eri laskelmien mukaan Suomi tulee tarvitsemaan noin satakolmekymmentä
-Puhuja 0: nolla työperäistä maahanmuuttajaa
-Puhuja 0: tämän vuosikymmenen aikana.
-Puhuja 0: Se on fakta. Siitä Suomi ei pääse mihinkään.
-Puhuja 0: Huoltosuhdekriisi
-Puhuja 0: on jo totta.
-Puhuja 0: Me ei ehditä lisääntymään niin nopeasti, että meidän
-Puhuja 0: tulevat lapset
-Puhuja 0: tähän auttaisi enää mitään.
-Puhuja 0: Mutta tosi monethan pelkää, että yritykset
-Puhuja 0: tällä tähän tarpeeseen liittyen alkaa ottaa matalapalkkaisia
-Puhuja 0: ihmisiä ja heitä voi kohdella vähän huonosti.
-Puhuja 0: Onko tämä aiheellinen pelko teemasta? Mun mielestä se on ihan aiheellinen pelko.
-Puhuja 2: Mun mielestä kaikki, mikä lisää
-Puhuja 2: luokkajaottelu ja yhteiskuntaa, on huono kehitys. Ja tämä nimenomaan
-Puhuja 2: lisää sitä.
-Puhuja 2: Jos katsotaan
-Puhuja 2: rakennusalaa, niin siellähän on suurin osa jostain ulkomailta tulevia työntekijöitä.
-Puhuja 2: En tiedä tilastoja, mutta ainakin siltä se näyttää työmaalle, mitä itse olen seurannut.
-Puhuja 0: Mites Sara, pelkäisitkö tätä tulevaa vuosikymmentä ja työperäistä maahanmuuttaja virtaa
-Puhuja 0: Suomeen, miten heitä kohdellaan?
-Puhuja 1: Joo, kyllä mun mielestä
-Puhuja 1: nykyisellään
-Puhuja 1: ei ole näyttänyt kauhean rohkaisevalta.
-Puhuja 1: Mulla on myös ystäviä
-Puhuja 1: töissä, lähetystöissä
-Puhuja 1: tuolla
-Puhuja 1: maailmalla, jotka
-Puhuja 1: käy läpi näitä hakemuksia
-Puhuja 1: Suomeen töihin.
-Puhuja 1: Siellä on ihan hirveän ongelmallisia
-Puhuja 1: rakenteita taustalla. Sieltä hakee sellaisia ihmisiä töihin, jotka ei selvästikään ymmärrä, mihin ne on hakemassa ja ne on selvästi jo velkaa niille ihmisille,
-Puhuja 1: ketkä niitä
-Puhuja 1: auttaa hakemaan Suomeen töihin.
-Puhuja 0: Tämä on mun mielestä sellainen, tässä mennään johonkin semmoiseen tosi
-Puhuja 0: työelämän ytimeen
-Puhuja 0: tämän kysymyksen
-Puhuja 0: kautta. Minua häiritsee sellaiset
-Puhuja 0: oikeistolaiset,
-Puhuja 0: jotka aina
-Puhuja 0: haluaa sanoa liitoilla, että ne
-Puhuja 0: vain rajoittaa yritysten kasvua. Ja sitten, mikä liittoja olisi, koko yhteiskunta voisi paremmin. Tämä on aika
-Puhuja 0: selkeä osoitus siitä, mihin me erilaisia liittoja tarvitaan
-Puhuja 0: ja
-Puhuja 0: vahtimaan niitä oikeuksia, mitä heikommassa asemassa olevilla ihmisillä on.
-Puhuja 0: Ongelma tietenkin on se just, niin kuin aikaisemmin mainittiin, että näillä ei ole, näillä ulkomailta tulevilla välttämättä mitään sellaista
-Puhuja 0: asioiden hoitajaa, joka
-Puhuja 0: kollektiivisesti katsoisi heidän peräänsä.
-Puhuja 0: Kyllä. Ihan meistä suomalaisena jovialeena ihmisenä aloittaa semmoinen, että sen pitäisi tulla
-Puhuja 1: täällä olevista ihmisistä jo semmoinen yhteisö. Ehdottomasti. Se oli musta kiinnostava. Nythän oli perustettu joku tämmöinen monikielinen
-Puhuja 1: apulinja.
-Puhuja 1: En tiedä, kuinka hyvin se tavoittaa ne työntekijät, jotka tänne tulee.
-Puhuja 1: Just siinä Marjanpoimija jutussa mun mielestä viitattiin siihen.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 1: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin torstaina viisitoista. Heinäkuuta.
+Puhuja 1: Minun nimeni on Emil Elo ja kanssani täällä Sanomatalon viileässä seiska-kerroksen studiossa ovat Helsingin Sanomien ulkomaantoimittaja Sara Vainio. Moikka. Sekä HSY:n
+Puhuja 1: teknologiatoimittaja Niklas Storaos. Moi.
+Puhuja 1: Käydään heti nyt nämä ilmoitusluontoiset
+Puhuja 1: asiat läpi. Nyt on ihan saakelin kuuma ulkona. Ja me ollaan duunissa.
+Puhuja 1: Niklas puhu mulle, miten olet pärjännyt?
+Puhuja 3: Täytyy sanoa, että kyllä lämpö on vaikuttanut yöuniin.
+Puhuja 3: Oma yrittäjä pitää ikkunat auki, mutta ei se auta ja tuuletin päällä.
+Puhuja 3: Nukkuu lakanoissa, mutta
+Puhuja 3: on tullut nukuttua aika huonosti viimeiset pari viikkoa.
+Puhuja 1: Karseita,
+Puhuja 1: Sara.
+Puhuja 2: Mullakin alkaa olla energiat aika lopussa. Oon nyt
+Puhuja 2: päässyt onneksi täksi viikoksi töihin tänne Sanomataloon,
+Puhuja 2: ilmastoituun tilaan, mutta pääsin tänne sillä verukkeella, että pyörryin himaan.
+Puhuja 2: Se
+Puhuja 2: on kaksikymmentäyksi neliötä. Se on sellainen pieni sauna.
+Puhuja 2: En myöskään saa nukuttua, vaan
+Puhuja 2: pari kertaa jo. Tämä on tällainen uusi talo, olen vasta muuttanut.
+Puhuja 2: Pari kertaa jo viikonloppyönä
+Puhuja 2: herännyt siihen, että joku väkivaltaisesti oksentaa.
+Puhuja 1: Okei.
+Puhuja 1: Tein sen, mitä kaikki yli kolmekymppiset keski-ikäisetvät
+Puhuja 1: miehet tekee. Lähdin mutsin luo etsimään tätöihin, missä siellä on ilmalämpöpumppu.
+Puhuja 1: Olen ollut kaksi viikkoa siellä etätöissä. Se on ollut
+Puhuja 1: ihan toimiva ratkaisu.
+Puhuja 1: Mutta hei, mennään tämän viikon aiheisiin. Heinäkuun
+Puhuja 1: tapa ihan tätä asiaa. Ensin pyöritään Kuubassa,
+Puhuja 1: sitten käydään vähän EU:ssa ja lopulta puhutaan Marian poimiosta.
+Puhuja 1: Yli kuusikymmentä vuotta sitten Tiidel Alegro Castro Roos
+Puhuja 1: astui Kuubassa valtaan ja aloitti marxisti Leninistisen
+Puhuja 1: vallankumouksen,
+Puhuja 1: johon kansa vaikuttaisi nyt olevan vähän tyytymätön.
+Puhuja 1: Tällä lailla vuosikymmenien
+Puhuja 1: jälkeen.
+Puhuja 1: Siellä on todellalaiset protestit tuhansia ihmisiä kadulla huutamassa, haasta kun Andoa. Eikö se tarkoita,
+Puhuja 1: että
+Puhuja 1: kuinka kauan vielä?
+Puhuja 2: Kyllä.
+Puhuja 1: Sara, kerro vähän, mitä tästä pitää tietää? Sinä olet ulkomaantoimittaja.
 Puhuja 2: Joo,
-Puhuja 2: tähän mun täytyy kyllä korostaa,
-Puhuja 2: että suurin osa suomalaisista
-Puhuja 2: Mutta
-Puhuja 2: silti, että olen kuullut vuosien varrella eri toimialoilta
-Puhuja 2: ravintola,
-Puhuja 2: rakennusala, siivousala,
-Puhuja 2: tosi paljon se ikäviä stooreja. Jos ihmiset ei osaa vaikka kiellä tarpeeksi hyvin, niin niille ei tehdä työsopiparia ja niille
-Puhuja 2: alle minimipalkan pidetään hommissa.
-Puhuja 2: Onhan
-Puhuja 2: tämä harmaa talous tavallaan linkittyy myös tähän,
-Puhuja 2: mutta tämä on niin pitkään jatkunut ongelma,
-Puhuja 2: että on kummallista, että siihen ei mitään konkreettisia
-Puhuja 0: työkaluja löytynyt, millä tätä saataisiin jotenkin purettua. Sitten on jännä, että poliittista tahtoa ei ollut, koska onhan tässä, niin kuin säkin sanoit, mun mielestä tämä on keskustelu, mutta tätä on käyty niin kauan kuin olen seurannut mediaa.
-Puhuja 0: Poliittiset
-Puhuja 0: puolueet on vaihtunut hallituksesta,
-Puhuja 0: Siellä on ollut eri kokoonpanoina ja on ollut eri pääministerejä, eri puolueiden pääministerejä.
-Puhuja 0: Kukaan ei ole ottanut sitä asiakseen
-Puhuja 0: missään vaiheessa politiikassa.
-Puhuja 0: Että hei, nyt hoidetaan tämä kuntoon. Että näin ulkomaiset
-Puhuja 0: työntekijät saa ihan samat oikeudet kuin suomalaiset. Jos jotain
-Puhuja 1: Paavo
-Puhuja 1: Teittisen
-Puhuja 1: ansiokkaista
-Puhuja 1: jutuista on oppinut,
-Puhuja 1: jotka oli näistä
-Puhuja 1: ongelmista ja ihmiskaupasta
-Puhuja 1: siivousalalla ja ravintola-alalla
-Puhuja 1: Suomessa.
-Puhuja 1: Se systeemi on heikko.
-Puhuja 0: Se on totta.
-Puhuja 0: Mutta hei,
-Puhuja 0: nyt mennään suosituksiin.
-Puhuja 0: Olin ymmärtäminen, että teillä oli vähän kiireelliset suositukset tällä kertaa. Pitääkö paikkansa? Tässä oli kuitenkin ihmiset ovat lomalle, ne tarvitsee erilaista tekemistä, ne tarvitsee ajanvietettä.
-Puhuja 0: Kukaan ei jaksa hengata koko aikaa perheensä kanssa jossain työleirillä, eikö hei mökillä.
-Puhuja 0: Mitä te suosittelette Sara?
-Puhuja 1: Kun puhuin tuosta kuupasta ja sanoin, että
-Puhuja 1: se on paikka, jonka ihmisten ajatuksia on vaikea ymmärtää, niin muutenkin heti mieli suositella sitä, että ihmiset kävisivät siellä. Myös sen takia, että se helpottaisi niitten ihmisten arkea.
-Puhuja 1: Tai taloustilannetta.
+Puhuja 2: tuota... Ensinnäkin en tiedä, voiko sanoa, että tosi isot protestit, jos puhutaan
+Puhuja 2: tuhansista ihmisistä.
+Puhuja 2: Suurimmassa osassa maista, tonkan kokoisista maista, sitä ei pidettäisi kauhean isona.
+Puhuja 2: Sanoisin, että ne ovat merkittäviä uutisarvoisia
+Puhuja 2: sen takia, että siellä Kuubassa
+Puhuja 2: hallituksen
+Puhuja 2: tai systeemin
+Puhuja 2: vastaiset
+Puhuja 2: mielenosoitukset ei vaan ole niin yleisiä.
+Puhuja 2: Ne on kiellettyjä.
+Puhuja 2: Se on se uutisarvoisuus ehkä enemmän kuin se, että se olisi koko kansakadulla.
+Puhuja 2: Tuota, mutta jos miettii
+Puhuja 2: kokonaiskuvaa siellä, niin eihän se ole kauhean yllättävää,
+Puhuja 2: että nousee protesti.
+Puhuja 2: Siellä on se tämä mainitsemasi suosikkikastro
+Puhuja 2: Fidel on kuollut ja
+Puhuja 2: tämä Varakastro
+Puhuja 2: Raul on myös eläköitynyt tässä jo.
+Puhuja 2: Nämä jumalhahmot
+Puhuja 2: vallankumouksesta
+Puhuja 2: alkaa olla taputeltu ja
+Puhuja 2: käytännön kriisi
+Puhuja 2: ja nälänhätä uhkaa.
+Puhuja 2: Aion
+Puhuja 1: päällä. Tuliko ne kriisit nyt kun Fideli ja Raul lähti pois, niin heti syntyi kriisi. Mutta eikö kriisi ollut aika kauan siellä? Käytännön kriisi on ollut kauan. Tyytymättömyyttä on ollut tosi kauan
+Puhuja 2: ja on varmasti laajasti
+Puhuja 2: ylipäätään. Se ei tietysti aina suoraan tarkoita
+Puhuja 2: markkinatalouden ja kapitalismin kannattamista myöskään. Se on hyvä muistaa,
+Puhuja 2: että on myös välimuotoja.
+Puhuja 2: Niin, mutta sitten nämä Castrot
+Puhuja 2: ja ylipäänsä vanhat
+Puhuja 2: vallankumousjohtajat
+Puhuja 2: on tärkeitä kuopassa
+Puhuja 2: aina, kun on
+Puhuja 2: regiimejä,
+Puhuja 2: niin ne henkilöityy.
+Puhuja 2: Ja sitten kun niitä hahmoja ei enää
+Puhuja 2: ole, niin se vaikuttaa henkisesti siihen,
+Puhuja 2: että kuinka paljon voidaan kestää kurjuutta.
+Puhuja 2: Tässähän oli iso tämä teema, että saastuttaja maksaa
+Puhuja 2: tässä paketissa, joka musta kuulostaa jotenkin
+Puhuja 2: ihanalta.
+Puhuja 2: Koska tätä olen itse ajatellut, että totta kai se saastuttaminen maksaa jo nyt. Se maksaa aina jollekin. Se maksaa meille kaikille ja vähintään ympäristölle.
+Puhuja 2: Olisi hyvä, että ne olisivat konkreettisemmin
+Puhuja 2: niillä, jotka tekevät
+Puhuja 2: vastuu.
+Puhuja 2: Toki
+Puhuja 2: nyt on tullut kritiikkiä, että nyt tässä sysätään ne maksut
+Puhuja 2: kuluttajien maksettavaksi. Mutta eihän se ikinä niin meidän markkinoilla. Kyllähän sitten jos on mahdollista tehdä ympäristöystävällisemmin ja säästää
+Puhuja 2: niissä hiilikuluissa,
+Puhuja 2: niin sitten tulee niitä vaihtoehtoja ja ne on halvempia.
+Puhuja 2: Vai sanokaa te Visit kiilat?
+Puhuja 3: No,
+Puhuja 3: tässä on yksiän pieni ongelma.
+Puhuja 3: En tiedä, mitä tämä tulee ratkeamaan, mutta kuitenkin maailmantaloudessa
+Puhuja 3: aina tosi iso tekijä on ollut energia ja energian hinta. Tällä hetkellä Suomen energiasta puolelta tulee rajan takaa
+Puhuja 3: Venäjältä.
+Puhuja 3: Ja
+Puhuja 3: jos
+Puhuja 3: ei saarekkaiselle enää halpaa energiaa, joka ikävä kyllä saastuttaa,
+Puhuja 3: niin mistä me saadaan? Se hyvä kysymys, että tuulivoima ei yksinään tule riittämään
+Puhuja 3: Ja rakennetaanko me lisää ydinvoimaloita,
+Puhuja 3: tuleeko tämä Ruotsista, Norjasta,
+Puhuja 3: muualta?
+Puhuja 3: Hiilitullit
+Puhuja 3: aiheuttaa
+Puhuja 3: kysymyksiä, että miten
+Puhuja 3: Suomi tulee pärjäämään
+Puhuja 3: tulevaisuudessa globaalissa kilpailussa ja mitä suomalainen teollisuus
+Puhuja 3: järjestäytyy.
+Puhuja 3: Ja tietyllä tapaahan
+Puhuja 3: pitäisi mennä sillä tavalla, että ei kannata täältä siirtää ainakaan minnekään
+Puhuja 3: halvan energian maahan sillä verrokkeella, että siellä tuotanto on halvempaa, vaan niiden tulojen pitäisi just toimia,
+Puhuja 3: estää tämä toiminta.
+Puhuja 2: Mä tiedän, että voi kuulostaa jotenkin
+Puhuja 2: idealistiselta.
+Puhuja 2: Mutta jos ajattelee
+Puhuja 2: isossa kuvassa ilmastonmuutoksen
+Puhuja 2: estämistä
+Puhuja 2: tunberiläisittäin,
+Puhuja 2: niin eihän Suomen menestys voi missään nimessä perustuakaan
+Puhuja 2: samantyyppiselle teollisuudelle, joka tarvitsee
+Puhuja 2: samantyyppistä energiaa tulevaisuudessa.
+Puhuja 2: Sen ongelman ratkaiseminen,
+Puhuja 2: niin ei se voi anyway perustua sille
+Puhuja 2: pärjääminen,
+Puhuja 2: jos ajatellaan, että ne päästöt nolla tai jos ajatellaan, että tämä homma menee kestävälle pohjalle.
+Puhuja 1: Tuliko teille eilen sellainen luottamus, että hei, ehkä sittenkin
+Puhuja 1: taklataan tämä
+Puhuja 1: vuosisadan katastrofi, mikä tuossa nurkan takana siinä tehdään. Tulit kyllä vähänkin, koska tässä on ollut aika dystooppisia fiiliksiä viime vuodet ainakin itselläni
+Puhuja 1: tämän aiheen ympärillä. Mulle tuli eilen sellainen, että hei,
+Puhuja 3: tämä voidaankin hoitaa. Tervetuloa kerhoon. Mulle on naurettu, kun olen viime aikoina puhunut, että mulla on ollut jotenkin luottavainen fiilis tässä ehkä
+Puhuja 3: tänä keväästä asti. Se on ollut enemmän, ei mihinkään rationaaliseen
+Puhuja 3: analyysiin perustuen, vaan
+Puhuja 3: sieltä täältä hiljaisia signaaleja ja isompiakin signaaleja siitä, että asiat on nyt oikeasti
+Puhuja 3: menossa eteenpäin.
+Puhuja 3: Ja, no,
+Puhuja 3: en tiedä, onko täällä totuus, mutta siltä musta alkaa tuntua, koska tässä on kuitenkin
+Puhuja 3: näitä asioita seurannut yli kymmenen vuotta ja ollut suht kriittinen ja tuntuu, että nyt saa jotain konkreettista oikeasti
+Puhuja 3: aikaiseksi. Jos katsoo
+Puhuja 3: isot teollisuudenaloja, miten ne on muuttunut, mutta on hyvä kysymys, että onko ne riittävät ne toimet.
+Puhuja 3: Tai riittää nopeudet. Niin, riittää nopeudet. Hyvin mahdollista, että ei ole.
+Puhuja 3: Niin.
+Puhuja 3: Samaa samaa Ermeltä.
+Puhuja 2: Ei ne ole, valitettavasti.
+Puhuja 2: Nämä kuulostaa hyviltä jutuilta suhteessa siihen, mitä on sanottu ennen. Ja suhteessa johonkin Kiinan politiikkaan ehkä.
+Puhuja 2: Siitä siis, okei, sekin on monitahosta, mutta ne muun muassa viime vuonna rakensivat enemmän uutta hiilivoimaa kuin ikinä.
+Puhuja 2: Ja
+Puhuja 2: nämä saasteethan eivät ole niin, että joka vuosi laitetaan
+Puhuja 2: ilmaan se määrä ja
+Puhuja 2: sieltä haipuu
+Puhuja 2: taas. Meillä olisi mahdollisuus korjata
+Puhuja 2: se sillä, että yksi vuosi sitten ei saa sutettakaan
+Puhuja 2: vaan
+Puhuja 2: ne kerääntyy koko ajan. Nytkin ne kerääntyy
+Puhuja 2: haittaamaan meitä sinne johonkin kolmekymmentä vuoden päähän.
+Puhuja 1: Sä et ole luottavainen. Mä en ole siinä mielessä
+Puhuja 2: kauhean... Mun mielestä se ei yhtään minimoi sitä, mitä tarvii tehdä. Enkä tarkoita, että välttämättä niiden olisi ollut mahdollista tehdä
+Puhuja 2: kunnianhimoisempaa pakettiin. Niin kuin näillä eväillä ehkä.
+Puhuja 2: Mutta mun mielestä
+Puhuja 2: tiede ei tue.
+Puhuja 3: Jos jotain lukuja yritän kaivaa mielestä, niin eikö se seitsemän prosenttia
+Puhuja 3: suunnitella laskea hiilipäästö joka vuosi, että me päästäisiin näihin tavoitteisiin. Ja me ei olla siis siinä.
+Puhuja 3: Näen ehkä tämän tilanteen, että nyt on taapera, joka yrittää opetella
+Puhuja 3: kävelemään, niin se kompuroi vielä. Ja en tiedä, oppiko se kävelemään kuitenkaan.
+Puhuja 2: Vaan. Niin, tässä yritetään olla
+Puhuja 2: itsellemme tämmöisiä kannustavia vanhempia.
+Puhuja 1: Totta. Mutta hei, mennään viimeiseen aiheeseen,
+Puhuja 1: mikä tällä viikolla
+Puhuja 1: Helsingin Sanomat julkaisi Avin tarkastuskertomuksia
+Puhuja 1: suomalaisilta marja ja mansikkatiloilta,
+Puhuja 1: joissa on perinteisesti ollut paljon näitä ulkomaisia kausityöntekijöitä.
+Puhuja 1: Mun on pakko
+Puhuja 1: mainita, että
+Puhuja 1: tässä kyseisessä jutussa oli vaan noin viisikymmentä tilan tarkastuskertomukset. Yhteensä marjatiloja
+Puhuja 1: on
+Puhuja 1: tarkastuskertomukset. Yhteensä marjatiloja
+Puhuja 1: on toista tuhatta pitkälle,
+Puhuja 1: eli tämä ei ole mikään
+Puhuja 1: koko alaa koskettava ongelma, mutta
+Puhuja 1: siellä pesii
+Puhuja 1: tietynlainen ongelma.
+Puhuja 1: Tarkastuskertomuksissahan
+Puhuja 1: luettiin. Oli luettavissa, että siellä on valtavia puutteita työntekijöiden
+Puhuja 1: oikeuksien suhteen. Työaikakirjanpito
+Puhuja 1: on puutteellista,
+Puhuja 1: ylitöitä ei kirjata, lisiä ei makseta, työterveyshuolto on puutteellista ja majoitukset on ala-arvoisia.
+Puhuja 1: Iso ongelma tässä on se, että kausityöntekijät
+Puhuja 1: ovat usein ulkomaisia, joilla on puutteellinen kielitaito
+Puhuja 1: ja he ei pysty
+Puhuja 1: vaatimaan tai edes noteeraamaan näitä omia oikeuksiaan, koska he
+Puhuja 1: ei ymmärrä,
+Puhuja 1: mihin he ovat lupautuneet välttämättä.
+Puhuja 1: Miten te näette tämän ongelman? Tämähän tulee kasvamaan vielä, koska Suomi tulee tarvitsemaan ulkomaisia työntekijöitä paljon.
+Puhuja 2: Voin sanoa alkuun, että ajauduin
+Puhuja 2: tätä lukiessa ja pohtiessani
+Puhuja 2: aika sellaiselle
+Puhuja 2: filosofiselle
+Puhuja 2: tasolle.
+Puhuja 2: Että oikeudet.
+Puhuja 2: Onko niitä, jos ne ei käytännössä toteudu ja jos niitä ei käytännössä valvota? Ainakaan sillä tavalla, että se ala vuodesta toiseen
+Puhuja 2: muuttuisi.
+Puhuja 3: Tämä on todella mielenkiintoinen kysymys. Ja
+Puhuja 3: ylipäätään tässä ehkä myös
+Puhuja 3: me voidaan huomata, minkä takia ammattiliitot on ihan jees juttu.
+Puhuja 3: Ja tavallaan, että kuka turvaa
+Puhuja 3: näiden ulkomailta tulevien kaukijoiden työläisten oikeudet.
+Puhuja 3: Ei ole
+Puhuja 3: etujärjestöjä ilmeisesti olemassa. Tai en tiedä onko, mutta näin on ymmärtää, että ei ole.
+Puhuja 3: Samalla tavalla kuin jos puhutaan
+Puhuja 2: lähettioikeudesta, että kuka katsoo, että näitä ihmisiä riistetään? Mun mielestä meidän pitäisi voida suuttua tästä ja olla keksimättä tekosyitä. Kyllä suomalaisten yrittäjien pitäisi osata hoitaa omat yrityksensä.
+Puhuja 2: Se ei ole mikään sivuainesia tai vahinko, jos työsopimuksessa
+Puhuja 2: ei määritellä palkkaa.
+Puhuja 2: Ei se ole mikään, että oho, en huomannut tai tajunnut.
+Puhuja 1: Se on mielestäni jännä, että sen taakse ei ole tullut mitään
+Puhuja 1: liittoa.
+Puhuja 1: Toki osasyynnsi on se,
+Puhuja 1: että kausityöntekijät
+Puhuja 1: tulee ripotellen sieltä täältä.
+Puhuja 1: Hehän ei ole mikään yhtenäinen joukko, kun sitten taas aikanaan on ollut joku telakallo tai tehtaalla.
+Puhuja 2: Se on ollut yhteisö, missä ollaan. Niin, on ihmisiä, joiden tulot ja asema tulee siitä, että ne hoitaa nimenomaan sellaisia työntekijöitä tänne, jotka
+Puhuja 2: on valmiita tekemään töitä eri ehdoilla kuin millä täällä
+Puhuja 3: periaatteessa niitä pitäisi tehdä. Tämä aihe on ollut esillä mun mielestä vuosikaudet. Siis tämä on niin joka vuosi pulpahtanut. Oletteko käynyt marjatiloilla. Mä oon ainakin kesätoimittajana käynyt. Joo, mä oon käynyt itse poimimassa siellä marjat. Jopa on hernetilalla.
 Puhuja 1: Mutta
-Puhuja 1: koska matkustamisen suositteleminen on näinä aikoina monestakin syystä ongelmallista,
-Puhuja 1: suosittelen sitä uutta Sompasaunaa.
-Puhuja 1: Se on
-Puhuja 1: ihana pieni lehto.
-Puhuja 1: Ja siellä on ainakin tähän mennessä ollut musta tosi rauhallinen ja yhteisöllinen
-Puhuja 1: kesäsaunameininki.
-Puhuja 0: Eikö siellä ole myös iltaisin bileitä jossain siellä? Se on buusparin.
-Puhuja 2: Vetäjät perustaa siihen sen
-Puhuja 2: ulkoilma-bilumestarin.
-Puhuja 1: Sitä en suosittele.
-Puhuja 1: Koska mun mielestä epäkaupallista
-Puhuja 1: tilaa ei ole
-Puhuja 1: kaupungissa riittävä.
-Puhuja 0: Mitä Niklas, mitä suosittelet?
-Puhuja 2: Suosittelen sellaisia aika tuoreita tai itse asiassa kaksituhatta vuotta vanhoja viisauksia.
-Puhuja 2: Seneca
-Puhuja 2: elämän lyhyydestä
-Puhuja 2: kirja.
-Puhuja 2: Tämä on ihan mahtava kirja, jonka Juhana Torkki taisi kääntää sen suomeksi
-Puhuja 2: muutama vuosi sitten.
-Puhuja 2: Myytin saman tien loppuun se painos, mutta sitä ilmeisesti saa vielä jostain.
-Puhuja 2: Se oikeastaan kertoo,
-Puhuja 2: kuinka meillä elämässä on kaikkea muuta
-Puhuja 2: hankittaisiin lisää paitsi aikaa ja miten tärkeää
-Puhuja 2: ajankäyttö ja oman ajan arvostaminen ja ylipäätään ajan arvostaminen.
-Puhuja 2: Mutta suosittelen, että se on hyvää kesälulettavaa.
-Puhuja 2: Ei mitään raskasta soutusta filosofiaa, vaan se on todella kevyt. Sen kanssa itse kirjoittaa omalle isälleen
-Puhuja 2: aikoinaan, kun isä jää eläkkeelle. Ja sitten piti miettiä, että mitähän sitä nyt tekisi, kun on tätä aikaa. Miten ihana ajatus kirjoittaa
-Puhuja 1: jotakin vanhemmilleen?
-Puhuja 0: Pitäisi kirjoittaa enemmän.
-Puhuja 0: Suositukseni
-Puhuja 0: liittyy myös esihistoriaan tietyllä tavalla. Olen aina ollut kiinnostunut,
-Puhuja 0: onko esimerkiksi virtuaalisesti oikea sana, mutta siihen, kun joku osaa jonkun asian tosi hyvin. Sen takia
-Puhuja 0: ennen pandemiaa tikkasin käydä katsomassa RSOY
-Puhuja 0: konsertteja, koska siellä oli jotain muusikoita, jotka osasi tehdä jonkun asian tosi hyvin tai jossain urheilussa katsoa, kun joku seiväs hyppää ja tekee jotain, mitä en ikinä osaisi tehdä.
-Puhuja 0: Olen kuunnellut viime aikoina tosi paljon musiikkia
-Puhuja 0: Ihan jatkuvasti. Minulla on ollut koko ajan Spotify päällä.
-Puhuja 0: Törmäsin Rowlingstone's
-Puhuja 0: huusimpaan levyyn, joka julkaistiin viime viikolla Biger Bang niminen livealbumi.
-Puhuja 0: En ole mikään fani, koska en ole kahdeksankymmentäviisi,
-Puhuja 0: niin kuin
-Puhuja 0: keskiverto keskiverto fani ehkä on. Mutta sitten kuuntelin sitä.
-Puhuja 0: Taisin, että näitä yhtään virheitä tälle levyllä. He ovat soittaneet näitä samoja biisejä kuusikymmentä vuotta. Se on aika siistin kuuloista, kun jotkut on
-Puhuja 0: treenannut yhtä kolmen minuutin settiä kuusikymmentä vuotta.
-Puhuja 0: Se
-Puhuja 0: oli jotenkin, se oli ehkä, kun olisi kuunnella jotain virtansitetti, niin kuin käytännössä ehkä kuuntelinkin. Eli suosittelen ihmisille Rowlingstonees
-Puhuja 0: Biger Bang.
-Puhuja 0: Ehkä
-Puhuja 0: musiikillinen anti ei ole mitään sellaista
-Puhuja 0: ihan loistokasta enää tänä päivänä, mutta se lähinnä vaan, miten ne soittaa yhteen. Se on tosi hienon kuulosta.
-Puhuja 0: Mutta okei, siinä kaikki tällä erää. Kiitos Sara Vainio. Kiitti. Kiitos Niklas-Turura.
-Puhuja 0: Kiitos.
-Puhuja 0: Kuvan ja kaiken muun mahtavan teille tällä viikolla teki Mikko Peura. Kiitos.
-Puhuja 0: Muistakaa laittaa palautetta eri sosiaalisen median kanavissa ja palataan astialle ensi viikolla.
+Puhuja 1: siis
+Puhuja 3: se,
+Puhuja 3: että
+Puhuja 3: mä en tiedä, mikä on se juurisyy tälle ongelmalle. Onko se vain niin, että nämä tilalliset
+Puhuja 3: tai työtä välittävät tahot
+Puhuja 3: ei ole riittävän ammattitaitoisia?
+Puhuja 3: Vai onko niin teidän tarpeeksi valvontaa, pitäisikö sitä olla?
+Puhuja 2: Miten te olette nähneet sen? Musta
+Puhuja 2: tuntuu, että ne argumentit on,
+Puhuja 2: että tätä voi hoitaa vaan.
+Puhuja 2: Että nämä säännöt on kohtuuttomia ottaen huomioon tämän alan tarpeet. Mutta vasta-argumentti
+Puhuja 1: tuohon on heti se, että valtaosa näistä marjatiloista on hoitanut ilmeisesti asiansa ihan hyvin. Tavallaan, että työntekijöiden
+Puhuja 1: oikeudet pätee ja niillä on ihan kelvolliset. Joo, tuo on tosi huono argumentti.
+Puhuja 1: Ole. Siirryn vadelma ihmiseksi, mikäli tällaiseksi menee
+Puhuja 1: keskusteluilmapiirin työntekijöiden olosuhteiden ympärillä.
+Puhuja 1: Mutta toi on ihan totta. Tai
+Puhuja 1: miten sä kritisoit tätä argumenttia.
+Puhuja 1: Sä voit
+Puhuja 1: palkata ihmisiä keräämään mansikoita
+Puhuja 1: ja tehdä niille hyvät työsopimukset.
+Puhuja 1: Ja tehdä niille sellaiset olosuhteet, että ne voi nukkua ilman home-ilmaa.
+Puhuja 1: Se on ihan mahdollista.
+Puhuja 2: Ja jos et voi, niin
+Puhuja 2: mansikka
+Puhuja 2: ei ole mansikan syömisestä kenenkään elämä tässäkin. Ei se ole mikään itseisarvo.
+Puhuja 3: Eli jokaiseen mansikkafirmaan tarvitaan vastuullisuusjohtaja.
+Puhuja 2: Semmoiselle turkisalalinjalle.
+Puhuja 2: Jos
+Puhuja 2: sitä hommaa ei voi hoitaa hyvin
+Puhuja 2: tai mitenkään eettisesti, niin ei sitä tarvitse hoitaa.
+Puhuja 1: Tämä keskusteluhan tätä voi vähän skaalata, koska eri laskelmien mukaan Suomi tulee tarvitsemaan noin satakolmekymmentä nolla
+Puhuja 1: työperäistä maahanmuuttajaa tämän vuosikymmenen aikana.
+Puhuja 1: Se on fakta. Siitä Suomi ei pääse mihinkään.
+Puhuja 1: Huoltosuhdekriisi
+Puhuja 1: on jo totta. Me
+Puhuja 1: ei ehditä lisääntymään niin nopeasti, että meidän
+Puhuja 1: tulevat lapset
+Puhuja 1: tähän auttaisi enää mitään.
+Puhuja 1: Tosi monethan pelkää, että yritykset
+Puhuja 1: tällä tähän tarpeeseen liittyen alkaa ottaa matalapalkkasi ihmisiä ja heitä voiko kohdella vähän huonosti.
+Puhuja 1: Onko tämä aiheellinen pelko teemasta? Mun mielestä se on ihan aiheellinen pelkomäelle.
+Puhuja 3: Mun mielestä kaikki, mikä tavallaan
+Puhuja 3: lisää luokkajaottelu
+Puhuja 3: ja yhteiskuntaa, on huono kehitys. Ja tämä nimenomaan
+Puhuja 3: lisää sitä.
+Puhuja 3: Jos katsotaan rakennusalaa, niin siellähän on suurin osa jostain ulkomailta tulevia työntekijöitä. En tiedä tilastoja, mutta ainakin siltä se näyttää työmaalla, mitä itse olen seurannut.
+Puhuja 1: Mites Saara, pelkäätkö tätä tulevaa vuosikymmentä
+Puhuja 1: ja työperäisten maahanmuuttaja virtaa Suomeen, miten heitä kohdellaan?
+Puhuja 1: Joo,
+Puhuja 2: kyllä mun mielestä
+Puhuja 2: nykyisellään
+Puhuja 2: ei näyttänyt kauhean rohkaisevalta. Mulla on myös ystäviä töissä
+Puhuja 2: lähetystöissä
+Puhuja 2: tuolla
+Puhuja 2: maailmalla, jotka siis
+Puhuja 2: käy läpi näitä hakemuksia
+Puhuja 2: Suomeen töihin.
+Puhuja 2: Siellä on ihan hirveän ongelmallisia
+Puhuja 2: rakenteita taustalla.
+Puhuja 2: Sieltä hakee sellaisia ihmisiä töihin, jotka eivät selvästikään ymmärrä, mihin ne ovat hakemassa
+Puhuja 2: ja ne ovat selvästi jo velkaa niille ihmisille,
+Puhuja 2: jotka niitä auttavat hakemaan Suomeen töihin.
+Puhuja 1: Tämä on mun mielestä sellainen,
+Puhuja 1: tässä menee johonkin tosi työelämän
+Puhuja 1: ytimeen
+Puhuja 1: tämän kysymyksen kautta.
+Puhuja 1: Minua häiritsee sellaiset
+Puhuja 1: oikeistolaiset,
+Puhuja 1: jotka
+Puhuja 1: aina haluavat sanoa, että liitoilla
+Puhuja 1: rajoittaa yritysten kasvua. Ja sitten, että mikä liittoja olisi, koko
+Puhuja 1: yhteiskunta voisi paremmin. Tämä on aika selkeä osoitus
+Puhuja 1: siitä, mihin me erilaisia liittoja tarvitaan
+Puhuja 1: ja vahtimaan niitä oikeuksia, mitä
+Puhuja 1: heikommassa asemassa olevilla ihmisillä on.
+Puhuja 1: Ongelma tietenkin on se just, niin kuin aikaisemmin mainittiin, että näillä
+Puhuja 1: ulkomailta tulevilla ei ole välttämättä mitään sellaista
+Puhuja 1: asioiden hoitajaa, joka kollektiivisesti katsoisi heidän peräänsä.
+Puhuja 1: Kyllä. Ihan meidän suomalaisena joviaaleena ihmisenä aloittaa,
+Puhuja 1: että se pitäisi tulla meidän
+Puhuja 2: täällä olevista ihmisistä jo semmoinen yhteisö. Joo, ehdottomasti. Se oli musta kiinnostavaa. Nythän oli perustettu joku tämmöinen monikielinen
+Puhuja 2: apulinja.
+Puhuja 2: En tiedä, kuinka hyvin se tavoittaa ne työntekijät, jotka tänne tulee.
+Puhuja 2: Just siinä marjanpoimija jutussa viitattiin
+Puhuja 2: siihen.
+Puhuja 3: Joo,
+Puhuja 3: ja
+Puhuja 3: siivousala. Tosi paljon se ikäviä stooreja. Jos ihmiset ei osaa kiellä tarpeeksi hyvin, niin niille ei tehdä työsopiparia, niille alle minimipalkan
+Puhuja 3: pidetään hommisti tyyppisesti.
+Puhuja 3: Tämä harmaa talous tavallaan linkittyy myös tähän,
+Puhuja 3: mutta tämä on niin pitkään jatkunut
+Puhuja 3: ongelma, että on kummallista, että siihen ei mitään konkreettisia
+Puhuja 1: työkaluja löytynyt, millä tätä saataisiin jotenkin purettua. Sitten on jännä, että poliittista tahtoa ei ollut, koska onhan tässä, niin kuin säkin sanoit, mun mielestä tämä on keskustelu, mutta tätä on käyty niin kauan kuin mä olen seurannut mediaa.
+Puhuja 1: Poliittiset
+Puhuja 1: puolueet on vaihtunut hallituksesta.
+Puhuja 1: Siellä on ollut eri koko On ollut eri puolueiden pääministerejä.
+Puhuja 1: Kukaan ei ole ottanut sitä asiakseen.
+Puhuja 1: Missään vaiheessa
+Puhuja 1: politiikassa, että hei, nyt hoidetaan tämä kuntoon. Että näin ulkomaiset
+Puhuja 1: työntekijät saa ihan samat oikeudet kuin suomalaiset. Jos jotain Paavo
+Puhuja 2: Teitteisen ansiokkaista jutuista olen oppinut,
+Puhuja 2: jotka oli ongelmista
+Puhuja 2: ja ihmiskaupasta
+Puhuja 2: siivousalalla ja ravintola-alalla
+Puhuja 2: Suomessa,
+Puhuja 2: niin se systeemi on heikko.
+Puhuja 1: Se on totta.
+Puhuja 1: Mutta hei,
+Puhuja 1: sitten mennään suosituksiin.
+Puhuja 1: Olin ymmärtäminen, että teillä oli vähän kiireelliset suositukset tällä kertaa. Pitääkö paikkansa? Tässä kuitenkin ihmiset ovat lomalle, ne tarvitsee erilaista tekemistä, ne tarvitsee ajanvietettä. Kukaan ei jaksa hengetä koko ajankaan perheensä kanssa jossain työleirillä eikä hei ja mökillä.
+Puhuja 1: Mitä te
+Puhuja 1: suosittelette, Sara?
+Puhuja 2: Kun puhuin tuosta kuupasta ja sanoin,
+Puhuja 2: että se on paikka, jonka ihmisten ajatuksia on vaikea ymmärtää,
+Puhuja 2: niin jotenkin heti mieli suositella sitä, että ihmiset kävisivät siellä. Myös sen takia, että se helpottaisi niiden ihmisten arkea.
+Puhuja 2: Tai taloustilannetta.
+Puhuja 2: Mutta koska matkustamisen suositteleminen on näinä aikoina monestakin syystä ongelmallista,
+Puhuja 2: niin
+Puhuja 2: suosittelen sitä uutta Sompasaunaa.
+Puhuja 2: Se on
+Puhuja 2: ihana pieni lehto.
+Puhuja 2: Siellä on ainakin tähän mennessä ollut musta tosi rauhallinen ja yhteisöllinen
+Puhuja 2: kesäsaunameininki.
+Puhuja 1: Eikö siellä ole myös iltaisin bileitä, jossain siellä tai toisesta? Se on baari. Puusparin
+Puhuja 3: vetäjät perustaa siihen sen
+Puhuja 3: ulkoilmabaulumestan.
+Puhuja 2: Sitä en suosittele.
+Puhuja 2: Vaila. Koska mun mielestä epäkaupallista
+Puhuja 2: tilaa ei ole
+Puhuja 2: kaupungissa riittävä.
+Puhuja 3: Mitäs Niiklas, mitäs suosittelisit?
+Puhuja 3: Suosittelen
+Puhuja 3: sellaisia aika tuoreita tai itse asiassa kaksituhatta vuotta vanhoja viisauksia
+Puhuja 3: Seneca
+Puhuja 3: elämän lyhyydestä
+Puhuja 3: kirja.
+Puhuja 3: Tämä on ihan mahtava kirja, jonka Juhana Torkki taisi kääntää sen suomeksi muutama vuosi sitten.
+Puhuja 3: Myytin saman tien loppuun se painos, mutta sitä ilmeisesti saa vielä jostain.
+Puhuja 3: Se
+Puhuja 3: oikeastaan kertoo,
+Puhuja 3: kuinka
+Puhuja 3: meillä elämässä
+Puhuja 3: on
+Puhuja 3: kaikkea
+Puhuja 3: muuta.
+Puhuja 3: Hankittaisiin lisää paitsi aikaa ja miten tärkeää ajankäyttö
+Puhuja 3: ja oman ajan arvostaminen ja ylipäätään ajan arvostaminen.
+Puhuja 3: Mutta suosittelen se on hyvää kesäluettavaa.
+Puhuja 3: Ei mitään raskasta soutusta filosofiaa, vaan se on todella kevyt. Sen kanssa itse kirjoittaa omalle isälleen
+Puhuja 3: aikoinaan, kun isä jää eläkkeelle. Ja sitten piti miettiä, että mitähän sitä nyt tekisi, kun on tätä aikaa. Miten ihana ajatus kirjoittaa
+Puhuja 2: jotakin vanhemmilleen?
+Puhuja 1: Pitäisi kirjoittaa enemmän.
+Puhuja 1: Suositukseni
+Puhuja 1: liittyy myös esihistoriaan tietyllä tavalla. Olen aina ollut kiinnostunut,
+Puhuja 1: onko esimerkiksi virtuasteeettista oikea sana, mutta siihen, kun joku osaa jonkun asian tosi hyvin. Sen takia
+Puhuja 1: ennen pandemiaa tikkasin käydä katsomassa RSOY
+Puhuja 1: konsertteja, koska siellä oli jotain muusikoita, jotka osasi tehdä jonkun asian tosi hyvin tai jossain urheilussa katsoa, kun joku seiväs hyppää ja tekee jotain, mitä en ikinä osaisi tehdä.
+Puhuja 1: Olen kuunnellut viime aikoina tosi paljon musiikkia
+Puhuja 1: ihan jatkuvasti. Minulla on ollut koko ajan Spotify päällä.
+Puhuja 1: Törmäsin
+Puhuja 1: Rowlingstone's
+Puhuja 1: huusimpaan levyyn, joka julkaistiin viime viikolla Biger Bang niminen live-albumi.
+Puhuja 1: En ole mikään fani, koska mä en ole kahdeksankymmentäviisi,
+Puhuja 1: niin kuin keskiverto
+Puhuja 1: keskiverto fani ehkä on. Mutta sitten kuuntelin sitä ja tajusin, että yhtään virheitä tälle levyllä. He ovat soittaneet näitä samoja biisejä kuusikymmentä vuotta. Se on aika siistin kuuloista, kun jotkut on treenannut yhtä kolmen minuutin
+Puhuja 1: settiä
+Puhuja 1: kuusikymmentä
+Puhuja 1: vuotta.
+Puhuja 1: Se oli jotenkin, se oli hakus kuunnella tai virtositeettia, niin kuin käytännössä ehkä kuuntelinkin.
+Puhuja 1: Suosittelen
+Puhuja 1: ihmisille
+Puhuja 1: Rowlingstonees
+Puhuja 1: Bigher Bang.
+Puhuja 1: Ehkä
+Puhuja 1: musiikillinen anti ei ole mitään sellaista ihan
+Puhuja 1: loistokasta enää tänä päivänä, mutta se lähinnä vaan, että miten ne soittaa yhteen. Se on tosi hienon kuulosta.
+Puhuja 1: Mutta okei, siinä kaikki tällä erää. Kiitos Sara Vainio. Kiitos. Kiitos Niklas Tornol. Kiitos.
+Puhuja 1: Kuvan ja kaiken muun mahtavan teille tällä viikolla teki Mikko Peura. Kiitos.
+Puhuja 1: Muistakaa laittaa palautetta eri sosiaalisen median kanavissa ja palataan astialle ensi viikolla.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi kertoo
+Puhuja 0: tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

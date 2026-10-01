@@ -1,162 +1,379 @@
-Puhuja 0: Hei! Ja tervetuloa Helsingin Sanomien Uutisraportti
-Puhuja 0: podcastiin torstaina
-Puhuja 0: Hiittlomaviikolla
-Puhuja 0: kaksikymmentä.
-Puhuja 0: Päivä kaksi.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Helsingin
+Puhuja 1: Sanomat
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Uutisraportti podcastiin torstaina.
+Puhuja 0: Hiihtolooman viikolla kaksikymmentä.
+Puhuja 0: Päivä
+Puhuja 0: kaksi.
 Puhuja 0: On kyllä liukkaasti mennä tää helmikuu. Vuonna kaksituhatta kaksikymmentäviisi.
-Puhuja 0: Sulla on aina toi, että aika menee hirveän nopeasti. Mun mielestä se on tärkeää aina reflektoida meneekö se nopeasti. Mutta tammikuu oli maailmanhistorian pisin. Se oli todella, todella hidas ja tahmainen.
-Puhuja 0: Mun kanssani tässä
-Puhuja 0: Minä jokainen siis Tuomas Peltomäki,
-Puhuja 0: juonnan tätä
-Puhuja 0: podcastia.
-Puhuja 0: Kanssani tätä
-Puhuja 0: juontaa toinen aikaa aprikoiva
+Puhuja 0: Sulla on aina toi, että aika menee hirveän nopeasti. Mun mielestä se on tärkeä aina reflektoida, meneekö se nopeasti. Mutta tammikuu oli maailmanhistorian pisin. Se oli todella, todella hidas ja tahmainen.
+Puhuja 0: Mun kanssani tässä... Minä, jokainen Tuomas Peltomäki,
+Puhuja 0: juonnan tätä podcastia.
+Puhuja 0: Kanssani tätä juontaa
+Puhuja 0: toinen aikaa aprikoiva
 Puhuja 0: toimittaja Helsingin Sanomista, Salla Vuorikoski
-Puhuja 0: Heisalla.
+Puhuja 0: Heisalo.
 Puhuja 1: Terve.
-Puhuja 0: Tutki vain juttuja aina.
-Puhuja 0: Pos
-Puhuja 1: pikapo. Ja iloitsen siitä, että meillä on uusi kuva.
-Puhuja 1: Eiks se tällä hetkellä ole mitään? Niin onkin. Joo. Onkohan se laitettu? On, kun mä huomasin sen. No niin. Onko se laitettu
+Puhuja 0: Tutki vain
+Puhuja 0: juttuja.
+Puhuja 0: Bos. Pikabo.
+Puhuja 1: Ja iloitsen siitä, että meillä on uusi kuva. Eiks se tällä hetkellä täällä ole mitään? Niin on. Joo. Onkohan se laitettu? On. Kun mä huomasin sen. No niin. Onko se laitettu
 Puhuja 0: Spotify?
-Puhuja 0: Se on sun homma. Se on Jannen homma. Se on jännä homma. Se on hieno. Siinä
+Puhuja 0: Se on sun homma. Se on Jannen homma. Se on hieno.
+Puhuja 1: Siinä
 Puhuja 1: heti yleisön edustajat bongasivat
 Puhuja 1: sen pohjalla olevan
 Puhuja 1: viittauksen.
-Puhuja 0: Ai jaa. Okei, käykin. Käypas itse
-Puhuja 1: katsomassa, arvioimassa.
-Puhuja 0: Meidän pitää johonkin kohtaan laittaa
-Puhuja 0: näin. Mullakin on ajatuksia, mitä sä symboloit
+Puhuja 0: Ai jaa, oikein. Käy sen analyysin. Mutta käykää ite katsomassa,
+Puhuja 1: arvioimassa.
+Puhuja 0: Meidän pitää johonkin kohtaan laittaa näin.
+Puhuja 0: Mullakin on ajatuksia, että mitä sä symboloit
 Puhuja 0: siinä.
 Puhuja 0: Sen sijaan siinä kuvassa ei ole
-Puhuja 0: täällä paikalla oleva erikoisvieras,
-Puhuja 0: koska hän on kenties Helsingin Sanomien tän hetken kiireisin ihminen. Nimittäin
+Puhuja 0: täällä paikalla oleva
+Puhuja 0: erikoisvieras,
+Puhuja 0: koska hän on kenties Helsingin Sanomien tän hetken kiireisin
+Puhuja 0: ihminen.
+Puhuja 0: Nimittäin
 Puhuja 0: turvallisuuspolitiikkaan
-Puhuja 0: erikoistunut toimittaja Elina Kervinen. Hei Elina. Hei vaan. Kiva olla teillä. Ja sä olet
+Puhuja 0: erikoistunut toimittaja Elina Kervinen, hei Elina. Hei vaan, kiva olla teillä. Ja sä olet tota...
 Puhuja 0: Ensinnäkin mä huomaan, että mun olisi pitänyt katsoa sun mikrofonin asento
-Puhuja 0: tossa aiemmin.
-Puhuja 0: Ja nyt se on hyvä. No niin.
-Puhuja 0: Sä olet siis meidän Nato-kirjeenvaihtaja
-Puhuja 0: ja sä olet se ihminen, joka seuraa
+Puhuja 0: tossa
+Puhuja 0: aiemmin. Ja nyt se on hyvässä. No niin. Ja
+Puhuja 0: sä olet siis meidän Nato-kirjeenvaihtaja.
+Puhuja 0: Ja
+Puhuja 0: sä olet se ihminen, joka seuraa
 Puhuja 0: päätöksiä meillä turvallisuuspolitiikkaa.
-Puhuja 1: Näissä yhteyksissä ei toki mitään sukupuolikeskustelua
-Puhuja 1: ole koskaan käyty. Mä itse ajattelisin, että musta kannattaisi somevaikuttajien,
-Puhuja 1: jotka ei ole tästä tietenkään mikään homogeeninen joukko meidän jutuistakin käy ilmi.
-Puhuja 1: Osa näistä influenssareista
-Puhuja 1: itsekin katsoo, että tällaista ei pidä tehdä. Tää ei oo niinku oikeudenmukaista ja reilua ja eettistä. Mut et noin yleisesti ottaen, niin kannattaa miettiä nyt sitä, et onks se onks se nyt se ammattikunta
-Puhuja 1: siis varteenotettavaa,
-Puhuja 1: tärkeää liiketoimintaa
-Puhuja 1: ihan oikeaa
-Puhuja 1: bisnestä, jota ei pidä väheksyä,
-Puhuja 1: Josta voidaan sit tehdä niinku samalla tavalla kriittisiä talousjuttuja kun tehdään mistä tahansa Juhan tai Markon tai Mikon firmasta
-Puhuja 1: vai onks se niinku sit kuitenkin vähän jotenkin poloisia naisia jotka vähän jotain puuhastelee ja sitten sitten ihan iso lehti tällaista. Se ei niinku musta jännä keskustelu
-Puhuja 1: sillai, että meillä on nyt just kohta
-Puhuja 1: menen tosta painamaan nappia, et julkaistaan juttu, jossa itse asiassa vihdoin saatiin KPMG:ltä
-Puhuja 1: haastattelu, jota siis
-Puhuja 1: viikkoja jalkasimme ja nyt vielä tälläkin
-Puhuja 1: viikolla jankutimme ja vihdoin toimitusjohtajaltä
-Puhuja 1: löyty aikaa.
-Puhuja 1: Niin siinäkin toimitusjohtaja sanoi, että ei pidä väheksyä tätä somevaikuttajien
-Puhuja 1: liiketoimintaa.
-Puhuja 1: Eihän sitä tiedä, mistä se jotenkin näet, mistä se tulevaisuuden Nokia tulee. Tämä voi
-Puhuja 1: omasta mielestään
-Puhuja 1: vai ei. Juuri
-Puhuja 0: näin.
-Puhuja 0: Okei.
+Puhuja 0: Sulla on ollut sun elämässä kauheinta aikaa? Nyt viimeiset
+Puhuja 2: muutamat viikot, eikö näin? No, on ollut aika tällaista. Oletko
+Puhuja 1: katunut, että lähdet tuohon pesuun?
+Puhuja 2: Mä en enää virallisesti
+Puhuja 2: myöskään ole noita-kirjanvaihtaja.
+Puhuja 2: Mutta näin henkisesti olen kyllä.
+Puhuja 2: Seuraan näitä asioita. Ei, en mä oo katunut. Täähän on tietenkin tosi mielenkiintoista
+Puhuja 2: aikaa,
+Puhuja 2: mutta hyvässä ja pahassa.
+Puhuja 0: Jos kuulitte
+Puhuja 0: analogiselta,
+Puhuja 0: semmoselta vihreältä muoviselta
+Puhuja 0: veivattavalta
+Puhuja 0: puhelimelta kuulostavan
+Puhuja 0: rahinan tuolta
+Puhuja 0: linjojen päästä, se johtuu siitä, että meillä on
+Puhuja 0: myös podcastin alkuun
+Puhuja 0: suuresti
+Puhuja 0: podcastin kuulijoita
+Puhuja 0: Helsingin Sanomien Berliinin kirjeenvaihtaja Suvi Turtiainen. Hei Suvi.
+Puhuja 0: Moi. Terveiset.
+Puhuja 3: No, terveiset. Tärkein on tällainen luminen
+Puhuja 3: hiihtolomakeli,
+Puhuja 3: mikä on harvinaista
+Puhuja 3: Berliinista on luntamaassa. Nyt on ollut jo monta päivää. Tuli tuosta veivattavasta
+Puhuja 1: puhelimesta mieleen, että tuo kyllä kuulostaa ihan saksaksi. Siellä just voisi olla semmoinen.
+Puhuja 0: Viittaus on silläkin tavalla osua, että tämän viikon
+Puhuja 0: keskustellaan. Nimittäin aivan
+Puhuja 0: ensimmäisenä puhutaan ehkä vähän sen takia, että halutaan
+Puhuja 0: virkistäviä asioita...
+Puhuja 0: Virkistävä lähtö tälle podcastissa puhutaan
+Puhuja 0: ensimmäisenä
+Puhuja 0: Saksassa
+Puhuja 0: nyt sunnuntaina käytävistä
+Puhuja 0: liittovaltiovaaleista,
+Puhuja 0: jossa... Liittopäivävaaleista.
+Puhuja 0: Anteeksi, liittopäivävaaleista,
+Puhuja 0: jossa
+Puhuja 0: odotetaan, että Saksan liittokansleri
+Puhuja 0: vaihtuu.
+Puhuja 0: Ja SDP:n
+Puhuja 0: olla Scholzin tilalle tulee
+Puhuja 0: kristillisdemokraattien
+Puhuja 0: Merts. Mikä se etunimi on sen Merts?
+Puhuja 0: Friedrichs.
+Puhuja 0: Merts. Merts. Merts.
+Puhuja 0: Keskustellaan siis siitä. Ja sitten, koska tämä
+Puhuja 0: vaali liittyy erittäin vahvasti
+Puhuja 0: myös tämänhetkiseen
+Puhuja 0: turvallisuuspoliittiseen tilanteeseen, niin liu'utaan tästä aiheesta
+Puhuja 0: seuraamaan, joka on totta kai itseoikeutetusti
+Puhuja 1: pelkästään puhtaasti se...... Joka tienaa semmosen kymppitonnin kuussa, niin pystyy painamaan oman verotuksensa
+Puhuja 1: samalle tasolle
+Puhuja 1: suhteellisesti kuin
+Puhuja 1: kolmisen tonnia tienaava sairaanhoitaja.
+Puhuja 1: Tämä on järjestely, joka on ollut jo aikasemmin esillä. On jo havaittu
+Puhuja 1: Finnwatch
+Puhuja 1: järjestö on tehnyt siitä omia raporttejaan, että somevaikuttajat
+Puhuja 1: käyttävät. Eivät toki vain he, mutta he ovat
+Puhuja 1: näkyviä toimijoita ja he ovat osa. Jotkut heistä ovat perustaneet itsellensä tämmöiset
+Puhuja 1: rakenteet. Nyt se, mikä tässä meidän uudessa jutussa oli musta
+Puhuja 1: äärimmäisen kiinnostavaa ja ansiokasta,
+Puhuja 1: näin kehun
+Puhuja 1: oman tiimini juttuja.
+Puhuja 1: Me tavallaan pystyttiin katsomaan vähän sinne sisälle, että mistä tällaiset järjestelyt
+Puhuja 1: syntyvät. Onko niin, että somevaikuttaja
+Puhuja 1: herää yhtenä aamuna
+Puhuja 2: ja ajattelin, että ei vitsi nyt on kyllä pakko tehdä holdingyhtiön
+Puhuja 1: järjestelyjä.
+Puhuja 1: Osakevaihto.
+Puhuja 1: Tietenkään se ei ole näin, vaan
+Puhuja 1: taustalla on
+Puhuja 1: ammattilaisia eli veronkostultteja,
+Puhuja 1: jotka tekevät tietysti monet hyvin asiallisia töitä. Mutta sitten aggressiivinen verosuunnittelu
+Puhuja 1: välillä lipsahtaa sinne
+Puhuja 1: portfolioon.
+Puhuja 1: Me päästiin avaamaan
+Puhuja 1: tämmöistä markkinointiyhteistyötä,
+Puhuja 1: jossa siis Jasmin Hami, Dianalia Salmela, molemmat tunnettuja
+Puhuja 1: suomalaisia
+Puhuja 1: somevaikuttajia
+Puhuja 1: Salmela ihan erityisesti
+Puhuja 1: Ne tekivät KPMG:n,
+Puhuja 1: joka on siis valtavan kokoinen kansainvälinen
+Puhuja 1: konsulttitativintarkastusjätti.
+Puhuja 1: Niiden kanssa sellaista yhteistyötä
+Puhuja 1: jo muutamia vuosia sitten, jossa
+Puhuja 1: he tavallaan
+Puhuja 1: markkinoi muille
+Puhuja 1: julkisuuden henkilöille, muille somevaikuttajille
+Puhuja 1: näitä
+Puhuja 1: aggressiivisen verosuunnittelun
+Puhuja 1: konsteja. Toki siellä muustakin sitten puhuttiin, oli tämmöinen
+Puhuja 1: kahvilatapaaminen
+Puhuja 1: ja tämmöinen WhatsApp-ketju,
+Puhuja 1: josta me saatiin sitten omia tietoja.
+Puhuja 1: Sen jälkeen on nyt sit keskusteltu toki tästä itse verokikkailusta
+Puhuja 1: ja me on Riikka Purraakin haastateltu, että tää nyt tulee sit kehysriihessä muiden
+Puhuja 1: verotuskysymysten osalta sitten tarkasteluun, että poistetaanko
+Puhuja 1: VM:ssä ois siis virkamiehillä ois valmiina jo niinku sabluunat, että millä se teknisesti ottaen tehtäisiin. Tämä ei ole mikään valtava verotuksellinen
+Puhuja 1: kysymys vaan tämmöinen yksi
+Puhuja 1: ikään kuin järjestelmän porsaandreiän.
+Puhuja 1: Ja vähän oikeudessa kysymys. No siis se, että verotusjärjestelmän
+Puhuja 1: tietysti pitää olla tarkoituksenmukaista.
+Puhuja 1: Tavallaanhan tässä käytetään, että kun lainsäätäjä on tehnyt tämän mahdollisuuden, niin sitä ei ole tarkoitettu tällaiseen keinotekoiseen pumppaamiseen vaan se on tarkoitettu siihen, että on haluttu kannustaa niinku aidosti kasvattamaan
+Puhuja 1: liiketoiminnan
+Puhuja 1: arvoa.
+Puhuja 0: Keskustelleet. Nyt näytät mulle. Kun mä haluan kysyä tuosta.
+Puhuja 0: Mun ymmärrys on ja sanoo, jos menee aivan päin mettä. Ei tarvitse ruveta laskea mitään matikkaa.
+Puhuja 0: Se on suurinpiirteinkö
+Puhuja 0: silleen, että
+Puhuja 0: nämä ole...
+Puhuja 0: Siis influenssasseri nimeltä
+Puhuja 0: Tuomas raportti
+Puhuja 0: perustaa yhtiön
+Puhuja 0: ja perustaa myös toisen yhtiön nimeltä holding-yhtiö.
+Puhuja 1: Eiks näin? Ja holding-yhtiö omistaa sen ensimmäisen. Tai se KPMG todennäköisesti tekee sun puolestanne, kun maksat kymppitonnin tai jotain siitä. Sen jälkeen
+Puhuja 0: nimellisesti
+Puhuja 0: myönnän mun omista rahoista
+Puhuja 0: mun holding-yhtiölle
+Puhuja 1: lainaa. No ei se itse asiassa ihan noin mee. Vaan se liittyy... Joku muka myöntää lainaa. No se liittyy enemmän tämmöseen
+Puhuja 1: omaisuuden arvostamiseen.
+Puhuja 1: Osakevaihdon,
+Puhuja 1: kun tehdään tommoinen kauppa
+Puhuja 1: tavallaan. Mä en tiedä onko se järkevää mennä kauhean syvälle, mutta kun yrittäjä tekee omien firmojen kesken semmoisen osakevaihdon eli siirtää varsinaisen
+Puhuja 1: liiketoimintayhtiön
+Puhuja 0: omistuksen sinne holdingyhtiöön.
+Puhuja 1: Siinä yhteydessä on mahdollista tehdä
+Puhuja 0: arvonmäärä.
+Puhuja 1: Se on niinku tulevaisuuden odotuksiin, että tää niinku kasvaa tää liiketoiminta. Sillä pystytään
+Puhuja 1: niinku salmelaan yhdessä viestissä näille muille julkisuuden henkilöille sanoo, että hän pystyy niinku jopa sataneljäkymmentä tonnia
+Puhuja 1: ottamaan ulos. Hänhän ei ole itse nostanut näitä huojennettuja osinkoja, mikä on ihan totta.
+Puhuja 1: Hän tavallaan mainiosti ja markkinoi muille sitä tuottoa.
+Puhuja 0: Tällä tavalla saadaan
+Puhuja 0: keinotekoisesti kasvatettua
+Puhuja 0: koko influenssamisen
+Puhuja 0: arvoa. Se näyttää siellä kirjanpidossa, että hitto, tässä on ihan mieletön bisnes. Ja tästä johtuu semmoinen edullisempi verokohtelu,
+Puhuja 0: koska valtio on halunnut, että hei, kasvattakaa sitä bisnestä. Se on teille edullisempaa myös veromielessä. Niin, se on tämmöinen suomalainen erikoisuus
+Puhuja 0: verotusvero. Aina, kun on jossain suomalainen erikoisuus, niin se on yleensä aina kuulostaa vittumonalta idea. Joo, mutta se on selkeästi semmoinen. Laajasti katsotaan, että se on aggressiivisen verosuunnittelun
+Puhuja 1: keino ja se on veroporsaan reikä, joka
+Puhuja 1: muuten hauska, kun teen, nyt kohta julkaistaan uusi juttu aiheesta.
+Puhuja 1: Siinä isku sanana ja asiasanana on veroporsaan
+Puhuja 1: reikä. En varmaan ikinä käy. Katsotaan meneekö se tuolta läpi. Mutta siis pointti.
+Puhuja 0: Vielä. No niin. Ja nyt toi, minkä sä kuvasit äsken mun mielestä tosi hyvin. Mene otti liian syvälle. Ei mennyt pää pyörälle.
+Puhuja 0: Miten tää kuulostaa kuitenkin vähän jotenkin samalta, mitä tekee vaikka Apple sillä, että se rekisteröi
+Puhuja 0: jonnekin Irlantiin muka toimintaansa. Ja siitä Irlannissa...
+Puhuja 0: Mukaan kaikki voitot maksetaan Irlannissa, jossa ei makseta niistä veroa tai jotain siis tän tyylistä.
+Puhuja 0: Se kuulostaa...
+Puhuja 0: Tai onko tässä olemassa semmoinen, että itse asiassa
+Puhuja 0: suomalaiset influenssaerit
+Puhuja 0: tekee samaa,
+Puhuja 0: mitä kaikki muut suuryritysdirikat
+Puhuja 0: tuolla hienoissa salongeissaan tekee?
+Puhuja 1: Ja tavallaan... Ne ukkelit ja sedät,
+Puhuja 1: kun haluat sanoa.
+Puhuja 1: Joo,
+Puhuja 1: totta kai siis. Ja ja
+Puhuja 0: asian
+Puhuja 1: pohtia voi ite arvottaa sitä että mikä on pahempaa kuin joku toinen ja onko se edes. Jotkuthan on sitä mieltä että kaikki vaan mitä saan nyhdettyä irti niin hyvä on vaikka valtion verotulot siitä niinku kärsisi
+Puhuja 1: mutta siis totta kai on tosiasia
+Puhuja 1: että tällaisen niinkun ikään kuin laillisen verosuunnittelun,
+Puhuja 1: johon sit ehkä tää aggressiivinen pää kuuluu myös, niin se kenttä on valtavan laaja. Sithän aina kun näistä keskustelee, niin nostaa esille että tiedätkö työhuonevähennyksen
+Puhuja 1: ja haetko kotitalousvähennykset
+Puhuja 1: ja muut. Totta kai sekin on tietynlaiset verosuunnittelua, et sä mietit tarkkaan, et mihin sulla on oikeus. Mut sit siellä toisessa päässä on tietenkin ne järjestelyt, joita lainsäätäjä ei ole tarkoittanut,
+Puhuja 1: että pykäliä käytetään siihen mitä käytetään. Sitten niinku veivataan
+Puhuja 1: se paheksuttamus. Niin ja sitten haetaan oikeudestakin ratkaisuja. Haetaan sitä viimeistä
+Puhuja 1: pykälää,
+Puhuja 1: että mitä pystyy menke. Totta kai isot suuryritykset,
+Puhuja 1: kansainväliset jätit on tehnyt erittäin
+Puhuja 0: Ja aivan törkeää kupata oma kokonainen
+Puhuja 0: maa osa kuiviin veroista.
+Puhuja 1: Me ollaan oltu tällaisen
+Puhuja 1: keskustelun keskellä
+Puhuja 1: tässä erilaisissa
+Puhuja 1: somekanavissa
+Puhuja 1: siitä että oliks tää nyt sit naisyrittäjävilaa
+Puhuja 1: ja tota miksi naisia ja miksei setiä ja ukkeleita
+Puhuja 1: ja miksi tämmöstä nostetaan esille ja nämähän ovat vain tämmöisiä pienyrittäjiä
+Puhuja 1: että must se on silleen tavallaan tää feministikortin
+Puhuja 1: käyttäminen on sillai
+Puhuja 1: sitä aikaisemminkin näissä keskusteluissa käytetty.
+Puhuja 1: Musta se on silleen mä oon niinku itse kun näin naisena
+Puhuja 1: ja feministeenä
+Puhuja 1: ja toimittajana, joka on tehnyt valtavan
+Puhuja 1: määrän erilaisia epäkohtajuttuja,
+Puhuja 1: joissa on
+Puhuja 1: laillista, mutta
+Puhuja 1: kyseenalaista toimintaa tai suorastaan
+Puhuja 1: ihan laittomuksia tai jotain törkeyksiä,
+Puhuja 1: niin mä oon tehnyt ihan valtavasti juttuja, joissa lähes
+Puhuja 1: poikkeuksetta mä sanoisin, että yhdeksänkymmentäkolme
+Puhuja 1: prosenttia ikään kuin
+Puhuja 1: juttujen kohdehenkilöistä
+Puhuja 1: on ollut miehiä.
+Puhuja 1: Siis niinku Markoja, Mikko
+Puhuja 1: ja niin edespäin.
+Puhuja 1: Juhhia.
+Puhuja 0: Markoja, Mikko ja Juhhia. Suomessa taitaa edelleen olla pörssiyhtiöiden...
+Puhuja 0: On enemmän juhlia pörssiyhtiöiden
+Puhuja 1: johtajana kuin naisia. Joo, ja välillä toki jotain ulkomaalaisiakin
+Puhuja 1: nimiä, mutta ehkä nämä
+Puhuja 1: tyypillisimpinä
+Puhuja 1: esiintyy. Näissä yhteyksissä ei toki tämmöistä mitään sukupuolikeskustelua
+Puhuja 1: ole koskaan käyty. Mä itse ajattelisin silleen, että mun mielestä kannattaisi somevaikuttajien,
+Puhuja 1: jotka ei ole tästä tietenkään mikään homogeeninen joukko meidän jutuistakin käy ilmi, että osa näistä
+Puhuja 1: influenssareistä
+Puhuja 1: niinku itsekin katsoo, että tällaista ei pidä tehdä. Tää ei oo oikeudenmukaista ja reilua ja eettistä.
+Puhuja 1: Mut et noin yleisesti ottaen, ne kannattaa miettiä nyt sitä, et
+Puhuja 1: onks se nyt se ammattikunta siis varteenotettavaa, tärkeää liiketoimintaa, ihan oikeaa bisnestä, jota ei pidä väheksyä,
+Puhuja 1: jakasimme ja nyt vielä
+Puhuja 1: tälläkin viikolla jankutimme ja vihdoin toimitusjohtajaltä
+Puhuja 1: löyty sitten aikaa
+Puhuja 1: niin siinäkin toimitusjohtaja sanoi, että ei pidä väheksyä tätä somevaikuttajien
+Puhuja 1: liiketoimintaa, että
+Puhuja 1: Eihän sitä tiedä, mistä se jotenkin näet, mistä se tulevaisuuden Nokia tulee. Mä voin olla
+Puhuja 1: tavallaan,
+Puhuja 1: että se on niinku tärkeää, ja voi olla kansakunnan tukijalkata. No, tää on suoraa tai siis niinku epäsuoraa siteerausta,
+Puhuja 1: Mutta
+Puhuja 1: se on musta
+Puhuja 1: kiinnostavaa,
+Puhuja 1: onko influenssareilla valtaa omasta mielestään vai ei. Juuri näin.
+Puhuja 0: Okei, sitten kun
 Puhuja 0: Sitten kun
 Puhuja 0: sunnuntaina
 Puhuja 0: menette
 Puhuja 0: läheiseen Knaippeen,
 Puhuja 0: ja siellä otatte yhden saksalaisen oluen.
-Puhuja 0: En kyllä muista jostain syystä yhtään saksalaista olutta.
-Puhuja 0: Sitten nostatte seuraavalle
+Puhuja 0: Mä en muista jostain syystä yhtään saksalaista olutta.
+Puhuja 0: Ja
+Puhuja 0: sitten nostatte seuraavalle
 Puhuja 0: liittokanslerille
 Puhuja 0: maalia. Toivote, että hän pärjää hyvin väännoissa
 Puhuja 0: Trumpin ja Putinin kanssa.
-Puhuja 0: Rupette siinä naapuripöytiin
+Puhuja 0: Sitten rupeatte siinä naapuripöytiin
 Puhuja 0: kertomaan vähän,
-Puhuja 0: että mitäs maailma makaa, niin mistäs heille
-Puhuja 0: Mistä rupeatte heille keskustelemaan?
-Puhuja 0: Heidän kanssa
-Puhuja 0: keskustelemaan. Tota
-Puhuja 1: mä luin
-Puhuja 1: Samuli Putron
+Puhuja 0: että mitäs maailma makaa, niin mistäs heille...
+Puhuja 0: Mistä rupeatte heille keskustelemaan, heidän kanssa keskustelemaan?
+Puhuja 1: Mä luin Samuli Putron
 Puhuja 1: kirjan Elämäni miehet.
-Puhuja 1: Mä olin ihan siis todella jotenkin vaikuttunut.
-Puhuja 1: Sä oot luken
-Puhuja 1: Joo
-Puhuja 1: mä ihan siis asiokseni luin siis toki kännykästä mutta kuitenkin
-Puhuja 1: ja tota mä olin jo niin kun ehkä kymmenen sivun jälkeen hyvin hyvin vaikuttunut. Pidä hänen niinku tavasta kirjoittaa sellaista aika yksinkertaisen
-Puhuja 1: kaunista
-Puhuja 1: tietyllä tavalla Todella hienoja lauseita. Joo korutonta, mutta silleen jotenkin syvälle menevää upea kirjoittaja, toivottavasti. Tietysti hän on kirjoittanut mahtavia biisejä, että eipä se varmaan ihme ole, mutta toivottavasti kirjoittaa lisää.
-Puhuja 1: Tää kirja käsittelee
-Puhuja 1: nimensä mukaisesti elämänsä miehiä eli siis kaikenlaisia
-Puhuja 1: miessuhteita,
-Puhuja 1: eli suhteitaan miehiin alkaen isästään
-Puhuja 1: ja erääseen levy-yhtiön
+Puhuja 1: Olin ihan siis todella jotenkin vaikuttunut. Se oli upea. Se oli upea. Se oli upea. Se oli upea. Mä kuuntelin mut. Joo. Mä ihan
+Puhuja 1: asiokseni luin toki
+Puhuja 1: kännykästä, mutta kuitenkin.
+Puhuja 1: Tota mä olin jo niin kuin ehkä kymmenen sivun jälkeen hyvin hyvin vaikuttunut. Pidä hänen niinku tavasta kirjoittaa sellaista aika
+Puhuja 1: yksinkertaisen kaunista.
+Puhuja 1: Todella hienoja lauseita. Joo korutonta mutta silleen jotenkin syvälle menevä
+Puhuja 1: upea kirjoittaja.
+Puhuja 1: Siis tää kirja
+Puhuja 1: käsittelee nimensä mukaisesti elämänsä miehiä eli
+Puhuja 1: siis kaikenlaisia miessuhteita eli suhteitaan miehiin alkaen isästään ja erääseen levy-yhtiön
 Puhuja 1: pomoon,
 Puhuja 1: johon hänellä on kompleksinen suhde.
-Puhuja 1: Ja mua tavallaan
-Puhuja 1: ja sit siellä välissä
-Puhuja 1: kulkee
-Puhuja 1: kertomus siitä, miten hän käy terapiassa
-Puhuja 1: ja tilittää terapeutille just näitä samoja asioita. Musta aika kauniisti rakennettu, että Siinä ei oo mitään semmosta kauheaa
-Puhuja 1: räjähtävää suurta juonta tai jännitystä, mut se jotenkin pitää otteessa ja sen haluu loppuun lukea.
-Puhuja 1: Ja tosi kiinnostavaa. Ja sit
-Puhuja 1: se miksi erityisesti sitä nyt tässä suosittelen on se, että mä koko ajan jotenkin. Kun
-Puhuja 1: välillä luen kirjaa ja välillä katson, mitä New York Timesissa tai Siennellä tai Helsingin Sanomissa tai muissa medioissa kirjoitetaan
-Puhuja 1: maailmanpolitiikan
-Puhuja 1: tilanteesta.
-Puhuja 1: Sitten nämä rupesi puhumaan
-Puhuja 1: päässäni
-Puhuja 1: keskenään nämä asiat.
-Puhuja 1: Just vähän se, mihin viitattiin tuossa, mikä on Trumpin
-Puhuja 1: motiivi Putinin mielistelyssä.
-Puhuja 1: Palautuuko se lopulta tällaisiin miesten
-Puhuja 1: välisiin
-Puhuja 1: kompleksisiin
-Puhuja 1: suhteisiin ja mikä hahmo
+Puhuja 1: Sit
+Puhuja 1: siellä
+Puhuja 1: välissä kulkee
+Puhuja 1: kertomus siitä, miten hän käy
+Puhuja 1: terapiassa ja tilittää terapeutille just näitä samoja asioita. Musta aika kauniisti rakennettu.
+Puhuja 1: Siinä ei oo mitään semmoista kauheaa räjähtävää suurta juonta tai jännitystä, mut se jotenkin pitää otteessa ja sen haluun loppuun lukea.
+Puhuja 1: Tosi kiinnostava.
+Puhuja 1: Sitten
+Puhuja 1: se, miksi erityisesti sitä
+Puhuja 1: tässä suosittelen, on se, että koko ajan jotenkin... Välillä
+Puhuja 1: luen sitä kirjaa ja välillä katson, mitä New York Timesissa tai Ciennellä ja
+Puhuja 1: sitten
+Puhuja 1: se, mihin viitattiin tossa, mikä on Trumpin motiivi Putinin mielistelyssä, että palautuuko se lopulta tällaisiin
+Puhuja 1: miesten
+Puhuja 1: välisiin kompleksisiin
+Puhuja 1: suhteisiin ja mikä Trump
 Puhuja 1: Trumpille
-Puhuja 1: olisi tavallaan se hahmo, joka on putralle vaikka levyyhtiön
+Puhuja 1: olisi tavallaan se hahmo, joka on putralle vaikka levy-yhtiön
 Puhuja 1: ukkeli.
-Puhuja 1: Jep.
-Puhuja 1: Jotenkin tällaiset valtasuhteet,
-Puhuja 1: se on karua että mitä tässä pienenä palikkana täällä maailmassa meitä voi pyörittää tämmösten ihmisten inhimilliset rauhaot. Ihan siis hienosti siinä mun mielestä että
-Puhuja 2: tän tyyppistä
-Puhuja 2: analyysiä mitä siinä on niin me ei kuitenkaan usein kuulla
-Puhuja 2: nimenomaan miesten välisistä suhteista sellaisella
-Puhuja 2: tunnepuolen
+Puhuja 1: Jotenkin tällaiset valtasuhteet
+Puhuja 1: se on karua, että mitä tässä pienenä
+Puhuja 1: palikkana täällä maailmassa meitä voi pyörittää
+Puhuja 2: ihmisten inhimilliset rautavia. Joo ja hienosti siinä mun mielestä, että
+Puhuja 2: tän tyyppistä analyysiä mitä siinä on me ei kuitenkaan usein
+Puhuja 2: kuulla nimenomaan
+Puhuja 2: miesten välisistä suhteista sellaisella
+Puhuja 2: tunnepuolen analyysilla,
+Puhuja 2: puolen
 Puhuja 2: analyysillä, mitä hän
-Puhuja 2: esittää, mikä oli musta
-Puhuja 2: tosi hienoa. Ja se ei ollut aktiivista.
-Puhuja 0: Mutta harvinaista. Mä tunnistan tuossa. Musta tuntuu vähän
-Puhuja 2: Mulla on vähän samantyyppinen,
-Puhuja 2: joka lähtee tästä ajatuksesta, että kun kaiket päivät
-Puhuja 2: teemme tätä työtä mitä teemme ja Trumpia ja Putinia ja sotaa ja asioita.
-Puhuja 2: Minulla on ainakin iltaisin sellainen tunne, että minun kovalevyöntäuni
-Puhuja 2: ja tarvitsen ihan jotain muuta. Minulla on myös
+Puhuja 2: esittää. Mikä oli musta tosi
+Puhuja 2: hienoa. Se ei ollut aktiivista. Se on niin kuin niin. Mutta harvinaista.
+Puhuja 0: Mä ehkä tunnistan tuossa...
+Puhuja 0: Musta tuntuu vähän vastenmieliseltä
+Puhuja 0: ajatukselta
+Puhuja 0: lukea toi kirja. Ja
+Puhuja 0: tietenkin
+Puhuja 0: on paras merkki siitä, että mun pitää lukea se. Mä mietin, että onkohan yhdeksänkymmentäkolme prosenttia lukijoista naista. Eiköhän.
+Puhuja 0: Pelkästään toi sun juttelun perusteella, että kuulostaa,
+Puhuja 0: että nyt on laittanut
+Puhuja 2: Pelkonen on tarve siis miehiä, jotka puhuu tunteista.
+Puhuja 2: Taasko se on se mikrofalo? Taas se on jatkaa.
+Puhuja 2: Joo. Elina. Mulla on vähän ehkä
+Puhuja 2: samantyyppinen, joka lähtee tästä ajatuksesta, että kun kaiket päivät
+Puhuja 2: teemme
+Puhuja 2: tätä työtä, mitä teemme, ja Trumpia ja Putinia ja sotaa ja asioita.
+Puhuja 2: Mulla on ainakin iltaisin sellainen tunne, että mun kovalevyöntä on ja mä tarviin ihan jotain muuta. Mulla on myös
 Puhuja 2: ihmisten välisiä suhteita
-Puhuja 2: ja parisuhteita ja deittailua käsittelevä
-Puhuja 2: kirja Sally Roonin tää uusin internetso jota oon lukenut.
-Puhuja 2: Oon vielä kesken mut on tosi hyvä ja vastaa just tähän tarpeeseen että jotain ihan muuta ja joka ei millään tavalla nyt niinku
-Puhuja 2: kirjaa ja meidän omasta arviosta kuvattiin tällaisiksi
-Puhuja 2: painopeitoksi
-Puhuja 2: tässä ajassa niin se vähän tuntuu siltä. Sitten mä vaan istun siinä ja vaan kynttilän ja luen jotain tällaista ihan muuta. Mutta mä luulen, että me kaikki
-Puhuja 1: ja varmaan kuulijatkin tunnistavat tämän tunteet, kun katsoo näitä otsikoita ja itse vielä tietysti tekee, sinä erityisesti
-Puhuja 1: kirjoitat näistä
-Puhuja 1: juttuja. Tulee, kun välillä sellainen olo, että ei muuta kuin joku huppu päähän ja johonkin mökkiin nököttämään,
-Puhuja 1: ja ovet ja ikkunat kiinni ja käännykät pois ja oootetaan,
-Puhuja 1: että asiat selkenee.
-Puhuja 2: Joo ja tässä Runikirjassa on hienosti
+Puhuja 2: ja parisuhteita
+Puhuja 2: ja deittailua käsittelevä
+Puhuja 2: kirja Sally Roonin tämä uusin internetson, jota
+Puhuja 2: olen lukenut.
+Puhuja 2: Olen vielä kesken, mutta on tosi hyvä ja vastaa just tähän tarpeeseen,
+Puhuja 2: että jotain ihan muuta. Siinä
+Puhuja 2: en ehkä näe näitä samanlaisia yhtä kokoisia
+Puhuja 2: tähän. Mutta se on tosi hyvä. Mulla on ollut sellainen ongelma, koska nyt
+Puhuja 1: luen jotain tällaista ihan muuta. Mutta mä luulen, että me kaikki
+Puhuja 1: ja varmaan kuulijatkin tunnistavat tämän tunteet, kun katsoo näitä otsikoita ja itse vielä erityisesti
+Puhuja 1: kirjoitat näistä juttuja.
+Puhuja 1: Tulee välillä sellainen olo, että ei muuta kuin joku huppu päähän ja johonkin mökkiin nököttämään
+Puhuja 1: ja ovet ja ikkunat kiinni ja kämmenköt pois ja oootetaan,
+Puhuja 2: että asiat selkenee. Joo ja tässä Ronin kirjassa on hienosti
 Puhuja 2: hienoa kuvausta, sellaista kielenkäyttöä,
-Puhuja 2: tiettyä sellaista, että se imaisee sellaisella tavalla,
-Puhuja 2: mitä just sellaiset parhaat romanti masee.
-Puhuja 2: Se tuottaa
-Puhuja 2: ihan tällaista käyttökamaa
-Puhuja 1: tähän maailman hetkeen
-Puhuja 1: suoraan suoneen.
-Puhuja 0: Mä haluan
-Puhuja 0: kehottaa kaikkia kuuntelemaan,
+Puhuja 2: tiettyä sellaista, että se imaisee sellaisella tavalla, mitä just sellaiset parhaat romaanit imaisee. Ihan
+Puhuja 2: tämmöistä käyttökamaa tähän maailmanhetkeen
+Puhuja 1: suoraan suoneen. Kyllä.
+Puhuja 0: Mä haluan kehottaa kaikkia kuuntelemaan,
 Puhuja 0: vaikka sitä on tullut
 Puhuja 0: Spotifyhin vasta yksi jakso.
 Puhuja 0: Mutta Helsingin Sanomilta on alkanut tulla mun tuottama.
@@ -167,45 +384,70 @@ Puhuja 0: Tiedän, koska niitä jaksoja teen,
 Puhuja 0: tiedän, että siitä tulee Suomen
 Puhuja 0: paras podcast, mitä ikinä täällä on tehty.
 Puhuja 0: Yksi jakso vasta ulkona.
-Puhuja 0: Toinen tulee ensi viikolla, kolmas sitten neljä sitten ja näin päin pois. Ne paranevat
+Puhuja 0: Toinen tulee ensi viikolla, kolmas sitten, neljäs sitten ja näin päin pois. Ne paranevat
 Puhuja 0: jatkuvasti vain, mitä pidemmälle mennään.
 Puhuja 0: Podcastia
-Puhuja 0: johtaa Inkerin ja Julia.
+Puhuja 0: juontaa Inkerin ja Juliaa.
 Puhuja 0: Siellä myös tulee muita toimittajia
-Puhuja 0: kertomaan juttuja sinne. Se on amerikkalaistatyylinen
+Puhuja 0: kertomaan juttuja sinne. Se on tämmöinen amerikkalaistatyylinen
 Puhuja 0: narratiivinen podcast, missä on
 Puhuja 0: keskiössä aina joku kysymys.
 Puhuja 0: Kysymykset on semmoisia, mitä sulla saattaisi tulla mieleen. Vaikka,
-Puhuja 0: kun alkaa olla lähellä kaksitoista ja sitten palkähtaa yhtäkkiä joku kysymys. Niin kuin vaikka,
-Puhuja 0: että saako hautausmaalla linkkeillä?
+Puhuja 0: kun alkaa olla lähellä kaksitoista ja sitten palkattata yhtäkkiä joku kysymys. Vaikka,
+Puhuja 0: että saako hautausmailla lenkkeillä?
 Puhuja 2: Tai saako?
 Puhuja 0: Tai sun pitää kuunnella.
 Puhuja 0: Aina sanotaan, että jos pistät jonkun asian internettiin,
 Puhuja 0: se on ikuisesti siellä. Mutta onko oikeasti?
 Puhuja 0: Onko sun vanhat
-Puhuja 0: sometilit
-Puhuja 0: edelleen jossain tallessa
+Puhuja 0: sometilit edelleen jossain tallessa
 Puhuja 0: kiinalaisessa
 Puhuja 0: takahuoneessa
 Puhuja 0: serverillä?
 Puhuja 0: Miksi
 Puhuja 0: Suomessa melkein ainoana maailmassa
 Puhuja 0: joudut punnitsemaan hedelmät itse?
-Puhuja 0: Ei niin, että kauppias et tee sitä sulle.
-Puhuja 0: Onko sut valjastettu kauppiaan
-Puhuja 0: työntekijäksi siinä hetkeksi vai
-Puhuja 0: onko Suomi niin rehellinen maa, että tämä on ainoa, missä tämä toimii? Kaikkia tämmöisiä kysymyksiä.
+Puhuja 0: Ei niin, että kauppias ei tee sitä sulle.
+Puhuja 0: Onko sut valjastettu kauppiaan työntekijäksi
+Puhuja 0: siinä hetkeksi
+Puhuja 0: vai onko Suomi niin rehellinen maa, että tämä on ainoa, missä tämä toimii? Kaikkia tämmöisiä kysymyksiä.
 Puhuja 0: Ne vastaukset etsitään todella syvältä.
 Puhuja 0: Niitä ei aina löydetä, mutta se matka sinne on ihan mahtava.
 Puhuja 0: Tässä on joku uusi
-Puhuja 0: upea ääni näillä kahdella ladyasilla.
-Puhuja 0: Se on todella, todella hyvä. Alkakaa seuraamaan Keskiyön kaninkoloa
+Puhuja 0: upea ääni näillä kahdella ladyessilla,
+Puhuja 0: että se on todella, todella hyvä.
+Puhuja 0: Alkakaa seuran Keskiyön kaninkoloa
 Puhuja 0: valitsemassanne
 Puhuja 0: kanavassa.
-Puhuja 0: Siinä kaikki tältä erää. Kiitos Salla Vuorikoski.
-Puhuja 0: Kiitos. Kiitos Elina Kervinen Kiitos Kiitos Kiitos Suvi Turtiaselle myös Berliiniin
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Salla Vuorikoski.
+Puhuja 0: Kiitos. Kiitos, Elina Kervinen Kiitos Kiitos Suvi Turtiaselle myös Berliiniin
 Puhuja 0: ja kaikille teille voimia viikonlopun koitoksiin
-Puhuja 0: Mun nimi on Tuomas Peltonki äänenkuva ja kaiken muu mahtava meille tekee tällä viikolla Janne Elkki
-Puhuja 0: ja
+Puhuja 0: Mun nimi on Tuomas Peltonki-äänenkuva
+Puhuja 0: ja kaiken muu mahtava meille tekee tällä viikolla Janne Elkki ja
 Puhuja 0: lähettäkää meille palautetta ja
 Puhuja 0: mulla on heti ensi viikolla!
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

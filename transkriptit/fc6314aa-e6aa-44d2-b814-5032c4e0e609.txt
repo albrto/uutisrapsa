@@ -1,255 +1,495 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiyönkaan Inkolopodastin toinen kausi on kuunneltavissa Helsingin Sanomien sovelluksessa
-Puhuja 0: sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan Karinkoloon.
-Puhuja 0: Helsingin Sanomat.
-Puhuja 1: Hei ja tervetuloa Helsingin Sanomien Utiraportti-podcastiin.
-Puhuja 1: Poikkeuksellisesti
-Puhuja 1: nauhoitetaan
-Puhuja 1: vapun vuoksi keskiviikkona
-Puhuja 1: kaksikymmentäyhdeksän.
-Puhuja 1: Vuonna kaksituhatta kaksikymmentäkuusi. Mun nimi on Tuomas Peltonkijän-Kaisa täällä Helsingin Sanomien Podcast studiossa ovat
-Puhuja 1: Helsingin
-Puhuja 1: Sanomien tutkivan ryhmän
-Puhuja 1: esihenkilö
-Puhuja 1: Salla Vuorikoski.
-Puhuja 1: Hei vaan,
-Puhuja 2: sä et kutsunut mua enää muftiksi.
-Puhuja 2: Ai et palata siihen. Ai sä aiot palata siihen. Pidetään yleisöä jännityksessä. Kohta selviää: Voiko nainen olla mufti?
-Puhuja 1: Muftin kanssa tässä istuu.
-Puhuja 1: Suomen
-Puhuja 1: kenties keskeisiä
-Puhuja 1: lakiasiantuntijoita.
-Puhuja 1: Ainakin tälleen journalismin puolella. Ei ole edes tämmöistä, ehkä sanoisin Tuomas Peltomäkimäistä
-Puhuja 1: liioittelua.
-Puhuja 2: Ei ole minusta. On. Kenties
-Puhuja 3: keskeisiä. Se oli vähän liioittelua.
-Puhuja 1: Susanna Reinbod,
-Puhuja 1: tervetuloa.
-Puhuja 1: Kiitos.
-Puhuja 1: Tästä voitte ehkä arvatakin, että tämän viikon podcastissa
-Puhuja 1: lakiasioista. Mutta vasta toisena: nimittäin sukelletaan heti ensimmäisenä
-Puhuja 1: sote-leikkauksesta
-Puhuja 1: lähteneeseen
-Puhuja 1: hyvin julkiseen Bifiin,
-Puhuja 1: jossa osapuolina
-Puhuja 1: paini
-Puhuja 1: kunnon paini
-Puhuja 1: ottelussa verbaalisesti
-Puhuja 1: tosin olivat vihreiden puheenjohtaja Sophie Virta
-Puhuja 1: ja Ville Rydman perussuomalainen
-Puhuja 1: Bollunminsa,
-Puhuja 3: eli se
-Puhuja 3: juhlasiipi
-Puhuja 3: täytyy
-Puhuja 3: rakentaa.
-Puhuja 3: Okei, se ehkä saattaisi auttaa
-Puhuja 3: presidentin turvallisuuteen,
-Puhuja 3: mutta eikö perusongelma
-Puhuja 3: ole se, että Amerikka on täynnä aseita ja siellä
-Puhuja 3: jengi
-Puhuja 3: kulkee ampumassa
-Puhuja 3: toisiaan?
-Puhuja 3: Se on jännä, että hän näki tämänkin asian ihan vaan itsensä ja oman
-Puhuja 1: rakkaan pikku hobbiinsa kautta. Niin, ja hän on yksi tehokkaampia opportunisteja,
-Puhuja 1: mitä maailma on ikinä nähnyt.
-Puhuja 1: Alle sekunnissa se aivo keksinyt,
-Puhuja 1: miten hän käyttää tätä hyväksi. Mitä ajattelitte, kun näette sen videon? Se on oudoin
-Puhuja 1: salamuravideo, mitä mä oon nähnyt. Ja hämmästyttävästi niitä on tullut nyt viime vuosina nähtyä monta. Mutta tyyppi
-Puhuja 1: siis vaan juoksee sen hotelliaulan
-Puhuja 1: läpi niin nopeata, että se ei tartu siihen filmille. Hän on semmoinen
-Puhuja 3: Salama.
-Puhuja 1: Ne kerke
-Puhuja 1: reagoimaan ne
-Puhuja 1: salaisen palvelun miehet, joita siellä on siis runsaasti. Ja hän vain juoksee niiden ohi silleen, että se ei tartu filmille niin nopeaa. Ja sitten he kääntyy vähän hölmistyneestä hänen perään ja alkaa osoittelemaan asella, että mikä siellä meni. Niin,
-Puhuja 2: sehän on huvittava.
-Puhuja 2: Eihän
-Puhuja 2: tässä oikeasti, sanotaan, että eihän tämä ole huvittavaa ja on äärimmäisen vakavaa, että tuommoista tapahtuu. Ihan hirveätä ja hyvää kuin Trump eikä kukaan kuollut siinä.
-Puhuja 2: Eihän se ollut täysin epäonnistuminen
-Puhuja 2: turvamiehiltä,
-Puhuja 2: koska
-Puhuja 2: se kuitenkin saatiin tosi nopeasti
-Puhuja 2: nippuun. Onhan se tilanne
-Puhuja 2: huvittava, että on ihan kuin jossain
-Puhuja 2: journalismikonferenssissa,
-Puhuja 2: pari pöytää ja
-Puhuja 2: pari jätkää,
-Puhuja 2: jotenkin laiskasti, nojailee siinä ja katsoo, onko ketään tulossa sisään.
-Puhuja 2: Sitten se yksi salama vaan juoksee aseiden ja veitsien kanssa läpi.
-Puhuja 2: Jotenkin
-Puhuja 2: kannattaisi, kun meilläkin on täällä sanomat tällaiset
-Puhuja 2: erittäin ärsyttävät pyöröovet, jotka toimii jos
-Puhuja 2: toimii. Semmoisethan pitäisi olla tuollaisessa. Joka paikassa,
-Puhuja 1: niinpä. Huvittavuudesta.
-Puhuja 1: Mä voidaan antaa ne mun valtuutukset. Pakko sanoa kuitenkin se, että mun mielestä
-Puhuja 1: ennen Trumpin
-Puhuja 1: kautta oli muoikasta puhua käsitteestä
-Puhuja 1: kuin Overtonin ikkuna,
-Puhuja 1: millä pyrittiin kuvaamaan sitä, että käyttäytymällä tietyllä tavalla
-Puhuja 1: epäsopivasti
-Puhuja 1: tullaan samalla laajennettua semmoista yleistä käsitystä siitä, mikä on sopivaa.
-Puhuja 1: Se on totta, koska
-Puhuja 1: Yhdysvaltojen presidenttiin just äsken kohdistui salamurha.
-Puhuja 1: Se on semisti
-Puhuja 1: top
-Puhuja 1: puolivälissä HS:n uutisia, että no pitääkö tätä nyt edes noteerataan.
-Puhuja 1: On tämä ihan kiinnostava, kun tässä on näitä huumoriaspekteja
-Puhuja 1: mukana.
-Puhuja 1: Että vitsi, meidän käsitys maailmasta muuttuu
-Puhuja 1: tällaisten myötä. Tämä on jo kolmas Attentaatti
-Puhuja 1: Yhdysvaltain presidentti.
-Puhuja 1: Meidän mielestä tämä on ihan silleen kainalpieröjuttu.
-Puhuja 1: Sen takia muistaa sen ensimmäisen. Se oli shokeeraavaa,
-Puhuja 1: kun näki sen uutisen, se uutishälytyksen,
-Puhuja 1: että on Trumpia
-Puhuja 1: yritetty salamurhata. Se oli shokeeraavaa.
-Puhuja 2: Mutta siis
-Puhuja 2: tavallaan se Overtonin ikkuna siirtyy, kun maailma muuttuu ja Jenkeissä on älyttömästi aseita kaikilla ja oikeuksia kantaa niitä.
-Puhuja 2: Poliittinen
-Puhuja 2: kulttuuri on polarisoitunut
-Puhuja 2: ja Yhdysvaltain presidentti on koko ajan ihmisten silmillä ja esillä, niin
-Puhuja 2: Tavallaan se uutiskriteeri on poikkeuksellisuus. Ehkä tää ei ole sitten kauhean poikkeuksellista.
-Puhuja 1: Sitten kun
-Puhuja 1: vuorostane A-studioon haastateltavaksi
-Puhuja 1: ja olette perustanut
-Puhuja 1: Kiinasta adoptoitujen koirien Kennelin,
-Puhuja 1: joka pyörii vapaaehtoisttöihin.
-Puhuja 1: Ville ryhmän perhana on leikkaamaan teidänkin
-Puhuja 1: rahoitusta, syyttänyt rälsiksi.
-Puhuja 1: Sakari Sirkkanen tarjoaa teille
-Puhuja 1: mahdollisuutta
-Puhuja 1: puolustaa itseään.
-Puhuja 1: Keskeytyksettä.
-Puhuja 1: Otatte
-Puhuja 1: siinä tölkillisen kohdalle
-Puhuja 1: A-studioon mukaan ja hörsitte siinä. Tarjoatte tietenkin yliläisillekin
-Puhuja 1: vähän.
-Puhuja 1: Mitä rupeatte siinä kertomaan kameroiden
-Puhuja 1: surrutessaan?
-Puhuja 2: Salla Suski. Kumpi, kumpi. Aloita se. Minä aloitan.
-Puhuja 2: Tunnistatteko tämän kuvauksen? Los Angelesiin saapuu tulevaisuudesta
-Puhuja 2: kaksi aikamatkustajaa.
-Puhuja 2: Toinen on sotilas Carl Reas
-Puhuja 2: ja toinen on ihmisen ja yhden erittäin tunnetun kehonrakentajan näköinen tappokone.
-Puhuja 2: Molemmilla on sama kohde.
-Puhuja 2: Tarjoilija Sarah
-Puhuja 2: Conner. Asiaan liittyy SkyNet,
-Puhuja 2: tekoäly
-Puhuja 2: ja
-Puhuja 2: vastarintaliikkeen
-Puhuja 2: johtaja John Koner. Saharhin syntymätön poika tunnistaaiko joku tällainen? Kaikkia oikein kovimpia elokuvia: The Törminator!
-Puhuja 2: Siis voitteko uskoa?
-Puhuja 2: En ollut nähnyt termina naturea
-Puhuja 2: koskaan.
-Puhuja 2: Vau.
-Puhuja 2: En tykkää ampumisesta ja muusta kauheasti, mutta
-Puhuja 2: perheen painostuksesta ryhdyin katsomaan tätä viime perjantaina.
-Puhuja 2: Mä
-Puhuja 2: katsoin ja yllätyin, miten paljon se puhutteli
-Puhuja 2: jotenkin tässä ajassa.
-Puhuja 2: Adolf Varzennecker siinä tietysti,
-Puhuja 2: hänen näyttelijätaitonsa silloin oli varmaan sellaista, että hän oli juuri oikeassa roolissa.
-Puhuja 2: Lähinnä ampuu ja on kivikasvasena.
-Puhuja 2: Siinähän on
-Puhuja 2: tekoäly tai mitä käytettiin siitä. Ei sen varmaan käyttävänsä sanaa.
-Puhuja 2: Nämä tyypit, jotka tulevat tulevaisuudesta
-Puhuja 2: eli vuodesta kaksituhatta kaksikymmentäyhdeksän,
-Puhuja 2: mikä on aika pian,
-Puhuja 2: ovat
-Puhuja 2: tilanteessa, jossa jäljelle jäänyt
-Puhuja 2: siviilisation.
-Puhuja 2: Ihmiskunta
-Puhuja 2: tavallaan taistelee
-Puhuja 2: koneiden ylivaltaa
-Puhuja 2: vastaan.
-Puhuja 2: Ne koneet eivät ole tavallaan
-Puhuja 2: inhimillisiä, vaan ne vain suorittavat
-Puhuja 2: mekaanisesti sitä tehtävää, jonka ihminen on joskus tyhmänä niille ohjelmoinut. Sehän kuulostaa ihan tekoälyltä.
-Puhuja 2: Tekoäly tekee sitä,
-Puhuja 2: mitä ihminen pyytää. Mutta se minusta oli, kun mä ajattelin, että se on ihan tyhjänpäiväinen räiskintäelokuva,
-Puhuja 2: mutta itse asiassa minusta se oli aika syvällinen
-Puhuja 2: tästä päivästä katsottuna. Suositukseni on Terminaattori
-Puhuja 2: ykkösosa.
-Puhuja 2: Hei muuten piti taas huomata se tässäkin elokuvassa,
-Puhuja 2: jonka otsake on varmaan Jenkeissä ollut pelkkä terminaator,
-Puhuja 2: Suomessa tämä on tietenkin ollut
-Puhuja 2: Terminaator
-Puhuja 1: tuhoaja. Tuollainen oli tuo julistettu. Okei, noin pitää tehdäkin. Aina pitää suomentaa elokuva mieltä. Luojan kiitos Netflix toisen takaisin.
-Puhuja 3: Itse asiassa annan kaksi suositusta. Ensin pienempi suositus, koska tämä ei ole tuore, mutta liittyy tähän Auer-caseen.
-Puhuja 3: Suosittelen
-Puhuja 3: Julia Korkman kirjaa
-Puhuja 3: Muistin varassa
-Puhuja 3: Oikeusprosessi ja totuus. Se on tosi kiinnostavasti kirjoitettu
-Puhuja 3: nimenomaan
-Puhuja 3: siitä, kuinka
-Puhuja 3: todistajat muistavat väärin ja
-Puhuja 3: on helposti manipuloitavissa
-Puhuja 3: ja näin edelleen. Että usko enää sen jälkeen mihinkään.
-Puhuja 3: Mutta sitten se varsinainen suositus on. Luin Sonja
-Puhuja 3: Kosken
-Puhuja 3: kirjoittaman kirjan Simpssi-sisällämme.
-Puhuja 3: Sonja Koski, joka valitettavasti
-Puhuja 3: viime syksynä kuoli,
-Puhuja 3: on apinatutkija.
-Puhuja 3: Se on tosi kiinnostava kirja, jossa se kertoo
-Puhuja 3: meidän
-Puhuja 3: ihmisten yhtäläisyyksistä
-Puhuja 3: ja eroavaisuuksista
-Puhuja 3: lähisukulaisiin
-Puhuja 3: verrattuna.
-Puhuja 3: Kannattaa lukea.
-Puhuja 1: Erinomaista.
-Puhuja 1: Sä olet niin ihanan sivistynyt.
-Puhuja 2: Tuntuu useamminkin
-Puhuja 2: tänne.
-Puhuja 1: Mä haluan ehkä suositella.
-Puhuja 1: Britanniassa on olemassa
-Puhuja 1: semmoinen
-Puhuja 1: nainen nimeltä Helen
-Puhuja 1: Lewis.
-Puhuja 1: Hän
-Puhuja 1: vierailee monesti kaikissa hyvissä
-Puhuja 1: podcasteissa,
-Puhuja 1: muun muassa
-Puhuja 1: Block and Repodet
-Puhuja 1: podcastissa
-Puhuja 1: ja
-Puhuja 1: monessa hyvässä podcastissa. Helen Louis on hänen nimensä.
-Puhuja 1: Hän pitää
-Puhuja 1: semmoista blogia nimeltä The Blue Stocking.
-Puhuja 1: Oikeastaan
-Puhuja 1: yleensä hän vain linkittää niihin asioihin, mitä hän on löytänyt tai lukenut.
-Puhuja 1: Hän on nero
-Puhuja 1: ja yksi hauskimpia ihmisiä, ketä mä
-Puhuja 1: olen ikinä tavannut.
-Puhuja 1: Tai siis netissä tavannut.
-Puhuja 1: Niin fiksu, niin hauska, niin näkemyksellinen
-Puhuja 1: asenne maailmaa elämää politiikan tapahtumia ja muita kohtaan on niin
-Puhuja 1: nautinnollisen,
-Puhuja 1: älykäs, pistävä ja humoristinen, mutta silti humaani.
-Puhuja 1: Haluan suositella
-Puhuja 1: The Blue Stocking-blogia,
-Puhuja 1: jossa
-Puhuja 1: ilmeisesti tässä uusimmassa postauksessa hän puhuu
-Puhuja 1: Kalapako
-Puhuja 1: saarten
-Puhuja 1: ravuista ja Charles Darwinista.
-Puhuja 1: Okei,
-Puhuja 1: siinä kaikki tältä erää. Kiitos tuhannesti
-Puhuja 1: vierailusta
-Puhuja 1: Susan Rainbot.
-Puhuja 1: Kiitos. Kiitos, Salla Vuorikoski. Kiitos. Mun nimenomainen.
-Puhuja 1: Kaiken muun mahtava meille tekee tällä viikolla Mikko Peura.
-Puhuja 1: Kiitos Mikolle.
-Puhuja 1: Laittakaa
-Puhuja 1: meille viestiä, kommenttia,
-Puhuja 1: palautetta. Mitä muuta? Oikaisupyyntöjä.
-Puhuja 2: Ja mitä muuta?
-Puhuja 2: Vapputoivotuksia.
-Puhuja 1: Laittakaa tietoa ja kuvia itsestänne, että miten wappu menee,
-Puhuja 1: onko kivaa ja minkälaista hatut teillä on päässä.
-Puhuja 1: Hyvää wappua täältä sinne ja
-Puhuja 1: kuullaanpa taas
-Puhuja 1: vaikka ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Utimaportti
+Puhuja 0: podcastiin
+Puhuja 0: poikkeuksellisesti
+Puhuja 0: nauhoitetaan
+Puhuja 0: vapun vuoksi keskiviikkona
+Puhuja 0: kaksikymmentäyhdeksän.
+Puhuja 0: Huhtikuuta kaksituhatta kaksikymmentäkuusi. Mun nimi on Tuomas Peltongian kanssa, niin täällä Helsingin Sanomien podcast studiossa
+Puhuja 0: ovat
+Puhuja 0: Helsingin Sanomien tutkivan ryhmän
+Puhuja 0: esihenkilö
+Puhuja 1: Salla Vuorikoski. Hei vaan Salla. Hei vaan. Sä et kutsunut mua enää muftiksi.
+Puhuja 0: Ai sä
+Puhuja 1: aiot palata siihen. Pidetään yleisöä jännityksessä. Kohta selviää: Voiko nainen olla muhti?
+Puhuja 0: Muftin kanssa tässä istuu.
+Puhuja 0: Suomen
+Puhuja 0: kenties keskeisiä lakiasiantuntijoita
+Puhuja 0: ainakin tälleen journalismin puolella. Ei ole edes tämmöistä ehkä, sanoisin Tuomas Peltomäkimäistä
+Puhuja 0: liioittelua.
+Puhuja 0: Ei ole minusta vaan. On, kenties keskitysemmin vähän liioittelua.
+Puhuja 0: Susanna Reinbod,
+Puhuja 0: tervetuloa. Kiitos.
+Puhuja 0: Tästä voitte ehkä arvatakin, että tämän viikon podcastissa keskustellaan
+Puhuja 0: lakiasioista. Mutta vasta toisena. Nimittäin sukelletaan heti ensimmäisenä
+Puhuja 0: soteleikkauksista
+Puhuja 0: lähteneeseen
+Puhuja 0: hyvin julkiseen Bifiin,
+Puhuja 0: jossa osapuolina
+Puhuja 0: paini,
+Puhuja 0: kunnon paini
+Puhuja 0: ottelussa verbaalisista
+Puhuja 0: tosin olivat
+Puhuja 0: vihreiden puheenjohtaja Sophie Virta ja
+Puhuja 0: Ville Rydman perussuomalainen sote-ministeri.
+Puhuja 0: He hyvin julkisesti alkoivat
+Puhuja 0: chattia ja huutaa,
+Puhuja 0: dissata,
+Puhuja 0: pilkata ja ivata
+Puhuja 0: ja vääntää
+Puhuja 0: Yleisradion
+Puhuja 0: A-studiian nimissä ohjelmassa.
+Puhuja 0: Tämä politiikan penkkiurheilijossa
+Puhuja 0: herätti suuresti
+Puhuja 0: sekä paheksuntaa
+Puhuja 0: että semmoista outoa riemastusta.
+Puhuja 0: Keskustellaan siitä.
+Puhuja 0: Beifi lähti liikkeelle
+Puhuja 0: soteleikkausten
+Puhuja 0: käsittelystä.
+Puhuja 0: En osaa vielä arvioida, oliko se hyvä, että tuli tämmöinen pienimuotoinen skandaali siitä saitko näille sote-asioille
+Puhuja 0: enemmän huomiota
+Puhuja 0: vai päinvastoin? Eikö se
+Puhuja 1: huomiota? Mä luulen, että sai eniten huomiota käytöstavoille,
+Puhuja 1: mutta
+Puhuja 1: ehkä vähän soteellekin.
+Puhuja 0: Kyllä. Mutta ei sorruta me mihinkään käytöstapajia, hermos ajan hermumana.
+Puhuja 0: Puhutaan siis tästä
+Puhuja 0: itse A-studiohetkestä,
+Puhuja 0: mutta puhutaan myös siitä, mitä siinä oli taustalla. Mistä siellä nyt alettiin riitelemään ja oliko siinä mitään perää?
+Puhuja 0: Sen lisäksi keskustellaan siis
+Puhuja 0: tänään
+Puhuja 0: keskiviikkona julki tulleesta käräjäoikeuden
+Puhuja 0: päätöksestä, jonka mukaan Anneli Auer,
+Puhuja 0: joka on
+Puhuja 0: entisen miesystävänsä
+Puhuja 0: Jelens Iilen kanssa,
+Puhuja 0: ollut istunut vankilassa vuosikausia.
+Puhuja 0: On nyt
+Puhuja 0: kaiken kaikkiaan todistettu tai siis todettu
+Puhuja 0: syyttömäksi
+Puhuja 0: niihin asioihin, mistä
+Puhuja 0: häntä ja heitä on tässä kaksikymmentä vuotta syytetty.
+Puhuja 1: Siis kaikkeen, mistä on syytetty. Siis
+Puhuja 0: näin. Tässä laitetaan tämä ehtolauseke nyt tähän alkuun. Eli tuomio ei ole vielä lainvoimainen.
+Puhuja 0: Se voi mennä hovioikeuteen.
+Puhuja 0: Se voi muuttua. Mutta me lähdetään varmaan siitä vähän ajatuksesta, että
+Puhuja 0: ei mene eikä muuta.
+Puhuja 0: Tuota... Ja sanotaan ehkä sekin ehtolauske, että...
+Puhuja 0: Itse tuomio on ollut kaksisataaviisikymmentä sivua ja ehdin lukea niistä kaksi. Suski ehkä vähän enemmän.
+Puhuja 0: Joten
+Puhuja 0: siellä voi olla alaviitteessä jotain faktoja, jotka ei ole tiedossa, mutta se täytyy nyt vain hyväksyä. Ja vielä kolmanneksi.
+Puhuja 0: Puhutaan
+Puhuja 0: vähän pällistelynomaisesti
+Puhuja 0: kolmannesta
+Puhuja 0: Yhdysvaltain presidentti
+Puhuja 0: Donald Trumpin
+Puhuja 0: kohdistuneesta
+Puhuja 0: salamurhayrityksestä.
+Puhuja 0: Tämä nyt on mun omaa päättelyä. Tekijä kyllä itse kieltää,
+Puhuja 0: että Trump olisi ollut tässä kohteena. Mutta voiko sitä muuten tulkita?
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 0: pitkien epämukavien
+Puhuja 0: hiljaisuuksien...
+Puhuja 2: Näistä sijaisvanhemmista
+Puhuja 2: en tiedä, mutta kaikki mahdolliset
+Puhuja 2: rikokset on vanhentuneita.
+Puhuja 0: Päätodistus,
+Puhuja 2: mitähän näin. Niin tai yllytys väärään,
+Puhuja 2: joo,
+Puhuja 2: just. Jotain tämmöistä. Että en ainakaan keksi, miten heitä heitä vastaan
+Puhuja 2: voisi lähteä yhtään millään tavalla.
+Puhuja 2: Kyllä mä uskon, että suurin osa ihmisistä tässä prosessissa on pyrkinyt toimimaan oikein, mutta kun tässä on
+Puhuja 2: tapahtunut jotenkin niin järkyttävän virheiden kumuloituminen,
+Puhuja 2: että se on johtanut aivan katastrofiseen.
+Puhuja 0: Mun mielestä kysymys on se, että tässä on joukko ihmisiä, joilla on varmaan aika hyvät liksat,
+Puhuja 0: aika
+Puhuja 0: arvostettu asema.
+Puhuja 0: Pöytään
+Puhuja 0: pöytä katetaan ja sitten kristallista saa juomaa.
+Puhuja 0: Herotellaan ja rouvitellaan. Ihmiset vähän niin kuin vaistomaisesti niiaa ja kun vartaa, kun he saapuu saliin.
+Puhuja 0: Näillä ihmisillä, vaikka he olisi vilpittömyyttä ja muuta, heillä on vastuu siitä, että nämä asiat toimii. Ja ne ei mene katastrofaalisella
+Puhuja 0: tavalla pieleen. Heillä on vastuu siitä, että joku
+Puhuja 0: viaton ihminen
+Puhuja 0: ei kahtakymmentä vuotta
+Puhuja 0: hukkaa elämästään sen vuoksi, että te ette hoida töitänne kunnolla. Heillä on se vastuu.
+Puhuja 0: Mun mielestä se vastuu täytyy kantaa jollain. Jonkun täytyy olla se, että okei, hei vitsi,
+Puhuja 0: sinä syyttäjä tai sinä tuomari siinä.
+Puhuja 0: Sä et selvästi osaa tätä asiaa ollenkaan.
+Puhuja 0: Sä oot aiheuttanut yhden itsenäisen maan pahimmista
+Puhuja 0: oikeusmurhista.
+Puhuja 0: Sä oot vienyt kokonaisen tällä hetkellä elossa olevan kansakunnan
+Puhuja 0: uskon siihen, että oikeusjärjestelmä
+Puhuja 0: täällä toimii ja on länsimaisellä tasolla. Niin ihan selvästi me ei voida olla tässä vain silleen, että: No, mutta jatkapa tiistaina tätä uraa eteenpäin.
+Puhuja 0: Maailma ei pidä toimia silleen, vaan pitää olla silleen, että okei, sä et selkeästi osaa tätä hommaa. Meillä on tässä aika hyvä todistusaineisto.
+Puhuja 0: Sä menet tohon sihteerin hommaan ja sitten tulee seuraava jonosta sun hommaa. Näinhän sä pitäisi mennä, mutta meneekö näin? Pitäisikö oikeusministerin
+Puhuja 1: esittää julkinen anteeksipyyntö? Tai jonkun? Kuka tästä vastaa? Selvitys? Selvitys.
+Puhuja 0: No,
+Puhuja 0: ruumiinavaus koko hommaa oikeushistorialla.
+Puhuja 2: Mun mielestä olisi hyvä, että tähän tehtäisiin
+Puhuja 2: jonkinlainen ruumiinavaus,
+Puhuja 2: että miten tämä on ollut mahdollista.
+Puhuja 2: Se täytyy tehdä niin, että siinä
+Puhuja 2: ei osoiteta syyllisiä, vaan osoitetaan syitä.
+Puhuja 2: Minkä takia tämä?
+Puhuja 1: Kun hän on hyvä ihminen ja hän haluaa
+Puhuja 0: ihmisiä kiusata toisia. Siis se ei ole vääjää-tuomari, se on niin tärkeä. Sillä on niin paljon valtaa, että se pitää pystyä niin paljon.
+Puhuja 0: Niin, ei tarvitse olla. Mutta on tötöily hommassaan.
+Puhuja 2: No, tötöilyjä sattuu,
+Puhuja 2: mutta
+Puhuja 2: mun mielestä olennaista on lähteä, että tämä on tapahtunut nyt, mutta miten me voidaan välttää, että tämä tapahtuu uudelleen?
+Puhuja 2: Eli sen takia pitää tehdä semmoinen prosessi, jossa katsotaan, miksi
+Puhuja 2: tämä meni näin väärin.
+Puhuja 0: Kyllä. Joo, mutta mä oon täysin eri mieltä. Miksi joku niinku repe
+Puhuja 0: hitsaaja... Alaja on kuin toi nyt. On silleen, että: Joo, hei, repe, haast paske ja saat monoa. Jos sä olet silleen,
+Puhuja 0: palkka on kaksisataa nolla vuodessa, niin joo ei siitä kyllä mainita nimeltä kuka tää on tehnyt? Ei se niin voi toimia.
+Puhuja 1: Eikö ole jännää, että Auerin nimi on pyörinyt, kaikki tietävät Anneli Auerin. Sitten tämä Jens Kukka ja hänen uusi nimensä julkaistiin mediassa minusta
+Puhuja 1: ihan perustellusti.
+Puhuja 1: Heidän nimet on
+Puhuja 1: poltettu ihmisten
+Puhuja 1: mieli. Me ei tiedetä, sä tiedät ja moni tietää, mutta me ei tiedetä julkisesti muiden toimijoiden kanssa. Enkä
+Puhuja 1: mä nyt siis sano, että ne pitää johonkin... Usein. Mutta se vaan on mennyt näin.
+Puhuja 0: Mediakin pitää julkista valtaa. Me poliitikkojen nimet laitetaan
+Puhuja 0: julkista valtaa. Se on se oikeusvaltakin.
+Puhuja 0: Aivan samalla tavalla. Ei ne ole mitenkään arvostelun yläpuolella. Joo, ei. Olen samaa mieltä.
+Puhuja 0: Lyhyesti pysähdytään vielä Yhdysvalloista,
+Puhuja 0: missä presidentti Donald Trumpin hallinnosta
+Puhuja 0: on viime päivinä esitetty vaatimuksia A BC:n talks shown
+Puhuja 0: Jimmy Kimllin erottamiseksi.
+Puhuja 0: Kimel nimittäin esitti viime torstaina ohjelmassaan vitsin, jossa kuvaili Trumpin vaimoni
+Puhuja 0: Trumpin odpia
+Puhuja 0: odottavaksi leskeksi.
+Puhuja 0: Tämä siis tapahtui torstaina.
+Puhuja 0: Mä oon ihan varma, että Jimikin Melia harmitti aika lailla, kun lauantaina
+Puhuja 0: Mellenin ja Trump olivat tässä lehdistön illallisessa, joka on tämmöinen vuotuinen
+Puhuja 0: Washingtonin
+Puhuja 0: silmää tekevien
+Puhuja 0: tilaisuus.
+Puhuja 0: Sinne hyökkäsi
+Puhuja 0: heppu, joka
+Puhuja 0: yritti
+Puhuja 0: tehdä jonkunnäköisen attentaatin.
+Puhuja 0: Omien sanojensa mukaan ei Trumpia kohtaan, vaan muita virkamiehiä kohtaan.
+Puhuja 0: En tiedä, onko se ollut millään tavalla uskottavaa.
+Puhuja 0: Trump reagoi tähän monilla eri tavoilla.
+Puhuja 0: Heti alkoi agitoimaan
+Puhuja 0: omaa kannattajakuntaan. Saa väitti
+Puhuja 0: tyyppiä oudosti jotenkin kristinuskon vastaisesti, vaikka ehkä päinvastoin. Tyyppi oli
+Puhuja 0: kristityn oloinen.
+Puhuja 0: Sitten
+Puhuja 0: Kimelin ja samalla hän myös kaikkia muita vasemmistolaisia.
+Puhuja 0: Sätti. Tämä on vasemmistolaista terrorismia, vasemmistolaista väkivaltaa, mihin Kimelkin
+Puhuja 0: syyllistyi.
+Puhuja 0: Ja että Kimel pitäisi ainakin erottaa saman tien. Myös Melonia Zroombi, joka yleensä ei kommentoi näitä, niin hän vaati ei-biisi-kanavaa
+Puhuja 0: ottavan kantaa näihin Kimelin sanomisiin.
+Puhuja 0: Jos se nyt oli välittömästi sen salamurhayrityksen,
+Puhuja 0: jos se nyt oli sellainen, niin sen jälkeen tämä Trumpin toimesta politisoitiin. Siinä ei mennä kuin kaksi silmäräpäystä, niissä oli tehty identiteettipolitiikkakysymykseksi.
+Puhuja 0: Tämä on siis nyt kolmas salamurhayritys,
+Puhuja 0: joka Trump kohtaa.
+Puhuja 0: Aiemmin oli battlerissa
+Puhuja 0: Benzovenassa
+Puhuja 0: Westban-Beechissa
+Puhuja 0: Floridassa.
+Puhuja 0: Ja nyt siis Washingtonissa
+Puhuja 0: Hilton hotellissa, jossa
+Puhuja 0: aiemmin salamurhaaja
+Puhuja 0: ampui ja siis osui
+Puhuja 0: Ronald Reaganin 1980-luvun.
+Puhuja 1: Ai niin, se oli siellä samassa poika. Sama paikka, Jep.
+Puhuja 0: Tämä on se liemi, missä Yhdysvallat tällä hetkellä kuplii. Muun muassa presidentitiedettä
+Puhuja 0: Carlin Livi sanoi, että
+Puhuja 0: on olemassa presidentin
+Puhuja 0: vastainen vasemmistolainen
+Puhuja 0: vihankultti.
+Puhuja 1: Mulle
+Puhuja 1: paljastui eilen, että Suskilla on kuulematta panna katsoa kaikki amerikkalaiset hassuttelut
+Puhuja 1: talk show'tt, niin sä olet siis nähnyt tuoreeltaan tämän Kimmelin. Mä en ole nähnyt sitä. Miten sä tulkitsit
+Puhuja 2: sen vitsi? Silloin kun se alun perin esitettiin, mä en edes huomannut. Se oli semmoisessa pidemmässä
+Puhuja 2: osuudessa
+Puhuja 2: siinä Jimmy Kimmil showssa, jossa hän oli pukeutunut
+Puhuja 2: smokkiin ja ikään kuin oli pitämässä puhetta
+Puhuja 2: siellä illallisilla.
+Puhuja 2: Siihen oli leikattu
+Puhuja 2: vanhoista
+Puhuja 2: tv-pätkistä
+Puhuja 2: mukayleisön
+Puhuja 2: ilmeitä.
+Puhuja 2: Se oli ihan hauska, mutta tähän nimenomaiseen kohtaan en kiinnittänyt yhtään mitään huomiota.
+Puhuja 1: Kunnes sitten. Kunnes. Niin, ja onhan tuo aivan hirveää jeesustelua
+Puhuja 1: Trumpilta,
+Puhuja 1: kaikkihan sen tietenkin tajuaakin, mutta onhan hän itse sanonut ihmisistä niin paljon törkeämpiä asioita, alkaen vaikka siitä, että hän on sanonut
+Puhuja 1: tämän klassikon, että voisin ampua ihmisen, missä
+Puhuja 1: se nyt oli matkustaa. Viidennellä kadulla.
+Puhuja 1: Eikä minulle tapahtunut. No mitä jos sen jälkeen olisi joku ammuttu siellä kadulla, höpölöpö?
+Puhuja 1: Tämmöistähan tämä on, mutta kun
+Puhuja 1: kun kaikki on
+Puhuja 1: performanssia ja sitten mielestäni Trumpin
+Puhuja 1: syykestä
+Puhuja 1: eli psyykestä
+Puhuja 1: kertoo jotain se, että useidenkin näiden ampumistilanteiden
+Puhuja 1: jälkeen,
+Puhuja 1: sen kun hänen korvaansa ammuttiin ja tämän jälkeen, niin hän on yhtäkkiä
+Puhuja 1: latingissä
+Puhuja 1: silleen, että pidä nämä juhlat kolmekymmentä päivän päästä uudelleen.
+Puhuja 1: Se oli ilmeisesti juttu, että se haluaa päästä pitämään sen omasta mielestään tosi hyvän puheen, jonka hän oli suunnitellut
+Puhuja 1: toimittajille puhuttavaksi.
+Puhuja 1: Jos normaali ihminen on tilanteessa, jossa sinut yritetään ampua,
+Puhuja 1: ihmisethän varmaan reagoi monilla eri tavoilla, mutta harvoin ne ovat
+Puhuja 1: ojennuksessa
+Puhuja 1: ja kaikki on ihan ennallaan ja jatketaan tätä poliittista peliä.
+Puhuja 2: Se oli erikoista. Trumpin ensimmäinen reaktio oli, että tämä osoittaa, että hänen
+Puhuja 2: ball roomingsa eli se
+Puhuja 2: juhlasiipi
+Puhuja 2: täytyy
+Puhuja 2: rakentaa.
+Puhuja 2: Okei, se ehkä saattaisi
+Puhuja 2: auttaa presidentin turvallisuuteen,
+Puhuja 2: mutta eikö perusongelma ole se, että Amerikka on täynnä aseita ja siellä jengi
+Puhuja 2: kulkee ampumassa toisiaan.
+Puhuja 2: Se on jännä, että hän näki tämänkin asian ihan vaan itsessään ja oman
+Puhuja 0: rakkaan pikku hobbiinsa kautta. Niin ja hän on yksi tehokkaampia opportunisteja, mitä mä olen ikinä nähnyt. Alle sekunnissa se aivo on keksinyt,
+Puhuja 0: että miten hän käyttää tätä hyväksi. Mitä ajattelitte, kun näettekö sen videon?
+Puhuja 0: Se
+Puhuja 0: on oudoin
+Puhuja 0: salamurhavideo, mitä mä oon nähnyt ja hämmästyttävästi. Niitä on tullut nyt viime vuosina nähtyä monta.
+Puhuja 0: Mutta tyyppi siis vain juoksee
+Puhuja 0: sen hotellejaulan
+Puhuja 0: läpi niin nopeata, että se ei tartu siihen filmille. Hän on semmoinen
+Puhuja 2: Salama.
+Puhuja 0: Ne kerkeän reagoimaan ne
+Puhuja 0: salaisen palvelun miehet, joita siellä on siis runsaasti. Ja hän vaan juoksee niiden ohi silleen, että se ei tartu filmille niin nopeaa. Sitten
+Puhuja 0: he kääntyvät vähän hölmistyneestä ja hänen perässä ja alkaa osoittelemaan asella, että mikä siellä meni. Niin, sehän on huvittava se,
+Puhuja 1: sehän
+Puhuja 1: ei oikeasti ole huvittava. Eihän tämä nyt oikeasti ole huvittava ja on äärimmäisen vakavaa, että tuommoista tapahtuu.
+Puhuja 1: Ihan hirveää ja hyvää kuin Trump, eikä kukaan kuollut siinä.
+Puhuja 1: Eihän se ollut täysin epäonnistuminen
+Puhuja 1: turvamiehiltä,
+Puhuja 1: koska se kuitenkin saatiin tosi nopeasti nippuun.
+Puhuja 1: Onhan tilanne
+Puhuja 1: huvittava, että ihan kuin jossain meidän journalismikonferenssissa,
+Puhuja 1: pari pöytää siinä ja pari jätkää
+Puhuja 1: laiskasti nojailee
+Puhuja 1: siinä, katsoo, onko ketään tulossa sisään.
+Puhuja 1: Sitten se yksi salama vaan juoksee aseiden ja veitsien kanssa läpi.
+Puhuja 1: Jotenkin ihan kannattaisi, kun meilläkin on täällä sanomat tuollaiset erittäin ärsyttävät pyöräovet, jotka toimii jos toimii, niin semmoisethan pitäisi olla tuollaisessa. Joka paikassa, niinpä.
+Puhuja 0: Huvittavuudesta.
+Puhuja 0: Avoinda antaa ne mun valtuutukset. Pakko sanoa kuitenkin se, että mun mielestä
+Puhuja 0: ennen Trumpin ykköskautta
+Puhuja 0: oli muoikasta puhua
+Puhuja 0: käsitteestä kuin Overtorin
+Puhuja 0: ikkuna. Sillä pyrittiin kuvaamaan sitä, että käyttäytymällä
+Puhuja 0: tietyllä tavalla
+Puhuja 0: epäsopivasti
+Puhuja 0: tullaan samalla laajennettua yleistä
+Puhuja 0: käsitystä siitä, mikä on sopivaa.
+Puhuja 0: Se on totta, koska Yhdysvaltojen
+Puhuja 0: presidenttiin just äsken kohdistui salamurha.
+Puhuja 0: Se
+Puhuja 0: on semisti
+Puhuja 0: top
+Puhuja 0: puolivälissä HS:n uutisia, että pitääkö
+Puhuja 0: tätä nyt edes noteerotaan.
+Puhuja 0: On tämä ihan kiinnostava, kun tässä on näitä huumoriaspekteja mukana.
+Puhuja 0: Vitsi, meidän käsitys maailmasta muuttuu
+Puhuja 0: tällaisten myötä. Tämä on jo kolmas Attentaatti,
+Puhuja 0: Yhdysvaltain presidentti. Meidän mielestä tämä on ihan silleen kainaloperöjuttu.
+Puhuja 0: Sen takia muistaa sen ensimmäisen, se oli shokeeraavaa,
+Puhuja 0: kun näki sen uutis, se
+Puhuja 0: uutishälytyksen,
+Puhuja 0: että on Trumpia
+Puhuja 0: yritetty salamorahata. Se oli shokeeraavaa.
+Puhuja 1: Mutta
+Puhuja 1: siis tavallaan se Overtonin ikkuna siirtyy, kun maailma muuttuu ja Jenkeissä on älyttömästi aseita kaikilla ja oikeuksia kantaa niitä ja poliittinen kulttuuri on polarisoitunut
+Puhuja 1: ja Yhdysvaltain presidentti on koko ajan ihmisten silmillä ja esillä.
+Puhuja 1: Uutiskriteeri on poikkeuksellisuus. Ehkä tämä ei ole sitten niin kauhean poikkeuksellista.
+Puhuja 0: Sitten
+Puhuja 0: kun...
+Puhuja 0: Sitten kun...
+Puhuja 0: Vuorostessanne A-studioon
+Puhuja 0: haastateltavaksi
+Puhuja 0: ja Olette perustanut
+Puhuja 0: Kiinasta adoptoitujen koirien Kennelin,
+Puhuja 0: joka pyörii
+Puhuja 0: vapaaehtoistyööin.
+Puhuja 0: Ville ryhmän perhana on leikkaamaan teidänkin rahoitusta
+Puhuja 0: syyttänyt rälsiksi.
+Puhuja 0: Niin Sakari Sirkkanen tarjoaa teille
+Puhuja 1: mahdollisuutta puolustaa itseään. Keskeytyksettä.
+Puhuja 0: Otatte siinä sitten tölkillisen kalliia
+Puhuja 0: A-studioon
+Puhuja 0: mukaan ja hörsitte siinä. Tarjoatte tietenkin
+Puhuja 0: yleläisillekin
+Puhuja 0: vähän.
+Puhuja 0: Mitäs rupeatte siinä kertomaan
+Puhuja 0: kameroiden
+Puhuja 0: surrotessaan,
+Puhuja 0: Salla Suski? Kumpi, kumpi?
+Puhuja 1: Aloita se. Minä aloitan.
+Puhuja 1: Tunnistatteko
+Puhuja 1: tämän kuvauksen?
+Puhuja 1: Los Angelesiin saapuu tulevaisuudesta
+Puhuja 1: kaksi aikamatkustajaa,
+Puhuja 1: toinen on sotilas Kall Rees
+Puhuja 1: ja toinen on ihmisen
+Puhuja 1: ja yhden erittäin tunnetun
+Puhuja 1: kehonrakentajan
+Puhuja 1: näköinen tappokone.
+Puhuja 1: Kone. Molemmilla on sama kohde.
+Puhuja 1: Tarjoilija
+Puhuja 1: Sarah Conner. Asiaan liittyy Skynet,
+Puhuja 1: tekoäly
+Puhuja 1: ja vastarinta-Liikke
+Puhuja 1: johtaja John Conner. Sarahin syntymän poika tunnistaako joku?
+Puhuja 0: Kaikkia aikojen kuvimpia elokuvia: The Törminator!
+Puhuja 1: Siis voitteko uskoa? En ollut nähnyt Törmin naturya
+Puhuja 1: koskaan. Vou.
+Puhuja 1: Kerrotuista syistä.
+Puhuja 1: En tykkää ampumisesta ja muusta kauheasti, mutta
+Puhuja 1: perheen painostuksesta ryhdyin katsomaan tätä viime perjantaina.
+Puhuja 1: Minä katsoin ja yllätyin, miten paljon se puhutteli tässä ajassa.
+Puhuja 1: Arvozaneker,
+Puhuja 1: hänen
+Puhuja 1: näyttelijätaitonsa
+Puhuja 1: silloin oli varmaan sellaista, että hän oli oikeassa
+Puhuja 1: roolissa. Lähinnä ampuu ja on kivikasvasena. Mutta siinä on tekoäly, tai käytettiinkö siinä. Ei siinä varmaan käyttänyt sanaa.
+Puhuja 1: Nämä tyypit, jotka tulevat tulevaisuudesta
+Puhuja 1: eli vuodesta kaksituhatta kaksikymmentäyhdeksän,
+Puhuja 1: ja ovat aika
+Puhuja 1: pian, ovat tilanteessa,
+Puhuja 1: jossa jäljelle jää nyt,
+Puhuja 1: ihmiskunta taistelee
+Puhuja 1: koneiden ylivaltaa
+Puhuja 1: vastaan.
+Puhuja 1: Ne koneet eivät ole tavallaan
+Puhuja 1: inhimillisiä, vaan ne vain suorittavat
+Puhuja 1: mekaanisesti sitä tehtävää, jonka ihminen on joskus tyhmänä niille ohjelmoinut. Sehän kuulostaa ihan tekoälyltä.
+Puhuja 1: Tekoäly tekee sitä, mitä
+Puhuja 1: ihminen pyytää.
+Puhuja 1: Tyhjänpäiväinen räiskintäelokuva,
+Puhuja 1: mutta itse asiassa minusta se oli aika syvällinen
+Puhuja 1: tästä päivästä katsottuna. Suositukseni on Terminaattori
+Puhuja 1: ykkösosa.
+Puhuja 1: Muuten piti taas huomata se
+Puhuja 1: tässäkin elokuvassa, jonka otsake on varmaan Jenkeissä ollut pelkkä terminaator,
+Puhuja 1: Suomessa tämä on tietenkin ollut
+Puhuja 1: Terminaator,
+Puhuja 1: tuhoaja. Tuollainen oli tuo
+Puhuja 0: julistettu.
+Puhuja 0: Noin pitää tehdäkin.
+Puhuja 0: Aina pitää suomentaa elokuvajänne.
+Puhuja 0: Luojan kiitos Netflix toisen takaisin.
+Puhuja 0: Tuskin.
+Puhuja 2: Itse asiassa annan kaksi suositusta, ensin pienempi suositus, koska tämä ei ole tuore, mutta liittyy tähän Auer
+Puhuja 2: caseen.
+Puhuja 2: Suosittelen Julia Korkman kirjaa
+Puhuja 2: Muistin varassa Oikeusprosessi
+Puhuja 2: ja totuus. Se on tosi kiinnostavasti kirjoitettu
+Puhuja 2: nimenomaan siitä, kuinka
+Puhuja 2: todisteet muistaa väärin
+Puhuja 2: ja on helposti manipuloitavissa
+Puhuja 2: ja näin edelleen. Et usko enää sen jälkeen mihinkään.
+Puhuja 2: Mutta sitten
+Puhuja 2: se varsinainen suositus on. Luin tällaisen Sonja Kosken kirjoittaman kirjan Simpanss
+Puhuja 2: sisällämme.
+Puhuja 2: Tämä Sonja Koski, joka valitettavasti
+Puhuja 2: viime syksynä kuoli,
+Puhuja 2: on siis apinatutkija.
+Puhuja 2: Se on tosi kiinnostava kirja, jossa se kertoo
+Puhuja 2: meidän
+Puhuja 2: ihmisten yhtäläisyyksistä
+Puhuja 2: ja eroavaisuuksista
+Puhuja 2: lähisukulaisiin
+Puhuja 2: verrattuna.
+Puhuja 2: Kannattaa lukea.
+Puhuja 0: Erinomaista.
+Puhuja 0: Sä olet niin ihanan sivistynyt.
+Puhuja 1: Tuu useamminkin
+Puhuja 1: tänne.
+Puhuja 0: Mä haluan
+Puhuja 0: ehkä suositella.
+Puhuja 0: Britanniassa on olemassa
+Puhuja 0: nainen
+Puhuja 0: nimeltä Helen Lewis.
+Puhuja 0: Hän
+Puhuja 0: vierailee monesti kaikissa hyvissä
+Puhuja 0: podcasteissa,
+Puhuja 0: muun muassa tuossa
+Puhuja 0: Block and Repodet podcastissa ja
+Puhuja 0: monessa hyvässä podcastissa.
+Puhuja 0: Helen Lewis on hänen nimensä.
+Puhuja 0: Hän pitää semmoista
+Puhuja 0: blogia nimeltä The Blue Stocking.
+Puhuja 0: Oikeastaan yleensä hän vain linkittää niihin asioihin, mitä hän on löytänyt netistä tai lukenut.
+Puhuja 0: Hän on nero
+Puhuja 0: Yksi hauskimpia ihmisiä, ketä mä olen
+Puhuja 0: ikinä tavannut. Tai siis netissä tavannut.
+Puhuja 0: Niin fiksu,
+Puhuja 0: niin hauska,
+Puhuja 0: niin näkemyksellinen
+Puhuja 0: asenne
+Puhuja 0: maailmaa, elämää politiikan tapahtumia ja
+Puhuja 0: on
+Puhuja 0: niin nautinnollisen,
+Puhuja 0: älykäs, pistävä ja humoristinen, mutta silti humaani.
+Puhuja 0: Mä haluan suositella The Blue Stocking-blogia,
+Puhuja 0: jossa
+Puhuja 0: ilmeisesti tässä uusimmassa postauksessa hän puhuu muun muassa
+Puhuja 0: Kalapakosaarten
+Puhuja 0: ravuista ja Charles Darwinista.
+Puhuja 0: Okei, siinä kaikki tältä erää.
+Puhuja 0: Kiitos tuhannesti
+Puhuja 0: vierailusta,
+Puhuja 0: Susan Rebbot.
+Puhuja 0: Kiitos.
+Puhuja 0: Kiitos, Salla Vuorikoski. Kiitos. Mun nimen kommentoimus Peltonkin äänenkuvan. Kaiken muun mahtava meille tekee tällä viikolla Mikko Peura.
+Puhuja 0: Kiitos Mikolle.
+Puhuja 0: Laittakaa meille viestiä, kommenttia,
+Puhuja 0: palautetta.
+Puhuja 0: Mitä muuta? Oikaisupyyntöjä.
+Puhuja 1: Mitä muuta?
+Puhuja 1: Vapputoivotuksia.
+Puhuja 0: Laittakaa tietoa ja kuvia itsestänne, että miten wappu menee,
+Puhuja 0: onko kivaa ja minkälaista hatut teillä on päässä.
+Puhuja 0: Hyvää vappua täältä sinne ja
+Puhuja 0: kuullaanpa taas
+Puhuja 0: vaikka ensi viikolla!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin.
+Puhuja 0: Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

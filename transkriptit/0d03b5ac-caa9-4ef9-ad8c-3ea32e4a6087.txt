@@ -1,223 +1,420 @@
-Puhuja 0: Hei!
-Puhuja 0: Tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina
-Puhuja 0: viisitoista. Toukokuuta
-Puhuja 0: kaksituhatta kaksikymmentäviisi
-Puhuja 0: sohvanvin nimipäivänä.
-Puhuja 0: Mennään Sohvin nimipäivänä. Onneksi olkoon.
-Puhuja 0: Tästä voittekin päätellä, että minun nimeni on Anna-Sofia Berner, ystävien kesken Sohvi.
-Puhuja 0: Kanssani täällä Sanomatalon podcast-studiossa
-Puhuja 0: Klovissa
-Puhuja 0: Helsingissä,
-Puhuja 0: Suomessa, Euroopassa
-Puhuja 0: ovat politiikkaa. Helsingin Sanomissa toimittava Marko Junkkari.
-Puhuja 1: Moi Marko. Moi. Onko tämä Klovia?
-Puhuja 0: Äläpä.
-Puhuja 0: Ensimmäistä kertaa rupesin selvittämään,
-Puhuja 0: että missä kaupunginosassa olen ollut viisitoista
-Puhuja 0: vuotta töissä.
-Puhuja 0: Vieressäni istunut Heikki Aattokoski sanoi, että ainakaan tämä ei ole klubia.
-Puhuja 0: Sitten menin tarkistamaan Helsingin kaupungin tietopalvelun
-Puhuja 0: karttuista,
-Puhuja 2: että kyllä olemme klubissa. Tämähän on aivan klassikkooikaisujen
-Puhuja 2: aihe, kun nämä kaupunginosien nimet ovat aika vaikeita.
-Puhuja 1: Saanko esittää tietokilpailukysymyksen?
-Puhuja 1: No esitän. Kuljin Eljalalla deskissä.
-Puhuja 1: Tämä ei edes ole hauskaa, mutta jotenkin mykisti. Mikä on
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin
+Puhuja 2: Sanomat. Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 2: podcastiin
+Puhuja 2: torstaina viisitoista. Toukokuuta
+Puhuja 2: kaksituhatta kaksikymmentäviisi
+Puhuja 2: Sohvin nimipäivänä.
+Puhuja 2: Miksi tänään Sohvin nimipäivänä? Onneksi olkoon!
+Puhuja 2: Noniin. Tästä voittekin päätellä, että minun nimeni on Anne-Sofia Berner, ystävien kesken Sohvi
+Puhuja 2: ja kanssani täällä Sanomatalon
+Puhuja 2: podcast-studiossa
+Puhuja 2: Klovissa
+Puhuja 2: Helsingissä, Suomessa, Euroopassa
+Puhuja 2: ovat politiikkaa. Helsingin Sanomissa toimittava
+Puhuja 2: Marko Junkkari. Moi Marko. Moi. Onko sitä Klovia?
+Puhuja 2: Äläpä. Katso
+Puhuja 2: ekaa kertaa rupesin selvittämään, että missä kaupunginosassa
+Puhuja 2: olen ollut viisitoista vuotta töissä.
+Puhuja 2: Vieressäni istun Heikki Aittakoski sanoi, että ainakaan tämä ei ole Kluvia.
+Puhuja 2: Ja sitten menin tarkistamaan Helsingin kaupungin
+Puhuja 2: tietopalvelun karttuista, että kyllä, olemme Klovissa. Tämähän on aivan klassikkooikaisujen
+Puhuja 3: aihe, kun nämä kaupunginosien nimet ovat ehkä aika vaikeita.
+Puhuja 1: Sankaisitko tämän tietokilpailysymyksen?
+Puhuja 1: No ei sitä. Kuulin Heli jalalla Deskissä.
+Puhuja 1: Edes ole hauskaa, mutta jotenkin mykisti. Mikä on
 Puhuja 1: Suomen suurin kunta?
-Puhuja 1: Kaupunkia ei hyväksytä,
-Puhuja 1: mutta kunta, joka on kunta, jossa on eniten
-Puhuja 1: asukkaita. Ei kaupunki. Sodankylä.
-Puhuja 1: Väkiluuvulta. Ai,
-Puhuja 0: väkiluuultaan.
-Puhuja 0: Mitä,
-Puhuja 0: väkiluuultaan.
-Puhuja 0: Kaupunkeja jäi hyväksytä.
-Puhuja 0: No, en tiedä.
-Puhuja 2: Onko tämä se nyt mitään ärsyttää, kun me kuullaan tämän vastaus?
-Puhuja 1: En tiedä, että tässä ei ole mitään jekkua, vaan.
-Puhuja 1: Kerroko lähetyksen lopussa?
-Puhuja 0: Meidän pitää päästä esittelemään
-Puhuja 0: tämä upea
-Puhuja 0: ihminen, joka meidän kanssamme täällä keskustelee. Hän on ulkomaantoimittaja
-Puhuja 0: ja Viisu-raportin
-Puhuja 0: juontaa
-Puhuja 0: Anni Huttunen. Moi Anni. Moi.
-Puhuja 0: Oletko ensimmäistä kertaa uutisraportti-podcastissa?
-Puhuja 2: Kyllä, ihan ensimmäistä kertaa. Aivan.
-Puhuja 0: Siinä sitten kun
-Puhuja 0: tulee joku
-Puhuja 0: maa, olisiko Annilla esimerkkiä,
-Puhuja 0: jonka biisi ei ihan niin vedä mukaansa?
-Puhuja 2: Venäjän ilon kautta, niin kaikki varmaan
-Puhuja 2: jonkun vedän mukaansa.
-Puhuja 0: Joka tapauksessa sellaisessa suontokohdassa
-Puhuja 0: tai kun juontajien huonot läpät ei jaksa kiinnostaa niin mistäs alatte
-Puhuja 0: keskustella siinä?
-Puhuja 0: Mikä olisi paras Euroviisujuova
-Puhuja 0: Mellan Earlin
-Puhuja 0: ääressä?
-Puhuja 2: Minä voin vaikka aloittaa
-Puhuja 2: sillä,
-Puhuja 2: että katsoin hiljattain
-Puhuja 2: toisen kauden sellaisesta tv-sarjasta,
-Puhuja 2: joka ensimmäinen kausi on tullut jo jonkin aikaa sitten kuin Severens.
-Puhuja 2: En tiedä, onko tässä
-Puhuja 1: suosteteltu jo kyseistä ole. Ei se hehkutettu, mutta hehkuta lisää. Mä hehkuta vielä ihan vieläkään katsonut.
-Puhuja 2: Mutta nyt pliis.
-Puhuja 2: Se ensimmäinen kausi oli semmoinen, että mulle
-Puhuja 2: se
-Puhuja 2: on sekä tosi viihdyttävä että upeasti tehty ja tuotettu ja todella kauniisti kuvattu,
-Puhuja 2: mutta myös etenkin se eka kausi oli semmoinen, että se sai minut kyseenalaistamaan
-Puhuja 2: työelämää
-Puhuja 2: ja itseäni ja minun paikkaa tässä
-Puhuja 2: yhteiskunnassa ihmisenä.
-Puhuja 2: Todella suosittelen sitä, ja nyt saimme katsottua hiljattain loppuun sen toisen kauden, joka jäi vielä cliffhangeriin,
-Puhuja 2: tulee selvästi kolmas kausi vielä. Mutta se on todella
-Puhuja 2: mukaansatempaava. Se kertoo tämmöisestä maailmasta, missä
-Puhuja 2: on kehitetty
-Puhuja 2: sellainen toimenpide, että sinun aivoihin voidaan asentaa sellainen siru, joka erottaa työminän täysin henkilökohtaisesta
-Puhuja 2: minästä. Ja sitten se on myyty ihmisille sille, että tämä vaan helpottaa. Jos sulla on työ, mitä et fiilaa kauheasti,
-Puhuja 2: niin voit kääntää sinun aivot pois
-Puhuja 2: sen asian, kun olet työpaikalla.
-Puhuja 2: Tämä on mieletön ajatus, joka viedään siinä sarjassa
-Puhuja 2: ihan uskomattomiin sfääreihin.
-Puhuja 2: Tällä toisella kaudella käsitellään tosi paljon siitä, että voiko niillä olla,
-Puhuja 2: jos olet vain sinä, mutta kaksi eri minää ei tunne toisiaan, niin voiko niillä olla erilaisia
-Puhuja 2: rakkauden kohteita, voiko niillä olla erilaisia toiveita ja unelmia pelkoja, ja missä vaiheessa
-Puhuja 2: ihminen alkaa ja mihin hän päättyy, jos se on kuitenkin sinun sisältäsi tullut. Todella kiinnostava, filosofinen sarja.
-Puhuja 1: Muistaakseni tästä myös puhun joskus, ja mun pointti, kun mun mielestä tästä ihan mahtava sarja on minun mielestäni, niitä olisi pitänyt lopettaa tuonne kakkoskauteen.
-Puhuja 1: Ei kai.
-Puhuja 2: Ei
-Puhuja 0: kai.
-Puhuja 0: Hyvä. Mites Marko?
-Puhuja 1: Kun toistan aina itse sen, niin kuten kaikki kuulijat, jotka on pitkään kuunnellut, fanit
-Puhuja 1: on lakimies lakimies.
-Puhuja 1: Siis kirjoja,
-Puhuja 1: jotka tapahtuvat sotaosin oikeussalissa. Jenkeissä näitä suoletaan
-Puhuja 1: vaikka kuinka paljon.
+Puhuja 1: Kaupunkia ei hyväksytä, mutta kunta, joka on kunta, jossa on eniten asukkaita.
+Puhuja 1: Ei kaupunki. Sodankylä.
+Puhuja 2: Väkiluvut. Ai väkiluvulta.
+Puhuja 2: Ai väkiluvultaan.
+Puhuja 2: Ai, mutta kaupunkia ei hyväksytä. Ei.
+Puhuja 3: Onko tämä semmoinen mitään ärsyttää, kun me kuullaan tätä vastaus?
+Puhuja 1: En
+Puhuja 1: tiedä. Sitä ei ole
+Puhuja 1: mitään jekkua. No niin. Kerrotko
+Puhuja 1: lähetyksen lopussa?
+Puhuja 2: Meidän pitää päästä esittelemään
+Puhuja 2: tämä upea
+Puhuja 2: ihminen, joka meidän kanssamme täällä keskustelee. Hän on ulkomaantoimittaja
+Puhuja 2: ja Viisu-raportin
+Puhuja 2: podcastin juontaja Anni Huttunen. Moi Anni. Moi.
+Puhuja 2: Oletko ensimmäistä kertaa
+Puhuja 2: uutisraportti-podcastissa?
+Puhuja 2: Kyllä, ihan ensimmäistä kertaa. Aivan mahtavaa saada sinut mukaan. Sinulla on monenlaista asiantuntemusta, jota me tänään kipeästi
+Puhuja 3: kaivataan. No katsotaan, katsotaan nyt sitä.
+Puhuja 2: Ja ne jotka eivät kuunnelleet viime viikon jaksoa tai muuten ole seuranneet maailman
+Puhuja 2: niin Tuomashan on siis amazing Race televisiosarjan
+Puhuja 2: kuvauksissa.
+Puhuja 3: Oikeasti?
+Puhuja 3: Tulin siis tähän studioon ja kysyin, että oletko sopimus
+Puhuja 3: Tuomas, että missä hän on, mutta mä en tiennyt tätä? Joo, kyllä.
+Puhuja 2: Okei. Ja Tuomas ei ole näkynyt vielä
+Puhuja 2: täällä työpaikalla, joten ilmeisesti hän on yhä mukana siinä kisassa.
+Puhuja 1: Luulen, että
+Puhuja 1: vaikka hän tippuisi, niin hän ei tuu. Kuulin, että hän saattaisi saada palamat
+Puhuja 1: Kyllä, kyllä, vaikka kaipaamme. Tuomas on siis samassa joukkueessa kaksoisiskonsa kanssa.
+Puhuja 3: Ihanaa, mahtavaa.
+Puhuja 3: Voi
+Puhuja 3: olla, että on aika katsoa tätä kyseistä farmaatti ensimmäinen kausi minunkin. Todellakin.
+Puhuja 2: No niin.
+Puhuja 2: Tämän viikon podcastissa
+Puhuja 2: keskustellaan siitä, että Israel estää humanitaarisen
+Puhuja 2: avun pääsyn kaasan ja suunnittelee väestön
+Puhuja 2: pakkosiirtoja
+Puhuja 2: ja kaasun miehittämistä.
+Puhuja 2: Mitä Suomi ja muu maailma voisivat tehdä
+Puhuja 2: näiden sotarikosten estämiseksi?
+Puhuja 2: Ja siitä, että kiinalaiset ja muutkin haluavat rakentaa Suomeen datakeskuksia
+Puhuja 2: ja se on saanut perussuomalaiset
+Puhuja 2: ministerit älähtämään.
+Puhuja 2: Ja vielä puhutaan tietenkin perusteellisesti
+Puhuja 2: euroviisuista.
+Puhuja 2: Lopuksi hyviä keskustelunaiheita pitkien epämukavien
+Puhuja 2: hiljaisyyksien
+Puhuja 2: avulla.
+Puhuja 2: Aloitetaan vakavalla aiheella.
+Puhuja 2: Hamasin terrori-iskuista alkanut sota Kasassa on kestänyt jo yli puolitoista vuotta,
+Puhuja 2: ja viime viikkoina uutiset ovat olleet entistäkin.
+Puhuja 2: Onko
+Puhuja 3: Ukrainan sodan,
+Puhuja 3: Kaasakeskusteluiden
+Puhuja 3: ja taloudellisen kurimuksen keskellä nyt ehkä sellainen hetki, että
+Puhuja 3: nyt
+Puhuja 3: vaan ollaan aika hauska
+Puhuja 1: läppä ja se on petoa. Niin, minua jotenkin itseäni oli
+Puhuja 1: jotenkin
+Puhuja 1: kumminkin presidentti Stubon.
+Puhuja 1: Suomalaiset kyselyssä, jotka kyselyssä, että hän suomalaiset
+Puhuja 1: arvostavat hänen työtään ja ovat olleet hyvin näkyvästi mukana Ukrainan
+Puhuja 1: kriisin ratkomisessa ja Näin edelleen. Reilu vuoden aikana on onnistunut presidentti. Varmasti
+Puhuja 1: kaikin puolin mallikelpoisesti.
+Puhuja 1: Mutta kyllä
+Puhuja 1: hänen
+Puhuja 1: pahin tippui. Ekan kerran, kun näin, että presidentinkanslia on totaalis paniikissa liittynyt Euroviisoihin.
+Puhuja 1: Se meni tapaamaan sitä kai löyyriin. Sinne pöyiin.
+Puhuja 1: Ja antoi tukensa
+Puhuja 1: Kaille, jonka jälkeen Eeika ihan oikeutetusti kysyi, että entäs minä.
+Puhuja 1: Sieltä tuli paniikkiviestejä
+Puhuja 1: siitä kansliasta,
+Puhuja 2: ei tueta? Joo, niin oli
+Puhuja 1: joo. Jos hän oli niin semmoinen buukko.
+Puhuja 2: Kyllä, kyllä. Ja Erika saa myös hyvin ja usein varmasti myös aiheellisesti käyttää sitä
+Puhuja 2: korttia. Onhan se hänelle myös, varmaan kaikillekin,
+Puhuja 2: mutta Ericalle Euroviisut ovat varmaan elämän mittainen unelma.
+Puhuja 2: Ja nyt kun hän on, niin
+Puhuja 2: oliko se Ilta-Sanomien vai Ilta-lehden Euroviisueksran
+Puhuja 2: kannessa onkin kai. Onhan nämä
+Puhuja 3: aika rajua. On, ja voi siinä miettiä, miltä se itsestä tuntuisi. Ja musta se oli tässä samassa yhteydessä näiden suppin kommenttien jälkeen, niin hänhän oli myös ollut jotenkin silleen, että
+Puhuja 3: saa nähdä, mitä Kai laittaa päälle Linnan
+Puhuja 3: Oli kyllä jotenkin semmoinen.
+Puhuja 2: Täytyy sanoa sinne, että kannattaa muistaa lähettää se kutsu myös sinne Ricarin. Joo, voi olla. Kävi miten kävi. Kävi, miten kävi. Kyllä.
+Puhuja 3: Voiko Marko kysyä, että ketä teillä sitten kannatetaan?
+Puhuja 1: Tuota...
+Puhuja 1: Olen ollut alusta lähtien suuri
+Puhuja 1: Kaifani,
+Puhuja 1: veikkaan kerran sen kuulin. Mun
+Puhuja 1: mielestä meidän ykkösasiasiantuntija
+Puhuja 1: on meidän 13-vuotias tyttö, joka alkuun suhtautuu aika kriittisesti Kaihin.
+Puhuja 1: Olen puhunut Kain puolesta. Kyllä luulen, että Kai fanitus on levinnyt koko perheeseen.
+Puhuja 1: Mulle vaan anteeksi, mä haluan tottakai tukea Aerikaa, mutta musta biisiä jopa kauhean hyvä. Fehernof, Fehernof.
+Puhuja 3: Ja kyllä varmaan Stubillakin on oikeus tämmönen. Jos hän niin ajattelee hänkin, on toki vain ihminen jolla on korvat kuten
+Puhuja 3: kaikki. Ja se on ihan
+Puhuja 3: fine.
+Puhuja 2: Olen vähän samoilla linjoilla.
+Puhuja 2: Tunnustan, että
+Puhuja 2: vielä, koska minusta tuntuu, että suomalainen keskitys voi hyvin tätä
+Puhuja 2: keskittyä. Joko
+Puhuja 3: Semmoinen kuin JJJJ.
+Puhuja 3: Se on siis
+Puhuja 3: aivan... Olen meidän viisuraportissakin tätä hehkuttanut, mutta jos ette ole kuulleet, niin kannattaa käydä
+Puhuja 3: ehdottomasti kuuntelemassa viisi. Se on sellainen pop-ooppera siis. Ja se on vähän sellainen.
+Puhuja 3: Ja just tähän pointtiin, mitä sanoit, että monet kuulevat sen ekan
+Puhuja 3: kerran, niin se on sellainen biisi, kun sen ekan kerran kuulee, niin sulla vaan loksahtaa suu auki. Se on aivan käsittämätön
+Puhuja 3: se laulajan ääni. Ja sitten siinä on vielä lopussa sellainen
+Puhuja 3: vaelluosuus, mikä se
+Puhuja 2: suomalaisen Ari Levelän käsialaa.
+Puhuja 2: Minusta on tosi kiva.
+Puhuja 2: Voisi lähteä sitten.
+Puhuja 2: Ja Virran
+Puhuja 2: Espressmakin
+Puhuja 2: ja ottanut taustalla suomalaisvoimia.
+Puhuja 2: Että tällaista suomalaista
+Puhuja 2: isosaamista
+Puhuja 2: alkaa löytää. Ei vain Ruotsiin, mutta myös eri puolille.
+Puhuja 3: Kyllä. Se oli
+Puhuja 3: pitkään Ruotsiin, jonka osaamista
+Puhuja 3: löytyi monista taustavoimista. Sitten monien muidenkin esitysten ja maiden. Mutta näköjään selvästi Suomi on
+Puhuja 3: ehkä tehty. En tiedä oliko se Käärijä vai mikä se oli. Totta.
+Puhuja 2: Kaisa on mun mielestä myös se
+Puhuja 2: ihana puoli, että
+Puhuja 2: suomalaiset
+Puhuja 2: muistaa nyt hetken ajan, että meillä on ruotsinkielinen
+Puhuja 2: Pohjanmaa,
+Puhuja 2: josta kukaan ei tiedä juuri mitään.
+Puhuja 2: Ja nyt sinne katsoin, että Suomen kuvalehdessä oli esimerkiksi iso
+Puhuja 2: ja siellä oli käyty suomen kielen tunneilla ja muuta, niin se kyllä todella kannatan
+Puhuja 2: tätä, koska se on äärimmäisen kiinnostava
+Puhuja 3: seutu. Jep, ja siis tuossahan oli vähän se, että silloin kun Kai valittiin, niin niin suomen kielen väestö olisi lö lö, että mistä tällainen Kai tuli, mutta ei se ehkä ole ihan puskista tullut. Kyllä tässä on käynyt ilmi, kun on kuunnellut haastatteluja pöyiltä.
+Puhuja 3: Siellä on monta vuotta seurattu Kaiin tekemisiä, ja on voinut, että tunnet porukka siellä.
+Puhuja 1: Oma
+Puhuja 1: pieni panokseni tähän eurovisuhuumaan
+Puhuja 1: on se,
+Puhuja 1: että... Olin viikonloppuna vuorossa deskissä silloin, kun Kai valittiin.
+Puhuja 1: Kai voitti ja Melodi
+Puhuja 3: festivaaleille. Melodifestivaalit.
+Puhuja 3: Heidän Ruotsin vähän niin kuin huomaa.
+Puhuja 1: Tuli sunnuntaina töihin ja oikein keksitty mitään tekemistä. Mielestäni tämä oli vielä oma idea.
+Puhuja 1: Tuolla deskissä sitten kuumeisesti mietittiin, mitä ihmettä keksittäisiin tästä kaistaa.
+Puhuja 1: Sanoin soittaa
+Puhuja 1: Adlercreutsille
+Puhuja 1: ja kysyä, pitäisikö Suomeen ja Ruotsin mennä valtioliittoon yhdessä..
+Puhuja 1: Kun olin avokonttori,
+Puhuja 1: tein sen haastattelun sitten. Soitin ministerille kello kymmenen sunnuntaina aamuna.
+Puhuja 1: Minua kaiuttimessa
+Puhuja 1: ja vasta jälkikäteen kuulin, että joku oli videoinut
+Puhuja 1: tämän munien adelcoutsin
+Puhuja 1: haastattelun deskissä.
+Puhuja 1: Pisteet
+Puhuja 1: Adllercodedsille.
+Puhuja 1: Soitin esittäydyn ja sitten suoraan kysyin, että pitäisikö olla Erottimen valtioliittoon. Hän hetken
+Puhuja 1: oli hämmästyneen hiljaa.
+Puhuja 1: Suomenruotsalaisille
+Puhuja 1: iso juttu. Tavallaan
+Puhuja 1: muistetaan tämä, että Ruotsissakin tajutaan, että Suomessa on ruotsinkielinen
+Puhuja 3: iso vähemmistö. Kyllä. On myös kuitenkin sanottava, että juttelin
+Puhuja 3: viisi raportissa
+Puhuja 3: Pohjoismaiden kirjeenvaihtaja Aino Vasankarin kanssa siitä, miten Ruotsissa on suhtauduttu tähän
+Puhuja 3: Kain
+Puhuja 3: valintaan.
+Puhuja 3: Ei se nyt ehkä ilmeisesti ole aivan semmoinen
+Puhuja 3: juhlan aihe siellä. Siellä oli esimerkiksi ollut
+Puhuja 3: sen kain voiton, mellovoiton jälkeen, niin sellainen pääkäri, jossa oli vähän semmoinen, että kiva kun suomalaisjuntit
+Puhuja 3: tuli pilaamaan nämä meidän
+Puhuja 3: kisat.
+Puhuja 2: Mutta toihan vaan vahvistaa
+Puhuja 2: suomalaista sellaista, että no siitä
+Puhuja 2: saitte. Jos miettii sitä, että miksi kaista on tullut niin iso ilmiö versus Erika
+Puhuja 2: ja näin, että ketä kuuluu isänmaallisen ihmisen kannattaa.
+Puhuja 2: Niin
+Puhuja 2: kyllähän Kaisassa on juuri se, että koskaan he voitti siellä Ruotsissa
+Puhuja 2: ja tämmöisellä äärimmäisen
+Puhuja 2: Suomi-kriiseeillä ja muuta, niin se tuntuu
+Puhuja 2: sellaiselta, kun meillä on tämä aikuinen pikkuveliasetelma.
+Puhuja 3: Niin tuntuu. Ja just se, että me ollaan ehkä vähän samanlaisempia kuin te haluatte myöntää. Ja jotenkin, että vihdoin te näette meidän
+Puhuja 2: arvon, tämän suomalaisen junttiuden arvon.
+Puhuja 2: Kyllä, ehdottomasti.
+Puhuja 2: Hyvä. No, miten sitten, kun
+Puhuja 2: tänä iltana
+Puhuja 2: asetutte vielä,
+Puhuja 2: tuskinpa tänään vielä suuria viisukatsomoita on. Tänään on ehkä se ilta kun vielä ihan omalla kotisohvalla
+Puhuja 2: seurataan Erikan tietä finaaliin. Siinä
+Puhuja 2: sitten kun
+Puhuja 2: tulee
+Puhuja 2: joku maa Annilla esimerkkejä,
+Puhuja 2: jonka biisi ei ihantiin vedä mukaansa?
+Puhuja 3: Vedän ilon kautta, niin kaikki varmaan johonkin, kun vedän mukaansa.
+Puhuja 2: Joka tapauksessa
+Puhuja 2: sellaisessa suontokohdassa
+Puhuja 2: tai kun juontajien huonot läpät eivät jaksa kiinnostaa, niin mistä alatte
+Puhuja 2: keskustella siinä mikä olisi paras Euroviisujuoma
+Puhuja 2: Mellan Earlin
+Puhuja 2: ääressä?
+Puhuja 3: No, mä voin vaikka aloittaa
+Puhuja 3: sillä, että
+Puhuja 3: katsoin hiljattain
+Puhuja 3: loppuun
+Puhuja 3: tai toisen kauden sellaisesta tv-sarjasta,
+Puhuja 3: joka ensimmäinen kausi on tullut jo jonkin aikaa sitten kuin Severens.
+Puhuja 3: En tiedä onko tässä
+Puhuja 3: suosteteltu jo kyseistä
+Puhuja 3: se ensimmäinen kausi oli semmoinen, että minulle se saa sut... Se on sekä tosi viihdyttävä että upeasti
+Puhuja 3: tehty ja tuotettu ja todella kauniisti kuvattu, mutta myös etenkin se eka kausi oli semmoinen, että sai mut kyseenalaistamaan
+Puhuja 3: työelämää ja itseäni ja mun paikkaa
+Puhuja 3: tässä yhteiskunnassa ihmisenä. Todella
+Puhuja 3: suosittelen sitä. Nyt saimme katsottua
+Puhuja 3: hiljattain loppuun sen toisen kauden, joka jäi vielä cliffhangeriin, tulee selvästi kolmas kausi vielä, mutta se on todella
+Puhuja 3: siis mukaansa tempava. Se kertoo tämmöisestä maailmasta, missä siis on kehitetty
+Puhuja 3: sellainen toimenpide, että aivoihinsi voidaan asentaa sellainen siru, joka erottaa työminän
+Puhuja 3: täysin
+Puhuja 3: henkilökohtaisesta
+Puhuja 3: minästä. Se on myyty ihmisille sille, että tämä vaan helpottaa. Jos sulla on työmita, et fiilaa
+Puhuja 3: kauheasti, niin voit
+Puhuja 3: kääntää aivot pois
+Puhuja 3: sen ajan, kun olet työpaikalla.
+Puhuja 3: Tämä on mieletön
+Puhuja 3: ajatus, joka viedään siinä sarjassa ihan uskomattomiin sfääreihin.
+Puhuja 3: Jos olet vain sinä, mutta kaksi eri minää ei tunne toisiaan, niin voiko niillä olla erilaisia
+Puhuja 3: rakkauden kohteita? Voiko niillä olla erilaisia toiveita ja unelmia pelkoja? Ja missä vaiheessa
+Puhuja 3: ihminen alkaa ja mihin hän päättyy, jos se on kuitenkin sinun sisältäsi tullut? Todella kiinnostava filosofinen sarja. Joo.
+Puhuja 1: Muistaakseni tästä myös puhun joskus se minun pointti silloin, kun tästä
+Puhuja 1: on ihan mahtava sarja. Mielestäni niiden olisi pitänyt lopettaa kakkoskauteen.
+Puhuja 1: Kyllä. Mites Marko?
+Puhuja 1: Mä muistan aina senioräni, niin kuten kaikki kuulijat, jotka ovat pitkään kuunnelleet, fanit
+Puhuja 1: ovat
+Puhuja 1: lakimiesdekkareita,
+Puhuja 1: Siis kirjoja, jotka tapahtuvat sotaosin oikeussalissa. Jen kesää näitä suolataan
+Puhuja 1: aika kuinka paljon.
 Puhuja 1: Olen lukenut
 Puhuja 1: kaikki
 Puhuja 1: oletetuimmat
 Puhuja 1: ja suurimman osan
 Puhuja 1: klassikoista. Nyt on suuria vaikeuksia löytää enää mitään, mitä
-Puhuja 1: jaksaisi lukea, koska hyvin suuri osa näistä
-Puhuja 1: lakimiesdekkareista on aika roskaa.
+Puhuja 1: jaksaisi lukea, koska hyvin suuri osa näistä lakimiesdekkareista on aika roskaa.
 Puhuja 1: Ongelma on se, että niissä
-Puhuja 1: puuttuu kaikki syvyys. Nyt löysin vähän sattumalta uuden,
-Puhuja 1: mikä on britti
+Puhuja 1: ei
+Puhuja 1: ole mitään kiinnostavaa. Niistä puuttuu kaikki syvyys. Nyt löysin vähän sattumalta
+Puhuja 1: uuden, mikä on britti
 Puhuja 1: naiskirjoittaja
 Puhuja 1: Kia Abdullah.
-Puhuja 1: Luin
-Puhuja 1: kaksi hänen kirjansa ahminut. Ensin tämmöinen Nexttovck
-Puhuja 1: on jotenkin ihan
-Puhuja 1: Toinen pointti, mikä näissä lakimies Spekkari usein mättää, niin tavallaan niissä pitää olla
-Puhuja 1: käänne.
+Puhuja 1: Luin kaksi hänen kirjansa ahminut. Ensin tämmöinen Nexttovck
+Puhuja 1: on jotenkin ihan...
+Puhuja 1: Toinen pointti, mikä näissä lakimies Spekkarissa usein mättää, niin tavallaan niissä pitää olla sellainen käänne.
 Puhuja 1: Tässä se käänne oli jotenkin ihan huikea.
 Puhuja 1: Tarina on siis sellainen, että tässä on sisarukset,
 Puhuja 1: joista
 Puhuja 1: toinen on
 Puhuja 1: menestyvän
 Puhuja 1: arkkitehtitoimiston
-Puhuja 1: pomo. Pikkusisko on
-Puhuja 1: vähän
-Puhuja 1: vähemmän ja huonommin
-Puhuja 1: menestynyt elämässään.
-Puhuja 1: Heillä vanhempansa kuoli, kun oli pieniä, jota isosisko on pitänyt huoltakaan. Isosisko oli kahdeksantoista, kun
-Puhuja 1: äiti kuoli, ja sitten lähti hän on pitänyt huolta
+Puhuja 1: pomo.
+Puhuja 1: Pikkusisko on
+Puhuja 1: vähän vähemmän ja huonommin menestynyt elämässään. Heillä on heidän vanhempansa kuoli, kun ne olivat pieniä, ja tämä isosisko on pitänyt huoltakaan. Isosisko oli kahdeksantoista, kun äiti kuoli, ja sitten lähti hän on pitänyt huolta
 Puhuja 1: pikkusiskostaan.
 Puhuja 1: Pikkusiskon perhe saa
-Puhuja 1: lapsen,
-Puhuja 1: Isosisko
-Puhuja 1: kärsii lapsettomuudesta
-Puhuja 1: oman miesystävänsä kanssa.
+Puhuja 1: lapsen.
+Puhuja 1: Isosisko kärsii lapsettomuudesta oman miesystävänsä kanssa.
 Puhuja 1: He ovat hyvin ihastuneita
-Puhuja 1: tähän pikkusiskon pikkupoikaan.
-Puhuja 1: Sitten se tarina alkaa siitä,
-Puhuja 1: kun eräänä aamuna
-Puhuja 1: pikkusiskon mies soittaa tälle isosiskolle,
-Puhuja 1: että heillä on nyt paniikkiaamu,
-Puhuja 1: että voisitko viedä
-Puhuja 1: kolmevuotiaan pojan päiväkotiin.
-Puhuja 1: Isosisko
-Puhuja 1: sanoo, että joo.
+Puhuja 1: tähän pikkusiskon
+Puhuja 1: pikkupoikaan.
+Puhuja 1: Sitten tarina alkaa
+Puhuja 1: siitä, kun eräänä aamuna
+Puhuja 1: pikkusiskon mies soittaa
+Puhuja 1: isosiskolle,
+Puhuja 1: että
+Puhuja 1: heillä on nyt
+Puhuja 1: paniikkiaamu,
+Puhuja 1: voisitko viedä sen kolmevuotiaan pojan päiväkotiin.
+Puhuja 1: Isosisko sanoo, että joo.
 Puhuja 1: Sitten matkalla töihin
-Puhuja 1: isosiskolle
-Puhuja 1: soitetaan
+Puhuja 1: isosiskolle soitetaan
 Puhuja 1: arkkitehtitoimistosta, että siellä on hävinnyt
 Puhuja 1: jotkut piirustukset, joilla on palaveri just alkamassa
-Puhuja 1: ja miljoona diili. Hänen pitää tulla äkkiä töihin, että piirustukset saa hänen varapiirustukset hänen työhuoneestaan ja työhuoneestaan.
+Puhuja 1: ja miljoona diili. Hänen pitää tulla äkkiä töihin, että piirustukset saa hänen varapiirustukset
+Puhuja 1: hänen työhuoneestaan.
 Puhuja 1: Hän rynni
 Puhuja 1: työpaikalleen,
-Puhuja 1: ja löytää piirustukset ja menee jokunen tunti. Sitten hän tajuaa, että helvetti se poika. Se oli jäänyt auton takapenkille
-Puhuja 1: kuumaan autoon, ja se oli kuollut penkille. Hän oli kuollut penkille.
+Puhuja 1: ja löytää piirustukset ja menevät jokunen tunti. Sitten hän tajuaa, että helvetti se poika. Se oli jäänyt auton takapenkille
+Puhuja 1: kuumaan autoon, ja se oli
+Puhuja 1: kuollut penkille.
 Puhuja 1: Tästä tämä alkaa.
-Puhuja 1: Sitä menee oikeuteen.
-Puhuja 1: Sitten hän puolustautui, että se oli vahinko, että hän kerta kaikkiaan unohti.
-Puhuja 1: Ja sitten syyttää ja syyttää häntä kuolevaisuottamuksesta,
-Puhuja 1: että hän olisi
+Puhuja 1: Sitä menee oikeuteen
+Puhuja 1: ja hän puolustautui, että se oli vahinko. Hän kerta kaikkiaan unohti.
+Puhuja 1: Ja sitten syyttää syyttää häntä,
+Puhuja 1: että se olisi
 Puhuja 1: jossain määrin tahallaan tehnyt sen. Tätä lähdetään selvittämään.
-Puhuja 1: Siinä on sisarusten välinen kuvaus ja tragedia. Lopussa tulee ihan käsittämätöntä tämä huikea käänne, mitä en kerro tässä. Mutta kannattaa lukea, se on tosi kiehtova kirja.
-Puhuja 0: En ole varma pystynyt
-Puhuja 0: Okei,
-Puhuja 0: minun sarjassa on sarjassa jotain aika muuta. Nimittäin
-Puhuja 0: ruokapornoa, koska olen aivan Netflixin algoritmien uhri tässä.
-Puhuja 0: Olen joskus katsonut
-Puhuja 0: niitä Sheff Stable kokkiohjelmia.
-Puhuja 0: Ne ovat minusta olleet vähän
-Puhuja 0: kiusallisen
-Puhuja 0: eteerisiä ja
-Puhuja 0: liian vakavia. Mutta sitten
-Puhuja 0: koska rakastan molempia, varsinkin pastaa,
-Puhuja 0: mutta kyllä myös nuudelit kelpaavat.
-Puhuja 0: Joku sellainen väsynyt ilta kun ei jaksanut keskittyä, niin aloin katsoa Shef Stable nuudelisarjaa.
-Puhuja 0: Ja sehän on äärimmäisen
-Puhuja 0: kiehtovaa.
-Puhuja 0: Siinä on eri
-Puhuja 0: puolilta maailmaa muistaakseni
-Puhuja 0: neljä jaksoa, joissa on
-Puhuja 0: huippupastan tai nuudelien tekijä, joka on erikoistunut. Ja miten ne näyttävät niitä, kun ne tekevät käsin
-Puhuja 0: niitä sekä pastaa että nuudeliaa ja minkälaista
-Puhuja 0: käsityötaitoa. Ja perinnettä ne välittää eteenpäin. Ja ne on kauniisti kuvattu ja kauniisti valaistuu. Ja ne yhdistyy niiden kokkien
-Puhuja 0: elämäntarinoihin.
-Puhuja 0: Niin kyllä varsinkin se jakso, joka kertoi tämmöisestä kiinalaisesta
-Puhuja 0: Kuiron Wei nimisestä
-Puhuja 0: Cokista, joka on perustanut tämmöisen menestyvän nuudeliravintolan
-Puhuja 0: Lontooseen.
-Puhuja 0: Siinä oli huima tarina, että hän oli
-Puhuja 0: kasvanut kiinalaisella
-Puhuja 0: maaseudulla
-Puhuja 0: köyhyydessä
-Puhuja 0: ja alkanut tavallaan
-Puhuja 0: teini-ikäisenä ehkä 13-vuotiaana
-Puhuja 0: muuttanut kaupunkiin
-Puhuja 0: töihin ja tienaamaan rahaa perheelle.
-Puhuja 0: Ja minkälainen matka se on ollut sinne Lontooseen huippukokiksi
-Puhuja 0: ja ravintoloitsijaksi.
-Puhuja 0: Ja millaisella hinnalla. Että hänellä on myös oma lapsi,
-Puhuja 0: joka tavallaan on tämän kaiken nuudelin tekemisen ansiosta saanut paremman elämän.
-Puhuja 0: Mutta sitten tämä äiti ei käytännössä ehdi viettää aikaa aikaa sen lapsensa kanssa. Ja tätä ei hirveästi problematisoitu
-Puhuja 0: siinä, mutta mielestäni se kyllä
-Puhuja 0: tosi
-Puhuja 0: aika pysäyttävällä tavalla kuvasi
-Puhuja 0: ihmisten valintoja ja mahdollisuuksia.
-Puhuja 0: Ja lisäksi oli paljon kauniita
-Puhuja 0: nuudelikuvia.
-Puhuja 0: Heppstegue, että oli töissä nuudeleita.
-Puhuja 0: Kyllä, ja tavallaan
-Puhuja 0: myös sitä, mikä on juuri elämässä tärkeää
-Puhuja 0: ja
-Puhuja 0: minkälaista
-Puhuja 0: pastaa kannattaa syödä.
-Puhuja 0: Hyvä.
-Puhuja 0: Siinä
-Puhuja 2: Ennen kuin mennään, Marko, haluatko kertoa Suomen suurimman
-Puhuja 2: kunnan?
-Puhuja 0: Ole hyvä, kun muistit.
-Puhuja 0: Okei, siinä kaikki tällä erää. Kiitos Anni Huttunen. Kiitos
-Puhuja 0: Marko Junkkari.
-Puhuja 0: Minun nimeni on Anne-Sofia Bernberg Äänen ja kuvan ja kaiken muunmahtavan meille tekee tällä viikolla Jonne Piltonen.
-Puhuja 0: Muistakaa lähettää meille palautetta
-Puhuja 0: uutisraportti
-Puhuja 0: ja kuullaan taas ensi viikolla.
+Puhuja 1: Siinä on
+Puhuja 1: sisarusten välinen kuvaus ja tragedia.
+Puhuja 1: Lopussa tulee ihan käsittämään tämä huikea käänne, mitä kerron tässä. Kannattaa lukea, sellainen kiehtova kirja. En ole varma pystynyt. En tiedä. Kuulostiiko jotenkin
+Puhuja 3: ori hirveän hirveältä.
+Puhuja 2: Okei. Mutta
+Puhuja 2: ehkä jos sen alun voi nyt hypätä
+Puhuja 2: Niin. Okei, minun sarjassa on sarjassa jotain
+Puhuja 2: aika muuta.
+Puhuja 2: Nimittäin ruokapornoa,
+Puhuja 2: koska tämä olen Netflixin algoritmien uhri tässä.
+Puhuja 2: Olen joskus katsonut
+Puhuja 2: niitä Sheff Stable kokkiohjelmia.
+Puhuja 2: Ne ovat minusta olleet vähän
+Puhuja 2: kiusallisen
+Puhuja 2: eteerisiä ja
+Puhuja 2: liian vakavia. Mutta sitten
+Puhuja 2: Ja
+Puhuja 2: niinpä
+Puhuja 2: aloin katsoa,
+Puhuja 2: koska
+Puhuja 2: Siinä
+Puhuja 2: on eri puolilta maailmaa muistaakseni neljä jaksoa,
+Puhuja 2: joissa on
+Puhuja 2: huippupastan tai nuudelien tekijä, joka on erikoistunut. Ja miten ne näyttävät niitä, kun ne tekevät käsin
+Puhuja 2: niitä sekä pastaa että nuudeliaa ja minkälaista
+Puhuja 2: käsityötaitoa ja perinnettä ne välittää eteenpäin.
+Puhuja 2: Ja ne on kauniisti kuvattu ja kauniisti valaistu. Ja ne yhdistyy niiden kokkien
+Puhuja 2: elämäntarinoihin.
+Puhuja 2: Niin kyllä varsinkin se jakso, joka kertoi tämmöisestä kiinalaisesta
+Puhuja 2: Quiron Wei nimisestä
+Puhuja 2: Cokista, joka on perustanut tämmöisen menestyvän nuudeliravintolan
+Puhuja 2: Lontooseen.
+Puhuja 2: Siinä oli huima tarina, että hän oli
+Puhuja 2: kasvanut kiinalaisella
+Puhuja 2: maaseudulla
+Puhuja 2: köyhyydessä
+Puhuja 2: ja alkanut tavallaan
+Puhuja 2: teini-ikäisenä ehkä 13-vuotiaana
+Puhuja 2: muuttanut kaupunkiin
+Puhuja 2: töihin ja tienaamaan rahaa perheelle.
+Puhuja 2: Ja minkälainen matka se on ollut sinne Lontooseen
+Puhuja 2: huippukokiksi ja ravintoloitsijaksi.
+Puhuja 2: Ja millaisella hinnalla. Että hänellä on myös oma lapsi,
+Puhuja 2: joka tavallaan on tämän kaiken nuudelin tekemisen ansiosta saanut paremman elämän,
+Puhuja 2: mutta tämä, että ei käytännössä ehdi viettää aikaa viettää aikaa sen lapsensa kanssa.
+Puhuja 2: Ja tätä ei
+Puhuja 2: hirveästi problematisoitu
+Puhuja 2: siinä, mutta mielestäni se kyllä tosi
+Puhuja 2: aika
+Puhuja 2: pysähyttävä tavalla kuvasi
+Puhuja 2: ihmisten valintoja ja mahdollisuuksia.
+Puhuja 2: Ja lisäksi oli paljon kauniita
+Puhuja 2: nuudelikuvia.
+Puhuja 2: Hedgestague,
+Puhuja 2: elämää, että oli töiden nuudeleita.
+Puhuja 2: Kyllä, ja tavallaan
+Puhuja 2: myös sitä, mikä on juuri elämässä
+Puhuja 2: tärkeää
+Puhuja 2: ja
+Puhuja 2: minkälaista
+Puhuja 2: pastaa kannattaa syödä.
+Puhuja 2: Hyvä.
+Puhuja 3: Ennen kuin mennään... Marko, haluatko kertoa
+Puhuja 3: Suomen suurimman kunnan?
+Puhuja 2: Junkkari. Minun nimeni on Anna-Sofia Bernberg ja äänen ja kuvan ja kaiken muunmahtavan meille tekee tällä viikolla Jonne Piltonen.
+Puhuja 2: Muistakaa lähettää palautetta
+Puhuja 2: uutisraportti ja kuullaan taas ensi viikolla.
+Puhuja 3: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin
+Puhuja 0: yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

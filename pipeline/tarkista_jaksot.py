@@ -90,6 +90,36 @@ def kustannus(kaytto):
                for m, i, o in kaytto)
 
 
+def ajat_polku(jakso_id):
+    """Transkription rivien aikaleimat (tarkistusnäkymän soitin): transkriptit/<id>.ajat.json"""
+    return paa.transkriptin_polku(jakso_id)[:-4] + ".ajat.json"
+
+
+def transkriboi_ajoilla(audio_path):
+    """Kuten paa.transkriboi_deepgram, mutta palauttaa myös jokaisen rivin alkuajan
+    leikkeessä (s). Rivit muodostetaan täsmälleen samoin, joten teksti on identtinen."""
+    url = "https://api.deepgram.com/v1/listen?model=nova-2&language=fi&smart_format=true&diarize=true&utterances=true"
+    with open(audio_path, "rb") as audio:
+        r = requests.post(url, headers={"Authorization": f"Token {paa.DEEPGRAM_API_KEY}", "Content-Type": "audio/mp3"},
+                          data=audio, timeout=600)
+    if r.status_code != 200:
+        print(f"Deepgram virhe: {r.status_code} - {r.text[:200]}")
+        return "", []
+    data = r.json()
+    rivit, alut = [], []
+    for u in data.get("results", {}).get("utterances", []) or []:
+        t = u.get("transcript", "").strip()
+        if t:
+            rivit.append(f"Puhuja {u.get('speaker', '?')}: {t}")
+            alut.append(round(u.get("start", 0), 2))
+    if rivit:
+        return "\n".join(rivit), alut
+    try:
+        return data["results"]["channels"][0]["alternatives"][0]["transcript"], []
+    except (KeyError, IndexError):
+        return "", []
+
+
 def hae_transkripti(jakso_id, audio_url):
     """Palauttaa (teksti, litteroidut_minuutit). Välimuistiosuma = 0 minuuttia."""
     teksti = paa.lue_transkripti(jakso_id)
@@ -122,9 +152,16 @@ def hae_transkripti(jakso_id, audio_url):
         loppu_osa = audio[max(paa.ALKU_SEKUNTIA * 1000, kesto_ms - paa.LEIKKAUS_SEKUNTIA * 1000):]
         leike = alku_osa + loppu_osa
         leike.export(clip_temp, format="mp3")
-        teksti = paa.transkriboi_deepgram(clip_temp)
+        teksti, alut = transkriboi_ajoilla(clip_temp)
         if teksti:
             paa.tallenna_transkripti(jakso_id, teksti)
+            if alut:
+                # Leikkeen aika → jakson aika: alku_s asti sama, sen jälkeen + (loppu_alku_s − alku_s)
+                with open(ajat_polku(jakso_id), "w", encoding="utf-8") as f:
+                    json.dump({"leike": {"alku_s": paa.ALKU_SEKUNTIA,
+                                         "loppu_alku_s": max(paa.ALKU_SEKUNTIA * 1000, kesto_ms - paa.LEIKKAUS_SEKUNTIA * 1000) / 1000,
+                                         "kesto_s": kesto_ms / 1000},
+                               "rivit": alut}, f)
         return (teksti or None), len(leike) / 60000
     finally:
         for tmp in (mp3_temp, clip_temp):
@@ -348,13 +385,19 @@ def main():
     if args.vain_litterointi:
         # Ei Claude-kutsuja: vain transkriptiot välimuistiin (transkriptit/), 0 $ Claudelle
         minuutit = 0.0
+        # 2016–2018 jaksoja ei ole RSS:ssä: niiden suorat MP3-osoitteet kerättiin Suplasta
+        # (keraa_supla_audio_urlit.py → supla_audio_urlit.json); osoitteet toimivat ilman
+        # kirjautumista (testattu 1.10.2026)
+        supla = {e["id"]: e["audio_url"] for e in lue_json(os.path.join(PIPELINE_KANSIO, "supla_audio_urlit.json"), [])
+                 if e.get("audio_url")}
         for i, p in enumerate(jono, 1):
             jakso = data.get(p["jakso_id"])
             entry = rss_kartta.get(p["jakso_id"])
-            if not jakso or not entry:
+            if not jakso or not (entry or p["jakso_id"] in supla):
                 continue
             print(f"[{i}/{len(jono)}] {jakso['paivamaara']} — {jakso['jakso_otsikko'][:70]}")
-            audio_url = next((l.href for l in entry.get("links", []) if "audio" in l.get("type", "")), None)
+            audio_url = (next((l.href for l in entry.get("links", []) if "audio" in l.get("type", "")), None)
+                         if entry else supla[p["jakso_id"]])
             try:
                 teksti, min_ = hae_transkripti(p["jakso_id"], audio_url)
             except Exception as e:

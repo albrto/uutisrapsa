@@ -1,252 +1,490 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
 Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
 Puhuja 0: torstaina
-Puhuja 0: kolmesataakymmenen
-Puhuja 0: vuonna kaksituhatta kaksikymmentäneljä.
-Puhuja 0: Mun nimi on Tuomas Peltomäki-kanssani
-Puhuja 0: täällä Helsingin Sanomien podcast-studiossa
+Puhuja 0: kolmekymmentä päivä lokakuuta vuonna kaksituhatta
+Puhuja 0: kaksikymmentäneljä. Nimeni on Tuomas Peltomäki ja kanssani täällä Helsingin Sanomien podcast-studiossa
 Puhuja 0: väliaikaisessa
-Puhuja 0: sellaisessa viides
-Puhuja 0: kerros-Sanomattalo
-Puhuja 0: nimisessä rakennuksessa.
-Puhuja 0: Suomen pääkaupungissa ja Helsingissä ovat
-Puhuja 0: politiikkaa toimittaa Marko Junkkari Helsingin Sanomissa. Hei Marko. Noissa.
-Puhuja 0: Mitä sulle kuuluu?
-Puhuja 0: Hyvähän
-Puhuja 0: mulle.
-Puhuja 0: Hyvä. Tässä vieressä
+Puhuja 0: sellaisessa viides kerros-Sanomattalon
+Puhuja 0: nimisessä rakennuksessa. Suomen, pääkaupungissa ja Helsingissä ovat
+Puhuja 0: politiikkaa toimittaa
+Puhuja 0: Marko Junkkari Helsingin Sanomissa.
+Puhuja 0: Hei Marko.
+Puhuja 0: Näissä.
+Puhuja 0: Mitä
+Puhuja 0: sulle kuuluu?
+Puhuja 2: Hyvähän mulle.
+Puhuja 0: Hyvä.
+Puhuja 0: Tässä vieressä
 Puhuja 0: istuu varsin
-Puhuja 0: mielelläni ryhdikkään oloisena
-Puhuja 0: Anna-Sofia Berner
-Puhuja 0: ystävien kesken Sohvi. Hei Sohvi. Heipä hei. Olin aamupäivän
-Puhuja 0: Tapiolassa. Ehkä se tulee vähän ryhtiä. Aijaa. Ai se oli tämä aamupäivä?
-Puhuja 0: Oliko se sun kiertoeella?
-Puhuja 1: En. Olin tekemässä
-Puhuja 1: haastattelua.
-Puhuja 0: Töissä, hienoa.
-Puhuja 0: Sen lisäksi meillä on silloin, kun tilanne
-Puhuja 0: käy kuumaksi Lähi-idässä,
+Puhuja 0: Anna-Sofia Berner,
+Puhuja 0: ystävien kesken Sohvi. Hei Sohvi. Hei, Sohvi. Heipä hei. Mä olin aamupäivän Tapiolassa. Ehkä se tuo vähän ryhtiä. Aijaa. Ai se oli tämä aamupäivä?
+Puhuja 0: Oliko se sun kirjo kiertueella? En, mä olin tekemässä haastattelua.
+Puhuja 0: Töissä,
+Puhuja 0: hienoa.
+Puhuja 0: Sen lisäksi meillä on, silloin, kun tilanne käy
+Puhuja 0: kuumaksi Lähi-idässä,
 Puhuja 0: paikalle lehahtaa.
-Puhuja 0: Helsingin Sanomien ulkomaantoimituksesta
-Puhuja 0: en tiedä, mitä teet siellä nykyään.
-Puhuja 0: Porottelen.
+Puhuja 0: Helsingin Sanomien ulkomaantoimituksesta...
+Puhuja 0: Mä en tiedä, mitä sä teet siellä nykyään.
+Puhuja 0: Odottelen.
 Puhuja 0: Olit siellä esihenkilönä.
-Puhuja 0: Kyllä.
+Puhuja 2: Kyllä.
 Puhuja 0: Kuulijalle tiedoksi, että meillä on ollut
-Puhuja 0: organisaatiouudistus,
-Puhuja 0: mikä
-Puhuja 0: sekoittaa
-Puhuja 2: asioita minun pielessä päässä. Se oli mukavaa, kun aikoo ihmisillä on ongelmia hississä, kun on kolleegoriksi, mitä juttelee. Nyt on aina uutta kysyä, mitä sä oikein tiedät.
+Puhuja 0: uudistus täällä, mikä sekoittaa asioita
+Puhuja 2: minun pielessä päässä. Oli kauhean mukavaa, kun aikoi ihmisen on ongelmia hississä, kun on kollegoriksi, mitä juttelee. Nyt on aina puhuttavaa kysyä, mitä sä oikein tiedät.
 Puhuja 2: Missäs päin sä oot töissä?
-Puhuja 0: Hän on Jukka Huusko,
-Puhuja 0: ulkomaantuntia
-Puhuja 0: numero yksi
+Puhuja 0: Hän on siis Jukka Huusko,
+Puhuja 0: ulkomaan tuntia numero yksi
 Puhuja 0: tästä
-Puhuja 0: uutisorganisaatiosta, nimeltä
-Puhuja 0: Helsingin Sanomat Hei Jukka!
-Puhuja 2: Terve, Tuomas.
-Puhuja 2: Kerrotko itsestäsi, kun en oikein tiedä mitä teet?
-Puhuja 0: Olen Helsingin Sanomien
-Puhuja 2: podcast-heppoli.
-Puhuja 1: Iida Tikan mureneva maa podcastista,
-Puhuja 1: joka julkaistiin Yleisradion viime perjantaina.
-Puhuja 1: Ja disclaimerina,
-Puhuja 1: että
-Puhuja 1: Iida on mun ystävä.
-Puhuja 1: Me asuttiin vuosimittamissa
-Puhuja 1: melkein naapureina ja on tunnettu jo paljon ennen sitä, että en ole millään tavalla
-Puhuja 1: puolueeton lähde tässä.
-Puhuja 1: Mutta Idan
-Puhuja 1: kuusiosainen podcastria,
-Puhuja 1: jota ajattelen,
-Puhuja 1: ja sanoin tämän myös Idalle ja hän hyväksyy tämän ajatuksen, niin on vain se minun kirjan sisarteos.
-Puhuja 1: Siinäkin tarkastellaan
-Puhuja 1: Yhdysvaltain
-Puhuja 1: politiikkaa
-Puhuja 1: vähän pintaa syvemmältä ja tavataan kiinnostavia hahmoja. Se
-Puhuja 1: alkaa jaksolla tällaisen
-Puhuja 1: PraatPpois
-Puhuja 1: siitä, kun Praat-poisjohtaja
-Puhuja 1: soittaa vankilasta Iidalle, ja se on kova aloitus.
-Puhuja 1: Sitten siellä haastatellaan
-Puhuja 1: myös ihmistä, joka kerää demokraateille
-Puhuja 1: isoja
-Puhuja 1: summia
-Puhuja 1: rahaa, ja siinä on Amerikan
-Puhuja 1: politiikan monia puolia
-Puhuja 1: kysymyksiä kysytään,
-Puhuja 1: joita moni miettii,
-Puhuja 1: miksei kolmannella puolueella ole mahdollisuuksia,
-Puhuja 1: tai mistä tässä kaikessa
-Puhuja 1: oikeastaan kysymys. Ja kuinka Amerikan demokratian
-Puhuja 1: käy? Viimeisessä
-Puhuja 1: jaksossa
-Puhuja 1: tuli ihan kyynelsilmä.
-Puhuja 1: Siinä oli niin hieno kohtaus. Suosittelen
-Puhuja 1: Iida Tikka ja Purenema Maa Yle Areenasta.
-Puhuja 0: Irdikka ja morelmaa.
-Puhuja 2: Marko.
-Puhuja 2: Voisin suositella
+Puhuja 0: uutisorganisaatiosta,
+Puhuja 0: nimeltä Helsingin Sanomat. Hei Jukka! Terve, Tuomas.
+Puhuja 2: Kerrotko itsestäsi, kun mä en oikein tiedä, mitä sä teet?
+Puhuja 0: Mä olen Helsingin Sanomien tämmöinen podcast-heppoli.
+Puhuja 0: Tämän
+Puhuja 0: viikon
+Puhuja 0: podcastissa keskustellaan...
+Puhuja 0: Kuten tuli mainittua
+Puhuja 0: Lähi-idän tilanteesta.
+Puhuja 0: Israel,
+Puhuja 0: Hisbolla,
+Puhuja 0: Libanon,
+Puhuja 0: Iran,
+Puhuja 0: tai lähinnä kaikki Israelin kurkuissa ja Israel kaikkien kurkuissa. Tilanne näyttää tällä hetkellä huolestuttavalta näyttää siltä, että siellä on ainakin vaara siihen, että
+Puhuja 0: tämmöinen
+Puhuja 0: kostonkierre
+Puhuja 0: eskaloituu
+Puhuja 0: sodaksi.
+Puhuja 0: Onko näin?
+Puhuja 0: Mistä on kyse?
+Puhuja 0: Tässä
+Puhuja 0: on nyt toistensa kimpussa? Keskustellaan
+Puhuja 0: siitä.
+Puhuja 0: Sen lisäksi puhutaan
+Puhuja 0: huolestuttavista
+Puhuja 0: tutkimustuloksista, joissa on
+Puhuja 0: tällä viikolla keskitytty
+Puhuja 0: aivan erityisesti
+Puhuja 0: siihen, miten maahanmuuttajataustaisella
+Puhuja 0: nuorisolla menee
+Puhuja 0: suomalaisissa
+Puhuja 0: kouluissa.
+Puhuja 0: Kyse on tästä PISA-kaksikymmentäkaksi
+Puhuja 0: tutkimuksesta, jossa
+Puhuja 0: seurataan suomalaisten
+Puhuja 0: koulumenestystä,
+Puhuja 0: joka on ollut vuoden kaksituhatta kuusi jälkeen aina vaan huonompaa, mutta nyt luotiin
+Puhuja 0: erityiskatsaus siihen,
+Puhuja 0: miten menee nimenomaan maahanmuuttajataustaisilla
+Puhuja 0: suomalaisnuorilla.
+Puhuja 0: Keskustellaan siitä. Vielä
+Puhuja 0: kolmanneksi puhutaan
+Puhuja 0: aivan pärryhyttävästä
+Puhuja 0: tekoälysovelluksesta
+Puhuja 0: nimeltä
+Puhuja 0: Not Book LM, joka tuli Googlelta ulos ja todennäköisesti tekee aika isosta sivustatoimittajia,
+Puhuja 0: työttömiä.
+Puhuja 0: Keskustellaan siitä. Ainakin podcast-eppulaista.
+Puhuja 0: Keskustellaan siitä.
+Puhuja 0: Tosin minulla on sen jälkeen paljon tämän
+Puhuja 0: alan
+Puhuja 0: sisällä
+Puhuja 0: ajatuksia.
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 0: pitkien epämukavien hiljaisyyksien varalle.
+Puhuja 0: Okei, tähän kärkeen heti pieni Illan
+Puhuja 4: And
+Puhuja 4: to
+Puhuja 4: really
+Puhuja 4: Im
+Puhuja 4: piking
+Puhuja 4: be
+Puhuja 4: asses
+Puhuja 4: from
+Puhuja 4: drops
+Puhuja 4: by
+Puhuja 4: the
+Puhuja 4: way
+Puhuja 3: The Finnish Paper.
+Puhuja 4: Ixacly, Finnish Newspaper.
+Puhuja 4: And you are be like very to be like. We make be like, why Finland, why there they know? But think about this whole history with conflate, with displacement and there are like roughly the same same science levenaan.
+Puhuja 0: Ja sitten lähtee...
+Puhuja 0: Ne alkaa analysoimaan sitä aineistoa, mitä siellä on tapahtunut.
+Puhuja 0: Tämän kaksikon, josta on tullut jo aika kuuluisa internetsensaatio.
+Puhuja 0: Tämän
+Puhuja 0: kaksikon otteet on
+Puhuja 0: semmoisia...
+Puhuja 0: Tämä
+Puhuja 0: on tämmöinen overview eli
+Puhuja 0: ylätason, että mistä tässä aineistossa on kyse.
+Puhuja 0: Heidän
+Puhuja 0: tapa puhua, kuten äsken kuulitte,
+Puhuja 0: on tosi inhimillinen.
+Puhuja 0: Itsekin havahduin, kun kuulin tämän ensimmäisen kerran,
+Puhuja 0: kun Salla soitti
+Puhuja 0: meidän Slack-kanavalla.
+Puhuja 0: Salla oli generoinut tämmöisen
+Puhuja 0: vastaavanlaisen podcastin,
+Puhuja 0: jossa nämä Roboäänet
+Puhuja 0: puhuvat meidän podcastista.
+Puhuja 0: Kun ensimmäisen kerran kuuli, niin vau,
+Puhuja 0: miten inhimillisen kuulosta. Mutta heti perään oli, että
+Puhuja 0: miten hyvä muoto
+Puhuja 0: podcast on
+Puhuja 0: asioiden ymmärtämiseen. Miten siinä on semmoinen imu, että se alkaa tulla se kamee sun päähän ja sen keskustelun kautta ja inhimillisen,
+Puhuja 0: ystävällisen,
+Puhuja 0: innostuneen meining kautta.
+Puhuja 0: Se jotenkin imee mukaan. Se on niin hyvä tie...
+Puhuja 0: Ei tiedonvälityksen,
+Puhuja 0: mutta semmoisen jotenkin ymmärryksen ja välittäjään.
+Puhuja 3: Siitä olen tosi samaa mieltä. Samaan aikaan olin kauhissani, kun kuuntelin sitä, koska se myös osoitti,
+Puhuja 3: miten tyhjä suuri osa
+Puhuja 3: mediapuheesta ja analyysista on, koska ne käyttivät myös paljon semmoisia
+Puhuja 3: kliseitä,
+Puhuja 3: että nyt on tällaista, aika näyttää,
+Puhuja 3: ja onpa kiinnostavaa. Ja hirveästi täysin tyhjiä lauseita,
+Puhuja 3: jotka olivat
+Puhuja 3: pelottavan
+Puhuja 3: oli hämmentynyt ja sitten vähän ärsyynyin myös siitä, miten tyhjää se
+Puhuja 0: ori oli. The New York Timsilla on hyvä tekno-podcast
+Puhuja 0: nimeltä Heart Fork. Siellä kirjailija
+Puhuja 0: Stephen Jonson, joka on ollut kehittämässä tätä Nobook-LM,
+Puhuja 0: oli
+Puhuja 0: erinomainen haastattelu, kannattaa ehdottomasti kuunnella. Muutenkin hyvä podcast.
+Puhuja 0: Stephen Jonson sanoi, että he kehittyi tätä...
+Puhuja 0: Se
+Puhuja 0: toimii suurin piirtein silleen, että se on se perus kielimalli, joka generoi tekstiä. Silloin, kun me syötetään meidän
+Puhuja 0: generoi tekstiä. Silloin, kun me syötetään meidän uutisraportti podcast, niin oikeasti, minkä se tekee, on se ottaa sen transkription, jonka Youtube tekee.
+Puhuja 0: Sitten se lukee sitä transkriptiota.
+Puhuja 0: Se ei kuuntele sitä podcastia ääntä, vaan
+Puhuja 0: molemmille Robo-puhujalle,
+Puhuja 0: niin kuin nyt ChatGPT generoi tekstiä.
+Puhuja 0: Sen jälkeen puhesyntadisaattori
+Puhuja 0: lukee sen tekstin
+Puhuja 0: Robo-podcastajien
+Puhuja 0: äänellä. Steven Jonsson sanoi siinä, että kun he olivat tekemässä tätä ja he huomasivat, että ei hitta, se tuli jostain toisesta projektista tähän projektiin tämä
+Puhuja 0: podcast-ominaisuus.
+Puhuja 0: Aluksi se oli semmoinen no filler no nonsens.
+Puhuja 0: Suoraan asiaan just pois nämä sun
+Puhuja 0: kavahtamat latteudet sieltä välistä.
+Puhuja 0: Ja tämä Jonesho sanoi, että sitä oli mahdoton kuunnella. Se
+Puhuja 0: oli liian intensiivistä,
+Puhuja 0: että joka sana oli täyttä dataa.
+Puhuja 0: Ja
+Puhuja 0: sitten he tekivät silleen, että he lisäävät sinne
+Puhuja 0: puheenomaisuutta.
+Puhuja 0: Ja
+Puhuja 0: silleen, että vau ja kaikkea
+Puhuja 0: reaktioita ja tunteita.
+Puhuja 0: Sitten siihen syntyi
+Puhuja 0: semmoinen imu siihen juttuun.
+Puhuja 0: Ja sen jälkeen siitä yhtäkkiä tuli silleen, että ei vittu, mä haluan kuunnella kaiken Mä en aio ikinä lukea enää yhtään Wikipedian artikkelia, vaan mä haluan, että
+Puhuja 0: jutellaan mun päähän. Koska siinä on se inhimillisen kommunikaation imu, joka on meidän soluihin rakennettu.
+Puhuja 3: Onpa kiinnostavaa, koska just siihen kiinnitin huomiota. Joo, kyllä.
+Puhuja 0: Okei, mitä te olitte mieltä...
+Puhuja 0: Mun mielestä tässä sanoo, että me kaikki tehdään podcasteja ja nyt on tullut tämä tekoäly, joka tekee meidän duunin meidän puolesta.
+Puhuja 0: Oletteko sitä mieltä, että me jäädään
+Puhuja 0: Helsingin Sanomien tekninen kehitys, joka on tunnettu vilkkaudestaan,
+Puhuja 0: pusertaa tämän virtuaalipodcastajan
+Puhuja 0: ja säästävät
+Puhuja 0: meidän kuukausipalkan verran
+Puhuja 2: rahaa. Mitä luulitte, Köyhänni? En usko, että käy hänen joulua.
+Puhuja 3: Onneksi mulle ja Markolle on myös kirjoitushommia.
+Puhuja 0: Olen ollut pitkään sitä mieltä,
+Puhuja 0: että podcastissa on tosi tärkeää, että siellä
+Puhuja 0: on
+Puhuja 0: ihmisiä.
+Puhuja 0: Kun mä vaikka joskus
+Puhuja 0: yritän neuvoa meidän nuorempia toimittajia, miten tehdään podcasteja,
+Puhuja 0: niin painotan, että
+Puhuja 0: se vaikein asia podcastissa on olla ihminen. Olla niin kuin...
+Puhuja 0: Englannksi on semmoinen sanonta kuin words in all
+Puhuja 0: ryppyineen päivineen.
+Puhuja 0: Olla
+Puhuja 0: oikea, aito ihminen siellä. Se on kaikista vaikeinta.
+Puhuja 0: Mikään ei ole helpompaa kuin mennä podcastiin
+Puhuja 0: ja olla etäinen
+Puhuja 0: ja fiksu.
+Puhuja 0: Se on tosi puhua hyvin sivistyneesti
+Puhuja 0: tärkeistä
+Puhuja 0: asioista.
+Puhuja 0: Huomioiden kaikki puolet tässä asiassa. Emme mene liian lähelle mitään mielipidettä, jottei kukaan vain suutu.
+Puhuja 0: Se on helppoa. Kuka tahansa pystyy siihen, mutta se on
+Puhuja 0: on vaikea mennä olemaan ihminen. Se on kuitenkin se, mikä tekee podcasteista hyviä.
+Puhuja 0: Joten mä en usko, että tavallaan rouva ääni. Koska se ei vaan ole ihminen, niin se
+Puhuja 0: ei silleen pysty korvaamaan.
+Puhuja 3: Varmaan tähän pätee sama kuin moneen muuhunkin. Muuhunkin.
+Puhuja 3: Semmoinen vähän turhempi
+Puhuja 3: toivon mukaan katoaa.
+Puhuja 3: Me voidaan tehdä vaan entistä paremmin. Mutta vakava kysymys, koska podcastaajat on
+Puhuja 0: kuitenkin pieni siivujournalismi.
+Puhuja 0: Mun
+Puhuja 0: mielestä
+Puhuja 0: oli kuolinisku
+Puhuja 0: jollekin osalle journalismia.
+Puhuja 0: Joku osa, joka on
+Puhuja 0: toiminut silleen, että: Aa, okei, että Ilmatieteenlaitos
+Puhuja 0: lähettää
+Puhuja 0: tiedotteen, että hei, nyt on paljon auringonpaistetta ja siitepölyä.
+Puhuja 0: Joku toimittaja
+Puhuja 0: palvelee
+Puhuja 0: ihmisiä koostamalla siitä olennaiset osat ja sitten ehkä
+Puhuja 0: lukemalla jostain wikipediasta,
+Puhuja 0: mikä kasvi koivu oli ja sitten siitä tulee se synteesi, joka on bulkkiuutisjuttu.
+Puhuja 0: Nämä meni nyt pois. Ne tulee
+Puhuja 0: tätä kautta
+Puhuja 0: tapahtumaan.
+Puhuja 0: Näin mä uskon.
+Puhuja 0: Teillä ei ole meidän alasta mitään sanottavaa tai huomioita. Tai
+Puhuja 0: kannustuksen sanaa nuorille toimittajille.
+Puhuja 0: Okei.
+Puhuja 0: Sitten, kun......
+Puhuja 0: Rakikuppi täytti,
+Puhuja 0: istutte
+Puhuja 0: portaille vielä näistä aurinkoisista päivistä nauttimaan.
+Puhuja 0: Otatte
+Puhuja 0: raki huikkaa, jotta Lähi-idässä ei kenellekään
+Puhuja 0: turhan huonosti kävisi. Nostatte sen
+Puhuja 0: kippiksen
+Puhuja 0: yläilmoihin
+Puhuja 0: ja itää kohti.
+Puhuja 0: Sitten naapuri kysyi, että oho, mikäs tänä viikonloppuna nyt on touhu ja mistä te alatte heille sieltä portaalta huutelee?
+Puhuja 3: Iida Tikan mureneva Maa Porhdikista, podcastista,
+Puhuja 3: joka julkaistiin Yleisradion
+Puhuja 3: viime perjantaina.
+Puhuja 3: Ja
+Puhuja 3: disclaimerina,
+Puhuja 3: että Iida on ystäväni.
+Puhuja 3: Asuimme muistaakseni melkein naapureina ja on tunnettu paljon ennen sitä. En ole millään tavalla
+Puhuja 3: puolueeton lähde tässä.
+Puhuja 3: Mutta Idan
+Puhuja 3: kuusiosainen podcastria,
+Puhuja 3: jota ajattelen ja sanoin tämän myös Idalle ja hän hyväksyy tämän ajatuksen, niin on se minun kirjan sisarteos.
+Puhuja 3: Siinä
+Puhuja 3: tarkastellaan
+Puhuja 3: Yhdysvaltain politiikkaa vähän pintaa syvemmältä ja tavataan kiinnostavia hahmoja. Esimerkiksi
+Puhuja 3: se alkaa jaksolla tällaisen Praat-poisjohtajan
+Puhuja 3: siitä,
+Puhuja 3: Idalle ja se on kova aloitus.
+Puhuja 3: Sitten siellä haastatellaan
+Puhuja 3: myös
+Puhuja 3: ihmistä, joka kerää demokraateille isoja summia rahaa.
+Puhuja 3: Siinä on Amerikan
+Puhuja 3: isoja
+Puhuja 3: summia
+Puhuja 3: rahaa,
+Puhuja 3: ja
+Puhuja 3: siinä
+Puhuja 3: on
+Puhuja 3: Amerikan
+Puhuja 3: politiikan
+Puhuja 3: monia
+Puhuja 3: puolia
+Puhuja 3: kysymyksiä.
+Puhuja 3: Ja kuinka Amerikan demokratian käy?
+Puhuja 3: Viimeisessä jaksossa
+Puhuja 3: tuli kyynel silmään. Siinä oli niin hieno kohtaus.
+Puhuja 3: Suosittelen
+Puhuja 3: Iida Tikka ja Pureneva
+Puhuja 3: Maa Yle Areenasta.
+Puhuja 0: Iida Tikka ja Morelmaa.
+Puhuja 2: Marko. Voisin suositella
 Puhuja 2: Mika Malirannan
-Puhuja 2: Uutta kirjaa, joka julkistettiin
-Puhuja 2: eilen
+Puhuja 2: Uutta kirjaa, joka julkistettiin eilen
 Puhuja 2: pinnan alta. Siitä on ollut meilläkin
-Puhuja 2: Hesarissa
-Puhuja 2: tai parikin juttua liittyen tähän kirjaan. Ehkä mekin sanoin,
+Puhuja 2: Hesarissa tai parikin juttua liittyen tähän kirjaan. Ehkä mekin sanoin,
 Puhuja 2: tämmöisen reklamaation, että mikä on myös mun kaveri. Mun kaverin kirjasta.
 Puhuja 2: Se on tosi kiinnostava. Se on kansantajuinen
 Puhuja 2: talouskirja,
-Puhuja 2: joka kontra tai menee siinä mielessä vastavirtaan, että kirjan päiväviesti on se, että
+Puhuja 2: jossa
+Puhuja 2: Kontra menee siinä mielessä vastavirtaan, että kirjan päiväviesti on se, että
 Puhuja 2: Suomen talouden
 Puhuja 2: tulevaisuus
 Puhuja 2: ei välttämättä ole niin synkkä, kun joka päivä saa lukea lehdistä tai ennen kaikkea kuunnella poliitikkojen puheista.
-Puhuja 2: Maliranta on
-Puhuja 2: siis
-Puhuja 2: Laboren,
-Puhuja 2: joka on Taloustutkimuslaitos,
-Puhuja 2: toimitusjohtaja ja Jyväskylän yliopiston
-Puhuja 2: professori.
-Puhuja 2: Kirja on syntynyt. Hän on käynyt monen vuoden aikana puhumassa eri tahoille.
-Puhuja 2: Malirannan on tavallaan
-Puhuja 2: tutkimuskohde, jossa hän on
-Puhuja 2: parhaimmillaan ja varmaan Suomen paras. On tämmöinen
-Puhuja 2: luova tuho, miten työpaikkoja
-Puhuja 2: syntyy, miten häviää, miten ihmiset vaihtavat työpaikkaa
-Puhuja 2: ja miten talous luovan tuhon kautta kehittyy.
-Puhuja 2: Se oli varmaan useamman vuoden ajan käynyt tästä puhumassa ja käynyt läpi erilaisia tilastoja ja dataa. Nyt hänen näkemyksensä onkin se
-Puhuja 2: vähän
-Puhuja 2: yllättävä. Itse asiassa Suomella saattaakin olla edessään merkittävä
+Puhuja 2: Maliran on
+Puhuja 2: siis Laboren, joka on Taloustutkimuslaitos,
+Puhuja 2: toimitusjohtaja ja Jyväskylän yliopiston professori.
+Puhuja 2: Kirja on syntynyt. Hän on käynyt monen vuoden aikana puhumassa eri tahoille. Malirannan
+Puhuja 2: on tavallaan tutkimuskohde, jossa hän on
+Puhuja 2: parhaimmillaan ja varmaan Suomen paras, on tällainen luova tuho, miten työpaikkoja syntyy, miten työpaikkoja häviää, miten ihmiset vaihtavat työpaikkaa ja miten talous luovan tuhon kautta kehittyy.
+Puhuja 2: Se Maire on useamman vuoden ajan käynyt tästä puhumassa ja käynyt läpi erilaisia tilastoja ja dataa.
+Puhuja 2: Hänen näkemyksensä onkin
+Puhuja 2: vähän yllättävää.
+Puhuja 2: Itse
+Puhuja 2: asiassa Suomella saattaakin olla edessään
+Puhuja 2: merkittävä
 Puhuja 2: talouskasvun
 Puhuja 2: paikka johtuen.
-Puhuja 2: Ennen kaikkea tällaisista
-Puhuja 2: suht uusista start upeista. Tuolla on kaksituhatta
-Puhuja 2: kaksitoista kaksituhatta kuusitoista välillä perustettu
-Puhuja 2: iso määrä
-Puhuja 2: firmoja. Eli kasvaa ja rekrytoi kovaa tahtia.
-Puhuja 2: Tämä on syntymässä uusi
+Puhuja 2: Ennen kaikkea
+Puhuja 2: suht uusista start upeista. Täällä on
+Puhuja 2: kaksituhatta
+Puhuja 2: 12-kuusitoista
+Puhuja 2: välillä perustettu
+Puhuja 2: iso määrä firmoja, jotka kasvaa ja rekrytoi kovaa tahtia. Tämä
+Puhuja 2: on syntymässä
+Puhuja 2: uusi
 Puhuja 2: yritysten verkosto,
 Puhuja 2: joka
-Puhuja 2: vauhdittavat kasvua.
-Puhuja 2: Yksi seikka on myös se, että koska Suomen tuottavuuden Kaikki lähtee siis tuottavuuden kasvusta, ja Suomen tuottavuuden
-Puhuja 2: kasvu on ollut niin huonossa jamassa. Se rupeaa vääjäämättä.
-Puhuja 2: Mutta Malirannan pointti on se, että tämä ei ole varmaa, mutta
-Puhuja 2: voi hyvinkin olla, että
-Puhuja 1: Kuunnemme ovat poispyyhitty.
+Puhuja 2: vauhdittaa kasvua.
+Puhuja 2: Yksi seikka on myös se, että koska Suomen tuottavuuden... Kaikki lähtee siis tuottavuuden kasvusta, ja Suomen tuottavuuden kasvu
+Puhuja 2: on ollut niin huonossa jamassa. Se rupeaa vääjäämättä
+Puhuja 2: jossain vaiheessa. Sen on pakko kasvaa.
+Puhuja 2: Mutta Maliran pointti on se, että tämä ei ole varmaa, mutta voi hyvinkin
+Puhuja 2: olla, että...
+Puhuja 3: Kulollemme ovat poispyyhitty.
 Puhuja 2: Ei poispyyhity.
 Puhuja 2: Eilen
-Puhuja 2: tämän kirjan julkistustilaisuudessa, ja siellä myös Malinralta puhui siitä, että
-Puhuja 2: ei tarvitse
-Puhuja 2: sopeuttaa taloutta ja hoitaa taloutta, ja eletään ei ole mikään
+Puhuja 2: tämän kirjan julkistustilaisuudessa,
+Puhuja 2: ja siellä myös Mariranta puhui siitä, että
+Puhuja 2: ei tarkoita sitä, että ei tarvitse alan sopeuttaa taloutta ja hoitaa taloutta ja eletään, ei ole mikään
 Puhuja 2: vapaamatkustajan
 Puhuja 2: paikka.
 Puhuja 2: En malta olla sanomatta
-Puhuja 2: huvittavaa.
-Puhuja 2: Ennen Twitterissä
-Puhuja 2: kansanedustaja Martin Paasi kokoomuksesta.
+Puhuja 2: huvittavaa
+Puhuja 2: ennen Twitterissä. Kansanedustaja
+Puhuja 2: Martin Paasi kokoomuksesta.
 Puhuja 2: Lähitte
-Puhuja 2: erittäin aggressiiviseen Twitter-viestinyssä
+Puhuja 2: erittäin aggressiiviseen Twitter-viestinnässä
 Puhuja 2: Malirannalle,
 Puhuja 2: jossa hän sanoi,
 Puhuja 2: että
 Puhuja 2: ihmetteli, mitä hyötyä määrätietoisen kasvutoimenpide
-Puhuja 2: tahtotilan vesittämisessä on. Musta ajatus
-Puhuja 2: on Kokoomuksessa Matti Pasi ajatteli, että nyt on voimakas kasvutoimenpide,
-Puhuja 2: tahtotila,
-Puhuja 2: saavutettu Suomen kansan keskuuteen ja nyt tällainen urpo.
-Puhuja 2: Joku maliranta tulee sössimään. Ei vieläkään niin huonosti.
-Puhuja 2: Maliranta vastaa hänelle aika tylysti.
-Puhuja 2: Hän on tiedemies ja pitäisikö hänen tehdä
-Puhuja 2: kirjan
-Puhuja 2: lopputulemat sen mukaan mitä kokoomus haluaa. Etkö hän kuitenkaan lähde siitä mitä se data kertoo ja mitä tutkimus kertoo. Suosittelen
-Puhuja 0: kaupunkeihin tuolla Suomen
+Puhuja 2: tahtotilan esittämisessä
+Puhuja 2: on. Musta ajatus on
+Puhuja 2: Nyt on voimakas
+Puhuja 2: kasvotoimenpide tahtotila.
+Puhuja 2: Saavutettu Suomen kansan keskuuteen. Ja nyt tällainen urpo.
+Puhuja 2: Joku maliranta tulee sössimään. Ei menekään niin huonosti.
+Puhuja 2: Vau. Maliranta vasta
+Puhuja 2: kertoo.
+Puhuja 2: Suosittelen pinnan alta Mika Maliranta.
+Puhuja 0: Hyvä.
+Puhuja 0: Miten suhtaudutte kokkaamiseen, harrastatteko?
+Puhuja 2: Joo. Mulla on todella hyvä.
+Puhuja 2: Olet hyvä. Omasta mielestäni.
+Puhuja 0: En tiedä,
+Puhuja 0: minkä verran tämä rajoittuu vain meihin pieniin ja vähäpätöisiin
+Puhuja 0: kaupunkeihin tuolla
+Puhuja 0: Suomen
 Puhuja 0: laitamilla eli ei Helsinkiin.
 Puhuja 0: Mutta oletteko ikinä käyneet esimerkiksi
-Puhuja 0: supermarketista ostamassa lihaa?
-Puhuja 1: Jotkin olen kyllä.
-Puhuja 0: Oletteko huomanneet, että siellä ei saa
-Puhuja 0: luullista lihaa kovin helposti? Kyllä, olen huomannut.
+Puhuja 0: supermarketista
+Puhuja 0: ostamassa lihaa?
+Puhuja 0: Oletko huomannut, että siellä
+Puhuja 0: ei
+Puhuja 0: saa lullista lihaa kovin helposti? Kyllä,
+Puhuja 3: olen huomannut.
 Puhuja 0: Mä olen ollut tästä
-Puhuja 0: häkeltynyt ja
-Puhuja 0: närkästynyt.
-Puhuja 0: Mä tykkään tosi paljon Amerikasta,
-Puhuja 0: niin kuin moni tässä podcastissa.
+Puhuja 0: jotenkin häkeltynyt
+Puhuja 0: ja närkästynyt.
+Puhuja 0: Tähän liittyy semmoinen... Mä tykkään tosi paljon Amerikasta, niin kuin moni tässä podcastissa.
 Puhuja 0: Ja sitten mä tykkään varsinkin amerikkalaisista
-Puhuja 0: kokkiTikToista
-Puhuja 0: ja kokkitubettajista.
-Puhuja 0: Ja
-Puhuja 0: sitten he monesti tekee
+Puhuja 0: kokki tiktokkaista
+Puhuja 0: ja kokkiubettajista.
+Puhuja 0: Ja sitten he monesti tekee
 Puhuja 0: ruokaa, koska heillä on niin iso grillauskulttuuri.
-Puhuja 0: He tekevät ruokaa
-Puhuja 0: kaikennäköisistä huonommista lihan,
-Puhuja 0: ruhon osista.
-Puhuja 0: Eli ei pelkkää filettä, vaan sitten siellä on jotain niiden nimetä. Tai joku scurd-stake,
-Puhuja 0: jotain tällaista, mistä Siperiassa
+Puhuja 0: He tekee ruokaa
+Puhuja 0: kaikennäköisistä
+Puhuja 0: huonommista
+Puhuja 0: lihan, ruhon osista.
+Puhuja 0: Eli ei pelkkää filettä, vaan siellä on niiden nimetä tai joku scurd-stake,
+Puhuja 0: jotain tällaista, mistä täällä Siperiassa
 Puhuja 0: ei olla vielä kuultukaan.
-Puhuja 0: Mutta
-Puhuja 0: tavallaan
-Puhuja 0: käytetään erilaisia osia, lihaa
-Puhuja 0: kuin
+Puhuja 0: Mutta tavallaan käytetään
+Puhuja 0: erilaisia
+Puhuja 0: osia lihaa kuin
 Puhuja 0: perusfilettä.
-Puhuja 0: Sitten
-Puhuja 0: pitkään
+Puhuja 0: Sitten mä pitkään
 Puhuja 0: monta vuotta olin silleen, että vitsit, kun meiltä ei saa
-Puhuja 0: semmoista, koska olette viimeksi ostaneet naudan kuvetta. Ei sitä vaan ole kaupassa.
-Puhuja 0: Mutta yhtäkkiä pari vuotta sitten
-Puhuja 0: aivan ihme tapahtui. Sitä huonompaa lihaa rupesi saamaan myös suomalaisista kaupoista niitä halpoja ylijäämäleikkeitä.
+Puhuja 0: semmoista, koska olette viimeksi ostaneet naudan kuvetta.
+Puhuja 0: Ei sitä vaan ole kaupassa. Mutta yhtäkkiä pari vuotta sitten aivan ihme tapahtui. Sitä huonompaa lihaa rupesi saamaan
+Puhuja 0: myös suomalaisista kaupoista halpoja ylijäämäleikkeitä.
 Puhuja 0: Mutta eihän ne suomalaisissa kaupoissa ollut mitään halpoja ylijäämäleikkeitä,
-Puhuja 0: vaan ne oli tietenkin tämmöisiä amerikanleikkeitä,
-Puhuja 0: niin kuin Skurd stake. Ja sitten se on tuplahintainen,
-Puhuja 0: minkä pitäisi olla se halpa huono, josta sä voit kokkaamalla tehdä hyvän, niin se olikin tuplahintainen
+Puhuja 0: vaan ne oli Amerikan leikkeitä,
+Puhuja 0: niin kuin Skurd stake. Ja sitten se oli tuplahintainen...
+Puhuja 0: Se, minkä pitäisi olla se halpa huono, josta sä voit kokkaamalla tehdä hyvän, niin se olikin tuplahintainen
 Puhuja 0: Amerikan erikoisuus.
-Puhuja 0: Sillä mulla pisti silmään, että joku tässä on vialla tässä systeemissä.
-Puhuja 0: Nyt kun mä haluaisin tehdä
-Puhuja 0: haudutettua
-Puhuja 0: naudanlihaa ja silloin yleensä tarvitaan sitkeää,
-Puhuja 0: huonoa lihaa, jossa on luuta kiinni,
+Puhuja 0: Silloin mulla pisti silmään, että joku tässä systeemissä on vialla.
+Puhuja 0: Nyt, kun mä haluaisin tehdä semmoista Texas tyylistä chiliä, missä on pitkään haudutettua
+Puhuja 0: naudanlihaa
+Puhuja 0: ja silloin yleensä tarvitaan sitkeää, huonoa lihaa, jossa on luuta kiinni,
 Puhuja 0: niin sitä ei löytynyt koko
-Puhuja 0: Hyvinkään Citymarketista
-Puhuja 0: mistään.
-Puhuja 0: Siellä ei ollut siis luullista naudanlihaa.
-Puhuja 0: Tämä on kaikki muuten menossa vielä suostumisen.
-Puhuja 0: Sitten mä olin silleen, että mitä helvettiä. Mä olin kysymään ihan lihatiskiltä,
-Puhuja 0: että onko teillä mitään nautaa, missä on luu kiinni.
-Puhuja 0: Sitten mä sanoin, että ei,
-Puhuja 0: ei ole sellaista. Siellä on tosi iso tosi iso marketti, tosi iso lihatiski ja hyvää ja valtavan hieno henkilökuntaa, osaamista ja muuta. Mutta sitten se lihamestari siinä selitti, että
-Puhuja 0: ne tulee heille valmiina
-Puhuja 0: nuo ruhan osat ja niistä on luut poistettu.
-Puhuja 0: Luut jauhetaan ja myydään rehuksi mieluummin kuin jätetään ihmisille.
-Puhuja 0: Sitten mä tätä hämmästelin mun omassa Instagramissa, että miten voi olla, että Koska tämähän vaikuttaa koko suomalaiseen
-Puhuja 0: ruokakulttuuriin. Jos täällä vaan pelkkää filettä. Se on joko filettä tai jauhelihaa. Tai pilkottua filettä. Siinä on
-Puhuja 0: käytännössä kahta eri lihaa. Jauhelihaa tai filettä. Ei
-Puhuja 0: kunnon kokki pysty nousta tekemään, mitä se on niin rajattu valikoima.
+Puhuja 0: Hyvinkään
+Puhuja 0: citymarketista mistään.
+Puhuja 0: Siellä ei ollut luullista naudanlihaa.
+Puhuja 0: Tämä on kaikki menossa vielä suosituksia.
+Puhuja 0: Sitten mä olin silleen, että mitä helvettiä. Menin kysymään ihan lihaniskiltä, että onko teillä mitään nautaa, missä on luu
+Puhuja 0: kiinni. Sitten ne sanoi, että ei,
+Puhuja 0: ei ole sellaista. Siellä oli
+Puhuja 0: tosi iso marketti, tosi iso lihatiski ja hyvää ja valtavan hieno
+Puhuja 0: henkilökuntaa, osaamista ja muuta. Mutta sitten se
+Puhuja 0: omassa Instagramissa, miten voi olla,
+Puhuja 0: koska tämähän vaikuttaa koko suomalaiseen ruokakulttuuriin.
+Puhuja 0: Jos täällä vain pelkkää filettä.
+Puhuja 0: Se on joko filettä
+Puhuja 3: tai jauhelihaa. Tai pilkottua filettä.
+Puhuja 0: Käytännössä kahta eri lihaa. Jauhelihaa tai filettä. Ei
+Puhuja 0: kunnon kokki pysty noista tekemään, mitä se on niin rajattu valikoima.
 Puhuja 0: Tätä mä tuskailin mun Instagramissa.
 Puhuja 0: Tää sai paljon ihmisiltä
-Puhuja 0: myötätuoppusta,
-Puhuja 0: kunnes mä sain aivan mahtavan linkin ihmiseltä X. Se on semmoinen kuin
-Puhuja 0: aitojamakuja.
-Puhuja 0: Fi, joka on hakukone
-Puhuja 0: ja voit laittaa oman kunnan.
-Puhuja 0: Sitten kartalle tulee kaikki sun oman kunnan tai laajemman alue. Voit itse valita
-Puhuja 0: pienteurastamot,
-Puhuja 0: samat
-Puhuja 0: tyypit, jotka hoitaa sitä lihaa näille Duopolille, SK-ketjuille,
+Puhuja 0: myötätuottamusta,
+Puhuja 0: Kunnes mä sain aivan mahtavan linkin
+Puhuja 0: ihmiseltä X. Se on semmoinen kuin aitojamakuja.
+Puhuja 0: Fi, joka on hakukone,
+Puhuja 0: jossa voit laittaa oman kunnan.
+Puhuja 0: Sitten
+Puhuja 0: kartalle tulee kaikki sun oman kunnan tai laajemman alue. Voit itse valita.
+Puhuja 0: Tämmöiset pienteurastamot,
+Puhuja 0: samat tyypit, jotka hoitaa sitä lihaa näille Duopolille, sK-ketjuille,
 Puhuja 0: niin jos pystyt heidän
-Puhuja 0: ihan sieltä tilalta hakemaan vaikka tätä luullista lihaa, se on yleensä halvempaa kuin marketissa,
-Puhuja 0: niin sieltä se löytyy.
-Puhuja 0: Aitojamakuja.
-Puhuja 0: Fi. Siellä on
-Puhuja 2: paikalliset tuottajat. Miten siellä tilalla voi olla? Koska
-Puhuja 2: eihän ne tilalla teurasta mitään eläimiä.
-Puhuja 0: On myös teurastamoita,
-Puhuja 0: mitä varten.
-Puhuja 0: Mä en tiedä tarkkaan, miten se toimii.
-Puhuja 0: Mutta siellä lukee,
-Puhuja 0: mitä ne myy.
+Puhuja 0: sieltä tilalta hakemaan vaikka tätä luullista lihaa, se on yleensä halvempaa kuin marketissa,
+Puhuja 0: niin sieltä se löytyy:
+Puhuja 0: aitojamakuja.
+Puhuja 0: Fi. Siellä on paikalliset
+Puhuja 2: tuotteet. Miten siellä tilalla voi olla, koska
+Puhuja 2: eihän ne siellä tilalla teurasta niitä eläimiä? On myös teurastamoita.
+Puhuja 0: Mitä voi hakea.
+Puhuja 0: Mä en tiedä tarkkaan, miten se toimii. Siellä lukee, mitä ne myy.
 Puhuja 0: Eli aitojenmakuja.
 Puhuja 0: Fi. Käykää sieltä ja menkää sieltä ostamaan
-Puhuja 0: jotain muuta kuin filettä.
-Puhuja 0: Siinä kaikki tältä erää. Kiitos, Annos-Sofia Berner. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Pelmäki.
-Puhuja 0: Äänenäja kaiken muun meille tekee tällä viikolla. Mikko Peura, kiitos Mikko. Ja
-Puhuja 0: lähettäkää meille palautetututtuihin
-Puhuja 0: osoitteisiin
-Puhuja 0: ja kuullaan taas
-Puhuja 0: vaikka ensi viikolla!
+Puhuja 0: jotain muuta kuin fileettä.
+Puhuja 0: Siinä kaikki tältä erää. Kiitos Anna-Sofia Bermero. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Pelmäki.
+Puhuja 0: Äänenkuva ja kaiken muun meille tekee tällä viikolla Mikko Peura. Kiitos Mikko.
+Puhuja 0: Laittakaa meille palautetut
+Puhuja 0: ja kuullaan taas...
+Puhuja 0: Vaikka ensi viikolla!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

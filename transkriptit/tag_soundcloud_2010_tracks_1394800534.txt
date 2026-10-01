@@ -1,0 +1,460 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 0: podcastiin!
+Puhuja 0: Päivän myöhässä eli perjantaina,
+Puhuja 0: joka on
+Puhuja 0: toinen päivä joulukuuta.
+Puhuja 0: Hyvää joulukuuta ja joulukuun alkua.
+Puhuja 0: Onko nyt siis adventtisunnuntai
+Puhuja 0: ensimmäinen, toinen, kolmas? Onko ne menneet tulossa? Ensimmäinen, oliko viime
+Puhuja 0: Ensimmäiseksi Jeesuksen odotuksen aikaa. Me täällä kristityt...
+Puhuja 0: Ei me olla kyllä kovin kristittyjä, mutta tehdään nyt tällä tavalla. Mun nimi on Tuomas Pelmäki.
+Puhuja 0: Kanssani täällä Helsingin Sanomien podcast studiossa ovat
+Puhuja 0: suloisesti
+Puhuja 0: kujertava
+Puhuja 0: tutkiva
+Puhuja 0: toimittaja ja tutkiva tuottaja Salla Vuorikoski hei Salla. Ihanaa. Kiitos, kun kutsuit.
+Puhuja 0: Ja miehekkäästi vieressä rehisee
+Puhuja 0: politiikan toimittaja Marko Junggre. Hei, Marko. Heissana.
+Puhuja 0: Pari ilmoitusasiaa.
+Puhuja 0: Tai yksi.
+Puhuja 0: Pikkujoulukutsut
+Puhuja 0: on lähetetty
+Puhuja 0: niille
+Puhuja 0: ihmisille, jotka sinne
+Puhuja 0: saavat sapua, jotka ilmoittautuvat
+Puhuja 0: ajoissa. Paitsi yksi ihminen on vielä jonossa. En ole lähettänyt hänelle sähköpostia.
+Puhuja 0: Lähetän. Ajattelin, että yhdellä
+Puhuja 2: ihmisellä on porttikielto.
+Puhuja 1: Parikin ihmistä. Porttikehua. En ole eläissäni nähnyt niin sekavaa kutsua, että mihinkään. Sä saat mitään tohon.
+Puhuja 0: Se on erittäin hyvä ja
+Puhuja 0: hieno.
+Puhuja 0: Jos sinun sähköpostiisi
+Puhuja 0: on tullut
+Puhuja 0: multa kutsu pikkujouluihin,
+Puhuja 0: siellä
+Puhuja 0: on Markan mielestä sekavat ohjeet. Mutta niissä ohjeissa sanotaan, että kolmetoista. Joulukuuta kello kahdeksantoista alkaen,
+Puhuja 0: Siltaisessa
+Puhuja 0: Helsingissä,
+Puhuja 0: on Uusi raportti-podcastin
+Puhuja 0: pikkujoulut ja sinä.
+Puhuja 0: Silloin, kun ilmoittauduit sinne,
+Puhuja 0: lähetit mulle, että minä olen tulossa, minun koira, minun kaksi lasta ja
+Puhuja 0: kolme ex miestä. Niin te kaikki olette siis
+Puhuja 0: tervetulleita.
+Puhuja 0: Kaikkien AVEKit pääsi myös sisään, koska Siltainen on yllättävänkin iso ravintola.
+Puhuja 0: Meitä on semmoinen parisataa. Niistä tulee todella
+Puhuja 0: kivat
+Puhuja 0: juhlat.
+Puhuja 0: Siltainen lupasi yrittää järjestää
+Puhuja 0: maksimimäärän
+Puhuja 0: istumapaikkoja,
+Puhuja 0: mutta niitä ei ole kaksisataa. Joten jos haluat istua, niin tule ajoissa.
+Puhuja 0: Muussa tapauksessa joudut
+Puhuja 0: nukkumaan pystypöydissä ja baaritiskillä.
+Puhuja 2: Kerro se himmeän ja sähköpostilla
+Puhuja 2: ovella ilmoittautuu.
+Puhuja 0: Se on tärkeintä. Tämä on niin tyhmä. En tiedä, mitä minulle tapahtui. Mutta totta kai näinhän ilmoittaudutaan.
+Puhuja 0: Sehän tehdään silleen, että Google lomake ja sitten ne menee kaikki nätteihin, nippuihin, exceleihin. Miksi et tehnyt näin? En tiedä. Kun olen ohi, että koko Google on olemassa, sen takia oli tämä sähköposti-ilmoittautuminen.
+Puhuja 0: No, siitähän seuraat, että kaikki sikiisoki mun sähköpostissa.
+Puhuja 0: Siitä taas seurasi se,
+Puhuja 0: että mun pitäisi jotenkin pusertaa ne sähköpostista Exceliin, ja en todellakaan rupea tekemään sitä käsin.
+Puhuja 0: Joten teen
+Puhuja 0: automaattimakron,
+Puhuja 0: joka perusti jossain määrin siihen, että
+Puhuja 0: keinoäly pyrki tunnistamaan
+Puhuja 0: kirjaimia. Näin en sen takia tiedä ihan miten sä laitat sinne.
+Puhuja 0: Luulen, että loppujen lopuksi se meni oikein. Sen takia minulla ei ole teidän nimiä, vaan minulla on teidän sähköpostiosoitteet.
+Puhuja 0: Ilmoittautuminen
+Puhuja 0: ovella tapahtuu niin, että hei,
+Puhuja 0: lähetin sähköpostia
+Puhuja 0: osoitteesta himmeetä.
+Puhuja 0: Pornoahs.
+Puhuja 0: Fi.
+Puhuja 0: Mulla on kolme
+Puhuja 2: seuralaista ja sitten kaikki kolme päästä näillä salakoodeilla sisään. Joo, se oli vähän sekavaa, mutta näin tämä nyt menee. Hei, saako ennen kuin mennään varsinaisiin aiheisiin sanoa, että mä olen siis kehdunut, että miten mahtavaa on päästä tänne lähetykseen. Mutta nyt mä olen erityisen otettu ja olen ymmärtänyt meidän kaveruuden todellisen arvoa, koska Lauri Linden Twitterissä
+Puhuja 2: kertoo:
+Puhuja 2: pakko paljastaa jotain. Olin joskus 13-vuotiaana
+Puhuja 2: todella kova Tuomas Peltomäki-fani.
+Puhuja 2: Ostin jopa samanlaiset konverset,
+Puhuja 2: mitä Tuomas piti jossain uutisraportin
+Puhuja 2: jaksossa. Perussuomalaisten ehdotuksessa näillä puolueilla on parikymmentä miljoonaa euroa euroa.
+Puhuja 2: Perussuomalaiset esitti muistaakseni noin sataneljäkymmentä
+Puhuja 2: miljoonan euron leikkausta Ylen vuosirahoitukseen.
+Puhuja 0: Ja Ylen vuosirahoitus on noin viisisataa miljoonaa. Joo, se on nousemassa, se valtiovarainministeriö
+Puhuja 2: arvioi, että vuonna kaksituhatta kaksikymmentäviisi se olisi siellä kuusisataa miljoonan
+Puhuja 2: euron tasossa.
+Puhuja 2: Kokoomus ehdotti sitten tällaista
+Puhuja 2: satakaksikymmentä
+Puhuja 2: miljoonan euron leikkausta.
+Puhuja 0: Nyrkkisääntönä,
+Puhuja 0: koska luvut niin saa,
+Puhuja 0: että ne eivät oikein tarkoita mitään.
+Puhuja 0: Yle on yksinään isompi kuin koko muu suomalainen media yhteensä. Se on mielestäni hyvä tapa hahmottaa näitä asioita.
+Puhuja 2: Joo. Sitten voi tietysti verrata, että maine käytän poliisi, ja muistaakseni poliisi vuosibudjetti taitaa olla kahdeksansataa miljoonan euron kantturissa. Saattaa mennä nyt aivan metsään, korjaillaan sitten
+Puhuja 2: myöhemmin taas.
+Puhuja 2: Mutta se mittakaava on. Ly ger at it!
+Puhuja 2: Nyt näillä puolueilla on myös vähän painotuseroja.
+Puhuja 2: Perussuomalaisten lausunnoista käy aivan selvästi esille se, että heille tämä rahoituksen leikkaaminen
+Puhuja 2: on tapa ohjata YLEään oikealle
+Puhuja 2: polulle ja siellä
+Puhuja 2: ärsytystä
+Puhuja 2: aiheuttavat jopa yksittäiset ohjelmat, varmaan yksittäiset haastateltavan valinnat ja ylipäätään tällaiset painotukset, millaisia ohjelmia tehdään.
+Puhuja 2: Sehän on muuten totta, että rahoituksen leikkaaminen on aika hyvä tapa ohjata toimintaa.
+Puhuja 2: Mutta
+Puhuja 2: sitten kokoomus taas puhuu vähän eri nuotilla. He puhuvat tästä yleisestä säästötarpeesta.
+Puhuja 2: Meillähän on nyt, me aikaisemminkin täällä puhuneet tästä velka
+Puhuja 2: ilmestymisestä seuraaviin vaalistudioihin,
+Puhuja 2: että tämä keskustelu, mistä leikataan, ja jos leikataan,
+Puhuja 2: tulee esille. Kokoomus on tällä säästäväisyyslinjalla.
+Puhuja 2: Tietenkin tämä on herättänyt aika voimakkaita reaktioita toki
+Puhuja 2: omalla alallamme
+Puhuja 2: ja muutenkin julkisessa
+Puhuja 2: keskustelussa.
+Puhuja 2: Voidaanko tässä maailman ajassa, voidaanko YLEä leikata ja mikä on median ja journalismin
+Puhuja 2: tehtävä.
+Puhuja 1: Hyvin sanottu.
+Puhuja 1: Olen
+Puhuja 1: ihan samaa mieltä. Perussuomalaisissa
+Puhuja 1: lähtökohta on se,
+Puhuja 1: että heitä harmittaa
+Puhuja 1: erilaiset ohjelmat.
+Puhuja 1: Itse asiassa puhuin tästä eilen erään kokoomuslaisen kanssa ja hän alkoi muistelemaan, että
+Puhuja 1: kokoomus harmittaa eräät ohjelmat YLEessä, mutta hän alkoi muistelemaan silloin, kun nykyinen
+Puhuja 1: Yle-laki
+Puhuja 1: säädettiin ja tämä Yle-rahoitus
+Puhuja 1: tälle nykyiselle tasolle ja tuli Yle-verot sun muut. Niin kokoomus
+Puhuja 1: jäi siinä jalkoihin
+Puhuja 1: ja kokoomus kokee, että heitä nyt jotenkin huijattiin siinä. Nuo on myös vähän revanssimieli
+Puhuja 1: ala tässä.
+Puhuja 2: Tässähän
+Puhuja 2: keskusta...
+Puhuja 0: Sanotko? Mä lähdin rinnostamaan
+Puhuja 0: mun mielessä
+Puhuja 0: YLE ja
+Puhuja 0: toista tämän viikon mediauutista eli Alfa TV:n konkurssia,
+Puhuja 0: missä...
+Puhuja 0: Siis
+Puhuja 0: jollakin tavalla
+Puhuja 0: kristilliskonservatiivisesta
+Puhuja 0: kodista ponnistava
+Puhuja 0: alfa TV, jolla oli
+Puhuja 0: kotimaisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: siellä taustalla,
+Puhuja 0: se kaatui omaa mahdottomuuteensa.
+Puhuja 0: Siinä
+Puhuja 0: meilläkin moni kollega jäi sitten ilman työtä
+Puhuja 0: ja
+Puhuja 0: valitettava juttu sillä tavalla.
+Puhuja 0: Mutta sitten taas,
+Puhuja 0: jos perussuomalaisten
+Puhuja 0: mielestä
+Puhuja 0: ylen pitäisi olla huomattavasti lähempänä alfa-TV:tä,
+Puhuja 0: niin eikö meillä sitten voisi olla joku
+Puhuja 0: tapa, jolla se kaikki raha ei välttämättä menisi Ylelle, vaan että kanavoitaisi
+Puhuja 0: joillekin muille tahoille, jotka tekee
+Puhuja 0: moniäänisempää.
+Puhuja 1: Yle-laissa on muun muassa, että se kaikki rahahan ei mene ylläisten palkkoihin, vaan Yle ostaa
+Puhuja 0: muilta. Ulkopuoleista tuotantoyhtiötä. Se oli jotain kymmenen pinnaa. Se on aika pientä.
+Puhuja 1: Ehkä siinä on myös se, että minusta tämä on ehkä vähän silti ihmettelee kokoomuksen, koska tuo leikkaushan olisi aika dramaattinen ja
+Puhuja 1: kumminkin
+Puhuja 1: just nyt, kun puhutaan Euroopassa sotaa ja
+Puhuja 1: disinformaatiosta
+Puhuja 1: ja muusta, niin
+Puhuja 1: YLE:llähän on
+Puhuja 1: myös iso huoltovarmuus merkitys. Ei vaan se, että se toimittaa uutisia ja näin, mutta jos tulisi oikeasti kriisi niin Ylellähän on ihan viranomaistehtäviä.
+Puhuja 2: Minusta on vähän hassu aika ruveta pistämään YLEä polville. Tässä on ehkä sellaisia, että keskustellaan monia keskusteluita yhtä aikaa. Toisaalta on tämä ikään kuin ärsyyntyminen,
+Puhuja 2: joillain tahoilla ärsyyntyminen siitä, että Yle tekisi vääriä asioita journalismissa.
+Puhuja 2: Sitten
+Puhuja 2: toisaalla meillä käydään tätä mediamarkkinakeskustelua
+Puhuja 2: siitä, että millainen toimija Yleisradio on
+Puhuja 2: kaupallisen
+Puhuja 2: median vieressä ja miten se markkina toimii, onko se kilpailu reilua,
+Puhuja 2: Tekeekö Yle sellaisia asioita,
+Puhuja 2: jotka hoituisivat kaupallisen median toimesta ja häiriköikö se markkinoilla? Tämä on minusta semmoinen aika hauska keskustelu
+Puhuja 2: siinä mielessä, että kun monet munkin kollegat sanoo, että
+Puhuja 2: ei yle
+Puhuja 2: vaikuta mitenkään kaupalliseen mediaan. Minusta se on ihan hupopuhetta
+Puhuja 2: siinä mielessä, että kun me kaikki tiedämme, että jokaisella on kellossa tietty määrä tunteja, että se on valinta, että kuunteleeko tätä ohjelmaa
+Puhuja 2: vai lukeeko lehteä, katsooko telaria vai tekeekö jotain ihan muuta.
+Puhuja 2: Ihmisten mielenkiinnon määrä on rajallinen. Totta kai sitä jaetaan markkinoille. Jos Yle tekee paljon jotain sisältöä,
+Puhuja 2: niin se
+Puhuja 2: vie
+Puhuja 2: sinne mielenkiintoa.
+Puhuja 2: Tavallaan se on todellinen asia, että on olemassa markkinat,
+Puhuja 2: joissa Yle on pelurina ja todella isona pelurina.
+Puhuja 2: Pointtini on siis se, että
+Puhuja 2: minusta on sinänsä terveellistä ja hyvä käydä sitä keskustelua, että minkä kokoinen yleisradio on, miten se vaikuttaa kaupallisen median toimintamahdollisuuksia? Me puhutaan alueellisesta, paikallisesta mediasta,
+Puhuja 2: median toimintamahdollisuuksiin? Puhutaan alueellisesta,
+Puhuja 2: paikallisesta mediasta ja siitä
+Puhuja 2: moniarvoisuudesta myös, että
+Puhuja 2: jos Yle ostaa ohjelmia, mikä on oikein hyvä asia. Mutta sitten me mietimme myös ihan sellaista, että kuinka paljon yhden päätoimittajan
+Puhuja 2: sanotaan yhden journalistisen johdon alla on. On aina hyvä, että on
+Puhuja 2: moninaisuutta
+Puhuja 2: siinä.
+Puhuja 2: Tietysti me itsekin olemme isossa mediakonsernissa
+Puhuja 2: töissä.
+Puhuja 2: Mutta
+Puhuja 2: mun mielestä se puhdas keskustelu siitä, että siivutetaan sieltä todella dramaattisia summia, niin musta sen sijaan pitäisi puhua siitä, millä tavalla Ylen tehtävät on määritelty.
+Puhuja 2: Onko ne määritelty järkevästi?
+Puhuja 0: Tarvitaan laajempi keskustelu, mitä Yle on. Mutta en ole ihan varma, onko se keskustelu, mitä perussuomalaiset koko maassa.
+Puhuja 0: Just nyt käy. Täytyy muistaa se, että just tuli se päätös, millä Ylen toimintaa suitsittiin,
+Puhuja 0: joka oli meidän konserni valitus EU:n
+Puhuja 0: tuomioistuimelle, että ylä tekee liikaa. Mun mielestä se taas on merkittävästi
+Puhuja 0: vaikuttanut Ylen toimintaan, kun siellä tuli vaatimus, että Ylen jutut täytyy jollain tavalla olla, että niin täytyy linkittää videota tai ääntä. Yleisradiothan
+Puhuja 0: perustettiin sen takia, että on ihan vitun kallista
+Puhuja 0: rakentaa televisio antenneja
+Puhuja 0: ja kokonaisia studioita rakentajana. Ei Suomessa olisi yhtään ainutta televisiokanavaa,
+Puhuja 0: ellei sitä tehtäisi
+Puhuja 0: julkisin rahoin. No, nyt kaikki, jotka katsovat TV:tä, on vähintään 94-vuotiaita,
+Puhuja 0: niin se on mennyt se peruste, koska ei niillä tee enää mitään ja kaikilla on kännykkäkamerat ja näin.
+Puhuja 0: Mutta sehän se, että jos meillä on
+Puhuja 0: nettivideota ja audiota ja näin, se on kanssa kallista ja hankalaa ja sitä ei kaikilla medioilla halua tehdä. Se on mun mielestä tosi hyvällä tavalla vaikuttanut jo Ylen.
+Puhuja 1: Ja vastaavaa keskustelua
+Puhuja 1: käydään kaikkialla,
+Puhuja 1: Englannissa keskustellaan BBC:n
+Puhuja 1: tehtävistä ja roolista. Kyllähän tätä käydään kaikkialla. Hyvä, että
+Puhuja 0: keskustelu. Mun mielestä meidän pitää tehdä semmoista, mikä on hankalaa. Se mikä on haastavaa, vaikeata ja kallista.
+Puhuja 0: Minä
+Puhuja 2: haluaisin puolustaa YLEää myös siinä, että käydään tätä keskustelua siitä, että
+Puhuja 2: esimerkiksi seksuaalisuuteen
+Puhuja 2: liittyvät
+Puhuja 2: asiat ohjelmat ovat nyt ärsyttäneet
+Puhuja 2: muun muassa näiden väitettyjen väärien poliittisten kantojen
+Puhuja 2: lisäksi. Nuoriso-ohjelmat,
+Puhuja 2: Yle kioskia on katsottu, että se on vääränlainen. Nyt kuitenkin tilanne on se, että tämä sama ongelma on meilläkin
+Puhuja 2: täällä, että miten me tavoitamme riittävällä tavalla nuoria
+Puhuja 2: parikymppisiä
+Puhuja 2: tai sitä nuorempia vähän vanhempia
+Puhuja 2: meidän sisältöjen äärelle. Kun puhutaan Yleisradiosta ja muustakin mediasta, niin sehän on myös, että me tulemme niiden huoltovarmuusasioiden ja tämän demokratian toiminnan ja kaiken äärelle,
+Puhuja 2: että on tärkeää, että nuoretkin seuraavat
+Puhuja 2: tiedotusvälineitä. Sitten tavallaan se, että jos Yle tekee sellaisia ohjelmia, jotka puhuttelee nuorisoa, niin minusta ne tekee sitä, mitä niiden pitää tehdä.
+Puhuja 2: Sitten voi olla yksittäisissä ohjelmissa voi
+Puhuja 1: olla menty vähän mönkään, mutta noin kokonaisuudessa. Niin, se on sinänsä ihan samaa mieltä.
+Puhuja 1: Se on julkisesti rahoitettu
+Puhuja 1: media. Olisi olennaista, että sitä myös yleisö katselee.
+Puhuja 1: Mutta ne kysymykset aina herää, mistä nyt on puhuttu Fudiksen MM-kisojen yhteydessä.
+Puhuja 1: Onko järkevää, että
+Puhuja 1: Yle
+Puhuja 1: osallistuu myös huutokauppoihin
+Puhuja 1: urheilun tv-oikeuksista?
+Puhuja 1: Pitäisikö ne näyttää vain lentopalloa, jota saa ilmaiseksi?
+Puhuja 1: Ilman hittua
+Puhuja 1: ja sen.
+Puhuja 0: Minulle lähetettiin jalkapallo
+Puhuja 0: keskustelun yhteydessä,
+Puhuja 0: että miksei ylennäytä
+Puhuja 0: voimistelua?
+Puhuja 2: Haluan esittää tämän kysymyksen kuuntelijan puolesta. Nyt he esittävät. Juuri näin. Itse asiassa urheiluruutua katsoo, niin siellä oli voimistelua, oliko se MM-kisat, jotkut tai näin. Miksei sitä
+Puhuja 2: niin siellä oli voimistelu, oliko se MM-kisat jotkut tai jotain muuta. Juuri meneillään. Miksei sitä tulleen livenä? En lähde siitä insertissä. Sanon vielä pari tärkeää pointtia tästä asiasta.
+Puhuja 2: Se, että
+Puhuja 2: niitä leikkauksia
+Puhuja 2: nyt noin valtavia summia esitetään,
+Puhuja 2: niin
+Puhuja 2: kannattaa nyt etukäteen miettiä sitä, että mihin se johtaisi. Että siinä vaiheessa, kun Ylen esimerkiksi alueellisesta toiminnasta, joka on ihan äärimmäisen tärkeää tilanteessa, jossa kaupallisen median
+Puhuja 2: alueellinen toiminta on, sitä on supistettu
+Puhuja 2: monissa paikkakunnilla,
+Puhuja 2: niin onko se sellainen asia, että me haluamme nähdä, että siellä ruvetaan käymään yt-neuvotteluja
+Puhuja 2: ja mitä se tarkoittaa
+Puhuja 2: alueellisesti. Sinänsä musta on oikein hyvä, että keskustellaan Ylen koosta ja keskusteltaisiin nyt niistä julkisen palvelun tehtävistä,
+Puhuja 2: koska tosiasiahan on se, kun me kaikki tiedämme, että organisaatiot tykkäävät kasvaa ja löytää itselleen uusia tehtäviä. Kyllä, ja joskus kannattaa käydä pikku Laihituskurilla
+Puhuja 0: itsekinkin.
+Puhuja 2: Mikä toi
+Puhuja 2: oli?
+Puhuja 2: Kello on pikkujoulut tänään, ei mennyt. Okei.
+Puhuja 0: Sitten, kun
+Puhuja 0: menette tästä
+Puhuja 0: seitsemän kerrosta alaspäin ja alvelta ovelta mukit kouraan ja rupeatte viettämään
+Puhuja 0: sanoma
+Puhuja 0: osakeyhtiön
+Puhuja 0: pikkujouleille. Ei me olla enää osakeyhtiö, vaan Oyj.
+Puhuja 0: Tuolla menette
+Puhuja 0: sanomakonserni,
+Puhuja 0: ja kuulijalle tämmöinen pieni...
+Puhuja 0: Ehkä... Kaikki ei sitä tiedä, mutta sanomaan
+Puhuja 0: kuuluu semmoiset osiot, jotka on
+Puhuja 0: sanomaradiot,
+Puhuja 0: radiorokit ja tällaiset. Sitten
+Puhuja 0: on neljä,
+Puhuja 0: Televisiokanava,
+Puhuja 0: Ilta-Sanomat ja Helsingin Sanomat.
+Puhuja 0: Nyt mennään kaikki sitten hillumaan keskenämme tuonne. Sitten pikkujulut, jotka aatos Erkkohan
+Puhuja 0: kielsi pikkuiulut, että niitä ei saa järjestää
+Puhuja 0: sanomassa,
+Puhuja 0: että se on mautonta ja jotenkin tyylitöntä.
+Puhuja 0: Vaatii aatos Erkon kuoleman, että
+Puhuja 0: sanoman nykyinen johto ideoimaan firman
+Puhuja 0: pikkuiluja. Niitä nyt vietetään hyvin suureellisesti.
+Puhuja 2: Onko tämä tanssija haudoilla?
+Puhuja 1: En ihan usko. Mielestäni ei ollut Aatuksen
+Puhuja 1: kieltä, vaan joskus oli pikkujoulut, joissa tuli aikamoinen härdelli ja kiellettiin, ettei tulisi härdelleen. Oliko sulla joku osuus? Ei, mä en ollut vielä silloin yhtiöpalveluksessa.
+Puhuja 0: Mä kuulun kyllä legendaa, että se oli hanskassa. Okei, ehkä tuo liittyi tähän härdeliin. Voi olla.
+Puhuja 0: Ennen kuin odotellaan, että illan artistit pamauttaa soimaan,
+Puhuja 0: niin kierrät varmaan hauskoja juttuja kollegoille
+Puhuja 0: ja
+Puhuja 0: läheltä kaukaa. Mistä ajattelitte?
+Puhuja 1: Mä voisin kehottaa, että menkää ihmiset Ruotsiin. Olin eilen Ruotsissa.
+Puhuja 1: Ruotsi on niin mahtava ja ruotsalaiset on vähän käsitä, miten ne voivat olla niin kivoja.
+Puhuja 1: Tapasin
+Puhuja 1: ne muun muassa paljon ruotsalaisia, mutta
+Puhuja 1: eräskin
+Puhuja 1: ruotsalainen
+Puhuja 1: lobbar, joka kanssa keskustelee. Tuntui ihan kuin kauan
+Puhuja 1: kadoksissa ollut teini. Kun se oli niin
+Puhuja 1: kivaa ja innostunut musta ja kyseli ihan kuin se olisi oikeasti kiinnostunut.
+Puhuja 1: Meitä
+Puhuja 1: tuli kamalan hyvä vielä. Ruotsalaiset
+Puhuja 1: on kauniita
+Puhuja 1: ja fiksuja
+Puhuja 1: ja sulavia ja ne osaa sen small talkia. Silloin kun tulee Tukholmaan,
+Puhuja 0: se anna unohtaa. Mutta sitten kun astuu sinne Tukholmaan, niin tulee olo, että saa
+Puhuja 0: happea yhtäkkiä.
+Puhuja 1: Tällaistako tää oli elää ja hengittää tästä? Mä kävelin meillä vuosiin ollut siellä vanhassa kaupungissa ja käveltiin sattumaa tautiin sielläkin.
+Puhuja 1: Se on ainakin niin minuuttia. Mä olen ollut lapsuus mieleen lapsena siellä vanhassa kaupungissa
+Puhuja 1: Vahdin vaihtoa Mikaalina edessä. Menkää Tukholmaan. Tukholmaan on parasta, mitä maailmassa on. Kyllä. Ruotsi on upea kanssa.
+Puhuja 0: Luojan kiitos meillä on tuhatvuotinen historia. Kaikki hyvä, mitä Suomessa on, peräisin Ruotsista.
+Puhuja 1: Me olemme vain pilattua se. Niin.
+Puhuja 2: Mutta me voimme saada se takaisin.
+Puhuja 2: Pala kerrallaan.
+Puhuja 2: Tämä on vähän niin kuin olisimme matzaneet vaatteet aamulla, mutta me emme ole.
+Puhuja 2: Puhun nyt tästä suosituksesta.
+Puhuja 2: Vuonna tuhat yhdeksänsataayhdeksänkymmentäseitsemän
+Puhuja 2: Ruotsissa
+Puhuja 2: alkoi
+Puhuja 2: tällainen
+Puhuja 2: TV-ohjelma paikallisella
+Puhuja 2: Yleisradioyhtiöllä
+Puhuja 2: kuin Robinson.
+Puhuja 2: Katsoitteko sitä joskus? Kyllä.
+Puhuja 2: Joo. No sitten
+Puhuja 2: vuodet ovat viereineet ja tämä Robinson
+Puhuja 2: ikään kuin siitä poiki formaatti, Ruotsista
+Puhuja 2: kaikki pääsevät Amerikkaan.
+Puhuja 2: Se saikin uuden nimen Survivor.
+Puhuja 2: Siellä Amerikassa tätä on esitetty nyt neljäkymmentäkolme
+Puhuja 2: kautta
+Puhuja 2: yhteensä.
+Puhuja 2: Suomessa tämä kulkee nimellä selviytyjät.
+Puhuja 2: Voin paljastaa, että en katso realityohjelmia
+Puhuja 2: oikeastaan
+Puhuja 2: mitään muuta kuin
+Puhuja 2: selviytyjiä.
+Puhuja 2: Pidän siitä sen takia,
+Puhuja 2: että olen aika kilpailuhenkinen
+Puhuja 2: ihminen. Tykkään urheilusta,
+Puhuja 2: seuraan paljon urheilua.
+Puhuja 2: Tässä ohjelmassa yhdistyy erittäin hyvällä tavalla
+Puhuja 2: kilpailut,
+Puhuja 2: kiinnostavat
+Puhuja 2: tehtävät, urheilu ja juonittelu.
+Puhuja 2: Siinä ei ole seuraavia asioita ryyppäämistä
+Puhuja 2: juurikaan koskaan.
+Puhuja 2: Ei myöskään muhinointia eikä
+Puhuja 2: nuorten
+Puhuja 0: ihmisten sähläämistä. Sulla on tänä päivänä mennyt tuo nuktraaja-kirvel.
+Puhuja 2: Mutta
+Puhuja 2: tätä voi lasten kanssa katsoa. Koko
+Puhuja 2: perheohjelma. Nyt on finaali sunnuntaina kello muistaakseni tuhat yhdeksänsataakolmekymmentä
+Puhuja 2: illalla ja sitä selviää, kuka on seuraava
+Puhuja 2: selviytyjä. Tästä ei ole maksettu konsernisäisesti
+Puhuja 2: minulle mitään, mutta tämä on varmasti hyvä puheenaihe illalla, koska selviytyjien
+Puhuja 2: tekijöitä tai jotain saattaa olla siellä pikkujouluissa
+Puhuja 2: suositus.
+Puhuja 2: Nelosella.
+Puhuja 0: Mulla on tylsempi ja tavalaisempi
+Puhuja 0: suositus kuin teillä. Mutta minä suosittelen Natalie Scwren
+Puhuja 0: kirjoittamaa
+Puhuja 0: juttua The New Republic lehdessä jutun otsikko on:
+Puhuja 0: We might have long covid all rong. Koronahan jyllää nyt, ja vaikka se on poistunut medioiden uutisagendoilta,
+Puhuja 0: se kyllä
+Puhuja 0: tuolla
+Puhuja 0: internetin syvissä riveissä kyllä edelleen kiehuttaa ja kuumottaa.
+Puhuja 0: Natali Shur kirjoitti jutun long covidista.
+Puhuja 0: Tämä juttu käsittelee hyvin laajasti
+Puhuja 0: long covidin tyylisiä
+Puhuja 0: sairauksia
+Puhuja 0: ja niiden historiaa
+Puhuja 0: lääketieteellisessä mielestä.
+Puhuja 0: Hän
+Puhuja 0: esittää
+Puhuja 0: ja
+Puhuja 0: lainaa
+Puhuja 0: asiantuntijoita, jotka myös esittävät, että näissä on kyse, että ne ovat functional, neurological
+Puhuja 0: disorder,
+Puhuja 0: eli FND.
+Puhuja 0: Tämä on avain, jonka kautta voidaan ymmärtää näitä mystisiä sairauksia, joita on long covid. Sitten on olemassa
+Puhuja 0: yhä enemmän ehkä julkisuutta
+Puhuja 0: saada
+Puhuja 0: väsymyssyndrooma,
+Puhuja 0: Fatic syndroom.
+Puhuja 0: Nämä on kaikki oireiltaan
+Puhuja 0: ja tyyliltään hyvin samanlaisia, mikä jo antiikin
+Puhuja 0: Kreikan aikana
+Puhuja 0: tunnettiin yysteeriana.
+Puhuja 0: Se oli termi, joka oli tosi pahasti vähättelevä,
+Puhuja 0: ja sillä vähäteltiin
+Puhuja 0: nimenomaan naisia ja sillä vähäteltiin sitä, että sä vain stressaat niin paljon, että tulee
+Puhuja 0: siitä,
+Puhuja 0: pönttö menee sekaisin ja kuvittelet
+Puhuja 0: oireet. Mutta siinä jutussa käydään koko
+Puhuja 0: kaari läpi siitä, miten antiikin Kreikassa ajateltiin hysteriaa,
+Puhuja 0: miten se aikojen saatossa morffautuu silleen, että se on nykyään meillä. Ne samat oireet on Fatig-syndroon tai long covidissa on Ne samat
+Puhuja 0: oireet on Fatic syndrooman tai long covidissa on paljon samaa.
+Puhuja 0: Sitten tämä juttu kuitenkin on sitä mieltä, että nämä eivät ole mitään
+Puhuja 0: päästä keksittyä
+Puhuja 0: mielikuvitussairauksia,
+Puhuja 0: vaan ihan todellisia
+Puhuja 0: neurologisia
+Puhuja 0: sairauksia. Se on tosi mielenkiintoinen ja kiintoisa katsaus tähän asiaan. Monille, jotka sairastavat näitä sairauksia,
+Puhuja 0: se on tosi vaikeaa ja tosi
+Puhuja 0: pahasti elämää hankaloittavaa
+Puhuja 0: asia. Varsinkin long covidia
+Puhuja 0: Suomessa moni sairastaa. Kannattaa lukea juttu: We might have long covid allron kirjoittaja Nattelis short ja the New Republic lehdessä.
+Puhuja 0: Jees. Siinä kaikki tältä erää.
+Puhuja 0: Kiitos, Salla Vuorikoski.
+Puhuja 0: Kiitos. Kiitos, Marko Junkkari. Kiitos. Mun nimi on Tuomas Peltomäki. Äänenäkuva ja kaiken muun meille tekee tällä viikolla tuleva pikkujoulukaveri
+Puhuja 0: Janne Erkki.
+Puhuja 0: Lähettäkää meille palautetta:
+Puhuja 0: uutisraportti.
+Puhuja 0: Kuullaan taas ensi viikolla. Ja sitä seuraavalla viikolla onkin sitten jo podcastin pikkujoulut
+Puhuja 0: Siltaisessa. Eli tervetuloa sinne, jotka olette saaneet kutsua.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 1: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

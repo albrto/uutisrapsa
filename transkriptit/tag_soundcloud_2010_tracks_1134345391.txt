@@ -1,203 +1,436 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastin pariin perjantaina
-Puhuja 0: satakymmenen.
-Puhuja 0: Minun nimeni on Alma Onali ja kanssani täällä Sanomatalon studiossa ovat politiikan toimittaja Joaki Vesteren Dol. Hei Joaki. Hei, vähän hei. Ja sitten meillä on täällä myös ulkomaantoimittaja
-Puhuja 0: Heikki Aittokoski, jonka houkuttelin äsken käytävästä tänne mukaan. Moikka Heikki! Moi.
-Puhuja 0: Marko Junkkari hyppää myöhemmin vielä mukaan, mutta
-Puhuja 0: aloitetaan täällä Heikin kanssa, koska me halutaan tähän alkuun tällainen saksaspsiaali.
-Puhuja 0: Tänään puhutaan tosiaan Saksan vaaleista, poliisien määrärahoista ja lopuksi vielä Elokapinasta.
-Puhuja 0: Tervetuloa mukaan!
-Puhuja 0: Mutta aluksi puhutaan jännitysnäytelmästä
-Puhuja 0: nimeltä Saksanvaalit.
-Puhuja 0: Olemme saaneet studioon rautaista saksatietämystä,
-Puhuja 0: sillä Heikki Aittokoski
-Puhuja 0: on pyrkinyt ymmärtämään Saksaa jo kolmekymmentä vuoden ajan, eikö näin ole?
-Puhuja 3: Pitää paikkansa. Tai jos ollaan ihan eksakteja niin vähän pidempäänkin, koska
-Puhuja 3: yli kolmekymmentä vuotta minä
-Puhuja 2: sain jo ylioppilaskeväänä.
-Puhuja 3: Minä sain
-Puhuja 3: silloisen Länsi-Saksan,
-Puhuja 3: nyt puhutaan siis jo melkein 80-luvun
-Puhuja 3: puolesta,
-Puhuja 3: Länsi-Saksan suurlähetystöltä
-Puhuja 2: stipendinä kirjan nimeltä Bondes Republic Deutschland Infarme
-Puhuja 2: Saksan liittotasavalta
-Puhuja 2: värikuvina. Se oli mielestäni mahtava matkaopas.
-Puhuja 0: Varmasti luit sen heti, kun sait sen käsiisi.
-Puhuja 0: Hei, sä olit juuri työmatkalla Saksassa pureutumassa
-Puhuja 0: maan syvimpään luonteeseen ja kysymässä saksalaisilta, että mistä he voivat massan olla ylpeitä, niin miten Saksa
-Puhuja 0: sun mielestä?
-Puhuja 1: Siis, hitko sä vierailemaan tällä uudella
-Puhuja 1: parikymmentä vuotta myöhästyneellä lentokentällä?
-Puhuja 1: Joo,
-Puhuja 3: mä olin siellä ihan ekaa kertaa.
-Puhuja 2: Valtavasti faneja ja niillä oli sairaan hyvä meining ja ne pomppi yhdeksänkymmentä minuuttia ylös alas ja sitten HJK:n pääty
-Puhuja 2: oli vähän vaisumpi
-Puhuja 2: ja sitten
-Puhuja 2: seura. Heillä ei ole juniorityötä
-Puhuja 2: toisin kuin HJK:lle, joka on Suomen suurin
-Puhuja 2: jalkapalloseura ja joka toinen helsinkiläinen varmaan jollain tavalla kytköksissä HJK:hon.
-Puhuja 2: Ja sain siihen paljon
-Puhuja 2: todella fiksuja vastauksia ja myös Ifkin kannattajilta ja ainakin nämä kaikki vastauksia lähettäneet ovat suuria podcastin ystäviä terveisiä vaan.
-Puhuja 2: Ainakin yksinäistä toivat että en mainitse hänen nimeään joten en mainitse mutta siinä oli todella kiinnostavia perusteluita.
-Puhuja 2: Yksi näistä vastaajista sanoi että hänellä se
-Puhuja 2: tavallaan että IFK on kuitenkin iso seuraus katsoo kaikki lajit.
-Puhuja 2: Lätkä totta kai, mutta myös jääpallo. Hän sanoi, että hän
-Puhuja 2: itse tykkää jääpallosta ja on viisitoista Mitä on jääpallo edessä?
-Puhuja 2: Hän oli käynyt
-Puhuja 2: muutettua Helsinkiin. Hän rupesi käymään Ifkin
-Puhuja 2: ja sitten siellä tapasi näitä ifki-faneja
-Puhuja 2: jotka tavallaan kannattavat Ifkiä kaikissa lajeissa ja sitä kautta hän päätyi myös Fudiksen pariin ja sitten hän löysi
-Puhuja 2: IFK:n
-Puhuja 2: ja sitten toinen ehkä tämmöinen
-Puhuja 2: yleisempi tai ehkä iso argumentti on se että
-Puhuja 2: tavallaan HJK, fanit kun HJK on myös käsittämättömän
-Puhuja 2: iso
-Puhuja 2: Suomen menestyneen seura
-Puhuja 2: ja jos HJK ei voitaisi suomenmestaruutta fudiksessa niin sitten ne ovat epäonnistuneet.
-Puhuja 2: Se lähtöoletus on se, että
-Puhuja 2: HJK
-Puhuja 2: pärjää ja jos se joskus ei pärjää niin sitten fanit kaikkoavat. Ja sitten fanit
-Puhuja 2: eivät jaksa käydä Veikkausliigan
-Puhuja 2: peleissä niin he käyvät katsomassa jotain HJK:n euro pelejä. HJK
-Puhuja 2: se on liian iso ja nämä IFK:n fanit sanoivat vähän muovinen että siinä ei ole semmoista tarttuva pintaa toisin kuin IFK joka on jolla menee ne on välillä tippunut kolmoisdivariinia
-Puhuja 2: ja nämä samat tyypit ovat olleet siellä
-Puhuja 2: myötä
-Puhuja 2: ja vastoinkäymisissä ja kun Ifkilla on enemmän vastoinkäymisiä
-Puhuja 2: niin se on tavallaan kasvattanut sen
-Puhuja 2: fanikunnan.
-Puhuja 2: Siitä on tullut todella uskollista että
-Puhuja 2: Heillä ei ole
-Puhuja 2: lähtöoletuksena se, että seura menestyy ja kestää sen että sinne tulee kaiken maailman kiinalaisia bisnesmiehiä ja muuta.
-Puhuja 2: Ja ilmeisesti sillä IFK:n
-Puhuja 2: seuralla ja pelaajille ja faneilla on sitten koska se on kumminkin fudiksessa niin pienseura niin se on tosi
-Puhuja 2: hyvä
-Puhuja 2: se yhteys että fanit tuntee pelaajat ja pelaajat tuntee fanit ja siinä on semmoinen
-Puhuja 2: pienen seuran glamouri.
-Puhuja 0: Ja kaikki rakastaa olta vastaanjaa.
-Puhuja 2: Joo, ja siinä on varmaan myös se, koska ne oikeasti on tosi paljon ja koko se toinen päätyi täynnä siellä polttaa areenalla ja ne hyppii ylös alas ja niin oli hyvä meininki ja savupommia ja muuta niin kaikilla on hauskaa siellä.
-Puhuja 0: Niin, siis nimenomaan toi just, että voi olla kivaa. Samalla tavalla niillä elokapinalaisille
-Puhuja 0: on kivaa, kun ne tekee tuolla yhdessä jotain
-Puhuja 0: yhteisen asian puolesta ja sitten on vain kahden ne vaalit tunnelmaa. En näe miten se eroaa yhtään jostain tuollaista urheilu. Elikkä rinnastat Ifki fanit ja Elokapina.
-Puhuja 2: Luulen olevani, että saat palautetta.
-Puhuja 0: Ei, mä sanon vaan, että kysehän on molemmissa mun mielestä
-Puhuja 0: yhteisöllisyydestä,
-Puhuja 0: karnevalismista
-Puhuja 0: ja
-Puhuja 0: no, ehkä iloittelusta
-Puhuja 2: no ehkä iloittelusta. Ei nyt ehkä elokapinassa kyse, mutta en minä täysin rinnastani ole. Kiitos palautteesta.
-Puhuja 2: Erittäin fiksuja ja hyviä palautteita. Mikä se suositus oli?
-Puhuja 2: Suosittelen
-Puhuja 2: menemään Ifkin fanikatsovaan.
-Puhuja 0: Kuulostaa aivan ihanalta.
-Puhuja 0: Olen ollut vain kerran katsomassa jääkiekkoa. Kävin katsomassa yhden
-Puhuja 0: tuota. Joo ei, mutta katson tästä fanikulttuurista vaan ja siitä kun puhun. Tallinnassa
-Puhuja 0: kävin katsomassa
-Puhuja 0: KHL:n peli, missä jokerit pelasi latviaalaista joukkuetta vastaan. Mulle tuli hirveän paha mieli, kun se oli jokereiden
-Puhuja 0: kotipeli.
-Puhuja 0: Sehän tarkoittaa sitä,
-Puhuja 0: että by default
-Puhuja 0: areena ja on vähän niinkuin jokerien puolella. Mä en tiennyt, että tällainen rakenne on siellä niiden pelien sisällä. Ja sitten kun menin sinne katsomaan
-Puhuja 0: ja siellä aluksi suitsutetaan. Siellä soitetaan jokereiden biisejä.
-Puhuja 0: Sitten kutsutaan ne jokerit
-Puhuja 0: sisään. Siellä
-Puhuja 0: pyrotekniikka leimahtaa,
-Puhuja 0: jokereiden luistelijat yksitellen sinne tulee, musa soi. Kaikki on wow wow wam bam bam bam ja näin ja jokereiden fanit huutaa.
-Puhuja 0: Sitten tulee se latvia joukkue. Ei pyrotoekniikkaa, ei musaa, ei mitään bam bam vou WWWWWWWWWWW piste nyt nämä luistelijat tänne kentälle. Mä olin silleen, että Jumala, tämähän on alusta asti vaan manipuloitu jotenkin näin, että tämän jokereiden pitäisi nyt pärjätä. Ihan periaatteesta
-Puhuja 0: mä kannatin Latvian joukkuetta siinä pelissä.
-Puhuja 2: En muuten ole yksin asia vielä. Olin itse asiassa eilen Tallinnassa sun entisessä kotikaupungissa.
-Puhuja 2: Ai niinkö? Millaista siellä oli? Oli ihan sairaan siistiä. Tämä oli eka kerta, kun poistui Suomen rajojen ulkopuolelle puolentoista vuotta. Ihanaa. Mulla oli silleen ihania, että vau.
-Puhuja 2: Tallinaa kyllä siellä oli mutta
-Puhuja 2: en ennen korona-aikaan mun useampaa vuoteen ole käynyt mutta siellä on kyllä tosi makeaa siellä Talliinan keskustassa. On, se on kehittynyt paljon ja siellä on hyvä boogi. Kyllä mä voisinkin tässä vaikka suositella, että
-Puhuja 0: käykää Tallinnassa.
-Puhuja 0: Siellä on ensinnäkin Tallinnassahan on tosi hyviä ravintoloita. Kannattaa käydä syömässä.
-Puhuja 0: Jos joku haluaa jonkun hyvän ravintolasuosituksen,
-Puhuja 0: niin laittakaa mulle vaikka DM
-Puhuja 0: Twitterissä, voin suositella jotakin mun suosikkeja. Pelkään, että jos suosittelen suoraan
-Puhuja 0: jotain mun lempiravintola, se räjähtää ihan
-Puhuja 2: nimenomaan.
-Puhuja 0: Käykää Tallinnassa
-Puhuja 0: kävelemässä ympäriinsä ja käykää tutustumassa
-Puhuja 0: johonkin muuhunkin kuin vanhaan kaupunkiin.
-Puhuja 0: Telliskivi,
-Puhuja 0: Koplii
-Puhuja 0: Siistejä paikkoja löytyy.
-Puhuja 0: Nyt
-Puhuja 0: kun saa mennä taas.
-Puhuja 1: Mullakin on suositus vähän niin kuin liikunta-aiheisesti.
-Puhuja 1: Mulla osuu
-Puhuja 1: katse tällaiseen uutisatsikkoon, missä Vierromelainen
-Puhuja 1: Mikko oli juossut
-Puhuja 1: lukion Cooper-testissä
-Puhuja 1: loistavan tuloksen.
-Puhuja 1: Satuitteko lukemaan tämän jutun? Kaikki valtakunnalliset mediat käytännössä uutisoit. Kuusi, joo.
-Puhuja 2: Paljosi otsikaa? Kaksituhatta
-Puhuja 1: kahdeksansataa Ei kun anteeksi,
-Puhuja 1: kolmetuhatta
-Puhuja 1: kahdeksansataakolmekymmentä, mikä on
-Puhuja 1: aivan mieletön tulos, koska
-Puhuja 1: kanssaviermalainen
-Puhuja 1: Iivo Niskanen, Olympia
-Puhuja 1: Sankarimme,
-Puhuja 1: on aikoinaan juossut
-Puhuja 1: samassa
-Puhuja 1: iässä. Muutaman sata metrin vähemmän.
-Puhuja 1: Se siis kertoo siitä, että
-Puhuja 1: tällä meidän Mikolla on varmasti
-Puhuja 1: paljon lahjoja kestävyysjuoksussa.
-Puhuja 1: Aihe herätti
-Puhuja 1: intoa, että onko tässä seuraava suomalainen kansallismyytti, jos tämä savolainen
-Puhuja 1: Mikko juoksee
-Puhuja 1: Suomen takaisin maailmankartalle
-Puhuja 1: tai osoittaa
-Puhuja 1: suomalaista
-Puhuja 1: sisua ja poikkeuksellisuutta
-Puhuja 1: maatilan poikana, joka
-Puhuja 1: juoksee kaikkia muita ylivertaisesti
-Puhuja 1: paremmin.
-Puhuja 1: Suositukseni
-Puhuja 1: on Cooper-testeestä
-Puhuja 1: puhuminen.
-Puhuja 1: Coopert-testit keskustelun aiheena, koska kun puhuttiin
-Puhuja 1: tätä uutista
-Puhuja 1: jossain pienryhmissä, niin heti ihmiset alkoivat jakamaan heidän Coopert-testituloksiaan.
-Puhuja 1: Sitten käytiin läpi, että paljon Alex Stub on juossut,
-Puhuja 1: ja näin poispäin. En tiedä, minkä mittari se on. Ehkä kestävyyden ehkä jonkun muun.
-Puhuja 1: Mutta se
-Puhuja 1: kiinnostaa ihmisiä.
-Puhuja 1: Se kertoi ihmisistä myös paljon, että miten kehystää oman tuloksensa, paljonko on juossut. Kaikilla on varmasti joko tosi hyvä tulos tai en tiedä onko tämä sukupuolittunut lainkaan.
-Puhuja 1: Oletko juossut?
-Puhuja 0: Joo, lukiossa joskus. Oli ihan ok tulos. En ollut luokan paras, en ollut huonoin. Olin siinä
-Puhuja 0: keskivaiheelta vähän ylemmäs. En kuollaksenikaan
-Puhuja 0: muista, mikä se kilometrimäärä
-Puhuja 0: oli, mutta
-Puhuja 0: olin silleen, että olin it's fine. Olen aina ollut kestävyysjuoksija.
-Puhuja 0: En
-Puhuja 0: nopeusjuoksija.
-Puhuja 0: Just näin.
-Puhuja 1: Just näin. Ja sitten voi
-Puhuja 1: muistuttaa, että olisi voinut juosta
-Puhuja 1: paremmin, muttei ehkä kiinnostunut tarpeeksi. Joo, oli vähän väsynyt.
-Puhuja 1: Tai että armeijassa oli huippukunnossa, mutta sitten oli vähän nuha, kun tuli ne loppukuutat
-Puhuja 1: testit tai jotain vastaavaa.
-Puhuja 1: Se on mun mielestä loistava
-Puhuja 1: keskustelunaihe. Suosittelen, että jos ette vielä tämän Mikko
-Puhuja 1: legendan tiimoilta
-Puhuja 1: nostanut esille kahvipöydässä, niin nyt kannattaa.
-Puhuja 0: Mutta kannattaako lähteä nyt juoksemaan sitä Cooperia?
-Puhuja 1: Mä aloin vähän miettiä.
-Puhuja 1: Kun joku kaveri meidän viestiryhmässä sanoi, että olin juossut paremmin kuin minä. Olin juossut joskus nuorena, niin ajattelin, että
-Puhuja 1: kuinka paljon valmistautumista se vaatisi, että juokseisi vielä vähän paremmin kuin hän.
-Puhuja 1: Niin, niin. En tiedä mistä
-Puhuja 1: tarve todistaa tämä juoksukestävyys
-Puhuja 1: tuli, mutta
-Puhuja 1: johonkin
-Puhuja 1: oman tärkeyden tuntoon osui kyllä.
-Puhuja 0: Seuraavaksi aletaan Tinderissä pituuden
-Puhuja 0: lisäksi ilmoittaa Cooperin TESstään. Ehdottomasti, Jep.
-Puhuja 0: Hei, suuret kiitokset tästä lähetyksestä,
-Puhuja 0: Joaki M. M. Stråhl. Kiitos. Kiitos, Marko Junkkari.
-Puhuja 0: Kiitokset vielä Heikki Aittokoskelle, joka aloitti tämän lähetyksen saksa spesiaalilla.
-Puhuja 0: Äänen ja kuvan ja kaiken muun ihanan meille tänään tekee Janne Elkki.
-Puhuja 0: Laittakaa meille jotain hauskaa ja kivaa palautetta: uutisraportti Ifkin fanit älkää please lynkatko muotuon muotoon elokapinan vertauksen takia. Se oli ihan puhdasta läpänheittoa. Tuomas Peltomäki, tule pian takaisin.
-Puhuja 0: Mä en kestä enää. Ei muuta kuin oikein ihanaa viikonloppua kaikille ensi viikkoon!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 2: podcastin pariin
+Puhuja 2: perjantaina satakymmenen.
+Puhuja 2: Minun nimeni on Alma Onali ja kanssani täällä Sanomatalon studiossa ovat politiikan toimittaja Joaki Westerndåhl,
+Puhuja 2: hei Joaki! Hei Joaki!
+Puhuja 2: Ja sitten meillä on täällä myös ulkomaantoimittaja
+Puhuja 2: Heikki Aittokoski, jonka houkuttelin äsken käytävästä tänne mukaan. Moikka Heikki! Moi!
+Puhuja 2: Marko Junkkari hyppää myöhemmin vielä mukaan,
+Puhuja 2: mutta aloitetaan täällä Heikin kanssa, koska me halutaan tähän alkuun tällainen saksaspsiaali.
+Puhuja 2: Tänään puhutaan Saksan vaaleista,
+Puhuja 2: poliisien määrärahoista ja lopuksi vielä Elokapinasta.
+Puhuja 2: Tervetuloa
+Puhuja 2: mukaan. Mutta aluksi puhutaan jännitysnäytelmästä
+Puhuja 2: nimeltä Saksan vaalit.
+Puhuja 2: Olemme saaneet studion rautaista Saksatietämystä,
+Puhuja 2: sillä Heikki Aittokoski
+Puhuja 2: on pyrkinyt ymmärtämään Saksaa jo kolmekymmentä vuoden ajan, eikö näin ole?
+Puhuja 1: Pitää paikkansa. Tai jos ollaan ihan eksakteja niin vähän pidempäänkin, koska
+Puhuja 1: yli kolmekymmentä vuotta minä sain jo
+Puhuja 1: ylioppilaskeväänä.
+Puhuja 1: Minä sain Saksan silloisen Länsi-Saksan,
+Puhuja 1: nyt puhutaan siis jo melkein 80-luvun puolesta,
+Puhuja 1: Länsi-Saksan suurlähetystöltä
+Puhuja 1: stipendinä
+Puhuja 1: kirjan nimeltä Bondes Republik Deutschland Infarme
+Puhuja 1: Saksan liittotasavalta
+Puhuja 1: värikuvina. Se oli mielestäni mahtava matkaopas.
+Puhuja 2: Varmasti luit sen heti, kun sait sen käsiisi. Hei sä olit juuri työmatkalla
+Puhuja 2: Saksassa pureutumassa
+Puhuja 2: maan syvimpään luonteeseen ja kysymässä saksalaisilta, että mistä he voivat massan olla ylpeitä?
+Puhuja 2: Miten Saksa sun mielestä?
+Puhuja 3: Ehdit Pietilä tällä uudella
+Puhuja 3: parikymmentä vuotta myöhästyneellä lentokentälle?
+Puhuja 1: Nyt tällä kertaa? Niin. Joo, olin siellä ihan
+Puhuja 1: ensimmäistä kertaa.
+Puhuja 1: Itse asiassa kirjoitin Hesariin ensimmäisen uutisen
+Puhuja 1: sen lentokentän rakentamisesta
+Puhuja 1: ollessani Berliinin kirjeenvaihtaja
+Puhuja 1: vuonna tuhat yhdeksänsataayhdeksänkymmentäyhdeksän. Se oli tällainen yksi palstaninen uutinen, jossa sanottiin, että Berliiniin rakennetaan uusi suurlentokenttä,
+Puhuja 1: jonka määrä valmistuu vuonna kaksituhatta kuusi.
+Puhuja 1: Se oli surrealistinen
+Puhuja 1: kokemus. Lentokenttä itse asiassa toimi ja minulla oli koko ajan sellainen dream show olo. Entäs, jos nämä kaikki ihmiset ovat vain Saksan liittovaltion palkkaamia näyttelijöitä
+Puhuja 1: ja lentokenttä ei oikeasti ole toiminnassa ja istun lentokoneeseen
+Puhuja 1: ja sitten vaan mitään ei tapahdu.
+Puhuja 1: Mutta kyllä se lentokenttä, olen Suomessa ja olen, että lentokenttä toimii. Olen se ollut uskonto.
+Puhuja 2: Mahtavaa.
+Puhuja 2: Miten Saksa oli mielestäsi muuttunut tai millaisia havaintoja maan luonteesta
+Puhuja 2: teit viimeisimmän reissusi aikana tämän truman show Experiencen
+Puhuja 2: lisäksi?
+Puhuja 1: Truman
+Puhuja 1: show Experience
+Puhuja 1: oli sellainen
+Puhuja 1: sidekick.
+Puhuja 1: Pääasia oli tämä Saksan olemus.
+Puhuja 1: Ihan tietoisesti, siis valokuvaaja Jörzen kanssa, me reiisattiin
+Puhuja 1: Saksaa etelästä pohjoiseen,
+Puhuja 1: ajettiin
+Puhuja 1: yhteensä tuhat neljäsataa
+Puhuja 1: kilometriä
+Puhuja 1: ja joka paikassa kysyin ihmisiltä, että
+Puhuja 1: onko Saksa mielestäsi hyvä maa,
+Puhuja 1: että
+Puhuja 2: mistä olet Saksassa ylpeä. Onko tämä vaikea kysymys saksalaisille?
+Puhuja 1: Juuri sen takia kysyin tätä, koska tämä on perinteisesti
+Puhuja 1: ollut vähän herättää sellaista tiettyä
+Puhuja 1: nihkeyttää, että kun meillä on tää meidän historia ja ei me oikein voida olla ylpeitä omasta maasta. Tämä on se asia mikä Saksassa on näinä vuosikymmeninä
+Puhuja 1: minun mielestäni muuttunut.
+Puhuja 1: Saksalaisilla on
+Puhuja 1: luontevampi suhtautuminen omaan maahansa.
+Puhuja 1: Monet saksalaiset ovat valmiita tunnustamaan, että Berliini on tosi cool kaupunki
+Puhuja 1: ja maailmanlaajuinen
+Puhuja 1: tai ainakin Euroopan laajuinen magneettia ja me osataan tehdä monia asioita tosi hyvin.
+Puhuja 1: Joo meillä on tää meidän historia, joka on
+Puhuja 1: kauhea,
+Puhuja 1: mutta me ei saada unohtaa sitä. Meidän pitää päästä sen yli
+Puhuja 2: ja mennään eteenpäin ja meillä on monella tapaa hyvä maa. Tämän takia kyselin juuri näitä kysymyksiä
+Puhuja 2: hyvin monilta Saksaoilta.
+Puhuja 2: Varmaan olisi jossain ruohonjuuressa ostamassa kikherneitä
+Puhuja 2: eikä eduskuntatalon
+Puhuja 2: edessä osoittamassa mieltä, että
+Puhuja 2: kyse on siitä, että yksilön mahdollisuudet vaikuttaa melko rajalliset. Etenkin, jos yksilöltä odotetaan osallistumista vain rahankäytön muodossa.
+Puhuja 2: Kun
+Puhuja 2: se ilmastokriisin ratkaiseminen vaatii niin suuria rakenteellisia
+Puhuja 2: tekoja ja poliittisia päätöksiä, eikä ainoastaan sitä, että jos nyt jokainen meistä vähän pyöräilisi enemmän,
+Puhuja 2: niin kyllä kansalaisella pitää voida olla oikeus vaatia sitä, että jotain toimia tehdään. Esimerkiksi tutkija Janne Am Korhonen
+Puhuja 2: sanoo, että tiedeyhteisön relevantit
+Puhuja 2: asiantuntijat ovat lähestulkoon yksimielisesti aktivismin puolella ja pitävät sitä jopa tehokkaimpana keinona, mihin yksityisellä ihmisellä on
+Puhuja 2: mahdollisuus,
+Puhuja 2: koska mitä tapahtuisi, jos elokapina
+Puhuja 2: ei olisi kaduilla? Mitä tapahtuisi, jos kukaan ei osoittaisi mitään mieltä
+Puhuja 2: ilmastotoimien puolesta?
+Puhuja 2: Sehän vaikuttaisi vaan siltä, että
+Puhuja 2: kukaan ei sulje välitä tai että ei tämä ole mitenkään relevantti asia.
+Puhuja 2: Jos kukaan ei ottaisi mieltä niin tehtäiskö silti
+Puhuja 2: vaikuttavia
+Puhuja 2: ilmastopäätöksiä?
+Puhuja 4: Siis kuinka paljon siis jos unohdetaan nyt nämä elokapinan
+Puhuja 4: muutamat miekkarit ja se että säädänlo edessä oli mielenosoituksia veririihen
+Puhuja 4: aikana niin mä en usko että näillä nyt Suomessa viime vuosina nähdyllä mielenosoituksilla on sinänsä vaikutusta
+Puhuja 4: asiaan juurikaan. Ne on kyllä kieltämättä alkanut aika vastikään tavallaan. Mä oon jotenkin mä niin kuin se maailma mikä mä jotenkin ihmetytti.
+Puhuja 4: Ensinnäkin piti sanoa myös se että ilmeisesti ainakin Sebastian Tynkkynen tai perussuomalaisten
+Puhuja 4: kansanedustaja on sitä mieltä että häntä on tönitty
+Puhuja 4: siellä mikarissa en tiedä asiasta yhtään enempää mutta ainakin hän on tästä kovaa meteliä.
+Puhuja 4: Mutta
+Puhuja 4: jotenkin mitä se siis Elokapinan käsittääkseni nyt keskeinen vaatimus on että pitäisi julistaa tämmöinen ilmastohätätila.
+Puhuja 4: Mutta
+Puhuja 4: mitäs se nyt niin kuin eikö nyt joka
+Puhuja 4: joku
+Puhuja 4: jossain Turussa kai on ilmasto hätätilaa ja Helsingissä olisi julistamassa
+Puhuja 4: niin miten se muuttaa tätä tilannetta.
+Puhuja 4: Eduskunta voisi julistaa
+Puhuja 4: saman tien ilmasto hätätilanne, jatkaa
+Puhuja 4: toimintaansa ihan niin kuin ennenkin. Ei se itsessään tarkoita mitään. Ja kun
+Puhuja 4: puhut
+Puhuja 4: tutkijoista niin se on sitten
+Puhuja 4: jos...
+Puhuja 4: Mielenosoituksessa on vaikea vaatia yksittäisiä toimia maatalouden päästöjen vähentämiseksi koska se kuulostaa hyvältä
+Puhuja 4: siellä megafoodissa.
+Puhuja 4: Sen takia pitää olla tämmöinen
+Puhuja 4: slogan ilmastohätätila.
+Puhuja 4: En usko että et saa muuttaa asiaa yhtään mihinkään.
+Puhuja 2: Niin, en tiedä. Minun mielestä vaan lähdetään sellaisen viestin,
+Puhuja 2: että on ihmisiä, joiden mielestä tämä on tosi tärkeää. Ehkä vaan yleisesti yhteiskunnassa. Toki sitten on paljon puheenvuoroja, jotka pitävät
+Puhuja 2: elokapina jotenkin.
+Puhuja 2: Se on
+Puhuja 2: counter productive, mikä se on suomeksi.
+Puhuja 2: Tavallaan aiheuttaa hallaa ilmastoliikkeelle.
+Puhuja 2: Sellaistakin
+Puhuja 2: puhetta on, että tavallaan
+Puhuja 2: suurin osa ihmisistä on sitä mieltä, että ilmastokriisi
+Puhuja 2: kannattaisi ratkaista ja
+Puhuja 2: ilmastotoimia kannattaisi
+Puhuja 2: tehdä. Tavallaan elokapina tietyllä tavalla,
+Puhuja 2: koska se jostain syystä ärsyttää joitakin ihmisiä.
+Puhuja 3: Just
+Puhuja 3: se, että kenestä se kertoo ja mitä, jos se on counter productive.
+Puhuja 3: Se mua kiinnostaa.
+Puhuja 2: Niin, niin, nimenomaan.
+Puhuja 2: Mun mielestä se vaan tuntuu sellaiselta, että ylipäätänsä
+Puhuja 2: keskitytään niin paljon siihen,
+Puhuja 2: mikä se elokapina on ja mikä sen laillisuus on ja kaikki tämä, niin se on tavallaan
+Puhuja 2: sellaista sivuhöttöä siinä, mikä se itse pihvi on. Ehkä ne elokapinan
+Puhuja 2: vaatimukset
+Puhuja 2: vaatii myös, että Suomen pitäisi olla hiilineutraali vuonna kaksituhatta kaksikymmentäviisi
+Puhuja 2: neljän vuoden päästä. Sehän ei ole mitenkään mahdollista.
+Puhuja 2: Mutta toisaalta
+Puhuja 2: en tiedä vaikuttaako se, että miten se on jo sitouduttu siihen, että Suomen pitäisi olla hiilineutraali kaksituhatta kolmekymmentäviisi.
+Puhuja 2: Toimet siihen
+Puhuja 2: eivät ole
+Puhuja 2: vielä osviittaa siitä, että näin tulisi todella tapahtumaan.
+Puhuja 4: Eikös meille hallitus olisi luvannut näin?
+Puhuja 4: Siis lupaa lupaa, mutta mitä ne konkreettiset toimet on? Onhan niitä nyt tehty Anna ja ne päästöt laskeneet dramaattisesti
+Puhuja 4: viimeisen vuoden aikana. On, mutta laskeeko ne tarpeeksi? No näin meille on
+Puhuja 4: luvattu.
+Puhuja 2: Jyrki
+Puhuja 4: Lehto tänään kun nämä nyt valtaa olla lukevat Lehtolan tämän päivän kolumnin viimeistä lausetta. Anna mennä. Oli hyvä. Lehtola
+Puhuja 4: siellä pilkkasi sekä nuoria että ennen kaikkea meitä keski-ikäisiä
+Puhuja 4: Mutta
+Puhuja 4: tota ja sitä että maataan siellä sohvalla ja ollaan kiihtyneitä kun pitää kiertää sieltä
+Puhuja 4: kaksi korttelia manskulla että pääsee miekkarin ohi. Ja hidastaahan se kieltämättä viisisataa metriä lisämatkaa.
+Puhuja 4: Odotas tässä näin. Kaikki hyvin valtakunnassa. Nuoret viettävät terveellistä ulkoilmaelämää
+Puhuja 4: osallistumalla kasvuprosessinsa
+Puhuja 4: yhteiskunnalliseen
+Puhuja 4: vaiheeseen.
+Puhuja 4: Aikuiset istuvat sisälle ja osallistuvat rappeutumisprosessinsa
+Puhuja 4: yhteiskunnalliseen
+Puhuja 4: vaiheeseen.
+Puhuja 2: Nimenomaan.
+Puhuja 2: Jyrki Lehtolan viestihän on se, että ei mitään uutta
+Puhuja 4: auringon alla. Ei tässäkään.
+Puhuja 2: Aina
+Puhuja 2: vaan poliisilta puuttuu kolmekymmentäviisi miljoonaa. Aina vaan nuoret on kadulla.
+Puhuja 4: Vaikea sanoa, että kansalaiset kansalaistuttamattomuus olisi
+Puhuja 4: huono jutska.
+Puhuja 2: Niin.
+Puhuja 2: Siis Time is a flat circle, niin kuin trude tehektiivissä sanotaan.
+Puhuja 2: Ei me varmaan nyt tässä päästy mihinkään
+Puhuja 2: muuhun tulokseen kuin siihen, että
+Puhuja 2: ihmisyyttä tämä kaikki tyyni ja politiikka. Ehkä
+Puhuja 3: sitten
+Puhuja 3: median puheista vielä ja nyt se, että se tiellä istuminen olisi
+Puhuja 3: kansalaistottelemattomuuden
+Puhuja 3: äärikeino.
+Puhuja 3: Eihän se ole. Ei se ole. Ei se ole. Mä olen nähnyt. Se on
+Puhuja 2: mun mielestä väärä sanonta. Just tähän Jyrki Lehtoloki mun mielestä tuossa kolumnissa viittaa.
+Puhuja 2: Kun on näitä, jotka sanoo
+Puhuja 2: elokapina terroristeiksi,
+Puhuja 2: äärijärjestöksi
+Puhuja 2: ja yhteiskuntarauhaa
+Puhuja 2: uhkaavaksi liikkeenksi sille anteeksi, olen nähnyt enemmän yhteiskuntarauhaa uhkaavaa toimintaa, jossa on kouvolalaisen karaokebaarin lattialiin ja varmaan minä olen ollut se suurin yhteiskuntarauhan uhkaava siellä.
+Puhuja 2: Mä en sinänsä pitäisi tätä mitenkään sellaisena.
+Puhuja 4: Niin Lehto jotenkin vielä sanoi kun tämä oli vielä tämmöinen syysmiekkari että tässä on tullut
+Puhuja 4: jotain tämmöinen syysmiekkari. Tässä on tullut jotain rapujuhlan kaltainen, niin kuin vuosittain toistuvaa
+Puhuja 4: happening.
+Puhuja 2: Mutta sitten mä mietin vaan, että kun jotkut syyttää juuri tätä, että elokapinalaiset
+Puhuja 2: siellä vaan syövät pizzaa ja lyö rumpua ja pitää hauskaa ja on siellä vähän silleen niin kauan kuin on fiilistä.
+Puhuja 2: Miksi kaiken pitää aina olla jotenkin? Kyllähän toi nimenomaan kuuluu mun mielestä sosiaaliseen...
+Puhuja 2: Elokapina on tietyn
+Puhuja 2: osan tyyppejä. Sellainen sosiaalinen viitekehys ja yhteinen projekti, johon ne voivat osallistua. Miksei se voisi olla myös hauskaa? Pitääkö
+Puhuja 2: tuolla ripotella tuhkaa päällensä.
+Puhuja 2: Sallit ne pizzat sinne.
+Puhuja 2: Joo,
+Puhuja 2: siis niukin naukin. Tää on kyllä jotenkin aika iloton
+Puhuja 3: kuva kansalaisyhteiskunnasta,
+Puhuja 3: jos siellä saa käyttää vaatteita.
+Puhuja 2: Tämäkin oli tämä kommentti. Joku argumentti
+Puhuja 2: että elokapinalaiset, kun niillä on vaatteet päällä, että miten he kehtaavat osallistua tällaiseen kulutustoimintaan.
+Puhuja 2: Täytyy sanoa, että minun mielestäni jotenkin hirveän väsynyttä.
+Puhuja 2: Hirveän väsynyttä tämä kaikki. Ei mitään uutta auringon alla. Hei,
+Puhuja 2: olisiko teillä mitään suositeltavaa
+Puhuja 2: tähän
+Puhuja 2: tämän lähetyksen
+Puhuja 2: päätteeksi, mistä voitaisiin jutella
+Puhuja 2: silloin kun ei olla elokapinan
+Puhuja 4: mielenosoittuksessa. Mä voin aloittaa. Mä puhuin
+Puhuja 4: olikohan se viikko sitten. Mulla on jotenkin ajantaju on täysin seka siellä. Puhuin
+Puhuja 4: sitä
+Puhuja 4: olin HJK ja IFK Fuismatsissa
+Puhuja 4: stadin dedyssä.
+Puhuja 4: Sitten kerroin viikko sitten että ihmettelin
+Puhuja 4: sitä koska siellä Ifkin päädyssä oli valtavasti faneja ja niillä oli sairaan hyvä meininki ja ne pomppi yhdeksänkymmentä minuuttia ylös alas ja sitten se HJK:n pääty oli vähän
+Puhuja 4: vaisumpi
+Puhuja 4: ja sitten viikko sitten pohdin että mistä se
+Puhuja 4: tavallaan johtuu, että mistä ne löytyy ne Ifki u fanit koska IFK on kuitenkin futiksessa
+Puhuja 4: tosi marginaalinen seura. Niille ei ole junioryötä toisin kuin HJK:lla joka on Suomen suurin
+Puhuja 4: jalkapalloseura ja joka toinen helsinkiläinen varmaan jollain tavalla kytköksissä HJK:hon.
+Puhuja 4: Ja sain siihen paljon vastauksia, todella fiksuja vastauksia ja myös Ifkin kannattajilta ja
+Puhuja 4: ainakin
+Puhuja 4: nämä kaikki vastauksia lähettäneet ovat suuria tämän podcastin ystäviä, terveisiä vaan.
+Puhuja 4: Ainakin yksinäistä toivat että en mainitse hänen nimeään joten en mainitse mutta siinä oli todella kiinnostavia perusteluita.
+Puhuja 4: Toinen yksi näistä vastaajista sanoi että hänellä se tavallaan
+Puhuja 4: että IFK on kuitenkin niin kuin iso seuraus katsoo kaikki lajit. Lätkä totta kai mutta myös jääpallo. Hän sanoi että hän itse
+Puhuja 4: tykkää jääpallosta.
+Puhuja 2: Mitä on jääpallo edessä?
+Puhuja 4: Hän oli käynyt muutettua
+Puhuja 4: Helsinkiin ja käydään
+Puhuja 4: jääpallomatseissa
+Puhuja 4: ja siellä tapasi näitä if-faneja jotka kannattaa ifkiä kaikissa lajeissa ja sitä kautta hän päätyi Fudiksen pariin ja sitten hän löysi IFK:n.
+Puhuja 4: Toinen ehkä tämmöinen yleisempi
+Puhuja 4: tai
+Puhuja 4: ehkä iso argumentti on se että HJK
+Puhuja 4: Fanit kun HJK on myös käsittämättömän
+Puhuja 4: iso seura Suomen menestyneen seura
+Puhuja 4: ja jos HJK ei voitaisi Suomen mestaruutta fudiksessa, niin sitten ne ovat epäonnistuneet.
+Puhuja 4: Lähtöoletus
+Puhuja 4: on se,
+Puhuja 4: että HJK pärjää ja jos se joskus ei pärjää, niin sitten fanit kaikkoa. Ja sitten fanit
+Puhuja 4: tavallaan eivät jaksa käydä Veikkausliigan
+Puhuja 4: peleissä ne käyvät katsomassa jotain HJK:n euro pelejä että se HJK
+Puhuja 4: on liian iso ja nämä IFK-fanit sanoo vähän muovinen että siinä ei ole semmoista tarttumapintaa. Toisin kuin IFK
+Puhuja 4: jolla menee niin kuin on välillä tippunut kolmoisdivariin
+Puhuja 4: ja nämä samat tyypit ovat olleet siellä
+Puhuja 4: myöten
+Puhuja 4: vastoinkäymisissä ja kun IFK:llä on enemmän vastoinkäymisiä niin se on kasvattanut
+Puhuja 4: sen
+Puhuja 4: tavallaan fanikunnan.
+Puhuja 4: Siitä on tullut todella uskollista että niillä on...
+Puhuja 4: Niillä ei ole lähtöoletuksena
+Puhuja 4: se, että seura menestyy ja ne kestää sen että sinne tulee kaiken maailman kiinalaisia bisnesmiehiä ja muuta.
+Puhuja 4: Ja sitten ilmeisesti sillä IFK:n
+Puhuja 4: seuralla
+Puhuja 4: ja pelaajilla ja faneilla on sitten koska se on kuitenkin fudiksessa niin pienseura niin se yhteys on tosi
+Puhuja 4: hyvä se yhteys.
+Puhuja 4: Ne fanit tuntee pelaajat ja pelaajat tuntee fanit ja siinä on semmoinen
+Puhuja 4: jotenkin pienen seuran glamouri.
+Puhuja 2: Ja kaikki rakasta altavastaajaa.
+Puhuja 4: Joo ja siinä on varmaan myös se, koska ne on
+Puhuja 4: tosi paljon ja koko se toinen päätyivät täynnä siellä voltaa-areenalla
+Puhuja 4: ja ne hyppivät ylös alas ja niin oli hyvä meininki ja savupommia ja muuta niin kai niillä on hauskaa
+Puhuja 2: siellä.
+Puhuja 2: Nimenomaan, toi just, että voi olla kivaa. Samalla tavalla niillä elokapinalaisille
+Puhuja 2: on kivaa, kun ne tekee tuolla yhdessä jotain
+Puhuja 2: yhteisen asian puolesta ja sitten on vain kaardevalitunnunnelma.
+Puhuja 2: En näe, miten se eroaa yhtään jostain tuollaista urheilua. Elikkä sä rinnastat Ifki fanit ja Elokapina.
+Puhuja 4: Luulit, että mä luulen olevani, että sä saat palautetta.
+Puhuja 2: Ei, mä sanon vaan, että kysehän on molemmissa mun mielestä
+Puhuja 2: sellaisesta yhteisöllisyydestä,
+Puhuja 2: karnevalismista
+Puhuja 2: ja
+Puhuja 2: no ehkä iloittelusta ei nyt ehkä elokapinassa kyse. Joo, en minä täysin ole Riinastani alle. Kiitos palautteesta. Erittäin fiksuja ja hyviä palautteita.
+Puhuja 4: Mikä se suositus oli?
+Puhuja 4: Suosittelen
+Puhuja 4: menemään Ifkin fanikatsovaan.
+Puhuja 2: Kuulostaa aivan ihanalta.
+Puhuja 2: Olen ollut vain kerran tyyliin katsomassa jääkiekkoa. Kävin katsomassa yhden
+Puhuja 2: tuota. Joo ei, mutta katson tästä fanikulttuurista vaan ja siitä kun puhun. Tallinnassa
+Puhuja 2: kävin katsomassa
+Puhuja 2: KHL:n peli, missä jokerit pelasi jotain latvialaisjoukkuetta
+Puhuja 2: vastaan. Mulle tuli hirveän paha mieli, kun se oli jokereiden
+Puhuja 2: kotipeli.
+Puhuja 2: Sehän tarkoittaa sitä,
+Puhuja 2: että be default
+Puhuja 2: areena
+Puhuja 2: ja muu on vähän niinkuin jokereiden puolella. Mä en tiennyt, että tällainen rakenne on siellä niiden pelien sisällä. Ja sitten kun menin sinne katsomaan
+Puhuja 2: ja siellä aluksi suitsutetaan.
+Puhuja 2: Siellä soitetaan jokereiden biisejä.
+Puhuja 2: Sitten kutsutaan ne jokerit
+Puhuja 2: sisään. Siellä
+Puhuja 2: pyrotekniikka leimahtaa.
+Puhuja 2: Jokereiden luistelijat yksitellen sinne tulee. Musa soi. Kaikki on silleen wow wam, bam bam bam bam ja näin ja jokereiden fanit huutaa.
+Puhuja 2: Sitten tulee se latviajoukkue.
+Puhuja 2: Ei pyrotoekniikkaa,
+Puhuja 2: ei
+Puhuja 2: musaa, ei mitään bä bä bä boa, vaan silleen, että no niin, nyt nämä luistelijat tänne kentälle. Mä olin, että Jumala, tämähän on alusta asti vaan manipuloitu jotenkin näin, että tämän jokereiden pitäisi nyt pärjätä. Ihan periaatteesta
+Puhuja 2: mä kannatin latvian joukkuetta siinä pelissä.
+Puhuja 4: En muuten ole yksi asia vielä. Olin itse asiassa eilen Tallinnassa sun entisessä kotikaupunmessa.
+Puhuja 4: Ai niinkö? Millaista siellä oli? Oli ihan sairaan siistiä. Tämä oli aika kerta, kun me poistui Suomen rajojen ulkopuolelle puolentoista vuotta. Ihanaa. Mä olin silleen ihan että vau.
+Puhuja 4: Mahtava kuulla. Tallinnaan kyllä siellä oli mutta en ole siellä
+Puhuja 2: ennen korona-aikaan mun useampaa vuoteen käynyt mutta siellä on kyllä tosi makeaa siellä Tallinan keskustassa. On, se on kehittynyt paljon ja siellä on hyvä boogi. Kyllä mä voisinkin tässä vaikka suositella, että
+Puhuja 2: käykää Tallinnassa.
+Puhuja 2: Siellä on ensinnäkin Tallinnassahan on tosi hyviä ravintoloita.
+Puhuja 2: Kannattaa käydä syömässä.
+Puhuja 2: Jos joku haluaa jonkun hyvän ravintolasuosituksen,
+Puhuja 2: niin laittakaa mulle vaikka DM:n
+Puhuja 2: :ää
+Puhuja 2: Twitterissä, voin suositella jotakin mun suosikkeja. Pelkään, että jos
+Puhuja 2: suoraan suosittelen jotain mun lempiravintola, niin se räjähtäisi ihan
+Puhuja 3: pieneen syömään ollenkaan, kun jonnekin unohduta aina sinne.
+Puhuja 3: Nimenomaan.
+Puhuja 2: Käykää Tallinnassa
+Puhuja 2: kävelemässä ympäriinsä ja käykää tutustumassa
+Puhuja 2: johonkin muuhunkin kuin vanhaan kaupunkiin.
+Puhuja 2: Telliskivi,
+Puhuja 2: Koplii...
+Puhuja 2: Siistejä paikkoja löytyy.
+Puhuja 2: Nyt
+Puhuja 2: kun saa mennä taas.
+Puhuja 3: Mullakin on suositus vähän niin kuin liikunta-aiheisesti.
+Puhuja 3: Mulla osuu
+Puhuja 3: katse tällaiseen uutisotsikoon,
+Puhuja 3: missä Vierromelainen
+Puhuja 3: Mikko oli juossut
+Puhuja 3: lukion Cooper-testissä
+Puhuja 3: loistavan tuloksen.
+Puhuja 3: Satuitteko lukemaan tai jutun? Kaikki valtakunnalliset mediat käytännössä uutisoit.
+Puhuja 3: Kaksituhatta
+Puhuja 3: kahdeksansataa... Ei kun anteeksi kolmetuhatta
+Puhuja 3: kahdeksansataakolmekymmentä,
+Puhuja 3: mikä on
+Puhuja 3: siis aivan mieletön tulos, koska
+Puhuja 3: kanssaviermalainen
+Puhuja 3: Iivo Niskanen, Olympia
+Puhuja 3: Sankarimme,
+Puhuja 3: on aikoinaan juossut
+Puhuja 3: samassa
+Puhuja 3: iässä muutaman sadan metrin vähemmän.
+Puhuja 3: Joka siis kertoo siitä, että
+Puhuja 3: tällä meidän Mikolla on varmasti
+Puhuja 3: paljon lahjoja kestävyysjuoksussa.
+Puhuja 3: Aihe herätti
+Puhuja 3: intoa, että onko tässä seuraava suomalainen kansallismyytti, jos tämä savolainen Mikko
+Puhuja 3: juoksee
+Puhuja 3: Suomen takaisin maailmankartalle tai osoittaa
+Puhuja 3: suomalaista
+Puhuja 3: sisua ja
+Puhuja 3: poikkeuksellisuutta
+Puhuja 3: maatilanpoikana, joka
+Puhuja 3: juoksee
+Puhuja 3: kaikkia muita ylivertaisesti paremmin.
+Puhuja 3: Suositukseni
+Puhuja 3: on
+Puhuja 3: Cooper-testeestä
+Puhuja 3: puhuminen tai Coopert-t-testit
+Puhuja 3: keskustelun aiheena, koska kun puhuttiin
+Puhuja 3: tätä uutista jossain viestintä
+Puhuja 3: Ja se on
+Puhuja 3: tämmöinen en tiedä, minkä mittari se on. Ehkä kestävyyden ehkä
+Puhuja 3: jonkun muun.
+Puhuja 3: Mutta se kiinnostaa ihmisiä ja se kertoi ihmisistä myös paljon, että miten kehystää oman tuloksensa, paljonko on juossut. Ja kaikilla on varmasti joko tosi hyvä tulos. En tiedä, onko tämä sukupuolittunut lainkaan. Oletko juossut? Joo, lukiossa joskus. Oli ihan ok tulos. En ollut luokan paras, en ollut huonoin. Olin siinä
+Puhuja 2: keskivaiheelta vähän ylemmäs. En kuollaksenikaan muista, mikä se kilometrimäärä oli, mutta
+Puhuja 2: olin silleen,
+Puhuja 2: että
+Puhuja 2: että
+Puhuja 3: kannattaa.
+Puhuja 2: Mutta kannattaako lähteä nyt juoksemaan sitä Cooperia?
+Puhuja 3: Mä haluan vähän miettiä, että
+Puhuja 3: kun just joku kaveri meidän viestiryhmässä sanoi, että olin juossut paremmin kuin minä, olin juossut joskus nuorena, niin ajattelin,
+Puhuja 3: että kuinka paljon valmistautumista se vaatisi, että juokseisi vielä vähän paremmin kuin hän.
+Puhuja 3: Niin, en
+Puhuja 3: tiedä mistä
+Puhuja 3: tarve todistaa
+Puhuja 3: juoksukestävyys tuli. Mutta johonkin
+Puhuja 3: oman tärkeyden tuntoosi kyllä se osui selkeästi.
+Puhuja 2: Seuraavaksi aletaan Tinderissä
+Puhuja 2: pituuden
+Puhuja 2: lisäksi ilmoittaa Cooperin näkökulmasta. Ehdottomasti,
+Puhuja 3: kyllä.
+Puhuja 2: Hei, suuret kiitokset tästä lähetyksestä
+Puhuja 2: Joaki Messrendol.
+Puhuja 2: Kiitos. Kiitos Marko Junkkari. Kiitos. Kiitokset vielä Heikki Aittokoskelle,
+Puhuja 2: joka aloitti tämän lähetyksen saksa Spesiaalilla.
+Puhuja 2: Äänen, kuvan ja kaiken muun ihanan meille tänään tekee Janne Elkki.
+Puhuja 2: Laittakaa meille jotain hauskaa ja kivaa palautetta:
+Puhuja 2: uutisraportti Ifkin fanit älkää please lynkatko muotuon Elokapinan vertauksen takia. Se oli ihan puhdasta läpänheittoa.
+Puhuja 2: Tuomas Peltomäki, tule pian takaisin.
+Puhuja 2: Mä
+Puhuja 2: en kestä enää.
+Puhuja 2: Ei muuta kuin oikein ihanaa viikonloppua kaikille ensi viikkoon.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

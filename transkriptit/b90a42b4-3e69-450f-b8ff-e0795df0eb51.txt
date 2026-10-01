@@ -1,165 +1,398 @@
-Puhuja 0: Hei ja tervetuloa uutisraportti-podcastiin
-Puhuja 0: torstaina kymmenen. Heinäkuuta kaksituhatta
-Puhuja 0: kaksikymmentäviisi keskelle varsin rauhallista uutiskesää.
-Puhuja 0: Minun nimeni on Rasmus Alaniemi ja mukanani täällä Sannatalon seiskakerroksen
-Puhuja 0: hienossa ja tilavassa studiossa
-Puhuja 0: kauniin aurinkoisen sään ulottumattomissa
-Puhuja 0: ovat huippukesäimin
-Puhuja 0: huipputoimittajat.
-Puhuja 0: Nimittäin ulkomaantoimittaja Johnnne Helin. Mitä maailmalle kuuluu?
-Puhuja 1: Eihän sillä hirveän hyvää koskaan kuulu. Mutta
-Puhuja 1: kesällä nyt vähän enemmän
-Puhuja 1: isoja yksittäisiä uutisia edelleen. Selbiaa en ole tällä viikolla joutunut miettimään. Mitä olet joutunut miettimään? Yhdysvaltoja ja Ukrainaa? Yhdysvaltoja ja Ukrainaa, sekä tietty kaakaaa.
-Puhuja 0: Miten talouden ja politiikan tarvetta? Hanna-Avusta, mitä taloudessaan tällä viikolla mieti?
-Puhuja 2: Tällä viikolla on mietitty,
-Puhuja 2: että milloin Trump toisi meille mahdolliset EU-tullinsa,
-Puhuja 2: että saisin tietää niistä vähän lisää.
-Puhuja 2: Mulle sanottiin, että
-Puhuja 2: on oudon kuivan kuuloista, kun kerroin eilen tiimipalaverissa,
-Puhuja 2: että kirjoitin päiväkirjaan,
-Puhuja 2: että
-Puhuja 2: huomenna ehkä pääsee tekemään Trumpin tulliuutisia, niin mulle sanottiin, että onko sulla tylsän kuuloinen
-Puhuja 2: päiväkirja.
-Puhuja 2: Kyllä.
-Puhuja 2: Tätä kuuluu. Some
-Puhuja 0: Audiotiimintoimittaja
-Puhuja 0: Helmi Sundström? Mitä audiota kuuluu Pan Intended?
-Puhuja 3: Audiota kuuluu toivottavasti. Podcast on minunkin korvissa kohta kumpaan meidän.
-Puhuja 0: Tänään puhutaan Yhdysvaltain pokkoilevasta
-Puhuja 0: hallinnosta.
-Puhuja 0: Maan presidentti Donald Trump ja puolustusministeri
-Puhuja 0: Peter Hegzet vaikuttavat nykimen samaa käyttö aivan eri suuntiin muun muassa Ukrainan tukemisen suhteen, eikä kukaan oikein pysty tulkitsemaan, mitä maan johto todella tahtoo tehdä.
-Puhuja 0: Samalla aiemmin miljardööri Elon Muskin kanssa kaveerannut Trump onkin ajautunut nyt Muskin kanssa niin pahan välirikkoon,
-Puhuja 0: että Musk haastaa Trump uudella omalla puolueellaan.
-Puhuja 0: Mistä on kyse? Puhutaan siitä.
-Puhuja 0: Toiseksi puhumme kuolemasta,
-Puhuja 0: sen hinnasta ja siitä, kuinka jos kuolet varattomana, ei läheisilläsi ole välttämättä varaa edes halalt. Myös tämä eläinten käytös.
-Puhuja 1: Eli osittain se, miltä ne näyttää, kuten vaikkapa Pekari. Nyt
-Puhuja 1: näyttää sieltä. Se on myös sorkkaeläin
-Puhuja 1: tai pyörien, joka on melko sikamainen olento.
-Puhuja 1: Sehän nyt tietty
-Puhuja 1: merkitsee
-Puhuja 1: sitä,
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 3: Hei ja tervetuloa
+Puhuja 3: uutisraportti-podcastiin
+Puhuja 3: torstaina kymmenen. Heinäkuuta
+Puhuja 3: kaksituhatta
+Puhuja 3: kaksikymmentäviisi keskelle varsin rauhallista uutiskesää.
+Puhuja 3: Nimeni on Rasmus Alaniemi ja mukanani täällä Sanomatalon seiskakerroksen
+Puhuja 3: hienossa ja tilavassa studiossa kauniin aurinkoisen sään ulottumattomissa
+Puhuja 3: ovat huippukesämin
+Puhuja 3: huipputoimittajat.
+Puhuja 3: Nimittäin
+Puhuja 3: ulkomaantoimittaja Johnn Helin, mitä maailmalle kuuluu? Eihän
+Puhuja 1: sillä
+Puhuja 1: hirveän hyvää koskaan kuulu.
+Puhuja 1: Mutta
+Puhuja 1: kesällä nyt vähän enemmän sellaisia isoja yksittäisiä uutisia edelleen. Serbiaa en ole tällä viikolla joutunut miettimään. Mitä olet joutunut miettimään, Yhdysvaltoja ja Ukrainaa? Yhdysvaltoja ja Ukrainaa, sekä tietty
+Puhuja 1: kaakaaa jonkin verran.
+Puhuja 3: Miten talouden ja politiikan toimittajat Hanna-Avusta, mitä taloudessa on tällä viikolla mietitty? Tällä viikolla on mietitty, että milloin Trump
+Puhuja 4: toisi meille mahdolliset EU-tullinsa,
+Puhuja 4: että saisimme tietää niistä vähän lisää.
+Puhuja 4: Mulle sanottiin,
+Puhuja 4: että on oudon kuivan kuuloista, kun kerroin eilen tiimipalaverissa,
+Puhuja 4: että kirjoitin päiväkirjaan,
+Puhuja 4: että
+Puhuja 4: huomenna ehkä pääsee tekemään
+Puhuja 4: rampin tulliuutisia,
+Puhuja 4: niin mulle sanottiin, että onpa sulla tylsän kuuloinen päiväkirja.
+Puhuja 4: Mutta tätä kuuluu.
+Puhuja 3: Kyllä. Miten some Audiotiimintoimittaja
+Puhuja 3: Helmi Sundström? Mitä audiota kuuluu, Pan Intended?
+Puhuja 2: Audiota kuuluu toivottavasti
+Puhuja 2: podcast jonkun muunkin korvissa kohta kumpaan meidän.
+Puhuja 3: Tänään puhutaan Yhdysvaltain
+Puhuja 3: poukkoilevasta
+Puhuja 3: hallinnosta.
+Puhuja 3: Maan presidentti Donald Trump ja puolustusministeri
+Puhuja 3: Peter Hegzet vaikuttavat nykimen samaa käyttö aivan eri suuntiin muun muassa Ukrainan tukemisen suhteen, eikä kukaan oikein pysty tulkitsemaan, mitä maan johto todella tahtoo tehdä.
+Puhuja 3: Samalla aiemmin miljardööri Elon Muskin kanssa kaveranut Trump onkin ajautunut nyt Muskin kanssa niin pahan välirikkoon,
+Puhuja 3: että Musk haastaa Trump uudella omalla puolueellaan.
+Puhuja 3: Mistä on kyse? Puhutaan siitä.
+Puhuja 3: Toiseksi puhumme kuolemasta,
+Puhuja 3: sen hinnasta ja siitä, kuinka, jos kuolet varattomana, ei läheisilläsi ole välttämättä varaa edes hautakiveen saati muistolaattaa.
+Puhuja 3: Kevyt kesäinen aihe, joten puhutaan siitä.
+Puhuja 3: Kolmanneksi puhumme siitä, miten possut ovat vallanneet Helsingin Sanomien sivut. Kuukausiliitteen pitkän Paavo possusta kertovan jutun lisäksi viikon eläinpalstalla
+Puhuja 3: käsitellyt erilaiset possut ja muut jotkeleet ovat herättäneet ihastunut
+Puhuja 3: keskustelua. Onko mäyrä oikeasti metsäsika vai ei? Ihanko piikkisika oikeasti jyrsijä?
+Puhuja 3: Puhutaan siitä, kuoleman vastapainoksi hän rauhallisen uutikesän ratoksi.
+Puhuja 3: Lopuksi tuttuun tapaan keskustelun aiheita pitkien epämukavien hiljaisuuden varalle. Vielä tähän väliin erikseen kiitos mainita tarkkaamassa tätäkin lähetystä audion ja kuvan muodossa hoitavalle tekniselle nerolle, Jonne-Piltoselle,
+Puhuja 3: joka jäi minulta viime jaksossa tyystin mainitsematta.
+Puhuja 3: Kiitos ja anteeksi Jonne.
+Puhuja 3: Ukrainan ja Yhdysvaltojen välisissä suhteissa nähtiin heinäkuun alussa jälleen äkkinäisiä käänteitä, kun Yhdysvallat keskeytti jälleen Ukrainan annettavan aseavun, mutta sitten lupailikin saman tien Ukrainalle lisää puolustuksellista aseistusta.
+Puhuja 3: Mediatietojen mukaan
+Puhuja 3: keskeytykseen oli määrännyt puolustusministeri Pet Hegessäh,
+Puhuja 3: mutta presidentti
+Puhuja 3: Donald Trump ei olisi ollut tietoinen edes koko asiasta.
+Puhuja 3: Trump oli puhunut Ukrainan presidentti Volody Mir Zelenskyin kanssa samoihin aikoihin ja luvannut samoihin aikoihin maalle lisää aseita.
+Puhuja 3: Heggets on siis sama mies, joka aiheutti keväällä kohoa lisäämällä diat läntiklehden päätoimittajan salaisen viestiryhmään, jossa sovittiin ja koordinoitiin ilmaiskuja ja meni.
+Puhuja 3: Muutenkaan Trumpin hallinto ei vaikuta kovin koordinoidilta. Maalla ei tällä hetkellä ole kovin toimintakykyisten kansallisen turvallisuuden neuvostoa.
+Puhuja 3: Esim. The New York Timesin mukaan maan ulkoministeri Marko Rubio ja Venetsuollan suurlähettiläs Richard Greenel kävivät alkuvuodesta
+Puhuja 3: täysin erillisiä neuvotteluja saman venetuolaisedustajan
+Puhuja 3: kanssa kaiketi toisistaan tietämättä.
+Puhuja 3: Miljareri Elon Maxtaa sekoittaa sisäpolitiikkaa perustettuaan uuden Amerikkapuolueen eli Amerikkapartin.
+Puhuja 3: Lisäksi
+Puhuja 3: paljoa ei kuitenkaan puolueista tiedetä ja ennusmerkit puolueelle ovat kehnot.
+Puhuja 3: Turun yliopiston Yhdysvaltoihin perehtynyt tutkija Oscar Bimberg sekä poliittisen historian professori Vesa Vares dumasivat hesarjutusta puolueen melko lailla
+Puhuja 3: kuolleeksi jo syntyä sikojutusta häiritsee erilaisia harhaanjohtavia sikoja.
+Puhuja 3: Niitä ovat piikkisika,
+Puhuja 3: joka on siis oikeasti jyrsijä.
+Puhuja 3: Maasika, joka ei myöskään ole sika, vaan oikeastaan termiittikaivja.
+Puhuja 3: Sekä vesisika, joka on oikeasti myös jyrsijä. Oikeastaan maailman suurin jyrsijä. Tuttavallisemmin vesisika on siis kapubara.
+Puhuja 3: Niin kuin mainitsin, maasika ja vesisika löytyvät jo, mutta näistä tunnetuista elementeistä puuttuu vielä tulisko ja ilmasika.
+Puhuja 3: Mikä on sun lempparisika?
+Puhuja 2: Mulla tulee liikaa vitsejä mieleen. Ehdotta mä nautin tästä artikkelista yleisesti vaan todella paljon.
+Puhuja 2: Artikkelista yleisesti vaan
+Puhuja 2: todella paljon.
+Puhuja 2: Henkilökohtaisesti
+Puhuja 2: tässä oli linkattu WWF:n
+Puhuja 2: metsäkamera, missä voi seurata
+Puhuja 2: Ja mähän katsoin
+Puhuja 2: mäyräkameraa koko tämän aamun. Tai itseasiassa ennenkään edes vaan katsonut, vaan kuuntelin sitä, kun lensin
+Puhuja 2: aina lentokoneita yli täältä livestriimistä kuului. Se oli koko aamun päällä. Toivon, että olisin nähnyt mäyrän. En nähnyt, mutta onneksi olivat tehneet hyvän
+Puhuja 2: kokoelmavideon
+Puhuja 2: niin sai sitten vilkaista mäyränkin siitä. Tämä
+Puhuja 2: artikkeli tuotti minulle paljon onnea.
+Puhuja 2: Ehdottomasti suosittelen lukemaan
+Puhuja 2: kaiken tämän kuoleman ja muun varjolla.
+Puhuja 2: Lukekaa vähän sikauutisista.
+Puhuja 4: Olin äärimmäisen onnellinen, kun pääsen lukemaan tätä
+Puhuja 4: kaikesta kuolemasta
+Puhuja 4: seuraavaksi.
+Puhuja 4: Siis kun juttu alkaa sanomalla:
+Puhuja 4: Metsäs asuu mäyrä, niin voiko se olla mitään muuta kuin hyvä? Minusta ei. Se oli ihana. Ja sitten en voi sille mitään
+Puhuja 4: kaikille kaltaisillei TikTok-faneille,
+Puhuja 4: niin kapibaarastahan
+Puhuja 4: on tehty tiktok-laulina.
+Puhuja 4: Mulla on soinut se koko ajan päässäni.
+Puhuja 4: Ja
+Puhuja 4: Teemu,
+Puhuja 4: mahtava suuri halpakauppajätti
+Puhuja 4: netissä. Se on täynnä kaikkia kapibara-fanituotteita.
+Puhuja 4: Niistähän tuli jo juttu. Kaikille tiedoksi se. Esimerkiksi
+Puhuja 4: tällainen karvainen kapibara reppu oli siellä.
+Puhuja 4: Mun on pakko mainita myös tässä... Ottiko kaupallista yhteistyötä vai? Ei
+Puhuja 1: kaupallisessa. Se on Hannan Temun kauppa sitten. Ei kaupallisessa yhteistyössä
+Puhuja 4: Temun kanssa.
+Puhuja 4: Mutta
+Puhuja 4: vähän kuitenkin mainostamme.
+Puhuja 4: Pakko mainita kuitenkin tämä, koska
+Puhuja 4: tässä
+Puhuja 4: on saanut Jonilta luvan tämän asian jakamiseen.
+Puhuja 4: Jutussa mainittiin, että
+Puhuja 4: just kapibara on tynnyrimäisen
+Puhuja 4: pönkeä jötkäle.
+Puhuja 1: Loistava termi.
+Puhuja 1: Niko Kettunen
+Puhuja 4: on nero.
+Puhuja 3: Maitovalas
+Puhuja 3: gapiaali, joka on eräänlainen krokotili
+Puhuja 3: ja myskihärkä.
+Puhuja 3: Sekä käsittääkseni... No, tapiiri on sympaattinen pönikkä. Se on aika hyvä juttu.
+Puhuja 1: Mä tein lisätutkimusta
+Puhuja 1: Niko Kettusen hengessä ja tutkin englanniksi lisää sikoja. Ja siis ensinnäkin tähän
+Puhuja 1: jyrsijäjoukkoon
+Puhuja 1: liittyy marsu, joka on englanniksi
+Puhuja 1: gyneipig.
+Puhuja 1: Eli siis Guinean sika.
+Puhuja 1: Ja sitten on Pekari,
+Puhuja 1: joka on sian näköinen
+Puhuja 1: eteläisessä Yhdysvalloissa sekä väli ja Etelä-Amerikassa
+Puhuja 1: elävä surkkaeläin, joka ei kuitenkaan ole sika.
+Puhuja 1: Mutta
+Puhuja 1: se
+Puhuja 1: on
+Puhuja 1: englanniksi
+Puhuja 1: Skang
+Puhuja 4: Pig.
+Puhuja 1: Ja
+Puhuja 1: ne tunnistaa toisensa voimakkaasta hajustaan.
+Puhuja 1: Vähän niin kuin minä ja ystäväni meni.
+Puhuja 2: Hyvä, että sanoi sen, ettei mun tarvitse. Sitten
+Puhuja 1: piikkisika, joka toki
+Puhuja 1: tässä
+Puhuja 1: tässä
+Puhuja 1: mainittiinkin.
+Puhuja 1: On myös joskus tunnettu puusikana. Siksi koska se elää puissa aina välillä.
+Puhuja 1: Mutta sen nimi tulee Ranskasta,
+Puhuja 1: joka on PorX
+Puhuja 1: Es
+Puhuja 1: Pix. Ja siis tällä samalla Ranskaan tyylisellä
+Puhuja 1: nimeämisskeemalla
+Puhuja 1: myös pyöriäiset ovat sikoja.
+Puhuja 1: Siksi koska niiden nimi on sikakala.
+Puhuja 1: Porks
+Puhuja 1: Space.
+Puhuja 1: Elikkä siis porpoise tietenkin englanniksi.
+Puhuja 1: Perus. Mutta on myös olemassa Sika-ala
+Puhuja 1: tai possu-ahven,
+Puhuja 1: niin kuin Googlen AI. Se minulle käänsi. Ootsä varmaan, että se on mutta
+Puhuja 4: englanniksi sen... Mutta eläin on siis olemassa kuitenkin.
+Puhuja 1: Kyllä englanniksi kyseisen eläimen
+Puhuja 1: nimi on siis Pigfish.
+Puhuja 1: Sitten tähän kysymykseen ilmasiasta
+Puhuja 1: sekä tulisijasta. Tulisijasta.
+Puhuja 1: Siis ensinnäkin
+Puhuja 1: tällainen klassinen videoblollinen Romeoceal
+Puhuja 1: War on jo vastannut tulisiikakysymykseen,
+Puhuja 1: koska siinä voit sytyttää ja lähettää
+Puhuja 1: vihollisen kimppuun.
+Puhuja 1: Oikeeita sikoja
+Puhuja 1: ei ole. Toivottavasti satutettu
+Puhuja 1: pelinteossa
+Puhuja 1: saadakseen tämän
+Puhuja 1: sikarrillauksen
+Puhuja 1: toteutettua, mutta ystäväni Aino myös keksi, mikä on ilmasika. Sehän on
+Puhuja 1: Studio Glimborkorossa,
+Puhuja 1: joka on mieluummin sika kuin fasisti, niin kuin myös minä.
+Puhuja 4: Mun
+Puhuja 4: kakkonen on vielä
+Puhuja 4: kaksi mahtavaa pointtia tuosta jutusta. Tai no yksi mahtava pointti jutusta ja yksi pointti, joka on minunias. Se ei ehkä ole niin mahtava.
+Puhuja 4: Mutta tässä jutussa mainitaan näin, että kun maasika ei ole sika, suositellaan
+Puhuja 4: häntä nykyään kutsuttavaksi termiittikaivajaksi,
+Puhuja 4: niin
+Puhuja 4: Ja sitten toinen
+Puhuja 4: tällainen upea lisäys oli siis, kun halusin jotenkin koittaa, miten uutisraporttia ja kapibaarran liittyy yhteen, niin kysyin
+Puhuja 4: ChatGPT:ltä.
+Puhuja 4: En Google Ajalta kysyn ChatGPT:ltä.
+Puhuja 4: Hän sanoi, että HS:n uutisraporttipodin
+Puhuja 4: ja kapibaran välillä ei ole suoraan yhteyttä, mutta kapibara liittyy piilotetummin
+Puhuja 4: HS:n muun tuotantoon.
+Puhuja 4: Sitten kysyin, millainen kapibara olisi uutisraportin
+Puhuja 4: juontajana.
+Puhuja 4: Tässä lukee: Kappivara juontajana toisi
+Puhuja 4: uutisraporttiin hidasta journalismia,
+Puhuja 4: lempeän rytmin ja ehkä jopa uusia metaforia,
+Puhuja 4: kuten verrata
+Puhuja 4: hallitusneuvotteluita
+Puhuja 4: isoon
+Puhuja 4: mangopuuhun,
+Puhuja 2: jossa kaikki yrittävät istua samalle oksalle. Mä voin jättää ensi viikon väliin,
+Puhuja 1: tosi kinoo
+Puhuja 1: kuvata sitä, kun
+Puhuja 1: neljä kabinbara mussuttaa ruohoa. Halusin tuoda tähän asiallista
+Puhuja 1: journalismia kuitenkin myös sikoihin.
+Puhuja 1: Sähänllisen kabinboran lailla. Joo, kyllä.
+Puhuja 1: Mua kiinnostaa se, että minkä takia nämä kaikki on sikoja. Ja mä vähän mietin tätä. Osittain tää on mutua, osittain tää on myös pientä tutkimusta.
+Puhuja 1: Mutta
+Puhuja 1: ensinnäkin, sieltä on ollut tosi tärkeitä eläimiä. Nehän on siis ensimmäisiä eläimiä, joita on
+Puhuja 1: kesytetty ihminen. Eli siellä on vuohet, siellä on lampaat, jonka jälkeen ble siat. Siat on erityisesti ollut tietty ruokaeläimiä.
+Puhuja 1: Eli vuohet ja lampaat tuottaa maitoa. Vuohet tuottaa maitoa.
+Puhuja 1: Ja lampaat tuottaa villaa.
+Puhuja 1: Mutta sian tärkein tuotanto on ollut se liha. Joten kun on lähdetty syömään
+Puhuja 1: erilaisia eläimiä,
+Puhuja 1: niiden nimeäminen sijaksi on ollut helppoa.
+Puhuja 1: Vähän niin kuin ihmistä kutsutaan
+Puhuja 1: välillä leikkisästi pitkäporsaaksi,
+Puhuja 1: kun harrastaa kannibalismia
+Puhuja 1: fiktiossa.
+Puhuja 1: Itsehän en ole harrastanut kannibalismia.
+Puhuja 1: Tärkeä disclaimer.
+Puhuja 1: Toisaalta myös eläinten käytös.
+Puhuja 1: Eli osittain se, miltä ne näyttää, kuten vaikkapa Pekari. Nyt näyttää
+Puhuja 1: siltä. Se on myös sorkkaeläin taikka pyöriinen, joka on melko sikamainen olento, niin sehän nyt tietty
+Puhuja 1: merkitsee sitä,
 Puhuja 1: että kutsutaanko sijaksi.
-Puhuja 1: Mutta sitten
-Puhuja 1: myös esimerkiksi käytös,
+Puhuja 1: Mutta sitten myös esimerkiksi käytös,
 Puhuja 1: koko sekä ruokahalu.
 Puhuja 1: Ilmeisesti
 Puhuja 1: semisäysijät,
-Puhuja 1: pötkäleet
+Puhuja 1: pönäkät
+Puhuja 1: jötkäleet
 Puhuja 1: helposti
-Puhuja 1: myös nimetään sijaksi, mikäli ne käyttäytyvät
-Puhuja 1: sikojen
+Puhuja 1: myös nimetään sijaksi, mikäli ne käyttäytyvät sikojen
 Puhuja 1: tavalla. Sekä myös yleinen ulkonäkö, jonka takia mies on myös sika.
-Puhuja 1: Sika juttuhan
-Puhuja 1: olisi
-Puhuja 1: siitä myös hieno, että se konkretisoi sen, kuinka isoja eläimiä sieltä on.
-Puhuja 1: Sieltähan painaa satoja kiloja. Ne on siis aina massiivisia, kunhan ne pääsee kasvamaan aikuiseksi asti.
-Puhuja 1: Ja ne elää laumoissa.
-Puhuja 1: Jenkeistähän on tämä vitsiä, että sulla
-Puhuja 1: on kymmeniä sikoja, joka on tosi hassu lause, kun näet sen sikalauman tuhoamassa viljelykset.
-Puhuja 1: Yhdysvalloissa
-Puhuja 1: pitää metsästää sikalaumoja
+Puhuja 4: Siinä on
+Puhuja 1: hyvä päättää.
+Puhuja 3: Ja kävelin
+Puhuja 3: naapuripuiston läpi
+Puhuja 1: Totta,
+Puhuja 1: totta. Mutta vielä sen verran sioista, että tämä
+Puhuja 1: kuukausiliitteen
+Puhuja 1: sikajuttuhan
+Puhuja 1: olisi siitä myös
+Puhuja 1: hieno, että se konkretisoi sen, kuinka isoja eläimiä siat on.
+Puhuja 1: Sieltähan painaa satoja kiloja. Ne on aina siis massiivisia, kunhan ne pääsee kasvamaan aikuiseksi
+Puhuja 1: asti. Ja ne elää laumoissa.
+Puhuja 1: Jenkeistähän on tämä vitsiä, että sulla on
+Puhuja 1: kymmeniä sikoja, joka on tosi hassu lause, kun näet sen sikalauman tuhoamassa viljelykset.
+Puhuja 1: Ja Yhdysvalloissa pitää metsästää sikalaumoja
 Puhuja 1: helikoptereista.
-Puhuja 0: Muuten ne haittaa maanviljelystä niin paljon. Niin varmaan. Ne vähän haluaa pusskikoida.
-Puhuja 1: Nääkin on todennäköjiltä myös. Mutta
-Puhuja 1: kun ne villiintyy ja pääsee pois lätistä,
+Puhuja 1: Muuten ne haittaa maanviljelystä niin paljon. Niin varmaan. Ne vähän haluaa pusskikoida.
+Puhuja 1: Nääkin on todennäköistä myös.
+Puhuja 1: Mutta siis
+Puhuja 1: sijat sitten, kun ne villiintyy ja ne pääsee pois lätistä,
 Puhuja 1: niin nehän kasvattaa
 Puhuja 1: karvaa
-Puhuja 1: ja
-Puhuja 1: syöksyhampaat.
-Puhuja 1: Eli sika on
-Puhuja 1: ainoastaan puoliksi kesytetty eläin siinä, että se kirjaimellisesti kokee metamorfoo
-Puhuja 1: siinä, kunhan pääsee villiksi, mikä on musta upeaa.
-Puhuja 0: Kun istut bussissa ja mietit sikoja ja Veres istuu joku ihminen ja siinä on kiusallisen hiljaista, niin mitä suosittelet hänelle
-Puhuja 0: mielessäsi?
+Puhuja 1: ja syöksyhampaat.
+Puhuja 1: Eli
+Puhuja 1: sika on
+Puhuja 1: ainoastaan puoliksi kesytetty eläin siinä, että se kirjaimellisesti kokee metamorfoosia,
+Puhuja 1: kunhan
+Puhuja 1: pääsee villiksi, mikä on musta upeaa.
+Puhuja 3: Kun istut bussissa ja mietit sikojan vieressä istuu joku ihminen ja sitten siinä on kiusallisen hiljaista, niin mitä suosittelet hänelle
+Puhuja 3: sieltä mielessäsi?
 Puhuja 1: Sikoja.
 Puhuja 1: Tässä mainittiinkin
-Puhuja 1: jo Gebileffat
-Puhuja 1: meitsen toimesta,
-Puhuja 1: eli
-Puhuja 1: porgon Rosso.
-Puhuja 1: Suosittelen
-Puhuja 1: oma suosikkini myös prinsessa Mononoke.
+Puhuja 1: jo Geebly-leffat
+Puhuja 1: meitsen toimesta
+Puhuja 1: eli porko Rosso.
+Puhuja 1: Suosittelen oma suosikkini myös prinsessa Mono-Noke.
 Puhuja 1: Mutta kesäisemmällä
 Puhuja 1: meiningillä
 Puhuja 1: haluan suositella kaikille
-Puhuja 1: Ei kaupallisessa yhteistyöstä Helsingin jäätelötehtaa jäätelöitä, koska ne ovat varmasti
-Puhuja 1: Helsingin
-Puhuja 1: suurimpia jäätelöpalloja, vaikka myös kalliimpia, mutta
-Puhuja 1: Kaikki on nykyään kalliita, se on kyllä totta. Mutta siis hinta-laatusuhde Bangää.
-Puhuja 1: Ei kaupallista yhteistyötä. Mutta sitten myös, koska tykkään suositella tämmöisiä
-Puhuja 1: Viimeksi mä suosittelisin tätä, tai nyt
-Puhuja 1: mä suosittelen Ursan
+Puhuja 1: ei-kaupallisessa yhteistyöstä Helsingin jäätelöätehtaan jäätelöitä siksi, koska ne ovat varmasti
+Puhuja 1: Helsingin suurimpia
+Puhuja 1: jäätelöpalloja, vaikka myös kalleimpia, mutta hinta-laatusuhde...
+Puhuja 3: Kaikki on nykyään kalliita.
+Puhuja 1: Kaikki on nykyään kalliita, se on kyllä totta. Mutta siis hinta-laatusuhde
+Puhuja 1: Bangää.
+Puhuja 1: Ei kaupallista yhteistyötä.
+Puhuja 1: Mutta koska tykkään suositella tämmöisiä
+Puhuja 1: viimeksi mä suosittelisin tätä, Taidu kaksi
+Puhuja 1: kertaa sitä suosittelen
+Puhuja 1: Ursan
 Puhuja 1: aurinkokuntamallia.
-Puhuja 1: Nyt haluan suositella sellaista vähän niinkuin vaikeapääsyisempää
+Puhuja 1: Nyt mä haluan suositella sellaista vähän niinkuin vaikeapääsyisempää
 Puhuja 1: luontokohdetta.
-Puhuja 1: Semmoista, johon pitää nähdä vaivaa päästäkseen. Ihmisiä
-Puhuja 1: on hyvä kannustaa siihen, että
-Puhuja 1: nähdään vähän vaivaa. Ja varsinkin nyt kun HSL
-Puhuja 1: ei toimi, metrot eivät kulje itään asti.
-Puhuja 1: Ja idässä eletään täysin sivilisaation ulkopuolella.
-Puhuja 1: Niin voisin suositella Vuosaaren huippua
-Puhuja 1: Siinä samalla kun sieltä tuskin saa Helsingin
-Puhuja 1: Jätlöytä tai Jätlöytä. Mutta se on siis rakennettu jätemaalle
+Puhuja 1: Semmoista,
+Puhuja 1: johon pitää nähdä vaivaa päästäkseen.
+Puhuja 1: Mielestäni ihmisiä on hyvä kannustaa siihen,
+Puhuja 1: että nähdään vähän vaivaa. Ja varsinkin nyt kun HSL ei toimi, metrot eivät kulje itään asti.
+Puhuja 1: Ja
+Puhuja 1: Idässä eletään täysin sivilisaation ulkopuolella
+Puhuja 1: niin mä voisin suositella Vuosaaren huippua.
+Puhuja 1: Siinä samalla kun sieltä tuskin saa itseasiassa Helsingin
+Puhuja 1: Jätleitä tai Jätlitä. Mutta se on siis rakennettu
+Puhuja 1: jätemaalle
 Puhuja 1: jätteestä
-Puhuja 1: sekä myös muusta romusta Vuosaaren tosi iso kukkula.
-Puhuja 1: Sieltä näkee kivasti Vuosaaren satamaan
-Puhuja 1: Helsingin keskustaan asti hyvänä päivänä sekä myös
-Puhuja 1: Porvoon jalostamoille, jos siis kauemmas.
-Puhuja 1: Näkymät on upeat. Luontoarvot, bängaa myös.
+Puhuja 1: sekä myös muusta romusta Vuosaaren tosi iso kukkula. Sieltä näkee kivasti Vuosaaren sataman, sieltä näkee Helsingin keskustaan asti hyvänä päivänä sekä Porvoon
+Puhuja 1: jalostamoille jos siis kauemmas. Näkymät on upeat. Luontoarvot,
+Puhuja 1: bängaa myös.
 Puhuja 1: Voin suositella isosti. Älkää menkö sadepäivänä,
-Puhuja 1: mutta varautukaa siihen, että joudutte menemään sivilisaation
-Puhuja 1: ulkopuolelle, koska HSL ei kulje sinne kovin hyvin. Metrolla ei pääse enää. Muuten niitä Helsinki on toki oikein mukava ja osa sivilisaatiota.
-Puhuja 0: Kiitos. Mites Helmi?
-Puhuja 3: Olin ehkä enemmän itse tässä kuolemmateemassa, kun mietin näitä suosituksia,
-Puhuja 3: mutta suosittelen. Ei niin pirteää kesäkatseleltavaa.
-Puhuja 3: Netflixistä on kattanut kaksi todella mun mielestä mielenkiintoista dokkaria, joista toinen kertoi tästä Thai-Zen sukellusveneestä,
-Puhuja 3: joka kaksi kesää
-Puhuja 3: Oceangateen
-Puhuja 3: sukellusveno, joka oli viemässä turisteja tuonne Titanicin hyllylle.
-Puhuja 3: Ja tosiaan sitten siitä seuraavasta onnettomuudesta ja etsinnästä.
-Puhuja 3: Siinä oli hyvin mielenkiintoisia juttuja. Toinen ihan yhtä piirteellä teemalla Lontoon pommi-iskun
-Puhuja 3: tekijöiden jäljillä jäljillä
-Puhuja 3: oleva dokumenttisarja oli myös Netflixissä.
-Puhuja 3: Jos kaipaa tällaista tosi pirteeää,
-Puhuja 3: ihanaa kesäkatseltavaa,
-Puhuja 3: niin sieltä löytyy. Mutta näissä molemmissa oli mielenkiintoista, miten niissä sivuttiin hyvin nopeasti, mutta silti
-Puhuja 3: sitä, miten media käsitteli näitä kahta uutista. Ja oli se esimerkiksi, jos muistatte Oceangate
-Puhuja 3: onnettomuuden, niin siellä esimerkiksi näytettiin uutislähetyksiä, joissa oli siis reunassa
-Puhuja 3: laskuri jäljellä siihen, kuinka kauan on vielä happea jäljellä tässä sukellusveneessä,
-Puhuja 3: jos se sattuisi olemaan vielä kadonnut
-Puhuja 3: tänne mereen. Hyvin absurdeja asioita.
-Puhuja 3: Ei millään tavalla hyvän mielen suositus, mutta jos kiinnostaa, niin kannattaa katsoa. Hyvän mielen suosituksena voin sanoa vielä tästä useampaan otteeseen mainitusta kuukausiliittojen jutusta, joka kertoo tästä Paavo sijasta muun muassa, että sen jutun lopussa on video, jossa Paavolle lauletaan tuutulaulu. Tuutulaulu.
-Puhuja 3: Ja voin myöntää, että itkin vähän kuin sitä katselin.
-Puhuja 0: Mä olin paperin erityisesti, sinne ei ollut, mutta jos lukee diginä, niin sitten varmaan. Kyllä. Sitä voi lukea sitten, kun tekee sitä vaarallista HS-matkaa
+Puhuja 1: mutta varautukaa siihen, että joudutte menemään sivilisaation ulkopuolelle, koska HSL ei kulje sinne kovin hyvin. Metrolla ei pääse enää. Muuten niitä Helsinki on toki oikein mukava ja osa sivilisaatiota.
+Puhuja 1: Kiitos. Mites Helmi?
+Puhuja 2: Olin ehkä enemmän itse tässä kuolemateemassa, kun mietin näitä suosituksia,
+Puhuja 2: mutta suosittelen. Ei niin pirteää kesäkatseltavaa.
+Puhuja 2: Netflixistä on katsonut kaksi todella mun mielestä mielenkiintoista dokkaria, joista toinen kertoi tästä Zey Zuckellusveneestä,
+Puhuja 2: joka kaksi kesää
+Puhuja 2: Oceangate
+Puhuja 2: Suelltanen, joka oli viemässä turisteja Titanicin
+Puhuja 2: hyllylle. Ja tosiaan siitä seuraavasta onnettomuudesta ja etsinnästä.
+Puhuja 2: Siinä oli hyvin mielenkiintoisia juttuja. Toinen ihan yhtä piirteellä teemalla Lontoon pommi-iskun
+Puhuja 2: tekijöiden jäljillä jäljillä
+Puhuja 2: oleva dokumenttisarja oli myöskin Netflixissä.
+Puhuja 2: Jos kaipaa tällaista tosi pirteeää, ihanaa ja kesäkatseltavaa,
+Puhuja 2: niin sieltä löytyy. Mutta mun mielestä näissä molemmissa oli mielenkiintoista, miten niissä sivuttiin hyvin nopeasti, mutta silti sitä, miten media käsitteli näitä kahta uutista. Ja oli se esim. Jos muistatte Nowengate onnettomuuden, niin siellähän oli esim. Näytettiin uutislähetyksiä,
+Puhuja 2: joissa oli siis reunassa
+Puhuja 2: laskuri jäljellä siihen, kuinka kauan on vielä happea jäljellä tässä sukellusveneessä,
+Puhuja 2: jos se sattuisi olemaan vielä kadonnut
+Puhuja 2: tänne mereen. Hyvin absurdeja asioita.
+Puhuja 2: Ei millään tavalla hyvän mielen suositus, mutta jos kiinnostaa, niin kannattaa katsoa. Hyvän mielen suosituksena voin sanoa vielä tästä useampaan otteeseen mainitusta kuukausiliittojen jutusta, joka kertoo tästä Paavo sijasta muun muassa, että sen jutun lopussa on video, jossa Paavolle lauletaan tuutulaulu.
+Puhuja 2: Ja voin myöntää, että itkin vähän kuin sitä katselin.
+Puhuja 3: Mä olin paperinista, siinä ei ollut, mutta jos lukee Diddin, niin sitten varmaan.
+Puhuja 1: Sitä voi lukea sitten, kun tekee vaarallista HOAS-matkaa
 Puhuja 1: bussilla Vuosaaressa.
-Puhuja 2: Mites Hanna? No sitten, kun te olette traumatisoituneita
-Puhuja 2: noista Helmin
-Puhuja 2: dokkareista,
-Puhuja 2: Niin sitten voitte mennä Googleen
-Puhuja 2: ja kirjoittaa siihen hakukissa
-Puhuja 2: tai koira. Voi päättää itse, kumpi vaan. Ja siinä, kun olette tämän tehneet, niin siinä on semmoinen hauska pikku tassuikoni.
-Puhuja 2: Tiedättekö, kun menee Googleen, niin siinä lukee vaikka koira,
-Puhuja 2: kirjoittaa koiraa, sitten sieltä tulee koiraa, niin sitten vieressä se on sellainen tassuikoni.
-Puhuja 2: Ja kun siitä painaa,
-Puhuja 2: niin siihen ruudulle tulee koiran
-Puhuja 2: puhdistaa sen näytön. Niin tämä on musta aika hauska.
-Puhuja 2: Esittelin tämän muun muassa kandiohjaajalle.
-Puhuja 0: Jenkki Podcast, Pord Save the Worlddissa. Puhutaan
-Puhuja 0: paitsi Jenkeistä, niin myös maailmanpolitiikasta.
-Puhuja 0: Tästä pitää ensin tällaiset Obaman aikaiset
-Puhuja 0: työntekijät, Obaman työntekijät Ben Roads
-Puhuja 0: toisena heistä, joka on Obaman muistaakseni puheenjohtaja.
-Puhuja 0: Tällaista
-Puhuja 0: tosi demokraattjalähtöistä,
-Puhuja 0: mutta kuitenkin tosi analyyttista ja älykästä
-Puhuja 0: kerrontaa.
-Puhuja 0: Bode Sadewor löytyy kaikista palveluista. Tomi Withor ja Ben Roads, Obaman Staffereita siellä.
-Puhuja 0: Sitten suosittelille rakennettua infrastruktuuria, eli uutta Merihan siltaa. Sitä
-Puhuja 0: kokemus, kun siellä on kaikki vielä ihan kesken siellä mustikkamaan ympäristössä, niin mennä nyt haistelemaan sitä, niin voi muistella kymmenen vuoden päästä. Silloin kun kävin täällä, ei vielä ollut näitä siltoja ja kaikki oli paremmin. Pääsekö kuulemaan, kuinka silta resonoi?
-Puhuja 0: Tämä on vaan urbaaninmyytti.
-Puhuja 1: En
-Puhuja 1: usko resonoineen.
-Puhuja 0: Moi
-Puhuja 1: moi.
+Puhuja 4: Mites Hanna? No sitten, kun te olette traumatisoituneita
+Puhuja 4: noista Helmin dokkareista,
+Puhuja 4: Niin sitten voitte mennä Googleen
+Puhuja 4: ja kirjoittaa siihen hakuun kissa
+Puhuja 4: tai koira. Voi päättää itse, kumpi vaan. Ja siinä, kun olette tämän tehneet, niin siinä on sellainen hauska pikku tassuikoni.
+Puhuja 4: Tiedättekö, kun menee Googleen, niin siinä lukee vaikka koira,
+Puhuja 4: tai kirjoittaa koiraa. Sitten sieltä tulee
+Puhuja 4: koiraa, niin sitten vieressä on semmoinen
+Puhuja 4: tassuikoni.
+Puhuja 4: Ja kun siitä painaa,
+Puhuja 4: niin siihen ruudulle tulee koiran taas.
+Puhuja 4: Ja sitten kuluu huhhuh. Ja sitten näin.
+Puhuja 1: Ja sitten
+Puhuja 4: kuuluu
+Puhuja 4: kun on silleen, että nyt voisi tehdä jotain muuta, niin sitten siinä on
+Puhuja 4: x siinä alhaalla ja sitten kun siitä painaa, niin sitten vesi tulee siitä ja se puhdistaa näytön.
+Puhuja 4: Tämä on minusta aika hauska.
+Puhuja 4: Esittelin tämän muun muassa kandiohjaajalle.
+Puhuja 1: Mutta Helsingin pormestari, jonka nimeä en
+Puhuja 3: Sasoskseni kaikille Yhdysvaltojen asiastakin,
+Puhuja 3: mitä suositteli myös vuosi sitten tässä Podissa.
+Puhuja 3: Jenkkipodcast
+Puhuja 3: Pod save the World, jossa puhutaan
+Puhuja 3: paitsi Jenkeistä, niin myös maailmanpolitiikasta.
+Puhuja 3: Sitä pitää ensin OPVA:n aikaiset
+Puhuja 3: työntekijät, Obaman työntekijät Ben Roads
+Puhuja 3: toisena heistä, joka on Obaman muistaakseni
+Puhuja 3: puheenjohtaja.
+Puhuja 3: Tällaista
+Puhuja 3: tosi demokraattjalähtöistä,
+Puhuja 3: mutta kuitenkin tosi analyyttista ja älykästä
+Puhuja 3: kerrontaa siellä. Bod Sade Year löytyy kaikista palveluista. Tomi Wittor ja Ben Roads Obama Staffereita siellä. Sitten suosittelen vielä rakennettua
+Puhuja 3: infrastruktuuria, eli uutta Merihan siltaa.
+Puhuja 3: Sitä kantsii käydä pyöräilmässä, kun siellä ei vielä ratikat kulje, eikä kukaan muukaan siellä mennyt. Mutta itse pyöräilin sen juuri päiväpäivää sitten. Se oli kyllä hauska kokemus, kun siellä on kaikki vielä ihan kesken siellä mustikkamaan ympäristössä, niin mennä nyt haistelemaan sitä. Sitten voi muistella kymmenen vuoden päästä. Silloin kun minäkin kävin
+Puhuja 3: Kiitos Helmi. Kiitos Rasmus. Ja kuulimme jälleen ensi viikolla. Moi moi.
+Puhuja 4: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast, menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -1,230 +1,486 @@
-Puhuja 0: Hei
-Puhuja 0: ja tervetuloa Helsingin Sanomien Uusiraportti-podcastia
-Puhuja 0: ja livelähetykseen torstaina kaksisataakaksitoista kaksituhatta
-Puhuja 0: kaksikymmentä eli kaksituhatta kaksikymmentä hirveän kivaa uutta vuosikymmentä kaikille kuulijoillemme
-Puhuja 0: Ja myös tässä vieressä istuvalle Helsingin Sanomien
-Puhuja 0: sunnuntailiitteen
-Puhuja 1: politiikan toimittajalle Marko Junkkerille. Hei Marko. Tuo sun titteli vaihtuu joka lähetyksessä.
-Puhuja 1: Mulle kuuluu todella hyvää.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Merkos huurudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Uutisraportti-podcasti
+Puhuja 0: ja livelähetykseen torstaina kaksi. Tammikuuta
+Puhuja 0: kaksituhatta kaksikymmentä kaksikymmentä. Kaksituhatta
+Puhuja 0: kaksikymmentä hirveän kivaa uutta vuosikymmentä kaikille kuulijoillemme.
+Puhuja 0: Myös tässä vieressä istuvalle Helsingin Sanomien sunnuntailiitteen
+Puhuja 0: politiikan toimittajalle. Marko Junkkarinen. Hei Marko. Tuo
+Puhuja 1: titteli vaihtuu tuo titteli, mikä antaa tulla joka
+Puhuja 1: lähetys. No mulle kuuluu todella hyvää.
 Puhuja 0: Miksi todella?
-Puhuja 1: Olen jotenkin perusoptimisti ja olen varma, että tästä vuosikymmenestä tulee parempi kuin eilisestä.
-Puhuja 0: Ihailen sun optimismia ja
+Puhuja 1: Olen jotenkin perusoptimistinen.
+Puhuja 1: Olen varma, että tästä vuosikymmenestä tulee parempi kuin edellisistä. Ihailen
+Puhuja 0: optimismia ja
 Puhuja 0: myös siemailen sitä
-Puhuja 0: toivottavasti tämän lähetyksen aikana itseäni. Marko lyhyt kysymys sulle: Mitä lupasit uudeksi vuodeksi? En mitään. Etkä mitään, etkä tee ikinä uuden vuoden aikana. En mä muista tekemään.
-Puhuja 1: Ei niistä, en mä muista mitään niitä.
-Puhuja 0: Okei,
-Puhuja 0: kerron kohta. Haluan
-Puhuja 0: ensin kuulla
-Puhuja 0: Marian ollessa
-Puhuja 0: joululomalla,
-Puhuja 0: niin meillä on tänään
-Puhuja 0: täällä paikan päällä.
-Puhuja 0: Helsingin Sanomien uutena Berliinin kirjeenvaihtajana
-Puhuja 0: aloittava kulttuuritoimituksen
-Puhuja 0: entinen esimies. Hanna Mahlawit. Aloittaa
-Puhuja 2: vuoden alusta aloittaa. Eikö Helsingin Sanomien Berliinin kirjeenvaihtaja asu perille? Tässä mä nyt kuitenkin oon.
-Puhuja 0: Hei Hanna.
-Puhuja 0: Hei. Ja tervetuloa podcastiin. Tää on sulle ensimmäinen kerta juttu. Mitä
-Puhuja 0: sinä lupasit uudeksi vuodeksi? En kyllä mitään.
+Puhuja 0: toivottavasti tämän lähetyksen aikana
+Puhuja 0: itselleni. Markun lyhyt kysymys sulle, mitä lupasit uudeksi
+Puhuja 0: vuodeksi? En mitään. Etkö mitään, etkä tee ikinä uuden vuoden aikana. Enpäs tekemään. En usko.
+Puhuja 1: En muista mitään
+Puhuja 0: niitä.
+Puhuja 0: Okei, kerron kohta.
+Puhuja 0: Haluan ensin
+Puhuja 0: kuulla Marian ollessa vielä joululomalla,
+Puhuja 0: niin meillä on tänään täällä
+Puhuja 0: paikan päällä.
+Puhuja 0: Helsingin Sanomien uutena Berliinin
+Puhuja 0: kirjeenvaihtajana aloittava kulttuuritoimituksen entinen esimies Hanna Mahlavi. Aloittaa.
+Puhuja 0: Vuoden alusta aloittaa. Eikö se Helsingin Sanomien Berliinin kirjeen vaihtaja asu Berliin? Tässä minä nyt kuitenkin aloitan.
+Puhuja 0: Hei Hanna. Hei.
+Puhuja 0: Ja tervetuloa podcastiin. Tää on sulle ensimmäinen kerta. Mitä
+Puhuja 2: sinä lupasi uudeksi vuodeksi? No en kyllä mitään.
 Puhuja 2: En edes harkinnut mitään lupauksia. Mun mielestä
 Puhuja 2: elämää pitää parantaa joka päivä eikä vain vuodenvaihteessa.
-Puhuja 2: Aina kun tulee hyviä idsejä, ne toteutetaan heti.
-Puhuja 1: Anna niin jännä esimiella esimieskurssilla siellä jos puhutaan tollasissa.
-Puhuja 2: Älä odota vuodenvaihdetta,
-Puhuja 2: tee se nyt.
-Puhuja 0: Teillä oli tosi mitään sanomatta lopussa. Tein paljon
-Puhuja 0: kaikkia suuria muutoksia. Mulla on nyt kaksi päivää
+Puhuja 2: Aina kun tulee hyviä idiksiä, niin ne toteutetaan heti.
+Puhuja 1: Anna niinkin äänellä esimieskurssilla,
+Puhuja 1: siellä jos puhutaan tollasesta. Älä
+Puhuja 2: odota vuodenvaihdetta.
+Puhuja 2: Tee se nyt.
+Puhuja 0: Teillä
+Puhuja 0: oli
+Puhuja 0: mitään sanomatta lupa. Tein paljon
+Puhuja 0: kaikkia suuria muutoksia. Olen ollut nyt kaksi päivää
 Puhuja 0: täysin ilman nikotiinia.
-Puhuja 0: Oho. Ensimmäistä kertaa elämässäni sitten,
-Puhuja 0: Milloinko alan polttaa
-Puhuja 0: tupakkaa 15-vuotiaana?
-Puhuja 1: Suomi on peesaluu Saksaa aikalailla
-Puhuja 1: aina.
-Puhuja 2: Luotettava liittolainen.
-Puhuja 1: Nyt puhutaan tästä uudesta Hansaliitosta ja muusta, EU:n sisällä, mikä on Pohjois-Eurooppaan maalais
-Puhuja 1: yhtenäiset näkemykset asioista, niin se mitä
-Puhuja 1: kuka valitaan Saksan johtoa ja mitä meitä Saksa on EU:n kehittämisestä esimerkiksi, niin on siellä valtava merkitys meille.
-Puhuja 0: Eikö
-Puhuja 0: se ole näin, että
+Puhuja 0: Ensimmäistä
+Puhuja 0: kertaa elämässäni
+Puhuja 0: sitten,
+Puhuja 0: milloinko alan polttaa tupakkaa 15-vuotiaana?
+Puhuja 0: Nyt ensimmäistä kertaa ikinä täysin ilman nikotiinia. Tupakan lopetin kahdeksan vuotta sitten, mutta sen jälkeen on syönyt purkaa.
+Puhuja 0: Viime vuosina tuli myös nuuskakuvioihin.
+Puhuja 0: Ajattelin, että
+Puhuja 0: nyt täytyy tästä kemikaalista päästä irti.
+Puhuja 0: Jotenkin päätunto on aivan pärättävän omituiselta, kun on ilman nikotiinia. Hyvinhän
+Puhuja 0: olet hereillä ja puhut kuitenkin. Niin, mutta tuo on tosi sätkyinen olo ja sitten sellainen, voi hitto.
+Puhuja 0: Toinen, lopetin
+Puhuja 0: alkoholinkäytön
+Puhuja 0: vuodeksi.
+Puhuja 2: Okei.
+Puhuja 0: Se on
+Puhuja 2: vuodeksi. Minkä takia?
+Puhuja 2: Mitä järkeä tässä on?
+Puhuja 0: Musta se ei ole enää tuntunut niin kivalta.
+Puhuja 0: Sitäkin on tullut 13-vuotiaasta asti harrasteltu aika reippaalla kädellä.
+Puhuja 1: Haluatko ensinnäkin puhuttu sinun ihottumukseensi.
+Puhuja 1: Puhuit
+Puhuja 0: siitä vain kauhean paljon. Puhuinkin.
+Puhuja 0: Minulla oli kolmen kuukauden
+Puhuja 0: alkoholiton
+Puhuja 0: jakso viime vuonna. Nautin siitä suunnattomasti.
+Puhuja 0: Siitä jää vähän sellainen fiilis, että pitäisi nyt vähän pidempi vetää.
+Puhuja 0: Ajattelin, että nyt olisi aika vuodeksi. Tämän tukemiseksi teen niin, että kun laskin, paljonko menee nikotiinia alkoholiin vuodessa, Ei kun anteeksi, päivässä. Kolmetoista
+Puhuja 2: euroa.
+Puhuja 2: Korvaatko ne jollain muulla vai? En. Miten
+Puhuja 2: tyhjiö täyttyy elämässäsi?
+Puhuja 0: Se ei täyty millään. Se on tässä myös ajatus.
+Puhuja 0: Nikotiinikorvaustuotteita
+Puhuja 0: on paha enää korvata yhtään millään. Menetkö käyttää nyt tässä STvän kolmetoista euroa? Hetkinen
+Puhuja 1: johdannaisiin tai... Kyllä.
+Puhuja 0: Laitan
+Puhuja 0: sen kolmetoista
+Puhuja 0: euroa päivittäin menee tililtä
+Puhuja 0: pois toisaalle,
+Puhuja 0: sellaiseen talletustiiniin.
+Puhuja 0: Sitten minulla on jo olemassa kaiken aikaa automaattihimmelit, jotka siirtävät rahoja ja laittavat ne kaikkiin
+Puhuja 0: lähinnä passiivisiin
+Puhuja 0: indeksiosuuksiin.
+Puhuja 0: Kyllä otan ne rahat,
+Puhuja 0: jotka säästyvät ja laitan, johonkin
+Puhuja 0: mahtavaa, myyjäjoki matkaan tai johonkin muuhun. Tällainen hyvin kliseinen uudenvuoden meininki. Tsemppiä on. Aion raportoida kaikista lupauksista
+Puhuja 0: toistuvasti podcastissa.
+Puhuja 0: Olen edelleen myös kipeä.
+Puhuja 0: Sama flunssa saatana, mikä alkoi ennen joulu.
+Puhuja 0: Mistä pahoittelen? Hyvä. No niin, hirveän pössääminen ja ruveta tekemään sitä ihan peruskurssille. Okei, nyt mä sainkin. Kyllä.
+Puhuja 0: Tuohon liittyen.
+Puhuja 0: Mielestäni on selvää, että toimintaympäristö
+Puhuja 0: on tosi kaoottinen. Se on semmoinen,
+Puhuja 0: että jos luovutaan
+Puhuja 0: herrasmiessäännöistä,
+Puhuja 0: niin siellä
+Puhuja 0: pystyy niittämään
+Puhuja 0: viljaa
+Puhuja 0: ja saamaan äänestäjiä
+Puhuja 0: tosi paljon.
+Puhuja 0: Se
+Puhuja 0: on oppurttunistinen
+Puhuja 0: pelikenttä tällä hetkellä.
+Puhuja 0: Pitäisikö suomalaisten näiden
+Puhuja 0: perinteisten puolueiden,
+Puhuja 0: ja luen tähän myös perussuomalaiset,
+Puhuja 0: niin pitäisikö
+Puhuja 0: niiden keskenään,
+Puhuja 0: siis
+Puhuja 0: puolueiden
+Puhuja 0: tehdä semmoinen
+Puhuja 0: sopimus, että nyt
+Puhuja 0: jollain tavalla
+Puhuja 0: säilytetään
+Puhuja 0: tätä poliittisen instituution arvovaltaa.
+Puhuja 1: Ei minusta tuollaista voi sopia. Se on mahdotonta.
+Puhuja 2: Se on mahdotonta myös
+Puhuja 2: mielestäni sanoa poliitikoille, että lopettakaa
+Puhuja 0: Mutta
+Puhuja 0: sitten... Mitä enemmän niitä käytetään, sitä kärjistyneempiä niistä tulee. Sitten muutkin hoksaa, että tämä
+Puhuja 0: kärnaa-homma
+Puhuja 0: toimii.
+Puhuja 0: Tämä feministisen puolueen
+Puhuja 0: liioitteleva syyllistäminen toimii.
+Puhuja 0: Se
+Puhuja 0: vie
+Puhuja 2: keskustelua huonompaan suuntaan. Se ei ole suomalainen ilmiö. Se on kaikkialla
+Puhuja 2: Ja se on kytköksissä meidän elämäntapaa ja ylipäätään
+Puhuja 0: tapaan käyttää somea ja viestiä ja olla koko ajan puhelin kädessä. Ja tästä päästään niin nätisti takaisin Saulin Niinistön puheeseen, koska hän siinä viittasi, että suomalaisten
+Puhuja 0: vahvuus on kuitenkin aina ollut toisten ymmärtäminen
+Puhuja 0: ja yhteen hiileen
+Puhuja 0: puhaltaminen. Sen takia kysynkin, että jos koko maailma on menossa
+Puhuja 0: jatkuvasti enemmän kohti kärjistyneempää,
+Puhuja 0: jakautuneempaa
+Puhuja 0: ja kuumempaa ja kuumempaa debattia,
+Puhuja 0: niin voisiko suomalaisen
+Puhuja 0: yhteiskunnan voima olla siinä, että täällä
+Puhuja 0: nyt sitten
+Puhuja 0: pelataan samaa peliä ja suojellaan meidän instituutioita, Suojelan niiden arvovaltaa. Ei lähdetä ehdoin tahdoin kärjistämään tätä meidän
+Puhuja 2: meininkiä. Voisiko se olla vientituote?
+Puhuja 1: Ei sitä kukaan voi ulkopuolelta
+Puhuja 1: sanoa, että tehkää sopimuksia ja järkevää politiikkaa.
+Puhuja 1: Joskus olen Tuomakselle höpötnyt sitä, että mielestäni myös hyvä pomo työyhteisössä on sellainen, joka pystyy luomaan sellaisen illuusion,
+Puhuja 1: että hän jotenkin tietää enemmän kuin ehkä oikeasti tietääkään ja pystyy saamaan alaa... Hän ei jää kiinni. Hän ei jää kiinni siitä. Ja alaisilla on sellainen kuvitelma, että pomo, että sillä on
+Puhuja 1: oikeasti todella viisaat näkemykset, että hän ei välttämättä kerro niitä, mutta jos saa takareossa onnea ja tuo pystyy johdattamaan meidät kohti jotain parempaa.
+Puhuja 1: Minusta se pätee politiikkaakin.
+Puhuja 1: Kyllä
+Puhuja 1: ihmiset oikeasti myös,
+Puhuja 1: elämä on vakaata ja turvallista,
+Puhuja 1: työpaikat säilyy ja näin edespäin.
+Puhuja 1: Ne eivät välttämättä halua nähdä
+Puhuja 1: yksityiskohtia. Mutta uskon, että se... Tuntuu, että puolue ei itsekään tiedä, mitä niiden pitäisi tehdä, mutta jos ne pystyisivät luomaan sen illuusion, että he tietävät, että niillä on jokin resepti, jolla Suomi pärjää viiden vuoden päästä, niin luulen, että se voisi olla identiteettipoliittisestikin
+Puhuja 1: fiksu imago sille puolueelle, että me tiedämme, mitä pitäisi tehdä. Minulla oli helvetin mielenkiintoista, kun sanoit noin. Sillä hetkellä
+Puhuja 0: huomasin tunnetasolla, että en uskoisi tuota.
+Puhuja 0: En usko, että millään meidän puolueesta on mitään hajua, mitä tehdä. Niinhän se ongelmahan onkin.
+Puhuja 2: Niin, siltä se vaikuttaa.
+Puhuja 0: Just kun sanoit, että ihan vaan, kun tuo lause tuli suustasi, niin tunsi
+Puhuja 0: tunteena, että joo, en usko tohon.
+Puhuja 0: Jännä.
+Puhuja 0: Onpa hirveän negatiivista
+Puhuja 0: ja synkkää.
+Puhuja 0: Mun pitää ruveta uskomaan
+Puhuja 0: sosialidemokraattiseen
+Puhuja 2: aatteeseen.
+Puhuja 0: Tietääkö ne mikrofonit? Mä rupean RKP:nlaiseksi.
+Puhuja 0: Siihen voi ainakin uskoa, että ruotsi on parempi maa kuin Suomi. Siin on selkeä tavoite.
+Puhuja 0: Ruotsin kielen aseman turvaaminen. Kyllä ja ruotsin aseman. Valtioliitto.
+Puhuja 0: Sulautuminen
+Puhuja 0: takaisin osasi Ruotsia.
+Puhuja 0: Konkreettista. Kyllä.
+Puhuja 2: Niinistö
+Puhuja 2: sanoi, että tämä on suomalaisten vahvuus, toisten kuunteleminen ja ymmärtäminen.
+Puhuja 2: Onko siitä jotain näyttöä? Kyllä. Niin uskot, että sinusta tuntuu hyvältä, mihin se sanoisi.
+Puhuja 1: Meillä on niin pieni se eliitti. Kun ne kaikki toisensa, niin ne on olleet sopuisia. Talvisodan
+Puhuja 2: henki, olimme pakotettuja tekemään asioita yhdessä. Se ei liity suomalaisten
+Puhuja 2: geneettiseen olemukseen, vaan Suomi on pieni kansa ja ahdistettu. Mutta
+Puhuja 0: myös meidän luokkaerot ovat hyvin pienet.
+Puhuja 0: Harry Holkeri oli alemmanmuovikassi kädessä alemmassa,
+Puhuja 0: kun
+Puhuja 0: kädessä alepassa, kun häntä puukotettiin.
+Puhuja 0: Meidän luokkaerot ovat aina olleet aika pienet. Sen takia meillä on yhteinen
+Puhuja 0: meininki,
+Puhuja 0: koska hyvinkin rikkaat ja tärkeät ihmiset ovat hyvin samanlaisena kuin minä tai sinä.
+Puhuja 0: Okei,
+Puhuja 0: vielä lyhyesti tähän loppuun. Hanna, olet lähdössä Berliiniin Helsingin Sanomien
+Puhuja 0: kirjeenvaihtajaksi.
+Puhuja 0: Vau. Vau.
+Puhuja 0: Mitä odotat tältä sinun uudelta pestiltä nyt, kun se alkaa? Menet tietenkin Saksaan, kun
+Puhuja 0: nyt, kun se alkaa? Menet tietenkin Saksaan sen takia, että se on hyvin tärkeää. Se on hieno maa. Niin. Saksahan on kiinnostavassa
+Puhuja 2: tilanteessa,
+Puhuja 2: mikä ei mielestäni ole kauhean valoisa
+Puhuja 2: välttämättä,
+Puhuja 2: mutta kiinnostavalla tavalla linkittyy tosi paljon siihen, mitä tässäkin ollaan puhuttu.
+Puhuja 2: Saksassa
+Puhuja 2: suuret puolueet on aika lailla sekaisin
+Puhuja 2: tuuliajoilla.
+Puhuja 2: Jatkuvasti siellä povataan hallituksen hajoamista
+Puhuja 2: ihan vaan siksi, koska niistä on hankalaa tehdä yhteistyötä
+Puhuja 2: tai löytää mitään suuntaa yhdessä.
+Puhuja 2: Saksan demarit on ollut pitkään
+Puhuja 2: ihan sekaisin.
+Puhuja 2: Suomessa me ollaan vuosikymmeniä kirjoitettu juttuja siitä, että demarit ovat ihan sekaisin.
+Puhuja 2: Tällaiset vanhat voimat yhteiskunnassa
+Puhuja 2: horjuuvat.
+Puhuja 2: Siellä on tämä vaihtoehto Saksalle puolue,
+Puhuja 2: jossa on
+Puhuja 2: osittain tällaista perussuomalaistyyppistä
+Puhuja 2: ja
+Puhuja 2: osittain vielä
+Puhuja 2: laidemaista
+Puhuja 2: oikeistoa.
+Puhuja 2: On saanut lisää kannatusta
+Puhuja 2: monissa osavaltioissa esimerkiksi viime vuoden aikana.
+Puhuja 2: Saan polttoainetta
+Puhuja 2: Merkelin
+Puhuja 2: turvapaikkapolitiikasta
+Puhuja 2: ja talouspolitiikasta
+Puhuja 2: ja energiapolitiikasta.
+Puhuja 2: Aika samanlaisia haasteita
+Puhuja 2: Suomessa.
+Puhuja 2: Poliitikot puhuvat. Monet puhuvat ihan kansan ohi, ja kansalaiset
+Puhuja 2: kokevat suurta tyytymättömyyttä.
+Puhuja 2: Tilanne
+Puhuja 2: itse asiassa vaatisi
+Puhuja 2: suunnan näyttämistä
+Puhuja 2: ja rohkeitakin ratkaisuja.
+Puhuja 2: Ehkä
+Puhuja 2: identiteettipolitiikan vähentämistä.
+Puhuja 2: Sitäkin on saksankielisessä somessa tosi paljon.
+Puhuja 0: Onko se typerä ajatus, että jollain Saksalla on väliä
+Puhuja 0: Suomessa? Onko se tyhmä ajatella, että täällä otettaisiin
+Puhuja 0: jotenkin
+Puhuja 0: mallia?
+Puhuja 0: Onko se jotenkin vanha ajatus?
+Puhuja 0: Se on varmaan perua jostain
+Puhuja 0: ysäriltä.
+Puhuja 0: Jos sitä ei painettu sanomalehteen tai joku ei julkaissut aiheesta
+Puhuja 0: niin ajatukset eivät siirtyneet kovin paljon vasta toiseen. Silloin isoilla mailla oli paljon
+Puhuja 0: annettava. Mutta eikö nyt ajatukset voi siirtyä tänne ihan mistä vaan, vaikka
+Puhuja 0: Vai
+Puhuja 2: onko Saksa merkitystä? Saksa on Suomen tärkein vientimaa.
+Puhuja 2: Se, miten meillä työpaikat
+Puhuja 2: tai
+Puhuja 2: palvelut säilyvät,
+Puhuja 2: niin siihen vaikuttaa myös Saksan talous. Miten Saksa pystyy hoitamaan asiansa?
+Puhuja 2: Se ei välttämättä vaikuta aina niin, että kun Saksassa jotain romahtaa, niin se tulee semmoinen tien Suomeen. Mutta
+Puhuja 2: ei me olla irrallisia siitä. Ja vaikka EU-politiikassa
+Puhuja 1: Suomi on pesanu Saksaa
+Puhuja 1: aikalailla aina. Ja luotettava liittolainen. Nyt puhutaan tästä mistä uudesta Hansaliitosta ja muusta, EU:n sisällä, joka on Pohjois-Euroopvaan maailmaa ja
+Puhuja 1: valitaan Saksan johtoa ja mitä meitä Saksa on EU:n kehittämisestä esimerkiksi, on siellä valtava merkitys meille.
+Puhuja 0: Eikö se
+Puhuja 0: ole näin, että
 Puhuja 0: kaikista Euroopan maista Suomi on eniten sukua,
 Puhuja 0: totta kai Ruotsille, mutta Saksalle.
-Puhuja 0: Saksa, Ruotsi,
-Puhuja 0: Suomi,
+Puhuja 0: Saksa, Ruotsi, Suomi,
 Puhuja 0: Tanska
 Puhuja 0: ja jonkun verran Hollanti
-Puhuja 0: kuuluvat tällaiseen.
-Puhuja 0: Ne ovat kulttuurisesti
-Puhuja 0: samankaltaisia,
+Puhuja 0: kuuluvat tällaiseen. Ne
+Puhuja 0: ovat kulttuurisesti samankaltaisia,
 Puhuja 0: protestanttisia,
 Puhuja 0: luterilaistyylisiä
 Puhuja 2: maita. Allekirjoitan
-Puhuja 2: tuon aika pitkälti, että esimerkiksi kyllähän ranskalainen
+Puhuja 2: tuon aika pitkälti, että esimerkiksi ranskalainen
 Puhuja 2: kulttuuri on enemmän
 Puhuja 2: välimerellinen
 Puhuja 2: ja lakinalaisempi
-Puhuja 2: suomalaiseen
-Puhuja 0: Ja katolisen kirkon vaikutus siellä on
+Puhuja 0: suomalaiseen... Ja katolisen kirkon vaikutus siellä on
 Puhuja 0: säilynyt
-Puhuja 0: pitkään
-Puhuja 0: merkittävänä, vaikka on
-Puhuja 0: Etelä-Saksassa.
-Puhuja 0: Katonisen kirkko on ihan voimissaan.
-Puhuja 1: Hanna,
-Puhuja 2: on tosi kaunista aluetta.
-Puhuja 2: Se
-Puhuja 2: on
-Puhuja 2: tavallaan kuumottavaa
-Puhuja 2: paikka.
-Puhuja 2: Mutta se on myös hienoa, se vuoristo siellä, mihin se oli rakennettu.
-Puhuja 2: Niin kuin me kaikki populaarikulttuurin
-Puhuja 2: ystävät ollaan jonkin verran seurattu niitä natsihommia,
-Puhuja 2: niin
+Puhuja 0: pitkään merkittävänä, vaikka on Etelä-Saksassa.
+Puhuja 0: Katainen kirkko on ihan voimissaan.
+Puhuja 1: Hanna, Saksahan on valtava iso maa ja se on vielä liittovaltio. Ne on aivan erilaisia,
+Puhuja 1: kuten Etelä-Saksa verrattuna hampuuniin.
+Puhuja 1: Mikä on Saksan kivoin paikka? Berliinja ei saa sanoa. Saksan kivoin paikka.
+Puhuja 1: Miska kanssa menee lomalle, johonkin vuodelle kuin Berliiniin? Lomavinkkejä.
+Puhuja 2: Tätä ei nyt saa käsittää väärin, mutta
+Puhuja 2: olen käynyt siellä Kotkanpesässä
+Puhuja 2: siellä Hitlerin
+Puhuja 2: mökillä.
+Puhuja 2: Ja Etelä-Saksa
+Puhuja 2: on tosi kaunista aluetta
+Puhuja 2: ja
 Puhuja 2: se on
-Puhuja 2: värisyttävä paikka, se Hitlerin
-Puhuja 2: Kotkanpesä, plus se on luonnon kaunis.
-Puhuja 2: Ja en tiedä onko se hauska paikka.
-Puhuja 2: Olen käynyt siellä
-Puhuja 2: ja pidin. Tai tavallaan pidin sitä mielenkiintoisena ja hienona.
+Puhuja 2: todella
+Puhuja 2: kuumottavaa paikka.
+Puhuja 2: Mutta se on myös hienoa, se vuoristo siellä, mihin se oli rakennettu.
+Puhuja 2: Ja niin kuin me kaikki populaarikulttuurin
+Puhuja 2: ystävät ollaan jonkun verran seurattu niitä natsihommia, niin
+Puhuja 2: se on
+Puhuja 2: värisyttävä paikka,
+Puhuja 2: Hitlerin Kotkanpesä,
+Puhuja 2: plus se on luonnon kaunis.
+Puhuja 2: Ja en tiedä onko se hauska paikka. Mutta olen käynyt siellä
+Puhuja 2: ja pidin. Tavallaan pidin sitä mielenkiintoisena ja hienona.
 Puhuja 2: Ylipäätään
-Puhuja 2: Etelä-Saksa
-Puhuja 2: ja Itävalta,
-Puhuja 2: niin on suosikkipaikkoja.
+Puhuja 2: Etelä-Saksa ja Itävalta,
+Puhuja 2: niin suosikkipaikkoja.
 Puhuja 2: Sinne sitten. Sinne sitten.
-Puhuja 0: Okei.
-Puhuja 0: Sitten, kun te olette
+Puhuja 0: Okei. Sitten, kun te olette
 Puhuja 0: yllättävän pitkään, ehkä kaksi tai kolmekin viikkoa kärsineet flunssasta
 Puhuja 0: ja se paranee
-Puhuja 0: Menettiin juhlistamaan sitä
-Puhuja 0: kahvilaan
-Puhuja 0: juomaan
-Puhuja 0: kuumaa kaakaota.
+Puhuja 0: Ja menette juhlistamaan sitä
+Puhuja 0: kahvilaan,
+Puhuja 0: juomaan kuumaa kaakaota.
 Puhuja 0: Niin
-Puhuja 0: millä
-Puhuja 0: tarinoilla ja
-Puhuja 0: kertomuksilla
+Puhuja 0: milläs
+Puhuja 0: tarinoilla
+Puhuja 0: ja kertomuksilla
 Puhuja 0: ajattelitte
 Puhuja 0: kahvikavereita
 Puhuja 0: viihdyttää,
 Puhuja 0: Marko?
 Puhuja 1: Olen katsonut
-Puhuja 1: jouluvyyhiä, olen katsonut monta leffaa.
-Puhuja 1: Katsoin tätä vanha leffaa tai vanha kohta. Katsoin sen Moi Hoodin.
-Puhuja 1: Oliko hyvä? Se oli aivan loistava. Se on se
+Puhuja 1: joulupyhiin ja monta leffaa.
+Puhuja 1: Katsoin, että on vanha tai vanhahko. Katsoin sen Moi Hoodin.
+Puhuja 1: Oliko hyvä? Se oli minusta aivan loistava. Se on se
 Puhuja 1: elokuva, jossa
-Puhuja 1: pääosan
-Puhuja 1: esittäjät vanhenevat, ja sitä on kuvattu kaksitoista vuoden aikana. Ja siinä alussa päähenkilö on pieni poika, joku
-Puhuja 1: kuusi-vuotias.
-Puhuja 1: Siinä elokuun lopussa se on sitten kahdeksantoista.
-Puhuja 1: Se on minusta Olemme tosi
-Puhuja 0: tunteeellinen.
-Puhuja 1: Se oli tosi koskettava leffa. Se kertoo
-Puhuja 1: varsinkin näistä perheestä ja miten tämä poika kasvaa siellä. Siinä ei ole yleensä mitään
-Puhuja 1: kauhean dramaattista. Minusta on kauhean koskettavasti tehty pojan
-Puhuja 1: kasvutavin
-Puhuja 1: kandeja kattoa.
-Puhuja 1: Tuosta vuosi sitten tuli jotain? Joo, koepari.
-Puhuja 0: Mutta
-Puhuja 0: melko tuore. Entä Hanna?
-Puhuja 2: Olen katsonut viimeksi Mind Hunteria,
-Puhuja 2: joka ei ole mikään uusi sarja Netflixillä.
-Puhuja 2: Oletko katsonut? Joo, katsoin
-Puhuja 0: pari ensimmäistä ja sitten se jotenkin vähän jäi. Siinä on tosi
+Puhuja 1: tavallaan ne pääosan
+Puhuja 1: esittäjät vanhenevat, ja siitä on kuvattu kaksitoista vuoden aikana. Siinä alussa
+Puhuja 1: päähenkilö on pieni poika, kuusi-vuotias,
+Puhuja 1: ja siinä elokuvan lopussa se on sitten
+Puhuja 1: kahdeksantoista. Se on minusta... Onko
+Puhuja 1: tosi tunteeellinen?
+Puhuja 1: Se oli tosi koskettava leffa, ja se kertoo
+Puhuja 1: esimerkiksi rikkinä perheestä ja miten tämä poika kasvaa siellä. Siinä ei ole mitään
+Puhuja 1: kauhean dramaattista, mutta se on kauhean koskttavasti tehty
+Puhuja 1: pojan kasvutarina.
+Puhuja 1: Kande ei katso.
+Puhuja 0: Milloin vuosi sitten tuli jotain? Joo, quite pari. Mutta melko tuore. Entä Hanna?
+Puhuja 2: Olen katsonut viimeksi
+Puhuja 2: Mind Hunteria, joka ei ole mikään edes uusi sarja Netflixillä. Oletko katsonut?
+Puhuja 0: Joo, katsoin
+Puhuja 0: pari ensimmäistä.
+Puhuja 0: Sitten se jotenkin jäi. Siinä on tosi
 Puhuja 2: tasapainoillaan
 Puhuja 2: sellaisella
 Puhuja 2: sarjamurhaaja-ahdistavuudella
-Puhuja 2: ja
-Puhuja 2: kiinnostavalla
+Puhuja 2: ja kiinnostavalla
 Puhuja 2: poliisitutkintaelementillä
 Puhuja 2: ja 1970-luvun ajankuvalla.
-Puhuja 2: Olen nyt jatkanut sitä tässä viime aikoina, mutta otin rinnalle katsottavaksi sen Koivistosarjan, koska
-Puhuja 0: se on todella hyvä. Kyllä, mä katoin eilen varmaan
-Puhuja 0: Skippasin pari alkupääjaksoa,
-Puhuja 0: mutta katsoin sen Koiviston.
-Puhuja 0: Mä pystyn lukemaan elämänkertoja sen takia, että niissä alussa on aina joku kaksisataa sivua, kun olin viisivuotias.
-Puhuja 2: Sä voisit syttyä siitä Koiviston sodan ajan roolista.
-Puhuja 2: Hänhän ei ollut kaukopartiomies,
-Puhuja 2: usein virheellisesti väitetään, vaan nyt en muista sitä termiä, mutta he suorittivat epätavallisia
+Puhuja 2: Olen jatkanut sitä tässä viime aikoina, mutta otin rinnalle katsottavaksi sen Koivistosarjan, koska
+Puhuja 0: se on todella hyvä. Kyllä, mä katsoin eilen varmaan...
+Puhuja 0: Skippasin pari alkupääjaksoa.
+Puhuja 0: Katsoin
+Puhuja 0: En pysty lukemaan elämänkertoja sen takia, että niissä alussa aina joku kaksisataa sivua tai kun olin viisivuotias.
+Puhuja 2: Voisit syttyä
+Puhuja 2: siitä Koiviston sodan ajan roolista.
+Puhuja 2: Hänhän ei ollut
+Puhuja 2: kaukopartiomies
+Puhuja 2: usein virheellisesti väitetään,
+Puhuja 2: vaan en muista sitä termiä, mutta suoritti epätavallisia
 Puhuja 2: iskuja.
-Puhuja 2: Eikö siinä olisi uusia
-Puhuja 2: draaman aineksia?
-Puhuja 1: Se oli sama yksikkö, jossa Lauri Törssistä.
-Puhuja 1: Hän oli todella kova. Kiinnostavaa tietää, mitä ne käytännössä tekevät. Hyvin myyty. Mielenkiintoista. On. Lapsuus oli todella kiehtova. Se
-Puhuja 1: hänen Koiviston äiti kuoli, kun se oli aika nuori. Isä oli
-Puhuja 1: aika persoona.
-Puhuja 2: Vaikka
-Puhuja 2: aika tiukka? Uskovainen. Heidän
+Puhuja 2: Eikö siinä olisi
+Puhuja 2: uusia draaman aineksia?
+Puhuja 2: Se oli sama yksikkö, jossa Lauri Törstös. Joo, ja hän oli todella kova. Kiinnostavaa tietää, mitä ne käytännössä tekee. Hyvin myyty. Mielenkiintoista.
+Puhuja 1: Lapsuus oli todella kiehtova. Hänen
+Puhuja 1: koiviston äiti kuoli, kun se oli aika nuori ja isä oli
+Puhuja 2: aika persoona. Oliko se
+Puhuja 1: Uskovainen. Heidän
 Puhuja 1: ainut huvituksensa
-Puhuja 1: lapsena oli, että virsien vesui seuroilla.
-Puhuja 1: Maunusta tuli aika pessivistinen ihminen.
-Puhuja 2: Iso synkkä merimies.
-Puhuja 0: Aijaa okei, sinä et yli puuttua ehkä voi sanoa. Sekin on kiinnostavaa, miten hänen nuoruudessaan
+Puhuja 1: lapsena oli, kun virsien veissuissa
+Puhuja 1: seuroilla.
+Puhuja 1: Maunusta tuli aika pessivistinen ihminen. Iso synkkä merimies.
+Puhuja 2: On kiinnostava
+Puhuja 2: miten hänen nuoruudessaan
 Puhuja 2: oli kommunistien vastustaminen
 Puhuja 2: iso missio demareilla.
-Puhuja 2: Ja hänhän on tehnyt, kuten kaikki trivial Pursuit ja pelanneet tietävät, hänen granunsa nimi on Sosiaaliset suhteet Turun satamassa.
-Puhuja 2: Okei sori, siinä meni se juusto.
-Puhuja 2: Niin tuota, sosiaaliset suhteet Turun satamassa. Mutta sekin saattaa kuulostaa Tuomaksesta puisevalta,
-Puhuja 2: mutta
+Puhuja 2: Ja miten hän siis... Hänhän on tehnyt, kuten kaikki trivial pursuit ja pelanneet tietävät, hänen granunsa nimi on Sosiaaliset suhteet Turun satamassa.
+Puhuja 2: Väitöskirja.
+Puhuja 2: Keisari,
+Puhuja 2: siinä meni se juusto.
+Puhuja 2: Sosiaaliset
+Puhuja 2: suhteet Turun satamassa. Mutta
+Puhuja 2: sata kuulostaa Tuomaksesta
+Puhuja 2: puisvalta, mutta
 Puhuja 2: sekin on ollut sellaista sissitoimintaa,
 Puhuja 2: että mitä siellä on torpattu kommunistien.
-Puhuja 1: Maunalla oli joku lista,
-Puhuja 1: että siitä konkreettista, että ei saada päästä satamaan töihin. Ne on tosi konkreettista.
-Puhuja 0: Muistaakseni aiemmissa podcastissa. Olen tosi onnellinen,
+Puhuja 1: Maunalla oli joku lista.
+Puhuja 2: Kohta, Manu.
+Puhuja 0: Lupaan tutustua.
+Puhuja 0: Suosittelen saman kirjailijan
+Puhuja 0: aiempaakirjaa
+Puhuja 0: parissa muistaakseni
+Puhuja 0: aiemmissa podcast. Olen tosi onnellinen,
 Puhuja 0: että löysin Simon Wingsterin
-Puhuja 0: kirjatukset ja kirjat.
-Puhuja 0: Hän on nykyään amerikkalaistunut,
+Puhuja 0: kirjatukset
+Puhuja 0: ja hän on nykyään
+Puhuja 0: amerikkalaistunut,
+Puhuja 0: mutta
 Puhuja 0: brittialkujaan
-Puhuja 0: Guardianin entinen toimittaja,
-Puhuja 0: mutta viimeiset neljäkymmentä vuotta kirjoittanut kirjoja. Ollut matkailureportteri.
-Puhuja 0: Ja kirjoittaa valtavan
+Puhuja 0: Guardianin
+Puhuja 0: entinen toimittaja,
+Puhuja 0: mutta viimeiset neljäkymmentä vuotta kirjoittanut kirjoja, ollut matkailureportteri
+Puhuja 0: Ja
+Puhuja 0: kirjoittaa
+Puhuja 0: valtavan
 Puhuja 0: hienoja kirjoja. Haluan suositella semmoista Cracatoa
-Puhuja 0: The Day the World Exploded
-Puhuja 0: Ougust kolmekymmentämiljoonaa
-Puhuja 0: kaksituhatta seitsemäntoista. Kertoo Cracatan tulivuoren
+Puhuja 0: The
+Puhuja 0: Da the World Exploded, Ougast kaksituhatta seitsemäntoista tuhat kolmesataakahdeksankymmentäseitsemän.
+Puhuja 0: Kertoo Cracatan
+Puhuja 0: tulivuoren
 Puhuja 0: purkauksesta vuonna tuhat kahdeksansataakahdeksankymmentäkolme.
-Puhuja 0: Mutta kun tämän Vincesserin
-Puhuja 0: kirjoitustapa on silleen, että hän ottaa hyvin omituisen asian, mistä kirjoittaa.
-Puhuja 0: Tätä
-Puhuja 0: grakataanva
+Puhuja 0: Mutta kun tämän Vincestarin
+Puhuja 0: kirjoitustapa on silleen, että hän ottaa hyvin omituinen asian, mistä kirjoittaa.
+Puhuja 0: Tätä grakataanva
 Puhuja 0: aiempi kirja
-Puhuja 0: kertoi tarkkusinsinöörreistä.
-Puhuja 0: Siis hyvin tarkasta hienomekaniikasta,
-Puhuja 0: jostain tyyliin
-Puhuja 0: suihkumoottoreiden,
+Puhuja 0: kertoi
+Puhuja 0: tarkkusinsinöörreistä.
+Puhuja 0: Hyvin tarkasti hienomekaniikasta,
+Puhuja 0: josta tyyliin
+Puhuja 0: suihkumoottotereiden,
 Puhuja 0: niiden propellien
 Puhuja 0: valmistustekniikasta.
-Puhuja 0: Nyt seuraava kertoo
-Puhuja 0: tulivuoren purkauksesta
+Puhuja 0: Nyt seuraava kertoo tulivuorenpurkauksesta
 Puhuja 0: 1800-luvun
 Puhuja 0: lopussa. Hän tekee niin, että hän selittää sen aiheen ja sitten hän selittää kaikki linkit siitä ympäriltä.
-Puhuja 0: Koska Crakataan
-Puhuja 0: QAu
+Puhuja 0: Koska Crakataan Cracatau
 Puhuja 0: suomeksi, niin se sijaitsee
-Puhuja 0: Indonesian
-Puhuja 0: lähellä.
+Puhuja 0: Indonesian lähellä.
 Puhuja 0: 1800-luvun
 Puhuja 0: lopulla sillä alueella oli paljon maustekauppaa.
-Puhuja 0: Selittäistään tätä Cracadown
+Puhuja 0: Selittäessään
+Puhuja 0: Cracatawn
 Puhuja 0: purkausta, hän selittää sen.
 Puhuja 0: Hän pysähtyy ja nyt mennään tosi syvälle siihen, miten maustekauppa
 Puhuja 0: toimi
 Puhuja 0: 1800-luvun
-Puhuja 0: lopussa maailmassa. Hän selittää pippurikasvatuksesta ja miten Hollannissa perustettiin
-Puhuja 0: East India Company, joka löysi sen nopeimman reitin sinne. Pysähtyy, selittää kaiken tämän. Sitten hän vie samalla eteenpäin sitä Graca Town tarinaa, johon yhtäkkiä siihen liittyykin
-Puhuja 0: tarina geologian
-Puhuja 0: tieteenhaaran synnystä. Sitten hän selittää tästä tyypistä, joka kehitti geologian tieteenalana ja näin.
-Puhuja 0: Mikä tahansa, aihe on yleensä vähän obsguuri, mutta hän selittää koko maailman siitä ympäriltä. Se on jotenkin ihan pohjattoman
-Puhuja 0: mielenkiintoinen, hieno ja uskomattoman hyvä kirjoittaa. Simon Winchester.
-Puhuja 0: Kirja oli Cracatow,
-Puhuja 0: Cracatoa The Da the World Exloded Ougast kolmekymmentä Semment tuhat yhdeksänsataaseitsemänkymmentäkahdeksan.
-Puhuja 2: Varmasti löytyy suomennettunakin. Sä oot selvästi sivistynyt tässä viime aikoina.
-Puhuja 0: Tai tyhmentynyt,
-Puhuja 0: joululomalla yleensä ihmisellä tapaan.
-Puhuja 0: Kiitos tästä viikosta. Kiitos Marko Junkkari.
-Puhuja 0: Kiitos. Kiitos Hanna Mahlamäki. Kiitos. Kovasti onnea vain Berliinin kirjeenvaihtajuuteen,
-Puhuja 0: joka siis sehän kestää
-Puhuja 0: neljä vuotta. Mahdollisesti kolme vuotta. Mahdollisesti kolme vuotta. Mahdollisesti kolme vuotta.
-Puhuja 0: Äänen, kuvan ja kaiken mahtavan meille tekee tällä viikolla
-Puhuja 0: Kristelr
+Puhuja 0: lopussa maailmassa. Hän selittää pippuri kasvatuksesta ja miten Hollannissa perustettiin
+Puhuja 0: East India company, joka löysi nopeimman reitin sinne.
+Puhuja 0: Pysähtyy, selittää kaiken tämän. Sitten hän vie samalla eteenpäin Graga Town tarinaa, johon yhtäkkiä siihen liittyykin
+Puhuja 0: tarina
+Puhuja 0: geologian
+Puhuja 0: tieteenhaaran
+Puhuja 0: synnystä. Sitten hän selittää tästä tyypistä, joka kehitti geologian tieteenalana ja näin.
+Puhuja 0: Mikä tahansa, aihe on yleensä vähän obsguuri, mutta hän selittää sen koko maailman siitä ympäriltä. Se on jotenkin
+Puhuja 0: ihan pohjattoman
+Puhuja 0: mielenkiintoinen ja hieno ja uskomattoman hyvä kirjoittaa. Simon Wingestter.
+Puhuja 0: Kirja oli Cracatoa
+Puhuja 0: The Data the World Exploded Ougust
+Puhuja 0: kolmekymmentä tuhat yhdeksänsataaseitsemänkymmentäyhdeksän.
+Puhuja 2: Varmasti löytyy suomennettunakin. Olet selvästi sivistynyt tässä viime aikoina.
+Puhuja 0: Tai tyhmentynyt.
+Puhuja 0: Joulu maailmalla yleensä ihmisellä tapaan.
+Puhuja 0: Kiitos tästä viikosta. Kiitos Marko Junkkari. Kiitos.
+Puhuja 0: Kiitos Hanna Mahlamäki. Kiitos. Kovasti onnea vain Berliinin
+Puhuja 0: kirjeenvaihtajuuteen, joka siis sehän kestää
+Puhuja 0: neljä vuotta. Mahdollisesti kolme vuotta. Mahdollisesti kolme vuotta.
+Puhuja 0: Äänenäkuvan
+Puhuja 0: ja kaiken mahtavan meille tekee tällä viikolla
+Puhuja 0: Krister
 Puhuja 0: Marttinen.
-Puhuja 0: Minun nimeni on Peltolamäki ja me kuullaan taas ensi viikolla.
-Puhuja 0: Hyvä!
+Puhuja 0: Minun nimeni on Tuomas Peltolaki ja me kuullaan taas ensi viikolla.
+Puhuja 0: Hyvä.
+Puhuja 0: Yritystappio syntyi. Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties
+Puhuja 0: maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko,
+Puhuja 0: joka lähti 70-luvulla Suomesta kohti Kaliforniaa.
+Puhuja 0: Ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina
+Puhuja 0: aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
