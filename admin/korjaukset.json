@@ -1364,5 +1364,168 @@
         "ihmisoikeudet"
       ]
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/800018479",
+    "jakso_otsikko": "16.4.2020: Uudenmaan vapautus, Trump vs WHO, taloussukellus",
+    "paivamaara": "16.4.2020",
+    "r_idx": 0,
+    "teos": "The Atlantic -lehti",
+    "uusi_data": {
+      "teos": "The Atlantic -lehti",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=The+Atlantic+lehti",
+      "lisatieto_linkki": "https://www.theatlantic.com",
+      "kuvaus": "Amerikkalainen laatuaikakauslehti, josta Tuomas tarkistaa aina ensimmäisenä, onko aiheesta kirjoitettu. Sohvin mukaan Atlantic lähestyy aiheita suurten kysymysten ja ajatusten kautta, kun New Yorker kertoo tarinoita.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "media",
+        "journalismi",
+        "yhdysvallat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1901910282",
+    "jakso_otsikko": "22.8.2024: Ministerinvaihdos, marjaviulut, sähköpotkulaudat",
+    "paivamaara": "22.8.2024",
+    "r_idx": 4,
+    "teos": "Väkivallan historia",
+    "uusi_data": {
+      "teos": "Väkivallan historia",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
+      "kuvaus": "Édouard Louisin omaelämäkerrallinen romaani, joka käsittelee toiseuden tunnetta ja omistajuutta omasta tarinasta. Joonan mukaan se on selvästi parempi kuin Louisin esikoinen Ei enää Eddy – kirjallisesti laadukas ja kiinnostavasti kirjoitettu.",
+      "suosittelija": "Joona Aaltonen",
+      "kategoriat": [
+        "omaelämäkerrallinen",
+        "ranskalaiskirjallisuus",
+        "yhteiskunta"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/800018479",
+    "jakso_otsikko": "16.4.2020: Uudenmaan vapautus, Trump vs WHO, taloussukellus",
+    "paivamaara": "16.4.2020",
+    "r_idx": 3,
+    "teos": "Veitsi",
+    "uusi_data": {
+      "teos": "Veitsi",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Jo+Nesbø+Veitsi",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Jo+Nesb%C3%B8+Veitsi",
+      "kuvaus": "Jo Nesbøn Harry Hole -dekkari, joka oli koronakeväänä ensimmäinen kirja, jonka Sohvi sai luettua alusta loppuun. Hänen mukaansa kirja oli ihan hyvä, vaikka murhista ja raiskauksista kertovaa juonta on vaikea selostaa ilman juonipaljastuksia.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "dekkari",
+        "jännitys"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/800018479",
+    "jakso_otsikko": "16.4.2020: Uudenmaan vapautus, Trump vs WHO, taloussukellus",
+    "paivamaara": "16.4.2020",
+    "r_idx": 4,
+    "teos": "NPR (National Public Radio)",
+    "uusi_data": {
+      "teos": "NPR (National Public Radio)",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=NPR+National+Public+Radio",
+      "lisatieto_linkki": "https://open.spotify.com/search/NPR",
+      "kuvaus": "Yhdysvaltain julkinen puheradio, jonka aamu- ja iltaohjelmia Sohvi kuuntelee Suomesta käsin. Hänen mukaansa NPR:stä saa hyvän kuvan amerikkalaisesta keskustelusta maltilliseen, kaapelikanavista poikkeavaan sävyyn.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "radio",
+        "uutiset",
+        "Yhdysvallat"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/800018479",
+    "jakso_otsikko": "16.4.2020: Uudenmaan vapautus, Trump vs WHO, taloussukellus",
+    "paivamaara": "16.4.2020",
+    "r_idx": 5,
+    "teos": "Floodlines",
+    "uusi_data": {
+      "teos": "Floodlines",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Floodlines+podcast+The+Atlantic",
+      "lisatieto_linkki": "https://open.spotify.com/search/Floodlines",
+      "kuvaus": "The Atlanticin podcastsarja hurrikaani Katrinasta ja siitä, mitä pienikin katastrofi voi Yhdysvalloissa aiheuttaa. Sohvia pysäytti jakso, jossa liittovaltion katastrofiviraston FEMA:n johtaja toteaa, ettei apua kannata odottaa.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "dokumentti",
+        "Yhdysvallat"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/800018479",
+    "jakso_otsikko": "16.4.2020: Uudenmaan vapautus, Trump vs WHO, taloussukellus",
+    "paivamaara": "16.4.2020",
+    "r_idx": 6,
+    "teos": "Audm",
+    "uusi_data": {
+      "teos": "Audm",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Audm+app",
+      "lisatieto_linkki": "",
+      "kuvaus": "Sovellus, jolla voi kuunnella amerikkalaisten laatumedioiden pitkiä juttuja ääneen luettuina. Tuomas kuuntelee sillä paljon ja kehuu sitä mahtavaksi.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "sovellus",
+        "journalismi"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1901910282",
+    "jakso_otsikko": "22.8.2024: Ministerinvaihdos, marjaviulut, sähköpotkulaudat",
+    "paivamaara": "22.8.2024",
+    "r_idx": 5,
+    "teos": "Do You Know Mordechai?",
+    "uusi_data": {
+      "teos": "Do You Know Mordechai?",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Do+You+Know+Mordechai+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Do%20You%20Know%20Mordechai",
+      "kuvaus": "USG Audion kuusiosainen podcast-sarja miehestä, jolla on monta identiteettiä. Heinin mielestä erityisen kiinnostavaa on, että yhdessä jaksossa haastatellaan itse huijaria.",
+      "suosittelija": "Heini Pitkänen",
+      "kategoriat": [
+        "true crime",
+        "huijarit"
+      ],
+      "alkupera": "ulkomainen"
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1901910282",
+    "jakso_otsikko": "22.8.2024: Ministerinvaihdos, marjaviulut, sähköpotkulaudat",
+    "paivamaara": "22.8.2024",
+    "r_idx": 6,
+    "teos": "Believable: The Coco Berthmann Story",
+    "uusi_data": {
+      "teos": "Believable: The Coco Berthmann Story",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Believable+The+Coco+Berthmann+Story+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Believable%20The%20Coco%20Berthmann%20Story",
+      "kuvaus": "Podcast naisesta, joka kertoo traagisesta lapsuudestaan Saksassa ja rakentaa tarinalla uran, kunnes joku alkaa epäillä sen todenperäisyyttä; toimittaja selvittää asiaa Saksan ja Yhdysvaltojen välillä. Heini kuunteli pitkän sarjan putkeen ja kiittää sitä, ettei tarina jää auki.",
+      "suosittelija": "Heini Pitkänen",
+      "kategoriat": [
+        "true crime",
+        "huijarit"
+      ],
+      "alkupera": "ulkomainen"
+    }
   }
 ]
