@@ -14658,8 +14658,8 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 4,
-        "is_suspicious": true,
-        "suosittelija": "Marko Junkkari",
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
         "teos": "Väkivallan historia",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -14667,10 +14667,42 @@ window.VALIDATION_DATA = [
           "ranskalaiskirjallisuus",
           "yhteiskunta"
         ],
-        "kuvaus": "Édouard Louisin toinen kirja, joka käsittelee toiseuden tunnetta ja omistajuutta omasta tarinasta. Suosittelijan mukaan huomattavasti parempi kuin Louisin ensiteos 'Ei enää Eddy' – kirjallisesti laadukas ja mielenkiintoisesti kirjoitettu.",
+        "kuvaus": "Édouard Louisin omaelämäkerrallinen romaani, joka käsittelee toiseuden tunnetta ja omistajuutta omasta tarinasta. Joonan mukaan se on selvästi parempi kuin Louisin esikoinen Ei enää Eddy – kirjallisesti laadukas ja kiinnostavasti kirjoitettu.",
         "google_linkki": "https://www.google.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
         "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Do You Know Mordechai?",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "true crime",
+          "huijarit"
+        ],
+        "kuvaus": "USG Audion kuusiosainen podcast-sarja miehestä, jolla on monta identiteettiä. Heinin mielestä erityisen kiinnostavaa on, että yhdessä jaksossa haastatellaan itse huijaria.",
+        "google_linkki": "https://www.google.com/search?q=Do+You+Know+Mordechai+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Do%20You%20Know%20Mordechai",
+        "alkupera": "ulkomainen",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 6,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Believable: The Coco Berthmann Story",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "true crime",
+          "huijarit"
+        ],
+        "kuvaus": "Podcast naisesta, joka kertoo traagisesta lapsuudestaan Saksassa ja rakentaa tarinalla uran, kunnes joku alkaa epäillä sen todenperäisyyttä; toimittaja selvittää asiaa Saksan ja Yhdysvaltojen välillä. Heini kuunteli pitkän sarjan putkeen ja kiittää sitä, ettei tarina jää auki.",
+        "google_linkki": "https://www.google.com/search?q=Believable+The+Coco+Berthmann+Story+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Believable%20The%20Coco%20Berthmann%20Story",
+        "alkupera": "ulkomainen",
         "lisalinkit": []
       }
     ]
@@ -21197,7 +21229,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "The Atlantic -lehti",
         "paakategoria": "muu",
         "kategoriat": [
@@ -21205,7 +21237,7 @@ window.VALIDATION_DATA = [
           "journalismi",
           "yhdysvallat"
         ],
-        "kuvaus": "Amerikkalainen laatuaikakauslehti, joka lähestyy aiheita suurten kysymysten ja ajatusten kautta. Hyvä lähde, kun haluaa syvällisen näkökulman johonkin aiheeseen.",
+        "kuvaus": "Amerikkalainen laatuaikakauslehti, josta Tuomas tarkistaa aina ensimmäisenä, onko aiheesta kirjoitettu. Sohvin mukaan Atlantic lähestyy aiheita suurten kysymysten ja ajatusten kautta, kun New Yorker kertoo tarinoita.",
         "google_linkki": "https://www.google.com/search?q=The+Atlantic+lehti",
         "lisatieto_linkki": "https://www.theatlantic.com",
         "alkupera": "",
@@ -21242,6 +21274,71 @@ window.VALIDATION_DATA = [
         "kuvaus": "Netflixin dokumenttisarja tiikeritarhojen maailmasta, joka alkaa mielenkiintoisena luontodokumenttina mutta muuttuu nopeasti koukuttavaksi murhamysteeriksi täynnä uskomattomia käänteitä.",
         "google_linkki": "https://www.google.com/search?q=Tiger+King+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tiger+King",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Veitsi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "jännitys"
+        ],
+        "kuvaus": "Jo Nesbøn Harry Hole -dekkari, joka oli koronakeväänä ensimmäinen kirja, jonka Sohvi sai luettua alusta loppuun. Hänen mukaansa kirja oli ihan hyvä, vaikka murhista ja raiskauksista kertovaa juonta on vaikea selostaa ilman juonipaljastuksia.",
+        "google_linkki": "https://www.google.com/search?q=Jo+Nesbø+Veitsi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jo+Nesb%C3%B8+Veitsi",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "NPR (National Public Radio)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "radio",
+          "uutiset",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Yhdysvaltain julkinen puheradio, jonka aamu- ja iltaohjelmia Sohvi kuuntelee Suomesta käsin. Hänen mukaansa NPR:stä saa hyvän kuvan amerikkalaisesta keskustelusta maltilliseen, kaapelikanavista poikkeavaan sävyyn.",
+        "google_linkki": "https://www.google.com/search?q=NPR+National+Public+Radio",
+        "lisatieto_linkki": "https://open.spotify.com/search/NPR",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Floodlines",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "dokumentti",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "The Atlanticin podcastsarja hurrikaani Katrinasta ja siitä, mitä pienikin katastrofi voi Yhdysvalloissa aiheuttaa. Sohvia pysäytti jakso, jossa liittovaltion katastrofiviraston FEMA:n johtaja toteaa, ettei apua kannata odottaa.",
+        "google_linkki": "https://www.google.com/search?q=Floodlines+podcast+The+Atlantic",
+        "lisatieto_linkki": "https://open.spotify.com/search/Floodlines",
+        "alkupera": "",
+        "lisalinkit": []
+      },
+      {
+        "r_idx": 6,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Audm",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sovellus",
+          "journalismi"
+        ],
+        "kuvaus": "Sovellus, jolla voi kuunnella amerikkalaisten laatumedioiden pitkiä juttuja ääneen luettuina. Tuomas kuuntelee sillä paljon ja kehuu sitä mahtavaksi.",
+        "google_linkki": "https://www.google.com/search?q=Audm+app",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": []
       }
