@@ -4639,7 +4639,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Pauliina Siniauer",
         "teos": "Ovi oli koko ajan auki",
         "paakategoria": "artikkeli",
         "kategoriat": [
