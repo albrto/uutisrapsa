@@ -304,6 +304,9 @@ def main():
     parser.add_argument("--jaksot", help="välilyönnillä tai rivinvaihdolla erotetut jakso-id:t")
     parser.add_argument("--jaksot-tiedosto", help="tiedosto, jossa jakso-id:t (yksi per rivi; muut sarakkeet ohitetaan)")
     parser.add_argument("--yhteenveto", action="store_true", help="tulosta vain aiemmat tulokset")
+    parser.add_argument("--vain-litterointi", action="store_true",
+                        help="hae/litteroi jonon transkriptiot Deepgramilla ilman Claude-kutsuja "
+                             "(arviointi tehdään sitten esim. Claude Coden agenteilla)")
     parser.add_argument("--uudelleen", action="store_true",
                         help="aja --jaksot-jaksot uudelleen (korvaa aiemman tuloksen, esim. promptimuutoksen jälkeen)")
     args = parser.parse_args()
@@ -341,6 +344,26 @@ def main():
     valmiit = {e["jakso_id"] for e in ehdotukset}
     jono = valitse_jono(args, pisteytys, rss_kartta, valmiit)
     print(f"Jonossa {len(jono)} jaksoa.\n")
+
+    if args.vain_litterointi:
+        # Ei Claude-kutsuja: vain transkriptiot välimuistiin (transkriptit/), 0 $ Claudelle
+        minuutit = 0.0
+        for i, p in enumerate(jono, 1):
+            jakso = data.get(p["jakso_id"])
+            entry = rss_kartta.get(p["jakso_id"])
+            if not jakso or not entry:
+                continue
+            print(f"[{i}/{len(jono)}] {jakso['paivamaara']} — {jakso['jakso_otsikko'][:70]}")
+            audio_url = next((l.href for l in entry.get("links", []) if "audio" in l.get("type", "")), None)
+            try:
+                teksti, min_ = hae_transkripti(p["jakso_id"], audio_url)
+            except Exception as e:
+                print(f"  ❌ Virhe: {e}")
+                continue
+            minuutit += min_
+            print(f"  → {len(teksti or '')} merkkiä")
+        print(f"\nLitteroitu {minuutit:.0f} min ≈ {minuutit * DEEPGRAM_MINUUTTIHINTA:.2f} $ (arvio)")
+        return
 
     client = paa.anthropic.Anthropic(api_key=paa.ANTHROPIC_API_KEY)
     for i, p in enumerate(jono, 1):

@@ -28,3 +28,5 @@ pipeline/temp_tarkistus_*.mp3
 .claude/
 pipeline/korjaukset_applied_*.json
 pipeline/tarkistusjono_*.txt
+pipeline/agenttiarvio/erat/
+pipeline/agenttiarvio/tulokset/

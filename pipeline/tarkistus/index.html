@@ -223,6 +223,8 @@ function piirraJakso(j, avoimia) {
       ${j.otos && j.otos !== "-" ? `<span class="tagi">${esc(j.otos)}</span>` : ""}
     </div>
     <div class="meta">Studiossa: ${osallistujat.length ? esc(osallistujat.join(", ")) : "ei tiedossa (RSS)"} · sivulla ${j.vanhat.length}, uusi poiminta ${j.uusia}</div>
+    ${j.puhujat ? `<div class="meta">Puhujat (Clauden tulkinta): ${esc(j.puhujat)}</div>` : ""}
+    ${(j.huomiot || []).length ? `<details class="nykyiset"><summary>Clauden muut huomiot (${j.huomiot.length})</summary><ul>${j.huomiot.map(h => `<li>${esc(h)}</li>`).join("")}</ul></details>` : ""}
     <details class="nykyiset"><summary>Sivulla nyt (${j.vanhat.length})</summary><ol start="0">${nykyiset || "<li>—</li>"}</ol></details>
     ${erot}
   </section>`;

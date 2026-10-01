@@ -71,7 +71,9 @@ def kokoa_data():
             erot.append(ero)
         jaksot.append({
             **{k: e.get(k) for k in ("jakso_id", "jakso_otsikko", "paivamaara", "osallistujat_rss",
-                                     "osallistujat_tiukka", "pisteet", "syyt", "otos", "uusia")},
+                                     "osallistujat_tiukka", "pisteet", "syyt", "otos", "uusia", "puhujat")},
+            # Agenttiarvioinnin lisähuomiot (esim. kuvauksen kirjoitusvirhe sivulla)
+            "huomiot": e.get("varoitukset", []) if e.get("otos") == "agentti" else [],
             "vanhat": vanhat,
             "erot": erot,
             "transkriptio": os.path.exists(transkriptin_polku(e["jakso_id"])),
