@@ -1222,5 +1222,147 @@
         "country"
       ]
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1174711135",
+    "jakso_otsikko": "9.12.2021: Natsien terrori-isku, Sanna Marinin paardit, taistolaisuus vs woketus",
+    "paivamaara": "9.12.2021",
+    "r_idx": 2,
+    "teos": "Sivullinen-kirjakauppa, Kaisaniemi",
+    "uusi_data": {
+      "teos": "Sivullinen-kirjakauppa, Kaisaniemi",
+      "paakategoria": "kulttuuri",
+      "google_linkki": "https://www.google.com/search?q=Sivullinen+kirjakauppa+Kaisaniemi+Helsinki",
+      "lisatieto_linkki": "https://www.google.com/search?q=Sivullinen+kirjakauppa+Kaisaniemi+Helsinki",
+      "kuvaus": "Maria suosittelee Kaisaniemeen avattua Sivullista, Hannu Paloviidan ja Rosebud-kirjakauppojen uutta kirjakauppaa, joka tekee hänet onnelliseksi: siellä on paljon hyviä ja vanhoja kirjoja, klassikoita, vieraskielisiä teoksia ja pöytiä lukemiseen.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "kirjakauppa",
+        "Helsinki",
+        "kulttuuri"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1174711135",
+    "jakso_otsikko": "9.12.2021: Natsien terrori-isku, Sanna Marinin paardit, taistolaisuus vs woketus",
+    "paivamaara": "9.12.2021",
+    "r_idx": 3,
+    "teos": "Kirjakauppakahvilassa vierailu matkoilla ja kirjan ostaminen matkamuistoksi",
+    "uusi_data": {
+      "teos": "Kirjakauppakahvilassa vierailu matkoilla ja kirjan ostaminen matkamuistoksi",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas suosittelee, että aina uuteen kaupunkiin matkustaessa kannattaa etsiä kirjakauppakahvila, ostaa sieltä kirja ja säilyttää ostokuitti kirjan välissä muistona matkasta.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "matkailu",
+        "kirjat",
+        "elämäntapa"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1174711135",
+    "jakso_otsikko": "9.12.2021: Natsien terrori-isku, Sanna Marinin paardit, taistolaisuus vs woketus",
+    "paivamaara": "9.12.2021",
+    "r_idx": 4,
+    "teos": "James Somers (toimittaja, jsomers.net)",
+    "uusi_data": {
+      "teos": "James Somers (toimittaja, jsomers.net)",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=James+Somers+jsomers.net",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas suosittelee seuraamaan toimittaja James Somersin kirjoituksia yleisesti ja vinkkaa hänen kotisivustaan jsomers.net, jonne on koottu kaikki hänen artikkelinsa.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "journalismi",
+        "kirjoittaja"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/910937410",
+    "jakso_otsikko": "15.10.2020: Maskikalapaliikki, sote-uudistus, kalifaatti",
+    "paivamaara": "15.10.2020",
+    "r_idx": 0,
+    "teos": "Marianne & Leonard: Sanoja rakkaudesta",
+    "uusi_data": {
+      "teos": "Marianne & Leonard: Sanoja rakkaudesta",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=Marianne+%26+Leonard+Words+of+Love+dokumentti",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Marianne+%26+Leonard+Words+of+Love",
+      "kuvaus": "Dokumenttielokuva Leonard Cohenin ja Marianne Ihlenin rakkaustarinasta, 1960-luvun vapaasta rakkaudesta Kreikan Hydran saarella ja heidän elämänsä traagisista käänteistä. Maria katsoi sen kahdesti saman viikonlopun aikana.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "dokumentti",
+        "musiikki",
+        "rakkaus"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/910937410",
+    "jakso_otsikko": "15.10.2020: Maskikalapaliikki, sote-uudistus, kalifaatti",
+    "paivamaara": "15.10.2020",
+    "r_idx": 1,
+    "teos": "Chaos: Making a New Science",
+    "uusi_data": {
+      "teos": "Chaos: Making a New Science",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Chaos+Making+a+New+Science+James+Gleick",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Chaos+Making+a+New+Science+James+Gleick",
+      "kuvaus": "James Gleickin klassikkoteos kaaostutkimuksen synnystä. Tuomaksen mielestä kirja on erinomainen ja hyvin kirjoitettu: matematiikka luo illuusion järjestyksestä, vaikka todellisuus on pohjimmiltaan kaaosta.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "luonnontiede",
+        "matematiikka",
+        "tietokirja"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/910937410",
+    "jakso_otsikko": "15.10.2020: Maskikalapaliikki, sote-uudistus, kalifaatti",
+    "paivamaara": "15.10.2020",
+    "r_idx": 2,
+    "teos": "Kovan tieteen (esim. suhteellisuusteorian) kuunteleminen nukahtamisen apuna",
+    "uusi_data": {
+      "teos": "Kovan tieteen (esim. suhteellisuusteorian) kuunteleminen nukahtamisen apuna",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas suosittelee abstraktin fysiikan, kuten suhteellisuusteorian, lukemista ja kuuntelemista unen apuna, sillä sen käsittämätön abstraktius rentouttaa aivot ennen nukkumaanmenoa.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "elämäntapa",
+        "tiede",
+        "uni"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1527802474",
+    "jakso_otsikko": "1.6.2023: Rkp vs. ps, vihreiden pj-kisa, IL:n Ukraina-jutut",
+    "paivamaara": "1.6.2023",
+    "r_idx": 2,
+    "teos": "Riistetyt",
+    "uusi_data": {
+      "teos": "Riistetyt",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Riistetyt+dokumenttisarja+Yle+Janette+Björqvist",
+      "lisatieto_linkki": "https://imdb.com/find/?q=Riistetyt",
+      "kuvaus": "Tuomas suosittelee Janette Björqvistin ohjaamaa kolmiosaista suomalaista dokumenttisarjaa, joka käsittelee ihmiskauppaa, työperäistä orjuutta ja alaikäisinä Suomeen tulleita pakolaisia. Sarja löytyy Yle Areenasta, ja Tuomaksen mukaan se näyttää television voiman, kun ihmiset näkee omin silmin.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "dokumentti",
+        "maahanmuutto",
+        "ihmisoikeudet"
+      ]
+    }
   }
 ]
