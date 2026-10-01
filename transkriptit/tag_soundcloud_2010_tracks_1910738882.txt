@@ -1,223 +1,505 @@
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
-Puhuja 0: torstaina
-Puhuja 0: viisi. Syyskuuta,
-Puhuja 0: vaikka ei tästä
-Puhuja 0: trooppisesta ilmasta uskoisi,
-Puhuja 0: vuonna
-Puhuja 0: kaksikymmentäneljä mun nimi on Tuomas Peltomäki ja kansenin täällä Helsingin Sanomien
-Puhuja 0: Väli-podcast
-Puhuja 0: studiossa viidennessä kerroksessa
-Puhuja 0: lasisessa,
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin.
+Puhuja 0: Torstaina
+Puhuja 0: viisi. Päivä syyskuuta,
+Puhuja 0: vaikka ei tästä trooppisesta ilmasta uskoisi,
+Puhuja 0: vuonna kaksituhatta
+Puhuja 0: kaksikymmentäneljä mun nimi on Tuomas Peltomäki ja kanselin täällä Helsingin Sanomien Väli-podcast
+Puhuja 0: studiossa
+Puhuja 0: viidennessä kerroksessa
+Puhuja 0: lasisessa
 Puhuja 0: arkkitehtonisessa
-Puhuja 0: luomuksessa Helsingin keskustassa nimeltä Sanomatalo
-Puhuja 0: ovat?
+Puhuja 0: luomuksessa Helsingin keskustassa nimeltä Sanomat talo ovat.
 Puhuja 0: Annosvia Perner,
-Puhuja 0: ystävien kesken Sohvi. Hei vaan Sohvi. Heipä hei.
-Puhuja 0: Ja kuten
+Puhuja 0: ystävien kesken, Sohvi. Hei vaan Sohvi. Heipä hei. Ja
+Puhuja 0: kuten
 Puhuja 0: Vienasta
-Puhuja 0: hengitysäänestä
-Puhuja 0: korvissane voitte ehkä kuulla. Paikalla on myös
-Puhuja 2: kirjailija Marko Junkkari. Hei Marko! No heissan, aivan vienu hengitysain kuuluu.
-Puhuja 0: Katsotaan,
-Puhuja 0: mitä taikuuksia Mikko sille tekee.
-Puhuja 0: Hei Marko, sä olet palannut tämän podcastin
+Puhuja 0: hengitysaäänestä
+Puhuja 0: korvissanne voitte ehkä kuulla, niin paikalla on myös
+Puhuja 0: kirjailija. Marko Junkkari. Hei Marko. No heissan,
+Puhuja 2: vieno hengitysääni kuuluu.
+Puhuja 0: Katsotaan, mitä
+Puhuja 0: taikuuksia Mikko sille tekee.
+Puhuja 0: Hei Marko, sä oot palannut tämän podcastin
 Puhuja 0: seuraan.
-Puhuja 0: Oltuas poissa kuinka ollaan?
-Puhuja 2: Puoli vuotta. Mähän kävelsin silloin. Mehän oltiin silloin eurovaalien aikaan.
-Puhuja 2: Käläsin.
-Puhuja 2: Puoli vuotta periaatteessa maaliskuun alusta lähtien poissa. No
-Puhuja 0: miltä se on tuntunut
-Puhuja 0: vapaa Herran elämästä palata tänne niskailimassa horjana painamaan
-Puhuja 0: sanomaa osakeyhtiölle
+Puhuja 0: Oltuas pois, kuinka ollaan?
+Puhuja 2: Puoli vuotta. Mähän käväsin silloin. Vähän oltiin silloin eurovaalien aikaan. Kävelisin
+Puhuja 2: puoli vuotta periaatteessa maaliskuun alusta lähtien poissa.
+Puhuja 0: No miltä se on tuntunut
+Puhuja 0: vapaaherran elämästä palata tänne niskailimassa
+Puhuja 0: horjana painamaan
+Puhuja 0: sanoma osakeyhtiölle
 Puhuja 0: voittoa?
-Puhuja 2: Niin, no kiva täällä podcasttudiossa
-Puhuja 2: ainakin.
-Puhuja 2: Hyläisenä. Mä itse asiassa hain juuri äsken Otavalta
+Puhuja 2: Niin. No kiva on täällä podcasttudiossa
+Puhuja 2: aikanaan.
+Puhuja 2: Hyväläisenä. Itse asiassa hain juuri äsken Otavalta
 Puhuja 2: tämän kirjan vedokset. No
-Puhuja 2: niin, niin siellä ei voi käsin kosketella sitä.
+Puhuja 2: niin! Siellä ei voi jo käsin kosketella sitä.
 Puhuja 0: Tämähän on
 Puhuja 0: oikeastaan
 Puhuja 0: meidän pelkkä mainosaalusta
-Puhuja 0: omille tekemiselle tämä podcast. Joten kaikin mokomin kerro tähän heti kärkeen, että mikä se sun kirjailija on, mistä sitä voi ostaa ja paljonko se maksaa?
-Puhuja 2: Mähän kerroin silloin, kun jäin. Tämä on
-Puhuja 2: vakuutusyhtiö Pohjolan ympärillä käydyistä valtataisteluista
-Puhuja 2: vuosituhannen vaihteessa. Käytännössä
-Puhuja 2: yhdeksänkymmentä vuotta.
-Puhuja 2: Jootte sellaisen.
-Puhuja 2: Ja Kimmo Kiljonen sattuu kävelemään ohi siitä ja Riikka Purra menee toiseen suuntaan, niin mitäs heille huikkailette
-Puhuja 2: siitä terassille?
-Puhuja 2: En tiedä huikkaisinko heille, mutta voisin mainostaa. Käsittääkseni tänään ilmestyy
+Puhuja 0: omille tekemisille podcast.
+Puhuja 0: Kaikin mokomin kerro tähän heti kärkeen, että
+Puhuja 0: mikä se sinun kirjasi on, mistä sitä voi ostaa ja paljonko se maksaa?
+Puhuja 2: Tuota, minähän kerroin silloin, kun jäin. Tämä on vakuutusyhtiö
+Puhuja 2: Pohjolan ympärillä käydyistä valtataisteluista
+Puhuja 2: vuosituhannen vaihteessa,
+Puhuja 2: käytännössä
+Puhuja 2: yhdeksänkymmentäkuusi
+Puhuja 2: kaksituhatta viisi.
+Puhuja 2: Siellähän tapahtui kaikenlaista
+Puhuja 2: ja sitten siinä samalla yritän kertoa miten
+Puhuja 2: markkinatalous tuli Suomeen. Eihän siinä ole
+Puhuja 2: tai jos se ei ole koskaan tänne tullutkaan, mutta miten markkinatalous yritti tulla Suomeen. Kohta. Se kertoo...
+Puhuja 2: No sitten Pohjolan tarina joo, mutta ennen kaikkea miten Suomi muuttui 1990-luvulla.
+Puhuja 2: Tämä oli tämmöinen
+Puhuja 2: hyvin sisäänpäin kääntynyt.
+Puhuja 2: Vuonna tuhat yhdeksänsataayhdeksänkymmentäkolme purettiin
+Puhuja 2: viimeiset rajoitukset ulkomaalaiset ja alkaa sijoittaa Suomeen. Siihenhän Suomi on ollut tällainen, että täällä Vuorineuvokset keskenään päätti kaiken ja
+Puhuja 2: oltiin tämmöinen impivaara täällä pohjolan perukoilla. Tämmöinen slaavimaa.
+Puhuja 2: Ja sitten ulkomaalaiset
+Puhuja 2: sijoittajat rupesi
+Puhuja 2: vaatimaan jotain tolkkua yritysten toimintaa.
+Puhuja 2: Jotain tuottoa pääomalle. Tuottoa pääomalle ja sitä, että yritys jakautuisi vaikka osinkoja ja sitä, että
+Puhuja 2: Pohjolan pääjohtaja ei nyt saa ostaa kaksikymmentä
+Puhuja 2: ensimmäistä Kelamökkeen, kun kaksikymmentä pitää yötä.
+Puhuja 1: Markon
+Puhuja 1: kirjan nimi
+Puhuja 1: on hyvin dramaattinen kuten ehkä omanikin, myös samalta kustantamolta.
+Puhuja 1: Vallan linnakkeen viimeinen
+Puhuja 1: taisto.
+Puhuja 0: Vau,
+Puhuja 0: jännittävää. Nyt jo haluaisin lyödä sulle taaloja koululle.
+Puhuja 1: Mutta vasta lokakuussa.
+Puhuja 2: Ilves jo lokakuussa ja
+Puhuja 2: suosittelee, että kaikki ostaa sieltä. Kirja on aika hyvä. Me varmasti...
+Puhuja 0: Koko Premisse ja
+Puhuja 0: kaikki siinä. Totta kai mestarillinen
+Puhuja 0: kirjoittaja
+Puhuja 0: ja suomalaisen
+Puhuja 0: yhteiskunnan viisas tuntia on sen
+Puhuja 0: kirjoittanut. Jo niillä meriiteillä se kannattaa
+Puhuja 0: ostaa. Ilman muuta.
+Puhuja 0: Mutta tämän viikon podcastissa me keskustellaan
+Puhuja 0: siis valtiovarainministeri
+Puhuja 0: Riikka Purran budjetin käsittelystä
+Puhuja 0: hallituksen budjettiriihessä.
+Puhuja 0: Keskustelu, joka toi kaikenlaista pientä esille
+Puhuja 0: hallituksen
+Puhuja 0: päätöksistä,
+Puhuja 0: mutta myös
+Puhuja 0: ihan erinomaista keskustelua esimerkiksi
+Puhuja 0: kulttuurin roolista ja merkityksestä
+Puhuja 0: Suomessa.
+Puhuja 0: Keskustellaan siitäkin.
+Puhuja 0: Myös puhutaan SDP:stä,
+Puhuja 0: jonka gallup Nousen seurauksena on ollut
+Puhuja 0: valtiovaaleissa, Saksassa ja Tyringenissä.
+Puhuja 0: Erityisesti Tyringenissä
+Puhuja 0: vaalitulos
+Puhuja 0: oli pysäyttävä.
+Puhuja 0: Kirjoittaa siis Helsingin Sanomien Saksankirjavaihtaja
+Puhuja 0: Sui Turtiainen.
+Puhuja 0: Ensimmäistä kertaa natsejan jälkeen Saksan osavaltiossa suurinoikeistolainen
+Puhuja 0: puolue nousi suurimmaksi puolueeksi. Kyseessä on siis tietenkin AFT,
+Puhuja 0: jonka äärioikeistosiipi
+Puhuja 0: on erityisen vahva itäisessä Saksassa.
+Puhuja 0: AFD sai äänestä kolmekymmentäkaksi pilkku kahdeksan prosenttia, ja se
+Puhuja 0: shokki ei loppunut siihen.
+Puhuja 0: Sen lisäksi
+Puhuja 0: toinen aivan yhtä sekoboltsinen,
+Puhuja 0: ja väitän, että vielä
+Puhuja 0: puolue kuin AfD, eli Sahra Wagennehtin puolue BSV Bund, mikä se oli, Bunde Sahra Wagennft,
+Puhuja 0: oli ensimmäistä kertaa ehdolla osavaltiovaaleissa
+Puhuja 0: ja sai kovan tuloksen. Tyringenissä
+Puhuja 0: puolueen kannatus oli liki kuusitoista prosenttia Yhteensä nämä kukkuluuruupuolueet
+Puhuja 0: siis sai. Tämä teksti ei todellakaan ollut Suvi vaan minun.
+Puhuja 0: Yhteensä ne sai siis
+Puhuja 0: neljäkymmentäyhdeksän prosenttia.
+Puhuja 0: Sohvi.
+Puhuja 1: Ensinnäkin haluan iloita siitä, että me täällä ja myös Suomen mediassa laajemmin
+Puhuja 1: keskustellaan
+Puhuja 1: Saksan osavaltioiden
+Puhuja 1: asioista, eikä aina vaan
+Puhuja 1: Yhdysvaltain osavaltioiden asioista.
+Puhuja 1: Tämä on hyvin ilahduttavaa.
+Puhuja 1: Ja
+Puhuja 1: kyllä mun
+Puhuja 1: mielestä ne otsikot, joissa oli tämä,
+Puhuja 1: että ääriiköista
+Puhuja 1: voitto ensimmäistä kertaa
+Puhuja 1: toisen maailmansodan
+Puhuja 1: Ne olivat pysäyttäviä
+Puhuja 1: mun mielestä.
+Puhuja 1: Ja sitten toinen kysymys
+Puhuja 1: on, että mitä siitä seuraa ja kuinka vakavasta asiasta on kyse.
+Puhuja 1: Niin sitten
+Puhuja 1: toisaalta hätkähdin siihen suuntaan, kun todettiin, että näissä vaaleissa äänesti noin seitsemän prosenttia tai oli äänioikeutettuja
+Puhuja 1: noin seitsemän prosenttia saksalaisista.
+Puhuja 1: Että niissä asuu aika vähän väkeä näissä Itä-Saksan
+Puhuja 1: osavaltioissa, joissa nämä vaalit oli. He yritti jotenkin hahmottaa sitä, että mitä merkitystä tällä on. Ja näihin molempiin
+Puhuja 1: ääripuolueisiinhan
+Puhuja 1: liittyy vielä se, että ne vastustavat Ukrainan
+Puhuja 1: tukemista.
+Puhuja 1: Ja se on suomalaisten
+Puhuja 1: kannalta huolestuttavaa ja sen takia varmaan Suvi Turtiainen ja meidän kirjeenvaihtaja on sitä näkökulmaa myös nostanut paljon
+Puhuja 1: esiin ja kysymys kuuluu, että jos
+Puhuja 1: nämä puolueet pärjäävät näin hyvin täällä paikallisesti, niin onko sillä jotain
+Puhuja 1: Saksan politiikkaan laajemmin ja
+Puhuja 1: valtakunnallisesti
+Puhuja 1: ja
+Puhuja 1: onko esimerkiksi liittokansleri Scholz?
+Puhuja 1: Joutuuko se nyt mielistelemään
+Puhuja 1: näitä asioita entistä enemmän? Muutenkin Saksan demarit on ollut vähän semmoisia Venäjämielisiä
+Puhuja 1: pitkään. Ja sitähän me nyt ei vielä
+Puhuja 1: tiedetä,
+Puhuja 1: mutta nämä on
+Puhuja 1: kiinnostavia kysymyksiä ehdottomasti.
+Puhuja 0: Mulla ei just tuohon kysymykseen.
+Puhuja 0: Aluksi ajattelin, että okei, tämä on joku tärkeä signaali, mitä Saksan
+Puhuja 0: muissa vaaleissa on meneillään.
+Puhuja 0: Mutta sitten hoksasin, että enhän mä tiedä, miten Saksassa äänestetään. Onko siellä erikseen jotkut valtakunnalliset
+Puhuja 0: vaalit näiden osavaltiovalleiden
+Puhuja 1: kanssa? Nämä oli kyse nimenomaan
+Puhuja 1: paikallisvaaleista
+Puhuja 1: ja sitten
+Puhuja 1: ensi vuonna muistaakseni
+Puhuja 1: valitaan koko kansalle uusi hallitus.
+Puhuja 1: Puhuin Suvin kanssa ja parin viikon päästä on sitten seurattavaksi osavaltiovaalit
+Puhuja 1: ja ne ovat Brandeburgissa,
+Puhuja 1: joka on Berliinin
+Puhuja 1: ympärillä ja se on sitten tätä Scholzin kotikenttää, että hän asuu siellä
+Puhuja 1: ja niitä pidetään myös
+Puhuja 1: mittarina sille, miten Scholzilla ylipäätään
+Puhuja 1: menee ja Saksan demareilla menee.
+Puhuja 1: Jos puhutaan Saksan demareista Suomen
+Puhuja 1: demarien perään.
+Puhuja 0: Paitsi tuohon väliin puittein, että Scholz on siis hampurilainen.
+Puhuja 1: Mutta ilmeisesti hän asuu Botsdamissa.
+Puhuja 0: Ehkä näin. Mutta hän kannattaa hampurger. Sv ja
+Puhuja 1: iloinnut siitä,
+Puhuja 1: että demarit pääsi sentään kuitenkin äänikynnyksen yli osavaltiovaaleissa.
+Puhuja 1: Mutta sekin oli ilmeisesti niin tiukalla, että sitä piti pitää jo saavutuksena että se ylipäätään sai mitään paikkoja
+Puhuja 1: sinne
+Puhuja 1: paikalliseen
+Puhuja 2: hallintoimeen.
+Puhuja 0: No kun just tässä, kun mä aluksi ajattelin, että okei, nää on signaaleja siitä, miten Saksassa kaikkinensa tulee käymään.
+Puhuja 0: Mutta sitten luin sen jutun, missä kuvattiin, että mikä tämä
+Puhuja 0: missä näitä vaaleja käytiin nyt? Se on ihan totaalisen erilainen kuin koko muu Saksa.
+Puhuja 0: Edelleen. Siis vanha DDR:n alue.
+Puhuja 0: Saksa oli jakaantanut kahtia ennen ysäriä. Ja tuota historiankirjoitostuttu
+Puhuja 0: asia.
+Puhuja 0: Mutta nimenomaan tässä on kyse siis vanhasta DDR:n alueesta eli siitä, mikä oli Itä-Saksa.
+Puhuja 1: Ja Hurin
+Puhuja 1: tässä vaalean edeltäneessä Suvin jutussa oli monta grafiikkaa siitä, miten itäisen Saksan alue eroaa tai vanhan itäksan alue eroaa muusta
+Puhuja 1: Saksasta. Mutta minusta ehkä pysäyttävin oli se, että kun kysytään
+Puhuja 1: ihmisiltä, että tunnetko itsesi saksalaiseksi, länsisaksalaiseksi
+Puhuja 1: vai itäsaksalaisista
+Puhuja 1: seitsemänkymmentäkuusi prosenttia sanoi, että me ollaan
+Puhuja 1: saksalaisia.
+Puhuja 1: Mutta itäsaksalaisista
+Puhuja 1: vain puolet.
+Puhuja 1: Neljäkymmentä prosenttia on sitä mieltä, että he ovat ensisijaisesti itäsaksalaisia
+Puhuja 1: eikä saksalaisia.
+Puhuja 0: Mä haluaisin, että joku professori
+Puhuja 1: jolla on tarkoitus tehdä. Tähän itäsaksalaisuuteen toki liittyy semmoinen
+Puhuja 1: yleinen tunne siitä, että heidät on unohdettu, heidät
+Puhuja 1: on hylätty,
+Puhuja 1: heillä menee huonosti, heitä ylenkatsotaan,
+Puhuja 1: muut kertoo, miten heidän pitää elää. Ja tämähän toki yhdistää monia populistisia liikkeitä maailmalla. Kyllä. Mutta niin kuin Suvin tässä
+Puhuja 0: Itä ja länsisähkösaa
+Puhuja 0: vertaavassa artikkelissa mainittiin,
+Puhuja 0: niin silloin kun Saksa lähti yhdistyy,
+Puhuja 0: automaattinen oletus oli se, että itä-Saksa pikkuhiljaa sukupolvien vaihtuessa kulkee... Se
+Puhuja 0: muuttuu Länsi-Saksaksi.
+Puhuja 0: Koska länsi Saksa on vauraampi, onnellisempi, terveempi,
+Puhuja 0: koulutetumpi, rikkaampi.
+Puhuja 0: Kaikki toimii siellä paremmin kuin itä-Saksassa.
+Puhuja 0: Ilman muuta Itä-Saksa kulkee kohti
+Puhuja 0: Länsi-Saksan
+Puhuja 0: olemusta.
+Puhuja 0: Ja näin ei käynyt. Nyt mä haluaisin, että joku professori, jolla on ihan megalomaanisen
+Puhuja 0: iso pää, tulee selittämään, että
+Puhuja 0: miksi meillä on näitä alueita kuten Itä-Saksa, joka oli siis niukkuja jyrän alla sitten meillä on Unkaria ja sitten on nyt Slovakiaa
+Puhuja 0: ja tällaisia, jotka on ollut sen totalitaarisen
+Puhuja 0: jyrän alla
+Puhuja 0: Mikä ihmeedät siis pitää
+Puhuja 0: siinä meiningissä
+Puhuja 0: ja Venäjän hännystelijöinä
+Puhuja 0: ja tämmösillä? Edelleen
+Puhuja 0: asioista on kulunut viisikymmentä vuotta mitä siinä menee kolmekymmentä vuotta.
+Puhuja 0: Miten voi olla, että he edelleen pitää tätä jotenkin näin paljon, että näin
+Puhuja 0: järisyttäviä
+Puhuja 0: vaalituloksia
+Puhuja 0: tulee? Ja
+Puhuja 0: näin hulluille puolueille, kuten tämä Saharevagenhdtin
+Puhuja 1: BSV? Siinähän on iso ero vaikka Baltian maiden välillä, missä taas
+Puhuja 1: ollaan päinvastoin ja Puolassa hyvin Venäjä kriittisiä. Tässä on kahta
+Puhuja 1: linjaa selvästikin siitä, että miten se sorto on koettu.
+Puhuja 0: Ja selkeyden vuoksi vielä,
+Puhuja 0: mä olen Saharevagenhtista
+Puhuja 0: puhunut tässä Porissa aiemminkin eurovaalien yhteydessä, mutta hän on siis stalinisti.
+Puhuja 0: Ei edes mikään kommunisti, vaan stalinisti.
+Puhuja 0: Niin huhhuh. Mitä se sitten tarkoittaakaan? Silleen suomalaiset hengiltä.
+Puhuja 0: Terveisin alta.
+Puhuja 0: No niin.
+Puhuja 0: Okei. Sitten kun
+Puhuja 0: istutte...
+Puhuja 1: Terassilla.
+Puhuja 0: Terassilla.
+Puhuja 0: Koska on oudon lämmintä. Koska on oudon lämmintä aivan totta. Näin. Näin. Näin. Rooppisetytöt.
+Puhuja 0: Rooppiset työt.
+Puhuja 0: Hellepäivää
+Puhuja 0: tässä kesässä.
+Puhuja 0: Luojan kiitos ilmastonmuutoksesta.
+Puhuja 0: Sitten otatte
+Puhuja 0: Pina Coladaa
+Puhuja 0: tai sitten
+Puhuja 0: TikTokissa aina näkyy näitä brasilialaisia,
+Puhuja 0: maitopohjaisia cocktaileja. En muista, mitä niiden nimettää, mutta ne näyttää hirveän herkullisilta.
+Puhuja 0: Ja on kuulemma tämmöisessä kostean trooppisessa helteissä erinomaisen
+Puhuja 0: hyviä.
+Puhuja 0: Niin juotti sellaisen.
+Puhuja 0: Ja
+Puhuja 0: Kimmo
+Puhuja 0: Kiljunen sattuu kävelemään ohi siitä ja Riikka Puro menee toiseen suuntaan, niin mitäs heille huikkailette
+Puhuja 0: siitä terassilta?
+Puhuja 2: En tiedä huikkaisinko heille, mutta voisin mainostaa.
+Puhuja 2: Käsittääkseni tänään ilmestyy
 Puhuja 2: hyvän ystäväni ja kollegani Heikki Aittakosken
-Puhuja 2: kirja Kunnon kansalainen ja
-Puhuja 2: olen sitä matkan aikoinaan lukenut sitä yhden version jälkeen, se on muuttunut. En nyt tuota lopullista kirjaa lukenut, mutta tiedän, että kirja on ihan huikean hauska ja samalla myös
-Puhuja 2: huumorin alla on traagisen
-Puhuja 2: koskettava tarina. Se on mainio kirja, suosittelen sitä ehdottomasti kaikille.
+Puhuja 2: kirja Kunnon kansalainen.
+Puhuja 2: Olen sitä matkan aikoina lukenut sitä yhden version jälkeen, se on muuttunut, en nyt lopullista kirjaa lukenut, mutta tiedän, että kirja on ihan huikean hauska ja samalla myös
+Puhuja 2: huumorin alla on traagisen koskettava tarina. Se on mainio kirja, suosittelen sitä ehdottomasti kaikille.
 Puhuja 1: Ja se siis lähtee
 Puhuja 2: yleisistä saunoista liikkeelle. Se lähtee yleisistä saunoista liikkeelle ja siinä on Heikin aikoinaan Facebookissa
-Puhuja 2: aloittama
-Puhuja 2: tämmöinen vitsi tai hahmo, joka vastustaa saunoissa juttelijoita. Nyt tämä laajenee
+Puhuja 2: aloittama tämmöinen vitsi tai hahmo, joka vastustaa saunoissa juttelijoita. Nyt tämä laajenee
 Puhuja 2: romaaniksi.
 Puhuja 2: Ja sitten voi erikseen vielä
-Puhuja 2: mainostaa, että tänään sinua myös äänikirjana
-Puhuja 2: ja sen äänikirjan lukee tämä.
-Puhuja 1: Nyt en tiedä kyllä kuka lukee
-Puhuja 0: Vau, no hyvä Heikki.
-Puhuja 2: Lukekaa ja kuunnelkaa se. Kuunnelkaa ehdottomasti.
-Puhuja 0: Hillemme siis Antti Holman fanibard.
-Puhuja 2: Ilmeisesti Antti Holma ei kauheasti ole lukenut äänikirjoja.
-Puhuja 2: Hän aina valikoi vain kaikkein parhaat luettavaksi,
-Puhuja 2: kuten täällä pohjallatähden ja Heikin kirjat. Juuri näin.
-Puhuja 0: Okei, mainiota.
-Puhuja 0: Onneksi olkoon Heikillekin.
-Puhuja 0: Sopvi.
+Puhuja 2: mainostaa, että tänään se on myös äänikirjana ja sen äänikirjan lukee tämä.
+Puhuja 1: Nyt en tiedä kyllä kuka lukee Heikkilän. Ei monet. Ja siis tämä Los Angeles asuvan näyttelijä. Antila ammattiholm. Antti Holma.
+Puhuja 0: Vau, no hyvä Heikki. Lukekaa ja kuunnelkaa se. No kuunnelkaa ehdottomasti. Eli täällä on hauska. Mehän olemme siis Antti Holman faniparilpailu.
+Puhuja 2: Ilmeisesti Antti Holma ei kauheasti ole lukenut äänikirjoja. Hän aina valikoi vaimo kaikkein parhaat luettavaksi,
+Puhuja 2: kuten täällä Pohjantähden jyllää ja Heikin kirjat. Juuri näin.
+Puhuja 0: Okei, mainiota ja onneksi olkoon Heikillekin. Suvi.
 Puhuja 1: Tällainen tuplasuositus,
-Puhuja 1: koska olin kaksi viikkoa sitten Lontoossa,
-Puhuja 1: missä pääsin näkemään Hamilton musikaaliin.
-Puhuja 0: Vau!
-Puhuja 0: Jos kuuntelin vähän podcastin Hamilton musikaaleista.
-Puhuja 1: Oliko se se Passpress? Just the future.
-Puhuja 0: Kun kävin New Yorkissa,
-Puhuja 0: yritin ostaa sinne lippuja. Ne oli jotain aivan poskettomia, tuhansia, tuhansia
+Puhuja 1: Olin kaksi viikkoa sitten Lontoossa, missä
+Puhuja 1: pääsin näkemään Hamilton musikaaliin.
+Puhuja 1: Vau!
+Puhuja 1: Okei.
+Puhuja 1: No niin. Hamilton on
+Puhuja 1: siis jättimäinen hittimusikaali
+Puhuja 1: Broadwelta noin kaksituhatta viisitoista muistaakseni sai ensi-iltansa.
+Puhuja 1: Ja kun asuin Yhdysvalloissa ja New Yorkissa, niin se oli sellainen, etten voinut edes kuvitella saamaan siihen lippuja.
+Puhuja 0: Kun kävin New Yorkissa, yritin ostaa sinne lippuja. Ne oli jotain aivan poskettomia, tuhansia, tuhansia
 Puhuja 0: dollareita.
-Puhuja 1: Jonot oli vuosia vuosia vuosia. Kyllä. Hamilton oli kaukainen unelma, kunnes
-Puhuja 1: mennään katsomaan jotain, että mihin hän saisi lippuja.
-Puhuja 1: Ja saatiin samalle päivälle
+Puhuja 0: Ja jonot olivat vuosia vuosia. Kyllä. Haminnton oli kaukainen unelma, kunnes tulin Lontooseen ja amerikkalainen
+Puhuja 1: katsomaan,
+Puhuja 1: että mennään katsomaan jotain mihin hän saisi lippuja.
+Puhuja 1: Saatiin samalle päivälle
 Puhuja 1: Westendiin
 Puhuja 1: Hamilton
 Puhuja 1: versioon
-Puhuja 1: liput ihan kohtuullisen
+Puhuja 1: liput ihan kohtuulliseen
 Puhuja 1: hintaan tosi hyville paikoille ja
-Puhuja 1: se täytti odotukset. Eikä se ollut edes odota. Me mietittiin,
+Puhuja 1: se
+Puhuja 1: täytti vasta odotukset. Eikä se ollut edes odota. Me mietittiin,
 Puhuja 1: että musikaali, joka kertoo Yhdysvaltain perustamisesta,
 Puhuja 1: mikä kuulostaa tylsältä, mutta se on aivan älytön, koska se on niin hyvä, vaikka se on ehkä just tämän podcastin kuulijoille täydellinen
-Puhuja 1: musikaali, koska siinä puhutaan politiikasta
-Puhuja 1: ja vallasta ja kaikesta tällaisesta.
-Puhuja 1: Hiphoppia. Se on todella hyvä. Kyse on siis
-Puhuja 0: Se kertoo Yhdysvaltain
-Puhuja 0: perustaja Hepusta, Nyötä Hamilton.
+Puhuja 1: musikaali, koska siinä puhutaan
+Puhuja 1: politiikasta ja vallasta ja kaikesta tällaisesta.
+Puhuja 1: Hiphoppia.
+Puhuja 1: Se on todella hyvä juttu. Kyse on siis,
+Puhuja 0: se kertoo Yhdysvaltain
+Puhuja 0: perustaja Hepusta,
+Puhuja 0: mutta Alexander Hamilton.
 Puhuja 0: Mutta musikaali
-Puhuja 0: tuli kuuluisaksi
-Puhuja 0: siitä kymmenen vuotta sitten, että
+Puhuja 0: tuli kuuluisaksi siitä kymmenen vuotta sitten, että
 Puhuja 0: kaikki esiintyjät olivatkin mustia.
-Puhuja 0: Joo.
-Puhuja 0: Paitsi ilmeistä joku pahiskuningas
+Puhuja 0: Sitten paitsi ilmeisesti joku pahiskuningas
 Puhuja 0: oli valkoinen.
 Puhuja 0: Joo, ja tämä
-Puhuja 0: Amerikan perustamisen historia
-Puhuja 0: monineen kysymyksineen
+Puhuja 0: Amerikan perustamisen historia monineen kysymyksineen
 Puhuja 1: se esitetään hiphopin ja räpin keinoin. Kyllä, mikä kuulostaa siltä, että se voisi olla kiusallista, mutta se on vaan tosi hyvä.
 Puhuja 1: Joten Hamilton, mutta koska se on Lontoossa, niin sitten
-Puhuja 1: otan myös tämmöiseen saavutettavaan
-Puhuja 1: suositukseen eli olin tosi iloinen kun eilen alkoi Apple Tivi:llä
-Puhuja 1: Slow horsces agenttisarjan
-Puhuja 1: uusi kausi. Ai Alkoi. Alkoi ja olen ollut niin turhautunut siihen, ettei ole mitään hyvää televisiota
-Puhuja 1: ja mitään ei kiinnosta kattoa. Nyt on Slow horses, joka on siis kertoa tällaisista epäonnistueista
-Puhuja 0: agenteista ja se on ihana. Okei. Mä haluan jatkaa tästä lyhyesti keskustelua.
-Puhuja 0: Mä Marko sä oot suositellut Slow horses, varmaan neljä
-Puhuja 0: Olen. Ja mä aloitin sen katsomisen kesällä. Mutta se hyytyi siihen
-Puhuja 0: eka kauden
-Puhuja 2: puoliväliin. Mitä? Joo, se jotenkin hyytyi. Musta täytyy ahdistua, että musta se Apple-TV on muuten ihan turha. Mitä tässä ottaa sen kuukaudessa, että ehtii katsoa tuota. Okei, no mutta
+Puhuja 1: otan myös tämmöiseen
+Puhuja 1: saavutettavaan
+Puhuja 1: suositukseen eli olin tosi iloinen kun eilen alkoi Apple Tsii:llä
+Puhuja 1: Slow horses:in
+Puhuja 1: agenttisarjan
+Puhuja 1: uusi kausi. Tai alkoi. Alkoi ja olen ollut niin turhautunut siihen, ettei ole mitään hyvää televisiota
+Puhuja 1: ja mitään ei kiinnosta katsoa ja nyt on Slow horses, joka on siis kertoa epäonnistuneista
+Puhuja 1: agenteista ja se on ihana.
+Puhuja 0: Okei. Mä haluan jatkaa tästä lyhyesti keskustelua.
+Puhuja 0: Marko sä oot suositellut Slow horses, jossa varmaan neljä kertaa. Olen. Mä aloitin sen katsomisen kesällä. Se hyytyi siihen eka kauden puoliväliin.
+Puhuja 2: Mitä? Joo, se jotenkin hyytyi. Musta ahdistaa aika, että Apple TV on muuten ihan turha, mitä tässä ottaa sen kuukaudessa ja tehtiin katsoa tuota. Okei. No mutta
 Puhuja 0: Mä haluan suositella teillä mun listalla, koska mä unohdin tän. Mutta siis Apple TV:llä on
-Puhuja 0: sarja nimeltä Poseimd in escent,
+Puhuja 0: sarja nimeltä Poseimd in Acent,
 Puhuja 0: jossa
 Puhuja 0: toi
-Puhuja 0: näyttelijä
+Puhuja 0: näyttelijä...
 Puhuja 0: Herrajumala.
 Puhuja 0: Se perustuu vanhaan Harrison Fordin tähittämään
 Puhuja 0: 80-luvun
 Puhuja 0: leffaan ja siihen kirjaan, mihin tää leffakin
-Puhuja 0: perustuu. Jake
-Puhuja 0: Gylänhal esittää pääosaa.
-Puhuja 0: Se on tämmöinen plakitrilleri. Mä ajattelin nimenomaan, että sä Marko tykkää siitä. Se on lakitrilleri, jossa Chicagon syyttäjä murhataan.
-Puhuja 0: Sitten tämän syyttäjän kollega alkaa tutkia sitä, kuka on tehnyt sen murhan,
-Puhuja 0: mutta hyvin pian
+Puhuja 0: perustuu. Jake Gylänhal
+Puhuja 0: esittää pääosaa.
+Puhuja 0: Se on tämmöinen
+Puhuja 0: lakitrilleri.
+Puhuja 0: Ajattelin nimenomaan, että sama-kausi tykkää siitä. Se on lakkitrilleri,
+Puhuja 0: jossa
+Puhuja 0: tämmöinen Chicagon
+Puhuja 0: syyttäjä
+Puhuja 0: murhataan.
+Puhuja 0: Sitten
+Puhuja 0: tämän syyttäjän
+Puhuja 0: kollega alkaa tutkia sitä, kuka on tehnyt sen murhan.
+Puhuja 0: Mutta hyvin pian
 Puhuja 0: muulle sille syyttäjäyhteisölle
-Puhuja 0: paljastuu, että nämä kaksi syyttäjä, tai joka murhattiin, joka alkoi tutkimaan sitä murhaa, eli J. Kuulenhal,
-Puhuja 0: niin he olikin rakastajia.
-Puhuja 0: Heillä oli tämmöinen salaisuhde.
+Puhuja 0: paljastuu, että nämä kaksi syyttäjä, tämä, joka murhattiin,
+Puhuja 0: joka alkoi tutkimaan sitä murhaa, eli J. Kuulenhal,
+Puhuja 0: He olikin rakastajia.
+Puhuja 0: Heillä oli tämmöinen salasuhde.
 Puhuja 0: Se kääntää välittömästi niin päin, että J. Kyllenhal joutuu epäilyksi
-Puhuja 0: siitä kollegansa ja rakastajansa murhasta.
-Puhuja 0: Tämä
-Puhuja 0: juoni on varmaan aika perus tämmöistä lakitrilleriä,
-Puhuja 0: tämmöistä käydään oikeussalissa ja näin. Mutta se sarja on rakennettu ja tehty silleen, että siinä on koko ajan semmoinen
+Puhuja 0: siitä kollegansa ja rakastajansa
+Puhuja 0: murhasta.
+Puhuja 0: Tää juoni on varmaan aika perus tämmöistä
+Puhuja 0: lakitrilleriä,
+Puhuja 0: tämmöistä käydään oikeussalissa
+Puhuja 0: ja näin. Mutta se sarja on rakennettu ja tehty silleen, että siinä on koko ajan semmoinen
 Puhuja 0: joku mieletön koukku tulee. Ja se on silleen sykähdyttävää
-Puhuja 0: katsoa silleen, että käänteitä tulee. Ja sitten tulee semmoinen ihana, mikä oli Game of Fronesissa, että kun jakso loppuu, niin on silleen ÄIkä, mitä? Ja sit niinku et ei malta odottaa sitä seuraavaa. Me ollaan mun exän kanssa katottu sitä ja molemmat aina jaksoi jälkeen silmät, että se on remyiltä mistä toi toi! Se on upea ja siis siinä on sellasta niinku hienoa draivia, suosittelen kyllä. Siinä on kirjoittanut Skatt Turole, joka on
-Puhuja 2: näiden oikeussalien-filllereiden
+Puhuja 0: katsoa silleen, että käänteitä tulee. Ja sitten tulee semmoinen ihana, mikä oli Game of Fronesissa, että kun jakso loppuu, niin on silleen ÄIkä,
+Puhuja 0: Mitä?''
+Puhuja 0: Ja sit niinku et ei malta odottaa sitä seuraavaa. Me ollaan mun eksan kanssa katsottu sitä ja molemmat aina jaksoi jälkeen silmät suoraan Mitä täältä mistä
+Puhuja 2: hieno draivia, suosittelen kyllä. Siinä on kirjoittanut Skat Turo,
+Puhuja 2: joka on näiden
+Puhuja 2: oikeussalien fllereiden
 Puhuja 2: ehdoton
-Puhuja 2: kuningas ja Kingi.
-Puhuja 0: Kyllä.
-Puhuja 0: Okei, mä haluaisin suositella
+Puhuja 2: kuningas ja kiinni.
+Puhuja 0: Okei,
+Puhuja 0: haluan suositella
 Puhuja 0: meidän
 Puhuja 0: kollegan kirjaa. Tajusin nyt vasta, että hän on nykyään meidän kollega.
 Puhuja 0: Eli suuresti ihailemani
 Puhuja 0: Suomen
-Puhuja 0: aivan keskeisin ja mielestäni paras pilapiirtäjä
-Puhuja 0: Ville Ranta
+Puhuja 0: aivan keskeisin ja ja mielestäni paras
+Puhuja 0: pilapiirtäjä Ville Ranta
 Puhuja 0: on julkaissut
 Puhuja 0: kirjan nimeltä Wieninjuojat.
 Puhuja 0: Ville Ranta,
-Puhuja 0: paitsi että on Helsingin Sanomien pilapiirtäjä, sitä ennen oli todella
-Puhuja 0: menestyksekkäästi
-Puhuja 0: Iltalehden pilapiirtäjä,
-Puhuja 0: hän
+Puhuja 0: paitsi että on Helsingin Sanomien
+Puhuja 0: pilapiirtäjä, sitä ennen oli aivan
+Puhuja 0: todella menestyksekkäästi Iltalehden
+Puhuja 0: pilapiirtäjä.
+Puhuja 0: Hän
 Puhuja 0: varsinaiset ponnisti
-Puhuja 0: ehkä laajempaan tietoisuuteen siitä, että hän oli Oulussa kulttuurilehti
-Puhuja 0: Kaltion kuvittaja
+Puhuja 0: ehkä laajempaan tietoisuuteen
+Puhuja 0: siitä, että hän oli Oulussa kulttuurilehti Kaltion kuvittaja
 Puhuja 0: joskus Wayback ysärillä.
-Puhuja 0: Kaltio nousi
-Puhuja 0: koko Suomen tietoisuuteen
-Puhuja 0: Muhammed kohun seurauksena. Se tarina lyhyesti meni sillä tavalla, että tanskalainen pilapiirtäjä, jonka nimeä en enää muista, hän oli julkaissut Tanskassa
-Puhuja 0: pilapiirroksen
-Puhuja 0: Muhammedista,
-Puhuja 0: mistä
-Puhuja 0: Profeetta Mohammedista, kyllä.
-Puhuja 0: Siitä
-Puhuja 0: seurasi aivan käsittämätön reaktio tanskalaisten ja kenties
+Puhuja 0: Kaltio
+Puhuja 0: nousi koko Suomen tietoisuuteen
+Puhuja 0: Muhammed-kohun
+Puhuja 0: seurauksena. Se tarina lyhyesti meni sillä tavalla, että tanskalainen
+Puhuja 0: pilapiirtäjä, jonka nimeä en enää muista, hän oli julkaissut Tanskassa
+Puhuja 0: pilapiirroksen Mohammedista...
+Puhuja 0: Profeetta
+Puhuja 0: Mohammedista,
+Puhuja 0: kyllä,
+Puhuja 0: mistä seurasi sitten
+Puhuja 0: aivan käsittämätön reaktio tanskalaisten
+Puhuja 0: ja kenties
 Puhuja 0: myös
-Puhuja 0: muualla maailmassa olleiden
-Puhuja 0: äärimuslimien
+Puhuja 0: muualla maailmassa olleiden ääri muslimimien
 Puhuja 0: taholta.
 Puhuja 0: Siinä oli
-Puhuja 0: mekkalointia ja mellakointia ja murhan uhkaa ja kaikkea tällaista.
+Puhuja 0: mekkalointia
+Puhuja 0: ja mellakointia
+Puhuja 0: ja murhan uhkaa ja kaikkea tällaista.
 Puhuja 0: No, tästä sitten
 Puhuja 0: maailmassa pilapiirtäjät
-Puhuja 0: lähtivät tukemaan kollegaansasahtaessa
-Puhuja 0: vaikeassa hetkessä, joista Ville Ranta oli yksi ja kulttuurilehtikaltiossa
+Puhuja 0: lähtivät tukemaan kollegaansa
+Puhuja 0: vaikeassa
+Puhuja 0: hetkessä, joista Villeranta oli yksi ja sitten kulttuurilehtikaltiossa
 Puhuja 0: julkaistiin.
-Puhuja 0: Suomessa käsittääkseni ainoana
+Puhuja 0: Suomessa
+Puhuja 0: käsittääkseni ainoana
 Puhuja 0: oli
-Puhuja 0: uskallusta
-Puhuja 0: julkaista
-Puhuja 0: myös pilakuva
-Puhuja 0: profeettamo Hammodista.
+Puhuja 0: uskallusta julkaista myös
+Puhuja 0: pilakuva
+Puhuja 0: profeetta Mohamehandista.
 Puhuja 0: Ville Ranta tämän piirsi.
-Puhuja 0: Siitä tuli ihan valtava haloo Suomessa. Olin itse aika nuori silloin. En muista ihan tarkkaan sitä, mutta se oli todella, todella iso mekkala täälläkin.
-Puhuja 0: Tämä Wienin juojat kirja
-Puhuja 0: kertoo sarjakankaan keinon
-Puhuja 0: Oulussa, niistä ihmisistä,
+Puhuja 0: Siitä tuli ihan valtava haloo Suomessa. Olin itse aika nuori silloin, en muista ihan tarkkaan sitä, mutta se oli todella, todella iso mekalla täälläkin.
+Puhuja 0: Viininjuojat
+Puhuja 0: kirja kertoo sarjakuvan keinoin siitä ajasta Oulussa. Niistä ihmisistä,
 Puhuja 0: niistä tunnelmista.
-Puhuja 0: Sitten niistä, minkälaisia keskusteluita käydään, kun juodaan viiniä jossain pienessä kulttuurilehdessä,
-Puhuja 0: jota tehdään vähän silleen puolipöhnässä
+Puhuja 0: Sitten niistä, minkälaisia
+Puhuja 0: kun juodaan viiniä jossain pienessä kulttuurilehdessä, jota tehdään
+Puhuja 0: puolipöhnässä
 Puhuja 0: ja puoliksi
 Puhuja 0: vapaaehtoisvoimin.
-Puhuja 0: Ja
-Puhuja 0: siinä oli semmoista aivan upeata
-Puhuja 0: ajankuvaa.
-Puhuja 0: Sitten Ville on siis hyvin humaanikertoja.
-Puhuja 0: Ne on hauskoja, mutta ne on tosi inhimillisiä. Ne hahmot
-Puhuja 0: on
-Puhuja 0: Hahmottojen hienoja. Mua itseä oululaisena
-Puhuja 0: riemastutti aivan älyttömän paljon. Oulussa oli ysärillä 2000-luvun alusta semmoinen baari kuin Never growd, joka oli aivan huippubaari.
-Puhuja 0: Tai sitten se meni nurin. En ikinä ajatellut, että näen enää vanhaa never growddia, mutta siellä
-Puhuja 0: sarjakuvassa Villen piirtämänä.
-Puhuja 0: Se
-Puhuja 0: läikähytti niin
-Puhuja 0: ihanalla tavalla. Eli Ville Ranta ja Biinin Juojat on tämä
-Puhuja 0: kirja. Okei, siinä kaikki tältä erää. Kiitos, Anna-Sofia Berner. Kiitos.
-Puhuja 0: Kiitos, Markun Junkkari. Kiitos. Äänenkuvaa ja kaiken muun mahtavan meille tekee
-Puhuja 0: Mikko Peura. Nimeni on Tuomas Peltomäki.
-Puhuja 0: Hei!
-Puhuja 0: Laittakaa meille palautetta
-Puhuja 0: kaikkiin mahdollisiin internet-kanaviin.
-Puhuja 0: Me teemme niin, että me kuullaan taas
+Puhuja 0: Ja siinä oli semmoista aivan upeaa ajankuvaa.
+Puhuja 0: Ville on hyvin humaanikertoja.
+Puhuja 0: Ne
+Puhuja 0: ne on hauskaa, mutta ne on tosi inhimillisiä.
+Puhuja 0: Ne hahmot
+Puhuja 0: on...
+Puhuja 0: Hahmot on hienoja.
+Puhuja 0: Mua itseä oululaisena
+Puhuja 0: riemasutti
+Puhuja 0: aivan älyttömän paljon, Oulussa oli ysärillä 2000-luvun alussa semmoinen baari kuin Never growd, joka oli aivan huippubaari.
+Puhuja 0: Sitten se meni nurin. En ikinä ajatellut, että näen enää vanhaa Never growddia.
+Puhuja 0: Mutta siellä se oli siellä sarjakuvassa Villen piirtämänä.
+Puhuja 0: Se läikähhdytti niin
+Puhuja 0: ihanalla tavalla. Eli Ville Ranta ja Wienin juojat on tämä kirja.
+Puhuja 0: Okei,
+Puhuja 0: siinä kaikki tältä erää. Kiitos, Anna-Sofia Bermer. Kiitos.
+Puhuja 0: Kiitos Markon Junkkari. Kiitos. Äänenäkuva ja kaiken muun mahtava meille tekee Mikko
+Puhuja 0: Peura. Nimeni on Tuomas Pelmäki.
+Puhuja 0: Hei,
+Puhuja 0: laittakaa meille palautetta
+Puhuja 0: kaikkiin mahdollisiin Internet-kanaviin.
+Puhuja 0: Teemme niin, että me kuullaan taas
 Puhuja 0: ensi viikolla!
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi
+Puhuja 0: menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Menikö suuuudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään
+Puhuja 0: kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

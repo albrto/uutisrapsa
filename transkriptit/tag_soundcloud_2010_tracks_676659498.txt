@@ -1,23 +1,39 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
 Puhuja 0: Tervetuloa Helsingin Sanomien uutisraportti-podcastiin
-Puhuja 0: torstaina viisi. Syyskuuta
-Puhuja 0: kaksituhatta yhdeksäntoista. Minun nimeni on Tuomas Peltomäki.
-Puhuja 0: Kanssani täällä.
-Puhuja 0: Sanomtalossa
-Puhuja 0: kellari-studiossa,
+Puhuja 0: torstaina viisi. Syyskuuta kaksituhatta yhdeksäntoista. Minun nimeni on Tuomas Peltomäki.
+Puhuja 0: Kanssani täällä
+Puhuja 0: Sanomatalossa,
+Puhuja 0: kellaristudiossa,
 Puhuja 0: mutta ei ollakaan kellarissa, vaan tämä on normistudio.
-Puhuja 0: On kulttuuriuutisia toimitteleva kolumnisti ja uudehko podcastia
+Puhuja 0: On kulttuuriuutisia toimitteleva
+Puhuja 0: kolumisti ja uudehko-podcastja
 Puhuja 0: Tuija Siltamäki. Hei Tuija. Hei.
 Puhuja 0: Ystävien kesken Tuija.
 Puhuja 0: Mä yritän palautella näitä vanhoja juttuja. Muija.
-Puhuja 0: Ystävien kesken muija. Joo. Lisäksi suomalainen
-Puhuja 0: politiikan toimittaja nimeltä Marko Junkkari. Hei Marko. Terve.
-Puhuja 1: Ehdotuksena
-Puhuja 1: norjalaisesta
-Puhuja 0: politiikan toimittajia Marko Junkkarista. Tämä podcast olisi niin paljon paremmin, jos täällä on norjalainen politiikan toimittaja, joka vain kommentoi?
-Puhuja 0: Ei, teet tästä paikasta. Marko Junnerson.
-Puhuja 0: Tämän viikon podcastissa aiheina tutkijoiden Anu Kantola ja Hanna Kuuselan
+Puhuja 0: Ystävien kesken muija. Joo.
+Puhuja 0: Lisäksi suomalainen
+Puhuja 0: politiikan toimittaja nimeltä Marko Junkkari. Hei Marko. No terve.
+Puhuja 1: Ehdotuksena norjalaisesta
+Puhuja 0: politiikan toimittaja Marko Junkkarista. Tämä podcast olisi niin paljon parempi, jos täällä on norjalainen politiikan toimittaja. Kauanko vain kommentoi?
+Puhuja 0: Ei. Sä teet tästä podcastia. Marko Junnerson.
+Puhuja 0: Tämän viikon podcastissa
+Puhuja 0: aiheina tutkijoiden Anu Kantola ja Hanna Kuuselan
 Puhuja 0: peliliike,
-Puhuja 0: jolloin suomalaisten rikkaiden päät asetettiin jakobiinien pölkylle. Postin toimitusjohtaja Kroises Pennonen
+Puhuja 0: jolloin suomalaisten rikkaiden päät asetettiin jakobiinien pölkylle. Postin
+Puhuja 0: toimitusjohtaja Kroises Penn Pennonen
 Puhuja 0: jatkoi
 Puhuja 0: terävästi
 Puhuja 0: liikkeelle, joka leikkasi rikkaalta päät poikki.
@@ -28,149 +44,339 @@ Puhuja 0: jolta loppuivat rahat ja jotenkin kapitalismi on siinä pisteessä, et
 Puhuja 0: sen sijaan, että ihmiset varsinaisesti ostaisivat heidän tuotteitaan.
 Puhuja 0: Tämä on ymmärrykseni
 Puhuja 0: asioiden kulusta. Mutta Marko Junkkari tietää siitä enemmän ja kertoo, mistä todella on kyse.
-Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien hiljaisyyksien varalle.
-Puhuja 0: Okei, pieni
-Puhuja 0: tunnustus tähän alkuun. Olen seurannut ja kuunnellut tätä samoja keskustelua. Niin onko tässä nyt kyse siitä, että vaan niin kuin Että on olemassa hyvin muottitietooisia
-Puhuja 0: kalliossa asuvia helsinkiläisiä, joiden mielestä tämä on kova juttu. Ja sitten on toiset ihmiset Ja ne maksaa siitä antaa sille rahaa, että se pysyisi pystyssä, vaikka sen bisnesmalli ei ole kannattava. Ja sitten on tämmöisiä kriittisiä
-Puhuja 0: toimittajan kloppeja, niin kuin Tuija, jota tämmöinen vain närkässtyttää. Että taas nämä hipterit
-Puhuja 2: se on pärjännyt maailmalle, vaikkei se sitä rahaa saanutkaan. Se
-Puhuja 2: on sellaista näkyvyyttä. Tässä on myös suomalaiskansallinen
-Puhuja 2: hyvä fiilis, kun se on siistiä kun suomalaishiihtäjät
+Puhuja 0: Lopuksi vielä hyviä
+Puhuja 0: keskustelunaiheita pitkien epämukavien hiljaisuuksien
+Puhuja 0: varalle.
+Puhuja 0: Pieni
+Puhuja 0: tunnustus tähän alkuun. Voi
+Puhuja 1: Sinulla ei ole housuja.
+Puhuja 0: Koen suuresti häpeää edellisestä podcastista,
+Puhuja 0: koska tätä podcastia on tehty nyt vissiin neljä vuotta.
+Puhuja 0: Olen
+Puhuja 0: toistuvasti haukkunut
+Puhuja 0: tässä podcastissa kaikki Suomen politiikan toimittajat siitä,
+Puhuja 0: että he eivät seuraa esim.
+Puhuja 0: Kärkipoliitikoiden
+Puhuja 0: taustajoukkojen
+Puhuja 0: koostumusta ja johda siitä analyysiä
+Puhuja 0: suomalaisen politiikan tilasta ja tulevaisuudesta.
+Puhuja 0: Ja edellisessä jaksossa ensimmäistä kertaa Marko Junkkari oli menossa tähän analyysiin,
+Puhuja 0: minkä jälkeen minä vedin koko keskustelun täysin laitetta.
+Puhuja 0: Ja
+Puhuja 0: me ei ikinä päästy siihen
+Puhuja 0: analyysiin keskustan puheenjohtaja vaalissa, että kuka tukee kummoni ja miksi ja mitä se tarkoittaa, mitä mä oon kaivannut vuosikausia, koska mä ite rupesin höpisemään jotain meejasta. Niin,
+Puhuja 1: ja
+Puhuja 0: mua hävettää tää nyt. Niinhän siinä Tuomas aina käy.
+Puhuja 0: Mutta
+Puhuja 0: Mutta jotenkin häpeän hirveästi itseäni.
+Puhuja 1: Se ei välttämättä ole huono asia.
+Puhuja 2: Se on kasvun paikka.
+Puhuja 0: Okei.
+Puhuja 0: Tutkijat Anu Kantola ja akatemiatutkija
+Puhuja 0: Hanna Kuusela haastattelevat
+Puhuja 0: huipputuloiset
+Puhuja 0: Suomen rikkain promille kirjaa varteen yhteensä
+Puhuja 0: yhdeksänkymmentä varakasta suomalaista,
+Puhuja 0: jotka saivat puhua suoraan ja nimettöminä.
+Puhuja 0: Tutkimus avasi ainutlaatuisen
+Puhuja 0: näkymän siihen, mitä vauraaat
+Puhuja 0: ajattelevat esimerkiksi muista suomalaisesta politiikasta ja itsestään.
+Puhuja 0: Okei, ja Helsingin Sanomien,
+Puhuja 0: kenties
+Puhuja 0: kovin toimittaja Tuomo Pietiläinen oli kirjoittanut
+Puhuja 0: tämän kirjan pohjalta
+Puhuja 0: laajan, hienon, näyttävän ja upean artikkelin, joka julkaistiin sunnuntaina
+Puhuja 0: kolme päivää ennen kirjan
+Puhuja 0: julkituloa. Kirja tuli siis julki eilen keskiviikkona.
+Puhuja 0: Ja tämän artikkelin
+Puhuja 0: pohjalta, Tuomon artikkelin pohjalta jo virisi aika vilkas keskustelu.
+Puhuja 0: Ja totta kai sen jälkeen, kun itse kirja julkistettiin,
+Puhuja 0: niin keskustelu edelleen lisääntyi
+Puhuja 0: Sen jälkeen
+Puhuja 0: kompassin toimitus sieltä.
+Puhuja 2: Jos menee yli sataviisikymmentä,
+Puhuja 2: niin sitten ne käyttää ne rahat ja maksavat ilmeisesti nämä velat sinne Ilmariselle.
+Puhuja 1: Esimerkiksi mesanatti-sivuston
+Puhuja 1: kautta tekee tällaisen joukkoraatiskampanjan.
+Puhuja 1: Yleensä
+Puhuja 1: siellä on itse esimerkiksi mesanoinut sinne vaikka jotain
+Puhuja 1: kavereiden valokuvakirjoja
+Puhuja 1: tai tällaisia
+Puhuja 1: jotain kolmenkympin tai viidenkympin
+Puhuja 1: investointeja,
+Puhuja 1: millä saa sitten sen kirjan... Niin, siis taidevalokuvajien.
+Puhuja 0: Mä mietin, että mitä helvetissa
+Puhuja 0: on käynyt Kanarjalla ja sit sä maksat sen.
+Puhuja 1: Ei, Vaan
+Puhuja 1: jos joku tekee vaikka valokuvakirjaa tai vastaavaa tämmöistä, niin sitten jos se ei saa niitä tuottamiseen
+Puhuja 1: vaadittavia rahoja takaisin, niin ne automaattisesti
+Puhuja 1: palautuu sille mesenaatille.
+Puhuja 2: Kyllä.
+Puhuja 2: Tässä olisi tavallaan sama mekanismi ja samaan aikaan ne koittaa saada muita rahoittajia mukaan.
+Puhuja 2: Mutta se, mikä tässä nyt on vähän auki, on se, että kuten Samu Jussi Koski
+Puhuja 2: tällä viikolla Helsingin Jutussakin sanoi, että nyt ne pystyvät maksamaan ne eläkevelat
+Puhuja 2: ja tavallaan se akuutti konkurssiuhintaan ohi.
+Puhuja 0: Eli onko Ilmarinen
+Puhuja 0: sijoittanut rahoja? Ei,
+Puhuja 1: Samujien omat eläkemaksut.
+Puhuja 2: Työnantaja maksaa eläkemaksut ja on jättänyt maksavat.
+Puhuja 2: No nyt aukesi. No niin. Mutta se Tuomas.
+Puhuja 2: Mutta pointti on se, että
+Puhuja 2: ongelma on tällä hetkellä se, koska yksikään heidän
+Puhuja 2: bisneskumppani ei luota heihin. Ei ole ilmeisesti. Ei ole ilmeisesti. Ei ole ilmeisesti. Ja ilmeisesti aiemminkin,
+Puhuja 2: ne kaikki ovat vaativat aina rahat etukäteen. Niillä tällä hetkellä tähän muotibisnekseen liittyy tällaiset kausimallistot.
+Puhuja 2: Nyt tulee syksy ja tarvitaan syysmallisto. Se syysmallisto on siellä
+Puhuja 2: samojen pääkonttorissa
+Puhuja 2: keskustassa, ne vaatteet on siellä näillä henkareilla ne vaatteet. Mutta ne
+Puhuja 2: Se firma, joka toimittaa kankaat, suososto antamaan kankaita ennen kuin ne saavat rahaa etukäteen. Ei tiedä. Ja sitten tehdä seos tekemään sitä syysmallistoa ennen kuin ne saavat rahaa etukäteen. Ja nyt
+Puhuja 2: niiden haavi oli saada neljäsataa tonnia, joten ne olisivat voineet maksaa nämä velat ja ymmärtääkseni
+Puhuja 2: tehdä sen syysmalliston, että ne voivat jatkaa
+Puhuja 2: bisnestä. Saadaan saada lisää rahaa eteenpäin. Ne myy varmaan kaikkia muutakin vanhoja vaatteita,
+Puhuja 0: Yksi puhontakki, joka oli kyllä todella hienosti. Ei. Mutta siis se oli ystävällinen Jussi Sippalalla.
+Puhuja 0: Kyllä.
+Puhuja 2: Mutta se, että mun mielestä tämä mesenaatin sataviisikymmentä tonnia ei nyt vielä välttämättä pelasta sitä yhtiötä.
+Puhuja 1: Ei. Ja minusta on siis tässä no ensinnäkin mä
+Puhuja 1: oon jotenkin täysin... Absessoitunut
+Puhuja 1: tähän että mun mielestä se on jotenkin tosi omituista että
+Puhuja 1: yritykset on alkanut nimittäin asiakkaitaan
+Puhuja 1: ystäviksi vähän niin kuin Radio Helsinki
+Puhuja 1: Olet ystävien seurassa. Ja sitten ystäviltä lainataan koko ajan rahaa, että oman bisnes pysyisi pystyssä.
+Puhuja 1: Mutta toinen asia on se, että mesenaattikampanja
+Puhuja 1: on myös se,
+Puhuja 1: paitsi että se on poikkeuksellinen, niin se on myös erikoinen. Sit tälle tuntuu ihan omituiselta,
+Puhuja 1: että
+Puhuja 1: miksi me tavallaan asiakkaana
+Puhuja 1: saadakseni myös tulevaisuudessa
+Puhuja 1: samoja jotain mustia t-paitoja,
+Puhuja 1: niin miks mä tässä vaiheessa
+Puhuja 1: mesenoisin sinne sisään jotain,
+Puhuja 1: että sitten etenkin kun ne mun mielestä mä katoin ne sieltä sivulta, että nää
+Puhuja 1: vastikkeet
+Puhuja 1: ei oo kyllä kauheen häävejä etenkään nyt on... Nyt on. Pienemmissä hintaluokassa no esimerkiksi
+Puhuja 1: olen juuri tulossa siihen että jos pistää viisikymppiä sisään niin sillä saa siis paitsi jonkun tällaisen
+Puhuja 1: exclusiivisen
+Puhuja 1: Samu uutiskirjeen,
+Puhuja 1: niin kerran vuodessa viikon ajan kymmenen prosenttia
+Puhuja 1: Tämä oli siis vain
+Puhuja 2: ensimmäinen.
+Puhuja 2: Sataviisikymmentä tonnia ja lainaavat yhtiölle. Se yhtiö maksaa ne takaisin. Ja sitten kolmas vaihtoehto on se, että
+Puhuja 2: siinä vaihdetaan jotain tuotteita. Joku suomalainen firma, jonka piti valmistaa maailman hienoin kello.
+Puhuja 2: Kello
+Puhuja 2: ratkaisee. Ne myi
+Puhuja 2: niitä kelloja valtava määrä etukäteen ihmisille. Ne maksoi tuotteen etukäteen ja se oli joukkorahoituksen
+Puhuja 2: vastike.
+Puhuja 2: Firma sä rahat, mutta kello ei ollut ikinä valmistunut, mutta tämä idea on, että siinä voi olla tuotevastineena.
+Puhuja 2: Okei. Mutta
+Puhuja 2: ymmärrän... Mikä tämä opetus on?
+Puhuja 2: Olen julkaissut eri mieltä.
+Puhuja 1: Uu.
+Puhuja 1: Anna tulla vaan.
+Puhuja 2: Tai en tiedä onko me eri mieltä, mutta
+Puhuja 2: ymmärrän.
+Puhuja 2: En usko, että nämä ihmiset, jotka ovat sijoittaneet sataviisikymmentä tonnia tuonne Samujiin, että ne tavallaan... Ensinnäkään tämä ei ollut niille
+Puhuja 2: bisnesinvestointi,
+Puhuja 2: että ne olettaisi jotenkin hyötyvänsä tästä jotain taloudellisesti. En usko. Koska ne on Samin ystäviä. Samin ystäviä. En usko, että ne miettii sitä edes niinkään, että
+Puhuja 2: ne saavat sen mustan paidan joskus kahden vuoden päästä. Ne
+Puhuja 2: on kuitenkin ollut poikkeuksellinen firma ja sillä on jotenkin kivat arvo... Mikä siinä poikkeuksellinen?
+Puhuja 2: Lyhyt. Se on niin kuin makee firma. Ja
+Puhuja 2: ihmiset
+Puhuja 2: kuluttamisessa ollaan siirrytty semmoiseen vaiheeseen, että se ei ole enää
+Puhuja 2: edes
+Puhuja 2: se mitä kulutetaan.
+Puhuja 2: Se konkreettinen musta t-paita ei ole olennaista, vaan on olennaista jopa, että mistä sen ostaa.
+Puhuja 2: Kyllä,
+Puhuja 1: juuri näin. Me ei osteta
+Puhuja 1: tuotetta, vaan me ostetaan identiteettiä ja arvoja. Se
+Puhuja 1: on se iso kuluttaminen muutos, mikä tässä näkyy
+Puhuja 1: tosi selvästi.
+Puhuja 0: Mikä identiteetti ja arvo on sitten Samujissa? Samjissa,
+Puhuja 1: jos oikein ymmärrän näistä, niin se, että ne on sellaiset kivat arvot.
+Puhuja 1: Ne on sellaiset
+Puhuja 1: kindness
+Puhuja 1: ja
+Puhuja 1: kivaa,
+Puhuja 1: periaatteessa sama niinku siis se jota kaikki muutkin nykyään haluaa mutta koska
+Puhuja 1: mun salaliittoöörejä on se että koska tää on tietyn tavalla
+Puhuja 1: yhteiskuntaluokan ja porukan
+Puhuja 1: lempilapsi, niin sen takia tämä on nyt merkityksellistä,
+Puhuja 1: koska jos tätä katsoo jostain
+Puhuja 1: eri kontekstista,
+Puhuja 1: niin
+Puhuja 1: periaatteen tasolla.
+Puhuja 1: Miten tämä olisi eri asia kuin se,
+Puhuja 1: että
+Puhuja 2: Seppälä menee nurin?
+Puhuja 1: Niin.
+Puhuja 1: Kaikki orimattilaisille
+Puhuja 1: se joku Seppälä on erittäin paljon merkityksellisempi kuin joku
+Puhuja 1: Hesalaisten liehuteepaitakauppa.
+Puhuja 0: Eli kaikki johtuu siitä, että se on piireissä täällä Helsingissä. Niin ja kyllä se edustaa juuri niin kuin...
+Puhuja 0: Tämä ei ole kovin tasavaltalaista.
+Puhuja 2: Niin, mutta siellä on tällainen... Mun mielestä
+Puhuja 2: se Samu-Jussi Koski jossa on selittänyt,
+Puhuja 2: että silloin kun hän aloitti tämän firman ja rupeaa suunnittelemaan näitä vaatteita, se pyysi naispuolisilta ystäviltään, että he näyttäisivät, mitkä ovat heidän vaatekaappiensa
+Puhuja 2: kahdeksan olennaista vaatetta. Tai
+Puhuja 2: mitkä ovat vaatekaapin tärkeimmät ledot?
+Puhuja 1: Mulla se on musta mekko, musta mekko, musta mekko, musta t-paita, musta t-paita, mustat
+Puhuja 2: housut ja mustat housut. Sen jälkeen se alkoi suunnittelemaan näille ystävilleen, tai tällä idealla, että naiselle kahdeksan vaatetta, jolla selviää kaikissa tilanteissa kaikkialla. Ei tarvitse ostaa mitään muuta. Ja idea, että on myös kestäviä. Ei tarvitse aina ostaa
+Puhuja 2: sitä uutta syysmallista.
+Puhuja 1: Voi ottaa tähän järkerrasta toiseen. Kyllä. Olen samaa mieltä siitä, että onhan
+Puhuja 1: nämä
+Puhuja 1: kivoja
+Puhuja 1: ajatuksia. Nämä on kivoja
+Puhuja 1: arvoja. Totta kai ymmärrän,
+Puhuja 1: että miten tämä sopii
+Puhuja 1: tällaiseen
+Puhuja 1: meidän viiteryhmien
+Puhuja 1: kulutuskäyttäytymiseen,
+Puhuja 0: mikä tässä vetoaa. Eli onko tässä kaikessa... Olen vähän sivusta seurannut ja kuunnellut tätä samoja keskustelua, niin onko tässä nyt kyse siitä, että vaan niin kuin... On olemassa hyvin muottitietooisia
+Puhuja 0: kalliossa asuvia helsinkiläisiä,
+Puhuja 0: joiden mielestä tämä on kova juttu.
+Puhuja 0: Ja ne maksaa
+Puhuja 0: antaa sille rahaa, että se pysyisi pystyssä, vaikka sen bisneksen-malli ei ole kannattava. Ja sitten on tämmöisiä kriittisiä toimittajan
+Puhuja 0: kloppeja,
+Puhuja 0: kuten Tuija,
+Puhuja 0: jota tämmöinen vain närkässtyttää, että taas nämä hipterit usein täällä.
+Puhuja 2: Ja kai siinä on myös joku. Kyllä.
+Puhuja 2: Samoin on pärjännyt maailmalle, vaikkei se rahaa saanutkaan, mutta se kuitenkin on jatkuvasti fokusessa. Se on myös sitä näkyvyyttä. Tässä on suomalaiskansallinen
+Puhuja 2: hyvä fiilis, kun se on siistiä, kun suomalaishiihtäjät
 Puhuja 2: saavat
-Puhuja 2: videota kympiltä kultaa. Vähän sama idea kiva kuin samassa hakuessa.
-Puhuja 1: Kyllä,
-Puhuja 1: se on totta.
-Puhuja 1: Ja onhan tää nyt niin kuin
-Puhuja 1: Siis se kertoo ennen kaikkea siitä, että
+Puhuja 2: videota kympiltä kultaa. Vähän sama idea kiva kun sama päälle haukkuessa. Kyllä,
+Puhuja 1: se
+Puhuja 1: on
+Puhuja 1: totta. Ja siis se
+Puhuja 1: kertoo ennen kaikkea siitä, että
 Puhuja 1: Samuji on, jos ei nyt
-Puhuja 1: bisnesmalli ole toiminut, niin ainakin
-Puhuja 1: todella kovan brändin on nyt sen olevan rakentamaan. No se on kyllä aivan totta. Se on siitä
+Puhuja 1: bisnesmalli ole toiminut niin ainakin
+Puhuja 1: todella kovan brändin ne on onnistunut rakentamaan. No se on kyllä aivan totta. Se on siitä
 Puhuja 1: pakko
 Puhuja 1: nostaa hattua, ei voi muuta sanoa kuin hattua nostaa.
-Puhuja 1: No niin, pääsenpä selville minäkin siitä, mikä on samoja Viidankin tiedät, mistä valtakunnassa puhutaan. Kyllä. Haluaisitko lukea mainoksen?
-Puhuja 0: Kyllä haluaisin. Nimittäin tämänkin podcastin sponsoroivat Helsingin Sanomien tilaajat.
+Puhuja 0: No niin, pääsenpä selville minäkin siitä, että mikä on samoja asioita. Niin, vihdoinkin tiedät, mistä valtakunnassa puhutaan. Kyllä. Haluaisitko lukea mainoksen?
+Puhuja 0: Kyllä haluaisin.
+Puhuja 0: Nimittäin tämänkin podcastin sponsoroivat Helsingin Sanomien tilaajat.
 Puhuja 0: Hesari
 Puhuja 0: on merkittävin
-Puhuja 0: täysin riippumaton suomalainen media, jossa on joka
-Puhuja 0: ikisenä vuodenpäivänä
+Puhuja 0: täysin riippumaton suomalainen media, jossa on joka ikisenä vuodenpäivänä
 Puhuja 0: kovaa uutista syvällistä
 Puhuja 0: taustoittavaa journalismia,
-Puhuja 0: ulkomaan
-Puhuja 0: uutiset, internet ja somen viimeiset käänteet, uusimmat trendit, tekstiä, kuvaaja, ääntä ja kaiken tämän. Sä olet aivan omaksesi vaan
-Puhuja 0: yhdeksänkymmentäyhdeksän euroa kuussa. Aikamoista.
-Puhuja 0: Monet
-Puhuja 0: siis ajattelevat, että mut on jotenkin pakotettu. Kaius on silleen, että nyt Tuomas luet siinä
-Puhuja 0: typerässä podcastissasi
-Puhuja 0: jotain mainoksia, mutta ei. Tää on ihan mun oma keksintö. Myös tekstia on? Päätätkö, ettei Kaiusniemi tällä hetkellä seisossa selkästi takana täällä studiossa?
-Puhuja 2: Oletkoko täällä jotenkin, annoit nyt muovit? Oletko sinä ominoinut tuon mainoksen?
-Puhuja 0: Ja mikä vielä: parempaa teille, rakkaat Podien kuuntelijat, on varattu ihan oma täysin ilmainen kuukauden kokeilutilaus
-Puhuja 0: osoitteessa hs.
-Puhuja 0: Fi: Parempaa kuunneltavaa.
+Puhuja 0: ulkomaan uutiset, internet ja somen viimeiset käänteet, uusimmat trendit, tekstiä, kuvaajaääntä ja kaiken tämän. Sä olet aivan omaksesi vaan
+Puhuja 0: yhdeksänkymmentäyhdeksän
+Puhuja 1: euroa kuussa. Aikamoista.
+Puhuja 0: Siis ajattelevat, että mut on jotenkin pakotettu. Kaius on silleen, että nyt Tuomas luet siinä typerässä podcastissasi jotain mainoksia, mutta ei. Tää on ihan mun omaa keksintö.
+Puhuja 1: Päätätkö, ettei Kaiusniemi tällä hetkellä seiso selkästi takana täällä studiossa?
+Puhuja 1: Oletko ominoinnut tuon mainoksen?
+Puhuja 0: Ja mikä vielä parempaa teille, rakkaat, Podien kuuntelijat, on varattu ihan oman täysin ilmainen kuukauden kokeilutilaus
+Puhuja 0: osoitteessa hs. Fi: Parempaa kuunneltavaa.
 Puhuja 0: Eli, menette
-Puhuja 0: osoitteeseen hs. FiparempaaKunneltavaa,
-Puhuja 0: täytätte tietoonne ja saatte Helsingin Sanomien koko sisällön, timanttijutut,
+Puhuja 0: osoitteeseen hs. Fi:parempaaKunneltavaa.
+Puhuja 0: Täytätte tietoonne ja saatte Helsingin Sanomien koko sisällön, timanttijutut,
 Puhuja 0: podcastit,
-Puhuja 0: ääniversiot
-Puhuja 0: kuukausiliittojen jutuista, uutiset minuutti minuutilta,
+Puhuja 0: ääniversio kuukausiliittojen
+Puhuja 0: jutuista,
+Puhuja 0: uutiset minuutti minuutilta,
 Puhuja 0: näköislehdet,
-Puhuja 0: HS kirjasta viikon kirjan ja tekstihän on kaikkiin HS:n lehtiin eli Helsingin Sanomien lehtiin vuodesta tuhat yhdeksänsataaneljä.
+Puhuja 0: HS-kirjasto
+Puhuja 0: viikon kirjan ja tekstihän on kaikkiin HS:n lehtiin eli Helsingin Sanomien lehtiin vuodesta tuhat yhdeksänsataaneljä.
 Puhuja 0: Eli kaikki tämä vaan podcastien
-Puhuja 0: kuuntelijoille osoitteesta hets.
-Puhuja 0: Fiparempaa
-Puhuja 1: kuunneltavaa. Tätä arkistosta pääsee lukemaan esimerkiksi monien haikailemaan
+Puhuja 0: kuuntelijoille osoitteesta hös. Fitaparempaa
+Puhuja 0: kuunneltavaa.
+Puhuja 1: Tätä arkistosta pääsee
+Puhuja 1: lukemaan esimerkiksi monien haikailemaan
 Puhuja 1: vanhaa Nyt-liitettä,
-Puhuja 0: joka aina nostetaan esille kaikessa. Ei ollut ennen tämmöistä paskaa. Niin. Ja siis tämä, myös tämä house. Fipaparas
-Puhuja 0: kuunneltavaa on minun keksimäni juttu ja sitä ei ole mihinkään mitään pakottanut, koska haluan antaa jotain takaisin
+Puhuja 1: joka aina nostetaan
+Puhuja 0: esille kaikessa. Ei ollut ennen tämmöistä maskaa. Niin. Ja siis
+Puhuja 0: myös tämä house. Fitaparempaa kuunneltavaa on minun keksimäni juttu ja sitä ei ole mihinkään mitään pakottanut, koska haluan antaa jotain takaisin
 Puhuja 0: näiden podien kuuntelijoille.
-Puhuja 1: Toivottavasti sä saat jonkun bonuksen tuosta. Mä luulen, että
-Puhuja 0: Eli vielä kerran: Näyte tilaus ei sido mihinkään, kestää kuukauden ja loppuu itsestään siihen. Ja sen saat sinä, koska kuuntelet tätä podcastia.
-Puhuja 0: Se näyttää myös tämän podcastin
-Puhuja 0: kannalta varsin hyvältä
-Puhuja 0: toimituksen johdon silmissä, jos näitä näytetilauksia
+Puhuja 1: Toivottavasti sä saat jonkun bonuksen tuosta. Luulen, että...
+Puhuja 0: Eli vielä kerran, näytettilaus ei sido mihinkään. Kestää kuukauden ja loppuu itsestään siihen. Ja sen saat sinä, koska kuuntelet tätä podcastia.
+Puhuja 0: Se näyttää myös
+Puhuja 0: tämän podcastin kannalta varsin hyvältä toimituksen johdon silmissä, jos näitä näytetilauksia
 Puhuja 0: otetaan.
 Puhuja 0: Joten käy hakemassa se itsellesi
-Puhuja 0: osoitteesta.
-Puhuja 1: Kiitos. HSY. Fi:
-Puhuja 2: Parempaa kuunneltavaa.
-Puhuja 0: Hyvä, Tuija. Kiitos. Marrasas loppu. Okei, hei, sitten kun
+Puhuja 0: osoitteesta..
+Puhuja 1: Hors.
+Puhuja 1: Fiparempaa
+Puhuja 1: kuunneltavaa.
+Puhuja 0: Hyvä, Tuija. Kiitos. Kiitos. Morosloppu.
+Puhuja 0: Okei, hei, sitten kun
 Puhuja 0: nämä sateet tästä pikkuisen taukoa
-Puhuja 0: ja lähdette ehkä viikonlopun viettoon mökillä viimeisiä kalastusreissuja
-Puhuja 0: ja ehkä siinä sitten
-Puhuja 1: Mistä saatoi käsityksen, että kalastan? Te ootte just sen näkönen, että kalastan.
-Puhuja 0: Otatte siinä ehkä
-Puhuja 0: lasillisen cerryä takkatulan ääressä ja sitten kiusaatte
+Puhuja 0: ja lähdette ehkä viikonlopun viettoon mökillä viimeisiä
+Puhuja 0: kalastusreissuja
+Puhuja 0: ja ehkä siinä sitten...
+Puhuja 0: Mistä saatoi käsityksenne, että kalastan? Sä olet just sen näköinen, että se kalastus.
+Puhuja 0: Otatte siinä ehkä lasillisen cerryä takkatulon ääressä ja sitten kiusaatte
 Puhuja 0: perhettänne
 Puhuja 0: tai
 Puhuja 0: viihdytätte tovereitanne
 Puhuja 0: jutuillanne. Mistäs puhutte
-Puhuja 1: heidän kanssaan? Mitä heille kerrotte?
-Puhuja 1: Aion kertoa niille, että Netflixiin on tullut uusi kausi, kun ne yhdestä kaikkien aikojen suosikkisarjasta
+Puhuja 0: heidän kanssaan? Mitä heille kerrotte?
+Puhuja 1: Aion kertoa niille, että Netflixiin
+Puhuja 1: on tullut uusi kausi, kun ne yhdestä kaikkien aikojen suosikkisarjasta
 Puhuja 1: nimeltä
-Puhuja 1: Ruphles
+Puhuja 1: Rubles
 Puhuja 1: Drag Race.
-Puhuja 1: Siellä on nyt vihdoin katsottavissa
-Puhuja 1: Rupalls Drag Racen yksitoista:kuusi. Kausi, josta on katsonut tähän mennessä. Siis mä oon katsonut joku ehkä
-Puhuja 1: kuusi jaksoa nyt parissa päivässä ja se on ihan heille vetin hyvä taas. Mikä se on? Se on I'm glad you ask. Se on siis sellainen ohjelma, joka on vähän niin kuin huippumallihaussa
-Puhuja 0: Meats Project dronway. Mutta kai Edelleenkään mikään tästä ihan oikein.
-Puhuja 1: Te olette niin sivistymättömiä
-Puhuja 1: ideoita.
-Puhuja 1: Siis tätä huippumallihaussa on ne, meinasin
-Puhuja 1: sanoa tamperelaisen
-Puhuja 1: huippumallin
-Puhuja 1: Taira Banksyn,
-Puhuja 1: amerikkalaisen huippumallin Taira Banksyn juonmalleen tosi-tv-ohjelma
-Puhuja 1: jossa siis huippumalleiksi
-Puhuja 1: haluavat
-Puhuja 1: tytöt kilpailevat toisiaan vastaan. Muorin huipulle Project Ranwayessa taas muotisuunnittelijat
-Puhuja 1: kisaa toisiaan vastaan ja sitten Rubles Drag Race tavallaan yhdistää nämä, mutta kaikki kilpailijat on dragweenejä.
-Puhuja 1: Samoin
-Puhuja 1: ohjelman
-Puhuja 1: idean idean isään juontaja
-Puhuja 1: Ruball Charles on Yhdysvaltain
-Puhuja 1: kuuluisin
-Puhuja 0: draqueen. Ja se on ihan helvetin hauska. Kaikki tässä kuulostaa jotenkin ihan mahtavaa. Mä olen ehkä nähnyt jotain klippejä. Se on ihan sellaista
+Puhuja 1: Siellä on nyt vihdoin katsottavissa Ruballs Drag Racen
+Puhuja 1: yksitoista:kuusi. Kausi, josta on katsonut tähän mennessä.
+Puhuja 1: Sit mä oon kattonut joku ehkä
+Puhuja 1: kuusi jaksoa nyt parissa päivässä ja se on ihan heille vetin hyvä taas. Mikä se on? Se on I'm glad you ask. Se on siis sellainen ohjelma, joka on vähän niin
+Puhuja 1: kuin huippumallihaussa
+Puhuja 1: Meat
+Puhuja 1: Project dronway.
+Puhuja 0: Mutta... Edelleenkään mikään tästä
+Puhuja 1: kaikki kilpailijat ovat drag queenejä. Samoin
+Puhuja 1: ohjelman idean
+Puhuja 1: idean idean
+Puhuja 1: Jane-Chals
+Puhuja 1: on Yhdysvaltain
+Puhuja 1: kuuluisin drag queen. Se on ihan helvetin
+Puhuja 0: hauska. Kaikki tässä kuulostaa jotenkin ihan mahtavaa. Olen ehkä nähnyt jotain klippejä. Se on
+Puhuja 1: ihan sellaista
 Puhuja 1: turboahdettua
-Puhuja 1: tosit-tv:tä,
+Puhuja 1: tosi-tv:tä,
 Puhuja 1: koska
-Puhuja 1: drag queenit on sellaisia aika
-Puhuja 1: tämmöisiä leiskuvia. Heilluttelen täällä studiossa käsiäi tosi laajalle.
+Puhuja 1: drag quiinit ovat sellaisia aika
+Puhuja 1: tällaisia leiskuvia. Heilluttelen täällä studiossa käsiäi tosi laajalle.
 Puhuja 1: Sitten oppii tosi paljon
 Puhuja 1: hyödyllisiä sanontoja
-Puhuja 1: ja ilmauksia. Idemeä.
-Puhuja 2: Kyllä. Ajattelen, että olisi uutta katsottava Netflixistä, mutta voi nyt sanoa, että ei kato. Varmasti kato.
-Puhuja 1: Sitten niin ennakkoluuloinen.
-Puhuja 0: Tämä on ihminen, en nauroi sille posttilattiin.
-Puhuja 1: Toivottavasti
-Puhuja 1: joku kuulija
-Puhuja 1: alkaa olla tän hirveän maallityskampanjan
-Puhuja 1: siitä, että Marko Junkkari ei suostu katselemaan tästä seksuaalivähemmistöjen
-Puhuja 1: tekemään tosi-tv:tä ja unohtaa mun hörähtelyn tälle postilaatikkokampanjalle.
-Puhuja 2: No niin.
-Puhuja 2: Kaupan. No nyt. Mulla ei ole mitään Musta mun elämä on tyhjää, niin mä en nostanut nyt esille sen, että
+Puhuja 2: ja ilmauksia. Idea meidän. Kyllä. Ja meidän hetken ajattelin, että tulisi jotain uutta katsottavaa Netflixistä,
+Puhuja 2: mutta voi nyt sanoa, että en katso. Varmasti kato.
+Puhuja 1: Niin
+Puhuja 1: ennakkoluuloinen.
+Puhuja 0: Saa ihminen, en nauroi sille postilaatikkoon.
+Puhuja 1: Toivottavasti joku kuulija
+Puhuja 1: alkaa olla tänne hirveen maalituskampanjan
+Puhuja 1: siitä, että Marko Junkkari ei suostu katselemaan tällaista seksuaalivähemmistöjen tekemää tosi-tv:tä ja unohtaa mun hörähtelyn tälle postilaatikkokampanjalle.
+Puhuja 1: No niin.
+Puhuja 2: Kaupan. No nyt. Mulla ei ole mitään... Yksi elämä on tyhjää, niin nostan
+Puhuja 2: nyt esille sen, että
 Puhuja 2: joudun lauantaina keskustan puoluekokoukseen.
 Puhuja 2: Suositteletko sitä muillekin? No en.
-Puhuja 2: Menet seuraavaan puheenjohtajalle. Siinä on hauskinta.
-Puhuja 2: Semmoinen pieni havainto Olen kirjoittanut liian monta juttua keskustan puoluekokouksesta
-Puhuja 2: enkä yritä välttää, mutta
-Puhuja 2: Semmoinen hauska ilmiö tässä on. Elehän Antti Kaikkonen ja Katri Kulmuni oli A-studiossa.
+Puhuja 2: Menet seuraavan puheenjohtajalle. Siinä on hauskinta.
+Puhuja 2: Sellainen pieni havainto... Olen kirjoittanut liian monta juttua keskustan puoluekokouksesta
+Puhuja 2: enkä yritä välttää, tosin huomaankaan kirjoitan yhden.
+Puhuja 2: Mutta sellainen hauska ilmiö tässä on. Eilenhän oli Antti Kaikkonen ja Katri Kulmuni A-studiossa.
 Puhuja 2: Ja jotenkin
-Puhuja 2: Julkisuuteen tää näyttäytyy niin sellaisena
-Puhuja 2: Ei kumpikaan aina, jotenkin niin vetelänä ja innoittamana.
-Puhuja 2: Laimena. Mutta
-Puhuja 2: sitten se on ihan päinvastoin siellä keskustan sisällä. Siellä käy tunteet niin kuumina.
-Puhuja 2: Ne haukkuu toisiaan
-Puhuja 2: ja epäilee toisiaan. Toinen kampittaa toista ja likasetemput on käynnissä. Ja kaikki käy nyt
-Puhuja 2: valtavilla kierroksilla. Tää on niin siistiä mennä Kouvolaan, kun ne hyppii selville. Ja meinaatko sieltä raportoida?
-Puhuja 2: Meillä oli livelähetys Hiltiksen kanssa koko päivän. Okei, millons tulee? Koko iloinen päivä Kouvolassa. Laula taiaamuna kymmenestä loppuun. Okei. Livestriimehos.
-Puhuja 0: Fi:ssä ja jos varmasti
+Puhuja 2: Julkisuuteen
+Puhuja 2: tää näyttäytyy
+Puhuja 2: niin
+Puhuja 2: semmoisena... Kumpikaan aina, jotenkin niin vetelänä ja innoittamana.
+Puhuja 2: Laimeen. Ei mitään draamaa. Mutta sitten se on ihan päinvastoin siellä keskustan sisällä. Siellä käy tunteet niin kuumina.
+Puhuja 2: Ne sähkötvat
+Puhuja 2: toisiaan ja epäilevät toisiaan ja toinen kampittaa toisten ja likaiset temput on käynnissä. Kaikki käydyt ihan
+Puhuja 2: valtavilla kierroksilla. Tää on niin siistiä mennä Kouvolaan, kun ne hyppii seilille. Ja meinaatko sieltä raportoida?
+Puhuja 2: Meillä on livelähetys Schildtikse kanssa koko päivän. Okei, millons tulee? Koko iloinen päivä koukussa. Laula taiaamuna kymmenestä
+Puhuja 0: alusta asti. Okei. LivestriiimehHS.
+Puhuja 0: Fi:ssä. Kyllä. Jos varmasti
 Puhuja 0: kirjoitat sieltä raportoit juttumuodossakin.
-Puhuja 0: Joo, hyvä. Mites Tuomas?
-Puhuja 0: Mulla on jotenkin hyvin stereotyyppinen
-Puhuja 0: suosittelu ihmisille, mutta tää oli todella hyvä
+Puhuja 1: Joo, hyvä. Mites
+Puhuja 0: Tuomas? Mulla on jotenkin hyvin stereotyyppinen
+Puhuja 0: suosittelu ihmisille, mutta tämä oli todella hyvä
 Puhuja 0: ja pitkä.
 Puhuja 0: Laitoin sen myös teille, ehkä muistatte.
-Puhuja 1: Tämmöinen En klikannu.
-Puhuja 0: Prospekt niminen lehti, joka mun mielestä on konservatiivien
+Puhuja 1: Tällainen... En klikannu.
+Puhuja 0: Prospekt
+Puhuja 0: niminen
+Puhuja 0: lehti, joka mun mielestä on konservatiivien
 Puhuja 0: lehti
 Puhuja 0: Briteissä,
 Puhuja 0: niin siellä on tämmöinen
@@ -179,40 +385,64 @@ Puhuja 0: politiikan toimittaja Peter Foster
 Puhuja 0: on kirjoittanut
 Puhuja 0: tämän otsikoisen
 Puhuja 0: jutun
-Puhuja 0: nimeltä Fias go. The Inside Story of the Brex it Talks.
-Puhuja 0: Ja sit
+Puhuja 0: nimeltä Fias go. The Inside Story of the Brexit Talks.
+Puhuja 0: Ja sitten
 Puhuja 0: mä luin tän. Tää on todella pitkä.
 Puhuja 0: Tää on sellainen harvinaislaatuinen
-Puhuja 0: juttu, joita tehdään aika harvoin, mutta se on kaiken
-Puhuja 0: kattava analyysi
+Puhuja 0: juttu, joita tehdään aika harvoin, mutta se on semmoinen
+Puhuja 0: kaiken kattava analyysi
 Puhuja 0: tietystä
-Puhuja 0: poliittisesta prosessista.
-Puhuja 0: Silleen, että se on kirjoitettu aika etäältä. Silleen on tarkasteltu niitä isoja muotoja.
+Puhuja 0: poliittisesta
+Puhuja 0: prosessista.
+Puhuja 0: Silleen, että se on kirjoitettu aika etäältä.
+Puhuja 0: Silleen on tarkasteltu isoja
+Puhuja 0: muotoja.
 Puhuja 0: On tarkasteltu
-Puhuja 0: henkilöiden päätöksiä, niiden
-Puhuja 0: Käytännössä tässä hyvin paljon puhutaan Teresa-Sameinin
+Puhuja 0: henkilöiden päätöksiä. Käytännössä
+Puhuja 0: tässä hyvin paljon puhutaan Teresamäen
 Puhuja 0: pääministerikaudesta,
 Puhuja 0: sen tekemistä päätöksistä, sen vaikutuksista
 Puhuja 0: Tori-puolueen
-Puhuja 0: sisällä ja sitten myös Jonsonin noususta ja sitten tulevaisuudesta.
-Puhuja 0: Se on tosi pitkä, tosi syvällinen
-Puhuja 0: ja todella,
-Puhuja 0: todella hyvä ja avaava analyysi
-Puhuja 0: siitä, miten Britannia on päätynyt tähän jamaan.
-Puhuja 0: Eli jos haluaa päästä
+Puhuja 0: sisällä ja sitten myös Jonsonin noususta ja tulevaisuudesta.
+Puhuja 0: Se on tosi pitkä, tosi syvällinen ja todella, todella hyvä ja avaava analyysi siitä, miten Britannia on päätynyt tähän jamaan. Eli jos haluaa päästä
 Puhuja 0: sen Brexitin
 Puhuja 0: suhteen kartalle, niin suosittelen
-Puhuja 0: ehkä enemmän kuin mitään muuta
-Puhuja 0: juttua, jonka otsikko
-Puhuja 0: on
-Puhuja 0: The Inside Story of the Brex toks kirjoittanut Peter Foster ja lehtiom Prospekt.
+Puhuja 0: ehkä enemmän kuin mitä muuta
+Puhuja 0: juttua, jonka otsikko on
+Puhuja 0: The Inside Story of the Brexed talks kirjoittanut Peter Foster ja lehtiom Prosesspect.
 Puhuja 0: Oli ihan todella hyvä.
 Puhuja 1: Hyvä.
 Puhuja 0: Okei, siinä kaikki tältä viikolta. Kiitos, Tuija Siltamäki.
+Puhuja 1: Ei mitään.
 Puhuja 0: Kiitos, Marko Junkkarille. Kiitos. Minä olen Tuomas Peltomäki.
-Puhuja 0: Ja äänen,
-Puhuja 0: kuvan ja YouTube-aplodin.
-Puhuja 0: Ja kaiken meille tekee ja SOSTE
-Puhuja 0: Erkki, Postin
-Puhuja 0: toimitusjohtaja Malinen.
+Puhuja 0: Äänen,
+Puhuja 0: kuvan ja
+Puhuja 0: YouTube-aploudin.
+Puhuja 0: Ja kaiken meille tekee.........
+Puhuja 0: Erkki, Postin toimitusjohtaja
+Puhuja 0: Malinen.
 Puhuja 0: Me kuullaan taas ensi viikolla!
+Puhuja 0: Moi Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -1,112 +1,351 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiönkaan Inkolopodcastin
-Puhuja 0: toinen kausi on kuunneltavissa Helsingin Sanomien
-Puhuja 0: sovelluksessa sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan Kaninkoloon.
-Puhuja 0: Helsingin Sanomat.
-Puhuja 1: Hei vain! Ja tervetuloa Helsingin Sanomien Uutisraportti-podcastiin.
-Puhuja 1: Olemme tuttuun tapaan viettämässä ihanan sateista kesälomakautta täällä Hesarin ikiomassa
-Puhuja 1: podcast-studiossa,
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat
+Puhuja 1: Hei vain, ja tervetuloa Helsingin Sanomien Uitos-raportti-podcastiin.
+Puhuja 1: Olemme tuttuun tapaan viettämässä ihanan sateista kesälomakautta
+Puhuja 1: täällä Hesarin ikiomassa
+Puhuja 1: podcast-studiossa
 Puhuja 1: Sanomatalossa
 Puhuja 1: Helsingin klubissa.
-Puhuja 1: Minä olen John Helin, uutisisraportti podcastin kesäinen hosti ja ruskeiden eläinten erikoistoimittaja.
-Puhuja 1: Seurassani tänään on Helsingin Sanomien some ja audiotiimin Topi Kosunen. Tervetuloa Topi! Kiitos!
-Puhuja 1: Sekä tässä toisessa piina Pinressä istuu Tuija Siltamäki kirjeenvaihtajatiimistä.
-Puhuja 1: Ajatella Alicameen
-Puhuja 1: ruumista
-Puhuja 1: kärättää Irakiin
-Puhuja 1: Keskon kylmä
-Puhuja 1: autossa. Jos te olisitte Keskon viestinnässä töissä,
-Puhuja 1: niin mitä te olisitte ajatellut tänään herätessänne tähän videoon?
-Puhuja 2: Tota eikö se markkinoinnin pidä aina ajatella mahdollisuuksia
-Puhuja 2: ja mahdollisuusviestintää,
-Puhuja 2: niin
-Puhuja 2: varmaan yrittäisin jotakin positiivista tästä keksiä. Tervehdtisin ilolla tätä laajaa näkyvyyttä.
-Puhuja 3: Kyllä. Joku tällainen, että tämä on mun päivä.
+Puhuja 1: Minä olen John Helin, uutisraportti-podcastin
+Puhuja 1: Kesäinen hosti ja ruskeiden eläinten erikoistoimittaja.
+Puhuja 1: Seurassani tänään on Helsingin Sanomien some ja audiotiimin Topi Kosunen. Tervetuloa.
+Puhuja 1: Kiitos.
+Puhuja 1: Sekä tässä toisessa Piina Pikensä istuu Tuija Siltamäki-kirjeenvaihtajat
+Puhuja 1: tiimistä. Tervetuloa Tuija. Kiitos.
+Puhuja 1: Toija ja Topi.
+Puhuja 1: Me ollaan kaikki nähty aamulla tällainen
+Puhuja 1: video,
+Puhuja 1: jossa
+Puhuja 1: Iranin ylimmän johtajan ajatella Ali Cameen dromista
+Puhuja 1: kerättään Irakiin Keskon kylmä autossa.
+Puhuja 1: Jos te olisitte Keskon
+Puhuja 1: viestinnässä töissä,
+Puhuja 1: niin mitä te olisitte ajatellut tänään herätessäni tähän videoon?
+Puhuja 2: Eikö se markkinoinnin pidä aina ajatella
+Puhuja 2: mahdollisuuksia
+Puhuja 2: ja
+Puhuja 2: mahdollisuusviestintää.
+Puhuja 2: Varmaan yrittäisin jotakin positiivista
+Puhuja 2: tästä
+Puhuja 2: keksiä ja siis tervehtiisin ilolla tätä laajaa näkyvyyttä.
+Puhuja 3: Kyllä, joku tällainen, että tämä on mun päivä.
 Puhuja 3: Uran huippukohtia varmasti, ainakin jollain mittarilla.
-Puhuja 3: Toi nyt jää mieleen. Tai että otanpa toisen kahvin. Jotain tällaista. Tai vähän vahvempaa.
-Puhuja 1: Ei siinä!
-Puhuja 1: Tänään olemme muutenkin kymmenen jälkeen talouskasvua reaalisesti
-Puhuja 1: käytännössä.
-Puhuja 1: Kun se tilanne on pitkittynyt, niin uskon, että se vaikuttaa paljon enemmän siihen tulevaisuususkoon. Ja on tehty kaikki
-Puhuja 1: pandemiat ja on ilmastonmuutokset yms. Ysälin
-Puhuja 1: lamassa ehkä uskottiin ja siis poliitikot viesttiin, että tästä päästään ylös.
+Puhuja 2: Toi jää mieleen. Tai että otanpa toisen kahvin.
+Puhuja 2: Niin, jotain tällaista. Tai vähän vahvempaa.
+Puhuja 1: Ei siinä.
+Puhuja 1: Tänään olemme muutenkin
+Puhuja 1: uutissyklin
+Puhuja 1: huipulla,
+Puhuja 1: sillä keskustelemme jalkapallon maailmanmestaruuskilpailuista,
+Puhuja 1: joiden ympärillä otsikoihin on noussut suuria sankareita, kuten Norjan Erling Haaland,
+Puhuja 1: mutta lähinnä syytöksiä korruptiosta ja pelien järjestelyistä.
+Puhuja 1: Onko mahdollista,
+Puhuja 1: että kansainvälisessä
+Puhuja 1: jalkapalloliitto FIFA:ssa on korruptiota ja voiko Norja voittaa nämä kisat? Siitä puhumme tänään.
+Puhuja 1: Lisäksi puhumme Suomen Marianpoimintateollisuudesta.
+Puhuja 1: Onko marjakartelli ja ihmiskauppa hyväksyttävää,
+Puhuja 1: mikäli vaihtoehtona on se, että marjat mätänevät metsiin ja litra hinta kokoaa?
+Puhuja 1: Sitäkin puimme tänään.
+Puhuja 1: Ja viimeisenä käymme läpi sitä, kuinka
+Puhuja 1: varsinainen aikuisuus
+Puhuja 1: uhkaa karata yhä kauemmaksi myöhäisialeilta
+Puhuja 1: sekä
+Puhuja 1: sukupolvelta, paikoin jopa saavuttamattomiin.
+Puhuja 1: Onko nuorella tulevaisuutta?
+Puhuja 1: Siitäkin puhumme tänään.
+Puhuja 1: Ja
+Puhuja 1: studioon piti saapua kokemusasiantuntija,
+Puhuja 1: mutta ikävä kyllä ulkomaantoimittaja Tiina Rajamäki joutuu
+Puhuja 1: haastattelemaan
+Puhuja 1: tämän Keskon kylmäauton omistajaa.
+Puhuja 1: Eiköhän pääse nyt tänne meidän seuraamme, mutta siitä voitte lukea myöhemmin tuolta Helsingin Sanomien sivuilta.
+Puhuja 1: Tai varmaan jo nyt, kun te tätä kuuntelette,
+Puhuja 1: niin voitte lukea tämän haastattelun.
+Puhuja 1: Mutta kiitos Tiina kovasti työstäsi
+Puhuja 1: Hesarin eteen.
+Puhuja 1: Ei kiitos siitä, että et ole täällä.
+Puhuja 1: Ja lopuksi tarjoamme tavalliseen tapaan puheenaiheita pitkien epämukavien hiljaisuuksien
+Puhuja 1: varalle.
+Puhuja 1: Mutta vielä ennen viikon aiheisiin menemistä, meillä on oikaistavaa tai oikeastaan minulla on oikaistavaa.
+Puhuja 1: Sain oikaisupyynnön,
+Puhuja 1: sanoin edellisessä uutisraporttijaksossa,
+Puhuja 1: että Suomen kansa olisi seurannut poliitikkoja Tyytyväisesti puolustusliitto Natoon vuonna kaksituhatta
+Puhuja 1: kaksikymmentäkaksi. Todellisuudessa kaikenlaiset kannatusmittaukset
+Puhuja 1: kansanNato-kannatuksesta
+Puhuja 1: kääntyivät positiiviseksi käytännössä sillä hetkellä, kun Venäjä aloitti täysimittaisen hyökkäyksen
+Puhuja 1: Ukrainaan. Ja varsinaiseksi hallituksen poliittiseksi agindaksi jäsenyys nousi vasta huhtikuussa.
+Puhuja 1: Todellisuudessa
+Puhuja 1: poliitikot seurasivat kansaa,
+Puhuja 1: eikä toisin päin kuten sanoin.
+Puhuja 1: Mutta tämän oikaisun siivittämänä mennään siihen alkutunneri.
+Puhuja 2: Autoritäärinen
+Puhuja 2: oikaisu.
+Puhuja 2: Kyllä.
+Puhuja 1: Jalkapallomaailmanmestaruus
+Puhuja 1: kilpailuttavat ovat täydessä vedossa Pohjois-Sambde-kassa ja koko maailma on liimautunut ruutuihinsa katsomaan niitä. Viimeisen viikon ajan kansainvälisten medioiden otsikoita on pelien sijaan silti hallinnut kisojen ympärille puhjenneet skandaalit.
+Puhuja 1: Suurimpana puheenaiheena oli viime viikolla Yhdysvaltain tähtipelaajana Folarin Balo Gunin saama Punainen kortti.
+Puhuja 1: Äänen varmaankin väärin nimen, mutta ei se mitään. Balo Gun sai punaisen kortin ja ottelukiellon
+Puhuja 1: Yhdysvaltain ensimmäisessä pudotuspeliottelussa Bosniaa ja Hersukovinaa
+Puhuja 1: vastaan.
+Puhuja 2: Hermetis
+Puhuja 2: ylikorostua,
+Puhuja 2: kun tämä
+Puhuja 2: on myös luovempien
+Puhuja 2: alojen
+Puhuja 2: ongelma, freelance
+Puhuja 2: ja osa-aika ja
+Puhuja 2: säätötyöt,
+Puhuja 2: mutta on se sille aikaa orjaetsias,
+Puhuja 2: miten
+Puhuja 2: ihmiset voi
+Puhuja 2: puhua siitä, että miettiä, että milloin uskaltaisi
+Puhuja 2: lapset,
+Puhuja 2: kun ei tiedä,
+Puhuja 2: onko ensi vuonna töitä ollenkaan. Tai
+Puhuja 2: sitten,
+Puhuja 2: että
+Puhuja 2: jos pitää tavallaan
+Puhuja 2: stressallä koko ajan siitä, että mistä
+Puhuja 2: niitä nyt saa. Ja
+Puhuja 2: sitten jos se
+Puhuja 2: firma päättääkin siirtyä tilaamaan kaiken graafiseen suunnittelun tai valokuvaansa
+Puhuja 2: AI:lla, niin
+Puhuja 2: sitten onkin
+Puhuja 3: hankalampi paikka. On joo, ja
+Puhuja 3: kaksikymmentäkolme ja hän on kaksikymmentäneljä
+Puhuja 3: tehnyt meillä ei ole sinänsä mikään kierre mihinkään, me ollaan vielä pieniä ja näin, se on toki totta. Meillä on vuosia aikaa vielä miettiä, mitä me tehdään, minne suuntaan elämät menee ja näin poispäin.
+Puhuja 3: Aina kun me
+Puhuja 3: puhutaan, ollaan oltu pitkä yhdessä ja tullaan varmasti olemaankin, niin me puhutaan monesti näistä ajoituksista ja näistä, milloin se olisi sopiva hetki. Ja siinä keskustelussa aina, joka kerta meidän tasaisin väliajoin käydään tämä läpi,
+Puhuja 3: numero yksi asia on juurikin tämä.
+Puhuja 3: Sitten kun on vakkarityö,
+Puhuja 3: joku vakinainen asema ylipäätään elämässä, mistä säkin puhuit, että se tarvitsee vähän sen position,
+Puhuja 3: Nämä on niitä teemoja, mitkä siellä meilläkin aina on. Jos
+Puhuja 3: nyt jostain putkahtaisi kummallekin
+Puhuja 3: vaikka
+Puhuja 3: vakituinen
+Puhuja 3: työ, niin se saattaisi
+Puhuja 3: jotain naimisiin menoa ja häitäkin, jotka olisi kiva järjestää vaikka isosti.
+Puhuja 3: Kahden viikon päästä tulee häkut.
+Puhuja 3: Tämmöisiä asioita siellä. Nämä vaikuttaa kaikkiin tämmöisiin ihan tosi käytännön juttuihin. Ja onhan tässä myös
+Puhuja 1: muita tavallaan rakenteita.
+Puhuja 1: Ei se ole
+Puhuja 1: vain työelämän murros, vaan meillä on ollut tämä laajempi koko yhteiskunnallinen
+Puhuja 1: murros siinä, että
+Puhuja 1: 70-luvulla, kun siirrytään
+Puhuja 1: vapaampaan
+Puhuja 1: de-prekuloituun
+Puhuja 1: markkinatalouteen,
+Puhuja 1: niin työn tuottavuushan on noussut hirveästi, mutta palkat eivät ole nousseet läheskään
+Puhuja 1: samassa suhteessa.
+Puhuja 1: Uskon
+Puhuja 1: ihmisiin
+Puhuja 1: myös
+Puhuja 1: sisään rakennetun fiiliksen
+Puhuja 1: siitä, että varsinkin nyt, kun kaksituhatta
+Puhuja 1: kymmenen
+Puhuja 1: jälkeen talous ei ole juurikaan noussut,
+Puhuja 1: niin se fiilis siitä, että mulla on
+Puhuja 1: tavallaan samankokoinen pala kakkua, jatkuvasti vain suurenevasta kakusta.
+Puhuja 1: Ja siis kaikki kallistuu siinä ympärillä. Samalla tavalla palalla kakkua saa vähemmän jatkuvasti. Ja se on se sama
+Puhuja 2: tonnin palkkio lehtijutusta
+Puhuja 2: vuodesta
+Puhuja 2: toiseen ja
+Puhuja 2: kahvi
+Puhuja 2: maksaa kaksitoista
+Puhuja 2: euroa Zerrensia,
+Puhuja 2: niin kyllä ne sitten jossain vaiheessa alkaa herättää kysymyksiä
+Puhuja 2: omasta ostovoimasta.
+Puhuja 2: Mutta se
+Puhuja 2: yksi hyvä esimerkki näistä rakenteista on
+Puhuja 2: asuntomarkkinoilla
+Puhuja 2: asuntohissi,
+Puhuja 2: josta joskus vielä puhuttiin. Koen, että se on ehkä sellainen
+Puhuja 2: asia, jota
+Puhuja 2: 80-luvun lopussa ja 90-luvun
+Puhuja 2: alkupuolelle
+Puhuja 2: syntyneille ihmisille
+Puhuja 2: tosi tarmokkaasti myytiin, sillä, että
+Puhuja 2: te
+Puhuja 2: säästätte sen kaksikymmentä tonnia.
+Puhuja 2: Sitten
+Puhuja 2: pari sataa
+Puhuja 2: asuntolainaa.
+Puhuja 2: Sitten ensimmäinen kämppä
+Puhuja 2: jostain vähän kauempaa ja sieltä sitten
+Puhuja 2: sillä hissillä
+Puhuja 2: ja arvonnousulla
+Puhuja 2: vivutetaan itseään
+Puhuja 2: kohti
+Puhuja 2: keskustaa ja kohti korkeita huoneita ja leveitä lautoja
+Puhuja 2: tai sitten
+Puhuja 2: omakotitaloa ja järvenrantatonttia,
+Puhuja 2: jos asuu jossain muualla kuin
+Puhuja 2: tässä
+Puhuja 2: kaupungissa,
+Puhuja 2: mutta tämä meni rikki. Siis vähän aikaa niikunkaa sitten ja sitten
+Puhuja 2: huomaa, että ympärillä on yhtäkkiä
+Puhuja 2: ihmisiä, jotka
+Puhuja 2: ovat toimineet, silleen kuin on ohjeistettu ja jolle
+Puhuja 2: on yhteiskunta luvannut, että
+Puhuja 2: jos te teette kaikki asiat oikein, niin
+Puhuja 2: sitten tää toimii. Ja yhtäkkiä sulla on käsissä
+Puhuja 2: kämppä,
+Puhuja 2: jonka hinnoista on arvosta,
+Puhuja 2: vaan
+Puhuja 2: ne sulanut monta kymmentä tuhatta
+Puhuja 2: euroa ja sitten, että mitäs järkeä tässä oli.
+Puhuja 1: Ja toisaalta
+Puhuja 1: myös se,
+Puhuja 1: että se asuntohissi on tullut asiaksi.
+Puhuja 1: Asuntohan palvelee tosi montaa eri asiaa nykyään.
+Puhuja 1: Se on merkki sun varallisuudesta.
+Puhuja 1: Se on paikka, jossa sä asut ja sä voit
+Puhuja 1: ottaa sillä lisää lainaa. Se on vanhuuden turva, yms myös kaikkea muuta tämmöistä. Siihen on sidottu hirveä määrä asioita. Se on tietty asunnon omistajalle hirveän hyvä, mikäli asuntojen hinnat menee ylöspäin.
+Puhuja 1: Mutta
+Puhuja 1: asuntojen hintojen nousuminen me nähdään tämä Yhdysvalloissa.
+Puhuja 1: Se
+Puhuja 1: asuntojen hintojen nousuminen, vaikka se olisi hyvä asunnon omistajille, niin se sulkee taas nuoria tosi pahasti ulos siitä
+Puhuja 1: järjestelmästä.
+Puhuja 1: Jos me päästään taas tähän, että jos ei talous ja
+Puhuja 1: ihmisten palkkiot nouse samaan tahtiin vaikka asuntojen
+Puhuja 1: hintojen kanssa,
+Puhuja 1: niin
+Puhuja 1: sekin sulkee
+Puhuja 1: ihmisiä ulkopuolelle
+Puhuja 1: siitä järjestelmästä pikkuhiljaa.
+Puhuja 1: Suomessahan tilanne on kohtuullisen hyvä verrattuna vaikka Yhdysvaltoihin verrattuna
+Puhuja 1: Britanniaan,
+Puhuja 1: mutta nämä samat
+Puhuja 1: mekanismit
+Puhuja 1: toimii
+Puhuja 1: ympäri
+Puhuja 1: länsimaita,
+Puhuja 1: mutta tietty näkyy vähän eri tavalla. Lopetin asuntosäästämisen
+Puhuja 2: vuonna kaksituhatta
+Puhuja 2: kaksikymmentä ja aloitin ratsastuksen uudestaan.
+Puhuja 2: Se oli minusta loistava
+Puhuja 2: päätös.
+Puhuja 2: Samaa exittiä suosittelen kaikille muillekin.
+Puhuja 3: Opintolainahan oli vähän samanlainen
+Puhuja 3: kusetus tavallaan.
+Puhuja 2: Niin, nollakorkoaika,
+Puhuja 3: että tämä on ilmaista rahaa. Ei ole, voi sanoa.
+Puhuja 1: Maksilla on, että olen töissä, esimerkiksi minua hirveemmin haittaa.
+Puhuja 1: Vaikka mullakin on keskiluokkaisena espoolaisena
+Puhuja 1: AspP-tili
+Puhuja 1: täynnä,
+Puhuja 1: Kyllä se opintolaina laittaa minut miettimään aika paljon sitä, että kannattaa vaikka hankkia asuntoa.
+Puhuja 1: Varsinkin, kun on pätkätöissä ja on kaikkea tämmöistä.
+Puhuja 1: Että jos lähdet aikuisuuteen
+Puhuja 1: jo velkaantuneena
+Puhuja 1: valmiiksi,
+Puhuja 1: niin vaikka olisi kuinka rationaalista
+Puhuja 1: maksaa
+Puhuja 1: itselleen, maksaa poislainaa yms, niin ihmiset eivät ole
+Puhuja 1: jotenkin klassisen taloustieteen
+Puhuja 1: rationaalisia
+Puhuja 1: toimijoita.
+Puhuja 2: Paitsi Storefjeder.
+Puhuja 1: Paitsi Storefjeder. Paitsi Storefjeder.
+Puhuja 3: Hyvä kun mainitsit, että oltaisiin menty ohi muutenkin.
+Puhuja 1: Vaan
+Puhuja 1: ne katsoo tilannetta. Tähän liittyy myös tulevaisuususko.
+Puhuja 1: Halusin tarttua vielä tässä artikkelissa siihen, että siinä rinnastettiin nykytilanne ysäri lamaan,
+Puhuja 1: jolloin vähän ihmeteltiin,
+Puhuja 1: että eihän tämmöistä tapahtunut ysärin laman aikana,
+Puhuja 1: syntyvyyden laskua.
+Puhuja 1: Mutta samalla tämä on tilanne, jossa
+Puhuja 1: meillä ei ole ollut vuoden kaksituhatta kymmenen jälkeen talouskasvua realistisesti käytännössä.
+Puhuja 1: Kun se tilanne on pitkittynyt, niin mä uskon, että se vaikuttaa paljon enemmän siihen tulevaisuususkoon. Ja on tietty kaikki
+Puhuja 1: pandemiat ja on
+Puhuja 1: ilmastonmuutoksen yms.
+Puhuja 1: Ysälinlamassa
+Puhuja 1: ehkä uskottiin ja poliitikot viesttiin, että tästä päästään ylös.
 Puhuja 1: Nyt taas usko siihen parempaan
-Puhuja 1: tulevaisuuteen on vähäinen
-Puhuja 1: ja sen kaiken muun pahan lisäksi vielä poliitikot
-Puhuja 1: on niin, että meillä on
-Puhuja 1: tulevaisuudessa pelkästään leikkauksia tähän.
-Puhuja 1: Lama
-Puhuja 2: oli hirvittävä sh*cho
-Puhuja 2: ja kaikkea kauheeta
-Puhuja 2: tapahtumia. Tehtiin isejä
-Puhuja 2: leikkauksia, mutta sen jälkeen tuli Nokia ja alkoi
-Puhuja 2: nousu ja voitettiin
-Puhuja 2: lätkän,
-Puhuja 2: MM-kolda ja
+Puhuja 1: tulevaisuuteen on vähäinen ja sen kaiken muun pahan lisäksi vielä poliitikot
+Puhuja 1: on niin, että meillä
+Puhuja 1: on tulevaisuudessa pelkästään leikkauksia tähän.
+Puhuja 2: Niin tai niin kuin lama. Lama
+Puhuja 2: oli hirvittävä shitcho ja kaikkea kauheeta
+Puhuja 2: tapahtumia. Tehtiin
+Puhuja 2: isejä leikkauksia, mutta sen jälkeen
+Puhuja 2: Nokia ja alkoi
+Puhuja 2: nousuja ja voitettiin
+Puhuja 2: lätkän MM-kolta
+Puhuja 2: ja
 Puhuja 2: sitten alkoi
-Puhuja 2: kasvoi, mutta nyt tämä
+Puhuja 2: kasvoi, mutta nyt
 Puhuja 2: pelkää möyrimistä
 Puhuja 2: ja
 Puhuja 2: sitten
-Puhuja 2: joka viikko joku sanoi, että nyt ihan kohta
+Puhuja 2: joka viikko joku sanoi, että ihan kohta
 Puhuja 2: alkaa
-Puhuja 2: kasvu.
-Puhuja 1: Kunhan vaan sivistetään vähän vyötä ensin. Niin
-Puhuja 2: kyllä, säästetään
-Puhuja 2: itsemme rikkaiksi.
-Puhuja 2: Mutta
-Puhuja 2: palaan
-Puhuja 2: miettinyt tätä ihmeellistä
-Puhuja 2: myös, miksi kuluttajien
-Puhuja 2: luottamus tulevaisuutta on niin heikko.
+Puhuja 2: kasvu. Kunhan
+Puhuja 1: Kunhan
+Puhuja 1: vaan kiinnitetään vähän vyötä ensin. Niin kyllä,
+Puhuja 2: säästetään
+Puhuja 2: itsemme rikkaiksi. Tavallaan
+Puhuja 2: miettinyt
+Puhuja 2: tätä ihmeellistä
+Puhuja 2: myös, miksi kuluttajien luottamus tulevaisuus on niin heikko?
 Puhuja 2: Tällaista
 Puhuja 2: voivottelevaa
-Puhuja 2: keskustelua ja että on
-Puhuja 2: se, että miksei Suomen talous kasva, niin se on meidän syytä, kun me ei ostella
-Puhuja 2: kaikkea tarpeeksi koko ajan. Mutta miltä kuunteleeko nämä poliitikot itse omia puheitaan, jotka ovat täysin
-Puhuja 2: maailmanlopun
+Puhuja 2: keskustelua ja että on nyt se,
+Puhuja 2: että miksei Suomen talous kasva, niin se on meidän syytä, kun me ei ostella
+Puhuja 2: kaikkea tarpeeksi koko ajan.
+Puhuja 2: Mutta
+Puhuja 2: milteiko nämä poliitikot itse omia puheitaan, jotka ovat
+Puhuja 2: täysin maailmanlopun
 Puhuja 2: manamista?
-Puhuja 2: Mitään ei ole jäämässä
-Puhuja 2: jäljelle, paitsi
+Puhuja 2: Mitään ei ole jäämässä jäljelle paitsi
 Puhuja 2: aseet
 Puhuja 2: ja
-Puhuja 2: erilaisia halleja
-Puhuja 2: ympäri Suomea niin
-Puhuja 2: onko mikä ihme, jos
-Puhuja 2: se
+Puhuja 2: erilaisia halleja ympäri Suomea
+Puhuja 2: niin
+Puhuja 2: onko mikä ihme, jos se
 Puhuja 2: koko ajan julistaa
 Puhuja 2: kun talouden
-Puhuja 2: talouden tota vaikea tilanne ja maailman loppuu niin sitten me emme niinku säntää ostoksille
+Puhuja 2: talouden tota... Vaikea tilannetta ja maailman loppuun niin sitten me emme niinku säntää ostoksille
 Puhuja 2: ja asuntoma
-Puhuja 2: asuntomarkkinoille vaan
-Puhuja 2: tota vaan hillataan rahoja ja kerätään
-Puhuja 2: kerätään mustia ja sieniä ja odotetaan punkkerissa, että mitäköhän tässä käy. Niin, se tähän tavallaan
-Puhuja 1: uusi liberaalistaiseen
-Puhuja 1: ajatteluun tavallaan kuuluu se, että talouskasvu
-Puhuja 1: tuottaa onnellisuutta
+Puhuja 2: asuntomarkkinoille
+Puhuja 2: vaan
+Puhuja 2: tota vaan... Hillotaan rahoja ja kerätään
+Puhuja 2: kerätään mustikoita ja sieniä ja odotetaan punkkerissa, että mitenkähän tässä käy.
+Puhuja 1: Tähän
+Puhuja 1: uusi liberalistaiseen
+Puhuja 1: ajatteluun
+Puhuja 1: kuuluu se, että talouskasvu tuottaa onnellisuutta
 Puhuja 1: ja että
 Puhuja 1: line goes up, Mutta kun se ei ole vuoden kaksituhatta kymmenen jälkeen
 Puhuja 1: mennyt ylöspäin,
-Puhuja 1: niin ei meillä ole yhteiskunnallista
-Puhuja 1: ajatusta siitä,
-Puhuja 1: mihin me ollaan menossa,
-Puhuja 1: mikä on hyvä yhteiskunta,
+Puhuja 1: niin sitten ei meillä ole oikein yhteiskunnallista ajatusta siitä, että mihin me ollaan menossa.
+Puhuja 1: Mikä on hyvä yhteiskunta,
 Puhuja 1: jos ei päästä takaisin talouskasvuun,
 Puhuja 1: johon kaikki yrittää vähän
-Puhuja 1: raapia itseään epätoivoisesti
-Puhuja 1: Euroopassa, mutta se ei näytä tavallaan lähtevän
+Puhuja 1: raapia itseään epätoivoisesti Euroopassa,
+Puhuja 1: mutta se ei näytä tavallaan lähtevän
 Puhuja 1: oikein liikkeelle kunnolla missään.
 Puhuja 1: Tässä
-Puhuja 1: poliitikot puhuu, että tässä nyt säilytetään tuota kuihtuvaa järjestelmää.
+Puhuja 1: poliitikot puhuu niin, että tässä nyt säilyttellään tätä kuihtuvaa järjestelmää.
 Puhuja 2: Me pelastetaan hyvinvointivaltio
-Puhuja 2: leikkaamalla se olemassa.
+Puhuja 2: leikkaamalla sen olevan.
 Puhuja 1: Jep, juuri tämä.
-Puhuja 1: Sitten kun te siellä
-Puhuja 1: hyvinvointivaltion raunioilla
-Puhuja 1: poimittavat marjoja
+Puhuja 1: Sitten kun te siellä hyvinvointivaltion
+Puhuja 1: raunioilla
+Puhuja 1: poiitte marjoja
 Puhuja 1: ja te katsotte
 Puhuja 1: Saudi-Arabiassa
 Puhuja 1: järjestettäviä
@@ -116,116 +355,150 @@ Puhuja 1: viereen tulevalle
 Puhuja 1: K-marketin
 Puhuja 1: pakasteauton
 Puhuja 1: omistajalle
-Puhuja 1: kiusallisen hiljaisuuden aikana?
-Puhuja 2: Ai minä. Joo, vaikka Tuija.
-Puhuja 2: Varmaan
+Puhuja 1: kiusallisen hiljaisuuden aikana.
+Puhuja 3: Ai minä. Joo, vaikka Tuija. Varmaan
 Puhuja 2: siitä, muistatteko joitakin
-Puhuja 2: vuosia sitten, se oli Killer Soft Flowr Mon
-Puhuja 2: elokuva, joka kesti viikon, mutta oli
-Puhuja 2: Cors Siis muutkin
-Puhuja 2: elokuvat. Mutta se perustui sellaisen
+Puhuja 2: vuosia sitten, toi oli Killer Soft flaware
+Puhuja 2: elokuva, joka kesti viikon,
+Puhuja 2: mutta oli
+Puhuja 2: muutkin elokuvat, mutta se perustui sellaisen
 Puhuja 2: amerikkalaisen toimittajan David Grannin kirjaan,
-Puhuja 2: jota parhaillaan
-Puhuja 2: luen.
+Puhuja 2: jota
+Puhuja 2: parhaillaan luen.
 Puhuja 2: Ja
-Puhuja 2: se Grann on
-Puhuja 2: uskomattoman hyvä tekemään
+Puhuja 2: se Grann on siis ihan
+Puhuja 2: uskomattoman
+Puhuja 2: hyvä tekemään
 Puhuja 2: nonfiktio-kirjoja.
 Puhuja 2: Historiallisista asioista se on kirjoittanut
-Puhuja 2: myös sellaisen kuin The Vager, joka
+Puhuja 2: myös sellaisen kuin The Weiger, joka
 Puhuja 2: käsittelee
 Puhuja 2: Briteistä
-Puhuja 2: kohti
-Puhuja 2: chileä,
+Puhuja 2: kohti chileä,
 Puhuja 2: muistaakseni lähtenyt
-Puhuja 2: kauppa-alusta,
-Puhuja 2: joka haaksirikkoutui.
-Puhuja 2: Osa haaksirikkoutuneista
-Puhuja 2: palasias väittää, että ne on ainoat eloon jääneet ja sitten tuli erittäin huonokuntoisina.
-Puhuja 2: Sitten meidän puoli vuotta jo tulee toinen porukka, joka sanoi, että ei, kun ne oli kapinallisia ja jätti meidät kuolemaa.
-Puhuja 2: Ja sitten,
+Puhuja 2: kauppa-alusta, joka haaksirikkoutui
+Puhuja 2: ja
+Puhuja 2: osa haaksirikkoutuneista
+Puhuja 2: palasias väittää, että ne on ainoat eloon jääneet ja sitten oli erittäin huonokuntoisina.
+Puhuja 2: Sitten meidän puoli vuotta jo tulee toinen porukka, joka sanoi, että ei kun ne oli kapinallisia
+Puhuja 2: ja jätti meidät kuolemaa.
+Puhuja 2: Sitten,
 Puhuja 2: mitä on tapahtunut ja se on käsittämättömän
-Puhuja 2: hyvä. Ja sitten se on kirjoittanut myös tällaisesta
-Puhuja 2: naapuretkeilijästä
-Puhuja 2: ja Indiana Jonesin esikuvana pidetystä Percy Fage nimisestä löytöretkeilijästä,
-Puhuja 2: joka etsi Amazonilta
-Puhuja 2: kadonnutta Z-kaupunkia.
+Puhuja 2: hyvä. Ja se on kirjoittanut myös se
+Puhuja 2: naparetkeilijästä
+Puhuja 2: ja Indiana Jonesin esikuvana pidetisestä Percy Falcher nimisestä löytöretkeilijästä,
+Puhuja 2: joka etsii
+Puhuja 2: Amazonilta
+Puhuja 2: kadonnutta
+Puhuja 2: Z-kaupunkia.
 Puhuja 2: Hän
 Puhuja 2: on erittäin kiinnostunut
 Puhuja 2: tällaisista
-Puhuja 2: ihmisistä, joilla on pakkomielle
-Puhuja 2: jostain
-Puhuja 2: ne pari vuotta sitten, kun sitä Wegeria luin, vai
-Puhuja 2: pari vuotta sitten, kun Vegeria
-Puhuja 2: luin vai oliko
-Puhuja 2: viime kesänä, niin puudutin
-Puhuja 2: kaikkia ihmisiä puhumalla siitä
-Puhuja 2: laivakirjasta niin todennäköisesti jatkaisin samaa tänä
+Puhuja 2: ihmisistä, joilla on jostain
+Puhuja 2: mahdottomasta
+Puhuja 2: missiosta ja ne on
+Puhuja 2: täydellisesti
+Puhuja 2: rakennettuja.
+Puhuja 2: Varmaan
+Puhuja 2: pari vuotta sitten, kun sitä Wegeria luvin vai oliko
+Puhuja 2: viime kesänä,
+Puhuja 2: niin puudutin kaikkia ihmisiä puhumalla siitä
+Puhuja 2: laivakirjasta.
+Puhuja 2: Todennäköisesti toivoisin samaa tänä
 Puhuja 2: kesänä
 Puhuja 2: K-kaupan
-Puhuja 2: ihmispololle.
-Puhuja 1: Sano sen nimi
-Puhuja 2: vielä. David Gran on tämä
+Puhuja 1: ihmispololle. Sano sen nimi vielä.
+Puhuja 2: David Gran on tämä
 Puhuja 2: kirjailija.
 Puhuja 2: Niitä voin lämpimästi
-Puhuja 2: suositella, sopii todella hyvin
-Puhuja 2: kaikenlaisia aurinkotuoleja riippumatta.
-Puhuja 2: Istuu vaan kyytiin ja
-Puhuja 2: antaa mennä. Ihanaa.
+Puhuja 2: suositella, sopimaan, kun todella hyvin aurinkotuoleja ihan riippumatta. Kun istuu vaan kyytiin
+Puhuja 2: ja antaa mennä. Ihanaa.
 Puhuja 3: Istuin viikon
-Puhuja 3: katsomassa Kelly Soft of the Flowwnia. Se oli ihana, loistava elokuva, joten ostan tämän. Kyllä. Mitäs Tomi?
-Puhuja 3: Mä aloitin kuuntelemaan New York Timeselta tullut tai onko siinä se cerial
+Puhuja 3: katsomassa Kell of the Flowermonia. Se oli ihana, loistava elokuva,
+Puhuja 3: joten ostan tämän.
+Puhuja 3: Kyllä, mitäs sopii?
+Puhuja 3: Aloitin kuuntelemaan
+Puhuja 3: juuri New York Timeselta tullut, tai onko siinä se Serial
 Puhuja 3: productions vai mikä on tuotantoyhtiö
-Puhuja 3: tekemässä tällaista podcastia nimeltään The Last Wellwe weekes.
-Puhuja 3: Tämähän kertoo siis tuhat
-Puhuja 3: yhdeksänsataayhdeksänkymmentäkaksi David Wood.
+Puhuja 3: tekemässä tällaista podcastia nimeltään The Last Wellwe
+Puhuja 3: Tämähän kertoo
+Puhuja 3: vuonna tuhat yhdeksänsataayhdeksänkymmentäkaksi
+Puhuja 3: David Wood.
 Puhuja 3: Hänestä tuli El Pason pahamaineisiin
-Puhuja 3: sarjamurhista tuomittu rikollinen ja
-Puhuja 3: hän sai tietenkin kuolemantuomion
-Puhuja 3: ja ollut siellä
-Puhuja 3: pitkään, monta kymmentä vuotta.
-Puhuja 3: Nyt
-Puhuja 3: sitten on herännyt kysymys tässä, että onko David
-Puhuja 3: Wood, onko hän syytön näihin murhiin?
-Puhuja 3: Tästäpä
-Puhuja 1: sitten Mistä tämä on herännyt tää
-Puhuja 3: kysymys, onko se vaan niin kuin todistusaineistoa? Tuli uutta todistusaineistoa. Mä en paljasta kaikkea, koska mä saintän kuuntelua, mutta sanotaanko näin, että uusi käänne tuli siihen ja uutta todistusaineistoa ilmeni yhtäkkiä.
-Puhuja 3: Siinä seurataan siis tällaista
-Puhuja 3: asiana ajajaa, jonka tehtävä on
-Puhuja 3: nyt muutama viikko aikaa tähän David Woodvidin kuolemantuomion täytäntöönpanoon.
+Puhuja 3: sarjamurhista
+Puhuja 3: tuomittu rikollinen
+Puhuja 3: ja hän on nyt ollut siellä
+Puhuja 3: kuolemansellissä,
+Puhuja 3: hän sai siis tietenkin kuolemantuomion ja ollut siellä
+Puhuja 3: pitkään, monta kymmentä vuotta. Ja nyt sitten
+Puhuja 3: on herännyt kysymys tässä, että onko David Wood,
+Puhuja 3: onko hän
+Puhuja 3: syytön näihin murhiin?
+Puhuja 1: Tämä kysymys on herännyt,
+Puhuja 1: onko se vaan niin kuin todistusaineistoa? Tuli uutta todistusaineistoa,
+Puhuja 3: siellä oli tällainen, mä en paljasta kaikkea, koska mä säästän kuuntelua, mutta sanotaanko näin, että tällainen uusi käänne tuli siihen ja uutta todistusaineistoa ilmeni yhtäkkiä.
+Puhuja 3: Siinä seurataan siis tämmöistä asian ajajaa, jonka tehtävä on,
+Puhuja 3: siinä on muutama viikko aikaa tähän David Woodin kuolemantuomion täytäntöönpanoon,
 Puhuja 3: Joten tässä on muutama viikko aikaa saada kaikki suostuteltua, saada hyvä keissi siihen ympärille,
 Puhuja 3: jotta sitten
-Puhuja 3: katsotaan,
-Puhuja 3: saadaanko tavallaan vakuutettua siitä, onko David Wood syytön ja jos on, niin meneekö kaikki siitä läpi silleen, että häntä
-Puhuja 3: ei kuolemaan tuomita. Olen puolessa välissä vasta, en tiedä, miten tässä käy, en ottanut sieltä sen enempää selvää.
-Puhuja 3: Aika tällaisesti mun mielestä hienon journalistisesti
-Puhuja 3: rakennettu
-Puhuja 3: ja on myös hienon lähelle päässyt toimittaja, jonka nimi on Mauris Chama.
-Puhuja 3: Hän on päässyt siis aivan asian ajan viereen. Hän seuraa siinä koko ajan
-Puhuja 3: mikrofonin kanssa joka käänteessä mukana ja koko ajan, jos ei ole samassa tilassa, niin sitten on Teams-palaveria
-Puhuja 3: päällä ja tavallaan aivan
-Puhuja 3: siinä imussa ja siinä on kauhean kiireen tuntu jotenkin. Ja totta kai koko ajan myös se kysymys, että onko se budyytön vai ei. Kello käy. Kello käy ja siinä on sellainen olo ja
-Puhuja 3: se on jännittävä.
-Puhuja 3: The last Talt Weeks New York Tim, sieltä ainakin löytyy jostain niistä niiden kanavista. Kuulostaa erinomaiselta trilleriltä.
-Puhuja 1: En ehtinyt hirveästi miettiä, että minulla on ollut hyvin kirjainen viikko. Erittäin kirjainen aikuinen.
-Puhuja 1: Erittäin kirjainen aikuinen,
-Puhuja 1: mutta
-Puhuja 1: mielestäni aikuiset voivat myös olla lapsenmielisiä
-Puhuja 1: sekä huumorintajuisia, joten
-Puhuja 1: teen folback suositukseni brittikirjailija
-Puhuja 1: Terhi Brachetille,
+Puhuja 3: katsotaan, saadaanko tavallaan vakuutettua siitä, onko David Wood syytön ja jos on, niin meneekö kaikki siitä läpi sille, että häntä ei sitten
+Puhuja 3: kuolemaan tuomita. Olen puolessa välissä vasta, en tiedä miten tässä käy, en ottanut asiasta sen enempää.
+Puhuja 3: Aika tällaisesti hienon
+Puhuja 3: journalistisesti
+Puhuja 3: rakennettu ja on myös hienon lähelle päässyt toimittaja, jonka nimi on Maurice Jama,
+Puhuja 3: hän on päässyt
+Puhuja 3: aivan
+Puhuja 3: asian ajan viereen, hän seuraa siinä koko ajan mikrofonin kanssa joka käänteessä mukana ja koko ajan, jos ei ole samassa tilassa, niin sitten on Teams-palaveria päällä ja tavallaan
+Puhuja 3: aivan siinä imussa ja siinä on kauhean kiireen tuntu jotenkin. Ja totta kai koko ajan myös se kysymys, että onko se bud syitä vai ei. Kello käy. Kello käy ja siinä on sellainen olo
+Puhuja 3: ja se tosiaan on jännittävä.
+Puhuja 3: The Last Well Weeks New York Tim. Sieltä ainakin löytyy,
+Puhuja 3: niistä
+Puhuja 1: kanavista. Kuulostaa erinomaiselta trilleriltä.
+Puhuja 1: En ehtinyt hirveästi miettiä, että minulla on ollut hyvin kiireinen viikko. Erittäin kiireinen aikuinen.
+Puhuja 1: Erittäin kiireinen aikuinen,
+Puhuja 1: mutta mielestäni aikuiset voivat myös olla lapsenmielisiä
+Puhuja 1: sekä huumorintajuisia,
+Puhuja 1: joten
+Puhuja 1: teen fullback suositukseni brittikirjailija
+Puhuja 1: Terhi Brachatille,
 Puhuja 1: jota ilman olisin itse paljon huonompi aikuinen ihminen.
 Puhuja 1: Kaikki hyvä joka minussa on, on jollain tavalla
-Puhuja 1: ainakin
-Puhuja 1: saanut lisäpontta Brothchetin kiekkomailla kirjoista, joita suosittelen teidän kaikkien lukevan.
-Puhuja 1: Ne on kirjoja, joista aikuisena löydän
-Puhuja 1: joka kerta lukiessani
-Puhuja 1: lisää tasoja, mikä on mielestäni
-Puhuja 1: erinomaisen kirjan merkki.
-Puhuja 1: Niistä lempikirjani on yövartiosto
-Puhuja 1: eli Nightwatch ja voin suositella kaikille. Eli vanhukset lukee kirjoja ja nuoriso kuuntelee podcast. Aika lailla juuri näin, juuri näin. Eihän teidän sukupolvi jaksa enää kokonaista kirjaa edes lukea, että yliopistoista
-Puhuja 2: kerrottua.
-Puhuja 1: Näin se on! Ja näissä melkein jatkamme. Ensi viikolla meillä on ollut
-Puhuja 1: tekniikasta vastannut
-Puhuja 1: Helmisundström. Kiitos Helmille. Kiitos Topi. Kiitos Tuija. Kiitos kovasti. Ja kiitos myös kaikille kuulijoille. Tämä on ollut uutisraportti-podcast. Palaamme ensi viikolla.
-Puhuja 3: Ja kiitos John.
+Puhuja 1: ainakin saanut lisäpontta
+Puhuja 1: Brothsetin kiekkumailu kirjoista, joita suosittelen teidän kaikkien lukevan.
+Puhuja 1: Ne on kirjoja, joista aikuisena
+Puhuja 1: löydän joka kerta lukiessani
+Puhuja 1: Lisää tasoja, mikä on mielestäni erinomaisen kirjan merkki. Lempikirjani
+Puhuja 1: on Yövartiosto eli Nightwatch
+Puhuja 2: ja voin suositella kaikille. Eli vanhukset lukee kirjoja ja nuoriso kuuntelee podcastia. Aikalailla juuri näin, juuri näin. Eihän se teidän sukupolvi jaksa enää kokonaista kirjaa edes lukea, että yliopistoista
+Puhuja 2: kertoo!
+Puhuja 3: Näin se on!
+Puhuja 1: Ja näissä merkeissä jatkamme
+Puhuja 1: ensi viikolla. Meillä on ollut
+Puhuja 1: tekniikasta vastannut Helmisundström.
+Puhuja 1: Kiitos Helmille. Kiitos Topi. Kiitos. Kiitos Tuija. Kiitos kovasti. Ja kiitos myös kaikille kuulijoille. Tämä on ollut uutisraportti-podcast.
+Puhuja 1: Palaamme ensi viikolla.
+Puhuja 3: Ja kiitos, John.
+Puhuja 0: Moi Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin, melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän
+Puhuja 0: kaasukauppaan?
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja ja on jopa matemaatikko, joka lähti 70-luvulla
+Puhuja 0: Suomesta kohti Kaliforniaa,
+Puhuja 0: ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: Oon Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkoonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a, kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

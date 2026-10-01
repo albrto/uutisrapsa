@@ -1,219 +1,472 @@
-Puhuja 0: No niin. Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina kuusi. Toukokuuta.
-Puhuja 0: Yritin siis kuulostaa Tuomakselta.
-Puhuja 0: Marian ilmeistä oli jotenkin
-Puhuja 0: tosi kiusallista.
-Puhuja 1: Se lähti ihan hyvin. Jatka vain. Hei ja tervetuloa Helsingin Sanomien
-Puhuja 0: Uutisraportti-podcast. Eikö se ole niin sanottu? Eikö se sano vielä iloisemmin?
-Puhuja 0: Energisesti tulee selvästi. Toivottavasti kuvattiin. Joo.
-Puhuja 0: Kuten rakkaat huomaatte
-Puhuja 0: niin Tuomas Peltomäki
-Puhuja 0: ei ole täällä. Tuomas Peltomäki julkaisi eilen
-Puhuja 0: tällaisen pikku podcastin, missä hän kertoo, että hän jää nyt pois uutisraportti podcastista ja rakentaa sen sijaan taloa Hyvinkäällä.
-Puhuja 1: Kuten kaikki kunnon Ei kun olin Nurmijärvi, ei. Se oli Matti Vanhanen.
-Puhuja 0: Eikö Hyvinkäällä rakennus? Niin, totta.
-Puhuja 0: Mutta Tuomas tulee takaisin eikö niin? Tulee. Mutta Tuomas on nyt siis toukokuun vekka ja sitten hän tulee kesä ja me ollaan kesälomilla ja täällä on varmaankin tällainen kesäporukka vetämässä tätä. Tuomas palaa vasta syksyllä.
-Puhuja 0: Ja minä olen nyt toukokuun ajan Tuomaksena ja tässä on jotenkin ihan valtavat haasteet.
-Puhuja 0: Jos yritän vielä kertoa tuolla alun. Hei Marko, mennään eteenpäin.
-Puhuja 0: Noniin.
-Puhuja 0: Kanssani studiossa
-Puhuja 0: täällä vasemmalla puhuu Jaakko Lyytinen.
-Puhuja 0: Helsingin Sanomien ja sunnuntaitoimituksen
-Puhuja 2: toimittajaa. Olet ensimmäistä kertaa tässä näet. Olen ensimmäistä kertaa joo. Jännittääkö se?
-Puhuja 2: Sopivasti.
-Puhuja 2: Niin, istun. Yritän olla Markomainen.
-Puhuja 2: Jos olit Tuomas, niin olenko nyt Markona? Sinun pitää olla vähän tylsä ja setämäinen.
-Puhuja 2: Tylsä ja setämäinen kaikkitietävä.
-Puhuja 2: Et
-Puhuja 2: sinä kaikkitietävä.
-Puhuja 2: Minua on hyvä blffaamaan siinä. Okei.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Merkos huurudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 1: No niin. Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin
+Puhuja 1: torstaina
+Puhuja 2: kuusi. Päivä toukokuuta.
+Puhuja 2: Yritin siis kuulostaa Tuomakselta.
+Puhuja 2: Marian ilmeistä oli jotenkin
+Puhuja 2: tosi kiusallista.
+Puhuja 2: Lähti ihan hyvin, jatka vaan. Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcast.
+Puhuja 2: Eikö sano vaan? Eikö sano vielä iloisemmin?
+Puhuja 2: Energisesti
+Puhuja 1: tulee selvästi
+Puhuja 1: tavoitteet.
+Puhuja 2: Joo. Kuten rakkaat huomaatte,
+Puhuja 2: Tuomas Peltomäki ei ole täällä.
+Puhuja 2: Tuomas Peltomäki julkaisi eilen tämmöisen
+Puhuja 2: pikku podcastin, missä hän kertoi, että hän jää nyt pois uutisraportti
+Puhuja 2: podcastista ja rakentaa sen sijaan taloa Hyvinkäällä. Niin
+Puhuja 3: kuten kaikki kunnan... Luulen, että se oli Nurmijärvi. Ei, se oli Matti Vanhanen.
+Puhuja 1: Eikö Hyvinkäällä rakennus? Totta, no joo. Mutta Tuomas tulee takaisin eikö niin? Tulee, mutta Tuomas on nyt siis toukokuun vekka ja sitten hän tulee kesä ja me ollaan kesälomilla ja täällä on varmaankin tämmöinen kesäporukka
+Puhuja 2: vetämässä tätä. Tuomas palaa vasta syksyllä.
+Puhuja 2: Ja olen nyt toukokuun ajan Tuomaksena ja tässä on ihan valtavat haasteet.
+Puhuja 2: Jos yritän vielä kertoa tuolla alun. Hei Marko, mennään eteenpäin.
+Puhuja 2: Noniin.
+Puhuja 2: Kanssani studiossa
+Puhuja 2: täällä
+Puhuja 2: vasemmalla puhuu Jaakko Lyytinen.
+Puhuja 2: Helsingin Sanomien ja sunnuntaitoimituksen
+Puhuja 2: toimittajaa.
+Puhuja 2: Olet ensimmäistä kertaa tässä näin. Olen ensimmäistä kertaa.
+Puhuja 1: Jännittääkö sinulle?
+Puhuja 1: Sopivasti.
+Puhuja 1: Istut mun paikalla? Niin mä istun, yritän olla Marko maine. Jos olit tuomassa, niin olenko nyt Markona? Sinun pitää olla vähän tylsä ja setämäinen.
+Puhuja 1: Tylsä ja setämäinen kaikkitietävä.
+Puhuja 1: Marko Johkkari.
+Puhuja 1: Et sinä kaikkitietävä.
+Puhuja 2: Mulla on hyvä blffaamaan siinä.
 Puhuja 2: Yritän olla Marko.
-Puhuja 0: Ja täällä toisella puolella tuttuun tapaan Maria Manner myöskin sunnuntaista.
-Puhuja 1: Hyvää päivää.
-Puhuja 1: Mitä sinulle kuuluu? Olen ollut tänään aivan tohkeissani.
-Puhuja 1: Siitä asti kun eilen tuli illalla uutinen, että Joe Biden hallinto
-Puhuja 1: tukee patenttisuojan
-Puhuja 1: poistamista
-Puhuja 2: Monelle talvisota oli se heräte, jolloin ne järkyttyivät, että ei jumalauta.
-Puhuja 2: Ovat hyökkääjät pienen viattoman pikkuvaltion naapuria. Esimerkiksi Britanniassa
-Puhuja 2: 30-luvun
-Puhuja 2: kommunismin sosialismin kanssa flirttailu älymystö Cambrid Oxford Akselilla.
-Puhuja 2: Monille
-Puhuja 2: talvisota oli se
-Puhuja 2: katkaisupiste.
-Puhuja 2: Osalle se ei ollut, ja niistä tuli huippuvakoijia.
-Puhuja 2: Mutta
-Puhuja 0: monelle se oli verenjakaja. Niin tässä pitää nyt kertoa muutama vuosi. Odotettiin kertoa, mutta
-Puhuja 0: en joudu nyt kertomaan. Mutta siis Erik Hobsbam, joka on varmaan
-Puhuja 0: yksi
-Puhuja 0: viimeisen sadan vuoden merkittävimpiä historioitsijoita, joilla on
-Puhuja 0: ainakin osin marxilainen
-Puhuja 0: historiakäsitys, että tapahtuu.
-Puhuja 0: Asiat eivät ole tapahtumien ketjua, vaan ovat suuria siirtymiä ajasta toiseen. Hän on kirjoittanut
-Puhuja 0: ollut meillä tenttivaatimuksissa
-Puhuja 0: useakin hänen kirjansa. Mutta
-Puhuja 0: he olivat Suomessa luennoimassa joskus. Olitko siellä?
-Puhuja 0: En vielä ollut opiskelemassa siellä. Hän oli kuitenkin
-Puhuja 0: Suomessa yliopistolla luennoitsimassa
-Puhuja 0: ja piti tällaisen sen fasinoiva luennon jostain.
-Puhuja 0: Sitten sen luennon jälkeen tuli kysymys-vastaus
-Puhuja 0: osio.
-Puhuja 0: Sitten joku ukkeli nousi sieltä yleissuomalainen seisomaan
-Puhuja 0: ja kysyi, että
-Puhuja 0: mitä mieltä olet siitä, että olet vuonna tuhat yhdeksänsataakolmekymmentäyhdeksän
-Puhuja 0: lähettänyt
-Puhuja 0: Suomen hallitukselle
-Puhuja 0: paheksuvan kirjeen, jossa olet toivonut että Suomi lopettaisi aggressionsa Neuvostoliittoa vastaan.
-Puhuja 1: Mitä?
-Puhuja 0: Siitä tuli sellainen vaivaantunut hiljaisuuden salia, että kuka toi hullu on. Ja sitten se HOPSmoa oli silleen että
-Puhuja 0: helvettisoo, kun toi oli hänen elämänsä häpeällisimpiä tekoja. Siis hän oli tehnyt niin? Oli. Hän oli uskonut tavallaan sen mainilla laukauksen. Propagandan ja uskonut siellä onko Fordissa vai Cambridgessa.
-Puhuja 0: Nuorena älykkönä uskonut sen, että rauhanvaltion Neuvostoliitto
-Puhuja 0: ei ikinä voisi hyökätä Suomeen. Ja lähettänyt ainakin
-Puhuja 0: kollegoidensa
-Puhuja 0: kanssa
-Puhuja 0: Paheksuvan kirjeen Suomen hallitukselle. Tämä löytyy arkistoista.
-Puhuja 1: Mitä hän vastasi sitten?
-Puhuja 0: Hän vain sanoi, että en muista.
-Puhuja 0: Hän vain sanoi, että hän häpeä sitä. Hän oli orja ja tyhmä.
-Puhuja 1: Okei.
-Puhuja 1: Lyhhkeestä.
+Puhuja 2: Ja täällä toisella puolella tuttuun tapaan Maria Manner myöskin sunnuntaista.
+Puhuja 3: Hyvää päivää.
+Puhuja 3: Mitä sinulle kuuluu? Olen ollut tänään tietenkin aivan tohkeissani.
+Puhuja 3: Siitä asti kun eilen tuli se illalla uutinen, että Joe Biden
+Puhuja 3: hallinto tukee patenttisuojan
+Puhuja 3: poistamista koronarokotteilta,
+Puhuja 3: ja minusta se oli jotenkin yllättävää, että ne saivat päätöksen aikaiseksi nyt suuren paineen
+Puhuja 3: alla. Biden on lista vaalikampanjassakohdista
+Puhuja 3: kannattanutkin, mutta silti odottanut, että siinä tapahtuisi ainakaan näin pian,
+Puhuja 3: etten lähtisi sitä vtosaan
+Puhuja 3: ajamaan maailman kauppaympäristössä.
+Puhuja 3: Sitten ajattelin miettiä sitä, että se oli jännä, että kun Biden
+Puhuja 3: niistä odotukset ehkä kuitenkin oli, että se on vähän tylsä
+Puhuja 3: pliisu
+Puhuja 3: uusliberaali
+Puhuja 3: centristi.
+Puhuja 3: Nythän onkin
+Puhuja 3: radikaali kommunisti, joka purkaa patenttisuojia
+Puhuja 3: vaikka mitä.
+Puhuja 1: Hän on löytänyt Björni Sandersin vaaliohjelmaan ja nyt hän alkaa toteuttaa sitä. Mitä sosialisoidaan seuraavaksi? Joo ja eikös myös EU:ssa käyty joskus keskustelua?
+Puhuja 2: Pitäisikö
+Puhuja 2: täälläkin
+Puhuja 2: purkamaan
+Puhuja 3: patenttisuojaa? EU:han on tähän asti vastustanut sitä. Käsittääkseni myös Suomen ulkoministeriö,
+Puhuja 3: joka... Ja siis Ville Skinnari, ulkomaankauppaministeri,
+Puhuja 3: joka on yhä olemassa. Mutta jos emme kuulleet vähän aikaa, niin ilmeisesti Suomi on tukenut tätä EU:n, tai ainakaan Suomi ei ole ajanut mitään patettisuojan poistamista, mutta ei olisi kovin paljon tästä myöskään ääntä pitänyt,
+Puhuja 3: mutta tänään myös EU ilmoitti kuitenkin
+Puhuja 3: Yhdysvaltojen
+Puhuja 3: vanhavinissa.
+Puhuja 3: He saattavat harkita asiaa. Vaikka tämän ei ratkaise koko koronakriiseen, niin silti minusta oli jotenkin
+Puhuja 3: jännittävää.
+Puhuja 1: Ehkä tuo on hieno idealistinen teko nyt jälkijunassa. Rokotteet
+Puhuja 1: on kohta ainakin monella alueella annettu.
+Puhuja 1: Nyt voidaan sitten näyttää myöhemmin, että
+Puhuja 1: oikeasti kannatamme tätä, kun lääkeyhtiöt ovat saaneet jo fyrkkansa. Ja
+Puhuja 3: loput eivät haluakaan sitä.
+Puhuja 3: Totta kai ne on myös laskelmoineet, että se on varmaan hyväksi heillekin, jos muualla
+Puhuja 3: maailmassa rokottaminen.
+Puhuja 3: Ei se vie arvoa. Me ollaan koko ajan sanottu, että me ollaan kaikki samassa veneessä.
+Puhuja 3: En
+Puhuja 3: en tiedä miten nopeasti asiat etenee tai ehtiikö pandemia päättyä ennen sitä, mutta joka tapauksessa tämä oli kiinnostavaa
+Puhuja 1: Bidenilta. Todellakin. Me ollaan kaikki samassa veneessä, toisilla paremmat
+Puhuja 1: pelastusliivit.
+Puhuja 1: Kyllä. Olisin kiinnittää huomiota siihen, että kun Tuomaksen aika... Nyt puhun jo
+Puhuja 1: vanhoina aikoina kun Tuomas veti näitä alkuspiikkiä, niin eihän sitä kukaan keskeytydy.
+Puhuja 1: Ja nyt
+Puhuja 1: sosialistisen
+Puhuja 1: opiskelijaliitto
+Puhuja 1: juhlaseminaari vanhalla. Pää
+Puhuja 1: puhujana oli tiedonantajan päätoimittaja Urho Jokinen.
+Puhuja 1: Hän on tuntematon hahmo. Taistolaiset
+Puhuja 1: saivat nimensä Hesarin politiikan toimituksessa, muuten keksittiin tämän nimi.
+Puhuja 1: Hän liittyi Taisto Sinisaloon, joka oli kansanedustaja
+Puhuja 1: Kotkasta
+Puhuja 1: ja
+Puhuja 1: näkyvin hahmo näistä vähemmistökommunisteista
+Puhuja 1: eli jakautuneen SKP:n
+Puhuja 1: stalinisteista.
+Puhuja 1: Mutta
+Puhuja 1: niiden varsinainen henkinen johtaja oli tiedonantajan päätoimittaja Urho Jokinen. Se piti juuri tämän puheen, jossa hän ikään kuin sanoi, Suomi oli syypää talvisotaan.
+Puhuja 1: Siellä he nieleskelivät. Osa oli porvariperheiden
+Puhuja 1: lapsia,
+Puhuja 1: poikia tyttöjä, jotka vähän nieleskelvät, että tämä ei ole ihan
+Puhuja 1: oikein. Sinne nielasi tavallaan sen. Hokkanen kuvaa
+Puhuja 1: hyvin.
+Puhuja 1: Tämä
+Puhuja 1: on
+Puhuja 1: mielikuvitus tätä, mitä siinä oikeastaan tapahtuu. Ja mitä
+Puhuja 1: hän kuvailee, on, että se on selittämätöntä. Hänen mielestään sitä on mahdotonta sosiologisesti,
+Puhuja 1: mahdotonta
+Puhuja 1: tieteellisesti edes selittää, mitä siinä tapahtui. Siinä purkautui jotain, joka on pitkä
+Puhuja 1: suomalaisten
+Puhuja 1: latautunut tunnehistoria suhteessa Venäjään.
+Puhuja 1: Se oli
+Puhuja 1: jonkinlainen äärileimahduspiste.
+Puhuja 1: Mitä tarkemmin?
+Puhuja 1: No,
+Puhuja 1: tästähän on erilaisia, vähän tämmöinen psykoanalyyttinen
+Puhuja 1: tulkinta.
+Puhuja 1: Yksi tulkintahan on se, että isät tulivat sodasta traumatisoituneena.
+Puhuja 1: He eivät halunneet puhua siitä. He halusivat jatkaa elämää. Lapset ihmettelivät.
+Puhuja 1: He eivät saaneet
+Puhuja 1: sodan karmeutta, viholliskuvaa samalla tavalla
+Puhuja 1: välttämättä. Ei tuostakaan
+Puhuja 1: voi suurta yleistystä tehdä. Tietysti toinen on se, että halutaan kapinoida vanhempia kohtaan, halutaan kusta sankarihaudalle,
+Puhuja 1: kun
+Puhuja 1: se sodan muisto on niin tuoreena, että halutaan tehdä täydellinen,
+Puhuja 1: mikä sen parempaa kuin valita vihollinen.
+Puhuja 1: Mutta täytyy korostaa, että se oli kohtuullisen pieni joukko, joka valitsi näin. Samaan aikaan kommunistisen
+Puhuja 1: puolueen sisällä oli
+Puhuja 1: enemmistö, joka
+Puhuja 1: siis kriittisesti tuomitsi
+Puhuja 2: tsekoslovakian
+Puhuja 2: miehityksen.
+Puhuja 2: Kaikkein ryhdikkäinmissuomalaista
+Puhuja 2: puolueista. Kyllä.
+Puhuja 1: Ja kyllähän nekin tavallaan vähän peruttivat sen jälkeen ja lähestyvät uudestaan
+Puhuja 1: Moskovaa.
+Puhuja 1: Mutta kiinnostavaa,
+Puhuja 1: mitä sanoit, että se oli niin lähellä, kaksikymmentäviisi vuotta sotaa ja niin edelleen.
+Puhuja 1: Samaan aikaan 70-luvun alku oli
+Puhuja 1: hyvin jännitteistä.
+Puhuja 1: Suomessahan oli paljon lakkoja.
+Puhuja 1: Kimmo Rentola, professori
+Puhuja 1: ja itse entinen Taistolainen ja kirjoittanut
+Puhuja 1: kirjan vallankumouksen aave.
+Puhuja 1: Neuvostoliitto lähetti Helsinkiin
+Puhuja 1: BeliaCv
+Puhuja 1: nimisen suurlähettilään,
+Puhuja 1: joka väitettiin
+Puhuja 1: juonittelevan ja suunnittelevan vallankumousta
+Puhuja 1: Suomessa.
+Puhuja 1: Oikeistopiireissä
+Puhuja 1: tai isänmaallisissa piireissä, joita valtaosa oli, olimme todella huolissaan.
+Puhuja 1: Siihen kun tuli vielä tällainen outo nuorten
+Puhuja 1: äänekäs etujoukko
+Puhuja 1: näille puheineen.
+Puhuja 1: Se näyttäytyi
+Puhuja 1: Max Jacobson, joka oli diplomaatti, lehtimies ja historiankirjoittaja,
+Puhuja 1: vertasi taistolaiseen
+Puhuja 1: poliittiseen Porkkalaan.
+Puhuja 1: Se oli tämmöinen
+Puhuja 1: ideologinen
+Puhuja 1: käännytysoperaatio, että tavallaan
+Puhuja 1: keihäänkärki voi
+Puhuja 1: tuoda neuvostoaate Suomeen.
+Puhuja 3: Olen sitä sukupolvea, jolle taistolaisuus aina on näyttäytynyt
+Puhuja 3: yhä vanhemman sukupolven
+Puhuja 3: trauana ja semmoisena
+Puhuja 3: päihtynyt sukulaissitä, joka aina alkaa
+Puhuja 3: juhlissa toistamaan
+Puhuja 3: jotenkin samaa levyä ja että taistolaiset ja taistolaiset, ja onko taistolaisiksi kutsuttu milloin ketäkin, ja sitten me ollaan oltu, että no, tässä nyt on hänen sukupolvensa
+Puhuja 3: trauma
+Puhuja 3: nuo taistolaiset, ja olisiko aika mennä eteenpäin?
+Puhuja 3: Totta kai se on hemmetin kiinnostava kysymys, että miksi osa nuorisosta
+Puhuja 3: lähti tämmöisen,
+Puhuja 3: kutsukaan tätä
+Puhuja 3: jotenkin ihmisteurastamoksi
+Puhuja 3: kiinnostava kommentti lopussa siitä, että miksi hän ei tykännyt näistä rinnastuksista
+Puhuja 3: taistolaisten
+Puhuja 3: ja nykypäivän
+Puhuja 3: ilmiöiden
+Puhuja 3: välillä, tavallaan kun nimitetään, että muistuttaa taistolaisuutta vaikka intersektionaalinen
+Puhuja 3: feminismi ja niin edelleen, Mitenhän sanoikaan jotenkin, että se liittyi nimenomaan siihen, että he oli kuitenkin imperialistisen
+Puhuja 3: autoritäärisen
+Puhuja 1: järjestelmän. Niin, siis Neuvostoliitto. Vastaus on
+Puhuja 1: se ero. Siis oikeasti oli olemassa valtio,
+Puhuja 1: joka tavallaan oli heidän henkinen selkänojansa.
+Puhuja 1: Ja myös
+Puhuja 1: rahallinen tukijansa. Rahallinen tukijansa. Se on aivan erilainen
+Puhuja 1: liike, joka perustui ja nojasi siihen.
+Puhuja 1: Siis myös vaarallisuudessa.
+Puhuja 1: Mutta
+Puhuja 1: joo, nostetaan aina tämä fanaattinen kortti. Minäkin olen kuullut tämän. Eli minäkin olen niin vanha, että olisin elänyt todeksi
+Puhuja 1: tätä. Olen opiskellut poliittista historiaa ja siksi
+Puhuja 1: olen marinoitunut
+Puhuja 1: tässä keskustelussa.
+Puhuja 1: Mutta Hokkanen nostaa kirjassa myös mielestäni aika tärkeän pointin esille sen, että tämä reaktio, joka sinullakin oli, koskee nuoren polven historioitsijoita myös. Se on siten, että
+Puhuja 1: hohhoijaa. Sitä on lähinnä käsitellyt aikalaiset. Sitä ei ole kunnolla tutkittu.
+Puhuja 1: Nyt
+Puhuja 1: monen nuoren polven historioitsijat
+Puhuja 1: sanovat, että okei, kyllä tätä pitäisi oikeasti tutkia. Vastahan voi ajatella, että ehkä 1980-yhdeksänkymmentä luvulla syntyneet
+Puhuja 1: ovatkin vapaampia tutkimaan sitä kuin
+Puhuja 1: ne, jotka ovat jollain tavalla joko traumatisoituneet
+Puhuja 1: tai olleet jollain tavalla mukana.
+Puhuja 1: Se tulisi uusista näkökulmista. Mutta siellä on paljon
+Puhuja 1: kiinnostavaa tutkittavaa,
+Puhuja 1: jotta myös se kuva... Koska ainahan vastareaktio on myös se, että miksi puhumme aina taistellaisista, kun 70-luvun Suomi oli suuri menestystarina.
+Puhuja 1: Elintaso nousi.
+Puhuja 1: Sosiaalituet
+Puhuja 1: nousi. Miksi aina kiinnitämme
+Puhuja 1: yhteen äänekkääseen
+Puhuja 1: kaaderijoukkoon?
+Puhuja 3: Huomio. Sehän on ihan hyvä kysymys. Monet olivat kuitenkin ymmärtääkseni luopuneet aatteista ennen Neuvostoliiton
+Puhuja 1: kaatumista, kuten myös Hokkanen. Kyllä, näinkin. Puhuivat siitä kriittisesti. Ei hän ole ainoa.
+Puhuja 1: Osa ei ole tehnyt minkäänlaista tilintekoa
+Puhuja 1: tai koskaan sanonut, että siinä oli mitään väärää, mutta aika moni on. Katselin vappulilla Ylen Agit pro dokumenttia. Kather von Bachiin. Ei siinä ainakaan sinikka sokkaryt niin kauhean katuvalta kuulosta.
+Puhuja 2: Juu ei. Kulttuuri-ihmisillä on ehkä ollut
+Puhuja 2: enemmän analyyttista suhtautumista.
+Puhuja 2: Ehkä vielä yksi sivujuonne.
+Puhuja 2: Pitää muuten edes kirjasto sanoa tai kolmanneksen luettuani.
+Puhuja 2: Minusta on kiehtova kirjasto, on kiva lukea, mutta siinä on kamalan paljon yleistä
+Puhuja 2: Venäjän, Neuvostoliiton aatehistoriaa ja maailman tapahtumia ja kehitystä. Olisin
+Puhuja 2: paljon kiinnostuneemmin lukenut hänen omakohtaisia havaintojaan kuin
+Puhuja 2: historian taustoittavaa osuutta. Mutta
+Puhuja 2: sehän on se hänen keskeinen viestinsä siinä, että tässä oltiin diktatuurin
+Puhuja 1: viides korona tai käsikassara täällä Suomessa. Sen takia se vissiin on niin paljon siinä. No joo, siinä on tavallaan vähän se, että jos joku, joka tulisi vuonna tuhat yhdeksänsataaseitsemänkymmentäyksi
+Puhuja 1: uskoon,
+Puhuja 1: niin kertoisi siitä,
+Puhuja 1: että miten Siinainvuorella
+Puhuja 1: ja Mose
+Puhuja 1: sai käskyt
+Puhuja 1: ja niin edelleen. Hän palaa tosi syvälle ja juurruttaa sitä historiaa. Ja Neuvostoliiton ja Venäjän historiaan.
+Puhuja 1: Mikä on tavallaan kiinnostavaa, mutta siinä olisi voinut viisisataa sivusta vähän enemmän omistaa
+Puhuja 1: omille kokemuksille.
+Puhuja 2: Ja sehän tässä on kuitenkin, jos asiaa lähestyy
+Puhuja 2: ilon kautta, niin sehän taistollisuudessa on kuitenkin
+Puhuja 2: kiehtovaa.
+Puhuja 2: Eihän missään muualla
+Puhuja 2: läntisessä maailmassa ollut tällaista ilmiötä.
+Puhuja 2: Kuusikymmentäkahdeksan oli nuorisomielenosoituksia
+Puhuja 2: vallankumousta kaikkialla.
+Puhuja 2: Mutta Ruotsissa oli majoalaisia ja ties
+Puhuja 2: minkälaisia pikkuporukoita mutta ei taistolaisia. Tämmöisiä sokeita Neuvostoliiton ihailijoita. Ei meitä löydykö mistään Euroopasta.
+Puhuja 2: Eurokommunistit
+Puhuja 2: nehän ovat olleet hyvin kriittisiä Neuvostoliitossa. Esimerkiksi Ranskassa ja muualla. Mutta
+Puhuja 1: tällainen täydellinen diktatuurin nuoleskelu... Minusta tämä on ainutlaatuinen,
+Puhuja 1: kotoperäinen ilmiö. Niin, tai muualla Euroopassa se älymystön rakastuminen
+Puhuja 1: kommunismiin ja sosialismiin
+Puhuja 1: Neuvostoliittoon tapahtui montakymmentä vuotta aikaisemmin. Ja esim. Monelle talvisota
+Puhuja 1: oli se heräte, jolloin ne järkytivät, että ei jumalauta.
+Puhuja 1: Ovat hyökkääjät pienen viattoman pikkuvaltion naapurille. Esimerkiksi Britanniassa
+Puhuja 1: 30-luvun
+Puhuja 1: kommunismin sosialismin kanssa flirttailu älymystö Cambrid-Oxford
+Puhuja 1: Akselilla.
+Puhuja 1: Niille talvisota oli
+Puhuja 1: se katkaisupiste.
+Puhuja 1: Osalle se ei ollut, ja niistä tuli huippuvakoojia.
+Puhuja 1: Monelle se oli verenjakaja.
+Puhuja 2: Nyt kertomaan. Mutta siis Erik Hobsbaström, joka on varmaan yksi
+Puhuja 2: viimeisen sadan vuoden merkittävimpiä historioitsijoita joilla on
+Puhuja 2: ainakin osin marxilainen
+Puhuja 2: historiakäsitys
+Puhuja 2: että tapahtuu
+Puhuja 2: asiat eivät ole tapahtumien ketjua. Ne ovat suuria siirtymiä ajasta toiseen ja kirjoittanut
+Puhuja 2: ollut meillä tenttivaatimuksissa
+Puhuja 2: usean hänen kirjansa. Mutta
+Puhuja 2: se oli Suomessa luennoimassa joskus. Olit siellä?
+Puhuja 2: En vielä ollut opiskelemassa.
+Puhuja 2: Hän oli kuitenkin Suomessa yliopistolla luennoitsimassa ja piti tällaisen fasinoiva luennon jostain.
+Puhuja 2: Sitten luennon jälkeen tulisi kysymys-vastaus osio. Sitten
+Puhuja 2: joku ukkeli
+Puhuja 2: nousi sieltä yleissuomalainen
+Puhuja 2: seisomaan ja kysyi,
+Puhuja 2: että mitä mieltä olet siitä, että olet vuonna tuhat yhdeksänsataakolmekymmentäyhdeksän
+Puhuja 2: lähettänyt
+Puhuja 2: Suomen hallitukselle
+Puhuja 2: paheksuvan kirjeen, missä olet toivonut, että Suomi lopettaisi aggressionsa Neuvostoliittoa vastaan.
+Puhuja 2: Mitä?
+Puhuja 2: Se tuli sellainen vaivaantun hiljaisuuden salia, että kuka tuo hullu on. Hopsmaamo oli silleen
+Puhuja 2: että helvetti soikoon, toi hänen elämänsä häpeällisimpiä tekoja. Siis hän oli tehnyt niin. Hän oli uskonut tavallaan sen mainilan laukaukset. Propagandan ja uskonut
+Puhuja 2: siellä onko Fordissa vai Cambridgessa.
+Puhuja 2: Nuorena hälykkönä uskonut sen, että rauhanvaltion
+Puhuja 2: Neuvostoliitto ei ikinä voisi hyökätä Suomeen. Ja lähettänyt paheksuvan, ainakin kollegoidensa kanssa,
+Puhuja 2: paheksuvan kirjeen Suomen hallitukselle. Tämä löytyy siis arkistoista. Mitä hän vastasi sitten?
+Puhuja 2: Hän vain sanoi, että en
+Puhuja 2: muista. Hän vain sanoi, että hän häpeä sitä, että hän oli orja tyhmä.
+Puhuja 3: Okei.
+Puhuja 3: Lyhke kestä.
+Puhuja 1: Kyllä.
+Puhuja 1: Annetaan Markan kanssa muistella.
+Puhuja 1: No niin, historian opintoja.
+Puhuja 1: Palaan tänne.
+Puhuja 1: Tuomas on tosiaan toimittanut minulle käsikirjoituksen.
+Puhuja 3: Saanko sanoa tähän loppuun yhden asian? Saat sanoa. Tällä viikolla
+Puhuja 3: Briffon yhtä näyttelijä, joka näyttelee
+Puhuja 3: televisiosarjassa
+Puhuja 3: toimittaja.
+Puhuja 3: Tulee ensi vuonna, että se vaikuttaa kiinnostavalta.
+Puhuja 3: Hän oli kauhean stressaantunut aluksi siitä, että kun tuotantoyhtiö halusi,
+Puhuja 3: että
+Puhuja 3: Ettekö teillä molemmille kesken jääneitä? Ei todellakaan.
+Puhuja 2: Jaakko on maisteri, jonka kuulee puheista. Ai niin.
+Puhuja 3: Nyt loppui juontoihin. Anteeksi,
+Puhuja 2: Mutta sehän aina säveltää tämän lopun tähän. Ei, Iku, vai miten se näkyy. Ei, kyllä se tulee näin että nyt hyvät ihmiset kun tulee viikonloppu ja
+Puhuja 2: tämmöinen lumi-inferno
+Puhuja 2: väistyy ja aurinko paistaa...
+Puhuja 2: Lumipommi.
+Puhuja 2: Lumipommi
+Puhuja 3: väistyy. Ja tulee seksihelle.
+Puhuja 2: Ja menette
+Puhuja 2: kavereiden tai perheen kanssa
+Puhuja 2: istumaan
+Puhuja 2: piknikille,
+Puhuja 2: nauttimaan jotain
+Puhuja 2: kuohuijuomaa.
+Puhuja 2: Niin mitä
+Puhuja 2: Jaakko, mistä
+Puhuja 2: haluaisit puhua kavereidensi kanssa tai mitä haluaisit suositella?
+Puhuja 1: Itse asiassa unohdin, kun sanoit, että mitä on joku suositus. Mutta
+Puhuja 1: Olen lukenut paljon
+Puhuja 1: korona-aikana ja kuunnellut kirjoja koko ajan koiran kanssa ulkona ja blaa blaa blaa. Kotitöitä tehdessä. Nyt on pari tosi hyvääkin uutta kirjaa.
+Puhuja 1: Toinen on norjalaisen
+Puhuja 1: Niina Lycke romaani Kohonnut riski.
+Puhuja 1: Joka on
+Puhuja 1: tällainen viiltävä,
+Puhuja 1: ilkeä,
+Puhuja 1: pisteliäs,
+Puhuja 1: hauska ja
+Puhuja 1: koskettavakin
+Puhuja 1: romaani
+Puhuja 1: keski-luokkaisesta
+Puhuja 1: keski-ikäisestä
+Puhuja 1: Oslolaiselämästä.
+Puhuja 1: Hemmetin hyvä. Toinen on Risto Oikarisen
+Puhuja 1: Piisparomaani,
+Puhuja 1: jossa kovasti piispa Irja Askola on
+Puhuja 1: jollain tavalla muistuttava hahmo tekee
+Puhuja 1: tiliä
+Puhuja 1: kirkon suhteestaan kirkkoon ja uskontoon. Hän on siis ateisti. Tai hän ei usko Jumalaan, mutta hän on edennyt aina piispaksi asti. Se on minulle kesken, mutta älyttömän
+Puhuja 1: hyvä.
+Puhuja 3: Kuulostaa kiinnostavaa tuo Nina Lycke
+Puhuja 2: voisin lukea. Se on hyvä.
+Puhuja 3: Mekin olen lukenut pitkästä aikaa, tai kirja, minkä kaikki muut on lukenut, tämä ei ole suinkaan uusi, mutta aloin lukea yhtäkkiä tällä viikolla
+Puhuja 3: ruotsalaisen Greta Thunbergin
+Puhuja 3: perheen elämästä kertovaa kirjaa. Oletteko lukenut sen? Se on aivan ihana, ja hänen tarinansa on siis jotenkin, en ollut tai no, en ollut ehkä aavistus siitä, että millainen se on, mutta hänen äitinsä oli tunnettu
+Puhuja 3: laulaja ja tunnette sen tarinan. Mutta sitten se, miten hän kuvaa sitä,
+Puhuja 3: molemmilla tyttärillä siis oli
+Puhuja 3: pahoja syömis tai pakko-oireishäiriöitä
+Puhuja 3: tai muita
+Puhuja 3: vastaavia. Esimerkiksi Greta lopetti syömisen jossain vaiheessa kokonaan ennen aktivismiaan,
+Puhuja 3: ja miten he yritti etsiä
+Puhuja 3: hänen syömishäiriön
+Puhuja 3: ja kun kaikki pakko-oireisiin
+Puhuja 3: epätoivoisesti apua,
+Puhuja 3: ja sitten myös miten Gretan sisko sairastui ennen kuin ne sai apua lopulta lasten psykiatrisesta ja diagnoosit
+Puhuja 3: lapsille ja niin edelleen, miten ne sitten ajautui siihen aktivismiin, mutta se on ihan
+Puhuja 3: tosi kiinnostava kyllä se kirja. Siinä tulee myös välillä sitten, mitä äitikin pohtii siinä sitä, että miksi tai että asiat mitä me pidetään ihan normaaleina,
+Puhuja 3: niin
+Puhuja 3: miten ne sitten ehkä Gretan vinkkelistä on ihan järjettömiä? Kun niitä tarkkaan ottaen miettii, miksi ne on meidän mielestä normaaleja,
+Puhuja 3: että
+Puhuja 3: miksi
+Puhuja 3: tavallaan...
+Puhuja 3: Tavallaan se on asperger, joka kiinnittää huomiota
+Puhuja 3: yksityiskohtiin, jotenkin
+Puhuja 3: näkee ehkä sen maailman järjettömyyden välillä
+Puhuja 3: paremmin kuin
+Puhuja 3: me. Suosittelen.
+Puhuja 3: Sydämen asioita perhe ja planeetta kriisissä.
+Puhuja 2: Kuumeisesti mietin, minulla oli parikin vaihtoehtoa, mutta itse asiassa suosittelen yhtä asiaa kirjaa uudestaan mitä olen joskus kauan suositellut.
+Puhuja 2: Eli Phili Pullmanin Universumin
+Puhuja 2: tomu.
+Puhuja 2: Otetaan tästä varmaan puoli vuotta kun edellisen kerran puhuin tästä.
+Puhuja 2: Olen siis lukenut tämän meidän lapsillemme. Se on kolmiosainen kirjasarja ja olemme
+Puhuja 2: nyt kolmas osa,
+Puhuja 2: jossa on kahdeksansataa
+Puhuja 2: sivua.
+Puhuja 2: Kun
+Puhuja 2: luen lapsille
+Puhuja 2: vartin per ilta niin se ei ihan nopeasti
+Puhuja 2: etene. Mutta se on
+Puhuja 2: aivan huikea kirja.
+Puhuja 2: En rupea selostamaan
+Puhuja 2: juonta, mutta siinä on muun muassa
+Puhuja 2: erilaisia maailmoja
+Puhuja 2: joiden välistä voidaan hyppiä. Siinä on hyvin vahvaa
+Puhuja 2: uskontokritiikkiä
+Puhuja 2: ja
+Puhuja 2: tiedettä. Se on äärimmäisen monimutkainen juoni ja valtavasti henkilöitä. Ja nämä meidän lapset, en tiedä miten ne ovat jaksaneet
+Puhuja 2: kuunnella. Ne ovat aivan innoissaan. Ja sitten ne vielä muistaa.
+Puhuja 2: Joutuu lukiessani kysymään,
+Puhuja 2: että mikä tyyppi tämä olikaan.
+Puhuja 2: Varsinkin meidän 13-vuotias.
+Puhuja 2: Se
+Puhuja 2: hahmottaa sen kirjan
+Puhuja 2: missä
+Puhuja 2: on todella paljon
+Puhuja 2: vaikeaa.
+Puhuja 2: Suomeksi tietysti on vaikeaa kieltä. Erilaisia
+Puhuja 2: neurotieteellisiä
+Puhuja 2: käsityksiä ja fysiikkaa ja kaikkea muuta. Se poika se tajuaa kaiken. Ihan
+Puhuja 2: käsittämätöntä. Siitähän on TV-sovitus ylös Bib on.
+Puhuja 2: Siitä on kaksi kautta. Olemme katsoneet ne aina kun olemme kahdesta ekasta ja kolmosesta.
+Puhuja 2: Ne eivät ole vielä ilmestyneet. Ne varmaan tekevät, mutta luulen että se tulee olemaan teknisesti hyvin haastava, koska siinä on miljoonia aaveita ja kaikkea muuta. Että miten ne ne tekevät.
+Puhuja 2: ATK:lla,
+Puhuja 2: ATK:lla.
 Puhuja 2: Kyllä.
-Puhuja 2: Annetaan Markon kanssa muistella.
-Puhuja 0: Noniin, historian opintoja.
-Puhuja 0: Palaan
-Puhuja 0: tänne. Tuomas on toimittanut minulle
-Puhuja 0: käsikirjoituksen.
-Puhuja 1: Saanko sanoa tähän loppuun yhden asian? Saat sanoa. Tällä viikolla
-Puhuja 1: sain briffan yhtä näyttelijä, joka näyttelee
-Puhuja 1: televisiosarjassa
-Puhuja 1: toimittajaa.
-Puhuja 1: Tulee ensi vuonna, että se vaikuttaa kiinnostavalta, mutta hän oli kauhean stressaantunut aluksi siitä, että
-Puhuja 1: kun tuotantoyhtiö halusi, että hän opettelee kymmensormijärjestelmän,
-Puhuja 1: niin
-Puhuja 1: kesken jääneet poliittisen historian opinnot,
-Puhuja 1: että siellä ei ole vetänyt kymmensormi.
-Puhuja 1: Ettekö, onko teillä molemmille kesken jääneitä? No ei todellakaan.
-Puhuja 0: Jaakko on maisteri, minkä kuulee puheista. Ai niin.
-Puhuja 1: Nyt
-Puhuja 1: Nyt
-Puhuja 0: ja tällainen
-Puhuja 0: lumi-inferno
-Puhuja 0: väistyy ja aurinko paistaa.
-Puhuja 1: Lumipommi.
-Puhuja 0: Lumipommi
-Puhuja 0: väistyy.
-Puhuja 1: Tulee seksihelle.
-Puhuja 0: Ja
-Puhuja 0: menette kavereiden tai perheen kanssa
-Puhuja 0: istumaan
-Puhuja 0: piknikille.
-Puhuja 0: Nauttimaan
-Puhuja 0: jotain kuohuijuomaa.
-Puhuja 0: Niin
-Puhuja 0: mitä Jaakko, mitä haluaisit
-Puhuja 0: puhua kavereidensi kanssa tai mitä haluaisit suositella?
-Puhuja 2: Itseasiassa unohdin, kun sanoisit että pitää joku suositus. Mutta
-Puhuja 2: olen lukenut paljon nyt korona-aikana ja kuunnellut kirjoja koko ajan koiran kanssa ulkona ja blaa blaa. Kotitöitä tehdessä. Nyt on pari tosi hyvääkin uutta kirjaa.
-Puhuja 2: Toinen on norjalaisen
-Puhuja 2: Niina Lycke
-Puhuja 2: romaani Kohonnut riski.
-Puhuja 2: Se on
-Puhuja 2: tällainen viiltävä, ilkeä,
-Puhuja 2: pisti, hauska
-Puhuja 2: ja koskettavakin
-Puhuja 2: romaani
-Puhuja 2: keskiluokkaisesta keski-ikäisestä
-Puhuja 2: Oslolaiselämästä.
-Puhuja 2: Hemmetin
-Puhuja 2: hyvä.
-Puhuja 2: Toinen on Risto Oikarisen Piisparomaani,
-Puhuja 2: jossa kovasti piispa
-Puhuja 2: Irkola
-Puhuja 2: jollain tavalla muistuttava hahmo
-Puhuja 2: tekee tiliä
-Puhuja 2: kirkon suhteessa kirkkoon ja uskontoon. Hän on siis ateisti. Tai hän ei usko Jumalaan, mutta hän on edennyt aina piispaksi asti. Se on minulle kesken, mutta aivan älyttömän hyvä.
-Puhuja 1: Kuulosti kiinnostavaa tuo Nina Lycke.
-Puhuja 2: Olisin lukea. Se on hyvä.
-Puhuja 1: Minäkin olen lukenut pitkästä aikaa, tai kirja, jonka kaikki muut on lukenut, että tämä ei ole suinkaan uusi, mutta aloin lukea yhtäkkiä tällä viikolla
-Puhuja 1: ruotsalaisen Greta Thunbergin
-Puhuja 1: perheen elämästä kertovaa kirjaa. Oletteko lukenut sen? Se on aivan ihana, ja hänen tarinansa on siis,
-Puhuja 1: en ollut, tai en ollut ehkä aavistus siitä, että
-Puhuja 1: millainen se on, mutta hänen äitinsä oli tunnettu laulaja, ja tunnette sen tarinan. Mutta se, miten hän kuvaa
-Puhuja 1: sitä, meillä molemmilla tyttärillä siis oli pahoja
-Puhuja 1: syömis tai pakko-oireishäiriöitä
-Puhuja 1: tai muita
-Puhuja 1: Vastaavia, esimerkiksi Greta lopetti syömisen jossain vaiheessa kokonaan ennen
-Puhuja 1: aktivismiaan, ja miten he yritti etsiä
-Puhuja 1: syömishäiriön,
-Puhuja 1: ja kaikki pakko-oireisiin
-Puhuja 1: epätoivoisesti
-Puhuja 1: apua, ja sitten myös, miten Gretan
-Puhuja 1: sisko sairastui ennen kuin ne sai apua lopulta lasten psykiatrisesta
-Puhuja 1: ja diagnoosit
-Puhuja 1: lapsille ja niin edelleen, ja miten ne sitten ajautui siihen aktivismiin. Mutta se on tosi
-Puhuja 1: kiinnostava kyllä se kirja. Siinä tulee myös välillä sitten, mitä äitikin
-Puhuja 1: pohtii siinä sitä,
-Puhuja 1: että
-Puhuja 1: tavallaan,
-Puhuja 1: että asiat mitä me pidetään ihan normaaleina,
-Puhuja 1: niin
-Puhuja 1: miten ne sitten ehkä Kreetan vinkkelistä on ihan järjettömiä, kun niitä tarkkaan ottaen miettii,
-Puhuja 1: ne on meidän mielestä normaaleja.
-Puhuja 1: Tämä on se asperger, joka kiinnittää huomiota yksityiskohtiin, jotenkin
-Puhuja 1: näkee sitten ehkä sen maailman järjettömyyden välillä paremmin
-Puhuja 1: kuin me. Suosittelen sydämen asioita perhe ja planeetta kriisissä.
-Puhuja 0: Minulla oli parikin vaihtoehtoa, mutta itse asiassa suosittelen yhtä asiaa kirjaa uudestaan mitä olen joskus kauan suositellut.
-Puhuja 0: Eli Phillli Pulmanin
-Puhuja 0: Universumin tomu.
-Puhuja 0: Tätä on varmaan puoli vuotta kun puhuin edellisen kerran tästä.
-Puhuja 0: Olen siis lukenut tämän meidän lapsillemme. Se on kolmiosainen kirjasarja ja olemme
-Puhuja 0: nyt kolmasosa
-Puhuja 0: missä on kahdeksansataa
-Puhuja 0: sivua.
-Puhuja 0: Kun
-Puhuja 0: luen lapsille
-Puhuja 0: vartin per ilta, niin se ei ihan nopeasti
-Puhuja 0: etene. Mutta se on aivan huikea kirja.
-Puhuja 0: En rupea selostamaan juonta, mutta siinä on
-Puhuja 0: erilaisia maailmoja joiden
-Puhuja 0: välistä voidaan hyppiä. Ja siinä on tällaista hyvin vahvaa uskontokritiikkiä ja
-Puhuja 0: tiedettä.
-Puhuja 0: Ja se on äärimmäisen monimutkainen. Juo on valtavasti henkilöitä. Ja nämä meidän lapset, en tiedä miten ne ovat jaksaneet kuunnella. Ne ovat aivan innoissaan. Ne vielä muistaa. Joudun aina lukiessani kysymään välillä, että mikäs tyyppi tämä olikaan.
-Puhuja 0: Ja varsinkin meidän 13-vuotias.
-Puhuja 0: Se hahmottaa
-Puhuja 0: kirjan, jossa on todella paljon
-Puhuja 0: vaikeaa
-Puhuja 0: Suomeksi tietysti on
-Puhuja 0: vaikeaa kieltä. Ja tämmöisiä erilaisia pseudotieteellisiä
-Puhuja 0: käsityksiä ja fysiikkaa ja kaikkea muuta. Tämä poika on jotenkin ihan se, taju kaiken, ihan käsittämätöntä.
-Puhuja 2: Siitähän on tv-sovitus
-Puhuja 0: ja jos Bib on tehnyt. On.
-Puhuja 0: Siitä on kaksi kautta. Me ollaan katsottu ne aina kun ollaan kahdesta ekasta kolmosesta.
-Puhuja 0: Ei ole vielä ilmestyneet ne varmaan tekevät mutta luulen että se tulee olemaan teknisesti hyvin haastava, koska siinä on
-Puhuja 0: miljoonia aaveita ja kaikkea muuta että miten ne tekevät.
-Puhuja 0: ATK:lla,
-Puhuja 0: ATK:lla.
-Puhuja 0: Kyllä.
-Puhuja 0: Herrajestas mun pitää palata
-Puhuja 2: käsikirjoitukseen koska tähän seuraa enää loppuspiikit. Me harjoitellaan tätä viikkoon mennessä. Tässä on metotaso tässä hetkessä että kommentoit sitä että kohta kommentoi.
-Puhuja 0: Kyllä. Sanotaan näin kyllä se Tuomas jotenkin jouhevammin
-Puhuja 0: sittenkin siirtyy näistä osioista.
-Puhuja 0: Mutta Tuomas on tämän loppuspiikin kirjoittanut.
-Puhuja 0: Okei, se aina. Lukeko se aina paperista muuten siis? Ilmeisesti. Okei, siinä kaikki tältä erää. Kiitos Marko Junkkari eli minä. Kiitos Maria Manner. Kiitos Jaakko Lyytinen. Kiitos. Minkä taas oli jollain kertaa täällä. Tämä oli kivaa ja rentoa. Teidän kanssa oli kiva höpötellä.
-Puhuja 0: Joo.
-Puhuja 0: Minun nimeni ei ole Tuomas Peltomäki.
-Puhuja 0: Äänen
-Puhuja 0: ja kuvan ja kuvan meille tekevät tällä viikolla Mikko Peura.
-Puhuja 0: Moi Mikko.
-Puhuja 0: Kiitoksia.
-Puhuja 0: Ai niin, yksi juttu unohtui.
-Puhuja 0: Herrajestasiko tämä huonosti valmistanut. Viime viikolla pyysin että lukijat lähettäisivät meille
-Puhuja 1: suosituksia. Ne ovat olleet mahtavia. Aivan
-Puhuja 0: mahtavia. Kiitoksia. Mutta me käsittelemme niitä erikseen.
-Puhuja 0: Niitä
-Puhuja 0: tuli erikseen.
-Puhuja 0: Ensi
-Puhuja 1: kerralla. Joo, ensi kerralla käydä niitä läpi, koska nyt tässä on ollut näitä
-Puhuja 1: Markon valmistautunut resursseja.
-Puhuja 0: Tässä saa olla kaikenlaista. Kiitoksia kaikki.
+Puhuja 2: Herrajestas minun pitää palata nyt tähän käsikirjoitukseen, koska tähän seuraa nyt nämä loppuspiikit. Me harjoittelemme tätä siis viikkoon mennessä. Tässä on metaotaso tässä hetkessä että kommentoit sitä että kohta kommentoi.
+Puhuja 2: Kyllä. Ja kyllä Tuomas jotenkin jouhevammin, sillä sittenkin
+Puhuja 2: siirtyy
+Puhuja 2: näistä osioista.
+Puhuja 2: Mutta
+Puhuja 2: Tuomas on tämän loppuspiikin
+Puhuja 2: kirjoittanut.
+Puhuja 2: Okei, se aina
+Puhuja 2: paperista.
+Puhuja 1: Ilmeisesti. Siinä kaikki tältä erää.
+Puhuja 1: Kiitos Marko Junkkari eli minä, kiitos Maria Manner,
+Puhuja 1: Jaakko Lyytinen. Kiitos! Minkälaista oli jollain kertaa täällä. Tämä oli oikein kivaa ja rentoa. Teidän kanssa oli kiva höpötellä.
+Puhuja 1: Minun nimeni ei ole siis Tuomas Peltomäki.
+Puhuja 1: Ja äänen
+Puhuja 1: ja kuvan ja muun mahtavan meille tekevät tällä viikolla Mikko Peura.
+Puhuja 1: Moi
+Puhuja 1: Mikko.
+Puhuja 1: Kiitoksia. Ai niin, yksi juttu unohtui.
+Puhuja 2: Herrajestasiko
+Puhuja 2: tämä huonosti valmistanut. Viime viikolla pyysin että lukijat lähettäisivät meille suosituksia.
+Puhuja 3: Hei, ne ovat olleet mahtavia. Aivan mahtavia.
+Puhuja 1: Kiitos. Mutta me käsitellään niitä erikseen.
+Puhuja 3: Ensi kerralla käydä niitä läpi, koska nyt tässä on ollut näitä
+Puhuja 3: Markon
+Puhuja 3: valmistautumisjuttuja.
+Puhuja 1: Tässä on ollut kaikenlaista, kiitoksia
+Puhuja 1: kaikki.
+Puhuja 3: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin, Melko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastini, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, Ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen hämähäkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a, kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

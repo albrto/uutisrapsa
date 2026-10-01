@@ -9,14 +9,14 @@ Puhuja 0: poikkeuksellisia ja hyviä ajatuksia, mitä tulee ihmisten temporaalis
 Puhuja 0: kokemukseen, olen Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien
 Puhuja 0: podcast-studiossa,
 Puhuja 0: Sanomatalossa Suomessa, Helsingissä,
-Puhuja 0: Euroopassa, vielä toistaiseksi Euroopassa, ehkä kohta olemme kaikki osa Neuvostoliittoa,
+Puhuja 0: Euroopassa, vielä toistaiseksi Euroopassa ehkä, kohta olemme kaikki osa Neuvostoliittoa,
 Puhuja 0: ovat Helsingin Sanomien
 Puhuja 0: politiikan toimittaja Marko Junkkari. Hei Marko. Moi.
 Puhuja 0: Meillä on ilo ja kunnia
-Puhuja 0: saada tänne
-Puhuja 0: HS Vision
+Puhuja 0: saada
+Puhuja 0: tänne HS Vision
 Puhuja 0: talous
-Puhuja 0: erikois
+Puhuja 0: erikois...
 Puhuja 1: Onko hän nyt semmoinen erikoistoimea? Ei, mä oon ihan pörssitoimittaja.
 Puhuja 0: Pörssitoimittaja.
 Puhuja 0: Alex A Fearning, hei Alex. Moi.
@@ -28,28 +28,265 @@ Puhuja 2: Sähän myit itseäsi sun
 Puhuja 2: GameS Tavosakkeen.
 Puhuja 1: Niinpä. Vähän aikaa. Olta olla toi osti mukana tässä hommassa.
 Puhuja 0: Se oli kun se kiimaisin vaihe GameStapista
-Puhuja 0: alkoi. Maksu
+Puhuja 2: alkoi. Maksu
 Puhuja 2: sitten ihan sikana, jos myin puoleen heittää pois. Joo, maksoin jotain neljästä
-Puhuja 1: arvoa. Okei, no sä voit vähennät ne verotuksessa sitten En aa, voinko mä tehdä niinkin. Jos sulla on voittoja.
+Puhuja 1: arvoa. Okei, no sä voit vähennät ne verotuksessa sitten... En aa, voinko mä tehdä niinkin. Jos sulla on voittoja.
 Puhuja 0: Mahtavaa, on mullakin kyllä voittojakin.
 Puhuja 0: Tän viikon podcastissa, kuten tästä kaikesta talouskiimailusta
 Puhuja 0: kuulee,
 Puhuja 0: puhutaan sodasta ja taloudesta.
 Puhuja 0: Mikä on tilanne nyt, kun näyttää siltä, että sekä diplomatian
 Puhuja 0: että ekonomian korkeilla
-Puhuja 0: sumuisilla käy
-Puhuja 0: voiton oluet?
-Puhuja 0: Mun mielestä Päivi Räsänen vaikuttaa se niiltä oluenjuojalta.
-Puhuja 0: En tiedä, jooko hän ollenkaan yhtään mitään, mutta jos hän jotain juo, niin olen ihan varma, että otetaan hyvin miehistä kaljaa.
+Puhuja 0: sumuisilla käytävillä ihmiset kävelevät pingottuneen
+Puhuja 0: kiireisesti neukkarista toiseen pälyillen
+Puhuja 0: hermostuneesti ympärilleen,
+Puhuja 0: Alex
+Puhuja 0: kertoo.
+Puhuja 0: Myös keskustellaan Päivi Räsäsen pitkään odotetusta oikeudenkäynnistä
+Puhuja 0: oliko kristillisdemokraattien
+Puhuja 0: entinen puheenjohtaja syyllinen kansanryhmää vastaan kiihottamiseen,
+Puhuja 0: kun hän perusteli homovastaisia näkemyksiään Imatralla vai oliko kyse vain vanhanaikaisesta
+Puhuja 0: ja älyttömästä
+Puhuja 0: taksiksesta,
+Puhuja 0: joka typeryydestään
+Puhuja 0: huolimatta olisi sallituissa rajoissa hot toikit
+Puhuja 0: kaikilta tässä podcastissa.
+Puhuja 0: Ja vielä
+Puhuja 0: Marko Junkkari
+Puhuja 0: tarjoaa
+Puhuja 0: syvällisehkön,
+Puhuja 0: vaikkakin aika myöhäisen analyysin
+Puhuja 0: aluevaalien merkityksestä politiikan tulevaisuudelle Suomessa.
+Puhuja 0: Eihän mennyt ylimyynnin puolelle.
+Puhuja 0: No katsotaan. Pakko myöntää, että nyt kun meillä on Instagram-live tuo Semeneste, meneekö se minnekään, mutta mulle tuli sellainen jännitys
+Puhuja 0: pitkästä aikaa. Kauan me ollaan tehty tämän podcastin kuusi vuotta?
+Puhuja 0: Aika pitkään kyllä. Jännitys on, siitä on pitkä aika, mutta nyt semmoinen tuli.
+Puhuja 0: Mä jotenkin selvästi omassa päässämme miellän, että Instagram-ihmiset ovat silloin supervaativia.
+Puhuja 0: Mitä te tulette tähän yrittäjyyteen?
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 0: pitkien, epämukavien
+Puhuja 0: hiljaisuuksien
+Puhuja 0: varalle.
+Puhuja 0: Okei,
+Puhuja 0: moni asia on yhtä aikaa lähestymässä lakipistettään
+Puhuja 0: täällä maapallolla. Nato kertoi eilen tiedotustilaisuudessa
+Puhuja 0: pääsihteerissä Gentbergin
+Puhuja 0: suulla, että se aikoo lisätä miehitystä itäiseen Eurooppaan.
+Puhuja 0: Putinin arvellaan ajaneen itsensä nurkkaan, josta hän ei pääse ulos kuin kiertämällä tankilla Ukrainan
+Puhuja 0: puolelta. Samanaikaisesti
+Puhuja 0: keskuspankit aikovat lopettaa kaksi vuotta kestäneen lähes määrättömän rahan jakamisen eli koronaelvytyksen.
+Puhuja 0: Yhdysvalloissa
+Puhuja 0: inflaatio
+Puhuja 0: on niin korkealla, että sellainen nähtiin viimeksi 1980-luvulla
+Puhuja 0: ja siis mittakaavaa valaistakseni
+Puhuja 0: se oli sama vuosikymmen, jolloin viimeksi
+Puhuja 0: esimerkiksi itse olen istunut patalla.
+Puhuja 0: Alex, Tavinsen korvaan kuulostaa siltä, että kun kaikki nämä asiat tapahtuu nyt jostain käsittämättömästä syystä kaikki tää tapahtuu yhtä aikaa,
+Puhuja 0: niin se kuulostaa siltä, että
+Puhuja 0: kohta rytisee kovaa vähän joka paikassa. Mutta voitaisko me sun
+Puhuja 0: taloustietämyksen
+Puhuja 0: ja sun niin kuin
+Puhuja 0: markkinaymmärryksen
+Puhuja 0: ja kaiken muun tämmöisen hienon
+Puhuja 0: turvin jotenkin avata tätä
+Puhuja 0: kuviota, että miksi tää kaikki nyt jotenkin
+Puhuja 0: klimppi ja solmusyhermä
+Puhuja 0: kietoutuu toisiinsa.
+Puhuja 1: Sä haluat siis maailmanselityksen.
+Puhuja 1: Kiitos tästä kysymyksestä.
+Puhuja 1: Niin kuin sanoinkin, ollut ihan hullu markkinaviikko. En muista
+Puhuja 1: ikinä, että osakekurssit olisi heilunut edestakaisin
+Puhuja 1: tällä tavalla.
+Puhuja 2: Tunnettu hahmo ja
+Puhuja 2: laittoi viestin eräs Lapissa asua tuttu joka sanoo, että esimerkiksi Ranua alla
+Puhuja 2: mennä lääkäriin niin se synonyymi ja mennä pisalle. Se on semmoinen peeisan
+Puhuja 2: hukku,
+Puhuja 2: seitsemänkymmentäviisi prosenttia äänistä. Se meni kirkkaasti läpi. Näitä
+Puhuja 2: oli monta muutakin.
+Puhuja 2: Näitä oli
+Puhuja 2: siis pitkälle toistakymmentä eronkasta, jotka saivat yli viisikymmentä prosenttia jonkun
+Puhuja 2: kunnan
+Puhuja 2: äänistä ja meni niillä jälkelällisia pieniä kuntia.
+Puhuja 2: Meni näillä pikkukunnan
+Puhuja 2: äänillä
+Puhuja 2: eikä sanomisen
+Puhuja 2: alueen sisällä missään muusta kunnassa, oikeastaan olka ääniä. Ne meni yhden kunnan äänille
+Puhuja 2: siinä valtuustoon, mikä minusta on jotenkin hauskaa.
+Puhuja 0: Mutta kiinnostavaahan on se, että jos tuo sama ilmiö on aiemmin,
+Puhuja 0: se on johtanut siihen, että valitaan kunnanvaltuusto,
+Puhuja 0: joka esimerkiksi
+Puhuja 0: vastustaa jotain
+Puhuja 0: sairaaloiden siirtelyä tai vastustaa joko päivystyksen
+Puhuja 0: siirtoa tai
+Puhuja 0: terveyskeskuksen purkamista.
+Puhuja 0: Kun se tahto on valunut sinne kunnanvaltuustoon, niin se on automaattisesti myös,
+Puhuja 0: koska kunnat on autonomisia, niin se on johtanut siihen, että kunnat on pysäyttänyt ne prosessit, ne ei tapahdu. Mutta nyt kun se ääni ei menekään sinne kunnanvaltuustoon, vaan se menee tämmöiselle yhdelle hepulle ja heille hyvä suoritus, Mutta he ei yksinään kykene enää pysäyttää niitä prosesseja, vaan itse
+Puhuja 0: asiassa, koska ne lyödään sinne samaan valtuustoon,
+Puhuja 0: niin nämä prosessit on sellaisia, että ne menee eteenpäin. Kaikki se, mitä kunnat on painanut jarruja tähän niin ne prosessit nyt kähtävät eteenpäin.
+Puhuja 2: Jos miettii kuntalaisen vinkkelistä, niin vaihtoehtona,
+Puhuja 2: että Ranuaalta ei ole siellä Lapin aluevaltuustossa
+Puhuja 2: ketään, tai sitten Timo Peisa, niin luulen että heille se, että meillä on yksi ranualainen, on parempi
+Puhuja 2: kuin siellä ei ole yhtään. Vaikka se yksin voisi pysäyttää
+Puhuja 2: Ranuan terveyskeskuksen
+Puhuja 2: alasajoa.
+Puhuja 2: Minusta tuo oli kiinnostavaa, että jos miettii, että tämän piti olla
+Puhuja 2: isomman alueen vaali kuin kuntavaali.
+Puhuja 2: Tästä oli itse asiassa pieni kuntavaali. Tässä mentiin vielä pienempään.
+Puhuja 2: Ei se tietysti kaikkialla, mutta tämä näkyi näissä,
+Puhuja 2: vaikka keskustan Annika Saarikko
+Puhuja 2: tai Varsinais-Suomessa. Ei se mitenkään mahdottomasti niitä ääniä saanossa. Taisi
+Puhuja 2: Taisi olla kymmenestä tai jotain siellä ääniä saaneissa. Tai
+Puhuja 2: Mikko Kärnä, joka ei päässyt Lapissa edes läpi, joka on kumminkin tunnetuimpia ties. Okei, mä en tiedä.
+Puhuja 2: Lapissa
+Puhuja 2: Rankkiisen vertailuuku oli siellä kahdeksankymmentäkaksi.
+Puhuja 2: Sai jotain kaksisataa ääntä. Auts.
+Puhuja 2: Mutta se... Mä kysyisin kirjan, että Kärnä oli mielestäni
+Puhuja 2: sen Timo Peiisan antiteesi, että siis kärnä joka on tavallaan
+Puhuja 2: internetpoliitikko
+Puhuja 2: ja valtakunnallisesti
+Puhuja 2: tunnettu, mutta ei kukaan usko, että se kärnä voisi
+Puhuja 2: estää sen Ranuan
+Puhuja 2: terveyskeskuksen sulkemisen, koska kärnä liikkuu muissa sfääreissä. Tässä säädettiin
+Puhuja 2: hyper paikallisesti.
+Puhuja 2: Mikä on kiinnostavaa, eikä tosin kaikki. Tämä koskee siis pieniä kuntia mutta tämä isolta osin
+Puhuja 2: mahdollisti sen kepun huikean hyvän tuloksen koska kepun kampanja oli se, että
+Puhuja 2: joka kunnassa pitää säilyttää
+Puhuja 2: terveysasema ja lähipalvelut ovat tärkeitä. Niin kepu
+Puhuja 2: onnistui
+Puhuja 2: saamaan pienten kuntien
+Puhuja 2: ihmiset
+Puhuja 2: äänestämään. Ja se tavallaan takaisin ja keskusta on taas niissä vahvoja.
+Puhuja 2: Ja sitten sellainen huomio, että
+Puhuja 2: se ei välttämättä
+Puhuja 2: ole mikään automaatio, että jossain
+Puhuja 2: pienessä kunnassa, että äänestä menisi kepulaiselle, koska nehän periaatteessa
+Puhuja 2: valitaan
+Puhuja 2: vain yksi tyyppi joka on kunnassa tunnettu ja luotettu ja näin. Sehän ei välttämättä
+Puhuja 2: tarvitsisi olla kepulainen, mutta koska pienet kunnat on pääsääntöisesti kaikkia kepulaisia. Käytännössä tämä suosii
+Puhuja 1: keskustaa.
+Puhuja 1: Aina hämmästyn kun katsotaan tuota kuntakohtaista
+Puhuja 1: suurinta puoluetta, että miten vihreältä se kartta näyttää.
+Puhuja 1: Sana nyt jotain lukuja. Kuinka monessa kunnassa suurin piirtein keskusta suurin?
+Puhuja 2: Jos kuntia on jotain vähän yli kolmesataa, niin en muista.
+Puhuja 0: Varmaan yli kahdessa sarjassa. Niin, mutta ei niillä puilla ole mitään väliä kivillä.
+Puhuja 0: Miten
+Puhuja 0: ihmiset jossain muualla kuin vihreällä
+Puhuja 0: kartan alueella?
+Puhuja 1: Mulla on yksi kysymys.
+Puhuja 1: Olet varmaan jutellut Suomen poliittisen kentän läpi viime päivinä.
+Puhuja 1: Kummat ovat enemmän paniikissa
+Puhuja 1: vaalitoistaan? Vihreät vai persut?
+Puhuja 2: Vihreät, en usko että tämä persuja hetkiuttaa suuntaa aika toiseen.
+Puhuja 2: Persuilla on uusi puheenjohtaja tai Riikka Purralle
+Puhuja 2: ensimmäinen näytön paikka eikä mennyt ihan putkeen, mutta en usko että tämä heiluttaa hänen asemaansa.
+Puhuja 2: Koska
+Puhuja 2: perussuomalaiset eivät etukäteenkään uskonut saavansa tästä vaaleista kovin kummosta tulosta, että tämä ei kauheasti
+Puhuja 2: vaikuta.
+Puhuja 2: Mutta vihreissä on siellä kyllä myllertä. Tässä
+Puhuja 2: Osmo Soininvaara kirjoitti
+Puhuja 2: mainiot analyysit vihreiden ongelmista ja moni muu on tullut perässä.
+Puhuja 2: Just
+Puhuja 2: tänään juttelin erään vihreän kanssa pitkään, joka
+Puhuja 2: päivitteli
+Puhuja 2: puolueen tilaa.
+Puhuja 2: Ne on todellisessa kriisissä tällä hetkellä. Siellä
+Puhuja 2: siellä
+Puhuja 2: on kuppikuntia, jotka riitelee keskenään ja tavallaan tästä puolueen tulevaisuudesta ei tunnu oikein olevan kellään selvää
+Puhuja 0: näkemystä.
+Puhuja 0: Toisaalta nyt on selkeästi semmoinen, että
+Puhuja 0: kaikki semmoiset, joita on vituttanut se vihreiden
+Puhuja 0: Instagram-feminismi
+Puhuja 0: ja vegaanihaasteasianjo,
+Puhuja 0: niin ne nyt ilkkuu ja hyppii haudoilla.
+Puhuja 0: Selkeästi
+Puhuja 0: monet tietyn ikäiset ja näköiset kolumnistit iltapäivälehdissä on kirjoittanut sellaisia pitkiä pitkiä, pitkiä, pitkiä lällättätelykirjeitä
+Puhuja 0: vihreille,
+Puhuja 0: missä varmasti on pointteja ja ne ehkä hyvin samanhenkisiä kuin mikä
+Puhuja 0: mun kritiikki oli viimeksi vihreitä kohtaan, että he on luopunut tästä yleispuolueen
+Puhuja 0: asemasta.
+Puhuja 0: Mutta koska mun on aina pakko ajatella päinvastoin kuin kaikki muut, niin mä aion nyt vaihtaa mun puolta. Itse asiassa vihreiden pitää mennä vielä syvemmälle
+Puhuja 0: sinne
+Puhuja 0: ääri-Instagra-touhun,
+Puhuja 0: koska siellä se tulevaisuus kuitenkin on.
+Puhuja 2: Niin, minusta Soinivaara kirjoitti
+Puhuja 2: tästä aiheesta ja sillä oli aika raadollinen näkemys.
+Puhuja 2: Kun yksi selityshän tälle vihreiden ongelmalle on se, että se puolue meni niin rajusti vasemmalle ja
+Puhuja 2: Vihreiden kansanedustajat ovat kaikki
+Puhuja 2: kutakuinkin arvokartan vasemmassa alakulmassa. Eli erittäin liveroilla ja vasemmistolaisia.
+Puhuja 2: Niini Soinivaara kirjoitti omassa analyysissaan, että ongelma ei ole itse asiassa se, että
+Puhuja 2: ne ovat menneet vasemmalle vaan se, että kaikki muut ovat häipissyt ja ovat pelkästään ne. Ja vielä isompi ongelma on se, että ne eivät ole oikeita vasemmistolaisia vaan vulgaarivasemmistolaisia,
+Puhuja 2: jotka tavallaan esittää vasemmistolaista.
+Puhuja 2: Sieltä puuttuu
+Puhuja 2: analyysi ja kyky tajuta mitä vasemmistolaisuus oikeasti on.
+Puhuja 2: Tai aika julmaa. Kyllä.
+Puhuja 0: Joo.
+Puhuja 0: Oliko vielä jotain vaaleista?
+Puhuja 2: No ei, mutta
+Puhuja 0: musta nää oli hauskat vaalit. Mä olin yllättävän tyytyväinen. Mun mielestä nää tuntui
+Puhuja 0: luontevammilta
+Puhuja 0: vaaleilta kuin
+Puhuja 0: esimerkiksi kunnallisvaalit.
+Puhuja 0: Näissä oli joku jännä logiikka.
+Puhuja 0: Kun kunnallisvaaleissa on, että siellä on paljon enemmän semmoista paskaa.
+Puhuja 0: Semmoista sekoilua sen ympärillä, mikä ei liity mitenkään mihinkään. Me oli semmoista, että nyt äänestetään näistä saalleloista
+Puhuja 2: ja vanhojen huollosta ja sillä selvä. Minusta ilahduttavaa tässä oli oikeastaan se, että
+Puhuja 2: esimerkiksi eduskuntavaalitenteissä
+Puhuja 2: ongelmahan on se, että kun
+Puhuja 2: erilaisia politiikan lohkoja on niin valtavasti.
+Puhuja 2: Vaalitentissä
+Puhuja 2: käydään, puhutaan turvallisuuspolitiikkaa
+Puhuja 2: neljä minuuttia
+Puhuja 2: ja taloutta kahdeksan minuuttia ja
+Puhuja 2: sotea kuusi minuuttia. Tässä puhuttiin vain ja ainoastaan sotesta. Ja se tavallaan keskustelutaso paranee vääjäämättä.
+Puhuja 2: Täysin
+Puhuja 1: junttitössitoimittajan
+Puhuja 1: nyt. Minun on pakko myöntää, että mua ei napannut näillä alivalaji.
+Puhuja 0: Mutta nyt hiljennetään fantasiaoimaan.
+Puhuja 0: Mä olen aina ajanut vahvoja maakuntia.
+Puhuja 0: En kepulalaisella tavalla, vaan amerikkalaisella
+Puhuja 0: tavalla, semmoista osavaltioiden
+Puhuja 0: Suomea. Se olisi mun mielestä, mihin tämän kehityksen pitäisi johtaa.
+Puhuja 0: Ja nyt ollaan monta askelta enemmän siellä päin. Seuraavaksi tulee, pikkuhiljaa
+Puhuja 0: korkeakoulut siirtyy sinne. Mä haluaisin, että nämä maakunnat olisi
+Puhuja 0: superautonomisia,
+Puhuja 0: että ne pystyy itse säätämään.
+Puhuja 0: Soten suhteen aika paljon on, että ne pystyy järjestämään, mitä haluaa.
+Puhuja 0: Mun mielestä esimerkiksi rannikkoruotsalaisten
+Puhuja 0: pitäisi tehdä semmoinen
+Puhuja 0: se Vaaase ja museo, niiden pitäisi tehdä semmoinen täysin yksityistetty
+Puhuja 0: terveydenhuolto, ei mitään sosialismia tänne.
+Puhuja 0: Ja sitten
+Puhuja 0: hakee just joltain
+Puhuja 0: Brysselistä, hakee jotain keskuspankkirahaa tai jotain, rakentaa sinne vaan ihan silmittömästi aivan huippu futuristisia
+Puhuja 0: sairaaloita.
+Puhuja 0: Ja sitten ne pystyy lällättämään meille muille suomalaisille, hähähäh, heillä toimii systeemin paljon paremmin. Se kiihdyttää
+Puhuja 0: eriytymiskehitystä,
+Puhuja 0: jonka jälkeen eri maakunnilla rupeaa olemaan omat
+Puhuja 0: semmoiset luonteteet.
+Puhuja 0: Ja se
+Puhuja 0: on semmoinen, mitä mä haluaisin. Vitsi, se olisi mahtavaa. Just joku Kajaanin semmoinen
+Puhuja 0: melkein separatistinen
+Puhuja 0: ja itsenäinen kommunistivaltio.
+Puhuja 1: Kyllä, sieltä voisi shoppaililla itsellään mieluisan
+Puhuja 1: silleen.
+Puhuja 0: Niin, sitten me voitaisiin valita, aidosti ja oikeasti valita, että minkälaisessa Suomessa me halutaan elää. Eikä ole pakko yrittää tehdä kaikesta esimerkiksi tasapaksua tahnaa. Just näin. Niin.
+Puhuja 0: Eiks niin, Marko? Me ajetaan tätä kehitystä. Hyvä.
+Puhuja 0: Okei, sitten kun...
+Puhuja 0: Mitäköhän tässä nyt tekisi?
+Puhuja 0: Oikeudenkäynnin jälkeen menette siihen Helsingin Käräjoen-aikaiseen läheiseen
+Puhuja 0: kuppilaan ja siellä istutte Päivi Räsäselle tarjoamaan
+Puhuja 0: voiton oluet. Minun mielestä Päivi Räsänen vaikuttaa se niiltä oluenjuojalta.
+Puhuja 0: En tiedä, juoko hän ollenkaan yhtään mitään, mutta jos hän jotain juo, niin olen ihan varma, että tämä hyvin miehistä kaljaa.
 Puhuja 0: Näin.
 Puhuja 0: Siellä
-Puhuja 0: sitten viihdyttette häntä ja muita
+Puhuja 0: sitten
+Puhuja 0: viihdytätte häntä ja muita
 Puhuja 0: kristillisiä hihuleita kaikilla jutuilla.
 Puhuja 0: Mitä juttuja, Marko?
-Puhuja 2: Mulla oli se ongelma, kun en edes muista mitä kaikkea olen suositellut ja mitä en.
-Puhuja 2: Tuppulainen näin. Varmaan ehkä tuplailemaan.
+Puhuja 2: Mulla oli se ongelma, kun en edes muista mitä kaikkea olen suositellut ja mitä en. Tuppulainen näin. Varmaan ehkä tuplailemaan.
 Puhuja 2: Voisin kehua
-Puhuja 2: muistaakseni en ole tätä kehua. Luin tästä jo vähän aikaa viime syksynä ja itse asiassa kirjoitin tästä pikku pätkän sunnuntain lehteen.
+Puhuja 2: muistaakseni
+Puhuja 2: en ole tätä kehua. Luin tästä jo vähän aikaa viime syksynä ja itse asiassa kirjoitin tästä pikku pätkän sunnuntain lehteen.
 Puhuja 2: Minulla on siis
 Puhuja 2: tämmöinen suuri
 Puhuja 2: yrityshistoriikkien
@@ -60,8 +297,7 @@ Puhuja 2: yrityksiä, missä on pieniä sivujuttuja, missä on aina joku
 Puhuja 2: anekdootti
 Puhuja 2: yhtiön historiasta. Jos kerrotaan jokin hauska sattumus tai juttu
 Puhuja 2: eri firmoista ja me ollaan tehty niitä kymmeniä.
-Puhuja 2: Näitä sattumuksia löytää
-Puhuja 2: kaikkein parhaiten
+Puhuja 2: Näitä sattumuksia löytää kaikkein parhaiten
 Puhuja 2: yrityshistoriikeista,
 Puhuja 2: mitä yritykset yleensä teettää, kun ne täyttää sata vuotta tai kaksikymmentä vuotta tai jotain.
 Puhuja 2: Täytyy sanoa, että historiikit on yleensä aika tylsiä.
@@ -77,20 +313,21 @@ Puhuja 2: Luin joku aika sitten, tämä on siis syksyllä ilmestynyt
 Puhuja 2: Sakari Siltala
 Puhuja 2: ja tämä Teemu
 Puhuja 2: Kismurto, tai kuuluisa historioitsija
-Puhuja 2: Keskisarja, niin he tekivät Versowoodista,
-Puhuja 2: joka on
+Puhuja 2: Keskisarja, niin he tekivät Versowoodista, joka on
 Puhuja 2: Suomen suurin salayhtiö, nykyään
-Puhuja 2: historiikin.
-Puhuja 2: Tämmöinen Kopran suku on
-Puhuja 2: omistanut sen, perustanut isoisoisä
+Puhuja 2: historiikin. Tämmöinen
+Puhuja 2: Kopran suku on omistanut sen, perustanut isoisoisä
 Puhuja 2: Karjalassa
-Puhuja 2: nykyisen Venäjän puolella 1800-luvun
+Puhuja 2: nykyisen Venäjän puolella
+Puhuja 2: 1800-luvun
 Puhuja 2: lopussa ja se on sukupolvesta toiseen, koko suku on sahannut.
 Puhuja 2: Nykyään Versowood, joka pääkonttori on vissiin Vierumäellä, niin se on Suomen suurin sahayhtiö.
-Puhuja 2: Kirja on ihan huikea. Siitä puuttuu täysin se sordiino. Se menee melkein nykypäivään asti.
+Puhuja 2: Kirja on ihan huikea. Siitä puuttuu täysin
+Puhuja 2: se sordiino. Se menee melkein nykypäivään asti.
 Puhuja 2: Keijo Kopra, joka
 Puhuja 2: johti firmaa vuoteen kaksituhatta kuusi asti, jolloin siirsi sen omistuksen puoliksi kahdelle pojalleen
-Puhuja 2: Villelle ja Pekalle. Sukupuolenvaihdos meni ihan päin helvettiä. Isä piti jäädä eläkkeelle.
+Puhuja 2: Villelle ja Pekalle.
+Puhuja 2: Sukupuolenvaihdos meni ihan päin helvettiä. Isä piti jäädä eläkkeelle.
 Puhuja 2: Pojilla oli tasasuuret omistukset.
 Puhuja 2: Neljäkymmentäyhdeksän prosenttia
 Puhuja 2: molemmilla, mutta välissä oleva pikku potti oli isällä. Isä oli
@@ -124,16 +361,16 @@ Puhuja 1: tämmöisen kirjan kuin Putinin sisäpiirissä. Vanha FT:n toimittaja.
 Puhuja 1: Entinen FT:n toimittaja tehnyt sen.
 Puhuja 1: Todella
 Puhuja 1: karuu. Kyllä sen tietää otsikkotasolla
-Puhuja 1: miten se Venäjän talous toimii. Mutta
-Puhuja 1: Ei
+Puhuja 1: miten se Venäjän talous toimii.
+Puhuja 1: Mutta... Ei
 Puhuja 1: tää oli.
 Puhuja 1: Catherine Belttonin.
 Puhuja 1: No ennen,
 Puhuja 1: käydään vaan läpi, miten
 Puhuja 1: Venäjän poliittinen systeemi toimii
-Puhuja 1: ja minkälainen omaisuudensuoja
+Puhuja 1: ja millainen omaisuudensuoja
 Puhuja 1: siellä on.
-Puhuja 1: Tiedän esimerkiksi pörssistä, olen seurannut Gazpromin. Ja on tietysti
+Puhuja 1: Tiedän esimerkiksi pörssistä, olen seurannut Gazpromin. Ja on
 Puhuja 1: mitä se firma. Ei vaan, että se tekee öljyä ja kaasua, mutta tarkemmin. Kyllä mä tiedän, mitä se omistaa. Mutta en ole tiennyt yhtään, miten karustissa sen kautta
 Puhuja 1: Venäjän omaisuutta on jaettu.
 Puhuja 1: Ihan viime vuosina olen kuullut monilta Venäjän salkunhoitajilta
@@ -142,11 +379,12 @@ Puhuja 1: omaisuuden suoja on paljon parempi kuin aiemmin.
 Puhuja 1: Sitten kun lukee tätä kirjaa,
 Puhuja 1: pikkasen eri stoori muodostuu siitä maasta.
 Puhuja 0: Joo,
-Puhuja 0: mä luin semmoinen kirjavastaava,
+Puhuja 0: mä luin
+Puhuja 0: semmoinen kirjavastaava,
 Puhuja 0: niitä on muutama kirja. The Man Withd Face, joka kertoo Putinista hänen lähipiiristä. Muistan, tämä oli todella kylmäävä ja hyvä ja jotenkin masentava kirja.
 Puhuja 0: Mua jotenkin pelottaa tosi paljon, että mitä Venäjällä tapahtuu Putinin jälkeen, koska se,
 Puhuja 0: nuo asiantuntijat,
-Puhuja 0: nehän niinku Ja ilmeisesti ei ole mitenkään Eskiistan alaista sanoa, että Venäjä on
+Puhuja 0: nehän niinku... Ja ilmeisesti ei ole mitenkään Eskiistan alaista sanoa, että Venäjä on
 Puhuja 0: valtio, jota johtaa mafiaan.
 Puhuja 0: Siis tavallaan
 Puhuja 0: kunnioitus ja väkivaltasuhteisiin
@@ -155,20 +393,20 @@ Puhuja 0: Tämä on paljon sanottu,
 Puhuja 0: mutta voi olla sitä mieltä, että Putin, monella tavalla Putin on täysin legitiimi-presidentti,
 Puhuja 0: ei siinä, mutta se järjestelmä
 Puhuja 0: toimii kuten mafia. Kavereille
-Puhuja 0: nämä osuudet ja nämä miljöiltä,
+Puhuja 0: nämä osuudet ja nämä miljöiltä
 Puhuja 0: tämä kaasu homma ja näin päin pois. Kaikki vähän niin kuin vahtii
 Puhuja 0: omia feef-domea,
 Puhuja 0: en tiedä, mikä se on suomeksi, herttua kuntia.
 Puhuja 0: Kaikki vahtii niitä ja pelaa omaan pussiin siellä.
 Puhuja 0: Se järjestelmä on semmoinen.
-Puhuja 0: Siitä johtuen, että kun asiantuntijat on sitä mieltä, että tämmöinen maa se Venäjä on, niin sitten mua jotenkin pelottaa ihan hirveästi, että miten sitten kun se Kapodit tuttikapi
+Puhuja 0: Siitä johtuen, että kun asiantuntijat on sitä mieltä, että tämmöinen maa se Venäjä on, niin sitten mua jotenkin pelottaa ihan hirveästi, että miten sitten kun se Kapodit tuttika
 Puhuja 0: päättää sieltä lähteä ja nämä kaikki prinssit alkaa, että no niin, kukas ottaa tämän haltuunsa. Jotenkin tuntuu, että ei se voi mennä mitenkään sujuvasti.
 Puhuja 0: Mulla on kyllä aina vahva kuva, että me tullaan joskus vielä kaipaamaan Putinia. Kyllä. Nähdään, kun se seuraava avustaja on. Kyllä. Muistatteko, miten hirveä ihminen on George W Bush silloin 2000-luvun alussa ja miten upealta ihmiseltä vaikuttaa nyky? Niinpä, maailma oli paljon jotenkin yksinkertaiselta
 Puhuja 1: silloin.
 Puhuja 0: Joskus mekin kaipaillaan Putin.
 Puhuja 0: Okei, mä aloin suositella ihan lyhyesti
-Puhuja 0: kirja, joka mulla on puolivälissä. Semmoinen kuin Viiral kirjoittaja on yksi kovimmista kirjoittajista
-Puhuja 0: koskaan.
+Puhuja 0: kirja, joka mulla on puolivälissä.
+Puhuja 0: Semmoinen kuin Viroll kirjoittaja on yksi kovimmista kirjoittajista koskaan.
 Puhuja 0: Sir,
 Puhuja 0: Matt, Riddly.
 Puhuja 0: Entinen,
@@ -179,8 +417,9 @@ Puhuja 0: Norten Rock,
 Puhuja 0: sen
 Puhuja 0: toimitusjohtaja oli silloin.
 Puhuja 0: Se menee avopään helvettiä ja sitten hän alkoi tämmöiseksi tiedekirjoittajaksi.
-Puhuja 0: Hän on erinomainen tiedekirjoittaja,
-Puhuja 0: ehkä paras mitä on. Hänen kirjat on käsittämättömän
+Puhuja 0: Hän on erinomainen
+Puhuja 0: tiedekirjoittaja.
+Puhuja 0: Ehkä paras mitä on, hänen kirjat on käsittämättömän
 Puhuja 0: kovia.
 Puhuja 0: Matthew Ridely, Mattheadley.
 Puhuja 0: Hän on kirjoittanut kirjan
@@ -189,7 +428,8 @@ Puhuja 0: tutkijan,
 Puhuja 0: jonka nimi hän ikävä kyllä muista, mutta hän on vain nainen, joten en tietenkään muista, koska olen misuknisti.
 Puhuja 0: En oikeasti ole.
 Puhuja 0: Niin, kirjan nimi on Viiru ja se on kirjoitettu tästä hypoteessistä,
-Puhuja 0: joka on paljastamassa todeksi, että
+Puhuja 0: joka on paljastamassa todeksi,
+Puhuja 0: että
 Puhuja 0: virus lähti kiinalaislabroista
 Puhuja 0: Wuhanin alueella.
 Puhuja 0: Ja se kirjoitettiin silloin, kun tämä oli erittäin määrä mielipide ja vain
@@ -200,7 +440,7 @@ Puhuja 0: miksi, miten virukset käyttäytyvät, miten ne leviää, miten zoonoc
 Puhuja 0: Todella, todella hyvää kamaa. Suosittelen
 Puhuja 0: lämpimästi.
 Puhuja 0: Sinä
-Puhuja 0: kaikki tältä erää. Kiitos, Marko Junkkari. Kiitos.
+Puhuja 0: kaikki tältä erää. Kiitos Marko Junkkari. Kiitos.
 Puhuja 0: Kiitos, Alex Af Häullin. Kiitos. Mun nimi on Tuomas Peltmäki. Äänenä kuvan ja kaiken muun mahtavan meille tekee tällä viikolla. Mikko Peura,
 Puhuja 0: muistakaa lähettää meille palautetta: uutiskirjeraportti.
 Puhuja 0: Instagram-seuraajille,

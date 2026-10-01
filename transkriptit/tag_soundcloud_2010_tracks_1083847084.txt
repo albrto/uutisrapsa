@@ -1,226 +1,483 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina kahdeksan. Heinäkuuta.
-Puhuja 0: Me olemme täällä sateenhuuhtomassa
-Puhuja 0: ihanan
-Puhuja 0: raikkaassa Helsingissä
-Puhuja 0: Sanoimaton
-Puhuja 0: kuutiossa, rautatieaseman
-Puhuja 0: vieressä seiskakerroksessa.
-Puhuja 0: Kanssani täällä studiossa
-Puhuja 0: istuu ulkomaantoimittaja
-Puhuja 0: Sara Vainio. Moikka Sara!
-Puhuja 0: Ja sitten täällä on myös HSY:n toimittaja Joakim Westrendol. Moikka Joaki. Moikka moi.
-Puhuja 0: Mun nimi on Al Maunali ja tänään me puhutaan
-Puhuja 0: vakavista aiheista.
-Puhuja 0: Ensinnäkin aloitamme ilmastokriisi
-Puhuja 0: tämä lämpö
-Puhuja 0: aalto, joka on Suomeakin tässä korventanut, niin se tuskin on mennyt keneltäkään ohi. Sen jälkeen puhutaan hieman vielä
-Puhuja 0: kokoomuksen
-Puhuja 0: sisäisistä
-Puhuja 0: sotkuista ja Kirsi Pihasta.
-Puhuja 0: Lopuksi
-Puhuja 0: puhutaan scoder Maddenessistä
-Puhuja 0: eli sähköpotkulaudoista.
-Puhuja 0: Tervetuloa
-Puhuja 0: mukaan!
-Puhuja 0: No niin, nyt ne ovat täällä
-Puhuja 0: ne mullistukset, joista tutkijat ovat varoittaneet meitä jo vuosia. Näitä
-Puhuja 0: poikkeuksellisen kuumia kessiä on nähty pitkin 2010-lukua,
-Puhuja 0: ja meno näyttää vain pahenevan. Tämäkin
-Puhuja 0: kesä näyttää ainakin Euroopassa ja Pohjois-Amerikassa
-Puhuja 0: olevan
-Puhuja 0: ihan siellä
-Puhuja 0: ennätyskuumien kesien kärkipäässä.
-Puhuja 0: Nyt näyttää olevan se hetki, kun todella tutkijoiden varoittamat skenaariot alkavat tulla todeksi.
-Puhuja 0: Haluaisin puhua tänään siitä, millaisia tunteita se
-Puhuja 0: teissä herättää.
-Puhuja 1: Jos
-Puhuja 2: lähden vaikka tästä.
-Puhuja 0: Haluan ensinnäkin sanoa tuosta hetkestä, että ajattelen niin, että ei ole mitään
-Puhuja 0: hetkeä,
-Puhuja 0: missä ne käyvät toteen. Ja jos on, niin sehän on mennyt aikaa sitten.
-Puhuja 0: Mutta Anne on ollut.
-Puhuja 0: Roadman-termi
-Puhuja 0: viittaa pukeutumistyyliin ja
-Puhuja 0: kulttuuriin, jossa ihannoidan
-Puhuja 0: katujen elämää. Ilmiöön kuuluu joidenkin kohdalla teräaseen
-Puhuja 0: pitäminen
-Puhuja 0: mukana. Olisinpa näkemässä tämän tilanteen, kun joku yrittää ryöstää jonkun ja sitten se on omg-pakinen
-Puhuja 0: scouutilla paikalta. Tämä herättää kysymyksen, että onko se lähtökohtaisesti ollut scoutin päällä ja joku Roadmanteini
-Puhuja 0: on yrittänyt ryöstää sen
-Puhuja 0: vai miten tämä tilanne on mennyt? Että on karouttanut
-Puhuja 0: sähköpotkulaudalla turvaan, kun hänet on yli. Missä tämä ihminen on ylipäätänsä pyörinyt?
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin
+Puhuja 1: torstaina kahdeksan. Heinäkuuta.
+Puhuja 1: Me olemme täällä
+Puhuja 1: sateenhuuhtomassa
+Puhuja 1: ihanan raikkaassa Helsingissä,
+Puhuja 1: Sanomtalon
+Puhuja 1: kuutiossa rautatieaseman vieressä seiskakerroksessa.
+Puhuja 1: Kanssani täällä studiossa
+Puhuja 1: istuu ulkomaantoimittaja
+Puhuja 1: Sara Vainio. Moikka Sara!
+Puhuja 1: Sitten täällä on myös HSY Vision toimittaja Joakim Westrend
+Puhuja 1: Dol. Moikka Joaki. Moikka moi. Mun nimi on Al Maunali ja tänään me puhutaan
+Puhuja 1: vakavista aiheista.
+Puhuja 1: Ensinnäkin aloitamme
+Puhuja 1: ilmastokriisillä
+Puhuja 1: tämä lämpö
+Puhuja 1: aalto, joka on Suomeakin tässä korventanut, niin se tuskin on mennyt
+Puhuja 1: keneltäkään ohi. Sen jälkeen puhutaan hieman vielä
+Puhuja 1: kokoomuksen
+Puhuja 1: sisäisistä
+Puhuja 1: sotkuista ja Kirsi Pihasta
+Puhuja 1: ja lopuksi
+Puhuja 1: puhutaan scoder Maddenessistä
+Puhuja 1: eli
+Puhuja 1: sähköpotkulaudoista.
+Puhuja 1: Tervetuloa
+Puhuja 1: mukaan!
+Puhuja 1: No niin, nyt ne ovat täällä
+Puhuja 1: ne mullistukset, joista tutkijat ovat varoittaneet meitä jo vuosia. Näitä
+Puhuja 1: poikkeuksellisen kuumia kesiä on nähty pitkin 2010-lukua,
+Puhuja 1: ja meno näyttää vain pahenevan.
+Puhuja 1: Tämäkin kesä
+Puhuja 1: ainakin Euroopassa ja Pohjois-Amerikassa
+Puhuja 1: olevan
+Puhuja 1: ennätyskuumien
+Puhuja 1: kesien kärkipäässä.
+Puhuja 1: Nyt näyttää olevan se hetki, kun todella
+Puhuja 1: tutkijoiden varoittamat skenaariot alkavat tulla todeksi.
+Puhuja 1: Haluaisin puhua tänään siitä, millaisia tunteita
+Puhuja 1: se teissä herättää.
+Puhuja 3: Jos
+Puhuja 3: lähden vaikka liikkeelle.
+Puhuja 3: Haluan ensinnäkin sanoa tuosta hetkestä,
+Puhuja 3: ajattelen niin, että ei ole
+Puhuja 3: mitään hetkeä,
+Puhuja 3: missä ne käyvät toteen. Ja jos on, niin sehän on mennyt aikaa sitten.
+Puhuja 3: Mutta
+Puhuja 3: ehkä se nyt näkyy
+Puhuja 3: ekaa kertaa isosti, konkreettisesti
+Puhuja 3: semmoisessa paikassa, mikä on
+Puhuja 3: kuten Suomi. Esimerkiksi tämä Kanada
+Puhuja 3: on lätkämaa, kuten eräs haastateltava tutkija
+Puhuja 3: viime viikolla jutussa.
+Puhuja 3: Ehkä se käy
+Puhuja 3: suomalaisten sydämiin eri tavalla.
+Puhuja 1: Kanadassahan on
+Puhuja 1: mitattu
+Puhuja 1: täällä kuluvalla viikolla
+Puhuja 1: jopa,
+Puhuja 1: niin viime viikolla? Viime viikolla, joo. Lähes plus viisikymmentä
+Puhuja 1: astetta. Mitä se oli, kun neljäkymmentäyhdeksän
+Puhuja 1: ja jotakin vai paljon
+Puhuja 1: se oli? Neljäsataayhdeksänkymmentäkuusi
+Puhuja 1: oli ainakin Lyttonissa.
+Puhuja 1: Sehän on sellainen lämpötila, jossa veri alkaa kiehu suonissa. On siis monta muutakin asiaa, joiden takia veri alkaa kiehu suonissa. Mutta on se nyt helvetti, kun sääkin
+Puhuja 1: johtaa siihen.
+Puhuja 1: Mitä sä olet miettinyt
+Puhuja 1: näiden
+Puhuja 1: muhivien
+Puhuja 1: lämpöpäivien
+Puhuja 1: aikana jokin?
+Puhuja 1: Onko ilmastonmuutos ollut mielessä?
+Puhuja 2: On se ollut mielessä. Se on jännä, miten
+Puhuja 2: yksittäiset
+Puhuja 2: kuriositetit, mitkä tulee mediavirrassa
+Puhuja 2: vastaan, jotenkin jää pyörimään
+Puhuja 2: päähän. Mulla oli
+Puhuja 2: joku kaksi viikkoa sitten joku
+Puhuja 2: twiitti tai joku, minkä mä luin, missä neuvottiin
+Puhuja 2: amerikkalaisia tämmösillä hellealueilla
+Puhuja 2: suojaamaan kotia siltä
+Puhuja 2: tappavalta lämmöltä.
+Puhuja 2: Jotenkin siten, että
+Puhuja 2: saa
+Puhuja 2: jotain paksua
+Puhuja 2: kannasta
+Puhuja 2: ikkunan eteen ja sitten foliota siihen päälle.
+Puhuja 2: Se heijastaa
+Puhuja 2: sitä auringon
+Puhuja 2: säädettä sitten.
+Puhuja 2: Se mielikuva siitä foliosta, kaikkien
+Puhuja 2: talojen ikkunoista,
+Puhuja 2: jotenkin se jäi pyörry mun päähän taas jotenkin,
+Puhuja 2: että todellisuus nyrjähtää taas vähän johonkin
+Puhuja 2: hurjempaan ja hurjempaan suuntaan. Se jotenkin
+Puhuja 2: on vaivannut tai se on ollut tuollainen yksittäinen juttu, mikä on pelannut päässä. Joo, konkreettiset
+Puhuja 3: jutut
+Puhuja 3: on hullun. Olin yhteydessä mun
+Puhuja 3: kaukaisin sukulaisiin, jotka asuu siellä alueella Kelonnassa,
+Puhuja 3: Kanadassa.
+Puhuja 2: Keskivertokaupunkilaista
+Puhuja 2: enemmän ymmärrystä
+Puhuja 2: sille, että joku
+Puhuja 2: ajaa niille ja ajattelee näyttävänsä salonkikelpoiselta,
+Puhuja 2: koska mä olen ollut
+Puhuja 1: sellainen ihminen. Just näin. Eli sulla on vähän avarakatseisempi
+Puhuja 3: lähestymistapa tähän? Joo ja kyllähän se on aika söpö.
+Puhuja 3: Mäkin myönnän silloin, kun nuoret ovat porukalla,
+Puhuja 3: silloin kun ne eivät kaada muita kumoon, vaan esimerkiksi
+Puhuja 3: kikkailee niillä jossain. En tiedä, mitä niillä on varaa käyttää niitä.
+Puhuja 3: Mutta tavallaan se voi olla harrastus,
+Puhuja 3: yhteinen tekeminen, että siellä nauretaan scoottien kaa.
+Puhuja 3: Jotain tällaisia kuin sympattisia.
+Puhuja 1: Mä olen naurettu eniten stoorit, kun joku on ottanut baarin jälkeen jonkun scoutin
+Puhuja 1: ja unohtanut laittaa laskutuksen pois päältä ja aamulla herää joku
+Puhuja 1: kolmesataa euroa velkaa jollekin voille.
+Puhuja 1: LOL. Okei, mutta tämä syy,
+Puhuja 1: miksi näitä sähköpotkulautaja, nopeutta halutaan alkaa rajoittaa, niiden
+Puhuja 1: turvallisuus on alkanut puhuttaa. Täällä Helsingissähan niitä varsinkin suhailee.
+Puhuja 1: Helsingin ja Uudenmaan sairaanhoitopiirin
+Puhuja 1: mukaan pelkästään Meilahdessa
+Puhuja 1: hoidettiin alkukesän aikana
+Puhuja 1: sataneljäkymmentäkolme
+Puhuja 1: sähköpotkulautaonnettomuudessa
+Puhuja 1: loukkaantunutta
+Puhuja 1: henkilöä.
+Puhuja 1: HUSin mukaan erityisen vaarallinen tekijä on liian suuri ajonopeus, kun se yhdistetään päihtymyksen ja sen myötä tavallista alhaisempaan reagointinopeuteen.
+Puhuja 1: En ole aikaisemmin pitänyt, että skuuttee sinänsä
+Puhuja 1: minään turvallisuusriskinä
+Puhuja 1: tai minään tällaisena. Mun mielestä se on vaan näyttänyt
+Puhuja 1: typerältä ja olen sen takia
+Puhuja 1: jotenkin ylenk katsonut niitä, mutta viime aikoina, kun olen huomannut,
+Puhuja 1: miten sairaan lujaa ne menevät, että olen miettinyt, onko joku virittänyt näitä.
+Puhuja 1: Voiko korttia virittää virittää, koska ne vetävät aivan hillitöntä roolia. Mä en varmaan pyörällä pääsisi edes alamäkeä ikinä niin nopea, kuin millä ne vetää kaduilla. Missä on siis
+Puhuja 1: Maintohew, lapsia, koiria,
+Puhuja 1: mummoja, minä.
+Puhuja 2: Muistan itse löytäneen yhden niistä valmistajista silloin kaksi kesää sitten, joka meni erityislujaa
+Puhuja 2: alamäkeä. Mä
+Puhuja 1: ei tarvitse olla minkäänlaista ajokorttia
+Puhuja 1: eikä minkäänlaisia
+Puhuja 1: turvavälineitä vaadita, eikä mitään promillerajaa
+Puhuja 1: ole niillä ajamiseen toistaiseksi vielä.
+Puhuja 1: Mun
+Puhuja 1: mielestä, jos sähkökäyttöisellä
+Puhuja 1: aika järellä
+Puhuja 1: vempeleellä, jos vetelee tuolla, niin pitäisi
+Puhuja 1: vähintään joku
+Puhuja 1: kurssi ehkä käydä tai jotain.
+Puhuja 3: Semmoinen alkukantaisen
+Puhuja 3: negatiivinen
+Puhuja 3: mielikuva niistä. Ne on ärsyttänyt alusta saakka niissä kuuteista.
+Puhuja 3: Kuitenkin ne vertautuvat
+Puhuja 3: aika
+Puhuja 3: pitkälti pyörään.
+Puhuja 3: Niin sitten mietin
+Puhuja 3: sitä paitsi että niitä jätetään lojumaan
+Puhuja 3: niin
+Puhuja 3: tavallaan mikä kaikki siinä ärsyttää. Ehkä se on osittain vähän semmoinen käyttäjäkunta asiaa. Nuori
+Puhuja 3: kaikkivoipaisuuden
+Puhuja 3: tunteesta nauttiva
+Puhuja 3: tyyppi tavallaan
+Puhuja 3: suhasu. Niin, ohi. Ehkä siinä on jotain sellaista. Tai sitten
+Puhuja 3: on helppo
+Puhuja 3: yksiulotteisesti
+Puhuja 3: vihata jotain sellaista asiaa, joka on uusi, mitä ei ole ollut, mitä ei tarvitse ajatella, että se on kenenkään perusoikeus.
+Puhuja 1: Me ollaan tällaisia lutdiitteja, me vihataan kaikkea uutta teknologiaa.
+Puhuja 3: Niin tai on helpompi
+Puhuja 3: kannattaa jonkun asian vaikka kokonaan kieltämistä, kun on nähnyt sen ajan, kun niitä ei ollut.
+Puhuja 1: Että mikä niissä eniten...
+Puhuja 1: Jotenkin minua vaan tuntuu, että
+Puhuja 1: niissä
+Puhuja 1: on niin paljon voimaa ja vauhtia ja niillä vedellä niin huolettomasti,
+Puhuja 1: että se mua jotenkin ehkä siinä risoo. Ja sitten just se, että jätetään pitkin
+Puhuja 1: jalkakäytäviä.
+Puhuja 1: Näitähän on ollut näitä juttuja, että ihmiset, jotka liikkuu vaikka
+Puhuja 1: jollain
+Puhuja 1: tällaisella sähköavusteisella
+Puhuja 1: pyörätuolilla esimerkiksi tai muilla vastaavilla, nehän jää ihan pulaan
+Puhuja 1: jalkakäytävillä,
+Puhuja 1: kun skuutit on jätetty sinne pitkin poikin. Joo, kyllä siinä on videopelimeininkiä
+Puhuja 1: musta välillä. Joo ja tällaista, kuinka
+Puhuja 1: yhteisessä kaupunkitilassa
+Puhuja 1: toimitaan noin yleensä. Okei, on paljon pyörävihaa myös ja ymmärrän senkin. Joo, Spandexviha.
+Puhuja 1: Eikä siihenkään vaadita mitään koulutusta.
+Puhuja 3: Se on monesti pyörävihaajien argumentti.
 Puhuja 1: Niin,
-Puhuja 1: se ryöstön uhri on sitten
-Puhuja 1: painunut. Just.
-Puhuja 1: Mutta toi on hyvä peruste.
-Puhuja 1: Joo, mä olen sanomassa.
-Puhuja 0: Scoutsing
-Puhuja 0: saved my life.
-Puhuja 0: Oliko tämä teidän mielestä ihan uskomaton juttu?
-Puhuja 2: Mun on vaikea nähdä,
-Puhuja 2: onko se ollut jo
-Puhuja 2: skuutilla ja sitä on siitä yritetty ryöstää sitä päältä.
-Puhuja 1: Anteeksi, mun meni, ei kai
-Puhuja 1: loukkaantunut.
-Puhuja 0: Ei, ei sano, että hänet on yritetty ryöstää kaksikin kertaa.
-Puhuja 0: Sähköpotkulaudalla on päässyt nopeasti pakoon.
-Puhuja 0: Missä vaiheessa se näppäilee sen homman? Niin, niin, että onko se nopeutta käyttöön?
-Puhuja 0: Ihan kauhea juttu ja toki
-Puhuja 0: myös koko Roadman-kulttuuri
-Puhuja 0: on toinen asia, mikä
-Puhuja 0: joutaisiin näiden scoottien kanssa. Tiedättekö unholaan,
-Puhuja 0: mutta eihän
-Puhuja 0: me tädit täällä. Ollaanpa
-Puhuja 2: nuorisoa kohtaan mitään voida.
-Puhuja 1: Mä yritän pitää
-Puhuja 1: nuorison puoli täällä, mutta
-Puhuja 1: ehkä
-Puhuja 1: vähän taivun tässä paineen olla nyt selkeästi.
-Puhuja 0: Joo.
-Puhuja 0: Mutta tämä juttu, että sähköpotkulaudalla on päässyt nopeasti pakoon. Tämä on mun mielestä oikeastaan tällainen, että jos olisi joku vuoden sitaatti
-Puhuja 0: kilpailu, niin äänestäisin tätä, koska se kuulostaa jotenkin
-Puhuja 0: sellaiselta,
-Puhuja 0: että mikä tämä kaupunki on, missä tällaista tapahtuu.
-Puhuja 0: No niin,
-Puhuja 0: eipä siitä sen enempää. Jätetään
-Puhuja 0: sähköpotkulaudat
-Puhuja 0: suhailemaan
-Puhuja 0: entistä hiljaisempaan tahtiin. Ehkä minäkin
-Puhuja 0: joskus uskaltaudun sellaiseen kyytiin, jos se ei mennyt niin lujaa.
-Puhuja 0: Nyt sitten, kun alkaa vähän nämä tällaiset sateisemmat ja
-Puhuja 0: viileemmät kelit ja alkaa taas ajatukset aivoissa
-Puhuja 0: pyöriä ja jaksatte taas ehkä jopa keskustella jonkun kanssa ihmisten kanssa
-Puhuja 0: tuolla turuilla ja toreilla, niin
-Puhuja 0: Minkälaisia asioita te tällä viikolla voisitte ystävillenne suositella?
-Puhuja 0: Unohdin kokonaan suositteluosuuden,
-Puhuja 0: mutta
-Puhuja 0: voin suositella vaikka mun kestosuosikkia
-Puhuja 2: kuin Hollantilainen
-Puhuja 2: taloustieteilijä
-Puhuja 2: Rutger Breakman ja hänen kaksi alakirjaansa.
-Puhuja 2: Ensimmäinen
-Puhuja 2: oli tämmöinen
-Puhuja 2: perustulon
-Puhuja 2: ja ilmaisen
-Puhuja 2: rahan jakamisen
-Puhuja 2: puolustuspuhe.
-Puhuja 2: Ja sitten
-Puhuja 2: uudempi kirja taisi tulla viime vuoden
-Puhuja 2: puolella, Human kind eli hyvän historia.
-Puhuja 2: Ottaa sellaisen
-Puhuja 2: kauniin ihmiskäsityksen
-Puhuja 2: historian keskiöön. Hän kertoo muun muassa tosi vaikuttavasti siitä,
-Puhuja 2: Mutta jossakin sodassa oli
-Puhuja 2: taisteluiden jäljiltä
-Puhuja 2: katsottu niitä aseita. Siellä oli
-Puhuja 2: ladattu monta kertaa peräkkäin niitä aseita.
-Puhuja 2: Koska
-Puhuja 2: ne ei halunneet ampua niitä
-Puhuja 2: vihollisotilaita.
-Puhuja 2: Et voi tavallaan vaan olla tekemättä mitään. Sinähän olet pulassa tavallaan niiden maamiehien
-Puhuja 2: kanssa. Mutta se on hyväksyttävää ladata sitä asetta.
-Puhuja 2: Ladata sitä asetta. Ihminen ei halua tappaa toista. Se oli musta kaunis ajatus. Se on tosi hyvä kirja. Kuuntelin sen viime koronakeväänä sinun suosituksesta
-Puhuja 0: samalla, kun leivoin hapanjuurileipiä
-Puhuja 0: koronaeristyksessäni,
-Puhuja 0: niin kuuntelin tätä kirjaa. Se on mun mielestä ihana se sanoma siinä, että
-Puhuja 0: entä jos meidän kaikki politiikka
-Puhuja 0: perustuukin ihan
-Puhuja 0: valheelliselle ihmiskuvalle. Kun niin paljon meidän politiikka ja yhteiset asiat ja tällaiset
-Puhuja 0: teoriat perustuu sille ajatukselle, että ihminen on itsekäs ja paha
-Puhuja 0: ja ajattelee vain omaa etuaan, niin se todistaa, että monet sellaiset
-Puhuja 0: psykologiset kokeet
-Puhuja 0: esimerkiksi, joilla on perusteltu
-Puhuja 0: tätä ihmisen pahuutta, esimerkiksi Stanfordin
-Puhuja 0: kuuluisa vankilakoe,
-Puhuja 0: niin ne onkin ollut ihan
-Puhuja 0: puoskarien toimintaa
-Puhuja 0: ja täysin jotenkin lavastettuja tilanteita.
-Puhuja 0: Oikeassa elämässä vastaavissa tilanteissa ihmiset ovatkin
-Puhuja 0: äärimmäisen avuliaita ja empaattisia ja luonnostaan auttavat toisiaan. Siinä on mun mielestä joku
-Puhuja 0: ihan tähän palatakseni tähän ilmastokriisiinkin.
-Puhuja 0: Mäkin meinasin palata,
-Puhuja 0: sanomaan.
-Puhuja 0: Siinä vaan,
-Puhuja 0: sen sijaan, että
-Puhuja 0: jotenkin ajateltaisiin, että ihminen on niin ahne, paha ja hirveä,
-Puhuja 0: että me ei voida selviytyä ilmastokriisistä jotenkin sen takia, niin mitä jos me perustettaisiinkin
-Puhuja 0: koko
-Puhuja 0: ilmastopolitiikka ja kaikki politiikka
-Puhuja 0: uudestaan sille ajatukselle, että
-Puhuja 0: oikeastaan me halutaan hyvää
-Puhuja 2: toisillemme. Nimenomaan. Koska se, mikä jäi alussa sanomatta näistä ilmastotunteista, niin kirjoitan itse tosi paljon ilmastojuttuja ja niistä ihan oikeasti se tunne, mikä kumpuaa usein on, että ihmiskunta on hirvittävä.
-Puhuja 2: Ihmiskunta
-Puhuja 2: on syöpä tässä maailmassa. Ja tavallaan se ei ole rakentava
-Puhuja 2: tapa tehdä tätä duunia. Niin toi on ollut minulle ainakin
-Puhuja 2: tärkeä tapa ajatella vähän eri tavalla ihmiskunnasta.
-Puhuja 0: Hyvä suositus.
-Puhuja 1: Mites Juha Kim? Onko mitään kiinnostavaa, mitä olet? Joo, tuo itse asiassa ehkä liittyy myös tuohon ihmiskuvaan.
-Puhuja 1: Nimittäin mä olen
-Puhuja 1: paikannut
-Puhuja 1: Aukko sivistyksessä
-Puhuja 1: katsomalla Twilight-elokuvasarjaa.
-Puhuja 1: Nyt vihdoin ja viimein
-Puhuja 1: kolmen
-Puhuja 1: elokuvaverta, niin vielä kaksi on
-Puhuja 2: katsomatta. Onko niitä viisi?
-Puhuja 1: Mitä on
-Puhuja 1: viisi? Käsityksessä on siis neljä ja viimeinen
-Puhuja 1: kirjoja
-Puhuja 1: on pilkottu kahteen elokuvaan.
-Puhuja 1: Se on multa jäänyt katsomatta. Nyt
-Puhuja 1: niitä on tullut katsottua.
-Puhuja 1: Erilainen kulttuurikokemkemus
-Puhuja 1: ehdottomasti sekin.
-Puhuja 1: Yksi pistävä
-Puhuja 1: elementti
-Puhuja 1: viihteessä on
-Puhuja 1: painotus siitä, kuinka
-Puhuja 1: siistejä vampyyrit on ja
-Puhuja 1: kuinka ankeita ihmiset on. Se on ehkä vastapaino
-Puhuja 1: ihmisten hyvyydellä. Twilight-elokuvien
-Puhuja 1: katsominen
-Puhuja 1: voi aloittaa
-Puhuja 1: katsomalla,
-Puhuja 1: jos innostuu. Mä katsoin Youtubessa tästä
-Puhuja 1: ensimmäisestä elokuvasta, missä vampyypilot pelaa pesäpalloa keskenään.
-Puhuja 1: Kulttuurinen häpeä
-Puhuja 0: Kannattaako vai? Kannattaa.
-Puhuja 0: Onko se suositus. Hyvä. Erinomainen suositus ja varmaan tosi hyvää viihdettä ja just tälleen tähän hetkeen. Muistan vain joskus aikoinaan, kun ne kirjat tuli,
-Puhuja 0: ajattelin, että ehkä munkin pitää lukea ne, koska se oli niin iso juttu.
-Puhuja 0: Kiitos. Mikä sun sun sun juttu on? Suosittelen kaikille, että käykää Tampereen taidemuseossa katsomassa
-Puhuja 0: Vuoden nuoren
-Puhuja 0: taiteilijan Joel Sloten
-Puhuja 0: näyttely. Se on ihan
-Puhuja 0: erittäin hyvä ja muutenkin museossa käyminen
-Puhuja 0: on sielullepalsamia
-Puhuja 0: näinä aikoina.
-Puhuja 0: Joel Sloten
-Puhuja 0: hyvin
-Puhuja 0: pikku tarkat teknisesti
-Puhuja 0: äärimmäisen taitavat teokset
-Puhuja 0: tuottavat
-Puhuja 0: jotenkin sellaista,
-Puhuja 0: juuri ehkä tähän ihmisen hyvyyteen ja sellaiseen liittyvää
-Puhuja 0: tunnetta siinä, että
-Puhuja 0: jos ihminen pystyy luomaan jotain näin kaunista
-Puhuja 0: ja jotenkin tarkkaa,
-Puhuja 0: niin eiköhän me pystytä
-Puhuja 0: aika paljon muuhunkin hyvään.
-Puhuja 0: Näihin ihaniin sanoihin päätämme tällä kertaa uutisraportti-podcastin
-Puhuja 0: suuret kiitokset Sara Vainio. Kiitos Alma. Ulkkaritoimituksesta
-Puhuja 0: ja HS-visiosta suuret kiitokset Joakim Western Dall. Kiitos. Kiitos paljon.
-Puhuja 0: Kaiken kuvan, ihanan, äänen ja kaiken
-Puhuja 0: muunkin meille tekevät tänään
-Puhuja 0: Mikko Peura, suuret kiitokset sinne lasin toiselle puolelle.
-Puhuja 0: Laittakaa meille kaikkea kivaa ja söpö palautetta,
-Puhuja 0: vaikka uutisraportti tai sitten vaikka minulle sähköpostiin:
-Puhuja 0: alma. Onalihes.
-Puhuja 0: Fi.
-Puhuja 0: Olisi kiva kuulla, mitä ajattelitte tästä kesätiimin tämänkertaisesta
-Puhuja 0: jaksosta.
-Puhuja 0: Paitsi, jos ette
-Puhuja 0: tykänneet, pitäkää omana tietonneanne.
-Puhuja 0: Ei muuta kuin oikein ihanaa loppuviikkoa
-Puhuja 0: ja ensi kertaa.
+Puhuja 1: mutta
+Puhuja 1: toisaalta pyörät
+Puhuja 1: kulkee omilla muskeleilla
+Puhuja 2: eikä sähköllä esckuutit.
+Puhuja 2: Hyvä pointti pelimä.
+Puhuja 2: Olen huomannut sen elementin myös, että ne kutsuu
+Puhuja 2: vähän kikkailemaan.
+Puhuja 3: Niin sä näet niitä hitaampia
+Puhuja 3: toisen
+Puhuja 3: joukkueen pelaajia
+Puhuja 3: sun reitillä.
+Puhuja 2: Joo, ja sitten niillä pystyy kääntämään jotenkin aika tiukasti.
+Puhuja 2: Kyllä mä huomaan, että se semmoinen temppuilu.
+Puhuja 2: Mun mielestä se on jopa yleistynyt.
+Puhuja 2: Se on
+Puhuja 2: ollut sen verran pitkään
+Puhuja 2: jo saatavilla, että
+Puhuja 2: nuorison taitotaso niiden käsittelyssä on
+Puhuja 1: kohonnut. Nythän tässä on nimenomaan
+Puhuja 1: joukkoon. Se, mikä tässä tietysti on puhututtanut myös sähköpotkulautojen
+Puhuja 1: takia on se, että on oikeasti sattunut
+Puhuja 1: kuolemantapauksia.
+Puhuja 1: Oliko näin, että
+Puhuja 1: Pariisissa
+Puhuja 1: juuri 32-vuotias
+Puhuja 1: nainen kuoli
+Puhuja 1: tyyliin viime viikolla
+Puhuja 1: sen takia, koska joku urpo törmäsi siihen
+Puhuja 1: sähköpotkulaudalla. Ajatelkaa, että se ei itse edes ajanut, sillä seisot
+Puhuja 1: jossain
+Puhuja 1: seinän varrella, vai missä se nyt olikaan.
+Puhuja 1: Onko se edes Pariisissa seinä ehkä se on.
+Puhuja 1: Mun pitää lopettaa maantieteellisten
+Puhuja 1: viittausten tekeminen podcastissa, kun aina menee pieleen.
+Puhuja 1: Ja sitten joku tulee ja lana sun yli scoootilla.
+Puhuja 1: Se on ehkä korin tapa oikeasti
+Puhuja 1: mennä tästä maailmasta.
+Puhuja 1: Sen takia Pariisissa on rajoitettu laitteiden nopeutta ja
+Puhuja 1: yritysten on keskittynyt olla tarjoamatta sähköpotkulautojen
+Puhuja 1: pysäköintimahdollisuutta
+Puhuja 1: jalkakäytäville.
+Puhuja 1: Kööpenhaminan
+Puhuja 1: kaupunki on myös
+Puhuja 1: kertonut, että se haluaa kieltää sähköpotkulautojen
+Puhuja 1: vuokraamisen kaupungin keskustassa kokonaan.
+Puhuja 1: Kiellon myötä sähköpotkulautoja
+Puhuja 1: voisi vuokrata vain kaupoista
+Puhuja 1: ja ne pitäisi palauttaa kauppoihin,
+Puhuja 1: ettei voi vaan jättää lojumaan niitä keskelle katua minne haluaa.
+Puhuja 1: Mun mielestä tuo myös kannustaa,
+Puhuja 1: tiedätte, vastuuttamaan kertakäyttökulttuuriin.
+Puhuja 1: Sä voit vatta Schootin ja heittää sen johonkin mäkeen ja olla ihan sama, joku sen tuosta kerää. Aivan
+Puhuja 1: päinvastaista esimerkkiä tässä maailmassa pitäisi
+Puhuja 2: antaa
+Puhuja 1: Tosiaan nämäkuutit on Suomessakin Helsingissä kulkenut kaksikymmentäviisi kilometriä tunnissa.
+Puhuja 1: Sehän on ihan sika paljon. Nyt on siis ajatus, että öisin niiden nopeus ja maksimi olisi vain viisitoista kilometriä tunnissa, että vähentäisi
+Puhuja 1: näitä onnettomuuksia.
+Puhuja 1: Oletteko lukenut Hesarista Veera Paanasen kirjoittamaa tällaista katugallupjuttua,
+Puhuja 1: missä hän kävi kyselemässä vähän Helsingin keskustassa
+Puhuja 1: ihmisiltä tuntoja, että miltä kuulostaa, että
+Puhuja 1: scoutteihin tulee nopeusrajoituksiin?
+Puhuja 1: No, en ole lukenut. En ole lukenut. Haluan jakaa tämän kaikille, koska tässä oli aika uskomaton juttu, mikä kerta kaikkiaan kohotti mun kulmakarvat
+Puhuja 1: korviin asti. Ei, kun korvien yläpuolelle.
+Puhuja 1: Kouvolassa Ella
+Puhuja 1: Makkonen ja Aatu Suutari eivät myöskään toivo, että käyttö kiellettäisiin öisin kokonaan.
+Puhuja 1: Makkonen ja suutari kertovat käyttävänsä potkulautoja aina ollessaan Helsingissä käymässä.
+Puhuja 1: Suutari kertoo, että hänelle sähköpotkulaudat
+Puhuja 1: ovat tuoneet myös turvaa.
+Puhuja 1: Helsingissä on paljon roadmaneja,
+Puhuja 1: minut on yritetty ryöstää kaksikin kertaa. Sähköpotkulaudalla
+Puhuja 1: on päässyt nopeasti pakoon.
+Puhuja 1: Mikä tämä tilanne on ollut?
+Puhuja 1: Roadman-termi
+Puhuja 1: viittaa pukeutumistyyliin
+Puhuja 1: ja kulttuuriin, jossa ihannoidan katujen elämää. Ilmiöön kuuluu joidenkin kohdalla teräaseen
+Puhuja 1: pitäminen mukana.
+Puhuja 1: Olisipa näkemässä tämän tilanteen, kun joku yrittää ryöstää jonkun ja sitten se on om-pakinen
+Puhuja 1: scoutilla
+Puhuja 1: paikalta. Tämä herättää kysymyksen, onko se lähtökohtaisesti ollut scoutin päällä ja joku Roadmanteini on yrittänyt ryöstää sen
+Puhuja 1: vai miten tämä tilanne on mennyt, että on kareuttanut
+Puhuja 1: sähköpotkulaudalla turvaan, kun hänet on yritetty? Missä tämä ihminen on ylipäätänsä pyörinyt? Niin,
+Puhuja 2: siis,
+Puhuja 2: että ryöstön uhri on sitten ainoa. Just.
+Puhuja 2: Just. Mutta toi on hyvä peruste.
+Puhuja 2: Mä oon sama juttu.
+Puhuja 1: Scout sing saved my life.
+Puhuja 3: Mun on vain vaikea nähdä,
+Puhuja 3: onko se
+Puhuja 3: ollut jo skuutilla ja sitä on siitä yritetty ryösstä päältä.
+Puhuja 1: Hän sanoi, että hänet on yritetty ryöstää kaksikin kertaa. Sähköpotkulaudalla
+Puhuja 1: on päässyt nopeasti pakoon.
+Puhuja 1: Missä vaiheessa se näppäilee sen homman? Niin, että mitä omaa nopeutta käyttöön. Siis ihan kauhea juttu. Toki myös
+Puhuja 1: koko roadman-kulttuuri
+Puhuja 1: on toinen asia, mikä
+Puhuja 1: joutaisi näiden scouttien kanssa
+Puhuja 1: unholaan,
+Puhuja 1: mutta
+Puhuja 1: eihän me tädit täällä. Ollaanpa nyt nuorisoa kohtaan.
+Puhuja 2: Joo. Mä yritän pitää
+Puhuja 2: nuorison puolia täällä, mutta mäkin olin ehkä vähän
+Puhuja 2: taivun tässä paineen alla nyt selkeästi.
+Puhuja 1: Joo.
+Puhuja 1: Mutta tämä juttu, että sähköpotkulaudalla on päässyt nopeasti pakoon. Tämä on mun mielestä tällainen, että jos olisi joku vuoden sitaatti
+Puhuja 1: kilpailu, niin äänestäisin tätä, koska se kuulostaa
+Puhuja 1: jotenkin sellaiselta, että
+Puhuja 1: mikä tämä kaupunki on, missä tällaista tapahtuu.
+Puhuja 1: No
+Puhuja 1: niin, hei,
+Puhuja 1: eipä siitä sen enempää. Jätetään sähköpotkulaudat
+Puhuja 1: suhailemaan
+Puhuja 1: entistä hiljaisempaan tahtiin. Ehkä minäkin
+Puhuja 1: joskus uskaltaudun sellaiseen kyytiin, jos se ei mene niin lujaa. Nyt
+Puhuja 1: sitten, kun alkaa vähän nämä sateisemmat
+Puhuja 1: ja viileämmät kelit ja alkaa taas ajatukset
+Puhuja 1: aivoissa pyöriä
+Puhuja 1: ja jaksatte taas ehkä jopa keskustella jonkun kanssa ihmisten kanssa
+Puhuja 1: tuolla turuilla ja toreilla, niin
+Puhuja 1: minkälaisia asioita te tällä viikolla voisitte ystävillenne
+Puhuja 1: suositella?
+Puhuja 3: Unohdin kokonaan tämän suositteluosuuden,
+Puhuja 3: mutta voin suositella vaikka tällaista kestosuosikkia
+Puhuja 3: kuin
+Puhuja 3: hollantilainen taloustieteilijä
+Puhuja 3: Rutger Breakman ja hänen kaksi jalansa.
+Puhuja 3: Ensimmäinen oli tämmöinen perustulon ja ilmaisen rahan jakamisen
+Puhuja 3: puolustuspuhe.
+Puhuja 3: Ja
+Puhuja 3: sitten tämä uudempi kirja taisi tulla viime vuoden
+Puhuja 3: puolella. Human kind eli hyvän historia.
+Puhuja 3: Ottaa sellasen
+Puhuja 3: kauniin ihmiskäsityksen
+Puhuja 3: historian keskiöön ja kertoo muun muassa tosi vaikuttavasti siitä,
+Puhuja 3: miten,
+Puhuja 3: en nyt muista
+Puhuja 3: ensimmäisessä vai toisessa maailmansodassa.
+Puhuja 3: Nämä pitää selkeästi kertoa nyt.
+Puhuja 3: Niin.
+Puhuja 3: Mutta jossakin sodassa oli
+Puhuja 3: taisteluiden jäljiltä
+Puhuja 3: katsottu niitä aseita ja siellä oli ladattu
+Puhuja 3: monta kertaa peräkkäin niitä aseita. Koska
+Puhuja 3: ne eivät halunneet ampua
+Puhuja 1: niitä vihollissotilaita.
+Puhuja 3: Ja et voi tavallaan vaan olla tekemättä mitään. Sinähän olet pulassa tavallaan niiden sun maanmiehien kanssa. Mutta se on hyväksyttävää
+Puhuja 3: ladata sitä asetta. Ihminen ei halua tappaa toista. Se oli minusta kaunis ajatus. Se on tosi hyvä kirja. Kuuntelin sen viime koronakeväänä sinun suosituksesta,
+Puhuja 1: samalla kun leivoin hapanjuurileipiä
+Puhuja 1: koronaeristyksessäni,
+Puhuja 1: niin kuuntelin tätä kirjaa. Se on mun mielestä ihana se sanoma siinä, että entä
+Puhuja 1: jos meidän kaikki politiikka
+Puhuja 1: perustuukin ihan
+Puhuja 1: valheelliselle
+Puhuja 1: ihmiskuvalle. Kun niin paljon meidän politiikka ja yhteiset asiat ja teoriat
+Puhuja 1: perustuu sille ajatukselle, että ihminen on itsekäs ja paha ja
+Puhuja 1: ajattelee vain omaa etuaan.
+Puhuja 1: Se todistaa, että monet psykologiset
+Puhuja 1: kokeet
+Puhuja 1: esimerkiksi,
+Puhuja 1: joilla on perusteltu
+Puhuja 1: tätä ihmisen pahuutta, esimerkiksi Stanfordin
+Puhuja 1: kuuluisa
+Puhuja 1: vankilakoe,
+Puhuja 1: niin ne onkin olleet
+Puhuja 1: ihan puoskarien toimintaa ja täysin jotenkin lavastettuja
+Puhuja 1: tilanteita.
+Puhuja 1: Oikeassa elämässä vastaavissa tilanteissa
+Puhuja 1: ihmiset ovatkin äärimmäisen
+Puhuja 1: avuliaita ja empaattisia
+Puhuja 1: ja luonnostaan auttavat toisiaan.
+Puhuja 1: Siinä on mun mielestä joku ihan
+Puhuja 1: tähän, palataankseni tähän ilmastokriisiinkin.
+Puhuja 3: Mäkin meinasin palata, sanon vaan.
+Puhuja 1: Niin, että sen
+Puhuja 1: sijaan, että
+Puhuja 1: jotenkin ajateltaisiin, että ihminen on niin ahne ja paha ja hirveä,
+Puhuja 1: että me ei voida selviytyä ilmastokriisistä
+Puhuja 1: jotenkin sen takia, niin mitä jos me perustettaisiinkin
+Puhuja 1: koko ilmastopolitiikka
+Puhuja 1: ja kaikki politiikka
+Puhuja 1: uudestaan sille ajatukselle, että
+Puhuja 1: oikeastaanhan me halutaan hyvää
+Puhuja 1: toisillemme.
+Puhuja 3: Nimenomaan. Koska se, mikä jäi alussa sanomatta ilmastotunteista,
+Puhuja 3: niin kirjoitan itse tosi paljon ilmastojuttuja ja niistä ihan oikeasti se tunne,
+Puhuja 3: mikä kumpuaa usein on, että ihmiskunta on
+Puhuja 3: hirvittävä. Ihmiskunta
+Puhuja 3: on syöpä tässä maailmassa. Ja se ei ole
+Puhuja 3: rakentava tapa myöskään tehdä tätä duunia.
+Puhuja 3: Niin tuo on ollut minulle
+Puhuja 3: ainakin
+Puhuja 3: tärkeä tapa ajatella vähän eri tavalla ihmiskunnasta.
+Puhuja 1: Hyvä suositus.
+Puhuja 2: Mites Juhakim, onko mitään kiinnostavaa, mitä oot? Joo, tuo itseasiassa ehkä liittyy myös tuohon ihmiskuvaan.
+Puhuja 2: Nimittäin mä oon
+Puhuja 2: paikannut tällaista aukkoa sivistyksessä
+Puhuja 2: katsomalla Twilight-elokuvasarjaa.
+Puhuja 2: Nyt vihdoin
+Puhuja 2: ja viimein kolmen elokuvavertona
+Puhuja 2: vielä kaksi katsomatta.
+Puhuja 2: Onko niitä viisi?
+Puhuja 2: Mitä viisi? Käsityksestä
+Puhuja 2: kirjoja on neljä.
+Puhuja 2: Viimeinen
+Puhuja 2: kirjoja on pilkottu kahteen elokuvaan.
+Puhuja 2: Se on multa jäänyt katsomatta. Nyt sitten
+Puhuja 2: niitä on tullut katsottua.
+Puhuja 2: Eräänlainen
+Puhuja 2: kulttuurikokemkemus ehdottomasti sekin. Yksi
+Puhuja 2: miten
+Puhuja 2: Se on ehkä sitten vastapaino
+Puhuja 2: ihmisten hyvyydellä.
+Puhuja 2: Twilight-elokuvien
+Puhuja 2: katsominen
+Puhuja 2: voi aloittaa katsomalla,
+Puhuja 2: jos innostuu. Mä katsoin Youtubessa
+Puhuja 2: tämmöisen kohdan
+Puhuja 2: tästä ensimmäisestä elokuvasta, missä ne vaan pirut pelaa pesäpalloa keskenään. Sitten mä ajattelin, että mun pitää saada
+Puhuja 2: kulttuurinen häpeä harteilta nostettua.
+Puhuja 2: Nyt se on vielä kesken, mutta mä voin sitten kertoa, kun ne kaikki on katsottu.
+Puhuja 2: Jos olette miettineet, että ne pitäisi katsoa, niin
+Puhuja 1: kannattaako vai? Kannattaa. Se on mun suositus. Hyvä, erinomainen suositus. Varmaan tosi hyvää viihdettä ja tälleen
+Puhuja 1: tähän hetkeen. Muistan vain joskus aikoinaan, kun ne kirjat tuli,
+Puhuja 1: Tulikin kauniisti sanottu.
+Puhuja 1: Kiitos. Mikä sun on tässä? Mä suosittelen kaikille, että käykää Tampereen taidemuseossa katsomassa
+Puhuja 1: Vuoden nuoren taiteilijan Joel Slotten
+Puhuja 1: näyttely. Se on ihan erittäin hyvä ja muutenkin museossa käyminen
+Puhuja 1: on sielullepalsamia
+Puhuja 1: näinä aikoina.
+Puhuja 1: Joel Sloten
+Puhuja 1: hyvin
+Puhuja 1: pikkutarkat,
+Puhuja 1: teknisesti
+Puhuja 1: äärimmäisen taitavat teokset
+Puhuja 1: tuottavat jotenkin sellaista,
+Puhuja 1: juuri ehkä tähän ihmisen hyvyyteen ja sellaiseen liittyvää
+Puhuja 1: tunnetta siinä, että
+Puhuja 1: jos ihminen pystyy luomaan jotain näin kaunista ja jotenkin
+Puhuja 1: tarkkaa, niin eiköhän me pystytä
+Puhuja 1: aika paljon muuhunkin hyvään.
+Puhuja 1: Näihin
+Puhuja 1: ihaniin sanoihin päätämme tällä kertaa uutisraportti-podcastin
+Puhuja 1: suuret kiitokset
+Puhuja 1: Sara Vainio. Kiitos Alma. Ulkkaritoimuksesta
+Puhuja 1: ja HS-visiosta suuret kiitokset Joakim Wester Dall. Kiitos paljon.
+Puhuja 1: Kaiken kuvan, ihanan, äänen ja kaiken
+Puhuja 1: muunkin meille tekevät Mikko
+Puhuja 1: Peurasuuret
+Puhuja 1: kiitokset sinne Lasin toiselle puolelle.
+Puhuja 1: Laittakaa meille kaikkea kivaa ja söpö palautetta, vaikka uutisraportti
+Puhuja 1: tai sitten vaikka minulle sähköpostiin:
+Puhuja 1: alma. Onalihes.
+Puhuja 1: Fi.
+Puhuja 1: Olisi kiva kuulla, mitä ajattelitte tästä kesätiimin tämänkertaisesta
+Puhuja 1: jaksosta.
+Puhuja 1: Paitsi, jos ette tykänneet, pitäkää omana tietonanne.
+Puhuja 1: Ei muuta kuin oikein ihanaa
+Puhuja 1: loppuviikkoa
+Puhuja 1: ja ensi kertaa.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast, menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin, melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

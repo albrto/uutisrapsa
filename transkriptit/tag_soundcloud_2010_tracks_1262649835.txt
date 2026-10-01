@@ -1,257 +1,503 @@
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien
+Puhuja 0: uutisraportti
 Puhuja 0: podcastiin
-Puhuja 0: torstaina.
-Puhuja 0: Viisikymmentäviisi
-Puhuja 0: viidettä vuonna
-Puhuja 0: viisituhatta
-Puhuja 0: tai viisikin
-Puhuja 0: Tai viisisin, ei, kun kaksituhatta
-Puhuja 0: kaksikymmentäkaksi. Mun nimi on
-Puhuja 0: tuo
-Puhuja 0: kirjoittama kanssari tässä
-Puhuja 0: Empivän odottavaisessa
+Puhuja 0: torstaina. Viisikymmentäviisi
+Puhuja 0: viidettä
+Puhuja 0: vuonna viisituhatta
+Puhuja 0: viisikin...
+Puhuja 0: Tai viis... Ei, kun kaksituhatta
+Puhuja 0: kaksikymmentäkaksi. Mun nimi on Mäki-kanssani tässä
+Puhuja 0: empivän odottavaisessa
 Puhuja 0: Bonnier-juhlien
 Puhuja 0: jälkeisessä
 Puhuja 0: podcast-studiossa
-Puhuja 0: ovat:
-Puhuja 0: Helsingin Sanomien viimeisin
-Puhuja 0: Bonnier-palkinto
-Puhuja 0: toimittaja,
+Puhuja 0: ovat
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: viimeisin
+Puhuja 0: Bonnier palkittu toimittaja:
 Puhuja 0: Marko Junkkari. Hei, Marko!
-Puhuja 1: En mä kyllä ole viimeisinä.
-Puhuja 1: Miten niin? No teitte näitä ja palkinnon meidän jälkiä.
+Puhuja 2: En mä kyllä ole viimeisin.
+Puhuja 2: Miten niin? No teitte näitä palkinnon meidän jälkeen.
 Puhuja 0: Mutta samana iltana
-Puhuja 0: Tästä vaatimattomuudesta
-Puhuja 0: huolimatta onneksi olkoon Marko Junkkara. Juu, Marko.
-Puhuja 1: Kiitos. Kiitos.
-Puhuja 0: Kiitos. Tämän podcastin
-Puhuja 0: kuulijalle tiedoksi, että Marko palkittiin
-Puhuja 0: siis korkeimmalla palkinnolla, mitä suomalainen toimittaja voi saada,
-Puhuja 0: joka on siis Bonnier-palkinnon.
-Puhuja 1: No se ei ole Bonnierenä.
-Puhuja 2: Eikö? Ei, se on suuri journalistipalkinto.
-Puhuja 1: Konneri
-Puhuja 1: omisti aikaisemmin Maikkaria, kun se myi sen Telijalle.
-Puhuja 0: Niin, Bonnierella ei ole enää mitään tekemistä. Ei.
-Puhuja 0: Okei. Marko sai Ex-Bonnia-palkinnon,
-Puhuja 0: jolla on nykyään paljon tylsempi nimi, paljon vähemmän Ruotsa-Liven nimi, nimeltä Suuri journalisti-palkinto.
+Puhuja 0: tästä vaatimattomuudesta
+Puhuja 0: huolimatta onneksi olkoon Marko Junkkaberg.
+Puhuja 2: Kiitos, sie.
+Puhuja 0: Tämän podcastin
+Puhuja 0: kuulijoille tiedoksi, että Marko palkittiin siis karkemmalla palkinnolla, mitä suomalainen toimittaja voi saada?
+Puhuja 2: Joka on siis Bonnier-palkinnon. Se ei ole Bonnierenä.
+Puhuja 2: Eikä?
+Puhuja 3: Ei, se on suuri journalistipalkinto.
+Puhuja 2: Hän istuu Bonnier omisti aikaisemmin Maikkaria, kun se myi säntelijalle.
+Puhuja 0: Niin, Bonnieralla ei ole enää mitään tekemistä. Ei.
+Puhuja 0: Okei, Marko sai ex-Bonnia-palkinnon,
+Puhuja 0: jolla on nykyään paljon tylsempi nimi. Paljon vähemmän Ruotsa-laidun nimi.
+Puhuja 0: Suuri journalisti-palkinto.
 Puhuja 0: Se tuli tietenkin
 Puhuja 0: mainiosta upeasta jutusta,
 Puhuja 0: jossa kävit etsimässä
 Puhuja 0: Perttu Nousiainen
 Puhuja 0: nimistä ihmistä,
 Puhuja 0: Itävallasta,
-Puhuja 0: Sveitsistä.
+Puhuja 0: veitsistään.
 Puhuja 0: Ansaittu palkinto sinulle ja sitten tietenkin kollegallemme
 Puhuja 0: Tommille
 Puhuja 0: ja
 Puhuja 0: kuvaaja Samille.
 Puhuja 0: Onneksi olkoon vaan kaikille. Kiitos.
-Puhuja 1: Kiva saada palkintoja.
-Puhuja 0: Hiihkuvan iloinen Marko puolesta oli myös talvausoimittaja Alma Onali. Hei Alma. Moikku.
-Puhuja 0: Alma oli siis istut
-Puhuja 0: auki. Menette tuonne ehkä,
-Puhuja 0: huomenna perjantaina on kuulemma seitsemäntoista astetta lämmintä.
+Puhuja 2: Kiva saada palkintoja.
+Puhuja 0: Hiihkuvan
+Puhuja 0: iloinen Marko puolesta oli myös talvausoimittaja Alma Onali.
+Puhuja 0: Hei Alma. Moikku.
+Puhuja 2: Alma oli juontamassa tämän kyseisen gaalaillan.
+Puhuja 2: Kyllä. Ja hyvin juonsikin. Hyvä Alma.
+Puhuja 0: Suuret kiitokset. Suurta ilotulitusta
+Puhuja 0: kaikille.
+Puhuja 0: Itse en ikävä kyllä päässyt katsomaan
+Puhuja 2: edes.
+Puhuja 0: Et saanut siis kutsua. Enkä saanut myöskään kutsua. Televisio, onko se? Televisiota.
+Puhuja 0: En saanut kutsua enkä katsonut televisiosta,
+Puhuja 0: koska pakkilain seiniä.
+Puhuja 0: No niin.
+Puhuja 0: Tämän viikon podcastissa keskustellaan
+Puhuja 0: Yhdysvaltain korkeimman oikeuden
+Puhuja 0: tapauksesta tai siis itse asiassa tästä vuodetusta asiakirjasta,
+Puhuja 0: jonka mukaan konservatiivinen tuomioistuin
+Puhuja 0: on kumoamassa
+Puhuja 0: aborttioikeutta
+Puhuja 0: laajasti määrittelevän Roe vs. Wade ja case-tapauslain
+Puhuja 0: ja lain tulkinnan.
+Puhuja 0: Mistä on kyse tässä hyvin suuresti Yhdysvaltoja kuohuttavassa
+Puhuja 0: ja jakamassa
+Puhuja 0: päätöksessä,
+Puhuja 0: mikä on korkeimman oikeuden tuomareiden ongelma alkuperäisen
+Puhuja 0: roun
+Puhuja 0: kanssa. Puhutaan laajemmin myös itse abortista, sen sosiaalisesta merkityksestä, sen henkilökohtaisesta merkityksestä.
+Puhuja 0: Ja puhutaan
+Puhuja 0: tämän aihepiirin loppupuolella myös
+Puhuja 0: siitä, mitä tapahtuu,
+Puhuja 0: jos alkaa näyttää siltä yleisön silmissä, että
+Puhuja 0: merkittävät
+Puhuja 0: yhteiskunnalliset
+Puhuja 0: instituutiot politisoituvat.
+Puhuja 0: Se kuulostaa hyvin vaaralliselta
+Puhuja 0: yhteiskunnallisen koheesion
+Puhuja 0: kannalta.
+Puhuja 0: Lisäksi keskustellaan
+Puhuja 0: lyhyesti siitä, miten
+Puhuja 0: Yhdysvaltain keskuspankki FED nosti
+Puhuja 0: ohjauskorkoa
+Puhuja 0: puolella prosentilla. Mitä se tarkoittaa?
+Puhuja 0: Kiristyykö taloustilanne
+Puhuja 0: nyt aivan tavallaan väärässä paikassa, kun maailma on kyllä hirveässä
+Puhuja 0: myllerryksessä ja julkinen
+Puhuja 0: raha rahoittaa
+Puhuja 0: Ukrainaa,
+Puhuja 0: ja edelleen
+Puhuja 0: korona-asioita
+Puhuja 0: hoidetaan.
+Puhuja 0: Mitä tämä kaikki tarkoittaa
+Puhuja 0: tavallisten ihmisten ja epätavallisten
+Puhuja 0: ihmisten kannalla? Onneksi meillä on kaksi taloustoimittajaa
+Puhuja 0: paikalla, jotka pystyvät arvioimaan
+Puhuja 0: kompleksisia kuvioita. Se on
+Puhuja 0: ihan valtaa. Katos kolmekymmentä minuuttia ja homma. Joo, niinpä.
+Puhuja 0: Tehdäänkö nyt sillä tavalla, että skipataan
+Puhuja 0: Fedin korkopäätös? Kolme
+Puhuja 0: prosenttia nousi. Se on todella tärkeää. Prosentti
+Puhuja 3: prosenttiyksikköä. Niin, kolme prosenttiyksikköä.
+Puhuja 0: Kyllä, juuri näin.
+Puhuja 0: Mutta puhutaan lyhyesti sananvapauden tilasta Suomessa.
+Puhuja 0: Viro
+Puhuja 0: nousi Toimittajat ilman rajoja ja järjestön lehdenvapaus
+Puhuja 0: vertailussa neljänneksi. Nousu edellisvuodesta on yksitoista sija. Sohomi tulee vasta Viron perässä sijalle viisi,
+Puhuja 0: kun viime vuonna Suomi oli sijalle kaksi.
+Puhuja 0: Tämä on monta syytä, koska... Edellisvuoteen
+Puhuja 0: ei kannata vertailla, koska kriteeristö muuttui ja blaa blaa blaa blaa ja näin.
+Puhuja 0: Isoja marginaaleja
+Puhuja 0: ja virhemarginaaleja
+Puhuja 0: ja muita. Mutta kuitenkin,
+Puhuja 0: että Suomi on aina ollut sananvapauden
+Puhuja 0: mallimaa
+Puhuja 0: ja puhdas pulmainen ja aija jai, mutta nyt me rytistään alas. Kerran tultiin alas Sipilän vuoksi ja nyt ollaan alas
+Puhuja 0: monesta muustakin syystä. Mutta miltä tämä tuntuu teistä nyt sananvapauden
+Puhuja 0: taistelijoina?
+Puhuja 3: Kyllähän se tuntuu kämäseltä.
+Puhuja 3: Siis kämäseltä tuntuu. Varsinkin se, että itse Virossa asuneena ja Viron mediaa seuranneena,
+Puhuja 3: niin mielestäni ei ole kyse tässä siitä, että Viro olisi tehnyt jotakin erinomaisen
+Puhuja 3: hyvin parantaakseen mediaympäristöään,
+Puhuja 3: vaan kyse on siitä, että Suomessa on nostettu oikeusjuttuja
+Puhuja 3: toimittajia
+Puhuja 3: vastaan toisin kuin esimerkiksi
+Puhuja 3: Virossa. Ja kun katsoo vaikka sitä Viron mediakenttää,
+Puhuja 3: niin sehän on, että
+Puhuja 3: jos Suomihan tuomitaan
+Puhuja 3: toimittajat ilman rajoja indeksissä siitä,
+Puhuja 3: että täälläkin media
+Puhuja 3: on hyvin keskittynyttä ja keskittyminen jatkuu,
+Puhuja 3: ja on tätä
+Puhuja 3: toimittajiin
+Puhuja 3: kohdistuvaa häirintääpainosta,
+Puhuja 3: mutta Virossa on siis
+Puhuja 3: kaksi
+Puhuja 3: virolaista oligarkkia, jotka omistavat basically
+Puhuja 3: koko merkittävän median.
+Puhuja 3: Viron rikkain mies omistaa
+Puhuja 3: sekä
+Puhuja 3: lehden että kaikkia muitakin bisneksiä siinä maassa. Se on niin, että antonis Herlinskis.
+Puhuja 3: Mutta
+Puhuja 3: siis, että
+Puhuja 3: omistussuhde siellä ei ole mitenkään
+Puhuja 3: ongelmaton.
+Puhuja 3: Siellä on viime vuosina ollut virolaisessakin mediassa tällaisia kysymyksiä siitä,
+Puhuja 3: onko lehden linjat muuttuneet ja miten niihin on pyritty vaikuttamaan,
+Puhuja 3: ja muuta sellaista. Mutta
+Puhuja 3: kuten sanoin, Virossakaan ei ole kuitenkaan
+Puhuja 3: toimittajia.
+Puhuja 3: Heitä vastaan ei ole nostettu oikeusuttu.
+Puhuja 3: Suomessa kuitenkin on Johanna Vehkoon tapaus ja Hesarin
+Puhuja 0: toimittajien tapaus. Kuulijalle voi tulla järkityksinä, mutta me ollaan siis Hesarin toimittajia kaikki.
+Puhuja 0: Koska tämä on meneillään oleva oikeustapa, mulla
+Puhuja 0: ei sinänsä tästä ole mitään tietoakaan.
+Puhuja 0: Mutta tiedän, että te olette niin syvällä
+Puhuja 0: deepstatissa,
+Puhuja 0: että te tiedätte kaiken näistä. Me
+Puhuja 0: ei ole soveliasta eikä varmaan pystytä puhumaan
+Puhuja 0: asiasta
+Puhuja 0: tälleen podcastissa. Leppoisasti Joriste.
+Puhuja 3: Niin, muuten kuin paitsi varmaan toteamalla, että...
+Puhuja 3: Haastakaa paska sulle.
+Puhuja 3: Niin.
+Puhuja 3: Tosiaan, sitten kun katsoo niitä
+Puhuja 3: indeksejä, niin onko Norja ykkösen, Tanska kaksi, niin sitten on Ruotsi, Viro, Suomi.
+Puhuja 3: Ruotsin, Viro ja Suomen pistemäärät niissä uudistuneissa
+Puhuja 3: kategorioissa ovat
+Puhuja 3: lähes samat.
+Puhuja 3: Ei tämä ole mikään sellainen, että me ollaan täysin tipahdettu kelkasta, mutta kun vertailee
+Puhuja 3: vaikka Norjan pisteisiin,
+Puhuja 3: niin Suomen pisteet alkaa olla jo huonommat. Norjassa on vaan
+Puhuja 3: siellä öljyn ja black metallin voimin, vitsi porskuttaa vaan varaa maksaa toimittajille kunnon liksaa ja kaikki
+Puhuja 3: väkevää polttoainetta on black metal.
+Puhuja 3: Toi
+Puhuja 2: on mitattu, ei voi pitää paikkaansa.
+Puhuja 2: Sanavapausindeksissä pienikin muutos... Ei.
+Puhuja 3: Ei. Ruoskaa viuhuu,
+Puhuja 3: selkäni on aivan verillä. Minä henkilökohtaisesti kannan vastuu
+Puhuja 3: sananvapauden kaventumisesta
+Puhuja 3: Suomessa.
+Puhuja 3: Joo.
+Puhuja 0: Onko tuoreilla bonnier voittajalla
+Puhuja 0: jotain
+Puhuja 0: viidestä sanottavaa
+Puhuja 0: Suomen sananvapaustilanteessa?
+Puhuja 0: Sanoittaa
+Puhuja 0: viisautta Marko.
+Puhuja 2: Mun mielestä Suomen sananvapaustilanne
+Puhuja 2: voi ihan hyvin, mutta se täytyy
+Puhuja 2: kärppänä seurata, että tilanne ei ole oikeasti huonoin.
+Puhuja 3: Koska se tapahtuu tosi helposti. Mun mielestä Sipilän keissi muutama vuosi sitten.
+Puhuja 3: Se, mikä mua huolestuttaa Suomen tällaisessa sananvapaus ja lehdistön... Kerro mikä on Sipilän keissi?
+Puhuja 3: Se oli se, kun Sipilä yritti vaikuttaa Ylen toimittajiin.
+Puhuja 3: Yritti
+Puhuja 3: ilmeisesti estää heitä kirjoittamasta tai julkaisemasta juttua, joka käsitteli Sipilän sukulaisten omistuksia. Yksi kirjoittaja mun yksi läheisistä ystävvistä
+Puhuja 0: Tässä on nolla prosenttia
+Puhuja 0: semmoista
+Puhuja 0: etäistä pidä, objektiivisuutta.
+Puhuja 3: Tulee se fiilis, että
+Puhuja 3: joko
+Puhuja 3: päättäjät
+Puhuja 3: ja
+Puhuja 3: yritystahot ja muut ei ymmärrä,
+Puhuja 3: mikä
+Puhuja 3: journalismin tarkoitus tässä yhteiskunnassa on. Me ei olla mikään mainostoimisto,
+Puhuja 3: ei olla mikään feel good kerho, vaan meidän tarkoituksena on valvoa,
+Puhuja 3: että he
+Puhuja 3: tekevät asioita sekä legalistisesti
+Puhuja 3: että
+Puhuja 3: moraalisesti kunnollisilla poluilla ja kertoa ihmisille niistä asioista, jotta he voivat tehdä sekä hyvin informoituina
+Puhuja 3: omien arvojensa mukaisia poliittisia päätöksiä,
+Puhuja 3: kun täällä kuitenkin kansanvallassa asutaan,
+Puhuja 3: ja sitten toisaalta tietysti
+Puhuja 3: ihan yleisestikin pitää ihmisiä
+Puhuja 3: yhteiskunnan ja kulttuurin pulssilla, jotta jonkinlaista
+Puhuja 3: yhtenäiskulttuuria
+Puhuja 3: tai koheesitoja syntyisi
+Puhuja 3: mielikuvasta,
+Puhuja 3: että Suomi ja että asumme
+Puhuja 3: tällaisessa yhteisessä, jonkinlaisessa
+Puhuja 3: paikassa. Sen moninaisia ilmiöitä sitten avaamme.
+Puhuja 3: Mutta toinen on se, että toisaalta
+Puhuja 3: tuntuu siltä,
+Puhuja 3: että myös Euroopassa, mutta etenkin Euroopan ulkopuolella
+Puhuja 3: monin paikoin,
+Puhuja 3: niin vallanpiteet
+Puhuja 3: ovat erittäin hyvin ymmärtäneet
+Puhuja 3: median voiman ja median roolin. Juuri siksi he
+Puhuja 3: pyrkivät sitä saamaan omaan hallintaansa ja yrittävät tehdä
+Puhuja 3: medialähteistä
+Puhuja 3: omia äänitorviaan, että pääsevät tuuttaamaan sitä
+Puhuja 0: omaa mielen... Kyllä. Minusta mulla tulee viime kysymys, koska me viime jaksossa puhuttiin tästä, miksi miljardrit ostelee näitä medioita.
+Puhuja 0: Siinä jäi mainitsematta,
+Puhuja 0: että Antti Herlin on yksi sanoman merkittävimpiä omistajia. Miksei se musta tunnu samalta asialta kuin että Jeff Bezos ostaa varsin tämän Postin, Antti Herlin ostaa sanoman. Niin miksei se tunnu ollenkaan?
+Puhuja 2: Antti Herlinin omistusosuus sanomasta,
+Puhuja 2: paljonkohan se on suurin
+Puhuja 2: henkilöomistaja, mutta ei se kuitenkaan omista. Jeff Bezos osti koko lehden. Ruken omistaa vain pienen siivun. Niin,
+Puhuja 0: kuitenkin samakin ilmiö on kyseessä, että jos Antti Herlin tuolla nyt kävelisi
+Puhuja 0: tämän lafkan suurimpana
+Puhuja 0: henkilönomistajana, niin kyllä täällä nyt rupes,
+Puhuja 0: mulla kerris polvet lonkkaamaan.
+Puhuja 2: Sama ilmiö siinä on. Sanovan
+Puhuja 2: suurin omistaja on Jane ja Aatos-Herkon säätiö kaksikymmentäneljä prosenttia. Ei Hanna laitos. Antti Herliin ja hänen
+Puhuja 2: sijoitusyhtiöt
+Puhuja 0: on kaksitoista. Ei se nyt kaksitoista prosenttia eri asia kuin sata prosenttia. Se on aivan totta, mutta silti väitän, että kyse on samasta ilme.
+Puhuja 0: No, kommentit.
+Puhuja 0: Okei.
+Puhuja 0: Tämä on vähän kaaptisesti
+Puhuja 0: järjestelty ja ensimmäisen ja käytännössä ainoan aiheen osalta hyvin pitkäksi mennyt
+Puhuja 0: jakso saavuttaa sen pisteen, että kysyn teiltä, että kun
+Puhuja 0: tulee uutinen teksti-tv:ssä,
+Puhuja 0: jota kuitenkin kaikista mediamuodoista varmasti eniten käytätte. Siellä lukee, että
+Puhuja 0: katupöly on saatu siivottua pois ja terassit ovat auki.
+Puhuja 0: Menette tuonne ehkä huomenna perjantaina, on kuulemassa seitsemäntoista astetta lämmintä.
 Puhuja 0: Ehkä menet käymään lähiravintolan
 Puhuja 0: terassilla.
-Puhuja 0: Suosikaa
-Puhuja 0: lähiökuppiloitanne,
+Puhuja 0: Suosikaa lähiökuppiloitanne,
 Puhuja 0: lähibaareja.
-Puhuja 0: Siellä otatte yhden
-Puhuja 0: puolukkalonkerun.
+Puhuja 0: Siellä otatte
+Puhuja 0: yhden puolukkalonkerun.
 Puhuja 0: Millä rupeatte
-Puhuja 0: naapurit
-Puhuja 0: terassipöydissä istuvia viihdyttämään?
-Puhuja 1: Voin aloittaa.
-Puhuja 1: Mua on tässä lähetyksessä nyt vähän aikaa, mutta olen jossain vaiheessa aina puhunut näistä, kun
-Puhuja 1: tykkään lukea
-Puhuja 1: tällaisia lakimiesdekkareita.
-Puhuja 1: Ja
-Puhuja 1: moneen
-Puhuja 1: kertaan me ollaan hätähuutoja, että vinkatkaa ja auttakaa.
-Puhuja 1: Kauhean vaikea löytää. Mutta nytpä tässä
-Puhuja 1: jokunen kuukausi tai kuukausi tai sitten
-Puhuja 1: Tämä ei välttämättä ole kauhean hyviä. Mutta jotenkin jäin
-Puhuja 1: koukkuun tämmöinen
-Puhuja 1: Robert K. Thanenbauma,
-Puhuja 1: joka on
-Puhuja 1: Jenkki
-Puhuja 1: kirjoittanut
-Puhuja 1: 80-luvulta lähtien
-Puhuja 1: lakimiesdekkareita.
-Puhuja 1: Siinä on samat päähenkilöt. Siinä
-Puhuja 1: on New Yorkin tämmöinen Tässä on syyttäjä. Yleensä aina lakiviitekkareissa on folsasiana
-Puhuja 1: ja päähenkilönä. Tässä on
-Puhuja 1: tällainen Carp niminen
-Puhuja 1: New Yorkin
-Puhuja 1: syyttäjä ja hänen
-Puhuja 1: vaimonsa.
-Puhuja 1: Vaimo on on
-Puhuja 1: ryhmässä yksityisetväksi.
-Puhuja 1: Olen lukenut kirjoja kahden kuukauden aikana varmaan
-Puhuja 1: kymmenen.
-Puhuja 1: Tiedän, että mulla on omituiset nämä harrastukset.
-Puhuja 1: Ne kirjat eivät ole kauhean hyviä
-Puhuja 1: kirjallisesti.
-Puhuja 1: Mutta näissä ylipäätään dekkareissa ja varsinkin
-Puhuja 1: lakimiesdekkareissa,
-Puhuja 1: ehkä henkilöt eivät ole kovin hyvin kuvattuja. Mutta siitä pystyy luomaan semmoinen
-Puhuja 1: maailma. Ja sitten kun ne kirjautuu, niin jatkuu
-Puhuja 1: edellisestä.
-Puhuja 1: Siinä rupeaa ensin tyylaamaan
-Puhuja 1: syyttäjä. Hän
-Puhuja 1: on töissä myös hänen
-Puhuja 1: vaimonsa, niin siellä samassa syyttäjävirastossa.
-Puhuja 1: Sitten he saavat lapsia.
-Puhuja 1: Sitten vaimo tulee
-Puhuja 1: semi.
-Puhuja 1: Siellä hyvin lain harmaalla alueella
-Puhuja 1: liittyvä
-Puhuja 1: pahoinpiteltyjen ja ahdistettujen
-Puhuja 1: naisten puolustaja.
-Puhuja 1: Hän
-Puhuja 1: ensin käy sanomassa sille
-Puhuja 1: pahoinpidellyn
-Puhuja 1: tai kauttakohdeluun
-Puhuja 1: naisen siipalle, että lopeta toi stalkkaaminen, jos ei autoili ylös tappaa.
-Puhuja 1: Mutta mies ei halua kuulla hänen
-Puhuja 1: vaimonsa touhusta sen enempää.
-Puhuja 1: Kirjassa pitää vetää kierroksia koolle.
-Puhuja 1: Kuiko hän pitää ylittää sen edellinen?
-Puhuja 1: Kirjassahän on viisi. Hän ratkaisi John-Cnedin
-Puhuja 1: murhan.
-Puhuja 2: Mä en malta odottaa kesälomaa, että mä saan upota
-Puhuja 2: siihen tuollaiseen dekkarisuohon,
-Puhuja 2: jossa saa heittää aivot narikkaan ja vaan ahmia
-Puhuja 2: järjetöntä väkivaltaa,
-Puhuja 2: alkoholisoituneita
-Puhuja 2: poliiseja ja dramaattisia käänteitä.
-Puhuja 2: Noi Harry hol romaanithan on mun tällainen pleasure.
-Puhuja 2: Niitä
-Puhuja 2: lomalla aion tykittää
-Puhuja 2: taas kitusiini.
-Puhuja 2: Minulla on siinä mielessä vähän erikoinen suositus, että en ole vielä itse ehtinyt lukea tätä teosta, mutta olen varma siitä,
-Puhuja 2: että se on erinomainen,
-Puhuja 2: ajatuksia herättävä, kiinnostava ja
-Puhuja 2: hyvin tehty.
-Puhuja 2: Kyseessä on filosofi Elisa Aaltolan
-Puhuja 2: uudesta
-Puhuja 2: kirjasta
-Puhuja 2: nimeltä
-Puhuja 2: Esseitä
-Puhuja 2: eläimistä.
-Puhuja 2: Olen fanittanut sitä jo pitkään yliopistoajoista
-Puhuja 2: asti. Se on erityisesti eläinten oikeuksiin ja jotenkin tällaisiin
-Puhuja 2: eläimiä koskeviin moraalisiin
-Puhuja 2: kysymyksiin
-Puhuja 2: erikoistunut tutkija ja filosofi ja siis myös
-Puhuja 2: Suomen
-Puhuja 2: tämän hetken kuumimman mediapersoonan, eli Mika Aaltolan sisko. Heistä oli muuten aivan superihana. Tämä on osa tätä mun vinkkiä. Mika Aaltolan ja Elisa Aaltolan tämä
-Puhuja 2: sukulaissuhteita, se palsta, mikä on Hesarissa. Kuka selitteessä?
-Puhuja 2: Perhesitteitä. Mä siis melkein itkin,
-Puhuja 2: kun luin sitä, koska sen Mikan ja Elisan haastattelu oli jotenkin mun mielestä niin
-Puhuja 2: lämmin ja herkkä.
-Puhuja 2: Se oli
-Puhuja 2: upea.
-Puhuja 2: Se oli kirjoitettu tosi hyvin, mutta mun mielestä se johtuu myös vaan siitä, että he ilmeisesti ovat itse vaan todella
-Puhuja 2: monipuolisia
-Puhuja 2: ja viisaita
-Puhuja 2: ihmisiä, joten he puhuvat myös jotenkin silleen. Myös äärettömän miellyttävällä tavalla omituisia.
-Puhuja 1: Mä
-Puhuja 1: malta olla sanoa, että mä just tässä huomasin siitä Twitteristä. Uusimmassa Suomen lehdistölehdessä
-Puhuja 1: on
-Puhuja 1: Mika Aaltolan ja Mika Salmisen
-Puhuja 1: yhteishaastattelu
-Puhuja 1: ja Leiden kansi. Otsikko on Mika Mikamaa.
-Puhuja 1: Mika Mikamaa.
-Puhuja 2: Sope pitää niin paikkansa.
-Puhuja 2: Upeaa. Mutta siis, eli Suosittelen lukemaan tämän perhesiteitä haastattelun
-Puhuja 2: ja
-Puhuja 2: sitten suosittelen
-Puhuja 2: tutustumaan
-Puhuja 2: filosofi Elisa Aaltolan
-Puhuja 2: teksteihin
-Puhuja 2: eläimistä,
-Puhuja 2: sillä mun mielestä
-Puhuja 2: se on valtava Se on uusi kirja. Se on uusi kirja, nimi on esseitä eläimistä. Se löytyy myös Bookbeatista, muun muassa. Onko äänikirjana?
-Puhuja 2: On. Mahtavaa. Joten sitä suosittelen, koska mun mielestä koko se ajatus siitä, että mitä ihmiset ovat, mitä eläimet ovat, mikä se ihmisen ja eläimen välinen suhde on, miten
-Puhuja 2: ihminen
-Puhuja 2: suhteutuu
-Puhuja 2: kokonaisuudessaan
-Puhuja 2: luontoon, miten me ollaan osa sitä kaikkea. Se ajattelu on valtavassa murroksessa,
-Puhuja 2: ja se valtavirtaistuu
-Puhuja 2: koko ajan. Sellainen asia, joka oli vielä viisi-kuusi vuotta sitten ihan niche hommaa
-Puhuja 2: yliopistoissa, sellaista feministisen humanismin sellaista viho viimeistä nurkkaa, niin se on tällä hetkellä kovaa vauhtia
-Puhuja 2: muuttumassa tavallaan
-Puhuja 2: myös sellaisen laajemman ajattelun paradigmoiksi,
-Puhuja 2: niin suosittelen
-Puhuja 2: hyvin lämpimästi
-Puhuja 2: perehtymään
-Puhuja 2: tähän.
+Puhuja 0: naapuriterassipöydissä
+Puhuja 0: istuvia
+Puhuja 0: viihdyttämään?
+Puhuja 2: Tuota, mä voin aloittaa.
+Puhuja 2: Mua on tässä lähetyksessä nyt vähän aikaa, mutta olen jossain vaiheessa aina puhunut näistä, kun
+Puhuja 2: tykkään lukea
+Puhuja 2: näitä lakimiesdekkareita.
+Puhuja 2: Ja
+Puhuja 2: moneen kertaan me ollaan hätähuutoja, että vinkatkaa ja auttakaa ja Kauhean vaikea löytää. Mutta nyt mä jokunen
+Puhuja 2: kuukausiparin sitten...
+Puhuja 2: Nämä ei välttämättä olisi kauhean hyviä. Mutta jotenkin jäin
+Puhuja 2: koukkuun tämmöinen
+Puhuja 2: Robert K. Thanenbauma,
+Puhuja 2: joka on
+Puhuja 2: kirjoittanut
+Puhuja 2: 80-luvulta lähtien
+Puhuja 2: lakimiesdekkareita,
+Puhuja 2: ja siinä on samat päähenkilöt. Siinä
+Puhuja 2: on New Yorkin tämmöinen... Tässä on syyttäjä. Yleensähän lakimiesdekkareissa on folssa
+Puhuja 2: Carph niminen
+Puhuja 2: New Yorkin
+Puhuja 2: syyttäjä
+Puhuja 2: ja hänen vaimonsa.
+Puhuja 2: Vaimo
+Puhuja 2: on
+Puhuja 2: jossain vaiheessa ryhtynyt yksityisetsiväksi. Olen Olen lukenut näitä kirjoja kahden kuukauden aikana varmaan
+Puhuja 2: kymmenen.
+Puhuja 2: Tiedän,
+Puhuja 2: että mulla on omituiset harrastukset tehdä. Ne kirjat eivät ole kauhean hyviä
+Puhuja 2: kirjallisesti.
+Puhuja 2: Mutta näissä
+Puhuja 2: ylipäätään dekkareissa ja varsinkin
+Puhuja 2: lakimiesdekkareissa,
+Puhuja 2: ehkä henkilöt eivät ole kovin hyvin kuvattuja. Mutta siitä pystyy luomaan sellainen maailma.
+Puhuja 2: Ja sitten kun ne kirjataan, niin jatkuu
+Puhuja 2: edellisestä. Siinä rupeaa ensin rullaamaan
+Puhuja 2: syyttäjä. Hän
+Puhuja 2: on myös töissä hänen
+Puhuja 2: vaimonsa vaimonsa
+Puhuja 2: samassa
+Puhuja 2: syyttäjävirastossa.
+Puhuja 2: Sitten he saavat lapsia. Sitten
+Puhuja 2: vaimo tulee semi.
+Puhuja 2: Siellä hyvin lain harmaalla alueella
+Puhuja 2: liittyvä
+Puhuja 2: pahoinpiteltyjen ja ahdistettujen naisten puolustaja.
+Puhuja 2: Hän ei sitten
+Puhuja 2: edes arvaa sille
+Puhuja 2: pahoinpitelyn
+Puhuja 2: tai kauppakohdevun
+Puhuja 2: naisen siipalle, että lopeta toi stalkkaaminen, jos ei autaltisti yössä tappa. Mutta
+Puhuja 2: kirjassa aina vetää kierroksia tähän sohvalle. Kunhan pitää ylittää sen edellinen.
+Puhuja 2: Ja kirjasan numero viisi. Hän ratkaisi John-Cenedin
+Puhuja 2: murhan.
+Puhuja 2: Mä
+Puhuja 3: en malta odottaa kesälomaa, että mä saan upota siihen tollaseen dekkari
+Puhuja 3: dekkari-suohon, jossa saa heittää aivot narikkaan ja vaan ahmia
+Puhuja 3: järjetöntä väkivaltaa ja alkoholisoituneita
+Puhuja 3: poliiseja
+Puhuja 3: ja dramaattisia käänteitä.
+Puhuja 3: Noi Harry holul romaanit on mun tällainen kilty Pleasure.
+Puhuja 3: Niitä lomalla aion tykittää
+Puhuja 3: taas kitusiini.
+Puhuja 3: Minulla on
+Puhuja 3: siinä mielessä erikoinen suositus, että en ole vielä itse ehtinyt lukea teosta, mutta olen varma siitä,
+Puhuja 3: että se on erinomainen,
+Puhuja 3: ajatuksia
+Puhuja 3: herättävä, kiinnostava
+Puhuja 3: ja
+Puhuja 3: hyvin tehty.
+Puhuja 3: Kyseessä on filosofi Elisa Aaltolan
+Puhuja 3: uudesta
+Puhuja 3: kirjasta
+Puhuja 3: nimeltä
+Puhuja 3: Esseitä
+Puhuja 3: eläimistä.
+Puhuja 3: Olen fanittanut sitä jo pitkään yliopistoajoista
+Puhuja 3: asti. Se on erityisesti
+Puhuja 3: eläinten oikeuksiin ja jotenkin
+Puhuja 3: tällaisiin eläimiä koskeviin moraalisiin kysymyksiin
+Puhuja 3: erikoistunut tutkija ja filosofi
+Puhuja 3: ja siis myös
+Puhuja 3: Suomen
+Puhuja 3: tämän hetken kuumimman mediapersoonan,
+Puhuja 3: eli Mika
+Puhuja 3: Aaltolan
+Puhuja 3: sisko.
+Puhuja 3: Heistä oli muuten aivan super ihana. Hei, tämä on osa tätä mun vinkkiä.
+Puhuja 3: Mika Aaltolan ja Elisa Aaltolan
+Puhuja 3: sukulaissuhteita. Se palsta, mikä on Hesarissa.
+Puhuja 3: Kuukausiliitteessä.
+Puhuja 3: Perhesitteitä.
+Puhuja 3: Mä siis melkein itkin,
+Puhuja 3: kun luin sitä, koska sen Mikan ja Elisan haastattelu
+Puhuja 3: oli jotenkin mun mielestä niin
+Puhuja 3: lämmin
+Puhuja 3: ja herkkä.
+Puhuja 3: Se oli upea.
+Puhuja 3: Se oli kirjoitettu tosi hyvin, mutta mun mielestä se johtuu myös vaan siitä, että he ilmeisesti ovat itse vaan todella
+Puhuja 3: monipuolisia ja viisaita
+Puhuja 3: ihmisiä, joten he puhuvat myös jotenkin silleen. Ja mies äärettömän miellyttävällä tavalla omituisia.
+Puhuja 2: Mä malta olla sanoa, että mä just tässä huomasin Twitteristä uusimmassa Suomen lehdistölehdessä,
+Puhuja 2: niin siellä on nyt Mika Aaltolan ja Mika Salmisen
+Puhuja 2: yhteishaastattelu
+Puhuja 2: ja lehden kansi. Otsikko on Mika Mika maa.
+Puhuja 3: Mika Mikamaa.
+Puhuja 3: Sotte pitänee paikkansa. Upeaa. Suosittelen
+Puhuja 3: lukemaan tämän perhesiteitä haastattelun
+Puhuja 3: ja sitten
+Puhuja 3: suosittelen
+Puhuja 3: tutustumaan filosofi Elisa Aaltolan
+Puhuja 3: teksteihin
+Puhuja 3: eläimistä,
+Puhuja 3: sillä mun mielestä
+Puhuja 3: se on valtava... Se on uusi kirja. Se on uusi kirja, nimi on esseitä eläimistä. Se löytyy myös Bookbeatista.
+Puhuja 0: Onko äänikirjana?
+Puhuja 3: On. Mahtavaa. Joten sitä suosittelen, koska mun mielestä koko se ajatus siitä, mitä ihmiset ovat, mitä eläimet ovat, mikä se ihmisen ja eläimen välinen suhde on, miten ihminen suhteutuu
+Puhuja 3: kokonaisuudessaan luontoon, miten me olemme osa sitä kaikkea. Se on valtavassa murroksessa se ajattelu, ja se valtavirtaistuu koko ajan. Sellainen asia, mikä oli vielä viisi-kuusi vuotta sitten ihan niche hommaa yliopistoissa,
+Puhuja 3: sellaista feministisen humanismin sellaista viho viimeistä nurkkaa,
+Puhuja 3: niin se on tällä hetkellä kovaa vauhtia muuttumassa tavallaan
+Puhuja 3: myös ihan sellaisen laajemman ajattelun paradigmoiksi. Suosittelen
+Puhuja 3: hyvin lämpimästi
+Puhuja 3: perehtymään
+Puhuja 0: tätä. Kyllä.
 Puhuja 0: Mä
-Puhuja 0: olen aiemminkinkin suositellut tätä lehteä, mutta siltä on tullut uusi kevätnumero
+Puhuja 0: olen aiemminkin suositellut tätä lehteä, mutta siltä on tullut uusi kevätnumero
 Puhuja 0: joitakin viikkoja sitten jo, mutta se on aina ihan käsittämättömän
-Puhuja 2: hyvä. Kevätpörriäinen.
-Puhuja 2: Kevätpörriä.
+Puhuja 0: hyvä...
+Puhuja 3: Kevätsörriäinen.
+Puhuja 0: Kevätpöri.
 Puhuja 0: Semmoinen kuin The New Atlantis.
-Puhuja 0: Se on tosi hibrowding
-Puhuja 0: todella, todella. Sinne kirjoittaa filosofian professorit ja muut kaikille. Morjesta
-Puhuja 0: kaikille.
-Puhuja 0: Mutta se on ainoa paikka koko maapallolla, jossa on todella järkevää
-Puhuja 0: teknologiakritiikkiä.
+Puhuja 0: Se on tosi highbrownin
+Puhuja 0: todella, todella. Sinne kirjoittaa filosofian professorit ja muut... Moreikki....
+Puhuja 0: Kaikille.
+Puhuja 0: Mutta se on ainoa paikka koko maapallolla, jossa on todella järkevää teknologiakritiikkiä.
 Puhuja 0: Se on supervalaisevaa.
 Puhuja 0: Siellä avataan
-Puhuja 0: uusia näkökulmia
-Puhuja 0: siihen,
-Puhuja 0: että mitä teknologia, internet,
-Puhuja 0: meidän kännykät,
-Puhuja 0: sosiaalinen media,
-Puhuja 0: keinoäly,
-Puhuja 0: mitä kaikki tämä tekee sille,
-Puhuja 0: mitä me ajatellaan maailmasta, mitä on olla ihminen nykyaikana,
-Puhuja 0: miten se vaikuttaa
-Puhuja 0: meidän sosiaalisiin suhteisiin,
-Puhuja 0: miten meidän elämä on
-Puhuja 0: muuttunut täysin digitaaliseksi, miten me tarvitaan aivan erilaisia taitoja, jotta me pystytään ilmaisemaan. Se on ihan käsittämättömän hyvä just tässä maailman ajassa.
-Puhuja 0: The New Atlantis lehti. Esimerkiksi
-Puhuja 0: juttu, jonka oli kirjoittanut Joonas Askonas En tiedä, miten toi lausutaan Joonas Askonas
-Puhuja 0: näin oli kirjoittanut jutun nimeltä Realityce
-Puhuja 0: Just a game now, jossa se
-Puhuja 0: käy häkellyttävän
+Puhuja 0: uusia näkökulmia siihen, että mitä teknologia, mitä internet, meidän kännykät,
+Puhuja 0: sosiaalinen media, mitä keinoäly,
+Puhuja 0: mitä kaikki tämä tekee sille, mitä me ajatellaan
+Puhuja 0: maailmasta, mitä on olla ihminen nykyaikana,
+Puhuja 0: miten se vaikuttaa meidän
+Puhuja 0: sosiaalisiin suhteisiin, miten meidän elämä on muuttunut
+Puhuja 0: täysin
+Puhuja 0: digitaaliseksi,
+Puhuja 0: miten me tarvitaan aivan erilaisia taitoja, jotta me pystytään ilmaisemaan. Se on ihan käsittämättömän
+Puhuja 0: hyvä just tässä maailman ajassa:
+Puhuja 0: The New Atlantis
+Puhuja 0: lehti. Uudessa... Esimerkiksi
+Puhuja 0: tämmöinen
+Puhuja 0: juttu, jonka oli kirjoittanut Joonas Askonas... En tiedä, miten tuo lausutaan. Joonas Askonas,
+Puhuja 0: näin... Oli kirjoittanut jutun nimeltä Reality just a game now, jossa se käy häkellyttävän
 Puhuja 0: vastaansanomattomasti
 Puhuja 0: läpi sen, miten paljon
-Puhuja 0: pelit, roolipelit,
-Puhuja 0: tietokonepelit,
-Puhuja 0: ovat vaikuttaneet
-Puhuja 0: niihin ihmisiin, joista myöhemmin on tullut insinöörejä, jotka on töissä silicon välissä, jotka luo niitä somea,
-Puhuja 0: joita me käytetään
-Puhuja 0: heidän luomissaan someissa,
+Puhuja 0: pelit,
+Puhuja 0: roolipelit,
+Puhuja 0: tietokonepelit
+Puhuja 0: on vaikuttanut niihin ihmisiin,
+Puhuja 0: joista myöhemmin on tullut insinöörejä, jotka töissä silikon välissä, jotka luo niitä somea,
+Puhuja 0: joita me käytetään heidän luomissaan somessa,
 Puhuja 0: me ilmaistaan itsemme.
-Puhuja 0: Se, miten me ilmaistaan itsemme, on vähän niin kuin peli.
+Puhuja 0: Ja se, miten me ilmaistaan itsemme, on vähän niin kuin peli.
 Puhuja 0: Sitten
-Puhuja 0: analysoi Jones As Connece
-Puhuja 0: siinä, miten se supistaa, kun meidän
+Puhuja 0: analysoi Jones, äsken Jones, siinä, miten se supistaa,
+Puhuja 0: kun meidän
 Puhuja 0: inhimillinen
-Puhuja 0: ilmaisu, meidän itseilmaisu, meidän minäkuva alkaa
-Puhuja 0: toimia vain semmoisen pelilokeron
+Puhuja 0: ilmaisu, meidän itseilmaisu,
+Puhuja 0: meidän minäkuva, alkaa
+Puhuja 0: toimimaan vain semmoisen pelilokeron
 Puhuja 0: sisällä. Miten paljon se sulkee meiltä pois sitä, mitä oikeasti on olla ihminen maailmassa?
-Puhuja 0: Käsittämättömän
-Puhuja 0: paljon
-Puhuja 0: ajatuksia, mitä lehti
+Puhuja 0: Se on käsittämättömän paljon ajatuksia, mitä lehti
 Puhuja 0: herättää kritisoidessaan
 Puhuja 0: teknologiaa.
-Puhuja 0: The New Atlantics
-Puhuja 0: Maksullinen, maksajanko kuusitoista dollaria
-Puhuja 2: vuosi. Maksakaa se, ostakaa kaksi tilausta. Se on tosi tärkeää kritiikkiä. Ai, se muuttuu nyt vain kalliimmaksi, kun dollarin suhde euroon vahvistuu, niin sehän on vaan kalliimmasta. Se ei ole semmoista
-Puhuja 0: kaikki tältä erää. Tämän lähetyksen virheistä.
-Puhuja 0: Otan syyt niskaani, mutta kiitos!
-Puhuja 0: Otetaan Alma Unali. Kiitos! Kiitos, Marke Junkkari. Kiitos.
+Puhuja 0: The New Atlantics...
+Puhuja 0: Maksullinen, maksajanko kuusitoista
+Puhuja 3: dollaria vuosi. Maksakaa se, ostakaa kaksi tilausta. Se on tosi tärkeää kritiikkiä. Ai jaa, se muuttuu nyt vain kalliimmaksi, kun dollarin suhde euroon vahvistuu.
+Puhuja 3: Sehän on vaan kalliimmista.
+Puhuja 0: Se ei ole semmoista antitekno mutinaa, mitä sitä on
+Puhuja 0: internet täynnä. Tämä on
+Puhuja 0: todella fiksua.
+Puhuja 0: Siinä kaikki tältä erää. Tämän lähetyksen virheistä
+Puhuja 0: otan syyt niskaani, mutta kiitos.
+Puhuja 0: Otetaan Alma Onaali. Kiitos. Kiitos, Marki Junkkari. Kiitos.
 Puhuja 0: Mun nimi on Tuomas Peltomäki.
 Puhuja 0: Äänen ja kuvan
-Puhuja 0: meille tekee tällä viikolla
-Puhuja 0: Mikko Peura
-Puhuja 0: ja myös hänellä harjoittelussa
-Puhuja 0: Oona Mattila. Kiitos,
-Puhuja 0: Mikko ja Oona.
-Puhuja 0: Muistakaa lähettää meille palautetta: uutiskirjeraportti. Ja pliis, ihmiset, jotka ymmärrätte oikeasti, miten toimii Yhdysvaltain lainsäädäntö ja korkein oikeus ja Robers. Wade, kertokaa mulle, koska mä kyllä korjaan kaikki virheet tässä seuraavassa podcastissa.
+Puhuja 0: meille tekee
+Puhuja 0: tällä
+Puhuja 0: viikolla
+Puhuja 0: Mikko
+Puhuja 0: Peura ja myös hänellä harjoittelussa
+Puhuja 0: Oona Mattila.
+Puhuja 0: Kiitos Mikko ja Oona.
+Puhuja 0: Muistakaa lähettää meille palautetta: uutiskirjeraportti. Ja pliis, ihmiset, jotka ymmärrätte
+Puhuja 0: oikeasti, miten toimii Yhdysvaltain lainsäädäntö
+Puhuja 0: ja korkein oikeus ja Rovers. Wade,
+Puhuja 0: kertokaa mulle, koska mä kyllä korjaan kaikki virheet
+Puhuja 0: tässä seuraavassa podcastissa.
 Puhuja 0: Ja kuullaan siis niissä merkeissä ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

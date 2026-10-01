@@ -1,232 +1,444 @@
-Puhuja 0: Hei!
-Puhuja 0: Tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: tänään torstaina.
-Puhuja 0: Nyt tulee kyllä hajuakaan Mooses päivä tänään. Kahdeksan.
-Puhuja 0: Kesäkuuta vuonna
-Puhuja 0: kaksituhatta kaksikymmentäkolme
-Puhuja 0: ja me ollaan täällä Sanomatalon podcast studiossa Helsingissä ja
-Puhuja 0: niin edespäin. Osaatte sen tuomakseen rimpsunurkkaa.
-Puhuja 1: Vaikeaa sanoa, että podcast
-Puhuja 1: studioon.
-Puhuja 0: Ja studiossa
-Puhuja 0: kanssani minä olen Marko Jukkari ja juonnan tänään tämän
-Puhuja 0: lähetyksen, koska Tuomas Peltomäki on ties missä?
-Puhuja 0: Lomalla.
-Puhuja 0: Maailmalla. Terveisiä Tuomakselle, joka toivon mukaan kuuntelee tämän lähetyksen.
-Puhuja 1: Hän antaa palautetta jälkikäteen.
-Puhuja 0: Kanssani studiossa ovat Salla Vuorikoski. Terve.
-Puhuja 0: Helsingin Sanomien
-Puhuja 0: tutkivan
-Puhuja 0: yksikön tuottaja.
-Puhuja 0: Vaikka
-Puhuja 0: noin. Miten sulla menee?
-Puhuja 1: Aivan hyvin menee.
-Puhuja 1: Kesäoman läheisyys kun alkaa painaa niin sitten alkaa hankkeet painaa niskassa.
-Puhuja 1: Mutta hyvä että välillä on täällä podcast-studiossakin
-Puhuja 0: aikaa käydä. Ja paikalla on myös Sallanalainen,
-Puhuja 0: eikö näin? Kyllä.
-Puhuja 0: Paavo Teittinen, joka on Helsingin Sanomien tutkivan ryhmän
-Puhuja 0: toimittaja. Kyllä,
-Puhuja 2: päivää. Kiva olla täällä. Sinä et ole pitkään aikaan ollut? En ollut varmaan.
-Puhuja 2: Musta tuntuu,
-Puhuja 2: että tämä väki on vaihtunut niin paljon, että olen ollut ehkä joskus viimeksi vuosi sitten.
-Puhuja 0: Ketkä
-Puhuja 0: kutsua Paavo Pesusiieteksi?
-Puhuja 2: Olisiko ne ollut
-Puhuja 2: sun lastenluokkalaiset?
-Puhuja 0: Ei.
-Puhuja 0: Silloin aikoinaan, kun olit vielä mukana, me tehdään talouden puolustuskurssia. Talouden puolustuskurssi muut järkkärit, siellä sä kutsuttiin aina palvelltua.
-Puhuja 1: Mitähän sillä yrittää lisätä. Ja halveeraava nimitys.
-Puhuja 0: Eihän se ole mitenkään halveeraava. Eikö ollut Pesuseeni ole sellainen sympaattinen, joku animaatio, joka toimii sen aikana.
-Puhuja 1: Mutta
-Puhuja 1: tämä maailmahan ei ole vain rakennetta, joka pyörii jotenkin rakenteellisesti,
-Puhuja 1: vaan tämä on tekijöitä ja vallankäyttäjiä
-Puhuja 1: ja ratkaisijoita.
-Puhuja 1: Kyllä voi aika Minäkin sinua tosi
-Puhuja 1: kovasti kuumottaisin, jos lähtisit sinne. Mä yrittäisin osaa neljäiseksi.
-Puhuja 2: Kyllähän tässä näkyy kiinnostavasti tässä
-Puhuja 2: Saudi-Arabian
-Puhuja 2: aseman muutos, joka on ollut hyvin nopea lyhyessä ajassa ja osittain varmaan liittyy siihen Venäjän suurhyökkäykseen, koska vielä pari vuotta sitten, kun Joe Biden Yhdysvaltain presidentti oli
-Puhuja 2: kampanjoimassa,
-Puhuja 2: niin hän kutsui Saudi-Arabiaa
-Puhuja 2: hylkiöksi, joka pitää eristää. Se liittyi siihen, että Saudi-Arabian
-Puhuja 2: väitetään murhanen ja paloitellaan
-Puhuja 2: Washington Postin toimittajan.
-Puhuja 1: Eikö se ole ihan kiistatonkin?
-Puhuja 2: No siis joo. Mä
-Puhuja 2: en halua, että mut haastetaan oikeuteen.
-Puhuja 0: Varsinkin, kun sä oot nyt menossa sinne. Niin sitten oli videokuvaa, kun ne jäpikkäät raahaa sen sinne. Joo, laitetaan lähetystöä. Mä en halua Mohamme Bin Salmanilta mitään kunnianloukkauskannetta,
-Puhuja 2: mutta joo. Palottelija Murhasen toimittaja ja tietysti siellä oli muitakin juttuja. Jemeni sodat ja muut, niin tämä oli Bidenin linja. No sitten sen suurhyökkäksen jälkeen viime vuonna, kun
-Puhuja 2: energian hinta lähti taivaisiin, Bidenhan
-Puhuja 2: matkusti Saudi-Arabiaan
-Puhuja 2: ja antoi
-Puhuja 2: prinssille
-Puhuja 2: fistbampin
-Puhuja 2: ja pyysi, että voitteko lisätä tuotantoa.
-Puhuja 2: Olisi kiva, että bensan
-Puhuja 2: hinta laskisi siellä jenkeissäkin.
-Puhuja 2: Saudi-Arabia on tavallaan tullut takaisin
-Puhuja 1: maailman näyttämölle. Kyllä. Jos saa vähän laajentaa golfista
-Puhuja 1: muihin ympyröihin, niin me ollaan aikanaan tuolla Suomen kuvalehdessä
-Puhuja 1: tehtaan toimittaja Outi Salovaaran kanssa
-Puhuja 1: selvitystyötä. Taisi olla
-Puhuja 1: esimerkiksi tuo Aurora Rämökin mukana siitä miten meidän
-Puhuja 1: Säteilyturvakeskus
-Puhuja 1: on mennyt tekemään bisnestä Saudi Arabian tilanteessa, jossa on
-Puhuja 1: väitteitä ja viitteitä siitä, että Saudit tavoittelee omaa tällaista ydinaseohjelmaa.
-Puhuja 1: Niin meidän tavallaan
-Puhuja 1: viranomaistahot
-Puhuja 1: on mennyt
-Puhuja 2: rahan takia käytännössä. Saadaan kassavirrat. Se on ylitteliästä henkeä. Me tarvitaan jähmeä ja valtion byrokratia. Työntekijöille
-Puhuja 1: on ostettu firman piikkiin purkkiin, että he voivat toimia siellä ja
-Puhuja 1: muuta. Kyllä
-Puhuja 0: se monella tavalla kiinnostaa. Mitä Paavo ja Salla, kun ammattilaisgolf
-Puhuja 0: siirtyy
-Puhuja 0: osin
-Puhuja 0: Saudi-omistukseen,
-Puhuja 0: niin vähentääkö tämä teidän ammattilaisgolf katsomista?
-Puhuja 1: Ei, kyllä tämä pysyy. Jäädytämme
-Puhuja 2: tälle tasolle tämä. Niin, se taso on käytännössä nolla. Eli ei vaikuta.
-Puhuja 2: Vaikka golf ei kiinnostaisi yhtään, niin tämä on älyttömän kiehtova tarina.
-Puhuja 1: Eräs läheiset on sanonut, että hän rupeaa harrastamaan golfia sitten kun ei enää osu liikkuvaan palloon.
-Puhuja 1: Tämä on tämä golfin asema tässä lähipiirissäni.
-Puhuja 2: Mutta siis onhan se hieno laji. On ja kun olin aikanaan intissä urheilukoulussa niin siellä oli huippugolfareita niin haluan puolustaa sitä lajina.
-Puhuja 2: Sanoin aiemmin, etten ole koskenut mailaa, niin valehtelen, että kerran kokeilin. Onhan se ihan helvetin vaikeaa. On, käsittämätöntä.
-Puhuja 0: No niin, kun nyt sitten
-Puhuja 0: viikonloppu ja
-Puhuja 0: seuraatte striimilla vihreiden puoluekokolta Seinäjoelta
-Puhuja 0: tuolla jossain Beechillä.
-Puhuja 2: Tuleeko helle? Taitaa tulla helle.
-Puhuja 1: Minä päivänä se pj valitaan.
-Puhuja 2: Puoluesihteeri valinta myös? On,
-Puhuja 2: varapuheenjohtaja ja puolueenvaltuuskunta.
-Puhuja 2: Kauheasti valintoja.
-Puhuja 0: Tulee kiinnostava kokous.
-Puhuja 0: Mistä te haluatte rupatella teidän ystäville
-Puhuja 0: samalla kun
-Puhuja 0: katsotte toiselta screeniltä vihreiden kokousta ja toiselta screeniltä golfia? Mistä te haluatte puhua ystävien kanssa samalla bilchillä?
-Puhuja 1: Mä
-Puhuja 1: kertoisin ystävälle siitä, että olin tossa reissussa
-Puhuja 1: ja siinä matkalla
-Puhuja 1: tartuin vain
-Puhuja 1: kirjaan, jota olen lukenut aikaisemminkin.
-Puhuja 1: Mutta ajattelin, että tämä pitäisi kyllä kaikkien lukea. Nimittäin
-Puhuja 1: Katharine Beltonin
-Puhuja 1: kirja Putinin sisäpiiristä. En tiedä onko sitä täällä suositeltu aikaisemmin, mutta saahan täällä toistaa?
-Puhuja 1: Ilman muuta saa. Brittitoimittaja Kattreme Belton, joka kertoo siitä, miten
-Puhuja 1: Putin rakensi sen, miten hänen ympärille rakentui
-Puhuja 1: vallan väärinkäyttäjien
-Puhuja 1: verkosto ja oligarkkien verkosto. Ja miten kansan
-Puhuja 1: rahat
-Puhuja 1: kupattiin
-Puhuja 1: muihin taskuihin.
-Puhuja 1: Tämä on suomalaisittain silleen kiinnostava,
-Puhuja 1: että siinä askaroidaan
-Puhuja 1: Suomessa aika monta kertaa, koska genari Tim thenk ja hänen toimintansa.
-Puhuja 1: Jos haluaa sellaisen
-Puhuja 1: todella päähän ja hämmästyttävän
-Puhuja 1: historian
-Puhuja 1: kirjoituskokemuksen,
-Puhuja 0: niin suosittelen sitä. Se on jo muutaman vuoden vanha. Pitää nyt sanoa vielä, eikö Salla niin, että se oli siis teidän tekemä valitus tästä
-Puhuja 0: Maahanmuuttovirasto?
-Puhuja 0: Leuhoitetaan vielä. Leuhoitetaan vielä vähän siitä.
-Puhuja 1: Tiimi loistava toimittaja Susanna Reinbot, joka on siis
-Puhuja 1: asiakirjajulkisuus
-Puhuja 1: valitususten
-Puhuja 1: todellinen legenda jo eläessään.
-Puhuja 2: Dosentti.
-Puhuja 1: Hän on siis hirvittävästi tehnyt valituksia ja voittanut melkein siis kaiken. Nyt
-Puhuja 1: Maahanmuuttovirasto kieltäytyi antamasta Timchenkon
-Puhuja 1: kansalaishakemukseen liitettyjä suosituskirjeitä,
-Puhuja 1: koska, koska
-Puhuja 1: jotain vaarantaa turvallisuutta, jotain tällaisia perusteita. Hallinto-oikeus oli Susan ja Hesarin kanssa samaa mieltä siitä, että tällaiset perusteet eivät ole mistään kotoisin. Nyt ne ovat julkisia ja menkää lukemaan Helsingin Sanomien sivuilta. Ja poikkeuksellista kyllä, koska tämähän on yleensä virkamies tässä vaiheessa kun ne saa
-Puhuja 0: hallinto-oikeudessa
-Puhuja 0: turpaan, niin sitten ne kostaa sen mustaa alle koko
-Puhuja 1: sen. Ei yhtään mustaakaan.
-Puhuja 1: Ei ollut.
-Puhuja 1: En tiedä kuinka paljon, nämä pitää virkavastuulla tehdä
-Puhuja 1: johdonmukaisesti, mutta maahanmuuttovirastossa
-Puhuja 1: on uusi johtaja. Olen miettinyt,
-Puhuja 1: että onkohan tämä tuonut sellaista kulttuuria sinne,
-Puhuja 1: etteivät esimerkiksi
-Puhuja 1: lähteneet valittamaan
-Puhuja 1: korkeampaa hallinto-oikeutta.
-Puhuja 2: Voi olla. Voi olla, että ajan hengen mukaisesti näyttäisi pahalta, että aletaan Teamchenkkoa
-Puhuja 2: suojelemaan
-Puhuja 2: tai sen voisi käsittää sillä tavalla. Olisihan
-Puhuja 2: voinut alun perin antaa sen
-Puhuja 2: suosituskirje.
-Puhuja 2: No mitäs Paavo? Toisin siihen beezille.
-Puhuja 2: Se beeittiseura
-Puhuja 2: on tietenkin lukenut sen valtavan pitkän Nato-jutun ja Niinistön presidentti Niinistö haastattelun, niin toisin siihen jatkona
-Puhuja 2: Ruben Stillerin joviaalin
-Puhuja 2: äänen ja suosittelisin
-Puhuja 2: sellaista kesäkuussa julkaistua Ruben Stillerin podcast jaksoa nimeltä jälkiviisas
-Puhuja 2: historia,
-Puhuja 2: joka oli siis tehty ennen tätä juttua, mutta se käsittelee
-Puhuja 2: aika paljon samoja teemoja. Sitä, missä kulkee
-Puhuja 2: matalamielisen
-Puhuja 2: jälkiviisastelun
-Puhuja 2: raja. Siinä on vieraina
-Puhuja 2: professori Antero Holmil ja ja eduskuntatutkimuksen
-Puhuja 2: keskuksen
-Puhuja 2: johtaja Markku Joki-Sipilä. Se on musta hyvää, analyyttista keskustelua,
-Puhuja 2: suosittelen sitä.
-Puhuja 2: Entä
-Puhuja 0: Marko?
-Puhuja 0: Aivan
-Puhuja 0: mainio, aivan loistava kirja minkä
-Puhuja 0: olen nyt melkein lukenut loppuun. Ben
-Puhuja 0: Smith, joka on amerikkalainen
-Puhuja 0: toimittaja, amerikkalainen mediatoimittaja oli tässä välissä New York Timesinkin mediakolunisti ja on varmaankin
-Puhuja 0: jenkkien maineikkain mediakolunisti
-Puhuja 0: ja hänellä on valtavat suhteet ja lähteet ja hän skouppaa koko ajan
-Puhuja 0: kaikenlaista, niin hän on tehnyt kirjan,
-Puhuja 0: jonka nimi on Traffic ja se kertoo
-Puhuja 0: siitä, hän on itse ollut Bus-feedin,
-Puhuja 0: joka on ensimmäisiä
-Puhuja 0: netti-kanavalehti,
-Puhuja 0: niin sen päätoimittaja on jossain vaiheessa, mutta se kertoo
-Puhuja 0: tosi kiehtovasti näiden kaikkien uusien
-Puhuja 0: nettilehtien, Havington Pospostin,
-Puhuja 0: sitten Bansfeedin
-Puhuja 0: ja mikä se,
-Puhuja 0: mitä muita niitä nyt olikaan, tavallaan niiden tarina ihmisten kautta.
-Puhuja 0: Ja sitten siinä on
-Puhuja 0: yksi
-Puhuja 0: suuria kirjallisia
-Puhuja 0: sankareita on Kurt vonnekut
-Puhuja 0: ja Kurt vonnekutin
-Puhuja 0: klassikkokirjassa
-Puhuja 0: teurastamon viisi:ssä
-Puhuja 0: on semmoinen kohta, missä
-Puhuja 0: on
-Puhuja 0: fiktiivinen kirja, jossa
-Puhuja 0: on sotavankeja ja ne istuu vessassa. Siinä on monta pyttyä vierekkäin.
-Puhuja 0: Sitten tämä kuvataan missä nämä
-Puhuja 0: amerikkalaiset
-Puhuja 0: sotavankit istuu siellä
-Puhuja 0: pyyillä ja sitten yllättäen tulee lause, että siellä neljännessä välikössä olin minä, niin kuin Vonnecut sanoi että se oli hän. Ja tämä jotenkin naurattaa klassikkokohta
-Puhuja 0: siinä fiktiivisessä kirjassa,
-Puhuja 0: mutta nyt tässä Ben Smithin Traffic kirjassa tulee jossain
-Puhuja 0: kaksikymmentäkolme kirjasta jo mennyt, ja sitten siinä kerrotaan, että
-Puhuja 0: tämä Bushfeedin
-Puhuja 0: pääomistaja
-Puhuja 0: päätti palkata sinne
-Puhuja 0: päätoimittajaan.
-Puhuja 0: Sitten se vaan riemukkaasti huutaa, että se oli minä, se kuvaa mitä hän oli työpaikkahaastattelussa.
-Puhuja 2: Ihana, kun joku on oikeasti innoissaan
-Puhuja 2: omasta duunistoon se. Suosittelen
-Puhuja 2: lämpimästi. Hei, sitten se Tuomas lähti Tekö me vielä suositella, Tuomas lähti tämän suosituksen
-Puhuja 1: liittyen tähän keskusteluun. Se oli ihan idea.
-Puhuja 2: Eli tämä on tämä Risto E. J. Penttiläinen ja Jyrki Karvisen kirja Pitkä tie Natoon. Käsittelee näitä samoja teemoja jutussakin käsitteli. Välitetään tämä Tuomaksen suositus. Tuomas lähettikö ihan näin reaaliajassa? Hän Twitterissä
-Puhuja 1: pyysi.
-Puhuja 2: Aikamoista. On kyllä hyvä kirja, kiehtova kirja.
-Puhuja 0: No niin kiitoksia
-Puhuja 0: Paavo teitä paljon. Kiitoksia Salla Vuorikoski ja kiitoksia
-Puhuja 0: kuvan ja äänen meille tekevä Oona Mattila.
-Puhuja 0: Kuullaan taas ja toivottavasti,
-Puhuja 0: en ole ensi viikolla juontamassa tätä.
-Puhuja 1: Minä voin juonta ensi kertaa. Eikö Tuomas töissä edes? Ei kun onko se töissä edes? No sitten ei tarvinnut. Mutta hyvää viikonloppua
-Puhuja 2: ja hyvää kesää.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin
+Puhuja 1: Sanomat. Hei! Tervetuloa
+Puhuja 1: Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin
+Puhuja 1: tänään torstaina.
+Puhuja 1: Nyt minulla ei kyllä hajuakaan vuodessa päivä tänään ollut. Kahdeksan.
+Puhuja 1: Kahdeksan. Kesäkuuta
+Puhuja 1: vuonna kaksituhatta kaksikymmentäkolme
+Puhuja 1: ja me ollaan täällä Sanomatalon podcast studiossa Helsingissä
+Puhuja 1: ja niin edespäin. Te osaatte sen tuoma sen tuoma sen rimpsun uhkaa. Se on vaikea sanoa, että podcast
+Puhuja 3: Studioon.
+Puhuja 1: Studiossa
+Puhuja 1: kanssani olen siis Marko Jukka ja juonnan tänään tämän lähetyksen,
+Puhuja 1: koska Tuomas Peltomäki on ties
+Puhuja 1: missä? Lomalla.
+Puhuja 1: Maailmalla. Terveisiä Tuomakselle, joka toivon mukaan kuuntelee tämän lähetyksen. Tai uskoakseni kuuntelee. Hän
+Puhuja 1: antaa palautetta sitten jälkikäteen. Kyllä. Ja kanssani studiossa ovat Salla Vuorikoski.
+Puhuja 1: Terve.
+Puhuja 1: Helsingin
+Puhuja 1: Sanomien tutkivan yksikön tuottaja.
+Puhuja 1: Moikka näin.
+Puhuja 1: Mites sulla menee?
+Puhuja 2: Aivan hyvin menee.
+Puhuja 2: Tämmöinen kesäloman läheisyys kun alkaa painaa niin sitten alkaa
+Puhuja 2: hankkeet painaa niskassa.
+Puhuja 2: Hyvä, että välillä on täällä
+Puhuja 2: podcast-studiossakin
+Puhuja 1: aikaa käydä. Paikalla on myös Sallan alainen, eikö näin? Kyllä.
+Puhuja 1: Paavo Teittinen, joka on Helsingin Sanomien tutkivan ryhmän
+Puhuja 3: toimittaja. Päivää olla täällä. Sä oot pitkään aikaan ollut? Mä en ollut.
+Puhuja 3: Minusta tuntuu, että tämä väki on vaihtunut niin paljon, että olen ollut ehkä joskus viimeksi vuosi
+Puhuja 1: sitten.
+Puhuja 1: Voisitko Paavo kutsua sua Paavo Pesusiediksi?
+Puhuja 3: Olisikohan ollut sun
+Puhuja 3: lastenluokkalaiset?
+Puhuja 3: Oliko se
+Puhuja 1: hyvä? Ei. Silloin aikoinaan, kun olit vielä mukana, me tehdään talouden puolustuskurssia, niin muut
+Puhuja 1: järkkärit. Siellähän kutsuttiin aina Pajuomia.
+Puhuja 1: Eihän se ole mitenkään halveeraava, pahava pesuseli
+Puhuja 1: ole sellainen sympaattinen joku animaatio hahmo.
+Puhuja 1: Aika sekava meininki siinä sanottaa.
+Puhuja 1: No niin,
+Puhuja 1: tänään meillä on loistavat aiheet kuten aina.
+Puhuja 1: Me
+Puhuja 1: puhutaan Sauli Niinistöstä,
+Puhuja 1: Natosta. Siitä halusiko
+Puhuja 1: Niinistö viedä Suomen Natoon ja milloin halusi ja mitä halusi ja miksi
+Puhuja 1: sotilaat urputtaa?
+Puhuja 1: Paavo teki tästä huikean hienon ja myös huikean pitkän jutun.
+Puhuja 1: Viikonloppuna sunnuntaina ilmestyi.
+Puhuja 1: Sen lisäksi me puhumme bensan hinnasta, mikä on muun muassa yhteiskunnallisen keskustelun, se on niin kuin se kova ydin. Kyllä.
+Puhuja 1: Tärkein aihe, kuten olemme Säätytalolta
+Puhuja 1: kuulleet kuulleet kuulleet.
+Puhuja 1: Kolmas aihe on meidän henkinen pääaihe.
+Puhuja 1: Me puhutaan golfista.
+Puhuja 3: Meistä kukaan vissiin golfaa, golfaa sä pauva? Ei, en ole edes suorittanut sitä Mikä oli, mikä olit suorittanut? Richar Hargi. Mä en ole suorittanut edes sitä. En ole varmaan ikinä... En ole koskaan ikinä mailaa.
+Puhuja 2: Mä en ole varmaan ikinä ollut golf kentällä
+Puhuja 2: golfaamassa. Mä olen ollut monet kerrat hiihtämässä
+Puhuja 2: golfkentällä,
+Puhuja 2: koska paloheinän
+Puhuja 2: osa hiihtoladusta muuttuu
+Puhuja 2: golfkentältä.
+Puhuja 2: Sitähän ei voi tehdä yhtä aikaa. Siis hiihtäjä ei voi tehdä yhtä aikaa. Ei voi. Siellä on sellaiset konfliktin siemenet, koska kun kevät tulee ja lumet alkaa sulaa ja hiihtäjäthän yrittäisi hiihtää mahdollisimman pitkään,
+Puhuja 2: niin sitten jotain. Ja sitten ne golfkentän tyypit, niin meidän mielestä he alkavat sulattaa sitä ikään kuin väkisin sitä lunta siellä. Siitä tulee semmoinen
+Puhuja 2: hankaus
+Puhuja 1: pinta. Muuten pärjätään kyllä. Joo, mutta me puhumme siis tämä on itse asiassa paljon pelkästään golfia ja golfkentillä
+Puhuja 1: hiihtämistä kiinnostavampi aihe.
+Puhuja 1: Puhumme siitä, että
+Puhuja 1: Saudi-Arabia on rahoittanut
+Puhuja 1: kilpailevaa
+Puhuja 1: golf
+Puhuja 1: järjestöä ja myös jolla on siis tämmöinen turnea ja sinne ostettu
+Puhuja 1: maailman huippugolfareita
+Puhuja 1: ja se on osa Saudi-Arabiaan tämmöistä niin kuin pehmeää soft powring käyttöä. Se haluaa käyttää rahaa urheilua ja koittaa sitä kautta vaikuttaa ihmisten mieliin, Niin nyt tässä pari päivää sitten tuli tietoa, että tämä Saudi-Arabian
+Puhuja 1: rahoittama Liv
+Puhuja 1: golf
+Puhuja 1: järjestö
+Puhuja 2: yhdistyy tämän entisen, onko se nyt PGE. San hinnan tämä kompensaatio, miten se nyt tehdäänkään,
+Puhuja 2: niin sehän tavallaan tulee ja hyödyttää niitä, jotka ajaa eniten.
+Puhuja 2: Sillä ei ole väliä oletko menossa tuottavaan työhön
+Puhuja 2: autollasi vai lähdetkö käymään meillä maalla aikanaan ja käytiin vähän ajelemassa
+Puhuja 2: huvikseen.
+Puhuja 1: Ei paljon muuta tekemistä. No näinkin saattoi
+Puhuja 2: olla,
+Puhuja 2: mutta autolla ajellut kesäyönähän on itse asiassa aika mukavaa.
+Puhuja 2: Tämä on vähän tämmöinen ammutaan haulikolla,
+Puhuja 2: mutta sitä on tehty ennenkin
+Puhuja 1: politiikassa.
+Puhuja 1: Olla ja
+Puhuja 1: tavallaan ymmärrän täysin
+Puhuja 1: huolen bensan hinnan noususta ja miten se vaikuttaa etenkin
+Puhuja 1: metron yhteyksien ulkopuolella asuviin ihmisiin, että se on minusta relevantti
+Puhuja 1: aihe, mutta samaan aikaan onhan tästä bensan hinnasta tullut perussuomalaisille
+Puhuja 1: semmoinen, minusta kai aluevaaleja. Sitä naurettiin kun perussuomalaisten aluevaalikampanjan perustuva ainoastaan bensan
+Puhuja 1: hintaan niin tästä on tullut perussuomalaisille
+Puhuja 1: valtava symboli
+Puhuja 1: jostain,
+Puhuja 1: mikä on irti siitä pumppuhinnasta ja todellisuudesta, vaan tämä on poliittinen lupaus, joka heidän on pakko pitää. Ja se hierotaan heidän naamaansa.
+Puhuja 3: Kyllä, ja se on hankala poliittinen lupaus, koska siinä on juuri tämä mistä äsken puhuttiin, että sitten kun se pumppuhinta nousee niin saudien takia niin siinä onkin selittämistä. Joo juuri näin. Se on kuitenkin se lapsilisä, niin se tulee kuitenkin rahana tilille, se on tavallaan helppo nähdä, mutta sitten bensan hinnassa pitäisi olla jo kuona selittämässä. Tässä on tämä vaihtoehtoinen käyrä. Näin paljon bensa maksaisi ilman tätä meidän. Ehkä. Voisiko hallitus ymmärtää, että niissä bensa-aineiden kylteissä pitäisi sulkea?
+Puhuja 1: Saudit ja kaksoisviivat, tämä on heidän osuus. Joo, kyllä. Se hallitus ja meidän osuus on tämä. Mutta tämä on varmaan Petteri
+Puhuja 2: Orpolle sellainen asia, että kun mä oikeasti eilen yhtäkkiä havahduin aamulla, että ei vitsi nehän on muuten Säätytalolla vielä ne neuvottelut menossa. Että nämä on kestänyt vaikka kuinka kauan. Mä hii jo unohtaa koko neuvottelun. Mä en jaksa ole kattamit infoja kun orpo aina tulee sinne.
+Puhuja 2: Niin kyllähän tässä alkaa
+Puhuja 2: varmaan aika paljon painaa
+Puhuja 2: ja Orpo haluaa tämän hallituksen kasaan. Jos siihen miljardiin laitetaan bensan
+Puhuja 2: hommaan, niin ehkä se laskee vaan, että tämä
+Puhuja 2: on nyt sen hallituksen hinta. Kyllä.
+Puhuja 3: Mä kompatan Markoa siinä, että mun oma mummola on maaseudulla.
+Puhuja 3: Se on ihan fakta, että siellä ei pääse kauppaan ilman autoa. Ei sillä ole mitään bussiliikennettä
+Puhuja 3: käytännössä. Sä et pääse ostamaan safkaa.
+Puhuja 3: Ymmärrän
+Puhuja 3: sen huolen. Se, mikä tästä tekee niin jotenkin voimakkaan identiteettipoliittisen
+Puhuja 3: toimen, että se on bensan hinta,
+Puhuja 3: koska tavallaan ihan samalla tavalla niitä ihmisiä voisi tukea joillain muilla keinoilla.
+Puhuja 3: Esimerkiksi Alvin kiristys ei sekään mummoa varmaan hirveästi muuta. Niin ja siis kaikki kulut on noussut. Ihmiset kärsii
+Puhuja 2: ties vaikka mistä kulujen noususta, että se bensa on
+Puhuja 3: vaan yksi asia. Ehkä yritän sanoa just sitä, että se ei ole varmaan tehokkain tukimuoto,
+Puhuja 3: että tuetaan pumpulla, mutta se on semmoinen, joka
+Puhuja 3: iskee äänestäjivoiman
+Puhuja 3: parhaiten.
+Puhuja 1: Ehkä. Puhutaanko golfista?
+Puhuja 1: Puhutaan.
+Puhuja 1: Tämä on todella kiinnostava keissi.
+Puhuja 1: Maailman
+Puhuja 1: ammattilaisgolf
+Puhuja 1: on pyörittänyt
+Puhuja 1: PGA-niminen
+Puhuja 1: yhtiö, joka tavallaan kiertueillaan kaikki maailman parhaat golf-ajat ja sillä on tavallaan yksinoikeus
+Puhuja 1: järjestää näitä Skaboja
+Puhuja 1: noin vuosi sitten, tai en muista tarkkaa koska, tuli tämmöinen Live-niminen
+Puhuja 1: kilpailija, joka toimi Saudi-rahalla
+Puhuja 1: ja he ostivat sitten näitä omia huippupelaajia
+Puhuja 1: näihin omiin kisoihinsa ja sitten tuli valtava taistelu BGA:n ja LIVI:n välillä ja ne pelaajat jotka menivät livin turnauksiin, eivät enää päässeet BGA:n turnauksiin. Ja
+Puhuja 1: tähän lukeutui myös Donald Trump, joka tavallaan Digas Liivistä ja tarjosi omat golf-kenttäänsä
+Puhuja 1: Livin turnausten pitopaikaksi. Ja tämä on ollut
+Puhuja 1: golf piireissä ja ehkä urheilupiireissä ja ylipäätään politiikassa
+Puhuja 1: todella iso keskustelunaihe, että
+Puhuja 1: tavallaan
+Puhuja 1: näitä pelaajia, jotka ovat hypänneet sinne livileiriin rahan perässä, kun siellä on maksettu ihan pirusti ja heitä on syytetty siitä, että he eivät välitä asauniarabian ihmisoikeustilanteesta
+Puhuja 1: ja näin edespäin. Ja samaan aikaan PGA on
+Puhuja 1: tämä vanha järjestö korostanut omaa
+Puhuja 1: suoraselkäisyyttään
+Puhuja 1: ja sitä, että he eivät tällaisia
+Puhuja 1: ihmisoikeusrikkomuksilla
+Puhuja 1: kerättyjä rahoja ottaisikaan, että he ovat kunnon ihmisiä.
+Puhuja 1: Ja nyt hupsis vaan, nämä kaksi yhdistyy ja näistä saudeista tulee tämän uuden
+Puhuja 1: yhtiön jättiomistajaan.
+Puhuja 1: Tämä
+Puhuja 1: on
+Puhuja 1: eri
+Puhuja 1: asia,
+Puhuja 1: että
+Puhuja 1: nämä Lähi-Idän öljymaat on omistettu MisterS Cityä ja yksittäisiä
+Puhuja 1: fodisjoukkueita,
+Puhuja 1: mutta yhtä vaan ne saa haltuunsa
+Puhuja 1: toisena pääomistajana tai ehkä
+Puhuja 1: pääomistajana
+Puhuja 1: kokonaisen urheilusarjan.
+Puhuja 1: He tulevat pyörittämään
+Puhuja 1: ammattilais golfia tästä eteenpäin, joka on siis valtava laji, iso tv-laji
+Puhuja 1: ja
+Puhuja 1: saa globaalia huomiota. Mitäs Paavo ja Salla tuumaatte tästä?
+Puhuja 1: Aloitus?
+Puhuja 2: Olin tekemässä isoin juttu
+Puhuja 2: Qatarista ja Qatarin toiminnasta
+Puhuja 2: tällä
+Puhuja 2: samalla urheilun kentällä. Hehän on haalinut rahan avulla hallintaansa ja ikään kuin tällaista pr näkyvyyttä
+Puhuja 2: kaikenlaiseen,
+Puhuja 2: jopa
+Puhuja 2: padeliin.
+Puhuja 2: PSG
+Puhuja 2: joukkue ja hirveä
+Puhuja 2: litaniaa näitä kaikkia eri
+Puhuja 2: urheilun alueita.
+Puhuja 2: Ajattelen, että tämä on se mikä tällä hetkellä tapahtuu. Toki varmaan muillakin elämänalueilla,
+Puhuja 2: mutta erityisesti
+Puhuja 2: urheilussa, nämä valtiot, joilla on
+Puhuja 2: rahaa,
+Puhuja 2: niin he hankkivat
+Puhuja 2: tällaista goodwilliä.
+Puhuja 2: Ehkä myös sellaista katseen kääntyä pois niistä heille ikävistä
+Puhuja 2: asioista.
+Puhuja 2: Näyttää siltä, että raha kiinnostaa jopa
+Puhuja 2: sellaisia pelaajia ja urheilijoita joilla sitä rahaa on jo aivan tajuttomasti. Se on mulle jotenkin vaikea ymmärtää. Se että kun Christiano Ronalddo
+Puhuja 3: lähti
+Puhuja 3: pelaamaan,
+Puhuja 1: Amerikkaan. Meillä kotonakin oli iloinen. Ollaan iloisia Messin puolesta. Messi on suora selkä ennen. Melsi lähti mailia.
+Puhuja 1: Mä kyllä sanoisin, jos sä lähtisit miljardilla dollarilla Saudiaravia
+Puhuja 1: tekemään tutkivaa johonkin. Mä kirjoittaisin kriittisenä.
+Puhuja 2: Mä kirjoittaisin myös.
+Puhuja 2: Me käännettäisiin selkä sinulle. Ehkä ihan aiheesta.
+Puhuja 3: Tämä
+Puhuja 3: on tässä pidempi jatkumo, joka on näkynyt esimerkiksi tässä, että autoritääriset maat käyttää urheilua, niin kuin Marko sanoi, tämmöisen pehmeän vallankäytön
+Puhuja 3: välineenä. Tämä on pidempi jatkumo.
+Puhuja 3: Ennen tätä Venäjän suurhyökkäystä Venäjä oli tässä
+Puhuja 3: ykkösnimi.
+Puhuja 3: Putinin läheinen oli karkkiroman Abramovitsa omisti Chelsiin ja koko KHL lätkäliiga.
+Puhuja 3: Harkimon Jokerithan kuului tähän samaan projektiin. Sehän oli pehmeitä vallankäyttö. Se ryhdyttiin hankkia jengejä, siis joukkueita KHL ja myös Ruotsista ja muualta.
+Puhuja 3: Se on kiinnostavaa. Ja tavallaan sano vaan.
+Puhuja 2: Niin, ja aina on
+Puhuja 2: ne henkilöt ja ne tekijät, välimiehet
+Puhuja 2: tai varmaan naisiakin,
+Puhuja 2: jotka mahdollistavat omalta osaltaan niin kuin harkimo Suomessa.
+Puhuja 2: Kyllä. Tai jotkut nimekkäät jalkapalloilijat, he legenitinmoi omallallaan. He eivät tarvitse pennin jeniä, mutta he legenitinmoi sen toiminnan sillä
+Puhuja 2: omalla persoonallaan.
+Puhuja 2: Ja tietysti jotkut kokee senkin, puhuttiin siitä jälkiviisaudesta tuossa aiemmin,
+Puhuja 2: mutta jotkut kokee senkin myös
+Puhuja 2: epäreiluna
+Puhuja 2: tavallaan, että näitä
+Puhuja 2: asioita käsitellään ja katsotaan,
+Puhuja 2: että
+Puhuja 2: nehän vain tarttuvat tilaisuuksiin ja urheilijalla on vain
+Puhuja 2: yksi ura.
+Puhuja 2: Pitää pystyä toimimaan sen aikana.
+Puhuja 2: Mutta kun maailmahan ei ole vain rakennetta, joka pyörii jotenkin rakenteellisesti jossain, vaan tämä on tekijöitä ja vallankäyttäjiä
+Puhuja 2: ja ratkaisijoita.
+Puhuja 2: Kyllä mun mielestä kyllä voi aika... Mäkin sinua tosi kovasti kuumottaisi, jos lähtisit sinne. Mä yrittäisin ostaa hiljaiseksi.
+Puhuja 3: Kyllähän tässä näkyy kiinnostavasti
+Puhuja 3: tässä Saudi-Arabian
+Puhuja 3: aseman muutos, joka on ollut hyvin
+Puhuja 3: nopea lyhyessä ajassa ja osittain varmaan liittyy siihen Venäjän suurhyökkäykseen, koska vielä pari vuotta sitten, kun Joe Biden Yhdysvaltain presidentti oli
+Puhuja 3: kampanjoimassa, niin hän kutsui Saudi-Arabiaan
+Puhuja 3: hylkiöksi, joka pitää eristää. Se liittyi siihen, että Saudi-Arabian
+Puhuja 3: väitetään murhanen ja palotelleen Washington Postin
+Puhuja 2: toimittajan. Eikö se ole ihan kiistatonki?
+Puhuja 1: Kun
+Puhuja 3: sä oot nyt menossa siinä. Sitten on videokuvaa, kun ne jäpikkäät raahaa sen sinne. Joo, oli jotain lähetystöä. Mä en halua Mahammer Bin Salmanilta mitään kunnianloukkauskannetta, mutta joo. Siis palottelija murhassin toimittaja ja tietysti siellä oli muitakin juttuja. Jemeni sodat ja muut. Tämä oli se Bidenin linja. No sitten sen suurhyökkäyksen jälkeen viime vuonna, kun energian hinta lähti taivaisiin, Bidenhan matkusti
+Puhuja 3: Saudi Arabiaan ja antoi prinssille
+Puhuja 3: fistbampin
+Puhuja 3: ja pyysi, että voitteko lisätä tuotantoa.
+Puhuja 3: Olisi kiva, että bensan
+Puhuja 3: hinta laskisi siellä jenkeissäkin.
+Puhuja 3: Saudi-Arabia on tavallaan tullut takaisin
+Puhuja 2: maailman näyttämölle. Kyllä. Ja sitten jos saa vähän laajentaa golfista
+Puhuja 2: muihin ympyröihin, niin me ollaan aikanaan, tuolla Suomen kuvalehdessä tehtiin ansiokkaan toimittaja Outi Salovaaran kanssa selvitystyötä.
+Puhuja 2: Taisi olla
+Puhuja 2: esimerkiksi tuo Aurora Rämökin mukana siitä miten meidän esimerkiksi Säteilyturvakeskus
+Puhuja 2: on mennyt tekemään bisnestä Saudi-Arabiaan
+Puhuja 2: tilanteessa, jossa on
+Puhuja 2: väitteitä ja viitteitä siitä, että Saudit tavoittelee omaa
+Puhuja 2: ydinaseohjelmaa.
+Puhuja 2: Niin meidän
+Puhuja 2: viranomaistahot
+Puhuja 2: on mennyt
+Puhuja 2: rahan takia käytännössä. Saadaan
+Puhuja 3: kassavirrat. Se on ylitteliä sitä henkeä. Me tarvitaan jähmeä ja valtion byrokratian.
+Puhuja 2: Työntekijöille
+Puhuja 2: on ostettu firman piikkiin purkkiin, että he voivat toimia siellä.
+Puhuja 2: Kyllä se
+Puhuja 1: monella tavalla kiinnostaa. Mitä Paavo ja Salla,
+Puhuja 1: kun ammattilaisgolf siirtyy
+Puhuja 1: osin
+Puhuja 1: Saudi-omistukseen,
+Puhuja 1: niin vähentääkö tämä teidän ammattilaisgolf katsomista?
+Puhuja 2: Ei, kyllä tämä pysyy. Jäädytetään
+Puhuja 3: tälle tasolle tämä. Niin, se taso on käytännössä nolla. Eli ei vaikuta. Mutta vaikka golf ei kiinnostaisi yhtään, niin on tämä älyttömän kiehtova tarina. Joo,
+Puhuja 2: eräs läheiset olen sanonut, että hän rupeaa harrastamaan golfia, kun ei enää osu liikkuvaan palloon.
+Puhuja 2: Tämä on tämä golfin asema tässä lähipiirissä.
+Puhuja 2: Mutta siis onhan se hieno laji.
+Puhuja 3: Kun olin aikanaan intissä urheilukoulussa, niin siellä oli huippugolfareita, niin haluan puolustaa kyllä sitä lajina.
+Puhuja 3: Kun sanon aiemmin, etten ole koskenut mailaa, niin vain lähtee, että kerran kokeilin. On siinä helvetin vaikeaa. On käsittämätöntä.
+Puhuja 1: No niin, kun nyt sitten tulee viikonloppu ja
+Puhuja 1: seuraatte striimilla vihreiden puoluekokous Seinäjoelta
+Puhuja 1: tuolla jossain beechillä. Tuleeko
+Puhuja 1: helle?
+Puhuja 3: Taitaa tulla helle.
+Puhuja 3: Minä päivänä se pj valittiin. Se lauantai valitaan. Onko siellä puoluesihteeriden valinta? On,
+Puhuja 1: varapuheenjohtaja ja puolueevaltuuskunta.
+Puhuja 1: Kovin valintoja.
+Puhuja 1: Tulee kiinnostava kokous.
+Puhuja 1: Niin, mistä te haluatte rupatella
+Puhuja 1: teidän ystäville samalla kun katsotte
+Puhuja 1: toiselta screeniltä vihreiden kokousta ja toiselta screeniltä golfia, niin mistä te haluatte puhua ystävieni kanssa samalla?
+Puhuja 2: Mä kertoisin ystävälle
+Puhuja 2: siitä, että olin tossa reissussa ja
+Puhuja 2: tartuin vain kirjaa,
+Puhuja 2: jota olen lukenut aikaisemminkin,
+Puhuja 2: mutta ajattelin, että tämä pitäisi kyllä kaikkien lukea. Nimittäin
+Puhuja 2: Kathirine Beltonin
+Puhuja 2: kirja Putinin sisäpiiristä. En tiedä onko sitä suositeltu täällä aikaisemmin, mutta saahan täällä toistaa?
+Puhuja 1: Ilman muuta saa. Joo,
+Puhuja 2: Katrie Belton kertoo siitä,
+Puhuja 2: miten
+Puhuja 2: Putin rakensi sen, miten hänen ympärilleen rakentui
+Puhuja 2: vallan
+Puhuja 2: väärinkäyttäjien
+Puhuja 2: verkosto ja oligarkkien
+Puhuja 2: verkosto. Ja miten kansan
+Puhuja 2: rahat kupattiin
+Puhuja 2: muihin taskuihin.
+Puhuja 2: Tämä on suomalaisittain
+Puhuja 2: silleen kiinnostava,
+Puhuja 2: että siinä askaroidaan
+Puhuja 2: Suomessa aika monta kertaa, koska genari Timt thenko ja hänen
+Puhuja 2: toimintansa.
+Puhuja 2: Jos haluaa sellaisen
+Puhuja 2: todella päähän ja hämmästyttävän
+Puhuja 2: jälkiviisastelu
+Puhuja 2: historian kirjoitus
+Puhuja 1: kokemuksen, niin suosittelen sitä. On jo muutaman vuoden vanha. Ja pitää nyt sanoa vielä. Eikö Salla niin, että se oli teidän tekemä valitus tästä
+Puhuja 1: Maahanmuuttovirasto? No niin,
+Puhuja 2: leuhoitetaan vielä. Tiimi
+Puhuja 2: loistava toimittaja Susanna Reinboat, joka on siis
+Puhuja 2: asiakirjajulkisuusvalitusten
+Puhuja 2: todellinen legenda jo eläessään. Dosentti!
+Puhuja 2: Hän on siis hirvittävästi tehnyt valituksia ja voittanut melkein kaiken.
+Puhuja 2: Maahanmuuttovirasto
+Puhuja 2: kieltäytyi antamasta Timchenkon kansalaishakemukseen
+Puhuja 2: liitettyjä suosituskirjeitä,
+Puhuja 2: koska
+Puhuja 2: vaarantaa
+Puhuja 2: turvallisuutta, jotain tällaisia
+Puhuja 2: perusteita. Hallintooikeus oli Susan
+Puhuja 2: ja Hesarin kanssa samaa mieltä siitä, että tällaiset perusteet eivät ole mistään kotoisin. Nyt ne ovat julkisia ja menkää lukemaan Helsingin Sanomien sivuilta. Poikkeuksellista kyllä, koska tämähän on yleensä virkaan tässä vaiheessa, kun ne saa
+Puhuja 1: hallinto-oikeudessa
+Puhuja 1: turpaan, niin sitten ne kostaa sen mustaamalla koko sen koko sen. Ei yhtään
+Puhuja 2: mustaakaan. Ei ollut.
+Puhuja 2: En tiedä kuinka paljon, nämä pitää virkavastuulla tehdä johdonmukaisesti,
+Puhuja 2: mutta Maahanmuuttovirastossa on uusi johtaja. Olen vähän miettinyt, että
+Puhuja 2: onkohan tämä tuonut semmoista
+Puhuja 2: kulttuuria sinne,
+Puhuja 2: etteivät esimerkiksi lähteneet valittamaan
+Puhuja 2: korkeampaa hallinto-oikeutta.
+Puhuja 3: Voi olla.
+Puhuja 3: Voi olla, että ajan hengen mukaisesti
+Puhuja 3: näyttää pahalta, että aletaan Teamchsenk
+Puhuja 3: suojelemaan tai sen voisi käsittää sillä tavalla. Ehkä vaan helpompi antaa kaikkea. Olisihan voinut alun perin antaa sen suosituskirje. Niin,
+Puhuja 3: olisikin.
+Puhuja 3: No mitäs Paavo? No, toisin siihen beezille. Se
+Puhuja 3: beeittiseura on tietenkin lukenut sen valtavan pitkän Nato-jutun ja presidentti Niinistön haastattelun, niin toisin siihen jatkona
+Puhuja 3: Ruben Stillerin joviaalin äänen ja suosittelisin
+Puhuja 3: sellaista kesäkuussa julkaistua
+Puhuja 3: rupesi Tillerin podcast jaksoa nimeltä jälkiviisas
+Puhuja 3: historia,
+Puhuja 3: joka oli siis tehty ennen tätä juttua, mutta se käsittelee
+Puhuja 3: aika paljon samoja teemoja. Sitä, että missä kulkee tämmöisen matalamielisen
+Puhuja 3: jälkiviisastelun
+Puhuja 3: raja
+Puhuja 3: Siinä on vieraina
+Puhuja 3: professori Antero Holmil ja Eduskuntatutkimuksen
+Puhuja 3: keskuksen
+Puhuja 3: johtaja Markku Joki-Sipilä. Se on minusta hyvää, analyyttista
+Puhuja 3: keskustelua. Suosittelen sitä.
+Puhuja 3: Entä Marko?
+Puhuja 3: No niin
+Puhuja 1: voisin,
+Puhuja 1: aivan loistava kirja minkä
+Puhuja 1: olen nyt neljänä lukenut loppuun. Ben
+Puhuja 1: Smith, joka on amerikkalainen
+Puhuja 1: toimittaja, amerikkalainen mediatoimittaja
+Puhuja 1: oli tässä välissä New York Timesinkin mediakolonnisti
+Puhuja 1: ja on semmoinen,
+Puhuja 1: varmaankin jenkkien maineikkain
+Puhuja 1: mediankolonnisti
+Puhuja 1: ja hänellä on valtavat suhteet ja lähteet ja hän skouppaa koko ajan
+Puhuja 1: kaikenlaista, niin hän on tehnyt kirjan,
+Puhuja 1: jonka nimi on Traffic ja se kertoo
+Puhuja 1: siitä, hän on itse ollut tuota Bus-feedin
+Puhuja 1: kannam lehti,
+Puhuja 1: niitä ensimmäisiä, niin sen päätoimittaja on jossain vaiheessa, mutta se kertoo
+Puhuja 1: tosi kiehtovasti näiden kaikkien uusien
+Puhuja 1: nettilehtien,
+Puhuja 1: Haffington, Poispostin,
+Puhuja 1: Bus-feedin
+Puhuja 1: ja mikä se,
+Puhuja 1: mitä muita niitä nyt, olikaan tavallaan niiden tarina ihmisten kautta.
+Puhuja 1: Ja sitten siinä on semmoinen, minun
+Puhuja 1: yksi suuria
+Puhuja 1: kirjallisia
+Puhuja 1: sankareita on Kurt Wonnekut
+Puhuja 1: Kurt Wonnegut
+Puhuja 1: klassikkokirjassa
+Puhuja 1: mun mielestä oli teurastamo viides
+Puhuja 1: kohta,
+Puhuja 1: se on siis fiktiivinen kirja, missä
+Puhuja 1: siinä on sotavankeja ja ne istuu vessassa.
+Puhuja 1: Siinä on monta pyttyä vierekkäin.
+Puhuja 1: Sitten tämä kuvataan missä nämä
+Puhuja 1: amerikkalaiset sotavangit istuu
+Puhuja 1: siellä pytöillä ja sitten yllättäiseen tulee lause, että siellä neljännessä
+Puhuja 1: välikössä olin minä, niin kuin Vonnecot sanoi, että se oli hän. Ja tämä jotenkin naurattaa
+Puhuja 1: klassikkokohta siinä fiktiivisessä
+Puhuja 1: kirjassa, mutta
+Puhuja 1: nyt tässä Ben Smithin Traffic kirjassa tulee jossain
+Puhuja 1: kaksikymmentäkolme
+Puhuja 1: kirjasta jo mennyt, kun sitten siinä kerrotaan että Busfeedin
+Puhuja 1: pääomistaja päätti palkata sinne päätoimittajaan.
+Puhuja 1: Sitten se vaan riemukkaasti huutaa, että se oli minä.
+Puhuja 1: Se kuvaa, mitä hän oli työpaikkahaastattelussa.
+Puhuja 3: Ihana, kun joku on oikeasti innoissaan
+Puhuja 1: omasta duunistoon.
+Puhuja 1: Suosittelen
+Puhuja 1: lämpimästi.
+Puhuja 3: Pitkö meidän suositella vielä? Tuomas lähetti tämän suosituksen
+Puhuja 2: liittyen tähän keskusteluun. Se oli ihan itse.
+Puhuja 3: Eli tämä on tämä Risto E. J. Penttiläinen Jyrki Karvisen kirja Pitkä tie Natoon. Käsittelee näitä samoja teemoja jutussakin käsitteli. Välitetään tämä Tuomaksen suositus. Onko Tuomas, että lähdettiin ihan näin reaaliajassa? Hän ei Twitterissä
+Puhuja 1: pyysi. Aikamoista.
+Puhuja 3: On kyllä hyvä kirja, kiehtova kirja.
+Puhuja 1: No niin, kiitoksia
+Puhuja 1: Paavo. Teitä.
+Puhuja 1: Kiitoksia Salla Vuorikoski ja
+Puhuja 1: kiitoksia kuvani ja äänen meille tekevä Oona Mattila.
+Puhuja 1: Kuullaan taas ja toivottavasti.
+Puhuja 1: Minä en ole ensi viikolla juontamassa tätä.
+Puhuja 2: Minä voin juonta ensi. Eikö tuomassa töissä edes viikolla? Eikö se töissä edes? Luulen. No sitten ei tarvinnut. Mutta hyvä viikonloppu ja hyvää
+Puhuja 3: kesää!
+Puhuja 3: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin
+Puhuja 0: yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetkö suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 1: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasti, mä luulin, että mä lähtisin selvittämään, kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

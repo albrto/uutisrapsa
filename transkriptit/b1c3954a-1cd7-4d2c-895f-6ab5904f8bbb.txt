@@ -1,240 +1,491 @@
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Helsingin Sanomat.
 Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
 Puhuja 0: torstaina
-Puhuja 0: neljätoista.
-Puhuja 0: Päivä elokuuta vuonna kaksituhatta kaksikymmentäviisi.
-Puhuja 0: PÄÄ on erittäin hitaasti kulkenut elokuu, mikä on hyvä asia. Mun nimi on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien podcast
-Puhuja 0: studiossa Helsingissä on Future toimituksen toimittaja
-Puhuja 0: Anna Feel Bernerystämies
-Puhuja 0: Sohvi. Hei vaan, Sohvi. No heipä hei. Mitä kuuluu? Oikein hyvää.
-Puhuja 0: Mutta sinusta viisi,
-Puhuja 0: nimittäin
-Puhuja 0: meillä on paikalla täällä
-Puhuja 0: kesäisen,
-Puhuja 0: jättelevästi
+Puhuja 0: neljätoista. Päivä elokuuta vuonna kaksituhatta kaksikymmentäviisi.
+Puhuja 0: PÄÄ, on erittäin hitaasti kulkenut elokuu, mikä on hyvä asia. Mun nimi on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien podcast studiossa Helsingissä on
+Puhuja 0: Future toimituksen toimittaja
+Puhuja 0: Anna Feel Berner, ystävien kesken, sohvi. Hei vaan, sohvi. No heipä hei. Mitä kuuluu? Oikein hyvää.
+Puhuja 0: Mutta sinusta viisi
+Puhuja 0: nimittäin meillä on paikalla täällä
+Puhuja 0: kesäisen kujertelevasti
 Puhuja 0: naurava
-Puhuja 0: politiikkaa toimittaa Helsingin Sanomissa Marki Junkkari. Hei vaan,
-Puhuja 0: Olin toukokuun pois Leisyssa.
+Puhuja 0: politiikkaa toimittaa Helsingin Sanomissa Marko Junkkari. Hei vaan, Marko. Heissan, mä en ole ollut täällä todella pitkään. Joo, ja tiedättekö, mitä?
+Puhuja 0: Minä sinä ollaan mun muistikuvan mukaan oltu viimeksi samassa studiossa
+Puhuja 0: huhtikuussa.
+Puhuja 0: Onko näin? Onko näin? Tosiaan jäin lomalle jo kesäkuun alussa. Olin toukokuun pois Amazyn reississä.
 Puhuja 2: Aikamoista.
-Puhuja 2: Ilmankos jotenkin tuntuukin niin oikein kutkuttaa, kun pääsee tuollavaksi Ser kanssa
-Puhuja 0: studio. Tää studio, mikä musta tuntuu, että meidän kaikkien journalistinen koti.
+Puhuja 2: Ilmankos se jotenkin tuntuukin niin oikein kutkuttaa kun pääsee Tuaw Cer kanssa
+Puhuja 0: studioon.
+Puhuja 0: Musta tuntuu, että meidän kaikkien journalistinen
+Puhuja 0: koti.
 Puhuja 0: Tämän viikon podcastissa keskustellaan
 Puhuja 0: valtiovarainministeri
 Puhuja 0: Riikka Purran aloittamasta leikkauskeskustelusta,
-Puhuja 0: jonka aikana Purra aivan yllättäen ilmoitti lähes
-Puhuja 0: miljardin euron leikkauksista, jotka kohdistuvat lähinnä maahanmuuttajiin.
-Puhuja 0: Tähän
-Puhuja 0: pillastonut kokoomus reagoi, että aijaa, no me leikataan
-Puhuja 0: suomalaisilta.
-Puhuja 0: Anders
-Puhuja 0: Adlercreutz
-Puhuja 0: sukelsi Perämeren ja lukitsi itsensä kahleilla Ruotsin laivan potkuriin.
-Puhuja 0: Marko
-Puhuja 0: kertoo, mistä on kyse
-Puhuja 0: politiikkaa. On siis
-Puhuja 0: käynnistynyt alkavalta
-Puhuja 0: syksyltä
-Puhuja 0: budjettiriihen
+Puhuja 0: jonka aikana Purra aivan yllättäen ilmoitti
+Puhuja 0: lähes miljardin euron leikkauksista,
+Puhuja 0: jotka kohdistuvat lähinnä maahanmuuttajiin.
+Puhuja 0: Tähän pillastonut
+Puhuja 0: kokoomus reagoi, että aijaa, no me leikataan
+Puhuja 0: sitten suomalaisilta.
+Puhuja 0: Anders Adlercreutz
+Puhuja 0: sukelsi Perämereä
+Puhuja 0: lukitsi itsensä kahleilla ruotsalaivan potkuriin.
+Puhuja 0: Marko kertoo,
+Puhuja 0: mistä on kyse.
+Puhuja 0: Politiikkaa.
+Puhuja 0: On siis käynnistynyt
+Puhuja 0: alkavalta syksyltä
+Puhuja 0: budjettiriihiiin
 Puhuja 0: valmistuvilla
 Puhuja 0: ulostuloilla.
 Puhuja 0: Siitä tässä on kyse.
 Puhuja 0: Puhutaan siitä.
-Puhuja 0: Myös puhutaan siitä, miten tällä viikolla Maahanmuuttovirasto
-Puhuja 0: on ohjeistuksen.
-Puhuja 0: Maahanmuuttoviraston
-Puhuja 0: mukaan
-Puhuja 0: peräation
+Puhuja 0: Myös puhutaan siitä, miten tällä viikolla Maahanmuuttovirasto on ohjeistuksen.
+Puhuja 0: Maahanmuuttoviraston mukaan
+Puhuja 0: YK:n
+Puhuja 0: ja kansainvälisten järjestöjen raporttien mukaan Israel
+Puhuja 0: jatkuvasti rikkoo kansainvälistä humanitaarista
+Puhuja 0: oikeutta ja on syyllistynyt sotarikoksiin Kasassa
+Puhuja 0: sekä rikoksiin ihmisyyttä vastaan. Niin Maahanmuuttovirasto
+Puhuja 0: päätyy siihen, että Kaasalaisilla on automaattisesti
+Puhuja 0: oikeus
+Puhuja 0: turvapaikkaan Suomessa tästä.
+Puhuja 0: Skowista kertoi siis Iltalehti. Meille muun muassa tätä asiaa saapuu
+Puhuja 0: kommentoimaan
+Puhuja 0: Karoliina Knuuti,
+Puhuja 0: meidän toimittaja, joka on juuri palannut revortaasimatkalta
+Puhuja 0: eli
+Puhuja 0: reppari-reissulta
+Puhuja 0: Jordaanasta.
+Puhuja 0: Hän oli siellä muun muassa mukana Jordanian ilmavoimien
+Puhuja 0: avustuslennolla Goazan.
+Puhuja 0: Hän on siis omin silmin nähnyt,
+Puhuja 0: minkälaista
+Puhuja 0: hävitys siellä on.
+Puhuja 0: Vielä kolmanneksi
+Puhuja 0: keskustellaan ennakoivasti Trumpin ja Putinin tapaamisesta
+Puhuja 0: Alaskassa,
+Puhuja 0: perjantaina noin kello kaksikymmentäkaksi kolmekymmentä
+Puhuja 0: Suomen aikaa.
+Puhuja 0: Ja sen jälkeen
+Puhuja 0: vielä hyviä keskustelun aiheita pitkien epämukavien hiljaisuuden
+Puhuja 0: varalle.
+Puhuja 0: Okei,
+Puhuja 0: valtiovarainministeri
+Puhuja 0: Riikka Purra
+Puhuja 0: tuli ulos tällä viikolla. Viime
+Puhuja 0: viikolla.
+Puhuja 0: Tiedotteella, jossa oli muun muassa tällaisia alaotsikoita:
+Puhuja 0: Yritystuista ja T&K menoista leikataan kehitysyhteistyöhön
+Puhuja 0: ja muuhun Suomen ulkopuolelle ohjautuvaan rahoitukseen leikkauksia,
+Puhuja 0: kotoutumisen
+Puhuja 0: edistämiseen vähennyksiä kiintiöpakolaisten
+Puhuja 0: ottaminen Suomeen lopetetaan, järjestöjä
+Puhuja 0: avustuksista säästetään, kuntien
+Puhuja 0: valtionosuuksien
+Puhuja 0: leikkaus ja sitten erittäin trampilainen,
+Puhuja 0: yllättävä nykymuotoinen
+Puhuja 0: opetushallitus
+Puhuja 0: lakkautetaan
+Puhuja 0: ja muun muassa yliopistojen rahoituksesta
+Puhuja 0: säästetään.
+Puhuja 0: Kaikki tämä oli osa
+Puhuja 0: laajempaa
+Puhuja 0: viestintäviyrytystä
+Puhuja 0: persuilta, johon kuului
+Puhuja 0: purran ulostojen
+Puhuja 0: lisäksi se, että käynnisteltiin...
+Puhuja 1: Hän oli miettinyt, pitäisikö hän teeskennellä sairaskohtausta,
+Puhuja 1: että
+Puhuja 1: tämä
+Puhuja 1: loppuisi.
+Puhuja 1: Hän
+Puhuja 1: mietti myös, että pitäisikö
+Puhuja 1: juttu on. Jenni Kari-kaveri alkoi samantien chatissa laittaa, että voitko uskoa mitä se just sanoo. Se on niin kuin välitön se reaktio. Sitten Trumphan lähti aika suoraan sen jälkeen Suomesta.
+Puhuja 2: Siinä me siellä lentomatkan aikana tajusi, että millainen
+Puhuja 2: myrsky Jenkeissä on alkanut tästä.
+Puhuja 0: Suomalaisille,
+Puhuja 0: tuota,
+Puhuja 0: tästä bongkastakseni
+Puhuja 0: vähän niin kuin samoihin
+Puhuja 0: fiiliksiä, niin suomalaisten
+Puhuja 0: presidentistä Aleksander
+Puhuja 0: Stubbista julkaistiin tänään Washington
+Puhuja 0: Air Åcordin
+Puhuja 0: Journalissa
+Puhuja 0: juttu, jonka Yle hienosti älysi lukea
+Puhuja 1: ja referoida. Ilmeisesti myös iltanehti.
+Puhuja 0: Siellä
+Puhuja 0: kerrotaan siitä, miten Alexander Stub on jotenkin onnistunut
+Puhuja 0: golf-tapaamisen
+Puhuja 0: kautta
+Puhuja 0: tekemään itsestään Trumille
+Puhuja 0: luotettavan
+Puhuja 0: kumppanin kumppanin ja Euroopan asioiden kuiskuttelijan.
+Puhuja 0: Siellä lukee muun muassa tällä tavalla
+Puhuja 0: hienosti,
+Puhuja 0: että
+Puhuja 0: jonka yhdysvaltalaiset
+Puhuja 0: virkamiehet pyysivät heinäkuussa Stubbia vetoamaan
+Puhuja 0: Trumpiin,
+Puhuja 0: jotta Trump hyväksyisi tiukennukset Yhdysvaltain Venäjän pakotteita koskevaan lakiesitykseen,
+Puhuja 0: pointit Stubbille.
+Puhuja 0: Jutussa vaikutusvaltainen
+Puhuja 0: republikaanisenattori
+Puhuja 0: Lintsi Grayhm
+Puhuja 0: kuvaa Aleksia
+Puhuja 0: sillaksi Euroopan ja Trumpin välillä. Vau.
+Puhuja 0: No niin, ja sitten
+Puhuja 0: Trumphan on kiristänyt viime kuukausia
+Puhuja 0: golf-tapaamisen
+Puhuja 0: jälkeen
+Puhuja 0: suhtautumista Venäjän presidentin Vladimir Putinin, mistä tietenkin herää
+Puhuja 0: ainakin epäilys, vaikka sitä ei kukaan sano ääneen, että kenties se on yksinäinen
+Puhuja 0: Alexin
+Puhuja 0: ansiota, mutta koska hän on nöyrä
+Puhuja 0: ihminen, hän sanoo Wall Street Journalille, että Stub ei ota ansiota
+Puhuja 0: muutoksesta itselleen. Eurooppalaiset virkamiehet kertovat kuitenkin huomanneensa, että Trump reagoi paremmin, kun hän kuulee Euroopan näkemyksiä
+Puhuja 0: johtajalta. Ja nyt tulee Here's the kicare.
+Puhuja 0: Heidän mukaansa Trump ihailee Suomen armeijaa
+Puhuja 0: ja kunniaataan
+Puhuja 0: Stubbin pitkää Venäjän kokemusta.
+Puhuja 1: Toi ainakin hiveli Suomen armeijaa. Se oli huikee
+Puhuja 1: jutun alku
+Puhuja 1: ennen maksumuuria.
+Puhuja 1: Siinä oli klassinen Stub-jutun alku, että hän herää viideltä ja treenaa triathlania ja saunoa.
+Puhuja 1: Mutta sitten se jatkui.
+Puhuja 1: Ja usein hän myös puhuu Trumpin kanssa. Trumphan on sellainen, että hän soittelee ihmisille koko ajan. Onhan tuo nyt yleensä aika hämmentävää. Tässä on aina eurooppalaiset
+Puhuja 2: pääjehut koolla
+Puhuja 2: Saksa, Ranska, Englanti ja Italiasta meloon, ja sitten Stubb. Kysyn tästä, multa on ihan alustapuolue.
+Puhuja 0: Ennen tätä,
+Puhuja 0: Koska Trump ei suostunut ottamaan ketään mukaan
+Puhuja 0: tapaamiseen
+Puhuja 0: Putinin kanssa, niin Euroopan johtajat joutuu
+Puhuja 0: jotenkin hädissään ja häthätää kehittämään tämmöisen
+Puhuja 0: oman
+Puhuja 0: varjo
+Puhuja 0: flunsa.
+Puhuja 0: Eli Teams-kokouksen,
+Puhuja 0: johon siis osallistui seuraavat ihmiset: Saksan liittokansleri, Friedig Merts,
+Puhuja 0: Ukrainan presidentti Tellenski,
+Puhuja 0: Ranskan presidentti Emmanuel Macron, Puolan pääministeri Donald Trump, Iso-Britannia pääministeri Khear starmer. Aioi, anteeksi, Donald'sk.
+Puhuja 0: Italian pääministeri George Maloundie sekä EU-komission puheenjohtaja Ursula von der Leyen Eurooppa-neuvoston
+Puhuja 0: puheenjohtaja Antanu Kosteja Naton pääsihteeri Mark Rutte
+Puhuja 0: ja yhden Euroopan pienimmän maan presidentti Aleksandaistub.
+Puhuja 0: Onhan hän päässyt
+Puhuja 0: aivan ihmeasemiin
+Puhuja 0: Euroopassa ja nimenomaan tässä Amerikkakysymyksessä.
+Puhuja 0: Päässyt siis mennyt.
+Puhuja 0: Hänhän on itse itse... Ja siis totta kai ulkoministeriö, kaiken muun tuella, ovat hoitaneet itsensä sinne.
+Puhuja 0: Marko, mä kysyn sulta suoraan, onko tämä semmoinen, että meidän pitäisi hurruveta olla silleen, että jee, vau, mahtava, hyvä Alex
+Puhuja 0: mieletön suorituspresidentiltä
+Puhuja 0: Vai pitääkö meidän nyt ruveta silleen, että aa joo voi ei, kauheaa,
+Puhuja 0: että me just pokkuroitiin tässä
+Puhuja 0: kahdeksankymmentä vuotta Neuvostoliitolle ja nyt me ollaan tekemässä samaa,
+Puhuja 0: mutta toisin päin?
+Puhuja 2: Mun mielestä kannattaa olla ilman muuta positiivinen ja iloinen. Onhan tämä Suomen
+Puhuja 2: presidenttien ja ulkopolitiikan
+Puhuja 2: ikuiluongelma ollut se, että Jenkit eivät välitä meistä hevon tippaa. Tavallaan on ollut surtu, että koskaan päästä valkoiseen taloon. Totta kai
+Puhuja 2: yhteys ja yhteydenpito on kaikki diplomatiana vaina ja totta kai tämä on hyvä juttu.
+Puhuja 2: Kysehän ei ole vain Suomesta, vaan on tällaista makeeta, että
+Puhuja 2: on kuitenkin yhteiseurooppalainen projekti, missä Suomi on näin Ukrainan
+Puhuja 2: tukemisesta. Suomi on kuitenkin
+Puhuja 2: aika keskeisessä roolissa tässä. Mielestäni tämä on yksinomaan siistiä. Tosin puhuin juuri ennen
+Puhuja 1: tätä podcastia meidän
+Puhuja 1: kollegan Jussi Konttisen kanssa, joka on viettänyt paljon aikaa Ukrainassa ja tuntee sekä Ukrainan että Venäjän hyvin.
+Puhuja 1: Sitten kysyin vaan Jussin mietteitä tästä tapaamisesta, niin ehkä hyvä muistuttaa,
+Puhuja 1: että samaan aikaan se, että Putin ja Trump tapaa keskenään, on Euroopalle käsittämätön häpeä
+Puhuja 1: ja nolous. Me ei itse pystytä hoitamaan tätä asiaa. Täsmälleen samaa mieltä. Mutta jos Euroopalla on häpeä, mutta
+Puhuja 2: tässä yksi Euroopan keskeisiä päättäjiä
+Puhuja 2: tässä prosessissa tuntuu olevan Stubia, on hyvin informoitu ja näin totta kai se on hyvä asia. Okei.
+Puhuja 1: Miksi Marko, miksei me uutisoitu sitä, että Stub puhuu säännöllisesti Trumpin kanssa puhelimessa
+Puhuja 1: aamuisin?
+Puhuja 1: Miksi se tuli WallStreet Journalilta?
+Puhuja 0: Kyllä et sauhoa.
+Puhuja 0: Itse
+Puhuja 0: asiasta,
+Puhuja 0: podcast tavallaan epäkiitollisesti
+Puhuja 0: vanhenee aika pian. Mutta
+Puhuja 0: haluaisin mainita sen, soittelin Moskovan meidän Venäjän
+Puhuja 0: kirjeenvaihtajalle
+Puhuja 0: ja kyselin siellä,
+Puhuja 0: miltäs se näyttää.
+Puhuja 0: Maarit
+Puhuja 0: Venäjällä odotellaan tätä.
+Puhuja 0: Siellä on sellainen fiilis,
+Puhuja 0: että Putin ei välttämättä tarvitse tätä.
+Puhuja 0: On vain voitettavaa. Sillä on voitettavaa sieltä, mutta ei varmasti aio hävitä yhtään mitään.
+Puhuja 0: Tämä kertoo tosi paljon se, että se on Alaskassa,
+Puhuja 0: ei ainoastaan sen takia, että Alaska oli
+Puhuja 0: joka tuutista tullut, mutta ennen osa Venäjää ja sitten Tsaari myi rahabolassaan sen Yhdysvalloille.
+Puhuja 0: Mutta myös, että esimerkiksi Venäjän
+Puhuja 0: propagandamielessä
+Puhuja 0: nimenomaan Alaskassa on tarjolla
+Puhuja 0: esimerkiksi
+Puhuja 0: rannikolla kahdeksankymmentäyhdeksän
+Puhuja 0: venäläisortodoksista
+Puhuja 0: kirkkoa, jossa on kolmekymmentä nolla
+Puhuja 0: venäläisortodoksia.
+Puhuja 0: Sitten
+Puhuja 0: esimerkiksi
+Puhuja 0: eräässä lehtijut tuossa arvioitiin, että ei olisi yllättävää, jos
+Puhuja 0: Putin käyttää tilaisuuden hyväkseen siihen, että hän Alaskassa menee esimerkiksi
+Puhuja 0: Anckronissa, on
+Puhuja 0: tällainen Saint Inserent, en tiedä, mikä se on venäjäksi,
+Puhuja 0: katedraali,
+Puhuja 0: jossa on hyvin huomiota herättävät siniset
+Puhuja 0: sipulihuiput
+Puhuja 0: niin, että
+Puhuja 0: Putin painelee sinne sytyttämään kynttilän,
+Puhuja 0: jolloin siitä saadaan
+Puhuja 0: venäläiseen
+Puhuja 0: propagantakuastoon
+Puhuja 0: kotimarkkinoille
+Puhuja 0: Tosi paljon kuvamateriaalia
+Puhuja 0: siitä, mikä yhtenäisyys on Yhdysvaltojen ja Venäjän kansoilla
+Puhuja 0: ja itse asiassa Trumpin ja Putinilla.
+Puhuja 0: Samaan aikaan yksi, joka osallistui näihin neuvotteluihin
+Puhuja 0: Putinin
+Puhuja 0: neuvontaan Kiril Adingitriev,
+Puhuja 0: hän esimerkiksi
+Puhuja 0: on raivolla Twitterissä jakanut White Howsin itsensä twiittaamaan ehdotusta siitä, että Donald Trump ansaitsee
+Puhuja 0: Nobelin rauhanpalkinnon
+Puhuja 0: Ja sitten jotenkin alkaa tuntua, että sehän tämän koko operaation
 Puhuja 0: ainoa
 Puhuja 0: lopputulema on.
-Puhuja 1: Niin. Olin viime viikolla Yhdysvalloissa
-Puhuja 1: Michiganissa
+Puhuja 1: Niin. Olin viime viikolla
+Puhuja 1: Yhdysvalloissa Michiganissa
 Puhuja 1: ja sitten juttelin
-Puhuja 1: paljon
-Puhuja 1: erilaisten tavallisten amerikkalaisten kanssa
-Puhuja 1: ohimennen vähän kaikesta. Se
-Puhuja 1: mikä tuli yllättävän paljon esiin oli se, että ihmiset aloittivat, että
-Puhuja 1: on niin kauhealta, että maailma on niin kauhea paikka ja on niin paljon näitä sotia ja kunpa vaan tulisi rauha.
-Puhuja 1: Mitä tietenkin kukapa ei olisi sitä mieltä.
-Puhuja 1: Mutta minulle tuli juuri sellainen olo, että se on vähän
-Puhuja 1: sama mikä se rauha on. Tavallaan
-Puhuja 1: Juuri
-Puhuja 1: se huoli tässä on koko ajan ollut, että Trump yrittää tehdä jonkun rauhan, joka ei ole mikään oikea rauha, joka on Ukrainan ja Euroopan kannalta huono,
-Puhuja 1: vaan
-Puhuja 1: mahdollistaa Venäjän etenemisen myöhemmin lisää.
+Puhuja 1: paljon erilaisten tavallisten amerikkalaisten kanssa
+Puhuja 1: ohimennen vähän kaikesta. Ja se mikä tuli yllättävän paljon esiin oli se, että ihmiset aloittivat,
+Puhuja 1: että maailma on niin kauhea paikka ja on niin paljon näitä sotia ja kumpa vaan tulisi rauha.
+Puhuja 1: Ja tietenkin kukapa ei olisi sitä mieltä,
+Puhuja 1: mutta minulle tuli juuri sellainen olo, että se on ihan sama mikä se rauha on. Että tavallaan
+Puhuja 1: just se, että Trump
+Puhuja 1: Se huoli tässä on koko ajan ollut, että Trump yrittää tehdä jonkun rauhan, joka ei ole mikään oikea rauha, joka on Ukrainan ja Euroopan kannalta huono.
+Puhuja 1: Vaan mahdollistaa Venäjän etenemisen myöhemmin lisää.
 Puhuja 1: Ehkä se on edelleen tässä se.
-Puhuja 0: Ja yrittää tehdä sen vain saadakseen itselleen? Itselleni juuri niin.
-Puhuja 1: Ja voi sanoa niille äänestäjilleen,
-Puhuja 1: jotka ovat, että oispa rauha, että nyt on rauha.
-Puhuja 0: Hän on suuri mies ja hoitelee tämän. Trump
-Puhuja 0: on valmis hyväksyn
-Puhuja 1: huonotkin ja typerät ehdot. Juuri näin. Toki hänellä ei ole varaa hyväksyä, että kyllähän ukrainalaiset
-Puhuja 0: voivat jatkaa sotimista parhaan. Saakka. Niin, mutta hän voi sanoa, että hän oli tällainen rauhantekijä ja Ukraina pilas kaipaa. Niin, just näin.
-Puhuja 0: Sitten
-Puhuja 0: mä
-Puhuja 0: huomaan, että toistuvasti
-Puhuja 0: näissä Trumpjutuissa
-Puhuja 0: kaikkien näiden vuosien jälkeenkin minua vaivaan se, että
-Puhuja 0: mä rationalisoin
-Puhuja 0: sitä.
-Puhuja 0: Se johtuu siitä, että kun niihin samoihin juttuihin sotketaan
-Puhuja 0: Stubbin analyyseja siitä, mitä ehkä on tapahtumassa.
-Puhuja 0: Sitten kun Stub on järkevää ja puhuu järkeviä ja fiksuja, niin siihen Trumpiin
-Puhuja 0: tahraantuu sitä järkevyyttä ja fiksuutta.
-Puhuja 0: Sitten pitää aina
-Puhuja 0: ravistella itseä ja lapsia poskille, että muistaa,
+Puhuja 0: Ja yrittää tehdä sen vain saada se itsellesi. Itselle juuri niin.
+Puhuja 1: Ja voi sanoa niille äänestäjilleen, jotka ovat, että olisipa rauha, että nyt on rauha.
+Puhuja 0: Hän on suuri mies, hän hoitelee tämän.
+Puhuja 0: Trump on valmis hyväksyn huonotkin ja typerät
+Puhuja 1: että Trump on valmis hyväksyä huonotkin ja typerät ehdot. Toki hänellä ei ole varaa hyväksyä, että kyllähän ukrainalaiset voi jatkaa sotimista parhaan. Niin, mutta hän voi sanoa, että hän oli tämmöinen rauhantekijä ja sitten Ukraina pelastaa kaiku. Niin, just näin.
+Puhuja 0: Sotketaan jonkun Stubbin analyysejä siitä, mitä ehkä on tapahtumassa.
+Puhuja 0: Ja sitten kun Stub on järkevää ja fiksuja, puhuu järkeviä ja fiksuja, niin siihen Trumpiin tahraantuu sitä järkevyyttä ja fiksuutta.
+Puhuja 0: Sitten pitää
+Puhuja 0: aina ravistella itseä lapsia poskille, muistaa,
 Puhuja 0: että
 Puhuja 0: siellä on käsittämätöntä
-Puhuja 0: paskaa,
-Puhuja 0: pelkästään
-Puhuja 0: se, mitä siellä tapahtuu tällä hetkellä, että hän kiistää
+Puhuja 0: paskaa, pelkästään
+Puhuja 0: se,
+Puhuja 0: mitä siellä tapahtuu tällä hetkellä, että hän kiistää
 Puhuja 0: vaalituloksia,
-Puhuja 0: roudaan saatavaan
-Puhuja 0: sinne Washington,
+Puhuja 0: roudaa saatan
+Puhuja 0: armeijansa Washington,
 Puhuja 0: niin ikään kuin valmistelee jo sitä, että
-Puhuja 0: Kun tulee seuraava kiista vaalituloksista,
-Puhuja 0: niin hänellä on armeija siellä käytössä. Ja sitten siellä on taustalla niin paljon semmoista todella, todella hälyttävää,
-Puhuja 0: että se pitäisi ajatella vain silleen, että tässä on nyt kaksi fasistia tapaa toisensa
+Puhuja 0: kun tulee seuraava kiistan vaalituloksista,
+Puhuja 0: niin hänellä on armeija
+Puhuja 0: käytössä.
+Puhuja 0: Sitten siellä on taustalla niin paljon semmoista todella, todella hälyttävää, että se pitäisi ajatella vain silleen,
+Puhuja 0: että tässä nyt kaksi fasistia tapaa toisensa
 Puhuja 0: ja että siitä tässä on kyse. Ja tietenkään Trump, joka tunnistaa Putinissa
 Puhuja 0: hengenheimolaisen,
 Puhuja 0: ei tule ikinä tekemään mitään sellaista, mikä
 Puhuja 0: veisi poisvaltaa
-Puhuja 0: yksivaltaisilta
+Puhuja 0: yksinvaltaisilta
 Puhuja 0: fasisteilta, kuten Putin.
-Puhuja 1: Niin ja jos ottaa
-Puhuja 1: maltillisemman,
-Puhuja 1: mutta silti kyynisen otteen,
-Puhuja 1: niin kyllä viime viikollakin
-Puhuja 1: EPSNFils
-Puhuja 1: oli ykkösuutisaihe
-Puhuja 1: ja ilmoitettiin,
-Puhuja 1: että avataan Putin Kanadassa ja keskustelu muuttuu.
-Puhuja 0: Lauantain puolella varmaan
-Puhuja 0: alkaa tulla tietoja ja analyysiä, että mitä
+Puhuja 1: Niin ja sitten, jos ottaa
+Puhuja 1: maltillisemman mutta silti kyynisen otteen,
+Puhuja 1: niin kyllä se vielä viime viikollakin EPSN Filees oli ykkösuutisaihe.
+Puhuja 1: Ja ilmoitettiin,
+Puhuja 1: että avataan Putin Kanadassa ja keskustelu
+Puhuja 1: muuttuu.
+Puhuja 2: Okei,
+Puhuja 0: tota, lauantain puolella varmaan alkaa
+Puhuja 0: tulla tietoja, analyysiä, että mitä
 Puhuja 0: tästä seuraa.
 Puhuja 0: Sitten kun
-Puhuja 0: tota Sitten kun tota
-Puhuja 0: Mitä Alaskas juodaan?
+Puhuja 0: tota...
+Puhuja 0: Mitä
+Puhuja 0: Alaskas juodaan?
 Puhuja 1: Ennen ehkä vodkaa nykyään varmaan
-Puhuja 0: patwaiseria. Niin varmaan, okei. Joo. Otatte halvimman patwaiserin
-Puhuja 0: istutte
-Puhuja 0: hangin
-Puhuja 0: keskelle syömään sitä, ei kun juomaan sitä ja syömään
-Puhuja 0: Mitä Kanadasta
-Puhuja 1: syödään? Se on Yhdysvaltoja.
-Puhuja 0: Anteeksi,
-Puhuja 0: Putinia, eikö se oli kanadalla.
-Puhuja 0: Putinia, joka on sen Ranskan perunaruoka.
-Puhuja 0: Mutta siellä olikin kanadalla. Se on nyt
-Puhuja 0: selkeästi kanadana ja Alaska koko ajan sekaisin.
-Puhuja 0: Otatte siinä badwisseria
+Puhuja 0: badwisseria. Niin varmaan, okei. Joo. Te otatte halvimman
+Puhuja 0: Padviserin istutte
+Puhuja 0: hangin keskelle
+Puhuja 0: syömään sitä, ei kun juomaan sitä syömään...
+Puhuja 1: Mitä Kanadasta syödään? Se on Yhdysvaltoja
+Puhuja 0: jotenkin. Anteeksi, Putinia,
+Puhuja 0: eikö se oli kanadalla.
+Puhuja 0: Putinia, joka on Ranskan perunaruoka.
+Puhuja 0: Mutta se olikin kanadalla aika lailla. Se on nyt
+Puhuja 0: selkeästi kanadal ja Alaska koko ajan sekaisin.
+Puhuja 0: Otatte
+Puhuja 0: siinä badwisseria
 Puhuja 0: ja alatte
-Puhuja 0: naapurin venäläisortodoksista
+Puhuja 0: naapurin
+Puhuja 0: venäläisortodgseille
 Puhuja 0: keskustelemaan,
-Puhuja 0: niin mistäs heille keskustelette. Ja haluan mennä ensin, koska minulla on kerrankin hyvin vähän suositeltavaa.
+Puhuja 0: niin mes heille keskustelette. Ja haluan mennä ensimmäisenä, koska minulla on kerrankin vain hyvin vähän suositeltavaa.
 Puhuja 0: Tosin
-Puhuja 0: sitä tärkeämpääkin suositeltavaa. Nimittäin kävin vierailemassa
-Puhuja 0: kaverin ja uutisraportti
-Puhuja 0: poliittista satiiria käsikirjoittataneen
+Puhuja 0: sitä tärkeämpääkin suositeltavaa.
+Puhuja 0: Nimittäin kävin vierailemassa kaverin
+Puhuja 0: ja
+Puhuja 0: uutisraportti
+Puhuja 0: poliittista satiria käsikirjoittataneen
 Puhuja 0: Henry Lehdon
 Puhuja 0: Ysärimusiikki
 Puhuja 0: podcastissa
-Puhuja 0: nimeltä Kaikki rakastaa ysäriä.
-Puhuja 0: Mun jakson teemana oli mulle hyvin tärkeä U2-bändi.
-Puhuja 0: Se on tosi hyvä se Henkan podi.
-Puhuja 0: Kaikki rakastaa ysäriä.
-Puhuja 0: Siinä puhutaan vähän niin kuin elämästä ehkä enemmän kuin musiikista, tosin puhutaan siitä musiikistakin.
+Puhuja 0: nimeltä Kaikki rakastaa ysäriä. Sitten
+Puhuja 0: mun
+Puhuja 0: jakson teemana oli mulle hyvin tärkeä U2-bändi.
+Puhuja 0: Se on tosi hyvä se Henkan podi. Kaikki rakastaa ysäriä. Siinä puhutaan vähän niin kuin elämästä ehkä enemmän kuin musiikista, tosin puhutaan siitä musiikistakin.
 Puhuja 0: Tuli käytyä
 Puhuja 0: lapsuuteni ja nuoruus Oulussa ja
-Puhuja 0: minkälaista oli olla,
-Puhuja 0: Puttu-nokkanen
-Puhuja 0: ja takatukkainen,
+Puhuja 0: minkälaista oli olla
+Puhuja 0: Pottu-nokkanen
+Puhuja 0: ja takatukkoinen,
 Puhuja 0: rokki
 Puhuja 0: pojan alku
-Puhuja 0: Suomen lamassa.
+Puhuja 0: Suomenlamassa.
 Puhuja 0: Siinä oli kaikennäköistä
-Puhuja 0: jännää, päättyi oikein elämänfilosofiapohdintoihin,
+Puhuja 0: jännää, päättyi oikein elämänfilosofia
+Puhuja 0: pohdintoihin,
 Puhuja 0: oli tosi kiva vierailla.
-Puhuja 0: Kannattaa kuunnella, jos kiinnostaa tuon tyttären kama, jos kiinnostaa kuunnella, mitä kaikkea hölmömään
-Puhuja 0: olen tehnyt elämäni aikana. Kaikki rakastavat Ysäriä.
-Puhuja 0: Podcast löytyy vähän niin kuin kaikkialta. Nyt on myös ollut tämmöiset
+Puhuja 0: Kannattaa kuunnella,
+Puhuja 0: tuon tyyppinen kama, jos kiinnostaa kuunnella, mitä kaikkien hölmöön
+Puhuja 0: olen tehnyt
+Puhuja 0: elämäni aikana. Kaikki rakastaa Ysäriä.
+Puhuja 0: Podcast löytyy vähän niin kuin kaikkialta. Nyt on myös ollut
 Puhuja 1: ysärinostalgian
-Puhuja 1: kultaviikot, koska tuolla Britanniassa on ollut näitä PASI:n paluukeikkoja
-Puhuja 1: ja matkustanut
-Puhuja 1: niille. Ja sitten ne postaavat someen ja se on kyllä näyttänyt tosi upealta.
-Puhuja 2: Olen ilmeisesti ollut aika hienot keikat vielä. Minä luulen myös.
-Puhuja 1: Tässähän on ollut koko kesä välissä ja olen mielestäni lukenut ja katsonut paljon kaikkea, mistä olen ajatellut, että
+Puhuja 1: kultaviikot, koska
+Puhuja 1: Britanniassa on ollut PuoSiksen paluukeikkoja ja sieltä on
+Puhuja 1: matkustanut
+Puhuja 1: meidänkin tuttuja
+Puhuja 1: niille ja sitten ne postaa someen ja se on kyllä näyttänyt tosi upealta. Olen kateellinen. On ilmeisesti ollut aika hienot keikat vielä. Minä luulen
+Puhuja 1: kanssa. Tässähän on ollut koko kesä välissä ja olen mielestäni lukenut ja katsonut paljon kaikkea mistä olen ajatellut, että
 Puhuja 1: tästä voi
-Puhuja 1: puhua
-Puhuja 1: pitkinä epämukavina hiljaisuuksina.
-Puhuja 1: Nyt en tietenkään muista niistä kovinkaan paljon.
-Puhuja 1: Mutta aloin lukea uudestaan sellaista kirjaa, joka olen lukenut joskus kaksikymmentä vuotta sitten ehkä. Se oli Kesämäkin hyllyssä.
+Puhuja 1: puhua pitkinä epämukavina hiljaisuuksina.
+Puhuja 1: Ja nyt en tietenkään muista niistä kovinkaan paljon. Mutta
+Puhuja 1: aloin lukea uudestaan sellaista kirjaa, jonka olen lukenut joskus kaksikymmentä vuotta sitten, se oli Kesämökin hyllyssä.
 Puhuja 1: Se on amerikkalaiskirjailija
-Puhuja 1: Jeffrey Eugeniddeksen
-Puhuja 1: Middle Sex.
-Puhuja 1: Se liittyy vähän myös teemaan.
-Puhuja 1: Mutta
-Puhuja 1: se tapahtuu detroitissa, jota en muistanut
-Puhuja 1: tai osittain alkaa detroitista.
-Puhuja 1: Ja olin just detroitissa, niin siinä oli tätäkin.
-Puhuja 1: Mutta se
-Puhuja 1: seuraa kreikkalais-amerikkalaisen
+Puhuja 1: Jeffrey Eugen Deksen
+Puhuja 1: Meddol Sex,
+Puhuja 1: joka
+Puhuja 1: liittyy siis
+Puhuja 1: liittyy vähän myös teemaan.
+Puhuja 0: Aloitin saamaan
+Puhuja 0: oikeasti. Oikeasti joo. Kauhu.
+Puhuja 1: Mutta siis, se
+Puhuja 1: tapahtuu detroitissa, jota en muistanut
+Puhuja 1: Tai osittain alkaa detroitista.
+Puhuja 1: Olin juuri detroitissa, niin siinä oli tätäkin. Mutta se seuraa kreikkalais-amerikkalaisen
 Puhuja 1: suvun historiaa.
-Puhuja 1: Ja se on hyvin elävästi kirjoitettu. Ja se kertoja on tosiaan intersukupuolinen
+Puhuja 1: Ja se on hyvin elävästi kirjoitettu. Ja se kertoja
+Puhuja 1: on tosiaan intersukupuolinen
 Puhuja 1: henkilö.
-Puhuja 1: Ennen kuin nämä kaikki sukupuoliasiat nousi, kun kirja on ilmestynyt muistaakseni kaksituhatta kolme,
-Puhuja 1: niin nousi kulttuurista
-Puhuja 1: aiheeksi, niin siinä hyvin kiinnostavasti myös pohditaan tätä sukkia. Se on kirjoja, johon on helppo tarttua, koska se imee aamulla. Se on tosi vetää mielettömästi.
-Puhuja 0: Semmoinen klassinen suuri amerikkalainen romaani lukee, niin se tuntuu, että katsoo semmoista elokuvaa, jossa koko ajan tapahtuu. Se on upeasta kirjata. Kyllä, suosittelen vitulleeksi.
-Puhuja 2: Joo, minäkin olen lukenut,
-Puhuja 2: tässä
-Puhuja 2: on vaikeuksia valita, kun on lukenut niin paljon kaikkea kiinnostavaa.
-Puhuja 2: Tässä on koko syksyys kaikenlaisia suosituksia. Lähdetään nyt vaikka
-Puhuja 2: tuosta kulmasta liikkeelle. Mä luin
-Puhuja 2: kirjoittajan Chris Pavonen Pavonen ja The Dorman. Ja
-Puhuja 2: sit tästä innostuneena nämä
-Puhuja 2: itse asiassa luin kaikki muutkin tämän Chris Pavonen kirjat ja hän on minusta ihan loistava.
-Puhuja 2: Etenkin The Dorman on, se on siis
-Puhuja 2: Pavonenin aikaisempi kirjathan nousee ollut
-Puhuja 2: agenttitarinoita
-Puhuja 2: mutta aina on ollut perhettä ja normaali elämää mukana. Mutta Dorman on tämmöinen, se
-Puhuja 2: kertoo newyjokilaisesta
-Puhuja 2: superkalliista
-Puhuja 2: asuintalosta,
-Puhuja 2: missä on siis sporttiereja, tai Dormen.
-Puhuja 2: Asuu pelkästään miljardöörejä
-Puhuja 2: ja kuvaa näiden
-Puhuja 2: rikkaiden ihmisten elämää talossa
-Puhuja 2: ja heidän
-Puhuja 2: taloyhtiönsä kokoustaan. Se on jotenkin niin hauska ja niin raadollinen
-Puhuja 2: ja julma näitä rikkaita kohtaan.
+Puhuja 1: Ennen kuin nämä kaikki sukupuoliasiat nousi, kun kirja on ilmestynyt muistaakseni kaksituhatta kolme
+Puhuja 1: Se nousi kulttuurista aiheeksi.
+Puhuja 1: Siinä hyvin kiinnostavasti myös pohditaan
+Puhuja 1: tätä.
+Puhuja 0: Se on kirjoja, johon on helppo tarttua, koska se imee avot. Se on tosi vetää.
+Puhuja 0: Sellainen klassinen suuri amerikkalainen romaani. Kun lukee, niin se tuntuu, että Jussi
+Puhuja 0: Latvala:
+Puhuja 0: Okei.
+Puhuja 1: Jussi
+Puhuja 2: Latvala: Joo, mäkin olen lukenut,
+Puhuja 2: tässä on
+Puhuja 2: vaikeuksia valita, kun on lukenut niin paljon kaikkea kiinnostavaa.
+Puhuja 2: Tässä on koko syksyksi kaikenlaisia suosituksia. Lähdetään vaikka tuosta
+Puhuja 2: kulmasta liikkeelle.
+Puhuja 2: Luin kirjoittajan
+Puhuja 2: Chris Pavone,
+Puhuja 2: ja The Dorman on tämän kirjan nimi.
+Puhuja 2: Ja tästä innostun elämä,
+Puhuja 2: itse asiassa luin kaikki muutkin, Chris Pavonen kirjat ja hän on minusta ihan loistava.
+Puhuja 2: Etenkin The Dorman on siis...
+Puhuja 2: Pavonen aikaisena kirjathan on usein ollut agentti
+Puhuja 2: tämmöinen,
+Puhuja 2: se kertoo newyjokilaisesta
+Puhuja 2: super kalliista
+Puhuja 2: asuintalosta missä on siis sporttier
+Puhuja 2: ja Dormen.
+Puhuja 2: Asuu
+Puhuja 2: pelkästään miljardöörejä. Se
+Puhuja 2: kuvaa
+Puhuja 2: näiden
+Puhuja 2: rikkaiden ihmisten elämää talossa,
+Puhuja 2: ja heidän taloyhtiönsä kokoustaan. Se on jotenkin niin hauska ja niin raadollinen ja julma
+Puhuja 2: näitä rikkaita kohtaan.
 Puhuja 2: Päällimmäisenä tarinana Dorman on
-Puhuja 2: vanhempi mies joka on tehnyt työnsä siellä vuosikymmeniä hyvin ja
-Puhuja 2: miten rikkaat ihmiset kohtelevat häntä.
-Puhuja 2: Sitten siellä
-Puhuja 2: tarina käsittelee sitä, että
+Puhuja 2: vanhempi mies, joka on tehnyt työnsä siellä vuosikymmeniä hyvin
+Puhuja 2: ja
+Puhuja 2: miten rikkaat ihmiset kohtelee häntä.
+Puhuja 2: Sitten tarina käsittelee sitä,
+Puhuja 2: että
 Puhuja 2: poliisi ampuu
-Puhuja 2: mustan miehen syyttä josta alkavat
-Puhuja 2: mellakat.
-Puhuja 2: Tälle
-Puhuja 2: kuvataan
-Puhuja 2: rikkaiden ja köyhien ja
+Puhuja 2: mustan
+Puhuja 2: miehen syyttä, josta alkaa mellakat.
+Puhuja 2: Sitten kuvataan
+Puhuja 2: rikkaiden ja köyhien
+Puhuja 2: ja työntyneiden
 Puhuja 2: duunareiden suhdetta ja sitten myös rotukysymystä.
-Puhuja 2: Otetaan Tom Wolff, turhhuksien roviotyyppinen,
+Puhuja 2: Otetaan Tom Wolff, turkuksien roviotyyppinen,
 Puhuja 2: hyvin raadollinen
 Puhuja 2: yhteiskuntarotu,
-Puhuja 2: varallisuus,
-Puhuja 2: yhteiskuntaluokkakuvaus. Aivan sairaan hieno.
-Puhuja 2: Okei.
-Puhuja 2: Mikä sen nimi mieleen? The Dorman.
+Puhuja 2: varallisuus, yhteiskuntaluokkakuvaus,
+Puhuja 2: aivan sairaan hieno.
+Puhuja 0: Okei, mikä sen nimi on? The dorman. The dorman.
 Puhuja 0: Okei, siinä kaikki tältä erää.
-Puhuja 0: Kiitos, Marke Junkkari. Kiitos. Kiitos Anna Sviaberner.
-Puhuja 0: Kiitos. Mun nimi on Tuomas Peltomäki, äänenkuva ja kaiken mahtavan meille tekee tällä viikolla Janne Elkki ja Janne Piltonen yhteistyössä.
+Puhuja 0: Kiitos Marke Junkkari.
+Puhuja 0: Kiitos. Kiitos Anna Sviaberner.
+Puhuja 0: Kiitos. Mun nimi on Tuomas Peltämämäki, äänenkuva ja kaiken mahtavan
+Puhuja 0: meille tekee tällä viikolla Janne Elkki ja Janne Peltonen yhteistyössä.
 Puhuja 0: Kiitos heille.
-Puhuja 0: Aperhana mulla oli yksi oikaisu.
+Puhuja 0: Pirhana mulla oli yksi oikaisu.
 Puhuja 0: Mä viimeksi väitän, että panoptikon
-Puhuja 0: olisi keksitty 1960-luvulla
+Puhuja 0: olisi keksitty 60-luvulla
 Puhuja 0: yhteiskuntatieteessä.
 Puhuja 0: Se on 1700-luvulla
-Puhuja 1: tietenkin. Mä olisin ollut tämän kysymyksen. Mä olisin kertonut sulle. Mäkin tiesin tuon, mutta mä jotenkin
-Puhuja 0: kuuntelin liikaa omia juttuja. Mutta se oli nyt oikaistu. Hei! Heipparallaa,
-Puhuja 0: ens viikolla nähdään.
-Puhuja 0: Kuullaan moi!
+Puhuja 0: tietenkin. Mä olisin ollut täällä, mutta mä olisin kertonut sulle. Mäkin tiesin tuon, mutta mä jotenkin
+Puhuja 0: kuuntelin liikaa omia juttuja. Mutta se oli nyt oikaistu. Hei!
+Puhuja 0: Heipparallaa
+Puhuja 0: ens viikolla nähdään, kuullaan moi!
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

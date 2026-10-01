@@ -53,6 +53,10 @@ jobs:
         # vastaa, ajo odottaa koko aikarajan). Siksi: aikaraja per komento, ensin
         # asennus ilman hidasta update-vaihetta, ja kolme yritystä.
         timeout-minutes: 12
+        # Ei kaada ajoa: korjausten soveltaminen ja julkaisu eivät tarvitse ffmpegiä
+        # (1.10.2026 pakettipalvelin ei vastannut lainkaan). Jos uusi jakso löytyy eikä
+        # ffmpegiä ole, vaihe 2 epäonnistuu ja siitä tulee hälytys.
+        continue-on-error: true
         run: |
           APT="sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=20 -o Acquire::https::Timeout=20"
           for yritys in 1 2 3; do
@@ -73,7 +77,11 @@ jobs:
         env:
           DEEPGRAM_API_KEY: ${{ secrets.DEEPGRAM_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/uutisraportti_automaatio_deepgram_claude.py
+        run: |
+          if ! command -v ffmpeg >/dev/null; then
+            echo "⚠️ ffmpeg puuttuu (asennus epäonnistui) — uusia jaksoja ei voi leikata, jos niitä on."
+          fi
+          python scripts/uutisraportti_automaatio_deepgram_claude.py
         
       - name: 3. Etsi epäilyttävät suosittelijanimet validointia varten
         run: python scripts/generoi_validointidata.py

@@ -1,242 +1,474 @@
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uuteenraportti-podcastiin
-Puhuja 0: torstaina, ei, vaan perjantaina.
-Puhuja 0: Kolmetoista.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Helsingin
+Puhuja 1: Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Utihapartti-podcastiin
+Puhuja 0: torstaina.
+Puhuja 0: Ei, vaan
+Puhuja 0: perjantaina kolmetoista.
 Puhuja 0: Päivä
-Puhuja 0: toukokuuta vuonna kaksituhatta kaksikymmentäkaksi
-Puhuja 0: päivä historiallisen päivän jälkeen.
+Puhuja 0: toukokuuta
+Puhuja 0: vuonna kaksituhatta
+Puhuja 0: kaksikymmentäkaksi päivä historiallisen päivän jälkeen.
 Puhuja 0: Mun nimi on Tuomas Peltomäki. Täällä Helsingin Sanomien
-Puhuja 0: Perkast-studiossa
-Puhuja 0: Helsingissä Suomessa
-Puhuja 0: Ovat!
+Puhuja 0: Pökscast
+Puhuja 0: studiossa Helsingissä
+Puhuja 0: Suomessa
+Puhuja 0: MAKEÄKIÄ
+Puhuja 0: ovat
 Puhuja 0: Helsingin Sanomien taloustoimittaja Almanal. Hei Alma. Moikku.
-Puhuja 0: Politiikan toimittaja
+Puhuja 0: Ja politiikan toimittaja
 Puhuja 0: ja myös
-Puhuja 0: armoitettu
-Puhuja 0: tutkiva toimittaja
-Puhuja 0: Arki Unkkari.
-Puhuja 0: Hei Marko. Mulla on tänään syntymäpäivä.
-Puhuja 1: Oi!
-Puhuja 1: Saadaanko me laulaa sulle? Että.
-Puhuja 0: Paljon onnea vaan, paljon onnea vaan, paljon onnea vaan, paljon onnea vaan, paljon onnea vaan, paljon onnea vaan, paljon onnea vaan, paljon onnea vaan, paljon onnea vaan, paljon onnea vaan.
-Puhuja 0: Paljon onnea vaan. Jee.
-Puhuja 0: Kiitos.
-Puhuja 0: Kuinka paljon sä täytyt? En kerro.
-Puhuja 0: Ei.
-Puhuja 1: Varmaan löytyy Wikipediasta.
-Puhuja 0: Niin varmaan.
-Puhuja 0: Täytyy luntata sieltä.
+Puhuja 0: arvoitettu
+Puhuja 0: tutkiva toimittaja Marki Junttila. Hei, Marko. Mulla on tänään syntymäpäivä.
+Puhuja 2: Oi, saadaanko
+Puhuja 1: me laulaa sulle? Että.
+Puhuja 0: Paljon onnea
+Puhuja 0: vaan,
+Puhuja 0: vaan. Paljon onnea vaan. Paljon onnea vaan. Jee. Kiitos.
+Puhuja 0: Kuinka paljon sitä nyt? En kerro.
+Puhuja 2: Ei.
+Puhuja 0: Varmaan löytyy Wikipediasta. Niin varmaan. Täytyy luntata sieltä.
 Puhuja 1: Kiva, jos se juhlistaa jotenkin.
-Puhuja 2: Mä oon tosiaan Wikipediassa. Siellä on jostain syystä, sanotaan, että olen Helsingin Sanomien pääkirjoituksissa.
-Puhuja 2: Sä
-Puhuja 0: et oo updeita näissä.
-Puhuja 1: Voiko se korjata jotenkin sinne? Nyt joku kuuntelija, joka antaa aktivmisti, niin voitteko käydä apteikkaa?
-Puhuja 1: Jos joku haluaa tehdä musta Wikipedia-artikkelin,
-Puhuja 1: niin koet.
-Puhuja 0: Tämän viikon podcastissa
-Puhuja 0: keskustellaan
-Puhuja 0: yhdestä aiheesta, joka on Nato, ja toisesta aiheesta, joka on Nato, ja kolmannesta aiheesta, joka on Nato.
-Puhuja 0: Toki nämä on Suomi ja Nato-keskeisiä aiheita,
-Puhuja 0: mutta ei keskustella muista asioista, koska nyt on ollut todella hektinen.
-Puhuja 0: Meillä on fiilis, hyvä vai huono.
-Puhuja 0: Naton
-Puhuja 0: suhteen. Kaiken, miltä tuntuu olla olemassa
+Puhuja 2: Mä
+Puhuja 2: oon tosiaan Wikipediassa. Siellä on jostain syystä, sanotaan, että mä oon töissä Helsingin Sanomien toimitus
+Puhuja 2: toimituksessa.
+Puhuja 0: Sä et oo updeja
+Puhuja 1: Jos joku haluaa tehdä musta Wikipedian-artikkelin,
+Puhuja 1: niin Cohen.
+Puhuja 0: Tämän viikon podcastissa keskustellaan
+Puhuja 0: yhdestä aiheesta, joka on Nato, toisesta aiheesta, joka on Nato, ja kolmannesta aiheesta, joka on Nato, ja kolmannesta aiheesta, joka on Nato.
+Puhuja 0: Toki nämä on Suomi ja Nato-keskeisiä
+Puhuja 0: aiheita, mutta ei keskustella muista asioista, koska nyt on ollut
+Puhuja 0: todella, todella hektinen
+Puhuja 0: uutisviikko. Se vetää toimittajalla
+Puhuja 0: aivot
+Puhuja 0: semmoisiksi kuin ihme muusiksi,
+Puhuja 0: joten puhutaan siitä,
+Puhuja 0: minkä verran
+Puhuja 0: kyetään.
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 0: pitkien epämukavien
+Puhuja 0: hiljaisuuksien
+Puhuja 0: varalle.
+Puhuja 2: On
+Puhuja 0: niin hassua ajatella, että jotkut hetket,
+Puhuja 0: jotka minun lapsuudessa
+Puhuja 0: tapahtui ja joista ajatellaan, että ne on aivan
+Puhuja 0: historiallisia hetkiä, niin kuin
+Puhuja 0: Suomen
+Puhuja 0: EU-jäsenyys,
+Puhuja 0: ensimmäinen
+Puhuja 0: naispresidentti,
+Puhuja 0: se, että jonkun aikaa kaikki maailmassa käyttivät suomalaista puhelinta ja rakastivat sitä,
+Puhuja 0: kaikki ne litistyvät
+Puhuja 0: pieniksi
+Puhuja 0: asioiksi
+Puhuja 0: sen pyörän alle, jonka Marin ja Niinistö laski liikkeelle torstaina satakaksikymmentäyksi.
+Puhuja 0: Kun he ilmoittivat
+Puhuja 0: täysin historiallisesti, että Suomen tulee hakea
+Puhuja 0: Natoon mahdollisimman
+Puhuja 0: nopeaa.
+Puhuja 0: Teko
+Puhuja 0: muistuttaa
+Puhuja 0: sitä, kun lopulta
+Puhuja 0: vuosien jälkeen
+Puhuja 0: itsehillintä
+Puhuja 0: pettää ja antautuu halujensa vietäväksi.
+Puhuja 0: Kun synnin työ on aloitettu,
+Puhuja 0: sen huomaa, että se tuntuu niin oikealta.
+Puhuja 0: Naapurin Irma, miten sovit minuun,
+Puhuja 0: miten hyvältä tunnet
+Puhuja 0: rakastan sinua.
+Puhuja 1: Okei.
+Puhuja 0: Onko muille sama finnilisä?
+Puhuja 1: Mä just mietin äsken silleen, kun kuuntelin
+Puhuja 1: sua ja ajattelin, että kun sä oot ollut niin täpinöissä tästä Nato-asiasta ja se on oikeasti ollut sydämen asia koko kevään ajan. Nyt kun se tapahtuu,
+Puhuja 1: niin onko vähän lähtenyt
+Puhuja 1: pohja
+Puhuja 1: kaiken
+Puhuja 1: sen sinun, pohja sun elämän alta, kun tavallaan nyt se on selvää. Sun ei tarvinnut kampanjoida
+Puhuja 0: sen puolesta.
+Puhuja 1: Nyt sitten jotenkin lähdetään sellaiselle
+Puhuja 1: oudon laakson raiteelle. Niin, nyt tavallaan
+Puhuja 0: se pahin into on pois
+Puhuja 0: siitä.
+Puhuja 1: Onko sulla vähän, sä suomalaiset tulee ja rakentaa mökkejä jokaiseen niemennokkaan ja rantapaikkaan
+Puhuja 1: ja sitten ne tulee vaan sinne kesäisin ja muuten ne pienet kunnat siellä näivettyy ja lapset katoaa, päiväkodit autioituu.
+Puhuja 1: He haluavat, että ihmiset
+Puhuja 1: sitoutuu asumaan Ahvenanmaalla,
+Puhuja 1: mutta koska totuus on myös se, että ihmisiä muuttaa pois
+Puhuja 1: pienistä saarikunnista ja näin, ja sinne haluttaisiin houkutella niitä ihmisiä vaikka silleen, että tänne tekee osa-aikatöitä tai etätöitä tai muuta, niin siellä on
+Puhuja 1: kaikenlaisia
+Puhuja 1: säätöbiseksiä,
+Puhuja 1: mitä tehdään, että ihmiset voisivat asua siellä. Mutta, kun minulla on kuitenkin
+Puhuja 1: tällainen suhde
+Puhuja 1: Ahvenanmaahan,
+Puhuja 1: niin mä jotenkin olen vähän yllättynyt siitä, miten suureksi
+Puhuja 1: demilitarisoinnin
+Puhuja 1: rooli siinä ahvenanmaalaisuuden
+Puhuja 1: ytimessä on noussut.
+Puhuja 1: Aikaisemmin, jos on puhuttu, että mikä on joku Ahvenanmaan identiteetti, niin ehkä se demilitarisointi
+Puhuja 1: ei ole mun mielestä ollut ensimmäinen asia, millä Ahvenanalaiset on itseään kuvailleet. Nyt yhtäkkiä se on rauhansaari.
+Puhuja 1: Ensinnäkin en ole ikinä kuullut aikuisen. Missä tätä keskustelua on käynyt?
+Puhuja 1: Julkisessa keskustelussa. Täällä meiltäkin kuule
+Puhuja 1: HS- Turun toimittajat on käyneet Ahvenanmaalla kyselemässä, että mitä mieltä te olette tästä koko hommasta. Tänään Linda Laine kirjoitti aivan erinomaisen jutun maanantaista tästä. Tosi
+Puhuja 1: hyvä. Ja mä oon kuunnellut ruotsalaisia podcasteja aiheesta, että nekin on käynyt Ollandilla
+Puhuja 1: kyselemässä
+Puhuja 1: mielipiteitä
+Puhuja 1: ja puhutaan sielläkin puhetta, että
+Puhuja 1: oliko se yöeto, free tai muuta. Mä vastasin, että mä en ole ikinä kuullut, että Ahvenanmaata kutsuttaisiin rauhansaariksi. Mä en ole ikinä kuullut mun isä vainaaan laulavaa mitään muuta biisiä kuin Oolannin ja sataa.
+Puhuja 1: Mä ajattelin, että Ahvenanmaan maakuntalaulua,
+Puhuja 1: joka on todella kaunis ja ihana kappale, mutta itse asiassa... Se Oolannin sataa oli kauhii ja hurraa, hurraa. No niin, palataanko se. Mikä sun toinen pointti oli?
+Puhuja 1: Mun toinen pointti on se, kun
+Puhuja 1: aina puhutaan siitä, että vitsi, kun Suomi on tällainen EU:n mallioppilas
+Puhuja 1: ja
+Puhuja 1: sen takia Suomi tekee
+Puhuja 1: aina vielä pikkasen enemmän kuin mitä EU:n kaikki direktiivit vaatii ja sen takia elämä täällä Suomessa on niin vaikeata, koska Suomi on EU-mallioppilas.
+Puhuja 1: Tavallaan mietin nyt
+Puhuja 1: sitä, että voisiko välttyä siltä, että Suomesta tulisi tällainen Naton
+Puhuja 1: mallioppilas,
+Puhuja 1: koska
+Puhuja 1: tietyissä diskursseissa on käynyt ilmi se, että esimerkiksi Virosta
+Puhuja 1: tai Tanskasta
+Puhuja 1: on puhuttu vähän tähän malliin, koska ne on halunneet olla Naton mallioppilaita,
+Puhuja 1: niin Viro esimerkiksi lähti sen takia mukaan Irakin sotaan tai Tanska on
+Puhuja 1: lähettänyt sotilaita Afganistaniin,
+Puhuja 1: koska oleva ovat halunneet olla Naton mallioppilaita.
+Puhuja 1: Kuuntelin tänään Dagens Nyheterin sellaisen podcastin, missä toimittaja puhui Tanskan
+Puhuja 1: asemasta
+Puhuja 1: Natossa.
+Puhuja 1: Hän siinä toi myös esille sen, että hän on siis haastatellut entisiä
+Puhuja 1: Nato-sotilaita
+Puhuja 1: Tanskassa,
+Puhuja 1: ja sitä, että millaista se niiden elämä on.
+Puhuja 1: Aina, kun puhutaan isoista
+Puhuja 1: prosesseista ja muusta, niin tietysti vähän häipyy taustalle ensinnäkin a) mitä Ukrainassa de facto tällä hetkellä tapahtuu, mutta myös b), mikä on, kun puhutaan sotilasliitosta,
+Puhuja 1: sotimisesta kaikesta, että mikä on se sotilaan arki,
+Puhuja 1: niin
+Puhuja 1: siinä kävi ilmi, että Tanskassakin on useita, siis Nato-sotilaita,
+Puhuja 1: jotka ovat joko tehneet itsemurhan sen jälkeen, kun he ovat palanneet
+Puhuja 1: jostain Afganistanista tai muusta tällaisesta sotilaspalveluksesta.
+Puhuja 1: Tai sitten
+Puhuja 1: ihan sellainen suht yleinen ilmiö on myös
+Puhuja 1: metsän muuttaminen,
+Puhuja 1: että nämä ihmiset vaan painuu metsään, kun ne ei vaan halua enää oikein. Ne ei oikein sopeudu tavallaan takaisin siihen
+Puhuja 0: yhteiskuntaan. Niin sanottu, Hyvinkään ilmiö.
+Puhuja 1: Niin, kun mietin vaan
+Puhuja 1: näiden
+Puhuja 1: ihmisten kohtaloa ja sitä, niin mietin, että voiko Suomi välttää sellaisen Naton mallioppilasephtin,
+Puhuja 1: jossa Suomi tavallaan todistaakseen sen, että se on aina kovin
+Puhuja 1: kiihkeimpiä uskovaisia. Niin, että tavallaan todistaakseen sen, että me kuulutaan tähän porukkaan
+Puhuja 1: ja me ansaitaan paikka, niin sitten
+Puhuja 1: lähdetään mukaan sellaiseenkin, mihin ei tarvitsisi edes lähteä.
+Puhuja 0: Palolle käy just päin vastaan.
+Puhuja 2: Kyllä. Kiinnostavaa on minusta se, että
+Puhuja 2: tässä jo pitkään aikaan somessa on aikoinaan tämä lautaskiista.
+Puhuja 2: Kun edustaa elossa, presidentti vai pääministeri.
+Puhuja 2: Se rauhottuu, pääministeri voitti ja pääministeri edustaa. Mutta nyt se alkaa uudestaan. Niin onkin. Kuka edustaa NATOS? Niin, sitä on sanonut kategorisesti, että se on hän. Kyllä minusta Ani Lindikin on piipittely, että hänkin haluaisi. Niin. Tästä tulee siistiä, että mikään ei ole hauskaa kuin lautaskiistaa.
+Puhuja 2: Nyt mennään eteenpäin.
+Puhuja 0: Mennään.
+Puhuja 0: Lyhyesti viimeiseksi haluaisin keskustella
+Puhuja 0: tästä
+Puhuja 0: Prosessit eteenpäin on eduskuntaprosessi
+Puhuja 0: ja sitten tämä harmaa-aika, joka nyt siis on virallisesti
+Puhuja 2: alkanut. Eikö se olla sitä hakemuksen löytämisestä?
+Puhuja 0: Luulen, että tämä riittää Venäjälle. En ole varma.
+Puhuja 0: Katselin uutisia eilen historiallisena päivänä. Siinä oli
+Puhuja 0: haastateltu venäläisiä, mitä tästä. Dimitri Peskuv,
+Puhuja 0: Venäjän aivan liian
+Puhuja 0: kivan miehen näköinen
+Puhuja 0: tiedottaja,
+Puhuja 0: niin hymyilee aina. Sillä on luppaisat zetävikset.
+Puhuja 0: Hän kuulostaa
+Puhuja 0: aika usein siltä, että hänet on herätettyä ja oli kivat nokoista meneillään, ja sitten hän juttelee siinä.
+Puhuja 0: Sitten hän...
+Puhuja 0: Oli tosi huojentavaa, että Venäjän viesti minun mielestä oli, että Venäjän on pakko toimia
+Puhuja 0: vastaavan laajuisesti,
+Puhuja 0: mikä tarkoittaa, että Venäjä eroaa
+Puhuja 0: farsoa
+Puhuja 0: liiikasta ja liittyä siihen takaisin tai jotain.
+Puhuja 0: Mun mielestä siellä sanottiin, että Venäjä on pakko toimia.
+Puhuja 0: Mun mielestä on jotenkin positiivinen viesti, että
+Puhuja 0: he tekevät sen, mitä tavallaan heidän
+Puhuja 0: kunnia
+Puhuja 0: ja
+Puhuja 0: tämmöinen incind, mä en osaa, jos puhu sitä suomeksi,
+Puhuja 0: vastavuoroisuusperiaate
+Puhuja 0: varmaan,
+Puhuja 0: niin mitä se edellyttää, mutta etteivät tee enempää.
+Puhuja 0: Siltä se mielestäni kuulostaa se
+Puhuja 0: Venäjän ratkaisu.
+Puhuja 0: Sitten haastateltiin suomalaisia asiantuntijoita,
+Puhuja 0: suomalaisia skapareita ja muita, että mitä tämä voi tarkoittaa.
+Puhuja 0: Se ei eilen tullut uutisena, vaan sitä on puhuttu pitkin
+Puhuja 0: että mikä se Venäjän vastareaktio Suomen Nato liittymiseen on.
+Puhuja 0: Se on jotain tosi pelleilyä,
+Puhuja 0: että jotkut pankit ajelevat jossain Suomen rajan
+Puhuja 0: Venäjän puolella. Ja siitä tuli vähän semmoinen, että tätäkö sitä nyt on pelattu
+Puhuja 0: viimeiset
+Puhuja 0: kahdeksankymmentä vuotta, että ne pärtsääillaan
+Puhuja 0: tankeilla omilla teillään.
+Puhuja 0: Ei se nyt niin hirveän pelottavalta kuulosta.
+Puhuja 0: Vai olenko mä nyt ihan, että tässä ollaan takki auki?
+Puhuja 0: Nata,
+Puhuja 0: tuentie odotellessa.
+Puhuja 0: Ainakaan nyt vielä ei se niin pelottavalta kuulosta.
+Puhuja 0: Mitä te olette mieltä?
+Puhuja 1: Niin, en mä osaa sanoa.
+Puhuja 1: Ei kuulosta kovin pelottavalta nämä Venäjän
+Puhuja 1: vaikutusyritykset.
+Puhuja 0: Me laitetaan viisisataa
+Puhuja 0: uutta miestä.
+Puhuja 2: Ladi Doschkodyyn. Minusta on ihan täysin mahdoton sanoa ei sitä. Kai se toive ja oletus on, ettei siitä pitäisi kauhean tulla. Me annetaan teidän nettielotaan.
+Puhuja 0: Mistäs sen tietää?
+Puhuja 1: En tiedä.
+Puhuja 1: Minun mielestä se
+Puhuja 1: koko
+Puhuja 1: tavallaan ratkaisevaa ei ole niinkään se, mitä Venäjä tekee, vaan ratkaisevaa on se, että miten suomalaiset suhtautuu siihen.
+Puhuja 1: Eli kyse on siitä, että ei ole kyse siitä, kuinka
+Puhuja 1: pelottavaa
+Puhuja 1: itsessään joku muutama tankki pörräämässä jossakin tuolla
+Puhuja 1: Laatokan ympärillä on, vaan enemmänkin on kyse siitä, mitä suomalaiset siitä ajattelee.
+Puhuja 0: Mun mielestä tässä on monia
+Puhuja 0: vanhoja illuusioita kuopattu tämän prosessin aikana. Yksi se on Venäjän absoluuttinen mahti maailmassa.
+Puhuja 0: Ei se vaikuta ehkä ihan yhtä niin pelottavalta kuin se on aiemmin vaikuttanut.
+Puhuja 0: Okei, onko me sanottu kaikki, mitä on mahdollista sanoa Natosta? Ollaan.
+Puhuja 0: Mikä teillä on fiilis, hyvä vai huono?
+Puhuja 0: Naton suhteen. Kaiken, miltä tuntuu olla olemassa
 Puhuja 0: Suomessa ja Euroopassa
 Puhuja 0: ja kohta Natossa?
-Puhuja 1: Erikoisalta, mutta tiedätkö, se on jännä, että vaikka Nato ei ole millään tavalla meidän kenenkään päätös, vaan se on kollektiivinen päätös, että Nato on kaikkien päätös. Meidän kaikkien päätös. Mutta tiedättekö vähän
-Puhuja 1: kaikissa tilanteissa, joissa pitää tehdä joku isompi päätös, niin
-Puhuja 1: se sellainen tietty
+Puhuja 1: Erikoiselta. Se
+Puhuja 1: on jännä, että vaikka Nato ei ole millään tavalla meidän kenenkään päätös, vaan se on kollektiivinen päätös, että Nato on meidän päätös. Mutta tiedättekö vähän
+Puhuja 1: kaikissa tilanteissa, joissa
+Puhuja 1: pitää tehdä joku isompi päätös,
+Puhuja 1: niin se sellainen tietty...
 Puhuja 1: Mun mielestä on aina helpompi elämässä toimia, jos sulla on jonkinlaiset raamit, joiden sisällä toimit.
-Puhuja 1: Eli, kun mietit vaikka, että
+Puhuja 1: Kun mietit vaikka, että
 Puhuja 1: jotakin suurta muutosta elämässä,
-Puhuja 1: ostanko asunnonko asunnonko asunnon vai en. Ostanko
-Puhuja 1: puolisostani vai enkö eroa, ja sitten se on sitä sellaista hähmää. Sen jälkeen, kun se päätös on tehty, niin sinä tiedät,
-Puhuja 1: että se päätös asettaa ne raamit, jonka
-Puhuja 1: sisällä sinä toimit. Minun mielestä tämä tilanne myös, että nyt se, kun se päätös on tehty, että Suomi hakee Natoon, niin se rajaa
-Puhuja 1: tietyllä tavalla sitä
+Puhuja 1: ostanko asunnonko asunnon vai en. Ostanko asunnon, eron, onko puolisostani vai enkö eroa ja sitten se on sitä sellaista hähmää. Sen jälkeen, kun se päätös on tehty, niin tiedät, että se päätös asettaa ne raamit, jonka sisällä sinä toimit. Minun mielestä tämä tilanne myös, että nyt se, kun se päätös on tehty, että Suomi hakee Natoon, niin se rajaa
+Puhuja 1: tietyllä tavalla
+Puhuja 1: sitä
 Puhuja 1: sellaista mahdollisuushorisonttia,
 Puhuja 1: mikä
 Puhuja 1: psykologisesti
-Puhuja 1: varmasti antaa sellaisen tietynlaisen
-Puhuja 1: rauhan ja helpotuksen,
-Puhuja 1: vaikka ei olisi edes jotenkin silleen, että Jör-Koozu
-Puhuja 1: on borde Nato-treene
-Puhuja 1: ihan täysillä, tiedättekö,
-Puhuja 1: ja lappamassa hiiltä sinne Nato-alue. Kyllä.
-Puhuja 1: Tulee sellainen tietty selkeys, että okei, nyt mulla on raamit, joiden sisällä tiedän, kuinka toimin.
-Puhuja 0: Miten
-Puhuja 0: viisaasti, kauniisti ja hyvin sanottu kiitos, Alma.
-Puhuja 0: Sitten, kun menette
+Puhuja 1: varmasti antaa sellaisen rauhan
+Puhuja 1: ja helpotuksen,
+Puhuja 1: vaikka ei olisi edes jotenkin silleen, että Jör, zu on borde Nato trainsille ihan täysillä
+Puhuja 1: ja lappaamassa hiiltä sinne National. Nalleminen selkeys.
+Puhuja 1: Tulee tietty selkeys, että okei, nyt mulla on raamit, joiden sisällä tiedän, kuinka toimin.
+Puhuja 0: Miten viisaasti, kauniisti ja hyvin sanottu? Kiitos, Alma.
+Puhuja 0: Sitten,
+Puhuja 0: kun
+Puhuja 0: menette
 Puhuja 0: nauttimaan
 Puhuja 0: tästä
 Puhuja 0: ihanan kesäisestä
 Puhuja 0: ilmasta,
 Puhuja 0: menette ensimmäisille
-Puhuja 0: puistobisseille.
+Puhuja 0: puistobisseelle.
 Puhuja 0: Ei olla kaukana siitä.
-Puhuja 0: Sitten siellä muille,
-Puhuja 0: osittain katujen miehille,
-Puhuja 0: osittain teineille ja osittain ehkä ystäville ja kollegoille
-Puhuja 0: viihdytte
-Puhuja 0: heitä jutuillanne.
-Puhuja 0: Mitä
-Puhuja 0: juttuja heille haluatte?
+Puhuja 0: Ja sitten siellä
+Puhuja 0: muille, osittain katujen miehille ja osittain teineille
+Puhuja 0: ja
+Puhuja 0: osittain ehkä ystäville ja kollegoille,
+Puhuja 0: vihdetätte heitä
+Puhuja 0: jutuillanne,
+Puhuja 0: niin
+Puhuja 0: mitä
+Puhuja 0: juttuja hehkerätte?
 Puhuja 1: Mä voin aloittaa.
-Puhuja 1: Tämä on sellainen podcast, jota voisin veikata, että Tuomas tällaisena
-Puhuja 1: podcast-guruna
-Puhuja 1: on ehkä jopa joskus suositellut tässä podcast, mutta en voi tietää, koska tämä on podcast, joka on alkanut jo tyyliin vuonna kaksituhatta kahdeksantoista.
-Puhuja 1: Tätä on tehty jo pidemmän
-Puhuja 1: aikaa, mutta se jatkuu yhä. Tässä tulee aika harvakseltaan näitä jaksoja, tyyliin kerran kuussa.
-Puhuja 1: Tämän nimi on tällainen kuin decodeer
-Puhuja 1: ring.
-Puhuja 1: Sanooko mitään? Ei sano. Tämä on aivan erinomainen, tämä
-Puhuja 1: ajatus tässä podcastissa. Tässä on nyt, että jokaisessa
-Puhuja 1: jaksossa otetaan joku yksi tällainen kulttuurinen
-Puhuja 1: ilmiö,
-Puhuja 1: jota sitten puretaan, että miten tämä ilmiö on syntynyt, mitä kaikkia asioita tähän liittyy ja miten se on jotenkin tullut tähän pisteeseen, että tänä päivänä se tarkoittaa tätä tai miten on mahdollista, että tällainen ilmiö on olemassa? Aika
-Puhuja 1: filosofista, mutta tosi selkeästi esitettyä
-Puhuja 1: ja hauskaa. Suosittelen aloittamaan
-Puhuja 1: tällainen jakso, minkä en ole todellakaan kuunnellut kaikkia tällainen kuin The Karen.
-Puhuja 1: Siis Karen-termi,
-Puhuja 1: jolla viitataan valkoiseen
+Puhuja 1: Tämä on sellainen podcast, jota voisin veikata, että Tuomas, tällaisena podcast Guruna on ehkä joskus joskus suositellut tässä podcast, mutta en voi tietää, koska tämä on podcast, joka on alkanut jo tyyliin vuonna kaksituhatta kahdeksantoista tai jotain.
+Puhuja 1: Tätä on tehty jo pidemmän aikaa,
+Puhuja 1: mutta se jatkuu yhä. Tässä tulee aika harvakseltaan näitä jaksoja, tyyliin kerran kuussa.
+Puhuja 1: Tämän nimi on tällainen kuin decodeuring.
+Puhuja 1: Sanoko mitään? Ei sano.
+Puhuja 1: Tämä on aivan erinomainen
+Puhuja 1: tämä ajatus tässä podcastissa. Tässä on nyt, että jokaisessa
+Puhuja 1: jaksossa otetaan joku yksi tällainen kulttuurinen ilmiö,
+Puhuja 1: jota sitten puretaan, että miten tämä ilmiö on syntynyt, mitä kaikkia asioita tähän liittyy
+Puhuja 1: ja miten se on jotenkin tullut tähän pisteeseen, että tänä päivänä se tarkoittaa tätä tai miten on mahdollista, että tällainen ilmiö on olemassa?
+Puhuja 1: Aika sellaista filosofista, mutta tosi selkeästi esitettyä
+Puhuja 1: ja hauskaa. Suosittelen aloittamaan muun muassa tällainen jakso, jonka kuuntelin, en ole todellakaan kuunnellut kaikkia tällainen, kuin The careen.
+Puhuja 1: Siis Karen termi, jolla viitataan valkoiseen
 Puhuja 1: naiseen, joka on ehkä rasistinen ja on
-Puhuja 1: I want to speak to the manager tyyppinen tyyppi,
-Puhuja 1: niin tässä the Karen-jaksossa
-Puhuja 1: käydään läpi,
-Puhuja 1: että mistä tämä
+Puhuja 1: I want to speak to the manager tyyppinen
+Puhuja 1: tyyppi, niin tässä the Karen-jaksossa
+Puhuja 1: käydään
+Puhuja 1: läpi, että mistä tämä
 Puhuja 1: kulttuurinen ilmiö
 Puhuja 1: on noussut esiin, että on alettu kutsumaan tietyntyyppisiä
-Puhuja 1: ihmisiä Kareneiksi.
+Puhuja 1: ihmisiä care-eiksi.
 Puhuja 1: Se on ihan sairaan hyvä jakso. Toinen
-Puhuja 1: aika hyvä jakso oli mun mielestä tällainen trully taastles
+Puhuja 1: aika hyvä jakso oli mun mielestä tällainen true-taasteles
 Puhuja 1: joks.
-Puhuja 1: Eli 1980-luvulla ja 90-luvulla
+Puhuja 1: 1980-luvulla ja 90-luvulla
 Puhuja 1: Yhdysvalloissa
-Puhuja 1: ihan bestselereiden
+Puhuja 1: ihan bestsellereiden
 Puhuja 1: joukkoon nousi tällaiset vitsikirjat, joissa on sellaisia vitsejä, jotka tänä päivänä
-Puhuja 1: niiden julkaisu varmaan pyrittäisiin estämään.
-Puhuja 1: Suomessahan on ollut kanssa näitä, muistatte ottaa 80-luvun vitsejä, mutta
-Puhuja 1: ei koululaisvitsesejä, vaan
-Puhuja 1: vaan
-Puhuja 1: todella härskejä,
+Puhuja 1: niiden julkaisu varmaan pyrittäisiin estämään. Suomessahan on ollut kanssa näitä, muistatte jotain 80-luvun vitsejä, mutta ei
+Puhuja 1: koululaisvitsesejä, vaan todella
+Puhuja 1: härskejä,
 Puhuja 1: rasistisia, seksistisiä
 Puhuja 1: kamalia.
-Puhuja 1: Siis tällaisia
-Puhuja 1: ded baby joks. Ihania vitsejä.
-Puhuja 1: Tässä
-Puhuja 1: jaksossa
+Puhuja 1: Siis
+Puhuja 1: tällaisia Dead baby Jobs, ihania vitsejä.
+Puhuja 1: Tässä jaksossa
 Puhuja 1: toimittaja haastattelee
 Puhuja 1: sitä ihmistä, joka silloin kasarilla
-Puhuja 1: kokosi näitä vitsejä, rupesi tekemään näitä vitsikirjoja.
-Puhuja 1: Sellainen nainen, joka teki omaisuuden myös niiden kirjojen avulla ja käy läpi sitä, miten huumori on muuttunut ja miksi se oli silloin sallittua, miksi se tänä päivänä tuntuu
-Puhuja 1: vähän pahalta ja mitä kaikkea tähän liittyy. Se oli tosi kiinnostava.
+Puhuja 1: kokosi näitä vitsejä ja rupesi tekemään näitä vitsikirjoja,
+Puhuja 1: sellainen nainen, joka teki omaisuuden myös niiden kirjojen avulla ja käy läpi sitä, miten
+Puhuja 1: huumori on muuttunut ja miksi se oli silloin sallittua, miksi se tänä päivänä tuntuu
+Puhuja 1: pahalta
+Puhuja 1: ja mitä kaikkea tähän liittyy. Se oli tosi kiinnostava.
 Puhuja 1: Tällä hetkellä kuuntelen jaksoa, jossa kerrotaan, jonka nimi on The Madness Beehind The Method.
-Puhuja 1: Puhutaan siis
-Puhuja 1: metodinäyttelemisestä. Kiitos. Stanis Lovkista
-Puhuja 1: ja kaikesta muusta. On tosi kiinnostavaa, miten metodinäyttelemisenkin
-Puhuja 1: käsite
-Puhuja 1: ja määritelmä on muuttunut
-Puhuja 1: ja millaisia vaikutuksia sillä on ollut ihan konttori. Toivottavasti kiinnostavaa. Hyvää Alma on tänään aivan liekeissä.
-Puhuja 0: Marko.
-Puhuja 0: Sano vielä sen podin nimi. Decodeoring.
-Puhuja 0: Lopputalo maalataan tuon
-Puhuja 2: voimin. Oon tosiaan tehnyt nyt Nato-juttua koko viikon. Mä en tehnyt mitään muuta, mutta voisin mainostaa. Mä menen suunnata katsomaan mustan laatikon
-Puhuja 2: tämänkertaisen
-Puhuja 2: kauden viimeisen esityksen.
-Puhuja 2: Käsittääkseni se esitys mitä me katsomme katsomaan niin se myös näytetään hs. Fi:ssä suorana.
-Puhuja 2: Musta laatikko on todella makee konsepti. Täällä oli Helsingissä ympäri
-Puhuja 2: maailmaa
+Puhuja 1: Tällä metodilla puhutaan siis metoditäyttelemisestä,
+Puhuja 1: Stanis-lawskista
+Puhuja 1: ja kaikesta muusta. Se on tosi kiinnostava,
+Puhuja 1: miten metodinäyttelemisenkin
+Puhuja 1: käsite ja määritelmä on muuttunut
+Puhuja 1: ja millaisia vaikutuksia sillä on ollut ihan kotikista. Hyvä
+Puhuja 0: Alma on tänään aivan liekeissä. Sano
+Puhuja 0: vielä sen podin nimi. Dikodeer
+Puhuja 1: ring.
+Puhuja 0: Lopputalo maalataan tuon voimin.
+Puhuja 2: Oon tehnyt pelkkää Nato-juttu koko viikon. Mä en nyt tehnyt mitään muuta, mutta menen
+Puhuja 2: suunnata katsomaan mustan laatikon,
+Puhuja 2: Tämänkertaisen
+Puhuja 2: kauden viimeisen esityksen. Käsittääkseni
+Puhuja 2: se esitys mitä menen katsomaan, niin se myös näytetään hs. Fi:ssä suorana.
+Puhuja 2: Musta laatikko on todella makee konsepti. Helsingissä
+Puhuja 2: oli Helsingissä eilen
 Puhuja 2: livejournalismin
-Puhuja 2: tekijöitä. Kaikkialla
-Puhuja 2: maailmassa tehdään huikeita
-Puhuja 2: journalistisuoritus
-Puhuja 2: suorituksia teatterilavalla
-Puhuja 1: mikä on hämmentävää. Olen nähnyt tämän uusimman mustan laatikon. Voin hyvin lämpimästi suositella. Se on
-Puhuja 1: todella hienoa, koska se on
-Puhuja 2: upea. Oletko nähnyt tämän uusinta viimeisin? Ei ole uusinta.
-Puhuja 0: Olen nähnyt niitä monia. Ne on
+Puhuja 2: tekijöitä.
+Puhuja 2: Kaikkialla maailmassa tehdään huikeita
+Puhuja 2: journalist suorituksia
+Puhuja 2: teatterilavalla,
+Puhuja 2: mikä on hämmentävää.
+Puhuja 1: Joo, olen nähnyt tämän uusimman mustan laatikon. Voin hyvin lämpimästi suositella. Se on todella hienoja ja koskkus. Se on upea. Se on todella hyvä. Oletko nähnyt tämän uusimman, viimeisin? En ole uusinta.
+Puhuja 0: Olen nähnyt niitä monia ja ne on aivan
 Puhuja 0: todella mahtavia.
 Puhuja 0: Okei, musta laatikko.
 Puhuja 0: Mulla on kaksi suositusta.
-Puhuja 0: Tai oikeastaan yksi suositus ja yksi kysymys.
+Puhuja 0: Oikeastaan yksi suositus ja yksi kysymys.
 Puhuja 0: Minun kotikaupunkini
 Puhuja 0: Hyvinkää
-Puhuja 0: järjestää
-Puhuja 0: itsensä
-Puhuja 0: Suomen suurimman
-Puhuja 0: festivaalin
-Puhuja 0: nimeltä rockfest.
+Puhuja 0: järjestää kesällä itse asiassa Suomen suurimman festivaalin
+Puhuja 0: nimeltä rockfesti.
 Puhuja 0: Tänä vuonna
 Puhuja 0: aion ensimmäistä kertaa, kun olen ollut Hyvinkäällä,
-Puhuja 0: mitä vuotta,
-Puhuja 0: ensimmäistä kertaa ikinä aion mennä sinne, koska sinne tulee yksi mun
-Puhuja 0: lempibändeistä
-Puhuja 0: Tämä lempibändi on aika uusi ilmiö mun elämässä, mutta siitä on tullut yksi mun lempibändeistä,
-Puhuja 0: ja se bändi on nimeltään
-Puhuja 0: The Scorbons.
-Puhuja 0: Ollaan kaikki suuria window of Change-podcast faneja. Me laitetaan paidat niskaan, jossa minulla on kirja C. Mun toisella kaverilla on I ja kolmannella A.
-Puhuja 0: Me toivotaan, että claus maine näkee meidät
-Puhuja 0: sieltä. Joten jos haluat tulla tapaamaan minua tai Klaus maineja, tule Hyvinkään Rock-festille
-Puhuja 0: kolmekymmentäkuusi.
-Puhuja 0: Etsi mies, jolla on iso valkoinen CE-t-paidassaan.
+Puhuja 0: mitä 12-kolmetoista
+Puhuja 0: vuotta.
+Puhuja 0: Ensimmäistä kertaa ikinä aion mennä sinne, koska sinne tulee yksi mun
+Puhuja 0: lempibändeistä.
+Puhuja 0: Tämä lempibändius on aika uusi ilmiö mun elämässä, mutta siitä on tullut yksi mun lempibändeistä.
+Puhuja 0: Se bändi on nimeltään
+Puhuja 0: The Scorbens.
+Puhuja 0: Skorparit on
+Puhuja 0: siellä sitä.
+Puhuja 0: Se on
+Puhuja 0: on skorparit
+Puhuja 0: Hyvinkään rock-festillä.
+Puhuja 0: Minä ja mun kaksi kaveria me aiotaan mennä sinne, katsoo skorppareita.
+Puhuja 0: Me ollaan kaikki suuria window of Change-podcast faneja. Me laitetaan paidat niskaan, jossa mulla on kirja C. Mun toisella kaverilla on I ja kolmannella
+Puhuja 0: A.
+Puhuja 0: Me toivotaan, että Klaus maine näkee meidät sieltä.
+Puhuja 0: Joten jos haluat tulla tapaamaan
+Puhuja 0: minua tai
+Puhuja 0: Klaus maineeja, niin tule Hyvinkään rock-festille
+Puhuja 0: kolmekymmentäkuusi. Etsi mies, jolla on iso valkoinen CE-t-paidassa.
 Puhuja 0: Toivon tietenkin, että Marke Alma, tulkaa tekin.
-Puhuja 1: Rakastan skorppareita
-Puhuja 0: todellakin. Kyllä.
+Puhuja 1: Rakastanskorppareita
+Puhuja 1: todella. Kyllä.
 Puhuja 0: Sitten me voidaan tehdä
-Puhuja 0: podcastin ystävien Met and great Hyvinkäällä.
-Puhuja 0: Hyvinkään on muutenkin ponnistanut paljon kaupunkina eteenpäin. Siellä on kaikkea mahtavaa. Kannattaa tulla tsekkaamaan.
-Puhuja 0: Sitten
-Puhuja 0: omituinen.
-Puhuja 0: Haluan esittää kysymyksen.
-Puhuja 0: Minulla on tullut autokuume,
+Puhuja 0: podcastin ystävien Met and great
+Puhuja 0: Hyvinkäällä. Hyvinkäällä on muutakin ponnistanut paljon kaupunkina eteenpäin. Siellä on kaikkea mahtavaa. Kannattaa tulla tsekkaamaan.
+Puhuja 0: Sitten omituinen. Haluan esittää kysymyksen.
+Puhuja 0: Minulle on tullut autokuume,
 Puhuja 0: jota ehkä en aio toteuttaa.
 Puhuja 0: Todennäköisesti en, mutta se kuume on iskenyt.
-Puhuja 0: Kun kuume iskee,
-Puhuja 0: se vie yöunia ja sitä piehtaroivaa sängyssä ja miettii.
-Puhuja 0: Minua jotenkin
-Puhuja 0: niin ilettää
-Puhuja 0: nykyautot
-Puhuja 0: kuin Tai suuri osa nykyautoista, koska ne näyttää sille
-Puhuja 0: Tiedättekö, Marvele elokuvien ultrainen.
-Puhuja 0: No näyttääkö sen ultraonin
-Puhuja 0: kikkeliltä,
+Puhuja 0: Kun kuume
+Puhuja 0: iskee, se vie yöunia ja sitä piehtraivää sängyssä ja miettii.
+Puhuja 0: Minua jotenkin niin
+Puhuja 0: ilettää
+Puhuja 0: suuri osa nykyautoista, koska ne näyttävät sille...
+Puhuja 0: Marvele elokuvien ultronin.
+Puhuja 0: No näyttääkö se ultronin kikkeliltä,
 Puhuja 0: virtaviivaiselta
 Puhuja 0: tuhokoneelta,
-Puhuja 0: joka
-Puhuja 0: kaikki muodot on semmoisia pisarmaisen
-Puhuja 0: pyöreitä
-Puhuja 0: ja Lizol ja tämmöisiä. Ne
-Puhuja 0: on liian konemaskuliinisuutta.
-Puhuja 0: Mä haluaisin semmoisen
-Puhuja 0: boksin autossa. Mä haluaisin semmonen laatikko. Just semmoinen. Semmoisen mä haluaisin. Jos joku voisi vinkata mulle, missä semmoinen boxy
-Puhuja 0: Aest Hetic. Lähin, mitä mä olen löytänyt, on vanhat
-Puhuja 0: joku jepit.
-Puhuja 0: Tai Mersulla on semmoinen G50-superjeeppimalli.
+Puhuja 0: jossa kaikki vuorot on pisarmaisen pyöreitä
+Puhuja 0: ja
+Puhuja 0: Lizzall. Ne on liian
+Puhuja 0: konemaskuliinisuutta.
+Puhuja 0: Mä haluaisin
+Puhuja 0: semmoisen boksin
 Puhuja 0: Semmoista boxyautojuttua
-Puhuja 0: kiinnostaa tosi paljon. Vinkatkaa mulle. Sen lisäksi haluaisin tietää enemmän autoista, niiden historiasta, muotoilusta,
-Puhuja 0: kaikista sellaisista,
-Puhuja 0: miksi meillä on semmoista ja tämmöistä,
-Puhuja 0: minkälaisia muotoja on ollut, miten näin. Jos jollain vihjetä kirjoja,
-Puhuja 0: netti saitte ja podcastsarjoja,
+Puhuja 0: kiinnostaa tosi paljon. Vinkatkaa minulle. Sen lisäksi
+Puhuja 0: haluaisin tietää
+Puhuja 0: enemmän autoista, niiden historiasta,
+Puhuja 0: muotoilusta,
+Puhuja 0: kaikista
+Puhuja 0: sellaisista,
+Puhuja 0: miksi meillä on semmoista ja tämmöistä, minkälaisia
+Puhuja 0: muotoja on ollut, miten näin. Jos jollain vihjatä kirjoja,
+Puhuja 0: netti saitteja,
+Puhuja 0: podcast-sarjoja,
 Puhuja 0: autojen estetiikasta
-Puhuja 0: ja moottoreiden
-Puhuja 0: Ottaen huomioon, että en tiedä autoista mitään. Ei
-Puhuja 0: mitään rasvaa
-Puhuja 0: moottoreita ja tämmöisiä, vaan vähän korkeamman tason
-Puhuja 0: autojuttua kiinnostaa. Mutta
-Puhuja 0: boxy-esteri, mistä löydän sen?
-Puhuja 0: Please, vasttkaa mulle somessa tai sähköpostitse.
+Puhuja 0: ja moottoreiden...
+Puhuja 0: Ottaen huomioon, että en tiedä autoista mitään. Ei mitään
+Puhuja 0: rasvaa
+Puhuja 0: moottoreita ja tämmöisiä, vaan
+Puhuja 0: vähän tämmöistä korkeamman tason
+Puhuja 0: autojuttua kiinnostaa. Mutta boxy-esteri,
+Puhuja 0: mistä löydän sen? Please,
+Puhuja 0: vastikat mulle somessa tai sähköpostitse.
 Puhuja 0: Okei,
 Puhuja 0: siinä kaikki tältä erää.
-Puhuja 0: Mun nimi on Tuomas Peltomäki.
-Puhuja 0: Kiitos Alma Onalille.
-Puhuja 1: Kiitoksia.
-Puhuja 0: Kiitos Marko Junkkarille.
-Puhuja 0: Kiitos.
-Puhuja 0: Äänenkuvan
+Puhuja 0: Mun nimi on Tuomas Peltonki.
+Puhuja 0: Kiitos
+Puhuja 0: Alma Onalille. Kiitoksia.
+Puhuja 0: Kiitos, Marko Junkkarille. Kiitos.
+Puhuja 0: Äänenkuvan,
 Puhuja 0: leikkauksen
 Puhuja 0: manageroinnin
-Puhuja 0: tsemppaamisen
-Puhuja 0: hyvän fiiliksen studiossa.
-Puhuja 0: Ja kaiken muu mahtava meille tekee tällä viikolla Oona
-Puhuja 0: Mattila. Kiitos Oonalle. Ja me kuullaan
-Puhuja 0: taas ensin.
+Puhuja 0: tsemppaamisen,
+Puhuja 0: hyvän fiiliksen studiossa
+Puhuja 0: ja kaiken muu mahtava meille tekee tällä viikolla Oonan Mattila.
+Puhuja 0: Kiitos Oonalle ja me kuullaan taas ensin.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

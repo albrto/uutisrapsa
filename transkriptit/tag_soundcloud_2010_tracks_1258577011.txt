@@ -1,242 +1,483 @@
-Puhuja 0: Hei, ja tervetuloa
-Puhuja 0: Helsingin
-Puhuja 0: Sanomien
-Puhuja 0: uutisraportti
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
 Puhuja 0: podcastiin
 Puhuja 0: torstaina
-Puhuja 0: kaksikymmentäkahdeksan.
-Puhuja 0: Päivä
+Puhuja 0: kaksikymmentäkahdeksan. Päivä
 Puhuja 0: nyt
 Puhuja 0: iski tyhjää.
 Puhuja 0: Huhtikuu
 Puhuja 0: edelleen.
-Puhuja 0: Mun nimi on Tuomas Pelmäki. Kanssani täällä Helsingin Sanomien politiikan toimittajien studiossa on podcast nimeltä Marko Jukka.
-Puhuja 1: Oi, voi, Tuomas.
-Puhuja 1: Tuomas, Tuomas.
+Puhuja 0: Mun nimi on Tuomas Peltämämäki. Kanssani täällä Helsingin Sanomien politiikan toimittajien studiossa on podcast nimeltä Mörkö Jukka.
+Puhuja 2: Oi,
+Puhuja 2: voi, Tuomas.
+Puhuja 2: Tuomas, Tuomas.
 Puhuja 0: Tätä surrealistista
 Puhuja 0: huumoria ymmärtää
 Puhuja 0: kikatteleva
-Puhuja 0: Alma Onal. Hei, Alma! Taloustoimittaja
-Puhuja 2: palveluksessa.
+Puhuja 0: Alma Onali. Hei!
+Puhuja 3: Taloustoimittaja
+Puhuja 3: palveluksessa palveluksessa.
+Puhuja 0: No niin.
 Puhuja 0: Tämän viikon podcastissa
 Puhuja 0: keskustellaan kaasuaseen laukeamisesta.
-Puhuja 0: Kyllä, tällä viikolla puhuttiin. Viime veti siitä liipasimisesta, jonka kaikki tiesivät
-Puhuja 0: olevan viritettynä,
+Puhuja 0: Kyllä, tällä viikolla Putin viimein veti siitä liipasimisesta,
+Puhuja 0: jonka kaikki tiesivät olevan
+Puhuja 0: viritettynä,
 Puhuja 0: mutta jotenkin ei ajateltu, että kuitenkaan.
-Puhuja 0: Mutta niin se vaan laukesi, kun Venäjä leikkasi kaasutoimitukset
+Puhuja 0: Mutta niin se vaan laukesi kuin Venäjä leikkakausutoimitukset
 Puhuja 0: Puolaan ja Bulgariaan.
 Puhuja 0: Totta kai saman tien paljastui, että eurooppalaisten energiayhtiöiden edustajat, mukaan lukien suomalaisomisteisen
 Puhuja 0: Uniperin edustajat,
-Puhuja 0: mielellään sekä kylpevät,
-Puhuja 0: peseytyvät, että kurlaavat ukrainalaisten
-Puhuja 0: verellä Terkut sinne Fortumiin
-Puhuja 0: Tiina Tuominen nimiselle ihmiselle.
-Puhuja 2: Tuomela.
-Puhuja 0: Tuomela.
-Puhuja 0: Toivottavasti nukut hyvin.
-Puhuja 0: Ja et hikoileja
-Puhuja 0: pyöri kultaisissa lakanoissa
-Puhuja 0: linnassa marmorilattiat,
+Puhuja 0: Mielellään sekä kylpevät että peseytyvät,
+Puhuja 0: että kurlaavat ukrainalaisten
+Puhuja 0: verellä terkut sinne Fortumiin
+Puhuja 0: Tiina
+Puhuja 0: Tuominen nimiselle ihmiselle.
+Puhuja 0: Tuomela. Tuomela. Toivottavasti nukut hyvin,
+Puhuja 0: ja et hikoileja pyöri
+Puhuja 0: kultaisissa lakanoissa
+Puhuja 0: linnassa
+Puhuja 0: marmorilattiat,
 Puhuja 0: hohtaen,
-Puhuja 0: Many dollaria,
-Puhuja 0: mitä nyt tässä keksin,
+Puhuja 0: moneydollari,
+Puhuja 0: tuota... Mitä mä nyt tässä keksin?
 Puhuja 0: Fu sanoisi englantilainen.
 Puhuja 0: Onneksi meillä on kaasuekspert
 Puhuja 0: Alma paikalla kertomassa näitä kuvioita.
 Puhuja 0: Myös moraalinen kompassima alkoi.
-Puhuja 1: No niin.
-Puhuja 0: Sen lisäksi keskustellaan Twitter-kaupasta.
-Puhuja 0: Koko
-Puhuja 0: internettiä puhuttiin tällä viikolla
+Puhuja 2: No niin.
+Puhuja 0: Sen lisäksi keskustellaan
+Puhuja 0: Twitter-kaupasta.
+Puhuja 0: Koko internetiä puhuttiin tällä viikolla
 Puhuja 0: todella kiikeästi
 Puhuja 0: se uhka,
 Puhuja 0: jonka maailman
-Puhuja 0: tasa-arvolle
-Puhuja 0: ja vapaudelle
-Puhuja 0: aiheuttaa se, että jälleen yksi monimiljarissa,
-Puhuja 0: kuten Hampurissa tai joku muu kaupunki, jonka valitsette.
+Puhuja 0: tasa-arvolle ja vapaudelle
+Puhuja 0: aiheuttaa se, että jälleen yksi monime miljardööri ostaa merkittävän median omistuksen
+Puhuja 0: ajaakseen
+Puhuja 0: puhdasta
+Puhuja 0: järkeä
+Puhuja 0: ja sananvapautta.
+Puhuja 0: Sen lisäksi keskustellaan,
+Puhuja 0: tai sanotaanko, että kiristellään foliota
+Puhuja 0: tasavallan presidentti Sauli Niinistön koronasairastumisen
+Puhuja 0: ympärillä.
+Puhuja 0: Myönnän suoraan, että aiheesta kukaan muu ei innostunut kuin minä.
+Puhuja 0: Lopuksi
+Puhuja 0: vielä hyviä keskustelunaiheita
+Puhuja 0: pitkän
+Puhuja 0: epämukavien hiljaisuuksien varalle. Saanko sanoa, että minulla on monta?
+Puhuja 0: Ne on hyviä.
+Puhuja 0: Venäläinen
+Puhuja 0: kaasu jätti Gazprom
+Puhuja 0: keskiviikkona
+Puhuja 0: kaasujakelun
+Puhuja 0: Puolaan ja Bulgarian.
+Puhuja 0: Gazprom kertoi syyksi sen, että maat eivät ole maksaneet kaasulaskujen ruplissa, kuten
+Puhuja 0: hallinto, siis Venäjän hallinto vaatii. Venäjän presidentti Vladimir Putin nimittäin on vaatinut eurooppalaisia maita maksamaan kaasutoimituksista
+Puhuja 0: ruplissa.
+Puhuja 0: Putin on vaatinut epäystävälliseksi
+Puhuja 0: luokitelja maita avaamaan tilit Gaspron pankkiin ja maksamaan kaasulaskut
+Puhuja 0: euroissa tai dollareissa
+Puhuja 0: ja sitten, jotka vaihdetaan
+Puhuja 0: rupliksi.
+Puhuja 0: Maksutoimitus
+Puhuja 0: olisi hyväksytty vasta sitten, kun vaihto on toteutettu.
+Puhuja 0: Mutta koska maailma on täynnä rahan-ahneita
+Puhuja 0: paskapäitä,
+Puhuja 0: niin uutistoimisto Bloomberg
+Puhuja 0: Bloomberg
+Puhuja 0: haastatteli
+Puhuja 0: lähteitä, joiden mukaan neljä eurooppalaista ostajaa ovat kuitenkin maksaneet
+Puhuja 0: kaustoimituksesta Rublissa.
+Puhuja 0: Tämän lisäksi kymmenen eurooppalaista yritystä on lähteiden mukaan avannut tilin venäläiseen Gazprom-pankkiin.
+Puhuja 0: Näin siis, vaikka taloudesta vastaava EU:n komission varapuheenjohtaja
+Puhuja 0: Waldis Dom Brovskis on sanonut, että
+Puhuja 0: niiden tulisi...
+Puhuja 0: Näiden yhtiöiden pitäisi
+Puhuja 0: pitäytyä
+Puhuja 0: näissä sopimuksissa, jotka ovat Venäjän kanssa tehneet, ja että näissä sopimuksissa sanotaan,
+Puhuja 0: että rahat maksetaan eurossa tai dollareissa.
+Puhuja 0: Dombrovsk sanoi tällä tavalla, että hinnoista on sovittu euroissa ja dollareissa, joten maksatte kaasusta euroissa.
+Puhuja 3: Onko siellä jo ennen kuin...
+Puhuja 2: Onko syvällä vietinkö sauna päivänä kerrottu?
+Puhuja 0: Olisi pitänyt tehdä
+Puhuja 0: taustat, jos voi helvettiä. Skipataan tää pointti.
+Puhuja 2: Tässä
+Puhuja 2: on eräällä tavalla, just kun luettelit, että onhan tämä...
+Puhuja 2: Jos miettii viimeistä kahta vuotta, meillä on ollut
+Puhuja 2: koronaa ja nyt on sotaa ja ja kauan. Niin tässä jotenkin tiivistyy kaikki
+Puhuja 2: nämä kamaluudet.
+Puhuja 2: Siinä vaiheessa kun Suomen
+Puhuja 2: Nato-jäsenyyshakemuksen
+Puhuja 2: jättämiseen on kaksi pilkku viisi viikkoa,
+Puhuja 2: niin meidän ylin valtionjohto on koronan kourissa.
+Puhuja 2: Kourissa
+Puhuja 2: sairaalassa, ja samaan aikaan on sairaanhoitajalakko. Meillä tässä tiivistyy tähän
+Puhuja 2: polttopiste,
+Puhuja 2: joka tiivistyy koko todellisuus.
+Puhuja 3: Aika
+Puhuja 0: mahtimontisesti. Niin, sitä kirjoitti näin.
+Puhuja 0: Vajaat pari vuorokautta Meilahdessa,
+Puhuja 0: tulehdusarvat
+Puhuja 0: laskussa. Ja nyt tärkeä kohta: kuumeista
+Puhuja 0: kolme astetta pois.
+Puhuja 0: Eli Niinistöllä on ollut,
+Puhuja 0: jos normaali lämpö on kolmekymmentäseitsemän,
+Puhuja 0: vähintään neljäkymmentä astetta kuumetta. Se on helvetin
+Puhuja 0: korkea kuume.
+Puhuja 0: Eli Niinistö
+Puhuja 0: on ollut vakava se tilanne, mikä mun mielestä
+Puhuja 0: selittäisi sitä, että
+Puhuja 0: presidentin kanslia, kun
+Puhuja 0: he tiedotti tästä,
+Puhuja 0: he käyttivät sanamuotoa,
+Puhuja 0: että Niinistö on edelleen saarella,
+Puhuja 0: ja sanamuoto voi
+Puhuja 0: kohtuullisen hyvin. Uskon, että presidentin kanslia ei olisi laittanut sanaa kohtuullisen hyvin,
+Puhuja 0: ellei heidän olisi ollut aivan välttämätön pakko jollakin tavalla ilmaista, että hän ei voi hyvin.
+Puhuja 0: Tässä tilanteessa,
+Puhuja 0: missä nimenomaan Niinistö on
+Puhuja 0: ydin siinä, missä Suomi on liittymässä Natoon, hänen pitää allekirjoittaa
+Puhuja 2: viimeinen paperi ja blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa b
+Puhuja 3: todella pahassa kunnossa. Näin mä päätin. Kuinkahan se prosessi sitten menisi, jos Niinistö olisi niin kipeä, että se ei voisi jostain syystä sitä puumerkkiä tai no ainahan voi puumerkin laittaa, mutta kuka se olisi sitten, joka allekirjoittaisi, jos ei niinistä allekirjoittaisi?
+Puhuja 2: Ei kukaan.
+Puhuja 2: En usko että tehtäisiin silloin.
+Puhuja 2: Vau!
+Puhuja 2: Jos olisi hetkellisesti
+Puhuja 2: poissa, niin varmaan odotettaisiin niin niistä palaisi. Mutta jos kävisi vaikka Kekkosen aikana aikoinaan, että Kekkonen sairastui niin vakavasti, että hän ei pysty enää hoitamaan tehtäväänsä.
+Puhuja 2: Silloin perustuslain mukaan pitää ensi tilassa järjestää
+Puhuja 2: uusi presidentinvaali.
+Puhuja 2: Jos
+Puhuja 2: se tänään kävisi
+Puhuja 2: näin järkyttävästi, niin se olisi ensi syksynä.
+Puhuja 2: Pääministeri
+Puhuja 2: olisi
+Puhuja 2: vt-presidentti,
+Puhuja 2: mutta kyllä
+Puhuja 2: se kutu, mitä käytäntö on. Ei vt-presidentti
+Puhuja 2: oikein voi tehdä
+Puhuja 2: tämän mittaluokan.
+Puhuja 2: Aivan. Siis aivan järkyttävä sisältö. Mitä. Mahdollisesti
+Puhuja 3: jos Niinistö
+Puhuja 3: vakavasti sairastuisi, koko Suomen Nato-prosessi
+Puhuja 3: vaan jäädytettäisiin
+Puhuja 3: niin
+Puhuja 2: tavallaan tekisi tämän, koska kuitenkin hän
+Puhuja 0: ratkaisee sen, että hakemus lähdetään. Voisiko sen Marin tehdä, vaikea sanoa. Mutta voisi ja pitää tehdä. Missään nimessä se voi olla sillä tavalla, että
+Puhuja 0: se tuosta jossain
+Puhuja 0: ihmisten
+Puhuja 0: sairasloman pituudesta jää kiinni.
+Puhuja 0: Ei voi olla niin. Se kuulostaa aivan sekapäisen
+Puhuja 3: hirveältä. Mulla on vaan sellainen makaaveri vitsi mielissä. Joku makaa. En tiedä, pystyykökö sanoa, että jos yhtään seuraa sitä, millä tavalla nykyään
+Puhuja 3: kaikkea viestintää hoidetaan yhtiöissä ja politiikassa ja kaikessa, niin oikeastihan se menisi vaan silleen, että viestintäjohtaja
+Puhuja 3: kirjoittaisi Salen puumerkinnän sanoisi, että
+Puhuja 2: Jouni Mölsä.
+Puhuja 0: En mene Helsingin Sanomien toimittaja Jouni Mölsä, joka on nykyään
+Puhuja 0: presidentin kanslian.
+Puhuja 3: Sanois vaan, että Niinistö
+Puhuja 3: allekirjoitti sähköpostitse.
+Puhuja 0: Mua on pakko kysyä, että kävikö edes yhden akselin
+Puhuja 0: värähdyksen verran päässä, että tämä on joku Venäjän juoni? Ei. Eikö oikeesti?
+Puhuja 0: Ei.
+Puhuja 0: Ei yhtään värähdystä teidän koko aivo...
+Puhuja 0: Koko se
+Puhuja 0: kaksi kilon massa, mitä teillä on päässä, niin yksikään niistä soluista ei ollut silleen, että vittu on myrkyttänyt sen. No ei kyllä. Tää! Ei mullakaan. Ei siis, ei. Mä olin vaan silleen, että osaa sun sairastavasta. Se ei
+Puhuja 0: mä missään vaiheessa uskonut, että se olisi niin, mutta kyllähän se nyt kävi mielessä.
+Puhuja 0: Miksi? Kun Venäjä myrkyttää kaikki! Siis
+Puhuja 0: päivä
+Puhuja 0: joku hengittelee Polonumia jossain.
+Puhuja 0: Mun mielestä Nato. Ja just tämä Markon kuvailema kavana tilanne, että ainakin Suomi syöksyisi niin kaaokseen,
+Puhuja 0: jos Venäjä hoitelisi Niinistön päiviltä, niin Suomi syöksyisi totaalisen kaaokseen. Okei, mä en tiedä. Se olisi Nato-homman kannalta todella iso
+Puhuja 0: riski.
+Puhuja 3: Mutta nyt tähän... Mä en usko tähän ollenkaan, mutta etteikö toi ajatus edes pälkähtänyt päähän, niin en usko teitä. Toisaalta, jos sanotaan aina, että ei sota yhtä miestä kaipaa, niin voiko mukaan olla niin, että Suomen kaikki nämä ajankohtaiset
+Puhuja 3: rakenteet, jotka tällä hetkellä natisevat liitoksissa, niin jostain romahtaisivat
+Puhuja 3: tämän yhden henkilön takia? Onko presidentti
+Puhuja 3: paljon valtaa?
+Puhuja 3: Eikö sieltä ole riisuttu kaikki muu?
+Puhuja 2: Varmaan riippuu tilanteesta. Joka tapauksessa on selvää, että VTT-presidentti
+Puhuja 2: ei voi tehdä isoja
+Puhuja 2: linjauksia tai suojelantaa vaaleja. Mutta jos tämä on Nato-prosessi, jolla olisi
+Puhuja 2: eduskunnan
+Puhuja 2: siunaus
+Puhuja 2: ja pelkästään
+Puhuja 2: hallituksen esitysten presidenttien allekirjoitus puuttuu, ehkä se voitaisiin varmaan tehdä. Joka tapauksessa periaate on se, että
+Puhuja 2: presidentti ei voi tehdä, ainakaan
+Puhuja 2: aloittaa mitään prosessia.
+Puhuja 0: Ei varmaan voisi...
+Puhuja 0: Jos Niinistö olisi
+Puhuja 0: sairastunut, Marin ei voi,
+Puhuja 0: että nyt kun presidentti on pois pelistä, niin lähden viemään Suomen Natoon. Ei varmasti näin. Mutta tämäkään ei ole asia. Ei tästä ole
+Puhuja 2: mitään
+Puhuja 2: käytäntöä
+Puhuja 2: ole
+Puhuja 2: mitään
+Puhuja 0: käytäntöä. Mutta se tarkoittaa, että me voidaan tässä nyt linjaa.
+Puhuja 0: Ai, ette
+Puhuja 0: oikeasti uskon edes Venäjän toimia.
+Puhuja 3: Ei hitustakaan.
+Puhuja 0: Aivan lain. En minäkään uskonut, mutta ei muka tullut päähän yhtään. En usko teitä. En usko teitä.
+Puhuja 3: Mun mielestä oli vaan, en tiedä, miksi, mutta varmaan olisi pitänyt itse,
+Puhuja 3: olenko mä sitten vain jotenkin huono toimittaja, kun tämä uutinen ei vaan väräyttänyt
+Puhuja 3: minkäänlaista eväämussa.
+Puhuja 0: Vaikka ne kirjoitti, että presidentti voi kohtuullisen
+Puhuja 0: hyvin.
+Puhuja 3: Ja kuten sanoin, seitsemänkymppinen
+Puhuja 3: mies keuhkokuumeessa
+Puhuja 3: ja koronassa.
+Puhuja 0: Neljänkympin kuumeessa
+Puhuja 0: Nato-prosessin
+Puhuja 0: viime metreillä
+Puhuja 0: Harmaa aika, vaaran aika on alkanut, presidentti joutuu sairaalaan.
+Puhuja 0: Suomen keskeisin politiikan toimittaja kertoi, että tämä tarkoittaisi käytännössä uusia presidentinvaaleja
+Puhuja 0: Naton hautaamista.
+Puhuja 0: Tämä
+Puhuja 0: on
+Puhuja 0: suurta draamaa.
+Puhuja 3: Ehkä
+Puhuja 3: se
+Puhuja 3: on,
+Puhuja 3: sitten kun alkaa miettimään, että mikä oikeastaan on presidentti tai mitä on politiikka tai vaalit? Eikö kaikki ole vaan teatteria
+Puhuja 3: ja jotenkin, että ihminen on vaan kummallinen eläin,
+Puhuja 3: joka on luonut ihmeellisiä
+Puhuja 3: rakenteita.
+Puhuja 3: Mutta sitä vaan mietin, että just kun on tämä hoitajan lakko päällä ja kaikki, paitsi, että eikö se lakko ollut nyt peruttu sitten.
+Puhuja 3: Mä en edes tiedä, mikä on hoitajalakon tilanne tällä hetkellä. Ei puhuta siitä ainakaan pitkään.
+Puhuja 2: Lakkohan peruttiin nyt, koska pakkotyölaki,
+Puhuja 2: niin
+Puhuja 2: kuin Tehy sanoo, mutta nythän seuraava askel on se, että ne alkanan joukkueen sanomiset
+Puhuja 0: Joo, homma perkelöity.
+Puhuja 3: Mietin vain sitä, että miten on suhtauduttu siihen, että jos presidentti on sairaalassa,
+Puhuja 3: että miten laitetaan hoitajille tekstarin, että
+Puhuja 3: olisitko todella pirun ystävällinen ja tulisit ne töihin.
+Puhuja 0: Uskoisin, että presidentti hoidetaan. Oli tilanne mikä hyvänsä.
+Puhuja 0: Okei.
+Puhuja 0: Kun lennähdätte käymään vierailemalla
+Puhuja 0: pikaisesti jossain eteläisemmän Euroopan ihanassa kaupungissa, kuten Hampurissa tai joku muu kaupunki, jonka valitsette.
 Puhuja 0: Siellä ehkä on just se plus neljä astetta lämpimämpää kuin täällä typerässä Suomessa.
 Puhuja 0: Siellä voi ilman
-Puhuja 0: hampaiden kiristelyä
-Puhuja 0: istua
-Puhuja 0: terassilajuomassa
-Puhuja 0: sivistyneesti jotain. Hienoa. Saksalaista olutta
-Puhuja 0: rakastan saksaa. Rakastan Hampuria, rakastan
-Puhuja 0: maailmaa.
-Puhuja 0: Eurooppaa, vitsi, mikä paikka,
-Puhuja 0: ihanaa.
-Puhuja 2: Harhatsin paskat naapurit.
-Puhuja 0: Harjottaaksenne
-Puhuja 0: orastavia
-Puhuja 0: saksan taitajana, niin mistä rupeaisitte kertomaan colien terassien
-Puhuja 0: kuuleille saksalaisille
+Puhuja 0: hampaiden kiristelyä istua
+Puhuja 0: terassila juomassa
+Puhuja 0: sivistyneesti jotain hienoa. Saksalaista olutta,
+Puhuja 0: rakastan saksaa, rakastan ne Hampuria, rakastan maailmaa.
+Puhuja 0: Eurooppaa, vitsi mikä paikka, ihanaa.
+Puhuja 3: Harvat paskat naapurit.
+Puhuja 0: Harjoittaaksenne
+Puhuja 0: orastavia saksantaitajana,
+Puhuja 0: niin mistä rupeaisitte
+Puhuja 0: kertomaan
+Puhuja 0: collien terassien kuuleille saksalaisille
 Puhuja 0: asukkaille?
-Puhuja 0: Voin ottaa ensin.
-Puhuja 1: Viisitoista vuotta väliin. Tässä on
-Puhuja 1: pääosin
-Puhuja 1: Tanskan pääministeri, joka siis sama
-Puhuja 1: nainen esitti sitä näissä
-Puhuja 1: kahdella ekalla kaudella ja nyt uudestaan. Nyt tässä on pitkä tauko
-Puhuja 1: Tavallaan ihan oikeassa elämässä, mutta myös siinä sarjassa.
-Puhuja 1: Oli makee
-Puhuja 1: ja katsoin ne kaikki jaksot.
-Puhuja 1: Jotenkin
-Puhuja 1: välillä katsoo jotain sarjaa ja koko ajan tavallaan tykkää siitä, mutta koko ajan siinä joku ärsyttää ihan suunnattomasti.
-Puhuja 1: Tämä oli minusta just sellainen. Koska se oli aikoinaan
-Puhuja 1: kun tuli ekat kaudet, niin olin itse kiinnostunut politiikasta ja siinä minusta kuvattiin
-Puhuja 1: politiikkaa ja politiikan mekanismeja
-Puhuja 1: Tosi osuvasti.
-Puhuja 1: Vaikka se oli Tanskan politiikkaa, mutta ne kaikki tuntui Suomessakin
-Puhuja 1: ihan todellista, mikä on toimittajien ja lobbaajien
-Puhuja 1: ja poliitikkojen välinen suhde ja juonittelu. Siinä oli tosi raikasta ja piristävää ja tosi taitavasti tehty.
-Puhuja 1: Tässä oli tavallaan kaikki samat elementit, mutta sitten puuttui kaikki nämä
-Puhuja 1: miten sanoisin.
-Puhuja 1: Sitten puuttui
-Puhuja 1: se hehku, mikä siinä aikoinaan oli. Se
-Puhuja 1: oli
-Puhuja 1: samaa kuin ennenkin, mutta kumminkaan siinä ei ollut mitään samaa. Tavallaan se kuitenkin pidin,
-Puhuja 1: mutta
-Puhuja 1: varsinkin sen sarjan
-Puhuja 1: tai kauden loppu oli totaalinen antikliimaksi.
-Puhuja 1: Viisi minuuttia ja mitä keksii joku loppu tälle.
-Puhuja 2: Eikö vain kuvaile vain myös meidän aikoja?
-Puhuja 2: Oliko niin kuvaa
-Puhuja 2: kaikki parempaa viisitoista vuotta sitten ja oli jotain hehkuja nyt?
-Puhuja 1: En osaa sanoa. En tiedä oliko siinä vielä sekin, että siihen aikaan vielä
-Puhuja 1: esimerkiksi naispääministeri
-Puhuja 1: olisi olemassa Suomessa ollut Anneli Jätteenmäki, mutta tuntui jotenkin raikkaalta ja siinä oli jotain idea.
-Puhuja 1: Tämä hahmo oli hyvin idealistinen, tuli vähän auteripuolueiden
-Puhuja 1: ulkopuolelta ja halusi uudistaa politiikkaa.
-Puhuja 1: Sarjan edetessähän muuttui
-Puhuja 1: vähän enemmän tavalliseksi poliitikoiksi. Siinä oli varsinkin
-Puhuja 1: tosi makee sarja. Kannattaa katsoa kolmas kausikin,
-Puhuja 1: mutta kannattaa myös varautua pieneen pettymykseen.
-Puhuja 2: Ajattelen, että tartun tähän, koska minähän en ole nähnyt vallan linnaketta, mutta jotkut ihmiset ovat sitä minulle suositellut, niin ajattelen, että tartun siihen.
-Puhuja 2: Suosittelen
-Puhuja 2: myös sarjaa. En ole jaksanut jostain syystä vähän aikaa oikein katsoa, mitä sarjoja ei ole jaksanut sitoutua. Se on tietkö tällaiselle milleniaalille, joka on liian
-Puhuja 2: paljon pyydetty, että seuraisit
-Puhuja 2: kahdeksan jakson verran jotakin asiaa.
-Puhuja 2: Mutta törmäsin tällaiseen
-Puhuja 2: todella
-Puhuja 2: hyvän mielen
-Puhuja 2: teokseen
-Puhuja 2: Hopeomaksilla.
-Puhuja 2: Tämän sarjan nimi on Julia.
-Puhuja 2: Se kertoo
-Puhuja 2: yhdysvaltalaisesta
-Puhuja 2: televisiokukki
-Puhuja 2: Julia Chiltista,
-Puhuja 2: josta on siis tässä. Rakastan Julia Chilia.
-Puhuja 0: Se oli lähtökirjaa.
-Puhuja 2: Hänestähän on tehty jo aiemmin elokuvia.
-Puhuja 0: Se oli Meral Strip
-Puhuja 0: sitten Julia Childia. Just näin. Julia Child on amerikkalaisille
-Puhuja 0: semmoinen
-Puhuja 0: iso, iso hahmo,
+Puhuja 2: Voin ottaa ensimmäiseksi...
+Puhuja 2: Putinko me vallanlinnakkeesta?
+Puhuja 3: Putinko me tässä? Ei ollut täällä puhuttu.
+Puhuja 2: Siitä tuli uusi kausi, jossa juoksee. Milloin se nyt olikaan muutama viikko sitten. Ainoa kattelee seiskoja. En minäkään.
+Puhuja 2: Katselin ne. Tämä oli siis kolmas kausi. Ne kaksi aikaisempaa on tullut
+Puhuja 2: viisitoista vuotta väliin. Pääosin siinä
+Puhuja 2: on Tanskan pääministeri, joka
+Puhuja 2: sama nainen esitti
+Puhuja 2: sitä näissä kahdella ekalla kaudella ja nyt uudestaan. Ja nyt tässä on pitkä
+Puhuja 2: taukoja
+Puhuja 2: tavallaan oikeassa elämässä, mutta myös siinä sarjassa.
+Puhuja 2: Oli makee, katsoin ne kaikki jaksot.
+Puhuja 2: Välillä katsoo jotain sarjaa ja koko ajan tavallaan tykkää siitä, mutta koko ajan siinä joku ärsyttää suunnattomasti.
+Puhuja 2: Ja tämä oli minusta juuri sellainen, koska minusta valla-linna oli aikoinaan kun tuli ekat kaudet, niin totta kai olin itse kiinnostunut politiikasta ja siinä kuvattiin politiikkaa ja politiikan mekanismeja.
+Puhuja 2: Tosi osuvasti.
+Puhuja 2: Vaikka se oli Tanskan politiikkaa, mutta ne kaikki tuntuivat Suomessakin ihan todelliselta, mikä on toimittajien ja lobbaajien
+Puhuja 2: ja poliitikkojen välinen suhde ja juonittelu. Siinä oli todella raikasta ja piristävää ja taitavasti näiden
+Puhuja 2: sellainen
+Puhuja 2: miten sanoisin.
+Puhuja 2: Sitten puuttui
+Puhuja 2: se hehku, mikä siinä aikoinaan oli. Se
+Puhuja 2: oli tavallaan
+Puhuja 2: samaa kuin ennenkin, mutta kumminkaan siinä ei ollut mitään samaa. Tavallaan se kuitenkin pidin.
+Puhuja 2: Mutta
+Puhuja 2: varsinkin sen sarjan
+Puhuja 2: kauden loppu oli
+Puhuja 2: totaalinen antikliimaksi.
+Puhuja 2: Sitten vaan keksitään, että nyt on kaksi jaksoa viisi minuuttia ja vetää keksiä joku loppu tälle.
+Puhuja 3: Eikö vain kuvaile ehkä vain myös meidän aikoja?
+Puhuja 3: Oliko niin vain
+Puhuja 3: kaikki parempaa viisitoista vuotta sitten ja oli jotain hehkuja nyt?
+Puhuja 2: En osaa sanoa. Mietin oliko siinä vielä sekin, että siihen aikaan vielä
+Puhuja 2: esimerkiksi naispääministeri
+Puhuja 2: oli Suomessa ollut Anneli Jätetemäki, mutta tuntui jotenkin raikkaalta ja sitten oli jotain idea.
+Puhuja 2: Tämä hahmo
+Puhuja 2: oli aina hyvin idealistinen, tuli alun perin puolueiden ulkopuolelta ja halusi uudistaa politiikkaa ja Sarjan
+Puhuja 2: edetessähän muuttui
+Puhuja 2: vähän enemmän tavalliseksi poliiteksi koko ajan. Siinä oli vain
+Puhuja 2: tosi makee sarja ja kannattaa katsoa kolmas kausikin, mutta
+Puhuja 2: kannattaa myös varautua pieneen petiitykseen.
+Puhuja 3: Ajattelen, että tartun tähän, koska minähän en ole nähnyt vallan linnaketta,
+Puhuja 3: mutta jotkut ihmiset ovat sitä minulle suositellut, niin ajattelen, että tartun siihen.
+Puhuja 3: Suosittelen
+Puhuja 3: myös sarjaa. En ole jaksanut jostain syystä vähän aikaa oikein katsoa, mitä sarjoja ei ole jaksanut sitoutua. Se on tällaiselle milleniaalille vaan liian
+Puhuja 3: paljon pyydetty, että seuraisit
+Puhuja 3: kahdeksan jakson verran jotakin asiaa.
+Puhuja 3: Törmäsin tällaiseen
+Puhuja 3: todella
+Puhuja 3: hyvän mielen
+Puhuja 3: teokseen
+Puhuja 3: Hopeomaksilla.
+Puhuja 3: Tämän sarjan nimi on Julia.
+Puhuja 3: Se kertoo
+Puhuja 3: yhdysvaltalaisesta
+Puhuja 3: televisiokukki
+Puhuja 3: Julia Chiltista,
+Puhuja 3: josta on siis tässä... Rakastan Julia Childia.
+Puhuja 3: Siis heittokirjaa on se. Joo.
+Puhuja 3: Hänestähän on tehty jo aiemmin elokuvia.
+Puhuja 0: Se oli Meral Strip ja Julia Childia. Just näin. Julia Child on amerikkalaisille
+Puhuja 0: semmoinen iso,
+Puhuja 0: iso hahmo,
 Puhuja 0: vanhan kunnon 50-luvun,
-Puhuja 0: 60-luvun Amerikan
-Puhuja 0: sen kotoisuuden ja lämmön ja rakkauden symboli. Kyllä, koska Julia Child teki ensimmäisen
-Puhuja 2: hittikeittokirjan,
-Puhuja 2: ranskalaista
-Puhuja 2: cusiinia
-Puhuja 2: amerikkalaisille
-Puhuja 0: kotirooville. On french Goock.
-Puhuja 2: Sitten hän
-Puhuja 2: päätyi tekemään tämän kokkaussarjan, joka siis saattoi olla
-Puhuja 2: telkkaristi, etteikö ensimmäinen kokkishow.
-Puhuja 0: Tämä sarja No varmaan Jaakko kolmonen on suomalaisille kokkikorttia.
-Puhuja 2: Tämä sarja kertoo siitä, kun Julia Child alkaa sitä telkkarisarjaa
-Puhuja 2: tekemään. Eli se alkaa jo siitä, että hän on jo sen menestyksen saavuttanut sillä kirjalla,
-Puhuja 2: mutta mitä tapahtuu sen jälkeen, kun hän yrittää päästä tähän hyvin miehiseen,
-Puhuja 2: hyvin ahneeseen,
-Puhuja 2: hyvin konventionaaliseen
-Puhuja 2: televisiomaailmaan sisään ja Julia Child.
-Puhuja 2: Siinä sarjassa kuvataan samalla, että Julia Child on siinä
-Puhuja 2: kuitenkin
-Puhuja 2: tällainen
-Puhuja 2: ylikesikainen
-Puhuja 2: nainen, jolla alkaa vaihdevuodet
-Puhuja 2: ja siinähän tavallaan kriiseilee
-Puhuja 2: samalla sitä,
-Puhuja 2: että kuka nyt tällaista vanhaa tätiä haluaisi
-Puhuja 2: televisiossa katsoa. Samaan aikaan kokkaaminen on kuitenkin se hänen suuri intohimonsa,
-Puhuja 2: ja hän niin innostuu siitä, voisiko hän vielä
-Puhuja 2: tällä iällä tehdä jotakin näin suurenmoista.
-Puhuja 2: Sarja on ensinnäkin kuvattu
-Puhuja 2: todella
-Puhuja 2: ihanasti, se on laadukkaasti
-Puhuja 2: lavastettu ja puvustettu. Estetiikka
-Puhuja 2: on
-Puhuja 2: aivan super ihanaa.
-Puhuja 2: Se tapa, millä
-Puhuja 2: Julia Childyn ja miehen suhdetta kuvataan, sitä, että
-Puhuja 2: on niiden välinen rakkaus ja intohimo ihan tosi kauniisti
-Puhuja 2: esitetty. Sitten siinä annetaan ajankuvaa
-Puhuja 2: siitä,
-Puhuja 2: millaista oli miehisessä maailmassa yrittää menestyä. Sitten vielä se,
-Puhuja 2: millä tavalla
-Puhuja 2: ensimmäistä kertaa pähkäillen, että
-Puhuja 2: miten me tehdään tällainen kokkishow?
-Puhuja 2: Missä sen kameran pitää olla, että saadaan tästä kanankoivasta hyvä kuva ja kaikki? Mä lämpimästi suosittelen. Se on aivan
-Puhuja 0: kiva Julia. Ja HbO:lla.
-Puhuja 0: Julia Child in keittokirja, olin ensimmäinen keittokirja, minkä olen itse ostanut.
+Puhuja 0: 60-luvun
+Puhuja 0: Amerikan
+Puhuja 0: sen kotoisuuden ja lämmön ja rakkauden symboli. Kyllä. Koska Child Child teki ensimmäisen
+Puhuja 3: hitti
+Puhuja 3: keittokirjan,
+Puhuja 3: ranskalaista
+Puhuja 3: cuziinia
+Puhuja 3: amerikkalaisille
+Puhuja 0: kotirooville. On frienchky.
+Puhuja 3: Sitten hän
+Puhuja 3: päätyi tekemään
+Puhuja 3: tämän kokkaussarjan, joka siis saattoi olla telkkaristi,
+Puhuja 3: ettekö ensimmäinen kokkishow.
+Puhuja 3: Tämä sarja.
+Puhuja 0: Varmaan
+Puhuja 0: Jaakko Kolmonen on suomalaisille kokkikortaja.
+Puhuja 3: Tämä sarja kertoo siitä, kun Julia Child alkaa sitä telkkarisarja
+Puhuja 3: tekemään. Se alkaa jo siitä, että hän on jo sen menestyksen saavuttanut sillä kirjalla,
+Puhuja 3: mutta mitä tapahtuu sen jälkeen, kun hän yrittää päästä tähän hyvin miehiseen,
+Puhuja 3: hyvin ahneeseen,
+Puhuja 3: hyvin konventionaaliseen
+Puhuja 3: televisiomaailmaan
+Puhuja 3: sisään ja Julia Child. Siinä ihanasti kuvataan siinä samalla sitä, että Julia Child on siinä
+Puhuja 3: kuitenkin tällainen
+Puhuja 3: jo ylikes-ikäinen nainen, jolla alkaa
+Puhuja 3: vaihdevuodet.
+Puhuja 3: Siinähän
+Puhuja 3: kriiseilee
+Puhuja 3: samalla sitä, että kuka nyt tällaista vanhaa tätiä haluaisi
+Puhuja 3: televisiossa katsoa.
+Puhuja 3: Samaan aikaan se kokkaaminen on kuitenkin se hänen suuri intohimonsa
+Puhuja 3: ja hän niin innostuu siitä, voisiko hän vielä
+Puhuja 3: tällä iällä tehdä jotakin näin suurenmaista.
+Puhuja 3: Se sarja on ensinnäkin kuvattu
+Puhuja 3: todella
+Puhuja 3: ihanasti, se on laadukkaasti
+Puhuja 3: lavastettu ja puvustettu. Se estetiikka on
+Puhuja 3: aivan super ihanaa.
+Puhuja 3: Se tapa, millä
+Puhuja 3: Julia Chilen ja miehen suhdetta kuvataan, sitä, että
+Puhuja 3: on sen itsen välinen rakkaus ja intohimoa on ihan tosi kauniisti
+Puhuja 3: esitetty. Sitten siinä annetaan ajankuvaa
+Puhuja 3: siitä, millaista oli siinä miehisessä maailmassa yrittää menestyä. Sitten vielä se, että millä tavalla
+Puhuja 3: ensimmäistä kertaa pähkäilen,
+Puhuja 3: miten me tehdään kokki show, missä sen kameran pitää olla, että saadaan tästä kanan koivasta hyvä kuva ja kaikki, niin
+Puhuja 3: lämpimästi suosittelen. Se on
+Puhuja 3: aivan ihana Julia. Ja HBO:lla.
+Puhuja 0: Julia Childding-keettokirja
+Puhuja 0: oli ensimmäinen keittokirja, minkä olen itse ostanutkin.
 Puhuja 0: En
-Puhuja 0: tuntenut häntä, mutta sitten se oli niin vaikuttavaa se,
-Puhuja 0: Suomessa oli
-Puhuja 0: ranskalainen keittiö muistaakseni.
-Puhuja 0: Se kirja oli niin vaikuttavan näköinen
-Puhuja 0: itsessään. Ajattelin, että no hei, tämä on pro. Sitten mä ostin sen.
-Puhuja 0: Mulla on myös itse asiassa kokkikirjasuosistus.
-Puhuja 0: Tämmöinen
-Puhuja 0: kirja kuin Kkithin Wise kirjoittaja Sjöley O. Korhier
-Puhuja 0: on Amerikan etelässä ainakin tämmöinen Saharn
+Puhuja 0: tuntenut häntä, mutta Suomessa
+Puhuja 0: oli ranskalainen
+Puhuja 0: ranskalainen keittiö, muistaakseni. Se kirja oli niin vaikuttavan näköinen
+Puhuja 0: itsessään. Mä ajattelin, että hei, tämä on pro. Sitten mä ostin sen.
+Puhuja 0: Mulla on myös itse asiassa kokkikirjasuotus.
+Puhuja 0: Tämmöinen kirja kuin Kittgen Vice
+Puhuja 0: kirjoittaja Shirley O Corheir on
+Puhuja 0: Amerikan etelästä
+Puhuja 0: tämmöinen Saharn
 Puhuja 0: Baow.
-Puhuja 0: Hän on kirjoittanut
-Puhuja 0: kemiallisen
-Puhuja 0: keittokirjan, jossa käydään ruolailu kemiaalla. Cucking mes.
-Puhuja 0: Ruolailu kemian
-Puhuja 0: kemia on
-Puhuja 0: Charles McGeen on food and Cucking, mutta se on niin täyttä kemiaa, että se on lukukelvoton. Sitä ei pysty huvikseen vähän selailemaan ja fiilistelemään. Heitä vähän H2 O:ta
-Puhuja 0: sun ÖB-on. Siinä kuvataan,
-Puhuja 0: mitä maidolle tapahtuu kemiallisesti eri lämpötiloissa, miten strandit
-Puhuja 0: siellä sisällä. Se on liian pro
+Puhuja 0: Hän on kirjoittanut tämmöisen
+Puhuja 0: kemiallisen keittokirjan,
+Puhuja 0: jossa käydään ruolailu kemiaa läpi. Kuking mes.
+Puhuja 0: Ruolaita kemiaan
+Puhuja 0: kemia,
+Puhuja 0: Raamattu
+Puhuja 0: on Harold McGeen on Fooden Cooking, mutta se on niin täyttä kemiaa, että se on lukukelvoton. Sitä ei pysty huvikseen vähän selailemaan ja fiilistelemään. Heitä vähän H2 O:ta sun ÖB:n. Siinä on kuvata, mitä maidolle tapahtuu kemiallisesti eri lämpötiloissa,
+Puhuja 0: miten ne strandit muodostuu siellä sisällä. Se on liian pro
 Puhuja 0: edistyneellekin
 Puhuja 0: taviskokkaille.
-Puhuja 0: Mutta tämä Kittgen wise on siitä semmoinen, että se ei ole sitä perus
-Puhuja 0: semmoista,
-Puhuja 0: että heitä vaan hyvin tomaatteisiin ja suoda pippuri, vaan se on siitä pari askelta ylöspäin, Mutta ei siellä tiekka nanopartikkeleiden kanssa. Hei tästä Notriumsooiddi
-Puhuja 2: issille. Oli
-Puhuja 0: todella hyvä kirja Kitgin Wise Chöly O Core Her. Haluan suositella asiaa, mitä en ole nähnyt, mutta David Simonilta on tullut uusi sarja HBO:lle.
-Puhuja 0: We on this City ja David Simon kuulosti The Wiring tekijä Suuri nero.
-Puhuja 0: Mutta mun varsinainen suositus on
-Puhuja 0: Tehkkö pari muutaman viikon tullut kolme vai neljä jaksoa tullut Podcast-sarja,
-Puhuja 0: Krypto Iland.
+Puhuja 0: Mutta tämä Kittgen wice on siitä semmoinen, että se ei ole sitä perus semmoista,
+Puhuja 0: että heitä vaan hyvin tomaatteisiin ne ja suollä pippuri, vaan se on siitä pari askelta ylöspäin, Mutta ei siellä tiekka nanopartikkeleiden
+Puhuja 3: kanssa. Ei tästä Notrium cordi esisille.
+Puhuja 0: Oli todella hyvä kirja. Kittgen Wise shirley och Koreher.
+Puhuja 0: Haluan suositella asiaa, mitä en ole nähnyt, mutta David Simonilta on tullut uusi sarja HBO:lle.
+Puhuja 0: We own this City ja David Simon kuuluisesti
+Puhuja 0: The Wirerin tekijä Suuri nero.
+Puhuja 0: Mutta mun varsinainen suositus on......
+Puhuja 0: Ekah, pari muutaman viikon tullut kolme vai neljä jaksoa tullut Podcast-sarja
+Puhuja 0: Krypto ilende.
 Puhuja 0: Aivan
-Puhuja 0: erinomainen, aivan erinomainen yhdeltä maailman parhaista podcastien tekijöistä.
+Puhuja 0: erinomainen,
+Puhuja 0: aivan erinomainen
+Puhuja 0: yhdeltä maailman parhaista podcastien tekijöistä.
 Puhuja 0: P. J. Vogt
 Puhuja 0: sarja, joka käy läpi kryptovaluuttaa
-Puhuja 0: ja sen ympärillä näitä Crypto brose.
-Puhuja 0: Se lähtee liikkeelle
-Puhuja 0: viraalista lähteneestä mainosvideosta, missä
-Puhuja 0: tämmöiset kryptola rahansa tienanneet
-Puhuja 0: Kalifornialaismiljonäärityö,
-Puhuja 0: jotka kuitenkin oli ihan selvästi jotain huijareita, niin ne osti muille kryptotyypeille
-Puhuja 0: yksityisen saaren,
-Puhuja 0: että he voi mennä sinne olemaan kryptoheppuja keskenään. Se lähtee tästä liikkeelle. Mutta sitten se alkaa tutustua siihen, keitä nämä tyypit on, miksi ne kehittää näitä kryptoja, miten ne kryptoja
-Puhuja 0: Sarjasarjalta P. J. Vogt osaa kertoa,
+Puhuja 0: ja sen ympärillä näitä Crypto bros. Se
+Puhuja 0: lähtee liikkeelle
+Puhuja 0: viraalista lähteneestä mainosvideosta, missä tämmöiset Cryptola-rahansa
+Puhuja 0: tienanneet tämmöiset Kalifornialaismiljonäärit
+Puhuja 0: tyypit, jotka kuitenkin oli ihan selvästi jotain huijareita, niin ne
+Puhuja 0: osti
+Puhuja 0: muille kryptotyypeille
+Puhuja 0: yksityisen saaren, jonne
+Puhuja 0: he voi mennä sinne olemaan kryptoheppuja
+Puhuja 0: Se lähtee tästä liikkeelle. Mutta sitten se alkaa tutustua siihen, keitä nämä tyypit on, miksi ne kehittää näitä kryptoja, miten ne kryptoja...
+Puhuja 0: Sarjasarjalta P. J. Voct osaa kertoa,
 Puhuja 0: haastatella,
-Puhuja 0: valita musat sillä tavalla, että
-Puhuja 0: se on niin hyvää kuultavaa. Crypto Airland suosittelen
+Puhuja 0: valita musat sillä tavalla, että se
+Puhuja 0: on niin hyvää kuultavaa.
+Puhuja 0: Crypto E.land suosittelen
 Puhuja 0: tosi paljon kaikille.
-Puhuja 0: P. J. Vog tuttu Reply All podcastista
-Puhuja 0: joka joutui canceloinnin kohteeksi, tai PI. V. V. Voke joutui siellä canceloinnin kohteeksi täysin ilman mitään syytä. Se oli tyhmin asia, mitä olen ikinä kuullut, mutta sen takia Ripply All podcast, joka ennen oli maailman Brasberg podcast, meni aivan
-Puhuja 0: typeräksi
-Puhuja 0: plörinäksi, mutta PiiG pärjää selvästi omillaan huomattavasti paremmin kuin
-Puhuja 0: hänen exge canceliden
-Puhuja 0: podcastinsa.
-Puhuja 0: Siinä kaikki tältä erää. Kiitos, Alma-Ounoali.
-Puhuja 0: Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on tuossa Peltomäki Äänja-KV. Kaiken muu mahtava meille tekee tällä viikolla
-Puhuja 0: Janne Elkki!
+Puhuja 0: P. J. Vog tuttu Repry all podcastista,
+Puhuja 0: joka joutui cansöinnin
+Puhuja 0: kohteeksi.
+Puhuja 0: PVVV. Look joutui siellä cansöinnin kohteeksi täysin ilman mitään syytä. Se oli tyhmin asia, mitä olen ikinä kuullut. Mutta sen takia Rippley All podcast, joka ennen oli maailman Brasbod podcast, meni aivan
+Puhuja 0: typeräksi plörinäksi,
+Puhuja 0: mutta PJVA. Pärkkä pärjää selvästi omillaan huomattavasti paremmin kuin
+Puhuja 0: hänen exge canceliden-podcastinsa.
+Puhuja 0: Siinä kaikki tältä erää. Kiitos,
+Puhuja 0: Alma-Ouno, Ville. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Peltomäki-ääni ja kuva. Kaiken muu mahtava meille tekee tällä viikolla Janne Elkki!
 Puhuja 0: Muistakaa lähettää meille palautetta
 Puhuja 0: uutisraportti. Ja
-Puhuja 0: me kuullaan taas ensi viikolla!
+Puhuja 0: me kuullaan taas ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

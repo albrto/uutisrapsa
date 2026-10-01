@@ -1,217 +1,466 @@
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uutisraportti-podcastiin torstaina tuhat
-Puhuja 0: kymmenen. Tosin
-Puhuja 0: nauhoitus tehdään keskiviikkona.
-Puhuja 0: Yhdeksän. Päivä joulukuuta vuonna kaksituhatta kaksikymmentä,
-Puhuja 0: viimeinen joulu tänä vuonna. Minun nimeni on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien itse asiassa päätoimittajaneuvotteluhuoneessa,
-Puhuja 1: tämmöisessä ihan jättimäisessä huoneessa. Eikö tämä ole sanoman hallituksen huoli? Luulen?
-Puhuja 0: Tämä on tavallaan
-Puhuja 0: pyhien pyhää tässä talossa.
-Puhuja 0: Ovat tuo mystinen ääni
-Puhuja 0: vasemmasta nurkasta eli
-Puhuja 0: siis Helsingin Sanomien politiikan toimittaja Marko Junkkari. Hei Marko. No moi.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Helsingin
+Puhuja 0: Sanomat. Hei, ja tervetuloa Helsingin Sanomien Utrekaportti podcastiin torstaina
+Puhuja 0: kymmenen. Päivä joulukuuta.
+Puhuja 0: Tosin,
+Puhuja 0: nauhoitus
+Puhuja 0: tehdään keskiviikkona. Yhdeksän. Päivä joulukuuta. Vuonna kaksituhatta kaksikymmentä
+Puhuja 0: viimeinen joulu tänä vuonna. Minun nimeni on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien itse asiassa päätoimittajaneuvotteluhuoneessa
+Puhuja 0: ihan jättimäisessä luona. Eiks tää ole sanoman hallituksen huoli? Onko? Mä luulen? Tää on niinku tää tavallaan pyhien pyhää tässä talossa.
+Puhuja 0: Ovat tuo Mystinen ääni vasemmasta nurkasta
+Puhuja 0: eli siis
+Puhuja 0: Helsingin Sanomien politiikan toimittaja Marko Junkkari. Hei Marko. No moi.
 Puhuja 0: Mitä kuuluu?
-Puhuja 1: No,
-Puhuja 1: tietysti hyvältähän se tuntuu olla täällä sanomien hallituksen
-Puhuja 0: huoneessa, että hyvältä menee. Todella kutkuttavissa fiiliksissä. Miksi? Sen mä kerron kohta. Siihen väliin paikalla myös sunnuntailiitteentoimittaja
-Puhuja 0: Maria Manner. Hei Maria.
-Puhuja 0: Hei Tuomas. Mitä sulle kuuluu?
-Puhuja 2: Ihan hyvä, jännittävä. Jännittävää on. Meidän takana ja edessä vielä. Kyllä. Nimittäin tämä on Erikoislähetys,
+Puhuja 1: No siis hyvältähän se tuntuu olla täällä sanomien hallituksen huoneessa, että hyvältä
+Puhuja 0: menee. Meillä on todella kutkuttavissa
+Puhuja 0: fiiliksissä. Miksi? Sen mä kerron kohta siihen väliin paikalla myös sunnuntailiitteentoimittaja
+Puhuja 0: Maria Manner. Hei Maria. Hei Tuomas. Sinulla
+Puhuja 2: kuuluu?
+Puhuja 2: Ihan hyvää, jännittävä. Jännittävää. Häennittävä on takana ja edessä vielä. Kyllä. Nimittäin
+Puhuja 0: tämä on erikoislähetys,
 Puhuja 0: nimittäin uutisraportti-podcasti
-Puhuja 0: jo perinteiksi muodostuneita pikkujouluja.
-Puhuja 0: Ei ikävä kyllä tänä vuonna koronasyistä
-Puhuja 0: pystytty
-Puhuja 0: järjestämään.
-Puhuja 0: Järjestäjän kyllä heti ensi vuonna, siis korona on ohi.
+Puhuja 0: jo perinteiksi
+Puhuja 0: muodostuneita pikkujouluja.
+Puhuja 0: Ei ikävä kyllä tänä vuonna koronasyistä pystytty järjestämään.
+Puhuja 0: Järjestäjä on kyllä heti ensi vuonna, edes korona ohi.
 Puhuja 0: Mutta me vietetään pikkujouluja nyt täällä
-Puhuja 0: sanoman hallittan sinne neuvotteluhuoneessa.
+Puhuja 0: sanoman halliton tänne neuvotteluhuoneessa.
 Puhuja 0: Mukana ovat myös
-Puhuja 0: Mika Maliranta,
-Puhuja 0: taloustieteen tohtori
-Puhuja 0: Kilpailu ja kuluttajaviraston
-Puhuja 0: asiantuntija.
-Puhuja 3: DIA:n asiantuntija, joo, totta.
-Puhuja 0: Ja Jyväskylän
-Puhuja 0: yliopiston
+Puhuja 0: Mika Maliranta, taloustieteen
+Puhuja 0: tohtori
+Puhuja 0: Kilpailu ja kuluttajaviraston asiantuntija?
+Puhuja 3: DIA: Joo, totta.
+Puhuja 0: Ja Jyväskylän yliopiston
 Puhuja 0: taloustieteen
 Puhuja 0: 20-prosenttinen
 Puhuja 3: professori. Joo, just näin.
-Puhuja 0: Näin. Sen lisäksi meillä on täällä Matti Apunen,
-Puhuja 0: entinen AM-lehden päätoimittaja,
+Puhuja 0: Sen lisäksi meillä on täällä Matti Apuna,
+Puhuja 0: entinen Aamulehden päätoimittaja,
 Puhuja 0: Evan toimitusjohtaja
 Puhuja 0: ja työelämäprofessori.
-Puhuja 3: Ihan tavallinen
-Puhuja 0: juttu. Työelämäprofessori
-Puhuja 0: Tampereen yliopistossa
-Puhuja 0: ja molemmat
-Puhuja 0: juontavat pientä musta pontavaa podcastia nimeltä
-Puhuja 0: AM joka
+Puhuja 4: Ihan tavallinen
+Puhuja 4: johtaja.
 Puhuja 0: Työelämäprofessori
+Puhuja 0: Tampereen
+Puhuja 0: yliopistossa ja molemmat
+Puhuja 0: juontavat
+Puhuja 0: pientä montapantavaa
+Puhuja 0: podcastia nimeltä AM,
+Puhuja 0: joka kustantaa
+Puhuja 0: elinkeinoministeriö.
+Puhuja 0: Työ, että
+Puhuja 0: saa myöskin työn muokka. Eikö siitä, että Yleisradion lisäksi kaupallista mediaa vastaan
+Puhuja 0: käydään niin kuin elinkeinoministeriön rahoilla.
+Puhuja 3: No mun mielestä
+Puhuja 3: ne on hyviä laareja.
+Puhuja 0: Mulla oli karvasuu.
+Puhuja 0: Jälleen
+Puhuja 0: kerran
+Puhuja 0: kuulijoille tiedoksi, että meillä on nämä maskit naamalla ja se vaikuttaa äänen laatuun ja
+Puhuja 0: juonta tähän kykyyn
+Puhuja 0: puhua hengästymättä.
+Puhuja 0: Ensimmäinen kysymys Matti Abuselle.
+Puhuja 0: Sä aloitat Yleisradian hallituksen puheenjohtajana.
+Puhuja 0: Miltä Suomen tunnetuimmasta republikaanista
+Puhuja 0: tuntuu olla siellä
+Puhuja 0: tai olla menossa sosialistiseen
+Puhuja 0: yleisradioon tekemään juttuja kuten ja tämän lainaus Ilta-Sanomien eilisestä uutisissa, jossa kerrottiin Yle uudesta sarjasta Ylen uudessa Sinkut paljaana ohjelmassa julkisuudesta
+Puhuja 0: tunnetut naiset päästävät katsojat kurkistamaan,
+Puhuja 0: miltä tuntuu luopua meikin tuomasta itsetuntobuustista
+Puhuja 0: niinkin herkällä hetkellä kuin ensitreffeillä?
+Puhuja 0: Tämäkö on yleisö oli juuri valtate...
+Puhuja 4: Sovitaanko Tuomas niin, että mä mietin tätä vastausta ensi huhtikuuhun
+Puhuja 4: saakka, jolloin mä aloitan siellä, niin sen jälkeen mä voin kertoa sulle, mitä mieltä mä olisin. Eli voin tässä päätellä, että tää ei ole sun tämmöinen formaatti-idea.
+Puhuja 0: Sä et itse keksinyt sen.
+Puhuja 0: Ihan lyhyt ilmoitusasia
+Puhuja 0: tähän alkuun.
+Puhuja 0: Spotify on voittamassa podcast-kisan.
+Puhuja 0: Sen vuoksi meillä olisi tosi tärkeää, että jos kuuntelette tätä podcastia Spotifyssa,
+Puhuja 0: niin tilatkaa.
+Puhuja 0: Sen lisäksi laittakaa se tilauksen hälytys päälle, niin näette, milloin uusi jakso tulee
+Puhuja 0: ulos. Sitten me näytään siellä teidän systeemeissä kunnolla. Spotify siis lähetti mulle ison
+Puhuja 0: tosi pelottavan oloiseen emailin, jossa se sanoo, että nyt sinun täytyy, Tuomas Peltomäki pyytää kaikkia kuulijoitasi
+Puhuja 0: laittamaan tämän hälytys päälle,
+Puhuja 0: joten minä teen työtä käskettyä.
+Puhuja 0: Tämän viikon podcastissa
+Puhuja 0: keskustellaan Pekka Haaviston
+Puhuja 0: ministeri
+Puhuja 0: Rikosnäytelmästä,
+Puhuja 0: joka sai lopponsa tällä viikolla aivan katastrofaalisessa
+Puhuja 0: sirkuksessa.
+Puhuja 4: Kuin
+Puhuja 4: ideoiden lujuuskasta.
+Puhuja 4: Mä
+Puhuja 3: erinomaisesti? Voi olla joo. Tää mun Kainuun esimerkki on hyvin satu
+Puhuja 3: anekdoottinen, että ehkä sillä ei oo tämmöistä vahvaa tilastopohjaa.
+Puhuja 0: Satuista vedetyt anekdootit
+Puhuja 0: voittaa aihe. Sen takia teille pistää. Ainakin tässä näissä podcasteissa.
+Puhuja 2: Tuomari on puolueellinen.
+Puhuja 1: Oo. Oliko vieras core.
+Puhuja 0: Tota, okei tää on nyt tämmöinen, tää on tämmöinen inside-kysymys,
+Puhuja 0: joka on livautettu
+Puhuja 0: tänne.
+Puhuja 0: Daren Asemoglu
+Puhuja 0: on joulupukkiin verrattava satuhahmo
+Puhuja 0: ja kuulijoille siis tiedoksi, että
+Puhuja 0: Daren asemoglu.
+Puhuja 3: Achimolu.
+Puhuja 0: Achimolu on
+Puhuja 0: taloustieteilijä.
+Puhuja 3: Kyllä, vastaus on ei, Näiden natmoslu on jopa joulupukkia kovempi.
+Puhuja 3: Satuhahmo?
+Puhuja 3: Niin, tämä satuhahmo,
+Puhuja 3: joo.
+Puhuja 1: Mä vastaan, että meidän vastaus on, että asemoglu
+Puhuja 1: ei
+Puhuja 1: ole
+Puhuja 1: satuhahmo,
+Puhuja 1: koska asiasta on empiiristä
+Puhuja 1: todisteinen todiste se,
+Puhuja 1: että
+Puhuja 1: jos asemaglue
+Puhuja 1: on olemassa,
+Puhuja 1: koska jos asemagglun ottais pois teidän
+Puhuja 1: podcastista ja asemagglun
+Puhuja 1: vaikutuksen, niin sehän olis pelkästään neljäkymmentäviisi minuuttia pelkkää hiljaisempaa.
+Puhuja 1: Keukaan nyt vielä sitä. Asemoggl oli Suomessa
+Puhuja 4: on talouden tuleva nobelisti ja hän on meidän mielestämme siis... Tuo on aika kuvanimi.
+Puhuja 4: Joo. 1st Class Brain.
+Puhuja 0: Tässä
+Puhuja 0: kysymyksessä kävin sillä tavalla, että teille tulee miinus piste.
+Puhuja 0: Täytyy siitä, että
+Puhuja 0: minä perustin tämän podcastin vastustaakseni
+Puhuja 0: sitä
+Puhuja 0: kehitystä,
+Puhuja 0: että suomalainen
+Puhuja 0: poliittinen,
+Puhuja 0: taloudellinen ja mediallinen eliitti voi elinkeino,
+Puhuja 0: elinkeinoministeriön
+Puhuja 0: rahalla perustaa podcasti, jossa ne fanittaa talousteoreetikkoja,
+Puhuja 3: joista kukaan ei ole ikinä kuullut. Tuota, nyt mä korjaan ensin, siinähän ei ole pelkkä talousteoreetikko.
+Puhuja 3: Oliko se Google käytössä, voiko edes faktat
+Puhuja 3: oikein sieltä?
+Puhuja 2: Mikä toi tapahtuu kaikilla ennen alkuvaiheesta homman sen kanssa, mut sitten siihen tottuu. Minusta kun kuulolla kuulkaas, hän esittää siitä kysymyksenne.
+Puhuja 0: Väite, Suomella on hyvä herra onni.
+Puhuja 0: Ja täähän aloittaa Mari.
+Puhuja 0: Ainoa
+Puhuja 2: rouva. Pahan pisteet sanon, että minulla on hyvä herra onni tässä jo mikä on
+Puhuja 2: hyväksi minulle on hyväksi Suomelle.
+Puhuja 2: Ehkä.
+Puhuja 0: Hyvä vastaus.
+Puhuja 2: Ei vaan, sanon näin. Itseasiassa katson Markon, niin huomaan, että mulle tuli sellainen ajatus mieleen, että kun Marko tietää, että toimittajat ovat mahdottomia johdettavia,
+Puhuja 2: niin ehkä suomalaiset ovat samalla tavalla mahdottomia
+Puhuja 2: johdettavia
+Puhuja 2: herroille.
+Puhuja 1: Niin, vanhana pikkupomona ei kannata
+Puhuja 1: yrittää johtaa, vaan yrittää luoda illuusio,
+Puhuja 1: että he mukaisivat itse keksii sen asian, mitä toivon heidän tekevän, mikä ei ole aina ihan helppoa.
+Puhuja 2: Samalla tavallahan
+Puhuja 2: suomalaiset rakastaa sellaisia johtajia, jotka näyttää yhtä vastentahtoisilta siihen tehtävään
+Puhuja 2: kuin
+Puhuja 2: sinä aikoinaisaasi.
+Puhuja 1: Totta. Paljon nerokas vastaus.
+Puhuja 4: Meidän vastaus on se, että suomalaiset
+Puhuja 4: huippupolitikot
+Puhuja 3: on usein paljon mainettaan parempia ihmisiä. Toi on totta, ja mä jatkan ja muistutan, että
+Puhuja 3: itseasiassa
+Puhuja 3: pääosa meidän hyvistä herroista on tovereita.
+Puhuja 3: Mauno Koivisto ja Väinö Tanner.
+Puhuja 4: Jaaha, noniin.
+Puhuja 0: Taas päästiin tähän. Mutta joo, kyllä. Molemmat
+Puhuja 0: vastaukset olivat väärin, joten annan oikean.
+Puhuja 0: Suomella on nimittäin hyvä rouva Onni.
+Puhuja 2: Älä taas Sanna Marinia vedet tähän.
+Puhuja 0: Tää vastaus voi liittyä Sanna Mariniin, saatte itse valita siitä kyse. Mutta siis tämä oli Juha Hurmeen erinomaisessa
+Puhuja 0: Niemi-kirjassa.
+Puhuja 0: Kerrottiin
+Puhuja 0: muinaiskreikkalaisista
+Puhuja 0: kirjoista, joissa ensimmäistä kertaa mainittiin,
+Puhuja 0: jotenkin etäisesti viitattiin Suomeen,
+Puhuja 0: treeneenä eli niin kuin pohjoisen,
+Puhuja 0: synkän Pohjolan kansoina.
+Puhuja 0: Siellä erikseen mainittiin,
+Puhuja 0: että nää klaanit oli sellaisia, missä
+Puhuja 0: naiset kulki miesten perässä
+Puhuja 0: metsällä ja osallistuivat metsästykseen ihan siinä missä miehetkin.
+Puhuja 0: Mä väitän,
+Puhuja 0: että
+Puhuja 0: kysymys oli väärä ja
+Puhuja 0: annan molemmille teille pistin.
+Puhuja 0: Nyt ollaan tilanteessa
+Puhuja 0: kolmekymmentäkaksi, ja AM podcast johtaa.
+Puhuja 0: Suomi on selviytynyt
+Puhuja 0: niin hyvin koronakriisistä,
+Puhuja 0: koska
+Puhuja 0: ja tästä aloittaa Matti Avunen.
+Puhuja 0: No
+Puhuja 4: siis, kun koronakriisi toi tän
+Puhuja 4: sosiaalisen
+Puhuja 4: etäisyyden,
+Puhuja 4: että pysytään vähän kauempana toisistamme ja annetaan valtakeskus
+Puhuja 4: valvomolle,
+Puhuja 4: niin täähän sopii meille erinomaisesti ja täähän on meille kansan luonteessa syvällä.
+Puhuja 4: Se, että me joudutaan pitämään etäisyyttä toisiamme niin kuin minä ja Mika kaksisataa kilometriä on hyvä turvaväli,
+Puhuja 4: niin
+Puhuja 4: täähän
+Puhuja 4: istuu mainiosti.
+Puhuja 4: Tai se, että valtio hoitelee
+Puhuja 4: asiat. Nyt ei tarvi teeskennellä,
+Puhuja 4: ei tarvi käydä small talkia ja teeskennellä,
+Puhuja 4: että on kiinnostunut toisen ihmisen asioista tai että joutuisi itse päättämään jotain asioita. Ylipäätänsä Akseli valtiothan ovat pärjänneet tässä hyvin, koska Japanissa
+Puhuja 3: korona ei ole
+Puhuja 3: kovin iso ongelma. Nekin on saanut hallintaan sen. Myöskin Saksa kai pärjää suhteessa.
+Puhuja 1: Että eilisessä puheenjohtajatentissä
+Puhuja 1: Jussi Halla-aho sanoa
+Puhuja 1: vastauksessaan viitata siihen, että Suomen menestys on osin tsägää, eli ihan vaan hyvää onnea. Siitähän tuli kauhea huuto tentissä, että miten voit sanoa noin.
+Puhuja 1: Mutta täähän on
+Puhuja 1: sinänsä musta hassua,
+Puhuja 1: että mehän ollaan kadehdittu
+Puhuja 1: Hannu Hanhia ja iät ja ajat, ja sundiin tekee maalit viimeisillä sekunnilla.
+Puhuja 1: Meistä Ruotsin hyvä onni on siisteitä, mitä maailmassa voi olla. Miksei Suomi voisi kerrankin nauttia siitä, että meillä kävi yhdeksän pirun hyvä onni?
+Puhuja 1: Ja tavallaan se, että jos ollaan maailman hyvä onni, niin eihän se ole mikään negatiivinen asia. Sehän on vain siistejä mitä voi olla. On saatu ilman, että ne ei olisi tarvinnut tehdä mitään. Niin,
+Puhuja 1: Katjat ei, mitä Ruotsissa tapahtuu. Uusi Pelt
+Puhuja 3: vastasi, että valitkaa hyvä onni
+Puhuja 3: ja valtionvarainministeri
+Puhuja 3: myöskin seuraavalle
+Puhuja 3: kana.
+Puhuja 1: Ai niin, ei. Eikö Marialla vielä vastaus? Pitikö sun sanoa jotain?
+Puhuja 2: Mikä se kysymys oli? Miksi Suomi on pärjännyt niin hyvin? Koska Maria tietää koronakriisin
+Puhuja 1: hoidosta kaiken.
+Puhuja 2: Mitä me pohdittiin?
+Puhuja 2: Sanotaan että Suomen menee hyvin koska meillä on niin loistavia
+Puhuja 2: ekonomisteja.
+Puhuja 4: Odottamattomia
+Puhuja 4: sankareita löytyy tähän tarinaan.
+Puhuja 0: Ja näin saavutaan
+Puhuja 0: ennen viimeistä
+Puhuja 0: kysymystä tilanteeseen
+Puhuja 0: kolmekymmentäkolme.
+Puhuja 0: Ja viimeinen
+Puhuja 0: kysymys kuuluu näin:
+Puhuja 0: kaksikymmentä
+Puhuja 0: prosenttinen professori,
+Puhuja 0: työelämäprofessori
 Puhuja 0: ja erikoistoimittaja
 Puhuja 0: Tappelin. Kumpi voitti?
-Puhuja 3: Mä tota sanoisin, että jos tolla tavalla olitte asuttu että se professori on vaan
-Puhuja 1: No ensinnäkin halutaan tarkentaa, että paikalla
-Puhuja 1: on siis työelämäprofessori
-Puhuja 1: ja kaksikymmentä prosenttinen
+Puhuja 3: Mä
+Puhuja 3: sanoisin, että jos tolla tavalla oli tasoittu, että se professori on vaan kaksikymmentä prosenttinen, niin sit se olisi tiukka. Mut jos sit otettaisiin huomioon, että hän oli kahdeksankymmentä prosenttia vielä työelämän professori ei kun tutkimusprofessori,
+Puhuja 1: paikalla on siis työelämäprofessori ja kaksikymmentä prosenttinen
 Puhuja 1: Jyväskylän yliopiston taloustieteen proffa, mutta ei ole yhtä erikoistoimittajaa.
-Puhuja 1: Meillä Hesarissa emme käytä tätä hassua
-Puhuja 1: Aktiivisesti kuitenkin hyvin erikoinen toimisi. Tässä oli vähän kompakysymys. Mutta sanotaan näin, että jos
-Puhuja 1: tällainen matsi tulisi, niin kyllä mä sinne liput ostaisin.
-Puhuja 1: Kyllä mä sinne liput ostaisin. Mut
-Puhuja 4: toimittajathan ei voi olla koskaan erimielisyyksissä osapuolia Miten te voisitte silloin voittaa tällaisen kamppailun?
-Puhuja 0: Totta,
-Puhuja 0: ehdottomasti
-Puhuja 0: pyydettiin kattelen inlemiä
-Puhuja 4: Totta, pitäiskö mun käydä siellä joskus Siellä tapahtuu paljon mielenkiintoista.
-Puhuja 3: Siitä koisti hirveän paljon. Musta se
+Puhuja 1: Emme käytä
+Puhuja 1: tätä Hassoa.
+Puhuja 3: Mutta strategisesti kuitenkin hyvin erikoinen toimi.
+Puhuja 1: Tämä oli vähän kompakysymys. Mutta sanotaan näin, että jos tällainen
+Puhuja 1: matsi tulis, niin kyl mä sinne liput ostaisin.
+Puhuja 4: Mut toimittajathan ei voi olla koskaan erimielisyyksissä
+Puhuja 4: osapuolia. Miten te voisitte silloin voittaa tällaisen kamppailun?
+Puhuja 0: Totta. Et oo mä vissiin kattanu inlemiä.
+Puhuja 4: Totta, pitäisikö mun käydä siellä joskus. Siellä kuulemma tapahtuu paljon mielenkiintoista.
+Puhuja 3: Siitä koistin hirveän paljon, musta se
 Puhuja 3: on tuottanut vähän pettymyksen.
-Puhuja 0: Okei, molemmilta oli niin
-Puhuja 0: tota Latteat
-Puhuja 0: vastaukset tohon loppuun, että jätetään tilanne
-Puhuja 4: tasan kolme kolme. No toi nyt oli latteen tai
-Puhuja 3: ikinä. Sulla on yksi ainoa homma olla tuomari tässä kisassa ja sitäkään sä et pysty viemään loppuun. Sulla ei Google käytössä siinä. Sulla on koko ajan ollut siinä kone auki. Sä oot, me joudutaan tässä vetää omasta päästä.
-Puhuja 0: Pari kohtaa annan teille oikeat vastaukset, se riittäköön.
-Puhuja 0: Tää on Hyvän mielen podcast ja hyvällä mielellä
-Puhuja 0: kaikki voittaa.
-Puhuja 0: Tuomenmaassa.
 Puhuja 0: Okei,
+Puhuja 0: molemmilta oli niin,
+Puhuja 0: tota, niin lattiat vastaukset tohon loppuun, että jätetään tilanne tasan kolme, kolme. No toi nyt oli latteen tai iki.
+Puhuja 4: Sulla on yksi ainoa homma olla tuomari tässä kirjassa ja sitäkään sä et pysty vielä loppumaan. Sulla oli kuume käytössä siinä. Sulla on koko ajan ollut siinä kone auki, sä oot, me joudutaan tässä vetämään omasta päästä.
+Puhuja 0: Mä parissa kohta annan teille oikeat vastaukset, se riittäköön.
+Puhuja 0: Tää on Hyvän mielen podcast ja hyvällä mielellä
+Puhuja 0: kaikki voittaa
+Puhuja 0: Suomen
+Puhuja 0: maassa. Okei,
 Puhuja 0: hei, sitten kun
 Puhuja 0: tästä
 Puhuja 0: laitamme kameran kiinni,
-Puhuja 0: kenties panemme rekin pois ja myödenmme, että meillä on pöydällä tuossa kaksi hyvin jouluista
-Puhuja 0: glagipulloa
+Puhuja 0: kenties painamme Rekin pois
+Puhuja 0: ja myönnetään, että meillä on pöydällä tossa kaksi hyvin jouluista
+Puhuja 0: glögipulloa
 Puhuja 0: ja sitten tässä
-Puhuja 0: istuskellaan
-Puhuja 0: pöydän ääreen ja ruvetaan
+Puhuja 0: istuskellaan pöydän ääreen ja ruvetaan
 Puhuja 0: keskustelemaan,
 Puhuja 0: niin
-Puhuja 0: minkälaisilla
-Puhuja 0: tarinoilla
+Puhuja 0: minkälaisilla tarinoilla
 Puhuja 0: tai
 Puhuja 0: pointeilla tai huomioilla tai
-Puhuja 0: muilla
-Puhuja 0: ajattelitte meitä
+Puhuja 0: muilla ajattelitte
+Puhuja 0: meitä
 Puhuja 0: podcast-kollegoita
-Puhuja 0: viihdyttää,
-Puhuja 0: jos Maria aloittaa.
-Puhuja 2: Kadonneen arkinmetsästy,
-Puhuja 2: joka kertoo suomalaisesta
-Puhuja 2: runoilijasta ja maan mittarista
+Puhuja 0: viihdyttää, jos Maria aloittaa.
+Puhuja 2: Mä toivon, etten olisi voitu tätä aikaisemmin, koska ensin mä suosittelen samoja kirjoja kolme kertaa. Mutta siis aivan krecy Stoor. Ootteko te lukenut?
+Puhuja 2: Tutkija Timo Stuarttin kirjaa Kadonnen arkin metsästys. Kyllä minä olen kadonneen. Kadonnen arkin metsästys, joka kertoo suomalaisesta
+Puhuja 2: runoiliasta ja maanmittarista
 Puhuja 2: Valtteri Juveliuksesta, joka lähti etsimään
-Puhuja 2: vanhassa
-Puhuja 2: testamentissa mainittua Liiton arkkia
+Puhuja 2: Vanhassa
+Puhuja 2: testamentissa mainittua Liitonarkkia
 Puhuja 2: Jerusalemista
 Puhuja 2: viime vuosisadan alussa.
-Puhuja 2: Paitsi se on pähkähullu tarina. Aluksi
-Puhuja 2: tartuin siihen, ja se oli tositarina. Hän sai aikaan mielettömän selkkauksen
-Puhuja 2: siellä. Hän uskoi löytäneensä salakirjoituksen,
-Puhuja 2: joka paljasti temppelin sijainen. Hän
-Puhuja 2: matkasi sinne ja sai aika sellaisen kansainvälisen skandaalin.
-Puhuja 2: Mutta kun mä tartun siihen kirjaan, mä aluksi olin vähän epälunen, koska yleensä
-Puhuja 2: tutkijat ei ole ihan niin sujuvia kirjoittajia. Mutta tää kirjoittaja on siis loistavaa tekstiä kaiken lisäksi,
-Puhuja 0: mua muutaman vuoden nuorempi mutta siis tämmöinen
-Puhuja 0: nuori
-Puhuja 0: tutkija.
-Puhuja 0: Hän on jotenkin supervaikuttava
+Puhuja 2: Paitsi se oli Pähkähullu tarina.
+Puhuja 2: Se oli tositarina. Hän sai aikaan mielettömän selkkauksen siellä.
+Puhuja 2: Hän uskon löytäneensä salakirjoituksen,
+Puhuja 2: joka paljasti temppelin sijainen.
+Puhuja 2: Hän matkasi sinne ja sai kansainvälisen
+Puhuja 2: skandaalin.
+Puhuja 2: Mutta kun tartuin sen kirjan, aluksi olin vähän epäluuloinen, koska yleensä
+Puhuja 2: tutkijat ei ole ihan niin sujuvia kirjoittajia. Mutta tää kirjoittaja on loistavaa
+Puhuja 2: tekstiä kaiken lisäksi.
+Puhuja 0: Saanko sanoa kivan syödessä. Mä olen tavannut hänet kerran. Äärimmäisen mielettömän ihminen kaikille lisäksi. Tämmöinen niinku, hän on ehkä mua muutaman vuoden nuorempi, mutta siis tämmöinen nuori
+Puhuja 0: tutkija. Hän on jotenkin supervaikuttava
 Puhuja 0: ihminen, todella komea ja silleen tosi jotenkin harmantti
 Puhuja 0: ja fiksu.
-Puhuja 0: Sitten yhtäkkiä häneltä putkahtaa tuommoinen ihan mieletön kirja.
-Puhuja 0: Jotenkin mä kehotan kaikkia pistämään Timast Jurrtin nimenmielen, koska siitä tulee jotain suurta.
+Puhuja 0: Sitten yhtäkkiä häneltä putkahtaa tuommoinen ihan mieletön kirja
+Puhuja 0: ja niin kuin
+Puhuja 0: jotenkin mä kehotan kaikkia pistämään Timastjiortin
+Puhuja 0: nimen mielen, koska siitä tulee jotain suurta.
 Puhuja 0: Otetaan nyt vaikka sitten Mika. No mä annan lukusuosituksen.
-Puhuja 3: Ystäväni Matti apuni on kirjoittanut aivan loistavan kirjan. Mikä se kirja nimi on se kirja nimi?
-Puhuja 3: Kun käsittelin
-Puhuja 3: ruokaa,
-Puhuja 3: siis ihan älyttömän Seisova pöytä! Seisova pöytä, sillä oli vielä tosi hyvä nimi. Siis todella,
-Puhuja 3: se suosittelee, että kannattaa lukea. Mä meinaan itsekin lukea se kirja jossain vaiheessa.
-Puhuja 3: Matti.
+Puhuja 3: Ystäväni Matti Apuni on kirjoittanut aivan loistavan kirjan. Mikä se kirja nimi on?
+Puhuja 3: Siis
+Puhuja 3: todella suosittelen, että kannattaa lukea. Mä meinaan itsekin lukea sen kirjan jossain vaiheessa. Matti.
 Puhuja 4: Ystäväni Mika Maliranta ei ole kirjoittanut tänä vuonna mitään, joten en voi suositella hänen
 Puhuja 4: kirjaansa.
-Puhuja 4: Puristuksen? Miten poliittiset prosessit muuttuu? Miten ihmisten käsitys reilusta muuttuu? Ja niin edelleen.
+Puhuja 4: James Suski
+Puhuja 4: nimisen Brittiläisen tutkijan kirjan, joka nimi on Future Politics
+Puhuja 4: niin erinomainen kirja siitä, että mitä tapahtuu politiikalle
+Puhuja 4: tämän tekoälyn ja teknologian ja kaiken
+Puhuja 4: puristuksen, miten poliittiset prosessit muuttuu, miten
+Puhuja 4: ihmisten käsitys reilusta muuttuu ja niin edelleen.
 Puhuja 4: Erittäin
-Puhuja 4: valaisella.
-Puhuja 0: Okei. James Suski. James Suski.
-Puhuja 0: Future Politics. Future Politics.
-Puhuja 0: Marko.
+Puhuja 0: valaisella. Okei. James Suski? James Suski.
+Puhuja 0: Futurepolitcs.
 Puhuja 1: Mä voisin ensinnäkin tottakai suositella
-Puhuja 1: A että M-podcastia,
-Puhuja 1: joka on hauskaa kuunneltavaa ja kuuntelee sitä aina välillä sauva kävellessäni. Mä rupesin
-Puhuja 1: lukea tällä alkuviikosta kirjaa.
-Puhuja 1: Pystytään luomaan keskusteluita pöydän ääressä ja mahdollisimman yksityiskohtaisesti.
-Puhuja 1: Tavallaan kertomaan se fiktiomaisesti
-Puhuja 1: tositarina. Tällainen
+Puhuja 1: A että
+Puhuja 1: M-podcastia, joka on hauskaa kuunneltavaa. Kuuntelen sitä
+Puhuja 1: aina välillä sauva kävellessäni. Mä rupesin
+Puhuja 1: lukea tällä alkuviikosta
+Puhuja 1: kirjaa.
+Puhuja 1: Mä oon suuri tällaista
+Puhuja 1: jenkkilainen,
+Puhuja 1: kärpä-Käärpäisenä
+Puhuja 1: katossa Nonfiction, jossa
+Puhuja 1: pystytään kertomaan joku
+Puhuja 1: tarina. Sinänsä se on jokaista väliä, mikä se tarina on, mutta rekonstruoimaan
+Puhuja 1: se niin, että
+Puhuja 1: pystytään luomaan keskusteluita pöydän ääressä ja mahdollisimman yksityiskohtaisesti.
+Puhuja 1: Tavallaan kertomaan se tositarina fiktiomaisesti.
+Puhuja 1: Tällainen
 Puhuja 1: CIVILA Action on kirjoittanut Jonathan
 Puhuja 1: HAR niminen kaveri. Se
-Puhuja 1: on jonkun vuoden vanha kirja. Se kertoo 80-luvulla jossain Yhdysvalloissa
-Puhuja 1: pieni paikkakunta, jossa
+Puhuja 1: on jonkun vuoden vanha kirja. Se kertoo 80-luvulla, jossain Yhdysvalloissa
+Puhuja 1: oli tällainen pieni paikkakunta, jossa
 Puhuja 1: kahdesta tehtaasta
-Puhuja 1: pääsi myrkkyjä vesiin
-Puhuja 1: juomaveteen. Siellä tuli tämmöinen leukemia ja rypäs siellä pieniä lapsia ja sai leukemia kuoli. Se oli ensimmäinen
+Puhuja 1: pääsi myrkkyjä
+Puhuja 1: juomaveteen, ja tuli leukemia ja rypäs siellä pieniä lapsia. Sai leukemia ja kuoli. Se oli ensimmäinen
 Puhuja 1: iso
 Puhuja 1: ympäristörikoksen
-Puhuja 1: ympärille kehkeytynyt
-Puhuja 1: oikeusjuttu, jota
+Puhuja 1: ympärille
+Puhuja 1: kehkeytynyt
+Puhuja 1: oikeusjuttu,
+Puhuja 1: jota
 Puhuja 1: nuori
-Puhuja 1: nuori juristi Siinä oli usein totta kai paljon juristeja,
+Puhuja 1: nuori juristin... Siinä oli uusittu aika paljon juristeja,
 Puhuja 1: mutta rupesi tavallaan vetämään.
-Puhuja 1: Jenkeissä on tämä systeemi, että
-Puhuja 1: korvaus tulee juristele vasta sitten, jos satutaan voittamaan, ja se saa kolmekymmentä prosenttia
+Puhuja 1: Ja sitten
+Puhuja 1: se, koska Jenkeissä on tämä systeemi, että
+Puhuja 1: korvaus tulee juristele vasta sitten, jos se tuodaan voittamaan, ja se saa kolmekymmentä prosenttia
 Puhuja 1: korvauksesta.
-Puhuja 1: Mutta hän näki jossain vaiheessa nälkää ja joutuu myymään autonsa ja sai häädön asunnostaan, kun hän käytti kaikki rahansa tähän caseen. Loppujen
-Puhuja 1: lopuksi se voitti isot pahat korporaatiot.
+Puhuja 1: Mutta hän näki jossain vaiheessa nälkää ja joutuu myymään autonsa ja sai häädön asunnosta, vaikka hän käytti kaikki rahansa tähän caseen. Loppujen lopuksi
+Puhuja 1: se voitti isot pahat korporaatiot.
 Puhuja 1: Mutta siinä hauskaa on se, miten
 Puhuja 1: makeesti
-Puhuja 1: pidä pystytään kertomaan hänen kohtaamisia jossain baarissa, mitä ne söi ja joi ja mitä ne puhui ja näin.
-Puhuja 1: Hauska ainakin uskoa ja kuvitella, että kaikki on totta, mitä kerrotaan.
+Puhuja 1: vielä pystytään kertomaan hänen kohtaamisia jossain vaaissa, mitä ne söi ja joi ja mitä ne puhui ja näin.
+Puhuja 1: Hauska ainakin uskoo ja kuvitella, että kaikki on tuttua, mitä kerrotaan.
 Puhuja 0: Okei, mä haluan suositella
-Puhuja 0: semmoista sarjaa kuin The Voice. Se on semmoinen, se on yksi kovimpia sarjoja, mitä on siinä katsonut.
+Puhuja 0: semmoista sarjaa kuin The Bys.
+Puhuja 0: Se
+Puhuja 0: on semmoinen, se on yksi kovimpia
+Puhuja 0: sarjoja, mitä on hiinä katsonut.
 Puhuja 0: Aivan älyttömän
 Puhuja 0: isolla rahalla
 Puhuja 0: superlaadukkaasti
 Puhuja 0: tehty tämmöinen
-Puhuja 0: vähän niin kuin
-Puhuja 0: fantasiasarjakuvagenren
-Puhuja 0: leffa. Juoni
-Puhuja 0: liikkuu siinä, että on olemassa tämmöinen
-Puhuja 0: CIAn alainen
-Puhuja 0: alajaosto, joka on hyvin tämmöinen epäformaali, jonka tehtävä on
+Puhuja 0: vähän niin kuin fantasiasarjakuvagenren leffa. Juoni liikkuu siinä, että on olemassa tämmöinen CIAn alainen alajaosto, joka on hyvin epäformaali, jonka tehtävä on
 Puhuja 0: antaa, ne on tavistyyppejä,
-Puhuja 0: jotka silloin kun asia niin vaatii, niin ne käy antamaan
-Puhuja 0: paikallisille supersankareille turpaan.
-Puhuja 0: Koska siinä maailmassa, sitten lähtee semmoinen
-Puhuja 0: vuoristorata siinä sarjassa, Siinä maailmassa supersankarit on totta, se on vähän niin kuin Marvel-leffat
+Puhuja 0: jotka silloin kun asia niin vaatii, niin ne käy antamaan paikallisille
+Puhuja 0: supersankareille
+Puhuja 0: turpaan.
+Puhuja 0: Koska siinä maailmassa... Sitten lähtee
+Puhuja 0: semmoinen vuoristorata siinä sarjassa. Siinä maailmassa supersankarit on totta. Se on vähän niin kuin Marvel-leffat
 Puhuja 0: ja tälleen, mutta se on ihan semmoinen perversensä.
-Puhuja 0: Maailman supersankarit on täysiä mulkkuja
+Puhuja 0: Maailman supersankarit on täysiä
+Puhuja 0: mulkkuja
 Puhuja 0: ja hirveän
-Puhuja 0: inhottavia, koko ajan kun ne käy tekemään jotain sankarijuttuja,
+Puhuja 0: inhottavia.
+Puhuja 0: Koko ajan, kun ne käy tekemään jotain sankarijuttuja,
 Puhuja 0: ne saattaa juosta jonkun sivukulkijan
 Puhuja 0: läpi ja se plasahtaa sellaiseksi verivanaksikin
-Puhuja 0: pitkin katuja.
-Puhuja 0: Siinä sarjassa seurataan tätä ihmisryhmää, joka sitten käy haalia ne supersankarit, heittää ne tyrmää, antaa pata.
-Puhuja 0: Siis se,
-Puhuja 0: se perustuu tämmöisen tosi kuuluisan sarjakuvakäsikirjan
+Puhuja 0: pitkin katuja. Siinä sarjassa seurataan tätä ihmisryhmää,
+Puhuja 0: joka sitten käy haalia ne supersankarit ja heittää ne tyrmää ja antaa pataan.
+Puhuja 0: Siis se
+Puhuja 0: perustuu tämmöisen tosi kuuluisan sarjakuvakäsikirjoittan
 Puhuja 0: kuin
-Puhuja 0: Garth Ehnis, Garth
-Puhuja 0: sarjakuvan, joka on todella hyvä, tosi laatua.
-Puhuja 0: Se, miksi kukaan ei ole kuullut tästä, on se, että se tulee Amazon Primilla.
+Puhuja 0: Garth
+Puhuja 0: Anissen sarjakuvan, joka on todella hyvä, tosi laatua.
+Puhuja 0: Ja se, miksi kukaan ei ole kuullut tästä, on se, että se tulee Amazon Primilla.
 Puhuja 0: Se on saanut ihan uskomattomat arviot IMDB:ssä
 Puhuja 0: kaikkialla, missä se on nähty. Se on aivan semmoista Game of Thrones-tason
 Puhuja 0: hehkutusta, aivan mieletön sarja. Mä olen katsonut sitä nyt yksitoista
-Puhuja 0: jaksoa putkeen tauotonta, uskomatonta,
+Puhuja 0: jaksoa putkeen.
+Puhuja 0: Tavutonta, uskomatonta,
 Puhuja 0: mahtavaa tykitystä. Ja kukaan ei ole kuullut,
 Puhuja 0: koska se on Amazon Primilla.
 Puhuja 0: Mutta ottakaa se Piron Prime
-Puhuja 0: tai jos osaatte, mä nyt mä aion jopa suositella, että piratovikansa
-Puhuja 0: se. Se on niin hyvä, että varatkaa se, mistä vaan saatte käsiin Rikokseen pois.
-Puhuja 0: Tältä erää.
-Puhuja 0: Kiitos kaikille kuulijoille, jotka jaksoitte
+Puhuja 0: tai jos osaatte, mä... Nyt mä aion jopa suositella, että piratovikaa
+Puhuja 0: se. Se on niin hyvä, että varatkaa se, mistä vaan saatte käsiin... Rikokseen pois tästä.
+Puhuja 3: Pois tästä.
+Puhuja 0: Työelinkeinoministeriö
+Puhuja 0: ei soita.
+Puhuja 3: Tää on musta vähän kilpailuoikeudellista
+Puhuja 3: alkukyyteen
+Puhuja 3: pois.
+Puhuja 0: Okei, siitä kaikki tältä erää. Kiitos kaikille kuulijoille, jotka jaksoitte
 Puhuja 0: seurata
-Puhuja 0: Facebookissa
-Puhuja 0: tämän lähetyksen loppuun asti tai
+Puhuja 0: Facebookissa tämän lähetyksen loppuun asti tai
 Puhuja 0: kuunnella
 Puhuja 0: podcastina.
 Puhuja 0: Tosi pitkä lähetys, mutta kiitos siitä.
-Puhuja 0: Kiitos myös Marko Junkkari. Kiitos.
+Puhuja 0: Kiitos myös Marjo Junkkari. Kiitos.
 Puhuja 0: Kiitos Matti Apunen.
-Puhuja 4: My Please.
+Puhuja 3: My Pleasey.
 Puhuja 0: Kiitos Maria Manner. Kiitos. Ja kiitos
-Puhuja 3: Mika Maljer. Kiitos, että kutsuitte näin hienoon paikkaan ja näin hienoon ohjelmaan. Minun nimeni on Tuomas Pelmäki.
-Puhuja 0: Muistakaa lähettää meille palautetta uutisraportti ja kuullaan taas ensi viikolla!
+Puhuja 3: Mika Malila. Kiitos, että kutsuitte näin hienoon paikkaan ja näin hienoon ohjelmaan. Mun nimi on Tuomas Pelmäki.
+Puhuja 0: Muistakaa lähettää meille palautetta uutisraportti ja kuullaan taas ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcasteeni, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

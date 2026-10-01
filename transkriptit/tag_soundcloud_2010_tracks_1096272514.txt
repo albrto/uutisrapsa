@@ -1,235 +1,484 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina kaksikymmentäyhdeksän.
-Puhuja 0: Heinäkuuta.
-Puhuja 0: Minun nimeni on Emil Elo ja kanssani täällä seiskakerroksen
-Puhuja 0: studiossa ovat HSY Vision Joakim Westren Dol. Moikka moi. Moi Joakim ja lifestyle-toimituksesta
-Puhuja 0: Hilla Kökkö. Terve Hilla.
-Puhuja 0: Moi! Mennään ihan aluksi päivän polttavat asiat läpi. Se ehkä jopa vuoden kuumin uutinen Kim Cardashen.
-Puhuja 0: Hän julkaisi
-Puhuja 0: Instagram-stoorissaan
-Puhuja 0: suomalaisen lonkero-yhtiön
-Puhuja 0: mainoksen.
-Puhuja 0: Miten iso asia tämä oli henkilökohtaisesti
-Puhuja 0: teille?
-Puhuja 1: En näe
-Puhuja 1: sitä kovin isona, koska minulle se juoma ei
-Puhuja 1: maistu.
-Puhuja 1: En näe, miksi maistuisi Kmillekään.
-Puhuja 0: Uskon, että tässä on jotain. Etkö tavallaan ajatt, koska sä et juo lonkeroa, niin Kim Cardaashenkaan ei juo lonkeroa? Kyllä mä samaistun Kimiin niin vahvasti
-Puhuja 2: hengellisellä tasolla, että mä uskon, että se ei oikeasti juonut sitä. Ei se mullekaan maistu. Ei se ole kovin hyvää. Kyllä. Eikö sillä ole mitään väliä, että se postaisi sen sinne? Tai siis mitä väliä sillä on, että juoko se edes sitä? Eikö sillä ole se, mikä merkitsee? Se on se, että se kuva on siellä se instanssa, jolloin montako
-Puhuja 2: miljoonaa seuraajaa? Kaksisataakolmekymmentäyhdeksän
-Puhuja 0: miljoonaa.
-Puhuja 1: Mun mielestä tämä on kiehtovaa juuri parrasosiaalisella
-Puhuja 1: spekulaation
-Puhuja 0: tasolla. Mun on pakko myöntää,
-Puhuja 0: miten myönnä. Soitin
-Puhuja 0: aamulla
-Puhuja 0: näille yhtiön omistajille
-Puhuja 0: ja kysyin, että mikä meininki.
-Puhuja 0: He sanoivat, että hei ei tiennyt.
-Puhuja 0: He ei ole maksanut siitä mitään. He ei tiennyt.
-Puhuja 0: Se oli heidän toisten omistajien kautta ilmeisesti
-Puhuja 0: liikkunut
-Puhuja 0: Carldahianille
-Puhuja 0: tämä paketti.
-Puhuja 0: Näin nykypäivän
-Puhuja 0: liiketoiminta toimii ilmeisesti.
-Puhuja 1: Niin. Sä toisit mainita, että se oli tosiaan joku tietty DJ, joka
-Puhuja 1: No sitä epäillään.
-Puhuja 0: Se voisi olla DJKAIGO,
-Puhuja 0: joka on myös tässä omistajana, että hän olisi voinut lähettää Cardahianille.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 1: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin
+Puhuja 1: torstaina kaksikymmentäyhdeksän.
+Puhuja 1: Heinäkuuta.
+Puhuja 1: Minun nimeni on Emil Elo ja kanssani täällä seiska-kerroksen
+Puhuja 1: studiossa ovat HS Vision Joakim Westren Dol. Moikka moi! Moi Joakim ja lifestyle-toimituksesta
+Puhuja 1: Hilla Körkkä, terve Hilla. Moi!
+Puhuja 1: Mennään ihan aluksi päivän polttavat asiat läpi. Se ehkä jopa vuoden kuumin uutinen Kim Cardassion.
+Puhuja 1: Hän julkaisi Instagram-stoorissaan
+Puhuja 1: suomalaisen lonkeroyhtiön
+Puhuja 1: mainoksen.
+Puhuja 1: Miten iso asia tämä oli henkilökohtaisesti
+Puhuja 1: teille?
+Puhuja 3: En näe
+Puhuja 3: sitä kovin isona, koska mulle se juoma ei maistu. En näe, miksi maistuisi Kimillekään.
+Puhuja 3: Uskon, että tässä on jotain. Et tavallaan ajatt, koska et
+Puhuja 1: juo lonkeroinen, niin Kim Cardahhenkään ei juo lonkeroa? Kyllä samaistun Kimin niin vahvasti semmoisella
+Puhuja 3: hengellisellä tasolla, että uskon, että se ei oikeasti juonut sitä. Ei se mullekaan maista. Ei saa kovin hyvää. Kyllä. Eikö sillä ole siitä mitään väliä,
+Puhuja 2: se, mikä merkitsee on se, että se kuva on siellä se Instassa, jolloin
+Puhuja 2: montako miljoonaa seuraajaa?
+Puhuja 1: Kaksisataakolmekymmentäyhdeksän miljoonaa.
+Puhuja 3: Mielestäni tämä on kiehtovaa juuri parrasosiaalisella
+Puhuja 3: spekulaation
+Puhuja 1: tasolla. Mun on pakko myöntää,
+Puhuja 1: että tämän myönnän, mitä kerron.
+Puhuja 1: Soitin aamulla
+Puhuja 1: näille yhtiön omistajille
+Puhuja 1: ja kysyin, että mikä meininki?
+Puhuja 1: He sanoivat, että hei tiennyt.
+Puhuja 1: He eivät ole maksaneet mitään. He eivät tienneet.
+Puhuja 1: Se oli heidän toisten omistajien kautta ilmeisesti
+Puhuja 1: liikkunut
+Puhuja 1: Carda Ashanille tämä paketti.
+Puhuja 1: Näin nykypäivän liiketoiminta toimii ilmeisesti.
+Puhuja 3: Niin. Taisit mainita, että se oli tosiaan joku tietty DJ, joka
+Puhuja 1: sitä epäillään.
+Puhuja 1: Se voisi olla DJKAIGO,
+Puhuja 1: joka on myös tässä omistajana, että hän olisi voinut lähettää Cardahianille.
 Puhuja 2: Kuka näistä tietää? No, mitä sille juomalle nyt käy?
-Puhuja 1: Se ei kuulosta sitä kärteelkäänmisestä.
-Puhuja 2: Huotsuhdekriisejä
-Puhuja 2: itse asiassa täytyy myöntää, että herätit uuden pelonmossa. Ilmeisesti on tämmöinen asia,
-Puhuja 2: jota minun kannattaisi vähän enemmän miettiä. Mielestäni se
-Puhuja 2: on hyvä, että
-Puhuja 2: mistä tahansa uutisesta tai
-Puhuja 2: siis jos lukee vähän sitä inkkua pidemmälle, niin sitten
-Puhuja 2: alkaa
-Puhuja 2: ajatukset
-Puhuja 2: menemään siihen suuntaan, että on tällaisia asioita maailmasta, josta voi
-Puhuja 2: keskustella ja joita voi kenties pelätä, mutta joiden eteen voi kenties tehdä myös muutoksia,
-Puhuja 2: joihin voi vaikuttaa. Loistava loppukaneetti. Erinomainen loppukaneetti.
-Puhuja 0: Hei, sitten mennään kaikkiin suosikkiasiaan,
-Puhuja 0: eli suositteluihin.
-Puhuja 0: Hilla aloita, mitä suosittelet
-Puhuja 0: meille?
-Puhuja 2: Mulla on kaksoistusta.
-Puhuja 2: Okei.
-Puhuja 2: Toinen niistä on koronaystävällinen,
-Puhuja 2: joka liittyy oman kännykän tuijottamiseen. Se on Katriina Pajarin Instagram tällä hetkellä. Helsingin Sanomien toimittaja Katriina Pajari on Tokiossa ja seuraa siellä olympialaisia.
-Puhuja 2: Sieltä sen Instagramista, joka on itse asiassa nyt
-Puhuja 2: voisin katsoa, että mikä se on. Se on mun mielestä vaan Katriina.
-Puhuja 0: Onko se tykkäiki kamaa?
-Puhuja 2: Katrina A(HIS.
-Puhuja 2: Täällä on
-Puhuja 2: Bechiind the scenes kamaa
-Puhuja 2: Sami Keron
+Puhuja 3: Se, kun sitä
+Puhuja 1: räjähtää. Suosio räjähtää ja Suomen kansantalous pelastuu, mikäli pojat vaan maksaa veronsa Suomeen.
+Puhuja 1: Tuskin.
+Puhuja 1: Mutta hei, mennään tämän viikon aiheisiin. Tällä viikolla keskustellaan vähän syvällisemmin
+Puhuja 1: rokotepassista,
+Puhuja 1: joukkuevoimista
+Puhuja 1: ja Simon Bilsistä ja
+Puhuja 1: Telinevoimistelija
+Puhuja 1: Simon Bilsistä ja urheilijoiden kohtaamista paineista
+Puhuja 1: sekä sitten vielä Suomen työllisyysasteesta.
+Puhuja 1: Mennään
+Puhuja 1: ihan aluksi noihin rokotepasseihin,
+Puhuja 1: joita nyt aletaan selvittää.
+Puhuja 1: Otetaanko käyttöön. Ilmeisesti keväästä asti on kuitenkin selvitetty.
+Puhuja 1: Muut
+Puhuja 1: maat ovat ottaneet käyttöön.
+Puhuja 1: Suomi nyt aloittaa
+Puhuja 1: työryhmän
+Puhuja 1: pohdinnan.
+Puhuja 1: Miksi me ollaan näin jäljessä tässä taas kerran? Mitä te olette mieltä tässä?
+Puhuja 3: Niin tosiaan, sitähän selvitettiin keväällä ja asia jäi niin sanotusti hyllylle silloin. Siitä joku
+Puhuja 3: Ilta-Sanomat tai sen
+Puhuja 3: muisti on saada käsiinsä tässä muutama päivä sitten.
+Puhuja 3: Käsittääkseni aika
+Puhuja 3: vähän puolettiin sitä
+Puhuja 3: koronapassivaihtoehtoa
+Puhuja 3: sen rokotepassin
+Puhuja 3: sijaan.
+Puhuja 3: En tosiaan tiedä, onko se nyt odotettu
+Puhuja 3: ihan pöydälle uudestaan
+Puhuja 3: vai onko se? Kansliapäällikkö
+Puhuja 1: ilmeisesti eilen oli A-Studiossa ilmoittanut,
+Puhuja 1: että nyt ruvetaan selvittämään uudestaan rokotepassin
+Puhuja 1: käyttöönottaa. Sehän on muissa Pohjoismaissa. Ilmeisesti Tanskassa on jo käytössä ja se on ottamassa. Kyllä tämä globaali virtaus johtaa siihen,
+Puhuja 1: että muut valtiot ottavat rokotepassin käyttöön.
+Puhuja 2: Mun mielestä on ehkä tärkeää puhua nimenomaan, että se on koronapassi eikä rokotepassi.
+Puhuja 2: Tai siis, mikä siitä nyt ikinä tuleekaan, mutta eikö se ongelma ollut nimenomaan siinä,
+Puhuja 2: että se rokotepassi
+Puhuja 2: ei olisi tasa-arvoinen ja se olisi perustuslain
+Puhuja 2: vastainen ja sen takia sitä ei voida ottaa käyttöön, koska kaikilla
+Puhuja 2: ei ole mahdollisuutta saada samalla tavalla rokotteita. Mutta sitten taas jos kyse on koronapassista,
+Puhuja 2: jolloin mukaan otetaan myös
+Puhuja 2: koronan sairastaneet ja sen takia näitä vasta-aineita. Tavallaan sitten, mikä
+Puhuja 1: johtaisi siihen, että Suomeen ei välttämättä arviisi jotain niin paljon velkaa.
+Puhuja 1: Tai että meillä on varaa pitää hyvinvointipalveluita täällä.
+Puhuja 1: Siinä on se tietty taso, mikä Suomella pitää olla työllisyydessä, jotta tulee tarpeeksi veronmaksua
+Puhuja 1: niistä työpaikoista.
+Puhuja 1: Mutta itse asiassa tämä on mielenkiintoinen keskustelu myös siinä mielessä, että minusta tuntuu, että viime aikoina,
+Puhuja 1: tai internettaikoina
+Puhuja 1: taloudestakin on
+Puhuja 1: tullut vähän, kun sanotaan olympialaisia, että on jotkut tietyt heimot.
+Puhuja 1: Ei
+Puhuja 1: välttämättä
+Puhuja 1: ymmärretä
+Puhuja 1: kaikkia nyansseja, mutta sitten on jotkut semmoiset,
+Puhuja 1: että me kannatetaan tätä taloutta ja
+Puhuja 1: nyt me katsotaan tätä lukemaan ja meidän
+Puhuja 1: värit juhlii. Nyt että nyt noi kannattaa tuota lukemaan, mikäli oli huono. Nyt niiden värit on huonoja. Oletteko huomannut, että talouden ja työllisyydenkin ympärillä on syntynyt tällaisia
+Puhuja 1: tavallaan joukkueita,
+Puhuja 1: jotka hurraa
+Puhuja 1: täysin subjektiivisesti
+Puhuja 1: jotain omia kokemuksiaan?
+Puhuja 3: Mulla tulee ekana mieleen vaan
+Puhuja 3: tämä Ylen tekemä juttu, missä oli haastateltu
+Puhuja 3: kolme ekonomistia tähän, siis näihin kesälulukemiin liittyen. Siellä oli Aki Kangasharju.
+Puhuja 3: Oliko hän Evaa? Se on mun mielestä, onko se Etlan toimari? Etlan. Niin, siis anteeksi, Etlan. Hän tietysti oli sitä mieltä, että tämä oli vähimm mitä
+Puhuja 3: odottaa saattoi. Se vähän nyt tälleen innostui se työllisyys. Sitten oli palkansaajien
+Puhuja 3: tutkimuslaitoksen Mika mallilranta, joka sitten oli maltillisempi
+Puhuja 3: positiivisemmilla mielin tuohon, että
+Puhuja 1: Jotain hyvää aidosti on tekeillä. Just näin, että meillä on yhtäkkiä talouskeskustelijoita,
+Puhuja 1: jotka kaikki tietää nimeltä. Ja sitten niitten tavallaan...
+Puhuja 1: Kaikki.
+Puhuja 1: No jotkut
+Puhuja 1: valta...
+Puhuja 1: Onhan niitä paljon enemmän mediassa kuin viisitoista vuotta sitten yksittäisiä taloushahmoja,
+Puhuja 1: tämmösiä
+Puhuja 1: keskustelijoita,
+Puhuja 1: joitten kautta muut elää omaa talouskeskustelua.
+Puhuja 3: Harmillista se on tietysti, että ne on kaikki niitä ekonemistejä.
+Puhuja 3: Joku voisi sanoa, että siellä voisi olla vaikka joku sosiologi.
+Puhuja 1: Niin, sehän voisi ottaa aika monta erilaista tulokulmaa. Ehkä
+Puhuja 1: tässäkin joki antaa vinkin median tekijöille,
+Puhuja 1: että tätä asiaa voisi lähestyä eri tulokulmista.
+Puhuja 1: Tai Frank Martela
+Puhuja 1: paikka.
+Puhuja 1: Eikö hän ole onnellisuus tutkia?
+Puhuja 1: Joo.
+Puhuja 1: Se on hauska hahmo.
+Puhuja 3: Dikkaan Frank Martela. Ai sä diggaat? Joo.
+Puhuja 1: En tiedä, miksi. Mulla on jotenkin se,
+Puhuja 1: mä en luota häneen.
+Puhuja 1: Eiks se luota?
+Puhuja 3: Onhan sillä
+Puhuja 3: aika suopea
+Puhuja 3: ilmiasuja. Semmoinen
+Puhuja 3: fiilis. En tiedä lähtisikö hänen kanssaan Kaljalle
+Puhuja 3: välttämättä.
+Puhuja 1: En mä jaksais keskustella onnellisuudesta, että se forever.
+Puhuja 2: Mut siis onnellisuudesta tuli mieleen, että ehkä niinku tälleen sosiaalisesta näkökulmasta vaan on kiva keskustella
+Puhuja 2: jostain asiasta, joka vaikuttaa tämän puolentoista vuoden jälkeen jokseenkin positiiviselta,
+Puhuja 2: vaikka se olisikin vaan
+Puhuja 2: kesäkuun harha.
+Puhuja 1: Mutta mennään heti negatiivisuuteen,
+Puhuja 1: koska
+Puhuja 2: balanssi.
+Puhuja 1: Balanssi.
+Puhuja 1: Eräs ekonomisti nimeltään Sami Pakarinen
+Puhuja 1: ilmoitti, että eihän Suomen talous mitenkään hirveän hyvä kuitenkaan. Koska jos
+Puhuja 1: verrataan
+Puhuja 1: muihin
+Puhuja 1: Pohjoismaihin.
+Puhuja 1: Meillä
+Puhuja 1: on matalin BKT per asukas, matalin varallisuus per asukas, matalin työllisyysaste
+Puhuja 1: ja korkein rakenteellinen työttömyysaste ja niin edelleen.
+Puhuja 1: Juhlitaanko me ehkä
+Puhuja 1: vähän liian aikaisin johonkin
+Puhuja 1: tätä työllisyysasteen nousua? Me ollaan kuitenkin Suomen rutiköyhän
+Puhuja 1: maa edelleen.
+Puhuja 3: Niin, no taas tullaan tunnuslukemia.
+Puhuja 3: Viimeksi, kun
+Puhuja 3: varallisuuslukemia
+Puhuja 3: tuli sieltä Creditges
+Puhuja 3: pankin laskelmista, niin sitten tuntui, että osa hyvinkin taloustietoisisista
+Puhuja 3: ihmisistä vähän unohti niitä perusjuttuja.
+Puhuja 3: Harmitteli,
+Puhuja 3: että kuinka paljon enemmän Ruotsissa on sijoitusvarallisuutta tai ja niin poispäin.
+Puhuja 1: Eikö me voida verrata itseämme Ruotsiin?
+Puhuja 3: Niin, siinä on tietysti ne jutut, että osa
+Puhuja 3: eläkevarallisuudesta on
+Puhuja 3: kansalaisten nimissä. Jotenkin siinä vaan aikaisempaan liittyen, niin siinä huomasi, että ehkä oli vähän tarkoitushakuista
+Puhuja 3: se keskustelu osittain. Mikä se kysymys oli?
+Puhuja 1: Juuretaanko liian aikaisin? Juuretaanko me liian aikaisin kesäkuun työllisyysasteen nousua? Kyllähän tuossa älykäs
+Puhuja 3: kanta on tietysti, että aina juhlitaan liian aikaisin.
+Puhuja 3: Juhlitaan
+Puhuja 1: liian aikaisin. Tässä voi tapahtua mitä vaan. Me ei tiedetä Delta-variantistakaan
+Puhuja 1: vielä mitään. Mitä tämä kehittyy? Tuleeko meillä
+Puhuja 1: koronapassit tai muita? Kaikki nämä vaikuttaa
+Puhuja 1: tulevan vuoden talouskehitykseen
+Puhuja 1: myös.
+Puhuja 1: Onko sinulla jotain kerrottavaa tästä sun aiheesta?
+Puhuja 2: Työpaikkoja tarjolla, mutta sitten kuitenkin kun luki edes ingressi asti, niin oli silleen että okei, että on kohtaanto-ongelmaa
 Puhuja 2: ja
-Puhuja 2: kukas muu siellä on matkassa?
+Puhuja 2: ihmiset eivät löydä niitä töitä.
+Puhuja 2: Jengi on lukossa sen takia, että ne on
+Puhuja 2: lomautuksensa
+Puhuja 2: aikana ottaneet jonkun toisen työnne nyt. Ja sen takia
+Puhuja 2: on työpaikkoja,
+Puhuja 2: koska ne ovat ottaneet sen lomautuksen aikana jonkun toisen duunin, sen oikean duuninsa tilalle ja nyt ne on kiinni siinä toisessa duunissa ja sen takia on työvuorojen pulaa siellä alkuperäisessä työssä.
+Puhuja 2: Musta tuntuu, että tää perustuu kyllä jonkinlaiseen
+Puhuja 2: Harhaan.
+Puhuja 3: Joo.
+Puhuja 3: Nyt palataan niihin pitkäaikaistyöttömiin
+Puhuja 3: vielä.
+Puhuja 3: Eli budjetin
+Puhuja 3: riihessä
+Puhuja 3: pitää sitten tehdä niitä
+Puhuja 3: rakenteellisia päätöksiä.
+Puhuja 1: Jep. Aika monen mielestä pitäisi tehdä. Varsinkin varmaan nuorten mielestä,
+Puhuja 1: koska
+Puhuja 1: väistämättä
+Puhuja 1: tulee tämä huoltosuhdekriisi
+Puhuja 1: tällä vuosikymmenellä,
+Puhuja 1: mikä
+Puhuja 1: pitäisi kahdistuttaa paskat housuihin kaikilta Suomen 30-vuotiaita ja kaksikymmentä-vuotiaita, koska se
+Puhuja 1: kaatuu meidän niskaan
+Puhuja 1: ja eri
+Puhuja 1: hallituksilta ollaan odotettu niitä rakenteellisia päätöksiä.
+Puhuja 1: Miten siitä kriisistä
+Puhuja 1: jossain vaiheessa jossain määrin
+Puhuja 1: näillä vastaavilla
+Puhuja 1: hyvinvointiyhteiskunnan palveluilla tullaan
+Puhuja 1: ulos. Nämä työllisyyskysymyksethän on siinä ihan olennainen osa. Suomi tulee tarvitset työperäistä maahanmuuttoa, ja nämä kolmesataa
+Puhuja 1: nolla työtöntä pitää saada töihin.
+Puhuja 1: Pelottaako teitä?
+Puhuja 1: Takertaan johonkin kesäkuun työllisyysasteisiin,
+Puhuja 1: mutta sitten tää iso kuva, johon tekin
+Puhuja 1: olette
+Puhuja 1: matkalla työurissanne,
+Puhuja 2: se tulee vastaan. Mun mielestä me puhutaan tästä. Mun mielestä
+Puhuja 2: Mun mielestä tästä puhutaan.
+Puhuja 2: Ehkä se on hyvä, että tämmöiset asiat
+Puhuja 2: kuin
+Puhuja 2: mittaushistoriat
+Puhuja 2: sun muut herättävät ihmisiä tähän
+Puhuja 2: keskusteluun. Sitten siinä keskustelussa tulee ilmi myös
+Puhuja 2: pitkäaikaistyöttömyys
+Puhuja 2: sun muut
+Puhuja 2: tämä
+Puhuja 2: meidän kauhea
+Puhuja 2: tulevaisuus. Ja siitä aletaan puhua nyt.
+Puhuja 2: Ja
+Puhuja 2: siitä
+Puhuja 2: on ehkä hyötyä sitten jatkossa. Jookin pelottaako sua? Pelottaa.
+Puhuja 1: Mut siis
+Puhuja 1: tää huoltosuhdekriisi
+Puhuja 1: ei... Vai mikä sua? Voitko kertoa, jos sulla on muita pelkoja?
+Puhuja 3: On, kauheasti on pelkoja.
+Puhuja 3: Unihalvaus.
+Puhuja 3: Mutta ehkä just mä luotan, että syksyllä tehdään isoja
+Puhuja 3: merkittäviä päätöksiä.
+Puhuja 2: Mua pelota hirveästi. Mä oon vaan
+Puhuja 2: totaalisen silleen, että
+Puhuja 2: päin mäntyä ollaan menossa, mutta mennään. Mikä sua on viimeksi pelottanut?
+Puhuja 2: Mikäköhän homma on viimeksi pelottanut.
+Puhuja 1: Elämässä ylipäätään. Korona ei lasketa,
+Puhuja 1: koska se on jatkuvasti jäätävä pelko.
+Puhuja 2: Siis pelottaa joka kerta, kun kävellä yksin yöllä kotiin.
+Puhuja 2: Se oli aika painava. Se on painava pelko. Siis katu ei ole minun katuk yöllä.
+Puhuja 1: En edes tiedä ihan, mikä mua on pelottanut. Mua pelottaa kyllä jatkuvasti monet asiat.
+Puhuja 1: Kyllä minulla on aika vahvana pelkona huoltosuhdekriisiin.
+Puhuja 1: Se jotenkin tulee taka
+Puhuja 1: kaiken päälle.
+Puhuja 3: Siitähän sinulle palkka maksetaan, että pelkäät sitä.
+Puhuja 1: Kyllä mun maksetaan toivottavasti jostain muustakin asiasta kuin huoltosuhdekriisin
+Puhuja 1: pelkäämisestä.
+Puhuja 2: Huolta-suhdekriisin
+Puhuja 2: itse asiassa täytyy myöntää, että herätit uuden pelomussa.
+Puhuja 2: Ilmeisesti on tämmöinen asia,
+Puhuja 2: jota mun kannattaisi vähän enemmän miettiä.
+Puhuja 1: Mutta
+Puhuja 2: joista voi keskustella ja kenties pelätä, mutta joiden eteen voi kenties tehdä myös muutoksia, joihin voi vaikuttaa. Loistava loppukaneetti. Erinomainen loppukaneetti.
+Puhuja 1: Hei, sitten mennään kaikkiin suosikkiasioihin,
+Puhuja 1: eli suositteluihin.
+Puhuja 1: Hilla aloitan, mitä suosittelet meille?
+Puhuja 2: Mulla on kaksosista.
+Puhuja 2: Okei. Toinen niistä on koronaystävällinen,
+Puhuja 2: joka liittyy oman kännykän tuijottamiseen. Se on Katriina Pajarin Instagram
+Puhuja 2: tällä hetkellä. Helsingin Sanomien toimittaja Katriina Pajari on Tokiossa ja seuraa siellä olympialaisia.
+Puhuja 2: Sieltä sen Instagramista, joka on itse asiassa nythän voisin katsoa, että mikä se on. Se on mun mielestä vaan Katriina
+Puhuja 1: Onko se tykkäikämaa?
+Puhuja 2: Katriina
+Puhuja 2: Hän
+Puhuja 2: on Bechignd the scenes kamaa
+Puhuja 2: Sami Keron
+Puhuja 2: ja kukas muu siellä on matkassa.
 Puhuja 2: Sami Kero on
 Puhuja 2: valokuvaaja
 Puhuja 2: ja Ari Pusa Toinen toimittaja.
 Puhuja 2: He siellä ovat Tokiossa ja sieltä näkee
-Puhuja 2: kaikenlaista behind the scenscamaa.
-Puhuja 0: Mikä on ollut kiinnostavinta tässä behind of scenscamassa viimeksi?
-Puhuja 2: Eilen Katriina soitteli jotain pianoa jossain,
-Puhuja 2: kirjoittaa niitä juttuja, haastatella ne ihmiset käydä keikoilla ja katsoa
-Puhuja 2: niitä otteluita sun muita. Ja sit vielä instaa näin paljon. Suosittelen kyllä.
-Puhuja 2: Sitä on myös nostettu mun mielestä siinä HS:n omassa instanssa. Mikä tää toinen suositus oli? Toinen suositus on taika. Tiedättekö te mikä se on? Onks se semmonen
-Puhuja 2: kauppa? Ei.
-Puhuja 2: Taika on siis Linnanmäen
-Puhuja 2: laitetaika
-Puhuja 2: pettynyt.
-Puhuja 2: Menkää taikaan.
-Puhuja 2: Älkää huutako niin aerosoli, tein leviä.
-Puhuja 2: Mut siis taikassa pitää käydä kerran kesässä ja sinne kannattaa mennä sen jälkeen kun koulut on alkanut. Ne alkaa vissiin ensi viikolla.
-Puhuja 2: Silloin on vähän vähemmän ihmisiä, koska lapset on poistanut kesälomilta.
-Puhuja 2: Mut mä en oo ite vielä käynyt. Eilen yritin mennä, mutta käännyin pois, koska olin niin paljon ihmisiä enkä jaksanut jonottaa. Sä oot suositellut sitä, mutta et ole itse käynyt. Joo, viime kesänä kävi. Mä en tänä kesänä vielä käynyt, mutta suosittelen
-Puhuja 1: Mä kävin viime kesänä ja mulle selvisi, että ne videoi
-Puhuja 1: niitten vaunujen
-Puhuja 1: matkustajien reaktiot ja ne näkyy siellä jälkeenpäin.
-Puhuja 1: Tein itseni ihan naurunalaiseksi.
-Puhuja 2: Se tekee
-Puhuja 1: Tekee vaan! Pelkäsin ja huusin.
-Puhuja 0: Okei, mä luulen, että tässä on jotain vakavampaa.
-Puhuja 1: Ajattelet, että huhhuh!
-Puhuja 0: Okei, mun pitäis sä juokin suosittelen meidän katsojille.
-Puhuja 1: Mulla on vähän kuivakan kuuloinen suositus. En tiedä kenen mielestä kuivakka, kenen ei. Tämmöinen
-Puhuja 1: mestarillinen
-Puhuja 1: feature
-Puhuja 1: henkilökuva
-Puhuja 1: japanilaisesta
-Puhuja 1: baseball-pelaajasta
-Puhuja 1: nimeltä
-Puhuja 1: Ichiro-Susuki.
-Puhuja 1: En tiedä lausuinko oikein.
-Puhuja 1: Liittyen siis tähän
-Puhuja 1: tuohon teemaan, mitä käsiteltiin
-Puhuja 1: urheilijoiden
-Puhuja 1: henkisestä puolesta.
-Puhuja 1: Tässä
-Puhuja 1: henkilöjutussa käsitellään
-Puhuja 1: Izzy Rosutkin
-Puhuja 1: henkilötarinaa.
-Puhuja 1: Siinä käydään läpi, että hyvin perinteinen, tai
-Puhuja 1: R esimerkki tämmöisestä perinteisestä
-Puhuja 1: urheiluperhe kasvatuksesta.
-Puhuja 1: Isä on päättänyt jo pienenä, mitä
-Puhuja 1: Susukista tulee isona ja se on baseball tähti hyvin
-Puhuja 1: raa'alla kädellä on häntä sitten koulinut
-Puhuja 1: tällä
-Puhuja 1: tiellä. Hän on nyt sitten
-Puhuja 1: uraansa
-Puhuja 1: ehtoapuolella.
-Puhuja 1: Ei oikein tiedä enää, että mitä tekisi sitten, kun se ammattilaisura päättyy, koska identiteetti
-Puhuja 1: määrittyy niin vahvasti sen
-Puhuja 1: urheilun kautta.
-Puhuja 1: Siinä sitten mietitään Susykin kanssa, että miten tästä eteenpäin.
-Puhuja 1: Se on loistavasti kirjoitettu
-Puhuja 1: juttu.
-Puhuja 1: Tietysti
-Puhuja 1: pätee aika moneen myös baseballin ja urheilun ulkopuolella, kun on tavallaan
-Puhuja 1: omistautunut jollekin asialle
-Puhuja 1: epäinhimillisen
-Puhuja 1: vahvasti
-Puhuja 1: vuosikaudet?
-Puhuja 1: Mitä se tekee
-Puhuja 1: identiteetille ja
-Puhuja 1: henkiselle
-Puhuja 1: puolelle?
-Puhuja 0: Identiteetoidu
-Puhuja 0: te
-Puhuja 0: vahvasti toimittajiksi? Elättekö teidän vapaa-aikaan myös oman toimittajuuden
-Puhuja 2: kysyttiin tämä, että mikä teistä olisi tullut. Jos teistä ei
-Puhuja 2: olisi tullut toimittajia. Olin ihan, että onko
+Puhuja 2: kaikenlaista behind the sinskaamaan.
+Puhuja 1: Mikä on ollut kiinnostavinta tässä behind of sinsgomassa viimeksi?
+Puhuja 2: Eilen Katriina soitteli jotain pianoa jossainkin
+Puhuja 2: soitti kissanpolkkaa jossain
+Puhuja 2: niinku osakas, mun nekin matkusti jonnekin. Mut siis Katriina on superaktiivinen
+Puhuja 2: Instagramissa. Mä en tiedä niinku miten se ehti
+Puhuja 2: kirjoittaa niitä juttuja, haastatella ne ihmiset käydä keikoilla, katsoa
+Puhuja 2: niitä otteluita sun muita ja sit vielä instaa näin paljon. Suosittelen
+Puhuja 2: kyllä. Sitä on myös nostettu mun mielestä siinä HS:n omassa instanssa. Mikä tää toinen suositus oli? Toinen suositus on taika. Tiedättekö te mikä se on? Onks se semmonen
+Puhuja 1: kauppa?
+Puhuja 1: Ei. Taika
+Puhuja 2: on siis. Luontojuttu.
+Puhuja 2: Linnanmäen laitetaika.
+Puhuja 2: Menkää.
+Puhuja 2: Menkää taikaa.
+Puhuja 2: Älkää huutako niin aerosoli, ettei leviä.
+Puhuja 2: Mut taikassa pitää käydä kerran kesässä
+Puhuja 2: ja sinne kannattaa mennä sen jälkeen, kun koulut on alkanut. Ne alkaa vissiin ensi viikolla.
+Puhuja 2: Silloin on vähän vähemmän ihmisiä, koska lapset on poistunut kesälomilta.
+Puhuja 2: Mutta mä en ole itse vielä käynyt. Eilen yritin mennä, mutta käännyin pois, koska olin niin paljon ihmisiä enkä jaksanut jonottaa. Sä suositut sitä, mutta et ole itse käynyt. Joo, viime kesänä kävi. En tänä kesänä vielä käynyt, mutta suosittelen
+Puhuja 3: Mä kävin viime kesänä ja sitten mulle selvisi, että ne videoi
+Puhuja 3: niitten vaunujen
+Puhuja 3: matkustajien reaktiot ja ne näkyy jälkeenpäin.
+Puhuja 3: Tein itseni ihan naurunalaiseksi.
+Puhuja 3: Mä
+Puhuja 3: Pelkätin ja huusin.
+Puhuja 1: Okei, mä luulen, että tässä on jotain vakavampaa. Ajattelet,
+Puhuja 1: että huhhuh.
+Puhuja 1: Okei, no mun pitäis sä johonkin suosittelen, että meidän katsojille.
+Puhuja 3: Mulla on vähän kuivakan kuuloinen suositus. En tiedä kenen mielestä kuivakka, kenen ei.
+Puhuja 3: Tämmöinen mestarillinen
+Puhuja 3: feature-henkilökuva
+Puhuja 3: japanilaisesta
+Puhuja 3: baseball
+Puhuja 3: pelaajasta nimeltä Ichiro-Susuki.
+Puhuja 3: En tiedä lausuinko oikein.
+Puhuja 3: Liittyen siis tähän tuohon teemaan, mitä käsiteltiin
+Puhuja 3: urheilijoiden
+Puhuja 3: henkisestä puolesta.
+Puhuja 3: Tässä
+Puhuja 3: henkilöjutusta käsitellään
+Puhuja 3: Isi Rosutkin
+Puhuja 3: henkilötarinaa.
+Puhuja 3: Siinä käydään läpi, että hyvin perinteinen, R
+Puhuja 3: esimerkki tämmöisestä perinteisestä
+Puhuja 3: urheiluperhe kasvatuksesta.
+Puhuja 3: Isä on
+Puhuja 3: päättänyt jo pienenä, mitä
+Puhuja 3: Susukista tulee isona, ja se on baseball tähti hyvin
+Puhuja 3: raa'alla kädellä on häntä sitten koulinut
+Puhuja 3: tällä
+Puhuja 3: tiellä. Hän on nyt
+Puhuja 3: sitten uraansa
+Puhuja 3: ehtoapuolella.
+Puhuja 3: Ei oikein tiedä enää, että mitä tekisi sitten, kun se ammattilaisvuoro
+Puhuja 3: päättyy, koska identiteetti
+Puhuja 3: määrittyy niin vahvasti
+Puhuja 3: sen
+Puhuja 3: urheilun kautta.
+Puhuja 3: Siinä sitten mietitään Susykin kanssa, että miten tästä eteenpäin. Se on loistavasti kirjoitettu
+Puhuja 3: juttu.
+Puhuja 3: Tietysti
+Puhuja 3: pätee aika moneen myös baseballin
+Puhuja 3: urheilun ulkopuolella, kun on
+Puhuja 3: tavallaan omistautunut
+Puhuja 3: jollekin asialle
+Puhuja 3: epäinhimillisen
+Puhuja 3: vahvasti
+Puhuja 3: vuosikaudet?
+Puhuja 3: Mitä se tekee identiteetille
+Puhuja 3: ja
+Puhuja 3: henkiselle
+Puhuja 3: puolelle?
+Puhuja 1: Identiteetrifioidutteko
+Puhuja 1: te vahvasti toimittajiksi? Elättekö teidän vapaa-aikaan myös oman toimittajuuden kautta?
+Puhuja 2: Minulta
+Puhuja 2: kysyttiin tämä, että mikä teistä olisi tullut. Jos teistä ei olisi
+Puhuja 2: tullut toimittajia. Ja olin ihan, että onko
 Puhuja 2: toimittaja
 Puhuja 2: tässä.
 Puhuja 2: Vaikka olen täällä ollut töissä yli kaksi vuotta.
-Puhuja 0: Mitä te teit ennen sitä?
-Puhuja 2: Olin opiskelija. Tein tätä podcastiasi.
+Puhuja 1: Mitä teit ennen sitä?
+Puhuja 2: Olin opiskelija. Ja tein tätä podcastiasi.
 Puhuja 2: Sanoisin, että en identifioidu
 Puhuja 2: vahvasti.
 Puhuja 2: Muut asiat
-Puhuja 2: ovat osa mun identiteettiä. Mun mielestä identiteetti on seuraa jotenkin fluidikäsit,
-Puhuja 2: että se muuttuu aina vähän sen ympäristön mukaan. Tietysti
+Puhuja 2: ovat osa mun identiteettiä.
+Puhuja 2: Mun mielestä identiteetti on seuraa jotenkin fluidikäsit, että se muuttuu aina vähän jotenkin sen ympäristöön mukaan. Tietyt
 Puhuja 2: asiat korostuu. Nyt tässä ehkä hetkessä korostuu se mun toimittajaidentiteetti,
 Puhuja 2: mutta siinä vaiheessa, kun mä oon jossain
-Puhuja 2: taiikassa, niin sitten korostuu joku toinen toisenlainen.
-Puhuja 1: Huutojan niitä. Jos mä en olisi ollut,
-Puhuja 1: Jos mä olisin jotain muuta, niin mä olisin ravintolakriitikko,
-Puhuja 1: joka arvostelee pelkästään huonoja annoksia, koska se oli mun intohimo pienenä lukea semmosia hyvin
-Puhuja 1: peilaavia
-Puhuja 1: ravintola-arvioita.
-Puhuja 1: Muutenkin siis kaikista eineslihapullista,
-Puhuja 1: jossa oli lehdessä joku tämmönen. Se oli
-Puhuja 0: mielenkiintoinen
-Puhuja 1: se kielellinen ilottelu.
-Puhuja 1: Oli siinä sellaista vallankäyttöä tietysti myös, mikä
-Puhuja 1: veti puoleensa silloin viisi-kuusi-seitsemän
-Puhuja 1: vuotiaana.
-Puhuja 1: Just semmoinen eineslihapullien
-Puhuja 1: ilkeämielinen
-Puhuja 1: kryytikko
-Puhuja 1: musta olisi ehkä tullut. Kun se on kamalalta.
-Puhuja 0: Niin.
-Puhuja 0: Mä en tajun sua. Mutta en identifioidu
+Puhuja 3: Jos mä olisin jotain muuta, niin mä olisin ravintolakriitikko,
+Puhuja 3: joka arvostelee pelkästään huonoja annoksia, koska se oli mun intohimo pienenä lukea semmosia hyvin
+Puhuja 3: peilaavia ravintola-arvioita.
+Puhuja 3: Muutenkin siis kaikista eineslihapullista,
+Puhuja 3: jos oli lehdessä joku tämmönen. Se oli
+Puhuja 1: hivenen
+Puhuja 3: melkein ihminen. Se oli kiehtova se kielellinen ilottelu.
+Puhuja 3: Oli siinä sellaista vallankäyttöä tietysti myös, mikä
+Puhuja 3: veti puoleensa silloin viisi-kuusi-seitsemän
+Puhuja 3: vuotiaana.
+Puhuja 3: Just semmonen einsvihapullien
+Puhuja 3: ilkeämielinen
+Puhuja 3: kriititikko
+Puhuja 3: musta se ehkä tullut. Kun sä kamalalta.
+Puhuja 1: Niin. Mä en
+Puhuja 1: tajun sua.
+Puhuja 2: Mutta en identifioidu
 Puhuja 2: työni kautta.
-Puhuja 0: Okei.
-Puhuja 0: Mulla on kyllä tosi vahva. Mutta se voi olla tosi vahva. Mitä mä olen nyt? Olen kolmekymmentäneljä. Olen kuusitoista vuotta tehnyt duunikseni
-Puhuja 0: toimittajan hommia.
-Puhuja 0: Siitä on niin, etten osaa enää kuvitellakaan, tekisin jotain muuta. Jos pääsen illalla himaan, teen ihan samoja juttuja kuin tein duunissakin.
-Puhuja 0: Juokkimistuu mun viereen. Eihän mulla ole mitään duunia aikaa. Toi kuulostaa ihan kamalaa, että en tajua sua. Niin, se on kamalaa. Oisko kiva, jos se olisi päästä irti? Ehkä menen virkavapaalla paljon. Joskus se jää munkaan eineslihapulliin.
-Puhuja 1: Mietitään sitten uudestaan.
-Puhuja 0: Joo. Mut ai niin, mun piti vielä suositella jotain.
-Puhuja 0: Jos kysyn, niin sitten mä itse unohdan
-Puhuja 0: kysy itseltäni.
-Puhuja 0: Suosittelen. Tulen varmaan vuosia myöhässä, mutta luen semmoista kirjaa. Olen ihan kaksi viimeistä sivua jäljellä kuin Suomi Billi laulu, mikä tuli joskus kaksi, kolme vuotta sitten.
-Puhuja 0: Jenkeissä eläintieteilijä.
-Puhuja 0: Kirjoittanut esikoisromaaninsa
-Puhuja 0: 72-vuotiaana.
-Puhuja 0: Oletteko lukenut?
-Puhuja 1: En ole. Olen kuullut. Joo.
-Puhuja 0: Siitä tuli bestseller
-Puhuja 0: jenkeissä.
-Puhuja 0: En osaa oikein sanoa, miksi se on tosi siisti kirja.
-Puhuja 0: Mulla tuli pitkästä aikaa Mä luen aika paljon.
-Puhuja 0: Pyrin lukemaan 50-seitsemänkymmentä
-Puhuja 0: kirjaa vuodessa. Se on semmoinen tavoite.
-Puhuja 0: Mulla tuli pitkästä aikaa, ensimmäistä kertaa kahteen kolmeen vuoteen,
-Puhuja 0: että vau. Että vitsi, miten hyvää
-Puhuja 0: lausetta. Eikä silleen kuin jotkut suomalaiset. Esimerkiksi Riku Korhosen kirjassa on maailman kaunein lause, mutta sitä edeltää
-Puhuja 0: seitsemän-kahdeksan
-Puhuja 0: sivua vähän toistoa. Tuossa on koko ajan kaunista lausetta.
-Puhuja 2: Luitko sitä
-Puhuja 0: alkuperäiskielellä? En, luen sitä suomeksi.
-Puhuja 0: Katen Book Beaatista löysin sen
-Puhuja 0: Voinko mainostaa Book Beaat-eumission
-Puhuja 0: aina merira?
+Puhuja 1: Okei.
+Puhuja 1: Mulla on kyllä tosi vahva. Mutta se voi joskus olla tosi tosi vahva. Olen ollut... Mitä mä olen nyt? Olen kolmekymmentäneljä. Olen kuusitoista vuotta tehnyt duunikseni
+Puhuja 1: toimittajan hommia.
+Puhuja 1: Se on jotenkin silleen, etten osaa enää
+Puhuja 1: kuvitellakaan, kun tekisin jotain muuta. Jos pääsen illalla himaan, teen ihan saman jutun kuin tein duunissakin.
+Puhuja 1: No juokki, mistä tuu mun viereen. Eihän mulla ole mitään duunia aikaa. Toi kuulostaa ihan kamalaa, että en tajua sua. Niin, se on kamalaa. Olisi kiva, jos se olisi päästä irti. Ehkä menen virkavapaalla. Joskus se ja mä munkaan eineslihapullia.
+Puhuja 3: Mietitään sitten uudistaa.
+Puhuja 1: Joo. Mut ai niin, mun piti vielä suositella jotain.
+Puhuja 1: Jos kysyn, niin sitten itse unohdan
+Puhuja 1: kysyä itseltäni.
+Puhuja 1: Suosittelen. Tulen varmaan vuosia myöhässä, mutta luen semmoista kirjaa. Olen ihan kaksi viimeistä sivua jäljellä kuin Suomi Billi laulu, mikä tuli joskus kaksi-kolme vuotta sitten.
+Puhuja 1: Jenkeissä eläintieteilijä.
+Puhuja 1: Kirjoittanut esikoisromaaninsa
+Puhuja 1: 72-vuotiaana.
+Puhuja 1: Oletteko lukenut?
+Puhuja 3: En ole. Olen kuullut. Joo.
+Puhuja 1: Siitä tuli bestseller
+Puhuja 1: jenkeissä.
+Puhuja 1: En osaa oikein sanoa, miksi se on tosi siisti kirja.
+Puhuja 1: Mulla tuli pitkästä aikaa... Mä luen aika paljon. Pyrin
+Puhuja 1: lukemaan kirjaa
+Puhuja 1: vuodessa. Se on tavoite.
+Puhuja 1: Mulle tuli pitkästä aikaa, ensimmäistä kertaa kahteen, kolmeen vuoteen,
+Puhuja 1: että vau.
+Puhuja 1: Vitsi, miten hyvää
+Puhuja 1: lausetta. Eikä silleen kuin jotkut suomalaiset. Riku Korhosen kirjassa on maailman kaunein lause, mutta sitä edeltää
+Puhuja 1: seitsemän-kahdeksan
+Puhuja 1: sivua vähän toistoa. Tuossa on koko ajan kaunista lausetta.
+Puhuja 2: Luetko sitä
+Puhuja 1: alkuperäiskielellä? En, luen sitä suomeksi.
+Puhuja 1: Katoin Book Beaatista löysin sen.
+Puhuja 1: Voinko mainostaa Book Beaat enenevissä aina Meralaa?
 Puhuja 2: Älä sano enempää.
-Puhuja 0: En muista, mistä luin.
-Puhuja 0: Sitä mä suosittelen ihmisille. Siinä on poikkeuksellisen kaunis kirja.
-Puhuja 0: 72-vuotias
-Puhuja 0: esikoiskirja oli aina hyvä
-Puhuja 2: tarina. Yksi, mikä tuli mieleen tässä, on, että mitä olisin voinut kanssa suositella, on että lukee uudestaan niitä kirjoja, jotka piti joskus lukiossa lukea. Mä luin, että Sonja Åkevi täällä uudestaan, joka on mun mielestä ollut jollain äidinkielen kirja listalla joskus.
+Puhuja 1: En muista, mistä luin.
+Puhuja 1: Sitä suosittelen ihmisille. Siinä on poikkeuksellisen
+Puhuja 1: kaunis kirja.
+Puhuja 1: Seitsemänkymmentäkaksivuotias esikoiskirjailija on aina hyvä
+Puhuja 2: tarina. Yksi, mikä tuli mieleen tässä, on, että mitä olisin voinut kanssa suositella, on lukee uudestaan niitä kirjoja, jotka piti joskus lukiossa lukea. Mä luin, että Sonja Åkevi täällä uudestaan, joka on mun mielestä ollut jollain äidinkielen kirja listalla joskus.
 Puhuja 2: En
 Puhuja 2: muista luin, miksi mä sen kouluaikoina varmaan luin.
-Puhuja 2: Se on jotenkin kiinnostunut, miten eri tavalla lukee niitä samoja lauseita ja tekstejä, mitkä on lukenut aikaisemmin joskus. Mutta ehkä pitää olla tämä
+Puhuja 2: Se on jotenkin kiinnostavaa, miten eri tavalla lukee niitä samoja lauseita ja tekstejä, mitkä on lukenut aikaisemmin joskus.
+Puhuja 2: Mutta ehkä pitää olla tämä
 Puhuja 2: informaatiotulva
-Puhuja 2: niin mahdoton, että palatakseen johonkin vanhaan, jotta voi
-Puhuja 2: tarvita sellaisen pienen sisäänyksen.
-Puhuja 1: Sysäyksen. Toi olisi kyllä itselle yleisölle hyvä toimeksianto, että lukisi ne Orvellit
-Puhuja 1: uudestaan.
-Puhuja 0: Mä väitän, että kukaan ei ole lukenut koskaan Orvelleistä.
+Puhuja 2: niin mahdoton, että palatakseen johonkin vanhaan. Saattaa tarvita
+Puhuja 3: sellaisen pienen sisaryksen. Tai olisi kyllä Twitter-yleisölle hyvä toimeksianto, että lukiisi ne Orvellit
+Puhuja 3: uudestaan.
+Puhuja 1: Laita, jos kukaan niistä ei ole lukenut koskaan Orvellit.
 Puhuja 2: Ei, mutta
-Puhuja 0: niistä, jotka käyttää
-Puhuja 0: sitä tuhat yhdeksänsataakahdeksankymmentäneljä:n
-Puhuja 0: esimerkkinä kaikesta maailman tapahtumasta.
-Puhuja 0: Mutta hei, siinä varmaan kaikki tällä kertaa. Meillä ei enää mitään sanottavaa tähän. Kiitos Hilla Kökkö. Kiitos.
-Puhuja 0: Kiitos Joa King Westerinen dool. Kiitos.
-Puhuja 0: Ja äänen ja kuvantarjoustajana
-Puhuja 0: Janne Elke. Kiitos Janne.
-Puhuja 0: Ja eipä mitään.
-Puhuja 0: Palataan ensi viikolla.
+Puhuja 1: niistä, jotka käyttää sitä tuhat yhdeksänsataakahdeksankymmentäneljä
+Puhuja 1: esimerkkinä kaikesta maailman tapahtumasta.
+Puhuja 1: Mutta hei,
+Puhuja 1: siinä varmaan kaikki tällä kertaa. Meillä ei enää mitään sanottavaa tähän.
+Puhuja 1: Kiitos Hilla Kökkö.
+Puhuja 1: Kiitos Joakin Västrend-Dol.
+Puhuja 3: Kiitos.
+Puhuja 1: Ja äänen ja kuvantarjoosta
+Puhuja 1: tänään Janne Elk. Kiitos Janne.
+Puhuja 1: Ja eipä mitään. Palataan ensi viikolla.
+Puhuja 2: Helsingin Sanomat
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

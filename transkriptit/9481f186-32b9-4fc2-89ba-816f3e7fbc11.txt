@@ -1,251 +1,459 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina
-Puhuja 0: viisisataakaksitoista.
-Puhuja 0: Vuonna kaksituhatta kaksikymmentäneljä.
-Puhuja 0: Nimeni on Anna-Sofia Berneri ja kanssani täällä
-Puhuja 0: Helsingin Sanomien
-Puhuja 0: väliaikaisessa
-Puhuja 0: hyvin riisutuksi
-Puhuja 0: käyvässä podcast-studiossa
-Puhuja 0: Sanomatalon viidennessä kerroksessa.
-Puhuja 0: Helsingissä,
-Puhuja 0: Uudellamaalla, Suomessa ja Euroopassa on
-Puhuja 1: Helsingin Sanomien politiikan toimittaja Marko Junkkari. Mutta onhan pitää Anna-Sofia Bernner eli
-Puhuja 0: Ystävien kesken sohvi. Noniin, hei sohvi. Hei Marko,
-Puhuja 0: mitä itsenäisyys sinulle merkitsee?
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 2: podcastiin
+Puhuja 2: torstaina viisisataakaksitoista.
+Puhuja 2: Vuonna kaksituhatta
+Puhuja 2: kaksikymmentäneljä. Nimeni on Anna-Sofia Berneri ja kanssani täällä
+Puhuja 2: Helsingin Sanomien
+Puhuja 2: väliaikaisessa
+Puhuja 2: hyvin riisutuksi
+Puhuja 2: käyvässä podcast-studiossa
+Puhuja 2: sanomatalon viidennessä kerroksessa
+Puhuja 2: Helsingissä, Uudellamaalla, Suomessa ja Euroopassa on
+Puhuja 2: Helsingin Sanomien politiikan toimittaja Marko Junkkari.
+Puhuja 1: Mutta onhan pitää Anna-Sofia Berner eli... Ystävien kesken sohvi. No niin. Hei sohvi. Hei Marko. Mitä
+Puhuja 2: itsenäisyys sinulle merkitsee?
 Puhuja 1: Olin kahtena vuonna aikoinaan raportoimassa
-Puhuja 1: linnassa
-Puhuja 1: Helsingin Sanomille
-Puhuja 1: ja minä en olin naurattaa tuo kysymys, mutta kyllä huomasin, että hätäpäissäni ja itselleni sitä itsekin näille vieraille siellä videolla.
+Puhuja 1: linnassa Helsingin Sanomille.
+Puhuja 1: Minä en oli naurattaa tuo kysymys, mutta kyllä huomasin, että hätäpäissäni
+Puhuja 1: ja itselleni sitä itsekin näille vieraille siellä videolla.
 Puhuja 1: Se merkitsee minulle hyvin paljon.
-Puhuja 0: Ja studiossa
-Puhuja 0: on myös kollegani Faatoure-toimituksesta
-Puhuja 0: Tommi Nieminen. Hei Tommi. Hei sohvi, ihanaa olla täällä. Mukavaa kun pääsit. Mitä itsenäisyys sinulle merkitsee Tommi Nieminen? No minulla on
-Puhuja 2: vaikea ja ristiriitainen suhde itsenäisyyteen,
-Puhuja 2: että tietenkin olen hyvin suomalainen
-Puhuja 2: ja hyvin iloinen, että meillä
-Puhuja 2: on itsenäisyys mutta olen aina
-Puhuja 2: jossain määrin
-Puhuja 2: myös haikaillut jonkinlaisen kalmariunionin
-Puhuja 2: perään.
-Puhuja 2: Ja tämä ei ole edes ihan pelkkä
-Puhuja 2: vitsi
-Puhuja 2: vaan näkisin, että pelkästään
-Puhuja 2: jo Kalmariunionin
-Puhuja 2: jalkapallojoukkue
-Puhuja 2: maajoukkue olisi niin järjettömän
-Puhuja 2: kova, että jo sen takia kannattaisi harkita
-Puhuja 2: mutta kyllä mä olen ihan ylpeästi myös suoraan. Toi Kaumariuni on kyllä.
-Puhuja 1: Siis Suomi, Ruotsi ja siis
-Puhuja 1: Norja ei olisi mekänä.
-Puhuja 2: Tanska ainakin olisi. Suomi, Ruotsi, Tanska olisi muuten kova.
-Puhuja 0: Meidän taloushuolet häipyisi saman tien kuin päästäisi Ruotsin ja Tanskan talouteen. Niin. Marc
-Puhuja 1: Sil. Tämä
-Puhuja 1: on nonfiction kirja ja kertoo kummise tämän elokuvan
-Puhuja 1: tekemisestä.
-Puhuja 1: Ja
-Puhuja 1: erittäin huolella tehty, että siellä kerrotaan
-Puhuja 1: Koholo
-Puhuja 1: oli hyvin nuori ohjaaja ja Kokkolan taistelusta elokuvan puolesta.
-Puhuja 1: Marjo Puussoisen kirjankirjoittaja,
-Puhuja 1: hän kerrotaan
-Puhuja 1: hänen elämäntarinansa ja Koppolan. Ja sitten tämä täydellisen
-Puhuja 1: kaaosmainen,
-Puhuja 1: en
-Puhuja 1: ole vielä ehkä puolivälissä kirjaa ja vielä ei olla päästy edes kuvausvaiheeseen,
-Puhuja 1: mutta pelkästään se tappelu, jossa siitä
-Puhuja 1: ketä näyttelijöitä
-Puhuja 1: elokuvaa tulee esiintymään.
-Puhuja 1: Tuottaja ja
-Puhuja 1: elokuvayhtiö
-Puhuja 1: ja kaikki
-Puhuja 1: olivat yksimielisesti sitä mieltä, että
-Puhuja 1: myös elokuvalehdistö
-Puhuja 1: ja kaikki, että kaikkein huonoin valinta
-Puhuja 1: Don Core Levanieos ja Bartolo Brando, joka on
-Puhuja 1: uraani pahasti laskusuunnassa.
-Puhuja 1: Ja Me pidettiin täydellisenä katastrofina, joka tuhoaa elokuvan.
-Puhuja 1: Mutta sitten oveluudella ja ketteryydellä kappale onnistui
-Puhuja 1: uittamaan sen Brandon.
-Puhuja 1: Brandon ongelmahan oli vielä se, että hän oli aika moni känkkäränkkää.
-Puhuja 1: Hän oli juuri tuonut aika monta elokuvaa, kun hän oli ollut niin hankala.
-Puhuja 1: Mutta kaikki muutkin nämä hahmot.
-Puhuja 1: Alpa Sino,
-Puhuja 1: hän oli tuntematon,
-Puhuja 1: ei lähde edes nuori, 30-vuotias, mutta
-Puhuja 1: ei ollut tehnyt juurikaan
-Puhuja 1: elokuvia, jonkun oli tehnyt, että oli esiintynyt lähinnä teatterissa
-Puhuja 1: ja aina oli
-Puhuja 1: täydellisen nimetön
-Puhuja 1: hahmo ja se elokuvayhtiö
-Puhuja 1: ja tuottaja oli aivan järkyttyneitä kun koppala rupesi vaatimaan, että Alban Cina pitää saada
-Puhuja 1: käytännössä pääosaan.
-Puhuja 1: Todella kiehtovaa
-Puhuja 1: tarina täynnä yksityiskohtia.
-Puhuja 0: Mikä sinun suosikkisita
-Puhuja 1: on? Kakskonen.
-Puhuja 1: Mutta kyllä se ykkönenkin on, ansiokin hieno.
-Puhuja 2: Mites Tommi?
-Puhuja 2: Mä
-Puhuja 2: olen rakentanut itselleni
-Puhuja 2: sellaisen juoksuradan
-Puhuja 2: itsenäisyyspäiväksi.
-Puhuja 2: Ihan ensimmäiseksi mä laitan aamulla
-Puhuja 2: tai siis mua harmittaa ensinnäkin, että mä en saanut tänäkään vuonna kutsua Linnan juhliin. Terveisiä
-Puhuja 2: vaaleksille.
-Puhuja 2: Junkkarikin
-Puhuja 2: on kutsuttu ja ei oo vieläkään tullut.
-Puhuja 2: Mutta sen takia, koska kutsua ei tullut, mä laitan aamulla semmoiset Martti Serwet Nabander
-Puhuja 2: Peruukin ja viikset
-Puhuja 2: ja tota meen sinne
-Puhuja 2: kuusi pilkku viisi Marsille että ne tietävät valmiiksi,
-Puhuja 1: tulossa ollaan, nähdään siellä. Vai miksi
-Puhuja 1: sinulla on se peruukki? No ihan turvallisuussyistä
-Puhuja 2: ja sitten tota
-Puhuja 2: sen jälkeen ajattelin mennä
-Puhuja 2: Oodiin
-Puhuja 2: koska siellä ei ole pelkästään Sinimustan liikkeen lukupiiri vaan viimeisten tietojen mukaan siellä on myös vasemmistonuorten
-Puhuja 2: vastalukupiiri
-Puhuja 2: ja siis siitähän tulee ihan mahtava
-Puhuja 1: näytelmä. Oliko se päivä vai eikö se lukupiiri päivällä ja marssi on illalla?
-Puhuja 1: Onko se niin päin? No sitten teen toisinpäin.
-Puhuja 2: Mutta siinä välissä vielä, siis lukupiirin
-Puhuja 2: ja Marssin välissä
-Puhuja 2: klo kuusitoista on se päivän ainoa
-Puhuja 2: oikeasti poliittinen
-Puhuja 2: tilaisuus.
-Puhuja 2: Nämä
-Puhuja 2: äärioikeisto ja vasemmistonuorten jutut ovat mehujuttuja. Kello kuusitoista
-Puhuja 2: muistaakseni
-Puhuja 2: Hakaniemen
-Puhuja 2: torilla on Hurstin
-Puhuja 2: itsenäisyyspäivän
-Puhuja 2: vastaanotto, joka on oikeasti
-Puhuja 2: poliittinen tilaisuus ja sinne kannattaa mennä. Mulla meni vähän kylmät väreetkos.
-Puhuja 1: Ja sitten siinä minun mielestä
-Puhuja 1: siellä
-Puhuja 1: tuolla Paasitornissa
+Puhuja 2: Ja studiossa
+Puhuja 2: on myös kollegani Feature-toimituksesta
+Puhuja 2: eli Tommi Nieminen. Hei Tommi. Hei sohvi, ihanaa olla täällä. Mukavaa kun pääsit.
+Puhuja 2: Mitä itsenäisyys sinulle merkitsee Tommi Nieminen?
+Puhuja 3: No minulla on
+Puhuja 3: vaikea ja ristiriitainen suhde itsenäisyyttä.
+Puhuja 3: Olen tietenkin
+Puhuja 3: hyvin suomalainen
+Puhuja 3: ja hyvin iloinen, että meillä on periaatteessa, tai hyvin iloinen periaatteessa, että meillä on itsenäisyys mutta olen aina
+Puhuja 3: jossain määrin myös haikaillut
+Puhuja 3: jonkinlaisen kalmariunionin
+Puhuja 3: perään.
+Puhuja 3: Ja tämä ei ole edes ihan pelkkä
+Puhuja 3: vitsi
+Puhuja 3: vaan näkisin, että pelkästään jo
+Puhuja 3: Kalmariunionin
+Puhuja 3: jalkapallojoukkue
+Puhuja 3: maajoukkue olisi niin järjettömän kova, että jo sen takia kannattaisi harkita sitä, mutta kyllä olen ihan ylpeästi myös Suomeen. Tuo kaumari-unialla on kyllä,
+Puhuja 1: siis Suomi, Ruotsi
+Puhuja 1: ja Norja ei olisi mekenä, mutta tankaa ainakin olisi. Suomi, Ruotsi, tanska olisi muuten kova. Meidän taloushuolet häipyisi saman tien kun päästäisi Ruotsin ja Tanskan talouteen. Niin. Siinä olisi monia etuja. Kyllä. Tuomas
+Puhuja 2: Peltomäki on kertausharjoituksissa.
+Puhuja 2: En malta odottaa millaisia inttitarinoita me saadaan ensi
+Puhuja 2: viikolla kuulla.
+Puhuja 1: Ja parastahan on se, että isänmaa on kyllä hyvissä käsissä.
+Puhuja 2: Todella.
+Puhuja 2: Otetaan alkuun myös yksi oikaisu.
+Puhuja 2: Viime jaksossa minä taisin sanoa, ettei puolella ole suoraa rajaa Venäjän kanssa. Ja unohdin lisätä
+Puhuja 2: paitsi Kalinin krad, joka on siis se pieni Venäjälle kulma
+Puhuja 2: aluepuolen ja Liettuan välissä.
+Puhuja 2: Pahoittelut
+Puhuja 2: siitä.
+Puhuja 2: Tämän viikon podcastissa keskustellaan
+Puhuja 2: millaisiin kulkueisiin kansanedustajiin on soveliasta osallistua
+Puhuja 2: ja siitä, mikä on suomalaisen äärioikeiston
+Puhuja 2: tila armo vuonna kaksituhatta
+Puhuja 2: kaksikymmentäneljä ja onko Teemu Keskisarjan koko poliittisen uran tarkoitus vain trollata?
+Puhuja 2: Lisäksi puhutaan siitä, onko Georgiassa käynnissä Ukrainan maidodiin verrattavissa oleva kansannousu
+Puhuja 2: ja kolmanneksi
+Puhuja 2: keskustellaan
+Puhuja 2: Tatusta ja patusta,
+Puhuja 2: leikkeleraivosta
+Puhuja 2: ja siitä saako lastenkirjoja
+Puhuja 2: muuttaa sitä mukaa, kun ajat muuttuvat.
+Puhuja 2: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 2: pitkien epämukavien
+Puhuja 2: hiljaisyyksien
+Puhuja 2: varaan.
+Puhuja 2: Perussuomalaisten kansanedustaja,
+Puhuja 2: populaarihistorioitsija
+Puhuja 2: ja eduskunnan
+Puhuja 2: peikon näköinen mies, Teemu Keskisarja kirjoitti viime viikon perjantaina
+Puhuja 2: tiedotteen, joka alkoi näin:
+Puhuja 2: Jysäytän
+Puhuja 2: uutispommin,
+Puhuja 2: tosin vain vapaatin.
+Puhuja 2: Juhlintan ja juhlimattomuuteni
+Puhuja 2: ovat vailla valtiollista
+Puhuja 2: merkitystä.
+Puhuja 2: Menköön tämä epätärkeä
+Puhuja 2: tiedote silti jakeluun. En mene linnan juhliin.
+Puhuja 2: Kieltäydyn kutsusta kohteliaimmin.
+Puhuja 2: On muuta tekemistä.
+Puhuja 2: Puhun Töölön torilla 61kaksi
+Puhuja 2: tapahtumassa ja Rahustan soittokulkueessa
+Puhuja 2: Hietanen hautausmaalle.
+Puhuja 2: Keskisarja perusteli tätä valintaansa moninaisilla syillä esimerkiksi sillä, että hän ei omasta mielestään ansaitse mitään. Siinä on muistaakseni toisella punaiset ja toisen vihreät ledjut ja vähän erilainen tukka.
+Puhuja 3: Ja
+Puhuja 3: silmälasit toisella, ei mulla ollut mitään hajua. Sit mä kysyin Aliisalta että kerro sä mulle, ei silläkään ollut mitään hajua. Ne on vähän liian
+Puhuja 3: tunnistamattomat
+Puhuja 2: toisistaan. Tää on tosi lohdullista, koska mä käännän kuulijoilta, kumpi on kumpi.
+Puhuja 3: Mutta siis vielä yksi asia. Siis mä luin
+Puhuja 3: tärkeän tilastotiedon
+Puhuja 3: Tatuista ja patuista. Arvatkaa paljon, niitä on myyty.
+Puhuja 3: Oliko se kaksi miljoonaa? Kaksi miljoonaa. Niitä on myyty kaksi
+Puhuja 3: miljoonaa
+Puhuja 3: kappaletta siis enemmän kuin varmaan ketään suomalaista
+Puhuja 3: kirjailijaa
+Puhuja 3: ja se on oikeasti ihan
+Puhuja 3: monipuolinen määrä
+Puhuja 3: ja minusta on hienoa että jos tällaisten
+Puhuja 3: päähassujen
+Puhuja 3: kohujen seurauksena
+Puhuja 3: ylipäätään
+Puhuja 3: puhutaan lastenkirjallisuudesta
+Puhuja 3: josta ei ehkä ihan hirveästi puhuta.
+Puhuja 1: Hienoa.
+Puhuja 1: En osaa oikein sanoa mikä mua
+Puhuja 1: tarinoita
+Puhuja 1: vaan siinä on
+Puhuja 1: lievää, pientä, hauskaa anarkiaa ja absurdia huumoria.
+Puhuja 1: Mutta ehkä minua riepoo se, että vaikka se on vähän anarkistinen,
+Puhuja 1: mutta se ei kumminkaan
+Puhuja 1: oikeasti
+Puhuja 2: Pitkätossusta ja muu meistä lähtien, niin ei missään
+Puhuja 2: nimessä. Lapset ovat aina rakasneet niitä anarkistisempia
+Puhuja 2: hahmoja. Mutta miten sitten tämmöinen asia, että näkyykö lastenkirjassa
+Puhuja 2: pihvejä vai pipareita
+Puhuja 2: ja sen näköinen
+Puhuja 2: opettavaisuus. Onko sillä
+Puhuja 2: merkitystä? Tekeekö se nyt lapsesta lihansyöjiä tai kasvissyöjiä? Mitä siellä
+Puhuja 2: näkyy?
+Puhuja 1: Minun
+Puhuja 1: tähän
+Puhuja 1: jälkikäteen sensurointiin
+Puhuja 1: tai piirrosten
+Puhuja 1: ideahan on että tullaan
+Puhuja 1: niin
+Puhuja 1: kuin ymmärsin oikein niin aina kun edelleen myydään niitä varhaisempia tatuja ja patuja niistä otetaan aina silloin tällöin uusia painoksia eli kuvia muutetaan tavallaan niihin uusiin painoksiin. Kyllä, sitä mukaa ei mitenkään vedetä pois tai se suroida siinä mielessä vaan
+Puhuja 2: ja ainahan kirjoista tehdään päivitettyä versioita,
+Puhuja 1: että Sinänsä tämä ei ole se poikkeuksellinen. Mielestäni lähtökohtaisesti niitä ei pitäisi päivittää.
+Puhuja 1: Ja tämähän on lierimmästä päästä näitä, että ruvetaan muuttamaan
+Puhuja 1: vanhoja lastenkirjoja tai tarinoita.
+Puhuja 1: Jos
+Puhuja 1: näille
+Puhuja 1: pariskunnalle
 Puhuja 1: on
-Puhuja 1: myös näiden
-Puhuja 1: 60-lukulaisten
-Puhuja 2: itsenäisyyspäivänjuhla.
-Puhuja 2: Minä kierrä
-Puhuja 2: niin kaupan kuin
-Puhuja 2: ikinä. Ahdoomista.
-Puhuja 0: Mutta Hursti siis
+Puhuja 1: muuttunut ja heidän näkemyksensä on muuttunut, niin kyllä ne koko ajan tekee uusia kirjoja, miksei ne tavallaan laita sitä niin, että miksi pitää muuttaa niitä vanhoja? Ehkä just sen takia, kun ne edelleen
+Puhuja 1: myydään niin paljon. Mutta
+Puhuja 1: musta ei pitäisi olla ainakin tosi varovainen ennen kuin lähtee muuttamaan historiaa. Mä oon periaatteessa
+Puhuja 3: Markon kanssa samaa mieltä mutta aion silti opponoida ihan vaan hyvä. No niin, se on tämän koko podcastin.
+Puhuja 3: Tässähän on se iso periaatteellinen kysymys
+Puhuja 3: että kenen vaatimuksesta tai kenen aloitteesta tai miksi
+Puhuja 3: se muutos
+Puhuja 3: tehdään.
+Puhuja 3: Jos selviäisi, että esim. Kustantaja olisi millään tavalla
+Puhuja 3: tehnyt
+Puhuja 3: aloitetta tässä
+Puhuja 3: tai että olisi jotain
+Puhuja 3: kansalaispainetta tai painostusta siihen ja sitten he
+Puhuja 3: tämä Taiteilijatpariskunta olisi
+Puhuja 3: sitten taipunut
+Puhuja 3: ulkoa tulleeseen paineeseen niin silloin mielestäni tämä olisi heti ankeaa
+Puhuja 3: ja jotenkin
+Puhuja 3: väärää.
+Puhuja 3: Ja näin ei varmastikaan ole. Ja näin ei varmasti ollut vaan se ilmeisesti on tullut ihan puhtaasti
+Puhuja 3: tuota Havukaisilta itseltään tämä
+Puhuja 3: koko homma, niin silloin tavallaan näen sen niin, että miksipä taiteilija
+Puhuja 3: ei voi
+Puhuja 3: ikään kuin
+Puhuja 3: uudistaa työtään. Väittäisin,
+Puhuja 3: että tämän tyyppistä
+Puhuja 3: vanhojen teosten
+Puhuja 3: updeitausta
+Puhuja 3: on tehty eri tavoin
+Puhuja 3: Raamatusta lähtien.
+Puhuja 2: Kova vertailukohta.
+Puhuja 2: Minunkin mielestä tämä eroaa juuri siinä mielessä monista lastenkirjakohuista,
+Puhuja 2: joita on tosiaan käyty
+Puhuja 2: Peppi pitkät Ossun käännöksestä tai Haglabryfinnin
+Puhuja 2: käännöksestä.
+Puhuja 2: Amerikassa
+Puhuja 2: on nämä tohtori Sussin
+Puhuja 2: lastenkirjat myös.
+Puhuja 2: Usein se on liittynyt
+Puhuja 2: nykypäivästä rasistiselta
+Puhuja 2: näyttävään sisältöön. Mutta ne on tehty jälkikäteen,
+Puhuja 2: kirjailijan usein jo kuoltua.
+Puhuja 2: Tämä on juuri hiukan erilainen.
+Puhuja 2: Miten tämä teidän mielestä liittyy tähän?
+Puhuja 2: Onko tästä jotain oikeaa raivoa? Uskotteko siihen? Ja onko tämä
+Puhuja 2: lihansyönti
+Puhuja 2: ja eläinteollisuus
+Puhuja 2: suomalaisille
+Puhuja 2: herkkä kohta, kun juuri viime viikolla saatiin taas lukea leikkkeleraivosta,
+Puhuja 2: kun tuli uudet
+Puhuja 2: terveellisen ja ympäristöystävällisen
+Puhuja 2: ruoan suositukset.
+Puhuja 2: Onko lihansyönti
+Puhuja 2: suomalaisten
+Puhuja 2: kovin kulttuurisata aihe? Olihan se aika
+Puhuja 1: eilen
+Puhuja 1: Yle haastatteli sitä,
+Puhuja 1: en muista tämän naisen nimeä, mutta Ruokavirasto oli se henkilö, kenen vastuulla oli näiden ruokasuositusten
+Puhuja 1: tekeminen
+Puhuja 1: saanut yli niin kuin tappouhkauksia
+Puhuja 1: ja valtava someraivoja kohdistuu häneen.
+Puhuja 1: Hän myös päivitteli sitä, että eihän hän omasta päästä niitä ole keksitty
+Puhuja 1: eikä siellä kielletä leikkeihin. Eikä kenenkään tarvitse niitä noudattaa. Nämä suorituksia, joka perustuu tieteelliseen tietoon. Sitten useampikin poliitikko on jo niin kuin,
+Puhuja 1: hallituspuolueiden poliitikkokin on heittänyt tieteellisen tiedon
+Puhuja 1: noinvaa romukoppaan ja sanonut, että leikkeleitä pitää syödä. Mutta
+Puhuja 1: onhan se jotenkin koomista ja jostain syystä tämä ruoka on yksi näistä
+Puhuja 1: kulttuurisodan taistelutaantereista.
+Puhuja 1: Ehkä
+Puhuja 1: vielä palaan niihin totuudenjen palveluihin, että kyllä
+Puhuja 1: musta
+Puhuja 2: tielle. Joo, vaikka kuinka toivoisit että ne vei ne pois.
+Puhuja 3: Muistakaa että... Voin kyllä laittaa muutaman tatuo ja Patu vastaan. Kyllä me mielellään annan ne. Hyvä kiitos. Ja kyllä edelleen ne törkeimmät raamatunversiotkin
+Puhuja 3: löytyy jostain
+Puhuja 3: arkistojen kätköistä kun menet tuonne Kansallisarkistoon
+Puhuja 3: kyselemään niin kyllä sieltä löydät. No niin.
+Puhuja 2: Raamatusta
+Puhuja 2: eteenpäin.
+Puhuja 2: Sitten kun itsenäisyyspäivän
+Puhuja 2: iltana kotiudutte
+Puhuja 2: lukupiireistä ja
+Puhuja 2: soihtukulkueista
+Puhuja 2: ja sankarihaudoilta,
+Puhuja 2: sytytätte kynttilät ja alatte odottaa, että mitä Susanin Stubb on pukenut ylleen
+Puhuja 2: ja kaadatte ehkä lämpimän glyveinin
+Puhuja 2: mukiin.
+Puhuja 2: Mistä aiotte keskustella?
+Puhuja 1: Mä voin aloittaa. Rupesin
+Puhuja 1: pari päivää sitten lukemaan
+Puhuja 1: uutta kirjaa, mikä on ihan mahtava.
+Puhuja 1: Tämä on muutama tai en edes tiedä milloin tämä on jokunen kirjoitettu.
+Puhuja 1: Kirjan nimi on Leave the Gun, Take the Kanolly.
+Puhuja 1: Ja tämän on kirjoittanut
+Puhuja 1: Marc
+Puhuja 1: En näe
+Puhuja 1: Mark Sil. Tämä
+Puhuja 1: on nonfiction kirja ja kertoo kummisetä
+Puhuja 1: elokuvan
+Puhuja 1: tekemisestä.
+Puhuja 1: Ja se
+Puhuja 1: on erittäin huolella tehty, että
+Puhuja 1: siellä kerrotaan
+Puhuja 1: tavallaan... Koholla oli hyvin nuori ohjaaja ja Kokkolan taistelusta sen elokuvan puolesta. Sitten Marjo Puusosen kirjankirjoittaja, se kerrotaan
+Puhuja 1: hänen elämäntarinansa ja Kokkolan. Ja sitten tämä
+Puhuja 1: täydellisen
+Puhuja 1: kaaosmainen.
+Puhuja 1: En ole vielä puolivälissä kirjaa eikä vielä ole päästy edes kuvausvaiheeseen, mutta pelkästään se tappelu, jossa
+Puhuja 1: siitä ketä näyttelijöitä
+Puhuja 1: elokuvaa tulee esiintymään.
+Puhuja 1: Tuottaja
+Puhuja 1: ja elokuvayhtiö
+Puhuja 1: ja kaikki olivat yksimielisesti sitä mieltä. Myös
+Puhuja 1: elokuvalehdistö
+Puhuja 1: ja kaikki.
+Puhuja 1: Kaikkein huonoin valinta
+Puhuja 1: Donk Cor Leonexoosi Mar Lon Brand, joka
+Puhuja 1: on uraani pahasti laskusuunnassa.
+Puhuja 1: Me pidettiin täydellisenä katastrofina, joka tuhoaa elokuvan. Mutta sitten oveluudella ja ketteryydellä koppalla onnistui
+Puhuja 1: uittamaan sen Brandon.
+Puhuja 1: Ja Brandon ongelma oli vielä se, että hän oli aikamoinen känkkäränkkä.
+Puhuja 1: Hän oli juuri tuonut aika monta elokuvaa silloin kun hän oli ollut niin hankala. Mutta kaikki muutkin nämä hahmot. Joku Alpan Sino,
+Puhuja 1: hän oli tuntematon
+Puhuja 1: iso. Ei enää, edes nuori, 30-vuotias, mutta ei ollut tehnyt juurikaan elokuvia.
+Puhuja 1: Olen ollut esiintynyt lähinnä
+Puhuja 1: teatterissa.
+Puhuja 1: Aina
+Puhuja 1: oli täydellisen nimetön hahmo ja se elokuvayhtiö
+Puhuja 1: ja tuottaja olivat aivan järkyttyneitä kun koppala rupesi vaatimaan, että Alban Siino pitää saada
+Puhuja 1: käytännössä pääosaan.
+Puhuja 1: Todella
+Puhuja 1: kiehtovaa tarina täynnä yksityiskohtia.
+Puhuja 2: Mikä sun suosikkikummisatä
+Puhuja 2: on? Kakskonen.
+Puhuja 1: Mutta kyllä
+Puhuja 1: se Ykkönenkin on hieno.
+Puhuja 2: Mikä se Tommi?
+Puhuja 3: No siis mulla on... Minä olen rakentanut itselleni
+Puhuja 3: sellaisen juoksuradan
+Puhuja 3: itsenäisyyspäiväksi.
+Puhuja 3: Ihan ensimmäiseksi laitan aamulla
+Puhuja 3: tai siis mua harmittaa ensinnäkin, että en saanut tänäkään vuonna kutsua Linnan juhliin. Terveisiä
+Puhuja 3: vaaleksille.
+Puhuja 3: Junkkarikin on kutsuttu ja ei ole vieläkään tullut. Mutta sen takia, koska kutsua ei tullut, mä laitan aamulla semmoiset Martti Servoet, Nabander,
+Puhuja 3: peruukin ja viikset
+Puhuja 3: ja tota meen sinne kuusi pilkku yksi nolla Marsille, että ne tietävät valmiiksi tulossa ollaan, nähdään siellä.
+Puhuja 1: Vai miksi sulla on se
+Puhuja 1: peruukki?
+Puhuja 3: No ihan turvallisuussyistä
+Puhuja 3: ja sitten
+Puhuja 3: tuota sen jälkeen ajattelin mennä
+Puhuja 3: Oodiin
+Puhuja 3: koska siellä ei ole pelkästään Sinimustan liikkeen lukupiiri
+Puhuja 3: vaan viimeisten
+Puhuja 3: tietojen mukaan siellä on myös vasemmistonuorten
+Puhuja 3: vastalukupiiri
+Puhuja 1: ja siitähän tulee ihan mahtava näytelmä. Oliko se päivällä? Eikö se lukupiiri päivällä ja marssi ole illalla?
+Puhuja 3: Onko se niin päin? No sitten teen toisinpäin. Mutta siinä välissä vielä siis lukupiirin
+Puhuja 3: ja Marssin välissä
+Puhuja 3: kello kuusitoista on se päivän ainoa
+Puhuja 3: oikeasti poliittinen tilaisuus.
+Puhuja 3: Nämähän
+Puhuja 3: ovat mehujuttuja
+Puhuja 3: nämä äärioikeistojutut
+Puhuja 3: ja vasemmistonuorten jutut. Kello kuusitoista
+Puhuja 3: muistaakseni
+Puhuja 3: Hakaniemen
+Puhuja 3: torilla on Hurstin
+Puhuja 3: itsenäisyyspäivän
+Puhuja 3: vastaanotto, joka on oikeasti
+Puhuja 3: poliittinen tilaisuus ja sinne kannattaa mennä. Mulla meni vähän kylmätä väreetkos.
+Puhuja 1: Ja sitten mun mielestä
+Puhuja 1: siellä baasitornissa
+Puhuja 1: on
+Puhuja 1: myös näiden 60-lukulaisten
+Puhuja 1: itsenäisyyspäivänjuhla.
+Puhuja 3: Sen minä kierrän niin kauan kuin
+Puhuja 3: ikinä
+Puhuja 3: mahdollista.
+Puhuja 2: Mutta Hursti siis
 Puhuja 2: jakaa vähän osaisille ruokaa. Kyllä. Nyt siellä on
-Puhuja 2: Sini Hursti
-Puhuja 2: Tuota kolmannen polven
-Puhuja 2: ruokaa jakava Hursti joka on niin kuin jo
-Puhuja 2: ihan mahtava homma. Tai kolmas polvi on? Kolmas polvi Sini Hursti on muistaakseni nimeltään
-Puhuja 1: tämä kolmannen polven. Ja siellähän on myös Sheikki Laakso siellä. Onko ilmoittautunut?
-Puhuja 1: Ainakin silloin hänhän ei mennä nyt vähän perusen marssille menemiseen.
-Puhuja 1: Mutta ei aio mennä myöskään niin juu. Ei niin voi mennä linlajuun.
-Puhuja 1: Ei kun eihän hän nyt sinne aio mennä niin hän sanoi, että hän kysyy, että pääset sinne Hurstin tulevaisuudesta jakamaan ruokaa.
-Puhuja 1: Ja sitten hän sanoi vielä, että hän alun perin olisi kaikkia mieluiten mennyt Hurstin tilaisuuteen, mutta hän ei kehdannut ilmoittautua sinne, koska sitä olisi sytytetty hyvesignaaloinnista
-Puhuja 1: ja
+Puhuja 3: Sini
+Puhuja 3: Hursti. Tuota
+Puhuja 3: kolmannen polven
+Puhuja 3: ruokaa jakava Hursti joka on niin kuin jo ihan mahtava homma. Ai että kolmas polvi on? Kolmas polvi Sini Hursti on muistaakseni nimeltään tämä
+Puhuja 1: kolmannen polven. Ja siellähän on myös Sheikki Laakso.
+Puhuja 3: Onko ilmoittautunut?
+Puhuja 1: Ainakin silloin kun hänhän ei mennä nyt vähän perusen marssille menemisen,
+Puhuja 1: mutta ei aio mennä myöskään niin juu. Niin, voin mennä linmajuun.
+Puhuja 1: Eikö eihän hän nyt sinne aja mennä niin hän sanoi, että hän kysyy, että hän kysyy, että hän pääsee sinne Hurstiin tilaisuuteen jakamaan ruokaa.
+Puhuja 1: Ja sitten hän sanoi vielä, että hän alun perinkin olisi kaikkia mieluiten mennyt sinne Hurstiin tilaisuuteen, mutta hän ei kehdannut ilmoittautua sinne, koska siitä olisi pitänyt syytettynä hyveposeen, hyvesignaaloinnista
 Puhuja 1: muserauksesta.
-Puhuja 1: Nyt hän kehtaa mennä.
-Puhuja 0: Kuulostaa hienolta itsenäisyys päivältä.
-Puhuja 0: Mä olin eilen teatterissa.
+Puhuja 1: Mutta nyt hän kehtaa mennä.
+Puhuja 2: Kuulostaa hienolta itsenäisyyspäivältä.
+Puhuja 2: Mä olin eilen teatterissa.
 Puhuja 2: Vau!
-Puhuja 0: Nimenomaan, koska
-Puhuja 0: on
-Puhuja 0: paljon myös ei niin
-Puhuja 0: kohottavaa teatteritaidetta.
-Puhuja 0: Mutta eilen olin tosi iloinen, kun näin Kansallisteatterin
-Puhuja 0: pienellä näyttämöllä Angelesin American
-Puhuja 0: näytelmän. Olen usein vielä vannonut, että en enää koskaan mene Kansallisteatteriin,
-Puhuja 0: koska minulla on ollut joitakin
-Puhuja 0: tylsiä kokemuksia siellä.
-Puhuja 0: Mutta tämä
-Puhuja 0: nelituntisesta
-Puhuja 0: lyhennetty näytelmä ei missään nimessä ollut tylsä.
-Puhuja 0: Meillä oli iso kaveriporukka
-Puhuja 0: ja osa oli hyvin epäileväisiä,
-Puhuja 0: että
-Puhuja 0: minkälaista
-Puhuja 0: taidepaskaa
-Puhuja 0: sieltä tulee. Oli suodatinatti.
-Puhuja 0: Mutta ei tullut vaan kaikki
-Puhuja 0: oli
-Puhuja 0: jotenkin liekeissä.
-Puhuja 0: Tämä Energine America
-Puhuja 0: Se oikea versio koostuu kahdesta osasta ja se on jotakin seitsemän tuntia
-Puhuja 0: pitkä
-Puhuja 0: yhteensä. Ja se kertoo AIDS-kriisistä
-Puhuja 0: 80-luvulla ja siinä on enkeleitä
-Puhuja 0: ja kummituksia
-Puhuja 0: ja
-Puhuja 0: kärsimystä mutta myös paljon
-Puhuja 0: huumoria.
-Puhuja 0: Tämä kansiksen
-Puhuja 0: tulkinta oli minusta älyttömän
-Puhuja 0: hyvä.
-Puhuja 0: Semmoinen vetävä koko ajan
-Puhuja 0: pysyy huomio yllä
-Puhuja 0: kaikki ne
-Puhuja 0: tunnit ja hauska ja mielettömiä
-Puhuja 0: näyttelijöitä.
-Puhuja 0: Esimerkiksi
-Puhuja 0: Leo Ikilor esitti sivuhenkilöä omaa
-Puhuja 0: sairaanhoitajaa.
-Puhuja 0: Mustaa oli tosi hyvä rooli.
-Puhuja 0: Timo Tuominen, Kansallisteatterinäyttelijä,
-Puhuja 0: esitteli tätä Roy Counia, josta me on ehkä puhuttu tässäkin
-Puhuja 0: ohjelmassa. Roy Coun on
-Puhuja 0: tosielämän hahmo, joka seikkailee nyt myös tässä Trump-elokuvassa
-Puhuja 0: The Aprentish.
-Puhuja 0: Hän oli tämä
-Puhuja 0: Trumpin oppi-isä, joka oli kaappihomoja ja kuoli AIDSiin. Se on ihan mieletön hahmo tässä.
-Puhuja 1: Oliko sovi nähnyt sen Trump-elokuvan?
-Puhuja 0: En vielä. Se on ihan älyttömän hyvä. No näin olen kuullut.
-Puhuja 0: Nähden ja tavallaan tämä
-Puhuja 0: näytelmä myös yllytti myös
-Puhuja 0: siihen. Olen tästä Einstein täällä ennenkin
-Puhuja 0: tänä syksynä, että tämä sopii myös hyvin siihen, mutta vahva suositus
-Puhuja 0: näytelmälle. Katsoin, että kevään näytöksiin on myös vielä lippu. Tämä oli siis Linda Vallgrenin
-Puhuja 0: ohjaama
-Puhuja 0: esitys.
-Puhuja 0: Paljon
-Puhuja 0: hyvää näyttelijän työtä ja hienosti myös tiivistetty
-Puhuja 0: tai lyhennetty näytelmä siten, että itse en ainakaan jäänyt kaipaamaan mitään tai huomannut, että se ei olisi toiminut kokonaisuutena.
-Puhuja 1: Altran äänessä
-Puhuja 1: tämä aiempi versiota?
-Puhuja 0: Mulla on ongelma, että olen aika varma, että olen nähnyt sen.
-Puhuja 0: Tänä syksynä aloin etsimään puhelimestani jotain todistusaineistoa.
-Puhuja 0: Koska se oli broadwayllä silloin, kun asuin New Yorkissa. Minulla on mielikuva, että olen nähnyt sen mutta en löytänyt
-Puhuja 0: luisi nyt, että olisin somettanut
-Puhuja 0: siitä tai
-Puhuja 0: ottanut jonkun kuvan lipusta. Tai ne liput olivat edes jossain. Kävin
-Puhuja 0: omaa digitaalista arkistoa läpi enkä löytänyt, niin en ole varma, olenko valemmuista
-Puhuja 0: vai olenko oikeasti nähnyt sen siellä.
-Puhuja 0: Mutta yksi parhaita puolia tästä näytelmästä minusta oli että se oli nimenomaan hauska. Siitähän on tehty myös kaksikymmentä vuotta sitten HBO-sarja, joka oli aika
-Puhuja 0: tylsä.
-Puhuja 0: Tämä ei ollut tylsä.
-Puhuja 2: Saako sanoa vielä yhden
-Puhuja 2: itsenäisyyspäivään liittyvän teatterivinkin?
-Puhuja 0: Mielellään.
-Puhuja 2: Siis unohtakaa
-Puhuja 2: ihmiset nyt
-Puhuja 2: ne Edbinein,
-Puhuja 2: Molllbergin
-Puhuja 2: ja Louhimiehen
-Puhuja 2: tuntemattomat. Ne on
-Puhuja 2: nähty, me osataan ne vuorosanat,
-Puhuja 2: me tiedetään mitä tulee seuraavaksi.
-Puhuja 2: Se on ihan pasee. Nyt jos vielä
-Puhuja 2: lahtelaisen
-Puhuja 2: pienteatterin vanhan Jukon
-Puhuja 2: Tuntematon sotilas kiertää. Se on viimeksi ollut Espoon teatterissa ainakin ihan vielä muutamia viikkoja ja luulen että niillä saattaa olla vielä jotain esityksiä
-Puhuja 2: ja voi olla, että Espoon teatterin jälkeen se kiertää johonkin seuraavaan teatteriin niin menkää katsomaan, se on paras
-Puhuja 2: Tuntemattoman
-Puhuja 2: sotilaan versio
-Puhuja 2: koskaan missään.
+Puhuja 2: Nimenomaan, koska
+Puhuja 2: on
+Puhuja 2: paljon myös ei niin
+Puhuja 2: kohtavaa teatteritaidetta.
+Puhuja 2: Mutta eilen olin kyllä tosi iloinen, kun näin Kansallisteatterin
+Puhuja 2: pienellä näyttämöllä angionos in American näytelmän. Olen usein vielä vannonut, että en enää koskaan mene Kansallisteatteria,
+Puhuja 2: koska minulla on ollut joitakin
+Puhuja 2: varsin tylsiä kokemuksia siellä.
+Puhuja 2: Mutta tämä nelituntinen tai nelituntiseksi
+Puhuja 2: lyhennetty näytelmä ei missään nimessä ollut tylsä. Meillä oli iso kaveriporukka
+Puhuja 2: ja osa oli hyvin epäileväisiä,
+Puhuja 2: että
+Puhuja 2: minkälaista
+Puhuja 2: taidepaskaa
+Puhuja 2: sieltä tulee. Oli suora sitaatti.
+Puhuja 2: Mutta ei tullut vaan kaikki oli
+Puhuja 2: jotenkin liekeissä.
+Puhuja 2: Tämä Energine American on nimensä mukaisesti amerikkalainen näytelmä 90-luvun alusta. Ja sellainen huikea spektaakkeli,
+Puhuja 2: ja sellainen huikea
+Puhuja 2: spektaakkeli, että se oikea versio koostuu kahdesta osasta ja se on jotakin seitsemän tuntia
+Puhuja 2: pitkä yhteensä.
+Puhuja 2: Se kertoo AIDS kriisistä 1980-luvulla
+Puhuja 2: ja siinä on enkeleitä ja kummituksia
+Puhuja 2: ja
+Puhuja 2: kärsimystä, mutta myös paljon
+Puhuja 2: huumoria.
+Puhuja 2: Tämä kansiksen
+Puhuja 2: tulkinta oli minusta aivan älyttömän hyvä.
+Puhuja 2: Semmoinen vetävä. Koko ajan pysyy
+Puhuja 2: huomio yllä
+Puhuja 2: kaikki ne
+Puhuja 2: tunnit. Hauska ja mielettömiä
+Puhuja 2: näyttelijöitä.
+Puhuja 2: Esimerkiksi
+Puhuja 2: Leo Ikilor
+Puhuja 2: esitti sivuhenkilöä
+Puhuja 2: oli myös Timo Tuominen
+Puhuja 2: näyttelijä, esitteli tätä Roy Counia, josta me on ehkä puhuttu tässäkin
+Puhuja 2: ohjelmassa. Roy Counia
+Puhuja 2: on tosielämän
+Puhuja 2: hahmo, joka seikkailee nyt myös tässä Trump-elokuvassa
+Puhuja 2: The Aprrentis.
+Puhuja 2: Hän oli
+Puhuja 2: tämä Trumpin oppi-isä, joka oli kaappihomoja ja kuoli AIC:n. Se on ihan mieletön hahmo tässä
+Puhuja 2: Oletko
+Puhuja 2: sohvin jäänyt sen Trump elokuvan? En vielä. Se on ihan älyttömän vielä. No näin olen kuullut.
+Puhuja 2: Minun piti ottaa sellainen pieni Trumptauko noiden vaalien jälkeen.
+Puhuja 2: Kyllä minä aion sen vielä nähdä. Ja tavallaan tämä näytelmä myös yllytti
+Puhuja 2: myös siihen. Mutta olen tästä Einstein saanut täällä ennenkin tänä syksynä, että tämä sopii myös hyvin siihen. Mutta vahva suositus
+Puhuja 2: näytelmälle ja katsoin, että kevään näytöksiin on myös vielä lippuja. Tämä oli siis Linna Wallgrenin
+Puhuja 2: ohjaama
+Puhuja 2: esitys.
+Puhuja 2: Paljon hyvää näyttelijäntyötä ja hienosti myös tiivistetty
+Puhuja 2: tai lyhennetty se näytelmä siten, että itse en ainakaan jäänyt kaipaamaan mitään tai huomannut, että se ei olisi toiminut
+Puhuja 1: kokonaisuutena. Altran
+Puhuja 1: äänestä tai ajanjaksoversioita.
+Puhuja 2: Mulla on siis sellainen ongelma, että olen aika varma, että olen nähnyt sen. Ja sitten tänä syksynä aloin etsimään puhelimestani
+Puhuja 2: jotain todistusaineistoa.
+Puhuja 2: Koska se oli Broadwayllä silloin, kun asuin New Yorkissa ja minulla oli mielikuva, että olen nähnyt sen mutta
+Puhuja 2: luulisi nyt, että olisin somettanut siitä
+Puhuja 2: tai ottanut jonkun kuvan lipusta tai ne liput olisivat edes jossain.
+Puhuja 2: Kävin omaa digitaalista arkistoa läpi enkä
+Puhuja 2: aika tylsä niin
+Puhuja 2: tämä ei ollut tylsä.
+Puhuja 3: Saako sanoa vielä
+Puhuja 3: yhden itsenäisyyspäivään
+Puhuja 3: liittyvän teatterivinkin?
+Puhuja 2: Mielellään.
+Puhuja 3: Siis unohtakaa
+Puhuja 3: ihmiset nyt ne
+Puhuja 3: Edbine-Lineen,
+Puhuja 3: Molllbergin
+Puhuja 3: ja Louhimiehen
+Puhuja 3: tuntemattomat.
+Puhuja 3: Ne on nähty,
+Puhuja 3: me osataan ne vuorosanat,
+Puhuja 3: me tiedetään mitä tulee seuraavaksi.
+Puhuja 3: Se on ihan Basee.
+Puhuja 3: Nyt jos vielä
+Puhuja 3: lahtelaisen
+Puhuja 3: pienteatterin
+Puhuja 3: vanhan Jukon
+Puhuja 3: tuntematon sotilas kiertää. Se on viimeksi ollut Espoon teatterissa ainakin ihan vielä muutamia viikkoja sitten ja luulen, että niillä saattaa olla vielä jotain esityksiä
+Puhuja 3: ja voi olla, että Espoon teatterin jälkeen se kiertää johonkin seuraavaan teatteriin niin menkää katsomaan, se on paras
+Puhuja 3: Tuntemattoman
+Puhuja 3: sotilaan versio
+Puhuja 3: koskaan missään.
 Puhuja 1: Vau.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marko Junkkari. Kiitos. Kiitos Tommi Nieminen.
-Puhuja 0: Mun nimi on Anne-Sofia Berneri. Äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla Vico Peura.
-Puhuja 0: Muistakaa lähettää meille palautetta
-Puhuja 0: uutisraportti.
-Puhuja 0: Kuullaan taas ensi viikolla!
+Puhuja 2: Okei, siinä kaikki tältä erää. Kiitos Marko Junkkari. Kiitos. Kiitos Tommi Nieminen. Kiitos kiitos. Mun nimi on Anne-Sofia Berneri ja äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla Vico Peura.
+Puhuja 2: Muistakaa lähettää meille palautetta
+Puhuja 2: uutisraportti.
+Puhuja 2: Kuullaan taas ensi viikolla!
+Puhuja 0: Moi Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit, se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin.
+Puhuja 0: Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

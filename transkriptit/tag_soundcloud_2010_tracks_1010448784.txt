@@ -1,193 +1,428 @@
-Puhuja 0: Hei ja Helsingistä
-Puhuja 1: Ei, no niin. Komposti.
-Puhuja 0: Noni,
-Puhuja 0: ota Mikko toi mukaan nauhalle.
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uuteen raportti-podcastiin
-Puhuja 0: torstaina
-Puhuja 0: kahdeksantoista. Päivä.
-Puhuja 0: Onko edelleen maaliskuu?
-Puhuja 0: Vitsi nää kuukaudet tuntuu pitkillä nykyään? Maaliskuu edelleen. Vuonna kaksituhatta kaksikymmentäyksi
-Puhuja 0: mun nimi on Tuomas Peltomäki ja kanssani täällä Helsingin Sanomien
-Puhuja 0: podcast-studiossa,
-Puhuja 0: jossa on jonkun näköinen uusi lamppusysteemi
-Puhuja 0: tuolla, vau, nyt vasta huomasin,
-Puhuja 0: ovat
-Puhuja 0: sunnuntai Ei, kun mikäs, politiikan toimittajan sä oot. Marko Junkkari, hei Marko. Moi, kyllä mä olen myös unohtunut. En tiedä, mutta en onnistunut tätä gloriaa ikinä.
-Puhuja 0: Ja sitten internetin kautta
-Puhuja 0: kotoaan betonipunkkerista,
-Puhuja 0: jossa on nolla prosenttia internettiä,
-Puhuja 0: on sunnuntain liitteentoimittaja Maria Manner. Hei Maria.
-Puhuja 0: Hei, Markku ja Tuomas. Mitäs teille kuuluu? Sä liioittelet tähän. Joo, mä tiedän, se on mun tapa.
-Puhuja 1: Mitä kuuluu? Kuuluu ihan hyvää, harmmeko meidän voi olla siellä?
-Puhuja 1: Päiväkodissa on koronaa ja mä en uskalla,
-Puhuja 1: tai ei liene järkevää tulla sinne, niin toivottavasti tää tekniikka päivä. Sun nolla prosentin internet välistä häivyttää sut kokonaan.
-Puhuja 2: Mutta se ei haittaa, mutta siinä pystyy hyvin arvailemaan,
-Puhuja 2: mitä sanoja jäi välistä pois. Niin.
-Puhuja 0: Mutta ääniversioon
-Puhuja 0: me saadaan semmoinen, että sun ääni on siinä kirkas ja kuulova ja näin. Mutta Tuomas,
-Puhuja 2: mitäs sulle kuuluu?
-Puhuja 0: Ai kerrankin kysytään multakin, että mitä kuuluu. Ihan kuin olisin itse ehdottanut tätä ennen lähetystä.
-Puhuja 0: Meni kamalaa alusta asti. Mä aloin kiittää semmoista kuuntelijaa, joka lähetti mulle aivan todella kivan
-Puhuja 0: sähköpostin.
-Puhuja 0: Ja
-Puhuja 0: hän,
-Puhuja 0: muistaakseni hän, kuten monet, monet muutkin ihmiset olivat jotenkin riemastuneet mun
-Puhuja 0: käynnistä, Ylen
-Puhuja 2: viimeinen Hauska lukea. Ja olisi todella
-Puhuja 2: kiehtova kirja,
-Puhuja 2: suosittelen.
-Puhuja 0: Sanon vielä, kuka liitämme, kuka nero on kirjoittanut? Tää on
-Puhuja 2: Antti Heikkinen.
-Puhuja 2: Kuulostaako
-Puhuja 1: mitä? Kiehtovalta. Kuulostaa kiehtovalta.
-Puhuja 2: Joo, suosittelen.
-Puhuja 0: Sano vielä kirjan nimi.
-Puhuja 2: Kirjan nimi on,
-Puhuja 2: mikä sen nimi nyt
-Puhuja 2: onkaan? No se on siis Ponsse
-Puhuja 2: oli Ootasko tässä sanon.
-Puhuja 0: Oi, miksi mä en löydä siitä.
-Puhuja 0: Se on Einari.
-Puhuja 2: Joo, yllättäen se on Einari. Kyllä. Ja äänikirjaversio
-Puhuja 0: lukee Antti Heikkinen Iph. Joo, suosittelen lämpimästi.
-Puhuja 0: Hyvä. Hei, mä pokkaan väliin, koska mä en halua, että Maria
-Puhuja 0: kiiruhtaa pois kuuntelematta mun höpineitä.
-Puhuja 0: Nimittäin
-Puhuja 0: mä haluan, että tästä keskustellaan.
-Puhuja 0: Mä luen nyt kirjaa nimeltä
-Puhuja 0: Vi we Sleep,
-Puhuja 0: joka on
-Puhuja 0: tota Matthew Walkerin kirjoittama
-Puhuja 0: tämmöinen
-Puhuja 0: unen fysiologian ja unen mekanismien ja
-Puhuja 0: niinku unen evoluution
-Puhuja 0: ja tämmöisten läpikäynti.
-Puhuja 0: Todella hyvä. Tästä oli mun mielestä vuosi sitten tai kaksi vuotta sitten käytiin paljon keskustelua
-Puhuja 0: tai oikein, internet-aikana, tyyliin kaksi kuukautta sitten, se vaan tuntuu vuosilta.
-Puhuja 0: Niin tosi hyvä ja sitten tosi mielenkiintoinen. Jotenkin tän kirjan myötä
-Puhuja 0: tajusin näitten,
-Puhuja 0: niinku Pitäisi käydä sitä tiedettä tosi paljon.
-Puhuja 0: Mä en ole vielä päässyt siihen, että mä tiesin, mitä tää Matthew Walker suosittaa, että miten pitää nukkua. Mutta se on jotenkin koko ajan menossa sinne.
-Puhuja 0: Siinä on satoja sivuja perusteluita siihen, että mä uskon sitten, kun
-Puhuja 0: nuku näin, niin mä sitten uskon häntä, koska hän on just
-Puhuja 0: tieteellistä tätä sivua perustella.
-Puhuja 0: Mutta sitten mulle tuli siitä sellainen ajatus, että
-Puhuja 0: mulle toi uni, mä nukun
-Puhuja 0: aivan päin persettä.
-Puhuja 0: Nyt varsinkin viime viikkona, kuukausina se on mennyt vielä aivan niin kuin päin helvettiä, että mä, mun unirytmi on silleen, että
-Puhuja 0: mä laitan lapset nukkumaan kymmeneltä.
-Puhuja 0: Mä nukutaan mun pojan, joka on pienempi niistä, niin mä nukutaan sen, ja sitten
-Puhuja 0: kymmenen jälkeen,
-Puhuja 0: niin mä joku painoin salille. Jos mä en paina salille,
-Puhuja 0: niin mä alan puuhaamaan, mä alan siivoan, mä yleensä siivoan lattiasta kattoon koko mun omistamat sataviisikymmentä neliötä ja silleen, että se on niin kuin spotles,
-Puhuja 0: kaikki astianpesukone
-Puhuja 0: jyrrää siellä ja kaikki on silleen niinku, että aamulla tuntuu siltä niin kuin heräis hotellista, että vau.
-Puhuja 0: Ja tota, se on tietenkin aivan mielisairasta ja niin kannattaisi tehdä, koska kello on yleensä vartija vaille yksi, kun mä olen saanut sen jynsäämisen oman tehtyä.
-Puhuja 0: Sit mulle tulee semmoinen hämmentävä puolen tunnin jumitus, missä mä olin silleen, että mun pitäisi nukkua, mun pitäisi nukkua tai mennä nukkumaan. Ja sit puoli tuntia mä vaan jumitan, menemättä nukkumaan. Ja sit mua ahistan, että mä en mee nukkumaan, mä en osaa selittää, miksi mä vaan jotain istun kännykällä.
-Puhuja 0: Sen jälkeen, siinä vaiheessa kello on yleensä vartti yli yksi tai puoli kaksi. Sit mä menen, että okei, nyt mä laitan jonkun kirjan. Jos olen stressissä, tai jotenkin, vieläkään en nukahda siihen kirjaan,
-Puhuja 0: sitten kahden aikaan vaihdan kirjat jotain vähän tylsempää, saanko mä näin. Yleensä ehkä sitten
-Puhuja 0: vartti yli kaksi mä heräsin, tai siis mä olen silleen, että tästä ei tullut mitään tai että mä herään, sitten mä menen syömään.
-Puhuja 0: Sitten mä syön,
-Puhuja 0: ja siinä noin puoli, kolme aikaan mä olen syönyt, ja sitten mä nukahdan, kun mä menen takaisin nukkumaan. Ja sitten mä herään seitsemältä
-Puhuja 0: viemään lapsia. Mä oon elänyt tälleen vuosia.
-Puhuja 0: Tää selvästi on semmoinen asia, johon mä tuun kuolemaan
-Puhuja 0: joskus vanhemmalla iällä, tää ei ole kannattavaa,
-Puhuja 0: joten tää why we shleep kirja saa saatana pelastaa minun hengen, toivottavasti se toimii.
-Puhuja 0: Mutta mulla tuli mieleen, että oisko tälleen, että koronavuoden
-Puhuja 0: aikana, niin onko muille kuin mulle, onko tää yleinen tällainen iso makroilmiö, että itse asiassa
-Puhuja 0: se mitä tapahtui, oli se, että ihmisten rutiinit lakkasi olemasta.
-Puhuja 0: Ja silloin kun ne kaikki se höseltäminen ja se kiire ja sekoilu ja
-Puhuja 0: äkkiä töihin aamulla ja näin, se hävisi, niin sitten meidän rutiinit tuli jotenkin näkyviksi
-Puhuja 0: ja arvioitaviksi. Mä ainakin jotenkin havahduin siihen, että
-Puhuja 0: eka kertaa mä pystyin koronan aikana tarkastelemaan
-Puhuja 0: omaa elämää kriittisesti, että mistä se koostuu,
-Puhuja 0: pitääkö sen olla näin, kannattaako asioita tehdä niin kuin mä olen vuosikymmenet ne tehnyt? Ja sit pikkuhiljaa muuttaa sitä. Ja nyt mulla on menossa tää viimeinen rutiinimuutos,
-Puhuja 0: että mä haluan tuosta mun aivan mielisairaalasta,
-Puhuja 0: mielisairaasta
-Puhuja 0: unirytmistä
-Puhuja 0: eroon.
-Puhuja 0: Mä aion kääntää sen sellaiseksi, mitä Matthewagen
-Puhuja 0: käskee, ja sen jälkeen, kun tää koronahomma on ohi, sit mä taas menen siihen rotan myllyyn,
-Puhuja 0: sit mä en enää pystyisi muuttamaan mitään rutiineja, koska
-Puhuja 0: elämä on liian paljon vaan näin, mutta tää uni on se viimeinen rutiini, jonka mä teen uudelleen. Ja sit mä oon uusi ihminen. Tunnistatko
-Puhuja 0: mitään tästä?
-Puhuja 2: No ei kyllä.
-Puhuja 2: Mä jotenkin huomaan, että musta tää
-Puhuja 2: korona on päinvastoin jo rutiinit kadonnut, mut mua on vaipunua vaan tällaiseen syvään
-Puhuja 0: apatiaan. Maria, pliis.
-Puhuja 1: Tunnistatko mitä? Nuoriso sairastaa syöpää. Sen nimi on apatia.
-Puhuja 1: Mä tunnistan sikäli, että mullakin on mennyt
-Puhuja 1: Ootko sä Tuomas iltavirkku yleensä siis? Olen joo. Niin. Luulen, että meillä iltavirkuilla se unen rytmi heittää
-Puhuja 1: paljon helpommin. Jos minulla ei ole täysin säännöllinen
-Puhuja 1: päiväelämä, että pitää tiettyyn aikaan mennä, niin valvon työt tosi helposti. Se kääntyy aina. Nyt minulla helposti kääntyy niin, että
-Puhuja 1: kun nukutan lapsen, niin nukun samalla vähäsen. Ja sitten herään ja saatan tehdä töitä vielä vaikka
-Puhuja 1: yöllä. Mikä ei ole mitenkään kauhean terveellinen rytmi, mutta
-Puhuja 1: tunne niistä. Sitten jos korjaisin
-Puhuja 1: unirytmin, niin sitten
-Puhuja 1: elämä olisi kaikin puolin parempaa. Mutta
-Puhuja 1: viime aikoina olen lukenut
-Puhuja 1: muinaishistorian
-Puhuja 1: tai luolamiehistä
-Puhuja 1: ja muista, ja huomannut, että ihmiskunnan historiassa semmoinen unirytmi, että unet nukutaan yöllä ja muuten valvotaan, on kuitenkin
-Puhuja 1: aika tuore keksintö. Että sellainen, että tästä nukkuu pätkissä vuorokauden, mikä on ihan hyvä asia.
-Puhuja 0: Okei, kiinnostavaa.
-Puhuja 1: Joo, kunhan sitä saa vaan tarpeeksi.
-Puhuja 0: Jos te
-Puhuja 0: rakkaat kuulijat olette
-Puhuja 0: keksineet rutiininne uudelleen, niin kertokaa mulle niistä, koska mä haluan, mun mielestä se on kiehtova. Mä sanon vielä yhden
-Puhuja 0: poikkaan vielä. Mä esimerkiksi tein silleen, että mä kellotin mun aamurutiinin.
-Puhuja 0: Mitä kestää
-Puhuja 0: siitä, että mä nousen sängystä ylös siihen, että mä oon ulko-ovella ulkovaatteet päällä, semmoinen mujin take away kahvikuppi
-Puhuja 0: kädessä
-Puhuja 0: valmiina lähtemään niin kuin juna-asemalle.
-Puhuja 0: Siihen kestää kahdeksantoista
-Puhuja 0: minuuttia sellaiseen rauhalliseen, mukavaan tahtiin.
-Puhuja 0: Se on tosi arvokas tieto, että
-Puhuja 0: kahdeksantoista minuuttia siitä, kun mä herään, niin siihen, että mä näin. Se jotenkin rauhoittaa aamea aivan erilailla. Tämä ei olisi ollut mahdollista mikään näistä,
-Puhuja 0: jos näitä
-Puhuja 0: mullistuksia elämässä on.
-Puhuja 0: Mutta
-Puhuja 0: Maria, mistä sä juttelisit? Suosittelen
-Puhuja 1: teille myös elämäkertaa, mihin se on sellainen Puhuin joku aika sitten,
-Puhuja 1: kustannustoimittaja kaverini kanssa he valitteli sitä, että
-Puhuja 1: aina mediassa kriittisesti
-Puhuja 1: huomautellaan, kun ei ole naisten elämäkertoja
-Puhuja 1: myynnissä ja mainoksissa
-Puhuja 1: on miesten elämäkertoja. Kuitenkin monet
-Puhuja 1: naisten elämäkerrat
-Puhuja 1: harmi kyllä myyvät hyvin vähän edelleenkin, ja ne hitit on usein miehiä.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin Sanomat Hei ja Helsingistä... Ei, no
+Puhuja 2: niin.
+Puhuja 1: Ota Mikko toi mukaan nauhalle.
+Puhuja 1: Hei ja tervetuloa Helsingin Sanomien Uutiraportti-podcastiin
+Puhuja 1: torstaina
+Puhuja 1: kahdeksantoista.
+Puhuja 1: Päivä.
+Puhuja 1: Onko edelleen maaliskuu?
+Puhuja 1: Vitsi nää kuukaudet tuntuu pitkiltä nykyään. Maaliskuu edelleen, vuonna kaksituhatta
+Puhuja 1: kaksikymmentäyksi mun nimi on Tuomas Peltomäki ja kanssani täällä Helsingin Sanomien
+Puhuja 1: podcast-studiossa,
+Puhuja 1: jossa on jonkinnäköinen uusi lamppusysteemi
+Puhuja 1: tuolla,
+Puhuja 1: vau, nyt vasta huomasin,
+Puhuja 1: ovat
+Puhuja 1: sunnuntai... Ei, kun mikäs, politiikan toimittajathan sinä olet. Marko Junkkari, hei Marko. Moi. Kyllä mä olen myös sunnuntai. Tiedän, mutta en ollut tätä gloriaa ikinä.
+Puhuja 1: Sitten internetin kautta
+Puhuja 1: kotoaan
+Puhuja 1: betonipunkkerista,
+Puhuja 1: jossa on nolla prosenttia internettiä,
+Puhuja 1: on sunnuntaaliittojen
+Puhuja 1: toimittaja Maria Manner. Hei Maria.
+Puhuja 2: Hei, Markku ja Tuomas. Mitäs teille kuuluu? Liioittelet
+Puhuja 1: tähän. Ja mä tiedän, se on mun tapa.
+Puhuja 2: Mitä kuuluu? Kuuluu ihan hyvä, harmiiko meillä voi olla siellä.
+Puhuja 2: Päiväkodissa on koronaa ja mä en uskalla,
+Puhuja 2: tai ei liene järkevää tulla sinne, niin toivottavasti tää tekniikka päättyy. No sun nolla prosentin internet välistä häivyttää sit kokonaan.
+Puhuja 3: Mutta se ei haittaa, mutta se pystyy hyvin arvailemaan, mitä sanoja jäi välistä pois. Niin.
+Puhuja 1: Mutta ääniversioon me saadaan sellainen, että sun ääni on siinä kirkas ja kuulova ja näin. Mutta Tuomas, mitäs sulle kuuluu?
+Puhuja 1: Ai kerrankin kysytään multakin, että mitä kuuluu. Ihan kuin olisin itse ehdottanut, kun se ennen lähetettäisiin.
+Puhuja 3: Meni kamalan muatilasta. Mä haluan kiittää
+Puhuja 1: sellaista kuuntelijaa, joka lähetti mulle aivan todella kivan
+Puhuja 1: sähköpostin.
+Puhuja 1: Ja hän,
+Puhuja 1: muistaakseni
+Puhuja 1: hän, kuten monet muutkin ihmiset olivat jotenkin riemastuneet mun käynnistä Ylen
+Puhuja 1: viimeinen sana ohjelmassa,
+Puhuja 1: mut sit hän oli tämmönen vanhempi
+Puhuja 1: herrasmies.
+Puhuja 1: Ja sen takia hän kirjoitti, hänellä on oikeus kirjoittaa minulle
+Puhuja 1: tota iän ja viisauden
+Puhuja 1: Suomen valtuuksin,
+Puhuja 1: että varppas poika sitä lihomista.
 Puhuja 1: Ja
-Puhuja 1: tästä innostuneena,
-Puhuja 1: juuri minulle sattui olemaan kesken ihan loistava kerta, jonka päähenkilö on nainen. Ja se koskee
-Puhuja 1: stänkalaista kirjailija Kaury Fiksenia, joka asuu Afrikassa viime vuosisadan alussa.
-Puhuja 1: Ja tämä on mitenkään erityisen tuttu hahmo mulle mitenkään, mutta se kirja on aivan loistava. Se on ollut kiinnostava,
-Puhuja 1: otavalta tullut nimellä naarasleijona.
-Puhuja 1: Ja se on kiinnostava ajankuvaa siitä siirtomaapolitiikasta
-Puhuja 1: Itä-Afrikassa 1900-luvun
-Puhuja 1: alussa, ja myös sellaisesta, tämä Bliksen
-Puhuja 1: halveksu syvästi esimerkiksi englanlaista keskiluokkaa, ja ylipäänsä
-Puhuja 1: keskiluokkaista rahvasta, ja halusi samastua
-Puhuja 1: eliittiin ja aristokratiaan.
-Puhuja 1: Eli kalliilla
-Puhuja 1: halveksi
-Puhuja 1: myös oman sukunsa porvarillista eläväntyyliä,
-Puhuja 1: mutta oli kuitenkin hyvin riippuvainen heidän rahoistaan siellä Afrikassa.
-Puhuja 1: Mielelläni se on.
-Puhuja 1: Kannattaa lukea, se on hyvin kirjoitettu historioitsija.
-Puhuja 0: Blicsen oli mun lukioaikana semmoinen iso juttu, joka
-Puhuja 0: lukion kurssi oli pelkkää Blicsen ja sen takia on hyvin allerginen hänelle.
-Puhuja 0: Miksi.
-Puhuja 0: No siks, kun se tuli väärään aikaan väärään just siirtamaan, mie en minäkään muita. Ei kyllä kiinnostanut silmääkään silloin, kun oli kuusitoista ja oli vaan piilomies, niin kuin Matti Nykänen sanoi.
-Puhuja 0: Anteeksi toi Rubus-Seikillä
-Puhuja 0: kuuluu poliittiseen asian.
-Puhuja 0: Noni, kiitos.
-Puhuja 0: Kiitos Marjo.
-Puhuja 0: Kiitos Marko Junkkare. Kiitos.
-Puhuja 0: Mun nimi on Tuomas Pelmäki, ja ääni ja kuvaaja kaikille mun mahtaminen meille tekee tällä viikolla Mikko Peura.
-Puhuja 0: Laittakaa palautetta meille.
-Puhuja 0: Twitter nimisessä viestitielinisen
-Puhuja 0: keskustelun sovelluksessa:
-Puhuja 0: uutiskirjeraportti.
-Puhuja 0: Te, jotka ette ole Twitterissä, lähettäkää sähköpostia.
-Puhuja 0: Pistäkää minut Margot ja marjat siihen Zoom-kenttään ja kirjoitelkaa mitä mieleen tulee. Se on aina niin kivaa, kun joku kirjoittaa, me tullaan siitä ihan pohjatmaan hyvälle mielelle. Ei siinä tarvi olla mitään pointtia, kirjettäkää muuten vaan. Noniin, kuoletaan
-Puhuja 0: ens liike.
+Puhuja 1: tästä mä jäin tätä pohtimaan, että just näin, mulla rupee olemaan niinku viimeisiä hetkiä, viimeisiä vuosia, jolloin mä pystyn tähän asiaan vaikuttamaan.
+Puhuja 1: Et muuten se on menoa, että sitten ei vaan kykene enää.
+Puhuja 1: Niinpä
+Puhuja 1: mä aattelin, että mä alan laihikselle,
+Puhuja 1: ja mä menin eilen täällä sanomatalossa, mä
+Puhuja 1: kävelin ulos täältä, menin tohon lähikauppaan,
+Puhuja 1: mä ostin pussin porkkanoita ja kuorimaveitsen,
+Puhuja 1: ja mä söin eilen mun lounaan
+Puhuja 1: kahden porkkanan muodossa, mutta tiedättekö mitä?
+Puhuja 1: No?
+Puhuja 1: Heti
+Puhuja 1: se kuorimaveitsi viilsi mun haavan.
+Puhuja 1: Mun mielestä tää oli nyt merkki jostain, että mä oon astumassa
+Puhuja 1: vaaralliselle tielle.
+Puhuja 1: Tiedättekö mitä muuta?
+Puhuja 1: Tää on nyt aivan toinen juttu. Mulle kävi aivan järkyttävä onnettomuus
+Puhuja 1: eilen,
+Puhuja 1: tää samalla porkkanapäivänä.
+Puhuja 1: Niin. Mä hukkassin mun lompakon heti sen jälkeen, kun mä olin ostanut ne porkkanat.
+Puhuja 1: Ajattele.
+Puhuja 1: Tää on ihan
+Puhuja 1: enteitä
+Puhuja 1: ja karitsuita
+Puhuja 1: ja tehtiä tämä koko homma.
+Puhuja 3: Kai, olet luoponut nyt tästä lajiksesta.
+Puhuja 1: En vielä, koska tiedätkö, mitä tapahtui? Heti kun olin tullut, etsin sitä kotoa tai etsin Hyvinkään liidlin
+Puhuja 1: parkkipaikalta, missä se voi olla,
+Puhuja 1: ja etsin sitä. Mä tulin, viimeinen oli, että ehkä se on jäänyt mun työpisteelle tänne töihin. Sitten mä tulin tänne töihin, mä menin mut työpisteelle, mä olin aivan varma, että siellähän se on, mä olen unohtanut lompakon sinne.
+Puhuja 1: Ja ei ollut, sitä ei ollut siellä, se oli oikeasti mennyt hukkaan, mutta tiedätkö mitä, josko mä olin tullut siihen tulokseen, että se on ihan aidosti, oikeasti mennyt hukkaan, mä otin mun kännykän,
+Puhuja 1: avasin sen, ja siihen tuli ilmoitus, että OP on päivittänyt palvelunsa ja nyt sun kortit löytyy Apple Valletesta.
+Puhuja 1: Aivan
+Puhuja 1: käsittämätöntä! Niin? Mitä niille tapahtuu?
+Puhuja 3: Vihreiden ehdokasmäärä myös nousi merkittävästi, niillä oli viime viikolla kaksituhatta kuusisataaseitsemänkymmentäkuusi
+Puhuja 3: ehdokasta.
+Puhuja 1: Mutta vihreiden kannatus tässä gallupissa
+Puhuja 1: laskee, se... Tai se...
+Puhuja 1: Vihreiden kannatus jotenkin,
+Puhuja 1: se ei liiku,
+Puhuja 1: se on semmoinen pötkö.
+Puhuja 1: Ja sitten vihreät ei jotenkin...
+Puhuja 1: He ei saa sellaista, tai jotenkin tuntuu, että he ei saa tästä hallituksesta irti.
+Puhuja 3: Se nyt vahvasti näyttää, että jotenkin tämä on, että tässä on blokkiutunut mistä ollaan monta kertaa ennenkin puhuttu. Silloin kun demarit nousee niin
+Puhuja 3: itseasiassa
+Puhuja 3: lisäkannat tulee
+Puhuja 3: muista punavihreeistä folueista, eli vihreistä tai vassareista.
+Puhuja 2: Niin, olkaa hyvä. Niin, sano vaan. Eikö sano, jos sulla on vihreistä?
+Puhuja 1: No,
+Puhuja 1: mä hain tätä samaa asiaa aina, niin ehkä mä en toista sitä, että
+Puhuja 1: mun mielestä niillä on iso ongelma. Mä veikkaan, että niillä käy todella huonosti vaaleissa. Menestyy
+Puhuja 1: Helsingissä ja sitten muuten tulee lunta pois.
+Puhuja 3: Joo,
+Puhuja 3: mutta hyvät,
+Puhuja 3: mulla ei nyt ole tarkkoja tietoja, itse asiassa tänään varmaan selviää nyt, tänään torstaina selviää tarkemmin nämä ehdokasasettelun
+Puhuja 3: Mutta vihreät
+Puhuja 3: on, vihreällä on käsittääkseni aika onnistunut
+Puhuja 3: heille aika hyvin ehdokashankinta.
+Puhuja 3: Heillä on ihan uusia kuntia näissä vaaleissa. Niille on kuntia, jotka kaksituhatta seitsemäntoista ei ollut yhtään ehdokasta. Nyt niillä on.
+Puhuja 3: Ja niillä on
+Puhuja 3: lähes täydet tai lähettää lähes täydet listat kaikissa isoissa kaupungeissa
+Puhuja 3: ja myös keskisuurissa. Eli ne tavallaan vihreät pystyvät...
+Puhuja 3: Vihreät ei ole...
+Puhuja 3: Tavallaan se aina vähän ylipäätään teen näistä katsoa kuntavaalien
+Puhuja 3: tuloksia
+Puhuja 3: maanlaajuisesti, koska tässä käydään siis kolmet
+Puhuja 3: paikallisvaalit.
+Puhuja 3: Mutta vihreitä on aina
+Puhuja 3: rokottanut se, koska on paljon kuntia, missä vihreitä ei ole
+Puhuja 3: saanut nolla prosenttia äänistä, kun heitä ei voinut äänestää. Ja nyt tavallaan tää on... Juuri, jos he saa yhdenkin
+Puhuja 1: ehdokkaan sinne kuntaan, niin se on tavallaan ja todella paljon, koska heitä voi ylipäätänsä äänestää. Silloin ainakin saa sen yhden äänen.
+Puhuja 1: Hyvin raadollista puhetta.
+Puhuja 3: Oli ja sehän on aina hauskinta kuntavaalien tuloksissa, kun se julkaistaan siis kaikkien ehdokkaat tulokset julkaistaan ja siellä on aina lukuisia ihmisiä, jotka saa nollan.
+Puhuja 1: Niin. Ei ole edes itse vaivatonta tule äänestämään. Mä en äänestäisi itseäni, en mistään hinnasta olisi ehdokkaana, en
+Puhuja 3: Ajattele,
+Puhuja 3: että osa nyt kamalaa, jos vaikka
+Puhuja 3: olisi ehdolla ja saisit siihen yhden äänen ja tietäisit sen yhden äänen. Niin kaikki. Kima-ikiä ikinä on jo äänestänyt sinua, kun vaimo ei ole äänestänyt.
+Puhuja 2: Nolla on tavallaan tyylikkään.
+Puhuja 2: Niin.
+Puhuja 2: Mutta kyllä mä mietin, että tämä on jotenkin jännittävää, kun kaksi
+Puhuja 2: kuukautta lykkäystä on tavallaan lyhyt aika, mutta sitten taisi olla pitkä aika, etenkin jos tulee vaikka liikkumisrajoituksia.
+Puhuja 2: Mietin, että miten ne vaikuttaa hallituspuolueiden
+Puhuja 2: kannatukseen?
+Puhuja 2: Tässä jotenkin voisin kuvitella,
+Puhuja 2: että... Tai miten Marko tai Tuomaskin?
+Puhuja 3: Täysin
+Puhuja 3: mutu-pohjalta
+Puhuja 3: niin
+Puhuja 3: luulen, että hallitus
+Puhuja 3: siinä mielessä
+Puhuja 3: se että jos kuntavaalit olisivat olleet huhtikuun puolivälissä ja jos silloin olisi
+Puhuja 3: liikkumisrajoitukset
+Puhuja 3: päällä, niin kyllä siellä kaikilla olisi ollut aika
+Puhuja 3: paskat fiilikset. Ja se olisi varmaankin ollut negatiivista hallitukselle.
+Puhuja 3: Mutta jos kesäkuun puolivälissä, jos
+Puhuja 3: pahin hätä on ohi, ja tavallaan
+Puhuja 3: tartunnat ovat kurissa,
+Puhuja 3: ja pääsee taas terassille, niin kaikilla on hyvä mieli. Se ehkä hyödyttää hallitusta.
+Puhuja 2: Ja kyllä siihen mennessä tietysti rokotukset ovat jo jonkin verran edenneet.
+Puhuja 3: Tai siis selkeästi? On. Ja jos kesäkuussa
+Puhuja 3: tämä menee viime vuonna, niin kyllä sitten pitäisi sen kausivaihtelunkin
+Puhuja 3: myös auttaa.
+Puhuja 2: Auttaa, mutta en tuudittautuisi liikaa siksi, että viime vuonna
+Puhuja 2: Suomihan käytännössä se
+Puhuja 2: tauti ravintola koulusolulla keväällä.
+Puhuja 2: Siihen lähdettiin tosi alhaiselta tasolta. Että nyt, jos
+Puhuja 2: tartunnat pääsee leviämään, niin ei siitä kesästäkään ehkä ihan niin kivaa tule. Mutta voisi toivoautua. Ja tuo on kyllä ihan totta. Tästä juuri eilen keskustelin erään kaverin
+Puhuja 3: kanssa, ja sitten ruvettiin muistelemaan,
+Puhuja 3: että
+Puhuja 3: jos muistan oikein, niin samaan aikaan
+Puhuja 3: kausivaihtelu
+Puhuja 3: joo auttoi asiaa, mutta esimerkiksi Jenkeissä monissa osavaltioissa se piikki tuli vastaan joskus kesä-heinäkuussa.
+Puhuja 3: Kyllähän sielläkin on kesä, ei se aurinko automaattisesti
+Puhuja 1: auta. Niin, ei. Ja eihän siis kausivaihtelu
+Puhuja 1: välttämättä liity auringonvaloa,
+Puhuja 1: sitä ei osata selittää, että mihin se liittyy. Se voi liittyä ihmisten käytöksen
+Puhuja 1: vaihteluun kausi. Niin.
+Puhuja 1: Okei, sitten kun...
+Puhuja 1: Sitten kun Tuomas Peltomäki,
+Puhuja 1: tää nyt,
+Puhuja 1: mikään tässä ei pidä paikkaansa.
+Puhuja 1: Sitten kun Tuomas Peltomäki,
+Puhuja 1: kaksikymmentäyhdeksän.
+Puhuja 1: Päivä tätä kuuta,
+Puhuja 1: tällaisessa paikassa Hyvinkäällä
+Puhuja 1: järjestää totaalisen
+Puhuja 1: Jos me juodaan alkoholia ja kreisi biletaan,
+Puhuja 1: ja sinne voi pyytää lippua mun sähköpostissa.
+Puhuja 1: Niin, niin tota
+Puhuja 1: mikään tossa ei pidä paikkaansa, Ignor oiko.
+Puhuja 1: Niin sit siellä Syns Wave Pardissa
+Puhuja 1: Hyvinkäällä sellaisessa eräässä erittäin kuulessa industrialla konehallissa,
+Puhuja 1: Niin siellä sitten johtaviinaa,
+Puhuja 1: otti silleen, että hei tuon vitsit kun on hyvät bileet ja
+Puhuja 1: kuulija tää on musaa, miten susta on tullut noi hieno mies.
+Puhuja 1: Siellä sitten, mistäs jututtte
+Puhuja 1: muuta bailukansaa?
+Puhuja 1: Mistä Marko aloittaisi?
+Puhuja 3: Tota,
+Puhuja 3: mä rupesin lukemaan tota
+Puhuja 3: kirjaa tuosta Einari Vihreistä. Oho. Tiedätte,
+Puhuja 3: kuka se on? En.
+Puhuja 3: Miksi sanoit sitten noin innostuneesti?
+Puhuja 1: No kun se kuulosti jotenkin supersivistyneelle.
+Puhuja 3: Einari Vigreen on siis Ponsse-yhtiön
+Puhuja 3: perustaja. Sieltä Ylä-Savosta
+Puhuja 3: tällainen
+Puhuja 3: maalaispoika, joka
+Puhuja 3: kävi nuorena poikana metsätöissä.
+Puhuja 3: Sitten oli kiinnostunut koneista, ja rupesi miettimään miten tätä voisi tehdä.
+Puhuja 3: Sajisi
+Puhuja 3: isänsä puuttua ympäri ja perheeseen ja ostettiin traktoria.
+Puhuja 3: Hän oli kova tekemään hommia.
+Puhuja 3: Sitten säästin, että sai jonkun arveserintapaisen.
+Puhuja 3: Saatiin niitä puita tehokkaammin pinoon.
+Puhuja 3: Sitten Einari
+Puhuja 3: huomasi, että
+Puhuja 3: kaikkien
+Puhuja 3: valmiina myytävät
+Puhuja 3: metsätyökoneet ovat jotenkin kelvottomia ja rupesi
+Puhuja 3: kehittämään niitä itse. Hän perusti firman Ponssen, ja siitä tuli sitten vuosien varrella...
+Puhuja 3: En tiedä, no
+Puhuja 3: iso metsäkoneyhtiö
+Puhuja 3: on edelleenkin
+Puhuja 3: olemassa Helsingin pörssissä ja Einarista
+Puhuja 3: tuli hyvin rikas mies. Mutta tämä on ihan mahtava tämä kirja. Hän on tehnyt Antti Heikkinen.
+Puhuja 3: Tämä on siis elämäkerta, mutta niin kuin hän itsekin sanoi, että kirjailija sanoi esipuheessaan, että tämä on itse asiassa ihan fiktiota.
+Puhuja 3: Hän
+Puhuja 3: on siis kirjailija ja sitten se on kirjoittanut
+Puhuja 3: elämäkerta,
+Puhuja 3: mutta siinä on aika paljon käytetty mielikuvitusta. Siinä on kirjoitettu...
+Puhuja 3: Siinä on esimerkiksi yksi sellainen mahtava kohtaus, joka kertoo tällaisesta yhdestä
+Puhuja 3: koirasta,
+Puhuja 3: joka
+Puhuja 3: juoksee jossain Sonkajärven keskustassa ja ajaa takaa omaa häntäänsä.
+Puhuja 3: Se oli koira vinkkelistä kerrottu keskellä elämäkerta, joka on ripu.
+Puhuja 3: Sitten selviää, että koiran nimi oli Ponsse, ja siitä Einari
+Puhuja 3: päätti, että sen firman nimeksi tulee Ponsse.
+Puhuja 3: Ja se on niin kuin poolaa.
+Puhuja 3: Se on ihan mahtava kirja, se on kirjoitettu silleen vielä. Sitten siinä on kaikenlaista,
+Puhuja 3: Siinä on dialogimuotoon tehty asioita, mistä
+Puhuja 3: ei varmasti ole mitään lähteitä ja mitkä on niin kuin Einari sisäistä pohdiskelua.
+Puhuja 3: Ja Einari on siis
+Puhuja 3: kuollut jo aikaa sitten. Minusta se oli kaksituhatta kymmenen, kun se kuoli.
+Puhuja 3: Mutta
+Puhuja 3: tuota kaksituhatta kymmenen joo. Aivan mahtava kirja. Sitten saatu sellainen...
+Puhuja 3: Siinä yhdistyy Suomen taloushistoria
+Puhuja 3: siitä, miten siirryttiin hevosten käytöstä traktoreihin
+Puhuja 3: ja koneiden käyttöön. Sitten tällainen
+Puhuja 3: yläsavolaisuus.
+Puhuja 3: Kaikki vihaan lukee kirjoja, missä puhutaan murretta, mutta tuosta kaikki dialogi on sillä Savon murteella. Ja Aleksi se vähän tottua, niin sitä olikin tosi hauskaa lukea. Se olisi todella kiehtova kirja,
+Puhuja 1: suosittelen. Sano vielä kuka oli kuka nero on kirjoittanut?: Tämä on Antti
+Puhuja 3: Heikkinen.
+Puhuja 2: Kuulostaa
+Puhuja 2: kiehtovalta. Kuulostaa kiehtovalta.
+Puhuja 1: Joo, suosittelen. Mä rupesin... Sano vielä kirjan nimi.
+Puhuja 3: Kirjan nimi on, mikä sen nimi nyt onkaan?
+Puhuja 3: Se on siis Ponsse oli... Odotas kun tässä sanon.
+Puhuja 1: Oho, miksi mä en löydä sitä...
+Puhuja 1: Se on Einari.
+Puhuja 1: Joo, yllättäen se on Einari. Kyllä. Ja äänikirjaversio lukee Antti Heikkinen it. Joo, suosittelen lämpimästi.
+Puhuja 1: Hyvä. Hei, mä pokkaan väliin, koska mä en halua, että Maria
+Puhuja 1: kiiruhtaa pois kuuntelematta mun höpineitä,
+Puhuja 1: nimittäin
+Puhuja 1: mä haluan, että tästä keskustellaan.
+Puhuja 1: No.
+Puhuja 1: Mä luen nyt kirjaa nimeltä Vi we Seil
+Puhuja 1: joka
+Puhuja 1: on tota Matthew Walkerin kirjoittama
+Puhuja 1: tämmöinen unen fysiologian
+Puhuja 1: ja unen mekanismien
+Puhuja 1: ja unen evoluution ja tämmöisten
+Puhuja 1: läpikäynti.
+Puhuja 1: Todella hyvä. Tästä oli mun mielestä vuosi sitten tai kaksi vuotta sitten käytiin paljon keskustelua,
+Puhuja 1: tai sille oikein internet-aikana,
+Puhuja 1: tyyliin kaksi kuukautta sitten se vaan tuntuu vuosilta.
+Puhuja 1: Niin
+Puhuja 1: tosi hyvä ja sitten tosi mielenkiintoinen. Jotenkin tän kirjan myötä tajusin näitten,
+Puhuja 1: pitäisi käydä sitä tiedettä tosi paljon. Mä en ole vielä päässyt siihen, että mä tiesin, mitä tää Matthewuokka
+Puhuja 1: suosittaa, että miten pitää nukkua, mutta se on jotenkin koko ajan menossa sinne.
+Puhuja 1: Että siinä on satoja sivuja perusteluita siihen, että mä uskon sitten, kun hän sanoo, että nuku näin, niin mä sitten uskon häntä, koska hän on just tieteellistä
+Puhuja 1: sata sivua perustellut.
+Puhuja 1: Mutta sitten mulle tuli siitä sellainen ajatus, että
+Puhuja 1: mulle toi uni, mä nukun aivan päin persettä.
+Puhuja 1: Nyt varsinkin viime
+Puhuja 1: viikkona kuukausina se on mennyt vielä aivan niin kuin päin helvettiä, että mä mun unirytmi on silleen, että
+Puhuja 1: mä laitan lapset nukkumaan kymmeneltä.
+Puhuja 1: Mä nukutan mun pojan, joka on pienempi niistä, niin mä nukutan sen, ja sitten
+Puhuja 1: kymmenen jälkeen,
+Puhuja 1: niin
+Puhuja 1: mä joko painoin salille. Jos mä en paina salille,
+Puhuja 1: niin mä alan puuhaamaan, mä alan siivoan, mä yleensä siivan lattiasta kattoon koko mun omistamat sataviisikymmentä neliötä ja silleen, että se on niinku spotles,
+Puhuja 1: kaikki astianpesukone
+Puhuja 1: jyrää siellä ja kaikki on silleen niinku, että aamulla tuntuu siltä niinku heräis hotellista, että vau.
+Puhuja 1: Ja tota, se on tietenkin aivan mielisairasta ja niin ei kannattaisi tehdä, koska kello on yleensä sitten varttia vaille yksi, kun mä olen saanut sen jynsäämisen oman tehtyä.
+Puhuja 1: Sit mulle tulee semmoinen hämmentävä puolen tunnin jumitus, missä mä olen silleen, että mun pitäisi
+Puhuja 1: nukkua tai mennä nukkumaan. Ja sit tuon tuntia mä vaan jumitan, menemättä nukkumaan. Ja sit mua ahistan, että mä en mee nukkumaan, mä en osaa selittää, miksi mä vaan jotain istun kännykällä.
+Puhuja 1: Sen jälkeen, siinä vaiheessa kello on yleensä vartti yli yksi tai puoli kaksi. Sit mä menen, että okei, nyt mä laitan jonkun kirjan. Jos mä olen stressissä, tai jotenkin, vieläkään en nukahda siihen kirjaan,
+Puhuja 1: sit mä kahden aikaan vaihdan kirjat jotain vähän tylsempää, että saanko mä näin? Yleensä ehkä sitten
+Puhuja 1: varttiilikaks mä heräisin, tai siis mä olen silleen, että tästä ei tullut mitään tai että mä herään, sitten mä menen syömään.
+Puhuja 1: Sit mä syön,
+Puhuja 1: ja siinä noin puoli, kolme aikaan mä olen syönyt, ja sitten mä nukahdan, kun menen takaisin nukkumaan. Ja sitten mä herään seitsemältä
+Puhuja 1: viemään lapsia. Mä olen elänyt tällä lailla vuosia. Tää selvästi on semmoinen asia, johon mä tuun kuolemaan
+Puhuja 1: joskus vanhemmalla iällä, tää ei ole kannattavaa,
+Puhuja 1: joten tää why we' sleep kirja saa saatana pelastaudun hengen, toivottavasti se toimii.
+Puhuja 1: Mutta mulla tuli mieleen, että
+Puhuja 1: oisko tälleen, että
+Puhuja 1: koronavuoden
+Puhuja 1: aikana, niin onko muille kuin mulle, onko tää yleinen tällainen iso makroilmiö,
+Puhuja 1: että itse asiassa
+Puhuja 1: se mitä tapahtui, oli se, että ihmisten rutiinit lakkasi olemassa.
+Puhuja 1: Ja silloin kun ne kaikki se höseltäminen ja se kiire ja sekoilu
+Puhuja 1: ja
+Puhuja 1: äkkiä töihin aamulla ja näin se hävisi, niin sitten meidän rutiinit tuli jotenkin näkyviksi
+Puhuja 1: ja arvioitaviksi. Mä ainakin jotenkin havahduin siihen, että
+Puhuja 1: eka kertaa pystyin koronan aikana
+Puhuja 1: tarkastelemaan
+Puhuja 1: omaa elämää kriittisesti, että mistä se koostuu,
+Puhuja 1: pitääkö sen olla näin, kannattaako asioita tehdä niin kuin olen vuosikymmenet ne tehnyt. Ja sitten pikkuhiljaa muuttaa sitä. Ja nyt mulla on menossa tää viimeinen rutiinimuutos, että mä haluan tosta mun aivan
+Puhuja 1: mielisairaalasta,
+Puhuja 1: mielisairaasta unirytmistä
+Puhuja 1: eroon.
+Puhuja 1: Mä aion kääntää sen sellaiseksi, mitä Matthewagen
+Puhuja 1: käskee, ja sen jälkeen kun tää koronahomma on ohi, sit mä oon taas, mä meen siihen ratan myllyyn, sit mä en enää pystyis muuttaa mitään rutiineja, koska elämä on liian paljon vaan näin, mut tää uni on se viimeinen
+Puhuja 1: rutiini, jonka mä teen uudelleen,
+Puhuja 1: ja sit mä oon niinku uus ihminen, Tunnistatteko mitään tästä?
+Puhuja 3: No ei kyllä.
+Puhuja 3: Mä jotenkin huomaan, että musta tää
+Puhuja 3: korona on päinvastoin jo rutiinit kadonnut, mut mua on vaipunu vain tällaiseen syvään apatiaan.
+Puhuja 1: Maria, blii.
+Puhuja 2: Tunnistatko mitä on? Nuoriso sairastaa syöpää, sen nimi on
+Puhuja 2: apatia.
+Puhuja 2: Mä tunnistan sikäli, että mullakin on mennyt...
+Puhuja 2: Ootko sä Tuomas iltavirkku yleensä siis? Olen, joo. Niin. Minä luulen, että meille iltavirkuilla se unen rytmi jotenkin heittää paljon helpommin.
+Puhuja 2: Jos minulla ei ole ihan täysin säännöllinen
+Puhuja 2: päiväelämä, että vie tiettyyn aikaan mennä, niin minä valvon yö tosi helposti. Se kääntyy aina. Nyt minulla helposti kääntyy niin, että
+Puhuja 2: kun nukutan lapsen, niin nukun samalla vähäsen. Ja sitten herään ja saatan tehdä töitä vielä vaikka
+Puhuja 2: yöllä. Mikä ei ole mitenkään kauhean terveellinen rytmi.
+Puhuja 2: Mutta tunne niistän. Sitten minulla aina tulee, että jos korjasin unirytmin, niin sitten
+Puhuja 2: elämä jäisi kaikin puolin parempaan. Mutta
+Puhuja 2: viime aikoina olen lukenut
+Puhuja 2: muinaishistorian
+Puhuja 2: tai huolamiehistä ja muistaen, että
+Puhuja 2: ihmiskunnan historiassa sellainen unirytmi, että yöunet nukutaan yöllä ja muuten valvotaan, on kuitenkin
+Puhuja 2: aika tuore keksintö. Että semmoinen, että sitä nukkuu pätkissä
+Puhuja 2: vuorokauden, mikä on ihan hyvä asia.
+Puhuja 1: Okei, kiinnostavaa.
+Puhuja 2: Joo, kunhan sitä saa vaan tarpeeksi.
+Puhuja 1: Jos te
+Puhuja 1: rakkaat kuulijat olette
+Puhuja 1: keksineet rutiininne
+Puhuja 1: uudelleen, niin kertokaa mulle niistä, koska mä haluan, mun mielestä se on kiehtova. Mä sanon vielä yhden
+Puhuja 1: puikkaan vielä. Mä esimerkiksi tein silleen, että mä kellotin mun aamorutiinin.
+Puhuja 1: Mitä
+Puhuja 1: kestää siitä, että mä nousen sängystä ylös siihen, että mä olen ulko-ovella
+Puhuja 1: ulkovaatteet päällä, semmoinen mujin take away kahvikuppi
+Puhuja 1: kädessä
+Puhuja 1: valmiina lähtemään niin kuin juna-asemalle,
+Puhuja 1: siihen kestää kahdeksantoista minuuttia semmoiseen rauhalliseen mukavaan tahtiin.
+Puhuja 1: Se on tosi arvokas tieto,
+Puhuja 1: että kahdeksantoista minuuttia siitä, kun mä herään, niin siihen, että mä näin. Se jotenkin rauhoittaa aamea aivan erilailla. Tää ei olisi ollut mahdollista mikään näistä, jos tuota ei olisi näitä mullistuksia elämässä.
+Puhuja 1: Mutta Maria,
+Puhuja 1: mistä sä juttelisit?
+Puhuja 2: Suosittelen teille myös elämäkertaa,
+Puhuja 2: mihin se on sellainen, puhun aika sitten pyhäkustanjaa
+Puhuja 2: kaverini
+Puhuja 2: kanssa, ja he valitteli sitä, että
+Puhuja 2: aina mediassa kriittisesti
+Puhuja 2: huomautellaan, kun ei ole naisten elämäkertoja
+Puhuja 2: myynnissä, ja mainoksissa
+Puhuja 2: on naisten elämäkertoja, mutta kuitenkin monet
+Puhuja 2: naisten elämäkerrat
+Puhuja 2: harmi kyllä myyvät hyvin vähän edelleenkin,
+Puhuja 2: ja ne hitit on usein miehiä.
+Puhuja 2: Ja sitten tästä innostuneena,
+Puhuja 2: juuri mulla sattui olemaan kesken ihan loistava elämäkerta, jonka päähenkilö on nainen. Ja se koskee
+Puhuja 2: tanskalaista kirjailijaa Kari Likseniä, joka asuu Afrikassa viime vuosisadan alussa. Ja mä en ole mitenkään täällä erityisen tuttu hahmo mulle mitenkään, mutta se kirja on aivan loistava. Se on ollut kiinnostava
+Puhuja 2: Otavalta tullut nimellä naarasleijona.
+Puhuja 2: Ja se on kiinnostavaa ajankuvaa siitä
+Puhuja 2: siirtomaapolitiikasta
+Puhuja 2: Itä-Afrikassa 1900-luvun
+Puhuja 2: alussa, ja myös sellaisesta, tämä Bliksen
+Puhuja 2: halveksu syvästi esimerkiksi englantilaista keskiluokkaa, ja ylipäänsä
+Puhuja 2: keskiluokkaista rahvasta, ja halusi samastua
+Puhuja 2: eliittiin ja aristokratiaan.
+Puhuja 2: Eli kalliilla
+Puhuja 2: halveksi
+Puhuja 2: myös oman sukunsa porvarillista eläväntyyliä,
+Puhuja 2: mutta oli kuitenkin hyvin riippuvainen heidän rahoistaan siellä Afrikassa.
+Puhuja 2: Mielenkiintoista se
+Puhuja 2: on. Kannattaa lukea, se on hyvin kirjoitettu historioitsija.
+Puhuja 1: Blicsen oli mun lukioaikana semmoinen iso juttu,
+Puhuja 1: joka lukion kurssi oli pelkkää Blicsen ja sen takia on hyvin allerginen hänelle.
+Puhuja 1: Miksi.
+Puhuja 1: No siks, kun se tuli väärään aikaan väärään just siirtomaamiehenä, ei kyllä kiinnostanut silmääkään silloin, kun oli kuusitoista ja oli vaan piilomielessä,
+Puhuja 1: niin kuin Matti Nykänen sanoi.
+Puhuja 1: Anteeksi toi Rious, ei kyllä kuulu poliittiseen asian.
+Puhuja 1: Noni, kiitos.
+Puhuja 1: Kiitos Marjo.
+Puhuja 1: Kiitos Marko Junkkari. Kiitos.
+Puhuja 1: Mun nimi on Tuomas Pelmäki, ja ääni ja kuvaaja kaikille mun mahtaminen meille tekee tällä viikolla Mikko Peura.
+Puhuja 1: Lähettäkää palautetta meille.
+Puhuja 1: Twitter nimisessä
+Puhuja 1: viestikeskusestauksen
+Puhuja 1: uutisraportti.
+Puhuja 1: Te, jotka ette ole Twitterissä, lähettäkää sähköpostia.
+Puhuja 1: Pistäkää minut Margot ja marjat siihen Zoo-kenttään ja kirjoitelkaa mitä mieleen tulee. Se on aina niin kivaa, kun joku kirjoittaa, me tullaan siitä ihan pohjatmaan hyvälle mielelle. Ei siinä tarvi olla mitään pointteja, kirjottakaa muuten vaan. Noniin, kuulen taas ensi viikon.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin
+Puhuja 0: yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

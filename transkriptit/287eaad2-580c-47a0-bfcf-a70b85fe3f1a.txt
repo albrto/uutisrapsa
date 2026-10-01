@@ -1,203 +1,411 @@
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti podcastiin torstaina kaksimiljoonaa kolmesataakymmenenmiljoonaa
-Puhuja 0: lokakuuta vuonna kaksituhatta kaksikymmentä
-Puhuja 0: kaksituhatta kaksikymmentäviisi.
-Puhuja 0: Mun nimi on Tuomas Peltok ja kanssani täällä Helsingin Sanomien podcast studiossa Helsingissä Suomessa.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 0: podcastiin
+Puhuja 0: torstaina kaksikymmentäkolme. Päivä
+Puhuja 0: lokakuuta vuonna
+Puhuja 0: kaksituhatta kaksikymmentä
+Puhuja 0: -kaksikymmentä kaksikymmentäviisi. Mun hyvin on Tuomas Peltonki ja kanselin täällä Helsingin Sanomien podcast studiossa Helsingissä Suomessa.
 Puhuja 0: Ovat
-Puhuja 0: politiikkaa kai Helsingin Sanomissa. Oot toimittanut aika pitkään, Marko Junkkari. Hei vaan Marko. No heissan.
+Puhuja 0: politiikkaa kai Helsingin Sanomissa. Oot toimittanut aika pitkään. Marko Junkkari. Hei vaan Marko. No heissan.
 Puhuja 0: Ja
 Puhuja 0: mitä
 Puhuja 0: jännittävimmin
 Puhuja 0: ja kutkuttavimmin
 Puhuja 0: me ollaan tehty tämmöinen, mikä tunnetaan englanniksi nimellä
 Puhuja 0: baby snach.
-Puhuja 0: Eli ollaan tehty lapsikaappaus.
-Puhuja 0: Millä viittaan tietenkin
-Puhuja 0: täällä paikan päällä
+Puhuja 0: Eli ollaan tehty lapsikaappaus,
+Puhuja 0: millä viittaan tietenkin
+Puhuja 0: täällä paikan
+Puhuja 0: päällä
 Puhuja 0: olevaan
 Puhuja 0: ja naapuritalosta
 Puhuja 0: tänne
 Puhuja 0: ryövättyyn Elli Harjuun.
-Puhuja 0: Hei vaan Elli. No hei vaan Tuomas. Ne, jotka on politiikka-podcastia
+Puhuja 0: Hei vaan Elli. No hei vaan Tuomas. Ne, jotka on politiikka-podcastien
 Puhuja 0: narkkareita,
 Puhuja 0: tunnistaa äänestäjän nimestä sen, että
-Puhuja 0: Elli, joka tänne on ryövätty meidän studioon, ryövtiin
+Puhuja 0: Elli, joka tänne on ryövätty meidän studioon, ryövyttiin
 Puhuja 0: Iltalehden politiikan puskaradi-podcastista,
 Puhuja 0: jossa olit vakituinen
 Puhuja 0: kommentaattoria
-Puhuja 0: ja juontajaa
-Puhuja 1: monta vuotta, eikö näin? Joo, näin ollen. Siellä politiikan toimituksessa
-Puhuja 1: ehdin olla nelisen vuotta. Kai mä sen koko ajan
-Puhuja 0: myös puskaradion puolella vierailin. Jep, kyllä. Mä ainakin kuuntelin monesti sun
-Puhuja 0: terävää
-Puhuja 0: analyysiä ja
+Puhuja 0: juontajaa monta
+Puhuja 1: vuotta, eikö näin? Joo, näin ollen. Siellä politiikan toimituksessa
+Puhuja 1: ehdin olla nelisen vuotta, niin kai mä sen koko ajan
+Puhuja 0: siellä myös puskaradion puolella vierailin. Jep, kyllä. Mä ainakin kuuntelin monesti sun terävää analyysiä ja
 Puhuja 0: hauska öytty.
-Puhuja 2: Kiitos, kiitos. Elli on siis mun uusi pomo.
-Puhuja 0: Elli on siis Helsingin Sanomien politiikan toimituksen uutispäällikkö
-Puhuja 2: tuossa. Oliko se titteli muuten on?
-Puhuja 1: Juurikin näin uutispäällikkö. Näin
+Puhuja 2: Kiitos.
+Puhuja 2: Elli on siis mun uusi pomo.
+Puhuja 0: Elli on siis Helsingin Sanomien politiikan toimituksen uutispäällikkö.
+Puhuja 1: Oliko se titteli muuten on? Näin se, joo, juurikin näin uutispäällikkö. Näin
 Puhuja 1: mulle on kerrottu. Maanantaina aloitus.
 Puhuja 1: Eli ihan tässä
 Puhuja 1: opettelen
-Puhuja 1: uuteen talooni sen tavoille.
-Puhuja 0: Ota huomioon lojallisuusvelvoitteet
-Puhuja 0: ja silleen, että omasta työnantajasta ei saa puhua pahaa
-Puhuja 0: tai
-Puhuja 0: näiden kirjojen vuoksi.
-Puhuja 0: Kuinka paljon niistä tulee sitä uutta tietoa, että okei, ei me tiedetty.
-Puhuja 0: Miten paljon me opitaan se todelliseen?
-Puhuja 2: Olen aikoinaan opiskellut poliittista historiaa.
-Puhuja 2: Aikoinaan
+Puhuja 1: uuteen
+Puhuja 1: taloon ja sen tavoille.
+Puhuja 0: Ottaen huomioon lojallisuusvelvoitteet
+Puhuja 0: ja silleen, että omasta työnantajasta ei saa puhua pahaa ja
+Puhuja 0: kaikki nämä muut juridiset.
+Puhuja 0: Minkälaista on siirtyä Iltalehdestä
+Puhuja 0: Helsing?
+Puhuja 0: Miksi se tuntui?
+Puhuja 1: Onhan tämä kiva
+Puhuja 1: nähdä uutta ja oppia uutta. Mä ehdin Iltalehdessä olla oikeastaan vähän niin kuin koko mun aikuistoimittajauran.
+Puhuja 1: Olen mennyt sinne kaksituhatta kaksikymmentäyksi
+Puhuja 1: v:nä. En ole paljon muuta nähnyt, niin kyllähän se sitten houkutteli, kun
+Puhuja 1: tarjoutui
+Puhuja 1: mahdollisuus nähdä myös
+Puhuja 1: toinen iso talo. Iltalehteen paljon terveisiä,
+Puhuja 1: että
+Puhuja 1: siellä kyllä viihdyin. En kanna mitään kaunaa. Kyllä.
+Puhuja 0: Pakko kehua: kuuntelen
+Puhuja 0: aktiivisesti politiikan puskaradiota,
+Puhuja 0: joka on kyllä erinomainen
+Puhuja 0: politiikan podcast.
+Puhuja 2: Näinhän se on.
+Puhuja 2: Saa nähdä, onko enää, kun Elli lähtisi.
+Puhuja 0: Ehkä se tuhoutuu.
+Puhuja 0: Se
+Puhuja 1: jää liian miehiseksi se, kerro. Ei se mitään tuhoudu, mutta on se totta, että kaikille varmaan kuulijoille on sellaiset tietyt hahmot, joista tykkää.
+Puhuja 1: Ehkä mullakin oli joku sellainen kuulijakunta, joka on jäänyt ehkä kaipaamaan. Toivotamme Ellifanit tervetulleeksi tänne uutisrapsan kuulijoihin.
+Puhuja 0: Siitä puheen ollen tän viikon podcastissa
+Puhuja 0: keskustellaan
+Puhuja 0: vavahduttavasta.
+Puhuja 0: Vaikka myönnän, että se ei pintapuolisesti
+Puhuja 0: kuulosta siltä, se silti on vahduttava
+Puhuja 0: politiikan mannerlaattojen
+Puhuja 0: heilutusaihe,
+Puhuja 0: joka tällä viikolla on putkahtanut. Nimittäin
+Puhuja 0: Petteri Orpo hallituksen sisälle on
+Puhuja 0: syntynyt suorastaan
+Puhuja 0: railo
+Puhuja 0: ristiriita. Tunne psykologiassa kognitiivisena
+Puhuja 0: dissonanssilla,
+Puhuja 0: jossa sama hallitus joutuu yhtä aikaa olemaan kahta eri mieltä,
+Puhuja 0: Sitä mieltä, että Suomeen pitää perustaa Lahteen
+Puhuja 0: karkkitehdas
+Puhuja 0: ja sitä pitää verovaroin
+Puhuja 0: tukea. Ja sitten Suomeen pitää Kainuuseen perustaa Googlen datakeskukset ja sitä pitää verovaroin
+Puhuja 0: tukea. Mutta hallitus itse
+Puhuja 0: vapaaehtoisesti typerästi meni
+Puhuja 0: yhdistämään nämä asiat sillä tavalla, että ne kaksi ei voi olla olemassa yhtä aikaa, vaan pitää tehdä
+Puhuja 1: Ja
+Puhuja 2: siis sehän on Dapl, antaa nuorempi.
+Puhuja 0: Niin,
+Puhuja 0: tämä toinen oli HDapl.
+Puhuja 0: Niin olikin, joo. Joo,
+Puhuja 2: ja sitten suhteita Jenkkeihin ja myös
+Puhuja 2: Kiinaanksi. Siitä
+Puhuja 2: kirjan jälkimmäinen puolisko, jossa on aika kronologinen
+Puhuja 2: esitys, joka alkaa
+Puhuja 2: vuoden kaksituhatta kaksikymmentäyksi alusta, missä hän käy, kertoo,
+Puhuja 2: miten hänen silmissään
+Puhuja 2: Venäjän
+Puhuja 2: hyökkäys
+Puhuja 2: alkaa eskaloitua, hyökkäys Ukrainaan. Ja sitten, miten
+Puhuja 2: Suomi sitten hakeutuu Naton jäseneksi. Aika
+Puhuja 2: kiinnostavasti läpi.
+Puhuja 2: Hän on lähteenä omat päiväkirjansa.
+Puhuja 2: Hän on siis Niinistö,
+Puhuja 2: tai ei ilmeisesti, vaan on pitänyt todella yksityiskohtaisia päiväkirjoja koko poliittiselta uraltaan, mutta siinähän hyödyntää nyt näitä
+Puhuja 2: päiväkirjoja muun muassa referoimalla näitä keskusteluja näiden presidenttien kanssa. Onhan se kiva kuulla, mitä hän on Juannut Putinin tai Trumpin kanssa. Ja
+Puhuja 2: toki se on myös kiinnostava,
+Puhuja 2: mistä
+Puhuja 2: kun
+Puhuja 2: on ollut ehkä eniten otsikoita, niin mikä on ollut tämä Sauli Niinistö,
+Puhuja 2: missä vaiheessa hän kallistui
+Puhuja 2: siihen, että Suomen pitää liittyä Natoon.
+Puhuja 2: Itse asiassa tarkkaan ottaa tuosta kirjasta ihan selviä. Mutta se selviää, kuten hän ihan suoraan siinä sanoikin, että kaksikymmentäneljä
+Puhuja 2: helmikuuta Venäjän suurhyökkäyksen
+Puhuja 2: alkamisen jälkeen, niin ei hän ihan heti tiennyt, mitä Suomen pitäisi tehdä.
+Puhuja 0: Okei, tuo on ylätasoisin kysymys.
+Puhuja 0: Miksi Niinistö kirjoitti tämmöisen kirjan? Hän olisi voinut kirjoittaa
+Puhuja 0: The presidentti
+Puhuja 0: elämäkerta
+Puhuja 0: kirjan. Miksi hän kirjoittaa tällaisen?
+Puhuja 2: Se on hyvä kysymys. Niistähän on...
+Puhuja 2: No, niistähän on ensinnäkin hyvä kirjoittaja. Se on
+Puhuja 2: minusta poliitikoksi
+Puhuja 2: ihan oikeasti hyvä kirjoittaja. Hän on julkaissut aikoinaan
+Puhuja 2: tämän viiden vuoden yksinäisyys ja
+Puhuja 2: toinen
+Puhuja 2: esseen novellikokoelma.
+Puhuja 2: Ne ovat tosi luettavaa tekstiä. Ne ovat osin
+Puhuja 2: kaunokirjallistyyppistä.
+Puhuja 2: Luulen,
+Puhuja 2: että tämä on vähän kuin samaa henkeä. Tämä ei ole varsinaiset muistelmat, vaan tässä enemmän tehdään
+Puhuja 2: synteeään ja keskitytään yhteen asiaan.
+Puhuja 2: Luulen, että tämä sopii hänen luontelleen paremmin.
+Puhuja 2: Toki tässä on taustalla myös se, että
+Puhuja 2: jostain
+Puhuja 2: syystä tai kaikilla poliitikoilla on tarve jättää jälkeensä historiaan.
+Puhuja 2: Tätä en halua kirjoittaa omaa tarinaasa tässä. Niin, ja
+Puhuja 1: varmaan
+Puhuja 1: kiihtyvällä tahdilla tässä ilmestyy
+Puhuja 1: kirjoja,
+Puhuja 1: missä
+Puhuja 1: eri osapuolet haluavat selittää,
+Puhuja 1: että mikä oli minun roolini tai mitä minä ajattelin silloin, kun Ukrainan sota alkoi, ja etenkin tämä Suomen asento. Staltanbergiltä Nato-ensihteeriltä
+Puhuja 1: tuli kirja. Hän halusi varmasti selittää,
+Puhuja 2: häntä, mikä oli otsikossa
+Puhuja 2: ärsytti, mutta kyllä se jutussa kuvattiin.
+Puhuja 2: Kyllä se
+Puhuja 2: Niinistön pointti, ja näin se varmasti olikin. Heti sen hyökkäyksen jälkeen,
+Puhuja 2: kun tilanne oli niin kaaosmainen myös Suomessa, niin kukaan heti voi tietää, mitä tässä kannattaisi tehdä. Mutta
+Puhuja 2: Niinistö lähti kolme. Ja neljäs päivä
+Puhuja 2: maaliskuuta eli
+Puhuja 2: reilu viikko tämän hyökkäyksen jälkeen Washingtonia Tapas Bidenin.
+Puhuja 2: Jenkkien viesti oli suomalaisille
+Puhuja 2: silloin se, että älkää nyt,
+Puhuja 2: että jenkit tukee, mitä ikinä Suomi päättääkään,
+Puhuja 2: mutta pliis, älkää nyt... Älkää päätäkö. Älkää sähplätkö
+Puhuja 2: liikaa. Siinä vaiheessa
+Puhuja 2: ainakin Enisto analysoi sen niin, että
+Puhuja 2: Jenkit
+Puhuja 2: nähtiin jo, että
+Puhuja 2: venäläisten suunnitelma oli valloittaa Kiova ja koko maa viikossa.
+Puhuja 2: Siinä vaiheessa jo maaliskuun alussa nähtiin, että Venäjän suuri suunnitelma epäonnistuu ja rintamaniat pysähtyi.
+Puhuja 2: Silloin Jenkeissä haaveiltiin,
+Puhuja 2: että puhuttiin Istanbulin kokouksesta, jossa saat koeta saada rauha
+Puhuja 2: nopeasti aikaiseksi.
+Puhuja 2: Kai Jenkkien haave oli se, että jos Suomi hakee nyt Nato-jäsenyyttä, se sotkee tämän ehkä teoreettisen mahdollisuuden saada nopea rauha Istanbulissa.
+Puhuja 2: Jenkeissä
+Puhuja 2: ja vakavissaan pelättiin Venäjän
+Puhuja 2: käyttävän taktisia ydinaseita. Kun hyökkäys meni niin päin helvettiä, he kompensoi sen sillä, että räjäyttäisi kiiovan paskas.
+Puhuja 2: Ja tämmöinen riski oli olemassa. Niin sen takia Suomea toppuuteltiin.
+Puhuja 2: Ja tämä on myös yksi syy, miksi Niinistö ehkä kokee, että on
+Puhuja 2: vähän epistä
+Puhuja 2: puhua jarruttelusta,
+Puhuja 2: jos kuitenkin Naton tärkein maa. Yhdysvallatkin kehottaa Suomea
+Puhuja 1: heti kirjan alussa
+Puhuja 1: sitä, että miten yhteistyötä on rakennettu ja kumpi on vetänyt vähän kumpaa
+Puhuja 1: ja niitä suhteita Jenkkeihin ja muuta. Se on kyllä hyvinkin kiinnostava.
+Puhuja 2: Siinä on hauskoja pieniä yksityiskohtia
+Puhuja 2: vaikka kuinka paljon
+Puhuja 2: näistä keskusteluista.
+Puhuja 2: Niinistö kirjoittaa siinä, että
+Puhuja 2: tavallaan Obaman aikana hänen kautensa Niinistön kauden alussa
+Puhuja 2: Suomella oli,
+Puhuja 2: Niinistö kävi vierailua valkoisessa talossa, mutta Suomen ja Yhdysvaltain
+Puhuja 2: suhteet olivat Obaan aikana sellaiset
+Puhuja 2: kuin Suomen kokoisella maalla voi Yhdysvaltoihin olla. Se on aika normit, ei ollut mitään ihmeellistä.
+Puhuja 2: Mutta etenkin heti Trumpin ykköskauden aikana Suomen ja jenkkien suhteet
+Puhuja 2: läheni todella nopeasti. Niinistöhän
+Puhuja 2: ramppasivat silloin
+Puhuja 2: jo valkoisessa talossa useamman kerran.
+Puhuja 2: Kerran oli Sanna Marinkin mukana liikenneministeri
+Puhuja 2: myymässä
+Puhuja 2: jäänmurtajia
+Puhuja 2: Ja sitten myös maideni aikana.
+Puhuja 2: Suomella oli paljon läheisempi suhde
+Puhuja 2: Yhdysvaltoihin kuin esimerkiksi Ruotsilla, jolloin meillä oli historiallisesti ollut semmoinen superläheinen
+Puhuja 2: suhde. Jenkkeihinhän ovat luvanneet, ellei jotain salaisia turvatakuita kuusikymmentä
+Puhuja 1: Suomessakin voi. Voidaan suhtautua häneen myös joissain asioissa ihan positiivisesti, vaikka hänen kotimaanpolitiikkaansa
+Puhuja 1: ei ehkä haluaisikaan kauheasti katsoa.
+Puhuja 2: Okei.
+Puhuja 0: Mulla on yksi kysymys. Mä kysyn, Marko. No kysy. Nyt kun näitä kirjoja on tullut,
+Puhuja 0: on Niinistön kirja. Sitten on Nato-kirja on tullut muitakin. Pääministeri Sanna Marinelta
+Puhuja 2: on tullut. Parin viikon päästä.
+Puhuja 0: Meille alkaa pikkuhiljaa selviytyä... Tai
+Puhuja 0: tulee totta kai näiden ihmisten omasta perspektiivistä
+Puhuja 0: kerrottu
+Puhuja 0: osa totuudesta.
+Puhuja 0: Mutta siinä varmaan
+Puhuja 0: rupeaa pikkuhiljaa tulemaan se kokonaiskuva vaikka Suomen Nato-päätöksestä
+Puhuja 0: tai reaktioista
+Puhuja 0: Ukrainan kriisiin
+Puhuja 0: tai muuta.
+Puhuja 0: Miten radikaalisti se kuva muuttuu ylipäätänsä
+Puhuja 0: näiden kirjojen tai näiden kirjojen?
+Puhuja 0: Kuinka paljon niistä tulee uutta tietoa, että okei, ei me tiedetty.
+Puhuja 0: Miten paljon me opitaan se todellisesti?
+Puhuja 2: Olen aikoinaan opiskellut siis poliittista historiaa. Aikoinaan
 Puhuja 2: professori Osmo Jussila, joka oli suuri autonomianjan
-Puhuja 2: tutkija, ja hän uskoi, että pitää olla dokumentteja ja arkistomateriaalia.
-Puhuja 2: Joskus silloin kun 90-luvulla
+Puhuja 2: tutkija, niin hän uskoi, että pitää olla tavallaan dokumentteja ja arkistomateriaalia.
+Puhuja 2: Silloin kun 90-luvulla
 Puhuja 2: opiskelin, hän sanoi, että nyt vähitellen
 Puhuja 2: pystyy historiantutkimuksen
-Puhuja 2: metodiin tutkimaan 1800-luvun
-Puhuja 2: Suomessa.
+Puhuja 2: metodeihin tutkimaan 1800-luvun Suomea.
 Puhuja 2: Kyllä tässä
-Puhuja 2: joku aika vielä menee. Kyllähän nämä kirjat
-Puhuja 2: totta kai kertovat jotain, mutta ehkä siinä on myös ollut jollain tavalla kiinnostavaa. Ehkä tämä
-Puhuja 2: Nato-jäsenyys, etenkin kun tämä on niin historiallinen
-Puhuja 2: tapahtuma ja niin iso juttu, niin media
-Puhuja 2: seurasi tätä
-Puhuja 2: myös niin poikkeuksellisella tarkkuudella. Kyllähän näissä
-Puhuja 2: on
-Puhuja 2: samanlaista
-Puhuja 2: yksityiskohtia tapahtumista,
-Puhuja 2: ja onhan niitä avattu jo saman tien varmaan suurin osa.
-Puhuja 2: Mutta varmasti tulee vielä kaikenlaista yllättävää, että kulisseista tulee. Mutta en tiedä, onko nyt tässä Edistön
-Puhuja 2: kirjassa mitään valtavia yllätyksiä vielä ainakaan.
+Puhuja 2: joku aika vielä menee. Kyllähän nämä kirjat...
+Puhuja 2: Totta kai ne kertovat jotain. Mutta ehkä siinä on ollut jollain tavalla kiinnostava. Tämä Nato-jäsenyys etenkin, kun tämä on ollut niin historiallinen
+Puhuja 2: tapahtuma ja niin iso juttu, niin kyllähän media seurasi tätä myös niin poikkeuksellisella tarkkuudella. Kyllähän näissä
+Puhuja 2: on samanlaista yksityiskohtien tapahtumista
+Puhuja 2: avattu jo saman tien varmaan suurin osa.
+Puhuja 2: Mutta varmasti tulee vielä kaikenlaista yllättävää sieltä kulisseista.
+Puhuja 2: Mutta en tiedä, onko nyt näissä Nedistön kirjassa mitään valtavia yllätyksiä vielä ainakaan.
 Puhuja 0: Okei,
 Puhuja 0: sitten kun
-Puhuja 0: sitten
-Puhuja 0: kun
 Puhuja 0: järjestätte
-Puhuja 0: itsellenne
-Puhuja 0: battaiin
-Puhuja 0: ja
-Puhuja 0: suuntatte Lahteen.
-Puhuja 0: Sitten Lahtihan on kaunis
-Puhuja 0: suurin keskustan omaava kaupunki. Sitten tepastelette siellä ja katsotte, että
-Puhuja 0: kas, tässähän on tämmöinen uunituore makeistehdas.
-Puhuja 0: Että siellä sitten
-Puhuja 0: monilla makeistehtailla on tämmöinen, että yleensä voi tulla tutustumaan
-Puhuja 0: sukalinjastoihin ja muihin.
+Puhuja 0: itsellenne,
+Puhuja 0: patteretta bussiin ja
+Puhuja 0: suuntatte
+Puhuja 0: Lahteen. Sitten Lahtihan on kaunis ja
+Puhuja 0: suurin keskustan omaava kaupunki. Sitten tepastelette siellä ja katsotte, että kas, tässähän on tämmöinen uunituore makeistehdas.
+Puhuja 0: Ja
+Puhuja 0: että siellä sitten monilla makeisteehtaalla on tämmöinen, että yleensä voi tulla tutustumaan
+Puhuja 0: sukalinjastoihin
+Puhuja 0: ja muihin.
 Puhuja 0: Siinä sitten näkyykin olevan semmoisia
 Puhuja 0: suklaakukkoja,
-Puhuja 0: joiden sisällä on rommia.
-Puhuja 0: Nappaatte
-Puhuja 0: yhden siitä ja sitten lähdette pastelemaan ympäri tehdasta
-Puhuja 0: purette
-Puhuja 0: kukokolta
-Puhuja 0: nokan pois ja siitä hörpitte syntyneestä reiästä reiästä semmoista makeaa rommia sieltä
-Puhuja 0: ja liköriä.
-Puhuja 0: Ja sitten siinä muitakin makeistehtaan
-Puhuja 0: toiminnoista ja linjoista kiinnostuneita. Niin mistä te rupeatte heille tylsähkön
-Puhuja 0: kiertoajelon aikana?
-Puhuja 2: Tykkään lukea tämmöistä nonfictionia tietokirjoja.
+Puhuja 0: joiden sisällä on rommia. Nappaatte
+Puhuja 0: yhden siitä. Sitten lähdette pastellen ympäri tehdasta
+Puhuja 0: ja purette kukolta
+Puhuja 0: nokan pois ja siitä hörpitte syntyneestä reiästä semmoista makeaa rommia sieltä
+Puhuja 0: ja liköörriä.
+Puhuja 0: Sitten siinä muitakin. Minä kiitän toiminnoista ja linjoista kiinnostuneita. Mistä rupeatte heille tylsähkön kiertoajelon
+Puhuja 0: aikana?
+Puhuja 2: Tästä jotenkin... Innostun aina kummallisista asioista ja
+Puhuja 2: tykkään lukea tämmöistä nonfictionia tietokirjoja.
 Puhuja 2: Vähän niin kuin mistä aiheesta tahansa. Jos on hyvin tehty
 Puhuja 2: jenkkitietokirja,
-Puhuja 2: niin sekin saa yleensä Ne on niin hyvin kirjoitettua ja hyvin tutkittu ja nyt on hauska lukea.
-Puhuja 2: Nyt rupesin tässä muutama päivä
-Puhuja 2: sitten every Day ja Sunday,
-Puhuja 2: aivan uusi kirja. Hän on kirjoittanut New York Timesin toimittaja, tämmöinen Ken Bellson urheilutoimittaja.
-Puhuja 2: Tämä
-Puhuja 2: jenkkifutiksen NFL:n
-Puhuja 2: taustatyypeistä. Näistä on muutama
+Puhuja 2: niin
+Puhuja 2: niin hyvin kirjoitettuja ja hyvin tutkittu ja niitä on hauska lukea.
+Puhuja 2: Ja rupesi tässä lukee
+Puhuja 2: muutama päivä
+Puhuja 2: sitten Every Day ja Sun Day, aivan uusi kirja. Hän on kirjoittanut New York Timesin toimittaja, tämmöinen Ken Belson
+Puhuja 2: urheilutoimittaja. Tämä
+Puhuja 2: kertoo jenkkifutiksen NFL:n
+Puhuja 2: taustatyypeistä.
+Puhuja 2: Näistä on muutama
 Puhuja 2: joukkueen omistaja ja
-Puhuja 2: koko Liigan johtaja ja heidän
-Puhuja 2: aivan pohjattomasta
-Puhuja 2: ahneudestaan.
-Puhuja 2: Helposti
-Puhuja 2: tyyppi on seurannut vuosi kymmenen ja he tuntelee läpikotaisin. He ovat olleet heidän kanssaan ties missä.
+Puhuja 2: koko Liigad johtaja. Heidän semmoisesta aivan pohjattomasta ahneudesta.
+Puhuja 2: Ahneudesta.
+Puhuja 2: Hauskasti
+Puhuja 2: tämä tyyppi on seurannut vuosi kymmenen ja he tuntelevat niin kuin nämä pikotaisin. He ovat olleet heidän kanssaan ties missä.
 Puhuja 2: Hauskoja tarinoita siitä, miten
-Puhuja 2: vanha tukkelit
-Puhuja 2: miten
-Puhuja 2: mikään ei riitä.
-Puhuja 2: Ja pitää saada lisää fyrkkaa kenellä on hyvä.
-Puhuja 2: Eli everydayys sanday. Mikä viittaa
-Puhuja 2: siis siihen, että enää jenkkifutismaa.
-Puhuja 2: Pääpelit on aina sunnuntaisin. Gen Bellson.
-Puhuja 1: Iltaisin en kuluta pelkästään poliitikkojen elämäkertoja, vaan mun eskapisniiä
-Puhuja 1: on esimerkiksi tällaiset teinisarjat,
-Puhuja 1: niin mä olen viime aikoina ollut oikein innoissani, että Yle Areenan eli kaikkien veronmaksajien
-Puhuja 1: saataville on tullut
-Puhuja 1: neljäs kausi sitä luusarit-sarjaa.
-Puhuja 1: Mä en tiedä, oletteko te katsonut sitä ikinä. Mutta se on upea. Ja tässä neljännellä kaudella nämä
+Puhuja 2: vanha tukkelit,
+Puhuja 2: miten mikään ei riitä.
+Puhuja 2: Pitää saada lisää fyrkkaa. Keinolailla ymmärsi.
+Puhuja 2: Eli everydayys sanday.
+Puhuja 2: Mikä
+Puhuja 2: viittaa siis siihen, että enää jenkifutismat.
+Puhuja 2: Pääpelit on aina sunnuntaisin.
+Puhuja 2: Ken Belson.
+Puhuja 1: Iltaisin en kuluta pelkästään poliitikkojen elämäkertoja, vaan mun eskapismini on esimerkiksi tällaiset teinisarjat,
+Puhuja 1: niin mä olen viime aikoina ollut oikein innoissani, että Yle Areenan eli kaikkien veronmaksajien saataville
+Puhuja 1: on tullut neljäs kausi sitä luuserit-sarjaa.
+Puhuja 1: Mä en tiedä, oletteko te katsonut sitä ikinä.
+Puhuja 1: Mutta se on upea. Ja tässä neljännellä kaudella nämä
 Puhuja 1: kolme jäbää on jotain
 Puhuja 1: yhdeksäntoista tai kaksikymmentä vuotta.
 Puhuja 1: Ja he päättävät perustaa
-Puhuja 1: Kruunuhaassa sijaitsevan heille
-Puhuja 1: liian kalliin vuokrakämpänsä
+Puhuja 1: Kruunuhaassa
+Puhuja 1: sijaitsevan
+Puhuja 1: heille liian kalliin vuokrakämpänsä
 Puhuja 1: keittiöön.
 Puhuja 1: Kaikki menee ihan perseelleen.
-Puhuja 1: Amazossa
-Puhuja 1: Tämmöistä voi kuluttaa Sauli Niinistö kirjojen ohessa. Tässä Hajuvesitehdas
+Puhuja 1: Ja se on upeaa.
+Puhuja 2: Onks se niinku dokkari-tyyppinen?
+Puhuja 1: Ei, ei missään nimessä. Vaan täyttä fiktiota ja täyttä komediaa.
+Puhuja 1: Tämmöistä voi sitten kuluttaa Sauli Niinistö kirjojen ohessa. Tässä Hajuvesitehdas
 Puhuja 0: ohjelmassa
 Puhuja 0: vastataanko siellä kysymykseen, että miksi
 Puhuja 0: ne hajuvedet on niin in? Mä oon kuitenkin sen verran
-Puhuja 0: milleniaaliukko,
-Puhuja 0: että mä en ymmärrä yhtään, että miehet käyttää. Hajuvetäjä nuoret miehet käyttää. Niin, se aivan tuntuu käsin. Ei niitä. Siis joo totta, mut siinäkin oltais nyt. Nyt en sano, että mistäköhän se lähti se idea
-Puhuja 0: Miten se ujupepesin? Musta jo lupailiin. Että
-Puhuja 0: nuoret miehet alkaa käyttää hajuvesiä.
-Puhuja 0: Siinä on jotain
-Puhuja 0: Koska se on läpeensä selkeästi jonkun kapitalistin juomia.
-Puhuja 1: Kyllä,
-Puhuja 1: kyllä. Ja tämmöiseen kaikkeen. No, ei oo vielä meikkejä, mutta ne on varmaan vaatteet tullut ensin ja koko ajan mennään pikkuhiljaa niin kuin kosmetiikassakin
+Puhuja 0: Milleniaaliukko,
+Puhuja 0: että mä en ymmärrä yhtään, että miehet käyttää. Aijovetäjä nuoret miehet käyttää. Niin, se aivan tuntuu käsiksi.
+Puhuja 2: Miten se ujjut etenee? Enpä sitä. Musta on jo sun
+Puhuja 0: globaaliin. Just
+Puhuja 0: näin. Että nuoret miehet alkaa käyttää hajuvesiä.
+Puhuja 0: Siinä on jotain niinku... Koska se on läpeensä selkeästi jonkun kapitalistin juoni. Kyllä,
+Puhuja 1: kyllä. Ja tämmöiseen kaikkeen. No ei oo vielä meikkejä, mutta ne on varmaan vaatteet tullut ensin ja koko ajan mennään pikkuhiljaa kosmetiikassakin
 Puhuja 1: sitten kohti sitä varmaankin.
-Puhuja 0: Mä haluan suositella. Mä aloin lukemaan aivan
-Puhuja 0: valtavan mielenkiintoista kirjaa, joka on kirjoitettu tuhat
+Puhuja 0: Mä haluan suositella, mä aloin lukemaan aivan
+Puhuja 0: valtavan mielenkiintoista
+Puhuja 0: kirjaa, joka on kirjoitettu tuhat
 Puhuja 0: yhdeksänsataayhdeksänkymmentäyhdeksän
 Puhuja 0: ja sen kirjoittaja on Charles Petzold.
-Puhuja 0: Tää ei ole kaikille. Tää vaatii hyvin nörttiä ja mielenlaatua,
-Puhuja 0: mutta tää on yleistajuinen
+Puhuja 0: Tää ei ole kaikille. Tää vaatii hyvin nörttiä ja mielenlaatua, mutta tää on yleistajuinen
 Puhuja 0: kirja
 Puhuja 0: ja ollut
 Puhuja 0: erinomainen
-Puhuja 0: siihen asti, mitä mä oon lukenut.
-Puhuja 0: Sen nimi on Code The Hiden language of Computer hardware and software.
-Puhuja 0: Mä huomaan, että mä olen ehkä muutaman vuoden ollut sellaisessa pahenevassa
+Puhuja 0: siihen asti, mitä mä oon lukenut. Sen nimi on Code The Hidd language of Computer hardware and software.
+Puhuja 0: Mä huomaan, että mä oon ehkä muutaman vuoden ollut sellaisessa pahenevassa
 Puhuja 0: tunnelissa,
 Puhuja 0: jossa mä uppoan syvemmälle ja syvemmälle
 Puhuja 0: tietokoneisiin
 Puhuja 0: ja koodiin.
-Puhuja 0: Se syy on se, että mä jossain vaiheessa hoksasin sen, että ne sanelevat
-Puhuja 0: kaiken meidän nykyeläänsä. Kaikki tapahtuu niiden välillä, kaikki pyörii niiden ympärille. Kaikki, mitä me tehdään mukaan lukien tämä podcast ja kaikki nämä
+Puhuja 0: Se syy on se, että mä jossain vaiheessa hoksasin sen, että ne sanelevat kaiken meidän nykyelässä. Kaikki tapahtuu niiden välillä, Kaikki pyörii niiden ympärille. Kaikki, mitä me tehdään mukaan lukien tämä podcast ja kaikki nämä
 Puhuja 0: tapahtuu tietokonevälitteisesti.
-Puhuja 0: Jotenkin sieltä se lähti. Olen perehtynyt ja perehtynyt syvemmälle.
-Puhuja 0: Ei ainoastaan, että koodailen itse mutta tietotekniikan
+Puhuja 0: Jotenkin sieltä se lähti. Mä olen perehtynyt ja perehtynyt syvemmälle.
+Puhuja 0: Ei ainoastaan, että mä koodailen itse, mutta tietotekniikan
 Puhuja 0: historiaan,
-Puhuja 0: filosofiaan, matematiikkaan,
+Puhuja 0: niihin filosofiaan,
+Puhuja 0: matematiikkaan,
 Puhuja 0: periaatteisiin siellä taustalla.
-Puhuja 0: Tämä on erinomaisesti
+Puhuja 0: Tää on erinomaisesti
 Puhuja 0: kirjat. Se lähtee
-Puhuja 0: morsikodista
+Puhuja 0: morsi-koodista
 Puhuja 0: liikkeelle, esimerkkinä koodista.
-Puhuja 0: Nyt se on edennyt siihen, miten tehdään
+Puhuja 0: Nyt se on
+Puhuja 0: edennyt siihen, miten tehdään
 Puhuja 0: se on siinä, miten saadaan
-Puhuja 0: sähköllä ja lampulla tehtyä jonkun näköinen svitchi,
-Puhuja 0: jonka avulla pystytään ilmaisemaan koodeja.
-Puhuja 0: Tiedän, että se on menossa kohta siihen, että se onkin virtapiiri ja näin.
+Puhuja 0: sähköllä ja lampulla tehtyä jonkun näköinen
+Puhuja 0: svitchi,
+Puhuja 0: jonka avulla pystytään ilmaisemaan koodeja. Mä tiedän, että se on menossa kohta siihen, että se onkin virtapiiri ja näin.
 Puhuja 0: Mutta se kirjoittaa sen erittäin ymmärrettävästi
-Puhuja 0: ihan alusta asti ja todennäköisesti ihan loppuun asti. Mä luulen, että tämän kirjan
-Puhuja 0: The Hiden language of Computer hardware and software.
-Puhuja 0: Sen jos lukee, niin ymmärtää tästä meidän tämänhetkisestä maailmasta
-Puhuja 0: aivan huikeasti enemmän kuin ennen sitä.
+Puhuja 0: ihan alusta asti ja todennäköisesti ihan loppuun asti. Mä luulen, että tän kirjan
+Puhuja 0: The Hiden language of Computer hardware and Software,
+Puhuja 0: sen jos lukee, niin ymmärtää tästä meidän tämänhetkisestä maailmasta
+Puhuja 0: aivan huikeasti
+Puhuja 0: enemmän kuin
+Puhuja 0: ennen sitä.
 Puhuja 0: Erinomainen kirja, vaikka olen vasta ensimmäisen kolmasosan kohdalla.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos aivan erittäin paljon,
-Puhuja 0: Elli Harju, kun tulit tänne
-Puhuja 0: meille puhumaan etkä siihen toiseen.
-Puhuja 1: Kiitos kutsusta, kiitos kutsusta.
-Puhuja 0: Ja kiitos Marke Junkkarin Kiitti.
-Puhuja 0: Mun nimi on Tuomas Peltonmäki-äänikuva.
-Puhuja 0: Kaiken muu mahtava meille tekee tällä viikolla Janne, Elkki.
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos aivan erittäin paljon Elli Harju, kun tulit
+Puhuja 0: tänne
+Puhuja 0: meille puhumaan etkä siihen toiseen
+Puhuja 0: podcastiin.
+Puhuja 1: Kiitos kutsusta. Kiitos kutsusta.
+Puhuja 0: Kiitos, Markun Junkkarin. Kiitti.
+Puhuja 0: Mun nimi on Tuomas Peltonankin äänenkuva, ja kaiken muun mahtavaa meille tekee tällä viikolla Janne Erkki.
 Puhuja 0: Kiitos, Janne.
-Puhuja 0: Ensi viikolla
+Puhuja 0: Ensi
+Puhuja 0: viikolla
 Puhuja 0: podcastissa tulee tiedot, että miten ilmoittaudutaan
 Puhuja 0: pikkujouluihin.
 Puhuja 0: Olkaa kärppänä.
-Puhuja 0: Seuratkaa, kuunnelkaa heti paikalla. Katsokaa saatetiedot. Klikatkaa linkkejä, täyttäkää. Sopikaa tyttö ja poikaystävien kanssa, että me mennään tuonne, koska se on avekillinen tilaisuus.
+Puhuja 0: Seuratkaa, kuunnelkaa heti paikalla. Katsokaa saatetiedot, klikatkaa linkkejä, täyttäkää. Sopikaa tyttö ja poikaystävien kanssa, että me mennään tuonne, koska se on AVEKellinen tilaisuus.
 Puhuja 0: Se on aina ollut rakkauden
 Puhuja 0: suurta juhlaa eli
-Puhuja 0: tota näin. Se on ensi viikon torstaina.
+Puhuja 0: eli se on ensi viikon torstaina.
 Puhuja 0: Joten kuullaan silloin heippa!
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi,
+Puhuja 0: Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -1,213 +1,462 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina
-Puhuja 0: neljätoista.
-Puhuja 0: Heinäkuuta.
-Puhuja 0: Minun nimeni on Anni Keski-Heikkilä
-Puhuja 0: ja kanssani
-Puhuja 0: täällä Sanomatalon
-Puhuja 0: studiossa
-Puhuja 0: Helsingissä
-Puhuja 0: ovat Helsingin Sanomien politiikan toimittaja Joona Aaltonen. Hei Joona.
-Puhuja 0: Ja
-Puhuja 0: ulkomaantoimittaja
-Puhuja 0: Irina Hala, hei Irina. Hei vaan.
-Puhuja 0: Heipä hei eli paikalla jälleen kesätiimin osasia
-Puhuja 0: vahvistettuna
-Puhuja 0: ulkomaantoimituksen
-Puhuja 0: Japani tietäjällä Irinalla.
-Puhuja 0: Kyllä vain. Tämän viikon podcastissa keskustellaan
-Puhuja 0: saksalaisen kaasu
-Puhuja 0: yhtiön Uniperin kriisistä, josta meidänkin Suomen kansalaisten on syytä olla huolissaan,
-Puhuja 0: koska olemme tässä osallisia.
-Puhuja 0: Myös puhutaan Japanin Xinzoa Aben epäilystä ampujasta, jonka kerrottiin kohdistaneensa hyökkäyksen
-Puhuja 0: niin sanottuihin
-Puhuja 0: moonilaisiin. Eli
-Puhuja 0: mystinen korealaislahko
-Puhuja 0: Irina avaa tätä kuviota meille.
-Puhuja 0: Vielä
-Puhuja 0: puhutaan NASA:n
-Puhuja 0: julkaisemista uusista avaruuskuvista,
-Puhuja 0: jotka näyttää asioita, joita me ei kai ennen olla nähty avaruudesta.
-Puhuja 0: Kuinka pienen pieniä me,
-Puhuja 0: Fortum ja Uniper olemme tässä maailmassa
-Puhuja 0: maailmankaikkeudessa.
-Puhuja 0: Lopuksi vielä hyviä
-Puhuja 0: keskustelunaiheita pitkien epämukavien hiljaisuuksien varalle.
-Puhuja 0: Okei. Fortum ja Uniper.
-Puhuja 0: Tässä voi olla
-Puhuja 0: useampikin kesälomalainen,
-Puhuja 0: joka ei ole ehkä jaksanut perehtyä tähän aiheeseen, mutta
-Puhuja 0: eipä hätää.
-Puhuja 0: Eli
-Puhuja 0: tosiaan saksalainen Univer on Euroopan suurimpia kaasukauppiaita.
-Puhuja 2: Kun
-Puhuja 2: Aallonharjaa ja
-Puhuja 2: ymmärrys siitä, että muutakin on avautunut, niin
-Puhuja 2: tää nyt ei ole ehkä ihan niin merkittävä tämä web. Se on kuitenkin, että se on vaan
-Puhuja 1: tarkempia kuvia ja hienompia. Niin, pieni parannus.
-Puhuja 2: Mutta kuitenkin tämä voi ehkä tuoda mukanaan kaikenlaisia uusia
-Puhuja 2: innovaatioita, jotka ehkä taas
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 1: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 1: podcastiin
+Puhuja 1: torstaina
+Puhuja 1: neljätoista.
+Puhuja 1: Heinäkuuta. Minun nimeni on Anni Keski-Heikkilä
+Puhuja 1: ja kanssani
+Puhuja 1: täällä Sanomatalon
+Puhuja 1: studiossa
+Puhuja 1: Helsingissä ovat Helsingin Sanomien politiikan toimittaja Joona Aaltonen. Hei Joona. Terkpi
+Puhuja 1: ja ulkomaantoimittaja
+Puhuja 1: Irina Hala, Hei Irina. Hei vaan.
+Puhuja 1: Heipä hei. Paikalla jälleen kesätiimin osasia
+Puhuja 1: vahvistettuna
+Puhuja 1: ulkomaantoimituksen
+Puhuja 1: Japani tietäjällä Irinalla.
+Puhuja 1: Kyllä vain.
+Puhuja 1: Tämän viikon podcastissa keskustellaan
+Puhuja 1: saksalaisen kaasu
+Puhuja 1: yhtiön Uniperin kriisistä,
+Puhuja 1: josta meidänkin Suomen kansalaisten on syytä olla huolissaan,
+Puhuja 1: koska olemme tässä osallisia.
+Puhuja 1: Myös puhutaan Japanin Xinzoa Aben epäilystä ampujasta, jonka kerrottiin kohdistaneensa
+Puhuja 1: tämän hyökkäyksen niin sanottuihin
+Puhuja 1: moonjalaisiin.
+Puhuja 1: Eli
+Puhuja 1: mystinen korealaislahko
+Puhuja 1: Irene avaa tätä koko kuviota meille.
+Puhuja 1: Vielä
+Puhuja 1: puhutaan
+Puhuja 1: Nasan julkaisemista
+Puhuja 1: uusista avaruuskuvista,
+Puhuja 1: jotka näyttää asioita, joita me ei kai ennen olla nähty avaruudesta. Kuinka pienen pieniä me ja Fortum ja Uniper olemme tässä maailmassa
+Puhuja 1: maailmankaikkeudessa.
+Puhuja 1: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 1: pitkien
+Puhuja 1: epämukavien hiljaisuuksien
+Puhuja 1: varalle.
+Puhuja 1: Okei.
+Puhuja 1: Fortum ja Uniper.
+Puhuja 1: Tässä voi olla
+Puhuja 1: useampikin kesälomalainen,
+Puhuja 1: joka ei ole ehkä jaksanut perehtyä tähän aiheeseen, mutta
+Puhuja 1: eipä hätää.
+Puhuja 1: Eli tosiaan saksalainen Univer on Euroopan suurimpia kaasukauppiaita.
+Puhuja 1: Uniperen kumppani, Venäjän Gazprom, ei toimita nyt kaasua sovittuja määriä.
+Puhuja 1: Minkä takia Uniper tekee maankaasuliiketoiminnalla
+Puhuja 1: päivässä tappiota,
+Puhuja 1: jopa viisikymmentä
+Puhuja 1: miljoonaa euroa päivittäin.
+Puhuja 1: Fortum,
+Puhuja 1: Suomen valtion omistama Fortum
+Puhuja 1: omistaa Uniperistä
+Puhuja 1: seitsemänkymmentäkahdeksan
+Puhuja 2: prosenttia. Tai Suomen valtio viisikymmentäyksi
+Puhuja 1: prosenttisesti omistaa? Niin me oli just tulossa. Suomen valtio omistaa viisikymmentäyksi prosenttia Fortumista.
+Puhuja 1: Tämän vuoksi tämä on myös Suomen valtionkin
+Puhuja 1: ongelma. Meidän jutussamme
+Puhuja 1: kerrottiin näin, että jos oikein huonosti käy, hallituksen iloiset kesälomakuvat
+Puhuja 1: vaihtuvat jälleen kerran tiukka ilmeiseen tiedotustilaisuuteen,
+Puhuja 1: joka alkaa sanoilla
+Puhuja 1: emme haluaisi olla tässä, mutta.
+Puhuja 1: Koska Fortumin tilanne on käymässä niin tukalaksi, että
+Puhuja 1: pahin skenaario on se, että valtio joutuisi pääomittamaan
+Puhuja 1: sitä ja puhutaan miljardeista euroista.
+Puhuja 1: Mutta nyt meidän omistajaohjausministeri
+Puhuja 1: Tytti Tuppurainen on lähtenyt
+Puhuja 1: Saksaan
+Puhuja 1: tänään torstaina neuvottelemaan Uniperin pelastuspaketista.
+Puhuja 1: Joona, sä näytät siltä, että haluat sanoa jotain. Joo, se on mun mielestä
+Puhuja 2: tosi
+Puhuja 2: jännittävä tilanne, koska
+Puhuja 2: tuli
+Puhuja 2: aika, tämä on noussut pitkän aikaa Saksassa, mutta Suomesta siitä ei asiasta hirveästi
+Puhuja 2: puhuttu ennen
+Puhuja 2: kuin
+Puhuja 2: alettiin asiaa mediassa
+Puhuja 2: nostamaan.
+Puhuja 2: Mun mielestä on
+Puhuja 2: mielenkiintoista, miten
+Puhuja 2: hiljaista
+Puhuja 2: tuolla hallituksen
+Puhuja 2: suunnalla ollaan oltu tästä. Toisaalta myös ymmärrettävää, koska
+Puhuja 2: ei välttämättä haluta nostaa itselle epäedullista
+Puhuja 2: tilannetta
+Puhuja 2: esiin.
+Puhuja 2: Tosiaan, sitä ennen
+Puhuja 2: kuin Hesari tästä jutun teki, oliko se viime viikolla se ensimmäinen juttu?
+Puhuja 2: Joo, taisi olla viime viikon puolella, niin siihen astihan linja oli se, että tämä on täysin liiketaloudellinen
+Puhuja 2: liiketaloudellinen
+Puhuja 2: ongelma ja Suomen valtio ei siihen puutu millään tavalla, mutta yhtäkkiä
+Puhuja 2: tulikin ilmoitus, että omistajaohjausministeri
+Puhuja 2: onkin ollut neuvottelu yhteydessä.
+Puhuja 3: Tuoda kansalle katsottavaksi johonkin
+Puhuja 3: isolle isolle screenille. Tai mä menisin ihan johonkin
+Puhuja 3: taidenäyttelyyn, koska taidettahan on siinä mielessä, että niihin pitää värittää ne kaasut.
+Puhuja 3: Muutenhan ne ei erotu, ilmeisesti teleskooppikuvassakin.
+Puhuja 3: Jos sä otat vaan ottaisit vaan kuvan, niin sitten sinne ei samalta.
+Puhuja 3: Jotain säätöjähän niihin pitää ilmeisesti tehdä.
+Puhuja 3: En ole asiantuntija, mutta
+Puhuja 3: en innostunut kollegani tätä selitti, niin
+Puhuja 3: sehän aina kuitenkin jonkin verran myös tarvitaan sitä.
+Puhuja 1: Kyllä nämä pitäisi saada isulle johonkin esille. Se kyllä tuntee itsensä pieneksi, kun niitä katsoo.
+Puhuja 1: Toisaalta, kun niitä katsoo,
+Puhuja 1: niin tuntee itsensä myös tyhmäksi, koska mä en ainakaan tiedä, mitä
+Puhuja 1: tässä, kun tässä nyt otin tämän kuvankin
+Puhuja 1: itselleni esille, niin sehän näyttää joltain
+Puhuja 3: taideteokselta ja toisaalta
+Puhuja 1: ihan sellaiselta kuvalta, minkä olisin varmaan voinut nähdä ennenkin jonkun maalaamana. Toi
+Puhuja 3: Tuo on myös mieleen 2000-luvun
+Puhuja 3: alussa trendikkäät galaksikuvioiset.
+Puhuja 3: Tiedättekö ihan tällaiset catch-asiat
+Puhuja 3: ja se on tosi absurdia, koska totta kai ne
+Puhuja 3: catch-asiat on taas hakenut varmaan Nasan kuvat ja tehnyt niistä kuosin. Voi kuunnella niitä vielä uuteen muotiin tämän myötä. Kyllä, mä näkisin, että tämä antaa mahdollisuuksia ehdottomasti tehdä tarkempia printtejä,
+Puhuja 3: koska siinä oli myös ihanan piksellisiä aina
+Puhuja 3: ne kalvolla jossain Kiinassa tuotettu.
+Puhuja 3: Tosi kyllä hätkähdyttäviä kuvia, mutta en voi estää sitä, että mulle tulee mieleen ne kaikki galaksi.
+Puhuja 3: Mäkään en ihan maallikko myös, niin sitten kun katsoo näitä kuvia, niin että joo, tässä on
+Puhuja 3: jotain.
+Puhuja 3: Yksi ystäväni minulle selitti, että sellainen ruskea kaasu esim. Yhdessä kuvassa, niin siitä voisi puhua
+Puhuja 3: vaikka tähtien synnytys
+Puhuja 3: että se on jotain sellaista kaasua,
+Puhuja 3: josta on syntynyt tähti.
+Puhuja 3: Kyllä
+Puhuja 3: niihin selitykset tarvisi tarkemmin, ja kyllähän niitä löytyy.
+Puhuja 3: Esimerkiksi HS-tieteen
+Puhuja 3: artikkelit avaa tietenkin näitä sillain, ettei tarvi ihan arvailla,
+Puhuja 3: että mitä välkkyi. Kyllä kyllä. Puhuit varmaan äsken esimerkiksi
+Puhuja 3: Carina sumusta.
+Puhuja 3: Varmaankin. Onpa kaunis nimi. Niin on,
+Puhuja 3: myös yhtyinä tunnettu.
+Puhuja 3: Joku levyn kansi mulle tuli. Tietenkin kaikki tällaiset psykeilibändit tuli myös mieleen.
+Puhuja 3: Huomaa, kuinka maallikkona katsoo näitä kuvia, niin siihen ei voi olla liittämättä sitä, mikä on jo aiemmin innostunut, vaikka ne on ollut tietenkin eri kuvia.
+Puhuja 3: Huhhuh. Mutta joo.
+Puhuja 3: Jos
+Puhuja 3: me opittaisiin jotain uutta tietoa,
+Puhuja 3: kun me nähdään nyt pidemmälle ja tarkemmin,
+Puhuja 3: niin jos me vaikka löydettäisiin yllättäen
+Puhuja 3: jotain, no ei nyt ehkä elämää, onko se liikaa
+Puhuja 3: ongelmia. Jos me nähdään jotain elämää siellä, niin onko se jo kuollut siihen mennessä, kun me nähdään se? Koska se on niin monen valovuoden
+Puhuja 3: takaa.
+Puhuja 2: Jos otetaan tosi kaukaisia, niin sieltähän me ei nyt välttämättä
+Puhuja 2: elämää tai tällaisia
+Puhuja 2: todennäkösia,
+Puhuja 2: koska ne on kaukaa.
+Puhuja 2: Siitä katsoo
+Puhuja 2: webin
+Puhuja 2: varaustietoja,
+Puhuja 2: eli mihin erilaisiin projekteihin sitä on varattu
+Puhuja 2: tämän valmistumisen
+Puhuja 2: jälkeen.
+Puhuja 2: Ensi vuoden aikana noin kolmas ajasta,
+Puhuja 2: minkä se käyttää tutkimukseen, se tutkii galaksien ja tähtien syntyä, näitä tosi kaukaisia
+Puhuja 2: asioita,
+Puhuja 2: meidän universumin
+Puhuja 2: syntyhetkiä ja vaikeasti ymmärrettävää ja tällaista. Noin viidennes siitä kaikesta ajasta on omistettu
+Puhuja 2: eksoplaneetoille.
+Puhuja 2: Eli eksoplaneetathan
+Puhuja 2: on siis sellaisia
+Puhuja 2: planeettoja, jotka sijaitsevat jossain
+Puhuja 2: aurinkokunnassa
+Puhuja 2: niin sanotulla sellaisella vihreällä vyöhykkeellä,
+Puhuja 2: jossa niiden elinolosuhteet
+Puhuja 2: teoriassa vastaisivat maapallon
+Puhuja 2: elinolosuhteita.
+Puhuja 2: Elikkä siellä lämpötilat on sellaisia ja sen kokoluokka on sellainen, että siellä voisi olla nestemäistä vettä,
+Puhuja 2: mitä usein pidetään
+Puhuja 2: elämän edellytyksenä.
+Puhuja 2: Ne tekoplanettoihin on siis löydetty
+Puhuja 2: valtavasti.
+Puhuja 3: Niissä yleensä vaan oli joku muu asia, mikä mättää, että siellä ei voi olla elämää. Niin. Mutta teoriassa. Teorias. Kyllä.
+Puhuja 2: Ja nyt voidaan tutkia paremmin tällä ja löytää ehkä lisää eksoplaneettoja.
+Puhuja 2: Ja
+Puhuja 2: sitten viisi, kuusi prosenttia ajasta on varattu
+Puhuja 2: oman aurinkokunnan tutkimiseen, koska kyllähän... Niin, mitä ainakin on varmaan löydetty. Aurinkokunnassakin on paljon asioita, mitä
+Puhuja 2: me ei
+Puhuja 2: tunneta varsinaisesti,
+Puhuja 2: vaikka onko ne? Nyt mun yleissivistys hieman
+Puhuja 2: epävarmatta, eikö ne Jupiterin kuuot,
+Puhuja 2: mitä on paljon tutkittu ja niissä
+Puhuja 2: jostain on löydetty jäätä esimerkiksi.
+Puhuja 1: Yritin mielessäni tavata tuota resur Redfornin biisiä, mutta ei siinä puhuta
+Puhuja 3: Sen
+Puhuja 2: löydettävää.
+Puhuja 2: Se, mitä odotan tästä
+Puhuja 2: kaikista eniten, on se, että mitä kaikkea uutta me saadaan. Tai
+Puhuja 2: kuitenkin
+Puhuja 2: se webb:n
+Puhuja 2: edeltäjä
+Puhuja 2: habull-teleskooppi,
+Puhuja 2: johon
+Puhuja 2: tähän asti
+Puhuja 2: avaruutta on tutkittu, on
+Puhuja 2: 90-luvulla.
+Puhuja 3: Ai niin, se oli niin vanhaan. Se oli niin vanhaan.
+Puhuja 2: Eli
+Puhuja 2: käytännössä Inna-antiikista.
+Puhuja 3: Kuvan. No ihmetkös
+Puhuja 3: siis suosittelen kaikille, kuplatkaa
+Puhuja 3: se Huble versus
+Puhuja 3: web, koska
+Puhuja 3: nythän selittää, että siellä oli 90-luvulta
+Puhuja 3: se Huble, koska se näytti juurikin, no vertaa vaikka mitä kuvia otti itse 90-luvulla.
+Puhuja 3: Ja sitten versus mitä ottaa nykyään vaikka iPhonella tai järjestelmäkameralla,
+Puhuja 3: se ero on oikeasti niin hätkähdhdit.
+Puhuja 3: Nokian ensimmäiset kameran puhelimeen versus. Joo, ei ehkä 90-luvulla vaan, okei, ehkä 2000-luvun puolella alkoi olemaan digipokkareita
+Puhuja 3: ja pikkukamereita.
+Puhuja 3: Mutta
+Puhuja 3: jotkut haluaa palata sellaiseen epävarkaan ja sumuuseen.
+Puhuja 1: Toisaalta
+Puhuja 1: elämä
+Puhuja 1: pienen sumun
+Puhuja 1: kautta.
+Puhuja 2: Toi Anni kuulosti tosi pahalta, elämme pienen sumun kautta.
+Puhuja 3: Mutta ymmärrän, että koska nämä avaruuskuvat ja mittasuhteet on vaan sellainen, että menee aivot heti solmuun, niin kyllä jotkut vaan haluaa palata siihen
+Puhuja 3: pieneen.
+Puhuja 3: Ehkä tätä samaa vertauskuvaa voi käyttää. Jotkut haluaa palata myös vanhaan teknologiaan ja vähän sellaiseen kasetit haun taas cooleja. Mutta
+Puhuja 3: kieltämättä
+Puhuja 1: nämä
+Puhuja 1: on semmoisia asioita, että kuinka pieniä me ollaan maailmankaikkeudessa.
+Puhuja 1: Mieluummin ei oikeastaan edes ajattelisi.
+Puhuja 3: Joskus, jos tuntuu jotkut omat huolet tosi isolta tässä kehittyneessä valtiossa, jonka hyvin etuoikeutettua
+Puhuja 3: osaa me olemme, niin silloin ehkä on välillä ihan hyvä katsoa, vähän zoomata webbin ottamaan kuvan
+Puhuja 3: ja muistaa, että
+Puhuja 2: sinä olet pieni. Mitä väliä, mitä me täällä maassa loppuu? En kannata tätä kyynisyyttä
+Puhuja 3: tai nihilististä asennetta, että millä ei ole väliä, mutta voi
+Puhuja 3: ehkä helpottaa samalla tavalla kuin luonto, niin se, että on myös avaruus.
+Puhuja 3: Mutta useimmiten se minussa herättää kauheaa ahdistusta,
+Puhuja 1: että ei nyt... No voi ajatella, että sillä ei ole mitään väliä, mitä Tytti Tuppurainen siellä sopii.
+Puhuja 3: Verta-aessa edistyykö Japani
+Puhuja 3: yhteiskuntana? Mihin?
+Puhuja 3: Anteeksi, kauan.
+Puhuja 2: Webbin kanssa. Mutta minun on pakko myöntää, että vaikka
+Puhuja 2: en ymmärrä
+Puhuja 2: tähtitieteestä tai fysiikasta varsinaisesti mitään hirveän tarkkaa. Anteeksi kaikille kuulijoille
+Puhuja 2: mahdollista virheistä.
+Puhuja 3: Ensi kerralla tänne pitää tuoda totta kai tieteen toimintaa
+Puhuja 2: toimintaa. Joka tapauksessa, niin
+Puhuja 2: jotenkin olen
+Puhuja 2: ollut kateellinen niille ihmisille, jotka on elänyt vaikka joskus
+Puhuja 2: 1960-luvulla,
+Puhuja 2: kun ollaan kehitetty
+Puhuja 2: näitä ensimmäistä kertaa, lähdetty avaruuteen
+Puhuja 2: ja puhua. Puolue.
+Puhuja 2: Ja
+Puhuja 2: tällaisia
+Puhuja 2: asioita.
+Puhuja 2: Tieteen tällaista
+Puhuja 2: aallonharjaa ja ymmärrys
+Puhuja 2: siitä, että muutakin on jo avautunut.
+Puhuja 2: Tää ei ole ehkä ihan niin
+Puhuja 3: merkittävä tämä web. Se on kuitenkin, että se on vaan tarkempia kuvia ja hienompia. Pieniparannus,
+Puhuja 2: mutta kuitenkin tämä voi tuoda mukanaan
+Puhuja 2: kaikenlaisia uusia
+Puhuja 2: innovaatioita, jotka taas
 Puhuja 2: herättää ihmisten mielenkiinnon
 Puhuja 2: avaruusaiheisiin.
-Puhuja 1: Edistystäkin
-Puhuja 1: tapahtuu, koska
-Puhuja 1: sekä tämä Universon että Japanin
-Puhuja 1: traagiset tapahtumat, niin niissä tuntuu, että edistys ei ole oikein edennyt
-Puhuja 1: Tai että olen fossiilisissa kiinni ja yhteiskunta ei etene. Mutta tämä web on edistystä todella ja että se voi tuoda jotain uusia.
-Puhuja 1: Kehitys
-Puhuja 1: kehittyy niin sanotusti. Se on ihanaa, että edes jollain alueella.
+Puhuja 3: Edistystäkin
+Puhuja 3: tapahtuu, koska
+Puhuja 3: sekä tämä Universot kuin että Japanin
+Puhuja 3: traagiset tapahtumat, niin niissä tuntuu, että edistys ei ole oikein edennyt.
+Puhuja 3: Tai että olen fossiilisessa kiinni ja yhteiskunta ei etene.
+Puhuja 3: Mutta tämä
+Puhuja 3: web on edistystä todella ja että se voi tuoda jotain uusia.
+Puhuja 3: Kehitys kehittyy niin sanotusti, se on ihanaa. Ei edes jollain alueella.
 Puhuja 2: Kyllä, mielenkiinnolla odotamme.
-Puhuja 1: Nähtäväksi jää. Ei, miksi tämä on taas vaan yritetty, kun ei ole tällaista loppukaneettia,
-Puhuja 1: jossa jossain asiassa edes edistytään, mutta sitten kuitenkin jätetään tämäkin:
-Puhuja 1: Nähtäväksi jää.
-Puhuja 0: Sitten kun
-Puhuja 0: tässä
-Puhuja 0: viikonloppuna lähdette
-Puhuja 0: vaikkapa ilosaari-rockiin,
-Puhuja 0: jonne joku ehkä saattaa mennä
-Puhuja 0: eli itse minä.
-Puhuja 0: Mutta
-Puhuja 0: kun lähdette festaroimaan,
-Puhuja 0: niin
-Puhuja 0: pakotetaan kaikki teidät festareille,
-Puhuja 0: niin sitten kun siellä tulee kiusallisia hetkiä, niin milläs viihdytätte
-Puhuja 0: kanssa
-Puhuja 0: juhlijoita ja viikonlopusta nauttijoita?
-Puhuja 1: Linnuista
-Puhuja 1: voi aina puhua, lintujen voi aina katsella. Kuten
-Puhuja 1: monet mun ikäiset
-Puhuja 1: ja aika monen ikäiset
-Puhuja 1: korona-aikana
-Puhuja 1: oli sellainen, että pakko vaan katsella ikkunasta. Niin sitten mulla linnut tuli sellaiseksi
-Puhuja 1: pakko
-Puhuja 1: mieleen aiheeksi. Okei, pakkomieleen on ikävä
-Puhuja 1: negatiivinen sana, mutta
-Puhuja 1: kiehtovaa ja rentouttavaa
-Puhuja 1: niitä on katsella.
-Puhuja 1: Tottakai lokit ja hanhet voi olla aika aggressiivisia ja ahdistaviakin,
-Puhuja 1: mutta kaikilla on joku kosketuspinta lintuihin. Niistä voi puhua kenen kanssa vaan, koska kyllähän kaikki Suomessa on nähnyt lintuja.
-Puhuja 1: Tämä kuulostaa tosi tylisältöjen nörtiltä, mutta ihan oikeasti.
-Puhuja 1: Esimerkiksi paljon uutisia lukevan, että rupeaa ahdistamaan nämä aiheet, niin sitten kun katsoo lintuja jonkin aikaa, niin kyllä se oikeasti rauhoittaa. Onko sulla lempilintua?
-Puhuja 1: Viime aikoina mua ilahduttaneet
-Puhuja 1: loginpoikaset
-Puhuja 1: ja vastaräkinpoikanen,
-Puhuja 1: joka on mun pihalla. Se on se, että se on se, että ästäräkeillä tosi
-Puhuja 1: nopeasti
-Puhuja 1: alas. Sitten vaan tuijottelen, kun se kipittää edestakaisin, niin se vaan sulattaa mun sydämen. Mä ymmärrän, että loginpoikaset
-Puhuja 1: Annilla oli äsken
-Puhuja 1: todella huolestunut ilme, niin mä ymmärrän sen.
-Puhuja 1: Emothan
-Puhuja 1: puolustaa tosi aggressiivisesti niitä poikasia. Joo, se on vaarallista, kun ymmärrän. Joo, mulla on lintu fobia ja lokinpoikasetettu
-Puhuja 0: mun ultimate ykkössiinhokkilintuton
-Puhuja 0: takia.
-Puhuja 1: Ymmärrän aivan. Mä en tuomitse ketään tästä. Mustarastaat on kanssa kivoja. Ne ei hyökkääile päällä. Ne on kyllä käyneet mun viljelulaatikossa vähän, mikä mua huolestuttaa, mutta
-Puhuja 1: mustarasta on myös lailla. Ihanan arkinen kaikki tunnistaa ja niiden pompottelujen
-Puhuja 1: liikkumista on vaiheena katsoa. Suosittelen, kun on kiusallinen hetki festareilla missä vaan, niin linnut,
-Puhuja 1: hitsikokin, ei hitsikokin linnut, vaan
-Puhuja 1: ihan muuten vain linnut, kivat ja ikävätkin linnut, piirtää puhuttavaa. Okei. Joona. Sen
-Puhuja 2: verran palaan vielä lintuiheeksi, että tutulla
-Puhuja 2: on tällainen teoria, että silloin kun miehestä tulee keski-ikäinen,
-Puhuja 2: on kaksi
-Puhuja 2: tietä. Toinen on se, että kiinnostuu linnuista
-Puhuja 2: ja toinen on se, että kiinnostuu natsi-Saksasta ja alkaa lukea sotakirjallisuutta.
-Puhuja 1: Haluaisin muuttaa sen, että
-Puhuja 1: niillä lintubongausretkillä
-Puhuja 1: ei ole vaan
-Puhuja 1: kunnon.
-Puhuja 1: Kannustan lintujen katseluun, en bongailuun, jossa linnut arvotetaan jollain pisteytyksillä
-Puhuja 1: ja ajetaan johonkin
-Puhuja 1: kilometriä autolla ja pitää olla iso teleskooppi tai iso objektiivi kamerassa. Eli matalan kynnyksen linjasto. Eikö kaikesta pidä tehdä kisa? Ilmeisesti
-Puhuja 1: joidenkin mielestä.
-Puhuja 1: Ei kaikki lintubongarit,
-Puhuja 1: vaikka niillä on hienot välineet
-Puhuja 1: ikäviä, mutta jotkut on pakko sanoa.
+Puhuja 3: Nähtäväksi jää!
+Puhuja 3: Ja
+Puhuja 1: jonne joku ehkä saattaa mennä
+Puhuja 1: eli itse minä.
+Puhuja 1: Mutta kun lähdette festaroimaan,
+Puhuja 1: niin
+Puhuja 3: Pakotetaan kaikki teidät festareille,
+Puhuja 3: niin sitten kun siellä tulee kiusallisia hetkiä, niin milläs viihdytätte
+Puhuja 3: kanssa
+Puhuja 3: juhlijoita
+Puhuja 3: ja viikonlopusta nauttijoita?
+Puhuja 3: Linnuilla.
+Puhuja 3: Linnuista voi aina puhua, lintujen voi aina katsella. Kuten
+Puhuja 3: monet mun ikäiset
+Puhuja 3: ja aika monen ikäiset
+Puhuja 3: korona-aikana oli sellainen, että pakko vaan katsella ikkunasta.
+Puhuja 3: Sitten mulla linnut tuli sellaiseksi
+Puhuja 3: pakko mieleen aiheeksi. Okei, pakko mieleen on ikävä negatiivinen sana, mutta kiehtovaa
+Puhuja 3: ja rentouttavaa
+Puhuja 3: niitä on katsella.
+Puhuja 3: Tottakai lokit ja hanhet voi olla aika aggressiivisia
+Puhuja 3: ja ahdistaviakin,
+Puhuja 3: mutta kaikilla
+Puhuja 3: on joku kosketuspinta lintuihin, niistä voi puhua kenen kanssa vaan, koska kyllähän kaikki Suomessa on nähnyt lintuja.
+Puhuja 3: Tämä kuulostaa tosi tylisältöjen nörttiltä, mutta siis ihan oikeasti. Esimerkiksi
+Puhuja 3: paljon vaikka uutisia lukevan, että rupeaa ahdistamaan nämä aiheet, niin sitten kun katsoo lintuja jonkin aikaa, niin kyllä se oikeasti rauhoittuu. Onko sulla lempilintua? Viime aikoina mua ilahduttaneet
+Puhuja 3: Lokinpoikaset
+Puhuja 3: ja sitten semmoinen västäräkinpoikanen,
+Puhuja 3: joka on mun pihalla. Se on söpö, kun Hasträkeillä menee pirstö tosi nopeasti alas. Sitten vaan tuijottelen, kun se kipittää edestakaisin, niin se vaan sulattaa mun sydämen. Ymmärrän, että loginpoikaset Annilla oli äsken todella huolestunut ilme, ymmärrän sen.
+Puhuja 3: Emothan
+Puhuja 3: puolustaa tosi aggressiivisesti niitä poikasia.
+Puhuja 3: Se on vaarallista, ymmärrän.
+Puhuja 1: Mulla on lintufobia
+Puhuja 1: ja lokinpoikasetettu
+Puhuja 1: mun ultimate ja ykkösinhokki lintuton takia.
+Puhuja 1: Ymmärrän
+Puhuja 3: aivan. Mä en tuomitse ketään tästä. Mustarastaat on kanssa kivoja. Ne ei hyökkääile päällä. Ne on kyllä käynyt mun viljelulaatikossa vähän mikä mua huolestuttaa, mutta
+Puhuja 3: mustarastaat on kanssa.
+Puhuja 3: Ihanan arkinen kaikki tunnistaa ja niiden pompottelujen
+Puhuja 3: liikkumista on vaiheena. Eli suosittelen, kun on kiusallinen hetki festareilla missä vaan, niin
+Puhuja 3: linnut hitskokin, ei hitskokin linnut,
+Puhuja 3: vaan ihan muuten vaan linnut, kivat
+Puhuja 3: ja ikävätkin linnut, riittää puhuttavaa.
+Puhuja 3: Okei, Joona.
+Puhuja 2: Sen verran palaan vielä lintu-aiheihessä, mun ohella Tosula on tällainen teoria, että silloin kun miehestä tulee keski-ikäinen,
+Puhuja 2: ne on kaksi
+Puhuja 2: tietä. Toinen on se, että kiinnostuu linnuista ja toinen on se, että kiinnostuu natsi-Saksasta ja alkaa lukea
+Puhuja 2: sotakirjallisuutta.
+Puhuja 2: Mieluummin
+Puhuja 3: linnut
+Puhuja 3: kaikille linnuille. Myönnän,
+Puhuja 2: että
+Puhuja 2: minusta tulee ehkä se, joka lukee sotakirjallisuutta.
+Puhuja 3: Voi ei, mutta eikö moottoripyörrät
+Puhuja 3: ole myös yksi väylä? Se voi ehkä olla. Sekään ei ole ehkä muuta vaihtoehtoa. Tai moottoriajoneuvot,
+Puhuja 3: ehkä mikä
+Puhuja 2: vaan. No mutta sä sitten näistä se lintu.
+Puhuja 3: Äänestä lintuja. Haluaisin muuttaa sen, että niillä lintubongausretkillä
+Puhuja 3: ei ole vaan kunnon.
+Puhuja 3: Kannustan lintujen katseluun, en bongailuun, jossa linnut arvotetaan jollain piste yksillä
+Puhuja 3: ja ajetaan johonkin kaksisataa kilometriä autolla ja pitää olla iso teleskooppi tai iso objektiivi kamerassa. Niin sä sitä matalan kynnyksen Lintueksi? Eikö kaikesta pidä tehdä kisa? No ilmeisesti
+Puhuja 3: joidenkin mielestä.
+Puhuja 3: Ei kaikki lintubongarit,
+Puhuja 3: vaikka niillä on hienot välineet
+Puhuja 3: ikäviä, mutta jotkut on pakko sanoa.
 Puhuja 2: Okei, okei, Joona. Mutta mun vinkki.
-Puhuja 2: Sanoit, että pakotetaan meidät festareita voin tehdä julkisen tunnustuksen. En ole ikinä ollut festareilla.
-Puhuja 2: En tiedä, mistä niille pitäisi puhua, mutta jos kiusallinen tilanne tulisi, mikä olisi todennäköistä, koska en ikinä ollut festareilla,
+Puhuja 2: Sanoit, että pakotetaan meidät festareita voin tässä tehdä julkisen tunnustuksen. En siis ole ikinä ollut festareilla.
+Puhuja 2: En tiedä, mistä niille pitäisi puhua, mutta jos kiusallinen tilanne tulisi, mikä olisi todennäköistä, koska menikin ollut festareilla,
 Puhuja 2: niin voisin ehkä puhua journalistisesta
 Puhuja 2: paheesta,
 Puhuja 2: joka on
 Puhuja 2: The Financial
-Puhuja 2: Timesin Weekend Edition, jonka saa Suomessa ostettua. Mistähan se jo se? Odotin seiskaa.
-Puhuja 0: Mikä on pahe?
-Puhuja 2: Paheesta, tulemme kohta. Financial Timesin Weekend Edition
-Puhuja 2: Eurooppa-versio, mitä täältä saa kaupoista ostettua, on
-Puhuja 2: itsellesteenä
+Puhuja 2: Timesin Weekend Edition,
+Puhuja 2: jonka saa Suomessa ostettua.
+Puhuja 2: Odotin
+Puhuja 3: seiskaa.
+Puhuja 3: Mikä on pahe?
+Puhuja 2: Paheessa tullaan kohta. Financial Timesin Weekend Edition
+Puhuja 2: Eurooppa-versio, mitä täältä saa kaupoista
+Puhuja 2: ostettua, se on
+Puhuja 2: itselehtenä
 Puhuja 2: oikein mielenkiintoinen ja mukavaa luettavaa silloin kun jaksaa. Mutta ostan sen erityisesti sen takia, että sen välissä tulee aina houtspendit
-Puhuja 1: liite. Ei, niin tästä mä oon kuullut. Se on aivan törkeä juttu. Jos oma
-Puhuja 2: elämä tuntuu
-Puhuja 2: tylsältä ja arkiselta,
-Puhuja 2: niin sitä lukemalla pystyy arvpata aivan toisenlaista
-Puhuja 2: elämää. Esimerkiksi tässä oli, se ei ollut tämä uusin, se oli pari viikkoa
-Puhuja 2: sitten viikonloppuna ollut liite,
-Puhuja 2: niin niillä on joku teema, mitä ne käsittelee, se oli get the way
-Puhuja 2: liite, eli matkailuun ja matkusteluun.
+Puhuja 3: liite. Ei, niin tästä olen kuullut. Se on aivan törkeä. Hoautus spendit liite, niin jos oma elämä tuntuu
+Puhuja 2: tylsältä ja arkiselta, niin sitä lukemalla pystyy arvpata
+Puhuja 2: aivan toisenlaista elämää.
+Puhuja 2: Esimerkiksi tässä oli
+Puhuja 2: se ei ollut tämä uusi, pari viikkoa sitten
+Puhuja 2: viikonloppuna ollut liite,
+Puhuja 2: niin niillä on joku
+Puhuja 2: teema, mitä ne käsittelee. Se oli get the way liite eli matkailuun ja matkusteluun.
 Puhuja 2: Sen
 Puhuja 2: pääkirjoituksen
 Puhuja 2: ensimmäinen lause alkoi sillä,
 Puhuja 2: että onko sinullakin ollut vaikeuksia löytää yksityiskonetta.
-Puhuja 2: Pääotsikko siinä
-Puhuja 2: lehdessä käsitteli sitä, että
-Puhuja 2: yksityislentokoneita
+Puhuja 2: Pääartikkeli siinä lehdessä
+Puhuja 2: käsitteli sitä,
+Puhuja 2: että yksityislentokoneita
 Puhuja 2: on siis tosi vaikea löytää, jos haluaa lähteä Jenkeistä
 Puhuja 2: viikonloppureissulle eurooppalaisiin kaupunkeihin,
-Puhuja 2: Niitä on niin vähän. Tässä jutussa todettiin, että
-Puhuja 2: tämä on nyt
-Puhuja 2: epäsuorasti sitaatti tästä jutusta. Yksityislentokoneissa
+Puhuja 2: koska niitä on niin vähän.
+Puhuja 2: Tässä jutussa todettiin, että
+Puhuja 2: tämä on nyt epäsuora sitaatti tästä
+Puhuja 2: jutusta. Yksityislentokoneissa
 Puhuja 2: on yksi ongelma,
 Puhuja 2: kaksoispiste.
 Puhuja 2: Niitä on liian vähän.
-Puhuja 2: Joo, kyllä.
-Puhuja 2: Ja mun mielestä
-Puhuja 2: Yksi ongelma vaan. Kyllä. Ja mun mielestä hautauspendit
-Puhuja 2: liitteen lukeminen on jotenkin niin hulvaton kokemus, koska siinä pääsee
-Puhuja 2: aivan toisenlaiseen
-Puhuja 1: mielenmaisemaan, missä itse elää. Kyllä. Tätäkin oppoin linnuilla, koska ahdistaa heti jo.
-Puhuja 2: Tämäkin on lentämistä.
-Puhuja 2: Tässäkin jutussa sitten.
-Puhuja 2: Lopuksi väitän, että tämän on pakko olla huumorilla kirjoitettu, mutta siinä oli
-Puhuja 2: todettu, että jos näitä yksityiskoneita on vaikea vuokrata, niin aina voi myös tilata oman. Esiteltiin muutama malli, paljonko ne maksaa ja kuinka kauan tulisi, että saisi oman yksityiskoneen. No pakko, mikä oli hinta luo? Sadoista miljoonista puhu.
-Puhuja 0: Eli Financial Timesin viikonloppulehden
-Puhuja 0: välissä oleva Howithpendit
-Puhuja 0: liite.
-Puhuja 0: Voisin nopeasti suositella vaikkapa
-Puhuja 0: asiaa nimeltä Godraamat. Koreaankin osuimme vähän tässä
-Puhuja 0: Koreaankin
-Puhuja 0: osuimme vähän tässä meidän
-Puhuja 0: keskustelun aikana.
-Puhuja 2: Sen verran
-Puhuja 2: yhdistyy myös, että välillä
-Puhuja 2: koodraamat, nekin on tietty lahko ihmiset, jotka katsoo niitä.
-Puhuja 2: Mä otan yhden, niin ymmärrät miksi. Nimenomaan. Tämä on se aina, mitä sanotaan, että kun katsot yhden, niin tiedät koukkuun ja katsot ne kaikki.
-Puhuja 1: Mikä on paras, jossa haluan suositella gateway-K-pop?
-Puhuja 1: Duck tyyppinen
-Puhuja 0: koodraama. Mikä se olisi? Crash Landing on YouY,
-Puhuja 0: missä
-Puhuja 0: liikutaan Etelä-Korea-Pohjois-asioissa.
-Puhuja 0: Siinä on etelä-Korealainen,
-Puhuja 0: rikas nainen tämmöisen oikein rikkaan suvun
-Puhuja 0: firman omistajasuvun
-Puhuja 0: nainen päätyi vahingossa Pohjois-Koreaan.
-Puhuja 0: Ja siellä hänet löytää mies, joka ei tapakaan häntä heti.
-Puhuja 1: Tämä koodraamoissa on ihana, että sä voit heti tietää.
-Puhuja 1: Premissi on hyvin selvä, mitä siinä lopulta käy. Kyllä, jos se ei toimi.
-Puhuja 0: Tuo oli ensimmäinen, minkä mä katsoin.
-Puhuja 0: Silti todella villi matka se koko sarja. Mutta muuten villi tyyli.
-Puhuja 1: Joo. Minun tekisi mieli ruveta puhumaan siitä, että miten paljon
-Puhuja 1: tai siis tuo asepalvelus,
-Puhuja 1: mikä tavallaan tulee esille myös ilmeisesti myös tässä sarjassa. Sehän on Etelä-Koreassa
-Puhuja 1: hyvin mielenkiintoinen. Mutta ei lähdetä vakavin. Toinen,
-Puhuja 0: minkä olen viimeisimpänä katsonut, on nimeltään Forcasting Love and Wether.
-Puhuja 0: Ja se kertoo Korean Ilmatieteen laitoksesta,
-Puhuja 0: jossa on nämä kaikki Ilmatieteen laitoksen tyypit, myös säätoimittajat,
-Puhuja 0: jotka työskentelee siellä laitoksella
-Puhuja 0: ja siinä on kaikenlaista, onkohan se nyt kuinka monen ihmisen välinen draama, mutta se käsittelee myös säätä ja se on ihan valtavan mielenkiintoista
-Puhuja 0: se sääosa.
-Puhuja 0: No niin, kaikki on muidenkin mielestä varmasti mielenkiintoista.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Joona Aaltonen.
-Puhuja 0: Kiitos Anni. Kiitos Irina Hasala. Kiitos. Minun nimeni on Anni Keski-Heikkilä
-Puhuja 0: ja äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla Ville Veikko Niemelä.
-Puhuja 0: Muistakaa lähettää meille palautettauutisraportti
-Puhuja 0: kaikenlaisissa kanavissa. Kuullaan taas ensi viikolla. Moikka moi!
-Puhuja 0: Hae!
+Puhuja 2: On lentämistä.
+Puhuja 2: Tässäkin jutussa sitten lopuksi
+Puhuja 2: väitän, että tämän on pakko olla huumorilla kirjoitettu, mutta siinä oli
+Puhuja 2: todettu, että
+Puhuja 2: jos yksityiskohtia on vaikea vuokrata, niin aina voi myös tilata oman. Esiteltiin muutama malli, paljonko ne maksaa ja kuinka kauan tulisi, että saisi oman yksityiskoneen.
+Puhuja 3: Mikä oli hinta-luonno? Saoista miljoonista puhuttiin. Eli
+Puhuja 1: Financial Timesin Viikonloppu
+Puhuja 1: välissä oleva Haluspendit
+Puhuja 1: liite.
+Puhuja 1: Voisin nopeasti suositella vaikkapa
+Puhuja 1: asiaa nimeltä Godraamat,
+Puhuja 1: kun tässä
+Puhuja 1: Koreaankin
+Puhuja 1: osuimme vähän tässä meidän keskustelun
+Puhuja 1: aikana.
+Puhuja 2: Sen verran yhdistyy myös, että musta tuntuu, että välillä koodraamat, nekin on tietty lahko ihmiset, jotka katsoo niitä.
+Puhuja 2: Yhden, niin ymmärrät miksi. Nimenomaan. Tämä on se aina, mitä sanotaan, että kun katsot yhden, niin jäät koukkuun ja katsot ne kaikki. Mikä
+Puhuja 3: on paras, jos haluat suositella Gateway K-pop? Gateway
+Puhuja 3: crash Lang-tyyppinen
+Puhuja 1: goodraama. Mikä se olisi? Crash Landing on You,
+Puhuja 1: missä
+Puhuja 1: liikutaan Etelä-Korea
+Puhuja 1: Pohjois-Korea-asioissa.
+Puhuja 1: Siinä etelä-Korealainen
+Puhuja 1: rikas nainen, tämmöisen oikein rikkaan suvun
+Puhuja 1: firman omistajasuvun
+Puhuja 1: nainen päätyi vahingossa Pohjois-Koreaan.
+Puhuja 1: Siellä hänet löytää mies, joka ei tapakkaan häntä heti.
+Puhuja 3: Godraamoissa on ihana, että sä voit heti tietää.
+Puhuja 3: Premissi on hyvin selvä, mitä siinä lopulta käy. Tuo
+Puhuja 1: oli ensimmäinen, minkä mä katsoin.
+Puhuja 1: Se on silti todella villi matka se koko sarja. Mutta
+Puhuja 3: tekisi mieli ruveta puhumaan siitä, että miten paljon
+Puhuja 3: tai tuo asepalvelus,
+Puhuja 3: mikä tavallaan tulee esille myös ilmeisesti myös tässä salissa. Ehkä sehän on Etelä-Koreassa
+Puhuja 3: hyvin mielenkiintoinen. Mutta ei lähetä vakavin. Ei lähdetä vakavin. Toinen,
+Puhuja 1: minkä olen viimeisimpänä katsonut, on nimeltään Forcasting Love and Wether.
+Puhuja 1: Se kertoo Korean ilmatieteen
+Puhuja 1: laitoksesta,
+Puhuja 1: jossa on nämä kaikki ilmatieteen laitoksen tyypit, myös säätoimittajat,
+Puhuja 1: jotka työskentelevät siellä
+Puhuja 1: laitoksella ja siinä on kaikenlaista, onkohan se nyt kuinka monen ihmisen välinen draama, mutta se
+Puhuja 1: käsittelee myös säätä ja se on ihan valtavan mielenkiintoista
+Puhuja 1: se sääosa siitä. No niin, kaikkien muidenkin mielestä varmasti mielenkiintoista.
+Puhuja 1: Okei, siinä kaikki tältä erää. Kiitos Joona Aaltonen.
+Puhuja 1: Kiitos Anni. Kiitos Irina Hakala. Kiitos. Minun nimeni on Anni Keski-Heikkilä
+Puhuja 1: ja äänen ja kuvan ja kaiken muun mahtavan meille tekevät tällä viikolla Ville Veikko Niemelä.
+Puhuja 1: Muistakaa lähettää meille
+Puhuja 1: palautettauutisraportti
+Puhuja 1: kaikenlaisissa kanavissa.
+Puhuja 1: Kuullaan taas ensi viikolla.
+Puhuja 1: Moikka moi. Sau. Hei.
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -1,239 +1,453 @@
-Puhuja 0: Hei. Tervetuloa Helsingin Sanomien Uutiraportteri-podcast.
-Puhuja 0: Torstaina kaksikymmentäyksi.
-Puhuja 0: Mun nimi on Tuomas Peltomäki. Kanssani
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uutisraportti-podcast.
+Puhuja 0: Torstaina
+Puhuja 0: kaksikymmentäyksi.
+Puhuja 0: Päivä
+Puhuja 0: lokakuuta vuonna
+Puhuja 0: kaksituhatta kaksikymmentäyksi. Mun nimi on Tuomas Pelmäki. Kanssani
 Puhuja 0: täällä
 Puhuja 0: Helsingin Sanomien
 Puhuja 0: podcast-studiossa
-Puhuja 0: ovat Helsingin
-Puhuja 0: Sanomien
+Puhuja 0: ovat Helsingin Sanomien
 Puhuja 0: politiikan ja talouden toimittaja.
-Puhuja 0: Alma Onali.
-Puhuja 0: Tämän
-Puhuja 0: podcastin väliaikaissaus.
-Puhuja 1: Hei Alma! Moikka, Tuomas. Ihana olla kerrankin tällä
-Puhuja 1: puolella
-Puhuja 1: penkkiä.
-Puhuja 0: Joo. Olen minä ja sinä ikinä oltu yhtä aikaa. Ei varmaan olla, ilmankos mua jännittää niin kauheasti. Ei monta vuotta.
+Puhuja 0: Alma Onali
+Puhuja 0: tämän podcastin
+Puhuja 0: väliaikaisuus.
+Puhuja 2: Hei Alma. Moikka, Tuomas. Ihanaa olla kerrankin
+Puhuja 2: tällä puolella
+Puhuja 0: penkkiä. Joo. En tiedä, ollaanko minä ja sinä ikinä oltu yhtä aikaa. Ei varmaan olla, ilmankos mua jännittää niin kauheasti. Niin kuin monta vuotta.
 Puhuja 0: Siri halusi ottaa
-Puhuja 0: jostain syystä osaa tähän podcastiin.
-Puhuja 0: No niin.
-Puhuja 0: Mukana meillä myös on taloustoimittaja
-Puhuja 0: Nikla Sturos
-Puhuja 0: Helsingin Sanomien
+Puhuja 0: jostain syystä osaa tähän Podcastiin.
+Puhuja 0: No niin,
+Puhuja 0: mukana meillä myös on taloustoimittaja Niklas Storaos Helsingin sanomain
 Puhuja 0: visiotoimituksesta.
-Puhuja 2: Hei, Niklas. Tervehdys vain.
+Puhuja 0: Hei, Niklas. Tervehdys vain.
 Puhuja 0: Mitä teille kuuluu ja mitä pahaa olette tehneet sanomayhtiölle,
 Puhuja 0: että ette ole tällä viikolla syyslomalla?
-Puhuja 0: Joo, no siis mä kyllä kyselin syysloman perään, mutta ei mulla kyllä mitään sellaisia ole. Oot sen ikäinen, että sua poljetaan tämän firman toimesta vielä kymmenen vuotta ennen kuin ruvetaan keskustelemaan
-Puhuja 1: ja
+Puhuja 0: Joo,
+Puhuja 2: no siis mä kyllä kyselin syysloman perään, mutta ei mulla kyllä mitään sellaisia ole.
+Puhuja 0: Sua poljetaan tämän firman toimesta myös kymmenen vuotta ennen kuin ruvetaan keskustelemaan tämmöisestä loville jäämiä. Pitäis varmaan tehdä paljastujuttu
+Puhuja 2: omista työoloista.
+Puhuja 2: Aijaai.
+Puhuja 3: Muttei ei taida olla kertynyt
+Puhuja 3: syyslomaa, niin Se on ihan yksinkertainen
+Puhuja 3: matemaattinen syy ensi vuonna ajan pitää. Kyllä.
+Puhuja 0: Kuten muutama kuulija saattaa tietää, minä
 Puhuja 0: käytin jo oman syyslomani
-Puhuja 0: rakennellessani taloa tuonne
-Puhuja 0: pellolla Hyvinkäälle.
-Puhuja 0: Mun eräästä naapurista oli tänään Yleisradionuutisissa
-Puhuja 0: juttu, tulevasta naapurista. Kenestä. Siellä on 19-vuotias
+Puhuja 0: rakennellessani taloa
+Puhuja 0: tuonne pellolla Hyvinkäälle.
+Puhuja 0: Mun eräästä naapurista oli tänään Yleisradio Uutisissa juttu, tulevasta naapurista. Kenestä. Siellä on 19-vuotias
 Puhuja 0: nuori nainen, joka myös rakentaa itse itselleen talon
 Puhuja 0: Hyvinkään metsäkaltavaan
 Puhuja 0: naapuriini.
-Puhuja 1: Oikeasti itse rakentaa?
-Puhuja 0: 19-vuotias
-Puhuja 0: nuori nainen. Aion
-Puhuja 0: vielä tälle vuodelle istuttaa normikon.
+Puhuja 2: Oikeasti itse rakentaa? 19-vuotias
+Puhuja 0: nuori nainen. Erittäin
+Puhuja 0: kunnioitettava
+Puhuja 0: ja hienoa.
+Puhuja 0: On. Siellä hän on kumisaappaatilassa
+Puhuja 0: mutaisen pellon keskellä, komentelee kaivinkonekuskea
+Puhuja 2: mielenkiintoinen asetelman, että voisitte tulla sinne Hyvinkäälle katsomaan, että Hoody dpeter sinä vai 19-vuotias min. Emme aloita tällaisia vertailita.
+Puhuja 0: Aika uutiselle
+Puhuja 0: viikko takana.
+Puhuja 0: Nimittäin se huipentui tänään,
+Puhuja 0: kun seiska
+Puhuja 0: kertoi, että pääministeri
+Puhuja 0: Sanna Marinista on olemassa kuva, jonka seiska on, ja tämä on
+Puhuja 0: nyt siteeros, saanut haltuunsa
+Puhuja 0: tämmöisen paljon puhuvan kuvan, jossa Sanna Marin näkyy olevan silmin nähden juhlatuulella.
+Puhuja 0: Mutta lehti ei suostu julkistamaan tätä ja vetoaa
+Puhuja 0: JSN:n
+Puhuja 0: ja journalistin ohjeisiin, että yksityiselämää ei saa,
+Puhuja 0: yksityisissä tiloissa otettu kuva, ei
+Puhuja 0: saa päätyä julkisuuteen
+Puhuja 0: median välityksellä.
+Puhuja 0: Mitä olette tästä mieltä?
+Puhuja 3: Mielestäni se on iloinen asia, että Sanna Marinista paljastuu aina kuoren alta uusi kuoria. Ja sieltä löytyy aina kaikennäköistä uutta.
+Puhuja 3: Hän uusiutuu koko ajan tässä näin selkeästi.
+Puhuja 0: Minun mielestä selkeästi on meneillään joku
+Puhuja 0: masinointikampanja,
+Puhuja 0: missä vuodetaan kuvia bilettavasta pääministeristä.
+Puhuja 0: Sanna Ukkola kirjoittaa
+Puhuja 0: tuomitsevan
+Puhuja 0: kolummin siitä, että nyt kyllä on,
+Puhuja 0: hänelle kuiskutellaan, miten pääministeri
+Puhuja 0: liikaa bailaa.
+Puhuja 2: Onko bailava ministeri mikään uutinen? Tai onhan näitä nyt ennenkin ollut.
+Puhuja 2: Paavo Arhinmäki ja muut.
+Puhuja 0: Me olemme kuitenkin sen verran Itä-Euroopan maa, että ministeriön pitää aika kovan luokan juoppo olla, että
+Puhuja 0: pärjäät sen mullinsa.
+Puhuja 0: Tästä ei voida puhua, koska tämä on
+Puhuja 0: kehittyvä uutistapahtuma.
+Puhuja 0: Mutta mielenkiinnolla lähden seuraamaan, mihin tämä Billesannan...
+Puhuja 0: Hän on selvästi tämmöinen hahmo, joka on ilmestynyt
+Puhuja 0: suomalaiseen mediakenttään.
+Puhuja 0: Billekenttään.
+Puhuja 0: Sen
+Puhuja 0: lisäksi haluan mainita myös sen, että juuri tänään on EU:n huippukokous,
+Puhuja 0: jossa aiheena kuumottava Puola.
+Puhuja 3: Puisuu vähän vääriin asioihin. Mutta mistä tossa oikeasti on koko homman ytimessä kyse on siitä, miten me kohdellaan muita ihmisiä.
+Puhuja 3: Ja se ärsyttää
+Puhuja 3: jengiä tällä hetkellä.
+Puhuja 3: Tavallaan se on mennyt vähän väärille raiteille jo ajat sitten.
+Puhuja 2: Siis koska olen samaa mieltä sun kanssa, koska olen nähnyt Twitterissä myös hyviä analyyseja vaikka Afrikan
+Puhuja 2: tähden juuri tästä kuvastosta ja siitä, mihin se pohjautuu. Hyviä analyyseja. Sitten olen lukenut
+Puhuja 2: hyviä analyyseja
+Puhuja 2: vaikka siitä,
+Puhuja 2: että voisiko tästä keskustelusta
+Puhuja 2: saada jotakin irti vaikka siinä mielessä, että
+Puhuja 2: olisi vähän enemmän empatiaa ihmisiä kohtaan, jotka vaikka kokee, että hei, tämä ei ole ok tai
+Puhuja 2: mun mielestä tällainen asia, niin oikeastaan loukkaa mua, niin onko pakko lähteä heti vasta loukkaantumaan vai voiko kuunnella hetken ja olla, että hei, mistä tässä on kyse? En
+Puhuja 2: tiedä,
+Puhuja 2: opittiinko, onko tässä jotain opetusta? En tiedä.
+Puhuja 0: Yksi paskimpia kolumneja, mitä olen ikinä kirjoittanut,
+Puhuja 0: oli
+Puhuja 0: meidän pääkirjoitussivun
+Puhuja 0: kolumni,
+Puhuja 0: jonka teemalla oli kummitusjutut.
+Puhuja 0: Se, miksi se oli todella huono, oli se, että yritin
+Puhuja 0: palstan
+Puhuja 0: mittaiseen kolumniin puristaa maailman isointa ajatusta. Se on aina kolumnin kirjoittamisessa tosi
+Puhuja 0: riskialtis muovi. Se, mitä yritin siinä kertoa, liittyy juuri tähän
+Puhuja 0: asiaan, mikä minun mielestä on se isoin ongelma tässä Afrikan tähti-casissä.
+Puhuja 0: Se on se, että
+Puhuja 0: on, vähän niin kuin mitä tuossa alussakin yritin sokertaa, että on olemassa
+Puhuja 0: täysin
+Puhuja 0: järkeviä
+Puhuja 0: ajatuksia,
+Puhuja 0: myötämielisiä
+Puhuja 0: ymmärrettäviä,
+Puhuja 0: inhimillisiä ajatuksia myös tämän tapauksen ympärillä.
+Puhuja 0: Että saksalaisen vaihto-oppilaan...
+Puhuja 0: Ja jotenkin sen käyttäminen lähteenä on jotenkin täyttä kummelia, että se lähde on pääministeri
+Puhuja 0: ja saksalainen
+Puhuja 0: vaihto-oppilas, näin. Mutta anyway,
+Puhuja 0: niin, että saksalaisen vaihto-oppilaan
+Puhuja 0: pointit voivat olla, että
+Puhuja 0: okei, ihan ymmärrettäviä pointteja, että
+Puhuja 0: itse asiassa ymmärrän ja olen samaa mieltä.
+Puhuja 0: Eri mieltä olevan ihmisen pointit ovat myös täysin ymmärrettäviä.
+Puhuja 0: On täysin ymmärrettäviä
+Puhuja 0: ulostuloja ja pointteja, jotka liittyvät siihen, että
+Puhuja 0: ei kannata tehdä Afrikan tähtipelillä
+Puhuja 0: yhtään mitään, vaan että se jää
+Puhuja 0: elävänä
+Puhuja 0: esimerkkinä vanhasta tavasta ajatella.
+Puhuja 0: Mahdollisuudesta
+Puhuja 0: lapsilla ja vanhemmilla keskustella
+Puhuja 0: siitä, että hei, onko Afrikka enää tämmöinen kuin 1950-luvun pelissä. No ei, Afrikka on mennyt tosi paljon eteenpäin.
+Puhuja 0: Suomessa ennen ajateltiin, että Afrikka on tämmöinen villien
+Puhuja 0: pimeä manner, jossa
+Puhuja 0: keitellään lähetyssaarnaajia
+Puhuja 0: padassa ja näin päin pois. Mutta enää semmoista ei ole.
+Puhuja 0: On järkeviä ajatuksia. Ihmiset lähinnä on järkeviä.
+Puhuja 0: Ihmisillä on ihan hyviä pointteja,
+Puhuja 0: kiinnostavia
+Puhuja 0: osa
+Puhuja 0: totuuksia. Mitä me tehdään koko ajan, me kerrotaan toisille semmoisia kummitusjuttuja.
+Puhuja 0: Että
+Puhuja 0: on ihan hulluja tuolla. Ja sit ne on silleen, että nyt pitää canceloida
+Puhuja 0: se ei pidä
+Puhuja 0: paikkaansa. Tommosia ei ole. Tommoiset ihmiset on jossain marginaalin,
+Puhuja 0: marginaalin, marginaalin vähemmistö
+Puhuja 0: vähemmistössä. Meidän ei kannata villastua niin kuin ne edustaisi enemmistöä, vaan on kummitushyppyä.
+Puhuja 2: Jotenkin tuntuu, että tässä tavallaan niitä hot... Se, mikä oli vähän problemaattista tässä oli, että hot tokes ja ruvettiin jotenkin heittelemään ennen kuin kukaan edes kunnolla ties, mitä on tapahtunut.
+Puhuja 2: Media-alax kanssa kyselee Helsingin
+Puhuja 2: yliopiston
+Puhuja 2: dekaaneilta,
+Puhuja 2: että miten kommentoitte, kun nekään ei kunnolla tiedä vielä, mitä on tapahtunut.
+Puhuja 2: Tavallaan tässä hypättiin jonkun prosessin yli mun mielestä journalistisessa
+Puhuja 2: maailmassa.
+Puhuja 2: Se, että selvitetään ensin, mitä on tapahtunut eikä vaan silleen, että joku tyyppi somessa sanoi jotain ja nyt sen
+Puhuja 2: pohjalta lähdetään kyselemään. Eikä selvitetä, mikä se oikeasti on se.
+Puhuja 2: Toisaalta
+Puhuja 2: pointit,
+Puhuja 2: vs. Todelliset tapahtumat on myös se maailma, missä me tällä hetkellä eletään. Jos on kyse siitä, että näin nämä asiat koetaan,
+Puhuja 2: niin onko sillä kauheasti väliä, mitä oikeasti on ollut siellä taustalla,
+Puhuja 2: jos se kuitenkin innoittaa ihmiset
+Puhuja 2: keskustelemaan jostakin vaikka arvoista ja muista. No varmaan se keskustelu on ihan
+Puhuja 2: tervetullutta.
+Puhuja 2: Kaiken sen ölinän ja älämölöön ja jotenkin sen, että oliko tämä nyt keiottelu vai ei-keiottelu ja kaikki tämä,
+Puhuja 2: niin sen pohjalta mun mielestä piirtyy kuitenkin myös ihan sellaista
+Puhuja 2: hyvää analyysiä ja puhetta.
+Puhuja 0: Mä en ehkä allekirjoita tuota. Luulen, että se vain polarisoi entisestään ja se estää.
+Puhuja 0: Se muuttaa ne kummitusjutut todellisuudeksi, ja jengi ei enää tajua, ettei enää pidä pidä ollenkaan. Mikään tässä ei pidä paikkaansa.
+Puhuja 2: Mutta tämäkin oli, että somessa
+Puhuja 2: tapahtuu tällainen asia, niin sitten just tämä päästään tähän metaversumin ongelmaan.
+Puhuja 2: Tämäkin on yksi asia, että jos metaversumi
+Puhuja 2: on se paikka,
+Puhuja 2: kaksi DNA on se kokemus sosiaalisesta mediasta. Kuinka paljon todellisempia ne traumat myös on, mitä ihmiset saisivat siitä, jos tuo Twitter tulisi kolme DNA meidän
+Puhuja 2: silmille?
+Puhuja 0: Mä haluan vielä ihan viimeinen pointti, minkä mä haluan
+Puhuja 0: tässä... Koska mä oon jotenkin luopunut toivosta.
+Puhuja 0: Ihmisten keskustelu
+Puhuja 0: ei voi olla mitään
+Puhuja 0: sivistynyttä
+Puhuja 0: diskuteraamista
+Puhuja 0: ja silleen eri hyvien pointtien
+Puhuja 0: koostumista.
+Puhuja 0: Se ei it's never gone happen, se ei tule ikinä tapahtumaan. Se oli vaan habermassa.
+Puhuja 0: Sen takia mun mielestä tässä on olemassa
+Puhuja 0: se tavallisten ihmisten huutelu, joka muistuttaa enemmän
+Puhuja 0: mielenosoitusta kuin mitään muuta. Se on yksi. Se peli, me ollaan jo menetetty. Se ei tule ikinä toimimaan. Sitten on olemassa instituutioiden taso ja siinä on jotain toivoa vielä.
+Puhuja 0: Tämä on esimerkiksi se, että kun tyyppiä lähdetään canceloimaan,
+Puhuja 0: niin me ei enää
+Puhuja 0: päästä semmoiseen
+Puhuja 0: todellisuuteen, missä ei olisi jotenkin se massa ei tulisi canceloimaan
+Puhuja 0: tämä tyyppi. Aaa, näin. Se tulee olemaan siellä aina näin
+Puhuja 0: forever.
+Puhuja 0: Se, mikä meillä vielä jotenkin on räpylässä,
+Puhuja 0: on se, että se instituutio, joka vaikka antaa kenkää,
+Puhuja 0: niin sillä on se... Niitä me pystytään panostamaan.
+Puhuja 0: Sinä
+Puhuja 0: vaikka Helsingin
+Puhuja 0: yliopisto et saa
+Puhuja 0: välittömästi massan painostuksesta antaa kenkää jollekin tyypille, vaan että Suomeen pystytään Helsingin yliopistoon painostaa, että sun täytyy
+Puhuja 0: ottaa käyttöön joku prosessi, joka tarkistaa, mitä tämä tyyppi oikeasti sanoi, mitä se oikeasti
+Puhuja 0: tarkoitti, oliko se mitä se sanoi, oliko se oikeasti
+Puhuja 0: pahaa?
+Puhuja 0: Johonkin me pystytään naulaamaan se prosessi, että joku on vastuussa ja näin. Mun mielestä instituutiot on se taso, mihin meidän täytyy kohdentaa sitä painetta. Siksi mä esimerkiksi vastustan sitä, että Helsingin yliopisto menee pyytelemään anteeksi.
+Puhuja 0: Koska mun mielestä silloin se instituutio
+Puhuja 0: kaivaa omaa kuoppaansa, silloin se antaa heidät periksi painostukselle
+Puhuja 0: tutkimatta asiaa, tekemättä kahdeksantoista sivun raporttia, että tässä me on selvitetty tämä asia, ja tämä on ehdottomasti anteeksipyynnön
+Puhuja 0: arvoinen näin.
+Puhuja 0: Instituutiot on semmoinen, mihin pitää... Kun
+Puhuja 0: paine törmää instituutioihin, se on paussin paikka. Sitten siihen tulee kolme viikkoa taukoa,
+Puhuja 0: lopputulos on raportti, jonka jälkeen tulee se anteeksipyyntö-tviitti.
+Puhuja 0: Mun mielestä tämä on se tulevaisuus, joka jotenkin voi toimia muuten
+Puhuja 0: helvetin käsikorissa vai miten amerikkalaisista sanoi.
+Puhuja 2: Mikähän on se paikka, mihin metaversumissa cancelöidyt ihmiset joutuvat metaversumissa? Transt.
+Puhuja 2: Millainen se paikka on? No niin, joo.
+Puhuja 0: Okei.
+Puhuja 2: Oho.
+Puhuja 0: Nyt
+Puhuja 0: meidän nauhoitus
+Puhuja 0: valittaa, että tässä loppuu koko tila. Okei,
+Puhuja 0: sitten kun
+Puhuja 0: lähdette nauttimaan lämpimistä säistä, koska semmoset tuli takaisin tähän kesken kaiken. Ihan niin kuin Jumala taivaassa olisi tiennyt, että aion vielä tälle vuodelle istuttaa nurmikon.
 Puhuja 0: Menette ehkä
 Puhuja 0: kivalle syyskävelylle ja otatte taskumaatin
 Puhuja 0: mukaan.
-Puhuja 0: Sitten otatte hömpsöä kaverille
-Puhuja 0: myös. Sitten samalla kerrotte
-Puhuja 0: kerrotte
-Puhuja 0: hänelle tarinoita ja juttuja siitä, mikä teitä on viime aikoina
+Puhuja 0: Sitten otatte hömpsyä siitä ja kaverille
+Puhuja 0: myös. Sitten samalla kerrotte jotain,
+Puhuja 0: hänelle
+Puhuja 0: tarinoita ja juttuja siitä, mikä teitä on viime aikoina
 Puhuja 0: kiinnostellut.
-Puhuja 0: Alma, mistäs puhut lenkkiseuraalta?
-Puhuja 1: Mä puhun black metallista.
-Puhuja 1: Oo, kova. Siis sopii näihin syksyisiin
-Puhuja 1: synkkiin tunnelmiin.
-Puhuja 1: Yle Areenassa on nähtävillä upea
-Puhuja 1: dokumenttisarja
-Puhuja 1: neljä jaksoa, jonka nimi on helvetti soikoon norjalaisen black metallin historia. Se on aivan upea, tiedättekö Närkoosista yli. Mun mielestä se on varmaan jopa Norjan Yleisradion
-Puhuja 1: tuottama
-Puhuja 1: historiikki, jossa on haastateltu
-Puhuja 1: norjalaisen black metallin
-Puhuja 1: core-ihmisiä, jotka on
-Puhuja 1: hengissä, jotka eivät silloin 1990-luvun alun
-Puhuja 1: sekoiluissa menettäneet henkekään. Eivät polttaneet kirkkoja.
-Puhuja 1: Eivätkä polttaneet kirkkoja tai eivät ainakaan myöhäistä enää, että osallistuivat siihen toimintaan.
-Puhuja 1: Se on
-Puhuja 1: erittäin viihdyttävää ja informatiivista
-Puhuja 1: katsottavaa.
-Puhuja 1: Siinä
-Puhuja 1: näkee, että Norjassa, en tiedä, onko se black metal vai öljy vai niiden sekoitus, joka on vaurastuttanut
-Puhuja 1: ne ihmiset, mutta tiedättekö
-Puhuja 1: nämä tyypit, jotka on olleet megarajuja
-Puhuja 1: kaksikymppisiä
-Puhuja 1: kast
-Puhuja 1: kyllä raju
-Puhuja 1: kaveri.
-Puhuja 0: Palvattiin saatana.
-Puhuja 1: Vähän palvottiin saatana.
-Puhuja 1: Sitten kyllä harmitti, kun rupesi kaupallistumaan tää black metalja.
-Puhuja 1: Aivan loistavaa kamaa.
-Puhuja 1: Se, mitä ajattelin,
-Puhuja 1: oli se, että vitsi,
-Puhuja 1: palataan jälleen tähän
-Puhuja 1: metaversumiteemaan.
-Puhuja 1: Jos black metallia ei olisi keksitty silloin -yhdeksänkymmentä-luvun
-Puhuja 1: vaihteessa
-Puhuja 1: eikä sen jälkeenkään, niin se jäisi keksimättä.
-Puhuja 1: Päivänä.
-Puhuja 1: Black metallia ei olisi olemassa, jos sitä ei olisi keksitty aiemmin,
-Puhuja 1: koska dokumentissa käy niin hyvin ilmi se, miten koko homma on perustunut siihen, että jengillä on ensinnäkin tylsää
-Puhuja 1: ja niillä on aikaa
-Puhuja 1: masistella
-Puhuja 1: ja aikaa kiinnostuu
-Puhuja 1: jostain Saatanasta. Ja sitten on paljon kiljua. Joida paljon kiljua. Sitten niillä on ne kaverit, ne on kaikki mitä tekisi, ne voisi vaikka soittaa
-Puhuja 1: jotakin. Sitten ne rupeaa vaihtelemaan demoja keskenään ja cinejä
-Puhuja 1: Siitä tulee käsin
-Puhuja 1: tekemisen
-Puhuja 1: kulttuuri, missä ne kundit itse
-Puhuja 1: piirtää
-Puhuja 1: bändiensa logoja ja väsäilee. Siinä oli tosi vahva käsityön maku koko black metal skenessä.
-Puhuja 1: Tänä päivänä
-Puhuja 1: ne ei tekisi sitä. Ne olisi pelasi Fortnitea.
-Puhuja 1: Ei tulisi senperoria, ei tulisi Dark Thronia, ei tulisi mayhemeä.
-Puhuja 1: Sen takia, no
-Puhuja 1: ei pelkästään sen takia, mutta suosittelen vaan kaikille. Kuunnelkaa black metalia
-Puhuja 1: Kyllä. Ja katsokaa se dokkari. Mä vihaan
-Puhuja 0: black metalleja
-Puhuja 0: paskaa musaa.
-Puhuja 0: Siis todella huono. Mutta mä tykkään black metallin historiasta. Se on kiinnostavaa.
-Puhuja 0: Suomalainen joku jäbä kirjoitti,
-Puhuja 0: sitten kun mä en muista sen nimeä joskus 2000-luvun alussa, black metalih historyikin.
-Puhuja 0: Se on tosi hyvä kirja, kannattaa lukea. Ja uskon, että tää dokkarisari myös. Niklas,
+Puhuja 0: Alma, mistäs puhut lenkkiseura?
+Puhuja 2: Mä puhun black metallista.
+Puhuja 2: Oo, kova. Siis sopii näihin syksyisiin synkkiin tunnelmiin.
+Puhuja 2: Yle Areenassa on nähtävillä upea
+Puhuja 2: dokumenttisarja
+Puhuja 2: neljä jaksoa, jonka nimi on helvetti soikoon norjalaisen black metallin historia.
+Puhuja 2: Se on aivan upea. Tiedättekö N-K:nosista yli. Mun mielestä se on varmaan jopa Norjan Yleisradion
+Puhuja 2: tuottama
+Puhuja 2: historiikki, jossa on haastateltu
+Puhuja 2: norjalaisen black metallin
+Puhuja 2: core-ihmisiä, jotka on hengissä, jotka eivät silloin 90-luvun alun sekoiluissa
+Puhuja 2: menettäneet henkeään. He eivät polttaneet kirkkoja. Eivätkä polttaneet kirkkoja tai eivät
+Puhuja 2: ainakaan myöhäistä enää, että osallistuivat siihen toimintaan.
+Puhuja 2: Se on
+Puhuja 2: erittäin viihdyttävää ja informatiivista
+Puhuja 2: katsottavaa.
+Puhuja 2: Siinä
+Puhuja 2: näkee, että Norjassa, en tiedä onko black metal vai öljy vai niiden sekoitus, joka on vaurastuttanut
+Puhuja 2: ihmiset, mutta tiedättekö
+Puhuja 2: nämä tyypit, jotka ovat olleet megan rajuja kaksikymppisiä
+Puhuja 0: kastikymppiä. Kyllä,
+Puhuja 0: Palvottiin saatana.
+Puhuja 2: Vähän palvottiin saatana. Sitten kyllä harmitti, kun rupesi kaupallistumaan black metalli.
+Puhuja 2: Aivan loistavaa kamaa.
+Puhuja 2: Se, mitä ajattelin siinä oli se, että vitsi,
+Puhuja 2: palataan jälleen tähän metaversumiteemaan.
+Puhuja 2: Jos black metallia ei olisi keksitty silloin 20-90-luvun
+Puhuja 2: vaihteessa
+Puhuja 2: eikä sen jälkeenkään, niin se jäisi keksimättä tänä päivänä.
+Puhuja 2: Black metallia ei olisi olemassa,
+Puhuja 2: jos sitä ei olisi keksitty aiemmin, koska
+Puhuja 2: dokumentissa käy niin hyvin ilmi se, että miten koko homma on perustunut siihen, että jengillä on ensinnäkin tylsää
+Puhuja 2: ja milloin on aikaa
+Puhuja 2: vähän masistella
+Puhuja 2: ja aikaa vähän kiinnostuu
+Puhuja 2: jostain Saatanasta. Ja sitten paljon kiljua.
+Puhuja 2: Milloin on ne kaverit, ne on kaikki, mitä tekisi, voisi vaikka
+Puhuja 2: soittaa
+Puhuja 2: jotakin. Sitten ne rupeaa vaihtelemaan demoja keskenään ja cinejä ja siitä tulee
+Puhuja 2: käsin tekemisen
+Puhuja 2: kulttuuri, missä ne kundit itse
+Puhuja 2: piirtää
+Puhuja 2: bändiensa logoja ja väsäilee. Siinä oli tosi vahva käsityön maku koko black metal skenessä.
+Puhuja 2: Tänä päivänä
+Puhuja 2: ne eivät tekisi sitä. Ne olisivat pelasi Fortnite.
+Puhuja 2: Ei tulisi senperoria, ei tulisi Dark dronea. Ei tulisi mayhemiä.
+Puhuja 2: Sen takia,
+Puhuja 2: no ei pelkästään sen takia, mutta suosittelen vaan kaikille. Kuunnelkaa black metalleja.
+Puhuja 2: Ja katsokaa se dokkari.
+Puhuja 0: Mä vihaan black metalleja.
+Puhuja 0: Siis todella huono. Mutta mä tykkään black metaliin historiasta, se on kiinnostavaa.
+Puhuja 0: Suomalainen joku jäbä kirjoitti...
+Puhuja 0: Sitten se, kun mä en muista sen nimeä joskus 2000-luvun alussa, black metaliin historiikin. Se on tosi hyvä kirja, kannattaa lukea. Uskon, että tämä dokkarisari myös. Niklas,
 Puhuja 0: mitä sä suosittelisit?
-Puhuja 2: Mä oon viime aikoina fiilis kaikkea mikä liittyy eläkeläisiin.
-Puhuja 2: Ensi viikollaiseen tapahtuman Helsingin kirjamessut. Siellähän niitä on paljon
-Puhuja 2: joten ajattelin mennä ehkä paikalle.
-Puhuja 2: Kiva kun maailma avautuu ja pääsee plärään kirjoja ja haistelemaan miltä ne tuoksuu.
-Puhuja 1: Ihanan konkreettista ja ei virtuaalista.
-Puhuja 0: Myös minä aion olla paikalla Helsingin kirjamessuilla
-Puhuja 0: paitsi työntekijänä
-Puhuja 0: välisemässä
-Puhuja 0: Vision
-Puhuja 0: podcast
-Puhuja 0: roolissa. Sekin starttailee tässä pian.
-Puhuja 0: Mutta myös
-Puhuja 0: toivottavasti ihan vaan viihtymässä
-Puhuja 0: ja pikku viinipäissään
+Puhuja 3: Mä oon viime aikoina fiilselle kaikkeen, mikä liittyy eläkeläisiin ja ensi viikollaiseen tapahtumaan
+Puhuja 3: Helsingin kirjamessut ja siellähän niitä on paljon, joten ajattelin mennä ehkä paikalle.
+Puhuja 3: Kiva kun maailma avautuu ja pääsee plärään kirjoja ja haistelemaan miltä ne tuoksuu.
+Puhuja 2: Ihanan
+Puhuja 2: konkreettista ja ei virtuaalista.
+Puhuja 0: Myös minä aion olla paikalla Helsingin kirjamessuilla, paitsi
+Puhuja 0: työntekijänä välisemässä Vision
+Puhuja 0: podcast-roolissa.
+Puhuja 0: Sekin starttailee tässä pian,
+Puhuja 0: mutta myös
+Puhuja 0: toivottavasti ihan vaan viihtymässä ja pikku viinipäissään
 Puhuja 0: siellä.
-Puhuja 0: Muina
-Puhuja 1: Marineina.
-Puhuja 1: Anteeksi, kauheata.
-Puhuja 0: Hei, mä haluan suositella asiaa, jota mä oon suositellut jo aiemmin
+Puhuja 2: Muinais Marineina.
+Puhuja 2: Anteeksi,
+Puhuja 2: kauheata.
+Puhuja 0: Hei, haluan suositella asiaa, jota olen suositellut jo aiemmin
 Puhuja 0: tavallaan.
-Puhuja 0: Mutta
-Puhuja 0: mä olen ihastunut tämmöiseen lehteen, joka ilmestyy neljästä vuodessa
+Puhuja 0: Mutta olen ihastunut tämmöiseen lehteen, joka ilmestyy neljästä vuodessa
 Puhuja 0: The New Atlantis.
 Puhuja 0: Se on semmoinen
-Puhuja 0: sen alaotsikko, joku
+Puhuja 0: sen alaotsikko joku
 Puhuja 0: Journal of Society and Technology.
-Puhuja 0: Mä luin sen lehden.
-Puhuja 0: Se on tämmöinen tosi semmoinen kuin hibrow intelligence
-Puhuja 0: lehti. Siellä on pitkiä pitkiä pitkiä esseitä
+Puhuja 0: Mä luin sen
+Puhuja 0: lehden. Se on tämmöinen oikein tosi semmoinen kuin Haibrow intelligence
+Puhuja 0: lehti. Siellä on pitkiä pitkiä, pitkiä esseitä
 Puhuja 0: teknologiasta
 Puhuja 0: ja yhteiskunnasta.
-Puhuja 0: Sen tausta on Mä lueskelin sitä. Sen tausta on konservatiivisessa
+Puhuja 0: Sen tausta on... Lueskelin sitä. Sen tausta on konservatiivisessa
 Puhuja 0: liikkeessä
 Puhuja 0: Yhdysvalloissa.
 Puhuja 0: Se on ollut konservatiivisen
 Puhuja 0: yhdysvaltalaisliikkeen
-Puhuja 0: julkaisema lehti, joka on suhtautunut kriittisesti
-Puhuja 0: esimerkiksi
-Puhuja 0: kantasolututkimukseen
-Puhuja 0: ja teknologiaan,
-Puhuja 0: joka
-Puhuja 0: on jotenkin ristiriidassa
-Puhuja 0: kristillisten tai katolisten tai
-Puhuja 0: ja muiden, ei välttämättä ristiriidassa, mutta ne on
-Puhuja 0: pyrkinyt tuomaan semmoista
-Puhuja 0: etiikkakäsittelyä
+Puhuja 0: julkaisema
+Puhuja 0: lehti, joka on suhtautunut
+Puhuja 0: kriittisesti esimerkiksi
+Puhuja 0: kantasolututkimukseen ja
+Puhuja 0: teknologiaan, joka
+Puhuja 0: on ristiriidassa
+Puhuja 0: kristillisten tai katolisten tai tämmöisten
+Puhuja 0: moraalien muiden, ei välttämättä ristiriidassa, mutta ne on pyrkinyt tuomaan
 Puhuja 0: teknologisiin
 Puhuja 0: ja teknisiin
-Puhuja 0: innovaatioihin.
-Puhuja 0: Sen jälkeen tämä lehti itsessään on irtautunut siitä liikenteestä ja se
-Puhuja 0: on
-Puhuja 0: jäänyt
-Puhuja 0: itsenäiseksi
-Puhuja 0: teknologian kriittiseksi
+Puhuja 0: innovaatioihin. Sen jälkeen tämä lehti itse on irtautunut
+Puhuja 0: siitä liikehdinnästä, ja se on jäänyt tällaiseksi
+Puhuja 0: teknologian
+Puhuja 0: kriittiseksi
 Puhuja 0: arvioijaksi.
-Puhuja 0: Se ei ole mitenkään erityisen konservatiivinen
-Puhuja 0: enää, mutta sillä on tosi jotenkin fressi tapa käsitellä
+Puhuja 0: Ja
+Puhuja 0: sitten
+Puhuja 0: se
+Puhuja 0: ei ole mitenkään erityisen konservatiivinen
+Puhuja 0: enää, mutta sillä on semmoinen tosi jotenkin freshi tapa käsitellä
 Puhuja 0: teknologiaa.
-Puhuja 0: Koska vasta kun sen lehden juttuja rupeaa lukemaan, niin huomaa, että aa okei, me ollaan tosi vahvasti. Me eletään teknologian
-Puhuja 0: mahtavaa ja kaikki on parasta ja ongelmat ratkeaa. Ei se ihan teknologia kritiikkiä
-Puhuja 0: ole. Ei se oikeastaan ole. Täällä sitä on. Ja se on tosi
+Puhuja 0: Koska vasta kun sen lehden juttuja rupeaa lukemaan, huomaa, että okei, me ollaan tosi vahvasti. Me eletään
+Puhuja 0: teknologian mahtavaa ja kaikki on parasta ja ongelmat ratkeaa. Siis ei ihan teknologian kritiikkiä ole oikeastaan. Ei sitä oikeastaan ole. Täällä sitä on. Ja se on
+Puhuja 0: tosi
 Puhuja 0: jotenkin fressiä. Mä ihan vaan yhtenä esimerkkinä, siellä oli upea juttu
 Puhuja 0: Can machines have commensence?
-Puhuja 0: Tää on jo kesän numerosta. Deep Learning
-Puhuja 0: Onko masiinalla maalaisjärkeä? Kiitos Savonnoksesta. Deep Learning Hipesis: Basic featur of Human Intelligence kirjoittaja on tämmöinen kuin William Hazellberg. Ihan vaan esimerkkinä: siellä on ihan mahtava kuvaus siitä, miten me ollaan päädytty semmoiseen ajatukseen, että me ollaan kohti semmoista keinoälyä, joka on ihmiseen verrattavaa.
-Puhuja 0: Mutta sitten tää kirjoittaja kuvaa eri tapoja, miten siellä ihan niissä
-Puhuja 0: sen ajatuksen perusteissa on
-Puhuja 0: ihan semmoisia käsittämättömiä oletuksia,
-Puhuja 0: kuten että
-Puhuja 0: ihmisen älykkyys olisi jotenkin vain
-Puhuja 0: matemaattisesti mallinnettavissa.
-Puhuja 0: Siten, että miten älykkyysä on itse asiassa monia
-Puhuja 0: erilaisia ja ne kaikki on tosi olennaisia siinä, miten ihmiset ajattelee ja toimii. Ja miten
-Puhuja 0: tämä keinoälykoneoppimishomma,
+Puhuja 0: Tää oli jo kesänumerosta.
+Puhuja 2: Diplör... Onko masiinalla maalais järkeä?
+Puhuja 0: Kiitos Savonnoksesta.
+Puhuja 0: Deep Learning hibes: Basic featur of Human intelligence kirjoittaja on tämmöinen kuin William Häselberg.
+Puhuja 0: Ihan vaan esimerkkinä. Siellä on ihan mahtava kuvaus siitä, miten me ollaan päädytty semmoiseen ajatukseen, että me ollaan kohti semmoista keinoälyä, joka on ihmiseen verrattavaa. Mutta sitten tämä kirjoittaja kuvaa eri tapoja, miten siellä ihan niissä
+Puhuja 0: sen ajatuksen perusteissa on ihan semmoisia käsittämättömiä
+Puhuja 0: oletuksia,
+Puhuja 0: kuten että ihmisen älykkyys olisi jotenkin matemaattisesti
+Puhuja 0: mallinnettavissa. Siten,
+Puhuja 0: miten älykkyysjä on itse asiassa monia erilaisia,
+Puhuja 0: ja ne kaikki on tosi olennaisia siinä, miten ihmiset ajattelee ja toimii. Ja miten tämä
+Puhuja 0: keinoäly
+Puhuja 0: koneoppimishomma,
 Puhuja 0: mikä on nyt kaikkialla,
-Puhuja 0: se on tasan ja tarkkaan vain yksi älykkyyden osaamis.
+Puhuja 0: se on tasan ja tarkkaan vain yksi älykkyyden osamuoto.
 Puhuja 0: Siellä oli upea esimerkki
 Puhuja 0: kuvatunnistuksesta,
 Puhuja 0: miten erilaista on, kun kone ja ihminen tunnistaa kuvan. Jos ihmiselle näytetään ja koneelle näytetään kuvaa kahvikupista,
-Puhuja 0: niin kone pystyy käsittämättömän hyvin tunnistamaan, että siinä on asia, jonka nimi on kahvikuppi.
+Puhuja 0: kone pystyy käsittämättömän hyvin tunnistamaan, että siinä on asia, jonka nimi on kahvikuppi.
 Puhuja 0: Mutta se, mitä ihminen tunnistaa siitä kuvasta, on itse asiassa ääretön määrä dataa,
-Puhuja 0: koska
-Puhuja 0: ihminen käyttää siinä eri älykkyys algoritmia kuin kone. Sillä tavalla, että ihminen näkemällä kuvan kahvikupista,
-Puhuja 0: niin se samalla tietää, että siitä voi juoda myös kaakaota.
-Puhuja 0: Mutta ei oikeastaan shamppanjaa.
-Puhuja 0: On olemassa
-Puhuja 0: asioita, jotka on tosi
-Puhuja 0: dataa siitä kahvikupista,
-Puhuja 0: mutta jotka tavallaan ei ole olemassa ennen kuin se ihminen ajattelee. Kahvikupista
-Puhuja 0: ihminen tunnistaa, toisin kone ei ihminen pystyisi. Ihminen tietää, että se rikkoutuu
+Puhuja 0: koska ihminen käyttää siinä eri älykkyyssalgoritmia
+Puhuja 0: kuin kone sillä tavalla, että ihminen näkemällä kuvan kahvikupista,
+Puhuja 0: se samalla tietää, että siitä voi juoda myös kaakaota, mutta ei oikeastaan shamppanjaa.
+Puhuja 0: On olemassa asioita,
+Puhuja 0: jotka on tosi dataa
+Puhuja 0: siitä kahvikupista, mutta jotka tavallaan ei ole olemassa ennen kuin se ihminen ajattelee.
+Puhuja 0: Kahvikupista
+Puhuja 0: ihminen tunnistaa, toisin kone ei ikinä pystyisi. Ihminen tietää, että se rikkoutuu
 Puhuja 0: ja se on huono häälahja.
 Puhuja 0: Ihminen tietää, että kahvikuppi ei osallistunut Ranskan vallankumoukseen.
-Puhuja 0: Ihmisen älykkyys toimii ihan sellaisella tavalla, mitä koneoppimiset ja valtavaan datamäärään
-Puhuja 0: Missään ei ole olemassa kahvikvista valtavaa datamäärää, jossa sanotaan, että ei osallistunut Ranskan vallankumoukseen. Ihmisen älykkyys toimii ihan eri lailla kuin miten koneoppiminen.
-Puhuja 0: Super mielenkiintoista, nimenomaan
-Puhuja 0: kriittinen suuntautuminen siihen, että hei, onko tämä ihan
-Puhuja 0: oikeasti tämä keinoäly kuin älykästä se on.
+Puhuja 0: Ihmisen älykkyys toimii ihan semmoisella tavalla, mitä koneoppimiset
+Puhuja 0: ja valtavaan datamäärään...
+Puhuja 0: Missään ei ole olemassa kahvikvista valtavaa datamäärää, jossa sanotaan, että ei osallistunut Ranskan vallankumouksen.
+Puhuja 0: Mutta ihmisen älykkyys toimii ihan eri lailla kuin miten koneoppiminen ja näin.
+Puhuja 0: Supermielenkiintoista, nimenomaan se kriittinen suuntautuminen siihen, että hei, onko
+Puhuja 0: ihan oikeasti tämä keinoäly kuin älykästä se on ja näin.
 Puhuja 0: Suosittelen.
 Puhuja 0: Lehden nimi The New Atlantis.
-Puhuja 0: Varsinkin tämä keinoälyjuttu oli todella hyvä. Can machines have common sense kirjoittaja William Hazellberg.
+Puhuja 0: Varsinkin
+Puhuja 0: keinoälyjuttu oli todella hyvä. Can Machines have common sense kirjoittaja William Hazellberg.
 Puhuja 0: Suosittelen
 Puhuja 0: tällaista.
 Puhuja 0: Hyvä.
 Puhuja 0: Siinä kaikki
 Puhuja 0: tältä erää.
 Puhuja 0: Missä on mun teksti?
-Puhuja 0: Kauhea.
+Puhuja 0: Kauheaa.
 Puhuja 0: Niin,
 Puhuja 0: kiitos Nidd Los Toros.
 Puhuja 0: Kiitos Alma Onali.
-Puhuja 0: Mun nimi on Toros Peltomäki. Ääni ja kuva ja kaiken muun mahtavan meille tekee tällä viikolla Mikko Peura. Kiitos, Mikko, joka on palannut lomailtuaan
-Puhuja 0: viikon. Kaksi kolme
-Puhuja 0: kaksi viikkoa näyttää, Mikko, tuolta.
+Puhuja 0: Mun nimi on Tuomas Peltomäki, ja ääni ja kuva. Kaiken muun mahtavan meille tekee tällä viikolla
+Puhuja 0: Mikko Peura.
+Puhuja 0: Kiitos, Mikko, joka on palannut lomailtuaan
+Puhuja 0: viikon... Kaksi... Kolme...
+Puhuja 0: Kaksi viikkoa näyttää Mikko tuolla.
 Puhuja 0: Hei, lähtekää meille palautetta
 Puhuja 0: uutisraportti.
 Puhuja 0: Käykää vielä mun Twitterissä.
-Puhuja 0: On
-Puhuja 0: linkki pinnattuna
+Puhuja 0: On linkki pinnattuna
 Puhuja 0: kuulijakyselyyn.
-Puhuja 0: Se on hauska. Sinne on tullut aivan uskomattoman hienoja upeita, satoja,
-Puhuja 0: satoja vastauksia. Ihmiset ovat kirjoittaneet
-Puhuja 0: terveisiä
-Puhuja 0: ja
-Puhuja 0: kehitysehdotuksia
-Puhuja 0: ja kertoneet itsestään kuuntelusta ja mitä haluavat, mitä eivät, mutta jotenkin se lukeminen on niin kivaa.
+Puhuja 0: Se on hauska. Sinne on tullut aivan uskomattoman hienoja upeita, satoja
+Puhuja 0: vastauksia.
+Puhuja 0: Ihmiset ovat
+Puhuja 0: kirjoittaneet terveisiä ja kehitysehdotuksia ja kertoneet itsestään kuuntelusta ja mitä haluavat, mitä eivät.
+Puhuja 0: Mutta jotenkin se lukeminen on niin kivaa.
 Puhuja 0: Minä sitten toimintan
-Puhuja 0: Almalle,
-Puhuja 0: Markolle ja Marialle ja kaikille
-Puhuja 0: tulokset, kun kysely laitetaan kiinni. Eli käykää siellä ja kuullaan taas ensi viikolla!
+Puhuja 0: Almalle, Markolle ja Marialle ja kaikille
+Puhuja 0: tulokset, kun kysely laitetaan kiinni. Eli käykää siellä
+Puhuja 0: ja kuullaan taas ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 1: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastini, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi
+Puhuja 0: Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

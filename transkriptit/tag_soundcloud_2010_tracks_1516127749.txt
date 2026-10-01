@@ -1,245 +1,448 @@
-Puhuja 0: Hei! Ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
 Puhuja 0: torstaina
 Puhuja 0: kahdeksantoista.
-Puhuja 0: Toukokuuta. Voiko olla vielä toukokuu?
-Puhuja 1: Aika uskomattomalta tuntuu, mutta niin se on. Mä olen
-Puhuja 0: menossa jossain heinäkuussa.
+Puhuja 0: Toukokuuta.
+Puhuja 0: Voiko olla vielä toukokuu?
+Puhuja 0: Aika uskomattomalta tuntuu, mutta niin se on. Mä olen meneillään. Mä olen menossa jossain heinäkuussa.
 Puhuja 0: Mun nimi on Tuomas Peltomäki. Kanssani
-Puhuja 0: täällä Helsingin Sanomien podcast
-Puhuja 0: studiossa Suomessa
-Puhuja 0: Helsingissä.
-Puhuja 0: Hän on vähän yllättäen ensimmäistä kertaa
-Puhuja 0: Helsingin
-Puhuja 0: Sanomien
+Puhuja 0: täällä
+Puhuja 0: Helsingin Sanomien podcast studiossa
+Puhuja 0: Suomessa Helsingissä.
+Puhuja 0: Hän on vähän yllättäen ensimmäistä kertaa, eikökin, ensimmäistä kertaa tässä podcastissa
+Puhuja 0: Helsingin Sanomien
 Puhuja 0: sunnuntaitoimituksen
-Puhuja 0: tuottaja Susanna Salmi. Tunnetaan myös Lauantaikerhon
-Puhuja 0: podcastin vakiojäsenenä.
-Puhuja 0: Me ollaan tällä viikolla Lauantaikerhon
+Puhuja 0: tuottaja
+Puhuja 0: Susanna
+Puhuja 0: Salmi, tunnetaan myös Lauantaikerho
+Puhuja 0: podcastin vakion jäsenenä. Me ollaan tällä viikolla Lauantaikerhon
 Puhuja 0: kanssa
 Puhuja 0: vaihtista.
-Puhuja 0: Nimittäin Susanne on täällä.
-Puhuja 0: Ja Anni Keski-Heikkilä
-Puhuja 0: AKH menee lauantai-kerhon.
-Puhuja 2: Olin siellä viime viikolla. Joo.
-Puhuja 0: Tästä voisi joku saada
-Puhuja 0: sen käsityksen, että
-Puhuja 0: meillä on rajallinen määrä ihmisiä, jotka haluavat
-Puhuja 0: mennä nolla minuutin varoitusajalla kommentoimaan politiikkaa podcasteihin. Mutta se olisi väärä käsitys. Meitä on nimittäin monta.
-Puhuja 0: Podcast
-Puhuja 0: ahkeruuttaan tuossa mainosti.
+Puhuja 0: Nimittäin Susanne on
+Puhuja 0: täällä. Anni Keski-Heikkilä
+Puhuja 0: AKH menee Lauantaikerho.
+Puhuja 3: Olin siellä viime viikolla. Joo,
+Puhuja 0: tästä voisi joku saada
+Puhuja 0: sen käsityksen, että meillä on rajallinen
+Puhuja 0: määrä ihmisiä, jotka haluavat mennä
+Puhuja 0: nolla minuutin varoitusajalla kommentoimaan politiikkaa podcasteihin. Mutta se olisi väärä käsitys. Meitä on nimittäin monta.
+Puhuja 0: Podcast ahkeruuttaan
+Puhuja 0: tuossa mainosti
 Puhuja 0: Marko Junkkari,
 Puhuja 0: joka
-Puhuja 0: on politiikan toimittaja Helsingin Sanomissa.
-Puhuja 2: Niin on. Hei tuo alas.
+Puhuja 3: on politiikan toimittaja Helsingin Sanomissa. No, niin on. Hei tuo alas.
 Puhuja 0: Onpas ihastuttavaa, että sinä olet täällä Susanne.
-Puhuja 1: Kiitos, ilo olla tosi hauskaa olla ensimmäistä kertaa.
+Puhuja 2: Kiitos, ilo olla tosi hauskaa olla ensimmäistä kertaa.
 Puhuja 0: Lyhyt ilmoitusasia.
 Puhuja 0: Tällä viikolla
-Puhuja 0: nimittäin alkoi ilmestyä
+Puhuja 0: nimittäin
+Puhuja 0: alkoi ilmestyä
 Puhuja 0: aivan erinomainen uusi podcast
 Puhuja 0: nimeltä Ystäväkirja,
 Puhuja 0: jonka
-Puhuja 0: toimittajaja on tehnyt
-Puhuja 0: kenties Helsingin Sanomien ihastuttavin
-Puhuja 0: ihminen, nimittäin Outi-robotti
-Puhuja 0: podcastin entinen kesätiimiläinen
+Puhuja 0: toimittaja on tehnyt kenties Helsingin Sanomien ihastuttavin
+Puhuja 0: ihminen, nimittäin Outthaportti-podcastin
+Puhuja 0: entinen kesätiimiläinen
 Puhuja 0: Inkeri Harju.
 Puhuja 0: Ystäväkirja-podcastissa
-Puhuja 0: Se täytyy kuunnella, jotta
-Puhuja 0: fiiliksestä saa kiinni. Mutta se on tämmöinen,
-Puhuja 0: että kaksi julkkista,
-Puhuja 0: jotka ovat:
-Puhuja 0: On kirjoitusta vielä viimeisen kerran.
-Puhuja 0: Un like other social media users, particularly those in politics and government, he offs he's personal Wystem he's likecs and dislights with the vink not a school.
-Puhuja 0: And ennoge
-Puhuja 0: rather than a lecture.
-Puhuja 0: Mun mielestä tossa on joku syvä totuus, että
-Puhuja 0: jos sä oot business Ja mä,
-Puhuja 0: niinku olet Fortumin
+Puhuja 0: täytyy kuunnella, jotta
+Puhuja 0: fiiliksestä saa kiinni. Mutta se on tämmöinen, että
+Puhuja 0: kaksi julkkista, jotka sattuvat olemaan parhaita kavereita, niin keskustelevat siitä, miksi he ovat parhaita kavereita keskenään ja
+Puhuja 0: kiertävätvat
+Puhuja 0: ystävyyden eri
+Puhuja 0: seikkailuja ja sattumuksia.
+Puhuja 0: Se on aivan ihastuttava podcastiin. Mitä tässä siellä on ollut? Mä nyt paljastan, että mulle nämä ihmiset ei kulje ilukkissa,
+Puhuja 0: enkä tiedä, keitä ne on, koska
+Puhuja 0: mä oon boomeroitumassa
+Puhuja 0: pahemman kerran.
+Puhuja 0: Mutta
+Puhuja 0: ensimmäisessä
+Puhuja 0: jaksossa on...
+Puhuja 2: Hei, mä osaan kertoa Arttu
+Puhuja 2: someilmiöitä.
+Puhuja 0: Ja stygistä ilmeisesti
+Puhuja 2: ammatiltaan ehkä. Tätä olla se, että Janitautia on valokuvaaja. Kyllä.
+Puhuja 3: Ja he... Onko Jani Tautio seka oli Sanna Marinin porukassa? Kyllä. Sama ihminen. Kyllähän mäkin tiedän.
+Puhuja 0: Tämä onkin paljon vähän mun boomeri kuin minä.
+Puhuja 0: Mutta podcast on semmoinen, että kuuntelin sen silleen, että en tiedä ollenkaan, keitä nämä ihmiset on. En tiedä, minkä näköisiä he on. En tiennyt, että he on Instagram-influenssereita.
+Puhuja 0: He olivat
+Puhuja 0: mukavimpia,
+Puhuja 0: lempeimpiä ja kilteimpiä
+Puhuja 0: ihmisiä,
+Puhuja 0: ketä olen ikinä kuullut. Ajattelen, että he ovat
+Puhuja 0: Oulun jostain viereisestä
+Puhuja 0: naapurikylästä
+Puhuja 0: olevia
+Puhuja 0: viattomia
+Puhuja 0: nuorukaisia.
+Puhuja 0: Semmoinen fiilis tuli. He kertovat tosi mielenkiintoisen tarinan siitä, miten he olivat menossa naimisiin, koska he ovat kasvaneet Ja
+Puhuja 0: sitten, miten tästä oli pakko tehdä äkkikäännös siihen, että he ovatkin nyt vain pelkkiä bestikiksiä, asuvat täällä Helsingissä ja ovat influenssareita.
+Puhuja 0: Tosi
+Puhuja 0: upeita ja mielenkiintoisia elämäntarinoita.
+Puhuja 0: Eli ystäväkirja-podcast
+Puhuja 0: kuunnelkaa,
+Puhuja 3: löytyy kaikkialta. Onko se Oulun vieressä oleva kylä, missä kaikki on täydellistä? Onko se Kempeleä? Kyllä.
+Puhuja 0: Juha Sipilän, nykyinen kotipaikka ja minun entinen kotipaikka. Ootko sä Kempeleltä? Mä asuin se. En missään nimessä. Mä vihaan Kempeletä, koska mä oon oululainen. Mutta mä asuin siellä ehkä vähän vajaa vuoden joskus. Noniin, mennään asiaan. Tämän viikon podcastissa
+Puhuja 0: keskustellaan ensinnäkin siis...
+Puhuja 3: Okei, eli se on kuitenkin suomalaista kiinni ja mitä he sanookaan lupeessa ja muuta? No, se on vähän semmoinen muna aikanaan, mutta jos puoluerpeen menee vähän huonosti, niin sitten äkkiä se johto menettää sen luopumaan. Okei, ja päinvastoin kysymys sitten,
+Puhuja 0: miten se on vaikka RKP:llä,
+Puhuja 0: joka on se liberaali?
+Puhuja 0: Jos siellä se joku peruskannattaja
+Puhuja 0: katoaa, että okei, lähtipä Anna majaan nyt, sitä rupeaisi vähän natsahtaa, Onko
+Puhuja 0: siellä puolella joku porukka, joka pystyy ruveta
+Puhuja 0: tosissaan pistämään vastaan? Voiko biaudea
+Puhuja 0: kärrätä ympärilleen porukkaa ja ruveta
+Puhuja 0: jotenkin
+Puhuja 0: tekemään semmoista vallankumousta siellä sisällä?
+Puhuja 3: Varmaan
+Puhuja 3: voi,
+Puhuja 3: mutta RKP:ssa
+Puhuja 3: ei käsittääkseni ikinä ole syrjäytetty istuvaa puheenjohtajaa ja puolueen kannatus on aina neljä pilkku neljä, teki ne mitä tahansa.
+Puhuja 3: Tai neljä pilkku kolme. NärKP tässä on tavallaan... Otetaan huono esimerkki. Että mikä hyvänsä. Kyllä kaikissa puolueissa on varmaan samalla
+Puhuja 3: tavalla sama, mutta minusta perussuomalaisissa
+Puhuja 3: on selkeämmin se, että pyritään
+Puhuja 3: puhdasoppiseen
+Puhuja 3: kansalliskonservatiiviseen
+Puhuja 3: ylälaitaan. Mielestäni muissa
+Puhuja 3: puolueissa voidaan joutua miettimään, jos kokoomuksessa tulee johtajakriisi, niin mietitään pitäisikö mennä konservatiivisempaa
+Puhuja 3: vai liberaalimpaan
+Puhuja 3: suuntaan. Siellä on vaihteluja suuntia enemmän kuin persuissa.
+Puhuja 2: Minua on jotenkin viime aikoina yllättänyt tässä keskustelussa se, että miten usein nostetaan pöydälle
+Puhuja 2: se hajoaminen
+Puhuja 2: sillä
+Puhuja 2: kulmalla, että jos nyt asiat eivät mene näin ja näin, niin puolue jälleen varmaankin hajoaa.
+Puhuja 2: En tiedä, että Pellataanko me vähän liikaa
+Puhuja 2: yhteen
+Puhuja 3: asiaan, joka on tapahtunut jotakin? Se on vahva itsestään selvänä, että ne hajoaisivat. Ei välttämättä hajoa. Toinen vaihtoehto on se, että perussuomalaiset saavat
+Puhuja 3: hyvin mieleisen hallitusohjelman
+Puhuja 3: ja tavallaan tämä, joka ajaa perussuomalaista
+Puhuja 3: politiikkaa tai ainakin siinä määrin, että perussuomalaisille
+Puhuja 3: hyväksyy ja voi antaa myös onnistua. Ja sitten siinä on helposti kriisiä kokoomuksella ja hallituskumppaneilla,
+Puhuja 3: jos heidän äänestäjään ei pidä sitä
+Puhuja 3: Minusta tässä jutussa on vaihtoehtoja kaksi. Joko tehdään perussuomalaista
+Puhuja 3: politiikkaa tai ei tehdä perussuomalaista
+Puhuja 3: politiikkaa. Se johtaa perussuomalaisessa
+Puhuja 3: muutoksiin.
+Puhuja 0: Okei. Puhutaan vielä hyvin lyhyesti tähän loppuun,
+Puhuja 0: koska
+Puhuja 0: aihe on vain neljäsataa neljäkymmentä merkin mittainen.
+Puhuja 0: Yksi hienoimpia ihmisiä
+Puhuja 0: ikinä, nimeltä David Nossau, joka kirjoittaa aivan fantastisia kirjoja, niin hän oli kirjoittanut The New York Timesin
+Puhuja 0: pääkirjoitussivulle
+Puhuja 0: kolumnin, jossa hän...
+Puhuja 0: Sen kolumnin pointti oli suurin piirtein se, että ihmiset
+Puhuja 0: pitävät
+Puhuja 0: elon Muskia sekopäähulluna
+Puhuja 0: aivan turhaan.
+Puhuja 0: Ja arvaamattomana. Ja arvaamattomana,
+Puhuja 0: koska jos katsoo
+Puhuja 0: Elon Muskia,
+Puhuja 0: Muskin toimia siltä kannalta, että hän
+Puhuja 0: yrittää vaan koko ajan edistää bisneksen
+Puhuja 0: hyvinvointia,
+Puhuja 0: niin kaikki, mitä Elon Musk tekee, on todella järkeenkäypää.
+Puhuja 3: Hänelle oli hyvä pointti. Sanoit,
+Puhuja 3: että
+Puhuja 3: jos ElO Musk haluaa esiintyä
+Puhuja 3: uskottavana
+Puhuja 3: asiallisena
+Puhuja 3: virkamiesmäisenä toimitusjohtajana,
+Puhuja 3: se osaa sen. Tässä on lukuisia esimerkkejä missä jos hän keskustelee Twitterin
+Puhuja 3: potentiaalisesta mainostajien kanssa, niin hän on
+Puhuja 3: yritysjohtaja kuin siinä missä muutkin.
+Puhuja 3: Ja sitten kuitenkin
+Puhuja 3: päästy ulos kokousvuodesta,
+Puhuja 3: he rupeavat lähettämään idioottimaisia
+Puhuja 3: twiittejä ja emojia.
+Puhuja 3: Huumoria on ihan paskaa vielä. Huumori on mustalla. Se on niin lapsellista ja sellaista myymään. Ja jotenkin se pohti vain sitä, että
+Puhuja 3: Elon Musk on sanonut, että hän maksoi Twitteristä kaksi kertaa liikaa. Neljäkymmentäneljä
+Puhuja 0: miljardia dollaria.
+Puhuja 0: Sen arvo nyt on kaksikymmentä miljardia dollaria.
+Puhuja 3: Ei enää kun ostettiin pois päältä.
+Puhuja 3: Ei ole mitään
+Puhuja 3: väliä, jonka omaisuuden arvo on jotain toistasataa miljardia. Se ja
+Puhuja 3: sama
+Puhuja 3: kärsiikö se Twitterissä muutaman miljardin tappion,
+Puhuja 3: Koska hänen varsinainen kykynsä on se, että hän on luonut itsestään
+Puhuja 3: hulluneron
+Puhuja 3: imagon,
+Puhuja 3: johon liittyy
+Puhuja 3: keskeisenä osana se, että hänellä on suora kanava kansalaisiin ja Twitter mahdollistaa sen. Kun hän omistaa sen, niin
+Puhuja 3: hän pystyy säätämään ne algoritmit.
+Puhuja 3: Kun hän
+Puhuja 3: palkkaa Fox Newselta Tackeriin töihin, niin hän pystyy säätämään algoritmit niin, että jokainen Twitter-käyttäjä näkee pelkästään Tacker's rolta
+Puhuja 3: tästä eteenpäin tai pelkästään Elon on Muskin twiittejä.
+Puhuja 3: Niin hän on tavallaan se... Twitter on niin kuin sivuasia, että hänen omaisuutensa karttuu SpaceX:sta
+Puhuja 3: tai Teslasta, joiden arvot nousee, koska hän on hullu nero ainutlaatuinen maailmassa, jopa Peltomäen sankari.
+Puhuja 3: Hänen
+Puhuja 3: onnekas Bisoteensa,
+Puhuja 3: business neroutensa on se, että hän on rakentanut itsestään
+Puhuja 3: ympärilleen kultin.
+Puhuja 2: Tähän kulttiin liittyy hulluus ja arvaamattomuus keskeisenä osana. Eli oliko Nassaan pointti, että se joku tietynlaisen kurssin heilahtelu, jota tapahtuu usein sen jälkeen, kun hän on jotain laukunut Twitterissä? Se on piinat tässä kaikessa? Sekin on piinats. Hänen
+Puhuja 3: varsinainen pointtinsa oli se,
+Puhuja 3: että Elon Musk haluttiin sitä tai ei, mutta hän on tämänhetkisen
+Puhuja 3: kapitalismin korkein
+Puhuja 3: ilmentymä. Näin eniten kaikkein
+Puhuja 3: parhaimmillaan kauneimmat sitä. Se
+Puhuja 0: väsyttää maailmaa menossa.
+Puhuja 0: Viime viikolla suosittelemme podcast-sarja,
+Puhuja 3: jonka nimeä en nyt muista, mutta se käsittelee juuri näitä kysymyksiä. Minusta on vähän vastaava ilmiö, Elon Musk ja Twitter. Se, että Tuomas Peltomäelle annettaisiin vapaa pääsy kirjoittaa Helsingin Sanomien etusivulle. Aina, ihan pitää itse lystää. On ollutvuotias, tämäkin
+Puhuja 0: on ollut näin.
+Puhuja 0: Mr Musk purchise of Twitter makes perfect sense given heaes business monel. The platform providees with him with guaranted controld,
+Puhuja 0: unsenseurable,
+Puhuja 0: uneditet
+Puhuja 0: outlet to market himself and heades products.
+Puhuja 0: Kun sen kirjoittaa auki, niin noinhan se on.
+Puhuja 0: Sitten, kun Twitter on pyörivä
+Puhuja 0: hypersur
+Puhuja 0: sitä ei tule koskaan miettineeksi.
+Puhuja 0: Mutta noinhan se on. Maailman rikkaammalla miehellä on täysin
+Puhuja 3: ilman... Kukaan ei voi käyttää veto-oikeutta siihen. Se pointti on se, kun eihän hän mainosta siellä, että tulee Teslata uusi malli, että ostakaa kaikki Teslasi. Hän ei teettäytä, vaan se mainostaa itseään.
+Puhuja 3: Hän on se hullun ero, joka on keksinyt, tai ei ole keksinyt, mutta hänen ansiostaan Tesla on syntynyt. Kyllä. Hänen ei tarvitse sanoa sitä Teslaa ääneen tai Space
+Puhuja 3: tai mitä muita firmoja siellä onkaan, vaan riittää, että hän kasvattaa omaa, pönkittää omaa
+Puhuja 2: hullun brändiään. Mulla on lisäkysymyksiä, koska en ole tätä juttua lukenut.
+Puhuja 2: Onko tässä myös panoksena
+Puhuja 2: jotain poliittista vaikuttamista tai sen tyyppistä
+Puhuja 2: vaikutusvaltaa?
+Puhuja 2: Onko se vain se brändi vai haluaako hän myös heiluttaa yhteiskuntaa? Se oli vähän toisinpäin.
+Puhuja 0: Poliittinen vaikutusvalta on alisteinen sille, että Musk puhuu sille omalle porukalle.
+Puhuja 0: Koska sen oma porukka on tiettyä
+Puhuja 0: 4GA:n
+Puhuja 0: radikaali
+Puhuja 0: jäbäjengiä,
+Puhuja 0: Musk puhuu niiden kieltä. Se on vähän sama, että se
+Puhuja 0: sen libertaarijuttu,
+Puhuja 0: mitä se heittää Twitterissä,
+Puhuja 0: Se on sama asia, että hän käyttää kakkaemojia,
+Puhuja 0: hän puhuu libertaarijuttuja,
+Puhuja 0: koska näin tehdään näissä mun piireissä. Nämä mun piirit ovat tosi tärkeitä sen kannalta, että ne nostaa mut ylös sankariksi ja sitten se taas kelluttaa Teslaa.
+Puhuja 3: Ja sehän oli myös hauskaa, että nyt kaikki ovat huolestuneet tekoälystä ja tekoäly siitä, kun se kohta ottaa vallan tässä maailmassa ja sille tulee ihmisen tunteet ja sielu.
+Puhuja 3: Biden kutsuu valkoiseen taloon
+Puhuja 3: yritysjohtajan delegaation, jotka ovat huolissaan AI:n kehityksestä.
+Puhuja 3: Mask on ollut yksi äänekkäimistä, mutta Musk ei kuulunut tähän joukkoon, mikä oli hyvinkin harkittua, koska demokraatit eivät tykkää Muskista, jonka jälkeen Musk matkusti Ranskaan tapaamaan Macroadia.
+Puhuja 0: Haluan siteerata NassaOn kirjoitusta
+Puhuja 0: vielä viimeisen kerran.
+Puhuja 0: Un like other social media users, particularly tose in politics and government, he offes hees person of Wism hees likecs and dislighes with the vink, Not a cou,
+Puhuja 0: And ennoge rather than a lecture.
+Puhuja 0: Mun mielestä tossa on joku syvä totuus,
+Puhuja 0: että
+Puhuja 0: jos sä oot business... Niinku
+Puhuja 0: sä oot Fortumin
 Puhuja 0: toimitusjohtaja,
-Puhuja 0: sulla on kuusi miljardia hassata,
-Puhuja 0: aivan mihin vaan, näin. Ja sun tehtävä on
-Puhuja 0: takoa bisnekselle
-Puhuja 0: rahaa. Tai sä olet eturivin poliitikko.
+Puhuja 0: sulla on kuusi miljardia hassata, aivan mihin vaan,
+Puhuja 0: sun tehtävä on
+Puhuja 0: takoa bisnekselle rahaa. Tai sä oot eturivin poliitikko.
 Puhuja 0: Mä
-Puhuja 0: sanoin, että sä olet eturivin poliitikko sillä tavalla, että sulla on joku, mitä haluat saada aikaan. Olet vaikka suomalainen
-Puhuja 0: sosiaalidemokratia.
-Puhuja 0: Tai sanotaan, että olet suomalainen pipo päässä puheita pitävä kokoomuslainen.
+Puhuja 0: sanoin, että sä olet eturivin poliitikko sillä tavalla, että sulla on joku, mitä sä haluat saada aikaan. Sä olet vaikka suomalainen sosiaalidemokratia.
+Puhuja 0: Otetaan sanoa, että sä olet suomalainen pipo päässä puheita pitävä kokoomuslainen.
 Puhuja 0: Ja sä haluat, että
 Puhuja 0: maailman markkinatalousmaailma,
 Puhuja 0: niin
 Puhuja 0: silloin sun pitää
 Puhuja 0: pystyä käyttämään näitä
-Puhuja 0: työkaluja saavuttaako se sen
-Puhuja 0: päämäärä, mikä sulla on. Sä voit jättäytyä siitä sivuun, että
-Puhuja 0: koko tää homma, jonka ympärillä koko maailma pyörii, jossa on kaikki, niin mä hoidan sen aivan päin helvettiä.
-Puhuja 0: Vaan sun täytyy hoitaa se helvetin hyvin, niin kuin teki Trump,
-Puhuja 0: niin kuin teki Marin,
-Puhuja 0: niin kuin teki
-Puhuja 0: Musk.
-Puhuja 0: Ja sit mä mietin just näitä Fortumin toimareita,
-Puhuja 0: joilla ei ole mitään käsitystä
-Puhuja 0: mistään tällaisesta, ja ne hoitaa ne asiat aivan päin helvettiä.
-Puhuja 2: On siinä joku epäkohta, että tavallaan must tekee just niin kuin Teslan toimarin pitää tehdä. Ehkä se luo, että asia olisi auttanut myös Fortumin toimittajaa, olisi luonut itsestään tittessä kuvan hulluna erona. Ehkä.
-Puhuja 0: Ehkä sitten kaikki olisi silleen, että sinne
+Puhuja 0: työkaluja saavuttaaksesi sen
+Puhuja 0: päämääränä, mikä sulla on. Sä voit jättäytyä siitä sivuun, että
+Puhuja 0: koko
+Puhuja 0: tää homma, jonka ympärillä koko maailma pyörii, jos se on kaikki, niin mä hoidan sen aivan päin helvettiä.
+Puhuja 0: Vaan sun täytyy
+Puhuja 0: hoitaa se helvetin hyvin, niin kuin teki Trump,
+Puhuja 0: niin kuin teki Marin, niin kuin teki Musk. Ja mietin
+Puhuja 0: just näitä Fortumin toimareita,
+Puhuja 0: joilla ei ole mitään käsitystä mistään tällaisesta, ja ne hoitaa ne asiat aivan päin helvettiä.
+Puhuja 3: On siinä joku epäkohta, että tavallaan must tekee just niin kuin Teslan toimarin pitää tehdä. Ehkä se, että asia olisi auttanut myös Fortumin toimittajaa, jos luodut itsestään tittessä kuvan hulluna erona. Ehkä
+Puhuja 0: Ehkä. Ehkä sitten kaikki olis silleen, että sinne
 Puhuja 0: meni ne rahat, mutta what a wile drive!
-Puhuja 0: Okei, tota,
-Puhuja 0: sitten kun
-Puhuja 0: menette metroon ja puristatte penkistä, se rystyset valkeina,
-Puhuja 0: siellä on niin jännittävä meininki,
-Puhuja 0: sotilaat hyökkäävät ja kodittamat uhkailee, että otatte taas klotista vähän. Onko meistä tähän kysymykseen liittyen se Amerikka-aiheeseen,
-Puhuja 2: niin mikähän Suomessa Niin
-Puhuja 2: kuin Suski sanoi alussa, että homma vaikutti se, että hyökkääjä oli tällainen MRI, Jenkkisotilas
-Puhuja 2: ja jenkkiveteraani,
-Puhuja 2: joka on vähän niin kuin amerikkakasinen pyhä ihmisryhmä.
-Puhuja 2: Siellä
-Puhuja 2: noustaan seisomaan ennen sotottelun
-Puhuja 2: alkua.
-Puhuja 2: Sotilaat
-Puhuja 2: liehua ja sotilaat marssivat
-Puhuja 2: kentälle ja plaa, plaa, plaa.
-Puhuja 2: Sinänsä ihan hyvä ja ymmärrettävää. Mutta mikä olisi Suomessa samanlainen?
-Puhuja 2: Mikä olisi sellainen Erittäin hyvä. Jos joku olisi hyökännyt metrossa
-Puhuja 2: sen kohdittoman kimppuun,
-Puhuja 2: niin mikä olisi se taho
-Puhuja 2: aiheuttaisi kaikkein suurenvan moraalisen?
+Puhuja 0: Sitten kun
+Puhuja 0: menette
+Puhuja 0: metroon
+Puhuja 0: ja puristatte penkistä, se rystyset valkeina,
+Puhuja 0: siellä on niin jännittävä meininki. Sotilaat hyökkäävät ja kodittomat uhkailee, että otatte taas kulotista vähän. Oikeastaan tähän kysymykseen liittyen Amerikan-aiheeseen.
+Puhuja 3: Mikähän Suomessa, kuten
+Puhuja 3: Suski sanoi alussa,
+Puhuja 3: että homma vaikutti se, että hyökkääjä oli tällainen Maria, jenkkisotilas
+Puhuja 3: ja jenkkiveteraani,
+Puhuja 3: joka on vähän kuin Amerikastainen pyhä ihmisryhmä.
+Puhuja 3: Siellä
+Puhuja 3: nostaa seisomaan
+Puhuja 3: ennen purisottelun alkua
+Puhuja 3: ja sotilaat
+Puhuja 3: liehuivat ja marssivat kentälle ja plaa, plaa, plaa.
+Puhuja 3: Kaikki mitä sotilaat tekevät niin sitä arvostetaan ja kunnioitetaan. Tai mikä on sinänsä ihan hyvä ja ymmärrettävää. Mutta mikä olisi Suomessa samanlainen?
+Puhuja 3: Mikä olisi sellainen...
+Puhuja 3: Jos joku olisi hyökännyt metrossa sen
+Puhuja 3: kodittoman kimppuun, niin kuka olisi
+Puhuja 3: se taho, joka aiheuttaisi kaikkein suurivan moraalisen?
 Puhuja 0: Podcast Host.
-Puhuja 1: Ennen se olisi varmaan ollut joku sydänkirurgi-tyyppinen
-Puhuja 1: lääkäreitähan aina arvostetaan. Mutta kyllähän
-Puhuja 1: kenraalit ovat kovassa huudossa eduskuntavaaleissakin
-Puhuja 0: kaikki kertoivat
-Puhuja 0: sotilasarvon. Kyllä,
-Puhuja 0: vaan tuo. Meette metroon. Pekka Toveri, jos
-Puhuja 0: viatto sivullisen kimppuun ja alkaa kuristaa.
-Puhuja 0: Mikä välillä? Hermostuneesti
+Puhuja 2: Ennen se olisi varmaan ollut joku sydänkirurgityyppinen
+Puhuja 2: lääkäreitä aina arvostetaan, mutta kyllähän kenraalit on aika kovassa huudossa eduskuntavaaleissakin.
+Puhuja 0: Kaikki kertoivat sotilasarvo Muillutta minun mielestäni.
+Puhuja 0: Mikä väliin?
+Puhuja 0: Hermostuneesti
 Puhuja 0: otatte
-Puhuja 0: taskomatista
-Puhuja 0: pikku Herbyn.
-Puhuja 0: Sitten yritätte rauhoitella muita metromatkustajia,
-Puhuja 0: koska kaaos on lähtenyt käsistä ja he itkevät.
-Puhuja 0: Mitäs juttua siinä
-Puhuja 0: kerrotte heille, että heillä
-Puhuja 0: mieli kiinnittyy muihin kuin meneillään olevaan kaksi?
-Puhuja 2: Marko. Voisinkin jo, en ole sitä nähnyt vielä.
-Puhuja 2: Sellainen hyöty oli
-Puhuja 2: viikonlopun
-Puhuja 2: perusjutusta, että sain
-Puhuja 2: paljon Twitter-viestejä.
-Puhuja 2: Toinen oli se, että minut kutsuttiin Virusteatterissa
-Puhuja 2: Rocky-näytelmä,
-Puhuja 2: joka kertoo
-Puhuja 2: populistisista liikkeistä ja persuista.
-Puhuja 2: Viruksen johtaja otti yhteyttä ja kehoitti katsomaan
-Puhuja 2: näytelmään ja ajattelin ensi viikolla mennä.
-Puhuja 2: Noniin, kiva. Se on kuulemma tosi hieno.
-Puhuja 2: Eli viruksen roki, mitä en ole vielä nähnyt, mutta ensi viikolla on.
-Puhuja 0: Okei, upeata. Pahoittelut, mun puhelin rupesi sekoilemaan tässä.
+Puhuja 0: taskomontiista
+Puhuja 0: pikku Herbyn
+Puhuja 0: ja yritätte rauhoitella muita metromatkustajia, koska kaaos on lähtenyt ihan käsistä ja he itkee.
+Puhuja 0: Mitä juttua
+Puhuja 0: siinä kerrotte heille,
+Puhuja 0: että
+Puhuja 0: heillä mieli kiinnittyy muihin kuin
+Puhuja 0: meneillään olevaan kaksi?
+Puhuja 0: Marko.
+Puhuja 3: Voisinkin, en ole sitä nähnyt vielä.
+Puhuja 3: Sellainen hyöty oli
+Puhuja 3: viikonlopun perusjutusta,
+Puhuja 3: että sain
+Puhuja 3: paljon Twitter-viestejä.
+Puhuja 3: Toinen oli se, että minut kutsuttiin virusteatterissa
+Puhuja 3: Rocky-näytelmä,
+Puhuja 3: joka kertoo tämmöinen.
+Puhuja 3: Se on... Se kertoo tavallaan populistisista
+Puhuja 3: liikkeistä ja persuista.
+Puhuja 3: Viruksen johtaja otti yhteyttä ja kehotti tulemaan katsomaan näytelmään ja ajattelin ensi viikolla mennä. Noniin, kiva. Ja se on kuulemma tosi hieno.
+Puhuja 3: Eli viruksen roki, mitä mä en ole vielä nähnyt, mutta ensi viikolla on.
+Puhuja 0: Okei, upeata. Pahoittelut, minun puhelin rupesi sekoilemaan tässä.
 Puhuja 0: Susanne.
-Puhuja 1: Mä oon lueskellut sellaista kirjaa kuin Mehiläisten historia. Nimestään huolimatta se ei ole mikään historiate, jos se on romaani. Se on norjalaisen Maija Lunden. Saanko arvata?
-Puhuja 0: Kuulostaa
-Puhuja 0: ehdottomasti eroottiseltä.
-Puhuja 1: Tuota pettymyksen
-Puhuja 1: ei ole. Se on sellainen
-Puhuja 1: dystopiar romaani. Mä oon vähän jälkijunassa. Tämä on tullut jo kaksituhatta viisitoista.
-Puhuja 1: Kiinnostavaa on se, että kun se on tullut nimenomaan
-Puhuja 1: ennen pandemiaa ja sitten siinä on vähän pelottavan tutunomaisia elementtejä.
-Puhuja 1: Siinä seikkaillaan kolmessa aikatasossa
-Puhuja 1: menneessä ja tulevaisuudessa ja suunnilleen nykyisyydessä.
-Puhuja 1: Ekokatastrofi
-Puhuja 1: uhkaa. En yleensä ole mikään dystopiakirjallisuuden
-Puhuja 1: tai scifin ystävä, mutta tämä on
-Puhuja 1: jotenkin kouriintuntuva
-Puhuja 1: ja ylämestaraastava.
-Puhuja 1: Sitä suosittelisin.
-Puhuja 0: Haluan
-Puhuja 0: nyt suositella
+Puhuja 2: Olen lueskellut sellaista kirjaa kuin Mehiläisten historia. Nimestään huolimatta se ei ole mikään historiate, jos se on romaani. Se on norjalaisen maja Lunden. Saanko arvata? Kuulostaa ehdottomasti
+Puhuja 0: eroottisella kirjassa.
+Puhuja 2: Tuota pettymyksen
+Puhuja 2: ei ole. Se on sellainen
+Puhuja 2: dystopiaromaani.
+Puhuja 2: Mä oon vähän jälkijunassa. Tämä on tullut jo kaksituhatta viisitoista. Kiinnostavaa on se, että kun se on tullut nimenomaan ennen pandemiaa ja sitten siinä on pelottavan
+Puhuja 2: tutunomaisia
+Puhuja 2: elementtejä. Siinä
+Puhuja 2: seikkaillaan kolmessa aikatasossa
+Puhuja 2: ollaan menneessä ja tulevaisuudessa ja suunnilleen nykyisyydessä.
+Puhuja 2: Ekokatastrofi
+Puhuja 2: uhkaa. Mä en yleensä ole mikään dystopiakirjallisuuden
+Puhuja 2: tai scifin ystävä, mutta tää
+Puhuja 2: on jotenkin kouriintuntuva ja sellainen ylämesta raastava. Sitä suosittelisi.
+Puhuja 0: Mä haluan suositella
 Puhuja 0: ensinnäkin
 Puhuja 0: omaa podcastiani.
-Puhuja 0: Tätä uutisraporttia.
-Puhuja 2: Toi oli musta hyvä.
-Puhuja 2: Omaa
-Puhuja 0: podcastiani nimeltä Tuomas Peltämämäki-podcast,
+Puhuja 3: Tätä uutisraporttia.
+Puhuja 3: Toivomus hyvä.
+Puhuja 0: Omaa podcastiani nimeltä Tuomas Peltämämäki-podcast,
 Puhuja 0: jonka ilmestymistahti
 Puhuja 0: on myönnän hyvin harva, noin kerran vuodessa.
 Puhuja 0: Mutta nimittäin vuonna kaksituhatta kaksikymmentä
-Puhuja 0: näitä perussuomalais asioita käytiin läpi
-Puhuja 0: Oula Silvennoisen kanssa tekemässä
+Puhuja 0: näitä perussuomalais
+Puhuja 0: asioita käytiin läpi
+Puhuja 0: Oula Silvennoisen
+Puhuja 0: kanssa tekemässä
 Puhuja 0: kahden ja puolen tunnin haastattelussa.
 Puhuja 0: Siellä löytyy tosi paljon tätä
-Puhuja 0: aihepiiriä, mistä puhuttiin sinunkin
-Puhuja 0: juttusi yhteydessä Marko.
-Puhuja 0: Jos haluat vielä syventää perussuomalaisajattelua
-Puhuja 0: ja analyysiä,
-Puhuja 0: niin sitä löytyy mun ja Oulu Silvennoisen keskustelun kautta Tuomas Peltomäki
+Puhuja 0: aihepiiriä, mistä puhuttiin
+Puhuja 0: Sinunkin juttusi yhteydessä Marko.
+Puhuja 0: Jos haluat vielä syventää perussuomalaissajattelua
+Puhuja 0: ja analyysiä, sitä löytyy mun ja Oulu Silvennoisen
+Puhuja 0: keskustelun kautta Tuomas Peltomäki
 Puhuja 0: podcast-nimisessä
 Puhuja 0: podcastissa.
 Puhuja 0: Mainitsen tämän nyt sen vuoksi,
 Puhuja 0: että
-Puhuja 0: on
-Puhuja 0: huomenna
-Puhuja 0: perjantaina,
-Puhuja 0: se
-Puhuja 0: ilmestyy jälleen.
-Puhuja 0: Nimittäin sinne tulee kolmiosainen Onko tämä nyt toinen, Tuomas Peltomäki-podcast?
-Puhuja 0: Mun mielestä tehty ehkä kuusi.
+Puhuja 0: huomenna perjantaina,
+Puhuja 0: se ilmestyy jälleen.
+Puhuja 0: Nimittäin sinne tulee kolmiosainen...
+Puhuja 3: Onko tää nyt toinen, Tuomas Peltomäki, pois niitä? Mun mielestä tehty ehkä kuusi.
 Puhuja 0: Ne on kaikki
-Puhuja 0: tämmöisiä hyvin, hyvin isoja dippejä aiheita. Kolmiosainen
-Puhuja 0: podcast-sarja, joka liittyy tekoälyyn.
+Puhuja 0: tämmöisiä hyvin, hyvin, hyvin isoja diippejä aiheita. Kolmiosainen
+Puhuja 0: podcast-sarja,
+Puhuja 0: joka liittyy tekoälyyn.
 Puhuja 0: Keskustelen
-Puhuja 0: siis kolme kertaa tunnin ajan
-Puhuja 0: Helsingin yliopiston
+Puhuja 0: kolme kertaa tunnin ajan Helsingin yliopiston
 Puhuja 0: tekoälyprofffa Teemu Roosin kanssa. Me käydään läpi meneillään oleva tekoälyvallankumous,
 Puhuja 0: mistä se oikeasti koostuu, mitä siellä oikeasti on,
 Puhuja 0: miltä se näyttää tekoälytutkijan
-Puhuja 0: mielestä, mitkä on syy-seuraussuhteet, jotka ovat johtaneet tähän, onko se niin ihmeellistä kuin miltä se meidän tavisten mielestä on. Toinen jakso käsittelee sitä. Se on tekoälyn demystifiointi,
+Puhuja 0: mielestä, mitkä ovat syy-seuraussuhteet, jotka ovat johtaneet tähän, onko se niin ihmeellistä kuin
+Puhuja 0: miltä se meidän tavisten
+Puhuja 0: mielestä on. Toinen jakso käsittelee sitä. Se on tekoälyn demystifiointi,
 Puhuja 0: eli miten ne tehdään, miten koodataan tekoäly.
 Puhuja 0: Meillä on olemassa markkinat
-Puhuja 0: datasta, joiden perusteella ne koulutetaan? Mitä tarkoittaa, kun koulutetaan tekoäly?
-Puhuja 0: Mitä pitää omalla tietokoneella tehdä, jotta sinne ilmestyy tekoäly?
-Puhuja 0: Kolmasosa käsittelee tekoälyn regulaatiota,
+Puhuja 0: datasta, joiden perusteella ne koulutetaan? Mitä tarkoittaa, kun koulutetaan tekoäly? Mitä pitää
+Puhuja 0: omalla
+Puhuja 0: tietokoneella tehdä, jotta sinne ilmestyy tekoäly?
+Puhuja 0: Kolmasosa
+Puhuja 0: käsittelee tekoälyn regulaatiota,
 Puhuja 0: mitä siellä on tulossa, mitkä on ne ajatukset, jotka liittyvät siihen, miten tämä tulee tapahtumaan.
 Puhuja 0: Vaikka olen siis tekoäly fani ja tosi innostunut siitä ja on omasta mielestäni lukenut tosi paljon
-Puhuja 0: aiheesta, niin olin koko ajan ihan silmät suurena, että se oli niin hyvä keskustelu,
-Puhuja 0: niin paljon valasi ja niin paljon vei sitä ajattelua
-Puhuja 0: niin paljon lähemmäs maanpintaa
-Puhuja 0: sitä ajattelua. Mutta ei vienyt magiaa pois.
-Puhuja 0: Nyt on meneillään jotain tosi suurta. Mun mielestä Teemu Roosh oli vähän samaa mieltä, että nyt on kovat
-Puhuja 0: paikat.
+Puhuja 0: aiheesta, niin olin koko ajan ihan silmät suurennalta. Se oli niin hyvä keskustelu, niin paljon valasi. Se
+Puhuja 0: toi niin paljon lähemmäs maanpintaa
+Puhuja 0: ajattelua,
+Puhuja 0: mutta ei vien sitä magiaa pois tästä.
+Puhuja 0: Nyt on meneillään jotain tosi suurta. Mun mielestä Teemu Roos oli vähän samaa mieltä, että nyt on
+Puhuja 0: kovat paikat.
 Puhuja 0: Eli Tuomas Peltomäki-podcast,
-Puhuja 0: ensin kuuntelet sieltä perussuomalais-jakson,
-Puhuja 0: tai sanotaan, se käsittelee
+Puhuja 0: ensin kuuntelet sieltä perussuomalaisjakson
+Puhuja 0: tai se käsitteli
 Puhuja 0: äärioikeistoa
 Puhuja 0: laajemmin.
-Puhuja 0: Sen jälkeen perjantaina
-Puhuja 0: sinne tulee lisää kamaa, joten pistä se tilaukseen.
-Puhuja 0: Toinen
-Puhuja 0: vähemmän oman navan sisällä oleva suositus on kirja nimeltä Nurver Stads,
+Puhuja 0: Sen jälkeen perjantaina sinne tulee lisää kamaa, joten pistä se tilaukseen.
+Puhuja 0: Toinen vähemmän
+Puhuja 0: oman navan sisällä oleva
+Puhuja 0: suositus on kirja
+Puhuja 0: nimeltä Never
 Puhuja 0: How feeling took over the world. Kirjoittaja on William Davis niminen britti.
 Puhuja 0: Olen törmännyt häneen jossain podcasteissa
 Puhuja 0: ja joissain blogeissa.
 Puhuja 0: Hän on nero.
 Puhuja 0: Nerver States
-Puhuja 0: käsittelee sitä kysymystä, miten meidän maailma on mennyt siihen tilanteeseen, että siinä me pelataan niin paljon tunteella.
-Puhuja 0: Siinä käydään tosi kiinnostavasti läpi se, miten maailma meni ylipäätänsä siihen, että
-Puhuja 0: meillä oli pitkä pätkä siinä, missä me puhuttiin
-Puhuja 0: faktoista
+Puhuja 0: käsittelee sitä kysymystä, että miten meidän maailma on mennyt siihen tilanteeseen, että siinä me pelataan niin paljon tunteella.
+Puhuja 0: Siinä käydään tosi kiinnostavasti läpi se, miten maailma meni ylipäätänsä siihen, että meillä oli pitkä pätkä siinä, missä me puhuttiin faktoista,
+Puhuja 0: pätkä siinä, missä me
+Puhuja 0: puhuttiin faktoista
 Puhuja 0: ja journalismista
 Puhuja 0: ja tieteestä ja tämmöisestä.
 Puhuja 0: Ja sitten, miten me ollaan päädytty tähän tilanteeseen, missä ne asiat ei olekaan enää kovin arvostettuja.
-Puhuja 0: Ja sitten kaikki muu tämmöinen tunnepohjainen on. Hän on mun mielestä ehkä tämmöinen vasemmistolainen ajattelija, mutta ihan älyttömän hyvä kirjoittaja ja todella
-Puhuja 0: kiinnostava kirja, Never's States, how feeling took over the world kirjoittaja William Davies.
+Puhuja 0: Ja sit Kaikki muu tunnepohjainen
+Puhuja 0: on. Hän on mun mielestä ehkä vähän vasemmistolainen ajattelija, mutta ihan älyttömän hyvä kirjoittaja ja todella
+Puhuja 0: kiinnostava kirja, Never's States, how feeling took over the world, kirjoittaja William Davies.
 Puhuja 0: Siinä kaikki tältä erää.
-Puhuja 0: Aivan ihastuttavaa. Kiitos Susanna, että olit. Kiitos. Kiitos todella paljon. Toivottavasti kuullaan sua täällä uudelleen. Mutta sua kuullaan lähes joka lauantaikerho
-Puhuja 0: podcastissa.
-Puhuja 0: Muistakaa kuunnella.
+Puhuja 0: Aivan ihastuttavaa. Kiitos, Susann, että olit... Kiitos. Kiitos todella paljon. Toivottavasti kuullaan sua täällä uudelleen. Mutta sua kuullaan lähes jokalauantaikerho
+Puhuja 0: podcastissa. Ei, muistakaa
+Puhuja 0: kuunnella.
 Puhuja 0: Käsitellään
 Puhuja 0: Suomen politiikka
 Puhuja 0: läpikotaisin
 Puhuja 0: viikon ajalta.
-Puhuja 0: Kiitos myös Marko Junkkari.
-Puhuja 0: Kiitos, Tuomas.
+Puhuja 0: Kiitos myös, Marko Junkkari.
+Puhuja 3: Kiitos, Tuomas.
 Puhuja 0: Sua kuullaan tässä.
-Puhuja 0: Mun nimi on Tuomas Peltolamäki. Ääniä ja kuva ja kaiken muun mahtava tällä
-Puhuja 0: viikolla Mikko Peura. Kiitos Mikolle.
+Puhuja 0: Mun nimi on Tuomas Peltolamäki, Ääniäkuva ja kaiken muun mahtava meille tällä viikolla. Mikko Peuro, kiitos Mikolle.
 Puhuja 0: Muistakaa lähettää meille palautetta.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

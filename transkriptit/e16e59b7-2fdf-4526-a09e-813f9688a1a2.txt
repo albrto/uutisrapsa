@@ -1,217 +1,458 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 0: podcastiin
-Puhuja 0: torstaina kahdeksankymmentäviisi.
-Puhuja 0: Mikä tosin ei ole tänään, koska tämä nauhoitetaan
-Puhuja 0: keskiviikkona
-Puhuja 0: seitsemän. Toukokuuta, mutta julkaistaan
-Puhuja 0: vasta torstaina
-Puhuja 0: kahdeksan.
-Puhuja 1: Toukoiko tarpeeksi selkeästi? Voitko vielä kerran sanoa?
-Puhuja 0: Minun nimeni on Marko Junkkari ja Tuomas
-Puhuja 0: Peltomäki.
-Puhuja 0: Palataan siihen kohta, on toisaalla.
-Puhuja 0: Kanssani studiossa ovat
-Puhuja 0: ensinnäkin Anna-Sofia Bernnner,
-Puhuja 0: sitävien kesken sohvi. No täällä ollaan. Heissan sohvi. Hei. Pitäisi olla kuullut. Ihan hyvä.
-Puhuja 2: Ei kummempia, mitä muuta voi vastata.
-Puhuja 0: Ja sohvi on
-Puhuja 0: siis
-Puhuja 0: feature-ikäsä, feature-yksikössä. Mikä se on? Niin, eikös me olla tiimejä? Niin, Suomi feature-tiimissä.
-Puhuja 0: Kauheaa. No niin.
-Puhuja 0: Sitten täällä on
-Puhuja 0: tutkivien
-Puhuja 0: juskien
-Puhuja 0: tuottaja.
-Puhuja 1: Salla Vuorikoski, Heissanslla. Terve Marko. Miten sinulla menee? Minulla menee oikein hyvin. Olen harrastanut viime aikoina paljon kulttuuria.
-Puhuja 1: Suositusasiossa kerron yhden
-Puhuja 1: kulttuuri-asian.
-Puhuja 1: Olen jotenkin virkistynyt ja saanut kaikenlaisia
-Puhuja 1: muitakin kuin työhön liittyviä asioita mieleeni.
-Puhuja 0: No niin, tämähän on jotenkin hämmentävä kuulla.
-Puhuja 0: Sitten täällä on Tommi Nieminen, myöskin sieltä kotimaan featoren
-Puhuja 0: tiivistä.
-Puhuja 0: Kuulostaa muuten tosi hyvältä. Kuulostaa tosi pahalta.
-Puhuja 0: Mitä sinulle Tommi kuuluu?
-Puhuja 3: Pelkkää hyvää. Minulla oli eilen tunnin kehonhuolto ja sen jälkeen sauna
-Puhuja 3: ja sitten Inter
-Puhuja 3: voitti Barcelonan
-Puhuja 3: ja eteni Mestarienliigan
-Puhuja 3: loppuotteluun,
-Puhuja 1: joten pelkkä hyvä. Olen ihmetellyt, kun tietokoneeni
-Puhuja 1: alakulboon
-Puhuja 1: on tullut notifikaation
-Puhuja 1: nappi, jota on ollut aikaisemmin ja sitten sieltä tulee kaikkea tietoa, ihan järkeviä, vaikka että nyt on paljon jotain koivun siitepölyä
-Puhuja 1: tai lämpötila on laskemassa tai mitä
-Puhuja 2: asioita. Niin nyt on myös miehiä
-Puhuja 2: ja se on kyllä todella graavi siinä kuvaillaan paljon, että
-Puhuja 2: ketä ammuttiin mihinkin ja miltä näytti ja niin edelleen, mutta on se myös
-Puhuja 2: todella
-Puhuja 2: huimaa journalismia,
-Puhuja 2: jossa selvitetään, että tavallaan miten
-Puhuja 2: se isompi kehys on tavallaan se, että
-Puhuja 2: miten
-Puhuja 2: sotarikokset jää rankaisematta ja miten armeija,
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat
+Puhuja 3: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 3: podcastiin
+Puhuja 3: torstaina kahdeksan. Toukokuuta, mikä tosin ei ole tänään, koska tämä nauhoitetaan
+Puhuja 3: keskiviikkona seitsemän. Toukokuuta julkaistaan vasta torstaina
+Puhuja 3: kahdeksan. Toukokuuta. Tuliko tarpeeksi selkeästi? Voitko vielä kerran sanoa testissä? Minun
+Puhuja 3: nimeni on Marko Junkkari ja
+Puhuja 3: ja Tuomas
+Puhuja 3: Peltomäki, palataan siihen kohta, on toisaalla.
+Puhuja 3: Kanssani studiossa ovat ensinnäkin Anna-Sofia Berner,
+Puhuja 3: sitävien kesken sohvi. No täällä ollaan. Heissan sohvi,
+Puhuja 3: pitäisi olla kuullut.
+Puhuja 2: Ihan hyvä.
+Puhuja 2: Ei kummempia,
+Puhuja 2: mitä muuta voi vastata.
+Puhuja 3: Ja sohvi on siis
+Puhuja 3: Faoture-ikäsä.
+Puhuja 3: Feature-yksikössä,
+Puhuja 3: mikä se on? Niin.
+Puhuja 3: Suomi feature-tiimissä.
+Puhuja 3: Kauheaa. No niin.
+Puhuja 3: Sitten täällä
+Puhuja 3: on tutkivien
+Puhuja 3: juskien
+Puhuja 3: tuottaja.
+Puhuja 3: Salla Vuorikaski, Heissansalla.
+Puhuja 4: Terve, Marko. Miten sinulla menee? Minulla menee oikein hyvin. Olen harrastanut viime aikoina paljon kulttuuria.
+Puhuja 4: Suositusasiossa
+Puhuja 4: kerron yhden
+Puhuja 4: kulttuuriasian. Olen
+Puhuja 4: jotenkin virkistynyt ja saanut kaikenlaisia
+Puhuja 4: muitakin kuin työhön liittyviä asioita
+Puhuja 4: mieleeni.
+Puhuja 3: Noniin,
+Puhuja 3: tämähän on jotenkin hämmentävä kuulla.
+Puhuja 3: Ja sitten täällä on Tommi Nieminen. Myöskin sieltä kotimaan Fiatoren
+Puhuja 3: tiivistä.
+Puhuja 3: Kuulostaa muuten, että oltiin tosi paha. Kuulostaa tosi paha.
+Puhuja 3: Mitä sinulle Tommi kuuluu?
+Puhuja 5: Pelkkää hyvää, minulla oli eilen tunnin kehonhuolto
+Puhuja 5: ja sen jälkeen sauna ja sitten
+Puhuja 5: inter voitti
+Puhuja 5: Barcelonan
+Puhuja 5: ja eteni Mestarienliigan
+Puhuja 5: loppuotteluun
+Puhuja 4: joten pelkkä hyvä. Olen ihmetellyt, kun tietokonei
+Puhuja 4: alakulboon on tullut notifikaation
+Puhuja 4: nappi, jota on ollut aikaisemmin ja sitten sieltä tulee kaikkea tietoja, ihan järkeviä, vaikka että nyt on paljon jotain koivun siitepölyä tai
+Puhuja 4: lämpötila on laskemassa
+Puhuja 4: tai
+Puhuja 4: mitä asioita. Niin nyt sinne tulee joka ikisestä serie A:n matsista
+Puhuja 4: joku tai mistä tahansa muista
+Puhuja 4: jalkapalloiliikojen
+Puhuja 4: matseja. Minulle tiedoksi antoi, että peli on alkamassa aivan pian.
+Puhuja 4: Mitä minä teen sillä tiedolla? Sinä katsot sen kaljaariveronapeli.
+Puhuja 3: Kyllä.
+Puhuja 3: Tuttuun tapaan tähän alkuun nyt oijotaan asioita. On tullut kauheasti viestiä, olen varmaan unohtanut suuren osan. Ainakin Ben Zuckowicz,
+Puhuja 3: tämän podcastin suuri ystävä,
+Puhuja 3: lähetti viestiä. Hän pohdiskeli itse asiassa todella viisasta ja varsinainen oikaisu, mutta hän ihmetteli
+Puhuja 3: vähän meidän kanssamme
+Puhuja 3: Kelan
+Puhuja 3: pääjohtajavalintaa.
+Puhuja 3: Hän muistutti siitä,
+Puhuja 3: että miten ihmeessä
+Puhuja 3: Kelan hallituksen puheenjohtaja,
+Puhuja 3: joka istui myös
+Puhuja 3: tässä
+Puhuja 3: Pääjohtajan
+Puhuja 3: valintatoimikunnassa,
+Puhuja 3: tavallaan tämä valintatoimikunta
+Puhuja 3: tiputti tämän ehdokas, Heli Backmanin neljä joukosta, Kuitenkin hallitus, jota tämä Vertti Kiuas myös johtaa, nosti hänet taas ehdokkaaksi.
+Puhuja 3: Tätä Ben päivittelijä
+Puhuja 3: hän epäilee, että tässä prosessissa on muutkin politikoineet
+Puhuja 3: kuin kokoomuslaiset. Vertti Kiuas on siis demari.
+Puhuja 3: Sitten TysCovits muistutti,
+Puhuja 3: lähti sohville terveisiä. Sanoi, että ei vanhakaan lainsäädäntö edellyttäisi raiskaukselta väkivaltaa tai sen uhkaa.
+Puhuja 3: Esimerkiksi sukupuoliyhteys sammuneen kanssa oli silloinkin raiskaus. Sanotko sinä jotenkin toisin?
+Puhuja 2: Nyt en muista
+Puhuja 2: tarkkaan, mutta se on ehdottomasti totta. Ehkä jotenkin ajattelin
+Puhuja 2: nimenomaan tätä kyseistä maailmantapausta, josta me puhuimme, jossa ei siis ollut kyse sammumisesta.
+Puhuja 3: Kyllä. Ja sitten toinen
+Puhuja 3: tämän podcastin pitkäaikainen
+Puhuja 3: ystävä Matti Muukkonen,
+Puhuja 3: hallinto-oikeuden
+Puhuja 3: supertähti
+Puhuja 3: lähetti pitkän viestin.
+Puhuja 3: Ei siinä mielestäni
+Puhuja 3: varsinaisesti ollut oikaisuja, mutta kiinnostavaa pohdiskelua muun muassa siitä, mikä on
+Puhuja 3: sairaan ja
+Puhuja 3: vartijoiden vastuu siinä, että 17-vuotias
+Puhuja 3: tyttö oli päätynyt puskaan miesten
+Puhuja 3: kanssa.
+Puhuja 3: Oliko jotain muuta, mitä Miia? No,
+Puhuja 4: en suostu oikaisemaan, koska ensin ollut
+Puhuja 4: varsinaisesti virhettä, mutta minulle
+Puhuja 4: huomautettiin
+Puhuja 4: myös anonyymiltä taholta tai en sano nimeä, kun ei sovittu, että kerrotaanko minut. Ihmiset
+Puhuja 2: siellä tuntikausia miettivät ja seurasi näitä edeltäviä otteluita.
+Puhuja 3: Jotka olivat ilmeisesti laadullisesti ihan hyviä vapaaottelumatseja.
+Puhuja 4: Näin minä olin myös lehdestä lukenut. Minäkin kävin tällaisen 18-vuotiaan kanssa vähän tämmöiseen
+Puhuja 4: tuohtuneen
+Puhuja 4: keskusteluun. Siis omalta osaltani vähän tuohtuneet: Että ihmiset touhuaa ja voi hyvänen aika ja näin. Ja sitten tässä keskustelussa hän sanoi, että ne oli just nämä, että nämä ottelut olivat ihan hyviä, jotka olivat siinä alla,
+Puhuja 4: mutta myös,
+Puhuja 4: että kaikkihan sen katsoi,
+Puhuja 4: kaikki kaverit
+Puhuja 4: on katsonut
+Puhuja 4: sen matsin
+Puhuja 4: ja sehän on viihdettä, hän oikein alleviivasi mulle tai jotenkin, että huumori. Tämä on selkeästi ollut
+Puhuja 4: tällainen
+Puhuja 4: show-tapahtuma, johon tietysti täti-ihmiselle
+Puhuja 4: tulee pieni
+Puhuja 4: synkkä sävy. Juuri kun katsoin sitä videotakin, missä tyrmääminen
+Puhuja 4: tapahtuu, niin
+Puhuja 4: On se aika graavi,
+Puhuja 4: siis viihteellistää
+Puhuja 4: tällainen tilanne, jossa olisi voinut käydä oikeasti aika pahasti. Siinä mielessä tässä ei ole mitään uutta. Aikoinaan
+Puhuja 3: silloin kun Toni Halme palasi sieltä Amerikasta, jossa hän oli
+Puhuja 3: ollut shaopinajan ja näin palasi Suomeen.
+Puhuja 3: Hänellä
+Puhuja 3: oli myös suuriisuuden hahmo, jota Suomen kansa vihasi samantyyl kuin stagalaa vihattiin.
+Puhuja 3: Laina oli pelkäsi tämä vihaminen.
+Puhuja 3: Ja Toni Halmehan kohtasi jäähallissa, joka oli silloinkin loppuunmyyty
+Puhuja 3: Käpylän työvelin tai mikä se nimi nyt oli. Niin oli joo. Itsekin olin sitä silloin katsomassa aika nuorena, mutta itsekin olin katsomassa ja se oli ihan samanlainen megalomaaninen
+Puhuja 3: tapahtuma,
+Puhuja 3: missä koko yleisövastuu
+Puhuja 3: oli
+Puhuja 3: Toni Halmetta vastaan
+Puhuja 3: ja vasta myöhemmin Halmeista tuli tämmöinen
+Puhuja 3: kansallisan kanava. Eikö
+Puhuja 4: tämä ole niin miesten touhu? Anteeksi, että kaikki miehet tulee tämmöinen
+Puhuja 4: sukupuolittava kommentti. Aina on joku tämmöinen, yleensä tietysti fyysisyyteen liittyvä
+Puhuja 4: taistelemiseen
+Puhuja 4: ja uhaamiseen liittyvä haaste,
+Puhuja 4: että sitä ja tätä ja kohdataan tuolla ja nähdään ulkona ja tapellaan.
+Puhuja 4: Yleistan
+Puhuja 4: näkökulmasta
+Puhuja 4: olisi
+Puhuja 4: ehkä vähän erikoista. Mekin olisimme niin, että sohvi,
+Puhuja 4: näytösottelua
+Puhuja 4: nyt mitataan, mutta
+Puhuja 4: kun
+Puhuja 4: katsoi niitä edeltäviä klippejä, joissa ne jossain lehdistötilaisuudessa
+Puhuja 4: toisilleen uhitteli ja että jotenkin kesken toisen lauseen toinen löi.
+Puhuja 4: Että ehkä kaikki nuoret ja muutkin, vähän vanhemmatkin henkilöt, katsovat sitä nimenomaan käsikirjoitettuna
+Puhuja 4: viihteenä.
+Puhuja 4: Mulle vähän sellainen, että voi voi.
+Puhuja 2: Mutta
+Puhuja 2: ottaa selvää siitä stakalan
+Puhuja 2: hahmosta, että minkälainen se sen somen persoona on ja
+Puhuja 2: mistä siinä on kyse. Minusta minusta näyttää, että se on
+Puhuja 2: tosi
+Puhuja 2: tyhjää täynnä.
+Puhuja 2: Ei se ollut edes hauska tai provokatiivinen
+Puhuja 2: tai mitään
+Puhuja 2: vaan
+Puhuja 2: niin,
+Puhuja 4: että tavallaan tällainen suuruuskompleksinen
+Puhuja 4: ihminen
+Puhuja 4: ja Tuntematta häntä yhtään sen enempää.
+Puhuja 4: Mutta miksi
+Puhuja 4: tässä mediatodellisuudessa,
+Puhuja 4: sehän ei ole sillä tavalla mikään yhteinen päätös medioissa, annetaanpa nyt helvetisti tälle näkyvyyttä, mutta kuitenkin, miksi tällainen henkilö,
+Puhuja 4: jos sunkin analyysi on se, että hänen sanomansa on vähän tyhjä täynnä ja hänellä on
+Puhuja 4: hyvin naisvihamielisiä
+Puhuja 4: näkökulmia. Onko tämä nyt se ihminen, jonka ympärillä pitää sitten kaikkien jotenkin polvistua?
+Puhuja 2: Se mikä oli se mistä hämmennyin oli se, että ilmeisesti
+Puhuja 2: juuri ne naisvihamieliset kommentit oli se ainoa asia
+Puhuja 2: mistä hän oikeasti oli tunnettu.
+Puhuja 2: Ajattelin että okei, hän on joku somepersoona
+Puhuja 2: joka tekee
+Puhuja 2: kaikenlaista somessa ja sitten tämä on yksi osa sitä. Mutta se olikin se ainoa osa sitä. Mutta ei ainoa kenenkään mielestä kiinnostava asia. Kaikkihan pitää tuoda Amerikasta,
+Puhuja 4: eikö niin? Joo
+Puhuja 3: ja tämän
+Puhuja 3: ottelun jälkeen ensinnäkin mainittakoon meillä, että
+Puhuja 3: tolla tavalla ihmisen päähän lyöminen
+Puhuja 3: ihan hengenvaarallista, se oli sinänsä ihan karseata katsomista,
+Puhuja 3: mutta matsin jälkeen tämä Takala ilmoitti lahjoittavansa tästä ottelupalkinnasta
+Puhuja 3: kymppitonnin,
+Puhuja 3: mikä raiskaustukikeskus
+Puhuja 3: tukinaelle,
+Puhuja 3: joka sitten kohteliaasti kieltäytyy
+Puhuja 4: tästä summasta. Sitten luin jonkun vanhan uutisen siitä, että kai se imukin sai jonkun
+Puhuja 4: korvauksen tai ainakin siinä vanhassa uutisessa ennen ottelua
+Puhuja 4: sanottiin, että hän saa siitä tosi hyvän
+Puhuja 4: korvauksen, että helsinkiläisen yksiön verran. Ja sitten siinä täsmennettiin, että viisi numeroinen lukua. Lähinnä jäin miettimään, että mistä Helsingissä saa viisi numeroisella
+Puhuja 4: yksiön.
+Puhuja 2: Mutta sanotaan vielä,
+Puhuja 2: koska
+Puhuja 2: meidänkin kuulijoissa toivottavasti on monenlaisia ihmisiä, että mua kyllä todella kiinnostaa tämä ilmiö nyt, että
+Puhuja 2: jossa yhdistyy
+Puhuja 2: kuten tässä maksiynissä niin tietyt uskovaiset arvot, konservatiiviset
+Puhuja 2: arvot,
+Puhuja 2: sitten vapaaottelu
+Puhuja 2: ja somessa uhoaminen
+Puhuja 2: ja nuorten miesten fanitus. Se
+Puhuja 4: on vastata. Aiotko tähän jutun? Haluatko
+Puhuja 3: Mutta koko episodissa
+Puhuja 3: kaikkein hämmentävintä oli se, että kaikista maailman ihmisistä ottelua oli seuraamassa Antti Lindman.
+Puhuja 4: Nimenomaan. Nimenomaan.
+Puhuja 2: Mutta Max Hynninen, jonka ottelun järjestää, on Vantaalta kotoisin. Ehkä katsotaan. Onko tämä se selittänyt? Siellä varmaan yritetään vedota
+Puhuja 3: nuoriin duunerimiehiin. Vai just näin. Oliko tämä
+Puhuja 3: Antti Lindmanin tässä manuaalissa
+Puhuja 4: olisi. Todella, nuori konservatiivisia
+Puhuja 4: arvoja kannattava vapaaottelusta
+Puhuja 4: kiinnostunut
+Puhuja 2: mies kannattaa demareita, koska Antti Lindmankin on ollut. Niin, siellä on katsottu miten
+Puhuja 2: kävi
+Puhuja 2: Amerikan demareille vaaleissa ja yritetty ottaa opiksi. Mutta koska kansanedustajat joutuvat kertomaan sidonnaisuuksista
+Puhuja 4: ja
+Puhuja 4: saamistaan lahjoista, niin meidän täytyy odottaa, että tuleeko tuonne rekisteri-ilmoitus, että onko se saanut ilmaiseksi ne liput
+Puhuja 4: sinne paikan päälle? Jäädään seuraamaan. Jäädään seuraamaan.
+Puhuja 3: Kun
+Puhuja 3: seuraavan kerran olette katsomassa
+Puhuja 3: vapaaottelua
+Puhuja 3: siellä VIP-katsomassa ja
+Puhuja 3: katsotte kun
+Puhuja 3: veri lentää ja mietitte tämmöistä
+Puhuja 3: nuorten miesten somekäyttäytymistä,
+Puhuja 3: niin mistä te rupeatte siellä
+Puhuja 3: vierustoverin
+Puhuja 3: kanssa jubpailemaan?
+Puhuja 2: Minun
+Puhuja 2: viimeaikaiset median
+Puhuja 2: kulutukset ovat itse asiassa olleet vielä paljon
+Puhuja 2: synkempiä
+Puhuja 2: kuin
+Puhuja 2: tämä mäiskintä.
+Puhuja 2: Muun muassa
+Puhuja 2: kuuntelin Björctaivsista
+Puhuja 2: pitkän esseen
+Puhuja 2: holokaustista,
+Puhuja 2: ja
+Puhuja 2: muutakin sen tyyppistä on ollut. Mutta nyt
+Puhuja 2: nuo pulitset-palkinnot
+Puhuja 2: Yhdysvaltain ja ehkä maailman merkittävimmät journalistipalkinnot
+Puhuja 2: jaettiin tällä viikolla
+Puhuja 2: ja sitten se on aina myös hyvä tilaisuus katsoa, että mitä kaikkea on missannut tässä,
+Puhuja 2: mitä kaikkea hyvä journalismi on missannut vuoden varrella. Ja
+Puhuja 2: siellä palkittiin tässä audiosaurassa
+Puhuja 2: sarjassa
+Puhuja 2: ja se oli tutkivaa sen kolmas kausi,
+Puhuja 2: joka on tutkivaa journalismia
+Puhuja 2: ja lähihistoriaa
+Puhuja 2: Irakin sodasta.
+Puhuja 2: Siinä selvitetään semmoista tapausta, missä
+Puhuja 2: Yhdysvaltain merijalkaväen
+Puhuja 2: sotilaat tappoi
+Puhuja 2: kaksikymmentäneljä ihmistä
+Puhuja 2: Irakilaiskaupungissa
+Puhuja 2: siviilejä
+Puhuja 2: naisia,
+Puhuja 2: lapsia ja myös
+Puhuja 2: miehiä
+Puhuja 2: ja se on kyllä todella graavi. Siinä siis kuvaillaan paljon, että
+Puhuja 2: ketä ammuttiin
+Puhuja 2: mihinkin ja miltä näytti ja niin edelleen, mutta on se myös todella
+Puhuja 2: huimaa
+Puhuja 2: journalismia, jossa selvitetään, että tavallaan miten se isompi kehys on tavallaan se,
+Puhuja 2: että miten sotarikokset jää rankaisematta
+Puhuja 2: ja miten armeija,
 Puhuja 2: jos armeijan tehtävä on tutkia
-Puhuja 2: omia sotarikoksiaaan, niin miten se
-Puhuja 2: sitten yllättäen nämä sotilaat pääsee kuin
-Puhuja 2: koira vedäjästä.
-Puhuja 2: Ja sitten siinä on myös huikeata, kun ne ovat
+Puhuja 2: omia sotarikoksiaaan,
+Puhuja 2: niin miten se sitten yllättäen
+Puhuja 2: nämä sotilaat pääsee kuin
+Puhuja 2: koira vedäjästä. Ja sitten siinä on myös huikeeta, kun ne on
 Puhuja 2: kaivaneet
-Puhuja 2: niitä sotilaita
-Puhuja 2: puhumaan ja yllättävän moni sitten puhuukin, vaikka moni tietysti kieltäytyi
-Puhuja 2: miten rajusti, vaikka siellä on kenraali,
-Puhuja 2: jonka tehtävä oli tutkia näitä näitä sotarikoksia, niin sitten hän sanoi ihan suoraan, että joo, mutta niillä on eri kulttuuri Lähi-idässä, että ei ne niin keskity näihin kuolleisiin, että ei tätä kannata enää kaivella. Ei se niille ole niin iso juttu tyyppisesti, että koko perhe
-Puhuja 2: tapetaan ja hän sanoo sen siinä ihan
-Puhuja 2: nauhalle.
-Puhuja 2: Ja muitakin vastaavantyyppisiä
+Puhuja 2: niitä sotilaita puhumaan ja yllättävän moni sitten puhuukin, vaikka moni tietysti kieltäytyi, niin miten rajusti, vaikka siellä on kenraali,
+Puhuja 2: jonka tehtävä oli tutkia näitä sotarikoksia, niin sitten hän sanoi ihan suoraan, että joo, mutta niillä on siellä eri kulttuuri Lähi-idässä,
+Puhuja 2: että ei ne niin keskity näihin kuolleisiin, että ei tätä kannata enää kaivella.
+Puhuja 2: Ei se niille ole niin iso juttu tyyppisesti, että sinun koko perhe tapetaan.
+Puhuja 2: Ja hän sanoo sen siinä
+Puhuja 2: ihan nauhalle.
+Puhuja 2: Ja muitakin vähän vastaavan tyyppisiä
 Puhuja 2: ihmisiä on saatu puhumaan. Ja sitten toisaalta on myös paljon puhuttu niiden irakilaisten
-Puhuja 2: omaisten kanssa ja
-Puhuja 2: samalla selvitetään
-Puhuja 2: se on myös semmoinen true crime muodossa oleva, että selvitetään mitä
-Puhuja 2: todella tapahtui.
-Puhuja 1: In the dark.
-Puhuja 1: Kuulostaa kiinnostavalta.
-Puhuja 1: No nuo asiasta ihan seitsemän tee, mutta nuo bullzer-palkinnot,
-Puhuja 1: jotka on ehkä vähän
-Puhuja 1: ylevämpiä kuin meidän
-Puhuja 1: suuri journalistipalkinto
-Puhuja 1: ja muut mitä me saadaan. Liittyykö siihen, saako ne jonkun rahapalkinnon?
-Puhuja 2: Mä en nyt sillä, että lähde tavoittelemaan. Tähän liittyy se anekdootti, että kun Joseph Buliter,
+Puhuja 2: omaisten kanssa
+Puhuja 2: ja samalla selvitetään.
+Puhuja 2: Se on myös semmoinen true crime muodossa oleva, että selvitetään mitä todella
+Puhuja 2: tapahtui.
+Puhuja 2: Inde Dark.
+Puhuja 4: Kuulostaa kiinnostavalta.
+Puhuja 4: Asiasta ihan seitsemän tee, mutta nuo bullzer-palkinnot,
+Puhuja 4: jotka on ehkä vähän
+Puhuja 4: ylevämpiä kuin meidän suuri journalistipalkinto ja muut mitä me saadaan, niin liititkö siihen, saako ne jonkun rahapalkinnon?
+Puhuja 2: Mä en nyt suinkaan. Ei nyt sillä, että lähde tavoittelemaan.
+Puhuja 2: Tähän liittyy se anekdootti, että kun Joseph Bulliter,
 Puhuja 2: joka oli kustantaja
-Puhuja 2: aikoinaan New
-Puhuja 2: Yorkissa halusi
-Puhuja 2: lahjoittaa yliopistolle
-Puhuja 2: rahaa, jotta he perustaisi
-Puhuja 2: ensinnäkin alkaisi kouluttaa journalisteja ja alkaisi palkita niitä. Vuosien ja vuosien ajan se yliopisto kieltäytyi tästä valtavasta rahalahjoituksesta,
-Puhuja 2: koska ne olivat sillä tavalla, että minkä ihmeen takia toimittajia pitäisi A)
-Puhuja 2: kouluttaa, B) palkita.
-Puhuja 0: Minusta tuo on ihan hyvä lähtökohta.
-Puhuja 1: Niin, oli oikeassa.
-Puhuja 1: En tiedä miksi, tai siis tiedän miksi, mutta ihminen
-Puhuja 1: ajautuu kummallisiin vesiin välillä. Olen miettinyt Eerik Horneteriä ja hänen vaimonsa on Margot Horneteriä
-Puhuja 2: tässä viime päivinä. Arvaatteko, minkä takia? Sinun pitää ehkä kertoa meidän kuuli, kuka on Eerik Horneteriä. No, kerron.
-Puhuja 1: Olen siis käynyt katsomassa
-Puhuja 1: Helsingin Kaupunginteatterissa
-Puhuja 1: tällä viikolla näytelmän
-Puhuja 1: Sinun Margot. Meinasin unohtaa etuliitettä, mutta sinun Margot,
-Puhuja 1: joka perustuu merivalkaman
-Puhuja 1: aivan.
-Puhuja 1: Minun mielestäni oli
-Puhuja 1: käsittämätön vääryys, että sinä vuonna kun se julkaistiin, niin se ei ollut Finlandia-palkintoehdokkaana.
-Puhuja 1: Sanottakoon sekin nyt tässä. Se on aivan mahtava. Se on loistava kirja. Se on loistava kirja, ja Meri Valkama on hieno kirjailija ja toimittaja myös.
-Puhuja 1: Kävin tosiaan katsomassa
-Puhuja 1: tämän näytelmän.
-Puhuja 1: Nyt on varmaan näytökset muuten jo ohi, mutta jos nyt joku haluaa vaikka kirjan lukea, niin sen verran kuitenkin uskallan spoilata, että
-Puhuja 1: perusjuoni on sen kaltainen, että siinä on tällainen
-Puhuja 1: kielletty rakkaus,
-Puhuja 1: jossa tämän päähenkilön
-Puhuja 1: isä
-Puhuja 1: DDR:ssä
-Puhuja 1: ollessaan rakastuu toiseen naiseen ja pitää vähän kahta perhettä yhtä aikaa. Tämä tytär sitten vuosikymmeniä
-Puhuja 1: myöhemmin selvittelee,
-Puhuja 1: mitä silloin aikoinaan oli tapahtunut.
-Puhuja 1: Nämä salarakastavaiset
-Puhuja 1: keskenään käyttivät toisistaan
-Puhuja 1: nimiä Erich ja Margot.
-Puhuja 1: Kireet loppuivat sinun Margot kirjauksella aina.
-Puhuja 1: Tietenkin ilmiselvää DDR:ää,
-Puhuja 1: nämä Erh ja Margot Hornetkerin
-Puhuja 1: mukaan. En tiedä, mikä kaikki siellä on temaattisesti
-Puhuja 1: ajattelun taustalla, mikä yhdistää
-Puhuja 1: Hornet-kerien rakkaustarinan ehkä tähän tarinaan. Siinä on varmaan monia tasoja,
-Puhuja 1: mutta olen nyt sitä googlaillut ja selvitellyt eri tavoin, että mikä on tämä huonekkerien
-Puhuja 1: parisuhteen
-Puhuja 1: tausta ja mihin he päätyivät.
-Puhuja 1: Tämä suositus tälle Marcotille,
-Puhuja 1: mutta samalla olen myös miettinyt
-Puhuja 1: Kun siinähän on teemana siinä teatteriesityksessä muistaminen,
-Puhuja 1: että
-Puhuja 1: Kenellä on oikeus omiin muistoihinsa
-Puhuja 1: ja onko DDR:n
-Puhuja 1: ihmisillä,
-Puhuja 1: jotka on elänyt sitä todellisuutta
-Puhuja 1: aikanaan, onko heillä oikeus esimerkiksi
-Puhuja 1: ajatella jotain hyvää
-Puhuja 1: siitä ajasta,
-Puhuja 1: jossa he elivät tai niistä asioista, joita silloin tehtiin tai miten yhteiskunta toimi
-Puhuja 1: tai vai pitääkö siitä vaan ajatella sillä tavalla jotenkin, että se oli väärää ja pahaa ja se pitää unohtaa ja pitää
-Puhuja 1: siirtyä eteenpäin.
-Puhuja 1: Musta se on
-Puhuja 1: hieno näytelmä ja sitten ehkä tietokilpailukysymyksenä
-Puhuja 1: lopuksi
-Puhuja 1: näistä Hornetkereista kysyin, että miten kävi Erik ja Margot Hornetkerille?
-Puhuja 0: Jausesco ammuttiin.
-Puhuja 2: En usko, että Hornetckerin mitään väkivaltaista kävi eikä he varmaan edes joutunut vankilaan. He lähtivät
-Puhuja 1: silloin kun DDR romahti, niin he lähtivät chileen, jossa heidän tyttärensä
-Puhuja 1: asui jo
-Puhuja 1: ilmeisesti silloin, että muuttivat sinne. Huonekerhan 1990-luvulla
-Puhuja 1: mieshuoneeker
-Puhuja 1: kuoli ja sitten Margot Huoneker asui
-Puhuja 1: siellä vielä paljon pidempään, oli elossa.
-Puhuja 1: Ja
-Puhuja 1: Hornet-kirja yritettiin Saksassa tuoda oikeuteen.
-Puhuja 1: Häntä syytettiin
-Puhuja 1: näistä,
-Puhuja 1: kun rajalle ammuttiin ihmisiä,
-Puhuja 1: vastuullisuudesta
-Puhuja 1: näissä.
-Puhuja 1: Hän oli
-Puhuja 1: silloin pahasti syöpäsairas siinä vaiheessa, kun se oikeudenkäynti alkoi ja kesti vähän aikaa ja sitten se lopetettiin, koska hän ei pystynyt enää
-Puhuja 1: siihen vastaamaan.
-Puhuja 2: Saksalaisilla on pitkä historia siinä, että erilaisten rikosten jälkeen mennään eteenpäin.
-Puhuja 1: Eteenpäin. Niin sieltä löytyy. Tällainen monipolvinen
-Puhuja 1: suositus.
-Puhuja 0: Joo, voisin suositella tv-sarjaa. Tämä tulee
-Puhuja 0: Maxilta ja Righters
-Puhuja 0: James Jones
-Puhuja 0: oikeamieliset Jamestod. Jalomieliset
-Puhuja 0: Jamestod.
-Puhuja 0: Juuri tuli neljäs kausi, tuli julki viikko pari sitten ja olen yli kolme aikaisempaa katsonut ja
-Puhuja 0: se on
-Puhuja 0: amerikkalainen
-Puhuja 0: tv-saarnaajaperhe,
-Puhuja 0: jotka
-Puhuja 0: ovat aivan karseeita ne tyypit ja
-Puhuja 0: tavallaan
-Puhuja 0: uskonnon varjolla tekevät fyrkkaa ja koko homma perustuu ainoastaan siihen
-Puhuja 0: miten saadaan ihmiset
-Puhuja 0: maksamaan enemmän
-Puhuja 0: heidän
-Puhuja 0: kirkolleensa rahaa ja siinä on siis isä,
-Puhuja 0: jota
-Puhuja 0: esittää John Guudman, tämä mainio
-Puhuja 0: vanha näyttelijä ja sitten
-Puhuja 0: Gudman väistyvät ja hänen lapsensa, jotka ovat jotenkin
-Puhuja 0: Kyseessä on komedia, mutta tämä on vedetty niin totaalisen överiksi, niin lapset ovat aivan karmeita.
-Puhuja 0: Tämä on siinä tämmöisessä ahneudessaan,
-Puhuja 0: siinä jotenkin törkeydessään ja siinä jotenkin häikäilemättömyydessään.
-Puhuja 0: Tämä sarja voi katsoa sitä kolme
-Puhuja 0: ensimmäistä jaksoa tästä uudesta kaudesta ja sitä ei pysty katsomaan kuin jakson kerralla. Siinä tulee sellainen
-Puhuja 0: niin paha olo ja myötähäpeän tunne.
-Puhuja 1: Myötähäpeää on hirveä.
-Puhuja 0: Sitä ei kerta kaikkiaan pysty katsomaan, mutta
-Puhuja 0: se on ihan mahtava sarja.
-Puhuja 0: Sano se vielä, Rightchers James.
-Puhuja 1: Onpa vaikea. Myötähäpeää on jännä tunne, että
-Puhuja 1: ihmisillä on erilainen sietokyky myötähäpeälle.
-Puhuja 1: Jos
-Puhuja 1: televisiossa tulee joku ohjelma, joskus
-Puhuja 1: on vaikka piilokameroita, että joillekin tehdään jotain kurjaa ja nauretaan päälle, niin mulla hirveän usein on ollut, että minun tekee mielen toiseen huoneeseen, kun en kestä sitä. Ja myötähäpeää on siis kahdenlaista. Se voi kokea myötähäpeää
-Puhuja 0: ja ohjelman tekijöitä miksi teette tämmöistä
-Puhuja 0: näin huonoa. Mutta tässä ei ole kyse siitä, että tämä on tehty tosi taitavasti ja tämä on
-Puhuja 0: mahtava sarja, mutta tässä on myötähäpeää, mikä on tekijöiden tarkoituskin niitä
-Puhuja 0: henkilöiden takia, koska ne on tavallaan, vaikka ne ovat karikatyörejä ja vedetty kauheasti överiksi, mutta kyllä sieltä löytyy
-Puhuja 0: ihmiskunnan
-Puhuja 0: ominaispiirteitä näistä tyypeistä.
-Puhuja 0: Kiitos. Mitä sanoit, että siinä kaikki tältä erää. Siinä kaikki tältä erää. Ja minulla on kuule täällä myös lunttilappu,
-Puhuja 0: minulla ei ole mitään hätää.
-Puhuja 2: Kaikki on ihan hyvin, Marko sinulle.
-Puhuja 1: En halua lisätä taakkaa, mutta alussa ajatit sanomatta,
-Puhuja 1: ja vielä
-Puhuja 1: kiusallisten
-Puhuja 1: vaivaannuttavia.
-Puhuja 0: Sohvi Berner. Kiitos tästä vaan. Ja kiitos Salla Vuoikoski. Minun nimeni on Marko Junkkari.
-Puhuja 0: Äänen, kuvan ja kaiken muun mahtava meille tekee tällä viikolla niin monella muullakin viikolla Janne Elkki.
-Puhuja 0: Lähettäkää meille palautetta:
-Puhuja 0: uutisraportti.
-Puhuja 0: Ja kuullaan taas ensi viikolla.
+Puhuja 2: aikoinaan New Yorkissa halusi lahjoittaa
+Puhuja 2: olympi yliopistolle rahaa,
+Puhuja 2: jotta he perustaisivat
+Puhuja 2: ensinnäkin alkaisi kouluttaa journalisteja ja alkaisi palkita niitä. Niin vuosien ja vuosien ajan se yliopisto kieltäytyi tästä valtavasta rahalahjoituksesta,
+Puhuja 2: koska ne olivat, minkä ihmeen takia toimittajia pitäisi kouluttaa,
+Puhuja 2: B palkita.
+Puhuja 3: Minusta tuo on ihan hyvä lähtökohta.
+Puhuja 4: En tiedä miksi, tai tiedän miksi, mutta ihminen ajautuu kummallisiin vesiin välillä. Olen miettinyt Eerik Horneteriä ja hänen vaimoaansa on Margot huonekkeria tässä
+Puhuja 2: viime päivinä. Arvaatteko minkä takia? Sun pitää ehkä kertoa meidän kuulikoille kukaan Eerikhuone. No kerron.
+Puhuja 4: Olen siis käynyt katsomassa Helsingin Kaupunginteatterissa
+Puhuja 4: tällä viikolla
+Puhuja 4: näytelmän
+Puhuja 4: Sinun margot. Meinasin unohtaa etuliitteen, mutta sinun Margot, joka perustuu Meri Valkaman.
+Puhuja 4: Mun mielestä oli käsittämätön
+Puhuja 4: vääryys, että sinä vuonna, kun se julkaistiin,
+Puhuja 4: niin se ei ollut Finlandia-palkintoehdokkaana.
+Puhuja 4: Sanottakoon sekin tässä. Minusta se on aivan mahtava. Se on loistava kirja. Se on loistava kirja,
+Puhuja 4: Meri Valkava on hieno
+Puhuja 4: kirjailija ja toimittaja myös.
+Puhuja 4: Kävin tosiaan katsomassa
+Puhuja 4: tämän näytelmän.
+Puhuja 4: Nyt on varmaan näytökset muuten jo ohi, mutta jos nyt joku haluaa vaikka kirjan lukea, niin sen verran kuitenkin uskallan spoilata, että
+Puhuja 4: siinähän perusjuoni on sen kaltainen, että siinä on tällainen ikään kuin kielletty rakkaus,
+Puhuja 4: jossa tämän päähenkilön
+Puhuja 4: isä DDR:ssä ollessaan
+Puhuja 4: rakastuu
+Puhuja 4: toiseen naiseen ja pitää vähän tämmöistä kahta perhettä yhtä aikaa. Tämä tytär sitten vuosikymmeniä myöhemmin
+Puhuja 4: selvittelee,
+Puhuja 4: mitä silloin aikoinaan oli tapahtunut.
+Puhuja 4: Nämä salarakastavaiset
+Puhuja 4: keskenään käyttivät toisistaan
+Puhuja 4: nimiä Erik ja Margot.
+Puhuja 4: Kireet loppuivat sinun Margot kirjauksella
+Puhuja 4: aina.
+Puhuja 4: Tietenkin ilmiselvää DDR:ssä,
+Puhuja 4: niin nämä ovat Ers ja Margot HNekkerin
+Puhuja 4: mukaan. En tiedä, mikä kaikki siellä on temaattisesti ajattelun taustalla, mikä yhdistää
+Puhuja 4: huonekerien rakkaustarinan ehkä tähän tarinaan. Siinä on varmaan monia tasoja.
+Puhuja 4: Olen nyt sitä googlaillut ja selvitellyt eri tavoin, että mikä on tämä huonekerien
+Puhuja 4: parisuhteen tausta ja mihin he päätyivät.
+Puhuja 4: Tämä suositus tälle Marcotille,
+Puhuja 4: mutta
+Puhuja 4: samalla olen myös miettinyt,
+Puhuja 4: kun siinähän on teemana siinä teatteriesityksessä
+Puhuja 4: muistaminen.
+Puhuja 4: Kenellä on oikeus omiin muistoihinsa ja onko DDR:n
+Puhuja 4: ihmisillä, jotka on elänyt sitä todellisuutta aikanaan,
+Puhuja 4: onko heillä oikeus esimerkiksi
+Puhuja 4: ajatella jotain hyvää
+Puhuja 4: siitä ajasta,
+Puhuja 4: jossa he elivät tai niistä asioista, joita silloin tehtiin tai miten yhteiskunta toimi
+Puhuja 4: tai
+Puhuja 4: vai pitääkö siitä vaan ajatella sillä tavalla jotenkin, että se oli väärää ja pahaa ja se pitää unohtaa ja pitää siirtyä eteenpäin.
+Puhuja 4: Musta se on
+Puhuja 4: hieno näytelmä ja sitten ehkä tietokilpailun kysymyksenä lopuksi
+Puhuja 4: näistä huoneekkereista kysyin, että miten kävi Eri ja Margot huoneekkerille?
+Puhuja 3: Jaws Esko ammuttiin.
+Puhuja 2: En usko, että Hornetkereille mitään väkivaltaa kävi. Eivät he varmaan edes joutuneet vankilaan. He lähtivät
+Puhuja 4: silloin, kun DDR romahti, he lähtivät chileen,
+Puhuja 4: jossa heidän tyttärensä
+Puhuja 4: asui jo ilmeisesti silloin, muuttivat sinne. Huoneker 1990-luvulla
+Puhuja 4: mieshuoneekker
+Puhuja 4: kuoli ja sitten Margot Huoneker
+Puhuja 4: asui siellä vielä
+Puhuja 4: paljon pidempään elossa.
+Puhuja 4: Horneteriä
+Puhuja 4: yritettiin Saksassa tuoda oikeuteen.
+Puhuja 4: Häntä syytettiin,
+Puhuja 4: kun rajalle ammuttiin ihmisiä
+Puhuja 4: vastuullisuudesta näissä.
+Puhuja 4: Hän oli
+Puhuja 4: silloin pahasti syöpäsairas siinä vaiheessa, kun se oikeudenkäynti alkoi ja kesti vähän aikaa ja sitten se lopetettiin, koska hän ei pystynyt enää
+Puhuja 4: siihen vastaamaan. Saksalaisilla
+Puhuja 2: on pitkä historia siinä, että erilaisten rikosten jälkeen mennään
+Puhuja 2: eteenpäin. Niin sieltä löytyy.
+Puhuja 4: Tällainen monipolvinen
+Puhuja 4: suositus.
+Puhuja 3: Joo, voisin suositella tv-sarjaa.
+Puhuja 3: Tämä tulee
+Puhuja 3: Maxilta ja Righters
+Puhuja 3: James Stons
+Puhuja 3: Eli kaksi oikeamieliset
+Puhuja 3: Jamesstone.
+Puhuja 3: Jalamieliset
+Puhuja 3: Jamesstoneit.
+Puhuja 3: Juuri tuli neljäs kausi, tuli julki viikko pari sitten ja olin kolme aikaisempaa katsonut ja
+Puhuja 3: se kertoo siis, se on amerikkalainen
+Puhuja 3: tv-saarnaajaperhe,
+Puhuja 3: jonka jatkavat
+Puhuja 3: aivan karseeita ne tyypit ja
+Puhuja 3: tavallaan uskonnon varjolla tekee fyrkkaa ja koko homma perustuu ainoastaan
+Puhuja 3: siihen miten saadaan ihmiset maksamaan
+Puhuja 3: enemmän
+Puhuja 3: heidän kirkolleen sitä rahaa ja siinä on siis isä,
+Puhuja 3: jota
+Puhuja 3: esittää John Guudman, tämä
+Puhuja 3: mainio vanha näyttelijä
+Puhuja 3: Gudman väistyy ja hänen lapsensa,
+Puhuja 3: jotka ovat jotenkin, kyseessä on komedia, mutta tämä on vedetty niin totaalisen överiksi, niin lapset ovat aivan karmeita.
+Puhuja 3: Tämä on siinä tämmöisessä ahneudessaan,
+Puhuja 3: siinä
+Puhuja 3: jotenkin törkeydessään ja siinä jotenkin häikäilemättömyydessään.
+Puhuja 3: Tämä sarja katsoin
+Puhuja 3: sitä kolme
+Puhuja 3: ensimmäistä jaksoa tästä uudesta kaudesta ja sitä ei pysty katsomaan kuin jakson kerralla. Siinä tulee sellainen
+Puhuja 3: jotenkin niin paha olo ja myötähäpeän
+Puhuja 3: tunne.
+Puhuja 4: Myötähäpeää on hirveä. Ja
+Puhuja 3: sitä ei kerta kaikkiaan pysty katsomaan, mutta
+Puhuja 3: se on ihan mahtava sarja.
+Puhuja 3: Sanopa vielä, Richers, Richers
+Puhuja 4: James. Onpa vaikea. Myötähäpeä on jännä tunne, että
+Puhuja 4: ihmisillä on erilainen sietokyky
+Puhuja 4: myötähäpeälle.
+Puhuja 4: Koska mulla on usein se, että jos televisiossa
+Puhuja 4: tulee joku ohjelma, jossa joskus on vaikka piilokameroita,
+Puhuja 4: että joillekin tehdään
+Puhuja 4: kurjaa
+Puhuja 3: ja nauretaan päälle, niin mulla hirveän usein on ollut, että minun tekee mieli mennä toiseen huoneeseen, kun en kestä sitä. Ja myötähäpeää on siis kahdenlaista. Siinä voi kokea myötähäpeää sitä ohjelman tekijöitä kohtaan, miksi teette tämmöistä näin huonoa. Mutta tässä ei ole kyse siitä, että tämä on tehty tosi taitavasti ja tämä on ihan
+Puhuja 3: mahtava sarja, mutta tässä
+Puhuja 3: on myötähäpeää mikä on tekijöiden tarkoitus
+Puhuja 3: henkilöiden takia, koska ne on tavallaan, vaikka olivat karikatyörejä
+Puhuja 3: ja vedetty kauheasti överiksi, mutta kyllä sieltä löytyy ihmiskunnan
+Puhuja 3: ominaispiirteitä
+Puhuja 3: tällaisista tyypeistä.
+Puhuja 3: Kiitos. Mitä sanoit, että siinä kaikki tältä erää. Siinä kaikki tältä erää. Ja minulla on kuule täällä myös lunttilappu,
+Puhuja 3: minulla ei ole mitään hätää.
+Puhuja 2: Kaikki on ihan hyvin, Markku.
+Puhuja 4: En halua lisätä taakkaa, mutta alussa ajatit sanomatta,
+Puhuja 3: sitten Salla taisi lähteä.
+Puhuja 3: No niin, nyt mulla on ollut tilaa. Siinä kaikki tältä erää. Kiitos Sohvi Berner. Kiitos, vaan. Kiitos Salla Vuorikoski. Minun nimeni on Marko Junkkari.
+Puhuja 3: Äänen, kuvan ja kaiken muun mahtava meille tekee tällä viikolla kuten niin monella muullakin viikolla Janne Elkki.
+Puhuja 3: Lähettäkää meille palautetta:
+Puhuja 3: uutisraportti.
+Puhuja 3: Kuullaan taas ensi viikolla.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Maikko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen
+Puhuja 0: avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a Kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

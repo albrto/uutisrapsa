@@ -33,217 +33,479 @@ Puhuja 0: loiseläimistä.
 Puhuja 0: Kolmantena aiheena on sitten Itämeri, josta Sara tietää
 Puhuja 2: kaiken. Jotain.
 Puhuja 0: Aloitetaan Afganistanista.
-Puhuja 0: Tänään oli hallituksen info, missä oli Tuella vaikka Pietarin
-Puhuja 2: jätevesilaitoksissa on pystytty
-Puhuja 2: vuosikymmenien aikana
-Puhuja 2: saamaan laskettua.
-Puhuja 1: Tämä on
-Puhuja 1: kiinnostavaa.
-Puhuja 1: Oliko sinulle selville lainkaan, että mistä nämä esimerkiksi nekin erot johtuvat tai miksi Venäjällä tässä on menty eteenpäin ja sitten taas Puolassa?
-Puhuja 2: Sen verran korjaan itseni, että Venäjällä ei ole viime vuosina päästy eteenpäin, mutta ei ole toisaalta Suomessakaan.
-Puhuja 2: Kaiken maailmassa
-Puhuja 2: maatalouden hajapäästöt ja muut
-Puhuja 2: niin
+Puhuja 0: Tänään oli hallituksen info, jossa oli
+Puhuja 0: puolustusministeri
+Puhuja 0: Kaikkonen ja ulkoministeri Haavisto. Oliko siellä muita ministereitä paikalla?
+Puhuja 2: Ainakin Sarkkinen taisi olla. Kyllä. Ja Migrin johtaja.
+Puhuja 2: Nämä tulee mieleen. Kyllä.
+Puhuja 0: Pystytkö Sara, että ainakin jossain määrin seurasit sen infon me muut.
+Puhuja 0: Mitä uutta tänään
+Puhuja 0: Mitä siellä sanottiin?
+Puhuja 2: Ei ihan hirveästi uutta,
+Puhuja 2: mutta käytännössä siellä
+Puhuja 2: kerättiin se
+Puhuja 2: Suomen
+Puhuja 2: operaatio. Suomalaiset on siis tulleet sieltä
+Puhuja 2: pois ja heidän mukanaan
+Puhuja 2: yli kolmesataa ihmistä
+Puhuja 2: evakuoitu.
+Puhuja 2: Mutta toki myös kymmeniä
+Puhuja 2: evakuointilistalla
+Puhuja 2: olleita ihmisiä
+Puhuja 2: on jäänyt sinne
+Puhuja 2: Kabuliin tai Afganistaniin
+Puhuja 2: jäljelle.
+Puhuja 0: Kyllä ja
+Puhuja 0: siellä oli jonkinlainen määrä suomalaisia sotilaita.
+Puhuja 0: Jossain
+Puhuja 0: vaiheessa
+Puhuja 0: ulkoasiainvaliokunnan
+Puhuja 0: puheenjohtaja sanoi kolmekymmentä,
+Puhuja 0: niin milloin niiden piti palata? Sitähän
+Puhuja 1: ei kerrottu julkisesti tai määritelty, mutta pitkin viikkoa ne tiedot oli kyllä sellaisia, että
+Puhuja 1: minäkin olin siinä käsityksessä, että he tulisivat joka tapauksessa viimeistään perjantaina
+Puhuja 1: pois, mutta eihän sitä ole tullut lukkoon lyöty. En tiedä missä määrin
+Puhuja 1: eilen
+Puhuja 1: iso terrori-isku
+Puhuja 1: vaikutti
+Puhuja 1: siihen
+Puhuja 1: päätökseen.
+Puhuja 1: Koko ajan oli oletus, että eurooppalaiset tulee sieltä pois kuitenkin ennen Yhdysvaltain
+Puhuja 1: määräaikaa, joka on kolmekymmentäyksi.
+Puhuja 1: Päivä.
+Puhuja 1: Mikä päivä nyt?
+Puhuja 1: Iso osa eurooppalaisista maista olisi viimeistään vetäneet
+Puhuja 1: joukkoja pois muutenkin.
+Puhuja 0: Kyllä.
+Puhuja 0: Vähän yli kolmesataa
+Puhuja 0: ihmistä evakuoitua.
+Puhuja 0: Onko
+Puhuja 0: se paljon vai vähän?
+Puhuja 2: Minusta se kuulostaa hirveän vähältä, mutta en voi sanoa olevan asiantuntija
+Puhuja 2: tässä tilanteessa. Niin
+Puhuja 1: no yhteensähän sieltä on evakuoitu. Oliko eilen kahdeksankymmentä
+Puhuja 1: nolla. En tiedä mikä se viimeisin luku tällä hetkellä on. Sieltä on tullut kuitenkin sen jälkeen, kun se saatiin pyörimään,
+Puhuja 1: vajaa kaksikymmentä nolla päivässä. Kolmekymmentä sataa on siitä tietysti aika vähän.
+Puhuja 1: Mutta ehkä jos ottaa huomioon, että tavallaan
+Puhuja 1: ilmeisesti se Suomen evakuointi saatiin kunnolla käyntiin vasta, kun sotilaat lähetettiin sinne. Jos te luitte tänään
+Puhuja 1: kollegamme
+Puhuja 1: Paavo Teittinen teki musta hyvän jutun siitä, että kun siinä alun perin lähetettiin ne pari ulkoministeriön virkamiestä,
+Puhuja 1: niin hyvin nopeasti huomasivat, että ne kaksi virkamiestä ei voi siellä tehdä mitään, koska jenkit edellyttivät käytännössä.
+Puhuja 0: Hänen vertais häntä Ahti Pekkalaan, joka on aikoinaan kebulainen valtiovarainministeri.
+Puhuja 0: Ei
+Puhuja 0: tämmöisissä päivän poliittisissa hulinoissa mukana, vaan tekee taustalla
+Puhuja 0: järjestelmällistä ja huolellista työtä ja selvittää asiat. Ja on tosi särmä edustaja.
+Puhuja 0: Oikeastaan
+Puhuja 0: sen
+Puhuja 0: ekan
+Puhuja 0: edustajakautensa
+Puhuja 0: aikana ainut kerta, kun hän pääsi kunnolla julkisuuteen, kun
+Puhuja 0: istui hallintovaliokunnassa Mikko Kärnän kanssa. Mikko Kärnäjä pylväs oli ollut olla hallintovaliokunnan
+Puhuja 0: reissulla
+Puhuja 0: tutustumassa Välimeren
+Puhuja 0: maahanmuuttajien salakuljetukseen ja tähän. Sitten ne panivat ihan käsittämättömän tiedotteen, missä ne halusi...
+Puhuja 0: Jos muistan oikein, niin EU:n nopean toiminnan joukot olisivat ruvenneet iskemään
+Puhuja 0: näiden salakuljettajien
+Puhuja 0: veneisiin
+Puhuja 0: asein.
+Puhuja 0: Tällä tavalla estänyt tämän näin. Sen jälkeen hän taas vaikeni
+Puhuja 0: täysin julkisuudessa.
+Puhuja 0: Nythän nousi keskustan
+Puhuja 0: Eduskunnan puheenjohtajaksi, joka on merkittävä pesti.
+Puhuja 0: Ja itse asiassa puolueen puheenjohtaja.
+Puhuja 0: Annika Saarikko ei ole niin kuin Juha Pylväksen pomo. Se, että Annika Saarikko vaikutti tuskaiselta Pylväksen puheen jälkeen, niin hän ei oikeastaan myöskään
+Puhuja 0: tämmöisen puoluee
+Puhuja 0: ei voi
+Puhuja 0: julkisesti moittiakaan sitä, koska eduskuntaryhmäpuheenjohtaja
+Puhuja 0: on oma
+Puhuja 0: vallankäyttäjä
+Puhuja 0: siinä eduskuntaryhmässä. Eduskuntaryhmä
+Puhuja 0: on myös
+Puhuja 0: Annika Saarikon pomo,
+Puhuja 0: koska hän on ministeri. Se oli niin kuin... Olettaisin, että Annika Saarikolle todella kiusallinen tilanne
+Puhuja 0: ei voinut sanoautua oikein irti niistä, koska se olisi näyttänyt omituiselta.
+Puhuja 0: Ja ilmeisesti on käyty taustakeskusteluja
+Puhuja 0: ja pientä maanittelua. Ja sitten vuorokautta myöhemmin Juha pylväs Facebookiin kirjoittaa,
+Puhuja 0: että sori, huono sanavalinta.
+Puhuja 1: Niin, tämä jotenkin... Tietysti nyt tällaisessa tulee mieleen, että puolue ajaa kaksilla rattailla.
+Puhuja 1: Yksihän puhuttiin tästä joskus aiemminkin, kun se helposti toimittajan ja tietenkin politiikkaa seuraavat toimittajat haluaa nähdä aina kaikessa peliä.
+Puhuja 1: Ja
+Puhuja 1: sanotaan puolueen valitsemaa linjaa, että ajetaan kaksilla rattailla ja niin edelleen. Sitten
+Puhuja 1: eräs kokenut ulkomaantoimittajaa. Minulle joskus
+Puhuja 1: aikoinaan opasti, että
+Puhuja 1: todennäköisyys selitys useimmissa tilanteissa on kuitenkin vain ihan puhdas sekoilu.
+Puhuja 1: En tiedä
+Puhuja 1: kumpi pätee tähän tilanteeseen, mutta on siinä erikoinen
+Puhuja 1: tilanne, että kun puoluejohtohenkilöiden
+Puhuja 1: sanomassa on niin hirveän suuri ero suhteessa.
+Puhuja 2: Ei, mutta onko niissä niin suuri ero? Minä ymmärsin.
+Puhuja 2: En tiedä luinko sitä väärin, mutta luin jotain meidän juttua,
+Puhuja 2: josta ymmärsin, että Saarikolla olisi kuitenkin vähän samanlaisia
+Puhuja 2: näkemyksiä, että kyllä niihin tänne töihin pitäisi tulla. Ehkä se viesti, puhetapa...
+Puhuja 0: Kyllä. Saarikko käytti puheenvuoroa, minkä hän sanoi, että silloin kaksituhatta viisitoista, kun Suomeen tuli tai kolmekymmentä 000-kolmekymmentäviisi nolla turvapaikanhakijaa. Siellä iso osa oli tämmöisiä.
+Puhuja 0: Tulivat
+Puhuja 0: paremman elämän perässä, eivätkä käyttivät
+Puhuja 0: järjestelmää hyväkseen. Tämä
+Puhuja 0: nyt ei ole sinänsä kauhean tavaton näkemys, koska näinhän sen asian voi sanoa, että ehkä tässä se ongelma oli just tämä kielenkäyttö.
+Puhuja 0: Mä
+Puhuja 0: en vilpittömästi tiedä. Minusta näytti se, että Juha pylväs ehkä niin kuin...
+Puhuja 0: Hän
+Puhuja 0: ryhmänjohtajaksi
+Puhuja 0: tuossa
+Puhuja 0: ennen kesää. Eihän hän oikeastaan näkynyt
+Puhuja 0: julkisuudessa millään tavalla.
+Puhuja 0: Eduskuntaryhmien
+Puhuja 0: kesäkokoukset
+Puhuja 0: aina saa julkisuutta ja ehkä hän halusi
+Puhuja 0: puhua räväkästi ja kansanomaisesti.
+Puhuja 0: En tiedä oliko siinä...
+Puhuja 0: Miten harkittua se oli? En tiedä. Mutta kyllähän
+Puhuja 0: keskusta itse väittää olevansa tämmöinen ihmisyyspuolue ja humanismi on siellä
+Puhuja 2: aikaa. Mutta paremman elintason perässä ei saa yrittää mennä muualle
+Puhuja 2: tässä maailmassa. Se ei kuulu ihmisyyteen.
+Puhuja 2: Ehkä
+Puhuja 0: se, mitä Saarikko sanoi, väärinkäyttöä turvapaikkajärjestelmää.
+Puhuja 1: Niin, mutta kävin siis joskus puolitoista vuotta.
+Puhuja 1: Tuntuu, että siitä on ikuisuus, kun tässä välissä on jotenkin maailma ehtinyt
+Puhuja 1: nyrjähtää enkä ole paljon juttumatkoja päässyt tekemään sen jälkeen. Mutta kävin siis Oulussa,
+Puhuja 1: Oulun lähellä Sievissä tekemässä juttua
+Puhuja 1: metallimiehistä,
+Puhuja 1: kun siellä on siis todella kova pula
+Puhuja 1: särömääjistä,
+Puhuja 1: jotka
+Puhuja 1: työstävät metallia.
+Puhuja 1: Siellä alueella on oikeasti kova työvoimapulana yrittänyt houkutella
+Puhuja 1: kaikin keinoin
+Puhuja 1: televisijakampanjoilla
+Puhuja 1: ja messuilla. Miten
+Puhuja 1: työntekijöitä, mutta sinne ei saada niitä.
+Puhuja 1: Sinne ne oli työllistävät jonkun verran turvapaikanhakijoita.
+Puhuja 1: Silloin tuli puhetta myös keskustalaisten kanssa siitä, että
+Puhuja 1: itse asiassa
+Puhuja 1: kokeneet toivoneet hallitusohjelmaan siitä,
+Puhuja 1: että
+Puhuja 1: turvapaikanhakijoiden pitäisi pystyä jäämään tänne työluvalla,
+Puhuja 1: helpommin.
+Puhuja 1: Jos oletan, että sinulla tulee vaikka vihreiltä.
+Puhuja 1: Mutta esimerkiksi sielläkin
+Puhuja 1: voi olla monenlaisia esteitä sille työllistymiselle. Voidaan joskus puhua pidemmän meidän kotoutumisjärjestelmästä
+Puhuja 1: ja siitä pitäisikin puhua.
+Puhuja 1: Mutta sitten on esimerkiksi perheen yhdistämistapaukset,
+Puhuja 1: että mitkä on edellytykset sille, että me saadaan ihmisiä jonnekin
+Puhuja 1: Sieviin, vaikkapa töihin ja saadaan ne myös pysymään siellä. Yksi olisi varmaan se, että he saisi sinne perheensä, että he saisi sinne työluvan ja niin edelleen.
+Puhuja 1: Jos
+Puhuja 1: keskustellaiset oikeasti haluaa
+Puhuja 1: turvapaikanhakijoita töihin,
+Puhuja 1: niin voitaisiin puhua käytännön
+Puhuja 1: asioista.
+Puhuja 1: Tai
+Puhuja 1: tavallaan ihmisryhmä ja sitten vaan tarpeettomasti leimaava puhe tuntuu jotenkin joltain ihan muualta.
+Puhuja 0: Ehkä vielä Sara...
+Puhuja 0: Luulen, että isoin
+Puhuja 0: ongelma oli kyllä se kielenkäyttö.
+Puhuja 0: Minun on vaikea nähdä, että keskusta olisi siirtynyt johonkin tässä
+Puhuja 0: turvapaikka näkemyksessä. Ei varmastikaan.
+Puhuja 2: En halunnut, että kuulostaa siltä, että niillä olisi täysin vastakkaiset näkemykset näistä asioista. Vaan nimenomaan niin päin, että ne käyttää erilaista kieltä.
+Puhuja 0: Sitten vielä ajattelin sanoa, että kiinnostavan erään keskustalaisen kanssa juttelin eilen. Hän piti jo täysin varmana, että Juha pylväs lentää
+Puhuja 0: siitä ryhmänjohtajan paikaltaan. Seuraava paikkaan siis helmikuussa, kun
+Puhuja 0: eduskunta palaa joululomalta ja silloin aina valitaan uudet ryhmätrit. En ole ihan varma tästä.
+Puhuja 0: En tiedä, kuka siellä olisi vaihtoehto.
+Puhuja 0: Ehkä Eeva Kallio, en tiedä.
+Puhuja 0: Mutta
+Puhuja 0: koko tämän keskustan
+Puhuja 0: palikat on nyt laitettu silleen, että
+Puhuja 0: jonkun johtajan pitää olla kotoisin Pohjois-Pohjanmaalta,
+Puhuja 0: koska Pohjois-Pohjanmaa on keskustan
+Puhuja 0: ydinaluetta. Ja Juha pylväs oli ainoa vaihtoehto, kun
+Puhuja 0: Juha Sipilää ei enää oikein nappaa. Se oli pakko laittaa siihen, mutta en tiedä vaihtuuko sitten helmikuussa.
+Puhuja 0: Puhutaanko Itämerestä?
+Puhuja 0: No niin.
+Puhuja 0: Nyt
+Puhuja 0: on Itämeri-viikko. Teskamari, että tällä viikolla on vedetty Itämeri-viikkoa.
+Puhuja 1: En tuohon, että tiesin, koska te sanoitte, että se on tämän esityksen aihe. Mutta
+Puhuja 1: muutin tällä viikolla, mennyt ehtinyt muuttolaatikoita
+Puhuja 1: purkamaan vielä.
+Puhuja 1: Lapsi meni ilman kalsareita päivähoitoon, koska en muuten
+Puhuja 1: tiedä.
+Puhuja 1: Jos
+Puhuja 0: en ole lukenut kaikkia uutisia. No niin, joka päivässa on Itämeri-viikko,
+Puhuja 0: Muun muassa ainakin esimerkiksi Espan lavalla on koko viikon ollut
+Puhuja 0: Itämeren aiheista keskustelua.
+Puhuja 0: Se on Savon-teatterin
+Puhuja 0: ja Hesari on siinä mukana järjestämässä.
+Puhuja 0: Jumahdin vaan katsomaan
+Puhuja 0: missä oli muun muassa Paavo Lipponen siellä Espanlla puhumassa Itämeren tilasta pari päivää sitten. Sara,
+Puhuja 0: olet ulkomaantoimittajaa,
+Puhuja 0: mutta onko kyllä Itämeri, vaikka tuntuu että se on vähän niin kuin meidän kotiveri, mutta siinä
+Puhuja 2: on ulkomaita ympärillä. Siellä on ulkomaan kulmia tähän aiheeseen. Haluan antaa synninpäästön
+Puhuja 2: kaikille niille, jotka ei ole ehtinyt tällä viikolla
+Puhuja 2: hirveästi paneutua Itämer-asiaan.
+Puhuja 2: Ymmärrän vaikka, että Afganistan on voinut olla monella enemmän mielen päällä
+Puhuja 2: ulkomaan-aiheista.
+Puhuja 2: Mutta Itämerestä
+Puhuja 2: sellainen asia on varmaan aika monella
+Puhuja 2: suomalaisella.
+Puhuja 2: Sellainen asenne
+Puhuja 2: tai mielikuva, että
+Puhuja 2: suomalaiset vetää tätä projektia
+Puhuja 2: ja
+Puhuja 2: Venäjällä esimerkiksi sieltä
+Puhuja 2: tulee hirveästi päästöjä
+Puhuja 2: ja he eivät halua tehdä mitään.
+Puhuja 2: Haluaisin ottaa positiivisia
+Puhuja 2: uutisia,
+Puhuja 2: että se ei pidä paikkaansa. Olen tällä viikolla haastatellut
+Puhuja 2: näitä Itämeren suojelutyötä
+Puhuja 2: tekeviä tahoja ja
+Puhuja 2: siellä
+Puhuja 2: ollaan ylipäätään aika mielissään
+Puhuja 2: Venäjän toimesta.
+Puhuja 2: Siellä on saatu
+Puhuja 2: tosi isoja
+Puhuja 2: käytännön päästövähennyksiä aikaan, joissa
+Puhuja 2: suomalaiset tahot on ollut mukana
+Puhuja 2: rahoittamassa osan ja
+Puhuja 2: ehkä auttamassa projekteissa
+Puhuja 2: tai ideoimassa,
+Puhuja 2: mutta kyllä siellä on myös ihan venäläistä rahaa laitettu näihin toimiin.
+Puhuja 2: Sen sijaan
+Puhuja 2: valitettavasti
+Puhuja 2: Puola
+Puhuja 2: vastaa sitä mielikuvaa, mikä meillä
+Puhuja 2: on siitä
+Puhuja 2: Venäjästä,
+Puhuja 2: että
+Puhuja 2: siellä
+Puhuja 2: viranomaiset
+Puhuja 2: pimittää
+Puhuja 2: näitä päästöjä.
+Puhuja 2: Minkälaisia
+Puhuja 2: tietoja niistä päästöistä tai mittauksia ei pystytä tekemään.
+Puhuja 2: Siellä saattaa ikään kuin muhiättää
+Puhuja 2: seuraava.
+Puhuja 2: Siellä rannalla on isoja fosforikasoja,
+Puhuja 2: jotka valuu Itämereen mahdollisesti tälläkin hetkellä.
+Puhuja 2: Jos tämä pitää paikkansa niin käytännössä sieltä tulee enemmän päästöjä kuin mitä täällä koko suojelutyöllä vaikka Pietarin jätevesilaitoksissa
+Puhuja 2: on pystytty
+Puhuja 2: vuosikymmenien
+Puhuja 2: aikana saamaan laskettua.
+Puhuja 1: Kiinnostava.
+Puhuja 1: Onko sinulla selvinnyt lainkaan, että mistä
+Puhuja 1: nämä
+Puhuja 1: erot johtuvat tai miksi Venäjällä tässä on menty eteenpäin ja sitten olisi Puolassa?
+Puhuja 2: Sen verran korjaan itseni, että Venäjällä ei ole viime vuosina päästy eteenpäin, mutta ei ole toisaalta Suomessakaan. Kaiken maailmassa
+Puhuja 2: maatalouden hajapäästöt ja muut, niin
 Puhuja 2: käytännössä tämä
-Puhuja 2: päästöjen vähennys ei ole mennyt eteenpäin. Mutta
-Puhuja 2: Niinpä, käytännössä siellä ei ole ollut
-Puhuja 2: niin isoja poliittisia
-Puhuja 2: esteitä ennen kuin Krimin
-Puhuja 2: valtauksen jälkeen tämmöiset kansainväliset
-Puhuja 2: rahoitetut hankkeet
-Puhuja 2: on vaikeutunut tosi paljon.
+Puhuja 2: suojeltu vähennys ei ole mennyt eteenpäin.
+Puhuja 2: Mutta
+Puhuja 2: niinpä käytännössä siellä ei ole ollut
+Puhuja 2: niin isoja poliittisia esteitä
+Puhuja 2: ennen kuin tosiaan Krimin
+Puhuja 2: valtauksen jälkeen tämmöiset
+Puhuja 2: kansainväliset
+Puhuja 2: isot rahoitetut hankkeet on
+Puhuja 2: vaikeutunut tosi paljon.
 Puhuja 2: Tämän
 Puhuja 2: Markku Porvarin
-Puhuja 2: kanssa John Nurmisen säätiössä
-Puhuja 2: näitä projekteja hoitamassa, niin
-Puhuja 2: hänen
-Puhuja 2: näkemyksensä mukaan
+Puhuja 2: kanssa John Nurmisen
+Puhuja 2: säätiössä
+Puhuja 2: näitä projekteja
+Puhuja 2: hoitamassa, niin hänen näkemyksensä
+Puhuja 2: mukaan
 Puhuja 2: Venäjällä on siis ollut yksityisiä
-Puhuja 2: yrityksiä, pörssiyrityksiä,
+Puhuja 2: pörssiyrityksiä,
 Puhuja 2: joilla on ollut
 Puhuja 2: käytännössä mainehaitta,
 Puhuja 2: kun näitä päästöjä on tullut ilmi.
-Puhuja 2: Se on ollut osa motivaatiota saada niitä korjattua aiempina vuosina.
+Puhuja 2: Se on ollut osa sitä motivaatiota saarita
+Puhuja 2: korjattua aiempina vuosina.
 Puhuja 2: Puolassa nämä isot fosforikasat,
-Puhuja 2: vaikka rannikolla on siis valtion
-Puhuja 2: tehtaiden
+Puhuja 2: vaikka rannikolla on siis
+Puhuja 2: valtion tehtaiden
 Puhuja 2: fosforikasoja
-Puhuja 2: ja siellä ei
-Puhuja 2: ole hänen mielestään
-Puhuja 2: motivaatiota tämän takia
-Puhuja 2: ollut
-Puhuja 2: hoitaa
-Puhuja 2: niitä tai antaa mittauksia.
-Puhuja 0: Jos muistan oikein, niin enkä välttämättä muista, mutta
+Puhuja 2: Siellä ei ole hänen mielestään motivaatiota
+Puhuja 2: tämän takia
+Puhuja 2: ollut hoitaa niitä tai antaa mittauksia.
+Puhuja 0: Jos muistan oikein, niin enkä välttämättä muistanut.
+Puhuja 0: Mutta Pietari
 Puhuja 0: on päästävä
-Puhuja 0: aina kaikki vetäetä suoraan Itämereistä, puhutaan siis takavuosista.
+Puhuja 0: aina kaikki jätevetäään suoraan Itämereistä. Puhutaan siis takavuosista.
 Puhuja 2: Niin takavuosina, kyllä.
-Puhuja 0: Ja siinä
-Puhuja 0: oli mun mielestä myös suomalainen Kemira, joka on myös
+Puhuja 0: Ja sinne
+Puhuja 0: rakennettiin ja siinä oli mun mielestä myös suomalainen Kemira, joka on myös veden
 Puhuja 0: vedenpuhdistamiskemikaaleja
-Puhuja 0: sun muuta. Mutta sinne rakennettiin erilaisilla Euroopan investointipankin
-Puhuja 0: ja muiden ulkomaisten rahoittajien rahoilla ainakin se ensimmäinen vedenpuhdistamo.
+Puhuja 0: sun muuta. Mutta sinne rakennettiin erilaisella Euroopan investointipankin
+Puhuja 0: ja muiden ulkomaisten
+Puhuja 0: rahoittajarahoilla ainakin se ensimmäinen vedenpuhdistamo.
 Puhuja 2: Siinä on ollut Suomen valtion mukana myös. Kyllä.
 Puhuja 0: Onko se isoin yksittäinen asia
 Puhuja 0: Venäjän muuttumisessa?
-Puhuja 2: Ne ja sitten
-Puhuja 2: Eurocamn
-Puhuja 2: fosfforitehdas,
+Puhuja 2: Ja sitten
+Puhuja 2: Eurokemin fosfforitehdas,
 Puhuja 2: johon liittyy
 Puhuja 2: suomalainen sankaritarina.
-Puhuja 2: Tutkija Seppo Knuuttila on ottanut
+Puhuja 2: Tutkija
+Puhuja 2: Teppo Knuuttila on ottanut
 Puhuja 2: mittauksia vedestä, paljastanut
 Puhuja 2: valtavan,
 Puhuja 2: yhteensä paljon,
 Puhuja 2: yksittäin paljon isompi kuin
-Puhuja 2: jätevesipuhdistamot
-Puhuja 2: Pietarissa
-Puhuja 2: tämmöisen fosforipäästön.
+Puhuja 2: jäteviestipuhdistamot
+Puhuja 2: Pietarissa.
+Puhuja 2: Tämmöisen fosforipäästön.
 Puhuja 2: Tämä yritys on yrittänyt kieltää sen. Knuuttila pidätettiin
 Puhuja 2: FSB
 Puhuja 2: takavarikon hänen tietokoneensa.
 Puhuja 2: Olisiko ollut kaksituhatta yksitoista tai kaksituhatta kaksitoista,
-Puhuja 2: Mutta sitten tosiaan he ovat myöhemmin joutuneet myöntämään tämän ja se saatiin tukittua.
-Puhuja 2: Se yksin oli vastuussa
+Puhuja 2: mutta sitten tosiaan ovat myöhemmin joutuneet myöntämään tämän ja se saatiin tukittua. Se yksin oli vastuussa
 Puhuja 2: monen kymmenen prosentin alennuksesta koko tästä Suomenlahden
 Puhuja 2: fosforipäästöistä.
 Puhuja 2: Tai ainakin tunnetuista ja tiedetyistä.
 Puhuja 0: Voiko sanoa, että
 Puhuja 0: Itämeri ei ole lopullisesti tuhoutunut, vaan joskus se on
 Puhuja 0: vielä kristallinkirkassa.
-Puhuja 2: Olin itse ainakin yllättynyt. Mulla on ollut tosi negatiivinen kuva siitä, että tää nyt vaan saastuu tää meidän meri, mutta kokonaisuutena
-Puhuja 2: Itämeren tila on ehkä tämän viikon podcast-aiheista
-Puhuja 2: se positiivinen uutinen.
+Puhuja 0: Susimielinen. Mutta
+Puhuja 2: olin itse ainakin yllättynyt. Mulla on ollut tosi negatiivinen kuva siitä, että tää nyt vaan saastuu tää meidän meri.
+Puhuja 2: Mutta kokonaisuutena
+Puhuja 2: Itämeren tila on tämän viikon podcast-aiheista
+Puhuja 2: positiivinen
+Puhuja 2: uutinen.
 Puhuja 2: Siellä on siis saatu vaan konkreettisesti
 Puhuja 2: jo vuosikymmeniä
 Puhuja 2: aloitettua nämä toimet ja on saatu niin semmoisia isoja pistepäästöjä
 Puhuja 2: tavallaan ratkaistua,
-Puhuja 2: että siinä on menty tavallaan päinvastoin kuin ilmastonmuutoksessa,
+Puhuja 2: että
+Puhuja 2: siinä on menty tavallaan päinvastoin kuin ilmastonmuutoksessa,
 Puhuja 2: että
 Puhuja 2: vuosikymmeniä on tehty asioita ja nyt aletaan viiveellä nähdä
 Puhuja 2: niitä hedelmiä. Ja vaikka me
 Puhuja 2: nyt ei saataisi enää tehtyä niin paljon
 Puhuja 2: muutoksia, niin se tulee vuosikymmeniä vielä paranemaan
 Puhuja 2: luultavasti se veden tila. Eli nyt
-Puhuja 2: vaan saada nauttia niistä aiemmista hyvistä päätöksistä
+Puhuja 2: vaan saada nauttia aiemmista hyvistä päätöksistä
 Puhuja 2: verrattuna
 Puhuja 2: esimerkiksi tähän ilmastonmuutoskeskusteluun,
 Puhuja 2: jossa aina
 Puhuja 2: toistetaan, että jos oltaisiin tehty
-Puhuja 2: vuosikymmeniä sitten näin, niin nyt meillä olisi jonkinlainen parempi tilanne,
+Puhuja 2: vuosikymmeniä sitten näin niin nyt meillä olisi jonkinlainen parempi tilanne,
 Puhuja 2: mutta päästöhuippua
-Puhuja 2: ei ole edes nähty vielä.
-Puhuja 2: Kokonaisuutena
+Puhuja 2: ei ole tosiaan edes nähty vielä
+Puhuja 2: kokonaisuutena
 Puhuja 2: hyvä.
-Puhuja 0: Nythän meni draaman kaari siinä mielessä hyvin, että tämä oli sitten tämmöinen pieni valonpilkahdus tässä kaikessa synkkyydessä.
+Puhuja 0: Yhtä meni draaman kaari siinä mielessä hyvin, että tämä oli tämmöinen pieni valonpilkahdus
+Puhuja 0: tässä kaikessa synkkyydessä.
 Puhuja 0: Lopetetaanko
-Puhuja 0: tähän aiheet ja siirrytään meidän tämmöiseen cocktail-chater
+Puhuja 0: tähän aiheet ja siirrytään meidän tämmöiseen cocktail-chatder
 Puhuja 0: osuuteen? Sanopas Maria,
 Puhuja 0: jos
 Puhuja 0: kaiken tämän tohinan keskellä
 Puhuja 0: ehdittäisiin tavata jotain ystäviäsi jonkun
 Puhuja 0: äärellä.
 Puhuja 0: Onko jotain, mitä haluaisit ystävillesi suositella?
-Puhuja 1: Päässä
-Puhuja 1: ei oikein liiku
-Puhuja 1: mitään järkevää. En ole ehtinyt. Minun piti kesälomalla lukea kaikki mahdolliset
+Puhuja 1: Joo. Tuota, että
+Puhuja 1: päässä ei liiku.
+Puhuja 1: Mitään järkevää. En ole ehtinyt. Mun piti kesälomalla lukea kaikki mahdolliset
 Puhuja 1: kirjat, vaikka kuinka paljon katselin niitä kaikkia listoja, Barack Obaman ja muiden
-Puhuja 1: suosituslistoja.
-Puhuja 1: Valitsin ensimmäiseksi kirjasta niin paksun kirjan, että lopulta
-Puhuja 1: ehdin lukea vain kaksi, kun en jaksanut lukea sitä.
+Puhuja 1: suosituslistoja. Valitsin ensimmäiseksi kirjasta niin paksun kirjan, että
+Puhuja 1: en lopulta ehdi lukea vain kaksi, kun en jaksanut lukea sitä.
 Puhuja 1: En suosittele sitä paksua, koska siinä meni niin kauan.
 Puhuja 1: Mutta
 Puhuja 1: saadaan hyvä
 Puhuja 1: kirja.
-Puhuja 1: Vivian Cornikin kirja, Muisisissakin
-Puhuja 1: kirja Toisissamme kiinni, joka tuli suomeksi Gummeruksella.
-Puhuja 1: Se teki aivan ihastuttava, siis tämmöinen klassikko 80-luvun
-Puhuja 1: New Yorkista, jossa hän kävelee äitinsä kanssa
+Puhuja 1: Vivian Cornikin
+Puhuja 1: kirja, Muisissakin kirja Toisissamme kiinni, joka tuli suomeksi Gummerukselta.
+Puhuja 1: Se teki ihastuttava,
+Puhuja 1: siis tämmöinen
+Puhuja 1: klassikko 80-luvun
+Puhuja 1: New Yorkista, jossa hän
+Puhuja 1: kävelee kovan äitinsä kanssa
 Puhuja 1: pitkin katuja ja muistelee lapsuuttaan
-Puhuja 1: New Yorkin juutalaiskortteleissa.
-Puhuja 1: Se kuvattiin hänen äidin suhdetta ja omaa lapsuuttaan
-Puhuja 1: nyrkkiä. Se oli
+Puhuja 1: New Yorkin juutalaiskkortteleissa.
+Puhuja 1: Se vaatii
+Puhuja 1: hänen äitien suhdetta ja omaa lapsuuttaan ja
+Puhuja 1: ja nyrkkiä. Se oli
 Puhuja 1: aivan ihastuttava
 Puhuja 1: kirja. Suosittelen sitä kaikille.
 Puhuja 0: Mitä Sara, mitä haluaisit suositella?
-Puhuja 2: Minullakin
-Puhuja 2: on klassikkokirjasuositus.
-Puhuja 2: Olen lukenut ihan hirveän vähän näin työvuosina toimittajana.
-Puhuja 2: Nämä
-Puhuja 2: kirjat on ollut jotakin
-Puhuja 2: nykyaikaan sijoittuvia kolmekymmentä naisten autofiktiokirjoja
-Puhuja 2: ja muita mitkä on ollut hirveästi pinnalla.
-Puhuja 2: Mutta tänä kesänä aloitin
-Puhuja 2: sadan
-Puhuja 2: vuoden yksinäisyyden.
+Puhuja 2: Minullakin on klassikko kirjasuositus.
+Puhuja 2: Mä oon lukenut ihan hirveän vähän työvuosina
+Puhuja 2: toimittajana.
+Puhuja 2: Ne mitä mä oon lukenut, niin nämä kirjat on ollut jotakin
+Puhuja 2: nykyaikaan sijoittuvia 30-piste naisten autofiktiokirjoja
+Puhuja 2: ja muita, mitkä on ollut hirveästi pinnalla.
+Puhuja 2: Mutta tänä kesänä aloitin tuon sadan vuoden yksinäisyyden.
 Puhuja 2: Oli shokki aivoille, että kirjallisuus voi olla sellaista, että viidessä lauseessa käydään joku elämäntarina
 Puhuja 2: ja on hirveän runsas kuvaus jostain paikasta ja joku on vähän maagista ja joku on vähän kummallista
 Puhuja 2: ja väkivaltaista
 Puhuja 2: ja hirveää ja ihanaa just tosi tiiviissä paketissa
 Puhuja 2: jokaisessa kappaleessa on jotain.
-Puhuja 2: On vaan virkistävää
-Puhuja 2: lukea jotain
-Puhuja 2: tyylllisesti
+Puhuja 2: On vaan virkistävää lukea
+Puhuja 2: jotain
+Puhuja 2: tyylillisesti
 Puhuja 2: erilaista
 Puhuja 2: kuin mikä on ehkä viime vuosina. Ainakin minunikäisten ihmisten keskuudessa ollut muotia.
-Puhuja 1: Hauskaa, joo.
-Puhuja 1: Ehkä pitää kaivaa esille.
+Puhuja 1: Hauskaa.
+Puhuja 1: Ehkä pitää kaivaa se
+Puhuja 1: jostain esille.
 Puhuja 1: Marko,
 Puhuja 1: mitä sinä suosittelisit
-Puhuja 1: tai mistä kerrot? Kiitos Maria kysymästä.
-Puhuja 0: Itse asiassa
-Puhuja 0: vasta aloitin tai olen lukenut puoleen väliin.
+Puhuja 0: tai mistä kerrot? Kiitos Maria kysymästä.
+Puhuja 0: Minä vasta aloitin tai olen lukenut puoleen väliin.
 Puhuja 0: Kirjoittaja on
-Puhuja 0: Ben McGin Tireer, joka on kirjoittanut näitä erilaisia
-Puhuja 0: nonfictionia,
+Puhuja 0: Ben McG McIn Direer, joka on kirjoittanut
+Puhuja 0: näitä
+Puhuja 0: erilaisia nonfictionia
 Puhuja 0: mutta
-Puhuja 0: agenteista
-Puhuja 0: ja
+Puhuja 0: tämmöistä agenteista ja
 Puhuja 0: tiedustelun maailmasta. Hän on tämmöinen
 Puhuja 0: globaali
-Puhuja 0: bestsellere
-Puhuja 0: kirjoittajan. Hänen uusi kirja, joka ilmestyi viime vuonna,
-Puhuja 0: on Agenzonja.
-Puhuja 0: Hän on siis
-Puhuja 0: Saksan juutalainen perheenäiti,
-Puhuja 0: joka
-Puhuja 0: syntynyt muistaakseni
-Puhuja 0: Novåssaran alussa.
+Puhuja 0: bestseller kirjoittajana. Hänen uusi kirjansa, joka ilmestyi viime vuonna, on
+Puhuja 0: Agenzolia,
+Puhuja 0: kertoo siis tositarinan tämmöisestä...
+Puhuja 0: Hän on siis Saksan juutalainen
+Puhuja 0: perheenäiti,
+Puhuja 0: joka joskus
+Puhuja 0: on syntynyt
+Puhuja 0: muistaakseni
+Puhuja 0: Novåssaran
+Puhuja 0: alussa.
 Puhuja 0: Hän
 Puhuja 0: asui Berliinissä,
 Puhuja 0: oli
 Puhuja 0: vankka kommunisti ja vastusti natseja.
 Puhuja 0: Sitten hän koko ajan lipui vähän enemmän tai vähemmän sattumalta lähemmäksi
 Puhuja 0: Neuvostoliittoa. Hänestä tuli puna-armeijan
-Puhuja 0: agentti. Siis aivan huikea tarina agentti Sonjasta, joka on siis perheenäiti, jolla on siis kolme lasta. Ja miten hän vakoilee?
-Puhuja 0: Hän on ollut Neuvostoliiton
-Puhuja 0: keskeisiä vakoijia esim. Shanghaissa,
+Puhuja 0: agentti.
+Puhuja 0: Siis aivan huikea tarina
+Puhuja 0: agentti Sonjasta, joka on siis perheenäiti, jolla on kolme lasta. Ja miten hän vakoilee?
+Puhuja 0: Hän on ollut
+Puhuja 0: Neuvostoliiton
+Puhuja 0: keskeisiä
+Puhuja 0: vakoijia esim. Shanghaissa,
 Puhuja 0: muualla Kiinassa,
-Puhuja 0: Sveitsissä ja lopulta Englannissa, jossa hän onnistui
-Puhuja 0: varastamaan
+Puhuja 0: Sveitsissä ja lopulta Englannissa, missä hän onnistui vielä varastamaan
 Puhuja 0: jenkkien ja brittien
-Puhuja 0: erilaisia ydinpommisuunnitelmia
+Puhuja 0: ydinpommisuunnitelmia
 Puhuja 0: ja toimittamaan ne Neuvostoliittoon.
-Puhuja 0: Ja sitten oli muun muassa, että suunnitteli Hitlerin murhaamista. Oli hyvinkin lähellä, että jos on onnistunut Sveitsissä
-Puhuja 0: Sveitsistä, Sveitsin kautta murhauttamaan Hitlerin joskus 30-luvun lopussa ja tavallaan estämään toisen maailmansodan aivan huikea tarina.
-Puhuja 0: Sitten se kerrotaan hänen perhe-elämästään.
+Puhuja 0: Ja sitten oli muun muassa suunnitteli Hitlerin murhaamista. Oli hyvinkin lähellä, että jos on onnistunut Sveitsissä
+Puhuja 0: Sveitsistä,
+Puhuja 0: Sveitsin kautta murhauttamaan Hitlerin joskus 30-luvun lopussa ja tavallaan estämään toisen maailmansodan.
+Puhuja 0: Aivan huikea tarina.
+Puhuja 0: Sitten siinä kerrotaan hänen perhe-elämästään.
 Puhuja 0: Välillä on lastenhoito-ongelmia,
 Puhuja 0: kun lapset on pieniä ja samaan aikaan pitäisi
-Puhuja 0: käydä
-Puhuja 0: tekemässä jotain attentaatteja.
-Puhuja 0: Ihan huikea kirja agentti Sonya.
-Puhuja 0: Mun mielestä se
-Puhuja 0: ei kai ole vielä suomeksi, mutta veikkaan, että se myös käännetään.
+Puhuja 0: käydä tekemässä jotain attentaatteja.
+Puhuja 0: Ihan huikea kirja agenttisonia,
+Puhuja 0: agent Sonya. Mun mielestä se...
+Puhuja 0: Ei kai ole vielä suomeksi mutta veikkaan, että se myös käännetään.
 Puhuja 0: Vau.
-Puhuja 1: Tämä oli tässä. Paitsi Tuomas, jos kuuntelet tätä, niin kerro meille
-Puhuja 1: missä menee talon
-Puhuja 0: rakennus. Menen kuulu tähän. Tuomas tule takaisin. Me kaivataan sinua.
+Puhuja 0: Tämä oli tässä. Paitsi Tuomas,
+Puhuja 1: jos kuuntelet tätä, niin kerro meille
+Puhuja 0: missä menee talon rakennus. Mäkin kuuluu Tuomas. Tuomas, tulet takaisin. Me kaivataan sinua.
 Puhuja 0: Laita meille viestiä, milloin sinä palaat.
 Puhuja 0: Tällä kertaa tämä oli tässä. Kiitos Maria.
 Puhuja 0: Kiitos
-Puhuja 0: Sara.
-Puhuja 2: Kiitos kiitos.
-Puhuja 0: Minä olen siis Marko Junkkari ja tuolla lasin takana on
+Puhuja 0: Sara. Kiitos,
+Puhuja 0: kiitos. Minä olen siis Marko Junkkari. Tuolla lasin takana on
 Puhuja 0: Mikko Peura, joka teki meille äänen, kuvan ja kaiken muun siistin.
-Puhuja 0: Kiitos Mikko, tavataan ensi viikolla. Koitetaan ensi torstaina taas tehdä lähetys. Palataan normi
-Puhuja 0: aikaa.
+Puhuja 0: Kiitos, Mikko. Tavataan ensi viikolla. Koitetaan ensi torstaina taas teidän lähetys. Palataan normi aikaa.
