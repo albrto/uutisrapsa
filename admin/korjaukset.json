@@ -1818,5 +1818,21 @@
         "brittiläinen kirjallisuus"
       ]
     }
+  },
+  {
+    "tyyppi": "poisto",
+    "jakso_id": "9ca74510-5f0b-4a84-aaf9-e2b6db5b1f73",
+    "jakso_otsikko": "Ukrainan kohtalonhetket käsillä...jakso huomenna!",
+    "paivamaara": "13.2.2025",
+    "r_idx": 0,
+    "teos": "Not Like Us – Kendrick Lamar"
+  },
+  {
+    "tyyppi": "poisto",
+    "jakso_id": "4a506983-ed11-44f0-907d-250fe58c9b0c",
+    "jakso_otsikko": "Vuosikooste 2025: mitä jäi käteen?",
+    "paivamaara": "1.1.2026",
+    "r_idx": 1,
+    "teos": "Technoir – Gunship"
   }
 ]
