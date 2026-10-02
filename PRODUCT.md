@@ -35,7 +35,7 @@ Ainoa paikka, jossa podcastin suositukset ovat koottuna ja jäsenneltynä — vi
 
 ## Capabilities and Constraints
 
-- Haku (sumea), kategoriachipit, suosittelija-, vuosi- ja "useasti suositellut" -suodattimet, suosikit (selaimeen), satunnainen suositus ja Tilastot (top-listat, kuviot) ovat olemassa; datan skeema on kiinteä (`suositukset.json`; suositusten järjestys jakson sisällä eli `r_idx` on kantava — ei saa rikkoa).
+- Haku (sumea), kategoriachipit, suosittelija-, vuosi- ja "useasti suositellut" -suodattimet, suosikit (selaimeen), satunnainen suositus ja Tilastot (top-listat, ilmiöt) ovat olemassa; datan skeema on kiinteä (`suositukset.json`; suositusten järjestys jakson sisällä eli `r_idx` on kantava — ei saa rikkoa).
 - Kaikki sisältö ja UI suomeksi.
 - Tulossa (roadmap): affiliate-linkit vaativat KKV:n mainosmerkinnän ("mainos"-label) — designin pitää varata tälle paikka; vaihe 3 tuo staattisesti generoidut alasivut (suosittelija-, kategoria- ja tilastosivut) — ne voivat korvata nykyiset selaimessa renderöidyt näkymät samoilla osoitteilla; pysyvä suositus-ID lasketaan parista (jakso_id, r_idx), ks. CLAUDE.md; kirjautuminen (Google/Apple) ja uutiskirje ovat roadmapilla, niille on paikka yläpalkissa ja suosikkien rajapinnassa.
 - Avoin päätös: tumman/vaalean teeman tarkat paletit ja typografia päätetään new-work-vaiheessa.

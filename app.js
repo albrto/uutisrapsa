@@ -305,7 +305,8 @@ function parsiOsoite(osoite) {
     uusi.nakyma = 'suosittelijat';
   } else if (osa[1] === 'tilastot') {
     uusi.nakyma = 'tilastot';
-    uusi.valilehti = osa[2] === 'kuviot' ? 'kuviot' : 'top';
+    // "kuviot" oli välilehden aiempi nimi (2.10.2026) – vanha osoite toimii yhä
+    uusi.valilehti = osa[2] === 'ilmiot' || osa[2] === 'kuviot' ? 'ilmiot' : 'top';
   } else if (polku === '/suosikit') {
     uusi.nakyma = 'suosikit';
   }
@@ -318,7 +319,7 @@ function rakennaOsoite(t) {
   if (t.nakyma === 'suosittelijat') {
     polku = '/suosittelijat';
   } else if (t.nakyma === 'tilastot') {
-    polku = t.valilehti === 'kuviot' ? '/tilastot/kuviot' : '/tilastot';
+    polku = t.valilehti === 'ilmiot' ? '/tilastot/ilmiot' : '/tilastot';
   } else {
     if (t.nakyma === 'suosikit') polku = '/suosikit';
     else if (t.profiili) polku = suosittelijaUrl(t.profiili);
@@ -425,6 +426,11 @@ function sovellaReitti({ alku = false, ylos = false } = {}) {
       // Uudelleenlataus muun dialogin ollessa auki: dialogi ei palaa, merkintä siivotaan
       siivoaModaaliMerkinta();
     }
+  }
+
+  // Välilehden vanha nimi osoitteessa → nykyinen
+  if (location.pathname.replace(/\/+$/, '') === '/tilastot/kuviot') {
+    history.replaceState(history.state, '', '/tilastot/ilmiot' + location.search);
   }
 
   // Tuntematon suosittelija (nimi korjattu tai linkissä kirjoitusvirhe)
@@ -645,7 +651,7 @@ function paivitaSuosikkiMaara() {
 
 // ---------- Renderöinti: näkymä ----------
 
-// Tilasto-osion välilehdet: Top-listat, Kuviot ja Suosittelijat
+// Tilasto-osion välilehdet: Top-listat, Ilmiöt ja Suosittelijat
 const onTilastoOsio = t => t.nakyma === 'tilastot' || t.nakyma === 'suosittelijat';
 
 function renderNakyma() {
@@ -708,7 +714,7 @@ function renderNakyma() {
 function paivitaOtsikko() {
   let otsikko = 'Uutisraportti suosittelee';
   if (tila.nakyma === 'suosittelijat') otsikko = 'Suosittelijat – Uutisraportti suosittelee';
-  else if (tila.nakyma === 'tilastot') otsikko = `${tila.valilehti === 'kuviot' ? 'Kuviot' : 'Top-listat'} – Uutisraportti suosittelee`;
+  else if (tila.nakyma === 'tilastot') otsikko = `${tila.valilehti === 'ilmiot' ? 'Ilmiöt' : 'Top-listat'} – Uutisraportti suosittelee`;
   else if (tila.nakyma === 'suosikit') otsikko = 'Suosikit – Uutisraportti suosittelee';
   else if (tila.profiili) otsikko = `${tila.profiili} suosittelee – Uutisrapsa`;
   if (avoinModaali && avoinModaali.nimi === 'suositus' && avoinModaali.otsikko) otsikko = avoinModaali.otsikko;
@@ -736,7 +742,7 @@ function renderSivuotsake() {
     const ekaVuosi = allRecs.length ? allRecs[allRecs.length - 1].vuosi : '';
     const valilehdet = [
       ['/tilastot', 'Top-listat', tila.nakyma === 'tilastot' && tila.valilehti === 'top'],
-      ['/tilastot/kuviot', 'Kuviot', tila.nakyma === 'tilastot' && tila.valilehti === 'kuviot'],
+      ['/tilastot/ilmiot', 'Ilmiöt', tila.nakyma === 'tilastot' && tila.valilehti === 'ilmiot'],
       ['/suosittelijat', 'Suosittelijat', tila.nakyma === 'suosittelijat'],
     ];
     el.innerHTML = `
@@ -1318,7 +1324,7 @@ function laskeTilastot() {
 
 function renderTilastot(valilehti) {
   const t = laskeTilastot();
-  $('#tilastot').innerHTML = valilehti === 'kuviot' ? renderKuviot(t) : renderTopListat(t);
+  $('#tilastot').innerHTML = valilehti === 'ilmiot' ? renderIlmiot(t) : renderTopListat(t);
   sovitaLampoTekstit();
 }
 
@@ -1414,7 +1420,7 @@ function kategoriaIkoni(avain) {
   return `<span class="${k.harmaa ? 'kat-harmaa' : ''}" style="--savy:${k.savy}">${ikoni(KATEGORIAT[k.avain] ? k.avain : 'muu', 'kat-ikoni')}</span>`;
 }
 
-function renderKuviot(t) {
+function renderIlmiot(t) {
   const osat = [...KAAVIO_KATEGORIAT, 'muut'];
   const selite = `<ul class="kaavio-selite">${osat.map(k =>
     `<li><span class="kaavio-pallo ${kaavioTyyli(k)}" style="--savy:${kaavioSavy(k) ?? 0}"></span>${kaavioNimi(k)}</li>`).join('')}</ul>`;
