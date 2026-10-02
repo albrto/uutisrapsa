@@ -213,7 +213,7 @@ function laskeTilanne() {
     kaikki++;
     const p = DATA.paatokset[e.avain];
     if (p) paatetty++;
-    if (p && p.paatos === "hyvaksytty" && !p.viety) hyvaksyttyViematta++;
+    if (p && (p.paatos === "hyvaksytty" || p.paatos === "poista") && !p.viety) hyvaksyttyViematta++;
   }
   document.getElementById("edistyminen").textContent =
     `${paatetty} / ${kaikki} päätetty itse · ${kaikki - paatetty} odottaa sinua · ${DATA.jaksot.length} jaksoa`;
@@ -297,12 +297,12 @@ function piirraEro(j, e, i) {
   }
 
   let napit;
-  if (p && p.viety) napit = `<span class="tila hyvaksytty">✓ Viety korjauksiin</span>`;
+  if (p && p.viety) napit = `<span class="tila hyvaksytty">✓ Viety korjauksiin${p.paatos === "poista" ? " (piilotus)" : ""}</span>`;
   else if (p) napit = `<span class="tila ${p.paatos}">${{ hyvaksytty: "✓ Hyväksytty", hylatty: "✕ Hylätty", poista: "Merkitty poistettavaksi" }[p.paatos]}</span>
       <button class="nappi" data-toiminto="peru" data-avain="${esc(e.avain)}">Peru</button>`;
   else if (e.tyyppi === "ylimaarainen") napit = `
       <button class="nappi${suosittelee("hylatty") ? " ensisijainen" : ""}" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Pidä sivulla</button>
-      <button class="nappi hylkaa${suosittelee("poista") ? " ensisijainen" : ""}" data-toiminto="poista" data-avain="${esc(e.avain)}">Poista (kun poisto on toteutettu)</button>`;
+      <button class="nappi hylkaa${suosittelee("poista") ? " ensisijainen" : ""}" data-toiminto="poista" data-avain="${esc(e.avain)}">Piilota sivulta</button>`;
   else napit = `
       <button class="nappi${!a || suosittelee("hyvaksytty") ? " ensisijainen" : ""}" data-toiminto="hyvaksytty" data-avain="${esc(e.avain)}">Hyväksy</button>
       <button class="nappi hylkaa${suosittelee("hylatty") ? " ensisijainen" : ""}" data-toiminto="hylatty" data-avain="${esc(e.avain)}">Hylkää</button>`;
@@ -435,7 +435,7 @@ document.getElementById("suodatin").addEventListener("change", piirra);
 document.getElementById("vie").addEventListener("click", async () => {
   const r = await fetch("/vie", { method: "POST", headers: { "Content-Type": "application/json" }, body: "{}" });
   const t = await r.json();
-  ilmoita(`Viety admin/korjaukset.json:iin: ${t.muokkauksia} muokkausta, ${t.lisayksia} lisäystä. Sivusto päivittyy, kun tiedosto pushataan mainiin.`);
+  ilmoita(`Viety admin/korjaukset.json:iin: ${t.muokkauksia} muokkausta, ${t.lisayksia} lisäystä, ${t.poistoja} piilotusta. Sivusto päivittyy, kun tiedosto pushataan mainiin.`);
   await lataa();
 });
 

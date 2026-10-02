@@ -61,7 +61,7 @@ def main():
         epailyttavat_recs = []
         for r_idx, rec in enumerate(jakso.get("suositukset", [])):
             suosittelija = rec.get("suosittelija", "")
-            if not suosittelija:
+            if not suosittelija or rec.get("piilotettu"):  # sivulta piilotettu (poisto)
                 continue
 
             loytyy = False

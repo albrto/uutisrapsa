@@ -585,6 +585,7 @@
     .rec-item.suspicious-border { border-color: var(--varoitus-reuna); }
     .rec-item.resolved-rec { border-color: var(--aksentti-reuna); background: var(--aksentti-tausta); }
     .rec-item.skipped-rec { opacity: 0.45; }
+    .rec-item.piilotettu-rec { opacity: 0.55; border-style: dashed; }
     .rec-item.new-rec { border-color: var(--aksentti-reuna); border-style: dashed; }
 
     .rec-header {
@@ -1118,7 +1119,10 @@ function loadDataScriptAndInit() {
           DATA_SUSPICIOUS.forEach(jakso => {
              jakso.suositukset.forEach(rec => {
                const pend = korjMap[jakso.jakso_id + ':' + rec.r_idx];
-               if (pend && pend.uusi_data) {
+               if (pend && pend.tyyppi === 'poisto') {
+                 rec.piilotettu = true;
+                 rec.is_suspicious = false;
+               } else if (pend && pend.uusi_data) {
                  Object.assign(rec, pend.uusi_data);
                  rec.is_suspicious = false;
                } else if (pend && pend.uusi_suosittelija) {
@@ -1179,6 +1183,7 @@ async function loadFullData() {
         lisatieto_linkki: rec.lisatieto_linkki || '',
         alkupera: rec.alkupera || '',
         lisalinkit: rec.lisalinkit || [],
+        piilotettu: !!rec.piilotettu,
       }));
       return {
         j_idx: allData.length - j_idx, // vanhin = 1, uusin = N
@@ -1307,8 +1312,14 @@ function getCorr(jakso_id, r_idx) {
     if (window.OHITUKSET.find(o => o.jakso_id === jakso_id && o.r_idx === r_idx)) return { skipped: true, saved: true };
   }
   if (window.KORJAUKSET) {
-    const k = window.KORJAUKSET.find(o => o.jakso_id === jakso_id && o.r_idx === r_idx);
-    if (k) return { is_edited: true, saved: true, lisatty: k.tyyppi === 'lisays' };
+    const omat = window.KORJAUKSET.filter(o => o.jakso_id === jakso_id && o.r_idx === r_idx);
+    if (omat.length) {
+      // Piilotustila = viimeisin piilotus/palautus (korjaukset ajetaan järjestyksessä)
+      const piil = omat.filter(o => o.tyyppi === 'poisto' || (o.uusi_data && 'piilotettu' in o.uusi_data)).pop();
+      return { is_edited: true, saved: true, lisatty: omat.some(o => o.tyyppi === 'lisays'),
+               poisto: !!piil && piil.tyyppi === 'poisto',
+               uusi_data: piil && piil.tyyppi !== 'poisto' ? { piilotettu: piil.uusi_data.piilotettu } : undefined };
+    }
   }
   return null;
 }
@@ -1549,11 +1560,14 @@ function renderRec(jakso, rec) {
   const participants = jakso.rss_osallistujat;
 
   const currentRec = isEdited ? { ...rec, ...c.uusi_data } : rec;
+  const palautetaan = isEdited && c.uusi_data && c.uusi_data.piilotettu === false;
+  const piilossa = (rec.piilotettu && !palautetaan) || (isEdited && c.poisto);
+  const tallentamaton = (isEdited || isSkipped) && !isSaved;
 
   return `
-<div class="rec-item${isEdited ? ' resolved-rec' : ''}${isSkipped ? ' skipped-rec' : ''}${isSuspicious && !isEdited && !isSkipped ? ' suspicious-border' : ''}" id="rec-${jakso.jakso_id}-${rec.r_idx}">
+<div class="rec-item${piilossa ? ' piilotettu-rec' : ''}${isEdited ? ' resolved-rec' : ''}${isSkipped ? ' skipped-rec' : ''}${isSuspicious && !isEdited && !isSkipped ? ' suspicious-border' : ''}" id="rec-${jakso.jakso_id}-${rec.r_idx}">
   <div class="rec-header">
-    <div class="rec-teos">${isEdited ? `<span class="badge ${c.lisatty ? 'badge-new' : 'badge-ok'}" style="margin-right:8px">${c.lisatty ? 'Lisätty' : 'Muokattu'}</span>` : ''}${escHtml(currentRec.teos)}</div>
+    <div class="rec-teos">${piilossa ? `<span class="badge badge-warn" style="margin-right:8px">${rec.piilotettu ? 'Piilotettu sivulta' : 'Piilotetaan'}</span>` : ''}${isEdited && !piilossa ? `<span class="badge ${c.lisatty ? 'badge-new' : 'badge-ok'}" style="margin-right:8px">${c.lisatty ? 'Lisätty' : 'Muokattu'}</span>` : ''}${escHtml(currentRec.teos)}</div>
     <div class="rec-category">${escHtml(currentRec.paakategoria)}</div>
   </div>
   
@@ -1602,6 +1616,8 @@ function renderRec(jakso, rec) {
     ${isSaved ? `<div class="badge badge-ok" style="margin-right:auto">Tallennettu GitHubiin</div>` : ''}
     ${(isEdited || isSkipped) && !isSaved ? `<button class="action-btn btn-skip" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>` : ''}
     ${isSuspicious && !isEdited && !isSkipped ? `<button class="action-btn btn-verify" onclick="verifyCorrect('${jakso.jakso_id}',${rec.r_idx})">Vahvista oikeaksi</button>` : ''}
+    ${!tallentamaton && !piilossa ? `<button class="action-btn btn-skip" onclick="piilotaRec('${jakso.jakso_id}',${rec.r_idx})">Piilota sivulta</button>` : ''}
+    ${!tallentamaton && piilossa ? `<button class="action-btn btn-skip" onclick="palautaRec('${jakso.jakso_id}',${rec.r_idx})">Palauta sivulle</button>` : ''}
     ${!isSaved ? `<button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">${isSkipped ? 'Ohitettu' : 'Ohita'}</button>` : ''}
     <button class="action-btn btn-primary" id="save-rec-btn-${jakso.jakso_id}-${rec.r_idx}" onclick="confirmCorr('${jakso.jakso_id}',${rec.r_idx})" disabled>Päivitä</button>
   </div>
@@ -1743,6 +1759,21 @@ function confirmCorr(jakso_id, r_idx) {
 
 function skipRec(jakso_id, r_idx) {
   setCorr(jakso_id, r_idx, { skipped: true });
+  refreshRec(jakso_id, r_idx);
+  refreshCardHeader(jakso_id);
+}
+
+// Piilota sivulta = poistotoiminto. Suositusta ei poisteta datasta (muiden r_idx-viitteet
+// siirtyisivät), vaan sovella_korjaukset.py merkitsee sen piilotetuksi.
+function piilotaRec(jakso_id, r_idx) {
+  if (!confirm('Piilotetaanko suositus sivulta? Sen voi palauttaa myöhemmin.')) return;
+  setCorr(jakso_id, r_idx, { is_edited: true, poisto: true });
+  refreshRec(jakso_id, r_idx);
+  refreshCardHeader(jakso_id);
+}
+
+function palautaRec(jakso_id, r_idx) {
+  setCorr(jakso_id, r_idx, { is_edited: true, uusi_data: { piilotettu: false } });
   refreshRec(jakso_id, r_idx);
   refreshCardHeader(jakso_id);
 }
@@ -2136,7 +2167,15 @@ function saveChanges() {
     jakso.suositukset.forEach(rec => {
       const c = getCorr(jakso.jakso_id, rec.r_idx);
       if (c && !c.skipped && c.is_edited && !c.saved) {
-        corrections.push({
+        corrections.push(c.poisto ? {
+          // Piilotus: suositus jää dataan paikalleen (r_idx-viitteet säilyvät)
+          tyyppi: 'poisto',
+          jakso_id: jakso.jakso_id,
+          jakso_otsikko: jakso.jakso_otsikko,
+          paivamaara: jakso.paivamaara,
+          r_idx: rec.r_idx,
+          teos: rec.teos
+        } : {
           jakso_id: jakso.jakso_id,
           jakso_otsikko: jakso.jakso_otsikko,
           paivamaara: jakso.paivamaara,

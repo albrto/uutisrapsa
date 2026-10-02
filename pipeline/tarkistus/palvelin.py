@@ -87,7 +87,7 @@ def transkriptin_polku(jakso_id):
 
 
 def vie_korjauksiin():
-    """Muuntaa hyväksytyt, viemättömät päätökset korjaukset.json-merkinnöiksi."""
+    """Muuntaa hyväksytyt ja poistettaviksi merkityt, viemättömät päätökset korjaukset.json-merkinnöiksi."""
     paatokset = lue(PAATOKSET, {})
     ehdotukset = {e["jakso_id"]: e for e in lue(EHDOTUKSET, [])}
     live = {j["id"]: j for j in lue(SUOSITUKSET, [])}
@@ -95,16 +95,29 @@ def vie_korjauksiin():
 
     muokkaukset = {}   # (jakso_id, r_idx) → uusi_data  (saman suosituksen useampi ero yhdistetään)
     lisaykset = []
+    poistot = []       # (jakso_id, r_idx) → tyyppi "poisto" (piilotus, r_idx-viitteet säilyvät)
     vietavat_avaimet = []
     for avain, p in paatokset.items():
-        if p.get("paatos") != "hyvaksytty" or p.get("viety"):
+        if p.get("paatos") not in ("hyvaksytty", "poista") or p.get("viety"):
             continue
         jakso_id, tyyppi, _ = avain.split("::", 2)
         jakso = live.get(jakso_id)
         if not jakso or jakso_id not in ehdotukset:
             continue
         data = p.get("data") or {}
-        if tyyppi in ("suosittelija", "teos"):
+        if p["paatos"] == "poista":
+            if tyyppi != "ylimaarainen":
+                continue
+            r_idx = p["r_idx"]
+            recs = jakso["suositukset"]
+            ero = next((x for x in ehdotukset[jakso_id]["erot"]
+                        if x["tyyppi"] == "ylimaarainen" and x.get("r_idx") == r_idx), {})
+            # Teos-vahti: jos jakson järjestys on muuttunut, ei piiloteta väärää suositusta
+            if r_idx >= len(recs) or recs[r_idx].get("teos", "") != ero.get("teos"):
+                print(f"⚠️ Poisto ohitettu, paikka {r_idx} ei täsmää: {avain}")
+                continue
+            poistot.append((jakso_id, r_idx))
+        elif tyyppi in ("suosittelija", "teos"):
             r_idx = p["r_idx"]
             if r_idx >= len(jakso["suositukset"]):
                 continue
@@ -116,7 +129,7 @@ def vie_korjauksiin():
             uusi.update({k: data[k] for k in VALINNAISET_KENTAT if data.get(k)})
             lisaykset.append((jakso_id, uusi))
         else:
-            continue  # "ylimaarainen": poistotyyppiä ei vielä ole — päätös jää odottamaan
+            continue
         vietavat_avaimet.append(avain)
 
     uudet = []
@@ -125,6 +138,11 @@ def vie_korjauksiin():
         uudet.append({"jakso_id": jakso_id, "jakso_otsikko": jakso["jakso_otsikko"],
                       "paivamaara": jakso["paivamaara"], "r_idx": r_idx,
                       "teos": jakso["suositukset"][r_idx].get("teos", ""), "uusi_data": uusi_data})
+    for jakso_id, r_idx in poistot:
+        jakso = live[jakso_id]
+        uudet.append({"tyyppi": "poisto", "jakso_id": jakso_id, "jakso_otsikko": jakso["jakso_otsikko"],
+                      "paivamaara": jakso["paivamaara"], "r_idx": r_idx,
+                      "teos": jakso["suositukset"][r_idx].get("teos", "")})
     # Lisäyksen paikka = jakson loppu, tai vielä soveltamattomien lisäysten perään
     # (sama sääntö kuin netlify/functions/tallenna.js)
     seuraava = {}
@@ -147,7 +165,7 @@ def vie_korjauksiin():
         for avain in vietavat_avaimet:
             paatokset[avain]["viety"] = aika
         kirjoita(PAATOKSET, paatokset)
-    return {"muokkauksia": len(muokkaukset), "lisayksia": len(lisaykset)}
+    return {"muokkauksia": len(muokkaukset), "lisayksia": len(lisaykset), "poistoja": len(poistot)}
 
 
 _AANET = None

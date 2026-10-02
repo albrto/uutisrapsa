@@ -87,6 +87,27 @@ def main():
             ok += 1
             continue
 
+        # Poisto (tarkistusnäkymä / admin "Piilota sivulta"): suositusta EI poisteta
+        # listasta, vaan se merkitään piilotetuksi — muiden suositusten r_idx-viitteet
+        # pysyvät ennallaan. Sivusto jättää piilotetut näyttämättä. Palautus: myöhempi
+        # korjaus, jonka uusi_data sisältää "piilotettu": false.
+        if korj.get("tyyppi") == "poisto":
+            if r_idx >= len(suositukset):
+                print(f"  ⚠️ Poistettavaa paikkaa {r_idx} ei löydy jaksosta {jakso_id} – OHITETAAN!")
+                virhe += 1
+                continue
+            rec = suositukset[r_idx]
+            # Suoja: jos paikassa on eri teos kuin poistettaessa, ei piiloteta väärää
+            if korj.get("teos") and rec.get("teos") != korj["teos"] and not rec.get("piilotettu"):
+                print(f"  ⚠️ Poisto: odotettiin \"{korj['teos']}\", löytyi \"{rec.get('teos')}\" – OHITETAAN!")
+                virhe += 1
+                continue
+            if not rec.get("piilotettu"):
+                rec["piilotettu"] = True
+                print(f"  🙈 {korj.get('paivamaara', '?')}: Piilotettu: \"{rec.get('teos', '?')}\"")
+            ok += 1
+            continue
+
         if r_idx >= len(suositukset):
             print(f"  ⚠️ Suositusindeksi {r_idx} ei löydy jaksosta {jakso_id}")
             virhe += 1

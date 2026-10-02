@@ -130,6 +130,9 @@ def main():
                     is_suspicious = True
                 if is_suspicious and (jakso_id, r_idx) in ohitukset_set:
                     is_suspicious = False
+            # Sivulta piilotettua (poistettua) ei tarvitse enää tarkistaa
+            if rec.get("piilotettu"):
+                is_suspicious = False
             
             # Lisää kaikki suositukset listaan (oli ne epäilyttäviä tai ei)
             # Rajoitetaan määrää hieman jos satoja, mutta tässä otetaan kaikki
@@ -145,6 +148,7 @@ def main():
                 "lisatieto_linkki": rec.get("lisatieto_linkki", ""),
                 "alkupera": rec.get("alkupera", ""),
                 "lisalinkit": rec.get("lisalinkit", []),
+                "piilotettu": bool(rec.get("piilotettu")),
             })
 
     # Suodatetaan vain ne jaksot, joissa on suosituksia

@@ -18,6 +18,8 @@ async function init() {
     allRecs = [];
     for (const jakso of allData) {
       for (const rec of jakso.suositukset) {
+        // Piilotettu = poistettu sivulta (paikka säilyy datassa, ettei r_idx-viitteet siirry)
+        if (rec.piilotettu) continue;
         allRecs.push({
           ...rec,
           jakso_otsikko: jakso.jakso_otsikko,
