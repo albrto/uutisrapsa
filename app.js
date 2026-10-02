@@ -522,6 +522,15 @@ function sanaLoytyy(sana, teksti, sanat) {
   });
 }
 
+// Hiihtoaiheen sanat (normalisoidusta tekstistä): haku "latu", "sukset" tai "Vasaloppet"
+// löytää kaikki hiihtoaiheiset suositukset, vaikka juuri sitä sanaa ei tekstissä olisi.
+// "hiih" kelpaa myös yhdyssanan keskeltä (kaukopartiohiihto), muut vain sanan alusta
+// ("kalatuote" ei ole latu). Sama sääntö laukaisee hiihtopääsiäismunan ja hiihtomittarin.
+const HIIHTO_SANAT = /hiih|(^| )(ladu|latu|suks|vasalop|salpaussel)/;
+const HIIHTO_KOROSTUS = '\\p{L}*hiih\\p{L}*|(?<!\\p{L})(?:ladu|latu|suks|vasalop|salpaussel)\\p{L}*';
+const onHiihtoaihe = normTeksti => HIIHTO_SANAT.test(normTeksti);
+const recOnHiihtoa = r => onHiihtoaihe(hakuNormalisoi([r.teos, r.kuvaus, ...(r.kategoriat || [])].join(' ')));
+
 const hakuValimuisti = new Map(); // normalisoitu haku → Set(id), viimeisimmät haut
 
 function hakuOsumat(query) {
@@ -536,8 +545,11 @@ function hakuOsumat(query) {
         r.jakso_otsikko, r.paivamaara, ...(r.kategoriat || [])
       ].join(' '));
       r._hakusanat = [...new Set(r._haku.split(' '))];
+      r._hiihto = recOnHiihtoa(r);
     }
-    if (sanat.every(sana => sanaLoytyy(sana, r._haku, r._hakusanat))) osumat.add(r.id);
+    if (sanat.every(sana => sanaLoytyy(sana, r._haku, r._hakusanat) || (r._hiihto && onHiihtoaihe(sana)))) {
+      osumat.add(r.id);
+    }
   }
   if (hakuValimuisti.size > 30) hakuValimuisti.clear();
   hakuValimuisti.set(query, osumat);
@@ -573,9 +585,10 @@ const aktiivisiaRajauksia = t =>
 let korostus = null;
 
 function asetaKorostus(q) {
-  const sanat = hakuNormalisoi(q).split(' ').filter(s => s.length >= 2)
-    .map(s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-  korostus = sanat.length ? new RegExp(`(${sanat.join('|')})`, 'gi') : null;
+  const sanat = hakuNormalisoi(q).split(' ').filter(s => s.length >= 2);
+  const osat = sanat.map(s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  if (sanat.some(onHiihtoaihe)) osat.push(HIIHTO_KOROSTUS); // "latu" korostaa myös "hiihtoa"
+  korostus = osat.length ? new RegExp(`(${osat.join('|')})`, 'giu') : null;
 }
 
 function korosta(teksti) {
@@ -1309,11 +1322,10 @@ function laskeTilastot() {
   if (pisin) tittelit.push({ nimi: 'Pitkän linjan suosittelija', s: pisin, kuvaus: `suosituksia vuosina ${pisin.eka.vuosi}–${pisin.vika.vuosi}` });
 
   // Hiihtomittari: suositukset, joissa vilahtaa hiihto, latu tai sukset
-  const HIIHTO = /hiih|ladu|latu|suks|vasaloppet|salpausselä/i;
   const hiihto = new Map();
   for (const r of allRecs) {
     if (onTuntematon(r.suosittelija)) continue;
-    if (!HIIHTO.test([r.teos, r.kuvaus, ...(r.kategoriat || [])].join(' '))) continue;
+    if (!recOnHiihtoa(r)) continue;
     if (!hiihto.has(r.suosittelija)) hiihto.set(r.suosittelija, []);
     hiihto.get(r.suosittelija).push(r);
   }
@@ -2063,7 +2075,7 @@ let hiihtoNahty = false;
 
 function tarkistaPaasiaismuna(q) {
   if (hiihtoNahty || !q) return;
-  if (!/(^| )(hiih|ladu|latu|suks|vasalop)/.test(hakuNormalisoi(q))) return;
+  if (!onHiihtoaihe(hakuNormalisoi(q))) return;
   hiihtoNahty = true;
   toast('Salla lähti ladulle. Tuomas jäi sisälle lämpimään ja suosittelee jotain muuta.', { kesto: 6000 });
   if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
