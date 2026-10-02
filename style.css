@@ -475,53 +475,95 @@ button {
 /* ===== HERO ===== */
 .hero {
   position: relative;
-  padding: 40px 24px 40px;
+  padding: 52px 0 36px;
 }
 
-.hero-content {
+/* Kaikki sisältölohkot samaan vasempaan reunaan: leveys sisältää sivureunan */
+.hero-content,
+.sivuotsake-sisa {
   position: relative;
   max-width: var(--sivun-leveys);
   margin: 0 auto;
+  padding: 0 24px;
 }
 
-/* Otsikko skaalautuu leveyden mukaan: mobiilissa ~34 px, työpöydällä 88 px */
+/* Otsikko = podcastin toistuva fraasi (arvotaan index.html:n inline-skriptissä).
+   Latauksessa kirjaimet nousevat esiin sumeasta – yksi kerta, ei toistu. */
 .hero-title {
-  font-size: clamp(34px, 9.2vw, 88px);
-  font-weight: 800;
+  max-width: 22ch;
+  font-size: clamp(32px, 5.4vw, 60px);
+  font-weight: 750;
   letter-spacing: -0.035em;
-  line-height: 0.95;
-  text-transform: uppercase;
+  line-height: 1.04;
   color: var(--teksti-vahva);
+  text-wrap: balance;
 }
 
+.hero-title.otsikko-pitka {
+  max-width: 26ch;
+  font-size: clamp(28px, 4.4vw, 48px);
+}
+
+.otsikko-sana {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.otsikko-kirjain {
+  display: inline-block;
+  animation: kirjain-esiin 0.9s var(--ulos-ease) both;
+  animation-delay: calc(var(--i) * 24ms + var(--viive, 0ms) + 60ms);
+}
+
+@keyframes kirjain-esiin {
+  from {
+    opacity: 0;
+    transform: translateY(0.32em);
+    filter: blur(10px);
+  }
+}
+
+.otsikko-osa.korostus {
+  color: var(--aksentti-teksti);
+}
+
+.otsikko-osa.himmennys {
+  color: var(--teksti-himmea);
+  font-weight: 600;
+}
+
+/* Vanhat sivut (kiitos.html, muutokset.html) käyttävät tätä otsikon toisena rivinä */
 .hero-accent {
   display: block;
   color: var(--aksentti-teksti);
 }
 
 .hero-subtitle {
-  font-family: var(--fontti-koodi);
-  font-size: 13px;
-  line-height: 1.7;
+  max-width: 60ch;
+  margin-top: 18px;
+  font-size: 16px;
+  line-height: 1.6;
   color: var(--teksti-toissijainen);
-  max-width: 52ch;
+  text-wrap: pretty;
 }
 
-.hero-rivi {
-  display: grid;
-  gap: 24px;
-  margin-top: 24px;
+.hero-subtitle strong {
+  font-weight: 650;
+  color: var(--teksti-ensisijainen);
 }
 
-/* Hei ja tervetuloa – Heissan: podcastin avaus keskustelukuplina */
-.keskustelu {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  max-width: 420px;
+.vain-ruudunlukijalle {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
 }
 
+/* Arvonnan "Sitten kun…" -kupla suosituksen näkymässä */
 .kupla {
+  width: fit-content;
   max-width: 36ch;
   padding: 10px 15px;
   border-radius: 18px;
@@ -530,71 +572,10 @@ button {
 }
 
 .kupla-tervehdys {
-  align-self: flex-start;
   background: var(--aksentti-tausta-aktiivinen);
   color: var(--teksti-ensisijainen);
   border-bottom-left-radius: 6px;
 }
-
-.kupla-tervehdys strong {
-  color: var(--aksentti-teksti);
-  font-weight: 650;
-  font-variant-numeric: tabular-nums;
-}
-
-.kupla-vastaus {
-  align-self: flex-end;
-  display: grid;
-  background: var(--bg-kortti);
-  border: 1px solid var(--reuna);
-  border-bottom-right-radius: 6px;
-  transition: opacity 0.3s var(--ulos-ease), transform 0.4s var(--ulos-ease);
-}
-
-/* Teksti ja kirjoitusanimaatio samassa solussa: kuplan koko ei muutu */
-.kupla-vastaus > * {
-  grid-area: 1 / 1;
-}
-
-.kupla-teksti {
-  transition: opacity 0.25s ease;
-}
-
-.kirjoittaa {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 4px;
-  opacity: 0;
-  transition: opacity 0.2s ease;
-}
-
-.kirjoittaa i {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: var(--teksti-himmea);
-}
-
-.keskustelu.kirjoittaa-nyt .kirjoittaa i {
-  animation: piste 1s ease-in-out infinite;
-}
-
-.kirjoittaa i:nth-child(2) { animation-delay: 0.15s; }
-.kirjoittaa i:nth-child(3) { animation-delay: 0.3s; }
-
-@keyframes piste {
-  0%, 60%, 100% { transform: translateY(0); opacity: 0.5; }
-  30% { transform: translateY(-3px); opacity: 1; }
-}
-
-.keskustelu.odottaa .kupla-vastaus {
-  opacity: 0;
-  transform: translateY(6px) scale(0.96);
-}
-
-.keskustelu.kirjoittaa-nyt .kupla-teksti { opacity: 0; }
-.keskustelu.kirjoittaa-nyt .kirjoittaa { opacity: 1; }
 
 /* Aikajana: vuodet nappeina, palkit kuukausien suositusmääriä (podcastin ääniaalto) */
 .aikajana {
@@ -670,72 +651,6 @@ button {
 }
 
 .aj-lyhyt { display: none; }
-
-.hero-toiminnot {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: stretch;
-  gap: 12px;
-  margin-top: 28px;
-}
-
-/* Uusimman jakson oikotie (jakson kuuntelijan pääpolku) */
-.uusin-jakso {
-  flex: 1 1 340px;
-  max-width: 600px;
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: center;
-  column-gap: 16px;
-  row-gap: 4px;
-  padding: 14px 14px 14px 18px;
-  border: 1px solid var(--reuna);
-  border-radius: var(--radius-lg);
-  background: var(--bg-kortti);
-  color: var(--teksti-ensisijainen);
-  transition: border-color var(--transition), background-color var(--transition);
-}
-
-.uusin-jakso:hover {
-  color: var(--teksti-ensisijainen);
-  border-color: var(--aksentti-teksti);
-}
-
-.uusin-jakso-otsikko {
-  font-size: 16px;
-  font-weight: 650;
-  line-height: 1.35;
-  color: var(--teksti-vahva);
-  text-wrap: pretty;
-}
-
-.uusin-jakso-meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 4px 8px;
-  font-family: var(--fontti-koodi);
-  font-size: 12px;
-  color: var(--teksti-toissijainen);
-  font-variant-numeric: tabular-nums;
-}
-
-.uusin-jakso-nuoli {
-  grid-column: 2;
-  grid-row: 1 / span 2;
-  display: grid;
-  place-items: center;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background: var(--aksentti);
-  color: var(--teksti-aksentin-paalla);
-  transition: transform 0.3s var(--ulos-ease);
-}
-
-.uusin-jakso:hover .uusin-jakso-nuoli {
-  transform: translateY(3px);
-}
 
 .uusin-merkki {
   display: inline-flex;
@@ -833,19 +748,14 @@ button {
 
 /* ===== ALASIVUJEN OTSAKE ===== */
 .sivuotsake {
-  padding: 28px 24px 4px;
-}
-
-.sivuotsake-sisa {
-  max-width: var(--sivun-leveys);
-  margin: 0 auto;
+  padding: 32px 0 4px;
 }
 
 .sivuotsake-otsikko {
-  font-size: clamp(32px, 6vw, 56px);
-  font-weight: 800;
-  letter-spacing: -0.035em;
-  line-height: 1;
+  font-size: clamp(28px, 4.2vw, 40px);
+  font-weight: 750;
+  letter-spacing: -0.03em;
+  line-height: 1.08;
   color: var(--teksti-vahva);
   text-wrap: balance;
 }
@@ -964,7 +874,7 @@ button {
 
 .avatar-s { --koko: 20px; }
 .avatar-l { --koko: 40px; }
-.avatar-xl { --koko: 76px; }
+.avatar-xl { --koko: 60px; }
 
 /* ===== HAKUPALKKI ===== */
 .palkki-ankkuri {
@@ -1162,17 +1072,61 @@ button {
   outline: none;
 }
 
-/* Kategoriachipit: mobiilissa vaakarulla, isommilla rivit */
+/* Kategoriachipit yhdellä vaakarivillä kaikilla leveyksillä (kevyempi kuin monta riviä).
+   Reuna häivytetään vain sillä puolella, jolla on lisää (app.js paivitaKategoriaRulla). */
+.kategoriat {
+  position: relative;
+  margin: 0 -24px;
+  --haivytys-vasen: #000;
+  --haivytys-oikea: #000;
+}
+
+.kategoriat.yli-vasen { --haivytys-vasen: transparent; }
+.kategoriat.yli-oikea { --haivytys-oikea: transparent; }
+
 .kategoriarivi {
   display: flex;
   gap: 8px;
-  margin: 0 -24px;
-  padding: 14px 24px 4px;
+  padding: 16px 24px 4px;
   overflow-x: auto;
   scrollbar-width: none;
   scroll-padding: 0 24px;
-  -webkit-mask-image: linear-gradient(90deg, transparent, #000 20px, #000 calc(100% - 28px), transparent);
-  mask-image: linear-gradient(90deg, transparent, #000 20px, #000 calc(100% - 28px), transparent);
+  -webkit-mask-image: linear-gradient(90deg, var(--haivytys-vasen), #000 40px, #000 calc(100% - 40px), var(--haivytys-oikea));
+  mask-image: linear-gradient(90deg, var(--haivytys-vasen), #000 40px, #000 calc(100% - 40px), var(--haivytys-oikea));
+}
+
+.rulla-nappi {
+  position: absolute;
+  top: 16px;
+  display: none;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid var(--reuna-vahva);
+  border-radius: 50%;
+  background: var(--bg-kortti);
+  color: var(--teksti-ensisijainen);
+  cursor: pointer;
+}
+
+.rulla-nappi:hover {
+  border-color: var(--teksti-himmea);
+}
+
+.rulla-nappi .ikoni {
+  width: 16px;
+  height: 16px;
+}
+
+.rulla-vasen { left: 4px; }
+.rulla-oikea { right: 4px; }
+.rulla-oikea .ikoni { transform: scaleX(-1); }
+
+@media (hover: hover) and (pointer: fine) {
+  .kategoriat.yli-vasen .rulla-vasen,
+  .kategoriat.yli-oikea .rulla-oikea {
+    display: grid;
+  }
 }
 
 .kategoriarivi::-webkit-scrollbar {
@@ -2952,25 +2906,6 @@ a.henkilo:hover .henkilo-nimi {
 
 /* M ja L: kategoriat riveinä, hero kahteen palstaan */
 @media (min-width: 768px) {
-  .kategoriarivi {
-    flex-wrap: wrap;
-    margin: 0;
-    padding: 18px 0 4px;
-    overflow: visible;
-    -webkit-mask-image: none;
-    mask-image: none;
-  }
-
-  .hero-rivi {
-    grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
-    align-items: end;
-    gap: 40px;
-  }
-
-  .hero {
-    padding-top: 56px;
-  }
-
   .tilastoruudukko {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -2981,10 +2916,6 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 @media (min-width: 1024px) {
-  .hero-subtitle {
-    font-size: 14px;
-  }
-
   .rec-card {
     padding: 20px 24px;
   }
@@ -3081,12 +3012,16 @@ a.henkilo:hover .henkilo-nimi {
   }
 
   .hero {
-    padding: 28px 16px 32px;
+    padding: 32px 0 28px;
   }
 
-  .hero-rivi {
-    margin-top: 20px;
-    gap: 20px;
+  .hero-content,
+  .sivuotsake-sisa {
+    padding: 0 16px;
+  }
+
+  .hero-subtitle {
+    font-size: 15px;
   }
 
   .kupla {
@@ -3113,20 +3048,12 @@ a.henkilo:hover .henkilo-nimi {
   .aj-pitka { display: none; }
   .aj-lyhyt { display: inline; }
 
-  .hero-toiminnot {
-    margin-top: 20px;
-  }
-
-  .hero-toiminnot .nappi {
-    flex: 1;
-  }
-
   .sivuotsake {
-    padding: 20px 16px 4px;
+    padding: 24px 0 4px;
   }
 
   .avatar-xl {
-    --koko: 60px;
+    --koko: 52px;
   }
 
   .profiili {
@@ -3154,8 +3081,11 @@ a.henkilo:hover .henkilo-nimi {
     padding: 0 16px 56px;
   }
 
-  .kategoriarivi {
+  .kategoriat {
     margin: 0 -16px;
+  }
+
+  .kategoriarivi {
     padding: 12px 16px 4px;
     scroll-padding: 0 16px;
   }

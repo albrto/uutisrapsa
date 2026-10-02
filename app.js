@@ -582,11 +582,9 @@ function korosta(teksti) {
 
 function renderStaattiset() {
   const jaksoja = allData.length;
-  $('#tervehdysLuvut').innerHTML =
-    `<strong>${luku(allRecs.length)}</strong> suositusta ${luku(jaksoja)} jaksosta ja ` +
-    `<strong>${luku(suosittelijat.size)}</strong> suosittelijalta`;
+  $('#tervehdysLuvut').textContent =
+    `: ${luku(allRecs.length)} suositusta ${luku(jaksoja)} jaksosta ja ${luku(suosittelijat.size)} suosittelijalta`;
   renderAikajana();
-  renderUusinJakso();
   renderSuosittelijavalinta();
   paivitaSuosikkiMaara();
 }
@@ -623,20 +621,6 @@ function renderAikajana() {
     </button>`;
   }
   $('#aikajana').innerHTML = html;
-}
-
-function renderUusinJakso() {
-  const uusin = allRecs[0];
-  const el = $('#uusinJakso');
-  if (!uusin) return;
-  const maara = allRecs.filter(r => r.jakso_id === uusin.jakso_id).length;
-  el.href = `#jakso-${uusin.jakso_tunniste}`;
-  el.dataset.jakso = uusin.jakso_tunniste;
-  el.innerHTML = `
-    <span class="uusin-jakso-otsikko">${escapeHtml(uusin.jakso_otsikko)}</span>
-    <span class="uusin-jakso-meta"><span class="uusin-merkki">Uusin jakso</span>${escapeHtml(uusin.paivamaara)} · ${maara} ${maara === 1 ? 'suositus' : 'suositusta'}</span>
-    <span class="uusin-jakso-nuoli" aria-hidden="true">${ikoni('alas')}</span>`;
-  el.hidden = false;
 }
 
 function renderSuosittelijavalinta() {
@@ -849,6 +833,7 @@ function renderKategoriat() {
   $('#kategoriarivi').innerHTML = html + '<span class="chippi-erotin" aria-hidden="true"></span>' + toistuvatChip;
   $('#paneeliKategoriat').innerHTML = html;
   $('#paneeliErikoiset').innerHTML = toistuvatChip;
+  requestAnimationFrame(paivitaKategoriaRulla);
 }
 
 function renderVuodet() {
@@ -1020,7 +1005,6 @@ function toistoMerkki(rec) {
 function renderCard(rec) {
   const linkit = rakennaLinkit(rec);
   const suosikki = Suosikit.onko(rec.id);
-  const tagit = (rec.kategoriat || []).slice(0, 4);
   const suosittelija = onTuntematon(rec.suosittelija)
     ? `<span class="henkilo henkilo-tuntematon">${avatar('?')}Tuntematon</span>`
     : `<a class="henkilo" href="${suosittelijaUrl(rec.suosittelija)}" data-reitti>${avatar(rec.suosittelija)}${korosta(rec.suosittelija)}</a>`;
@@ -1040,7 +1024,6 @@ function renderCard(rec) {
         ${suosittelija}
         ${linkit.length ? `<div class="rec-links">${linkit.map(l => linkkiHtml(l)).join('')}</div>` : ''}
       </div>
-      ${tagit.length ? `<p class="rec-tags">${tagit.map(t => `<span class="rec-tag">${escapeHtml(t)}</span>`).join('')}</p>` : ''}
     </article>`;
 }
 
@@ -1878,12 +1861,24 @@ function vieritaTuloksiin() {
   if (window.scrollY > alku + 1) window.scrollTo({ top: alku, behavior: 'instant' });
 }
 
-function vieritaJaksoon(tunnisteJakso) {
-  valmistaLista();
-  const el = document.getElementById(`jakso-${tunnisteJakso}`);
-  if (!el) return false;
-  el.scrollIntoView({ behavior: pehmea(), block: 'start' });
-  return true;
+// Kategoriat yhdellä rivillä: hiirellä selattaessa nuolinapit, reunat häivytetään vain sillä
+// puolella, jolla on lisää chippejä
+function paivitaKategoriaRulla() {
+  const rivi = $('#kategoriarivi');
+  const vasen = rivi.scrollLeft > 4;
+  const oikea = rivi.scrollLeft + rivi.clientWidth < rivi.scrollWidth - 4;
+  const kontti = rivi.parentElement;
+  kontti.classList.toggle('yli-vasen', vasen);
+  kontti.classList.toggle('yli-oikea', oikea);
+}
+
+function setupKategoriaRulla() {
+  const rivi = $('#kategoriarivi');
+  rivi.addEventListener('scroll', paivitaKategoriaRulla, { passive: true });
+  window.addEventListener('resize', paivitaKategoriaRulla);
+  document.querySelectorAll('[data-rulla]').forEach(nappi => nappi.addEventListener('click', () => {
+    rivi.scrollBy({ left: Number(nappi.dataset.rulla) * rivi.clientWidth * 0.7, behavior: pehmea() });
+  }));
 }
 
 // Hakupalkin "tarttunut"-tila: vain ulkoasu (reunaviiva) vaihtuu, ei korkeus, joten
@@ -1960,16 +1955,6 @@ function setupListeners() {
     paivitaTila({ jarjestys: tila.jarjestys === 'vanhin' ? 'uusin' : 'vanhin' }));
 
 
-  $('#uusinJakso').addEventListener('click', e => {
-    e.preventDefault();
-    const jakso = e.currentTarget.dataset.jakso;
-    if (aktiivisiaRajauksia(tila) || tila.jarjestys !== 'uusin') {
-      kentta.value = '';
-      paivitaTila({ ...TYHJAT_RAJAUKSET, jarjestys: 'uusin' }, { vieritys: false });
-    }
-    vieritaJaksoon(jakso);
-  });
-
   // Yksi delegoitu kuuntelija kaikille dynaamisille napeille ja sisäisille linkeille
   document.addEventListener('click', e => {
     const kohde = e.target.closest('a, button');
@@ -2040,6 +2025,7 @@ function setupListeners() {
 
   setupPalkki();
   setupVihjeet();
+  setupKategoriaRulla();
 }
 
 // ---------- Pääsiäismunat ----------
@@ -2112,15 +2098,6 @@ function kaynnistaHiljaisuusvahti() {
   nollaa();
 }
 
-// "Heissan." – Markon vakiovastaus tervehdykseen kirjoittuu hetken viiveellä
-function setupKeskustelu() {
-  const el = $('#keskustelu');
-  if (!el || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  el.classList.add('odottaa');
-  setTimeout(() => el.classList.replace('odottaa', 'kirjoittaa-nyt'), 700);
-  setTimeout(() => el.classList.remove('kirjoittaa-nyt'), 1900);
-}
-
 // ---------- Teemakytkin ----------
 // Oletuksena seurataan laitteen asetusta (prefers-color-scheme). Kytkin asettaa
 // <html data-theme>. Jos valinta osuu samaksi kuin laitteen asetus, tallennettu
@@ -2171,6 +2148,5 @@ function setupPerustoiminnot() {
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 setupTeemakytkin();
 setupPerustoiminnot();
-setupKeskustelu();
 setupFeedbackForm();
 init();

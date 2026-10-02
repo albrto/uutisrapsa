@@ -124,24 +124,47 @@
     <!-- Etusivun hero (piilotetaan alasivuilla) -->
     <section class="hero" id="alku" aria-labelledby="heroOtsikko">
       <div class="hero-content">
-        <h1 class="hero-title" id="heroOtsikko">Uutisraportti<span class="hero-accent">suosittelee</span></h1>
-        <div class="hero-rivi">
-          <p class="hero-subtitle">Hyviä keskustelunaiheita pitkien epämukavien hiljaisuuksien varalle eli kaikki
-            Helsingin Sanomien <a href="https://www.hs.fi/kuuntele/uutisraportti/">Uutisraportti-podcastin</a>
-            kulttuuri- ja tekemissuositukset – haettavana ja selattavana.</p>
-          <div class="keskustelu" id="keskustelu">
-            <p class="kupla kupla-tervehdys">Hei ja tervetuloa Uutisrapsaan! Arkistossa on
-              <span id="tervehdysLuvut">kaikki podcastin suositukset</span>.</p>
-            <p class="kupla kupla-vastaus"><span class="kupla-teksti">Heissan.</span><span class="kirjoittaa" aria-hidden="true"><i></i><i></i><i></i></span></p>
-          </div>
-        </div>
+        <!-- Otsikko on podcastin toistuva fraasi, joka arvotaan joka latauksella (ei vaihdu
+             itsestään). Valinta tehdään heti otsikon jälkeen ennen ensimmäistä piirtoa. -->
+        <h1 class="hero-title" id="heroOtsikko">Hei ja tervetuloa…<span class="vain-ruudunlukijalle"> Uutisraportti suosittelee</span></h1>
+        <script>
+          (function () {
+            var FRAASIT = [
+              [['Hei ja tervetuloa'], ['…', 'korostus']],
+              [['Heissan'], ['!', 'korostus']],
+              [['Sitten kun'], ['…', 'korostus']],
+              [['Parhaat hiihtovinkit'], [' (ja muut suositukset)', 'himmennys']],
+              [['Lopuksi vielä hyviä keskustelunaiheita'], ['…', 'korostus']],
+              [['Hyviä keskustelunaiheita'], [' pitkien epämukavien hiljaisuuksien varalle', 'himmennys']]
+            ];
+            var h1 = document.getElementById('heroOtsikko');
+            var edellinen = -1, valinta;
+            try { edellinen = Number(localStorage.getItem('otsikko')); } catch (e) {}
+            do { valinta = Math.floor(Math.random() * FRAASIT.length); } while (valinta === edellinen && FRAASIT.length > 1);
+            try { localStorage.setItem('otsikko', String(valinta)); } catch (e) {}
+            var fraasi = FRAASIT[valinta], teksti = '', i = 0, html = '';
+            fraasi.forEach(function (osa, n) {
+              teksti += osa[0];
+              var sanat = osa[0].split(/(\s+)/);
+              html += '<span class="otsikko-osa ' + (osa[1] || '') + '"' + (n ? ' style="--viive:' + (n * 160) + 'ms"' : '') + '>';
+              sanat.forEach(function (sana) {
+                if (!sana) return;
+                if (/^\s+$/.test(sana)) { html += ' '; i++; return; }
+                html += '<span class="otsikko-sana">';
+                for (var k = 0; k < sana.length; k++) html += '<span class="otsikko-kirjain" style="--i:' + (i++) + '">' + sana[k] + '</span>';
+                html += '</span>';
+              });
+              html += '</span>';
+            });
+            if (teksti.length > 42) h1.classList.add('otsikko-pitka');
+            h1.innerHTML = '<span class="vain-ruudunlukijalle">' + teksti + ' – Uutisraportti suosittelee</span>' +
+              '<span class="otsikko-nakyva" aria-hidden="true">' + html + '</span>';
+          })();
+        </script>
+        <p class="hero-subtitle"><strong>Uutisraportti suosittelee</strong> – kaikki Helsingin Sanomien
+          <a href="https://www.hs.fi/kuuntele/uutisraportti/">Uutisraportti-podcastin</a> kulttuuri- ja
+          tekemissuositukset haettavana ja selattavana<span id="tervehdysLuvut"></span>.</p>
         <div class="aikajana" id="aikajana" role="group" aria-label="Suositukset vuosittain – valitse vuosi"></div>
-        <div class="hero-toiminnot">
-          <a class="uusin-jakso" id="uusinJakso" href="#tulokset" hidden></a>
-          <button type="button" class="nappi nappi-toissijainen" data-arvo>
-            <svg class="ikoni"><use href="#i-noppa"/></svg>Arvo suositus
-          </button>
-        </div>
       </div>
     </section>
 
@@ -172,7 +195,15 @@
     </div>
 
     <main class="tulokset" id="tulokset" tabindex="-1">
-      <div class="kategoriarivi" id="kategoriarivi" role="group" aria-label="Kategoriat"></div>
+      <div class="kategoriat">
+        <div class="kategoriarivi" id="kategoriarivi" role="group" aria-label="Kategoriat"></div>
+        <button type="button" class="rulla-nappi rulla-vasen" data-rulla="-1" tabindex="-1" aria-hidden="true">
+          <svg class="ikoni"><use href="#i-vasen"/></svg>
+        </button>
+        <button type="button" class="rulla-nappi rulla-oikea" data-rulla="1" tabindex="-1" aria-hidden="true">
+          <svg class="ikoni"><use href="#i-vasen"/></svg>
+        </button>
+      </div>
       <div class="tulosotsake" id="tulosotsake">
         <h2 class="tulosotsake-otsikko" id="tulosOtsikko">Kaikki suositukset</h2>
         <p class="tulosmaara" id="resultsCount" aria-live="polite"></p>
