@@ -686,12 +686,8 @@ function renderNakyma() {
   renderTulosotsake(tulos);
   renderLista(tulos);
   $('#recommenderFilter').value = tila.suosittelija;
-  $('#naytaTulokset').textContent = tulos.length
-    ? `Näytä ${luku(tulos.length)} ${tulos.length === 1 ? 'suositus' : 'suositusta'}`
-    : 'Ei osumia – sulje';
-  // Suosittelijan sivulla suosittelija on sivu itse, ei rajaus
-  const n = aktiivisiaRajauksia(tila);
-  $('#suodatinMaara').textContent = n || '';
+  $('#suosittelijaTeksti').textContent = tila.suosittelija || 'Suosittelija';
+  $('#suosittelijaValinta').classList.toggle('valittu', Boolean(tila.suosittelija));
   tarkistaPaasiaismuna(tila.q);
 }
 
@@ -833,8 +829,6 @@ function renderKategoriat() {
   const toistuvatChip = `<button type="button" class="chippi chippi-toisto" data-toistuvat aria-pressed="${Boolean(tila.toistuvat)}"
     ${!toistuvia && !tila.toistuvat ? 'disabled' : ''}>${CHIP_IKONIT ? ikoni('toisto') : ''}Useasti suositellut<span class="chippi-maara">${luku(toistuvia)}</span></button>`;
   $('#kategoriarivi').innerHTML = html + '<span class="chippi-erotin" aria-hidden="true"></span>' + toistuvatChip;
-  $('#paneeliKategoriat').innerHTML = html;
-  $('#paneeliErikoiset').innerHTML = toistuvatChip;
   // Valittu chip näkyviin rivillä (vain vaakasuunnassa – sivu ei saa liikkua)
   const rivi = $('#kategoriarivi');
   const valittu = rivi.querySelector('.chippi[aria-pressed="true"]');
@@ -847,15 +841,8 @@ function renderKategoriat() {
   requestAnimationFrame(paivitaKategoriaRulla);
 }
 
+// Vuosirajaus näkyy aikajanalla (valittu vuosi korostettuna; uusi napautus poistaa sen)
 function renderVuodet() {
-  const pohja = suodata(tila, 'vuosi');
-  const maarat = {};
-  for (const r of pohja) maarat[r.vuosi] = (maarat[r.vuosi] || 0) + 1;
-  const vuodet = [...new Set(allRecs.map(r => r.vuosi).filter(Boolean))].sort().reverse();
-  $('#paneeliVuodet').innerHTML =
-    `<button type="button" class="chippi" data-vuosi="" aria-pressed="${!tila.vuosi}">Kaikki</button>` +
-    vuodet.map(v => `<button type="button" class="chippi" data-vuosi="${v}" aria-pressed="${tila.vuosi === v}"
-      ${!maarat[v] && tila.vuosi !== v ? 'disabled' : ''}>${v}<span class="chippi-maara">${luku(maarat[v] || 0)}</span></button>`).join('');
   document.querySelectorAll('.aj-vuosi').forEach(nappi => {
     nappi.setAttribute('aria-pressed', String(nappi.dataset.vuosi === tila.vuosi));
   });
@@ -1951,12 +1938,7 @@ function setupListeners() {
     kentta.select();
   });
 
-  $('#avaaSuodattimet').addEventListener('click', () => avaaModaali('suodattimet', $('#suodatinDialogi')));
   $('#recommenderFilter').addEventListener('change', e => paivitaTila({ suosittelija: e.target.value }));
-  $('#resetFilters').addEventListener('click', () => {
-    kentta.value = '';
-    paivitaTila({ ...TYHJAT_RAJAUKSET, suosittelija: tila.nakyma === 'suosikit' ? '' : tila.suosittelija });
-  });
   $('#jarjestys').addEventListener('click', () =>
     paivitaTila({ jarjestys: tila.jarjestys === 'vanhin' ? 'uusin' : 'vanhin' }));
 
@@ -2005,16 +1987,11 @@ function setupListeners() {
       paivitaTila({ kategoria: tila.kategoria === k ? '' : k });
       return;
     }
-    if (kohde.dataset.vuosi !== undefined && kohde.matches('.chippi, .aj-vuosi')) {
+    if (kohde.dataset.vuosi !== undefined && kohde.matches('.aj-vuosi')) {
       const v = kohde.dataset.vuosi;
-      const uusi = tila.vuosi === v ? '' : v;
-      if (kohde.matches('.aj-vuosi')) {
-        // Aikajanasta valittaessa vieritetään pehmeästi tuloksiin
-        paivitaTila({ vuosi: uusi }, { vieritys: false });
-        window.scrollTo({ top: tulostenAlku(), behavior: pehmea() });
-      } else {
-        paivitaTila({ vuosi: uusi });
-      }
+      // Aikajanasta valittaessa vieritetään pehmeästi tuloksiin
+      paivitaTila({ vuosi: tila.vuosi === v ? '' : v }, { vieritys: false });
+      window.scrollTo({ top: tulostenAlku(), behavior: pehmea() });
       return;
     }
     if (kohde.dataset.poista) {

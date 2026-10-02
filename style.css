@@ -1048,6 +1048,48 @@ button {
   height: 18px;
 }
 
+.palkki-valinta {
+  max-width: 230px;
+}
+
+.palkki-valinta .palkki-nappi-teksti {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.palkki-valinta-nuoli {
+  width: 14px !important;
+  height: 14px !important;
+  margin-left: -2px;
+  color: var(--teksti-himmea);
+}
+
+/* Natiivi valintalista peittää napin näkymättömänä: klikkaus avaa selaimen/laitteen
+   oman listan, ja näppäimistö toimii kuten tavallisessa valinnassa */
+.palkki-valinta select {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  font-size: 16px;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.palkki-valinta:focus-within {
+  outline: 2px solid var(--aksentti);
+  outline-offset: 2px;
+}
+
+.palkki-valinta.valittu {
+  border-color: color-mix(in oklab, var(--aksentti) 55%, transparent);
+  color: var(--aksentti-teksti);
+}
+
 .palkki-nappi-ikoni {
   width: 44px;
   padding: 0;
@@ -1526,28 +1568,31 @@ a.henkilo:hover {
   z-index: 1;
   display: flex;
   flex-wrap: wrap;
-  gap: 4px 16px;
+  gap: 6px;
 }
 
+/* Linkkinapit: laatikko kertoo, että tästä pääsee eteenpäin (käyttäjän toive 2.10.2026) */
 .rec-link {
   display: inline-flex;
   align-items: center;
-  gap: 2px;
-  height: 28px;
+  gap: 3px;
+  height: 30px;
+  padding: 0 8px 0 10px;
+  border: 1px solid var(--reuna);
+  border-radius: var(--radius-sm);
+  background: var(--aksentti-tausta);
   color: var(--aksentti-teksti);
   font-family: var(--fontti-koodi);
-  font-size: 12.5px;
+  font-size: 12px;
   line-height: 1;
   white-space: nowrap;
-  text-decoration: underline;
-  text-decoration-color: transparent;
-  text-underline-offset: 4px;
-  transition: text-decoration-color var(--transition);
+  transition: background-color var(--transition), border-color var(--transition);
 }
 
 .rec-link:hover {
+  background: var(--aksentti-tausta-aktiivinen);
+  border-color: color-mix(in oklab, var(--aksentti) 40%, transparent);
   color: var(--aksentti-teksti);
-  text-decoration-color: currentColor;
 }
 
 .rec-link .ikoni {
@@ -1903,63 +1948,6 @@ dialog.paneeli-keski {
   border-radius: 20px;
 }
 
-/* Sivupaneeli (suodattimet) */
-dialog.paneeli-sivu {
-  --paneeli-pois: translateX(40px);
-  width: min(420px, 100vw);
-  height: 100dvh;
-  margin: 0 0 0 auto;
-}
-
-.paneeli-sivu .paneeli-kehys {
-  height: 100%;
-  border-width: 0 0 0 1px;
-}
-
-.suodatinryhma {
-  min-width: 0;
-  margin-top: 20px;
-  border: none;
-}
-
-.ryhma-otsikko {
-  display: block;
-  margin-bottom: 10px;
-  font-family: var(--fontti-koodi);
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 0.16em;
-  line-height: 1.4;
-  text-transform: uppercase;
-  color: var(--teksti-toissijainen);
-}
-
-.chipit {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.valinta {
-  width: 100%;
-  height: 46px;
-  padding: 0 40px 0 14px;
-  border: 1px solid var(--reuna-vahva);
-  border-radius: var(--radius-sm);
-  background: var(--bg-kentta) var(--nuoli-kuva) no-repeat right 14px center;
-  color: var(--teksti-ensisijainen);
-  font-family: var(--fontti-koodi);
-  font-size: 14px;
-  cursor: pointer;
-  -webkit-appearance: none;
-  appearance: none;
-}
-
-.valinta:focus-visible {
-  border-color: var(--aksentti-teksti);
-  outline-offset: 1px;
-}
-
 /* Suosituksen oma näkymä */
 .tarkka-otsikko {
   margin-top: 6px;
@@ -2013,11 +2001,9 @@ a.henkilo:hover .henkilo-nimi {
 .rec-link-iso {
   height: 40px;
   padding: 0 12px 0 14px;
-  border: 1px solid var(--reuna-vahva);
+  border-color: var(--reuna-vahva);
   border-radius: var(--radius-pill);
-  background: var(--aksentti-tausta);
   font-size: 13px;
-  text-decoration: none;
 }
 
 .rec-link-iso:hover {
@@ -2893,7 +2879,6 @@ a.henkilo:hover .henkilo-nimi {
 /* Kosketusnäytöillä kenttien teksti vähintään 16 px, jottei iOS zoomaa kenttään */
 @media (pointer: coarse) {
   #searchInput,
-  .valinta,
   .kentta input,
   .kentta textarea {
     font-size: 16px;
@@ -3040,10 +3025,8 @@ a.henkilo:hover .henkilo-nimi {
     justify-content: center;
   }
 
-  .palkki-nappi .maara-merkki {
-    position: absolute;
-    top: -3px;
-    right: -3px;
+  .palkki-valinta-nuoli {
+    display: none;
   }
 
   .tulokset {

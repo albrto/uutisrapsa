@@ -63,6 +63,7 @@
     <symbol id="i-ihmiset" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0"/><path d="M16 4.7a3.5 3.5 0 0 1 0 6.6M18.5 14.4a6.5 6.5 0 0 1 3 5.6"/></symbol>
     <symbol id="i-kupla" viewBox="0 0 24 24"><path d="M20 15a2 2 0 0 1-2 2H8.5L4 20.5V6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2z"/></symbol>
     <symbol id="i-sulje" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+    <symbol id="i-nuoli-alas" viewBox="0 0 24 24"><path d="m7 10 5 5 5-5"/></symbol>
     <symbol id="i-alas" viewBox="0 0 24 24"><path d="M12 5v14M6 13l6 6 6-6"/></symbol>
     <symbol id="i-vasen" viewBox="0 0 24 24"><path d="M19 12H5M11 6l-6 6 6 6"/></symbol>
     <symbol id="i-ulos" viewBox="0 0 24 24"><path d="M8 16 16 8M9.5 8H16v6.5"/></symbol>
@@ -184,10 +185,14 @@
             <svg class="ikoni"><use href="#i-sulje"/></svg>
           </button>
         </div>
-        <button type="button" class="palkki-nappi" id="avaaSuodattimet" aria-haspopup="dialog">
-          <svg class="ikoni"><use href="#i-suodatin"/></svg><span class="palkki-nappi-teksti">Suodattimet</span>
-          <span class="maara-merkki" id="suodatinMaara"></span>
-        </button>
+        <!-- Suosittelijavalinta: natiivi valintalista näkyvän napin päällä (puhelimessa laitteen
+             oma valitsin). Aiempi suodatinpaneeli on tallessa git-tagissa "suodatinpaneeli". -->
+        <label class="palkki-nappi palkki-valinta" id="suosittelijaValinta" title="Valitse suosittelija">
+          <svg class="ikoni"><use href="#i-ihmiset"/></svg>
+          <span class="palkki-nappi-teksti" id="suosittelijaTeksti">Suosittelija</span>
+          <svg class="ikoni palkki-valinta-nuoli"><use href="#i-nuoli-alas"/></svg>
+          <select id="recommenderFilter" aria-label="Suosittelija"></select>
+        </label>
         <button type="button" class="palkki-nappi palkki-nappi-ikoni" data-arvo aria-label="Arvo satunnainen suositus" title="Arvo suositus">
           <svg class="ikoni"><use href="#i-noppa"/></svg>
         </button>
@@ -252,41 +257,6 @@
         </button>
       </div>
       <div class="paneeli-sisalto" id="suositusSisalto"></div>
-    </div>
-  </dialog>
-
-  <!-- Suodattimet: mobiilissa alapaneeli, isommilla näytöillä sivupaneeli -->
-  <dialog class="paneeli paneeli-sivu" id="suodatinDialogi" aria-labelledby="suodatinOtsikko">
-    <div class="paneeli-kehys">
-      <div class="paneeli-yla">
-        <span class="paneeli-kahva" aria-hidden="true"></span>
-        <h2 class="paneeli-otsikko" id="suodatinOtsikko">Suodattimet</h2>
-        <button type="button" class="sulje" data-sulje aria-label="Sulje">
-          <svg class="ikoni"><use href="#i-sulje"/></svg>
-        </button>
-      </div>
-      <div class="paneeli-sisalto">
-        <fieldset class="suodatinryhma">
-          <legend class="ryhma-otsikko">Kategoria</legend>
-          <div class="chipit" id="paneeliKategoriat"></div>
-        </fieldset>
-        <div class="suodatinryhma">
-          <label class="ryhma-otsikko" for="recommenderFilter">Suosittelija</label>
-          <select id="recommenderFilter" class="valinta"></select>
-        </div>
-        <fieldset class="suodatinryhma">
-          <legend class="ryhma-otsikko">Vuosi</legend>
-          <div class="chipit" id="paneeliVuodet"></div>
-        </fieldset>
-        <fieldset class="suodatinryhma">
-          <legend class="ryhma-otsikko">Erikoiset</legend>
-          <div class="chipit" id="paneeliErikoiset"></div>
-        </fieldset>
-      </div>
-      <div class="paneeli-ala">
-        <button type="button" class="nappi nappi-haamu" id="resetFilters">Tyhjennä</button>
-        <button type="button" class="nappi nappi-ensisijainen" id="naytaTulokset" data-sulje>Näytä suositukset</button>
-      </div>
     </div>
   </dialog>
 
