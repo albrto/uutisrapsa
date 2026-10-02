@@ -538,6 +538,10 @@ button {
   color: var(--aksentti-teksti);
 }
 
+.sivuotsake .aikajana {
+  margin-top: 24px;
+}
+
 .hero-subtitle {
   max-width: 60ch;
   margin-top: 18px;
@@ -604,33 +608,59 @@ button {
   color: var(--teksti-ensisijainen);
 }
 
-.aj-vuosi svg {
-  display: block;
-  width: 100%;
-  height: 44px;
-  overflow: visible;
+.aj-vuosi:disabled {
+  cursor: default;
+  opacity: 0.4;
 }
 
-.aj-vuosi rect {
-  fill: color-mix(in oklab, var(--aksentti) 55%, transparent);
-  transform-box: fill-box;
+.aj-vuosi:disabled:hover {
+  background: none;
+  color: var(--teksti-himmea);
+}
+
+/* Kuukausipylväät: ::before = koko arkisto (haalea), ::after = rajauksen osumat */
+.aj-palkit {
+  display: flex;
+  height: 44px;
+}
+
+.aj-kk {
+  position: relative;
+  flex: 1 1 0;
+}
+
+.aj-kk::before,
+.aj-kk::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 15%;
+  right: 15%;
+  border-radius: 1.5px 1.5px 0 0;
+}
+
+.aj-kk::before {
+  height: max(1.5px, var(--kaikki));
+  background: var(--reuna-vahva);
+}
+
+.aj-kk::after {
+  height: var(--osuma);
+  background: color-mix(in oklab, var(--aksentti) 55%, transparent);
   transform-origin: 50% 100%;
+  transition: height 0.55s var(--ulos-ease), background-color var(--transition);
   animation: palkki-nousu 0.8s var(--ulos-ease) both;
   animation-delay: calc(var(--i) * 3ms + 150ms);
-  transition: fill var(--transition);
 }
 
-.aj-vuosi rect.tyhja {
-  fill: var(--reuna-vahva);
+.aj-vuosi:hover:not(:disabled) .aj-kk::after,
+.aj-vuosi[aria-pressed="true"] .aj-kk::after,
+.aikajana.rajattu .aj-kk::after {
+  background: var(--aksentti);
 }
 
-.aj-vuosi:hover rect:not(.tyhja),
-.aj-vuosi[aria-pressed="true"] rect:not(.tyhja) {
-  fill: var(--aksentti);
-}
-
-.aikajana.valittu .aj-vuosi:not([aria-pressed="true"]):not(:hover) rect:not(.tyhja) {
-  fill: color-mix(in oklab, var(--aksentti) 22%, transparent);
+.aikajana.valittu .aj-vuosi:not([aria-pressed="true"]):not(:hover) .aj-kk::after {
+  background: color-mix(in oklab, var(--aksentti) 28%, transparent);
 }
 
 .aj-vuosi[aria-pressed="true"] {
@@ -2991,7 +3021,7 @@ a.henkilo:hover .henkilo-nimi {
     padding: 4px 1px;
   }
 
-  .aj-vuosi svg {
+  .aj-palkit {
     height: 36px;
   }
 

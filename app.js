@@ -590,34 +590,36 @@ function renderStaattiset() {
   paivitaSuosikkiMaara();
 }
 
-// Aikajana: jokainen vuosi on nappi, jonka palkit ovat kuukausien suositusmäärät
-// (podcastin ääniaalto, joka on samalla vuosisuodatin)
+// Aikajana: jokainen vuosi on nappi, jonka pylväät ovat kuukausien suositusmääriä
+// (podcastin ääniaalto, joka on samalla vuosisuodatin). Kaksi kerrosta samassa
+// mittakaavassa: haalea = koko arkisto, vihreä = nykyisten rajausten osumat (renderVuodet).
+let aikajanaMaksimi = 1;
+const kkAvain = r => `${r.vuosi}-${r.kuukausi}`;
+
+function laskeKuukaudet(recs) {
+  const m = new Map();
+  for (const r of recs) if (r.vuosi) m.set(kkAvain(r), (m.get(kkAvain(r)) || 0) + 1);
+  return m;
+}
+
+// Pylvään korkeus prosentteina; pieninkin osuma näkyy (vähintään 7 % ≈ 3 px)
+const pylvasKorkeus = m => (m ? `${Math.max(7, (m / aikajanaMaksimi) * 100).toFixed(1)}%` : '0%');
+
 function renderAikajana() {
-  const maarat = new Map();
-  let ekaVuosi = 9999, vikaVuosi = 0;
-  for (const r of allRecs) {
-    if (!r.vuosi) continue;
-    const v = Number(r.vuosi);
-    ekaVuosi = Math.min(ekaVuosi, v);
-    vikaVuosi = Math.max(vikaVuosi, v);
-    const avain = `${v}-${r.kuukausi}`;
-    maarat.set(avain, (maarat.get(avain) || 0) + 1);
-  }
-  const suurin = Math.max(1, ...maarat.values());
+  const kaikki = laskeKuukaudet(allRecs);
+  aikajanaMaksimi = Math.max(1, ...kaikki.values());
+  const vuodet = allRecs.map(r => Number(r.vuosi)).filter(Boolean);
+  const eka = Math.min(...vuodet), vika = Math.max(...vuodet);
   let html = '';
   let i = 0;
-  for (let v = ekaVuosi; v <= vikaVuosi; v++) {
-    let palkit = '';
-    let yhteensa = 0;
+  for (let v = eka; v <= vika; v++) {
+    let kuukaudet = '';
     for (let k = 0; k < 12; k++) {
-      const m = maarat.get(`${v}-${k}`) || 0;
-      yhteensa += m;
-      const h = m ? Math.max(3, Math.round((m / suurin) * 40)) : 1.5;
-      palkit += `<rect x="${k * 4 + 0.6}" y="${40 - h}" width="2.8" height="${h}" rx="1.2" style="--i:${i++}"${m ? '' : ' class="tyhja"'}/>`;
+      const m = kaikki.get(`${v}-${k}`) || 0;
+      kuukaudet += `<span class="aj-kk" data-kk="${v}-${k}" style="--i:${i++};--kaikki:${pylvasKorkeus(m)};--osuma:${pylvasKorkeus(m)}"></span>`;
     }
-    html += `<button type="button" class="aj-vuosi" data-vuosi="${v}" aria-pressed="false"
-      aria-label="${v}: ${luku(yhteensa)} suositusta">
-      <svg viewBox="0 0 48 40" preserveAspectRatio="none" aria-hidden="true">${palkit}</svg>
+    html += `<button type="button" class="aj-vuosi" data-vuosi="${v}" aria-pressed="false">
+      <span class="aj-palkit" aria-hidden="true">${kuukaudet}</span>
       <span class="aj-vuosi-nimi"><span class="aj-pitka">${v}</span><span class="aj-lyhyt">’${String(v).slice(2)}</span></span>
     </button>`;
   }
@@ -658,7 +660,15 @@ function renderNakyma() {
     else a.removeAttribute('aria-current');
   });
 
+  // Aikajana on etusivun herossa ja suosittelijan sivun otsakkeessa (sama elementti).
+  // Otsake piirretään uudelleen innerHTML:llä, joten aikajana nostetaan ensin talteen heroon.
+  const aikajana = $('#aikajana');
+  $('#alku .hero-content').appendChild(aikajana);
   renderSivuotsake();
+  if (tila.profiili) {
+    const paikka = $('#sivuotsake .aikajana-paikka');
+    if (paikka) paikka.appendChild(aikajana);
+  }
   $('#tyokalupalkki').hidden = erikois;
   $('#palkkiAnkkuri').hidden = erikois;
   $('#kategoriarivi').hidden = erikois;
@@ -778,6 +788,7 @@ function renderProfiili(s) {
       </div>
       <div class="jakauma" role="img" aria-label="${jarjestetty.map(([k, m]) => `${kategoria(k).monikko} ${osuus(m)} %`).join(', ')}">${palkki}</div>
       <div class="jakauma-selitteet">${selite}</div>
+      <div class="aikajana-paikka"></div>
     </div>`;
 }
 
@@ -846,12 +857,28 @@ function renderKategoriat() {
   requestAnimationFrame(paivitaKategoriaRulla);
 }
 
-// Vuosirajaus näkyy aikajanalla (valittu vuosi korostettuna; uusi napautus poistaa sen)
+// Aikajana seuraa rajauksia: vihreät pylväät näyttävät, mihin kuukausiin nykyiset rajaukset
+// osuvat. Vuosirajaus jätetään laskusta pois, jotta jakauma näkyy kaikilta vuosilta ja
+// valittu vuosi korostuu (uusi napautus poistaa sen). Vuodet ilman osumia himmenevät.
 function renderVuodet() {
-  document.querySelectorAll('.aj-vuosi').forEach(nappi => {
-    nappi.setAttribute('aria-pressed', String(nappi.dataset.vuosi === tila.vuosi));
+  const pohja = suodata(tila, 'vuosi');
+  const osumat = laskeKuukaudet(pohja);
+  const aikajana = $('#aikajana');
+  aikajana.classList.toggle('rajattu', pohja.length !== allRecs.length);
+  aikajana.classList.toggle('valittu', Boolean(tila.vuosi));
+  aikajana.querySelectorAll('.aj-kk').forEach(kk => {
+    kk.style.setProperty('--osuma', pylvasKorkeus(osumat.get(kk.dataset.kk) || 0));
   });
-  $('#aikajana').classList.toggle('valittu', Boolean(tila.vuosi));
+  aikajana.querySelectorAll('.aj-vuosi').forEach(nappi => {
+    const v = nappi.dataset.vuosi;
+    let n = 0;
+    for (let k = 0; k < 12; k++) n += osumat.get(`${v}-${k}`) || 0;
+    const valittu = v === tila.vuosi;
+    nappi.setAttribute('aria-pressed', String(valittu));
+    nappi.disabled = !n && !valittu;
+    nappi.setAttribute('aria-label', `${v}: ${luku(n)} ${n === 1 ? 'suositus' : 'suositusta'}${valittu ? ', valittu' : ''}`);
+    nappi.title = valittu ? 'Poista vuosirajaus' : `${v}: ${luku(n)} ${n === 1 ? 'suositus' : 'suositusta'}`;
+  });
 }
 
 // Tulosotsikko kertoo, mitä katsotaan ("Kulttuuri · 2023", teoksen nimi …) – erillistä
