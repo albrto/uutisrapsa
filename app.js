@@ -265,10 +265,12 @@ const Suosikit = (() => {
 
 // ---------- Tila ja osoite ----------
 
-let tila = { nakyma: 'koti', q: '', kategoria: '', suosittelija: '', vuosi: '', teos: '', toistuvat: '', jarjestys: 'uusin' };
+// suosittelija = valintalistan rajaus (?suosittelija=<slug>, pysyy samassa näkymässä);
+// profiili = suosittelijan oma sivu (/suosittelija/<slug>), johon tullaan nimeä klikkaamalla
+let tila = { nakyma: 'koti', q: '', kategoria: '', suosittelija: '', profiili: '', vuosi: '', teos: '', toistuvat: '', jarjestys: 'uusin' };
 
-// Rajaukset, jotka "Tyhjennä" nollaa (suosittelijan sivulla suosittelija säilyy)
-const TYHJAT_RAJAUKSET = { q: '', kategoria: '', vuosi: '', teos: '', toistuvat: '' };
+// Rajaukset, jotka "Tyhjennä rajaukset" nollaa (suosittelijan sivu itse säilyy)
+const TYHJAT_RAJAUKSET = { q: '', kategoria: '', suosittelija: '', vuosi: '', teos: '', toistuvat: '' };
 
 const onSuositusPolku = polku => polku.startsWith('/suositus/');
 
@@ -285,7 +287,8 @@ function parsiOsoite(osoite) {
     nakyma: 'koti',
     q: p.get('q') || '',
     kategoria: p.get('kategoria') || '',
-    suosittelija: '',
+    suosittelija: (suosittelijaSlugista.get(p.get('suosittelija')) || {}).nimi || '',
+    profiili: '',
     vuosi: p.get('vuosi') || '',
     teos: teosRyhmat.has(p.get('teos')) ? p.get('teos') : '',
     toistuvat: p.get('toistuvat') === '1' ? '1' : '',
@@ -296,7 +299,8 @@ function parsiOsoite(osoite) {
   const osa = polku.split('/');
   if (osa[1] === 'suosittelija' && osa[2]) {
     const s = suosittelijaSlugista.get(osa[2]);
-    if (s) uusi.suosittelija = s.nimi;
+    if (s) uusi.profiili = s.nimi;
+    uusi.suosittelija = '';
   } else if (polku === '/suosittelijat') {
     uusi.nakyma = 'suosittelijat';
   } else if (osa[1] === 'tilastot') {
@@ -304,8 +308,6 @@ function parsiOsoite(osoite) {
     uusi.valilehti = osa[2] === 'kuviot' ? 'kuviot' : 'top';
   } else if (polku === '/suosikit') {
     uusi.nakyma = 'suosikit';
-    const s = p.get('suosittelija');
-    if (s && suosittelijat.has(s)) uusi.suosittelija = s;
   }
   return uusi;
 }
@@ -318,12 +320,9 @@ function rakennaOsoite(t) {
   } else if (t.nakyma === 'tilastot') {
     polku = t.valilehti === 'kuviot' ? '/tilastot/kuviot' : '/tilastot';
   } else {
-    if (t.nakyma === 'suosikit') {
-      polku = '/suosikit';
-      if (t.suosittelija) p.set('suosittelija', t.suosittelija);
-    } else if (t.suosittelija) {
-      polku = suosittelijaUrl(t.suosittelija);
-    }
+    if (t.nakyma === 'suosikit') polku = '/suosikit';
+    else if (t.profiili) polku = suosittelijaUrl(t.profiili);
+    if (t.suosittelija && !t.profiili) p.set('suosittelija', slugiksi(t.suosittelija));
     if (t.q) p.set('q', t.q);
     if (t.kategoria) p.set('kategoria', t.kategoria);
     if (t.vuosi) p.set('vuosi', t.vuosi);
@@ -364,15 +363,16 @@ function siirry(osoite) {
       history.back();
       return;
     }
-    // Dialogin historiamerkintä muuttuu uudeksi näkymäksi
+    // Dialogin historiamerkintä muuttuu uudeksi näkymäksi (Takaisin palaa dialogin alle)
     suljeElementti(el);
     avoinModaali = null;
-    history.replaceState({ y: 0 }, '', osoite);
+    history.replaceState({ y: 0, edellinen: paluu }, '', osoite);
     sovellaReitti({ ylos: true });
     return;
   }
+  const edellinen = location.pathname + location.search;
   tallennaVieritys();
-  history.pushState({ y: 0 }, '', osoite);
+  history.pushState({ y: 0, edellinen }, '', osoite);
   sovellaReitti({ ylos: true });
 }
 
@@ -546,6 +546,7 @@ function suodata(t, ohita = '') {
     const ids = new Set(Suosikit.kaikki());
     recs = recs.filter(r => ids.has(r.id));
   }
+  if (t.profiili) recs = recs.filter(r => r.suosittelija === t.profiili);
   if (t.suosittelija && ohita !== 'suosittelija') recs = recs.filter(r => r.suosittelija === t.suosittelija);
   if (t.kategoria && ohita !== 'kategoria') recs = recs.filter(r => (r.paakategoria || 'muu') === t.kategoria);
   if (t.vuosi && ohita !== 'vuosi') recs = recs.filter(r => r.vuosi === t.vuosi);
@@ -560,7 +561,7 @@ function suodata(t, ohita = '') {
 }
 
 const aktiivisiaRajauksia = t =>
-  [t.q, t.kategoria, t.vuosi, t.teos, t.toistuvat, t.nakyma === 'koti' ? '' : t.suosittelija].filter(Boolean).length;
+  [t.q, t.kategoria, t.suosittelija, t.vuosi, t.teos, t.toistuvat].filter(Boolean).length;
 
 // Hakusanojen korostus kortin otsikossa ja kuvauksessa
 let korostus = null;
@@ -646,10 +647,10 @@ const onTilastoOsio = t => t.nakyma === 'tilastot' || t.nakyma === 'suosittelija
 
 function renderNakyma() {
   edellinenAvain = JSON.stringify(tila);
-  const koti = tila.nakyma === 'koti' && !tila.suosittelija;
+  const koti = tila.nakyma === 'koti' && !tila.profiili;
   const erikois = onTilastoOsio(tila);
 
-  document.body.dataset.nakyma = tila.nakyma === 'koti' && tila.suosittelija ? 'suosittelija' : tila.nakyma;
+  document.body.dataset.nakyma = tila.profiili ? 'suosittelija' : tila.nakyma;
   $('#alku').hidden = !koti;
   document.querySelectorAll('.nav-linkki[data-nakyma]').forEach(a => {
     const nyt = a.dataset.nakyma === tila.nakyma || (a.dataset.nakyma === 'tilastot' && erikois);
@@ -688,6 +689,8 @@ function renderNakyma() {
   $('#recommenderFilter').value = tila.suosittelija;
   $('#suosittelijaTeksti').textContent = tila.suosittelija || 'Suosittelija';
   $('#suosittelijaValinta').classList.toggle('valittu', Boolean(tila.suosittelija));
+  // Suosittelijan omalla sivulla valinta olisi ristiriitainen (sivu kertoo jo kenen)
+  $('#suosittelijaValinta').hidden = Boolean(tila.profiili);
   tarkistaPaasiaismuna(tila.q);
 }
 
@@ -696,7 +699,7 @@ function paivitaOtsikko() {
   if (tila.nakyma === 'suosittelijat') otsikko = 'Suosittelijat – Uutisraportti suosittelee';
   else if (tila.nakyma === 'tilastot') otsikko = `${tila.valilehti === 'kuviot' ? 'Kuviot' : 'Top-listat'} – Uutisraportti suosittelee`;
   else if (tila.nakyma === 'suosikit') otsikko = 'Suosikit – Uutisraportti suosittelee';
-  else if (tila.suosittelija) otsikko = `${tila.suosittelija} suosittelee – Uutisrapsa`;
+  else if (tila.profiili) otsikko = `${tila.profiili} suosittelee – Uutisrapsa`;
   if (avoinModaali && avoinModaali.nimi === 'suositus' && avoinModaali.otsikko) otsikko = avoinModaali.otsikko;
   document.title = otsikko;
   // Kanoninen: suosituksella sen nykyinen osoite, muilla näkymä ilman hakua ja rajauksia
@@ -707,8 +710,8 @@ function paivitaOtsikko() {
 
 function renderSivuotsake() {
   const el = $('#sivuotsake');
-  if (tila.nakyma === 'koti' && tila.suosittelija) {
-    el.innerHTML = renderProfiili(suosittelijat.get(tila.suosittelija));
+  if (tila.profiili) {
+    el.innerHTML = renderProfiili(suosittelijat.get(tila.profiili));
     el.hidden = false;
   } else if (tila.nakyma === 'suosikit') {
     const n = Suosikit.maara();
@@ -763,7 +766,9 @@ function renderProfiili(s) {
   const vuodet = ekaVuosi === vikaVuosi ? ekaVuosi : `${ekaVuosi}–${vikaVuosi}`;
   return `
     <div class="sivuotsake-sisa">
-      <a class="takaisin tekstilinkki" href="/suosittelijat" data-reitti>${ikoni('vasen')}Kaikki suosittelijat</a>
+      ${history.state && history.state.edellinen
+        ? `<a class="takaisin tekstilinkki" href="${escapeHtml(history.state.edellinen)}" data-takaisin>${ikoni('vasen')}Takaisin</a>`
+        : `<a class="takaisin tekstilinkki" href="/suosittelijat" data-reitti>${ikoni('vasen')}Kaikki suosittelijat</a>`}
       <div class="profiili">
         ${avatar(s.nimi, 'avatar-xl')}
         <div>
@@ -856,13 +861,13 @@ function renderTulosotsake(tulos) {
   if (tila.kategoria) osat.push(kategoria(tila.kategoria).monikko);
   if (tila.vuosi) osat.push(tila.vuosi);
   if (tila.toistuvat) osat.push('Useasti suositellut');
-  if (tila.nakyma === 'suosikit' && tila.suosittelija) osat.push(tila.suosittelija);
+  if (tila.suosittelija) osat.push(tila.suosittelija);
   let otsikko = 'Kaikki suositukset';
   if (tila.teos) otsikko = teosRyhmat.get(tila.teos).nimi;
   else if (osat.length) otsikko = osat.join(' · ');
   else if (tila.q) otsikko = 'Hakutulokset';
   else if (tila.nakyma === 'suosikit') otsikko = 'Tallennetut';
-  else if (tila.suosittelija) otsikko = 'Suositukset';
+  else if (tila.profiili) otsikko = 'Suositukset';
   $('#tulosOtsikko').textContent = otsikko;
   const jaksoja = new Set(tulos.map(r => r.jakso_id)).size;
   $('#resultsCount').textContent = tulos.length
@@ -904,7 +909,7 @@ function renderLista(recs) {
   }
 
   const uusinId = allRecs[0] && allRecs[0].jakso_id;
-  const korostaUusin = tila.nakyma === 'koti' && !tila.suosittelija && !aktiivisiaRajauksia(tila) && tila.jarjestys === 'uusin';
+  const korostaUusin = tila.nakyma === 'koti' && !tila.profiili && !aktiivisiaRajauksia(tila) && tila.jarjestys === 'uusin';
   const ryhmat = ryhmittele(recs);
   const html = g => renderRyhma(g, korostaUusin && g.jakso_id === uusinId);
 
@@ -1956,7 +1961,7 @@ function setupListeners() {
     if (kohde.dataset.teos !== undefined && kohde.matches('.toisto-merkki, .top-teos')) {
       e.preventDefault();
       const slug = kohde.dataset.teos;
-      if (tila.nakyma === 'koti' && !tila.suosittelija) paivitaTila({ teos: tila.teos === slug ? '' : slug });
+      if (tila.nakyma === 'koti' && !tila.profiili) paivitaTila({ teos: tila.teos === slug ? '' : slug });
       else siirry(`/?teos=${slug}`);
       return;
     }
@@ -1966,6 +1971,11 @@ function setupListeners() {
     }
 
 
+    if (kohde.hasAttribute('data-takaisin') && !uusiValilehti) {
+      e.preventDefault();
+      history.back();
+      return;
+    }
     if (kohde.dataset.suositus && !uusiValilehti) {
       e.preventDefault();
       const r = recById.get(kohde.dataset.suositus);
@@ -1998,7 +2008,7 @@ function setupListeners() {
       const p = kohde.dataset.poista;
       if (p === 'kaikki') {
         kentta.value = '';
-        paivitaTila({ ...TYHJAT_RAJAUKSET, suosittelija: tila.nakyma === 'suosikit' ? '' : tila.suosittelija });
+        paivitaTila({ ...TYHJAT_RAJAUKSET });
       } else {
         if (p === 'q') kentta.value = '';
         paivitaTila({ [p]: '' });
