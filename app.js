@@ -669,7 +669,6 @@ function renderNakyma() {
 
   paivitaOtsikko();
   if (erikois) {
-    $('#aktiiviset').hidden = true;
     if (tila.nakyma === 'suosittelijat') renderSuosittelijaRuudukko();
     else renderTilastot(tila.valilehti);
     return;
@@ -685,7 +684,6 @@ function renderNakyma() {
   renderKategoriat();
   renderVuodet();
   renderTulosotsake(tulos);
-  renderAktiiviset();
   renderLista(tulos);
   $('#recommenderFilter').value = tila.suosittelija;
   $('#naytaTulokset').textContent = tulos.length
@@ -802,6 +800,10 @@ function renderSuosittelijaRuudukko() {
     <div class="ruudukko ruudukko-tiivis">${muut.map(kortti).join('')}</div>`;
 }
 
+// Chippien kategoriaikonit: pois minimalistisemman ilmeen kokeiluna (2.10.2026).
+// Takaisin saa vaihtamalla arvoksi true – korttien ikonit eivät riipu tästä.
+const CHIP_IKONIT = false;
+
 function renderKategoriat() {
   const pohja = suodata(tila, 'kategoria');
   const maarat = {};
@@ -819,7 +821,7 @@ function renderKategoriat() {
   const chippi = (avain, nimi, maara, savy, harmaa, ikoniNimi) => {
     const paalla = tila.kategoria === avain;
     return `<button type="button" class="chippi${harmaa ? ' kat-harmaa' : ''}" style="--savy:${savy}" data-kategoria="${escapeHtml(avain)}"
-      aria-pressed="${paalla}"${!maara && !paalla ? ' disabled' : ''}>${ikoniNimi ? ikoni(ikoniNimi, 'kat-ikoni') : ''}${escapeHtml(nimi)}<span class="chippi-maara">${luku(maara)}</span></button>`;
+      aria-pressed="${paalla}"${!maara && !paalla ? ' disabled' : ''}>${ikoniNimi && CHIP_IKONIT ? ikoni(ikoniNimi, 'kat-ikoni') : ''}${escapeHtml(nimi)}<span class="chippi-maara">${luku(maara)}</span></button>`;
   };
   const html = chippi('', 'Kaikki', pohja.length, 0, true, '') +
     renderKategoriat.jarjestys.map(k => {
@@ -829,10 +831,19 @@ function renderKategoriat() {
   // Erikoissuodatin: teokset, joita on suositeltu useassa jaksossa
   const toistuvia = suodata(tila, 'toistuvat').filter(r => r.toisto > 1).length;
   const toistuvatChip = `<button type="button" class="chippi chippi-toisto" data-toistuvat aria-pressed="${Boolean(tila.toistuvat)}"
-    ${!toistuvia && !tila.toistuvat ? 'disabled' : ''}>${ikoni('toisto')}Useasti suositellut<span class="chippi-maara">${luku(toistuvia)}</span></button>`;
+    ${!toistuvia && !tila.toistuvat ? 'disabled' : ''}>${CHIP_IKONIT ? ikoni('toisto') : ''}Useasti suositellut<span class="chippi-maara">${luku(toistuvia)}</span></button>`;
   $('#kategoriarivi').innerHTML = html + '<span class="chippi-erotin" aria-hidden="true"></span>' + toistuvatChip;
   $('#paneeliKategoriat').innerHTML = html;
   $('#paneeliErikoiset').innerHTML = toistuvatChip;
+  // Valittu chip näkyviin rivillä (vain vaakasuunnassa – sivu ei saa liikkua)
+  const rivi = $('#kategoriarivi');
+  const valittu = rivi.querySelector('.chippi[aria-pressed="true"]');
+  if (valittu && valittu.dataset.kategoria !== '') {
+    const vasen = valittu.offsetLeft - 32;
+    const oikea = valittu.offsetLeft + valittu.offsetWidth - rivi.clientWidth + 32;
+    if (rivi.scrollLeft > vasen) rivi.scrollLeft = vasen;
+    else if (rivi.scrollLeft < oikea) rivi.scrollLeft = oikea;
+  }
   requestAnimationFrame(paivitaKategoriaRulla);
 }
 
@@ -851,32 +862,27 @@ function renderVuodet() {
   $('#aikajana').classList.toggle('valittu', Boolean(tila.vuosi));
 }
 
+// Tulosotsikko kertoo, mitä katsotaan ("Kulttuuri · 2023", teoksen nimi …) – erillistä
+// rajausriviä ei tarvita, koska kategoria näkyy chipeistä ja vuosi aikajanasta
 function renderTulosotsake(tulos) {
+  const osat = [];
+  if (tila.kategoria) osat.push(kategoria(tila.kategoria).monikko);
+  if (tila.vuosi) osat.push(tila.vuosi);
+  if (tila.toistuvat) osat.push('Useasti suositellut');
+  if (tila.nakyma === 'suosikit' && tila.suosittelija) osat.push(tila.suosittelija);
   let otsikko = 'Kaikki suositukset';
-  if (tila.nakyma === 'suosikit') otsikko = 'Tallennetut';
+  if (tila.teos) otsikko = teosRyhmat.get(tila.teos).nimi;
+  else if (osat.length) otsikko = osat.join(' · ');
+  else if (tila.q) otsikko = 'Hakutulokset';
+  else if (tila.nakyma === 'suosikit') otsikko = 'Tallennetut';
   else if (tila.suosittelija) otsikko = 'Suositukset';
-  else if (aktiivisiaRajauksia(tila)) otsikko = 'Hakutulokset';
   $('#tulosOtsikko').textContent = otsikko;
   const jaksoja = new Set(tulos.map(r => r.jakso_id)).size;
   $('#resultsCount').textContent = tulos.length
     ? `${luku(tulos.length)} ${tulos.length === 1 ? 'suositus' : 'suositusta'} · ${luku(jaksoja)} ${jaksoja === 1 ? 'jakso' : 'jaksoa'}`
     : 'Ei osumia';
+  $('#tyhjennaRajaukset').hidden = !aktiivisiaRajauksia(tila);
   $('#jarjestysTeksti').textContent = tila.jarjestys === 'vanhin' ? 'Vanhimmat ensin' : 'Uusimmat ensin';
-}
-
-function renderAktiiviset() {
-  const el = $('#aktiiviset');
-  const osat = [];
-  const poista = (kentta, teksti, extra = '') =>
-    `<button type="button" class="aktiivinen" data-poista="${kentta}" aria-label="Poista rajaus: ${escapeHtml(teksti)}">${extra}${escapeHtml(teksti)}${ikoni('sulje')}</button>`;
-  if (tila.q) osat.push(poista('q', `”${tila.q}”`));
-  if (tila.kategoria) osat.push(poista('kategoria', kategoria(tila.kategoria).monikko));
-  if (tila.suosittelija && tila.nakyma === 'suosikit') osat.push(poista('suosittelija', tila.suosittelija, avatar(tila.suosittelija, 'avatar-s')));
-  if (tila.vuosi) osat.push(poista('vuosi', tila.vuosi));
-  if (tila.teos) osat.push(poista('teos', teosRyhmat.get(tila.teos).nimi, ikoni('toisto')));
-  if (tila.toistuvat) osat.push(poista('toistuvat', 'Useasti suositellut', ikoni('toisto')));
-  el.hidden = osat.length === 0;
-  el.innerHTML = osat.join('') + (osat.length > 1 ? `<button type="button" class="tekstilinkki" data-poista="kaikki">Tyhjennä kaikki</button>` : '');
 }
 
 // ---------- Renderöinti: lista ----------
