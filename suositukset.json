@@ -2164,7 +2164,8 @@
           "synthwave",
           "dystopia",
           "elektroninen musiikki"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Kino Regina",
@@ -4625,7 +4626,8 @@
           "räp",
           "disstrack",
           "musiikkianalyysi"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Amerikkapodi – haastattelu professori Marko Maunulan kanssa",
