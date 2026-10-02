@@ -8,6 +8,9 @@
   <meta name="description"
     content="Kaikki Hesarin Uutisraportti-podcastin kulttuuri- ja kulutussuositukset yhdessä paikassa. Etsi kirjoja, elokuvia, podcasteja ja paljon muuta.">
   <link rel="canonical" href="https://uutisrapsa.fi/" id="kanoninen">
+  <!-- Kanoninen osoite heti sivun polusta (alasivut ovat saman sivun näkymiä); GoatCounter
+       lukee polun tästä, joten syvälinkit kirjautuvat oikein. app.js tarkentaa myöhemmin. -->
+  <script>document.getElementById('kanoninen').href = 'https://uutisrapsa.fi' + location.pathname;</script>
   <link rel="icon" href="/favicon.ico" sizes="48x48">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -28,9 +31,9 @@
   <link rel="stylesheet" href="/style.css">
   <link rel="preload" href="/suositukset.json" as="fetch" crossorigin>
 
-  <!-- Open Graph / Facebook -->
+  <!-- Open Graph / Facebook. og:url puuttuu tarkoituksella: sama HTML palvelee kaikkia
+       alasivuja, joten jakopalvelut käyttävät pyydettyä osoitetta. -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://uutisrapsa.fi/">
   <meta property="og:title" content="Uutisraportti suosittelee">
   <meta property="og:site_name" content="uutisrapsa.fi">
   <meta property="og:locale" content="fi_FI">
@@ -43,7 +46,6 @@
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://uutisrapsa.fi/">
   <meta property="twitter:title" content="Uutisraportti suosittelee">
   <meta property="twitter:description"
     content="Kaikki Helsingin Sanomien Uutisraportti-podcastin kulttuuri- ja kulutussuositukset yhdessä paikassa.">
@@ -174,7 +176,7 @@
       <div class="tulosotsake" id="tulosotsake">
         <h2 class="tulosotsake-otsikko" id="tulosOtsikko">Kaikki suositukset</h2>
         <p class="tulosmaara" id="resultsCount" aria-live="polite"></p>
-        <button type="button" class="jarjestys" id="jarjestys" aria-label="Vaihda järjestystä">
+        <button type="button" class="jarjestys" id="jarjestys" title="Vaihda järjestystä">
           <svg class="ikoni"><use href="#i-jarjestys"/></svg><span id="jarjestysTeksti">Uusimmat ensin</span>
         </button>
       </div>

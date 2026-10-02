@@ -12,6 +12,7 @@
 'use strict';
 
 let allData = [];
+let dataValmis = false;
 let allRecs = [];                 // litistetty: jokaisessa suosituksessa jakson tiedot
 const recById = new Map();        // pysyvä tunniste → suositus
 const suosittelijat = new Map();  // nimi → { nimi, slug, savy, maara, kategoriat, eka, vika }
@@ -119,6 +120,7 @@ async function init() {
       allData = await res.json();
     }
     rakennaIndeksit();
+    dataValmis = true;
     renderStaattiset();
     setupListeners();
     sovellaReitti({ alku: true });
@@ -209,8 +211,12 @@ function rakennaIndeksit() {
 
 // Teoksen tunnistus toistoja varten: "The Rest Is History – Odysseus-erikoisjakso"
 // ja "Rest Is History" ovat sama teos; sulkeet ("kausi 2"), alaotsikot ja artikkelit pois
+// sekä "Slow Horses, kausi 3" ja "Wind of Change -podcast" (tarkenne pois)
 function siistiTeos(teos) {
-  return String(teos || '').replace(/\s*\([^)]*\)/g, '').split(/\s+[–—]\s|:\s/)[0].trim();
+  return String(teos || '').replace(/\s*\([^)]*\)/g, '')
+    .split(/\s+[–—-]\s|:\s|,\s*(?:kausi|osa|season)\b/i)[0]
+    .replace(/\s+-[\p{L}-]+$/u, '')
+    .trim();
 }
 
 function teosAvain(teos) {
@@ -330,21 +336,40 @@ function rakennaOsoite(t) {
 }
 
 function tallennaVieritys() {
-  history.replaceState({ ...(history.state || {}), y: window.scrollY }, '', location.href);
+  try {
+    history.replaceState({ ...(history.state || {}), y: window.scrollY }, '', location.href);
+  } catch {} // Safari rajoittaa replaceState-kutsujen tiheyttä
 }
+
+// Vierityskohta pidetään ajan tasalla, jotta Eteenpäin, uudelleenlataus ja paluu
+// muutoslokista osuvat samaan kohtaan
+let vieritysAjastin = null;
+window.addEventListener('scroll', () => {
+  if (vieritysAjastin || avoinModaali) return;
+  vieritysAjastin = setTimeout(() => {
+    vieritysAjastin = null;
+    if (!avoinModaali) tallennaVieritys();
+  }, 700);
+}, { passive: true });
+window.addEventListener('pagehide', () => { if (!avoinModaali) tallennaVieritys(); });
 
 // Uusi näkymä (eri polku): oma historiamerkintä, jotta Takaisin palaa edelliseen
 function siirry(osoite) {
   if (avoinModaali) {
-    const { el, pushed } = avoinModaali;
-    suljeElementti(el);
-    avoinModaali = null;
-    if (pushed) {
-      history.replaceState({ y: 0 }, '', osoite);
-      sovellaReitti({ ylos: true });
+    const { el, paluu } = avoinModaali;
+    if (osoite === paluu) {
+      // Linkki dialogista sen alla olevaan näkymään: suljetaan dialogi (oma merkintä pois)
+      // ja näytetään näkymä alusta – ei kahta samaa merkintää peräkkäin
+      ylosPaluunJalkeen = true;
+      history.back();
       return;
     }
-    history.replaceState({ y: 0 }, '', pohjaOsoite());
+    // Dialogin historiamerkintä muuttuu uudeksi näkymäksi
+    suljeElementti(el);
+    avoinModaali = null;
+    history.replaceState({ y: 0 }, '', osoite);
+    sovellaReitti({ ylos: true });
+    return;
   }
   tallennaVieritys();
   history.pushState({ y: 0 }, '', osoite);
@@ -372,34 +397,70 @@ function paivitaTila(muutos, { vieritys = true } = {}) {
 
 let edellinenAvain = '';
 
+const recOsoitteesta = () => recById.get(location.pathname.split('-').pop());
+
+// Poistaa merkinnästä dialogin tiedot (dialogia ei enää ole auki)
+function siivoaModaaliMerkinta() {
+  const { modaali, avain, pushed, paluu, ...muut } = history.state || {};
+  history.replaceState(muut, '', location.href);
+}
+
 function sovellaReitti({ alku = false, ylos = false } = {}) {
+  if (alku) {
+    const s = history.state || {};
+    if (onSuositusPolku(location.pathname)) {
+      const r = recOsoitteesta();
+      if (!r) {
+        history.replaceState({}, '', '/');
+        toast('Suositusta ei löytynyt – ehkä linkki on vanhentunut.');
+      } else if (!(s.modaali === 'suositus' && s.paluu)) {
+        // Suora lataus (jaettu linkki): pohjanäkymä omaksi merkinnäkseen alle, jotta
+        // Takaisin sulkee dialogin eikä poistu sivustolta
+        history.replaceState({ y: 0 }, '', '/');
+        history.pushState({ modaali: 'suositus', avain: uusiAvain(), pushed: true, paluu: '/' }, '', recUrl(r));
+      } else if (location.pathname !== recUrl(r)) {
+        history.replaceState(s, '', recUrl(r)); // vanha teoksen nimi osoitteessa → nykyinen
+      }
+    } else if (s.modaali) {
+      // Uudelleenlataus muun dialogin ollessa auki: dialogi ei palaa, merkintä siivotaan
+      siivoaModaaliMerkinta();
+    }
+  }
+
+  // Tuntematon suosittelija (nimi korjattu tai linkissä kirjoitusvirhe)
+  const osat = location.pathname.split('/');
+  if (osat[1] === 'suosittelija' && !suosittelijaSlugista.has((osat[2] || '').replace(/\/$/, ''))) {
+    history.replaceState({ y: 0 }, '', '/suosittelijat');
+    toast('Suosittelijaa ei löytynyt – tässä kaikki suosittelijat.');
+  }
+
   tila = parsiOsoite(pohjaOsoite());
   const avain = JSON.stringify(tila);
   const muuttui = avain !== edellinenAvain;
   if (muuttui) renderNakyma();
 
-  // Suositusdialogi suoraan osoitteesta (jaettu linkki, eteenpäin-nuoli)
+  // Suositusdialogi osoitteesta (jaettu linkki, uudelleenlataus, Eteenpäin-nuoli)
   if (onSuositusPolku(location.pathname)) {
-    const id = location.pathname.split('-').pop();
-    const r = recById.get(id);
-    if (r && !(avoinModaali && avoinModaali.nimi === 'suositus')) {
-      if (alku) history.replaceState({ modaali: 'suositus', pushed: false, paluu: '/' }, '', location.href);
-      naytaSuositus(r, { historia: false, pushed: !alku });
-    } else if (!r && alku) {
-      history.replaceState({}, '', '/');
-      toast('Suositusta ei löytynyt – ehkä linkki on vanhentunut.');
+    const s = history.state || {};
+    const r = recOsoitteesta();
+    if (r && !(avoinModaali && avoinModaali.avain === s.avain)) {
+      naytaSuositus(r, { historia: false, avain: s.avain, paluu: s.paluu || '/', laske: !alku });
     }
   }
 
-  if (ylos) {
+  if (alku && !(history.state && history.state.y) && tila.nakyma === 'koti' && aktiivisiaRajauksia(tila)) {
+    // Jaettu haku- tai suodatinlinkki: tulokset heti näkyviin heron ohi
+    window.scrollTo({ top: tulostenAlku(), behavior: 'instant' });
+  } else if (ylos) {
     window.scrollTo({ top: 0, behavior: 'instant' });
-  } else if (!alku && muuttui) {
+  } else if (alku || muuttui) {
     const y = (history.state && history.state.y) || 0;
     if (y) {
       valmistaLista();
       window.scrollTo({ top: y, behavior: 'instant' });
     }
   }
+  paivitaOtsikko();
   if (!alku && muuttui) laskeSivu();
 }
 
@@ -425,7 +486,8 @@ function hakuNormalisoi(teksti) {
 
 // Sumea osuma: sana löytyy, jos jokin tekstin sana alkaa lähes samalla merkkijonolla
 // (1 kirjain eroa, ≥8-kirjaimisissa 2). Alun vertailu sallii taivutuspäätteet:
-// "ministerivaihdos" löytää "ministerinvaihdoksesta". Alle 4 merkin sanat tarkasti.
+// "ministerivaihdos" löytää "ministerinvaihdoksesta". Alle 5 merkin sanat ja numeroita
+// sisältävät sanat tarkasti – muuten "john" löytäisi "jonka" ja "2020" kaikki 2020-luvun päivät.
 function lahesSama(a, b, raja) {
   if (Math.abs(a.length - b.length) > raja) return false;
   let edellinen = Array.from({ length: b.length + 1 }, (_, j) => j);
@@ -444,10 +506,10 @@ function lahesSama(a, b, raja) {
 
 function sanaLoytyy(sana, teksti, sanat) {
   if (teksti.includes(sana)) return true;
-  if (sana.length < 4) return false;
+  if (sana.length < 5 || /\d/.test(sana)) return false;
   const raja = sana.length >= 8 ? 2 : 1;
   return sanat.some(t => {
-    for (let pituus = sana.length - raja; pituus <= sana.length + raja; pituus++) {
+    for (let pituus = sana.length; pituus <= sana.length + raja; pituus++) {
       if (pituus > 0 && pituus <= t.length && lahesSama(sana, t.slice(0, pituus), raja)) return true;
     }
     return false;
@@ -659,7 +721,9 @@ function paivitaOtsikko() {
   else if (tila.suosittelija) otsikko = `${tila.suosittelija} suosittelee – Uutisrapsa`;
   if (avoinModaali && avoinModaali.nimi === 'suositus' && avoinModaali.otsikko) otsikko = avoinModaali.otsikko;
   document.title = otsikko;
-  const polku = onSuositusPolku(location.pathname) ? location.pathname : rakennaOsoite({ ...tila, q: '', kategoria: '', vuosi: '', jarjestys: 'uusin' });
+  // Kanoninen: suosituksella sen nykyinen osoite, muilla näkymä ilman hakua ja rajauksia
+  const rec = onSuositusPolku(location.pathname) && avoinModaali && avoinModaali.rec;
+  const polku = rec ? recUrl(rec) : rakennaOsoite({ ...tila, ...TYHJAT_RAJAUKSET, jarjestys: 'uusin' });
   $('#kanoninen').href = 'https://uutisrapsa.fi' + polku;
 }
 
@@ -950,7 +1014,7 @@ function toistoMerkki(rec) {
   const g = teosRyhmat.get(rec.teosSlug);
   const nyt = tila.teos === rec.teosSlug;
   return `<button type="button" class="toisto-merkki" data-teos="${rec.teosSlug}" aria-pressed="${nyt}"
-    title="Näytä kaikki ${rec.toisto} kertaa, kun ${escapeHtml(g.nimi)} on suositeltu">${ikoni('toisto')}${rec.toisto}× suositeltu</button>`;
+    title="${escapeHtml(g.nimi)} on suositeltu ${rec.toisto} eri jaksossa – näytä kaikki">${ikoni('toisto')}${rec.toisto}× suositeltu</button>`;
 }
 
 function renderCard(rec) {
@@ -968,7 +1032,7 @@ function renderCard(rec) {
         ${rec.kuulijasuositus ? `<span class="rec-badge listener">${ikoni('kuulokkeet')}Kuulijan suositus</span>` : ''}
         ${toistoMerkki(rec)}
         <button type="button" class="suosikki-nappi" data-suosikki="${rec.id}" aria-pressed="${suosikki}"
-          aria-label="${suosikki ? 'Poista suosikeista' : 'Lisää suosikkeihin'}: ${escapeHtml(rec.teos)}">${ikoni('sydan')}</button>
+          aria-label="Suosikki: ${escapeHtml(rec.teos)}">${ikoni('sydan')}</button>
       </div>
       <h4 class="rec-title"><a href="${recUrl(rec)}" class="rec-avaa" data-suositus="${rec.id}">${korosta(rec.teos)}</a></h4>
       ${rec.kuvaus ? `<p class="rec-desc">${korosta(rec.kuvaus)}</p>` : ''}
@@ -1246,6 +1310,28 @@ function laskeTilastot() {
 function renderTilastot(valilehti) {
   const t = laskeTilastot();
   $('#tilastot').innerHTML = valilehti === 'kuviot' ? renderKuviot(t) : renderTopListat(t);
+  sovitaLampoTekstit();
+}
+
+// Lämpökartan numeroiden väri solun todellisen taustan mukaan (valkoinen tai musta sen
+// mukaan, kumpi erottuu paremmin) – toimii molemmissa teemoissa ilman kiinteitä rajoja
+function sovitaLampoTekstit() {
+  const solut = document.querySelectorAll('.lampo-solu:not(.tyhja)');
+  if (!solut.length) return;
+  const ctx = document.createElement('canvas').getContext('2d', { willReadFrequently: true });
+  const lin = c => (c /= 255) <= 0.04045 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4;
+  solut.forEach(solu => {
+    ctx.clearRect(0, 0, 1, 1);
+    ctx.fillStyle = '#000';
+    ctx.fillStyle = getComputedStyle(solu).backgroundColor;
+    ctx.fillRect(0, 0, 1, 1);
+    const [r, g, b] = ctx.getImageData(0, 0, 1, 1).data;
+    const L = 0.2126 * lin(r) + 0.7152 * lin(g) + 0.0722 * lin(b);
+    const valkoinen = 1.05 / (L + 0.05);
+    const musta = (L + 0.05) / (0.0056 + 0.05); // #0f0f14
+    solu.classList.toggle('tumma-pohja', valkoinen >= musta);
+    solu.classList.toggle('vaalea-pohja', valkoinen < musta);
+  });
 }
 
 const etunimi = nimi => String(nimi).split(' ')[0];
@@ -1354,7 +1440,7 @@ function renderKuviot(t) {
     ${t.vuodet.map(v => {
       const m = vuodet[v] || 0;
       const voima = m / t.lampoMax;
-      return `<span class="lampo-solu${m ? '' : ' tyhja'}${voima > 0.5 ? ' tumma' : ''}" style="--voima:${m ? Math.round(14 + voima * 86) : 0}%"
+      return `<span class="lampo-solu${m ? '' : ' tyhja'}" style="--voima:${m ? Math.round(14 + voima * 86) : 0}%"
         data-vihje="${escapeHtml(s.nimi)} · ${v}: ${m} ${m === 1 ? 'suositus' : 'suositusta'}">${m || ''}</span>`;
     }).join('')}`).join('');
 
@@ -1458,25 +1544,32 @@ function setupVihjeet() {
 // Jokainen avattu dialogi saa oman historiamerkinnän, joten puhelimen Takaisin-ele
 // sulkee dialogin eikä poistu sivulta. Kerrallaan on auki yksi dialogi.
 
-let avoinModaali = null; // { nimi, el, pushed, otsikko }
+// Jokaisella dialogimerkinnällä on oma avain: näin Eteenpäin-nuolen tai uudelleenlatauksen
+// jättämä vanha merkintä ei sekoitu uuteen samannimiseen dialogiin.
+let avoinModaali = null; // { nimi, el, avain, paluu, otsikko, rec, siirtoOsoite }
 let palautaFokus = null;
+let modaaliLaskuri = 0;
+let ylosPaluunJalkeen = false;
+const uusiAvain = () => `${Date.now().toString(36)}${++modaaliLaskuri}`;
 
-function avaaModaali(nimi, el, { url = null, otsikko = null } = {}) {
+function avaaModaali(nimi, el, { url = null, otsikko = null, rec = null } = {}) {
   if (avoinModaali) {
-    // Vaihdetaan dialogia (esim. suosituksesta "Ilmoita virheestä"): korvataan merkintä
-    const { pushed } = avoinModaali;
-    if (avoinModaali.el !== el) suljeElementti(avoinModaali.el);
-    history.replaceState({ ...(history.state || {}), modaali: nimi, pushed }, '', url || location.href);
-    avoinModaali = { nimi, el, pushed, otsikko };
+    // Vaihdetaan dialogia (esim. suosituksesta "Ilmoita virheestä"): sama merkintä jatkaa
+    const vanha = avoinModaali;
+    if (vanha.el !== el) suljeElementti(vanha.el);
+    history.replaceState({ ...(history.state || {}), modaali: nimi }, '', url || location.href);
+    avoinModaali = { ...vanha, nimi, el, otsikko, rec: rec || vanha.rec, siirtoOsoite: null };
   } else {
     palautaFokus = document.activeElement;
     tallennaVieritys();
-    history.pushState({ modaali: nimi, pushed: true, paluu: location.pathname + location.search, y: window.scrollY },
-      '', url || location.href);
-    avoinModaali = { nimi, el, pushed: true, otsikko };
+    const paluu = location.pathname + location.search;
+    const avain = uusiAvain();
+    history.pushState({ modaali: nimi, avain, pushed: true, paluu, y: window.scrollY }, '', url || location.href);
+    avoinModaali = { nimi, el, avain, paluu, otsikko, rec };
   }
   if (!el.open) el.showModal();
   paivitaOtsikko();
+  if (nimi === 'suositus' && url) laskeSivu();
 }
 
 function suljeElementti(el) {
@@ -1485,15 +1578,17 @@ function suljeElementti(el) {
 
 function suljeModaali() {
   if (!avoinModaali) return;
-  if (avoinModaali.pushed && history.state && history.state.modaali) {
+  if (history.state && history.state.avain === avoinModaali.avain) {
     history.back(); // popstate sulkee dialogin
     return;
   }
-  const paluu = (history.state && history.state.paluu) || pohjaOsoite();
+  // Varakeino: dialogilla ei ole omaa merkintää – suljetaan paikallaan
+  const { paluu, siirtoOsoite } = avoinModaali;
   suljeElementti(avoinModaali.el);
   avoinModaali = null;
-  history.replaceState({ y: window.scrollY }, '', onSuositusPolku(location.pathname) ? paluu : location.href);
-  paivitaOtsikko();
+  history.replaceState({ y: window.scrollY }, '',
+    siirtoOsoite || (onSuositusPolku(location.pathname) ? paluu || '/' : location.href));
+  if (dataValmis) sovellaReitti();
   palautaFokusLahteelle();
 }
 
@@ -1504,15 +1599,25 @@ function palautaFokusLahteelle() {
 
 window.addEventListener('popstate', () => {
   const s = history.state || {};
-  if (avoinModaali && s.modaali !== avoinModaali.nimi) {
-    const { siirtoOsoite } = avoinModaali;
+  if (avoinModaali && s.avain !== avoinModaali.avain) {
+    const { siirtoOsoite, paluu } = avoinModaali;
     suljeElementti(avoinModaali.el);
     avoinModaali = null;
-    if (siirtoOsoite) history.replaceState({ ...s, y: window.scrollY }, '', siirtoOsoite);
+    // Suodatinpaneelissa tehdyt rajaukset siirtyvät pohjamerkintään – vain jos palattiin
+    // juuri siihen (ei esim. historiavalikosta kauemmas)
+    if (siirtoOsoite && location.pathname + location.search === paluu) {
+      history.replaceState({ ...s, y: window.scrollY }, '', siirtoOsoite);
+    }
     palautaFokusLahteelle();
   }
+  // Eteenpäin-nuoli suljetun dialogin merkintään: siivotaan (suosituksen dialogi avataan uudelleen)
+  if (!avoinModaali && s.modaali && !onSuositusPolku(location.pathname)) siivoaModaaliMerkinta();
+  if (!dataValmis) return;
   sovellaReitti();
-  paivitaOtsikko();
+  if (ylosPaluunJalkeen) {
+    ylosPaluunJalkeen = false;
+    window.scrollTo({ top: 0, behavior: pehmea() });
+  }
 });
 
 function setupDialogit() {
@@ -1547,17 +1652,20 @@ function sittenKun(rec) {
   return vaihtoehdot[parseInt(rec.id, 36) % vaihtoehdot.length];
 }
 
-function naytaSuositus(rec, { historia = true, arvottu = false, pushed = true } = {}) {
+function naytaSuositus(rec, { historia = true, arvottu = false, avain = null, paluu = '/', laske = false } = {}) {
   const el = $('#suositusDialogi');
   $('#suositusSisalto').innerHTML = renderTarkka(rec, arvottu);
   $('#suositusSisalto').scrollTop = 0;
   const otsikko = `${rec.teos} – Uutisraportti suosittelee`;
   if (historia) {
-    avaaModaali('suositus', el, { url: recUrl(rec), otsikko });
+    avaaModaali('suositus', el, { url: recUrl(rec), otsikko, rec });
   } else {
-    avoinModaali = { nimi: 'suositus', el, pushed, otsikko };
+    // Merkintä on jo historiassa (osoitteesta avattu)
+    if (avoinModaali && avoinModaali.el !== el) suljeElementti(avoinModaali.el);
+    avoinModaali = { nimi: 'suositus', el, avain, paluu, otsikko, rec };
     if (!el.open) el.showModal();
     paivitaOtsikko();
+    if (laske) laskeSivu();
   }
 }
 
@@ -1600,7 +1708,7 @@ function renderTarkka(rec, arvottu) {
     </article>
     ${g ? `
     <section class="tarkka-osio tarkka-toistot">
-      <h3 class="tarkka-osio-otsikko">${ikoni('toisto')}Suositeltu ${g.kertoja} kertaa${g.henkilot.size > 1 ? `, ${g.henkilot.size} eri suosittelijaa` : ''}</h3>
+      <h3 class="tarkka-osio-otsikko">${ikoni('toisto')}Suositeltu ${g.kertoja} eri jaksossa${g.henkilot.size > 1 ? `, ${g.henkilot.size} suosittelijaa` : ''}</h3>
       ${pieniLista(toistot)}
       <a class="tekstilinkki" href="/?teos=${g.slug}" data-reitti>Näytä kaikki kerrat listana</a>
     </section>` : ''}
@@ -1647,9 +1755,6 @@ function vaihdaSuosikki(id) {
   const nyt = Suosikit.vaihda(id);
   document.querySelectorAll(`[data-suosikki="${id}"]`).forEach(nappi => {
     nappi.setAttribute('aria-pressed', String(nyt));
-    if (nappi.classList.contains('suosikki-nappi')) {
-      nappi.setAttribute('aria-label', `${nyt ? 'Poista suosikeista' : 'Lisää suosikkeihin'}: ${rec.teos}`);
-    }
     const teksti = nappi.querySelector('span');
     if (teksti) teksti.textContent = nyt ? 'Suosikeissa' : 'Tallenna suosikiksi';
     nappi.classList.remove('pomppu');
@@ -1663,7 +1768,13 @@ function vaihdaSuosikki(id) {
 
 Suosikit.kuuntele(() => {
   paivitaSuosikkiMaara();
-  if (tila.nakyma === 'suosikit') renderNakyma();
+  if (tila.nakyma === 'suosikit') {
+    // Koko lista heti, jotta vierityskohta pysyy (muuten vain ensimmäinen erä)
+    const y = window.scrollY;
+    renderNakyma();
+    valmistaLista();
+    window.scrollTo({ top: y, behavior: 'instant' });
+  }
 });
 
 // --- Palaute ---
@@ -1751,6 +1862,8 @@ function toast(html, { kesto = 4000, toiminto = null } = {}) {
 
 // ---------- Vieritys ----------
 
+const pehmea = () => (matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth');
+
 function tulostenAlku() {
   const main = $('#tulokset');
   const palkki = $('#tyokalupalkki');
@@ -1769,7 +1882,7 @@ function vieritaJaksoon(tunnisteJakso) {
   valmistaLista();
   const el = document.getElementById(`jakso-${tunnisteJakso}`);
   if (!el) return false;
-  el.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'start' });
+  el.scrollIntoView({ behavior: pehmea(), block: 'start' });
   return true;
 }
 
@@ -1804,7 +1917,7 @@ function setupListeners() {
       // Kirjoitettaessa palkki nostetaan yläreunaan, jotta tulokset näkyvät näppäimistön yläpuolella
       const alku = tulostenAlku();
       if (window.scrollY < alku - 1 && kentta.value) {
-        window.scrollTo({ top: alku, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
+        window.scrollTo({ top: alku, behavior: pehmea() });
       } else {
         vieritaTuloksiin();
       }
@@ -1846,10 +1959,6 @@ function setupListeners() {
   $('#jarjestys').addEventListener('click', () =>
     paivitaTila({ jarjestys: tila.jarjestys === 'vanhin' ? 'uusin' : 'vanhin' }));
 
-  $('#aboutLink').addEventListener('click', e => {
-    e.preventDefault();
-    avaaModaali('tietoa', $('#aboutModal'));
-  });
 
   $('#uusinJakso').addEventListener('click', e => {
     e.preventDefault();
@@ -1882,8 +1991,7 @@ function setupListeners() {
       paivitaTila({ toistuvat: tila.toistuvat ? '' : '1' });
       return;
     }
-    if (kohde.hasAttribute('data-avaa-palaute')) { e.preventDefault(); avaaPalaute(); return; }
-    if (kohde.matches('.ylos-linkki')) { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); return; }
+
 
     if (kohde.dataset.suositus && !uusiValilehti) {
       e.preventDefault();
@@ -1895,7 +2003,7 @@ function setupListeners() {
       e.preventDefault();
       const osoite = kohde.getAttribute('href');
       if (osoite === location.pathname + location.search && !avoinModaali) {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: pehmea() });
       } else {
         siirry(osoite);
       }
@@ -1912,7 +2020,7 @@ function setupListeners() {
       if (kohde.matches('.aj-vuosi')) {
         // Aikajanasta valittaessa vieritetään pehmeästi tuloksiin
         paivitaTila({ vuosi: uusi }, { vieritys: false });
-        window.scrollTo({ top: tulostenAlku(), behavior: 'smooth' });
+        window.scrollTo({ top: tulostenAlku(), behavior: pehmea() });
       } else {
         paivitaTila({ vuosi: uusi });
       }
@@ -1931,7 +2039,6 @@ function setupListeners() {
   });
 
   setupPalkki();
-  setupDialogit();
   setupVihjeet();
 }
 
@@ -2041,15 +2148,29 @@ function setupTeemakytkin() {
       document.documentElement.dataset.theme = uusi;
     }
     paivita();
+    sovitaLampoTekstit();
   });
 
-  laiteVaalea.addEventListener('change', paivita);
+  laiteVaalea.addEventListener('change', () => { paivita(); sovitaLampoTekstit(); });
   paivita();
+}
+
+// Palaute, Tietoa ja Takaisin ylös toimivat heti, myös jos datan lataus epäonnistuu
+function setupPerustoiminnot() {
+  setupDialogit();
+  document.addEventListener('click', e => {
+    const kohde = e.target.closest('a, button');
+    if (!kohde) return;
+    if (kohde.hasAttribute('data-avaa-palaute')) { e.preventDefault(); avaaPalaute(); }
+    else if (kohde.id === 'aboutLink') { e.preventDefault(); avaaModaali('tietoa', $('#aboutModal')); }
+    else if (kohde.matches('.ylos-linkki')) { e.preventDefault(); window.scrollTo({ top: 0, behavior: pehmea() }); }
+  });
 }
 
 // Käynnistys
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 setupTeemakytkin();
+setupPerustoiminnot();
 setupKeskustelu();
 setupFeedbackForm();
 init();

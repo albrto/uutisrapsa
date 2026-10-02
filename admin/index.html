@@ -1273,10 +1273,11 @@ function lahesSama(a, b, raja) {
 
 function sanaLoytyy(sana, teksti, sanat) {
   if (teksti.includes(sana)) return true;
-  if (sana.length < 4) return false;
+  // Alle 5 merkin ja numeroita sisältävät sanat tarkasti ("john" ei löydä "jonka", "2020" ei 2021–2026)
+  if (sana.length < 5 || /\d/.test(sana)) return false;
   const raja = sana.length >= 8 ? 2 : 1;
   return sanat.some(t => {
-    for (let pituus = sana.length - raja; pituus <= sana.length + raja; pituus++) {
+    for (let pituus = sana.length; pituus <= sana.length + raja; pituus++) {
       if (pituus > 0 && pituus <= t.length && lahesSama(sana, t.slice(0, pituus), raja)) return true;
     }
     return false;

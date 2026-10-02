@@ -36,6 +36,9 @@
   --aksentti: #3bdaa5;
   --aksentti-tausta: rgba(59, 218, 165, 0.05);
   --aksentti-tausta-aktiivinen: rgba(59, 218, 165, 0.12);
+  /* Aksenttivärinen teksti (vaaleassa teemassa tummempi kuin täytöt, ≥ 4,5:1 myös
+     sävytetyillä pinnoilla) */
+  --aksentti-teksti: #3bdaa5;
 
   /* Neutraali kategoriabadge */
   --badge-teksti: #94a3b8;
@@ -126,6 +129,7 @@
     --aksentti: #0a7d58;
     --aksentti-tausta: rgba(10, 125, 88, 0.06);
     --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+    --aksentti-teksti: #086a4b;
 
     --badge-teksti: #52606f;
     --badge-tausta: rgba(82, 96, 111, 0.10);
@@ -175,6 +179,7 @@
   --aksentti: #0a7d58;
   --aksentti-tausta: rgba(10, 125, 88, 0.06);
   --aksentti-tausta-aktiivinen: rgba(10, 125, 88, 0.12);
+  --aksentti-teksti: #086a4b;
 
   --badge-teksti: #52606f;
   --badge-tausta: rgba(82, 96, 111, 0.10);
@@ -205,11 +210,18 @@
 
 html {
   scroll-behavior: smooth;
+  /* Tarttunut hakupalkki ei peitä ankkuri- tai fokusvierityksen kohdetta */
+  scroll-padding-top: calc(var(--palkki-k) + 8px);
   /* Vierityspalkin tila varataan aina, jottei sisältö siirry dialogin avautuessa */
   scrollbar-gutter: stable;
   scrollbar-color: var(--teksti-himmea) var(--bg-sivu);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+}
+
+html:has(body[data-nakyma="tilastot"]),
+html:has(body[data-nakyma="suosittelijat"]) {
+  scroll-padding-top: 0;
 }
 
 /* Avoin dialogi lukitsee sivun vierityksen */
@@ -224,7 +236,7 @@ body {
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  caret-color: var(--aksentti);
+  caret-color: var(--aksentti-teksti);
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -234,7 +246,7 @@ body {
 }
 
 a {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
   text-decoration: none;
   transition: color var(--transition);
 }
@@ -285,6 +297,10 @@ button {
 
 .ohituslinkki:focus {
   top: 12px;
+}
+
+.ohituslinkki:hover,
+.ohituslinkki:focus {
   color: var(--teksti-aksentin-paalla);
 }
 
@@ -381,7 +397,7 @@ button {
 }
 
 .nav-linkki[aria-current="page"] {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .nav-linkki .ikoni {
@@ -480,7 +496,7 @@ button {
 
 .hero-accent {
   display: block;
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .hero-subtitle {
@@ -521,7 +537,7 @@ button {
 }
 
 .kupla-tervehdys strong {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
   font-weight: 650;
   font-variant-numeric: tabular-nums;
 }
@@ -558,6 +574,9 @@ button {
   height: 6px;
   border-radius: 50%;
   background: var(--teksti-himmea);
+}
+
+.keskustelu.kirjoittaa-nyt .kirjoittaa i {
   animation: piste 1s ease-in-out infinite;
 }
 
@@ -634,7 +653,7 @@ button {
 }
 
 .aj-vuosi[aria-pressed="true"] {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 @keyframes palkki-nousu {
@@ -679,7 +698,7 @@ button {
 
 .uusin-jakso:hover {
   color: var(--teksti-ensisijainen);
-  border-color: var(--aksentti);
+  border-color: var(--aksentti-teksti);
 }
 
 .uusin-jakso-otsikko {
@@ -809,7 +828,7 @@ button {
 
 .tekstilinkki:hover,
 .tekstilinkki:focus-visible {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 /* ===== ALASIVUJEN OTSAKE ===== */
@@ -907,7 +926,7 @@ button {
 }
 
 .jakauma-selite[aria-pressed="true"] {
-  border-color: var(--aksentti);
+  border-color: var(--aksentti-teksti);
   background: var(--aksentti-tausta-aktiivinen);
 }
 
@@ -959,7 +978,8 @@ button {
   top: 0;
   z-index: 50;
   border-bottom: 1px solid transparent;
-  transition: background-color 0.2s ease, border-color 0.2s ease;
+  /* Tausta vaihtuu heti (häivytyksen aikana sisältö näkyisi läpi), reunaviiva pehmeästi */
+  transition: border-color 0.2s ease;
 }
 
 .tyokalupalkki.kiinni {
@@ -1031,7 +1051,7 @@ button {
 }
 
 #searchInput:focus {
-  border-color: var(--aksentti);
+  border-color: var(--aksentti-teksti);
   box-shadow: 0 0 0 3px var(--aksentti-tausta-aktiivinen);
 }
 
@@ -1189,7 +1209,7 @@ button {
 
 .chippi[aria-pressed="true"] {
   background: var(--aksentti);
-  border-color: var(--aksentti);
+  border-color: var(--aksentti-teksti);
   color: var(--teksti-aksentin-paalla);
 }
 
@@ -1216,7 +1236,6 @@ button {
 
 .chippi[aria-pressed="true"] .chippi-maara {
   color: inherit;
-  opacity: 0.75;
 }
 
 .kat-ikoni {
@@ -1295,7 +1314,7 @@ button {
   border: none;
   border-radius: var(--radius-pill);
   background: var(--aksentti-tausta-aktiivinen);
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
   font-family: var(--fontti-koodi);
   font-size: 12px;
   font-weight: 500;
@@ -1321,7 +1340,7 @@ button {
 /* ===== LISTA ===== */
 .jakso {
   margin-top: 36px;
-  scroll-margin-top: calc(var(--palkki-k) + 12px);
+  scroll-margin-top: 4px;
   /* Näkymättömät jaksot jätetään piirtämättä, kunnes ne vieritetään esiin */
   content-visibility: auto;
   contain-intrinsic-size: auto 520px;
@@ -1373,6 +1392,7 @@ button {
 
 .jakso-kortit {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 10px;
 }
 
@@ -1394,10 +1414,16 @@ button {
 
 .rec-top {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 10px;
+  gap: 6px 10px;
   min-height: 28px;
   margin-bottom: 6px;
+  padding-right: 36px;
+}
+
+.tarkka .rec-top {
+  padding-right: 0;
 }
 
 .kat {
@@ -1437,7 +1463,7 @@ button {
 
 .rec-badge.listener {
   background: var(--aksentti-tausta-aktiivinen);
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .rec-badge .ikoni {
@@ -1450,9 +1476,11 @@ button {
   z-index: 1;
   display: grid;
   place-items: center;
+  position: absolute;
+  top: 10px;
+  right: 10px;
   width: 40px;
   height: 40px;
-  margin: -8px -12px -8px auto;
   border: none;
   border-radius: 50%;
   background: transparent;
@@ -1487,7 +1515,7 @@ button {
 }
 
 .pomppu .ikoni {
-  animation: pomppu 0.5s cubic-bezier(0.3, 1.8, 0.5, 1);
+  animation: pomppu 0.45s var(--ulos-ease);
 }
 
 @keyframes pomppu {
@@ -1518,7 +1546,7 @@ button {
 }
 
 .rec-card:hover .rec-avaa {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .rec-avaa:focus-visible {
@@ -1570,7 +1598,7 @@ mark {
 }
 
 a.henkilo:hover {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .henkilo-tuntematon {
@@ -1594,7 +1622,7 @@ a.henkilo:hover {
   border: 1px solid var(--reuna);
   border-radius: var(--radius-sm);
   background: var(--aksentti-tausta);
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
   font-family: var(--fontti-koodi);
   font-size: 12px;
   line-height: 1;
@@ -1605,7 +1633,7 @@ a.henkilo:hover {
 .rec-link:hover {
   background: var(--aksentti-tausta-aktiivinen);
   border-color: color-mix(in oklab, var(--aksentti) 40%, transparent);
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .rec-link .ikoni {
@@ -1756,7 +1784,7 @@ a.henkilo:hover {
 }
 
 .henkilokortti:hover .henkilokortti-nimi {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .henkilokortti-meta {
@@ -1949,8 +1977,8 @@ dialog.paneeli:not([open]) .paneeli-kehys {
   flex: 1;
 }
 
-/* Keskitetty dialogi */
-.paneeli-keski {
+/* Keskitetty dialogi (dialog-valitsin, jotta voittaa dialog.paneeli-perussäännön) */
+dialog.paneeli-keski {
   --paneeli-pois: translateY(14px) scale(0.98);
   width: min(640px, calc(100vw - 48px));
   max-height: min(88dvh, 920px);
@@ -1962,7 +1990,7 @@ dialog.paneeli:not([open]) .paneeli-kehys {
 }
 
 /* Sivupaneeli (suodattimet) */
-.paneeli-sivu {
+dialog.paneeli-sivu {
   --paneeli-pois: translateX(40px);
   width: min(420px, 100vw);
   height: 100dvh;
@@ -2014,7 +2042,7 @@ dialog.paneeli:not([open]) .paneeli-kehys {
 }
 
 .valinta:focus-visible {
-  border-color: var(--aksentti);
+  border-color: var(--aksentti-teksti);
   outline-offset: 1px;
 }
 
@@ -2043,7 +2071,7 @@ dialog.paneeli:not([open]) .paneeli-kehys {
 }
 
 a.henkilo:hover .henkilo-nimi {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .henkilo-rooli {
@@ -2149,7 +2177,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .minilista a:hover .minilista-teos {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .minilista-meta {
@@ -2206,7 +2234,7 @@ a.henkilo:hover .henkilo-nimi {
 
 .kentta input:focus,
 .kentta textarea:focus {
-  border-color: var(--aksentti);
+  border-color: var(--aksentti-teksti);
   box-shadow: 0 0 0 3px var(--aksentti-tausta-aktiivinen);
 }
 
@@ -2342,7 +2370,7 @@ a.henkilo:hover .henkilo-nimi {
   left: 0;
   bottom: calc(96px + env(safe-area-inset-bottom));
   width: 96px;
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
   animation: hiihda 5.6s cubic-bezier(0.45, 0.05, 0.55, 0.95) 0.3s both;
 }
 
@@ -2377,7 +2405,7 @@ a.henkilo:hover .henkilo-nimi {
   border: 1px solid color-mix(in oklab, var(--aksentti) 40%, transparent);
   border-radius: var(--radius-pill);
   background: transparent;
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
   font-family: var(--fontti-koodi);
   font-size: 11px;
   font-weight: 500;
@@ -2400,7 +2428,7 @@ a.henkilo:hover .henkilo-nimi {
   display: flex;
   align-items: center;
   gap: 6px;
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .tarkka-toistot .tarkka-osio-otsikko .ikoni {
@@ -2418,7 +2446,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .chippi-toisto .ikoni {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .chippi-toisto[aria-pressed="true"] .ikoni {
@@ -2560,7 +2588,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .toprivi-linkki:hover {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .toprivi-linkki .ikoni {
@@ -2766,7 +2794,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .lampo-nimi:hover {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .lampo-solu {
@@ -2783,8 +2811,13 @@ a.henkilo:hover .henkilo-nimi {
   background: var(--bg-tagi);
 }
 
-.lampo-solu.tumma {
-  color: var(--teksti-aksentin-paalla);
+.lampo-solu.tumma-pohja {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.lampo-solu.vaalea-pohja {
+  color: #0f0f14;
   font-weight: 500;
 }
 
@@ -2855,7 +2888,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .hiihtorivi-nimi:hover {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .hiihto-palkki {
@@ -2889,7 +2922,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .hiihtorivi-teokset a:hover {
-  color: var(--aksentti);
+  color: var(--aksentti-teksti);
 }
 
 .hiihto-muut {
@@ -2973,6 +3006,35 @@ a.henkilo:hover .henkilo-nimi {
   .chippi {
     height: 40px;
   }
+
+  .jarjestys,
+  .haku-tyhjenna {
+    height: 40px;
+  }
+
+  .haku-tyhjenna {
+    width: 40px;
+    right: 2px;
+  }
+
+  /* Pienet napit: näkyvä koko ennallaan, osuma-alue isompi (kortin päälinkin päällä) */
+  .toisto-merkki::after,
+  .henkilo::after,
+  .rec-link::after,
+  .teemakytkin::after {
+    content: '';
+    position: absolute;
+    inset: -8px -4px;
+  }
+
+  .rec-link,
+  .teemakytkin {
+    position: relative;
+  }
+
+  .teemakytkin::after {
+    inset: -10px -2px;
+  }
 }
 
 /* S: mobiili */
@@ -2982,8 +3044,14 @@ a.henkilo:hover .henkilo-nimi {
     gap: 4px;
   }
 
-  .nav-teksti {
-    display: none;
+  .nav-teksti,
+  .palkki-nappi-teksti {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
   }
 
   .nav-linkki {
@@ -3068,10 +3136,6 @@ a.henkilo:hover .henkilo-nimi {
   .tyokalupalkki-sisa {
     padding: 0 16px;
     gap: 6px;
-  }
-
-  .palkki-nappi-teksti {
-    display: none;
   }
 
   .palkki-nappi {
