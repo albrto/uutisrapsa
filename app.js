@@ -602,8 +602,9 @@ function laskeKuukaudet(recs) {
   return m;
 }
 
-// Pylvään korkeus prosentteina; pieninkin osuma näkyy (vähintään 7 % ≈ 3 px)
-const pylvasKorkeus = m => (m ? `${Math.max(7, (m / aikajanaMaksimi) * 100).toFixed(1)}%` : '0%');
+// Pylvään korkeus osuutena (0–1); pieninkin osuma näkyy (vähintään 0,07 ≈ 3 px).
+// Osumapylväs skaalataan transformilla, jotta muutos animoituu ilman asettelulaskentaa.
+const pylvasKorkeus = m => (m ? Math.max(0.07, m / aikajanaMaksimi).toFixed(3) : '0');
 
 function renderAikajana() {
   const kaikki = laskeKuukaudet(allRecs);

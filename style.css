@@ -640,15 +640,16 @@ button {
 }
 
 .aj-kk::before {
-  height: max(1.5px, var(--kaikki));
+  height: max(1.5px, calc(var(--kaikki) * 100%));
   background: var(--reuna-vahva);
 }
 
 .aj-kk::after {
-  height: var(--osuma);
+  height: 100%;
   background: color-mix(in oklab, var(--aksentti) 55%, transparent);
+  transform: scaleY(var(--osuma));
   transform-origin: 50% 100%;
-  transition: height 0.55s var(--ulos-ease), background-color var(--transition);
+  transition: transform 0.55s var(--ulos-ease), background-color var(--transition);
   animation: palkki-nousu 0.8s var(--ulos-ease) both;
   animation-delay: calc(var(--i) * 3ms + 150ms);
 }
