@@ -8,3 +8,35 @@
 # tuotannossa komento ei aja, joten noindex ei voi vuotaa tuotantoon.
 [context.branch-deploy]
   command = 'printf "/*\n  X-Robots-Tag: noindex\n" > _headers'
+
+# Alasivut ovat saman yhden sivun näkymiä (app.js reitittää osoitteen mukaan).
+# status 200 = uudelleenkirjoitus: osoite säilyy, palvellaan index.html.
+[[redirects]]
+  from = "/suosittelija/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/suositus/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/suosittelijat"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/suosikit"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/tilastot"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/tilastot/*"
+  to = "/index.html"
+  status = 200

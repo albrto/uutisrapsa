@@ -28,16 +28,16 @@ Ainoa paikka, jossa podcastin suositukset ovat koottuna ja jäsenneltynä — vi
 ## Operating Context
 
 - Data tulee automaattiputkesta (RSS → Deepgram → Claude → `suositukset.json`); julkaisu torstaisin GitHub Actionsissa, Netlify julkaisee repon juuren.
-- Julkinen sivu on vanilla-staattinen (index.html + app.js + style.css, ei frameworkia eikä build-vaihetta; app.js renderöi `suositukset.json`:sta).
+- Julkinen sivu on vanilla-staattinen (index.html + app.js + style.css, ei frameworkia eikä build-vaihetta; app.js renderöi `suositukset.json`:sta). Vuodesta 2.10.2026 sama sivu palvelee myös alasivut (suosittelijan sivu, suosituksen oma näkymä, suosikit, Tilastot-välilehdet) Netlifyn uudelleenkirjoitusten avulla.
 - Korjaukset kulkevat admin-UI:sta gitin kautta putkeen.
-- Palautelomake (Netlify Forms) on nykyisin sivun pohjalla — tunnettu kipupiste: lukijapalaute kutsui sijaintia "rasauttavaksi" (koko lista pitää vierittää läpi), ja mobiilisijoittelusta on tullut palautetta 26.5.2026.
+- Palautelomake (Netlify Forms) oli ennen sivun pohjalla — lukijapalaute kutsui sijaintia "rasauttavaksi" (koko lista piti vierittää läpi), ja mobiilisijoittelusta tuli palautetta 26.5.2026. Ratkaistu 2.10.2026: lomake avautuu dialogina yläpalkista, alatunnisteesta ja jokaisen suosituksen "Ilmoita virheestä" -napista.
 - Kävijämäärä n. 800–1200 kävijää / 1500–2000 sivulatausta kuukaudessa; GoatCounter-analytiikka (evästeetön) vain tuotanto-hostnamella.
 
 ## Capabilities and Constraints
 
-- Haku ja kategoriasuodattimet ovat olemassa; datan skeema on kiinteä (`suositukset.json`; suositusten järjestys jakson sisällä eli `r_idx` on kantava — ei saa rikkoa).
+- Haku (sumea), kategoriachipit, suosittelija-, vuosi- ja "useasti suositellut" -suodattimet, suosikit (selaimeen), satunnainen suositus ja Tilastot (top-listat, kuviot) ovat olemassa; datan skeema on kiinteä (`suositukset.json`; suositusten järjestys jakson sisällä eli `r_idx` on kantava — ei saa rikkoa).
 - Kaikki sisältö ja UI suomeksi.
-- Tulossa (roadmap): affiliate-linkit vaativat KKV:n mainosmerkinnän ("mainos"-label) — designin pitää varata tälle paikka; vaihe 3 tuo staattisesti generoidut alasivut (suosittelija-, kategoria- ja tilastosivut) — mallipohjien pitää laajentua niihin; pysyvät suositus-ID:t suunnitteilla.
+- Tulossa (roadmap): affiliate-linkit vaativat KKV:n mainosmerkinnän ("mainos"-label) — designin pitää varata tälle paikka; vaihe 3 tuo staattisesti generoidut alasivut (suosittelija-, kategoria- ja tilastosivut) — ne voivat korvata nykyiset selaimessa renderöidyt näkymät samoilla osoitteilla; pysyvä suositus-ID lasketaan parista (jakso_id, r_idx), ks. CLAUDE.md; kirjautuminen (Google/Apple) ja uutiskirje ovat roadmapilla, niille on paikka yläpalkissa ja suosikkien rajapinnassa.
 - Avoin päätös: tumman/vaalean teeman tarkat paletit ja typografia päätetään new-work-vaiheessa.
 
 ## Brand Commitments
