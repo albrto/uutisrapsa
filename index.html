@@ -16,7 +16,7 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400..800&family=Google+Sans+Code:wght@400..500&display=swap"
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..500&display=swap"
     rel="stylesheet">
   <!-- Teema: oletuksena laitteen asetus; käyttäjän valinta (teemakytkin) talletetaan.
        Ajetaan ennen tyylejä, jottei sivu välähdä väärässä teemassa. -->
@@ -125,6 +125,8 @@
     <!-- Etusivun hero (piilotetaan alasivuilla) -->
     <section class="hero" id="alku" aria-labelledby="heroOtsikko">
       <div class="hero-content">
+       <div class="hero-ylaosa">
+        <div class="hero-teksti">
         <!-- Otsikko on podcastin toistuva fraasi, joka arvotaan joka latauksella (ei vaihdu
              itsestään). Valinta tehdään heti otsikon jälkeen ennen ensimmäistä piirtoa. -->
         <h1 class="hero-title" id="heroOtsikko">Hei ja tervetuloa…<span class="vain-ruudunlukijalle"> Uutisraportti suosittelee</span></h1>
@@ -158,13 +160,19 @@
               html += '</span>';
             });
             if (teksti.length > 42) h1.classList.add('otsikko-pitka');
+            // Pisin sana rajaa fonttikoon (sanat eivät katkea), ks. style.css .hero-title
+            h1.style.setProperty('--pisin', Math.max.apply(null, teksti.split(/\s+/).map(function (s) { return s.length; })) + 1);
             h1.innerHTML = '<span class="vain-ruudunlukijalle">' + teksti + ' – Uutisraportti suosittelee</span>' +
               '<span class="otsikko-nakyva" aria-hidden="true">' + html + '</span>';
           })();
         </script>
         <p class="hero-subtitle"><strong>Uutisraportti suosittelee</strong> – kaikki Helsingin Sanomien
           <a href="https://www.hs.fi/kuuntele/uutisraportti/">Uutisraportti-podcastin</a> kulttuuri- ja
-          tekemissuositukset haettavana ja selattavana<span id="tervehdysLuvut"></span>.</p>
+          tekemissuositukset haettavana ja selattavana.<span class="hero-luvut" id="tervehdysLuvut"></span></p>
+        </div>
+        <!-- Vuosirenkaat: koko arkisto yhtenä kuviona (app.js renderHeroKuvio) -->
+        <div class="hero-kuvio" id="heroKuvio" aria-hidden="true"></div>
+       </div>
         <div class="aikajana" id="aikajana" role="group" aria-label="Suositukset vuosittain – valitse vuosi"></div>
       </div>
     </section>

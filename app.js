@@ -603,8 +603,9 @@ function korosta(teksti) {
 function renderStaattiset() {
   const jaksoja = allData.length;
   $('#tervehdysLuvut').textContent =
-    `: ${luku(allRecs.length)} suositusta ${luku(jaksoja)} jaksosta ja ${luku(suosittelijat.size)} suosittelijalta`;
+    `${luku(allRecs.length)} suositusta ${luku(jaksoja)} jaksosta ja ${luku(suosittelijat.size)} suosittelijalta.`;
   renderAikajana();
+  renderHeroKuvio();
   renderSuosittelijavalinta();
   paivitaSuosikkiMaara();
 }
@@ -644,6 +645,48 @@ function renderAikajana() {
     </button>`;
   }
   $('#aikajana').innerHTML = html;
+}
+
+// Vuosirenkaat (heron kuvio): arkisto puun poikkileikkauksena. Jokainen vuosi on rengas
+// (vanhin keskellä), jokainen jakso säde julkaisupäivänsä kulmassa ja säteen pituus
+// jakson suositusmäärä. renderVuodet himmentää jaksot, joissa ei ole rajausten osumia.
+function renderHeroKuvio() {
+  const kohde = $('#heroKuvio');
+  if (!kohde) return;
+  const jaksot = [];
+  for (const jakso of allData) {
+    const pvm = parsiPvm(jakso.paivamaara);
+    if (!pvm) continue;
+    const n = jakso.suositukset.filter(r => !r.piilotettu).length;
+    jaksot.push({ id: jakso.id, pvm, n });
+  }
+  if (!jaksot.length) return;
+  const vuodet = jaksot.map(j => j.pvm.getFullYear());
+  const eka = Math.min(...vuodet), vika = Math.max(...vuodet);
+  const R0 = 52, R1 = 192;
+  const vali = (R1 - R0) / (vika - eka + 1);
+  const sade = v => R0 + (v - eka) * vali;
+  const f = x => x.toFixed(1);
+
+  let renkaat = '';
+  for (let v = eka; v <= vika + 1; v++) renkaat += `<circle class="hk-rengas" r="${f(sade(v))}"/>`;
+
+  // Vanhimmasta uusimpaan, jotta piirtoanimaatio kasvaa keskeltä ulos
+  jaksot.sort((a, b) => a.pvm - b.pvm);
+  const sateet = jaksot.map((j, i) => {
+    const vuodenAlku = new Date(j.pvm.getFullYear(), 0, 1);
+    const kulma = ((j.pvm - vuodenAlku) / 864e5 / 366) * 2 * Math.PI - Math.PI / 2;
+    const r1 = sade(j.pvm.getFullYear()) + 1.2;
+    const r2 = r1 + Math.min(vali - 2.4, 0.6 + j.n * 1.25);
+    const cos = Math.cos(kulma), sin = Math.sin(kulma);
+    return `<line class="hk-sade" data-jakso="${escapeHtml(j.id)}" style="--i:${i}" x1="${f(r1 * cos)}" y1="${f(r1 * sin)}" x2="${f(r2 * cos)}" y2="${f(r2 * sin)}"/>`;
+  }).join('');
+
+  kohde.innerHTML = `<svg viewBox="-200 -200 400 400" focusable="false">
+    ${renkaat}${sateet}
+    <text class="hk-vuosi" text-anchor="middle" y="-3">${eka}–${vika}</text>
+    <text class="hk-vuosi" text-anchor="middle" y="8">${luku(jaksot.length)} jaksoa</text>
+  </svg>`;
 }
 
 function renderSuosittelijavalinta() {
@@ -889,6 +932,16 @@ function renderVuodet() {
   aikajana.querySelectorAll('.aj-kk').forEach(kk => {
     kk.style.setProperty('--osuma', pylvasKorkeus(osumat.get(kk.dataset.kk) || 0));
   });
+  // Vuosirenkaat: osumattomat jaksot himmenevät (vuosirajaus mukaan erikseen)
+  const kuvio = $('#heroKuvio');
+  if (kuvio && kuvio.offsetParent) {
+    const rajattu = pohja.length !== allRecs.length || tila.vuosi;
+    const osumaJaksot = new Set();
+    if (rajattu) for (const r of pohja) if (!tila.vuosi || r.vuosi === tila.vuosi) osumaJaksot.add(r.jakso_id);
+    kuvio.querySelectorAll('.hk-sade').forEach(l => {
+      l.classList.toggle('hk-pois', Boolean(rajattu) && !osumaJaksot.has(l.dataset.jakso));
+    });
+  }
   aikajana.querySelectorAll('.aj-vuosi').forEach(nappi => {
     const v = nappi.dataset.vuosi;
     let n = 0;
