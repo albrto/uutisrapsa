@@ -649,7 +649,8 @@ function renderAikajana() {
 
 // Vuosirenkaat (heron kuvio): arkisto puun poikkileikkauksena. Jokainen vuosi on rengas
 // (vanhin keskellä), jokainen jakso säde julkaisupäivänsä kulmassa ja säteen pituus
-// jakson suositusmäärä. renderVuodet himmentää jaksot, joissa ei ole rajausten osumia.
+// jakson suositusmäärä. Uusin jakso on vihreä; renderVuodet himmentää jaksot, joissa ei
+// ole rajausten osumia, ja värittää osumat vihreiksi.
 function renderHeroKuvio() {
   const kohde = $('#heroKuvio');
   if (!kohde) return;
@@ -679,7 +680,8 @@ function renderHeroKuvio() {
     const r1 = sade(j.pvm.getFullYear()) + 1.2;
     const r2 = r1 + Math.min(vali - 2.4, 0.6 + j.n * 1.25);
     const cos = Math.cos(kulma), sin = Math.sin(kulma);
-    return `<line class="hk-sade" data-jakso="${escapeHtml(j.id)}" style="--i:${i}" x1="${f(r1 * cos)}" y1="${f(r1 * sin)}" x2="${f(r2 * cos)}" y2="${f(r2 * sin)}"/>`;
+    const uusin = i === jaksot.length - 1 ? ' hk-uusin' : '';
+    return `<line class="hk-sade${uusin}" data-jakso="${escapeHtml(j.id)}" style="--i:${i}" x1="${f(r1 * cos)}" y1="${f(r1 * sin)}" x2="${f(r2 * cos)}" y2="${f(r2 * sin)}"/>`;
   }).join('');
 
   kohde.innerHTML = `<svg viewBox="-200 -200 400 400" focusable="false">
@@ -939,7 +941,9 @@ function renderVuodet() {
     const osumaJaksot = new Set();
     if (rajattu) for (const r of pohja) if (!tila.vuosi || r.vuosi === tila.vuosi) osumaJaksot.add(r.jakso_id);
     kuvio.querySelectorAll('.hk-sade').forEach(l => {
-      l.classList.toggle('hk-pois', Boolean(rajattu) && !osumaJaksot.has(l.dataset.jakso));
+      const osuu = osumaJaksot.has(l.dataset.jakso);
+      l.classList.toggle('hk-pois', Boolean(rajattu) && !osuu);
+      l.classList.toggle('hk-osuma', Boolean(rajattu) && osuu);
     });
   }
   aikajana.querySelectorAll('.aj-vuosi').forEach(nappi => {

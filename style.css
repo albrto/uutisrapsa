@@ -37,8 +37,13 @@
   --aksentti-tausta: rgba(204, 204, 204, 0.04);
   --aksentti-tausta-aktiivinen: rgba(204, 204, 204, 0.1);
   --aksentti-teksti: #ededed;
-  /* Ainoa väri: sanamerkki ja "Uusin jakso" -pallo */
+  /* Ainoa väri, käytetään säästeliäästi: sanamerkki, "Uusin jakso" -pallo, kaavioiden
+     osumat, hover- ja fokustilat. --vari-teksti on tekstikäyttöön (kontrasti ≥ 4,5:1). */
   --merkki: #3bdaa5;
+  --vari: #3bdaa5;
+  --vari-teksti: #3bdaa5;
+  --vari-tausta: rgba(59, 218, 165, 0.16);
+  --vari-paalla: #111111;
 
   /* Kategoriabadge */
   --badge-teksti: #858585;
@@ -59,9 +64,9 @@
   --kaavio-muut: #6e6e6e;
 
   /* Toiminnalliset värit */
-  --sydan: #ededed;
+  --sydan: var(--vari);
   --virhe: #ff8a8a;
-  --mark-tausta: rgba(204, 204, 204, 0.22);
+  --mark-tausta: var(--vari-tausta);
   --toast-tausta: #ededed;
   --toast-teksti: #111111;
   --lumi: #ffffff;
@@ -130,6 +135,10 @@
     --aksentti-tausta-aktiivinen: rgba(34, 34, 34, 0.08);
     --aksentti-teksti: #111111;
     --merkki: #0a7d58;
+    --vari: #0a7d58;
+    --vari-teksti: #086a4b;
+    --vari-tausta: rgba(10, 125, 88, 0.14);
+    --vari-paalla: #ffffff;
 
     --badge-teksti: #696964;
     --badge-tausta: rgba(34, 34, 34, 0.06);
@@ -144,9 +153,9 @@
     --kaavio-c: 0.14;
     --kaavio-muut: #8f8f8a;
 
-    --sydan: #111111;
+    --sydan: var(--vari);
     --virhe: #c62828;
-    --mark-tausta: rgba(34, 34, 34, 0.12);
+    --mark-tausta: var(--vari-tausta);
     --toast-tausta: #222222;
     --toast-teksti: #f5f5f0;
     --lumi: #9fa3a8;
@@ -180,6 +189,10 @@
   --aksentti-tausta-aktiivinen: rgba(34, 34, 34, 0.08);
   --aksentti-teksti: #111111;
   --merkki: #0a7d58;
+  --vari: #0a7d58;
+  --vari-teksti: #086a4b;
+  --vari-tausta: rgba(10, 125, 88, 0.14);
+  --vari-paalla: #ffffff;
 
   --badge-teksti: #696964;
   --badge-tausta: rgba(34, 34, 34, 0.06);
@@ -194,9 +207,9 @@
   --kaavio-c: 0.14;
   --kaavio-muut: #8f8f8a;
 
-  --sydan: #111111;
+  --sydan: var(--vari);
   --virhe: #c62828;
-  --mark-tausta: rgba(34, 34, 34, 0.12);
+  --mark-tausta: var(--vari-tausta);
   --toast-tausta: #222222;
   --toast-teksti: #f5f5f0;
   --lumi: #9fa3a8;
@@ -242,8 +255,8 @@ body {
 }
 
 ::selection {
-  background: var(--aksentti);
-  color: var(--teksti-aksentin-paalla);
+  background: var(--vari);
+  color: var(--vari-paalla);
 }
 
 a {
@@ -257,7 +270,7 @@ a:hover {
 }
 
 :focus-visible {
-  outline: 2px solid var(--aksentti);
+  outline: 2px solid var(--vari);
   outline-offset: 2px;
 }
 
@@ -403,7 +416,7 @@ button {
 }
 
 .nav-linkki:hover {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
 }
 
 .nav-linkki[aria-current="page"] {
@@ -526,6 +539,15 @@ button {
 
 .hk-sade.hk-pois {
   opacity: 0.14;
+}
+
+.hk-sade.hk-osuma,
+.hk-sade.hk-uusin {
+  stroke: var(--vari);
+}
+
+.hk-sade.hk-uusin {
+  stroke-width: 2;
 }
 
 @keyframes hk-esiin {
@@ -735,18 +757,23 @@ button {
   animation-delay: calc(var(--i) * 3ms + 150ms);
 }
 
+/* Väri vain siellä, missä on toimintaa: osoitettu ja valittu vuosi sekä rajauksen osumat */
 .aj-vuosi:hover:not(:disabled) .aj-kk::after,
 .aj-vuosi[aria-pressed="true"] .aj-kk::after,
 .aikajana.rajattu .aj-kk::after {
-  background: var(--aksentti);
+  background: var(--vari);
 }
 
 .aikajana.valittu .aj-vuosi:not([aria-pressed="true"]):not(:hover) .aj-kk::after {
   background: color-mix(in oklab, var(--aksentti) 28%, transparent);
 }
 
+.aj-vuosi:hover:not(:disabled) {
+  color: var(--vari-teksti);
+}
+
 .aj-vuosi[aria-pressed="true"] {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
   background: var(--bg-tagi);
 }
 
@@ -871,7 +898,7 @@ button {
 
 .tekstilinkki:hover,
 .tekstilinkki:focus-visible {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
   text-decoration-color: currentColor;
 }
 
@@ -967,7 +994,7 @@ button {
 }
 
 .jakauma-selite[aria-pressed="true"] {
-  border-color: var(--teksti-ensisijainen);
+  border-color: var(--vari);
   background: var(--aksentti-tausta-aktiivinen);
 }
 
@@ -1094,7 +1121,7 @@ button {
 }
 
 #searchInput:focus {
-  border-color: var(--teksti-ensisijainen);
+  border-color: var(--vari);
 }
 
 #searchInput::placeholder {
@@ -1215,7 +1242,7 @@ button {
 }
 
 .palkki-valinta:focus-within {
-  outline: 2px solid var(--aksentti);
+  outline: 2px solid var(--vari);
   outline-offset: 2px;
 }
 
@@ -1337,8 +1364,8 @@ button {
   transition: border-color var(--transition), background-color var(--transition), color var(--transition), transform 0.12s ease;
 }
 
-.chippi:hover:not(:disabled) {
-  border-color: var(--teksti-ensisijainen);
+.chippi:hover:not(:disabled):not([aria-pressed="true"]) {
+  border-color: var(--vari);
 }
 
 .chippi:active:not(:disabled) {
@@ -1652,7 +1679,7 @@ button {
 }
 
 .rec-card:hover .rec-avaa {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
 }
 
 .rec-avaa:focus-visible {
@@ -1660,7 +1687,7 @@ button {
 }
 
 .rec-avaa:focus-visible::after {
-  outline: 2px solid var(--aksentti);
+  outline: 2px solid var(--vari);
   outline-offset: 2px;
 }
 
@@ -1705,7 +1732,7 @@ mark {
 }
 
 a.henkilo:hover {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -1745,9 +1772,9 @@ a.henkilo:hover {
 }
 
 .rec-link:hover {
-  background: var(--teksti-ensisijainen);
-  border-color: var(--teksti-ensisijainen);
-  color: var(--bg-sivu);
+  background: var(--vari);
+  border-color: var(--vari);
+  color: var(--vari-paalla);
 }
 
 .rec-link .ikoni {
@@ -1897,7 +1924,7 @@ a.henkilo:hover {
 }
 
 .henkilokortti:hover .henkilokortti-nimi {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
 }
 
 .henkilokortti-meta {
@@ -2241,7 +2268,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .minilista a:hover .minilista-teos {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -2445,7 +2472,7 @@ a.henkilo:hover .henkilo-nimi {
   left: 0;
   bottom: calc(96px + env(safe-area-inset-bottom));
   width: 96px;
-  color: var(--aksentti-teksti);
+  color: var(--vari-teksti);
   animation: hiihda 5.6s cubic-bezier(0.45, 0.05, 0.55, 0.95) 0.3s both;
 }
 
@@ -2569,8 +2596,8 @@ a.henkilo:hover .henkilo-nimi {
   left: 16px;
   right: 16px;
   bottom: -1px;
-  height: 1px;
-  background: var(--teksti-ensisijainen);
+  height: 2px;
+  background: var(--vari);
 }
 
 .tilastot {
@@ -2667,7 +2694,7 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .toprivi-linkki:hover {
-  color: var(--teksti-vahva);
+  color: var(--vari-teksti);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -2704,7 +2731,7 @@ a.henkilo:hover .henkilo-nimi {
   min-width: 3px;
   height: 100%;
   border-radius: 0;
-  background: var(--aksentti);
+  background: var(--vari);
   transform-origin: left;
   animation: palkki-kasvu 0.7s var(--ulos-ease) both;
 }
@@ -2884,7 +2911,7 @@ a.henkilo:hover .henkilo-nimi {
   place-items: center;
   height: 30px;
   border-radius: 0;
-  background: color-mix(in oklab, var(--aksentti) var(--voima), var(--bg-kortti));
+  background: color-mix(in oklab, var(--vari) var(--voima), var(--bg-kortti));
   font-size: 11px;
   color: var(--teksti-ensisijainen);
 }
