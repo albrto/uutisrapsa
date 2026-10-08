@@ -1879,6 +1879,58 @@
     ]
   },
   {
+    "j_idx": 487,
+    "jakso_id": "912a3138-3937-4dde-8b2c-bde04b3882df",
+    "jakso_otsikko": "Ylimielinen Google, ilon ja valon rahaministeriö, epäonnistunut teloitus",
+    "paivamaara": "8.10.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/912a3138-3937-4dde-8b2c-bde04b3882df.mp3",
+    "kesto_sek": 4495,
+    "kesto_str": "01:14:55",
+    "rss_osallistujat": [
+      "Petja Pelli",
+      "Salla Vuorikoski",
+      "Suvi Turtiainen"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Salla Vuorikoski, Suvi Turtiainen ja Petja Pelli kysyvät, kyykyttääkö jättimäinen Google pientä Suomea. Lisäksi puhutaan rahaministeriön iloa, valoa ja hauskuutta markkinoivasta puheenvuorosta. Onko se epäpoliittinen? Lopuksi vaikea kysymys Christa Piken epäonnistunesta teloituksesta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Sulikko",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "näytelmä"
+        ],
+        "kuvaus": "Salla suosittelee Q-teatterin Sulikko-näytelmää, joka perustuu Pirkko Saision romaaniin ja kertoo Stalinin viimeisestä päivästä. Hän kehuu erityisesti Elina Knihtilän esitystä Stalinina ja pitää näytelmää yhtenä parhaista teatterikokemuksistaan.",
+        "google_linkki": "https://www.google.com/search?q=Sulikko+Q-teatteri",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Suvi Turtiainen",
+        "teos": "Kehollinen luova ajattelu -työpaja",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "elämäntapa",
+          "luovuus",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Suvi suosittelee irtautumista tietokoneen äärestä ja luovan ajattelun etsimistä liikkeen ja musiikin kehollisuuden kautta – hän kävi itse tällaisessa työpajassa ja koki sen avaavan uusia ajatuspolkuja.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 156,
     "jakso_id": "tag:soundcloud,2010:tracks/907091107",
     "jakso_otsikko": "8.10.2020: Poliisi vs elokapina, herrat vs duunarit, Trump vs korona",

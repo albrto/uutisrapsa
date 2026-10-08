@@ -1,5 +1,37 @@
 [
   {
+    "id": "912a3138-3937-4dde-8b2c-bde04b3882df",
+    "jakso_otsikko": "Ylimielinen Google, ilon ja valon rahaministeriö, epäonnistunut teloitus",
+    "paivamaara": "8.10.2026",
+    "suositukset": [
+      {
+        "teos": "Sulikko",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Sulikko+Q-teatteri",
+        "lisatieto_linkki": "",
+        "kuvaus": "Salla suosittelee Q-teatterin Sulikko-näytelmää, joka perustuu Pirkko Saision romaaniin ja kertoo Stalinin viimeisestä päivästä. Hän kehuu erityisesti Elina Knihtilän esitystä Stalinina ja pitää näytelmää yhtenä parhaista teatterikokemuksistaan.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "teatteri",
+          "näytelmä"
+        ]
+      },
+      {
+        "teos": "Kehollinen luova ajattelu -työpaja",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Suvi suosittelee irtautumista tietokoneen äärestä ja luovan ajattelun etsimistä liikkeen ja musiikin kehollisuuden kautta – hän kävi itse tällaisessa työpajassa ja koki sen avaavan uusia ajatuspolkuja.",
+        "suosittelija": "Suvi Turtiainen",
+        "kategoriat": [
+          "elämäntapa",
+          "luovuus",
+          "hyvinvointi"
+        ]
+      }
+    ]
+  },
+  {
     "id": "40a1d4c1-b8b0-47f4-843d-1d44b12c65a6",
     "jakso_otsikko": "Tunkeutumiset poliitikoiden kotiin, kok. leik., Ruotsi, HumppilAI",
     "paivamaara": "1.10.2026",
