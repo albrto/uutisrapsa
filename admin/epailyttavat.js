@@ -1897,7 +1897,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
-        "teos": "Sulikko",
+        "teos": "Suliko",
         "paakategoria": "kulttuuri",
         "kategoriat": [
           "teatteri",
