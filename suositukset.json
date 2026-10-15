@@ -1,5 +1,52 @@
 [
   {
+    "id": "4e72d85b-38df-453c-9be7-b025acc34709",
+    "jakso_otsikko": "Diesel-selkäänpuukotus, kuolemantuomiot USA:ssa, 007-kriisi",
+    "paivamaara": "15.10.2026",
+    "suositukset": [
+      {
+        "teos": "What We Can Know",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=What+We+Can+Know+Ian+McEwan",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=What+We+Can+Know+Ian+McEwan",
+        "kuvaus": "Tuomas suosittelee Ian McEwanin uutta romaania, joka kertoo tulevaisuuden historiantutkijasta selvittämässä kadonneen runon kohtaloa – yllättävän koukuttava ja ajatuksia herättävä teos siitä, miten kaikki digitaalinen jälkemme säilyy ikuisesti.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "fiktio",
+          "mysteeri",
+          "tulevaisuus"
+        ]
+      },
+      {
+        "teos": "The Daily: When A.I. Comes for Your Purpose in Life",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+AI+comes+for+your+purpose+in+life",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily",
+        "alkupera": "ulkomainen",
+        "kuvaus": "Elina suosittelee The Daily -podcastin tuoretta jaksoa, jossa keski-ikäinen matematiikan professori pohtii, mitä tapahtuu kun tekoäly ylittää hänen elämäntyönsä – jakso kääntyy lopulta koskettavaksi pohdinnaksi ihmisyyden kauneudesta.",
+        "suosittelija": "Elina Väntönen",
+        "kategoriat": [
+          "tekoäly",
+          "yhteiskunta",
+          "ajankohtainen"
+        ]
+      },
+      {
+        "teos": "Slow Horses",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses",
+        "kuvaus": "Marko aikoo aluksi suositella Slow Horsesin tuoretta kautta, mutta perääntyy heti ja toteaa pettyneensä: sarjan aiempi viehätys piili sen omituisuudessa ja synkässä huumorissa, kun taas uusi kausi on hänen mielestään liian tavanomaisen toimintapainotteinen.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "brittisarja",
+          "trilleri",
+          "huumori"
+        ]
+      }
+    ]
+  },
+  {
     "id": "912a3138-3937-4dde-8b2c-bde04b3882df",
     "jakso_otsikko": "Ylimielinen Google, ilon ja valon rahaministeriö, epäonnistunut teloitus",
     "paivamaara": "8.10.2026",

@@ -23430,6 +23430,77 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 488,
+    "jakso_id": "4e72d85b-38df-453c-9be7-b025acc34709",
+    "jakso_otsikko": "Diesel-selkäänpuukotus, kuolemantuomiot USA:ssa, 007-kriisi",
+    "paivamaara": "15.10.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4e72d85b-38df-453c-9be7-b025acc34709.mp3",
+    "kesto_sek": 5448,
+    "kesto_str": "01:30:48",
+    "rss_osallistujat": [
+      "Elina Väntönen",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Amerikkapodin juontaja Elina Väntönen keskustelevat USA-painotteisesti välivaalien asetelmista, Trumpin hallinnon organisoimasta selkäänpuukotuksten ketjusta ukrainalaisten selkään, kuolemantuomioiden täytäntöönpanosta ja oikeutuksesta, yleisestä Trump-sirkuksesta, ja vielä ns. bond-kriisin syistä ja seurauksista. Jakso sisältää pikkujou",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "What We Can Know",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fiktio",
+          "mysteeri",
+          "tulevaisuus"
+        ],
+        "kuvaus": "Tuomas suosittelee Ian McEwanin uutta romaania, joka kertoo tulevaisuuden historiantutkijasta selvittämässä kadonneen runon kohtaloa – yllättävän koukuttava ja ajatuksia herättävä teos siitä, miten kaikki digitaalinen jälkemme säilyy ikuisesti.",
+        "google_linkki": "https://www.google.com/search?q=What+We+Can+Know+Ian+McEwan",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=What+We+Can+Know+Ian+McEwan",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Elina Väntönen",
+        "teos": "The Daily: When A.I. Comes for Your Purpose in Life",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "yhteiskunta",
+          "ajankohtainen"
+        ],
+        "kuvaus": "Elina suosittelee The Daily -podcastin tuoretta jaksoa, jossa keski-ikäinen matematiikan professori pohtii, mitä tapahtuu kun tekoäly ylittää hänen elämäntyönsä – jakso kääntyy lopulta koskettavaksi pohdinnaksi ihmisyyden kauneudesta.",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+AI+comes+for+your+purpose+in+life",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily",
+        "alkupera": "ulkomainen",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Slow Horses",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittisarja",
+          "trilleri",
+          "huumori"
+        ],
+        "kuvaus": "Marko aikoo aluksi suositella Slow Horsesin tuoretta kautta, mutta perääntyy heti ja toteaa pettyneensä: sarjan aiempi viehätys piili sen omituisuudessa ja synkässä huumorissa, kun taas uusi kausi on hänen mielestään liian tavanomaisen toimintapainotteinen.",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 435,
     "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
     "jakso_otsikko": "Velkajarru–laaja oppimäärä, Gazaan aselepo, porvari-Suomi",
