@@ -53,7 +53,9 @@ Puhuja 0: Mä puhuin nyt tavallaan, mistä
 Puhuja 0: oikeistolaisukkele ei jännä. Aivan,
 Puhuja 2: jos tärkää.
 Puhuja 0: Myös keskustellaan euroviisuista,
-Puhuja 0: jotka tapahtuvat tänä viikonloppuna, ja jossa meillä on podcastin ystävä Juuso
+Puhuja 0: jotka
+Puhuja 0: tapahtuvat tänä viikonloppuna,
+Puhuja 0: ja jossa meillä on podcastin ystävä Juuso
 Puhuja 0: Määttänen paikan
 Puhuja 0: päällä vienissä. Kysytään pikaseen, mikä meno varoituksen sana.
 Puhuja 0: Ennakoidaan
@@ -79,16 +81,16 @@ Puhuja 1: mielestä? Ensinnäkin
 Puhuja 1: virukset on aika ärsyttävä asia. Niitä ei haluaisi ajatella, jos ei ole ihan pakko.
 Puhuja 1: Mä olin töissä,
 Puhuja 1: kun tuli,
-Puhuja 1: viime perjantaina iltapäivästä.
+Puhuja 1: oliko se viime perjantaina iltapäivästä.
 Puhuja 1: Se jotenkin näytti siltä, että joo, nyt se rantautuu Eurooppaan.
 Puhuja 1: Ja sitten mä istuin tuossa meidän uutisteesken vieressä. Mä sanoin siinä istuville
 Puhuja 1: uutispäälliköille ja nopean
 Puhuja 1: toiminnan uutistyöntekijöille, että
 Puhuja 1: ai sagea mikä flashbac tulee tästä.
-Puhuja 1: Että onkohan tämä nyt tyyntä myrskyn edellä.
-Puhuja 1: Kaikki muistaa sen tunteen.
+Puhuja 1: Että onkohan tämä nyt tyyntä myrskyn edellä. Kaikki muistaa sen tunteen.
 Puhuja 1: Kaksituhatta
-Puhuja 1: yhdeksäntoista lopullahan se jo alkoi, mutta kun
+Puhuja 1: yhdeksäntoista
+Puhuja 1: lopullahan se jo alkoi, mutta kun
 Puhuja 1: korona covid-yhdeksäntoista
 Puhuja 1: alkoi leviämään. Ja sitten siinä alkuvaiheessa
 Puhuja 1: oli
@@ -112,7 +114,8 @@ Puhuja 3: ja miksi se Australia esiintyy tolla paikalla kaikkia tämmösiä asio
 Puhuja 3: mutta täällä niistä tuleekin isoja asioita, sit niistä puhutaan täällä päiväkaupalla
 Puhuja 3: et tää on niinku ehkä
 Puhuja 3: semmonen karkea
-Puhuja 3: tiivistys ja sittenhän
+Puhuja 3: tiivistys
+Puhuja 3: ja sittenhän
 Puhuja 3: täällä oistiin tosi hyvin sen tunnelman, et mitkä biisit rupee keräämään semmosta hyppiä ympärilleen, et se ei välity silleen Suomeen. Linda
 Puhuja 3: ja Pete on täällä valtavan
 Puhuja 3: huomion keskipisteenä.
@@ -121,7 +124,7 @@ Puhuja 3: mediasenteriin
 Puhuja 3: joka oli tarkoitettu vain suomalaisille toimittajille,
 Puhuja 3: mutta siinähän oli
 Puhuja 3: afterbladetit,
-Puhuja 3: Expressisit ja aikamoinen liuta muitakin medioita paikan päälle ja siitähän tuli aidosti kaaos, kun Lindan ja Pete käveli siihen toimittajien eteen niin
+Puhuja 3: Expressiit ja aikamoinen liuta muitakin medioita paikan päälle ja siitähän tuli aidosti kaaos, kun Lindan ja Pete käveli siihen toimittajien eteen niin
 Puhuja 3: me
 Puhuja 3: oltiin suomalaista toimittajia eturivissä hyvin valmistauduttu, tiedettiin missä ollaan odottamassa. Sit sieltä tulee valtava määrä
 Puhuja 3: muita toimittajia rupeaa rynnimään meidän päälle ja työntämään silleen, että Hei,
@@ -133,15 +136,14 @@ Puhuja 2: Mutta nyt jos lanseerataan tämmöisen uuden käsitteen, jonkinlainen
 Puhuja 2: Euroviisuh häpeä on
 Puhuja 2: myös vallannut alaa ihmiset,
 Puhuja 2: jotka haluavat olla innoissaan ja haluavat olla mukana
-Puhuja 2: hauskassa fiiliksessä ja ilonpidossa.
-Puhuja 2: Ja sitten on tämä Israel-kysymys,
+Puhuja 2: hauskassa fiiliksessä ja ilonpidossa. Ja sitten on tämä Israel-kysymys,
 Puhuja 2: ettei oikein
 Puhuja 2: kuitenkaan olisi hyvä
 Puhuja 2: katsoa tai näin. Että paljon tämmöistä ajattelua on.
 Puhuja 2: Oon väärässä, mutta mun mielestä eilen esimerkiksi, kun Ylen lähetyksessä juonettiin sitä Israelin lavalle, niin musta tätä ristiriitaisuutta ei mainittu.
 Puhuja 3: Järjestettiin noin puoli vuotta Kaasa sodan syttymisen jälkeen ja silloin tavallaan
 Puhuja 3: Israel asia oli ihan toisella tavalla tapetilla.
-Puhuja 3: Siihen vaikutti myös se että Viissyt järjestettiin Ruotsissa ja Mallamössä joissa on merkittävä palestiinalaisvähemmistö
+Puhuja 3: Siihen vaikutti myös se että Viissyt järjestettiin Ruotsissa ja Mallamössä on merkittävä palestiinalaisvähemmistö
 Puhuja 3: asui myös
 Puhuja 3: ja tavallaan se oli tosi
 Puhuja 3: konkreettisesti
@@ -212,7 +214,7 @@ Puhuja 3: Israel on voittanut monta kertaa
 Puhuja 3: mutta nyt kahtena viime vuonna sattumalta
 Puhuja 3: asiantuntijaraadit on melkein jokaisessa maassa jättänyt Israelin pienille pistemäärille.
 Puhuja 3: Ja ennen kuin Tuomas tulee väliin, niin sanon vielä sen, että
-Puhuja 3: tämä voi jopa vaikuttaa siihen, että ne asiantuntijaraadit keskittää
+Puhuja 3: tää voi jopa vaikuttaa siihen, että ne asiantuntijaraadit keskittää
 Puhuja 3: ääniään tässä
 Puhuja 3: tapauksessa Suomelle.
 Puhuja 0: Mulla on ehkä viimeinen
@@ -254,9 +256,10 @@ Puhuja 3: on lopettanut
 Puhuja 3: kilpailun seuraamisen
 Puhuja 3: tämän asetelman takia. Juuso
 Puhuja 0: Määttänen,
-Puhuja 0: toivottavasti Suomi voittaa. Ja jos voittaa, niin sitten raahataan sut kyllä podiin puhumaan aiheesta uudelleen. Kyllä, näin tehdään. Kiitoksia. Okei, no Okei,
-Puhuja 0: sitten
-Puhuja 0: kun otatte Sobreeronne
+Puhuja 0: toivottavasti Suomi voittaa. Ja jos voittaa, niin sitten raahataan sut kyllä podiin puhumaan aiheesta uudelleen. Kyllä, näin tehdään. Kiitoksia. Okei, no
+Puhuja 3: aiheesta uudelleen. Kyllä näin tehdään. Kiitoksia.
+Puhuja 0: Okei, sitten kun
+Puhuja 0: otatte Sobreeronne
 Puhuja 0: päähän,
 Puhuja 0: Rullaatte
 Puhuja 0: Elpais-nimisen
@@ -280,10 +283,10 @@ Puhuja 1: riippumatossa,
 Puhuja 1: että
 Puhuja 1: ahmin just se oli sen todella traagisen
 Puhuja 1: mut hyvän kirjan.
-Puhuja 1: Mä en oikein tiedä millä tavalla mä
+Puhuja 1: Mä en oikein tiedä, millä tavalla mä
 Puhuja 1: suosittelisin
 Puhuja 1: sitä, koska se on hirveän koskettava ja hirvittävän pohjattoman surullinen
-Puhuja 1: ihmiskohtaloa.
+Puhuja 1: ihmiskohtalo.
 Puhuja 1: Ehkä siinä on
 Puhuja 1: semmoista, että miten
 Puhuja 1: voi selviytyä ja
@@ -351,8 +354,7 @@ Puhuja 0: mitään sanomaton kolmen tähden leffa,
 Puhuja 0: joka kertoo veljesparit Jobysta ja Tanerysta,
 Puhuja 0: jotka heidän äitinsä kuolee. Äidin omistamalla farmilla
 Puhuja 0: on löydetty öljyä
-Puhuja 0: määrät
-Puhuja 0: öljyä.
+Puhuja 0: määrät öljyä.
 Puhuja 0: Veljekset
 Puhuja 0: olisivat
 Puhuja 0: koko loppuelämänsä
@@ -380,12 +382,11 @@ Puhuja 0: joka on parasta asiaa, mitä TV:stä on ikinä tullut. No, tää ei ol
 Puhuja 0: Mutta tästä tuli mahtava
 Puhuja 0: säi, että
 Puhuja 0: mistä mä katsoin tämän. Se oli semmoinen palvelu kuin
-Puhuja 0: sin-east,
-Puhuja 0: C-IN
+Puhuja 0: sin East,
+Puhuja 0: CIN
 Puhuja 0: EAASTE
-Puhuja 0: Sinema sin-east.
-Puhuja 2: Mä ajattelin, että joku synti.
-Puhuja 0: Fi, joka on
+Puhuja 2: Sinema sin East. Mä ajattelin, että joku synti. Fi,
+Puhuja 0: joka on
 Puhuja 0: Suomen,
 Puhuja 0: Ruotsin ja Islannin ja Norjan ja Tanskan näin ainakin mun mielestä siinä oli kaikki Pohjoismaat
 Puhuja 0: kirjastojen
@@ -437,7 +438,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

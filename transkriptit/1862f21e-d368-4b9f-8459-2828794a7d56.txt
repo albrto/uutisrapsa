@@ -16,14 +16,13 @@ Puhuja 1: Helsingin
 Puhuja 2: Sanomat
 Puhuja 2: Hei! Ja tervetuloa Helsingin Sanomien Uutisraportti podcastiin
 Puhuja 2: tänään torstaina kaksisataakahdeksankymmentäviisi
-Puhuja 2: vuonna kaksituhatta
-Puhuja 2: kaksikymmentäkuusi.
+Puhuja 2: vuonna kaksituhatta kaksikymmentäkuusi.
 Puhuja 2: Minä olen Salla Vuorikoski ja kanssani täällä kesää ihanasti hehkuvassa Sanomatalon
 Puhuja 2: podcast-studiossa
-Puhuja 1: on pääkirjoitusoimituksen
+Puhuja 2: on pääkirjoitusoimituksen
 Puhuja 2: esihenkilö
 Puhuja 2: Jussi Niemeläinen,
-Puhuja 2: moikka. Heissan
+Puhuja 3: moikka. Heissan
 Puhuja 2: Salla.
 Puhuja 2: Siis kihiset, kun sinulla on tuollaisia papereita edessä, onko tuo toimittajan onnellisin hetki, kun viranomainen vastaa
 Puhuja 2: tietopyyntöön ja
@@ -77,7 +76,7 @@ Puhuja 2: laulamaan vielä Suvivirttä.
 Puhuja 2: Aiheesta keskustellaan kyllä, mutta ensin keskustelemme siitä, yrittääkö Trump
 Puhuja 2: romahduttaa
 Puhuja 2: Natoa
-Puhuja 2: Millaisessa jamassa Trump itse asiassa on siellä oman maansa ja puolueensa sisällä? Liittyykö tämä Natosta vetäytyminen tai joukkojen vieminen ja Naton haukkuminen jotenkin tähän Trumpin sisäpoliittiseen
+Puhuja 2: ja millaisessa jamassa Trump itse asiassa on siellä oman maansa ja puolueensa sisällä? Liittyykö tämä Natosta vetäytyminen tai joukkojen vieminen ja Naton haukkuminen jotenkin tähän Trumpin sisäpoliittiseen
 Puhuja 2: tilanteeseen ehkä vähän rönsytään
 Puhuja 2: muutenkin aiheessa.
 Puhuja 2: Meillä piti olla ihanaa, kun ollaan Natossa? Ja nyt tämä on tällaista, mistä kysymys puhutaan siitä. Toisekseen keskustellaan Kalasataman rajusta tulipalosta
@@ -156,7 +155,7 @@ Puhuja 2: Meidän piti kuitenkin vähän muistella, niin tämähän menee niin,
 Puhuja 2: että kaksi ekaa säkeistöä menee ihan niin, että niityt vihannoo ja puut metsän huminoi. Sellaista
 Puhuja 2: yleistä luontokuvausta.
 Puhuja 2: Ongelmat syntyvät täällä kolmannessa säkeistössä, jossa
-Puhuja 2: kysellään myös eikö Herran kansa luojaansa
+Puhuja 2: kysellään myös eikö herran kansa luojaansa
 Puhuja 2: kiittäisi. Siitä eteenpäin se on kyllä tosi
 Puhuja 2: Jeesuspainotteista.
 Puhuja 2: Mutta tästä Suvivirrestä on tehty nämä
@@ -248,9 +247,9 @@ Puhuja 2: Mun omien lasten koulussa, jota toinen lapsi edelleen käy,
 Puhuja 2: siellä lauletaan
 Puhuja 2: aina tämä käyn ahon laitaa kappale
 Puhuja 2: muiden laulujen ohella.
-Puhuja 2: Se on siis Junnu Vainio on vanha biisi.
+Puhuja 2: Se on siis Junnu Vainio vanha biisi.
 Puhuja 2: Ajattelin, että tässä pitää kehdiä joku keissi.
-Puhuja 2: Kävin oikein katsomassa, että miten ne sanat menee, onko siinä jotain epäilyttävää.
+Puhuja 2: Kävin katsomassa, että miten ne sanat menee, onko siinä jotain epäilyttävää.
 Puhuja 2: Siinähän on
 Puhuja 2: tällaista, että
 Puhuja 2: jos ette tiedä, niin te tiedätte, mutta kaikkea ei tiedä, niin siinä on
@@ -283,7 +282,10 @@ Puhuja 3: Niin ja siis voisiko yletellä. Etkö muista
 Puhuja 2: niitä? No siis,
 Puhuja 2: ei minulla ole sellaista kuulomuistia.
 Puhuja 3: Niin sanoitin vielä, että liikkuu jossain päin Suomea.
-Puhuja 2: Niin, eli tarkoitat nyt, että sitä etsittiin muutenkin kuin kriminaalimielessä. Joo, Virpi. Että oli vaikka tapahtunut jotain ja Jarmo ei saada yhteyttä yhteyttä. Ja viranomaiset sitten pyysi ja otetaan voisiko tämä ihminen ottaa yhteyttä viranomaisiin,
+Puhuja 2: Niin, eli tarkoitat nyt, että sitä etsittiin muutenkin kuin
+Puhuja 2: kriminaalimielessä. Joo, Virpi.
+Puhuja 2: Että oli vaikka tapahtunut jotain ja Jarmo ei saada yhteyttä yhteyttä. Ja
+Puhuja 3: viranomaiset sitten pyysi ja otetaan voisiko tämä ihminen ottaa yhteyttä viranomaisiin,
 Puhuja 3: mutta ei tietysti kerrottu sitä, että äiti on kuollut tai
 Puhuja 3: teidän talo on palannut tai jotain vastaavaa.
 Puhuja 2: Ai kauheaa.
@@ -337,9 +339,9 @@ Puhuja 2: Kukas se on? Cartney
 Puhuja 1: kävi kaksituhatta
 Puhuja 1: kaksitoista
 Puhuja 1: Helsingistä yksitoista,
-Puhuja 1: niin kävin
-Puhuja 1: isäni kanssa sitten jäähallissa.
-Puhuja 1: Toisen isä ja hadaa reunalle. Niin, ihan näitte.
+Puhuja 1: niin
+Puhuja 1: kävin isäni kanssa sitten jäähallissa
+Puhuja 1: toisen isä ja hadaa reunalle. Niin, ihan näitte.
 Puhuja 3: Niin kuin kunnon keikalla.
 Puhuja 3: Minä jatkan samasta teemasta. Minähän olin tässä alkukuun Georgiassa
 Puhuja 3: ja viimeksi suosittelen Georgalaisia viinejä.
@@ -409,7 +411,8 @@ Puhuja 2: nyt spoilata, jos sanoo, että ei kovin hyvin käy sinänsä.
 Puhuja 2: Mieletön elokuva
 Puhuja 2: ja ihan hirveästi herättää semmoisia
 Puhuja 2: kysymyksiä Neuvostoliiton
-Puhuja 2: ja Venäjän historiasta ja siitä,
+Puhuja 2: ja Venäjän historiasta
+Puhuja 2: ja siitä,
 Puhuja 2: miten jos Saksassa on käyty natsitaakkaa
 Puhuja 2: kovasti läpi ja tehty
 Puhuja 2: historian pyykkiä,
@@ -424,12 +427,16 @@ Puhuja 2: uhkapuolueelle.
 Puhuja 2: Ja
 Puhuja 2: sitten nämä amerikansuomalaiset,
 Puhuja 2: iso osa heistä katsottiin vakoijiksi
-Puhuja 2: ja pettureiksi ja ties miksikä. Heidät siis yksinkertaisesti teloitettiin,
-Puhuja 2: niin itse asiassa kysyn Jussi sulta, että oletko sitä mieltä, että Venäjä on käynyt
-Puhuja 2: tämän pyykin? Mutta tietenkään, ei kukaan ole sitä. Sä vain naurat mulle, kun mä kysyn. Ei,
+Puhuja 2: ja pettureiksi ja ties miksikä. Heidät siis yksinkertaisesti pelotettiin,
+Puhuja 2: niin itse asiassa kysyn Jussi sulta, että oletko sitä mieltä, että Venäjä
+Puhuja 2: on käynyt
+Puhuja 2: tämän
+Puhuja 2: pyykin?
+Puhuja 2: Mutta tietenkään, ei kukaan ole sitä. Sä vain naurat mulle, kun mä kysyn. Ei,
 Puhuja 3: se oli ihan relevantti kysymys.
 Puhuja 2: Koska eihän ne ollut pelkästään ulkomaalaisia, jotka joutuu vainojen kohteeksi, vaan suurissa määrin omia kansalaisia. Ei, ei, en mä nauran.
-Puhuja 3: Ei siitä ole käyty. Siellä on jotain pientä
+Puhuja 3: Ei
+Puhuja 3: siitä ole käyty. Siellä on jotain pientä
 Puhuja 3: memorialiareista,
 Puhuja 3: joka on saanut Nobelin,
 Puhuja 3: mutta nythän se on kääntynyt koko ajan siihen,
@@ -479,7 +486,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

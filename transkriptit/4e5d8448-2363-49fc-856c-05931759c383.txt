@@ -20,7 +20,7 @@ Puhuja 3: kaksituhatta kaksikymmentäviisi.
 Puhuja 3: Tänne kevääseen heräävään Helsinkiin Suomessa ja Euroopassa ja tarkemmin ottaen sanoma taloon. Joka ikkunasta kun katsoo ulos, tulee sellainen hetken ajatus, että on helteinen ilma ulkona. Mutta se on valhetta,
 Puhuja 3: koska siellä
 Puhuja 3: on pölyhippuinen
-Puhuja 1: ilma. Ja siellä tuulee.
+Puhuja 4: ilma. Ja siellä tuulee.
 Puhuja 3: Ja siellä tuulee.
 Puhuja 3: Mutta jos katsoo vain ikkunasta, niin tulee semmoinen, että Wiveston on kesä.
 Puhuja 3: Minun nimeni on Salla Vuorikoski,
@@ -29,7 +29,8 @@ Puhuja 3: podcast-studiossa
 Puhuja 3: kanssani
 Puhuja 3: ovat Theoture Henkinen
 Puhuja 3: toimittaja Anna-Sofia Bernner, ystävien kesken Sohvi. Moi! Moi.
-Puhuja 3: Ehkä teille sellaisen paljastuksen tähän alkuun, jonka voi tehdä vain nainen. Sinä olet pukeutunut minihameeseen.
+Puhuja 3: Ehkä teille sellaisen paljastuksen tähän alkuun,
+Puhuja 3: jonka voi tehdä vain nainen. Sinä olet pukeutunut minihameeseen.
 Puhuja 3: Onko tämä viesti siitä, että olet siirtynyt vähintäänkin pääsiäistunnelmaan,
 Puhuja 3: mutta ehkä jopa tällaiseen
 Puhuja 3: kesäfiilikseen?
@@ -40,17 +41,17 @@ Puhuja 3: Minihameeseen
 Puhuja 3: ei ole pukeutunut
 Puhuja 3: tänään.
 Puhuja 3: Politiikkaa Helsingin Sanomissa työkseen ja rahan eteen toimittava Marko Junkkari. Moikka! Sopisiko minulle Minihameen? En ole ikinä nähnyt, niin en osaa sanoa. Oletko kokeillut?
-Puhuja 1: En vielä, mutta ehkä pitää lähteä kirppikselle.
+Puhuja 4: En vielä, mutta ehkä pitää lähteä kirppikselle.
 Puhuja 3: Sitä odotellessa.
 Puhuja 3: Kuten huomaatte, meille ei vieläkään isällistä kaitsentaa tässä podissa, koska Tuomas on valitettavasti estynyt. Sen verran varmaan voi sanoa, että hän
 Puhuja 3: on kipeä
 Puhuja 3: poi.
-Puhuja 1: Terveisiä Tuomaksen.
+Puhuja 4: Terveisiä Tuomaksen.
 Puhuja 3: Hän varmaan kuuntelee tämän. Niin. Toivotaan, että hän kuuntelee ja laittaa palautetta. En tiedä, onko Amerikasta tarttunut joku
 Puhuja 3: magavirus
 Puhuja 2: tai mitä se kuulee sitten kyllä tässä podcastit myöhemmin, jos on tarttunut. Mitä lie siellä on liikkeellä? Mutta teidän on nyt vain kestettävä tämä. Me teemme tällä porukalla parhaamme.
 Puhuja 3: En tiedä, olisiko mahdollista, että ei jouduta tänään oikaisemaan mitään. En ole keksinyt mitään oikaista. Vai onko sulla Marko mitään tietoa?
-Puhuja 1: En kyllä, nyt en ainakaan muista.
+Puhuja 4: En kyllä, nyt en ainakaan muista.
 Puhuja 3: Ihmeitä tapahtuu.
 Puhuja 3: Tänään uutisraportissa
 Puhuja 3: keskustellaan vaaleista ja ihan aluksi Riikka Purrasta. Ehkä puhutaan vähän siitä yhdestä kuvasta.
@@ -70,29 +71,33 @@ Puhuja 3: artikkelin, joka vähän
 Puhuja 3: kyseenalaistaa sitä, mitä aiemmin on ajateltu tästä aktiivisuuden ja tarkkaavuuden häiriöstä. Puhutaan siitä.
 Puhuja 3: Lopuksi tarjoamme vielä hyvät keskustelun aiheet pitkien epämukavien hiljaisyyksien varalle.
 Puhuja 3: Mennään siihen kuvaan. Marko Junkkari, mistä kuvasta on kysymys?
-Puhuja 1: Tämä tuli jotenkin yllättävää, mutta oletan, että puhut
-Puhuja 1: Riikka Purransaksikuvasta,
-Puhuja 1: missä hän on työpöydänsä ääressä isot sakset kädessä, ja taustalla on joukko perussuomalaisia. Tämä
-Puhuja 1: julkaistiin aika tarkkaan vuosi sitten.
-Puhuja 1: Maaliskuussa, muistaakseni
-Puhuja 1: kaksikymmentäneljä. Perussuomalaisten kansanedustajan Vico Bergbom julkaise
-Puhuja 1: sen Instagramissaan.
-Puhuja 1: Minusta
-Puhuja 1: kuvasta oli noussut kauhea mekkala.
-Puhuja 1: Kirjoitin jutussa pari päivää sitten, että esimerkiksi
-Puhuja 1: perussuomalaisten sisäisillä
-Puhuja 1: keskustelupalstoilla,
-Puhuja 1: missä on kovasti ruodittu ja päivitelty katastrofaalista vaalitappiota.
-Puhuja 1: Tämä kuva on noussut
-Puhuja 1: yhdeksi...
-Puhuja 1: Kuvasta puhutaan paljon ja haukutaan ja se nähdään, että se oli
-Puhuja 1: suuri virhe
-Puhuja 1: lähteä kardevalisoimaan
-Puhuja 1: leikkauksia,
-Puhuja 1: joiden monta kertaa on.
-Puhuja 1: Mutta ehkä sitten, kun viidennen kerran järjestetään
-Puhuja 1: yhdistetyt alue ja kuntavaalit, niin ihmiset osaavat äänestää.
-Puhuja 3: Kuin mihinkään vaalilupauksista. Hän puhui näistä vaalilupauksista
+Puhuja 4: Tämä tuli jotenkin yllättävää, mutta oletan, että puhut
+Puhuja 4: Riikka Purransaksikuvasta,
+Puhuja 4: missä hän on työpöydänsä ääressä isot sakset kädessä, ja taustalla on joukko perussuomalaisia. Tämä
+Puhuja 4: julkaistiin aika tarkkaan vuosi sitten.
+Puhuja 4: Maaliskuussa, muistaakseni
+Puhuja 4: kaksikymmentäneljä. Perussuomalaisten kansanedustajan Vico Bergbom julkaise
+Puhuja 4: sen Instagramissaan.
+Puhuja 4: Minusta
+Puhuja 4: kuvasta oli noussut kauhea mekkala.
+Puhuja 4: Kirjoitin jutussa pari päivää sitten, että esimerkiksi
+Puhuja 4: perussuomalaisten sisäisillä
+Puhuja 4: keskustelupalstoilla,
+Puhuja 4: missä on kovasti ruodittu ja päivitelty katastrofaalista vaalitappiota.
+Puhuja 4: Tämä kuva on noussut
+Puhuja 4: yhdeksi...
+Puhuja 4: Kuvasta puhutaan paljon ja haukutaan ja se nähdään, että se oli
+Puhuja 4: suuri virhe
+Puhuja 4: lähteä kardevalisoimaan
+Puhuja 4: leikkauksia,
+Puhuja 4: joiden monta kertaa on.
+Puhuja 4: Mutta ehkä sitten, kun viidennen kerran järjestetään
+Puhuja 4: yhdistetyt alue ja kuntavaalit, niin ihmiset osaavat äänestää. Tässä
+Puhuja 3: keskustelussa?
+Puhuja 2: Niin. Siinäkin on, että Riikka Purresyytti
+Puhuja 2: heti demareita vilpillisyydestä,
+Puhuja 2: vaikka se
+Puhuja 2: liittyi enemmän retoriikkaan kuin mihinkään vaalilupauksista. Hän puhui näistä vaalilupauksista
 Puhuja 3: ehkä enemmän. Kyllä.
 Puhuja 3: Itse jotenkin ajattelisin sillä tavalla, että vähiten tässä nyt kaivataan
 Puhuja 3: mitään
@@ -101,11 +106,11 @@ Puhuja 3: epäilyihin siitä, että
 Puhuja 3: esimerkiksi demareiden tulos
 Puhuja 3: olisi vauhditettu
 Puhuja 3: hyläätyt äänet ilmiön kautta. Mikä ei siis varmasti ole totta, mutta keskusteluahan voi aina käydä kaikista asioista,
-Puhuja 3: vaikka siihen ei olisi aineksia
-Puhuja 3: virallisesti.
+Puhuja 3: vaikka siihen ei olisi
+Puhuja 3: aineksia virallisesti.
 Puhuja 2: Suomessakin on aika paljon epäluottamusta
 Puhuja 2: demokratiaa kohtaan.
-Puhuja 2: Evan kyselyssä tämä on ehkä viime vuodelta
+Puhuja 2: Jossain Evan kyselyssä tämä on ehkä viime vuodelta
 Puhuja 2: neljäkymmentä prosenttia,
 Puhuja 2: vain neljäkymmentä prosenttia suomalaisista olivat sitä mieltä, että demokratia toimii niin hyvin, että puheet kansalaisten huonoista vaikutusmahdollisuuksista
 Puhuja 2: ovat vailla pohjaa. Neljäkymmentäkolme prosenttia on sitä mieltä, että demokratia
@@ -172,14 +177,13 @@ Puhuja 3: piti loogisesti päätellä oikealla
 Puhuja 3: tavalla.
 Puhuja 3: Lääkityksen alla olevat ihmiset olivat
 Puhuja 3: tavallaan hirveän keskittyneesti ja itse
-Puhuja 3: sitä mieltä, että he tekivät
-Puhuja 3: tosi hyvin sitä tehtävää. Mutta sitten kun tarkasteltiin tuloksia, niin eivät ne olleet
+Puhuja 3: sitä mieltä, että he tekivät tosi hyvin sitä tehtävää. Mutta sitten kun tarkasteltiin tuloksia, niin eivät ne olleet
 Puhuja 3: sen parempia ilmankaan. Juuri näin.
 Puhuja 2: Tavallaan tämä liittyy ylipäätään
 Puhuja 2: jättimäiseen
 Puhuja 2: keskusteluun kouluista,
 Puhuja 2: lapsista.
-Puhuja 2: Onko lapsissa jotain vikaa, mikä on muuttunut entiseen verrattuna? Ja niin edelleen. Hesarissakin oli meidän kollegan Kaisa Hahdon iso juttu
+Puhuja 2: Onko lapsissa jotain vikaa, mikä on muuttunut entiseen verrattuna ja niin edelleen? Ja Hesarissakin oli meidän kollegan Kaisa Hahdon iso juttu
 Puhuja 2: sunnuntaina tästä Suomen
 Puhuja 2: kolmiportaisesta
 Puhuja 2: tuen mallista ja sen
@@ -203,8 +207,7 @@ Puhuja 2: Ja
 Puhuja 2: juuri tässä jutussa kuvattiin sitä, että jos sinulla on koulussa todella tylsää,
 Puhuja 2: niin sitten voidaan diagnosoida
 Puhuja 2: vaikka ADHD. Ja sitten myöhemmin elämässä, kun löydät jotain kiinnostavaa
-Puhuja 2: tekemistä,
-Puhuja 2: niin ne oireet katoaa tai pärjäät niiden kanssa.
+Puhuja 2: tekemistä, niin ne oireet katoaa tai pärjäät niiden kanssa.
 Puhuja 2: Todella
 Puhuja 2: iso aihe.
 Puhuja 3: Kyllä. Ja
@@ -258,8 +261,7 @@ Puhuja 2: ympäristöön. Tuli
 Puhuja 2: mieleeni, että Suomessakin keskittyy Itä-Suomeen.
 Puhuja 2: Voiko siinä olla myös tämmöistä,
 Puhuja 2: että
-Puhuja 2: ympäristö vaikuttaa.
-Puhuja 3: Aijaa, nyt tulee
+Puhuja 3: ympäristö vaikuttaa. Aijaa, nyt kyllä tulee
 Puhuja 3: Mutta tuosta lääkitysasiasta.
 Puhuja 3: Siinä artikkelissa sanottiin,
 Puhuja 3: että
@@ -280,10 +282,11 @@ Puhuja 3: laajasti, ainakin joidenkin asiantuntijoiden mukaan, sitä ongelmaa, e
 Puhuja 3: jopa puolen kansasta pitäisi syödä lääkkeitä.
 Puhuja 3: Sitten siinä tullaan jo sellaisiin
 Puhuja 3: mielenkiintoisiin kysymyksiin
-Puhuja 3: siitä, että Terveen sairaala ajasta. Niin, missä se alkaa.
+Puhuja 3: siitä, että Terveä sairaalaajasta.
+Puhuja 3: Niin, missä se alkaa.
 Puhuja 3: Sanos Marko nyt jotain
 Puhuja 3: tähän.
-Puhuja 1: Olen kaikesta nyökyttelin ja olen kaikista samaa mieltä.
+Puhuja 4: Olen kaikesta nyökyttelin ja olen kaikista samaa mieltä.
 Puhuja 2: Kyllä. Mutta poliitikothan joutuvat tekemään myös näitä tukipäätöksiä tehdessään
 Puhuja 3: olemaan tekemisissä. Ehkä pitäisi kysyä
 Puhuja 3: hyvinvointialueiden uusilta valtuutetuilta
@@ -291,13 +294,13 @@ Puhuja 3: tästäkin asiasta. Ja monesta muusta. Niin, ja
 Puhuja 3: ties mistä.
 Puhuja 3: No niin,
 Puhuja 3: sitten
-Puhuja 3: kun olette
-Puhuja 3: käyneet äänestyskopissa
+Puhuja 3: kun olette käyneet
+Puhuja 3: äänestyskopissa
 Puhuja 3: ja
 Puhuja 3: kirjoittaneet
 Puhuja 3: aluevaalilippun
-Puhuja 3: väärän numeron
-Puhuja 3: ja sotkeneet vahingossa sen toisen kuntavaalilippun
+Puhuja 3: väärän numeron ja
+Puhuja 3: sotkeneet vahingossa sen toisen kuntavaalilippun
 Puhuja 3: jollakin rumalla kuvalla ja olette aivan sekaisin, miten täällä piti toimia.
 Puhuja 3: Sitten teuttaroitte ulos
 Puhuja 3: äänestyspaikalta
@@ -312,33 +315,34 @@ Puhuja 3: Sitten
 Puhuja 3: istutte läheiselle puiston penkille toisen
 Puhuja 3: äänestyksessä epäonnistuneen
 Puhuja 3: viereen, rupeatte pohdiskelemaan ja keventää tunnelmaa ja suositella hänelle jotain, niin mistä rupeatte puhumaan?
-Puhuja 1: Minua piti viime perjantaina.
-Puhuja 1: Meidän piti mennä puolisoni kanssa
-Puhuja 1: katsomaan suomalainen elokuva sata litraa sahtia, joka on kuulemma
-Puhuja 1: Se on kuulemma parasta, mitä Suomessa on tehty?
+Puhuja 4: Minua piti viime perjantaina.
+Puhuja 4: Meidän piti mennä puolisoni kanssa
+Puhuja 4: katsomaan suomalainen elokuva sata litraa sahtia, joka on kuulemma
+Puhuja 4: Se on kuulemma parasta, mitä Suomessa on tehty?
 Puhuja 2: En ole ihan varma. Tuntemattomaan
-Puhuja 1: sotilaan, mutta... Onko se väärä?
-Puhuja 1: Okei. Nyt taas oli kauhean järkkääminen. Meidän piti
-Puhuja 1: kaikenlaista säätämistä.
-Puhuja 1: Olin ostanut liput ja ostettiin popparit.
-Puhuja 1: Kaksi vesipulloa.
-Puhuja 1: Mentiin kassalle, niin selvisi, että tämä oli väärän päivän lippu.
-Puhuja 1: Nyt tavallaan samaan
-Puhuja 1: hengenvetoon, kun syytetään
-Puhuja 1: äänestystekniikkaa
-Puhuja 1: virheistä. Voisin syytä
-Puhuja 1: Finnon
-Puhuja 1: nettisivujen
-Puhuja 1: käytettävyyttä, mutta en oikein voi olla minun oma moka.
-Puhuja 1: Mutta edelleen aion mennä katsomaan sata litraa sahtia.
-Puhuja 1: Olen kuullut tästä, mutta eikö se ole sitten?
+Puhuja 4: sotilaan, mutta... Onko se väärä?
+Puhuja 3: Okei.
+Puhuja 4: Nyt taas oli kauhean järkkääminen. Meidän piti
+Puhuja 4: kaikenlaista säätämistä.
+Puhuja 4: Olin ostanut liput ja ostettiin popparit.
+Puhuja 4: Kaksi vesipulloa.
+Puhuja 4: Mentiin kassalle, niin selvisi, että tämä oli väärän päivän lippu.
+Puhuja 4: Nyt tavallaan samaan
+Puhuja 4: hengenvetoon, kun syytetään
+Puhuja 4: äänestystekniikkaa
+Puhuja 4: virheistä. Voisin syytä
+Puhuja 4: Finnon
+Puhuja 4: nettisivujen
+Puhuja 4: käytettävyyttä, mutta en oikein voi olla minun oma moka.
+Puhuja 4: Mutta edelleen aion mennä katsomaan sata litraa sahtia.
+Puhuja 4: Olen kuullut tästä, mutta eikö se ole sitten?
 Puhuja 2: Se on
 Puhuja 2: yllättävän
 Puhuja 2: sykkä.
 Puhuja 3: Kerro
 Puhuja 3: sohvi mistä se kertoo. Älä Spoilismista. Joo, älä spoilaa hirveästi.
-Puhuja 1: Siinä on Elina Knihtilä ja Pirjo Long pääosassa.
-Puhuja 1: Eikö se ole myös hauska?
+Puhuja 4: Siinä on Elina Knihtilä ja Pirjo Long pääosassa.
+Puhuja 4: Eikö se ole myös hauska?
 Puhuja 2: On siinä yksi tosi hauska vitsi.
 Puhuja 2: Oli siinä muutenkin hauskuutta. Siinä oli esimerkiksi mieletön puvustus.
 Puhuja 2: Mutta kyllä se on aika kassista ryyppäämisen kuvausta.
@@ -369,7 +373,7 @@ Puhuja 3: Tavallaan se on semmoista hommaa, jossa ei voi tehdä mitään muuta.
 Puhuja 3: Siinä ei voi samalla miettiä
 Puhuja 3: aluevaaleja ja kuntavaaleja ja Donald Trumpia, vaan sinun täytyy keskittyä
 Puhuja 3: tilan hahmottamiseen ja kartan hahmottamiseen.
-Puhuja 1: Ajattelepa, että rupeat hiihtosuunnistamaan.
+Puhuja 4: Ajattelepa, että rupeat hiihtosuunnistamaan.
 Puhuja 3: Sitä en tajua sitä hiihtosuunnistamaan. Eikö keskustalainen ministeri, entinen
 Puhuja 3: Hanna
 Puhuja 3: Kosonen, sehän on joku hiihtosuunnistuksen
@@ -397,11 +401,10 @@ Puhuja 2: vielä kirjaa
 Puhuja 2: nimeltä James,
 Puhuja 2: joka on Perssival
 Puhuja 2: Everd nimisen
-Puhuja 2: kirjailijan
-Puhuja 2: kirjoittama.
+Puhuja 2: kirjailijan kirjoittama.
 Puhuja 2: Oletteko
 Puhuja 2: lapsuudesta puheen ollen lukenut lapsena Haglaware Finnin seikkaillut?
-Puhuja 1: Olen ja tiedän. En ollut kirjaa, mutta tiedän, että tämä kertoo Chimistä.
+Puhuja 4: Olen ja tiedän. En ollut kirjaa, mutta tiedän, että tämä kertoo Chimistä.
 Puhuja 2: Hackberg Finn on siis amerikkalaisen kirjallisuuden klassikko, jossa
 Puhuja 2: valkoinen poika
 Puhuja 2: Hackberg Finn ja sitten mustaorio Chim
@@ -411,13 +414,13 @@ Puhuja 2: joella
 Puhuja 2: aikanaan ennen Yhdysvaltain sisällissotaa kuin orjuus on vielä
 Puhuja 2: voimissaan.
 Puhuja 2: Aivan niin kuin jättimäinen
-Puhuja 2: osa amerikkalaista kulttuuria se kirja, Mark Twinein kirja. Nyt uusi kirja, James,
+Puhuja 2: osa amerikkalaista kulttuuria se kirja, Mark Twinanin kirja. Nyt uusi kirja, James,
 Puhuja 2: kertoo vanhan tutun tarinan
 Puhuja 2: Jimmyn sen orjan näkökulmasta.
 Puhuja 2: Ja minulla oli siihen kovat odotukset, koska Hagbreathing
 Puhuja 2: on ollut minulle tärkeä. Ja olen lukenut sen sekä lapsena
 Puhuja 2: että aikuisena.
-Puhuja 2: Ja ne ehkä vähän jäivät niistä odotuksista, mutta oli se silti minusta hyvä kirja. Ja siinä oli
+Puhuja 2: Ja ne ehkä vähän jäi niistä odotuksista, mutta oli se silti minusta hyvä kirja. Ja siinä oli
 Puhuja 2: sellainen kikka
 Puhuja 2: keksitty, että kun ne orjat ovat keskenään,
 Puhuja 2: niin he puhuvat
@@ -435,10 +438,10 @@ Puhuja 2: Kun Hagebrayfin on kuitenkin
 Puhuja 2: iloinen ja kepeäkin kirja,
 Puhuja 2: niin tässä se tunnelma on aivan toinen.
 Puhuja 2: Ja juuri luin täältä, että Steven Spelberg tekee siitä jo elokuvaa.
-Puhuja 1: Okei, täytyy lukea. Se on minulla ollut pitkään mielessä. Kuulostaa tosi kiinnostavalta. Perssivalevet
-Puhuja 3: James.
+Puhuja 4: Okei, täytyy lukea. Se on minulla ollut pitkään mielessä. Kuulostaa tosi kiinnostavalta. Perssivalevet
+Puhuja 2: James.
 Puhuja 3: Siinä kaikki tältä erää. Kiitos Marko Jukkari. Kiitos.
-Puhuja 3: Kiitos Sopvi Perner. Kiitos.
+Puhuja 3: Kiitos Sopvi Pernell. Kiitos.
 Puhuja 3: Äänenkuvan ja kaiken muun mahtavan ihanaisen meille tänään tällä
 Puhuja 3: kertaa teki Jonnepiltonen.
 Puhuja 3: Laittakaa meille palautetta ja laittakaa

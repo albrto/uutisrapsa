@@ -17,7 +17,7 @@ Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti
 Puhuja 0: podcastiin torstaina kaksikymmentä. Päivä
 Puhuja 0: marraskuuta
 Puhuja 0: vuonna kaksituhatta kaksikymmentäviisi.
-Puhuja 0: Mun nimi on Tuomas Peltomokiakanssani täällä Helsingin Sanomien podcast
+Puhuja 0: Mun nimi on Tuomas Peltomagiakanssani täällä Helsingin Sanomien podcast
 Puhuja 0: studiossa talvisessa
 Puhuja 0: Helsingissä. Hyvinkäällä tosin lumi satoi jo tämän viikon alussa tai sanon jopa viime viikon lopulla. No Helsingistä se jo suli. Voin kertoa, kun tulin äsken sisään. Totta. Hyvinkäällä on siis valkoista tälläkin hetkellä. Sen takia siellä on niin ihana asua.
 Puhuja 0: Tässä kanssani
@@ -25,13 +25,13 @@ Puhuja 0: säätiloista
 Puhuja 0: tietää.
 Puhuja 0: Helsingin Sanomien
 Puhuja 0: Futuri-toimituksen
-Puhuja 0: toimittaja. Annasofy Berner, ystävien kesken sohvi. Hei vaan sohvi. Hei päin. Saanko sanoa, että olit varsin
+Puhuja 0: toimittaja. Annasfoy Permer, ystävien kesken sohvi. Hei vaan sohvi. Hei päin. Saanko sanoa, että olit varsin
 Puhuja 0: fiksun ja filmaattisen oloinen vieraillessasi
 Puhuja 0: aamutelevisiossa.
 Puhuja 2: Kiitos vaan. Sinulla
 Puhuja 0: on tuollainen cool newyorg Ga.
 Puhuja 3: Vau siellä olla vielä entistä cooliampi, koska se studio on todella hieno. Joo, kyllä.
-Puhuja 3: Ylen aamuter. Tämä meidän
+Puhuja 2: Ylen aamuter. Tämä meidän
 Puhuja 3: podcast studio
 Puhuja 0: Yle
 Puhuja 3: ja
@@ -39,10 +39,9 @@ Puhuja 0: työpaikalla,
 Puhuja 0: kun he ovat seuranneet edesottamuksia.
 Puhuja 0: Kampochassa!
 Puhuja 2: Kyllä minäkin vähän yllätyin, että te olitte niin huonoja.
-Puhuja 0: Siis Kompassintehtävä,
-Puhuja 0: siinä piti tuhannen kompassin joukosta valita se joulu, joka on
+Puhuja 0: Siis kompassitehtävä... Siis siinä piti tuhannen kompassin joukosta valita se joulu, joka on
 Puhuja 0: satakaksikymmentäviisi viisi astetta.
-Puhuja 0: Helppo tehtävä, jos olet joskus veneily. Jos et, niin sitten olet kyseessä. Varsin kusessa olet, että jos et muista,
+Puhuja 0: Helppo tehtävä, jos olet joskus veneily. Jos et, niin sitten olet kyseessä. Varsin kusessa olet. Jos et muista,
 Puhuja 0: että ympyrässä on kolmesataakuusikymmentä,
 Puhuja 0: koko ajan operoit olettamuksia, että siinä on satakahdeksan
 Puhuja 0: astetta.
@@ -77,8 +76,7 @@ Puhuja 0: kuin painetusta kirjasta. Kuka helvetti nyt jotain painettua kirjaa os
 Puhuja 2: siitä huolimatta, että kukaan ei ole sitä painettuja kirjoja, niin esimerkiksi minä olen saanut omasta kirjastani huomattavasti enemmän rahaa niistä painetuista kirjoista kuin niistä äänikirjoista, vaikka niitä äänikirjoja on kuunneltu paljon enemmän. Onko se kysymys se, että he ovat sitä mieltä, että kustantaja neuvotellut Spotifyn kanssa huonon diilin, enkä vieläkään vähän. Sekään ei tiedetä, mikä se diili on. Ei tiedetä paljonko niistä on. Kysy kirjailijalta, että mihin hintaan on myönkirjamista. Ei mennä. Ei, vaan sitten se, että se on siellä Spotifyssa, se on taas helpommin saatavissa
 Puhuja 2: halvalla ja sillä lailla, että kirjailija ei saa siitä mitään ja sitten entistä harvempi. Näin minä ajattelen, että se logiikka menee
 Puhuja 3: esimerkiksi itse käytän erästä äänikirjapalvelua,
-Puhuja 3: niin totta kai minäkin ja perhepiirissä laskettiin nopeasti, että miten se taloudellisesti
-Puhuja 3: sitten, jos luopuisi siitä ja ottaisikin Spotifyhin
+Puhuja 3: niin totta kai minäkin ja perhepiirissä laskettiin nopeasti, että miten se taloudellisesti sitten, jos luopuisi siitä ja ottaisikin Spotifyhin
 Puhuja 3: lisäosaan, tai miksi sitä nyt kutsuu, niin kyllä me ainakin noin nopeasti
 Puhuja 3: katsottuna meidän kohdalla
 Puhuja 3: siinä ei ollut ehkä sellaista hyötyä. Mutta jos mennään tähän kiistaan, tähän raivon aiheeseen, niin tämä viestintä on vain yksi asia, ja minusta se on vähän sivuseikka,
@@ -97,8 +95,8 @@ Puhuja 3: niin ainakin
 Puhuja 3: yhdeksänkymmentäviisi prosenttia varmaan oli siellä sen takia, että he kuulisivat,
 Puhuja 3: mikä on esimerkiksi WSOY:n
 Puhuja 3: ja Spotifyn välinen sopimus,
-Puhuja 3: mitkä luvut siellä ovat, millä ehdoilla kustantaja
-Puhuja 3: antaa niitä kirjoja sinne, mikä on se rahavirta. Mutta tähänhän
+Puhuja 3: mitkä luvut siellä ovat, millä ehdoilla
+Puhuja 3: kustantaja antaa niitä kirjoja sinne, mikä on se rahavirta. Mutta tähänhän
 Puhuja 3: ehkä sen verran voin sanoa, että käytettiin muotoilua, että on erittäin kilpailukykyinen,
 Puhuja 3: tämä oli se mitä toistettiin monta kertaa,
 Puhuja 3: ja jollain tavalla ehkä minä tulkitsen niin, että kustantajat yrittävät myös vähän vihita, että se saattaa olla jopa hyväkin kirjailijalle. Mutta niin kauan, kun ei tiedetä lukuja, mitä siellä sopimuksessa on, niin sehän on ihan arvuuttelu.
@@ -131,8 +129,10 @@ Puhuja 0: voi vaikka olla silleen, että hei, te olette
 Puhuja 0: aivan liian siellä Tammessa WSOY:llä, niin te olette aivan liian kusisukassa
 Puhuja 0: siellä, neuvotelkaa paremmin. Tai me kaikki
 Puhuja 0: ykkösrivikirjailijat perustetaan oma kustantamo.
-Puhuja 2: Neuvottelemme suoraan Spotifyn kanssa. Rikastutaan. Miljoonat tulee tähän. Sellaista keskustelua on näkynytkin jonkun verran, mihin me edes tarvitaan
-Puhuja 2: varmaankin markkinatalouden logiikan vastaisia sääntöjä, joilla
+Puhuja 0: Neuvottelemme suoraan Spotifyn kanssa. Rikastutaan. Miljoonat tulee tähän. Sellaista keskustelua on näkynytkin
+Puhuja 2: jonkun verran, mihin me edes tarvitaan
+Puhuja 2: varmaankin markkinatalouden
+Puhuja 2: logiikan vastaisia sääntöjä, joilla
 Puhuja 2: helpotetaan painetun kirjan elämää.
 Puhuja 3: Kyllä. Mutta ehkä summa summarum, tässä keskustelussa, jota nyt käydään Spotifyn ympärillä, niin heijastuu
 Puhuja 3: kaikki kireys, nihkeys
@@ -172,10 +172,9 @@ Puhuja 3: mutta kirjan nimi on Kaikki tiet turvaan.
 Puhuja 3: Olen tämän
 Puhuja 3: kirjan aikana muuttanut mielipiteitä tästä kirjasta moneen kertaan. En ole sitä huonona pitänyt missään vaiheessa,
 Puhuja 3: mutta sanotaan, että jossain kohdassa ajattelin, että nyt lähtee vetämään hyvin.
-Puhuja 3: Tämän
-Puhuja 3: laaja punainen lanka on
+Puhuja 3: Tämän laaja punainen lanka on
 Puhuja 3: tämä
-Puhuja 3: no, kaikki tiet turvaan, kaikki tiet Natoon.
+Puhuja 3: no, kaikki tiet turvaan, kaikki tiet Natoon, tai näin.
 Puhuja 3: Eli
 Puhuja 3: käydään
 Puhuja 3: aika laajastikin, minusta ehkä vähän tarpeettomankin laajasti käydään läpi erilaisia taustoja siitä, että miten tultiin siihen tilanteeseen, että Suomi sitten Natoon
@@ -183,10 +182,11 @@ Puhuja 3: vietiin.
 Puhuja 3: Silloin kun tuli tämä tunne, että nyt tämä lähtee vetämään, niin siirryttiin
 Puhuja 3: osioihin, joissa kerrottiin yhteistyöstä, tapaamisesta
 Puhuja 3: vuorovaikutuksesta
-Puhuja 3: Putiniin, Trumpin, sekä
+Puhuja 3: Putiniin, Trumpinksiiin
+Puhuja 3: sekä
 Puhuja 3: kaikenlaisten muiden valtionjohtajien
 Puhuja 3: kanssa.
-Puhuja 3: Minusta tämä on kyllä todella kiinnostava. Olen miettinyt, että tämä kirja olisi varmasti, minä en tiedä onko tulossa kv-versiota,
+Puhuja 3: Minusta tämä on kyllä todella kiinnostava. Olen miettinyt, että tämä kirja olisi varmasti, en tiedä onko tulossa kv-versiota,
 Puhuja 3: onko tätä
 Puhuja 3: englanniksi
 Puhuja 3: tarkoitus kääntää,
@@ -196,9 +196,8 @@ Puhuja 3: otsikoida ja ehkä rakentaa siltä pohjalta, että hetkinen,
 Puhuja 3: Hassujen johtajien kanssa.
 Puhuja 3: Tässä on tosi
 Puhuja 3: paljon kiinnostavaa. Sitten on tietenkin myös mielenkiinnolla,
-Puhuja 3: toki kun tuohon kirjaan, niin viitattiin, että sitten kun Marinin kirjaa aiemmin luin ja yritin hahmottaa, että miten nämä
-Puhuja 3: eri
-Puhuja 3: henkilöt kertovat
+Puhuja 3: toki kun tuohon kirjaan, niin viitattiin, että sitten kun Marinin kirjaa aiemmin luin ja yritin hahmottaa, että miten nämä eri henkilöt
+Puhuja 3: kertovat
 Puhuja 3: kirja, joka joskus on tulossa. Mutta pieni näyte, minusta hauskimpia juttuja tässä oli se, että kun Putin ja Trump tapasivat Helsingissä vuonna kaksituhatta kahdeksantoista,
 Puhuja 3: muistatte tämän,
 Puhuja 3: Ota päiväkirjasta:
@@ -221,7 +220,7 @@ Puhuja 2: innostunut ja tehnyt kirjastovaraukseen,
 Puhuja 2: että tämä olisi varmaan hyvä lukea.
 Puhuja 2: Se on
 Puhuja 2: tällainen vuonna kaksituhatta viisi alun perin ilmestynyt historioitsija
-Puhuja 2: Toniy Chydin JUD.
+Puhuja 2: Toniy Chyden, JUD.
 Puhuja 2: The.
 Puhuja 2: The. The. The. The. The. The
 Puhuja 2: Post2-49-kaksituhatta
@@ -231,22 +230,20 @@ Puhuja 2: alkuun.
 Puhuja 2: Ja
 Puhuja 2: olen hyvin alussa,
 Puhuja 2: missä
-Puhuja 2: lakonisesti
-Puhuja 2: käydään läpi
-Puhuja 2: Euroopan tilanne toisen maailmansodan päättyessä.
-Puhuja 2: Ja totta kai sitten tajuan, että toinen maailmansota oli maailmansota
+Puhuja 2: lakonisesti käydään
+Puhuja 2: läpi
+Puhuja 2: Euroopan tilanne toisen maailmansodan päättyessä. Ja totta kai sitten tajuan, että toinen maailmansota oli maailmansota
 Puhuja 2: hirvittävä ja järkyttävä.
 Puhuja 2: Ja että kuusi miljoonaa juutalaista murhattiin. Mutta
 Puhuja 2: sitten kun se käy
 Puhuja 2: maa maalta ja
 Puhuja 2: asia asialta, että miten paljon
-Puhuja 2: ihmisiä oli kuollut, miten paljon vähemmän oli miehiä kuin naisia,
-Puhuja 2: miten monet miljoonat olivat menettäneet kotinsa, miten kaikki rajat muuttuivat, miten kaikki yhteiskunnat muuttuivat.
+Puhuja 2: ihmisiä oli kuollut, miten paljon vähemmän oli miehiä kuin naisia, miten monet miljoonat olivat menettäneet kotinsa, miten kaikki rajat muuttuivat, miten kaikki yhteiskunnat muuttuivat.
 Puhuja 2: Jotenkin se lähtötilanne silloin
 Puhuja 2: neljäkymmentäviisi, niin pelkästään sen lukeminen on ollut
 Puhuja 2: äärimmäisen
 Puhuja 2: tärkeä ja
-Puhuja 2: juuri sellainen, että ne ei pitäisi olla uutinen, mutta silti tämä
+Puhuja 2: just sellainen, että ne eivät pitäisi olla uutinen, mutta silti tämä
 Puhuja 2: on aivan käsittämätöntä.
 Puhuja 2: Juuri
 Puhuja 2: kymmenen vuotta ennen kuin minun vanhempani ovat syntyneet,
@@ -255,7 +252,7 @@ Puhuja 2: Siinä kyllä sudetit ja kaikki kaapenee
 Puhuja 2: mennen tullen.
 Puhuja 2: Odotan myös, että kunhan saa kahlattua eteenpäin, niin
 Puhuja 2: selviää myös, miten tästä on päässyt. Postboar,
-Puhuja 0: History of Europes tuhat yhdeksänsataakahdeksankymmentäviisi. Tämä on joku mega klassikko. Mun mielestä toi Lis on ollut pitkään. Vähän silleen, että se näyttää niin tylsältä, ettei ole tehnyt meiltä ollut tarkkuutta.
+Puhuja 0: History of Europes tuhat yhdeksänsataakahdeksankymmentäviisi. Tämä on joku mega klassikko. Mun mielestä toi Lis on ollut pitkään. Vähän silleen, että se näyttää niin tylsältä, ettei ole tehnyt meiltä ollut tarkkuutta. Joo.
 Puhuja 2: Ei se nopeasti etene, mutta
 Puhuja 2: huhhuh. Mun
 Puhuja 0: rakas tytär

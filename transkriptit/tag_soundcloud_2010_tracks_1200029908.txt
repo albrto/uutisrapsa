@@ -18,28 +18,28 @@ Puhuja 0: torstaina
 Puhuja 0: kaksikymmentä. Tammikuuta vuonna kaksituhatta kaksikymmentäkaksi.
 Puhuja 0: Mun nimi on Tuomas Pelmäki ja kanssani täällä Helsingin Sanomien
 Puhuja 0: politiikan toimittaja Marko Junkkari. Hei, Marko. Moi. Ja Alma On Alli, aluevaali Alma
-Puhuja 0: taloushakemuksesta.
-Puhuja 1: Kellou.
-Puhuja 0: Hei, Alma.
+Puhuja 0: taloustoimituksesta.
+Puhuja 0: Kellou. Hei, Alma.
 Puhuja 0: Hei, lyhyt ilmoitusasia.
 Puhuja 0: Pliis, laittakaa mulle
 Puhuja 0: esimerkiksi Instagramiin tai sähköpostiin: Tuomas.pelton
 Puhuja 0: magiohes.
-Puhuja 0: Fi, idiksiä nimittäin Helsingin Sanomien sovelluksen
+Puhuja 0: Fi, idiksiä nimittäin
+Puhuja 0: Helsingin Sanomien
+Puhuja 0: sovelluksen
 Puhuja 0: robottiääntä
 Puhuja 0: aletaan kehittää rukkaamaan.
 Puhuja 0: Hesarin
 Puhuja 0: ääniversiosta
 Puhuja 0: tulee vitun hyvä.
-Puhuja 0: Aivan siis törkeän hyvä. Siis silleen, että pystyt... Lupailen nyt ihan liikaa. Mutta pystyt aamulla, sanon
+Puhuja 0: Aivan siis törkeän hyvä. Siis silleen, että pystyt, lupailen nyt ihan liikaa, mutta pystyt aamulla, sanon
 Puhuja 0: älykajarille, että luepas mulle päivän lehtiä, sieltä sinne
 Puhuja 0: tulee ulos,
 Puhuja 0: täydellisellä Suomella,
 Puhuja 0: erittäin miellyttävällä robottienäänellä, jonka mä haluan kastaa nimellä Hekla.
 Puhuja 0: Meidän Roboäänen nimi voisi olla Hekla. Eikö? Hekla Hulttiin Hesarin historiasta. Eikö niin? Aa. Pää? Ja sitten olisi mahtavaa, että hän olisi tämmöinen keinoäly. Joo,
-Puhuja 0: toi on ihan hyvä idea. Kyllä.
-Puhuja 0: Mitä
-Puhuja 0: ihmiset,
+Puhuja 0: toi on ihan hyvä idea mitaleja mulle. No niin,
+Puhuja 0: niin te ihmiset,
 Puhuja 0: kertokaa mulle esimerkiksi
 Puhuja 0: Instagramiin tai sähköpostiin, että mitä te haluaisitte
 Puhuja 0: ääniversiolta,
@@ -111,7 +111,7 @@ Puhuja 0: Ei ikinä jostain syystä kutsu mua ikinä mihinkään juhliin.
 Puhuja 0: Kaikkia tämmöisiä siellä joutuu käymään läpi.
 Puhuja 0: Kuitenkin se yhteisö
 Puhuja 0: ympärillä opettaa sut pikkuhiljaa
-Puhuja 0: toimimaan silleen, että rupeet saamaan niitä, kun sä opettelet ne asiat. Ja sit mä mietin nyt, että jos nykyään ja nyt Boomeri
+Puhuja 0: toimimaan silleen, että rupeet saamaan niitä, kun sä opettelet ne asiat. Ja sitten mä mietin nyt, että jos nykyään ja nyt Boomeri
 Puhuja 0: kommentti, mutta että nuorilla ihmisillä esimerkiksi
 Puhuja 0: se toisten kanssa kommunikointi tapahtuu Instagram-stooreissa
 Puhuja 0: ja muissa, missä se mielikuva,
@@ -143,8 +143,8 @@ Puhuja 1: yksiöitymiskehityksen
 Puhuja 1: kautta, kun nuoret eivät enää asu kimppakämpissä
 Puhuja 1: tai kommoneissa tai soluissa, niin tosiaan, ne ovat yksin siellä yksiössä ja sitten ne miettivät, miksei kukaan tule täältä hakea mua leikkimään.
 Puhuja 1: Kyllä Tove Jansson sen jo tuossa Kuka lohduttaisi Nyytiä? Kirjassa aikoinaan sanoi,
-Puhuja 1: että ei sinua huomaa kukaan, jolle et itse mene mukaan.
-Puhuja 1: Mutta mihin sä menet mukaan, kun ei ole mitään paikkaa mihin mennä, paitsi se Instagram, missä sä sitten huudat sinne
+Puhuja 1: että ei sinua huomaa kukaan, jolle et itse mene mukaan, mutta
+Puhuja 1: mihin sä menet mukaan, kun ei ole mitään paikkaa mihin mennä, paitsi se Instagram, missä sä sitten huudat sinne
 Puhuja 1: algoritmien tyhjyyteen
 Puhuja 1: ja
 Puhuja 1: joku bitti sulle vastaa jollakin emojilla.
@@ -176,7 +176,7 @@ Puhuja 1: kuningaskunta on, tiedättekö kärvistely aivan äärimmäisen
 Puhuja 1: tiukan lockdownin alla, niin Downin Streetillä on
 Puhuja 1: nämä Johnsonin
 Puhuja 1: lähipiiri päässyt jotenkin.
-Puhuja 2: Eikö ollut siis jyrsinetä, että no, joka perjantai? Joo, vain time Friday. Ja siistiä tässä on se,
+Puhuja 2: Eikö ollut siis Ylisietä, että no, joka perjantai? Joo, vain time Friday. Ja siistiä tässä on se,
 Puhuja 2: että kuvittelisin, että pääministerillä
 Puhuja 2: olisi fyrkkaa ja se tarjoaisi, mutta siellä aina aloittaa, että bring your on. Joo, bring your
 Puhuja 1: on. Kuuntelin tänään pari podcastia tästä aiheesta, ja niissä käy mielestäni ihanalla tavalla ilmi se, millä tavalla
@@ -187,19 +187,18 @@ Puhuja 1: työntekijät yli.
 Puhuja 1: Ne yhdet
 Puhuja 1: toimittajat podcastissa kauhistelivat näin, että sieltä joku oli käynyt hakemassa matkalaukun kanssa lähikaupasta punkkua, kun se oli loppunut kesken ja sitten he olivat leikkineet siellä sen Johnsonin Lapsen keinun kanssa ja se keinu oli mennyt
 Puhuja 1: rikki aivan ice droping
-Puhuja 1: ja sitten mä olen vaan silleen, ettällei Suomessa kukaan
-Puhuja 1: lututtaisi
+Puhuja 1: ja sitten mä olen vaan silleen, ettällei Suomessa kukaan lututtaisi
 Puhuja 1: Discrasble!
 Puhuja 1: Nyt tosiaan siellä
 Puhuja 1: eilen oli ilmeisesti parlamentin
 Puhuja 1: kokoontunut ja siellä on kaikki huutaneet
 Puhuja 1: Resign!
-Puhuja 1: Boris
-Puhuja 1: Johnsonhan
+Puhuja 1: Boris Johnsonhan
 Puhuja 1: vetoaa siihen, että hän ei ole tiennyt.
 Puhuja 1: Ensinnäkin
 Puhuja 1: yksi isoin bileistä, mikä on koitumassa hänen kohtalokseen, tapahtui toukokuussa
-Puhuja 1: kaksituhatta kaksikymmentä, kun oikeasti oli sellaiset lockdownit, jossa Lontoossakin, että poliisi tuli yli sakottaa sua, jos istut puiston penkillä.
+Puhuja 1: kaksituhatta kaksikymmentä, kun oikeasti oli sellaiset lockdownit, jossa Lontoossakin,
+Puhuja 1: että poliisi tuli yli sakottaa sua, jos istut puiston penkillä.
 Puhuja 1: Siellä oli sata ihmistä kerääntynyt tänne Boris Johnsonin puutarhaan ja Johnson oli itse piipahtanut siellä kaksikymmentäviisi minuuttia ja sitten mennyt takaisin tekemään töitä.
 Puhuja 1: Ja parlamentille hän sanoi, että... Hän ei tiennyt, että ne ovat juhlat.
 Puhuja 1: Ja sitten hän sanoi, että
@@ -211,7 +210,8 @@ Puhuja 1: peruste,
 Puhuja 1: niin Jonsson on sanonut, että kukaan ei sanonut hänelle,
 Puhuja 1: että tämä olisi kiellettyä. Tämähän on nyt taas tällainen, että herran
 Puhuja 1: Jumala, että kun ei ole kyse, että voiko loputtomiin sanoa, että kun kukaan ei sanonut mulle, kun sun pitäisi olla
-Puhuja 1: valtion johtaja ja ajatella itse ja tietää joka...
+Puhuja 1: valtion johtaja ja ajatella itse ja tietää
+Puhuja 0: joka...
 Puhuja 0: Hänen exuuttomiehensä. Kyllä, josta tehtiin
 Puhuja 1: joka... Hänen exulottomiehensä.
 Puhuja 0: Kyllä, josta tehtiin kokonaan ja HBO elokuvakin.
@@ -222,12 +222,13 @@ Puhuja 0: omassa blogissaan
 Puhuja 0: auttaisi Boris Johnsonin ja sanoi, että väärin,
 Puhuja 0: että tiesin ja että hän todistaa vaikka oikeudessa, että pääministeri tiestä sitä, jolloin pääministeri onkin yhtäkkiä
 Puhuja 0: Bille Boris on muuttunut parlamentille valehtelijaboreksi,
-Puhuja 2: joka on astetta vakava. Se on erittäin vakavana Suomessakin syy, miksi pääministeri joutuu eroamaan, jos hän puhuu.
+Puhuja 2: joka on astetta vakava. Se on erittäin vakavana Suomessakin
+Puhuja 2: syy, miksi pääministeri joutuu eroamaan, jos hän puhuu.
 Puhuja 2: Lähtele eduskunnalle.
 Puhuja 1: Alkaa vaikuttaa siltä, että konservatiivipuolueiden
 Puhuja 1: sympatiat
 Puhuja 1: Borista kohtaan alkavat olemaan aika matalat, koska kyllähän
-Puhuja 1: se syy, miksi he ovat jotenkin katselleet Borisksen meininkiä, joka siis on aivan hävytön opportunisti,
+Puhuja 1: se syy, miksi he ovat jotenkin katselleet Boriksen meininkiä, joka siis on aivan hävytön opportunisti,
 Puhuja 1: niin sehän on vaan se, että se on ollut tavallaan
 Puhuja 1: se voittaja hevonen.
 Puhuja 1: Mutta nyt jotenkin jengi alkaa olemaan niin täynnä sitä, että sillä ei tavallaan ole... Kun sen ainoa valtti on ollut se, että se on voittaja hevonen. Nyt, kun se ei ole enää voittaja hevonen, niin ei sillä ole oikeastaan mitään poliittista substanssiakaan, mitä sillä ei se enää antaa kellekään.
@@ -238,11 +239,9 @@ Puhuja 1: Ei niitä erottanut toisesta. Keith Lemon on kanssa ihan täysi pelle 
 Puhuja 0: Viimeinen asia, mitä tässä podcast sanotaan Porce Johnsonista, on se, että minä olen niin vanha, että muistan
 Puhuja 0: sen, että
 Puhuja 0: aikana ennen internettiä
-Puhuja 0: Helsingin Sanomissa oli joskus semmoinen hyvin pieni yhden paasto uutena, jossa oli silleen, että Bo, Lontoon pormestari
-Puhuja 0: pyöräili
+Puhuja 0: Helsingin Sanomissa oli joskus semmoinen hyvin pieni yhden paasto uutena, jossa oli silleen, että Bo, Lontoon pormestari pyöräili
 Puhuja 0: töihin. Sitten siinä oli kuva Boris Johnsonista pyöräilemässä ja se oli jotain ihan mieletöntä.
-Puhuja 2: Joo ja Boris sanoi siis entinen toimittaja. Mä muistan kun Hesarin entinen Brysselin kirja vaihtekin on Tuusboriks. Ne oli samaan samaan aikaan perässä. Hän valehteli
-Puhuja 2: aina
+Puhuja 2: Joo ja Boris sanoi siis entinen toimittaja. Mä muistan kun Hesarin entinen Brysselin kirja vaihtekin on Tuusbouriksen. Hän valehteli aina siinä läpi ja
 Puhuja 0: miten?
 Puhuja 1: Lähdettaas
 Puhuja 1: töihin ja juot samalla mitä.
@@ -253,8 +252,9 @@ Puhuja 0: Koska siellä on kylmää ja sohjoista, niin teillä on taskummatti si
 Puhuja 0: ja sitten tarjoatte hänelle nauhkua siinä ja mistäs sitten naapurille.
 Puhuja 0: Miten viiritte?
 Puhuja 1: Aloita sä, aloitin viimeksi. Ei, mulla ei ole mitään keksittynä. Mä yhä vaan suosittelen sitä oikeusjuttua.
-Puhuja 1: Ja mitäs muuta
-Puhuja 1: voisin suositella.
+Puhuja 1: Ja
+Puhuja 1: mitäs muuta voisin
+Puhuja 1: suositella.
 Puhuja 1: En tiedä, en ole ehtinyt.
 Puhuja 1: Jos et ole Helsingistä, niin jos et ole käynyt äänestämässä, niin äänestä sunnuntaina. Suosittelen
 Puhuja 1: seuraamaan
@@ -264,21 +264,20 @@ Puhuja 1: sen takia, että olisit informoitu kansalainen.
 Puhuja 0: Suosittelen ensinnäkin seuraamaan
 Puhuja 0: Helsingin Sanomien
 Puhuja 0: aluevaaliltaa,
-Puhuja 0: jossa
-Puhuja 0: allekirjoittanut on vihreiden
+Puhuja 0: jossa allekirjoittanut
+Puhuja 0: on vihreiden
 Puhuja 2: puoluekokouksessa Eiks se oo mun vuoro? Niin.
-Puhuja 0: Ai mä luulen, että sä katselet vielä. En mä enää kattele. No mä nyt aloatimm.
-Puhuja 0: Mä
+Puhuja 0: Ai mä luulen, että sä katselet vielä. En mä enää kattele. No mä en nyt alo tia. Mä
 Puhuja 0: olen... Nyt Sirillä oli jotain asiaa.
 Puhuja 0: Mä oon vihreiden puolue kokouksessa ja koko homman taitaa ajaa kokous. Ei kun mikä se on, iltama.
 Puhuja 0: Koko homman taitaa juontaa. Markku Junkkari, onko näin? En juonnna.
 Puhuja 2: Ei, mä olen siis tuolla kuntatalolla
 Puhuja 2: maalitulosilta,
 Puhuja 2: niin mä
-Puhuja 0: otan puheenjohtajia. Mutta katsokaa HSY. Fi:n striimiä aiheesta niin siellä näkyy tuttuja naamoja.
-Puhuja 2: Mä itse asiassa
-Puhuja 2: olen kuunnellut tämän. Mäkin olen kuunnellut
-Puhuja 2: minusta se on jotenkin harvinaisen kiehtova ja pyydän anteeksi jos olen aikaisemminkin suositellut tätä podcastia, mutta tämä on
+Puhuja 0: Siellä jututan puheenjohtajia. Mutta katsokaa HSY. Fi:n striimiä aiheesta
+Puhuja 0: niin siellä näkyy tuttuja naamoja. Mä itse asiassa
+Puhuja 2: olen kuunnellut tämän.
+Puhuja 2: Minusta se on jotenkin harvinaisen kiehtova ja pyydän anteeksi jos olen aikaisemminkin suositellut tätä podcastia, mutta tämä on
 Puhuja 2: muistaakseni tämän Radio Labin tekemä
 Puhuja 2: Mustasta sarvikuonosta.
 Puhuja 2: Onko kumpikaan kuunnellut sitä?
@@ -310,7 +309,8 @@ Puhuja 2: dollaria siitä, että se pääsee ampumaan tämän. Ihan kir vedetä�
 Puhuja 2: Sitten se kertoo, sitten nousi aivan kamala. Muistan Suomessakin oli silloin juttuja.
 Puhuja 2: Tämmöinen keski-ikäinen
 Puhuja 2: ukko maksaa kolmesataa viisikymmentä tonnia siitä, että pääsee ampumaan
-Puhuja 2: maidon maailman harvinaisemmista eläimistä.
+Puhuja 2: maidon
+Puhuja 2: maailman harvinaisemmista eläimistä.
 Puhuja 2: Ja
 Puhuja 2: sitten tuli valtava somehyökkäys ja hän sai tappouhkauksia
 Puhuja 2: ja hän joutui jotenkin
@@ -368,7 +368,7 @@ Puhuja 0: kaikki Suomesta
 Puhuja 0: puhumassa
 Puhuja 0: tosi pitkään ja tosi seikkaperäisesti
 Puhuja 0: asioista.
-Puhuja 0: Olen ollut siellä muutaman kerran. Viimeksi olin juttelemassa Milad Dehkanenin
+Puhuja 0: Olen ollut siellä muutaman kerran. Viimeksi olin juttelemassa Milad Dehkanin
 Puhuja 0: eli räppäri Slim Millin kanssa. Slim Mill on tämä, joka sai kenkää persoonista,
 Puhuja 0: koska hän
 Puhuja 0: oli vähän liian far out.
@@ -422,8 +422,8 @@ Puhuja 0: kaikesta touhustaan.
 Puhuja 0: Okei, siinä kaikki tältä erää.
 Puhuja 0: Kiitos, Alma Onali.
 Puhuja 0: Kiitos. Kiitos, Marko Junkkari. Kiitos. Minun nimi on Tuomas Peltomäki. Ääni ja kuvaa ja kaiken muun mahtavaa meille tekee tällä viikolla. Mikko Peura,
-Puhuja 0: lähettäkää palautetta
-Puhuja 0: uutisraportti. Lähettäkää ideoita Tuomaspeltomäki-Instagramissa
+Puhuja 0: lähettäkää palautetta uutiskirjeraportti.
+Puhuja 0: Lähettäkää ideoita Tuomaspeltomäki-Instagramissa
 Puhuja 0: liittyen
 Puhuja 0: kaikkiin Hesarin äänisisältöihin,
 Puhuja 0: joissa tapahtuu tripla Wolt

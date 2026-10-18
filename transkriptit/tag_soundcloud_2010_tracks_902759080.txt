@@ -39,16 +39,17 @@ Puhuja 0: Huiivi, ei nyt ole mikään vieras vaatekappaleessa.
 Puhuja 1: Niin, mun kannattaa olla joskus olla. Niin, hyvä.
 Puhuja 0: Ihan päästä keksin näitä juttuja. Mennään eteenpäin.
 Puhuja 0: Hei, rakkaat kuuntelijat,
-Puhuja 0: tälläs
-Puhuja 0: podcastlla on sponsori. Ja tämän podcastin teillä nimittäin sponsoroi
-Puhuja 0: Wall Street Journal. Nimittäin
+Puhuja 0: tälläs podcastilla on sponsori.
+Puhuja 0: Ja tämän podcastin teillä nimittäin sponsoroi
+Puhuja 0: Wall Street Journal.
+Puhuja 0: Nimittäin
 Puhuja 0: nyt Yhdysvaltain
 Puhuja 0: Amerikanvaalien
 Puhuja 0: ajan
 Puhuja 0: tämän
 Puhuja 0: podcastin
-Puhuja 0: kuulijoilla
-Puhuja 0: ja myös
+Puhuja 0: kuulijoilla...
+Puhuja 0: Ja myös
 Puhuja 0: muilla Helsingin Sanomien yleisöllä
 Puhuja 0: on mahdollisuus tilata
 Puhuja 0: Helsingin Sanomat ja saada
@@ -60,9 +61,7 @@ Puhuja 0: jollain mystisellä tavalla saa molemmat. Kun menee
 Puhuja 0: osoitteeseen hsyes. Filaa,
 Puhuja 0: niin sieltä voi tilaamalla Helsingin Sanomat saa myös Wall Street Journalin.
 Puhuja 0: Mä epäilen, että kyse on digitilauksesta.
-Puhuja 0: Mutta molemmathan on siis
-Puhuja 0: maksullisia medioita, joten siis kyllä se
-Puhuja 0: ehdottomasti jo rahansa väärti, että saa yhden maailman
+Puhuja 0: Mutta molemmathan on siis maksullisia medioita, joten siis kyllä se ehdottomasti rahansa väärti, että saa yhden maailman
 Puhuja 0: laatumerioista
 Puhuja 0: toisen Suomen laatumedian
 Puhuja 0: päälle. Eli HRs.
@@ -87,7 +86,7 @@ Puhuja 0: erinomainen
 Puhuja 0: minidokumentti
 Puhuja 0: alle viisitoista minuuttia,
 Puhuja 0: jossa käydään läpi Yhdysvaltain presidentinvaalien
-Puhuja 0: asetelmat, mikä ratkaisee vaalit, mikä olennaiset kysymykset ja kaikkialla se on. Minä juuri näin
+Puhuja 0: asetelmat, mikä ratkaisee vaalit, mitkä olennaiset kysymykset ja kaikkialla se on. Minä juuri näin
 Puhuja 0: sen ihan viittä vaille viimeisen version siitä dokkarista. Se oli mahtava,
 Puhuja 0: se julkaistaan Helsingin Sanomien YouTube-tilillä,
 Puhuja 0: eli kannattaa
@@ -113,10 +112,9 @@ Puhuja 0: osattomia tähän
 Puhuja 0: keskusteluun.
 Puhuja 0: Meillä on varmasti
 Puhuja 0: omista lähtökohdista tuleva perspektiivi.
-Puhuja 0: Mutta tähän liittyy kysymyksiä, jotka ovat jotenkin tosi olennaisia tällä hetkellä.
-Puhuja 0: Junes-luokka
-Puhuja 0: itse on aivan
-Puhuja 0: äärihahmo, haukkuu menemään kaikkia eikä mitenkään missään suljetulla priva seinällä, vaan
+Puhuja 0: Mutta tähän liittyy kysymyksiä, jotka ovat jotenkin tosi olennaisia
+Puhuja 0: tällä hetkellä.
+Puhuja 0: Junes-luokka itse on aivan tämmöinen äärihahmo, haukkuu menemään niin kuin kaikkia eikä mitenkään missään suljetulla priva seinällä, vaan
 Puhuja 0: julkisilla
 Puhuja 0: videoillaan.
 Puhuja 0: Ja tuntuu, että tässä on kaikennäköisiä
@@ -195,7 +193,7 @@ Puhuja 1: maalittamista.
 Puhuja 1: Mutta hovioikeus totesi, että
 Puhuja 1: siinä postauksessa ei erikseen määritelty, että tässä oli kysymys maalittamisesta. Tai siinä ei pohjustettu eikä perusteltu tätä asiaa millään tavalla. Mutta sehän on hassu ajatus, jos tämä on suljettu, hänen oma suljettu
 Puhuja 1: Facebook-siivunsa, jossa hän keskustelee
-Puhuja 1: kaksisataa valtaosa toimittajia. Niin kyllä tavallaan se konteksti syntyy siinä, kun ihmiset tuntee toisensa. Mun mielestä se on jotenkin omituinen tulkinta. Eikö se ole myös niin, että sitten... Ei:hän on myös, ehkä toisin kuin tässä, niin sehän on kai nähnyt, että myös sen
+Puhuja 1: kaksisataa valtaosa toimittajia. Niin kyllä tavallaan se konteksti syntyy siinä, kun ihmiset tuntee toisensa. Mun mielestä se on jotenkin omituinen tulkinta. Eikö se ole myös niin, että sitten... Siis IT:hän on myös, ehkä toisin kuin tässä, niin sehän on kai nähnyt, että myös sen
 Puhuja 1: kunnianloukkauksen
 Puhuja 1: kohteeksi joutuneen ihmisen oma käyttäytyminen
 Puhuja 1: on merkityksellistä. Jos haukkuu toisiaan, niin sitten häntäkin saa haukkua. Tästähän on jotain. Jörg Hyder aikoinaan...
@@ -222,8 +220,8 @@ Puhuja 0: joka
 Puhuja 0: rinnastelee
 Puhuja 0: samalla tavalla tätä
 Puhuja 0: tapausta.
-Puhuja 0: Emmi Nuorgam kirjoittaa näin:
-Puhuja 0: Ensimmäisessä tapauksessa Vehkoa kutsuu lokkaa natsipelleksi,
+Puhuja 0: Emmi Nuorgam kirjoittaa näin: Ensimmäisessä
+Puhuja 0: tapauksessa Vehkoa kutsuu lokkaa natsipelleksi,
 Puhuja 0: ja siitä seuraa kunnianloukkaus ja viisitoista nolla euron
 Puhuja 0: tulonmenetys.
 Puhuja 0: Ja
@@ -261,7 +259,8 @@ Puhuja 1: Koska
 Puhuja 1: hänet puhuttiin ihmisestä ja hänen ominaisuuksista, niin sen takia se oli kuunnellut. Niin. Ja nimenomaan
 Puhuja 2: päätöksen mukaan, että kirjoituksesta
 Puhuja 2: ei ilmene, että se käsittelisi lokan menettelyä politiikassa.
-Puhuja 2: Käyn erikoinen. Mutta jos muistattetteko, Susanna Rainbound
+Puhuja 2: Käyn erikoinen. Mutta jos muistatteko, Susanna
+Puhuja 2: Rainbound
 Puhuja 2: ja Sasu Satu Vasantola kirjoitti, olisiko vuosi jotain
 Puhuja 2: jutun siitä, miten seksuaalisesta
 Puhuja 2: ahdistelusta
@@ -365,8 +364,8 @@ Puhuja 0: tilaan.
 Puhuja 0: Se on tosi jännä kirja. Mä suosittelen myös. Ja sitten se jatkuu, jatkatteen
 Puhuja 1: Bob Dowista,
 Puhuja 1: Koska Bob Dowley ei halua puhua tästä. Hän sodassa siis loukkasi kätensä. Hänellä
-Puhuja 1: oli kunnia-asia, että hän ei halua olla invaliddeja. Hän haluaa puhua siitä kädestään,
-Puhuja 1: ettei mitään numeroa siitä. Ja sitten tässä vaalikampanjan aikana hänen vaimonsa, joka kiertää
+Puhuja 1: oli kunnia-asia, että hän ei halua olla invaliddeja. Hän haluaa puhua siitä kädestään.
+Puhuja 1: Ei mitään numeroa siitä. Ja sitten tässä vaalikampanjan aikana hänen vaimonsa, joka kiertää
 Puhuja 1: omilla teillään keräämässä rahaa ja kampanjoivassa
 Puhuja 1: miehensä puolesta, niin
 Puhuja 1: se vaimo sitten tajuaa, että tämä on ihan mahtava tämä sotatarina tästä, kun se makaa siellä italialaisella Nummella. Käsi on muuttunut paskaksi.
@@ -385,7 +384,7 @@ Puhuja 0: Jostain
 Puhuja 0: Kiitos Marko, kun suosittelit sitä.
 Puhuja 0: Onneksi me molemmat plastattiin tästä, koska minulla on hyvin lyhyt
 Puhuja 0: ja metatason
-Puhuja 0: suositus. Joku ihminen... En tiedä, kuka se on, mutta joku ihminen on perustanut Twitteriin tämmöisen tilin uutisraportti
+Puhuja 0: suositus. Joku ihminen... En tiedä kuka se on, mutta joku ihminen on perustanut Twitteriin tämmöisen tilin uutisraportti
 Puhuja 0: A2V,
 Puhuja 0: jossa tämä ihminen ilmeisesti... Nyt ainakin yhden kerran ja ilmeisesti meinaa tehdä sitä enemmän. Hän käy vanhoja uutisraportti-podcastin
 Puhuja 0: jaksoja läpi
@@ -400,14 +399,15 @@ Puhuja 0: Mutta
 Puhuja 0: jos hän jaksaa. Mä toivon, että hän jaksaa, niin siitä tulee hieno
 Puhuja 0: linkki kokoelma Twitteriin.
 Puhuja 0: Eli mene sinäkin seuraamaan semmoista tiliä kuin uutisraportti.
-Puhuja 0: A-2 vie kaikki yhteen. Löytyy myös haulla ja löytyy sitten, jos menet uutisraportin
+Puhuja 0: A-2
+Puhuja 0: vie kaikki yhteen. Löytyy myös haulla ja löytyy sitten, jos menet uutisraportin
 Puhuja 0: viralliselle tilille, löytyy sieltä tämmöisellä varoituksella. Tietenkin hän voi olla joku trolli, joka rupeaa
 Puhuja 0: japanilaista
 Puhuja 0: kakkapornoa sinne postaamaan,
 Puhuja 0: Ja sitten mua ei voi pitää siitä......
 Puhuja 0: Vastuussa.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Marjo Junkkari. Kiitos. Kiitos, Mari Manner. Kiitos. Minun nimeni on Tuomas Peltomäki. Ja ääni ja kuvaaja kaiken muun mahtavan meille tekee tällä viikolla Janne Elkki. Ja
-Puhuja 0: please, lähettäkää meille edelleen palautetta:
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Marjo Junkkari. Kiitos. Kiitos, Mari Manner. Kiitos. Minun nimeni on Tuomas Peltomäki. Ja ääni ja kuvaaja kaiken muun mahtavan meille tekee tällä viikolla Janne Elkki.
+Puhuja 0: Ja please, lähettäkää meille edelleen palautetta:
 Puhuja 0: uutisraportti ja kuullaan taas ensi viikko.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardi,
@@ -415,8 +415,7 @@ Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin
 Puhuja 0: yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
-Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
-Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi suurvaltapolitiikassa.
 Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä podcasti, mä luulin, että mä lähtisin selvittämään, kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui taloudellinen
@@ -424,10 +423,11 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
-Puhuja 0: on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
-Puhuja 0: menetetyt miljardit.
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -26,13 +26,12 @@ Puhuja 0: Tulenarasta
 Puhuja 0: oikeudenkäynnistä,
 Puhuja 0: jossa poliisimiestä syytetään poliisijohtajan kunnian loukkaamisesta
 Puhuja 0: täysin poikkeuksellisessa oikeudenkäynnissä,
-Puhuja 0: johon kuumottavasti ja suut kiinni
-Puhuja 0: napsauttamalla
+Puhuja 0: johon kuumottavasti ja suut kiinni napsauttamalla
 Puhuja 0: liittyvät myös entinen pääministeri Matti Vanhanen ja
 Puhuja 0: presidentti
 Puhuja 0: Saulin Niinistö.
 Puhuja 0: Lisäksi puhumme hallitusneuvotteluista,
-Puhuja 0: jotka käynnistyvät tällä viikolla, kun monien vaiheiden päätteeksi SDP:n puheenjohtaja Antti Rinne päätyy valitsemaan hallitusmuodosta, SDP:n
+Puhuja 0: jotka käynnistyvät tällä viikolla, kun monien vaiheiden päätteeksi SDP:n
 Puhuja 0: puheenjohtaja Antti Rinne päätyy valitsemaan hallitusmuodostukseen
 Puhuja 0: kumppaniikseen vaaleissa
 Puhuja 0: totaalisen tuhkapölyn saaneen keskustan.
@@ -50,8 +49,9 @@ Puhuja 0: pitkien epämukavien hiljaisyyksien
 Puhuja 0: varalle.
 Puhuja 0: Okei,
 Puhuja 0: tällä viikolla Helsingissä alkoi oikeudenkäynti,
-Puhuja 0: jossa vilisee nimiä, jotka ovat hyvin painajia.
-Puhuja 0: Itse oikeudenkäynti on todella monimutkainen ja liittyy
+Puhuja 0: jossa vilisee nimiä, jotka ovat hyvin painojia.
+Puhuja 0: Itse oikeudenkäynti on todella monimutkainen
+Puhuja 0: ja liittyy
 Puhuja 0: tämmöiseen...
 Puhuja 0: Kyse on hyvin pienistä yksityiskohdista,
 Puhuja 0: jotka on monimutkaisten
@@ -92,7 +92,9 @@ Puhuja 0: tutkinta lopetetaan.
 Puhuja 2: Miksi se Matti Vanhasta tapasi?
 Puhuja 0: Sen takia, että tämä tapahtuu silloin sen alkuperäisen
 Puhuja 0: tutkinnon yhteydessä,
-Puhuja 0: koska vanhaen oli silloin vielä pääministeri. Miten se Vanhanen, että
+Puhuja 0: koska vanhaen oli silloin vielä pääministeri. Miten se Vanhanen äitivoimainen maataloustukipaketti?
+Puhuja 0: Siinä ne on.
+Puhuja 1: Niin, eikös siis kepus jotenkin,
 Puhuja 2: ottaa vain kerta kaikkiaan paljon päähän.
 Puhuja 2: Ja ennen kaikkea jotenkin.
 Puhuja 2: Kun näiden avustajien
@@ -104,7 +106,7 @@ Puhuja 0: ja vetää välistä ja näin. Se on ollut aika vahvaa viime aikoina. 
 Puhuja 0: Tota
 Puhuja 0: joo, hei, vielä veikkaukset loppuu. Onko tää se hallituspohja,
 Puhuja 0: mistä Suomen seuraava hallitus muodostuu? Joo.
-Puhuja 0: Kyllä mäkin sanon, että oon. No, enpä skaalalla.
+Puhuja 0: Kyllä mäkin sanon, että oon. No, immo skaalalla.
 Puhuja 0: Tässä kohtaa. Minun BBelle vastaus on se, että ei,
 Puhuja 0: että tämä epäonnistuu, se epäonnistuu sen takia, että
 Puhuja 0: Vihreät yrittää liikaa fleksailla,
@@ -125,9 +127,7 @@ Puhuja 0: Miljoona lajia varsin tuhoutua
 Puhuja 0: useimmat lähivuosikymmeninä.
 Puhuja 0: Kaiken kaikkiaan se tuho ja hävitys, mitä siinä raportissa
 Puhuja 0: luonnehditaan,
-Puhuja 0: niin se vertautuu hyvin paljon tähän
-Puhuja 0: viime vuonna
-Puhuja 0: julkaistun IPCC:n
+Puhuja 0: niin se vertautuu hyvin paljon tähän viime vuonna julkaistun IPCC:n
 Puhuja 0: ilmastonmuutosraporttiin.
 Puhuja 0: Eli
 Puhuja 0: siis
@@ -141,7 +141,8 @@ Puhuja 0: lajien, elimistön monimuotoisuuden
 Puhuja 0: tuhon
 Puhuja 0: ja että maapallolla on
 Puhuja 0: käytännössä menossa tällä hetkellä kuudes sukupuuttoaalto
-Puhuja 0: elimistössä. Sitten
+Puhuja 0: eliöstössä.
+Puhuja 0: Sitten
 Puhuja 0: se johtuu ihmisen toimista ja sitten se on niin paha, että se tulee vaikuttamaan myös ihmisten
 Puhuja 0: pärjäämiseen tällä planeetalla.
 Puhuja 0: Tylyä luettavaa.
@@ -159,17 +160,15 @@ Puhuja 0: Tämä on selkeästi tämmöinen
 Puhuja 0: aihe, jossa olisi ollut nyt tuhannen taalan sauma käydä semmoinen iso kansallinen keskustelu. Toisaalta, kun mittakaava
 Puhuja 1: on niin hirveän suuri, että vaaditaan
 Puhuja 1: järjestelmätason muutoksia, niin sitten ensimmäiseksi tulee olemaan lamaannus, että mitä se tarkoittaa.
-Puhuja 1: Mitä
-Puhuja 1: hallitusneuvotteluissa nyt pitäisi tehdä, jotta maailma ei tuhoutuisi? Ja sitten hän oli
+Puhuja 1: Että mitä hallitusneuvotteluissa nyt pitäisi tehdä, jotta maailma ei tuhoutuisi? Ja sitten hän oli
 Puhuja 1: mutta
 Puhuja 1: tilanne ei kuulemma kuitenkaan ole niin epätoivonen
 Puhuja 1: etteikö kaikenlaisia
 Puhuja 1: toimia voitaisi tehdä, jotta Suomi pysyisi esimerkiksi
 Puhuja 1: Pariisin sitoumuksissa ja niin edelleen. Ja tästä jatkaisinkin miettiä Markolle
 Puhuja 1: kysymyksenä, että miltä hallitustunnustelut
-Puhuja 1: tai
-Puhuja 1: neuvotteluissa vaikuttaa, että onko
-Puhuja 1: tämä
+Puhuja 1: tai neuvotteluissa vaikuttaa,
+Puhuja 1: että onko tämä
 Puhuja 2: Kyllä se tulee näkymään. Onhan se siis... Kyllä se
 Puhuja 2: ainakin enemmän kuin koskaan aikaisemmin hallitusneuvotteluissa.
 Puhuja 2: Tosin en tiedä, onko se
@@ -178,7 +177,7 @@ Puhuja 2: Koska demaritkin pää hallituspuolue on... Koko se niiden vaaliohjelm
 Puhuja 2: ja tämä oli demareilta aika
 Puhuja 2: poikkeuksellisen
 Puhuja 2: ilmasto-biodiversiteetti,
-Puhuja 2: myönteinen vaaliohjelma ja sitten kaikesta puolueista ja vihreällä ja vasemmistoliitolla oli muutenkin
+Puhuja 2: myönteinen vaaliohjelma ja sitten kaikesta puolueista ja vihreällä ja Vasemmistoliitolla oli muutenkin
 Puhuja 2: tässä mielessä valmiutta kovimpia toimiin. Ja kyllä mä uskon, että jossain hallituksessa niin tässä ja sitten on totta kai puitakaan ei halua, että puita hakkataan yhtään väen päin. No kyllä tämä mittakaava näissä kaikissa aina,
 Puhuja 1: palaan tähän ajatukseen, että sitten on semmoinen fiilis, että meidän pitää kaikki muuttaa Anttirinteen
 Puhuja 1: johdolla jonnekin ekohippikommiin
@@ -191,7 +190,7 @@ Puhuja 0: tämmöinen kuin Robert Watson,
 Puhuja 0: niin hän sanoi
 Puhuja 0: tällä tavalla, että yksin valtioiden ja ympäristöjärjestöjen
 Puhuja 0: toimet eivät tällä kertaa riitä.
-Puhuja 0: Huomion siirrettävä yksittäisten lajien ja paikkojen suojelusta järjestelmiin muutoksen taustalla, kuten kulutuksen ja kauppaa.
+Puhuja 0: Huomioon siirrettävä yksittäisten lajien ja paikkojen suojelusta järjestelmiin muutoksen taustalla, kuten kulutuksen ja kauppaa.
 Puhuja 0: Tämä on siis sitaatti, meidän täytyy vedota ympäristöministeriön
 Puhuja 0: lisäksi maatalouden, liikenteen ja energia-alan
 Puhuja 0: johtajiin, sillä he ovat vastuussa monimuotoisuuden
@@ -213,11 +212,11 @@ Puhuja 0: ja hiilinielujen kannalta aika olennainen asia. Nyt tuli niin monta sa
 Puhuja 0: sieltä puhutaan jostain maankäytöstä,
 Puhuja 0: mutta sillä tarkoitetaan siis sitä, että jos rakennetaan sellutehdas,
 Puhuja 0: niin sitten joku metsäpläntti raivataan ja pistetään sellutehtaaseen
-Puhuja 0: sisälle ja siitä tehdään sitä sellua. Niin, ei varmaan ainoastaan sen... Ja hiilinielu tarkoittaa sitä, että maankäyttö ja hiilinielu ovat toistensa vastakohdat, eikö näin?
+Puhuja 0: sisälle ja siitä tehdään sitä sellua. Niin, ei varmaan ainoastaan sen... Ja hiilinielu tarkoittaa sitä, että maankäyttö ja hiilinielu on toistensa vastakohdat, eikö näin?
 Puhuja 0: Joko se puvun
-Puhuja 1: Okei. En ole nyt määrit näitä termejä, koska en ole tämän
-Puhuja 0: alan asiantuntija... Mun pitää ruveta kirjoittamaan näitä ilmastojuttuja, koska olen ainoa, joka pystyy
-Puhuja 0: olemaan käyttämättä tosi kryptisiä termejä, joista kukaan ei tiedä, mitä ne Mutta joka tapauksessa mua esimerkiksi kiinnosti nyt tämä sellutehdashanke,
+Puhuja 1: Okei. En ole nyt määrit näitä termejä, koska en ole
+Puhuja 0: tämän alan asiantuntija... Mun pitää ruveta kirjoittamaan näitä ilmastojuttuja, koska olen ainoa, joka pystyy
+Puhuja 0: olemaan käyttämättä tosi kryptisiä termejä, joista kukaan ei tiedä, mitä ne tarvii. Mutta joka tapauksessa mua esimerkiksi kiinnosti nyt tämä sellutehdashanke,
 Puhuja 1: että tuleeko tää... Sulla on netti, voit tarkistaa. Katson just tuota, miten määritellään
 Puhuja 2: ilmasto tässä. Niin,
 Puhuja 0: okei, vaikka mä just viime podissa vähän lapsellisesti sanoin, että mä vihaan tämmöisiä symbolikysymyksiä, mutta just tässä asiassa tämä on hyvä symbolikysymys.
@@ -241,10 +240,9 @@ Puhuja 0: Mielestäni tämä voisi olla sellainen, missä Antti Rinteen uusi hal
 Puhuja 0: itsensä ja innovoi tehtaan sille, että tästä tuleekin maailman
 Puhuja 0: ympäristöystävällisiin sellutehdas.
 Puhuja 2: Kyllähän se tulee, siis vihreäthän myös jo nielii.
-Puhuja 2: Otetaan
-Puhuja 2: kaikki vaatimuksensa mielestäni julkist.
-Puhuja 2: Alkuun aika ärhäkkäästi sanoi, että ei helvetissä ja sitten Pekka Haavisto
-Puhuja 1: tavallaan tyynnytteli sen jälkeen. Joo, niin en minäkään ajatellut, että ne asettuisivat tätä nyt, taisi poikkiteloja vastaan, mutta näkyykö se jollain tapaa niissä
+Puhuja 2: Otetaan kaikki vaatimuksensa mielestäni julkist. Tai siis. Alkuun aika ärhäkkäästi sanoi, että ei helvetissä ja sitten Pekka Haavisto
+Puhuja 1: tavallaan tyynnytteli sen jälkeen. Joo, niin en minäkään ajatellut, että ne asettuisivat
+Puhuja 1: tätä nyt, taisi poikkiteloja vastaan, mutta näkyykö se jollain tapaa niissä
 Puhuja 1: kustannusarvioissa ja ehdoissa ja niin edelleen.
 Puhuja 1: Enemmänkin mietin.
 Puhuja 2: Sitten
@@ -271,7 +269,7 @@ Puhuja 1: niin onko meillä varaa
 Puhuja 1: vaikka millaiseen perhevapaauudistukseen,
 Puhuja 1: johonkin
 Puhuja 1: luksusmalliin,
-Puhuja 1: mistä kaikki sä oot toiveensa läpi ja rahat riittää. Eli kun vauvajaa, niin vähän? Niin, siis liioittelin, mutta vaikuttaako tämä jotenkin näihin laskelmien kustannusarvioihin, koska tämä on jossain
+Puhuja 1: mistä kaikki sä olet toiveensa läpi ja rahat riittää. Eli kun vauvajaa, niin vähän? Niin, siis liioittelin, mutta vaikuttaako tämä jotenkin näihin laskelmien kustannusarvioihin, koska tämä on jossain
 Puhuja 1: tullut esille
 Puhuja 2: ilmeisesti asetelmisen kannalta. Varmaan se vaikuttaa. Kyllä se laskelmaan kuuluu se, että kuinka paljon niitä vanhempia on. Ja jos vauvoja on vähemmän, niin eikö se suoraeksi, niin jonkinlainen korrelaatio myös vanhempien määrää oletan? Varmaan sen mutkan kautta. Varmaan se vaikuttaa. En tiedä miten
 Puhuja 2: isosti, mutta varmaankin.
@@ -281,7 +279,8 @@ Puhuja 1: Mutta tätä voi pohtia siinä, kun juo-kesämäki
 Puhuja 0: kävi päällä oli.... Luontemassa Kelan
 Puhuja 0: perhevapaauudistusvaali
 Puhuja 0: paneelin ja sitä kautta perehdyin näihin eri malleihin ja muihin, mitä puolueilla ja muilla on. Ei niissä kyllä missään millään tavalla veikattu siihen, että vauvajan määrä on vähenemässä.
-Puhuja 0: Ei se ainakaan mun käsittääkseni vielä. Tai sitten siellä oli
+Puhuja 0: Ei se ainakaan mun käsittääkseni vielä.
+Puhuja 0: Tai sitten siellä oli
 Puhuja 2: Kyllä. Minä voisin... En minäkään muistanut tätä, olen tässä muutaman kerran ollut, mutta minä voisin itse asiassa...
 Puhuja 2: Olen nyt tässä viime kuukausina... Olen
 Puhuja 2: 11-vuotias
@@ -309,8 +308,7 @@ Puhuja 0: ja jokaisen esseen aiheena on joku monimutkainen
 Puhuja 0: ajatus, jonka joku ihminen on keksinyt,
 Puhuja 0: joka on...
 Puhuja 0: Tämä ei ole takakannasta, mutta ne ajatukset on semmoisia, mitä ihminen on keksinyt, joka on osoittautunut
-Puhuja 0: todeksi
-Puhuja 0: tai
+Puhuja 0: todeksi tai
 Puhuja 0: katastrofaalisella
 Puhuja 0: tavalla vääräksi tai jotenkin
 Puhuja 0: todella merkitykselliseksi,
@@ -353,7 +351,7 @@ Puhuja 0: olio, eli siis pallo, ympyrä, koska ne on neliöitä ja kolmioita ja 
 Puhuja 0: Se kuvaa sen, että miten se tulee siihen maailmaan, että se työntyy sen paperinarki läpi.
 Puhuja 0: Se pallo on edelleen kolmiulotteinen,
 Puhuja 0: mutta niille kaksiulotteisille se näyttää, että aluksi, kun se alkaa työntyä siihen maailmaan, niin aluksi tulee pieni ympyrä.
-Puhuja 0: Sitten se laajenee, kun pallo työntyy siivoamalle, koska ne näkee siitä koko ajan vaan leikkauksen. Ne ei voi tietenkään siellä flatlandissa
+Puhuja 0: Sitten se laajenee, kun pallo työntyy siivoamalle, koska ne näkee siitä koko ajan vaan leikkauksen. Ne ei voi tietenkään siellä Flatlandissa
 Puhuja 0: käsittää, että se on kolmiulotteinen, koska ne elää kaksiulotteessa.
 Puhuja 0: Se on todella hyviä seikkaperäisesti kirjoitettu. Se avaa ihan
 Puhuja 0: semmoisia super monimutkaisia

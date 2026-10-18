@@ -9,8 +9,7 @@ Puhuja 0: Eli nauhoitamme tätä Podia keskiviikkona kaksikymmentäkahdeksan.
 Puhuja 0: Toukokuuta.
 Puhuja 0: Tervetuloa
 Puhuja 0: tänne Helsingin Sanomien aivan ihanaan fantastiseen, suorastaan
-Puhuja 0: häikäisevän,
-Puhuja 0: upeaan lasiseen toimitaloon
+Puhuja 0: häikäisevän, upeaan, lasiseen toimitaloon
 Puhuja 0: tänne Töölönlahden
 Puhuja 0: rantamille.
 Puhuja 0: Kanssani täällä seiskakerroksen
@@ -57,10 +56,10 @@ Puhuja 0: Yhdysvalloissa
 Puhuja 0: on
 Puhuja 0: julkaistu
 Puhuja 0: kirja, joka sisältää
-Puhuja 0: aika räjähtäviä väitteitä, Joe Biden, niin viimeisistä
-Puhuja 0: hetkistä Yhdysvaltain
+Puhuja 0: aika
+Puhuja 0: räjähtäviä väitteitä, Joe Biden, niin viimeisistä hetkistä Yhdysvaltain
 Puhuja 0: presidenttinä.
-Puhuja 0: Siihen samaan syssyyn on tullut myös tieto siitä, että hänellä on Mikä tämä diagnoosi olikaan? Eturauhasyöpä.
+Puhuja 0: Siihen samaan syssyyn on tullut myös tieto siitä, että hänellä on, mikäs tämä diagnoosi olikaan? Eturauhasyöpä.
 Puhuja 0: Eturauhasyöpä ja tällainen aggressiivinen sorttiaan.
 Puhuja 0: Kolmanneksi puhumme ylioppilaskirjoituksista.
 Puhuja 0: Tällä viikolla monessa kodissa juhlitaan
@@ -71,7 +70,7 @@ Puhuja 0: äikän kokeessa. Miksi tällaiseen huulutukseen on lähdetty? Sen mei
 Puhuja 0: tänään.
 Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien hiljaisuuksien
 Puhuja 0: varalle.
-Puhuja 0: Anu-Leena, sä palasit juuri Kiovasta takaisin tänne Helsingin Sanomien fantastiseen
+Puhuja 0: Anu-Leena, sä palasit just Kiovasta takaisin tänne Helsingin Sanomien fantastiseen
 Puhuja 0: toimitaloon.
 Puhuja 0: Mitä sä olit siellä tekemässä?
 Puhuja 2: Joo. Mä tulin
@@ -81,7 +80,8 @@ Puhuja 2: Sieltä Ukrainasta
 Puhuja 2: halutaan nyt vähän toisenlaisella
 Puhuja 2: näkökulmalla
 Puhuja 2: juttuja,
-Puhuja 2: kun niistä
+Puhuja 2: kun
+Puhuja 2: niistä
 Puhuja 2: sotajutuista
 Puhuja 2: ja etulinjajutuista
 Puhuja 2: on tehty jo yli kolme vuotta
@@ -118,23 +118,23 @@ Puhuja 2: Sitten meillä olikin yhtäkkiä tosi paljon puhuttavaa.
 Puhuja 0: Se on ihanaa. Niin. Se on tosi ihanaa.
 Puhuja 0: Mullahan on siis
 Puhuja 0: yhdeksäntoista ja kolmetoista täyttävät pojat.
-Puhuja 0: Pitää yrittää löytää semmoisia asetelmia ja tilanteita,
-Puhuja 0: joissa pääsee ikään kuin jonkun tekemisen varjolla
+Puhuja 0: Pitää yrittää löytää semmoisia asetelmia ja tilanteita, joissa
+Puhuja 0: pääsee ikään kuin jonkun tekemisen varjolla
 Puhuja 0: jutustelemaan.
 Puhuja 0: Mä olen vähän
-Puhuja 0: huolissani tästä podcastista. Mä tiedän, mitä Tuomas sanoista sanoi, että mä yhtäkkiä semmoinen äitiputki. Ei sit muista.
+Puhuja 1: huolissani tästä podcastista. Mä tiedän, mitä Tuomas sanoista sanoi, että mä yhtäkkiä semmoinen äitiputki. Ei sit muista.
 Puhuja 0: Tässä on hyvä kohta sanoa, että nyt meille on
-Puhuja 0: pikkulinnut ja vähän isommatkin linnut laulaneet. Tuomas on siis ensi viikolla hän muuttaa ja pelastaa tämän paperin.
-Puhuja 1: Se, miksi tämä juttu kiinnosti minua, on minusta siinä on todella herkullinen asetelma. Että on äiti, joka rakastaa kirjallisuutta ja lukee koko ajan ja kirjoittaa työkseen ja lukee työkseen. Ja sitten on poika, joka on vain TikTokissa, jota ei kiinnosta yhtään.
+Puhuja 0: pikkulinnut ja vähän isommatkin linnut laulaneet. Tuomas on siis ensi viikolla, hän muuttaa ja pelastaa tämän paperin.
+Puhuja 1: Se, miksi tämä juttu kiinnosti minua, minusta siinä on todella herkullinen asetelma. Että on äiti, joka rakastaa kirjallisuutta ja lukee koko ajan ja kirjoittaa työkseen ja lukee työkseen. Ja sitten on poika, joka on vain TikTokissa, jota ei kiinnosta yhtään.
 Puhuja 1: Ja sitten molemmat
 Puhuja 1: kirjoittaa
 Puhuja 1: äikän.
 Puhuja 1: Miten kävi? Ja mitä opit tästä?
-Puhuja 0: Vai pitäisikö vetää sellainen hangeri, että jos te olette lukeneet
-Puhuja 0: juttua? No okei, kerro.
+Puhuja 0: Vai pitäisikö vetää sellainen hangeri, että jos te olette lukeneet juttua?
+Puhuja 0: No okei, kerro.
 Puhuja 2: Tämähän oli ensisijaisesti
 Puhuja 2: valtava pettymys molemmille.
-Puhuja 2: Minä sain Exinijan
+Puhuja 2: Minä sain Exinimian
 Puhuja 2: alustavista tuloksista.
 Puhuja 2: Olin aivan ihan ranteita auki, koska olin ensinnäkin ajatellut, että ostan uuden ylioppilaslakin.
 Puhuja 2: Mun ylioppilaslaki on liian pieni. Se on jotenkin kutistunut vuosien aikana ja sitten mua aina ärsyttää vappuna, kun mulla ei ole. Ajattelin, että mulla olisi vähän tämmöinen uusi
@@ -146,13 +146,10 @@ Puhuja 2: Me yhdessä
 Puhuja 2: oltiin masentuneita yksi ilta ja siitä sitten myös.
 Puhuja 2: Kumpikaan ei voittanut. Kumpikaan ei voittanut.
 Puhuja 0: No mutta Blues, niin sanottu Los-los-tilanne.
-Puhuja 1: Että
-Puhuja 1: mulla
-Puhuja 2: pysyi
-Puhuja 2: mangana.
-Puhuja 2: Ja sitten
-Puhuja 2: sitten parin päivän jälkeen sain tietää, että olinkin saanut laudaturin.
-Puhuja 0: Nyt sä voit mennä sun ihanan pomosi Anssi Miettisen puheille ja sanoa, että sä oot
+Puhuja 2: Että
+Puhuja 2: mulla pysyi mangana.
+Puhuja 2: Ja
+Puhuja 2: sitten
 Puhuja 1: Lukematta.
 Puhuja 1: Lukematta magna
 Puhuja 0: äidinkielestä.
@@ -174,20 +171,21 @@ Puhuja 0: No, mitäs minä selitän, kun olet nähnyt näitä tehtävät.
 Puhuja 0: Eikö ollut silleen, että se oli
 Puhuja 0: Marinin pääministerikauden
 Puhuja 0: loppupuolelta?
-Puhuja 2: Joo. Sama oli henkilökuva
+Puhuja 2: Joo. Ongelma oli henkilökuva
 Puhuja 2: ennen kuin hänestä tuli demareiden puolelle. Joo. Mitä siinä tehtävässä oli? Piti
 Puhuja 2: vertailla niitä kahta.
 Puhuja 2: Nehän oli todella
 Puhuja 2: erilaiset. Toinen oli
 Puhuja 2: aika kriittinen
-Puhuja 0: Holomnin.
+Puhuja 2: Holomnin.
 Puhuja 0: Kyllä. Ja kun jäin miettimään, että olisi kiva nähdä
 Puhuja 0: se teksti, minkä mun poika on kirjoittanut.
 Puhuja 0: Tämä sähköinen maailma on niin ihana, että ne ovat nähtävillä, että voi käydä ihan äitikin
 Puhuja 0: lapsen luvalla
 Puhuja 0: tietysti katsomassa
-Puhuja 0: sieltä sähköisestä palvelusta. Katsoin sen tekstin, josta hän, mistä on ihan valtava ylpeä, hän sai en.
-Puhuja 0: Tämä vertailuteksti, niin minä ajattelin, että niin, tällaisella se tulee. Se oli hyvin
+Puhuja 0: sieltä sähköisestä palvelusta. Katsoin sen tekstin, josta hän, mistä on ihan valtava ylpeä, hän sai en,
+Puhuja 0: niin
+Puhuja 0: minä ajattelin, että niin, tällaisella se tulee. Se oli hyvin
 Puhuja 0: konstailematon
 Puhuja 0: suoraan asiaan ja
 Puhuja 0: yksinkertaisia lauseita ja sellainen
@@ -199,8 +197,7 @@ Puhuja 0: minkä kirjoitit Hesarin tästä koko projektista,
 Puhuja 0: niin
 Puhuja 0: ainakin minulla jää semmoinen fiilis, että onko se aika teknisluontoista
 Puhuja 0: kuitenkin, että on tietyt säännöt, mitkä pitää muistaa ja
-Puhuja 0: laita tämä ja muista motiivi kirjoittaa.
-Puhuja 2: Vai mitä sä ajattelet? Se on siis erittäin, erittäin teknistä. Sehän on muuttunut siitä, kun me kaksi ainakin aina... Me olemme nähneet. Kun kirjoitimme äidinkielen...
+Puhuja 2: laita tämä ja muista motiivi kirjoittaa. Vai mitä sä ajattelet? Se on siis erittäin, erittäin teknistä. Sehän on muuttunut siitä, kun me kaksi ainakin aina... Me olemme nähneet. Kun kirjoitimme äidinkielen...
 Puhuja 1: Mäkin olen vielä kirjoittanut konseptipaperille
 Puhuja 1: ja piirtänyt marginaalit.
 Puhuja 1: Siinä pitää hallita
@@ -214,11 +211,12 @@ Puhuja 1: ja
 Puhuja 1: kaikesta tästä nykyajasta
 Puhuja 0: modernista maailmasta. Ja kuka tahansa voi mennä kirjoittamaan.
 Puhuja 2: Niin, se pesaa.
-Puhuja 2: Kolmekymmentäkahdeksan euroa maksaa. Se on halpa kirjoitus. Se on halpa kirjoitus.
+Puhuja 0: Kolmekymmentäkahdeksan euroa maksaa. Se on halpa kirjoitus. Se on halpa kirjoitus.
 Puhuja 0: Kyllä. Mutta Anu-Elina, minulla on sinulle neuvo.
 Puhuja 0: Menet nyt Prismaan tai johonkin muuhun vastaavaan
 Puhuja 0: vähittäissiliikkeeseen
-Puhuja 0: ja ostat itsellesi ylioppilaslakiin, nimittäin minä
+Puhuja 0: ja
+Puhuja 0: ostat itsellesi ylioppilaslakiin, nimittäin minä
 Puhuja 0: ostin semmoisia. Se oli minusta edullinen hinta, muistaakseni kuusikymmentä euroa. Ostat sopivan
 Puhuja 0: kokoisen, laitat sen lauantaina päähän ja olet iloinen.
 Puhuja 2: En voi
@@ -227,20 +225,20 @@ Puhuja 1: No niin, onnea kaikille ylioppilaille ja myös muille koulunsa päätt
 Puhuja 1: puolesta.
 Puhuja 0: Kyllä,
 Puhuja 0: näin toivotamme.
-Puhuja 0: No niin, sitten kun olet käynyt
-Puhuja 0: äidinkielen kokeessa
+Puhuja 0: No niin, sitten kun olet käynyt äidinkielen
+Puhuja 0: kokeessa
 Puhuja 0: kolmekymmentä vuoden tai vähemmän
 Puhuja 0: tauon jälkeen,
 Puhuja 0: ja olet
 Puhuja 0: sotkenut vahingossa tehtävät ihan keskenään, koska sinulla on alkava
 Puhuja 0: muistisairaus etkä ole enää oikein kartalla asioista.
-Puhuja 0: Tulet sieltä kokeesta ulos pöllämystyneenä
+Puhuja 0: Ja tulet sieltä kokeesta ulos pöllämystyneenä
 Puhuja 0: ja vähän harmissasi. Sitten menet
 Puhuja 0: viereiseen
 Puhuja 0: kahvilaan,
 Puhuja 0: otat sieltä
 Puhuja 0: kupillisen
-Puhuja 0: kahvia, ja sitten konjakin siihen kylkeen.
+Puhuja 0: kahvia ja sitten konjakin siihen kylkeen.
 Puhuja 0: Ja sitten istahdatti ja alat jutustella kahvilan pitäjälle
 Puhuja 0: asioita, niin mistä alat jutella?
 Puhuja 2: Apua vaikeaa.
@@ -255,7 +253,7 @@ Puhuja 2: henkilön nimeltä Ilja Ehrenburg.
 Puhuja 2: Tällä kirjasaarella on mulle tämmöinen tarina. Mä olin aikoinaan pitkään töissä Vihreää lankaa nimisessä julkaisussa.
 Puhuja 2: Siellä oli sellainen mahtava emeritustoimittaja
 Puhuja 2: kuin Lena Björklund.
-Puhuja 2: Ja kun meidän toimitus muutti ja Lena jäi eläkkeelle, niin silloin myös valtavat lundia hyllyt täynnä kaikkea ryönää. Ja sitten siellä oli tämmöinen ihminen kirjasarja,
+Puhuja 2: Kun meidän toimitus muutti ja Lena jäi eläkkeelle, niin silloin myös valtavat lundia hyllyt täynnä kaikkea ryönää. Ja sitten siellä oli tämmöinen ihminen kirjasarja,
 Puhuja 2: jonka
 Puhuja 2: Lena jotenkin tyrkkäsi minulle ennen lähtöä, että otapa tämä.
 Puhuja 2: Tämä on siis ollut mun hyllyssä siitä asti eli kymmeniä vuosia.
@@ -266,9 +264,7 @@ Puhuja 2: uran kirjailijana ja toimittajana.
 Puhuja 2: Ja henkilönä, joka myös oli siis
 Puhuja 2: Neuvostoliiton propagandisti,
 Puhuja 2: eli se teki
-Puhuja 2: aika
-Puhuja 2: ikävää hommaa.
-Puhuja 2: Mutta
+Puhuja 2: aika ikävää hommaa. Mutta
 Puhuja 2: Ne ihmiset, jotka on meidän mielessä meidän näyttää patsailta, ovat aika eläviä
 Puhuja 2: ihmisiä tässä kirjassa. Aika laistadisteja.
 Puhuja 2: Kirjan nimi on ihmisiä, vuosia elämää. Näitä on kolmea, jota hän käy retrospektiivisesti
@@ -277,7 +273,7 @@ Puhuja 0: Vau! Ja tästä pyöritään Kiovassa Pariisissa ja Moskovassa. Upeeta
 Puhuja 1: Mä en tiedä, miten on mahdollista, että
 Puhuja 1: viikonloppuna,
 Puhuja 1: jotka huipentuivat tuonne yhden Kalasataman sillan alle.
-Puhuja 1: Ja siellä pidettiin sellainen keski-ikäbingo
+Puhuja 1: Ja siellä pidettiin sellainen keski-ikä bingo,
 Puhuja 1: jossa
 Puhuja 1: yhdessä osassa mun ystävä
 Puhuja 1: siteerasi tämmöistä
@@ -287,17 +283,16 @@ Puhuja 1: 1800-luvulla elänyt
 Puhuja 1: sosialistista,
 Puhuja 1: joka tunnetaan myös
 Puhuja 1: tapeteissa.
-Puhuja 0: Kyllä, tapetti.
+Puhuja 2: Kyllä, tapetti.
 Puhuja 2: Mä oon ostanut, ne maksaa ihan sikannassa.
 Puhuja 0: Sosialisti tapet maksaa sikannaan. Sä oot varmaan
 Puhuja 2: sataseitsemänkymmentä piruru.
-Puhuja 1: Olin sattumalta samana päivänä käynyt myös Stockmannilla katsomassa uusia lakanoita.
-Puhuja 1: Myös William Moris nimellä myydään
+Puhuja 1: Olin sattumalta samana päivänä käynyt myös Stockmannilla katsomassa uusia lakanoita. Myös William Moris nimellä myydään
 Puhuja 1: myös Stockmannilla liinavaatteita,
 Puhuja 1: jotka eivät myöskään olleet edullisia. Mutta joka tapauksessa hän oli... Hän
 Puhuja 1: oli myös
-Puhuja 1: 1800-luvulla elänyt sosialist
-Puhuja 1: ja
+Puhuja 1: 1800-luvulla elänyt sosialist.
+Puhuja 1: Ja
 Puhuja 1: käsityöläisyyden
 Puhuja 1: arvostuksen
 Puhuja 1: isä tyyppinen hahmo.
@@ -312,8 +307,8 @@ Puhuja 1: tietotyöläisen
 Puhuja 1: arkeen, vähän mihin viittasin tuossa ihan aluksi.
 Puhuja 1: Ja siihen tavallaan,
 Puhuja 1: että mikä on
-Puhuja 1: tarpeellista
-Puhuja 1: työtä, mikä on jotenkin hyvää työtä.
+Puhuja 1: tarpeellista työtä,
+Puhuja 1: mikä on jotenkin hyvää työtä.
 Puhuja 1: Onko kaikki työ tarpeen vai mikä tekee työstä
 Puhuja 1: hyvää
 Puhuja 1: ja oikeasti
@@ -323,8 +318,8 @@ Puhuja 1: koulun kesälomien kynnyksellä
 Puhuja 1: käsittelee lepoa.
 Puhuja 1: Ja tavallaan se ajatus on, että jos työssä
 Puhuja 1: saakin nautintoa,
-Puhuja 1: niin siihen aina kuuluu myös jotain kipua ja tuskaa, ja siihen työhön aina sisältyy se
-Puhuja 1: odotus levosta. Että nyt teen työtä,
+Puhuja 1: niin siihen aina kuuluu myös jotain kipua ja tuskaa, ja siihen työhön aina sisältyy se odotus levosta.
+Puhuja 1: Että nyt teen työtä,
 Puhuja 1: ja sitten saa levätä. Ja tämän erottaminenhan
 Puhuja 1: on koko ajan tullut
 Puhuja 1: vaikeammaksi,
@@ -348,11 +343,12 @@ Puhuja 1: Kun se levon hetki koittaa,
 Puhuja 1: niin sen pitää olla riittävän pitkä. Me voidaan nauttia siitä.
 Puhuja 1: Sen pitää olla pidempi kuin
 Puhuja 1: vain se, mikä on minimaalisesti jotenkin tarpeellista, jotta me saadaan meidän
+Puhuja 1: että
 Puhuja 0: Eläimen lepoa. Niin. Voinko sinua käyttää kotona, että sori, minulla on nyt tämä eläimen lepo? Joka tapauksessa William
-Puhuja 1: YouthWhere
-Puhuja 1: versus Just Wast Toy. Sitten voi mennä ostamaan ne verhot tai tapetit sen jälkeen.
-Puhuja 1: Mutta ainakin minun
-Puhuja 0: sieluni puhuttelin. Onko tuo nyt suosittua tässä ajassa
+Puhuja 1: Willful
+Puhuja 1: Work versus Just Wast Toy. Sitten voi mennä ostamaan ne verhot tai tapetit sen jälkeen.
+Puhuja 1: Mutta ainakin minun sieloini
+Puhuja 0: puhutteli. Onko tuo nyt suosittua tässä ajassa
 Puhuja 0: tuollainen
 Puhuja 0: puhe, kun koko ajan sanoo, että tästä tehdään enemmän töitä? Kestävyysvaje.
 Puhuja 1: Samaan aikaan minua ärsyttää suuresti sellainen puhe. Inhoan siitä puhetta jaksamisesta,
@@ -374,8 +370,7 @@ Puhuja 0: Meillä ihan edelleen tekee näitä maailmanosaston
 Puhuja 0: juttuja ja kävi muun muassa
 Puhuja 0: siellä Israelissa
 Puhuja 0: vasta.
-Puhuja 0: Hän on kirjoittanut
-Puhuja 0: ikään kuin jotain aivan muuta. Hän on kirjoittanut kirjan, jonka nimi on Likainen Somesota.
+Puhuja 0: Hän on kirjoittanut ikään kuin jotain aivan muuta. Hän on kirjoittanut kirjan, jonka nimi on Likainen Somesota.
 Puhuja 0: Tässä on alaviite
 Puhuja 0: tai miksi tässä on alateksti, tässä otsikossa:
 Puhuja 0: kertomus Riikka Purran rasismikohun ympärillä käydystä somesodasta,
@@ -420,7 +415,7 @@ Puhuja 0: ainakin nyt yhden
 Puhuja 0: puolueen rakentamisessa
 Puhuja 0: hyödyksi. Ja tietysti niitä samoja konsteja on käytetty muuallakin, eikä pelkästään yhdessä puolueessa.
 Puhuja 0: Suositukseni
-Puhuja 0: on Pekka Mykkänen, likainen somessa herättää paljon ajatuksia.
+Puhuja 0: on Pekka Mykkänen. Likainen somessa herättää paljon ajatuksia.
 Puhuja 0: Siinä kaikki tältä erää! Kiitos Anu-Elina!
 Puhuja 0: Kiitos! Ja hyviä ylioppilasjuhlia! Kiitos
 Puhuja 0: Anna-Sofia Berner, ystävien kesken sohvi! Minun nimeni on Salla Vuorikoski
@@ -433,7 +428,7 @@ Puhuja 0: No, käydä nämä. A-E.
 Puhuja 0: Ai niin,
 Puhuja 0: onhan se sinun lempinimi.
 Puhuja 0: Totta, A-E. Kyllä. Mä otan tämän uusiksi.
-Puhuja 0: Voidaan leikata. No niin. Okei, siinä on tältä
+Puhuja 2: Voidaan leikata. No niin. Okei, siinä on tältä
 Puhuja 0: erää. Kiitos
 Puhuja 0: Anu-Elina
 Puhuja 0: ystävien kesken AE.

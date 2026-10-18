@@ -31,7 +31,7 @@ Puhuja 1: Mä pahan sen
 Puhuja 1: pois.
 Puhuja 0: Paikalla on myös rakettimaisen
 Puhuja 0: nousun journalistin
-Puhuja 0: uralla tehnyt. Nykyään ilmeisesti
+Puhuja 0: uralla tehnyt. Nykyään ilmeisesti...
 Puhuja 0: Oletko koko Helsingin Sanomien
 Puhuja 0: politiikan toimittajien
 Puhuja 0: ykkönen? Anni Keski-Heikkilä? Hei Anni! Moi.
@@ -39,9 +39,8 @@ Puhuja 0: Mitä
 Puhuja 0: sulle kuuluu?
 Puhuja 2: Hyvää
 Puhuja 2: kiireistä. Mä oon tullut just naputtamassa semmoista hetki hetkeltä seurantaa, missä vaan aivottomasti
-Puhuja 2: kirjoitetaan ylös, mitä me pesteri
-Puhuja 2: sanoo.
-Puhuja 2: Sitten
+Puhuja 2: kirjoitetaan ylös, mitä me pesteri sanoo
+Puhuja 2: ja sitten
 Puhuja 0: se julkaistaan Helsingin Sanomissa. Mitä mä oon tämän viikon uutisia. Tämä viikko on ollut kyllä kovimpia
 Puhuja 0: uutisviikkoja,
 Puhuja 0: en tiedä, vuosiin.
@@ -55,7 +54,7 @@ Puhuja 0: Puhelimet soi hohkaa punaisena. Affitsi, se on sitä toimittajan työt
 Puhuja 0: Niin, munkin mielestä jossain vaiheessa sitten, kun löytyy
 Puhuja 0: selkärankaa ja rivakuutta.
 Puhuja 0: Eikä tämmöistä vötkiskelyä.
-Puhuja 2: Nythän kirjoitit Glumnin, joka oli mainio
+Puhuja 2: Nythän kirjoitit School, joka oli mainio
 Puhuja 2: laajennus
 Puhuja 2: viime viikon
 Puhuja 2: rapsasta. Niin, oli podcast-iässä. Se oli oikein ihan. Kiitos
@@ -63,15 +62,14 @@ Puhuja 0: kovasti. Viime kun podcastissa keskustellaan
 Puhuja 0: Itämeren pohjassa makaavasta teräskäärmeestä,
 Puhuja 0: joka sihisee, puhisee ja puhuu neljännestä
 Puhuja 0: sieraimesta.
-Puhuja 0: Eli tietenkin Nord Stream
-Puhuja 0: kaasuputkeen
+Puhuja 0: Eli tietenkin
+Puhuja 0: Nordstream kaasuputkeen
 Puhuja 0: kohdistuneista
 Puhuja 0: iskuista.
 Puhuja 0: Mitä pitäisi ajatella siitä, että Eurooppa on vain oikeastaan semanttisesti
 Puhuja 0: enää
 Puhuja 0: säästynyt sotatoimilta?
-Puhuja 0: Entä mitä meidän pitäisi ajatella nyt siitä meidän
-Puhuja 0: suomalaisten, että
+Puhuja 0: Entä mitä meidän pitäisi ajatella nyt siitä meidän suomalaisten, että
 Puhuja 0: miten meillä on aiemmin suhtauduttu tähän putkeen historiassa?
 Puhuja 0: Viisaat ja maltilliset äänet täällä analysoivat
 Puhuja 0: asiaa.
@@ -101,7 +99,7 @@ Puhuja 0: keskustelunaiheita pitkien epämukavien
 Puhuja 0: hiljaisyyksien varalle.
 Puhuja 0: Okei,
 Puhuja 0: kaksi kaasuputkea vuotaa maakaasua Itämereen ja Suomen tärkeimmän sotilaallisen kumppanin eli Ruotsin ja Nato-maa Tanskan talousvesialueilla.
-Puhuja 2: Putkien rikkoutuminen on Niin en mä tiedä. Tai jotain tällaisia Tai työnäytteitä tai tällaisia
+Puhuja 2: Putkien rikkoutuminen on... Niin en mä tiedä. Tai jotain tällaisia... Tai työnäytteitä tai tällaisia
 Puhuja 2: opiskelunäytteitä. No joo.
 Puhuja 0: Tämä on vähän tämmöinen,
 Puhuja 0: tiedättekö maanviljelijän
@@ -120,14 +118,13 @@ Puhuja 1: joku kansallinen
 Puhuja 1: testi. Onko se
 Puhuja 1: sitten pääsykokeet vai ylioppilas
 Puhuja 1: ylioppilaskirjoitukset? Se on vain
-Puhuja 1: valinta. Pääsykokeoiden
-Puhuja 1: merkityshän ei ole muuttunut. Nyt yliopistoon pääsee yhä enemmän suoraan. Niin, graafalasuuseen
+Puhuja 1: valinta. Pääsykokeoiden merkityshän ei ole muuttunut. Nyt yliopistoon pääsee yhä enemmän suoraan. Niin, graafalasuuseen
 Puhuja 2: aikana nimenomaan haluttiin muuttaa sitä sillä tavalla, ettei tarvitsisi
 Puhuja 2: Puhuin tästä kollegan kanssa äsken, niin
 Puhuja 2: hän sanoi kyllä, että eiväthän ne olisivat lukiossa opiskelleet yhtään mitään, jos ei olisi ollut kirjoituksia.
 Puhuja 2: Se alkoi vasta joskus toka vuonna tehdä mitään ylipäätään, koska oli pakko lukea kirjoituksiin.
 Puhuja 2: Että ONNI se nyt sinänsä sekin pointti.
-Puhuja 2: Jos lukioilla ei ole mitään väliä, tai sillä, mitä opiskelee,
+Puhuja 2: Jos lukiolla ei ole mitään väliä, tai sillä, mitä opiskelee,
 Puhuja 2: tekeekö kukaan siellä mitään.
 Puhuja 0: Niin, enpä tiedä. Tässä on läsnä se ajatus
 Puhuja 0: jälleen kerran semmoinen, mikä
@@ -144,7 +141,8 @@ Puhuja 0: Et ole ollut mitään, ellet jatka lukiosta johonkin. Ehkä se on väh
 Puhuja 0: haihattelua.
 Puhuja 0: Mutta mielestäni se on hyvä tiedostaa, ettei sen tarvitse olla näin. Ei tarvitse olla niin, että menet kouluun vain sen takia, että siellä on joku maali, jotta pääset
 Puhuja 0: opiskelemaan, jotta pääset töihin ja sitten kuolet tehtyä työtä kuusikymmentä vuotta. Jee.
-Puhuja 0: Vaan että koululla on myös muita merkityksiä, joista
+Puhuja 0: Vaan että koululla on myös muita
+Puhuja 0: joista
 Puhuja 0: tärkeimpiä on kasvaa, sosiaalistua, saada luokkakavereita, kohdata
 Puhuja 0: opettajia, oppia heiltä jotain, nähdä, miten aikuiset on töissään.
 Puhuja 0: Pikkuhiljaa
@@ -220,7 +218,7 @@ Puhuja 2: lukiolaisten, ketkä siellä nyt on tällä hetkellä, koska ihmiset l
 Puhuja 0: Mun lempifilosofi
 Puhuja 0: Jordan Piirissan.
 Puhuja 0: Todellakaan.
-Puhuja 0: Mutta kävin silloin Joskus hän oli Suomessa Hän on muuten tullut Suomeen uudelleen.
+Puhuja 0: Mutta kävin silloin... Joskus hän oli Suomessa... Hän on muuten tullut Suomeen uudelleen.
 Puhuja 0: Hän kävi joskus Suomessa joskus kaksituhatta
 Puhuja 0: seitsemäntoista.
 Puhuja 0: Olin silloin katsomassa hänen hommansa.
@@ -288,14 +286,15 @@ Puhuja 0: että ette osaa vastata kysymyksistä ensimmäiseenkään ja rupeatte 
 Puhuja 1: kavereille vieressä. Toi on mut hyvän johdantamusta. Muistan lukeneeni lehdestä
 Puhuja 1: just vastikään jutun, miten valtavasti
 Puhuja 1: apit ottaa nykyään eväitä sinne. Helsingin Sanomista
-Puhuja 0: voi lukea tämmöisen jutun. Joku oli, mitä viiden päivän ruuat
+Puhuja 2: voi lukea tämmöisen jutun. Joku oli,
+Puhuja 0: mitä viiden päivän ruuat
 Puhuja 0: vienyt
 Puhuja 0: sinne.
 Puhuja 0: Millä jutuilla heräkeyttä
 Puhuja 0: kanssa kirjoittajia?
 Puhuja 1: Mä
 Puhuja 1: luin just loppuun, me aina ollaan puhuttu niin sata kertaa täällä, mutta tämä suuri toimittajasankarii
-Puhuja 1: Patri Crade Kee. Ja myös minun mies.
+Puhuja 1: Patri Crade Kee. Myös minunmies.
 Puhuja 1: Hän
 Puhuja 1: ilmestyi kesällä siis uusi kirja. Tämmöinen
 Puhuja 1: Roggues
@@ -345,24 +344,26 @@ Puhuja 2: päälle uudestaan
 Puhuja 2: niin, että Feng Shui virtaa siellä hyvin. Se
 Puhuja 0: on jotenkin ihanaa. Mahtavaa, koska mä tarvitsen just tota. Mä just oon. Mä katsoin, että kun talo rupeaa olemaan valmis
 Puhuja 0: ja näin.
-Puhuja 0: Nyt mä laitan
+Puhuja 0: Nyt mä laitan...
 Puhuja 0: Tai okei, nyt vähän liian myöhään, mutta nyt rupeaa miettimään, mitä sinne laitetaan sisälle. Koska silloin, kun muutin
 Puhuja 0: edellisestä talosta pois, annoin kaikki sohvat pois.
 Puhuja 0: Jotkut maahanmuuttajat tuli hakemaan sieltä.
 Puhuja 0: Mulla
 Puhuja 0: on ihan melkein kokonaan paljasta, että
-Puhuja 2: joudun ja saan laittaa kaiken uusiksi. Saat laittaa. Tämä kertoo, miten päin sun sängyn kannattaa olla.
+Puhuja 0: joudun ja saan laittaa kaiken uusiksi. Saat laittaa. Tämä kertoo,
+Puhuja 2: miten päin sun sängyn kannattaa olla.
 Puhuja 2: Sulla on turvallinen olo mennä nukkumaan, kun sänky on oikein päin.
-Puhuja 2: Kannattaako sohvaa olla seinää vasten vai missä kulmassa. Siinä on oikeita semmoisia, vaikkei fengsua
-Puhuja 2: Dear Modern, Dear Modern,
+Puhuja 2: Kannattaako sohvaa olla seinää vasten vai missä kulmassa. Siinä on oikeita semmoisia, vaikkei fengsööiä folio
+Puhuja 2: Dear
+Puhuja 2: Modern, Dear Modern,
 Puhuja 2: sen äijän nimi on Clifftan.
 Puhuja 0: Mahtavaa. Mä katson kaiken sen takakatalogin
 Puhuja 2: läpi. Löytyy myös Instagramgranssista
 Puhuja 0: boomereille.
-Puhuja 0: Haluan lyhyesti Mulla ei ole mitään teosta annettavana, mutta haluaisin kiittää
+Puhuja 0: Haluan lyhyesti... Mulla ei ole mitään teosta annettavana, mutta haluaisin kiittää
 Puhuja 0: pedap piste nettiä
 Puhuja 0: ja suomalaisia oppikirjakustantajia
-Puhuja 0: aivan omituisesta
+Puhuja 2: aivan omituisesta
 Puhuja 0: valtavasta ilon aiheesta, mikä mun elämään on tullut.
 Puhuja 0: Se on yläastetason
 Puhuja 0: kemia.
@@ -400,10 +401,11 @@ Puhuja 0: energiatasolta toiselle ja sitten tulee plus ja miinus ja sitten ne me
 Puhuja 0: Kun me on yhdessä saatu viettää nämä hetki, että me molemmat tajutaan se ioniyhdiste,
 Puhuja 0: siis minä tajuan 14-vuotiaan
 Puhuja 0: asioita ja hän tajuaa omia
-Puhuja 0: Se on antanut mulle jotain niin
+Puhuja 0: asioitaan. Se on antanut mulle jotain niin
 Puhuja 0: syvällistä ja puhdasta
 Puhuja 0: nautintoa ja iloa elämään. Suosittelen
-Puhuja 0: kuuntelijoista vanhemmille. Jos teillä on yläkouluikäinen
+Puhuja 0: kuuntelijoista
+Puhuja 0: vanhemmille. Jos teillä on yläkouluikäinen
 Puhuja 0: nuori,
 Puhuja 0: niin tehkää hänen kanssa
 Puhuja 0: sitä kokeisiinlukua.
@@ -436,7 +438,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

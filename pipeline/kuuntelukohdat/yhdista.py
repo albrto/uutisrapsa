@@ -26,8 +26,17 @@ def main():
 
     data = {j["id"]: j for j in tj.lue_json(tj.SUOSITUKSET, [])}
     tulokset = {}
-    for f in sorted(glob.glob(os.path.join(TAMA_KANSIO, "tulokset", "*.json"))):
-        tulokset.update(json.load(open(f, encoding="utf-8")))
+    # Uusinnat (leveämpi ikkuna) viimeisinä, jotta ne korvaavat ensimmäisen kierroksen kohdat
+    tiedostot = sorted(glob.glob(os.path.join(TAMA_KANSIO, "tulokset", "*.json")),
+                       key=lambda f: (os.path.basename(f).startswith("uusinta"), f))
+    for f in tiedostot:
+        for jid, kohdat in json.load(open(f, encoding="utf-8")).items():
+            # Uusinnan null ei pyyhi aiempaa kohtaa: jos alku jäi litteroinnin ulkopuolelle,
+            # ensimmäisen kierroksen "aikaisin näkyvä rivi" on silti paras saatavilla oleva
+            vanhat = tulokset.setdefault(jid, {})
+            for r_idx, rivi in kohdat.items():
+                if rivi is not None or r_idx not in vanhat:
+                    vanhat[r_idx] = rivi
     osoitteet = audio_osoitteet()
 
     kuuntelu = kk.lue_kuuntelu()

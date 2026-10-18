@@ -70,8 +70,8 @@ Puhuja 0: Helsingin Sanomien politiikan toimittajia useita kappaleita, muun muas
 Puhuja 0: Joten kuullaan tähän alkuun tiivistelmät siitä,
 Puhuja 0: että näinä kiihkeänä, kiihkeänä, vaarallisina pelottavina aikoina, jolloin
 Puhuja 0: karmea turbaanipäinen
-Puhuja 0: Turkkilainen. Haluan muistuttaa kuulijoita, että koska olen kaksi
-Puhuja 0: prosenttisesti turkkilainen, peltomätön kuuluisaa turkkilaista sukua, niin mulla on oikeus heittää niin rasistista läppää täällä kuin huvittaa.
+Puhuja 0: Turkkilainen. Ja aloin muistuttaa kuulijoita, että koska olen kaksi
+Puhuja 0: prosenttisesti turkkilainen, peltomätön kuuluisaa turkkilaista sukua, niin mulla on oikeus heittää niin rasistista läppää täällä kuin huittaa.
 Puhuja 0: Turkkilaisten puristuksessa
 Puhuja 0: Suomi
 Puhuja 0: pelkää Naton eteisessä. Millä tavalla tämä näkyi suomalaisen
@@ -87,8 +87,9 @@ Puhuja 0: Osa siitä polttavasta katseesta, mihin
 Puhuja 0: ihmisten silmät
 Puhuja 0: suuntautuu, suuntautuu Italiaan,
 Puhuja 0: suuntautuu eteläiseen Eurooppaan,
-Puhuja 0: suuntautuu korkoihin, suuntautuu,
-Puhuja 0: talouskuvioihin.
+Puhuja 0: suuntautuu korkoihin,
+Puhuja 0: suuntautuu
+Puhuja 0: osakkeisiin, talouskuvioihin.
 Puhuja 0: Ja se ei näytä mitenkään erityisen hyvältä.
 Puhuja 0: Keskuspankit nostaa korkoja,
 Puhuja 0: jotta inflaatio saadaan kuriin.
@@ -108,27 +109,23 @@ Puhuja 0: Ja lopuksi vielä hyviä keskusteluja aiheita pitkien epämukavien hil
 Puhuja 0: varalle.
 Puhuja 1: Ja niillä karhuilla on ollut tosi hirveitä
 Puhuja 1: siellä ja nytkin se yksi karhu esimerkiksi pääsi karkuun ja sittenhän se ladattiin sen takia.
-Puhuja 1: Ja sitten siellä ilvekset ovat
+Puhuja 1: Ja sitten siellä Ilvekset ovat
 Puhuja 1: harrastaneet
 Puhuja 1: hyödyntää kaikkien
 Puhuja 1: siskojensa ja äitiensä
 Puhuja 1: ilveksyylleitä bodheleita.
 Puhuja 1: Koiran joo, ku ilvekset on ollut bodheita. Ja koirasudet ovat raadelleet niitä ilveksiä
 Puhuja 1: ja siis kaikkein ihan ihmeellistä.
-Puhuja 2: Että
-Puhuja 1: nostetaan siinä sitten Hesarinkin
-Puhuja 1: ison tutkivan jutun. Ja nyt on löytynyt myös
+Puhuja 1: Että
+Puhuja 1: nostetaan siinä sitten Hesarin teki ison tutkivan jutun. Ja nyt on löytynyt myös
 Puhuja 1: tällainen Viljeläänhoitolla
 Puhuja 1: jossain tuolla Vaasan huudeilla jossa on joku mikä Mervi Hirvi vai mikä se oli? Se oli mulle uusi hirvi.
 Puhuja 1: Mutta joku myös ilmeisesti tämmöinen suosik hirvi, niin sielläkin ne on jossain jonkun remonttiromun
 Puhuja 1: keskellä eläneet ne eläimet.
-Puhuja 0: Siinä on tehty ilmeisesti siis tarkastuksia
-Puhuja 0: tähän
+Puhuja 0: Siinä on tehty ilmeisesti siis tarkastuksia tähän
 Puhuja 0: hirvihoitolaan,
 Puhuja 0: joka on siis tämmöinen saari, jossa on tarkoitus hoitaa
-Puhuja 1: nimenomaan eläimiä. Mun mielestä se kysymys on ensinnäkin se, että
-Puhuja 1: onko eettisesti
-Puhuja 1: parempi, että ne orvot karhunpennut
+Puhuja 1: nimenomaan eläimiä. Mun mielestä se kysymys on ensinnäkin se, että onko eettisesti parempi, että ne orvot karhunpennut
 Puhuja 1: niin kuin
 Puhuja 1: sitten luonto hoitaa homman vai että ne rajataan tällaiseen
 Puhuja 1: suloon omaan projektiin,
@@ -139,8 +136,7 @@ Puhuja 1: avuuskaan. Mutta sanon ainakin, että yli viisi vuotta.
 Puhuja 1: Ja sitten sul on nukkua niiden kanssa talvipesässä ja tekee kaikkea ja rajiaa niitä joka vuosi. Joo siinä on minusta jälkimmäinen. Mulla oli kaksi aivan erinomaista
 Puhuja 2: nämä Sarin sunnuntaisia
 Puhuja 2: juttuja.
-Puhuja 2: Jälkimmäisessä
-Puhuja 2: oli...
+Puhuja 2: Jälkimmäisessä oli vielä...
 Puhuja 2: Mikä sen? Jälkimmäinen juttu, jossa kerrottiin
 Puhuja 2: loukkaantuneiden
 Puhuja 2: eläinten hoitolasta. Poliisi
@@ -150,9 +146,10 @@ Puhuja 2: tuovat
 Puhuja 2: haavoittuneita eläimiä, kun ei muutakaan keksi.
 Puhuja 2: Sekin on kuitenkin moraalisesti,
 Puhuja 2: että eikö eläin olisi parempi lopettaa, niin monessa tapauksessa. Jos se on huonossa kunnossa, niin se otetaan huonoihin oloihin kitumaan,
-Puhuja 2: vaikka eettisesti kestävämpää olisi varmaan lopettaa
+Puhuja 2: vaikka
+Puhuja 2: eettisesti kestävämpää olisi varmaan lopettaa
 Puhuja 2: huhti
-Puhuja 1: samantien. Niin.
+Puhuja 2: samantien. Niin.
 Puhuja 1: Ja jos ei ole mahdollisuuttakaan
 Puhuja 1: palauttaa niitä takaisin luontoon,
 Puhuja 1: niin sitten niitä pidetään siellä ja ihmiset käy päällistelemässä,
@@ -167,29 +164,28 @@ Puhuja 0: Henkilökohtaisesti olen sitä mieltä, että eläinten oikeudet on hu
 Puhuja 0: Mutta
 Puhuja 0: ymmärrän silti sen impulssin,
 Puhuja 0: miksi me halutaan ottaa eläimet, miksi me halutaan hoitaa niitä, miksi me halutaan, että ne tekee meidän kanssa
-Puhuja 0: meidän ihmisten juttuja. Miksi me halutaan, että nallet maalaa ja
+Puhuja 0: ihmisten juttuja. Miksi me halutaan, että nallet maalaa ja
 Puhuja 0: juo fantaa.
-Puhuja 0: Mun mielestä siinä impulssissa ei itsessään sinänsä ole mitään pahaa eikä ihminen, joka ajattelee, että se on hyvä asia. Se on hauskaa, että karhu siellä on ja käydään lasten kanssa katsomassa karhuja, niin se on ihan fine. Ei siinä. Se on ihan ok
+Puhuja 0: Mun mielestä siinä impulssissa ei itsessään
+Puhuja 0: ei ole mitään pahaa eikä ihminen, joka ajattelee, että se on hyvä asia. Se on hauskaa, että karhu siellä on ja käydään lasten kanssa katsomassa karhuja, niin se on ihan fine. Ei siinä. Se on ihan ok
 Puhuja 0: Impulssina
 Puhuja 0: ja mieleikoneja ja semmoisena
 Puhuja 0: ajatuksena. Sitten se todellisuus.
-Puhuja 0: Ja siinähän tullaan valvontaan ja siinä tullaan, että jonkun jossain etäämmällä
+Puhuja 0: Ja
+Puhuja 0: siinähän tullaan valvontaan ja siinä tullaan, että jonkun jossain etäämmällä
 Puhuja 0: pitää katsoa koko kuviota ja sitä kautta miettiä lakeja ja muita, että mikä on järkevää teillä ääntä. Niin tai median olisi ehkä jossain vaiheessa... Kyllä, median kysymys kiinnostaa myös. Media, mikä tässä on tosi jännittävää, on se,
 Puhuja 3: että
 Puhuja 3: vaikka on ollut tällaisia tapauksia, vaikka se joku, että siellä oli kuvausryhmä
-Puhuja 3: ja karhu päässä aidan
-Puhuja 3: ali melkein vetämään kengät jalasta niiltä joltain kuvaajilta niin silti kenellä ei tullut missään vaiheessa mieleen? Tää ei ehkä ole fine, että karhu pääsee tai tass olla aitakseen toiselta puolelta
-Puhuja 3: vierailijoita
-Puhuja 3: koskettelemaan.
+Puhuja 3: ja karhu päässä aidan ali
+Puhuja 3: melkein vetämään kengät jalasta niiltä joltain kuvaajilta niin silti kenellä ei tullut missään vaiheessa mieleen? Tää ei ehkä ole fine, että karhu pääsee tai tass olla aitakseen toiselta puolelta
+Puhuja 3: vierailijoita koskettelemaan.
 Puhuja 1: Mustasukkainen
-Puhuja 1: siitä ja tuosta.
-Puhuja 1: Siinähän kaikki koira instatilitkin ovat
+Puhuja 1: siitä ja tuosta ja siinähän kaikki koira instatilitkin ovat
 Puhuja 1: koko tästä jutusta. Mutta sitten ehkä se,
 Puhuja 1: että pitääkö sitä jotenkin vielä levittää. Että jos me ollaan nyt jo tehty tämä lemmikeille, niin pitääkö vielä nyt levittää tätä kaikkiin
 Puhuja 1: mahdollisiin eläimiin tässä planeetalla?
 Puhuja 1: Eikö
-Puhuja 1: voida
-Puhuja 1: jotenkin tyydyttää se halu
+Puhuja 1: voida jotenkin tyydyttää se halu
 Puhuja 1: niillä sun puudeleilla?
 Puhuja 1: Eikä sitten ehkä tarvisi niitä karhuja kiusata ihan hirveästi.
 Puhuja 2: Kiustetaan vaan Tuomaksen puudelle. Ei!
@@ -208,7 +204,8 @@ Puhuja 0: Populaatio ei sinänsä
 Puhuja 0: kasvaisi mitenkään merkittävästi.
 Puhuja 0: Mutta sitten, kun Suomessa metsästäjät syöttää niitä,
 Puhuja 0: eli
-Puhuja 0: niille laitetaan miljoonia kiloja ruokaa tuonne, siis porkkanoita, perunoita ja kauraa ja viljaa, miten nyt syökään tämmöiset valkohäntä peurat, niille laitetaan metikköihin tynnyreitä, jotka on täynnä ruokaa.
+Puhuja 0: niille laitetaan miljoonia kiloja ruokaa tuonne, siis porkkanoita, perunoita ja kauraa ja viljaa, miten nyt syökään tämmöiset valkohäntäpeurat,
+Puhuja 0: niille laitetaan metikköihin tynnyreitä, jotka on täynnä ruokaa.
 Puhuja 0: Jotta ne valkohäntäpeurat
 Puhuja 0: tulee tynnyrille
 Puhuja 0: syömään ruokaa, jotta populaatio kasvaa ja näitä valkohäntäpeuhoja on paljon.
@@ -219,10 +216,8 @@ Puhuja 0: Täysin luonnonvastainen
 Puhuja 0: ja täysin vieras laji. Tuodaan tänne. Se ei selviä täällä. Sitten se syötetään
 Puhuja 0: ja väkisin pidetään täällä hengissä,
 Puhuja 0: jotta se voidaan ampua. Onko ikinä kuullut mitään
-Puhuja 2: pöhkömpää? Eikö se jutussa ollut vielä, että peurat jää siihen sen ruokintapaikalle.
-Puhuja 2: Ne
-Puhuja 2: nukkuukin siellä ruokintapaikalle. Sitten ne suoraan herättyä voi taas uudestaan alkaa syömään. Ja sitten ne yleensä ammutaan nimenomaan sinne ruokintapaikalle.
-Puhuja 3: Mikä tässä on mun mielestä vielä käsittämätöntämpää on se, että sitten samat metsästäjät, jotka ruokkii näitä peuroja ja myöhemmin ampuu niitä, niin ne ei halua, että siellä on näiden peurojen luontaisia vihollisia, esimerkiksi susia. Vaan ne haluaa, että ne sudet ladataan ennen kuin ne sudet ehtii syömään niitä peuroja. Joten susipopulaatio, joka muutenkin Suomessa on heikko, halutaan
+Puhuja 2: pöhkömpää? Eikö se jutussa ollut vielä, että peurat jää siihen sen ruokintapaikalle, että ne nukkuukin siihen ruokintapaikalle. Sitten ne suoraan herättyä voi taas uudestaan alkaa syömään. Ja sitten ne yleensä ammutaan nimenomaan sinne ruokintapaikalle.
+Puhuja 3: Mikä tässä on mun mielestä vielä käsittämätöntämpää on se, että sitten nää samat metsästäjät, jotka ruokkii näitä peuroja ja myöhemmin ampuu niitä, niin ne ei halua, että siellä on näiden peurojen luontaisia vihollisia, esimerkiksi susia. Vaan ne haluaa, että ne sudet ladataan ennen kuin ne sudet ehtii syömään niitä peuroja. Joten susipopulaatio, joka muutenkin Suomessa on heikko, halutaan
 Puhuja 3: ampua, jotta ne ei syö näitä kasvatettuja peuroja Jotka muuten pitää sitä kantaa jotenkin kasassa.
 Puhuja 1: Voiko se sanoa, että sä oot metsästänyt jos sä oot ampunut sen pullean peuran siitä, kun se on seisuja kattonut sua? Sen
 Puhuja 2: tynnyrin vierestä. Mä yritän vähintäänkin sille potkia ja se vähän juoksi.
@@ -243,10 +238,9 @@ Puhuja 0: puumajasta. Ne on ylhäällä siellä puumajassa. Ja sit ne ampuu siel
 Puhuja 1: Niin ja eiks siinä ollut vielä Ipeura, mikä nyt on oikein. Se on yli aiheuttaa enemmän kolareita kuin hirveet ja levittää jotain porreliaoosia, kun niillä on niin paljon punkkeja.
 Puhuja 0: Sitä on aivan sairasta!
 Puhuja 3: Täytyy muistaa, että on toki myös metsästäjiä, jotka metsästävät jotain muuta kuin niitä tynnyripeurua. Kyllä kyllä, kyllä.
-Puhuja 0: Mä yritin kuvata sitä, miten hyvältä se idea tuntuu, että siinä on joku järki siinä on nimenomaan metsästämisessä
+Puhuja 0: Mä yritin kuvata sitä, miten hyvältä se idea tuntuu, että se tuntuu, että siinä on joku järki siinä on nimenomaan metsästämisessä
 Puhuja 0: verrattuna
-Puhuja 0: teollisuustuotantolihaan.
-Puhuja 0: Niin siinä on niin älytön järkeä, että sinne menisi metsään ja haki sen, minkä syö.
+Puhuja 0: teollisuustuotanto lihaan. Niin siinä on niin älytön järkeä, että sinne menisi metsään ja haki sen, minkä syö.
 Puhuja 0: Mutta ei.
 Puhuja 0: Vaan
 Puhuja 0: se pistää päänsä tynnyriin ja bou!
@@ -262,7 +256,8 @@ Puhuja 0: kesävamman
 Puhuja 0: aloittajaskautta
 Puhuja 0: kesätyön aloittajas bisseelle
 Puhuja 0: johonkin tähän Helsingin keskustaan
-Puhuja 0: rentoon tyylibaariin.
+Puhuja 0: rentoon
+Puhuja 0: tyylibaariin.
 Puhuja 0: Siellä
 Puhuja 3: haette ehkä jonkun laadukkaan
 Puhuja 0: ykkössipan
@@ -279,17 +274,16 @@ Puhuja 2: Se on minusta just sanoa,
 Puhuja 2: tulee minusta ihan mieleen, tähtien sodan ekat. Tässäkin juoni on ihan yhtä epäuskottava.
 Puhuja 2: Siinä jotenkin se tavallaan
 Puhuja 2: mennään...
-Puhuja 2: Opivan kenobi menee paikkaan, jossa on tuhat
-Puhuja 2: vaakoisia niitä ukkeleita. Mitä ne ovat ne vihollinen pahikset. Stokkisopiita.
-Puhuja 2: Sitten ne vaan tuhoaa ne.
-Puhuja 2: Totta kai. Ja jotenkin ne on kaikki ne epäloogisuudet ja juonen kökköys, mikä on ekoissakin.
+Puhuja 2: Opivan kenobi menee paikkaan, missä on tuhat
+Puhuja 2: vaakoisia ukkeleita. Mitä ne ovat ne vihollinen pahikset. Stokkisopiita.
+Puhuja 3: Sitten
 Puhuja 2: Tossa on musta kunnioitettu alkuperäistä ideasta,
 Puhuja 2: jossa mä pidän siitä suuresti. Ootko katsonut
 Puhuja 0: Poikastaans ton Mandelorianin?
-Puhuja 0: En. Etkö ajaakaan koskaan? Aa. Se on mun mielestä
+Puhuja 0: En. Etkä ajaakaan koskaan. Aa. Se on mun mielestä
 Puhuja 0: mä yritin kahdesti sitä Mandaloriana
 Puhuja 0: ja jotenkin vaan se ei ikinä lähtenyt. Se ei napannut mukaansa, niin ajattelin, että oisko tää ollut semmoinen, että olisin vielä voinut antaa. Ei, kun toi oli musta. Ja sitten se, että Joinikin on niin yksinkertainen
-Puhuja 0: Inkeri
+Puhuja 0: Inkerin?
 Puhuja 1: Mä suosittelen
 Puhuja 1: tai halaisin, että kaikki katsois uuden Stranger Thingsin, koska se meni niin huonoksi siinä välissä. Nyt se on back. Onko? Onko ykkösoasenin
 Puhuja 0: back?
@@ -299,8 +293,7 @@ Puhuja 1: Nyt ne on ryhtiliikettä ottanut siihen. Se on pelottavampi
 Puhuja 1: ja se on
 Puhuja 0: joo. Mä katoin sen ykkösjakson
 Puhuja 0: ja siinä kuvattiin
-Puhuja 0: sitä DD:n pelaamista. Se oli tosi autenttinen. Se oli niinku mun
-Puhuja 0: lapsuus
+Puhuja 0: sitä DD:n pelaamista. Se oli tosi autenttinen. Se oli niinku mun lapsuus
 Puhuja 0: kaikki ne, miten pelin, miten pelinjohtaja sanoo siellä pöydän päässä.
 Puhuja 0: Kaikki ne ryhmädynamiikat siinä. Se oli just mun elämässä. Se oli melkein dokumentaarinen elokuva.
 Puhuja 3: Joona.
@@ -314,9 +307,11 @@ Puhuja 3: oikein hyvä mielipidekirjoitus.
 Puhuja 3: Mielipidekirjoitus,
 Puhuja 3: jonka otsikko oli...
 Puhuja 3: Otsikko oli
-Puhuja 3: Turkkilainen visiitti.
+Puhuja 3: Turkkilainen
+Puhuja 3: visiitti.
 Puhuja 3: Jos haluaa sellaista poliittista tykittelyä, niin se on sellainen, mistä keskusteltavaa löytyy.
-Puhuja 2: Lippasella on aina ollut, se on ilmiömäinen kyky. Moni ihminen, joka haukkuu jonkun, erehtyy
+Puhuja 2: Lippasella on aina ollut, se on ilmiömäinen kyky. Moni ihminen,
+Puhuja 2: joka haukkuu jonkun, erehtyy
 Puhuja 2: liian monisanaiseksi
 Puhuja 2: ja selittelee.
 Puhuja 2: Mutta Lippo on aina ollut
@@ -343,14 +338,12 @@ Puhuja 0: Se on hyvin pieni. Siitä on vain pari leffaa, jotka on kosmista kauhu
 Puhuja 0: Age feel ofcraft on tämän genre tavallaan se
 Puhuja 0: iskä.
 Puhuja 0: The leffa on
-Puhuja 0: color out of Space, jossa Niclear Scadees on yksi huonompi ajatuksia, mitä on Ina tehty, koska se pääpahis on niin kuin värivioletti.
-Puhuja 0: Se on se
+Puhuja 0: color out of Space, jossa Niclear
 Puhuja 0: violetti väri. Se on jotenkin tosi rikki. Nicole scague on jotenkin niin Nicole scague.
 Puhuja 0: Kannattaa katsoa kuitenkin se. Mutta sitten on hyvin
 Puhuja 0: kuuluisen ja hyvin arvostetun ranskalaisohjaajan
 Puhuja 0: nimeltä Claeldeny,
-Puhuja 0: niin hän on tehnyt elokuvan vuonna kaksituhatta kahdeksantoista kuin High life. Tää on masentavia elokuva, joka on tehty. Älkää katsoko. Mutta mä haluan silti suositella tätä Kosmisen kauhun ystäville. Siinä on tosi upeat näyttelijäntyöt, Robert Pättisen ja Juliet Binosh
-Puhuja 0: ja Mia Gotts oli
+Puhuja 0: niin hän on tehnyt elokuvan vuonna kaksituhatta kahdeksantoista kuin High life. Tää on masentavia elokuva, joka on tehty. Älkää katsoko. Mutta mä haluan silti suositella tätä Kosmisen kauhun ystäville. Siinä on tosi upeat näyttelijäntyöt, Robert Pättisen ja Juliet Binosh ja Mia Gotts oli
 Puhuja 0: jotenkin älyttömän hyvä. Se
 Puhuja 0: jää
 Puhuja 0: päiväkausiksi vaivaamaan. Se elokuvassa kertoo elinkautislangeista,
@@ -394,8 +387,7 @@ Puhuja 0: vannoutuneesti
 Puhuja 0: joka viikko.
 Puhuja 0: Joten
 Puhuja 0: hyppään sinne aidan toiselle puolelle ja odotan
-Puhuja 0: kovasti teidän podcasteja.
-Puhuja 1: No me soitellaan sulle remppa
+Puhuja 1: kovasti teidän podcasteja. No me soitellaan sulle remppa
 Puhuja 1: API-deittejä.
 Puhuja 0: Soitellaan ja soitelkaa.
 Puhuja 0: Ei muuta kuin kiitos kuuntelijoille ja hyvää kesää!
@@ -414,10 +406,11 @@ Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin ku
 Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui
 Puhuja 0: taloudellinen murhamysteeri.
-Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla
+Puhuja 0: Suomesta kohti Kaliforniaa, ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämääkin verkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.

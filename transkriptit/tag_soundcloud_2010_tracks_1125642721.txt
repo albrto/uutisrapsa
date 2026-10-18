@@ -10,7 +10,7 @@ Puhuja 1: Maailma on muuttunut tavalla,
 Puhuja 0: jota tuskin kukaan osasi ennakoida. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
-Puhuja 1: Helsingin
+Puhuja 2: Helsingin
 Puhuja 2: Sanomat
 Puhuja 3: Hei ja tervetuloa uutisraportti podcastiin. Tänään on torstai kuusitoista.
 Puhuja 3: Syyskuuta
@@ -56,10 +56,11 @@ Puhuja 3: kello kaksitoista tänään sovittuna. Ajattelin, että menen sinne om
 Puhuja 3: Bussilla ei kehtaa. Bussiit
 Puhuja 3: ei oikein tule keskustaan meiltä.
 Puhuja 3: Kello oli kaksikymmentäviisi vaille kaksitoista ja menin meidän pihalle. Meillä on alkanut semmoinen
-Puhuja 3: piharemontti, niin meidän autotallin edessä oli kaksi metriä syvä kuoppa.
-Puhuja 3: En saanut autoa olostallista.
-Puhuja 4: No, miten sä ratkaiset?
-Puhuja 4: Mä tulin taksilla Ehkä
+Puhuja 3: piharemontti.
+Puhuja 3: Autotallin edessä oli kaksi metriä syvä kuoppa.
+Puhuja 3: En saanut autoa olostaallista.
+Puhuja 3: No, miten sä ratkaiset?
+Puhuja 3: Mä tulin taksilla Ehkä
 Puhuja 3: se rehvakas taksilla ei ollut piristi
 Puhuja 3: Mennään asiaan, puhutaan
 Puhuja 3: Afganistanista.
@@ -76,23 +77,17 @@ Puhuja 3: oli ja meni, ja kansainvälinen
 Puhuja 3: media
 Puhuja 3: on tottakai sieltä uutisoida edelleen, mutta
 Puhuja 3: volyymi on laskenut merkittävästi.
-Puhuja 3: Emil ja
-Puhuja 3: Maria, mitä siellä nyt tällä hetkellä tapahtuu?
+Puhuja 3: Emil ja Maria, mitä siellä nyt tällä hetkellä tapahtuu?
 Puhuja 2: Sen kun tietäisi. Siellä on siis yhä
 Puhuja 2: myös ulkomaisia toimittajia jonkun verran.
 Puhuja 2: Toisaalta vaikuttaa
 Puhuja 2: siltä, että talebanit
 Puhuja 2: ei ole kiire.
 Puhuja 2: Tietysti
-Puhuja 2: voi olla, että heillä ei olekaan ihan niin
-Puhuja 2: tai
-Puhuja 2: se
-Puhuja 2: hallinto
-Puhuja 2: kunnossa.
+Puhuja 2: voi olla, että heillä ei olekaan ihan niin kunnossa.
 Puhuja 2: He eivät ole kiire siinä mielessä, että
-Puhuja 2: asiaa seurasi, niin arveltiin, että ehkä he odottelevat, että länsimaiden mielenkiinto häipyy, ja sitten he alkavat panemaan
-Puhuja 2: toimeen enemmän
-Puhuja 2: perinteisen kannattajakuntansa
+Puhuja 2: asiaa seurasi, niin arveltiin, että ehkä he odottelevat, että länsimaiden mielenkiinto häipyy, ja sitten he alkavat toteuttamaan panemaan toimeen enemmän perinteisen
+Puhuja 2: kannattajakuntansa
 Puhuja 2: maailmankuvaa.
 Puhuja 2: Toistaiseksi
 Puhuja 2: moni asia on ollut auki, että sanotaan, että naiset voi palava töihin sitten, kun
@@ -136,7 +131,7 @@ Puhuja 2: aika
 Puhuja 2: omituinen. Joskus välillä minua häiritsee
 Puhuja 2: myös sellaiset argumentit, jossa käytetään
 Puhuja 2: vaikka Yhdysvalloista
-Puhuja 2: osavaltioita, joissa on laillistettu kannabis. Ja katsokaa mihin se johti tätä todisteteena, että se ei ole vaikka lisää käyttöä. Minun on vaikea ajatella, että Kalifornian kokemukset voisi ehkä sellaisena
+Puhuja 2: osavaltioita, joissa on laillistettu kannabis. Ja katsokaa mihin se johti tätä todisteteena, että se ei ole vaikka lisää käyttöä. Minun on vaikea ajatella, että Kalifornian kokemukset voisi ehkä sellaisenaan
 Puhuja 2: että
 Puhuja 4: varmaan hillitsee halua käyttää kokeilla. Toki päihdekulttuurikin on varmaan aika sukupolvisdonnaista.
 Puhuja 4: Onhan THL:n
@@ -151,7 +146,7 @@ Puhuja 3: kyllä koloradon nuoriso...
 Puhuja 3: Heidän
 Puhuja 3: huumekulttuurinsa
 Puhuja 3: on aivan erilaista kuin Suomessa.
-Puhuja 1: Siellä high schoolissa vetää kaikki. No vähän liioitellen. Mutta
+Puhuja 2: Siellä high schoolissa vetää kaikki. No vähän liioitellen. Mutta
 Puhuja 3: Siinäkin on ristiriitasi tuloksia, miten se on vaikuttanut. Mutta
 Puhuja 3: se, että koloradossa joku
 Puhuja 3: vaikka nyt vähentää kannabiksen kannabiksen käyttöä, niin se ei tarkoita, että sama tapahtuisi Suomessa, koska kulttuurit on täysin erilaiset.
@@ -177,9 +172,9 @@ Puhuja 4: Keskustellaan niillä argumenteilla eikä niillä, joilla on yksittäi
 Puhuja 4: graatfulldedin keikalla vuonna -seitsemänkymmentäkolme.
 Puhuja 3: Joo.
 Puhuja 3: Jos mäkin sanon, että mukaan ei ole selvää kantaa tähän.
-Puhuja 3: Kunnat toimintaa.
-Puhuja 3: Kaverini sai psykoosin argumenttiin ja pystyy vastaamaan sillä, että psykoosin on
-Puhuja 3: saanut nykyisen
+Puhuja 3: Kunnat toimintaa. Kaverini
+Puhuja 3: sai psykoosin argumenttiin ja pystyy vastaamaan sillä, että psykoosin on saanut
+Puhuja 3: nykyisen
 Puhuja 3: huumausainelainsäädännön
 Puhuja 3: aikana. Nykyinen
 Puhuja 3: malli ei estänyt psykoosia
@@ -191,24 +186,22 @@ Puhuja 3: Vaikka porttiteoriakulma ei pidä paikkaansa, mutta huumeit on aiheutt
 Puhuja 4: Sama häiritsee
 Puhuja 4: suurimpien
 Puhuja 4: kannabiksen laillista
-Puhuja 4: puolustajien argumenteissa, että
-Puhuja 4: ihan kuin kannabis ei olisi myös päihde.
+Puhuja 4: puolustajien argumenteissa,
+Puhuja 4: että
+Puhuja 4: Ihan kuin kannabis ei olisi myös päihde.
 Puhuja 4: Onhan se vaarallista. Ei se hyväksi ole ihmiselle vetää
 Puhuja 4: pajaa.
 Puhuja 2: Kaarlo Simojoella oli minusta kiinnostava pointti STT:n uutisissa, siis tämä päihde
 Puhuja 2: lääketieteen
 Puhuja 2: asiantuntija, siitä, että nykyisin
 Puhuja 2: markkina olevat kanavisuotteet on selkeästi vahvempia kuin mitä aikaisemmin. Eli jos silloin Marko on meidän nuoruudessa.
-Puhuja 2: Niin oli paljon. Mietin,
-Puhuja 2: että
-Puhuja 2: onko
-Puhuja 2: meidän
-Puhuja 2: tutkimustieto
-Puhuja 2: ajantasaista.
+Puhuja 2: Niin oli paljon. Mietin, että hän oli paljon
+Puhuja 2: mieltä.
+Puhuja 2: Onko meidän
+Puhuja 2: tutkimustieto ajantasaista?
 Puhuja 2: Kun
 Puhuja 2: keskustellaan
-Puhuja 2: kannabiksen haitoista
-Puhuja 2: ja
+Puhuja 2: kannabiksen haitoista,
 Puhuja 2: vaikkapa kehittyville aivoille ja kaikille muille, niin
 Puhuja 2: Onko meillä riittävästi tietoa siitä, että aineesta
 Puhuja 2: nykypäivänä
@@ -224,7 +217,7 @@ Puhuja 3: ja tavallaan kukaan ei ehkä...
 Puhuja 3: Suuri yleisö ei ehkä ylläty heidän
 Puhuja 3: liberaalista suhtautumisesta kannabikseen.
 Puhuja 3: Mutta mikä selittää kokoomusnuoria?
-Puhuja 3: Tässä yhteiskunnassa on kaksi tällaista ryhmittymää, jotka haluaa laillistaa kannabiksen. Toinen on kokoomus nuoret ja toinen on vihreät.
+Puhuja 3: Tässä yhteiskunnassa on kaksi tällaista ryhmittymää, jotka haluavat laillistaa kannabiksen. Toinen on kokoomus nuoret ja toinen on vihreät.
 Puhuja 3: Miksi kokoomus nuoret? Joo. Siellä niin kuin Matias Pajula,
 Puhuja 3: Kokoomusnuorten
 Puhuja 3: puheenjohtaja,
@@ -258,7 +251,8 @@ Puhuja 3: Mitä sinä kerroitkaan?
 Puhuja 4: Saramo heitti tosi mielenkiintoisen pointin budjettiriihen
 Puhuja 4: ollessa käynnissä siitä, miten
 Puhuja 4: Helsingin pörssi on 1900isin,
-Puhuja 4: 1900-luvulta katsottuna maailman tuottoisin.
+Puhuja 4: 1900-luvulta
+Puhuja 4: katsottuna maailman tuottoisin.
 Puhuja 4: Siitä
 Puhuja 4: huolimatta suomalaiset yritysjohtajat,
 Puhuja 4: en muista sanoa tarkkaan, että se itkee vai parkuu veroista.
@@ -271,19 +265,21 @@ Puhuja 4: jonka halusin tarkastaa. Tarkastisin Credit Sucen vuosiraporteista.
 Puhuja 4: Se on totta. Helsingin pörssi on maailmantuotto siinä.
 Puhuja 3: Unaritaan ne herrat hetkeksi, koska tähän.
 Puhuja 3: En tiennyt.
-Puhuja 3: Ja mulla on itsekin entisenä taloustoimittajana.
+Puhuja 3: Mulla on itsekin entisenä taloustoimittajana.
 Puhuja 3: Muistan Neuvostoliiton hyökkäyksen Afganistanin ja olen tehnyt taloustoimittaja.
 Puhuja 3: Uskohan on aina ollut se, että
 Puhuja 3: varsinkin jos tulee pörssiromahdusta
 Puhuja 3: jonkinlainen pörssien alamäki,
 Puhuja 3: niin ensimmäisenä isot globaalit sijoittajat vetävät reuna-alueiden
 Puhuja 3: sijoituksista rahat pois. Yleensä reuna-alueiden
-Puhuja 3: pikkupörssit, mitä omaks Helsinkikin
+Puhuja 3: pikkupörssit, mitä omaksk Helsinikin
 Puhuja 3: on, niin sen olettaisi, että se
 Puhuja 3: olisi paljon herkempiä
 Puhuja 4: laskemaan kuin muut. Mikä tätä selittää? Mitä ne on mahdollista? Sehän on monta selitystä. Yksi on tietenkin se, että Suomi teollistui tosi myöhään. Prosentuinen kasvu on ollut aikamoista
 Puhuja 4: jossain vaiheessa
-Puhuja 3: Nokia. Joku vesi Helsingin pörssin ajan alusta lähtien.
+Puhuja 4: Nokia.
+Puhuja 3: Joku vesi Helsingin pörssin
+Puhuja 3: ajan alusta lähtien.
 Puhuja 3: Eikös se ole, mutta osaatko, Emil, eikö se ole myös niin, että Helsingin pörssi taitaa
 Puhuja 3: olla unille ainoat pörssi maailmassa, joka
 Puhuja 3: ei ole tehnyt nyt uusia ennätyksiä?
@@ -294,8 +290,8 @@ Puhuja 4: Mutta
 Puhuja 4: musta tuntuu, että
 Puhuja 4: oma ikäluokka ja ehkä muutkin ikäluokat alkavat unohtaa, että miten valtava Nokia oli.
 Puhuja 4: Sen markkina-arvo oli huipussaan,
-Puhuja 4: se
-Puhuja 4: kaksisataakaksikymmentä vai kaksisataaneljäkymmentä miljardia euroa vuonna kaksituhatta, kun nykypäivänä Helsingin pörssin arvokkain yhtiö on 45-neljäkymmentäneljä
+Puhuja 4: se kaksisataakaksikymmentä vai kaksisataaneljäkymmentä miljardia euroa vuonna kaksituhatta,
+Puhuja 4: kun nykypäivänä Helsingin pörssin arvokkain yhtiö on 45-neljäkymmentäneljä
 Puhuja 4: miljardia Nordea. Kyllä.
 Puhuja 4: Nokia on ollut niin älytön monsteri
 Puhuja 4: Helsingin pörssissä, että sehän yksinään heilauttanut kaikkia tunnuslukuja ja vaikuttaa historian lukuihin. Plus Suomella on tietenkin devalvaatiohistoria,
@@ -306,7 +302,8 @@ Puhuja 3: Suomen talouspohjasi
 Puhuja 3: tähän.
 Puhuja 3: Kyllä.
 Puhuja 3: Sanoos nyt vielä, kun...
-Puhuja 3: Nyt kurssit on noussut
+Puhuja 3: Nyt
+Puhuja 3: kurssit on noussut
 Puhuja 3: tämmöinen historiallisen pitkä
 Puhuja 3: kurssinousu, ja sanotaan nyt tarkennuksena
 Puhuja 3: pörssikurssit
@@ -363,7 +360,8 @@ Puhuja 3: heille muokkaat?
 Puhuja 2: Vuhkaa on edelleen vähän Afganistanista,
 Puhuja 2: Mutta otisitte lukenut New Yorkerista
 Puhuja 2: Anard Cobalin juttua Afganistanin
-Puhuja 2: naisen etenkin Kabulin ulkopuolella. Hän on tehnyt pitkän jutun,
+Puhuja 2: naisen
+Puhuja 2: etenkin Kabulin ulkopuolella. Hän on tehnyt pitkän jutun,
 Puhuja 2: johon haastatteli
 Puhuja 2: jäsenvaltiikkaasu Talebanin hallitsemilla alueella. Se kertoo heidän elämästään. Etenkin Samira, joka kertoi elämästään
 Puhuja 2: jo edellisen Talebanin edellisellä valtakaudella ja sitä ennen. Ja myös siitä, että miten vähän
@@ -392,8 +390,8 @@ Puhuja 4: Se on ollut ihan sairaan kivaa tälleen, kun on istunut melkein vuoden
 Puhuja 4: Sitten on lähtenyt lenkkipolulle.
 Puhuja 4: Se on ollut
 Puhuja 4: kehon kannalta tosi miellyttävä kokemus, kun ei koko ajan satu. Sitten
-Puhuja 4: aloitin viime viikolla sillä, että kuuntelen Cind of Bloom, siis Milesin, kohtuullisen
-Puhuja 4: legendaarisen levyn juostessa. Se ei yhtään juoksu musaa, mutta se sopii
+Puhuja 4: aloitin viime viikolla sillä, että kuuntelen Cind of Blooon, siis Milesin
+Puhuja 4: kohtuullisen legendaarisen levyn juostessa. Se ei yhtään juoksu musaa, mutta se sopii
 Puhuja 4: syksyiseen
 Puhuja 4: Helsinkiin tosi hyvin, vaikka
 Puhuja 4: juoksee näennäisesti
@@ -414,7 +412,8 @@ Puhuja 3: juridi-lakimiesdekkareihin
 Puhuja 3: eli
 Puhuja 3: oikeussaleissa
 Puhuja 3: tapahtuviin
-Puhuja 3: dekkareihin, joissa on lakihenkilöitä pääosassa.
+Puhuja 3: dekkareihin, joissa on
+Puhuja 3: lakihenkilöitä pääosassa.
 Puhuja 3: Viime
 Puhuja 3: viikolla sanon, että olen lukenut kaikki Scott Turo'n kirjat. Löysin vielä yhden, mitä en ollut lukenut, ja nyt luen sitä. Se on nyt sitten viimeinen. Sitä on kaikki Scott Thorå luettu.
 Puhuja 3: Sain yhden vinkin joku, suosittelen Michael Konellin kirjoja.
@@ -440,9 +439,8 @@ Puhuja 0: taloudellinen murhamysteeri.
 Puhuja 0: Tarinan hahmoina on kunnianhimoisia bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
 Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
-Puhuja 0: On Greetta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivisti.
+Puhuja 0: On Greetto Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivisti.
 Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkin verkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis sijaa, kuuntele viisiosainen
-Puhuja 0: menetetyt
-Puhuja 0: miljardit.
+Puhuja 0: menetetyt miljardit.

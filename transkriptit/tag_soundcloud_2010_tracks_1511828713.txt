@@ -24,7 +24,7 @@ Puhuja 0: pitkästä aikaa.
 Puhuja 0: Helsingin Sanomissa
 Puhuja 0: sä teet
 Puhuja 0: politiikkaa niin kuin toimitat.
-Puhuja 1: Marko Junkkari, hei, Marko. Mä oon ollut kaksi viikkoa siis poissa. Ooks se pitkä aikaa? Se tuntuu tosi pitkältä ajalta. Mutta tosi siistiä olla taas toi.
+Puhuja 1: Marko Junkkari, hei, Marko. Mä oon ollut kaksi viikkoa siis poissa. Ooks se pitkä aika? Se tuntuu tosi pitkältä ajalta. Mutta tosi siistiä olla taas toi.
 Puhuja 0: Mä oon näiden
 Puhuja 0: mun mielestä ehkä seitsemän vuoden aikana
 Puhuja 0: ehdollistunut siihen, että vähintään kerran viikossa viettää sun kanssa tunnin.
@@ -41,7 +41,7 @@ Puhuja 0: Anni Keski-Heikkilä
 Puhuja 0: politiikan ja talouden toimituksesta.
 Puhuja 0: Ystärin
 Puhuja 0: kesken tunnetaan nimellä A KH.
-Puhuja 2: Hyvää päivää. Hyvää päivää.
+Puhuja 0: Hyvää päivää. Hyvää päivää.
 Puhuja 0: Tämän viikon podcastissa
 Puhuja 0: keskustellaan
 Puhuja 0: aluksi, mistä ei keskustella. Juuri parhailla on käynnissä
@@ -57,11 +57,9 @@ Puhuja 0: ei tiedetä, onko siinä mitään puhumista tai puheista, ja varmasti 
 Puhuja 0: lähetykseen
 Puhuja 0: ehdi. Sen lisäksi
 Puhuja 0: ei keskustella pääministeri Sanna Marinin ilmoituksista
-Puhuja 0: tähän ja puolisonsa Markus Räikkönen Aikikuetetta erota. Koska...
-Puhuja 2: Ei kuulu meille. Ei kuulu meille.
-Puhuja 0: Ja
-Puhuja 0: Sanna
-Puhuja 0: sulla on mun puhelin.
+Puhuja 0: tähän ja puolisonsa Markus Räikkönen Aikikuetetta
+Puhuja 0: erota, koska...
+Puhuja 0: Ei kuulu meille. Ei kuulu meille. Ja se, sano, sulla on mun puhelin.
 Puhuja 0: Sen sijaan me puhutaan tätä asiaa. Nimittäin tämän viikon podcastissa puhutaan
 Puhuja 0: sinänsä aika hiljaisesta uutisviikosta,
 Puhuja 0: jota onneksi saapui värittämään
@@ -145,7 +143,7 @@ Puhuja 2: vastakohta.
 Puhuja 2: Eroviisyys on aina vessataukobiisejä.
 Puhuja 2: Se kestää niin jumalattoman kauan ja sitten tulee joku hitaasti.
 Puhuja 0: Hoilaus jostain kuolemansingt.
-Puhuja 2: Pakko mennä vessaan ja jakelelejä. Mutta siis thocha-Cha on sen vastakohta, että sä et pysty poistumaan siitä television edestä, kun sä katsot
+Puhuja 2: Pakko mennä vessajaan ja jakelelejä. Mutta siis thocha-Cha on sen vastakohta, että sä et pysty poistumaan siitä television edestä, kun sä katsot
 Puhuja 2: sitä, mitä tossa tapahtuu. Ja se menee koko ajan eteenpäin ja ihan täysin sinne, minne sä oot odottanut.
 Puhuja 2: Sitten kun Markokin sinne kanavalle vihdoin osui, niin
 Puhuja 2: et varmaan voinut lopettaa ennen kuin se oli ohi. No ei todellakaan. Joo ei.
@@ -155,7 +153,7 @@ Puhuja 2: Mutta ne sanat on toisaalta
 Puhuja 2: myös vahvuus verrattuna. Mä nyt vertaan koko ajan Lorininiin, koska se on tärkein kilpailija ja
 Puhuja 2: ylivoimainen ennakkosuosikki Ruotsin Lorinin Tatu
 Puhuja 2: biisi,
-Puhuja 2: joka on tämmönen ajatus. Tai joku ihan selkeästi joku viisufanien
+Puhuja 0: joka on tämmönen ajatus. Tai joku ihan selkeästi joku viisufanien
 Puhuja 0: oma teidän päässä toi on ihan järkevä. Mun mielestä niillä on päällä. Viislää ei ole mitään tekemistä keskenään, koska ne on niin eri maailmoista. Mutta nää on ennakkosuosikit kaikissa vedonlyönneissä.
 Puhuja 2: Suomensia on aina elänyt, mutta
 Puhuja 2: Ruotsi on ollut tosi vahva näissä veikkauksissa.
@@ -175,8 +173,7 @@ Puhuja 2: epäenglanniksi
 Puhuja 2: biisitkin.
 Puhuja 2: Luulitteko
 Puhuja 2: te
-Puhuja 2: meidän sanomalehdistämme
-Puhuja 2: Helsingin Sanomista mainion
+Puhuja 2: meidän sanomalehdistämme Helsingin Sanomista mainion
 Puhuja 2: jutun näistä sanoituksista?
 Puhuja 1: Joo, se oli ihan huikea.
 Puhuja 1: Mikä koko kädessä hirvittävä se olikaan?
@@ -239,13 +236,14 @@ Puhuja 0: Eikä! Ja näin kirjoitetaan yleisesti
 Puhuja 0: tälleen, koska
 Puhuja 0: jenkkit viiden maailmassa on ihan eri luokkaa. Mutta tuommoinen ajattelu on vähän niin kuin hävinnyt.
 Puhuja 0: Siitä on tullut semmoinen, että se omistetaan, että tämä on se Euroopan juttu, tämmöisiä me ollaan, meillä on tämmöinen, me ollaan näin
-Puhuja 0: tämmöisiä asuntoja-noloja ja
+Puhuja 0: tämmöisiä asuntoja noloja ja
 Puhuja 0: tämmösiä. Yhtäkkiä siinä on jotain hienoa, että me ollaan tällaisia. Tää voi olla myös Suomen näkökulmasta muuttunut.
 Puhuja 2: Esimerkiksi Ukraina on järkkyhyvää
 Puhuja 2: Euroviisumaa.
 Puhuja 0: Siellä kaikki rakastavat euroviisuja tai rakastijoiksi. Mutta se on mahdoton, että muuttoko omalta ajatuksista vai muuttuuko maailman Zitkaaisti vai mikä?
 Puhuja 1: Muistan ainakin, kun
-Puhuja 1: oltiin isolla porukalla vuonna kaksituhatta yhdeksäntoista New Yorkissa. Sitten oltiin jossain baarissa siellä, missä oli sitten tämmöinen... Se oli pianisti mainio
+Puhuja 1: oltiin isolla porukalla vuonna kaksituhatta yhdeksäntoista New Yorkissa. Sitten oltiin jossain baarissa siellä, missä
+Puhuja 1: oli pieni mainio
 Puhuja 1: erinomainen esiintyjä ja hauska
 Puhuja 1: showmies,
 Puhuja 1: ja sitten ihmiset saivat huutaa, mikä biisi seuraavana. Sieltä soitti kaikki. Meidän pöydästä joku sanoi, että esitti joku euroviisu
@@ -253,7 +251,7 @@ Puhuja 1: tai esitti toiveenkin.
 Puhuja 1: Sehän innoi niin tohkeissa,
 Puhuja 1: rakastaa euroviisuja. Joku loppujilla
 Puhuja 1: euroviisoja.
-Puhuja 1: Koko malari innostujista ja siellä oli ihan valtava veri.
+Puhuja 1: Koko malari innostumista ja siellä oli ihan valtava veri.
 Puhuja 2: Euroviisyyshan parasta on se, että nyt on
 Puhuja 2: ihana hetki muistella kaikkia vanhoja euroviisuviisejä ja luukuttaa niitä ihan täysiä. Se sopii tähän vuodenaikaan
 Puhuja 2: näihin päiviin. Mutta tämän vuoden Viisuista mä oon koko kevään ollut silleen, että nyt tapahtuu
@@ -308,7 +306,7 @@ Puhuja 0: laitatte.
 Puhuja 0: Mitä kaikkea niitä on? Voidaan pinä kolaadoida. Pina
 Puhuja 0: kolaa.
 Puhuja 0: Sitten...
-Puhuja 0: Mitä vihreetä on? Jos jotain vihreät puuroa.
+Puhuja 0: Mitä vihreetä? Jos jotain vihreät puuroa.
 Puhuja 0: En tiedä, onko mitään vihreetä asioita, mitä voi kattaa pöytään.
 Puhuja 0: Mutta ainakin... Onko se mitään vihrenneksiä?
 Puhuja 0: Siellä. Niirien.
@@ -316,7 +314,7 @@ Puhuja 2: Livejä.
 Puhuja 0: Sitten otatte juomaksi
 Puhuja 0: snapsit Minttu viinaa. Eikö se ole vihreillä?
 Puhuja 2: Ei, joo edes.
-Puhuja 0: Kirkostani onkin.
+Puhuja 2: Kirkostani onkin.
 Puhuja 0: Siinä tapauksessa fernet-rankkaa
 Puhuja 0: tai jäägermaisteria.
 Puhuja 0: Sitten olette ehkä kutsuneet Viisustudioon
@@ -339,20 +337,19 @@ Puhuja 2: ja kaikki nuoret ihmiset siellä
 Puhuja 2: rakastaa Matin
 Puhuja 2: videoita.
 Puhuja 2: Mä suosittelen seuraamaan Matti Vanhasta TikTokissa. Hyvä
-Puhuja 1: Vuosi
-Puhuja 1: kehua mä rupesin vähän sattumalta
+Puhuja 1: Vuosi kehua. Mä rupesin vähän sattumalta
 Puhuja 1: katsomaan. Tää oli
-Puhuja 1: Apple TV:ssä. Jostain syystä mulla näkyisi, olenko ikinä maksanutkaan. Maksaako Apple Apple TV muuten?
+Puhuja 1: Apple TV:ssä. Jostain syystä mulla näkyisi, olenko ikinä maksanutkaan. Maksaako Apple TV muuten?
 Puhuja 0: Maksaa se, mutta mun mielestä puskee
 Puhuja 0: puolen vuoden ilmaiskokeilua.
 Puhuja 1: Muutenhan on ikinä maksanut. Se näkyy. Mun mielestä se katsoo semmoinen
-Puhuja 1: sarja kuin Slow Horcies,
+Puhuja 1: sarja kuin Slow Horsis,
 Puhuja 1: hitaat hevoset.
 Puhuja 1: Aivan mahtava.
 Puhuja 1: Se on agenttitarina. Kertoo Englannista ja kertoo M. Lefbe:n
 Puhuja 1: yksiköstä, johon pannaan kaikki luuserit. Jos agentti sössii oikein kunnolla, niin sitten sijoitetaan
 Puhuja 1: Hänelle asiakirjakseen tulee tämmöinen yksikkö, jossa kaikki muutkin ovat luusereita.
-Puhuja 1: Sen
+Puhuja 1: Hänen
 Puhuja 1: yksikön
 Puhuja 1: johtajasta esittää
 Puhuja 1: Gary Oudman
@@ -364,10 +361,10 @@ Puhuja 1: kautta... Sitä on nyt kaksi kautta tullut. Mä katoin sen ensimmäise
 Puhuja 1: kuitenkin ratkaisemaan jonkun
 Puhuja 1: äärimmäisen vaikean ja vaarallisen agenttit
 Puhuja 1: selkkauksen.
-Puhuja 1: Kaikki menee ihan päin helvettiä koko ajan, mutta ratkaisee sen. Tämä on
+Puhuja 1: Kaikki menee käytännössä ihan päin helvettiä koko ajan, mutta ratkaisee sen. Tämä on
 Puhuja 1: aina musta komedia.
 Puhuja 1: Maailman
-Puhuja 1: ilkein, inhottavin ja epämiellyttävin yksikön pomonit pohjimmiltaan. Siellä on hyvä sydän ja se tykkää niistä alaisista, jota se pelkästään hyvin alatyylisesti koko ajan haukkuu. Mutta se pohjimmiltaan kuitenkin diggaa niistä. Tosi mainio sarja. Jakke Carri Holmman on kyllä yksi parhaista. Se on loistava näyttelijä. Se
+Puhuja 1: ilkein, inhottavin ja epämiellyttävin yksikön pomonit pohjimmiltaan. Siellä on hyvä sydän ja se tykkää niistä alaisista, jota se pelkästään hyvin alatyylisesti koko ajan haukkuu. Mutta se pohjimmiltaan kuitenkin diggaa niistä. Tosi mainio sarja. Ahteen Carri Holmman on kyllä yksi parhaista. Se on loistava näyttelijä. Se
 Puhuja 1: näkee, miten se nauttii joka hetkestä, kun saa olla niin veemäinen kuin mahdollista.
 Puhuja 1: Hauska sarja. Se on vähän niin kuin parodiaa.
 Puhuja 1: Se on
@@ -439,7 +436,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

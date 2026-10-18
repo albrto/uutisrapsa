@@ -48,7 +48,7 @@ Puhuja 2: ylennys. Totta.
 Puhuja 1: Totta!
 Puhuja 1: Onks sulla vähän tollasia
 Puhuja 2: sun
-Puhuja 2: noussut
+Puhuja 2: nousu
 Puhuja 1: asema harteille? Vähän tommosia ilmapiiriä
 Puhuja 1: se on ympärillä.
 Puhuja 3: Mä joudun syömään paikoissa, missä
@@ -71,7 +71,8 @@ Puhuja 1: kuin pääkirjoitustoimituksen
 Puhuja 1: esihenkilön
 Puhuja 1: koppi.
 Puhuja 3: Puuttuu tästä itse asiassa aikaisemmin silloin, kun sä olit maanpuolustuskurssilla.
-Puhuja 3: Pidättiin. Mutta joo.
+Puhuja 3: Pidätettiin.
+Puhuja 3: Mutta joo.
 Puhuja 3: Käytännössä mä oon vain pääkirjoitusoimituksen
 Puhuja 3: pomo.
 Puhuja 3: Mä
@@ -145,7 +146,8 @@ Puhuja 2: Poliitikothan on perinteisesti
 Puhuja 2: tavallaan... No en tiedä, onko tämä liian
 Puhuja 2: yleistävästi sanottu, mutta keskustelu,
 Puhuja 2: joka menee yksityiskohtien tasolle esimerkiksi, että pitäisikö näitä kalliita uusia syöpälääkkeitä
-Puhuja 2: käyttää x prosenttia enemmän kuin nykyään tai jotain. Poliitikot ovat mielellään ajatelleet niin, että lääkärit tekevät niitä päätöksiä ja se ei kuulu poliitikoille. Se on
+Puhuja 2: käyttää
+Puhuja 2: x prosenttia enemmän kuin nykyään tai jotain. Poliitikot ovat mielellään ajatelleet niin, että lääkärit tekevät niitä päätöksiä ja se ei kuulu poliitikoille. Se on
 Puhuja 2: jotenkin järkevä ajatus.
 Puhuja 2: Jos käytännössä kuitenkin tilanne on se, että lääkärit tekee
 Puhuja 2: poliittisista ratkaisuista johtuen
@@ -154,9 +156,8 @@ Puhuja 1: niin mun mielestä myös... Jos lääkärillä ei itse asiassa ole, he
 Puhuja 1: minkä heidän lääkärin etiikka sanoisi, että pitäisi tehdä. Mutta koska poliitikot
 Puhuja 1: on laittaneet sen rahan vaikka jonnekin muualle tai mitä ikinä,
 Puhuja 1: niin sitten lääkärit ei pysty tekemään sitä päätöstä, mutta poliitikot silti teeskentelee,
-Puhuja 1: näyttelevät.
-Puhuja 2: He siellä hoitaa ne asiat
-Puhuja 3: asioita. Ainahan se ei tarkoita sitä niinku tässäkin, että esimerkiksi
+Puhuja 1: näyttelijät, että ne siellä hoitaa ne asiat. Lääkärit lääkärityön asiaa.
+Puhuja 3: Ainahan se ei tarkoita sitä niinku tässäkin, että esimerkiksi
 Puhuja 3: niitä kuvantamislaitteita
 Puhuja 3: ei ole muuta
 Puhuja 3: kuin
@@ -221,8 +222,7 @@ Puhuja 1: syöpähoitoihin.
 Puhuja 1: Menipä hiljaiseksi.
 Puhuja 2: Näin se tehdään.
 Puhuja 1: Tehdäänkö me näin?
-Puhuja 2: Entinen pääministeri kävi
-Puhuja 2: työelämässä,
+Puhuja 2: Entinen pääministeri kävi eduskunnassa työelämässä,
 Puhuja 2: että miten valtava
 Puhuja 2: säästöpotentiaali
 Puhuja 2: on olemassa. Mä uskon, että hän on myös vähän oikeassa siinä
@@ -290,7 +290,8 @@ Puhuja 2: Kysymys on siis sarjasta, jossa tämä on tosi-tv
 Puhuja 2: kilpailu, jossa
 Puhuja 2: suljetaanko se kuudeksi tunniksi
 Puhuja 2: Big Brother
-Puhuja 2: tyyppiseen taloon koomikoita
+Puhuja 2: tyyppiseen taloon
+Puhuja 2: koomikoita,
 Puhuja 2: parhaita, Britannian parhaita koomikot,
 Puhuja 2: Jos on niin eri levelillä kuin kukaan ollut. Niin hyviä ja ehkä annan tämmösen sivusuosituksen
 Puhuja 2: tässä samalla. Tässä on mukana ilmeisesti molemmilla kausilla tai useammin ollut tämä Bob Mortimer.
@@ -479,5 +480,6 @@ Puhuja 1: Okei,
 Puhuja 1: siinä kaikki tältä erää. Kiitos Salla Vuorikoski.
 Puhuja 1: Kiitos.
 Puhuja 1: Kiitos Jussi Niemeläinen. Kiitos. Minun nimi on Tuomas Peltokki äänenkuva. Kaiken muun mahtava meille tällä viikolla Janne Elkki.
-Puhuja 1: Laittakaa meille viestiä kaikissa kanavissa, missä haluatte. Myös telepatia hyväksytään.
+Puhuja 1: Laittakaa meille viestiä kaikissa kanavissa, missä haluatte. Myös telepatia
+Puhuja 1: hyväksytään.
 Puhuja 1: Kuullaan taas ensi viikolla.

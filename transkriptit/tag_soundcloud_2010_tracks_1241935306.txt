@@ -30,7 +30,7 @@ Puhuja 0: taloustoimittaja Almaa Ali. Hei Almaa. No moi.
 Puhuja 0: Helsingin Sanomissa
 Puhuja 0: politiikkaa toimittava,
 Puhuja 0: Marko Junkkari. Hei Marko.
-Puhuja 2: Minusta on sanottu päivämäärään viimeinen maaliskuu. No hovenehan on aprillipäivä.
+Puhuja 2: Minusta on sanottu päivämäärään viimeinen maaliskuu, että hovenehan on aprillipäivä.
 Puhuja 2: Mulla on tänään jotenkin muisti, että se olisi ollut tänään. Mulla oli aamulla sellainen mielikuva, että
 Puhuja 0: Tämän viikon podcastissa haluan
 Puhuja 0: aikakirjaa
@@ -96,9 +96,8 @@ Puhuja 0: nappula. Paina sitä, niin voit antaa haluamasi määrän tähtiä.
 Puhuja 0: Marko ja Alma, minkä määrän tähtiä te antaisitte tälle podcastille?
 Puhuja 0: Mikä se skaala on? Sitten, jotka ovat liian kaveritallisia,
 Puhuja 0: ehkä myös jotain
-Puhuja 1: fyysistä. Avautumista hänen omista jostain.
-Puhuja 2: Kyllä,
-Puhuja 2: mutta tämähän oli se alkuperäinen viesti, mutta sitten hän ilmeisesti asianosaiset tästä hermostuivat. Ja Yle kertoo, että siinä on
+Puhuja 1: fyysistä. Avautumista hänen omista jostain...
+Puhuja 2: Kyllä, mutta tämähän oli se alkuperäinen viesti, mutta sitten hän ilmeisesti asianosaiset tästä hermostuivat. Ja Yle kertoo, että siinä on
 Puhuja 0: Kyllä. Lehtimäki
 Puhuja 0: tunnustaa sen, että hän on lähettänyt tekstiviestejä
 Puhuja 0: epäsopivaan aikaan epäsopivia viestejä. Se on kiistatononta.
@@ -110,8 +109,7 @@ Puhuja 0: ovat olleet se, että
 Puhuja 0: vaikka tämä on ollut tiedossa ja hän on saanut siitä varoituksen,
 Puhuja 0: ilman mitään kilpailua tai muuta hänelle on annettu jatkopesti,
 Puhuja 0: tässä huippuhitta...
-Puhuja 2: Ei kai se ole tässä ollut ongelma.
-Puhuja 0: Oli se ainakin, että on ollut ongelma. Mutta mennään siihen kohta.
+Puhuja 2: Ei kai se ole tässä ollut ongelma. Oli se ainakin, että on ollut ongelma. Mutta mennään siihen kohta.
 Puhuja 0: Hänelle annettiin jatkopesti,
 Puhuja 0: vaikka on
 Puhuja 0: tiedetty, että hän on saanut varoituksen.
@@ -155,7 +153,8 @@ Puhuja 0: ihan pikkuruiseen
 Puhuja 0: kuuluu se tärkeys sieltä yleistoimittajan
 Puhuja 0: äänestä, kun Rantanen plastasi menemään.
 Puhuja 0: Ei yhtään kuunnella, mitä häneltä edes
-Puhuja 1: sieltä. Niin se vapaavuori kertoi sen kanssa itsekin. Niin ja saa vähän heiltä kysyttykin. Mikä on mun mielestä pöyristyttävä, on se, että kun tämä tuli, että on toinenkin häirintätapaus ja vapaavuorilta kysyttiin, että tuliko tämä ilmi tämän Lehtimäen tapauksen
+Puhuja 1: sieltä. Niin se vapaavuori kertoi sen kanssa itsekin. Niin ja saa vähän heiltä kysyttykin. Mikä on mun mielestä pöyristyttävä, on se, että kun tämä tuli, että on toinenkin häirintätapaus ja vapaavuorilta kysyttiin, että tuliko tämä ilmi tämän
+Puhuja 1: Lehtimäen tapauksen
 Puhuja 1: vanavedessä tai seurauksena?
 Puhuja 1: Ja vapaavuori sanoi, että ei, joten voiko tästä päätellä, että tämäkin on joku asia, mikä on heillä ollut jo aikaisemmin tiedossa
 Puhuja 1: ja siihen ei sitten ole tai on ehkä puututtu omien
@@ -182,7 +181,7 @@ Puhuja 2: kerrota esimerkiksi työyhteisössä,
 Puhuja 2: saati sitten
 Puhuja 2: julkisuudessa. Sinänsä sen asian
 Puhuja 2: salaaminen
-Puhuja 2: tässä mielessä, että sitä ei kerrota
+Puhuja 2: tässä mielessä, että siitä ei kerrota
 Puhuja 2: lehdissä, niin se on ihan oikein. Mutta se mistä vapaavuori tässä
 Puhuja 2: tavallaan mokannut on se, että
 Puhuja 2: kun... Lehtimäki on valittu
@@ -204,8 +203,10 @@ Puhuja 2: eiköhän tuota...
 Puhuja 2: Nythän nämä
 Puhuja 2: puheenjohtajiston jäsenet selittää, että siitä varoituksesta ei olisi voinut kertoa hallitukselle mutta tästä nyt on hyvin... Totta helvetessä pitää voida kertoa jos ne ovat tekemässä tämmöistä valintaa. Mutta
 Puhuja 2: kaikki tämä että vaikka olisi toimittu
-Puhuja 2: lain kirjaimen mukaan
-Puhuja 2: mutta onhan tämä nyt... Minun on vaikea ymmärtää,
+Puhuja 2: lain kirjaimen mukaan Mutta onhan tämä
+Puhuja 2: nyt...
+Puhuja 2: Minun
+Puhuja 2: on vaikea ymmärtää,
 Puhuja 2: että
 Puhuja 2: miksi tällaista yritetään salata
 Puhuja 2: ja
@@ -252,7 +253,8 @@ Puhuja 1: kyte ja kuplii ja siellä mennään jo täyttä vauhtia siihen uuteen 
 Puhuja 1: alistamisvapaaseen
 Puhuja 1: maailmaan
 Puhuja 1: ja sitten nämä
-Puhuja 1: olympiakomitean hefet jotenkin vielä, nitisten ja natisten pitää kiinni niistä vanhoista rakenteista, niin kyllä tässä on
+Puhuja 1: olympiakomitean hefet jotenkin vielä, niisten ja natisten,
+Puhuja 1: pitävät kiinni niistä vanhoista rakenteista, niin kyllä tässä on
 Puhuja 1: siellä pitäisi toimia moraalisemmin kuin missään muualla. Nämä tyypit, jotka antaa moraaliset ohjeet muille. Tää
 Puhuja 1: on Tytti Viikarikeissi
 Puhuja 0: All Overague. Viime kysymys tähän liittyen on...
@@ -276,9 +278,7 @@ Puhuja 2: kansanedustajat
 Puhuja 2: istuu
 Puhuja 2: erilaisten kansalaisjärjestöjen
 Puhuja 2: hallituksissa ja hallinnossa.
-Puhuja 2: Ja
-Puhuja 2: sehän
-Puhuja 2: on Muistiliitossa
+Puhuja 2: Ja sehän on Muistiliitossa
 Puhuja 2: tai Näkövammaisten
 Puhuja 2: keskusliitossa
 Puhuja 2: tai missä tahansa.
@@ -287,17 +287,17 @@ Puhuja 2: urheilua tai jokaista jakamaan urheilua vaan
 Puhuja 2: nimenomaan huippu-urheilua.
 Puhuja 2: Kaikkien halutuivat paikat ovat
 Puhuja 2: nämä ylin olympiakomitea
-Puhuja 2: tai jääkiekkoliitto tai jalkapalloliitto, mitkä ovat suomalaisten
+Puhuja 2: tai
+Puhuja 2: jääkiekkoliitto tai jalkapalloliitto, mitkä ovat suomalaisten
 Puhuja 2: rakastamia
-Puhuja 2: lajeja. Sinne
-Puhuja 2: kun pääsee niin
+Puhuja 2: lajeja. Sinne kun pääsee niin
 Puhuja 2: sitä ajatellaan,
 Puhuja 2: että
 Puhuja 2: se
 Puhuja 2: on
 Puhuja 2: hyvä
 Puhuja 2: PR-raha.
-Puhuja 2: Yleensähän poliitikoille on siinä mielessä turvallista että yleensä
+Puhuja 2: Yleensähän poliitikoille on siinä mielessä turvallista, että yleensä
 Puhuja 2: urheilusta,
 Puhuja 2: vaikka
 Puhuja 2: urheiluun
@@ -315,13 +315,14 @@ Puhuja 0: yleisöä,
 Puhuja 0: äänestäjäryhmiä
 Puhuja 0: tai muita, jotka ovat
 Puhuja 0: tosi olennaisia. Hän tulee heille näkyväksi.
-Puhuja 2: Ehkä. Saadaan siitä julkisuutta ja se on hyvä jalusta, millä esiintyä. Luulen, että siinä on myös se, että kyllä
+Puhuja 2: Ehkä. Saadaan siitä julkisuutta
+Puhuja 2: ja se on hyvä jalusta, millä esiintyä. Luulen, että siinä on myös se, että kyllä monet
 Puhuja 2: monet oikeasti tykkäävät urheilusta. Siinä on myös se, että se on siistiä.
 Puhuja 0: Rakastan urheilua, mutta ei minua kiinnosta ne järjestöt siinä ympärillä juuri yhtään. Paitsi Hyvinkään palloseura.
 Puhuja 2: Jos pyörittäisiin Hyvinkään palloseuran
 Puhuja 0: hallitukseen, niin totta kai menisi. En lähtisi mihinkään vapaaehtoisesta enää ikinä. Se on
 Puhuja 0: hirveätä. Rääkkiä.
-Puhuja 2: Okei. Alma on ainakin silmät pyöreänä.
+Puhuja 2: Okei. Alma ainakin silmät pyöreänä.
 Puhuja 0: Kun
 Puhuja 0: lähdette
 Puhuja 0: pienten junioreiden
@@ -331,17 +332,16 @@ Puhuja 0: kiva viettää
 Puhuja 0: keväistä sunnuntaipäivää
 Puhuja 0: siellä ja hömpsyttelette
 Puhuja 0: lapsilta piilossa.
-Puhuja 0: Milläs
-Puhuja 0: tarinoilla ei tuolla viihdytätte
+Puhuja 0: Millä tarinoilla ei tuolla viihdytätte
 Puhuja 0: kanssa
 Puhuja 0: katsojia?
 Puhuja 1: Mä olen nyt jotenkin sellaisessa, että pyhässä vihassa palan jotenkin tässä penkissä kaikki viime viikkojen
 Puhuja 1: tapahtumat,
-Puhuja 1: mukaan lukien vielä esimerkiksi Will Smithin Törttööljy jossain Oskareissa ja muussa, niin mä
-Puhuja 1: vaan tarjoillen silleen
-Puhuja 1: itsereflektion
-Puhuja 1: mahdollisuutta kaikille. Sitä suosittelen.
-Puhuja 0: Erittäin hyvä. Ei muuta.
+Puhuja 1: mukaan lukien vielä esimerkiksi Will Smithin Törttölö jossain Oskareissa ja muussa, niin mä
+Puhuja 1: vaan tarjoillen sitä. Hei, mä ehdottelin tähän. Tarjoilen
+Puhuja 1: itsereflektiomahdollisuutta
+Puhuja 1: kaikille. Sitä suosittelen.
+Puhuja 1: Erittäin hyvä. Ei muuta.
 Puhuja 0: Olisin halunnut puhua Will Smithistä.
 Puhuja 0: Sehän ei todellakaan ollut aitolyönti.
 Puhuja 2: Ennen kattelin ihan loppua. Olen katsonut kuusi jaksoa. Netflixissä on
@@ -357,9 +357,9 @@ Puhuja 2: Ja nyt vaalilta säätiö on Euroopassa.
 Puhuja 2: Hän vietti
 Puhuja 2: itse
 Puhuja 2: elämää New Yorkissa ja oli täysin penditön
-Puhuja 2: tai sentitön ja pystyi tavallaan...
-Puhuja 2: Käytti
-Puhuja 2: rahaa ihan määrättömästi, sai sitä eri keinoilla, sai kavereita maksamaan.
+Puhuja 2: tai sentitön.
+Puhuja 2: Hän pystyi
+Puhuja 2: tavallaan rahaa ihan määrättömästi, sai sitä eri keinoilla, sai kavereita maksamaan.
 Puhuja 2: Sille oli haaveena perustaa oma
 Puhuja 2: klubi,
 Puhuja 2: mitä varten hän oli lainaamassa
@@ -371,12 +371,10 @@ Puhuja 2: petoksesta
 Puhuja 2: oikeuteen ja joutui vankilaan.
 Puhuja 2: Ja sitten selvisi, että hän aasi on Saksalainen, ja se on tosiaan täysin rahaton.
 Puhuja 2: Pystyy vain luomaan itsestään
-Puhuja 2: tämmöisen jetsä-hahmon,
+Puhuja 2: tällaisen jetsejät-hahmon,
 Puhuja 2: joka pääsi hämmästyttävällä tavalla
 Puhuja 2: piireihin.
-Puhuja 2: Sari ärsyttää ihan suunnattomasti ja samaan
-Puhuja 2: aikaan
-Puhuja 2: se
+Puhuja 2: Sari ärsyttää ihan suunnattomasti ja samaan aikaan se
 Puhuja 2: että
 Puhuja 2: hauskaa.
 Puhuja 2: Joka jakso alkaa,
@@ -392,7 +390,8 @@ Puhuja 2: keissiä
 Puhuja 2: pala palalta.
 Puhuja 2: Varsinkin sen
 Puhuja 2: toimittajan työskentelyyn.
-Puhuja 2: Kyseinen toimittaja on myös tämän tv-sarjan tuottaja. Siihen on rakennettu vaikka minkälaista fiktiota siihen, mitä kaikkea se toimittaja on tässä
+Puhuja 2: Kyseinen toimittaja on myös tämän tv-sarjan tuottaja.
+Puhuja 2: Siihen on rakennettu vaikka minkälaista fiktiota siihen, mitä kaikkea se toimittaja on tässä
 Puhuja 2: oikeasti tehnyt ja mikä on totta ja mikä ei. Kyllä mä silti uskallan suositella. Vaikka se ärsyttää, he on liian pitkä. Mutta on siinä jotain kiehtovaa silti.
 Puhuja 0: Mulla on myös
 Puhuja 0: striimaus aiheeseen suosituksia.
@@ -434,8 +433,7 @@ Puhuja 0: yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
-Puhuja 0: joka päätyi aseeksi
-Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
 Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
 Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.

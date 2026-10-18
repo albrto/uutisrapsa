@@ -153,16 +153,25 @@
             try { edellinen = Number(localStorage.getItem('otsikko')); } catch (e) {}
             do { valinta = Math.floor(Math.random() * FRAASIT.length); } while (valinta === edellinen && FRAASIT.length > 1);
             try { localStorage.setItem('otsikko', String(valinta)); } catch (e) {}
-            var fraasi = FRAASIT[valinta], teksti = '', i = 0, html = '';
+            // Sanat koostetaan osista: välilyönnittä jatkuva osa (esim. "…") liitetään edellisen
+            // sanan sisään, jottei välimerkki rivity yksin seuraavalle riville
+            var fraasi = FRAASIT[valinta], teksti = '', i = 0, html = '', sanat = [];
             fraasi.forEach(function (osa, n) {
               teksti += osa[0];
-              var sanat = osa[0].split(/(\s+)/);
-              html += '<span class="otsikko-osa ' + (osa[1] || '') + '"' + (n ? ' style="--viive:' + (n * 160) + 'ms"' : '') + '>';
-              sanat.forEach(function (sana) {
-                if (!sana) return;
-                if (/^\s+$/.test(sana)) { html += ' '; i++; return; }
-                html += '<span class="otsikko-sana">';
-                for (var k = 0; k < sana.length; k++) html += '<span class="otsikko-kirjain" style="--i:' + (i++) + '">' + sana[k] + '</span>';
+              osa[0].split(/(\s+)/).forEach(function (pala, k) {
+                if (!pala) return;
+                if (/^\s+$/.test(pala)) { sanat.push(null); return; }
+                var uusi = { t: pala, c: osa[1] || '', v: n * 160 };
+                var ed = sanat[sanat.length - 1];
+                if (k === 0 && ed) ed.push(uusi); else sanat.push([uusi]);
+              });
+            });
+            sanat.forEach(function (sana) {
+              if (!sana) { html += ' '; i++; return; }
+              html += '<span class="otsikko-sana">';
+              sana.forEach(function (p) {
+                html += '<span class="otsikko-osa ' + p.c + '"' + (p.v ? ' style="--viive:' + p.v + 'ms"' : '') + '>';
+                for (var k = 0; k < p.t.length; k++) html += '<span class="otsikko-kirjain" style="--i:' + (i++) + '">' + p.t[k] + '</span>';
                 html += '</span>';
               });
               html += '</span>';

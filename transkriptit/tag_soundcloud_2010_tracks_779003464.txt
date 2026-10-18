@@ -90,7 +90,8 @@ Puhuja 0: Koronavirusepidemia
 Puhuja 0: iski Suomeen toden teolla.
 Puhuja 0: Ei välttämättä
 Puhuja 0: viruksen kannalta, mutta poliittiset realiteetit mukautui
-Puhuja 0: täysin maailmaan,
+Puhuja 0: täysin
+Puhuja 0: maailmaan,
 Puhuja 0: jossa Suomea kohtaa virusepillinen. Ja minun mielestä nämä kaksi asiaa täytyy pitää
 Puhuja 0: toisistaan erillään.
 Puhuja 0: Väistämättä tulee olemaan sekava soppa miten me käsitellään tätä
@@ -155,8 +156,7 @@ Puhuja 0: tosi laajan legitimiteetin.
 Puhuja 0: Olisiko tämä ollut
 Puhuja 0: sellainen tilanne, jossa pääministeri Sanna Marin, joka vaikka onkin tosi suosittu
 Puhuja 0: ja suoraan
-Puhuja 0: sanottuna ihastuttava ihminen,
-Puhuja 0: niin onko tämä sellainen, missä hänen olisi kannattanut
+Puhuja 0: sanottuna ihastuttava ihminen, niin onko tämä sellainen, missä hänen olisi kannattanut
 Puhuja 0: ottaa persut ja kokoomus mukaan tähän
 Puhuja 0: poikkeusoloon?
 Puhuja 2: Hänhän
@@ -176,8 +176,7 @@ Puhuja 2: valmiuslaissa sanotaan että sen valtioneuvosto
 Puhuja 2: päättää sen jälkeen kun valtioneuvosto on
 Puhuja 2: yhteistoiminnassa
 Puhuja 2: presidentin kanssa tavallaan todennut että on poikkeustila mutta sen jälkeen valtioneuvosto toimii eli pelkästään se presidentin rooli on ainoastaan se
-Puhuja 2: että presidentti ja hallitus toteavat, että on poikkeustila, jonka jälkeen hallitus voi itsessään antaa tämän lain
-Puhuja 2: voimaantulosta. Rehellisesti
+Puhuja 2: että presidentti ja hallitus toteavat, että on poikkeustila, jonka jälkeen hallitus voi itsessään antaa tämän lain. Tai antaa asetuksen lain voimaantulosta. Rehellisesti
 Puhuja 1: liittyen siihen,
 Puhuja 1: että
 Puhuja 1: mikä vaikutus niillä on yhteiskunnassa ihmisten toimeentuloon ja elontaan.
@@ -206,18 +205,17 @@ Puhuja 0: Ja kilmiin, mutta siis mä ennustan, että tähän tulee kuolleen kahd
 Puhuja 1: Kun uutisoitiin ne ennusteet, niin varmaan monesta ihmisestä se kolmetuhatta kuulosti tosi paljolta.
 Puhuja 1: Mutta kun olen lukenut noita kansainvälisiä tutkimuksia aika paljon, niin
 Puhuja 1: toivon tosi paljon, että THL olisi oikeassa ja me selvittäisiin niin vähällä. Pitää muistaa, että kolmetuhatta oli ilman näitä rajoituksia. Voitaisiin toivoa, että näiden rajoitusten kanssa se olisi paljon vähemmän. Mutta pelkään pahoin, että ne ovat aika optimistisia THL:n luvut. Okei. Ja täytyy sanoa, että sinähän olet perehtynyt näin lukuihin ja olet käynyt läpi ne, että miten ne on laskettu.
-Puhuja 2: Se oli erittäin ansiokas juttu tämän päivän lehdessä, minkä sinä ja Paavo teitte ja kävitte läpi. Kerro Maria
-Puhuja 2: vähän, mikä fiilis sinulle jäi näistä skenaarioiden vertailuista?
+Puhuja 2: Se oli erittäin ansiokas juttu tämän päivän lehdessä, minkä sinä ja Paavo teitte ja kävitte läpi. Kerro Maria vähän,
+Puhuja 2: mikä fiilis sinulle jäi näistä skenaarioiden vertailuista?
 Puhuja 1: No,
 Puhuja 1: mulla jäi se fiilis, että niitä THL:n lukuja, ennen kuin he itsekin sanoivat, että ne
-Puhuja 1: on tehty aika karkealla arvioinnilla kiireesti koska tietysti tämä on uusi virus ja meillä ei ole riittävästi tietoa. Mutta THL julkaisi maanantaina,
+Puhuja 1: on tehty aika karkealla arvioinnilla kiireesti, koska tietysti tämä on uusi virus ja meillä ei ole riittävästi tietoa. Mutta THL julkaistun maanantaina
 Puhuja 1: valtioneuvoston muistia julkaisi ja samana päivänä julkaistiin brittitutkijoiden,
 Puhuja 1: siis olen brittien kovien asiantuntijoiden
 Puhuja 1: vastaava raportti, jossa oli tehty mallinnoksia
-Puhuja 1: Britannian osalta, että miten tämä
-Puhuja 1: tauti
-Puhuja 1: vaikuttaisi ilman mitään rajoituksia erilaisten
-Puhuja 1: rajoitusten kanssa.
+Puhuja 1: Britannian osalta, että miten
+Puhuja 1: tämä tauti
+Puhuja 1: vaikuttaisi ilman mitään rajoituksia erilaisten rajoitusten kanssa.
 Puhuja 1: Brittien
 Puhuja 1: käyttämät
 Puhuja 1: kuolleisuusluvut
@@ -234,10 +232,8 @@ Puhuja 1: Jos siinä oli arvioinut huonossa skenaariossa, että kahdeksantuhatta
 Puhuja 1: niin nykyisellään meillä on ilmeisesti tehohoitopaikkoja neljäsataa ja pystytään lisäämään
 Puhuja 1: kapasiteettia tuhanteen. Se ei kuulosta mitenkään ihan mahdottomalta katastrofilta.
 Puhuja 1: Siihen nähden nämä toimet ovat
-Puhuja 1: minusta järeiltä.
-Puhuja 1: Jäeitä tämä tietysti onkin, mutta en tiedä, onko se
-Puhuja 1: sitä
-Puhuja 1: ajattelen, että mitä tulee terveydenhuollon resursseihin, niin on varmaan parempi ylivarautua.
+Puhuja 0: minusta järeiltä.
+Puhuja 1: Ajattelen, että mitä tulee terveydenhuollon resursseihin, niin on varmaan parempi ylivarautua.
 Puhuja 0: Tästä me varmasti ollaan ihan kaikki samaa mieltä.
 Puhuja 0: Mieluummin näin päin.
 Puhuja 0: Haluan kysyä
@@ -248,11 +244,12 @@ Puhuja 0: yhdeksi kausiflunssaksi
 Puhuja 0: muiden joukkoon? Onko se enää mahdollista?
 Puhuja 1: No miten olen näitä tiedejuttuja lukenut,
 Puhuja 0: niin lieveneekö se ikään kuin ajan mittaan ja jää sellaiseksi yhdeksi... Tarkoitan enemmän sitä, että tämä mikä nyt on meneillään, niin kun nyt odotetaan, että kuinka tuhoisa se tulee olemaan suomalaisille, kuinka monta
-Puhuja 0: suomalaista se vie teholle ja kuinka monta suomalaista se
-Puhuja 0: vie hengen.
+Puhuja 0: suomalaista se vie teholle ja kuinka monta suomalaista
+Puhuja 0: se vie hengen.
 Puhuja 0: Joka
 Puhuja 0: vuosi joku kausi-influenssa
-Puhuja 0: tänne tulee ja joka vuosi kausi-influenssa
+Puhuja 0: tänne tulee ja joka vuosi
+Puhuja 0: kausi-influenssa
 Puhuja 0: varsinkin vanhusväestössä
 Puhuja 0: aiheuttaa kuolemia, niin onko se mahdollista, että vaikka kolmen
 Puhuja 0: kuukauden päästä katsotaan tätä, että korona olikin vaan
@@ -286,7 +283,7 @@ Puhuja 0: muuttuvasta ajasta sillä tavalla, että
 Puhuja 0: ennen vanhaan oli sellainen ajatus, että kriisi joko on päällä tai
 Puhuja 0: ei ole, Että joko ollaan sodassa tai ei olla sodassa. Se on hyvin mustavalkoinen ja hyvin selkeä.
 Puhuja 0: Nykyään
-Puhuja 0: kriisit ovat
+Puhuja 0: kriisit on
 Puhuja 0: erilaisia. Ne ovat lähes aina
 Puhuja 0: mustavalkoisia, vaan ne ovat harmaan sävyjä. Meillä ei ole täysin täys kriisi kaikki
 Puhuja 0: suomalaiset kuolemassa huomenna, vaan meillä on epidemian leviämässä maassa uhkaa osa. Tavallaan
@@ -311,8 +308,7 @@ Puhuja 2: ajatuksena se, että nyt on ensimmäisen kerran
 Puhuja 2: globaali
 Puhuja 2: näin laaja pandemia mikä vaikuttaa joka ikiseen maapallon ihmiseen
 Puhuja 2: niin
-Puhuja 2: aika vaisua tämmöinen
-Puhuja 2: kansainvälinen
+Puhuja 2: aika vähän, aika vaisua tämmöinen kansainvälinen
 Puhuja 2: yhteistyö ja se, että kaikki maailman kansat yhteistä taistelevat sitä vastaan tähän asti on ollut.
 Puhuja 2: Mikä on mielestäni jotenkin hämmentävä ajatus, että jos joskus nyt kuvittelisi, että tätä EU-tasolla tai maailman
 Puhuja 2: tasolla kaikki olisi samassa rintamassa mutta ei. Tässä
@@ -396,7 +392,7 @@ Puhuja 1: koko ajan.
 Puhuja 0: Mä
 Puhuja 0: ostan myös Maria Mannerille
 Puhuja 0: sim-kortin, jossa on joku muu kuin yksi geeni yksi
-Puhuja 0: geeni
+Puhuja 1: geeni
 Puhuja 0: yhteys. Mä haluan suositella...
 Puhuja 0: Okei, muutama asia.
 Puhuja 0: Helsingin sanomilta on alkanut tulla uusi podcast,
@@ -449,7 +445,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

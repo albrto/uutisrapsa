@@ -49,8 +49,7 @@ Puhuja 0: eli keskustan
 Puhuja 0: puheenjohtaja-kisoissa
 Puhuja 0: kisaavien Katri Kulmunin tai Antti Kaikkosen mahdollisuudesta
 Puhuja 0: päätyä
-Puhuja 0: Heinäpailen
-Puhuja 0: päälle.
+Puhuja 0: Heinäpailen päälle.
 Puhuja 0: Lopuksi vielä hyviä keskustelun aiheita pitkien, epämukavien
 Puhuja 0: hiljaisuuksien
 Puhuja 0: varalle.
@@ -78,15 +77,12 @@ Puhuja 0: Lisäksi poliisi on kertonut, että miehet ovat oleille Porvoon alueel
 Puhuja 0: ajan.
 Puhuja 0: Käsittääkseni
 Puhuja 0: nämä on ne faktat, joita me tiedetään ja kaikki siitä eteenpäin on sitten tulkintaa eli toimittajien,
-Puhuja 0: somen, silminnakijöiden,
+Puhuja 0: somen, silminnakijöiden
 Puhuja 0: varsinkin Twitterin tulkintaa.
 Puhuja 0: Kuinka amerikkalainen tämä teidän mielestä oli?
 Puhuja 0: Vaikea
-Puhuja 0: sanoa.
-Puhuja 2: Kyllähän tuollainen
-Puhuja 2: taka-ajo ja sen
-Puhuja 2: mukanaan tuomat
-Puhuja 2: jännitysnäytelmät
+Puhuja 2: sanoa. Vaikea sanoa. Kyllähän tuollainen taka-ajo ja sen
+Puhuja 2: mukanaan tuomat jännitysnäytelmät
 Puhuja 2: vähän sellaista amerikkalaista traditiota henkisi, mutta kyllä mä ihan yhtä hyvin voisin kuvitella tämän esimerkiksi siltasarjan
 Puhuja 2: kohtauksena.
 Puhuja 2: Mutta asia on tietysti vakava, enkä halua vitsailla sillä sen enempää. Olen
@@ -106,7 +102,8 @@ Puhuja 0: Oisko Tuimäki käytä? Totta. Meisselissä.
 Puhuja 0: Marko, olet laskesellut omassa päässäsi ja kenties...
 Puhuja 1: En ole laskenut mitään. Tänään
 Puhuja 1: tuli
-Puhuja 1: Alman tekemä kysely erilaisille kepupäättäjille. Siellä oli Piiripäättäjiä.
+Puhuja 1: Alman tekemä kysely erilaisille kepupäättäjille. Siellä oli
+Puhuja 1: Piiripäättäjiä.
 Puhuja 2: Piiripäättäjiä.
 Puhuja 1: Piiripäättäjiä.
 Puhuja 1: Sen mukaan
@@ -115,13 +112,14 @@ Puhuja 1: ihan toisenlaisen, kirjoitin jutun, en tiedä onko se vielä julki.
 Puhuja 1: Katri Kulmunin nettisivuilta löytyy, hänellä on yli tuhat tukijaa.
 Puhuja 1: Eri ihmisiä kepulalaisia, jotka tukevat häntä.
 Puhuja 1: Hän on tehnyt sellaisen poikkeuksellisen ratkaisun, että se on pannut niin aakkosjärjestykseen.
-Puhuja 1: Sanotaan että oho, koska ero on se, että yleensä
-Puhuja 1: kun
+Puhuja 1: Oho,
+Puhuja 1: koska ero on se, että yleensä kun
 Puhuja 1: jollain
-Puhuja 1: ehdokkaalla... Yleensä kepulaiset eivät osaa aakkosista. Ei, eikä niitä kannata panna aakkosjärjestykseen. Koska nyt kun ne on aakkosjärjestyksessä, niin löydät ketä siellä on. Ja myös näet, että jos on tuhat nimeä sikin soki, niin on vaikea hahmottaa, kuka puuttuu.
+Puhuja 1: ehdokkaalla...
+Puhuja 1: Yleensä kepulaiset eivät osaa aakkosista. Ei, eikä niitä kannata panna aakkosjärjestykseen. Koska nyt kun ne on aakkosjärjestyksessä, niin löydät ketä siellä on. Ja myös näet, että jos on tuhat nimeä sikin soki, niin on vaikea hahmottaa, kuka puuttuu.
 Puhuja 1: Mutta nyt kun on aakkosjärjestyksessä, näet heti, että
 Puhuja 1: tosta puuttuu joku välistä. On helppo hahmottaa, ketä siellä on ja ei ole.
-Puhuja 0: Tää on kuulemma. Kepulaiset on aina tienneet, että toimittajat ei puolestaan osaa kopioida listaa omaan Exceliinsä ja pistä niitä aakkosjärjestykseen.
+Puhuja 0: Tää on kuulemma. Kepulaiset on aina tienneet, että toimittajat ei puolestaan osaa kopioida listaa omaan Exceliinsä ja pistävät aakkosjärjestykseen.
 Puhuja 0: Se on kaikille ainoa aina
 Puhuja 1: kenelle leillissaa olla.
 Puhuja 1: Mutta sain vähän apua yhdeltä
@@ -134,20 +132,18 @@ Puhuja 1: valtavaa... Kuulmunin listalle. Kuulmunin listalle oli sana tuhat nime
 Puhuja 1: löytyi... Siellä
 Puhuja 1: on valtavasti type, josta minä tai kukaan muukaan...
 Puhuja 1: Tällaisen Pohjois-Pohjanmaan eteläpuolue ei ikinä kuullutkaan, mutta erilaisia
-Puhuja 1: satrappeja joilla on valtavasti valtaa sillä omalla
-Puhuja 1: alueellaan, josta kukaan muu ei ole ikinä kuullutkaan. Siis erilaista MTK:n
+Puhuja 1: satrappeja joilla on valtavasti valtaa sillä omalla alueellaan, josta kukaan muu ei ole ikinä kuullutkaan. Siis erilaista MTK:n
 Puhuja 1: maitovastaavaa ja lestadiolaisten
 Puhuja 1: päälliköitä...
 Puhuja 1: Tavallaan se pystyy hyvin tarkkaan hahmottamaan. Heimoneuvosto.
 Puhuja 1: Heimoneuvosto. Mutta se voi olla myös... Kuulmuni takana on Pohjois-Pohjanmaan
 Puhuja 1: lestadiolaiset.
-Puhuja 1: Ja se voi olla myös aika järjestämä. Kuulmunimilistan
-Puhuja 1: perusteella, että
-Puhuja 1: se voittaa Pohjois-Pohjanmaan joka on isoin piiri, noin
-Puhuja 1: seitsemänkymmentä:kolmekymmentä. Se oli minusta todella siistiä, kun näiden nimien
-Puhuja 1: perusteella pystyi hyvin tarkkaan sanomaan, miten eri maakunnissa kulmunilla menee. Enkä. Onpa jännittää. Tää on todella kiehtovaa.
-Puhuja 1: Tässä ollaan tässä kipologian
-Puhuja 1: siellä aivan
+Puhuja 1: Ja se voi olla myös aika järjestämä. Ja se
+Puhuja 1: voi olla
+Puhuja 1: todella siistiä.
+Puhuja 1: Seitsemänkymmentä:kolmekymmentä. Se oli minusta todella siistiä, kun näiden nimien
+Puhuja 1: perusteella pystyi hyvin tarkkaan sanomaan, miten eri maakunnissa kulmunilla menee. Niin, ja onpa jännittää. Tää on todella kiehtovaa.
+Puhuja 1: Tässä ollaan tässä kipologian siellä aivan
 Puhuja 2: pibeipissä vesissä. Eikö tuohon vielä lasillinen täysmaitoa
 Puhuja 0: päällä? Kyllä. Eikö tämän pitäisi olla ihan normaalia poliittista journalismia?
 Puhuja 0: Mä oon tässäkin podcastissa
@@ -161,9 +157,10 @@ Puhuja 0: lukuja esiteltiin, luki näin:
 Puhuja 0: Almalaisten julkaisujen Kauppalehden, Iltalehden, Talouselämän ja Uuden Suomen kyselyn muutamassa suullisessa perustelussa nousivat esiin Kulmanin kohdalla sanat nuori ja nainen. Kaikkosen kohdalla esiintyy usein
 Puhuja 0: sanat kokenut, mutta
 Puhuja 0: ei nuorisosäätiötäkään ole keskustan kentällä täysin unohdettu. Ja minun mielestä tämmöinen analyysi on paskaa, miksi meillä tehdään tämmöistä analyysiä?
-Puhuja 0: Miksi ei kyetä kulkuni?
-Puhuja 0: Miksi kukaan kykene sanoa siitä jotain muuta merkityksellistä kuin että se on nainen... Paitsi itse asiassa se......
-Puhuja 1: Hyperää. Sukupuoliikä ei ole olennainen tässä, mutta ikä on. Ikä on. Mutta miksi kaikki analyysit ja
+Puhuja 0: Miksi ei kyetä kulkuni? Miksi
+Puhuja 0: kukaan
+Puhuja 0: kykene sanoa siitä jotain muuta merkityksellistä kuin että se on nainen... Paitsi itse asiassa se......
+Puhuja 1: Hyperää. Sukupuoli ei
 Puhuja 1: Ijalla on merkitystä, kun ne kepulais miettivät, että kumppania äänestäjä. Ja Kaikkonen on neljäkymmentäviisi ja rupeaa olemaan keski-ikäinen väsynyt mies kuten minä. Ja taas kulmuni on muistaakseni kolmekymmentäyksi.
 Puhuja 1: Ja jos kulmuni valitaan ja se saa sen homman toimimaan, niin se voi olla kaksikymmentä vuotta.
 Puhuja 0: Että
@@ -300,16 +297,16 @@ Puhuja 0: Mikä oli ensimmäinen asia, jonka googlasit?
 Puhuja 0: Keskustelut... Tuomas Pelkonen, minäkin ykköystiedot.
 Puhuja 0: Kuka voi?
 Puhuja 1: Ei,
-Puhuja 1: minulla oli se
+Puhuja 1: mulla oli se
 Puhuja 1: entuudestaan.
 Puhuja 1: Voisin intoa ja ostin vielä vähän sattumanvaraisesti näitä kirjoja.
-Puhuja 1: Yksi älyttömän
-Puhuja 1: hyvä nimi on Friday Night Lights.
+Puhuja 1: Yksi älyttömän hyvä
+Puhuja 1: nimi on Friday Night Lights.
 Puhuja 1: Tiedätkö? Ehkä. Ilveessä on kirjoitettu... Mutta se ei edes kysytty.
 Puhuja 1: Toinen näköinen.
-Puhuja 1: Tiedätkö sinä? En todellakaan.
+Puhuja 2: Tiedätkö sinä? En todellakaan.
 Puhuja 1: Se on line kirja, katsoin sen kirjoittajan nimen. Sen nimi on
-Puhuja 1: H. J. Bissinger, joka on New York Timesin toimittaja, joka on kirjoittanut 90-luvun alussa tämän.
+Puhuja 1: H. J. Bissingeri, joka on New York Timesin toimittaja, joka on kirjoittanut 90-luvun alussa tämän.
 Puhuja 1: Hän oli jotenkin
 Puhuja 1: kiinnostunut siitä miten amerikkalainen jalkapallo,
 Puhuja 1: valtava kulttuurinen voima se on Yhdysvalloissa.
@@ -323,15 +320,15 @@ Puhuja 1: Skeneihin.
 Puhuja 1: Niin se kirjoitti millaista elämä on tämmöisessä pienessä kaupungissa sen jenkkifutisjoukkueen
 Puhuja 1: varjossa.
 Puhuja 1: Joukku on ainoa ilo, joka näillä ihmisillä oli elämässä. Aina perjantaina meni katsomaan
-Puhuja 1: vatsaeja.
+Puhuja 1: vatsaseja.
 Puhuja 1: Se kirja on todella hyvä.
 Puhuja 1: Samanlaisen kirja voisi tehdä monesta suomalaista pikkukaupungista.
 Puhuja 1: Mutta se kertoo
 Puhuja 1: nimellä näistä ihmisistä ja heidän välisistä suhteistaan. Ja sen kaupungin rasismista, kaikista rikollisuudesta,
 Puhuja 1: ongelmista ja syrjäytymisestä.
-Puhuja 1: Sitten se oli vuoden asunut siellä ja ystävysty oli koulussa. Ja kaikki oli ihan täysin inessä siellä. Ja sitten se oli sopinut että se kirja julkistetaan
-Puhuja 1: siellä
-Puhuja 1: kaupungissa. Tämmöinen maanlaajuinen julkistustilaisuus. Hän on maineikas kirjailija.
+Puhuja 1: Sitten se oli vuoden asunut siellä ja ystävysten lapset oli koulussa. Ja kaikki oli ihan täysin inessä siellä. Se oli sopinut että se kirja julkistetaan
+Puhuja 1: kaupungissa.
+Puhuja 1: Tämmöinen maanlaajuinen julkistustilaisuus. Hän on maineikas kirjailija.
 Puhuja 1: Sitten ensimmäiset kappaleet vaati julkisuuteen ja kaupunkilaiset ehtivät lukea sen.
 Puhuja 1: Se julkistustilaisuus.
 Puhuja 1: Ei ole. Mutta se on aivan mahtava kirja, kannattaa lukea.
@@ -362,18 +359,18 @@ Puhuja 0: tililtä. Teidän pitää tehdä semmoiset, niin sieltä ei aionu jaka
 Puhuja 0: Tuskainen yllätys.
 Puhuja 2: Miksei voi vaan lukea,
 Puhuja 2: lukea, se on kiva.
-Puhuja 0: En mä ikinä lue, että mä kuuntelen näin. No niin, nyt palkitsee. Okei. Hei, siinä kaikki tältä viikolta.
+Puhuja 0: En mä ikinä lue, että mä kuuntelen näin. Noni, nyt palkitsee. Okei. Hei, siinä kaikki tältä viikolta.
 Puhuja 0: Kiitos Tuija Siltamäki.
 Puhuja 2: Eipä mitään.
 Puhuja 0: Kiitos, Marko Junkkari.
 Puhuja 0: Kiitos. Minä olen Tuomas Peltomäki.
 Puhuja 0: Ääni
-Puhuja 0: ja kuvan meille tekee Mikko Peura.
+Puhuja 0: meille tekee äänen ja kuvan, meille tekee Mikko Peura.
 Puhuja 2: Muista se mainos.
 Puhuja 0: Mä unohdin sen ite, vaikka mä kaikille muille pakotin, että se on luettava.
 Puhuja 1: Saanko nyt mennä? Marko, saat mennä.
 Puhuja 0: Tuija, saat mennä.
-Puhuja 2: Kiitos, oli ilo. Rakas kuulija.
+Puhuja 0: Kiitos, oli ilo. Rakas kuulija.
 Puhuja 0: Tämänkin podcastin sponsoroivat Helsingin Sanomien tilaajat.
 Puhuja 0: Hesari on merkittävin täysin riippumaton suomalainen media, jossa on joka ikisenä vuodenpäivänä kovaa uutista, syvällistä taustoittavaa
 Puhuja 0: viimeiset käänteet,
@@ -405,4 +402,4 @@ Puhuja 0: koska kuuntelet tätä podcastia, joten käy hakemassa itse
 Puhuja 0: itsellesi osoitteesta hs.
 Puhuja 0: Fi: Parempaa kuunneltavaa.
 Puhuja 0: Ensi kerralla lukee tämän mainoksen
-Puhuja 0: kesken lähetyksen, enkä typerästä sen lopuksi. Mutta siinäpä se, nimeni on Tuomas Peltomäki ja kuullaan taas ensi viikolla.
+Puhuja 0: kesken lähetyksen, enkä typerästä sen lopuksi. Mutta siinäpä se, nimeni on Tuomas Peltomäki ja kuullaan taas ensi viikolla!

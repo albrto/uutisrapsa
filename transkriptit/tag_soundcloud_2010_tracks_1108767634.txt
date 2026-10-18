@@ -21,9 +21,9 @@ Puhuja 2: Elokuuta. Me olemme täällä Sanomat seiskakerroksessa
 Puhuja 2: Helsingissä.
 Puhuja 2: Hei.
 Puhuja 2: Minä
-Puhuja 2: olen Marko Junkkari ja edelleenkin Tuomas Peltomäki rakentaa taloaan. Olisikohan saanut kivialaa valmiiksi jo? En ole saanut viimeisimpiä tietoja.
-Puhuja 2: Ei saatu mitään tietoja. Toivottavasti Tuomas jos kuuntelet tätä, niin talo edistyy hyvin. Ja minä tuuraan ja Tuomas sijaasti, kun hän saa sen talon valmiiksi ja katsotaan koska hän palaa. Ja studiossa
-Puhuja 2: kanssani on Maria Manner
+Puhuja 2: olen Marko Jukkari ja edelleenkin Tuomas Peltomäki rakentaa taloaan. Olisikohan saanut kivialaa valmiiksi jo? En ole saanut viimeisimpiä tietoja.
+Puhuja 2: Ei saatu mitään tietoja. Toivottavasti Tuomas jos kuuntelet tätä, niin talo edistyy hyvin. Ja minä tuuraan ja Tuomas sijaasti, kun hän saa sen talon valmiiksi ja katsotaan koska hän palaa. Ja studiossa kanssani on Maria
+Puhuja 2: Manner
 Puhuja 2: sunnuntaitoimituksesta.
 Puhuja 2: Heissä on Maria pitkästä aikaa. Pitkästä aikaa. Onpa kiva nähdä. Milloin olet viimeksi ollut täällä?
 Puhuja 3: Studiossa
@@ -47,7 +47,8 @@ Puhuja 2: maailman asioista kaiken, mutta viime aikoina Heikki on
 Puhuja 2: kirjoittanut
 Puhuja 2: Afganistanista ja hän kirjoitti mainion esseen. Oliko se pari päivää sitten?
 Puhuja 4: Joo, se taisi ilmestyä
-Puhuja 4: tiistaina keskiviikkona.
+Puhuja 4: tiistaina
+Puhuja 4: keskiviikkona.
 Puhuja 2: Joo, se oli hieno kirjoitus, missä Heikki
 Puhuja 2: on itse kirjoittanut lukuisia kirjoja ja yksi niistä oli Narrien laiva, jossa
 Puhuja 2: kuvattiin
@@ -101,8 +102,7 @@ Puhuja 4: painopisteet oli ihan muualla.
 Puhuja 4: Olin
 Puhuja 4: oikeastaan jo lopettanut sen tiedonhankintani
 Puhuja 4: siellä Afganistanissa
-Puhuja 4: ja odotin malttamattomana, että pääsen
-Puhuja 4: kotiin.
+Puhuja 4: ja odotin malttamattomana, että pääsen kotiin.
 Puhuja 4: Ja sitten minulle tarjoutui
 Puhuja 4: tutun tutun, tutun mahdollisuus tavata ja haastatella
 Puhuja 4: huumeidenvastaisen
@@ -159,7 +159,7 @@ Puhuja 2: vähän
 Puhuja 2: niin kuin tavallaan tiedosti tämän tietyn ristiriidan. Ja sitten hän sanoi, mikä pitää kyllä täysin paikkaansa, että tämä
 Puhuja 2: nolla turvapaikanhakijaa
 Puhuja 2: tavoite ei ollut
-Puhuja 2: siinä puheessa ensimmäisen kerran esille tuotu asia, vaan tämä löytyy jostain perussuomalaisten linjauksista jo vuoden tai puolentoista takaa. Hän oli tavallaan toisti
+Puhuja 2: siinä puheessa ensimmäisen kerran esille tuotu asia, vaan tämä löytyy jostain perussuomalaisten linjauksista jo vuoden tai puolentoista takaa. Hän tavallaan toisti
 Puhuja 2: puolueen aiemmin tekemän linjauksen.
 Puhuja 2: Mutta mitä sinä itse?
 Puhuja 3: Muistatko ääneen tämän otsikon? Muistan näin otsikon samana päivänä, kun luin niitä uutisia Kabulista.
@@ -183,7 +183,7 @@ Puhuja 2: heidän politiikkaansa lähtee siitä, että koetetaan
 Puhuja 2: kiristää maahanmuuttopolitiikkaa
 Puhuja 2: kaikilla tavoilla.
 Puhuja 3: Niin. Ajattelen, että tavoite turvapaikkahakija on hieno tavoite. Kaikki me varmaan toivotaan, että
-Puhuja 3: ihmisten ei tarvitse lähteä turvapaikkahajoiksi tai heitä tulisi.
+Puhuja 3: ihmisten ei tarvitse lähteä turvapaikkahajoiksi tai heitä ei tulisi.
 Puhuja 3: Ja oikeasti ajattelen itsekin, että turvapaikkajärjestelmässä on paljon ongelmia.
 Puhuja 3: Kertomusten
 Puhuja 3: arvioiminen täältä käsin on tosi vaikeaa ja todistaminen ja niin edelleen. Verrattuna vaikka kiintiöpakolaisiin, jotka haetaan leiriltä.
@@ -192,8 +192,7 @@ Puhuja 3: niin
 Puhuja 3: kiinnostaisi tietää, mitä
 Puhuja 3: sillä oikein tarkoitti. Mutta sitten huomasin kyllä niin merkille, kun joitain Riikka Purran lausuntoja tällä viikolla luin, että vaikka
 Puhuja 3: näitä Suomea auttaneiden afganistanilaisten
-Puhuja 3: evakuoinnista,
-Puhuja 3: niin
+Puhuja 3: evakuoinnista, niin
 Puhuja 3: vaikka hän painottaa sitä, että
 Puhuja 3: pitää ensisijaisesti auttaa lähialueilla ja he vastustavat humanitaarista maahanmuuttoa, niin hän ei kuitenkaan
 Puhuja 3: tuntunut ykskantaan olevan sitä ajatusta vastaan.
@@ -203,7 +202,8 @@ Puhuja 2: mitenkään erityisen vahvasti. Kyllä. Kiinnitin samaan huomiota. Ja 
 Puhuja 2: minkä hän myös siinä samaisessa puheessaan sanoi useissa haastatteluissa. Eli se, että
 Puhuja 2: Suomen ei pitäisi ottaa nyt Afganistanista
 Puhuja 2: suurta määrää
-Puhuja 2: humanitaarisen avun tarvitsijoita vaan pitäisi auttaa
+Puhuja 2: humanitaarisen
+Puhuja 2: avun tarvitsijoita vaan pitäisi auttaa
 Puhuja 2: ihmisiä
 Puhuja 2: naapurimaissa lähialueella.
 Puhuja 2: Ja sitten taas perussuomalaiset ovat sitten muistuttaneet, että itse asiassa aika moni eurooppalainenkin johtaja on puhunut
@@ -223,15 +223,15 @@ Puhuja 3: niin
 Puhuja 3: Marko
 Puhuja 3: sinä olet
 Puhuja 3: seurannut tätä tarkasti, koska sinä olit siellä puoluekokouksessa.
-Puhuja 3: Seinäjoella kyllä.
+Puhuja 2: Seinäjoella kyllä.
 Puhuja 3: Mutta kerro nyt jotain sieltä, jotain juoruja mitä
 Puhuja 3: et ole kertonut muille?
 Puhuja 2: Olin siis
 Puhuja 2: ekokouksessa
 Puhuja 2: vetämässä liven lähetystä. Että olen siellä höpissyt
 Puhuja 2: kahdeksan tai kymmenen tuntia kahtena päivänä yhteensä.
-Puhuja 2: Oon kyllä sanonut kaiken, mitä olen suikissa pystynyt
-Puhuja 2: repimään irti. Mutta
+Puhuja 2: Oon kyllä sanonut kaiken, mitä mä suinkin saisin
+Puhuja 2: pystynyt repimään irti. Mutta
 Puhuja 2: ehkä pari yleishuomiota
 Puhuja 2: puoluekokouksesta.
 Puhuja 2: Musta se oli erikoinen
@@ -246,26 +246,27 @@ Puhuja 2: jos puheenjohtaja vaali, että siellä ei vain huudeta uutta
 Puhuja 2: puheenjohtajaa sisään, niin se
 Puhuja 2: yleensä aiheuttaa valtavaa
 Puhuja 2: kuhinaa ja kihinää ja pitkien puukkojen
-Puhuja 2: öitä. Vaalia edeltävänä yönä. Ja tehdään sopimuksia ja diilejä. Ja diilejä
-Puhuja 2: ja kannattajat jakaa näitä flyereita siellä kokouspaikalla. Ja on jotenkin semmoinen jännittynyt tunnelma. Ja jotenkin se fraas siinä vaiheessa kun
+Puhuja 2: öitä. Vaalia edeltävänä yönä. Ja tehdään sopimuksia ja diilejä. Ja
+Puhuja 2: diilejä ja kannattajat jakaa näitä flyereita siellä kokouspaikalla. Ja on jotenkin semmoinen jännittynyt tunnelma. Ja jotenkin se fraas siinä vaiheessa kun
 Puhuja 2: äänestys on ollut ja
-Puhuja 2: puheenjohtaja alkaa lukemaan näitä vaalin tuloksia. Niin sieltä tuntui että
-Puhuja 2: ihmiset eivät hengitä, kun ihmisiä ehkä ne kuulee ja miten ihmisiä jännittää, mikä se tulos oli.
+Puhuja 2: puheenjohtaja alkaa lukemaan näitä vaalin tuloksia niin sieltä tuntui että suunnilleen
+Puhuja 2: ihmiset eivät hengitä kun ihmisiä ehkä ne kuulee ja miten ihmisiä jännittää, mikä se tulos oli.
 Puhuja 2: Seinäjoelle ei ollut mitään tästä. Sieltä puuttui täysin tämmöinen
 Puhuja 2: Siellä jaettiin käytävillä jotain flaijereita, mutta nekin olin jonkun varapuheenjohtajanvaali.
 Puhuja 2: Esimerkiksi pyörällä
-Puhuja 2: tai vastaehdokkailla ei ollut sellaista näkyvää
+Puhuja 2: tai vastaehdokkailla
+Puhuja 2: ei ollut sellaista näkyvää
 Puhuja 2: junttauskannatusta
 Puhuja 2: siellä.
 Puhuja 2: Ja
 Puhuja 2: sitten
 Puhuja 2: kun
 Puhuja 2: se tavallaan vaali ratkesi, niin voitti sen... Se meni ensimmäisellä kierroksella.
-Puhuja 2: Voitti ylivoimaisesti
+Puhuja 2: Hän voitti ylivoimaisesti
 Puhuja 2: ja sai sitten aplodit. Mutta sitten puuttui se
-Puhuja 2: hurmos,
-Puhuja 2: missä...
-Puhuja 2: Siellä oli pitkälti
+Puhuja 2: hurmossemiseen...
+Puhuja 2: Siellä
+Puhuja 2: oli kumminkin
 Puhuja 2: toista tuhatta ihmistä.
 Puhuja 2: Yleensä kun puoluek kokouksessa
 Puhuja 2: ihmiset nousevat seisomaan ja on
@@ -276,11 +277,9 @@ Puhuja 2: vaalissa
 Puhuja 2: sekä Sebastian
 Puhuja 2: Tynkkynen että Mauri Peltokangas. Että valitsivat
 Puhuja 2: toiseksi ja kolmanneksi varapuheenjohtajaksi. He saivat
-Puhuja 2: Kun voitti ja julistettiin, niin molemmat saivat ajuudet aplodit kuin porra.
+Puhuja 2: Siinä kun voitti ja julistettiin, niin molemmat saivat ajuudet aplodit kuin porra.
 Puhuja 3: Kiinnostaa kuulla, että mistä tämä innostuksen puute
-Puhuja 3: kertoo tai mistä johtuu. Mutta
-Puhuja 3: varapuheenjohtaja valinnat oli ehkä se
-Puhuja 3: mikä yllätti.
+Puhuja 3: kertoo tai mistä johtuu. Mutta varapuheenjohtaja valinnat oli ehkä se mikä yllätti.
 Puhuja 3: Ja myös eikö sieltä tippunut Juvonen ja...
 Puhuja 2: No, mennään ihan just sen. Mutta se ehkä syy,
 Puhuja 2: miksi se purran voitto oli tavallaan niin ehkä odotettu. Ja sitten kun se
@@ -290,13 +289,14 @@ Puhuja 2: oletti että purra voittaa. Ja kun voitti niin saatiinpahan
 Puhuja 2: asiakohtapöytäkirjasta
 Puhuja 2: hoidettua. Ehkä se oli enemmän tätä.
 Puhuja 3: Miten siinä varapohjaavaalissa?
-Puhuja 3: Mikä siinä oli kyse? Nimet olivat
+Puhuja 3: Mikä siinä oli kyse? Ne olivat
 Puhuja 3: vähintään kiinnostavia. Arto Luukkanen. Sebastian.
-Puhuja 3: Sebastian. Ja sitten Peltokangas.
+Puhuja 3: Sebastian. Ja
+Puhuja 3: sitten Peltokangas.
 Puhuja 2: Aika moni arvioi silloin, kun näiden varapuheenjohtajien
 Puhuja 2: valintojen jälkeen, että koska kuitenkin
 Puhuja 2: sekä Sebastian Tynkkynen että Mauri Peltokangas.
-Puhuja 2: Mauri Peltokangas saisi yhteen kansanryhmää vastaan kiihottamisesta ja Tynkkysänä
+Puhuja 2: Mauri Peltokangas saisi juuri yhteen kansanryhmää vastaan kiihottamisesta ja Tynkkysänä
 Puhuja 2: tuomioitakin on jo vaikka kuinka monta. Molemmat edustavat
 Puhuja 2: sitä
 Puhuja 2: ärhäkkää
@@ -310,9 +310,9 @@ Puhuja 2: puoluesihteeri valinnassa tämä
 Puhuja 2: istuva puoluesihteeri Simo Grönroos oli Suomen sisulainen.
 Puhuja 2: Ja sitten tämä Arto Lukkainen, joka on tällainen SMP-henkinen
 Puhuja 2: leppoisa
-Puhuja 2: teologian tohtori on... Tai en ihan muuta. Vaikka varapuheenjohtajan
-Puhuja 2: valinnoissa mentiin ehkä vähän sinne
-Puhuja 2: Suomen Sisun suuntaan. Mutta sitten taas puoluesihteerivalinnassa
+Puhuja 2: teologian tohtori on... Tai en ihan muuta. Vaikka varapuheenjohtajanvarinnoissa
+Puhuja 2: mentiin ehkä vähän
+Puhuja 2: sinne Suomen Sisun suuntaan. Mutta sitten taas puoluesihteerivalinnassa
 Puhuja 2: mentiin toiseen suuntaan. En tiedä pystyykö näkemään
 Puhuja 2: että mihin puolue
 Puhuja 2: siirtyi. Koska minun mielestä
@@ -322,11 +322,12 @@ Puhuja 2: joka tapauksessa. En tiedä mahtuuko siitä oikein liikkumaan mihinkä
 Puhuja 3: Mutta oliko se tyytymättömyyden ilmaus
 Puhuja 3: istuvia?
 Puhuja 3: Muistatko oikein nyt että Eerolla ja... Joo.
-Puhuja 2: Ensimmäinen puheenjohtaja valitaan, että siellä oli kansanedustaja Leena Meri täysin ylivoimainen.
+Puhuja 2: Ensimmäinen puheenjohtaja valitaan, että siellä oli
+Puhuja 2: kansanedustaja Leena Meri täysin ylivoimainen.
 Puhuja 2: Hän oli myös tavallaan
 Puhuja 2: ennakkosuosikki ja näin edespäin.
 Puhuja 2: Kaikissa näissä
-Puhuja 2: vaaleissa oli siis useampia ehdokkaita mutta se Leena
+Puhuja 2: vaaleissa oli siis useampia ehdokkaita, mutta se Leena
 Puhuja 2: Meri
 Puhuja 2: oli jotenkin selvä jo etukäteen.
 Puhuja 2: Toinen
@@ -339,7 +340,8 @@ Puhuja 2: Tai
 Puhuja 2: ei muuta ainoa,
 Puhuja 2: mutta eduskunnassa keskeinen
 Puhuja 2: sote.
-Puhuja 2: Hänellä on terveydenhoitoalan tausta
+Puhuja 2: Hänellä on terveydenhoitoalan
+Puhuja 2: tausta
 Puhuja 2: ja
 Puhuja 2: on harvoja perussuomalaisia
 Puhuja 2: jotka on tosi syvästi paneutunut vaikka soteuudistukseen.
@@ -370,8 +372,9 @@ Puhuja 2: saa varmaan aika samalla tavalla.
 Puhuja 2: Sebastian Tynkkysellä
 Puhuja 2: on tosi vankka kannatus
 Puhuja 2: puolueen sisällä.
-Puhuja 3: Okei. Jännittävää nähdä...
-Puhuja 3: Tai no jännittää, ehkä juoksee nähdä, millaiseksi nähdä millaiseksi se muodostuu Luukkaanenkin.
+Puhuja 2: Okei.
+Puhuja 3: Jännittävää nähdä... Tai no jännittävää, miten jaksia sanoo,
+Puhuja 3: mutta myös jännittävää nähdä, että millaiseksi se muodostuu Luukkaanenkin.
 Puhuja 3: Puoluesihteerinä varmaan tulee olemaan näkyvämpi
 Puhuja 2: paineen kanssa samaan aikaan siellä pörräsimme ja muistan hänet.
 Puhuja 2: Myös itseäni

@@ -16,9 +16,10 @@ Puhuja 2: Helsingin Sanomat.
 Puhuja 1: Hei ja tervetuloa Helsingin Sanomien uutisraportti
 Puhuja 1: podcastiin torstaina viisitoista. Heinäkuuta.
 Puhuja 1: Minun nimeni on Emil Elo ja kanssani täällä Sanomatalon viileässä seiska-kerroksen studiossa ovat Helsingin Sanomien ulkomaantoimittaja Sara Vainio. Moikka. Sekä HSY:n
-Puhuja 1: teknologiatoimittaja Niklas Storaos. Moi.
+Puhuja 1: teknologiatoimittaja Niklas Storaos.
+Puhuja 1: Moi.
 Puhuja 1: Käydään heti nyt nämä ilmoitusluontoiset
-Puhuja 1: asiat läpi. Nyt on ihan saakelin kuuma ulkona. Ja me ollaan duunissa.
+Puhuja 1: asiat läpi. Nyt on ihan saakelin kuuma ulkona ja me ollaan duunissa.
 Puhuja 1: Niklas puhu mulle, miten olet pärjännyt?
 Puhuja 3: Täytyy sanoa, että kyllä lämpö on vaikuttanut yöuniin.
 Puhuja 3: Oma yrittäjä pitää ikkunat auki, mutta ei se auta ja tuuletin päällä.
@@ -27,13 +28,14 @@ Puhuja 3: on tullut nukuttua aika huonosti viimeiset pari viikkoa.
 Puhuja 1: Karseita,
 Puhuja 1: Sara.
 Puhuja 2: Mullakin alkaa olla energiat aika lopussa. Oon nyt
-Puhuja 2: päässyt onneksi täksi viikoksi töihin tänne Sanomataloon,
-Puhuja 2: ilmastoituun tilaan, mutta pääsin tänne sillä verukkeella, että pyörryin himaan.
+Puhuja 2: päässyt onneksi täksi viikoksi töihin tänne Sanomataloon
+Puhuja 2: ilmastoituun
+Puhuja 2: tilaan, mutta pääsin tänne sillä verukkeella, että pyörryin himaan.
 Puhuja 2: Se
 Puhuja 2: on kaksikymmentäyksi neliötä. Se on sellainen pieni sauna.
-Puhuja 2: En myöskään saa nukuttua, vaan
+Puhuja 2: Ja myöskään en saa nukuttua, vaan
 Puhuja 2: pari kertaa jo. Tämä on tällainen uusi talo, olen vasta muuttanut.
-Puhuja 2: Pari kertaa jo viikonloppyönä
+Puhuja 2: Pari kertaa jo viikonloppupyönä
 Puhuja 2: herännyt siihen, että joku väkivaltaisesti oksentaa.
 Puhuja 1: Okei.
 Puhuja 1: Tein sen, mitä kaikki yli kolmekymppiset keski-ikäisetvät
@@ -55,7 +57,8 @@ Puhuja 1: kuinka kauan vielä?
 Puhuja 2: Kyllä.
 Puhuja 1: Sara, kerro vähän, mitä tästä pitää tietää? Sinä olet ulkomaantoimittaja.
 Puhuja 2: Joo,
-Puhuja 2: tuota... Ensinnäkin en tiedä, voiko sanoa, että tosi isot protestit, jos puhutaan
+Puhuja 2: tuota... Ensinnäkin en tiedä, voiko sanoa, että tosi isot
+Puhuja 2: protestit, jos puhutaan
 Puhuja 2: tuhansista ihmisistä.
 Puhuja 2: Suurimmassa osassa maista, tonkan kokoisista maista, sitä ei pidettäisi kauhean isona.
 Puhuja 2: Sanoisin, että ne ovat merkittäviä uutisarvoisia
@@ -100,9 +103,8 @@ Puhuja 2: ihanalta.
 Puhuja 2: Koska tätä olen itse ajatellut, että totta kai se saastuttaminen maksaa jo nyt. Se maksaa aina jollekin. Se maksaa meille kaikille ja vähintään ympäristölle.
 Puhuja 2: Olisi hyvä, että ne olisivat konkreettisemmin
 Puhuja 2: niillä, jotka tekevät
-Puhuja 2: vastuu.
-Puhuja 2: Toki
-Puhuja 2: nyt on tullut kritiikkiä, että nyt tässä sysätään ne maksut
+Puhuja 2: sen vastuu.
+Puhuja 2: Toki nyt on tullut kritiikkiä, että nyt tässä sysätään ne maksut
 Puhuja 2: kuluttajien maksettavaksi. Mutta eihän se ikinä niin meidän markkinoilla. Kyllähän sitten jos on mahdollista tehdä ympäristöystävällisemmin ja säästää
 Puhuja 2: niissä hiilikuluissa,
 Puhuja 2: niin sitten tulee niitä vaihtoehtoja ja ne on halvempia.
@@ -113,8 +115,7 @@ Puhuja 3: En tiedä, mitä tämä tulee ratkeamaan, mutta kuitenkin maailmantalo
 Puhuja 3: aina tosi iso tekijä on ollut energia ja energian hinta. Tällä hetkellä Suomen energiasta puolelta tulee rajan takaa
 Puhuja 3: Venäjältä.
 Puhuja 3: Ja
-Puhuja 3: jos
-Puhuja 3: ei saarekkaiselle enää halpaa energiaa, joka ikävä kyllä saastuttaa,
+Puhuja 3: jos ei saarekkaiselle enää halpaa energiaa, joka ikävä kyllä saastuttaa,
 Puhuja 3: niin mistä me saadaan? Se hyvä kysymys, että tuulivoima ei yksinään tule riittämään
 Puhuja 3: Ja rakennetaanko me lisää ydinvoimaloita,
 Puhuja 3: tuleeko tämä Ruotsista, Norjasta,
@@ -144,7 +145,8 @@ Puhuja 2: pärjääminen,
 Puhuja 2: jos ajatellaan, että ne päästöt nolla tai jos ajatellaan, että tämä homma menee kestävälle pohjalle.
 Puhuja 1: Tuliko teille eilen sellainen luottamus, että hei, ehkä sittenkin
 Puhuja 1: taklataan tämä
-Puhuja 1: vuosisadan katastrofi, mikä tuossa nurkan takana siinä tehdään. Tulit kyllä vähänkin, koska tässä on ollut aika dystooppisia fiiliksiä viime vuodet ainakin itselläni
+Puhuja 1: vuosisadan katastrofi,
+Puhuja 1: mikä tuossa nurkan takana siinä tehdään. Tulit kyllä vähänkin, koska tässä on ollut aika dystooppisia fiiliksiä viime vuodet ainakin itselläni
 Puhuja 1: tämän aiheen ympärillä. Mulle tuli eilen sellainen, että hei,
 Puhuja 3: tämä voidaankin hoitaa. Tervetuloa kerhoon. Mulle on naurettu, kun olen viime aikoina puhunut, että mulla on ollut jotenkin luottavainen fiilis tässä ehkä
 Puhuja 3: tänä keväästä asti. Se on ollut enemmän, ei mihinkään rationaaliseen
@@ -156,7 +158,7 @@ Puhuja 3: en tiedä, onko täällä totuus, mutta siltä musta alkaa tuntua, kos
 Puhuja 3: näitä asioita seurannut yli kymmenen vuotta ja ollut suht kriittinen ja tuntuu, että nyt saa jotain konkreettista oikeasti
 Puhuja 3: aikaiseksi. Jos katsoo
 Puhuja 3: isot teollisuudenaloja, miten ne on muuttunut, mutta on hyvä kysymys, että onko ne riittävät ne toimet.
-Puhuja 3: Tai riittää nopeudet. Niin, riittää nopeudet. Hyvin mahdollista, että ei ole.
+Puhuja 3: Tai riittää nopeudet. Riita on nopeudet. Hyvin mahdollista, että ei ole.
 Puhuja 3: Niin.
 Puhuja 3: Samaa samaa Ermeltä.
 Puhuja 2: Ei ne ole, valitettavasti.
@@ -178,7 +180,8 @@ Puhuja 2: Mutta mun mielestä
 Puhuja 2: tiede ei tue.
 Puhuja 3: Jos jotain lukuja yritän kaivaa mielestä, niin eikö se seitsemän prosenttia
 Puhuja 3: suunnitella laskea hiilipäästö joka vuosi, että me päästäisiin näihin tavoitteisiin. Ja me ei olla siis siinä.
-Puhuja 3: Näen ehkä tämän tilanteen, että nyt on taapera, joka yrittää opetella
+Puhuja 3: Näen
+Puhuja 3: ehkä tämän tilanteen, että nyt on taapera, joka yrittää opetella
 Puhuja 3: kävelemään, niin se kompuroi vielä. Ja en tiedä, oppiko se kävelemään kuitenkaan.
 Puhuja 2: Vaan. Niin, tässä yritetään olla
 Puhuja 2: itsellemme tämmöisiä kannustavia vanhempia.
@@ -196,7 +199,8 @@ Puhuja 1: on toista tuhatta pitkälle,
 Puhuja 1: eli tämä ei ole mikään
 Puhuja 1: koko alaa koskettava ongelma, mutta
 Puhuja 1: siellä pesii
-Puhuja 1: tietynlainen ongelma.
+Puhuja 1: tietynlainen
+Puhuja 1: ongelma.
 Puhuja 1: Tarkastuskertomuksissahan
 Puhuja 1: luettiin. Oli luettavissa, että siellä on valtavia puutteita työntekijöiden
 Puhuja 1: oikeuksien suhteen. Työaikakirjanpito
@@ -220,8 +224,7 @@ Puhuja 2: muuttuisi.
 Puhuja 3: Tämä on todella mielenkiintoinen kysymys. Ja
 Puhuja 3: ylipäätään tässä ehkä myös
 Puhuja 3: me voidaan huomata, minkä takia ammattiliitot on ihan jees juttu.
-Puhuja 3: Ja tavallaan, että kuka turvaa
-Puhuja 3: näiden ulkomailta tulevien kaukijoiden työläisten oikeudet.
+Puhuja 3: Ja tavallaan, kuka turvaa näiden ulkomailta tulevien kaukijoiden työläisten oikeudet.
 Puhuja 3: Ei ole
 Puhuja 3: etujärjestöjä ilmeisesti olemassa. Tai en tiedä onko, mutta näin on ymmärtää, että ei ole.
 Puhuja 3: Samalla tavalla kuin jos puhutaan
@@ -229,7 +232,8 @@ Puhuja 2: lähettioikeudesta, että kuka katsoo, että näitä ihmisiä riistet�
 Puhuja 2: Se ei ole mikään sivuainesia tai vahinko, jos työsopimuksessa
 Puhuja 2: ei määritellä palkkaa.
 Puhuja 2: Ei se ole mikään, että oho, en huomannut tai tajunnut.
-Puhuja 1: Se on mielestäni jännä, että sen taakse ei ole tullut mitään
+Puhuja 1: Se on mielestäni jännä, että sen
+Puhuja 1: taakse ei ole tullut mitään
 Puhuja 1: liittoa.
 Puhuja 1: Toki osasyynnsi on se,
 Puhuja 1: että kausityöntekijät
@@ -237,7 +241,7 @@ Puhuja 1: tulee ripotellen sieltä täältä.
 Puhuja 1: Hehän ei ole mikään yhtenäinen joukko, kun sitten taas aikanaan on ollut joku telakallo tai tehtaalla.
 Puhuja 2: Se on ollut yhteisö, missä ollaan. Niin, on ihmisiä, joiden tulot ja asema tulee siitä, että ne hoitaa nimenomaan sellaisia työntekijöitä tänne, jotka
 Puhuja 2: on valmiita tekemään töitä eri ehdoilla kuin millä täällä
-Puhuja 3: periaatteessa niitä pitäisi tehdä. Tämä aihe on ollut esillä mun mielestä vuosikaudet. Siis tämä on niin joka vuosi pulpahtanut. Oletteko käynyt marjatiloilla. Mä oon ainakin kesätoimittajana käynyt. Joo, mä oon käynyt itse poimimassa siellä marjat. Jopa on hernetilalla.
+Puhuja 3: periaatteessa niitä pitäisi tehdä. Tämä aihe on ollut esillä mun mielestä vuosikaudet. Siis tämä on niin joka vuosi pulpahtanut. Oletteko käynyt marjatiloilla. Mä olen ainakin kesätoimittajana käynyt. Joo, mä oon käynyt itse poimimassa siellä marjat. Jopa on hernetilalla.
 Puhuja 1: Mutta
 Puhuja 1: siis
 Puhuja 3: se,
@@ -245,11 +249,11 @@ Puhuja 3: että
 Puhuja 3: mä en tiedä, mikä on se juurisyy tälle ongelmalle. Onko se vain niin, että nämä tilalliset
 Puhuja 3: tai työtä välittävät tahot
 Puhuja 3: ei ole riittävän ammattitaitoisia?
-Puhuja 3: Vai onko niin teidän tarpeeksi valvontaa, pitäisikö sitä olla?
-Puhuja 2: Miten te olette nähneet sen? Musta
+Puhuja 3: Vai onko niin teidän tarpeeksi valvontaa, pitäisikö sitä olla? Mä en oikein osaa sanoa. Miten te olette nähneet sen? Musta
 Puhuja 2: tuntuu, että ne argumentit on,
 Puhuja 2: että tätä voi hoitaa vaan.
-Puhuja 2: Että nämä säännöt on kohtuuttomia ottaen huomioon tämän alan tarpeet. Mutta vasta-argumentti
+Puhuja 2: Että nämä säännöt on kohtuuttomia
+Puhuja 2: ottaen huomioon tämän alan tarpeet. Mutta vasta-argumentti
 Puhuja 1: tuohon on heti se, että valtaosa näistä marjatiloista on hoitanut ilmeisesti asiansa ihan hyvin. Tavallaan, että työntekijöiden
 Puhuja 1: oikeudet pätee ja niillä on ihan kelvolliset. Joo, tuo on tosi huono argumentti.
 Puhuja 1: Ole. Siirryn vadelma ihmiseksi, mikäli tällaiseksi menee
@@ -268,8 +272,9 @@ Puhuja 3: Eli jokaiseen mansikkafirmaan tarvitaan vastuullisuusjohtaja.
 Puhuja 2: Semmoiselle turkisalalinjalle.
 Puhuja 2: Jos
 Puhuja 2: sitä hommaa ei voi hoitaa hyvin
-Puhuja 2: tai mitenkään eettisesti, niin ei sitä tarvitse hoitaa.
-Puhuja 1: Tämä keskusteluhan tätä voi vähän skaalata, koska eri laskelmien mukaan Suomi tulee tarvitsemaan noin satakolmekymmentä nolla
+Puhuja 2: tai mitenkään eettisesti,
+Puhuja 2: niin ei sitä tarvitse hoitaa.
+Puhuja 1: Tämä keskusteluhanhan tätä voi vähän skaalata, koska eri laskelmien mukaan Suomi tulee tarvitsemaan noin satakolmekymmentä nolla
 Puhuja 1: työperäistä maahanmuuttajaa tämän vuosikymmenen aikana.
 Puhuja 1: Se on fakta. Siitä Suomi ei pääse mihinkään.
 Puhuja 1: Huoltosuhdekriisi
@@ -298,8 +303,8 @@ Puhuja 2: käy läpi näitä hakemuksia
 Puhuja 2: Suomeen töihin.
 Puhuja 2: Siellä on ihan hirveän ongelmallisia
 Puhuja 2: rakenteita taustalla.
-Puhuja 2: Sieltä hakee sellaisia ihmisiä töihin, jotka eivät selvästikään ymmärrä, mihin ne ovat hakemassa
-Puhuja 2: ja ne ovat selvästi jo velkaa niille ihmisille,
+Puhuja 2: Sieltä hakee sellaisia ihmisiä töihin, jotka eivät selvästikään ymmärrä, mihin ne on hakemassa
+Puhuja 2: ja ne on selvästi jo velkaa niille ihmisille,
 Puhuja 2: jotka niitä auttavat hakemaan Suomeen töihin.
 Puhuja 1: Tämä on mun mielestä sellainen,
 Puhuja 1: tässä menee johonkin tosi työelämän
@@ -325,8 +330,7 @@ Puhuja 2: En tiedä, kuinka hyvin se tavoittaa ne työntekijät, jotka tänne tu
 Puhuja 2: Just siinä marjanpoimija jutussa viitattiin
 Puhuja 2: siihen.
 Puhuja 3: Joo,
-Puhuja 3: ja
-Puhuja 3: siivousala. Tosi paljon se ikäviä stooreja. Jos ihmiset ei osaa kiellä tarpeeksi hyvin, niin niille ei tehdä työsopiparia, niille alle minimipalkan
+Puhuja 3: siivousala, tosi paljon se ikäviä stooreja. Jos ihmiset ei osaa kiellä tarpeeksi hyvin, niin niille ei tehdä työsopiparia, niille alle minimipalkan
 Puhuja 3: pidetään hommisti tyyppisesti.
 Puhuja 3: Tämä harmaa talous tavallaan linkittyy myös tähän,
 Puhuja 3: mutta tämä on niin pitkään jatkunut
@@ -334,12 +338,12 @@ Puhuja 3: ongelma, että on kummallista, että siihen ei mitään konkreettisia
 Puhuja 1: työkaluja löytynyt, millä tätä saataisiin jotenkin purettua. Sitten on jännä, että poliittista tahtoa ei ollut, koska onhan tässä, niin kuin säkin sanoit, mun mielestä tämä on keskustelu, mutta tätä on käyty niin kauan kuin mä olen seurannut mediaa.
 Puhuja 1: Poliittiset
 Puhuja 1: puolueet on vaihtunut hallituksesta.
-Puhuja 1: Siellä on ollut eri koko On ollut eri puolueiden pääministerejä.
+Puhuja 1: Siellä on ollut eri koko mpana ja on ollut eri puolueiden pääministerejä.
 Puhuja 1: Kukaan ei ole ottanut sitä asiakseen.
 Puhuja 1: Missään vaiheessa
 Puhuja 1: politiikassa, että hei, nyt hoidetaan tämä kuntoon. Että näin ulkomaiset
 Puhuja 1: työntekijät saa ihan samat oikeudet kuin suomalaiset. Jos jotain Paavo
-Puhuja 2: Teitteisen ansiokkaista jutuista olen oppinut,
+Puhuja 2: Teitteisen ansiokkaista jutuista on oppinut,
 Puhuja 2: jotka oli ongelmista
 Puhuja 2: ja ihmiskaupasta
 Puhuja 2: siivousalalla ja ravintola-alalla
@@ -352,8 +356,7 @@ Puhuja 1: Olin ymmärtäminen, että teillä oli vähän kiireelliset suositukse
 Puhuja 1: Mitä te
 Puhuja 1: suosittelette, Sara?
 Puhuja 2: Kun puhuin tuosta kuupasta ja sanoin,
-Puhuja 2: että se on paikka, jonka ihmisten ajatuksia on vaikea ymmärtää,
-Puhuja 2: niin jotenkin heti mieli suositella sitä, että ihmiset kävisivät siellä. Myös sen takia, että se helpottaisi niiden ihmisten arkea.
+Puhuja 2: että se on paikka, jonka ihmisten ajatuksia on vaikea ymmärtää. Muutenkin heti mieli suositella sitä, että ihmiset kävisivät siellä. Myös sen takia, että se helpottaisi niiden ihmisten arkea.
 Puhuja 2: Tai taloustilannetta.
 Puhuja 2: Mutta koska matkustamisen suositteleminen on näinä aikoina monestakin syystä ongelmallista,
 Puhuja 2: niin
@@ -375,7 +378,8 @@ Puhuja 3: sellaisia aika tuoreita tai itse asiassa kaksituhatta vuotta vanhoja v
 Puhuja 3: Seneca
 Puhuja 3: elämän lyhyydestä
 Puhuja 3: kirja.
-Puhuja 3: Tämä on ihan mahtava kirja, jonka Juhana Torkki taisi kääntää sen suomeksi muutama vuosi sitten.
+Puhuja 3: Tämä on ihan mahtava kirja, jonka Juhana Torkki taisi kääntää sen suomeksi
+Puhuja 3: muutama vuosi sitten.
 Puhuja 3: Myytin saman tien loppuun se painos, mutta sitä ilmeisesti saa vielä jostain.
 Puhuja 3: Se
 Puhuja 3: oikeastaan kertoo,
@@ -394,16 +398,17 @@ Puhuja 1: Pitäisi kirjoittaa enemmän.
 Puhuja 1: Suositukseni
 Puhuja 1: liittyy myös esihistoriaan tietyllä tavalla. Olen aina ollut kiinnostunut,
 Puhuja 1: onko esimerkiksi virtuasteeettista oikea sana, mutta siihen, kun joku osaa jonkun asian tosi hyvin. Sen takia
-Puhuja 1: ennen pandemiaa tikkasin käydä katsomassa RSOY
-Puhuja 1: konsertteja, koska siellä oli jotain muusikoita, jotka osasi tehdä jonkun asian tosi hyvin tai jossain urheilussa katsoa, kun joku seiväs hyppää ja tekee jotain, mitä en ikinä osaisi tehdä.
+Puhuja 1: ennen pandemiaa tikkasin käydä katsomassa RSOY-konsertteja,
+Puhuja 1: koska siellä oli jotain muusikoita, jotka osasi tehdä jonkun asian tosi hyvin tai jossain urheilussa katsoa, kun joku seiväs hyppää ja tekee jotain, mitä en ikinä osaisi tehdä.
 Puhuja 1: Olen kuunnellut viime aikoina tosi paljon musiikkia
 Puhuja 1: ihan jatkuvasti. Minulla on ollut koko ajan Spotify päällä.
 Puhuja 1: Törmäsin
 Puhuja 1: Rowlingstone's
 Puhuja 1: huusimpaan levyyn, joka julkaistiin viime viikolla Biger Bang niminen live-albumi.
-Puhuja 1: En ole mikään fani, koska mä en ole kahdeksankymmentäviisi,
+Puhuja 1: En ole mikään fani,
+Puhuja 1: koska mä en ole kahdeksankymmentäviisi,
 Puhuja 1: niin kuin keskiverto
-Puhuja 1: keskiverto fani ehkä on. Mutta sitten kuuntelin sitä ja tajusin, että yhtään virheitä tälle levyllä. He ovat soittaneet näitä samoja biisejä kuusikymmentä vuotta. Se on aika siistin kuuloista, kun jotkut on treenannut yhtä kolmen minuutin
+Puhuja 1: keskiverto fani ehkä on. Mutta sitten kuuntelin sitä ja tajusin, että yhtään virheitä tälle levyllä. He on soittanut näitä samoja biisejä kuusikymmentä vuotta. Se on aika siistin kuuloista, kun jotkut on treenannut yhtä kolmen minuutin
 Puhuja 1: settiä
 Puhuja 1: kuusikymmentä
 Puhuja 1: vuotta.

@@ -69,7 +69,8 @@ Puhuja 0: tarjosi
 Puhuja 0: Helsingin Sanomien
 Puhuja 0: politiikan
 Puhuja 0: toimittaja.
-Puhuja 0: Ympäristöasioihin erikoistunut
+Puhuja 0: Ympäristöasioihin
+Puhuja 0: erikoistunut
 Puhuja 0: politiikan toimittaja. Kyllä.
 Puhuja 0: Mutta et kuitenkaan erikoistoimittaja?
 Puhuja 2: Ei.
@@ -132,7 +133,7 @@ Puhuja 1: Eikö se ole aina niin,
 Puhuja 1: että joku suomalainen menee johonkin ulkomaan mediaan vähän moittimaan Suomeen, niin sitten ollaan omaan
 Puhuja 1: pesään.
 Puhuja 2: Sama metsäkeskustelussa,
-Puhuja 2: kun ympäristö aktivisti erehtyy kertomaan johonkin
+Puhuja 2: jos ympäristö aktivisti erehtyy kertomaan johonkin
 Puhuja 2: Keski-Eurooppaan jostain kyseenalaisista hakkuista, Mitä menette likaamaan omaa pesää ja meidän metsäyhteyden mainetta? Niin, kyllä.
 Puhuja 1: Onhan se kiinnostava, kaikki nämä meidän
 Puhuja 1: on puhuttu näistä perustuslakit talli paneeista. Ja selvästi on viimeisinä vuosina kiihtynyt entisestään
@@ -157,13 +158,12 @@ Puhuja 0: ihminen, niin hän
 Puhuja 0: vie
 Puhuja 0: tämän asian Euroopan
 Puhuja 0: ihmisoikeustuomioistuimeen,
-Puhuja 0: koska sillä tavalla yleensä näihin tulee ne linjaukset, että
-Puhuja 0: rajan yli pyrkijät itsemurhasta.
+Puhuja 0: koska sillä tavalla yleensä näihin tulee ne linjaukset, että ne rajan yli pyrkijät itsemurhaan.
 Puhuja 2: Tässä nimenomaan ei ollut oikeutta
 Puhuja 2: valittaa
 Puhuja 2: tuomioistuimiin. En tiedä, olisivatko ne pystynyt suoraan valitsemaan eurooppalaisen tuomiosta. Olisiko tässä lajissa oli just se, että suomalaisiin tuomioistuimiin ei voi valittaa.
 Puhuja 0: Joo, kyllä. Mutta siis mun ymmärryksen mukaan tässä on kyse siitä, että ei ole ihmisiä,
-Puhuja 1: jotka olisi valittanut sieltä kännykän. Niin, eihän tätä lakia ole sovellettu, kun tämä on ikään kuin pöytälaatikossa oleva laki, jota otetaan käyttöön... Sen vuoksi ei voida mennä tätä prosessia vaan, että prosessia on... Myöskin sen vuoksi, että sitä ei voi, Laki on tehty niin, että sitä ei voi valittaa ainakaan. Meidänkin
+Puhuja 1: jotka olisi valittanut sieltä kännykän. Niin, eihän tätä lakia ole sovellettu, kun tämä on ikään kuin pöytälaatikoissa oleva laki, jota otetaan käyttöön... Sen vuoksi ei voida mennä tätä prosessia vaan, että prosessia on... Myöskin sen vuoksi, että sitä ei voi, Laki on tehty niin, että sitä ei voi valittaa ainakaan. Meidänkin
 Puhuja 1: duunissa tää logiikka näkyy välillä silleen, että kun me tehdään tämmöisen julkisuuslain mukaisia tietopyyntöjä. Niin sitten kun viranomainen
 Puhuja 1: kieltäytyy antamasta
 Puhuja 1: vastausta.
@@ -222,11 +222,10 @@ Puhuja 0: niin kuin monessa maassa. Se on ihan erillinen tuomioistuin sitä vart
 Puhuja 0: perustuslakivaliokunnan,
 Puhuja 0: joka pysyi suomalaisten omissa hyppysissään. Ja sen takia... Jos sain tulkinta pysymään suomalaisessa hyppysissä. Aivan pohjat. Siis Ståhlbergin vika. Tai siis ansio,
 Puhuja 1: tässä tapauksessa.
-Puhuja 0: Mitä tuori kertoi, mitä mä en tajun enkä tiennyt, oli se, että perustuslakivaliokunta
+Puhuja 0: Mitä tuori kertoi, mitä mä en tajun enkä tiennyt, oli se, että perustuslakivaliokunta,
 Puhuja 0: ja tullaan siihen, miten tämä liittyy tähän
 Puhuja 0: tämänhetkiseen tilanteeseen, niin se oli ennen semmoinen todella, todella arvostettava.
-Puhuja 0: Jos pääsit sinne istumaan, niin oli todellakin kansakunnan kahvin päällä. Tavallaan
-Puhuja 0: presidentit itse istui siellä, että se oli tämän tyylinen, siis tai tulevat presidentit.
+Puhuja 0: Jos pääsit sinne istumaan, niin oli todellakin kansakunnan kahvin päällä. Siellä istui tavallaan presidentit itse istui siellä, että se oli tämän tyylinen, siis tai tulevat presidentit.
 Puhuja 0: Siellä olit
 Puhuja 0: kaikista napamiesten napamies tai nainen, niin sitten istuit siellä. Se oli suurta gloriaa ja kaikkea tällä tavalla. Perustuslakien valiokunta
 Puhuja 0: oli
@@ -237,7 +236,7 @@ Puhuja 0: Mikä on tilanne tällä hetkellä on se, että
 Puhuja 0: jos sut nimetään
 Puhuja 0: perustuslakivaliokuntaan,
 Puhuja 0: se on suolakaivos,
-Puhuja 0: johon sä häviät. Sä katsot täysin julkisuudesta, todennäköisesti menetät sun kansanedustaja paikan, joten mitä puolue tekee on, että sinne pistetään kaikki untuviikko kansanedustajat
+Puhuja 0: johon sä häviät. Sä katsot täysin julkisuudesta, todennäköisesti menetät sun kansanedustaja paikan, joten mitä puolue tekee on silleen, että sinne pistetään kaikki untuviikko kansanedustajat
 Puhuja 0: räpiköimään
 Puhuja 0: ja yrittämään pärjäämään ilman, että ketään kiinnostaa, mitä sä siellä puuhaat.
 Puhuja 0: Nämä kansanedustajat perustuslakivaliokunnassa
@@ -249,7 +248,8 @@ Puhuja 2: poliitikon uraa. Just yksi kansanedustaja sanoi mulle meiltä mainitse
 Puhuja 2: Ja sen jälkeen hallitusta muodostettiin ja valiokuntapaikkoja jaettiin, niin käsittääkseni kokoomus kyllä aika ensimmäisten joukossa halusi
 Puhuja 2: Pevin perustuslakivaliokunnan.
 Puhuja 2: Joo,
-Puhuja 1: ja varmasti hyvistä poliittisista syistä, mikä onkin se ongelma. Eihän meillä
+Puhuja 1: ja varmasti hyvistä poliittisista syistä, mikä onkin se ongelma.
+Puhuja 1: Eihän meillä
 Puhuja 1: lähtökohtaisesti pitäisi olla esimerkiksi tilannetta, että
 Puhuja 1: jotain Pevin tiettyä paikkaa poliittisista syistä havitellaan. Se on lähtökohtaisesti.
 Puhuja 1: Kyllähän meillä on
@@ -261,15 +261,15 @@ Puhuja 1: intohimoja.
 Puhuja 1: Kyllä mä vähän tuorin kanssa olisin jotenkin. Mä tiedän, että jossain
 Puhuja 1: perustuslakituomioistuimessa
 Puhuja 1: on omat
-Puhuja 1: kysymyksensä.
-Puhuja 1: Miten tuomarit
+Puhuja 1: kysymyksensä. Miten tuomarit
 Puhuja 1: yrittävät vaalia ideaa, että kun sinne mennään ovesta sisään,
 Puhuja 1: puolueet jäävät käytävälle.
 Puhuja 1: Mutta kun mun mielestä alkaa olla jotenkin kauhean ilmeistä, että näin ei tosiasiallisesti
 Puhuja 0: käy... Kyllä, oli professorien. Se oli kylmää vain katsoa. Tai sinne tuli professori toisensa perään. Heidän viesti monilla eri tavoilla ilmaistuna oli se, että tämä... Ja Paulin Koskela käytti ilmaisua, että tämä on hyvän sään systeemi.
 Puhuja 0: Ei tule toimimaan, jos tulee myrskyä.
 Puhuja 0: Eli meillä ei tule... Se on täysin informaali. Se perustuu silleen, että hei, aina täällä on näin tehty. Älä nyt repeä kehtaa, että ei meillä ole ruuhkattu tuolla tavalla. Palveleiden saatu yksimielisiä.
-Puhuja 0: Jos tämä meno tästä kiristyy ja me kaikki pystytään katsomaan ympärille maailmassa... Suomessahan tilanne on aika hyvä. Meidän
+Puhuja 0: Jos tämä meno tästä kiristyy ja me kaikki pystytään katsomaan ympärille maailmassa... Suomessahan tilanne on aika hyvä.
+Puhuja 0: Meidän
 Puhuja 0: eksradikaalipuolue
 Puhuja 0: persutkin on aika sääyseitä nykyään ja näin. Suomessa on ihan hyvä tilanne. Mutta jos katsotaan maailman menoa, aika hurjaksi on menossa.
 Puhuja 0: Onko tulossa huonoa säätä? No, musta ainakin näyttää, että mahdollisuus
@@ -285,8 +285,7 @@ Puhuja 0: se otetaan valtaan. Mutta
 Puhuja 1: silloin, kun Peviin tuodaan asioita, jotka on poliittisesti
 Puhuja 1: tosi isoja sote-uudistustyyppistä
 Puhuja 1: tasoa tai jotain vähän samankaltaista, jotka on ihan äärimmäisen
-Puhuja 1: tärkeitä niille hallituksessa oleville
-Puhuja 1: puolueille, osalle tai kaikille.
+Puhuja 0: tärkeitä niille hallituksessa oleville puolueille, osalle tai kaikille.
 Puhuja 1: Tai
 Puhuja 1: Sitten tavallaan mennään silloin, kun sulla on hirveä
 Puhuja 1: poliittinen tahtotila ja äänestäjien paine ja puolueen paine niskassa.
@@ -303,14 +302,13 @@ Puhuja 1: päätyisit puolueettomana
 Puhuja 1: toteamaan, että kyllä. Kyllä, se voidaan toteuttaa.
 Puhuja 0: Ei
 Puhuja 1: ole ongelmaa.
-Puhuja 0: Kyllä. Okei,
+Puhuja 2: Kyllä. Okei,
 Puhuja 0: kun,
 Puhuja 0: tuota...
 Puhuja 0: Kun menette...
 Puhuja 0: Mikä se oli, se yksi
 Puhuja 0: ravintola Helsingissä? Madonna-nimisen
-Puhuja 0: ravintola, jossa expääministerimme
-Puhuja 0: on usein bongattu,
+Puhuja 0: ravintola, jossa expääministerimme on usein bongattu,
 Puhuja 0: Otat siellä lautasellisen tattipastaa tai jotain muuta, en ole käynyt enkä syönyt, mutta on varmasti hyvää.
 Puhuja 0: Sitten sattuu niin hassusti, että siinä on ex-pääministeri
 Puhuja 0: naapuripöydässä,
@@ -324,8 +322,8 @@ Puhuja 2: Se sijoittuu siis Malmyöhön ja sinne poliisivoimiin. Siinä
 Puhuja 2: ei niinkään
 Puhuja 2: ne ratkaistavat rikokset ole pääosassa, vaan se poliisien
 Puhuja 2: keskinäinen meininki ja paine, mitä he
-Puhuja 2: kausi on ihan mahtava. Toinen kausi oli ehkä osittain, meni kliseiden puolelle. Nyt katsottiin tuo eka jakso tästä kolmannelta kaudelta oli tästä. Sillä lailla niin iholle. Jotenkin se
-Puhuja 2: äänisuunnittelukin on sellaista, että ne kaoottiset tilanteet ja ristipaine, mikä niillä poliisilla on, tulee
+Puhuja 2: kausi on ihan mahtava. Toinen kausi oli ehkä osittain, meni kliseiden puolelle. Nyt katsottiin tuo eka jakso tästä kolmannelta kaudelta oli tästä. Sillä lailla niin iholle. Jotenkin se äänisuunnittelukin
+Puhuja 2: on sellaista, että ne kaoottiset tilanteet ja ristipaine, mikä niillä poliisilla on, tulee
 Puhuja 2: tosi iholle. Näytteleminen, siinä on naispääosaa näyttelijöitä samaa. En tietenkään muista nimeä, mutta sama näyttelijä, joka oli siinä varsin hyvässä tai tosi hyvässä myrskyroadmaja leffassa. Etämyrssloidun Maija on siinä poliisinani.
 Puhuja 2: Sitä suosittelisin Sanna Marinille,
 Puhuja 2: että kun sä olet
@@ -372,7 +370,7 @@ Puhuja 1: Tässä on pääosassa, mikä kruunaa kaiken, Siltada Swinton
 Puhuja 1: ja Julian more.
 Puhuja 1: En osaa sanoa muuta kuin että jos vain pystytte suinkin katsomaan tämän elokuvan joskus, niin olette onnellisia ihmisiä.
 Puhuja 0: Mä haluaisin suositella...
-Puhuja 0: Tai siis jotenkin, haluaisin keskustella
+Puhuja 0: Tai siis jotenkin, mä haluaisin keskustella
 Puhuja 0: tämmöinen harvoja uutisia,
 Puhuja 0: missä tulee semmoinen
 Puhuja 0: valon läikähytys.
@@ -421,20 +419,18 @@ Puhuja 0: halvemmalla,
 Puhuja 0: jos me nyt perustettaisiin perhe, niin saadaan se keskustelu
 Puhuja 0: käyntiin
 Puhuja 0: siellä kotona. Kuulostaa ihan
-Puhuja 0: jotenkin mahtavalta, että hallituksen
-Puhuja 0: tai Väestöliiton
+Puhuja 0: jotenkin mahtavalta, että hallituksen tai Väestöliiton
 Puhuja 0: tai jostain sieltä onkoloista tulee näin humaania,
 Puhuja 0: järkevää ja tehokkaan tuntuista kamaa seuraan
-Puhuja 0: mielenkiinnolla, mitä
-Puhuja 0: on tulossa.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Pentti Pelli. Kiitos.
+Puhuja 0: mielenkiinnolla, mitä tästä on tulossa on tulossa.
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Pentti Pelli.
+Puhuja 0: Kiitos.
 Puhuja 0: Kiitos,
 Puhuja 0: kirjailija.
 Puhuja 0: Salla Vuorikas. Kiitos.
 Puhuja 0: Ja äänen koeja kaiken mun mahtama meille tekee tällä viikolla Janne Elkki. Ja muistakaa lähettää meille palautetta kaikkia normikanavia
 Puhuja 0: pitkin.
-Puhuja 0: Ja kuullaan taas
-Puhuja 0: ensi viikolla!
+Puhuja 0: Ja kuullaan taas ensi viikolla!
 Puhuja 1: Helsingin Sanomat.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit,

@@ -16,8 +16,7 @@ Puhuja 0: Helsingin
 Puhuja 2: Sanomat.
 Puhuja 0: Hei! Ja tervetuloa Helsingin Sanomien uutiskirjeraportti
 Puhuja 0: podcastiin
-Puhuja 0: torstaina kolmekymmentä. Päivä toukokuuta vuonna kaksituhatta
-Puhuja 0: kaksikymmentäneljä.
+Puhuja 0: torstaina kolmekymmentä. Päivä toukokuuta vuonna kaksituhatta kaksikymmentäneljä.
 Puhuja 0: Nimeni on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien väliaikaisessa
 Puhuja 0: podcast rakennelmassa
 Puhuja 0: sanomatalossa Helsingissä Suomessa. Ja ennen kaikkea,
@@ -69,13 +68,11 @@ Puhuja 1: kupla. Okei.
 Puhuja 0: Tämän viikon podcastissa keskustellaan.
 Puhuja 0: Koko Suomea puhuttaa tällä hetkellä Valkeakosken julma ja traaginen surma, jossa 18-vuotiaan
 Puhuja 0: miehen epäillään surmanneen raiskannien 15-vuotiaan
-Puhuja 0: tytön.
-Puhuja 0: Ja
-Puhuja 0: näin
+Puhuja 0: tytön. Näin
 Puhuja 0: siis tapahtui siitä huolimatta, että hän oli postanut uhkauksen tästä teosta Ylilaudalle.
-Puhuja 0: Ja poliisi oli kuulustellut
-Puhuja 0: tätä miestä tästä uhkauksesta.
-Puhuja 0: Silti viaton
+Puhuja 0: Poliisi oli kuulustellut
+Puhuja 0: tätä miestä tästä uhkauksesta,
+Puhuja 0: ja silti viaton
 Puhuja 0: elämä
 Puhuja 0: vietiin.
 Puhuja 0: Tästä on käynnistynyt suuri keskustelu Suomessa.
@@ -122,7 +119,7 @@ Puhuja 2: Tiedelehdessä julkaistiin siis artikkelia. Näitä on ollut tosiaan p
 Puhuja 2: miksi
 Puhuja 2: suomalaiset ja nuoret
 Puhuja 2: ja lapset eivät enää lue. Ja tämän otsikko,
-Puhuja 2: joka on Mikko Puttasen juttu Tiedelehdessä on julkaistu myös HS:n sivuilla on
+Puhuja 2: joka on Mikko Puttosen juttu Tiedelehdessä on julkaistu myös HS:n sivuilla on
 Puhuja 2: ytimekäs
 Puhuja 2: väite:
 Puhuja 2: Netti tappoi lukuinnon. Ja tähän on haastateltu
@@ -144,7 +141,7 @@ Puhuja 2: tytöistä tytöistä tytöistä tytöistä ja pojista oli lukenut vä
 Puhuja 2: puolet on lukenut
 Puhuja 2: vähintään kymmenen kirjaa puolessa vuodessa.
 Puhuja 0: Kahdeksan yksi eli silloin kun mä olin syntynyt.
-Puhuja 0: Oliko sä syntynyt? Joo syntynyt kahdeksankymmentäyksi.
+Puhuja 2: Oliko sä syntynyt? Joo syntynyt kahdeksankymmentäyksi.
 Puhuja 2: Ja vuonna kaksituhatta seitsemäntoista
 Puhuja 2: tämä oli pudonnut
 Puhuja 2: kaksikymmentäkolme prosenttiin eli kolmanneksen siitä mitä se oli 80-luvun alussa.
@@ -166,12 +163,14 @@ Puhuja 3: Lasten ja nuorten lukuinto on varmasti laskenut suhteessa enemmän kui
 Puhuja 3: on eniten lukevat suomalaista ikäryhmistä. Aivan aika paljon.
 Puhuja 3: Mä katsoin sitä. Ihan klikkasin tuosta Hesarin jutusta, että sitä linkkiä meni Tilastokeskuksen
 Puhuja 3: tilastoon. Siinä oli, että aivan selvästi 10-14-vuotiaat
-Puhuja 3: on innokkaimpia lukijoita suomalaisista. Uppo-eallas. Ja sitä selviää. Sitten kirjojen lukeminen laskee. Se on tässä hyvin aika selkeä. Se on todella selvä.
+Puhuja 3: on innokkaimpia lukijoita suomalaisista. Uppo ja sitä selvittää. Sitten
+Puhuja 3: kirjojen lukeminen laskee.
+Puhuja 2: Se on tässä hyvin aika selkeä. Se on todella selvä.
 Puhuja 2: Toiseksi eniten lukee
 Puhuja 2: 25-44-vuotiaat
 Puhuja 2: eli
 Puhuja 2: meikäläiset.
-Puhuja 0: Mutta se ei ole niin iso ero tosiaan. Saanko lyödä? Mun mielestä se oli ilahduttava ja iloinen pointti. Mut mun ymmärtääkseni huoli johtuu siitä, että on olemassa
+Puhuja 0: Mutta se ei ole niin iso ero tosiaan. Saanko lyödä? Mun mielestä se oli ilahduttava ja iloinen pointti, Mut mun ymmärtääkseni huoli johtuu siitä, että on olemassa
 Puhuja 0: ikäluokkia, jotka on käyneet sen aivofysiologisen
 Puhuja 0: kehityksen läpi silleen, että he ovat lukeneet sen läpi. Niin kyllä. Pelätään ennen kaikkea sitä, että meillä tulee ensimmäinen sukupolvi,
 Puhuja 0: jonka
@@ -197,8 +196,7 @@ Puhuja 0: on... Se on ripeä. Sitä
 Puhuja 0: ei tuu. Mä oon tosi pahoillani sua.
 Puhuja 0: Just julkaissut upea kirja. Näin. Mut jos me hyväksytään se, että se asia, mikä
 Puhuja 0: painetaan
-Puhuja 0: paperille
-Puhuja 0: tai myöskin sen PDF
+Puhuja 0: paperille tai myöskin sen PDF
 Puhuja 0: version jollain padillä. Se ei oo enää se meidän turha sille, että koska joskus 1500-luvulla
 Puhuja 0: painotekniikka
 Puhuja 0: sattuu olemaan tällaista, niin siksi meillä on tullut tämmönen
@@ -221,16 +219,17 @@ Puhuja 0: tietyssä
 Puhuja 0: eksaktissa järjestyksessä.
 Puhuja 0: Eikö näin? Niin,
 Puhuja 0: sinällänsä
-Puhuja 0: arvokasta. Tässä
+Puhuja 2: arvokasta. Tässä
 Puhuja 2: sanotaan, että professori sanoo: kenenkään oma arkinen sanavarasto ei ole niin laaja kuin kirjallisuudessa, jolla on puhe ja näin. Mutta samaan aikaan olen miettinyt nyt myös tästä lasten kasvatusnäkökulmasta sitä, kun paljon kauhistellaan, että ei saa olla ruutuaikaa ja ei saa olla sitä ja tätä. Mutta ainakin minun lapsen sanavarasto on kehittynyt hyvin paljon tuosta Pikku Kakkosen isot koneet ohjelmasta
-Puhuja 2: ja myös minun sanavarasto on kehittynyt Pikku Kakkosen isot koneet ohjelmasta. En tiennyt vielä sitä ennen, mikä on materiaalinkäsittelykone.
+Puhuja 2: ja myös minun sanavarasto on kehittynyt Pikku Kakkosen isot koneet ohjelmasta. En tiennyt vielä sitä ennen,
+Puhuja 2: mikä on materiaalinkäsittelykone.
 Puhuja 2: Ja nyt tiedän mikä on
 Puhuja 2: materiaalinkäsittelykone tai imupaineauto.
 Puhuja 2: Tai hyvin paljon.
 Puhuja 2: Hän myös sanoo näitä pitkiä sanoja: Rakastan
 Puhuja 2: kirjoja
-Puhuja 2: ja mun mielestä se on nautinto. Mutta ehkä toisille se imupaineauton korjaaminen voi olla
-Puhuja 0: enemmän nautinto.
+Puhuja 2: ja mun mielestä se on nautinto. Mutta ehkä toisille se voi olla enemmän nautinto se imupaineauton
+Puhuja 2: korjaaminen.
 Puhuja 0: Lähettäkää meille oma
 Puhuja 0: tai
 Puhuja 0: harkitmpi takene siitä, että mikä on kirjoissa tärkeää. Mä haluan sanoa, että mulla tässä taustalla vaikuttaa tosi vahvasti myös se, että
@@ -246,8 +245,9 @@ Puhuja 0: kirjastossa ja suomalaisten asenteissa kirjastoja kohtaan on jotain ni
 Puhuja 0: arvokasta ja ainutlaatuisen
 Puhuja 0: suomalaista,
 Puhuja 0: että siinä on jotain, mikä meidän täytyy säilyttää.
-Puhuja 0: Mun mielestä kirjastot voidaan säilyttää ja niiden tulevaisuus voidaan tehdä vasta, kun me ollaan päätetty, että mikä on kirja.
-Puhuja 2: Saanko sanoo
+Puhuja 0: Mun mielestä kirjastot voidaan säilyttää ja niiden tulevaisuus
+Puhuja 0: voidaan tehdä vasta, kun me ollaan päätetty, että mikä on kirja.
+Puhuja 2: Sango sanoo
 Puhuja 2: vielä, koska se jäi sanomatta, että ehkä se juuri kun mainitsit sen keskittymiskyvyn
 Puhuja 2: niin ehkä se liittyy se, miksi kirjojen lukeminen on tärkeää, liittyy yleiseen
 Puhuja 2: sinikkyyteen
@@ -272,7 +272,8 @@ Puhuja 2: yliopistonlehtori
 Puhuja 2: Rasmurshmannström,
 Puhuja 2: joka sanoo, että yliopistosta on aiempaa helpompi saada tutkinto.
 Puhuja 2: Mutta silti opiskelijat uupuvat. Että just tässä
-Puhuja 2: sinnikkyys ja keskittymisessä.
+Puhuja 2: sinnikkyys ja keskittymisessä
+Puhuja 2: ja nauttinut.
 Puhuja 3: Luin juuri vasta
 Puhuja 3: semmoisen kirjan, joka oli joku tämmöinen
 Puhuja 3: keskittymiskyvyn elvytysopas oli itse asiassa sen nimi. Siitä opin siis suomalaista aivotutkijoiden kirjoittaman lyhyt helposti lähestyttävä kirja, josta luin, että nimenomaan
@@ -295,7 +296,9 @@ Puhuja 0: ja täydellisellä keskittymisellä. Niin.
 Puhuja 0: Että
 Puhuja 0: puolensa ja puolensa. Okei. Kun...
 Puhuja 0: Kun... Sunnut... Ei, ei, se on vasta ensi viikolla
-Puhuja 0: Kun tuota... Kun menette lähikirjastoonne
+Puhuja 0: Kun
+Puhuja 0: tuota... Kun menette
+Puhuja 0: lähikirjastoonne
 Puhuja 0: katsomaan sitä ihanaa
 Puhuja 0: laitosta,
 Puhuja 0: että jumankauta.
@@ -309,7 +312,7 @@ Puhuja 0: On niitä pahimpia juoppeja, koska se ihan vitun tylsää sinua, niin 
 Puhuja 0: otatte salaa, ettei vahtimestarit näe.
 Puhuja 0: Ja huikkaa taas, kun mä tiista tarjoatte
 Puhuja 0: kirjastonhoitajalle.
-Puhuja 0: Mistäs hänelle rupeatte tähän juttelemaan?
+Puhuja 0: Niin mistäs hänelle rupeatte tähän juttelemaan?
 Puhuja 2: Mä voisin jutella tv-sarjasta,
 Puhuja 2: koska olen tämmöinen
 Puhuja 2: television
@@ -344,7 +347,8 @@ Puhuja 2: sarja, jota suosittelen kovasti kaikille. Siinä ollaan paljon Las Veg
 Puhuja 2: ihania autiomamaisemia,
 Puhuja 2: joita rakastan ja tämmöistä tämän ajan kommentaaria.
 Puhuja 0: Häx, Häx,
-Puhuja 0: Hb Axel. Mikä sen nyt onkaan sen nimi? Anni.
+Puhuja 0: Hb Axel. Mikä sen nyt onkaan sen nimi?
+Puhuja 0: Anni.
 Puhuja 3: Paras tapa.
 Puhuja 3: Jos haluaa
 Puhuja 3: mennä katsomaan urheilua, mutta tuntuu, että koskaan ei mene, niin paras tapa on laittaa niitä pelejä omaan kalenteriinsa
@@ -376,7 +380,7 @@ Puhuja 0: ja palsmikoa. Näin.
 Puhuja 0: Sitten
 Puhuja 0: odotellessa sä ruokaa, sä dippailet sitä leipää sinne oliiviöljyyn.
 Puhuja 0: Ja ravintoloilla se oliiviöljy maistuu ihan käsittämättömän hyvältä. Se on semmoista hedelmäistä,
-Puhuja 2: ei kitkerää.
+Puhuja 0: ei kitkerää.
 Puhuja 0: Ei kitkerää. Se on tosi hyvää. Ja sitten aina miettii, miksi vitussa
 Puhuja 0: se kodin oliiviöljy on semmoista
 Puhuja 0: niinku eltaantuneen
@@ -398,7 +402,7 @@ Puhuja 0: Citya,
 Puhuja 0: outhentic Cree ihan normaali marketti
 Puhuja 0: oliiviöljy.
 Puhuja 0: Niillä on semmonen fruuti.
-Puhuja 0: Niin kuin niillä on kolmea eri tyylistä. Fruuti niminen, niin se maistuu just siltä ihanan hedelmääsiltä ja näin. Gaea citya on sen merkki. Masta näin tästä massasta.
+Puhuja 0: Niin kuin niillä on kolmea eri tyylistä. Fruuti niminen, niin se maistuu just siltä ihanan hedelmääsiltä ja näin. Gaea citya on sen merkki. Masta näin tästä nossasta.
 Puhuja 0: Mut onks näin, että sitä ei ole? Sitä ei enää oo just sitä fruitia. Ne paskat jää jäljelle, jotka maistuu siltä moottoriöljyltä.
 Puhuja 0: Mutta se fruit lähti pois. Mitä helvettiä?
 Puhuja 0: Niin pliis auttakaa nyt taas mistä löytyy se fruuti-marketti

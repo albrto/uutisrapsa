@@ -34,9 +34,8 @@ Puhuja 2: toimittatalo. Ilme ei ollut kyllä halveksu. Se oli silleen syvän hä
 Puhuja 0: Marko Junkkari. Hei vaan Marko. Heissan. Okei. Tämän viikon podcastissa keskustellaan
 Puhuja 0: juuri
 Puhuja 0: Suomesta poistuneesta. Onko poistunut?
-Puhuja 1: Toinen on ja toinen ei. Ollaan Ahvenanmaalla.
-Puhuja 0: Rouva Zelenskyi on Ahvenanmaalla.
-Puhuja 0: Herrat Zelenskyi on jo
+Puhuja 1: No, toinen on ja toinen ei. Ollaan Ahvenanmaalla.
+Puhuja 0: Rouva Zelenskyi on Ahvenanmaalla ja herrat Zelenskyi on jo
 Puhuja 0: liihdtanut
 Puhuja 0: kohti seuraavaa etappia.
 Puhuja 0: Kyllä, Ukrainan presidentti
@@ -49,7 +48,7 @@ Puhuja 0: keskellä, että täältä Helsingistä käsin hoidettiin myös ainaki
 Puhuja 0: Ja Marko oli
 Puhuja 0: myös omin
 Puhuja 0: silmämunin.
-Puhuja 0: Ainakin Helsingin yliopistolle. Joo, olin seuraamassa Zelenskyin
+Puhuja 2: Joo, olin seuraamassa Zelenskyn
 Puhuja 2: yliopistoesiin.
 Puhuja 0: Keskustellaan siitä. Sen jälkeen puhutaan
 Puhuja 0: tulleista, jotka ovat Trumpin aloittaman globaalin
@@ -67,7 +66,8 @@ Puhuja 0: että nyt tulikin ihan kalliita
 Puhuja 0: asioita. Hyi sinua?
 Puhuja 0: Ei vitsi, en tiedä, lähettäkö enää koskaan. Mä ajattelin, että voi maksaa me tullitetu.
 Puhuja 1: Ei liity jotenkin yhtään mihinkään, mutta siis
-Puhuja 1: meidän toimituksen toimittaja Susanna Reynbolt teki sellaisen jutun oman paikantimensä
+Puhuja 1: meidän toimituksen toimittaja
+Puhuja 1: Susanna Reynbolt teki sellaisen jutun oman paikantimensä
 Puhuja 1: katoamisesta.
 Puhuja 1: Nyt se paikan niin on tulossa Israelista Suomeen ja häntä vaaditaan maksamaan tullisen
 Puhuja 1: oman paikantimensa.
@@ -143,7 +143,7 @@ Puhuja 1: hallituspuolueilla mitenkään sitä piilata. Heidän tavoitteensa on 
 Puhuja 1: turvapaikanhakijaa.
 Puhuja 1: Se on näin.
 Puhuja 1: No, en tiedä, miten ukrainalaiset
-Puhuja 0: asettuvat tähän. Ei tarvitseta, kun ne ovat oikean
+Puhuja 1: asettuvat tähän. Ei tarvitseta, kun ne ovat oikean
 Puhuja 1: Okei, ja heidän esimerkiksi kotimaassaan lomailut, ovatko ne ongelmallisia? En tiedä,
 Puhuja 1: mutta sekin tuli vaan nyt tässä juolahti mieleen, että vielähän heistä kukaan... Onko se siis viisi vuotta edelleen tällä hetkellä se
 Puhuja 1: raja kansalaisuuden?
@@ -191,7 +191,7 @@ Puhuja 1: ja rantojen raidat lähtee Keski-Suomen laulamaan?
 Puhuja 0: Ei ehkä laulaa
 Puhuja 1: tarvitse. Mutta osaa lausua.
 Puhuja 2: Mun mielestä kieltä täytyy osata. Kyllä mun mielestä kaikkia pitää Kainuun.
-Puhuja 1: Kainuun maailma. Se on hienoa. Nälkä mä oon laulua. Laulasi vähän matkaa sitä. Kuulkaa
+Puhuja 1: Kainuun maailma. Se on hienoa. Nälkä mä oon laulanut. Laulasi vähän matkaa sitä. Kuulkaa
 Puhuja 2: korverkkuiskin.
 Puhuja 1: Sattuneesta syystä olen sitä välillä kuunnellut Sotkkamon jmmendeles.
 Puhuja 2: Sinänsä vaikka kansalaisuusasiaa,
@@ -267,7 +267,7 @@ Puhuja 1: nimenomaan. Lars. Uskomaton lukija. Dia.
 Puhuja 1: Hän on snadisti
 Puhuja 1: näytelmällinen
 Puhuja 1: välillä
-Puhuja 0: vähän liikaa. Niin pienesti.
+Puhuja 1: vähän liikaa. Niin pienesti.
 Puhuja 0: Niin pienesti.
 Puhuja 1: Ei yhtään liikaa. Hän yhdessä kohdassa esittää muun muassa humalaista henkilöä.
 Puhuja 0: Varmaan krahia.
@@ -277,7 +277,8 @@ Puhuja 0: se, mitä mä... Mä haluan sanoa, koska se on niin tärkeää, että 
 Puhuja 0: Mutta kun mä oon lukenut Sinuhen sen kymmenen kertaa, mä rakastan Valtaria yli kaiken, siis niitä historiallisia, niitä Helsinki juttuja.
 Puhuja 0: Mä rakastan niitä ja Sinuhea...
 Puhuja 0: Kun mä tunnen sen kirjan kuin Omat taskuni,
-Puhuja 0: niin sitten se tulee niin kiinnostavaksi kuulla, että miten hän näyttelee sen kattahin. Ja se on niin se on niin No nyt mä tiedän kenen kanssa mä puhun
+Puhuja 0: niin sitten se tulee niin kiinnostavaksi kuulla, että miten hän näyttelee sen kattahin.
+Puhuja 1: Se on niin se on niin No nyt mä tiedän kenen kanssa mä puhun
 Puhuja 1: tästä kirjasta, koska mulla on hirveästi kaikkia
 Puhuja 1: ajatuksia. Varsinkin sitten, kun olen sen kuunnellut loppuun.
 Puhuja 0: Ei ole kuin kärpäsen surina korvissa.
@@ -296,7 +297,8 @@ Puhuja 1: Tähän liittyy myös sellainen legenda, että
 Puhuja 1: jossain kulkee tarina, että siinä on vain yksi virhe, joka liittyy
 Puhuja 1: Hieta-kirppu nimiseen
 Puhuja 1: öttiäiseen.
-Puhuja 1: Toimittajana, joka tekee
+Puhuja 1: Toimittajana, joka
+Puhuja 1: tekee
 Puhuja 1: faktoja ja selvittelytyötä kokea, niin en jotenkin jaksa uskoa.
 Puhuja 1: Haluan vain jakaa tämän ja huutaisin tämän ajatuksen sieltä katukiveykseltä.
 Puhuja 1: Kävin juttelemassa Niklas Tuurosen kanssa, joka on meidän vision aivan erinomainen
@@ -386,9 +388,11 @@ Puhuja 0: Hän kutsui meidät
 Puhuja 0: hänen kanssaan katsomaan peliä.
 Puhuja 0: Siinä jostain syystä
 Puhuja 0: kesti pari vuotta, että saatiin aikaiseksi.
-Puhuja 2: Mä kutsun meitä katsomaan mun mielestä viime vuonna MM-kisoja, mutta meillä ei käynyt mikään. Just näin, joo. Mutta nyt oli sitten 6 Nations Leag pyöräähtänyt käyntiin
+Puhuja 2: Mä kutsun meitä katsomaan mun mielestä viime vuonna MM-kisoja, mutta meillä ei käynyt mikään. Just näin. Mutta nyt oli sitten 6 Nations Leag pyöräähtänyt
+Puhuja 0: käyntiin
 Puhuja 0: ja
-Puhuja 0: sitten saatiin aikaiseksi mennä tuonne.
+Puhuja 0: sitten
+Puhuja 0: saatiin aikaiseksi mennä tuonne.
 Puhuja 0: Helsingissä on semmoinen
 Puhuja 0: englanninkielisten
 Puhuja 0: ja ulkomaalaisten
@@ -438,15 +442,14 @@ Puhuja 0: Lähettäkää meille palautetta:
 Puhuja 0: uutisraportti.
 Puhuja 0: Kuullaan taas ensi viikolla, tosin eri kokoonpanolla, koska mä olen paljon. Mutta mä olen kuulijana
 Puhuja 0: ensi viikon.
-Puhuja 0: Heippa!
-Puhuja 0: Moi,
-Puhuja 0: Tuomas tässä.
+Puhuja 1: Heippa!
+Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
 Puhuja 0: päätös asettua välikappaleeksi
-Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi
 Puhuja 0: suurvaltapolitiikassa.

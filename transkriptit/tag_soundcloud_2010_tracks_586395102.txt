@@ -20,7 +20,7 @@ Puhuja 0: toimittaja. Kyllä, olkaako viimeistä kertaa täällä? Saattaa olla.
 Puhuja 0: A-studioon.
 Puhuja 1: Aloitetaan alusta kaikki häsellys.
 Puhuja 1: Äännet ei kuulu,
-Puhuja 0: ja mikä et ole. Tervetuloa. Terve, Marko. Yritän aina kuulostaa yhtä yllättyneeltä siitä, että olet politiikan toimi. En tiedä onko kukaan hoksannut tätä. Tämä on mun oma pikku gägi, jota mä kiertän tässä.
+Puhuja 0: niin tervetuloa. Terve, Marko. Yritän aina kuulostaa yhtä yllättyneeltä siitä, että olet politiikan toimi. En tiedä onko kukaan hoksannut tätä. Tämä on mun oma pikku gägi, jota vaan kierretään.
 Puhuja 0: Ja paikalla myös ulkomaantoimittaja
 Puhuja 0: Aino Frilander, hei Aino. Hei Tuomas.
 Puhuja 0: Ja tervetuloa tänne
@@ -65,7 +65,7 @@ Puhuja 0: kuin kaikki ne kymmenet, joissa kaikissa sanottiin
 Puhuja 0: tismalleen samat kolme asiaa. Eli yksi, hän puhui
 Puhuja 0: hassuja, kaksi: salonki kelpoisti rasismin ja kolme oli kristityt ja aborttikannat suututtivat monia.
 Puhuja 0: Ja jos seurasi
-Puhuja 0: suomalaista mediaa olisi voinut jäädä käsityksen, että välittömästi sen jälkeen kun söin ulkoministeriksi, hän kompastui johonkin moppia ja vyöryi pienen komeroon,
+Puhuja 0: suomalaista mediaa olisi voinut jäädä käsityksen, että välittömästi sen jälkeen kun söinia ulkoministeriksi, hän kompastui johonkin moppia ja vyöryi pienen komeroon,
 Puhuja 0: mistä pystyi päivittämään vain blogiaan ja ulkoministerin tehtävät hoitisi joku muu.
 Puhuja 0: Siksi käännymme nyt
 Puhuja 0: politiikan toimittaja extraordine!
@@ -75,8 +75,9 @@ Puhuja 0: Ainon puoleen.
 Puhuja 0: En tiedä miksi täällä lukee, Anu, en tiedä kuka tämän tekstit on kylvottanut.
 Puhuja 0: Ja kysymme,
 Puhuja 0: että mikä
-Puhuja 0: substanssitasolla oli Soinin perintö
-Puhuja 1: Suomelle?
+Puhuja 0: substanssitasolla
+Puhuja 0: oli Soinin perintö
+Puhuja 0: Suomelle?
 Puhuja 2: Se johtuu siitä kun aamu ei ollut mitään omaperäistä sanottavaa. Olen juuri
 Puhuja 2: kirjoittanut
 Puhuja 1: tätä
@@ -84,8 +85,8 @@ Puhuja 1: hetkeä.
 Puhuja 2: Toinen en
 Puhuja 2: ole
 Puhuja 2: ehtinyt.
-Puhuja 2: Mikä se kysymys oli? Mikä on soinnin perintö?
-Puhuja 0: Minua niitä ärsyttää ärsyttämään koska monet asiat ärsyttää ja puroin niitä täällä podcastissa.
+Puhuja 2: Mikä se kysymys oli? Mikä on Soinin perintö?
+Puhuja 0: Minua niitä ärsyttämään koska monet asiat ärsyttää ja puroin niitä täällä podcastissa.
 Puhuja 0: Mutta rupesi ärsyttämään
 Puhuja 0: se,
 Puhuja 0: ja varmaan se syntyy siitä pakosta että toimittaja on pakko kirjoittaa niitä tink beessejä. Sekin tauti on levinnyt Amerikasta tänne. Ja sitten kaikki päätyy vaan
@@ -99,36 +100,36 @@ Puhuja 0: Se on suurin piirtein silleen, että sinne on lähtenyt neljäkymment�
 Puhuja 0: On tulleet sinne ISIS:n alueelle. Näistä kolmetoista
 Puhuja 0: prosenttia suurin piirtein on naisia, kaksitoista prosenttia on lapsia.
 Puhuja 0: Näistä nyt kun ISIS on pistetty niin tuusan nuuskaksi kuin voi olla, niin näistä kaksikymmentä prosenttia
-Puhuja 0: on palannut kotimaahansa. Mutta vain neljä prosenttia näistä on naisia. Kaiken kaikkiaan
+Puhuja 0: on
+Puhuja 0: palannut kotimaahansa. Mutta vain neljä prosenttia näistä on naisia. Kaiken kaikkiaan
 Puhuja 0: tilanne kaikissa lähteneissä on se, että palaajista valtaosa on miehiä ja
 Puhuja 0: kaikissa kansallisuuksissa jääjistä valtaosa on naisia. Eli naiset jää sinne alueelle
 Puhuja 0: merkittävästi enemmissä määrin kuin miehet.
-Puhuja 1: Luulen, että ne kasataan sinne pakolaisrehelle, eikä ne pääse sieltä mihinkään lähtemään. Ja heillä on kykyä
+Puhuja 1: Luulen, että ne kasataan sinne pakolaisreheille, eikä ne pääse sieltä mihinkään lähtemään. Ja heillä on kykyä
 Puhuja 0: lähteä,
 Puhuja 0: tähän vaikuttaa varsinkin se, että ISIS- itse rankaisi
 Puhuja 0: todella brutaalilla tavalla katkamalla kaikki jäsenet ja päät ja muut, ne jotka lähtee sieltä ilman lupaa. Eli se
-Puhuja 0: vaatii todella paljon siltä
-Puhuja 0: lähtiltä. Sitten siinä on eroja miten valtiot on suhtautunut tähän, saako palata vai ei. Mielestäni jännästi esimerkiksi tällaisilla
-Puhuja 0: alueilla, joilla on olemassa merkittäviä muslimi vähemmistöjä, esim. Kaukasiassa, Albaanassa ja Georgassa,
+Puhuja 0: vaatii todella paljon siltä lähtiltä.
+Puhuja 0: Sitten siinä on eroja miten valtiot on suhtautunut tähän, saako palata vai ei. Mielestäni jännästi esimerkiksi tällaisilla
+Puhuja 0: alueilla, joilla on olemassa merkittäviä muslimi vähemmistöjä, kuten
+Puhuja 0: Kaukasiassa, Albaanassa ja Georgassa,
 Puhuja 0: niin siellä otetaan naiset esim. Suoraan vastaan, että he saavat suoraan palata. Sen sijaan länsimaissa suurin piirtein on
 Puhuja 0: brittiläinen malli, missä heitä ei haluta palata. Ja siinä painaa paitsi
-Puhuja 0: julkinen politiikka, sen lisäksi, että niissä maissa ainakin Ranskassa on paljastanut terrorisuunnitelmia, missä naiset on osallisena siihen. Tai epäillään, että naiset on osallisena
+Puhuja 0: julkinen politiikka, sen lisäksi että niissä maissa ainakin Ranskassa on paljastanut terrorisuunnitelmia, missä ne naiset on osallisena siihen. Tai epäillään, että naiset on osallisena
 Puhuja 0: siihen. Yksi syy miksi
-Puhuja 0: ne naiset tai ihmiset sieltä haluaa pois on tietenkin se, että ISIS on kutistunut ja nyt siellä on toinen vähän semisti,
-Puhuja 0: mutta vaan semisti ISIS ja
+Puhuja 0: ne naiset tai ihmiset sieltä haluaa pois on tietenkin se, että ISIS on kutistunut Ja nyt siellä on toinen
+Puhuja 0: vähän semisti, mutta vaan semisti ISIS ja
 Puhuja 0: parempi
 Puhuja 0: porukka pitämässä jöötä. Ja siellä on aloitettu todella brutaalit
 Puhuja 0: oikeustoimet, kolmetuhatta ihmistä on jo tuomittu kuolemaan ja tapettu. Yhdeksäntuhatta ihmistä odottaa edelleen tuomiota ja varmaan tapetaan.
-Puhuja 0: Eli se selittää sen, miksi Sannallakin on varmasti mielessä. Suomessa oli oikeastaan ihan mukava asustella.
+Puhuja 0: Eli se selittää sen, miksi Sannallakin on varmasti mielessä, että Suomessa oli oikeastaan ihan mukava asustella.
 Puhuja 0: Jos niitä ei päästetä omiin kotimaihin,
 Puhuja 0: niin ilman muuta se pahentaa tilannetta
 Puhuja 0: Syyriassa ja Irakissa
-Puhuja 0: entisestään, koska nämä ihmiset jää käytännössä sinne odottamaan tuomiota mikä hyvänsä. Se onkaan elinkautinen tai pää pois.
-Puhuja 0: Siellä
-Puhuja 0: ollessaan
-Puhuja 0: he
-Puhuja 0: rasittaa
-Puhuja 0: paikallisia järjestelmiä merkittävästi.
+Puhuja 0: entisestään, koska nämä ihmiset jää käytännössä sinne odottamaan tuomiota
+Puhuja 0: mikä hyvänsä. Se onkaan elinkautinen
+Puhuja 0: tai pää pois.
+Puhuja 0: Siellä ollessaan he rasittaa paikallisia järjestelmiä merkittävästi.
 Puhuja 0: Sen lisäksi he tietenkin ovat itse entistä alttiimpia radikalisoitumiselle.
 Puhuja 0: En tiedä mitä se on, jos ISIS
 Puhuja 0: tyyppistä radikalisoitua
@@ -144,8 +145,7 @@ Puhuja 0: Niin, on siinä jonkun näköinen
 Puhuja 0: peilikuva.
 Puhuja 0: Se mikä tätä keskustelua dominoi loppujen lopuksi, on paitsi nämä inhimilliset ja moraaliset puolet ja nämä kysymykset, niin sen lisäksi
 Puhuja 0: turvallisuuskysymykset.
-Puhuja 1: Niin
-Puhuja 0: sano. Sano vaan
+Puhuja 0: Ja sano. Sano vaan
 Puhuja 1: mutta joka tapauksessa, se mitä mä oon jäänyt miettimään on se,
 Puhuja 1: että onko teistä se sisäministeriön pläni
 Puhuja 1: vakuuttava, se on varmaan ainoa pläni joka voidaan tässä vaiheessa tehdä, mutta
@@ -243,7 +243,7 @@ Puhuja 2: Joo, mä oon perehtynyt
 Puhuja 2: intohimoisesti
 Puhuja 2: SS-joukkoja.
 Puhuja 2: Tein itse asiassa aiheesta juttua,
-Puhuja 0: enkä palaan tähän tarkemmin. Mitä siellä on löytynyt?
+Puhuja 2: enkä palaan tähän tarkemmin. Mitä siellä on löytynyt?
 Puhuja 2: Olen lukenut
 Puhuja 2: nämä
 Puhuja 2: viimeisen vuoden sisällä useampikin kirja Suomessa.
@@ -374,7 +374,8 @@ Puhuja 2: aidosti hauskaa. Tulee yhteinen morsiamerryöstö,
 Puhuja 2: ja näiden molempien suomalaisen
 Puhuja 2: ja ruotsalaisen sulhanen pitää
 Puhuja 2: tehdä jotain temppuja lavalla saadakseen morsian takaisin. Pitää laulaa. Joo, se ruotsalainen sulhanen laulaa niin kuin upeasti jonkun biisessä. Nauraaen
-Puhuja 0: iloisesti yleisö. Ihmalle ei suostu tekemään mitään. Ja siis ei suostu tekemään silleen, että hän on läpeensä
+Puhuja 2: iloisesti yleisö. Ihmalle ei suostu tekemään mitään.
+Puhuja 0: Ei suostu tekemään silleen, että hän on läpeensä
 Puhuja 0: ahdistunut.
 Puhuja 0: Kaikki hänen kaverinsa ja muut tietää, että häntä
 Puhuja 0: ahdistaa aivan hulluna ja se häpeän määrä, että hän joutuu.
@@ -388,8 +389,8 @@ Puhuja 0: suomalaisissa sarjoissa, joita täällä suuresti myös ihaillaan,
 Puhuja 0: niin ne on niin, että ne on briljanttia televisiota. Mutta kaikissa muissa maissa,
 Puhuja 0: sarjoissa,
 Puhuja 0: tarinoissa,
-Puhuja 0: elokuvissa, niissä on aina joku asia, joka,
-Puhuja 0: englanninkielinen sana sille on elevete.
+Puhuja 0: elokuvissa, niissä on aina joku asia, joka on
+Puhuja 0: englanninkielinen sana elevete.
 Puhuja 0: Että otetaan joku asia, joka on joku arvo, joka koetaan, että se on tärkeä. Ja se sarja alleviivaa ja korostaa sitä arvoa. Se voi olla vaikka sankaruus
 Puhuja 0: tai ystävyys tai ystävällisyys
 Puhuja 0: tai nöyryys tai joku arvo. Sarja kertoo siitä, että joku hyvä arvo on tärkeä.

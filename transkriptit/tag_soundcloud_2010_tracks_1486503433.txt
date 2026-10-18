@@ -8,11 +8,9 @@ Puhuja 0: Kanssani täällä Sanomatalon
 Puhuja 0: studiossa ovat Helsingin Sanomien politiikan toimittajaa Marko Junkkari. Hei Marko. Heisan Anni.
 Puhuja 0: Ja tutkivien juttujen tuottaja Salla Vuorikoski. Hei Salla. Hei hei.
 Puhuja 0: Eli kuten kuulette
-Puhuja 2: hetki.
-Puhuja 2: Eikö mä ajattelin, että pitää varioida
-Puhuja 2: tuoda tähän jotain ytyä, kun Tuomas puuttuu.
-Puhuja 0: Joo, eli Tuomas puuttuu. Tuomakselle
-Puhuja 0: toivotamme
+Puhuja 1: Varjo! Tai varjo! Ei kai tämä ensimmäinen hetki. Eikö mä ajattelin, että pitää varioida
+Puhuja 2: tuoda tähän jotain ytyä, kun Tuomas puuttuu. Joo, eli Tuomas puuttuu vaan.
+Puhuja 0: Tuomakselle toivotamme
 Puhuja 0: paranemista
 Puhuja 0: kipeydestä
 Puhuja 0: ja sen sijaan me olemme kaikki täällä kolme.
@@ -108,7 +106,7 @@ Puhuja 2: vastuuta kantaa ja valtaa käyttää.
 Puhuja 0: Mutta se joukko on iso. Se on tosi iso määrä ihmisiä, mitä on näitä avustajia enemmän. Se
 Puhuja 1: on iso määrä. Se on kiinnostavaa nähdä. Avustajia varmaan vähemmän tällä kertaa ensi kaudella kuin tällä kaudella.
 Puhuja 1: Siinä mielessä olen ihan samaa mieltä Anni, että kyllähän
-Puhuja 1: se on näiden vanhojen
+Puhuja 1: se on näiden vanhojen...
 Puhuja 1: Soini kieltä, mutta vanhojen puolueiden valtti on se, että
 Puhuja 1: siellä on
 Puhuja 1: kokeneita ihmisiä joka tasolla. Siellä on piireissä ja joka puolella, ja se on
@@ -118,21 +116,20 @@ Puhuja 1: Mutta silti väitän, että perussuomalaiset löytyy nykyään aika pa
 Puhuja 0: Niin, kyllä.
 Puhuja 0: Vietin itse asiassa minun vaali-illan. En ollut täällä podcastissa, koska mä vietin mun vaali-illan
 Puhuja 0: Perussuomalaisten vaalivalvojaisissa.
-Puhuja 1: Oliko siistiä?
+Puhuja 0: Oliko siistiä?
 Puhuja 0: Siellä oli tunnelma katossa.
 Puhuja 1: Voin kuvitella.
 Puhuja 2: Kuinka myöhään siellä bailattiin? Kokoomuslaiset ainakin puoli kahteen, oliko pidempäänkin?
-Puhuja 0: Perussuomalaisille meni se paikka kiinni siinä kaksitoista jälkeen yöllä. Se oli mielestäni isoin
-Puhuja 0: yllätys,
+Puhuja 0: Perussuomalaisille meni se paikka kiinni siinä kaksitoista jälkeen yöllä. Se oli mielestäni isoin yllätys,
 Puhuja 0: että
-Puhuja 0: se laitettiin kiinni se paikka ja siellä juhlat jatkunut enää. Vaikka se oli yökerho avolossa se tilaisuus. Ne lähti siitä jatkoille sitten. Kokoomuksella oli vissiin
+Puhuja 0: se laitettiin kiinni se paikka ja siellä juhlat jatkunut enää. Vaikka se oli yökerho avolossa se tilaisuus. Niin, kun ne lähti siitä jatkoille sitten. Kokoomuksella oli vissiin
 Puhuja 2: bottalla
 Puhuja 2: juhlat,
 Puhuja 2: mutta joku happening oli siellä ollut. Joku tyyppi oli puoli kahden aikaan ruvennut pitämään puhetta,
 Puhuja 2: kriittistä puhetta
 Puhuja 2: ja keskeyttänyt tanssimisen.
-Puhuja 0: Hänet oli ohjattu ulos sieltä. Ehkä tuo oli varma taktiikka välttää kaikki, mitä
-Puhuja 0: voi yössä tapahtua, että jatkaa se jossain muussa maata.
+Puhuja 0: Hänet oli ohjattu ulos sieltä. Ehkä tuo oli varma taktiikka välttää
+Puhuja 0: kaikki, jotka mitä voi yössä tapahtua, että jatkaa se jossain muussa maassa.
 Puhuja 2: Jep.
 Puhuja 0: Mennään viimeiseen aiheeseen,
 Puhuja 0: joka on
@@ -142,7 +139,7 @@ Puhuja 0: Tämähän ei nyt ole sillä tavalla tänään
 Puhuja 0: ilmaan tullut
 Puhuja 0: tämä asia, että suomalaiset eivät liiku tarpeeksi.
 Puhuja 0: Mutta
-Puhuja 0: se on koko ajan pahenevä asia. Niin, kuinka paljon tämä teitä ahdistaa
+Puhuja 2: se on koko ajan pahenevä asia. Niin, kuinka paljon tämä teitä ahdistaa
 Puhuja 2: oma liikkuminen tai liikkumattomuutenne?
 Puhuja 2: Mietittekö sitä?
 Puhuja 0: Vai että
@@ -154,18 +151,16 @@ Puhuja 1: Vaikka
 Puhuja 1: kuinka monta tuntia metsissä.
 Puhuja 2: Oho.
 Puhuja 2: Onko se sellainen, että se menee nätisti, että se ei koko ajan vedä?
-Puhuja 2: Liikunta jeesustelupuheet, joita aina
-Puhuja 2: välillä, että ollaan huolissaan kansan liikkumattomuudesta
-Puhuja 2: ja näin, niin nyt pitäisi käytännön tekoja, että jäämme seuraamaan.
-Puhuja 2: En tiedä.
-Puhuja 2: Ministerihän on aina liikunta, onko se kulttuuri ja kulttuuriministerin alla jotenkin tämä liikunta, että se ei näy edes siinä nimessä. Se vaihtelee. Sitä voidaan
+Puhuja 2: Joita
+Puhuja 2: aina välillä, että ollaan huolissaan kansan liikkumattomuudesta ja näin, niin nyt pitäisi käytännön tekoja, että jäämme seuraamaan. En tiedä,
+Puhuja 2: onko liikunta kulttuuri
+Puhuja 2: ja kulttuuriministerin alla jotenkin liikunta, että se ei näy edes siinä nimessä. Se vaihtelee. Sitä voidaan
 Puhuja 1: vaihdella.
 Puhuja 1: Kaikki ovat opetusministeriössä
 Puhuja 1: nämä osastot kulttuuriministeriössä. Kyllä
-Puhuja 2: ja
+Puhuja 0: ja
 Puhuja 2: sieltä jaetaan myös nämä liikunnan tukirahat.
-Puhuja 2: Tähän mekin itse asiassa, otetaan se liikunta siihen loppuun kepeämmäksi aiheeksi, mutta tämä on ehkä just se ongelma, että ajatellaan, että se on
-Puhuja 2: non-politiksi,
+Puhuja 2: Tähän mekin itse asiassa, otetaan se liikunta siihen loppuun kepeämmäksi aiheeksi, mutta tämä on ehkä just se ongelma, että ajatellaan, että se on non-politiksi,
 Puhuja 2: että se on jotain vähän sivussa.
 Puhuja 2: Näitä lukujahan voi kaivella toinen
 Puhuja 2: toistaan
@@ -180,14 +175,15 @@ Puhuja 2: luku? Mutta rasittavaa liikuntaa. Siis sellaista liikuntaa, että
 Puhuja 2: hengästyy
 Puhuja 2: ja tulee hiki ja lihakset kipeytyvät, niin semmoista
 Puhuja 2: on hyvin vähän.
-Puhuja 2: Mä ajattelin, että me voitaisiin nyt ratkaista tämä ongelma.
+Puhuja 2: Mä ajattelin, että me voitaisiin nyt ratkaista tämä
+Puhuja 2: ongelma.
 Puhuja 2: Voiko poliitikot tehdä
 Puhuja 2: jotain tämän asian eteen? Mitä käytännössä
-Puhuja 2: pystytään tekemään? Jos seuraava hallitus, jota johtaa Petteri Orpo ja Riikka Purra,
-Puhuja 2: päättää, että nyt laitetaan tämä homma kuntoon, niin missä
+Puhuja 2: pystytään tekemään? Jos seuraava hallitus, jota johtaa Petteri Orpo ja Riikka Purra
+Puhuja 2: päättää, että nyt laitetaan tämä homma kuntoon, niin
 Puhuja 0: ne keinot on? Tämä on siis aihe, johon on todella vaikea löytää poliitikoilta nyhtää mitään keinoja.
 Puhuja 0: On aika paljon sellaisia
-Puhuja 0: aiheita, missä
+Puhuja 0: aiheita, missä...
 Puhuja 0: Olen siis yrittänyt, koska teimme juttua aiheesta.
 Puhuja 0: Että mitä tälle asialle pitäisi tehdä. Tämä oli joskus tässä aiemmin tänä vuonna tullut jälleen uusi huolestuttava
 Puhuja 0: tutkimustulos
@@ -199,8 +195,7 @@ Puhuja 0: mun
 Puhuja 0: mielestä niistä keinoista juuri mikään ei kuulosta uskottavalta.
 Puhuja 0: Tämä on nyt vaikka lasten liikkumattomuus, että kouluun lisää liikuntatunteja.
 Puhuja 0: Todellisuudessa,
-Puhuja 0: mitäs nyt joku yksi tunti viikossa voitaisiin
-Puhuja 2: saada Jos nyt Tommi Kinnunen sanoo, että Twitter on taas opettajille
+Puhuja 2: mitäs nyt joku yksi tunti viikossa voitaisiin saada... Jos nyt Tommi Kinnunen sanoo, että Twitter on taas opettajille
 Puhuja 2: laitetaan kaikki yhteiskunnan ongelmat ratkaisemaan. Niin. Ja sitten se on jostain pois
 Puhuja 0: tai sitten siihen, mitä
 Puhuja 0: Mutta
@@ -249,9 +244,9 @@ Puhuja 2: pois pöydältä, että se ei ole mahdollinen,
 Puhuja 2: niin silloin ihminen muokkaa omaa elämäänsä niin, että se ehtii sillä fillarilla
 Puhuja 2: tai junalla.
 Puhuja 2: Nyt sä näytät Marko siltä, että sä olet aivan
-Puhuja 1: väärässä. Ei, kun vaan aivan innostuneesti, jos puhuttiin, että hallitus ei voi tehdä mitään, mutta voihan se tehdä. Sehän voi ottaa sen auton pois sieltä yhtälöstä, että nostaa kaiken maailman veroja niin paljon, että ihminen muutenkin leikuttaa ja köyhdyttää ihmiseen. Ihmiselle ei varaa ajaa mihinkään, ne joutuu kävelemään joka paikkaan.
+Puhuja 1: väärässä. Ei, kun vaan mä vaan innostuneesti, jos puhuttiin, että hallitus ei voi tehdä mitään, mutta voihan se tehdä. Sehän voi ottaa sen auton pois sieltä yhtälöstä, että nostaa kaiken maailman veroja niin paljon, että ihminen muutenkin leikuttaa ja köyhdyttää ihmiseen. Ihmiselle ei varaa ajaa mihinkään, ne joutuu kävelemään joka paikkaan.
 Puhuja 2: Joku Pihtiputalainen,
-Puhuja 2: joka käy Viitasaarella töissä, niin ei se ole, että okei, nyt en enää käytä autoa, koska sinulla ei ole Tai toinen vähän vitsi.
+Puhuja 2: joka käy Viitasaarella töissä, niin ei se ole, että okei, nyt en enää käytä autoa, koska sinulla ei ole... Tai toinen vähän vitsi.
 Puhuja 2: Otan nyt sen vakavasti.
 Puhuja 2: Mutta kaupungeissa,
 Puhuja 2: missä on
@@ -274,8 +269,7 @@ Puhuja 0: elämäntapa.
 Puhuja 0: Tulee helposti mieleen
 Puhuja 0: urheiluharrastukset
 Puhuja 0: ja että rupeaa käymään jossain lentopalloharkoissa.
-Puhuja 0: Mutta
-Puhuja 0: se olisi semmoinen
+Puhuja 0: Mutta se olisi
 Puhuja 0: aktiivinen elämäntapa,
 Puhuja 0: sekin on vähän ehkä huono.
 Puhuja 0: Fresh
@@ -328,7 +322,8 @@ Puhuja 2: Voin aloittaa.
 Puhuja 2: Koira ei nyt pääse mukaan, koska koira menee hoitoon, mutta me lähdemme
 Puhuja 2: kohti pohjoista.
 Puhuja 2: Aika usein pyritään
-Puhuja 2: tässä kevättalvella käymään,
+Puhuja 2: tässä kevättalvella
+Puhuja 2: käymään,
 Puhuja 2: aika usein ollaan Ylläksellä, mutta välillä jossain muuallakin. Se on tosi tärkeää ja ihmisen parasta aikaa, kun pääsee kauniille Hangille vähän hiihtämään.
 Puhuja 2: Hiihto mainittu,
 Puhuja 2: rasti ruutuun.
@@ -365,8 +360,8 @@ Puhuja 2: ja tukea myös alueen yrittäjiä.
 Puhuja 1: Mä kehuin viime viikolla tätä
 Puhuja 1: Sexession sarjaa. Et taaskaan spoilaamaan nyt sitä. Mä kehuin sitä taas.
 Puhuja 1: Lupasin Tuomakselle.
-Puhuja 1: Hesari tekee Elijonora Riihisen ja Hilla Kyrkön tätä podcastia. Ensin
-Puhuja 1: tulee uusi jakso, sxestionista, niin siinä käydään läpi tapahtumia.
+Puhuja 1: Hesari tekee Elijonora Riihisen ja Hilla Kyrkön tätä podcastia.
+Puhuja 1: Ensin tulee uusi jakso, sxestionista, niin siinä käydään läpi tapahtumia.
 Puhuja 1: Tuomas
 Puhuja 1: sanoi, että kuuntelee.
 Puhuja 1: Kehutti minua suosittelemaan tätä. Sitten
@@ -380,7 +375,7 @@ Puhuja 1: puivat jakson tapahtumia.
 Puhuja 1: Tämä oli
 Puhuja 1: puffi, ja nyt tulee se varsinainen suositus.
 Puhuja 1: Suosittelen myös ehdottomasti tuota.
-Puhuja 1: Olen läsnä nyt pääsiäisenä, lähdetään Liverpooliin.
+Puhuja 1: Olen läsnä nyt pääsiäisenä, me lähdetään Liverpooliin.
 Puhuja 1: En ole koskaan ollut Liverpoolissa. Mennään katsomaan futista tietysti
 Puhuja 1: pojan kanssa.
 Puhuja 1: Nyt
@@ -388,7 +383,7 @@ Puhuja 1: suosituksia. Mitä kannattaa Liverpoolissa
 Puhuja 1: tehdä lauantai-iltana?
 Puhuja 0: Haluisitko. Sinä myytit suosituksia?
 Puhuja 0: Kuulijoilta.
-Puhuja 2: Tai arvelet, että meillä ei ole antaa sitä. No onko sinulla antaa? En ole kyllä kenelläkään ry:ssä siellä. Mutta jos pitäisi veikata, niin varmaan Sulla on se poika mukana, niin se voi mutkistaa. Mutta eikö joku pubi olisi hyvä idea?
+Puhuja 2: Tai arvelet, että meillä ei ole antaa sitä. No onko sinulla antaa? En ole kyllä kenelläkään ry:ssä siellä. Mutta jos pitäisi veikata, niin varmaan... Sulla on se poika mukana, niin se voi mutkistaa. Mutta eikö joku pubi olisi hyvä idea?
 Puhuja 1: Luulen, että pubi joutuu menemään.
 Puhuja 0: Lähettäkää kuulijat Markolle
 Puhuja 1: yksityiskohtaisia suosituksia. Minne kannattaa mennä Liverpoolissa? Minne muualle kuin Beatles museota?
@@ -412,6 +407,7 @@ Puhuja 2: musta illakointi on
 Puhuja 0: siellä keskustan sisällä voimissaan. Joo, se kannattaa katsoa.
 Puhuja 0: Olen nyt siis maininnut A-Studion ihan liian monta kertaa tässä lähetyksessä.
 Puhuja 2: Tuomashan on kieltänyt, että ei saa Yle Areenan ohjelmia.
+Puhuja 2: Kyllä.
 Puhuja 2: Terveisiä Tuomakselle.
 Puhuja 2: Me toivotaan pikaista paranemista. Terveisiä Tuomakselle.
 Puhuja 0: Jotta mä en olisi liian A-studioo ihminen, niin suosittelen myös somevaikuttajaa.

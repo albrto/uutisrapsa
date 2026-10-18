@@ -25,12 +25,12 @@ Puhuja 0: yliopistoon. Onko Ruotsissa
 Puhuja 2: ihanaa? Kyllä Ruotsissa on ihanaa, vaikka en olekaan vielä ehtinyt vuodenvaihteen jälkeen sinne, mutta tästä se taas lähtee. Vaalivuosi,
 Puhuja 2: nörtin
 Puhuja 0: unelma. Pysytkö vaalien yli Suomessa?
-Puhuja 2: Edestakaisin matkustaa. Okei, hienoa.
+Puhuja 0: Edestakaisin matkustaa. Okei, hienoa.
 Puhuja 0: Näiden podcastien tarkoitus on puida presidentinvaalien
 Puhuja 0: asetelmia. Joka jakson alussa käydään läpi presidentinvaalien
 Puhuja 0: viimeisimmät käänteet siltä kuluvalta viikolta ja sitten pohditaan jotain laajempaa teemaa.
 Puhuja 0: Tässä ensimmäisessä jaksossa meillä on teemana
-Puhuja 0: tarina, ja siksi täällä studiossa on elokuva ja media-alan professori.
+Puhuja 0: tarina ja siksi täällä studiossa on elokuva ja media-alan professori.
 Puhuja 0: Hän, jos joku tietää kaiken tarinoista.
 Puhuja 1: Niin, ilmeisen tarinat ovat. Eikö tämä ole sinun lempiaihe? On ehdottomasti.
 Puhuja 2: Tarinat on siinä mielessä lempiaihe, että ne pyörittää. Ne pyörittävät journalismia, mutta ne pyörittävät myös politiikkaa.
@@ -67,7 +67,8 @@ Puhuja 2: Käytän
 Puhuja 2: sisällissota-termiä,
 Puhuja 2: koska minusta se kuvaa
 Puhuja 2: hyvin sitä, mitä tapahtui. Se
-Puhuja 2: on kansainvälinen
+Puhuja 2: on
+Puhuja 2: kansainvälinen...
 Puhuja 2: Siinä mielessä analyyttinen termi. Se ei ota kantaa
 Puhuja 2: tulkintaan eikä se
 Puhuja 2: ole minkään retoriikan osa.
@@ -87,7 +88,7 @@ Puhuja 2: Sitä on mielestäni kiinnostavaa, että tavallaan tuotetaan
 Puhuja 2: keskustelu
 Puhuja 2: tästä
 Puhuja 2: nimestä.
-Puhuja 1: Niin, se on ehkä jotenkin helpoin tapa lähestyä tätä, koska kyllä se edelleen Tai mitä mieltä olette, että kyllä tässä jonkinlaiset haavat
+Puhuja 1: Niin, se on ehkä jotenkin helpoin tapa lähestyä tätä, koska kyllä se edelleen... Tai mitä mieltä olette, että kyllä tässä jonkinlaiset haavat
 Puhuja 0: ovat edelleen olemoisella. Niin, että ihan varmasti se on ihan aito huoli ja rehellinen huoli, joka pyyteettömästi
 Puhuja 2: nousee. Ehkä sekään on suomalainen huoli, vaikka se on suomalainen tarina. Se
 Puhuja 2: keskustelu
@@ -103,8 +104,8 @@ Puhuja 0: neljä. Muistan, koska Tampereen yliopistolla kävi amerikkalainen pro
 Puhuja 2: tästä. Kertomassa. Onhan se jatkunut,
 Puhuja 1: että kahteen
 Puhuja 1: poteroon jakautuminen
-Puhuja 1: on
-Puhuja 1: niin. Pitäisikö me puhua vielä pari sanaa Väyrisestä, koska musta jotenkin,
+Puhuja 0: on
+Puhuja 1: niin. Pitäisikö me puhua vielä pari sanaa vääryisestä, koska musta jotenkin,
 Puhuja 1: Tuomas huokaa, mutta mua
 Puhuja 1: jotenkin surettaa tämä. Minä
 Puhuja 0: vastustan väyrystä, koska se on ollut
@@ -121,24 +122,24 @@ Puhuja 1: Se on erikoinen. Väyrynen oli silloin, jos taas muistellaan vanhoja, 
 Puhuja 1: Väyrynenhän
 Puhuja 1: se onnistui niissä vaaleissa,
 Puhuja 1: ensinnäkin keskusta oli kärsinyt ja eduskuntavaaleissa
-Puhuja 1: jätti tappioon ja Väyrynen eräällä tavalla palautti keskustan uskon, että tämä puolue ei ole tuhon oma. Ja se Väyrynen on Miten se niin teki?
+Puhuja 1: jätti tappioon ja Väyrynen eräällä tavalla palautti keskustan uskon, että tämä puolue ei ole tuhon oma. Ja se Väyrynen on... Miten se niin teki?
 Puhuja 1: Sehän oli kolmonen, se on hyvä tulos. Väyrynen pystyy
 Puhuja 1: rakentamaan itse. Väyrynen on maailmankaikkeuden
 Puhuja 1: suurin tosikko ja hän on
 Puhuja 1: täysin itsekeskeinen,
-Puhuja 1: hän ei näe itsessään mitään hauskaa. Mutta hän onnistui niihin
+Puhuja 1: hän
+Puhuja 1: ei näe itsessään mitään hauskaa. Mutta hän onnistui niihin
 Puhuja 1: presidentinvaaleihin. Silloin tuli ne mukit. Hän teki sellaisen itseironisen
 Puhuja 1: hahmon itsestään. Hän
 Puhuja 1: oli oikeasti hauskaa.
 Puhuja 1: Ja se nöyry sen itseironinen
 Puhuja 1: ote hävisi
 Puhuja 1: ensimmäisen kerroksen sunnuntaina kun ne vaalit oli ohi, niin hän palasi taas
-Puhuja 1: entiseksi koleeriseksi itsekseen. Mutta nyt tässä puuttuu se kaikki hauskuus. Nyt tämä Vääryen ei edes yritä olla hauska. Nythän vaan Mutta siellä on hulluja ja synkkiä sävyä. Mitäs buddia
-Puhuja 0: näitten leiriläisten
-Puhuja 0: ja Suomi ensin-tyyppiä
+Puhuja 1: entiseksi koleeriseksi itsekseen. Mutta nyt tässä puuttuu se kaikki hauskuus. Nyt tämä Vääryen ei edes yritä olla hauska. Nythän vaan... Mutta siellä on hulluja ja synkkiä sävyä. Mitäs buddia
+Puhuja 0: näitten leiriläisten ja Suomi ensin-tyyppiä
 Puhuja 0: Janitskiniä ja
 Puhuja 1: mitään eläviä? Se on tämmöistä poliittista opportunismia, että hän näkee että persuttu on vähän levällään ja hän koukkaa sieltä sen persujen kannattajanpohjan kautta.
-Puhuja 1: Mielestäni se puheet on tosi
+Puhuja 1: Mielestäni se puheet on tosi...
 Puhuja 1: Hän kaivaa pelkästään historiaa. Hänellä ei ole mitään visiota tulevasta, hän haluaa pelkästään saada
 Puhuja 1: puhua siitä, miten Niinistö ei ole osoittanut aktiivista
 Puhuja 1: katumista liittyen emojäsenyyteen
@@ -149,8 +150,7 @@ Puhuja 0: Mieltä.
 Puhuja 2: Suomelle, Kyllöisellä arvon presidentti,
 Puhuja 2: Huhtasaarella Suomi takaisin. Sitten Vanhaisella Suomen asia on meidän, joka on
 Puhuja 2: Finlands Sager War on tietysti tämä
-Puhuja 2: ruotsalaisten
-Puhuja 2: slogan toisesta maailmansodasta.
+Puhuja 2: ruotsalaisten slogan toisesta maailmansodasta.
 Puhuja 0: Kyllä ne jo sloganissaan teitittelee Niinistöä.
 Puhuja 2: Nimenomaan,
 Puhuja 2: joo.
@@ -187,12 +187,12 @@ Puhuja 1: vaimeus, se oli jotenkin suoraan jostain sketsistä, että se ei innos
 Puhuja 0: kaikki vain toivon, että vaalit olisi äkkiä ohi. Vaikka varmaan, jos ajatellaan presidentin tehtäviä, niin varmaan pätevimmät tyypit
 Puhuja 0: on Niinistö,
 Puhuja 0: Vanhanen
-Puhuja 0: ja Haavististo.
-Puhuja 1: No, kaikilla on ministerikokemusta
+Puhuja 0: ja Haaviston.
+Puhuja 1: Kaikilla on ministerikokemusta
 Puhuja 0: kyllä, sielläkin on Haavisto. Mutta vanhaen oli pääministeri vaikka kuin pitkään. Kyllähän se
 Puhuja 1: asiansa osaa. On. Ja kyllä Haavistolla on kansainvälistä kokemusta.
 Puhuja 0: Niin no, näin varmaan voi. Siis hän ei ole mikään
-Puhuja 0: Luther tai kansan kiihottaja, mutta pätevä. Eihän sitä varmaan voi kiistää.
+Puhuja 0: Luther tai silleen kansan kiihottaja, mutta pätevä. Eihän sitä varmaan voi kiistää.
 Puhuja 2: Mutta mä vielä palaisin siihen,
 Puhuja 2: Marko kun sinä viittasit siihen, että oli tämmöinen arvovastakkainasettelu
 Puhuja 2: silloin
@@ -202,8 +202,7 @@ Puhuja 2: niin tässähän
 Puhuja 2: sellaista asetelmaa
 Puhuja 2: ei ole, vaikka
 Puhuja 2: periaatteessahan voisi ajatella, että jos kaikki puhuu kansallisen yhtenäisyyden ja yksimielisyyden ja yhteyden puolesta, niin voisi kuvitella, että jotakin pitäisi voida sanoa siitä, että miten vastakkaisia arvoja sovitellaan.
-Puhuja 2: Koska sehän on se
-Puhuja 2: demokratian ongelma.
+Puhuja 2: Koska sehän on se demokratian ongelma.
 Puhuja 2: Ole, sen pitäisi olla itsestäänselvää, että me ollaan eri mieltä ja on erilaisia arvoja ja tulee arvojen törmäyksiä. Mutta se politiikkahan tulee juuri siinä kohdassa sitten, että miten niitä arvoja sovitellaan yhteen.
 Puhuja 2: Sehän ei taas sitten ole toistaiseksi
 Puhuja 2: ollut
@@ -215,7 +214,8 @@ Puhuja 2: kaivamaan
 Puhuja 2: esille. Jotenkin
 Puhuja 2: on tämä aika hurja, että
 Puhuja 2: kaikki asiat
-Puhuja 2: kääntyy tällaiseksi sisäisen
+Puhuja 2: kääntyy tällaiseksi
+Puhuja 2: sisäisen
 Puhuja 2: yksimielisyyden vaatimukseksi. Minä esimerkiksi ajattelen tätä, että kun hybriditurvallisuuspolitiikasta
 Puhuja 2: puhuttaessa, niin hybridivaikuttaminen
 Puhuja 2: on sellainen asia,
@@ -232,26 +232,28 @@ Puhuja 2: yrittänyt perehtyä tähän retoriikkaan ja ymmärtää, että mitä 
 Puhuja 2: jakaa
 Puhuja 2: tällaista
 Puhuja 2: Mannerheim-sitaattia
-Puhuja 2: keskeisenä tällaisena
+Puhuja 2: keskeisenä tällaisena...
 Puhuja 0: Jarmo Limnell on siis Aalto-yliopiston
-Puhuja 0: joku proffa, mikä siinä nyt oli. Ja siis entinen skappari. Ja
-Puhuja 2: keskeinen hybridivaikuttamisen
+Puhuja 0: joku proffa, mikä siinä nyt oli. Ja siis entinen skappari.
+Puhuja 2: Keskeinen hybridivaikuttamisen
 Puhuja 2: asiantuntija. Niin. Se opetus, minkä ennen kaikkea tahtoisin painaa tulevan sukupolven tietoisuuteen
 Puhuja 2: on tämä: Eripuraisuus
 Puhuja 2: omissa riveissä iskee tuhoisammin kuin vihamiehen viekka.
-Puhuja 2: Viehkka. Siis tää retoriikka, joka korostuu näissä
-Puhuja 0: presidentinvaalissa, tää on se tarina jotenkin. Ja sitä kautta Se on se Krimin tarina edelleen. Tai siis
-Puhuja 0: donetskin tarina. Että jos teillä on eri mielestä porukkaa siellä, niin sitten tulee ryssejä käyttää sitä hyväksi.
+Puhuja 2: Viehkka. Siis tämä retoriikka,
+Puhuja 2: joka korostuu näissä
+Puhuja 0: presidentinvaalissa, tämä on se tarina jotenkin. Ja sitä kautta... Se on se Krimin tarina edelleen. Tai siis
+Puhuja 0: donetskin tarina. Että jos teillä on eri mielestä porukkaa siellä, niin sitten tulee rysäjä käyttää sitä
+Puhuja 0: hyväksi.
 Puhuja 0: No mutta sitähän se tarkoittaa. Siellähän se on.
 Puhuja 1: Nämä vaalitentit tähän mennessä
 Puhuja 1: ovat otsikkotasolla, missä on keskitytty ulko ja turvallisuuspolitiikkaan.
 Puhuja 1: Mutta nämä nyt ovat edessä. Maikkari pitää omansa
-Puhuja 1: silloin vaaliviikolla, niin se on mielestäni kallion kirkossa, ja siellä puhutaan vain ja ainoastaan arvoista ja mielestäni se ylenkin tentti
+Puhuja 1: silloin vaaliviikolla, niin se on mielestäni kallion kirkossa, ja siellä puhutaan vain ja ainoastaan arvoista. Ja mielestäni ylenkin tentti
 Puhuja 1: on,
 Puhuja 1: kun ensimmäinen oli pelkkää turpoa, niin toka on sitten jotain muuta.
 Puhuja 1: Luulen, että tämä arvokeskustelu.
 Puhuja 1: Sitten on tietysti Helsingin Sanomien ja Ilta-Sanomien suuri vaalitentti
-Puhuja 0: kaksikymmentäkaksi. Päivä. Jonka juontaa
+Puhuja 0: kaksikymmentäkaksi. Päivä, jonka juontaa
 Puhuja 1: minä ja iltiksen Timo Haapalaa. Sielläkin puhutaan arvoista.
 Puhuja 0: Ollaanko me nyt käsitelty nämä tarinat? Mainitaan nyt kerran vielä Tuula Haatainen.
 Puhuja 0: No niin, ja kiitoksia tästä.
@@ -266,42 +268,43 @@ Puhuja 2: tuota vaalikiertue
 Puhuja 2: bussissa tai vaalikiertueautossa
 Puhuja 2: mietittyjä
 Puhuja 2: ajatuksia. Siinä korostuu tällainen.
-Puhuja 2: Siinä on aika paljon tämmöistä
+Puhuja 2: Siinä on aika paljon
 Puhuja 2: Tarja Halonen estetiikkaa
-Puhuja 2: ja eriarvoisuus, ihmisarvo, kestävä kehitys, naisten oikeudet. Se on tavallaan se soft power Se on se, että 2000-luvun alolta.
+Puhuja 2: ja eriarvoisuus, ihmisarvo, kestävä kehitys, naisten oikeudet. Se on tavallaan se soft power... Se on se, että 2000-luvun alolta.
 Puhuja 2: Niin, mutta
-Puhuja 2: tämä on yksi näiden vaalien tarina. On se, että mikä on
+Puhuja 2: tämä on yksi näiden vaalien tarina. On se, että mikä on...
 Puhuja 2: Kaikki puhuu, että ollaan keskinäisriippuvuusmaailmassa
 Puhuja 2: lisääntynyt
 Puhuja 2: ja globalisaatio, ja että miten
 Puhuja 2: vaikutetaan, miten suhtaudutaan, miten suhtaudutaan ilmastonmuutokseen ja siitä aiheutuviin uhkiin. Sitten kuitenkin puhutaan ikään kuin Suomen rajoista.
 Puhuja 2: Täähän on yksi
 Puhuja 2: jännite tai paradoksi tässä vaalitaistossa, että mistä voidaan puhua.
-Puhuja 0: Mikä se tarina siinä Tuula Haataisessa on taas ollut, Marko? Miten voi puolueessa olla yksi tyyppi, joka pistetään aina ottamaan turpaan kaikkialle? Eikö se ole niin kuin Se on kiusaamista?
+Puhuja 0: Mikä se tarina siinä Tuula Haataisessa on taas ollut, Marko? Miten voi puolueessa olla yksi tyyppi, joka pistetään aina ottamaan turpaan kaikkialle? Eikö se ole niin kuin... Se on kiusaamista?
 Puhuja 0: Aina kun on päivänselvää, että demarit häviävät taas, niin sinne pistetään Tuula Haatainen ottamaan se häviä vastaan omalla naamallaan.
-Puhuja 1: Niin, en tiedä, onko se sitten Kyllähän myös varmaan itsekin näihin paikkoihin hakeutuu, koska nyt tässä, En tiedä onko SDP:llä ollut yhtäkään vaalia viimeiseen viisitoista vuoteen, jos tuolla Haatainen ei olisi ollut mukana. Hatainen
+Puhuja 1: Niin, en tiedä, onko se sitten... Kyllähän myös varmaan itsekin näihin paikkoihin hakeutuu, koska nyt tässä, En tiedä onko SDP:llä ollut yhtäkään vaalia viimeiseen viisitoista vuoteen, jos tuolla Haatainen ei olisi ollut mukana. Hatainen
 Puhuja 1: oli pormestariehdokas
 Puhuja 1: ja pyrkii puheenjohtajaksi aina kun se on mahdollista.
 Puhuja 1: En jaksaisi haukkua Tuula Haataasta.
 Puhuja 1: Hän on kaikesta huolimatta väärässä vaalissa. Hänhän on ennen kaikkea ansioitunut poliitikkoon, mutta jossain muualla kuin ulko ja turvallisuuspolitiikassa.
-Puhuja 1: Kyllähän nyt varmaan ehkä se perus
+Puhuja 1: Kyllähän nyt varmaan ehkä se perus...
 Puhuja 1: Ehkä ne
 Puhuja 1: kaikkein vannoutisimmat perusdemari käyvät häntä äänestämässä. Ketkä
-Puhuja 2: olisivat? Tässä tullaan myös siihen kysymykseen, että ketkä ovat turbopolikkoja missäkin puolueissa ja miten tavallaan sitä ulko ja turvallisuuspoliittista
+Puhuja 2: olisivat?
+Puhuja 2: Tässä tullaan myös siihen kysymykseen, että ketkä ovat turbopolikkoja missäkin puolueissa ja miten tavallaan sitä ulko ja turvallisuuspoliittista
 Puhuja 2: keskustelua missäkin puolueessa käydään? On, ja
 Puhuja 1: demareiden ehdokasasettelu
 Puhuja 1: oli
-Puhuja 1: äärimmäisen poliittisesti äärimmäisen kiinnostavaa. Heillähän on Eero Heinäluoma,
+Puhuja 1: äärimmäisen poliittisesti äärimmäisen kiinnostavaa. Heillähän on
+Puhuja 1: Eero Heinäluoma,
 Puhuja 1: olisi Jutta Urpilainen.
 Puhuja 1: Molemmat olisi ollut
 Puhuja 1: uskottavia ja erittäin hyviä ehdokkaita kumpikin kieltäytyi
 Puhuja 1: varmaan vähän eri syistäkin.
-Puhuja 0: Mutta yksi on se ainakin Urpilaisilla on tuore lapsi ja heidän luoma on liian vanha ja se on edelleen. Niin, tai siis se, että molempia
+Puhuja 0: Mutta yksi on se ainakin... Urpilaisilla on tuore lapsi ja heidän luoma on liian vanha ja se on edelleen. Niin, tai siis se, että molempia
 Puhuja 1: yhdistää horotta eli Antti Rinteeseen ja kumpikaan ei tavallaan vaali, jossa on vaikea voittaa.
 Puhuja 1: Jotta Urpilainen voi hyvin olla kuuden vuoden päästä ehdolla ja saattaa olla ihan potentiaali
 Puhuja 1: potentiaali presidenttikin seuraavana. Ehkä hän ei halua lähteä turhaan häviämään. Vaikka
-Puhuja 2: on kansanliike ehdokkaita, niin kyllähän kaikki ehdokkaat
-Puhuja 2: myös tekee
+Puhuja 2: on kansanliike ehdokkaita, niin kyllähän kaikki ehdokkaat myös tekee
 Puhuja 2: yleispolitiikkaa. Eihän sitä voi kieltää, että kaikilla ehdokkailla on myös yleispoliittinen
 Puhuja 2: vaaliulottu. Merja
 Puhuja 1: Kyllönen vasemmistoliiton ehdokas, hänhän nyt tässä käy niin kun eurovaaleja
@@ -349,7 +352,7 @@ Puhuja 1: tämä sama osio, joka oli silloin uutisraportti-podcastina
 Puhuja 1: aina lopussa. Olin aina yhtä huonosti valmista, kun tämä varmaan tiesi, että tämä tulee.
 Puhuja 1: Niin nytkin en keksinyt oikeastaan mitään.
 Puhuja 1: Mulla on
-Puhuja 1: jotenkin niin jälkijättöinen, teen asiat silloin kun ei enää ole trendikkäitä, mutta olen nyt katsonut
+Puhuja 1: jotenkin niin jälkijättöinen, teen asiat silloin kun ne ei enää ole trendikkäitä, mutta olen nyt katsonut
 Puhuja 1: tätä crownia
 Puhuja 1: koko joulu. Katson koko sen ykköskauden ja nyt on siirtynyt tähän kakkoskauteen. Se on aivan huikea. On vitsi.
 Puhuja 0: Kun minä katson nyt breaking badia,
@@ -369,7 +372,7 @@ Puhuja 2: Vinston
 Puhuja 2: Churchin ja muotokuvajakso
 Puhuja 2: on draaman taidetta
 Puhuja 2: ja historia kerrostumin
-Puhuja 1: huikea. Joo, minä siirryn nyt sitä toista kautta, ja siinä on myöskin
+Puhuja 1: huikea. Joo, minä siirryn nyt toista kautta, ja siinä on myöskin
 Puhuja 1: tämä huikea jakso, kun
 Puhuja 1: paljastuu tämän kruunusta luopuneen Edwordin
 Puhuja 1: natsiyhteydet.
@@ -385,7 +388,7 @@ Puhuja 2: avausjakson.
 Puhuja 2: Ajattelin, että minun kokemukseni oli se, että miten väärään aikaan tämä tulee.
 Puhuja 2: Tämän Me Too-syksyn jälkeen en jaksa yhtään silvottua naista. En siis ainuttakaan.
 Puhuja 2: Minua ällötti koko se. Olin aivan jotenkin, että mitä tämä nyt siis alussa keskikohdassa ja lopussa, että
-Puhuja 2: nyt Oliko tämä
+Puhuja 2: nyt... Oliko tämä
 Puhuja 2: Thaimauksen
 Puhuja 2: massiivinen epäonnistuminen?
 Puhuja 2: Kiinnostavaa nähdä mihin se menee. Mutta minä ehkä haluaisin vaahdota tästä.
@@ -399,7 +402,7 @@ Puhuja 2: Siis
 Puhuja 2: ruotsalainen.
 Puhuja 0: Ruotsalainen.
 Puhuja 0: Ai,
-Puhuja 0: Mä nimittäin ajattelin Siis idea ei ole omaani,
+Puhuja 0: Mä nimittäin ajattelin... Siis idea ei ole omaani,
 Puhuja 0: vaan lainattu työkaverilta.
 Puhuja 0: Mä ajattelin olla kolme kuukautta
 Puhuja 0: juomatta alkoholia
@@ -409,8 +412,7 @@ Puhuja 0: Eilen oli kyllä jo aika paha.
 Puhuja 0: Siinä on sellainen ajattelu takana, että
 Puhuja 0: tipattoman
 Puhuja 0: tammikuun tekee kuka vaan,
-Puhuja 0: hampaat
-Puhuja 0: irvessä ja Sinnillä läpi.
+Puhuja 0: hampaat irvessä ja Sinnillä läpi.
 Puhuja 0: Sitten
 Puhuja 0: ehkä jollain sisulla
 Puhuja 0: kaksikin menisi,

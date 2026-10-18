@@ -28,15 +28,24 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--koko", type=int, default=100, help="erän tavoitekoko kilotavuina")
     p.add_argument("--alku", type=int, default=1, help="ensimmäisen erän numero")
+    p.add_argument("--uusinta", action="store_true",
+                   help="vain jaksot, joissa kohta oli null tai ikkunan ensimmäinen rivi "
+                        "(suositusosio alkoi ehkä ennen ikkunaa); ikkuna levennetään")
+    p.add_argument("--varalla", type=int, default=kk.VARALLA)
     args = p.parse_args()
 
-    valmiit = set(kk.lue_kuuntelu())
-    for f in glob.glob(os.path.join(TULOKSET, "*.json")):
-        valmiit.update(json.load(open(f, encoding="utf-8")).keys())
+    tulokset = {}
+    for f in sorted(glob.glob(os.path.join(TULOKSET, "*.json"))):
+        tulokset.update(json.load(open(f, encoding="utf-8")))
+    valmiit = set(kk.lue_kuuntelu()) | set(tulokset)
 
     tekstit = []
     for j in tj.lue_json(tj.SUOSITUKSET, []):
-        if j["id"] in valmiit or not any(not r.get("piilotettu") for r in j["suositukset"]):
+        if not any(not r.get("piilotettu") for r in j["suositukset"]):
+            continue
+        if args.uusinta and j["id"] not in tulokset:
+            continue
+        if not args.uusinta and j["id"] in valmiit:
             continue
         tpolku = paa.transkriptin_polku(j["id"])
         apolku = tj.ajat_polku(j["id"])
@@ -47,7 +56,15 @@ def main():
         if len(ajat["rivit"]) != len(rivit):
             print(f"⚠️ rivimäärät eroavat, ohitetaan: {j['paivamaara']} {j['jakso_otsikko'][:50]}")
             continue
-        tekstit.append(kk.jakson_teksti(j, rivit, ajat)[0])
+        if args.uusinta:
+            # Uusintaan, jos jokin kohta on null tai täsmälleen ikkunan ensimmäisellä rivillä
+            # (agentti valitsi aikaisimman näkyvän rivin, koska alku jäi ikkunan ulkopuolelle).
+            # Ensimmäiset erät tehtiin 25 rivin varalla, myöhemmät 60:n.
+            alut = {kk.ikkunan_alku(rivit, ajat, 25), kk.ikkunan_alku(rivit, ajat, 60)}
+            kohdat = tulokset[j["id"]].values()
+            if not any(v is None or v in alut for v in kohdat):
+                continue
+        tekstit.append(kk.jakson_teksti(j, rivit, ajat, args.varalla)[0])
 
     os.makedirs(ERAT, exist_ok=True)
     for f in glob.glob(os.path.join(ERAT, "era_*.txt")):

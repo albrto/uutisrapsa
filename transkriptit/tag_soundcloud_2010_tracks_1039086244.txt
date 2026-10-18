@@ -1,4 +1,5 @@
-Puhuja 0: Hei, tervetuloa Helsingin Sanomien uutisraportti-podcastiin
+Puhuja 0: Hei,
+Puhuja 0: tervetuloa Helsingin Sanomien uutisraportti-podcastiin
 Puhuja 0: torstaina kaksikymmentäyhdeksän.
 Puhuja 0: Kaksituhatta
 Puhuja 0: kaksikymmentäyksi
@@ -29,7 +30,7 @@ Puhuja 0: lepoa, koska olet tehnyt
 Puhuja 0: hallitustyöskentelyä
 Puhuja 0: niin paljon, että se on melkein laitonta.
 Puhuja 0: Oliko oikein kuvailtu? No,
-Puhuja 1: ei missään nimessä eihän täällä lakeerata. Mutta sanotaan, että aika.
+Puhuja 1: ei missään nimessä eihän täällä lakeja. Mutta sanotaan, että aika.
 Puhuja 1: Tiiviisti ollaan oltu
 Puhuja 1: tekemisissä
 Puhuja 1: tämän maan hallituksen
@@ -45,9 +46,9 @@ Puhuja 2: juttuja ja olette kuupannut aika tiiviisti
 Puhuja 2: näitä
 Puhuja 2: hallituksen touhuja siellä
 Puhuja 2: puoliväliriihässä.
-Puhuja 0: Ja Marko pilasit jutun koska olisin kysynyt, että koska meillä on kaksi teemaa niin kumpi olet niistä? Sinä olet se nuorempi. Joo. Eli Muhonen ja Luukka on taas uutistempussa.
-Puhuja 1: Juuri näin. Meillähän oli viime vuonna yhteis synttärit yhdeksänkymmentä v.
-Puhuja 1: Luukka kuusikymmentä ja mä kolmekymmentä. Ootki syntynyt
+Puhuja 0: Ja Marko pilasit jutun koska olisin kysynyt, että koska meillä on kaksi teemaa niin kumpi olet niistä? Sinä olet se nuorempi. Joo.
+Puhuja 1: Eli Muhoinen ja Luukka on taas uutistempussa. Juuri näin. Meillähän oli viime vuonna yhteis synttärit yhdeksänkymmentä v.
+Puhuja 1: Luukka kuusikymmentä ja mä kolmekymmentä. AttaK:tä syntynyt
 Puhuja 0: lähimainkaan päivinä.
 Puhuja 1: No ei ihan, on siinä pari kuukautta. No niin.
 Puhuja 0: Tämän viikon podcastissa
@@ -73,15 +74,16 @@ Puhuja 0: nimittäin Suomen eduskunnan
 Puhuja 0: perustuslakivaliokunta
 Puhuja 0: perustuslakiblogareineen.
 Puhuja 0: Eihän se sitä kaada. Ei niin, mutta se siirtää sen kohti
-Puhuja 0: kaatumisen mahdollisuutta
-Puhuja 0: vaatimalla kahden kolmasosan
+Puhuja 0: kaatumisen mahdollisuutta.
+Puhuja 0: Vaatimalla kahden kolmasosan
 Puhuja 0: enemmistöä
 Puhuja 0: eduskunnan
 Puhuja 0: äänestäessä asiasta.
 Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien
 Puhuja 0: hiljaisuuden
 Puhuja 0: varalle.
-Puhuja 0: Okei, keskusta on ollut lainatakseni
+Puhuja 0: Okei, keskusta
+Puhuja 0: on ollut lainatakseni
 Puhuja 0: eräästä suomalaista journalisti ja taustakeskusteluissa
 Puhuja 0: vitun paljon esillä ollakseen hyvin pieni puolue.
 Puhuja 0: Se, miten keskusta on kammenut itsensä otsikoihin sieltä jostain aivan luokan peräriveistä,
@@ -119,8 +121,7 @@ Puhuja 1: huoli siitä, että perustuslakivaliokunta
 Puhuja 1: ikään kuin päätyisi liian poliittiseksi niin se tietysti pitää ottaa vakavasti.
 Puhuja 1: Mutta ei vielä ole, minusta voi sanoa niin, että
 Puhuja 1: perustuslakivaliokunta
-Puhuja 1: instituutio on on täysin haudattu ja se on tuhonnut kaiken ja
-Puhuja 1: itsensä.
+Puhuja 1: instituutio on on täysin haudattu ja se on tuhonnut kaiken ja itsensä.
 Puhuja 1: Mutta totta kai sieltä on myös tullut vuotoja. Tämä on ollut yksi iso asia. Valiokunta, jota on pidetty aika pyhänä paikkana ja sieltä ei sisäisiä asioita vuodeta, niin sekä tämän Haaviston käsittelyn alla loppuvuodesta
 Puhuja 1: ja sen aikana, että nyt tässä
 Puhuja 1: elpymispakettiasiassa
@@ -173,8 +174,7 @@ Puhuja 1: Hyvin eri kantoja edustavia asiantuntijoita. Valiokunta tekee lopulta 
 Puhuja 1: ei niin, että mitä asiantuntijoiden
 Puhuja 1: enemmistö on sanonut. Eli tässä tapauksessa asiantuntijoiden enemmistö, eli enemmistö on sitä mieltä, että yksinkertainen enemmistö riittäisi,
 Puhuja 1: mutta valiokunta päätyy asiantuntijoiden vähemmistön kannalle.
-Puhuja 1: Tietysti
-Puhuja 1: aina on siis hyvä tarkastella kriittisesti, että tarkoittaako tämä sitä, että nyt tämä valiokunta on vain politikoinut.
+Puhuja 1: Tietysti aina on hyvä tarkastella kriittisesti, että tarkoittaako tämä sitä, että nyt tämä valiokunta on vain politikoinut.
 Puhuja 1: Ja on mahdollista, että näin on, mutta emme voi sitä ihan varmasti myöskään. Ei, mutta ei. Koska pitää muistaa se, että eihän se
 Puhuja 1: asiantuntijoiden määrä, vaan onhan se myös laatu,
 Puhuja 1: kenenkään
@@ -200,18 +200,18 @@ Puhuja 0: Suomen mennä tähän EU-pakettiin vai ei, niin kokoomus äänestää 
 Puhuja 0: Silloin
 Puhuja 0: tapahtuu jotain, että se vapauttaa voimaa
 Puhuja 0: tai valtaa johonkin.
-Puhuja 2: Kenen valta kasvaa siinä tapauksessa? Ei se menee. Jos ryhmäpäätös niin ne äänestävät tyhjää. Niin siellä voi tulkita että silloin
-Puhuja 2: tämä päätös edesauttaa päätöksen
+Puhuja 2: Kenen valta kasvaa siinä tapauksessa? Ei se menee. Jos ryhmäpäätös niin ne äänestävät tyhjää. Niin siellä voi tulkita että päätös
+Puhuja 2: edesauttaa päätöksen
 Puhuja 2: kahden
 Puhuja 2: kolmasosan enemmistön syntymistä. Kun se kaksi kolmasosaa
-Puhuja 2: lasketaan vain annetuista äänistä. Jos kokoomuksen
+Puhuja 2: lasketaan vain annetuista äänistä. Jos Kokoomuksen
 Puhuja 2: kansanedustajia on
 Puhuja 2: kolmekymmentäkuusi.
 Puhuja 2: Jos se on kolmekymmentäkuusi tyhjää ääntä niin koko määrä on
 Puhuja 2: satakuusikymmentäneljä.
 Puhuja 2: Ja siitä tällaista kaksikymmentäkolme. Tavallaan
 Puhuja 2: se
-Puhuja 2: kokoomus pesi kätensä, mutta samaan aikaan se otti voimakkaasti myös kantaa sen puolesta että tämä paketti menisi läpi. Mutta se tyhjän äänestäminen
+Puhuja 2: kokoomus pesi kätensä, mutta samaan aikaan se otti voimakkaasti myös kantaa. Sen puolesta että tämä paketti menisi läpi. Mutta se tyhjän äänestäminen
 Puhuja 2: kuulostaa niin vastuunvälttelyltä
 Puhuja 2: mitä se kyllä vähän niin kuin onkin, niin se ei vaan...
 Puhuja 1: Mikä vähän nyt?
@@ -220,12 +220,11 @@ Puhuja 2: Vaikka miten kokoomus spinnaisi tämän siihen että
 Puhuja 2: ne varmistavat tällä läpimenon
 Puhuja 2: mutta että se tehtiin näin nopeasti. Se oli taktinen päätös että heitetään pallo takaisin hallitukselle että hoitakaa kepu itse se Huskonen kuriin. Ja B koska
 Puhuja 2: ilmeisesti kokoomuksessa on vilpitön huoli siitä, että jos ne olisivat antaneet vapaat kädet, se olisi tullut
-Puhuja 2: täydellinen bordelle. Aika
-Puhuja 2: moni
-Puhuja 2: olisi voinut äänestää
-Puhuja 2: että se kai näyttää että siellä on kourallinen kokoommlaisia.
-Puhuja 2: Oikea neljä tai viisi
-Puhuja 1: ihmistä vastaan. Sitähän ei voi kylliksi alleviivata että millaisen
+Puhuja 2: täydellinen bordelle. Siellä olisi
+Puhuja 2: aika moni voinut äänestää
+Puhuja 2: että siellä on kourallinen kokoomtilaisia.
+Puhuja 1: Oikea neljä tai viisi
+Puhuja 1: kestävä vastaan. Sitähän ei voi kyiksi alleviivata että millaisen
 Puhuja 1: show'n keskustan tämä viikon kansallinen näytelmä olisi ollut pientä verrattuna siihen, kun täällä alettaisiin kaataa koko EU:n elpymispakettia
 Puhuja 1: ja koko tulevaa tuleville tulevien vuosien budjettia.
 Puhuja 1: Minä en
@@ -244,7 +243,8 @@ Puhuja 2: Silloin se menokehys vasta paukkuu kun rahaa pitää löytää jostain
 Puhuja 1: opettajille. Niin,
 Puhuja 1: silloin tehtäisiin niin että Suomi ottaa saman summan
 Puhuja 1: markkinoilta. Suomi saa halpaa velkaa, Suomi ottaa saman summan markkinoilta ja sitten se tehtäisiin niin, että tämä on
-Puhuja 1: yllättävä menoerä,
+Puhuja 1: yllättävä
+Puhuja 1: menoerä,
 Puhuja 1: joka laitetaan näiden
 Puhuja 1: menokehysten, jos nyt on väännetty, niiden ulkopuolelle
 Puhuja 1: ja se asia hoidettaisiin.
@@ -297,15 +297,16 @@ Puhuja 1: valtion budjetti on yli kuusikymmentä miljardia, niin sitten se sata 
 Puhuja 1: lisä on oikeastaan
 Puhuja 1: aika pieni huomaamaton asia siellä.
 Puhuja 1: Yksittäisenä järjestelynähän tämä nyt ei sido Suomen käsiä mitenkään valtavasti.
-Puhuja 1: Mutta sitten kysymys on se, että onko tämä vain yksittäinen järjestely? Entä
+Puhuja 1: Mutta sitten kysymys on se, että onko tämä vain yksittäinen
+Puhuja 1: järjestely? Entä
 Puhuja 1: jos tulee uusi tällainen ja uusi ja uusi ja uusi, ne ovat aina vaan isompia ja EU ottaa yhä enemmän velkaa, että tämä avaisi portin jatkuvalle
 Puhuja 1: EU-tason
 Puhuja 1: velanotolle.
 Puhuja 1: Tätä juuri nämä kahden kolmasosan
 Puhuja 1: kannattajat siellä perustuslakivaliokunnassakin
 Puhuja 1: arvioivat,
-Puhuja 1: että jos tämä
-Puhuja 1: sallitaan, niin tämä avaa oven
+Puhuja 1: että jos tämä sallitaan,
+Puhuja 1: niin tämä avaa oven
 Puhuja 1: sitten ja sitten taas se toinen puoli, joka oli meiltä yksinkertainen, mistä riittää
 Puhuja 1: oli, että
 Puhuja 1: tämä ei avaa mitään ovea, tämä
@@ -324,9 +325,7 @@ Puhuja 0: ja simapullan.
 Puhuja 0: Ja sitten menette
 Puhuja 0: ehkä Tähtitorninmäelle,
 Puhuja 0: ehkä Oulussa Ainolanpuistoon.
-Puhuja 2: Ei kai tästä Torniamäelle saa mennä, saa mut vastuuta. Ei. Minkä vaan, rikkakallakin.
-Puhuja 0: Älkää
-Puhuja 0: Topput ikinä podcastista mitään terveystietoa
+Puhuja 2: Ei kai tästä Torninmäelle saa mennä, saa mut vastuuta. Ei. Minkä vaan, rikkakallakin. Älkää, älä ikinä podcastista mitään terveystietoa
 Puhuja 0: vastaan.
 Puhuja 0: Oulussa Ainolanpuistoon,
 Puhuja 0: minne mennään, mistä sä olit Teemu kotoisin?
@@ -342,8 +341,8 @@ Puhuja 0: Marko?
 Puhuja 2: Mulla on tällainen
 Puhuja 2: perversio,
 Puhuja 2: tykkään John Grishamin kirjoista. Olen lukenut ne varmaan melkein kaikki. Ne on hyviä. Ne on tällaisia oikeussalidekkareita.
-Puhuja 2: Nyt sitten ilmestyi eilen. Sänkulmassa huomasin, kun
-Puhuja 2: katsoin padille. Siitä tuli uusi
+Puhuja 2: Nyt sitten ilmestyi eilen. Shakyyn huomasin
+Puhuja 2: illalla kun katsoin padille, niin tuo on ilmestynyt uusi
 Puhuja 2: kirja, jonka ostin
 Puhuja 2: Padiin. Sen nimi
 Puhuja 2: on Voch.
@@ -372,8 +371,7 @@ Puhuja 1: Teemu. Aloitan innoissani ja luin
 Puhuja 1: Helsingin Sanomista tässä
 Puhuja 1: taannoin toimittaja Leena Virtasen kirjoittaman televisiosarjan
 Puhuja 1: arvostelun. Jostain sarjasta,
-Puhuja 1: jotain en muista, mutta siellä keskellä sanottiin,
-Puhuja 1: että
+Puhuja 1: jotain en muista, mutta siellä keskellä sanottiin, että
 Puhuja 1: line of Gyyti-nimisen
 Puhuja 1: poliisisarjan
 Puhuja 1: kuudes kausi tulee yllättäen Ylelle ihan
@@ -381,30 +379,33 @@ Puhuja 1: toukokuun alkupuolella.
 Puhuja 1: Olen katsonut ne Gat5 kautta jostain C Moresta tai jostain. Ne ovat siis tosi hyviä.
 Puhuja 0: I'm of doue, minkälainen?
 Puhuja 0: Poliisin.
-Puhuja 1: Siinä tutkitaan poliisin sisäistä korruptiota. Se on tavallaan aika perinteinen
-Puhuja 1: poliisitrilleri homma, jota tehdään jatkuvasti, mutta se on vain niin hyvin käsikirjoitettu,
+Puhuja 1: Siinä tutkitaan poliisin sisäistä
+Puhuja 1: korruptiota. Se on tavallaan aika perinteinen
+Puhuja 1: poliisitrilleri homma, jota tehdään jatkuvasti,
+Puhuja 1: mutta se on vain niin hyvin käsikirjoitettu,
 Puhuja 1: että sitä on oikeasti
 Puhuja 1: nautinnollista kattoa
 Puhuja 1: ja siihen
 Puhuja 1: todellakin jää koukkuun. Myös Leena Virtanen on kehunut sitä.
 Puhuja 0: Se on ollut hyvä.
 Puhuja 1: Olen usein samaa mieltä kuin Leena Virtanen, joka kirjoittaa. Joo.
-Puhuja 0: Haluan kertoa suositella Ambela Academia
+Puhuja 0: Haluan kertoa suositella
+Puhuja 0: Ambela Academia
 Puhuja 0: Netflixissä. Netflix Orizon Ambreale Academia, kaksi kautta tullut. Se on todella lähellä Game of Thronesia
 Puhuja 0: siinä vaikutuksessa, joka on...
 Puhuja 0: Oletteko te katsoneet Game Thronesin?
 Puhuja 0: Joo.
 Puhuja 0: Mä en ole.
 Puhuja 0: Enkä aio. Sinun pitää kattaa
-Puhuja 0: se. Se leimallisin Game of Throns homma on se, että se oli täynnä jaksoja, joiden jälkeen saattoi
-Puhuja 0: lähteä Mitä?
+Puhuja 0: se. Se leimallisin Game of Throns homma on se, että se oli täynnä jaksoja, joiden jälkeen saattoi lähteä Mitä?
 Puhuja 0: Se on
 Puhuja 0: niin intensiivinen,
 Puhuja 0: ne cliffhangerit
 Puhuja 0: aivan mielettömiä. Amreale Academys tosi paljon samaa. Se jakso loppuu, niin olin silleen... Mistä
 Puhuja 0: Sara kertoo? Se on semmoinen supersankarihomma,
-Puhuja 0: tosi vaikea, tosi monimutkainen. Se pitää vaan kannattaa katsoa ehdottomasti. Mutta se ei ole minun varsinainen suosittelun.
-Puhuja 0: Uusi podcast tai itse asiassa vanha, jo lopetettu podcast,
+Puhuja 0: tosi vaikea, tosi monimutkainen. Se pitää vaan kannattaa katsoa ehdottomasti. Mutta se ei ole minun varsinainen suositteluni.
+Puhuja 0: Uusi podcast tai
+Puhuja 0: vanha, jo lopetettu podcast,
 Puhuja 0: Super Context
 Puhuja 0: podcast.
 Puhuja 0: Todella

@@ -18,14 +18,15 @@ Puhuja 0: seitsemän. Huhtikuuta
 Puhuja 0: on mennyt tuplanabodella
 Puhuja 0: maaliskuuhun verrattuna.
 Puhuja 0: Kanssani täällä Helsingin Sanomien podcast studiossa Helsingissä
-Puhuja 0: Suomessa
+Puhuja 0: Suomessa,
 Puhuja 0: Euroopassa.
 Puhuja 0: Eurooppa päätetään tällä kertaa siihen Eurooppa. Erittäin olennainen ja mahtava maanosa
 Puhuja 0: ovat
 Puhuja 0: taloustoimittaja.
 Puhuja 0: Alma Onali. Hei Alma. Morjesta.
 Puhuja 0: Onko sun koko nimi Alma Sofia Onali? On. Ystävien kesken sä oot Alma. Alma. Mä en tiennyt, että sulla on tämmöinen
-Puhuja 0: Anna Sofia Berner tyylinen nimi, kombinaatio. Sillä on väliviiva siis. On väliviiva, joo.
+Puhuja 0: Anna Sofia Berner tyylinen
+Puhuja 2: nimi, kombinaatio. Sillä on väliviiva siis. On väliviiva, joo.
 Puhuja 1: Tiedättekö, mitä tämä pop Star Alma? No? Se on myös Alma-Sofia
 Puhuja 1: väliviivalla. Okei.
 Puhuja 1: Niinpä. Me ollaan bondailtu sen kanssa tästä. Väliviivoista kiinnostunut ääni sivussa oli politiikan toimittaja. Marko Junkkari. Hei,
@@ -50,8 +51,8 @@ Puhuja 0: kuvista?
 Puhuja 0: Miksi juuri nämä kauheudet tuntuvat niin merkityksellisiltä?
 Puhuja 0: Miten on enää sukupolvien mahdollista kohdella
 Puhuja 0: Venäjää,
-Puhuja 0: kuten mitä tahansa muuta Euroopan maata? Todennäköisesti
-Puhuja 0: ei ole.
+Puhuja 0: kuten mitä tahansa muuta Euroopan maata?
+Puhuja 0: Todennäköisesti ei ole.
 Puhuja 0: Mitkä ovat Butsan
 Puhuja 0: pitkät ja mittavat seuraukset
 Puhuja 0: sekä Venäjälle että meille muille.
@@ -117,7 +118,8 @@ Puhuja 1: sieltä tulee tietoja, että sotarikoksia... Sähäntöihin
 Puhuja 1: kuuluu, että jos otat vihollisia vangiksi, niin sä et saa niitä tappaa, et saa niitä kiduttaa.
 Puhuja 1: Ilmeisesti siellä ainakin New York Times oli nyt uutisoinut, että Ukrainassa on jotain georgialaisia joukkoja, jotka ovat sotumassa Ukrainan puolesta. Siis Ukraina joukkoja, jotka ovat sitten teloittaneet
 Puhuja 0: Venäjän sotilailaa. Lauri aina video se oli virhe, se oli tosi paha video. Joo, ei pidä tollasia videoita
-Puhuja 0: varmistamaan, ja oli varmistanut.
+Puhuja 0: varmistamaan,
+Puhuja 0: ja oli varmistanut.
 Puhuja 0: Mäkin katsoin sen videon, ja se oli paikkansa. Ei näyttänyt minun silmään mitenkään
 Puhuja 0: tohtoroidulta.
 Puhuja 0: Ei ärtynyt minun silmään mitenkään tohtoroidulta.
@@ -233,7 +235,8 @@ Puhuja 1: vanhemman äidille ja kysyi, että millaista se elämä oli silloin 70
 Puhuja 1: Kivaa oli. Silloin käytiin töissä, saatiin palkkaa ja kasvateltiin lapsia ja sitten käytiin retkillä ja oli tosi mukavaa. Mä
 Puhuja 1: mietin sitä, että
 Puhuja 1: mitä jos meillä olisikin aikaa tehdä vain yhtä työtä,
-Puhuja 1: mutta saada siitä sellainen palkka, että sillä voi elää. Meillä olisi aikaa hoitaa läheisiä ihmissuhteita ja siinä sivussa tehdä vielä jotakin merkityksellistä
+Puhuja 1: mutta saada siitä sellainen palkka, että sillä voi elää.
+Puhuja 1: Meillä olisi aikaa hoitaa läheisiä ihmissuhteita ja siinä sivussa tehdä vielä jotakin merkityksellistä
 Puhuja 1: ja itselle tärkeää,
 Puhuja 1: niin riittäisikö se? Itsellenihän ei mikään riitä eli mun pitäisi varmaan muuttaa jonkun
 Puhuja 1: savolaisen kylän viimeisen pirtti miettimään tekosiani ja omia kulutustottumuksia. Mua
@@ -300,7 +303,7 @@ Puhuja 1: Tommi Nieminen, Sami Kerro.
 Puhuja 1: Kyllä.
 Puhuja 0: Eli siis Markon juttu. Perttu Nousiaisesta on nimetty vuoden juttu kategoriassa.
 Puhuja 0: Kolme kolmekymmentäyhdeksän. Sorkoluulttu.
-Puhuja 0: Siis kova meno. Suomalaisten journalismin kentässä
+Puhuja 1: Siis kova meno. Suomalaisten journalismin kentässä
 Puhuja 0: suurin kunnia, mitä voi saada.
 Puhuja 2: Joo. Se oli minun
 Puhuja 2: ja

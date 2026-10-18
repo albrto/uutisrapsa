@@ -7,8 +7,7 @@ Puhuja 0: Nimeni on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien pod
 Puhuja 0: kerrankin ilman kameroita, joita ollaan muuttamassa meidän uuteen podcast-studioon,
 Puhuja 0: rennosti pelkän audion kera. Tässä on jotain niin rentouttavaa ja vapauttavaa. Tuntuu paljon kivempi olla ilman kameroita.
 Puhuja 1: Voi pyöriä tuolissa tälleen. Joo, joo. Etenkin heti on semmoinen... Akkaliikkeet ei hätää.
-Puhuja 0: Ahha rauhallinen.
-Puhuja 0: Mikä tunnelma.
+Puhuja 0: Ahha rauhallinen ja mikä tunnelma.
 Puhuja 0: Tässä kanssani tunnelmasta nauttii
 Puhuja 0: politiikkaa toimittavaa. Markku Junkkari. Hei, Marko. No heissä.
 Puhuja 0: Hänen vieressään kuumeisesti
@@ -65,7 +64,7 @@ Puhuja 0: tällä viikolla todellisuudeksi.
 Puhuja 0: Sohvi kertoi meille siitä taustasta, joista emme halua myöntää tämän heti kärkeen, niin olen aivan täysin pihalla. Mutta sen takia kyselen häneltä
 Puhuja 0: kaikkea
 Puhuja 0: tähän liittyen. Ja vielä lopuksi hyviä keskustelun aiheita pitkien epämukavien hiljaisyyksien
-Puhuja 0: varalle.
+Puhuja 2: varalle.
 Puhuja 0: Pikkuoidut juhlittiin. Millä fiiliksellä
 Puhuja 0: Sohvi, Marko?
 Puhuja 2: Oli tosi, tosi, tosi mukavaa.
@@ -94,27 +93,28 @@ Puhuja 0: siihen, joka ehkä sopii tämän podcastin luokse. Ensimmäisen esityk
 Puhuja 0: äänivesileima,
 Puhuja 0: koska striimin lähettävän yrityksen yksi ääniplugin
 Puhuja 0: oli ilmeisesti jäänyt maksamatta.
-Puhuja 0: Joten siinä viiden minuutin välein toistui tämmöinen
+Puhuja 0: Siinä viiden minuutin välein toistui tämmöinen
 Puhuja 0: sponsored bystereotuus.
 Puhuja 0: Ilmoitus.
 Puhuja 0: Näin. Mutta nämä oli kaikessa mittakaavassa aivan. Se on se tapa, millä me pystytään hidastamaan, mutta me ei saada hirveitä miehistö tappiota, kun me vetäydytään näin.
 Puhuja 0: Mutta
 Puhuja 0: esimerkiksi, että busan
 Puhuja 0: tapahtumat asettaa tämän strategian täysin kyseenalaiseksi.
-Puhuja 0: Ja että se vaatisi
-Puhuja 0: keskustelua ja huomiota meiltä suomalaisilta, että ollaanko me tosiaan valmiita siihen, että meidän itärajan kaupungit ja kylät, ne ihmiset, jotka jäävät sinne, naiset ja lapset, mitä on,
+Puhuja 0: Että se vaatisi
+Puhuja 0: keskustelua ja huomiota meiltä suomalaisilta, että
+Puhuja 0: ollaanko me tosiaan valmiita siihen, että meidän itärajan kaupungit ja kylät, ne ihmiset, jotka jäävät sinne, naiset ja lapset, mitä on,
 Puhuja 0: kirutetaan, raiskataan joukkohaudat.
 Puhuja 0: Koko tämä helahoito, mitä Venäjän armeija on jättänyt jälkeensä Ukrainassa.
 Puhuja 2: Mutta jäisivät ne ihmiset siis sinne?
-Puhuja 2: Eikö Suomi yleensä viimeksi evakuoinut
-Puhuja 0: kaikkia? En ole ihan varma, miten siinä kävisi. Ukrainassahan heitti. Niin, kyllä.
+Puhuja 2: Eikö Suomi yleensä
+Puhuja 0: viimeksi evakuoinut kaikkia? En ole ihan varma, miten siinä kävisi. Ukrainassahan heitti. Niin, kyllä.
 Puhuja 0: Tämä miinakysymys
 Puhuja 0: liittyy oleellisesti
 Puhuja 0: tähän. Jos me ollaan silleen, että okei, me ei anneta putsan tapahtua meillä ja me ei hyväksytä se, että Joensuu ja mitä noita tuolla on, että niissä asuvat ihmiset kidutetaan kuoliaaksi,
 Puhuja 0: Sitten se miinakysymys tulee aika tulenpalavaksi,
 Puhuja 0: koska se on se tapa estää
 Puhuja 0: se näin. Okei, toinen... Ja nyt tämä on iso kysymys ja tämä on viime kysymys.
-Puhuja 0: Monet niistä asioista, mistä me nyt puhutaan.
+Puhuja 0: Monet niistä asioista, mistä me nyt puhutaan:
 Puhuja 0: Nato-jäsenyys.
 Puhuja 0: Sitten on tämä Ottama
 Puhuja 0: sopimuksesta vetäytyminen.
@@ -143,8 +143,7 @@ Puhuja 0: monet ne ajatukset, mihin pohjasi,
 Puhuja 0: ne oli joko suoraan
 Puhuja 0: vääriä tai sitten, että se oli sen ajan ajatus. Se ei ollut väärä, koska se oli oikea silloin. Mutta nyt me nähdään, että sillä tavalla ei voida enää ajatella, että Venäjän kanssa ollaan yhteistyössä
 Puhuja 0: ja
-Puhuja 0: kansainväliset
-Puhuja 0: talousjärjestelmät
+Puhuja 0: kansainväliset talousjärjestelmät
 Puhuja 0: sitovat Venäjän Eurooppaan. Sen takia uhka on pois.
 Puhuja 0: Mulla tulee mieleen semmoinen kysymys, mihin mulla ei ole vastausta, mutta tässä on kaksi viisasta ihmistä.
 Puhuja 0: Mitä meidän täytyy ajatella, että meillä monia ulkopolitiikan
@@ -155,16 +154,16 @@ Puhuja 0: Mun mielestä ei tarvitse sanoa, että Tarja Halonen oli väärässä 
 Puhuja 0: Joo,
 Puhuja 1: se oli sitä aikaa.
 Puhuja 1: Varmasti Tarja Halonen
-Puhuja 1: ja hän oli presidenttinä ja sitten tuomioja oli
+Puhuja 1: ja hän oli presidenttinä ja tuomioja oli
 Puhuja 1: ulkoministerinä ja he molemmat edustavat
 Puhuja 1: samantyyppistä
-Puhuja 1: poliittista ajattelua ja maailmankuvaa niin totta kai se vaikutti
-Puhuja 1: koko Suomen ulkopolitiikan linjaan, mutta kyllä silti väitän, että ei se ollut tavallaan,
+Puhuja 1: poliittista ajattelua ja maailmankuvaa niin totta kai se vaikutti koko
+Puhuja 1: Suomen ulkopolitiikan linjaan, mutta kyllä silti väitän, että ei se ollut tavallaan,
 Puhuja 1: tavallaan se maailma oli tosi erilainen. Silloin puhuttiin vakavissaan siitäkin, että Venäjä voisi liittyä Natoon. Kyllä se usko siihen, mikä Venäjä
 Puhuja 1: demokratisoituu ja
 Puhuja 1: tavallaan ollaan matkalla
-Puhuja 1: läntiseen
-Puhuja 1: liberaalin demokratian
+Puhuja 1: läntiseen liberaalin
+Puhuja 1: demokratian
 Puhuja 1: lopulliseen voittoon tämä fukujummalainen ajatus. Kyllähän silloin se maailma oli, maailma katsottiin ihan eri suunnasta.
 Puhuja 1: Sitten tuli Zsänian sotaan ja tuli Putinia tavallaan vähän... Mutta, ja silti vielä sen... On mahtavaa, kun mentiin Georgian
 Puhuja 0: jälkeen.
@@ -182,8 +181,8 @@ Puhuja 2: He olivat minua muutaman vuoden nuorempia,
 Puhuja 2: Juuri tästä, minkälaiseen
 Puhuja 2: maailmankuvaan
 Puhuja 2: ja Venäjän suhteeseen oli kasvanut versus millaista on nyt.
-Puhuja 2: Se oli todella kiinnostavaa ja se oli henkilökohtaisella tasolla
-Puhuja 2: tämä sama asia, että minkälaisen
+Puhuja 2: Se oli todella kiinnostavaa ja se oli henkilökohtaisella
+Puhuja 2: tasolla tämä sama asia, että minkälaisen
 Puhuja 2: myllerryksen omassa päässä on täytynyt Venäjän suhteen käydä.
 Puhuja 2: Sitä suhtautui niihin omien
 Puhuja 2: isovanhempien
@@ -196,13 +195,14 @@ Puhuja 0: Euroopan maa, varmaan maailman maa, joka ei suostu puhumaan omasta
 Puhuja 0: yritetystä kansanmurhasta. Kaikki teeskentelevät niin kuin sitä tapahtuisi.
 Puhuja 0: Aivan outoa.
 Puhuja 0: Mistä kansanmurhasta? Isosta vihasta.
-Puhuja 2: Myös
-Puhuja 2: pikkujouluissa
+Puhuja 2: Just
+Puhuja 2: myös pikkujouluissa
 Puhuja 2: juttelin toisen kuulijan kanssa, jonka kotitila on edelleen samalla paikalla, jonka venäläiset aikoinaan on iso vihassa valtasi. Just
 Puhuja 0: näin. Meillä on tämmöinen outo, että me ei keskustella. Me ei myöskään keskustella siitä, että aa niin joo, putsassa pistettiin vain kaikki lapset ja naiset joukkohautaan ja näin.
 Puhuja 0: Mitäköhän meillä kävisi? Tätä keskustelua ei käynyt. Meillä on semmoinen aivan outo juttu. Mutta ajattelen, että se johtuu siitä, että kaikki
 Puhuja 0: ajakaa sen. Mä en usko.
-Puhuja 0: Mä luulen, että se tulee pitkästä perinteestä, että nyt turvat tukkoon, että meille ei käy huonosti. Se on keskeinen. Se on ollut aika paljon molempia.
+Puhuja 0: Mä luulen, että se tulee siitä pitkästä perinteestä, että nyt turvat tukkoon, että meille ei käy huonosti.
+Puhuja 2: Se on selvä. Se on selvä. Se on selvä. Se on selvä. Se on
 Puhuja 0: Pieni. Luin Ysärin lehdet, jossa keskusteltiin tästä, liittyykö Suomi ottamaan vai ei koko tämä hela hoito, mitä Helsingin Sanomissa oli
 Puhuja 0: kirjoitettu tästä. Ja tiedättekö, mitä siellä ei ollut? Ei
 Puhuja 0: kertaakaan mainittu
@@ -245,7 +245,8 @@ Puhuja 1: Tämä on
 Puhuja 1: sinänsä tosi merkittävä juttu.
 Puhuja 1: Kuva.
 Puhuja 1: Sehän oli silloin, kun hammas
-Puhuja 1: teki gasasta-iskun
+Puhuja 1: teki Gazasta
+Puhuja 1: tämän terrori-iskun
 Puhuja 1: ja massamurhaa, missä tappoi tuhat pitää
 Puhuja 1: israellaista.
 Puhuja 1: Heidän
@@ -261,22 +262,21 @@ Puhuja 1: estäisi
 Puhuja 1: kahden valtiomallin tai minkä tahansa rauhanneuvottelun, että Israel ajettaisiin
 Puhuja 1: mereen.
 Puhuja 1: Se alkoi heti se Isbollahi
-Puhuja 1: enemmän tai vähemmän koordinoitu hyökkäyshamasin
-Puhuja 1: rinnalla.
+Puhuja 1: enemmän tai vähemmän koordinoitu hyökkäyshamasin rinnalla.
 Puhuja 1: Nyt Pisbollahan on pois pelistä ja nyt Kaasa ja Hamas on
 Puhuja 1: todella yksin.
 Puhuja 1: Käsittääkseni Hamasissakin puhutaan siitä, että se voisi tulla myös siellä tulitauko. Niin HAMA on ihan julkisestikin ilmoittautunut olevansa
 Puhuja 2: kiinnostunut neuvotteluista,
 Puhuja 2: mutta samaan aikaan etaniahu ja Israel on. Päinvastoin
 Puhuja 2: he pystyvät nyt
-Puhuja 2: käyttämään kaikki resurssinsa siellä Kaasassa, eikä tarvitse enää käydä siellä pohjoisessa.
+Puhuja 2: käyttämään kaikki resurssinsa siellä Kaasassa, eikä tarvitse enää käydä siellä pohjoisessa sotaa.
 Puhuja 1: Niin eli ei lupaa hyvää myöskään Kaasalla.
 Puhuja 2: Eilen viestittelin lyhyesti mun peidotissa asuvan tutun kanssa ja oli se myös
-Puhuja 2: ehkä hyvä muistaa, kun mekin on näistä aseista ja kaikesta tässä puhuttu paljon.
-Puhuja 2: Oli se ihan koskettava, kun hän kuvasi sitä miltä tuntuu. Ja hän itse kivasti tajusi, että kun on kaksi kuukautta ja oli kiihkeempi vaihe siitä sodasta,
+Puhuja 2: ehkä hyvä muistaa, kun mekin on näistä aseista ja kaikesta puhuttu paljon. Niin oli se ihan koskettava, kun hän kuvasi sitä miltä tuntuu. Ja hän itse kivasti tajusi, että kun oli kaksi kuukautta
+Puhuja 2: kiihkeempi vaihe siitä sodasta,
 Puhuja 2: minkälaisessa jännitystilassa on ollut koko ajan. Koko ajan olen kuullut ne droneja sinne leijailemassa
-Puhuja 2: ja lyhyen matkan päässä hänen kodistaan
-Puhuja 2: on sodittu.
+Puhuja 2: ja lyhyen matkan päässä hänen kodistaan on
+Puhuja 2: sodittu.
 Puhuja 2: Että sitten kun se loppui, niin miltä se hiljaisuus
 Puhuja 2: tuntuu.
 Puhuja 2: Se oli käsinkosketeltava.
@@ -291,14 +291,15 @@ Puhuja 2: Israel voi tehdä
 Puhuja 2: mitä vaan
 Puhuja 2: ja sitä vastausta
 Puhuja 2: ei tule siinä määrin kuin pelättiin.
-Puhuja 0: Tässä podcastissa oli se yksi mainio jakso, jossa Timast Jurrent tuli tänne.
+Puhuja 0: Tässä podcastissa oli se yksi mainio jakso, jossa Timast Jurrt tuli tänne.
 Puhuja 0: Ja totaalisesti läksytti, mutta siitä kun en tiennyt mitään Lähi-idän tilanteesta.
 Puhuja 0: Mun mielikuvat selkeästi ovat 70-luvulta peräisin
 Puhuja 0: ja myös totaalisen jenkkien Israelin propagandan lävistämiä.
 Puhuja 0: Minun mielikuva oli silleen, että Israel on uhattuna siinä koko ajan.
 Puhuja 0: Kaikkialla muualla on arabivaltioita,
 Puhuja 0: jotka ovat vihamielisiä.
-Puhuja 0: Mutta tämähän osoittaa sen, että kyllä siellä kaikki muut ovat altavastaajina
+Puhuja 0: Mutta tämähän osoittaa sen, että
+Puhuja 0: siellä kaikki muut ovat altavastaajina
 Puhuja 0: kuin Israel, koska
 Puhuja 0: eivät ole edes yhteistyössä
 Puhuja 0: kyenneet Israelille
@@ -309,8 +310,8 @@ Puhuja 0: toimia, on varmaan suurempaa kuin tyyliin ikinä. Ilmeisesti järkytty
 Puhuja 1: Seuraavan kerran kun he lupasi tulla, niin hän ei tullut paikalle ollenkaan.
 Puhuja 0: Muistatko sen? Muistan sen, mutta seinamme tietenkin anteeksi,
 Puhuja 0: että hänellä oli tupla pulkkaus.
-Puhuja 2: Kyllä.
-Puhuja 2: APE tulitauko.
+Puhuja 2: Kyllä. Semmoinen niin kuin
+Puhuja 2: apean tulitauko.
 Puhuja 2: Liban on
 Puhuja 2: hyvin syvissä ongelmissa oleva ollut maa jo pitkään.
 Puhuja 2: Tavallaan nyt se akuutti
@@ -359,7 +360,7 @@ Puhuja 2: Kuuntelin just esimerkiksi Shabel Roonia ja muita artisteja
 Puhuja 2: tämän innoittavana.
 Puhuja 2: Tässä
 Puhuja 2: oli musiikillinen taso, mutta myös laajempi kulttuurinen
-Puhuja 2: merkitys siinä, että miten
+Puhuja 2: merkitys siinä, miten
 Puhuja 2: lesbot
 Puhuja 2: näkyy valtavirtaa
 Puhuja 2: pomissa.
@@ -367,15 +368,15 @@ Puhuja 2: Suosittelen.
 Puhuja 1: Mä itse asiassa muiden kanssa suosittelen yhtä juttua, että en löydä sitä enää. Mutta suosittelen, että katsoin viikonloppuna. Nyt on
 Puhuja 1: tullut tämä uusi dyyni tv-sarja.
 Puhuja 1: Entä ensimmäinen jakso, meneekö toinen jakso tullut jo ulos, mutta ensimmäisen jakson katsoin viikonloppuna ja
-Puhuja 1: suhteeni dyydiin on semmoinen vähän kahtalainen, mutta se Leffahan oli ihan mainio ja mä olin joskus lapsena tykännyt niistä kirjoista. Mä rupesin lukemaan niitä kirjoja jossain vaiheessa. Leffat.
-Puhuja 2: Mutta se toka ei musta ole yhtä hyvä. Ykkökän on puolivälissä kakkosta.
-Puhuja 1: Ykkökän on erinomainen.
+Puhuja 1: suhteeni dyydiin on semmoinen vähän kahtalainen, mutta se Leffahan oli ihan mainio ja olin lapsena tykännyt niistä kirjoista. Mä rupesin lukemaan niitä kirjoja jossain vaiheessa. Leffat.
+Puhuja 2: Mutta se toka ei musta ole yhtä hyvä. Yksi on puolivälissä kakkosta.
+Puhuja 1: Ykkönen on erinomainen.
 Puhuja 1: Muistan joskus, kun lapsena olen lukenut kirjoja ja nyt rupesin uudestaan lukemaan, että miten lapsille on todella rasittavia.
 Puhuja 1: Mutta TV-sarja vaikuttaa minusta aika hyvältä. Olin ensimmäisen jaksoihin näihin katsoin innoissaan.
 Puhuja 1: Siitä on merkkinä se, että olen kaksi kertaa käynyt katsomassa siellä.
 Puhuja 1: Onko se toinen jakso tullut?
 Puhuja 0: Toi kertaa ja paljon. Mutta
-Puhuja 1: siinä on ehkä huolestuttavaa se, että mielestäni Jussi Aaroh, kulttuurin
+Puhuja 1: siinä on ehkä huolestuttavaa se, että mielestäni Jussi Aurrooth, kulttuurin
 Puhuja 1: toimittaja, joka arvioi tänne, niin hän on neljä
 Puhuja 1: ensimmäistä jaksoa.
 Puhuja 1: Mutta hänen arvionsa siinä on
@@ -412,7 +413,8 @@ Puhuja 0: mä haluan mainita sen, että
 Puhuja 0: yksi podcastskene
 Puhuja 0: tän hetken kovimpia lafkoja on brittiläinen
 Puhuja 0: goal Hanger
-Puhuja 0: niminen pumppu,
+Puhuja 0: niminen
+Puhuja 0: pumppu,
 Puhuja 0: jotka tuuttaa ulos podcasteja.
 Puhuja 0: Ne podcastit kaikki tunnistaa siitä,
 Puhuja 0: että niiden nimeton muotoa rest is jotakin.

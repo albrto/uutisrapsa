@@ -36,7 +36,8 @@ Puhuja 1: vetää minut tuonne kirjoittavaan työhön hyvin nopeasti ja ihan muu
 Puhuja 1: näin edespäin, niin me joudumme pitämään tämän
 Puhuja 1: ns. Pikarapsana.
 Puhuja 1: Eli nyt, jos olet suunnitellut tunnin
-Puhuja 1: mittaisen koiralenkin, niin saatat joutua kuuntelemaan tämän rapsan kahdesti
+Puhuja 1: mittaisen koiralenkin,
+Puhuja 1: saatat joutua kuuntelemaan tämän rapsan kahdesti
 Puhuja 1: tai jotain muuta
 Puhuja 1: vaihtoehtoista kuunneltavaa.
 Puhuja 1: Niin tai näin, niin käydään ensimmäiseen aiheeseen.
@@ -83,8 +84,7 @@ Puhuja 1: saattaa
 Puhuja 1: vielä muuttua budjettiriihtä kohti varsinaisesti, kun mennään.
 Puhuja 2: Minkälaisia...
 Puhuja 2: Kun tässä kuitenkin oli se, että ei ole lisäsäästöstä
-Puhuja 2: kyse. Oliko siellä jonkinnäköisiä ehdotuksia, miten tämä
-Puhuja 2: jotenkin toteutetaan kuitenkin?
+Puhuja 2: kyse. Oliko siellä jonkinnäköisiä ehdotuksia, miten tämä jotenkin toteutetaan kuitenkin?
 Puhuja 1: Joo. Käytännössähän
 Puhuja 1: tilanne on se, että
 Puhuja 1: aika iso osa näistä asioista sovittiin jo kevään
@@ -107,17 +107,20 @@ Puhuja 1: päätöksistä on sellaisia,
 Puhuja 1: että ne ei tule tuomaan niitä säästöjä, mitä niillä on haettu.
 Puhuja 1: Eli esimerkiksi... Tätä ei nyt vielä ole varmistunut.
 Puhuja 1: Varmistuu varsinaiset paperit tulevat vasta huomenna. Eli tänään oli vasta tällainen tiedotustilaisuus, mutta esimerkiksi
-Puhuja 1: on epäilty. Oli kova
+Puhuja 3: on epäilty. Oli kova
 Puhuja 3: tärkeä rooli tässä Syyjän
-Puhuja 3: sisällissodassa, ja he taistelivat niin kuin Assadin
+Puhuja 3: sisällissodassa, ja he taistelivat niin
+Puhuja 3: kuin
+Puhuja 3: Assadin
 Puhuja 3: Syyrian
-Puhuja 3: hallinnon puolella.
-Puhuja 3: Mutta
-Puhuja 3: se vielä täytyy, pitää muistuttaa, että hisbolahilla on poliittinen siipi, eli se on ihan niin kuin puolue.
+Puhuja 3: hallinnon
+Puhuja 3: puolella. Mutta
+Puhuja 3: se vielä täytyy,
+Puhuja 3: pitää muistuttaa, että hisbolahilla on poliittinen siipi, eli se on ihan niin kuin puolue.
 Puhuja 3: Ja he ovat Libanonissa
 Puhuja 3: tärkeässä
 Puhuja 3: roolissa siinä, se puolue hisbolah on tärkeässä roolissa
-Puhuja 3: Epanonin politiikassa ja sitten on tämä aseellinen
+Puhuja 3: Epanorin politiikassa ja sitten on tämä aseellinen
 Puhuja 3: siipi,
 Puhuja 3: jota pidetään
 Puhuja 3: terrorijärjestönä.
@@ -128,17 +131,14 @@ Puhuja 1: kaksitoista
 Puhuja 1: tai kaksituhatta kaksitoista, ehkä.
 Puhuja 1: Se oli kuitenkin heti siinä Arabikevään
 Puhuja 1: jälkeen ja olet ikään kuin sieltä asti seurannut tätä Lähi-idän kehittymistä.
-Puhuja 1: No kyllä olin
-Puhuja 3: jo sitä ennen.
+Puhuja 3: No kyllä olin jo
+Puhuja 1: sitä ennen.
 Puhuja 1: Aiempiin
 Puhuja 1: sotkuihin, mitä siellä on nähty, niin onko
 Puhuja 1: tämä huolestuttavammallosta
 Puhuja 1: vai onko tämä silleen, että siinä nyt vähän kahakoidaan taas ja sitten mennään eteenpäin samalla mallilla seuraavat
 Puhuja 1: x vuotta ennen kuin tulee taas seuraava kärjistyminen?
-Puhuja 3: No siis tuota,
-Puhuja 3: mitenhän se nyt... Siinä on puolensa ja puolensa, että se
-Puhuja 3: on erilainen kuin silloin kaksituhatta kaksitoista kun elettiin tätä
-Puhuja 3: arabikevään
+Puhuja 3: No siis tuota, mitenhän se nyt... Siinä on puolensa ja puolensa. Ei ehkä tilanne ole tai se on erilainen kuin silloin kaksituhatta kaksitoista kun elettiin araikevään
 Puhuja 3: synnyttämiä
 Puhuja 3: levottomuuksia,
 Puhuja 3: jolloin käytännössä
@@ -153,8 +153,7 @@ Puhuja 3: ja moni
 Puhuja 3: muukin maa sillä alueella.
 Puhuja 3: Ja silloin ikään kuin alueellinen sekasorto
 Puhuja 3: oli huomattava,
-Puhuja 3: kun taas nyt tässä tilanteessa
-Puhuja 3: tietysti
+Puhuja 3: kun taas nyt tässä tilanteessa tietysti
 Puhuja 3: Kaasan sota
 Puhuja 3: on tosi julma
 Puhuja 3: siviilejä
@@ -166,7 +165,8 @@ Puhuja 3: avoimeen konfliktiin, ja sitten se vetää mukaansa
 Puhuja 3: kaikki Iranin liittolaiset, eli Isbolla hammas
 Puhuja 3: ja meni huthit,
 Puhuja 3: ja sitten tiedetään, että Israelilla on ydinase,
-Puhuja 3: vaikka he eivät sitä myönnä. Ja sitten Iranilla
+Puhuja 3: vaikka he eivät sitä myönnä. Ja sitten
+Puhuja 3: Iranilla
 Puhuja 3: ei pitäisi olla ydinasetta, mutta tähän suurin
 Puhuja 3: pelko liittyy siihen, että on
 Puhuja 3: ydinasevaltioita.
@@ -303,7 +303,7 @@ Puhuja 3: tämän alueen vakautta
 Puhuja 3: ja
 Puhuja 3: ne avaimet
 Puhuja 3: ongelmien ratkaisemiseen
-Puhuja 3: on tietysti siinä palestiin ala-asia ratkaisemisessa, mutta myöskin
+Puhuja 3: on tietysti siinä palestiin alaisessa ratkaisemisessa, mutta myöskin
 Puhuja 3: Iranin ja Israelin välisten suhteiden
 Puhuja 3: lieventäminen tai liennyttäminen. Tästä aiheesta suosittelen. Huomenna tulee
 Puhuja 3: kiintoisa Vilma Aho luodon juttu siitä, miten Israelin
@@ -329,9 +329,8 @@ Puhuja 2: Mulle tuli tärkeimmät kyllä
 Puhuja 2: käytyä.
 Puhuja 1: Kiitos Jukka, tämä oli erinomainen
 Puhuja 1: läpikäynti.
-Puhuja 1: Mutta koska kuten varoitin, tämä oli pikarabsa.
-Puhuja 1: Meillä tänään
-Puhuja 1: oli ainoastaan nämä kaksi aihetta. Siirrymme tästä
+Puhuja 1: Koska kuten varoitin, tämä oli pikarapsa.
+Puhuja 1: Meillä tänään oli ainoastaan nämä kaksi aihetta. Siirrymme tästä
 Puhuja 1: viimeiseen kohtaan. Eli
 Puhuja 1: kun heräät aamulla
 Puhuja 1: aikaisin,
@@ -341,7 +340,8 @@ Puhuja 1: että onko Hisbolahin kostoisku
 Puhuja 1: Iraniin tapahtunut ja samalla toisella kädellä otat
 Puhuja 1: siitä kupillisen aamuteetä tai kahvia tai tuoremehua, mitä ikinä aamulla juotkaan, niin
 Puhuja 1: mitä siinä samalla pohdit, kun menet töihin, niin mitäs suosittelisit
-Puhuja 1: kaverille tapahtuvaksi, luettavaksi
+Puhuja 1: kaverille
+Puhuja 1: tapahtuvaksi, luettavaksi
 Puhuja 1: tai kerrottavaksi?
 Puhuja 1: Nyt oli aasinsilta.
 Puhuja 2: Mietin, miten rakennat tästä joku kevyen nostoja. Tämä olikin ihan hyvin kasattu.
@@ -420,7 +420,7 @@ Puhuja 1: joka kertoo
 Puhuja 1: ruotsalaisesta
 Puhuja 1: Villistä ja Marhista, jotka on rempannut tällaisen unelmakodin Sisiliaan,
 Puhuja 1: ostanut sieltä kartanon räheä ja rempannut sen.
-Puhuja 1: Ja nyt tämä tuotantokausi, eli neloskausi, on niin sanottu vintagi-reessan,
+Puhuja 1: Ja nyt tämä tuotantokausi, eli neloskausi, on niin sanottu vintage-reessan,
 Puhuja 1: eli Mari ja sen sisko ajelee
 Puhuja 1: koko Euroopan läpi
 Puhuja 1: sinne Sisiliaan ja käy matkan varrella kaikenlaisissa vintagekaupoissa
@@ -441,7 +441,10 @@ Puhuja 1: Mun tekisi mieli
 Puhuja 1: irtisanoutua töistä ja riehantua ja lähteä kiertelemään Eurooppaa Vintage-markkinoille
 Puhuja 1: aina
 Puhuja 1: tällaisten
-Puhuja 1: jälkeen. Suosittelen tätä. Suositteletko
+Puhuja 1: jälkeen. Suosittelen tätä.
+Puhuja 3: Suositteletko
+Puhuja 3: irtisanoutumaan töistään? Sitä mä en ehkä suosittele.
+Puhuja 1: En itselläni.
 Puhuja 1: Nyt jos vaikka puolisudutte
 Puhuja 1: kuuntelemaan, niin ei hätää.
 Puhuja 1: Ei hätää. Olen huomennakin
@@ -476,7 +479,7 @@ Puhuja 1: Tänään kaiken äänen,
 Puhuja 1: kuvan ja muun mahtavan,
 Puhuja 1: mitä nyt tarvitaankaan siihen, että tällainen
 Puhuja 1: uutisraporttiproduktio
-Puhuja 1: Uloslähtee hoiti meille
+Puhuja 1: ulos lähtee hoiti meille
 Puhuja 1: Pirtosen Jonnin.
 Puhuja 1: Kiitos Jonnelle siitä.
 Puhuja 1: Ensi viikkoon,
@@ -498,7 +501,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

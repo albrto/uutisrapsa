@@ -59,9 +59,9 @@ Puhuja 3: Mitä kauhean hyvää. No, mikä
 Puhuja 3: siitä on vielä? Tuli iso puhelinlasku. Tuliko? Tuli. Toitin niin paljon sanoma service Deskiin, että on hirveitä.
 Puhuja 3: Hirveeitä palvelunumeroryöstöjä
 Puhuja 3: tapahtunut.
-Puhuja 0: Okei, se on ikävä kuulla. Onko se hyvä asia? En oikein hahmota. Mä
+Puhuja 0: Okei, se on ikävä kuulla. Onko se hyvä asia, en hahmota. Mä
 Puhuja 0: mielelläni käyttäisin kaikki työpäivän ja soitellen
-Puhuja 2: kaiken näköisin auttavin pohjalta. Mutta ei kuulosta, että yhtiö maksaa sun puhelinlaskut?
+Puhuja 2: kaiken näköisin auttavin puheella. Mutta ei kuulosta, että yhtiö maksaa sun puhelinlaskut?
 Puhuja 3: Maksaa viisikymmentä. Tää oli yli kuusikymmentä euroa.
 Puhuja 0: Oho, voi. Tää kuulostaa kyllä riistolla.
 Puhuja 0: Täällä pitää tehdä jotain. Mulla
@@ -146,15 +146,13 @@ Puhuja 0: siis se, että
 Puhuja 0: nationalismi on jotain eriä vai onko?
 Puhuja 3: No mun mielestä se,
 Puhuja 3: jos ajattelee nationalismia
-Puhuja 3: käsitteenä
-Puhuja 3: ja
+Puhuja 3: käsitteenä ja
 Puhuja 3: aatteena
 Puhuja 3: ja tällaisena, niin eihän se ole mitenkään arvottava.
 Puhuja 3: Se on
 Puhuja 3: samalla tavalla
 Puhuja 3: jälkikäteen
-Puhuja 3: eri tavoin värittynyt kuin
-Puhuja 3: vaikka
+Puhuja 3: eri tavoin värittynyt kuin vaikka
 Puhuja 3: vasemmistolainen
 Puhuja 3: tai oikeistolainen tai tämmöistä. En se ole mitään arvalatausta.
 Puhuja 0: Eli natsit pilasi hyvän nationalismi. Eihän
@@ -190,8 +188,7 @@ Puhuja 0: nimenomaan
 Puhuja 0: kansan suvereniteetti?
 Puhuja 0: Eli nationalismiin sisältyy
 Puhuja 0: kansa asuu rajojensa sisällä ja sitten se on parempi niin ja se on hyvä olla se vallitseva
-Puhuja 3: meno. Siinä perusyksikkö on kansallisvaltio, mutta ei siihen
-Puhuja 3: liity siihen, että jos se on siinä
+Puhuja 3: meno. Siinä perusyksikkö on kansallisvaltio, mutta ei siihen liity siihen, että jos se on siinä
 Puhuja 0: tuo nationalismin
 Puhuja 0: sen, mistä ihmiset ovat eri mieltä. Koska kaikki tässä, mitä on sanottu, kuulostaa, että okei, hyvä idea, että kansallisvaltiot
 Puhuja 0: ja ylpeä omasta kansat. Allekirjoitan kaiken
@@ -218,8 +215,7 @@ Puhuja 0: Keskisarja
 Puhuja 0: siis harmittaa tämä nykyään meininki monellakin tapaa, mutta myös... Ällöttää nykyään. Tää on tämmöinen loirilainen
 Puhuja 0: pätkä. Hän ryhtyy puhumaan nykyajan runkkielämästä.
 Puhuja 0: Tämä on viheliäinen ja mitätön aikakausi, hän sanoo. Tämä runkkielämä taas on Keskisarjan puheen parissa internetissä
-Puhuja 0: oanointia, joka on uusi
-Puhuja 0: kansalaisuskonto.
+Puhuja 0: oanointia, joka on uusi kansalaisuskonto.
 Puhuja 0: Eläkeläisille suunnatussa
 Puhuja 0: ET-lehden kolumnissa vuonna kaksituhatta seitsemäntoista, what? Hän jopa vaati, että yhteiskuntavastainen
 Puhuja 0: onanismi pitäisi panna verolle.
@@ -228,7 +224,7 @@ Puhuja 0: kansakunnan
 Puhuja 0: elinvoiman suhteen kiinnostaa välttämätön lisääntyminen,
 Puhuja 0: sillä energia kuluu
 Puhuja 0: itsekkäisiin himoihin ja internetin runkkimaailmaa.
-Puhuja 3: Keskisarjoja ei ollut vissiin täynnä loiria. Mulle tuli tästä vielä jotenkin se
+Puhuja 0: Keskisarjoja ei ollut vissiin täynnä loiria. Mulle tuli tästä vielä jotenkin se
 Puhuja 3: hyvä henkilökohtainen ystäväni. Jouko Jokinen on joskus käsitellyt samaa tematiikkaa
 Puhuja 3: jossain legendaarisessa
 Puhuja 3: sauna-aiheisessa
@@ -365,10 +361,12 @@ Puhuja 0: Kyllä. Siitä, että pitääkö ollenkaan paikkaansa.
 Puhuja 0: Sitten siinä
 Puhuja 0: kuvataan aivan ihastuttavvasti
 Puhuja 0: norsojen käyttäytymistä,
-Puhuja 0: Millä tavalla he norsut keskustelevat toistensa kanssa? Sanoitko just norsusta he?
+Puhuja 0: Millä tavalla he norsut keskustelevat
+Puhuja 3: toistensa kanssa? Sanoitko sä just norsusta
+Puhuja 3: he?
 Puhuja 0: Sanoit tän jutun jälkeen.
-Puhuja 0: Miten norsut... Siinä
-Puhuja 0: kuvataan esimerkiksi sellainen hetki, jossa on eksynyt jonkun muun
+Puhuja 0: Miten norsut...
+Puhuja 0: Siinä kuvataan esimerkiksi sellainen
 Puhuja 0: päälle. Siinä kuvataan esimerkiksi semmoinen hetki, jossa on eksynyt jonkun muun
 Puhuja 0: lauman norsunpoikanen
 Puhuja 0: on eksynyt näin ja sitten toisesta
@@ -389,14 +387,16 @@ Puhuja 0: siihen lähettyville
 Puhuja 0: ja alkaa tömisyttää maata ja heiluttelee kärsällään
 Puhuja 0: silleen, että nousee hillitön
 Puhuja 0: hiekkapilvi,
-Puhuja 0: joka peittää sen poikasen sen jeein näkyvistä.
+Puhuja 0: joka peittää sen poikasen
+Puhuja 0: sen jeein näkyvistä.
 Puhuja 0: Ja sinä aikana se poikanen, sitten kun se hiekkapilvi on noussut ja peittänyt sen näkyvyyden, niin se poikanen livahtaa
 Puhuja 0: metsään suojaan. Aivan
 Puhuja 0: tämmöisiä käsittämättömiä juttuja, mitä ei tulisi eläimistä mieleen. Tämä juttu käsittelee kaikkia tämmöisiä tosi hyvin ja tosi seikkaperäisesti.
 Puhuja 0: Ja vaikka se kuulosti humpuukilta,
 Puhuja 0: niin se on ihan täyttä tiedekamaa.
 Puhuja 0: Eli kannattaa lukea myös skeptikohenkistä
-Puhuja 0: ihmisistä ja muita. Mutta mun kysymys teille vielä ihan minikeskustelun tähän loppuun.
+Puhuja 0: ihmisistä ja muita. Mutta mun kysymys teille vielä ihan minikeskustelun
+Puhuja 0: tähän loppuun
 Puhuja 0: Mä
 Puhuja 0: luin tän jutun ja olin tosi otettu siitä, että vau, mitä kamaa. Sen jälkeen rupesin selvittämään tätä The New Atlantis
 Puhuja 0: lehteä.
@@ -418,7 +418,7 @@ Puhuja 0: vaikutuksia ihmisiin ja
 Puhuja 3: eläimiin ja elämään. Tämä on nyt
 Puhuja 3: huomattavasti vähemmän haitallisilta
 Puhuja 3: materiaalit. Kuulostaa kuin mikä tahansa, mitä Kokoomuksen verkkoa puolueelle ehti.
-Puhuja 0: Saat synninpäästön.
+Puhuja 3: Saat synninpäästön.
 Puhuja 3: Kahdeksan nave Mariaa ja rukousnauhoja.
 Puhuja 3: Lue se mainos. Lähdetään Marko pois. Voidaanko
 Puhuja 3: mennä pois?
@@ -467,8 +467,8 @@ Puhuja 0: Ääneen ja kuvan meille tekee Janne Elkki.
 Puhuja 0: Kuullaan taas ensi viikolla.
 Puhuja 0: Moi,
 Puhuja 0: Tuomas tässä.
-Puhuja 0: Mun uusi podcast Menetetyt miljardit
-Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: Mun uusi podcast Menetetyt miljardit kertoo
+Puhuja 0: tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
@@ -486,7 +486,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

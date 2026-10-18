@@ -15,7 +15,8 @@ Puhuja 0: menetetyt miljardit.
 Puhuja 1: Helsingin
 Puhuja 2: Sanomat
 Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien Uusi-raportin podcastiin torstaina
-Puhuja 0: neljätoista. Tammikuuta vuonna kaksituhatta kaksikymmentäyksi
+Puhuja 0: neljätoista. Tammikuuta vuonna kaksituhatta
+Puhuja 0: kaksikymmentäyksi
 Puhuja 0: Minun nimeni on Tuomas Pelmäki
 Puhuja 0: ja kanssani täällä
 Puhuja 0: Helsingin
@@ -58,9 +59,10 @@ Puhuja 0: nopeasti etenevistä tapahtumista, kun vain viikkoa ennen kuin maa saa
 Puhuja 0: edellinen yritetään hivuttaa vähintään kuvainnolliseen
 Puhuja 0: tyrmään, kuten missään hyvänsä banaanivaltiossa.
 Puhuja 0: Mitä hitto tapahtuu USA:ssa?
-Puhuja 0: Mihin menevät Q&A:n Trumpistit
+Puhuja 0: Mihin menevät Q&N Tru-istit
 Puhuja 0: seuraavaksi?
-Puhuja 0: Ja miten me länsimaissa päädyttiin siihen, että muutama Kalifornialainen miljonääri käytännössä vaientaa demokraattisesti
+Puhuja 0: Ja miten me länsimaissa päädyttiin siihen, että muutama
+Puhuja 0: Kalifornialainen miljonääri käytännössä vaientaa demokraattisesti
 Puhuja 0: valitun presidentin,
 Puhuja 0: joka ei ole vielä syyllistynyt mihinkään, ei ole todettu mihinkään vielä syylliseksi. Mutta potkut tuli muun muassa ePassa,
 Puhuja 0: jopa tota
@@ -72,10 +74,9 @@ Puhuja 0: sivusto
 Puhuja 0: Lehter Box ilmoitti, että hekään eivät aina Trubi enää kirjoittaa ja eloptaan kritiikkiä
 Puhuja 0: sivulleen.
 Puhuja 0: Myös puhumme poliittisesta väkivallasta
-Puhuja 0: Suomessa. Ensimmäisen pääministeri Juha Sipilän kimppuun käytiin viime torstaina eduskuntatalon
+Puhuja 0: Suomessa. Ensimmäisen pääministerin Juha Sipilän kimppuun käytiin viime torstaina eduskuntatalon
 Puhuja 0: edustalla
-Puhuja 0: vain
-Puhuja 0: joitakin aikoja
+Puhuja 0: vain joitakin aikoja
 Puhuja 0: sitten
 Puhuja 0: ääriluonnon suojelija uhkasii sisäministeri Maria Ohisalon
 Puhuja 0: henkeen. Sitä ennen perussuomalaiset poliitikon kimppuun kävi kaksi äärioikeistokytköksin
@@ -107,7 +108,8 @@ Puhuja 0: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljais
 Puhuja 0: varalle.
 Puhuja 0: Pappaum
 Puhuja 0: tulee kasvamaan
-Puhuja 0: elämään niillä äänillä, jotka tulee semmoisesta porvarillisesta
+Puhuja 0: elämään
+Puhuja 0: niillä äänillä, jotka tulee semmoisesta porvarillisesta
 Puhuja 0: sivistyneestä
 Puhuja 0: kaupunkilaisesta
 Puhuja 0: Suomesta. Ja sitten
@@ -139,15 +141,15 @@ Puhuja 3: vastakkain, ja sama ilmiö on kaikissa
 Puhuja 3: muissakin maissa. Ruotsissa on ihan samaa
 Puhuja 3: brittikonservatiivit.
 Puhuja 3: Siellä on
-Puhuja 3: välillä siellä on Cameron ja välillä siellä on Voris Johnson ja välillä on Thatcher. Kaikissa konservatiivatiivikuooissa
+Puhuja 3: välillä siellä on Cameron ja välillä siellä on Boris Johnson ja välillä on Thatcher. Kaikissa konservatiivatiivikuooissa
 Puhuja 3: on tavallaan
-Puhuja 3: tämmöisen... Kävelrynä on aika pitkä aika. Mutta eikö? Niin, mutta siis että hijapi historian ihan siis kokoomuksessa ollut ihan sama
+Puhuja 3: tämmöisen... Kävelrynnistä on aika pitkä aika. Mutta eikö? Niin, mutta siis että hijapi historian ihan siis kokoomuksessa ollut ihan sama
 Puhuja 3: periaatteessa linja. Tosin siellä on nyt tää sosiaaliliberaalit
 Puhuja 3: eli liberaalisiipi
 Puhuja 3: on pitänyt valtaa
-Puhuja 0: nyt jo tosi pitkälle. Yleensä kaikki noin hegeliläiset
+Puhuja 0: nyt jo tosi pitkään. Yleensä kaikki noin hegeliläiset
 Puhuja 0: ajatukset allekirjoitan
-Puhuja 0: täysin, mutta mun mielestä tässä on menossa siis Vai odota, tää menee vähän, tää nyt lähtee laajenemaan. Oliko sulla Maria jotain järkevämpää sanottavaa sanoa? En tiedäkö sitä järkevämpää, en tiedä mitä sä sanomassa, mutta
+Puhuja 0: täysin, mutta mun mielestä tässä on menossa siis Vai odota, tää menee vähän, tää nyt lähtee laajenemaan. Oliko sulla Maria jotain järkevämpää sanottavaa sanoa? En tiedäkö sitä järkevämpää, en tiedä mitä sanomassa, mutta
 Puhuja 2: toi uutisen pointtihan on se, että sen kokoomuksen
 Puhuja 2: mahdollisuudet saada äänestäjiä
 Puhuja 2: vihreiden joukosta on hyvin, hyvin pieni.
@@ -184,7 +186,7 @@ Puhuja 3: He eivät oikein itsekään tiedä mitä he haluaisivat. Tai mutta mit
 Puhuja 3: politiikkaa ja se miten tehdään Suomesta parempi ja maailmasta parempi ykkösmotiivi,
 Puhuja 3: eikä se lyhytjänteinen
 Puhuja 3: kuntavaalien tuloksen katsominen.
-Puhuja 0: Mutta toisaalta jos sulla ei ole tulosta, niin et pysty ajamaan omaa politiikkaa. Niin, kai se usko tulee niin, että lyhytjänteinen
+Puhuja 0: Mutta toisaalta jos ei ole tulosta, niin et pysty ajamaan omaa politiikkaa. Niin, kai se usko tulee niin, että lyhytjänteinen
 Puhuja 3: autot kuuluvat teille mainosten pystyttäminen,
 Puhuja 3: niin
 Puhuja 3: kyllähän siitä saattaa olla enemmän haittaa sen lyhytaikaisenkin tavoitteen saavuttamiseen, jos se puolue näyttää epäuskottavalta. Mun mielestä tässä on meneillään kuitenkin semmoinen makroilmiö.
@@ -228,16 +230,16 @@ Puhuja 3: mielestä kysymyshän ei ole siitä vihreydestä, vaan mun mielestä s
 Puhuja 3: Kyllähän kaikki puolueet
 Puhuja 3: on siinä määrin vihreitä,
 Puhuja 3: ehkä
-Puhuja 3: voisi lukien persut vaalikampanjassa, kun ne
-Puhuja 3: puhuvat ilmastonmuutoksen torjuntaa vastaan. Mutta eihän
-Puhuja 3: se vihreä kysymys ole, vaan mielestäni se on enemmän arvo, liberaali arvokonservatiivisuus.
+Puhuja 3: voisi lukien persut vaalikampanjassa, kun ne puhuvat
+Puhuja 3: ilmastonmuutoksen torjuntaa vastaan. Mutta eihän
+Puhuja 3: se vihreä kysymys ole, vaan mielestäni se on enemmän arvoliberaali arvokonservatiivisuus.
 Puhuja 3: Ja kai iso ongelma on se, että minusta joku Suomessa juuri huomautti,
 Puhuja 3: että Suomessa
 Puhuja 3: on
 Puhuja 3: oikeistolaisia arvoliberaaleja itse asiassa,
 Puhuja 3: niitä on tutkimusten mukaan tosi vähän. Se on aika pieni porukka. Sen takia se jotenkin
 Puhuja 0: menee... Mitäkö tuo jos tarkoita blokkia?
-Puhuja 3: En mä, kun pitää tarkoita blokilla. Blokkihan tarkoittaa Ruotsin mielessä sitä, että jo ennen vaaleja tulisi yhtenäinen ohjelma, mitä on punavihreä blokki tai porvari blokki. Mä olen niin satavarma, että Suomessa
+Puhuja 3: En mä, kun pitää tarkoita blokilla. Blokkihän tarkoittaa Ruotsin mielessä sitä, että jo ennen vaaleja tulisi yhtenäinen ohjelma, mitä on punavihreä blokki tai porvari blokki. Mä olen niin satavarma, että Suomessa
 Puhuja 0: ei tää meidän puolueet eivät tavallaan yhteisiä vaaliohjelmia tai voi ikinä. Ei, vaan se, että mikä se on se tilanne poliittisella kentällä, mikä se on se jako, niin tästä tulee se selkeä jako. Ja myöskin sitten, että hallitukseen ei muodosteta muuta kuin blokkien sisällä.
 Puhuja 3: En mä nyt vielä olisi ihan varma. Musta tää on meidän...
 Puhuja 3: Musta tää kuitenkin historia on ollut niin pitkä, että näillä aatteilla ei ole mitään merkitystä, vaan kaikki puolueet voi tehdä yhteistyötä. Mä luulen, että se ei murru kovin helposti. Ei murru,
@@ -253,8 +255,7 @@ Puhuja 2: käsittelemään lisääkin. Minusta
 Puhuja 2: kun katsoo tänään keskustelua Twitterissä, niin
 Puhuja 2: Jukka Manninen, joka on nykyään
 Puhuja 2: elinkeinoelämän
-Puhuja 2: keskusliitossa.
-Puhuja 2: Entinen
+Puhuja 2: keskusliitossa. Entinen
 Puhuja 2: kokoomuslainen ja viestintäalan
 Puhuja 2: ammattilainen,
 Puhuja 2: niin
@@ -339,7 +340,7 @@ Puhuja 0: Jallua.
 Puhuja 0: Lämmintä Jallua.
 Puhuja 0: Jallua.
 Puhuja 0: Sitten teillä on iglukavereita siellä, niin heitä jollain tavalla.
-Puhuja 0: Viiritätte, niin millä tavalla heitä viihdettäisiin?
+Puhuja 0: Viiritätte, niin millä tavalla heitä viihditettte?
 Puhuja 2: Millä viihdytään?
 Puhuja 2: Viihdyttäisin
 Puhuja 2: ehkä sillä, että haluaisin keskustella
@@ -352,9 +353,9 @@ Puhuja 2: huonoimmat mutta myös kiinnostavimmat leffat dok Pointissa koska siel
 Puhuja 2: aivan käsittämättömän
 Puhuja 2: sekovaisia
 Puhuja 2: elokuvia ollut. Viime vuonna ohjelmisto oli musta tosi hyvä. Se oli Kati Juurus
-Puhuja 2: festivalin taiteellinen
+Puhuja 2: Festivalin taiteellinen
 Puhuja 2: johto. Onkohan se oikea titteli,
-Puhuja 2: mutta siis valinnut sinne tämän elokuvat ja siellä oli älyttömän kiinnostavia elokuvia sekä Suomesta että maailmalta.
+Puhuja 2: mutta siis valinnut sinne tämän elokuvan ja siellä oli älyttömän kiinnostavia elokuvia sekä Suomesta että maailmalta.
 Puhuja 2: Ja nyt ne tosiaan on katseltavissa
 Puhuja 2: on lain.
 Puhuja 2: Onko se siis nyt meneillään sitä mieltä? No se just alkaa, milloinkohan sen alkaa. Onko se normaalisti ollut tammikuussa? Joo, aina se on. Ja siis mä,
@@ -437,8 +438,7 @@ Puhuja 0: Hän oli semmoinen, silloin kun mä olin teini, niin hän oli kaikista
 Puhuja 0: pääosassa.
 Puhuja 0: Ja vetää siinä ihan uskomattoman roolin.
 Puhuja 0: Mä oon nyt, mä paljon viime aikoina katsonut
-Puhuja 0: tai törmännyt jotenkin tämmöisiin elokuviin,
-Puhuja 0: joiden tekijät on yleensä, ne on nuoria, ne tekee jotain niin kuin uuden tyylistä elokuvaa. Se on ollut tosi palkitsevaa.
+Puhuja 0: tai törmännyt jotenkin tämmöisiin elokuviin, joiden tekijät on yleensä, ne on nuoria, ne tekee jotain niin kuin uuden tyylistä elokuvaa. Se on ollut tosi palkitsevaa.
 Puhuja 0: Nää säfdiin,
 Puhuja 0: mä en tiedä, onko he pari vai veljekset vai mitä se. Tää ei oikein missään ole sanonut, sanottu, mutta tota
 Puhuja 0: heidän
@@ -471,8 +471,8 @@ Puhuja 0: Kaasukauppaan, joka päätyi aseeksi aseeksi suurvaltapolitiikassa.
 Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä Podcastini, mä luulin, että mä lähtisin selvittämään
 Puhuja 0: kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
-Puhuja 0: Mun eteen avautui taloudellinen
-Puhuja 0: murhamysteeri.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
 Puhuja 0: ja on poliitikkoja
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti

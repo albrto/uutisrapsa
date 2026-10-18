@@ -14,7 +14,7 @@ Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 1: Helsingin Sanomat.
 Puhuja 0: Hei ja tervetuloa Helsingin Sanomien meidän uutiskirje raportti-podcast
-Puhuja 0: torstaina kuusi. Päivä marraskuuta vuonna kaksituhatta kaksikymmentäviisi. Mun nimi on Tuomas Peltolagia-kanssani
+Puhuja 0: torstaina kuusi. Päivä marraskuuta vuonna kaksituhatta kaksikymmentäviisi. Mun nimi on Tuomas Peltomäki-kanssani
 Puhuja 0: täällä Helsingin
 Puhuja 0: Sanomien Podcast studiossa Helsingissä
 Puhuja 0: Suomessa,
@@ -35,7 +35,7 @@ Puhuja 0: Ukraina-asioihin. Kannattaisiko meidän
 Puhuja 0: olla käsittelemättä sitä näin paljon.
 Puhuja 0: Mutta
 Puhuja 0: kahdeksankymmentäyhdeksän
-Puhuja 0: prosenttia sanoi,
+Puhuja 0: prosenttia sanoo,
 Puhuja 0: että ei ole liikaa, ei ahdista,
 Puhuja 0: että käsiteltäkää vaan.
 Puhuja 0: Ja
@@ -44,8 +44,7 @@ Puhuja 0: Mutta
 Puhuja 0: toisena
 Puhuja 0: keskustellaan Varman toimitusjohtaja Risto Murron
 Puhuja 0: perjantaina esittelemästä
-Puhuja 0: kasvotyöryhmän
-Puhuja 0: raportista.
+Puhuja 0: kasvotyöryhmän raportista.
 Puhuja 0: Sen aiheena oli se,
 Puhuja 0: millä monilla monilla eri keinoilla Suomen
 Puhuja 0: talous saataisiin kasvuun.
@@ -78,7 +77,8 @@ Puhuja 0: sanaksi triljoona.
 Puhuja 0: Mutta meneekö se nyt pieleen? Se on biljoona. Se on biljoona. Siinä olisi pitänyt olla biljoona.
 Puhuja 0: Ja mä sanoin triljoona.
 Puhuja 2: Se oli tuhmasti tehty. Mä sanon saman, eli mä olen sanonut täällä monta kertaa ennenkin. Silloin kun mä
-Puhuja 2: hyvin kauan aloitin taloustoimituksissa,
+Puhuja 2: hyvin kauan
+Puhuja 2: aloitin taloustoimituksissa,
 Puhuja 2: niin yksi keskeisiä ohjeita oli se, että ei pidä koskaan käyttää miljardeja suurempia sanoja. Se pitää ilmaista tuhansina miljardeilla.
 Puhuja 2: Unohda bilat ja triljoonat.
 Puhuja 2: Älä käytä niitä. Siitä tulee vaan sotkua. Tästä eteenpäin tehdään
@@ -98,10 +98,11 @@ Puhuja 0: Euroopassa.
 Puhuja 0: EU:n
 Puhuja 0: sota Ursula eli Ursula von der Leyen komission puheenjohtaja, hän esitteli tämän REEAR-Eurooppa
 Puhuja 0: paperin
-Puhuja 0: ohjelman idean.
+Puhuja 2: ohjelman idean.
 Puhuja 0: Idean tuossa vaiheessa lähellä. Kyllä. Hän esitteli sen, että miten EU pystyy pumppaamaan
 Puhuja 0: rahaa
-Puhuja 0: Ukrainaan USA:n vetäytyessä
+Puhuja 0: Ukrainaan
+Puhuja 0: USA:n vetäytyessä
 Puhuja 0: sieltä.
 Puhuja 0: Miten Suomen kannalta kumpi on järkevämpää, että se listautuu Helsingin pörssiin, joku Supercell vai se, että kiinalaiset ottavat isonsa rahaa ja siinä? Mihin ne rahat?
 Puhuja 2: En tiedä, onko siinä eroa, että kyllähän Nokian omistuksesta, joka on siis Helsingin pörssissä ja
@@ -127,8 +128,7 @@ Puhuja 2: musta paperi oli paljon parempi kuin ehkä saattoi odottaa.
 Puhuja 0: Ja siinä oli niin kuin... Voisiko me hämmästellä tuota? Kymmenen pinnaa vähemmän kuin Ruotsissa. Kenenkään
 Puhuja 0: suomalaisen mielikuva tällä hetkellä Ruotsista ei
 Puhuja 0: ole? Siellä menee erittäin hyvin ja väki on varmaan todella koulutettua.
-Puhuja 0: Kukaan ei aattele, että Ruotsissa tällä hetkellä sillä tavalla. Ja sitten me saadaan kuulla tuolla, että niin joo, mutta me ollaan joku
-Puhuja 0: hitonalbaania
+Puhuja 0: Kukaan ei aattele, että Ruotsissa tällä hetkellä sillä tavalla. Ja sitten me saadaan kuulla tuolla, että niin joo, mutta me ollaan joku hitonalbaania
 Puhuja 1: verrattuna Ruotsiin. Mutta täähän liittyy ammatilliseen
 Puhuja 1: koulutukseen, joka Suomessa on erilainen kuin monessa muussa maassa.
 Puhuja 0: Oletan nyt mä en ole nähnyt... Siis se oli... Siis se oli korkeakoulutuksesta.
@@ -136,8 +136,8 @@ Puhuja 0: Korkeakoulutuksesta.
 Puhuja 1: Mutta oletan, että se mittari on se, että kuinka suurella osalla kansasta on korkeakoulututkinto.
 Puhuja 1: Niin tavallaan
 Puhuja 1: sehän ei välttämättä vielä kerro siitä
-Puhuja 1: koulutuksen sisällöstä ja siitä todellisesta
-Puhuja 1: osaamisesta, että kuinka monella on se tutkinto.
+Puhuja 1: koulutuksen sisällöstä ja siitä todellisesta osaamisesta,
+Puhuja 1: että kuinka monella on se tutkinto.
 Puhuja 1: Se tutkinto voi tavallaan olla tosi monenlainen.
 Puhuja 1: Onhan se hyvin karkea mittari siihen,
 Puhuja 1: että kuinka koulutettu kansa on. Että sinulla voi olla
@@ -147,7 +147,7 @@ Puhuja 1: personoidut
 Puhuja 1: tutkintoja myös.
 Puhuja 0: Jos mä äkkiä mietin, että mitä mä ajattelen
 Puhuja 0: ruotsalaisessa
-Puhuja 0: businesselämästä ja miten niiden firmoilla, kuten Spotify ja IKE ja muu, menee, niin kyllä niillä varmaan pari maisteria on siellä jossain töissä. Ja ne varmaan osaa sen asiansa
+Puhuja 0: businesselämästä ja miten niiden firmoilla, kuten Spotify ja ikä ja muu, menee, niin kyllä niillä varmaan pari maisteria on siellä jossain töissä. Ja ne varmaan osaa sen asiansa
 Puhuja 0: vähän erilailla kuin meillä, jossa tehdään edelleen
 Puhuja 0: jotain saatanan kaivon kansiin sidottavia.
 Puhuja 0: Herää epäilys, että varmaan
@@ -165,24 +165,23 @@ Puhuja 2: En muista, mitä tilastoja siinä käytettiin.
 Puhuja 2: Ehkä sen takia olin tuosta yllättynyt, että säkin myös niin paljon vauhkoa tästä, kun tämähän ei ole sinänsä mikään uusi asia. Tästä on hallitus toisensa perään. Sanna Marinin hallitus ilmoitti, että pitäisi saada tavoitteena nostaa, että viisikymmentä prosenttia
 Puhuja 2: nuorista ikäluokista saisi korkeakoulututkinnon.
 Puhuja 2: Eihän tämä ole sinänsä mikään uusi huolenaihe tai tavallaan uusi huolenaihe.
-Puhuja 0: Ei, mutta hämmästyttävää vähän siitä on. Musta siitä on puhuttu kamalan paljon. Vielä viimeinen kysymys. Mun mielestä toi oli kanssa... Mulle tuli mieleen se, että tää hubi ajattelu...
+Puhuja 0: Ei, mutta hämmästyttävää vähän siitä on on. Musta siitä on puhuttu kamalan paljon. Vielä viimeinen kysymys. Mun mielestä toi oli kanssa... Mulle tuli mieleen se, että tää hubi ajattelu...
 Puhuja 0: Ei vaan Suomessa ole mitään, mihin kaikki... Mun... Okei, tää on nyt vähän random. Mutta nyt kun Ursula von der Leyen
-Puhuja 0: ilmoitti tän Rearm
-Puhuja 0: Europe, jonka kaksi tärkeintä palikkaa on se,
+Puhuja 0: ilmoitti tän Riearm Europe,
+Puhuja 0: jonka kaksi tärkeintä palikkaa on se,
 Puhuja 0: että EU hyväksyy nyt, että saatte käyttää
 Puhuja 0: puolustukseen
 Puhuja 0: rahoja
 Puhuja 0: ilman, että ne vaikuttavat, ilman, että niistä tulee mitään talouskurisanktiota.
 Puhuja 0: EU ei katso pahalla, jos ylitätte teidän budjetit, kunhan ylitätte ne puolustukseen.
 Puhuja 0: Se tarkoittaa, että EU:n alueella periaatteessa
-Puhuja 0: on luvassa noin kuusisataaviisikymmentä
-Puhuja 0: miljardia.
+Puhuja 0: on luvassa noin kuusisataaviisikymmentä miljardia.
 Puhuja 0: Jos jokainen korottaa puolustusmenoja yksi pilkku viisi prosenttia ja jokainen maa, kuusisataaviisikymmentä
 Puhuja 0: miljardia uutta ylimääräistä rahaa invesoitavaksi
 Puhuja 0: puolustusalan
 Puhuja 0: hankkeisiin.
-Puhuja 0: Ja sitten mulla vaan tuli semmoinen, kun nyki päässä tyhjää, että
-Puhuja 0: missä Suomessa on, miten joku suomalainen firma...
+Puhuja 0: Ja sitten mulla vaan tuli semmoinen, kun nyki päässä tyhjää, että missä Suomessa
+Puhuja 0: on, miten joku suomalainen firma...
 Puhuja 0: Kuka lähtee silleen... Minä haluan siivuni tuosta miljard kasasta.
 Puhuja 0: Tasan
 Puhuja 0: ICEY tekee niitä sotilaissatelliitteja.
@@ -192,10 +191,15 @@ Puhuja 2: Mistä löytyy se? Se oli siinä murran raportissa, itse asiassa siin�
 Puhuja 2: Puolustusvoimateollisuuden
 Puhuja 2: kokoa.
 Puhuja 2: Siinä on palikoita kokoamaan.
-Puhuja 2: Esimerkiksi jos muistan oikein, niin siinä oli Saab, joka oli iso palikka, ja koko Suomen puolustusteollisuus mahtui sinne Saab-palikan
+Puhuja 2: Esimerkiksi jos muistan oikein, niin siinä oli Saab, joka oli iso palikka ja koko Suomen puolustusteollisuus mahtui sinne Saab-palikan
 Puhuja 2: yhteen kulmaan.
-Puhuja 2: Ruotsissa se on paljon
-Puhuja 2: isompaa,
+Puhuja 2: Ruotsissa se on paljon isompaa,
+Puhuja 2: että
+Puhuja 2: Suomessa
+Puhuja 2: on
+Puhuja 2: useampi
+Puhuja 2: sata
+Puhuja 2: aika pientä, mutta myös lupaavaa puolustus
 Puhuja 2: teknologiaa ja puolustusvaa yritystä. Kyllä täältäkin voi kehittyä
 Puhuja 0: sellaista. Sinulla on hyvin positiivinen nuotti. Päätetään siihen. Sano yksi lause kuntavaaleista.
 Puhuja 0: Itse asiassa mua kiinnostaa se kysymys, että miksi se valittiin? Miksi se oli kaikista näistä?
@@ -243,21 +247,21 @@ Puhuja 1: tiettyjen tahojen ikuinen tavoite. Heikki Pursiainen kirjoitti Suomen 
 Puhuja 1: keskustelu on
 Puhuja 1: suomalaista kulttuurisotaa.
 Puhuja 2: Näin se on. Ja perintövero on silläkin hyvä aihe, että se on erilaisten tutkimusten mukaan suomalaisten eniten inhottava vero.
-Puhuja 0: Okei, sitten kun
-Puhuja 0: otatte
+Puhuja 0: Okei, sitten kun otatte
 Puhuja 0: parhainta ranskalaista punaviiniä
 Puhuja 0: lasilliseen tässä viikon päätteeksi.
 Puhuja 0: Ja menette
 Puhuja 0: Helsingissäkin on varmaan jotain ranskalaisia
 Puhuja 0: baareja,
 Puhuja 1: olettaisin?
-Puhuja 1: Onhan nykyään paljon kaikkia viinibaareja.
+Puhuja 1: Onhan nykyään paljon kaikkia biinibaareja.
 Puhuja 0: Just näin. Menette sinne istumaan.
 Puhuja 0: Ja vaikka Apteekkiin
 Puhuja 0: tuohon se pieni kuva viinibaari tässä A-kamppissa Helsingissä, menette sinne, otatte sieltä vähän viiniä. Sitten semmoisella
 Puhuja 0: feikkiranskalaisella
 Puhuja 0: Suomi-aksentilla
-Puhuja 0: upeeta kertomaan naapuville, että
+Puhuja 0: upeette
+Puhuja 0: kertomaan naapuville, että
 Puhuja 0: mitä siinä on tapahtunut teidän synymassanne
 Puhuja 0: Ranskassa, jossa on hyvä
 Puhuja 0: presidentti. Emmanuel Mac Colum, hän
@@ -273,10 +277,10 @@ Puhuja 1: Dieman Coperhead.
 Puhuja 1: Ja se on minusta
 Puhuja 1: hirvittävän hauska
 Puhuja 1: idea, että
-Puhuja 1: otetaan Charles Fickens
+Puhuja 1: otetaan Charles Deckens
 Puhuja 1: suuri egontilainen kirjailija ja 1800-luvun
 Puhuja 1: köyhyyden ja kurjuuden kuvaaja.
-Puhuja 1: Niin otetaan Charles Fickensin David Coperfield
+Puhuja 1: Niin otetaan Charles Deckensin David Coperfield,
 Puhuja 1: vanha tarina. Ja sitten sijoitetaan se uudelleen
 Puhuja 1: opioidikriisin
 Puhuja 1: apalakeille Yhdysvaltoihin.
@@ -287,8 +291,7 @@ Puhuja 1: totta
 Puhuja 1: kai hyvin synkkiä surullisia käänteitä
 Puhuja 1: sijaisperheissään
 Puhuja 1: ja
-Puhuja 1: ihan todella rajuja juttuja ja riippuvuutta ja sellaisia
-Puhuja 1: tämän
+Puhuja 1: ihan todella rajuja juttuja ja riippuvuutta ja sellaisia tämän
 Puhuja 1: vuosisadan
 Puhuja 1: köyhyyden kuvausta.
 Puhuja 1: Mutta
@@ -301,17 +304,18 @@ Puhuja 1: hyvää romaanikerrontaa.
 Puhuja 1: Ja
 Puhuja 1: luin sitä niin, että koko ajan sen sijaan, että olisin ottanut puhelimen käteen, niin halusin jatkaa
 Puhuja 1: sen kirjan lukemista.
-Puhuja 2: Joo, minäkin olen. Sitähän kriitikot ylistäneet suorastaan. Olen ajatellut, että se jossain vaiheessa lukea. Yritin etsiä
+Puhuja 2: Joo, minäkin olen. Sitähän kriitikot ylistäneet suorastaan. Olen ajatellut, että se jossain vaiheessa luki. Yritin etsiä
 Puhuja 1: jotain kritiikkiä siitä, kun mietin, että mitähän tästä on sanottu. Ja New York Timesissa oli aivan typerä arvio, älkää lukiko sitä.
 Puhuja 1: Mutta tämä
 Puhuja 1: oli minusta ihana kirja.
-Puhuja 2: Tämä oli tällainen päinvastainen
+Puhuja 2: Tämä
+Puhuja 2: oli tällainen päinvastainen
 Puhuja 2: esitys. Katsoin tuota...
 Puhuja 2: Jostain syystä rupesin katsoa
-Puhuja 2: koko tämän sarjan loppuun.
-Puhuja 2: Netflixissä on uusi sarja, jossa pääosassa on Robert D Neiro, tämä Day 0. Joo,
-Puhuja 2: se on järkyttävän huono. Se on ihan mukavaa.
-Puhuja 2: Robert, miksi teit sen. Se on ehkä se päällimmäinen
+Puhuja 2: koko tämän sarjan loppuun. Netflixissä
+Puhuja 2: on uusi sarja, jossa pääosassa on Robert D Neiro, tämä Day 0.
+Puhuja 2: Joo, se on järkyttävän huono. Se on ihan mukavaa.
+Puhuja 2: Robert, miksi teit sen. Se on ehkä se päällimmäinen ajatus
 Puhuja 2: ajatus.
 Puhuja 2: Yhdysvalloissa tapahtuu tällainen
 Puhuja 2: kyberisku,
@@ -327,7 +331,7 @@ Puhuja 2: Hesarin kritiikissä
 Puhuja 2: taidettiin sanoa jotenkin niin, että se on vielä tässä maailmanajassa kiusallista katsottavaa, koska
 Puhuja 2: todellisuus ja se, miten Yhdysvaltain presidenttitouhua
 Puhuja 2: on paljon
-Puhuja 2: jotenkin dramaattisempaa kuin se, mitä tässä sarjassa on, mutta ennen kaikkea mä voin jotenkin teki pahaan
+Puhuja 2: jotenkin dramaattisempaa kuin se, mitä tässä sarjassa on, mutta ennen kaikkea muuten jotenkin teki pahaan
 Puhuja 2: Deniron puolesta. Miten se on suostunut tuohon sarjaan? Mulla
 Puhuja 2: tuli sellainen alakuloinen olo.
 Puhuja 2: Älkää katsoko sitä sarjaa.
@@ -339,7 +343,8 @@ Puhuja 0: sarjaa
 Puhuja 0: Apple TV:ltä
 Puhuja 2: No? Severens.
 Puhuja 0: Sä kerrot kehut sitä jo kerran. Kyllä. Ja mä kehun toistamiseen, koska mä
-Puhuja 0: kehuin ekan kauden alussa ja mä olen päässyt nyt kakkoskauden melkein loppuun. Niin. Se on aivan fantastinen.
+Puhuja 0: kehuin ekan kauden alussa ja mä olen päässyt nyt kakkoskauden melkein loppuun.
+Puhuja 0: Se on aivan fantastinen.
 Puhuja 0: Se menee heittämällä
 Puhuja 0: 2010-luvun jälkeen. Eli pitäisikö mun ottaa Apple TV nyt? Kyllä sun kannattaa. Joo, kyllä se... Mä en tiedä, mitäs maksaa varmaan sen saman kympinkuusi mitä muutkin.
 Puhuja 0: Aivanverttiä.
@@ -372,7 +377,8 @@ Puhuja 0: Mutta silti se ei ole mikään tämmöinen sosiaalinen kritiikki, vaan
 Puhuja 0: todella, todella jännittävä mystinen jännäri sarja. Mitä helvettiä se Lum on oikein meinaa?
 Puhuja 0: Todella, todella hyvä sarja.
 Puhuja 0: Teknisesti, visuaalisesti,
-Puhuja 0: tarinankerronnallisesti, musiikista kaikki on niin spot on kuin voi olla. Ostakaa Apple TV, Ostakaa kalliit läppärit, Ostakaa kaikki ne puhelimet.
+Puhuja 0: tarinankerronnallisesti,
+Puhuja 0: musiikile, että kaikki on niin spot on kuin voi olla. Ostakaa Apple TV, Ostakaa kalliit läppärit, Ostakaa kaikki ne puhelimet.
 Puhuja 0: Pistäkää kaikki, rahannetaan sinne Amerikkaan.
 Puhuja 0: Aivan uskomattoman hyvä severens.
 Puhuja 0: Ja sen lisäksi mulla on toinen suosittu... Mä haluan nimittäin mainita
@@ -412,12 +418,12 @@ Puhuja 0: negrospirituaeja
 Puhuja 0: esitti tämä Fisk Julile singers
 Puhuja 0: niminen
 Puhuja 0: yhtye.
-Puhuja 0: Ja mun mielestä nää on mahtavia tämmöiset
+Puhuja 0: Mun mielestä nämä on mahtavia tämmöiset
 Puhuja 0: Suomi-historiat,
 Puhuja 0: missä ollaan yhtäkkiä
 Puhuja 0: tosi moderneissa meiningeissä,
 Puhuja 0: mutta sitten vuosi jotain tuhat seitsemänsataa tai jotain tälleen. Niin siitä tulee semmoinen outo
-Puhuja 0: vähän semmoinen babylon-Belllin
+Puhuja 0: vähän semmoinen babylon-bellin
 Puhuja 0: tyylinen fiilis. Tässä jutussa oli tosi paljon sitä. Varmasti
 Puhuja 0: orjalauluista hiphopiin kirjassa on sitä lisää. Lukekaa Harri Uusi-Torpan mainio juttu, jonka otsikko on Jazzbastorin
 Puhuja 0: kirja Musta musiikin sielusta kertoo myös erityisestä elämäntavasta.

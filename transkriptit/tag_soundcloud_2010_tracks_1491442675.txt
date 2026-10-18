@@ -35,8 +35,8 @@ Puhuja 3: että missä hän on nyt.
 Puhuja 1: Terveisiä Tommin kahdelle fanille. Tommi on nyt täällä Sanomatalon
 Puhuja 1: podcast-studiossa.
 Puhuja 1: Heissan Anni Keski-Heikkilä. Politiikan toimituksen libero.
-Puhuja 1: Eikö voi sanoa niin? Joo,
-Puhuja 2: toi on ihan hyvä. Heipä hei vaan. Paitsi nykyfutiksessa ei enää käytetä liberoita.
+Puhuja 1: Eikö voi sanoa niin?
+Puhuja 2: Joo, toi on ihan hyvä. Heipä hei vaan. Paitsi nykyfutiksessa ei enää käytetä liberoita.
 Puhuja 2: Niin, ajattelin myös lentopalloa.
 Puhuja 2: Olen pelannut lentopalloa.
 Puhuja 2: Onko sillä? Onko sillä lentopallossa? On.
@@ -44,14 +44,13 @@ Puhuja 1: Mitä sulle Anni kuuluu?
 Puhuja 2: Kuuluu hyvää. Olen tänään palannut lomalta
 Puhuja 2: ja yritin olla lukematta uutisia. Onnistuitko?
 Puhuja 2: Ihan kohtuullisen hyvin.
-Puhuja 2: Nyt
-Puhuja 2: on loistava
-Puhuja 2: tilaisuus ruotia niitä samanlaisia uutisia
-Puhuja 2: täällä podcastissa.
+Puhuja 2: Nyt on loistava
+Puhuja 2: tilaisuus ruotia niitä samanlaisia uutisia täällä podcastissa.
 Puhuja 1: Eli tulet ihan tapulla razana lähetykseen. Kyllä.
 Puhuja 1: Tänään on tarkoitus puhua.
 Puhuja 1: Aloitetaan ensin
-Puhuja 1: vihreiden puheenjohtajakuvioista.
+Puhuja 1: vihreiden
+Puhuja 1: puheenjohtajakuvioista.
 Puhuja 1: Maria Ohisalo ilmoitti
 Puhuja 1: tiistaina, kun
 Puhuja 1: hän ei hae jatkokautta
@@ -70,8 +69,7 @@ Puhuja 1: Sitten päästään
 Puhuja 1: toisena aiheena lempiteemaani
 Puhuja 1: eli hallitus spekulaatioihin.
 Puhuja 1: Hallitusneuvottelut
-Puhuja 1: alkavat huomenna toden teolla,
-Puhuja 1: kun hallitus
+Puhuja 1: alkavat huomenna toden teolla, kun hallitus
 Puhuja 1: tunnustelija Petteri
 Puhuja 1: Orpo lähettää kaikille puolueille kysymyksiä.
 Puhuja 1: Kolmantena aiheena meillä on
@@ -84,8 +82,7 @@ Puhuja 1: vuotaa, ja
 Puhuja 1: internet on täynnä
 Puhuja 1: salaisia, erittäin salaisia ja kiinnostavia ja väärennettyjä
 Puhuja 1: ja ties mitä papereita joista
-Puhuja 1: puhutaan
-Puhuja 1: ja puhutaan siitä mitä sieltä on tähän mennessä paljastunut ja mistä tämä kaikki kertoo.
+Puhuja 1: siitä me puhutaan ja puhutaan siitä mitä sieltä on tähän mennessä paljastunut ja mistä tämä kaikki kertoo.
 Puhuja 1: No niin, kuinka yllättyneitä te olitte asteikolla
 Puhuja 1: nollasta kymppiin että Maria Ohisalo ilmoitti että ei hae jatkokautta.
 Puhuja 2: Nollaa.
@@ -96,8 +93,7 @@ Puhuja 3: se
 Puhuja 3: on kiinnostavaa.
 Puhuja 3: En tiedä onko tässä tapahtunut joku kulttuurimurros.
 Puhuja 3: Nykyään
-Puhuja 3: politiikan
-Puhuja 3: puolellakin
+Puhuja 3: politiikan puolellakin
 Puhuja 3: tämmöiset eroilmmoitukset
 Puhuja 3: epäonnistumisten jälkeen
 Puhuja 3: tapahtuu todella nopeasti.
@@ -111,28 +107,26 @@ Puhuja 3: Mikä varmaan voi olla ihan järkevää? Nythän itse asiassa
 Puhuja 2: Ohisalo
 Puhuja 2: tähän
 Puhuja 2: ryhmiin verrattuna kesti kauan.
-Puhuja 1: Ohisallla kuitenkin miettii Se ryhmä täynnä. Siellä on
-Puhuja 1: mielestäni taitavia
+Puhuja 1: Ohisallla kuitenkin miettii... Se ryhmä täynnä. Siellä on
+Puhuja 1: mielestäni
+Puhuja 1: taitavia
 Puhuja 1: poliitikkoja, eikä minusta
-Puhuja 1: perussuomalaisten Ei ensinnäkään, mutta heillä ei ole mitään ongelmaa löytää päteviä ministereitä, niin löytyy
+Puhuja 1: perussuomalaisten... Ei ensinnäkään, mutta heillä ei ole mitään ongelmaa löytää päteviä ministereitä, niin löytyy
 Puhuja 1: hyviä tyyppejä vaikka kuinka monta.
-Puhuja 1: Ja kyllä
-Puhuja 1: siellä on myös poliittista osaamista nykyään.
+Puhuja 1: Ja kyllä siellä on myös poliittista osaamista nykyään.
 Puhuja 1: Eihän ne,
-Puhuja 1: mikä näkyy myös
-Puhuja 1: vaalituloksessa. En sinänsä pidä millään tavalla
-Puhuja 1: ongelmaan siinä, että persut
-Puhuja 1: ei saisi
+Puhuja 1: mikä näkyy myös vaalituloksessa.
+Puhuja 1: En sinänsä pidä millään tavalla
+Puhuja 1: ongelmaan siinä, että perustukset ei saisi
 Puhuja 1: ministeriryhmän kasaan siinä missä mikä tahansa muukin puolue.
-Puhuja 1: Mutta ehkä tässä on kuitenkin se muisto
+Puhuja 1: Mutta ehkä tässä on kuitenkin se muistot
 Puhuja 1: vuodelta kaksituhatta seitsemäntoista, jolloin perussuomalaiset
-Puhuja 1: eduskuntaryhmä hajosi ja puolet käveli ulos.
+Puhuja 1: eduskuntaryhmä hajosi ja puolet
+Puhuja 1: käveli ulos.
 Puhuja 1: Tämä riski on jossain määrin taas olemassa. Jos kannatus laskee ja kaikki alkaa mennä huonosti,
 Puhuja 1: niin miten pitkälle kokoomus voi luottaa siihen, että perussuomalaisten ryhmä pysyy kasassa.
-Puhuja 2: Sanoit, että ministereitä on tarpeeksi ja on poliittista osaamista, mutta miten tämä
-Puhuja 2: hallitusneuvottelupeli?
-Puhuja 2: Se just, mitä pitää
-Puhuja 2: osata veivata?
+Puhuja 2: Sanoit, että ministereitä on tarpeeksi ja on poliittista osaamista, mutta miten tämä hallitusneuvottelupeli?
+Puhuja 2: Se just, mitä pitää osata veivata?
 Puhuja 2: Ei perussuomalaisille kuitenkaan kovin monia hallitusneuvotteluja
 Puhuja 2: ole tässä vielä takana.
 Puhuja 1: Ei, mutta
@@ -151,17 +145,17 @@ Puhuja 1: maahanmuutto,
 Puhuja 1: ovat ne hankalimmat tai keskeiset asiat tässä hallitusohjelman tekemisessä.
 Puhuja 1: Saa nähdä miten pitkälle
 Puhuja 1: perustovalmiita liikkumaan-asioissa.
-Puhuja 2: Voisi ajatella, että heidän kannattajansa Tämä ei kyllä perustu yhtään mihinkään, tällaiseen tuntemukseen.
+Puhuja 2: Voisi ajatella, että heidän kannattajansa... Tämä ei kyllä perustu yhtään mihinkään, tällaiseen tuntemukseen.
 Puhuja 2: Heidän kannattajansa ja myös kansanedustajansa
 Puhuja 2: on ehkä sellaista,
 Puhuja 2: En tarkoita, että jyrkempää, mutta sellaista
 Puhuja 2: vahvatahtoista ja
-Puhuja 2: ehkä vähän
+Puhuja 2: ehkä vähän...
 Puhuja 2: Miten mä nyt sanoisin, jotenkin hyvin.
 Puhuja 2: Ei ehkä niin
 Puhuja 2: halukkaita kompromisseihin.
-Puhuja 1: Siellä on ehkä vähän kulmikkaampaa väkeäkin. Niin,
-Puhuja 2: niin, että ne kompromissit voi ärsyttää tosi paljon. Mutta kyllä mä näkisin, että
+Puhuja 1: Siellä on ehkä vähän kulmikkaampaa väkeä. Niin,
+Puhuja 2: niin, että ne kompromissit voi ärsyttää tosi paljon. Mutta kyllä näkisin, että
 Puhuja 3: ei persuiltua
 Puhuja 3: mitään
 Puhuja 3: muuta vaihtoehtoa
@@ -176,7 +170,7 @@ Puhuja 3: vastaan
 Puhuja 3: tällaisessa kysymyksessä
 Puhuja 3: niin se olisi kokoomukselle niin suuri ongelma minkä ihmeen takia he tekisivät sellaisen
 Puhuja 3: palveluksen persuille
-Puhuja 3: tilanteessa jossa kokoomuksen ei ole pakko tehdä sitä? No mä en Niin.
+Puhuja 3: tilanteessa jossa kokoomuksen ei ole pakko tehdä sitä? No mä en... Niin.
 Puhuja 1: Tavallaan pakko ja pakko, mutta toisaalta myös kokoomuksessa tiedetään, että demareiden kanssa
 Puhuja 1: talouslinjasta sopiminen on varmaan vielä vaikeampaa.
 Puhuja 1: En tiedä onko se työperäisestä maahanmuutosta, sopiminen
@@ -184,9 +178,8 @@ Puhuja 1: kuitenkaan loppujen lopuksi niihin vaikeaa. Jos siellä tehdään muut
 Puhuja 1: kouluttamattoman
 Puhuja 1: väen tuloa, jotain kiristyksiä Tanskan suuntaan, niin en usko, että
 Puhuja 1: jos ja kumminkin pidetään ovet auki, että maahanmuutto ei tyrehdy.
-Puhuja 1: Ja
-Puhuja 1: jos samaan aikaan ruvetaan,
-Puhuja 1: mitä ennen vaaleja puhuttiin, niin ruvetaan aktiivisesti markkinoimaan Suomea myös maailmalla, että tänne houkuteltaisiin
+Puhuja 1: Jos
+Puhuja 1: samaan aikaan ruvetaan, mitä ennen vaaleja puhuttiin, niin ruvetaan aktiivisesti markkinoimaan Suomea myös maailmalla, että tänne houkuteltaisiin
 Puhuja 1: ihmisiä. Niin kuin täsmä houkuteltaisiin
 Puhuja 1: etenkin tiettyihin ammatteihin ja töihin.
 Puhuja 1: Luulen, että isompi ongelma neuvotteluissa tulee ensinnäkin
@@ -305,7 +298,7 @@ Puhuja 3: Venäjän
 Puhuja 3: apuriksi
 Puhuja 3: jotain myötäelijäksi.
 Puhuja 3: Suomi on myös mainittu
-Puhuja 3: siellä Onko Suomi mainittu? Joo, Suomi on mainittu torille.
+Puhuja 3: siellä... Onko Suomi mainittu? Joo, Suomi on mainittu torille.
 Puhuja 3: Siellä on Suomen ase ja
 Puhuja 3: koulutusavusta
 Puhuja 3: Ukrainalle, mutta siitä ei ole ilmeisesti mitään
@@ -338,12 +331,12 @@ Puhuja 3: valtavan hienosti operoitu,
 Puhuja 3: orkestroitu
 Puhuja 3: info,
 Puhuja 3: sodankäyntioperaatti.
-Puhuja 3: Me ei tiedetä Toi on ihan kiinnostava ajatus. Mulla tuli tämä
+Puhuja 3: Me ei tiedetä... Toi on ihan kiinnostava ajatus. Mulla tuli tämä
 Puhuja 2: mieleen,
 Puhuja 2: tai ei nyt ehkä näin isossa laajuudessa, mutta koska olen tavallinen suomalainen
 Puhuja 2: ihminen, niin
 Puhuja 2: kiinnitti huomiota ja luin ja klikkasin ja jäi mieleen,
-Puhuja 2: että Mimmary Putinilla olisi syöpä. Koska se
+Puhuja 2: että Millla Mill Putinilla olisi syöpä. Koska se
 Puhuja 2: on semmoinen, mitä moni ehkä toivoo jopa. Ja se on vähän semmoinen, mihin haluaisivat ihmiset uskoa.
 Puhuja 2: Että sitten joskus Venäjällä valta vaihtuisi tämän myötä.
 Puhuja 2: Niin, no joo.
@@ -413,7 +406,7 @@ Puhuja 3: ongelma. Ihmiset
 Puhuja 3: eivät nöyryjä tottele.
 Puhuja 2: Just näin. Ja koska ne on niin yleisiä, niin sehän tekee tästä myös uskottavan
 Puhuja 2: valheen,
-Puhuja 2: jos se sellainen olisi. Niin se
+Puhuja 2: jos se sellainen olisi. Niin, se
 Puhuja 2: Putinin syöpä tuntuisi
 Puhuja 2: helposti keksittävältä valheilta, jonka moni haluaisi uskoa. Se voisi olla vähän niin kuin
 Puhuja 2: menin tähän salaliittoteoriaan.
@@ -429,7 +422,7 @@ Puhuja 1: niin millä tarinalla
 Puhuja 1: voisit viihdyttää
 Puhuja 1: näitä salaliittoystäviäsi?
 Puhuja 3: Suosittelen
-Puhuja 3: kaikkia menemään katsomaan
+Puhuja 3: kaikkia menemään katsomaan...
 Puhuja 3: Siis ensinnäkin
 Puhuja 3: aloitetaan siitä että kaikkien aikojen
 Puhuja 3: merkittävin suomalainen journalisti on tietenkin Hannu Karpo, joka
@@ -464,7 +457,7 @@ Puhuja 1: kirjailijaa Don Wind Slow. Hän on muistaakseni kehuin Cityon Fire kir
 Puhuja 1: paljon kirjoja, mutta kaksi maineikasta kirjasarjaa, joista toinen on tämä, johon kuuluu tämä City on Fire. Siihen ilmestyy jatko-osa tämän
 Puhuja 1: kuun lopussa.
 Puhuja 1: Muistaakseni City of Drems niminen
-Puhuja 1: kirja, jossa kerrotaan tällaisen rikollis Se on tällainen mafiatarina,
+Puhuja 1: kirja, jossa kerrotaan tällaisen rikollis... Se on tällainen mafiatarina,
 Puhuja 1: New Yorkissa ja muissa kaupungeissa eläneistä. Se on tällainen sukudraama ja mafiatarina.
 Puhuja 1: Juuri sain loppuun
 Puhuja 1: hänen aikaisemman kirjasarjansa,

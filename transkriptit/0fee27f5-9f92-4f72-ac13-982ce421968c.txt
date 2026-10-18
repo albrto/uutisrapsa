@@ -62,7 +62,8 @@ Puhuja 0: muiden
 Puhuja 0: näkökulmasta.
 Puhuja 0: Ja minä kuuntelin sitä keskustelua. Ja se oli niin
 Puhuja 0: törkeän kiinnostavaa ja niin törkeän hyvä.
-Puhuja 0: Ja me olemme ystäviä ja kollegoita
+Puhuja 0: Ja
+Puhuja 0: me olemme ystäviä ja kollegoita
 Puhuja 0: ja törmätään toisiin täällä päivittäin. Mutta ilman yhtään puolueellisuutta silti sanon, että sen podcastin aikana
 Puhuja 0: minun päässäni oli ajatus, että missään
 Puhuja 0: muualla
@@ -82,12 +83,11 @@ Puhuja 0: Myös makropolitiikkaan
 Puhuja 0: vaikutti jotenkin oudon
 Puhuja 0: shokeervan
 Puhuja 0: paljon.
-Puhuja 0: Amerikan tämmöinen, mitä tässäkin
-Puhuja 0: on viikosta toiseen hehkutettu, semmoinen kuin Amerikan täysylivalta
+Puhuja 0: Amerikan tämmöinen, mitä tässäkin podcast on viikosta toiseen hehkutettu, Amerikan
+Puhuja 0: täysylivalta
 Puhuja 0: teknologiassa taloudessa,
 Puhuja 0: jotenkin maailman
 Puhuja 0: tulevaisuuden muokkauksessa,
-Puhuja 0: niin
 Puhuja 0: aivan yhtäkkiä heitti häränpyllyä
 Puhuja 0: eikä näytä yhtään niin varmalta kuin vielä viime viikolla.
 Puhuja 0: Keskustellaan
@@ -102,8 +102,7 @@ Puhuja 2: kuntavaalitilanteesta.
 Puhuja 2: Tähän liittyy tämä mitä Tuomas äsken viittasi, että halutaan
 Puhuja 2: kieltää
 Puhuja 2: polttomoottoriautolla
-Puhuja 2: Helsingin keskustassa. Tämä oli mielestäni
-Puhuja 2: vähän
+Puhuja 2: Helsingin keskustassa. Tämä oli mielestäni vähän
 Puhuja 2: tämmöinen Donald Trump tyyppinen avaus,
 Puhuja 2: mikä oli
 Puhuja 2: suorastaan mykistävä, eli Helsingin apulaispormestari
@@ -112,14 +111,13 @@ Puhuja 2: taisi olla Hesarin haastattelussa
 Puhuja 2: viikonloppuna,
 Puhuja 2: toi esille, että
 Puhuja 2: vuonna kaksituhatta kolmekymmentäviisi
-Puhuja 2: pitäisi olla
+Puhuja 2: pitäisi olla jo
 Puhuja 2: tarkkaa muotoa, mutta polttomoottoriautolla
 Puhuja 2: Helsingin keskustassa tai osassa keskustaan pitäisi olla kielletty.
 Puhuja 2: Kiinnostavaa tässä oli tavallaan se, että Sinne mäellä ei sinänsä ollut mitään syytä tehdä tuota avaus just nyt, koska tämä
 Puhuja 2: on menossa tuolla kaupungin hallinnossa,
 Puhuja 2: tämä on
-Puhuja 2: virkamiestasolla käytävää keskustelua, missä Helsingillä on ilmastotavoitteet ja niihin pääse, missä joudutaan tekemään ratkaisuja
-Puhuja 2: ja tässä ei ole mitään pakkoa aloittaa tällaista, saako
+Puhuja 2: virkamiestasolla käytävää keskustelua, missä Helsingillä on ilmastotavoitteet ja niihin pääse, missä joudutaan tekemään ratkaisuja ja tässä ei ole mitään pakkoa aloittaa tällaista, saako
 Puhuja 2: bensa-autolla ajaa esiin
 Puhuja 2: keskustassa
 Puhuja 2: keskustelua juuri nyt. Sinne minäkin jostain syystä sen halusi aloittaa ja tässä hänen
@@ -137,11 +135,11 @@ Puhuja 2: Anni sinnemäki halusi nostaa tämän asian esille juuri nyt, koska t�
 Puhuja 2: on vasta virkamiesvalmisteluun
 Puhuja 2: menevä asia, jota ei olisi tarvinnut millään tavalla vielä
 Puhuja 2: tuoda esille.
-Puhuja 0: Mutta tuo kuulostaa ihan tyhmältä, koska... Kyllä minä jatkan. Odota hetki. Minä menin hsyz. Fi ja sieltä haku ja haku kuntavaalit.
+Puhuja 0: Mutta tuo kuulostaa ihan tyhmältä, koska... Kyllä minä jatkan. Odota hetki. Koska menin hsy. Fi ja sieltä haku ja haku kuntavaalit.
 Puhuja 0: Sitten siinä tulee hirveä liuta. Toinen toista on oudompia ja typerympi
 Puhuja 0: ehdotuksia, joita tulee puolueilta.
 Puhuja 0: Kristillisdemokraateilla
-Puhuja 0: oli joku, mikä se oli, jotain maahamehilä. Ei putoa, tai sitä tai jotain. Persuilla oli, että wokeitus pois kouluista.
+Puhuja 0: oli joku, mikä se oli, jotain maahamehilä. Ei putoa, tai se ei taida. Persuilla oli, että wokeitus pois kouluista.
 Puhuja 2: Tässä vihreät ihmettelee, että miksi hän tai moni ihmettelee miksi hän sen teki. Tämä oli ilmeisestikin Anni
 Puhuja 2: Sinnemäen toinen kausi apulaisporvesta,
 Puhuja 2: joka vastaa nimenomaan näistä asioistaan päättymässä ja tämä saattoi olla jonkinlainen, hänellä oli halu jättää vielä kädenjälkensä
@@ -153,14 +151,12 @@ Puhuja 1: ovesta, niin hän raapasi tulitikun ja heitti sen sinne huoneeseen ja 
 Puhuja 2: Sitten tässä on vielä,
 Puhuja 2: tilannehan on tosi kiinnostava. Perinteisesti kokoomus on yleensä aina ollut Helsingin suuri puolue ja nyt vihreät ovat olleet Jät ja kaksi. Nyt näyttää vahvasti siltä, että demarit menevät vihreiden ohi.
 Puhuja 2: Vihreät on
-Puhuja 2: enemmän tai vähemmän sekaisin.
-Puhuja 0: Vihreiden kaikki kärki tai isot nimet jättää valtuuston
-Puhuja 0: näissä vaaleissa, eikö näin? Siellä on Soinin vaaraa ja Sauria.
-Puhuja 2: Nämä vanhat mediatut ovathan siellä edelleen. Siellä on Atte Harjanne,
-Puhuja 2: Sana joku muu. Varianne Diarra on siellä oikeassa. Ihan pitkästi ystävä.
-Puhuja 0: Onko muita? Ei ole ketään muuta.
-Puhuja 2: No, kun niillä on niin pitkään toiminut isona puolue ensinnäkin, että onhan vihrellistä
-Puhuja 2: kelvollinen ja onhan siellä tuuri gousaa ja siellä on ties ketä.
+Puhuja 0: enemmän tai vähemmän sekaisin ja nimenomaan Vihreiden kaikki kärki tai isot nimet jättää valtuuston
+Puhuja 2: näissä vaaleissa, eikö näin? Siellä on Soinin vaaraa ja Sauria. Nämä vanhat mediatut ovathan siellä edelleen. Siellä on Atte Harjanne,
+Puhuja 2: Sanoa joku muu. Vartiainen on siellä
+Puhuja 0: oikeassa. Ihan pitkästi ystävä.
+Puhuja 2: Onko muita? Ei ole ketään muuta.
+Puhuja 2: No, kun niillä on niin pitkään toiminut isona puolue ensinnäkin, että onhan vihrellistä ihan kelvollinen ja onhan siellä siellä on tuuri cousaa ja siellä on ties ketä.
 Puhuja 2: Vihreät on todella
 Puhuja 2: useassa, koska ne on jo muutenkin
 Puhuja 2: vaikeuksissa täydennysrakentamis
@@ -170,28 +166,30 @@ Puhuja 2: niin kaikki helsinkiläiset ovat sitä mieltä, että vihreät haluava
 Puhuja 2: Herttoniemeen
 Puhuja 2: 50-luvun alun lähiöön uusia taloja
 Puhuja 2: sinne missä lapset leikkii.
-Puhuja 2: Lapset ja Marika Junkkari. Kyllä.
+Puhuja 2: Lapset ja Marke Junkkarin. Kyllä.
 Puhuja 2: Kaavat
 Puhuja 2: on hyväksytty yhdessä ja vihreät ei voi yksin tehdä mitään, mutta vihreät on saanut syytökset tästä lähiluonto
 Puhuja 2: täydennysrakentaminen
 Puhuja 2: asiasta, mikä suututtaa kamalan monia ihmisiä.
-Puhuja 2: Ja nyt toinen suuria tunteita
+Puhuja 2: Ja nyt
+Puhuja 2: toinen suuria tunteita
 Puhuja 2: herättävä asia on
-Puhuja 2: autoilu. Ja nyt tavallaan vihreät on sekä molemmissa
+Puhuja 2: autoilu. Ja nyt tavallaan
+Puhuja 2: vihreät on sekä molemmissa
 Puhuja 2: ottanut taas, kyllähän kaikki tietää, ettei vihreät kannata ehkä yksityisautoilua samassa vaan ei Kokoomuslaiset,
 Puhuja 2: mutta sinne minäkin heitti bensaa liekkeihin ja aloitti tämän keskustelun just nyt ja tätä kaikki kummastivat kovasti. Onhan siellä, kun piti oikein katsoa, niin onhan siellä Outi Alanko Kahiluoto-Harjanne
 Puhuja 1: Mari Holopainen, Emma Kari Otso Kivekäs,
 Puhuja 1: Osanjanar,
 Puhuja 1: tällaisia, Sanna Vesikansa ihan
 Puhuja 1: tiedä, ketkä ovat ehdolla.
-Puhuja 2: Valtiollisen talon tarvitaan. Jos katsoo isoja puolueita, niin Daniel Zasonov, joka on kokoomuksen Formestari erikois, hän on suhteellisen tuntematon,
+Puhuja 2: Valtiollisen talon tarvitaan. Sitten katsoo isoja puolueita, niin Daniel Zasonov, joka on kokoomuksen Formestari erikois, hän on suhteellisen tuntematon,
 Puhuja 2: valtakunnan
 Puhuja 2: politiikassa ollut jät ja ajat
 Puhuja 2: kaupunkipolikin jonkun elämänsä teidän politiikkaa eikä mitään muuta. Sitten
 Puhuja 2: demareilla
 Puhuja 2: on
-Puhuja 2: tavallaan tällainen
-Puhuja 2: kahden kärjen taktiikka, eli Porvistaehdokassa on Eveliina Heinäluoma ja sitten sen lisäksi ehdokkaana tämä Nasima Rasimywar,
+Puhuja 2: tällainen
+Puhuja 2: kahden kärjen taktiikka, eli porvistaehdokassa on Eveliina Heinäluoma ja sitten sen lisäksi ehdokkaana tämä Nasima Razmyar,
 Puhuja 2: joka molemmat on
 Puhuja 2: varsinkin Nasima on demareina varmaan suosituin poliitikko, joka tulee keräämään ihan
 Puhuja 2: valtavan
@@ -204,7 +202,7 @@ Puhuja 2: se vihreä kyllä pahaa pelkää.
 Puhuja 2: Turpaan tulee. Turpaan tulee ja jos ne jäisivät kolmanneksi niin olisi aika katastrofi. Ja itse asiassa Vasemmistoliittokin
 Puhuja 2: saattaa
 Puhuja 2: todennäköisesti tekee hyvän tuloksen
-Puhuja 1: ja saattaa koputella ihan niitä vihreitä. Mutta vihreät kyntää vähän jokaisella sektorilla.
+Puhuja 2: ja saattaa koputella ihan niitä vihreitä. Mutta vihreät kyntää vähän jokaisella sektorilla.
 Puhuja 2: Kyllä,
 Puhuja 2: ja
 Puhuja 2: jos
@@ -217,29 +215,27 @@ Puhuja 0: perussuomalaiset olisivat saaneet päättää asiasta ja olisi todella
 Puhuja 0: terveellisesti, niin mikä olisi tammikuun
 Puhuja 0: jäljiltä teidän saldo? Itse olisin hyvin rikas, koska en ole juonut pisaraakaan
 Puhuja 0: tammikuussa
-Puhuja 0: ja muutenkin elänyt civeää elämää. Vaikka sinänsä tofusta ja pervoillusta pidänkin. Mutta mun mielestä se edellytti lopullista pervoidun lopettavista. No, sitä ei voi. Heressä voi lukea
+Puhuja 2: ja muutenkin elänyt civeää elämää. Vaikka sinänsä tofusta ja pervoillusta pidänkin. Mutta mun mielestä se edellytti lopullista pervoidun lopettavista. No, sitä ei voi. Heressä voi lukea
 Puhuja 2: Helsingissä dokaamaan,
-Puhuja 2: ei
-Puhuja 0: se silloin sitä eroa. Mutta en ala. Me olemme puolen vuoden raittius.
-Puhuja 0: Jos rupeat heinäkuussa dokaanista. Tätä matkaa voitte seurata minun matkaopas-podcastissa,
+Puhuja 0: ei se silloin sitä eroa. Mutta en ala. Me olemme puolen vuoden raittius meillä... Jos rupeat heinäkuussa dokaanista. Tätä matkaa voitte seurata minun matkaopas-podcastissa,
 Puhuja 0: joka on alkanut pyöriä jälleen kerran.
 Puhuja 1: Mutta olisitteko tiedonneet rahaa näillä? No siis kyllä mä varmaan olisin tiennyt, täytyy myös sanoa, että kun käyn silloin tällöin tuolla työpaikan kuntosalilla, niin
-Puhuja 1: kyllä on porukkaa. Siellä on joka laite
-Puhuja 1: täynnä joku kiihnuttamassa.
-Puhuja 1: Kyllä. Sanomalaisilla menee tässä suhteessa ainakin tammikuun
+Puhuja 1: kyllä on porukkaa. Siellä on joka laite täynnä joku kiihnuttamassa
+Puhuja 1: siellä.
+Puhuja 1: Kyllä on. Sanomalaisilla menee tässä suhteessa ainakin tammikuun
 Puhuja 1: ajan hyvin.
 Puhuja 0: Joo,
 Puhuja 0: muuta
-Puhuja 0: kiinnostavaa mä en kyllä nähnytkään tuolla kun tavaliin. Niin,
+Puhuja 0: kiinnostavaa mä en kyllä nähnytkään tuolla kun tuolit. Niin,
 Puhuja 1: mutta eikö me tavallaan, näistähän tekee mieli, puhun näistä kuntavaaleista,
 Puhuja 1: Mutta peittyykö sekin nyt sitten tällaisen...
 Puhuja 2: Helsingissähän on molemmat. Kyllä Helsingissä on käsittääkseni iso teema myös meidän
-Puhuja 2: terveyskeskukset ja jonotjen
-Puhuja 2: vanhustenhoitoja.
+Puhuja 2: terveyskeskukset ja jonotjen vanhustenhoitoja.
 Puhuja 1: Se on totta. Kyllä.
-Puhuja 0: Sitten kun... Kauhean nopeasti halusi lopettaa kuvasta. Sano nyt jotain. Ei, lopetetaan vaan.
+Puhuja 2: Okei, sitten kun... Kauhean nopeasti sä halusi lopettaa kuvasta. Sano nyt jotain. Ei, kun lopetetaan vaan.
 Puhuja 0: Mä en tiedä, mitäs kello on. Mä nyt hirvittää jotain kahden tunnin jakso. Ja puhutaan jostain,
-Puhuja 0: minkävärisiä käpyjä on syöty tällä viikolla.
+Puhuja 0: minkävärisiä käpyjä on syöty
+Puhuja 0: tällä viikolla.
 Puhuja 0: Kun istutte alas baariin ja sitten semmoinen robottibaari Mikko tulee ja sanoo:
 Puhuja 0: Hyvää päivää,
 Puhuja 0: pitää saisi olla,
@@ -300,8 +296,7 @@ Puhuja 2: noista suoratoistopalveluista
 Puhuja 2: tämän
 Puhuja 2: Cone veljesten
 Puhuja 2: Big Lewalski leffan. Mun mielestä tämä, minkä olen nähnyt edes aikoin, enkä yhtään muistanut mitä siinä tapahtuu.
-Puhuja 2: Olisi uutta leffaa katsonut, vaikka sen on nähnyt silloin
-Puhuja 2: jotka oli enemmän tai vähemmän häröjä
+Puhuja 2: Jotka oli enemmän tai vähemmän häröjä
 Puhuja 2: ja niillä oli oma keilailujoukkue
 Puhuja 2: ja ne tapasi aina siellä keilahallissa
 Puhuja 2: ja ottelivat jotain, osallistui johonkin keilailusarjaan
@@ -400,18 +395,18 @@ Puhuja 0: todella arvokasta työtä.
 Puhuja 0: En tiedä, mitä kello on. Se voi olla, että tuli taas pisin jakso ikinä. Mutta
 Puhuja 0: kiitän siitä
 Puhuja 0: Salla Vuorikoskea.
-Puhuja 0: Kiitos. Kiitän myös Marko Junkkaria. Kiitos. Kiitän Alexand Förliniä ja hänen ja Elina Lappalaisen
-Puhuja 0: vetämänä aivan
+Puhuja 0: Kiitos. Kiitän myös Marko Junkkaria. Kiitos. Kiitän Alexand Förliniä. Hänen ja Elina Lappalaisen
+Puhuja 0: vetämän aivan
 Puhuja 0: mainiota
-Puhuja 0: visio-podcastia löytyy kaikista
-Puhuja 0: mahdollisista kanavista. Ottakaa seurantaan, kuunnelkaa,
+Puhuja 0: visio-podcastia löytyy kaikista mahdollisista kanavista.
+Puhuja 0: Ottakaa seurantaan, kuunnelkaa
 Puhuja 0: varsinkin tämä edellisiin jakso, jossa oli Risto Murto vieraana.
 Puhuja 0: Aivan uskomattoman hyvää puhetta Suomen taloustilanteesta.
 Puhuja 0: Minun nimi on Tuomas Peltomäki, äänenkuva, ja kaiken muun mahtava meille tekee tällä viikolla
 Puhuja 0: Jonne Viltanen.
 Puhuja 0: Kiitos, Jonne.
 Puhuja 0: Lähettäkää meille palautetta tavallisiin tapoihin.
-Puhuja 0: Ensi viikolla tehdään taas yksi podcast, moi moi!
+Puhuja 0: Ensi viikolla tehdään taas yksi podcast. Moi moi!
 Puhuja 1: Helsingin Sanomat.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit,
@@ -429,7 +424,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

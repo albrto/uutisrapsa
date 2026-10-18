@@ -24,7 +24,7 @@ Puhuja 2: Pollareiden
 Puhuja 2: sekä talousrikollisten
 Puhuja 2: paras kaveri Marko Junkkari. Moikka Marko! Heissan Alma. Onpa hauskaa, kun olet siinä vetämässä. Jee, kivaa. Tämä on aina mulle suuri ilo ja varsinkin teidän kanssa. Ihan mahtavaa päästä tänne studioon.
 Puhuja 2: Sillä meillähän on täällä seuranamme
-Puhuja 2: myös maailmalta palannut järjestelmätoimitta, sunnuntaitoimituksen
+Puhuja 2: myös maailmalta palannut toimittaja, sunnuntaitoimituksen
 Puhuja 2: toimittaja,
 Puhuja 2: unohdettujen kriisien konkari Marja Manner. Hei Marja. Hei Alma ja Marko.
 Puhuja 2: Ennen kuin menen tämän päivän aiheisiin, haluaisin mainita sen, että nythän on ilahduttavasti
@@ -39,20 +39,21 @@ Puhuja 2: sen kuunnelluvan podcastin kohdalla, että
 Puhuja 2: kyllä on aivan normaalia pitää lempipodcastisi
 Puhuja 2: juontajaa perheenjäsenenä.
 Puhuja 2: Ja siis mua naurattaa, koska kyllä mä nään Tuomaksen
-Puhuja 2: Sellaisena rasittavana enona joka kahvipöydässä tulee kyselemään että No mitäs mieltä N-sanasta?
+Puhuja 2: Sellaisena rasittavana enona joka kahvipöydässä tulee kyselemään, että No mitäs mieltä N-sanasta?
 Puhuja 2: Ja muuten vaan Eijestas
 Puhuja 2: sentään!
-Puhuja 1: Siis kaikella rakkaudella We alllave Tuomas. Ja siisteithän oli se, että ihmisten on jako nyt Twitterissä
+Puhuja 1: Siis kaikella rakkaudella We all love Tuomas. Ja siisteithän oli se, että ihmisten on jako nyt Twitterissä
 Puhuja 1: Spotifyn
 Puhuja 1: sitä. Kiitos. Minä kuuntelen
 Puhuja 1: uutisraporttia.
 Puhuja 1: Tollasia tunteja vuodessa. Tulee aina
-Puhuja 3: paineita, jos hetkittäin saattaa unohtaa, että... Joku kuuntelee.
+Puhuja 3: paineita, jos hetkittäin saattaa unohtaa.
+Puhuja 2: Että... Joku kuuntelee.
 Puhuja 3: Kuuntelenkö vaan tässä, juttelet, että teidän kanssa mitä sattuu. Mennään asiaan. Sanopa muuta Maria.
 Puhuja 2: Tällä viikolla puhumme Afganistanista,
 Puhuja 2: jonka länsimaat ovat unohtaneet.
-Puhuja 2: Sitten puhumme uudesta koronavariantista,
-Puhuja 2: ajankohtaisesta
+Puhuja 2: Sitten puhumme uudesta koronavariantista
+Puhuja 2: ja ajankohtaisesta
 Puhuja 2: COVID-19-tilsusta
 Puhuja 2: sekä kimppakämpistä
 Puhuja 2: ja lopuksi vielä puheenaiheita
@@ -92,10 +93,10 @@ Puhuja 3: Tarvittiin vain viisumia ja media-agreditaatio,
 Puhuja 3: jotka saa ihan kätevästi.
 Puhuja 3: Mutta se tilanne on paikallisille toimittajille tosi eri asia.
 Puhuja 3: Paikallistamediahan
-Puhuja 1: siellä on rajoitettu... Vaikka se mun tulisi keskeyttää... Mistä sen akkreditoinnin saa siis? Ne on whatsapilla Thalbanin tiedottajalta
+Puhuja 1: siellä on rajoitettu... Vaikka se mun tulisi keskeyttää mistä sen akkreditoinnin saa siis? Ne on whatsapilla Thalbanin tiedottajalta
 Puhuja 1: fokus.
 Puhuja 1: Tästä tuli semmoinen,
-Puhuja 1: että me ei oltu kauhean hyviä. Mutta tästä alkaa semmoinen, niin kuin ajattelin, että nyt on aika kostaa ketsuppijuttu.
+Puhuja 1: että me ei oltu kauhean hyviä. Mutta tästä alkaa semmoinen, että nyt on mun aika kostaa ketsuppijuttu.
 Puhuja 1: Siinä ei ole sinänsä mitään sääntöjä. Joukkueen pelaajien ei tarvitse opiskella nimenomaan sitä ainetta, mikä ainejärjestön tai
 Puhuja 1: aineenjoukkue se on.
 Puhuja 1: Sitten mä näin viikkokausia vaivaa. Kiertelin yliopistolla ja etsin sieltä erilaisia
@@ -119,7 +120,7 @@ Puhuja 2: Erinomainen tarina.
 Puhuja 2: Mä laskin tänään, niin mä oon kyllä asunut yli kymmenessä
 Puhuja 2: eri tällaisessa
 Puhuja 2: kimppa-asumisen
-Puhuja 2: muodossa ja näillähän on siis omat termit. On juuri tämä soluasuminen, että on erikseen nämä huoneet ja sitten on vain yhteen keittiö. Ja tavallaan ei välttämättä ole mitään suhdetta ihmisten välillä. Kimppakämppä on myös niin kuin tällainen, mutta se ei ole ehkä niin
+Puhuja 2: muodossa. Näillähän on siis omat termit, että on juuri tämä soluasuminen, että on erikseen nämä huoneet ja sitten on vain yhteen keittiö. Ja tavallaan ei välttämättä ole mitään suhdetta ihmisten välillä. Kimppakämppä on myös tällainen, mutta se ei ole ehkä niin
 Puhuja 2: tavallaan minkään tällaisen säätiön ylläpitämä tällainen joku soluasunto, vaan
 Puhuja 2: joku jengi yhdessä vuokraa
 Puhuja 2: tuota kämppää ja sitten siellä on eri ihmiset asuvat. Kommuni
@@ -161,13 +162,13 @@ Puhuja 2: Se oli varmaan joskus kasarin lopussa
 Puhuja 2: nainen ostanut
 Puhuja 2: arvokerrostalosta
 Puhuja 2: tällaisen neljän huoneen, neljän huoneen upean
-Puhuja 2: asunnon. Nythän siellä on pelkkiä
-Puhuja 2: privaattilääkäri,
+Puhuja 2: asunnon. Nythän siellä on pelkkä
+Puhuja 2: privaattilääkärifirmoja,
 Puhuja 2: juristifirmoja ja jotain liikkeitä.
 Puhuja 2: Jonkun verran vielä osuu ihmisiä siellä. Hän
 Puhuja 2: esitteli itsensä,
-Puhuja 2: oli siis keski-ikäinen nainen ja hän esitteli itsensä tohtoriksi.
-Puhuja 2: Hän oli life coach ja
+Puhuja 2: oli siis keski-ikäinen nainen ja hän esitteli itsensä tohtoriksi
+Puhuja 2: ja hän oli life coach ja
 Puhuja 2: asui tyttärensä
 Puhuja 2: kanssa
 Puhuja 2: kommuunissa
@@ -184,7 +185,7 @@ Puhuja 2: pelkästään sillä, että se rahasta
 Puhuja 2: vuokralaisia,
 Puhuja 2: että basically vaan eli sillä, että me maksetaan sillä sitä rahaa. Sitten se sen tytär asui siellä ja ne molemmat oli sellaisia oikein perinteisiä, jotka
 Puhuja 2: niin,
-Puhuja 2: että lähdetkö mukaan, vaan että joo, mikä otti ja ne olivat tosi traditionaalista saksalaista tai itävaltalaista naisasiameininkiä.
+Puhuja 2: että lähdetkö mukaan, vaan että joo mikä otti ja ne olivat tosi traditionaalista saksalaista tai itävaltalaista naisasiameininkiä.
 Puhuja 2: Se alkoi vähän mennä oudoksi, että lopulta se alkoi kiristämään meiltä.
 Puhuja 2: Tietty, että jos teette
 Puhuja 2: vaikka puhdista näitä ikkunoita niin te ette saa teidän takuuvuokran takaisin. Ja sitten sillä oli kissa,
@@ -355,8 +356,7 @@ Puhuja 1: Mä jo
 Puhuja 1: aikaisemminkin huuin,
 Puhuja 1: että mun mielestä ehkä maailman parasta tv-sarjaa tämä Soxession.
 Puhuja 2: Mä luin katsoa sitä viime viikolla
-Puhuja 1: alusta. Musta se on aivan huikein hyvä. Nyt on kolmas kausi menossa
-Puhuja 1: ja aina kerran viikossa tulee uusi jakso. Katsoin se aina heti kun mahdollista. Eilen katsoin
+Puhuja 1: alusta. Musta se on aivan huikein hyvä. Nyt on kolmas kausi menossa ja aina kerran viikossa tulee uusi jakso. Katsoin se aina heti kun mahdollista. Eilen katsoin
 Puhuja 1: tämän tällä viikolla ilmestyneen jakso. Nyt ensimmäisen kerran tuli sellainen olo että sarjaviehätys tulee siinä että kaikki henkilöt ovat niin lastenmielisiä
 Puhuja 1: ja inhottavia.
 Puhuja 1: Heihin ei voi samaistua ja sitä vaan nauttii kun inhottavampia
@@ -369,7 +369,8 @@ Puhuja 2: Hirveää. Mehän on siis todellakin aivan hirveää. Sarja
 Puhuja 1: on aivan huikea.
 Puhuja 1: Edelleen suosittelen sitä. En ole niin kuin...
 Puhuja 1: En ole näin hienosti käsikirjoitettua sarjaa, koska en näe.
-Puhuja 3: Odottelen vaan, että tulee sellainen hetki, että sain käsiin, niin Meri Valkamaan Uuden kirjan Sinun Margot. Menin ostamaan sitä kirjakauppaa, mutta se on ollut siellä. Siellä tuli samaan aikaan muitakin ihmisiä, jotka kyseli sitä. Ja myyjä sanoi, että sitä on tilattu lisää. Sitten mä ajattelin, että Wau on ne. Merihän on entinen toimittaja, joka kirjoitti sitä kirjaa tosi pitkään.
+Puhuja 3: Odottelen vaan, että tulee sellainen hetki, että sain käsiin, niin Meri Valkamaan Uuden kirjan Sinun Margot. Menin ostamaan sitä kirjakauppaa, mutta se on ollut siellä. Siellä tuli samaan aikaan muitakin ihmisiä, jotka kyseli sitä. Ja myyjä sanoi, että sitä on tilattu lisää ja niin edelleen.
+Puhuja 3: Merihän on entinen toimittaja, joka kirjoitti sitä kirjaa tosi pitkään.
 Puhuja 3: Voin kuvitella, että miten iso työ tuollaisen kirjan tekeminen on mieletön, millaisen
 Puhuja 2: vastaanoton se on saanut. Niin sehän voitti siis Helsingin Sanomien... Erikoiskirjapalkkaus.
 Puhuja 1: Siinä esikoiskirjahaastattelussa
@@ -396,13 +397,15 @@ Puhuja 2: ja siihen suhtautumisen
 Puhuja 2: kannalta.
 Puhuja 2: Kun luin sitä kirjaa, niin mulle tuli tosi monta kertaa sellainen fiilis, että
 Puhuja 2: tämä on juuri sellainen
-Puhuja 2: ajatuksellinen ristiriita tai joku, mikä mua on vaivon, mutta mä en ole voinut ihan pistää sormeni siihen, että mikä tässä jotenkin
+Puhuja 2: ajatuksellinen
+Puhuja 2: ristiriita tai joku, mikä mua on vaivon, mutta mä en ole voinut ihan pistää sormeni siihen, että mikä tässä jotenkin
 Puhuja 2: nitisee
 Puhuja 2: ja sitten se hienosti telttari siinä kirjassa
 Puhuja 2: avaa sitä. Jos pohtii
 Puhuja 2: sitä,
 Puhuja 2: mitä ilmastonmuutoksesta
-Puhuja 2: pitäisi ajatella ja argumentoida ja miten sitä ajattelua voisi kehittää, niin se on erinomainen teos siihen. Mikko Peltteri ei siinä sano, mitä mieltä
+Puhuja 2: pitäisi ajatella ja argumentoida ja miten sitä ajattelua voisi kehittää, niin se on erinomainen teos siihen. Mikko Peltteri
+Puhuja 2: ei siinä sano, mitä mieltä
 Puhuja 2: asioista pitäisi olla, Eikä tavallaan ota kantaa tai siihen vaan enemmänkin tavallaan
 Puhuja 2: ruokkii eteenpäin sitä omaa ajattelua aiheesta.
 Puhuja 2: Lämpimästi suosittelen sitä.

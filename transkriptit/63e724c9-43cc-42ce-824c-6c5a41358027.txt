@@ -83,11 +83,12 @@ Puhuja 0: tai Minnes sotaan
 Puhuja 0: aistilanteet
 Puhuja 0: on ajautuneet.
 Puhuja 0: Ne tulee someputkia
+Puhuja 0: pitkin
 Puhuja 0: meidän
 Puhuja 0: suomalaisten
 Puhuja 0: silmille. Se materiaali on niin häkellyttävä,
 Puhuja 0: että keskustellaan siitä, koska meillä on Suomen keskeisin
-Puhuja 0: amerikka-asiantuntija
+Puhuja 0: amerikka-asiantuntija.
 Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita. Pitkiä epämukavien hiljaisuuksien varalle suosittelen jo nyt omaani.
 Puhuja 0: Hyvä, mahtava ja hauska.
 Puhuja 0: Hei,
@@ -138,8 +139,10 @@ Puhuja 0: Mutta
 Puhuja 0: me kaikki ollaan katsottu niitä videoita, jotka tulee Minnes sata:sta.
 Puhuja 0: Missä
 Puhuja 0: Trumpin
-Puhuja 0: ICEGestabo
-Puhuja 1: yksikkö operoi Sun sanat, ei mun
+Puhuja 0: ICEGEstabo
+Puhuja 0: yksikkö
+Puhuja 0: operoi
+Puhuja 1: Sun sanat, ei mun
 Puhuja 0: operoi.
 Puhuja 0: Sun sanat, ei mun. Operoi. Ja siellä on tapahtunut näitä kuolemantapauksia, joiden
 Puhuja 0: se varsinainen rikosnimike ja muu on selvityksessä.
@@ -161,6 +164,7 @@ Puhuja 1: osavaltion
 Puhuja 1: liittovaltio
 Puhuja 1: kohteekseen, ja sinne on lähetetty
 Puhuja 1: valtava määrä
+Puhuja 1: näitä
 Puhuja 1: erilaisia liittovaltion agentteja,
 Puhuja 1: joiden tehtävä
 Puhuja 1: ainakin nimellisesti
@@ -173,7 +177,7 @@ Puhuja 1: viime kädessä sotkenut
 Puhuja 1: ottamaan näitä maahanmuuttajia kiinni. Miksi just sinne? No se onkin sitten se epäselve kysymys.
 Puhuja 1: Trumpin tyypit väittivät, että huijataan näitä. Eikä se ole mikään väite. Se on ihan fakta, että siellä on ollut
 Puhuja 1: somalitaustaisia
-Puhuja 0: ihmisiä, jotka ovat huijannut valtavia määriä juttuja. Jos on nyt vuosienalue oikeusprosessit meneillään, tai tämä Trump nosti tämän, käyttävätkö he tätä edelleen myös tässä? No käyttää, mikä on tavallaan älytöntä, koska
+Puhuja 0: ihmisiä, jotka ovat huijannut valtavia määriä juttuja. Jos on nyt vuosienalue oikeusprosessit meneillään tai tämä Trump nosti tämän, käyttävätkö he tätä edelleen myös tässä? No käyttää, mikä on tavallaan älytöntä, koska
 Puhuja 1: ilmeisesti, mitä olen ymmärtänyt, näistä huijareista,
 Puhuja 1: ovat olleet Amerikan kansalaisia tai ainakin laillisesti maassa. He eivät ole mitään luvattu maahanmuuttajia, joita
 Puhuja 1: sitten taas
@@ -187,14 +191,14 @@ Puhuja 1: vastaan ja olleet niin, että tämä ei käy meille.
 Puhuja 1: Sitten ne Aissin
 Puhuja 1: autot
 Puhuja 1: ja Rajavartiolaitoksen,
-Puhuja 1: nehän ovat tosi rajun näköisiä, kun niillä on naamiot ja niillä on isot aseet
+Puhuja 1: nehän ovat tosi rajun näköisiä, kun niillä on ne naamiot ja niillä on isot aseet ja
 Puhuja 1: maastovaatteet
 Puhuja 1: jne.
 Puhuja 1: Ne
 Puhuja 1: ajelevat siellä
 Puhuja 1: ympäriinsä,
 Puhuja 1: ja tavalliset ihmiset
-Puhuja 1: menevät sinne ja sanoo, että hei nyt ne on täällä, ja sitten ne alkavat puhaltamaan pilleihin ja yrittää eri tavoin varoittaa
+Puhuja 1: menevät sinne ja sanovat, että hei nyt ne on täällä, ja sitten ne alkavat puhaltamaan pilleihin ja yrittää eri tavoin varoittaa
 Puhuja 1: mahdollisesti vaarassa olevia ihmisiä.
 Puhuja 0: Joka ei siis missään tapauksessa enää rajoitu pelkästään
 Puhuja 0: laittomasti maassa oleviin ihmisiin.
@@ -206,15 +210,16 @@ Puhuja 1: jättää noudattamatta vaikka oikeudenpäätöksiä
 Puhuja 1: ja niin edelleen. Kun he sanovat, että he ovat siellä valvomassa lakia, niin on
 Puhuja 1: ihan mustaa valkoisella siitä, että he myös rikkovat lakia. Se
 Puhuja 1: oli tämmöinen sivuhuomio, mutta kun
-Puhuja 2: se autossa nyt se Trigboviino,
+Puhuja 2: se autossa nyt
+Puhuja 2: se Trigboviino,
 Puhuja 2: joka oli jonkunlainen johtaja
 Puhuja 2: siinä. Kun hän tuli tiedotustilaisuuteen
 Puhuja 2: Alex Bredyn kuoleman jälkeen,
 Puhuja 2: jossa hän oli tosi uhmakkaana ja käytännössä
 Puhuja 2: siis syytti tätä uhria ja ties mistä,
-Puhuja 2: Se on jotenkin aivan uskomattoman näköinen junnu, kun siinä
-Puhuja 2: vieressä oli nämä kommandokaverit
-Puhuja 2: ja hänellä on joku semmoinen, että onko joku virallinen univormaaja, mikä on sellainen nahkavyöminen
+Puhuja 2: Se on jotenkin aivan uskomattoman näköinen junnu, kun siinä vieressä
+Puhuja 2: oli nämä kommandokaverit
+Puhuja 2: ja hänellä on joku semmoinen, että onko joku virallinen univormaaja, mikä on sellainen nahkavyömenee
 Puhuja 2: tästä
 Puhuja 2: poikki kroppaa. Siis ei voi olla näkemä. Niin hän oikein kutsuu niitä nätsivertauksia
 Puhuja 1: kyllä. Mutta nyt Trump on siis siirtänyt hänet syrjään.
@@ -223,8 +228,8 @@ Puhuja 1: oli toinen tapaus, jossa agentit tappoi ihmisen
 Puhuja 1: ja
 Puhuja 1: siitäkin oli jälleen videot
 Puhuja 1: jokaisesta mahdollisesta
-Puhuja 1: kulmasta.
-Puhuja 1: Ja sitten tällä tapetulla sairaanhoitajalla, joka siis on ollut
+Puhuja 1: kulmasta. Ja sitten tällä tapetulla sairaanhoitajalla,
+Puhuja 1: joka siis on ollut
 Puhuja 1: mielenosoittaja, joka siellä on eri tavoin
 Puhuja 1: ollut vastustamassa TAISE,
 Puhuja 1: niin hänellä oli ase, mikä siis oli ihan tavallista. Minäkin olen ollut Minnesotassa,
@@ -262,8 +267,8 @@ Puhuja 1: mitään isoa
 Puhuja 1: ratkaisua ei ole vielä tapahtunut, ja tämä
 Puhuja 1: varmasti jollain tavalla jatkuu.
 Puhuja 1: Jos saa vielä nostaa
-Puhuja 0: omaa
-Puhuja 0: viisautta
+Puhuja 1: omaa
+Puhuja 1: viisautta
 Puhuja 1: En voi kirjoittaa kolumnia siitä, että muuten.
 Puhuja 1: Minä
 Puhuja 1: sanoin.:
@@ -368,15 +373,16 @@ Puhuja 0: mä oon tiennyt, mä oon nähnyt sen aiemmin
 Puhuja 0: ja mä oon tiennyt about, mitä se tarkoittaa. Se on tämmöinen kuin Toodi.
 Puhuja 0: Ennen jopa tätä selvitystyötä
 Puhuja 0: mä tiesin, että se tarkoittaa jotain semmoinen
-Puhuja 0: tukija tai supportaaja taivu tällainen. Esimerkiksi BBC käyttää Toudita
+Puhuja 0: tukija tai supportaaja taivu tällainen. Esimerkiksi BBC
+Puhuja 0: käyttää Toudita
 Puhuja 0: tämmösessä
 Puhuja 0: merkityksessä
 Puhuja 0: kuin juttu käsittelee care starmeria
 Puhuja 0: laborin puheenjohtaja.
 Puhuja 0: Some egar backpentures actively trying to make care's care's
 Puhuja 0: case. Un kindly branded by 1 source as touties trying to sac up to the leadership. Eli
-Puhuja 0: sitä new stagemenia, niin sitten me jotenkin tuli siellä, mitä se tarkalleen ottaen, mistä tulee toodi. Mä tiesin, että toude
-Puhuja 0: tarkoittaa konnaa tai sammakkoa.
+Puhuja 0: sitä new stagemenia, niin sitten me jotenkin tuli siellä, mitä se tarkalleen ottaen, mistä tulee toodi. Mä tiesin, että toud tarkoittaa
+Puhuja 0: konnaa tai sammakkoa.
 Puhuja 0: Ja sitten mä rupesin googlaamaan, että mikä tää toodi on.
 Puhuja 0: Ja sitten selvisi, että se on tosi vanha sana. Se tulee 1600-luvun
 Puhuja 0: englannesta,
@@ -394,8 +400,7 @@ Puhuja 0: avustaja,
 Puhuja 0: jonka tehtävä oli syödä sammakko.
 Puhuja 0: Ja
 Puhuja 0: sammakkoja pidettiin hyvin laajasti myrkyllisinä.
-Puhuja 0: Ja
-Puhuja 0: tämä
+Puhuja 0: Ja tämä
 Puhuja 0: avustaja söi sen sammakon eli Toden.
 Puhuja 0: Ja
 Puhuja 0: tämä
@@ -410,13 +415,13 @@ Puhuja 0: on fakta.
 Puhuja 0: Joo, tää on fakta. Ja nyt tulee se keksitty osuus. Mä sitten innostuin tästä. Sitten mä ajattelin, että mä hitta, että onkohan Suomessa jotain vastaavaa
 Puhuja 0: mainiota vanhaa nimitystä, joka me ei enää edes muisteta, mistä se on peräisin. Ja totta kai mä kysyin
 Puhuja 0: tekoälyltä.
-Puhuja 0: Tekoäly oli tosi pettymys. Se oli ainoa, minkä se keksi, ja se ei päässyt eroon siitä, että koko ajan tarkoitti, että puoskari on vanha sana, mikä on vähän halventava ja humoristinen.
-Puhuja 0: Ja sitten mä ei ollut yhtään värisyttänyt
-Puhuja 0: mun.
+Puhuja 0: Tekoäly oli tosi pettymys. Se oli ainoa, minkä se keksi, ja se ei päässyt eroon siitä, että se koko ajan tarkoitti, että puoskari on vanha sana, mikä on vähän halventava ja humoristinen. Ja sitten mä ei ollut yhtään värisyttänyt
+Puhuja 0: mun näin.
 Puhuja 0: Että
-Puhuja 0: Suomessa saman suuntainen kuin tämä ToeDe voisi olla
+Puhuja 0: Suomessa
+Puhuja 0: vähän saman suuntainen kuin tämä ToeDe voisi olla
 Puhuja 0: vanha ammatti,
-Puhuja 0: joka ei enää ole käytössä, mutta joka hyvin kuvasi, että siinä olisi vähän semmoista hyvää huumorielementtiä.
+Puhuja 0: joka ei enää ole käytössä, mutta joka hyvin kuvasi ja siinä olisi vähän semmoista hyvää huumorielementtiä.
 Puhuja 0: Suomessa
 Puhuja 0: vastaava
 Puhuja 0: tällainen suuntainen sana
@@ -439,8 +444,8 @@ Puhuja 3: Arja tässä hei.
 Puhuja 3: Vinkkaan leffasta pitkien epämukavien hiljaisuuksien varalle.
 Puhuja 3: The Good Traature on vuonna kaksituhatta
 Puhuja 3: kaksikymmentä valmistunut tanskalainen leffa,
-Puhuja 3: joka kertoo toisen maailmansodan aikaisesta Tanskan USA:n
-Puhuja 3: suurlähettillästä Henrik Kauhmanista
+Puhuja 3: joka kertoo toisen maailmansodan aikaisesta Tanskan USA:n suurlähettillästä
+Puhuja 3: Henrik Kauhmanista
 Puhuja 3: ja geopolitiikasta
 Puhuja 3: Grönlannin ympärillä.
 Puhuja 3: Saksan hyökättyä
@@ -451,7 +456,7 @@ Puhuja 3: Sopimus antaa USA:lle oikeuden rakentaa Grönlantin kiitorata sotilask
 Puhuja 3: varten.
 Puhuja 3: Kotimaassaan kaufmanina pidetään ensin petturina,
 Puhuja 3: sitten sankarina.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Salla Vuorikoski.
+Puhuja 0: Kiitos, Arja. Okei, siinä kaikki tältä erää. Kiitos, Salla Vuorikoski.
 Puhuja 0: Kiitos. Kiitos, Anna-Sofia Berner. Kiitos. Mun nimi on Tuomas Peltonkin äänen kuva, ja kaiken muun mahtava meille tekee tällä viikolla Mikko Peura.
 Puhuja 0: Lähettäkää meille
 Puhuja 0: palautetta kaikissa mahdollisissa kanavissa ja kuullaan taas ensi viikolla!

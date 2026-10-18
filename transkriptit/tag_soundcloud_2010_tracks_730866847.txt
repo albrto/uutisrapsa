@@ -6,35 +6,35 @@ Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 1: Maailma on muuttunut tavalla,
 Puhuja 0: jota tuskin kukaan osasi ennakoida. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
 Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Uutisraportti-podcastiin
 Puhuja 0: ja suoraan lähetykseen torstaina miljoona yhdeksäntoista.
 Puhuja 0: Päivä joulukuuta kaksituhatta yhdeksäntoista.
 Puhuja 0: Minun nimeni on Tuomas Pelmäki.
 Puhuja 0: Ja
-Puhuja 0: kanssani täällä
-Puhuja 0: Sanomatalostudiossa
+Puhuja 0: kanssani täällä Sanomatalostudiossa
 Puhuja 0: Helsingissä
 Puhuja 0: Suomessa on
 Puhuja 0: bloggari,
 Puhuja 0: Marko Junkkari.
-Puhuja 1: Bloggari? Ei, Marko. Sulla on se Junkkarin blogg. Muutenkin vaikutuksia, miten painokkaasti sanoo, että minun nimeni on Tuomas Peltomäki. Hän
-Puhuja 1: jotenkin havaitsi tän tien.
-Puhuja 0: Mutta on se. Kyllä, niin on. Ei oo itse asiassa.
+Puhuja 3: Bloggari? Ei, Marko. Sulla on se Junkkarin blogg. Muutenkin vaikutuksia, miten painokkaasti sanoo, että minun nimeni on Tuomas Peltomäki. Hän
+Puhuja 3: jotenkin havaitsi tän tien.
+Puhuja 3: Mutta on se.
+Puhuja 0: Kyllä, niin on. Ei ole itse asiassa.
 Puhuja 0: Mun oikein nimi on Vesa.
-Puhuja 1: Se selittää.
+Puhuja 3: Se selittää.
 Puhuja 0: Mutta mun isän nimi oli Vesa myös.
-Puhuja 1: Oletko Vesa Tuomas? Olen.
+Puhuja 3: Oletko Vesa Tuomas? Olen.
 Puhuja 0: Mua ei ole ikinä sanottu Vesaksi. Se alkaa ehkä nyt.
 Puhuja 2: Ei ala.
 Puhuja 0: Tuo toinen ääni, joka ilkkui minulle täällä studiossa, on
 Puhuja 0: sunnuntailiitteen
 Puhuja 0: toimittaja.
-Puhuja 0: Viime viikolla kenties ensimmäistä kertaa
-Puhuja 0: elämässään tulistunut
+Puhuja 0: Viime viikolla kenties ensimmäistä kertaa elämässään tulistunut
 Puhuja 0: Marja Manner, hei Marja!
 Puhuja 2: Hei!
 Puhuja 0: Sä tulistuit siihen, kun en meinannut millään ymmärtää sun selostuksia.
@@ -74,11 +74,12 @@ Puhuja 0: Keskustelemme siis siitä.
 Puhuja 0: Ja lopuksi, kuten aina,
 Puhuja 0: hyviä
 Puhuja 0: keskustelunaiheita pitkien epämukavien hiljaisuuksien varalle.
-Puhuja 0: Okei, yksi lyhyt ilmoitusasia. Hei, käykää kaikki, mukaan lukien Marko ja Marja, äänestämässä Jakso. Jakso. Fi:ssä
+Puhuja 0: Okei, yksi lyhyt ilmoitusasia. Hei, käykää kaikki, mukaan lukien Marko ja Marja, äänestämässä
+Puhuja 0: Jakso. Fi:ssä
 Puhuja 0: Suomen Parasta podcastia kaksituhatta yhdeksäntoista. Saatte aivan itse valita, että mitä podcastia
 Puhuja 0: äänestätte siellä.
-Puhuja 1: Ehkä äänestäisi sitä apundamalirantaa.
-Puhuja 1: Ei,
+Puhuja 3: Ehkä äänestäisi sitä apundamalirantaa.
+Puhuja 3: Ei,
 Puhuja 0: on ihan mitätmyys se podcast.
 Puhuja 0: Jos sattuu käymään niin, että äänestätte
 Puhuja 0: vaikka tätä podcastia, niin tehkää sillä tavalla, että postatkaa siitä
@@ -90,15 +91,16 @@ Puhuja 0: minut tai uutisraporttitilit
 Puhuja 0: Instassa tai Twitteristä tai Facebookissa tai missä vaan, niin kaikkien
 Puhuja 0: tämän tehneiden kesken.
 Puhuja 0: Minä arvon kaksi t-paitaa.
-Puhuja 1: Vahva Marko paita. Vahva Marko paita. Koska mulla on jo.
-Puhuja 0: Mutta ainoa niitä voi olla lisää. Mutta jos joku yleisöstä haluaa tehdä tämän, niin mä arvon heille kaksi t-paitaa ja Vahva Marko Paitaa, jotka on nähty muun muassa televisiossa.
+Puhuja 0: Aivan Vah vahva Marko paita. Vahva Marko paita. Koska mulla on jo.
+Puhuja 0: Mutta
+Puhuja 0: ainoa niitä voi olla lisää. Mutta jos joku yleisöstä haluaa tehdä tämän, niin mä arvon heille kaksi t-paitaa ja Vahva Marko Paitaa, jotka on nähty muun muassa televisiossa.
 Puhuja 0: Kerro,
 Puhuja 0: Maria, siitä.
 Puhuja 2: No, meidän kaikkien
 Puhuja 2: yksityiskohtia tästä
 Puhuja 2: paljasta, mutta joo.
 Puhuja 2: Olen alkanut käyttää sitä julkisesta esiintymisessä. Jokaisesta julkisesta esiintymisestä Marko antaa mulle chovin samppanjapullon.
-Puhuja 1: Jokainen tässä.
+Puhuja 3: Jokainen tässä.
 Puhuja 0: Televisio-ohjonista, jonka on kirjoittanut
 Puhuja 0: Andrew Suleven.
 Puhuja 0: Ja siis
@@ -129,44 +131,44 @@ Puhuja 0: että äärioikeistopuolue
 Puhuja 0: ei ole syönyt
 Puhuja 0: maltillisempaa
 Puhuja 0: populistipuoluetta.
-Puhuja 1: Niin,
-Puhuja 1: ja tuo oli todella kiehtova juttu. Ja siinä oli myös yksi pointti se, että hän pystyi tavallaan
-Puhuja 1: tuhoamaan Nicell Borageenia tämän Brexitin-puolueen
-Puhuja 1: tällä operaatiolla.
-Puhuja 1: Mutta tuo kiehtova juttuhan oli siitä, että kirjoittaja
-Puhuja 1: jutussa kertoo, se on myöskin Oxfordisto, ja se on tuntenut Boris Johnsonin
-Puhuja 1: siellä. Ja sitten
-Puhuja 1: jotenkin hauskaa oli se, miten jotenkin Donald Trump, joka
-Puhuja 1: hänen ansionsa ovat kuitenkin siellä kiinteistöbisneksessä
-Puhuja 1: ja tosi-tv:ssä.
-Puhuja 1: Mutta Boris Johnson on
-Puhuja 1: äärimmäisen tyypillinen brittiläisen yläluokan
-Puhuja 1: edustaja, jonka ura on itse asiassa mennyt täsmälleen juuri niin,
-Puhuja 1: kuten brittiläisen
-Puhuja 1: Eatsonin ja Oxfordin käyneiden yläluokan... Siellä on samat päätoimittajuudesta.
-Puhuja 1: Nyt siihen on mennyt.
-Puhuja 1: Toinen pointti oli se,
-Puhuja 1: että tähän on
-Puhuja 1: poliittisena strategiana todella taitava. Mutta hänen perusluonteteensa
-Puhuja 1: kuuluu samaan aikaan
-Puhuja 1: täydellinen opportunismi
-Puhuja 1: ja epäluotettavuus.
-Puhuja 1: Hän on pyrkiessään
-Puhuja 1: Oxfordin väittelykerhon
-Puhuja 1: puheenjohtajaksi
-Puhuja 1: ensin
-Puhuja 1: yritti siinä konservatiiveina mitä hän oikeasti oli. Mutta kun se ei toiminut, niin hän seuraavan kerran muutti taas itse asiassa laborgin edustajaksi. Hän pääsi. Heti tuntuu valitus ja sanoi, että hähäh, mä olenkin konservati.
-Puhuja 1: Tällä ei minkäänlaisia
-Puhuja 1: moraalisia
-Puhuja 1: esteitä
-Puhuja 1: saavuttaakseen poliittisia tavoitteita.
-Puhuja 1: Se tekee tästä hänestä niin tehokkaan.
+Puhuja 3: Niin,
+Puhuja 3: ja tuo oli todella kiehtova juttu. Ja siinä oli myös yksi pointti se, että hän pystyi tavallaan
+Puhuja 3: tuhoamaan Nicell Borageenia tämän Brexitin-puolueen
+Puhuja 3: tällä operaatiolla.
+Puhuja 3: Mutta tuo kiehtova juttuhan oli siitä, että kirjoittaja
+Puhuja 3: jutussa kertoo, se on myöskin Oxfordisto, ja se on tuntenut Boris Johnsonin
+Puhuja 3: siellä. Ja sitten
+Puhuja 3: jotenkin hauskaa oli se, miten jotenkin Donald Trump, joka
+Puhuja 3: hänen ansionsa ovat kuitenkin siellä kiinteistöbisneksessä
+Puhuja 3: ja tosi-tv:ssä.
+Puhuja 3: Mutta Boris Johnson on
+Puhuja 3: äärimmäisen tyypillinen brittiläisen yläluokan
+Puhuja 3: edustaja, jonka ura on itse asiassa mennyt täsmälleen juuri niin,
+Puhuja 3: kuten brittiläisen
+Puhuja 3: Eatsonin ja Oxfordin käyneiden yläluokan... Siellä on samat päätoimittajuudesta.
+Puhuja 3: Nyt siihen on mennyt.
+Puhuja 3: Toinen pointti oli se, että
+Puhuja 3: tähän on
+Puhuja 3: poliittisena strategiana todella taitava. Mutta hänen perusluonteteensa
+Puhuja 3: kuuluu samaan aikaan
+Puhuja 3: täydellinen opportunismi
+Puhuja 3: ja epäluotettavuus.
+Puhuja 3: Hän on pyrkiessään
+Puhuja 3: Oxfordin väittelykerhon
+Puhuja 3: puheenjohtajaksi
+Puhuja 3: ensin
+Puhuja 3: yritti siinä konservatiiveina, mitä hän oikeasti oli. Mutta kun se ei toiminut, niin hän seuraavan kerran muutti taas itse asiassa laborin edustajaksi. Hän pääsi. Heti tuntuu valitus ja sanoi, että hähäh, mä olenkin konservati.
+Puhuja 3: Tällä ei minkäänlaisia
+Puhuja 3: moraalisia
+Puhuja 3: esteitä
+Puhuja 3: saavuttaakseen poliittisia tavoitteita.
+Puhuja 3: Se tekee tästä hänestä niin tehokkaan.
 Puhuja 2: Kyllä. Tässä tulee jotenkin kova ihmistä, joka on psykologisesti
 Puhuja 2: äärimmäisen kiehtova
 Puhuja 2: ja todella lahjakas, mutta ilman mitään moraalista ydintä. Mutta päättäjänä ihminen tuntuu pelottavalta.
-Puhuja 1: Eikä.
-Puhuja 1: Epäili vielä, että samalla tavalla
-Puhuja 1: hänen hauskuuteensa. Ja sitten ihmiset rupeavat vain vituttamaan se ukko. He sanovat, että britlaisia tai brittejä rupeaa varmaan jossain vaiheessa.
+Puhuja 3: Eikä.
+Puhuja 3: Epäili vielä, että samalla tavalla
+Puhuja 3: hänen hauskuuteensa. Ja sitten ihmiset rupeavat vain vituttamaan se ukko. He sanovat, että britlaisia tai brittejä rupeaa varmaan jossain vaiheessa.
 Puhuja 0: Ei, mun mielestä se on niin mahtavaa. Täällä
 Puhuja 0: siteeretaan Jonsonin sanomisia, että
 Puhuja 0: Declairing at 1 point that he was more likelly to be reiencarded
@@ -175,8 +177,8 @@ Puhuja 0: locked in a dishuse frid
 Puhuja 0: or decapitaed
 Puhuja 0: by a flying frisbee than to become a priminister.
 Puhuja 0: Jotenkin sen sanankäyttö. Mun mielestä
-Puhuja 0: tässä... Se niinku... Kun luin tän jutun, jossa siis laajalti kuvaillaan
-Puhuja 0: hyvin sanavalmis, erittäin hauska. Ja mun
+Puhuja 0: tässä... Se niinku... Kun luin tän jutun, jossa siis laajalti
+Puhuja 0: kuvaillaan hyvin sanavalmis, erittäin hauska. Ja mun
 Puhuja 0: mielestä Johnsonin
 Puhuja 0: populismi, se on ennen kaikkea
 Puhuja 0: hauskaa. Vähän niin kuin Trumpinkin
@@ -193,27 +195,31 @@ Puhuja 0: hallitusta.
 Puhuja 0: Ja sitten minulla tuli mieleen Petteri Orpo,
 Puhuja 0: joka on täysin epäonnistunut tässä samassa. Vähän
 Puhuja 0: ilkeästi
-Puhuja 1: sanotaan. Niin ja sitten vielä tuossa...
-Puhuja 1: Nyt tuossa olisi kiehtova,
-Puhuja 1: että...
-Puhuja 1: Borisksen perhe omat... Vanhemmat ja sisaruksethan on, on syntynyt New Yorkissa ja asunut Brysselissä.
-Puhuja 1: Perhe on
-Puhuja 1: EU-myönteistä
-Puhuja 1: ja äärimmäisen liberaalia. Itse asiassa Boris Johnsonkin on. Hän on itse asiassa... Lontoon pormestariina. Hän on
-Puhuja 1: kirjoittanut
-Puhuja 1: kirjoittanut homo liittoja, ollut Pride-kulkueessa
-Puhuja 1: ja kannattanut Turkin EU-jäsenyyttä
+Puhuja 3: sanotaan. Niin ja sitten vielä tuossa...
+Puhuja 3: Nyt tuossa olisi kiehtova jotenkin se,
+Puhuja 3: että...
+Puhuja 3: Siis vanhemmat
+Puhuja 3: ja sisaruksethan
+Puhuja 3: on syntynyt New Yorkissa ja asunut Brysselissä.
+Puhuja 3: Perhe on
+Puhuja 3: EU-myönteistä
+Puhuja 3: ja äärimmäisen liberaalia. Itse asiassa Boris Johnsonkin on. Hän on itse asiassa... Lontoon pormestariina. Hän on
+Puhuja 3: kirjoittanut
+Puhuja 3: kirjoittanut homo liittoja, ollut Pride-kulkueessa
+Puhuja 3: ja kannattanut Turkin EU-jäsenyyttä
 Puhuja 0: aikoinaan. Tehnyt hillittömästi töitä pyöräilyn edistämiseen.
-Puhuja 1: Hän pystyy vaan naps vaan yllättämään päättämään Brex
-Puhuja 1: että miljoona turkkilaiset tulevat kohta tänne ja se on uhka. Hän pystyy täysin vaihtamaan kantaansa lennosta
-Puhuja 1: sen mukaan, mistä hänelle on hyötyä.
-Puhuja 1: Ja sitten he osaavat nauraa itselleen. Se on myös taito, joka puuttuu täydellisesti Donald Trumpilta.
-Puhuja 1: Kyllä.
-Puhuja 1: Järkyttävä tosikko. Tämä juttu on niin ihanasti
+Puhuja 3: Hän pystyy vaan naps vaan yllättämään päättämään Brex
+Puhuja 3: että miljoona turkkilaiset tulevat kohta tänne ja se on uhka. Hän pystyy täysin vaihtamaan kantaansa lennosta
+Puhuja 3: sen mukaan, mistä hänelle on hyötyä.
+Puhuja 3: Ja sitten he osaavat nauraa itselleen. Se on myös taito, joka puuttuu täydellisesti Donald Trumpilta.
+Puhuja 3: Kyllä.
+Puhuja 3: Järkyttävä tosikko. Tämä juttu on niin ihanasti
 Puhuja 2: kirjoitettu. Jos puhutaan siitä,
-Puhuja 2: että miten hän osaa nauraa itselleen, mikä on äärimmäisen harvinainen taito ihmisille, jolla on niin suuri ego kuin hänellä.
+Puhuja 2: että miten hän osaa nauraa itselleen, mikä on äärimmäisen harvinainen taito ihmisille, jolla on niin suuri ego
+Puhuja 2: kuin hänellä.
 Puhuja 2: Itse tässä oli niin, että
-Puhuja 2: perheenjäsenet eivät käytännössä usko
+Puhuja 2: perheenjäsenet
+Puhuja 2: eivät käytännössä usko
 Puhuja 2: tai
 Puhuja 2: mielipiteitä
 Puhuja 2: vaikkapa Euroopasta.
@@ -226,20 +232,21 @@ Puhuja 2: brittiläisen kuvaus. Tuli mieleen Sanna Marinin
 Puhuja 2: Mikä se olisi? Se on kaupan kassalle, yliopistoon, ylioppilaspolitiikkaan, pääministeriksi. Ehkä siinä tapauksessa Sanna Marin on tyypillinen, mutta jostain näistä brittilehtien
 Puhuja 2: uutisista, mutta Gardan esimerkiksi ja muut, jotka uutisoivat
 Puhuja 2: että onkohan nyt kaupan kanssa pätevyyttä.
-Puhuja 1: Ja sitten siinä oli myös se havainto,
-Puhuja 1: että hän puhuu yläluokkaisella brittiaksentilla,
-Puhuja 1: joka on
-Puhuja 1: poliitikoille
-Puhuja 1: usein ollut kauhea synti.
-Puhuja 1: Oxfordissa
-Puhuja 1: nuoret olivat tiedostavia. Monet
-Puhuja 1: yläluokkaisella aksentilla puhuivat
-Puhuja 1: esittää opiskelijoina polttipilveä ja koitti olla
-Puhuja 1: yksi muiden joukossa.
-Puhuja 1: Boris ei koskaan... Niin. Se puhui yläluokkaisella
-Puhuja 1: aksentilla, mutta se pystyi senkin veivaamaan
-Puhuja 1: niin, että kun hän oli puhunut kuin Lordi, niin hän heitti loppuun jonkun populaarikulttuuri
-Puhuja 1: viittauksen. Sai tavallaan anteeksi ja snapismiinsa.
+Puhuja 3: Ja sitten siinä oli myös se havainto,
+Puhuja 3: että hän puhuu yläluokkaisella brittiaksentilla,
+Puhuja 3: joka on
+Puhuja 3: poliitikoille
+Puhuja 3: usein ollut kauhea synti.
+Puhuja 3: Oxfordissa
+Puhuja 3: nuoret olivat tiedostavia. Monet
+Puhuja 3: yläluokkaisella aksentilla puhuivat
+Puhuja 3: esittää opiskelijoina polttipilveä ja koitti olla
+Puhuja 3: yksi muiden joukossa.
+Puhuja 3: Boris ei koskaan... Niin. Se puhui yläluokkaisella
+Puhuja 3: aksentilla, mutta se pystyi senkin veivaamaan
+Puhuja 3: niin, että kun hän oli puhunut kuin Lordi,
+Puhuja 3: niin hän heitti loppuun jonkun populaarikulttuuri
+Puhuja 3: viittauksen. Sai tavallaan anteeksi ja snapismiinsa.
 Puhuja 2: Hän teki samaan aikaan parodiaa
 Puhuja 2: luopumasta
 Puhuja 2: niistä tavoista.
@@ -255,39 +262,40 @@ Puhuja 0: Ranskassa,
 Puhuja 0: sitten jotain muuta, jonkun muunkielisissä maissa en edes osaa sanoa. Mutta näin, että sieltä on noussut ne
 Puhuja 0: ja
 Puhuja 0: ne on tehneet entisistä jättiläisistä
-Puhuja 0: kääpiöitä.
-Puhuja 0: Ja se oli havahduttavaa. Ja tavallaan Suomen kokoomuslaisten kannattaisi lukea tämä juttu, jos haluaa pysyä hengissä enää perusyöhön puristumissa.
+Puhuja 0: kääpiöitä. Ja
+Puhuja 0: se oli havahduttavaa. Ja tavallaan Suomen kokoomuslaisten kannattaisi lukea tämä juttu, jos haluaa pysyä hengissä enää perusyöhön puristumissa.
 Puhuja 0: Okei, se siitä. No niin. Hei, sitten kun
 Puhuja 0: lähdette viimeiselle pikkujouleelle, koska nyt on ollut niin järjettömän
 Puhuja 0: raskas pikkujouluputki.
 Puhuja 0: Mä olen ollut varmaan kaksi kuukautta päissään.
 Puhuja 0: Odot jutut tuntuu siitä. Mutta kun on ollut paljon kaikkea, missä pakko
-Puhuja 1: koska en mitään keksinyt, niin
-Puhuja 1: otan lennosta tämän.
-Puhuja 1: Tänään julkaistiin
-Puhuja 1: Matias Marttisen ja Juho Mäki Lohman kaksi nuorta.
-Puhuja 1: Marttinen on 29-vuotias
-Puhuja 1: Kokoomuksen kansanedustaja vai kaksikymmentäseitsemän.
-Puhuja 1: Ja Juha Mäki Luoman on 25-vuotias tämmöinen kokoomuspolitrukkin.
-Puhuja 1: He ovat kirjoittaneet kirjan, joka julkaistiin tänään, tai tällaisen Ajatuspaja Toivon pamfletin,
-Puhuja 1: jossa parisataa sivua pohdiskellaan,
-Puhuja 1: mitä kokoomuksen pitäisi tehdä täällä persujen puristuksessa.
+Puhuja 3: koska en mitään keksinyt, niin
+Puhuja 3: otan lennosta tämän.
+Puhuja 3: Tänään julkaistiin
+Puhuja 3: Matias Marttisen ja Juho Mäki Lohman kaksi nuorta.
+Puhuja 3: Marttinen on 29-vuotias
+Puhuja 3: Kokoomuksen kansanedustaja vai kaksikymmentäseitsemän.
+Puhuja 3: Ja Juha Mäki Luoman on 25-vuotias tämmöinen kokoomuspolitrukkin.
+Puhuja 3: He ovat kirjoittaneet kirjan, joka julkaistiin tänään, tai tällaisen Ajatuspaja Toivon pamfletin,
+Puhuja 3: jossa parisataa sivua pohdiskellaan,
+Puhuja 3: mitä kokoomuksen pitäisi tehdä täällä persujen puristuksessa.
 Puhuja 0: Okei, mielenkiintoista.
-Puhuja 1: Tosi mieleen. Kymmenen teesiä
-Puhuja 1: maltilliselle oikeistolle tai
-Puhuja 1: nuorilla miehillä, joka minäkin olen joskus ollut, on kauhean tarve todistaa omat tietäväisyytensä ja pätevyytensä. Siinä on kauhean paljon sellaista yleistä taustoittavaa osuutta, millä olisi vähemmälläkin selvinnyt. Ja enemmän on sekin kiinnostanut se,
-Puhuja 1: mitä nyt pitäisi tehdä. Mutta siinä on esimerkiksi todella mainio osuus tästä Itävallan liittokanslerista,
-Puhuja 1: joka
-Puhuja 1: tulee paikallisesta Itävallan kokoomuksesta,
-Puhuja 1: mutta on kääntänyt sen puolueen
-Puhuja 1: maahanmuuttoavastaiseksi.
-Puhuja 1: Ja täysin
-Puhuja 1: henkilökohtaisella karismallaan.
-Puhuja 1: Se on hyvin analysoitu.
-Puhuja 1: Muuten nämä...
-Puhuja 1: Heidän keinot
-Puhuja 1: eivät ole kauhean yllättäviä.
-Puhuja 1: Pointti on se, ettei pidä mennä persujen kelkkaan, mutta pitää löytää oma linja ja pohditaan, miten tämmöisessä identiteettipolitiikan
+Puhuja 3: Tosi mieleen. Kymmenen teesiä
+Puhuja 3: maltilliselle oikeistolle tai
+Puhuja 3: jotenkin
+Puhuja 3: nuorilla miehillä, joka minäkin olen joskus ollut, on kauhean tarve todistaa omat tietäväisyytensä ja pätevyytensä. Siinä on kauhean paljon sellaista yleistä taustoittavaa osuutta, millä olisi vähemmälläkin selvinnyt. Ja enemmänkin on kiinnostanut se,
+Puhuja 3: mitä nyt pitäisi tehdä. Mutta siinä on esimerkiksi todella mainio osuus tästä Itävallan liittokanslerista,
+Puhuja 3: joka
+Puhuja 3: tulee paikallisesta Itävallan kokoomuksesta,
+Puhuja 3: mutta on kääntänyt sen puolueen
+Puhuja 3: maahanmuuttoavastaiseksi.
+Puhuja 3: Ja täysin
+Puhuja 3: henkilökohtaisella karismallaan.
+Puhuja 3: Se on hyvin analysoitu.
+Puhuja 3: Muuten
+Puhuja 3: nämä... Heidän keinot
+Puhuja 3: eivät ole kauhean yllättäviä.
+Puhuja 3: Pointti on se, ettei pidä mennä persujen kelkkaan, mutta pitää löytää oma linja ja pohditaan, miten tämmöisessä identiteettipolitiikan
 Puhuja 0: maailmassa täällä pärjätään. Saanko esittää yhden kysymyksen.
 Puhuja 0: Onko jokainen oikeistojohtaja,
 Puhuja 0: joka
@@ -297,14 +305,11 @@ Puhuja 0: Halla-aho on hauska,
 Puhuja 0: Soini oli hauska. Onko Halla-aho?
 Puhuja 0: On, se on kuivansarkasta
 Puhuja 2: sen hauska. Se on sen seuraajien mielestä... Kelatkaa sitä
-Puhuja 0: popcorni-emojia.
-Puhuja 0: Sillä on
-Puhuja 0: niitä kuivia hauskoja ja
-Puhuja 0: viheliäisiä heittoja.
-Puhuja 0: Onko
-Puhuja 0: kurts hauska? Ei aavistustakaan.
-Puhuja 0: Näin. Mutta onko
-Puhuja 2: samppanjasta. Miksi kannattaa alkaa inttää, jos on
+Puhuja 0: popcorni-emojia. Sillä
+Puhuja 0: on niitä kuivia hauskoja ja viheliäisiä heittoja.
+Puhuja 0: Onko kurts hauska?
+Puhuja 3: Ei aavistustakaan.
+Puhuja 2: Samppanjasta. Miksi kannattaa alkaa inttää, jos on
 Puhuja 2: joku päähänpinttymä?
 Puhuja 2: Inttaminen paras. Tämä liittyy siihen, miten
 Puhuja 2: meillä oli aina opiskeluaikanakin vetänyt samppanjapullosta.
@@ -323,6 +328,9 @@ Puhuja 2: Monisteet, missä oli jotain puheelinten
 Puhuja 2: kuvia. Siitä erilaisia
 Puhuja 2: puhelimia, että mitä suussa on ja niin edelleen. Olin sattumalta erillisenä lyönyt vetoa siitä, että onko olemassa sana puheelimet
 Puhuja 2: vai onko vain puhe
+Puhuja 0: Mä en lö sun kanssa ikinä aio mistään.
+Puhuja 0: Varsinkin kampanjasta tai marfologiasta.
+Puhuja 0: Hei, mä haluan suositella
 Puhuja 0: Tämmöistä Hb on-sarjaa
 Puhuja 0: kuin Hez Dark Materious. Oletteko nähnyt?
 Puhuja 0: Siis aivan
@@ -371,10 +379,11 @@ Puhuja 0: Mun uusi podcast
 Puhuja 0: Menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
-Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin, melko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
 Puhuja 0: Kaasukauppaan, joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
 Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui taloudellinen

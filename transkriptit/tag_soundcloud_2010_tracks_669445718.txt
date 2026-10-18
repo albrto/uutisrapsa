@@ -14,20 +14,20 @@ Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 1: Helsingin Sanomat
 Puhuja 2: Hei ja tervetuloa jälleen Helsingin Sanomien uutisraportti
-Puhuja 2: podcastiin ja livelähetykseen torstaina
-Puhuja 2: kaksikymmentäkaksi.
-Puhuja 2: Elokuuta.
+Puhuja 2: Podcastin ja livelähetykseen torstaina
+Puhuja 2: kaksikymmentäkaksi. Elokuuta
 Puhuja 2: Minun nimeni on vielä tämän kerran Tuija Siltamäki ja kanssani täällä Sanomatalossa
 Puhuja 2: Helsingissä Grönlantia omakseen vaatii kaupunkitoimittaja
 Puhuja 2: Milka Valtanen. Hei!
 Puhuja 2: Ja Amazonin sademetsän Tulen sytyttää
 Puhuja 2: ulkomaantoimittaja
-Puhuja 2: Alma Onali Morjesta!
+Puhuja 2: Alma Onali. Morjesta!
 Puhuja 2: Tämän viikon podcastissa, joka tosiaan on
 Puhuja 2: suuren suosion saavuttaneen
 Puhuja 2: kesämiehityksen
 Puhuja 2: ja naisituksen
-Puhuja 2: viimeinen tällä erää Me puhumme ainakin työajasta
+Puhuja 2: viimeinen tällä erää.
+Puhuja 2: Me puhumme ainakin työajasta
 Puhuja 2: ja sekoilemisesta
 Puhuja 2: Käsittelyssä on siis Sanna Marinin utopia
 Puhuja 2: ja Hongkongin
@@ -63,24 +63,25 @@ Puhuja 1: varmaan voivat työnantajansa kanssa neuvotella näistä
 Puhuja 1: työajoista ja hankkia
 Puhuja 1: itselleen vaikka neljän tunnin työpäivän,
 Puhuja 1: jos se tyydyttää kumpaakin osapuolta. Ihan
-Puhuja 1: vapaasti vaan työpäivään lyhentämään kaikki. Mitä sanoo
-Puhuja 2: vallankumoustaistelija
+Puhuja 1: vapaasti vaan työpäivään lyhentämään kaikki. Mitä sanoo vallankumoustaistelija
 Puhuja 2: Al Moonali? Ensinnäkin
 Puhuja 3: sanon, että Milkan kommentti on tietysti
-Puhuja 3: tuollaista porvärin pyörittelyä, koska työnantajahan on perinteisesti piiskuri eikä tahdo ketään neljäksi tunniksen luuhumaan. Nyt oli vähän rumasti sanottu. Yrittäjänvihamielistä.
-Puhuja 3: Oli vähän yrittäjävihamielistä.
+Puhuja 3: tuollaista porvärin pyörittelyä, koska työnantajahan on perinteisesti piiskuri eikä tahdo ketään neljäksi tunniksen luuhumaan. Nyt oli vähän rumasti sanottu yrittäjänvihamielistä.
+Puhuja 3: Oli vähän yrittäjänvihamielistä.
 Puhuja 3: Mun mielestä kuuden tunnin työpäivä on hyvä ehdotus,
 Puhuja 3: mutta se tietysti vaatii ympärilleen kaikenlaista
 Puhuja 3: hienosäätöä
 Puhuja 3: ympärilleen. Eli ei nyt käsittääkseni ollut tarkoitus, että tästä nyt suoraan täräytettäisiin
-Puhuja 2: työtunteja ja palkkoja alas. Niin ja koska minä olen ennen kaikkea semanttinen saivartelija,
+Puhuja 3: työtunteja ja palkkoja alas.
+Puhuja 2: Niin ja koska minä olen ennen kaikkea semanttinen saivartelija,
 Puhuja 2: huomautan että Marinin ehdotus ei missään tapauksessa ollut mikään ehdotus vaan paneelikeskustelussa
 Puhuja 2: esitetty tällainen utopistinen
-Puhuja 2: heitto
+Puhuja 2: heitto.
 Puhuja 2: Se nyt ei tietenkään ole vaikuttanut mitenkään siihen, että miten sitä on lähdetty käsittelemään
 Puhuja 2: eikä pidäkään.
 Puhuja 2: Kokoumuksen
-Puhuja 2: kansanedustaja Arto Satonen esimerkiksi kysyi, että elääkö
+Puhuja 2: kansanedustaja Arto Satonen esimerkiksi kysyi,
+Puhuja 2: että elääkö
 Puhuja 2: SDP reaalimaailmassa
 Puhuja 2: ja Keskuskauppakamarin
 Puhuja 2: hupiukko anteeksi
@@ -92,9 +93,11 @@ Puhuja 2: Olenko minä tässä oikeassa ja että aikuiset ei enää ymmärrä lu
 Puhuja 3: Tuija, minun mielestä olet tällä kertaa aivan oikeassa.
 Puhuja 3: Jes. Porvarismiehethän
 Puhuja 0: eivät selvästikään edes halunneet ymmärtää Marinin kommenttia oikein. Ovatko miehet liian tunteellisia yhteiskunnalliseen
-Puhuja 2: kommenttia oikein. Ovatko miehet liian tunteelliseen keskusteluun?
-Puhuja 3: No näköjään, sitä paitsi Romankkaniemelle vastauksena,
-Puhuja 3: että nollatuntisopparithan ovat jo tätä päivää, että hänen
+Puhuja 2: kommenttia oikein. Ovatko miehet liian tunteellisia
+Puhuja 3: yhteiskunnalliseen keskusteluun? Näköjään. Sitä paitsi Romankkaniemelle
+Puhuja 3: vastauksena,
+Puhuja 3: että nollatuntisopparit
+Puhuja 3: ovat jo tätä päivää, että hänen
 Puhuja 3: letkautuksensa
 Puhuja 3: meni vähän ohi maaalista.
 Puhuja 3: Marin itsekin sanoi, että hänen ehdotuksensa
@@ -103,12 +106,9 @@ Puhuja 3: hauraille haaveille.
 Puhuja 1: Ehkä he olivat myös hieman provosoit. Ehdottomasti tällaisen kysymysvastausosion
 Puhuja 2: edes joka viidenteen lähetyksen toistuvaksi hupiteemaksi.
 Puhuja 1: Sastelisin, että myös se oikea uutisraportti ottaisi käyttöön käsikirjoitukset.
-Puhuja 3: Sitten tässä on
-Puhuja 2: jatkokysymys
-Puhuja 2: ja tuleeko
-Puhuja 2: kesätiimi
-Puhuja 2: myös podcastin pikkujouluihin?
-Puhuja 2: Pääsevätkö he lavalla ääneen?
+Puhuja 3: Så duunit. Sorah. Sä haluutt sonin sademetsä. Ja sitten tässä on
+Puhuja 2: jatkokysymys ja tuleeko
+Puhuja 2: kesätiimi myös Podcastin pikkujouluihin? Pääsevätkö he lavalla ääneen?
 Puhuja 2: Ensinnäkin en tiennyt, että tällaiset podcastin pikkujoulut ovat olemassa.
 Puhuja 1: Kiitti vaan. Se varmaan vastaakin kysymykseen aika tyhjentävästi.
 Puhuja 2: Pelätaanko silloin bingoa originaal vaihtoehdooilla vai Summer Edition lapulla, mistä minä tiesin, kun ei monipileisiä ole kutsuttu. Kunhan bingo pyörii, kaikki on hyvin. Mitä tapahtuu kesäpodcastlle
@@ -126,7 +126,7 @@ Puhuja 2: Kaksituhatta kaksikymmentäkolme. Ville Hämäläinen
 Puhuja 3: Twitteristä kysyy, mikä kukka on kaunein kukka, huumorinkukka.
 Puhuja 3: Auringonkukka.
 Puhuja 2: Pekka Sauli kysyy rakentavasti, onko lasgnnesmoothiellinen.
-Puhuja 3: Mä innostuin tästä lasgnnesmoothiesta.
+Puhuja 3: Mä innostuin tästä lasgnnesmoothieesta.
 Puhuja 3: Mä olin vaan silleen, että kuulostaa ihan sairaan hyvältä. Toki se olisi kasvislasangne,
 Puhuja 3: mutta siis Pekka Sauli, mun mielestä tämä on mahtava idea. En tiedä kannatatko sitä itse, mutta mä oon silleen, että Lasgeeni smoothie.
 Puhuja 2: Oisko se niinku viileä, kun ne smoothiet yleensä vai lämmin niinku lazanget
@@ -154,8 +154,7 @@ Puhuja 2: ja kykyä
 Puhuja 2: sisäisen uudistumiseen ja negatiivisen palautteen vastaanottamiseen
 Puhuja 2: ja toimintakulttuurin kehittämiseen. Saanko mä vielä yhden extrabonarin?
 Puhuja 2: No jos
-Puhuja 2: oot noin kiltisti kerran ollut.
-Puhuja 1: Haluaisin oikeasti,
+Puhuja 2: oot noin kiltisti kerran ollut. Haluaisin oikeasti,
 Puhuja 1: että suomalaista EU-journalismista
 Puhuja 1: tulisi hyvää ja kiinnostavaa ja kaikki rakastaisivat sitä ja lukisivat paljon EU-juttuja.
 Puhuja 3: Sehän ei ole toimittajia vika, vaan se on vaan se, että joka kerta, kun joku sanoo EU:n, niin kaikki vaan nukahtaa. Onhan se toimittajan vika, koska me ollaan niitä, jotka sanoo EU:n
@@ -222,8 +221,7 @@ Puhuja 1: vaan olen kuunnellut niitä ja vaikka kuinka kauan, ennen kuin ne oli 
 Puhuja 1: Varmaan
 Puhuja 1: suuressa mittakaavassa
 Puhuja 1: massat ovat nyt heränneet. Kyllä. Entä
-Puhuja 2: millaisia podcasteja
-Puhuja 2: toivoisitte
+Puhuja 2: millaisia podcasteja toivoisitte
 Puhuja 2: olevan Almaunali?
 Puhuja 3: Toivoisin enemmän avoimen
 Puhuja 3: poliittisia podcasteja, niin kuin esimerkiksi Mikä meitä vaivaa? Veikko
@@ -330,8 +328,7 @@ Puhuja 2: ja siksi niidenpidolle on asetettu lainsäädännössä monia vaatimuk
 Puhuja 2: kesäkanlouden pitäjien tulee esimerkiksi ilmoittautua
 Puhuja 2: eläintenpitäjiksi,
 Puhuja 2: rekisteröidä
-Puhuja 2: eläinten pitopaikka.
-Puhuja 2: Ja jos kananmunia rupeaa myymään tai luovuttamaan muualla kuin omassa kotitaloudessa,
+Puhuja 2: eläinten pitopaikka. Ja jos kananmunia rupeaa myymään tai luovuttamaan muualla kuin omassa kotitaloudessa,
 Puhuja 2: niin pitää tehdä alkutuotantoilmoitus.
 Puhuja 2: Se tehdään Helsingissä Helsingin kaupungin ympäristöpalvelujen
 Puhuja 2: elintarviketurvallisuusyksikköön.
@@ -350,9 +347,9 @@ Puhuja 2: valvontaeläinlääkärillä.
 Puhuja 2: Lisätietojen saa Ruokavirastolta
 Puhuja 2: eli entiseltä evirralta.
 Puhuja 3: Kannat on siistejä, ne on ihan kuin dinosauruksia.
-Puhuja 1: Se on totta.
+Puhuja 2: Se on totta.
 Puhuja 2: Ja niille voi opettaa kaikkia juttuja. Niin?
-Puhuja 2: Että Emil, jos sä hankit joskus kanoja, niin opeta niille kaikkia juttuja. Ja kutsu meidät kylään rapsuttamaan niitä. Paitsi jos ne on sellaisia ilkeitä, jotka nokkii.
+Puhuja 2: Että Emil, jos sä hankit joskus kanoja, niin opeta niille kaikkia juttuja. Ja kutsu meidät kylään rapsuttamaan niitä. Paitsi jos ne on sellasia ilkeitä, jotka nokkii.
 Puhuja 2: Kysymys numero kolmekymmentä,
 Puhuja 2: joka on toiseksi viimeinen
 Puhuja 2: Oskari Onninen Helsingistä kysyy: Missä kihlasormuslii?
@@ -443,7 +440,7 @@ Puhuja 3: Minut on jopa kadulta napattu tällaiseen
 Puhuja 3: keskusteluun.
 Puhuja 3: En mene yksityiskohtiin, mutta näin on tapahtunut. Käykää katsomassa se leffa,
 Puhuja 3: että pysytte
-Puhuja 2: Ziteguistin
+Puhuja 2: Zeta guistin
 Puhuja 2: aallonharjalla.
 Puhuja 2: Hyvä on. Minä suosittelen
 Puhuja 2: Helsingin Sanomien

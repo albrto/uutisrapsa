@@ -65,8 +65,8 @@ Puhuja 0: Trumpin midan kosketus
 Puhuja 0: paljastui maksimissaan maksimissaan pronssiseksi,
 Puhuja 0: ei kultaiseksi.
 Puhuja 0: Pekka Mikkänen kertoo meille siitä paljon enemmän, koska hän tietää siitä kaiken.
-Puhuja 0: Myös keskustellaan hallituksen viimeisestä
-Puhuja 0: kaarteesta,
+Puhuja 0: Myös keskustellaan hallituksen
+Puhuja 0: viimeisestä kaarteesta,
 Puhuja 0: jonka aikana
 Puhuja 0: jalat alkavat sotkeutua
 Puhuja 0: naapurilla
@@ -105,7 +105,7 @@ Puhuja 0: Aloitetaan suoraan Amerikasta.
 Puhuja 0: Pekka,
 Puhuja 0: ääntela...... Sillä otsikolla
 Puhuja 0: Twitterissä
-Puhuja 0: ja sitten se raivoaa
+Puhuja 2: ja sitten se raivoaa
 Puhuja 2: minkä mä sain tämmöisestä niin kuin miehen
 Puhuja 2: Petteri Orpon
 Puhuja 2: esineellistämisestä.
@@ -152,10 +152,10 @@ Puhuja 1: Siinä nimenomaan käsitellään sitä, miten ulkonäkö vaikuttaa mei
 Puhuja 1: En mä tiedä multa katkesi ajatus.
 Puhuja 1: Sori mä oon vähän väsynyt. Mä oon yrittänyt selvittää koko päivän, että mitä tarkoitti eilinen Kristan Kiurun
 Puhuja 1: rokote
-Puhuja 1: infon sisältä. Mä
-Puhuja 0: oon
-Puhuja 0: periaatteessa sitä mieltä, että on OK,
-Puhuja 0: että sanoo vaikka, että Chris Evanced ihan viitton kome.
+Puhuja 1: infon sisältä. Mä oon jotenkin
+Puhuja 0: kertonut mua.
+Puhuja 0: Mä oon periaatteessa sitä mieltä, että on OK,
+Puhuja 0: sanoa vaikka, että Chris Evanced ihan viitton kome.
 Puhuja 0: Tai esimerkiksi Mika Aaltola.
 Puhuja 0: Mä oon ilmeisesti sen verran hetero, että mulla ei ole mitään hajua, että kukaan komea mies. Mutta ilmeisesti Mika Aaltola on ihan käsittämättömän komeä. Ei, mutta ei nyt ruveta arvostelemaan.
 Puhuja 0: Mä tuun tähän,
@@ -165,18 +165,16 @@ Puhuja 0: ellei joku sano sitä johonkin väliin vähän pienesti ääneen, Mika
 Puhuja 1: nyt maailman jotenkin vähän enemmän. Niin Marko jutussa näin taidettiin sanoa.
 Puhuja 2: Se oli laitettu... Itseasiassa me
 Puhuja 2: siirryttiin ja kirjotettiin Mika Aaltolasta. Se oli... Joo, mulle oli laitettu jonkun nimentömän
-Puhuja 2: kirjamessuilla
-Puhuja 2: Mika Aaltolaalta nimikirjoitusta
+Puhuja 2: kirjamessuilla Mika Aaltolaalta nimikirjoitusta
 Puhuja 2: jonottaneen
 Puhuja 2: Rouvan nimiin, joka kutsui Reagan
 Puhuja 2: näköiseksi. Taisi olla kyse meidän tekstissä. Joo, joo. Juuri Reagan Reagan.
 Puhuja 0: Sieltä minäkin sen bongasin ja kakkua. Ja sillä lailla, että aijaa what te?
 Puhuja 2: Joo, mutta ehkä se joo.
 Puhuja 2: On vaikea kysymys. Miten
-Puhuja 2: se ulkonäöstä puhuminen, kun kirjoittaa politiikasta ja
+Puhuja 2: se ulkonäöstä puhuminen, kuitenkin jos kirjoittaa politiikasta ja
 Puhuja 2: asioista, niin tavallaan se, että
-Puhuja 2: jos siihen liittää puhujan
-Puhuja 2: ulkonäön, niin se helposti näyttää, että sillä yritetään
+Puhuja 2: Jos siihen liittää puhujan ulkonäön, niin se helposti näyttää, että sillä yritetään
 Puhuja 2: sanoa, että
 Puhuja 2: hänen sanomana se asia ei ole yhtä merkittävä kuin nyt toisena.
 Puhuja 0: Sanna Marin on pääministeri pelkästään sen takia, että hän on niin kuuma.
@@ -185,7 +183,7 @@ Puhuja 2: Sen takia en
 Puhuja 2: kauhean usein joudu tämän asiaa pohtimaan, koska en
 Puhuja 2: ylipäänsäkään kirjoita ihmisten ulkonäöstä tai mieti sitä.
 Puhuja 2: Mutta se
-Puhuja 2: pitää tiedostaa.
+Puhuja 2: Pitää tiedostaa.
 Puhuja 2: Helposti näyttää tosi typerältä
 Puhuja 0: ja vähättelevältä. Totta kai. Se on vaikea tunne näköiseksi tapa.
 Puhuja 1: Mietin
@@ -268,7 +266,7 @@ Puhuja 0: hänen naama.
 Puhuja 0: Sitten siinä ilmeessä
 Puhuja 0: ihan vähän silleen, että siinä on niinku kaunis naama siinä keskellä sitä paitaa.
 Puhuja 0: Ja sitten siinä ilmeessä on ihan vähän silleen, että onko se panemassa siinä? Onko se ihan vähän siinä ilmeessä silleen, että onko tossa niinku nyt niinku mitä tuossa on meneillään, vaikka siinä on kasvot vaan näin. No sitten jossain niinku ihmeen, mun mielestä oli todella cooliin näköinen se paita.
-Puhuja 0: Niin mä jossain ihmeen mielenhäiriössä mä ostin sen paidan. Sitten mä olin coolipaita paita ja sitten mä ostin sen.
+Puhuja 0: Niin mä jossain ihmeen mielenhäiriössä mä ostin sen paidan. Sitten olin, että tän coolipaita ja sitten mä ostin sen.
 Puhuja 0: Ja sitten mä laitoin sen paidan päälle
 Puhuja 0: ja oli kesä ja mä kävelin kadulla.
 Puhuja 0: Ja se oli ihan käänteen, se oli mullistava kokemus. Koska mä kävelin tuolla kadulla näin ja mun
@@ -303,11 +301,11 @@ Puhuja 2: tämmöisestä agenttiromaaneista
 Puhuja 2: dekkareista.
 Puhuja 2: Opkosen
 Puhuja 2: sitä pikkusen pikkusen ja nyt löysin taas.
-Puhuja 2: Taas. Luin ensin yhden tässä joku viikko sitten,
+Puhuja 2: Luin ensin yhden tässä joku viikko sitten,
 Puhuja 2: ja luen parhaillaan toista.
 Puhuja 2: Tämä on nimeltään The Company.
-Puhuja 2: Se viittaa CIA:han ja kirjoittaja Robert
-Puhuja 2: Little.
+Puhuja 2: Se viittaa CIA:han ja kirjoittaja
+Puhuja 2: Robert Little.
 Puhuja 2: Se on ihan huikean hyvä.
 Puhuja 2: Haluan sitä tuommoisena
 Puhuja 2: e-kirjana,
@@ -320,10 +318,9 @@ Puhuja 2: ja Kuuba ja Sigojenlahti
 Puhuja 2: ja
 Puhuja 2: vaikka mitä muita. Ja sitten siinä on fiktiiviset CIA:n
 Puhuja 2: tyypit
-Puhuja 2: näissä tapahtumissa. Siellä on Nixonia ja John F-kenediä
-Puhuja 2: ja presidenttejä ja oikeita tyyppejä. Ja sitten nämä fiktiiviset hahmot siellä seassa.
-Puhuja 2: Tarinana kattaa viisikymmentä vuotta ja sitten siellä on nämä CI-ajan tyypit ja niiden lapset, mikä meistä on CI:ssa. Ei mikään poikkeus vaan tapa usein, että kokonaisia perheitä voi olla CI:ssa töissä, että isät ja äidit ovat, joista lapset menevät myös.
-Puhuja 2: Olen täysin koukuttunut. Olen lukenut sitä yhdeksänsataa sivua.
+Puhuja 2: näissä tapahtumissa. Siellä on Nixonia ja John F Cenediä ja presidenttejä ja oikeita tyyppejä. Ja sitten nämä fiktiiviset hahmot siellä seassa.
+Puhuja 2: Tarinana kattaa viisikymmentä vuotta ja sitten siellä on nämä CIEA tyypit ja niiden lapset, mikä meistä on CIEA:ssa. Ei mikään poikkeus vaan tapa usein, että kokonaisia perheitä voi olla CI:ssa töissä, että isät ja äidit ovat, joista lapset menevät myös.
+Puhuja 2: Olen jotenkin täysin koukuttunut. Olen lukenut sitä yhdeksänsataa sivua.
 Puhuja 2: Usein voi olla kiusallista sotkea oikeita tapahtumia ja fiktiota, mutta tuossa se toimii hyvin
 Puhuja 2: käsittämättömänä,
 Puhuja 2: jos tykkää pakettiatarinoita.
@@ -332,7 +329,7 @@ Puhuja 2: The Company ja Robert Litter.
 Puhuja 2: Okei.
 Puhuja 2: Siitä on tehty myös kirjan
 Puhuja 2: kannen mukaan. Siitä on myös Bebiisin tekemä tv-sarja. Joululomalla tommonen yhdeksänsataa.
-Puhuja 0: Voi vitsi kun kuulostaa jotain takkakuvia
+Puhuja 0: Voi vitsi kun kuulostaa jotain tackakolia
 Puhuja 0: ja aaha, ihan.
 Puhuja 0: Anni.
 Puhuja 1: Mä voisin suositella

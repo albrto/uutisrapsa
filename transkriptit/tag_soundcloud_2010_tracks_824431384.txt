@@ -182,7 +182,9 @@ Puhuja 0: me kaikki aletaan päästä helatorstain
 Puhuja 0: viettoon.
 Puhuja 0: Kun
 Puhuja 0: tulette esimerkiksi
-Puhuja 0: minun kanssani. Ei kun vieläkään. Ei, ei jää nyt.
+Puhuja 0: minun kanssani. Ei kun vieläkään.
+Puhuja 0: Ei,
+Puhuja 1: ei jää nyt.
 Puhuja 0: No niin, no niin.
 Puhuja 0: Kun lähdette
 Puhuja 0: esimerkiksi käymään jollain hyvällä luontopolulla
@@ -229,9 +231,8 @@ Puhuja 0: vapaaehtoisesti
 Puhuja 0: hankkiutumasta
 Puhuja 0: sen pariin.
 Puhuja 0: Johtuen siitä että viihteen tekeminen on aivan sairaan vaikeeta.
-Puhuja 0: Ja täällä on kuitenkin vain muutama tuhat viihteen tekijää tässäkin maassa. On siinä
-Puhuja 2: välillä
-Puhuja 2: vähän jäykkiä sivuosanäyttelijöitä.
+Puhuja 0: Ja täällä on kuitenkin vain muutama tuhat viihteen tekijää tässäkin maassa. On siinä välillä semmoisia
+Puhuja 2: jäykkiä sivuosanäyttelijöitä.
 Puhuja 2: Varsinkin siinä on aika paljon myös nuoria
 Puhuja 2: hahmoja.
 Puhuja 2: Mutta mun mielestä se on enimmäkseen
@@ -288,8 +289,8 @@ Puhuja 1: Armeijan
 Puhuja 1: puolitetaan tää intin
 Puhuja 1: varusmiesa.
 Puhuja 1: Kirjastosta lainaaminen maksullisiksi.
-Puhuja 1: Ja se on niinkun tota,
-Puhuja 1: näin ei siis toteutunut, näitä ei sitten hallitus vannot toteen, mutta tota
+Puhuja 1: Ja se on niinkun
+Puhuja 1: tota, näin ei siis toteutunut, näitä ei sitten hallitus vannot toteen, mutta tota
 Puhuja 1: se mitä se Raimo Saila paperi esitti alunperin niin sehän oli ihan huikeeta
 Puhuja 1: Asioita mitä sittemmin ei ole edes uskallettu
 Puhuja 1: ääneen sanoa, kuten kirjastojen maksullisuus
@@ -305,7 +306,7 @@ Puhuja 2: lamaan, mutta mulla on vähän hankaluuksia,
 Puhuja 2: kun
 Puhuja 2: kahvillakin kirjaa 30-luvun laman.
 Puhuja 0: Kirjastapuhelun,
-Puhuja 0: mä ehkä pokkaan väliin kun Marko kerran etsii lastaustakysymyksensä.
+Puhuja 0: mä ehkä pokkaan väliin kun Marko kerran etsii lastausta kysymyksensä.
 Puhuja 0: Minun Twitter seinällä on supermielenkiintoinen
 Puhuja 0: ketju.
 Puhuja 0: Siinä mä kysyin ihmisiltä, että jos pitäisi valita
@@ -351,15 +352,13 @@ Puhuja 0: Se sisälsi ajatuksen
 Puhuja 0: siitä,
 Puhuja 0: että kun me seurataan tämmöisiä vaikka isoja prosesseja kuten korona tai
 Puhuja 0: sodat voi olla sellaisia.
-Puhuja 0: Tai miten Suomi selviää omasta tai miten Nokia menee tai isoja
-Puhuja 0: prosesseja. Ne kaikki näyttäytyy hyvin jotenkin määrätietoiselta,
+Puhuja 0: Tai se miten Suomi selviää omasta tai miten Nokia menee tai tämmöisiä
+Puhuja 0: isoja prosesseja. Ne kaikki näyttäytyy hyvin jotenkin määrätietoiselta,
 Puhuja 0: että näinhän näin menee. On kausaliteettia
 Puhuja 0: ja
-Puhuja 0: koska tehtiin näin,
-Puhuja 0: niin siitä seurasi tätä ja sen takia Suomi on nyt maailman top viidessä maassa.
+Puhuja 0: koska tehtiin näin, niin siitä seurasi tätä ja sen takia Suomi on nyt maailman top viidessä maassa.
 Puhuja 0: Mutta siinä Markon
-Puhuja 0: kolumnissa
-Puhuja 0: tosi jotenkin
+Puhuja 0: kolumnissa tosi jotenkin
 Puhuja 0: fiksusti ja kutkuttavasti
 Puhuja 0: käsiteltiin sattuman
 Puhuja 0: roolia tässä kaikessa. Sattuman roolia historiassa.
@@ -511,7 +510,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

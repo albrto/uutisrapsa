@@ -37,16 +37,17 @@ Puhuja 1: Libero,
 Puhuja 1: selvä. Olen kyllä Liberot palaamassa muuten palaamassa Fudikseen. Onko näin? On aikakin.
 Puhuja 1: Tommi Nieminen.
 Puhuja 1: Moi Tommi.
-Puhuja 3: Moi Marko. Mulla on tosi siunattu olo kun olen pitkästä aikaa päässyt tänne. Olit joskus viime keväänä.
+Puhuja 3: Moi Marko. Mulla on tosi siunattu olo kun olen pitkästä aikaa päässyt tänne. Se oli joskus viime keväänä.
 Puhuja 1: Se meni valtavan hyvin nyt me päätettiin kutsua sut uudestaan. Olen
 Puhuja 3: todella otettu. Mitäs olet tänään tehnyt?
-Puhuja 3: Olen soittanut Strasbourg-erälle
+Puhuja 3: Olen soittanut Strasbourgerälle
 Puhuja 3: suomalais
 Puhuja 3: joka on tekemisissä muun muassa sotarikostuomioistuinsioiden
 Puhuja 3: kanssa ja
 Puhuja 3: sitten olen
 Puhuja 3: puhunut Sipolaisen
-Puhuja 3: naisen kanssa, koska olen menossa Sipooseen
+Puhuja 3: naisen kanssa,
+Puhuja 3: koska olen menossa Sipooseen
 Puhuja 3: viikonloppuna
 Puhuja 3: kouluttamaan nuoria journalisteja.
 Puhuja 3: Vau.
@@ -63,7 +64,7 @@ Puhuja 1: kirkosta.
 Puhuja 1: Tästä oli viikonloppuna
 Puhuja 1: parikin
 Puhuja 1: erittäin kiinnostavaa juttua. Kiehtova ilmiö, kerrotaan siitä kohta lisää.
-Puhuja 1: Kolmas aihe on oma suosikkini
+Puhuja 1: Ja kolmas aihe on oma suosikkini
 Puhuja 1: eli nuorisourheilu.
 Puhuja 2: Maailman tylsimmältä kuulostava sana, mutta me puhutaan siitä kiinnostavasta.
 Puhuja 1: Kyllä, se on ihan mahtavaa aihe. No niin ja lopuksi vielä hyviä keskustelun aiheita
@@ -81,8 +82,9 @@ Puhuja 1: yliopiston juhlasalissa
 Puhuja 1: ja tämän vuoksi, jossa puhuu
 Puhuja 1: tasavallan presidentti Sauli Niinistö,
 Puhuja 1: koska sinne on tulossa paljon väkeä ja
-Puhuja 1: Yliopistolla on tietyt määräykset, kuinka paljon saa ihmisiä olla yhtä aikaa sisätiloissa. He vaativat että nämä valtaajat poistuvat
-Puhuja 1: aamulla klo yhdeksän, eivät lähteneet. Sitten aika siirtyy yhteentoista:een.
+Puhuja 1: Yliopistolla on tietyt määräykset, kuinka paljon saa ihmisiä olla yhtä aikaa sisätiloissa. He vaativat että nämä valtaajat poistuvat.
+Puhuja 1: He eivät lähteneet.
+Puhuja 1: Sitten aika siirtyy yhteentoista:een.
 Puhuja 1: Mikäs siinä on tällä hetkellä tilanne?
 Puhuja 2: Ilmeisesti ne ovat edelleen siellä. Ilmeisesti edelleen. Me nauhoitetaan täältä torstaneilta päivällä.
 Puhuja 2: Nyt tämän hetkinen otsikko on, että Helsingin yliopisto antaa valtaajien jäädä.
@@ -122,8 +124,8 @@ Puhuja 3: kaikesta nuorisoliikunnasta
 Puhuja 3: ja nuorisourheilusta
 Puhuja 3: on vähemmän tavoitteellista,
 Puhuja 3: enemmän hauskanpitoharrastusta,
-Puhuja 3: niin voisiko
-Puhuja 1: koko se slot tavallaan olla paljon enemmän integroitunut? Mutta itse asiassa Tommi, se asia on itse asiassa aika lailla, tai ehkä ainakin osin päinvastoin, kuten sanoit. Itse asiassa tätä huippu-urheilua
+Puhuja 3: niin
+Puhuja 1: voisiko koko se slot tavallaan olla paljon enemmän integroitunut? Mutta itse asiassa Tommi, se asia on itse asiassa aika lailla, tai ehkä ainakin osin päinvastoin, kuten sanoit. Itse asiassa tätä huippu-urheilua
 Puhuja 1: on
 Puhuja 1: aika hämmästyttävästi
 Puhuja 1: integroitu kouluihin. Ja tämähän on monessa
@@ -149,15 +151,13 @@ Puhuja 3: kilpaa
 Puhuja 3: urheilua.
 Puhuja 3: Mutta kummankaan
 Puhuja 3: molempien lajit on aika isot,
-Puhuja 3: toinen harrastaa
-Puhuja 3: cheerleadingiä ja toinen harrastaa
-Puhuja 3: sulkapalloa,
+Puhuja 3: toinen harrastaa cheerleadingiä ja toinen harrastaa sulkapalloa,
 Puhuja 3: kilpaa.
-Puhuja 3: Niin kummankaan lajit eivät ole sellaisia, että olisin huomannut, että Helsingissä ainakaan on mahdollista
+Puhuja 3: Kummankaan lajit eivät ole sellaisia, että olisin huomannut, että Helsingissä ainakaan on mahdollista
 Puhuja 3: kouluun linkittää
-Puhuja 1: sitä. On musta myös yleensä näillä urheiluluokilla
+Puhuja 1: sitä. On musta yleensä näillä urheiluluokilla
 Puhuja 1: jos saa lajikirjoja isompi, on olemassa fudisluokkia tai koripalloluokkia
-Puhuja 1: tai näin. Mutta sitten on myös yleisiä urheiluluokkia missä voi harrastaa käsittääkseni ihan mitä vaan periaatteessa.
+Puhuja 1: tai näin mutta sitten on myös yleisiä urheiluluokkia missä voi harrastaa käsittääkseni ihan mitä vaan periaatteessa.
 Puhuja 1: Mutta siellä ei varmaan sitä lajivalmennusta
 Puhuja 1: et saa siellä koulussa.
 Puhuja 2: Mietin
@@ -165,7 +165,8 @@ Puhuja 2: myös sitä, että jos ei mieti vain Helsinkiä ja isoja kaupunkeja, n
 Puhuja 2: koulupäivän yhteydessä ja se liittyisi jotenkin enemmän siihen, kun koulun
 Puhuja 2: jälkeen olisi treenit.
 Puhuja 2: Oikeastihan tosi monilla paikkakunnilla, niin ei siinä yhdessä koulussa ole niin paljon vaikka
-Puhuja 2: lentopalloilijoita, että ne pystyisi järjestämään treenit. Se vaatii kuitenkin liikkumista ja koulut voi olla kymmeniä kilometrejä
+Puhuja 2: lentopalloilijoita,
+Puhuja 2: että ne pystyisi järjestämään treenit. Se vaatii kuitenkin liikkumista ja koulut voi olla kymmeniä kilometrejä
 Puhuja 2: toisistaan kaukana. Että käytännössä isoissa kaupungeissa se voisi olla ratkaisu mutta niin kuin kymmeneskymmenessä mus paikassa. Kyllä. Kun äsken lähetettiin terveisiä sinne Evonkirkolle
 Puhuja 1: lähetetäänkö nyt poliittisille päättäjille että integroikaa
 Puhuja 1: ne? Minä
@@ -179,7 +180,8 @@ Puhuja 2: Lajetta. Joo ja tämä
 Puhuja 2: toinen liittyy samaan asiaan.
 Puhuja 2: Eli
 Puhuja 2: siihen,
-Puhuja 2: että tässä puhuttiin,
+Puhuja 2: että
+Puhuja 2: tässä puhuttiin,
 Puhuja 2: Annikka Mutasen
 Puhuja 2: Hesarin kirjoittamassa jutussa puhuttiin siitä, miten urheiluseuratoiminta
 Puhuja 2: pienillä
@@ -198,7 +200,8 @@ Puhuja 1: kilpaa lätkää niin joudut oikeastaan aika nopeasti jättämään ka
 Puhuja 1: todettu, että myöhemmälle iällä se ei välttämättä ole yhtään hyvä juttu, että se on pelannut viisi-vuotias asti lätkää pelkästään tai futista tai pesistä.
 Puhuja 2: Jep. Tässä siis puhuttiin myös siitä, että
 Puhuja 2: miten luottamus liikunnassa liikunnassa
-Puhuja 2: niin se tulee jo sieltä päiväkoti-iästä ja se vaikuttaa siihen loppuelämään.
+Puhuja 2: niin se luottamus siihen omiin taitoihin liikunnassa tulee jo sieltä päiväkoti-iästä
+Puhuja 2: ja se vaikuttaa siihen loppuelämään.
 Puhuja 2: Tässä oli mun mielestä ihan järkyttävää, että
 Puhuja 2: Kun ajatellaan päiväkoti-ikäisiä
 Puhuja 2: lapsia, niin jo siellä päiväkoti-ikäisissä
@@ -220,7 +223,8 @@ Puhuja 3: ihan karmealla tavalla.
 Puhuja 2: Esimerkiksi varhaiskasvatuksessa
 Puhuja 2: ainakin edistyksellisissä päiväkodeissa on nykyään sellaista
 Puhuja 2: meininkiä, että ei esimerkiksi kielletä käytävällä juoksemista.
-Puhuja 2: Kaikkea tällaista
+Puhuja 2: Kaikkea
+Puhuja 2: tällaista
 Puhuja 2: lasten liikkumista, siihen vaan kannustetaan. Aivan turhia,
 Puhuja 2: turhaa turvallisuusrakoisuutta,
 Puhuja 2: miksi ei saa juosta käytävälle. Se käytävä on tyhjä ja
@@ -232,25 +236,23 @@ Puhuja 1: sitten
 Puhuja 1: puhuisitte?
 Puhuja 2: Minä varmaan puhuisin
 Puhuja 2: Zelys Wihftin uudesta poikaystävästä.
-Puhuja 2: Amerikkalais
-Puhuja 2: Jenkkifuttaajan
-Puhuja 2: Travis Hellsin kanssa.
+Puhuja 2: Amerikkalais Jenkkifuttaajan
+Puhuja 2: Travis Hellesin kanssa.
 Puhuja 2: Tämä on täyttänyt minun viikon
 Puhuja 2: kokonaan,
-Puhuja 2: että muutama päivä sitten he tuli julki. Se oli aivan mahtava.
+Puhuja 2: että muutama päivä sitten he tuli julki ja se oli aivan mahtava.
 Puhuja 2: Tässä oli ollut pieniä huhuja ja sitten Thalor
 Puhuja 2: osallistui,
 Puhuja 2: siis se meni katsomaan
-Puhuja 2: sen
+Puhuja 1: sen
 Puhuja 2: peliä.
 Puhuja 2: Se
-Puhuja 2: oli aivan mahtava. Kamerat kuvasi koko ajan saloreja ja niistä tuli nyt uusi
-Puhuja 1: itse call. Ja tässä on valtavasti kiinnostavia aspekteja, koska jenkkifutiksessa
+Puhuja 2: oli aivan mahtava. Kamerat kuvasi koko ajan saloreja ja niistä tuli nyt tämmöinen uusi itse call. Ja tässä on valtavasti kiinnostavia aspekteja, koska jenkkifutiksessa
 Puhuja 1: koko se maailma pyörii näin corbäck, joka
 Puhuja 1: se nyt onkaan
 Puhuja 1: pelinrakentajan ympärillä.
 Puhuja 1: Pelirakentajilla
-Puhuja 1: on aina niillä vaimoina supermalleja. Ja ne hengailee julkispiireissä.
+Puhuja 1: on aina niillä vaimoina supermalleja. Ja ne hengailevat julkispiireissä.
 Puhuja 1: Mutta
 Puhuja 1: Kels
 Puhuja 1: on joku running backta, joku ihan tavallinen jamppa siellä. No en tiedä mikä sen asian siellä on. Mutta hän ei ole cornback ainakaan. Ei. Eikä pidä paikkaansa. Tämä on aivan tavatonta ja hän on ylipäätään jo ennen tätä seurustelua
@@ -273,28 +275,28 @@ Puhuja 2: kuluttajaryhmää,
 Puhuja 2: jotka todellakaan ei muuten kohtaa ollenkaan. Siinä ei ole mitään sellaista ristikkäistä.
 Puhuja 2: Siinä
 Puhuja 2: on jenkkifutiksen
-Puhuja 2: katsojat ja Jazzeless Ryftin fanit.
+Puhuja 2: katsojat ja Jazzelers-Proftin fanit.
 Puhuja 2: Niissä ei ole kauheasti
 Puhuja 2: yhtymäkohtia. Ei ole kauhean montaa tai no okei, mulla on monia, mutta kuitenkin Ja tämä oli silläkin tavalla täydellinen teko myös kaupallisesti heille molemmille.
 Puhuja 2: Kyllä. Mites tästä tulikaan mun suositista?
 Puhuja 2: Voisin sanoa vaikka, että jos haluaa perehtyä, että Zelysftiin exiin enemmän, koska se on kanssa kiehtova maailma.
 Puhuja 2: Tämä on nyt mun kavereiden podcast, mutta mun kaverit Julia ja Elina pitävät sellaista lempipodi-nimistä
 Puhuja 2: podcastiin, joka käsittelee suhdeasioita,
-Puhuja 2: Niillä on mun mielestä aivan ihana Salelysfift-jakso,
-Puhuja 2: joissa käsitellään kaikki Salelyn exät.
+Puhuja 2: Niillä on mun mielestä aivan ihana Zaleer SWIF-jakso, joissa käsitellään kaikki Zaleeryn exät.
 Puhuja 1: Miten kai se vaikuttaa ihmissuhteeseen, jos sä tiedät, että sä rupeet seurustelemaan
-Puhuja 1: ihmisen kanssa, joka kuitenkin puolen vuoden päästä olet jossain sen biisissä.
+Puhuja 1: ihmisen kanssa, joka kuitenkin puolen vuoden päästä olet jossain sen biisissä?
 Puhuja 1: Yleensä
 Puhuja 2: aika synkässä. Siellä on vähän lopettanut sitä muista ihmisistä kirjoittamista.
-Puhuja 2: On. On
-Puhuja 2: viimeisimmät levyt on käsitellyt
+Puhuja 2: On.
+Puhuja 2: Viimeisimmät levyt on käsitellyt
 Puhuja 2: fiktiivisiä tarinoita ja tällaista.
-Puhuja 1: No niin. Toivotetaan onnea heille. Terveisiä
-Puhuja 1: siis. Mitä sanoo Tommi Nieminen? Minä
+Puhuja 1: No niin. Toivotetaan onnea heille. Terveisiä.
+Puhuja 1: Siis. Mitä sanoo Tommi Nieminen? Minä
 Puhuja 3: ärsynyt
 Puhuja 3: kaikista
 Puhuja 3: nykyajan
-Puhuja 3: giteistä ja kohuista ja tällä viikolla olen ärsyyntynyt ihan suunnattomasti PMP-kohusta,
+Puhuja 3: giteistä ja kohuista ja tällä viikolla olen ärsyyntynyt ihan suunnattomasti
+Puhuja 3: PMP-kohusta,
 Puhuja 3: joka
 Puhuja 3: tiivistetysti meni niin, että PMP
 Puhuja 3: järjestää ensi
@@ -322,8 +324,8 @@ Puhuja 3: että iso
 Puhuja 3: viihdebisnes
 Puhuja 3: se on liiketoimintaa jossa käytetään
 Puhuja 3: kaikenlaisia
-Puhuja 3: mahdollisia markkinoinnin
-Puhuja 3: keinoja ja ihmisiä houkutellaan erilaisilla koukuilla ja ketkuilla
+Puhuja 3: mahdollisia markkinoinnin keinoja ja ihmisiä houkutellaan
+Puhuja 3: erilaisilla koukuilla ja ketkuilla
 Puhuja 3: ja mainonnalla
 Puhuja 3: ja sissimarkkinoinnin
 Puhuja 3: ja muulla, että eihän tässä nyt oikeasti kukaan ole kärsinyt mitään vääryyttä.
@@ -337,23 +339,22 @@ Puhuja 3: Ja kuunnelkaa vaikkapa
 Puhuja 3: ihan helvetin hyvä PMP:n levy uudestaan
 Puhuja 3: veden varaan vuodelta kaksituhatta yhdeksän, se on muuten ihan törkeen kova levy.
 Puhuja 2: Minua kaduttaa että ostin liput sinne keikalle, no niin. No, ostin
-Puhuja 3: me ollaan loukattu.
-Puhuja 2: Suuri väärin.
+Puhuja 3: me ollaan loukattu
+Puhuja 2: saamaan. Suuri väärin.
 Puhuja 2: No mites Marko?
-Puhuja 1: En ole ihan lopussa vielä, luen parhaillaan
+Puhuja 1: En ole ihan lopussa vielä. Luen parhaillaan
 Puhuja 1: tällainen
 Puhuja 1: kirja nimeltä Super Pumped eli Super Pumped:
 Puhuja 1: The Battle For over. Kirjoittaja
 Puhuja 1: Mike
 Puhuja 1: Isak.
 Puhuja 1: Tämä Uber tarina on
-Puhuja 1: ihan huikea.
-Puhuja 1: Yleensä
+Puhuja 1: ihan huikea. Yleensä
 Puhuja 1: tarinat
 Puhuja 1: startupeista ja kasvuyritysten on suuria sankaritarinoita,
 Puhuja 1: mutta tämä on kyllä päinvastoin. Lähinnä kertoa miten kauhea kusipää se Yberin
-Puhuja 1: pää pomo on ollut koko ajan.
-Puhuja 1: Ja se niiden
+Puhuja 1: pää pomo on ollut koko ajan. Ja
+Puhuja 1: se niiden
 Puhuja 1: rahan
 Puhuja 1: holvaaminen.
 Puhuja 1: Ja
@@ -365,9 +366,9 @@ Puhuja 1: on ihan sikaa, mitä olen tehnyt.
 Puhuja 1: Siitä huolimatta
 Puhuja 1: maailman suurimmista firmoista, mutta tosi kiehtova tarina
 Puhuja 1: sinicon välin start up scene tästä synkästä puolesta ja myös mikä se yrityskulttuuri siellä oli ja miten työntekijöitä kohdeltiin
-Puhuja 3: ja ihan kamala firma.
-Puhuja 3: Sanoisin, että
-Puhuja 3: koko
+Puhuja 1: ja ihan kamala firma.
+Puhuja 1: Sanoisin, että
+Puhuja 1: koko
 Puhuja 3: taksibisneksessä
 Puhuja 3: hyvät ajat oli viimeksi silloin kun taksia kutsuttiin
 Puhuja 3: vuokra-ajureiksi
@@ -385,7 +386,8 @@ Puhuja 1: tottelivat tai pelkäsivät
 Puhuja 1: oli sitten Apple. Ja sen teki jossain vaiheessa semmoisen, että
 Puhuja 1: kun ne maksoivat... Kyllä valloitti uusia markkinoita
 Puhuja 1: ja Kiina oli niiden kaikkein Kiina ja Intia molemmat
-Puhuja 1: menivät aika pieleen, mutta valtavia markkinoita. Ja ongelma oli se, että kun ne maksoivat
+Puhuja 1: menivät aika pieleen, mutta valtavia markkinoita.
+Puhuja 1: Ja ongelma oli se, että kun ne maksoivat
 Puhuja 1: jokaisesta Uber-kuljetuksesta
 Puhuja 1: Kiinassa, itse asiassa Uber maksoi. He käyttivät
 Puhuja 1: satoja miljoonia viikossa valloittaakseen
@@ -396,8 +398,7 @@ Puhuja 1: että ihmiset olivat
 Puhuja 1: ajavinaan
 Puhuja 1: Ubergiä
 Puhuja 1: ja keräsivät näitä korvauksia sieltä ja sitten ne rupesivat seuraamaan.
-Puhuja 1: Tämä olisi tämmöinen yksikkö joka tehtävä eli löytää näitä väärinkäytöksiä.
-Puhuja 1: Ja sitten kun ongelma oli se, että
+Puhuja 1: Tämä olisi tämmöinen yksikkö joka tehtävä eli löytää näitä väärinkäytöksiä. Ja sitten kun ongelma oli se, että
 Puhuja 1: iPhonessa on siis semmoinen mahdollisuus, koska Apple uskoo tämmöiseen yksityisyyteen ja yksilön suojaan ja siihen, että yksilöön
 Puhuja 1: ei saisi valvoa isoveljen taholta,
 Puhuja 1: pystyt tyhjentämään
@@ -406,7 +407,7 @@ Puhuja 1: tavallaan tuhoamaan sen sisällön ihan täysin, että sitä ei pysty 
 Puhuja 1: sitä kamaa mikä siellä on ja sitten uudestaan
 Puhuja 1: lataat käyttik sen, että sinulla
 Puhuja 1: on käyttävänsä iPhone uudestaan, että kaikki jos on vanhat synnit siivottu pois. Nämä väärinkäyttäjät Kiinassa,
-Puhuja 1: aina kun ne menevät jäädä kiinni, ne vain tyhjensivät puhelimet ja sitten aloittivat
+Puhuja 1: aina kun ne meinasi jäädä kiinni, ne vain tyhjensivät puhelimet ja sitten aloittivat
 Puhuja 1: uudella numerolla, mutta kumminkin samasta puhelimesta
 Puhuja 1: sen saman toiminnan.
 Puhuja 1: Koska
@@ -417,7 +418,7 @@ Puhuja 1: millä pystyttiin seuraamaan
 Puhuja 1: erilaisia reittejä.
 Puhuja 1: Ensinnäkin kun ihminen
 Puhuja 1: latasi Uber-apin,
-Puhuja 1: niin antoi luvan, että Uber saa ottaa kaikki sen ihmisen tiedot kaikkialta käyttöönsä ja ne tyhjät ottivat puhelimesta kaikki tiedot, koska ne saivat etukäteen tässä vaiheessa
+Puhuja 1: niin antoi luvan, että se Uber saa ottaa kaikki sen ihmisen tiedot kaikkialta käyttöönsä. Ja ne tyhjät ottivat puhelimesta kaikki tiedot, koska ne saivat etukäteen tässä vaiheessa
 Puhuja 1: käyttäjän kaikki tiedot. Ne pystyivät myöhemmin jäljittämään ne tyhjennetyt puhelimet, että missä sitä käytetään
 Puhuja 1: uudestaan.
 Puhuja 1: He tekevät tätä salaa ja jossain vaiheessa Applelle selvisi mitä he tekevät.
@@ -441,8 +442,7 @@ Puhuja 1: No niin, meitä oli kauheasti lausuntoja tässä. Joo,
 Puhuja 2: olipa jotenkin kantaa.
 Puhuja 2: Haluatko kaivaa nuo loppusanat?
 Puhuja 1: Mä muistan
-Puhuja 2: ne. Mulla on ne tässä YAMK. Haluatko sä lausoitte?
-Puhuja 2: Voin mä lausoitan tätä. Okei, kiitos,
+Puhuja 2: ne. Mulla on ne tässä. Haluatko sinä lausua ne? Voin minä lausoitan tätä. Okei, kiitos,
 Puhuja 2: siinä kaikki tältä erää. Ei mennyt edes oikein.
 Puhuja 2: Siinä kaikki tältä erää. Kiitos
 Puhuja 2: Anni Kesti Heikkilä.
@@ -450,12 +450,11 @@ Puhuja 2: Kiitos Tommi
 Puhuja 2: niminen.
 Puhuja 2: Minun nimeni on... Marko Junkkari.
 Puhuja 1: Kiitoksia
-Puhuja 1: äänen ja kuvani ja kaiken muun mukavan meille tänään teki Mikko Peuran.
-Puhuja 1: Mahtavaa lähettää meille palautetta, että uutisvalta! Kyllä, ja kuullaan toisistamme taas ensi viikolla!
-Puhuja 2: Moi,
+Puhuja 1: äänen ja kuvani. Kaiken muun mukavan meille tänään teki Mikko Peuran.
+Puhuja 1: Muistakaa lähettää meille palautetta, että uutisvalta. Kyllä, ja kuullaan toisistamme taas ensi viikolla!
+Puhuja 1: Moi,
 Puhuja 0: Tuomas tässä.
-Puhuja 0: Mun uusi podcast Menetetyt miljardit,
-Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: Mun uusi podcast Menetetyt miljardit, se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.

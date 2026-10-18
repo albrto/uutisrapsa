@@ -1,6 +1,6 @@
 Puhuja 0: Helsingin Sanomat.
-Puhuja 1: Hei. Ja tervetuloa Helsingin Sanomien Uusi raportti-podcastiin.
-Puhuja 1: Torstaina, joka on kolmas päivä ja syyskuuta,
+Puhuja 1: Hei, ja tervetuloa Helsingin Sanomien Uusiraportti-podcastiin.
+Puhuja 1: Torstaina, joka on kolmas päivä jo syyskuuta,
 Puhuja 1: se vaan aika huijahtaa eteenpäin. Elokuu tuntuu ikuiselta.
 Puhuja 1: Mutta nyt ollaan. Ei ole vielä taittunut. Täällä ollaan shortsit jalassa studiossa
 Puhuja 1: ja lyhythihaisissa
@@ -10,21 +10,20 @@ Puhuja 1: Shortseissa.
 Puhuja 1: Kanssani täällä Helsingin Sanomien podcast studiossa on Hanna Mauhlamäki,
 Puhuja 1: Helsingin Sanomien
 Puhuja 1: politiikan toimituksen esihenkilö. Hei vaan, Hanna. Tervehdys. Myös
-Puhuja 1: hänen
-Puhuja 1: pikku Kuhnurinsa
-Puhuja 1: Marko Junkkari, Eeva Marko
+Puhuja 1: hänen pikku Kuhnurinsa,
+Puhuja 1: Eeva-Marko
 Puhuja 1: politiikan.
-Puhuja 1: Hannan kanssa samassa toimituksessa.
-Puhuja 2: Kun nämä
-Puhuja 2: päämäärät on tosi hankalia. Mulla oli aika kauan sitten soittulle. Mulla oli aluksi lapsuudenkavereita tämän nähnyt pitkään aikaan, niin me sovittiin
-Puhuja 2: kolmesataayhdeksän.
+Puhuja 1: Hannan kanssa samassa toimitukseksi.
+Puhuja 2: Hanna on mun pomo.
+Puhuja 2: Musta nämä päämäärät on tosi hankalia. Mulla oli aika kauan sitten soittulle. Mulla oli aluksi lapsuudenkavereita tämän nähnyt pitkään aikaan ja sovittiin kolmekymmentäyhdeksän.
 Puhuja 2: Treffit illalla.
 Puhuja 2: Mä eilen odottelin häntä
 Puhuja 2: tosi pitkään.
 Puhuja 2: Lopulta, että missä sä oot.
 Puhuja 2: Se oli hyvin hämmentävää. Tänään on toinen päivä. Nämä on
 Puhuja 1: pahoja vuodesta toiseen. Tämän viikon podcastissa me keskustellaan.
-Puhuja 1: Ja mä haluan tähän alkuun sanoa, että mä en ehtinyt tehdä varsinaista käsikirjoitusta juuri lainkaan johtuen siitä, että meillä on kello kymmenen aamulla tämä nauhoitus. Aivan poikkeuksellisesti
+Puhuja 1: Haluan tähän alkuun sanoa, että en ehtinyt tehdä varsinaista
+Puhuja 1: käsikirjoitusta juuri lainkaan johtuen siitä, että meillä on kello kymmenen aamulla tämä nauhoitus. Aivan poikkeuksellisesti
 Puhuja 1: en kykene tähän. Anyway.
 Puhuja 1: Keskustellaan
 Puhuja 1: budjettiriihestä
@@ -63,6 +62,12 @@ Puhuja 1: puhuminen enää millään tavalla järkevää.
 Puhuja 1: Mutta
 Puhuja 1: puhutaan kaikesta tästä. Ja vielä kolmanneksi cancelinnistä.
 Puhuja 1: Onko cancelöinti
+Puhuja 1: kuntia ylläpitävänä voimana tai tuhoavana
+Puhuja 1: voimana?
+Puhuja 1: Onko se ohi?
+Puhuja 1: Yhdysvalloissa käydään tämmöistä woke is Dead
+Puhuja 1: keskustelua.
+Puhuja 1: Suomessakin käydään
 Puhuja 1: samanlaista keskustelua.
 Puhuja 1: Helsingin Sanomissa julkaistiin erinomainen
 Puhuja 1: artikkeli aiheesta,
@@ -70,11 +75,9 @@ Puhuja 1: joten puhutaan mekin siitä.
 Puhuja 1: Lopuksi vielä hyviä keskustelunaiheita.
 Puhuja 1: Pitkien epämukavien
 Puhuja 1: hiljaisuuden varalle.
-Puhuja 1: Okei.
-Puhuja 1: Petri Euroopon
+Puhuja 1: Okei. Petteri Euroopon
 Puhuja 1: hallituksen viimein budjettiriihi
-Puhuja 1: sai päätöksensä
-Puhuja 1: ja sen myötä tulee
+Puhuja 1: sai päätöksensä ja sen myötä tulee
 Puhuja 1: jonkinnäköinen
 Puhuja 1: budjettipaperi.
 Puhuja 1: Siinä esitellään,
@@ -91,32 +94,33 @@ Puhuja 2: Joo, mutta tuo on tärkeä, mitä Hanna sanoi, että
 Puhuja 2: eduskunta hyväksyy
 Puhuja 2: budjettivaltaanvaltaa eduskunnalle.
 Puhuja 2: Tosin ne yleensä koputtelee sen aika lailla tuollaisella läpi.
-Puhuja 1: Tämän ympärillä Tämä on vähän tämmöinen kalenterinen
+Puhuja 1: Tämän ympärillä... Tämä on vähän tämmöinen kalenterinen
 Puhuja 1: aihe.
 Puhuja 1: Aluksi suhtauduin tosi, että ei saatana, mitä keskustelua, olisi ihan semmoista
 Puhuja 1: teeskenneltyä jankkaamista.
 Puhuja 1: Kuuntelin jotain politiikkaradiota.
-Puhuja 1: Siellä
-Puhuja 1: toimittaja Antti Pilke, joka on uskomattoman hyvä toimittaja, arvostan häntä todella korkealle. Mutta hän
-Puhuja 1: virkaa tehden, onko tämä vaalibudjettia.
+Puhuja 1: Siellä toimittaja Antti Pilke, joka on siis uskomattoman hyvä toimittaja,
+Puhuja 1: arvostan häntä todella korkealle. Mutta
+Puhuja 1: hän virkaa tehden, onko tämä vaalibudjettia.
 Puhuja 1: Sitten oppositiopuolueista
 Puhuja 1: sanottiin: Tämähän on aivan selvä vaalibudjettia.
 Puhuja 1: Hallituksen jäsenet oli, että: Ei missään
 Puhuja 1: nimessä olla vaalibudjettia.
 Puhuja 1: Se oli jotenkin niin idioottimaista se keskustelu.
-Puhuja 1: Mutta mä huomaan, että mä olin väärin Nimenomaan Facebookissa
-Puhuja 0: voi tapahtua just tuollaista. Siellä ihmiset
-Puhuja 0: heittää kommenttia. Sitten ne on hämmästyneitä siitä, että se onkin julkista.
-Puhuja 1: Semmoinen
+Puhuja 1: Mutta mä huomaan, että mä olin väärin... Nimenomaan Facebookissa
+Puhuja 0: voi tapahtua just tuollaista. Siellä ihmiset heittää
+Puhuja 0: kommenttia. Sitten ne on hämmästyneitä siitä, että se onkin julkista.
+Puhuja 0: Semmoinen
 Puhuja 1: tapa, että mä
 Puhuja 1: pyrin
 Puhuja 1: vastaamaan
-Puhuja 1: aina tismalleen sillä samalla äänensävyillä, millä mulle
+Puhuja 1: aina tismalleen sillä samalla äänensävyllä, millä mulle
 Puhuja 1: kirjoitetaan. Jos joku vittuilee ihan kohtuuttomasti, mä vittuilen ihan kohtuuttomasti. Onko se ylhäältä alaspäin lyömistä? On, mutta so what?
 Puhuja 0: Mikään ei ole helpompaa ja kivempaa kuin ylhäältä alaspäin. Sekin on nykyään sallittua. Tähysi. Onko se nyt tätä uutta walk instead aikakautta?
 Puhuja 1: Ei. Mua toimituttaa muutenkin toi ylhäältä alaspäin. Sen
 Puhuja 1: kylääminen
-Puhuja 1: ylhäältä alaspäin lyöminen.
+Puhuja 1: ylhäältä
+Puhuja 1: alaspäin lyöminen.
 Puhuja 1: Se on käsikirjoitus,
 Puhuja 1: ei edes sääntö, vaan keino
 Puhuja 1: hahmottaa omaa käsikirjoitusta tai komediakirjoitusta,
@@ -126,10 +130,10 @@ Puhuja 1: monia koomikoita, on ihan
 Puhuja 1: oikeaa tyylillä.
 Puhuja 1: Se sääntö ehkä siinä on, että ylhäältä alaspäin lyödässä pitää olla erityisen hyvä. Se lyönnin pitää olla todella taidokas. Summa tarkkaan. Just näin. Se ei ole mikään
 Puhuja 1: Jeesuksen kaltainen mikään moraalisääntö.
-Puhuja 1: Ei,
-Puhuja 1: mutta tähän keskusteluun ei tarvitse antautua.
+Puhuja 1: Mutta
+Puhuja 1: tähän keskusteluun ei tarvitse antautua.
 Puhuja 1: Mun mielestä tämä koko saaga,
-Puhuja 1: mistä
+Puhuja 1: mistä...
 Puhuja 1: Okei, ei koko, mutta yksi tämän viimeisimmän ryöpsähdyksen
 Puhuja 1: alkupiste
 Puhuja 1: on
@@ -140,305 +144,295 @@ Puhuja 1: Hän mainitsi siellä haastattelussa
 Puhuja 1: tällä tavalla,
 Puhuja 1: että
 Puhuja 1: keskustelu liittyi Michael Brown Juniorerin kuolemaan Ferggion
-Puhuja 1: missoresta, josta tuli sinä päivänä kaksitoista vuotta kuluneeksi.
+Puhuja 1: Missorysta, josta tuli sinä päivänä kaksitoista vuotta kuluneeksi.
 Puhuja 1: Sitten Ogasjo Korteessa
 Puhuja 1: kommentoi tätä ABC:lle.
 Puhuja 1: Tässä yhteydessä
 Puhuja 1: Ogasjo Korteessa sanoi, että
-Puhuja 1: DSA eli demokraattisen
-Puhuja 1: puolueen sosialistinen
-Puhuja 1: zB eli
+Puhuja 1: DSA
+Puhuja 1: eli demokraattisen
+Puhuja 1: puolueen
+Puhuja 1: sosialistinen CIB eli
 Puhuja 1: demokraattien
 Puhuja 1: nuori
 Puhuja 1: hurja
-Puhuja 1: vasemmisto.
-Puhuja 1: Move
-Puhuja 1: the way on siirtyneet pois
+Puhuja 1: vasemmisto,
+Puhuja 1: Move the way on siirtyneet pois
 Puhuja 1: niistä
-Puhuja 1: mielipiteistä ja kannoista,
-Puhuja 1: joita he pandemian
-Puhuja 1: aikana sanoivat. Ja varsinkin tästä deepund policiesta, joka oli tosi isossa roolissa silloin, kun tuli
-Puhuja 1: tapaukset, missä poliisit surmasi useamman
+Puhuja 1: mielipiteistä ja kannoista, joita he pandemian aikana sanoivat. Ja varsinkin tästä deepond policy, joka oli tosi isossa roolissa silloin, kun
+Puhuja 1: tuli tapaukset, missä poliisit surmasi useamman
 Puhuja 1: mustan
 Puhuja 1: ihmisen Yhdysvalloissa.
 Puhuja 1: Tässä yhteydessä
 Puhuja 1: Okassio Korteessa sanoi näin:
-Puhuja 1: I have a local city conclmen
+Puhuja 1: I have a local
+Puhuja 1: city councilmen
 Puhuja 1: that has this saying.
 Puhuja 1: Vaok 1 was crasy,
-Puhuja 1: especially
-Puhuja 1: during covid, I think that the dores were really open in trying to entertain any and every policy that was going to going to get us into a better place. Eli OKKAsio-Kortse. Eli, OKKAsio:
-Puhuja 1: Hän tuntee erään
-Puhuja 1: city counsilman
-Puhuja 1: kunnan
-Puhuja 1: lautamiehen
-Puhuja 1: Kunnan valtuutetut. Kunnanvaltuutetun.
+Puhuja 1: especially during covi, I think that the during
+Puhuja 1: open in trying to entertain any and every policy that was going to going to going together
+Puhuja 1: was going to get as into a betterplaces. Eli
+Puhuja 1: okas siellä Korteessaassa sanoi, että hän tuntee erään
+Puhuja 1: city councilman
+Puhuja 1: kunnan lautamiehen...
+Puhuja 1: Kunnan valtuutetun. Kunnan valtuutetun,
 Puhuja 1: Jolla on sanonta,
-Puhuja 1: että walk 1 was gracsy. Eli walk yksi oli hullua. No sitten kaikki sanoi, että kukas tämä tämmöinen valtuutettu mahtaa olla.
-Puhuja 1: Pitkään ei mennyt, että ihmisille kävi selväksi, että se viittaa New Yorkin nykyiseen pormestariin.
-Puhuja 1: Eli Shohran Mam Daniin. Okei. Ja Shohran Mam Danni taas jo siinä vaiheessa, että hänestä oli noussut
-Puhuja 1: valtavan taitavan some
-Puhuja 1: -preessenssinsä
+Puhuja 1: että woke 1 was graasy. Eli woke ykkönen oli hullua. No sitten kaikki sanoi, että kukas tämä tämmöinen valtuutettu mahtaa olla. Ja pitkään ei mennyt, että ihmisille kävi selväksi, että se viittaa New Yorkin nykyiseen pormestariin.
+Puhuja 1: Eli Shohran Mamdaniin.
+Puhuja 1: Okei. Ja Shohran Mamdaan,
+Puhuja 1: hänestä oli noussut
+Puhuja 1: valtavan taitavan
+Puhuja 1: some-preesenssinsä
 Puhuja 1: vuoksi
-Puhuja 1: globaalisti
-Puhuja 1: juhlittu vasemmistoikoni,
-Puhuja 1: joka todella tyylillä ja oudosti pystyi
-Puhuja 1: New Yorkia
-Puhuja 1: hallitsemaan ja saamaan siellä aikaan kaikkia
+Puhuja 1: globaalisti juhlittu
+Puhuja 1: vasemmistoikoni, joka todella tyylillä ja oudosti pystyi
+Puhuja 1: nyorkia
+Puhuja 1: hallitsemaan ja saamaan siellä aikaan
+Puhuja 1: kaikkia
 Puhuja 1: paikallisia kauppoja, mitä ikinä. Hän on todella tykätty hahmo.
 Puhuja 1: Ja se ristiriita tässä.
 Puhuja 1: Jos jopa
-Puhuja 1: Jordan Mandani on sitä mieltä, että woke ykkönen oli vähän
-Puhuja 1: liikaa, Siitä
-Puhuja 1: tämä uusi ryöpsähdys on tullut.
+Puhuja 1: Jordan Mandani on sitä mieltä, että walk ykkönen oli vähän
+Puhuja 1: liikaa,
+Puhuja 1: niin
+Puhuja 1: siitä tämä uusi ryöpsähdys
+Puhuja 1: on tullut.
 Puhuja 1: Sen vuoksi mekin tavallaan tässä puhutaan.
-Puhuja 1: Haluan vielä sanoa tähän väliin, että tätä seurasi melko
-Puhuja 1: lailla perään.
+Puhuja 1: Mä haluan vielä sanoa tähän väliin, että tätä seurasi melko lailla perään.
 Puhuja 1: Ehkä jonkunnäköinen vastakeskustelu siinä, että
-Puhuja 1: Britanniassa oli Janeon Ardayn tapaus,
-Puhuja 1: missä
-Puhuja 1: Cambridgen
-Puhuja 1: yliopiston professori, joka oli hyvin, hyvin juhlittu
-Puhuja 1: nimenomaan nuorena, mustana miehenä, joka pääsi
-Puhuja 1: akatemiasta tosi korkealle. Hän oli
-Puhuja 1: ikoninen hahmo briteissä.
-Puhuja 1: Hän pikkuhiljaa paljastui tämmöisen
-Puhuja 1: hyvin oikeistolaisen
+Puhuja 1: Britanniassa oli tämä Jane A. Din tapaus,
+Puhuja 1: missä tämmöinen
+Puhuja 1: Cambridgen yliopiston professori, joka oli hyvin, hyvin juhlittu
+Puhuja 1: nimenomaan nuorena mustana miehenä, joka pääsi akatemiasta tosi korkealle. Hän oli
+Puhuja 1: ikoninen hahmo Briteissä.
+Puhuja 1: Hän pikkuhiljaa paljastui tämmöisen ja vielä hyvin
+Puhuja 1: oikeistolaisen
 Puhuja 1: uusnatsihenkisen
 Puhuja 1: aktivistin
 Puhuja 1: paljastamana
-Puhuja 1: paljastui, että tämä Jason Ar Day
-Puhuja 1: on keksinyt
+Puhuja 1: paljastui, että tämä James Ar Day, hän on keksinyt
 Puhuja 1: ihan valtavan paljon, sepittänyt kaikennäköistä fullaa.
-Puhuja 1: Hänen
-Puhuja 1: juhlittu asema ei todellakaan ole
-Puhuja 2: ansainnut. Niin, hän oli plagiooneet
-Puhuja 2: tutkimuksia, mikä oli kai sen raskauttavin syitä. Kyllä. Plagiooneet tutkimuksia ja
-Puhuja 1: myös valehdellut ummet ja lammet elämästään, tapahtumista ja saavutuksistaan.
-Puhuja 1: Ja näin.
-Puhuja 1: Siitä britttilehdistö
-Puhuja 1: ja he hyppäästään wake is dead. Tosi pitkä tarina oli tämmöinen,
-Puhuja 1: että woke ykkönen. Se on niin kreisiä, että
-Puhuja 1: nostetaan
+Puhuja 1: Hänen juhlittu asema ei todellakaan ole ansaittu. Niin, ja hän oli plagioinut
+Puhuja 2: tutkimuksia, mikä oli kai sen raskauttavin syitä. Kyllä, plagi on tutkimuksia
+Puhuja 1: ja myös valehdellut ummet ja lammet elämästään,
+Puhuja 1: tapahtumista ja saavutuksistaan.
+Puhuja 1: Siitä brittilehdistö
+Puhuja 1: ja he hyppästään wooke is dead. Tää tosi pitkä tarina oli tämmöinen
+Puhuja 1: woke ykkönen. Se on niin kreisiä, että
+Puhuja 1: tämmöinen nostetaan
 Puhuja 1: jalustalle
 Puhuja 1: valehtelijatyyppi.
 Puhuja 1: Mutta
-Puhuja 1: stoori sai tosi traagisen käänteen, koska
-Puhuja 1: tää Jason Ar Da, joka selkeästi
-Puhuja 1: on hyvin omanlaisensa persoona,
-Puhuja 1: kenties spektrillä.
-Puhuja 1: Hän ei kestänyt tätä painetta, ja hän mitä
-Puhuja 1: ilmeisimmin surkaisi itsensä.
-Puhuja 1: Okei.
-Puhuja 1: Eli valtavia kuohuja
-Puhuja 1: woke-in kuoleman
-Puhuja 1: ympärillä.
-Puhuja 0: Myös ihmiset kuolemasta.
-Puhuja 0: Joo, on se kyllä
+Puhuja 1: stoori sai tositraagisen
+Puhuja 1: käänteen, koska
+Puhuja 1: Jason Ar Day, joka
+Puhuja 1: selkeästi
+Puhuja 1: on hyvin omanlaisensa persoona
+Puhuja 1: kenties jollain spektrillä,
+Puhuja 1: niin hän ei kestänyt tätä painetta ja hän,
+Puhuja 1: mitä ilmeisimmin surmasi itsensä.
+Puhuja 1: Eli
+Puhuja 1: valtavia kuohuja tämän wookeyn kuoleman ympärillä.
+Puhuja 0: Ihmiset kuolevat.
+Puhuja 0: Joo, on se kyllä...
 Puhuja 0: Ja sittenhän se
-Puhuja 0: on joutunut myös kriittiseen valoon.
-Puhuja 0: Se
-Puhuja 0: joku mielenkiintoinen proffa, joka on kritisoinut, joka on tähän kytkeytynyt myös. Ja se
-Puhuja 0: jatkuu
+Puhuja 0: on joutunut myös kriittiseen valoon. Siis se
+Puhuja 0: joku Belgiaalainen profe, joka on kritisoinut,
+Puhuja 0: joka on tähän kytkeytynyt myös. Ja se tavallaan jatkuu
 Puhuja 0: edelleen, että
-Puhuja 0: kuka tässä nyt on toiminut mitenkin.
-Puhuja 0: Se koettelee varmaan
-Puhuja 0: tuollaista yliopistoskeneää myös aika paljon.
-Puhuja 0: Kuinka pitkälle missäkin asiassa voi mennä?
+Puhuja 0: kuka tässä nyt on toiminut mitenkin. Se
+Puhuja 0: koettelee kyllä varmaan
+Puhuja 0: tuollaista yliopistoskeneä
+Puhuja 0: myös aika paljon, että
+Puhuja 0: Kuinka pitkälle
+Puhuja 0: missäkin asiassa voi mennä?
 Puhuja 0: Mitä kaikkea tästä pitäisi ajatella?
 Puhuja 2: Mietin vielä
 Puhuja 2: tätä Trumpia, josta Hanna puhui äsken.
-Puhuja 2: Trumpin hallintohan aloitti sillä, että ne ovat
+Puhuja 2: Trumpin
+Puhuja 2: hallintohan aloitti sillä, että ne ovat
 Puhuja 2: kieltäneet
 Puhuja 2: DI-koulutuksia
-Puhuja 2: kaikin mahdollisin
-Puhuja 2: yksityisistä yrityksistä ja
-Puhuja 2: tavallaan koittanut
-Puhuja 2: kitkeä tällaista
-Puhuja 2: woketusta.
-Puhuja 2: En tiedä, kuinka paljon virallisilla
-Puhuja 2: toimilla on ollut mitään vaikutusta. Olen ollut myös
-Puhuja 2: sellainen, että
-Puhuja 2: ihmiset ovat nähneet, että tämä on ihan älytöntä ja menee överiksi. Ja me olemme myös
-Puhuja 2: normaali vastareaktio
-Puhuja 2: sille,
-Puhuja 2: että mennään vähän överiksi pari askelta taaksepäin. Mutta ollaanko me menossa, ja vastareaktiosta
-Puhuja 1: Tämä on
-Puhuja 1: nyt todellista asioiden yhdistelyä.
-Puhuja 1: Oletteko nähneet somessa, mikä on se back life tai se keskusteluohjelma,
-Puhuja 1: jota joku asuntovälittäjä juontaa jostain Virosta? Oletteko
-Puhuja 1: nähnyt niitä klippejä?
-Puhuja 1: Ihan semmoisia sekobäisiä, jossa
-Puhuja 1: jotkut tämän päivän johdanto tukijaiset pieksee toistaan keskustelustudiossa.
+Puhuja 2: kaikin mahdollisin tavoin
+Puhuja 2: yksityisistä yrityksistä ja tavallaan
+Puhuja 2: koittanut
+Puhuja 2: kitkeä
+Puhuja 2: tällaista woketusta.
+Puhuja 2: En tiedä, kuinka paljon
+Puhuja 2: virallisilla toimilla on ollut mitään vaikutusta. Me olemme tässä olleet myös sellainen, että ihmiset ovat nähneet, että tämä on jotenkin ihan älytöntä ja menee överiksi. Me olemme tällaisen
+Puhuja 2: normaali vastareaktio sille, että
+Puhuja 2: mennään
+Puhuja 1: vähän överiksi pari askelta taaksepäin. Mutta ollaanko me menossa jo vastareaktion vastareaktiosta?
+Puhuja 1: Tämä
+Puhuja 1: on nyt todellista asioiden yhdistelyä.
+Puhuja 1: Oletteko nähneet somessa, mikä se on se back life tai se keskustelu
+Puhuja 1: ohjelma, jota asuntovälittäjä juontaa jostain Virosta? Oletteko nähneet niitä klippejä?
+Puhuja 1: Ihan semmoisia sekopäisiä, jossa jotkut
+Puhuja 1: tämän
+Puhuja 1: päivän Johanna tukijaiset pieksee toistaan
+Puhuja 1: keskustelustudiossa.
 Puhuja 1: Sen lisäksi
-Puhuja 1: just eilen kuulin, että on tulossa
-Puhuja 1: Immofight night, jossa Martin Aitalahti ja Anna Karalahti ottaa matsia keskenään. Mihin tämä nyt liittyy? Jos voit tulla siihen. Väitän,
-Puhuja 1: onko meneillään se, että on tullut just tämmöinen ryöpsäys.
-Puhuja 1: Että ollaan menty tosi paljon toiseen ääripäähän, missä sosiaalisilla konventiolla ja
-Puhuja 1: kunnollisuuden ja hyväntahtoisuuden
-Puhuja 1: ja tämmöisen
-Puhuja 1: sen takana oleville,
-Puhuja 1: sillä ei ole enää mitään väliä. Kaikki vaan on silleen. Meillä on eläimiä,
-Puhuja 1: joissa paviaanit jossain häkissä näiskitään vaan toisin. Jos ajattelet jotain rappiostriimaajia
-Puhuja 0: ja tällaisia. Just
-Puhuja 0: näin. Niin, kuinka alas voi mennä.
-Puhuja 1: Tarvitset aika vähän lisää woke. Niin,
-Puhuja 0: näemmekö sen woke kakkosen polun itse asiassa. Oliko siitä puhetta sitten siinä,
-Puhuja 0: että jos
-Puhuja 0: puhutaan, että VAOK
-Puhuja 0: yksi oli hullu, niin millainen VOC kaksi? Kyllä se sieltä tulee. Kyllä se sieltä tulee. Mun mielestä surullisin asia,
-Puhuja 1: mitä tässä hetkessä ja tässä ajassa on,
-Puhuja 1: on aina välillä. Välillä näkee ihmisiä, jotka tunnistaa sieltä jostain vuoden kaksituhatta viisitoista Twitteristä.
-Puhuja 1: Ja
-Puhuja 1: sitten ne edelleen käy semmoista
-Puhuja 1: wokeahtia
+Puhuja 1: just eilen kuulin, että on tulossa Immofight
+Puhuja 1: night, jossa Martin Aitolehti ja Anna Karalahti ottaa matsia keskenään.
+Puhuja 0: Mihin tämä nyt liittyy? Voit tulla siihen. Väitän, että
+Puhuja 1: sen
+Puhuja 1: takana oleville, niin sillä ei ole enää mitään väliä. Me ollaan
+Puhuja 1: eläimiä, joissa paviaanit jossain häkissä mäiskitään vaan toisin. Jos ajattelet jotain rappiostriimaajia,
+Puhuja 0: jos näin. Niin,
+Puhuja 0: kuinka alas voi mennä.
+Puhuja 1: Ei tarvitse tehdä aika vähän niin kuin lisää
+Puhuja 1: woke.
+Puhuja 0: Niin, näemmekö sen woke Kakkosen paluun itse asiassa. Oliko siitä puhetta sitten siinä?
+Puhuja 0: Jos puhutaan, että VOC yksi oli hullu, niin millainen VOC kaksi? Kyllä se sieltä tulee. Kyllä se sieltä
+Puhuja 1: tuli. Mun mielestä surullisin asia, mitä tässä hetkessä ja tässä ajassa on,
+Puhuja 1: on aina välillä.
+Puhuja 1: Välillä näkee ihmisiä, jotka tunnistaa sieltä jostain vuoden kaksituhatta viisitoista Twitteristä.
+Puhuja 1: Ja edelleen käy semmoista
+Puhuja 1: wokejahtia
 Puhuja 1: siellä.
-Puhuja 1: Se olisi tavallaan tosi surullista jo silloin. Mutta nyt kun tajuat, että koko sitä wokea ei sitä enää ole. Ja
-Puhuja 1: kulttuurin merkitys on nolla. Se ei ole enää
-Puhuja 1: mikään painajainen, mitä vastaan sun kannattaa taistella.
-Puhuja 1: Niin se on jotenkin, että tuo on niin surullinen ja melankolinen tapa haaskata elämäänsä
-Puhuja 1: sosiaalisessa mediassa.
+Puhuja 1: Se
+Puhuja 1: olisi tavallaan tosi surullista jo silloin. Mutta nyt kun tajuat, koko wokea ei sitä enää ole. Ja kulttuurin merkitys on nolla. Se ei ole enää mikään painajainen,
+Puhuja 1: mitä
+Puhuja 1: se
+Puhuja 1: ei ole enää
+Puhuja 1: mikään painajainen, mitä vastaan sinun kannattaa taistella.
+Puhuja 1: Niin, kyllä olen koko
+Puhuja 1: ajan ollut sitä mieltä, että
 Puhuja 0: Olen koko ajan ollut sitä mieltä, että Suomessa se taistelu oli aika paljon mielikuvia vastaan taistelua. Okei, no, varmaan joku on tosi eri mieltä.
 Puhuja 0: Kyllähän ne ääriesimerkit ovat enimmäkseen liittyneet muualle kuin Suomeen. Sitten, kun menette Helsingin
-Puhuja 1: kalliossa olevaan rytmibaari ja rupeatte siellä suunnittelemaan, että mitäs tämä walk
+Puhuja 1: kalliossa olemaan rytmibaari ja rupeatte siellä suunnittelemaan, että mitäs tämä walk
 Puhuja 1: kakkonen laitetaan pystyyn,
-Puhuja 1: niin otatte varmaan
-Puhuja 1: Mikä olisi semmoinen
-Puhuja 1: mitä
-Puhuja 1: Vielkäs godhien. Vielkäs godhien. Siinä sitten rupeatte pöydässä muiden huokeltajien kanssa keskustelemaan. Mistä keskustelatte?
+Puhuja 1: niin otatte varmaan...
+Puhuja 1: Mikä olisi semmoinen,
+Puhuja 1: mikä... Vierekä
+Puhuja 1: Mulhien. Viere smoothien.
+Puhuja 1: Siinä sitten rupeatte pöydässä
+Puhuja 1: muiden
+Puhuja 1: huokeltajien kanssa keskustelemaan.
+Puhuja 1: Mistäs keskustelette?
 Puhuja 0: Minä haluan hehkuttaa
 Puhuja 0: Rami Mäkisen ja Matti Rämön Tuhottu
 Puhuja 0: lapsuus tietokirjaa.
 Puhuja 0: He ovat tutkivia toimittajia, jotka ovat
 Puhuja 0: aikaisemmin
 Puhuja 0: kirjoittaneet Oikeusmurha
-Puhuja 0: liittyen tähän Anneli Auring caseen.
-Puhuja 0: Tuossa Tuhat lapsuus teoksessa
+Puhuja 0: liittyen tähän Anneli Auring caseen. Ja tuossa Tuhat lapsuus teoksessa
 Puhuja 0: kerrotaan erityisesti
 Puhuja 0: siitä, mitä tapahtuu Anneli Auring lapsille.
-Puhuja 0: Ja mä toivoisin, että mä ehtisin kirjoittaa siitä myös jotain
-Puhuja 0: itse vielä Helsingin Sanomiin.
-Puhuja 0: Se
-Puhuja 0: on todella karua. Se kertoo suomalaisesta
+Puhuja 0: Ja mä toivoisin, että mä ehtisin kirjoittaa siitä myös jotain itse
+Puhuja 0: vielä Helsingin Sanomiin.
+Puhuja 0: Mutta
+Puhuja 0: se on todella karua. Se kertoo suomalaisesta
 Puhuja 0: lastensuojelusta,
 Puhuja 0: poliisityöstä,
 Puhuja 0: ylipäätään viranomaisten
 Puhuja 0: toiminnasta
-Puhuja 0: ja hirvittävän
-Puhuja 0: järkyttävistä ihmiskohtaloista,
+Puhuja 0: ja ihan hirvittävän järkyttävistä
+Puhuja 0: ihmiskohtaloista,
 Puhuja 0: joita tässä
 Puhuja 0: on
 Puhuja 0: tuotettu yhteiskunnan taholta, mutta myös selviytymisestä.
 Puhuja 0: Okei.
-Puhuja 0: Mutta mä suosittelen sitä.
-Puhuja 1: Ehkä. Mä
-Puhuja 1: yritän. No niin, Marko.
+Puhuja 1: Mutta mä suosittelen sitä. Tosi kiinnostava. Onko se semmoinen, että tekee mieli hypätä rotkoa sen jälkeen? Vai onko se
+Puhuja 1: semmoinen melankolinen
+Puhuja 1: kirja vai onko se semmoinen analyytti? Riippuu vähän.
+Puhuja 0: Siis
+Puhuja 1: Ehkä.
+Puhuja 1: Mä yritän.
+Puhuja 1: Marko.
 Puhuja 2: Rupesin nyt vihdoin lukemaan tämä.
-Puhuja 2: Luen liikaa Truista, kun seuraan tuota jenkkimediaa ja minä en jotenkin jaksa enää. Ja
-Puhuja 2: Arvostan suuresti New York chamsin toimittajaa ja Mag Yorde New Yorknsin
-Puhuja 2: toimittajilta. Jonas Sans Wanilta tuli
-Puhuja 2: Trump kirja. Hamber Habermann on kirjoittanut jo aikaisemmin Trutista kirja, mikä oli minusta oikein mainio.
-Puhuja 2: Pitkään ajattelin, että en jaksa lukea tätä. Kun olen tavallaan kuullut nuo kaikki tarinat
-Puhuja 2: ja en vaan jaksa.
-Puhuja 1: Mutta siitä kohta kirjasta puhutaan joka paikassa.
-Puhuja 2: Kyllä. Mä nyt hommasin sen. Sen nimi on siis Regie Change,
-Puhuja 2: tällainen vallan muutos.
-Puhuja 2: Olen lukenut noin puolet siitä ja se on mun edessä ihan älyttömän hyvä. Siinä
-Puhuja 2: on hauskaa se, että se ei ole Yleensä nämä
-Puhuja 2: mennään valkoiseen taloon kulissien taakse, niin siinäkin tavallaan ne ovat vähän juorutyyppisiä.
-Puhuja 2: He kerrotaan
-Puhuja 2: yksityisjoukkokohtia
-Puhuja 2: joistain keskusteluista. Ensimmäistä kertaa, että on tässäkin sitä. Mutta ote on itse asiassa paljon analyyttisempi.
-Puhuja 2: Tässä käydään teema kerrallaan
+Puhuja 2: Luen liikaa Trumpista, kun seuraan tuota Jenkkimediaa ja vähän jotenkin jaksa enää. En jaksa enää. Arvostan suuresti New York chamsin toimittajaa Mag Yorde ja toiselta New York chamsin toimittajilta tuli Trump kirja. Haber Haber. Olen kirjoittanut jo aikaisemmin Trutista kirjan, mikä oli minusta oikein mainio.
+Puhuja 2: Pitkään ajattelin, etten jaksa lukea tätä. Kun olen tavallaan kuullut nuo kaikki tarinat,
+Puhuja 2: en vain jaksa.
+Puhuja 1: Mutta siitä
+Puhuja 1: mitta kirjasta puhutaan joka paikassa. Kyllä.
+Puhuja 2: Mä nyt hommasin sen. Sen nimi on siis Regime Change.
+Puhuja 2: Tällainen vallanmuutos.
+Puhuja 2: Olen lukenut noin puolet siitä ja se on mun itseasiassa ihan älyttömän hyvä.
+Puhuja 2: Siinä on hauskaa se, että yleensä
+Puhuja 2: mennään valkoiseen taloon kulissien taakse, siinäkin tavallaan ovat sellaisia vähän juorutyyppisiä ja siinä kerrotaan
+Puhuja 2: yksityisjoukkokohtia jostain keskusteluista ensimmäistä kertaa. Että on tässäkin sitä. Mutta tässä ote on itse asiassa paljon analyyttisempi. Tässä käydään teema
+Puhuja 2: kerrallaan
 Puhuja 2: läpi sitä, miten tämä Trumpin
 Puhuja 2: pyrkimys
-Puhuja 2: kostaa kaikille vihollisille ja miten se toimii. Ja miten se on tehnyt sen. Kirjaa
-Puhuja 2: on paljon parempi kuin luulin. Kyllä suosittelen.
-Puhuja 1: Kannattaa lukea. Tuo on ollut listalla pitkään,
-Puhuja 0: mutta Osaatko kysyä, Marko, mihin sinulle päätyy noin, kun
-Puhuja 0: on varmaan himassa kattoon asti
-Puhuja 1: monta tornia noita, kun noi on. Ennen vanhaan toimittaville joku sivubisnes, missä ne roudasi divariin
-Puhuja 2: näytekappaleita. Se on varmaan kuollut ajatus. Joo, musta badistä on kiva lukea.
-Puhuja 1: Hyvä. Haluan muistuttaa kaikkia kuulijoita siitä, että kaikki esimerkiksi
-Puhuja 1: Maggie Harbergin
-Puhuja 1: kirjat ja
-Puhuja 1: Aramin Mäkisen kirjat ja kaikki muutkin mahtavat asiat, mitä tässä podcastissa suositellaan, on uuteisraps.
-Puhuja 1: Fi
-Puhuja 1: sivustolla. Siellä on
-Puhuja 1: hakukone.
-Puhuja 1: Siinä
-Puhuja 1: filtterit ja muut pystyvät hakemaan just sitä, mitä haluaa uutisrapsa.
+Puhuja 2: kostaa kaikille vihollisille ja miten se toimii. Ja miten se on tehnyt sen.
+Puhuja 2: Kirjaa on paljon parempi kuin luulin. Kyllä suosittelen.
+Puhuja 1: Kannattaa lukea. Tuo on ollut listalla pitkään.
+Puhuja 0: Osaatko
+Puhuja 1: Mutta se on varmaan kuollut ja ajatististutta.
+Puhuja 2: Minusta Badistä on kiva lukea. Hyvä.
+Puhuja 1: Haluan muistuttaa kaikkia kuulijoita siitä, että kaikki, esimerkiksi
+Puhuja 1: Magbämanin
+Puhuja 1: kirjat
+Puhuja 1: ja Ronnie Mäkisen kirjat ja kaikki muutkin mahtavat asiat, mitä tässä podcastissa suositellaan, on uutisrapsa.
+Puhuja 1: Fi-sivustolla.
+Puhuja 1: Siellä on hakukone.
+Puhuja 1: Siinä filtterit ja muut pystyvät hakemaan just sitä, mitä haluaa uutisrapsa.
 Puhuja 1: Fi. Se on siis fanituotantoa
-Puhuja 1: eli
-Puhuja 1: kuulijan
+Puhuja 1: eli kuulijan
 Puhuja 1: väsäämä nettisivusto.
 Puhuja 1: Sieltä löytyy
 Puhuja 1: kaikki ikinä
-Puhuja 1: meidän antamat suositukset. Okei, mä
+Puhuja 1: meidän antamat suositukset. Okei,
 Puhuja 1: haluan sanoa
 Puhuja 1: sen, että
-Puhuja 1: mä
-Puhuja 1: olen saanut menetetyt miljardit podcastista niin paljon
+Puhuja 1: mä olen saanut menetetyt miljardit podcastista niin paljon
 Puhuja 1: palautetta ja niin monia
-Puhuja 1: varsin seikkaperäisiä
-Puhuja 1: sähköposteja, Instagram-viestejä
-Puhuja 1: ja kaikkea. Sitä on tullut. En ole ikinä mistään, mitä olen tehnyt. En ole saanut niin paljon palautetta kuin siitä.
-Puhuja 1: Olen tosi pahoillani, mutta mä en kyennyt vastaamaan kuin ihan muutamille. Siitä on tullut semmoinen,
-Puhuja 1: kuin ihan muutamille se on ollut. Siitä on tullut semmoinen kivi mun niskaan. Se painaa niin paljon.
-Puhuja 1: Mä
-Puhuja 1: haluaisin sanoa, että sata, mutta mä en tiedä, kuinka monta niitä on.
+Puhuja 1: varsin, varsin seikkaperäisiä sähköposteja,
+Puhuja 1: Instagram-viestejä
+Puhuja 1: ja kaikkea. Sitä on tullut. Mä en ole ikinä mistään, mitä mä olen tehnyt. Mä en ole saanut niin paljon palautetta kuin siitä.
+Puhuja 1: Olen tosi pahoillani, mutta
+Puhuja 1: en ole kyennyt vastaamaan kuin ihan muutamille.
+Puhuja 1: Siitä on tullut
+Puhuja 1: kivi mun niskaan. Se painaa niin paljon.
+Puhuja 1: Haluaisin sanoa, että sata, mutta
+Puhuja 1: mä
+Puhuja 1: en tiedä, kuinka monta niitä on.
 Puhuja 1: Mä kyllä vastaan
-Puhuja 1: ennen pitkää, mutta nyt se jotenkin ahdistaa mua niin paljon. Se on niin iso vuori, että mä olen täysin kykenemä toimimaan.
-Puhuja 1: Mutta mä haluan lukea yhden palautteen,
-Puhuja 1: koska se tuli naapuritalolta
+Puhuja 1: ennen pitkää, mutta nyt se jotenkin ahdistaa mua niin paljon. Se on niin iso vuori, että mä olen täysin kykenemätön
+Puhuja 1: toimimaan.
+Puhuja 1: Mutta mä haluan lukea yhden
+Puhuja 1: palautteen, koska se tuli naapuritalolta
 Puhuja 1: Yleltä,
-Puhuja 1: Yleisradian
-Puhuja 1: toimittaja lähetti tällä tavalla: Moi, menetetyt miljardit podcast sarja on briljantti, sisältö
-Puhuja 1: hurja, mutta muoto ja käsittely, nautinta.
-Puhuja 1: Tämä kutkutti erityisen paljon, koska tulee Yleltä näin.
-Puhuja 1: Hehän on siis podcast. Voi tietenkin tietenkin ammattilaisia, niin sieltä kehoa kyllä kutkuttiin.
-Puhuja 1: Haluan mainita sen, että olen käynyt yhdessä kollegani
+Puhuja 1: Yleissarjan toimittaja lähetti tällä tavalla: Moi, menetetyt miljardit podcast-sarja on briljantti,
+Puhuja 1: sisältö hurja, mutta muoto ja
+Puhuja 1: käsittelyn, nautinta.
+Puhuja 1: Tämä kutkutti erityisen paljon, koska tulee Yleltä
+Puhuja 1: näin... Hehän on siis podcast. Muodon tietenkin
+Puhuja 1: ammattilaisia, niin sieltä kehoa kyllä kututtiin.
+Puhuja 1: Haluan mainita sen, että olen käynyt yhdessä kollegan
 Puhuja 1: ja menetetyt miljardit
 Puhuja 1: podcastin toisen
-Puhuja 1: tekijän Alexand Höhörlinin kanssa. Futucastin
-Puhuja 1: haastattelussa uusimmassa jaksossa on
-Puhuja 1: meiltä
-Puhuja 1: kamaa tunnin ajan. Se oli erinomaista.
-Puhuja 1: Isakko on ihan mahtava haastattelija, ja oli siellä jotenkin niin hyvä vaip hänen podcastissaan.
-Puhuja 1: Myös
+Puhuja 1: tekijän
+Puhuja 1: Alex Aff Hörlinin kanssa. Futucastin
+Puhuja 1: haastattelussa
+Puhuja 1: uusimmassa jaksossa on
+Puhuja 1: meiltä kamaa tunnin ajan. Se oli erinomaista.
+Puhuja 1: Isakko on ihan mahtava haastattelija, ja oli siellä jotenkin niin hyvä vave siellä hänen podcastissaan.
+Puhuja 1: Ja myös
 Puhuja 1: uutisrapsan
-Puhuja 1: alkuperäisen satiirsian,
+Puhuja 1: alkuperäisen
+Puhuja 1: satiirsian,
 Puhuja 1: entisen käsikirjoittajan,
-Puhuja 1: stand up koomikko, Jons Rannan
-Puhuja 1: luomakunta-podcastissa
-Puhuja 1: kävin puhumassa menetetyistä miljardista.
-Puhuja 1: Ja myös ehkä
-Puhuja 1: kaikesta muustakin. Se oli tämmöinen hyvin vapaamuotoinen
+Puhuja 1: stand up koomikko Jons Rannan luomakunta-podcastissa
+Puhuja 1: kävin puhumassa menetetyistä miljardista
+Puhuja 1: ja ehkä kaikesta muustakin. Se oli tämmöinen hyvin vapaamuotoinen
 Puhuja 1: hauska
 Puhuja 1: podcast.
-Puhuja 1: Jotta ei pelkästään oman navan kaivelua, haluan sanoa sen, että mulla oli mahtava hetki Cloud
-Puhuja 1: kanssa.
-Puhuja 1: Lähistellään on joki, jota pitkin tykkään kävellä koiran kanssa.
-Puhuja 1: Se on aivan ihastuttavan kaunis.
-Puhuja 1: Luojan kiitos, kun sain mahtavan päähän pistää, että kysyin Cloudelta, että hei, mä oon tässä joella nyt. Claire suurin piirtein tietää, missä mun joki on ja näin.
-Puhuja 1: Sanoin, että hei, voitko kertoa mulle, että nyt kun on elokuun
-Puhuja 1: loppu, niin mitä täällä on meneillään?
-Puhuja 1: Koska
-Puhuja 1: siellä
-Puhuja 1: on siellä Tuomas menee luontoon ja kysyy tekoälyltä, mitä täällä luonnos sanoo. Lauri sai jotenkin siitä fiiliksestä kiinni. Se vähän kuiskaavalla
-Puhuja 1: äänellä alkoi selittää, että Ilvesperhe,
-Puhuja 1: jonka olet nähnyt siellä, he ovat tällä hetkellä tällä. Sitten se selitti, minkä ikäisen pennut on nyt. Ja sitten se oli, että okei,
-Puhuja 1: kun monesti tekoälystä kysyn näitä eläinjuttuja,
-Puhuja 1: että ne kauriit, joita olet nähnyt, niin niillä on nyt
+Puhuja 1: Jotta ei pelkästään oman navan kaivelua, haluan sanoa sen, että mulla oli mahtava hetki Claudan kanssa.
+Puhuja 1: Lähistellään on semmoinen joki, jota pitkin tykkään kävellä koiran kanssa. Se on aivan ihastuttavan kaunis.
+Puhuja 1: Luojan kiitos, että sain mahtavan päähän pistää, että kysyin Claudelta,
+Puhuja 1: että hei, mä oon tässä joella nyt ja Claudia nyt suurin piirtein tietää, missä mun joki on ja näin.
+Puhuja 1: Että ne kauriit, joita olet nähnyt, niillä on nyt
 Puhuja 1: uroksilla
 Puhuja 1: kiima-aikaan
-Puhuja 1: loppumaisilla uroksitoilla ihan
-Puhuja 1: Voi katsoa
-Puhuja 1: tämmöisiä jälkiä puurungossa.
-Puhuja 1: Sitten screensoittaisin
-Puhuja 1: sinne mun Merlin Bird Idee lintubongaukset.
-Puhuja 1: Sitten se selitti mulle, että mitä kaikki ne linnut, mitä olen viimeisen kevään aikana siellä bongannut,
-Puhuja 1: että okei, toi on lähtenyt nyt jo sinne ja näin, näin ja näin. Sitten se kerta, miten kalat.
+Puhuja 1: loppumaisilla uroksi on ihan.
+Puhuja 1: Ja voi katsoa
+Puhuja 1: tämmöisiä jälkiä puurrungossa.
+Puhuja 1: Siitä screenshotsin
+Puhuja 1: sinne mun Merlin Bird Ide-lintubongaukset.
+Puhuja 1: Ja
+Puhuja 1: sitten se selitti mulle, että mitä kaikki ne linnut, mitä olen viimeisen kevään aikana siellä bongannut, että okei, toi on lähtenyt nyt jo sinne ja näin ja näin ja näin. Sitten se kerta, miten kalat.
 Puhuja 1: Sitten
 Puhuja 1: se kerta kaloista vaikka, että
 Puhuja 1: taimenen nousu
@@ -448,21 +442,22 @@ Puhuja 1: Kannattaa olla silleen herkillä. Sitten pyysin silleen, että mahtava
 Puhuja 1: Sen päätös oli, että nyt on meneillään semmoinen paussi. Kesä on loppu, nyt kesä on loppu. Seuraavaksi alkaa syksy ja ihan uusi räjähdys
 Puhuja 1: eläinten maailmaa. Sitten pyysin siltä lopulta, että hei laita mun kalenteriin tuleville viikonlopuille kaikki, mitä voin tulla bongailemaan
 Puhuja 1: Sitten se teki mulle kalenterimerkinnät
-Puhuja 1: lauantai aamuille, että okei, nyt voit mennä katsomaan, onko tullut näitä Linterää. Ai vitsi, tämä oli ihana hetki. Aivan mahtavaa, kiitos, Claude. Kokeilkaa kaikkia
+Puhuja 1: lauantai aamuille, että okei, nyt voit mennä katsomaan, onko tullut näitä Linterää. Ai vitsi, tämä oli ihana hetki. Aivan mahtavaa, kiitos, Claude.
+Puhuja 1: Kokeilkaa kaikkia
 Puhuja 1: tekoälyjenne kanssa.
-Puhuja 1: Siinä kaikki tältä erää. Kiitos Hanna Mahlamäki. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Petojoki-äänkuva.
+Puhuja 1: Okei, siinä kaikki tältä erää. Kiitos Hanna Mahlamäki. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Petojoki-äänkuva.
 Puhuja 1: Kaiken muun mahtavan meille tekee tällä viikolla Janne Elkki.
 Puhuja 1: Lähettäkää meille palautetta kaikissa kanavissa. Hei,
 Puhuja 1: kullan taas ensi viikolla.
 Puhuja 1: Moi, Tuomas tässä.
-Puhuja 1: Mun uusi podcast Menetetyt miljardi
-Puhuja 1: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
-Puhuja 1: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Merkko suuruudenhullu
+Puhuja 1: Mun uusi podcast Menetetyt miljardit,
+Puhuja 1: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 1: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin, Maikko suuuudenhullu
 Puhuja 1: päätös asettua välikappaleeksi
 Puhuja 1: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 1: Kaasukauppaan, joka päätyi aseeksi
 Puhuja 1: suurvaltapolitiikassa.
-Puhuja 2: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
 Puhuja 1: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 1: Mun eteen
 Puhuja 1: avautui

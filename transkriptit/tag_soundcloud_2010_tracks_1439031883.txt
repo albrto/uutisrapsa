@@ -15,10 +15,12 @@ Puhuja 0: menetetyt miljardit.
 Puhuja 2: Helsingin Sanomat.
 Puhuja 0: Hei, ja tervetuloa Helsingin Sanomat
 Puhuja 0: uutisrobotti-podcastiin.
-Puhuja 0: Tuo... Perstaina,
+Puhuja 0: Tuo...
+Puhuja 0: Perstaina,
 Puhuja 0: perjantaina.
 Puhuja 0: Perjantaina,
-Puhuja 0: kolme. Päivä helmikuuta
+Puhuja 0: kolme.
+Puhuja 0: Päivä helmikuuta
 Puhuja 0: vuonna kaksituhatta kaksikymmentäkolme.
 Puhuja 0: Eli kolmekymmentäkaksi
 Puhuja 0: kaksisataakaksikymmentätuhatta kaksikymmentäkolme.
@@ -106,13 +108,12 @@ Puhuja 0: yleisenosastokirjoituksen
 Puhuja 0: Helsingin Sanomiin, jossa hän
 Puhuja 0: nosti, että ne ongelmat on erilaisia.
 Puhuja 0: On fine puhua toisesta ongelmista
-Puhuja 2: ja sanoa, että toisia ei ole. Totta kai, mutta silloin, kun puhut parisuhteiden muodostamisesta tai
+Puhuja 2: ja sanoa, että toisia ei ole. Totta kai. Mutta silloin, kun puhut parisuhteiden muodostamisesta tai
 Puhuja 2: että löytääkö miehet naisia ja naiset miehiä, sä et oikein voi siivota
 Puhuja 2: pöydältä sitä toista. Koska ne linkittyvät tosi tiukasti. Se on mahdotonta. Sama kun oliikka eri puolilta. Mutta ehkä se, mistä varmaan olikin jotain vastakirjoituksia
 Puhuja 2: siitä, että
 Puhuja 2: onko se seksi se asia, jota varmasti sitäkin kaivataan, mutta onko se se, että me kuitenkin tiedetään, että yksinäisillä ihmisillä, varsinkin miehillä, kun he jäävät yksin
-Puhuja 2: siellä
-Puhuja 2: korvilla,
+Puhuja 2: siellä korvilla,
 Puhuja 2: niin sitten on ihan tällaisia,
 Puhuja 2: tuossa puhuttiin kirjoituksessa sydänkohtauksesta,
 Puhuja 2: mutta että on monenlaisia
@@ -134,38 +135,36 @@ Puhuja 2: huomioikaa tämä. Mutta se, mikä on sitten se seuraava askel, on tie
 Puhuja 2: se kysymys, että no mitä sitten?
 Puhuja 2: Eli
 Puhuja 2: mitä yhteiskunnalta tai poliitikolta toivottaisiin?
-Puhuja 0: Mun mielestä
-Puhuja 0: ei, Koska toi menee mun mielestä... Tuon keskustelun väistämätön lopputulos on silleen, että: No hei, pitääkö ruveta maksamaan paremisesta
+Puhuja 0: Mun mielestä ei,
+Puhuja 0: Koska toi menee mun mielestä... Tuon keskustelun väistämätön lopputulos on silleen, että: No hei, pitääkö ruveta maksamaan paremisesta
 Puhuja 0: verhelpotuksia
 Puhuja 0: joka spermävinia.
 Puhuja 2: Mutta hänellähän oli ehdotus. Hänellähän oli ehdotus
 Puhuja 2: jatkouutisessa,
-Puhuja 2: kun hän oli haastateltu. Ilta-Sanomissa. Entä Ilta-Sanomissa?
-Puhuja 3: Hänhän
-Puhuja 0: ehdotti avioliitossa pysyville verohelpotuksessa. Mä tiedän, kannatan. Kannatan. Kyllä. Mutta
-Puhuja 0: mun mielestä tässä on olemassa järkevä, hyvä keskustelu, mitä meidän tulisi käydä,
+Puhuja 2: kun hän oli haastateltu.
+Puhuja 2: Ilta-Sanomissa.
+Puhuja 0: Mitä meidän tulisi käydä,
 Puhuja 0: millä ei ole mitään poliittisia ulottuvuuksia, sillä ei ole mitään verohallinto-ohjelmaa,
 Puhuja 0: joka sen pohjalta pitäisi ponkaista. Mun
 Puhuja 0: mielestä
 Puhuja 0: tähän Räsäsen
-Puhuja 0: keskustelun avaukseen
+Puhuja 0: keskustelun
+Puhuja 0: avaukseen
 Puhuja 0: hänelle vastattiin
 Puhuja 0: mielipidekirjoitukset.
 Puhuja 0: Yksi oli
 Puhuja 0: tämmöinen feministisestä miesjärjestöstä, joka tekee hyvää tietoa ja hyvä järjestö. Mutta he olivat kirjoittaneet tämmöisen
 Puhuja 0: tekstin otsikolla Miesten hyvinvointi ei ole naisten vastuulla.
 Puhuja 0: Se teksti oli ihan fine, siinä oli pointtia.
-Puhuja 0: Se pointti oli tämä. Mun mielestä tässä on näkysällä
+Puhuja 0: Se pointti oli tämä. Mutta mun mielestä tässä on näkysällä
 Puhuja 0: jännä harha, koska miesten hyvinvointi on naisten vastuulla.
 Puhuja 0: Se on, mitä enenevissä määrin
 Puhuja 0: naisten vastuulla.
 Puhuja 0: Siis
-Puhuja 0: käytännössä,
-Puhuja 0: käytännössä
+Puhuja 0: käytännössä, käytännössä
 Puhuja 0: käytännön perhe,
 Puhuja 0: arki, parisuhdetyössä...
-Puhuja 0: Tämä
-Puhuja 0: ei ole se mun varsinainen pointti, mutta naiset
+Puhuja 0: Tämä ei ole se mun varsinainen pointti, mutta naiset
 Puhuja 0: vastaavat paljon miesten hyvinvoinnista.
 Puhuja 0: Heille kuuluu... Kunnia siitä, että he hyvin paljon vastaavat siitä, mikä on miesten hyvinvointi. Mutta mun pointti on enemmän filosofinen sillä tavalla, että totta kai se on naisten vastuulla, koska naisilla on niin
 Puhuja 0: käsittämättömän iso rooli miesten
@@ -238,11 +237,11 @@ Puhuja 0: läpi maapallon. Se on tärkeä dynamiikka.
 Puhuja 0: Mulla tulee vain surullinen fiilis
 Puhuja 0: sellaisista keskusteluissa, missä
 Puhuja 0: se dynamiikka on
-Puhuja 0: vastakkainen. Se, että ei hyväksytä sitä, että meidän tehtävä on huolehtia
+Puhuja 0: vastakkainen.
+Puhuja 0: Se, että ei hyväksytä sitä, että meidän tehtävä on huolehtia
 Puhuja 0: siitä vastakkaisesta sukupuolesta. Se johtuu
 Puhuja 2: monista somesta ja muista. Mutta en mä ole ihan samaa mieltä, että meillä on vastuu toisistamme
-Puhuja 2: ja yhteisönäkin pitää huolehtia. Mutta sitten me ollaan aina sen mitä kysymyksen äärellä. Äärellä.
-Puhuja 2: Sen takia mä haluaisinkin Markoa nyt haastaa tässä, että jos saa kuitenkin hypätä sinne politiikkaan, ratkaisuihin,
+Puhuja 2: ja yhteisönäkin pitää huolehtia. Mutta sitten me ollaan aina sen mitä kysymyksen äärellä. Äärellä. Sen takia mä haluaisinkin Markoa nyt haastaa tässä, että jos saa kuitenkin hypätä sinne politiikkaan, ratkaisuihin,
 Puhuja 2: Tuomas antaa nyt sen tilan sille,
 Puhuja 2: niin onko meillä hyviä kokemuksia siitä, kun
 Puhuja 2: poliitikot ovat tulleet
@@ -256,7 +255,7 @@ Puhuja 3: Ja kyllähän se tapahtuu koko ajan kaikkeen. Niin.
 Puhuja 2: Systeemi on tavallaan viritetty jo niin, että tuetaan lapsiperheitä aika paljon ja kaikki siihen pinnalle tuleva
 Puhuja 2: synnytystalkoo,
 Puhuja 2: puuhastelu tai muu, se on aika marginaalista tähän.
-Puhuja 2: Joo, eipä me ratkaistu tätä nyt. Mutta mun mielestä vietin keskustelua järkevimmille
+Puhuja 0: Joo, eipä me ratkaistu tätä nyt. Mutta mun mielestä vietin keskustelua järkevimmille
 Puhuja 0: raiteille.
 Puhuja 0: Okei.
 Puhuja 0: Sitten, kun
@@ -273,9 +272,9 @@ Puhuja 0: sen jälkeen.
 Puhuja 0: Jälkeen. Otatte sinisen enkelin ja rupeatte,
 Puhuja 0: koska teillä ei ole seuralaista, koska vihatte vastakkain, sukupuolta sukupuolta, niin rupeatte Barikolle
 Puhuja 0: kertomaan juttuja,
-Puhuja 3: niin mistäs hänelle?
-Puhuja 3: Aloitatko
-Puhuja 3: sinä.
+Puhuja 0: niin mistäs hänelle?
+Puhuja 0: Aloitatko minä?
+Puhuja 0: Aloitatko.
 Puhuja 3: Olisin puhua Pamela Anderssonista.
 Puhuja 0: Onko tässä teemassa pysit?
 Puhuja 3: Nuorevat kuulijat eivät ehkä muista Baywatcha,
@@ -290,11 +289,11 @@ Puhuja 3: kolumnik kehystetty, mutta tämä on tavallaan
 Puhuja 3: juttu, jossa toimittaja menee tapaamaan Pamel Anderson. Pamel Anderson muuttanut
 Puhuja 3: ensinnäkin vihettä,
 Puhuja 3: kanadalainen alun perin ja hän on muuttanut takaisin kotisaarelleen
-Puhuja 3: Vancuvor Islandelle, jossa itsekin olen ollut vaihto-oppilaana ja suhtaudun Vancu Sup Suplandiin hyvin lämpimästi. Kyllä.
+Puhuja 3: Vancuvor Islandelle, jossa itsekin olen ollut vaihto-oppilaana ja suhtaudun Vancu Sup Islandiin hyvin lämpimästi. Kyllä.
 Puhuja 3: Ihan pikkukylään siellä. Nyt toimittaja on tässä jutussa
-Puhuja 3: tapaamassa Pamela Andersonia ja hän
+Puhuja 3: tapaamassa Pamela Anderssonia ja hän
 Puhuja 3: aloittaa tämän jutun ja istuvat
-Puhuja 3: Pamela Anderson keittiön pöydän ääressä. Sitten toimittaja aloittaa sen esittelemällä ja Pamelan Anderssonille kännykkä-apin,
+Puhuja 3: Pamela Andersonin keittiön pöydän ääressä. Sitten toimittaja aloittaa sen esittelemällä ja Pamelan Anderssonille kännykkä-apin,
 Puhuja 3: millä voi oman kuvansa muuttaa Pamelan Andersonin näköiseksi.
 Puhuja 3: Jos otan oman kuvani, niin minusta tulee Pamelan Anderson joku
 Puhuja 3: sydämen muuttaen muuttaa. Se kysyi, että haluaisitko Pamelan Andersson
@@ -351,8 +350,8 @@ Puhuja 2: Tässä
 Puhuja 2: puheessa
 Puhuja 2: Kekkonen ehdotti,
 Puhuja 2: että tulisi pohjoismainen
-Puhuja 2: puolustusyhteistyöliitto
-Puhuja 2: Waterwork.
+Puhuja 2: puolustusyhteistyöliitto,
+Puhuja 2: Worldever.
 Puhuja 2: Tähän ehdotukseen
 Puhuja 2: kuului,
 Puhuja 2: se sisälsi ikään kuin ajatuksen siitä, että Norjan ja Tanskan pitäisi erota Natosta.

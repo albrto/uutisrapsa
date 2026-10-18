@@ -20,7 +20,8 @@ Puhuja 2: kaksikymmentäkaksi. Heinäkuuta.
 Puhuja 2: Sanomatalossa
 Puhuja 2: studiossa istuvat ulkomaantoimittaja
 Puhuja 2: Sara Vainio, moikka Sara!
-Puhuja 2: Moikka! Ja HS-vision toimittaja Emil Elo. Moikka, Emil! Moi!
+Puhuja 2: Moikka! Ja HSvision toimittaja
+Puhuja 2: Emil Elo. Moikka, Emil! Moi!
 Puhuja 2: Minun nimeni on Alma Onali ja minä en ole sanomatalossa,
 Puhuja 2: vaan Kouvolassa.
 Puhuja 2: Olen siis etänä linjoilla, ja Sara ja Emil ovat vain minun verbaalisten vihjeitteni varassa tässä lähetyksessä.
@@ -67,8 +68,7 @@ Puhuja 2: häirintätapauksia.
 Puhuja 2: Mites, Emil ja Sara, oletteko käyneet lukemassa
 Puhuja 2: näitä stooreja ja onko mikään skene lähellä teidän sydäntä?
 Puhuja 1: Kyllä mä kävin ne alkuperäiset
-Puhuja 1: punk
-Puhuja 1: setit lukemassa Instagramista.
+Puhuja 1: punk setit lukemassa Instagramista.
 Puhuja 1: Mähän olen siis ollut joskus
 Puhuja 1: ala yläasteella. Olin aika kovakin punk-skene
 Puhuja 1: tyyppi. Heti myönnettäköhän se tässä. Mä irkkasin punk. Fi kanavalla ja kävin katsomassa paljon
@@ -125,13 +125,12 @@ Puhuja 3: eli tosi erityyppisiä kiipeilulajeja
 Puhuja 3: on ikään kuin nivottu yhteen.
 Puhuja 3: Mutta
 Puhuja 3: kun nämä urheilijat on nyt pyrkinyt
-Puhuja 3: sinne olympialaisiin, niin
-Puhuja 3: se on tuonut ton kiipeilyskenen
+Puhuja 3: sinne olympialaisiin, niin ne on tuonut ton kiipeilyskenen
 Puhuja 3: ihanalla tavalla yhteen. Mäkin oon seurannut monen eri maan
 Puhuja 3: kiipeilyurheilijoita
 Puhuja 3: ekaa kertaa.
-Puhuja 1: Jotenkin toivoisin,
-Puhuja 1: että olympialaiset palaisivat sinne alkujuurilleen.
+Puhuja 1: Joo, jotenkin toivoisin, että olympialaiset
+Puhuja 1: palaisivat sinne alkujuurilleen.
 Puhuja 1: Oliko ne alkujuuret ihan nyt siellä, mutta joskus vielä oli sata vuotta sitten, että ne olivat amatöörien.
 Puhuja 1: Siellä ei saanut olla ammattilaiset
 Puhuja 1: ollenkaan.
@@ -165,7 +164,7 @@ Puhuja 4: varusteilla.
 Puhuja 4: Kaikki
 Puhuja 1: pitäisi sisäistää.
 Puhuja 1: Onko sinun argumentisi, että kaikkien pitäisi sisäistää Sanna Ukkola viime viikon kolumnin?
-Puhuja 1: Urheilulla ei ole mitään merkitystä ja pitäisi vaan
+Puhuja 1: Urheilulla ei ole mitään merkitystä ja pitäisi vain
 Puhuja 1: höntsätä ja ottaa rauhassa ja lukea kirjoja?
 Puhuja 4: En kyllä ehkä siihenkään lähde. Kyllä näen, että urheilussa on toki hyviäkin puolia.
 Puhuja 4: Tässä tiedän, että Saralla on eriävä mielipide,
@@ -359,12 +358,12 @@ Puhuja 1: lähdet vetämään.
 Puhuja 3: Niin, se on vain hirveän vaikeaa EU:lle aina, jos menetämme joku jäsenmaa. Siinä on myös se ongelma. Eihän Unkari tavallaan halua lähteä pois, niin ne saa tosi paljon. Mikä
 Puhuja 1: se on se syy,
 Puhuja 1: miksi on tehty ne klausulit sellaiseksi,
-Puhuja 3: että jäsenvaltiistot ei päästä eroon? En osaa sen nyt tästä
-Puhuja 3: mitenkään, mutta en usko, että EU myöskään haluaisi Unkarista eroon.
+Puhuja 1: että jäsenvaltiistot ei päästä eroon? En osaa sen nyt
+Puhuja 3: tästä mitenkään, mutta en usko, että EU myöskään haluaisi Unkarista eroon.
 Puhuja 3: Ehkä just tuollainen mahdollisuus puuttua siihen
 Puhuja 3: rahoitukseen olisi
 Puhuja 3: ainakin tässä tapauksessa tosi tehokas
-Puhuja 3: kannustin. Toi
+Puhuja 1: kannustin. Toi
 Puhuja 1: on tosi mielenkiintoinen
 Puhuja 1: case,
 Puhuja 1: mikä et tule päättyy.
@@ -471,7 +470,8 @@ Puhuja 4: Äänen, videon musiikin ja kaiken muun mukavan meille tällä viikoll
 Puhuja 4: äänitykseni on mennyt vähän
 Puhuja 4: pieleen täällä,
 Puhuja 4: eli
-Puhuja 4: jos ääni kuulostaa podcastista huonolta niin se ei ole Mikon, vaan se on minun vika. Laittakaa meille kesätiimiläiselle
+Puhuja 4: jos ääni kuulostaa podcastista
+Puhuja 4: huonolta niin se ei ole Mikon, vaan se on minun vika. Laittakaa meille kesätiimiläiselle
 Puhuja 4: kaikkea kivaa ja työpäivää palautetta,
 Puhuja 4: uutisraportti
 Puhuja 4: Voikaa
@@ -480,8 +480,7 @@ Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
-Puhuja 0: Kaiken keskiössä on yhden suomalaisen
-Puhuja 0: yrityksen eli Fortumin, melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan, joka päätyi aseeksi aseeksi suurvaltapolitiikassa.
 Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.

@@ -16,8 +16,7 @@ Puhuja 1: Helsingin
 Puhuja 1: Sanomat.
 Puhuja 1: No niin. Hei ja tervetuloa Helsingin
 Puhuja 1: Sanomien uutisraportti
-Puhuja 1: podcastiin
-Puhuja 1: torstaina
+Puhuja 1: podcastiin torstaina
 Puhuja 1: kahdeksantoista. Elokuuta.
 Puhuja 1: Meikäläisen nimi on Joona Aaltonen ja minun kanssani täällä Sanomatalon
 Puhuja 1: äänitysstudiossa
@@ -32,7 +31,7 @@ Puhuja 3: Moi. Mä oon vähän järkyttynyt tästä kuvauksesta, mutta tää on 
 Puhuja 2: Sä et ole ainoa, joka on tänään järkyttynyt siitä, että
 Puhuja 2: häntä kuvataan,
 Puhuja 2: joten sopii päivän teemaan tosi hienosti. Kyllä. Ja tällähän viitataan
-Puhuja 1: siihen, että uutisraportti näytetään livenä meidän Facebook sivuilta. Eli terveiset kaikille siellä tätä nyt katsoville.
+Puhuja 1: muun muassa siihen, että uutisraportti näytetään livenä meidän Facebook sivuilta. Eli terveiset kaikille siellä tätä nyt katsoville.
 Puhuja 1: Tänään meillä on perinteiseen tapaan kolme aihetta. Tämän viikon podcastissa keskustellaan
 Puhuja 1: ensinnäkin
 Puhuja 1: Sanna Marinin
@@ -46,8 +45,7 @@ Puhuja 1: Lopuksi meillä vielä perinteiseen
 Puhuja 1: tuttuun tapaan hyviä keskustelun aiheita pitkien epämukavien hiljaisuuksien
 Puhuja 1: varalle.
 Puhuja 1: Mutta aloitetaan
-Puhuja 1: ensimmäisestä
-Puhuja 1: aiheesta, joka ehkä on se
+Puhuja 1: ensimmäisestä aiheesta, joka ehkä on se
 Puhuja 1: tämän päivän suurin
 Puhuja 1: uutisaiheelle. Ei tässä iltapäivällä nyt jotain
 Puhuja 1: oikein massiivista tapahdu. Elikkä
@@ -75,19 +73,16 @@ Puhuja 1: keskusteluista
 Puhuja 1: välillä. Siellä ei kaikki keskustelu aina välttämättä ole ihan asiallista.
 Puhuja 2: Ne
 Puhuja 2: videothan on selvästi tällaisia kuvakaappauksia,
-Puhuja 2: jotka on otettu Instagramista
-Puhuja 1: ilmeisesti. Siltä ne näyttää.
-Puhuja 2: Eli kyse on siitä,
+Puhuja 2: jotka on otettu Instagramista ilmeisesti.
+Puhuja 2: Siltä ne näyttää. Eli kyse on siitä,
 Puhuja 2: Sanna Marin on ollut bailaamassa kavereittensa kanssa
 Puhuja 2: ja hänen ystävänsä
 Puhuja 2: on
-Puhuja 2: tällaiselle suljetulle
-Puhuja 2: Instagram-tilille
+Puhuja 2: tällaiselle suljetulle Instagram-tilille
 Puhuja 2: jakanut näitä videoita. Siellä on hänellä ollut yhdeksänkymmentäkaksi seuraajaa.
 Puhuja 2: Se on siis salainen tili, että hän voi itse vain hyväksyä
 Puhuja 2: ne käyttäjät, jotka videot näkee.
-Puhuja 2: Varmaan tämä henkilö on luullut,
-Puhuja 2: että tämä
+Puhuja 2: Varmaan tämä henkilö on luullut, että tämä
 Puhuja 2: yhdeksänkymmentäkaksi
 Puhuja 2: ihmistä on jonkinlainen
 Puhuja 2: luotettava sisäpiiri.
@@ -117,9 +112,9 @@ Puhuja 2: Siinä on mun mielestä jotakin, mikä jopa tällaisen, minun kaltaise
 Puhuja 2: urheilun yleisen...
 Puhuja 2: Tai siis penkkiurheilun karsastajan
 Puhuja 2: saa kokemaan jotain suurta. Mun mielestä erityisen
-Puhuja 1: sykähdyttävää
-Puhuja 1: tässä oli se,
-Puhuja 1: miten Twitterissä tähän reagoitiin. Tää on nyt taas. Pahoittelen kaikille tällaista toimittajamaneria.
+Puhuja 1: jotenkin sykähdyttävää
+Puhuja 1: tässä oli se, miten
+Puhuja 1: Twitterissä tähän reagoitiin. Tää on nyt taas. Pahoittelen kaikille tällaista toimittajamaneria.
 Puhuja 1: Minä seurasin asiaa vain
 Puhuja 1: Twitteristä. En katsonut
 Puhuja 1: yleisurheilukisoja,
@@ -147,15 +142,17 @@ Puhuja 3: ja on, tällainen todella myönteinen uutinen.
 Puhuja 3: Aamulla
 Puhuja 3: on lööppien
 Puhuja 3: kuitenkin ykköskuvat
-Puhuja 3: iltapäivällä. Se olisi päämiehenserkannut
-Puhuja 2: Coca Investinlle.
+Puhuja 3: iltapäivällä. Se olisi päällimmäisenä menossa Coca Investinlle.
 Puhuja 3: On juuri
 Puhuja 3: tuo eikä se hieno hyppykuva,
 Puhuja 3: joka olisi ollut tosi kiva nähdä siinä. Sä olit. Tässä olisi
 Puhuja 1: ollut ihan makustella
 Puhuja 1: yksi päivä ja olla
-Puhuja 1: sellaisissa iloisissa tunnelmissa. Ja sitten vasta vaikka huomenna
-Puhuja 2: pääministerikeskusteluun. Tää on yksi hyvä päivä. Edes yksi hyvä päivä. Olisitteko antanut edes sen? Mun täytyy vielä sanoa tästä urheilusta, että mä tosiaan usein en katso televisiosta urheilua, mutta yleisurheilu on sellainen, että jos sitä tulee, niin sitä mä yleensä jämähdän katsomaan. Yleisurheilussa on mun mielestä
+Puhuja 1: sellaisissa iloisissa tunnelmissa. Ja sitten vasta vaikka huomenna olisi menty tähän
+Puhuja 3: pääministerikeskusteluun. Tää on yksi hyvä päivä.
+Puhuja 2: Edes yksi hyvä päivä. Olisitteko antanut edes sen? Mun täytyy vielä sanoa tästä urheilusta, että mä tosiaan usein
+Puhuja 2: en katso televisiosta urheilua, mutta yleisurheilu
+Puhuja 2: on sellainen, että jos sitä tulee, niin sitä mä yleensä jämähdän katsomaan. Yleisurheilussa on mun mielestä
 Puhuja 2: kiinnostava, kun lajikirjo on niin laaja ja sitten on kiinnostavaa,
 Puhuja 2: miten niistä urheilijoista
 Puhuja 2: näkee,
@@ -169,8 +166,7 @@ Puhuja 2: keihäänheittäjällä.
 Puhuja 2: Mun mielestä
 Puhuja 2: yleisurheilussa tiivistyy
 Puhuja 2: vielä enemmän
-Puhuja 2: urheilun
-Puhuja 2: turhuuden kauneus. Sen takia, että mä ymmärrän vaikka pallopeleissä, niin siinähän tulee sellaista joukkueen imua ja on sitä, että meillä on tää tiimi ja me pelataan ja on piopolätkää ja kaikkea sellaista.
+Puhuja 2: urheilun turhuuden kauneus. Sen takia, että mä ymmärrän vaikka pallopeleissä, niin siinähän tulee sellaista joukkueen imua ja on sitä, että meillä on tää tiimi ja me pelataan ja on piopolätkää ja kaikkea sellaista.
 Puhuja 2: Ymmärrän ehkä helpommin sen, että miksi joku alkaa pelaamaan jääkiekkoa kuin sen, että miksi joku alkaa
 Puhuja 2: kolmiloikkaajaksi.
 Puhuja 2: Tiedättekö?
@@ -178,7 +174,7 @@ Puhuja 2: Kuka on vaan lapsena silleen, että
 Puhuja 2: minä haluan hypätä pituutta. Kolmella loikalla niin pitkälle kuin mahdollista. Niin ja sitten sitä yhtä asiaa hinkaat silleen vuosia.
 Puhuja 2: Mutta sitten siinä on jotakin sellaista, että mä oon silleen, että tätä
 Puhuja 2: lisää.
-Puhuja 2: Nyt mä alan kuulostaa joltain Seppo Rädyltä vai keneltä mä alan kuulostaa
+Puhuja 2: Nyt mä alan kuulostaa joltain Seppo Rädyltä vai kelta mä alan kuulostaa
 Puhuja 1: Seppo Räfyy ehkä suomalaisen urheilun vähäpuheisin
 Puhuja 1: mies.
 Puhuja 1: Ja alamme Onali vertaa itseään hänen.
@@ -191,9 +187,10 @@ Puhuja 2: ystäväni ja tämänkin podcastin
 Puhuja 2: ystävä Sara Vainio kertoi, että kuulantyöntö
 Puhuja 2: on englanniksi
 Puhuja 2: hot-put.
-Puhuja 1: Oletteko ikinä kuullut? No en kieltämättä.
+Puhuja 2: Oletteko ikinä kuullut? No en kieltämättä.
 Puhuja 1: En ole urheilusanaston
-Puhuja 2: englanninkielisiin termeihin perehdemmin. Siis erityisemmin. Shotput ei olisi ikinä tullut mulle mieleen. Jos joku olisi sanonut, että nyt sun pitää äkkiä sanoa, mikä on englanniksi kuulantyöntö,
+Puhuja 1: englanninkielisiin termeihin perehdemmin. Siis erityisemmin.
+Puhuja 2: Shotput ei olisi ikinä tullut mulle mieleen. Jos joku olisi sanonut, että nyt sun pitää äkkiä sanoa, mikä on englanniksi kuulantyöntö,
 Puhuja 2: niin en olisi sanonut,
 Puhuja 2: mutta tiedättekö mitä olisin sanonut? Olisin sanonut, että se on Google droing!
 Puhuja 2: Ja mun mielestä Google droing on paljon parempi sana kuin Shotput.
@@ -226,7 +223,7 @@ Puhuja 1: Niin tai siis mulla on ehkä tietty vääristymä, koska mä en seuraa
 Puhuja 1: trauma
 Puhuja 1: suomalaisen
 Puhuja 1: epäonnistumassa yleisurheilussa. Jotenkin tämä havahdutti mut siitä, että
-Puhuja 1: Suomellakin on mahdollisuuksia. Mulla on aina jotenkin tunnelmana tai olona se, että muissa maissa ihmiset vetää kuitenkin paremmin. Me ollaan tällainen piskuinen Suomi ja täältä nyt kukaan ei nouse urheilun huipulle tosissaan. Tää herätti mussa pienen
+Puhuja 1: Suomellakin on mahdollisuuksia. Tai mulla on aina jotenkin tunnelmana tai olona se, että muissa maissa ihmiset vetää kuitenkin paremmin. Me ollaan tällainen piskuinen Suomi ja täältä nyt kukaan ei nouse urheilun huipulle tosissaan. Tämä herätti mussa pienen
 Puhuja 1: ajatuksen.
 Puhuja 2: Suomalainen voi oikeasti olla hyvä urheilussa. Mulla alkoi soimaan Finlandia päässä, kun kuuntelin sinua.
 Puhuja 2: Oi että! Nyt meni ihan kansallisromanttiseksi
@@ -303,8 +300,7 @@ Puhuja 2: niin Pyyttielä kertoo, että
 Puhuja 2: Cave oli ottanut hänen suoran kontaktin sieltä lavalta,
 Puhuja 2: kävellyt hänen luokseen.
 Puhuja 2: Oli ilmeisesti siis, oliko laittanut käden hänen päälle vai ottanut kädestä kiinni. Joku tällainen kontakti siinä oli ja oli katsonut
-Puhuja 2: villeä silmiin
-Puhuja 2: ja sanonut:
+Puhuja 2: villeä silmiin ja sanonut:
 Puhuja 2: Ready big guy,
 Puhuja 2: you know looked beautiful.
 Puhuja 2: You really do.
@@ -339,10 +335,13 @@ Puhuja 2: viikon
 Puhuja 2: ihana juttu. Kannattaa käydä lukemassa tämä juttu ja kuunnella vaikka nikkeiviä.
 Puhuja 1: Ihana, kun sulla oli täällä. Sano vaan Matelda. Itse
 Puhuja 3: olin
-Puhuja 3: siellä aika eturivissä. Olen, kokemusasiantuntija
-Puhuja 1: kerrankin
-Puhuja 3: jossain elämässäni. Ja tota
-Puhuja 3: noin, näin tämän hetken toisesta rivistä
+Puhuja 3: siellä aika eturivissä.
+Puhuja 3: Olen, sitäkin oli kokemusasiantuntija.
+Puhuja 3: Kokemusasiantuntija
+Puhuja 3: kerrankin
+Puhuja 3: jossain elämässäni.
+Puhuja 3: Ja tota noin, näin tämän hetken toisesta
+Puhuja 3: rivistä
 Puhuja 3: tällä keikalla, jota myös odotin edellisestä keikasta.
 Puhuja 3: Se oli kaunis hetki myös paikan päällä.
 Puhuja 3: Hän ei valehellut.
@@ -365,8 +364,8 @@ Puhuja 1: On ollut puhetta siitä, että sitä saatettaisi käyttää jollain ta
 Puhuja 1: Venäjän
 Puhuja 1: hyökkäysaseena
 Puhuja 1: jopa tätä
-Puhuja 1: ydinvoimalaa ja jotenkin ehkä vaurioittaa
-Puhuja 1: sitä tai
+Puhuja 1: ydinvoimalaa ja jotenkin ehkä vaurioittaa sitä
+Puhuja 1: tai
 Puhuja 1: on ollut
 Puhuja 1: ikävää maalailua
 Puhuja 1: siitä, että siellä saattaisi tapahtua jotain ikävää siellä ydinvoimalalla.
@@ -394,7 +393,7 @@ Puhuja 1: ylivoimamuudesta
 Puhuja 1: ja miten se jotenkin handlattiin siellä tai miten sitä ei handlattu
 Puhuja 1: nimenomaan
 Puhuja 1: siellä. Siinä missä usein
-Puhuja 1: nuo Zhernobyilia käsittelevät kirjat ja dokumentit keskittyy
+Puhuja 1: tsernobyilia käsittelevät kirjat ja dokumentit keskittyy
 Puhuja 1: siihen, mitä
 Puhuja 1: tapahtui, kuka painoi mitäkin nappia ja kenen olisi pitänyt toimia toisin ja tän tyyppiseen. Mutta se kertoo
 Puhuja 1: niistä ihmisistä, jotka oli sammuttamassa
@@ -411,10 +410,10 @@ Puhuja 3: ja
 Puhuja 3: hellejaksoihin.
 Puhuja 3: Okei, tämä on pitkän aikavälin suositus. Joo, tämä on tällainen, että ihan koko loppuikänsä
 Puhuja 3: saa
-Puhuja 3: useamman kymmenen vuoden
-Puhuja 3: suositus. Mutta siis I feel you, koska on ollut heille
-Puhuja 2: aivan vetin kuuma. Siis tänään viime viikolla. Siis tänä iltana. Todella painostatunut.
-Puhuja 3: Olen lukenut näitä
+Puhuja 3: useamman kymmenen vuoden suositus.
+Puhuja 3: Mutta siis I feel you, koska on ollut heille
+Puhuja 2: aivan vetin kuuma. Siis tänään viime viikolla. Siis tänä iltana. Todella painostateleva.
+Puhuja 3: Ja olen lukenut näitä
 Puhuja 3: tulevaisuusennusteita
 Puhuja 3: teitä. Niissä on
 Puhuja 3: korostettu tätä, että
@@ -430,7 +429,9 @@ Puhuja 1: aloittanut
 Puhuja 1: vielä ite minkäänlaista
 Puhuja 1: reagointia
 Puhuja 3: tähän kuuluu? Minähän aina lopetan työnteon silloin yhden aikaan.
-Puhuja 2: Se, kun ihmettelee, mikä möikkö siellä töiden alla on on. Siellä on vaan Matilda imemässä sangriasta, josta on Ruukusta foliosondreo päässä. Kauheet stereotypiat tähän loppuun. Nyt mä oon odottanut näitä suosituksia. Tosi hyvä. Ihana maailmanlopun suositukset teillä molemmilla. Kiitti vaan.
+Puhuja 1: Se, kun ihmettelee, mikä möikkö siellä töiden alla on, niin on. Siellä on vaan Matilda imemässä sangriasta, josta on Ruukusta
+Puhuja 2: foliosondreo päässä. Kauheet stereotypiat tähän loppuun. Nyt mä oon odottanut näitä suosituksia.
+Puhuja 2: Tosi hyvä. Ihana maailmanlopun suositukset teillä molemmilla. Kiitti vaan.
 Puhuja 1: Kiitos, kiitos.
 Puhuja 1: Mun mielestä
 Puhuja 1: vakavasti vielä puheen. Mun mielestä Matia on aiheellinen suositus siihen nähden, että jos ei oo mitenkään varautunut siihen, niin se voi jotenkin iskeä aika kovasti se lämpötilojen nousu, jos siihen ei ole tottunut. Rieach!
@@ -471,7 +472,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

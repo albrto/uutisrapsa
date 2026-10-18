@@ -1,392 +1,470 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiönkaan Inkolopodcastin
-Puhuja 0: toinen kausi on kuunneltavissa Helsingin Sanomien
-Puhuja 0: sovelluksessa sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan kaninkoloon.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
 Puhuja 1: Helsingin Sanomat.
-Puhuja 2: Hei, ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
-Puhuja 2: torstaina
-Puhuja 2: kolmetoista.
-Puhuja 2: Päivä elokuuta vuonna kaksituhatta kaksikymmentäkuusi. Mun nimi on Tuomas Peltomäki ja kanssani täällä Helsingin Sanomien
-Puhuja 2: podcaststudiossa
-Puhuja 2: Helsingissä
-Puhuja 2: Suomi-nimisen
-Puhuja 2: Eurooppalaisen maan pääkaupungissa
-Puhuja 2: vuodesta tuhat kahdeksansataayhdeksän
-Puhuja 2: muistaakseni.
-Puhuja 2: En ota vastaan oikaisuja.
-Puhuja 2: Marko
-Puhuja 2: Junkkari, politiikan toimittaja Helsingin Sanomissa. Hei vaan Marko. No heisana.
-Puhuja 2: Sen lisäksi
-Puhuja 2: tässä samassa huoneessa
-Puhuja 2: on
-Puhuja 2: Helsingin Sanomien tutkivien juttujen
-Puhuja 2: tekijä
-Puhuja 2: numero yksi,
-Puhuja 2: kaksi ja kolme.
-Puhuja 1: Kaikki sieltä täyttää Salla Vuorikoski. Hei vaan Salla. Terve, Tuomas ja terve, Marko. Onpas kiva. Meillä oli hyvä kesätiimi,
-Puhuja 1: mutta kyllähän me ilolla tullaan takaisin tänne. Nyt oli kyllä ihan poikkeuksellisen hyvä kesätiimi.
-Puhuja 1: Käykö se, mitähän se yrittää vallankumousta?
-Puhuja 2: Mun mielestä pitäisi
-Puhuja 2: olla semmoinen prosessi, missä tullaan kesätiimiksi ja sen jälkeen jatketaan omalla podcastilla.
-Puhuja 3: Niin tai olisi linnoittautunut tänne ja sanonut, että me ei enää päästä.
-Puhuja 3: Olisi koputeltu
-Puhuja 2: oven takana. Saisikö meille nollaa. Se olisi meille nollaa. Toisaalta olen hyvin tyytyväinen,
-Puhuja 2: jos
-Puhuja 3: tämä podcast siirtyisi eteenpäin jossain vaiheessa. Olisiko meidän Sitten oli hauskaa, että pääsee vielä ehdokkuudesta, joten tämänkin luin, että siellä riittää,
-Puhuja 3: että kerää kymmenen
-Puhuja 3: kannattajakorttia
-Puhuja 3: ja maksaa viisisataa puntaan ja pääsee ehdolle.
-Puhuja 1: Joo, se ei ole iso raha. Kyllähän
-Puhuja 1: se paras voittaa sen, se on ilmeisen selvää, mutta se on hänelle ongelma jo pelkästään, jos vastustajapää
-Puhuja 1: saa
-Puhuja 1: ison äänimäärän?
-Puhuja 2: Minulla tämä sotkeutui ehkä vähän ajallisesti, mutta näen jotain
-Puhuja 2: yhteneväisyyttä
-Puhuja 2: siinä, että yksi lempipoliitikoistani,
-Puhuja 2: eli EI OC,
-Puhuja 2: Aleksandra O Cassio Corteessa
-Puhuja 2: Yhdysvalloissa,
-Puhuja 2: niin hän on hyvin näkyvästi
-Puhuja 2: Instagramissa
-Puhuja 2: ja internetissä kertonut,
-Puhuja 2: että hän aloittaa
-Puhuja 2: munasolujensa
-Puhuja 2: pakastamisen.
-Puhuja 2: Hän myös kertoi, että hän eroaa
-Puhuja 2: kumppanistaan.
-Puhuja 2: Oho, okei.
-Puhuja 2: Tämä kaikki tapahtui yhtä aikaa, kun spekuloidaan
-Puhuja 2: todella kovasti, että lähteekö
-Puhuja 2: kasiokorteessa
-Puhuja 2: presidenttiehdokkaaksi
-Puhuja 2: demareille.
-Puhuja 2: En väitä missään nimessä, että mikään tässä merkitsee, että lähtee, mutta ajallisesti tämä landaa aika tiukasti niihin spekulaatioihin.
-Puhuja 2: Sitten tässä ympärillä
-Puhuja 2: on demokraateille muodostumassa voimablokki,
-Puhuja 2: jossa on muun muassa New Yorkin aika tuore pormestari, Mamdaan,
-Puhuja 2: ja
-Puhuja 2: sitten AOC
-Puhuja 2: ja Sosiaalistiset demokraatit,
-Puhuja 2: tämmöinen pikku ryhmittymittymä. Siellä on keräämässä paljon huomiota, paljon voimaa.
-Puhuja 2: Minä
-Puhuja 2: katsoin toisaalta
-Puhuja 2: count Binfaea,
-Puhuja 2: sitten minä katsoin
-Puhuja 2: Trumpia,
-Puhuja 2: sitten minä katsoin Nigle Farashia,
-Puhuja 2: sitten minä katson mambdaania ja sitten minä katson ei ole siitä. Ja ne ovat poliittisesti hyvin erilaisia. Joillakin on poliittisesti tosi paljon järkeä, ja minä tarkoitan, että olen samaa mieltä, mutta se on poliittisesti järkevää sisältö ja siinä puhutaan asiaa, kuten vaikka Mandaanilla on tosi
-Puhuja 2: tiukasti New Yorkin asiat kuntoon ja tälleen näin ja näin, mutta se on tosi taitavasti somessa
-Puhuja 2: viestitty.
-Puhuja 2: Ei ole siitä taas vähän yllättäen
-Puhuja 2: yhtäkkiä valjasti koko somensa voiman tälle
-Puhuja 2: munasolujen
-Puhuja 2: pakastuskeskustelulle. Ja totta kai sitä kautta hän ohjaa,
-Puhuja 2: ja omissa puheessaankin hän ohjaa, että se, mitä hän tekee juuri nyt,
-Puhuja 2: että hän käyttää auton verran rahaa siihen, että hän voi tehdä tämmöisen lääketieteellisen
-Puhuja 2: proseduurin itselleen.
-Puhuja 2: Tämä ei todellakaan ole kaikkien käytössä. Sitten on totta kai FarAS,
-Puhuja 2: joka tosi törkeästi käyttää tätä Britannian vaalihommaa siihen, että saa omat epäilykset keplotettua
-Puhuja 2: omasta niskasta. Sitten on tämä Counthynfaecen,
-Puhuja 2: joka on täysin somehahmo.
-Puhuja 2: Tässä ei ole varmaan edes mitään kysymystä,
-Puhuja 2: mutta
-Puhuja 2: tajusin sen, että se, mikä alkoi Trumpin outoutena,
-Puhuja 2: että ei, että toi tviittaa
-Puhuja 2: ja puhuu tuommoisia
-Puhuja 2: Se vähän vielä oli semmoista uutta ja outoa, kun se jakoi niitä AI-videoita,
-Puhuja 2: missä Gaasan
-Puhuja 2: kadut oli silattu kullalla ja oli
-Puhuja 2: hotelleja siellä. Ja ehkä vielä sitten, kun tehtiin meemejä näistä, eiding the Caths ja eiding the Docs ja näin, silloin se vielä vähän tuntui oudolta
-Puhuja 2: neljä vuotta sitten jotain tällaista.
-Puhuja 2: Ja nyt se on
-Puhuja 2: ihan vaan se havainto, kun minä katsoin koko tätä kavalkadia
-Puhuja 2: poliitikkoja,
-Puhuja 2: se on solidifioitunut,
-Puhuja 2: että tämä on
-Puhuja 2: tärkein
-Puhuja 2: osa politiikkaa, tämä.
-Puhuja 2: Kaikki nämä
-Puhuja 2: munasolujen pakastamiset, Binfacsit,
-Puhuja 2: Trubit, Farasit, näin, se on tärkein
-Puhuja 2: osa politiikkaa, se
-Puhuja 2: spektaakkeli,
-Puhuja 2: se huomionhaku
-Puhuja 2: ja saaminen
-Puhuja 2: tosi taitavasti somessa. Se on isoin osa politiikkaa tällä hetkellä. Ja mä en tiedä yhtään,
-Puhuja 2: että mitä tämä tarkoittaa maailmalle.
-Puhuja 2: Se
-Puhuja 2: on se numero ykkönen. Se on kaikista olennaisin kulmakivi siinä, että mitä on olla menestyvä poliitikko,
-Puhuja 2: on olla menestyvä Instagram
-Puhuja 3: some-tyyppi. Oi, että mitä uutta tuossa on?
-Puhuja 3: Kyllä se, minä väitän, että tässä on. Näin on, että ihan samalla keskustelu käytiin aikoinaan, kun tuli televisiota, että onko se oikein, että joku John F. Genned on hyvä telkkarissa?
-Puhuja 2: Niin,
-Puhuja 2: mutta varsinkaan John F. Gennedin aikainen televisio
-Puhuja 2: ei dominoi joka ihmisen, joka ikistä valveillaolossekuntia
-Puhuja 2: kellon ympäri algoritmisella
-Puhuja 2: tekoälytarkkuudella.
-Puhuja 3: Sitä ei tapahdu. Siitä huolimatta kyllähän tämä huomion hakeminen
-Puhuja 1: ja pyrkimys viestiä suoraan kansalaisille on ollut iät ja ajat. On, ja sitten se, mitä siinä ajattelee, että samalla kun yksityisestä on todella tullut poliittista,
-Puhuja 1: että kaikki munasolujen
-Puhuja 1: pakastamiset ja muut tuodaan
-Puhuja 1: tavallaan omat lenkkeillyt tai punnertamiset tai mitkä hyvänsä
-Puhuja 1: erikoisjoukoissa pyörimiset
-Puhuja 1: ynnä muut tuodaan
-Puhuja 1: äänestäjien silmille ja haetaan sillä sitä poliittista huomiota. Sinä olet mielestäni ihan oikeassa, että sehän on
-Puhuja 1: tehokkain ja ehkä käytetyin keino,
-Puhuja 1: nämä kaikki huomiohakuisuusasiat.
-Puhuja 1: Mutta samaan aikaan mietin sitä, että jossain on kuitenkin se oikea politiikka, jossa
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
+Puhuja 0: torstaina
+Puhuja 0: kolmetoista.
+Puhuja 0: Päivä elokuuta
+Puhuja 0: vuonna kaksituhatta kaksikymmentäkuusi.
+Puhuja 0: Mun nimi on Tuomas Peltomäki ja Kanssani täällä Helsingin Sanomien
+Puhuja 0: podcaststudiossa
+Puhuja 0: Helsingissä
+Puhuja 0: Suomi-nimisen
+Puhuja 0: Eurooppalaisen maan pääkaupungissa
+Puhuja 0: vuodesta tuhat kahdeksansataayhdeksän
+Puhuja 0: muistaakseni,
+Puhuja 0: en ota vastaan oikaisujan.
+Puhuja 0: On Marko Junkkari,
+Puhuja 0: politiikan toimittaja Helsingin Sanomissa.
+Puhuja 0: Hei vaan, Marko.
+Puhuja 2: Heisana.
+Puhuja 0: Sen lisäksi
+Puhuja 0: tässä samassa huoneessa
+Puhuja 0: on
+Puhuja 0: Helsingin Sanomien tutkivien
+Puhuja 0: juttujen tekijä
+Puhuja 0: numero yksi,
+Puhuja 0: kaksi ja kolme.
+Puhuja 1: Kaikki sieltä täyttää Salla Vuorikoski, hei vaan Salla. Terve Tuomas ja terve, Marko. Opas kiva. Meillä oli hyvä kesätiimi,
+Puhuja 1: mutta kyllähän me ilolla tullaan takaisin tänne. Nyt oli kyllä ihan
+Puhuja 0: poikkeuksellisen hyvä kesätiimi.
+Puhuja 1: Mikä syy, mitähän se yrittää vallankumousta?
+Puhuja 0: Mun mielestä pitäisi
+Puhuja 0: olla semmoinen prosessi, missä tullaan kesätiimikseen ja sen jälkeen jatketaan omalla podcastilla.
+Puhuja 2: Niin tai jos linnoittautunut tänne ja sanoo, että ei enää päästä.
+Puhuja 2: Olisi loputeltu
+Puhuja 2: oven takana. Se olisi
+Puhuja 1: meille nollaa.
+Puhuja 0: Toisaalta olen hyvin tyytyväinen, jos
+Puhuja 0: tämä podcast siirtyisi eteenpäin jossain vaiheessa.
+Puhuja 2: Olisiko meidän aika väistyä
+Puhuja 0: jo eläkkeellä? Niin, onhan siinä
+Puhuja 0: jotain
+Puhuja 1: sellaista tyylikästä. Niinhän se on, että tavallaan valtahan turmelee
+Puhuja 1: niin kuin meidätkin. Kun me olemme tässä podin vallassa,
+Puhuja 1: me turmelutaan
+Puhuja 1: hitaasti ja tarvitaan
+Puhuja 1: tavallaan vastaliike ja kapina, jotta se ravistelee. Tämähän toimii politiikassakin, eikö niin Marko? Miten sinun turmelutuneisuus
+Puhuja 1: tunnelisuus ilmenee? No kaikilla
+Puhuja 1: erilaisilla tavoilla.
+Puhuja 0: Kesätiimissä oli
+Puhuja 0: mukana tänä vuonna,
+Puhuja 0: mitä v*ttoaine näille minun
+Puhuja 0: muistiinpanoille
+Puhuja 0: on tapahtunut, kun ne häviää täältä?
+Puhuja 0: Waht, no niin, Topi, Tuija, Jonne ja Pihla.
+Puhuja 0: Kiitos heille aivan erittäin paljon. Aivan
+Puhuja 0: mahtava veto. Olin tosi, tosi
+Puhuja 0: jotenkin iloinen siitä, miten tämä kaikki
+Puhuja 0: sujuu. Vaikka sanon näin ja tässä on tosi paljon positiivisuutta ja optimismia, niin me joudutaan kyllä nyt soittamaan
+Puhuja 0: heiltä oikaisen.
+Puhuja 0: No niin. Tässä John?
+Puhuja 3: Hei vain.
+Puhuja 3: John täällä vielä podcast haudan takaa.
+Puhuja 3: Ensin pidempi oikaisu.
+Puhuja 3: Viime viikolla seutan tilanteesta puhuessamme sanoimme toistuvasti,
+Puhuja 3: ettei seuta kuuluisi Schengen-alueeseen.
+Puhuja 3: Tämä ei ole totta, vaan seuta on osa Schengen-iä, kuten emämaa-Espanjakin.
+Puhuja 3: Schengenin yleisimmin liitetty oikeus ylittää rajoja ilman passin tai muiden asiakirjojen tarkastuksia
+Puhuja 3: ei kuitenkaan päde seutaan, vaan alueelta Espanjaan tai muualle Schengen-alueelle
+Puhuja 3: liikkuva matkustaja
+Puhuja 3: joutuu rajatarkastuksiin.
+Puhuja 3: Käytännössä seuta on siis Schengen-ulkorajaa
+Puhuja 3: ja se osallistuu Schengen-sisäisten
+Puhuja 3: viranomaisten väliseen tiedonvaihtoon,
+Puhuja 3: mutta alueelle tulleet siirtolaiset
+Puhuja 3: eivät olisi pystyneet lähtemään seudasta ilman rajatarkastuksia.
+Puhuja 3: Kuten jaksossa sanottiin,
+Puhuja 3: EU-asioista
+Puhuja 3: uutisuudessa menee aina jotain pieleen
+Puhuja 3: ja oikaisuun.
+Puhuja 3: Toinen oikaisu liittyy korkeakoulumaksuihin.
+Puhuja 3: Puhuin Saksassa tehdystä tutkimuksesta,
+Puhuja 3: jossa jopa tuhannen euron lisämaksut nostivat valmistumismääriä
+Puhuja 3: kaksi pilkku kahdeksan prosentilla
+Puhuja 3: ja jopa neljä nolla euron lisämaksut jopa viisi pilkku yhdeksän
+Puhuja 3: prosentilla.
+Puhuja 3: Todellisuudessa tässä osiossa olisi pitänyt puhua prosenttiyksiköistä,
+Puhuja 3: eli kyse oli valmistuneiden suhteellisista määristä.
+Puhuja 3: Kiitos, anteeksi, ja etsin itselleni tervaa ja höyheniä.
+Puhuja 0: Okei, hyvä, jes. Nyt.
+Puhuja 0: Tämän viikon podcastissa me keskustellaan
+Puhuja 0: ehkä kesäisesti vähän,
+Puhuja 0: että missä menee, kolme siellä on keräämässä paljon huomiota, paljon voimaa.
+Puhuja 0: Minä katsoin
+Puhuja 0: toisaalta
+Puhuja 0: count Binfaea,
+Puhuja 0: sitten minä katsoin
+Puhuja 0: Trumpia,
+Puhuja 0: sitten minä katsoin Nigle Farashia ja sitten minä katson mamdania ja sitten minä katson ei ole siitä.
+Puhuja 0: Ja ne ovat poliittisesti
+Puhuja 0: hyvin erilaisia.
+Puhuja 0: Joillakin on poliittisesti
+Puhuja 0: tosi paljon järkeä, ja minä en tarkoita, että olen samaa mieltä, mutta että se sisältö on poliittisesti järkevää,
+Puhuja 0: olen samaa mieltä, mutta että se sisältö on poliittisesti järkevää se sisältö ja siinä puhutaan asiaa, vaikka Mandaanilla on tosi tiukasti
+Puhuja 0: New
+Puhuja 0: York-asiat kuntoon ja tälleen näin. Mutta se on tosi taitavasti somessa
+Puhuja 0: viestitty.
+Puhuja 0: Ei ole siitä taas vähän yllättäen
+Puhuja 0: yhtäkkiä valjasti koko somensa voiman tälle
+Puhuja 0: munasolujen pakastustelulle.
+Puhuja 0: Ja totta kai sitä kautta hän
+Puhuja 0: ohjaa, ja omissa puheessaankin hän ohjaa, että se, mitä hän tekee
+Puhuja 0: juuri nyt, että
+Puhuja 0: hän käyttää auton verran rahaa siihen, että hän voi tehdä
+Puhuja 0: lääketieteellisen
+Puhuja 0: proseduurin itselleen,
+Puhuja 0: ja että tämä ei todellakaan ole kaikkien käytössä. Sitten on totta kai FarAS, joka käyttää tätä
+Puhuja 0: tosi törkeästi käyttää tätä Britannian vaalihommaa siihen, että saa omat epäilykset keplotettua
+Puhuja 0: omasta niskasta. Sitten on tämä Coun Pinfacen,
+Puhuja 0: joka on täysin
+Puhuja 0: some-hahmo.
+Puhuja 0: Tässä ei ole varmaan edes mitään kysymystä,
+Puhuja 0: mutta
+Puhuja 0: tajusin sen, että se, mikä alkoi Trumpin outoutena,
+Puhuja 0: että ei, että tuo twiittaa ja puhuu tuommoisia.
+Puhuja 0: Tuommoisia. Se vähän vielä oli semmoista uutta ja outoa, kun se jakoi niitä AI-videoita,
+Puhuja 0: missä Gazan
+Puhuja 0: kadut oli silattu kullalla ja oli
+Puhuja 0: hotelleja siellä. Ehkä vielä sitten, kun tehtiin meemejä näistä, eideng the Caths ja eiding the Docs ja näin, silloin se vielä vähän tuntui oudolta
+Puhuja 0: neljä vuotta sitten jotain tällaista.
+Puhuja 0: Ja nyt se on
+Puhuja 0: ihan vaan se havainto, kun minä katsoin koko tätä kavalkadia
+Puhuja 0: poliitikkoja,
+Puhuja 0: se on Solidifioitunut,
+Puhuja 0: että tämä on
+Puhuja 0: tärkein
+Puhuja 0: osa politiikkaa,
+Puhuja 0: tämä. Kaikki nämä,
+Puhuja 0: munasolujen pakastamiset, Binfaset,
+Puhuja 0: Trubit, faraset ja näin, se on tärkein osa politiikkaa, se
+Puhuja 0: spektaakkeli,
+Puhuja 0: se
+Puhuja 0: huomionhaku
+Puhuja 0: ja saaminen
+Puhuja 0: tosi taitavasti
+Puhuja 0: somessa. Se on isoin osa politiikkaa tällä hetkellä. Minä en tiedä yhtään, että mitä tämä tarkoittaa maailmalle.
+Puhuja 0: Se on se numero ykkönen, se on kaikista olennaisin
+Puhuja 0: kulmakivi siinä, että mitä on olla menestyvä poliitikko,
+Puhuja 0: on olla menestyvä
+Puhuja 0: Instagramsomeme-tyyppi.
+Puhuja 2: Mitä uutta tuossa on?
+Puhuja 2: Kyllä väitän, että tässä on. Ihan samalla tavalla käytiin aikoinaan, kun tuli televisiota. Onko se oikein, että joku John F. Genned on hyvä telkkarissa?
+Puhuja 0: Niin, mutta televisio, varsinkaan John F. Gennedinen aikainen televisio, ei
+Puhuja 0: dominoi joka ihmisen, joka ikistä
+Puhuja 0: valveillaolos sekuntia
+Puhuja 0: kellon ympäri algoritmisella tekoälytarkkuudella.
+Puhuja 2: Sitä ei tapahdu. Ei siitä huolimatta, kyllähän tämä huomion hakeminen ja
+Puhuja 1: pyrkimys viestiä suoraan kansalaisille on ollut iät ja ajat. On ja se, mitä siinä ajattelee, että samalla kun yksityisestä on todella tullut poliittista, että kaikki munasolujen
+Puhuja 1: pakastamiset ja muut
+Puhuja 1: tuodaan tavallaan tai omat lenkkeily tai punnertamiset
+Puhuja 1: tai mitkä hyvänsä
+Puhuja 1: erikoisjoukoissa
+Puhuja 1: pyörimiset ynnä muut tuodaan
+Puhuja 1: äänestäjien silmille ja haetaan sillä poliittista huomiota. Sinä olet mielestäni ihan oikeassa, että sehän on
+Puhuja 1: tehokkain ja ehkä käytetyin
+Puhuja 1: keino,
+Puhuja 1: nämä kaikki huomionhakuisuusasiat.
+Puhuja 1: Mutta
+Puhuja 1: samaan aikaan mietin sitä, että jossain on kuitenkin se oikea politiikka, jossa
 Puhuja 1: jaetaan yhteisiä varoja, päätetään
-Puhuja 1: ihan konkreettisista, oikeista asioista, jotka
-Puhuja 1: vaikuttavat ihmisten elämään ja ties mihinkä valtiontalouteen ja palveluihin ja muihin.
-Puhuja 1: Kuinka paljon
-Puhuja 1: sen
-Puhuja 1: sellaisen show'n alle jää
-Puhuja 1: ja uppoaa sellaisia
-Puhuja 1: kovia, isoja
-Puhuja 1: vallankäytöllisiä asioita.
-Puhuja 1: En tiedä, mutta minusta olin.
-Puhuja 3: Ennen kuin menen kesälomalla kesäkuun lopussa haastattelin
-Puhuja 3: Sofia Virtaa.
-Puhuja 3: Sofia Virta sanoi, tiedän kaikkea muuta, mitä tämä tulee puheeksi, mutta jotenkin
-Puhuja 3: jotenkin menee sitä pitkäksi aikaa miettimään ja jälkikäteen. Hän sanoi, että silloin kun hän oli
-Puhuja 3: nuorena tyttönä ja nuorena naisena, hän ei ollut siis millään tavalla politiikassa mukana, mutta hän olikin kiinnostunut
-Puhuja 3: lapsena tai pienenkin politiikasta ja katseli aina
-Puhuja 3: mielellään uutisia telkkanista
-Puhuja 3: vanhempiensa kanssa ja seurasi jossain määrin, vaikkei kauheasti omien
-Puhuja 3: sanojensa mukaan politiikassa tajunnutkaan,
-Puhuja 3: mutta sanoi, että suurin yllätys on siinä kun hän rupesi itse tekemään sitä. Hänellä oli ollut koko
-Puhuja 3: lapsuuden, nuoruuden ja nuoren aikuisuuden
-Puhuja 3: illuusio, että
-Puhuja 3: poliitikot kohkaa ja tekevät näin, mutta jossain
-Puhuja 3: verhojen takana on jotain tahoja,
-Puhuja 3: jotka oikeasti vettelevät lankoja ja päättävät asioista.
-Puhuja 3: Sovi Viro sanoi, että hänelle suuri järkytys
-Puhuja 3: Ei ole mitään suurta viisasta
-Puhuja 3: rahti, joka päättäisi maailman asioista.
-Puhuja 3: Minä myös luulen, että
-Puhuja 3: tuo Insta tapahtuva kohkaus on kuitenkin sitä politiikkaa. Niin, se on osa. Ja missä on
-Puhuja 3: sen
-Puhuja 1: kohkaamisen ja oikean politiikan
-Puhuja 1: raja. Tavallaan välillä esimerkiksi
-Puhuja 1: tämän hallituskauden aikana, jos on tehty aika isoja muutoksia suomalaiseen yhteiskuntaan ja työelämään ja muuhun, että
-Puhuja 1: mikä on
-Puhuja 1: sellaisen showpinnan
-Puhuja 1: ja näiden asioiden käsittelyn suhde. Kyllä se varmaan journalismissa aika hyvä on tai kohdillaan.
-Puhuja 2: Mutta jos olet poliitikko ja sitten
-Puhuja 2: olet ihan saunan hyvä
-Puhuja 2: Instagramissa. Sä pakastelet siellä munasoluilla
-Puhuja 2: ja pidät roskista päässä ja mitä ikinä.
-Puhuja 2: Niin
-Puhuja 2: tavallaan
-Puhuja 2: se mun ydinajatus
-Puhuja 2: on se, että se on erottamattomasti se vallan lähde. Koska
-Puhuja 2: vaikka olisikin se verho ja sen takana joku tyyppi, joka on ikänsä ollut kokoomusnuorissa
-Puhuja 2: ja puuhastelujärjestöissä
-Puhuja 2: sitä ja tätä, ja se on sitä mieltä, että hei, nyt meidän pitää tehdä tämmöinen momenttipykälä
-Puhuja 2: tuonne ja antaa nämä rahat tälle ja tälle, niin se voi aina sanoa se Instagram-tyyppi,
-Puhuja 2: että ei, vaan nyt tehdään niin kuin minä sanon, koska minulla on tämä, minulla on se demokratian ydin, minulla on ne ihmiset.
-Puhuja 2: Se on se, mikä on muuttunut, että siitä on tullut
-Puhuja 2: vallan
-Puhuja 2: selkeä kiinteä keskipiste
-Puhuja 3: on siellä ja se vallan peruste on siellä. On ne ihmiset aina ollut se vallan perusta. Kyllähän
-Puhuja 3: aika sellainen
-Puhuja 3: ja Stub tällä hetkellä presidenttinä,
-Puhuja 3: niin kyllä molempiin, presidentin valtaa on kerrottu hyvin pienet paitsi ulkopolitiikassa, mutta siitä huolimatta Niinistöllähän
-Puhuja 3: oli
-Puhuja 3: todella paljon valtaa, mikä perustui siihen, että se on niin valtava se kansansuosio, eikä se nyt tullut mistään instasta, vaan muut poliitikot jossain määrin
-Puhuja 3: eivät uskaltaneet asettua poikkiteloihin Niinistön kanssa, koska he tiesivät, että kansalaiset. Siitä ei hyvää heilu. Ja sitten kun se on vihainen, niin se on tosi inhottava. Mutta samalla tavalla kyllähän
-Puhuja 2: kansalaisten tuki on ollut politiikan lähde aina. On kyllä, mutta sinä puhut ajasta, jolloin poliitikko näkyy viikossa neljä minuuttia
-Puhuja 2: maksimissaan jossain tv-vuotislähettilissä.
-Puhuja 2: Se on ihan
-Puhuja 2: Huomattavasti pienempää.
-Puhuja 2: Viimeinen
-Puhuja 2: ajatus.
-Puhuja 2: Ranskalainen sosiologi, Guy the board.
-Puhuja 2: Se lausutaan varmaan gui, mutta mielestäni Guy pitää aina lausua gui. Gydard kirjoitti kuusikymmentäseitsemän
-Puhuja 2: spektaakkeli
-Puhuja 2: yhteiskunnasta, jossa hän
-Puhuja 2: ennusti, että tulee yhteiskunta,
-Puhuja 2: jossa
-Puhuja 2: eletty elämä
-Puhuja 2: korvautuu kuvilla eletystä elämästä.
-Puhuja 2: Loistavasti täytyy palata hänen
-Puhuja 2: kirjoituksiinsa.
-Puhuja 2: Sitten
-Puhuja 2: kun saavutte
-Puhuja 2: boothinne
-Puhuja 2: kyydissä Clacteniin
-Puhuja 2: ja
-Puhuja 2: siellä tietenkin
-Puhuja 2: onnittelette
-Puhuja 2: vastavalittua kreiviää
-Puhuja 2: vaalivoitosta
-Puhuja 2: ja otatte varmaan hyvän.
-Puhuja 2: Minulla on sellainen tunne, että Marko tuntee brittiläiset oluen. Tunnetko, mitä siellä juo? En kyllä, mutta en ollenkaan. Etkö sinä harrasta tätä brittifutista?
-Puhuja 2: Mutta ei. Olettaisin, että siihen aika kiinteästi liittyy
-Puhuja 2: britti Stat tai joku tällainen. En ole niin
-Puhuja 2: ollut tuntia, että osaisin sanoa.
-Puhuja 2: Mutta otatte sellaisen ja sitten kreiviistahtaa
-Puhuja 2: siihen teidän venenne nokkaan
-Puhuja 2: ja sitten vähän huokaisee rankan
-Puhuja 2: vaalirupeaman
-Puhuja 2: jälkeen tyytyväisenä voittajana.
-Puhuja 2: Sitten vähän siinä tulee sellainen hiljainen hetki, niin mistä te rupeatte kreiville juttelemaan?
-Puhuja 3: Minua on ollut nyt valitettavasti neljä viikkoa tavallaan kyynärsauvat, löydettiin
-Puhuja 3: hiusmurtuma polvesta ja olen glinkannut
-Puhuja 3: sauvoilla nyt kuukauden. Minusta se on ollut
-Puhuja 3: tosi kurjaa mennä sauvoilla ja ikävä juttu, mutta minusta on ollut todella kiehtova havaita,
-Puhuja 3: miten
-Puhuja 3: hyviä tai kilttejä ihmiset oikeastaan on.
-Puhuja 3: Joku
-Puhuja 3: siellä rampa klenkkaa sauvoilla,
-Puhuja 3: etenkin nuoret.
-Puhuja 3: Ne pitävät metroaseman
-Puhuja 1: ovea auki ja jos menee kahvilaan Mäkin pidin sulle tänään ovea auki.
-Puhuja 3: Semmoinen pohjaton lempeys ja ystävällisyys, mikä muhun kohdistuu noiden sauvojen kanssa. Kahvilassa
-Puhuja 3: se kahva ei kahee kahvilan, kahvilan myyjä sanoi, että voinko kantaa tuon kahvikupin sinulle pöytään. Jotenkin meillä on jotenkin tämä tällainen usko ihmisen ja varsinkin nuoremman sukupolven hyvyyteen on palannut minulle. Onko suositus siis kainalosauvat?
-Puhuja 3: On, kyllä sä alat.
-Puhuja 1: Minä nauratin selostuksen keskellä sen takia, koska oletin, että se sun huomio on se minkä sanoit minulle eilen, kun tulin sinun luosi järkyttyneenä, että nyt sillä on tuollaiset sauvat.
-Puhuja 1: Vähän puhututtiin ja kerroit hiusmurtumasta ja sitten rupesin selittämään nivelrikosta
+Puhuja 1: ihan konkreettisista, oikeista asioista, jotka vaikuttavat
+Puhuja 1: ihmisten elämään ja ties mihin valtiontalouteen,
+Puhuja 1: palveluihin ja muihin.
+Puhuja 1: Kuinka paljon sellaisen
+Puhuja 1: show'n alle
+Puhuja 1: jää ja uppoaa sellaisia kovia, isoja
+Puhuja 1: vallankäytöllisiä
+Puhuja 1: asioita.
+Puhuja 1: En tiedä, tämän nyt vaan tällaista. Ennen
+Puhuja 2: kuin menen kesälomalla kesäkuun lopussa haastattelin
+Puhuja 2: Sofia Virtaa.
+Puhuja 2: Sofia Virta sanoi, tiedän kaikkea muuta, en muista, mitä tämä tuli edes puheeksi, mutta se jotenkin sanoi minusta,
+Puhuja 2: jotenkin menee pitkäksi
+Puhuja 2: aikaa miettimään jälkikäteen. Hän sanoi, että silloin kun hän oli
+Puhuja 2: nuorena tyttönä ja nuorena naisena hän ei ollut siis millään tavalla politiikassa mukana, mutta hän olikin kiinnostunut
+Puhuja 2: lapsena tai pienenkin politiikasta ja katseli aina
+Puhuja 2: mielellään uutisia telkkarista vanhempiensa kanssa ja seurasi jossain määrin, vaikkei kauheasti omien
+Puhuja 2: mukaan politiikassa tajunnutkaan,
+Puhuja 2: mutta sanoi, että suurin yllätys on siinä, kun he rupesivat itse tekemään sitä. Hänellä oli ollut koko tämän
+Puhuja 2: lapsuuden, nuoruuden ja nuoren aikuisuuden sellainen
+Puhuja 2: illuusio,
+Puhuja 2: että poliitikot
+Puhuja 2: kohkaa ja tekevät näin, mutta jossain verhojen
+Puhuja 2: takana on jotain tahoja,
+Puhuja 2: jotka oikeasti vetäilevät lankoja ja päättää asioista.
+Puhuja 2: Sofia Viro sanoi, että hänelle suuri järkytys putoaa
+Puhuja 2: oikean politiikassa. Ei se verhojen takana ole ketään, siellä on pelkkiä lobbareita.
+Puhuja 2: Ei ole mitään suurta viisasta
+Puhuja 2: rahtiaan, joka päättäisi maailman asioista.
+Puhuja 2: Minä myös luulen,
+Puhuja 2: että tuo Insta tapahtuva kohkaus on kumminkin
+Puhuja 1: politiikkaa. Niin, se on osa. Ja missä on sen kohtaamisen ja oikean politiikan raja. Tavallaan välillä esimerkiksi tämän hallituskauden
+Puhuja 1: aikana, jos on tehty aika isoja muutoksia suomalaiseen yhteiskuntaan ja työelämään ja muuhun,
+Puhuja 1: että mikä on
+Puhuja 1: sellainen showpinnan
+Puhuja 1: ja näiden asioiden käsittelyn suhde. Kyllä se journalismissa aika hyvä on
+Puhuja 0: tai silleen kohdillaan. Mutta jos olet poliitikko ja sitten olet
+Puhuja 0: saatanan hyvä
+Puhuja 0: Instagramissa,
+Puhuja 0: sä pakastelet siellä mun asoilla ja pidät roskista päässä ja mitä ikinä.
+Puhuja 0: Tavallaan
+Puhuja 0: se
+Puhuja 0: ydinajatus on se, että se on erottamattomasti
+Puhuja 0: se vallan lähde. Koska
+Puhuja 0: vaikka olisikin se verho ja sen takana joku tyyppi, joka on ikänsä ollut kokoomusnuorissa ja puuhastellut
+Puhuja 0: järjestöissä sitä ja tätä. Se on sitä mieltä, että hei, nyt meidän pitää tehdä tämmöinen momenttipykälä tuonne ja antaa nämä rahat tälle ja tälle.
+Puhuja 0: Se Instagram-tyyppi voi aina sanoa,
+Puhuja 0: että ei, vaan nyt tehdään niin kuin minä sanon, koska minulla on tämä, minulla on se
+Puhuja 0: demokratian ydin, minulla on ne ihmiset.
+Puhuja 0: Se on se, mikä on muuttunut,
+Puhuja 0: että siitä on tullut vallan
+Puhuja 0: selkeä, kiinteä keskipiste on siellä ja se vallan peruste on siellä. No, ihmiset aina ovat olleet vallan perusta.
+Puhuja 2: En minähän mieti,
+Puhuja 2: kyllähän aika sinulla on Houlen Niinistö ja Stub tällä hetkellä presidenttinä,
+Puhuja 2: niin presidentin valtaa kertoja ovat hyvin pienet paitsi ulkopolitiikassa, mutta siitä huolimatta Niinistöllähän oli
+Puhuja 2: todella paljon valtaa, mikä perustui siihen, että sillä oli niin valtava kansansuosio, eikä se nyt tullut mistään instasta.
+Puhuja 2: Vain muut poliitikot jossain määrin
+Puhuja 1: eivät uskaltaneet asettua poikkiteloihin Niinistön kanssa, koska he tiesivät kansalaisettavaan. Siitä ei hyvää heilupi. Ja sitten kun se on vihainen, niin se on tosi inhottavaa. Mutta samalla tavalla kyllähän kansalaisten
+Puhuja 2: tuki on ollut politiikan lähde
+Puhuja 0: aina. On kyllä. Sinä puhut ajasta, jolloin poliitikko näkyi viikossa neljä minuuttia
+Puhuja 0: maksimissaan jossain tv-vuotislähetti.
+Puhuja 0: Se on ihan totaalisen eri asia, kun
+Puhuja 0: Huomattavasti pienempää. Väitän, että
+Puhuja 0: viimeinen ajatus.
+Puhuja 0: Ranslainen sosiologi, Guy the board.
+Puhuja 0: Se lausutaan varmaan Gy, mutta mielestäni Guy pitää aina lausua Gy. Guide Board kirjoitti kuusikymmentäseitsemän
+Puhuja 0: spektaakkeli
+Puhuja 0: yhteiskunnasta, jossa hän
+Puhuja 0: ennusti, että tulee yhteiskunta,
+Puhuja 0: jossa
+Puhuja 0: eletty elämä
+Puhuja 0: korvautuu kuvilla eletystä elämästä.
+Puhuja 0: Loistavasti. Ja mun täytyy palata hänen
+Puhuja 0: kirjoituksiinsa.
+Puhuja 0: Sitten
+Puhuja 0: kun
+Puhuja 0: saavutte
+Puhuja 0: boothinne
+Puhuja 0: kyydissä Clacteniin
+Puhuja 0: ja siellä tietenkin
+Puhuja 0: onnittelette
+Puhuja 0: vastavalittua kreiviää
+Puhuja 0: vaalivoitosta
+Puhuja 0: ja otatte varmaan hyvän.
+Puhuja 0: Minulla on sellainen tunne, että Marko tuntee brittiläiset oluet. Tunnetko, mitä siellä juo? En kyllä, mutta en ollenkaan. Etkö sinä harrasta tätä brittifutista?
+Puhuja 0: Olettaisin, että siihen aika kiinteästi liittyy, britti
+Puhuja 0: Stat tai joku tällainen. En ole niin
+Puhuja 0: ollut tuntia, että osaisin sanoa. Mutta otatte sellaisen
+Puhuja 0: ja sitten kreivistähtaa
+Puhuja 0: siihen teidän venenne nokkaan
+Puhuja 0: ja sitten vähän huokaisee rankan
+Puhuja 0: vaalirupeaman
+Puhuja 0: jälkeen
+Puhuja 0: tyytyväisenä voittajana.
+Puhuja 0: Sitten vähän siinä tulee semmoinen hiljainen hetki, niin mistä te rupeatte kreiville juttelemaan?
+Puhuja 2: Mua on ollut nyt valitettavasti neljä viikkoa tuota, kun on ollut kyynelsauvat, löydettiin
+Puhuja 2: tämmöinen hiusmurtuma polvesta ja olen glenkannut
+Puhuja 2: sauvoilla nyt kuukauden. Minusta se on ollut
+Puhuja 2: tosi kurjaa mennä sauvoilla ja ikävä juttu, mutta minusta on ollut todella kiehtova havaita,
+Puhuja 2: miten
+Puhuja 2: hyviä tai kilttejä ihmiset oikeastaan on.
+Puhuja 2: Joku
+Puhuja 2: siellä rampa klenkkaa sauvoilla. Etenkin nuoret.
+Puhuja 2: Jatkuvasti
+Puhuja 2: ne pitävät metrorahman
+Puhuja 2: ovea auki.
+Puhuja 1: Piti pidin sulle tänään oven auki. Semmoinen
+Puhuja 2: pohjaton lempeys ja ystävällisyys, joka muhun kohdistuu noiden sauvojen kanssa. Kahvilassa
+Puhuja 2: se kahva ei kahville kahvilan
+Puhuja 2: myyjä sanoi, että voinko kantaa tuon kahvikupin sinulle pöytään.
+Puhuja 2: Jotenkin, että musta meillä on jotenkin
+Puhuja 2: tämä
+Puhuja 2: tällainen usko ihmisen
+Puhuja 2: ja varsinkin
+Puhuja 2: nuoremman sukupolven hyvyyteen on pahaan minulle. Onko suositus siis kainalosauvat?
+Puhuja 2: No, kyllä saa olla. Naurahdin
+Puhuja 1: selostuksen keskellä sen takia, koska oletin, että se sinun huomio on se minkä sanoit minulle eilen, kun tulin sinun luosi järkyttyneenä, että nyt sillä on tuollaiset sauvat.
+Puhuja 1: Vähän puhuttiin ja kerroit siitä hiusmurtumasta ja sitten rupesin selittämään nivelrikosta
 Puhuja 1: ja sitten sanoit, että on jännä havainto, että aina kun hän kertoo
-Puhuja 1: näistä ongelmista, sitten
-Puhuja 1: toinen ihminen alkaa puhumaan omista vaivoistaan.
-Puhuja 3: Se on toinen puoli tässä. Ehkä voisin laajentaa. Minun havainto on se, että
-Puhuja 3: nuorisoa on parempaa kuin voisi kuvitella ja nuorisoa on hyvää ja ystävällistä ja kohteliasta,
-Puhuja 3: ja suomalaisilla on ihan sairaasti erilaisia nivelpalveluja.
-Puhuja 1: San totta, jos tutkittaisiin, kuinka minun ikäiset ihmiset, niin kyllä kaikilta jotain löytyi. Näin
-Puhuja 1: Rupesin puhumaan kesälomasta ja kertoisin, että
-Puhuja 1: olimme sopotissa
+Puhuja 1: näistä
+Puhuja 1: ongelmista,
+Puhuja 1: sitten se alkaa se toinen ihminen puhumaan omista vaivoistaan.
+Puhuja 2: Se on toinen puoli tässä. Ehkä voisin laajentaa. Minun havainto on se, että
+Puhuja 2: nuorisoa on parempaa kuin voisi kuvitella ja nuorisoa on hyvää, ystävällistä ja kohteliasta.
+Puhuja 2: Suomalaisilla on ihan sairaasti erilaisia nivelvaatteita.
+Puhuja 1: San totta, jos tutkittaisiin, kuinka minun ikäiset ihmiset, niin kyllä kaikilta jotain löytyi.
+Puhuja 1: Rupesin puhumaan kesälomasta ja kertoisin,
+Puhuja 1: että olimme sopotissa
 Puhuja 1: lomalla ja sitten piti mennä vesipuistoon aamulla ja yhtäkkiä huomattiin, että ei sinne pääsekään, että se on loppuunmyyty, että ei voi mennä vain näin. Sitten piti mennä 14-vuotias
 Puhuja 1: kundi herättämään aamulla,
 Puhuja 1: että hei
 Puhuja 1: ei nyt päästäkään sinne vesipuistoon kaveriperheen lasten kanssa, mutta mennään keskitysleirille.
-Puhuja 1: Ja sitten mentiin Stuthofin
+Puhuja 1: Ja sitten mentiin Stuthovin
 Puhuja 1: keskitysleirille,
-Puhuja 1: ja putosin
-Puhuja 1: sellaisen vähän kaninkolon, että rupesin hulluna jotenkin
+Puhuja 1: ja sitten putosin sellaisen kaninkoloon, että
+Puhuja 1: rupesin hulluna jotenkin
 Puhuja 1: uppoamaan näihin aiheisiin.
-Puhuja 2: Huikku iloisia teinit olivat aamulla,
-Puhuja 1: Hitlerin elämään. Hän otti hyvin sen vastaan. Olin lopulta myös sitä mieltä, että oli tärkeä kysymys, että ei tullut traumaa.
+Puhuja 1: Olin lopulta myös sitä mieltä, että oli tärkeää käyttää, että ei tullut traumaa.
 Puhuja 1: Mutta jostain syystä tämän kaiken lumipallon myötä kiinnostuin
-Puhuja 1: Adolf Ichmannista,
+Puhuja 1: Adolf IHmanista,
 Puhuja 1: eli natsijohtaja,
 Puhuja 1: joka oli vähän niin kuin juutalaisten
 Puhuja 1: siirtojen
 Puhuja 1: ylipääikkö, hän organisoi näitä juutalaisten kuljetuksia.
-Puhuja 1: Sitten päädyin lukemaan kirjaa, jonka nimi on Tähimmässä Iihman,
+Puhuja 1: Sitten päädyin lukemaan sellaista kirjaa, jonka nimi on Tähimmässä Ichmann,
 Puhuja 1: joka on minun mielestäni yli kymmenen vuotta vanha teos ja se on sittemmin
 Puhuja 1: käännetty suomeksi. Sen on kirjoittanut Neil Bascomp.
 Puhuja 1: Tämä kirja kertoo siitä,
 Puhuja 1: kuka tämä Adolf Ichmann on, mutta erityisesti siitä, miten
 Puhuja 1: 60-luvun alussa Mossad Israelin
-Puhuja 1: salainen palvelu
-Puhuja 1: meni Argentiinaan
+Puhuja 1: salainen palvelu meni Argentiinaan
 Puhuja 1: ja kidnapsivat
-Puhuja 1: tämän kaverin, joka oli piilotellut sieltä. Hän oli päässyt pujahtamaan sinne ja se kertoo siitä, miten
+Puhuja 1: tämän kaverin, joka oli piilotellut sieltä. Hän oli päässyt pujahtamaan sinne
+Puhuja 1: ja se kertoo siitä, miten
 Puhuja 1: vaikea ja erikoinen operaatio,
-Puhuja 1: se Ightmanin kiinniotto sieltä oli ja oikeudenkäynti.
-Puhuja 1: Suositukseni
-Puhuja 1: on Nil Bascompin
+Puhuja 1: se Ifmanin kiinniotto sieltä oli ja oikeudenkäynti.
+Puhuja 1: Suositukseni on Nil Bascompin
 Puhuja 1: kirja
-Puhuja 1: tähtäimessä Ightman.
-Puhuja 2: Minä ehkä haluan vaan luetella läpi kaikki hyvät asiat, mitä on ollut kesän aikana.
-Puhuja 2: Niistä
-Puhuja 2: mielen päällä
-Puhuja 2: laajempana tällä hetkellä
-Puhuja 2: on house of the Dragon, jonka sain katsottua loppuun.
-Puhuja 2: Game Thronesin jatko-osa
-Puhuja 2: tai
-Puhuja 2: prequella.
-Puhuja 2: Erittäin hyvä, vaikka onkin vähän enemmän tämmöistä
-Puhuja 2: Se ei ole Game Thrones ja ehkä mikään sarja ei voi olla. Mutta se on hyvä, se on tosi hyvä. Kolmas kausi
-Puhuja 2: minun tavallaan, että kenen kanssa käyn
-Puhuja 2: jaksokeskustelun,
-Puhuja 2: niin se on perinteisesti aina olla semmoinen Bold Move niminen
-Puhuja 2: podcastpumppu,
-Puhuja 2: että niillä jakso-analyysi
-Puhuja 2: ja muut tosi hyvin, mutta sitten jotenkin niille oli tullut vähän outo klangit, ne olivat ehkä kyllästyneet siihen hommaansa, niin minä vaihdoin.
-Puhuja 2: Nyt sellainen tubettaja kuin Althift
-Puhuja 2: X tekee House of the Dragon
-Puhuja 2: jaksoanalyyseja.
-Puhuja 2: Yksi House of the Dragon jakso on tunnin ja Altshift X:n jaksoanalyysi
-Puhuja 2: tästä Season finaaleista oli viisi ja puoli tuntia.
-Puhuja 2: Se, kuunnelkaa ihmeessä.
-Puhuja 2: Sitten tällainen lehti kuin Works in progress,
-Puhuja 2: joka on vain mahtava.
-Puhuja 2: Sitä julkaisee Twitterin perustaja Jack Doores. Se on erittäin hyvä. Jack Doores selkeästi
-Puhuja 2: pistää rahojaan, tai stribesin perusteella kai nykyään on. Jack Doores pistää rahojaan siihen, että tulee todella mielenkiintoisia,
-Puhuja 2: lähinnä tiedettä liippaavia artikkeleita.
-Puhuja 2: Niiden selkeä tarkoitus on inspiroida
-Puhuja 2: ihmisiä siihen, mitä kaikkea mahdollista saada aikaan
-Puhuja 2: tutkimuksella, ajattelulla ja muulla.
-Puhuja 2: Works in progress kannattaa ottaa lukuun erinomainen.
+Puhuja 1: tähtäimessä Ifmanin.
+Puhuja 0: Minä ehkä haluan vaan luetella läpi kaikki hyvät asiat, mitä on ollut tässä kesän aikana.
+Puhuja 0: Niistä
+Puhuja 0: mielen päällä laajempana tällä hetkellä
+Puhuja 0: on Hast of the Dragon, jonka sain katsottua loppuun.
+Puhuja 0: Game
+Puhuja 0: Thronesin jatko-osa
+Puhuja 0: tai prequella.
+Puhuja 0: Erittäin hyvä, vaikka onkin vähän enemmän tämmöistä...
+Puhuja 0: Se ei ole Game Thrones ja ehkä mikään sarja ei voi olla. Mutta se on hyvä, se on tosi hyvä. Kolmas kausi meni loppuun.
+Puhuja 0: Siihen päälle
+Puhuja 0: huomasin, että minun
+Puhuja 0: se,
+Puhuja 0: kenen kanssa käyn sen jakso keskustelun, niin se on on perinteisesti aina ollut sellainen Bold Move niminen
+Puhuja 0: podcastpumppu.
+Puhuja 0: Niillä jaksaa analyysi ja muut tosi hyviä, mutta jotenkin niille oli tullut vähän outo klangit, ne olivat ehkä kyllästyneet siihen hommaansa,
+Puhuja 0: niin minä vaihdoin.
+Puhuja 0: Nyt sellainen tubettaja kuin Althift X tekee House of the Dragon
+Puhuja 0: jaksoanalyyseja.
+Puhuja 0: Yksi House of the Dragon jakso on tunnin
+Puhuja 0: ja Althift X:n jaksoanalyysi
+Puhuja 0: tästä Season finaaleista oli viisi ja puoli tuntia.
+Puhuja 0: Se, kuunnelkaa ihmeessä.
+Puhuja 0: Sitten
+Puhuja 0: tällainen lehti kuin Works in progress,
+Puhuja 0: joka
+Puhuja 0: on vain mahtava.
+Puhuja 0: Sitä julkaisee Twitterin perustaja Jack Doorcea. Se on erittäin hyvä. Jack Doorcy selkeästi
+Puhuja 0: pistää rahojaan, tai stidepin perustaja, kai hän nykyään on. Jack Doorcy pistää rahoja siihen, että tulee todella
+Puhuja 0: mielenkiintoisia, lähinnä tiedettä liippaavia artikkeleita. Jo selkeä tarkoitus on
+Puhuja 0: inspiroida ihmisiä siihen, mitä kaikkea mahdollista saada aikaan,
+Puhuja 0: tutkimuksella,
+Puhuja 0: ajattelulla ja muulla.
+Puhuja 0: Works in prograess kannattaa ottaa lukuun erinomainen.
 Puhuja 2: Ja viimeiseksi
-Puhuja 2: haluan suositella
-Puhuja 2: Erinomaista
-Puhuja 2: Christopher Nollain elokuvaa Odysseus.
-Puhuja 1: Ala spoilaa juontoa. En spoilaa,
-Puhuja 2: juoni on muutama tuhat vuotta vanha.
-Puhuja 2: Vähän menin enempien, että voiko olla mistään kotoisin.
-Puhuja 2: En myöskään ollut lukenut Odysseosta,
-Puhuja 2: tiesin perusasiat, että Iljas ja Odysseja on ne kirjat suomenkielisillä
-Puhuja 2: nimillä. Tiesin, että Iljas on se, että proojen sota käydään ja Odysseos on matka takaisin,
-Puhuja 2: koslin googlen nyt sen ennen leffaa.
-Puhuja 2: Vähän enmmin, että mitäköhän hittaa. Mutta Noulan teki sen
-Puhuja 2: ihan erittäin hyvin silleen, että siellä on muutama kohta, jotka hittaavat
-Puhuja 2: todella
-Puhuja 2: kovaa.
-Puhuja 2: Myöhemmin selvisi nämä kohdat ovat se, missä
-Puhuja 2: Noulan oli eniten ottanut vapauksia. Sitten,
-Puhuja 2: koska olin vältellyt
-Puhuja 2: netissä käytävää olyseuskeskustelua,
-Puhuja 2: nyt kun katsoin sen leffan, niin pystyin sitten menemään katsomaan, että mitäs netissä on puhunut.
-Puhuja 2: Ja ihmiset ovat niin pahoja idiootteja. Näin
-Puhuja 2: mahtavan leffan jälkeen ne olivat kaikki kiinnittäneet huomiota siihen, että muutama hahmo oli muuttunut mustaksi.
-Puhuja 2: Aivan
-Puhuja 2: niin kuin jopa lautaihmiset ovat tyhmiä.
-Puhuja 2: Miten typistää se keskustelu?
-Puhuja 2: Noin typerää voi jumalauta
-Puhuja 1: näin. Oletko sitä mieltä, että
-Puhuja 1: nimenomaan
-Puhuja 1: elokuvateatterissa
+Puhuja 0: haluan suositella
+Puhuja 0: Erinomaista
+Puhuja 0: Christopher Nollain elokuva Odysseus.
+Puhuja 1: Älä
+Puhuja 0: spoilaa juontoa. En spoilaa!
+Puhuja 0: Juonia on muutama tuhat vuotta vanha.
+Puhuja 0: Vähän menin
+Puhuja 0: enempien, että voiko olla mistään kotoisin.
+Puhuja 0: En myöskään ollut lukenut Odysseosta. Tiesin perusasiat, että Iljas ja Odysseja ovat ne kirjat
+Puhuja 0: suomenkielisillä nimellä. Tiesin, että Iljas on se, että Troijan sata käydään ja Odysseos matka takaisin.
+Puhuja 0: Koskelin googlanut sen ennen leffaa.
+Puhuja 0: Vähän enmmin, että mitäköhän hittaa. Mutta Noulan teki sen ihan erittäin hyvin, että siellä on muutama kohta, jotka hittaa
+Puhuja 0: todella kovaa.
+Puhuja 0: Myöhemmin selvisi nämä kohdat ovat se, missä Noulan oli eniten ottanut vapauksia. Sitten,
+Puhuja 0: koska olin vältellyt
+Puhuja 0: netissä käytävään olyseoskeskustelua,
+Puhuja 0: nyt kun katsoin leffan, pystyin menemään katsomaan, että mitäs netissä on puhunut. Ja ihmiset ovat niin pahoja idiootteja.
+Puhuja 0: Näin mahtavan leffan jälkeen olivat kaikki kiinnittäneet huomion siihen, että muutama hahmo oli muuttunut mustaksi.
+Puhuja 0: Aivan niin
+Puhuja 0: kuin jopa lautaihmiset ovat tyhmiä.
+Puhuja 0: Miten typistää se keskustelu? Noin typerää
+Puhuja 0: voi
+Puhuja 0: jumalauta
+Puhuja 0: näin.
+Puhuja 1: Oletko sitä mieltä, että
+Puhuja 1: nimenomaan elokuvateatterissa
 Puhuja 1: pitää mennä
-Puhuja 2: tämän
-Puhuja 2: studion kokoisessa teatterissa eli aika pienessä ja toimi sielläkin erittäin.
-Puhuja 2: Ja sitten siihen päälle The Rest Is History
-Puhuja 2: podcastin Odysseus
-Puhuja 2: erikoisjaksot,
-Puhuja 2: jotka he tekivät tähän saman yhteyden kaksiosainen Odysseus.
-Puhuja 2: Läpi käynti erinomaista
-Puhuja 2: kamaa. Aivan vitsi, että toimi leffa ja sen jälkeen
-Puhuja 2: Restis historian
-Puhuja 1: poditiehen päälle, niin ai ja aikut sai piettaroida sen. Suomaksella on neljä suositusta ja meillä yhdet. Mutta minulla on yksi suositus, jota ei voi suositella kuin Mina tai Marko tässä studiossa. Nimittäin
+Puhuja 0: tämän studion kokoisessa teatterissa eli aika pienessä ja toimi sielläkin erittäin.
+Puhuja 0: Ja sitten siihen päälle The Rest is history Podcastin Odysseus
+Puhuja 0: erikoisjaksot,
+Puhuja 0: jotka he tekivät tähän samaan yhteyden, kaksiosainen Odysseus.
+Puhuja 0: Läpi käynti erinomaista
+Puhuja 0: kamaa. Aivan vitsi, että toimi leffa ja sen jälkeen
+Puhuja 0: Restis historin
+Puhuja 1: podjieen päälle Ai jai kun sai pierteroida sitten. Tuomaksella on neljä suositusta ja meillä yhdet. Mutta minulla on yksi suositus, jota ei voi suositella kuin minä tai Marko tässä studiossa. Nimittäin
 Puhuja 1: tällä viikolla on julkaistu
-Puhuja 1: ehkä noin kolme vuotta tehty
+Puhuja 1: ehkä noin kolme vuotta
+Puhuja 1: tehty
 Puhuja 1: tai kaksituhatta vuotta tehty podi,
-Puhuja 1: jonka
-Puhuja 1: Eräänlainen Odysseja sekä. Eräänlainen Tuomas Peltomäen Odysseja,
+Puhuja 1: jonka Eräänlainen Odysseja sekä... Eräänlainen Tuomas Peltomäen Odysseja,
 Puhuja 1: jonka nimi on Menetetyt
 Puhuja 1: miljardit.
 Puhuja 1: Ollaan tietysti äärimmäisen
-Puhuja 1: jäävejän nyt kehumaan, mutta minä olen tätä
-Puhuja 1: kaksi jaksoa olen nyt kuunnellut kokonaan ja olen koko ajan vähän, että vitsi, tämä on todella hyvä.
+Puhuja 1: jäävejän nyt sitten kehumaan, mutta minä olen tätä
+Puhuja 1: kaksi jaksoa olen nyt kuunnellut kokonaan ja olen koko ajan vähän silleen,
+Puhuja 1: että vitsi, tämä on todella hyvä.
 Puhuja 1: Tämä on todella hyvä.
-Puhuja 1: Kertoo Fortumin
+Puhuja 1: Kertoo
+Puhuja 1: Fortumin
 Puhuja 1: universuysseikkailusta
-Puhuja 1: ja ehkä ensisijaisesti kertoa vallasta ja
-Puhuja 1: vastuusta ja siitä, miten, kun olet riittävä kylällä
-Puhuja 1: yhteiskunnan
+Puhuja 1: ja ehkä
+Puhuja 1: ensisijaisesti kertoa vallasta ja vastuusta
+Puhuja 1: ja siitä, miten kun olet riittävä
+Puhuja 1: ylhäällä yhteiskunnan
 Puhuja 1: kerroksissa, niin mitä vastuun kantaminen
-Puhuja 1: oikeasti tarkoittaa?
+Puhuja 1: oikeasti tarkoittaa
 Puhuja 1: Suositukseni.
-Puhuja 1: Ehkä me puhumme ensi viikolla siitä vähän enemmän. Kyllä, pakotetaan Marko kuuntelemaan se.
-Puhuja 3: Joo, mä itse asiassa tänään jo vähän innostuin, että me vähän lupakkuudella. No niin, hyvä.
-Puhuja 2: Sinä kaikki tältä erää kiitos Salla Vuorikoski, kiitos. Kiitos Marko Junkkarin.
-Puhuja 2: Kiitos. Mun nimi on Tuomas Peltomäki.
-Puhuja 2: Äänenkuvan ja kaiken muun mahtavan meille tekee tällä viikolla Helmi Sundström.
-Puhuja 2: Ja lähettäkää meille palautetta
-Puhuja 2: ja kuullaan taas ensi viikolla.
-Puhuja 2: Heippa!
+Puhuja 1: Ehkä me puhutaan ensi viikolla siitä vähän enemmän. Kyllä, pakotetaan Marko kuuntelemaan sen.
+Puhuja 2: Joo, mä itse asiassa tänään jo vähän innostuin, että me lupaakkuudella sen.
+Puhuja 0: Hyvä. Sinä kaikki tältä erää. Kiitos Salla Vuorikoski. Kiitos. Kiitos Marko Junkkarin. Kiitos.
+Puhuja 0: Mun nimi on Tuomas Peltamäki.
+Puhuja 0: Äänenkuvan ja kaiken muun mahtavan meille tekee tällä viikolla Helmi Sundström.
+Puhuja 0: Ja
+Puhuja 0: lähettäkää meille
+Puhuja 0: palautetta
+Puhuja 0: ja
+Puhuja 0: kuullaan taas ensi viikolla,
+Puhuja 0: heippa!
+Puhuja 1: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin.
+Puhuja 0: Melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greatot Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir
+Puhuja 0: Putin ja hänen hämähäkinverkkosa.
+Puhuja 0: Verkkonsa. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a, kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

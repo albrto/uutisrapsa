@@ -39,7 +39,7 @@ Puhuja 1: aina kauas, että mikäs mieli tänään. Ja se on todella ärsyttäv�
 Puhuja 1: lapsille sanoa mitään, varsinkin tyttären, se usein hermosto on, kun mulla on vääränlainen ilme. Mutta siis mä oon saanut... Ei voi sille mitään. Mä oon saanut toistuvasti palautetta siitä,
 Puhuja 2: että mulla on semmoinen perusime. Siis sellainen, että mulla ei ole mitään hirveetä tunnetilaa päällä. Semmoinen perusime, joka näyttää tosi synkältä ja surulliselta. Mulla useita
 Puhuja 2: ihmisiä on tullut kysymään tässä vuosien varrella, että Salla onko
-Puhuja 0: joku hätänä? No sit mä vaan näytän täältä. Kyllä. Mä muistan sen... No niin, tämä nyt aivan harja. Muistan
+Puhuja 0: joku hätä enää? No sit mä vaan näytän täältä. Kyllä. Mä muistan sen... No niin, tämä nyt aivan harja. Muistan
 Puhuja 0: sen vaihe elämässä, kun alkoi
 Puhuja 0: ikä saamaan naaman kiinni, ihmiset tuli jatkuvasti kysymään:
 Puhuja 0: ootko sä nukkunut.
@@ -71,7 +71,8 @@ Puhuja 0: välinen Wi-Fi,
 Puhuja 0: mistä siinä on kyse.
 Puhuja 0: Kaikki twitteratti ja kolumnistit ja
 Puhuja 0: kaikki on tän aiheen kimpussa mekin.
-Puhuja 0: Toki tarjoamme järkeä ja malttia tähän keskusteluun. Vielä lopuksi...
+Puhuja 0: Toki tarjoamme järkeä ja malttia tähän keskusteluun. Vielä
+Puhuja 0: lopuksi...
 Puhuja 2: Okei.
 Puhuja 2: Et usko itse. Hyvin kevyesti
 Puhuja 0: puhutaan
@@ -82,7 +83,7 @@ Puhuja 0: presidenttiehdokkaan
 Puhuja 0: Rondesanttisin
 Puhuja 0: kampanjan Launchista.
 Puhuja 0: Joka meni täysin mänkään. Joka meni... No, menikö... Puhutaan siitä...
-Puhuja 0: Se tapahtuu nimittäin Twitterissä,
+Puhuja 0: Se tapahtui nimittäin Twitterissä,
 Puhuja 0: tämmöisessä Twitter spacessa.
 Puhuja 0: Ei ehkä mennä syvimpään
 Puhuja 0: vielä vaaliasetelmaanalyysiin,
@@ -90,34 +91,33 @@ Puhuja 0: vaan puhutaan tästä itse launchista,
 Puhuja 0: että mikäs homma tää oli ja mitä järkeä siinä. Me puhutaan jonkun verran roadesanttisista,
 Puhuja 0: josta mun mielipidettä tämän launchin myötä
 Puhuja 0: muuttui.
-Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita
-Puhuja 0: pitkien epämukavien hiljaisuuden varalle.
-Puhuja 0: Jos sallittelin, mulla on kaksi
-Puhuja 0: pääkeskustelun
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien hiljaisuuden varalle. Jos sallittelin, mulla on kaksi keskustelun aiheita.
+Puhuja 0: Pääkeskustelun
 Puhuja 0: aihetta.
 Puhuja 0: Tai jatkaa molemmat todella hyviä!
 Puhuja 0: Okei,
-Puhuja 0: tällä viikolla
-Puhuja 0: pikkuhiljaa
-Puhuja 0: pikkuliintojen tavoin
-Puhuja 0: ympyrää
-Puhuja 0: ihmisten päiden ympärillä, että sirpittäin alkoi liikkua
+Puhuja 0: tällä viikolla pikkuhiljaa
+Puhuja 0: pikkulintojen tavoin
+Puhuja 0: ympyrää ihmisten
+Puhuja 0: päiden ympärillä, että sirpittäin alkoi liikkua
 Puhuja 0: kuiskutuksia,
 Puhuja 0: että saattaa olla mahdollista, että
 Puhuja 0: hallitustunnuspelija
 Puhuja 0: Petteri Orpon
 Puhuja 0: vetämät hallitusneuvottelut
-Puhuja 2: saattavat tällä viikolla. Ei. Tätä mä just tarkoitin.
+Puhuja 0: saattavat tällä viikolla.
+Puhuja 2: Ei. Tätä mä just tarkoitin.
 Puhuja 1: Kiinnostavaa on se, että tää kuvastaa ennen kaikkea
 Puhuja 1: Elon Muskin
 Puhuja 1: vaikutusvalta valtavuutta
 Puhuja 1: Yhdysvalloissa.
 Puhuja 1: Tämähän oli tavallaan myös
-Puhuja 1: Elon Musk vähän niin kuin endorsas hänet samalla. Tämä on heidän
+Puhuja 1: Elon Musk
+Puhuja 1: vähän niin kuin endorsas hänet samalla. Tämä on heidän
 Puhuja 1: kanssaan kanssa. Sillä oli suurempi merkitys kuin sillä, että se saisi
 Puhuja 1: tunnin verran livelähetystä ja hurraavia ihmisiä HD-kuvalla kaikille tv-kanaville.
-Puhuja 1: Kertoo ennen kaikkea siitä, mikä on Elon Muskin merkitys
-Puhuja 0: jenkkipolitiikassa tällä hetkellä. Luvut on, että kaksi pilkku yhdeksän miljoonaa ihmistä
+Puhuja 1: Onhan kyllä tämä kertoa ennen kaikkea siitä, mikä on Elon Muskin merkitys
+Puhuja 0: Jenkkipolitiikassa tällä hetkellä. Luvut on, että kaksi pilkku yhdeksän miljoonaa ihmistä
 Puhuja 0: meni katsomaan tätä
 Puhuja 0: rangaista. Se on kaikissa livestriiimeissä,
 Puhuja 0: mukaan lukien näissä lukuisissa meidän livestriiimeissä. Siellä voi näkyä, että siellä on neljä ihmistä, mutta se ei tarkoita, että tällä koko livestriimilla on neljä ihmistä.
@@ -130,8 +130,8 @@ Puhuja 1: Se on enemmän. Mun mielestä Tacker Karlssonin show'veetin
 Puhuja 1: parhaimmillaan foksilla kolme miljoonaa.
 Puhuja 0: Okei. Varmaan Tacker Karlsson olisi saattanut olla seuraava vastaan. Mutta
 Puhuja 2: ehkä kuitenkin
-Puhuja 2: tää tämmöinen tötöily
-Puhuja 2: mennyt lanseeraus
+Puhuja 2: tää tämmöinen tötöilyyn
+Puhuja 2: lanseeraus
 Puhuja 2: oli kuitenkin tavallaan onnistunut, koska nyt kaikki puhuu. Nyt joka paikka on täynnä. Mekin puhutaan tässä, että miksi se oli sellainen ja miten se meni näin.
 Puhuja 0: Tähän
 Puhuja 0: liittyvä tapaus oli se, mistä puhuttiin
@@ -140,9 +140,8 @@ Puhuja 0: podcastissa oli Tackerkaus, tapaus, missä paljastui näiden vuoteen s
 Puhuja 0: kusettanut kaikkia vitunjuntteja
 Puhuja 0: Jenkeissä
 Puhuja 0: ja kirjoitellut niiden slackiin siitä, että joo,
-Puhuja 0: miten tramppojahan täysi pelee, että nämä
-Puhuja 0: mulkut uskoo mitä vaan, ihan siis ruokotonta omien
-Puhuja 0: katsojiensa
+Puhuja 0: miten tramppojahan täysi pelee. Nämä
+Puhuja 0: mulkut uskoo mitä vaan, ihan siis ruokotonta omien katsojiensa
 Puhuja 0: ja minkä seurauksena sitten... Tai yksi niistä syistä, miksi Tacker Karl Carlson tavallaan uhrattiin
 Puhuja 0: Foxin toimesta ja hän sai sieltä kenkää. Tacker Karlssonhan siirtyi
 Puhuja 0: pitämään omaa uutta showtaan
@@ -150,15 +149,13 @@ Puhuja 0: Twitteriin. Tämä on samanlainen kuvio. Twitterissä on nyt
 Puhuja 0: Tacker Culssonin uusi show, joka ei tosin ole vielä alkanut ilmestyä. Onko sekin
 Puhuja 0: äänipuolelta? Ei, kun se on ihan televisioshow, joka ilmestyi Twitterissä.
 Puhuja 0: Ja nyt taas
-Puhuja 0: sitten Mask
-Puhuja 0: hommasta on tavallaan
+Puhuja 0: sitten Mask hommasta on tavallaan
 Puhuja 0: myös asian, joka aiemmin
 Puhuja 0: hoitui televisiokanavilla,
 Puhuja 0: hommasi Twitteriin.
 Puhuja 0: Kyllähän tässä nyt jotain on meneillään.
 Puhuja 0: Mehän tavallaan myös puhutaan tässä
-Puhuja 0: ammattijournalismin syrjäyttämisestä
-Puhuja 0: vapaalla
+Puhuja 0: ammattijournalismin syrjäyttämisestä vapaalla
 Puhuja 0: kanavalla
 Puhuja 0: ja vapaalla
 Puhuja 0: tiedon välityksellä. Siinä ehdottomasti
@@ -185,8 +182,8 @@ Puhuja 0: Mikä on meidän tehtävä? Siinä
 Puhuja 0: oli miellyttävyytensä.
 Puhuja 0: Tämä oli joku yrittäjä, joka kyseli aika leppoisia.
 Puhuja 0: He sai sitä kautta myös semmoista ihan hyvän kuuloista juttua. Oli miellyttävä kuunnella, mitä se Rondesantti sanoi, että mitä hän on saanut aikaan siellä Floridassa.
-Puhuja 0: Miten hän teki vaikka
-Puhuja 0: koronapandemian aikaan eri tavalla kuin Biden
+Puhuja 0: Miten hän teki vaikka koronapandemian
+Puhuja 0: aikaan eri tavalla kuin Biden
 Puhuja 0: tai tällä tavalla. Se oli ihan kiinnostava kuunnella.
 Puhuja 0: Oli mukava kuunnella sen takia, että siinä ei ollut konfliktia
 Puhuja 0: journalistin ja
@@ -200,7 +197,7 @@ Puhuja 2: ei varmaan ollutkaan. Joo, mä näin klipin
 Puhuja 2: lanseerausvideon
 Puhuja 2: jonkun minuutin mittaisen, missä Rondes on... Siinä oli sellaista yhtälö, että valtava
 Puhuja 2: Amerikan lippu ja sitten se kävelee siinä. Suoristaa kravattia ja kävelee
-Puhuja 2: framille ja julistaa jotain. Siinä oli semmoista Amerikan meininkiä, että tämä ei oikein ollut synkassa sen kanssa.
+Puhuja 2: jotenkin framille ja julistaa jotain. Siinä oli semmoista Amerikan meininkiä, että tämä ei oikein ollut synkassa sen kanssa.
 Puhuja 0: Niin,
 Puhuja 0: mutta en tiedä, jos se menee tuohon suuntaan.
 Puhuja 2: Mutta hei, Tuomas, olet välillä sanonut mulle,
@@ -213,9 +210,7 @@ Puhuja 2: että olisiko sillä kuitenkaan maailman mittakaavassa yhtä paljon me
 Puhuja 2: joka menisi
 Puhuja 2: tv-kanavia
 Puhuja 2: pitkin maailmalle.
-Puhuja 0: En mä tiedä.
-Puhuja 0: Mä veikkaan, että joku Foxkin elää nykyään aika vahvasti sen kautta, että
-Puhuja 0: jengi tulee Twitteristä.
+Puhuja 0: En mä tiedä. Kyllä mä veikkaan, että joku Foxkin elää nykyään aika vahvasti sen kautta, että jengi tulee Twitteristä.
 Puhuja 0: Sitten sillä on
 Puhuja 0: nojatuoleihin sen muumioituneet eläkeläiset pitää sitä päällä.
 Puhuja 0: Vaikea sanoa.
@@ -223,13 +218,13 @@ Puhuja 0: Ok.
 Puhuja 0: Nyt kun
 Puhuja 0: lähdette viikonlopun harrastuksiin
 Puhuja 0: eli lampsitte
-Puhuja 0: Setan puoluetoimistolle
-Puhuja 1: bilettämään. Bilettämään.
-Puhuja 2: Yhdessä. Tai vetoamaan kokoomuksen puolelta. Kyllä, kyllä. Otatte parhaat monokkelit,
+Puhuja 0: Setan puoluetoimistolle.
+Puhuja 1: Bilettämään. Viehtävää
+Puhuja 2: yhdessä. Vetomaamaan
+Puhuja 0: Kokoomuksen puolesta. Kyllä, kyllä. Otatte parhaat monokkelit,
 Puhuja 0: laitatte silmään,
 Puhuja 0: Knalli, tänään,
-Puhuja 0: Jaakko.
-Puhuja 0: Knalla kerkeänkää
+Puhuja 0: Klakerkenkää
 Puhuja 0: toisen eteen
 Puhuja 0: ja kohti Setan toimistoa.
 Puhuja 0: Nappatte rohkaisuryypyn,
@@ -239,20 +234,20 @@ Puhuja 0: epävarvoille aktivisteille.
 Puhuja 0: Mistä
 Puhuja 0: sitten huikkaatte
 Puhuja 0: perheille ja ystäville,
-Puhuja 0: kun otatte aukkoasi?
-Puhuja 2: Ensin sanoisin, että kannattaa kuunnella uutisrapsaa, koska sieltä tulee hyviä suosituksia. Muistatteko, Ville Similä suosittelisi
-Puhuja 2: Salaliitto Kairossa
-Puhuja 2: elokuva? Muistan, että minä kävin. Kävin minä ja kymmenen muuta ihmistä käytiin kinonpalat katsomassa se.
-Puhuja 2: Vau! Jos maanantaina
-Puhuja 2: sanon, että oli kyllä kokemus, että jotain aivan muuta. Mä en tiennyt, että se on kinon palatsissa.
+Puhuja 0: kun otatte aukkoa?
+Puhuja 2: Ensin sanoisin, että kannattaa kuunnella uutisrapsaa, koska sieltä tulee hyviä suosituksia. Muistatteko, Ville Similä suositteli sitä Salaliitto Kairossa
+Puhuja 2: elokuva? Muistan, että minä kävin. Kävin minä ja kymmenen muuta ihmistä käytiin Kinopalatsissa katsomassa se,
+Puhuja 2: jos maanantaina.
+Puhuja 2: Ja kylmä sanon, että oli kyllä kokemus, että jotain aivan muuta. Mä en tiennyt, että se on Kinopalatsissa.
 Puhuja 0: Sanoinko Ville niin? Joo,
 Puhuja 2: siinä Kaisaniemessä. Eikö ole kinonpalatsi?
 Puhuja 2: Vähän viittaaisin, että ei välttämättä pyöri kauaa, että menenkö nyt äkkiä katsomaan, jos olette täällä seudun ja haluatte.
 Puhuja 2: Mutta
 Puhuja 2: ihan ihmeellinen elokuva toisesta kulttuuripiiristä.
-Puhuja 2: Okei vaan. Ja siis tosi hienosti kuvattu. Mahtavia. Se oli kenties uutisrapsan
+Puhuja 0: Okei vaan. Ja siis tosi hienosti kuvattu. Mahtavia. Se oli kenties uutisrapsan
 Puhuja 2: historian upeampia suositu. Se oli hyvä suositus.
-Puhuja 2: Jos ei hirveästi naishahmoista piittaa, niin tämä on sinun elokuvasi,
+Puhuja 2: Jos ei hirveästi naishahmoista
+Puhuja 2: piittaa, niin tämä on sinun elokuvasi,
 Puhuja 2: koska niitä siellä ei ollut. No niin salaliitto Kairossa.
 Puhuja 2: Kun olin nuori tyttö 90-luvulla
 Puhuja 2: ja mulla
@@ -274,19 +269,21 @@ Puhuja 2: Oliko se eilen? No eilen. Sinä Turner kahdeksankymmentäkolme vuotta
 Puhuja 2: menehtyi Thirner kahdeksankymmentäkolme vuotta. Hän on kyllä yksi näitä
 Puhuja 2: Rockyn ja Popin
 Puhuja 2: kuningattaria,
-Puhuja 2: vähän niin kuin Whitney, hustonnit ja muut, mutta vielä jotain. Vielä elämä on. Ja sen
+Puhuja 2: vähän niin kuin Whitneyhewtonit
+Puhuja 2: ja muut, mutta vielä jotain. Elikkäs paljon. Ja sen
 Puhuja 2: laulun ja sen ihmisen voimaa ja se tarina,
 Puhuja 2: millainen elämä hänellä on ollut ja näin, niin veti kyllä
-Puhuja 2: hiljaiseksi, kun kuulin tämän uutisen. Eli suositukseni
-Puhuja 2: on paljon muutakin, mitä voin kuulla. Suosittelen vaikka sitä vuonna tuhat yhdeksänsataayhdeksäntoista julkaistua Simplist the best albumia. Se oli kova. Se on hyvä levy.
+Puhuja 2: hiljaiseksi, kun kuulin tämän uutisen. Eli suositukseni on
+Puhuja 2: paljon muutakin, mitä voin kuulla. Suosittelen vaikka sitä vuonna tuhat yhdeksänsataayhdeksäntoista julkaistua Simplist the best albumia. Se oli kova. Se on hyvä levy.
 Puhuja 1: Mä en ole tehnyt mitään
 Puhuja 1: mä mietin sitä New York Timesea aika säännöllisesti,
 Puhuja 1: ja siellä on kamalan paljon juttuja New Yorkilaisten asumisesta.
-Puhuja 1: New Yorkissa asunnot ovat kalliita. Siellä on hyvin vaikea saada millään järkevällä hinnalla asuntoa, mutta niillä on tosi paljon juttuja niistä.
+Puhuja 1: New Yorkissa asunnot ovat kalliita, ja siellä on hyvin vaikea saada millään järkevällä hinnalla asuntoa. Mutta niillä on tosi paljon juttuja niistä.
 Puhuja 1: Yksi kiehtovimpia pitkään aikaan oli... Tämä on pari päivää sitten ilmestynyt.
 Puhuja 1: Tämä kertoo siitä, miten yksi
 Puhuja 1: miljonääri ja yksi miljardööri
 Puhuja 1: tappelee tällaista perkolasta. Molemmat ovat ihan sikarikkaita. He asuvat sohossa.
+Puhuja 1: Se vanhassa talossa.
 Puhuja 1: Yhdeksäntoista
 Puhuja 1: miljardin dollarin omaisuus muistaakseni Formecial listalla kahdeksantoista.
 Puhuja 1: Hän on rakentanut sohossa
@@ -296,8 +293,7 @@ Puhuja 1: katolle sellaisen perkolan, jossa on terassi ja joku katos. Se
 Puhuja 1: on semmoinen parrukatoos.
 Puhuja 1: Joo, täällä on kuviakin siitä. Monet miehet eivät tee mikään perkola.
 Puhuja 1: No joo, mutta sanot terassia katosi.
-Puhuja 1: Joku luvat tähän, mutta ilmeisesti hän on käyttänyt jotain raskaampia
-Puhuja 1: materiaaleja.
+Puhuja 1: Joku luvat tähän, mutta ilmeisesti hän on käyttänyt jotain raskaampia materiaaleja.
 Puhuja 1: Se on
 Puhuja 1: sata v tapa vanha talo, niin se rupeaa painamaan
 Puhuja 1: rakenteita alaspäin.
@@ -311,17 +307,17 @@ Puhuja 1: Tää on jotenkin ihan mahtava tarina.
 Puhuja 1: Nyt alkoi pienestä
 Puhuja 1: tämä kohtelias kirje, että meillä
 Puhuja 1: seinään tulee halkea meidät edes verkolle. Menee pahemmaksi.
-Puhuja 1: Menee
-Puhuja 1: pahemmaksi ja paiminen.
+Puhuja 1: Menee pahemmaksi ja paimise, ja nyt se on oikeudessa.
 Puhuja 2: Mutta vaikka on ihan älyttömästi rahaa,
-Puhuja 2: tietyiltä ongelmilta ei vaan välty. Ärrältä naapureilta naapureilta.
+Puhuja 2: tietyiltä ongelmilta ei vaan välty. Ärstäviltä naapureilta.
 Puhuja 1: Kyllä.
-Puhuja 1: Tää on toimittajaan
-Puhuja 1: Catherine Rosemania.
-Puhuja 1: Pari päivää sitten ilmestynyt juttu. I manyge it miljoneris versus biljoner in the badle of the soho Pergo Pergo.
-Puhuja 1: Mahtavaa.
-Puhuja 0: Mahtavaa löytää. Kiitos, Marko.
-Puhuja 0: Mahtavaa.
+Puhuja 1: Toimittaja
+Puhuja 1: on Catherine Rosemania.
+Puhuja 1: Pari päivää sitten ilmestynyt juttuun. It's
+Puhuja 1: miljoneris versus biljoner in the badle of the soho Pergo Perkona.
+Puhuja 2: Älä mä ajatta.
+Puhuja 2: Mahtavaa asti.
+Puhuja 0: Upea löytö. Kiitos, Marko. Mahtavaa.
 Puhuja 0: Mulla on kaksi suositusta.
 Puhuja 0: Tää on yleissuositus,
 Puhuja 0: tämä ensimmäinen. Se on yleisesti vaan TikTok.
@@ -330,7 +326,8 @@ Puhuja 0: käsittämättömän
 Puhuja 0: hyvä appi.
 Puhuja 0: Eilen
 Puhuja 0: törmäsin
-Puhuja 0: biisin 70-luvulta
+Puhuja 0: tällaiseen biisiin
+Puhuja 0: 70-luvulta
 Puhuja 0: kuin Logical Song.
 Puhuja 0: Moni tunnistaa sen biisin. Mä lauloi sitä teille, mutta sen sanat menee tälleen: When I was young, it seme that like was so wanderful
 Puhuja 0: a mircal,
@@ -346,8 +343,8 @@ Puhuja 0: practical
 Puhuja 0: ja näin päin pois. Monet tuntee.
 Puhuja 0: Scoother on tehnyt tästä todella
 Puhuja 0: hirveän eurodance version.
-Puhuja 0: Tämä on sellaisen bändin biisi kuin Super Trump, 70-luvulta.
-Puhuja 0: Tämä on niin perus TikTokia kuin voi olla, että sitten tiktok jotenkin vaistoaa, että mä tykkäsin tästä biisistä.
+Puhuja 0: Tämä on semmoisen bändin biisi kuin Super Trump, 70-luvulta.
+Puhuja 0: Tämä on niin perus TikTokia kuin voi olla, että sitten tiktok jotenkin vaistoaa, että mä tykkäisin tästä biisistä.
 Puhuja 0: Alkuperäistä 70-luvun soundia. Okei, mä inhoan sitä ysäri-scodeur
 Puhuja 0: soundia.
 Puhuja 0: Mutta sehän on paras 70-luvun soundi.
@@ -375,7 +372,7 @@ Puhuja 0: Viime
 Puhuja 0: viikolla suositteli William Dawissin kirjaa Neveres states.
 Puhuja 0: Mutta kun mä en ollut lukenut sitä loppua, mä en ihan ollut saanut kiinni siitä. Mä koko ajan, kun mä luin sitä eteen... Olin aika alussa viime viikolla. Mä luin sitä eteenpäin. Koko ajan vaan tuntui merkityksellisemmältä
 Puhuja 0: ja
-Puhuja 0: merkityksellisemmältä se kirja, joten mä haluan nyt Mut se oli vähän semmoinen taskolemmin sinne päin, että hei vaikuttaa hyvältä kirjalta. Mutta se kirja tuntuu tosi olennaiselta.
+Puhuja 0: merkityksellisemmältä se kirja, joten mä haluan nyt. Mut se oli vähän semmoinen taskolemmin sinne päin, että hei vaikuttaa hyvältä kirjalta. Mutta se kirja tuntuu tosi olennaiselta.
 Puhuja 0: Tää ehkä kans tuntuu mulle, koska se heijastelee mun
 Puhuja 0: viime vuosien kokemuksia.
 Puhuja 0: Yksi teema, mitä William Davies käy siinä kirjassa läpi. Se pyrkii selittämään se kirja, miksi maailma on semmoinen kuin se nyt on.
@@ -383,14 +380,15 @@ Puhuja 0: Miksi tää on näin
 Puhuja 0: jännitteinen,
 Puhuja 0: näin tämmöinen, että täällä on jotenkin
 Puhuja 0: niin hampaat irvessä
-Puhuja 2: patoutunutta
+Puhuja 1: patoutunutta
 Puhuja 0: aggressiota, semmoista vihamielisyyttä ja muuta.
 Puhuja 0: Ihan vain yksi asia, mikä mua
 Puhuja 0: puhutteli tosi paljon, on semmoista, että se kuvaa jännän kaaren deskarteesista,
 Puhuja 0: joka keksi tämmöisen niin kuin... Okei, ei keksi, mutta se toi
 Puhuja 0: julkisen ajatuksen
 Puhuja 0: mielen ja fyysisyyden
-Puhuja 0: kahtiajaosta, että ne ei olekaan sama asia. Okei, se ei todellakaan varmaan keksi, varmaan joku jengian keksinyt.
+Puhuja 0: kahtiajaosta.
+Puhuja 0: Ne ei olekaan sama asia. Okei, se ei todellakaan varmaan keksi, varmaan joku jengian keksinyt.
 Puhuja 0: Mutta Deskarteista toisen länsimaissa.
 Puhuja 0: Deskarteista sillä oli kaikkia tosi kreisejä ajatuksia niin kuin esimerkiksi, että eläimillä ei ole sielua ollenkaan. Ne on vaan materiaa. On olemassa ylipäätänsä, että on olemassa
 Puhuja 0: mieli, ja se on vain ihmisillä. Ihmiset
@@ -409,8 +407,8 @@ Puhuja 0: ajateltuna on hädin tuskin ihmisiä, että ne on vain jotain fyysisi�
 Puhuja 0: joista nämä Excelissä ja päissään elävät ihmiset päättävät niiden elämästä. Tämä tarkoittaa esimerkiksi
 Puhuja 0: duunareita,
 Puhuja 0: mutta se tarkoittaa myös
-Puhuja 0: esimerkiksi luontoa.
-Puhuja 0: Luonto, joka on fyysinen juttu, siitä päätetään kaikkialla muualla kuin siellä luonnos. Se tarkoittaa myös maahanmuuttajia,
+Puhuja 0: esimerkiksi luontoa. Miten nämä
+Puhuja 0: luonto, joka on fyysinen juttu, siitä päätetään kaikkialla muualla kuin siellä luonnos. Se tarkoittaa myös maahanmuuttajia,
 Puhuja 0: niitä duuneja, mitä maahanmuuttajat
 Puhuja 0: fyysiset tekijät otetaan tänne tekemään.
 Puhuja 0: Sitten siellä
@@ -433,16 +431,16 @@ Puhuja 0: kivun kokemus, varsinkin, jos se kestää vuosia,
 Puhuja 0: vuosia, niin kuin monilla duunareilla se on kestänyt.
 Puhuja 0: Kaikilla
 Puhuja 0: omituisilla
-Puhuja 0: ajatuksilla se Davi selittää katkeruutta,
+Puhuja 0: ajatuksilla se Davece selittää katkeruutta,
 Puhuja 0: joka nykypäivään
 Puhuja 0: liittyy,
 Puhuja 0: varsinkin alemmissa yhteiskuntaluokissa.
 Puhuja 0: Ja myös sitä katkosta, että ylemmissä yhteiskuntaluokissa ei ymmärretä sitä. Se oli tosi vaikuttava kirja. Jos tykkää vähän korkealentoisemmasta
 Puhuja 0: meinjästä, niin William Davis,
-Puhuja 0: Nörverstads
+Puhuja 0: Nörver Stads.
 Puhuja 0: Erittäin
-Puhuja 0: koe.
-Puhuja 0: Siinä kaikki tältä erää.
+Puhuja 0: kyllä kova.
+Puhuja 0: Okei, siinä kaikki tältä erää.
 Puhuja 0: Kiitos Saila Vuorikoski. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Peltomäki.
 Puhuja 0: Kuvan äänen
 Puhuja 0: kaiken mahtavan täällä studiossa, myös valot. Ei ikinä ole mainittu näitä valoja, kun ne on aina niin kohdillaan.

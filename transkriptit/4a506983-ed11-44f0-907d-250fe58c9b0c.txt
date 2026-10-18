@@ -18,7 +18,8 @@ Puhuja 0: tunsin kodikseni, horjuu radioaktiivisen
 Puhuja 0: unohduksen partaalla.
 Puhuja 0: Kolmesataa nolla asteen kaste ydintulessa
 Puhuja 0: en ole pahoillani, me ansaitsimme sen.
-Puhuja 0: Valkoehkuinen
+Puhuja 0: Valkoehkuinen...
+Puhuja 0: Puhelu.
 Puhuja 2: Puhelu.
 Puhuja 0: Puhelu.
 Puhuja 0: Valkohehkuinen
@@ -36,22 +37,17 @@ Puhuja 0: yhtyeen
 Puhuja 0: yhtyeen Gunship
 Puhuja 0: biisissä: Technore.
 Puhuja 0: Mä valitsin tän
-Puhuja 0: ydin tuohon jälkeistä maisemaa kuvaavan runon tähän alkuun, koska nyt on uusi vuosi kaksituhatta
-Puhuja 0: kaksikymmentäkuusi, mutta me
+Puhuja 0: ydin tuohon jälkeistä maisemaa kuvaavan runon tähän alkuun, koska nyt on uusi vuosi kaksituhatta kaksikymmentäkuusi,
+Puhuja 0: mutta me
 Puhuja 0: nauhoitetaan tätä vielä ennen joulua. Ja me ei periaatteessa tiedetä, mitä on tapahtunut.
 Puhuja 0: On mahdollista, että on syttynyt ydinsota,
 Puhuja 0: joten mä ajattelin, että tällä on hyvä lähteä liikkeelle.
 Puhuja 1: Hilpesti.
 Puhuja 1: Mutta se on hyvä, että se luo odotukset sille.
 Puhuja 1: Tosiaan hyvä muistaa kaikkien, että mitä vaan voi tapahtua. Musta toi on tämän vuoden
-Puhuja 2: kulun
-Puhuja 2: ja
-Puhuja 2: sen
-Puhuja 2: kulun huomioiden.
-Puhuja 3: Musta on niinku perversänia
-Puhuja 3: asioita, että Tuomas naureskelee lukee tämmöistä ydintuhoa-tekstiä.
-Puhuja 3: Hei
-Puhuja 0: ja tervetuloa Helsingin Sanomien Utireportti-podcastiin.
+Puhuja 2: kulun ja sen kulun huomioiden, musta toi on just oikea.
+Puhuja 3: Musta on niinku perversänia asioita, että Tuomas naureskelee lukee tämmöistä ydintuhoa-tekstiä.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Utireaportti-podcastiin.
 Puhuja 0: Mä en itse asiassa tiedä, mikä päivä tänään on.
 Puhuja 0: Tänään on hyvin todennäköisesti
 Puhuja 0: ensimmäinen päivä
@@ -78,11 +74,12 @@ Puhuja 3: ja kiinaksi? Ainakin se teksti oli, tai juuri tuli tässä. Juuri näi
 Puhuja 2: Kiinan? Minä haluan, että tähän kuuluu.
 Puhuja 3: Ainakin se tuli tekstinä. Poly glootti
 Puhuja 0: Markku Junkkarin lisäksi meillä on täällä Ansifoja Berner Helsingin Sanomien sunnuntaitoimituksesta.
-Puhuja 0: Ystävien kesken tunnetaan myös Sohvina. Hei vaan Sohvina. Hei hei.
+Puhuja 0: Ystävien kesken tunnetaan myös Sohvina. Hei vaan Sohvin. Hei hei.
 Puhuja 0: Mitäs sun uusi vuosi on lähtenyt käyntiin?
 Puhuja 1: Sitä odotellessa.
 Puhuja 0: Tässä näin uudenvuoden kunniaksi me ajateltiin, että vähän jo perinteeksi muodostuneella
-Puhuja 0: tavalla tehtäisiin
+Puhuja 0: tavalla
+Puhuja 0: tehtäisiin
 Puhuja 0: yhteenveto
 Puhuja 0: siitä, että minkälainen oli tämä edellinen vuosi eli vuosi kaksituhatta kaksikymmentäviisi.
 Puhuja 0: Olen pyytänyt teitä kaikkia, että
@@ -98,7 +95,7 @@ Puhuja 1: en tiedä lisääntymisestä, mutta ainakin sitä edelleen on tosi pal
 Puhuja 1: miesten keskuudessa ja ihaillaan entry-taattia jne.
 Puhuja 1: Mutta sitten ajattelen, että toisaalta nuoret naiset osaavat paljon paremmin
 Puhuja 1: käsitykseni mukaan nykyään myös sanoa vastaan,
-Puhuja 1: ja tunnistaa sen, että minun ikäisenä ehkä
+Puhuja 1: ja tunnistaa sen, että ikäsenä ehkä
 Puhuja 1: sitten vaan
 Puhuja 1: läppää tuli koko ajan,
 Puhuja 1: ja sitten se vaan jotenkin kuului siihen, ja siihen ei reagoitu.
@@ -116,10 +113,9 @@ Puhuja 2: sukupuolesta riippumatta.
 Puhuja 2: Kyllä
 Puhuja 2: ihmiselämässä
 Puhuja 2: ja yhteiskunnan hoitamisessa ja poliittisessa päätöksenteossa kaikessa,
-Puhuja 2: niin kyllähän sellainen tietty kompromissin
-Puhuja 2: kenttä, se konsensus, mehän tarvitaan se, että ylipäätään
+Puhuja 2: niin kyllähän sellainen tietty kompromissin kenttä, se konsensus, mehän tarvitaan se, että ylipäätään
 Puhuja 2: asioita pystytään hoitamaan
-Puhuja 2: ja ratkaisuja tekemään. Joskus on pakko ihmisen antaa periksi omastaan ja toisen toisestaan, että saadaan aikaiseksi jotain.
+Puhuja 2: ja ratkaisuja tekemään, että joskus on pakko ihmisen antaa periksi omastaan ja toisen toisestaan, että saadaan aikaiseksi jotain.
 Puhuja 2: Kyllähän se, että jos samaan aikaan, kun arvot eriytyvät,
 Puhuja 2: niin samaan aikaan siinä kulkee rinnalla se kehitys, että tavallaan puheenparsi
 Puhuja 2: kovenee.
@@ -146,11 +142,11 @@ Puhuja 0: oman sukupuolen kanssa, meillä on jaettuja asioita, mistä
 Puhuja 0: keskenään sitouttaa meitä
 Puhuja 0: toisiimme. Me välitetään toisistamme,
 Puhuja 0: me ymmärretään toisia paremmin kuin meillä on
-Puhuja 0: sukupuolieksluisimmista
+Puhuja 0: sukupuoliekslisuus
 Puhuja 0: kulttuuria.
 Puhuja 0: Sen lisäksi meillä on
 Puhuja 0: sukupuolettunutta,
-Puhuja 0: mihin sä Salla viittasit, että on huonoa käytöstä sukupuolen päällä. Ne ei välttämättä ole silleen, että jos sulla on miehinen kulttuuri, eihän sen tarvitse olla huonoa miehestä. Ei sen tarvitse suuntautua naisia vastaan, mutta välillä se suuntautuu. Tää on vähän persu pointti, mutta jos mä
+Puhuja 0: mihin sä Salla viittasit, että tämä on huonoa käytöstä sukupuolen päällä. Ne ei välttämättä ole silleen, että jos sulla on miehinen kulttuuri, eihän sen tarvitse olla huonoa miehestä. Ei sen tarvitse suuntautua naisia vastaan, mutta välillä se suuntautuu. Tää on vähän persu pointti, mutta jos mä
 Puhuja 0: mietin vaikka, että
 Puhuja 0: jos on vaikka
 Puhuja 0: nuorilla miehillä on lisääntynyt joku misogynistinen
@@ -177,11 +173,12 @@ Puhuja 0: Mun mielestä ne
 Puhuja 0: on monia eri tasoja, joista yksi on selkeä huono käytös, selkeä
 Puhuja 0: uhkailu, vittuilu,
 Puhuja 0: rumasti puhuminen ja tämmöinen. Se ei välttämättä ole linkittynyt siihen, että
-Puhuja 0: se on automaattisesti seurausta siitä, että sukupuolittunut kulttuuri voimistuu.
+Puhuja 0: se on automaattisesti seurausta siitä, että sukupuolittunut
+Puhuja 0: kulttuuri voimistuu.
 Puhuja 2: Ehkä
 Puhuja 2: näin naisena mietin sitä,
 Puhuja 2: että
-Puhuja 2: koen, vaikka se on tietyllä tavalla vähän illuusio ja jokaisella on vain se oma kokemus, eikä ole nähnyt muiden kokemuksia siinä rinnalla välttämättä, mutta ajattelen, että olen saanut kasvaa
+Puhuja 2: koen, vaikka se on varmaan tietyllä tavalla vähän illuusio ja jokaisella on vain se oma kokemus, eikä ole nähnyt muiden kokemuksia siinä rinnalla välttämättä, mutta ajattelen, että olen saanut kasvaa
 Puhuja 2: tällaiseksi jo tukevan keski-ikäiseksi
 Puhuja 2: maailmassa, jossa naisille on ollut ainakin Suomessa aika hyvät mahdollisuudet
 Puhuja 2: valita koulutuspolkuansa
@@ -208,7 +205,7 @@ Puhuja 2: tulevaisuudessa
 Puhuja 2: tällaisessa maailmassa. Kyllä minä olen vähän huolissani, kyllä mielestäni ainakin aika vahva yhteinen kenttä pitäisi olla. Mutta sitten oppon itseäni vastaan, koska yksi hyvä uutinen tältä vuodelta muistaakseni oli se, että kuitenkin
 Puhuja 1: tämän uusimman
 Puhuja 1: perhevapaauudistuksen myötä
-Puhuja 1: miehet ovat enemmän kuin aikaisemmin. Ja juuri se, että ehkä tämä,
+Puhuja 1: miehet ovat enemmän kotona kuin aikaisemmin. Ja juuri se, että ehkä tämä,
 Puhuja 1: että
 Puhuja 1: en ole ihan varma siitä huolimatta, että olen itse tehnyt näitä juttuja ja muita, että niissäkin nousi se, että
 Puhuja 1: ne äärimmäiset porukat ovat pieniä,
@@ -242,7 +239,7 @@ Puhuja 0: puhutaan. Sitten teidän pitää vaan keksiä jotain. Kun Trump pärtc
 Puhuja 0: golfkärryllä
 Puhuja 0: siihen ja rupeatte juttelemaan, niin mikäs se on se, millä
 Puhuja 0: te
-Puhuja 0: sanotte? Tässä on semmoinen rajaus. Näette, mitä on uudenvuoden lupauksia
+Puhuja 0: sanotte? Tässä on rajaus. Näette, mitä on uudenvuoden lupauksia
 Puhuja 0: teidän jutteluaiheinen.
 Puhuja 3: Ai niin.
 Puhuja 0: Kuka haluaa aloittaa?
@@ -291,7 +288,7 @@ Puhuja 1: Ne ovat vain todella hyviä. Ne eivät ole vaikeita,
 Puhuja 1: mutta silti siinä koko ajan tulee sellainen olo, että okei minusta tulee vähän parempi
 Puhuja 1: ruoanlaittaja kun minä teen näitä
 Puhuja 1: reseptejä.
-Puhuja 1: Sitä haluan tehdä ensi vuonna enemmän. Ehdottomasti
+Puhuja 1: Ja sitä haluan tehdä ensi vuonna enemmän. Ehdottomasti
 Puhuja 1: Aliceurmanin
 Puhuja 1: reseptejä.
 Puhuja 1: Niitä löytyy siis myös netistä. Sano vielä se sukunimi. Roman.
@@ -316,17 +313,18 @@ Puhuja 3: ihan senkin takia, että et pysty keskeyttämään sitä.
 Puhuja 3: Joudut menemään, istut alas ja katsot elokuvan alusta loppuun etkä
 Puhuja 3: välissä soita yhtä puhelua tai syö jotain.
 Puhuja 1: Katso puhelinta.
-Puhuja 3: Rupean
-Puhuja 3: nyt käymään
+Puhuja 3: Minä rupean nyt käymään
 Puhuja 3: vähintään kerran kuussa leffassa
 Puhuja 3: Teffateatterissa.
 Puhuja 3: Minulle saa suositella hyviä leffoja.
 Puhuja 0: Suosittelen
 Puhuja 0: jotain elokuvanteatteria.
-Puhuja 0: Mikä on semmoinen, mihin suosittelet
-Puhuja 0: tuolla
-Puhuja 0: oikein
-Puhuja 3: katsojalle?
+Puhuja 0: Mikä on semmoinen, mihin
+Puhuja 0: suosittelet
+Puhuja 0: tuolla oikein katsojalle?
+Puhuja 0: En
+Puhuja 0: mä
+Puhuja 3: osaa.
 Puhuja 3: Mä olen aikoinaan ollut, että pikkuteattereissa töissä, missä
 Puhuja 3: mitä ei... No Kino Engel on nyt ollut. Sinä olet ollut elokuvateatterissa töissä? Monen käyttää. Ihan tosi. Kymmenen vuotta.
 Puhuja 2: Onko noin? Kovaa
@@ -349,8 +347,7 @@ Puhuja 2: Sitten kun se Trump könyää sen Kärt Chans kanssa siihen, niin sitt
 Puhuja 2: golfia pelaavat kuulijamme,
 Puhuja 2: mutta oletko kokeillut ikinä hiittoa?
 Puhuja 2: Tiedätkö
-Puhuja 2: sellainen crosscan tryes king, että ei mennä hissillä ylös vaan
-Puhuja 2: ihan tasaisella
+Puhuja 2: sellainen crosscan tryes king, että ei mennä hissillä ylös vaan ihan tasaisella
 Puhuja 2: pienellä, koska mun lupaukseni on teille, että aion mennä Milano-korttiinan
 Puhuja 2: olympialaisiin
 Puhuja 2: helmikuussa.
@@ -374,7 +371,7 @@ Puhuja 2: on tulossa, mutta ehkä mä rauhoitan
 Puhuja 2: omatuntoani,
 Puhuja 2: kun tietenkin muistan,
 Puhuja 2: kun silloin sota syttyi, niin silloin ne vielä oli hetken aikaa mukana ja ne olivat
-Puhuja 2: Lahden maailmancupin
+Puhuja 2: Lahden maailmankapin
 Puhuja 2: kisassa, oli
 Puhuja 2: pari viikkoa,
 Puhuja 2: oli tapettu ukrainalaisia
@@ -390,7 +387,7 @@ Puhuja 2: Mikä kysymys toi on? Kyllä
 Puhuja 2: näillä näkymin
 Puhuja 2: pelkkää hiihtoa.
 Puhuja 2: Mut jos se ties innostuu, jos innostuu?
-Puhuja 0: Mulla on ollut semmoinen syksy, en tiedä oikein tarkkaan, mistä se johtuu, mutta mä olen ollut tosi jotenkin kuormittunut.
+Puhuja 0: Mulla on ollut semmoinen syksy... En tiedä oikein tarkkaan, mistä se johtuu, mutta mä olen ollut tosi jotenkin kuormittunut.
 Puhuja 0: Sillä oudosti, että mä
 Puhuja 0: havahduun siihen, että saattaa olla, että okei, kohta kaksi puolitoista kuukautta menee ilman, että mä oon kertaakaan sen liikkunut.
 Puhuja 0: Tai ilman, että mä oon kertaakaan tehnyt vaikka jotain kivaa mun lasten kanssa.
@@ -425,7 +422,7 @@ Puhuja 0: tänään vuoden ensimmäisenä
 Puhuja 0: päivänä Mikko Peura. Ja Janne Elkki. Kiitos Mikolle ja Jannelle
 Puhuja 0: koko kuluneesta viime vuodesta.
 Puhuja 0: Tehdään niin, että tämänkin vuoden aikana
-Puhuja 0: joka viikko putkahtaa ulos Uusiraportti-podcast,
+Puhuja 0: joka viikko putkahtaa ulos uutisraportti-podcast,
 Puhuja 0: joten kuullaan taas ensi viikolla!
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit

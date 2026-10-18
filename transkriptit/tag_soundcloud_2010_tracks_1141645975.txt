@@ -86,7 +86,7 @@ Puhuja 0: Toi yhdistettynä
 Puhuja 0: siihen hommaan, mitä tein ilman yhtään vapaapäivää
 Puhuja 0: viime toukokuusta asti. Olin aina vähintään kymmenen tuntia siellä
 Puhuja 0: tontilla. Tosin pidin vapaa viikonloput, kun kävin,
-Puhuja 0: Aaa, katsomassa Suomen pelit
+Puhuja 0: Aaa, katsoin Suomen pelit
 Puhuja 0: Pietarissa
 Puhuja 0: ja Köpiksessä.
 Puhuja 0: Olin todella, todella humalassa.
@@ -102,15 +102,13 @@ Puhuja 2: jossa
 Puhuja 2: samaan aikaan tehdään jotain EU-tason.
 Puhuja 2: Mutta tämä on tosiaan EU-tasolla nyt
 Puhuja 0: just iso keskustelu siitä, että miten ne saataisiin ne... Tässä esimerkiksi Hollannissa käydä just tätä samaa keskustelua, että he ottaa täysin ylimääräistä lainaa vihreään siirtymään miljardiluokalla,
-Puhuja 0: jolla tehdään sitten nämä... Mitkä on... Ei puskista, mutta vähän nyt se on tullut pöydälle, että meidän täytyy tehdä tää iso loikka
-Puhuja 2: aivan erinäköiseen suuntaan. Siis EU-tasolla meillähän on tää
+Puhuja 0: jolla tehdään sitten nämä... Mitkä on... Ei puskista, mutta vähän nyt se on tullut pöydälle, että meidän täytyy tehdä tää iso loikka aivan erinäköiseen suuntaan. Siis EU-tasolla meillähän on tää
 Puhuja 2: tavallaan korona
 Puhuja 2: elpymispaketti,
 Puhuja 2: mistä nyt Suomeenkin rahaa tulossa
 Puhuja 2: ja jonka käytöstä on väännetty, niin siinähän on ihan sama idea, että
 Puhuja 2: EU
-Puhuja 2: hakee, tietysti
-Puhuja 2: jäsenmaat
+Puhuja 2: hakee, tietysti jäsenmaat
 Puhuja 2: maksaa sinne pottiin, mutta sit haetaan markkinoilta myös yhteistä
 Puhuja 2: lainaa ja sit tehdään valtava
 Puhuja 2: investointi
@@ -136,12 +134,14 @@ Puhuja 1: näin, kun tässä
 Puhuja 1: puhutaan tavallaan isoista ja pienistä asioista. Budjettikehyssä
 Puhuja 1: on kuitenkin
 Puhuja 1: pelkkää
-Puhuja 1: tekniikka ja mekaaninen väline. Sinänsä
-Puhuja 1: sillä ei ole pelkkä väline, mutta miksi se väline pitäisi
+Puhuja 1: tekniikka ja mekaaninen väline. Sinänsä sillä
+Puhuja 1: ei
+Puhuja 1: ole pelkkä väline, mutta miksi se väline pitäisi
 Puhuja 1: tavallaan
 Puhuja 1: poistaa
 Puhuja 1: tilanteessa, jossa se ei estä niitä
-Puhuja 1: illuusionatioita otettavia megainvestointeja. Nämä ovat vähän kaksi eri asiaa. Vihreät
+Puhuja 1: illuusionoita otettavia megainvestointeja.
+Puhuja 1: Nämä ovat vähän kaksi eri asiaa. Vihreät
 Puhuja 1: investoinnit voi tehdä täysin riippuvaista.
 Puhuja 1: Nykyjärjestelmän sisällä ne pystyvät tekemään ihan samalla tavalla. Niin miksi tavallaan tieteen tahtoa poistaisi sen budjettisäännön?
 Puhuja 0: Joku toimittaja voisi soittaa pääministerille.
@@ -172,7 +172,7 @@ Puhuja 0: Krista Mikkonen
 Puhuja 0: siirtyy sisäministeriksi,
 Puhuja 0: vaikka hän ei ollenkaan selvästikään halua. Hän on
 Puhuja 0: koulutuksenltaan biologi ja olisin mieluummin pysynyt siellä ympäristöministeriössä.
-Puhuja 0: Hän ei välttämättä ole... Hän kieltäytyi siirtymässä, sitä äänestettiin siihen kokoukseen. Kyllä, hänet pakotettiin sinne.
+Puhuja 0: Hän ei välttämättä löydy... Hän kieltäytyi siirtymässä, sitä äänestettiin siihen kokoukseen. Kyllä, hänet pakotettiin sinne.
 Puhuja 0: Sen jälkeen
 Puhuja 0: ympäristöministeriksi nousee
 Puhuja 0: nykyinen ryhmäjohtaja,
@@ -308,7 +308,7 @@ Puhuja 1: halunnut. Hän on itse sanonut, että hän ei ollut yhden äänen anti
 Puhuja 1: Selvittää, kuka se oli. Haluan tarkentaa.
 Puhuja 0: En tarkoittanut, etteikö Ate Harjanteen tilanne olisi
 Puhuja 0: kiinnostava
-Puhuja 0: ja samalla tavalla kaikki muutkin.
+Puhuja 0: ja ihan samalla tavalla kaikki muutkin.
 Puhuja 0: Itse vaan hoksasin sillä, että miten Twitter toimii sillä tavalla, että siellä vaan se yksi pointti
 Puhuja 0: dominoi. Siellä ei ollut mitään muuta kuin... Joo, se on
 Puhuja 2: se
@@ -333,8 +333,9 @@ Puhuja 0: juttuja. Mitäs juttuja kerrotte Marko?
 Puhuja 1: Olet nyt vähän poissa, että olemme kaikista näistä säännöistä
 Puhuja 1: ja
 Puhuja 1: tavallaan säännöstö lipsuttu.
-Puhuja 0: Harmi, että Alma ei ikinä kertonut tätä joka kerta vaihtuvaa juopottelutarinaa
-Puhuja 1: tähän alkuun. Niin, olen nyt pari kertaa. Olen itse asiassa pyytänyt itse, en ole suositellut mitään vaan
+Puhuja 0: Luulmittaa, että Alma ei ikinä kertonut tätä joka kerta vaihtuvaa juopottelutarinaa
+Puhuja 0: tähän
+Puhuja 1: alkuun. Niin, olen nyt pari kertaa. Olen itse asiassa pyytänyt itse, en ole suositellut mitään vaan
 Puhuja 1: suosituksia kuulijoilta. Väpylän nyt tuota, käytän häikäilemättä teitä arvoisat kuulijat hyväkseni.
 Puhuja 1: Ensi viikolla on Helsingissä syysloma, olen lähdössä lasten kanssa
 Puhuja 0: Tampereelle viideksi. Oi Tampere Suovet. Molemmat
@@ -352,9 +353,8 @@ Puhuja 0: Itsenäisyyden kaduilla näytät sen
 Puhuja 0: sopulinno-nimistä
 Puhuja 0: taloa siellä ja sanot, että Tuomas setä on asunut tuolla. Mä voisin just selvittää, siellä on myös semmoinen,
 Puhuja 1: en ole vielä varanna, mutta se on erittäin semmoinen kattokävelyitä.
-Puhuja 1: Finlays oli sellainen valja, ei kun siellä on valjaat ja sitten kuljetaan kattoja pitkin. Katselaan Tamperetta. Kattokassin kävelyitä.
-Puhuja 0: Joo.
-Puhuja 0: Ja kehre Saari on semmoinen, minkä läpikäelta kannattaa varmaan kuljettaa, koska se muistuttaa vähän niin kuin Harry Potteria tai
+Puhuja 1: Finlays oli sellainen valja, ei kun siellä on valjaat ja sitten kuljetaan kattoja pitkin. Katselaan Tamperetta. Kattokassin kävelyitä. Joo.
+Puhuja 0: Ja kehre Saari on semmoinen, minkä läpikäattaa varmaan kuljettaa, koska se muistuttaa vähän niin kuin Harry Potteria tai
 Puhuja 1: tämmöisiä. Mutta lähettäkää mulle suosituksia. Semmoisia mistä lapset innostuu mutta ennen kaikkea minä innos. Rakastan
 Puhuja 0: Tamperetta. Mutta minä olen ollut elämässäni onnellinen Tampere.
 Puhuja 1: Ettele Hyvinkäällä.
@@ -380,7 +380,8 @@ Puhuja 2: siitä, mitä ne tuottaa.
 Puhuja 2: Se
 Puhuja 2: julkaisi hiljattain uuden levyn, joka on varmasti tämän vuoden top
 Puhuja 2: listoilla monessa julkaisussa.
-Puhuja 2: Sanon vielä, että se human biisi siellä on
+Puhuja 2: Sanon vielä, että se humanbiisi
+Puhuja 2: siellä on
 Puhuja 2: vähän sellaista
 Puhuja 2: Arether Franklin tyyppistä Soul shamplee
 Puhuja 2: pohjalla
@@ -425,8 +426,7 @@ Puhuja 0: niin mulla oli semmoinen tosi onnellinen
 Puhuja 0: aika elämässä.
 Puhuja 0: Tai
 Puhuja 0: silleen, että mulla oli semmoinen, että olin selkeästi voin hyvin. Mun oli tosi hyvä olla itseni kanssa. Tosi hyvä vaan olla kaiken kaikkiaan
-Puhuja 0: Henkisesti ja fyysisesti kaikilla
-Puhuja 0: tavoin oli hyvä. Silleen, että nyt kun mä ajattelen aikaa taaksepäin, niin se oli semmoinen ajanjakso, jonka selkeästi tunnistan sen, että vau, olipa mun hyvä olla.
+Puhuja 0: Henkisesti ja fyysisesti. Kaikilla tavoin oli hyvä. Silleen, että nyt kun mä ajattelen aikaa taaksepäin, niin se oli semmoinen ajanjakso, jonka selkeästi tunnistan sen, että vau, olipa mun hyvä olla.
 Puhuja 0: Se oli semmoinen aika, jolloin mä meditoin.
 Puhuja 2: Ja nehän liittyy
 Puhuja 0: toisiinsa. Meditaatio jäi multa pois ton rakan myötä tai pikkuhiljaa lipsuja jäi pois.
@@ -451,7 +451,7 @@ Puhuja 0: fyysisesti hyvin.
 Puhuja 0: Se on semmoinen mille tulee täysin sokeaksi elämässä. Sitä kuvittelee, että
 Puhuja 0: mä tässä meditoin, mä teen tässä
 Puhuja 0: fiksusti ja hyvin. Mutta oikeasti on kyse siitä, että mun on jo valmiiksi hyvä olo, mä oon hyvässä duunissa, mä en ole rasittunut, mun ei tarvitse valvoa, mulla ei ole puoliso, joka on aina kännissä
-Puhuja 0: ja näin. Sen takia mä voin hyvin. Sen takia mä voin vähän meditoida siihen päälle.
+Puhuja 0: ja näin. Sen takia mä voin hyvin, sen takia mä voin vähän meditoida siihen päälle.
 Puhuja 0: Yksi, mihin tää raksa avasi silmiä oli se, että silloin kun on rasittunut, niin kaikki muukin lähtee menemään päin vittua.
 Puhuja 0: Se on jotenkin, mun mielestä olisi tärkeää, että sen muistaisi, kun katselee ihmisiä tässä yhteiskunnassa. No niin, jeesustelu Over.
 Puhuja 0: Siinä oli nimittäin Uts the Rubard The Bodgeens

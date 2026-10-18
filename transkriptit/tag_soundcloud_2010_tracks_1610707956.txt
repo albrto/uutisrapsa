@@ -13,12 +13,12 @@ Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 0: Hei ja tervetuloa
-Puhuja 0: Helsingin Sanomien uutiskirjeraportti-podcastiin
+Puhuja 0: Helsingin Sanomien Uutisraportti-podcastiin
 Puhuja 0: torstaina seitsemän. Syyskuuta
 Puhuja 0: vuonna kaksituhatta kaksikymmentäkolme. Mun nimi on Tuomas Peltomäki ja kanssani täällä Helsingin Sanomien podcaststudiossa
 Puhuja 0: Helsingissä Suomessa Euroopassa.
-Puhuja 0: Vitsi Eurooppa. Mikä
-Puhuja 0: Manner maapallolla ovat
+Puhuja 0: Vitsi Eurooppa. Mikä Manner
+Puhuja 0: maapallolla ovat
 Puhuja 0: iso joukko
 Puhuja 0: podcastaajia?
 Puhuja 0: Nimittäin vasemmalla minusta lukien on Helsingin Sanomain tutki vain juttujain
@@ -29,7 +29,8 @@ Puhuja 0: vastapäätä
 Puhuja 0: istuu Helsingin Sanomien
 Puhuja 0: politiikan ja talouden
 Puhuja 0: toimituksen työnyrkki numero UNA
-Puhuja 0: Anni Keski-Heikkilä ystävien kesken A. H. Hei Anni.
+Puhuja 0: Anni Keski-Heikkilä ystävien kesken A.
+Puhuja 0: H. Hei Anni.
 Puhuja 1: Hei, moi, kiva olla täällä.
 Puhuja 0: Ja
 Puhuja 0: vielä
@@ -75,22 +76,21 @@ Puhuja 0: kokkailun
 Puhuja 0: eilen keskiviikkona. Varsinainen äänestys hallituksen
 Puhuja 0: luottamuksesta tapahtuu perjantaina,
 Puhuja 0: mutta
-Puhuja 0: mun mielestä ehdottomasti se lakipiste oli se edellinen keskustelu, joka kesti ja kesti.
-Puhuja 0: Sen lisäksi keskustellaan
+Puhuja 0: mun mielestä ehdottomasti se lakipiste oli se edellinen keskustelu, joka kesti ja kesti. Sen lisäksi keskustellaan
 Puhuja 0: aivan erinomaisesta,
-Puhuja 0: lähes
-Puhuja 0: harvinaisella tavalla kansainvälisen tyylisestä ja laatuisesta
-Puhuja 0: artikkelista, jonka oli kirjoittanut suuresti ihailmani Sami Sillanpää, jossa kerrottiin
-Puhuja 0: todella shokeeraava
-Puhuja 0: tieto, että
-Puhuja 0: nämä al-Hollissa varsin terrori makuista elämää viettäneet
+Puhuja 0: lähes harvinaisella tavalla kansainvälisen
+Puhuja 0: tyylisestä ja laatuisesta
+Puhuja 0: artikkelista, jonka oli kirjoittanut suuresti ihailmani
+Puhuja 0: Sami Sillanpää, jossa kerrottiin
+Puhuja 0: todella shokeeraava tieto, että
+Puhuja 0: nämä alhollissa varsin terrori makuista elämää viettäneet
 Puhuja 0: suomalaisvaimot eivät ole sen jälkeen, kun kolme vuotta sitten kotiutettiin
-Puhuja 0: alhoolista, he eivät ole kohdanneet tästä minkään näköisiä seuraamuksia
+Puhuja 0: alhoolista, he eivät ole kohdanneet minkäänlaisia seuraamuksia
 Puhuja 0: ISIS-seikkailustaan.
 Puhuja 0: Sanottomaksi vetää lapset ja kaikki on edelleen siellä pikkupiirteissä kasvamassa,
 Puhuja 0: varmasti tasapainollisissa
 Puhuja 0: tunnelmissa.
-Puhuja 0: Tämä herättää niin monia kysymyksiä, että en lähde edes erittelemään niitä tässä. Ja vielä puhutaan
+Puhuja 0: Tää herättää niin monia kysymyksiä, että en lähde edes erittelemään niitä tässä. Ja vielä puhutaan
 Puhuja 0: englannin kielen käytöstä ravintolassa. Tilatteko blat poding suppia vai years upattua?
 Puhuja 0: Värikäs ja kiinnostava keskustelu on käyty Suomessa. Siitä, tuleeko ravintoloissa puhua suomea
 Puhuja 0: vai onko se peräti liikaa vaadittu
@@ -106,7 +106,7 @@ Puhuja 0: ja onko oikein ajat tänne sellaista palvelukulttuuria, jossa asiakasp
 Puhuja 0: saa ainoastaan
 Puhuja 0: englanniksi? Ja mikä pahinta, Suomea ei edes ymmärretä.
 Puhuja 0: Tuire,
-Puhuja 0: kuten tekstistä huomaa, erinomaisen taitava keskustelu... Saatiin meille, että se oli ihan menneessä.
+Puhuja 0: kuten tekstistä huomaa, erinomaisen taitava keskustelu... Saatiin meille, että se oli ihan mennyt.
 Puhuja 0: Hän sai tosi hyvän keskustelun aikaan Suomessa tästä, että
 Puhuja 0: mikä on se tilanne. Oletteko törmänneet tähän ilmiöön
 Puhuja 0: käydä sen Realismissa? Joo, jatkuvasti.
@@ -120,31 +120,32 @@ Puhuja 1: Olen käynyt siellä useamman kerran lounaalla,
 Puhuja 1: niin
 Puhuja 1: se on ihan totta.
 Puhuja 1: Tarjoilijat puhuvat siellä. Minä en ole itse asiassa kenenkään kanssa puhunut suomea vielä.
-Puhuja 1: He puhuivat englantia ja kun tuli tämä Tuiren kirjoitus, niin olin jo silloin siellä tullut käyneeksi
+Puhuja 1: He puhuivat englantia ja Kun tämä Tuiren kirjoitus tuli, niin olin jo silloin siellä tullut käyneeksi
 Puhuja 0: Luitko, että sinä tai siellä ravintolassa.
 Puhuja 1: Ei, mutta olisin voinut tietysti lausua sen siellä ääneen.
 Puhuja 1: Mutta tajusin vain silloin, että en ole edes ajatellut
-Puhuja 1: sitä asiaa. En ole ajatellut, kun olen käynyt syömässä,
-Puhuja 1: että voi hyvänen aika, että täällähän puhutaan englantia. Se on tuntunut aika luontevalta, koska se on se kokemus tässä
+Puhuja 1: sitä asiaa.
+Puhuja 1: En ole ajatellut, kun olen käynyt syömässä,
+Puhuja 1: että voi hyvänen aika, täällähän puhutaan englantia. Se on tuntunut jotenkin aika luontevalta, koska se on se kokemus tässä
 Puhuja 1: kuhisevassa pääkaupungin keskustassa, että on paljon paikkoja, joissa puhutaan englantia. Miten Marko?
 Puhuja 2: Tämä
 Puhuja 2: on
 Puhuja 2: minusta
-Puhuja 2: hankalinta se, että
+Puhuja 2: hankalaa se, että
 Puhuja 2: kun aloittaa suomeksi, toinen vastaa englanniksi. Ei varma ymmärtääkö se
 Puhuja 2: suomea vai ei. Yritän
 Puhuja 2: periaatteessa puhua suomea, koska mielestäni niin pitäisi tehdä, mutta ainakaan kiusallista.
 Puhuja 2: Ei ole varma osaako suomea minkä verran osaa. Yleensä ne lähes aina osaa vähän. Ajatteletko niin, että yrität auttaa häntä
 Puhuja 1: puhumaan suomea vai haluat että sinulle puhutaan suomea? Enemmän ajattelen, että että mun mielestä
 Puhuja 2: yleensä pitäisi kannustaa. Mulla on paljon tuttavapiirissä
-Puhuja 2: ulkomailta muut Suomessa asuvia. Miehenkin naapurustossa useampia. Eräänkin
-Puhuja 2: niekkimiehen kanssa rupean puhumaan englantia. Se on silleen, että puhu suomea, pliis.
+Puhuja 2: ulkomailta Suomessa asuvia. Miehenkin naapurustossa useampia. Eräänkin
+Puhuja 2: jenkkimiehen kanssa rupean puhumaan englantia. Se on, että puhu suomea, pliis.
 Puhuja 0: Olen kääntänyt tässä täysin kelkkani,
 Puhuja 0: koska rakastan englannin kieltä. Olen opiskellut englannin kieltä yliopistossa. Olen puhunut koko ikäni todella hyvää englantia. Mun isä oli kielenkääntä,
 Puhuja 0: jonka pääkieli oli englanti, ja kieli ja kulttuuri
 Puhuja 0: kaikkinensa on mulle tosi rakas.
 Puhuja 0: Sytyn, kun tulee arjessa yhtäkkiä vastaan mahdollisuus puhua
-Puhuja 0: englantia. Luulen, että se on yleisesti jaettu tunne suomalaisille, että on kiva päästä puhumaan englantia. Minusta on myös, mutta se on vain korrekti ja yrittää puhua suomea, jos mahdollista. Mä vaihdoin tässä,
+Puhuja 0: englantia. Luulen, että se on yleisesti jaettu tunne suomalaisille, että on kiva päästä puhumaan englantia. Joo, musta on myös, mutta musta se on vain korrekti ja yrittää puhua suomea, jos mahdollista. Mä vaihdoin tässä,
 Puhuja 0: ehkä joku vuosi sitten vaihdoin siihen. Jopa
 Puhuja 0: juntti laitetaan, että menen ravintolaan nykyään, niin tilaan suomeksi,
 Puhuja 0: ja sitten kun se tarjoilija vastaa englanniksi, niin jatkan suomeksi silti. Mä
@@ -161,10 +162,9 @@ Puhuja 0: Olen ollut tarjoilijana ja kokkina.
 Puhuja 0: Ravintola-ala
 Puhuja 0: on todella kansainvälinen ala.
 Puhuja 0: Ravintola substanssi siinä on pääasiassa ranskankielistä.
-Puhuja 0: Et pysty olemaan töissä ravintola-alalla, ellet sä jonkun verran Ranskaa
-Puhuja 0: ranskaa. Melkein mistä tahansa kielestä on keittiöversio, ja se tarkoittaa
-Puhuja 0: nimenomaan, että ravintoloissa puhutaan
-Puhuja 0: olennaista sanaa millä hyvänsä kielellä. Pääasiassa
+Puhuja 0: Et pysty olemaan töissä ravintola-alalla, ellet sä jonkun verran Ranskaa ranskaa. Melkein mistä tahansa kielestä on keittiöversio, ja se tarkoittaa nimenomaan,
+Puhuja 0: että ravintoloissa puhutaan
+Puhuja 0: neljäkymmentä olennaista sanaa millä hyvänsä kielellä. Pääasiassa
 Puhuja 0: ranskaksi, englanniksi, Italia, on myös totta kai tosi tärkeä keittiökieli.
 Puhuja 0: Pärjäät sillä.
 Puhuja 0: Se lukee niitä
@@ -194,20 +194,19 @@ Puhuja 1: hirveästi valinnanvaraa
 Puhuja 1: työntekijöissä,
 Puhuja 1: vaan yritetään saada ylipäätään työntekijöitä.
 Puhuja 1: Tosi moni tuli minulle sanomaan, että pitää vain vaatia, että he puhuvat suomea.
-Puhuja 1: Jos se ei puhu suomea? Mikä
+Puhuja 0: Jos se ei puhu suomea? Mikä
 Puhuja 0: siinä työvoimapulassa estää sen, ettei opettele kolmekymmentä sanaa? Tuomas.
 Puhuja 0: Kolmekymmentä sanaa, josta yksi on sipule.
-Puhuja 0: Kolmekymmentä
-Puhuja 0: sanaa, mikä estää sen, että vaikka minkä näköinen pula niin
+Puhuja 0: Kolmekymmentä sanaa, mikä estää sen, että vaikka minkä näköinen pula niin
 Puhuja 0: että ne opettelee samat ihmiset opettelevat ne ranskaksi,
-Puhuja 0: niin miksi ne eivät opettele niitä suomeksi? Ne kuuluvat.
+Puhuja 0: niin miksi ne ei opettele niitä suomeksi? Ne kuuluvat.
 Puhuja 1: Sulla on toiveet ja se, mitä sä haluaisit ja sitten on se todellisuus, mitä tapahtuu. Jos
 Puhuja 1: työntekijöistä on kova pula ja on vähän työntekijöitä tarjolla,
 Puhuja 1: silloin työnantaja voi asettaa
 Puhuja 1: vähemmän vaatimuksia kuin tilanteessa, jossa on paljon ihmisiä tarjolla.
 Puhuja 1: Jos tilanne on se, että on paljon sellaisia ihmisiä, jotka tulevat kausitöihin lyhytaikaisesti täällä, eivät ole oppineet suomen kieltä tai eivät halua oppia suomen kieltä. Se ei sillä, että sinä menet sinne asiakkaana
-Puhuja 0: väkisin puhumaan suomea, ei se muuta mitään. Tuo on täysi fantasia, tuo ei ole totta. Ei kun sinulla ole fantasia. Ei kun sinulla ole fantasia. Ei kun sinulla ole fantasia. Ei kun sinulla ole fantasia. Kukaan ihminen ei ole silleen, että mä menen nyt Sambiaan. Mä
-Puhuja 2: menen
+Puhuja 0: väkisin puhumaan suomea, ei se muuta mitään. Tuo on täysi fantasia, tuo ei ole totta. Ei kun sinulla ole fantasia. Ei kun sinulla ole fantasia. Ei kun Kukaan ihminen ei ole silleen, että mä menen nyt Sambiaan. Mä
+Puhuja 0: menen
 Puhuja 0: Sambiaan baariin töihin. Mä en aio opetella niitä kuutta sanaa, mitä kaljan tilaaminen
 Puhuja 0: bempan kielellä vaatii. Totta kai mä opettelen ne, eikä se ole multa kuin venää.
 Puhuja 1: Sä et ole siellä töissä.
@@ -218,16 +217,16 @@ Puhuja 0: menette
 Puhuja 0: suosikki ravintolaanne
 Puhuja 0: ja tilaatte sieltä
 Puhuja 0: itsellenne jonkun juoman
-Puhuja 2: beenmpaa kielellä,
+Puhuja 2: beenban kielellä,
 Puhuja 0: Sitten naapuripöydässä joku onneton vanha mummo, joka ei osaa bempaa,
 Puhuja 0: naura hänelle
 Puhuja 0: paskaisesti
 Puhuja 0: ja sen jälkeen
 Puhuja 0: alatte kertoa
-Puhuja 0: juttujane niin mistä hänelle kertoo?
+Puhuja 0: juttuja niin mistä hänelle kertoo?
 Puhuja 2: Tämä
 Puhuja 2: on ollut yleensä tässä vaiheessa, jossa olen aina paniikissa, että
-Puhuja 2: mistä puhuisi. Mutta nyt kun olen ollut kesä ja olen lukenut valtavasti kirjoja. Ja minulla on suorastaan rivistö, josta voin varmaan joka viikolle
+Puhuja 2: mistä puhuisi. Mutta nyt kun olen ollut kesä ja olen lukenut valtavasti kirjoja. Ja minulla on suorastaan rivistö, josta josta voin varmaan joka viikolle
 Puhuja 2: koko syksyn
 Puhuja 2: ajaksi
 Puhuja 2: riittää. Aloitan minkä luin viimeksi, tai
@@ -241,29 +240,25 @@ Puhuja 2: maapallon lahjakkaimpien
 Puhuja 2: nuorten
 Puhuja 2: ykköshaavetyöpaikka,
 Puhuja 2: että pääsee McKinsin konsultiksi ja tienaa.
-Puhuja 2: Saad Batthor.
+Puhuja 2: Sääd Batthor.
 Puhuja 2: Hän
-Puhuja 2: pääsee konsultoimaan.
-Puhuja 2: Yrityskonsultti,
+Puhuja 2: pääsee konsultoimaan. Se on yrityskonsultti,
 Puhuja 2: joka
 Puhuja 2: konsultoi
 Puhuja 2: yrityksiä ja julkisia
 Puhuja 2: toimijoita.
 Puhuja 2: Tämä on tällainen,
-Puhuja 2: mikä toinen on New York chamsin toimittaja, Walt Bouck Danic
+Puhuja 2: mikä toinen on New York chamsin toimittaja, Walt Bouganic
 Puhuja 2: ja Michael Forshythe.
 Puhuja 2: Aivan huikea kirja, jossa käydään läpi
 Puhuja 2: McKinsin
 Puhuja 2: kaikki synnit ja niitä riittää. Varmaan
 Puhuja 2: joka ikinen yrityskandaali, jota maailmanhistoriassa on tapahtunut,
 Puhuja 2: niin McKinsin on enemmän tai vähemmän syyllisllisenä tai osallisena ainakin siihen.
-Puhuja 2: Se on joka ikisessä paikassa. Sieltä kun aina alkaa uusi luku ja tulee se epäusko ja ajatus, että oikke, tässäkin ollut mukana.
+Puhuja 2: Se on joka ikisessä paikassa. Sieltä kun aina alkaa uusi luku ja se epäusko on aidosti, että oikke, tässäkin on ollut mukana.
 Puhuja 2: Mutta
-Puhuja 2: klassikko...
-Puhuja 2: Siis
-Puhuja 2: tämä
 Puhuja 2: Jenkkien opioidikriisi,
-Puhuja 2: tällainen Occont,
+Puhuja 2: tällainen Oksant,
 Puhuja 2: tai pahin näistä, joka myi ihmisille näitä addiktoivia
 Puhuja 2: lääkkeitä.
 Puhuja 2: McKinse konsultoi sekä sitä yhtiötä että sitä valvovaa tahoa.
@@ -278,18 +273,19 @@ Puhuja 2: The hidoin influenssa of the world's most Powerful consulting för. Ku
 Puhuja 1: Entä Salla? No niin. Sitten kun on naurannut mummolle
 Puhuja 1: rumasti
 Puhuja 1: siellä ravintolan parissa.
-Puhuja 2: Joo, ei ne vaan pysty kuin työvoimapula,
-Puhuja 2: niin ei kolmekymmentä sanaa, se on liikaa vaadittu!
-Puhuja 1: Siises sun kanssa.
+Puhuja 0: Joo, ei ne vaan pysty, kun työvoimapula,
+Puhuja 0: niin ei kolmekymmentä sanaa, se on liikaa vaadittu!
+Puhuja 1: Siis siis sun kanssa.
 Puhuja 1: Kun jäin
 Puhuja 1: kesälomalle, niin ajattelin, että haluan jotain
 Puhuja 1: fiktiota ja romantiikkaa.
 Puhuja 1: Jotain sellaista, joka vie kauas kaikista vaalirahoista
 Puhuja 1: ja
 Puhuja 1: kaikista muista työasioista.
-Puhuja 1: Minä tartuin siis tällaisessa
+Puhuja 1: Tartuin siis tällaisessa
 Puhuja 1: kirjapalvelussa
-Puhuja 1: ensimmäisenä, mitä minulle tarjottiin
+Puhuja 1: ensimmäisenä,
+Puhuja 1: mitä minulle tarjottiin
 Puhuja 1: jostain kategoriasta.
 Puhuja 1: Minua ärsyttää, kun lukee etukäteen, joka elokuva, lukee etukäteen
 Puhuja 1: tiivistelmiä,
@@ -315,9 +311,9 @@ Puhuja 1: ympäristön tuhoamisesta,
 Puhuja 1: alkuperäiskansojen
 Puhuja 1: kohtelusta.
 Puhuja 1: Siinä mennään vuosikymmeneltä toiselle.
-Puhuja 1: Olin huokailin ensimmäisten
-Puhuja 1: kymmenien sivujen aikana jo, että
-Puhuja 1: tämä ihminen kirjoittaa jotenkin aivan mahtavasti.
+Puhuja 1: Ja minä huokailin ensimmäisten
+Puhuja 1: kymmenien sivujen aikana jo, että tämä ihminen kirjoittaa jotenkin
+Puhuja 1: aivan mahtavasti.
 Puhuja 1: En kerro enempää juonesta.
 Puhuja 1: Voin sanoa, että minä en helposti itke, mutta minulla kävi muutama
 Puhuja 1: suolainen kyynel jossain vaiheessa vierähti poskelle. Se on todella koskettava.
@@ -335,7 +331,7 @@ Puhuja 1: Mutta kaikille, jotka haluavat jotain todella
 Puhuja 1: syvää ja
 Puhuja 1: upeaa, Shelly Read, minä Virta kuljettaa. Upeata, kiitos. Minulla on kaksi pikasta.
 Puhuja 0: Ensimmäinen on paikka.
-Puhuja 0: Viime viikonloppuna, kun oli kesän
+Puhuja 0: Järjestin viime viikonloppuna, kun oli kesän
 Puhuja 0: mahtava kuuma, lämmin,
 Puhuja 0: lähes trooppisia vivahteita oleva viimeinen kesän viikonloppu,
 Puhuja 0: niin järjestin mun lapsille ja exvaimolle tämmöisen, että okei, nyt mennään käymään
@@ -353,27 +349,26 @@ Puhuja 0: sanoi, että hei, menkää vaan, siellä voi kävellä
 Puhuja 0: sitä taidepolkua, vaikka se onkin kiinni.
 Puhuja 0: Joten me oltiin silleen, että hitto, no mennään, okei, ja hypättiin laivaan.
 Puhuja 0: En tiennyt, että siinä on ihan suolalainen se lauttahinta. Se oli kaksikymmentä euroa.
-Puhuja 0: Sitten se lautta vei Vallisaareen, jossa tämä hele... Se lärvi.
+Puhuja 0: Sitten Lautta vei
+Puhuja 0: Vallisaareen, jossa tämä helikop. Se lärvi.
 Puhuja 0: Aikuiselta.
-Puhuja 0: Me
-Puhuja 0: tultiin Vallisaareen,
+Puhuja 0: Me tultiin Vallisaareen,
 Puhuja 0: joka oli siis...
 Puhuja 0: Se piennaali sieltä oli kiinni, joten se saari oli tyhjä.
 Puhuja 0: Se oli
 Puhuja 0: niin uskomattoman hieno kokemus.
 Puhuja 0: Se oli niin käsittämättömän
-Puhuja 0: mystinen.
-Puhuja 0: Se tuntui siltä, että olisit heränneet unesta.
+Puhuja 0: mystinen. Se
+Puhuja 0: tuntui siltä, että olisit heränneet unesta.
 Puhuja 0: Koko tämä Suomihan oli
 Puhuja 0: unta, vaan oikeasti maailma koostui silleen, että Helsingin perustikin
 Puhuja 0: Victoriaaniset
 Puhuja 0: hobitit ja Gandalftiakka
-Puhuja 0: asuu siellä,
-Puhuja 0: saarella, jonka
-Puhuja 0: pääasiallinen
-Puhuja 0: elinkeino on olla
-Puhuja 0: upea 20-vuotias hipsteribaarin
-Puhuja 0: pitäjä. Se on
+Puhuja 0: asuu siellä, saarella,
+Puhuja 0: jonka
+Puhuja 0: pääasiallinen elinkeino on olla
+Puhuja 0: upea, 20-vuotias hipsteribaarinpitäjä.
+Puhuja 0: Se on
 Puhuja 0: niin
 Puhuja 0: mieletön paikka.
 Puhuja 0: Suookset tippui silmiltä. Siinä vieressä on Suomenlinna, joka on niin tylsä,
@@ -387,8 +382,8 @@ Puhuja 0: ykköseksi.
 Puhuja 0: Okei, ja sitten kouriintuntuvampaa.
 Puhuja 0: Olen aina vihannut toista maailmaa. Oon varsinkin vihannut kaikkia natsijuttuja.
 Puhuja 0: Mun mielestä ne tulee mieleen mustavalkoiset
-Puhuja 0: uutiskuvat ja vakavat äijät
-Puhuja 0: ja lykki jotain minipanssarivaunuja
+Puhuja 0: uutiskuvat ja vakavat äijät,
+Puhuja 0: lykkii jotain minipanssarivaunuja
 Puhuja 0: kartoilla. Niinkuin hyi.
 Puhuja 0: Aina vältellyt sitä aihetta.
 Puhuja 0: Mutta nyt samalla tavalla kuin sulla,
@@ -421,9 +416,10 @@ Puhuja 0: Se on kylmäävä kokemus, senkin takia suosittelen. Rise and fall of 
 Puhuja 0: kirjoittanut William L. Shair meni ihan heittämällä
 Puhuja 0: top sinne.
 Puhuja 0: Aivan uskomaton kirja. Menkää lukemaan Vallisaaren
-Puhuja 0: mystinen hieno paikka. Ja puhukaa paikallista kieltä. Just näin. Klingonia.
+Puhuja 0: mystinen hieno paikka. Ja puhukaa paikallista kieltä. Just näin.
+Puhuja 1: Klingonia.
 Puhuja 0: Siinä kaikki tältä erää. Kiitos Salla Vuorikoski. Kiitos. Kiitos Marko Junkka. Kiitos. Kiitos, Marko Junkka.
-Puhuja 0: Kiitos. Kiitos Aallolle, joka joutui livistään kohti töitä.
+Puhuja 0: Kiitos. Kiitos Aapolle, joka joutui livistään kohti töitä.
 Puhuja 0: Mun nimi on Tuomas Peltomäki.
 Puhuja 0: Äänenäkuva on kaiken muun mahtava meille tekee tällä viikolla Janne
 Puhuja 0: Erkki. Lähttäkää meille palautetta.
@@ -433,7 +429,8 @@ Puhuja 0: kolmen ihmisen voimin tässä studiossa ensi viikolla.
 Puhuja 0: Moi,
 Puhuja 0: Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit,
-Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin
+Puhuja 0: yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
 Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.

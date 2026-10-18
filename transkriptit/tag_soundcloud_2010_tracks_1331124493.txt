@@ -16,7 +16,7 @@ Puhuja 0: Hei vaan!
 Puhuja 0: Tervetuloa Helsingin Sanomien Uusiraportti-podcastiin
 Puhuja 0: torstaina
 Puhuja 0: kaksikymmentäviisi. Päivä
-Puhuja 0: elokuuta vuonna kaksituhatta kaksikymmentäkaksi. Mun nimi on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien
+Puhuja 0: elokuuta vuonna kaksituhatta kaksikymmentäkaksi. Mun nimi on Tuomas Pelmäki. Kanssani täällä Helsingin Sanomien
 Puhuja 0: podcast-studiossa
 Puhuja 0: ovat
 Puhuja 0: talous toimittaa.
@@ -31,22 +31,23 @@ Puhuja 2: Hei Marko. Heisan Tuomas. Joko talo on valmis?
 Puhuja 2: Kaikki
 Puhuja 0: ainakin. Saat tuparit.
 Puhuja 0: Tupparit on ihan kohta. Mä en nimittäin lennä mun väliaikaisesta kämpästä pihalle tän viikon jälkeen.
-Puhuja 0: Mä luulen, että älkää nyt vaan kertoko tästä kenellekään. Mun pitää jotenkin salaa muuttaa mun taloon ilman, kun se on täysin luvallista.
+Puhuja 0: Mä luulen, että älkää nyt vaan kertoko tästä kenellekään. Mun pitää jotenkin salaa muuttaa sinne mun taloon ilman, kun se on täysin luvallista.
 Puhuja 0: Koska
 Puhuja 0: mä oon viikon päästä koditon.
 Puhuja 0: Mutta mä
 Puhuja 1: etsin tähän jonkun ratkaisun. Mä siis vitsaili, että Tuomas voi täällä Sanomatalon podcaststudiossa
-Puhuja 1: nukkuessa aina aamuisin käärii tatamin rullalle. Tietikö japanilaisella,
-Puhuja 1: että hei, hai, sitten vaan päivä käyntiin.
+Puhuja 1: nukkuessa aina aamuisin käärii tatamin rullalle. Tietikö japanilaiselle
+Puhuja 1: ylös, että häi,
+Puhuja 1: sitten vaan päivä käyntiin.
 Puhuja 0: Styles. Haluan, koska te käytitte
 Puhuja 0: kokonaisen segmentin, niin podcast Markon kesä kuulumisia. Mä en halua kertoa
 Puhuja 0: omat.
-Puhuja 0: Vitsi, meillä oli mahtava... Me mentiin siis
+Puhuja 0: Vitsi, meillä oli mahtava... Mentiin siis
 Puhuja 0: mun ex-vaimo,
 Puhuja 0: mun paras kaveri ja meidän tyttäret
 Puhuja 0: ja heidän kaverit mentiin Harryestyles keikalle Tukholmaan.
 Puhuja 0: Sitten minä ja mun
-Puhuja 0: kaveri Paavo, me oltiin
+Puhuja 0: kaveri Paavo me oltiin
 Puhuja 0: full on Harryestyles set up. Meillä
 Puhuja 0: oli hörhölöpoat ja
 Puhuja 0: valtavat
@@ -55,9 +56,9 @@ Puhuja 0: sormuksia.
 Puhuja 0: Mulla oli mikroshortsit
 Puhuja 0: ja näin. Me oltiin ainoat aikuiset miehet siellä teinimeressä, joka oli täysin panostanut siihen.
 Puhuja 0: Ensinnäkin olin ekaa kertaa ikinä tilassa, joka on täysin teinityttöjen
-Puhuja 0: hallinnoima. Siellä oli mitä kolmekymmentä nolla teinityttöä
-Puhuja 0: siinä jonossa.
-Puhuja 0: Ja sitten minä ja mun kaveri Paavo aikuiset äijät siinä. Ja se atnosfääri
+Puhuja 0: hallinnoima. Siellä oli mitä kaksikymmentä kolmekymmentä nolla teinityttöä
+Puhuja 0: siinä jonossa. Ja sitten minä ja mun kaveri Paavo aikuiset äijät
+Puhuja 0: siinä. Ja se atnosfääri
 Puhuja 0: siellä, koska se oli niitten tyttöjen määrittämä. Se oli ihana. Se oli niin kevyt. Se oli niin
 Puhuja 0: iloinen,
 Puhuja 0: tukeva.
@@ -78,7 +79,7 @@ Puhuja 0: Kaikki oli hiljaa. Taas aaltoja!
 Puhuja 0: Kukaan ei lähtenyt. Ja me jatkettiin. Ja me jatkettiin.
 Puhuja 0: Ja sitten ne lähti.
 Puhuja 0: Pikkuhiljaa meidän ympäriinsä. Vähän kauempaa. Sitten pitkin janoa lähti menemään. Kaikki ne kymmenen nolla teinityötä, että rupes tekemään aaltoja. Ei tiedä, mitä ne on nää ne katseet, mitä meidän tyttäret heitti meihin päin,
-Puhuja 0: että iskät tiesi jotain. Iskät osasi tän homman. Ja se oli upeeta. Noniin, jes!
+Puhuja 0: että iskät tiesi jotain. Iskät osasi tän homman. Ja se oli upeeta. No niin, jes!
 Puhuja 0: Okei, tää alkoi ihan täysin heleena. Mä haluan äkkiä kiittää kesätiimiä.
 Puhuja 0: Oli jotenkin
 Puhuja 0: upeata...
@@ -87,7 +88,7 @@ Puhuja 0: Moni kuulijoista on niin nuori, että se ei tajua, miten
 Puhuja 0: ihanaa on tutustua nuoriin ihmisiin tuolla tavalla. Kuunnella
 Puhuja 0: tosi tyhmiä. Kukaan ei oikein väittää.
 Puhuja 0: Mä olen ollut tarjoilijana, kun olisi vaikka kuuli.
-Puhuja 1: Ottakaa omat miakat. Jotkut puumiakat mukaan, niin voidaan miekkailla siellä. Tarjoilijoilla saa olla miekka. Eikö? Mitä?
+Puhuja 1: Ottakaa omat miekat. Jotkut puumiekat mukaan, niin voidaan miekkailla siellä. Tarjoilijalla saa olla miekka. Eikö? Mitä?
 Puhuja 0: Sano vielä, että mikä se aihe on, koska mä haluan... No niin,
 Puhuja 1: älä lipsa tästä. Olen kuullut tarinoita
 Puhuja 1: siitä, että tällaiset humanistiset väitöskirjat etenkin
@@ -96,9 +97,7 @@ Puhuja 1: pyrkimys, että minusta tulisi väitöskirjatutkija
 Puhuja 1: neljän vuoden päästä.
 Puhuja 1: Kolmekymmentäviisivuotiaana ajattelin olla tohtori.
 Puhuja 0: Marko,
-Puhuja 0: jos
-Puhuja 0: sun pitäisi sanoa, mikä on Alman
-Puhuja 0: väitöskirja-aihe...
+Puhuja 0: jos sun pitäisi sanoa, mikä on Alman väitöskirja-aihe...
 Puhuja 0: Sä tiiät mikä on siellä. Mikä
 Puhuja 0: on Almamainen
 Puhuja 0: väitöskirja-aihe, niin mikä se sun mielestä oli?
@@ -130,21 +129,22 @@ Puhuja 0: Et se silloin gradu? Tein.
 Puhuja 1: Mä tykittelin neljäs kuukaudessa gradun kasaan.
 Puhuja 1: Kirjoittelin sitä Itä-Pasilassa
 Puhuja 1: ja kävin lenkillä
-Puhuja 1: syksyisessä Vallilanlaaksossa
-Puhuja 1: ja se oli ihanaa. Rakastin sitä ja ajattelin, että olisipa kiva tehdä väitöskirja, mutta kukaan ei koskaan tule maksamaan tästä
+Puhuja 1: syksyisessä Vallilanlaaksossa.
+Puhuja 1: Se oli ihanaa. Rakastin sitä ja ajattelin, että olisipa kiva tehdä väitöskirja, mutta kukaan ei koskaan tule maksamaan tästä
 Puhuja 1: ihmisen ja muovin suhteen pyörittelystä.
 Puhuja 1: Tämä on humanistille
 Puhuja 1: täysin
-Puhuja 1: utopistinen ajatus.
+Puhuja 1: utopistinen
+Puhuja 1: ajatus.
 Puhuja 1: Rakastan
 Puhuja 1: toimittajan töitä. Miksi mä luopuisin kivasta työpaikasta, josta mä saan kuukausipalkka?
 Puhuja 1: Sen
 Puhuja 1: apuraharumpban
-Puhuja 2: takia. Että siinä ei olisi järkeä. Mutta onko tämä lopullisesti sanottu, että heippa hei journalismille?
+Puhuja 2: takia. Että siinä ei olisi järkeä. Mutta onko tää lopullisesti sanottu, että heippa hei journalismille?
 Puhuja 1: En todellakaan.
 Puhuja 1: Kyllä mä oon ajatellut jatkaa freelance toimittajana totta kai väikkärihommien
 Puhuja 1: ohessa ihan jo paikatakseni
-Puhuja 1: niitä taloudellisia menetyksiä joita mulle koituu siitä että hyppään
+Puhuja 1: niitä taloudellisia menetyksiä joita mulle koituu siitä, että hyppään
 Puhuja 1: yksityisestä yrityksestä
 Puhuja 1: yliopiston leiville.
 Puhuja 1: Kaikessa ei ole kyse rahasta, vaan on kyse myös intohimosta.
@@ -164,16 +164,16 @@ Puhuja 1: hankkeessa.
 Puhuja 1: Mun tehtävä on siinä hankkeessa
 Puhuja 1: tähän ihmisen ja muovin suhteeseen perehtyä. Onko
 Puhuja 0: journalismin
-Puhuja 0: vai jotenkin
-Puhuja 1: muuten? Jotenkin muuten. Meillä on tarkoitus
+Puhuja 0: vai jotenkin muuten?
+Puhuja 1: Jotenkin muuten. Meillä on tarkoitus
 Puhuja 1: tehdä, ihan kerätä tyyliin etnografian
-Puhuja 1: avulla materiaalia.
-Puhuja 1: Menen jonnekin paikkoihin
+Puhuja 1: avulla materiaalia,
+Puhuja 1: että menen jonnekin paikkoihin
 Puhuja 1: havainnoimaan sitä, miten ihmiset sen muovin kanssa
 Puhuja 1: ovat ja kuinka se muovi myös heihin vaikuttaa. Älkää kysykö multa yhtään sen tarkemmin. En ole tehnyt vielä tutkimussuunnitelmaa.
 Puhuja 0: Todella kiinnostavaa. Tarkoksoilla
 Puhuja 0: on
-Puhuja 1: paljon mielipiteitä muauista. Niin täähän, että meillä kaikilla on. Ja meidän jätesuhde on hirveän kiinnostavaa,
+Puhuja 1: paljon mielipiteitä moista. Niin täähän, että meillä kaikilla on. Ja meidän jätesuhde on hirveän kiinnostavaa,
 Puhuja 1: koska se jätehän on sellainen, että me ollaan haluttu
 Puhuja 1: sulkea siltä silmät ja olla ajattelematta sitä. Ja se juuri on se syy sille, miksi me ollaan tällä hetkellä sellaisessa muovikriisissä. Kun me ollaan vaan tällainen suljettu silmät ja heitetty se kokispullo tuosta olan yli, niin vitsi, ne onkin kerääntynyt kaikille maailman rannoille. Että jotenkin se, että me ei olla sostuttu aktiivisesti
 Puhuja 0: ajattelemasta, että mitä me jätämme jälkeenpäin täällä. Paitsi me syö, jos ollaan. Ne on niin kuin peilaa kansalaiset, niin kuin Italiaa ja muut. Ne tekee sitä sotkimista. Mutta siis, vyyhtinen sanookin näin,
@@ -192,8 +192,8 @@ Puhuja 1: Se palauttaa jotenkin uskoo myös akatemiaan,
 Puhuja 1: että kaiken ei aina tarvitse olla sellaista, että nyt me
 Puhuja 1: kehitetään ratkaisuja
 Puhuja 1: teknologian käyttöön,
-Puhuja 1: vaan että aidosti kyllähän kaikessa meidän toiminnassa on taustalla
-Puhuja 1: jonkinlainen filosofia siitä, mitä on ihmisyys ja mitä on olla ihminen ja millä perusteella me vaikka hyödynnetään resursseja ja luontoa ja millä me oikeutamme sitä. Kyllä koen, että tällaisella tutkimukselle, vaikka itse sanonkin,
+Puhuja 1: vaan että aidosti kyllähän kaikessa meidän toiminnassa on taustalla jonkinlainen
+Puhuja 1: filosofia siitä, mitä on ihmisyys ja mitä on olla ihminen ja millä perusteella me vaikka hyödynnetään resursseja ja luontoa ja millä me oikeutamme sitä. Kyllä koen, että tällaisella tutkimukselle, vaikka itse sanonkin,
 Puhuja 1: niin kyllä silti koen, että
 Puhuja 1: tällaisella tutkimukselle juuri nyt on,
 Puhuja 1: että sille
@@ -206,7 +206,7 @@ Puhuja 0: leipiintyneelle.
 Puhuja 0: Kaikkialle sattuu, ja nytkin mahassa kiertää.
 Puhuja 0: Tämmöinen elämä on vaikea.
 Puhuja 0: Mulle se tekisi hyvää. Mutta miten sä sait ton aikaan?
-Puhuja 0: Tuohan kuitenkin... Ei tommosta tapahdu, että sun gradusta yhtäkkiä sulle maksetaan, että teet vaikka. Ei tommosta tapahdu. Varsinkaan just jossain tämmöisillä
+Puhuja 0: Toihan kuitenkin... Ei tommosta tapahdu, että sun gradusta yhtäkkiä sulle maksetaan, että teet vaikka. Ei tommosta tapahdu. Varsinkaan just jossain tämmöisillä
 Puhuja 0: pilipaloilla
 Puhuja 0: ei sitä tehdä. Miten sä sait ton aikaan?
 Puhuja 1: Ehkä mä oon vaan niin kiva tyyppi.
@@ -214,17 +214,17 @@ Puhuja 1: Ehkä kivoille ihmisille tapahtuu kivoja asioita. En tiedä. Ehkä. Ni
 Puhuja 1: Kuten sanoin, täähän on täysin uskomatonta. Mä olin silleen, että anteeksi, mä saan kolmeksi vuodeksi palkkaa tästä. Ja sitten se vikavuosi,
 Puhuja 0: mun täytyy keksiä jostakin joku rahoitus siihen. Toi on tommonen, mitä valehdella ei tee hyvä gradu, niin ehkä joku voi sulle maksaakin siinä. Silloin
 Puhuja 1: kun tein sitä mun gradua,
-Puhuja 1: kaikki mun toimittajat, ystävät ja tutut sanoi mulle, että
+Puhuja 1: kaikki mun
+Puhuja 1: toimittajat, ystävät ja tutut sanoi mulle, että
 Puhuja 1: kunhan vaan heität jotain sinne ja ota ykkösellä läpi ja sitten vaan toimittajana sä et tee mitään sillä gradulla. Mä olin silleen, että niin, niin. Mutta takaraivossa
 Puhuja 1: on pieni ajatus, mutta entä jos väitöskirja? Tiedättekö sellainen ajatus vaan, että
-Puhuja 1: tohtorin nimike, mikä siinä on vaan siisti. Siinä on vain
+Puhuja 1: tohtorin nimike, mun mielestä siinä on vaan siisti. Siinä on vain
 Puhuja 1: jotain huulia. Niin olin silleen, että jos pieni
 Puhuja 1: takaportti kuitenkin oli se, että tein gradun kunnolla
 Puhuja 1: ja tässä sitä ollaan.
 Puhuja 1: En tiedä. Ehkä se on vain. Olen
 Puhuja 1: sanonut tämän ennenkin, mutta olen vaan ihan jumalaton Hannuhanhi. Mulla siis käy tosi usein ihan saatanan kova munkki. Järtävä
-Puhuja 1: tuuri. Se on vaan oikeasti. Se on vaan oikeasti.
-Puhuja 1: Todellakin!
+Puhuja 1: tuuri. Se on vaan oikeasti. Se on vaan ihana. Todellakin!
 Puhuja 1: Mä manifestoisin.
 Puhuja 2: Ootmassa Tampereelle
 Puhuja 0: siis. En ainakaan heti. Kyllä Suomen parhaaseen kaupunkiin päästä.
@@ -267,9 +267,10 @@ Puhuja 2: Tämä on ainakin Disneyn palvelussa tämmöinen This is us
 Puhuja 2: tv-sarja.
 Puhuja 2: Onko Komika koulu
 Puhuja 2: se
-Puhuja 2: idea. Se on tällainen ihmissuhdedraama
+Puhuja 2: idea.
+Puhuja 2: Se on tällainen ihmissuhdedraama
 Puhuja 2: eikä siinä saa mitään ihmeellistä, mutta siinä on aika makee tarina.
-Puhuja 2: Se tapahtuu monessa eri ajassa yhtä aikaa, mutta
+Puhuja 2: Se tapahtuu monessa eri ajassa yhtä aikaa, mutta se
 Puhuja 2: perustarina on se että
 Puhuja 2: oli pariskunta jonka nainen odotti kolmosia.
 Puhuja 2: Sairaalassa
@@ -282,12 +283,12 @@ Puhuja 2: jossa
 Puhuja 2: tämä pariskunta oli saanut nämä kolmosetyksi
 Puhuja 2: kuoli. Ja sitten ne päättivät
 Puhuja 2: adoptoida. Sitten sinne tuo vauva ja se onnistui. Perhe on muuten valkoinen mutta
-Puhuja 2: se kolmas tai armutoitu lapsi oli musta.
+Puhuja 2: se kolmas arputoitu lapsi oli musta.
 Puhuja 2: Tarina alkaa siitä,
 Puhuja 2: kun sisko ja kaksi veljeään oli kaksi veljeään,
 Puhuja 2: kaksi
-Puhuja 2: valkoista lasta, niin ne ovat 35-vuotiaita. Ja sitten
-Puhuja 2: tavallaan yksi on
+Puhuja 2: valkoista lasta, niin ne ovat 35-vuotiaita. Ja sitten tavallaan
+Puhuja 2: yksi on
 Puhuja 2: tällainen
 Puhuja 2: näyttelijä,
 Puhuja 2: joka esiintyy B-luokan
@@ -304,8 +305,8 @@ Puhuja 2: ja itse asiassa vyöllä lasten
 Puhuja 2: isovanhempien tarinaa. Se hyppii ajasta toiseen, tosi nopeasti tehtyä. Siihen on saatu
 Puhuja 2: rotujen välistä ja ylipäätään ihmisyyteen liittyvää. Se on aika makee se sarja.
 Puhuja 0: Vitsi että kuulostaa upealta.
-Puhuja 2: Parasta tässä on se, että kun vaimoidaan tästä innoissaan niin
-Puhuja 2: paljon nopeammin kuin minä.
+Puhuja 2: Parasta tässä on se, että kun vaimoidaan tästä innoissaan niin paljon
+Puhuja 2: nopeammin kuin minä.
 Puhuja 2: Se katsonut jo kaksi ensimmäistä kautta ja mua on aika paljon perässä. Mutta se ei sinänsä haittaa. Se aina välillä katselin yhden jakson välistä.
 Puhuja 2: Voi myöhemmin katsoa kautta silleen että näin GHJAT, jakson numero kolme,
 Puhuja 2: yksitoista ja neljätoista.
@@ -313,13 +314,14 @@ Puhuja 2: Mutta se on hyvä sarja, suosittelen.
 Puhuja 0: This is us Netflix, eikö
 Puhuja 0: this Netflix? Kuuskautta vissiin tullut, että.
 Puhuja 1: Mä suosittelen
-Puhuja 1: kahta asiaa HBO Maxilta.
-Puhuja 1: Olen ennenkin varmaan tässä podissa suositellut sarjaa nimeltä Toka and Birdi! Toka and Birdi on aivan sairaan hauska animaatiosarja
+Puhuja 1: kahta asiaa HBO
+Puhuja 1: Maxilta. Olen ennenkin varmaan tässä podissa suositellut sarjaa nimeltä Toka and Birdi! Toka and Birdi on aivan sairaan hauska animaatiosarja
 Puhuja 1: kahdesta kolmekymppisestä
 Puhuja 1: lintumimmista,
 Puhuja 1: jotka tällaisesta Bird Townissa
 Puhuja 1: elävät tällaisten kolmekymppisten
-Puhuja 1: naisten elämää työ, parisuhde ja ystävyyshuolineen.
+Puhuja 1: naisten elämää työ,
+Puhuja 1: parisuhde ja ystävyyshuolineen.
 Puhuja 1: Se on mun mielestä aivan sairaan hauskaa ja siitä on tullut nyt kakkos ja kolmos kausi, joka on tällä hetkellä meneillään.
 Puhuja 1: Tuka ja Burdi
 Puhuja 1: pelasti
@@ -330,7 +332,8 @@ Puhuja 1: suosittelen. Toinen mitä suosittelen.
 Puhuja 1: Mulla tässä viikon sisällä
 Puhuja 1: alkoi niin tulla korvista kaikki
 Puhuja 1: nämä Marin-analyysit, jotka toistuvat samanlaisina
-Puhuja 1: mediasta ja muodosta toiseen ja Twitterissä ei mistään muusta puhutakaan ja
+Puhuja 1: mediasta ja muodosta toiseen.
+Puhuja 1: Twitterissä ei mistään muusta puhutakaan ja
 Puhuja 1: meni täysin hermo siihen kaikkeen, mutta silti en pystynyt sulkemaan
 Puhuja 1: kaikkia luureja vaan jotakin kuunneltavaa piti löytää.
 Puhuja 1: Löysin
@@ -341,11 +344,9 @@ Puhuja 1: analyyttinen ja anaalinen popmusiikki-podcast
 Puhuja 1: PS tykitellään,
 Puhuja 1: jota vetävät Oskari Onninen ja Niko Vartiainen.
 Puhuja 1: Ei ole toukokuun jälkeen tullut uusia jaksoja Oskari ja Niko
-Puhuja 1: Kai te aiotte jatkaa. PS tykitellään podcastin tekemistä mä toivon niin mä oon kuunnellut vanhoja jaksoja. Tiedättekö mulla on sellainen olo, että
-Puhuja 1: tosi stressaantunut, niin mä en yleensä pysty kuuntelemaan silloin musiikkia.
-Puhuja 1: Ja jotenkin ehkä on ollut vähän pidemmän aikaa jo sellainen, että ei oikein pystynyt. Mutta sitten mä rupesin kuuntelemaan tätä podcastia ja kiinnostuin niistä
+Puhuja 1: Kai te aiotte jatkaa. PS tykitellään podcastin tekemistä. Mä toivon niin mä oon kuunnellut vanhoja jaksoja. Tiedättekö mulla on sellainen olo, että
 Puhuja 1: bändeistä ja aiheista, joista Oskari ja Niko siellä puhuu. Olen alkanut kuunnella ihan uutta
-Puhuja 1: musiikkia, jota en ole kuullut ennen. En esimerkiksi ole mikään kovin suuri pop-musiikin kuluttaja. Olen enemmänkin hevimuija esimerkiksi,
+Puhuja 1: musiikkia, jota en ole kuullut ennen. En esimerkiksi ole mikään kovin suuri pop-musiikin kuluttaja. Olen enemmänkin hevimuija esimerkiksi.
 Puhuja 1: Niin oon löytänyt tosi paljon kaikkea uutta kuunneltavaa tästä ja se on
 Puhuja 1: jotenkin kivasti
 Puhuja 1: irrottanut
@@ -402,7 +403,7 @@ Puhuja 0: Aluksi
 Puhuja 0: spikkaa on, niin kuin kuka tahansa toimittaja. Yhtäkkiä huomaa, että ei vittu, että se spikkaa on kaiken tämän raimissa.
 Puhuja 0: Kaikki
 Puhuja 0: on soinnullisia, siis riimittelee.
-Puhuja 0: Ja sitten sä ajattelet, mitä nyt tapahtuu. Ja yhtäkkiä siihen tuleekin biitti, ja se laulaa pari säkeistöä.
+Puhuja 0: Ja sitten sä ajattelet, mitä nyt tapahtuu näin. Ja yhtäkkiä siihen tuleekin biitti, ja se laulaa pari säkeistöä.
 Puhuja 0: Se on niin hämmentävä kokemus
 Puhuja 0: kuunnella tuota podcastia.
 Puhuja 0: Siitä ei ole, että ihminen on suurimpia neroja, mitä on
@@ -423,7 +424,8 @@ Puhuja 0: Moikka
 Puhuja 0: moi!
 Puhuja 1: Helsingin Sanomat.
 Puhuja 0: Moi, Tuomas tässä.
-Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: Mun uusi podcast
+Puhuja 0: menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten
 Puhuja 0: historian suurin yritystappio
 Puhuja 0: syntyi.

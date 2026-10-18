@@ -33,7 +33,7 @@ Puhuja 2: Ja itse asiassa sanotaan nyt, että todellisuudessahan me elämme siis
 Puhuja 2: Saako muuten brilerata vähän? Tiedättekö,
 Puhuja 2: miksi keskiviikko on keskiviikko? No tietenkin sen takia, että se on keskellä viikkoa, keskimmäinen päivä, mutta tiedättekö, minkä takia
 Puhuja 2: englannin kielessä se on wenseda?
-Puhuja 3: En tiedä kyllä. En ikinä ajatella.
+Puhuja 4: En tiedä kyllä. En ikinä ajatella.
 Puhuja 2: Se tulee alun perin Veidens Day, joka viittaa Oodiiniin.
 Puhuja 2: Ja tiedätte varmaan, minkä Oodin, tällainen muinaisen...
 Puhuja 2: Pohjoismainen Jumala. Ylijumala
@@ -42,7 +42,7 @@ Puhuja 2: viisauden ja kaiken,
 Puhuja 2: mitä nyt esimerkiksi Iranissa
 Puhuja 2: ja ehkä erityisesti Amerikassa tarvittaisiin
 Puhuja 2: tätä Jumalaa, niin muualla maailmassa tämä on tosiaan Oodinin päivä. Mutta koska olemme Suomessa, niin meillä se on keskiviikko. Se on vaikeampi.
-Puhuja 2: Tehdäänkö
+Puhuja 4: Tehdäänkö
 Puhuja 2: ehdotus, että vaihdetaan Odinin päivä?
 Puhuja 2: Hyvä!
 Puhuja 2: Tänään keskustelemme siitä.
@@ -84,7 +84,7 @@ Puhuja 2: Ja sitten meillä on yksi
 Puhuja 2: syntinen joukossa. Mut voitte arvailla nytten.
 Puhuja 2: Ehkä Podin aktiivikuljat
 Puhuja 2: ovat saaneet jo aiemmin vihiä tästä, kuka tämä syntinen on? Mutta
-Puhuja 2: tällaista aiheista tänään.
+Puhuja 2: tällaisista aiheista tänään.
 Puhuja 2: Eilen eduskunnassa
 Puhuja 2: valtiovarainministeri
 Puhuja 2: Riikka Purra
@@ -126,17 +126,17 @@ Puhuja 3: on myös tässä keskustelussa. Just
 Puhuja 4: näin.
 Puhuja 4: Toimittajapiireissä voi olla ongelma, mutta sanoisin, että se on tosi monella alalla. Just. Ajatellaan
 Puhuja 4: lopulta siinä saman viiteryhmä.
-Puhuja 4: Mun on pakko kertoa anekdootti viime
+Puhuja 4: Minun on pakko kertoa anekdootti viime
 Puhuja 4: viikonlopulta. Kävin kirjastossa ja tykkään historiasta elämäkerroista.
-Puhuja 4: Se haahuili, eikä löytynyt mitään. Sitten mennään pöydällä, että Marxin elämäkerta.
-Puhuja 4: Sanoin, että mitäs se jätkä tekikään. Lainataanpas tämä. Menen lainaamaan sen.
+Puhuja 4: Hahuiili, eikä löytynyt mitään. Sitten mennään pöydällä, että Marxin elämäkerta.
+Puhuja 4: Sanoin, että mitäs se jätkä tekikään. Laitetaanpas tämä. Menen lainaamalla sen.
 Puhuja 4: Sitten mä oon just ottanut sen kirjan Kainelan lähes kirjastosta. Sitten mulla tulee edes lapsuuden kaveri joka
 Puhuja 4: rahoitustehtävissä,
-Puhuja 4: hyvissä yöaltistehtävissä.
-Puhuja 4: Sitten se tulee siihen kirjastolle, että se katsoo mua.
-Puhuja 1: Se tulee kädessä se
-Puhuja 3: Iso marssi.
-Puhuja 4: Punainen kirja, jos lukee Karmu Marxia. Sitten se katsoo sitä kirjaa, se katsoo minua. Just silleen, että
+Puhuja 4: hyvissä yöalatteristehtävissä.
+Puhuja 4: Sitten se tulee siihen kirjastoon, että se katsoo mua.
+Puhuja 4: Se tulee kädessä se
+Puhuja 4: Iso Marx.
+Puhuja 4: Punainen kirja, jos lukee Karmu Marxia ja sitten se katsoo sitä kirjaa, se katsoo minua. Just silleen, että
 Puhuja 4: Helsingin Sanomien toimittaja.
 Puhuja 3: Haluatko hulluna sille äidille? Joo. Kyllä
 Puhuja 2: Mutta ehkä päästään tässä minun mielestäni olennaiseen pihviin. Okei, ihmisillä on arvomaailmoja.
@@ -154,8 +154,7 @@ Puhuja 2: Mutta
 Puhuja 2: nyt kysymys kuuluu, että lääkäritkin
 Puhuja 2: äänestävät todennäköisesti. He hoitavat
 Puhuja 2: potilaita, ja meillä ei ole potilaita, mutta meillä aiheita ja asioita, joista me teemme.
-Puhuja 2: Tavallaan
-Puhuja 2: siinä on mielestäni
+Puhuja 2: Siinä on mielestäni
 Puhuja 2: naiivi ajatus, että toimittaja menee sinne töihin ja aamulla
 Puhuja 2: rupeaa pomon kanssa miettimään, että miten edistäisimme
 Puhuja 2: nyt tätä vasemmistoliiton asiaa
@@ -189,8 +188,8 @@ Puhuja 2: on enemmän
 Puhuja 2: oikeistolaista
 Puhuja 2: ajattelua
 Puhuja 2: ja päälliköillä on enemmän valtaa, että sitten arvomaailmat
-Puhuja 2: tasoittuvat siellä taustalla.
-Puhuja 2: Ja
+Puhuja 2: tasoittuvat siellä taustalla. Ja
+Puhuja 2: ja
 Puhuja 3: ja tässä tutkimuksessa mitattiin myös tällaisia asioita, ja nämä olivat minusta
 Puhuja 3: erittäin kiinnostavia tuloksia. Täällä kysyttiin esimerkiksi vanhempien tulotasosta,
 Puhuja 3: ja
@@ -260,7 +259,7 @@ Puhuja 3: poliittista kallellaan olokeskustelua
 Puhuja 3: on käyty iät ja ajat, niin siihen on sellainen
 Puhuja 3: jonkinlainen
 Puhuja 3: sisäinen rokotus, että sitä jotenkin osaa varoa, tai väkisinkin
-Puhuja 2: pyrkii katsomaan eri näkökulmasta. Ja joskus tiedän aika
+Puhuja 3: pyrkii katsomaan eri näkökulmasta. Ja joskus tiedän aika
 Puhuja 3: överiksi se tasapaino.
 Puhuja 3: Kyllä,
 Puhuja 3: Mutta näille muille asioille voi olla sokempia.
@@ -277,12 +276,13 @@ Puhuja 3: mielenkiintoisia ihmisiä ja saan olla luova. Nämä kaikkihan lähtee
 Puhuja 3: siitä, että millaista minulla siellä töissä
 Puhuja 3: on.
 Puhuja 3: Ja sitten kun kysyttiin, että onko toimittajan tehtävä edistää poliittista agendaa, niin se prosenttiosuus oli
-Puhuja 3: hyvin pieni, kun nämä huiteli siellä yhdeksänkymmentä
+Puhuja 3: hyvin pieni, kun nämä huitelivat
+Puhuja 3: yhdeksänkymmentä
 Puhuja 3: prosentissa.
 Puhuja 3: Jotenkin aiheuttaa. Ja onhan tämä kiusallista keskustelua meille.
 Puhuja 3: Ainakin meille Tampereen yliopiston kanssa teille.
-Puhuja 1: Kyllä minä huomaan, että joudun heti puolustuskannalle.
-Puhuja 1: Joo, mutta ihan
+Puhuja 3: Kyllä minä huomaan, että joudun heti puolustuskannalle.
+Puhuja 3: Joo, mutta ihan
 Puhuja 2: Sitten kun olet huokaissut helpotuksesta
 Puhuja 2: asuntolainan
 Puhuja 2: korontarkistuspäivä,
@@ -373,7 +373,7 @@ Puhuja 4: tämmöisen rytmin, ja nyt aina kun avaan sen, niin mietin, että olen
 Puhuja 3: valinnalla. Mutta tää on kiinnostavaa, koska olen ollut koko elämän mittainen pro
 Puhuja 3: kokis, ja nyt olen ihan viime kuukausina vaihtanut Pepsiin.
 Puhuja 3: Olen miettinyt, että mitä tästä tapahtuu.
-Puhuja 2: Eri asia kuin se koko tuote? Me voidaan pitää joku raati. Ja tämä vie meidät takaisin HSY-toimistoon.
+Puhuja 4: Eri asia kuin se koko tuote? Me voidaan pitää joku raati. Ja tämä vie meidät takaisin HSY-toimistoon.
 Puhuja 2: Uutisraporttitestiin.
 Puhuja 2: Tuohon edelliseen keskusteluun, eikös tuo ole just sellainen tilanne, että menet sinun pomolle, että hei olen miettinyt tämmöistä, voisinko tehdä laajan vertailun ja julkaista sen HS-visiossa.
 Puhuja 2: Kumpi on oikeasti parempi?
@@ -384,13 +384,13 @@ Puhuja 2: pari päivää aamulla siihen, että pakastin oli
 Puhuja 2: mennyt rikki, se on aina iloinen yllätys arkiaamuna,
 Puhuja 2: se ei enää lähtenyt siitä
 Puhuja 2: toimimaan.
-Puhuja 2: Sitten jouduttiin hakemaan uusi pakastin pikavauhdilla ja kävin
+Puhuja 2: Ja sitten jouduttiin hakemaan uusi pakastin pikavauhdilla ja kävin
 Puhuja 2: siellä läpi, niin ajattelin, että minäpäs paista nuo pullat,
 Puhuja 2: jotkut tollaspullat
 Puhuja 2: pakastimessa.
 Puhuja 2: Mutta otin. Minä haluan suositella sitä, minulla ei ole mitään käsitystä. Ai, että Kansallisteatteria
 Puhuja 2: jaksa. En tiedä miten se pyörii, ja onko lippuja saatavilla,
-Puhuja 2: mutta kävin katsomassa sen alkuvuodesta.
+Puhuja 2: mutta kävin katsomassa sen alkuvuodesta,
 Puhuja 2: Ehkä minun päällimmäinen ajatukseni oli se, että kyllä on Suomessa ollut vaikeaa ja
 Puhuja 2: oikeasti
 Puhuja 2: raskasta elämää. Ja kun me täällä näitä

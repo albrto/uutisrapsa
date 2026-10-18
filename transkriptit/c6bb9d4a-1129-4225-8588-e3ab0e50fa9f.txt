@@ -6,9 +6,9 @@ Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 0: Maailma on muuttunut tavalla,
-Puhuja 0: jota tuskin
-Puhuja 0: kukaan osasi ennakoida.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
@@ -40,7 +40,7 @@ Puhuja 0: torstaina
 Puhuja 0: kolmetoista. Päivää.
 Puhuja 0: Marraskuuta
 Puhuja 0: vuonna kaksituhatta kaksikymmentäviisi. Mun nimi on Tuomas Peltomagian kanssani täällä Helsingin Sanomissa sanoi: Sohvi,
-Puhuja 0: hei.
+Puhuja 0: hei!
 Puhuja 0: No heipä hei Tuomas. No niin, ei mitään kunnolla.
 Puhuja 0: Helsingin Sanomien Future-toimituksen
 Puhuja 0: toimittaja. Ansfonia Berner, ystävien kesken sohvi. Hei vaan sohvi. No heipä hei. Olipa ilahduttava aloittaa tämä
@@ -54,10 +54,10 @@ Puhuja 0: politiikkaan
 Puhuja 0: toimittama Marko Junkkari. Hei, Marko.
 Puhuja 0: Heissan.
 Puhuja 0: Kerropas, miksi olet noin hienona tänään.
-Puhuja 1: Toisin kuin Tuomas,
-Puhuja 1: mut ja sohvi on kutsuttu Helsingin Sanomat
-Puhuja 1: esikoiskirjapalkintoon
-Puhuja 1: gaalaan illalla.
+Puhuja 3: Toisin kuin Tuomas,
+Puhuja 3: mut ja sohvi on kutsuttu Helsingin Sanomat
+Puhuja 3: esikoiskirjapalkintoon
+Puhuja 3: gaalaan illalla.
 Puhuja 0: Olen tippunut tämän
 Puhuja 0: yhtiön arvoasteikossa
 Puhuja 0: kynnysmaton
@@ -99,24 +99,24 @@ Puhuja 0: Siinä voi vain sanoa asioita, jotka kuulostavat,
 Puhuja 0: että ottaa podit pois korvista ja sanoo, että aa, mä vahingossa kuuntelen Podcasti ei vuodelta tuhat yhdeksänsataayhdeksänkymmentäviisi.
 Puhuja 0: Keskustelu sen ympärillä ei ole muuttunut yhtään.
 Puhuja 0: Mutta
-Puhuja 0: yritetään kaivaa siitä jotain uutta,
-Puhuja 0: jotain sanottavaa, jotain
+Puhuja 0: yritetään kaivaa siitä jotain uutta, jotain sanottavaa, jotain
 Puhuja 0: mielekästä.
 Puhuja 0: Sen lisäksi keskustellaan
 Puhuja 0: Kelasta.
 Puhuja 2: Me on keskusteltu tosi paljon Kelasta, mä tajusin. Se on ollut monta kertaa.
-Puhuja 1: Epäluulo
-Puhuja 1: ylipäätään mediaa kohtaan joka maassa, myös Suomessa ja ennen kaikkea valtiollisia
-Puhuja 2: Yleisradio-yhtymiä. Ja tavallaan tässä
-Puhuja 1: on se epäluulo ja semmoinen
-Puhuja 1: Me Bacyn tai Suomessa Ylen tai Hesarin haukkuminen on tavallaan jo olemassa oleva
-Puhuja 1: iso ilmiö. Ja sitten tämä Telegraphin
-Puhuja 1: skoppaama se raportti
-Puhuja 1: toi siihen lisää vettä myymään. Sen takia se lähti näin rajusti
-Puhuja 1: se kohu briteissä liikkeelle. Ja sitten tavallaan se... Mun mielestä pointti,
-Puhuja 1: että kysehän ei ollut vain siitä yhdestä editystä, vaan siellä on ollut
-Puhuja 1: erilaista rakenteellista ongelmaa ja liiallista woketusta siellä siellä BBC:n toimituksessa. Tavallaan
-Puhuja 1: sen takia se pääjohtaja, että tämä kohulantushan joutui lähtemään. Mä sanoin kun yritin
+Puhuja 3: Epäluulo
+Puhuja 3: ylipäätään mediaa kohtaan joka maassa, myös Suomessa ja ennen kaikkea valtiollisia
+Puhuja 3: Yleisradio-yhtymiä. Ja tavallaan tässä
+Puhuja 3: on se epäluulo ja semmoinen
+Puhuja 3: Me Bacyn tai Suomessa Ylen tai Hesarin haukkuminen on tavallaan jo olemassa oleva
+Puhuja 3: iso ilmiö. Ja sitten tämä Telegraphin skoppaama
+Puhuja 3: raportti
+Puhuja 3: toi siihen lisää vettä myymään. Sen takia se lähti näin rajusti
+Puhuja 3: se
+Puhuja 3: kohu Briteissä liikkeelle. Ja sitten tavallaan se... Mun mielestä pointti,
+Puhuja 3: että kysehän ei ollut vain siitä yhdestä editistä, vaan siellä on ollut
+Puhuja 3: erilaista rakenteellista ongelmaa ja liiallista woketusta siellä siellä BBC:n toimituksessa. Tavallaan
+Puhuja 3: sen takia se pääjohtaja, että tämä kohulantushan joutui lähtemään. Mä sanoin kun yritin
 Puhuja 2: päästä myös tästä brittinäkökulmasta
 Puhuja 2: kärryille ja kuuntelin Rest Ispolityksi UKeita.
 Puhuja 2: Siellä opin uuden termin, joka oli
@@ -141,7 +141,7 @@ Puhuja 0: pääjohtaja ei ollut 1 of ARs näiden konservatiivien
 Puhuja 0: mielestä, jota se pullautettiin tällä tavalla pois
 Puhuja 0: käyttäen Telegraphia
 Puhuja 0: hyväksi. Mutta tämä on kaikki tietenkin salaliittoa.
-Puhuja 2: Ja totta kai tässä on siis myös koe-kyse Trumpin
+Puhuja 2: Ja totta kai tässä oli siis myös koe-kyse Trumpin
 Puhuja 2: ikuisesta sodasta mediaa vastaan, jonka hän nyt onnistui ulottamaan myös maailman
 Puhuja 2: arvostetuimpaan uutismiin. Uudistukseen. Saanko
 Puhuja 0: kontekstoida omasta mielestä vielä myös ehkä
@@ -166,7 +166,8 @@ Puhuja 0: tai
 Puhuja 0: öykkäöivän tai muuta,
 Puhuja 0: sen
 Puhuja 0: videon narratiivi on, että hei, väistäkää.
-Puhuja 0: Hei, väistäkää sitä tyyppiä. Mutta sitten kun se tulee öykkäöimään, ne lyö sitä turpaan ja käsket painu vittuun täältä jakamasta huumeita.
+Puhuja 0: Hei, väistäkää sitä tyyppiä. Mutta sitten kun se tulee öykkäöimään,
+Puhuja 0: ne lyö sitä turpaan ja käsket painu vittuun täältä jakamasta huumeita.
 Puhuja 0: Tämä on se fiilis, minkä ne videot antaa. Ne on tietenkin täysin editoitu ja näin. Mutta meneillä on semmoinen tosi repivä
 Puhuja 0: keskustelu siitä, onko Britannia täysin
 Puhuja 0: vajoamassa
@@ -211,7 +212,8 @@ Puhuja 2: kohde. Ja nyt ne ovat yhtäkkiä
 Puhuja 2: täysin keskellä amerikkalaista sisäpolitiikkaa
 Puhuja 0: ja sisäpoliittista keskustelua. Se on tietysti jopa tärkein asetramppia vastaan mikä on demokraatti?
 Puhuja 2: Kyllä. Ja sitten
-Puhuja 2: siitä tulee se olo, että okei, on
+Puhuja 2: siitä tulee se olo,
+Puhuja 2: että on
 Puhuja 2: tuomittu
 Puhuja 2: ja moneen kertaan dokumentoitu
 Puhuja 2: pedofiilia
@@ -231,17 +233,18 @@ Puhuja 2: tuttavapiiri on ulottunut
 Puhuja 2: ja keitä kaikkia siellä sähköposteissa mainitaan. Mutta se, mitä on nyt tähän mennessä selvinnyt, niin vaikuttaa siltä,
 Puhuja 2: että
 Puhuja 2: Trump ei ole itse tehnyt mitään
-Puhuja 0: kyseenalaistaa alaikäisten tyttöjen kanssa tai ainakaan ei ole vielä tullut julki mitään, mikä todistaisi siihen. En tiedä, no mä en osaa imitoida Trumpia, mutta mä osaan kuvitella miltä Jeffrey EPSniin kuulusvana ikinä kuulosta.
+Puhuja 0: kyseenalaistaa alaikäisten tyttöjen kanssa tai ainakaan ei ole vielä tullut julki mitään, mikä todistaisi siihen. En tiedä, no mä en osaa imitoida Trumpia, mutta mä osaan kuvitella miltä Jeffrey EPSniin kuulostavana ikinä kuulosta.
 Puhuja 0: Tämä on se sähköposti, jonka hän on lähettänyt. From Jeffrey EPStin
 Puhuja 0: Jeevecationalgmail
 Puhuja 0: piste com to G. Max eli Julian Maxware.
 Puhuja 2: Hänen läheinen yhteistyö.
-Puhuja 3: I want you to realize that
-Puhuja 3: the dogg that hasn't parked these Trump.
-Puhuja 3: Vigtim spent hours at my house wit him. He has never wited mansioned.
-Puhuja 3: Polise chem. Ettter. I'm kaksikymmentäviisi persont there.
-Puhuja 2: Tunnetuin näistä EPStiinin uhreista.
-Puhuja 2: Hän toki omassa kirjassaan sanoi, että hän on tavannut Trumpin kerran ja mitään ei tapahtunut. Mutta who knows, anyway. Minun aika leimaaviana, siis aika todella.
+Puhuja 4: I want you to realize that
+Puhuja 4: the dogg that hasn't parked these Trump.
+Puhuja 4: Vigtim spent hours at my house wit him. He has never wited mansioned.
+Puhuja 4: Polise chem. Ettter. I'm kaksikymmentäviisi persont there.
+Puhuja 2: Tunnetuin
+Puhuja 2: näistä Ebsteenin uhreista.
+Puhuja 2: Hän toki omassa kirjassaan sanoo, että hän on tavannut Trumpin kerran ja mitään ei tapahtunut. Mutta who knows, anyway. Minun aika leimaaviana, siis aika todella.
 Puhuja 0: The dok that hasn't parked is Trump sitten
 Puhuja 0: tää Dufree
 Puhuja 0: spent hours at my house with him.
@@ -253,38 +256,35 @@ Puhuja 2: on ollut tietoinen näistä rikoksista tai ainakin voinut epäillä ni
 Puhuja 2: hänellä lienee syynsä, miksi hän on kiihkeästi
 Puhuja 0: ollut tätä julkaisua vastaan. Meillä on pariin vuoteen tehty podcastissa
 Puhuja 0: Veikkausta, mutta nyt tehdään, kaatuuko Trump tähän?
-Puhuja 1: En usko, että Trump ja pystyy kaatamaan mikään.
-Puhuja 1: Mielestäni se on käynyt varma, että ensi viikolla,
-Puhuja 1: koska
-Puhuja 1: nyt siellä kongressissa on enemmistö julkistamisen
+Puhuja 3: En usko, että Trump ja pystyy kaatamaan mikään. Mielestäni se on käynyt varma, että ensi viikolla,
+Puhuja 3: koska
+Puhuja 3: nyt siellä kongressissa on enemmistö julkistamisen
 Puhuja 2: puolesta. Tosin Trump soittelee näille parille. Sitä ei voi enää perua,
-Puhuja 1: koska se on juuri ollut
-Puhuja 1: Nyt on kaksisataayhdeksäntoista
-Puhuja 1: tai kaksisataakahdeksantoista
-Puhuja 1: nimeä. Niillä on, että ensi viikolla äänestetään tästä, julkistetaanko
-Puhuja 1: Eepstein failejä. Nyt
-Puhuja 1: se on vielä tarkoitus hauskaa,
-Puhuja 1: koska nimet on kirjattu
-Puhuja 1: pöytäkirjaan, niitä ei saa enää pois. Vaikka joku joku näistä kuolee tai jotain muuta, niin siitä huolimatta se pysyy se.
+Puhuja 3: koska se on juuri ollut
+Puhuja 3: Nyt on kaksisataayhdeksäntoista
+Puhuja 3: tai kaksisataakahdeksantoista
+Puhuja 3: nimeä. Niillä on, että ensi viikolla äänestetään tästä, julkistetaanko
+Puhuja 3: Eepstein failejä. Nyt
+Puhuja 3: se on vielä tarkoitus hauskaa,
+Puhuja 3: koska nimet on kirjattu
+Puhuja 3: pöytäkirjaan, niitä ei saa enää pois. Vaikka joku joku näistä kuolee tai jotain muuta, niin siitä huolimatta se pysyy se.
 Puhuja 2: Ja tämähän on iso asia, että se tulee koko salin
 Puhuja 2: äänestykseen, koska
 Puhuja 2: nimenomaan republikaanien
 Puhuja 2: syvimmässä
 Puhuja 2: uskollisimmassa
-Puhuja 2: päädyssä, jossa on tätä salaliittoajattelua,
-Puhuja 2: on todella iso kysymys. Ja niille poliitikoille on painetta, että et voi äänestää tätä vastaan, koska
+Puhuja 2: päädyssä, jossa on tätä salaliittoajattelua, niin tämä on todella iso kysymys. Ja niille poliitikoille on painetta, että et voi äänestää tätä vastaan, koska
 Puhuja 2: omat äänestäjät
 Puhuja 2: on.
-Puhuja 1: Hauska yksityiskohta oli se, että tämä yksi demokraattien
-Puhuja 1: edustaja, joka jo seitsemän viikkoa sitten valittiin
-Puhuja 1: jonkun järjestöltä kesken kauden kongression,
-Puhuja 1: mutta häntä ei ole ostettu päästämään sinne. Hän on ollut se ratkaisevaa. Hän on
+Puhuja 3: Hauska yksityiskohta oli se, että tämä yksi demokraattien
+Puhuja 3: edustaja, joka jo seitsemän viikkoa sitten valittiin
+Puhuja 3: jonkun järjestöltä kesken kauden kongression,
+Puhuja 3: mutta häntä ei ole ostettu päästämään sinne. Hän on ollut se ratkaisevaa. Hän on
 Puhuja 0: Kaksi keskeisintä
 Puhuja 0: ihmistä tässä skandaalissa on tappanut itsensä: Jeffrey Ebstten ja Dufreee.
 Puhuja 2: Se ei ole se nimi. Mä äitit nyt sen oikein nimi.
 Puhuja 0: Tavallaan.
-Puhuja 0: Mutta mitä vittoa?
-Puhuja 0: Hä? Kaksi
+Puhuja 0: Mutta mitä vittua? Hä? Kaksi
 Puhuja 0: keskeisintä.
 Puhuja 0: Tämän presidenttejä ympärilleen
 Puhuja 0: kietovassa
@@ -297,8 +297,8 @@ Puhuja 0: virallisesti se ei pysty. Mutta se ei ole kannatusta. Mutta sanon, ett
 Puhuja 0: heittelemistä
 Puhuja 0: sitä kolmannen kauden ajatusta. Tämä oli se syy.
 Puhuja 0: Ilman
-Puhuja 1: mitään perusteita. Oletko muka lopettanut sen? On. Ei hän ollut.
-Puhuja 1: Justhan se taas jossain heitti sen.
+Puhuja 3: mitään perusteita. Oletko muka lopettanut sen? On. Ei hän ollut.
+Puhuja 3: Justhan se taas jossain heitti sen.
 Puhuja 0: Jossain vaiheessa ekaa kertaa, että joo, problebly Nadge happentä ja tälleen.
 Puhuja 0: Sitten kun
 Puhuja 0: lampsitte baariin
@@ -321,20 +321,18 @@ Puhuja 0: haluavanne juoman
 Puhuja 0: limonadin
 Puhuja 0: tai vissyn tai joku voi sitten oluenkin sieltä tilata.
 Puhuja 0: Mitä sitten? Vähän on tietenkin vaikea olla tyypillä niin paljon rahaa, että mistäs sille puhuisi, niin mistäs puhut Marko?
-Puhuja 1: Voisin kehua, katselin sen melkein yhteen putkeen
-Puhuja 1: brittisarja
-Puhuja 2: The Hack. Se on minun listalla. Se
-Puhuja 1: kertoo
-Puhuja 1: itse asiassa Guardianin toimittaja, joka silloin aikoinaan paljasti tämän News of the Worldin
-Puhuja 1: Murdocin omistaman lehden toimittajat
-Puhuja 1: tunkeutuivat julkisten
-Puhuja 1: puhelinvastaajiin
-Puhuja 1: ja kuunteli niiden viestejä.
-Puhuja 1: Hän vain kertoo, miten hän paljasti tämän. Se on
-Puhuja 1: todella...
-Puhuja 1: Siinä rikotaan just sitä kolmatta seinää ja se välillä henkilöt puhuu katsojalle. Se on sillä aika hauskasti tehty. Mutta se oli minusta todella kiinnostava.
-Puhuja 1: Rupesin katsomaan ja ajattelin, että jaksankaako tämä
-Puhuja 1: olisi viisi osaa vielä, mutta se oli sika hyvä.
+Puhuja 3: Voisin kehua, katselin sen melkein yhteen putkeen
+Puhuja 3: brittisarja
+Puhuja 3: The Hack. Se on minun listalla. Se kertoo
+Puhuja 3: itse asiassa Guardianin toimittaja, joka silloin aikoinaan paljasti tämän News of the Worldin
+Puhuja 3: Murdocin omistaman lehden toimittajat
+Puhuja 3: tunkeutuivat julkisten
+Puhuja 3: puhelinvastaajiin
+Puhuja 3: ja kuunteli niiden viestejä.
+Puhuja 3: Hän vain kertoo, miten hän paljasti tämän. Se on todella...
+Puhuja 3: Siinä rikotaan just sitä kolmatta seinää ja se välillä henkilöt puhuu katsojalle. Se on sillä aika hauskasti tehty. Mutta se oli minusta todella kiinnostava.
+Puhuja 3: Rupesin katsomaan ja ajattelin, että jaksankaako tämä
+Puhuja 3: olisi viisi osaa vielä, mutta se oli sika hyvä.
 Puhuja 2: Mahtavaa.
 Puhuja 2: Olen katsonut vain diplomaattia,
 Puhuja 2: joka ei ole niin hyvä.
@@ -346,8 +344,7 @@ Puhuja 2: katsonut
 Puhuja 2: deplomaattia
 Puhuja 2: Netflixistä, joka on älytön
 Puhuja 2: saippuasarjan
-Puhuja 2: ja
-Puhuja 2: maailmanpolitiikan
+Puhuja 2: ja maailmanpolitiikan
 Puhuja 2: yhdistelmä, jonka päähenkilö on
 Puhuja 2: Yhdysvaltain
 Puhuja 2: Britannian suurlähettillästä esittävä nainen, jonka
@@ -358,10 +355,10 @@ Puhuja 2: joku
 Puhuja 2: siinä silti kuitenkin viehättää, että on saatava tietää, mitä tapahtuu
 Puhuja 2: seuraavaksi. Niin ehkäpä sitten juttelisimmän
 Puhuja 2: kanssa siitä, että
-Puhuja 2: mitä mieltä on diplomaatista ja
+Puhuja 2: mitä mieltä te diplomaatista ja
 Puhuja 2: eikö olekin aika
 Puhuja 2: ärsyttävä sarja.
-Puhuja 1: Mä
+Puhuja 0: Mä
 Puhuja 0: kuulun
 Puhuja 0: tämmöiseen WhatsApp-ryhmään,
 Puhuja 0: jossa yksi jäsenistä on
@@ -375,7 +372,7 @@ Puhuja 0: Meidän
 Puhuja 0: yhteinen kaveri Jarkko kertoi tässä meidän WhatsApp-ryhmässä
 Puhuja 0: ihan helvetin hyvän vitsin.
 Puhuja 0: Jari
-Puhuja 0: tietenkin innostui tästä, että hän kertoo tämän politiikan puskaradion viikon vitssiossa
+Puhuja 0: tietenkin innostui tästä, että hän kertoo tämän politiikan puskaradion viikon vitssijassa
 Puhuja 0: tämän Jarkon keksimän vitsin.
 Puhuja 0: Ja mä tajusin, että mä voin kilpailullisessa
 Puhuja 0: hengessä puikata siihen väliin ja varastaa Jarkon vitsin tähän podcastin, joka julkaistaan päivää ennen politiikan puskaradio.
@@ -393,7 +390,7 @@ Puhuja 0: Se oli vapaaehtoista. Lauantaina kello -kaksikymmentäyksi
 Puhuja 0: tulee ensimmäinen jakso
 Puhuja 0: Amazing Race Suomi kisasta,
 Puhuja 0: missä
-Puhuja 1: mäkin kisaan yhdessä mun kaksosssiskon Sinin kanssa. Kuinka paljon meidän pitää hävetä sun puolesta?
+Puhuja 3: mäkin kisaan yhdessä mun kaksosssiskon Sinin kanssa. Kuinka paljon meidän pitää hävetä sun puolesta?
 Puhuja 0: No sanotaan,
 Puhuja 0: että ei välttämättä vielä taas... Okei,
 Puhuja 0: ei.
@@ -405,7 +402,8 @@ Puhuja 0: tehtävä, mistä
 Puhuja 0: semmoinen, paljonko siellä oli
 Puhuja 0: kymmenen naispuolista kilpailijaa.
 Puhuja 0: Menee suut viivan
-Puhuja 0: otsayrmyssä läpi ja ei johdahda. Ja sitten minä tulen paikalle ja alan kiljuun ja heittelehtimään.
+Puhuja 0: otsayrmyssä läpi ja ei johdahda. Ja sitten minä tulen paikalle, alan kiljuun
+Puhuja 0: ja heittelehtimään.
 Puhuja 0: Joo, se on
 Puhuja 0: hurjaa menoa.
 Puhuja 0: Olen nähnyt sen ensimmäisen jakson itse. Meillä oli semmoiset
@@ -417,8 +415,10 @@ Puhuja 0: kanssa.
 Puhuja 0: Se on kyllä puolueellinen mielipide, mutta se on todella hyvä.
 Puhuja 0: Vauhdikas, hauska, humaani.
 Puhuja 0: Kaikki löytyy. Kannattaa katsoa, vaikka formaattia ei olisi tuttu aiemmin.
-Puhuja 0: Eli... Joo, hyvä. Kiitos, sohvi, kun hoidit mun duunit mun puolesta. Ja
-Puhuja 0: kaiken muu mahtava meille tekee tällä viikolla Mikko Peura. Kiitos Mikko. Ja kuullaan taas ensi
+Puhuja 0: Eli... Joo, hyvä. Kiitos, sohvi, kun hoidit mun duunit mun puolesta. Kiitos. Kiitos Anna Sovia
+Puhuja 0: Perner.
+Puhuja 0: Kiitos. Mun nimi on Peltolakin, äänen kuva ja kaiken muu mahtava meille tekee tällä viikolla Mikko Peura. Kiitos Mikko. Ja kuullaan taas
+Puhuja 0: ensi
 Puhuja 0: viikolla. Ellei
 Puhuja 0: Trump pisti jotain näistä.
 Puhuja 2: Helsingin Sanomat.
@@ -432,7 +432,7 @@ Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
 Puhuja 0: suurvaltapolitiikassa.
-Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi
 Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen
 Puhuja 0: avautui

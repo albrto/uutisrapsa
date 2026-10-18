@@ -33,8 +33,8 @@ Puhuja 3: Ihanaa, tosi kivaa.
 Puhuja 3: Tämän viikon podcastissa
 Puhuja 3: keskustellaan ensinnäkin Markon kesä kuulumisista. Mitä politiikassa
 Puhuja 3: tapahtui kesällä?
-Puhuja 3: Minkälainen fiilis nyt on tässä Ja minkä Markolle
-Puhuja 3: tapahtui kesällä? Mitä Markolle tapahtui kesällä ennen kaikkea?
+Puhuja 3: Minkälainen fiilis nyt on tässä... Ja minkä Markolle tapahtui kesällä?
+Puhuja 3: Ja mitä Markolle tapahtui kesällä ennen kaikkea.
 Puhuja 3: Ja myös puhutaan kaneista
 Puhuja 3: eli Alma on perehtynyt niiden syvimpään olemukseen
 Puhuja 3: heräsi kysymys, että mikä
@@ -56,14 +56,13 @@ Puhuja 2: Ei voi olla vielä syksy.
 Puhuja 1: Kiitos kysymästä. Kesä meni. Olin kuukauden lomalla ja se oli tosi kivaa.
 Puhuja 1: Mökilläkin nurinia käytiin perheen kanssa Ranskassa.
 Puhuja 1: Mutta
-Puhuja 1: en usko, että ihmisiä kiinnostaa kuulla minun mökkikuuumisia.
+Puhuja 1: en usko, että ihmisiä kiinnostaa kuulla minun mökkikuu kuulumisia.
 Puhuja 1: Laiturin kanssa olin vaikeuksia. Haluan kuulla, että olitteko Ranskassa helleaallon aikana. Me olimme kahden helleaallon välissä.
 Puhuja 1: Oli aivan mahtavat säät. Olimme juhannuksen
 Puhuja 1: jälkeen, että siinä oli juuri päättynyt se kesäkuun helleaalto ja seuraava alkoi, kun poistuttiin.
 Puhuja 3: Näkyykö siellä tragedian jälkiä?
-Puhuja 1: Ei.
-Puhuja 1: Itse asiassa olin tuolla Borderön lähellä, missä oli sitten kun me lähdettiin, siellä alkoi valtavat metsäpalot myös siellä.
-Puhuja 3: Aika lähellä missä me oltiin oltu. Mutta tota Saanko tähän väliin sanoa, että minähän kyllä olin Euroopassa helleallon
+Puhuja 1: Ei. Itse asiassa olin tuolla Bordern lähellä, missä oli sitten kun me lähdettiin, siellä alkoi valtavat metsäpalot myös siellä.
+Puhuja 3: Aika lähellä missä me oltiin oltu. Mutta tota... Saanko tähän väliin sanoa, että minähän kyllä olin Euroopassa helleallon
 Puhuja 3: aikana, koska silloin, kun mä palasin kesälomalta, ehdin olla kaksi päivää töissä ja sen jälkeen mut lähetettiin
 Puhuja 3: Saksaan juttukeikalle.
 Puhuja 3: Vieläkin niin, että mulle myytin se keikka näin, että Alma haluatko lähteä Berliinin työmatkalle?
@@ -82,7 +81,7 @@ Puhuja 3: kuumeisena etsimään vissyä jostakin
 Puhuja 3: kiskalta ja sitten
 Puhuja 3: tosiaan siellä kauheassa helteessä. Kyllä se oli aika kummallista.
 Puhuja 3: Muutama päivä myöhemmin,
-Puhuja 3: kun ne helteet vaan siellä jatkui, plus kolmekymmentäkahdeksan astetta lämmintä oli oikeasti
+Puhuja 3: kun ne helteet vaan siellä jatkui, plus kolmekymmentäkahdeksan astetta lämmintä on oikeasti
 Puhuja 3: sellainen lopun aikojen, jota ehdit.
 Puhuja 3: No ei ole
 Puhuja 3: vaikea kuvitella.
@@ -162,6 +161,7 @@ Puhuja 3: Trump on homo ekonomikus, hän on aikamme tuotos.
 Puhuja 2: Ja
 Puhuja 2: siis oli aivan loistavia,
 Puhuja 2: jossakin
+Puhuja 1: meidän
 Puhuja 3: se katsoo Trumpin ja sitten siinä vaan tekstinä, että when you erilais you bired in is golf for it.
 Puhuja 3: Kumpi
 Puhuja 3: vai
@@ -206,7 +206,7 @@ Puhuja 3: ystävillene,
 Puhuja 3: jotka eivät ole enää lomalla?
 Puhuja 2: Tämä on kyllä optimaalinen aika pitää lomaa, kun kaikki on jo töissä. Mutta sanoi hyvää säätöä.
 Puhuja 3: Mä voisin kertoa
-Puhuja 2: kevyen lomahenkisen
+Puhuja 3: kevyen lomahenkisen
 Puhuja 3: suosituksen.
 Puhuja 3: Katsoin Netflixistä
 Puhuja 3: Shanaija Twayn dokumentin.
@@ -241,7 +241,7 @@ Puhuja 2: Kiinnostavaa, paljasta liikaa. En paljasta liikaa muuta kuin että se 
 Puhuja 3: niin kuin tiiviimpää leveliä.
 Puhuja 3: Suosittelen.
 Puhuja 3: No mites sitten pyöräovista
-Puhuja 3: toiseen suuntaan kulkevat Almea ja Marko. Kun mulla on tässä patoutunutta
+Puhuja 3: toiseen suuntaan kulkevat Almea ja Marko? Kun mulla on tässä patoutunutta
 Puhuja 3: suositus
 Puhuja 3: matskua
 Puhuja 3: ollut
@@ -311,7 +311,7 @@ Puhuja 3: Siellä on
 Puhuja 3: lakiasiantuntijoita
 Puhuja 3: ja muita,
 Puhuja 3: niin sitä kannattaa kuunnella. Se on tosi kiinnostavaa ja mun
-Puhuja 3: mielestä itselleni on vaan Jotenkin tämä eläinkeskustelu
+Puhuja 3: mielestä itselleni on vaan... Jotenkin tämä eläinkeskustelu
 Puhuja 3: avaa sellaisia kiinnostavia moraalisia ja filosofisiin kysymyksiin. Tämä knowing animals
 Puhuja 3: lisää sitä kysymysten
 Puhuja 3: avaruutta
@@ -345,11 +345,8 @@ Puhuja 3: että millainen on maailma
 Puhuja 3: ilman koiria.
 Puhuja 3: Millainen on maailma ilman lemmikikoivia?
 Puhuja 3: Voi voi.
-Puhuja 3: Eläinrakkani.
-Puhuja 3: No niin, mites Marko?
-Puhuja 1: En mene Flow-festareille
-Puhuja 1: vaan Flow-festareille.
-Puhuja 3: Mennään katsomaan Nikkeivi, joka esiintyy Flow-festareilla sinulle. Hei, mihin Maijakin menee, voi ei, te olette molemmat siellä ukko.
+Puhuja 3: Eläinrakkani. No niin, mites Marko?
+Puhuja 1: En mene Flow festivaaleille vaan Flow festivaaleille. Mennään katsomaan Nikkeivi, joka esiintyy Flow-festareilla sinulle. Hei, mihin Maijakin menee, voi ei, te olette molemmat siellä ukko.
 Puhuja 1: Kaikkiin Nikkein fani tietää, mutta hänellä on semmoinen uutiskirje,
 Puhuja 1: jonka nimi on Red hand
 Puhuja 1: Files ja se on ihan mahtava, se on sitä
@@ -364,7 +361,7 @@ Puhuja 1: suruista ja murheistaan ja se vastaa
 Puhuja 1: aivan huikean empaattisesti ja ne ovat tosi kauniita ne sen
 Puhuja 1: ja älykkäitä ne vastaukset
 Puhuja 1: ja sitten vain niitä elementtejä lueskelin,
-Puhuja 1: mutta sitten vaan Tavallaan niitä Keivillä on huumoria, ehkä musiikissakin välillä näkyy, mutta välillä postaukset on niin hauskoja.
+Puhuja 1: mutta sitten vaan... Tavallaan niitä Keivillä on huumoria, ehkä musiikissakin välillä näkyy, mutta välillä postaukset on niin hauskoja.
 Puhuja 1: Kerron lyhyesti yhden tarinan, jonka hän
 Puhuja 1: Red hand Fileesissa kertoo. Joku vuosi pari sitten kirjoitti, että hän oli ollut lastensa kanssa
 Puhuja 1: Australiassa. Hän on siis Australialainen, mutta asui Englannissa, mutta he olivat olleet käymässä Australiassa.
@@ -385,7 +382,7 @@ Puhuja 1: Sitten se juttu jatkuu ja ne lähtivät
 Puhuja 1: turistikohteesta
 Puhuja 1: johonkin ja pysähtyivät johonkin lounaalle.
 Puhuja 1: Sitten se oli istunut pöydässä, sitten ravintola
-Puhuja 1: joku johtaja kysyi, että haluaisitko tulla tapaamaan Tai täällä on Nikolai Cage joka haluaisi tavata sinut.
+Puhuja 1: joku johtaja kysyi, että haluaisitko tulla tapaamaan... Tai täällä on Nikolai Cage joka haluaisi tavata sinut.
 Puhuja 1: Sitten Niccave oli mennyt takahuoneeseen, jossa oli Nikolai Cage, tämä näyttelijä
 Puhuja 1: syömässä
 Puhuja 1: He olivat jutelleet ja Nikolai Cage oli naurasti että milloin melkein samat nimet yksi kirja ei vain eri.
@@ -421,7 +418,7 @@ Puhuja 0: joka päätyi aseeksi
 Puhuja 0: suurvaltapolitiikassa.
 Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla,
 Puhuja 1: jota tuskin kukaan osasi ennakoida.
-Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään,
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään,
 Puhuja 0: kenties maailman ehkä luotaantyöntävintä
 Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui taloudellinen

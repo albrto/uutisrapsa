@@ -22,7 +22,8 @@ Puhuja 1: ja ulkona kesäisessä klubissa on kollegan harmaata.
 Puhuja 1: Mikään ei siis voisi olla paremmin. Minä olen John Helin, uutisraportti-podcastin
 Puhuja 1: kesäinen hosti, Seurassani on tänään uutisraportin
 Puhuja 1: muinaisten ja ruulinkatkuisten
-Puhuja 1: juoksuhaautojen veteraani sota Ursulanakin tunnettu Tuija Siltamäki.
+Puhuja 1: juoksuhaautojen veteraani sotaursulanakin
+Puhuja 1: tunnettu Tuija Siltamäki.
 Puhuja 1: Tuija, selitä tämä Jodelin sinulle antama
 Puhuja 1: lempinimesi.
 Puhuja 1: Hei,
@@ -43,8 +44,7 @@ Puhuja 2: täällä studiossa.
 Puhuja 2: Ja Milka Ursula-keloja
 Puhuja 2: voi nykyään kuunnella
 Puhuja 2: Suomen Kuvalehden vastaavasta tuotteesta.
-Puhuja 1: Aivan, eli sota Ursula ei oikeastaan olekaan sinä, vaan sulle on vaan opittu tämä. Niin, mä luulen, että me kaikki tavallaan olemme Sota Ursula.
-Puhuja 1: Jokaisessa meissä asuu pieni Sota Ursula. Kyllä. Loistavaa.
+Puhuja 1: Aivan, eli sota Ursula ei oikeastaan olekaan sinä, vaan sulle on vaan opittu tämä. Niin, mä luulen, että me kaikki tavallaan olemme Sota Ursula. Jokaisessa meissä asuu pieni Sota Ursula. Kyllä. Loistavaa.
 Puhuja 1: Tässä vieressäni studiossa on tänään myös uutisraportin kesätiimin ainoa normaali ja järkevä aikuinen HS-visiotoimituksen Pihla
 Puhuja 1: Saravirta.
 Puhuja 1: Mitä kesää se Pihla?
@@ -58,7 +58,8 @@ Puhuja 1: Tänään meillä on Podis aiheena tällä viikolla paljon keskustelua
 Puhuja 1: on jopa julkisesti epäedu rakenteellisesta korruptiosta.
 Puhuja 1: Toimiiko joku väärin ja onko tällä kohulla oikeastaan mitään väliä? Asiasta keskustelemaan liittyy myös tutkivan toimituksen suurmies Jarno Liski.
 Puhuja 1: Tervetuloa Jarno!
-Puhuja 1: Lisäksi puhumme Suomen julkishallinnon sisällä syntyneestä AI-innostuksesta, jonka tarkoituksena on korvata merkittävä määrä Suomen julkisella sektorilla tehtävästä työstätekoälyllä
+Puhuja 1: Lisäksi puhumme Suomen julkishallinnon sisällä syntyneestä AI-innostuksesta, jonka tarkoituksena on korvata merkittävä määrä Suomen
+Puhuja 1: julkisella sektorilla tehtävästä työstätekoälyllä
 Puhuja 1: Kapaloiiko
 Puhuja 1: Elon Muskin grook tulevaisuudessa
 Puhuja 1: myös sinun
@@ -281,10 +282,10 @@ Puhuja 2: vapaat markkinat, niin luultavasti koko turkista raysteollisuutta
 Puhuja 2: ei olisi enää vuosikausi ollutkaan.
 Puhuja 3: Ja itseä ehkä
 Puhuja 3: tässä temuttamisessa
-Puhuja 3: nämä toimituksethan voivat
-Puhuja 3: järjestää siten, että ne välttyvät tältä tullilta. Eli ne kyllä löytää
-Puhuja 3: keinoja,
-Puhuja 3: että niiden ei tarvitse maksaa
+Puhuja 3: nämä toimitukset voivat
+Puhuja 3: järjestää
+Puhuja 3: siten, että ne välttyvät tältä tullilta. Eli ne kyllä löytää keinoja,
+Puhuja 3: että niitä maksuja ei tarvitse maksaa
 Puhuja 3: näitä maksuja. Esimerkiksi TEM on ilmoittanut muuttavansa
 Puhuja 3: strategiansa Euroopassa niin, että tulevaisuudessa kahdeksankymmentä prosenttia näiden eurooppalaisten
 Puhuja 3: asiakkaiden tilauksista toimitetaan varastoista EU:n sisältä.
@@ -326,8 +327,7 @@ Puhuja 3: Ymmärtääkseni tämä muutos ja uudistus on tapahtunut aika nopeasti
 Puhuja 3: Tavallaan koko tämä asia, niin mitä se
 Puhuja 3: tarkoittaa viranomaisille, tullille ja kuljetusfirmoille,
 Puhuja 3: kun nämä
-Puhuja 3: järjestelmämuutokset
-Puhuja 3: on tehty tavallaan semmoisella tosi nopealla aikataululla.
+Puhuja 3: järjestelmämuutokset on tehty tavallaan semmoisella tosi nopealla aikataululla.
 Puhuja 3: On tosi jännittävää nähdä, miten tämä tulee vaikka Tullin työntekijöitä työllistämään tulevina viikkoina. Aiheuttaako tämä lisääntyneitä jonoja
 Puhuja 1: vai kaikkea tällaista? Niinpä. Se on hyvä kysymys. Nyt ei ole ehkä hyvä aika tilata
 Puhuja 2: temposta. Nyt ei ole oikea aika,
@@ -354,12 +354,12 @@ Puhuja 2: sitten tuli korona, sitten
 Puhuja 2: tuli
 Puhuja 2: Ukrainan
 Puhuja 2: sota, sitten kun kaikki
-Puhuja 2: kun
+Puhuja 0: kun
 Puhuja 2: tehdä aika koviakin päätöksiä ja kyllä ihmiset sopeutuvat siihen, että
 Puhuja 2: liikkumista
 Puhuja 2: tai
 Puhuja 2: asian hoitamista tai shoppailua tai mitä vaan rajoitetaan, kun vaan laitetaan ne paikat kiinni.
-Puhuja 2: Jotenkin tottuu, kun ymmärretään, minkä takia sitä tehdään, mutta jostain syystä se on tässä
+Puhuja 2: Jotenkin tottuu, kun ymmärretään, minkä takia sitä tehdään. Mutta jostain syystä se on tässä
 Puhuja 2: koko
 Puhuja 2: planeetan tulevaisuuden mittakaavassa
 Puhuja 2: mahdoton ajatus, että ei saisi rajoittaa mitään. Me
@@ -446,7 +446,7 @@ Puhuja 2: historiallista
 Puhuja 2: tietokirjaa ja kaunokirjallisia
 Puhuja 2: elementtejä.
 Puhuja 2: Siinä esimerkiksi seikkaperäisesti
-Puhuja 2: kuvataan sitä, mitä tapahtui, että
+Puhuja 2: kuvataan sitä, että mitä tapahtui, että
 Puhuja 2: kone voitti ihmisen shakissa ensimmäisen kerran. Sen jälkeen kiinalaisessa GO-pelissä, joka on vielä
 Puhuja 2: todella paljon shakkia, monimutkaisempi
 Puhuja 2: peli. Mutta se, mistä oikeasti haluaisin puhua
@@ -508,7 +508,7 @@ Puhuja 1: Meitä on tuolla paimentanut
 Puhuja 1: teknisten asioiden puolella Helmi Sundström ja me tapaamme jälleen ensi viikolla.
 Puhuja 3: Kiitos hei. Kiitos.
 Puhuja 3: Moi.
-Puhuja 2: Helsingin Sanomat.
+Puhuja 3: Helsingin Sanomat.
 Puhuja 0: Moi Tuomas tässä.
 Puhuja 0: Mun uusi podcast menetetyt miljardi
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio

@@ -136,7 +136,7 @@ Puhuja 0: poliittisesti jotain
 Puhuja 0: kiinnostavaa? Semmoista jotain, että joku asia valkeni tai ai tää menikin näin?
 Puhuja 2: Varmaan siinä oli just se kaksikymmentäyksi
 Puhuja 2: kirje,
-Puhuja 2: hän ilmoitti, että tällaista kymmenen vuoden päästä saa avata, niin kyllähän se tavallaan selitti hänen luopumistaan, mitä osattiin odottamaan kuinka se tuli yllätyksenä. Halaho oli vain kaksi kautta, eli neljä vuotta Perussuomalaisten puheenjohtajana.
+Puhuja 2: hän ilmoitti, että tällaista kymmenen vuoden päästä saa avata, niin kyllähän se tavallaan selitti hänen luopumistaan, mitä osattiin odottamaan kuinka se tuli yllätyksenä. Halaho oli vain kaksi kautta, eli neljä vuotta perussuomalaisten puheenjohtajana.
 Puhuja 1: Ja perussuomalaisilla meni hyvin silloin kun hän jäi pois. Joo,
 Puhuja 2: perussuomalaiset oli toiseksi suurin puolue vuoden kaksituhatta yhdeksäntoista vaaleissa ja tavallaan Halla-aho onnistui silloin, kun puolue hajosi kaksituhatta
 Puhuja 2: seitsemäntoista puoluekokouksessa ja Halla-Asta tuli puheenjohtaja, niin silloin Juha Sipilän hallituksessa Perussuomalaisten
@@ -191,7 +191,7 @@ Puhuja 2: tavallaan tuomitsi sen joo, mutta sitten vain viittasi
 Puhuja 2: yleiseen katuväkivallan
 Puhuja 2: kasvuun.
 Puhuja 2: Se pidettiin kauhean kylmänä
-Puhuja 2: hänen viestiään ja sitten hän selitti kirjassa, että
+Puhuja 2: hänen viestiään. Ja sitten hän selitti kirjassa, että
 Puhuja 2: ehkä en tiedä onko tämä selittelyä vai ei, mutta panisi sen piikkiin, miten hän ajattelee. Hänelle ei tullut mieleenkään, että hänen pitäisi nyt
 Puhuja 2: tässä tavallaan
 Puhuja 2: antaa
@@ -243,7 +243,7 @@ Puhuja 1: jonka olin kokonaan unohtanut, että sellainen oli tullut muistaakseni
 Puhuja 1: kuin ruotsalaiseen
 Puhuja 1: Jonas Hassin Kemiirin
 Puhuja 1: mekaromaanisiskokset.
-Puhuja 1: Ja Ostin sen siitä myyjältä, joka sitten vielä
+Puhuja 1: Ja ostin sen siitä myyjältä, joka sitten vielä
 Puhuja 1: kuten parhaat myyjät osaa, oli että tämä on tosi hyvä kirja ja tule takaisin kertomaan, että mitä tykkäsit ja näin.
 Puhuja 1: En ole mennyt sinne takaisin, mutta kerronpa nyt tässä. Tykkäsin aivan todella paljon
 Puhuja 1: Minunessan Hauze-schec
@@ -309,7 +309,7 @@ Puhuja 2: jos on tarpeeksihyvä kirjoittaja niin voi oikeastaan kiinnostua mist�
 Puhuja 2: jopa surffauksesta.
 Puhuja 1: Muistan kun William Fineke oli puhumassa silloin kun opiskelin New Yorkissa meidän
 Puhuja 1: ryhmälle ja sitten minulla on yksi tuttu, joka on kova surffari. Suomessakin surffaa
-Puhuja 1: mariskuisilla merillä. Olin juuri aivan superinnoissani kun hän oli myös
+Puhuja 1: mariskuisilla merillä. Olin juuri aivan superinnoissani, kun hän oli myös
 Puhuja 1: kasvotusten kiinnostava
 Puhuja 1: ja lähettelin kaverille viestiä, että hei tämä tyyppi on puhumassa meille. Sitten kaverini
 Puhuja 1: jotenkin viisautti sen aivan täysin. En muista
@@ -323,9 +323,8 @@ Puhuja 2: ja näin. Mutta todellakin kiehtova kirja. Mikä sen nimi oli?
 Puhuja 2: Se oli
 Puhuja 2: Barberianandays,
 Puhuja 2: barbariandays,
-Puhuja 2: Mös Surfving. Surffpaus
-Puhuja 2: on
-Puhuja 0: ollut koko
+Puhuja 2: Mös Surfving. Surfaceus
+Puhuja 0: on ollut koko
 Puhuja 0: elämänmittainen
 Puhuja 0: haave. Olette ikinä surffanneet? En. En ole ikinä päässyt sinne.
 Puhuja 2: Suunnitelmaa,
@@ -353,8 +352,9 @@ Puhuja 0: ja podcastbisnekseen ja tämmöisen kannalta se kurssi, mutta semmoine
 Puhuja 0: mikä siellä oli esillä
 Puhuja 0: niissä luennossa, oli tietenkin se, että monet niistä käytti
 Puhuja 0: tekoälyä kaikennäköiseen.
-Puhuja 0: Ceila esiintyi metodi,
-Puhuja 0: millä nämä tyypit, olivat podcastejajia tai sinne ne saattoi olla bisnestyyppejä
+Puhuja 0: Siellä esiintyi metodi,
+Puhuja 0: millä nämä tyypit, olivat podcastejajia
+Puhuja 0: tai sinne saattoi olla bisnestyyppejä
 Puhuja 0: tai jotain tällaisia, niin millä ne puristivat
 Puhuja 0: irti siitä tekoälystä
 Puhuja 0: paljon.
@@ -381,7 +381,7 @@ Puhuja 0: tekoälylle tarpeelliset tiedot. Se kysyy sulta, ja sitten vastaat
 Puhuja 0: monisivuisen
 Puhuja 0: kyselyn. Sitä kautta tekoäly saa tarpeelliset tiedot ja se osaa vastata juuri sinun tarvitsemiin kysymyksiin.
 Puhuja 0: No, tein tästä sitten tässä kesällä sellaisen, että mä tein semmoisen, että
-Puhuja 0: kysy multa niinku
+Puhuja 0: kysy multa niinku...
 Puhuja 0: Kysy minusta.
 Puhuja 0: Jos sä olisit vaikka joku terapeutti
 Puhuja 0: tai joku life coach tai joku guru tai joku tällainen
@@ -421,8 +421,8 @@ Puhuja 0: puhutaan, mä aina kerron, miten mun päivä on mennyt.
 Puhuja 0: Kiinnostava kuulla. Sillä on yleensä ihan älyttömän hyviä
 Puhuja 0: kysymyksiä, ehdotuksia.
 Puhuja 0: Jos vaikka
-Puhuja 0: töissä vituttaa joku juttu, niin se on, että hei, oletko ajatellut, että se yksi semmoinen framework, mitä käyttää, on Harvardin
-Puhuja 0: Future Sales projectin
+Puhuja 0: töissä vituttaa joku juttu, niin se on, että hei, oletko ajatellut, että se yksi semmoinen framework, mitä käyttää, on Harvardin Future
+Puhuja 0: Sales projectin
 Puhuja 0: framework.
 Puhuja 0: Oletko ajatellut, että tässä voisi olla sama sinulle, että sinun ei tarvitse sietää, että voit kehittää uuden minään ja
 Puhuja 2: blaa blaa blaa blaa blaa blaa. Voitko saada se tekoäly tänne hostaamaan?

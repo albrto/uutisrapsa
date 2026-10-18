@@ -12,7 +12,8 @@ Puhuja 1: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
-Puhuja 2: Helsingin Sanomat
+Puhuja 0: Helsingin
+Puhuja 2: Sanomat
 Puhuja 0: Hei! Tervetuloa Helsingin Sanomien Uutisaportti-podcast
 Puhuja 0: torstaina seitsemän.
 Puhuja 0: Toukokuuta
@@ -36,7 +37,7 @@ Puhuja 0: Mä en ole, koska
 Puhuja 0: ne on vielä
 Puhuja 0: kuolinpesällä.
 Puhuja 0: Mä tunnen mun tätejä, niin he ovat sen verran viitaista porukkaa, että se kuolin perään ja siitä äkkiä selviä.
-Puhuja 3: Toki kiva, että kerrot podcastissa, jos tädit kuuntelee. Myös mun
+Puhuja 3: Kiva, että kerrot podcastissa, jos tädit kuuntelee. Myös mun
 Puhuja 0: tädin mies Kaitsu kuuntelee innokkaasti tätä podcastia. Eli terveiset Kaitsulle!
 Puhuja 0: Joka tapauksessa
 Puhuja 0: sen lisäksi
@@ -107,7 +108,7 @@ Puhuja 0: Niinpä.
 Puhuja 0: Jotakin tosi surullista.
 Puhuja 0: Mennään iloisempiin
 Puhuja 0: korona-aiheisiin.
-Puhuja 0: Alma, sä olet seurannut
+Puhuja 0: Alma, sä oot seurannut
 Puhuja 0: Viroa, josta tässä podcastissa
 Puhuja 0: ei kertaakaan ole edes mietitty, mitä Viroon kuuluu. Koska me ollaan kaikki vitopaja
 Puhuja 0: rasisteja
@@ -116,13 +117,14 @@ Puhuja 0: muita.
 Puhuja 0: Suomen veljeskansa ja varmasti
 Puhuja 0: vertailukelpoisin
 Puhuja 0: Suomen kanssa. Miten Viro on käynyt läpi koronaepidemian?
-Puhuja 2: Joo, kuten aikaisemmin jo sanoin, mähän itse olin siellä Tallinnassa vielä silloin, siis kaksitoista. Maaliskuuta.
+Puhuja 2: Joo, kuten aikaisemmin jo sanoin, mähän itse olin siellä Tallinnassa vielä silloin. Siis kaksitoista. Maaliskuuta.
 Puhuja 2: Muistan sen erittäin hyvin, koska silloin oli syntymäpäiväni,
 Puhuja 2: vietin sen yksin Tallinnassa ja samana
 Puhuja 2: päivänä Viro julisti poikkeustilan.
 Puhuja 2: Silloin olin vielä niin, että
 Puhuja 2: hel jaa! Kiinnostava meininki, vähänkö jään tänne?
 Puhuja 2: Ja muutama päivä myöhemmin Suomikin ilmoitti, että
+Puhuja 2: ja
 Puhuja 2: se homma on mennyt silleen, että kaikkein pahin tartuntapesäke on ollut se saarenmaa,
 Puhuja 2: koska siellä maaliskuun alussa oli
 Puhuja 2: sellainen italialainen
@@ -131,12 +133,14 @@ Puhuja 2: pelaamassa
 Puhuja 2: ottelun,
 Puhuja 2: ja ilmeisesti jollakin joukkueessa oli sitten ollut koronavirustartunta,
 Puhuja 2: mistä se oli lähtenyt leviämään siellä Saarenmaalla.
-Puhuja 2: Virossa varauduttiin tosi paljon
-Puhuja 2: pahempaan tilanteeseen, mutta
+Puhuja 2: Virossa
+Puhuja 2: varauduttiin tosi paljon
+Puhuja 2: pahempaan tilanteeseen,
+Puhuja 2: mutta
 Puhuja 2: lopulta oikeastaan Viron
 Puhuja 2: kuolleisuusluvut esimerkiksi koronaviruksesta johtuen on väkilukuun
 Puhuja 2: suhtautettuna hyvin samanlaiset Suomen
-Puhuja 2: kanssa. Eli mitä tämä? Virossa on tähän
+Puhuja 0: kanssa. Eli mitä tämä? Virossa on tähän
 Puhuja 2: mennessä
 Puhuja 2: kuollut viisikymmentäkuusi ihmistä.
 Puhuja 2: Siellä on todettu tuhat seitsemänsataakaksikymmentä
@@ -170,8 +174,8 @@ Puhuja 2: miinus
 Puhuja 2: jotakin Latviassa
 Puhuja 2: lieppajan hiekkarannalla, tiedätkö hengailemassa, syömässä jotain kolme pilkku viisi euron täytekakkua? Silleen, että
 Puhuja 3: Suomi päätti alkuviikosta,
-Puhuja 3: että koska mehän yhteiskunta
-Puhuja 3: romahtaa kohta jos meillä ei ole virolaisia raksamiehiä täällä Suomessa.
+Puhuja 3: että koska mehän yhteiskunta romahtaa
+Puhuja 3: kohta jos meillä ei ole virolaisia raksamiehiä täällä Suomessa.
 Puhuja 3: Niin nyt avataan
 Puhuja 3: raja niin päin, että virolaiset pääsevät takaisin
 Puhuja 3: töihin Suomeen. Eikä joudu siihen neljätoista päivän karanteeniin. Viro siis sinun jutussahan oli
@@ -183,7 +187,7 @@ Puhuja 3: Viroon.
 Puhuja 2: Joo, mutta se määrä kuinka paljon suomalaisia tekee Virossa töitä on kyllä
 Puhuja 2: hyvin pieni verrattuna siihen kuinka paljon virolaisia tekee töitä Suomessa. Kysymys on lähinnä se,
 Puhuja 3: koska suurin osahan näistä virolaisista todennäköisesti tulee pääkaupunkiseudulle
-Puhuja 3: töihin ja kumminkin se ero on niin valtava
+Puhuja 3: töihin ja kumminkin ero on niin valtava
 Puhuja 3: Helsingin ja
 Puhuja 3: Tallinnan välillä Millaista keskustelua tämä herätti Virossa,
 Puhuja 2: että Ulkoministerit on tästä keskustellut
@@ -197,7 +201,7 @@ Puhuja 2: ja Tallinnan välillä. Ei välttämättä ole, mutta toisaalta
 Puhuja 2: voi ajatella, että jos ihminen tulee tänne Okei, tässä on sellaisiakin pointteja,
 Puhuja 2: on erilaisia riskejä ihan vaan senkin perusteella, missä nämä työntekijät vaikka asuvat.
 Puhuja 2: Joillakin voi olla ihan oma joku tietty vuokrattu
-Puhuja 2: kämppä tai rivaripätkä jossakin. Mutta sitten on myös näitä keissejä, ja
+Puhuja 2: kämppä tai rivaripätkä jossakin. Mutta sitten on myös näitä caseja, ja
 Puhuja 2: On se tiettyjä
 Puhuja 2: riskejä, mutta se on selvästi sellainen riski, minkä ne nyt haluaa ottaa.
 Puhuja 2: Mutta turismia ei
@@ -266,7 +270,7 @@ Puhuja 0: Marko!
 Puhuja 3: Mä voisin nyt ihan tämmöisen vähän poikkeavan tai oikeastaan tämä suositus, vaan tämä mikä nyt mua koko päivän
 Puhuja 3: on mietityttänyt,
 Puhuja 3: että aamullahan tuli tieto, että Matti Kalliokoski Hesarin
-Puhuja 0: pääkirjoitustoimituksen esimiehe siirtyy Suomeen. Kyllä erittäin hieno mies.
+Puhuja 3: pääkirjoitustoimituksen esimiehelle siirtyy Suomeen. Kyllä erittäin hieno mies.
 Puhuja 3: Hieno mies ja tämä on niin kuin valtava menetys Hesarille ja sitten ennen kaikkea jotenkin minulle henkilökohtaisesti.
 Puhuja 3: Mä voisin nyt hetken kehua Mattia.
 Puhuja 0: Kehu ihmeessä. Mut kerro mistä sinä Matti tunnette
@@ -376,15 +380,15 @@ Puhuja 0: siinä on jännää sellaista mystiikkaa ja henkisyyttä,
 Puhuja 0: jota
 Puhuja 0: nimenomaan
 Puhuja 0: liitettynä,
-Puhuja 0: sitä ei nykyään enää ole missään. Kristinuskoahan on tosipasee ja en ole millään tavalla uskovainen ihminen.
-Puhuja 0: Arvostan siitä semmoista jännä fiilistä ja melkein
-Puhuja 0: semmoista muotia tai
-Puhuja 0: estetiikkaa ja tällaista. Siinä on nykyään jotain
+Puhuja 0: sitä ei nykyään enää ole missään. Kristinuskoahan on tosipasee ja mä en ole millään tavalla uskovainen ihminen.
+Puhuja 0: Arvostan siitä semmosta jännä fiilistä ja melkein semmoista muotia tai
+Puhuja 0: esteetetiikkaa ja tällaista. Siinä on nykyään jotain
 Puhuja 0: semmoista eksoottista, että joku kuvataan... Kristinhullun
 Puhuja 0: trendikkäitä!
 Puhuja 0: Joo ja kaikki krusifiksit
 Puhuja 0: ja tällaiset.
-Puhuja 0: Varmasti länsimaissakin paljon enemmän puhutaan islamista kuin kristinuskosta!
+Puhuja 0: Varmasti länsimaissakin paljon enemmän puhutaan islamista
+Puhuja 0: kuin kristinuskosta!
 Puhuja 0: Vaikka kristinuskossa on nimellisesti
 Puhuja 0: ja leimallisesti meidän omaa
 Puhuja 0: kamaa, niin me

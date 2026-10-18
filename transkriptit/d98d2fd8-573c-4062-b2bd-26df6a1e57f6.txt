@@ -15,7 +15,7 @@ Puhuja 0: menetetyt miljardit.
 Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
 Puhuja 0: torstaina yhdeksänsataa
 Puhuja 0: huhtikuuta vuonna kaksituhatta kaksikymmentäkuusi.
-Puhuja 0: Mun nimi on Tuomas Pelunki ja kanssani Helsingin Sanomien podcast studiossa Helsingissä Suomessa ja Euroopassa maapallo.
+Puhuja 0: Mun nimi on Tuomas Pelunki ja kanssani Helsingin Sanomien podcast studiossa Helsingissä Suomessa ja Euroopassa maapallon.
 Puhuja 0: Linnunratanimisellä
 Puhuja 0: galaksilla
 Puhuja 0: ovat:
@@ -23,16 +23,15 @@ Puhuja 0: Jussi Niemeläinen,
 Puhuja 0: Helsingin Sanomat
 Puhuja 0: pääkirjoitustaoimituksesta.
 Puhuja 2: Hei, Sanna. Hei vain, Jussi. Mitä kuuluu? Ja hyvää. Kevät tulee.
-Puhuja 0: Säitä
-Puhuja 0: pydel.
-Puhuja 0: Jussin vieressä
+Puhuja 0: Säitä pydel.
+Puhuja 0: Just vieressä
 Puhuja 0: meillä on Helsingin Sanomien sunnuntaitoimituksen
 Puhuja 0: toimittaja Annas Faerner,
-Puhuja 0: ystäviä keskisohvi. Hei vaan.
-Puhuja 3: Hyvää Mikael Agricolan päivää. Onko tänään?
-Puhuja 0: Miks sun päivä?
-Puhuja 0: Hei, onpa upeata.
-Puhuja 0: Hieno Mikael Agricola. Tiesittekö kuka hän on?
+Puhuja 0: ystäviä keskeisistä sohvi. Hei vaan.
+Puhuja 3: Hyvää Mikael Agricolan päivää. Onko tänään
+Puhuja 0: sun päivä?
+Puhuja 0: Hei, onpa upeata. Hieno
+Puhuja 0: Mikael Agricola. Tiesittekö kuka hän on?
 Puhuja 0: Suomen kirjakielen isä. Kyllä. Suomen kirjakielen isä
 Puhuja 0: ja Suomen piispa
 Puhuja 0: 1500-luvulla Ruotsin vallan alkuun oltiin.
@@ -62,8 +61,7 @@ Puhuja 3: sivupolku.
 Puhuja 0: Suomenkielisten suomalaisten
 Puhuja 0: vanhaa Ruotsin vallan aikaista historiaa on tosi vaikea selvitellä, ja siinä on epävarmuuksia.
 Puhuja 0: Näin ainakin väitetään, että Mikael Agricola oli suomenkielinen.
-Puhuja 0: Tähän ehkä joku professori osaa lähettää sähköpostia ja nauraa
-Puhuja 0: mulle.
+Puhuja 0: Tähän ehkä joku professori osaa lähettää sähköpostia ja nauraa mulle.
 Puhuja 0: Näin luin. Parastakin eri paikkaa. Tämä ei ole nyt faktaa, tämä oli
 Puhuja 0: internet-asioiden
 Puhuja 0: ääneen kertomista.
@@ -153,17 +151,20 @@ Puhuja 0: Se keskusteluhan käynnistyy. Kyllä. Siinä osittain myös oli
 Puhuja 0: sen
 Puhuja 0: jutun teilaamista,
 Puhuja 0: että
-Puhuja 0: siinä olisi pitänyt toimittaja inttää vastaan ja että mitä päästetään nyt puhumaan läpi ja päähänsä joku budjettipäällikkö.
+Puhuja 0: siinä olisi pitänyt toimittaja inttää vastaan ja mitä päästetään nyt puhumaan läpi ja päähänsä joku budjettipäällikkö.
 Puhuja 0: Se on ehkä... No joo, haluatteko sanoa? Se on kirjoituksellinen.
-Puhuja 2: Mun mielestä se oli hyvin tavanomainen henkilökuva ja siinä ihminen saatiin jopa puhumaan itse asiassa aika paljon.
+Puhuja 2: Mun mielestä se oli hyvin tavanomainen henkilökuva
+Puhuja 2: ja siinä ihminen saatiin jopa puhumaan itse asiassa aika paljon.
 Puhuja 2: Se oli aika paljastava henkilökuva.
 Puhuja 2: Mun mielestä sen takia se oli
-Puhuja 3: arvokas henkilö. Se oli kiinnostava, kun olin seurannut
-Puhuja 3: keskustelua
-Puhuja 3: Mutta olin aidosti yllättynyt sitten kun luin sitä juttua.
+Puhuja 3: arvokas henkilö. Se oli kiinnostava, kun olin seurannut keskustelua
+Puhuja 3: mutta olin aidosti yllättynyt sitten kun luin sitä juttua.
 Puhuja 3: Tässähän on tosi paljon
 Puhuja 3: kuultu, siellä oli haastateltu kaikenlaisia muita ihmisiä. Ihmisiä, jotka ovat eri mieltä Mika Niemelän kanssa, ihmiset, jotka saattavat puhua kriittisesti Mika Niemelästä. Se ei ollut sellainen
 Puhuja 3: täysin kritiikin juttu,
+Puhuja 3: joksikin se oli somessa. Ei todellakaan,
+Puhuja 3: vaan se oli
+Puhuja 3: asiallinen ja
 Puhuja 3: tyylikäs ja kaikkea. Mutta siellä todellakin oli
 Puhuja 2: haettu eriäviä näkemyksiä. Ongelmahan tulee varmaan siitä, kun se on budjettipäällikkö
 Puhuja 2: ja se joutuu katsomaan sitä,
@@ -184,7 +185,7 @@ Puhuja 0: kurssipinssit
 Puhuja 0: poliitikoilla.
 Puhuja 0: Miksi just, kun minä käyn tämän, niin tästä tulee tällainen... Nolo.
 Puhuja 0: Hyvä,
-Puhuja 2: veli. Sä voit miettiä, miksi mistä. Niin.
+Puhuja 0: veli. Sä voit miettiä, miksi mistä. Niin.
 Puhuja 0: Maapuolustuskurssilla pääsi
 Puhuja 0: aika
 Puhuja 0: tarkkaan ja hyvin seuraamaan ja sitten myös harjoittelemaan
@@ -223,8 +224,8 @@ Puhuja 0: neljäsataa
 Puhuja 3: oman sektorinsa asiaa. Sen takiahan meillä on tämä
 Puhuja 2: pörss. Kyllä esimerkiksi
 Puhuja 2: kansanedustajat,
-Puhuja 2: jotka ovat valiokunnissa istuivat, niin kyllä niillä on ajettu. Ne on aika hyvä tatsi siinä. Mä en halua viisisataa, mitä siellä tapahtuu. Poliitikkojen lisäksi siellä on todella
-Puhuja 0: paljon tosi
+Puhuja 2: jotka ovat valiokunnissa istuivat, niin kyllä niillä on ajettu. Ne on aika hyvä tatsi siinä. Mä en halua viisisataa, mitä siellä tapahtuu. Poliitikkojen lisäksi siellä on todella paljon
+Puhuja 0: tosi
 Puhuja 0: kiehtovaa kamaa ihmisiä asioita aiheita.
 Puhuja 0: Sitten kun
 Puhuja 0: ratsastatte
@@ -237,8 +238,8 @@ Puhuja 0: josta pää perkele on ajettu pois.
 Puhuja 0: Siihen tulee unkarilainen
 Puhuja 0: omanviljelijä,
 Puhuja 0: nojailee haravaan
-Puhuja 0: teidän ja ratsunne
-Puhuja 0: vieressä. Katsotte molemmat vähän horisonttiin,
+Puhuja 0: teidän ja ratsunne vieressä. Katsotte
+Puhuja 0: molemmat vähän horisonttiin,
 Puhuja 0: ehkä suojatti silmiä pahimmalta auringonpaisteelta,
 Puhuja 0: kun aurinko laskee sinne.
 Puhuja 0: Teidän pitää sille haravanmiekkuselle jo tarvetta sanomaan. Hän tarjoaa teille
@@ -317,16 +318,15 @@ Puhuja 0: kun käytettiin vielä modemeja, että mentiin internettiin.
 Puhuja 0: Sen biisin nimi on We Sunscreen.
 Puhuja 0: Se on
 Puhuja 0: mahtavimpia tekstejä, mahtavimpia
-Puhuja 0: lausuntoja ja mahtavimpia
-Puhuja 0: biisejä, mitä mä tiedän.
+Puhuja 0: lausuntoja ja mahtavimpia biisejä, mitä mä tiedän.
 Puhuja 0: Se on
-Puhuja 0: puhe koulunsa päättävälle nuorelle. Where sundsccreen, se on erinomainen,
+Puhuja 0: puhe koulunsa päättävälle nuorelle. Where sund screen, se on erinomainen,
 Puhuja 0: ja internet legenda, katkais sekin
-Puhuja 0: sen jälkeen, kun olette tehneet eilen. Jussi.
+Puhuja 0: sen jälkeen, kun olette teille eilen. Jussi.
 Puhuja 2: Tässä puhuttiin
 Puhuja 2: kansanmurhistakin
 Puhuja 2: terminä, niin suosittelen... ] [Puhuxupream,
-Puhuja 2: meillä olisi paljon sellaista kirja. Pilip Sand sinki joka on Englance East West Street, mutta se on kääntynyt suomeksi nimellä paluu Lemberkin.
+Puhuja 2: Pilip Sand sinki joka on Englance East West Street, mutta se on kääntynyt suomeksi nimellä paluu Lemberkin.
 Puhuja 2: Se kertoo
 Puhuja 2: siitä nykyisessä rivissä,
 Puhuja 2: eli
@@ -339,7 +339,7 @@ Puhuja 2: tuli
 Puhuja 2: tällaisia oikeusasioita.
 Puhuja 2: Nysbergissä ne olivat molemmat
 Puhuja 2: mukana vaikuttamassa.
-Puhuja 2: Sansin
+Puhuja 2: Tämä Sansin
 Puhuja 2: suku on kotoisin sieltä.
 Puhuja 2: Hän on siis oikoseeteen professori. Hän on kirjoittanut aika kansantaisen
 Puhuja 2: kirjan

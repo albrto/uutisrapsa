@@ -42,10 +42,10 @@ Puhuja 1: useita eri juttuja. Se on lyhyitä tähtäimen juttuja ja keskipitkän
 Puhuja 1: Tommi on kone.
 Puhuja 1: Miten sinä teet sen?
 Puhuja 3: Joo. Kiitos ensinnäkin kutsusta tänne.
-Puhuja 3: Olen väärin peruste ollut näin pitkään poissa täältä studiosta. Oli
+Puhuja 3: Mielestäni olen väärin peruste ollut näin pitkään poissa täältä studiosta. Oli
 Puhuja 3: jo aikakin kutsua, mutta
-Puhuja 3: miten teen sen? Minulla
-Puhuja 3: on ihan
+Puhuja 3: miten teen sen? Minulla on
+Puhuja 3: ihan
 Puhuja 3: semmoinen
 Puhuja 3: järjestelmä jossa
 Puhuja 3: pidän aina, että pitää olla yksi vähintään vuoden kestävän juttuprojekti
@@ -66,12 +66,13 @@ Puhuja 3: soita?
 Puhuja 3: Siis se on ihan kaaosta.
 Puhuja 2: Sä oot silti antaa juttuvinkkejä uusista aiheista. Kaikki ei mene paperilla mene sekaisin.
 Puhuja 2: Jatketaan ennen kuin maine menee. Joo ja Tommilahan
-Puhuja 1: on aina misteririllisia.
+Puhuja 1: on aina misteririllisiä.
 Puhuja 1: Sieltä aina putkahtelee.
 Puhuja 1: Älä Markon.
 Puhuja 1: Erilaisia
 Puhuja 1: juttuja.
-Puhuja 1: Noniin, tänään meillä on kolme aihetta kuten aina.
+Puhuja 1: Noniin,
+Puhuja 1: tänään meillä on kolme aihetta kuten aina.
 Puhuja 1: Ensin keskustellaan tuolla eduskunnassa
 Puhuja 1: meidän Selkämme takana fyysisesti Arkadianmäellä
 Puhuja 1: käynnissä olevasta tai itseasiassa kohta jälleen käynnistyvästä
@@ -86,7 +87,7 @@ Puhuja 1: Sitten toisena aiheena puhumme
 Puhuja 1: esiintyvien taiteilijoiden
 Puhuja 1: ahdingosta. Olemme saaneet tänne myös palautetta, jossa on ihmetelty. Miksi emme ole puhuneet tästä aikaisemmin?
 Puhuja 1: Ihan aiheesta.
-Puhuja 1: Mutta tänään puhutaan. Ja me tehdään myös sellainen poikkeus, että otetaan tänne niin kuin Siis aiheesta annettu palautetta, anteeksi.
+Puhuja 1: Mutta tänään puhutaan. Ja me tehdään myös sellainen poikkeus, että otetaan tänne niin kuin... Siis aiheesta annettu palautetta, anteeksi.
 Puhuja 1: Kyllä. Meillä on ulkopuolinen vieras, joka tulee briiffaamaan. Hän on itsekin taiteilija,
 Puhuja 1: tietää asiasta paljon ja on kovin kiihtynyt. Soitamme hänelle, kun tästä aletaan puhumaan.
 Puhuja 1: Ja kolmantena aiheena päästään puhumaan Lähi-idästä.
@@ -98,20 +99,20 @@ Puhuja 2: on kuitenkin kulttuuriministeri, joka puhui viime aikoina aika paljon 
 Puhuja 1: Kulttuurialahan julkisti oman
 Puhuja 1: exit-strategiansa,
 Puhuja 1: joka tuli
-Puhuja 1: viikkoa ennen kuin rupesi puhumaan näistä koko Suomen exit-strategiasta.
+Puhuja 1: viikkoa ennen kuin rupesimme puhumaan näistä koko Suomen exit-strategiasta.
 Puhuja 1: Mutta niin kuin äsken puhuttiin niin
-Puhuja 1: siinä oli hyvin
+Puhuja 1: siinä
+Puhuja 1: oli
+Puhuja 1: hyvin...
 Puhuja 1: Siinä oli kytkettynä
 Puhuja 1: näihin leviämislukuihin ja
 Puhuja 1: tautitilanteeseen että millaisilla ehdoilla missäkin vaiheessa voidaan järjestää. Kulttuurin exit-strategia oli aika yksityiskohtainen.
 Puhuja 1: Se oli sillä tarkkuudella että
 Puhuja 1: miten jos voidaan järjestää tilaisuus niin miten varmistetaan ettei tule vessajonoja ja muuta.
-Puhuja 1: Siitä puuttui päivämäärät. Siinä ei ollut
-Puhuja 1: se
+Puhuja 1: Siitä puuttui päivämäärät. Siinä ei ollut se
 Puhuja 1: mitä Teemu jos kaipaat, että pitäisi tietää milloin hän alkaa myymään
 Puhuja 1: niitä besterineyhtyeen
-Puhuja 1: keikkoja.
-Puhuja 2: Me tiedetään, että Suomen kesä on lyhyt.
+Puhuja 2: keikkoja. Me tiedetään, että Suomen kesä on lyhyt.
 Puhuja 2: Sellainen asia, mikä
 Puhuja 2: on jäänyt mietittyä ja on tullut useammiltakin taiteilijoilta
 Puhuja 2: viime aikoina vastaan, on se, että he pelkäävät, että sitä jää pidempiaikaista katkeruutta.
@@ -149,12 +150,13 @@ Puhuja 3: Minuakin huolestuttaa
 Puhuja 3: tässä
 Puhuja 3: että kuinka pitkät jäljet tulee jäämään koko kulttuurikentälle
 Puhuja 3: sen takia että
-Puhuja 3: nyt olen huomannut Itse asiassa yksi hetki, jolloin havahduin siihen kuinka vakavien asioiden kanssa ollaan tekemisissä oli se, kun Popeda rumpali, LAKU Lahtinen pisti
+Puhuja 3: nyt olen huomannut... Itse asiassa yksi hetki, jolloin havahduin siihen kuinka vakavien asioiden kanssa ollaan tekemisissä oli se, kun Popeda rumpali, LAKU Lahtinen
+Puhuja 3: pisti
 Puhuja 3: keikkarumpusetttinsä
 Puhuja 3: sen The Popeda-setin
 Puhuja 3: myyntiin verkossa
 Puhuja 3: ihan rouheeseen hintaan mutta joka tapauksessa se oli joutunut
-Puhuja 3: myymään tuota keikkasetin. Silloin tajusin vaan sen, että Popedahan
+Puhuja 3: myymään tuota keikkasetin ja silloin tajusin vaan sen, että Popedahan
 Puhuja 3: on tietenkin
 Puhuja 3: Suomen myyvimpiä
 Puhuja 3: rock-artisteja.
@@ -166,8 +168,8 @@ Puhuja 3: tai esiintyvä taiteilija ylipäätään joutuu taloudellisesti usein 
 Puhuja 3: niin
 Puhuja 3: voi vaan kuvitella, että koko se
 Puhuja 3: kulttuurin ja taiteen aluskasvillisuus
-Puhuja 3: eli
-Puhuja 3: puoli amatööri tai puoli ammattilainen pientoiminta,
+Puhuja 3: eli puoli
+Puhuja 3: amatööri tai puoli ammattilainen pientoiminta,
 Puhuja 3: pienteatterit,
 Puhuja 3: pienet bändit
 Puhuja 3: kaikki mahdollinen
@@ -193,7 +195,7 @@ Puhuja 3: Niin joo kyllähän tota.
 Puhuja 3: Charred Gucusnerillä oli kova
 Puhuja 3: yritys päällä mutta taisi jäädä.
 Puhuja 3: Eli
-Puhuja 1: mistä tämä viime päivien kriisi Tämähän lähti hyvin pienestä liikkeelle.
+Puhuja 1: mistä tämä viime päivien kriisi... Tämähän lähti hyvin pienestä liikkeelle.
 Puhuja 3: Niin jos mä
 Puhuja 3: olen oikein ymmärtänyt tavallaan tän viimeisen
 Puhuja 3: konfliktin leimahduksen
@@ -236,7 +238,8 @@ Puhuja 3: että jos
 Puhuja 3: uutistoimistoilta
 Puhuja 3: tulee urgentti, jos on ollut urgentti eli tämmöinen
 Puhuja 3: uusi uutinen,
-Puhuja 1: uusi tärkeä uusi pikaähke,
+Puhuja 1: uusi tärkeä uusi. Pikasähkö.
+Puhuja 1: Pikasähkö,
 Puhuja 3: Niin jos tulee urgentti,
 Puhuja 3: että
 Puhuja 3: Lähi-idän
@@ -248,8 +251,8 @@ Puhuja 3: siellä ollaan niin
 Puhuja 3: käsittämättömässä
 Puhuja 3: pattitilanteessa.
 Puhuja 3: Niin,
-Puhuja 2: kyllä kun lueskelin niin sieltä uutisia ja mietin sitä
-Puhuja 2: Muodollisestihan se leimahti tavallaan.
+Puhuja 2: kyllä kun lueskelin niin sieltä uutisia ja mietin sitä... Muodollisestihan
+Puhuja 2: se leimahti tavallaan.
 Puhuja 2: Se viimeinen sysäys tälle
 Puhuja 2: oli. Ilmeisesti kuusi perhettä siellä Itä Jerusalemissa.
 Puhuja 2: Sehän on ollut pitkin kevättä kaikenlaisia jännitteitä. En tiedä,
@@ -266,9 +269,9 @@ Puhuja 2: menettivät kotinsa sen alueella. Silloin
 Puhuja 2: piti jurdeanja
 Puhuja 2: valtaa.
 Puhuja 2: Meille
-Puhuja 2: näyttäytyy helposti nämä uutiset. Hannu Juusola sanoi tänään, hyvin Lähiutkimuksen
-Puhuja 2: professori ykkös Saamus
-Puhuja 2: puhui siitä, että
+Puhuja 2: näyttäytyy helposti nämä uutiset. Hannu Juusola sanoi tänään
+Puhuja 2: hyvin lähi-tutkimuksen
+Puhuja 2: professori ykkös Saamus etenkin puhui siitä, että
 Puhuja 2: median huomio keskittyy
 Puhuja 2: siihen. Nyt Hannu, anteeksi jos siteerannut väärin. Mutta näin sen ymmärsin.
 Puhuja 2: Konflikti
@@ -331,8 +334,7 @@ Puhuja 2: antaako EU tukea tukea, että niitä taas korjataan ja pommitetaan taa
 Puhuja 1: Joo, synkkää
 Puhuja 1: on.
 Puhuja 1: Nyt meidän pitää lopettaa lähetys.
-Puhuja 1: Siirrytään meidän
-Puhuja 1: loppuosioon.
+Puhuja 1: Siirrytään meidän loppuosioon.
 Puhuja 1: Eli kun nyt helteet jatkuu viikonloppuna.
 Puhuja 3: Jatkuuko ne? Ehkä ne jatkuu?
 Puhuja 3: Ehkä vähän hyytyy mutta ei ne täysin niin kun ei tänne mitään uutta jääkautta ole tulossa.
@@ -345,11 +347,9 @@ Puhuja 1: Mistä aloitatte? Ehdottaisin että otetaanko ensiksi meidän lukijan 
 Puhuja 2: Joo, koska se meinasi olla sama mitä minäkin olin suunnittelemassa.
 Puhuja 1: Hyvä, nappaan sen sinulta. Eli
 Puhuja 1: Eveliina Paljärvi,
-Puhuja 1: joka on meidän
+Puhuja 1: joka on meidän...
 Puhuja 1: Eikö voi sanoa melkein että ohjelman
-Puhuja 1: fani. Hän on se ihminen, joka aina Twitterissä pilkkaa meitä kun emme pääse siihen tunnin tavoiteaikaan. Päästiinkö me nyt? Ei vissiin
-Puhuja 1: päästä.
-Puhuja 1: Jos päästiin,
+Puhuja 1: fani. Hän on se ihminen, joka aina Twitterissä pilkkaa meitä kun emme pääse siihen tunnin tavoiteaikaan. Päästiinkö me nyt? Ei vissiin päästä. Jos päästiin,
 Puhuja 1: niin Eveliina on luvannut nostaa meille kaikille oluen. Jos me joskus menee alle tunnin.
 Puhuja 2: Ensi kerran.
 Puhuja 1: Olemme muuten vartti. Emme ole aika tarkkaan tunnissa.
@@ -410,7 +410,7 @@ Puhuja 3: kuin se, että menee
 Puhuja 3: Suomenlahdelle
 Puhuja 3: mahdollisimman ahtaassa ja pienessä
 Puhuja 3: aluksessa.
-Puhuja 3: Eli tuota Itse harrastan merimelontaa
+Puhuja 3: Eli tuota... Itse harrastan merimelontaa
 Puhuja 3: ja se
 Puhuja 3: on kyllä paitsi koronaturvallista niin se on helvetin hauskaa.
 Puhuja 3: Helsingissä on vaikka kuinka monta melontaseuraajoilta,

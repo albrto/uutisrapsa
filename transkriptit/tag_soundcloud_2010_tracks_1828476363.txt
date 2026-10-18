@@ -18,7 +18,7 @@ Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin
 Puhuja 0: torstaina kaksisataakolmekymmentäviisi.
 Puhuja 0: Meillä oli kaksituhatta
 Puhuja 0: kaksikymmentäneljä aivan mahdottoman pitkä toukokuu.
-Puhuja 0: Mun nimi on Tuomas Peltomäki, kanssani täällä Helsingin Sanomien Väliaikaissppodcast
+Puhuja 0: Mun nimi on Tuomas Peltomäki, kanssani täällä Helsingin Sanomien Väliaikaisis-podcast
 Puhuja 0: studiossa kerroksessa numero viisi ovat
 Puhuja 0: Helsingin Sanomien
 Puhuja 0: gaalakuilta.
@@ -38,41 +38,38 @@ Puhuja 2: Menen tosi iloissani, koska meillä on kahden mahtavan toimittajan Paa
 Puhuja 2: Siellä on Paavo Teittisen ja itse asiassa KV-työryhmä
 Puhuja 2: juttuprojekti
 Puhuja 2: Täydellinen pako, josta olet itse tehnyt sen podcastin. Ehkä muistan. Sen tiedän, että miksen taas siellä ehdolla Paavo Teittisen takaa. Just, toi on törkeää,
-Puhuja 0: varsinkin kun Paavo tuli nyt. Pitäisi tutkivan osaston bossiia olisi pitänyt laittaa sinne.
-Puhuja 2: Heti alkoi tällaisella
-Puhuja 2: kireällä.
-Puhuja 2: Sitten meidän Venäjä-aiheisiin
+Puhuja 0: varsinkin kun Paavo tuli nyt. Pitäisi tutkivan osaston bossiia olisi pitänyt laittaa sinne sinne. Heti alkoi tällaisella
+Puhuja 2: kireällä silmällä.
+Puhuja 2: Ja sitten meidän Venäjä-aiheisiin
 Puhuja 2: erikoistunut
 Puhuja 2: avustaja, joka tekee paljon meille töitä. Outi Salovaara, tällaisella Sebittäjän sisäpiirissä
 Puhuja 2: jo tulla. Mainia juttu. Molemmat kovia juttuja. Toivotaan, että napsataan.
 Puhuja 0: Ja nauttikaa
 Puhuja 0: galasta ja onnea molemmille ehdokkaille.
-Puhuja 0: Sen lisäksi meillä on paikalla
+Puhuja 0: Sen lisäksi meillä on paikalla...
 Puhuja 0: Meillä on
 Puhuja 0: organisaatiouudistus ollut Helsingin Sanomissa, niin mä en tiedä yhtään missä sä oot nykyään töissä. Mä oon edelleen feature-toimituksessa
 Puhuja 2: töissä. Viime viikolla
-Puhuja 2: feature-toimituksessa. Onko
+Puhuja 0: feature-toimituksessa. Onko
 Puhuja 0: se nimi edelleen typeräisesti feature? On.
-Puhuja 1: Ymmärretäänkö täällä, että se on englannin tekijä? Ymmärretään, mutta kukaan ei ikinä ole keksinyt parempi. Se on
-Puhuja 2: aina se sama keskustelu, että se on tyhmä nimi ja ei tarkoita mitään. Ja on englantia, mutta keksi itse parempi.
+Puhuja 1: Ymmärretäänkö täällä, että se on englannin tekijä? Ymmärretään, mutta kukaan ei ikinä ole keksinyt parempi. Keksi itse parempi.
+Puhuja 2: Se on aina se sama keskustelu, että se on tyhmä nimi ja ei tarkoita mitään. Ja on englantia, mutta keksi itse parempi.
 Puhuja 1: Mutta meiltä halutaan myös lyhyitä juttuja.
-Puhuja 0: Ei ruveta näinkin firmaan sisätiloihin väittelyitä.
+Puhuja 0: Ei ruveta näinkin firmaan sisäviin väittelyitä.
 Puhuja 1: Ystävien kesken sohvin? Kyllä. Saanko ystävien kesken, nyt kun sanoit ton päivämäärät, toivottaa
 Puhuja 1: eräälle kuulijalle Hyvää
 Puhuja 0: syntypäivää Tommi. No Tommi, paljon onnea.
 Puhuja 2: Onko se sukunimi Nieminen? Ei ole.
-Puhuja 0: OK. Tämän viikon podcastissa keskustellaan
+Puhuja 0: OK. Tän viikon podcastissa keskustellaan
 Puhuja 0: rajoista
-Puhuja 0: kahdella eri tapaa:
-Puhuja 0: maalla ja merellä. Nimittäin
-Puhuja 0: tällä viikolla
+Puhuja 0: kahdella eri tapaa: maalla ja merellä. Nimittäin tällä viikolla
 Puhuja 0: aika kuumottava
 Puhuja 0: uutistapahtuma, joka
 Puhuja 0: alkoi venäläismedian
 Puhuja 0: saatua tietoja tai venäläismedian
 Puhuja 0: levitettyä
 Puhuja 0: tietoja.
-Puhuja 0: Nyt ollaan tosi silleen, että kuinkahan hybridioperaatio tämä on vai onko tämä vain jotain vokkaanhuistelua
+Puhuja 0: Nyt ollaan tosi sillein, että kuinkahan hybridioperaatio tämä on vai onko tämä vain jotain vokkaanhuistelua
 Puhuja 0: sekoilua.
 Puhuja 0: Kukaan ei tiedä varmasti.
 Puhuja 0: Mutta
@@ -90,11 +87,11 @@ Puhuja 0: eduskuntataivaalle.
 Puhuja 0: Keskustellaan siitä aiheesta. Ja myös
 Puhuja 0: puhutaan
 Puhuja 0: europarlamenttivaaleista.
-Puhuja 0: Tällä viikolla on
-Puhuja 0: no,
+Puhuja 0: Tällä viikolla on...
+Puhuja 0: No,
 Puhuja 0: puhutaan vaaleista, joita on
-Puhuja 0: noi
-Puhuja 0: vaikka sanoa sanoa: Ylen vaalistudio
+Puhuja 0: noi...
+Puhuja 0: Vaikka sanoa sanoa: Ylen vaalistudio
 Puhuja 0: ja Merisää.
 Puhuja 0: Mun mielestä mahtavalla ja upealla ja iloisella tavalla on tämmöinen positiivinen aihe EU-vaaleissa.
 Puhuja 0: Muutenhan
@@ -120,9 +117,8 @@ Puhuja 0: spekulaatiot
 Puhuja 0: on, että totta kai se menee Euroopan parlamentin vasemmistoryhmään,
 Puhuja 0: mihin on menossa myös Suomen
 Puhuja 0: vasemmistomepit. Kuulostaa ihan helvetin kuumottavalta, että jos sinne on tulossa joidenkin arvioiden mukaan jopa kahdeksan meppiä, joka kasvattaa sille, että siitä tulee sen porukan merkittävin ryhmä. Ne on siis jälleen kerran stalinisteja.
-Puhuja 0: Suomalaiset vasemmistomepit on siinä porukassa kyllä ihan väärässä
-Puhuja 0: jengissä.
-Puhuja 0: Mä kyllä ymmärsin, että muut vasemmistoryhmät Euroopan parlamentissa on tekemässä tällä hetkellä peliliikkeitä siihen, että jos se vaagennehtin porukka Saksasta, eli saksalaiset stalinistit tulee ja voittaa näissä europarlamentin vaaleissa ison voiton, niin siinä tapauksessa se estetään jollain keinoin, että se vaagennehtiporukka
+Puhuja 0: Suomalaiset vasemmistomepit on siinä porukassa kyllä ihan väärässä jengissä.
+Puhuja 0: Mä kyllä ymmärsin, että muut vasemmistoryhmät Euroopan parlamentissa on tekemässä tällä hetkellä peliliikkeitä siihen, että jos se vaagen nettin porukka Saksasta, eli saksalaiset stalinistit tulee ja voittaa näissä europarlamentin vaaleissa ison voiton, niin siinä tapauksessa se estetään jollain keinoin, että se vaagennehtiporukka
 Puhuja 0: ei pääse liittymään tähän europarlamentin vasemmistoon.
 Puhuja 1: Saanko sanoa tästä vaagennehtista, koska myös tässä meidän jutussa on kuva hänen vaalimainoksestaan
 Puhuja 1: ja se
@@ -155,9 +151,9 @@ Puhuja 1: Saksassa kun
 Puhuja 1: on tämä iso kannatus, tämä on suuresti nostanut
 Puhuja 1: laita oikeiston puoli ja avD,
 Puhuja 1: AfD niin näyttää siltä, että nyt kun tämä vaagendeista perusti oman puolueensa. Kysyin tätä meidän Berliininilienvaihjalta
-Puhuja 1: Suvi Turtiselta, niin Suvi sanoi että ne korreloi sillä tavalla, että Afden kannatus on laskenut suurin piirtein sen verran mitä tämä on. Että tavallaan
+Puhuja 1: Suvi Turtiselta, niin Suvi sanoi että ne korreloi sillä lailla, että Afden kannatus on laskenut suurin piirtein sen verran mitä tämä on. Että tavallaan
 Puhuja 1: sieltä niin oikealta kuin
-Puhuja 0: ollaan, niin on siirrytty niin vasemmalla kuin ollaan. Afhe jopa pyysi vaagenehtiä liittymään alun perin Aft:hen.
+Puhuja 0: ollaan, niin on siirrytty niin vasemmalla kuin ollaan. Ei jopa pyysi vaagen lehtiä liittymään alun perin AfT:hen.
 Puhuja 1: Tavallaan nämä
 Puhuja 1: hurulaidat
 Puhuja 1: yhdistyvät.
@@ -185,7 +181,7 @@ Puhuja 0: asemaa hallintoneuvostossa
 Puhuja 0: ja kyseenalaistetaan
 Puhuja 0: Ylen riippumaton journalismi.
 Puhuja 0: Näin. Eli kyllä se aika
-Puhuja 1: huilu Sekä oikealla että vasemmalla pitää miettiä tätä, mihin porukkaan halutaan Euroopassa. Totta kai.
+Puhuja 1: huilu... Sekä oikealla että vasemmalla pitää miettiä tätä, mihin porukkaan halutaan Euroopassa. Totta kai.
 Puhuja 0: Mun ymmärrys on se, että oikealla meininki on europarlamentilla
 Puhuja 0: vielä huomattavasti sekopaisempaa
 Puhuja 0: kuin vasemmalla.
@@ -231,15 +227,16 @@ Puhuja 2: perheiden passien numeroita.
 Puhuja 2: Nythän tämä kuva alkaa näyttää
 Puhuja 2: siltä, että ei ole vaan johonkin
 Puhuja 2: levylle isketty ja jotain saatu vaan on saatu ihan
-Puhuja 1: kaikki. Satajatuhojen
+Puhuja 2: kaikki. Satajatuhojen
 Puhuja 2: ihmisten kuitenkin. Joku puhuu, että saattaisi koskettaa jopa puolta miljoonaa ihmistä Suomessa. No, lasketaan nyt paljon, se on prosentuaalisesti suomalaisista. Mutta kuten Tuomas sanoi
 Puhuja 2: introssa, tämä on
 Puhuja 2: todennäköisesti ja onkin tähän mennessä
 Puhuja 2: ilmitulleista
 Puhuja 2: tietomurtotapauksista
-Puhuja 0: suurin Siis vastaamaan ihan peanuts verrattuna tähän. Niin määrältä. Vastaannut sisältö on aivan eri kokoluokka
-Puhuja 2: tai merkiksi. Erilaisia asioita, mutta myös
-Puhuja 2: täällä on esimerkiksi erityisen tuen päätöksiin liittyviä asioita ja ihmisten tilanteisiin liittyviä asioita. Nehän saattaa
+Puhuja 2: suurin... Siis vastaamaan ihan peanuts verrattuna tähän. Niin määrältä.
+Puhuja 0: Vastaannut sisältö on aivan eri kokoluokka
+Puhuja 0: tai merkiksi. Erilaisia asioita.
+Puhuja 2: Myös täällä on esimerkiksi erityisen tuen päätöksiin liittyviä asioita ja ihmisten tilanteisiin liittyviä asioita. Nehän saattaa
 Puhuja 2: olla tosi yksityistä ja intiimiä
 Puhuja 2: tietoa ihmisistä.
 Puhuja 1: Myös
@@ -265,9 +262,9 @@ Puhuja 2: Nythän ei ole tullut mitään ilmeisesti kiristysviestejä tai muuta.
 Puhuja 2: voisi käyttää.
 Puhuja 2: Satu Järven-allas, jonka tittelin juuri unohdin, mutta
 Puhuja 2: kouluasioiden
-Puhuja 2: ylipäällikkö siellä.
-Puhuja 2: Sanoo näin,
-Puhuja 2: että ketään ei pidä lähteä tuomitsemaan ennen kuin asiaa on käyty läpi. Ei voi sanoa, että ohjeita ei olisi noudatettu.
+Puhuja 2: ylipäällikkö
+Puhuja 2: siellä.
+Puhuja 2: Ketään ei pidä lähteä tuomitsemaan ennen kuin asiaa on käyty läpi. Ei voi sanoa, että ohjeita ei olisi noudatettu.
 Puhuja 1: Mä puhuin tästä
 Puhuja 1: kaupunkitoimittaja
 Puhuja 1: Milla Palkohon kanssa, joka on tätä asiaa seurannut.
@@ -325,13 +322,13 @@ Puhuja 1: on tästä varten.
 Puhuja 0: Onko tässä vähän semmoinen
 Puhuja 0: ylätason ajatus, mutta suhtaudutaanko me
 Puhuja 0: edelleen siihen tietokonejuttuihin
-Puhuja 0: silleen, että no joo, se on siellä jossain Mä just sanoin
+Puhuja 0: silleen, että no joo, se on siellä jossain... Mä just sanoin
 Puhuja 1: Millalle samaa, että mun mielestä se johtuu siitä, että en minäkään mullekin tuli päiväkodista kuitenkin kirje tästä tietomurrosta ja näin,
 Puhuja 1: Mutta sitten se on joitakin ATK-asioita
 Puhuja 1: ja mitään ei ehkä kuitenkaan ole tapahtunut.
 Puhuja 1: Ei kuulosta kun. Niin en jaksa nyt kuulostaa vaikealta. Montako bittiä siitä?
 Puhuja 2: Niin ja eikö aina voi vetää se vanha argumentti, että jos ei ole mitään salattavaa, niin
-Puhuja 0: niin what's the problem? Minkähän verran meillä vielä
+Puhuja 0: niin what's the problem? Minkähän verran meillä vielä...
 Puhuja 0: Mä väitän, että tässä on ikäpolvi kysymys myös silleen, että mun ikäiset ja varsinkin mua vanhemmat on silleen, että aa joo, että noi on jotain pojat pelaa tietokoneella.
 Puhuja 0: Ja mua on nuori, mutta totta kai ne on silleen, että niin joo, koko meidän elämä on
 Puhuja 0: pelkästään tietokoneista ja digitaalista. Se täytyy ottaa vakavasti. Ja luulen, että
@@ -363,7 +360,7 @@ Puhuja 0: tota ehkä otat jonkun näköisen
 Puhuja 0: Eikö veneelle
 Puhuja 0: sä
 Puhuja 0: johda martinilasista
-Puhuja 1: sellaisia stroaeja? Veneille sä
+Puhuja 0: sellaisia stroaeja? Veneille sä
 Puhuja 1: juodaan semmoisia pieniä jalluja, kun on nostettu purjeet.
 Puhuja 1: Voidaan laittaa pikkujaulut
 Puhuja 0: veneillessä.
@@ -404,8 +401,7 @@ Puhuja 1: aika lailla tämmöistä jotenkin tässä ajassa ja
 Puhuja 1: vähän
 Puhuja 1: populistista
 Puhuja 1: kirjoittaa kirja näin. Mutta se kirja on tosi hyvä. Okei, mikä sen nimi oli? Kotka.
-Puhuja 0: Kotka. Tuomas niskakangas,
-Puhuja 0: meidän kollegamme täältä Helsingin Sanomista.
+Puhuja 0: Kotka. Tuomas niskakangas meidän kollegamme täältä Helsingin Sanomista.
 Puhuja 0: Hyvin harvoin kannattaa suositella musiikkia, koska musiikki on ihmisille,
 Puhuja 0: mistä ne nyt tykkää itsensä.
 Puhuja 0: Hyvin harvoin mitään järkeä suositella mitään biisejä kenellekään, mutta aion silti tehdä niin.
@@ -455,7 +451,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

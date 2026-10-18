@@ -38,8 +38,8 @@ Puhuja 0: päällikkö
 Puhuja 0: Salla Vuorikoski,
 Puhuja 0: hei vaan Salla. Heippa.
 Puhuja 0: Miten menee?
-Puhuja 1: Huomenna alkaa tuolla Italiassa yhdet semmoset. Ei itse asiassa ne ole alkanut jo. Eilen on jo ollut jotain Kurlingia ja taitoluistelua jääkiekkoa, naisten jääkiekkoa, jotain semmoista, mutta avajaiset on huomenna olympialaiset. Ja kyse on olympialaiset. Milloin on Torinon ollut mukana. Milan on kortti antaa
-Puhuja 1: virallinen nimi. Onko se
+Puhuja 1: Huomenna alkaa tuolla Italiassa yhdet semmoset. Ei itse asiassa ne ole alkanut jo. Eilen on jo ollut jotain Kurlingia ja taitoluistelua jääkiekkoa, naisten jääkiekkoa, jotain semmoista, mutta avajaiset on huomenna olympialaiset. Ja kyse on olympialaiset. Milloin on Torinon ollut mukana. Milan on kortti
+Puhuja 1: antaa virallinen nimi. Onko se
 Puhuja 0: Jos tekisin jonkun äpin vaikka tekoälyn, niin mä laittaisin sen nimeksi korttiin.
 Puhuja 1: Okei. Olisiko se nyt
 Puhuja 1: sitten kunta?
@@ -74,7 +74,7 @@ Puhuja 2: Niin, kyllä. Tällaisethan on silleen
 Puhuja 2: vähän vanhanaikainen juttu, että kun nykyään
 Puhuja 2: tosi vähän pitää televisiota katsoa niin kuin me lapsena katsottiin, että kerran viikossa tiettyyn aikaan pitää katsoa. Ne olympialaisethan tulee suoraan, jolloin
 Puhuja 2: sitä katsotaan silloin,
-Puhuja 2: kun kaikki muutkin katsoo sitä. Mutta muistatteko, kun Markku Uusi-Paavalniemi
+Puhuja 1: kun kaikki muutkin katsoo sitä. Mutta muistatteko, kun Markku Uusi-Paavalniemi
 Puhuja 1: vei Suomen Curling-menestyksen
 Puhuja 1: ihan uudelle tasolle, että meillä on tällaisia kivoja olympialaismuistoja
 Puhuja 1: menneisyydessä.
@@ -89,7 +89,11 @@ Puhuja 0: Suomen taloustilanne on niin huono,
 Puhuja 0: että vakavissa ainakaan nähnyt, että tästä olisi tullut tuomiota, että sinä olet
 Puhuja 0: EPStiinin avustamana
 Puhuja 0: lapseen sekaantunut.
-Puhuja 0: Kuuluisille
+Puhuja 0: En ole ainakaan nähnyt.
+Puhuja 1: Yksi keskustelu, jota käydäänkin, on just tämä, että pitäisikö näitä, onko se ratkaisu, että nyt ei syytetä ketään. Mutta sen lisäksi sitten EPStiin
+Puhuja 0: selkeästi
+Puhuja 0: välitti
+Puhuja 0: kuuluisille
 Puhuja 0: ihmisille,
 Puhuja 0: vakavin epäilys,
 Puhuja 0: että tyttöjä eli alaikäisiä lapsia. Tämähän on toiminut pedofien
@@ -107,15 +111,17 @@ Puhuja 0: naisia seksuaalisiin tekoihin tämmöisen kuuluisan varakkaan eliitin 
 Puhuja 0: Sen lisäksi siinä on näistä vielä erillään, että hänellä on ollut jonkun näköinen rooli
 Puhuja 0: sosiaalisena
 Puhuja 0: yhdistävänä
-Puhuja 0: lenkkinä.
+Puhuja 0: lenkkinä...
 Puhuja 0: Hän on selkeästi rakentanut jonkun näköistä verkosto... Imettä
-Puhuja 1: kaikki ihmiset, jotka ovat olleet tutustunut kaikkiin, tavannut kaikki, käynyt
+Puhuja 1: kaikki ihmiset, jotka ovat olleet.... Tutustunut
+Puhuja 0: kaikkiin, tavannut kaikki, käynyt
 Puhuja 0: uskomattoman
 Puhuja 0: runsasta sähköpostikirjeen
-Puhuja 0: kaikkien kanssa.
+Puhuja 0: kaikkien
+Puhuja 0: kanssa.
 Puhuja 0: Sitten tähän taas foliopuolella liittyy se, että onko hän voinut olla tämmöinen... Siis tää on täyttä foliota
 Puhuja 0: Redditin linkkien otsikoita.
-Puhuja 0: Onko hänellä voinut olla joku rooli tavallaan, että hän on tahallisesti kerryttänyt
+Puhuja 0: Onko hänellä voinut olla joku rooli tavallaan, että hän on tahallisesti kerryttänyt tämmöistä
 Puhuja 0: komptoivaa
 Puhuja 0: materiaalia kuuluisista ihmisistä.
 Puhuja 0: Näin. Okei.
@@ -177,11 +183,11 @@ Puhuja 2: raiskaukset,
 Puhuja 2: hän on itse tehnyt sitä, mutta se on näyttänyt, että se on hänelle ollut yksi keino
 Puhuja 2: hankkia
 Puhuja 2: joitakin kontakteja.
-Puhuja 2: Mutta päälle on tullut se iso porukka
-Puhuja 2: kansainvälistä
-Puhuja 2: eliittiä Kruununprinssoista
+Puhuja 2: Mutta päälle on tullut se iso porukka,
+Puhuja 2: kansainvälistä eliittiä Kruununprinssoista
 Puhuja 2: alkaen,
-Puhuja 2: jotka, ja
+Puhuja 2: jotka,
+Puhuja 2: ja
 Puhuja 2: erilaisten merkittäviistä, merkittävämpien ministereistä,
 Puhuja 2: jotka jotenkin tosi
 Puhuja 2: halvalla ikään kuin, että miten helposti ne saa kiedottua
@@ -204,7 +210,7 @@ Puhuja 1: pois. Se osoittaa sen, miten monet eliittiin kuuluvat
 Puhuja 1: ihmiset, joilla saattaa olla
 Puhuja 1: aivan sairaasti rahaa ja periaatteessa valtaakin, niin lopulta on
 Puhuja 2: välillä todella juntteja. Ja hyvin pieniä ihmisiä. Pieni ja pieniä ihmisiä. Kyllä. Koikoissahan pitäisi päästä New Yorkiin, että pystytkö lähettämään rahaa, että se pysyy tän ykkösluokassa
-Puhuja 0: sinne. Näin.
+Puhuja 2: sinne. Näin.
 Puhuja 0: Okei, tässä on hyvin paljon läsnä semmoinen tosi folioinen, että tää on joku
 Puhuja 0: operaatio, että EPSin on joku operaatio.
 Puhuja 0: Myös silleen,
@@ -228,19 +234,15 @@ Puhuja 2: ole
 Puhuja 2: että nämähän ovat nousukkaita nämä kaikki, jotka tässä ovat käyneet. Eihän siellä ole paljon sellaista vanhaa rahaa juurikaan. Mutta Bill Clinton
 Puhuja 0: ja Bill Gates
 Puhuja 0: tällä planeetalla on
-Puhuja 0: vaikea löytää ylempää porrasta. Bill Gateskin on nousukas,
+Puhuja 1: vaikea löytää ylempää porrasta. Bill Gateskin on nousukas,
 Puhuja 2: eikö niin? Itse tehnyt rahansa.
 Puhuja 2: Tässä on joku sellainen, että se on tuntunut niistä
 Puhuja 2: upealta. Ne prinssitkin ovat
 Puhuja 2: jotenkin vähän sattumalta nousseet,
 Puhuja 2: prinsessat pois lukien
-Puhuja 1: Andrew. Niin, siis sehän... Joo. Mutta siis iso kriisihän on naapurimaan Norjassa tällä hetkellä. Sitä ei tiedä, miten siinä käy. Tästä mujasta pitäisi tulla Norjan kuningatar. Vähän veikkaan, että ei muuten tule... Ja postaisitte Maaritista,
-Puhuja 0: jonka poika on itse asiassa tänään aloittanut, myös Freiiskas-oikeudenkäynnin.
-Puhuja 2: Mutta... Tällä viikolla. Niin.
-Puhuja 0: Tänään oli hänen
-Puhuja 0: oma esiintymisensä siellä.
-Puhuja 0: Siis
-Puhuja 0: tämä Mette Maarit Norjan prinsessa,
+Puhuja 1: Andrew. Niin, siis sehän... Joo. Mutta siis iso kriisihän on naapurimaan Norjassa tällä hetkellä. Sitä ei tiedä, miten siinä käy. Tästä mujasta pitäisi tulla Norjan kuningatar. Vähän veikkaan, että ei muuten tule... Ja postaisin Maaritista,
+Puhuja 0: jonka poika on itse asiassa tänään aloittanut, myös Freiiskas on oikeudenkäynnin.
+Puhuja 0: Prinsessa,
 Puhuja 0: hän on käynyt tällaista hyvin kujeilevaa
 Puhuja 0: ja tuttallista
 Puhuja 0: ja
@@ -253,7 +255,11 @@ Puhuja 0: jos puhutaan taas nyt Norjan casesta
 Puhuja 0: eli Mette Maritessa, niin
 Puhuja 0: Olisiko hänen pitänyt tietää, että vuonna kaksituhatta kahdeksan EPStiin on tuomittu pedofiili?
 Puhuja 0: Koska tätä näkee toistuvasti, varsinkin jenkkimediassa, että
-Puhuja 0: tämä on ollut yhteyksissä EPStiiniin, vaikka EPStiin vuonna kaksituhatta kahdeksan tuomittiin, onko reilua olettaa, että näiden ihmisten pitää tietää? Mä jälleen kerran puolustelen näitä ihmisiä, mutta koska haluan kysyä, mikä osa tästä on julkkisjahtia ja mikä osa on analyyttista kylmää katsetta?
+Puhuja 0: tämä on ollut yhteyksissä
+Puhuja 0: EPStiiniin, vaikka EPStiin vuonna kaksituhatta kahdeksan tuomittiin,
+Puhuja 0: onko reilua olettaa, että näiden ihmisten pitää tietää? Mä jälleen kerran puolustelen näitä ihmisiä, mutta koska haluan kysyä,
+Puhuja 0: mikä osa tästä on julkkisjahtia
+Puhuja 0: ja mikä osa on analyyttista kylmää katsetta?
 Puhuja 2: Kyllä mun taipuvainen ajattelen, että jos
 Puhuja 2: puhutaan jonkun maan kruununprinsessasta
 Puhuja 2: ja hovista,
@@ -331,10 +337,9 @@ Puhuja 0: että Bill Gates ei olisi voinut tehdä. Koska jos sä olet Bill Gates
 Puhuja 0: juhlittu nero, maailman rikkain ihminen, niin ei sun tarvitse tehdä mitään outoa, kun
 Puhuja 0: ihmiset heittäytyvät sun päälle.
 Puhuja 0: Sä voit mennä mihin vaan ja kaikki on se, että ihanaa, bil gate tuli, mä tulen sun kanssa, mihin vain haluat.
-Puhuja 0: Jos sinulla on rahaa määrättömästi ja sä olet maailman kuuluisimpia ihmisiä, niin niin ei sun tarvitse hankkiutua
-Puhuja 0: silleen, että aa joo, joku
-Puhuja 0: Shady
-Puhuja 1: että ei heidän tarvitse Bilgatege. Niin sä tarkoitat sitä, että jos Bilgatege haluaisikin prostityön
+Puhuja 0: Jos sulla on rahaa määrättömästi ja sä olet maailman kuuluisimpia ihmisiä, niin niin ei sun tarvitse hankkiutua
+Puhuja 0: silleen, että aa joo, joku Shady
+Puhuja 1: että ei heidän tarvitse Bilgatege. Niin sä tarkoitat sitä, että jos Bilgatege haluaisikin prostitointityön
 Puhuja 1: kanssa pelehtiä ja nostaa suojaamatonta seksiä, niin hän voisi tehdä sen tavallaan hallitummin.
 Puhuja 2: Jep. Mutta ehkä hän ei ole niin fiksu. Ehkä siinä kuitenkin... Miten sä päädyt maailman rikkaimmaksi tyypiksi, jos olet ihan helppoa? Fiksuutta on erilaisia. Ehkä se... No sano se. Eihän se Ebsäin näyttänyt, eihän se välttämättä näyttänyt näille tyypeille Shadiltä sudernöyriltä,
 Puhuja 2: vaan miljardööriltä, joka sitten

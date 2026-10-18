@@ -30,7 +30,7 @@ Puhuja 0: politiikan toimittajaa.
 Puhuja 0: Marko Junkkari, hei, Marko. Heissan, heissan.
 Puhuja 0: Myös kenties terveytensä perään
 Puhuja 0: haikailee
-Puhuja 0: tutkivan ryhmän esihenkilö.
+Puhuja 0: tutkivan ryhmän esihenkilö,
 Puhuja 0: Sanoisin jopa, että esinainen.
 Puhuja 0: Näin lähden odottelemaan näitä asioita.
 Puhuja 0: Salla Vuorikoski, hei Salla. Hei vaan, vahvistan.
@@ -40,8 +40,7 @@ Puhuja 0: peatureoimituksen
 Puhuja 0: toimittaja. Mutta ennen kaikkea
 Puhuja 0: juuri startaneen
 Puhuja 0: Amerikka-podin
-Puhuja 0: yksi kolmesta juontajasta Anna-Sofia Berner eli ystävien kesken Sohvi. Hei
-Puhuja 2: Sohvi. Heipä hei kaikki. Mikä tämä
+Puhuja 0: yksi kolmesta juontajasta Anna-Sofia Berner eli ystävien kesken Sohvi. Hei Sohvi. Heipä hei kaikki. Mikä tämä
 Puhuja 0: Amerikka-podi on tässä juonnossa nyt ruvettiin puhumaan?
 Puhuja 2: Amerikka-podi
 Puhuja 2: on
@@ -68,16 +67,15 @@ Puhuja 0: presidentiksi.
 Puhuja 0: Joten suosittelen kaikille uusiksi ja projektin kuuntelijoille,
 Puhuja 0: että menkää nyt podcast soittimenne
 Puhuja 0: hakuvalikkoon. Pistäkää sinne Amerikka podi
-Puhuja 0: yhteen ilman mitään välejä tai väliviivoja. Amerikka
-Puhuja 0: podi. Se I on siellä
+Puhuja 0: yhteen ilman mitään välejä tai väliviivoja.
+Puhuja 0: Amerikka podi. Se I on siellä
 Puhuja 0: suomalaisittain
 Puhuja 3: Amerikka podi. Amerikka kahdella koolla. Oot ihan selvästi itse keksinyt.
 Puhuja 0: Nimeä. Tavallaan itse asiassa ihastun esihenkilömme, sanoisin myös Helsingin Sanomien parhaan
 Puhuja 0: esihenkilön.
 Puhuja 0: Veritoi saikka
 Puhuja 0: sen keksimä nimeke.
-Puhuja 0: Amerikka-podi
-Puhuja 0: kaikissa
+Puhuja 0: Amerikka-podi kaikissa
 Puhuja 0: podcast-kanavissa
 Puhuja 4: laittakaa tilaukseen. Jatkuuko se vaaleihin asti
 Puhuja 4: vai virkavallan vanhaan? Virtavalaan eli tammikuuhun.
@@ -86,10 +84,10 @@ Puhuja 2: lakkaa olemasta vaalien jälkeen. Vaikka muistan kyllä, kun vuonna ka
 Puhuja 2: miestä, joka oli sitä mieltä, että
 Puhuja 2: jos Trump ei voita, niin se on itsemurha.
 Puhuja 2: Mitä se tarkoittaa? No se
-Puhuja 2: on itsemurha. Siis hänen henkilökohtainen. Ei, vaan Yhdysvaltain.
+Puhuja 2: on itsemurha. Siis hänen henkilökohtainen. Ei, vaan Yhdysvaltojen.
 Puhuja 2: Just, huh.
-Puhuja 3: Siinä oli vanhanaikainen äänestäjä. Sun pitää tehdä sellainen, missä hän on nyt. Niinpä. Mitä hän nyt. Hän on mun Twitter-feedin
-Puhuja 2: yläkuvassa edelleen.
+Puhuja 3: Siinä oli vanhanaikainen äänestäjä. Sun pitää tehdä sellainen, missä hän on nyt. Niinpä. Mitä hän nyt. Hän on mun Twitterfeedin
+Puhuja 2: siinä yläkuvassa edelleen.
 Puhuja 0: Tämän viikon
 Puhuja 0: tässä podcastissa keskustellaan
 Puhuja 0: myös Yhdysvaltain presidentin vaaleista.
@@ -112,7 +110,7 @@ Puhuja 3: tai sitten se muuttuu hallituksen. Etteikö esimerkiksi Riikka Räisä
 Puhuja 3: päätoimittajana
 Puhuja 3: siellä reissussa. Musta sekin on vähän com, com, com, saa, mutta siitä nyt voi ainakin vääntää ikään
 Puhuja 3: kuin jonkinlaisen yhteiskunnallisen
-Puhuja 3: kulman siihen asiaan. Mutta sitten kaikki tämä muu, jota siinä on. Jolloin se kysymys siis on, onko olemassa siellä näkymättömän verorahan käytössä
+Puhuja 0: kulman siihen asiaan. Mutta sitten kaikki tämä muu, jota siinä on. Jolloin se kysymys siis on, onko olemassa siellä näkymättömän verorahan käytössä
 Puhuja 0: tämmöisiä mekanismeja, missä sitä käytetään itse asiassa vähän niin kuin omia rahoja. Reissaillaan
 Puhuja 0: puolison kanssa kivoihin,
 Puhuja 0: romanttisiin reissuihin ympäri maailmaa. Se on se kysymys. Se on ihan relevantti kysymys. Se on median tavanomaista
@@ -131,12 +129,11 @@ Puhuja 3: Nyt Tuomas näyttää.
 Puhuja 2: Siinä alkuperäisessä uutisessa oli tällainen väite, että se olisi nimenomaan ollut
 Puhuja 2: päätoimittaja, joka lähestyi tätä alemman tason työntekijää
 Puhuja 2: jolloin siitä olisi ehkä voinut nähdä jonkinlaisen yhteiskunnallisen
-Puhuja 2: kun on käyty niin paljon tätä keskustelua siitä, että minkälaisista
-Puhuja 2: valmiista valtapositioista
+Puhuja 2: kun on käyty niin paljon tätä keskustelua siitä, että minkälaisista valmiista
+Puhuja 2: valtapositioista
 Puhuja 2: voi iskeä
-Puhuja 2: ihmisiä tai ylipäätään lähestyä jotenkin. Mutta sitten kävikin ilmi, että seiska
-Puhuja 2: julkaisu oikaisun. Itse asiassa Riikka Räisänen ei ollut tässä se aloitteellinen osapuoli, jolloin sekin pohja putosi tästä.
-Puhuja 4: Juuri niin kuin Salla sanoi, niin näitä juttujen määrä oli tosi iso.
+Puhuja 2: ihmisiä tai ylipäätään lähestyä jotenkin. Mutta sitten kävikin ilmi, että seiska julkaisu oikaisun. Itse asiassa Riikka Räisänen ei ollut tässä se aloitteellinen osapuoli, jolloin sekin pohja putosi tästä.
+Puhuja 4: Juuri niin kuin Salla sanoi, niin näiden juttujen määrä oli tosi iso.
 Puhuja 4: Olihan tämä jotenkin tosi ikävän näköistä. Tämä oli yhteen ihmiseen
 Puhuja 4: kohdistuvaa jahtaamista.
 Puhuja 4: Mentiin
@@ -146,7 +143,8 @@ Puhuja 4: kyseisen
 Puhuja 4: päätoimittajan
 Puhuja 4: ulosotossa olleita
 Puhuja 4: maksuja sun muuta. Se on vaikka mitä tällaista
-Puhuja 4: ihmeessä elää. Tämä on ollut musta yksittäisen ihmisen ahtaamista. Se on selvästi lähtenyt
+Puhuja 4: ihmeessä elää. Tämä on ollut musta
+Puhuja 4: yksittäisen ihmisen ahtaamista. Se on selvästi lähtenyt
 Puhuja 4: mopo käsistä, mikä näkyy myös oikaisujen määrässä. Tosi ikävä ja inhottava keissi.
 Puhuja 3: Tässä on mielenkiintoinen
 Puhuja 3: tapaus, mitä nyt olen ymmärtänyt
@@ -186,11 +184,11 @@ Puhuja 3: siitä puoluejohtajasta.
 Puhuja 0: Onko samanlaisessa tilanteessa? Onko se
 Puhuja 0: siitä, että... Kello on niin paljon valtaa, että voidaanko verrata vaikka ylen kakkospäätoimittaja
 Puhuja 0: ministeri?
-Puhuja 3: Ensinnäkin on hyvä sanoa, että en ole yhtään varma noista vihjauksista, joita toistit äsken, että mikä niiden näyttöpohja
-Puhuja 3: sitten on.
+Puhuja 3: Ensinnäkin on hyvä sanoa, että en ole yhtään varma noista vihjauksista, joita toistit
+Puhuja 3: äsken, että mikä niiden näyttöpohja sitten on.
 Puhuja 3: Jos nyt ihan vaan pelkistetään
 Puhuja 3: tuota asetelmaa, niin ihan siis ei-IT-käytäntö,
-Puhuja 3: siis oikeuskäytäntö korkeinta tasoa myöten lähtee siitä, että jokaisella ihmisellä on oikeus
+Puhuja 3: siis oikeuskäytäntö korkeintatasoa myöten lähtee siitä, että jokaisella ihmisellä on oikeus
 Puhuja 3: siihen yksityisyyden intiimimpään
 Puhuja 3: kehään. Ei ole olemassa sellaista vallankäyttöä, jolla ei olisi sitä oikeutta ollenkaan.
 Puhuja 3: Mikä
@@ -259,12 +257,11 @@ Puhuja 0: mikä olisi loppukesän
 Puhuja 0: ihanan helteen
 Puhuja 0: juoma. Mä sanon, että...
 Puhuja 2: Omenasideri?
-Puhuja 2: Omenasideri. Tämmöinen kuiva
-Puhuja 0: kylmä omenaasideri.
+Puhuja 2: Omenasideri. Tämmöinen kuiva.
+Puhuja 0: Kuivakylmä omenasiireri.
 Puhuja 0: Lähimmästä
 Puhuja 0: pikkukaupasta käyty hakemassa
-Puhuja 0: taskuun laitettu
-Puhuja 0: häveliäästi ja kävelty
+Puhuja 0: taskuun laitettu häveliäästi ja kävelty
 Puhuja 0: puiston penkillä. Siinä pyyhitte
 Puhuja 0: nenäliinalla
 Puhuja 0: otsalta hikeä ja korkkaatte tämän omenasiiderin
@@ -341,8 +338,7 @@ Puhuja 0: Panranssejä.
 Puhuja 0: Tässä iässä
 Puhuja 0: rupeaa olemaan silleen, että moni niistä asioista, mitkä oli päissään kivaa nuorena, ei ole nykyään yhtään kivaa.
 Puhuja 0: Kavereiden kanssa oleminen on huomattavasti mukavampaa selvinmpään kuin kännissä
-Puhuja 0: jauhaa.
-Puhuja 0: Sitten se on niin raskasta ja tulee krapulla ja seuraava päiväkin menee ehkä sitäkin seuraa.
+Puhuja 0: jauhaa. Sitten se on niin raskasta ja tulee krapulla ja seuraava päiväkin menee ehkä sitäkin seuraa.
 Puhuja 0: Mutta
 Puhuja 0: on olemassa yksi asia, mikä alkoholin käytössä edelleen puolustaa
 Puhuja 0: paikkaansa.
@@ -360,9 +356,9 @@ Puhuja 0: alkoholin vaikutus, mitä sillä on mun elämää, mistä nautin suure
 Puhuja 0: se antaa
 Puhuja 0: tilan pään sisään, missä voi olla omien tunteidensa
 Puhuja 0: kanssa.
-Puhuja 0: Se tarkoittaa sitä, että
-Puhuja 0: silloin,
-Puhuja 0: jos vaikka raksailen tai tälleen ja saatan sen jälkeen ottaa pari
+Puhuja 0: Se tarkoittaa sitä, että silloin, kun esimerkiksi
+Puhuja 0: raksailen
+Puhuja 0: tai tälleen ja saatan sen jälkeen ottaa pari
 Puhuja 0: tölkkiä olutta, niin kuin raksapäivän
 Puhuja 0: päätteeksi,
 Puhuja 0: hiki on ja kuumaa ollut ja tikkaillaan on roikuttaja ja se hermostuttaa. Sitten pari
@@ -381,7 +377,8 @@ Puhuja 0: mikä tahansa keikka 80-luvulta, jolloin Freddie Merkuri oli jotenkin 
 Puhuja 0: U2:n
 Puhuja 0: keikat miltä tahansa vuosikymmeneltä
 Puhuja 0: aivan upeita.
-Puhuja 0: Siinä pystyy
+Puhuja 0: Siinä
+Puhuja 0: pystyy
 Puhuja 0: pikku pöhnassa katselemaan niitä keikkoja ja olemaan täysin
 Puhuja 0: siinä fiiliksessä mukana, että vitsi, jotenkin sille eläytyy. Mä katsoin jotain, mä oon nelikymppinen mies, mä katsoin jotain Eddiä Wedereriä.
 Puhuja 0: Se on vuoden tuhat yhdeksänsataayhdeksänkymmentäkaksi pink popissa Hollannissa.

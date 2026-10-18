@@ -29,7 +29,7 @@ Puhuja 0: Helsingin Sanomien
 Puhuja 0: tutkivien
 Puhuja 0: journalismijuttujen
 Puhuja 0: tuottaja
-Puhuja 2: Salo Vuorikaskin Helsingin suulla. Oi.
+Puhuja 0: Salo Vuorikaskin Helsingin suulla. Oi.
 Puhuja 0: Olipas ihana kuulla sun heleaa naurua lähetyksen
 Puhuja 0: jakson aluksi, koska me ei tehdä mitään tyhmää radiota.
 Puhuja 2: Sitä varten naiset ovat nauraassa heleästi. Kyllä, heleästi. Linnunlailla
@@ -43,9 +43,9 @@ Puhuja 1: Noin sataa. Olin äsken tuolla ulkoilmassa. Siellä on ihan karseasä�
 Puhuja 1: Siellä on.
 Puhuja 0: Mun mielestä siellä on ihana sää. Voin sanoa jalkapalloa.
 Puhuja 0: Mikä peli on?
-Puhuja 1: Oiko ja se
-Puhuja 1: tarinalainen.
-Puhuja 0: En muista. Okei, mitäs, Eurooppa on liikaa? Kova. Olen täysin eri mieltä heti näin pohdin alkuun. Siellä on ihana ilma silloin, kun sataa ja on lämmintä. Ai vitsi, mikä fiilis. Puhutaan säästä lisää lähetyksen loppu.
+Puhuja 1: Oiko ja
+Puhuja 1: se tarinalainen.
+Puhuja 0: En muista. Okei, mitäs, Eurooppa on liikaa? Kova. Olen täysin eri mieltä heti näin pohdin alkuun. Siellä on ihana ilma silloin, kun sataa ja on lämmintä. Ai vitsi, mikä fiilis. Puhutaan säästä lisää lähetyksen loppuvaan.
 Puhuja 0: Nimittäin tämän viikon podcastissa keskustellaan.
 Puhuja 0: Työmarkkinakvioista
 Puhuja 0: nimittäin suomea repinyt
@@ -67,7 +67,8 @@ Puhuja 0: Kun Helsingin Sanomissa julkaistiin Eero Heinäluoman
 Puhuja 0: haastattelu, missä käytiin läpi hänen
 Puhuja 0: silloisia
 Puhuja 0: hottekejään liittyen Venäjän
-Puhuja 0: energia-aseeseen ja Nordstreamiin
+Puhuja 0: energia-aseeseen
+Puhuja 0: ja Nordstreamiin
 Puhuja 0: kuuluisaan
 Puhuja 0: käsittelyn pelkkänä
 Puhuja 0: ympäristöasiana.
@@ -96,8 +97,7 @@ Puhuja 0: Keskustellaan lobbaamisesta,
 Puhuja 0: viestintäkonsultoinnista,
 Puhuja 0: demokratiasta ja sellaisesta.
 Puhuja 0: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien
-Puhuja 0: hiljaisyyksien
-Puhuja 0: varalle.
+Puhuja 0: hiljaisyyksien varalle.
 Puhuja 0: Mä haluan mainita sen,
 Puhuja 1: että erittäin,
 Puhuja 1: erittäin
@@ -109,20 +109,21 @@ Puhuja 2: niin tässähän
 Puhuja 2: korostetaan, että ei, me emme lobbaa.
 Puhuja 2: Eli jos olen viestinnäntoimistoissa
 Puhuja 2: töissä ja sitten Tuomas haluat lobata Markoa,
-Puhuja 2: niin mä en tule sun kanssa sinne tapaamiseen, jossa me Markoa lobbamme, vaan mä vaan etukäteen sanon sulle, että kun sä menet lobbamaan Markoa, niin muistan nää ja nämä pointit. Nämä on sille tärkeitä, että vedä noista naruista. Eikö sä mene? Ei? Pidätte ensin
-Puhuja 1: niinku viisitoista pienryhmä
+Puhuja 2: niin mä en tule sun kanssa sinne tapaamiseen, jossa me Markoa lobbamme,
+Puhuja 2: vaan mä vaan etukäteen sanon sulle, että kun sä menet lobbamaan Markoa, niin muistan nää ja nämä pointit. Nämä on sille tärkeitä, että vedä noista naruista. Eikö sä mene? Pidätte ensin
+Puhuja 1: viisitoista pienryhmä
 Puhuja 1: keskenämme
 Puhuja 1: ja tämmöisiä mindmappeja
 Puhuja 1: ja kaava.
 Puhuja 2: Kaksisataakuusikymmentä euroa tunti.
 Puhuja 2: Mutta
-Puhuja 2: siis tavallaan korostetaan tällaisia aika teknisiä eroja, että emme ikinä koskaan mene sinne itse mukana. Vaikka sillä ei ole sinänsä mitään kauhean suurta väliä, jos se
+Puhuja 2: siis tavallaan korostetaan tällaisia aika teknisiä eroja, että emme ikinä koskaan mene sinne itse mukana.
+Puhuja 2: Vaikka sillä ei ole sinänsä mitään kauhean suurta väliä, jos se
 Puhuja 2: viestintätoimistoihminen
-Puhuja 2: on ikään kuin tasoittanut
-Puhuja 2: tien, kertonut,
+Puhuja 2: on ikään kuin tasoittanut tien, kertonut,
 Puhuja 2: auttanut ja neuvonut. Sehän on käytännössä
 Puhuja 2: lobbaamista.
-Puhuja 2: Mielestäni tässä liiketoiminnassa nähdään
+Puhuja 2: Mielestäni tässä liiketoiminnassa nähdään paljon
 Puhuja 2: vähemmän nimekkäitä tai verkostuneita.
 Puhuja 2: Eli nämä verkostot ovat ihmiset tärkeitä. Sitten kun tämä raha liikkuu, että voit ostaa Miltonilta tai joltain tekiriltä tai Ellun kannalta
 Puhuja 2: jonkun
@@ -140,23 +141,22 @@ Puhuja 1: Sitten pitää olla kovasti lopettaa, kun kello on jo paljon.
 Puhuja 1: Mulla oli jotenkin
 Puhuja 1: aivan salavässä oleva paikka. No naisen.
 Puhuja 2: Olit aivan syrjkästi.
-Puhuja 1: Siitä
-Puhuja 1: nimityksestä. Kertaa vielä hyvin lyhyesti, kuka oli Katri Makkonen. Katri Makkonen on siis toimittajakollega,
+Puhuja 0: Siitä
+Puhuja 0: nimityksestä. Kertaa vielä hyvin lyhyesti, kuka oli Katri Makkonen. Katri Makkonen on siis toimittajakollega,
 Puhuja 1: joka on ollut Ylellä.
 Puhuja 1: Sieltä hän lähti Sauli Niinistön viestintäjohtajaksi.
 Puhuja 0: Se oli
 Puhuja 1: silloin toimituspiirteinen. Hän palasi toimittajaksi, jonka jälkeen... Se oli vielä enemmän mitä vittu. Jonka jälkeen hän oli Miltonin
 Puhuja 1: lobbaustalon varatoimitusjohtaja.
 Puhuja 1: Sieltä siirtyi
-Puhuja 1: nyt valtionvarainministeriöön
-Puhuja 1: Annika Saarikon poliittiseksi valtiosihteeriksi.
+Puhuja 1: nyt valtionvarainministeriö
+Puhuja 1: Annikka Saarikon poliittiseksi valtiosihteeriksi.
 Puhuja 2: Ja nämä liikkeet on tapahtuneet aika lyhyessä ajassa.
 Puhuja 1: Joo, mutta mä olin jotenkin musta...
 Puhuja 1: Mä olin todella yllättynyt siitä nimityksestä.
 Puhuja 1: Ministerin
 Puhuja 1: valtiosihteeri on ensinnäkin
-Puhuja 1: poliittinen valtiosihteeri
-Puhuja 1: ja mitä suurimmassa määrin poliittinen paikka. Se ei ole virkamiespaikka
+Puhuja 1: poliittinen valtiosihteeri ja mitä suurimmassa määrin poliittinen paikka. Se ei ole virkamiespaikka
 Puhuja 1: vaan se on poliittinen paikka.
 Puhuja 1: Koko järjestelmä kehitettiin sinne aikoinaan sen takia, että valtiosihteeri
 Puhuja 1: on muun muassa ministerin sijainen.
@@ -179,7 +179,7 @@ Puhuja 2: että AAAAAAAAAAA
 Puhuja 2: Mutta me olimme jotenkin sitä mieltä että
 Puhuja 1: ei... Ei varmasti lähde. Hän
 Puhuja 1: tavallaan ehkä pitää jopa rasitteen ottaa keskustaleimaa joka tässä tulee. Kyllä. Ja mun selitys tälle asialle on se, että ilmeisesti Katri Makkonen ja Annika Saarikko ovat ihan hyviä tuttuja. Ja se Saarikko
-Puhuja 1: taas tämä kepun epätoivoon.
+Puhuja 1: taas pääsi kepun epätoivoon.
 Puhuja 1: Kepu on niin toivottavassa tilanteessa
 Puhuja 1: ja epätoivoinen.
 Puhuja 1: Sitten
@@ -206,15 +206,17 @@ Puhuja 2: sitten kun mennään, niin
 Puhuja 2: mennään virkamiehenä,
 Puhuja 2: sitten ollaan bisneksessä, sitten tullaan taas toimittajaksi,
 Puhuja 2: sitten mennään poliitikon
-Puhuja 2: rooliin ja vaihdellaan näitä luontevasti ja vähän niin kuin eesta taas välillä presessa.
-Puhuja 2: Lobbarit, kaikki näin. Katri Makkosen yhdistyy, sillä hän tietää kaiken kaikesta. Joo. Ja verkostahan eihän siis, onhan meilläkin verkostoja, eihän se ole sillä tavalla pahasta. Mutta ehkä toimittajana silloin, kun hän palasi sieltä
+Puhuja 2: rooliin ja vaihdellaan näitä luontevasti ja vähän niin kuin eestaas, välillä presessa.
+Puhuja 2: Kaikki näin. Katri Makkosen yhdistyy, sillä hän tietää kaiken kaikesta. Joo. Ja verkostahan eihän siis, onhan meilläkin verkostoja, eihän se ole sillä tavalla pahasta. Mutta ehkä toimittajana silloin, kun hän palasi sieltä
 Puhuja 2: presidentin tyköä
 Puhuja 2: A-studioon, niin kyllä minä muistan, kun me jossain keskustelussa mietimme sitä, että missä ne lojaaliteetit ovat ja miten,
 Puhuja 2: jos olet vaikka yleisasiatoimittaja,
-Puhuja 2: niin miten siinä vaiheessa, kun sinulla on niin paljon niitä rihmoja ja henkilösuhteita
+Puhuja 2: niin
+Puhuja 2: miten siinä vaiheessa, kun sinulla on niin paljon niitä rihmoja ja henkilösuhteita
 Puhuja 2: ja tuoreita lojaliteetteja eri suuntiin, että missä sitten menee nämä jääviyden rajat ja mitä vaiheita voi luontevasti käsitellä? Epämorikasta.
 Puhuja 0: Mutta
-Puhuja 0: varsinkin median puolella
+Puhuja 0: varsinkin
+Puhuja 0: median puolella
 Puhuja 0: täytyy olla tosi varovainen. Kyllä mun mielestä näytti tosi pahalta, jos joku presidentti entinen lakeja siellä haastaa
 Puhuja 0: iäkäpuolueen johtaja jossain A-studiossa.
 Puhuja 0: Sä näytti ihan
@@ -231,8 +233,9 @@ Puhuja 1: yliajalle. Sanon vaan vielä,
 Puhuja 1: että yleensä
 Puhuja 1: valtionvarainministeri,
 Puhuja 1: joka on
-Puhuja 1: vielä keskustan puheenjohtaja, Se valtiosihteeripaikka
-Puhuja 1: on tosi merkittävä. Musta siinä on pitäisi olla kaksi kriteeriä. Jokaisen ihmisen pitäisi ymmärtää jotain taloudesta. En väitä, että Katri ei ymmärtäisi sen talouden. Sehän on varmasti nero.
+Puhuja 1: vielä keskustan puheenjohtaja,
+Puhuja 1: Se valtiosihteeripaikka
+Puhuja 1: on tosi merkittävä. Musta siinä on pitäisi olla kaksi kriteeriä. Jokaisen ihmisen pitäisi ymmärtää jotain taloudesta. En väitä, että Katri ei ymmärtäisi sen taloudesta. Sehän on varmasti nero.
 Puhuja 1: Ainakaan hänellä ei ole taloustieteellistä koulutusta.
 Puhuja 0: Tai toinen... Ei se
 Puhuja 0: kritiikki hänen persoonaansa.
@@ -259,12 +262,12 @@ Puhuja 0: Se nainen, joka mulle aina soitteli, hän oli hirveän kaunis ja ihana
 Puhuja 0: Tarkisin
 Puhuja 0: mun kirjoitukset North-striimistä
 Puhuja 0: jälkiviisona ja pelkäsin kyllä, että mitäköhän paskaa. Oon kirjoitellut sinne.
-Puhuja 0: Silmissä semmoista sydämen kuvaa.
+Puhuja 0: Sinne. Silmissä semmoista sydämen kuvaa.
 Puhuja 0: Ihanaa.
 Puhuja 0: Mutta
 Puhuja 0: luojan kiitos
-Puhuja 0: yli puolet niistä jutuista aina käsitteli silleen, että tää on todennäköisesti katastrofi.
-Puhuja 0: Ne pikkuleevat meni sivusuun. Niin, menette lobbaustoimiston
+Puhuja 0: yli puolet niistä jutuista aina käsitteli sille, että tää on todennäköisesti katastrofi.
+Puhuja 0: Eli ne pikkuleevat meni sivusuun. Niin, menette lobbaustoimiston
 Puhuja 0: johtajaisiin
 Puhuja 0: ja syöttäisiin. Ja siellä sitten... Koska ne on kuitenkin aina vähän ankeaa ja vaikeita. En ainakaan osaa sosiaalisesti olla missään, niin sitten rupeatte kertomaan kaikennäköisiä juttuja
 Puhuja 0: muille kollegoille, kavereille ja lobbareille siellä. Mistäs heille kerrotte, Marko?
@@ -284,20 +287,22 @@ Puhuja 0: oleva
 Puhuja 1: koira.
 Puhuja 1: Laittakaa mulle lukijat. Kaikki joilla on hiileri, ottakaa minuun yhteyttä ja neuvoja tarvitaan.
 Puhuja 1: Kohta me ollaan kusessa
-Puhuja 2: meidän perhe. Te olette siis kirjaimellisesti, tuletko se olemaan... Liippa kuin koira kuiskaa, en voi neuvoa kaikkea. En voi auttaa, koska meillä on kymmenen kuukautta vanha Kerttu, joka on labradorinnoutaja.
+Puhuja 2: meidän perhe. Te olette siis kirjaimellisesti, tuletko se olemaan... Luulen, että kun sellainen koira kuiskaa, en voi neuvoa kaikkea. En voi auttaa, koska meillä on kymmenen kuukautta vanha Kerttu, joka on labradorinnoutaja.
 Puhuja 2: Se on aivan eri asia. Mutta tulee olemaan hauskaa ja välillä ehkä revitte hiuksia päästänne.
 Puhuja 2: Kyllä. Kun
 Puhuja 2: suurhyökkäys Ukrainaan alkoi, niin Venäjällä
 Puhuja 2: oli näitä mielenosoituksia. Muistetaan vielä kuvia, Ei tietysti mitään valtavia, mutta jonkinlaisia ja sieltä poliisi napsi aika urakalla porukkaa putkaan.
 Puhuja 2: Tämmöinen
 Puhuja 2: yhdestä kulkuesta,
-Puhuja 2: jossa oli nuoria naisia, kerättiin semmoinen joukko Maijan perälle ja vietiin sitten
-Puhuja 2: yhden moskovalaiselle poliisiasemalle.
-Puhuja 2: Siellä huoneessa, tuhat yhdeksänsataakolme me heille teimme pahoja asioita.
-Puhuja 2: Nyt BBC
-Puhuja 2: on tehnyt
+Puhuja 2: jossa oli nuoria naisia, kerättiin
+Puhuja 2: yhden
+Puhuja 2: moskovalaiselle poliisiasemalle.
+Puhuja 2: Siellä
+Puhuja 2: huoneessa, tuhat yhdeksänsataakolme me heille teimme pahoja asioita.
+Puhuja 2: Nyt BBC on tehnyt
 Puhuja 2: jutun, jonka nimi on Finding my tourger.
 Puhuja 2: Itse vihaan tämän sanaa, torturer.
+Puhuja 0: Siis kiduttaja. Sinä lausuitsi oikein oikein.
 Puhuja 2: Se on viisitoista minuuttia pitkä
 Puhuja 2: videoklippi.
 Puhuja 2: Se löytyy YouTubesta tai sitten löytyy se tekstiversio tuolta BBC:n sivuilta, voin antaa sen linkin.
@@ -307,7 +312,9 @@ Puhuja 2: eli avointen
 Puhuja 2: tietolähteiden
 Puhuja 2: avulla nämä naiset keskenään
 Puhuja 2: jälkikäteen selvittivät kuka oli se äijä, joka heille teki pahoja asioita huoneessa tuhat kolmesataakolme.
-Puhuja 2: Tämä liittyy osin omaan duuniin, kun teen tätä tutkivaa ja koulutan myös tällaista tiedonhankintaa. Ammatillisesti
+Puhuja 2: Tämä liittyy osin omaan duuniin, kun teen tätä tutkivaa ja koulutan myös
+Puhuja 2: tällaista tiedonhankintaa.
+Puhuja 2: Ammatillisesti
 Puhuja 2: kiinnostaa, mutta luulen, että siitä voi saada
 Puhuja 2: kiinnostavan
 Puhuja 2: katseluelämyksen,
@@ -330,11 +337,11 @@ Puhuja 0: tai maagisista kuvista, mitä te olette nähneet ympäri internettiä,
 Puhuja 0: häkellyttävän...
 Puhuja 0: Se on semmoinen keinoäly, jolle voit antaa komennon, että
 Puhuja 0: tee kuva... Ja sitten kirjoitat siihen sanoilla, mitä haluat.
-Puhuja 0: Tee kuva, jossa
+Puhuja 0: Että tee kuva, jossa
 Puhuja 0: suomalaiset
 Puhuja 0: podcast-juontajat
-Puhuja 0: istuu studiossa juomassa shampanjaa Miltonin
-Puhuja 0: Miltonin ja Eero Heinäluoman rahoilla.
+Puhuja 0: istuu studiossa juomassa shampanjaa Miltonin. Eero Heinäluoman
+Puhuja 0: rahoilla.
 Puhuja 0: Ja sitten se tekee sulle sen kuvan. Sä voit lisätä sille, tee
 Puhuja 0: Mä pyysin siltä, että
 Puhuja 0: tee mulle
@@ -351,27 +358,27 @@ Puhuja 0: se on ihan käsittämätön.
 Puhuja 0: Siitä avautuu semmoinen maailma, että me ollaan ihan tulevaisuuden
 Puhuja 0: kynnyksellä.
 Puhuja 0: Tutustukaa Midjouryyn,
-Puhuja 0: niin olette sitten tiedätte, missä mennään parin vuoden päästä, kun kaikki on aivan erilaista.
+Puhuja 0: niin
+Puhuja 0: tiedätte, missä mennään parin vuoden päästä, kun kaikki on aivan erilaista.
 Puhuja 0: Toinen asia.
 Puhuja 0: Tämä on tosi hähmäinen, mutta haluan sanoa, että tämä on tosi tämmöinen...
 Puhuja 0: Näin.
 Puhuja 0: Mutta muistatteko lapsena ja nuorena,
 Puhuja 0: mieleen jopa opiskeluiässä,
-Puhuja 0: aina syksyisin oli jännä fiilis,
+Puhuja 0: aina
+Puhuja 0: syksyisin oli jännä fiilis,
 Puhuja 0: joten jolloin maailma nytkähti eteenpäin.
 Puhuja 0: Se yhtäkkiä
 Puhuja 0: koko maailman
-Puhuja 0: fiiliksen
-Puhuja 0: tunsi. Aika jollain
+Puhuja 0: fiiliksen tunsi. Aika jollain
 Puhuja 0: tavalla muuttui aina syksyisin. Totta kai johtuen siitä, että koulut alkoi.
 Puhuja 0: Kaverit oli ollut pois kesän ajan. Kaikkea uutta lähti tapahtua. Sä aloitit yhden harrastuksen, menit neulontakerhoa,
 Puhuja 0: jotain tällaista näin.
-Puhuja 0: Yksi mun mielestä aikuisuuden hirveitä asioita on se, että sitä ei tapahdu.
-Puhuja 0: Vaan että syksyllä näin. Se on tavallaan sama taskulammillä
+Puhuja 0: Yksi mun mielestä aikuisuuden hirveitä asioita on se, että sitä ei tapahdu. Vaan että syksyllä näin. Se on tavallaan sama taskulammillä
 Puhuja 0: jatkuu.
 Puhuja 0: Siksi se täytyy
 Puhuja 0: kehitellä itse.
-Puhuja 0: Japanissa on tämmöinen termi
+Puhuja 0: Ja okei. Japanissa on tämmöinen termi
 Puhuja 0: nimeltä Mono No avaare.
 Puhuja 0: Jafanilaista
 Puhuja 0: lausuttana

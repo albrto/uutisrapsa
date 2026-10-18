@@ -14,21 +14,19 @@ Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 2: Helsingin Sanomat.
 Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
-Puhuja 0: torstaina
-Puhuja 0: kaksisataakuusikymmentäkuusi.
+Puhuja 0: torstaina kaksisataakuusikymmentäkuusi.
 Puhuja 0: Syyskuuta. Onko edelleen syyskuuta? On. Etable, joo. Vuonna kaksituhatta
 Puhuja 0: kaksikymmentäneljä mun nimi on Tuomas Peltomäki. Kanssani on kalenteritietoinen
-Puhuja 0: politiikan toimittaja Helsingin Sanomissa.
+Puhuja 0: politiikan toimittaja Helsingin Sanomissa
 Puhuja 3: Marko Junkkari. Hei Marko. No heissan, olen itse asiassa kyllä, minä kalenteriin on mun sellainen heikko kohta.
-Puhuja 0: Minulla on sama.
-Puhuja 3: Joo, minulla on myös viikonpäivät vähän vaikeita. Joo, ja kello on ajat?
+Puhuja 0: Minulla on sama. Joo, minulla on myös viikonpäivät vähän vaikeita. Joo, ja kello on ajat?
 Puhuja 3: Mä oon tosi hyvä kaikessa tässä. Niin, mut sä oot hyvä kaikessa. Mä kävin aikoinaan tyttäreni kanssa. Mulla oli se syvän filosofisessa keskustelun, että täytyykö ihmisen tuntea kello.
-Puhuja 3: Hän nosti mieltä, että ei tarvi. Tavallaan se oli musta ehkä ihan oikeassa.
-Puhuja 0: Että
+Puhuja 3: Hän nosti mieltä, että ei tarvi. Tavallaan se oli musta ehkä ihan oikeassa. Joo mäkin heti. Mä
+Puhuja 0: että
 Puhuja 0: Miksei koulu voi olla
 Puhuja 0: järjestetty silleen, että sinne voi mennä koskaan huvittaa.
-Puhuja 3: Kapitalisti
-Puhuja 0: on tämänkin järjestänyt. Elää auringonnousun
+Puhuja 1: Niin.
+Puhuja 0: Kapitalisti on tämänkin järjestänyt. Elää auringonnousun
 Puhuja 3: ja laskun mukaan ja fiiliksen
 Puhuja 0: mukaan. Kuten ihmisen
 Puhuja 0: luonnollisesti kuuluisi.
@@ -37,8 +35,8 @@ Puhuja 0: Pamppu kourassahan
 Puhuja 0: tässä studiossa istuu
 Puhuja 0: Helsingin
 Puhuja 0: Sanomien kertovien juttujen
-Puhuja 0: toimittaja Anna Feberner
-Puhuja 0: ystävien kesken. Sohvi, hei Sohvi. Heipä hei.
+Puhuja 0: toimittaja
+Puhuja 0: Anna F. Werner, ystävien kesken. Sohvi, hei Sohvi. Heipä hei.
 Puhuja 0: Tämän viikon podcastissa
 Puhuja 0: keskustellaan
 Puhuja 0: Orpon
@@ -52,16 +50,16 @@ Puhuja 0: lähes Vapahtajan oloinen hahmo, joka vaikuttaa siltä, että hän pys
 Puhuja 3: Eiköhänköhän minä nyt niin kirjoittaa?
 Puhuja 3: Voit sä koko juttu?
 Puhuja 0: Tähän
-Puhuja 0: Orpo ei ole pystynyt, että Suomella olisi taloudellisesti alkanut mennä hyvin. Keskustellaan siitä.
-Puhuja 0: Myös
-Puhuja 0: keskustellaan maailmalla jo viikkoja käydystä
+Puhuja 0: Orpo ei ole pystynyt, että Suomella olisi taloudellisesti alkanut mennä hyvin.
+Puhuja 0: Keskustellaan
+Puhuja 0: siitä. Myös keskustellaan maailmalla jo viikkoja käydystä
 Puhuja 0: ilmiökeskustelusta,
 Puhuja 0: nimittäin siitä, että walk-en
 Puhuja 0: aikakausi on loppumaisillaan.
 Puhuja 0: Esimerkiksi Yhdysvalloissa on tehty välitilin päätöstä siitä, mitä tämä
-Puhuja 0: noin vuosikymmenen, ehkä viisitoista vuotta
-Puhuja 0: kestänyt
-Puhuja 0: huomion kiinnittäminen
+Puhuja 0: noin vuosikymmenen, ehkä
+Puhuja 0: viisitoista vuotta
+Puhuja 0: kestänyt huomion kiinnittäminen
 Puhuja 0: vähemmistö, sukupuoli ja seksuaalikysymyksiin
 Puhuja 0: oikein lopulta sai aikaan, kun nyt suuri yleisö on selkeästi kääntynyt
 Puhuja 0: meininkiä vastaan. Vaikkakin Suomessa esimerkiksi nämä riidat
@@ -90,7 +88,7 @@ Puhuja 0: ja
 Puhuja 0: nollasta kävelemään pääministerin selän takaa
 Puhuja 0: myöhästyneenä.
 Puhuja 2: Tämä nosti pintaasi tällaisen
-Puhuja 2: trauman. Kyllä.
+Puhuja 0: trauman. Kyllä.
 Puhuja 2: Minua kiinnostaa yllätys, yllätys, Markon mielipide tästä, koska
 Puhuja 3: täysin idioottimaista
 Puhuja 3: hienoa rakennusta
@@ -99,11 +97,12 @@ Puhuja 3: se siinä mielessä onnistui, että nehän saivat maksimaalisen
 Puhuja 3: julkisuuden. Eihän Suomessa yksikään esimerkiksi Elokapinan
 Puhuja 3: suljetaan,
 Puhuja 3: ole saanut näin massiivista, että se oli kaikkien suomalaisten tiedotusvälineiden ykkössuutinen eilen päivällä ja
-Puhuja 3: Ruotsissa sain julkisuutta ja näin. Mutta onko tässä tapauksessa kaikki julkisuus hyvästä? Väitän,
-Puhuja 3: että yhdeksänkymmentäyhdeksän pilkku kaksi prosenttia suomalaisista pitänyt täysi
-Puhuja 2: täysin idiootti? Mun ensimmäinen ajatus oli kun mä näin ne punaiset pylväät, että
+Puhuja 3: Ruotsissa sain julkisuutta ja näin.
+Puhuja 3: Mutta onko tässä tapauksessa kaikki julkisuus hyvästä? Väitän,
+Puhuja 3: että yhdeksänkymmentäyhdeksän pilkku kaksi prosenttia suomalaisista pitänyt täysi idioottivaisia?
+Puhuja 2: Täysin idiootti? Mun ensimmäinen ajatus oli kun mä näin ne punaiset pylväät, että
 Puhuja 2: tämä ei nyt aja niiden asiaa.
-Puhuja 2: Aiotko se vai ei aja? Vaikka julkisuutta... Niin. Se oli se mun ainakin gudreaction, että tämä ei nyt kyllä...
+Puhuja 2: Aiotko se vai ei aja. Vaikka julkisuutta... Niin. Se oli se mun ainakin gudreaction, että tämä ei nyt kyllä...
 Puhuja 2: Että tämä ei nyt kyllä...
 Puhuja 2: Suomalaiset ei hyväksy tätä eikä ymmärrä tätä. Ja tämä
 Puhuja 3: ei ala. Mulle jäi kyllä semmoinen fiilis, että tässä kuitenkin osa...
@@ -200,7 +199,7 @@ Puhuja 0: Syksyllähän on tapana, että
 Puhuja 0: siirrytään juomaan pelkästään peruskepparaa.
 Puhuja 0: Ei ole enää mitään hienoja cocktailja kesän juhlista.
 Puhuja 3: Punaviini?
-Puhuja 0: Punaviini, eikö niin onkin. Joo, punaviiniä, kyllä. Joo, sinne punaisten pylväiden luota
+Puhuja 0: Punaviini, eikö niin onkin. Joo. Punaviiniä, kyllä. Joo, sinne punaisten pylväiden luota
 Puhuja 0: lasinpunaviiniä
 Puhuja 0: siinä
 Puhuja 0: extinkjänd rebellien kavereidenne
@@ -239,9 +238,10 @@ Puhuja 2: neljä osaa tähän mennessä ja se viides on kesken. Kaikki jännitt�
 Puhuja 2: Robert Caro saada sen valmiiksi ennen kuin hän kuolee.
 Puhuja 2: Mutta nyt on ollut paljon kaikkia haastatteluja.
 Puhuja 2: Esimerkiksi podcast
-Puhuja 2: 9. NNNNNA.
+Puhuja 2: 9. NNNNA.
 Puhuja 2: Niillä oli Power breaker lukupiiri,
-Puhuja 2: jossa he lukevat jaksolta kirjan läpi. Siellä on myös kiinnostavia
+Puhuja 2: jossa he lukevat jaksolta
+Puhuja 2: kirjan läpi. Siellä on myös kiinnostavia
 Puhuja 2: vieraita, esim. Robert Caro itse, mutta myös vaikka
 Puhuja 2: kongressiedustaja
 Puhuja 2: Alexandriacsio
@@ -262,7 +262,10 @@ Puhuja 2: vastaista. Ja sitten se on minusta niin upeaa, että hän nyt jälleen
 Puhuja 2: Jos ei nyt lukemaan power brokeria, niin ainakin kuuntelemaan
 Puhuja 2: näitä haastatteluja. Myös New York Timesin
 Puhuja 2: Dailissä oli jakso tästä, missä oli Robert Carn haastatteluja.
-Puhuja 3: On vastannut näistä
+Puhuja 2: Ja Robert Kerhun juhlaviikot. Minä
+Puhuja 0: unohdin, tai siis äsken, sanoitko sinä, että mistä Powerbroker kertoo? Se kertoo tästä
+Puhuja 2: Robert Movesesta
+Puhuja 3: on vastannut näistä
 Puhuja 3: silloista, ja
 Puhuja 3: miten sen minä en näe tämän oikeastaan rakentunut.
 Puhuja 2: Kyllä, mutta se kuulostaa tylsältä, mutta se pohjimmaisena ajatus siellä on
@@ -311,7 +314,8 @@ Puhuja 3: TETiin vai eduskunnan puhemiehen toimesta. Hän valitsi niin kuin puhe
 Puhuja 3: viikon hänen TETissään. Kaikki sellaista pikku sälää.
 Puhuja 3: Ja sitten ehkä se,
 Puhuja 3: minkä tässä nostan esille,
-Puhuja 3: niin mun mielestä se Matti Vanhasen
+Puhuja 3: niin mun mielestä Matti
+Puhuja 3: Vanhasen
 Puhuja 3: rakkaus oman kotinsa
 Puhuja 3: rakentamiseen, mitä on siinä kirjassa todella paljon.
 Puhuja 3: Hän iloitsee, kun hän sai
@@ -332,15 +336,11 @@ Puhuja 0: on podcast, joka on
 Puhuja 0: todella hyvä, aivan uusi tuttavuus. En muista, mistä minä sen
 Puhuja 0: bongasin. Se oli joko Redditistä tai ehkä
 Puhuja 0: jostain Reds-keskustelusta.
-Puhuja 0: Bred,
-Puhuja 0: jossa
-Puhuja 0: jakson
-Puhuja 0: aikana
-Puhuja 0: perehdytään
+Puhuja 0: Se oli joko Redditistä tai sitten ehkä jostain Redz-keskustelusta. BBC:n tämmöinen podcast kuin Slice-Bred,
+Puhuja 0: jossa jakson aikana perehdytään
 Puhuja 0: johonkin
 Puhuja 0: ihmetuotteeseen,
-Puhuja 0: että onko siinä oikeasti jotain villoja siinä asiassa.
-Puhuja 0: Kuuntelin kaksi jaksoa. Toinen kertoi renkaista, että jos ostat kalliit renkaat, onko siinä mitään järkeä. Ja sitten se formaatti on suurin piirtein, siinä on semmoinen
+Puhuja 0: että onko siinä oikeasti jotain villoja siinä asiassa. Kuuntelin kaksi jaksoa. Toinen kertoi renkaista, että jos ostat kalliit renkaat, onko siinä mitään järkeä. Ja sitten se formaatti on suurin piirtein, siinä on semmoinen
 Puhuja 0: mahtavan fiksu ja kiva oloinen toimittaja.
 Puhuja 0: Sitten on kaksi
 Puhuja 0: asiantuntijaa ja yksi toinen Tavis, joka on jollain tavalla kiinnostunut siitä aiheesta. Kuuntelin

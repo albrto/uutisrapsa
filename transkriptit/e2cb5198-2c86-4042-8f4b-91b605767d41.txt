@@ -61,10 +61,10 @@ Puhuja 3: mukava esittely.
 Puhuja 3: Minä vähän lopetan siihen. Se lohduttaa minun mieltäni, koska minua ei ole kutsuttu
 Puhuja 3: näihin juhliin illalla.
 Puhuja 2: Sillä on hirveä tung.
-Puhuja 2: Mitä sinä olet tänään pukeutunut? Haluatko kertoa
-Puhuja 2: sinun? Mitä
+Puhuja 2: Mitä sinä olet tänään pukeutunut? Haluatko sinä kertoa sinun? Mitä
 Puhuja 2: haluat
-Puhuja 3: viestitittää? Minulla on tämmöiset
+Puhuja 2: viestitittää?
+Puhuja 3: Minulla on tämmöiset
 Puhuja 3: äärimmäisen mukavat
 Puhuja 3: vaatteet.
 Puhuja 3: Lysä farkkumekko
@@ -236,7 +236,8 @@ Puhuja 1: Ei muistella sitä. Mä
 Puhuja 2: ehdotin molempia voitteeksi, eli mä tavallaan ainakin vähän voitin.
 Puhuja 1: Mä sanoin muistaakseni, että tulee yllätys veikkaisin, että joko Kämälän Harry voittaa tai Trump voittaa ylivoimaisesti.
 Puhuja 2: Vähän voitin. No mutta siis kauan kestää Illlon ja
-Puhuja 1: Donald? Niin, kestääköhän se siinä virkaan asti asiasta?
+Puhuja 2: Donald?
+Puhuja 1: Niin, kestääkö se siinä virkaan asti asiasta?
 Puhuja 3: No se on tietysti ihan hyvä. Ilmeisesti ilmaisisko on siis sanonut, että tämä homma tulee hoidettua puolessa vuodessa.
 Puhuja 2: No sanotaan, että juhannukseen asti jaksavat.
 Puhuja 3: Ensi juhannukseen. Juhannukseen. Juhannukseen. Juhannus kaksituhatta kaksikymmentäviisi. No, otan maaliskuun.
@@ -390,7 +391,8 @@ Puhuja 2: liittyen
 Puhuja 2: Liberian sisällesotaan.
 Puhuja 2: Hän
 Puhuja 2: puolusti tätä massakuoita ja sittenhän tämä oli
-Puhuja 2: aika iso operaatio, että oikeudenkäyntiä käytiin
+Puhuja 2: aika iso operaatio, että oikeudenkäyntiä
+Puhuja 2: käytiin
 Puhuja 2: paikan päällä, siellä missä näitä tapahtumia oli tapahtunut.
 Puhuja 2: Siinä nostetaan mielenkiintoisella
 Puhuja 2: tavalla sellainen kriittinen kulma koko operaatioon ja erityisesti tämän jutun tutkinnanjohtajan
@@ -472,7 +474,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

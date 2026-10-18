@@ -10,13 +10,13 @@ Puhuja 0: mun tiimi on Tuomas Peltomäki.
 Puhuja 0: Kanssani täällä Helsingin Sanomien podcast
 Puhuja 0: studiossa
 Puhuja 0: Helsingissä Suomessa
-Puhuja 0: on tutkivien juttujen tuottaja.
+Puhuja 0: on tutkivien juttujen tuottaja,
 Puhuja 0: Salla Vuorikoski, hei Salla. Hei Tuomas.
 Puhuja 0: Mä sivuutan Salla sut nopeasti, sillä meillä on aivan erikoinen vieras tän viikon podcastissa,
 Puhuja 0: nimittäin
 Puhuja 0: yksi Suomen kahdesta keskeisestä
 Puhuja 0: eläkeasiantuntijasta.
-Puhuja 0: Keksittiin vain kaksi, ja toinen saatiin.
+Puhuja 1: Keksittiin vain kaksi, ja toinen saatiin.
 Puhuja 0: Se huono. Toinen saatiin. Toinen piti tehdä
 Puhuja 2: töitä, sen paremman piti tehdä töitä.
 Puhuja 0: Ääni, jonka kuulette, on Iltalehden
@@ -121,13 +121,11 @@ Puhuja 0: olisiko hän ollut tällainen,
 Puhuja 0: Vai onko hän tämmöinen
 Puhuja 0: kärkidiplomaatti,
 Puhuja 0: että hän on se
-Puhuja 0: terävin
-Puhuja 0: kansainvälinen
+Puhuja 2: terävin kansainvälinen
 Puhuja 0: ohjus, mitä meillä on, joka lähetetään
 Puhuja 0: täsmäaseena
 Puhuja 0: maailman kriisipesäkkeisiin
-Puhuja 0: hoitamaan asioita Suomelle. Mun mielestä selkeästi Stubb on tämä jälkimmäinen. Hän on diplomaattien diplomaatti niin kuin ykkös
-Puhuja 0: KV-asioiden
+Puhuja 0: hoitamaan asioita Suomelle. Mun mielestä selkeästi Stubb on tämä jälkimmäinen. Hän on diplomaattien diplomaatti, niin kuin ykkös KV-asioiden
 Puhuja 0: selvittelijä. Se näkyy näissä hänen haastatteluissa
 Puhuja 0: mun mielestä. Vielä kolmas asia, minkä mä haluan sanoa ihan vaan kun katsoo nämä Stubbin esiintymiset,
 Puhuja 0: oli se, että Ylen
@@ -155,12 +153,12 @@ Puhuja 0: arvojohtaja, presidenttinä,
 Puhuja 0: kaikki nämä olisi ollut siinä paikalla. Hän ei tarvinnut siihen.
 Puhuja 1: Tarkoittaako jotain ennusteta? Tarkoitat siis, että ei laajemmin, hänhän kyllä esitti syvää
 Puhuja 0: syvä sykettä. Semmoista perus, mutta mun mielestä ei käyttänyt silleen. Mutta ehkä siihen aukee vielä mahdollista. Jari,
-Puhuja 2: sä oikaasit tästä kriisiasiasta niin hyvin, että mä haen nyt takkinne, mä joudun poistumaan.
+Puhuja 2: oikaasit tästä kriisiasiasta niin hyvin, että mä haen nyt takkinne, mä joudun poistumaan.
 Puhuja 0: Kiitos Jari.
 Puhuja 0: Ja tsemppiä vaan vanhempainvapaan
-Puhuja 1: loppupätkä. Kiitos.
+Puhuja 0: loppupätkä. Kiitos.
 Puhuja 0: Älä kuluta koko vanhempainvapaata
-Puhuja 0: kommentoida eläkeasioita
+Puhuja 0: kommentoi eläkeasioita
 Puhuja 0: podcasteissa.
 Puhuja 0: Asioita
 Puhuja 0: podcasteissa.
@@ -270,7 +268,7 @@ Puhuja 0: niin ne menetti laajalti kannatustaan kaikkialla.
 Puhuja 0: Tavallaan edelleen Euroopassa eletään sitä aikaa, jolloin näin on.
 Puhuja 0: Euroopassa on aika vahva tällainen oikeisto
 Puhuja 0: hegemonia. Sitten, kun
-Puhuja 0: sitä pähkäiltiin ja arvuuteltiin sitä syytä tässäkin studiossa,
+Puhuja 0: pähkäiltiin ja arvuuteltiin sitä syytä tässäkin studiossa,
 Puhuja 0: se syy oli se, että kaikki on
 Puhuja 0: allekirjoittanut ne syyt, miksi ne puolueet on olemassa.
 Puhuja 0: Jos sosiaalidemokraateilla
@@ -309,7 +307,8 @@ Puhuja 1: suhteen. Rekordihan ei ole mikään
 Puhuja 1: mikään edelläkävijä record.
 Puhuja 1: Ehkä kysymys on siitä, että okei, sähän voit, kyllähän kokoomuksellakin
 Puhuja 1: oli
-Puhuja 1: joskus työväenpresidentti kampanja eli voihan tavallaan sanoa, että kaikkihan on eläkeläisten
+Puhuja 1: joskus
+Puhuja 1: tämä työväenpresidentti kampanja eli voihan tavallaan sanoa, että kaikkihan on eläkeläisten
 Puhuja 1: asialla ja kaikki on periaatteessa työväestön
 Puhuja 1: asialla ja kaikki välittävät lapsista
 Puhuja 1: ja koirista ja kissoista.
@@ -330,8 +329,8 @@ Puhuja 0: Okei, sitten kun
 Puhuja 0: kävelet
 Puhuja 0: tuolla Brysselin kaduilla tai Firenzentoreilla,
 Puhuja 0: Sitten istutte ehkä siihen aurinkoisen torin laidalle
-Puhuja 0: ja tilat,
-Puhuja 0: mitäköhän siellä juodaan
+Puhuja 0: ja
+Puhuja 0: tilat, mitäköhän siellä juodaan
 Puhuja 0: Firenzentoreilla
 Puhuja 0: grappaa.
 Puhuja 0: Grappaa. Lasillisen sieltä tarjoilija tuo sen pöytään.
@@ -340,27 +339,26 @@ Puhuja 0: naapuripöydän
 Puhuja 0: mummoilla ja papoilla, että miten hyvät eläkkeet Suomessa
 Puhuja 0: alat selittää. Mistä alat heille selittää? Minulla on
 Puhuja 1: tosi ryhmä suositus.
-Puhuja 1: Sinä ja Jari, että teillä on jotkut mahtavat korkeakulttuurilliset
-Puhuja 1: New York Caren jutut tai muuta. Tämä uppoisi sinne sekaan,
+Puhuja 1: Sinä ja Jari, teillä on jotkut mahtavat korkeakulttuurilliset
+Puhuja 1: New Caren jutut tai muuta. Tämä uppoisi sinne sekaan,
 Puhuja 1: mutta ajattelin
 Puhuja 1: siis
 Puhuja 1: suositella
 Puhuja 1: liikennekäyttäytymistä
 Puhuja 1: tietyntyyppistä. Miten Tuomas toimit,
-Puhuja 1: kun olet kävellen liikenteessä,
-Puhuja 1: Hyvinkäällä
+Puhuja 1: kun olet kävellen
+Puhuja 1: liikenteessä, Hyvinkäällä
 Puhuja 1: siellä, Hyvinkään
 Puhuja 1: keskustassa,
 Puhuja 1: metropoli
-Puhuja 2: siellä vilinässä
+Puhuja 1: siellä vilinässä
 Puhuja 1: ja
 Puhuja 1: sitten lähestyt suojatietä,
 Puhuja 1: meinaat mennä
 Puhuja 0: yli. Pystyn silmät kiinni, nostat
 Puhuja 0: keskisarvet pystyyn molemmille puolille
 Puhuja 1: ja kävelemään yli. Sitten sieltä tulee sellainen punainen oopperel,
-Puhuja 1: siellä ehkä on karvanopattaa,
-Puhuja 1: jotkut
+Puhuja 1: siellä ehkä on karvanopattaa, jotkut
 Puhuja 1: Ja sitten kone ulvoo ja se lähestyy sitä suojatettua. Parempaa Hyvinkään kuvaa on sitä tullut.
 Puhuja 1: Sit
 Puhuja 1: sä kävelet
@@ -419,7 +417,7 @@ Puhuja 0: kolme kuukautta
 Puhuja 0: ja yksitoista
 Puhuja 0: päivää.
 Puhuja 0: Tästä johtuen
-Puhuja 2: mä tietenkin
+Puhuja 0: mä tietenkin
 Puhuja 0: vaan päivät pitkät
 Puhuja 0: suunnittelen
 Puhuja 0: kaikkea, että mitä mä niin mielelläni ryhdppäisin.
@@ -470,7 +468,7 @@ Puhuja 0: Jonkun cocktailin ja
 Puhuja 1: juo sitten sen. Teen sen more savery goodsin vielä. Mutta siis tarkoititko sä sanoit, että sä et juo
 Puhuja 1: kovaa viinaa, että sä et juo tyyliin vaikka jotain konjakkia paukkua tai näin, mutta sä et myöskään niin kuin juo koktailia,
 Puhuja 1: että missä on mukana?
-Puhuja 0: Mä en mieluusti juo mitään nestettä, joka on yli neljä pilkku viisi prosenttia :sta, vaan mä en pidä. Mutta eihän se cocktailkaan ole, kun sä florat siihen jotain muuta, niin eihän se sitten enää. Mä en tiedä voiko se pitää paikkaansa sanoa. Mulla on ainakin semmoinen fiilis, että menee niin lujaa päähän, että se
+Puhuja 0: Mä en mieluusti juo mitään nestettä, joka on yli neljä pilkku viisi prosenttia: sta, vaan mä en pidä. Mutta eihän se cocktailkaan ole, kun sä florat siihen jotain muuta, niin eihän se sitten enää. Mä en tiedä voiko se pitää paikkaansa sanoa. Mulla on ainakin semmoinen fiilis, että menee niin lujaa päähän, että se
 Puhuja 0: ei ole kivaa. Se menee liian nopsaa päähän. Ehkä kun se on niin pieni määrä nestettä
 Puhuja 0: kerralla alas, niin se nousee tosi nopsaa päähän ja sitten se ei ole kivaa.
 Puhuja 0: Kun mä juon, niin tykkään siitä, että sitä voi rauhassa juoda pitkään ja paljon.
@@ -483,7 +481,7 @@ Puhuja 0: kilpailijamme Iltalehden
 Puhuja 0: politiikan
 Puhuja 0: toimittajalle, terkot myös naapuritaloon
 Puhuja 0: Jarin veroasiantuntemuksesta.
-Puhuja 0: Nimeni on Tuomas Peltomäki, äänenkuva ja kaiken muun mahtava meille tekee tällä viikolla Ville Veikko Niemelä, kiitos Villelle.
+Puhuja 0: Minun nimeni on Tuomas Peltomäki, äänenkuva ja kaiken muun mahtava meille tekee tällä viikolla Ville Veikko Niemelä, kiitos Villelle.
 Puhuja 0: Lähettäkää meille palautetta uutiskirjeraportti
 Puhuja 0: ja kuullaan taas
 Puhuja 0: ensi

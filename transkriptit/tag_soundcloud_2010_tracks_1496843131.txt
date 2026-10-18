@@ -112,16 +112,17 @@ Puhuja 2: kristilliset. RKP on todennäköisin ja tästä puhuttiin jo vaalit-il
 Puhuja 2: Niinhän siihen suuntaan annetaan koko ajan vyörynyt.
 Puhuja 0: Mitä sä oot mieltä asiapuolesta?
 Puhuja 0: No...
-Puhuja 2: Sano sen, kun alussa kehut, että mä kalenteritietoinen.
+Puhuja 2: Sano sen, kun alussa kehut, että mä
+Puhuja 2: kalenteritietoinen.
 Puhuja 2: Mutta kalenteri on hänen tilanteessa, jossa hallitus on epähuomiossa unohtanut jonkun valtion
 Puhuja 2: omistajan vaikka palkitsemisohjeen,
 Puhuja 2: hän nostaa kätensä ja muistuttaa, että katsokaa, että
-Puhuja 2: viime syksynä
-Puhuja 2: tätä Fortumin valtion lainaa sovittiin, niin tässä ehdoissa määriteltiin, että te ette saa bonuksia näiltä vuosilta. Ei se tarkoita, että voitte sen veivata noin. Se,
-Puhuja 2: mistä hänelle maksetaan kahdeksankymmentäkuusi nolla, on se, että hänen piti muistuttaa näistä asioista.
+Puhuja 2: viime syksynä tätä
+Puhuja 2: Fortumin valtion lainaa sovittiin, niin tässä ehdoissa määriteltiin, että te ette saa bonuksia näiltä vuosilta. Ei se tarkoita, että voitte sen veivata noin. Se,
+Puhuja 2: mistä hänelle maksetaan kahdeksankymmentäkuusi tonnia, on se, että hänen piti muistuttaa näistä asioista.
 Puhuja 2: Tätä hän ei ole tehnyt. Hän on nimenomaan istunut esellä palkitsemistoimikunnassa.
 Puhuja 2: Aivan
-Puhuja 0: käsittämätöntä. Se on aivan ääriistä!
+Puhuja 0: käsittämätöntä. Se on aivan äärimäistä.
 Puhuja 1: Ei sultakaan löytynyt mitään puolustavia argumentteja.
 Puhuja 1: Me olemme tehneet aikanaan muistaakseni kun olin MTV:llä töissä niin tehtiin
 Puhuja 1: nimenomaan näistä virkamiehistä jotka omistajaohjauksessa
@@ -140,8 +141,7 @@ Puhuja 1: sinun työtehtäviin. Sitä perusteltiin juuri sillä, että
 Puhuja 1: ei voida maksaa, että yhdelle hallituksen jäsenelle maksettaisiin eri tavalla kuin muille. Se on epäreilua.
 Puhuja 1: Sanottiin, että tämä ei ole suoraan virkatehtävää.
 Puhuja 1: Mutta kuitenkin kävi ilmi, että virka-ajallahan siellä ollaan ja virka-ajalla valmistellaan ne asiat.
-Puhuja 1: Tämä on
-Puhuja 1: siis
+Puhuja 1: Tämä on siis
 Puhuja 1: lähtökohtaisesti
 Puhuja 1: korruptoiva.
 Puhuja 1: Mä en syytä ketään korruptiosta mutta mä sanon, että tää on korruptiolle
@@ -149,21 +149,22 @@ Puhuja 1: altistava
 Puhuja 1: järjestelmä koska sittenhän me voidaan kuvitella, miten
 Puhuja 1: houkuttelevia
 Puhuja 1: virkamiehelle tällaiset pestit on ja millaisia ne... Jos vielä vähän päivitellään.
-Puhuja 2: Koko hommahan tuli julki Fortumin yhtiökokouksessa yhtiökokouksessa, jossa
-Puhuja 2: valtio
-Puhuja 2: omistaja oli ensiksi...
+Puhuja 2: Koko hommahan tuli julki Fortumin yhtiökokouksessa,
+Puhuja 2: missä
+Puhuja 2: valtio omistaja oli ensiksi...
 Puhuja 2: Siellä äänestettiin tästä johdon palkitsemispäätöksestä.
 Puhuja 2: Valtio oli ensi äänestämässä tyhjää, mutta toinen iso omistaja Ilmarinen eläkeyhtiö nosti mekkaalan kokouksessa.
 Puhuja 2: Vasta sen jälkeen valtio omistaa, että meilläkin
 Puhuja 2: tuo on vähän huono juttu.
 Puhuja 2: Jos valtio on tiennyt tästä palkitsemisohjeesta
 Puhuja 2: ja joskus käsittääkseni pari kolme viikkoa ennen yhtiökokousta,
-Puhuja 2: niin miksi ihmeessä ne eivät ole tehneet mitään, josta näkee, että tämä on täysin sotii sitä viime syksynä sovittua
-Puhuja 0: palkitsemislinjailua? Ja siestäkö mitä?
-Puhuja 0: Tää tyyppi, jonka vastuulla tää on, joka on saanut kahdeksankymmentäkolme, kuusi vai mitä tuhatta euroa
+Puhuja 2: niin miksi ihmeessä ne eivät ole tehneet mitään, josta näkee, että tämä on täysin sotii sitä viime syksynä sovittua palkitsemislinjailua?
+Puhuja 0: Ja siestäkö mitä?
+Puhuja 0: Tää tyyppi, jonka vastuulla tää on, joka on saanut kahdeksankymmentäkolme,
+Puhuja 0: kuusi vai mitä tuhatta euroa
 Puhuja 0: istuakseen siellä näissä kokouksissa, jossa päätettiin näistä, niin hänen puhelinnumerohan
-Puhuja 0: on 0295160026.
-Puhuja 0: Soittakaa
+Puhuja 0: on 0295160026
+Puhuja 0: soittakaa
 Puhuja 1: Nyt mun ajatus katkeaa, kun rupesin miettimään tota sun puhelinta. Mun kysymys on se,
 Puhuja 0: että miksi
 Puhuja 0: tästä ei seuraa mitään? Miksi mä tiedän jo nyt, että Kimmo Virtala ei tule saamaan kenkää?
@@ -225,8 +226,7 @@ Puhuja 0: jossa... Kävi sillä tavalla
 Puhuja 0: summattuna yhteen lauseeseen, että
 Puhuja 0: Fox News pärjäsi
 Puhuja 0: Dominion
-Puhuja 0: nimistä lafkaa, joka teki
-Puhuja 0: äänestyslaitteita
+Puhuja 0: nimistä lafkaa, joka teki äänestyslaitteita
 Puhuja 0: Fox News
 Puhuja 0: tuki Trumpin väitteitä siitä, että tässä on nyt joku suuri vaalihuijaus
 Puhuja 0: tapahtunut, ja pärjää
@@ -244,7 +244,7 @@ Puhuja 0: paljastui ihan eri viestiä
 Puhuja 0: kuin mitä Fox News on sanonut ulospäin.
 Puhuja 0: Siellä he muun muassa haukkui Donald Trumpia ja piti katsojiaan aivan idiootteina.
 Puhuja 0: Siellä
-Puhuja 0: tuli todella tulonarkea ja todella pahaa kamaa.
+Puhuja 0: tuli todella tulenarkea ja todella pahaa kamaa.
 Puhuja 0: Kama liippasi jopa Fox Newysin isoimpiin tähtiin,
 Puhuja 0: kuten esimerkiksi tämä... Mikä tämä rusetti ja mä nyt oli? En muista hänen nimensä.
 Puhuja 0: Takcker.
@@ -271,7 +271,7 @@ Puhuja 2: yksittäisestä henkilöstä. Se, että se on tavallaan syyllistynyt
 Puhuja 2: kunnianloukkaukseen
 Puhuja 2: tai rikokseen, tarkoittaa sitä, että ne on pitänyt etukäteen tietää, että ne asiat ovat vääriä. Jos
 Puhuja 2: julkistat väärän tiedon hyvässä tarkoituksessa, niin silloin et voi saada tuomiota.
-Puhuja 0: Eli onko tämä se intent? On. Kenen pitää osoittaa se intent, että sä oot tietentahto?
+Puhuja 0: Eli onko tämä se intent? On. Kenen pitää osoittaa se intent, että sä oot tietentahto.
 Puhuja 0: Kyllä. Johnny
 Puhuja 0: Deip ja Amber Heardissa
 Puhuja 0: oli myös
@@ -305,14 +305,12 @@ Puhuja 0: pahuuden pesäkkeenä Yhdysvalloissa.
 Puhuja 0: Joskus 2000-luvun alussa oli
 Puhuja 0: oikein aikaa, että Fox Newsista. Esimerkiksi
 Puhuja 0: heppu kuin Michael More teki erikseen dokumentin.
-Puhuja 0: The
-Puhuja 0: Daily
-Puhuja 0: Shawsssa
-Puhuja 0: se
-Puhuja 0: päivästä toiseen kerättiin Fox Newesin valheita ja spinnejä.
+Puhuja 0: The Daily Shawsssa se oli
+Puhuja 0: päivästä
+Puhuja 0: toiseen. Kerättiin Fox Newesin valheita ja spinnejä.
 Puhuja 0: Se oli
-Puhuja 2: tosi iso juttu. Sen yhtiöissä suurin syntejä
-Puhuja 2: on Englannissa tapahtunut News of the Worlddin
+Puhuja 0: tosi iso juttu. Sen yhtiöissä suurin
+Puhuja 2: syntejä on Englannissa tapahtunut News of the Worlddin
 Puhuja 2: ympärillä skandaali, jossa selvisi, että ne ovat
 Puhuja 2: hakkeroineet
 Puhuja 2: julkisten kännyköitä
@@ -339,12 +337,11 @@ Puhuja 2: ydinyleisöön.
 Puhuja 2: Sekin on hauskaa. Fox News itse ei ole käytännössä suhteessa saanut ollenkaan
 Puhuja 2: Se on ikään kuin niin polarisoitunutta,
 Puhuja 2: ja ihmiset katsoo vähän tiettyjä kanavia. Jos saat kaiken uutispalvelus
-Puhuja 2: Foks Newsistä, et sä edelleenkään
-Puhuja 2: tiedä, että
+Puhuja 2: Foks Newsistä, et sä välttämättä edelleenkään tiedä, että
 Puhuja 2: Foks News valehteli
 Puhuja 2: näissä vaalivilppiä asioissa.
-Puhuja 0: Fox News:illä on kahteenjako, missä
-Puhuja 0: uutistoimitus
+Puhuja 0: Fox News:illä on kahteenjako,
+Puhuja 0: missä uutistoimitus
 Puhuja 0: on erikseen. Se on aika eettistä
 Puhuja 0: uutista.
 Puhuja 0: Sitten on tämä mielipidepuoli erikseen, joka on ihan
@@ -373,14 +370,14 @@ Puhuja 0: tovariin ja taskumattiin
 Puhuja 0: ja katsot
 Puhuja 0: ohi suvakoitsivia
 Puhuja 0: mummoja.
-Puhuja 2: Tää oli aika yllättävää tää sun pohjustus.
+Puhuja 2: Tää oli aika yllättävää sun pohjustus.
 Puhuja 2: Mä voisin ihan lyhyesti...
 Puhuja 2: Hesarin musta laatikko on taas aloittanut esityksensä. Nyt tiistaina oli
 Puhuja 2: ensi-ilta
 Puhuja 2: ja minäkin pääsin siellä lavalle. Olin
 Puhuja 2: väliohjelmanumerona
-Puhuja 2: haastateltavana lavalla. En ole näissä muissa esityksissä, mutta
-Puhuja 2: suosittelen. Menkää katsomaan.
+Puhuja 2: siellä haastateltavana lavalla. En ole näissä muissa esityksissä, mutta suosittelen.
+Puhuja 2: Menkää katsomaan.
 Puhuja 2: Tänään on vissiin esityksiä ja sunnuntainaan esityksiä. Sitten se lähtee taas maakuntakierrokselle.
 Puhuja 2: Musta laatikko on aina päräyttävä kokemus. Menkää katsomaan live-journalismia.
 Puhuja 0: Se on kyllä erittäin
@@ -397,15 +394,14 @@ Puhuja 0: joka on Harvardin yliopiston
 Puhuja 0: historian
 Puhuja 0: professori.
 Puhuja 0: Se oli
-Puhuja 0: joku tietty historian
-Puhuja 0: toimittaja.
+Puhuja 0: joku tietty historian toimittaja.
 Puhuja 0: Sen lisäksi toimittajahan on selkeästi
 Puhuja 0: nero.
 Puhuja 0: Tämä artikkeli, joka innosti mua niin paljon, on nimeltään The Data Delusion.
 Puhuja 0: Gill poor käy tässä läpi.
 Puhuja 0: Tää kuulostaa tosi tylsältä
 Puhuja 0: ja nörttiltä, mutta tää oli niin olennainen ajatus.
-Puhuja 0: Kuulin mun aivoissa semmoinen Gruts, kun löysin uuden uran.
+Puhuja 0: Kuulin mun aivoissa semmoisen Grutz, kun löysin uuden uran.
 Puhuja 0: Tämä käy läpi, miten
 Puhuja 0: me ollaan päädytty ajattelemaan
 Puhuja 0: silleen, että data on kaikki, mitä on,
@@ -417,7 +413,8 @@ Puhuja 0: Tämä kuvaa laatikosta,
 Puhuja 0: jossa on
 Puhuja 0: vetolaatikko,
 Puhuja 0: jossa vedetään laatikot ulos ja sisällä on niitä paperikortteja.
-Puhuja 0: Each draaer has 1 of those little paper cared lables lables snag in a mettal frame just about the draaer poll. The draaers are lable from top to bodom mistryes,
+Puhuja 0: Each draaer has 1 of those little paper cared lables lables snag in a mettal frame just about the draaer
+Puhuja 0: poll. The draaers are lable from top to bodom mistryes,
 Puhuja 0: facts,
 Puhuja 0: numbers and data.
 Puhuja 0: Misterries
@@ -428,10 +425,10 @@ Puhuja 0: a lot of those folders were moved into the next dores down facts, whic
 Puhuja 0: detection and experiment.
 Puhuja 0: Numers, secon from the butan,
 Puhuja 0: hols senssis, polse täällä is national avaverages.
-Puhuja 0: The measurement of anything that can be countad ever
+Puhuja 0: The measurement of anything that can be counted ever
 Puhuja 0: since the rise of statistics
-Puhuja 0: around the end of the tuhat yhdeksänsataakahdeksankymmentä centry.
-Puhuja 0: Near the floor, the droor marked data holdts knowledge that humans cant no directly, but must be extracted by computer
+Puhuja 0: around the end of the tuhat yhdeksänsataakahdeksankymmentä Centery.
+Puhuja 0: Near the floor, the droar marked data holdts knowledge that humans cant no directly, but must be extracted by computer
 Puhuja 0: even by an artificial intelligence.
 Puhuja 0: Tuossa on
 Puhuja 0: avauslauseita
@@ -447,7 +444,7 @@ Puhuja 0: Saksassa ja germanc-kielessä,
 Puhuja 0: niin se tulee
 Puhuja 0: nimenomaan...
 Puhuja 0: Kanta-sana siinä on start eli valtio.
-Puhuja 0: Statistiikkatilastot
+Puhuja 0: Statistiikkattilastot
 Puhuja 0: oli nimenomaan niitä, mitä valtio keräsi. Ne kuului valtion hallinnointipiiriin,
 Puhuja 0: mikä oli mun mielestä todella kiinnostavaa.
 Puhuja 0: Okei.
@@ -456,13 +453,12 @@ Puhuja 0: jonka täytyy häipyä sovitusti
 Puhuja 0: jo
 Puhuja 0: muihin rientoihin.
 Puhuja 0: Äänikuva ja kaiken muun mahtava meille tekee tällä viikolla. Mikko Peura. Kiitos, Mikko.
-Puhuja 0: Ja lähettäkää meille palautetta.
+Puhuja 0: Ja Lähettäkää meille palautetta.
 Puhuja 0: Sähköposti tulee Instagram-viestit,
 Puhuja 0: TikTok-viestejäkin.
-Puhuja 0: Luen en mä tiedä, voiko siellä lähettää viestejä. Mä en edes tiedä.
+Puhuja 0: Luen en tiedä, voiko siellä lähettää viestejä. Mä en edes tiedä.
 Puhuja 0: Mä yritän innostua tästä TikToksi. Mä oon kyllä innostunut kovasti TikTokista.
-Puhuja 0: Ja
-Puhuja 0: Twitterissä
+Puhuja 0: Ja Twitterissä
 Puhuja 0: tietenkin uutisraportti.
 Puhuja 0: Ja me kuullaan taas ensi viikolla!
 Puhuja 0: Moi, Tuomas tässä.

@@ -32,8 +32,7 @@ Puhuja 0: siitä Jojosta,
 Puhuja 0: joka on suomalaisten
 Puhuja 0: koronaministereiden
 Puhuja 0: sormissa kiinni ja joka pomppii välillä tarvitsemme liikkumisrajoitukset
-Puhuja 0: ja kaikki
-Puhuja 0: rajoitukset puretaan
+Puhuja 0: ja kaikki rajoitukset puretaan
 Puhuja 0: täysin holtittomasti ja hallitsemattomasti päivästä ja viikosta riippuen jossain
 Puhuja 0: asennossa. Myös
 Puhuja 0: puhumme
@@ -61,15 +60,15 @@ Puhuja 0: Keskustellaan
 Puhuja 0: siitä. Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien hiljaisuuksia varalle.
 Puhuja 0: Tätä podcastia nauhoitettaessa pääministeri Sanna Marin on neuvottelemassa kaikkien muiden puolueiden kanssa niin kutsutusta exit-suunnitelmasta
 Puhuja 0: eli siitä, miten Suomi irrottautuu
-Puhuja 0: koronarajoituksista. Tilanne siis elää eikä tässä meidän keskustelun aikana ole viimeisintä tietoa
-Puhuja 0: käytettävissä.
+Puhuja 0: koronarajoituksista. Tilanne siis elää eikä tässä meidän keskustelun aikana ole viimeisintä tietoa käytettävissä.
 Puhuja 0: Mutta Helsingin Sanomien Teemu Luukka, yksi kovimpia toimittajia Suomessa, oli jostakin kuitenkin saanut käsiinsä
 Puhuja 0: muistion, josta käy ilmi ne stepit, millä Suomea
 Puhuja 0: aloitettaneen
 Puhuja 0: palauttamaan
 Puhuja 0: normaaliin päiväjärjestykseen.
 Puhuja 0: Se menee suurin piirtein tällä tavalla, että huhtikuussa poikkeusolot pois, ravintolat
-Puhuja 0: tietyin rajoituksin auki,
+Puhuja 0: tietyin rajoituksin
+Puhuja 0: auki,
 Puhuja 0: toukokuussa sitten tämmöiset lasten harrastustoimintaa
 Puhuja 0: käyntiin, kirjastot
 Puhuja 0: auki, museot auki, työmatkaliikenne
@@ -101,7 +100,7 @@ Puhuja 2: sitä juhannusta, se oli lähinnä viittaus siihen, että
 Puhuja 2: Yhdysvalloissa presidentti Joe Biden on
 Puhuja 2: käyttänyt
 Puhuja 2: neljäs heinäkuuta
-Puhuja 2: Yhdysvaltain kansallispäivää tämmöisenä
+Puhuja 2: Yhdysvaltain kansallispäivää tämmöisenä.
 Puhuja 2: Hän on kansalaisille kertonut, että silloin
 Puhuja 2: todennäköisesti
 Puhuja 2: pystytään juhlimaan
@@ -110,8 +109,7 @@ Puhuja 2: Käytin sitä juhannusta
 Puhuja 2: vähän siihen liittyvänä esimerkkinä. Mutta sinänsä
 Puhuja 1: on
 Puhuja 1: semmoinen, että ollaan yksin mökillä tai tyhjässä kaupungissa. Ne on suorastaan kuvattavaa luettavaa.
-Puhuja 0: Siinä kerrotaan, miten
-Puhuja 0: sen jälkeen, kun tää
+Puhuja 0: Siinä kerrotaan, miten sen jälkeen, kun tää
 Puhuja 0: nimi oli julkaistu
 Puhuja 0: tässä ohjelmassa, joka esitettiin nelosella, niin
 Puhuja 0: sitten niin kuin hyvin korkealta
@@ -131,9 +129,9 @@ Puhuja 0: Helsingin
 Puhuja 0: Sanomien
 Puhuja 0: entinen suuromistaja
 Puhuja 0: Aatos Erkkokin oli tässä kuviossa mukana.
-Puhuja 0: Se oli monella monella tapaa semmoista tosi,
-Puhuja 0: tosi
-Puhuja 0: tosi herra-kerhomaista
+Puhuja 0: Se oli monella monella tapaa semmoista
+Puhuja 0: tosi, tosi
+Puhuja 0: tosi herrakerhomaista
 Puhuja 0: niin kuin
 Puhuja 0: kavereiden selän kyynnyttelyä
 Puhuja 0: toimittajien,
@@ -144,7 +142,7 @@ Puhuja 0: kesken hyi?
 Puhuja 1: Maria, jatka. Saanko ihmetellä tätä journalistijuttua?
 Puhuja 1: Tai siis tapaus itsessäänkin oli ihmeellinen aikoinaan se, että Helsingin Sanomat
 Puhuja 1: eivät... Katsoivat kuitenkin että julkaisukynnys asialla
-Puhuja 1: ylittyy mutta eivät julkaisseet nimeä.
+Puhuja 1: ylittyy, mutta eivät julkaisseet nimeä.
 Puhuja 1: Ja sitten mitä tapahtui sen jälkeen... Siinä oli tämä Palaneen kärry
 Puhuja 1: ohjelma, jossa toimittaja Elina Hirvonen, nykyinen kirjailija soitti suorassa lähetyksessä
 Puhuja 1: Janne Virkkuselle ja irtisanoi Helsingin Sanomien tilauksen.
@@ -172,7 +170,7 @@ Puhuja 1: Ilta-Sanomien, jossa hän epäili, että
 Puhuja 1: Elina Hirvosen
 Puhuja 1: tai voin mennä vähän pieleen, liittyy jotenkin siihen, että hänen isänsä oli harmaan talouden tutkija ja antoi
 Puhuja 1: vinkkejä siitä jonnekin lehdistön, ja sen takia hän on päässyt tähän asemaan, tai muisti, sinne päin. Mutta joka tapauksessa,
-Puhuja 1: nuorten naistoimittajaa
+Puhuja 1: tätä nuorten naistoimittajaa
 Puhuja 1: riepoteltiin lehdistössä aivan käsittämättömällä
 Puhuja 1: tavalla silloin.
 Puhuja 1: Ottaen huomioon myös, että
@@ -265,7 +263,7 @@ Puhuja 1: On varmaan tapauksia, joista
 Puhuja 1: on ollut puhetta ja sinänsä ihan uskottavia kertomuksia, mutta ei vaan ole ollut riittävästi
 Puhuja 1: näyttöä, jotta olisi voitu julkaista nimiä. Mutta ehkä tämä ratkaisu, mikä silloin tehtiin, että kuitenkin siihen uutisen tietoihin uskottiin niin paljon, että siitä tehtiin juttu, mutta sitten ei lainkaan kerrottu, että
 Puhuja 1: kenestä toimitusjohtajasta
-Puhuja 1: oli kyse,
+Puhuja 1: oli kyse.
 Puhuja 1: Se tuntuu minusta ehkä tämän päivän näkökulmasta oudolta. En tiedä, onko sellaista viljelyä, että
 Puhuja 1: mediaeliitin
 Puhuja 1: ja
@@ -395,20 +393,18 @@ Puhuja 0: niin se niin kuin ikuistettiin siihen 10-kaksikymmentäviisi
 Puhuja 0: asentoon se kello ja jätettiin rikkinäisenä sille niin kuin tän pommirejähdyksen
 Puhuja 0: muistoksi.
 Puhuja 0: Sen jälkeen
-Puhuja 0: vuosia myöhemmin siitä tutkijat alkoivat tutkia
-Puhuja 0: bolonialaisia.
-Puhuja 0: Ne kysyy niiltä, että mites tää kello, että onko se aina ollut ajassa kymmenen:kaksikymmentäviisi?
-Puhuja 0: Ihan valtaosa
-Puhuja 0: kahdeksankymmentä, yhdeksänkymmentä prosenttia ihmisistä oli sitä mieltä, että se oli aina
+Puhuja 0: vuosia myöhemmin siitä tutkijat alkoivat tutkia bolonialaisia. Ne kysyy niiltä, että mites tää kello, että onko se aina ollut ajassa kymmenen:kaksikymmentäviisi?
+Puhuja 0: Ihan valtaosa, niin kuin kahdeksankymmentä, yhdeksänkymmentä prosenttia ihmisistä oli sitä mieltä, että se oli aina
 Puhuja 0: ollut siinä sen räjäytyksen jälkeen.
 Puhuja 0: Heiltä oli niin kuin kollektiivisesti
-Puhuja 0: heidän muisti ja muisto oli vaihtunut.
+Puhuja 0: heidän muisti ja muisto
+Puhuja 0: oli vaihtunut.
 Puhuja 0: He
 Puhuja 0: häivytti kaikki päästään kuusitoista vuotta.
 Puhuja 0: Aiemmin he tiesi kyllä, että se toimi ja näin saliinköhän näin, mutta se vaan hävisi ihmisten päästä kollektiivisesti,
 Puhuja 0: Bolonia tuhat yhdeksänsataakahdeksankymmentä.
-Puhuja 0: Tää on täynnä
-Puhuja 0: tämmöistä kamaa tämä blogi. Tää, siis näitä on satoja, satoja, satoja, satoja, tuhansia
+Puhuja 0: Tota, tää on täynnä
+Puhuja 0: tämmöistä kamaa tämä blogi. Tää, siis näitä on satoja, satoja, satoja, tuhansia
 Puhuja 0: artikkeleita, tämmöisiä pieniä äärettömän kiinnostavia kuriositettejä
 Puhuja 0: maailmasta.
 Puhuja 0: Futility Closket, Futuility
@@ -439,15 +435,14 @@ Puhuja 2: seuranneet tätä oikeudenkäyntiprosessia ja tosi nopeasti tehnyt kir
 Puhuja 2: Se oli minusta niin kuin... Miten sanoisin,
 Puhuja 2: ehkä kauhean hyvin seurannut tätä prosessia lehdistä, niin minusta kirja oli selkeästi
 Puhuja 2: tehty ja tavallaan
-Puhuja 2: todella hämmentävä kuvaus
-Puhuja 2: myöskin
+Puhuja 2: todella hämmentävä kuvaus myöskin
 Puhuja 2: suomalaisesta niin kuin lainausmerkeissä niin kuin Jet huumeparonista.
 Puhuja 2: Mainio
 Puhuja 2: kirja.
 Puhuja 0: Hyvä soitus. Toi varmasti löytyy tämän äänikirjana.
 Puhuja 0: Se löytyy käsittääkseni joo.
 Puhuja 0: Kirjan nimi on siis Katiska.
-Puhuja 0: Maria, oliks sulle jotain? Sä näytit siltä että sä venytät. Mä ensin taputtaa. Tavottaa.
+Puhuja 0: Maria, oliks sulle jotain? Sä näytit siltä että sä venytät. Mä ensin taputtaa. Tavuttaa.
 Puhuja 1: Tavottaa Mill. En mä tiedä, lopuksi taputetaan. Se on ihan oo partaaltakin.
 Puhuja 1: Mulle tuli
 Puhuja 1: että se kuuluu esityksen luokse.

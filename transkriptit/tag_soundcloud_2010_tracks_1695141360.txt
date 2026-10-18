@@ -16,8 +16,7 @@ Puhuja 0: Tämä on valtari sitaatti.
 Puhuja 2: Vesku.
 Puhuja 2: Saako kutsua? Ei.
 Puhuja 0: Vesuli.
-Puhuja 2: Ei.
-Puhuja 2: Veseli.
+Puhuja 2: Ei. Veseli.
 Puhuja 0: Täällä minua pilkkaamassa ovat Helsingin
 Puhuja 0: Sanomien tutkivan osaston
 Puhuja 0: tuottaja
@@ -25,8 +24,8 @@ Puhuja 0: Salla Vuorikoski, Heisala.
 Puhuja 2: Terve Tuomas. Terve, Marko. Heissanen.
 Puhuja 0: Paikalla on myös
 Puhuja 0: politiikkaa pääsääntöisesti työkseen
-Puhuja 0: seuraava toimittaja Helsingin Sanomissa. Marko Junkkari. Hei, Marko. No moi.
-Puhuja 0: Marko, mä
+Puhuja 0: seuraava toimittaja Helsingin Sanomissa. Marko Junkkari. Hei, Marko. No
+Puhuja 0: moi. Marko, mä
 Puhuja 0: annan sinulle nyt puheenvuoron, koska sinulla oli ilmeisesti jonkinnäköistä
 Puhuja 0: oikaistavaa
 Puhuja 1: tähän alkuun. Niin, voin herranjestas sentään.
@@ -82,10 +81,11 @@ Puhuja 1: mallin kirjaamisesta lakiin. Mielestäni tämä oli ehkä vivahde-ero,
 Puhuja 1: mutta sanotaan näin, että satonen ei ole tehnyt mitään täyskäännöstä
 Puhuja 2: asiasta. Mutta eikö hallitus ole aina valmis
 Puhuja 2: vaihtamaan suunnitelmia?
-Puhuja 2: Minusta se olisi ilman turvallista.
-Puhuja 1: Jos sama
+Puhuja 2: Minusta se olisi sille turvallista
+Puhuja 1: ilmaista noin. Jos sama
 Puhuja 1: tarkoitus tai tavoite otetaan.
-Puhuja 0: Hyvin lyhyesti sanon tähän, koska olen huomannut, että ihmisillä alkaa olemaan aika hatar
+Puhuja 0: Hyvin lyhyesti sanon tähän, koska olen huomannut, että
+Puhuja 0: ihmisillä alkaa olemaan aika hatar
 Puhuja 0: käsitys siitä, mikä on oikaisu ja milloin se tehdään.
 Puhuja 0: Mutta oikaisuhan on siis hyvä asia. Se on semmoinen, mikä me tehdään mieluusti.
 Puhuja 0: Jopa tässä podcastissa, jossa meno on välistä aika anarkistista,
@@ -96,13 +96,13 @@ Puhuja 2: Kyllä.
 Puhuja 2: Mä en tiennyt. Mutta sen sisällä puhutaan sellaisista
 Puhuja 2: arvoasetelmista,
 Puhuja 2: että
-Puhuja 2: se ei välttämättä aina sitä, ei kohda sitä, onko se faktinen
+Puhuja 2: se ei välttämättä aina sitä, ei johda, onko se faktinen
 Puhuja 2: fakta väite joku asia.
 Puhuja 2: Mutta yksityiselämään loukkaava tiedon levittäminen on taas sitä, että
 Puhuja 2: on tosiasia,
 Puhuja 2: vaikka sun joku terveystieto,
 Puhuja 2: jota mä sitten levitän tuolla netissä, niin se voi olla sinänsä ihan totta, että sulla on joku terveydellinen asia, mutta minulle ei ole oikeutta.
-Puhuja 0: Juuri tähän myös se, että
+Puhuja 1: Juuri tähän myös se, että
 Puhuja 1: esimerkiksi tästähän on esimerkkejä, että ihminen joka on tehnyt paljon talousrikoksia
 Puhuja 1: ja sitten jos häntä kutsuu lehtitekstissä
 Puhuja 1: talousrikolliseksi,
@@ -112,10 +112,7 @@ Puhuja 1: ihmiset ovat voittaneet näitä, koska ihminen, joka on tehnyt talousr
 Puhuja 1: ei ole talousrikollinen,
 Puhuja 1: vaan hän on talousrikoksia
 Puhuja 2: tehnyt henkilö. Mikä on sinänsä minusta kyllä, jos saa sai varrella, niin minusta sekin on sinänsä kiinnostavaa. Ei ole. Jos tämänkin voinut kiertää sillä, että onko eri asia.
-Puhuja 1: Jos kutsuu
-Puhuja 1: fasistiksi
-Puhuja 1: tai
-Puhuja 0: henkilöä... Joka tekee fasististipolitiikkaa?
+Puhuja 1: Jos kutsuu fasistiksi tai henkilöä... Joka tekee fasististipolitiikkaa?
 Puhuja 1: Tai ollaan fasistisia
 Puhuja 1: ajatuksia tai toimii jossain
 Puhuja 0: tosi jotenkin huonolta julkisen keskustelun kannalta.
@@ -128,7 +125,7 @@ Puhuja 2: että fasismin määritelmä jo
 Puhuja 2: itsessään on vähän vaihteleva. Se ei ole sellainen tarkkarajainen,
 Puhuja 2: että mitä sillä tarkalleen ottaen tarkoitetaan. Jos mentäisiin siihen, että sitä ruvettaisiin puimaan, niin varmaan sitten Iikka Kivi yrittäisi kaikin tavoin tuoda esimerkkejä, että miltä osin Halla-ahon toiminta voisi jossain
 Puhuja 2: täyttää.
-Puhuja 0: Painaako tässä sinun mielestä se, että
+Puhuja 0: Painaako tässä sinun mielestäsi se, että
 Puhuja 0: sen kunnianloukkauksen
 Puhuja 0: metafyysisyyskysymys
 Puhuja 0: oli se, että siihen kunnianloukkaukseen
@@ -148,9 +145,9 @@ Puhuja 2: kunnianloukkauksesta.
 Puhuja 2: Yleensä esim. Jos toimittajia epäillään kunnianloukkaukset, ne on lähtökohtaisesti aina törkeitä sen takia, törkeä rikosniike. Törkeä kunnianloukkaus, koska niitä levitetään
 Puhuja 2: Törkeä kunnianloukkaus, koska niitä levitetään
 Puhuja 2: joukkotiedotusvälineellä.
-Puhuja 2: En tiedä, miten ne nyt arvioi
-Puhuja 2: tuollaista twiittiä,
-Puhuja 0: että onko se sitten törkeetä? Näettekö te innostuksen tämän asian ja sitten aiemmin valtakunnan syyttäjä teki tällaista, että hän nosti perussuomalaisia kansanedustajia.
+Puhuja 2: En tiedä, miten ne nyt arvioi tuollaista
+Puhuja 2: twiittiä.
+Puhuja 0: Onko se sitten törkeetä? Näettekö te innostuksen tämän asian ja sitten aiemmin valtakunnan syyttäjä teki tällaista, että hän nosti perussuomalaisia kansanedustajia.
 Puhuja 0: Muistan, menikö niin, kyllä ne meni ihan syytteeseen asti tai ainakin tutkintaan asti. Meni jotain, mitä perussuomalaiset kansanedustajat olivat puhuneet eduskuntasalissa,
 Puhuja 0: otettiin rinnastuksia, loiseläimiin
 Puhuja 0: tai tällaisia. Niitä käytettiin oikeusprosessiin läpi, ja se oli selkeästi valtakunnan syyttäjän
@@ -214,8 +211,8 @@ Puhuja 1: tilalla syödään ja tulee laivia.
 Puhuja 0: Mä kannatan tätä hautausmaankäyntiä,
 Puhuja 0: koska just tuli
 Puhuja 0: toissa viikolla Helsingin yliopistosta... Ei tällä viikolla
-Puhuja 0: jonka mukaan hautausmaalla käynti on vähentymään päin. Se on perinne, joka uhkaa vähän. Tietäniemen hautausmaa on kyllä tosi hieno joulu.
-Puhuja 2: Kynttilöidään aika monta. Mä käyn ihan jatkuvasti hautausmaalla, kun tuo Maunulan hautausmaa on
+Puhuja 0: tutkimus, jonka mukaan hautausmaalla käynti on vähentymään päin. Se on perinne, joka uhkaa vähän. Tietäniemen hautausmaa on kyllä tosi hieno joulu.
+Puhuja 2: Tynttilöidään aika monta. Mä käyn ihan jatkuvasti hautausmaalla, kun tuo Maunulan hautausmaa on
 Puhuja 2: lenkkireittien
 Puhuja 2: varrella, niin minusta on todella kiva käydä
 Puhuja 2: siellä käpöttelemassa
@@ -350,8 +347,8 @@ Puhuja 1: kerrotaan miten
 Puhuja 1: Yhdysvaltain
 Puhuja 1: ehdokkaaksi pyrkivä deanttis
 Puhuja 1: on potkaissut jossain tilaisuudessa koiraa.
-Puhuja 1: Ja sitten just
-Puhuja 0: niin kuin... Vohoo!
+Puhuja 0: Ja sitten just...
+Puhuja 0: Vohoo!
 Puhuja 1: Tästä oli tullut kauhea kohu mutta ei oikeastaan, kun hän ei nyt mitenkään lähteytä sitä.
 Puhuja 1: Että voiko kirjoittaa,
 Puhuja 1: että Santissa on ehkä potkaissut koiraa tai ei. Mutta kellään ei ole mitään mahdollisuutta tarkistaa, että
@@ -374,16 +371,16 @@ Puhuja 0: jos haluaa
 Puhuja 0: lukea itsensä,
 Puhuja 0: palauttaa mieleen sitä Trumpin kautta,
 Puhuja 0: Trumpia ihmisenä ja kaikkea sitä? Mikä niistä kaikista
-Puhuja 1: olisi jäänyt mieleen, koska olet lukenut ne kaikki? Jos en ole kaikkia lukenut, mutta olen useamman.
+Puhuja 0: olisi jäänyt mieleen, koska olet lukenut ne kaikki? Jos en ole kaikkia lukenut, mutta olen useamman.
 Puhuja 1: Minun
 Puhuja 1: mielestä
 Puhuja 1: Bob Woodword, tämä toinen näistä
-Puhuja 1: Warargate. Warargate-tyypeistä.
+Puhuja 0: Board-tyypeistä.
 Puhuja 1: Ehkä lukisin tuota...
 Puhuja 1: Ehkä tämä on minusta aika kiva. Tämä
-Puhuja 1: Magie Haberman, joka on New York Timesin
+Puhuja 1: Magie Harberman, joka on New York Timesin
 Puhuja 1: Trumptoimittaja,
-Puhuja 1: joka kirjoittaa joka päivä Trumpista.
+Puhuja 1: joka kirjoittaa joka päivä Trutista.
 Puhuja 1: Se julkaisi Confidence Man-nimisen kirjan.
 Puhuja 1: Se tuli tänä vuonna.
 Puhuja 1: Se on laajempi.
@@ -411,7 +408,8 @@ Puhuja 0: voisin tehdä nyt pommin.
 Puhuja 0: Sitten siitä tulee haloo somessa ja
 Puhuja 0: sitten ChatGPT:n
 Puhuja 0: koodaajat
-Puhuja 0: ja tyypit ovat silleen, että voi ei, nyt meidät cansiöidään tai voi ei, nyt meiltä lähtee asiakkaita tai voi ei, menetämme rahaa. Ja sitten ne pistää sinne semmoisen säännön, että älä vastaa
+Puhuja 0: ja tyypit ovat silleen, että voi ei, nyt meidät cansiöidään tai voi ei, nyt meiltä lähtee asiakkaita tai voi ei, menetämme rahaa. Sitten
+Puhuja 0: ne pistää sinne semmoisen säännön, että älä vastaa
 Puhuja 0: pommikysymyksiin.
 Puhuja 0: Näin.
 Puhuja 0: Tätä tapahtuu koko ajan
@@ -465,9 +463,10 @@ Puhuja 0: Minä
 Puhuja 0: luen tästä
 Puhuja 0: yhden lauseen, joka kuvaa tämän eetoksen.
 Puhuja 0: American popular culture isn't the only culture. There are other countries and there are factions within each country. Demokratiikans
-Puhuja 0: diserve their modally. Repuplims
-Puhuja 0: deserve their
-Puhuja 0: motday. Every demographic and interest group desers their motday. Sitten se pointti on, että ainoastaan silikon-välin
+Puhuja 0: diserve their
+Puhuja 0: modally. Respublikaans
+Puhuja 0: diserve their
+Puhuja 0: moter mot thl. Overy demographic and interest grup deser's moter moter mot thl. Sitten se pointti on, että ainoastaan silikon-välin
 Puhuja 0: tyyppien
 Puhuja 0: malli on tällä hetkellä se, jota kaikki käyttää.
 Puhuja 0: Mun mielestä tämä on ihan sikatärkeä asia. Ihmisten pitäisi olla

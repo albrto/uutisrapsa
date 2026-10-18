@@ -23,7 +23,7 @@ Puhuja 0: luetaan palautteita,
 Puhuja 0: mitä meille tässä viime aikoina on lähetetty ja tullut.
 Puhuja 0: Twitterissä kyseltiin eilen. Siellä tuli
 Puhuja 0: tosi monia hyviä kysymyksiä.
-Puhuja 0: Vastaillaan niihin.
+Puhuja 0: Vastailemme niihin.
 Puhuja 0: Muutenkin pidetään tämmöinen Leppanen ja mukava
 Puhuja 0: ei-asiallinen
 Puhuja 0: jakso. Eli jos saavuit kuuntelemaan tätä podcastia kuullaksesi
@@ -63,15 +63,14 @@ Puhuja 0: Valtteri Törmänen podcastin pitkäaikainen
 Puhuja 0: ystävä, joka lähetti meille myös joululahita.
 Puhuja 0: Ne pienet semmoiset.
 Puhuja 0: Se oli Valtteri, kyllä.
-Puhuja 2: Vau, kiitos Valtteri. Kiitos Valtteri. Kiitos.
+Puhuja 0: Vau, kiitos Valtteri. Kiitos Valtteri. Kiitos.
 Puhuja 0: Tota puhutaanko Siltamäen kolumnista,
 Puhuja 0: ensimmäisenä vai Hesarin kolumnista? Siltamäen kolum, Tuija Siltamäkihän on erinomaisen hyvä kolumni. Mä luen mun
 Puhuja 0: kolumnistin mun lempikohta niin kuin kaikkien
-Puhuja 0: muidenkin on tota
-Puhuja 0: se,
+Puhuja 0: muidenkin on
+Puhuja 0: tota se,
 Puhuja 0: että periaatteessa kriittiseen
-Puhuja 0: keskusteluun tietenkin kannustetaan. Puhutaan
-Puhuja 0: siis mediakritiikistä,
+Puhuja 0: keskusteluun tietenkin kannustetaan. Puhutaan siis mediakritiikistä,
 Puhuja 0: mutta käytännössä kiusallisia keskusteluja typeristä otsikointityyleistä,
 Puhuja 0: epäonnistueista
 Puhuja 0: merkityksellisista
@@ -100,12 +99,13 @@ Puhuja 0: Kolumni löytyy siis Ylen sivuilta.
 Puhuja 1: Niin. Musta se, oliko se Valtterin kysymys, oli se, että saako Hesarissa haukkua?
 Puhuja 0: Kannan otti Tuijan kolumni oli ensimmäinen kysymys Walterilta
 Puhuja 0: ja Tuijan kolumnin aiheena oli tavallaan, että
-Puhuja 0: tylsästi ilmaistuna, niin se on jotenkin silleen, että vaikeneeko media
-Puhuja 0: silleen laajuudesta. Median
+Puhuja 0: tylsästi ilmaistuna, niin se on jotenkin silleen, että vaikeneeko media silleen
+Puhuja 1: laajuudesta. Median
 Puhuja 1: kolumnin aiheena oli siis erinomaisen tervetullut avaus.
 Puhuja 1: Hesarissa joskus...
 Puhuja 0: Asina olevan niin kuin sosiaalisen median muun myötä. Se
-Puhuja 0: on niin merkittävin asia, että se pitää olla
+Puhuja 0: on
+Puhuja 0: niin merkittävin asia, että se pitää olla
 Puhuja 0: ensimmäisenä mukana aina kaikessa analyysissä
 Puhuja 0: siitä, että miksi näin tapahtuu. Sen pitää jonkun pitää pohtia, että miten tää liittyy tää informaatio
 Puhuja 0: tähän
@@ -195,15 +195,13 @@ Puhuja 2: Siis miten nopeasti? No me ollaan ehkä väärä, vähän väärä kun
 Puhuja 2: Minä ja Maria ollaan sunnuntai-sivuilla
 Puhuja 2: ja tehdään silleen verkkaiseen tahtiin niitä juttuja. Jos tulee yksi viikossa niin se on jo aika hyvä. Se on aika hyvä joo. Mutta kyllä uutistoimittajat...
 Puhuja 0: Seconttipeli.
-Puhuja 2: Niin että kyllähän päivässä voi joutua päästä tai tekemään kun on toistakymmentä lyhyttä uutista jossa on vaikka siellä tiskissä ja seuraa päivän uutisvirtaa. No se on kyllä jo aika paljon mutta ei mahdoton ole mutta kyllä nyt semmosen viisi-kymmenen
+Puhuja 2: Niin että kyllähän päivässä voi joutua päästä tai tekemään kun on toistakymmentä lyhyttä uutista jossa on vaikka siellä tiskissä ja seuraa päivän uutisvirtaa. No se on kyllä jo aika paljon mutta ei mahdoton ole mutta kyllä nyt viisi-kymmenen
 Puhuja 1: voi joutua.
-Puhuja 2: Hyvä uutistoimittaja tekee päivässä
-Puhuja 2: hyvän uutisjutun.
-Puhuja 0: Perperipäivä on se perus hyvä tahti. Hesarissa, Hesarihan ei millään tavalla edusta
-Puhuja 0: mediaa laajemmin. Täällä on niin kuin painotukset on niin kuin laadussa paljon enemmän kuin määrässä ja muualla.
+Puhuja 0: Jos on semmoisessa vuorossa se tarkoitus kennokuttaa Nopuolta uusiksi. Kai se yleensä
+Puhuja 2: hyvä uutistoimittaja tekee päivässä hyvän uutisjutun.
+Puhuja 0: Perperipäivä on se perus hyvä tahti. Hesarissa, Hesarihan ei millään tavalla edusta mediaa laajemmin. Täällä on niin kuin painotukset on niin kuin laadussa paljon enemmän kuin määrässä ja muualla.
 Puhuja 0: Pienemmissä ja myöskin
-Puhuja 0: pienemmissä mediataloissa niin se on paljon tiukempaa se meininki. Niin. Mutta kyllä varmaan silloin kun oli uutistoimituksessa
-Puhuja 1: niin kyllä semmoinen
+Puhuja 1: pienemmissä mediataloissa niin se on paljon tiukempaa se meininki. Niin. Mutta kyllä varmaan silloin kun oli uutistoimituksessa niin kyllä semmoinen
 Puhuja 1: juttu per päivä on
 Puhuja 1: varmaan semmoinen. Kyllä, suurin piirtein. Menen kysymyksen alkuosa, että miten nopeasti saa tiedon niistä?
 Puhuja 0: Mä uskon, että kysyjä tarkoittaa sitä, että kun jotain tapahtuu, esimerkiksi
@@ -215,17 +213,17 @@ Puhuja 2: Olin aikoinaan toimittajakoulun aikana ilta-Sanomissa harjoittelussa j
 Puhuja 2: silloin iltissä oli vielä siellä
 Puhuja 2: Ludan vieressä siinä Korkeavuorenkadun
 Puhuja 2: päässä.
-Puhuja 2: Joku kansalainen soitti sinne uutisdeskiin, että nyt postipankkia, joka on makkaratalossa,
+Puhuja 2: Joku kansalainen soitti sinne uutisdeskiin, että nyt postipankkia, joka on tuossa makkaratalossa,
 Puhuja 2: sitä ryöstetään.
 Puhuja 2: Uutispäällikkö huusi minulle, että nyt lähde
 Puhuja 2: sinne. Ja minä ja kuvaan juotin, se oli alamäkeä vielä.
 Puhuja 2: Ehdimme postipakille ennen poliiseja.
 Puhuja 2: Poliisit kysyi hyvin hämmästyneenä, kun tultaan muutaman sekunnin myöhemmin paikan, että miten helvetissä te voitte olla täällä jo?
 Puhuja 2: Mutta se
-Puhuja 2: oli siis tämmöinen, ei ollut mikään vakava... Tai siis homma päättyy hyvin. Soluti joku narkkari joka uhkasi ruiskulla
-Puhuja 2: poikkivirkailijaa.
-Puhuja 2: Homma sitten laukesi hyvin nopeasti. Oltiin siellä ikkunan takana, katsomasta.
-Puhuja 0: Mutta onhan tuo testissä... Hän on sen kertaa nähnyt tuon. Minkä? Mä olen
+Puhuja 2: oli siis tämmöinen, ei ollut mikään vakava... Tai siis homma päättyy hyvin. Solario kuin narkkari joka uhkasi ruiskulla
+Puhuja 2: poikkivirkailijaa. Homma sitten laukesi hyvin nopeasti. Oltiin siellä ikkunan takana.
+Puhuja 0: Mutta onhan tuo testissätynyt.
+Puhuja 0: Minkä? Mä olen
 Puhuja 0: sekä Hyvinkään ampumisessa että Sellon
 Puhuja 0: joukkosurmissa, niin mä olen ollut se, joka juoksee
 Puhuja 0: tapahtumapaikkaa kohti silloin kun kaikki muut juoksee sieltä karkuun. Eli kun mä satuin molemmissa asumaan tosi lähellä, niin mä olin silloin kun muut pakeni paikalta, niin juoksin sitten sinne. Jaa, mutta
@@ -248,12 +246,12 @@ Puhuja 0: sinne toimitukseen.
 Puhuja 0: Sitten mä tajusin, että ne lukee niitä mun
 Puhuja 0: juttuja ja kertoo sen mulle takaisin
 Puhuja 0: totena. Eli ne
-Puhuja 0: mun uutista lukemalla mun uutista ja mä tajusin, että okei, mä en voi edetä tällä tavalla, että mä en saa sitä niin kuin varmistettua sitä mun omaa tietoa tällä metodilla, mikä oli ihan mielenkiintoista ja liittyy tähän just journomismiin ja median nopeuteen.
+Puhuja 0: niin kuin vahvistaa mun uutista, lukemalla mun uutista. Mä tajusin, että okei, mä en voi edetä tällä tavalla, että mä en saa sitä niin kuin varmistettua sitä mun omaa tietoa tällä metodilla, mikä oli ihan mielenkiintoista ja liittyy tähän just journomismiin ja median nopeuteen.
 Puhuja 0: Okei, hei, sitten kun lähdette syyslomalle, joka on ensi viikolla, niin tota siellä menette laskettelemaan. Sitten Rinnebaarin.
 Puhuja 0: Hyvinkäänhän on tämmöinen Sveitsi-niminen
 Puhuja 0: laskettelukeskus, joka on upea. Siellä on mahtava Kelohunkainen
 Puhuja 0: pysähtyä
-Puhuja 0: ja siinä sitten tota juottejaa. Se on tämmöinen kasari paikka?
+Puhuja 2: ja siinä sitten tota juottejaa. Se on tämmöinen kasari paikka?
 Puhuja 0: Joo, on, on, on, just tämmöinen tyylikäs.
 Puhuja 0: Milläs kanssa laskettelijoita vietätte?
 Puhuja 1: Hei,
@@ -269,8 +267,7 @@ Puhuja 1: on
 Puhuja 1: Pohjanmaalta.
 Puhuja 1: Tää on rokotusvastainen mutta se mitä hän puhui siinä niin kun.
 Puhuja 1: No, että sanoin.
-Puhuja 1: Yleensä
-Puhuja 1: huomaatte siitä ohjelmasta, mutta se mitä hän sanoi siinä esimerkki. Silloin kun kamerat oli kiinni kun he kuvasi häntä myös salaa.
+Puhuja 1: Yleensä huomaatte siitä ohjelmasta, mutta se mitä hän sanoi siinä esimerkki. Silloin kun kamerat oli kiinni kun he kuvasi häntä myös salaa.
 Puhuja 1: Oli jotenkin panneet merkille
 Puhuja 1: että Hän puhuu vähän eri tavalla silloin kun... Kamerat oli kiinni
 Puhuja 1: ja sitten.
@@ -307,7 +304,7 @@ Puhuja 1: On? Mikä se nyt oli? Rokote...
 Puhuja 0: Souts sinä voin katsoa? Tota hei, mä haluaisin vitsi kun mä en halua kuulostaa epäkorrektilta.
 Puhuja 0: Kun tota... Etpä
 Puhuja 1: Etpä,
-Puhuja 0: sä haluat kuulostaa ihan. Juutalaisvastaisuus, niin se,
+Puhuja 1: sä haluat kuulostaa ihan. Juutalaisvastaisuus, niin se,
 Puhuja 0: mä olen tosi,
 Puhuja 0: siis se on tosi hyvä signaali,
 Puhuja 0: koska monet niistä, esimerkiksi just kun antautuu tai lukee jonkun kommentointia jostain niin kuin rokote jotain asiasta, ja se voi olla, että se kysymys on ihan hyvä, että okei mites tää niin kuin asia, että
@@ -318,7 +315,7 @@ Puhuja 0: että onko ne totta vai ei.
 Puhuja 0: Mutta mikä on helppo hahmottaa, on katsoa sen postajan postaushistoriaa
 Puhuja 0: ja
 Puhuja 0: näkyykö siellä jotain juutalaishommia?
-Puhuja 0: Jos on, niin kaikki mitä sen sanoi, niin voi ignaroida aivan täysin. Niin se korreloi aika hyvin, se seniorllisuus
+Puhuja 0: Jos on, niin kaikki mitä sen sanoo, niin voi ignaroida aivan täysin. Niin se korreloi aika hyvin, se seniorllisuus
 Puhuja 1: salaliitto.
 Puhuja 0: Niin,
 Puhuja 0: että aina siellä on jotain sitä juutalaishommaa joukossa, jos on aivan käkikukkuu.
@@ -326,25 +323,26 @@ Puhuja 0: Niin Se
 Puhuja 0: tavallaan, se on helppo sitä kautta, henkilöpostaushistoria,
 Puhuja 0: skrollaa vähän aikaa, sit rupeaa tulemaan jotain, että niin, mutta oliko
 Puhuja 0: oikeasti olemassa jotain juutalaisten murhaa? Näin. Ja sit voi olla, että aa, okei, mä ikoroin kaiken, mitä tää ihminen kertoo.
-Puhuja 1: Jos me Penisiko sulle sen nimen. Yle Areenasta löytyy...
+Puhuja 1: Jos me Penisko sulle sen nimen. Yle Areenasta löytyy...
 Puhuja 0: Tuoltatetaan se some ja se nimi. Marko.
 Puhuja 2: Mä rupesin eilen lukemaan, tää on ihan uusi kirja.
 Puhuja 2: Sen nimi on Tickin Clock ja sen on kirjoittanut
-Puhuja 2: Ira Rosen niminen jenkkkitoimittaja.
-Puhuja 2: Rosen on Sextiminege
+Puhuja 2: Ira Rozen-niminen
+Puhuja 2: jenkkkitoimittaja.
+Puhuja 2: Se kertoo
+Puhuja 2: Rocen on Sexyti Minits
 Puhuja 2: ohjelman tuottaja 1980-luvun
 Puhuja 2: alusta lähtien. Se on hänen muistelmansa millaista se duuni on ollut
 Puhuja 2: mediassa 1980-luvulla
 Puhuja 2: ja siitä eteenpäin. Ensinnäkin kuusikymmentäyksi minits, joka on tällainen... Nimestä voi päätellä, se on tunnin kestävää ajankohtaispasiini
 Puhuja 2: ohjaala Jenkeissä.
 Puhuja 2: Aivan sairaan suosittu.
-Puhuja 2: Oli vielä 80-luvulla
-Puhuja 2: tämmöinen
+Puhuja 2: Oli vielä 80-luvulla tämmöinen
 Puhuja 2: oli amerikkalaisen
 Puhuja 2: tutkivan journalismin
-Puhuja 2: kehtoi että ne scoppasivat
+Puhuja 2: kiehtoo että ne skootpasivat
 Puhuja 2: vaikka mitä.
-Puhuja 2: Mahtava lukea tuota kirjaa. Hän oli tavallaan sitä aikaa kun hän sanoi että hänelläkin oli täysin
+Puhuja 2: Mahtava lukea tuota kirjaa. Hän oli sitä aikaa kun hän sanoi että hänelläkin oli täysin
 Puhuja 2: rajaton budjetteja.
 Puhuja 2: Pystyi käyttämään rahaa ihan miten paljon vaan.
 Puhuja 2: Hän oli tuottaja ja hänen tehtävänsä oli
@@ -354,34 +352,34 @@ Puhuja 2: Ei ollut nettiä. Hän teki
 Puhuja 2: lentokonebingo.
 Puhuja 2: Eli se meni kentälle ja sanoi että lippu seuraavaan kohteeseen. Seuraavaan koneeseen mikä lähtee. Sitten lens
 Puhuja 2: detrointiin
-Puhuja 2: ja siellä luki paikalliset lehdet ja kävi tapaamassa
-Puhuja 2: ihmisiä. Sitten taas lensi seuraavaan paikkaan.
+Puhuja 2: ja siellä luki paikalliset lehdet ja kävi tapaamassa ihmisiä. Sitten taas lensi seuraavaan paikkaan.
 Puhuja 0: Hankijoialismiaalalla
 Puhuja 0: kuvitellen, että se on kuva.
 Puhuja 0: Tiedän että istun täällä jossain
-Puhuja 2: podcastissa. Sitten myös se miten ne... Siinä on aina neljä... Siinä on neljä
+Puhuja 2: podcastissa. Sitten myös se miten ne... Siinä on aina neljä... Siinä on
+Puhuja 2: neljä
 Puhuja 2: minidokumenttia
 Puhuja 2: tai
 Puhuja 2: neljä
 Puhuja 2: juttua siinä
-Puhuja 2: tunnissa. Se kauan ne...
-Puhuja 2: Kolmetoista minuuttia
+Puhuja 2: tunnissa. Se kauan ne... Kolmetoista minuuttia
 Puhuja 2: mainokset voisi lukea se
 Puhuja 2: yksi pätkä.
 Puhuja 2: Kauan he käyttävät
 Puhuja 2: aikaa, vaivaa ja energiaa yhden pätkän tekemiseen.
-Puhuja 2: Se kertoo, että hänen yksi ensimmäisiä isoja juttujai nendin EMICarteria,
+Puhuja 2: Se kertoo, että hänen yksi ensimmäisiä isoja juttujai nendin
+Puhuja 2: EMICarteria,
 Puhuja 2: joka oli ensimmäinen Cartterin
 Puhuja 2: presidenttiyden jälkeen. Se kävi vaikka kuinka monta kertaa tapaamassa sitä ennen
 Puhuja 2: esihaastattelijia
-Puhuja 2: mietti, mitkä ne kahdeksan kysymystä ovat, jotka se tehdään oikeassa, kun tulee
+Puhuja 2: mietti, mitkä ne ovat kahdeksan kysymystä, jotka se tehdään oikeassa, kun tulee
 Puhuja 2: oikean toimittaja paikalle.
 Puhuja 2: Tuntien
-Puhuja 2: työ ja miettiminen, että mitkä ne oikeaa kahdeksan
-Puhuja 2: kysymystä on vimikaattorille.
-Puhuja 2: Sen takia niistä voi itkettää
+Puhuja 2: työ ja miettiminen, että mitkä ne oikeaa kahdeksan kysymystä on vimikaattorille.
+Puhuja 2: Sen takia voi itkettää
 Puhuja 2: kuunnella. Mutta mikä tässä oli kaikkein huvittavinta?
-Puhuja 2: Kirjailin nimi on Ira Rousenia. Kun mä rupesin lukemaan, että mulla on nainen.
+Puhuja 2: Kirjailinimi
+Puhuja 2: on Ira Rousenia. Kun mä rupesin lukemaan, että mulla on nainen.
 Puhuja 2: Eikös Ira nyt on naisen nimi?
 Puhuja 0: Se on vissiin semmoinen, että se on molempia. Niin, mä en lukenut
 Puhuja 2: jo sata sivua. Sitten mä jossain rupesin miettimään, että mikähän tän kirjoittajan sukupuoli on.
@@ -393,12 +391,12 @@ Puhuja 1: This American Life podcast. Saitko kertoa teille loppukevennkö?
 Puhuja 1: Kerro vaan. Koska mun kolmevuotias lapseni tajusi tällä viikolla, että on olemassa naisia ja
 Puhuja 1: miehiä.
 Puhuja 1: Ja tyttöjä ja poikiahan tuli... Vai onko?
-Puhuja 1: No tai sitten me ei menty yksityiskohtiin
-Puhuja 1: vielä tarkemmin mutta hän tuli päiväkodista ja kertoi että... Että
+Puhuja 1: No tai sitten me ei menty yksityiskohtiin vielä tarkemmin mutta hän tuli päiväkodeista
+Puhuja 1: ja kertoi että... Että
 Puhuja 1: että Silvialla ei ole pippeliä
 Puhuja 1: ja sitten
 Puhuja 1: keskusteltiin tästä aiheesta.
-Puhuja 1: Miten tämä oli? Olin niin hämmentynyt,
+Puhuja 0: Miten tämä oli? Olin niin hämmentynyt,
 Puhuja 1: että eikö tämä Markon sukupuoli asiaan. Olin niin hämmentynyt
 Puhuja 1: että en mä nyt mitä sanoja pitää käyttää ja sitten sanoin että Silvialla on erilainen systeemi Ja sitten kun mentiin päiväkotiin,
 Puhuja 1: seuraavana päivänä ja huusi vielä pihallakin
@@ -411,19 +409,18 @@ Puhuja 0: todella myöhässä,
 Puhuja 0: mutta mä tartuin, kun mä innostuin niin siitä, että näitä suomalaisia
 Puhuja 0: kirjoja on nykyään äänikirjoinakin.
 Puhuja 0: Silloin viisitoista vuotta sitten, kun mä aloin kuuntelemaan kaikki kirjat äänikirjoina, niin näin ei ollut. Tilanne on ilmeisesti muuttunut jo muutama vuosi sitten.
-Puhuja 0: Mutta että nyt kun niitä on, niin mä olen ruvennut niitä lärä, että mitäs siellä on. Mä en kykene fiktiota kuuntelemaan äänikirjana ollenkaan eli pelkästään nonfiktiota.
+Puhuja 0: Mutta että nyt kun niitä on, niin mä olen ruvennut niitä lärä, että mitäs siellä on. Mä en kykene fiktiota kuuntelemaan äänikirjana ollenkaan eli niin kuin pelkästään nonfiktiota.
 Puhuja 0: Mä tartuin tähän koneen ruhtinaseen
 Puhuja 0: Pekka Herlinin Elämä kirjoittaja John Simon
-Puhuja 0: ja
-Puhuja 0: aivan pökerryttävän
+Puhuja 0: ja aivan pökerryttävän
 Puhuja 0: hyvä kirja. Aivan käsittämätön taidon ja voiman ja
 Puhuja 0: kaiken muun upean näyte. Siis lähtökohdat kirjalle vielä jotenkin niin luotan työntävät, että tämmöinen niin kuin yritysmagnaattikone,
 Puhuja 0: vielä
 Puhuja 0: niin tylsä yritys kuin kone jota hissejä tekee.
 Puhuja 0: Sitten että kirjan
 Puhuja 0: oli mun käsittääkseni tilanneet siis Herliinit eli tää niin kuin
-Puhuja 0: omistajaperhe, että okei, nyt voi kirjoittaa heidän sukunsa patruunasta
-Puhuja 0: kirjan. He olivat valkaneet kaikista maailman ihmistä kirjoittajaksi koneen
+Puhuja 0: omistajaperhe, että okei, nyt voi kirjoittaa heidän
+Puhuja 0: sukunsa patruunasta kirjan. He olivat valkaneet kaikista maailman ihmistä kirjoittajaksi koneen
 Puhuja 0: viestintäpäällikön, joka
 Puhuja 0: viestintäpäälliköltä
 Puhuja 0: nyt voisi olettaa semmoista niin kuin jarkan bullshittiä
@@ -435,8 +432,7 @@ Puhuja 0: haastattelussa vuodelta -kuusikymmentäkahdeksan
 Puhuja 0: niin Bettina Svansan ja näin. Sitten
 Puhuja 0: se niin kuin aitous ja rehellisyys jolla tän Pekka Herliinin
 Puhuja 0: todella raakaa
-Puhuja 0: alkoholismia ja sen vaikutusta hänen perheeseensä
-Puhuja 0: käsitellään,
+Puhuja 0: alkoholismia ja sen vaikutusta hänen perheeseensä käsitellään,
 Puhuja 0: niin on
 Puhuja 0: se rehellisyys
 Puhuja 0: ja aivan huikea.
@@ -447,8 +443,8 @@ Puhuja 2: Siitä kohkattiin joku vuosi sitten tästä kirjasta. Siitä on aika m
 Puhuja 0: Koneen ruhtinas Pekka Herlinin Elämä.
 Puhuja 0: Tämä on kirjoittaja Jone Simen kuunneltavissa äänikirja.
 Puhuja 0: Suomalaisiakin mä rupesin, katson hirveästi nyt perehtyä tähän Suomi-meininkiin.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marjo Junkkari. Kiitos. Kiitos Maria Manner. Kiitos. Äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla
-Puhuja 0: Mikko Peura.
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marjo Junkkari. Kiitos. Kiitos Maria Manner. Kiitos. Äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla Mikko
+Puhuja 0: Peura.
 Puhuja 0: Me
 Puhuja 0: tehdään ensi viikolla myös lukiopalautejakso,
 Puhuja 0: joten kuullaan silloin.

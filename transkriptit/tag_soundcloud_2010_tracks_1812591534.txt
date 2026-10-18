@@ -25,7 +25,8 @@ Puhuja 0: kuumimmat nimet.
 Puhuja 0: Helsingin Sanomien tutki
 Puhuja 0: vain toimittajien
 Puhuja 0: Boss,
-Puhuja 0: Salla Vuorikoski Heiisalo. Terve.
+Puhuja 0: Salla Vuorikoski Heiisalo.
+Puhuja 1: Terve.
 Puhuja 0: Ja Helsingin Sanomien,
 Puhuja 0: En mulla ole mitään hajua, missä sä saat nykyään töissä.
 Puhuja 0: Seature toimituksessa. Seature toimittaja.
@@ -36,7 +37,8 @@ Puhuja 0: näin kauhean paljon.
 Puhuja 0: Tämän viikon podcastissa keskustellaan
 Puhuja 0: juuri
 Puhuja 0: parhaillaan
-Puhuja 0: meneillään olevasta
+Puhuja 0: meneillään
+Puhuja 0: olevasta
 Puhuja 0: Case Warnasesta,
 Puhuja 0: jossa
 Puhuja 0: perussuomalaisten
@@ -72,7 +74,7 @@ Puhuja 0: Keskustellaan siitä.
 Puhuja 0: Lisäksi keskustellaan
 Puhuja 0: oikeusvaltiokehityksestä
 Puhuja 0: Suomessa, kun
-Puhuja 0: on alettu esittää
+Puhuja 0: on alettu esittää tämmöisiä
 Puhuja 0: varsin hypoteettisia epäilyksiä, että
 Puhuja 0: Suomea saattaisi jossain tosi usvaisessa
 Puhuja 0: tulevaisuudessa
@@ -120,9 +122,10 @@ Puhuja 0: kujanjuoksu.
 Puhuja 0: Se on päättömäisillään.
 Puhuja 2: Majallinen yhteys kyllä. En ole ainakaan nähnyt mitään muuta loogista selitystä kuin sen, että hän oli siellä konkäsissä just
 Puhuja 2: ollut julistamassa, että hän pitää puuttua ja sen takia hänen piti sitten puuttua siihen.
-Puhuja 2: Ei sellaista suoraan. Ja sitten tästä on hirveän vaikea saada
+Puhuja 2: Ei sellaista suoraa. Ja sitten tästä on hirveän vaikea saada
 Puhuja 2: kattavaa tietoa,
-Puhuja 2: koska tähän liittyy hirveästi kaikkia opportunismia
+Puhuja 2: koska tähän liittyy hirveästi
+Puhuja 2: kaikkia opportunismia
 Puhuja 2: ja sinne on
 Puhuja 2: kaiken maailman huomiohakuiset
 Puhuja 2: hahmot
@@ -154,13 +157,12 @@ Puhuja 2: kampuksilleen ja silloin republikaanit
 Puhuja 2: oli voimakkaasti sananvapauden
 Puhuja 2: puolella ja kaikenlaisia mielipiteitä on kuultava ja nyt ne osat ovat vähän kääntyneet ympäri.
 Puhuja 2: Enemmän
-Puhuja 2: vasemmalta
-Puhuja 2: korostetaan tätä sananvapausnäkökulmaa
+Puhuja 2: vasemmalta korostetaan tätä
+Puhuja 2: sananvapausnäkökulmaa
 Puhuja 2: ja stereripikaadit
 Puhuja 2: vaatii näiden protestien hajottamista.
 Puhuja 0: Mulla on tässä...
-Puhuja 0: Mä
-Puhuja 0: haluan sanoa tämän loppuun asti, koska ajatus on puolelainen.
+Puhuja 0: Mä haluan sanoa tämän loppuun asti, koska ajatus on puolelainen.
 Puhuja 0: Mun mielestä on kaikki puhtaasti symboli
 Puhuja 0: kysymyksiä. Niin. Meillä on selkeästi tilanne, missä meillä on kansakunnan, sanotaan globaali eliitti melkein, mutta ainakin Amerikan kansakunnan eliitti,
 Puhuja 0: hulppearikkaat
@@ -181,7 +183,6 @@ Puhuja 0: silti täällä on olemassa se
 Puhuja 0: ainoa konkreettinen,
 Puhuja 0: todellinen ja painava asia, mikä siellä on, on, että ne protestit protestoi
 Puhuja 0: meneillään olevaa silmitöntä väkivaltaa ja ihmisiä, jotka kuolee Palestiinassa.
-Puhuja 0: Eli
 Puhuja 0: Se vie mun mielestä pohjaa...
 Puhuja 0: Kulttuurisodan keskustelu. Kulttuurisodanien
 Puhuja 0: käymältä kulttuurisodalta,
@@ -200,8 +201,8 @@ Puhuja 2: meneillään oleva. Se on totta ja mielestäni se liittyy myös siihen
 Puhuja 2: Vaikka tosiaan on tämä symbolitaso, niin Yhdysvaltain kampuksilla
 Puhuja 2: on myös sekä palestiinalaisia
 Puhuja 2: opiskelijoita, joiden perheenjäseniä on kuollut siellä ja jotka elävät hirveissä oloissa.
-Puhuja 2: Sitten
-Puhuja 2: taas vaikka israelilaisia,
+Puhuja 2: Sitten taas
+Puhuja 2: vaikka israelilaisia,
 Puhuja 2: joiden läheiset ovat saattaneet kärsiä siinä Hamasin
 Puhuja 2: Iskussa tai jotka ovat vaikka itse entisiä Israelin armeijan
 Puhuja 2: sotilaita.
@@ -210,7 +211,8 @@ Puhuja 0: joiden sukulaisia on yhä Hamasin panttivankeina.
 Puhuja 2: Kyllä. Tässä on se symbolitaso ja sitten on se hyvin raaka ja todellinen taso.
 Puhuja 2: Siitä
 Puhuja 2: tulee juuri niin sotkuista
-Puhuja 2: ja vaikeaa, että Ehkä minäkin vetäydyn keskustelemaan
+Puhuja 2: ja vaikeaa.
+Puhuja 2: Ehkä minäkin vetäydyn keskustelemaan
 Puhuja 2: kampuselämästä.
 Puhuja 1: Miten Joe Biden
 Puhuja 1: hallintoonsa, miten se tässä asemoituu
@@ -362,7 +364,7 @@ Puhuja 1: Keisari Aarnio, kirjoittajat Susanna
 Puhuja 2: Reinbooth ja Minna Passin. No niin. Aijain, vuosia sitten luin, mutta
 Puhuja 2: edelleen muistan että... Vuosia sitten
 Puhuja 1: aloitin ainakin. Eikä terveisiä Markku Heinikkarille.
-Puhuja 2: Kyllä. Travi. Ajattelin, että mulla on vanha vinkki, koska tämä ilmestyi viime viikolla.
+Puhuja 2: Kyllä. Traffi. Ajattelin, että mulla on vanha vinkki, koska tämä ilmestyi viime viikolla.
 Puhuja 2: Sallii paremmaksi.
 Puhuja 2: Mutta
 Puhuja 2: viime viikolla
@@ -437,8 +439,7 @@ Puhuja 0: Sieltä on tullut yksi.
 Puhuja 0: Ne palkkaa jotain 80-vuotiaita
 Puhuja 0: ja sekunttikellolla katsoo, että kuinka monta sekuntia he saa käydä kusella.
 Puhuja 0: Se on ihan semmoista epäinhimillistä
-Puhuja 0: orjatyötä.
-Puhuja 2: Mä muistan aikoinaan, kun tein jutun Amazonista just vähän niinku tolla tuolla oletuksella ja tapasin vaan hirveästi ihmisiä, jotka halusi sinne töihin.
+Puhuja 2: orjatyötä. Mä muistan aikoinaan, kun tein jutun Amazonista just vähän niinku tolla tuolla oletuksella ja tapasin vaan hirveästi ihmisiä, jotka halusi sinne töihin.
 Puhuja 0: Ameriikassa voi olla aika hirveää ihan Amazoniakin.
 Puhuja 0: Amazonilla on Amazon Prime videopalvelu ja sinne on tullut
 Puhuja 0: folaat-pelisarjasta

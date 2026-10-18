@@ -1,356 +1,433 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiyönkaan Inkolopodastin toinen kausi on kuunneltavissa Helsingin Sanomien sovelluksessa
-Puhuja 0: sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan Karinkoloon.
-Puhuja 1: Hei ja tervetuloa Helsingin Sanomien UTClapartti-podcastin
-Puhuja 1: torstaina kaksimiljoonaa
-Puhuja 2: kaksisataakuusikymmentäviisi.
-Puhuja 1: Tämän viikon podcastissa keskustellaan
-Puhuja 1: esimerkiksi siitä, että kokoomuksen
-Puhuja 1: Mutta
-Puhuja 1: ehkä ennen kaikkea pääministeri Petteri Orpo tilanteesta vaalien alla, kun
-Puhuja 1: Helsinki
-Puhuja 1: Guarden hallitusskandaalista
-Puhuja 1: on ehkä päästy. Mutta seuraavaksi on vuorossa niin sanottu Valmetin tapaus.
-Puhuja 1: Marko ja Salla on siihen perehtyneet perin pohjasta ja kertoo esimerkiksi mulle, että mikä se edes on.
-Puhuja 1: Kokoomus on luismassa gallupienkin mukaan. Persut siellä kutkuttelee
-Puhuja 1: heidän
-Puhuja 1: mahanpohjaansa.
-Puhuja 1: Ja onko mahdollista, että ennen
-Puhuja 1: Tai siis, että epäilykset kähmäilystä
-Puhuja 1: ja epäasiallisesta suhmuroinnista
-Puhuja 1: ja kaveridiilaamisesta
-Puhuja 1: päätyisi pudottamaan kokoomuksen seuraavasta hallituksesta.
-Puhuja 1: Keskustellaan siitä. Sen lisäksi puhutaan siitä, miten Suomen poliittinen
-Puhuja 1: intelligence on alkanut kuhista niin sanotusta Tanskan mallista, joka siis tarkoittaa, että kissat on koiria ja demarit on persuja.
-Puhuja 1: Onko tämä Suomen tulevaisuus vai mistä on kyse?
-Puhuja 1: Toivottavasti myös puhutaan ihan hetki siitä, että Suomessa on todennäköisesti useampi mutta ainakin vähintään yksi Tuomas-niminen
-Puhuja 1: podcastin vetäjä joka on totaalisen kyllästynyt siihen,
-Puhuja 1: että persoonana on ilmestynyt myös SDP:n
-Puhuja 1: pyrkimykseen
-Puhuja 1: tehdä näistäkin vaaleista maahanmuuttovaalit.
-Puhuja 1: Joten erityisesti kiitän Akavan puheenjohtajaa, joka edes yritti nostaa
-Puhuja 1: esille.
-Puhuja 3: Vastuu kantaminen
-Puhuja 3: ja miksi sitä ei kanneta?
-Puhuja 3: Miksi johtajille maksetaan enemmän kuin meille?
-Puhuja 3: Kaikenlaisia tällaisia kysymyksiä. Sä sanot siinä Porin alussa,
-Puhuja 3: että silloin
-Puhuja 3: kun oli se tiekkari, jossa kerrottiin,
-Puhuja 3: kun joku kysyi,
-Puhuja 3: Markus Rauramo
-Puhuja 3: Fortumin toimitusjohtaja
-Puhuja 3: vastasi kysymykseen, että paljonko sitä turskaa nyt tuli siinä,
-Puhuja 3: että Fortum
-Puhuja 3: osti Uniperin,
-Puhuja 3: sito itsensä
-Puhuja 3: venäläiseen kaasubisnekseen.
-Puhuja 3: Putin aloitti sodan ja katkaisi kaasun,
-Puhuja 3: minkä jälkeen Uniperilla alkoi tulla sata
-Puhuja 3: miljoonaa tappiota
-Puhuja 3: päivässä ja myitte sen pois.
-Puhuja 3: Saksan valtio nappasi sen, niin paljonko teille tästä jäi viiva alle miinusta ja sitten Rauramon laskeskeleet, ei sitä nyt ihan tarkkaan tiedä, mutta reilut kuusi miljardia euroa.
-Puhuja 3: Silloin kun oli tää tiekkarina, sä kirjoitit itsellesi pienen lapun.
-Puhuja 3: Mitä siihen kirjoitit?
-Puhuja 1: Mä kirjoitin vuoden päähän kalenterin itselle muistion,
-Puhuja 1: että hei, se Fortum-juttu,
-Puhuja 1: että tsekkaa saiko kukaan potkuja siitä.
-Puhuja 3: Miksi kiinnosti sua?
-Puhuja 1: No, se ehkä oli semmoisessa ajanjaksossa mä en muista ihan tarkkaan, mitä kaikkia ajatuksia siinä
-Puhuja 1: Suomessa velloi ympäriinsä.
-Puhuja 1: Mutta mulla se jotenkin liittyi semmoiseen ajatukseen, mikä mulle oli tullut, että musta
-Puhuja 1: vaikutti silleen, että Suomessa on joku semmoinen outo tahma,
-Puhuja 1: että ihmiset voi tehdä todella isoja kämmenjä.
-Puhuja 1: Siis silleen, että voi
-Puhuja 1: semmoista maata
-Puhuja 1: radaltaan
-Puhuja 1: suistavia kämmejä,
-Puhuja 1: joista
-Puhuja 1: niitä sivutaan sitten siinä podissakin.
-Puhuja 1: Mutta otetaan nyt tämmöiset hyvin ilmeiset,
-Puhuja 1: esimerkiksi vaikka joku Suomen Pisa-tulosten
-Puhuja 1: romahtaminen tai sitten ylipäätänsä sanotaan Suomen koulutuksen romahtaminen. Mun mielestä se, että Suomen
-Puhuja 1: Nokia
-Puhuja 1: meni
-Puhuja 1: maailman tärkeimmästä teknologiayhtiöstä,
-Puhuja 1: että silleen ei miksikään.
-Puhuja 1: Tosi isoja
-Puhuja 1: mokia voidaan tehdä.
-Puhuja 1: Ja se on kamalaa ja hirveää.
-Puhuja 1: Ja sitten siitä on tosi drastiset seuraukset.
-Puhuja 1: Mutta siitä ei ikinä jää semmoinen, että
-Puhuja 1: mitä tässä tapahtui?
-Puhuja 1: Kenen vastuulla tää oli, että näin ei kävisi?
-Puhuja 1: Ja okei
-Puhuja 1: mitä mä tavallaan omassa päässä ajattelen, että sen pitäisi mennä ja asiat ei toimi tietenkään näin. Mutta mä ajattelin, että se on silleen, että hei jeppe,
-Puhuja 1: sun vastuulla oli tää että kaikki meidän rahat ei häviä
-Puhuja 1: ja kaikki meidän rahat nyt on hävinnyt.
-Puhuja 1: Sen takia me annetaan sulle kenkää että ei millään pahalla, niinku sä varmasti yrität parhaasi
-Puhuja 1: mutta
-Puhuja 1: sulle maksetaan silleen yksi pilkku kaksi miljoonaa euroa siitä, että näin ei kävisi. Joten ei meillä ole mitään muuta vaihtoehtoa kuin sille antaa sulle manoa. Että onnea seuraavan koitoksen.
-Puhuja 1: Ja sitten siihen kun vertaa se, että vaikka tässä
-Puhuja 1: Fortmin tapauksessa ja nyt tää liittyy Fortmin toimitusjohtaja Markus Rauramon, joka oli oleellisesti mukana näitä kauppoja tekemässä.
-Puhuja 1: Musta tuntuu niin oudolta, että voi tehdä yhden semmoisen pienen, mutta ihan oikean maan
-Puhuja 1: historian
-Puhuja 1: mittavimmat tappiot.
-Puhuja 1: Ja silti vaan jatketaan niinku, että: No niin, mitäs meillä on lounaalla tuolla alakerrassa?
-Puhuja 1: Että se on out. Siinä pitää ihan todella, todella vaan. Se, mikä oli siinä häiritsevää,
-Puhuja 3: ajatuksia nostattavaa on se, että miten voimallisesti
-Puhuja 3: vielä siinä vaiheessa,
-Puhuja 3: kun ne tappiot tuli
-Puhuja 3: niskaan, niin jotenkin annettiin ymmärtää tai itse asiassa ihan suoraan sanottiin, että tätä ei olisi voinut arvata.
-Puhuja 3: Tämä tuli aivan yllätyksenä, että miten sä Putin nyt näin. Eihän Uniperin kaasua ole koskaan katkaistu, mikä lienee totta
-Puhuja 3: samaan aikaan, kun on totta se, että Venäjä on katkonut kasaamaan. Sieltä se täältä kahdeksantoista kertaa
-Puhuja 3: aiemmin. Mitä sä ajattelit siitä, että
-Puhuja 3: oliko se
-Puhuja 3: yritys kirjoittaa siinä sitä tarinaa, sitä yleistä tarinaa, jonka kaikki sitten ajattelee, että niin niin joo, mutta kun
-Puhuja 3: sehän olisi voinut olla tosi hyvä ja olikin ja tuli osinkoa jonkun aikaa se uniper
-Puhuja 3: homma. Melkein onnistuu. Oliihan se ihan järkyttävä, että yhtäkkiä puhuttiin yöksi. Mulla yksi innoittaja on ollut Steve Jobs tässä eli Applen perustaja.
-Puhuja 1: Siitä on sellainen legenda. En löytänyt klippiä siitä,
-Puhuja 1: videolle sanonut. Mutta tämä on tämmöistä Apple-legendaa.
-Puhuja 1: Siinä vaiheessa, kun Applessa joku johtaja
-Puhuja 1: pärjää niin hyvin, että pääsee johtoryhmään
-Puhuja 1: Steve Jobsin
-Puhuja 1: sisäpiiriin.
-Puhuja 1: Niin siinä vaiheessa Stein Jobs
-Puhuja 1: pyytää hänet, että tukee mun konttorilla ja Stein Jobs kertoo tämmöisen tarinan, että okei,
-Puhuja 1: mulle kävi sillä tavalla, että mun roskista ei oltu tyhjennetty.
-Puhuja 1: Ja sitten mä kutsuisin siistijään tänne mun konttori ja mä kysyin, että hei
-Puhuja 1: Steve, että okei Steve varmaan vaikka
-Puhuja 1: Bensen,
-Puhuja 1: että miksi tää ei ole tyhjennetty tätä roskista? Ja sitten tämän siistiä sanoi, että aa joo, mä en pystynyt tyhjentämään sitä, koska toi ovi oli lukossa illalla, kun olin täällä duunissa, että mä en saanut sitä auki, niin mä en voinut tyhjentää. Siihen Steiva oli silleen, että okei, no niin, hei, hyvä, kaikki on fine.
-Puhuja 1: Ymmärrän, ovi oli lukossa ja sä et voi mennä siitä läpi.
-Puhuja 1: Ja sitten jossain vaiheessa tän siistijän ja Steve Jobsin välillä,
-Puhuja 1: niin kaikilla näillä syillä
-Puhuja 1: ne menettää merkityksensä.
-Puhuja 1: Steve Jobs ei voi ikinä olla silleen, että no hei, että tota tää Apple nyt on aivan perseestä, koska niinku naapuri oli parempi tai että
-Puhuja 1: niinku me nyt hävittiin kaikki nää rahat, koska silleen tätä ja tuota tapahtuu.
-Puhuja 1: Jossain vaiheessa Steve Jobsin pointti oli se, että johtoryhmää oven kohdalla kaikki syyt lakkaa merkitsemästä. Sen jälkeen sä joko onnistut siinä duunissa tai sitten sä et onnistu siinä
-Puhuja 1: lakkaa merkitsemästä. Sen
-Puhuja 1: jälkeen sä joko onnistut siinä duunissa tai sitten sä et onnistu siinä duunissa. Jos sä onnistut, niin ai että, bonareita säteilee muita. Jos et, niin tulee kenkää välittömästi. Ja se oli ehkä se niinku mikä mulla oli päässä ja sitten vähän niinku semmoinen epäilys Suomessa ja varmaan hommat toimi näin. Se on aivan sama onnistuks vai etkö onnistu? Ei sulle käy kuitenkaan mitenkään. Tämä on oudompi ja suhmuraisempi tämä homma. Siitä se ehkä
-Puhuja 3: lähti. Miten sinä ne untskakaupat silloin? Mä Kädyin katsomaan Markon, koska sinähän olit nuorena toimittajana.
-Puhuja 3: Oliko se Sonera-jutun kanssa? Tai kertaan vähän, mikä se oli? Sittenhän mainitaankin siinä. Niin mainitaankin.
-Puhuja 2: Kyllä
-Puhuja 2: olin
-Puhuja 2: siis taloustoimituksessa ja seurasin
-Puhuja 2: tätä teknologiapuolta
-Puhuja 2: ja myös Soneraa. Muistan
-Puhuja 2: seuranne ensin.
-Puhuja 3: Kaikkea muistan, mikä oli Upskauppa.
-Puhuja 2: Se oli vuonna kaksituhatta
-Puhuja 2: Sonera nykyinen Telian
-Puhuja 2: yksi pikkuosa.
-Puhuja 2: Silloin oli Nokian huuma ja telerkyökkähuuma.
-Puhuja 2: Ne päättivät silloin turbulille ja markkinoille
-Puhuja 2: 3G-puhelimia.
-Puhuja 2: Eri
-Puhuja 2: maat ruvettiin toimimaan vähän eri tavalla, että miten nämä 3G taajuudet taivaalla
-Puhuja 2: jaetaan teleoperaattoreille.
-Puhuja 2: Suomi antoi ne ilmaiseksi kaikille halukkaille
-Puhuja 2: tai valitsi, joille annetaan ilpuksia.
-Puhuja 2: Pääosin meni kotimaisille, mutta Saksa päätti, että ne taajuudet huutokauppaan
-Puhuja 2: taajuudet.
-Puhuja 2: Sonera
-Puhuja 2: päätti, että oli voimansa-tunnossa.
-Puhuja 2: Siihen aikaan Soneralla oli vielä
-Puhuja 2: tällainen
-Puhuja 2: Smore trust, joka teki
-Puhuja 2: tällaista jotain tietoturvaa, jonka arvo oli tsiljardia.
-Puhuja 2: Sitten oli
-Puhuja 2: kännykkäportaali
-Puhuja 2: Zelen, jonka arvo oli tsiljardia. Ne olivat voimansa tunnossa.
-Puhuja 2: Ja osallistuivat siihen huutokauppaan.
-Puhuja 2: Siinä toteutui
-Puhuja 2: taloustieteen, että voittaja kirous.
-Puhuja 2: Sonera voitti sen kilpailun, mutta samaan aikaan se hävisi, kun se maksoi ihan tolkuttomasti liikaa taajuuksista.
-Puhuja 1: Ja ne olivat ennen Fortumia Suomen historian suurimpana. Oisko se ollut kolme pilkku viisi miljardia deman miljardia? Mun mielestä se oli päälle neljä. Neljä pilkku viisi miljardia. Ja sitten
-Puhuja 2: teknologia-osakkeet kurssit romahtivat.
-Puhuja 2: Tällainen
-Puhuja 2: mobiili-ihme ei naurukkaan niin ihmeellistä.
-Puhuja 2: Kaikki
-Puhuja 2: kuivathti täysin
-Puhuja 2: tämä internet-dokum-kupla
-Puhuja 2: poksahti.
-Puhuja 2: Se on vaan, että millä oli sylissä nämä neljän miljardin taajuudet.
-Puhuja 2: Tavallaan ei ollut
-Puhuja 2: mikään laskelma osoittanut, miten ne pystyisivät niitä
-Puhuja 2: muuttamaan rahaksi. Loppujen lopuksi ne joutui alas kirjaamaan ne arvottomina. Se oli ihan puhdasta tappiota. Mun mielestä se pointti on just toi, että
-Puhuja 1: tosi outoa, että tuohon voidaan reagoida silleen
-Puhuja 1: esimerkiksi mediassa näkee sitä ajatusta, että no hei,
-Puhuja 1: koska minä silleen vähän lukiopohjalta
-Puhuja 1: tähän lehteen juttua kirjoitteleva toimittaja niin koska minä en olisi voinut
-Puhuja 1: aavistaa, että mitä Putin tekee tai koska minä en tiedä, miten Saksan unt-markkinat
-Puhuja 1: toimii,
-Puhuja 1: niin sitten ei oleteta, että jollain valtavan firman kovapalkkaisella toimareilla pitäisi olla yhteen sen parempia tietoja kuin jollain ihan random jäppisellä jostain Vantaalta.
-Puhuja 1: Se on tosi outoa.
-Puhuja 1: Mun mielestä liittyy osittain siihen, että Suomen mediassa, ehkä maailman mediassa ylipäätänsä on vähän semmoista taipumusta ajatella, että meidän tehtävä on syyllistää poliitikkoja
-Puhuja 1: ihan kaikesta.
-Puhuja 1: Esimerkiksi kaikilla on päällimmäisenä
-Puhuja 1: mielessä tästä Fortum-kaupoista,
-Puhuja 1: että Tytti Tuppurainenhan se oli kaiken
-Puhuja 1: sehän sen kaiken sai aikaan ja surkein
-Puhuja 1: Vätyskuvatus,
-Puhuja 1: joka kaiken pelasi. Vaikka Tytti Tuppurainen oli tullut tyyliin muutama kuukautta ennen kuin homma meni pituksi, niin se oli tullut omistajaohjausministeriksi.
-Puhuja 1: Siinä oli joku outo suhtautuminen,
-Puhuja 1: jos ajatellaan ihan korkeimman
-Puhuja 1: bisneseliitin
-Puhuja 1: vastuuta
-Puhuja 1: Suomessa.
-Puhuja 1: Ei vastuuta sille mitään yleishumanismia,
-Puhuja 1: vaan vastuuta siitä firmasta ja siitä, että ne hommat toimii.
-Puhuja 3: Mut siinä on just se myös se kiinnostus, että tietenkin ne, jotka eniten syyttää Tytti-Tuppuraisista,
-Puhuja 3: niin on arvatenkin tiettyjen muiden puolueiden
-Puhuja 3: kiihkeitä kannattajia. Siihen tulee nää poliittiset intohimot
-Puhuja 3: mukaan. Voihan sitä aina pohtia, että no jos se Tytti Tuppurainen olisi neuvotellut siellä vähän paremmin Saksan valtion edustajan kanssa, niin olisi vähän parempi diili. Mutta ihan valtavat tappiot olisi tullut
-Puhuja 3: Jos joku Markus Rauramo kävelee meidän lähikaupassa mua vastaan
-Puhuja 3: siinä jossain
-Puhuja 3: leipähyllyllä.
-Puhuja 3: No, ehkä mä sen tunnistaisin, mutta suurin osa ei tunnista sitä.
-Puhuja 3: Se ei tavallaan säteile mihinkään se
-Puhuja 3: ihminen ja sille vastuun
-Puhuja 3: sälyttäminen.
-Puhuja 3: Ajatteliko koskaan sitä, että mitä jos vaan antaisi anteeksi, että
-Puhuja 3: Oletan nyt kävi näin ja eniten rahoja saa takaisin kaatuneet maitoa. Markus varmaan yritti parhaansa. Hän otti riskiä ja riskit toteutu. Semmoista käy.
-Puhuja 3: Miksi sä haluat päitä pöskylle?
-Puhuja 1: Mä en halua päitäpölkyllä, mutta mä haluaisin tehdä erilaisen. Mä haluaisin, että se kuulostaa täysin erilaiselta kuin kaikki muu suomalainen
-Puhuja 1: talouskeskustelu.
-Puhuja 1: Mä haluaisin, että se ei yhtään kuulosta silleen, että mitä Fortumista tai uniperistä on kirjoitettu tai sanottu tai ajateltu.
-Puhuja 1: Ja mä toivon, että mä onnistuin siinä, että no, mä tykkään tehdä vähän semmoisia mystisiä podcasteja, joissa on outoa ja sillä on kaikkia tunnelmia ja tällaisia.
-Puhuja 1: Mä pyrin niillä kuvaamaan semmoisia asioiden
-Puhuja 1: merkityksiä
-Puhuja 1: ja kutkuttavuutta ja jännittävyyttä.
-Puhuja 1: Toivon, että se ei
-Puhuja 2: juuri kuulosta
-Puhuja 2: tosi kiva kuunnella.
-Puhuja 2: Siinä oli kaikki ne musiikit ja hauskat tunnelma. Mä tykkäsin siitä kauheasti.
-Puhuja 2: Samaan aikaan mua
-Puhuja 2: jotenkin riepoo podcastien
-Puhuja 2: tyypillinen
-Puhuja 2: tarinankerrontapa, missä kaikesta
-Puhuja 2: pikkuasiastakin
-Puhuja 2: rakennetaan isoa ja semmoista mysteeriä.
-Puhuja 2: Mutta
-Puhuja 2: voittopuolisesti
-Puhuja 2: olin plussan puolella. Ehkä,
-Puhuja 2: kun myös tunnen Tuomas sinut niin hyvin.
-Puhuja 1: Hovi odotin, mitähän seuraavaksi keksit? Suosittelen, että kuunnelkaa podcast se on siis ilmaiseksi kuunneltavissa.
-Puhuja 1: Tämä osuus tästä on nyt siis mainos. Se on Hesarin äppissä ilmaiseksi kuunneltavissa ihan kaikille, niin
-Puhuja 1: Menkää sinne ja kuunnelkaa
-Puhuja 1: kaasuasiaa.
-Puhuja 1: Se on hauskempi kuin pelkkä kaasuus.
-Puhuja 1: Okei, lyhyesti tähän loppuun.
-Puhuja 1: Mitäs,
-Puhuja 1: kun
-Puhuja 1: lähdette kävelemään tästä senaatintorin poikki kohti oikeuskanslerin
-Puhuja 1: toimistoa ja sitten
-Puhuja 1: jännittää vähän, että minkälainen tuomio sieltä tulee, niin piipahdatte siinä sitten, ehkä siinä joku kesäterassi vielä pystyssä ja
-Puhuja 1: otatte siinä yhden kuplivan, mikä on tän kesäjuoma? Ehkä se on edelleen se Aperal spritz, sellaista. Ei tiedä.
-Puhuja 1: Tai hieö spritz, se oli ainakin viime kesän juoma.
-Puhuja 3: Mistäs rupeatte naapureille siinä terasassa? Mä varoitin tuossa jo etukäteen, että nyt tulee taas natsi hommaan.
-Puhuja 3: Mulla on tää nyt jotenkin taipumus. Mua kiinnostaa ihan hirveästi natsien
-Puhuja 3: maailma ja ne mielen liikkeet ja myös näiden uhrien ja kaikkien holokausti eri osapuolten inhimilliset
-Puhuja 3: tarinat.
-Puhuja 3: John of interest on vuodelta kaksituhatta kaksikymmentäkolme
-Puhuja 3: elokuvaa, jossa on silleen niinku
-Puhuja 3: tämmöinen väliä tosi
-Puhuja 3: perään eli
-Puhuja 3: Auschwitzin
-Puhuja 3: komentaja Rudolf Hössin kotielämää
-Puhuja 3: kuvataan siinä. Se on ihan maaginen se, miten se elokuva on rakenna. Siellä ollaan niitten hössien
-Puhuja 3: kotitaloudessa. Rouva pitää huolta
-Puhuja 3: lapsista ja palvelijat siellä pyörii ja kaikkea kivaa tapahtuu ja verhoja ihastellaan.
-Puhuja 3: Aidan takaa kuuluu laukauksia ja
-Puhuja 3: kaikenlaista huutoa ja muuta.
-Puhuja 3: Se on erittäin vaikuttavaa,
-Puhuja 3: pysäyttävä elokuva.
-Puhuja 3: Suosittelen tätä zone of Infrast. En tiedä onko se joku suomen kielen nimi?
-Puhuja 3: No, te olette kansainvälistä porukkaa, niin etsikää.
-Puhuja 2: Minäkin kuulimme, että Tuomas tai viime viikolla puhuu house of Dragonisteja.
-Puhuja 1: On
-Puhuja 2: Joo. Mä pystyin silti katsomaan tätä
-Puhuja 2: Oliko jaksoja kahdeksan vissiin vai seitsemän. Vai kahdeksan.
-Puhuja 2: Kuulin tämän sun suosituksesi
-Puhuja 2: viikko sitten. Silloin keksin, että mähän voin
-Puhuja 2: esimerkiksi sai kuunnella Podia, mutta näistä löytyy myös kirjallisia jaksoselastuksia.
-Puhuja 2: Ennen vikajaksoa
-Puhuja 2: luin, mitä jaksosta
-Puhuja 2: on sanottu.
-Puhuja 2: Mulle avautui se sarja ihan eri tavalla.
-Puhuja 1: Ymmärsin, mitä siinä tapahtuu? Mä olen päätynyt ajassa vuoteen kaksituhatta kymmenen, jolloin näitä kirjallisia ruvettiin tekemään.
-Puhuja 2: Joo, ja se
-Puhuja 2: kauden viimeinen jaksohan
-Puhuja 2: avautui mulle ihan eri tavalla kuin se olisi avautunut muuten. Mä suosittelen tämmöisiä jaksoselostuksiin.
-Puhuja 1: No niin, hyvä Marko.
-Puhuja 1: Mä suosittelen semmoista. Tää outo, mä tykkäsin tästä. Meillä
-Puhuja 1: toimitellaan sen vikat, että kun niin paljon lukee koko ajan kaikkea, niin sitten siihen jää,
-Puhuja 1: asiat ei enää tunnu jännittäviltä, kun ne on kuullu sata miljoonaa kertaa, mutta kerrankin löysin kirjan, joka oli aivan uutta,
-Puhuja 1: mitä helvettiä?
-Puhuja 1: Sen titteli oli semmoinen tämmöinen kuin seing like a state.
-Puhuja 1: Tämä tuli muistaakseni jossain, ehkä tekoäly suositteli.
-Puhuja 1: Tittelistä oli singleg a state tai joku tosi kuiva joku
-Puhuja 1: kaupunkikavoituksen
-Puhuja 1: opas tai sitten silleen postmodernia runoutta. Vähän niin kuin kutkuttiin, että mikä siellä on. Singly a state how certain skins to improve the human condition have failed
-Puhuja 1: on kirja, jonka on kirjoittanut
-Puhuja 1: Yalen yliopiston sosiologian professori James Cis God.
-Puhuja 1: Hän on tämmöinen professori, joka on tutkinut siis agraariyhteiskuntia
-Puhuja 1: ja muita, mutta hän on tämmöinen, että hän
-Puhuja 1: tutkii
-Puhuja 1: tavallaan valtion oikeutusta, että mitä
-Puhuja 1: valtio tekee ihmiselle.
-Puhuja 1: Tässä kirjassa käydään läpi tämmöistä hänen ajatusta, joka on todella kutkuttava,
-Puhuja 1: että
-Puhuja 1: itse asiassa mihin valtiot aina pyrkii. Ja valtiot
-Puhuja 1: voi
-Puhuja 1: tarkoittaa myös kuningasta
-Puhuja 1: jo joskus menneinä vuosina tai sitten nykyisiä demokraattisia valtioita.
-Puhuja 1: Ne pyrkii
-Puhuja 1: hallinnolliseen
-Puhuja 1: selkeyteen. Ne yrittää pakottaa
-Puhuja 1: läpi koko yhteiskunnan semmoista
-Puhuja 1: nimenomaan semmoista selkeyttä asioihin, että
-Puhuja 1: ihmisiä, paikkoja,
-Puhuja 1: metsiä, hehtaaria helpompi hallita.
-Puhuja 1: Tästä esimerkkinä esimerkiksi
-Puhuja 1: Syssukunimet, jotka tuo on pakotettu ihmisille.
-Puhuja 1: Kyläkonteksteissa,
-Puhuja 1: kun ihmiset oli kylissään, oli paljon järkevämpää, että mun nimi oli Tuomas Vesan poika, koska silloin mut erootti muista
-Puhuja 1: Tuomaksista ja kaikki tiesi Vesan niin, että no se on ton pojan. Se on kylän kontekstissa
-Puhuja 1: järkevä.
-Puhuja 1: Ja se oli Walessissa keskiajalla
-Puhuja 1: eräässä oikeudenkäynnissä,
-Puhuja 1: missä valtio oli silleen, että ei tämmöinen, se oli muistaakseni John Tuomaan poika. Sitten se oli joku aamun poika siihen päälle.
-Puhuja 1: Hänen nimi oli kolme
-Puhuja 1: nimeä, että sanottiin isä ja sanottiin isoisä. Ja valtio oli, että ei käy, vaan sulla pitää olla yksi sukunimi ja se olkoon sun kylän nimi. Koska se oli sille valtiolle järkevämpi, että sinä olet John tuosta kylästä.
-Puhuja 1: Kylästä. Siinä kylän kontekstissa on paljon järkevämpi, että niin, että sä oot ton ja sä oot ton ja ton.
-Puhuja 1: Toinen, missä valtio
-Puhuja 1: pakottaa tämmöistä hallinnollista
-Puhuja 1: selkeyttä
-Puhuja 1: paikallisiin tämmöisiin kaoottisiin
-Puhuja 1: yhteisöihin
-Puhuja 1: on esimerkiksi metsät.
-Puhuja 1: Metsien koko konsepti on keksitty 1800-luvulla
-Puhuja 1: Saksassa,
-Puhuja 1: jossa saksalaiset oli silleen, että sitten on aina taas paljon helpompi näitä ryteikkejä
-Puhuja 1: verottaa, kun joku ilmoittaa, että mitä puuta siellä on
-Puhuja 1: ja miten monta metriä ne metsät on, aarit, hehtaarit ja muut. Ennen metsiä
-Puhuja 1: ja varsinkin peltoja
-Puhuja 1: mitattiin esimerkiksi peltoja mitattiin, että montako lehmää sinne mahtuu. Se on paljon järkevämpi mittayksikkö.
-Puhuja 1: Montako lehmää mahtuu? Mutta saksalaiset pakotti, että nyt ruvetaan katsomaan aarreja ja hehtaareja ja sitten, että mikä siellä on se tärkein yksittäinen
-Puhuja 1: näin. Sitten tuli yhtäkkiä monta aarria, joo, heinäpeltoa.
-Puhuja 1: Ja tätä tapahtuu edelleen.
-Puhuja 1: Esimerkiksi Thaimaa
-Puhuja 1: valtio
-Puhuja 1: pakotti, että tästä
-Puhuja 1: eteenpäin patthin
-Puhuja 1: nimi on patthai
-Puhuja 1: ja sen resepti on tällainen ja sen jälkeen kaikki muut butthait, joita tehtiin miljoonilla eri tavoilla Thaimaassa, niin ne kuoli pois ja nykyään kaikki tekee sitä yhtä ja samaa butthaita.
-Puhuja 1: Mun mielestä tämä oli tosi kiinnostava. Hallinnollinen
-Puhuja 1: selkeys on se, mitä valtio
-Puhuja 1: pakottaa ihmisiin. Samalla se muuttaa ihmisten ympäristöä ja sosiologiaa.
-Puhuja 1: Okei,
-Puhuja 1: sitten ei kun.
-Puhuja 3: Siinä kaikki.
-Puhuja 1: Miten tämä meni tähän loppuun? Siinä kaikki tältä erää. Siinä kaikki tältä erää.
-Puhuja 1: Kiitos Salla Vuorikop. Kiitos. Kiitos Marko Junkkari. Kiitos. Minun nimi on Peletonkin äänen kuvaa ja kaiken muun muassa. Meille tekee tällä viikolla Janne Elkki ja kuullaan ensi viikolla. Heippa!
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 0: Helsingin
+Puhuja 0: Sanomat.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Urpapportti-podcastiin
+Puhuja 0: torstaina kaksimiljoonaa.
+Puhuja 0: Elokuuta vuonna kaksituhatta kaksikymmentäkuusi.
+Puhuja 0: Tämän viikon podcastissa keskustellaan
+Puhuja 0: esimerkiksi
+Puhuja 0: siitä, että Kokoomuksen.
+Puhuja 0: Mutta
+Puhuja 0: ehkä ennen kaikkea pääministeri Petteri Orpon tilanteesta vaalien alla, kun
+Puhuja 0: Helsinki Guarden
+Puhuja 0: hallitusskandaalista
+Puhuja 0: on ehkä päästy, mutta seuraavaksi on vuorossa niin sanottu Valmetin tapaus.
+Puhuja 0: Marko ja Sall on siihen perehtyneet perin pohjasta ja kertoo
+Puhuja 0: esimerkiksi mulle, että mikä se edes on.
+Puhuja 0: Kokoomus on luismassa gallupienkin mukaan. Persut siellä kutkuttelee
+Puhuja 0: heidän
+Puhuja 0: mahanpohjaansa.
+Puhuja 0: Onko mahdollista, että ennen
+Puhuja 0: tai siis tämmöiset
+Puhuja 0: epäilykset kähmäilystä ja epäasiallisesta suhmuroinnista ja kaveri diilaamisesta
+Puhuja 0: päätyisi pudottamaan Kokoomuksen
+Puhuja 0: seuraavasta hallituksesta.
+Puhuja 0: Keskustellaan siitä. Sen lisäksi puhutaan siitä, miten Suomen poliittinen
+Puhuja 0: intelligenssi
+Puhuja 0: on alkanut kuhista
+Puhuja 0: Tanskan mallista, joka siis tarkoittaa, että kissat on koiria ja demarit on persuja.
+Puhuja 0: Onko tämä Suomen tulevaisuus vai mistä on kyse?
+Puhuja 0: Toivottavasti myös puhutaan hetki siitä, että Suomessa on todennäköisesti useampi, mutta ainakin vähintään yksi Tuomas-niminen podcastin vetäjä, joka on totaalisen kyllästynyt siihen,
+Puhuja 0: että persoonjan sekä ilmestynyt nyt myös SDP:n
+Puhuja 0: pyrkimykseen
+Puhuja 0: tehdä näistäkin
+Puhuja 0: vaaleista maahanmuuttovaalit.
+Puhuja 0: Joten
+Puhuja 0: erityisesti kiitän Akavan puheenjohtajaa, joka edes yritti nostaa keskusteluun
+Puhuja 0: esimerkiksi
+Puhuja 0: julkisten alojen asiantuntijatyön
+Puhuja 0: tulevan katoamisen
+Puhuja 0: amerikkalaiservereille.
+Puhuja 0: Ajatus, jota ainakin yleisen selvityksen mukaan lähes puolet suomalaisista pitää todennäköisenä.
+Puhuja 0: Ja vielä puhutaan uudesta jännittävästä podcast-sarjasta,
+Puhuja 0: ei sisältäen Spoilereita
+Puhuja 0: podcast-sarjasta
+Puhuja 0: nimeltä menetetyt miljardit,
+Puhuja 0: jonka Salla ja varsinkin Marko
+Puhuja 0: on kuunnellut.
+Puhuja 0: Onko kyseessä kaasuteemainen
+Puhuja 0: haukutusfestivaali
+Puhuja 0: vai kaikkien aikojen paras taloussarja?
+Puhuja 0: Keskustellaan siitä.
+Puhuja 0: Luen tässä nyt viimeisimmän ilahduttavan viestin, joka tuli Benjaminilta
+Puhuja 0: tänään mun Instagram-inbox
+Puhuja 0: ja se kuuluu näin: Fortumbodi
+Puhuja 0: oli muuten ihan vitun hyvä. Bingetin
+Puhuja 0: sen päivässä lähes hengellisessä
+Puhuja 0: tilassa ja koin suurta tyhjyyttä, kun se
+Puhuja 0: loppui. Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljaisuuksien
+Puhuja 0: varalle.
+Puhuja 0: Mun nimi on Tuomas Weltomi. Kanssani täällä podcast-studiossa
+Puhuja 0: ovat
+Puhuja 0: politiikan toimittaja Helsingin Sanomissa, Marko Junkkari. Hei vaan Marko. Heisana. Mä oon just tullut Kuopiosta. Kuopiosta
+Puhuja 0: juuri
+Puhuja 0: junalta tähän studioon kävelet, Marki Unkkari.
+Puhuja 0: Helsingin Sanomissa
+Puhuja 0: vielä toistaiseksi
+Puhuja 0: tutkivien juttujen esiihminen
+Puhuja 0: Salla Vuorikoski. Hei vaan, Salla. Hei vaan. Mullakin on maakunnallista
+Puhuja 2: kerrottavaa ja itse asiassa murhetta.
+Puhuja 2: Kuulin juuri, Keskisuomalainen on skuupannut, että Pandan suklaan
+Puhuja 2: tuotanto loppuu
+Puhuja 2: Keski-Suomessa
+Puhuja 2: eli Vaajakoskella
+Puhuja 2: Jyväskylässä, josta ohi
+Puhuja 2: tehtaanmyymälästä
+Puhuja 2: ajan
+Puhuja 2: säännöllisesti.
+Puhuja 2: Aina pysähdytään.
+Puhuja 2: Lakritzin
+Puhuja 2: valmistus jatkui. Viedään se suklaantuotanto
+Puhuja 2: Viroa
+Puhuja 0: sinne. Tämä oli sun
+Puhuja 0: tämmöinen,
+Puhuja 0: mistä sä haluaisit puhua. Olisin halunnut oikeasti puhua, jos me ei oltaisi vakavasti oteta tuon uutiskirjekirchast.
+Puhuja 0: Olisin halunnut puhua hyvin lyhyesti teidän kanssa Alisa Laineosta.
+Puhuja 0: No voidaan puhua. No eiks vaan, katoittekaa se juoksu.
+Puhuja 2: Kyllä.
+Puhuja 1: Mun ei ole paras edes tiennyt katsoa sitä. Mä ajattelin ihan vaan sen taustalle.
+Puhuja 1: Ja sitten se lähti...
+Puhuja 1: Mä jumahdin siihen ihan täysin.
+Puhuja 0: Kun se lähti vetin sen kaulan ja sitten joutui miettimään niitä omia semmoisia...
+Puhuja 0: Miksi Alisa Vainio pärjää ja minä en, niin se johtuu siitä, että mä olin koko ajan ihan varma, että jotain kamalaa tässä tapahtuu. Miksi sä nyt noin ison kaulat? Otit siihen ihan aivan väärä. Nyt sä vain kuukaudet ja näin. Mutta ei.
+Puhuja 2: Mutta oli mahtava, kun sekä Ylentoimittaja
+Puhuja 2: että oliko... Outota tahma.
+Puhuja 0: Ihmiset voi tehdä todella isoja kämmejä.
+Puhuja 0: Siis silleen, että voi
+Puhuja 0: semmoista maata
+Puhuja 0: radaltaan
+Puhuja 0: suistavia kämmejä,
+Puhuja 0: joista niitä sivutaan sitten siinä
+Puhuja 0: podissakin.
+Puhuja 0: Mutta otetaan nyt tämmöiset hyvin ilmeiset, esimerkiksi
+Puhuja 0: vaikka joku Suomen Pisa-tulosten
+Puhuja 0: romahtaminen tai sitten ylipäätänsä sanotaan Suomen koulutuksen romahtaminen. Mun mielestä se, että Suomen
+Puhuja 0: Nokia
+Puhuja 0: meni
+Puhuja 0: maailman tärkeimmästä teknologiayhtiöstä,
+Puhuja 0: että silleen ei miksikään.
+Puhuja 0: Tosi isoja
+Puhuja 0: mokia voidaan tehdä.
+Puhuja 0: Ja se on kamalaa ja hirveää. Ja sitten siitä on tosi drastiset seuraukset.
+Puhuja 0: Mutta siitä ei ikinä jää semmoinen, että
+Puhuja 0: mitä tässä tapahtui?
+Puhuja 0: Kenen vastuulla tää oli, että näin ei kävisi?
+Puhuja 0: Ja okei mitä
+Puhuja 0: mä tavallaan omassa päässä ajattelen, että sen pitäisi mennä ja asiat ei toimi tietenkään näin. Mutta mä ajattelin, että se on silleen, että: Hei, jeppe,
+Puhuja 0: sun vastuulla oli tää että kaikki meidän rahat ei häviä ja kaikki meidän rahat nyt on hävinnyt.
+Puhuja 0: Sen takia me annetaan sulle kenkää,
+Puhuja 0: että ei millään pahalla. Niinkuin sä varmasti yrität parhaasi
+Puhuja 0: mutta
+Puhuja 0: sulle maksetaan silleen yksi pilkku kaksi miljoonaa euroa siitä, että näin ei kävisi. Joten ei meillä ole mitään muuta vaihtoehtoa kuin sille antaa sulle monoa. Että onnea seuraavan koitoksen.
+Puhuja 0: Ja sitten siihen kun vertaa se, että vaikka tässä Fortmin tapauksessa ja nyt tää liittyy Fortmin toimitusjohtaja Markus Rauramon, joka oli oleellisesti
+Puhuja 0: mukana näitä kauppoja tekemässä.
+Puhuja 0: Musta tuntuu niin oudolta, että voi tehdä yhden semmoisen pienen, mutta ihan oikean maan
+Puhuja 0: historian
+Puhuja 0: mittavimmat tappiot.
+Puhuja 0: Ja silti vaan jatketaan niinku, että: No niin, mitäs meillä on lounaalla tuolla
+Puhuja 0: alakerrassa? Että se on out. Silvy jotain ihan todella, todella out. Mikä oli siinä
+Puhuja 2: häiritsevää,
+Puhuja 2: ajatuksia nostattavaa on se, että miten voimallisesti
+Puhuja 2: vielä siinä tai siinä vaiheessa, kun tappiot
+Puhuja 2: tuli niskaan,
+Puhuja 2: jotenkin annettiin ymmärtää, tai itse asiassa ihan suoraan sanottiin, että tätä ei olisi voinut arvata.
+Puhuja 2: Tämä tuli aivan yllätyksenä, että miten sä Putin nyt näin. Eihän Uniperin
+Puhuja 2: kaasua ole koskaan katkaistu, mikä lienee totta
+Puhuja 2: samaan aikaan, kuin totta se, että Venäjä on katkonut katkottu. Sieltä se täältä, kahdeksantoista kertaa
+Puhuja 2: aiemmin. Mitä sä ajattelit siitä, että oliko
+Puhuja 2: se yritys
+Puhuja 2: kirjoittaa siinä sitä tarinaa, sitä yleistä tarinaa, jonka kaikki sitten ajattelee, että niin, niin joo, mutta kun se oli... Sehän olisi voinut olla tosi hyvä ja olikin ja tuli osinkoa jonkun aikaa se uniperhomma.
+Puhuja 0: Melkein saattoi olla. Melkein saattoi olla.
+Puhuja 2: Olihan se ihan järkyttävä, että yhtäkkiä puutti hyöky. Yksi innoittaja on ollut
+Puhuja 0: Steve Jobs tässä
+Puhuja 0: Applen perustaja.
+Puhuja 0: Siitä on semmoinen legenda. Mä en löytänyt klippiä siitä, että se ei ole ikinä videoista sanonut. Tää on tämmöistä Apple-legendaa.
+Puhuja 0: Siinä vaiheessa, kun Applessa joku johtaja
+Puhuja 0: pärjää niin hyvin, että pääsee johtoryhmään
+Puhuja 0: Steve Jobsin siihen sisäpiiriin.
+Puhuja 0: Siinä vaiheessa Steve Jobs
+Puhuja 0: pyytää hänet, että tukee mun konttorilla ja Steve Jobs kertoo tämmöisen tarinan, että okei,
+Puhuja 0: mulle kävi sillä tavalla, että mun roskista ei oltu tyhjennetty.
+Puhuja 0: Ja sitten mä kutsuisin sen siistijään tänne mun konttoriin ja mä kysyin, että hei
+Puhuja 0: Steve,
+Puhuja 0: että okei, Steve varmaan vaikka Bencen,
+Puhuja 0: että
+Puhuja 0: miksi tämä ei ole tyhjennetty tätä roskista? Ja sitten tämä siistiä sanoi, että joo, mä en pystynyt tyhjentämään sitä, koska tuo ovi oli lukossa illalla, kun olin täällä duunissa, että mä en saanut sitä auki, niin mä en voinut tyhjentää. Siihen Steve oli silleen, että okei, no niin, hei hyvä, kaikkihan on fine,
+Puhuja 0: että ymmärrän ovi oli lukossa ja se, että voi mennä siitä läpi. Ja näin.
+Puhuja 0: Ja sitten jossain vaiheessa tän siistijän ja Steve Jobsin välillä,
+Puhuja 0: niin kaikilla näillä syillä
+Puhuja 0: ne menettää merkityksensä.
+Puhuja 0: Steve Jobs ei voi ikinä olla silleen, että No hei, että tää Apple nyt on aivan perseestä, koska naapuri oli parempi tai että
+Puhuja 0: me nyt hävittiin kaikki nämä rahat, koska silleen tätä ja tuota tapahtuu.
+Puhuja 0: Jossain vaiheessa Step Jobsin pointti oli se, että johtoryhmä oven kohdalla kaikki syyt lakkaa merkitsemästä. Sen jälkeen sä joko onnistut siinä duunissa tai sitten sä et onnistu siinä duunissa.
+Puhuja 0: Jos sä onnistut, niin ai että bonareita säteilee muita. Jos et, niin tulee kenkään välittömästi. Se oli ehkä se, mikä mulla oli päässä ja sitten vähän semmoinen epäilys Suomessa ei varmaan hommat toimi näin, että se on aivan sama onnistuuko vai etkö onnistu. Ei sulle käy kuitenkaan mitenkään. Tämä on oudompia suhmuraisempi tämä homma. Ja sitten se ehkä lähti.
+Puhuja 2: Miten sinä ne utskaupat silloin?
+Puhuja 2: Käännyin katsomaan Markon, koska sinähän olit nuorena toimittajana silloin. Oliko se sen Sonerajutun kanssa? Tai kertaan vähän, mikä se oli? Nythän mainitaankin siinä. Niin mainitaankin.
+Puhuja 2: Se oli. Sittenhän mainitaankin siinä. Niin mainitaan. Niin mainitaankin. Itse asiassa seurasin. Olin siis talouskoulutuksessa ja seurasin
+Puhuja 1: tätä
+Puhuja 1: teknologiapuolta ja myös Soneraaa. Muistan
+Puhuja 2: seuranneeeni. Kerro vähän kaikkea muista, mikä oli
+Puhuja 1: Uuntkauppa. Se oli silloin vuonna kaksituhatta
+Puhuja 1: Sonera,
+Puhuja 1: nykyinen Telian
+Puhuja 1: yksi pikku osa.
+Puhuja 1: Silloin oli Nokian huuma ja
+Puhuja 1: kännykkähuuma.
+Puhuja 1: He päättivät silloin turvelle ja markkinoille
+Puhuja 1: 3G-puhelimia
+Puhuja 1: ja
+Puhuja 1: eri maat toimimaan vähän eri tavalla, miten nämä 3G taajuudet
+Puhuja 1: taivaalla
+Puhuja 1: jaetaan teleoperaattoreille.
+Puhuja 1: Suomi on ilmaiseksi kaikille halukkaille
+Puhuja 1: ja valitsi joille annetaan ilpuksia.
+Puhuja 1: Pääosin meni kotimaisille, mutta Saksa päätti, että ne oli huutokauppainen
+Puhuja 1: taajuudet.
+Puhuja 1: Sonera päätti, oli voimansa tunnossa.
+Puhuja 1: Siihen aikaan Soneralla oli tällainen
+Puhuja 1: Smore thust, joka teki
+Puhuja 1: tällaista jotain tietoturvaa, jonka arvoa oli jotain tsiljardia. Sitten oli tällainen kännykkäportaali
+Puhuja 1: Zed, jonka arvo oli tsiljardia. Voimassatunnossa
+Puhuja 1: tänne osallistuivat huutokauppaan.
+Puhuja 1: Siinä toteutui
+Puhuja 1: taloustieteen, sanotaan, että voittajan kirous.
+Puhuja 1: Sonera voitti sen kilpailun, mutta samaan aikaan se hävisi, kun se maksoi tolkuttomasti liikaa niissä taajuuksista. Ja ne
+Puhuja 0: olivat ennen Fortumia
+Puhuja 0: Suomen historian suurimpana. Olisiko se ollut kolme ja puoli dDMBA? Mielestäni se oli päälle neljä ja puoli kolme. Jotain tällaista.
+Puhuja 1: Ja
+Puhuja 1: tämä tällainen mobiili-ihmeen
+Puhuja 1: naurukkaan, niin ihmeellistä...
+Puhuja 1: Kaikki sijoittajien...
+Puhuja 1: Kaikki
+Puhuja 1: kuivatti täysin tämä internet.
+Puhuja 1: Totco
+Puhuja 1: kuplaboxhti.
+Puhuja 1: Sonera,
+Puhuja 1: niillä oli sylissä neljän miljardin taajuudet.
+Puhuja 1: Ei ollut
+Puhuja 1: mikään laskelma,
+Puhuja 1: miten ne pystyisivät niitä
+Puhuja 1: muuttamaan rahaksi. Loppujen lopuksi ne joutuivat alaskirjaamaan ne arvottomina.
+Puhuja 1: Se on ihan puhdasta tappiota.
+Puhuja 0: Mun mielestä se pointti on just toi, että
+Puhuja 0: se on tosi outoa, että tuohon voidaan reagoida.
+Puhuja 0: Esimerkiksi mediassa näkee sitä ajatusta, että no hei,
+Puhuja 0: koska minä
+Puhuja 0: vähän lukiopohjalta
+Puhuja 0: tähän lehteen juttua kirjoitteleva toimittaja
+Puhuja 0: koska minä en olisi voinut
+Puhuja 0: aavistaa, että mitä Putin tekee tai koska minä en tiedä, miten Saksan untmarkkinat
+Puhuja 0: toimii
+Puhuja 0: niin sitten ei oleteta, että jollain valtavan firman kovapalkkaisella
+Puhuja 0: toimarilla pitäisi olla yhtään sen parempia tietäjä kuin jollain ihan random
+Puhuja 0: jäppisellä jostain Vantaalta.
+Puhuja 0: Se on tosi outoa.
+Puhuja 0: Mun mielestä liittyy osittain siihen, että Suomen mediassa, ehkä maailman mediassa ylipäätänsä on vähän semmoista taipumusta ajatella, että meidän tehtävä on syyllistää poliitikkoja
+Puhuja 0: ihan kaikesta.
+Puhuja 0: Esimerkiksi kaikilla päällimmäisenä
+Puhuja 0: mielessä
+Puhuja 0: Fortum-kaupoista, että Tytti Tuppurainenhan
+Puhuja 0: sehän sen kaiken sai aikaan ja surkein
+Puhuja 0: Vätyskuvatus,
+Puhuja 0: joka kaiken pilasi. Vaikka Tytti Tuppurainen oli tullut tyyliin muutama kuukautta ennen kuin homma meni vituksi, se oli tullut omistajaohjausministeriksi.
+Puhuja 0: Siinä on joku outo
+Puhuja 0: suhtautuminen, jos ajatellaan ihan
+Puhuja 0: korkeimman
+Puhuja 0: bisneseliitin
+Puhuja 0: vastuuta
+Puhuja 0: Suomessa.
+Puhuja 0: Ei vastuuta sille mitään yleishumanismia,
+Puhuja 2: vaan vastuuta siitä firmasta ja siitä, että ne hommat toimii. Mutta siinä on just se myös se kiinnostus. Tietenkin ne, jotka eniten syyttää Tytti-Tuppurasta,
+Puhuja 2: niin on arvatenkin tiettyjen muiden puolueiden
+Puhuja 2: kiihkeitä kannattajia. Siihen tulee nää poliittiset intohimot
+Puhuja 2: mukaan. Voihan sitä aina pohtia, että no ne, jos se Tytti Tuppurainen olisi neuvotellut siellä vähän paremmin Saksan valtion edustajan kanssa, niin olisi vähän parempi diili. Mutta ihan valtavat tappiot olisi tullut
+Puhuja 2: No, ehkä mä sen tunnistaisin, mutta suurin osa ei tunnista sitä.
+Puhuja 2: Se ei tavallaan säteile mihinkään se
+Puhuja 2: ihminen ja sille
+Puhuja 2: vastuun sälyttäminen.
+Puhuja 2: Ajattelitko
+Puhuja 2: koskaan sitä, että mitä jos vaan antaisi anteeksi?
+Puhuja 2: Nyt kävi näin ja eniten rahoja sä oot takaisin kaatunut maitoa ja Markus varmaan yritti parhaansa. Otti riskiä ja riskit toteutu, semmoista käy.
+Puhuja 2: Miksi sä haluat päitä pölkyllä?
+Puhuja 0: Mä en halua päitä pölkyllä, mutta mä haluaisin tehdä erilaisia. Mä haluaisin, että se kuulostaa täysin erilaiselta kuin kaikki muu suomalainen
+Puhuja 0: talouskeskustelu.
+Puhuja 0: Mä haluaisin, että se ei yhtään kuulosta silleen, että mitä forttimista tai uniperista on kirjoitettu tai sanottu tai ajateltu.
+Puhuja 0: Toivon, että onnistuin siinä, että tykkään tehdä vähän semmoisia mystisiä podcasteja, joissa on outoa ja siellä on kaikkia tunnelmia ja tällaisia.
+Puhuja 0: Pyrin niillä kuvaamaan asioiden
+Puhuja 0: merkityksiä
+Puhuja 0: ja
+Puhuja 0: kutkuttavuutta ja jännittävyyttä.
+Puhuja 0: Toivon, että se ei juuri
+Puhuja 0: kuulosta
+Puhuja 1: hauska tunnelma.
+Puhuja 1: Tykkäsin siitä
+Puhuja 1: kauheasti, mutta samaan aikaan mua
+Puhuja 1: jotenkin
+Puhuja 1: riemoo podcastien
+Puhuja 1: tyypillinen tarinankerrontapa,
+Puhuja 1: missä
+Puhuja 1: pikkuasiastakin
+Puhuja 1: rakennetaan isoa ja semmoista mysteeriä.
+Puhuja 1: Mutta mä, sanotaan, että voittopuolisesti olin plussan puolella. Musta oli hauska, että mä jotenkin...
+Puhuja 1: Ehkä, kun mä myös tunnen tuomassa, niin hyvin.
+Puhuja 0: Munke odotin, mitähän seuraavaksi keksit? No suosittelen, että kuunnelkaa. Podcast on ilmaiseksi
+Puhuja 0: kuunneltavissa. Hesarin. Tää on, tämä osuus tästä on nyt siis mainos. Se on Hesarin äppissä ilmaiseksi kuunneltavissa ihan kaikille, niin
+Puhuja 0: menkää sinne ja kuunnelkaa
+Puhuja 0: kaasuasiaa.
+Puhuja 0: Se on hauskempi kuin pelkkä kaasu.
+Puhuja 0: Okei,
+Puhuja 0: lyhyesti tähän loppuun.
+Puhuja 0: Mitäs,
+Puhuja 0: kun
+Puhuja 0: lähdette kävelemään tästä Senaatintorin poikki kohti oikeuskanslerin
+Puhuja 0: toimistoa ja
+Puhuja 0: sitten jännittää vähän, että minkälainen tuomio sieltä tulee. Piipahdatte
+Puhuja 0: siinä sitten ehkä siinä joku kesäterassi vielä pystyssä ja otatte siinä yhden
+Puhuja 0: kuplivan,
+Puhuja 0: mikä on tän kesäjuoma? Ehkä se on edelleen se AperO-sprids,
+Puhuja 0: niin sellaista.
+Puhuja 0: Tai Hugo sprits, se oli ainakin viime kesänjuoma.
+Puhuja 2: Mistäs rupeatte naapureille siinä perässä? Mä varoitin tuossa jo etukäteen, että nyt tulee taas natsi hommaan,
+Puhuja 2: että mulla on tää nyt jotenkin taipumus.
+Puhuja 2: Mua kiinnostaa ihan hirveästi natsien
+Puhuja 2: maailma ja ne mielen liikkeet ja myös näiden uhrien ja kaikkien holokausti eri osapuolten inhimilliset tarinat.
+Puhuja 2: John of Interest on vuodelta kaksituhatta kaksikymmentäkolme
+Puhuja 2: elokuvaa, jossa on
+Puhuja 2: vähän väliä tosi
+Puhuja 2: perään.
+Puhuja 2: Auschwitzin
+Puhuja 2: komentaja Rudolf Hössin kotielämää
+Puhuja 2: kuvataan siinä. Se on ihan maaginen se, mitä se elokuva on rakenna. Siellä ollaan niitten hössien
+Puhuja 2: kotitaloudessa.
+Puhuja 2: Rouva pitää huolta
+Puhuja 2: lapsista ja palvelijat siellä pyörii ja kaikkea kivaa tapahtuu ja verhoja ihastellaan.
+Puhuja 2: Aidan takaa kuuluu laukauksia ja
+Puhuja 2: kaikenlaista huutoa ja muuta. Se
+Puhuja 2: on erittäin vaikuttava, pysäyttävä elokuva.
+Puhuja 2: Suosittelen
+Puhuja 2: tätä Zone of Infrast. En tiedä onko se joku suomen kielen nimi?
+Puhuja 2: No, te olette kansainvälistä
+Puhuja 2: porukkaa, niin etsikää.
+Puhuja 1: Minäkin kuulimme, että Tuomas tai viime viikolla puhua house of Dragonista.
+Puhuja 1: En ehkä tue tätä Tuomaksen viime viikosta
+Puhuja 1: suositusta, koska mäkin katsoin sen.
+Puhuja 1: Olen katsonut aikasemmatkin kaudet, mutta ongelma näissä on näiden kausien välitöiden pitkään, enhän mä enää muista yhtään, mitä siinä on tapahtunut. Musta
+Puhuja 1: se oli täysin mahdoton pysyä kärryillä, ketä ne kaikki tyypit on ja mitä nämä on
+Puhuja 1: nämä eri kansallisuudet siellä ja näin. Tämäkin targereeneilla
+Puhuja 0: on kaikilla sama nimi kuin Icond, diime on buycan vaiycan,
+Puhuja 0: kaikkien nimi on sama.
+Puhuja 1: Vai
+Puhuja 1: kuunnella
+Puhuja 1: Podia, mutta hänestä löytyy myös kirjallisia jaksoselostuksia.
+Puhuja 1: Ennen vikajaksoa
+Puhuja 1: luin, mitä niistä jaksosta on sanottu.
+Puhuja 1: Mulle avautui se sarja ihan eri tavalla.
+Puhuja 1: Ymmärsin, mitä siinä tapahtuu.
+Puhuja 0: Päätynyt ajassa vuoden kaksituhatta kymmenen, jolloin näitä ruvettiin tekemään näitä kirjallisia.
+Puhuja 1: Joo, ja se
+Puhuja 1: kauden viimeinen jaksohan
+Puhuja 1: avautui mulle ihan eri tavalla kuin se olisi avautunut muuten. Mutta mä suosittelen tämmöisen jaksoselostuksen. No niin, hyvä Marko.
+Puhuja 0: Mä suosittelen semmoista. Tää on outo. Mä tykkäsin tästä.
+Puhuja 0: Meillä toimitellaan se vika, että kun niin paljon lukee koko ajan kaikkea, niin asiat
+Puhuja 0: ei enää tunnu jännittävältä, kun ne on kuullu sata miljoonaa kertaa. Mutta kerrankin löysin kirjan, joka oli aivan
+Puhuja 0: uutta. Mitä helvettiä?
+Puhuja 0: Sen titteli oli semmoinen tämmöinen kuin seing like a state.
+Puhuja 0: Tämä tuli muistaakseni jossain, ehkä tekoälyä suositteli.
+Puhuja 0: Tittelistä tämä oli singly a state. Tämä on joko tosi kuiva joku kaupunkikavoituksen
+Puhuja 0: opas tai sitten silleen postmodernia runoutta. Vähän niin kuin kutkuttiin, että mikä siellä on. Sing like a state how certain skins to improve the human condition have feiled
+Puhuja 0: on kirja, jonka on kirjoittanut
+Puhuja 0: Yalen yliopiston sosiologian professori James Cis Scott.
+Puhuja 0: Hän on tämmöinen professori, joka on tutkinut agraariyhteiskuntia
+Puhuja 0: ja muita. Hän on tämmöinen,
+Puhuja 0: että hän
+Puhuja 0: tutkii tavallaan
+Puhuja 0: valtion oikeutusta,
+Puhuja 0: että mitä valtio tekee ihmiselle.
+Puhuja 0: Tässä kirjassa käydään läpi tämmöistä hänen ajatusta, joka on todella kutkuttava, että itse
+Puhuja 0: asiassa mihin valtiot aina pyrkii? Ja valtiot on silleen niinku, voi tarkoittaa myös kuningasta
+Puhuja 0: jo joskus mäennä vuosina tai sitten nykyisiä demokraattisia valtioita.
+Puhuja 0: Ne pyrkii
+Puhuja 0: hallinnolliseen
+Puhuja 0: selkeyteen.
+Puhuja 0: Ne yrittää pakottaa
+Puhuja 0: läpi koko
+Puhuja 0: yhteiskunnan nimenomaan
+Puhuja 0: semmoista
+Puhuja 0: selkeyttä asioihin, että
+Puhuja 0: ihmisiä,
+Puhuja 0: paikkoja, metsiä, hehtaaria on helpompi hallita.
+Puhuja 0: Tästä esimerkkinä esimerkiksi
+Puhuja 0: Syssukunimet, jotka tuo on pakotettu ihmisille.
+Puhuja 0: Kyläkontekstissa,
+Puhuja 0: kun ihmiset oli kylissään, oli paljon järkevämpää, että mun nimi oli Tuomas Vesanpoika,
+Puhuja 0: koska silloin mut erotti muisto
+Puhuja 0: Tuomaksista ja kaikki tiesi Vesan niin, että sinne se on tuon pojan. Se on kylän kontekstissa
+Puhuja 0: järkevä. Ja se oli Walesissa eräässä
+Puhuja 0: keskiajalla eräässä oikeudenkäynnissä,
+Puhuja 0: missä valtio oli silleen, että ei tämmöinen, se oli muistaakseni John Tuomaan poika ja sitten se oli joku aapon poika siihen päälle.
+Puhuja 0: Hänen nimi oli kolme nimeä,
+Puhuja 0: että sanottiin isä ja sanottiin isoisä. Ja valtio oli silleen, että ei käy, vaan sulla pitää olla yksi sukunimi ja se olkoon sun kylän nimi. Koska se oli sille valtiolle järkevämpi, että niin, että sinä on John tuosta kylästä. Siinä kylän kontekstissa on paljon järkevämpi, että niin, että sinä olet ton ja
+Puhuja 0: paljon järkevää, että niin, että sä oot on ja sä oot ton ja ton. Toinen,
+Puhuja 0: missä
+Puhuja 0: valtio pakottaa tämmöistä hallinnollista
+Puhuja 0: selkeyttä
+Puhuja 0: paikallisiin tällaisiin kaoottisiin
+Puhuja 0: yhteisöihin, on esimerkiksi
+Puhuja 0: metsät. Metsien koko konsepti on keksitty 1800-luvulla
+Puhuja 0: Saksassa,
+Puhuja 0: jossa saksalaiset oli silleen, että sitten on aina taas paljon helpompi näitä ryteikköjä verottaa, kun joku ilmoittaa, että mitä puuta siellä on ja
+Puhuja 0: miten monta metriä ne metsät on, aarit, hehtaarit ja muut. Ennen metsiä ja varsinkin peltoja
+Puhuja 0: mitattiin, että
+Puhuja 0: montako lehmää sinne mahtuu. Se on paljon järkevämpi mittayksikkö.
+Puhuja 0: Montako lehmää mahtuu? Mutta saksalaiset pakotti, että nyt ruvetaan katsomaan aarreja, hehtaareja ja sitten, että mikä siellä on se tärkein yksittäinen näin. Sitten tuli yhtäkkiä monta aarria, joo, heinäpeltoa.
+Puhuja 0: Tätä tapahtuu edelleen. Esimerkiksi
+Puhuja 0: Thaimaa valtio
+Puhuja 0: pakotti, että tästä eteenpäin patthin,
+Puhuja 0: nimi on patthai
+Puhuja 0: ja sen resepti on tällainen.
+Puhuja 0: Ja sen jälkeen kaikki muut patthait, joita tehtiin miljoonilla eri tavoilla Thaimaassa, niin ne kuoli pois ja nykyään kaikki tekee sitä yhtä ja samaa patthaita.
+Puhuja 0: Mun mielestä tää oli tosi kiinnostava. Hallinnollinen selkeys on se, mitä valtio pakottaa ihmisiin. Samalla se muuttaa ihmisten ympäristöä ja sosiologiaa
+Puhuja 0: ja
+Puhuja 0: Okei, sitten
+Puhuja 0: ei kun.
+Puhuja 0: Siinä kaikki. Siinä kaikki. Miten tämä meni tähän loppuun? Siinä kaikki tältä erää. Siinä kaikki tältä erää.
+Puhuja 0: Kiitos Salla Vuorkoski. Kiitos. Kiitos Marko Junkkari. Kiitos. Minun nimi on tainnut, että on minun mahtava. Meille tekee tällä viikolla Janne Elkki.
+Puhuja 0: Kuullaan ensi viikolla. Heippa!
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Menetko suuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään, kenties
+Puhuja 0: maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

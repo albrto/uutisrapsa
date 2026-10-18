@@ -9,12 +9,13 @@ Puhuja 0: Marko Salla ja muut kumppanit palaavat studioon siis ensi viikolla.
 Puhuja 0: Vihaajat voit siis palata ensi viikolla linjoille faneille. Kiitos kesästä jo tässä vaiheessa.
 Puhuja 0: Minä olen Helsingin Sanomien uutisdeskin toimitussihteeri Rasmus Elaniemi.
 Puhuja 0: Kanssani täällä sanatalossa ovat kesätiimin tutut tähdet. Nimittäin talouden ja politiikan toimittaja Hanna Havusta.
-Puhuja 1: Viikon siellä,
+Puhuja 0: Tervehdys menossa huomenna
+Puhuja 1: viikon siellä,
 Puhuja 1: missä
 Puhuja 1: Johnnilta pitää syödä.
-Puhuja 1: Millaista siellä oli 70-luvulla. Mikä on sun suotekkiasia
+Puhuja 2: Millaista siellä oli 70-luvulla. Mikä on sun suotekkiasia
 Puhuja 2: yYA-ajassa?
-Puhuja 1: Kyllä mä tykkään tällaisesta gekkosmaisuudesta
+Puhuja 1: Kyllä mä tykkään aika tällaisesta gekkosmaisuudesta
 Puhuja 1: aika paljon ja kaikista saunahommista.
 Puhuja 1: Saunakokouksista.
 Puhuja 1: Siitä, kun kutsutaan
@@ -23,10 +24,10 @@ Puhuja 0: Some ja audiotiimintoimittaja
 Puhuja 0: Helmi Sun, moikka. Hei vain. Onko Kekkosessa ja Stubissa paljon samaa?
 Puhuja 3: Ainakin
 Puhuja 3: silmälasien
-Puhuja 0: he jäävät. Tulipa nopeasti vastaan. Joitain asioita ajattelee joka päivä. Mäkin olin silleen, että miten poikailta. Miten ulkomaantoimittaja Johnnittelee Johnniin?
-Puhuja 0: Voiko vielä puhua Helsingin hengestä?
-Puhuja 2: Kyllähän
-Puhuja 2: tässä huoneessa vähintäänkin tiivistyy tällainen
+Puhuja 3: jäävät. Tulipa nopeasti vastaan. Joitain asioita ajattelee joka päivä. Mäkin olin silleen, että miten poikailta. No
+Puhuja 0: mites ulkomailtatoimittaja Johnnhelin?
+Puhuja 0: Voiko vielä puhua Helsingin Hengestä?
+Puhuja 2: Kyllähän tässä huoneessa vähintäänkin tiivistyy tällainen
 Puhuja 2: Helsingin
 Puhuja 2: hengen rakastava ja iloinen vapputunnelma.
 Puhuja 2: Todellisuudessa
@@ -35,7 +36,8 @@ Puhuja 2: tuolla huomisessa kokouksessa nähdään. Rasmus Elämia, mitä tämä
 Puhuja 2: toimituksessa.
 Puhuja 2: Millaisia tunteita se teissä herättää? Kesä
 Puhuja 0: on kuuma, mukavaa. Sä et ole nyt lämpimät, niin nyt on kiva lähteä kesälaitumille.
-Puhuja 0: Mun mielestä rapsaa on kiva tehdä. Kiitos siitä teille jo tässä vaiheessa. Kiitos, on ollut tosi kivaa. Kuin myös. Kyllä. Olen ollut ihan pihalla, mutta onneksi olette paikanneet, mitä siellä tapahtuu. Editoin ja julkaisevat ja otsikoin.
+Puhuja 0: Mun mielestä rapsaa on kiva tehdä. Kiitos siitä teille jo tässä vaiheessa. Kiitos, on ollut tosi kivaa. Kuin myös.
+Puhuja 0: Kyllä. Olen ollut ihan pihalla, mutta onneksi olette paikanneet, mitä siellä tapahtuu. Editoin ja julkaisevat ja otsikoin.
 Puhuja 0: Te tietysti substanssistakin, niin se on tehnyt huomattavasti helpompaa. Kyllä.
 Puhuja 0: Tällä viikolla
 Puhuja 0: tehdään vielä ihan kunnon jakso koitetaan pysyä asiassa
@@ -73,7 +75,8 @@ Puhuja 0: Hanna teit Artun haastattelun, kerro vähän siitä.
 Puhuja 1: Joo, oli tosi mielenkiintoista
 Puhuja 1: tehdä haastattelu Artun kanssa,
 Puhuja 1: Koska tämä oli ainakin minulle henkilökohtaisesti ensimmäinen
-Puhuja 1: kerta, että puhun jonkun kanssa, joka on konkreettisesti lähiaikoina
+Puhuja 1: kerta, että puhun jonkun kanssa, joka on konkreettisesti
+Puhuja 1: lähiaikoina
 Puhuja 1: lähdössä sotaan.
 Puhuja 1: Oli todella mielenkiintoista
 Puhuja 1: kuulla siitä, millaisia ajatukset hänellä on.
@@ -107,7 +110,7 @@ Puhuja 2: asia sun pukeutumisessa,
 Puhuja 2: joka
 Puhuja 3: osoittaa sun kuuluvan tiettyyn ryhmään. Mutta sitä olin kans just sanomassa,
 Puhuja 3: että en ole mitenkään dissaamassa
-Puhuja 3: mitään tekemistä, vaan tämähän antaa mun kaltaisille ihmisille just mahdollisuuden avaa ovi, katsoa mitä siellä tapahtuu ja ottaa kaapissa about senmistään vaatteet.
+Puhuja 3: mitään tekemistä, vaan tämähän antaa mun kaltaisille ihmisille just mahdollisuuden avaa ovi, katsoa, mitä siellä tapahtuu ja ottaa kaapissa about seistään vaatteet.
 Puhuja 3: Pakko tälleen vasta itsensä ilmaisusta
 Puhuja 3: pakko heittää havainto
 Puhuja 3: vielä.
@@ -129,7 +132,7 @@ Puhuja 3: meemipaitaa
 Puhuja 3: ihmisellä päällä.
 Puhuja 3: Arvostin sitä hetkeä, kun olin silleen, että mitäköhän tämä kertoo nyt hänestä? Miten hän tuo persoonansa iltaan Irmia. Siis ihan ok. Tämän
 Puhuja 3: avulla? Tää on jäänyt hyvin mulla
-Puhuja 3: ainakin paitsi jo nyt, että en oo nähnyt pitkään aikaan jotain näin tyylikästä. Eikö mun kaveriin lähde, että just kuvia sen kummiserästään, jolla oli joku
+Puhuja 3: ainakin paitsi jo nyt, että en ole nähnyt pitkään aikaan jotain näin tyylikästä. Eikö mun kaveriin lähde, että just kuvia sen kummiserästään, jolla oli joku
 Puhuja 2: samanlainen tosi pieni paita ja hän myös käyttäytyy
 Puhuja 2: äärimmäisen setäisesti.
 Puhuja 2: Kyllä siis pukeutuminen
@@ -140,7 +143,7 @@ Puhuja 2: miesten pukeutumisesta. Ja ensinnäkin tietty muotia tyyli on kaksi hy
 Puhuja 2: ajatonta. Ja siis se usein vaan liittyy
 Puhuja 2: pukeutumiseen.
 Puhuja 2: Mutta myös tähän SUOMI-juttuun
-Puhuja 2: liittyen se, että tai siis mun suusta puhumaan suuri juttu liittyen se, että... Setä kerto. Se, että pukeutuminenhan on
+Puhuja 2: liittyen se, että tai siis minun suusta puhumaan suuri juttu liittyen se, että... Setä kerto. Se, että pukeutuminen on
 Puhuja 2: jaettu kulttuurinen kieli. Ja me kaikki ymmärretään suunnilleen, mitkä asiat näyttää hyvältä sen takia, koska meillä on sellainen kulttuurinen ymmärrys
 Puhuja 2: siitä, mitkä asiat sopii yhteen.
 Puhuja 2: Esimerkiksi, jos sulla
@@ -167,8 +170,8 @@ Puhuja 2: pilkallaan. Tämä ei ole ollut kehu.
 Puhuja 1: Mutta aika synkkyys kuva.
 Puhuja 1: Jos
 Puhuja 1: kuvataan Halmark-elokuvan.
-Puhuja 1: Eli Halmark tekee semmoisia...
-Puhuja 1: Hei, jotka eivät tiedä.
+Puhuja 1: Eli Halmark tekee
+Puhuja 1: semmosia... Hei, jotka eivät tiedä.
 Puhuja 1: Siis
 Puhuja 1: sellaisia ihania asuja, että kuvitelkaa sellainen jouluiisa
 Puhuja 1: ympäristö, missä tulee mies
@@ -179,13 +182,13 @@ Puhuja 1: paita. Ja sitten se on silleen, että...
 Puhuja 1: Urani
 Puhuja 1: nen-fanelit.
 Puhuja 1: Juu, siinä on se surullinen paita. Nainen on sitten uraninen
-Puhuja 3: ja
+Puhuja 1: ja
 Puhuja 1: naise on sille. Nainen muutti maalle. Nainen muutti maalle. Nainen muutti maalle. Nainen muutti
 Puhuja 1: tulee. Jolloin on jouluuusifarmi.
 Puhuja 2: Ihan on joulukuussifarmi. Ihan auttaa lapsia joka päivä.
 Puhuja 1: Mies on ihana ja ne haluaa olla aina yhdessä.
 Puhuja 1: Ja sitten niillä tulee joku ongelma, kuten että auto hajoaa ja se aina luulee, että mies ei enää koskaan halua olla sen kanssa.
-Puhuja 1: Mutta sitten kuitenkin se pääsee juuri ajoissa perille ja voittaa sen kakkukilpailun.
+Puhuja 1: Mutta sitten kuitenkin se pääsee juuri ajoissa perille ja voittaa voittaa kakkukilpailun.
 Puhuja 1: Flanelimiehen
 Puhuja 1: ja
 Puhuja 3: itseäni mukavuuden haluiseksi
@@ -210,9 +213,9 @@ Puhuja 1: Toinen varmaan kaikki kuuntelijat ympäri Suomen voi olla. Toi on myö
 Puhuja 1: Oon.
 Puhuja 2: Kyllä. Koska
 Puhuja 2: et
-Puhuja 2: tavallaan mieti sun tyyliä toivottavasti hirveästi, kun käyt lähikaupassa. Jos mietit, niin
+Puhuja 2: tavallaan mieti sun tyyliä toivottavasti hirveästi, kun käyt lähikaupassa. Ja jos mietit, niin
 Puhuja 0: että
-Puhuja 2: Tyhjätä lobbita.
+Puhuja 2: Tyhjätäolopaitoja.
 Puhuja 0: Hyvä Espoon tyyliäihe.
 Puhuja 0: Kun olette siellä jonottamassa Espoon viiniulilla
 Puhuja 0: viiniä ja pellavapaita päällä tai ihan mikä tahansa vaatii oikeastaan päällä, riippuen mistä päin Espoota olet. Tai Marko Junkkaripaita päällä. Ne on ehkä limiteditiation, niitä ehkä kuuntelijalla ei ole, mutta teillä
@@ -231,8 +234,8 @@ Puhuja 2: olen puhunut Muskin kanssa sodan aikana useasti,
 Puhuja 2: niin hän julkaisi
 Puhuja 2: keväällä kirjan
 Puhuja 2: Dogsov
-Puhuja 2: Marjupoli, jossa hän on haastatellut monia ukrainalaisia tuttavia ja on kirjoittanut
-Puhuja 2: omasta kokemuksestaan,
+Puhuja 2: Marjupoli, jossa hän on haastatellut monia ukrainalaisia tuttavia ja on kirjoittanut omasta
+Puhuja 2: kokemuksestaan,
 Puhuja 2: journalistinen
 Puhuja 2: Ukrainassa, mutta erityisesti
 Puhuja 2: näistä
@@ -259,14 +262,15 @@ Puhuja 3: Mä suosittelisin.
 Puhuja 3: Olin siis muutama viikko sitten polttareissa ja nää oli sen verran hyvin
 Puhuja 3: perinteiset
 Puhuja 3: naisten porukan polttarit. Me mentiin Ilmajoogaan.
-Puhuja 3: Wou! En tiedä oletteko kokeillut. Mä ajattelin, että se olisi mahdollisimman kaukana mun mukavuusalueesta,
-Puhuja 3: mutta pakko suositella, koska se oli siis ihan todella hauskaa. Mä en pidä itseäni. Minä en niin kuin joogina, en ehkä enemmän
+Puhuja 3: Wou! En tiedä oletteko kokeillut. Ajattelin, että se olisi mahdollisimman kaukana mun mukavuusalueesta,
+Puhuja 3: mutta pakko suositella, koska se oli siis ihan todella hauskaa.
+Puhuja 3: Mä en pidä itseäni minä joogina enkä ehkä enemmän
 Puhuja 3: rautakankera, mutta silti sain kokea tällaisia onnistumisen
 Puhuja 3: tunteita.
 Puhuja 3: Ilmajooga heille, jotka eivät tiedä on siis tehdään
 Puhuja 3: tällaisia joogaliikkeitä,
-Puhuja 3: mutta siis katosta roikkuu
-Puhuja 3: käytännössä lakana.
+Puhuja 3: mutta siis katosta roikkuu käytännössä
+Puhuja 3: lakana.
 Puhuja 3: Välillä istut siinä välillä, hyödynnät sitä muuten kun teet joogaliikkeitä.
 Puhuja 3: Siis oli todella outoa. Pelkäsin kuollakseni ekan neljän minuutin ajan, mutta sen jälkeen se oli ihan superhauskaa.
 Puhuja 3: Ainoa
@@ -278,10 +282,11 @@ Puhuja 3: Sen
 Puhuja 3: jälkeen.
 Puhuja 3: Jos se tekee oman tason mukaan ja järki päässä, niin se oli ihan super hauskaa. Lämmin suositus, jos teillä on ikinä mahdollisuus kokeva Ilmajoogaa.
 Puhuja 3: Hyvä
-Puhuja 0: suositus. Entä Hanna? Minulla on
+Puhuja 3: suositus. Entä Hanna? Mulla on
 Puhuja 1: viimeisenä jakson
 Puhuja 1: kunniaksi kolme pikkusuositusta.
-Puhuja 1: Kolme pointtia. Kolme pointtia. Kolme pointtia, niin kuin Stubb.
+Puhuja 1: Kolme pointtia. Kolme pointtia.
+Puhuja 1: Kolme pointtia, niin kuin Stubb.
 Puhuja 1: Eli ekana kotikaupunkini
 Puhuja 1: Tampere, vaikka Espoosta
 Puhuja 1: on puhuttukin runsain määrin.
@@ -299,7 +304,7 @@ Puhuja 1: kaunis.
 Puhuja 1: Muistan, että sieltä näki hyvin.
 Puhuja 1: Se oli vähän,
 Puhuja 3: saattaa tulla yhden niskamurtumisen
-Puhuja 3: kanssa murtumisen
+Puhuja 1: kanssa murtumisen
 Puhuja 1: ja muiden
 Puhuja 1: rajoitteiden kanssa sen jälkeen. Mutta se voi silti olla ihan hyvä.
 Puhuja 1: Mutta viimeinen on kaikista tärkein suositus. Eli
@@ -323,7 +328,14 @@ Puhuja 0: Se on siis kirja, jonka ala-otsikko on Yhdysvaltojen poliittinen histo
 Puhuja 0: Erinomainen
 Puhuja 0: yleistajuinen yleiskielinen
 Puhuja 0: jenkkipoliittinen historia.
-Puhuja 0: Matka Sarajevoon.
+Puhuja 0: Historia. Naautushetkellä
+Puhuja 0: Gaudeamuksen verkkokaupassa viisi euroa.
+Puhuja 0: Toisena
+Puhuja 0: suosittelen myös kirjaa, mutta aasinsiltana,
+Puhuja 0: jota luin keväällä,
+Puhuja 0: kun olimme
+Puhuja 0: kavereiden kanssa resursussa Sarajevassa. Ensinnäkin välisuositus
+Puhuja 0: matka Sarajevoon.
 Puhuja 0: Lentäkää
 Puhuja 0: halvalla Drupronnikkiin, mutta älkää jäkä sinne, koska siellä on Himskatin kallista, vaan ottakaa sieltä bussi ja juna
 Puhuja 0: kuvankauden Mosterin läpi Sarajevoon
@@ -345,14 +357,14 @@ Puhuja 2: jossa te kaikki luette vuorotellen kirjoitta sillä tavalla, että ihm
 Puhuja 2: tai kappale
 Puhuja 0: menevän Tuomas Peltomäen rakentama talo. Ihana koti hänen perheelleen, oikein mukava oli päästä kutsulle. Mutta siellä ehkä pikkasen näki, että se on mies, joka ei ole talonrakentaja, on tehnyt talon. Sitä täytyy kunnioittaa, että itse ensin pystyisi. Kyllä. Ja olen saanut useasti myös tämän saman kysymyksen.
 Puhuja 2: Mulla on teillä vielä viimeinen kysymys rakkaat
-Puhuja 2: kanssapodiliat.
+Puhuja 2: kanssapodiliaat.
 Puhuja 2: Paljastammeko me meidän salaisen teemamme?
 Puhuja 1: Joo, kyllä me parannetaan.
 Puhuja 2: Hyvät kuulijat, olette joku saattanut arvata tämän. Mutta meillä oli myös salainen koko tämän kesän läpitunkeva teema tässä podissa, jonka voimme nyt ilolla kertoa olleen YYA.
 Puhuja 2: Mikäli
-Puhuja 2: olette YYA-faneja...
-Puhuja 2: YYA-ihmisiä!
-Puhuja 2: Kyllä! Taikka muuten vain syntyneet 1940-luvulla,
+Puhuja 2: olette
+Puhuja 2: YYA-faneja...
+Puhuja 2: YYA-ihmisiä! Kyllä! Taikka muuten vain syntyneet 1940-luvulla,
 Puhuja 2: niin toivottavasti se on tuottanut teille iloa.
 Puhuja 2: Mikäli olette nuoria ja dynaamisia helsinkiläisiä,
 Puhuja 2: olen pahoillani. Ja ehdottomasti ystävyys,

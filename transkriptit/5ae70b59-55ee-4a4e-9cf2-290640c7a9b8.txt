@@ -1,4 +1,4 @@
-Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin torstaina kaksikymmentäkuusikuusi. Kesäkuuta kaksituhatta kaksikymmentäviisi.
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin torstaina kaksikymmentäkuusi. Kesäkuuta kaksituhatta kaksikymmentäviisi.
 Puhuja 0: Minun nimeni on Rasmus Helaniemi ja kanssani täällä Helsingin Sanomien podcast-studiossa
 Puhuja 0: aurinkoisessa ja oikean kesäisessä Helsingin klubissa sijaitsevassa sanomatalossa on uutisraportin
 Puhuja 0: tämän kesän kesätiimi.
@@ -19,7 +19,7 @@ Puhuja 3: oli tullut Yhdysvallat ja pommittanut ne sirkat pois.
 Puhuja 3: Eli sunnuntaina oli tekemistä, kun Iraniin tuli isku.
 Puhuja 0: Niin, mukavan. Tekeuksessa on tapana ollut näitä sotaisia toimia
 Puhuja 0: täällä Suomesta itään.
-Puhuja 0: Mutta ehkä se on... Jos joku niin deskillä, sitten on en tekemistä. Ehkä toivotaan, että ensi juhannuksena näin ei käy. Mutta ihanaa, että on juhannus perinteitä
+Puhuja 0: Jos joku niin deskillä, sitten on tekemistä. Ehkä toivotaan, että ensi juhannuksena näin ei käy. Mutta ihanaa, että on juhannus perinteitä
 Puhuja 3: oikeasti. On siis varsinkin
 Puhuja 3: positiivisia
 Puhuja 3: ja ihanin kukkaisia kivoja.
@@ -61,7 +61,7 @@ Puhuja 0: Ulkomaantoimittaja
 Puhuja 0: John Neliy, mitä ihmettä tästä pitäisi nyt ajatella? Söökö koko Eurooppaa Trumpin kädestä?
 Puhuja 1: Kyllähän se näyttää vähän siltä.
 Puhuja 1: Toki näistä rrutten kommenteista pitää muistaa se,
-Puhuja 1: että Rrutten työ. Rruttehan valittiin tähän hommaan sen takia, koska rruttoja pidettiin truumpkuiskaajana.
+Puhuja 1: että Rrutten työ. Rruttehan valittiin tähän hommaan sen takia, koska rruttoja pidettiin trumpkuiskaajana.
 Puhuja 1: Ja siis selkeästi trumpkuiskaaminen
 Puhuja 1: on ehkä
 Puhuja 1: vähän
@@ -103,9 +103,11 @@ Puhuja 1: välttämättä töitä, jotka
 Puhuja 1: ei hoituisi, mutta siellä on tietynlainen
 Puhuja 1: paine. Enkä nyt sano välttämättä Hesarilla yleisesti
 Puhuja 1: tullut
-Puhuja 1: tässä vuosien varrella, kun on ollut erilaisessa duunissa. Kyllä. Tavallaan
+Puhuja 1: tässä vuosien varrella, kun on ollut erilaisessa duunissa. Niin kyllä. Ja tavallaan
 Puhuja 3: sekin kuitenkin kiinnittää jossain määrin huomion siinä, että vaikka tässä oli tämä yksi henkilö, joka nimettömästi
-Puhuja 3: kertoi siitä, että ei jaksa mennä töihin maanantaina välttämättä. Niin sitten kuitenkin se, että hänelläkin oli ollut esimerkiksi tilanne, että
+Puhuja 3: kertoi siitä,
+Puhuja 3: että ei jaksa mennä töihin maanantaina välttämättä.
+Puhuja 3: Niin sitten kuitenkin se, että hänelläkin oli ollut esimerkiksi tilanne, että
 Puhuja 3: hän ei edes kokenut, että saa tehdä tarpeeksi haastetta.
 Puhuja 3: Ja sitten kun hän sai työn,
 Puhuja 3: ilmeisesti uuden työtehtävän
@@ -116,7 +118,8 @@ Puhuja 3: helppo työ,
 Puhuja 3: että se olisi hirveän helppoa välttämättä kuitenkaan.
 Puhuja 1: Ja tuossa puhuttiin myös tämä sama tyyppi kai puhui siitä, että
 Puhuja 1: tulospalkkiot
-Puhuja 1: motivoi. Niin mä luulen, että isossa roolissa on myös se, että porukka ei tunne niiden työllä olevan mitään konkreettista merkitystä. Jos se vaan meitsi lukki Reddittiä niin kuin kaikki
+Puhuja 1: motivoi.
+Puhuja 1: Niin mä luulen, että isossa roolissa on myös se, että porukka ei tunne niiden työllä olevan mitään konkreettista merkitystä. Jos se vaan meitsi lukki Reddittiä niin kuin kaikki
 Puhuja 1: ikäis ne miehet ja siellä
 Puhuja 1: tämän asian ympärillä liittyvä keskusteluun puhuttiin siitä, että joidenkin työpaikalla
 Puhuja 1: työ on vaan niinku palaveria palaverin perään, kaikki ne palaverit vois olla sähköposteja.
@@ -136,13 +139,13 @@ Puhuja 0: helposti aika sellainen
 Puhuja 0: ylempi keskiluokka, että istun vain Teamsissa kaikki päivät. Ei joku siivooja voi vaikuttaa, että sen työllä ei ole merkitystä.
 Puhuja 0: Että en nyt vaan jaksanut, kun ei ollut fiilistä. Ja
 Puhuja 1: toikin on musta hyvää, että sä nosta Teamsin.
-Puhuja 1: Siksi koska tässä on tää teknologinen
-Puhuja 1: kehitys. Me
-Puhuja 1: pystytään valvomaan työtä paljon enemmän ja se liittyy näihin, ChatGPTpöytä keskusteluhommiin,
+Puhuja 1: Siksi koska tässä on tää
+Puhuja 1: teknologinen
+Puhuja 1: kehitys. Eli mehän pystytään valvomaan työtä paljon enemmän ja se liittyy näihin, ChatGPTpöytä keskusteluhommiin,
 Puhuja 1: jos mä puhuin. Mutta se kun sä oot koko ajan saatavilla, pitää olla saatavilla jatkuvasti.
 Puhuja 1: Kuka vaan pystyy tulemaan linjoja pitkin, kun tässä olisi näitä
 Puhuja 1: työtehtäviä, varsinkin kun se työ enemmän ja enemmän valuu sinne vapaa-ajalle
-Puhuja 1: töiden jälkeen porukka lähettää viestiä.
+Puhuja 1: töiden jälkeen porukka lähettää viestiä näin.
 Puhuja 1: Ei se ole siis mikään ihme, mikäli porukka tuntee itsensä
 Puhuja 1: enemmän kuormitetuksi tai on vaikeampi
 Puhuja 1: tauottaa tai luoda myös työpäivän sisään
@@ -160,7 +163,8 @@ Puhuja 3: niin onhan se aika iso ongelma varsinkin, jos heitä on paljon.
 Puhuja 3: Hän ehdotti tässä myös
 Puhuja 3: nelipäiväistä
 Puhuja 3: viikkoa tai oli nostanut esille tai ei se nyt hänen ehdotus ole varmasti, kun sitä on puhuttu politiikassakin ennen tässä jo esimerkiksi Sanna Marinin aikana.
-Puhuja 3: Mutta mulle tuli tässä mahtava idea, että miettikää,
+Puhuja 3: Mutta mulle tuli tässä mahtava
+Puhuja 3: idea, että miettikää,
 Puhuja 3: että jos olisi nelipäiväinen työviikko,
 Puhuja 3: niin sitten siinä viidentenä päivänä
 Puhuja 3: olisi
@@ -168,20 +172,16 @@ Puhuja 3: Taksvärkkipäivä.
 Puhuja 3: Tietysti, kun yläkoulussa oli aina näitä Taksvärkkipäiviä,
 Puhuja 3: että menee vanhempien luo. Sitten sä siivooit siellä ja vanhemmat maksaa sulle kaksikymmentä euroa. Niin turha se takaisin!
 Puhuja 3: Ihan hyvin voi mennä hengittämään meidän kissaa tai siivoamaan
-Puhuja 2: vessanpöntön, niin saada siitä kaksikymmentä euroa. Se on vaan meidän elämässä normi lauantai yleensä, että se on jo olemassa. Se on jo olemassa. Mörk-päivä oikeasti.
+Puhuja 2: vessanpöntön, niin saada siitä kaksikymmentä euroa. Se on vaan meidän elämässä normi lauantai yleensä, että se on jo olemassa. Se on jo olemassa. Mörkpäivä oikeasti.
 Puhuja 3: Fiving ever best life oikeasti.
 Puhuja 1: Eikös tämä mene vähän tähän, että
-Puhuja 2: niin
-Puhuja 2: kuin
+Puhuja 2: niin kuin
 Puhuja 2: ajat itsesi niin kuin piippuun, että joudut
 Puhuja 2: pitkälle sairauslomalle
 Puhuja 2: uupumuksen takia, niin voidaan siitäkin puhua. Mutta totta kai se menee kaikki takaisin siihen, että siihen johtamisen kulttuuriin ja kaikkeen, mikä on terveellinen työympäristö.
 Puhuja 1: Mua kiinnostaa näissä kustannuksissa,
 Puhuja 1: taikka kaikki sun työtehtävät tulee lopulta
-Puhuja 1: tehdyksi, niin maksaako se lopulta
-Puhuja 1: hirveästi
-Puhuja 1: mitään
-Puhuja 1: sille
+Puhuja 1: tehdyksi, niin maksaako se lopulta mitään sille
 Puhuja 1: yritykselle. Toki sitten,
 Puhuja 1: kyllähän se saattaa pistää joissain muiden kuormitusta.
 Puhuja 1: Tässäkin sanottiin siinä artikkelissa,
@@ -304,8 +304,7 @@ Puhuja 1: Siksi koska vaikka motivaa...
 Puhuja 2: Pluto shheimausta.
 Puhuja 2: Se on planeetta! Mulle se on aina planeetta!
 Puhuja 3: Mulle
-Puhuja 3: se. Se oli hirveä ilta. Kuvittelin koiran siellä avaruudessa. Ai niin,
-Puhuja 3: joo. Se on mun mielestä vaan harmaa pallo mansan kirjassa, mutta joo, jatka vaan.
+Puhuja 3: hirveä ilta. Kuvittelin koiran siellä avaruudessa. Ai, niin joo. Se on mun mielestä vaan harmaa pallo mansan kirjassa, mutta joo, jatka vaan.
 Puhuja 1: Me ei siis jaksettu, koska me oltiin kävelty joku
 Puhuja 1: kaksitoista tai neljätoista kiloa siinä vaiheessa.
 Puhuja 1: Ja siis väsytti ja oli nälkäkiukku.
@@ -319,22 +318,23 @@ Puhuja 1: itäistä
 Puhuja 1: rantaraittia pitkin
 Puhuja 1: etelään. Paitsi Saturnus,
 Puhuja 1: joka on jostain jumalan hylkäämästä syystä laitettu Bitejänmäen Lidlin
-Puhuja 1: Sen takia. Sekin jo toki. Mut siis pitää niinku kiertää sinne Pitäjänkeen, jonnin jälkeen palata lateraalisesti
-Puhuja 1: sinne Espooseen mitään jälkeä. Facsaturnus.
+Puhuja 1: Sen takia. Sekin jo toki. Mut siis pitää niinku kiertää sinne Pitäjänkeen, jona jälkeen palata
+Puhuja 1: lateraalisesti sinne Espooseen mitään jälkeä. Facsaturnus.
 Puhuja 1: Jos me ette hyvätkää bussista pois
 Puhuja 1: pitäjämmeössä,
 Puhuja 1: kattokaa Saturnusta. Siinä on Saturnus minkä jälkeen vasta meen batterinmäelle tää mun suositus. Kauanko tässä kirjaksessa meni?
 Puhuja 1: Kyllä meillä meni useampi tunti.
 Puhuja 2: Tiedettävissä John ei ole tunnuksen luona, jos haluat vielä ainakin tilata.
-Puhuja 1: Ja
-Puhuja 1: nyt kun HSL ei mee yhtään mihinkään
+Puhuja 1: Ja nyt kun HSL ei mene yhtään mihinkään
 Puhuja 1: ilmeisesti enää, niin tänne ainakin pääsee siksi, koska junat kulkee Leppävaa
 Puhuja 3: Joudun pienesti pohjustamaan, että häkkivarastoani
 Puhuja 3: murtauduttiin pari vuotta sitten.
 Puhuja 3: Ja minulta ei viety mitään.
-Puhuja 3: Alleviivatkoon sitä, että asun opiskelija-asennossa, mulla ei ole
-Puhuja 2: mitään. Miltä se tuntuu, että joku näkee, sen vaivat murtautuu ja sitten ei pysty.
-Puhuja 3: Isoin huoli ensinnäkin oli se, että mulla oli valtava tonttu, että se olisi viety. Mutta sitä ei viety. Se oli oikeasti minulle kallein omaisuus.
+Puhuja 3: Alleviivatkoon sitä, että asun opiskelija-asennossa,
+Puhuja 3: mulla ei ole
+Puhuja 2: mitään. Miltä se tuntuu, että joku näkee, että vaivat murtautuu ja sitten ei pysty.
+Puhuja 3: Isoin huoli ensinnäkin oli se, että mulla oli valtava
+Puhuja 3: tonttu, että se olisi viety. Mutta sitä ei viety. Se oli oikeasti minulle kallein omaisuus.
 Puhuja 3: Olen nostanut sen,
 Puhuja 3: ei kaupallisessa yhteistyössä Karsonin kanssa. Mutta
 Puhuja 3: tosiaan suosittelen siis sitä, että jos meinaatte
@@ -342,10 +342,11 @@ Puhuja 3: omistaa häkkivaraston
 Puhuja 3: ja joku varas meinaa sinne tulla
 Puhuja 3: Jos teillä on siellä tyhjiä pahvilaatikoita, mulla on esimerkiksi
 Puhuja 3: telkkarin pahvilaatikko
-Puhuja 3: ja tiettykö
-Puhuja 3: joku Marimekon sellainen pahvilaatikko, ne oli kaikki tyhjiä, koska niissä on ollut niitä tavaroita. Kuka idiootti säilyttää häkkivarastosta telkkaria?
+Puhuja 3: ja tiettykö joku
+Puhuja 3: Marimekon sellainen pahvilaatikko, ne oli kaikki tyhjiä, koska niissä on ollut niitä tavaroita. Kuka idiootti säilyttää häkkivarastosta
+Puhuja 3: telkkaria?
 Puhuja 3: Mutta tämä tyyppi oli luullut, että mä säilytän.
-Puhuja 3: Hän oli niitä käynyt ravistelemassa siellä. Jos meinaatte, niin laittakaa ne laatikot silleen, että hän suoraan näkee, että ne on tyhjät.
+Puhuja 3: Koska hän oli niitä käynyt ravistelemassa siellä. Jos meinaatte, niin laittakaa ne laatikot silleen, että hän suoraan näkee, että ne on tyhjät.
 Puhuja 3: Hän säästää vaivaa ja sinua ei ärsytä, että sinun varastostasi on murrattu. Ja sitten
 Puhuja 3: varkaalle vielä vinkki,
 Puhuja 3: että jos olet se paras, niin älä jätä sun
@@ -355,8 +356,10 @@ Puhuja 3: minulla on hänen tunnistuslaattansa
 Puhuja 3: edelleen. Lähetin siitä kuvan poliisille kylläkin.
 Puhuja 3: En tiedä, mitä mun pitäisi sille tehdä.
 Puhuja 3: Henkilöllisyystunnus
-Puhuja 3: on siis selvillä
-Puhuja 3: tämän
+Puhuja 3: on
+Puhuja 2: siis
+Puhuja 2: selvillä
+Puhuja 2: tämän
 Puhuja 1: Tohon liittyen vedin mun ekat kännit mun kaverin tyttöiseltä naapurin avona jossain häkkivarastossa, että se
 Puhuja 0: Kiitos.
 Puhuja 0: Itse suosittelen
@@ -366,8 +369,9 @@ Puhuja 0: Ideathan ylitetään Jaskilen journalistista
 Puhuja 0: Iltalehden Marko-Oskari
 Puhuja 0: Lehtosen
 Puhuja 0: eli Iltalehden politiikantoimittaja haastattelu, jossa hän pohtii muun muassa sitä,
-Puhuja 0: että nykyään ihmiset haluaa kuunnella tällaisia tuotteita niin kuin tämäkin jossa toimittajat puhuu keskenään.
-Puhuja 0: Ennen vanhaan pitää olla joku haastateltava ja järkeä, niin nykyään on hirveästi muodissa nämä tällaiset toimittajat höpötvät keskenään ja kaikkien mediatalot tekevät
+Puhuja 0: että
+Puhuja 0: nykyään ihmiset haluaa kuunnella tällaisia tuotteita niin kuin tämäkin jossa toimittajat puhuu keskenään.
+Puhuja 0: Ennen vanhaan pitää olla joku haastateltava ja järkeä niin nykyään on hirveästi muodissa nämä tällaiset toimittajat höpisee keskenään ja kaikkien mediatalot tekevät
 Puhuja 0: sellaista. Tämän tyyppistä mielestäni mielenkiintoista metapohdintaa
 Puhuja 0: journalistilehdessä,
 Puhuja 0: luettavissa journalisti.

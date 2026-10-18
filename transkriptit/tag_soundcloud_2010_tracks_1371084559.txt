@@ -15,7 +15,7 @@ Puhuja 0: menetetyt miljardit.
 Puhuja 0: Hei, tervetuloa Helsingin Sanomien
 Puhuja 0: uutiskirjeraportti podcastiin torstaina
 Puhuja 0: kaksikymmentäseitsemän.
-Puhuja 0: Kaksikymmentäseitsemän. Päivä lokakuuta
+Puhuja 0: Kaksikymmentäseitsemän. Päivä lokakuulta
 Puhuja 0: on kaksituhatta
 Puhuja 0: kaksikymmentäkaksi. Mun nimeni on
 Puhuja 0: Tuomas Peltomäki.
@@ -150,7 +150,7 @@ Puhuja 0: Mutta siihen ei suostuttu. No, kaikki tämmöiset sharammat ja muut. N
 Puhuja 1: ei mennyt läpi.
 Puhuja 0: Se
 Puhuja 0: on
-Puhuja 0: tässä just ton. Iltalehden jutun pointti on se, että ne ei tosissaan ole mennyt läpi. Hallitus ei ole käynyt Naton kanssa mitään semmoisia keskusteluita.
+Puhuja 0: tästä just ton. Iltalehden jutun pointti on se, että ne ei tosissaan ole mennyt läpi. Hallitus ei ole käynyt Naton kanssa mitään semmoisia keskusteluita.
 Puhuja 0: Ja että nyt, kun hallitukselta tulee
 Puhuja 0: esitysluonnos, että minkälainen on sopimus Suomen ja Naton välillä, niin siellä ei ole
 Puhuja 0: silloin julkisessa
@@ -170,8 +170,8 @@ Puhuja 1: Ehkä tämä ei ole myöskään kovin...
 Puhuja 1: Tämä ei ole se ydinkysymys.
 Puhuja 2: Kiinnostavaa, tuleeko Suomeen tukikohtia.
 Puhuja 2: Tämähän on siinä ehkä ongelma niin päin, että vaikka Suomi haluaisi niitä, niin ei kukaan halua laittaa tänne. Se on kallista.
-Puhuja 0: Niin.
-Puhuja 0: Löytyykö jostain puolesta porukkaa, joka haluaa tulla Kajaaniin
+Puhuja 0: Niin,
+Puhuja 0: ja löytyykö jostain puolesta porukkaa, joka haluaa tulla Kajaaniin
 Puhuja 0: kykkimään?
 Puhuja 0: Ei varmaan kyllä löydy.
 Puhuja 0: Mutta aina mä olen yllättynyt, että teidän mielestä on totaalinen noni sua. Muistan, että
@@ -255,7 +255,7 @@ Puhuja 0: aika tiukasti linkittynyt Neuvostoliittoon,
 Puhuja 0: niin sitten he joutuivat päästä irti, että tässä mentiin Natoon.
 Puhuja 0: Sieltä
 Puhuja 0: tuli tämä, että mutta rauhanohjaukset ja ydinaseet
-Puhuja 0: ja siitä pidettiinkin kiinni. Mun mielestä siinä on jotain todella kutottavaa. Miten tämä keskustelu tähän meni?
+Puhuja 0: ja siitä pidettiinkin kiinni. Mun mielestä siinä oli jotain todella kutottavaa. Miten tämä keskustelu tähän meni?
 Puhuja 1: Lopeta taas jättänyt. Tosi kahdeksankymmentä.
 Puhuja 0: Mutta
 Puhuja 0: siellä ne vanhat synnit on aika lähellä meitä.
@@ -281,7 +281,8 @@ Puhuja 0: unohitte käydä kaljakaupassa,
 Puhuja 0: mutta auton takapauksissa on yksi tsup absurs limppari.
 Puhuja 0: Istutte siihen eurollavoimien päälle juomaan sitä ja koirallenne,
 Puhuja 0: joka teille pitää mun seurauksella, alatte kertoa kaikennäköisiä juttuja. Mitä
-Puhuja 2: kerrotte? Oliko tämä kaikki? Ei täällä ole ihan mielikuvitusta.
+Puhuja 2: kerrotte? Oikeastaan kaikki.
+Puhuja 2: Ei täällä ole ihan mielikuvitusta.
 Puhuja 2: Hyvä. Tästä innostuneena, New
 Puhuja 2: York Times hän osti
 Puhuja 2: tämän urheilulehti Affleeticin.
@@ -325,9 +326,10 @@ Puhuja 2: laiturinin
 Puhuja 2: keskikentäpelaajayhteistyö
 Puhuja 2: pelasin.
 Puhuja 2: Sillä ja silleen. Mutta ihan palaa.
-Puhuja 2: Mä nyt harkitsen sen nousee siitä eurosta kuussa, niin mä ehkä peruutan se tilaus. Ei, se oli tämmöinen lisäsuoritus. Viefletin perumista.
+Puhuja 2: Mä nyt harkitsen sen nousee siitä eurosta kuussa, niin mä ehkä peruutan se tilaus. Ei, se oli tämmöinen lisäsuoritus. Viefletgyn
+Puhuja 1: perumista.
 Puhuja 0: Okei.
-Puhuja 0: Perukaan The Atlettig
+Puhuja 0: Perukaan The Atletc
 Puhuja 0: tilauksenne. Paitsi jos se on yli euron, niin sitten jatkaa. Jos se on euro, niin silloin kannattaa tilata.
 Puhuja 2: Anni? Aion
 Puhuja 1: katsoa
@@ -340,13 +342,14 @@ Puhuja 1: Se on todella siistiä ja
 Puhuja 1: vaikka se on töiden jälkeen
 Puhuja 1: joka viikko.
 Puhuja 1: On ehkä vähän väsynyt kun menee sinne, niin
-Puhuja 1: se haastaa aivoille eri tavalla. Sano, sanos jotain, kun edes sanos
+Puhuja 2: se haastaa aivoille eri tavalla. Sano, sanos jotain, kun edes
+Puhuja 1: sanoisi
 Puhuja 1: jotain. Anjongaa se joo.
 Puhuja 1: Että se kuva olisi joku yksi tietty sana ja sitten pitäisi opetella ne kaikki, vaan
 Puhuja 1: siinä on aakkoset.
 Puhuja 0: Se on tosi kivaa. Suomalaisille toimittajille Korea on aika tuttu, koska meillä on vaihto-ohjelmia
 Puhuja 0: yliopistossa.
-Puhuja 0: Korea
+Puhuja 0: Koreaana.
 Puhuja 0: Sen takia toimittajilla monesti tulee meille Kore-innostus.
 Puhuja 1: Joo,
 Puhuja 1: ei ole mun syy se, mutta joo.
@@ -441,7 +444,8 @@ Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Marko Junkkari. Kiitti. Ki
 Puhuja 0: Äänenä kuvaa ja kaiken muun mahtavan meille tekee Janne Elkki.
 Puhuja 0: Muistakaa
 Puhuja 0: lähettää palautetta kaikkiin kanaviin.
-Puhuja 0: Viime viikon palautejakso oli inspiroinut ihmisiä. Lähetetään palautetta todella paljon.
+Puhuja 0: Viime viikon palautejakso
+Puhuja 0: oli inspiroinut ihmisiä. Lähetetään palautetta todella paljon.
 Puhuja 0: Sitä tuli ihan ovista ja ikkunoista.
 Puhuja 0: Kiitos, siitä jos lämmittää mieltä ja sydäntä. Sitä on todella mukava lukea.
 Puhuja 0: Kuullaan taas ensi viikon!

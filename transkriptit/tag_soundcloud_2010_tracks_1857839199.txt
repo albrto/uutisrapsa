@@ -42,7 +42,7 @@ Puhuja 0: tahot järjestää
 Puhuja 0: keskustelutilaisuuksia.
 Puhuja 0: Tiistaina siellä oli
 Puhuja 0: Maikkajärjestelmäpuheenjohtajat,
-Puhuja 0: tentti. Sen yhteydessä
+Puhuja 0: tentti, sen yhteydessä
 Puhuja 0: on ollut jo etukäteen
 Puhuja 0: äänitetty
 Puhuja 0: presidentin
@@ -55,20 +55,19 @@ Puhuja 0: ja kaikkea muuta.
 Puhuja 0: Aikaisemmin tämä on järjestyä keskikesän tienoilla, mutta viime kesästä lähtien
 Puhuja 0: juhannuksen jälkeisellä viikolla. Eli siellä Porissa se on parasta aikaa käynnissä.
 Puhuja 0: Oletteko ollut joskus jompikumpi Suomi-areenassa?
-Puhuja 2: Joo, tästä tuli just mieleen, että olin toissapäivänä, koska olen tosiaan monitoimihenkilö, niin olin hallinnoimassa meidän etusivu DESKissä.
-Puhuja 2: Katsoin, että hetkonen, että Maikkarilla on suora lähetys, että miksi lapset ovat alati väkivaltaisempia.
+Puhuja 2: Joo, tästä tuli just mieleen, että olin toissapäivänä,
+Puhuja 2: koska olen tosiaan monitoimihenkilö, niin olin hallinnoimassa meidän etusivu tuossa deskissä. Katsoin, että hetkonen, että Maikkarilla on suora lähetys, että miksi lapset ovat alati väkivaltaisempia.
 Puhuja 2: Ei voi olla totta, että me ollaan missttu joku Keskusrikospoliisi
 Puhuja 2: tiedotustilaisuus.
 Puhuja 2: Ei, se on SuomiAreena.
 Puhuja 2: Näin hyvällä seurannalla oli meillä tämä homma siinä tiedossa.
 Puhuja 2: Kertoo ehkä jotain siitä merkityksen muutoksesta.
-Puhuja 1: Mun aina kontakti on Suomen areena se, kun olen joskus aikoinaan nuorena partiolaisena ollut siellä itse kehittämässä nokivannut kahvia. Ties mille sidosryhmille ja tästä melkein kymmenen vuotta aikaa. Mun mielestä koronan aikana se kyllä otti
-Puhuja 1: aika pahasti
-Puhuja 1: osumaa.
-Puhuja 1: Muistan, että ne hinnat olivat tosi kovia, jos halusi järjestää jonkun Suomi-areenan koronan etä homman.
+Puhuja 1: Mun aina kontakti on Suomen areena se, kun olen joskus aikoinaan nuorena partiolaisena ollut siellä itse kehittämässä nokivannut kahvia. Ties mille sidosryhmille ja tästä
+Puhuja 1: melkein kymmenen vuotta aikaa. Mun mielestä koronan aikana se kyllä otti
+Puhuja 1: aika pahasti osumaan.
+Puhuja 1: Muistan, että hinnat olivat tosi kovia, jos halusi järkätä jonkun Suomi-areenan korona etä homman
 Puhuja 0: Joo.
-Puhuja 0: Politiikantoimittajillehan tämä on... Aikaisemminhan se järjestettiin
-Puhuja 0: keskikäisellä ja silloin se oli ihan sellainen,
+Puhuja 0: Politiikantoimittajillehan tämä on... Aikaisemminhan se järjestettiin tosin keskikäisellä ja silloin se oli ihan sellainen,
 Puhuja 0: niin kuin... Siltähän toivottiin, että
 Puhuja 0: puolueilta tuli jotain avauksia, mutta aika vähän niitä avauksia jotenkin tuli. Se oli
 Puhuja 0: hiljaista menoa. Viime vuonna se siirrettiin
@@ -120,8 +119,7 @@ Puhuja 0: tilalle. Sitä voin miettiä, miten se siellä onnistuu, koska Suomess
 Puhuja 0: aina kun istutaan puita, niin siinä pitää olla aina valtavat suoja-alueet.
 Puhuja 0: Jos on liian kapea kohta, niin siihen ei saa laittaa puuta. Mutta kyllä siellä ihan kapeallekin kujille niitä pystyi laittamaan, että
 Puhuja 0: Suomessa jotkut määräykset puiden suhteen on erilaiset. Joo, eihän Helsingin tilanne
-Puhuja 1: välttämättä ainakaan ihan yhtä paha ole ainoita. Ei tämän puita voi valmiiksi. Ollaan tännekin puiston mullaan varten kovaa vauhtia kaavoittamassa.
-Puhuja 1: En tiedä, mikä tilanne niillä on, että onko ne nyt tulossa vai ei. En ole seurannut. En muista, mikä oikeus
+Puhuja 1: välttämättä ainakaan ihan yhtä paha ole ainoita. Ei tämän puita voi valmiiksi. Ollaan tännekin puiston pulla varten kovaa vauhtia kaavoittamassa. Myös totta. En tiedä, mikä tilanne niillä on, että onko ne nyt tulossa vai ei. En ole seurannut. En muista, mikä oikeus
 Puhuja 1: niin pyllyn taso siinä on tällä hetkellä menossa, mutta tavallaan
 Puhuja 1: trendi on ehkä kuitenkin
 Puhuja 1: siihen suuntaan ainakin
@@ -152,10 +150,9 @@ Puhuja 1: sen dilemmäksi menee.
 Puhuja 2: Joo, mä olen kyllä aika samoilla linjoilla. Mä olin tuolla Milanos nyt toukokuussa.
 Puhuja 2: Siellä oli jo silloin noin kolmekymmentä pintaa ja kyllä siellä näki
 Puhuja 2: muita kaltaisia turisteja aika heikossa hapessa, kun on alettu niitä oopperalla juomaan siinä yksitoista
-Puhuja 2: pintaan. Aika pahalta se menoäytteet. En usko, että tästä ainakaan parempaan
-Puhuja 2: suuntaan edetään.
-Puhuja 1: Niin, vaikuttaako Suomessa nyt, kun on kahdeksan optista kaljaa kaupassa, että se estetään vielä tavallistakin
-Puhuja 1: vähemmän.
+Puhuja 2: pintaan. Aika pahalta se menoäytteet. En usko, että tästä
+Puhuja 2: ainakaan parempaan suuntaan edetään.
+Puhuja 1: Niin en tiedä, vaikuttaako Suomessa nyt, kun on kahdeksan oltista kaljaa kaupassa, että se nesteyttää vielä tavallistakin vähemmän.
 Puhuja 1: Nouseeko lämpöhavasten määrä
 Puhuja 2: tilastollisesti? Maailmaa piti palata. Mulla oli tästä ihan sama havaintoa, että juhannuksena, kun sunnuntaisin ethän ole päässyt alkuun, niin nyt olin Turun seudulla.
 Puhuja 2: Siellä kun sunnuntaina
@@ -169,7 +166,7 @@ Puhuja 0: Sitä ehkä täytyy vinkata
 Puhuja 2: kaupunkitoimituksen, että pitää jalkautua ja seurata tilannetta. Myös ihan totta. Puhuin tästä ääneen vielä jonkun pari päivää sitten. Mutta sitä jäin pohtimaan, että
 Puhuja 2: tällaisia välillisiä vaikutuksia
 Puhuja 2: tästä uudistuksesta, että mitä tapahtuu.
-Puhuja 0: Joo, mutta
+Puhuja 0: Joo. Mutta
 Puhuja 0: täytyy tässäkin muistaa aina se, että Suomessa kuitenkin,
 Puhuja 0: vaikka tämä lämpötila kuinka tästä nousisi, niin
 Puhuja 0: eipä me siellä ikään kuin pahimmassa eturintamassa sen kanssa olla.
@@ -178,9 +175,12 @@ Puhuja 0: oikeasti tappohelteet
 Puhuja 1: tänne Suomeen asti ainakaan vielä. Niin, vielä. Sekin on tietysti, että millä skaalalla tätä aina jaksaa katsoa.
 Puhuja 1: Tavallaan trendihän on kuitenkin siihen suuntaan, että
 Puhuja 1: on ne täällä vielä joskus, että onko sitten meidän sukupolvi, joka niistä joutuu täällä kärsimään
-Puhuja 2: vai seuraava vai ehditäänkö ongelmat ratkaista. Mä veikkaan, että se tulee ennemmin niin, että kun
+Puhuja 1: vai seuraava
+Puhuja 2: vai ehditäänkö ongelmat ratkaista. Mä veikkaan, että se tulee ennemmin niin, että kun
 Puhuja 2: helteet nousee ja ilmasto lämpenee, niin se mitä me tullaan ratkomaan meidän elinaikana, on ilmastopakolaisten
-Puhuja 1: määrä. Kun tulee alueita, jotka ei ole yksinkertaisesti enää elinkelpoisia, niin jonnekinhan sieltä ihmisten on mentävä. Niin, niin joko tavallaan syy tai seuraus pitää ratkaista ja ilmastopakolaisuus on aika sitten se seuraus, mikä siitä tulee.
+Puhuja 2: määrä.
+Puhuja 2: Kun
+Puhuja 1: tulee alueita, jotka ei ole yksinkertaisesti enää elinkelpoisia, niin jonnekinhan sieltä ihmisten on mentävä. Niin, niin joko tavallaan syy tai seuraus pitää ratkaista ja ilmastopakolaisuus on aika sitten se seuraus, mikä siitä tulee.
 Puhuja 1: Juuri sitä ei saada ratkaistua.
 Puhuja 0: Näihin
 Puhuja 0: dramaattisiin tunnelmiin on hyvä, että tämä keskustelu
@@ -201,7 +201,8 @@ Puhuja 0: kolmas tällä kyseisellä tehtaalla työskennellyt mies löytyy kuoll
 Puhuja 0: Vastaavalle se tapahtui tammikuussa ja helmikuussa,
 Puhuja 0: tämä tuoreen kuolema oli ihan kesäkuun alussa.
 Puhuja 0: Poliisi on ottanut tutkinnon
-Puhuja 0: kaikista kolmesta kuolemasta ja tutkivansa sitä, onko näillä kuolemilla jotain yhteistä, voiko nämä liittyä jotenkin toisiinsa.
+Puhuja 0: kaikista kolmesta kuolemasta ja tutkivansa sitä, onko näillä kuolemilla jotain yhteistä,
+Puhuja 0: voiko nämä liittyä jotenkin toisiinsa.
 Puhuja 0: Onko teillä tästä jotain
 Puhuja 2: ajatuksia? Tämä on tosi kiinnostavaa, koska ensin työpaikkakuolemat eivät
 Puhuja 2: ole täysin epätavallisia, mutta ne on työtapaturmia.
@@ -213,26 +214,28 @@ Puhuja 2: tuonne paikalliselle Noran sanomalhdelle, että ei tätä voi kutsua m
 Puhuja 2: tarkastella.
 Puhuja 2: Niin ihan siis todella kiinnostavaa.
 Puhuja 2: Ja jos mietitään, että olisi itse työntekijänä tuolla,
-Puhuja 2: niin kyllä pikkasen alkaisi arveluttamaan mennä töihin. Siellä oli jotain 19-vuotiaita
+Puhuja 2: niin kyllä pikkuisen alkaisi arveluttamaan mennä töihin. Siellä oli jotain 19-vuotiaita
 Puhuja 2: se nuorin, joka oli kuollut. Ja joku kolmen lapsen isäkin. Et ihan noin vaan, mene töihin, tulet kotiin ja se oli siinä.
 Puhuja 2: Niin saattaisi
 Puhuja 2: olla loparien aika
 Puhuja 2: ihan itseni kohdalle mietittynä.
 Puhuja 1: Niin, tehdosta ei ole suljettu, vaan tavallaan
 Puhuja 1: joku tuo, jota ilmoitti vetäneensä
-Puhuja 1: työntekijän sisältä pois, mutta tuo jota ei siellä kovin montaa ollut. Tavallaan tehdas toimii, työvelvoite on siinä ennenkin. Tavallaan voi kuvitella, jos omalla työpaikalla olisi ollut kolme mysteerikuolemaa,
-Puhuja 1: niin ehkä kyllä vähän miettisin kanssa, että voisiko vaikka jäädä etätöihin, mutta
+Puhuja 1: työntekijän sisältä pois, mutta tuo jota ei siellä kovin montaa ollut. Tavallaan tehdas toimii, työvelvoite on siinä ennenkin. Voi kuvitella, jos omalla työpaikalla olisi ollut kolme mysteerikuolemaa,
+Puhuja 1: niin ehkä vähän miettisin kanssa, että voisiko vaikka jäädä etätöihin, mutta
 Puhuja 1: toki yhteydessä työläisillä
 Puhuja 0: sitä etuoikeutta ei ole. Näinpä. Siellähän on aikaisemmin jo raportoitu, että siellä on ollut työsuojeluongelmia.
 Puhuja 0: Muun muassa työntekijät on kokenut erilaisia sisäilmaongelmia,
 Puhuja 0: silmäongelmia, ja siivoojat on työskennellyt ilman tarvittavaa koulutusta
 Puhuja 0: alueilla, joilla on käsitelty vaarallisia kemikaaleja.
-Puhuja 0: Ei ole tietoa, mistä kuolemat
-Puhuja 0: voisivat johtua, mutta
+Puhuja 0: Ei ole tietoa, mistä
+Puhuja 0: kuolemat voisivat johtua, mutta
 Puhuja 0: myös yhtiö itse on toivonut, että tutkinta saataisiin tehtyä mahdollisimman nopeasti, ettei tällaista kaikenlaista
-Puhuja 0: Heidän näkemys on varmasti se, että nämä ovat olleet satunnaisia.
-Puhuja 0: Onhan sekin ihan mahdollista.
-Puhuja 0: Aivan. Kaikenlaista sattumuksia menee. Kyllähän niistä on ennätyskirjoissa niitä ihmisiä, jotka
+Puhuja 0: huut sitten leviä.
+Puhuja 0: Heidän näkemys on varmasti se, että nämä on olleet satunnaisia.
+Puhuja 0: Onhan sekin ihan mahdollista. Aivan. Kaikenlaisia
+Puhuja 0: sattumuksia menee.
+Puhuja 0: Niistä aina on ennätyskirjoissa niitä ihmisiä, jotka
 Puhuja 0: saavat jonkun seitsemän salaman iskua elämänsä aikana ja
 Puhuja 0: muuta tällaisia.
 Puhuja 0: Epäonni saattaa osua vain yksittäiseen tehtaaseen, jossa on useita kuolleita työntekijöitä. Kyllä tämä selkeästi vaikuttaa
@@ -246,11 +249,10 @@ Puhuja 2: mikä olisi voinut olla syy.
 Puhuja 2: Varmasti seurataan tätä, että mitä sieltä paljastuu. Siinä oli vielä tällainen, että kaksi näistä kuolleista olivat
 Puhuja 2: siinä NOT Voltin tuotantolinjalla
 Puhuja 2: ja kolmas kiinteistöpalveluyhtiö
-Puhuja 2: Sodexon siivoojana. Eikä tämä Sodexo ole tämmöinen, mikä toimii
+Puhuja 2: Sodexon siivoojana. Eikä tämä Sodexo ole siis tämmöinen, mikä toimii
 Puhuja 2: Suomessakin käytännössä kaikissa
 Puhuja 2: yliopistoravintoloissa.
-Puhuja 2: Nyt tätä jäin miettimään, että mikä
-Puhuja 2: tämä
+Puhuja 2: Nyt tätä jäin miettimään, että mikä tämä
 Puhuja 2: Suomi-yhteys on.
 Puhuja 1: Niin,
 Puhuja 1: tämä on tavallaan mitä Skellef teossa. En edes yritä lausua ruotsalaisittain, mutta siellä
@@ -267,9 +269,8 @@ Puhuja 1: joku selittävä
 Puhuja 1: syy, niin se voisi olla aika merkittävä
 Puhuja 1: kaikille tulevia, kaikkia tulevia sähköautoakutehtaita
 Puhuja 1: ajatellen.
-Puhuja 2: Nyt voin. Nyt mennään vähän foliohattu
-Puhuja 2: alueelle.
-Puhuja 2: Mutta oletteko te nähneet somessa tällaisia? Tämä on siis ilmiö, mikä on mun feediin tullut.
+Puhuja 2: Vähän tiedän, että nyt mennään vähän foliohattu
+Puhuja 2: alueelle. Mutta oletteko te nähneet somessa tällaisia? Tämä on siis ilmiö, mikä on mun fiidiin tullut.
 Puhuja 2: Ihmiset kertovat, että kun he matkustaa
 Puhuja 2: sähköautoissa,
 Puhuja 2: niin niille tulee tällaisia
@@ -287,19 +288,18 @@ Puhuja 0: Mutta kyllähän Suomessa on ylipäätään
 Puhuja 0: sähköallergia
 Puhuja 0: tai sähköyliherkkkää,
 Puhuja 0: itseään kutsuvia ihmisiä jonkin verran. Siitä on tehty jotain dokumenttiakin. Kyllä aina mietin sitä, että
-Puhuja 0: tekee sen elämästä aika vaikeaa, ja kaikkea sähköstä yritetään tehdä. Mutta ilmeisesti näillä sun
+Puhuja 0: tekee sen elämästä aika vaikeaa, ja kaikkea sähköstä yritetään tältä. Mutta ilmeisesti näillä sun
 Puhuja 0: seuraamilla foliohotuilla,
 Puhuja 2: niin ainoastaan tämä sähköauto on se. Nyt mä korjaan, mä en seuraa näitä.
 Puhuja 2: Tämä on tullut sinne suositteluun.
 Puhuja 2: Ja se ei ole mikään
 Puhuja 2: fiidiä hallitseva ilmiö, mutta asia jonka olen kiinnittänyt huomiota.
-Puhuja 1: Tästä uutisesta vielä, minun
-Puhuja 1: mielestä
-Puhuja 1: tämä tutkinnanjohtaja sanoi tälle Noordille, että tavallaan
-Puhuja 1: tavallisesti tällaisia ei välttämättä ole upseeresta ajettu yhdistää. Tavallaan, että kolme
+Puhuja 1: Tästä uutisesta vielä, mielestäni
+Puhuja 1: tämä tutkinnanjohtaja sanoi tälle Noordille, että tavallaan tavallisesti tällaisia ei välttämättä ole upseeresta ajettu yhdistää. Tavallaan, että kolme
 Puhuja 1: työntekijä kuolee
-Puhuja 1: luonnollisista syistä TMS niin tavallaan ei tee syyllistykseen toisiinsa, että nyt tarvittiin kolme, että tätä alettiin tutkia.
-Puhuja 1: Voi myös olla, että tästä löytyy ja kaikki on vaan kuollut toisiinsa liittymästä ja tämä meidän podcastikin,
+Puhuja 1: luonnollisista syistä TMS niin tavallaan ei edes syyllistää toisiinsa, että nyt tarvittiin kolme, että tätä alettiin tutkia.
+Puhuja 1: Että
+Puhuja 1: Voi myös olla, että tästä löytyy ja kaikki on vaan kuollut toisiinsa liittymästä ja tämä meidän podcastkin,
 Puhuja 1: vaikka tämä.
 Puhuja 2: Sitä vähän haastaa se, että siellä on kuollut
 Puhuja 2: 65-vuotias, kolmekymmentäkolmevuotias
@@ -313,7 +313,7 @@ Puhuja 2: Minusta tässä on myös tekijöitä, mitkä puoltavat sitä, että t�
 Puhuja 2: yksittäinen
 Puhuja 2: epäonninen
 Puhuja 2: tehdasparka.
-Puhuja 1: Tätä
+Puhuja 2: Tätä
 Puhuja 1: myös kurjosteettinen, että tätä tehdastahan myös koetettiin saada Suomeen alun perin
 Puhuja 1: ja Hesarinkiikka on käännyt tälle, tämä on tavallaan tällainen iso vihreän siirtymän tavallaan
 Puhuja 1: hyvin tyypillinen
@@ -325,14 +325,17 @@ Puhuja 1: vaikka Vaasassa ja siellä on nyt tällaiset mysteerikuolemat.
 Puhuja 2: Kuka toimittaja kävi ja onko hän vielä olemassa?
 Puhuja 2: Se
 Puhuja 0: oli tämän. Kivaa körköä Ruotsin.
-Puhuja 0: Sehän on tosi paljon saaneet
-Puhuja 0: Ne
-Puhuja 0: ovat tosi paljon saaneet
+Puhuja 0: Se on täysin
+Puhuja 0: vielä. Sehän on siis koko Euroopan
+Puhuja 0: suurin
+Puhuja 0: vihreä investointoin ollut tämä tehdas.
+Puhuja 0: Ne ovat
+Puhuja 0: tosi paljon saaneet
 Puhuja 0: positiivista mediahuomiota
 Puhuja 0: siitä, kuinka tämä on
 Puhuja 0: valtava investointi, joka tulee ratkaisemaan
-Puhuja 0: monia
-Puhuja 0: ilmastonmuutoksen ongelmia
+Puhuja 0: monia ilmastonmuutoksen
+Puhuja 0: ongelmia
 Puhuja 0: teettämään niitä akkuja, mutta tämä varmasti on ihan
 Puhuja 0: brändinkin kannalta hieman haasteellinen tilanne, että jos siellä niitä ihmisiä alkaa kuolla lisääkin,
 Puhuja 0: niin vaatii heiltä
@@ -340,20 +343,12 @@ Puhuja 0: jonkinnäköistä selittelyä siihen asiaan liittyen, että miten täm
 Puhuja 1: En tiedä millaista on ruotsalaisten poliisien lomakierrot, kuka siellä
 Puhuja 1: juhannuksen
 Puhuja 1: vitsamarin jälkeisellä viikolla joutui selittelemään näitä mISR-kuolemia.
-Puhuja 2: Ja eikö tämä ollut jonkinnäköinen ympäristörikoksiin
-Puhuja 2: keskittynyt yksikkö?
-Puhuja 1: Joo, ympäristöministeri,
-Puhuja 1: mutta koska ollaan noilla
-Puhuja 1: leveysasteilla,
-Puhuja 1: tutkii myös metsästys
-Puhuja 1: liittyviä kuolemia.
 Puhuja 0: Kaikenlaisia epämääräisiä kuolemia.
 Puhuja 0: Ehkä voimme
 Puhuja 0: tästä
 Puhuja 0: siirtyä viimeiseen osuuteemme.
 Puhuja 0: Siinä vaiheessa, kun nyt
-Puhuja 0: menette
-Puhuja 0: nauttimaan Suomen vielä nautittavista
+Puhuja 0: menette nauttimaan Suomen vielä nautittavista
 Puhuja 0: lämmöistä ja mietitte, että miten
 Puhuja 0: selviäisitte näissä
 Puhuja 0: vielä kuumemmissa oloissa
@@ -369,10 +364,10 @@ Puhuja 0: kanssa ihmisten kanssa muusta kuin siitä helteestä?
 Puhuja 2: Kun olen
 Puhuja 2: siellä meressä ja huutonen siellä rannalle
 Puhuja 2: pärjäville
-Puhuja 2: ystäville, niin sanoin, että kokeilkaapa lukea tällaista Elina Backmanin
+Puhuja 2: ystäville, niin sanoin, että kokeilkaapa lukea tällaista Elina
+Puhuja 2: Backmanin
 Puhuja 2: trilleridekkarisarjaa.
-Puhuja 2: Sen ensimmäisen osan nimi on Kuningas kuolee, ja jos on kuulla
-Puhuja 2: ketään
+Puhuja 2: Sen ensimmäisen osan nimi on Kuningas kuolee, ja jos on kuulla ketään
 Puhuja 2: perinteisiä suomalaisia, että kesällä luetaan dekkareita laiturinnokassa,
 Puhuja 2: niin tämä on aivan täydellinen kesästä Helsinkiä, todella kiinnostavat murhakeissit,
 Puhuja 2: paljon ihmissuhdekuvioita,
@@ -381,8 +376,8 @@ Puhuja 2: ihmisestä kertovaa dekkaria.
 Puhuja 2: Ne on kaikki ihan täydellistä kesälukemista.
 Puhuja 2: Mulla on nyt se kolmas, odotan
 Puhuja 2: malttamattomana, että pääsen viikonloppuna nimenomaan aurinkoa lukemaan tätä kolmatta osaa.
-Puhuja 2: Käykää tsekkaamassa,
-Puhuja 2: erinomainen.
+Puhuja 2: Käykää
+Puhuja 2: tsekkaamassa, erinomainen.
 Puhuja 1: En ole kirjallisuusihmisiä
 Puhuja 1: ollenkaan, ehkä tässä painotan,
 Puhuja 1: että
@@ -414,8 +409,7 @@ Puhuja 0: Oikein syystäkin klassikkoasemassa.
 Puhuja 0: Itse tykkään tällaisesta
 Puhuja 0: ei
 Puhuja 0: kovin rönsyilevästä
-Puhuja 0: tai röystelevästä kerronnasta, vaan sellaista pienimuotoisesta,
-Puhuja 0: pienieläisestä
+Puhuja 0: tai röystelevästä kerronnasta, vaan sellaista pienimuotoisesta, pienieläisestä
 Puhuja 0: tekstistä, niin se tarjoaa juuri sellaista. Onko ihanaa, me saimme kaksi kirjallisuussuositusta?
 Puhuja 0: Kyllä.
 Puhuja 0: Me siirrymme tästä seuraaviin
@@ -425,7 +419,8 @@ Puhuja 0: Kiitos Rasmus
 Puhuja 0: Kiitos Kiitos Heidi Kiitos
 Puhuja 0: Minun nimeni oli Joona Aaltonen ja äänen ja kuvan ja kaiken muun mahtavan mikä täältä ulos studiosta lähtee tekemään tällä viikolla
 Puhuja 0: Ville-Mikko Niemelä.
-Puhuja 0: Muistakaahan lähettää meille palautetta somessa ja uutisraportti
+Puhuja 0: Muistakaahan lähettää meille palautetta somessa
+Puhuja 0: ja uutisraportti
 Puhuja 0: tai vaikka meidän henkilökohtaisiin
 Puhuja 0: sähköpostilaatikkoihin
 Puhuja 0: ja kuullaan taas ensi viikolla!

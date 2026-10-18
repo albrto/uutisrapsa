@@ -5,7 +5,7 @@ Puhuja 0: vuonna kaksituhatta
 Puhuja 0: kaksikymmentäkaksi.
 Puhuja 0: Minun nimeni on Alma Onali ja kanssani täällä Sanomatalon
 Puhuja 0: studiossa Helsingissä ovat sunnuntaitoimituksen
-Puhuja 0: toimittaja Marko Junkkari. Moikka Marko. No heissan Alma. Mitä sä siellä selailet?
+Puhuja 0: toimittaja Marko Junkkari. Moikka Marko! No heissan Alma. Mitä sä siellä selailet?
 Puhuja 1: Mä olen jotenkin täysin addiktoitunut
 Puhuja 1: Ukraina-autisii, että mä vaan pelärään niitä. No niin, mä kysyn
 Puhuja 0: Asteikolla
@@ -26,7 +26,7 @@ Puhuja 0: Joo, sanokaapa muuta. Eilen yritin
 Puhuja 0: irrottautua tästä maailmasta ja ajattelin, että minä palaan katsomaan jotakin uutta sarjaa ja olisiko
 Puhuja 0: ollut sohvi, joku minun mielestäni aikaisemmin tässä podcastissa suositteli sellaista kuin years and years nimistä
 Puhuja 0: tv-sarjaa
-Puhuja 0: tuolta HBO:lta ja aloin katsoa sitä, niin sekin perhana kertoo siitä, kuinka Venäjä on vallannut Ukrainaan ja ukrainalaisia pakolaisia tulee Britanniaan ja siellä nyt sitten yrittää pärjätä niiden kanssa. Mä ottaisin, että There's no escape. Ja vaikka katsoisin mitä sarjaa, niin voi vähintäänkin aina välillä katsoa WhatsApp Viestin, jos mulla on pari kaveri rinki, jossa puhutaan
+Puhuja 0: tuolta HBO:lta ja aloin katsoa sitä, niin sekin perhana kertoo siitä, kuinka Venäjä on vallannut Ukrainaan ja ukrainalaisia pakolaisia tulee Britanniaan ja siellä nyt sitten yrittää pärjätä niiden kanssa. Mä ottaisin, että There's no escape. Ja vaikka katsoisi mitä sarjaa, niin voi vähintäänkin aina välillä katsoa WhatsApp Viestin, jos mulla on pari kaveri rinki, jossa puhutaan
 Puhuja 2: kaksisataaneljäkymmentäseitsemän tästä asiasta.
 Puhuja 0: Mutta se on niin,
 Puhuja 0: että kokonainen murheellinen viikko on jo kulunut siitä, kun Venäjä aloitti sodan auringonkukkien
@@ -49,22 +49,23 @@ Puhuja 2: aloin itsekin miettimään, että en ehkä ihan niele. Ei ole isompi k
 Puhuja 0: ilmastonmuutosta. Tai isompi kuin koronapandemia. Eikö koronapandemia ihan peruttuvia
 Puhuja 0: cancelt?
 Puhuja 2: Nyt se jatkui kaksi vuotta ja kosketti aivan koko maailmaa.
-Puhuja 1: Ehkä me ei takerrottu, että meillä on tämä dramaattinen joka tapauksessa ja maailmassa. Yllättävyydessä ja siinä miten se panee maailman Euroopan turvallisuus
-Puhuja 2: käsityksiä uusiksi niin kyllä ostetaan toi.
+Puhuja 2: Ehkä me ei takerrottu, että meillä on tämä dramaattinen joka tapauksessa ja maailmassa. Yllättävyydessä ja siinä miten se panee maailman Euroopan turvallisuus
+Puhuja 2: käsityksiä uusiksi
+Puhuja 2: niin kyllä ostetaan toi.
 Puhuja 0: Hyvä, lopuksi vielä puheenaiheita pitkin ja kiusallisten hiljaisuuksien varrelle, joita voi syntyä, jos väitä tätä suurimmaksi
 Puhuja 0: uutiseksi kaksituhatta.
-Puhuja 0: Puhutaan siis aluksi Ukrainasta. Me otetaan noin kaksikymmentä minuutin päästä yhteys meidän toimittajaan Vesa Cireniin, joka on ollut nyt viikon ajan Ukrainassa raportoimassa,
-Puhuja 0: mutta ennen kuin otetaan
+Puhuja 0: Puhutaan siis aluksi Ukrainasta. Me otetaan noin kaksikymmentä minuutin päästä yhteys meidän toimittajaan Vesa Cireniin, joka on ollut nyt viikon ajan Ukrainassa raportoimassa, mutta ennen kuin otetaan
 Puhuja 0: Vesa kiinni, niin puhutaan vähän siitä, mitä tässä viikon aikana on tapahtunut. Jos ihan tällainen tiivis koonti
 Puhuja 0: alkuun,
-Puhuja 0: viikko sitten Venäjä hyökkäsi Ukrainaan
+Puhuja 0: eli viikko sitten Venäjä hyökkäsi Ukrainaan
 Puhuja 0: ja Ukrainan vastarinta on yllättänyt kaikki, kun taas Venäjän joukoista tihkuva tieto kertoo, että moraali siellä puolella ei ole ehkä kovin korkealla
 Puhuja 0: ja näyttää siltä, että siellä on jopa venäläisiä sotilaita vähän huijattu rintamalle,
 Puhuja 0: ei ole kerrottu ihan totuutta siitä,
 Puhuja 0: mitä sinne Ukrainaan on lähdetty tekemään.
 Puhuja 0: Venäjä ei ole onnistunut vielä valtaamaan
 Puhuja 0: kaupunkeja juurikaan, mutta se on toisaalta kasvattanut voimankäyttöään yhä musertavammaksi
-Puhuja 0: ja Venäjä siis hyökkää siviilikohteisiin ja jälki on veristä. Mitään tarkkoja lukuja ei ole,
+Puhuja 0: ja Venäjä siis hyökkää siviilikohteisiin
+Puhuja 0: ja jälki on veristä. Mitään tarkkoja lukuja ei ole,
 Puhuja 0: mutta puhutaan jo
 Puhuja 0: varmasti yli sadasta, ehkä jopa muutamasta sadasta siviiliuhrista.
 Puhuja 0: Samaan aikaan pommisuojissa syntyy vauvoja ja jo miljoona ukrainalaista on paennut maasta.
@@ -76,14 +77,14 @@ Puhuja 0: EU-maiden
 Puhuja 0: ja Yhdysvaltojen asettamat pakotteet ovat kiristyneet ja Venäjä alkaa olla taloudellisesti
 Puhuja 0: jo aivan romahtanut ja Venäjä on myös eristetty kulttuurisesti esimerkiksi urheilun parista.
 Puhuja 0: Miten te olette katsoneet
-Puhuja 0: tätä Venäjän eristämistä viimeisen viikon aikana? Onko tämä yllättänyt
+Puhuja 0: Venäjän eristämistä
+Puhuja 0: viimeisen viikon aikana? Onko tämä yllättänyt
 Puhuja 0: teidät kun aluksi se näytti niin heppoiselta se lännen vastaus siihen Venäjälle niin aletaanko me nyt? Ukraina on tässä akuutissa tilanteessa, mutta kyllä
 Puhuja 1: tämä aseapu
-Puhuja 1: ja kaikki muu, kyllähän siinä
-Puhuja 1: propagandassaan pystyy
+Puhuja 1: ja kaikki muu, kyllähän Venäjä pystyy siinä propagandassaan
 Puhuja 1: halutessaan sanomaan että tämä on sodanjulistus.
 Puhuja 1: Taloudelliset pakotteet voidaan nähdä taloudellisina sodankäyntineenä ja edes päin. Toivotaan
-Puhuja 2: nyt että tässä nyt Jos tämä olisi kolmas maailmansota niin Venäjän liittolaisten lista olisi lyhyt. Nythän olisi YK:n
+Puhuja 2: nyt että tässä nyt... Jos tämä olisi kolmas maailmansota niin Venäjän liittolaisten lista olisi aika lyhyt. Nythän olisi YK:n
 Puhuja 1: siinä nyt onkin jo samat kaverit.
 Puhuja 0: Se on kyllä totta. Tota
 Puhuja 0: ellei siirrytä
@@ -93,13 +94,11 @@ Puhuja 0: vai yksi sen osa-alue
 Puhuja 0: julkaistiin?
 Puhuja 2: Joo,
 Puhuja 2: IPCC eli tämä hallitusten väline ilmastopaneeli, mikä nyt on kaikista korkein auktoriteetti näissä
-Puhuja 2: ilmastoasioissa, niin se julkaisee
-Puhuja 2: niiden pää tuote on nämä arviointiraportit
+Puhuja 2: ilmastoasioissa, niin se julkaisee ja niiden päätuote päätuote on nämä arviointiraportit
 Puhuja 2: viimeksi semmoinen tuli kaksituhatta neljätoista. Silloinkin oli Venäjä hyökkäys
 Puhuja 2: päällä Krimin
 Puhuja 2: ja nyt sitten
-Puhuja 2: tänä vuonna tuli nyt
-Puhuja 2: tämä kuudes arviointi
+Puhuja 2: tänä vuonna tuli nyt tämä kuudes arviointi
 Puhuja 2: raportti. Tämä oli tosiaan sen toinen osa, se tulee kolmas osassa. Ensimmäinen
 Puhuja 2: osa, joka tuli viime syksyllä, käsitteli
 Puhuja 2: tätä tiedepohjaa
@@ -144,10 +143,9 @@ Puhuja 2: Suomessakin on toivottu, että lämpeneminen jotenkin pidentäisi sato
 Puhuja 2: Viime kesänä oli koko 2000-luvun huonoin sato, kolmekymmentä prosenttia huonompi kuin keskimäärin Suomessa näiden kuivuuksien ja helteiden takia. Voi kuvitella, että mitä se sitten on niillä maailman alueilla, jossa ne todelliset viljaitat
 Puhuja 2: sijaitsee kun se koko
 Puhuja 2: suotuisan kasvun vyöhyke siirtyy johonkin muualle. Ei
-Puhuja 2: sinne voida heti tehdä peltoja siellä on ehkä jotain muuta, sillä on kaupunkeja maaperää.
-Puhuja 2: Yksi viesti tässä raportissa oli myös se,
-Puhuja 2: että itse ilmaisin itse asiassa niin, että kun puhutaan
-Puhuja 2: paljon ilmastokriisistä,
+Puhuja 2: sinne voida heti tehdä peltoja siellä on ehkä jotain muuta, siellä on kaupunkeja maaperää.
+Puhuja 2: No sitten yksi viesti tässä raportissa oli myös se,
+Puhuja 2: että itse ilmsisin itse asiassa niin, että kun me puhutaan paljon ilmastokriisistä,
 Puhuja 2: niin ehkä oikeastaan voisi olla parempi puhua
 Puhuja 2: kokonaisuutena ympäristökriisistä.
 Puhuja 2: Tässä samaan aikaan
@@ -155,10 +153,10 @@ Puhuja 2: ne ekosysteemit, johon
 Puhuja 2: elämän maapallolla perustuu on ajettu
 Puhuja 2: todella ahtaalle.
 Puhuja 2: Ne ekosysteemit, eli luonto suomeksi sanottuna
-Puhuja 2: on toisaalta kuitenkin se joka voisi olla paras liittolainen sekä
+Puhuja 2: on toisaalta kuitenkin se, joka voisi olla paras liittolainen sekä
 Puhuja 2: ilmastonmuutoksen torjumisessa että siihen sopeutumisessa
 Puhuja 2: mut nyt siinäkin mennään väärään suuntaan ja ilmastonmuutoskin
-Puhuja 2: rasittavat sitä luontoa et yksi luku mikä siitä jäi mieleen oli että puolet maailman eliölajeista on tavallaan nyt ajettu pakolaisiksi
+Puhuja 2: rasittaa sitä luontoa et yksi luku mikä siitä jäi mieleen oli että puolet maailman eliölajeista on tavallaan nyt ajettu pakolaisiksi
 Puhuja 2: puolet maailman kaikista eliölajeista
 Puhuja 2: niiden levinneisyysalueet
 Puhuja 2: liikkuu koko ajan kohti napoja ja kohti korkeampia korkeuksia
@@ -183,9 +181,9 @@ Puhuja 0: Päämäärät on selvät, mutta se, että millä keinoilla sinne pä�
 Puhuja 0: on puhuttu vaikka siitä, miksi esimerkiksi Venäjällä on aikaisemmin ilmasto-osioon, että ei ole kauheasti kiinnostunut, niin ei ole varmaan kiinnostellut, kun siellä on ollut omia murheita niin paljon omasta takaa. Kyllä sen ehkä vähän huomaa tässäkin. Mietin, että voiko tämä olla, kun se on mahdollisuus taas siihen, no en tiedä, Pandemiastakin puhuttiin, että onko tämä mahdollisuus
 Puhuja 0: johonkin uuteen kohtuullisempaan
 Puhuja 0: elämiseen ja asumiseen ja elämäntapaan, mutta kyllähän nyt kun rajoituksia alettiin purkaa, niin kaikkihan ovat valinneet jonnekin tenerifalle.
-Puhuja 1: Mites Petja, mikä sinun veikkauksesi on? Musta tuntuu,
-Puhuja 1: että aina tämä
-Puhuja 1: ilmastonmuutoskeskustelu on jatkunut ties kuinka kauan, mutta tuntuu että aina se
+Puhuja 1: Mites Pete, mikä sinun veikkauksesi on? Musta tuntuu,
+Puhuja 1: että aina tämä...
+Puhuja 1: Ilmastonmuutoskeskustelu on jatkunut ties kuinka kauan, mutta tuntuu että aina se
 Puhuja 1: jollain tavalla nousee vahvempana julkiseen keskusteluun ja sitten tulee joku muu kriisi. Minusta tuli silloin finanssikriisi -kahdeksankymmentäkahdeksan
 Puhuja 1: ja eurokriisi. Se jäi vähän sen jalkoihin.
 Puhuja 1: Sitten se vähän unohtui siinä. Pandemia
@@ -288,10 +286,16 @@ Puhuja 1: savasta kesken. Mutta hän on jossain Muurmanskissa panttivankina ja n
 Puhuja 1: lähteä liittoutujalle
 Puhuja 1: etsimään Artemiksen
 Puhuja 1: isää. Tosi hauskasti kirjoitettuja ja
-Puhuja 1: jotenkin mua jotenkin
-Puhuja 1: muutaman kerran olevani jopa lukiessani ääneen nauran. Siellä on hauskoja läppiä.
+Puhuja 1: jotenkin mua jotenkin...
+Puhuja 1: Muutaman kerran olevani jopa lukiessani ääneen nauran. Siellä on hauskoja läppiä.
 Puhuja 1: Mitä tuntuu Artemis
 Puhuja 1: Fall, pääsee ainakin irti laivien Putinista.
+Puhuja 2: Hekääneetkin voi voittaa oveluudelta.
+Puhuja 0: Sprittiä.
+Puhuja 0: Mitä sinä suosittelet?
+Puhuja 2: Minulla on kolmekin suositusta. Näistä
+Puhuja 2: kirjoista
+Puhuja 2: voisin suositella
 Puhuja 2: Juha Kauppisen kirjoja monimuotoisuus
 Puhuja 2: ja heräämisiä.
 Puhuja 2: Jos kiinnostaa aiheet, mistä mie kirjoitan, luontokato, luonnon monimuotoisuus, niin ne ovat hyviä
@@ -305,8 +309,7 @@ Puhuja 2: jos ei joku vähän niin kuin vastarannan kiiski olisi jossakin vaihee
 Puhuja 2: Sitten toinen
 Puhuja 2: suositus, ehkä mielikuvitukset on, mutta Ateeneum.
 Puhuja 2: Menin sinne toissapäivänä, kun juuri paetakseni
-Puhuja 2: tätä
-Puhuja 2: aivan pään täytti nyt Ukrainan
+Puhuja 2: tätä aivan pään täytti nyt Ukrainan
 Puhuja 2: uutisten seuraamista.
 Puhuja 2: En täysin päässyt sodasta irti sielläkään. Siellä oli modernit naiset
 Puhuja 2: näyttely, jossa yksi osa, olikohan se helmikuussa
@@ -318,9 +321,8 @@ Puhuja 2: muuttunut. Ja sitten kolmantena suosittelen vielä tietenkin lintuharr
 Puhuja 2: aloittamista.
 Puhuja 2: Nyt on vielä hyvä mahdollisuus, koska nythän
 Puhuja 2: lintujen kevätmuutto on alkanut ensimmäiset lajit, Kiurut ja merihannet ja muut jo tulleet. Mutta nyt ei ole vielä liian suurta
-Puhuja 2: lajipalettia. Jos nyt aloittaa, se lajimäärä on tavallaan vielä hallittava se lajimäärä hetken aikaa kunnes sitten tästä kevät etenee. Ja voi saada Suomen
-Puhuja 2: bördLifella on sellainen sata lajien haaste
-Puhuja 2: netistä, jossa voi merkkailla ja koittaa saada sata lajia täyteen vuoden aikana. Mutta miten ne tunnistavat, kun ne ovat niin pieniä ja nopeita?
+Puhuja 2: lajipalettia. Jos nyt aloittaa, se lajimäärä on tavallaan vielä hallittava se lajimäärä hetken aikaa kunnes sitten tästä kevät etenee. Ja voisi saada Suomen
+Puhuja 2: bördLifella on sellainen sata lajien haaste. Löytyy netistä, jossa voi merkkailla ja koittaa saada sata lajia täyteen vuoden aikana. Mutta miten ne tunnistavat, kun ne ovat niin pieniä ja nopeita?
 Puhuja 1: Kaikki samannäköisiä.
 Puhuja 0: Kaikki on lippujen näkö.
 Puhuja 2: Ruokinnalta voi aloittaa, vaan kiikarit.
@@ -346,12 +348,11 @@ Puhuja 0: Ei ole olemassakaan. No onpas.
 Puhuja 1: Siellä on Anjalan ABC:ssa.
 Puhuja 1: Ei kun se on Keltakankaan ABC. Ei kun Anjalankoske on. Ei kun se on Keltakankaan ABC. Ei kun Anjalankoske. No anyway,
 Puhuja 0: niin siellä me vedeltiin
-Puhuja 0: Itse asiassa siinä juuri ennen Anjalankosken
-Puhuja 0: AMC:tä.
+Puhuja 0: sitten. Itse asiassa siinä juuri ennen Anjalankoske AmeC:tä.
 Puhuja 1: Jotain ole olemassa.
 Puhuja 0: Kello on viisi:neljäkymmentä,
 Puhuja 0: niin voitteko kuvitella, kun olimme hiihtäneet siinä vaiheessa varmaan se joku kahdeksan tuntia
-Puhuja 0: yöllä metsän pimeydessä. Voin kertoa, että siinä kahden kolmen maissa, jota on voimalinjojen alla, yön pimeydessä hiihtää kompassin mukaan suoraan linjaa kohti itää, niin siinä miettii
+Puhuja 0: yöllä metsän pimeydessä? Voin kertoa, että siinä kahden kolmen maissa, jota on voimalinjojen alla, yön pimeydessä hiihtää kompassin mukaan suoraan linjaa kohti itää, niin siinä miettii
 Puhuja 0: kaikenlaista.
 Puhuja 2: Siis oikeastaan umpihankihiihto
 Puhuja 0: vielä? No siis moottorikelkkareittiä
@@ -381,7 +382,7 @@ Puhuja 0: varmisti. Me näimme Elon Muskin Star-linkin
 Puhuja 0: satelliittien
 Puhuja 0: laukaisu, jotka siis samana
 Puhuja 0: iltana laukatiin Kaliforniasta.
-Puhuja 1: Liittyykö ne Ukrainan? Sinä lupasit Startusasiantuntija?
+Puhuja 2: Liittyykö ne Ukrainan? Sinä lupasit Startusasiantuntija?
 Puhuja 0: Voi olla, että jotkut noista oli Ukrainaa
 Puhuja 2: varten tarkoitettuja Starlinkin. Eli sun suositukset on Kaukopartojen hiihto Anjalankosken
 Puhuja 1: ABC:n ja ufojen tarkka. Mutta nyt palaan vielä tähän Anjalankoske, näinhän se meni.
@@ -392,7 +393,7 @@ Puhuja 1: Ja sehän on täysin fiktiivinen,
 Puhuja 1: ei sellaista
 Puhuja 1: ole oikeastaan paikkaa kun Anjalankoski ei olemassakaan.
 Puhuja 0: Siis Anjalankoski on tällainen suuralue, johon on liitetty näitä eri alueita.
-Puhuja 0: Mutta paitsi että Anjalan koskeekaan tavallaan Sehän oli
+Puhuja 0: Mutta paitsi että Anjalan koskeekaan tavallaan... Sehän oli
 Puhuja 0: tällainen liitoksista koottu kaupunki, mutta vuonna
 Puhuja 0: kaksituhatta yhdeksän
 Puhuja 0: yhdistyi Kouvolaan, suurKouvolaan,
@@ -400,8 +401,10 @@ Puhuja 0: mutta kaikkihan tietää, että suurKouvola varsinkin on täysin fikti
 Puhuja 1: maakuntaa rajat ovat. Eihän hän kukaan Myllykoskelainen puhuu itsestään Anjalankoskelaisena
 Puhuja 2: Elimmällä juttukeikalla
 Puhuja 2: noita Kaarnakuoriaisia
-Puhuja 2: katselemassa, niin eivät hekään kyllä kouvolalaisiksi
-Puhuja 0: itseäsi. Ei todellakaan.
+Puhuja 2: katselemassa, niin eivät hekään kyllä kouvolalaisisi
+Puhuja 2: itseäsi.
+Puhuja 0: Ei
+Puhuja 0: todellakaan.
 Puhuja 0: Eilen oli muuten illalla uutisissa Ylellä juttua näistä pommisoista. Ne olivat Kuusankosken
 Puhuja 0: pommisoiissa, missä minäkin olin koko nuoruuteni käynyt urheilemassa
 Puhuja 0: ja pelaamassa

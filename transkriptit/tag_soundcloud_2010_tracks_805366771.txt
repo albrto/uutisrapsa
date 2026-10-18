@@ -12,26 +12,27 @@ Puhuja 0: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
-Puhuja 0: Helsingin
+Puhuja 1: Helsingin
 Puhuja 1: Sanomat
 Puhuja 0: Hei! Tervetuloa Helsingin Sanomien Uutiraportti podcastiin
-Puhuja 0: torstaina kaksimiljoonaa kolmesataakaksitoistatuhatta
+Puhuja 0: torstaina
+Puhuja 0: kaksimiljoonaa kolmesataakaksitoistatuhatta
 Puhuja 0: kaksikymmentä.
 Puhuja 0: Minun nimeni on Tuomas Peltomäki. Kanssani
 Puhuja 0: ihmeellisessä
 Puhuja 0: upeassa, erikoisessa
-Puhuja 0: bitttilähetyksessä,
+Puhuja 0: bitttilähetyksessä
 Puhuja 0: jossa meillä on nyt vähän tämmöiset hyppivät kamerat. Se vähän rasittaa mua. Mä oon varma, että se rasittaa kaikkia muitakin. Mä olen siitä pahoillani.
 Puhuja 0: Täällä hyppivien kameroiden digitaalisessa avaruudessa ovat:
 Puhuja 0: Helsingin Sanomien politiikan toimittaja Marko Junkkari.
 Puhuja 0: Hei Marko!
-Puhuja 2: Voi, mikä ihmeen hyppivät kamerat?
-Puhuja 0: Tämä
-Puhuja 0: salainen teknologia, mitä me käytetään, mitä ei missään nimessä saa paljastaa,
+Puhuja 2: Moi, mikä ihmeen hyppivät kamerat?
+Puhuja 0: Tämä salainen teknologia, mitä me käytetään, mitä ei missään nimessä saa paljastaa,
 Puhuja 0: niin se on tämmöinen auto focus.
 Puhuja 0: Jos
 Puhuja 0: te liikutte Millin oikealle, niin kamera
-Puhuja 0: heittää sille metri oikealle. Eli pysykää paikallanne.
+Puhuja 0: heittää sille metri
+Puhuja 0: oikealle. Eli pysykää paikallanne.
 Puhuja 0: Hei Marko!
 Puhuja 0: Paikalla on myös
 Puhuja 0: Helsingin Sanomien Washingtonin kirjoja Vaihteena Anna-Sofia Berner,
@@ -41,7 +42,7 @@ Puhuja 0: Koronaviikko
 Puhuja 0: viisi-kuusi
 Puhuja 0: meneillään. Miten te jaksatte?
 Puhuja 2: Mä olin eilen
-Puhuja 2: pelaamassa Funista lasten kanssa ja mä voin näyttää mun sormelle. Mulla tuli pallo suoraan tohon, onks tää nyt nimetty vai mikä tää sormi on? Suoraan tohon kärkeen.
+Puhuja 2: pelaamassa Funista lasten kanssa ja mä voin näyttää mun sormelle. Mulla tuli pallo suoraan tohon, onks tää nyt nimetty vai mikä tää sormi on, suoraan tohon kärkeen.
 Puhuja 2: Nyt se on turvonnu ja se on ihan musta.
 Puhuja 1: Hetke
 Puhuja 1: hetken jo pelästyin, että sä oot ollut pelaamassa futista
@@ -49,8 +50,8 @@ Puhuja 1: jonkun vieraiden ihmisten kanssa, mutta hyvä että perhepiirissä on.
 Puhuja 0: Sähän olet kirjoittaja Marko. Sähän olet varmaan tuon nojalla nyt kyllä jäädä sairaslomalle.
 Puhuja 2: No joo no kyl sä nyt kumminkin liikkua!
 Puhuja 0: Niin ja yhen sormen
-Puhuja 0: tekniikka.
-Puhuja 0: Kyllä. Miten sinulla sohviminen,
+Puhuja 0: tekniikka. Kyllä.
+Puhuja 0: Miten sinulla sohviminen,
 Puhuja 0: onko pää pysynyt läjässä täällä? Joudut olemaan kylmässä, mitättömässä, harmaassa Suomenmaassa vielä kaiken muun lisäksi.
 Puhuja 1: Kyllä se, että tässä viikot seuraa toisiaan eikä niitä enää
 Puhuja 0: erota.
@@ -90,7 +91,8 @@ Puhuja 1: Saadaanko me laittaa mutelle ja poistua?
 Puhuja 0: Suomen strategia nojaa nyt rajoitustoimien
 Puhuja 0: hallitun purkamisen
 Puhuja 0: ohella
-Puhuja 1: testaa, jäljitä, eristä ja huvi. Tunnistan myös sen huvituksen, mutta myös se ehkä
+Puhuja 0: testaa,
+Puhuja 1: jäljitä, eristä ja huvi. Tunnistan myös sen huvituksen, mutta myös se ehkä
 Puhuja 1: sitten auttaa käsittelemään sitä pettymystä siitä että... Ja ehkä Puolustusvoimain
 Puhuja 1: komentaja vielä joka
 Puhuja 1: teoriassa vastuussa on suomalaisten
@@ -129,8 +131,7 @@ Puhuja 2: muiden tarjoajien vinkkelistä. Hän pystyy reklavoimaa tuosta ja vali
 Puhuja 0: Onko tämä kuitenkin viime kädessä, onko tämä
 Puhuja 0: tavallaan sitten
 Puhuja 0: käytännössä
-Puhuja 0: kuka pääministeri
-Puhuja 0: silloin olikaan, kun nämä kaupat laitettiin käyntiin
+Puhuja 0: kuka pääministeri silloin olikaan, kun nämä kaupat laitettiin käyntiin
 Puhuja 0: ja kuka oli puolustusministeri.
 Puhuja 0: Olisiko siinä vaiheessa pitänyt jo
 Puhuja 0: siviilihallituksen
@@ -235,8 +236,9 @@ Puhuja 1: Okei. Ratas herrat kuriin.
 Puhuja 0: Nyt näin.
 Puhuja 0: Onko silleen, että ensi viikolla on vappu?
 Puhuja 2: Joo. Onko ensi torstaina vappulla?
-Puhuja 1: Vappu Antkon Torstaina.
-Puhuja 2: Noniin. Sitten lähdetään Eskalle. Sitten
+Puhuja 1: Vappu Antkon Torstaina. Noniin.
+Puhuja 2: Sitten
+Puhuja 2: lähdetään Eskalle. Sitten
 Puhuja 0: Okei,
 Puhuja 0: vappuhommat ensi viikolla. Nyt kun lähdette kuivaharjoittelemaan vappua,
 Puhuja 0: niin hillittävät bileethän silloin on tulossa
@@ -284,8 +286,8 @@ Puhuja 1: islam uskontopohjavire,
 Puhuja 1: niin sit musta se ennen kaikkea kuitenkin kertoo lapsista ja lapsuudesta.
 Puhuja 1: On hirvittävän viehättävä ja taitaa tuosta... Kuulostaa ihan.... Dokumentti ja sit se siis on kuvattu vielä silloin samaan aikaan kun tapahtu ne Brysselin
 Puhuja 1: terrodi-iskut. Niin
-Puhuja 1: se on vähän siellä taustalla
-Puhuja 0: myös. Okei mahtava suositus, kiitos Suvi.
+Puhuja 1: se on vähän siellä
+Puhuja 0: taustalla myös. Okei mahtava suositus, kiitos Suvi!
 Puhuja 2: Marko. Joo mä rupesin lukemaan, en oo lukenut vielä kokonaan, mutta aloitin pari päivää sitten
 Puhuja 2: Se on tämä Rolling stone lehti
 Puhuja 2: minkä varmaan tiedätte, niin
@@ -326,8 +328,7 @@ Puhuja 0: versio tai muuta, iso media. Todella iso media,
 Puhuja 0: globaali.
 Puhuja 0: Joka on siis tutkijoiden
 Puhuja 0: kirjoittama.
-Puhuja 0: Ja itse asiassa se
-Puhuja 0: konsepti on aika jees. Siinä on tutkijoiden kirjoittamia artikkeleita
+Puhuja 0: Ja itse asiassa se konsepti on aika jees. Siinä on tutkijoiden kirjoittamia artikkeleita
 Puhuja 0: ajankohtaisista aiheista
 Puhuja 0: eli COVID-yhdeksäntoista
 Puhuja 0: eri maskit ja kaikki näin. Ne on sen alan spesialistit tutkijoiden kirjoittamia, mutta sitten se editorporras
@@ -443,7 +444,7 @@ Puhuja 0: Marsu!
 Puhuja 1: Saanko
 Puhuja 1: mahdollisesti
 Puhuja 1: eväillä
-Puhuja 1: sivistykselläni tai sitten en, koska en ole ihan varma, mutta oliko niin, että italialainen futurismi
+Puhuja 1: sivistykselläni tai sitten en, koska en ole ihan varma, mutta oliko niin, että italialainen futurismi oli myös
 Puhuja 0: rohkeasti?
 Puhuja 0: Kyllä!
 Puhuja 0: Innoitti fasistisia
@@ -451,8 +452,9 @@ Puhuja 0: taidesuuntia.
 Puhuja 0: Sä olet fiksu ja sivistynyt, ja mä ihailen sua sohvi.
 Puhuja 0: Syystä.
 Puhuja 0: Oliko se nyt paha? Montako minuuttia? Kymmenen minuuttia meni. Ei ollut mitenkään pahaa verrattuna moniin.
-Puhuja 1: Sä olit ehkä miettinyt sen jotenkin läkkyy. Lämpp.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marki
+Puhuja 1: Sä olit ehkä miettinyt sen jotenkin läkkyy. Lämmen.
+Puhuja 0: Okei,
+Puhuja 0: siinä kaikki tältä erää. Kiitos Marki
 Puhuja 0: Junkkari. Kiitos.
 Puhuja 0: Kiitos Anna-Sofia Verner.
 Puhuja 1: Kiitos.
@@ -476,7 +478,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

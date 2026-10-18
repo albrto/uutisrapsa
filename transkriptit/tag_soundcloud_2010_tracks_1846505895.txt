@@ -26,7 +26,7 @@ Puhuja 1: toimittaja
 Puhuja 1: Anna-Sofia Berner, ystävien kesken Sohvi. Hei Sohvi! Moi
 Puhuja 1: Anni! Moi!
 Puhuja 1: Täällä on myös
-Puhuja 1: tutkivan tiimin esihenkilö... Tai sama Vuorikoski. Saati Vuorikoski. No hei tai niin kuin Tuomas sanoi, tutki vain juttujain. Vähän kaivannut sitä. Nyt ollaan ilman Tuomasta. Nyt ollaan ilman Tuomasta. Tuomas on jäänyt parin viikon sairauslomalle. Sen jälkeen hänellä alkaa kesälomat. Tuomasta kuulee seuraavan kerran vasta kesälomien jälkeen.
+Puhuja 1: tutkivan tiimin esihenkilö... Tai sama Vuorikoski. Saati Vuorikoski. No hei tai niin kuin Tuomas sanoi, tutki vain juttujain vähän kaivannut sitä. Nyt ollaan ilman tuomasta. Nyt ollaan ilman tuomasta. Tuomas on jäänyt parin viikon sairauslomalle. Sen jälkeen hänellä alkaa kesälomat. Tuomasta kuulee seuraavan kerran vasta kesälomien jälkeen.
 Puhuja 1: HyY,
 Puhuja 1: voi ei. Mutta me ollaan täällä vielä
 Puhuja 1: pari viikkoa ennen kuin
@@ -37,7 +37,7 @@ Puhuja 1: ilmeisesti.
 Puhuja 1: Niin Markokaan ei ole.
 Puhuja 1: Mutta aloitetaan oikaisuilla.
 Puhuja 1: Ensinnäkin
-Puhuja 2: niillä on aina välillä.
+Puhuja 3: niillä on aina välillä.
 Puhuja 2: Lehdessähän
 Puhuja 2: ne ovat siellä jossain
 Puhuja 2: vähän myöhemmässä osiossa, niin eikö meidän pitäisi jossain
@@ -96,7 +96,7 @@ Puhuja 1: jääkiekko finaalin parissa sekä suurikokoinen vaaliorganisaatio.
 Puhuja 1: Molempiin toimituksiin tilattiin illan aikana pizzaa.
 Puhuja 1: Maanantaina kaksisataakuusikymmentäviisi.
 Puhuja 1: Aamun pomokokousta
-Puhuja 1: puhuttiin yksi asia: Minne katosi osa vaalitoimittajille hankituista pizzoista?
+Puhuja 1: puhuttiin yksi asia: minne katosi osa vaalitoimittajille hankituista pizzoista?
 Puhuja 1: Niitä oli varta vasten säästetty, jotta vaalikentiltä palaavat kolikkoa.
 Puhuja 3: Ei pysty sanomaan, että kuka se supertähti on ja on selvää, että republikaanipuolue
 Puhuja 3: olisi siinä tilanteessa aika suuressa kriisissä, koska he ovat tavallaan kiinnittäneet kaiken
@@ -110,9 +110,9 @@ Puhuja 3: eurovaaleissa, että on
 Puhuja 3: populistioikeistolainen
 Puhuja 3: ja radikaalioikeistolainen
 Puhuja 3: liikehdintä, jossa kyseenalaistetaan
-Puhuja 3: luottamus vaikka oikeusvaltioon tai demokraattisiin
-Puhuja 3: instituutioihin ja maahanmuutolla
-Puhuja 3: tietenkin ratsastetaan myös paljon, niin se ei ole mitenkään vain Trumpiin sidottu
+Puhuja 3: luottamus vaikka oikeusvaltioon
+Puhuja 3: tai demokraattisiin
+Puhuja 3: instituutioihin ja maahanmuutolla tietenkin ratsastetaan myös paljon, niin se ei ole mitenkään vain Trumpiin sidottu
 Puhuja 3: ilmiö, vaan se on yleislänsimainen ilmiö, että varmasti jollain tavalla ne politiikan kysymykset pysyisi ennallaan, mutta kyllähän
 Puhuja 3: samalla se muuttaisi kaiken.
 Puhuja 2: Tulee mieleen tällaisia rinnastuksia Li Anderssoniin, mutta
@@ -124,7 +124,8 @@ Puhuja 2: joka on minun käsittääkseni aika vahva puolueessa,
 Puhuja 2: niin
 Puhuja 2: sitten tavallaan sekin, että jos nyt kritiikki yltyisi ja tilanne muuttuisi huonommaksi, niin kuka sieltä sitten tulee?
 Puhuja 2: Siellä olisi helppo kysymys puolueelle, mutta jostain ne sitten on. Kyllä niitä aina sitten jostain kasvaa.
-Puhuja 1: Entä sitten demokraatit, ovatko Onko he samalla tavalla Bidenin varassa?
+Puhuja 1: Entä sitten demokraatit, ovatko
+Puhuja 1: Onko he samalla tavalla Bidenin varassa?
 Puhuja 3: No
 Puhuja 3: hehän ei mun mielestä,
 Puhuja 3: koska tavallaan siellä
@@ -134,18 +135,18 @@ Puhuja 3: voi olla, mutta demokraatit ole
 Puhuja 3: päinvastoin. Biden on varmaan heille taakka,
 Puhuja 3: mutta mun mielestä ne eivät ole rinnasteisia
 Puhuja 3: tässä.
-Puhuja 3: Trump on vienyt replikaanit kokonaan eri puolueeksi
+Puhuja 3: Trump on vienyt replikaanit
+Puhuja 3: kokonaan eri puolueeksi
 Puhuja 3: Ja sitten mitä hänen jälkeensä, niin
-Puhuja 3: sitä ei voi suorittaa. Niin, Bybedinnilla on taustallaan
-Puhuja 1: paljon
-Puhuja 1: ajattelijoita,
+Puhuja 1: sitä ei voi suorittaa. Niin, Bybedinnilla on taustallaan
+Puhuja 1: paljon ajattelijoita,
 Puhuja 1: mitä mä nyt saan vuodelleen?
 Puhuja 3: Niin
 Puhuja 3: siis molemmissa on
 Puhuja 3: politiikan asiakysymyksiä, mutta se vaan henkilöityy niin paljon voimakkaammin
 Puhuja 3: Trumpiin se hänen suosio ja just se, että jos miettii,
-Puhuja 3: mitä Elinakin selvitti
-Puhuja 3: jututtamalla niitä kannattajia,
+Puhuja 3: mitä Elinakin selvitti jututtamalla
+Puhuja 3: niitä kannattajia,
 Puhuja 3: että mikä oli tämän tuomion
 Puhuja 3: vaikutus
 Puhuja 3: tähän, koska ennen vaaleja oli ollut kaikenlaisia galluppeja, että jos Trump tuomitaan
@@ -159,8 +160,8 @@ Puhuja 3: tuomittiin rikoksesta,
 Puhuja 3: niin repuplikait
 Puhuja 3: ei muuttanut mieltään Trumppista, vaan muutti mieltään siitä, miten he suhtautuvat rikoksesta tuomittuun ehdokkaaseen.
 Puhuja 3: Sen jälkeen, kun tuomio tuli, niin he vastaakin, että no eipä sillä oikeastaan olekaan juuri väliä tai kyllä voisinkin äänestää rikoksesta tuomittua ehdokasta.
-Puhuja 2: Jos sinulla on semmoinen iso
-Puhuja 2: opinkappale, johon uskot tuohon, johon olet itsesi sitonut ja pannut paljon omaa sosiaalista pääomaa siihen kiinni, niin vaikka mieluummin muutat olosuhteita
+Puhuja 2: Jos sinulla on semmoinen
+Puhuja 2: iso opinkappale, johon uskot tuohon, johon olet itsesi sitonut ja pannut paljon omaa sosiaalista pääomaa siihen kiinni, niin vaikka mieluummin muutat olosuhteita
 Puhuja 2: siinä ympärillä, jotta se mahtuu sun johonkin.
 Puhuja 3: Nimenomaan ja ihminen
 Puhuja 3: perustelee sitä itselleen sillä,
@@ -182,8 +183,8 @@ Puhuja 3: että rikollinen voi olla presidentti.
 Puhuja 3: Nämä luvut melkein vaihtoivat paikkaa, että
 Puhuja 3: sitten tuomion jälkeen viisikymmentäkahdeksan
 Puhuja 3: prosenttia oli sitä mieltä, että kyllä oikeastaan voikin rikollinen olla presidentti.
-Puhuja 1: Saysi
-Puhuja 2: sama. Joo, kaksikymmentäkolme oli vastaan enää. Tosi Suomessa vähän tollanen gallup, että mitä suomalaiset
+Puhuja 1: Saysi sama.
+Puhuja 2: Joo, kaksikymmentäkolme oli vastaan enää. Tosi Suomessa vähän tollanen gallup, että mitä suomalaiset
 Puhuja 3: mieltä. Meillä ei niin no presidentin ehkä se presidentti olisi se vertailukohta siinä.
 Puhuja 1: Tällä viikolla oli joitain otsikoita myös Hanter Bidenista. Mitä ne oli? No Hanter Biden, joka on siis job Bidenin
 Puhuja 3: tuhlaajapoika,
@@ -194,7 +195,7 @@ Puhuja 3: ja ties mitä kaikkea,
 Puhuja 3: niin hän sai semmoisen tuomion, että hän oli valehdellut
 Puhuja 3: aselupahakemuksessaan
 Puhuja 3: ja siitä voi joutua vielä vankilaan.
-Puhuja 2: No vaikuttaakoko nämä nyt sitten Jopaidat? En usko, että ne vaikuttavatko Jopaidaniin? Eikö se voi vaikuttaa periaatteessa toiseen suuntaan, koska Bidenilla kai osaat paremmin tämän tekniikan, mutta olisi mahdollisuus armahtaa
+Puhuja 2: No, vaikuttaakoko nämä nyt sitten Jo Bideniin? En usko, että ne vaikuttavatko Jo Bideniiniin? Eikö se voi vaikuttaa periaatteessa toiseen suuntaan, koska Bidenilla kai osaat paremmin tämän tekniikan, mutta olisi mahdollisuus armahtaa
 Puhuja 2: poikansa.
 Puhuja 2: Hän on sanonut, että
 Puhuja 2: hän ei armahda ja halannut poikaansa ja tavallaan tämä varmaan on myös kerännyt jotain
@@ -203,7 +204,8 @@ Puhuja 3: Repuplikaatit kyllä pitävät häntä esillä,
 Puhuja 3: ja tavallaan
 Puhuja 3: teoriassa voisi ajatella, että
 Puhuja 3: oikeusjärjestelmä
-Puhuja 3: ei ole puolueellinen, koska presidentin voi olla juuri
+Puhuja 3: ei ole puolueellinen, koska presidentin voi olla...
+Puhuja 1: Nimenomaan
 Puhuja 2: jotain analyyseja luin siitä, että jotkut ajattelevat, että sen voisi hyödyttää Bidenia, että hän pystyy ikään kuin osoittamaan, että poikani tuomittiin ja näin on ja en puutu asiaan.
 Puhuja 1: Vai oliko se feikki, koska niitä voi liikkua feikkejäkin. Ihan kuvitella jo vahvasti.
 Puhuja 1: Eikö teille koskaan käy niin?
@@ -220,20 +222,20 @@ Puhuja 3: Varaapresidenttiehdokas
 Puhuja 3: pitää vaihtaa Kamaläharis sivuun
 Puhuja 3: ja arvaa kuka tilalle?
 Puhuja 3: Tayler
-Puhuja 3: Swift.
+Puhuja 3: Sweeves.
 Puhuja 3: Ja
 Puhuja 3: sitten
-Puhuja 3: hän uudestaan, kun Biden oli ollut siellä Norman diassa, niin lähdettiin, että katsoko nyt, mitä sanoin.
+Puhuja 3: hän uudestaan, kun Biden oli ollut siellä Norman diassa, niin lähdettiin, että katsoiko nyt, mitä sanoin.
 Puhuja 1: Voisikohan se tehdä
 Puhuja 1: musiikkia edelleen varapresidenttinä?
 Puhuja 1: Varapresidenttihän
 Puhuja 3: ei ole oikeasti mitään velvollisuuksia sinänsä.
-Puhuja 1: Eikö Camilla Heriski ole vähän niinkuin kiertueella koko ajan?
+Puhuja 1: Eikö Kaveri Hriski ole kiertueella koko ajan?
 Puhuja 2: Sano sohvi nyt,
 Puhuja 2: että se on just toi Bidenin tilanne, niin välillä näyttää
-Puhuja 2: aivan karmeata, että se on ihan kuutamolla.
-Puhuja 2: Mikä sun
-Puhuja 2: analyysi on? Tuleeko tuosta mitään, neljä vuotta? No
+Puhuja 2: aivan karmeata, se on ihan kuutamolla.
+Puhuja 2: Mikä
+Puhuja 2: sun analyysi on? Tuleeko tuosta mitään, neljä vuotta? No
 Puhuja 3: hän on vanha. Ei mulla ole siihen mitään muuta sanottua kuin että hän on vanha, mutta Yhdysvalloille
 Puhuja 3: menee ihan hyvin monilla
 Puhuja 3: objektiivisilla mittareilla Yhdysvaltain taloudella menee hyvin.
@@ -242,8 +244,7 @@ Puhuja 3: vai ei, että on kaksi tämmöistä isoa sotaa, mutta
 Puhuja 3: niidenkin kanssa
 Puhuja 3: hän hoitaa niitä asioita ja nythän esim. Tällä viikolla matkustaa
 Puhuja 3: kahdesti
-Puhuja 3: viikon sisään Yhdysvalloista
-Puhuja 3: Eurooppaan.
+Puhuja 3: viikon sisään Yhdysvalloista Eurooppaan.
 Puhuja 3: Terveyspalveluissa? Kyllä, minun mielestäni niistä raportoidaan.
 Puhuja 3: Toki sillä on väliä, että miten hän pystyy hoitamaan tehtävänsä, mutta en pysty sitä arvioimaan.
 Puhuja 3: Se millä nyt vaalien kannalta on väliä, on niillä Annin näkemillä videoilla, että ihmiset ajattelee, että hän on vanha ja näkee niitä asioita. Ja sellaista vaihtoehtoa, että se ehdokas ei
@@ -253,8 +254,8 @@ Puhuja 3: näin New Yorktamisessä
 Puhuja 3: joku kolumnisti toivoi, että
 Puhuja 2: Biden tekisi johtopäätökset, mutta en usko, että sitä kyllä tapahtuu. Voiko clusata tämän kertomalla, että just tuli tieto, että Suomen vanhin ihminen on kuollut 110-vuotiaana,
 Puhuja 2: että onhan paidenilla vielä vuosikymmeniä aikaa.
-Puhuja 2: Nimenomaan, siihen on vielä matkaa. Vuosikymmeniä aika. No niin, pahoittelut Suomen vanhimman ihmisen omaisille.
-Puhuja 3: Edeltä Suomen vanhinta haastattelin pari vuotta sitten. Se oli tosi hyvä juttu.
+Puhuja 1: Nimenomaan, siihen on vielä matkaa. Vuosikymmeniä aika. No niin, pahoittelut Suomen vanhimman ihmisen omaisille.
+Puhuja 3: Edellvi kissala oli ihan. Edellistä Suomen vanhinta haastattelin pari vuotta sitten. Se oli tosi hyvä juttu.
 Puhuja 1: No niin, sitten kun
 Puhuja 1: Miten me näistä
 Puhuja 2: kuolemista nyt siirrytään, Ilaisuun? Mitä sun pitää nyt liikaa?
@@ -274,17 +275,19 @@ Puhuja 3: No minä veisin hänet
 Puhuja 3: Oulunkylän Knistani
 Puhuja 3: jalkapallopeliin, koska niissä olen alkanut tänä kesänä käydä. Onko se bändwagön
 Puhuja 2: tyyppi itse?
-Puhuja 3: Olin kyllä jo ykköstiivarin peleissä pari vuotta sitten yhdessä, joten puolustan tätä.
-Puhuja 3: Mutta elämäntilanne ei sallinut, mutta nyt se sallii.
+Puhuja 3: Olin kyllä jo ykköstiivarin
+Puhuja 3: peleissä pari vuotta sitten yhdessä, joten puolustan tätä.
+Puhuja 3: Mutta nyt
+Puhuja 3: se sallii.
 Puhuja 3: Tämä on tosi iso asia Oulunkylälle,
-Puhuja 3: jossa asun,
-Puhuja 3: että
+Puhuja 3: jossa siis asun, että
 Puhuja 3: kaupunginosajoukkue on noussut Suomen
 Puhuja 3: Veikkausliigan korkeimmalle sarjatasolle
 Puhuja 3: ja Ogelissa ollaan siitä jotenkin tosi innoissaan ja
 Puhuja 3: olen ollut nyt kolmessa pelissä tällä kaudella.
 Puhuja 1: Miten on mennyt?
-Puhuja 3: No semi hyvin, että
+Puhuja 3: No
+Puhuja 3: semi hyvin, että
 Puhuja 3: varmaan kaikkein toive on lähinnä, että ne pystyisi pysymään
 Puhuja 3: sarjassa ja toistaiseksi
 Puhuja 3: näyttää ihan mahdolliselta, että niin käy.
@@ -319,14 +322,19 @@ Puhuja 3: areenalle. Tässä oli tällaista suuren maailman
 Puhuja 3: jalkapallokulttuurimeininkiä.
 Puhuja 3: Mitään ikävää ei siis tapahtunut, mutta se näytti vaikuttavalta
 Puhuja 3: ja sitten ne HJK:n kannattajat, jotka
-Puhuja 3: on hyvin organisoituneita
+Puhuja 3: oli siis hyvin organisoituneita
 Puhuja 3: ja niillä
 Puhuja 3: on kannattajalaulut
 Puhuja 3: ja niitä oli paljon ja ne on
-Puhuja 3: nuoria, mutta kuitenkin aikuisia miehiä ja niillä oli soidut, jotka oli tietenkin kiellettyä, mutta he saisivat Oulunkylässä
-Puhuja 3: metsiä,
-Puhuja 3: semmoisia perinteisiä jalkapallokannattajia
-Puhuja 3: ja sitten siellä on se meidän joukkueen pääty, jossa on ne 10-vuotiaat pojat, jotka kuitenkin aivan täysillä
+Puhuja 3: nuoria, mutta kuitenkin aikuisia miehiä ja niillä oli soihdut, jotka oli tietenkin kiellettyä, mutta he saisivat olla Oulunkylässä
+Puhuja 3: ne osuuden.
+Puhuja 3: He sai ne katsomaan ja siellä on yksi pääty katsomaan,
+Puhuja 3: joka on täynnä näitä
+Puhuja 3: testosteroniaa
+Puhuja 3: uhkuvia
+Puhuja 3: metsiä, semmoisia
+Puhuja 3: perinteisiä jalkapallokannattajia.
+Puhuja 3: Ja sitten siellä on se meidän joukkueen pääty, jossa on ne 10-vuotiaat pojat, jotka kuitenkin aivan täysillä
 Puhuja 3: sen kaiken mikä heistä lähtee,
 Puhuja 3: yrittää kumota sen
 Puhuja 3: HJK:n
@@ -347,13 +355,12 @@ Puhuja 2: Kyllä mä huomaan, että vaikka mun mielestä Armand Duplantissa on i
 Puhuja 2: on ilo seurata sitä, niin silti ei ole tavallaan joku pieni osa menossa. Toivoi, että voi kun se nyt
 Puhuja 2: tulisi
 Puhuja 1: kääd. Se oli mahtava hetki, kun se pääsi jonkun vuorokauden yli.
-Puhuja 3: Band Bagoniin.
+Puhuja 1: Band Bagoniin.
 Puhuja 3: Ja jos haluaa nähdä tämän kesän jalkapalloilmiön,
 Puhuja 3: niin tulemaan Oulunkylään.
 Puhuja 1: Gnistanin peleihin.
 Puhuja 2: Salla? Joo.
-Puhuja 2: Suosittelen
-Puhuja 2: kirjaa.
+Puhuja 2: Suosittelen kirjaa.
 Puhuja 2: Tämä on Intokustannuksen
 Puhuja 2: kustantama
 Puhuja 2: kirja ja sen tekijät ovat Matti Mörttinen politiikan toimittajakollega
@@ -368,18 +375,17 @@ Puhuja 2: huomiota ja miten
 Puhuja 2: vuosikymmenten aikana on ollut erilaisia. Harri Holkeri kävelee
 Puhuja 2: tv-studiosta
 Puhuja 2: ulos.
-Puhuja 2: Ja sitten on
+Puhuja 2: Sitten on
 Puhuja 2: kaikkea historian kamaa, jota olen ehkä joskus kuullut tai ette ole koskaan kuullutkaan,
 Puhuja 2: että
 Puhuja 2: kelpo Gröndahl
-Puhuja 2: urheilija oli Suomen ensimmäinen
-Puhuja 2: julkkispoliitikko.
+Puhuja 2: urheilija oli Suomen ensimmäinen julkkispoliitikko.
 Puhuja 2: En ollut kuullut. Tämä kirja kertoo muun muassa hänen tarinaansa.
 Puhuja 2: Olen lukenut tätä sen takia, kuten aina pitää podissa, että kirjoitan Sanna Marinista kirjaa.
 Puhuja 2: Sen yhteydessä tässä myös käsitellään Marinia
-Puhuja 2: tällaisena mediahahmona ja sen takia tähän kirjaan tartuin.
-Puhuja 2: Suosittelen tätä, koska tässä jotenkin aika
-Puhuja 2: sutjakkaasti yhdistellään asioita ja käydään historiaa ja nykypäivää.
+Puhuja 2: mediahahmona ja sen takia tähän kirjaan tartuin.
+Puhuja 2: Suosittelen tätä, koska tässä jotenkin
+Puhuja 2: aika sutjakkaasti yhdistellään asioita ja käydään historiaa ja nykypäivää.
 Puhuja 2: Ehkä ainoa
 Puhuja 2: kritiikin aihe:
 Puhuja 2: Toimittajahan on semmoinen, että haluat välillä tsekata asioita nopeasti ja sisällysluettelosta
@@ -411,8 +417,7 @@ Puhuja 1: tällaisiin hetkiin.
 Puhuja 1: Mun kuunnelluin
 Puhuja 1: tällainen
 Puhuja 1: albumi.
-Puhuja 1: Mitä syvemmälle lapsuuteen menee, niin siinä pääsee johonkin
-Puhuja 1: hyvän mielen tilaan kuitenkin henkisesti, vaikka se työ tuntuisi raskaalta.
+Puhuja 1: Mitä syvemmälle lapsuuteen menee, niin siinä pääsee johonkin hyvän mielen tilaan kuitenkin henkisesti, vaikka se työ tuntuisi raskaalta.
 Puhuja 2: Okei eli mun pitää ruveta kuuntelemaan Finnhitsejä
 Puhuja 2: ja new kits on the blokkia. Samalla kun sä kirjoitat sun kirjaa. Tosi hyvä.
 Puhuja 1: Kiitos Anna-Sofia Perrä.

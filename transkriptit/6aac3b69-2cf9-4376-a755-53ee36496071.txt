@@ -13,13 +13,14 @@ Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 1: Helsingin Sanomat.
-Puhuja 2: Hei, ja tervetuloa uutisraportti-podcastiin
+Puhuja 2: Hei ja tervetuloa uutisraportti-podcastiin
 Puhuja 2: torstaina miljoona seitsemänsataa. Heinäkuuta kaksituhatta kaksikymmentäviisi.
 Puhuja 2: Minun nimeni on Rasmus Helaniemi ja mukanani täällä Sanomatalon studiossa on aurinkoinen kesätiimi.
 Puhuja 2: Ulkonen nimittäin UV-indeksi on kuusi, mutta täällä sisällä kesätiimissä säteilee vähintään yhtä lailla.
 Puhuja 2: Haluatko heiltä ihania vai kirottua? Mitä sanoo
 Puhuja 2: Helmi Sundström some audiotiimistä?
-Puhuja 3: Mun mielestä mä oon vielä onnistunut nauttimaan näistä helteistä, mutta
+Puhuja 3: Mun mielestä mä oon vielä onnistunut nauttimaan
+Puhuja 3: näistä helteistä, mutta
 Puhuja 1: No eka ollaan rapuna ja sitten ollaan papuna.
 Puhuja 1: Kyllähän tavoitebunan taso olis YYA-ajan
 Puhuja 1: 50-luvun maanviljelysrenki,
@@ -32,8 +33,7 @@ Puhuja 4: Kiitos, kiitos.
 Puhuja 4: Rusketus on ihan kiva juttu. Ehkä ennen oli se ajatus, että eilisen puna on tämän päivän runo vai miten se meni, mutta kyllä nykyään suosin ihan aurinkorasvaa.
 Puhuja 4: Mutta pakko mainita, että tänään on lisäkseni myös Matti Nykäsen syntymäpäivä.
 Puhuja 4: Eli suuria
-Puhuja 4: yhteiskunnallisia tapahtumia
-Puhuja 4: on tapahtunut tänä päivänä.
+Puhuja 4: yhteiskunnallisia tapahtumia on tapahtunut tänä päivänä.
 Puhuja 2: Tuhat seitsemänsataa. Loikanneesta venäläisestä henkilöstä,
 Puhuja 2: joka on mediatietojen mukaan paljastunut palkkaus Wagnerin
 Puhuja 2: ensiksi sotilaaksi ja muutenkin aika rankan rikollishistorian
@@ -50,8 +50,7 @@ Puhuja 2: Esimerkiksi kotona tai sairaalan parkkipaikalla.
 Puhuja 2: Tämä on herättänyt huolta niin lukioiden palautteissa kuin mielipideosastollakin.
 Puhuja 2: Millaisesta ilmiöstä tässä on kyse, puhutaan siitä.
 Puhuja 2: Kolmanneksi puhutaan Helsinkiä ravisuuttaneesta
-Puhuja 2: striimaajasta
-Puhuja 2: I showspiedestä
+Puhuja 2: striimaajasta I showspiedestä
 Puhuja 2: Eli Darren watchs juniorista.
 Puhuja 2: Speedistä ei ollut kukaan yli 20-vuotias koskaan kuullutkaan ennen kuin hän saapui Helsinkiin ja keräsi ympärilleen yleisön, joka nopealla vilkaisulla veti espallavertoja jopa MM-kultajuhlalle.
 Puhuja 2: Mitä ihmettä
@@ -91,13 +90,14 @@ Puhuja 1: Hänen oleskeluluaansa
 Puhuja 1: Uudessa-Seelannissa
 Puhuja 1: tutkitaan
 Puhuja 1: siksi, koska hän on ollut siellä vierailljaluvalla,
-Puhuja 1: mutta hän on tehnyt töitä siellä ollessaan. Se
-Puhuja 1: ei
+Puhuja 1: mutta hän on tehnyt töitä siellä ollessaan.
+Puhuja 1: Se ei
 Puhuja 3: ehkä ole vakava
 Puhuja 3: Kyllä se siinä vaiheessa, kun totakin striimiä katsoo, sen neljä tuntia se kesti, sitä katsoisi sata nolla ihmistä lähde sen koko ajan. Koko ajan varmasti uniikkia ihmisiä voi olla varmaan miljoona jotain. Sataviisikymmentä
 Puhuja 1: nolla euroa jatkuvasti joka hetkellä. Voihan lukien useampi henkilö Helsingin Sanomien deskissä.
 Puhuja 1: Tiedän,
-Puhuja 2: onko kulttuuri muuttunut vai ollaanko me vaan jo vanhoja. Jos meidän ikä alkaa kakkosella ja kolmosella, niin oisko
+Puhuja 2: onko kulttuuri muuttunut vai ollaanko me vaan jo vanhoja. Jos meidän ikä alkaa kakkosella ja kolmosella,
+Puhuja 2: niin oisko
 Puhuja 2: olla viisitoista, että tietää
 Puhuja 3: että millä
 Puhuja 3: alustoilla ja keinoilla
@@ -108,17 +108,17 @@ Puhuja 1: Ihan kuin Madonna olisi ollut paikalla, joka mä en usko, että Madonn
 Puhuja 1: tällaista
 Puhuja 1: joukkoa kaupungille.
 Puhuja 1: Mutta tää sun pointti
-Puhuja 1: siitä, että hän on tehnyt kaikkea kyseenalaista ja näin, niin eihän tämäkään mikään uusi juttu nuorison suosimissa, jossa
+Puhuja 1: siitä, että hän on tehnyt kaikkea kyseenalaista ja näin, niin eihän tämäkään mikään uusi juttu nuorison
+Puhuja 1: suosimissa, jossa
 Puhuja 1: julkisiiksissä ole.
 Puhuja 1: Katsotaan
-Puhuja 1: vaikka mitä rockitähdet
-Puhuja 1: 60- ja 70-luvuilla tekee. Että silleen huumeita
-Puhuja 1: ja
-Puhuja 1: pahoinpitelyjä ja siis
+Puhuja 1: vaikka mitä rockitähdet 1960- ja 70-luvuilla
+Puhuja 1: tekee. Että silleen huumeita
+Puhuja 1: ja pahoinpitelyjä ja siis
 Puhuja 1: alaikäistendeittailua
 Puhuja 1: ja
-Puhuja 1: siis pahempaakin. Ja silti
-Puhuja 1: ihmiset tavallaan
+Puhuja 1: siis pahempaakin.
+Puhuja 1: Ja silti ihmiset tavallaan
 Puhuja 4: Mutta toki ehkä tässä on se, että tulee liki
 Puhuja 4: niiden katsojien kanssa ja on tavallaan siinä
 Puhuja 4: fyysisesti samassa paikassa
@@ -126,7 +126,8 @@ Puhuja 4: niiden pienten lasten kanssa sitä fanittaa. Se, että luet lehdestä 
 Puhuja 3: ajattelemaan, että ei se ole vain julkkis, kun se on minun ystävänsä tyylinen ajattelu. Joo, ja kyllähän paras
 Puhuja 1: sosiaalisesta ihmissuhteista
 Puhuja 1: paljon puhutaan, että
-Puhuja 1: se suhde tosiaan tubettajiin
+Puhuja 1: se suhde tosiaan
+Puhuja 1: tubettajiin
 Puhuja 1: on tosi erilainen
 Puhuja 1: kussitruoktähtiin,
 Puhuja 1: koska luullaan...
@@ -139,33 +140,29 @@ Puhuja 1: ilme, kun hän maistoi
 Puhuja 1: sitä megohampurilaista.
 Puhuja 1: Mielenkiintoista siksi, koska varsinkin se Hesen syöminen
 Puhuja 1: oli sen näköistä, että se on pakko olla mainos.
-Puhuja 2: Mutta kyllä se varmasti myös kuuluu siihen imagoon. Niin, että pitää kokeilla kaikkea paikallista ja tehdä.
+Puhuja 1: Mutta kyllä se varmasti myös kuuluu siihen imagoon. Niin, että pitää kokeilla kaikkea paikallista ja tehdä.
 Puhuja 2: Hampuraisen syömistä ei voi varmaan tehdä yhtään
 Puhuja 2: korostetummin, kuin mitä hän siinä lopulta teki.
 Puhuja 2: Ei voi.
 Puhuja 2: Ja hän vaan
 Puhuja 2: ikkunan Speed,
 Puhuja 2: Ja
-Puhuja 3: tuleekin mieleen valtion maista ja Puolasta. Seuraavan
+Puhuja 3: tuleekin mieleen valtion maista ja puolesta. Seuraavan
 Puhuja 3: streamin, minkä tää speed teki. Koska tämähän oli neljä tuntinen Suomen striimi. Mutta hän seuraavassa striimissään siis kävi sekä Virossa, Liettuassa että Latviassa. Tämä striimi oli päällä yksitoista pilkku viisi tuntia tai ainakin yli yksitoista tuntia. Sairasta. Onhan sekin
 Puhuja 3: jotenkin kertoo tästä,
 Puhuja 3: että
 Puhuja 3: kertoo
 Puhuja 3: tästä, että
-Puhuja 1: olevani livenä
-Puhuja 1: yleisön edessä, vaikka sä pystytkin
-Puhuja 1: ehkä tubettajana
-Puhuja 1: olemaan enemmän
+Puhuja 1: olevani livenä yleisön edessä, vaikka sä pystytkin
+Puhuja 1: ehkä tubettajana olemaan enemmän
 Puhuja 1: ittes, mutta se ajatus siitä, että joku kymmeniä tuhansia sata tuhatta ihmistä tuijottaa sua
-Puhuja 1: yksitoista
-Puhuja 1: tuntia putkeen.
-Puhuja 1: Sama se, mitä sä teet. Miten se kävi vessassa?
-Puhuja 1: Tätä mäkin aloin miettimään. Kävikö se?
-Puhuja 1: Kuvasiko se itseään sen? Okei. Meidän
-Puhuja 3: pitää mennä tarkasti vähän myöhemmin.
-Puhuja 1: Jos tästä
+Puhuja 1: yksitoista tuntia putkeen. Sama se, mitä sä teet. Miten se kävi vessassa? Tätä mäkin aloin miettiä. Kennetvikö se?
+Puhuja 1: Kuvasko se itseään sen? Meidän
+Puhuja 3: pitää mennä tarkasti opetukseen vähän myöhemmin.
+Puhuja 1: Jos
+Puhuja 1: tästä
 Puhuja 1: speedin
-Puhuja 1: käytökseen ihmettelystä siirrytään
+Puhuja 1: käytöksen ihmettelystä siirrytään
 Puhuja 1: johonkin muuhun, niin kyllähän tää on varmasti tosi iso juttu kuitenkin vaikka Suomen turismille
 Puhuja 1: taikka maakuvalle siinä mielessä, että
 Puhuja 1: Walthin näytti parasta Helsinkiä.
@@ -179,16 +176,13 @@ Puhuja 1: Työlantaa
 Puhuja 1: siellä.
 Puhuja 1: Ja sitten Taliaa.
 Puhuja 1: Ja
-Puhuja 1: siis saunomistaja, Salmiakkia ja kaikkea tämmöistä.
-Puhuja 1: Kyllähän tää
+Puhuja 1: siis saunomistaja, Salmiakkia ja kaikkea tämmöistä. Kyllähän tää
 Puhuja 1: varmasti
 Puhuja 1: esittää
 Puhuja 1: Helsingin hyvässä valossa
 Puhuja 1: kaikkine orkasti sinne ilmeineen Hesburgerin
 Puhuja 1: hampurilaisten kanssa.
-Puhuja 3: Uutta mullistavaa Suomi-kuvaa luotu.
-Puhuja 3: Ja sitten
-Puhuja 2: kaikkea ja tällaista oli mietitty. Se ei vaan tullut ja meni Senaatintorille jahopaskaan, vaan sillä oli kuitenkin joku tällainen matkasuunnitelma.
+Puhuja 2: Kaikkea ja tällaista oli mietitty. Se ei vaan tullut ja meni Senaatintorille jahopaskaan, vaan sillä oli kuitenkin joku tällainen matkasuunnitelma.
 Puhuja 2: Ja egokantojen sauna on mun mielestä aika hauskoja.
 Puhuja 2: Olisi voinut olla paljon tylsempiä ja huonoja.
 Puhuja 2: Mietin kenelle kuuluu sitä propsit, onko tämä Suomen
@@ -198,7 +192,7 @@ Puhuja 3: oon niin pahoillani kaikki. Saunokuluttatelettajat.
 Puhuja 1: On se, kun te olette pojin tai
 Puhuja 1: tyttöjen sekä
 Puhuja 1: muiden määrittelemättömien
-Puhuja 1: sukupuolten kanssa saunassa,
+Puhuja 1: sukupuolten kanssa saunassa
 Puhuja 1: Save! Ja yksi teistä menee lauteiden alle ja hänen tehtävänsä on
 Puhuja 1: saada sormus sormeensa
 Puhuja 1: ilman,
@@ -230,11 +224,12 @@ Puhuja 3: Ehkä tälle minua sen verran kyyninen välillä, niin se on välillä
 Puhuja 3: puiden välistä tai näin asettelet purratan ihan alle tarjotin astialle. Niin olen välillä aina silleen, että okei
 Puhuja 3: onko vähän sellaista kiiltokuvamaista.
 Puhuja 3: Mutta silti olen huomannut, että podi on saanut mut huomaamaan muajeissa monia asioita
-Puhuja 4: mistä Ihana suositus.
+Puhuja 3: mistä
+Puhuja 4: Ihana suositus.
 Puhuja 4: Mitä Hanna?
 Puhuja 4: Tämä
-Puhuja 4: nyt on taas ihan eri sarjaan.
-Puhuja 4: Isteväni Henrik
+Puhuja 4: nyt on taas ihan eri sarjaan. Isteväni
+Puhuja 4: Henrik
 Puhuja 4: kanssa puhuimme, kun tein viime viikolla sellaista juttua, joka
 Puhuja 4: liittyi vessoon,
 Puhuja 4: niin sitten päädyimme Henrikin kanssa puhumaan vessoista
@@ -250,24 +245,21 @@ Puhuja 4: stanpöntön
 Puhuja 4: kannet.
 Puhuja 4: Mutta olin dramaattinen.
 Puhuja 4: Tätä kannattaa siis
-Puhuja 4: tehdä näin. Ja sitten toinen tähän linkittyvä asia on se, että jos teette esimerkiksi jotain, että joudutte
-Puhuja 4: kauheasti käymään
+Puhuja 4: tehdä näin. Toinen tähän linkittyvä asia on se, että jos teette esimerkiksi jotain, että joudutte kauheasti käymään
 Puhuja 4: etsimässä erilaisia vessanpönttöjä,
 Puhuja 4: niin varautukaa siihen, että sitten netissä kaikilla
 Puhuja 4: kohta herääteostoksena
 Puhuja 4: jonkun.
 Puhuja 4: Mutta joo, se olisi minun suositus.
 Puhuja 1: Mites John?
-Puhuja 1: Ensinnäkin
-Puhuja 1: suosittelen Aurinkorasvaa
+Puhuja 1: Ensinnäkin suosittelen Aurinkorasvaa
 Puhuja 1: siksi, koska paloin pahasti viikonloppuna.
 Puhuja 1: Ja se tuntuu kovin ikävältä.
 Puhuja 1: Mutta sitten kun te makaatte
-Puhuja 1: siellä
-Puhuja 1: kotona hiästä märkänä,
+Puhuja 1: kotona
+Puhuja 1: hiästä märkänä,
 Puhuja 1: koska asunnossa ne on keskellä yötäkin
-Puhuja 1: kaksikymmentäkahdeksan astetta lämmintä,
-Puhuja 1: kuten joillakin meistä saattaa olla,
+Puhuja 1: kaksikymmentäkahdeksan astetta lämmintä, kuten joillakin meistä saattaa olla,
 Puhuja 1: Suosittelen tällaista kivaa kännykkäpeliä...
 Puhuja 1: Ei-kaupallista
 Puhuja 1: yhteistyötä.
@@ -283,8 +275,8 @@ Puhuja 1: kuka on murhaaja.
 Puhuja 1: Ja sinulle annetaan
 Puhuja 1: kasa eri hahmoja, joilla
 Puhuja 1: on erilaisia ominaisuuksia. Hieman niin kuin ala ja yläasteen matematiikan
-Puhuja 1: tunnilla piti osata laittaa ihmisiä oikeaan järjestykseen.
-Puhuja 1: Silloin kun Antti on
+Puhuja 1: tunnilla piti osata laittaa ihmisiä oikeaan järjestykseen
+Puhuja 1: silloin, kun Antti on
 Puhuja 1: Helin vieressä,
 Puhuja 1: kun taas Heli ei ole Markun vieressä tyyppisillä
 Puhuja 1: asioilla.
@@ -293,16 +285,14 @@ Puhuja 1: joka päivä uusi pähkinäinen. Olen nyt pelannut sitä jo useita vuo
 Puhuja 3: Luuletko tota, että ihminen, joka ei loistanut ala-asteen matikan tunneilla,
 Puhuja 3: yleensä Markku tehtävissä, voisi silti nauttia tässä pelistä. Onko siellä jotain eri tasoja? Kyllä mä luulen joo.
 Puhuja 1: Tässä ei ole sinänsä
-Puhuja 1: eri tasoja tehtäviä, mutta tehtävät
-Puhuja 1: vaikeutuu aina viikon mittaan.
+Puhuja 1: eri tasoja tehtäviä, mutta tehtävät vaikeutuu aina viikon mittaan.
 Puhuja 1: Eli maanantain tehtävä on helpoin, sitten tiistaina, kunnes sunnuntaina
 Puhuja 1: on tällainen
 Puhuja 1: päräyttävä,
 Puhuja 1: kaikki murhaajat
 Puhuja 1: yhteenkokoava
 Puhuja 1: hauska pikkutarinapeli.
-Puhuja 2: Päräyttävää.
-Puhuja 2: Oho, päräyttävää.
+Puhuja 2: Päräyttävää. Oho, päräyttävää.
 Puhuja 2: Kiitos. Voin lennosto suositella, että jos joku haluaa pelata Wordlea tunnettua sanapeliä suomeksi, niin sekin onnistuu osoitteessa sanuli.
 Puhuja 2: Fi. Se on oikein hauska, koska suosittelen
 Puhuja 2: sitä. Varsinaisesti suosittelen
@@ -314,10 +304,11 @@ Puhuja 2: Tämä on aika tällainen nörtttikirja.
 Puhuja 2: Puhutaan
 Puhuja 2: kyberturvallisuudesta
 Puhuja 2: ja hakkeroinnista ja kaikesta tällaisesta.
-Puhuja 2: Välillä ehkä nörttien
-Puhuja 2: rajamailla, mutta kuitenkin niin yleiskielinen, että kenen tahansa kannattaa lukea siellä tosi sivistävää. Puhutaan esimerkiksi
+Puhuja 2: Välillä ehkä
+Puhuja 2: nörttien rajamailla, mutta kuitenkin niin yleiskielinen, että kenen tahansa kannattaa lukea siellä tosi sivistävää. Puhutaan esimerkiksi
 Puhuja 2: yhden maailman suurimman
-Puhuja 2: rahdin kuljetusyhtiön Maareskin hakkeroinnista, joka tapahtui siitä, että muistaakseni
+Puhuja 2: rahdinkuljetusyhtiön
+Puhuja 2: Maareskin hakkeroinnista, joka tapahtui siitä, että muistaakseni
 Puhuja 2: yksittäinen
 Puhuja 2: päätelaite oli suojaamatta
 Puhuja 2: Maareskin toimipisteessä ja sitten tuli miljardien
@@ -325,19 +316,15 @@ Puhuja 2: vahingot siitä, kun Marskin kaikki järjestelmät seisovat.
 Puhuja 2: Mikko Hyppänen internet löytyy myös äänikirjan ajan varmasti myös lähimmästä kirjastosta.
 Puhuja 2: Haluan vielä
 Puhuja 2: suosituksenomaisena hatunnostona antaa hatunnoston
-Puhuja 2: Linnanmäellä siluetteja leikkaavalle Sirkka Leckmanille, jonka luona kävin tällä viikolla leikkaauttamassa oman siluetti, niin oli todella pitkät jonot. En suosittele
+Puhuja 2: Linnanmäelle siluetteja leikkaavalle Sirkka Leckmanille, jonka luona kävin tällä viikolla leikkaauttamassa oman siluetti, niin oli todella pitkät jonot. En suosittele
 Puhuja 2: enää
-Puhuja 2: yhtään ihmistä, koska se oli aivan
-Puhuja 2: täydessä kapasiteetissaan.
+Puhuja 2: yhtään ihmistä, koska se oli aivan täydessä kapasiteetissaan.
 Puhuja 2: Sirkka paran jonot olivat niin pitkät, että suurin osa ei siluetteja saa. Joten sitä varten ei varmaan sinne kannata viikonlopunään lähteä. Mutta kuitenkin tällaisena
 Puhuja 2: kunnianosoituksena, että siinä on kyllä todellinen ammattilainen ja pitkän linjan osaaja. Ja kunnianosoitus myös Jonne Piltoselle, joka on täällä
-Puhuja 2: ääntä hoitaa. Kyllä. Modernan ajan siluetin leikkaaja.
-Puhuja 2: Ääninen kuvani kaiken mahtava meille tekee Jonne Piltaen tuolla tarkkaamassa. Saanko vielä pyytää tarkennusta, millaisia siluetteja on? Hän siis
+Puhuja 2: ääntä hoitaa. Kyllä. Modernan ajan siluetin leikkaaja eli äänenne kuvani kaiken mahtava meille tekevän Jonne Piltaen tuolla tarkkaamassa. Saanko vielä pyytää tarkennusta, millaisia siluetteja on? Hän siis
 Puhuja 2: leikkaa musta yötä siluettipaperia
 Puhuja 2: ja saksilla leikkaa niistä
-Puhuja 2: jonottamaan.
-Puhuja 2: Kiitos tässä kaikki tällä erää. Kiitos Hanna. Kiitos, Rasmus. Ja hyvää syntymäpäivää. Kiitos. Kiitos, John.
-Puhuja 2: Kiitos, Helmi. Kiitos, Rasmus. Kuulemiin jälleen ensi viikolla. Kuulemiin. Moi moi!
+Puhuja 2: mennä jonottamaan. Kiitos tässä kaikki tällä erää. Kiitos Hanna. Kiitos,
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast menetetyt miljardi
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin

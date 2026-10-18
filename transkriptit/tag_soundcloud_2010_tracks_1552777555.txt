@@ -34,8 +34,8 @@ Puhuja 1: timanttisella
 Puhuja 1: ja rautaisella otteella.
 Puhuja 1: Tämän viikon podcastissa
 Puhuja 1: keskustellaan Venäjästä ja Jevkeni Brikoshinin aseellisesta kapinasta.
-Puhuja 1: Sitten me jatketaan tuoreen elinkeinoministeri
-Puhuja 1: Wilhelm Junnilan natsiviittausten
+Puhuja 1: Sitten me jatketaan tuoreen elinkeinoministeri Wilhelm Junnilan
+Puhuja 1: natsiviittausten
 Puhuja 1: analysointia
 Puhuja 1: Sitten keskustellaan Helsingin
 Puhuja 1: apulaispormestari
@@ -45,13 +45,14 @@ Puhuja 1: varrelle.
 Puhuja 1: Lopuksi vielä hyviä keskustelun aiheita pitkien ja epämukavien hiljaisuuksien varalle.
 Puhuja 2: Voisi vielä tähän alkuun lisätä, että mehän ei olla koko kesätiimi vaan meitä on vielä kaksi
 Puhuja 2: tämän porukan lisäksi, jotka täällä muina viikkoina sitten saattavat esiintyä.
-Puhuja 2: Eli jos jotain meistä ei ensi viikolla kuule, niin se on ihan luonnollista ja normaalia. Ei ole saanut potkuja!
+Puhuja 2: Eli jos jotain meistä ei ensi viikolla kuule, niin se on ihan luonnollista ja normaalia. Ei ole saanut potkuja.
+Puhuja 3: Ja normaalia. Ei ole saanut potkuja!
 Puhuja 1: Tää oli hyvä tää täydennys!
 Puhuja 1: Loistavaa!
 Puhuja 1: Jees!
 Puhuja 1: Elikkä venäläisen palkka-armeijan Wagnerin johtaja Jeevgenybricoshin
 Puhuja 1: väitti
-Puhuja 1: väitti perjantaina, että Venäjä olisi hyökännyt Wagnerin taistelijoita vastaan.
+Puhuja 1: perjantaina, että Venäjä olisi hyökännyt Wagnerin taistelijoita vastaan.
 Puhuja 1: Rikooshinin
 Puhuja 1: mukaan Iskussa olisi kuollut runsaasti sotilaita. Tämän jälkeen hän ilmoitti ryhtyvän vastatoimiin.
 Puhuja 1: Sitten perjantai ja lauantain
@@ -109,19 +110,17 @@ Puhuja 2: hauskaa seuraa.
 Puhuja 2: Joku hän on todennut,
 Puhuja 2: että ilmeisesti hän osaa olla muillakin tavoilla hauska.
 Puhuja 3: On ihan oikeaakin huumoria.
-Puhuja 2: Jos eduskunnan kuppilassa ei tarvitse paljoakaan viettää aikaa, niin kyllä siellä sellaiset ihmiset, jotka ikään kuin julkisessa keskustelussa
-Puhuja 2: on täysin vastakkaisia mieli ja usein tukkanuottasilla, niin siellä tulee hyvin toimeen.
+Puhuja 2: Jos eduskunnan kuppilassa ei tarvitse paljoakaan viettää aikaa, niin kyllä siellä sellaiset ihmiset, jotka ikään kuin julkisessa keskustelussa on täysin vastakkaisia mieli ja usein tukkanuottasilla, niin siellä tulee hyvin toimeen.
 Puhuja 2: En täysin
 Puhuja 2: ole sitä mieltä, että tämä olisi
 Puhuja 2: jotenkin
 Puhuja 2: aivan kamala työpaikka, mutta kyllähän eduskunta on siinä mielessä kansanedustajille työkavereita työpaikkoja valmiiksi, että kaikki ne kilpailee toisiaan vastaan.
-Puhuja 2: Tosin
-Puhuja 3: näkisin tossa pienen eron sen välillä, että onko mielipidettä
+Puhuja 3: Tosin näkisin tuossa pienen eron sen välillä, että onko mielipidettä
 Puhuja 3: koskeva erimielisyys joka on vaikka, että leikataanko täältä vai leikataanko täältä, vai onko sellainen,
 Puhuja 3: että joku vitsailee
 Puhuja 3: tällaisilla asioilla, kun
-Puhuja 3: toisen juutalaisten
-Puhuja 3: historia. Siinä on
+Puhuja 3: toisen juutalaisten historia.
+Puhuja 3: Siinä on
 Puhuja 3: se ei ole samantyyppinen
 Puhuja 3: poliittinen
 Puhuja 3: ratkaisu. Neuvotellaanko nyt siitä, että saako
@@ -151,7 +150,8 @@ Puhuja 2: Sosiaalisessa mediassahan on ollut jotain näitä kommentteja, missä 
 Puhuja 2: Pentti porukan.
 Puhuja 2: Niin,
 Puhuja 2: niin. Mutta toisaalta en tiedä, kuinka iso osa niistä on ollut hänen äänestäjiään tai hänen aktiivisiaan kannattajiaan.
-Puhuja 3: Tosi vaikeahan tähän on vastaamassa. Sometiliä näin tollasia jos ei ooterilla ihmisen henkilöllisyydestä ja muusta, niin paha sanoo minkä painoarvon millekin kommentille sitten.
+Puhuja 3: Tosi vaikeahan tähän on vastaamassa. Sometiliä näin tollasia jos ei ooterilla
+Puhuja 3: ihmisen henkilöllisyydestä ja muusta, niin paha sanoo minkä painoarvon millekin kommentille sitten.
 Puhuja 2: Vastaavasti tänne HS-Turku
 Puhuja 2: oli haastatellut
 Puhuja 2: nantalilaisia
@@ -227,7 +227,7 @@ Puhuja 2: ei ollut paikalla. Ei ole myöskään ilmoittanut eduskuntaan.
 Puhuja 2: Täysseistunojen
 Puhuja 2: poissaoloistahan pitää
 Puhuja 2: jättää hyvissä ajoin viimeistään tuntia ennen täysistunnon alkua
-Puhuja 2: tieto siitä, miksi hän on estynyt osallistumasta, jos on estynyt Marinilta, ei ole tullut minkäänlaista ilmoitusta.
+Puhuja 2: tieto siitä, miksi on estynyt osallistumasta, jos on estynyt Marinilta, ei ole tullut minkäänlaista ilmoitusta.
 Puhuja 2: Häneltä on myös kyselty, mutta ei ole ainakaan toistaiseksi tullut vastauksia,
 Puhuja 2: miksi hän on ollut poissa.
 Puhuja 2: Siellä on useita, jotka olisivat varmasti ehtineet paikalle jostain SuomiAreenasta.
@@ -247,7 +247,7 @@ Puhuja 2: Jos oppositio olisi pelannut tämän toisella tavalla, niin voi olla, 
 Puhuja 2: Se on hyvä kysymys.
 Puhuja 1: No niin, tämä onkin mielenkiintoista. Saako varmasti jatkua vielä eteenpäin
 Puhuja 1: mahdollisesti.
-Puhuja 1: Seuraavaan aiheeseen. Ari Mäkeen ja Grafitiin.
+Puhuja 1: Seuraavaan aiheeseen. Eli Ari Mäkeen ja graffitiin.
 Puhuja 1: Olen kirjoittanut apulaisprofessori.
 Puhuja 1: No niin menipä heti oikein. Apulaisparmestari
 Puhuja 1: Päivä Arhinmäki jäi juhannuksena kiinni laittoman graffitin teosta.
@@ -258,15 +258,12 @@ Puhuja 1: josta Arhinmäki ja toinen henkilö narautettiin itse teosta, kun vart
 Puhuja 1: Vantaalta Vuosaareen kulkeva tavarajunaliikenne jouduttiin pysäyttämään hetkeksi tämän takia.
 Puhuja 1: On arvioitu, että puhdistuskustannukset
 Puhuja 1: nousevat useisiin tuhansiin euroihin.
-Puhuja 1: Arhinmäki on pahoitellut asiaa. Se oli tyhmästi tehty ja olen tästä todella pahoillani.
-Puhuja 2: Näinhän hän kommentoi asiaa. Eilen tuli itse asiassa tarkka tieto kustannuksista, joka oli kolmetuhatta viisisataa euroa.
+Puhuja 1: Arhinmäki on pahoitellut asiaa. Se oli tyhmästi tehty ja olen tästä todella pahoillani. Näin hän kommentoi asiaa. Eilen tuli itse asiassa tarkka tieto kustannuksista, joka oli kolmetuhatta viisisataa euroa.
 Puhuja 1: No niin.
 Puhuja 1: Mikä oli teidän ensimmäinen ajatus kun te kuulitte tästä keisestä?
-Puhuja 1: Kaikkien näiden rikgoshinien
-Puhuja 1: jälkeen siinä juhannus
+Puhuja 1: Kaikkien näiden rikgoshinien jälkeen siinä juhannus
 Puhuja 1: lasilliset kädessä?
-Puhuja 3: No oli värikäs
-Puhuja 3: ja vaihderikas
+Puhuja 3: No oli värikäs ja vaihderikas
 Puhuja 3: juhannus.
 Puhuja 3: Mulla heräsi jopa pieni sympatia, ei siis itse tekoa kohtaan, vaan sitä kohtaa.
 Puhuja 3: Ihanaa, että maailmassa on tällaisiakin
@@ -281,7 +278,7 @@ Puhuja 1: Joona, mitä ajatuksia sulle tuli? Mietin
 Puhuja 2: sitä, että jos
 Puhuja 2: miettii omaa suht rauhallista maaseutujuhannusta ja samaan aikaan
 Puhuja 2: viittäkymppiä lähestyvä apulaispormestari
-Puhuja 2: vetää graffit ja junatyn välissä,
+Puhuja 2: vetää graffit ja junatyn pelissä,
 Puhuja 2: niin eikö mun elämässä tapahtunut koskaan mitään
 Puhuja 2: tällaista mielenkiintoista? Pitäs varmaan alkaa elää vähän jollain toisella tavalla. Tiedättekö mitä?
 Puhuja 1: Siis mulle tuli sellainen olo.
@@ -302,7 +299,7 @@ Puhuja 2: Tai varmasti oli hetken päähänpisto sillä tavalla, mutta kyllähä
 Puhuja 3: Tuohon paikkaan se pistetään.
 Puhuja 1: Kaolo tulee,
 Puhuja 1: näyttää näyttää hyvältä.
-Puhuja 1: Nyt en muista tarkkaan, mutta eihän tämä nyt ihan nopeasti myöskään syntynyt. Ei tämä ollut sellainen, että tuohon pistetään
+Puhuja 1: Nyt en muista tarkkaan, mutta eihän tämä ihan nopeasti myöskään syntynyt. Ei tämä ollut sellainen, että tuohon pistetään
 Puhuja 1: vähän
 Puhuja 1: spreijataan.
 Puhuja 2: Ei se oli kuitenkin, kun on sen lyhyen tunnelin seinämän mittainen melkein. Iso monivärinen
@@ -393,7 +390,7 @@ Puhuja 1: Kuulostaa mielenkiintoista.
 Puhuja 1: Mä oon katsellut Yle Areenasta sellaista kolmiosaista dokumenttia
 Puhuja 1: vankilakokeiluun
 Puhuja 1: Lidl Scandinavian.
-Puhuja 2: Ootteko sattunut törmäämään? Mä luin Sari
+Puhuja 2: Ootteko sattunut törmäämään? Mä luin Sari artikkelin siihen. No niin, tosi
 Puhuja 1: Joka
 Puhuja 1: tapauksessa, tämä kertoo yhdysvaltalaisesta
 Puhuja 1: vankilasta,
@@ -405,14 +402,15 @@ Puhuja 1: vankilassa.
 Puhuja 1: Mä en tiedä, tämä varmaan nyt on tosi oloa myöntää, mutta kun on katsonut koko lapsuutensa kaiken maailman sarjoja ja kaikkia dokumentteja ja nähnyt tottakai sitä Jenkkivankilaa, mutta jotenkin se on ollut sellainen, että voiko tämä oikeasti olla näin jäätävää?
 Puhuja 1: Kyllä, siellä muun muassa vessanpönttö on siitä vankilan punkasta,
 Puhuja 1: mitä nyt joku
-Puhuja 1: metri alle kaksi, ihan vieressä.
-Puhuja 1: Järkytyin,
-Puhuja 1: eli se aika
+Puhuja 1: metri alle kaksi, ihan vieressä, ei kantta.
+Puhuja 1: Joo, järkytyin.
+Puhuja 1: Eli se aika
 Puhuja 1: mielenkiintoisesti rinnastaa, että millaista sitten on olla vankilassa. Siellä tai sitten
 Puhuja 1: täällä Skandinaviassa.
 Puhuja 1: Oliko
 Puhuja 3: tuossa loppupuhistos, että pitäisikö joutua täällä vankilaan, niin kaikki olisi aika mukavasti.
-Puhuja 1: Selvä, tässä kaikki tältä
+Puhuja 3: Noniin,
+Puhuja 1: selvä, tässä kaikki tältä
 Puhuja 1: erää!
 Puhuja 1: Kiitos Joona Aaltonen!
 Puhuja 1: Kiitos Venla! Kiitos Matilta Jokinen!
@@ -420,7 +418,9 @@ Puhuja 1: Mun nimeni on Venla Kuokkanen, äänen ja kuvan ja kaiken muun mahtava
 Puhuja 1: Muistakaa lähettää palautettauutisraportti
 Puhuja 1: ja kuullaan taas ensi viikolla! Moi moi!
 Puhuja 2: Zau!
-Puhuja 0: Moi Tuomas tässä.
+Puhuja 3: Moi,
+Puhuja 3: Tuomas
+Puhuja 0: tässä.
 Puhuja 0: Mun uusi podcast menetetyt miljardia,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen

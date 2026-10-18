@@ -23,7 +23,8 @@ Puhuja 0: Mutta rehellisyyden nimissä me myönnetään nyt heti kaikille, että
 Puhuja 0: viikkoa aiemmin.
 Puhuja 0: Me haluttiin nauhoittaa tämä jakso, että me päästään rauhassa joululomille.
 Puhuja 0: Jos esimerkiksi mulla on semmoinen pienoinen mahdollisuus, että olen tänään
-Puhuja 0: kaksituhatta yhdeksäntoista.
+Puhuja 0: kaksituhatta
+Puhuja 0: yhdeksäntoista.
 Puhuja 0: Oulussa,
 Puhuja 0: Sieltä olisi tyympeetä tehdä puhelinlinjojen läpi podcastia. Ajateltiin, että
 Puhuja 0: paremmin menee näin. Kun sanon, että me ajateltiin,
@@ -47,7 +48,7 @@ Puhuja 0: Minkälainen vuosi se oli? Mitä siitä jää käteen? Mitä Suomelle 
 Puhuja 0: Kenties sitä kautta voidaan vähän aprikoida, että miten maailma asettuutuu vuonna kaksituhatta kaksikymmentäkolme?
 Puhuja 2: Mähän en siis periaatteessa pidä vuosikatsauksista.
 Puhuja 2: Mä olen aina ollut sitä mieltä, että ne on tosi tylsiä menneitä uutisia lukea uudelleen.
-Puhuja 2: Mutta ajattelin, että tämä vuosi on poikkeus,
+Puhuja 2: Mutta mä ajattelen, että tämä vuosi on poikkeus,
 Puhuja 2: koska tänä vuonna on tapahtunut kaikki. Kyllä.
 Puhuja 0: Muun muassa lukiessani Wikipedian
 Puhuja 0: sivuavuodesta kaksituhatta kaksikymmentäkaksi, niin täysin hämmästyttävästi Suomi on ottanut tänä vuonna jääkiekon olympiakultaa.
@@ -55,16 +56,16 @@ Puhuja 1: Ja hiihdossa. Ja maailmanmestaruuden.
 Puhuja 0: Senkin vielä. Se tuntuu, että nämä asiat on tapahtuneet yksi ysärillä. Siitä on niin pitkä aika. Mutta se johtuu siitä, että tämä on ollut uutisissa
 Puhuja 0: aivan täysi vuosi. Joten keskustellaan siitä.
 Puhuja 0: Me keskustellaan sitä kautta, että meistä jokainen on valinnut
-Puhuja 0: tapahtuman ja sitten
+Puhuja 0: tapahtuman
+Puhuja 0: ja sitten
 Puhuja 0: puhutaan siitä, että millä perusteilla
 Puhuja 0: ja mitä mieltä.
-Puhuja 0: Lopuksi
-Puhuja 0: vielä hyviä keskustelunaiheita.
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita.
 Puhuja 0: Pitkiä
 Puhuja 0: epämukavien
 Puhuja 1: hiljaisuuksia
 Puhuja 1: varalle.
-Puhuja 0: Mistäs me lähdetään liikkeelle?
+Puhuja 0: Okei, mistäs me lähdetään liikkeelle?
 Puhuja 0: Jotta en höyryjunan lailla torpedoisi
 Puhuja 0: tai jyräisi
 Puhuja 0: muita, ehdotan,
@@ -81,8 +82,7 @@ Puhuja 2: myöhemmin.
 Puhuja 2: Minä sanoisin, että vuoden kaksituhatta
 Puhuja 2: kaksikymmentäkaksi eikö siinä ole myös tämä perhosen siivenisku
 Puhuja 2: Vuorever? Kyllä. Vuoden kaksituhatta kaksikymmentäkaksi tällainen hetki
-Puhuja 2: tapahtui
-Puhuja 2: kaksikymmentäneljä.
+Puhuja 2: tapahtui kaksikymmentäneljä.
 Puhuja 2: Helmikuuta,
 Puhuja 2: kun mehän olimme siis eletty silloin
 Puhuja 2: pitkään jo siinä tilanteessa, että minä ainakin
@@ -112,10 +112,9 @@ Puhuja 1: olemme tällaisia...
 Puhuja 1: Meillä
 Puhuja 1: on YYA-sopimus ja me olemme korviamme myöten siellä Neuvostoliiton kainalossa, mutta kuitenkin me uskomme, että emme ole suomettuneita ja voimme kuitenkin olla itsenäisiä ja tehdä mitä halutaan. Se on tällainen...
 Puhuja 0: Case Kekkonen. Kekkosta
-Puhuja 0: pidetään jonain nerona, joka vie venäjän kettu Venäjän kymmenen nolla. Kekkonen oli yksi lukaisenkka.
-Puhuja 0: Kekkonen oli yksi orban.
-Puhuja 1: Ei se. Joo ja kävi sitä. Jos sanoin, että mun mielestä
-Puhuja 1: alkuhan se ei ollut valheet. Jouduttiin solmimaan ya-sopimus
+Puhuja 0: pidetään jonain nerona, joka vie venäjän kettu Venäjän kymmenen nolla. Kekkonen oli yksi lukaisenka.
+Puhuja 1: Kekkonen oli yksi orban. Ei se. Joo, ja kävi sitä. Jos sanoin, että mun mielestä
+Puhuja 1: alkuhan se ei ollut valheet. Jouduttiin solmimaan ya-sopimus ja
 Puhuja 1: ja meidän piti olla hissun kissunia nätisti. Alkuhan
 Puhuja 1: se ei ollut valheet. Me jouduimme solmimaan ya-sopimus ja meidän piti olla hissunia nätisti. Samaan aikaan
 Puhuja 1: kuitenkin
@@ -126,7 +125,8 @@ Puhuja 1: että tätä aloitettiin käyttämään poliitikkojen keskinäisessä
 Puhuja 1: kissaannossa,
 Puhuja 1: kuka on eniten rähmällällään.
 Puhuja 0: Just tämä, että mun mielestä kaikki ne itse luodut
-Puhuja 0: harhakuvat täytyy nyt buukkaasti.
+Puhuja 0: harhakuvat
+Puhuja 0: täytyy nyt buukkaasti.
 Puhuja 2: Okei. No niin.
 Puhuja 0: Mun valinta on
 Puhuja 0: Pitkään mietin,
@@ -143,13 +143,13 @@ Puhuja 2: Miksi ei puhuta sovelluksista?
 Puhuja 2: Onko se eri asia?
 Puhuja 0: Sanon lonkalta, että on.
 Puhuja 0: Sovellus on sellainen appi, joka on sun kännykässä. Ja sovellus on? Se on, että jostain tehdään
-Puhuja 0: jostain periaatteesta tai ajatuksesta tehdään joku systeemi, joka toimii. Mutta niitä systeemiä voi olla monta. Sovelluksia voi olla monta. Sovellus on yksi. Näin mä sanoisin.
-Puhuja 1: Mun
-Puhuja 0: valintani
+Puhuja 0: jostain periaatteesta tai ajatuksesta tehdään joku systeemi, joka toimii. Mutta niitä systeemiä voi olla monta. Sovelluksia voi olla monta, sovellus on yksi. Näin mä sanoisin.
+Puhuja 0: Mä oon mennyt.
+Puhuja 0: Mun valintani
 Puhuja 0: lopulta kohdistui
 Puhuja 0: kaksikymmentäneljä. Päivä kesäkuuta,
 Puhuja 0: jolloin Yhdysvaltain korkein oikeus,
-Puhuja 0: Saku,
+Puhuja 0: AKUMOS
 Puhuja 0: Dops vs. Jackson
 Puhuja 0: päätöksen.
 Puhuja 0: Anteeksi,
@@ -159,10 +159,9 @@ Puhuja 0: Se tapahtui siis...
 Puhuja 0: No, milloin se tapahtui?
 Puhuja 0: Eihän se
 Puhuja 0: tapahtunut edellisvuonna?
-Puhuja 2: Ei, se on tapahtunut tänä vuonna. Okei, en pysty sanomaan päivää. Okei.
-Puhuja 0: No,
+Puhuja 2: Ei, se on tapahtunut tänä vuonna. Okei, en pysty sanomaan päivää. Okei. No,
 Puhuja 0: päivämäärä mullakin nyt tänään
-Puhuja 2: tähän. Mä
+Puhuja 0: tähän. Mä
 Puhuja 0: mietin tuota...
 Puhuja 0: Se on tämmöinen...
 Puhuja 0: Mielestä se oli tärkeä sen takia,
@@ -243,14 +242,12 @@ Puhuja 2: yhteiskunnan vapauksia kiristetty.
 Puhuja 2: Tämä koskee tietysti kaikkia sukupuolia, mutta
 Puhuja 2: kyllä minä luulen, että naisten tuntemukset
 Puhuja 2: näiden asioiden äärellä ovat varmaan keskimäärin
-Puhuja 2: semmoisia, mitä minullakin.
-Puhuja 2: Välillä vähän hirvittää, Kyllä. Kun pysähtyy miettimään sitä,
+Puhuja 2: semmoisia, mitä
+Puhuja 2: minullakin. Välillä vähän hirvittää, Kyllä. Kun pysähtyy miettimään sitä,
 Puhuja 2: että mikäs Taliban...
 Puhuja 0: Onko se mahdollista meillä? Ei kannata Talibanilla paljon lällätellä, jos meidän
 Puhuja 0: lännen
 Puhuja 0: keskeisi maa on yhden askeleen päässä. Mä tiedän, että Marko sä haluat
-Puhuja 0: mut koska mä oon täysin samaa mieltä sun kanssa ja toi heiluriliike on totta. Joo, siitä mä oon samaa mieltä. Mä oon myös samaa mieltä Salla sun kanssa. Mutta mun mielestä se, että miksi tämä oli huolestuttavaa, ei osana heiluriliikettä, mikä aina tulee...
-Puhuja 0: Mun mielestä politiikan
 Puhuja 0: käyttövoima on vitutus. Jossain vaiheessa, kun se menee johonkin suuntaan vähän aikaa, se alkaa vituttaa.
 Puhuja 0: Siitä automaattisesti seuraa, että tulee jotain muuta.
 Puhuja 0: Mutta tässä tapauksessa on kyse kiistatta siitä, että hyvin nurinkuriset
@@ -262,11 +259,11 @@ Puhuja 0: kaikella kunnioituksella
 Puhuja 0: uskontoja
 Puhuja 0: ja varsinkin uskovaisia
 Puhuja 0: kohtaan mulla on valtava kunnioitus ja arvostus heidän monia asioita kohtaan. Mutta tässä tapauksessa
-Puhuja 0: perusteet näille päätöksillä on
+Puhuja 0: ne perusteet näille päätöksillä on
 Puhuja 0: aivan tuulesta temmattuja, koska ne perustuu uskontoon. Se on mun mielestä se, mikä tekee tästä hyvin
 Puhuja 0: arveluttavaa ja kyseenalaista.
-Puhuja 0: Sieltä
-Puhuja 0: pystytään länsimaissa
+Puhuja 0: Sieltä pystytään
+Puhuja 0: länsimaissa
 Puhuja 0: ottamaan tämmöinen just joku mulla tai Taliban-tyyppinen
 Puhuja 0: perustelu asialle ja tässä tapauksessa katolinen, äär-kisistinen, äär-konservatiivi
 Puhuja 0: perustelu ja viemään sen modernin yhteiskunnan läpi ja samaan aikaan perusoikeuksia. Mutta tämä sama ilmiöhän...
@@ -298,8 +295,7 @@ Puhuja 1: vaan se symboloi jotain muuta. Se on
 Puhuja 1: identiteettipolitiikan
 Puhuja 1: kulttuurin sodan
 Puhuja 1: päärintama.
-Puhuja 1: Siellä harva miettii enää äitiä tai sikiötä tai pientä vauvaa, vaan tässä on kyse jostain paljon suuremmasta. Ja sen takia heilurivertaus
-Puhuja 1: sopii.
+Puhuja 1: Siellä harva miettii enää äitiä tai sikiötä tai pientä vauvaa, vaan tässä on kyse jostain paljon suuremmasta. Ja sen takia heilri vertaus sopii.
 Puhuja 1: Nyt
 Puhuja 1: heilurissa antaa sellainen jengga, että se liikkuu toiseen suuntaan.
 Puhuja 0: Kyllä, olet aivan oikeassa. Äärettömän viisaita olette molemmat.
@@ -343,7 +339,7 @@ Puhuja 2: Kaprio vedessä,
 Puhuja 2: roikkuu siinä lautalla huulet sinisinä
 Puhuja 2: ja sitten Rose
 Puhuja 2: eli Kate Wanslet on
-Puhuja 2: oven päällä vedessä siinä ja Jack pitelee jotenkin viimeisillä voimilla kiinni siitä lautasta. Ja sit tiedätte miten siinä käy?
+Puhuja 2: oven päällä vedessä siinä ja sitten Jack pitelee jotenkin viimeisillä voimilla kiinni siitä lautasta. Ja sit tiedätte miten siinä käy?
 Puhuja 0: Riptejä.
 Puhuja 2: Riptejä.
 Puhuja 2: No nyt sitten vuosikymmeniä
@@ -367,7 +363,7 @@ Puhuja 2: testeistä.
 Puhuja 2: Eli me voimme saada nyt sielullemme rauhan.
 Puhuja 2: Ei olisi Jack voinut selviytyä, vaikka Rose olisi tehnyt tilaa
 Puhuja 2: lautalle. Eli katsokaa Thannikki.
-Puhuja 1: Tähän liittyy, luin tuon saman uutisen. Siinä oli musta hauska tämä Kate Wanslet, joka on aikaisemmin.
+Puhuja 1: Tähän liittyi, luin tuon saman uutisen. Siinä oli musta hauska tämä Kate Wanslet, joka on aikaisemmin.
 Puhuja 1: Itsekin olen ollut sitä mieltä, että se olisi voinut
 Puhuja 1: decaprio kiivetä sinne lautalle. Hyvä tästä olisi tullut. Nyt hänkin on vakuuttunut, että hyvä, kun ei kiivetä, kun molemmat olisi kuollut. Hän sanoi, että kyllähän jokainen ymmärtää, joka on koittanut mennä suppiloudalla
 Puhuja 1: päällä.
@@ -390,8 +386,8 @@ Puhuja 1: Sitten siinä on vielä
 Puhuja 1: se,
 Puhuja 1: hänhän on kunnostautunut muutenkin myös, että hän kuvaa
 Puhuja 1: näiden eräiden Ruotsin maahanmuuttajalähiöiden
-Puhuja 1: varjoyhteiskuntaa
-Puhuja 1: ja tavallaan suunnatun väkivaltaa
+Puhuja 1: varjoyhteiskuntaa ja
+Puhuja 1: tavallaan suunnatun väkivaltaa
 Puhuja 1: ja sitä miten.
 Puhuja 1: Jos kerrotaan, että kaksikymmentä vuotta sitten huumerikolliset
 Puhuja 1: ampui toisiaan jalkaan ja nyt se vähimmäisessä
@@ -419,8 +415,7 @@ Puhuja 0: Niillä on tämmöinen systeemi, missä toinen on perehtynyt johonkin 
 Puhuja 0: jonkun maan
 Puhuja 0: johonkin tapahtumaan.
 Puhuja 0: Esimerkiksi
-Puhuja 0: kuuntelin
-Puhuja 0: tämmöisen, kun
+Puhuja 0: kuuntelin tämmöisen, kun
 Puhuja 0: niillä on ollut nyt spesiaali, missä käydään läpi
 Puhuja 0: MM-kisamaita.
 Puhuja 0: Just ennen Marokon peliä, jotain peliä, en muista mitä, ajattelin, että minäpä kuuntelen näiden MM-kisaspesiia.
@@ -461,8 +456,7 @@ Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin
 Puhuja 0: yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
-Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
-Puhuja 0: suurvaltapolitiikassa.
+Puhuja 0: Kaasukauppaan, joka päätyi aseeksi suurvaltapolitiikassa.
 Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä podcasti, mä luulin, että mä lähtisin selvittämään, kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui taloudellinen
@@ -470,10 +464,11 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
-Puhuja 0: on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
-Puhuja 0: menetetyt miljardit.
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

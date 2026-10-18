@@ -22,17 +22,16 @@ Puhuja 0: vuotta sen jälkeen, kun uutisraportin
 Puhuja 0: ensimmäinen jakso
 Puhuja 0: julkaistiin. Jep.
 Puhuja 0: Vievästi
-Puhuja 0: asiasta
-Puhuja 0: riemusan
+Puhuja 0: asiasta riemusan
 Puhuja 0: kanssani
 Puhuja 0: on politiikan toimittaja Marko Junkkari.
-Puhuja 1: Heisan Tuomas. Onneksi olkoon
-Puhuja 0: myös itsellesi.
-Puhuja 1: Mut en ollut alusta lähtien.
-Puhuja 1: Lähtien mukana. En ollut ihan alusta alkaen koskaan... Vedetään vasta jotain yhdeksän-vuotissyntereitä
-Puhuja 0: tai
-Puhuja 0: kahdeksan.
-Puhuja 0: Mutta puhutaan tästä
+Puhuja 1: Heisan Tuomas.
+Puhuja 0: Onneksi olkoon. Onneksi olkoon myös itsellesi.
+Puhuja 1: En ollut alusta lähtien.
+Puhuja 1: Lähtien mukana. En ollut ihan alusta alkaen koskaan... Vedetään vasta jotain yhdeksän-vuotissyntereitä.
+Puhuja 1: Tai kahdeksan.
+Puhuja 0: Mutta
+Puhuja 0: puhutaan tästä
 Puhuja 0: lähetyksen
 Puhuja 0: loppupuolella eli
 Puhuja 0: podcast-jakson
@@ -75,13 +74,13 @@ Puhuja 0: Anna Sofia Berner, ystävien kesken sohvi.
 Puhuja 0: Heipä hei, täällä ollaan. Huomasin, että sut oli Amerikka-podissa
 Puhuja 2: alennettu tuttavaksi! Itseasiassa kiinnitin samaan huomiota. Se tuntui pahalta.
 Puhuja 0: Tuttavien kesken. Oliko teillä ollut riitaa vai mistä tää tuli? Mä heti laitoin viestiä Susannalle, että mikä tää tuttava juttu oli,
-Puhuja 2: palavereita
+Puhuja 0: palavereita
 Puhuja 0: beediä.
-Puhuja 2: Nyt
-Puhuja 2: on kohdennettu.
+Puhuja 2: Nyt on kohdennettu.
 Puhuja 0: Kyllä. Mä en alkuun sanonut, mutta mun nimi on siis Tuomas Peltomäki. Mä oon Helsingin Sanomien
 Puhuja 0: toimittaja ja tämmönen podcastheppu.
-Puhuja 0: Okei, tämän viikon podcastissa keskustellaan
+Puhuja 0: Okei, tämän viikon podcastissa
+Puhuja 0: keskustellaan
 Puhuja 0: vähän alihoidolle
 Puhuja 0: tämän podcastin tiimoilta jääneistä
 Puhuja 0: Yhdysvaltain presidentinvaaleista,
@@ -97,12 +96,6 @@ Puhuja 1: nyt vaikka toisessa maailmansodan
 Puhuja 1: aikaan, että liittyivätkö Jenkit sotaan vai ei. Oli siellä Suomen kannaltakin.
 Puhuja 0: Päätettiinko
 Puhuja 0: se Yhdysvaltain presidentti?
-Puhuja 0: Jostain? Joo, se löytyy tämän
-Puhuja 0: podcastin saatetiedoista:
-Puhuja 0: www.lyyti.
-Puhuja 0: Inuutisraportti
-Puhuja 0: kymmenen w. Siellä on
-Puhuja 0: lisäohjeistusta.
 Puhuja 0: Tärkeintä, mitä siellä on. Siellä on tekstilaatikko,
 Puhuja 0: mihin ilmoittautumisen
 Puhuja 0: yhteydessä voit kirjoittaa
@@ -121,7 +114,8 @@ Puhuja 0: Samalla, kun menet saatetietoihin,
 Puhuja 0: pistä tälle haluamasi määrä tähtiä
 Puhuja 0: Spotifyssa Applessa, missä ikinä kuunteletkin.
 Puhuja 0: Kommentti, vaikka jaksokommentti Spotifyssa.
-Puhuja 0: Aivan ehdottomasti auttaa muitakin löytämään
+Puhuja 0: Aivan
+Puhuja 0: ehdottomasti auttaa muitakin löytämään
 Puhuja 0: tän
 Puhuja 0: podcastin. On sata meille kultaisena mannana laariin.
 Puhuja 0: Eli jos viitsit, niin laita semmoinenkin. Tuntuisi aivan todella kivalta.
@@ -145,8 +139,7 @@ Puhuja 2: Aloitettiin. Aloitettiin.
 Puhuja 0: Kuusitoista.
 Puhuja 0: Ehkä mä muistan väärin. Yhteen t-paitaa kerran kirjatin sen vääriä, ja sillä se väärin oli kaksituhatta viisitoista. Kyllä. Podcast on kahdeksanvuotias.
 Puhuja 0: Ja uutisraportti,
-Puhuja 0: joka sai alkunsa
-Puhuja 0: pienimuotoisena,
+Puhuja 0: joka sai alkunsa pienimuotoisena,
 Puhuja 0: mutta
 Puhuja 0: suuria haaveita sisältäneenä
 Puhuja 0: amerikkalaistatyylisenä
@@ -166,21 +159,19 @@ Puhuja 0: sitten
 Puhuja 2: näkynyt. Mä muistan, että
 Puhuja 2: mä myöskään en ollut silloin alkuun missään tekemisessä sen kanssa,
 Puhuja 2: ja olin silleen, että mitähän tuo Tuomas sekoilee.
-Puhuja 2: Mutta silloin poikaystävä katsoi
-Puhuja 2: sitä kännykältä ja aina nauroi.
-Puhuja 2: Se tuli sitä kautta elämään, että vaikka olin täällä töissä ja että vaikka olin täällä töissä ja olin sun kaveri, niin tajusin ignoorasin sen,
-Puhuja 2: että
+Puhuja 2: Mutta silloin poikaystävä katsoi sitä kännykältä ja aina nauroi.
+Puhuja 2: Se tuli sitä kautta elämään, että vaikka olin täällä töissä ja
+Puhuja 0: Ja sitten se tuli sitä kautta mun elämään. Että vaikka olin täällä töissä ja olin sun kaveri, niin tajusin ignoorasin sen, että
 Puhuja 2: Toukolle vaan terveisiä.
 Puhuja 0: Mutta se on yleinen. Mun mielestä yleisin tapa
-Puhuja 0: suhtautua kollegojen tekemisiin, on olla
-Puhuja 0: kiinnittämättä niin mitään huomiota. Just niin. Sille se vaan, jos toi, just se oudosti menee.
-Puhuja 0: Joo. Ja
 Puhuja 0: en tiedä.
 Puhuja 0: Muistan, mä haluan... Tämä ei nyt ollut tarkoitus mikään muisteluhomma
 Puhuja 0: olla. Mutta haluan kiittää kyllä Helsingin Sanomia ja varsinkin
-Puhuja 0: Helsingin Sanomia. Mä sanoin, että pikku pomo, koska mä olen edelleen sitä mieltä, että meidän isot pomo ei ole edes tietoisia tästä
-Puhuja 2: podcastista.
-Puhuja 0: Satiirii, mun satiirii, mun satiirii, ei ole siellä minkäännäköisiä keskiössä. Mutta pikkupomoilta saatu tuki on ollut tosi vankkaa, ja mä olen siitä tosi kiitollinen.
+Puhuja 0: Helsingin Sanomia. Mä sanoin, että pikku pomo, koska mä olen edelleen sitä mieltä, että meidän isot pomo ei ole edes tietoisia tästä podcastista.
+Puhuja 0: Mietittävänään,
+Puhuja 0: niin
+Puhuja 0: tätä podcastia,
+Puhuja 0: mun satiirii tekemiset ei ole siellä minkäännäköisiä keskiössä. Mutta pikkupomoilta saatu tuki on ollut tosi vankkaa, ja mä olen siitä tosi kiitollinen.
 Puhuja 0: Mun on annettu kymmenen vuotta puuhaillut kaiken näköistä täällä.
 Puhuja 0: Sen seurauksena on tämäkin podcast syntynyt.
 Puhuja 0: Mun mielestä podcast on todella hyvä, koska täällä on jotenkin
@@ -191,8 +182,7 @@ Puhuja 0: Okei.
 Puhuja 0: Sitten
 Puhuja 0: kun
 Puhuja 0: istutte
-Puhuja 0: kuiva harjoittelemaan puolentoista viikon päästä olevia Yhdysvaltain
-Puhuja 0: presidentinvaaleja,
+Puhuja 0: kuiva harjoittelemaan puolentoista viikon päästä olevia Yhdysvaltain presidentinvaaleja,
 Puhuja 0: Eli herättte kokeeksi
 Puhuja 0: puolel neljältä aamulla. Alatte, pistätte jonkun amerikkalaisen kanavan päälle. Odottelette vielä, milloin Helsingin Sanomien Amerikka-podin
 Puhuja 0: seuranta
@@ -204,13 +194,12 @@ Puhuja 0: Ehkä siinä kumppanille tai
 Puhuja 0: jollekin 1 it's ständille, joka on eksynyt teidän sänkyyn,
 Puhuja 0: ravistelette heitäkin hereille ja tarjoatte siinä kupin kuumaa ja mistäs alatte heille
 Puhuja 0: jutella?
-Puhuja 2: Hän on siis silloin vaaliyönä töissä. Tulen töihin kerran tuhat yhdeksänsataakaksi. Oho, niin ai. Joo.
+Puhuja 2: Hän on siis silloin vaaliyönä töissä. Tulen töihin kerran tuhat yhdeksänsataakaksi. Oho, niin aiotko.
 Puhuja 0: Mä tulen töihin
-Puhuja 0: tuhat neljäsataakolmekymmentä. No niin,
+Puhuja 0: tuhat neljäsataakolmekymmentä. No
 Puhuja 2: Vegaanatte ne viikkoja.
 Puhuja 2: Oikeialla. Kaikki on mahdollista.
-Puhuja 2: No
-Puhuja 2: niin, mutta mistä puhun, niin on tämmöinen vanha
+Puhuja 2: No niin, mutta mistä puhun, niin on tämmöinen vanha
 Puhuja 2: amerikkalainen
 Puhuja 2: tietokirja.
 Puhuja 0: Herra Jumala.
@@ -227,7 +216,7 @@ Puhuja 0: Ja sen takia mä nyt juuri soitan parhaillaan. Hei
 Puhuja 0: Tuomas!
 Puhuja 0: Hei,
 Puhuja 0: Salla Vuorikas!
-Puhuja 2: Hei! Ei! Ei me vuotaa soittaa,
+Puhuja 0: Hei! Ei! Ei me vuotaa soittaa,
 Puhuja 0: Onnea meille. Kymmenen vuotta
 Puhuja 0: ollaan uutisraportin
 Puhuja 0: parissa puuhailtu.
@@ -237,15 +226,14 @@ Puhuja 0: Sä tulit mukaan silloin, kun sä tulit Helsingin Sanomiin muutama vuo
 Puhuja 0: Toki minä ja sinä ollaan tunnettu hyvin paljon
 Puhuja 0: pidempäänkin,
 Puhuja 0: jopa yli kymmenen vuotta ollut hyviä ystäviä.
-Puhuja 0: Kyllä.
-Puhuja 0: Ehkä tähän näin, että mitä sä ajattelet uutisraportin tekemisestä
+Puhuja 0: Kyllä. Ehkä tähän näin, että mitä sä ajattelet uutisraportin tekemisestä
 Puhuja 0: ja mitä sulla on mielikuvia tai ajatuksia siitä, miten tämä matka on taittunut?
 Puhuja 3: Silloin kun mä tulin siihen Sariin
 Puhuja 3: ja meillä on tämä ystävyys, mulle oli sellainen arvo, että mä nopeasti pääsisin
-Puhuja 3: edes vierailemaan uutisraportissa, mutta se meni jotenkin yllättävän
-Puhuja 3: muistaakseni ehkä jopa puhetta
-Puhuja 3: Mä ehdin jo miettiä, että what's going on? Mutta sitten
-Puhuja 3: mä pääsin ja sitten mä mäkin niin kuin yritin asumaan tässä omassa en tiedä miten se tapahtui
+Puhuja 3: edes vierailemaan uutisraportissa,
+Puhuja 3: mutta se meni jotenkin yllättävän muistaakseni ehkä jopa puhetta
+Puhuja 3: ja mä ehdin jo miettiä, että what's going on? Mutta sitten mä
+Puhuja 3: pääsin ja sitten mä mäkin asuin asumaan tässä omassa en tiedä miten se tapahtui
 Puhuja 3: Mutta siis täähän
 Puhuja 3: on
 Puhuja 3: ihmisen parasta aikaa aina torstaina, tai ei nyt joka viikko, mutta aika mukava raksassa
@@ -260,7 +248,8 @@ Puhuja 0: Kiitos sulle, kun olet ollut meidän kanssa podcasteja tekemässä.
 Puhuja 0: Ja ei muuta kuin
 Puhuja 3: älä mene uimaan. En mene. Ole hyvä, olen mä kissa.
 Puhuja 3: Kiitos myös teille,
-Puhuja 3: meille ja kuulijoille.
+Puhuja 3: meille
+Puhuja 3: ja kuulijoille.
 Puhuja 3: Hyvää.
 Puhuja 1: Saako sanoa vielä yhden asian? Sannalla
 Puhuja 1: oli tosiaan eilen Sanna Marin kirjan julkkarit ja Salla esitti sellaisen multimedia Shawn. Se oli ehkä yksi hienoimmista multimedia Shausta jota en ole koskaan nähnyt. Siellä oli
@@ -268,7 +257,7 @@ Puhuja 1: videota Sallasta ja valokuvia Sanna Marinista.
 Puhuja 3: Ihan hyvät juhlat. Onnea vielä
 Puhuja 0: Suomen tämän hetken juhliitummalle kirjailijalle.
 Puhuja 0: Näin mä laittaisin. Kyllä,
-Puhuja 1: Ihan hyvä. Kiitoksia vaan vielä.
+Puhuja 3: Ihan hyvä. Kiitoksia vaan vielä.
 Puhuja 0: Hei, hei, Esala.
 Puhuja 0: Okei, no niin, nyt palataan
 Puhuja 0: siihen,
@@ -288,7 +277,10 @@ Puhuja 2: esiin ja varasin kirjastosta ja sain sen. Se on mun mielestä todella
 Puhuja 2: hyvä tietokirja. Se seuraa hetki hetkeltä,
 Puhuja 2: miten AIDS
 Puhuja 2: saapuu maailmaan ja Yhdysvaltoihin.
-Puhuja 2: Taitavat, että tämä on aika paha
+Puhuja 2: Just tavallaan se jännite tulee siitä, että lukijana tiedät miten
+Puhuja 2: kaikki tulee menemään ihan päin helvettiä.
+Puhuja 2: Ja sitten ne pienet ihmiset,
+Puhuja 2: taitavat, että tämä on aika paha
 Puhuja 2: juttu yrittävät vakuuttaa maailman siitä, että asia pitäisi ottaa vakavasti ja se maailma ei ota sitä vakavasti.
 Puhuja 2: Siitä syntyy tämä jännite ja se kertoo paljon myös siitä,
 Puhuja 2: miten politiikka toimii ja miksi
@@ -322,8 +314,7 @@ Puhuja 0: ajatuksista,
 Puhuja 0: tekotavoista, keinoista, jotka nykyään... Ne on siirtynyt sieltä
 Puhuja 0: vasemmistolaiseen VOC-aktivismiin.
 Puhuja 0: 80-luvun
-Puhuja 0: Amerikasta oli
-Puhuja 0: Act up-niminen
+Puhuja 0: Amerikasta oli Act up-niminen
 Puhuja 2: yhdistys. Mä oon haastatellut yhtä keskeistä Act up:n jäsentä.
 Puhuja 0: Monet tän ajan ilmiöistä on sieltä alun perin peräisin. Se on sillä tavalla tosi kiinnostavaa. Jos haluaa ymmärtää maailmaa, niin täytyy ymmärtää AIDS ja AIDS
 Puhuja 0: aktivismi.
@@ -337,8 +328,8 @@ Puhuja 1: Tämä on siis tämmöinen Oraal History of the New York Post
 Puhuja 1: 19706-kaksikymmentäneljä.
 Puhuja 1: Tämä kertoo siis... New York Post oli
 Puhuja 1: vielä 70-luvun puolivälissä... Se oli itse asiassa demokraattien lähellä oleva, suhteellisen laadukas
-Puhuja 1: iltapäivälehti.
-Puhuja 1: Vähän tylsä.
+Puhuja 1: iltapäivälehti,
+Puhuja 1: vähän tylsä.
 Puhuja 1: Sitten tuli Robert Murdo
 Puhuja 1: ja osti sen. Tämä kertoo siitä valtavasta muutoksesta miten Murdoc,
 Puhuja 1: New
@@ -350,7 +341,7 @@ Puhuja 1: joka ensin
 Puhuja 1: laajensi
 Puhuja 1: Britteihin ja sitten valloittamaan
 Puhuja 1: jenkkejä.
-Puhuja 1: Ja tää New York Post oli tavallaan hänen lippulaivansa
+Puhuja 1: New York Post oli tavallaan hänen lippulaivansa
 Puhuja 1: Jenkeissä ja hän pani valtavasti
 Puhuja 1: aikaa ja energiaa New York Posttiin.
 Puhuja 1: Toi kirja on ainakin ihan mahtava.
@@ -406,8 +397,8 @@ Puhuja 0: suuren maailman
 Puhuja 0: vanhaa kunnon brittiläistä tai
 Puhuja 0: sanomalehtikuvittajan
 Puhuja 0: viivapiirustusta.
-Puhuja 0: Se on aivan
-Puhuja 0: uskomattoman hienoa, se jälki. Hänen kynän jälki plus ideat, jotka hänen kuvissaan on. Hän tekee poliittisia pilakuvia.
+Puhuja 0: Se on aivan uskomattoman
+Puhuja 0: hienoa, se jälki. Hänen kynän jälki plus ideat, jotka hänen kuvissaan on. Hän tekee poliittisia pilakuvia.
 Puhuja 0: Ne ideat on jotain
 Puhuja 0: niin nerokkaita, että mä en voi muuta kuin
 Puhuja 0: katsoa ihailla. Joten mulla on suuri kunnia
@@ -415,8 +406,7 @@ Puhuja 0: sunnuntaina.
 Puhuja 0: Tämän viikon sunnuntaina tuhat seitsemänsataakymmenen. Kello tuhat kolmekymmentä
 Puhuja 0: kirjamessujen Kruununhaka
 Puhuja 0: lavalla
-Puhuja 0: haastatella
-Puhuja 0: suuresti ihailemaani Lasseja hänen kuvistaan
+Puhuja 0: haastatella suuresti ihailemaani Lasseja hänen kuvistaan
 Puhuja 0: siitä, miten hän ajattelee, miten hän pyörittää ideoita sille, että hän pystyy saamaan jotain. Niin kuin sanoin,
 Puhuja 0: kansainvälisen, siis todellakin kansainvälisen tason kamaa.
 Puhuja 0: Uskon, että hän on paras
@@ -428,7 +418,8 @@ Puhuja 0: Okei,
 Puhuja 0: eli nähdään, tulkaa katsomaan mua, Tulkaa katsomaan Lasse ja kruunun Hakalavalle
 Puhuja 0: kello tuhat kolmekymmentä sunnuntaina.
 Puhuja 0: Siellä on minä Lasse Rantanen Helsingin kirjamessuilla.
-Puhuja 0: Siinä kaikki tältä erää. Kiitos Marko Junkkari. Kiitos Anna-Sofia Berner. Kiitos. Salla Vuorikoskelle,
+Puhuja 0: Siinä kaikki tältä erää. Kiitos Marko Junkkari. Kiitos Anna-Sofia Berner. Kiitos.
+Puhuja 0: Salla Vuorikoskelle,
 Puhuja 0: joka oli mystisessä meripaikassa.
 Puhuja 0: Mun nimi on Tuomas Peltomäki. Äänikuva, ja kaiken muun mahtavan meille tekee tällä viikolla
 Puhuja 0: Mikko Peura, joka muuten palkattiin alun perin Hesariin tekemään uutisraporttia.
@@ -456,7 +447,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

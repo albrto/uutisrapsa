@@ -108,8 +108,7 @@ Puhuja 0: Mutta selvyydeksi
 Puhuja 0: siis droonit oli ainakin niiltä osin, mitkä on tunnistettu. Kuitenkin tehtäviä on, mutta se on tärkeä.
 Puhuja 1: Onko siinä vähän kuitenkin sellainen
 Puhuja 1: ajatus, että otetaan se toimittaja
-Puhuja 1: aidan toiselta puolelta ja syleillään se johonkin osaksi jotain projektit, jotka eivät olleet
-Puhuja 0: se
+Puhuja 1: aidan toiselta puolelta ja syleillään se johonkin osaksi jotain projektit, jotka eivät olleet se
 Puhuja 0: toimittajahan siellä oli muutama hassu ja kaikki olivat, että mitä nuo täällä tekevät.
 Puhuja 0: Muuten siellä on oikeasti
 Puhuja 0: napa ihmiset. On toimitusjohtajaa
@@ -117,17 +116,18 @@ Puhuja 0: ja johtajaa
 Puhuja 0: isoista firmoista ja
 Puhuja 0: tärkeistä firmoista. Sitten siellä on
 Puhuja 0: tulevaa kenraalia ja nykyistä
-Puhuja 0: everstiä. Siellä on
-Puhuja 0: yhteiskunnassa hyvin tärkeässä asemassa olevia
-Puhuja 0: ihmisiä. Ei eliittiä siinä mielessä, että ei ole mitään Jaaarleja eikä ole Antti Herlin. No varmaan Antti Herlinkin on käynyt sen.
+Puhuja 0: everstiä. Siellä on yhteiskunnassa
+Puhuja 0: hyvin
+Puhuja 0: tärkeässä asemassa olevia
+Puhuja 0: ihmisiä.
+Puhuja 0: Ei eliittiä siinä mielessä, että ei ole mitään Jaaarleja eikä ole Antti Herlin. No varmaan Antti Herlinkin on käynyt sen.
 Puhuja 0: Mutta ei ole
 Puhuja 0: yltäkylläistä
 Puhuja 0: eliittiä siinä mielessä, että kaikki
 Puhuja 2: ovat upporikkaita. Mutta tärkeitä ihmisiä eittämättä. Se käydä uran siinä vaiheessa, että ne ovat ihmisiä, jotka myöhemmin
-Puhuja 2: nousee, esimerkiksi kaikki kansanedustajat
-Puhuja 2: käy sen. Niin.
+Puhuja 2: nousee, esimerkiksi kaikki kansanedustajat käy sen. Niin.
 Puhuja 1: Ja raksa duunari
-Puhuja 0: Raimo ei käy Eli kaikki ovat tavallaan jossain semmoisessa asemissa, että voi vaihtaa asioita. Joo, johtajia. Juuri näin. Sitten minäkin ajattelin, että okei, tämä on nyt joku propaganda-operaatio,
+Puhuja 1: Raimo ei käy sitä. Eli kaikki ovat tavallaan jossain semmoisessa asemissa, että voi vaihtaa asioita. Joo, johtajia. Juuri näin. Sitten minäkin ajattelin, että okei, tämä on nyt joku propaganda-operaatio,
 Puhuja 0: että minut yritetään saada hyriseen innostajan
 Puhuja 0: Nato-kiilusilmänä
 Puhuja 0: olemaan
@@ -212,16 +212,16 @@ Puhuja 0: maksettavaksi, mutta eikö kuulosta ihan järkevältä? Siis kuka ei e
 Puhuja 0: ehkä se, että
 Puhuja 0: jälleen kerran näkee sen pienuuden, että Aa, niin joo,
 Puhuja 0: että
-Puhuja 0: Suomen öljyhuolto,
-Puhuja 0: niin se on tuon jätkäfirma
-Puhuja 0: aika sen hoitaa.
+Puhuja 0: Suomen öljyhuolto...
+Puhuja 0: Niin, no, se on tuon jätkäfirma,
+Puhuja 0: joka sen hoitaa.
 Puhuja 1: Toi Jani. Niin.
 Puhuja 2: Suomessa on muuttunut tilanne sillä, että naisia
 Puhuja 2: on paljon
 Puhuja 2: sellaisissa asemissa, joissa
 Puhuja 2: on siinä vaiheessa uraansa. Mulla
-Puhuja 2: se ei ehkä ole niin iso, koska kun olen pääkirjoitustoimittaja ja mä teen valtaisemmalta työstä, on käydä taustakeskusteluja,
-Puhuja 2: joten
+Puhuja 2: se ei ehkä ole niin iso, koska kun olen pääkirjoitustoimittaja ja mä teen valtaisemmalta työstä, on käydä taustakeskusteluja.
+Puhuja 2: Joten
 Puhuja 2: keskustelen erilaisten ihmisten kanssa. Otat niiden ajatukset. Jotain niiden ja sitten
 Puhuja 2: muokkailen, yhdistelen niistä.
 Puhuja 2: Oikeastaan se on
@@ -258,14 +258,15 @@ Puhuja 1: korona
 Puhuja 1: esimerkiksi, josta puhuttiin,
 Puhuja 1: Iranin sodat vaikutukset maailmantalouteen, sitten nuo droonit tuossa meidän
 Puhuja 1: vieressämme. Kriisiä
-Puhuja 1: kriisin perään. Sitähän me emme halua ja se on ikävää.
+Puhuja 1: kriisin perään. Sitähän me emme halua
+Puhuja 1: ja se on ikävää.
 Puhuja 1: Voiko se jotenkin kertakautta
 Puhuja 1: vahvistaa yhteisöllisyyttä? Ei
 Puhuja 1: pelkästään maanpuolustustahdon,
 Puhuja 1: mutta muidenkin asioiden
 Puhuja 1: suhteen, että ihmiset haluaisivat
 Puhuja 1: yhdessä hoitaa enemmän asioita
-Puhuja 1: kuin mitä ennen? Minä haluaisin tällaisen toiveikkaan ajatuksen heittää tähän. Kenties tuossa koronaraportissa
+Puhuja 1: kuin mitä ennen? Mä haluaisin tämmöisen toiveikkaan ajatuksen heittää tähän. Kenties tuossa koronaraportissa
 Puhuja 0: sitä sivuttiin.
 Puhuja 0: Siinä oli ehkä se, että
 Puhuja 0: näin on,
@@ -322,7 +323,7 @@ Puhuja 1: Sillä sarjalla on suomalainen nimi.
 Puhuja 1: Tällainen, saako sanoa komedienne,
 Puhuja 1: Amy Pooler.
 Puhuja 1: Hänellä on sellainen podcast.
-Puhuja 1: Good hag. Good hag.
+Puhuja 0: Good hag. Good hag.
 Puhuja 1: Minä kuuntelin jakso,
 Puhuja 1: jossa oli Steve Carel koomikko
 Puhuja 1: vieraana. Se oli hirveän hauska.
@@ -454,7 +455,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

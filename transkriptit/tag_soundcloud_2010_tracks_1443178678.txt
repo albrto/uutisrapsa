@@ -20,22 +20,23 @@ Puhuja 0: vaihe sun uralla.
 Puhuja 1: Toimitus on aina oma identiteetti, niin mulla oli kyllä kamalan pitkään taloustoimittaja.
 Puhuja 2: Miten se näkyy sussa?
 Puhuja 1: Mietin
-Puhuja 1: aina. Mietin itseni taloustoimittaja, vaikka työskentelin politiikan toimituksessa.
-Puhuja 0: Nyt se on muuttunut. Niin, nyt viimeisenä hyväksyt.
+Puhuja 1: aina, mietin itseni taloustoimittaja, vaikka työskentelin politiikan toimituksessa.
+Puhuja 1: Nyt se on muuttunut. Niin, nyt viimeisenä hyväksyt.
 Puhuja 0: Joo. Tuossa Markon identiteettiä
-Puhuja 0: vierestä vierestä kyseenalaisti
+Puhuja 0: vierestä pienestä
+Puhuja 0: kyseenalaisti
 Puhuja 0: Helsingin Sanomissa
-Puhuja 0: tutkivaa
-Puhuja 0: journalismia,
+Puhuja 0: tutkivaa journalismia,
 Puhuja 0: kaikisevä
 Puhuja 2: ja tekevä. Niin, ja vuoden olen tehnyt. Salla Vuorikoski. Siitä on vuosi, kun tulit, eikö ole? Onko niin? Onko niin? Se viikko sitten vai mitä? Pari viikkoa sitten tuli vuosi täyteen. Jännä.
 Puhuja 2: Olen laitostunut jo.
 Puhuja 0: Silti oot se uusi
 Puhuja 0: tyyppi täällä. Tosin mun mielestä
 Puhuja 0: esimerkiksi rap on uutta musiikkia,
-Puhuja 1: johon pitäisi joskus tutustua nyt. Vaikka se on tullut salaa ja kalustoon. Oon jotenkin tottunut salaa. Te olette siinä vierekkäin? No joo. Mä oon se viherkasvi nurkassa,
-Puhuja 2: joka on aina ollut jotain kastellut. Niin. Kuihtunut viherkasvi ja kumppanit podcastin tämän viikon jälkeen.
-Puhuja 0: Kumppanit!
+Puhuja 1: johon pitäisi joskus tutustua nyt. Vaikka se on tullut salaa ja kalustoon. Oon jotenkin tottunut salaa. Te olette siinä vierekkäin?
+Puhuja 2: Joo. Mä oon se viherkasvi nurkassa, joka on aina ollut jotain kastellut. Niin. Kuihtunut viherkasvi ja kumppanit podcastin tämän
+Puhuja 0: viikon
+Puhuja 0: kumppanit!
 Puhuja 0: Podcastin tämän viikon
 Puhuja 0: jaksossa keskustellaan
 Puhuja 0: vaaleista.
@@ -45,7 +46,7 @@ Puhuja 0: maan taktiikka,
 Puhuja 0: mitä tulee perussuomalaisiin?
 Puhuja 0: Ja miksi on käytössä
 Puhuja 0: poltetun maan taktiikka, mitä tulee SDP:hen.
-Puhuja 0: Ja sitten, että kuinka nopeaa kokoomus tippuu siellä kärkipaikalta. Mä haluan keskustella tästä aiheesta.
+Puhuja 0: Ja sitten, että kuinka nopeaa kokemus tippuu siellä kärkipaikalta. Mä haluan keskustella tästä aiheesta.
 Puhuja 0: Sen
 Puhuja 0: lisäksi keskustellaan Suomen kouluista
 Puhuja 0: suuresti. Tällä viikolla kohua ja kuohuntaa on herättänyt
@@ -56,7 +57,8 @@ Puhuja 0: itseohjautuvuus
 Puhuja 0: pöhinä Suomen kouluissa on johtanut siihen, että se on selittävä tekijä sille, että Suomen PISA-tulokset
 Puhuja 0: ovat romahtaneet
 Puhuja 0: emmekä voi enää ylpeillä kouluosaamisellamme.
-Puhuja 0: Keskustellaan näistä kansakunnan
+Puhuja 0: Keskustellaan
+Puhuja 0: kansakunnan
 Puhuja 0: kysymyksistä.
 Puhuja 0: Sen lisäksi
 Puhuja 0: keskustellaan
@@ -66,7 +68,7 @@ Puhuja 0: Mika Aaltolasta.
 Puhuja 2: Aikaan lämmin perheelle lisä. Aivan,
 Puhuja 0: täydellinen suoriutuja.
 Puhuja 0: Mika Aaltola matkusti yhden ulkopoliittisen
-Puhuja 0: instituutin tutkijan kanssa Turkkiin. Tviiittaili sieltä ja joutui jotenkin kaikkien poliitikkojen
+Puhuja 0: instituutin tutkijan kanssa Turkkiin, twiittaili sieltä, joutui jotenkin kaikkien poliitikkojen
 Puhuja 0: vihan kohteeksi
 Puhuja 0: ainakin sosiaalisessa mediassa ja haastatteluissa keskustellaan siitä.
 Puhuja 0: Ja lopuksi vielä hyviä keskustelunaiheita
@@ -90,11 +92,9 @@ Puhuja 0: näistä
 Puhuja 0: teemoista
 Puhuja 0: pitkän ja seikkaperäisen
 Puhuja 0: jutun sunnuntain Helsingin Sanomiin.
-Puhuja 0: Haluaisitko jatkaa
-Puhuja 0: keskustelua tässä podcast?
+Puhuja 0: Haluaisitko jatkaa keskustelua tässä podcast?
 Puhuja 1: Oikeasti? Tämä ei olisi jutussa, mutta olin
-Puhuja 1: lauantaina
-Puhuja 1: SDP:n
+Puhuja 1: lauantaina SDP:n
 Puhuja 1: kampanjastarttitilaisuudessa.
 Puhuja 1: Otelli Clarionissa.
 Puhuja 1: Mitäs se nyt onkaan?
@@ -113,9 +113,9 @@ Puhuja 0: Ne oli semmoisessa lokerossa, sitten sieltä selattiin, missä on joku
 Puhuja 0: Okei,
 Puhuja 0: Salla, suuri idolisi Mika Aaltola on
 Puhuja 0: joutunut ryöpytyksen kohteeksi
-Puhuja 2: paikkakunnalle. Mika Aaltola, joka ei vieläkään ole mukana presidenttikisassa.
+Puhuja 2: poliklinikkaön. Mika Aaltola, joka ei vieläkään ole mukana presidenttikisassa.
 Puhuja 2: Onko hänet pudotettu jo pois niistä gallupeista?
-Puhuja 1: En tiedä. Ehkä ei ole. Hän oli laskenut Ilta-Sanomit tuli minusta. Hän oli nyt tänään
+Puhuja 1: En tiedä. Ehkä ei ole. Hän oli laskenut Ilta-Sanomit tuli musta. Hän oli nyt tänään
 Puhuja 1: kolmannen tai nelonen. Siis tänään? Ei kun viime viikolla tulee. Okei. No niin, mutta
 Puhuja 2: presidentti Kisaan monien toivoma Mika Aaltola. Hän on siis Ulkopoliittisen instituutin johtaja. Ulkopoliittinen instituutti toimii eduskunnan alla. Ja sitten tutkija Henri Vanhanen kävivät Turkin reissulla.
 Puhuja 2: He olivat pari päivää ankarassa.
@@ -141,7 +141,8 @@ Puhuja 2: jotta Turkki saisi siitä sitten
 Puhuja 0: viestin, että nyt voimme käsitellä erikseen Suomea ja ruotsia. Tuo ei varmaan ollut sitaatti, mutta sinunkin sanat muuttuu hyvin Mika Aaltolamaa. Se vaan se tapahtuu. Kun me yhdessä kuun valossa irrottaa, niin kätemme toisistaan.
 Puhuja 2: Miten Nato-reittien erottaminen käytännössä sujuisi? Sitten Mika Aaltola kertoo täällä,
 Puhuja 2: että miten nämä skenaariot menisivät.
-Puhuja 2: Ja arvata saattaa itseasiassa kun näin jotain
+Puhuja 2: Ja arvata saattaa itseasiassa kun näin
+Puhuja 2: jotain
 Puhuja 2: juttua tästä Aaltolan kommenteista niin ajattelin että odotetaan hetki ja sitten
 Puhuja 2: alkaa paukkua ja näin kävi.
 Puhuja 2: Ainakin
@@ -183,8 +184,8 @@ Puhuja 1: Kerrankin asia, missä voin olla ihan mitä mieltä vaan.
 Puhuja 2: Arvotaan mielipide.
 Puhuja 1: Ilman muuta Mika Hautala saa käydä Hendin Vanhasen kanssa
 Puhuja 1: tutkijoina ja hänen tehtävänsä on tutkia Suomen ulkopolitiikkaa ja käydä Turkissa ja keskustella siellä ihmisten ja tutkijoiden kanssa.
-Puhuja 0: Matkassa itsessään ei ole mitään pahaa. Kyllä. Ja siitä varmasti saa jonkinnäköistä
-Puhuja 0: arvokasta kokemusta. Kyllä. Ja
+Puhuja 1: Matkassa itsessään ei ole mitään pahaa. Kyllä. Ja siitä varmasti saa jonkinnäköistä
+Puhuja 1: arvokasta kokemusta. Kyllä. Ja
 Puhuja 1: siinä, että Mika Aaltola
 Puhuja 1: hänellä on sananvapaus ja hän on ihminen.
 Puhuja 1: Hän saa käyttää sananvapautta ja sanoa mitä haluaa.
@@ -199,11 +200,12 @@ Puhuja 1: sävy. Hän
 Puhuja 1: ei puhu kuin tutkija, vaan hän puhuu kuin poliitikko.
 Puhuja 1: Ja musta tää sävyongelma
 Puhuja 1: ei koske vain turkkiasiaa, vaan Mika Aaltolalla on ollut pitkään.
-Puhuja 1: Ja luulen, että tässä on kasautunut...
+Puhuja 1: Luulen, että tässä on kasautunut...
 Puhuja 1: Sävyjä on ollut niin paljon, että tässä nyt Erkki Tuomioja ja montaa muutakin harmittaa. Tai onhan tää vähän erikoinen tilanne, että tutkija puhuu kuin valtionpäämies.
 Puhuja 1: Hassuahan se on.
 Puhuja 1: Mutta ei nyt silti tätä asiaa hiirtä mua pätkääkään, koska mulla on ihan sama.
-Puhuja 2: Nyt mä katson, mikä on Aaltolan tätä
+Puhuja 2: Nyt mä katson, mikä on Aaltolan
+Puhuja 2: tätä
 Puhuja 2: Twitter-seinää,
 Puhuja 2: niin hän on nyt sitten aika paljon täällä Reed viittaillut
 Puhuja 2: näitä itseänsä puolustavia
@@ -215,41 +217,38 @@ Puhuja 2: hänhän toimii vähän sellaisella...
 Puhuja 2: Täytyy sanoa, että onhan hän sanonut, että
 Puhuja 2: miten hän on muotoillut, että ei lähde presidenttikisaan
 Puhuja 2: tai ei ole juuri nyt
-Puhuja 2: tai jotenkin, mutta häntä roikotetaan niissä mukana ja hän on tietyllä tavalla kerännyt. Hän on välillä ollut tosi korkeallakin. Ooksähän ollut ihan kärjessä vai siellä kärjen tuntumassa?
+Puhuja 2: tai jotenkin, mutta häntä roikotetaan niissä mukana ja hän on tietyllä tavalla kerännyt. Hän on välillä ollut tosi korkeallakin. Ooksä ollut ihan kärjessä vai siellä kärjen tuntumassa?
 Puhuja 2: Että hänellä on tämmöinen
 Puhuja 2: ikään kuin poliitikon ilmatila käytössään ja kaikki, mitä sieltä suusta tulee, niin sitten
-Puhuja 2: sitä vasten
-Puhuja 2: arvioidaan.
+Puhuja 2: sitä
+Puhuja 2: vasten arvioidaan.
 Puhuja 2: Mä
 Puhuja 2: parempia muistikuvia, että onko meillä vastaavia tilanteita? Mehän ollaan totuttu siihen, että kun tutkijat toimii, niin kaikki kestää pitkään
 Puhuja 2: ja
-Puhuja 2: raportti käsittelevät edellisen vuoden
-Puhuja 2: asioita. Nyt
-Puhuja 2: tutkijat toimivat
-Puhuja 2: tällaisessa
-Puhuja 2: reaalitodellisuudessa, että juuri nyt kun on Nato-tilanne
-Puhuja 2: todella kriittinen, niin nyt ollaan siellä ankarassa ja nyt kerätään tietoa ja nyt jo kerrotaan
-Puhuja 2: ne havainnot ja muut.
-Puhuja 1: Tietoa ja nyt jo kerrotaan ne havainnot ja muut. Eikö tämä ole aika poikkeuksellista? Joo, mutta eihän hän yritäkään esiintyä tässä tutkijana. Kyllähän tutkimus edellyttää, että siinä tehdään tutkimustyötä, eikä se, että lennetään ankaraa ja jutellaan baarimikon kanssa, ei ole vielä tutkimus.
+Puhuja 2: raportti käsittelevät edellisen
+Puhuja 2: vuoden asioita.
+Puhuja 2: Nyt
+Puhuja 2: tutkijat toimivat tällaisessa reaalitodellisuudessa,
+Puhuja 2: että juuri nyt kun on Nato-tilanne
+Puhuja 2: todella kriittinen, niin nyt ollaan siellä ankarassa ja nyt kerätään tietoa ja nyt jo kerrotaan ne havainnot ja muut. Eikö tämä ole aika poikkeuksellista? Joo, mutta eihän
 Puhuja 2: Se on fiiliksiä. Se on saman normin
-Puhuja 0: Suomen tulisi edetä eritahtisesti Ruotsin kanssa,
-Puhuja 0: niin
+Puhuja 0: Suomen tulisi edetä eritahtisesti Ruotsin
+Puhuja 0: kanssa, niin
 Puhuja 0: sitten, kun me halutaan tästä
 Puhuja 0: poliittisen prosessin käyttöön tutkimusmateriaalia
 Puhuja 0: ja se tulee ulkopoliittisesta instituutista
-Puhuja 0: ja
-Puhuja 1: kommentteja ja projuja ja muita. Kyllähän tämä nyt värittää sitä. Toivoin, kun se ei millään tavalla. Se on siis... Mika Aaltola on se laitoksen johtaja.
-Puhuja 1: Hänen roolinsa Upin tutkimuksessaan tällä hetkellä käsittääkseni aika vähäinen. Hän kerää rahoitusta
+Puhuja 1: ja kommentteja ja projuja ja muita. Kyllähän tämä nyt värittää sitä. Toivoin, kun se ei millään tavalla. Se on siis... Mika Aaltola on se laitoksen johtaja.
+Puhuja 1: Hänen roolinsa Upin tutkimuksessaan on tällä hetkellä käsittääkseni aika
+Puhuja 1: vähäinen. Hän kerää rahoitusta
 Puhuja 1: tutkimuksiin ja toimii kommentaattorina.
 Puhuja 1: Kyllähän ne tutkijat ovat täysin riippumattomia. Siellä on sitten UPIn
 Puhuja 1: taitavia
-Puhuja 1: hyviä tutkijoita, jotka tutkivat vaikka Suomen Nato-jäsenyysprosessia.
-Puhuja 1: Eikä se
+Puhuja 1: hyviä tutkijoita, jotka tutkivat vaikka Suomen
+Puhuja 1: Nato-jäsenyysprosessia. Eikä se
 Puhuja 1: Aaltolan puheet,
 Puhuja 1: touhut ja
 Puhuja 1: ankaralaisbaarissa
-Puhuja 0: hengaillut vaikuta siihen millään tavalla. Kyllä ne tutkijat tekevät... Mutta sivotat, miten näitä keskusteluja käydään. Jos meillä on
-Puhuja 0: joku poliitikko, jolla on
+Puhuja 0: hengaillut vaikuta siihen millään tavalla. Kyllä ne tutkijat tekevät... Mutta sivotat, miten näitä keskusteluja käydään. Jos meillä on joku poliitikko, jolla on
 Puhuja 0: intressi...
 Puhuja 0: Tuomea on esimerkiksi ihan satavarmana... En tiedä, mitä hän on sanonut asiasta, mistä olen ihan satavarmoja, että hän haluaa, että Suomi menee nimenomaan Ruotsin kanssa ja Suomi antaa Ruotsia. Nimenomaan
 Puhuja 0: tässähän antaa
@@ -260,16 +259,16 @@ Puhuja 0: taho ei johtajansa sinulla ole tässä asiassa neutraali, joten meidä
 Puhuja 0: ottaa huomioon näitä raportteja, mitä Ulkopoliittinen
 Puhuja 0: instituutti tuottaa, vaikka ne raportit
 Puhuja 0: itsessään olisi hyviä ja täysin neutraaleja.
-Puhuja 2: Mutta sitten esimerkissä... Tässä on sellainen olo. Kysymys on myös se, että mitä se turkkilainen
-Puhuja 2: osapuoli tai ketkä siellä ankaran baarissa on ollut? Mulla alkaa nyt piirtyä sinne ihan erilainen kanssa siitä, jos jotakin tästä reissusta. Mitä ne on ajatellut, että mikä Aaltolan rooli on? Mitä heille on kerrottu, että missä asioissa tässä ollaan
+Puhuja 2: Mutta sitten esimerkissä... Tässä on sellainen kysymys. Mutta sitten seuraavaksi. Kysymys on myös se, että mitä se turkkilainen
+Puhuja 2: osapuoli tai ketkä siellä ankaran baarissa on ollut? Minulla alkaa nyt piirtyä sinne ihan erilainen kanssa siitä, jos jotakin tästä reissusta. Mitä ne on ajatellut, että mikä Aaltolan rooli on? Mitä heille on kerrottu, että missä asioissa tässä ollaan
 Puhuja 2: liikenteessä? Onko siellä koettu, että on joku
 Puhuja 2: lähettämä tunnustelija
 Puhuja 2: vai tutkija, joka vaan...
 Puhuja 1: Sehän on paras tapa. Sehän on, kun toimittaja tulee johonkin vieraaseen maahan ja vieraaseen kaupunkiin ja sitten se, että lentokentältä hotellinksissa
 Puhuja 1: juttelee sen kuskin kanssa Ja
-Puhuja 2: sitten oppii aika paljon ensimmäinen juttu. Se oli myös kiinnostavaa Mika Aaltolan kommenteissa, kun hän puhuu tästä reisustaan
-Puhuja 2: Ylellä,
-Puhuja 2: niin jotenkin
+Puhuja 2: sitten oppii aika paljon ensimmäinen juttu. Se oli
+Puhuja 2: myös kiinnostavaa Mika Aaltolan kommenteissa, kun hän puhuu tästä reissustaan
+Puhuja 2: Ylellä, niin jotenkin
 Puhuja 2: se, että hän kokee että nyt eletään sellaisia tosi
 Puhuja 2: ratkaisevia hetkiä
 Puhuja 2: tämän Suomi kysymyksen
@@ -283,8 +282,7 @@ Puhuja 1: Vai onko hänen tehtävänsä mennä turkkiin ja kerätä tietoa ja si
 Puhuja 1: tietoa poliittisille päättäjille. Musta tuntuu, että
 Puhuja 1: hän
 Puhuja 1: sivuuttaa kokonaan tämän Upin roolin
-Puhuja 1: ulkopuolisen tiedon tuottajana päättäjille. Hän keskittyy vain ja ainoastaan valistamaan Suomen kansaa ja rakentamaan
-Puhuja 1: omaa brändiään. Kyllä.
+Puhuja 1: ulkopuolisen tiedon tuottajana päättäjille. Hän keskittyy vain ja ainoastaan valistamaan Suomen kansaa ja rakentamaan omaa brändiään. Kyllä.
 Puhuja 1: Onko meillä tässä
 Puhuja 0: jonkinnäköinen näkövirhe siinä,
 Puhuja 0: että meidän mielestä kaikki tämä on ihan ok, jos se tapahtuu Hesarin haastattelussa tai A-studiossa. Jos hän Hesarin haastattelussa kertoo, että kävin turkissa ja siellä taksikuskin kanssa tälleen ja näin, ja sitten, että siellä on... Sitten se meidän mielestä kuuluu hänen
@@ -296,14 +294,14 @@ Puhuja 0: välissä oloa, hän tekee sen itse Twitterissä, niin sitten me ollaa
 Puhuja 2: twiittiketjun. Mutta minulla tulee mieleen tästä se, muistatteko kun joku
 Puhuja 2: Nato-vaihe tässä oli kun kokoomus lähti
 Puhuja 2: sinne Washington niin kun he. Petteri Orpo lähti Washingtonia. Petteri Orpo ja joku sekalainen seurakunta menivät sinne. Siitähän vähän keskusteltiin
-Puhuja 1: sama, että millaista mandaatilla ja mitäs neuvotteluja siellä nyt käydään. Mehän meni republikaanien vieraaksi. Mun mielestä se oli hyvä tolla. Eikä oikein niitäkään saanut sovittua, että ne siellä notku siellä vuosittavissä baarissa eli vaarevikan kanssa.
+Puhuja 1: sama, että millaista mandaatilla ja mitäs neuvotteluja siellä nyt käydään. Mehän meni republikaanien vieraaksi. Mun mielestä se oli hyvä tolla. Eikä oikein niitäkään saanut sovittua, että ne siellä notku siellä vuosittavissä baarissa eli vaare vikan kanssa.
 Puhuja 2: Mun mielestä toi on ihan eri asia. Ei, mutta mä vaan tarkoitan, että siitä käytiin vähän samantyyppistä keskustelua, eikö käyty? Mun mielestä on tärkeää käydä keskustelua viranomaisten
 Puhuja 0: ja virallisten tahojen tsitterikäytö.
 Puhuja 0: Se on tosi olennaista. On. Mä en tiedä, mitä mieltä olen siitä, että poliisit siellä heiluu
 Puhuja 0: ihan mitä sattuu kommentoimassa. Ulkopoliittisen instituutin tyypit heiluu ihan mitä sattuu kommentoimassa.
 Puhuja 0: Perustuslakivaliokunnan
 Puhuja 0: työt heiluu siellä kommentoimassa asioita, joita he kommentoi. Perustuslakivaliokunnan
-Puhuja 0: asiantuntija... Mä en tiedä. Mun mielestä tämä ei ole kaikki ihan huomioitu... Eikö journalistit
+Puhuja 0: asiantuntija... Mä en tiedä. Mun mielestä tämä ei ole kaikki ihan huomioitu. Eikö journalistit
 Puhuja 2: ajateltaisiin, että me luontevasti olisimme sitä mieltä, että avoimuus,
 Puhuja 2: läpinäkyvyys,
 Puhuja 2: ihmiset saavat mahdollisimman paljon tietoa, enemmän tietoa kuin
@@ -311,14 +309,15 @@ Puhuja 2: vähemmän tietoa. Se on lähtökohtaisesti myös
 Puhuja 1: Yle
 Puhuja 1: Karinissä, joka on samaa mieltä siitä, että
 Puhuja 1: loppujen lopuksi, onko siellä niin kauheasti väliä? Olen
-Puhuja 1: täysin samaa mieltä, että Suomettomisen kaikuja. Mika Aaltola ei saisi notkua
-Puhuja 0: siellä. Olen täysin samaa mieltä, mutta mielestäni tässä ongelma on, että meillä on epäselvä tilanne, meillä on epäselvät
-Puhuja 0: reunukset ja ajattelu
-Puhuja 0: siinä. Se pitäisi jotenkin ajatella läpi, miten
+Puhuja 0: täysin samaa mieltä, että somettomisen kaikuja, että Mika Aaltola ei saisi notkua siellä. Olen täysin samaa mieltä, mutta mielestäni tässä ongelma on, että meillä on epäselvä tilanne, meillä on epäselvät
+Puhuja 0: reunukset ja ajattelu.
+Puhuja 0: Siinä. Se pitäisi jotenkin ajatella läpi,
+Puhuja 0: miten
 Puhuja 0: nämä kaikkien suomalaisten yhteiset instituutiot,
 Puhuja 0: joiden on tarkoitus olla semmoisia, että ne palvelevat kaikkia, niin miten ne toimivat tässä, kun länkytellään menemään Twitterissä. Se olisi tosi hyvä keskustelu käydä.
 Puhuja 0: Okei.
-Puhuja 0: Sitten, kun
+Puhuja 0: Sitten,
+Puhuja 0: kun
 Puhuja 0: narutatte
 Puhuja 0: korkin auki ja istutte Twitterin... Turkkilaisen
 Puhuja 2: ankaralaiseen
@@ -327,32 +326,35 @@ Puhuja 0: Ja rupeatte siellä, mitäköhän...
 Puhuja 0: Vitsi, upea juoma
 Puhuja 0: näin Runebergin päivän tienoilla, semmonen kuin arkki.
 Puhuja 0: Mitäs se on? Se on punssia. Se on se, millä maustetaan Runebergin toiminta. Toi
-Puhuja 0: tietysti vielä.
+Puhuja 1: tietysti vielä.
 Puhuja 0: Otatte pienen arkkihömpsyn
 Puhuja 0: ja rupeatte kertomaan
 Puhuja 0: tässä tapauksessa Twitteristä
 Puhuja 0: teitä innolla seuraavalle Mika Aaltolalla juttuja.
 Puhuja 0: Mistäs kertee hänelle?
-Puhuja 2: Rupesin jotenkin päivittelemään
+Puhuja 2: Rupesin
+Puhuja 2: jotenkin päivittelemään
 Puhuja 2: hänelle tai hämmästelemään
 Puhuja 2: tämmöistä,
 Puhuja 2: tiedätte, amerikkalaisjournalisti Semer Hörsin.
 Puhuja 2: Hänhän on
 Puhuja 2: siis 85-vuotias.
 Puhuja 2: Hän on muistaakseni useamman pulitserin voittanut.
-Puhuja 2: Hän on aikanaan ollut tekee Weatate-uutisointia.
-Puhuja 2: Sitten hän
+Puhuja 2: Hän on aikanaan ollut tekee Weatate-uutisointia,
+Puhuja 2: ja sitten hän
 Puhuja 2: muistaakseni sai pulitserin siitä mailain
 Puhuja 2: joukkomurhan,
 Puhuja 2: siviilien
-Puhuja 2: valtavan iso teloitusoperaatio
+Puhuja 2: valtavan iso
+Puhuja 2: teloitusoperaatio
 Puhuja 2: sen paljastamisen. Hän on tehnyt paljon journalismia, joita ehkä häntä voi kutsua alan legendaksi.
 Puhuja 2: Nyt hän on viime vuosina
 Puhuja 2: löytänyt
 Puhuja 2: vanhoilla päivillä itsestään vähän
 Puhuja 2: kiistanalaisen
-Puhuja 2: journalisti ja hän on
-Puhuja 2: herättänyt paljon kritiikkiä
+Puhuja 2: journalisti
+Puhuja 2: ja hän on
+Puhuja 2: sitten herättänyt paljon kritiikkiä
 Puhuja 2: erinäisillä
 Puhuja 2: jutuillaan muun muassa
 Puhuja 2: Syyrian nämä kemialliset iskut kiistänyt tai kyseenalaistaneet
@@ -369,13 +371,13 @@ Puhuja 2: operaation,
 Puhuja 2: jossa
 Puhuja 2: kaasuputket räjäytettiin.
 Puhuja 0: Siis se, kun se pistettiin paskat? Joo.
-Puhuja 2: Ja tässä kerrotaan, miten väitetysti Bidenin
-Puhuja 2: johdolla tätä operaatiota olisi pitkään suunniteltu ja sitten se toteutettiin.
+Puhuja 2: Ja tässä kerrotaan, miten väitetysti
+Puhuja 2: Bidenin johdolla tätä operaatiota olisi pitkään suunniteltu ja sitten se toteutettiin.
 Puhuja 2: Tämä on
 Puhuja 2: herättänyt
 Puhuja 2: paljon
 Puhuja 2: keskustelua. Ehkä tätä ei nyt sillä tavalla valtamediassa ole julkaistu
-Puhuja 2: kovin laajasti ainakaan vielä tätä asiaa käsitelty. Ja sitten tietenkin on kiinnostavaa, että jos sulla on
+Puhuja 2: kovin laajasti ainakaan vielä tätä asiaa käsitelty. Ja sitten tietenkin on kiinnostavaa se, että jos sulla on
 Puhuja 2: tuollainen... Oliko meillä jotain näyttöä siinä? Niin, no minä tulen siihen vuosisadan scoopi, jonka pitäisi olla New York Timesin
 Puhuja 2: kansijuttu
 Puhuja 2: tai jonkun muun ison median kansijuttu, niin se on julkaistu tällaisella
@@ -386,12 +388,12 @@ Puhuja 2: ja hän on oikeassa ja sitten jotkut ajattelevat, että hän on tämm�
 Puhuja 2: legenda journalisti.
 Puhuja 2: Tämä on minusta
 Puhuja 2: kiinnostava tämä
-Puhuja 2: asiaa jo. Ne ovat kiisteneet. Ne sanovat, että tämä asia on
+Puhuja 2: asiaa jo. Ne on kiistelännyt. Ne sanoo, että tämä asia on
 Puhuja 2: täyttä
 Puhuja 2: puppua.
 Puhuja 1: Joo, mutta siihen varmaan vaikuttaa, koska hän on
 Puhuja 0: vähän niin kuin Amerikan Arvi Lind tyyppinen homma. Jos Arvi Lind rupeaa heittämään todella kovaa poljata, niin olisiko se ihan mahtava.
-Puhuja 0: Marko.
+Puhuja 1: Marko.
 Puhuja 1: En tiedä onko se laatussarja vai ei, mutta se kertoo
 Puhuja 1: israjalaisesta
 Puhuja 1: erikoisjoukosta.

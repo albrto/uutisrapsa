@@ -27,7 +27,8 @@ Puhuja 0: toimittaja Marja Manner. Hei Marja. Hei Tuomas ja Marko.
 Puhuja 1: Heissana.
 Puhuja 1: Mä luulen, että käsittelet minut.
 Puhuja 1: Mä jotenkin valmistaudun sanomaan moi.
-Puhuja 0: En mä kuvaile sun ääntä, joka on karismaattinen ja jotenkin
+Puhuja 0: En mä kuvaile sun ääntä, joka on karismaattinen
+Puhuja 0: ja jotenkin
 Puhuja 0: lempeällä tavalla miehkäs. Mutta en henkeäksi sanoisi sitä. En kyllä ikinä. Me suhtaudutaan tähän niin, että kaikki kehut kelpaavat.
 Puhuja 0: Joo. Mun nimi on Toimas Passi. Sanoksiko sen? Ehkä.
 Puhuja 0: Tämän viikon podcastissa
@@ -51,11 +52,10 @@ Puhuja 0: poliitikot? Mitä tekevät EU:n kansainvälisten asioiden? Surffagirin
 Puhuja 0: Maria Manner tarjoaa meille syvällisiä näkemyksiä ja teräviä anekdootteja.
 Puhuja 0: Frontloadta
 Puhuja 0: tämä keskustelu.
-Puhuja 0: Lisäksi
-Puhuja 0: mun vastustuksesta
+Puhuja 0: Lisäksi mun vastustuksesta
 Puhuja 0: huolimatta puhuimme seitsemän miljardin euron kaupoista, kun ruokalähettifirma
 Puhuja 0: Volt
-Puhuja 0: fuusioituu amerikkalaisen Doredashin
+Puhuja 0: fuusioituu amerikkalaisen DorDashin
 Puhuja 0: kanssa.
 Puhuja 0: Onko kenelläkään tästä mitään muuta sanottavaa kuin että vau, onpas paljon rahaa? Se selviää tämän show'n
 Puhuja 0: toisessa aiheessa.
@@ -76,7 +76,8 @@ Puhuja 0: syöpä, joka leviää yhteiskunnassamme.
 Puhuja 0: Ja lopuksi vielä hyviä keskustelunaiheita
 Puhuja 0: pitkien epämukavien hiljaisuuden
 Puhuja 0: varalle.
-Puhuja 0: Okei, ihan alkuun
+Puhuja 0: Okei,
+Puhuja 0: ihan alkuun
 Puhuja 0: oikaisu.
 Puhuja 0: Sanoin viime jaksossa, jos tämä ei millään tavalla muutenkaan ole kovin ylpeä
 Puhuja 0: omalla kohdalla. Te olitte upeita ja
@@ -91,7 +92,7 @@ Puhuja 0: Yle siis julkaisi viime viikolla Gallupin. Väitin,
 Puhuja 0: että Yle julkaisi Gallup-uutisen
 Puhuja 0: aluksi niin, että otsikossa vedettiin
 Puhuja 0: reilusti ylitulkintaa
-Puhuja 0: ja väitettiin, että Boomeri
+Puhuja 0: ja väitettiin, että boomeri
 Puhuja 0: Gate on tässä laskenut
 Puhuja 0: SDP:n kannantoista ja blaa blaa blaa. Ja sitten, että Yle olisi
 Puhuja 0: saanut jostain
@@ -99,7 +100,7 @@ Puhuja 0: amerikkalaiselle
 Puhuja 0: kollegafirmalle eli DoorDashille
 Puhuja 0: huimaa seitsemän miljardin hintaan eilen illalla. Eli keskiviikkoiltana myöhän tuli,
 Puhuja 0: taisi olla Helsingin Sanomien visiotoimituksen
-Puhuja 0: oma Elina Lappalainenja kasvo upposi tämän uutisen. En ole ihan varma. Eihän se scoppi ole, minä tiedättti sen. Pakkohan se on tiedottaa. Amerikkalainen pörssi. Kyllä.
+Puhuja 0: oma Elina Lappalainenja kasvo upposi tämän uutisen. En ole ihan varma. Eihän se scoppi ole, näin tiedotti sen. Pakkohan se on tiedottaa. Amerikkalainen pörssi. Kyllä.
 Puhuja 0: Mutta ainakin Elina Lappalainen oli hyvin valppaana tämän asian kanssa ensimmäisten joukossa uutisohjelmassa. Hyvä Elina.
 Puhuja 0: Hän on Suomen tunnetuin startup-toimittaja.
 Puhuja 0: Sillä kehot sinne suuntaan.
@@ -110,8 +111,7 @@ Puhuja 0: koe tarpeeksi mitään ilotulitteita
 Puhuja 0: ostaa.
 Puhuja 2: Voin lukijoille paljastaa,
 Puhuja 2: kuulijoille
-Puhuja 2: ei
-Puhuja 2: ymmärrä, että kyseessä siis on firma, joka on tehnyt aina tappiota.
+Puhuja 2: ei oikeastaan haukku kysymyksiä. Onneksi Marko on täällä paikalla. Kysymykseni on niin paljon, että en ymmärrä miksi sitä. Mitä en varsinkaan ymmärrä, että kyseessä siis on firma, joka on tehnyt aina tappiota.
 Puhuja 2: Vai kuinka?
 Puhuja 2: Miksi se on näin arvokas?
 Puhuja 2: Selitän Marko. Ja
@@ -132,7 +132,8 @@ Puhuja 1: Kiinnostavaa siinä on se, että
 Puhuja 1: Miki kuusi, joka on yksinäisistä perustajista ja toimitusjohtaja, niin hän on entinen
 Puhuja 1: Slushin
 Puhuja 1: toimitusjohtaja ja hän veti sitä vuosia
-Puhuja 1: tapahtumaa ja hänellä on jo ennen kuin firma perustettiin,
+Puhuja 1: tapahtumaa ja hänellä on jo ennen
+Puhuja 1: kuin firma perustettiin,
 Puhuja 1: älyttömän hyvät
 Puhuja 1: verkostot ja kontaktit ja hän tiesi
 Puhuja 1: hyvin nuori mies, mutta tiesi osasi
@@ -149,23 +150,24 @@ Puhuja 1: tulivat jollain tavalla.
 Puhuja 1: Samaan
 Puhuja 1: samoihin aikoihin alkoi tällä alalla
 Puhuja 1: valtava buumi. Niitä on Euroopassa
-Puhuja 1: useampia ja Jenkeissä ja tästä tuli
+Puhuja 1: on useampia ja Jenkeissä ja tästä tuli
 Puhuja 1: kuuma alue ja ne on pystynyt saamaan satojen miljoonien pääomasijoitukset.
 Puhuja 1: Ja vielä muutama viikko sitten Miki kuusi haastattelussa puhuu, että ne todennäköisesti
 Puhuja 1: listaa pörssiin ja niistä tulee tämmöinen globaali
 Puhuja 1: pörssejä Jenkeissä ja niistä tulee tällainen globaali
 Puhuja 1: jättiyritys
-Puhuja 1: jollain aikataululla. Mutta siinä mielessä oli äärimmäisen kiinnostavaa, että miksi ne päätti myydä firman. Tai itseasiassa yhdistyminen.
-Puhuja 1: Osakevaihton oli tehty Jenkeissä
+Puhuja 1: jollain aikataululla. Mutta siinä mielessä oli äärimmäisen kiinnostavaa, että miksi ne päätti myydä firman. Tai itseasiassa yhdistyminen. Osakevaihton
+Puhuja 1: oli tehty Jenkeissä
 Puhuja 1: listattuun
 Puhuja 1: pörssiyhtiöön ja nythän
 Puhuja 1: Wolt pääsi Jenkeissä pörssiin tätä kautta.
-Puhuja 1: Kiinnostava
-Puhuja 1: kysymys on se, että miksi aina käy näin? Miksei
-Puhuja 1: suomalainen yhtiö sitten listaudu ja miksei se suomalainen yhtiö osta sitä Jenkkiyhtiötä.
+Puhuja 1: Kiinnostava kysymys on se, että miksi aina käy näin? Miksei
+Puhuja 1: suomalainen yhtiö sitten listaudu
+Puhuja 1: ja miksei se suomalainen yhtiö osta sitä Jenkkiyhtiötä.
 Puhuja 1: Miksi näin
 Puhuja 2: päin. Mikä sinun veikkauksesi
-Puhuja 2: näkemyksesi on?
+Puhuja 2: näkemyksesi
+Puhuja 2: on?
 Puhuja 1: Ensinnäkin se että
 Puhuja 1: tämä kohta kurssit romahtaa.
 Puhuja 1: Tällä hetkellä kaikki käy niin tulikuumana,
@@ -182,8 +184,8 @@ Puhuja 1: ja Wolt toimii Euroopassa ja täälläkin lähinnä Itä-Euroopassa.
 Puhuja 1: Eikä tavallaan ole päällekkäisyyksiä
 Puhuja 1: ja nyt ne yhdessä pystyy tappelemaan
 Puhuja 2: muiden kanssa. Mutta kerro Marko minulle miksi tappiollinen yritys on näin arvokas?
-Puhuja 1: No ideahan on se, että yhtiön arvoa määrittyy kun sen
-Puhuja 1: kaikki tulevaisuuden voitaisiin diskonta tai nykyhetkeen.
+Puhuja 1: No ideahan on se, että yhtiön arvoa määrittyy kun sen kaikki tulevaisuutensa
+Puhuja 1: disconta tai nykyhetkeen.
 Puhuja 1: Oletus on se, että... Mikä on diskantaus?
 Puhuja 1: Katsotaan
 Puhuja 1: minkä arvoisia se jos
@@ -198,10 +200,10 @@ Puhuja 1: rakentaa sen lähitteketjun
 Puhuja 1: halutessaan.
 Puhuja 1: Tässä vaiheessa niiden tehtävä on laajentua mahdollisimman nopeasti. Ajatus on se, että kun
 Puhuja 1: voittaja vie kaiken ja voittaja on sen, joka ketju on kaikkea laaja ja pystyy hallitsemaan jotain aluetta, niin sitten se tavallaan voitot tulee myöhemmin.
-Puhuja 2: Tässä on nyt valtionjohto myös kiitelty, että
-Puhuja 2: polttoa meille veroeuroja
+Puhuja 2: Tässä on nyt valtionjohto myös kiitelty, että polttoa meille veroeuroja
 Puhuja 2: ja kaikkea muuta. Tietysti se mikä tässä on
-Puhuja 2: hankala kysymys, kun tämä perustuu
+Puhuja 2: hankala kysymys,
+Puhuja 2: kun tämä perustuu
 Puhuja 2: siihen, että
 Puhuja 2: pienituloiset maahanmuuttajat, joilla on vaikeuksia muuten työllistyä,
 Puhuja 2: niin kuskaa sitä ruokaa.
@@ -214,21 +216,19 @@ Puhuja 2: niin ovela yritätte
 Puhuja 2: En tee sitä kauhean, meidän tila Woltilta kauhean usein, mutta joskus
 Puhuja 0: tilanne on kerran.
 Puhuja 2: Siinä on ehkä vähän sama kuin jos haastattelee Isisnaisia alholin leirillä. Ei voi olla varma kuinka vapaasti he puhuvat, koska he ajattelevat että pomo kuuntelee tai pomo lukee
-Puhuja 2: lehtijutut. Ja kuulee mitä sanotaan.
+Puhuja 2: lehtijutut.
+Puhuja 2: Ja kuulee mitä sanotaan.
 Puhuja 2: Mutta silti tulee vaikutelma.
 Puhuja 2: Tuo kysymys on se, että revitäänkö
-Puhuja 2: perustajien ja omistajien ja sijoittajien tuotot
-Puhuja 2: ja miljoonat ja miljardit näiden
-Puhuja 2: lähetteen selkänahasta.
+Puhuja 2: perustajien, omistajien ja sijoittajien tuotot
+Puhuja 2: ja miljoonat ja miljardit näiden lähetteen selkänahasta.
 Puhuja 2: Silti aika monesta yhteydessä
 Puhuja 2: lehtijutustakin tulee sellainen olo, että
 Puhuja 2: ainakin monet heistä ovat suhteellisen tyytyväisiä
-Puhuja 2: sinänsä siihen tilanteeseensa, mikä ei välttämättä kerro siitä, että työehdot tai olot olisivat niin hyvät, vaan siitä, että muut
+Puhuja 2: sinänsä siihen tilanteeseensa, mikä ei välttämättä kerro siitä, että ne työehdot tai olot olisivat niin hyvät, vaan siitä, että muut
 Puhuja 2: vaihtoehdot ovat ehkä vielä huonompia.
 Puhuja 2: He
-Puhuja 2: ovat
-Puhuja 2: olleet kaikilla
-Puhuja 2: koulutetut
+Puhuja 2: ovat olleet pitkät,
 Puhuja 2: maahanmuuttajat voivat työllistyä. Ne vaihtoehdot ovat aika vähissä.
 Puhuja 2: Ja Wolt saattaa olla siinä skenessä parempi. Että jostain syystä ihmiset hakeutuvat myös Woltille töihin.
 Puhuja 1: Joo.
@@ -238,21 +238,20 @@ Puhuja 1: Onko
 Puhuja 0: niitä mitään muuta kuin pelejä?
 Puhuja 1: Onhan
 Puhuja 1: näitä olla erilaista
-Puhuja 1: softaa. Joo, tuo tuhat
+Puhuja 0: softaa. Joo, tuo tuhat
 Puhuja 1: kahdeksansataa.
 Puhuja 1: Niin, mutta kuitenkin
 Puhuja 1: Volt on teknologian
 Puhuja 1: ja
 Puhuja 1: palvelun yhdistelmä ja
-Puhuja 1: myös
+Puhuja 1: Myös
 Puhuja 1: alustataloutta.
 Puhuja 1: Onhan se ollut todella kiehtova.
 Puhuja 1: Firma on jotenkin ollut hauska seurata. Tuossa ei ole vain kompata.
 Puhuja 0: Minusta tuntuu
-Puhuja 0: juuri hyvältä se, että
+Puhuja 0: hyvältä se, että
 Puhuja 0: Wolt ainakin osaa tehdä sen appin.
-Puhuja 0: Se on moderni
-Puhuja 0: firma, että se ei enää tunnu, että tässä olisi Suomi-ATK
+Puhuja 0: Se on moderni firma, että se ei enää tunnu, että tässä olisi Suomi-ATK
 Puhuja 0: tehnyt vähän appeja.
 Puhuja 0: Kansainvälisen
 Puhuja 0: tason palvelumuotoilua,
@@ -292,11 +291,11 @@ Puhuja 1: logistisesti ja hallinnollisesti
 Puhuja 1: valtava operaatio, mitä he ovat pystyneet tekemään.
 Puhuja 0: Hämmästyttävän menestyksen kanssa. Tässä olisi upeaa saamaan
 Puhuja 0: suomalaiselle talousjournalismille
-Puhuja 0: joku kirja aiheesta ilman hillitetään
-Puhuja 0: ask ising meininkiä, vaan semmoista
+Puhuja 0: joku kirja aiheesta ilman hillityn
+Puhuja 0: time askinging meininkiä, vaan semmoista
 Puhuja 0: nörtti-kiima-kirja.
 Puhuja 0: Se olisi tilauksessa, jossa kerrottaisiin. Kaikki ne nippelit, nappelit, mikä koodirivi meni minnekin,
-Puhuja 0: miten tehtiin, että pukarestissa pitäisi syödä lettyä, että siellä pärjää. Sen takia voi lohduttaa sinua tuolla Jos jostain
+Puhuja 0: miten tehtiin, että pukarestissa pitäisi syödä lettyä, että siellä pärjää. Sellainen, kuitenkin voi lohduttaa sinua tuolla Jos jostain
 Puhuja 1: yrityksestä Woltista on
 Puhuja 1: Helsingin Sanomissa ja monessa muussa lehdessä kirjoitettu aika paljon.
 Puhuja 1: Erittäin ehdottomasti
@@ -350,8 +349,8 @@ Puhuja 2: sarja kuin Kalifaatti,
 Puhuja 2: joka kertoo
 Puhuja 2: Syyrian Iscyn riveihin lähtevästä
 Puhuja 2: ruotsalaisista.
-Puhuja 0: Onko tämä Ericu New York Timesin kalifaatti? Kyllä, tämä on ruotsalainen
-Puhuja 2: televisiosarja.
+Puhuja 0: Onko tämä Ericu New York Timesin kalifaatti? Kyllä.
+Puhuja 2: Ruotsalainen televisiosarja.
 Puhuja 2: Se on älyttömän vetävästi tehty draama tosi hyvin. Se asetelma, että siellä on
 Puhuja 2: Icisiin lähtenyt ruotsalainen nuori nainen,
 Puhuja 2: joka on siellä rakkassa ja yrittää päästä pois sieltä. Ja päästäkseen pois alkaa auttaa Ruotsin turvallisuuspalvelua.
@@ -363,14 +362,15 @@ Puhuja 2: draamaa-asiasta,
 Puhuja 2: joka on yhä
 Puhuja 2: monella tapaa
 Puhuja 2: kesken ja auki
-Puhuja 2: ne haavat ja ja ihmiset. Jesidien kansanmurha käsittelemättä ja Ahlilla kymmenen nolla
+Puhuja 2: ne haavat ja
+Puhuja 2: ja ihmiset. Jesidien kansanmurha käsittelemättä ja Ahlilla kymmenen nolla
 Puhuja 2: ihmiset edelleen. Se tuntuu kummalliselta
 Puhuja 2: katsoa tosi vetävää draamaa. Mutta se oli hyvin tehty. Katsoin ne varmaan yhdessä yössä.
 Puhuja 2: Ne hahmot on
 Puhuja 2: kiinnostavia.
 Puhuja 2: Tietysti muslimien represaatiotaatiota
 Puhuja 2: ja niin edelleen olisi kiinnostavaa kuulla mitä
-Puhuja 2: jotkut konservatiiviset uskovista muslimit ajattelee niistä hahmoista, tai miten uskottavia ne oli.
+Puhuja 2: jotkut konservatiiviset uskovista muslimit ajattelee niistä hahmoista, tai miten uskottavia ne olivat.
 Puhuja 2: Mutta niistä joka tapauksessa
 Puhuja 2: ne
 Puhuja 2: oli
@@ -387,11 +387,11 @@ Puhuja 2: Netflixissä.
 Puhuja 2: Se
 Puhuja 2: näytettiin Ruotsin televisiossa, mutta nyt
 Puhuja 2: se on Netflixissä
-Puhuja 2: katsottavissa.
-Puhuja 0: Okei, upeata.
+Puhuja 2: katsottavissa. Okei,
+Puhuja 0: upeata.
 Puhuja 2: Mä olen niin ikävä ruotsi. Kävin Tukholmassa vähän aikaa sitten. Itse olin jännittävää. Mä eksyin heti dia. Mä muistan mun mielestä Tukholmassa...
 Puhuja 2: Siellä oli hyvän tuoksuisia miehiä. McDonaldsin
-Puhuja 2: työtä. Oikeasti? Joo. Haistetut. Ei en tiedä. En minä teitä tarkoittanut, kun on yleisesti ottanut. Mutta en minä teitä. Ei teitä. Ei teitä tee tajua millekään. Nyt tämä on liian pitkään jatkunut tähän. Sanoin, että tähän aikaan vuodesta alkaa sekoilu.
+Puhuja 2: työtä. Oikeasti? Joo. Haistetut. En tiedä. En minä teitä tarkoittanut, kun on yleisesti ottanut. Mutta en minä teitä. Ei teitä. Ei teitä tee tajua millekään. Nyt tämä on liian pitkään jatkunut tähän. Sanoin, että tähän aikaan vuodesta alkaa sekoilu.
 Puhuja 2: Voidaanko lopettaa? Eikö ollut se puhua Ruotsista?:
 Puhuja 0: Haluaisin suositella vielä. Aika
 Puhuja 0: harvoin
@@ -476,11 +476,10 @@ Puhuja 0: taloudellinen
 Puhuja 0: murhamysteeri.
 Puhuja 0: Tän Tarinan hahmoina on kunnianhimoisia bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa,
-Puhuja 0: ja se miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina
 Puhuja 0: aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämäkin verkkonsa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämäkinverkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

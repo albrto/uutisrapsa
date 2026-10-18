@@ -36,17 +36,17 @@ Puhuja 1: Kirjoitetaan pitänyt, nyt on toki vähän ehkä hiljaisempi viikko
 Puhuja 1: edellisten
 Puhuja 1: viikkojen
 Puhuja 1: isojen tapahtumien jälkeen, eli olen miettinyt lähinnä Serbiaa.
-Puhuja 1: Okei, mitä Serbiaa
+Puhuja 1: Okei, mitä Serbiaa siellä?
 Puhuja 1: Mitä ensi viikolla Serbiaa lisää? Tehdään näin.
 Puhuja 2: Tänään puhumme ensin
 Puhuja 2: ulkopoliittisen instituutin eli UPIn julkisuuden valokeilaan nousseesta harjoitteluhausta.
 Puhuja 2: Eduskunnan alainen tutkimusinstituutti UP
 Puhuja 2: palkkasi kolmen kuukauden kesäharjoittelun
-Puhuja 2: tasavallan presidentin Aleksandys Stubbin pojan, mutta palkkausprosessissa
+Puhuja 2: tasavallan presidentin Aleksand Stubbin pojan, mutta palkkausprosessissa
 Puhuja 2: yhtä sun toista prosessillista vaihetta voi pitää hämäränä tai vähintäänkin epäjohdonmukaisena.
-Puhuja 2: Ja laitoksen johtaja HiskiAukkala on päässyt vastaamaan median puheluihin oikein urakalla.
+Puhuja 2: Ja laitoksen johtaja Hiskiyokkala on päässyt vastaamaan median puheluihin oikein urakalla.
 Puhuja 2: Mistä on kyse puhutaan siitä.
-Puhuja 2: Puhuimme siitä, kuinka tasavallan presidentti Aleksandfors teki kesäkuussa avauksen, että Suomellakin tulisi olla viisi puolustushaaraa.
+Puhuja 2: Puhuimme siitä, kuinka tasavallan presidentti Aleksandystu teki kesäkuussa avauksen, että Suomellakin tulisi olla viisi puolustushaaraa.
 Puhuja 2: Eli nykyisten maa, meri ja ilmavoimien lisäksi Suomikin
 Puhuja 2: tarvitsisi kyber ja avaruusvoimat.
 Puhuja 2: Nyt on käymässä ilmiö, että kyse ei tainnutkaan olla pelkistä
@@ -65,15 +65,17 @@ Puhuja 2: Sauli Niston aikainen presidentin kansliapäällikkö entinen Tamperee
 Puhuja 2: on vakuutellut, että prosessi on mennyt ihan kuten pitääkin.
 Puhuja 2: Oliver Stuub ei sevensä puolusta ollut paikan kokeneen hakija, vaan on vasta ensimmäisen vuoden opiskelija.
 Puhuja 2: Oliver Stuubia vastassa oli muun muassa viidennen vuoden opiskelija.
-Puhuja 2: Julkisuudessa sopien perustelut Stubbin valintaa poikkeuksellisella
-Puhuja 2: motivaatiolla mutta muut Stubille hävinneet hakijat kertovat Ilta-Sanomille että heille oli tiedotettu, että paikkaan valittiin henkilö jolla oli kokemusta
+Puhuja 2: Julkisuudessa opian perustelut Stubbin valintaa poikkeuksellisella
+Puhuja 2: motivaatiolla
+Puhuja 2: mutta muut Stubille hävinneet hakijat kertovat Ilta-Sanomille että heille oli tiedotettu, että paikkaan valittiin henkilö jolla oli kokemusta
 Puhuja 2: tutkimustyöstä
 Puhuja 2: tai enemmän työkokemusta.
 Puhuja 2: Muiden hakijoiden mukaan
-Puhuja 2: perustelu Stubbin... Työkokemuksesta vaikuttaa jälkeenpäin katsottuna omituiselta...
+Puhuja 2: perustelu Stubbin... Työkokemuksesta vaikuttaa jälkeenpäin katsottuna
+Puhuja 2: omituiselta...
 Puhuja 2: Sillä Stub kertoi itse hakuprosessin yhteydessä... Työkokemuksekseen
-Puhuja 2: pelkästään vuoden mittaisen
-Puhuja 2: varusmiespalveluksen ja tehtävät opiskelijajärjestössä.
+Puhuja 2: pelkästään vuoden mittaisen varusmiespalveluksen
+Puhuja 2: ja tehtävät opiskelijajärjestössä.
 Puhuja 2: Kysymyksiä on herättänyt myös se, miksi Oliver Stubbin kohdalla sattumalta palkkausehdot
 Puhuja 2: muuttuivat juuri taksi vuodeksi. Stub opiskelee Britanniassa, eikä siksi voi saada sellainen... Tuotiin markkinoille vuonna tuhat yhdeksänsataaseitsemänkymmentäkolme.
 Puhuja 1: Ja siis McKRiin ne tuotiin seitsemänkymmentäyhdeksän. Eli siis
@@ -94,23 +96,19 @@ Puhuja 1: toi! Jossa
 Puhuja 1: käytiin läpi
 Puhuja 1: tätä vuoden kaksituhatta yhdeksäntoista
 Puhuja 1: kontekstissa.
-Puhuja 1: Ja esimerkiksi
-Puhuja 1: tässä isoina syynä
+Puhuja 1: Ja esimerkiksi tässä isoina syynä
 Puhuja 1: oli
 Puhuja 1: se, että
 Puhuja 1: kertakäyttömuovin käyttäminen näyttää pahalta
 Puhuja 1: enemmän kuin se,
-Puhuja 1: että nämä yritykset haluaisi
-Puhuja 1: vähentää lelyä.
+Puhuja 1: että nämä yritykset haluaisi vähentää lelyä.
 Puhuja 1: Ja se oli
 Puhuja 1: jännittävä kertomus siitä,
 Puhuja 1: että... Ja siis kävi myös katsomassa itse, mutta lapset on kolmekymmentäkahdeksan
-Puhuja 1: prosenttia
-Puhuja 1: todennäköisemmin menossa syömään mäkkäriin, jos ne tietää saavansa lelua.
-Puhuja 4: Lelut. Onko muka näin, että lapset, kun sanoit, ettei enää haluaisi
+Puhuja 1: prosenttia todennäköisemmin menossa syömään mäkkäriin, jos ne tietää saavansa lelua.
+Puhuja 4: Lelun. Onko muka näin, että lapset, kun sanoit, että ei enää haluaisi
 Puhuja 1: leluja, niin onkohan se vähentynyt oikeasti? Luulen, että se johtuu, koska uudella jutulla oli tästä
-Puhuja 1: kanssa juttu.
-Puhuja 1: Ja siinä puhuttiin näistä QR-koodeista muistaakseni.
+Puhuja 1: kanssa juttu. Ja siinä puhuttiin näistä QR-koodeista muistaakseni.
 Puhuja 1: Lapsille
 Puhuja 1: ollaan siirtymässä
 Puhuja 1: applikaatio-based
@@ -121,9 +119,7 @@ Puhuja 1: turvallisuussanpää.
 Puhuja 1: Se
 Puhuja 1: juttu ei ole
 Puhuja 1: lelujen poistuminen, vaan siirretään
-Puhuja 1: niille platformeille
-Puhuja 1: leikkiminen, joilla ne lapset jo on. Eli
-Puhuja 1: lapsille
+Puhuja 1: niille platformeille se leikkiminen, joilla ne lapset jo on. Eli siis tämä lapsille
 Puhuja 1: markkinointi on edelleen juttu. Ongelma on vaan se, että lelut
 Puhuja 3: eivät ole ihan niin kannattavia kuin ne oli ennen. Mutta toisaalta sitten samalla tänä keväänä oli esimerkiksi, kun tuli
 Puhuja 3: suurin taiteellinen tuotos eli Minecraft-elokuva
@@ -133,13 +129,12 @@ Puhuja 4: lasten synttäreille
 Puhuja 4: lahjaksi yhtä Mäkkärin tai Hesen lastenaterian lelua.
 Puhuja 4: Sitten menin Mäkkäriin
 Puhuja 4: isäni kanssa ja ostin minulle lastenateriaan ja sen lelun, minkä sain siitä, annoin
-Puhuja 4: kaverillei sitten lähekseni.
-Puhuja 4: En tiedä onko tämä joku lamajan
+Puhuja 4: kaverillei.
+Puhuja 4: En
+Puhuja 4: tiedä onko tämä joku lamajan
 Puhuja 4: jälkeinen
 Puhuja 4: mäkkäri-lelubuumi,
-Puhuja 4: mutta mun mielestä se oli myös itsestään aina kivaa. Myönnän, en ollut mikään
-Puhuja 4: vihreän siirtymän lapsi varmasti, niin
-Puhuja 4: se tuntui kivalta. Mutta aloin miettimään myös sitä, että
+Puhuja 4: mutta mun mielestä se oli myös
 Puhuja 4: mitä
 Puhuja 4: siihen tilalle voitaisiin laittaa. Sanoitkin, että nykyään
 Puhuja 4: on applikaation
@@ -149,17 +144,18 @@ Puhuja 4: QR-koodin kautta,
 Puhuja 4: mutta minä ehdotan.
 Puhuja 4: Teen virallisen ehdotuksen tässä. Onko tämä taas markkinointitimi?
 Puhuja 4: Joo, on.
-Puhuja 4: Otan
-Puhuja 4: tällaisen
-Puhuja 4: uutistenlukijaasemman
-Puhuja 4: oikein, että kun lasten aterioita aletaan,
+Puhuja 4: Ehdotan,
+Puhuja 4: että
+Puhuja 4: kun... Otan uutistenlukija
+Puhuja 4: asennon oikein, että
+Puhuja 4: kun lasten aterioita aletaan,
 Puhuja 4: kun myydään,
-Puhuja 4: Sen sijasta, että siellä on lelua, niin pitää olla lapsille ohjekirja,
+Puhuja 4: Sen sijasta, että siellä on lelua, pitää olla lapsille ohjekirja,
 Puhuja 4: jonka nimi on Näin selviät kapitalistisessa yhteiskunnassa.
 Puhuja 4: Siinä ohjekirjassa
 Puhuja 4: muun muassa neuvotaan, että miten maksaa veroja.
-Puhuja 4: Siinä annetaan arvio ensin ikäluokille, että milloin he pääsevät eläkkeelle. Tosi kiva!
-Puhuja 4: Ja sitten siinä on historiakatsaus,
+Puhuja 4: Siinä annetaan arvio ensin ikäluokille, että milloin he pääsevät eläkkeelle. Tosi kiva! Ja
+Puhuja 4: sitten siinä on historiakatsaus,
 Puhuja 4: jossa kerrotaan
 Puhuja 4: maailmasta, jossa elämä ei arvotettu vielä sen mukaan, trendaako asiat TikTokissa.
 Puhuja 3: Mut sithän se on
@@ -170,7 +166,7 @@ Puhuja 1: ei ollut toki -seitsemänkymmentäkolme sinne alettu tunkimaan leluja,
 Puhuja 1: Burgertscheff
 Puhuja 1: nimisessä ravintolassa, josta ette ole koskaan kuulleet.
 Puhuja 4: Oliko silloin 70-luvulla,
-Puhuja 1: kun sinä Lasse? Se oli silloin 70-luvulla,
+Puhuja 1: kun sinä Lasse? Se oli 70-luvulla,
 Puhuja 1: kun minä olin lapsi Yhdysvalloissa.
 Puhuja 1: Mäkkärin suuri kilpailija.
 Puhuja 1: Mäkkärin myöhemmin taisi hotkaista sen. Mutta
@@ -181,7 +177,7 @@ Puhuja 1: kapitalistisessa
 Puhuja 1: yhteiskunnassa
 Puhuja 1: selviytymisen sen siks, koska lapsille markkinoinnin tuli isosti framille
 Puhuja 1: vasta 1980-luvulla. Sitten kun Ronald Dregan
-Puhuja 1: Amerikoissa vapautti lapsille markkinointia tosi paljon, jos me saatiin
+Puhuja 1: Amerikoissa vapautti lapsille markkinointia tosi paljon, jos me saatiin tällaisia
 Puhuja 1: loistavia, koskettavia televisiosarjoja, kuten transforms
 Puhuja 1: ja himan.
 Puhuja 1: Lapselle markkinointi on kohtuullisen uusi ilmiö sinänsä.
@@ -192,24 +188,22 @@ Puhuja 1: meillä on labumut
 Puhuja 1: lopulta. Kiitos Ronald Reagan, kiitos labumuista, kiitos Mäkkäri lasten aterioista
 Puhuja 2: aiheesta. Mutta onko tämä nyt kilpailivaltti Mäkkärille, koska Mäkkärin tai Burgiakin ei kuitenkaan luovu näistä luvuista? Meneekö lapset nykyään Suomessa aina
 Puhuja 2: vierasperäisiin
-Puhuja 3: ravintoloihinihin?
-Puhuja 4: Totta.
+Puhuja 3: ravintoloihinihin? Totta.
 Puhuja 1: Oliks miettineet just QR-koodia?
 Puhuja 1: Jos
 Puhuja 1: luet sen sun kämmenellä.
 Puhuja 1: Mut
 Puhuja 1: kyllähän tää on musta nettopositiivinen,
-Puhuja 1: mut toki jos ei mäkkäri, jos ei Burgerkin poista niitä,
-Puhuja 1: Niin sitten
-Puhuja 1: ehkä pitäis miettiä, että pitäisikö meillä saada Heselaki,
+Puhuja 1: mut toki jos ei mäkkäri, jos ei burgerkin poista niitä, Niin sitten
+Puhuja 1: ehkä pitäis miettiä, että pitäisikö meillä saada Heslaki,
 Puhuja 1: joka pakottaa kaikki seuraamaan
 Puhuja 1: Hesen esimerkkiä
-Puhuja 1: ja poistamaan lasten. Aika epärökön maistu sulta.
-Puhuja 2: Poliittinen kysymys, miten se halutaan saada aikaan. Voisi toivoa myös, että
-Puhuja 2: lapset oppisi jossain vaiheessa, että
-Puhuja 2: orgaanistit tulisi liiketaloudellinen intressi poistaa ne
-Puhuja 1: Toisaalta jotain labrut.
-Puhuja 2: Se on hyvä pointti.
+Puhuja 1: ja poistamaan lasten. Aika epärökö maistuu sulta.
+Puhuja 2: Ehkä poliittinen
+Puhuja 2: kysymys, miten se halutaan saada aikaan. Voisi toivoa myös,
+Puhuja 2: että lapset oppisi jossain vaiheessa, että
+Puhuja 2: orgaanistit tulisi liiketaloudellinen intressi poistaa ne luvut sieltä. Niin kuin ehkä nyt vaikuttaa tuleen, että lapset tai niiden vanhemmat eivät enää halua niitä. Toisaalta jotain labrut.
+Puhuja 1: Se on hyvä pointti.
 Puhuja 1: Mä käytän nyt tosi huonoa lähdettä, koska käytän
 Puhuja 1: New Post-lehteä.
 Puhuja 1: Tämähän linkittyy
@@ -224,9 +218,9 @@ Puhuja 1: Joten
 Puhuja 1: porukka syöksyi Mäkkäriin
 Puhuja 1: ostaakseen
 Puhuja 1: happy Mielejä ja ostaakseen leluja. Ja
-Puhuja 1: siis kyse ei ole vain siitä, että ne lapset ostaisi sen happy Millin siellä
-Puhuja 1: käydessään
-Puhuja 1: Mäkkärissä. Vaan sitä varten mennään sinne. Vaan se ruokkii laajempaa kulutuskulttuuria.
+Puhuja 1: siis kyse ei ole vaan siitä, että ne lapset ostaisi
+Puhuja 1: ostaisi sen happy Millin siellä
+Puhuja 1: käydessään Mäkkärissä. Vaan sitä varten mennään sinne. Vaan se ruokkii laajempaa kulutuskulttuuria.
 Puhuja 1: Mikä on kanssa
 Puhuja 1: niin, että jos labubujen yhteydessä oltaisiin niin, että
 Puhuja 1: ostakaa Happymell saatte labubun? Kuka
@@ -249,7 +243,7 @@ Puhuja 1: mitä en ole missään nimessä tehnyt, niin paljonko siitä on mulle 
 Puhuja 1: yhdeksänkymmentä kauluspaidan.
 Puhuja 1: Paljonko se
 Puhuja 1: tavallaan käyttöesineen arvo on siinä oikeasti tärkeä versus vaan se,
-Puhuja 1: että kulutat sitä rahaa. Eikö se ole yhtä tyhmää kuluttaa mihin tahansa muuhun rahaa. Toki vaatteissa kalliimpi on usein laadukkaampaa, mutta ei välttämättä. Rue lelössäkin ollaan.
+Puhuja 1: että kulutat sitä rahaa. Eikö se ole yhtä tyhmää kuluttaa mihin tahansa muuhun rahaa. Toki vaatteissa kalliimpi on usein laadukkaampaa, mutta ei välttämättä. Rueelehdessäkin ollaan.
 Puhuja 1: Tietty pistisäästi.
 Puhuja 1: Niin, mutta millä tavalla
 Puhuja 1: lelu on laadukas. Onko sen käyttöikä pidempi? Ehkä.
@@ -269,8 +263,8 @@ Puhuja 2: siellä Stockmannin
 Puhuja 2: XS-leluissa,
 Puhuja 2: niin siinähän on
 Puhuja 2: hiljainen
-Puhuja 2: kiusaaminen hetki siinä jonossa, kun ette oikein tiedä mitä sanoa, kun kiusannut tai kaikki jonossa olevia, kun jonotat labruja siellä
-Puhuja 2: neljä tuntia. Ja jännittää hirveästi, minkä värin saa. Mitä aiotte suositella naapuri
+Puhuja 2: kiusaaminen hetki siinä jonossa, kun ette oikein tiedä mitä sanoa, kun kiusannut tai kaikki jonossa olevia, kun jonotat labruja siellä neljä
+Puhuja 2: tuntia. Ja jännittää hirveästi, minkä värin saa. Mitä aiotte suositella naapuri
 Puhuja 2: jonottajalle
 Puhuja 2: siellä? Jos vaikka Hanna.
 Puhuja 4: No,
@@ -305,8 +299,11 @@ Puhuja 4: mitä hän haluaa minusta.
 Puhuja 4: Sitten hän katsoo mielenkiinnolla, mitä katson häntä.
 Puhuja 4: Hän lähtee pois ja minä laitan sen oven kiinni. Oletko varmaan, että kohdannut vain labrupua?
 Puhuja 4: Näen unta, että mulla oli labrupua.
-Puhuja 1: Et siis ehtinyt sinne stokkaalle jonot, mutta
-Puhuja 1: Mä suosittelen auringonrasvaa
+Puhuja 1: Et siis ehtinyt sinne stokkaalle jonot, mutta siis
+Puhuja 4: tässä oli mun suositukset.
+Puhuja 2: Mä en ehtinyt.
+Puhuja 2: Mutta siis tässä oli mun suositukset. Kiitos. Hyvä vinkki. Joo, tota, no siis mullakin on kaks suositusta.
+Puhuja 1: Mä ensinnäkin suosittelen auringonrasvaa
 Puhuja 1: suorasti tähän Suomen
 Puhuja 1: sateiseen kesään siksi, koska on myös mahdollista
 Puhuja 1: polttaa rintansa
@@ -323,7 +320,7 @@ Puhuja 1: nimisessä ravintolassa
 Puhuja 2: tässä sanomatolla vieressä. Sitä voi suositella ihan itse sen. Ruoka oli erinomaista kyllä.
 Puhuja 1: Mutta suosittelen erityisesti tämän paikan miesten vessaa,
 Puhuja 1: jossa on erittäin pehmeän nojattua ali sisäpuolella edessä. Ihanaa!
-Puhuja 4: Voi ottaa läpi. Jota jäit miettimään,
+Puhuja 2: Voi ottaa läpi. Jota jäit miettimään,
 Puhuja 1: että
 Puhuja 1: miksi tämä on täällä.
 Puhuja 1: Ja siis musta...
@@ -339,7 +336,7 @@ Puhuja 3: koska
 Puhuja 3: vaikka jotkut ovatkin
 Puhuja 3: polttaneet itsensä tässä, niin Suomen kesähän ei ole ainakaan täällä Helsingissä ollut vielä mitenkään ihan täysin ideaalinen.
 Puhuja 3: Harva asia ainakin henkilökohtaisesti mulle hit yhtä paljon kuin muistot lapsuuden kesistä. Tietty kun joka päivä paistoi aurinko ja ei tarvinnut huolehtia mistään
-Puhuja 3: ja henkisiä labruja tuli joka päivä. Oli kuin joulu. Ihanaa kaunista.
+Puhuja 3: henkisiä labruja tuli joka päivä. Oli kuin joulu ihanaa ja kaunista.
 Puhuja 3: Laittakaa soimaan joku oikein teidän lapsuudesta vahvasti resonoiva
 Puhuja 3: mökkimatkalevy.
 Puhuja 3: Esimerkiksi joku Eppu normaalin
@@ -347,7 +344,7 @@ Puhuja 3: repullinen hittejä tai Leevi and the Leavingsin
 Puhuja 3: keskiviikko neljäkymmentä ensimmäistä hittejä. Tiedätkö, mitä tarkoitan? Jotain tahroja paperilla. Jotain sellaista, mitä kaikki suomalaiset on. On ihanaa.
 Puhuja 3: Sitten kun teillä soi tämä levy täällä taustalla,
 Puhuja 3: niin ruvetkaa Kärtsäämään paistinpannulla
-Puhuja 3: kerrostalo kaksiossanne makkaraa, että tulee pieni Kärtsännen
+Puhuja 3: kerrostalon kaksiossanne makkaraa, että tulee pieni Kärtsännen
 Puhuja 3: haju siihen ilmaan. Ja sitten suihkuttakaa vielä päälle ne vähän hyttyssuihketta
 Puhuja 3: ja aurinkorasvaa.
 Puhuja 3: Tulee muuten kesäinen tunne. On mahtavaa.
@@ -356,14 +353,16 @@ Puhuja 4: Sitten voi vielä ottaa jonkun kamun siihen, joka olla koko ajan
 Puhuja 4: näin.
 Puhuja 4: Ehdottomasti eli tän podcast.
 Puhuja 1: Tää on musta hienoa, kuinka
-Puhuja 1: tää on selkeesti suositus ihmisille, joilla ei ole kesälomaa siksi, koska he saattoivat olla
+Puhuja 1: tää on selkeästi suositus ihmisille, joilla ei ole kesälomaa siksi, koska he saattoivat olla
 Puhuja 1: kesätöissä Sanomanmedia Finland alla. Tai upella
 Puhuja 1: kyllä. Tai upella, Oliverstub.
 Puhuja 1: Ota neuvomaan!
-Puhuja 2: Kiitos! Mun
-Puhuja 2: spontaanisuositus on grillaaaminen ja ykkösolut, koska aion sitä heti, kun
-Puhuja 2: tämä audionäänitys
+Puhuja 2: Kiitos!
+Puhuja 2: Mun spontaanisuositus on grillaaaminen ja ykkösolut, koska aion sitä heti, kun
+Puhuja 2: tämä audioäänitys
 Puhuja 2: päättyy. Speciisti Allwing High Pmail II kaksi pilkku kahdeksan prosenttia.
+Puhuja 2: Heinsaaren lukiosta yhdeksänkymmentä prosenttia pitää IPAa hirveän paana, mutta jos kuuluu kymmenen prosenttia niin tämä on tosi hyvä
+Puhuja 2: ykkösipa.
 Puhuja 2: Varsinainen suositukseni tuli
 Puhuja 2: kyberavaruusvoima
 Puhuja 2: aiheesta.
@@ -373,6 +372,7 @@ Puhuja 2: Kirjan nimi on Att War The Rise of the Millltery internet Complex.
 Puhuja 2: Se on
 Puhuja 2: ihan mielenkiintoinen
 Puhuja 2: historia siitä, että miksi tämä kyber tuli relevantiksi Jenkeissä. Tai nimen omaan kybersodankäynti
+Puhuja 2: ja
 Puhuja 2: kymmenen vuoden takaisena aikahyppynä niin se on aika mielenkiintoinen tähän kybersodan käyntiin ja sen historian Jenkeissä, että miksi sillä on merkitystä. Shain Harris Athwar.
 Puhuja 2: Ja tuo at on tuollainen...
 Puhuja 2: Miuku Markun sanotaan

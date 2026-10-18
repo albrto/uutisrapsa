@@ -12,7 +12,10 @@ Puhuja 1: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
-Puhuja 0: Pitkän tuntuinen
+Puhuja 0: Hei ja tervetuloa Helsingin Sanomien UTRaportti-podcastiin
+Puhuja 0: torstaina kaksikymmentäyhdeksän.
+Puhuja 0: Lokakuuta. Edelleen aivan uskomattoman
+Puhuja 0: pitkän tuntuinen
 Puhuja 0: lokakuu.
 Puhuja 0: Vuonna kaksituhatta kaksikymmentä minun nimeni on Tuomas Peltomäki.
 Puhuja 0: Kanssani
@@ -36,16 +39,14 @@ Puhuja 0: tiedoksi, että
 Puhuja 0: odottelimme
 Puhuja 0: tänne vielä
 Puhuja 0: kolmatta kommentaattoria
-Puhuja 0: paikan päälle tänne studioon. Mutta tässä on kaikennäköistä
-Puhuja 0: aikatauluhässäkkää.
+Puhuja 0: paikan päälle tänne studioon. Mutta tässä on kaikennäköistä aikatauluhässäkkää.
 Puhuja 0: Eli tämän lähetyksen aikana voi tapahtua mitä vaan ihmisiä voi tulla, ihmisiä voi mennä.
 Puhuja 0: Joku tulee, joku menee, joku sanoo, joku ei. Katsotaan, mitä tapahtuu.
 Puhuja 0: Aloitetaan äärimmäisen poikkeuksellisesti
 Puhuja 0: muutamalla oikolla.
 Puhuja 0: Nimittäin eräs ystävällinen kuuntelija
-Puhuja 0: alkoi kantaa tämän podcastin jaksoja taaksepäin ja sitten vähän tsekkailee, että löytyykö sieltä mitään virheitä.
-Puhuja 0: Lähinnä minun suusta, koska
-Puhuja 0: kaikki me voidaan tunnustaa, että jos tässä podcastissa se on virheitä, ne tulee täältä.
+Puhuja 0: alkoi kantaa tämän podcastin jaksoja taaksepäin ja vähän tsekkailemaan, löytyykö sieltä mitään virheitä.
+Puhuja 0: Lähinnä minun suusta, koska kaikki me voidaan tunnustaa, että jos tässä podcastissa se on virheitä, ne tulee täältä.
 Puhuja 0: Niitä tosiaan muutama löytyi
 Puhuja 0: ja ne on syytä oikaista. Eli
 Puhuja 0: toisin kuin edellisessä jaksossa väitettiin, niin QAnon
@@ -174,19 +175,14 @@ Puhuja 2: työväenluokkaan ja varsinkin miehiin
 Puhuja 2: Se on sellainen kulttuurinen ja identiteettinen
 Puhuja 2: juttu joka musta nimenomaan liittyy heidän luokka-asemaan Ja sitten taas tää
 Puhuja 2: pikkusormi pystyssä oleva juristi
-Puhuja 2: ja muu väki niin he eivät voi sietää Trumpia koska Trump on niin mulgääri
-Puhuja 2: ja jäi käyttäydy. Jotenkin tässä tullaan
+Puhuja 2: ja muu väki niin he eivät voi sietää Trumpia koska Trump on niin mulgääri ja jäi käyttäydy. Jotenkin tässä tullaan
 Puhuja 3: semmosen niinku
 Puhuja 3: toistettu huumeet siinä on jotain perääkin.
 Puhuja 3: Jos miettii Trumpin valintaan syitä ja seurauksia, niin Trump on
 Puhuja 3: enemmänkin...
-Puhuja 3: Siellä
-Puhuja 3: on
-Puhuja 3: ihmisiä jotka oli niin tyytymättömiä. Trump on seurausta siitä tyytymättömyydestä, että ei Trump tätä kaaosta
+Puhuja 3: Siellä on ihmisiä jotka oli niin tyytymättömiä. Trump on seurausta siitä tyytymättömyydestä, että ei Trump tätä kaaosta
 Puhuja 3: luonut. Ja sitten
-Puhuja 3: tähän liittyen epäilen
-Puhuja 3: epäilen
-Puhuja 3: tajusi vahvasti että aika moni tyytymätön ihminen äänesti Trumpia vähän niinku läpällä.
+Puhuja 3: tähän liittyen epäilen epäilen tajusi vahvasti että aika moni tyytymätön ihminen äänesti Trumpia vähän niinku läpällä.
 Puhuja 3: Sitä oli jotenkin hauskaa äänestää ja näyttää keskisormea Washingtonin eliitille. Mutta jotenkin vitsi ja neljäs vuodessa ehtii vanhentua. Mä en tiedä kuinka paljon ihmisiä enää naurattaa. Mut Laura on ollut viisaampaa sanottavaa. Niin mä olin vaan
 Puhuja 4: täydentämässä sanomalla, että samalla tavalla, että vaikka Trump häviäisikin,
 Puhuja 4: niin ne ongelmat joiden takia
@@ -198,7 +194,7 @@ Puhuja 2: näihin.
 Puhuja 2: Mä sanon tohon vielä, että mä luulen, että se vitsi ei ole vanhentunut. Koska Trump on niin voimakkaasti
 Puhuja 2: jakanut kansaa niin sitten ihmiset on päinvastoin
 Puhuja 2: luemmin kiinnittyneitä häneen.
-Puhuja 0: Liput liehuen niin kuin ollaan. Mä luulen Trump, että Trump on kuitenkin puolena.
+Puhuja 1: Liput liehuen niin kuin ollaan. Mä luulen Trump, että Trump on kuitenkin puolena.
 Puhuja 0: Vaikka hän on
 Puhuja 0: klovni,
 Puhuja 0: pelle ja
@@ -226,13 +222,12 @@ Puhuja 0: Kyllähän oli semmoisia
 Puhuja 0: karskeja puhuvia
 Puhuja 0: rempseitä
 Puhuja 0: maanjohtajaa.
-Puhuja 0: Yleensä ne oli jotain kenraaleja,
-Puhuja 0: joilla oli oma armeija, jolla oli otettu joku bolivia haltuun. Ja sitten ne oli semmoisessa ihan jossain
+Puhuja 0: Yleensä ne oli jotain kenraaleja, joilla oli oma armeija, jolla oli otettu joku bolivia haltuun. Ja sitten ne oli semmoisessa ihan jossain
 Puhuja 0: aivan perähikiän,
 Puhuja 0: missä sattuu. Se selittävä tekijä oli, että se on siellä jossain, siellä asiat niin reippaalla, että totta kai tuollaista käy.
 Puhuja 0: Mutta sitten kun...
 Puhuja 0: Amerikka on niin maailman keskipiste.
-Puhuja 0: Siellä on eniten rahaa, eniten vaikutusvaltaa, eniten kaikkea. Se on niin kuin tavotelluin,
+Puhuja 0: Siellä on eniten rahaa, eniten vaikutusvaltaa, eniten kaikkea. Se on tavoitelluin,
 Puhuja 0: vaikka kaikki markkinalogiikkat,
 Puhuja 0: tiedätkö kaikki sanoo, että Yhdysvaltain presidentti on jollain tavalla jonkun asian huipentuma. Trump
 Puhuja 0: vei kaiken sen, mitä vaikka Obaman hienoilla puheillaan ja älyllään ja käytöksellään toi, niin Trump lytisti sen. Ei pelkästään Amerikasta, vaan jotenkin, koska tässä yhdisty brexit ja tässä yhdisty niin monta asiaa, niin jotenkin se mielikuva maailmasta on tosi paljon
@@ -245,7 +240,7 @@ Puhuja 0: ja kaikkea
 Puhuja 0: järkeä maapallolla ja näin vaan... Kaikki me ollaan samanlaisia
 Puhuja 0: paskasissa housuissa käveleviä pelejä.
 Puhuja 0: Siis tämmöinen fiilis jää Trubista käteen. Mun mielestä Trumpissa on paljon hyvää, mutta siinä on paljon semmoista huonoa. Se vie semmoista hienoutta pois elämästä.
-Puhuja 0: Lauta.
+Puhuja 4: Lauta. No jos mä sanon
 Puhuja 2: Toi kertoo myös siitä, miten paljon Yhdysvaltoihin
 Puhuja 2: ripustetaan kaikkia toiveita ja Maria Katatoja
 Puhuja 2: Nythän se on kiinnostavaa sitten,
@@ -257,8 +252,7 @@ Puhuja 2: jos ajattelee, että tämä uusi aika alku Brexitystä
 Puhuja 2: niin katse kiinnittyy jälleen kerran Yhdysvaltoihin
 Puhuja 2: ja mitä jos
 Puhuja 2: Laura Osataankin.
-Puhuja 4: Niin siis totta kai tää oli silleen että kun Amerikassa toisen maailmansodan jälkeen loi sen järjestelmässä on kansainväliset säännöt ja nyt
-Puhuja 4: Trumpin retoriikassa mennään siihen perinteiseen voimapolitiikkaan että siellä oli isoin nappi ja isoin jäsennappi on muka se isoin jätkä. Tavallaan hän muutti sen säännön jonka mukaan
+Puhuja 4: Niin siis totta kai tää oli silleen että kun Amerikassa toisen maailmansodan jälkeen loi sen järjestelmässä on kansainväliset säännöt ja nyt sit Trumpin retoriikassa mennään siihen perinteiseen voimapolitiikkaan että siellä oli isoin nappi ja isoin jäsennappi on muka se isoin jätkä. Tavallaan hän muutti sen säännön jonka mukaan
 Puhuja 4: ei ei pelata yhteisillä säännöillä vaan voima ratkaisee mutta mä muistutan tähän aina. USA:n iso maa se on kahtiajakautunut
 Puhuja 4: maa siellä se... Punnus heiluu
 Puhuja 4: kahden erilaisen arvomaailman välillä. Sitten ellei ensi viikon tiistaina, niin ehkä neljän vuoden kuluttua se punnus taas heilahtaa toiseen suuntaan. Jos te mietitte niitä punnusten heilahteluja
@@ -273,7 +267,8 @@ Puhuja 0: Kiitos Laura, joka tosta jo hujahti menemään.
 Puhuja 0: Ja sohvi myös, kiitos oikein paljon sinne Yhdysvaltoihin.
 Puhuja 2: Kiitos. Eikö niin, että me puhutaan vielä kahden kesken ainakin kerran järkeä? Joo, me puhutaan sun kanssa vielä ennen
 Puhuja 0: varsinaista vaalipäivää,
-Puhuja 0: joka on siis tiistai Yhdysvaltojen aikaa. Eli me Maanantaina tulee vielä Suomen aikaa podcast, jossa käydään ihan viimeiset kääntäjät
+Puhuja 0: joka on siis tiistai
+Puhuja 0: Yhdysvaltojen aikaa. Eli me Maanantaina tulee vielä Suomen aikaa podcast, jossa käydään ihan viimeiset kääntäjät
 Puhuja 0: näistä
 Puhuja 0: vaaleista. Minä muka vihjasin tuossa, että me puhutaan vielä siitä vastaamosta, mutta tästä vaaleista oli niin paljon asiaa, että että palataan vastaamaan tapaisiin myöhemmin.
 Puhuja 0: Mutta pikaisesti Sohvi, ennen kuin häivyt.
@@ -291,7 +286,7 @@ Puhuja 2: Sehän tässä kauhistuttaakin,
 Puhuja 2: että
 Puhuja 2: mitä tilalle Ja kyllä mä luulen, että vaalien jälkeenkin näistä riittää vielä puuttuva Mutta siis ihan suoraan sanottuna
 Puhuja 2: en oo lukenut mitään, en olekaan Ei kun oon! Oon katsonut Shipskriig-sarjaa.
-Puhuja 2: Sillä mä oon rentoutunu
+Puhuja 2: Sillä mä oon rentoutunut
 Puhuja 2: Minkälainen se on? Se on semmoinen sitcom...
 Puhuja 2: Mun mielestä kanadalainen ehkä sitcom,
 Puhuja 2: missä
@@ -327,8 +322,7 @@ Puhuja 0: erinäisiä
 Puhuja 0: matematiikan
 Puhuja 0: aloja
 Puhuja 0: ja vaikka mitä.
-Puhuja 0: Ihan esimerkkinä
-Puhuja 0: yksi aivan
+Puhuja 0: Ihan esimerkkinä yksi aivan
 Puhuja 0: kammottavalla
 Puhuja 0: tai hirvittävä pelottava asia, mikä sieltä tuli,
 Puhuja 0: Yksi kuuntelijoista
@@ -339,7 +333,8 @@ Puhuja 0: Tää on niin hämärää fararakkaa.
 Puhuja 0: Pyrin
 Puhuja 0: tiivistämään. Tää on tämmönen
 Puhuja 0: ajatus,
-Puhuja 0: tämmöinen Thought experiment eli ajatusharjoitus,
+Puhuja 0: tämmöinen Thought experiment
+Puhuja 0: eli ajatusharjoitus,
 Puhuja 0: joka esitettiin
 Puhuja 0: filosofian foorumilla
 Puhuja 0: ja filosofian foorumi
@@ -369,8 +364,8 @@ Puhuja 0: Tämä ajatusrakennelma
 Puhuja 0: todistetaan siellä foorumilla, että näin tulee käymään. Se on vääjäämätöntä, että näin käy.
 Puhuja 0: Siitä alkoi
 Puhuja 0: tarina, missä aluksi
-Puhuja 0: osa jengistä oli, että hää höpöhöpö, että aivan kuulostaa tyhmältä. Sitten kun ne filosofit keskenään siellä, että jotenkin C on yhtä kuin
-Puhuja 0: Tenu Se kaksi ja näin niin kuin kävi sitä läpi, niin osa jengistä rupes sekoilemaan, että ei hitto, että se muuten on näin, että kohta tulee keinoäly jumala ja langettaa hänet ajassa
+Puhuja 0: osa jengistä oli, että hää höpöhöpö, että aivan kuulostaa tyhmältä. Sitten kun ne filosofit keskenään siellä, että jotenkin C on yhtä
+Puhuja 0: kuin Tenu Se kaksi ja näin niin kuin kävi sitä läpi, niin osa jengistä rupes sekoilemaan, että ei hitto, että se muuten on näin, että kohta tulee keinoäly jumala ja langettaa hänet ajassa
 Puhuja 0: taaksepäin helvettiin, jossa hän kärsii ikuisuuden ja näin. Se oli niin hämmentävä tarina, mikä lähti rukous-basiliskistä.
 Puhuja 0: Kiitos, että näin kummaa kamaa tuli mulle päin. Samassa yhteydessä löysin uuden mahtavan podcastin, jossa tätä rukous-basiliskiä
 Puhuja 0: käsiteltiin, jossa tuli hyvä perehdytys
@@ -389,9 +384,9 @@ Puhuja 3: kertoi tästä
 Puhuja 3: venäläisestä vakoijasta
 Puhuja 3: joka loikkasi Suomen kautta länteen
 Puhuja 3: ja ihan huikean
-Puhuja 3: hieno kirja. Luin sen jo
+Puhuja 3: hieno kirja. Luin sen
 Puhuja 3: muistaakseni kesällä mutta luin nyt tämän
-Puhuja 3: Ben McGin Thiryn edellisen kirjan joka kertoo
+Puhuja 3: Ben McGen Tiyerin edellisen kirjan joka kertoo
 Puhuja 3: tästä Spire Mong Friends. Kertoo
 Puhuja 3: brittivakoa
 Puhuja 3: Kim Filvystä joka oli siis
@@ -468,7 +463,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

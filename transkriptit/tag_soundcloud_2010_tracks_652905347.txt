@@ -80,9 +80,9 @@ Puhuja 3: katsovat, että itse asiassa rahaa menee jo nyt liikaa ja pitäisi teh
 Puhuja 3: jonka myötä käytetään vähemmän
 Puhuja 3: rahaa. Tässä on siis pieni ristiriita. Tarvittaisiin lisää rahaa, mutta sitten sitä ei ole, vaan oikeastaan nyt jo menee liikaa rahaa.
 Puhuja 2: Kuulostaa hankalalta
-Puhuja 2: tilanteelta eli syntyykö tässä niin sanottu käärmettä pyssyyn tilanne? No,
+Puhuja 2: tilanteelta, eli syntyykö tässä niin sanottu käärmettä pyssyyn tilanne? No,
 Puhuja 2: miten kommentoi Milka Valtanen? Mä en kommentoi.
-Puhuja 1: Onko tämä jonkinlainen impotenssi-metafore?
+Puhuja 1: Onko tämä jonkinlainen impotenssi-metafora?
 Puhuja 2: Ei, se itse asiassa
 Puhuja 2: liittyy vanhaan metsästysaikaisen
 Puhuja 2: metaforaan,
@@ -92,12 +92,13 @@ Puhuja 2: Saanko siteerata Antti Rinteen
 Puhuja 2: hallitusohjelmaa?
 Puhuja 2: Luojan kiitos, ole hyvä. Tässä ohjelmassa siteeretaan aivan liian vähän Antti Rinteen hallitusohjelmaan.
 Puhuja 1: Rinteen
-Puhuja 1: sote- unelma menee näin: Laadukkaat julkiset sosiaali
-Puhuja 1: ja terveyspalvelut tuottavat hyvinvointia,
+Puhuja 1: sote- unelma menee näin: Laadukkaat julkiset sosiaali ja
+Puhuja 1: terveyspalvelut tuottavat hyvinvointia,
 Puhuja 1: luottamusta siihen, että jokaisesta pidetään huolta, kun omat voimat eivät riitä. Miten kauniisti sanottu? Kuulostaa Jumalan
-Puhuja 2: kämmeneltä klassikkokappaleelta.
+Puhuja 2: kämmeneltä
+Puhuja 2: klassikkokappaleelta.
 Puhuja 1: Kyllä.
-Puhuja 1: Tosiaan sosiaali ja terveyspalvelujen sekä julkishallinnon
+Puhuja 1: Tosiaan, sosiaali ja terveyspalvelujen sekä julkishallinnon
 Puhuja 1: tuottavuuskasvua
 Puhuja 1: vahvistetaan
 Puhuja 1: organisatorisin
@@ -110,8 +111,7 @@ Puhuja 2: Me harkitmme jopa, että me puhuttaisiin jonojen vessoista ja VR:n
 Puhuja 2: siivousfirman
 Puhuja 2: vaihtamisesta ja sen jälkeen Milka Valtainen kieltäytyi ehdottomasti
 Puhuja 2: keskustelemassa hanhista ja siitä, että pitäisikö ne kaikki ampua vai ei.
-Puhuja 2: Ja sitten me ei
-Puhuja 2: yksinkertaisesti keksitty mitään muuta aihetta, niin tässä se nyt tulee suuri James Bond-kulttuurisota
+Puhuja 2: Ja sitten me ei yksinkertaisesti keksitty mitään muuta aihetta, niin tässä se nyt tulee suuri James Bond-kulttuurisota
 Puhuja 2: antaa mennä.
 Puhuja 2: Millaisia fiiliksiä herätti?
 Puhuja 1: Minä näin tämän otsikon, sitten näin tulevaisuuteen
@@ -130,8 +130,7 @@ Puhuja 3: Mä haksatin klikkaamaankin.
 Puhuja 2: Sekin vielä.
 Puhuja 3: Sitten kun klikkasin jutun auki ja selvisi
 Puhuja 3: tietysti, en muista, mikä media tämä oli, mutta luulen, että kaikilla oli aika lailla sama. Otsikossa on, että seuraava jymypaljastus,
-Puhuja 3: seuraava nollaseitsemän
-Puhuja 3: onkin
+Puhuja 3: seuraava nolla seitsemän onkin
 Puhuja 3: nainen.
 Puhuja 3: Sitten kun luki sen jutun,
 Puhuja 3: seuraava ajatus oli, että... Otsikko. Klikkiotsikko.
@@ -143,8 +142,8 @@ Puhuja 3: joku pokaali, niin kuin Twitterissä aina nykyisin sanotaan, kun joku 
 Puhuja 3: Onhan
 Puhuja 3: se nerokas keksintö.
 Puhuja 3: Siellä on joku ymmärtänyt medialogiikan.
-Puhuja 3: Voisitko kertoa sen vielä? Jos on maissa klikkiotsikko,
-Puhuja 3: tehdään klikkiotsikko.
+Puhuja 3: Voisitko kertoa sen vielä? Jos on maissa klikkiotsikko:hon,
+Puhuja 3: tehdä klikkiotsikko.
 Puhuja 3: Tässähän on tarjonnut
 Puhuja 3: nimenomaan
 Puhuja 3: pikkusormi
@@ -159,11 +158,12 @@ Puhuja 2: en olisi tosiaankaan nyt esimerkiksi muistanut,
 Puhuja 2: että James Bode-elokuvia
 Puhuja 2: tulee vielä muuten kuin
 Puhuja 2: MTV3:lta
-Puhuja 2: aina uusintoinen ja sitten mulla kestää aina viisitoista minuuttia tai jotain, että tää ei ehkä ole se sama elokuva, koska näen aina sen samantyyppisen kohtauksen. Joku jäbähän muuten livetviittais just, kun tuli joku bond elokuva. Kyllä joo, Suomen rikoslain. Suomen
-Puhuja 2: Suomen rikoslain
-Puhuja 3: mukasi,
-Puhuja 3: mitä kaikkia tuomittavia tekoja. Pysäköintivirheitä
-Puhuja 3: oli esimerkiksi todella paljon. Tällekin jäbälle oli muuten pokaalia tarjolla livetviittauksen jälkeen. Olihan se hauska.
+Puhuja 2: aina uusintoinen ja sitten mulla kestää aina viisitoista minuuttia tai jotain, että tää ei ehkä ole se sama elokuva, koska näen aina sen samantyyppisen kohtauksen. Joku jäbähän muuten livet viittaas just, kun tuli joku bond elokuva. Kyllä joo, Suomen rikoslainen.
+Puhuja 2: Suomen
+Puhuja 3: Suomen rikoslain
+Puhuja 3: mukasi, mitä kaikkia
+Puhuja 3: tuomittavia tekoja. Pysäköintivirheitä
+Puhuja 3: oli esimerkiksi todella paljon. Tällekin jäbälle oli pokaalia tarjolla livetviittauksen jälkeen. Olihan se hauska.
 Puhuja 1: Kyllä pokaali on ihan ansaittu. Se oli ainoa hyvä asia Twitterissä koko tänä
 Puhuja 1: kesänä. Kyllä,
 Puhuja 2: mutta tässä on muutamia asioita, mitä tästä voisi oppia. Ensimmäinen tietysti se, että kenenkään ei pitäisi uskoa Daily mailia ikinä ja että siitä ei pitäisi kyllä
@@ -204,7 +204,7 @@ Puhuja 2: aihe viime vuosina. Sitten toinen
 Puhuja 2: oli,
 Puhuja 2: että nimitetään vaikka joku Iltalehden kommenttipositioksi,
 Puhuja 2: jossa sanotaan, että kaikki on pilalla, että
-Puhuja 2: nyt loppuu kyllä bondien katteleminen tähän ja mikä tästä nyt tulee, että ei tästä enää mitään ei saa enää sanoa eikä tehdä eikä saa James Bondkaan ei saa autolla ajella naisia kaataa viskiä ja juoda kaikki pilalla.
+Puhuja 2: nyt loppuu kyllä bondien katteleminen tähän ja mikä tästä nyt tulee, että ei tästä enää mitään ei saa enää sanoa eikä tehdä eikä saa James Bondkaan, ei saa autolla ajella naisia kaataa viskiä ja juoda kaikki pilalla.
 Puhuja 2: Väätällä raudan repomia se Timo Haapalalainen lähestyminen.
 Puhuja 1: James Bondhan on todella konservatiivinen
 Puhuja 2: instituutio. Niin, mä en ymmärrä, mitä tekemistä jollain
@@ -230,7 +230,7 @@ Puhuja 3: verran, mitä tätä keskustelua seurasin, jotkut sanoivat, että joo,
 Puhuja 3: saadaan naisten rooleja modernimmiksi myös elokuvissa, mutta se, että tapahtuuko se juuri jossain James Bondissa,
 Puhuja 3: sillä
 Puhuja 3: ei
-Puhuja 3: ole merkitystä. Se on vähän sama kuin odottaisi syvällistä dialogia ja teletapeista.
+Puhuja 2: ole merkitystä. Se on vähän sama kuin odottaisi syvällistä dialogia ja teletapeista.
 Puhuja 3: Niin,
 Puhuja 3: no joo,
 Puhuja 3: mutta tavallaan
@@ -261,7 +261,8 @@ Puhuja 1: näyttää
 Puhuja 1: aluksi aika
 Puhuja 1: erilaiselta kuin mihin on totuttu, kun siellä on ollut yleensä aika tietyntyyppinen
 Puhuja 1: kästi.
-Puhuja 1: Ja ehkä se sitten järkyttää
+Puhuja 1: Ja ehkä se sitten
+Puhuja 1: järkyttää
 Puhuja 1: joitakin meistä joukossamme jotenkin tosi paljon. Varmaan
 Puhuja 3: on ihmisiä, jotka kokee, että nyt
 Puhuja 3: yritetään käyttää tätä samaa käärmettä pyssyyn.
@@ -284,7 +285,7 @@ Puhuja 1: naisia, pääosan
 Puhuja 2: esittäjiksi. Niin, joo. Tässähän ei ole syvällistä
 Puhuja 2: tasa-arvonäkökulmaa.
 Puhuja 3: Niin.
-Puhuja 1: Bondleffat ovat vähiten nyt jotenkin tämmöisen tasa-arvoisen
+Puhuja 1: Ehkä Bondleffat ovat vähiten nyt jotenkin tämmöisen tasa-arvoisen
 Puhuja 1: näkökulman asialla ollut koskaan.
 Puhuja 3: Ehkä.
 Puhuja 3: Mutta luulen, että kuitenkin
@@ -294,28 +295,26 @@ Puhuja 3: vaikuttavat niin selvästi katsoo, että jotta me voimme pitää tät�
 Puhuja 3: vanhalla suursarjalla tulevaisuudessakin,
 Puhuja 3: ei voida olla ihan enää siellä 60-70-luvulla.
 Puhuja 2: Ihan niin paljon ei voi kourjaa enää nykypäivänä.
-Puhuja 1: Ja sanottakaa nyt, että
-Puhuja 1: uusi James Bond ei ole nainen tai kukaan ei ole ainakaan
-Puhuja 3: väittänyt oikeasti, että olisi. Vaan niin, sehän vasta olisikin sitten todella hyvä pommi, mutta siitä ei enää saisi tavallaan klikkiotsikkoa kuin sama otsikko.
+Puhuja 1: Ja sanottakaa nyt, että uusi
+Puhuja 1: James Bond ei ole nainen tai kukaan ei ole ainakaan
+Puhuja 3: väittänyt oikeasti, että olisi. Vaan niin, sehän vasta olisikin todella hyvä pommi, mutta siitä ei enää saisi tavallaan klikkiotsikkoa kuin sama otsikko.
 Puhuja 3: Mutta se olisikin totta.
 Puhuja 2: Se on tietysti aina haaste uutisoinnille.
 Puhuja 2: Mutta kuten olemme tässäkin lähetyksessä jo todenneet, niin heinäkuu on mitä erinomaisin
-Puhuja 2: aika tuutata pihalle, jos jonkinlaista sooppaa,
-Puhuja 2: josta saimme
+Puhuja 2: aika tuutata pihalle, jos jonkinlaista sooppaa, josta saimme
 Puhuja 2: innoituksen
 Puhuja 2: käydä tämän lopuksi vielä lyhyen kesäkuun uutiskatsauksen.
 Puhuja 2: Mitä haluaisitte nostaa
 Puhuja 2: vielä esille?
 Puhuja 1: Minä haluaisin nostaa Tekirin teettämän Ketä suomalaiset vihaavat kyselyn,
 Puhuja 2: jossain Essi. Millaisia ajatuksia se herätti?
-Puhuja 1: Kylläpäs
-Puhuja 1: meni
+Puhuja 1: Kylläpäs meni
 Puhuja 1: samantekevää kysely
 Puhuja 1: Ylen pääuutiseksi
 Puhuja 1: hienosti.
 Puhuja 1: Hyvä Tekir.
-Puhuja 1: Ei siinä mitään pointtia
-Puhuja 1: siinä kyselyssä ollut sillä tavalla. Mitä siinä siis kysyttiin? Siinä kysyttiin, ketkä ja mitkä kiukuttavat
+Puhuja 1: Ei siinä mitään pointtia siinä
+Puhuja 1: kyselyssä ollut sillä tavalla. Mitä siinä siis kysyttiin? Siinä kysyttiin, ketkä ja mitkä kiukuttavat
 Puhuja 1: ja vihastuttavat
 Puhuja 1: suomalaisia kaikista eniten.
 Puhuja 2: Keitä listalle
@@ -337,9 +336,8 @@ Puhuja 3: vallanlinnake-tv-sarjan
 Puhuja 3: Mätäkuu-jakso,
 Puhuja 3: jossa kuvattiin juuri sitä, miten uutistoivituksessa
 Puhuja 3: on niin hiljaista heinäkuun
-Puhuja 3: puolivälissä, että kun
-Puhuja 3: entinen poliitikko
-Puhuja 3: Mikael Laukeeseen
+Puhuja 3: puolivälissä, että kun entinen poliitikko
+Puhuja 3: Mikael Laugen
 Puhuja 3: julkaisi
 Puhuja 3: törke-kirjan
 Puhuja 3: politiikan kulisseista
@@ -361,14 +359,14 @@ Puhuja 2: ajankohtaisoposota. Niin, mites sun työviikuksesi on oikein sujunut
 Puhuja 2: politiikan ja talouden toimituksessa?
 Puhuja 2: Onneksi on Suomihan. Niin,
 Puhuja 3: ja vähän hiljaista on kyllä ollut,
-Puhuja 3: että vähän hävettää jopa. Joo.
+Puhuja 3: että
+Puhuja 3: vähän hävettää jopa. Joo.
 Puhuja 2: No, siellä odotellessa
 Puhuja 2: jatketaan mätäkuun uutiskatsausta.
 Puhuja 2: Onko
 Puhuja 2: siellä vielä muuta? VR:n
 Puhuja 2: viestintä herättää kummastusta.
-Puhuja 1: Niin,
-Puhuja 1: Veera, junissa on todella saastaista.
+Puhuja 1: Niin, Veera, junissa on todella saastaista.
 Puhuja 1: Ja Kun Veeralta on kysytty, että mitäs aiotte tehdä tälle asialle ja mistä tämä johtuu, niin aikovat kuulemma taklailla kipukohtia.
 Puhuja 3: Erotuksena sille, että esimerkiksi siivottaisi paremmin. Eikö tämä ollut just se aihe, josta meidän ei pitänyt puhua, joka meidän piti
 Puhuja 2: Taklataan itsemme tästä aiheesta
@@ -408,7 +406,7 @@ Puhuja 2: tullut aika päättää tämä
 Puhuja 2: vääjäämättä
 Puhuja 2: kohti epätoivoa
 Puhuja 2: suistuva lähetys.
-Puhuja 2: Mä takuuta vielä puolet jäljellä. Mä takuuta vielä puolet jäljellä
+Puhuja 3: Mä takuuta vielä puolet jäljellä. Mä takuuta vielä puolet jäljellä
 Puhuja 2: ja ensi viikkoa tässä jo kuumeisesti odotellaan.
 Puhuja 2: Siirrytään
 Puhuja 2: siis
@@ -432,8 +430,7 @@ Puhuja 1: Se juttu löytyy
 Puhuja 1: otsikolla Politiikon saitilta otsikolla: Whather is not going to like this.
 Puhuja 1: Mahtavaa.
 Puhuja 1: Yksi
-Puhuja 1: Trumppaljastus kesässä
-Puhuja 1: pitää kansantalouden
+Puhuja 1: Trumppaljastus kesässä pitää kansantalouden
 Puhuja 1: rattaat rasvaisina.
 Puhuja 1: Lisäksi tämä juttu oli tosi hyvä, joten suosittelen sitä. Ei.
 Puhuja 1: Mahtavaa.
@@ -471,16 +468,14 @@ Puhuja 2: G. G.olin pitarilaisnovelleja,
 Puhuja 2: jotka on
 Puhuja 2: itseasiassa tosi hauskoja. Mulla on venäläiseen
 Puhuja 2: kirjallisuuteen liittyvä
-Puhuja 2: trauma, että jotenkin jaottelen
-Puhuja 2: sellaisiksi iltapukuromaaneiksi
+Puhuja 2: trauma, että jotenkin jaottelen sellaisiksi iltapukuromaaneiksi
 Puhuja 2: niin kuin Anna Karenina
-Puhuja 2: tai
-Puhuja 2: haisevia ryysyjä jossain katuajassa romaaneiksi,
+Puhuja 2: tai sitten sellaiseksi haisevia ryysyjä jossain katuajassa romaaneiksi,
 Puhuja 2: niin kuin Rikos ja rangaistus,
 Puhuja 2: voi olla myös näiden yhdistelmiä.
 Puhuja 2: Mutta nämä Gogolin Pietarinalaisnovellit
-Puhuja 2: on erittäin hauskoja ja erittäin outoja. Oletteko
-Puhuja 2: tutustuneet
+Puhuja 2: on erittäin hauskoja ja erittäin outoja.
+Puhuja 2: Oletteko tutustuneet
 Puhuja 2: kulttuurituotteisiin?
 Puhuja 3: Kyllä, yläasteella.
 Puhuja 2: Aivan.
@@ -505,8 +500,8 @@ Puhuja 3: taantunut
 Puhuja 2: tenniksen hailada. Sen jälkeen ryhdy politiikan toimittajaksi.
 Puhuja 2: Joo.
 Puhuja 2: Kiitos
-Puhuja 2: tästä viikosta,
-Puhuja 2: tästä mätäkuu on vasta alussa, mutta tämä lähetys on tullut nyt vääjäämättömään
+Puhuja 2: tästä viikosta.
+Puhuja 2: Tästä mätäkuu on vasta alussa, mutta tämä lähetys on tullut nyt vääjäämättömään
 Puhuja 2: päätökseensä.
 Puhuja 2: Kiitos Milka Valtanen.
 Puhuja 2: Kiitos,

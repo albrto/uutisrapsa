@@ -14,378 +14,380 @@ Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 2: Helsingin
 Puhuja 2: Sanomat.
-Puhuja 2: No niin, hei vaan ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 2: podcastiin jälleen kerran torstaina
-Puhuja 2: ensimmäistä kertaa tänä vuonna elokuussa. Nimittäin nyt on ensimmäinen elokuuta vuonna kaksituhatta kaksikymmentäneljä.
-Puhuja 2: Minun nimeni on yhä Joona Aaltonen.
-Puhuja 2: Kanssani täällä Sanomatalon
-Puhuja 2: yhä viidennen kerran kerroksen
-Puhuja 2: äänitys
-Puhuja 2: tiloissa ovat
-Puhuja 2: ulkomaantoimituksen
-Puhuja 2: toimittaja Rasmus Helaniemi.
-Puhuja 2: Moikka. Moi moi. Sekä politiikan toimituksesta Oskari Eronen.
-Puhuja 2: Terve. Terve vaan.
-Puhuja 2: Tällä viikolla me keskustellaan
-Puhuja 2: tässä Uutisraportti-podcastin
-Puhuja 2: jaksossa
-Puhuja 2: Turun tunnin junasta,
-Puhuja 2: joka tosin ei ole tunnin juna ollut vähään aikaan, mutta tällä nimellä se yhä kulkee.
-Puhuja 2: Päiväkotien
-Puhuja 2: yhdenvertaisuussuunnitelmista
-Puhuja 2: ja vielä lopuksi
-Puhuja 2: Coldplayn Helsingin keikoista, joista
-Puhuja 2: riittävästi ei ole mediassa keskusteltu.
-Puhuja 2: Aloitetaanpa siis tällä Turun tunnin junalla.
-Puhuja 2: Hallitusohjelmassa on sovittu
-Puhuja 2: tällaisesta Turun tunnin junasta, mutta viime aikoina se on aiheuttanut jonkin verran myös eripuraa hallituspuolueiden
-Puhuja 2: välille.
-Puhuja 2: Liikenneministeri
-Puhuja 2: Lulu Ranne
-Puhuja 2: perussuomalaisten eduskuntaryhmän puheenjohtaja Jani Mäkelä ovat suhtautuneet
-Puhuja 2: ratahankkeeseen
-Puhuja 2: kriittisesti ihan julkisuudessa.
-Puhuja 2: Heidän lisäksi muun muassa RKP:n kansanedustaja Henrik Wikström on esittänyt, että hallituksen pitäisi käydä keskustelu tunnin junan kohtalosta.
-Puhuja 2: Tämä on ensimmäisiä Orpon hallituksen tällaisia asioita,
-Puhuja 2: jotka on julkisuudessa ikään kuin herättänyt näin voimakasta
-Puhuja 2: vastustusta myös hallituspuolueiden
-Puhuja 2: sisältä.
-Puhuja 2: Orpo itse on kuitenkin sanonut Helsingin Sanomien haastattelussa, että siitä ei ole kahta kysymystä, toteutettuko hanke.
-Puhuja 2: Orpo totesi, että me toteutamme tämänkin hankkeen osalta hallitusohjelmaa sovitusti.
-Puhuja 2: Seuraavista
-Puhuja 2: vaiheista
-Puhuja 2: neuvotellaan kaupunkien kanssa.
-Puhuja 2: Mitäs
-Puhuja 2: Turun tunnin juna, Oskari, olet politiikan toimituksessa myös.
-Puhuja 2: Miltä on näyttänyt näyttänyt keskustelu tunnin junasta viime aikoina?
-Puhuja 3: Musta se oli
-Puhuja 3: mielenkiintoista,
-Puhuja 3: miten voimakkaasti
-Puhuja 3: Petteri Orpo otti kantaa tähän.
-Puhuja 3: Että tämä nyt toteutetaan ja tämä nyt tulee. Hän
-Puhuja 3: sitoo omaa
-Puhuja 3: arvovaltaansa
-Puhuja 3: tähän asiaan aika
-Puhuja 3: voimakkaasti. Minua kiinnostaisi, kun olit
-Puhuja 3: Joona
-Puhuja 3: haastattelemassa
-Puhuja 3: orpoa Turussa,
-Puhuja 3: niin kun kysyit tästä aiheesta, niin miten
-Puhuja 3: ytimekkäästi ja nopeasti tuli vastaus?
-Puhuja 2: No se tuli kyllä tosi nopeasti ja ytimekkäästi.
-Puhuja 2: Muistaakseni siihen juttuun kirjoitinkin jotenkin, että Orpo toteaa yksiselitteisesti,
-Puhuja 2: millä yritin viestiä sitä, että ei siitä ole kahta kysymystä. Taisi olla ensimmäinen reaktio, kun kysyin
-Puhuja 2: Taisi olla ensimmäinen
-Puhuja 2: reaktio sen jälkeen, kun kysyin asiasta. Osin
-Puhuja 2: veikkaan, että se johtuu siitä, että Orpo pitää toki tunnin junaa itsekin tärkeänä ja hyvänä hankkeena.
-Puhuja 2: Mutta osin se johtuu myös siitä, että
-Puhuja 2: tällä hallituksella on ollut kova tarve pitää kiinni kaikesta, mitä hallitusohjelmassa on sovittu.
-Puhuja 2: Koskaan aikaisemmin hallituksella ei ollut näin yksityiskohtaista
-Puhuja 2: hallitusohjelmaa.
-Puhuja 2: Sen ikään kuin tarkoituksena on ollut se, että kun kaikki etukäteen, mistään ei tarvitse enää pandoran lipasta avata tässä
-Puhuja 2: kesken kaiken. Nyt jos tästä pandoran lipas aukeisi, siinä on hyvin nopeasti toinenkin kansanedustaja ja se, että no hei, noin saoitoin tunnin junan tuolta pois, mutta mites nyt nämä asiat? Sitten
-Puhuja 2: pöydälle alkaa nousta uusia asioita. Veikkaan, että siinä on ikään kuin
-Puhuja 2: kaksi syytä, miksi siitä yritetään pitää kiinni. Toinen on se, että siitä on sovittu ja siitä ei haluta sen takia lipsuu. Toinen on se, että sitä oikeasti pidetään
-Puhuja 2: kannatettavana hankkeena. Ei sitä varmaan muuten ajettaessa sitä, ei kukaan
-Puhuja 2: oikeasti kannattaisi.
-Puhuja 2: Voitko
-Puhuja 2: vielä kertoa vähän, millaista oli käydä Petterin kanssa ulkoiluttamassa
-Puhuja 2: koiraa? Millainen tämä
-Puhuja 2: juttukeikka oli? Kolmasosa
-Puhuja 2: koostuu
-Puhuja 2: niistä hiilidioksidipäästöistä ja loput
-Puhuja 2: tulee muista
-Puhuja 2: päästöistä, mitä lentäminen aiheuttaa
-Puhuja 2: vesihöyryä ja
-Puhuja 2: mitä kaikkea muuta siinä tulee.
-Puhuja 2: Esimerkiksi ne ei kerro, että
-Puhuja 2: ottavatko ne näitä huomioon vai ottavatko ne pelkät hiilidioksidipäästöt, jotka on murto-osa
-Puhuja 2: tai pieni osa lentämisen päästöistä.
-Puhuja 2: Ikään kuin sellainen läpinäkyvyys ainakin
-Puhuja 2: mua
-Puhuja 2: häiritsi, kun itse siellä olin. Aika monesti tuli sellainen olo, että onkohan tämä
-Puhuja 2: oikeata, vai onko tämä viherpesua?
-Puhuja 2: Annan
-Puhuja 4: heille kehuja
-Puhuja 4: siitä, tai Cold playella, että he kuitenkin tekevät tällaista ympäristötyötä tässä. Ihan hyvinhän ne olisi vaan voineet tulla
-Puhuja 4: tänne stadion keikat ja lähtee menemään ilman mitään tätä ympärillä.
-Puhuja 4: Eikä varmaan kovin moni olisi sitä valittanut. Olisi ne myyneet samalla lailla.
-Puhuja 4: Onko
-Puhuja 4: oikeasti kuusi kuntopyörää se,
-Puhuja 4: millä neljä stadion keikkaa, missä oli kaiken maailman pyrrot ja kaikki vanhan
-Puhuja 4: liiton ilotulitteet,
-Puhuja 4: niin onko tuossa
-Puhuja 4: mitään järkeä?
-Puhuja 2: Sivuillahan ne tosiaan
-Puhuja 2: listaa...
-Puhuja 2: Nyt menin täältä vielä katsomaan, seitsemän miljoonaa puuta.
-Puhuja 3: Aina kun kuulen tollaisen, että istutimme seitsemän miljoonaa puuta, niin siitä tulee niin sellainen fiilis, että vissiin istutitte. Ja näitä led-rannekkeita,
-Puhuja 2: mitä siellä on, niin ne kierrätetään ja merta on puhdistettu
-Puhuja 2: ja käytetään uusiutuvaa energiaa näissä kierroksilla ja
-Puhuja 2: käytetään
-Puhuja 2: sustainable aviation fuel
-Puhuja 2: näihin lentoihin, joka sekin on saanut julkisuudessa kritiikkiä, että joo, se toki on
-Puhuja 2: vähemmän päästöistä kuin se tavallinen polttoaine.
-Puhuja 2: Mutta kuitenkin sen valmistamiseen tarvitaan erilaisia bioasioita,
-Puhuja 2: jotka aiheuttavat
-Puhuja 2: kaikenlaisia muita ongelmia.
-Puhuja 2: Puiden kaatamista ja metsien katsotaan ja muuta.
-Puhuja 2: Kokonaan siitä ei
-Puhuja 2: pääse. Mutta se, mitä Rasmus sanoi, siitä mun on pakko olla samaa mieltä, että eihän kovin moni
-Puhuja 2: tällainen kiertue ei sisällä tehdä mitään.
-Puhuja 2: Jos me vaikka mietitään... Taylor SWiftillä oli juuri tämä suurkiertoja. Hän on itse tullut tunnetuksi siitä, että hän lentelee
-Puhuja 2: tyyliin kauppamatkatkin niillä yksityiskoneillaan
-Puhuja 2: nyt vähän liioellen. Mutta
-Puhuja 2: eihän ikään kuin
-Puhuja 2: sillä maailmankiertueella
-Puhuja 2: tehty ainakaan
-Puhuja 2: julkisuuteen keruttu, että on juurikaan
-Puhuja 2: tällaisia toimenpiteitä tehty. Kyllähän tämä sinänsä on suunnannäyttäjän
-Puhuja 2: työtä
-Puhuja 2: riippumatta
-Puhuja 2: siitä,
-Puhuja 2: pitääkö viisikymmentäyhdeksän prosenttia, mitä he kertovat ihan täysin paikkansa vai ei. On paljon hyvää tehneet.
-Puhuja 3: En ollut Gold Blen keikalla,
-Puhuja 3: mutta olin aikaisemmin keväällä Tukholmassa katsomassa Treier SWIFTtiä.
-Puhuja 3: Ei siellä kyllä ainakaan
-Puhuja 3: ollut millään tavalla esillä kestävyysnäkökulmat
-Puhuja 3: tai mitään
-Puhuja 3: kansalaisjärjestöjä
-Puhuja 3: siellä. Tai ei ainakaan huomannut,
-Puhuja 3: jos se siellä oli. Hyvin piiloitettaisi siellä. Joo,
-Puhuja 3: mutta
-Puhuja 3: yleisesti sen enempää
-Puhuja 3: tuomitsematta tai analysoimatta
-Puhuja 3: Coldplayn tekoja,
-Puhuja 3: niin olen ihan tyytyväinen, että EU:sta on tulossa
-Puhuja 3: tällainen ympäristöväitteiden
-Puhuja 3: sääntelypaketti.
-Puhuja 3: Toivon mukaan pian.
-Puhuja 3: Minusta ainakin
-Puhuja 3: näissä...
-Puhuja 3: Nyt se
-Puhuja 3: tavallaan city gaiste on se, että jos joku
-Puhuja 3: yritys tai sanoo, että me ollaan tosi hyviä ympäristölle,
-Puhuja 3: niin silloin
-Puhuja 3: aina tulee ensimmäiseksi mieleen se, että mikä tässä on jotain spinniä tai valhetta. Jos vähän pintaa on raaputtaa, niin mitä sieltä löytyy? Joo.
-Puhuja 3: Ne yritykset, jotka oikeasti
-Puhuja 3: yrittää tehdä jotain, niin ehkä
-Puhuja 3: kärsii siitä,
-Puhuja 3: koska ne muut,
-Puhuja 3: ikään kuin muutama mätä omena pilaa
-Puhuja 3: ne kunnollisetkin.
-Puhuja 3: Sen takia mun mielestä olisi hyvä saada lisää läpinäkyvyyttä
-Puhuja 3: näihin asioihin.
-Puhuja 4: Tämä on jotenkin niin hassu askel, koska koko hiilijalanjäljen
-Puhuja 4: leimaa, että mikä on tämän ja tämän tuotteen
-Puhuja 4: hiilijalanjälki.
-Puhuja 4: Mä suhtaudun siihen aika skeptisesti. Koko hiilijalanjäljen konsepti on kehitetty
-Puhuja 4: laajemmallekin. Ehkä tämä on vaikea ala. Se ei niin helposti leviä, mutta
-Puhuja 4: kuitenkin.
-Puhuja 4: Hyvä, että saatiin puuttua callbleysta myös täällä LUT-raportissa, koska ei sitä taakkaa ollut.
-Puhuja 2: Tarvitsee monta juttua vielä edustamamme mediatalon saitilla. Pakko myöntää, että se on kyllä ollut sellainen,
-Puhuja 2: jos on avannut Helsingin Sanomain sovelluksen viime aikoina, ei ole voinut välttyä tiedolla siitä, että Coldplay Helsingissä esiintyi. Päätin nyt uutisraportissa pitää tätä samaa yllä. Se on mieltä. Goldsingin
-Puhuja 3: Sanomissa.
+Puhuja 3: No niin, hei vaan ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 3: podcastiin jälleen kerran torstaina
+Puhuja 3: ensimmäistä kertaa tänä vuonna elokuussa. Nimittäin nyt on ensimmäinen elokuuta vuonna kaksituhatta kaksikymmentäneljä.
+Puhuja 3: Minun nimeni on yhä Joona Aaltonen.
+Puhuja 3: Kanssani täällä Sanomatalon
+Puhuja 3: yhä viidennen kerran kerroksen
+Puhuja 3: äänitys
+Puhuja 3: tiloissa ovat
+Puhuja 3: ulkomaantoimituksen
+Puhuja 3: toimittaja Rasmus Helaniemi.
+Puhuja 3: Moikka. Moi moi. Sekä politiikan toimituksesta Oskari Eronen.
+Puhuja 3: Terve. Terve vaan.
+Puhuja 3: Tällä viikolla me keskustellaan
+Puhuja 3: tässä Uutisraportti-podcastin
+Puhuja 3: jaksossa
+Puhuja 3: Turun tunnin junasta,
+Puhuja 3: joka tosin ei ole tunnin juna ollut vähään aikaan, mutta tällä nimellä se yhä kulkee.
+Puhuja 3: Päiväkotien
+Puhuja 3: yhdenvertaisuussuunnitelmista
+Puhuja 3: ja vielä lopuksi
+Puhuja 3: Coldplayn Helsingin keikoista, joista
+Puhuja 3: riittävästi ei ole mediassa keskusteltu.
+Puhuja 3: Aloitetaanpa siis tällä Turun tunnin junalla.
+Puhuja 3: Hallitusohjelmassa on sovittu
+Puhuja 3: tällaisesta Turun tunnin junasta, mutta viime aikoina se on aiheuttanut jonkin verran myös eripuraa hallituspuolueiden
+Puhuja 3: välille.
+Puhuja 3: Liikenneministeri
+Puhuja 3: Lulu Ranne
+Puhuja 3: perussuomalaisten eduskuntaryhmän puheenjohtaja Jani Mäkelä ovat suhtautuneet
+Puhuja 3: ratahankkeeseen
+Puhuja 3: kriittisesti ihan julkisuudessa.
+Puhuja 3: Heidän lisäksi muun muassa RKP:n kansanedustaja Henrik Wikström on esittänyt, että hallituksen pitäisi käydä keskustelu tunnin junan kohtalosta.
+Puhuja 3: Tämä on ensimmäisiä Orpon hallituksen tällaisia asioita,
+Puhuja 3: jotka on julkisuudessa ikään kuin herättänyt näin voimakasta
+Puhuja 3: vastustusta myös hallituspuolueiden
+Puhuja 3: sisältä.
+Puhuja 3: Orpo itse on kuitenkin sanonut Helsingin Sanomien haastattelussa, että siitä ei ole kahta kysymystä, toteutettuko hanke.
+Puhuja 3: Orpo totesi, että me toteutamme tämänkin hankkeen osalta hallitusohjelmaa sovitusti.
+Puhuja 3: Seuraavista
+Puhuja 3: vaiheista
+Puhuja 3: neuvotellaan kaupunkien kanssa.
+Puhuja 3: Mitäs
+Puhuja 3: Turun tunnin juna, Oskari, olet politiikan toimituksessa myös.
+Puhuja 3: Miltä on näyttänyt näyttänyt keskustelu tunnin junasta viime aikoina?
+Puhuja 4: Musta se oli
+Puhuja 4: mielenkiintoista,
+Puhuja 4: miten voimakkaasti
+Puhuja 4: Petteri Orpo otti kantaa tähän.
+Puhuja 4: Että tämä nyt toteutetaan ja tämä nyt tulee. Hän
+Puhuja 4: sitoo omaa
+Puhuja 4: arvovaltaansa
+Puhuja 4: tähän asiaan
+Puhuja 4: aika
+Puhuja 4: voimakkaasti. Minua kiinnostaisi, kun olit
+Puhuja 4: Joona
+Puhuja 4: haastattelemassa
+Puhuja 4: orpoa Turussa,
+Puhuja 4: niin kun kysyit tästä aiheesta, niin miten
+Puhuja 4: ytimekkäästi ja nopeasti tuli vastaus?
+Puhuja 3: No se tuli kyllä tosi nopeasti ja ytimekkäästi.
+Puhuja 3: Muistaakseni siihen juttuun kirjoitinkin jotenkin, että Orpo toteaa yksiselitteisesti,
+Puhuja 3: millä yritin viestiä sitä, että ei siitä ole kahta kysymystä. Taisi olla ensimmäinen reaktio, kun
+Puhuja 3: kysyin
+Puhuja 3: Taisi olla ensimmäinen
+Puhuja 3: reaktio sen jälkeen, kun kysyin asiasta. Osin
+Puhuja 3: veikkaan, että se johtuu siitä, että Orpo pitää toki tunnin junaa itsekin tärkeänä ja hyvänä hankkeena.
+Puhuja 3: Mutta osin se johtuu myös siitä, että
+Puhuja 3: tällä hallituksella on ollut kova tarve pitää kiinni kaikesta, mitä hallitusohjelmassa on sovittu.
+Puhuja 3: Koskaan aikaisemmin hallituksella ei ollut näin yksityiskohtaista
+Puhuja 3: hallitusohjelmaa.
+Puhuja 3: Sen tarkoituksena on ollut se, että kun sovitaan etukäteen, mistään ei tarvitse enää Pandoran lipasta avata
+Puhuja 3: tässä kesken kaiken. Nyt jos tästä Pandoran lipas aukesi, siinä on hyvin nopeasti toinenkin kansanedustaja, että no hei,
+Puhuja 3: noin saoitoin tunnin junan tuolta pois, mutta mites nyt nämä asiat? Sinne pöydälle alkaa nousta uusia asioita. Veikkaan, että siinä on ikään kuin kaksi
+Puhuja 3: syytä, miksi siitä yritetään pitää kiinni. Toinen on se, että siitä on sovittu ja siitä ei haluta sen takia lipsuja. Toinen on se, että sitä oikeasti pidetään kannatettavana hankkeena. Ei sitä varmaan muuten ajettaessa sitä, ei kukaan
+Puhuja 3: oikeasti kannattaisi.
+Puhuja 2: Voitko vielä
+Puhuja 2: kertoa vähän, millaista oli käydä Petterin kanssa ulkoiluttamassa
+Puhuja 2: koiraa? Millainen tämä juttukeikka oli? Voimassa
+Puhuja 3: koostuu niistä hiilidioksidipäästöistä.
+Puhuja 3: Loput
+Puhuja 3: tulee muista
+Puhuja 3: päästöistä, mitä lentäminen
+Puhuja 3: aiheuttaa vesihöyryä ja
+Puhuja 3: mitähän kaikkea muuta siinä tulee.
+Puhuja 3: Esimerkiksi ne ei kerro, että
+Puhuja 3: ottavatko ne näitä huomioon vai ottavatko ne pelkät
+Puhuja 3: hiilidioksidipäästöt, jotka on murto-osa
+Puhuja 3: tai pieni osa lentämisen päästöistä.
+Puhuja 3: Ikään kuin sellainen läpinäkyvyys ainakin
+Puhuja 3: mua
+Puhuja 3: häiritsi, kun itse siellä olin. Aika monesti tuli sellainen olo, että onkohan tämä
+Puhuja 3: oikeata, vai onko tämä viherpesua?
+Puhuja 3: Annan
+Puhuja 2: heille kehuja
+Puhuja 2: siitä, tai Cold playella, että he kuitenkin tekevät tällaista ympäristötyötä tässä. Ihan hyvinhän ne olisi vaan voineet tulla
+Puhuja 2: tänne stadion keikat ja lähtee menemään ilman mitään tätä ympärillä.
+Puhuja 2: Eikä varmaan kovin moni olisi sitä valittanut. Olisi ne myyneet samalla lailla.
+Puhuja 2: Onko
+Puhuja 2: oikeasti kuusi kuntopyörää se, millä
+Puhuja 2: neljä stadion keikkaa, missä oli kaiken maailman pyrrot ja kaikki vanhan
+Puhuja 2: liiton ilotulitteet,
+Puhuja 2: niin onko tuossa
+Puhuja 2: mitään järkeä?
+Puhuja 3: Sivuillahan ne tosiaan
+Puhuja 3: listaa...
+Puhuja 3: Nyt menin täältä vielä katsomaan, seitsemän miljoonaa puuta.
+Puhuja 4: Aina kun kuulen tollaisen, että istutimme seitsemän miljoonaa puuta, niin siitä tulee niin sellainen fiilis, että vissiin istutitte. Ja näitä led-rannekkeita,
+Puhuja 3: mitä siellä on, niin ne kierrätetään ja merta on puhdistettu
+Puhuja 3: ja käytetään uusiutuvaa energiaa näissä kierroksilla ja
+Puhuja 3: käytetään
+Puhuja 3: sustainable aviation fuel
+Puhuja 3: näihin lentoihin, joka sekin on saanut julkisuudessa kritiikkiä, että joo, se toki on
+Puhuja 3: vähemmän päästöistä kuin se tavallinen polttoaine.
+Puhuja 3: Mutta kuitenkin sen valmistamiseen tarvitaan erilaisia bioasioita,
+Puhuja 3: jotka aiheuttavat
+Puhuja 3: kaikenlaisia muita ongelmia.
+Puhuja 3: Puiden kaatamista ja metsien katsotaan ja muuta.
+Puhuja 3: Kokonaan siitä ei
+Puhuja 3: pääse. Mutta se, mitä Rasmus sanoi, siitä mun on pakko olla samaa mieltä, että eihän kovin moni
+Puhuja 3: tällainen kiertue ei sisällä tehdä mitään.
+Puhuja 3: Jos me vaikka mietitään... Taylor SWiftillä oli juuri tämä suurkiertoja. Hän on itse tullut tunnetuksi siitä, että hän lentelee
+Puhuja 3: tyyliin kauppamatkatkin niillä yksityiskoneillaan
+Puhuja 3: nyt vähän liioellen. Mutta
+Puhuja 3: eihän ikään kuin
+Puhuja 3: sillä maailmankiertueella
+Puhuja 3: tehty ainakaan
+Puhuja 3: julkisuuteen keruttu, että on juurikaan
+Puhuja 3: tällaisia toimenpiteitä tehty. Kyllähän tämä sinänsä on suunnannäyttäjän
+Puhuja 3: työtä
+Puhuja 3: riippumatta
+Puhuja 3: siitä,
+Puhuja 3: pitääkö viisikymmentäyhdeksän prosenttia, mitä he kertovat ihan täysin paikkansa vai ei. On paljon hyvää tehneet.
+Puhuja 4: En ollut Gold Blen keikalla,
+Puhuja 4: mutta olin aikaisemmin keväällä Tukholmassa katsomassa Treier SWIFTtiä.
+Puhuja 4: Ei siellä kyllä ainakaan
+Puhuja 4: ollut millään tavalla esillä kestävyysnäkökulmat
+Puhuja 4: tai mitään
+Puhuja 4: kansalaisjärjestöjä
+Puhuja 4: siellä. Tai ei ainakaan huomannut,
+Puhuja 3: jos se siellä oli. Hyvin piiloitettaisi sinne. Joo,
+Puhuja 4: mutta
+Puhuja 4: yleisesti sen enempää
+Puhuja 4: tuomitsematta tai analysoimatta
+Puhuja 4: Coldplayn tekoja,
+Puhuja 4: niin olen ihan tyytyväinen, että EU:sta on tulossa
+Puhuja 4: tällainen ympäristöväitteiden
+Puhuja 4: sääntelypaketti.
+Puhuja 4: Toivon mukaan pian.
+Puhuja 4: Minusta ainakin
+Puhuja 4: näissä...
+Puhuja 4: Nyt se
+Puhuja 4: tavallaan cit gaist on se, että jos joku
+Puhuja 4: yritys tai sanoo, että me ollaan tosi hyviä ympäristölle,
+Puhuja 4: niin silloin
+Puhuja 4: aina tulee ensimmäiseksi mieleen se, että mikä tässä on jotain spinniä tai valhetta. Jos vähän pintaa on raaputtaa, niin mitä sieltä löytyy? Joo.
+Puhuja 4: Ne yritykset, jotka oikeasti
+Puhuja 4: yrittää tehdä jotain, niin ehkä
+Puhuja 4: kärsii siitä,
+Puhuja 4: koska ne muut,
+Puhuja 4: ikään kuin muutama mätä omena
+Puhuja 4: pilaa
+Puhuja 4: ne kunnollisetkin.
+Puhuja 4: Sen takia olisi
+Puhuja 4: hyvä saada lisää läpinäkyvyyttä näihin asioihin.
+Puhuja 2: Tämä on jotenkin niin hassu askel, koska koko hiilijalanjäljen
+Puhuja 2: leimaa, että mikä on tämän ja tämän tuotteen
+Puhuja 2: hiilijalanjälki.
+Puhuja 2: Mä suhtaudun siihen aika skeptisesti. Koko hiilijalanjäljen konsepti on kehitetty
+Puhuja 2: laajemmallekin. Ehkä tämä on vaikea ala. Tässä se ei niin helposti leviä, mutta
+Puhuja 2: kuitenkin.
+Puhuja 2: Hyvä, että saatiin puuttua callbleysta myös täällä LUT-raportissa, koska ei sitä taakkaa ollut. Tarvitseeko montaa juttua vielä edustamamme
+Puhuja 3: mediatalon saitilla. Pakko myöntää, että se on kyllä ollut sellainen,
+Puhuja 3: jos on avannut Helsingin Sanomain sovelluksen viime aikoina, ei ole voinut välttyä tiedolla siitä, että Coldplay Helsingissä esiintyi. Päätin nyt uutisraportissa pitää tätä samaa yllä. Se on mieltä. Goldsingin
+Puhuja 2: Sanomissa. Goldsingin Sanomissa.
 Puhuja 2: Sosin
 Puhuja 2: Sanoman uutisraportti.
-Puhuja 4: Siis Suomen historian suurin musiikkitapahtuma,
-Puhuja 4: kun jos
-Puhuja 4: näin laskee yhteen ymmärtääkseni. Oliko se
-Puhuja 4: hyvä musiikillisesti se keikka?
-Puhuja 4: No
-Puhuja 4: joo.
-Puhuja 4: Kyllä Chris Martin totta kai laulaa puhtaammin
-Puhuja 4: Spotify versioilla, mutta tavallaan se on se live-elämys ja
-Puhuja 4: musiikillisesti hyvä. Mutta ei se ole se juttu, miksi sinne mennään. Mun on pakko myöntää, että
-Puhuja 2: mulle aiheutti monella ystävällä, jotka on enemmän Gopley faneja,
-Puhuja 2: hieman tuottamasta se, että
-Puhuja 2: en tiennyt silloin, kun Gopleyn liput tuli myyntiin ja oli hirveä kaaos viime kesänä, missä niitä yritettiin saada, niin en tajunnut, että tämä oli iso juttu, kun ne tuli Helsinkiin. Kaverini ilmoitti mulle, että hänellä on liputettu, onko? Olin se ok, voin tulla.
-Puhuja 2: Tunnistin ehkä viisi tai kuusi kappaletta, kun siellä olin. Olin enemmän
-Puhuja 2: hangrowdina siellä
-Puhuja 2: kuin varsinaisesti fanina.
-Puhuja 2: Mutta semmoinen on pakko myöntää, että vaikka olin turistina
-Puhuja 2: täysin itse paikalla eikä sen varsinaisesti musiikin vuoksi, vaan lähinnä seuraavan vuoksi,
-Puhuja 2: niin oli se show aika hieno.
-Puhuja 2: Siitä on pakko antaa valot-Rot ja sun muut. Ne oli ihan näyttöä, että vaikka se olisi ollut ihan äänetön. Ehkä ei se ollut ollenkaan musiikkia.
-Puhuja 4: Ei olisi ikinä kuunnellut, niin jostain radion omastani on kaikki oppinut. Kyllä mäkin tunnistin
-Puhuja 2: just joku viisi-kuusi kappaletta niistä.
-Puhuja 2: En osannut varsinaisesti yhdistää cop Plaeihin, mutta se on aina ohittanut mun scopen.
-Puhuja 2: En oo koskaan varsinaisesti
-Puhuja 2: hissimusikityyppistä
-Puhuja 2: ehkä.
-Puhuja 2: Mutta ei se tarkoita, että se olisi huono. Saiko tämä Gold sink-spekttaakkeli
-Puhuja 4: teidät
-Puhuja 4: molemmat vakuuttuneiksi, että Coldplay on paras yhtiö ikinä ja toivotaan, että he palaavat someen mahdollisimman pieniä ja shuja Suille?
-Puhuja 2: No, saivat vakuuttamaan minut ainakin siitä, että se on suosittu yhtiö. En minä ehkä tästä Copoleyn levyä laita vieläkään
-Puhuja 2: soimaan, mutta
-Puhuja 2: kyllä niillä ihan hyviä kappaleita. Jos radiosta tulee, niin en kanavaa vaihda jatkossakaan.
-Puhuja 3: Joo.
-Puhuja 3: Minä myös katsoin, että minun Spotify
-Puhuja 3: tyytyissä kappaleissa on yhteensä neljä cortplayn kappaletta.
-Puhuja 3: Kyllä ne on kaikki ihan hyviä biisejä.
-Puhuja 3: Ehkä suuremmalla mielenkiinnolla odotan sitä, kun tästä tulee luvut, että
-Puhuja 3: minkä verran rahaa tämä keikka on tuonut meille
-Puhuja 3: ja
-Puhuja 3: Helsingille.
-Puhuja 4: Viitataanko meillä siis Helsinkiin kiinni Suomeen valtioon
-Puhuja 3: turismibisnekseen ja ravintola-alalle ja näin päin pois.
-Puhuja 4: Minkä verran on ulkomaalaisia? Kyllä veikkaan, että oli jonkun verran, koska
-Puhuja 4: nyt tämä on ihan viimeisiä Euroopan keikkoja nyt tällä kiertueella. Jos haluaa Euroopassa nähdä kolbl, niin tämä on vikoja mahdollisuuksia mulle, että nämä liput oli varmaan kohtuuhintaiset myös, jos ne onnistui jostain saamaan. Jos vertaa vaikka, jos olet vaikka britti tai Jenkki. Mutta toisaalta Jenkki ehkä tulisi... No, en tiedä, vaan sanoa. Loppuun myyntiinä kuitenkin oli hyvin nopeasti.
-Puhuja 2: Uskon, että se aika pitkälti täytti suomalaisesta, mutta kyllä Helsingin
-Puhuja 2: Sanomatkin olivat haastattelleet
-Puhuja 2: journalismia tehdessään muutamia
-Puhuja 2: ulkomaalaisia. Kyllä se ainakin silloin, kun olin keikalla,
-Puhuja 4: juttu, jossa olette kertoneet,
-Puhuja 4: että miten Boli vielä liittyy teihin vai liittyykö mitenkään, niin saa linkata. Mutta siis se ei
-Puhuja 2: Pakko myöntää,
-Puhuja 2: että tulin kotiin ja puoliso oli
-Puhuja 2: eilen siellä kuuntelemassa. Itse olin tänään. Hän oli toissapäivänä
-Puhuja 2: eilen
-Puhuja 2: ja kysyi, että mikä oli paras biisi? Vastasin,
-Puhuja 2: että on ne kaikki hyvin. Mutta lauloin mukaan ainoastaan yhden kappaleen. Se oli, kun laulettiin J. Karjalaisen, me ollaan sankareita kaikki.
-Puhuja 2: Joka sinne tuli joku suomalainen yhtyä yhdessä Kris Martinin kanssa esittämään,
-Puhuja 2: mikä oli myös hyvin jännittävä osuisi tätä keikkaa.
-Puhuja 2: Ylipäätään hämmentävä
-Puhuja 2: keikka. Kudella, joo. No, ehkä me ollaan riittävästi jauhettanut tästä Code Playsta
-Puhuja 2: sekä tässä podcastissa että edustamassamme
-Puhuja 2: mediassa yleisemminkin.
-Puhuja 2: Ehkä tähän on hyvä lopettaa. Onko Jumalakummalla vielä joku Naseva
-Puhuja 4: lopetus? Ei, ei. Ei, tämä on
-Puhuja 4: käsitelty.
-Puhuja 2: Nyt
-Puhuja 2: kun te
-Puhuja 2: Coldplay-keikan
-Puhuja 2: jälkeen lähdette harhailemaan
-Puhuja 2: Helsingin yöhön
-Puhuja 2: olette juoneet tyhjäksi
-Puhuja 2: keikalla
-Puhuja 2: vesipiste täyttämänne vesipullon
-Puhuja 2: ja sen viimeisiä tippuja siinä juotte keikalta pois kävellessänne, niin
-Puhuja 2: mitäs te suosittelette
+Puhuja 2: Siis Suomen historian suurin musiikkitapahtuma,
+Puhuja 2: kun jos
+Puhuja 2: näin laskee yhteen ymmärtääkseni. Oliko se
+Puhuja 2: hyvä musiikillisesti se keikka?
+Puhuja 2: No
+Puhuja 2: joo.
+Puhuja 2: Kyllä Chris Martin totta kai laulaa puhtaammin
+Puhuja 2: Spotify versioilla, mutta tavallaan se on se live-elämys ja
+Puhuja 2: musiikillisesti hyvä. Mutta ei se ole se juttu, miksi sinne mennään. Mun on pakko myöntää, että
+Puhuja 3: mulle aiheutti monella ystävällä, jotka on enemmän Gopley faneja,
+Puhuja 3: hieman tuottamasta se, että
+Puhuja 3: en tiennyt silloin, kun Gopleyn liput tuli myyntiin ja oli hirveä kaaos viime kesänä, missä niitä yritettiin saada, niin en tajunnut, että tämä oli iso juttu, kun ne tuli Helsinkiin. Kaverini ilmoitti mulle, että hänellä on liputettu, onko? Olin se ok, voin tulla.
+Puhuja 3: Tunnistin ehkä viisi tai kuusi kappaletta, kun siellä olin. Olin enemmän
+Puhuja 3: hangrowdina siellä
+Puhuja 3: kuin varsinaisesti fanina.
+Puhuja 3: Mutta semmoinen on pakko myöntää, että vaikka olin turistina
+Puhuja 3: täysin itse paikalla eikä sen varsinaisesti musiikin vuoksi, vaan lähinnä seuraavan vuoksi,
+Puhuja 3: niin oli se show aika hieno.
+Puhuja 3: Siitä on pakko antaa valot-Rot ja sun muut. Ne oli ihan näyttöä, että vaikka se olisi ollut ihan äänetön. Ehkä ei se ollut ollenkaan musiikkia.
+Puhuja 2: Ei olisi ikinä kuunnellut, niin jostain radion omasta ne on kaikki oppinut. Kyllä mäkin
+Puhuja 3: tunnistin
+Puhuja 3: just joku viisi-kuusi kappaletta niistä, että en osannut varsinaisesti yhdistää copoleeihin, mutta se on jotenkin aina ohittanut mun scopen.
+Puhuja 3: En oo koskaan varsinaisesti
+Puhuja 3: hissimusikityyppistä
+Puhuja 3: ehkä.
+Puhuja 3: Mutta ei se tarkoita, että se olisi huono. Saiko tämä Cold sink-spekttaakkeli
+Puhuja 2: teidät
+Puhuja 2: molemmat vakuuttuneiksi, että Coldplay on paras yhtiö ikinä ja toivotaan, että he palaavat someen mahdollisimman pieniä ja shuja Suille?
+Puhuja 3: No, saivat vakuuttamaan minut ainakin siitä, että se on suosittu yhtiö. En minä ehkä tästä Copoleyn levyä laita vieläkään
+Puhuja 3: soimaan, mutta
+Puhuja 3: kyllä niillä ihan hyviä kappaleita. Jos radiosta tulee, niin en kanavaa vaihda jatkossakaan.
+Puhuja 4: Joo.
+Puhuja 4: Minä myös katsoin, että minun Spotify
+Puhuja 4: tyytyissä kappaleissa on yhteensä neljä cortplayn kappaletta.
+Puhuja 4: Kyllä ne on kaikki ihan hyviä biisejä.
+Puhuja 4: Ehkä suuremmalla mielenkiinnolla odotan sitä, kun tästä tulee luvut, että
+Puhuja 4: minkä verran rahaa tämä keikka on tuonut meille
+Puhuja 4: ja
+Puhuja 4: Helsingille.
+Puhuja 2: Viitataanko meillä siis Helsinkiin kiinni Suomeen valtioon
+Puhuja 4: turismibisnekseen ja ravintola-alalle ja näin päin pois.
+Puhuja 2: Minkä verran on ulkomaalaisia? Kyllä veikkaan, että oli jonkun verran, koska
+Puhuja 2: nyt tämä on ihan viimeisiä Euroopan keikkoja nyt tällä kiertueella. Jos haluaa Euroopassa nähdä kolbl, niin tämä on vikoja mahdollisuuksia mulle, että nämä liput oli varmaan kohtuuhintaiset myös, jos ne onnistui jostain saamaan. Jos vertaa vaikka, jos olet vaikka britti tai Jenkki. Mutta toisaalta Jenkki ehkä tulisi... No, en tiedä vaan sanoa. Loppuun myyntiinä kuitenkin oli hyvin nopeasti.
+Puhuja 3: Uskon, että se aika pitkälti täytti suomalaisesta, mutta kyllä Helsingin
+Puhuja 3: Sanomatkin olivat haastattelleet
+Puhuja 3: journalismia tehdessään muutamia ulkomaalaisia.
+Puhuja 3: Kyllä se ainakin silloin, kun olin keikalla,
+Puhuja 2: juttu, jossa olette kertoneet,
+Puhuja 2: että miten Boli vielä liittyy teihin vai liittyykö mitenkään, niin saa linkata. Mutta siis se ei
+Puhuja 3: Pakko myöntää,
+Puhuja 3: että tulin kotiin ja puoliso oli
+Puhuja 3: eilen siellä kuuntelemassa. Itse olin tänään. Hän oli toissapäivänä
+Puhuja 3: eilen
+Puhuja 3: ja kysyi, että mikä oli paras biisi? Vastasin,
+Puhuja 3: että on ne kaikki hyvin. Mutta lauloin mukaan ainoastaan yhden kappaleen. Se oli, kun laulettiin J. Karjalaisen, me ollaan sankareita kaikki.
+Puhuja 3: Joka sinne tuli joku suomalainen yhtyä yhdessä Kris Martinin kanssa esittämään,
+Puhuja 3: mikä oli myös hyvin jännittävä osuisi tätä keikkaa.
+Puhuja 3: Ylipäätään hämmentävä
+Puhuja 3: keikka. Kudella, joo. No, ehkä me ollaan riittävästi jauhettanut tästä Code Playsta
+Puhuja 3: sekä tässä podcastissa että edustamassamme
+Puhuja 3: mediassa
+Puhuja 3: yleisemminkin.
+Puhuja 3: Ehkä tähän on hyvä lopettaa. Onko Jumalakummalla vielä joku Naseva
+Puhuja 2: lopetus? Ei, ei. Ei, tämä on
+Puhuja 2: käsitelty.
+Puhuja 3: Nyt
+Puhuja 3: kun te
+Puhuja 3: Coldplay-keikan
+Puhuja 3: jälkeen lähdette harhailemaan
+Puhuja 3: Helsingin yöhön ja
+Puhuja 3: olette juoneet tyhjäksi
+Puhuja 3: keikalla
+Puhuja 3: vesipiste täyttämänne vesipullon
+Puhuja 3: ja sen viimeisiä tippuja siinä juotte keikalta pois kävellessänne, niin
+Puhuja 3: mitäs te suosittelette
 Puhuja 2: sinne tovereille?
-Puhuja 4: Voin suositella vaikka podcastia.
-Puhuja 4: Tällä viikolla ei Amerikan politiikasta puhuttu tämä ei ole Yhdysvalta raportti
-Puhuja 4: podcast,
-Puhuja 4: mutta jos sellaista kaipaa, niin suosittelen
-Puhuja 4: vähän jenkkityyppistä
-Puhuja 4: podcastia. Pod save the World jossa on kaksi Obaman
-Puhuja 4: läheistä avustajaa. Toinen on Obaman entinen neuvonantaja ja toinen oli korkean tason puheen kirjoittaja. Eli tavallaan ihan korkeata kastia ollut Obaman
-Puhuja 4: hallinnassa aikoinaan niin he puhuvat tässä Pudshave the Worldissa maailmanpolitiikkaa
-Puhuja 4: eri kanteilta.
-Puhuja 4: Suomikin on aina silloin tällöin.
-Puhuja 4: Niin Pod save the world ja suosittelen. Heillä on myös toinen podcast Podd Save America, joka ilmestyy joka päivä, kun maailma Podd ilmestyi kerran voigassa. Se Pod save America on myös ihan hyvä, mutta muistan menee kyllä liian ehkä detaljitasolle.
-Puhuja 4: Ehkä nyt vaalien alla on aiheita, mutta tavallaan vuoden ympäri, kun jos sitä kuuntelee, niin tulee kyllä aika sellaista pikkujuttua välillä sieltä
-Puhuja 4: jenkkipolitiikasta.
-Puhuja 4: Se ehkä on niin suomalaisille
-Puhuja 4: mielekästä kuunneltava. Ja ehkä se on myös hyvä mainita, että he ovat myös kyllä räikeän
-Puhuja 4: demokraatteja. Tämä ei ole mitenkään puolueeton podi. Se kyllä
-Puhuja 4: kannattaa pitää mielessä ja se
-Puhuja 4: kyllä myös nousee esiin aika usein. Mutta Bod Save the World maailma politiikkapodi,
-Puhuja 4: niin sisä suositteleille. Löytyy kaikista alustoista.
-Puhuja 3: Kuulostaa hauskalta. Olen ehkä kuullut joskus tuosta podcastista,
-Puhuja 3: mutta pitää
-Puhuja 3: tsekata.
-Puhuja 3: Mulla on
-Puhuja 3: musiikkisuositus,
-Puhuja 3: mutta se ei ole
-Puhuja 3: callplaytä.
-Puhuja 3: Vaan jos joku on katsonut näitä
-Puhuja 3: Olympian
-Puhuja 3: kisoja avajaisia,
-Puhuja 3: jotka siis kestivät neljä tuntia. En itse katsonut niitä kokonaan. Ihan niin hyvä kisakunto
-Puhuja 3: ei tällaisiin
-Puhuja 3: kulttuuritapahtumiin ole, mutta katsoin sieltä ne oleellisimmat pätkät.
-Puhuja 3: Tässä oli siis
-Puhuja 3: näiden avajaisten lopussa
-Puhuja 3: esiintyy Selindiaan.
-Puhuja 3: Hän
-Puhuja 3: Eiffelin
-Puhuja 3: tornissa laulaa Edith Biaffin Hymnin rakkaudelle.
-Puhuja 3: Löytyy tämä esitys kokonaisuudessaan esimerkiksi
-Puhuja 3: YouTubesta, jos hakee Olympics-selindioon,
-Puhuja 3: niin Eurosportin
-Puhuja 3: YouTube-kanavalla
-Puhuja 3: on
-Puhuja 3: se pätkä.
-Puhuja 3: Tämä oli mun mielestä tosi hieno tulkinta
-Puhuja 3: klassikosta.
-Puhuja 3: Ja tämä JAF:n
-Puhuja 3: sanoitus
-Puhuja 3: on mun mielestä tosi kaunis ja varsinkin se
-Puhuja 3: kappaleen
-Puhuja 3: loppuosa on tosi voimakas ja itse ainakin liikutuin
-Puhuja 3: tästä esityksestä.
-Puhuja 3: Tämä voi olla
-Puhuja 3: myös viimeisiä mahdollisuuksia nähdä
-Puhuja 3: Dionin
-Puhuja 3: esityksiä. Hän on hyvin sairas ja on joutunut perumaan
-Puhuja 3: keikkoja, niin oli kyllä tosi yllättävää ja hienoa nähdä hänet siellä.
-Puhuja 3: Eli jos hakee YouTubesta
-Puhuja 3: Olympics-selin
-Puhuja 3: dioon, niin se on EURES-sportin
-Puhuja 3: video
-Puhuja 3: ja sen varmaan löytää myös Yle Areenasta,
-Puhuja 3: jos haluaa Kelailla sieltä.
-Puhuja 4: Miehellä on siis Safel-tornin
-Puhuja 4: tasantella, eikö näin? Kyllä.
-Puhuja 3: Sateessa
+Puhuja 2: Voin suositella vaikka podcastia.
+Puhuja 2: Tällä viikolla ei Amerikan politiikasta puhuttu. Tämä ei ole Yhdysvalta raportti
+Puhuja 2: podcast,
+Puhuja 2: mutta jos sellaista kaipaa, niin suosittelen
+Puhuja 2: vähän jenkkityyppistä
+Puhuja 2: podcastia. Pod save the World jossa on kaksi Obaman
+Puhuja 2: läheistä avustajaa. Toinen on Obaman entinen neuvonantaja ja toinen oli korkean tason puheen kirjoittaja. Eli tavallaan ihan korkeata kastia ollut Obaman
+Puhuja 2: hallinnassa aikoinaan niin he puhuvat tässä Pudshave the Worldissa maailmanpolitiikkaa
+Puhuja 2: eri kanteilta.
+Puhuja 2: Suomikin on aina silloin tällöin.
+Puhuja 2: Niin Pod save the world ja suosittelen. Heillä on myös toinen podcast Podd Save America, joka ilmestyy joka päivä, kun maailma Podd ilmestyi kerran voigassa. Se Pod save America on myös ihan hyvä, mutta muistan menee kyllä liian ehkä detaljitasolle.
+Puhuja 2: Ehkä nyt vaalien alla on aiheita, mutta tavallaan vuoden ympäri, kun jos sitä kuuntelee, niin tulee kyllä aika sellaista pikkujuttua välillä sieltä
+Puhuja 2: jenkkipolitiikasta.
+Puhuja 2: Se ehkä on niin suomalaisille
+Puhuja 2: mielekästä kuunneltava. Ja ehkä se on myös hyvä mainita, että he ovat myös kyllä räikeän
+Puhuja 2: demokraatteja. Tämä ei ole mitenkään puolueeton podi. Se kyllä
+Puhuja 2: kannattaa pitää mielessä ja se
+Puhuja 2: kyllä myös nousee esiin aika usein. Mutta Bod Save the World maailma politiikkapodi,
+Puhuja 2: niin sisä suositteleille. Löytyy kaikista alustoista.
+Puhuja 4: Kuulostaa hauskalta. Olen ehkä kuullut joskus tuosta podcastista,
+Puhuja 4: mutta pitää
+Puhuja 4: tsekata.
+Puhuja 4: Mulla on
+Puhuja 4: musiikkisuositus,
+Puhuja 4: mutta se ei ole
+Puhuja 4: callplaytä.
+Puhuja 4: Vaan jos joku on katsonut näitä
+Puhuja 4: Olympian
+Puhuja 4: kisoja avajaisia,
+Puhuja 4: jotka siis kestivät neljä tuntia. En itse katsonut niitä kokonaan. Ihan niin hyvä kisakunto
+Puhuja 4: ei tällaisiin
+Puhuja 4: kulttuuritapahtumiin ole, mutta katsoin sieltä ne oleellisimmat pätkät.
+Puhuja 4: Tässä oli siis
+Puhuja 4: näiden avajaisten lopussa
+Puhuja 4: esiintyy Selindiaan.
+Puhuja 4: Hän
+Puhuja 4: Eiffelin
+Puhuja 4: tornissa laulaa Edith Biaffin Hymnin rakkaudelle.
+Puhuja 4: Löytyy tämä esitys kokonaisuudessaan esimerkiksi
+Puhuja 4: YouTubesta, jos hakee Olympics-selindioon,
+Puhuja 4: niin Eurosportin
+Puhuja 4: YouTube-kanavalla
+Puhuja 4: on
+Puhuja 4: se pätkä.
+Puhuja 4: Tämä oli mun mielestä tosi hieno tulkinta klassikosta.
+Puhuja 4: Ja tämä JAF:n
+Puhuja 4: sanoitus
+Puhuja 4: on mun mielestä tosi kaunis ja varsinkin se
+Puhuja 4: kappaleen
+Puhuja 4: loppuosa on tosi voimakas ja itse ainakin liikutuin
+Puhuja 4: tästä esityksestä.
+Puhuja 4: Tämä voi olla
+Puhuja 4: myös viimeisiä mahdollisuuksia nähdä
+Puhuja 4: Dionin
+Puhuja 4: esityksiä. Hän on hyvin sairas ja on joutunut perumaan
+Puhuja 4: keikkoja, niin oli kyllä tosi yllättävää ja hienoa nähdä hänet siellä.
+Puhuja 4: Eli jos hakee YouTubesta
+Puhuja 4: Olympics-selin
+Puhuja 4: dioon, niin se on EURES-sportin
+Puhuja 4: video
+Puhuja 4: ja sen varmaan löytää myös Yle Areenasta,
+Puhuja 4: jos haluaa Kelailla sieltä.
+Puhuja 2: Miehellä on siis Safel-tornin
+Puhuja 2: tasantella, eikö näin? Kyllä.
+Puhuja 4: Sateessa
 Puhuja 4: pianistin kanssa. Kyllä suositus. Se oli
-Puhuja 2: hieno esitys. Voin itse myös allekirjoittaa tämän. Se oli hyvin ranskalainen.
-Puhuja 2: Kyllä.
-Puhuja 2: Itse
-Puhuja 2: voisin jäähdytellä,
-Puhuja 2: suositella. Siinä oli pieni vihjaus, että mitä suosittelen kirjaa.
-Puhuja 2: Olin juuri
-Puhuja 2: muutaman päivän, että suljin internetin kokonaan ja retriitillä Kristiinan kaupungissa. Siinä
-Puhuja 2: luin
-Puhuja 2: vähän vaikeampaakin kirjoista, mutta tällainen
-Puhuja 2: japanilaisen
-Puhuja 2: Toschi-Katsu
-Puhuja 2: Cavacutcheen
-Puhuja 2: Ennen kuin kahvi jäähtyy
-Puhuja 2: niminen kirja, joka oli siis,
-Puhuja 2: mulla on tapana aina selkeät, kun luen kirjan, niin käyn kaivamassa, mitä siitä on arvostelussa kirjoitettu.
-Puhuja 2: Helsingin Sanomien kirjastosta Antti Majander oli kirjoittanut, että tämän ei pitäisi olla mahdollista.
-Puhuja 2: Japanilaisromaanissa
-Puhuja 2: kirjoitetaan suurista suruista höyhenen kevyesti. Siinä
-Puhuja 2: olin täysin samaa mieltä siitä, että se on tosi kevyt kirja, helppolukuinen.
-Puhuja 2: Se on näytelmän pohjalta. Alunperin ollut näytelmän, mikä on muutettu romaaniksi.
-Puhuja 2: Kerrotaan tällaisesta kahvilasta,
-Puhuja 2: jossa pystyy aika matkustamaan
-Puhuja 2: menneisyyteen ja tulevaisuuteen
-Puhuja 2: yhdeltä
-Puhuja 2: tuolilta, mikä siinä kahvilassa on. Mutta siihen liittyy kaikenlaisia sääntöjä, että voit matkustaa vain siinä samassa kahvilassa. Kun matkustat menneisyyteen, et saa liikkua siltä penkiltä.
-Puhuja 2: Voit nähdä jonkun tapahtuman
-Puhuja 2: samassa kahvilassa aikaisemmin.
-Puhuja 2: Neljä
-Puhuja 2: lyhyttä tarinaa, jotka nivoutuvat yhdeksi kertomukseksi.
-Puhuja 2: Luin
-Puhuja 2: käytännössä enemmän tai vähemmän yhdeltä istumalta sen kirjan
-Puhuja 2: ja oli
-Puhuja 2: oikein ihastuttava
-Puhuja 2: kepeä hyvän mielen kirja, vaikka siinä olikin tällaisia vakavia aiheita. Sijaitseeko tämä kahvila oikeassa
-Puhuja 4: paikassa?
-Puhuja 4: Tokiossa. Okei.
-Puhuja 2: Se teki mieleni mennä siihen kahvilaan ihan jo sen atmosfäärin
-Puhuja 2: puolesta ilman aikamatkustelun
-Puhuja 2: ominaisuuttakin.
-Puhuja 2: Mutta toki mielelläni myös aikamatkustaisin,
-Puhuja 2: vaikka siinä olikin kaikenlaisia
-Puhuja 2: sääntöjä. Mutta säännöt kannattaa lukea siitä kirjasta.
-Puhuja 2: Lämmin suositus.
-Puhuja 2: Mutta
-Puhuja 2: eiköhän tässä ollut kaikki tällä erää.
-Puhuja 2: Kiitos Rasmus. Kiitos
-Puhuja 2: Oskari. Kiitos. Minun nimeni oli Joona Aaltonen.
-Puhuja 2: Ja te pystytte kuuntelemaan tätä podcastia tai katsomaan, jos jostain sitä katsotte
-Puhuja 2: vaikka YouTubesta tai muualta,
-Puhuja 2: niin sen ansiosta, että upea Janne Erkki hoitaa meidät täältä
-Puhuja 2: maailmalle.
-Puhuja 2: Kiitos Jannelle.
-Puhuja 2: Muistakaa lähettää meille palautetta, että uutisraportti tai vaikka henkilökohtaisiin
-Puhuja 2: sähköpostiosoitteisiin.
-Puhuja 2: Kuullaan taas ensi viikolla.
-Puhuja 3: Helsingin Sanomat.
+Puhuja 3: hieno esitys. Voin itse myös allekirjoittaa tämän. Se oli hyvin ranskalainen.
+Puhuja 3: Kyllä.
+Puhuja 3: Itse
+Puhuja 3: voisin jäähdytellä,
+Puhuja 3: suositella. Siinä oli pieni vihjaus, että mitä suosittelen kirjaa.
+Puhuja 3: Olin juuri
+Puhuja 3: muutaman päivän, että suljin internetin kokonaan ja retriitillä Kristiinan kaupungissa. Siinä
+Puhuja 3: luin
+Puhuja 3: vähän vaikeampaakin kirjoista, mutta tällainen
+Puhuja 3: japanilaisen
+Puhuja 3: Toschi-Katsu
+Puhuja 3: Cavacutcheen
+Puhuja 3: Ennen kuin kahvi jäähtyy
+Puhuja 3: niminen kirja, joka oli siis,
+Puhuja 3: mulla on tapana aina selkeät, kun luen kirjan, niin käyn kaivamassa, mitä siitä on arvostelussa kirjoitettu.
+Puhuja 3: Helsingin Sanomien kirjastosta Antti Majander oli kirjoittanut, että tämän ei pitäisi olla mahdollista.
+Puhuja 3: Japanilaisromaanissa
+Puhuja 3: kirjoitetaan suurista suruista höyhenen kevyesti. Siinä
+Puhuja 3: olin täysin samaa mieltä siitä, että se on tosi kevyt kirja, helppolukuinen.
+Puhuja 3: Se on näytelmän pohjalta. Alunperin ollut näytelmän, mikä on muutettu romaaniksi.
+Puhuja 3: Kerrotaan tällaisesta kahvilasta,
+Puhuja 3: jossa pystyy aika matkustamaan
+Puhuja 3: menneisyyteen ja tulevaisuuteen
+Puhuja 3: yhdeltä
+Puhuja 3: tuolilta, mikä siinä kahvilassa on. Mutta siihen liittyy kaikenlaisia sääntöjä, että voit matkustaa vain siinä samassa kahvilassa. Kun matkustat menneisyyteen, et saa liikkua siltä penkiltä.
+Puhuja 3: Voit nähdä jonkun tapahtuman
+Puhuja 3: samassa kahvilassa aikaisemmin.
+Puhuja 3: Neljä
+Puhuja 3: lyhyttä tarinaa, jotka nivoutuvat yhdeksi kertomukseksi.
+Puhuja 3: Luin
+Puhuja 3: käytännössä enemmän tai vähemmän yhdeltä istumalta sen kirjan
+Puhuja 3: ja oli
+Puhuja 3: oikein ihastuttava
+Puhuja 3: kepeä hyvän mielen kirja, vaikka siinä olikin tällaisia vakavia aiheita. Sijaitseeko tämä kahvila oikeassa
+Puhuja 2: paikassa?
+Puhuja 2: Tokiossa. Okei.
+Puhuja 3: Se teki mieleni mennä siihen kahvilaan ihan jo sen atmosfäärin
+Puhuja 3: puolesta ilman aikamatkustelun
+Puhuja 3: ominaisuuttakin.
+Puhuja 3: Mutta toki mielelläni myös aikamatkustaisin,
+Puhuja 3: vaikka siinä olikin kaikenlaisia
+Puhuja 3: sääntöjä. Mutta säännöt kannattaa lukea siitä kirjasta.
+Puhuja 3: Lämmin suositus.
+Puhuja 3: Mutta
+Puhuja 3: eiköhän tässä ollut kaikki tällä erää.
+Puhuja 3: Kiitos Rasmus. Kiitos
+Puhuja 3: Oskari. Kiitos. Minun nimeni oli Joona Aaltonen.
+Puhuja 3: Ja te pystytte kuuntelemaan tätä podcastia tai katsomaan, jos jostain sitä katsotte
+Puhuja 3: vaikka YouTubesta tai muualta,
+Puhuja 3: niin sen ansiosta, että upea Janne Erkki hoitaa meidät täältä
+Puhuja 3: maailmalle.
+Puhuja 3: Kiitos Jannelle.
+Puhuja 3: Muistakaa lähettää meille palautetta, että uutisraportti tai vaikka henkilökohtaisiin
+Puhuja 3: sähköpostiosoitteisiin.
+Puhuja 3: Kuullaan taas ensi viikolla.
+Puhuja 4: Helsingin Sanomat.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardi,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.

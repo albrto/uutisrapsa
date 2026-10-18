@@ -36,7 +36,7 @@ Puhuja 2: Terve terve. Mä
 Puhuja 0: en ole varmaan
 Puhuja 0: maininnut, en muista.
 Puhuja 0: Meillä sä oot ollut jo useamman
-Puhuja 0: kuukauden töissä Helsingin Sanomissa. Sehän lähtee nyt pakottavasti
+Puhuja 2: kuukauden töissä Helsingin Sanomissa. Sehän lähtee nyt pakottavasti
 Puhuja 2: linkistä.
 Puhuja 2: Multa multa kysyttiin, että milloin sä oot tullut Hesaria, niin mä totetot, että ekaa kertaa about kolme vuotta sitten.
 Puhuja 2: Kiitos Tuomas tästä.
@@ -116,9 +116,8 @@ Puhuja 0: vaan
 Puhuja 0: kuvajaiseksi
 Puhuja 0: jostain toiveiden tynnyristä.
 Puhuja 1: Joku tällainen, näin. Mutta sitten se on menossa.
-Puhuja 1: Perustuslaissa
-Puhuja 1: kaksituhatta voimaan tullessa uudessa perustuslaissa ja siellä presidentin valtaoikeuksia leikattiin dramaattisesti.
-Puhuja 1: Sen takia oli nipsittävä vielä pari tai lisää. Se on siihen faktuaalisesti muuttunut. Nyt on tapahtunut joku ihme
+Puhuja 1: Perustuslaissa kaksituhatta voimaan tullessa uudessa perustuslaissa ja siellä on presidentin valtaoikeuksia leikattiin dramaattisesti.
+Puhuja 1: Sen takia oli nipsittävä vielä pari litraa lisää. Se on ihan faktuaalisesti muuttunut. Nyt on tapahtunut joku ihme
 Puhuja 0: muutos. Missä
 Puhuja 0: Nato, turpot,
 Puhuja 0: urpot ja muut liittyvät tähän, että yhtäkkiä presidentin valta on selkeästi
@@ -135,8 +134,7 @@ Puhuja 0: se ei...
 Puhuja 0: Sen kuuden vuoden välein ihmiset voivat ottaa kantaa siihen, mitä se on tehnyt. Se on tavallaan hyvin epädemokraattista.
 Puhuja 0: Jos presidentti istuu,
 Puhuja 0: jos sillä on valtaa vaikka päättää jostain Natoon,
-Puhuja 0: meneekö hävittäjät Ukrainaan tai jotain tälleen, tai että sillä on valtaa
-Puhuja 0: vaikuttaa Naton sisällä tai tehdä jotain päätöksiä, jotain tälleen näin. Presidentti ei tarvitse
+Puhuja 0: meneekö hävittäjät Ukrainaan tai jotain tälleen, tai että sillä on valtaa vaikuttaa Naton sisällä tai tehdä jotain päätöksiä, jotain tälleen näin. Presidentti ei tarvitse
 Puhuja 0: siitä vastata, paitsi ehkä viiden vuoden päästä vaaleissa
 Puhuja 0: äänestäjälle. Se taas eroaa esimerkiksi pääministeristä, joka joutuu vastaamaan tekosistaan
 Puhuja 0: eduskunnalle koko ajan, joka päivä joutuu vastaamaan.
@@ -157,7 +155,7 @@ Puhuja 1: Nato-huippiin
 Puhuja 1: lähtee
 Puhuja 1: presidentti
 Puhuja 1: ulkoministeriö ja puolustusministeriö ja pääministeriä himaan.
-Puhuja 0: En mä tiedä. Tästä pitää keskustella. No niin, mut ei puhuta nyt.
+Puhuja 1: En mä tiedä. Tästä pitää keskustella. No niin, mut ei puhuta nyt.
 Puhuja 0: Okei,
 Puhuja 0: vielä viimeiseksi.
 Puhuja 0: Tämä on synkkä aihe.
@@ -230,8 +228,8 @@ Puhuja 2: se pointti. Me seurataan
 Puhuja 2: hetki hetkeltä
 Puhuja 2: ja mä en puhu nyt vaan meistä Hesarista, vaan puhun
 Puhuja 2: laajemmin mediasta kotimaisesta ja ulkomaisesta.
-Puhuja 2: Seurataan hetki hetkeltä sitä, mitä tapahtuu. Kirjoitetaan useita, useita juttuja asiasta,
-Puhuja 2: että mitä siellä tapahtuu. Siellä on oikeasti viisi ihmistä,
+Puhuja 2: Seurataan hetki hetkeltä sitä, mitä tapahtuu. Kirjoitetaan useita, useita juttuja asiasta, että
+Puhuja 2: mitä siellä tapahtuu. Siellä on oikeasti viisi ihmistä,
 Puhuja 2: joista oliko se kolme turisteja vai jo anyway. Joka tapauksessa pointtina on se, että sinne on viety turisteja, jotka on
 Puhuja 2: niin, oliko se joku oli käynyt tyyliin avaruudessa. Ja sitten me
 Puhuja 2: ollaan niin kuin me seurataan tällaista
@@ -261,11 +259,11 @@ Puhuja 0: tässä mielessä. Ja sitten tässä näkyy. Puhutaan, että sitten V�
 Puhuja 0: joku paatti, joka on täynnä ihmisiä, ja niitä vaikka kuinka paljon häviää.
 Puhuja 0: Se on niin hämmentävää, että kun se toistuu, se menettää sen merkityksen. Media rakastaa random
 Puhuja 2: yksityiskohtia. Se, että kun on puhuttu tämän sukellusven kohdalla kaikista näistä.
-Puhuja 2: Näin mä luin, että kun Xboxin
-Puhuja 2: pelikonsolin ohjain olisi siellä messissä. Mä en voi uskoa, että tämä on totta, mutta näin on lukenut. Ja sitten kaikki
-Puhuja 2: aluksen osat tois jostain tavallisesta rautakaupasta tyyliin.
-Puhuja 2: Onhan nyt sellaisia
-Puhuja 2: yksityiskohtia, että
+Puhuja 2: Näin mä luin, että kun pelikonsolin
+Puhuja 2: ohjain olisi siellä messissä. Mä en voi uskoa, että tämä on totta, mutta näin on lukenut. Ja sitten kaikki
+Puhuja 2: aluksi sen osat tois jostain tavallisesta rautakaupasta
+Puhuja 2: tyyliin.
+Puhuja 2: Onhan nyt sellaisia yksityiskohtia, että
 Puhuja 2: että media rakastaa
 Puhuja 2: tällaista. On tämmöistä tosi randomia ja jotenkin sellaista, että ei ole mahdollista.
 Puhuja 2: Ja kuitenkin, miten
@@ -310,7 +308,7 @@ Puhuja 1: tässä.
 Puhuja 1: Ja sitten tämä alkaa siitä, että
 Puhuja 1: Bighe oli Ruotsissa keikalla viime kuussa. Bigheksan kehitti
 Puhuja 2: Ruotsin inflaatiota merkittävästi. Mitä sä puhut tästä jutusta?
-Puhuja 1: Se viittaa tähän näin, koska siellä
+Puhuja 1: Se viittaa tähän näin, koska
 Puhuja 1: ja ravintoloiden kysyntä kasvoi niin paljon, että se vaikutti myös maan yleiseen inflaatioon.
 Puhuja 1: Ja
 Puhuja 1: sitten se
@@ -356,8 +354,7 @@ Puhuja 2: niin mä olin silleen, että ei mun mielestä se oli ihan paras. Siis 
 Puhuja 2: että tää
 Puhuja 2: päähenkilö, niin hän haastattelee esineitä. Ja siis se on silleen, keskustellaan muun muassa hän puhuu kahvin kanssa ja sit hän puhuu
 Puhuja 2: servettien kanssa, ja sitten se ei ole silleen,
-Puhuja 2: miten kahvin historia on kehittynyt ja
-Puhuja 2: oliko se otsikko tyynet, että kahvi puhuu vallastaan. Mä en ihan tarkkaan nyt muista. Mutta se, että miksi tämä mun mielestä oli siistiä
+Puhuja 2: miten kahvin historia on kehittynyt ja oliko se otsikko tyyne, että kahvi puhuu vallastaan. Mä en ihan tarkkaan nyt muista. Mutta se, että miksi tämä mun mielestä oli siistiä
 Puhuja 2: tai mikä tässä on siistiä, on se, että
 Puhuja 2: ihmiset aina
 Puhuja 2: tai mun kokemus ihmisistä on se, että me
@@ -382,8 +379,8 @@ Puhuja 0: Tai itse asiassa ihan kirjan loppumetreillä he olivat vaihtaneet Hall
 Puhuja 0: halaistua sanaa. Se näkyy tässä kirjassa, miten
 Puhuja 0: Jokisi Sipilä on joutunut parsimaan kasaan tämmöisen,
 Puhuja 0: miten tämä muka onkin Halla-ahon ja purran, vaikka oikeasti tämä Halla-aho kirja.
-Puhuja 0: Tää kirja oli kiinnostava Persujen
-Puhuja 0: taustat ja mitä siellä puoluetoimistossa
+Puhuja 0: Tää kirja oli kiinnostava Persueentaustat
+Puhuja 0: ja mitä siellä puoluetoimistossa
 Puhuja 0: on tehty ja näin, on ihan valaisevaa ja tällä tavalla. Sitä oli vähän silleen rasittava
 Puhuja 0: lukea, koska
 Puhuja 0: tältä kuulostaa...
@@ -436,7 +433,7 @@ Puhuja 0: pitkä poli tää.
 Puhuja 0: Mun nimi on Tuomas Feltomk.
 Puhuja 0: Äänenä kuvan ja kaiken muun mahtava meille tekee tällä viikolla Janne Elkki. Kiitos, Janne.
 Puhuja 0: Nyt tehdään sillä tavalla, että minä ja Marko jäädään podcastista pois.
-Puhuja 0: Jääks lomalle?
+Puhuja 1: Jääks lomalle?
 Puhuja 1: Viikon päästä. Okei,
 Puhuja 0: jään vasta jos vähän myöhemmin, mutta mulla on kaikkea Excel-hommaa.
 Puhuja 0: Venälä
@@ -445,5 +442,4 @@ Puhuja 0: Sä
 Puhuja 0: ja sitten kesätiimi.
 Puhuja 0: Otatte homma ensi viikosta. Kyllä, meillä on hyvä porukka! Joo, niin on.
 Puhuja 0: Joten mä odotan jännityksellä.
-Puhuja 0: Okei, ja kuullaan siis ensi
-Puhuja 0: viikolla!
+Puhuja 0: Okei, ja kuullaan siis ensi viikolla!

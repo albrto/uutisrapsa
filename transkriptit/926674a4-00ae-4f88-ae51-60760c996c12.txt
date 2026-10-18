@@ -1,6 +1,6 @@
 Puhuja 0: Hei ja tervetuloa Uusi-raportin LpiHuutovaalit-podcastiin.
 Puhuja 0: Minä olen Tuomas Peltomäki-seurassani.
-Puhuja 0: Minulla täällä Salotalon kellari-studiossa on Helsingin Sanomien sunnuntailiitteen
+Puhuja 0: Minulla täällä Sanomatalon kellari-studiossa on Helsingin Sanomien sunnuntailiitteen
 Puhuja 0: toimittaja Marko Junkkari. Terve Marko.
 Puhuja 0: Terve, Tuomas. Mitäs kuuluu?
 Puhuja 0: Älyttömän kivaa olla taas. Kyllä näin on. Tällä viikolla vieraana meillä on kokoomuksen entinen puoluesihteeri kampanja Jyrä ja nykyinen kana Taru Tujunen, terve Taru.
@@ -43,15 +43,16 @@ Puhuja 0: vihreistä kannatti haavista ja neljäkymmentäneljä Niinistää.
 Puhuja 0: Mistä tällainen johtuu?
 Puhuja 1: No tavallaan yksi tapa. Jotenkin nämä presidenttigallupitto minusta
 Puhuja 1: oma taiteenlajinsa,
-Puhuja 1: mutta yksi mitä voi katsoa on se, että mikä on tämän ehdokkaan kannatus suhteessa hänen taustapuolueeseensa.
-Puhuja 0: Eikö nyt se heti niin jotenkin tiedä? Sanotaan näin että Haaviston
+Puhuja 1: mutta yksi mitä voi katsoa on se, että mikä on
+Puhuja 1: tämän... Ehdokkaan kannatus suhteessa hänen taustapuolueeseensa.
+Puhuja 0: Eikö nyt se heti niin jotenkin... Tiedä? Sanotaan näin että Haaviston
 Puhuja 1: kannatus kyselyssä oli yksitoista muistaakseni. Se on kutakuinkin
 Puhuja 1: vihreiden kannatus
 Puhuja 1: ja sitten Saulilla on siellä sfääreissä ja kaikilla muilla
 Puhuja 1: merkittävästi alle. Oma puolueen kannatus.
-Puhuja 1: Tavallaan se, että kannatus on selvästi yli oman puolueen kannatuksen, niin sitten on kyseessä ilmiö. Ja tavallaan Pekka Haavisto kuusi vuotta sitten, niin hänhän sai ensimmäisellä kierroksella
-Puhuja 1: kahdeksantoista
-Puhuja 1: ja jotain. Eka on kumminkin puolitoista kertainen Vihreeen kannatukseen.
+Puhuja 1: Tavallaan se, että kannatus on selvästi yli oman puolueen kannatuksen, niin sitten on kyseessä ilmiö. Ja tavallaan Pekka Haavisto kuusi vuotta sitten, niin hänhän sai ensimmäisellä kierroksella...
+Puhuja 1: Kahdeksantoista
+Puhuja 1: ja jotain.... Eka on kumminkin puolitoista kertainen Vihreeen kannatukseen.
 Puhuja 1: Se oli ilmiö, mutta nyt semmoista ei ole näkyvissä.
 Puhuja 1: Paitsi siis Sauli Niinistö. Kokoomuksen
 Puhuja 0: kannatus tällä hetkellä mitä kaksikymmentä prosenttia. Tuo oli kaksikymmentäkaksi
@@ -69,21 +70,23 @@ Puhuja 0: No
 Puhuja 2: tota,
 Puhuja 2: se on kyllä
 Puhuja 2: hirveän hyvä kysymys.
-Puhuja 2: Luulen, että siinä ei ole mitään yhtä yksiselitteistä vastausta vaan siinä on monta asiaa. Toisaalta
-Puhuja 2: varmaan yleinen analyysi on se, että hän on kohtuullisen hyvin pärjännyt presidenttinä ja ollut suosittu koko ajan matkan varrella.
+Puhuja 2: Luulen, että siinä ei ole mitään yhtä yksiselitteistä vastausta vaan siinä on monta asiaa. Toisaalta tietysti se, että varmaan yleinen analyysi on se, että hän on kohtuullisen hyvin pärjännyt presidenttinä ja ollut suosittu koko ajan matkan varrella.
 Puhuja 2: Ja tietysti se koko tarina mikä liittyy Niinistön
 Puhuja 2: henkilönä on kiinnostavaa ja suomalaiset
 Puhuja 2: pitää sitä kiinnostavana.
-Puhuja 2: Ei
-Puhuja 2: mikä tarina? Onhan siinä jos mietit, että on kaikkea tsunamia ja ensimmäisen vaimon kuolemaa ja
+Puhuja 0: Ei
+Puhuja 2: mikä tarina? Onhan siinä nyt jos mietit, että on kaikkea tsunamia ja ensimmäisen vaimon kuolemaa ja
 Puhuja 2: aika tiukkaa valtiovarainministeriä
-Puhuja 2: ja kaikkea muuta tämmöistä. Siinä on paljon tällaisia asioita mitkä jollain tapaa on
-Puhuja 2: kuitenkin
+Puhuja 2: ja kaikkea muuta tämmöistä. Siinä on paljon tällaisia
+Puhuja 2: asioita mitkä jollain tapaa on kuitenkin
 Puhuja 2: sitten, mitä me odotamme
 Puhuja 2: siltä vahvalta johtajalta tai jotain muuta. Mutta sitten siinä on myös minun mielestä se, että
-Puhuja 2: niin kuin tavallaan niin
+Puhuja 2: niin
 Puhuja 2: eihän
-Puhuja 2: siellä niinku jotenkin sitten ole kukaan onnistunut nousemaan sillä tavalla esille, että olisi jollain tapaa vienyt ne valokeilat ja tuonut itsensä ja saanut jotenkin kansan kääntämään
+Puhuja 2: siellä niinku
+Puhuja 2: tavallaan kukaan onnistunut nousemaan sillä tavalla
+Puhuja 2: esille, että olisi jollain tapaa vienyt ne valokeilat itsensä
+Puhuja 2: ja saanut jotenkin kansan kääntämään
 Puhuja 2: ja miettimään,
 Puhuja 2: onko se mahdollista. Nyt tavallaan
 Puhuja 1: tämän kerran kampanjaa on lähtenyt rakentamaan. Tämä on toisen kierroksen kampanja. Näissä rakennetaan alusta lähtien,
@@ -111,18 +114,16 @@ Puhuja 0: Käytännössä puhutaan presidentin vaalikampanjasta.
 Puhuja 0: Mutta kampanjaa käydään
 Puhuja 0: paitsi siellä
 Puhuja 0: kliseisillä ja sitä kautta uuvuttavilla
-Puhuja 0: turuilla ja toreilla.
-Puhuja 0: Sitten on media,
+Puhuja 0: turuilla ja toreilla,
+Puhuja 0: sitten on media,
 Puhuja 0: jossain määrin sosiaalinen media.
-Puhuja 0: Mitä minä jätän huomiotta? Onko
+Puhuja 0: Mitä minä jätän huomiotta?
+Puhuja 0: Onko
 Puhuja 0: meillä mainoskampanjointi
 Puhuja 2: on osa? Minun mielestäni kampanjointi
 Puhuja 2: rakentuu sillä tavalla, että se lähtee aina erittäin hyvästä toimintaympäristöanalyysista,
 Puhuja 2: joka ei liity vain
-Puhuja 2: ainoastaan ehdokkaaneen vaan ylipäätään siihen poliittiseen toimintaympäristöön,
-Puhuja 2: kilpailijoihin, siihen mitä ajassa on relevanttia ja muuta. Sitten sä tarvitset siihen huippuhyvä strategian
-Puhuja 2: elikkä miten sä taklaat jotenkin niitä asioita, mitkä on sun suurimpia uhkia ja miten sä erottaudut muista ehdokkaista ja muista
-Puhuja 2: puolueista tai mitä vaalien olet kulloinkin tekemässä. Sen jälkeen sinulle tulee siihen päälle taktiikka, joka tarkoittaa sitä strategian jalkauttamista.
+Puhuja 2: ainoastaan ehdokkaaneen vaan ylipäätään siihen poliittiseen toimintaympäristöön, kilpailijoihin, siihen mitä ajassa on relevanttia ja muuta. Sitten sä tarvitset siihen huippuhyvä strategian elikkä miten sä taklaat jotenkin niitä asioita, mitkä on sun suurimpia uhkia ja miten sä erottaudut muista ehdokkaista ja muista puolueista tai mitä vaalien olet kulloinkin tekemässä. Sen jälkeen sinulle tulee siihen päälle taktiikka, joka tarkoittaa sitä strategian jalkauttamista.
 Puhuja 2: Sitä,
 Puhuja 2: että minkälaisia valintoja sä teet jossain
 Puhuja 2: ilmeissä tai
@@ -141,37 +142,35 @@ Puhuja 2: näin se
 Puhuja 1: rakentuu.
 Puhuja 1: Mikä
 Puhuja 1: puolueen rooli tässä kaikessa on? Tuntuu, että tässä puhuttiin äsken Niinistöstä ja Haavisto.
-Puhuja 1: Molemmathän ovat käytännössä, niinistä on ihan oikeasti irti puolueista kun silloin
+Puhuja 1: Molemmathän ovat käytännössä. Niinistö on nyt ihan oikeasti irti puolueista kun silloin
 Puhuja 1: on tämä valitsijayhdistys,
 Puhuja 1: mutta Haavisto ei nyt, eikä viimeksikään, se on täysin irti vihreistä,
 Puhuja 1: kampanja johdetaan ihan fyysisestikin muualta.
-Puhuja 1: Käytännössä kaikki muutkin
-Puhuja 1: ehdokkaat
-Puhuja 1: paria poikkeusta lukuun ottamatta toimivat
-Puhuja 1: ilman puoluetta.
+Puhuja 1: Käytännössä kaikki
+Puhuja 1: muutkin ehdokkaat paria poikkeusta lukuun ottamatta toimivat ilman
+Puhuja 1: puoluetta.
 Puhuja 1: Kiinnostavaa kyllä.
 Puhuja 2: Onhan presidentinvaalit aina ollut puolueista
 Puhuja 2: vähän irrallaan, koska sinun pitää yrittää saada
 Puhuja 2: puolet äänestäjäkunnasta
-Puhuja 2: eikä meillä minkään puolueen kannatus ole ole niin iso, niin se on joutunut aina pelaamaan
-Puhuja 2: irti siitä puolueesta. Faktisestihan toki sitten on myös niin, että totta kai ne puolueet ovat olleet niitä kampanja moottoreita monta kertaa, koska niillä on olemassa
+Puhuja 2: eikä meillä minkään puolueen kannatus ole
+Puhuja 2: ole niin isoa, niin se on joutunut aina pelaamaan irti siitä puolueesta. Faktisestihan toki sitten on myös niin, että totta kai ne puolueet ovat olleet niitä kampanja moottoreita monta kertaa, koska niillä on olemassa
 Puhuja 2: organisaatio
-Puhuja 2: ja kaikki tämän tyyppistä. Jalkakapare.
-Puhuja 2: Kyllä, juuri näin.
-Puhuja 2: Kun tarjotaan vetämään paria jakamaan flyereita niin sulla on ollut se porukka siellä takana. No, minä itse asiassa tuossa just mietin sitä,
+Puhuja 2: ja kaikki tämän tyyppistä. Jakapare-ajan.
+Puhuja 2: Kyllä, juuri näin. Kun tarjotaan vetämään paria jakamaan flyereita niin sulla on ollut se porukka siellä takana. No minä itse asiassa tuossa just mietin sitä,
 Puhuja 2: että kaksi edellisen vaikkapa presidentinvaaleissa,
 Puhuja 2: niin paljonhan esimerkiksi
 Puhuja 2: valtakunnan muut poliitikothan ovat näkyneet niissä. Sinä näet
 Puhuja 2: kansanedustajat jalkautuvat toreilleen. Muistan joskus silloin kun Sauli Niinistö oli sitä ensimmäistä kampanjaa ja tehtiin kaksituhatta kuusi, niin Bentyskuvisohan oli oma kiertue ja kaikkea tällaista.
 Puhuja 2: Niin se jotenkin puuttuu näistä vaaleista.
-Puhuja 2: Paitsi että tietysti ne puolueetunnukset ovat pois, joka ei ole minusta se erottava tekijä, mutta jotenkin se semmoinen, että esimerkiksi pääministeri vaikkapa tekisi oman
-Puhuja 2: puolueensa
-Puhuja 2: presidentinvaaliehdon
-Puhuja 2: kampanjaa jossakin tuolla, niin sitä ei näy missään. Koska jos se on laskettu, että se on aivan rahanheittämistä hukkaa Se on mahdollista. Niin, minä lähden rahaa käyttää. Niin, minä luulen myös, että se on toki mahdollista näin. Näin se on. Niin, minä sanon jollekin kansanedustajalle, joka on äärikiirinen ihminen muutenkin.
-Puhuja 2: Ehdokkaita ja muita. Mutta näissä vaaleissa jotenkin ehkä se ja minä en tiedä, että johtuuko se siitä, mutta tietysti yksi ajatus, joka siitä väistämättä nousee mieleen on se, että tämä Niinistön
-Puhuja 2: valinta olla
-Puhuja 2: asettumatta
-Puhuja 2: puolueehdokkaaksi on generoinut sentyyppistä ajattelua tosiasiallisesti muuallekin.
+Puhuja 2: Paitsi että tietysti ne puolueetunnukset ovat pois, joka ei ole minusta se erottava tekijä, mutta jotenkin se semmoinen, että
+Puhuja 2: esimerkiksi pääministeri vaikkapa tekisi oman
+Puhuja 2: puolueensa presidentinvaaliehdon
+Puhuja 2: kampanjaa jossakin tuolla, niin sitä ei näy missään. Koska jos se on laskettu, että se on aivan rahanheittämistä hukkaa... Se on mahdollista.
+Puhuja 2: Näin me ei millään rahaa käyttää. Niin, minä luulen myös, että se on toki mahdollista näin. Näin se on. Niin, minä sanon jollekin kansanedustajalle, joka on äärikiireinen ihminen muutenkin,
+Puhuja 2: ehdokkaita ja muita. Mutta näissä vaaleissa jotenkin ehkä se ja minä en tiedä, että johtuuko se siitä, mutta tietysti yksi ajatus, joka siitä väistämättä nousee mieleen on se, että tämä Niinistön
+Puhuja 2: valinta olla asettumatta
+Puhuja 2: puolueehdokkaaksi on generoinut sen ajattelua tosiasiallisesti muuallekin.
 Puhuja 2: Ollaan otettu vielä enemmän
 Puhuja 2: pesäeroa puolueisiin kuin
 Puhuja 2: aikaisemmissa vaaleissa on ollut.
@@ -183,11 +182,13 @@ Puhuja 1: Johtuuko tämä myös siitä, että jos katsoo vaikka SDP:tä ja
 Puhuja 1: keskusta
 Puhuja 1: ja
 Puhuja 1: molempien
-Puhuja 1: isojen puolueiden ehdokkaat on toisen kannalta olevissa kaksi, ja molemmissa kaksi.
-Puhuja 1: Olen tämmöisessä tilanteessa niin onko sillä pääministerillä tai puolueen puheenjohtajalla, onko sillä kauheaa halua sitoa itsensä
-Puhuja 2: tavallaan uppoavan ehdokkaan narulaisen jalkaan? Että tässä on myös ehkä tarkoituksella Ymmärrän, mutta toisaalta on se, että jos tuohon lähdetään, niin seuraavalla kerralla sen on tosi vaikea löytää myöskään ehdokasta.
-Puhuja 1: Aika vaikeaa se oli esimerkiksi demarille
-Puhuja 2: nytkin. Mutta se on tosi kova vaalidi. Että jos te mietitte, että sä käyt monta kuukautta kampanjaa,
+Puhuja 1: isojen puolueiden ehdokkaat on toisen kannalta olevissa kaksi, ja molemmissa
+Puhuja 1: kaksi.
+Puhuja 1: Olen tämmöisessä tilanteessa niin onko sillä pääministerillä
+Puhuja 1: tai puolueen puheenjohtajalla, onko sillä kauheaa halua sitoa itsensä
+Puhuja 1: tavallaan uppoavan ehdokkaan narulaisen jalkaan?
+Puhuja 2: En ymmärrä, että on mutta toisaalta on se, että jos tuohon lähdetään, niin seuraavalla kerralla sen on tosi vaikea löytää myöskään ehdokasta.
+Puhuja 2: Aika vaikeaa se oli esimerkiksi demarille nytkin. No nyt se oli aika vaikeata tietysti demarille nytkin, mutta se on tosi kova vaalidi. Että jos te mietitte, että sä käyt monta kuukautta kampanjaa,
 Puhuja 2: jossa sun vaalipiiri on koko Suomi, sun pitäisi olla liikenteessä koko ajan, sun pitäisi aina onnistua kaikissa tenteissä ja muuta, niin se on hirveän kuluttava
 Puhuja 2: kampanja.
 Puhuja 2: Ja sen takia mä en yhtään ihmettele sitä, että ehdokkaiden löytäminen on tosi vaikeaa. Ja jos sen alkaa näyttäytymään vielä siltä,
@@ -196,10 +197,10 @@ Puhuja 1: esimerkki hyvästä kampanjasta ja miksi se oli hyvä?
 Puhuja 2: No kyllä minusta yksi hienoimmista kampanjoista, mitä minä olen ollut seuraamassa
 Puhuja 2: ehkä koskaan, niin
 Puhuja 2: oli kyllä silloin kun Ruotsin moderaatit tekivät kaksituhatta
-Puhuja 2: kuusi sitä uusi työväenpuolue kampanjan. Se oli kyllä Mikä te kopsat
+Puhuja 2: kuusi sitä uusi työväenpuolue kampanjan. Se oli kyllä... Mikä te kopsat
 Puhuja 2: sitten? Eihän se sitten siellä? Eihän se? No
 Puhuja 1: eikö ollut täällä? Me tehtiin kaksituhatta seitsemän. Mehän mentiin Suomen Toivo kampanjalla. Eikö se ollut työväen presidentti jo siellä perässä?
-Puhuja 1: Ei se nyt ihan noin. No on noin. Eikä mennyt.
+Puhuja 2: Ei se nyt ihan noin. No on noin. Eikä mennyt.
 Puhuja 2: Mutta se oli joka tapauksessa hieno kampanja. Jos mietitään tavallaan sitä, että puolue muuttaa identiteettiä, niin sehän oli tosi pitkä se projekti minkä he tekevät. Sehän ei ollut mitään ihan
 Puhuja 2: miniatyyrihomma
 Puhuja 2: vaan se kesti varmaan kaksi vuotta.
@@ -251,7 +252,7 @@ Puhuja 2: jotka
 Puhuja 2: niin
 Puhuja 2: kuin että joku aikakausi vain päättyy.
 Puhuja 2: Samalla tavalla kuin minun mielestä Kaarina
-Puhuja 2: Hhaastatst sanoi jossain tosi hyvin, että se aikakausi vain päättyi, jolloin kukaan poltti tupakkaa sisällä.
+Puhuja 2: Hhaastatt sanoi jossain tosi hyvin, että se aikakausi vain päättyi, jolloin kukaan poltti tupakkaa sisällä.
 Puhuja 2: Tämä on saman tyyppinen juttu.
 Puhuja 2: Se, että se tuli niin voimallisesti,
 Puhuja 2: on pikemminkin se yllättävä juttu. Sosiaalinen media teki siitä niin näkyvän ja
@@ -269,11 +270,10 @@ Puhuja 2: Ja miksei medioitakin ympäri maailmaa. Sehän tekee maailmasta täll�
 Puhuja 2: kiinnostavan ja vauhdikkaan.
 Puhuja 1: Marko.
 Puhuja 1: Varmaan puhuisin, vaikka kukaan ei jaksa puhua siitä, mutta Michael Walthin Fire and Fire kirja, tämä uusi Trump kirja, ja ostin sen heti silloin perjantaina kun se oli saatavilla.
-Puhuja 1: Amazonista vähän. Ne
+Puhuja 2: Amazonista vähän. Ne
 Puhuja 1: Sen kyllä huomaa, että kaikki parhaat palat on tullut median kautta,
 Puhuja 1: eivät siinä kirjassa. Se on minusta niin
-Puhuja 1: kuin
-Puhuja 1: sehän ei ole vaan kirja, mutta siinä on taas niin monta eri asiaa. Tavallaan
+Puhuja 1: kuin... Sehän ei ole vaan kirja, mutta siinä on taas niin monta eri asiaa. Tavallaan
 Puhuja 1: se on ihan hyvä kirja ensinnäkin. Oli hauska lukea ja siinä on paljon muutakin kuin näitä juoruja ja on hyvä analyysiä.
 Puhuja 1: Mutta toisaalta sitten olen lukenut Micke Fling kirjoja
 Puhuja 0: aikaisemminkin. Mitä muuta se on kirjoittanut? Muun muassa Murdokista,
@@ -284,7 +284,7 @@ Puhuja 1: Overil.
 Puhuja 1: Tämähän on yksi ihmeellinen, että miten Trump sen,
 Puhuja 1: ja miten se Trump sen
 Puhuja 1: toimittaja se on, ja hänellä on vähän tämmöistä hyperbolaa. Hän
-Puhuja 1: kääntyi yllättävän nopeaa. Hän itsekin myöntää,
+Puhuja 0: kääntyi yllättävän nopeaa. Hän itsekin myöntää,
 Puhuja 1: että hän tykkää juoruista ja ennen kaikkea kerikkäitä ihmisiä koskevista juoruista, ja hän käyttää niitä häikäilemättömästi.
 Puhuja 1: Samaan aikaan keskustellaan siitä, että miksi tarvitaan
 Puhuja 1: mediatoimittaja,
@@ -388,7 +388,7 @@ Puhuja 0: käynnistää
 Puhuja 0: hormonitoimintoja tietyllä tavalla, jotka
 Puhuja 0: noin teini-iän loppuun
 Puhuja 0: mennessä tekee sinusta
-Puhuja 0: viime Silloin vasta sä oot mies tai nainen, kun sä oot käynyt sen teini tai murrosijan ihan loppuun.
+Puhuja 0: viime... Silloin vasta sä oot mies tai nainen, kun sä oot käynyt sen teini tai murrosijan ihan loppuun.
 Puhuja 0: Sitä kautta, kun se ymmärtää sen geneettisen
 Puhuja 0: perustan, miten ne geenit siellä toimii. Silloin kun sä oot kahdeksan, niin tämä geeni käynnistää tämän hormonin tuotannon,
 Puhuja 0: joka
@@ -399,7 +399,7 @@ Puhuja 0: ei kahdeksan-vuotiaana
 Puhuja 0: käynnisty. Joten sulle ehkä
 Puhuja 0: tulee myöhemmin semmoinen olo, että sulla
 Puhuja 0: sille
-Puhuja 0: vähän
+Puhuja 0: vähän insinöörimäisellä tavalla lähteä tekemään. Ja se on
 Puhuja 0: Sitten annat mukerje
 Puhuja 0: The Geen and Intimet History.
 Puhuja 0: Näin. Hyvä, siinä oli kaikki tältä viikolta. Palataan ensi viikolla sekä täällä Facebookissa

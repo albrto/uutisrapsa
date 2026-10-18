@@ -13,13 +13,12 @@ Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 2: Helsingin Sanomat.
-Puhuja 3: Hei ja tervetuloa
-Puhuja 3: uutisraportti-podcastiin
-Puhuja 3: torstaina kymmenen. Heinäkuuta
-Puhuja 3: kaksituhatta
+Puhuja 3: Hei ja tervetuloa uutisraportti-podcastiin
+Puhuja 3: torstaina kymmenen. Heinäkuuta kaksituhatta
 Puhuja 3: kaksikymmentäviisi keskelle varsin rauhallista uutiskesää.
 Puhuja 3: Nimeni on Rasmus Alaniemi ja mukanani täällä Sanomatalon seiskakerroksen
-Puhuja 3: hienossa ja tilavassa studiossa kauniin aurinkoisen sään ulottumattomissa
+Puhuja 3: hienossa ja tilavassa studiossa
+Puhuja 3: kauniin aurinkoisen sään ulottumattomissa
 Puhuja 3: ovat huippukesämin
 Puhuja 3: huipputoimittajat.
 Puhuja 3: Nimittäin
@@ -64,19 +63,20 @@ Puhuja 3: joka jäi minulta viime jaksossa tyystin mainitsematta.
 Puhuja 3: Kiitos ja anteeksi Jonne.
 Puhuja 3: Ukrainan ja Yhdysvaltojen välisissä suhteissa nähtiin heinäkuun alussa jälleen äkkinäisiä käänteitä, kun Yhdysvallat keskeytti jälleen Ukrainan annettavan aseavun, mutta sitten lupailikin saman tien Ukrainalle lisää puolustuksellista aseistusta.
 Puhuja 3: Mediatietojen mukaan
-Puhuja 3: keskeytykseen oli määrännyt puolustusministeri Pet Hegessäh,
+Puhuja 3: keskeytyksen oli määrännyt puolustusministeri Pet Hegessäh,
 Puhuja 3: mutta presidentti
 Puhuja 3: Donald Trump ei olisi ollut tietoinen edes koko asiasta.
 Puhuja 3: Trump oli puhunut Ukrainan presidentti Volody Mir Zelenskyin kanssa samoihin aikoihin ja luvannut samoihin aikoihin maalle lisää aseita.
 Puhuja 3: Heggets on siis sama mies, joka aiheutti keväällä kohoa lisäämällä diat läntiklehden päätoimittajan salaisen viestiryhmään, jossa sovittiin ja koordinoitiin ilmaiskuja ja meni.
 Puhuja 3: Muutenkaan Trumpin hallinto ei vaikuta kovin koordinoidilta. Maalla ei tällä hetkellä ole kovin toimintakykyisten kansallisen turvallisuuden neuvostoa.
-Puhuja 3: Esim. The New York Timesin mukaan maan ulkoministeri Marko Rubio ja Venetsuollan suurlähettiläs Richard Greenel kävivät alkuvuodesta
+Puhuja 3: Esim. The New York Timesin mukaan maan ulkoministeri Marko Rubio ja Venetsuolan suurlähettiläs Richard Greenel kävivät alkuvuodesta
 Puhuja 3: täysin erillisiä neuvotteluja saman venetuolaisedustajan
 Puhuja 3: kanssa kaiketi toisistaan tietämättä.
 Puhuja 3: Miljareri Elon Maxtaa sekoittaa sisäpolitiikkaa perustettuaan uuden Amerikkapuolueen eli Amerikkapartin.
 Puhuja 3: Lisäksi
 Puhuja 3: paljoa ei kuitenkaan puolueista tiedetä ja ennusmerkit puolueelle ovat kehnot.
-Puhuja 3: Turun yliopiston Yhdysvaltoihin perehtynyt tutkija Oscar Bimberg sekä poliittisen historian professori Vesa Vares dumasivat hesarjutusta puolueen melko lailla
+Puhuja 3: Turun yliopiston
+Puhuja 3: Yhdysvaltoihin perehtynyt tutkija Oscar Bimberg sekä poliittisen historian professori Vesa Vares dumasivat hesarjutusta puolueen melko lailla
 Puhuja 3: kuolleeksi jo syntyä sikojutusta häiritsee erilaisia harhaanjohtavia sikoja.
 Puhuja 3: Niitä ovat piikkisika,
 Puhuja 3: joka on siis oikeasti jyrsijä.
@@ -114,13 +114,13 @@ Puhuja 4: mahtava suuri halpakauppajätti
 Puhuja 4: netissä. Se on täynnä kaikkia kapibara-fanituotteita.
 Puhuja 4: Niistähän tuli jo juttu. Kaikille tiedoksi se. Esimerkiksi
 Puhuja 4: tällainen karvainen kapibara reppu oli siellä.
-Puhuja 4: Mun on pakko mainita myös tässä... Ottiko kaupallista yhteistyötä vai? Ei
+Puhuja 4: Mun on pakko mainita myös tässä... Kapibodappyö
+Puhuja 4: vai? Ei
 Puhuja 1: kaupallisessa. Se on Hannan Temun kauppa sitten. Ei kaupallisessa yhteistyössä
 Puhuja 4: Temun kanssa.
-Puhuja 4: Mutta
-Puhuja 4: vähän kuitenkin mainostamme.
+Puhuja 4: Mutta vähän kuitenkin mainostamme.
 Puhuja 4: Pakko mainita kuitenkin tämä, koska
-Puhuja 4: tässä
+Puhuja 4: tässä on muun muassa
 Puhuja 4: on saanut Jonilta luvan tämän asian jakamiseen.
 Puhuja 4: Jutussa mainittiin, että
 Puhuja 4: just kapibara on tynnyrimäisen
@@ -151,7 +151,7 @@ Puhuja 4: Pig.
 Puhuja 1: Ja
 Puhuja 1: ne tunnistaa toisensa voimakkaasta hajustaan.
 Puhuja 1: Vähän niin kuin minä ja ystäväni meni.
-Puhuja 2: Hyvä, että sanoi sen, ettei mun tarvitse. Sitten
+Puhuja 2: Hyvä, että sanoi sen, ettei minun tarvitse. Sitten
 Puhuja 1: piikkisika, joka toki
 Puhuja 1: tässä
 Puhuja 1: tässä
@@ -182,18 +182,16 @@ Puhuja 1: koska siinä voit sytyttää ja lähettää
 Puhuja 1: vihollisen kimppuun.
 Puhuja 1: Oikeeita sikoja
 Puhuja 1: ei ole. Toivottavasti satutettu
-Puhuja 1: pelinteossa
-Puhuja 1: saadakseen tämän
+Puhuja 1: pelinteossa saadakseen tämän
 Puhuja 1: sikarrillauksen
 Puhuja 1: toteutettua, mutta ystäväni Aino myös keksi, mikä on ilmasika. Sehän on
 Puhuja 1: Studio Glimborkorossa,
 Puhuja 1: joka on mieluummin sika kuin fasisti, niin kuin myös minä.
-Puhuja 4: Mun
-Puhuja 4: kakkonen on vielä
+Puhuja 4: Mun kakkosossa on vielä
 Puhuja 4: kaksi mahtavaa pointtia tuosta jutusta. Tai no yksi mahtava pointti jutusta ja yksi pointti, joka on minunias. Se ei ehkä ole niin mahtava.
 Puhuja 4: Mutta tässä jutussa mainitaan näin, että kun maasika ei ole sika, suositellaan
-Puhuja 4: häntä nykyään kutsuttavaksi termiittikaivajaksi,
-Puhuja 4: niin
+Puhuja 4: häntä nykyään
+Puhuja 4: kutsuttavaksi termiittikaivajaksi, niin
 Puhuja 4: Ja sitten toinen
 Puhuja 4: tällainen upea lisäys oli siis, kun halusin jotenkin koittaa, miten uutisraporttia ja kapibaarran liittyy yhteen, niin kysyin
 Puhuja 4: ChatGPT:ltä.
@@ -222,7 +220,7 @@ Puhuja 1: ensinnäkin, sieltä on ollut tosi tärkeitä eläimiä. Nehän on sii
 Puhuja 1: kesytetty ihminen. Eli siellä on vuohet, siellä on lampaat, jonka jälkeen ble siat. Siat on erityisesti ollut tietty ruokaeläimiä.
 Puhuja 1: Eli vuohet ja lampaat tuottaa maitoa. Vuohet tuottaa maitoa.
 Puhuja 1: Ja lampaat tuottaa villaa.
-Puhuja 1: Mutta sian tärkein tuotanto on ollut se liha. Joten kun on lähdetty syömään
+Puhuja 1: Mutta sian tärkein tuotanto on ollut se liha. Joten sitten kun on lähdetty syömään
 Puhuja 1: erilaisia eläimiä,
 Puhuja 1: niiden nimeäminen sijaksi on ollut helppoa.
 Puhuja 1: Vähän niin kuin ihmistä kutsutaan
@@ -232,8 +230,8 @@ Puhuja 1: fiktiossa.
 Puhuja 1: Itsehän en ole harrastanut kannibalismia.
 Puhuja 1: Tärkeä disclaimer.
 Puhuja 1: Toisaalta myös eläinten käytös.
-Puhuja 1: Eli osittain se, miltä ne näyttää, kuten vaikkapa Pekari. Nyt näyttää
-Puhuja 1: siltä. Se on myös sorkkaeläin taikka pyöriinen, joka on melko sikamainen olento, niin sehän nyt tietty
+Puhuja 1: Eli osittain se, miltä ne näyttää, kuten vaikkapa Pekari
+Puhuja 1: nyt näyttää siltä. Se on myös sorkkaeläin taikka pyöriinen, joka on melko sikamainen olento, niin sehän nyt tietty
 Puhuja 1: merkitsee sitä,
 Puhuja 1: että kutsutaanko sijaksi.
 Puhuja 1: Mutta sitten myös esimerkiksi käytös,
@@ -245,8 +243,7 @@ Puhuja 1: jötkäleet
 Puhuja 1: helposti
 Puhuja 1: myös nimetään sijaksi, mikäli ne käyttäytyvät sikojen
 Puhuja 1: tavalla. Sekä myös yleinen ulkonäkö, jonka takia mies on myös sika.
-Puhuja 4: Siinä on
-Puhuja 1: hyvä päättää.
+Puhuja 4: Siinä on hyvä päättää.
 Puhuja 3: Ja kävelin
 Puhuja 3: naapuripuiston läpi
 Puhuja 1: Totta,
@@ -261,7 +258,7 @@ Puhuja 1: Jenkeistähän on tämä vitsiä, että sulla on
 Puhuja 1: kymmeniä sikoja, joka on tosi hassu lause, kun näet sen sikalauman tuhoamassa viljelykset.
 Puhuja 1: Ja Yhdysvalloissa pitää metsästää sikalaumoja
 Puhuja 1: helikoptereista.
-Puhuja 1: Muuten ne haittaa maanviljelystä niin paljon. Niin varmaan. Ne vähän haluaa pusskikoida.
+Puhuja 3: Muuten ne haittaa maanviljelystä niin paljon. Niin varmaan. Ne vähän haluaa pusskikoida.
 Puhuja 1: Nääkin on todennäköistä myös.
 Puhuja 1: Mutta siis
 Puhuja 1: sijat sitten, kun ne villiintyy ja ne pääsee pois lätistä,
@@ -277,8 +274,9 @@ Puhuja 3: Kun istut bussissa ja mietit sikojan vieressä istuu joku ihminen ja s
 Puhuja 3: sieltä mielessäsi?
 Puhuja 1: Sikoja.
 Puhuja 1: Tässä mainittiinkin
-Puhuja 1: jo Geebly-leffat
-Puhuja 1: meitsen toimesta
+Puhuja 1: jo Geebly leffat
+Puhuja 1: meitsen
+Puhuja 1: toimesta
 Puhuja 1: eli porko Rosso.
 Puhuja 1: Suosittelen oma suosikkini myös prinsessa Mono-Noke.
 Puhuja 1: Mutta kesäisemmällä
@@ -306,7 +304,7 @@ Puhuja 1: Ja
 Puhuja 1: Idässä eletään täysin sivilisaation ulkopuolella
 Puhuja 1: niin mä voisin suositella Vuosaaren huippua.
 Puhuja 1: Siinä samalla kun sieltä tuskin saa itseasiassa Helsingin
-Puhuja 1: Jätleitä tai Jätlitä. Mutta se on siis rakennettu
+Puhuja 1: jäätelölehteä tai jäätelölehteä. Mutta se on siis rakennettu
 Puhuja 1: jätemaalle
 Puhuja 1: jätteestä
 Puhuja 1: sekä myös muusta romusta Vuosaaren tosi iso kukkula. Sieltä näkee kivasti Vuosaaren sataman, sieltä näkee Helsingin keskustaan asti hyvänä päivänä sekä Porvoon
@@ -321,7 +319,8 @@ Puhuja 2: Netflixistä on katsonut kaksi todella mun mielestä mielenkiintoista 
 Puhuja 2: joka kaksi kesää
 Puhuja 2: Oceangate
 Puhuja 2: Suelltanen, joka oli viemässä turisteja Titanicin
-Puhuja 2: hyllylle. Ja tosiaan siitä seuraavasta onnettomuudesta ja etsinnästä.
+Puhuja 2: hyllylle. Ja tosiaan siitä
+Puhuja 2: seuraavasta onnettomuudesta ja etsinnästä.
 Puhuja 2: Siinä oli hyvin mielenkiintoisia juttuja. Toinen ihan yhtä piirteellä teemalla Lontoon pommi-iskun
 Puhuja 2: tekijöiden jäljillä jäljillä
 Puhuja 2: oleva dokumenttisarja oli myöskin Netflixissä.
@@ -347,9 +346,8 @@ Puhuja 4: koiraa, niin sitten vieressä on semmoinen
 Puhuja 4: tassuikoni.
 Puhuja 4: Ja kun siitä painaa,
 Puhuja 4: niin siihen ruudulle tulee koiran taas.
-Puhuja 4: Ja sitten kuluu huhhuh. Ja sitten näin.
-Puhuja 1: Ja sitten
-Puhuja 4: kuuluu
+Puhuja 4: Ja sitten kuluu huhhuh. Ja sitten ja
+Puhuja 4: sit siitä kuuluu huhhuh! Ja sitten kun
 Puhuja 4: kun on silleen, että nyt voisi tehdä jotain muuta, niin sitten siinä on
 Puhuja 4: x siinä alhaalla ja sitten kun siitä painaa, niin sitten vesi tulee siitä ja se puhdistaa näytön.
 Puhuja 4: Tämä on minusta aika hauska.

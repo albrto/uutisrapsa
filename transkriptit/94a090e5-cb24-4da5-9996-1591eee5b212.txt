@@ -30,9 +30,9 @@ Puhuja 0: Boshop Boses.
 Puhuja 0: Suomen pelätyimpiä
 Puhuja 0: journalisteja
 Puhuja 0: Salla Vuorikoski.
-Puhuja 0: Moi!
+Puhuja 1: Moi!
 Puhuja 0: Ja paikalla meillä täällä on myös
-Puhuja 0: politiikkaa
+Puhuja 0: politiikkaa.
 Puhuja 0: Helsingin Sanomista toimittava Marko Junkkari!
 Puhuja 0: Ja koska ollaan koko ryhmityksellä
 Puhuja 0: niin viimeisenä
@@ -60,18 +60,15 @@ Puhuja 0: katastrofaalisia
 Puhuja 0: kaikkien muiden paitsi Venäjän kannalta, ja sen jälkeen Euroopan johtajat parahtaa
 Puhuja 0: Washingtoniin,
 Puhuja 0: soittaa Trumpille
-Puhuja 0: ja yrittää puhua Trumpin pään ympäri.
-Puhuja 0: Mitä on meneillään ja miten tämä kuvio voi jatkuvasti
+Puhuja 0: ja yrittää puhua Trumpin pään ympäri. Mitä on meneillään ja miten tämä kuvio voi jatkuvasti
 Puhuja 0: toistua samanlaisena,
 Puhuja 0: kuka tällä tavoittelee
 Puhuja 0: ja mitä keskustellaan
-Puhuja 0: siitä? Ja toki myös tästä viimeisimmästä niin kutsutusta
-Puhuja 0: rauhansuunnitelmasta,
+Puhuja 0: siitä? Ja toki myös tästä viimeisimmästä niin kutsutusta rauhansuunnitelmasta,
 Puhuja 0: joka alkoi 28-kohtaisena
 Puhuja 0: ja supistui yhdeksäntoista kohtaiseksi.
 Puhuja 0: Haluan puhua myös siitä, miksi ei ole minkään näköistä
-Puhuja 0: eurooppalaista
-Puhuja 0: aloitetta, koko tänä aikana tullut
+Puhuja 0: eurooppalaista aloitetta, koko tänä aikana tullut
 Puhuja 0: kertaakaan
 Puhuja 0: sellaista, että Eurooppa olisi itse sanonut, että näin me tehdään, tää on tää homman nimi, missä se viipy, miten se ei tule.
 Puhuja 0: Ja puhutaan tässä yhteydessä myös siitä, että mitenkä hän mahtaa käydä
@@ -102,7 +99,7 @@ Puhuja 0: myös
 Puhuja 0: sellaisista vibysta,
 Puhuja 0: missä Suomi on
 Puhuja 0: meneillään, mitä me voidaan ajatella.
-Puhuja 0: Ei tarvi olla rakentava koska rakentava journalismi on vähän semmonen,
+Puhuja 0: Ei tarvi olla rakentava, koska rakentava journalismi on vähän semmonen,
 Puhuja 0: otetaan jotain mikä on hienoa amerikkalaisessa yläluokassa.
 Puhuja 0: What the curious question.
 Puhuja 0: Ja sit hän vaan laittoi linkin
@@ -120,8 +117,7 @@ Puhuja 0: Pähkinä, joo, pähkinä on aika hyvä, sanoisin pulma.
 Puhuja 0: Kysymys, johon ei ole oikeaa vastausta,
 Puhuja 0: on se määritelmä, tai minun tekemän määritelmä.
 Puhuja 0: Joten mennään kaikki, ollaan valittu yksi Connundrumum,
-Puhuja 0: eli
-Puhuja 0: pulmapähkinä.
+Puhuja 0: eli pulmapähkinä.
 Puhuja 0: Lähdetään Salla sieltä liikkeelle.
 Puhuja 3: Talo palaa,
 Puhuja 3: voit pelastaa vain yhden sisällä olevan ihmisen.
@@ -158,8 +154,7 @@ Puhuja 3: Wau! No se ainakin tuottaisi hankaluuksia, että sitten
 Puhuja 3: meidänkin Kerttu
 Puhuja 3: Sen pitäisi löytää joku uusi koti sit ku me kaikki oltais kuolleen
 Puhuja 3: Tai siis vois periytyä
-Puhuja 3: tietysti,
-Puhuja 3: noilla koira dynastia Sitten se
+Puhuja 3: tietysti, noilla koira dynastia Sitten se
 Puhuja 3: suku nimettäis se kertun mukaan, kertun suku Ne ihmiset siinä vaan vaih tossa No voihan siinä käy Ei oo mikään ongelma
 Puhuja 2: Siis koiran hankkimisesta tulis ihan valtava päätös et sä oot ahkista tän itsellesi
 Puhuja 2: ja perheellesi
@@ -185,21 +180,23 @@ Puhuja 1: mitä pieniä
 Puhuja 1: epämukavuuksia
 Puhuja 1: löytyisi sinun omasta henkilökohtaisesta
 Puhuja 1: helvetistäsi,
-Puhuja 1: Pieniä epämukavuuksia.
+Puhuja 1: Pieniä
+Puhuja 1: epämukavuuksia.
 Puhuja 3: Siellä olisi semmoinen lounaslinjasto,
 Puhuja 3: jossa olisi helvetin
 Puhuja 3: hitaita tomaatinpalojen
 Puhuja 3: ottajia.
 Puhuja 3: Ei siellä oikeastaan tarvitsisi olla muuta, jos tekisi siitä helvetin.
-Puhuja 0: Mä kerron näin meillä sanoman lounaslinjastolla
-Puhuja 0: oli semmonen heppuutta, toi juttu, mutta mun pakko sanoa, se meni siinä hyvin hitaasti pohtia, mitä ruokaahan syö ja sitten se otti lohipastaa laittoi ison kasa lautaselle, sen jälkeen se otti lihapullia kermakastikkeessa ja pisti No
+Puhuja 0: Mä kerron näin meillä sanoman lounaslinjastolla,
+Puhuja 0: oli semmonen heppuutta, toi juttu, mutta mun pakko sanoa. Se meni siinä hyvin hitaasti pohtia, mitä ruokaa hän syö ja sitten se otti lohipastaa, laittoi ison kaslautaselle, sen jälkeen se otti lihapullia kermakastikkeessa ja pisti No
 Puhuja 2: mun mielestä
 Puhuja 2: ehkä ärsyttävintä on se, kun mä päivittäin kuljen metrolla
 Puhuja 2: ja sitten kun
 Puhuja 2: varsinkin silloin kesäaikaan kun on paljon turisteja ja maalaisia Helsingissä, niin ne seisoo
 Puhuja 2: väärällä puolella siellä liukuportaissa,
 Puhuja 2: onhan se aivan sietämätöntä!
-Puhuja 1: Mä huomaan, että mun asia tuli vähän tuolta samasta suunnasta kuin tämä Sallan, niin siellä tää on nyt vähän tämmöinen inside juttu, mutta siellä ois siis sanomatalon ovet,
+Puhuja 1: Mä huomaan, että mun asia tuli vähän tuolta samasta suunnasta kuin tämä Sallan, niin siellä tää on nyt vähän tämmöinen inside-juttu,
+Puhuja 1: mutta siellä ois siis sanomatalon ovet,
 Puhuja 1: jotka
 Puhuja 1: on tosi raskaita. Pyörä ovet! Niin sekä ei vaan, ei ne
 Puhuja 1: pyöräovet, vaan ne pyöräovien vieressä olevat ulko-ovet, joita saa väkisin kiskoa auki ja sitten semmoiset portit, mistä pitää mennä läpi ja jotka usein jää jumiin.
@@ -220,7 +217,8 @@ Puhuja 0: tämmöinen peukkupää, joka alkaa riehumaan ja sitten tökkää mua 
 Puhuja 0: Mitä jos se on mua pienempi ja heiveroisempi kuin tyyppi, ja sitten vaikutan
 Puhuja 0: ilkeeltä.
 Puhuja 0: Mitä jos se on selkeästi vaikka jostain muusta kulttuurista tuleva,
-Puhuja 0: vaikutan silleen, että tuossa nyt joku rasisti Suomea ja rupeaa ojentamaan
+Puhuja 0: vaikutan silleen, että
+Puhuja 0: tuossa nyt joku rasisti Suomea ja rupeaa ojentamaan
 Puhuja 0: pojankoltiasta.
 Puhuja 0: Ja en tykkää nimenomaan siitä, että se
 Puhuja 0: käynnistää mun päässä niin monia sellaisia asioita, mihin mulla ei ole mitään vastausta.
@@ -234,7 +232,7 @@ Puhuja 3: ole ikinä mihinkään kiire, mutta se ärsytyksen määrä
 Puhuja 3: vaan multiploidu.
 Puhuja 1: Toki siellä ois myös huono wifi.
 Puhuja 0: Meille on lähetetty monia näitä
-Puhuja 0: Conandromeja
+Puhuja 0: Connandromeja
 Puhuja 0: ja teen sillä tavalla, että poimin täältä ehkä
 Puhuja 0: yhden hyvä!
 Puhuja 0: Tämä ei loukkaa ketään kohtaa.
@@ -269,7 +267,7 @@ Puhuja 0: Niin, sano vaan.
 Puhuja 0: Jatkona,
 Puhuja 0: toinen
 Puhuja 0: hyvä junttius.
-Puhuja 0: Huono junttius on semmosta, ettei kiinnosta yhtään,
+Puhuja 0: Huono junttius on semmoista, ettei kiinnosta yhtään,
 Puhuja 0: ettei maailma kiinnosta, ei ollenkaan.
 Puhuja 0: Aivan sama, mitä siellä on ja mitä tuokin on tuollainen, ei minua kiinnosta. Sitten on se joku yksi juttu, jonka on 13-vuotiaana
 Puhuja 0: päättänyt, että tämä on nyt kova asia, että
@@ -284,9 +282,9 @@ Puhuja 1: ja sitten kaupunkilaiset oli pienempi joukkue ja jotenkin halusi tehd�
 Puhuja 1: Niin nyt sitten kun melkein kaikki on kaupunkilaisia, niin sitten se junttius onkin vähän harvinaisempaa ja sen takia huulimpaa.
 Puhuja 0: Sitten kun
 Puhuja 0: olette
+Puhuja 0: jotenkin
 Puhuja 0: askeleet on vienyt eteenpäin ja olette
-Puhuja 0: saapuneet, vähän hämmästelette
-Puhuja 0: itsekin, että torstaina
+Puhuja 0: saapuneet, vähän hämmästelette itsekin, että torstaina
 Puhuja 0: tulit
 Puhuja 0: trooppiseen
 Puhuja 0: ilmanalaan,
@@ -294,8 +292,7 @@ Puhuja 0: joka ei enää tunnu yhtään niin painostavalta kuin se tuntui muutam
 Puhuja 0: ei kiinnostele,
 Puhuja 0: Ja sitten olette, että hei, jonotkin on tuolta purkautunut,
 Puhuja 0: tiskille voi mennä, ottaa bissejä täällä sitten, vähän käveleskelä ympäriinsä
-Puhuja 0: näiden älyttömän komeiden ja kauniiden ja fiksujen ja upeiden ja
-Puhuja 0: mielipiteellisten
+Puhuja 0: näiden älyttömän komeiden ja kauniiden ja fiksujen ja upeiden ja mielipiteellisten
 Puhuja 0: ja mahtavien tyyppien kanssa ja jutella heidän kanssa niitä näitä niin mistäs alkaisitte heidän kans juttelee?
 Puhuja 1: No ehkä liittyy tähän lämpimään teemaan, niin mä oon nyt viikon verran
 Puhuja 1: vajaan lukenu semmosta
@@ -315,8 +312,7 @@ Puhuja 1: jossa tämmöinen Cambridgen
 Puhuja 1: yliopiston
 Puhuja 1: tutkijat
 Puhuja 1: päätyy Manalaan.
-Puhuja 1: Eletään muuten
-Puhuja 1: sellaista 80-luvun
+Puhuja 1: Eletään muuten sellaista 80-luvun
 Puhuja 1: yliopistomaailman todellisuutta,
 Puhuja 1: mutta sit siellä Cambridgessa on oppiaine nimeltä magia.
 Puhuja 1: Ja siihen niinku yksi asia mikä siihen sisältyy on
@@ -348,7 +344,7 @@ Puhuja 0: Marko!
 Puhuja 2: Joo,
 Puhuja 2: tää on ihan vasta ilmestynyt kirja jenkeissä ja jotenkin mä
 Puhuja 2: törmäsin tähän sattumalta,
-Puhuja 2: tän nimi on The Freeks Game outs Write
+Puhuja 2: tän nimi on The Freeks Game outswrite
 Puhuja 2: Tämä
 Puhuja 2: on siis Villige Wooce
 Puhuja 2: lehden, joka on New Yorkissa ilmestyvä lehti ja itse asiassa en oo ikinä sitä lehteä lukenut enkä oo ikinä edes nähnyt Mä lujon ihan paperilla!
@@ -367,7 +363,8 @@ Puhuja 2: vastavirtaan
 Puhuja 2: kulkeva lehti, joka jossain vaiheessa päätyi myös Robert Murdokin omistukseen, mistä en hyvä seurannut. Mutta varmaan myös ihana nostalkiomatka
 Puhuja 1: maailmaan,
 Puhuja 1: jolloin joku nyökilainen vastakulttuurilehti
-Puhuja 1: saattoi olla merkittävä kulttuurinen voima.
+Puhuja 1: saattoi olla merkittävä
+Puhuja 1: kulttuurinen voima.
 Puhuja 0: Salla
 Puhuja 3: Mun mielestä me päädyttiin äsken semmoseen, että junttijuus
 Puhuja 3: on arvostettavaa,
@@ -386,8 +383,8 @@ Puhuja 3: Paavon kirjaa, mutta suosittelen myös muita.
 Puhuja 3: Monika Fagerholm voitti
 Puhuja 3: tämän fiktiopuolen
 Puhuja 3: ja Tomi Kontio Lasten Finlandia, niin laitetaan sinne suositukset.
-Puhuja 0: Laitan tähän nyt oikaisun.
-Puhuja 0: Että 1920-luvun
+Puhuja 0: Laitan tähän nyt oikaisun,
+Puhuja 0: että 1920-luvun
 Puhuja 0: pörssiromahdus oli torstaina,
 Puhuja 0: Black tursday.
 Puhuja 0: Tämä oikaisu tuli suoraan sieltä yleisöstä,
@@ -403,8 +400,7 @@ Puhuja 0: on mediamuoto
 Puhuja 0: ja
 Puhuja 0: tapa puhua, käsitellä, ajatella
 Puhuja 0: maailmaa, joka tuo yhteen
-Puhuja 0: niin hyvällä
-Puhuja 0: tavalla, niin hyviä
+Puhuja 0: niin hyvällä tavalla, niin hyviä
 Puhuja 0: ei toteuta
 Puhuja 0: sitä.
 Puhuja 0: Me tiedetään kaikki, että media on tosi helposti, tosi repivää, tosi
@@ -422,8 +418,7 @@ Puhuja 0: Salla Vuorikoskin.
 Puhuja 0: Kiitos
 Puhuja 0: Marko Junkkari
 Puhuja 0: Anna-Sofia
-Puhuja 0: Berner
-Puhuja 1: Kiitos
+Puhuja 0: Berner Kiitos
 Puhuja 0: Ja tota, äänen ja kuvan ja kaiken muun mahtavan meille teki tänään
 Puhuja 0: Laura
 Puhuja 0: Ruusula.
@@ -444,8 +439,7 @@ Puhuja 0: Kahteentoista?
 Puhuja 0: Jompikumpi?
 Puhuja 0: Ja jos pitää mennä, niin menkää! Jos tekee mieli jäädä tänne meidän kaa hengaa, ottaa vähän bisseä, jutellaan sitä sun tätä, otetaan kuvia,
 Puhuja 0: puristellaan räpylöitä,
-Puhuja 0: niin sitä on luvassa tässä sulkemiseen
-Puhuja 0: asti. Kiitos teille kaikille, te olette mahtavia!
+Puhuja 0: niin sitä on luvassa tässä sulkemiseen asti. Kiitos teille kaikille, te olette mahtavia!
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritys tappio

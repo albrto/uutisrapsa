@@ -11,12 +11,14 @@ Puhuja 1: jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
 Puhuja 0: miljardit.
-Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uutisraportti podcastiin
-Puhuja 0: ja Facebook-liveen kaksituhatta
-Puhuja 0: kahdeksansataa.
-Puhuja 0: Vuonna kaksituhatta yhdeksäntoista.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Hei,
+Puhuja 0: ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin
+Puhuja 0: ja Facebook-liveen
+Puhuja 0: kaksikymmentäkahdeksan.
+Puhuja 0: Maaliskuuta vuonna kaksituhatta yhdeksäntoista.
 Puhuja 0: Minä olen Tuomas Peltomäki, kanssani täällä Helsingissä
-Puhuja 0: Sanomatalossa, on Aino Frilander istuu tässä vieressä, mitä on Aino. Hei. Mitä sinulle kuuluu?
+Puhuja 0: Sanomatalossa, on Aino Frilander istuu tässä vieressä, mitä on ainoa. Hei. Mitä sinulle kuuluu?
 Puhuja 0: Just ajattelin, että en kysy, mitä kuuluu, kun ette ikinä vastaa mitään järkevää.
 Puhuja 2: Et ole valmistellut meitä siihen,
 Puhuja 2: tämä on huonosti tuotettu,
@@ -25,13 +27,13 @@ Puhuja 2: Me ollaan istuttu Sanomatalossa ja tahottu News-keittiö.
 Puhuja 0: Sen lisäksi
 Puhuja 0: tässä vieressä vähän kauempana on
 Puhuja 0: politiikan toimittaja Marko Junkkari.
-Puhuja 0: Tervetuloa, tervetuloa. Ilo olla täällä pitkästä aikaa. Ilo olla sinun kanssasi, koska olet tämän hetken internet-tähti, koska kirjoitit aivan mielettömän jutun,
-Puhuja 0: Jussi Halla-ahon
-Puhuja 0: polkupyörästä.
+Puhuja 1: Tervetuloa,
+Puhuja 0: ilo olla täällä pitkästä aikaa. Ilo olla sinun kanssasi, koska olet tämän hetken internet-tähti, koska kirjoitit aivan mielettömän jutun,
+Puhuja 0: Jussi Halla-ahon polkupyörästä.
 Puhuja 0: Sitä luetaan enemmän kuin Raamattua.
 Puhuja 2: Päivän uutisvoitto.
 Puhuja 0: Kyllä. Se oli aivan maan mainio juttu. Onneksi olkoon.
-Puhuja 1: Kiitos, Tuomas. Se on olennaista
+Puhuja 1: Kiitos Tuomas. Se on olennaista
 Puhuja 1: kirjoittajana ja vaalien alla olennaisista asioista. Tämähän on aivan totta.
 Puhuja 0: Tämän viikon podcastissa puhutaan
 Puhuja 0: Robert Myllerin raportista, joka valmistui viime perjantaina ja josta Yhdysvaltain oikeusministeri
@@ -49,23 +51,25 @@ Puhuja 0: ja lapsi pornografiaa
 Puhuja 0: tehnyt rinki paljastui Keskusrikospoliisin
 Puhuja 0: toimesta.
 Puhuja 0: Ei käsitellä aihetta sen kammottavan luonteen
-Puhuja 0: ja sinänsä aika vähäisten tietojen vuoksi.
+Puhuja 0: ja sinänsä aika vähäisten tietojen vuoksi,
 Puhuja 0: Mutta puhutaan lyhyesti
 Puhuja 0: poliittisista
 Puhuja 0: reaktioista
 Puhuja 0: tapahtuneeseen
 Puhuja 0: ja median
 Puhuja 0: näkökulmasta.
-Puhuja 0: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien
-Puhuja 0: hiljaisuuksien varalle.
+Puhuja 0: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljaisuuksien
+Puhuja 0: varalle.
 Puhuja 0: Ihan lyhyesti puhutaan tähän alkuun.
 Puhuja 0: Tällä
 Puhuja 0: viikolla Keskusrikospoliisi
 Puhuja 0: järjesti tiedotustilaisuuden,
 Puhuja 0: jossa he kertoi, että he ovat paljastaneet Suomessa
-Puhuja 0: toimivan ja suomalaisten nimenomaan kantasuomalaisten
-Puhuja 0: miesten pyörittämän,
-Puhuja 0: tällaisen hirvittävän
+Puhuja 0: toimivan
+Puhuja 0: ja suomalaisten nimenomaan kantasuomalaisten
+Puhuja 0: miesten pyörittämän
+Puhuja 0: tämmöisen
+Puhuja 0: hirvittävän
 Puhuja 0: painajaismaisen
 Puhuja 0: pedofiiliringin,
 Puhuja 0: joka on
@@ -110,7 +114,8 @@ Puhuja 2: nimenomaan kantasuomalaisia, minusta tuntuu, että sitä sanaa ei... S
 Puhuja 0: parodia,
 Puhuja 0: action-leffoista,
 Puhuja 0: gangsterrap-kuvastoa
-Puhuja 0: on aika paljon.
+Puhuja 0: on aika paljon
+Puhuja 0: sarjakuvista.
 Puhuja 0: Se on hyvin tyylikäs, tyylitelty. Siinä on kaikennäköistä paljon
 Puhuja 0: panostettu ja näyttävyyteen panostettu. Ja silleen elokuvana ihan hyvä. Ja
 Puhuja 0: sitten viesti on se, että kaikkea kamalaa tapahtuu ja Jussi Halla-aho pitää äänestää, jos haluaa siihen muutosta. Näin.
@@ -121,8 +126,7 @@ Puhuja 0: jostain.
 Puhuja 0: Sitähän puolueet haluaa, että tehkää nyt meidän vaalvideoista juttuja, että mahdollisimman
 Puhuja 0: moni näkee siellä
 Puhuja 0: ihan rutiinitoimenpide.
-Puhuja 0: Pääsääntöisesti
-Puhuja 0: ollaan, että no ei, ellei siinä ole jotain, mikä on uutisllista ja tärkeää.
+Puhuja 0: Pääsääntöisesti ollaan, että no ei, ellei siinä ole jotain, mikä on uutisllista ja tärkeää.
 Puhuja 0: Okei, joka tapauksessa.
 Puhuja 0: Sitten, kun video alkoi leviämään,
 Puhuja 0: niin
@@ -155,11 +159,14 @@ Puhuja 1: se on mainosfilmi,
 Puhuja 1: ja mainoksellakin on tietyt eettiset säännöt, mutta mielestäni ne pitää olla aika joustavat kun puhutaan vaalimainoksista.
 Puhuja 2: Eikö me voida ajatella, että tämä on täysin linjassa persujen?
 Puhuja 1: Niin, tämä on tavallaan se video, jolla haluat olla. Jos siinä on rasismia,
+Puhuja 2: äänestäjänsä
+Puhuja 2: tietävät, että...
+Puhuja 2: Niin näissä
 Puhuja 1: Niin, näin se voi olla. Sitä saa mitä tilaa se anniteslouvan. Niin, täsmälleen se, että tämä on heidän itse tekemäänsä video, tällä he luovat imagoa itsestään. Tämä on heidän omilla rahoillaan itse tekemä imagon muokkauskampanja.
 Puhuja 1: Jos nehän on luoda itselleen tuommoisen imagon,
 Puhuja 0: niin hyvä. Mutta nyt väistät sen kysymykseni, että jos ajatellaan, että Jeesus aramealainen
 Puhuja 0: tulee taivaasta ja päättää,
-Puhuja 0: että tämä on rasistinen tämä video,
+Puhuja 0: että tämä on rasistinen tämä video.
 Puhuja 0: Me tiedetään, että Jeesus ei tule ja näin ei mitään varmaan instanssia ole, joka tämän tuomion voi antaa.
 Puhuja 0: Mutta leikitään, että kaikki koko maapallolla on sitä mieltä, että tämä video on rasistinen, niin saako sitä silloin käyttää vaalivideona?
 Puhuja 1: No ei.
@@ -174,12 +181,14 @@ Puhuja 0: täytyy ja pitää
 Puhuja 0: lakata esittämästä tätä.
 Puhuja 0: Järkytyin, että ne pystyy suhtautumaan siihen tuolla tavalla. Tässä ollaan siis, jos on ihmisten
 Puhuja 0: perusoikeuksia,
-Puhuja 0: niin tässä ollaan käytännössä kaikkien niiden ytimessä.
-Puhuja 0: Poliittisen viestin lähettäminen ja vastaanottaminen,
-Puhuja 0: sananvapaus,
-Puhuja 0: demokratia,
+Puhuja 0: niin tässä ollaan käytännössä kaikkien niiden ytimessä,
+Puhuja 0: poliittisen viestin lähettäminen ja vastaanottaminen,
+Puhuja 0: sanan
+Puhuja 0: vapaus, demokratia,
 Puhuja 0: kaikki liittyy tähän. Tämä on niin suojeltua aluetta,
-Puhuja 0: vaalien alla poliittinen viestintä, vähän pyhempää
+Puhuja 0: vaalien alla
+Puhuja 0: poliittinen
+Puhuja 0: viestintä, vähän pyhempää
 Puhuja 0: oikeutta,
 Puhuja 0: vaikea kuulla. Ollaan Tuomas täsmälleen samaa mieltä. Niin me ollaankin vähän aikaa.
 Puhuja 1: Oikein leikin mukaan leikkimään. Kyllä.
@@ -209,7 +218,7 @@ Puhuja 1: aktiivisesti
 Puhuja 1: tökitään mediaa. Sitten media toimii täsmälleen niin kuin ne toivoo, eli nostaa tästä älämöön ja sitten saa ne kaksisataa nolla katsojaa sille videolle. Tämä oli täydellinen
 Puhuja 1: mikä se oli
 Puhuja 1: tämmöinen,
-Puhuja 1: mikä se taidekoukku oli silloin tuossa? Koska modertetekotaide.
+Puhuja 1: mikä se taidekoukko oli silloin tuossa. Koska modertetekotaide.
 Puhuja 1: Tämä oli ihan sama
 Puhuja 1: tämmöinen ärsytysyritys,
 Puhuja 1: mikä onnistui täsmälleen niin kuin Matias Turkkila oli
@@ -219,13 +228,12 @@ Puhuja 2: että
 Puhuja 1: Jos joku kaupallinen
 Puhuja 1: yritys käyttäisi
 Puhuja 1: kuin millä pyrkii.
-Puhuja 0: Niin. Niin kuin äsken sanoin, että mua harmittaa se, että millä tavalla turvapaikanhakijat siinä kuvataan.
+Puhuja 0: Niin. Niin kuin äsken sanoin, että minua harmittaa se, että millä tavalla turvapaikanhakijat siinä kuvataan.
 Puhuja 0: Ja tavallaan pidän sitä
 Puhuja 0: jonkinlaisena rasismina, että näin tehdään. Näin päin, olen samaa mieltä. Mutta
 Puhuja 0: sehän on perussuomalaisten koko olemassaolon
 Puhuja 0: ydin,
-Puhuja 0: että he
-Puhuja 0: suhtautuu hyvin negatiivisesti näin. Se on heidän politiikkansa
+Puhuja 0: että he suhtautuu hyvin negatiivisesti näin. Se on heidän politiikkansa
 Puhuja 0: ydin. Eihän sitä voida kieltää
 Puhuja 0: semmoiseen esittämistä, kun se koko puolue perustuu siihen, että he edustaa sitä ajattelua, että turvapaikanhakijat
 Puhuja 0: veks.
@@ -247,7 +255,7 @@ Puhuja 0: tarkistan kanavaa enkä MTVuutisia,
 Puhuja 0: joka on vastaavalla tavalla esittää jossain töllössä jotain liikkuvaa kuvaa.
 Puhuja 0: Ja on aika
 Puhuja 0: suomalaisten yhteinen ja isossa asemassa ja näin, pystyisikö maikkari olemaan,
-Puhuja 0: että hei, me ei edes esitetä perussuomalaisten
+Puhuja 0: että hei, meidän ei olisi esitetä perussuomalaisten
 Puhuja 0: vaalimainöstä
 Puhuja 0: vaalien alla? Mun
 Puhuja 0: mielestä heti huomaa, että

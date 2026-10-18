@@ -26,7 +26,7 @@ Puhuja 0: graafikkomme Borisksen ja
 Puhuja 0: art Directoremme
 Puhuja 0: Tuomas Jääskeläisen
 Puhuja 0: ja valokuvaaja Mika Rannan yhteistuotos.
-Puhuja 0: Se on sanottu. Joo, hykistävä.
+Puhuja 2: Se on sanottu. Joo, on hykistävä.
 Puhuja 2: Mä luulen, että mä en pysty puhumaan tässä lähetyksessä
 Puhuja 2: mitään. Tässä podcastissa ei mitään, koska se on katselevaa noita aukkoja.
 Puhuja 0: Sanon myös sen, että mun mielestä se on liian sininen
@@ -43,8 +43,7 @@ Puhuja 0: Suomen medioiden uutistoimituksissa
 Puhuja 0: on
 Puhuja 0: semmoinen
 Puhuja 0: fiilis, niin se yleensä johtuu siitä, että eduskunta on jollain lomalla ja eduskunta on vissiin nyt lomalla. Eduskunta on tauolla ja silloin kansanedustajat
-Puhuja 1: mahdehan ryyppää Saimaaksi tai matkalla tai Helsinki-Vantaan lentoasemassa. Spoiler alvet. Ja siis mehän ollaan aivan järkyttävän uutisviikon. Se on meillä edessä, koska maanantaina Trump astuu virkkaansa.
-Puhuja 0: Ja sitten on draiveri. Ja on day vaan, alkaa
+Puhuja 1: mahdehan ryyppää Saimaaksi tai matkalla tai Helsinki-Vantaan lentoasemassa. Spoiler alvet. Ja siis mehän ollaan aivan järkyttävän uutisviikon, että se on meillä edessä, koska maanantaina Trump astuu virkkaansa. Ja sitten on draiveri. Ja on day vaan, alkaa
 Puhuja 0: rytistä.
 Puhuja 0: Kyllä, juuri näin.
 Puhuja 0: Hiljaisen uutisviikon
@@ -82,7 +81,7 @@ Puhuja 0: suojellaan
 Puhuja 0: Itämerta Naton toimesta. Hyvä Nato! Hyvä Itämeri, hyvä me!
 Puhuja 2: Eikös se rubus ole kokonaisvaltainen?
 Puhuja 0: Ei, ei. Robbasta on just silleen, joo jykevä. Semmoinen
-Puhuja 0: kestävä, vanterä.
+Puhuja 0: kestävä vanterä.
 Puhuja 1: Vankka. Luja tekoinen.
 Puhuja 0: No
 Puhuja 0: niin. Ja sitten
@@ -95,7 +94,8 @@ Puhuja 0: perustuslaillista
 Puhuja 0: huomautettavaa
 Puhuja 0: ja aivan käsittämättömällä tavalla. Ei elänyt olla kolumnoimatta
 Puhuja 0: asiasta Hyvyydissa.
-Puhuja 2: Vielä kolmanneksi puhutaan... Olihan tämä monella tavalla koominen
+Puhuja 2: Vielä kolmanneksi puhutaan...
+Puhuja 2: Olihan tämä monella tavalla koominen
 Puhuja 2: tapahtumasarja? Ja sitten vielä
 Puhuja 2: se Vornasem, mihin äsken viittasit, joka tavallaan siinä
 Puhuja 2: Hesarin haastattelussa toimi ihan samalla kaavalla.
@@ -106,8 +106,7 @@ Puhuja 0: on tulossa
 Puhuja 0: se
 Puhuja 0: poliittisen polarisaation
 Puhuja 0: ilmiö,
-Puhuja 0: mikä on selkeästi nähtävissä esimerkiksi
-Puhuja 0: Trumpinleirissä.
+Puhuja 0: mikä on selkeästi nähtävissä esimerkiksi Trumpin leirissä.
 Puhuja 0: Mikä tahansa negatiivinen
 Puhuja 0: uutinen
 Puhuja 0: on ihan taktisesti
@@ -120,11 +119,10 @@ Puhuja 0: ja että tässä on käyty hänen kimppuun. Kääntää se ympäri ja 
 Puhuja 0: Trump hallituksessa mikä tahansa
 Puhuja 0: skandaali,
 Puhuja 0: ehkä lukuun ottamatta sitä kaikista pahintasi,
-Puhuja 0: Minusta näyttää jo, että Immonen ja moraalinen
-Puhuja 0: tapauksessa ollaan jo siellä.
-Puhuja 1: Niin.
-Puhuja 1: Just tällä viikolla mietin näitä rinnastuksia, kun
-Puhuja 1: Yhdysvalloissa on nämä Trumpin ministerien kuulemiset käynnissä selätissä ja siellä on juuri tämä puolustusministeri B. Zekund, joka kerrotaan
+Puhuja 0: ja aavistellut, että kohta se tulee Suomeen.
+Puhuja 0: Minusta näyttää jo, että Immonen ja Ornainen tapauksessa ollaan jo siellä.
+Puhuja 1: Niin. Ja siis joo, just tällä viikolla mietin näitä rinnastuksia, kun
+Puhuja 1: Yhdysvalloissa on nämä Trumpin ministerien kuulemiset käynnissä selatissä ja siellä on juuri tämä puolustusministeri B. Zekund, joka kerrotaan
 Puhuja 1: olleen käynnissä töissä ja ahdistele naisia ja kaikkea tällaista. Ja sitten hän just vaan sanoo, että
 Puhuja 1: nimettömiä haukkuja ja estää kaiken just niin kuin Tuomas kuvasi.
 Puhuja 1: Ja
@@ -140,17 +138,15 @@ Puhuja 0: Mun mielestä ei kuitenkaan ole...
 Puhuja 0: Mulla ei etu mieleen, mihin minä pohjaan. Mielestäni tämä ei ole mikään persuspesifi
 Puhuja 0: ongelma, myös kokoomuksessa on äänensävyjä,
 Puhuja 0: missä ollaan vain silleen, että kysymys on väärä,
-Puhuja 0: tarkoitushakuusta
+Puhuja 0: tarkoitushakusta
 Puhuja 0: ja mitätöidään
-Puhuja 2: se kritiikki.
-Puhuja 2: Ainakin somessa on eräitä kokoomuslaisia,
-Puhuja 2: jotka
-Puhuja 2: siellä X:ssä käyttävät tätä metodia kovin paljon.
+Puhuja 0: se kritiikki. Ainakin somessa on eräitä kokoomuslaisia,
+Puhuja 0: jotka
+Puhuja 0: siellä X:ssä käyttävät tätä metodia kovin paljon.
 Puhuja 0: Se
 Puhuja 0: ajattelu, mikä tässä ympärillä on, on se, että mikä on se muutos, mikä on johtanut siihen, että
 Puhuja 0: näkyvässäkin
-Puhuja 0: poliittisessa
-Puhuja 0: roolissa oleva ihmisen,
+Puhuja 0: poliittisessa roolissa oleva ihmisen,
 Puhuja 0: esimerkiksi kansanedustajan,
 Puhuja 0: kannattaa mieluummin vain sanoa, että tuo ei pidä edes paikkaansa, susikaa
 Puhuja 0: kuuseen, älkää kysykö typeriä.
@@ -178,14 +174,18 @@ Puhuja 0: poistunut ihan täysin,
 Puhuja 0: ei häpeillä ollenkaan.
 Puhuja 2: Siinä on myös se, että aikaisemmin
 Puhuja 2: ajateltiin, että se kansanedustaja on sen oman alueen, tai on edellenkin oma alueen edustajia, mutta tässä menee vähän, että hänen pitää käyttäytyä kunnolla, että mitä hän ajattelee meistä
-Puhuja 2: loimaalaisista,
+Puhuja 2: baalaisista.
+Puhuja 2: Loimaalaisista,
 Puhuja 2: jos se käyttäytyy törpösti.
-Puhuja 2: Luulen, että se on jotenkin muuttunut. Tämä on siinä mielessä polarisoitunut, että eräät edustajat eivät odotakaan, että kaikki
-Puhuja 2: laukaalaiset äänestäisivät häntä, vaan riittääkö häntä äänestävät
+Puhuja 2: Luulen, että se on jotenkin muuttunut. Tämä on siinä mielessä polarisoitunut, että eräät edustajat eivät odotakaan, että kaikki laukaalaiset
+Puhuja 2: äänestäisivät häntä, vaan riittääkö häntä äänestävät
 Puhuja 2: hänen kanssaan samanhenkiset. Ei tarvitse samalla tavalla esittää iltakuvaa,
-Puhuja 2: että voi olla törppeä ja siitä tietää, että raiska äänestää.
-Puhuja 0: Toinen, minkä
-Puhuja 0: mä jälleen kerran totaalisen hattumutulla ajattelen, että mikä on muutos, on se, että johonkin
+Puhuja 2: että
+Puhuja 2: voi
+Puhuja 2: olla törppeä ja siitä tietää, että raiska äänestää.
+Puhuja 0: Toinen
+Puhuja 0: minkä
+Puhuja 0: minä jälleen kerran totaalisen hattumutulla ajattelen, että mikä on muutos, on se, että johonkin
 Puhuja 0: on kadonnut... Tai sitten sitä ei ikinä ollutkaan semmoinen
 Puhuja 0: syy-seurausketju
 Puhuja 0: äänestäjien
@@ -201,10 +201,11 @@ Puhuja 0: Poikkeuksena
 Puhuja 0: ääriesimerkit,
 Puhuja 0: kuten Anu Turtiainen, joka oli jotenkin niin äärimmäisen perseestä, että hänet hylättiin plus kaikki, jotka paljastui tämmöiseksi
 Puhuja 0: Venäjän myötäilijoiksi,
-Puhuja 0: heidät kylmästi aina sitä. Niin saa nähdä, mitä Timo Warnaselle käy. Ja ehkä just haluan
+Puhuja 0: heidät kylmästi aina sitä. Niin saa nähdä, mitä Timo Vurnselle käy. Ja ehkä just haluan
 Puhuja 0: laittaa
-Puhuja 0: itselle muistiin Timo Varnaisen, että mitenköhän siinä käy, että vaikuttaako yksi tämmöinen tötöily?
-Puhuja 2: Pahahoitohan. No vaikuttaa se Vuornosen, ja hänet on heitetty jo persujen eduskuntaryhmästä.
+Puhuja 0: itselle muistiin Timo Varnaisen, että mitenkähän siinä käy, että vaikuttaako yksi tämmöinen tötöily?
+Puhuja 0: Pahahoitnaiseen.
+Puhuja 2: Hän nyt on heitetty jo persujen eduskuntaryhmästä.
 Puhuja 2: Hyvin vaikea kuvitella, että hän voisi olla perussuomalaisten
 Puhuja 2: kansanedustajaehdokas.
 Puhuja 2: Jos hänelle lyö sitä puolue takana, niin sitten sille käy ihan anolla, että eihän se läpi mene. Niin, just näin.
@@ -223,7 +224,7 @@ Puhuja 0: minun
 Puhuja 0: lauantai karkkipussistani,
 Puhuja 0: mitäs siihen sanot?
 Puhuja 0: Niin sitten... En tiedä, miksi tämä oli näin... Se on tieteellinen tämä tarina. Sitten lähdetään Ari Hakahhuhdan kanssa alueelle lähibaariin,
-Puhuja 0: Mistä sä alat kertoa hänelle?
+Puhuja 0: Mistä alat kertoa hänelle?
 Puhuja 0: Plus
 Puhuja 0: muille kollegoille, jotka ovat
 Puhuja 1: eksyneet samaan baariin. Olisin halunnut puhua uudesta sairaalasarja T-Pitistä,
@@ -277,8 +278,8 @@ Puhuja 2: Kirja on ihan
 Puhuja 2: järkyttävä. Siinä on valtavasti esimerkkejä miten on,
 Puhuja 2: esimerkiksi
 Puhuja 2: jenkkien
-Puhuja 2: health,
-Puhuja 2: mutta terveydenhoito
+Puhuja 2: health, mutta
+Puhuja 2: terveydenhoito
 Puhuja 2: vakuutuksia koskevat, joita on yritetty vaikka kuinka monta kertaa.
 Puhuja 2: Asioita, jotka lähtökohtaisesti on kansalaisten etu, mutta sitten joku firma päättää, että tuo pitää torpata ja miten taitavasti näitä pystytään eri keinoilla tekemään.
 Puhuja 2: Homma kiinnosti. Ja sitten siinä jossain
@@ -290,8 +291,7 @@ Puhuja 2: poliitikkoja, mutta ne ymmärsi, että kaikkein tehokkain keino on its
 Puhuja 2: poliitikon
 Puhuja 2: äänestäjiin.
 Puhuja 2: Ja sitten alkoi tämmöinen
-Puhuja 2: ulkopuolinen
-Puhuja 2: vaikuttaminen, eli jos on niin kuin, mistä tämä
+Puhuja 2: ulkopuolinen vaikuttaminen, eli jos on niin kuin, mistä tämä
 Puhuja 2: poliitikko ei tiennyt mitään, niin
 Puhuja 2: käytettiin kymmeniä miljoonia dollareita siihen, että aloitettiin valtava tv-kampanja
 Puhuja 2: ja ruvettiin soittelemaan hänen äänestäjilleen,
@@ -305,8 +305,8 @@ Puhuja 2: jotka
 Puhuja 2: pystyvät masinoimaan
 Puhuja 2: kymmeniä miljoonia ihmisiä
 Puhuja 2: vaikuttamaan näihin edustajia.
-Puhuja 2: Se kirja on jotenkin ihan kamalaa luettavaa ja mitä pidemmälle sitä lukee, niin sitä enemmän oppii rakastamaan Donald Trumpia,
-Puhuja 2: vaikka hän itsekin on ahne ajaa omaa etuaan, mutta kyllähän hän sotki tämän
+Puhuja 2: Se kirja on jotenkin ihan kamalaa luettavaa ja mitä pidemmälle sitä lukee, niin sitä enemmän oppii rakastamaan Donald Trumpia.
+Puhuja 2: Vaikka hän itsekin on ahne ajaa omaa etuaan, mutta kyllähän hän sotki tämän
 Puhuja 2: kolmekymmentä vuotta jatkuneen
 Puhuja 2: lobbareiden
 Puhuja 2: ja keskeisesti jenkkipoliitikkojen
@@ -316,8 +316,7 @@ Puhuja 2: Siitä tuli Trump ja kukaan ei tuntenutkaan Trumpia, koska hän ei my�
 Puhuja 2: Sitten ne joutuivat aika kilopasastollisesti
 Puhuja 1: meni ihan sekaisin. Ja nyt se iso kysymys on, että onko tämä muuttunut, että enää Trump ei ole se iso. Ja pohdin tätä just kun luin muun muassa, että Mark Zuckerberg
 Puhuja 1: järjestää isot juhlat tai on mukana isoissa juhlissa Trumpinvirkaan astujaispäivänä.
-Puhuja 1: Ja
-Puhuja 1: Tiktokin,
+Puhuja 1: Ja Tiktokin,
 Puhuja 1: oliko se tuo Mari vai
 Puhuja 1: joku
 Puhuja 1: tärkein TikTok- pomo on kutsuttu sinne virkaan astujaisiin
@@ -335,8 +334,7 @@ Puhuja 0: complex, jolla on ihan mittaamattomasti
 Puhuja 0: valtaa.
 Puhuja 1: Mikä
 Puhuja 2: oli kyllä jännittävä. En mainosta mitään. Tämä on nyt oikeasti
-Puhuja 2: ihan parhaita tietokirjoja, mitä olen ollut tänään mukana tässä pitkään aikaan. Eli The Wvalds
-Puhuja 2: of case street. Tämän on kirjoittanut tällainen broidi Jakei, mitä se keit on? K, pelkkä street.
+Puhuja 2: ihan parhaita tietokirjoja, mitä olen ollut tänään mukana tässä pitkään aikaan. Eli The Wvalds of case street. Tämän on kirjoittanut tämmöinen broidi Ja hei, mitä se keit on? K, pelkkä street.
 Puhuja 0: K-vitamiineet.
 Puhuja 0: Ei välittänyt.
 Puhuja 2: Olen kirjoittanut Broady
@@ -347,7 +345,7 @@ Puhuja 2: mullins. No ilmeisesti veljekset.
 Puhuja 0: Broad ja League mullins,
 Puhuja 0: Sitten
 Puhuja 1: tähän liittyen
-Puhuja 1: klassikkotutkimus jo pitkän ajan takaa on semmoinen Lari Bartelsin Aniqual demarcrucy, joka kertoo myös siitä, miten rahalla saa valtaa. Joo, tässä kirjassa ei saman vaikeutta se viitataan siihen.
+Puhuja 1: klassikkotutkimus jo pitkän ajan takaa on semmoinen Lari Bartelsin Aniqual demarccy, joka kertoo myös siitä, miten rahalla saa valtaa. Joo, tässä kirjassa ei saman vaikeutta se viitataan siihen.
 Puhuja 1: Ja siitä taas on
 Puhuja 1: muistaakseni, tai tuo nyt täysin ulkomuistista,
 Puhuja 1: vanha Daily Shawn jakso,
@@ -355,7 +353,7 @@ Puhuja 1: jossa
 Puhuja 1: Thuns tourt haastattelee
 Puhuja 1: tätä Lari Birssonsia.
 Puhuja 1: Jos haluaa semmoisen, ei jaksa lukea koko kirjaa, voi hakea Lari Burtersson ja Daily Shawn. Mä luulen, että se oli Daily.
-Puhuja 0: Vaan hakee Lari Barters ja David Foot. Mä haluan kuulostaa ihan vitun tyhmältä nyt tuohon Markon perheen.
+Puhuja 0: Vaan hakee Lari Barters ja David Foot. Mä haluan kuulostaa ihan vitun tyhmältä nyt tuohon Markan perheen.
 Puhuja 0: Mutta tiesitkö te, että kun on kengät,
 Puhuja 0: niin kun ne ei ole niinkuin symmetriset ne kengät, vaan se vähän osoittaa toiseen puoleen. Jos laittaa samannäköisesti
 Puhuja 0: jalkaan, että kun sun varpaatkin osoittaa toiseen puoleen, niin sitten ei satu kävellä niillä kengillä, kun ne menee kalaa. Mitä sä puhut?
@@ -371,8 +369,7 @@ Puhuja 0: enkä suosittele kenellekään, että käyttävät huumeita. Ja vaikka
 Puhuja 0: Haluaisin,
 Puhuja 0: että kaikki lukevat
 Puhuja 0: meidän kollegan,
-Puhuja 0: Katariina
-Puhuja 0: Malmbergin,
+Puhuja 0: Katariina Malmbergin,
 Puhuja 0: jutun,
 Puhuja 0: jonka otsikko on: Poikani tappoi ihmisen kauhua, epäuskoa, surua, häpeää ja jopa pelkoa omaa lasta kohtaan.
 Puhuja 0: Äiti kertoo, millaisia tunteita pojan teot hänessä herättivät. Tämä on
@@ -385,7 +382,7 @@ Puhuja 0: ajautuu huumeisiin ja hänestä tulee
 Puhuja 0: jutun perusteella suorastaan
 Puhuja 0: epäinhimillinen,
 Puhuja 0: suorastaan
-Puhuja 0: hirviolta kuulostaa.
+Puhuja 0: hirviältä kuulostaa.
 Puhuja 0: Tämä vastapainona siihen,
 Puhuja 0: että miten huonosti siinä voi käydä
 Puhuja 0: itselle, perheille, lapsille, lähiympäristölle,
@@ -420,13 +417,13 @@ Puhuja 0: Nämä
 Puhuja 0: kaverukset saa vastata niihin kysymyksiin. Se, joka vastaa nopeammin oikein, voittaa yhden pisteen. Ja sitten kun on
 Puhuja 0: raivannut kaikki
 Puhuja 0: nappulat tieltä, saa palkkioksi
-Puhuja 0: sotin, jonka voi kumota siinä.
-Puhuja 0: Se, mikä
-Puhuja 0: tekee niin älyttömän ihanan tästä kanavasta, on se, että ne ihmiset on ihan täysin tavallisia wälsiläisiä
+Puhuja 0: sotin,
+Puhuja 0: jonka voi kumota siinä.
+Puhuja 0: Se, mikä tekee niin älyttömän ihanan tästä kanavasta, on se, että ne ihmiset on ihan täysin tavallisia wälsiläisiä
 Puhuja 0: tolliskoja.
 Puhuja 0: Ne ei tiedä
 Puhuja 0: mitään mistään. Niillä ei ole mitään. Hän ei ole ikinä katsonut frendejä. Ne ei tiedä, minkä maan pääkaupunki
-Puhuja 0: on ihan pihalla, totta kai välillä siellä
+Puhuja 0: on Washington. Ne on ihan pihalla, totta kai välillä siellä
 Puhuja 0: terävämpi kaveri.
 Puhuja 0: Mulla varsinkin yksi parrakas Venssiläiskaifari,
 Puhuja 0: joka on tässä, Marko, sä näet nyt tämän videon tässä oikealla, kuvailee häntä lyhyesti.
@@ -436,7 +433,8 @@ Puhuja 2: Ja pintti
 Puhuja 0: tukka. Hän
 Puhuja 0: on hyvin beefin oloinen.
 Puhuja 0: Hän on kaikista paras, koska hän ei tiedä oikeasti
-Puhuja 0: esimerkiksi kysyttiin,
+Puhuja 0: esimerkiksi
+Puhuja 0: kysyttiin,
 Puhuja 0: että
 Puhuja 0: että
 Puhuja 0: kuka oli
@@ -449,7 +447,8 @@ Puhuja 0: The Lie and challenge
 Puhuja 0: TikTokissa, suosittelen. Se
 Puhuja 0: on aivoihin laitettaisiin
 Puhuja 0: limanaadia ja appelsiin mehua.
-Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marko Junkkarin. Kiitos. Kiitos Anna-Sofia Perner. Kiitos.
+Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marko Junkkarin. Kiitos.
+Puhuja 0: Kiitos Anna-Sofia Perner. Kiitos.
 Puhuja 0: Kiitos.
 Puhuja 0: Hei, mulla on nyt epäselvää, että kukaan siellä oli tänään puigoissa.
 Puhuja 0: Mä väitän, että tämä oli Jonne Piltosen

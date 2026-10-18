@@ -46,16 +46,15 @@ Puhuja 0: jos, ja
 Puhuja 0: vain jos kyse on plagioinnista,
 Puhuja 0: voiko tämä jollain tavalla uhata Huhtasaaren
 Puhuja 0: presidentinvaalikampanjaa?
-Puhuja 1: Jos minua on äärimmäisen huonosti perehtynyt tähän asiaan, koska tämä Tämä tapahtui vaan, että tänään vasta vastikään postattiin.
+Puhuja 1: Jos minua on äärimmäisen huonosti perehtynyt tähän asiaan, koska tämä... Tämä tapahtui vaan, että tänään vasta vastikään postattiin.
 Puhuja 1: Mutta ymmärtääkseni tämä sama herra, joka on tämän blogin tehnyt, missä hän syyttää tai väittää tästä plagioinnista
 Puhuja 1: Huhtasaarta, niin hän kirjoitti noin vuosi sitten talvella toiseen blogin, jossa
-Puhuja 1: hän tavallaan osoitti, että Huhtasaari on myös siinä omassa blogissaan plagioinut muita kirjoittajia ja
+Puhuja 1: hän tavallaan osoitti, että Huhtasaari on myös siinä omassa blogissaan... Plagioinut muita kirjoittajia ja
 Puhuja 1: hän oli ainakin sillä kertaa niin paljon niitä tekstiesimerkkejä,
 Puhuja 1: että hän on suoraan ottanut tämmöisiä
-Puhuja 1: yksittäisiä lauseita tai kappaleita tai jotain muuta kirjoittajalta tai liittänyt ne omaan tekstiinsa. Okei.
+Puhuja 1: yksittäisiä lauseita tai kappaleita tai jotain muuta kirjoittajalta tai... Liittänyt ne omaan tekstiinsa. Okei.
 Puhuja 1: Siinä oli myös hauskaa se,
-Puhuja 1: että mikä sinä Tuomas nyt? No tässä näyttää olevan
-Puhuja 0: niin,
+Puhuja 0: että mikä sinä Tuomas nyt? No tässä näyttää nyt olevan niin,
 Puhuja 0: että äänet ei mene ainakaan tuonne miksaus pöytään.
 Puhuja 1: Oi voi.
 Puhuja 0: Joo,
@@ -65,8 +64,8 @@ Puhuja 0: Mulla ei ole mitään käsitystä, mistä tämä johtuu. Jatketaan.
 Puhuja 0: No
 Puhuja 0: niin.
 Puhuja 0: Hyvä. Tätä äskeistä ei tapahtunut.
-Puhuja 0: Ei.
-Puhuja 1: Eli voidaanko jatkaa samasta jos se leikataan tämän pois? Joo Kyllä. Tämä teknologia on hämmästyttävä, leikataan varsinaisesta
+Puhuja 0: Ei. No niin.
+Puhuja 1: Aletaanko jatkaa samasta jos se leikataan tämän pois? Joo Kyllä. Tämä teknologia on hämmästyttävä, leikataan varsinaisesta
 Puhuja 1: podcastista pois. No niin, mutta tämä samainen
 Puhuja 1: blogisti, joka nyt syyttää Laura Huhtasaareen
 Puhuja 1: gradunsa plagioinnista, hän syytti viime talvena
@@ -76,17 +75,20 @@ Puhuja 1: Se oli itse asiassa
 Puhuja 1: aika todistusvoimainen todistus, esimerkkejä oli tosi paljon.
 Puhuja 1: En tiedä onko tämä Laura Huhtasarjan tapa toimia vai ei, mutta ainakin näiden blogauksiensa
 Puhuja 0: suhteen. Kadulla kriisi on ohi.
-Puhuja 0: Suomen kriisit on ohi ja minä miellän että nyt ei ole enää,
-Puhuja 0: missä ei välky, punainen valo, että
+Puhuja 0: Suomen kriisit on ohi ja minä miellän
+Puhuja 0: miellän,
+Puhuja 0: että missään ei välky punainen valo, että
 Puhuja 0: nyt mennään hellinä, hän pääsikin, että mikä se on suomeksi, en tiedä. Helvettiin käsilaukussa.
 Puhuja 0: Mutta silti me jotenkin kaipaa, että
-Puhuja 0: nyt vahva johtaja on muka joku kriisi.
+Puhuja 0: nyt
+Puhuja 0: vahva johtaja on muka joku kriisi.
 Puhuja 2: Ja vaikka olisi kriisi, niin auttaisiko tämä yksi henkilö, joka on vahva johtaja?
 Puhuja 2: No mutta kannatan parlamentarismia
-Puhuja 2: ja
-Puhuja 2: sitä kautta
+Puhuja 2: ja sitä kautta
 Puhuja 2: vähäisiä presidentin valtaoikeuksia
-Puhuja 2: ratkaisuna tilanteeseen kuin tilanteeseen kriisissä ja rauhallisempana
+Puhuja 2: ratkaisuna
+Puhuja 2: tilanteeseen kuin tilanteeseen
+Puhuja 2: kriisissä ja rauhallisempana
 Puhuja 0: jaksoja. Mutta eikö siinä ole mitään perää, että jos on tiukka paikka,
 Puhuja 0: niin ohjat pitää keskittää yhteen paikkaan, jotta saadaan tehokkaasti tehtyä esimerkiksi päätöksiä?
 Puhuja 2: Sillähän
@@ -100,25 +102,25 @@ Puhuja 2: tilanteessa, jossa meidän pitää ohjata lähes diktatori siinä valt
 Puhuja 1: Mutta näkeehän sen
 Puhuja 1: Taas päästään sinne tsaariin. Jos
 Puhuja 1: tässä nyt
-Puhuja 1: on näissä
-Puhuja 1: perustuslakiuudistuksissa
-Puhuja 1: on valtaa siirretty presidentiltä eduskunnalle ja on siirretty aidosti parlamentaariseen systeemiin.
+Puhuja 1: on näissä perustuslaki uudistuksissa valtaa siirretty presidentiltä... Eduskunnalle
+Puhuja 1: ja
+Puhuja 1: aidosti parlamentaariseen
+Puhuja 1: systeemiin
 Puhuja 1: Mikä on
-Puhuja 1: kaiken järjen mukaan
-Puhuja 1: parempi systeemi kuin se, että kaikki valta on siellä yhden ihmisen käsissä.
+Puhuja 1: kaiken järjen mukaan parempi systeemi kuin se, että kaikki valta on siellä yhden ihmisen käsissä.
 Puhuja 1: Meidän kansahan on ihan eri mieltä. Viimeksi oli Evan kysely missä kysyttiin pitäisikö presidentin valtaoikeuksia
 Puhuja 1: lisätä.
 Puhuja 1: Muistan lukuja, mutta aivan selkeä ennen mistä suomalaiset haluaisi vahvan presidentin. Olla olisi oikeus hajottaa eduskuntaan eduskuntaan
 Puhuja 1: ja haluaisi Kekkosen takaisin. Mikä
-Puhuja 1: meitä vaivaa?
-Puhuja 0: No joo, mutta valtaosa suomalaisista on mitä
+Puhuja 0: meitä vaivaa? Ja ne on siis, no joo, mutta valtaosa
+Puhuja 0: suomalaisista on mitä
 Puhuja 0: 65-vuotiaita
 Puhuja 0: seinilee.
 Puhuja 1: Ai kaipa, eikö se niin?
 Puhuja 1: Mistä tämä johtuu? Me kuitenkin uskotaan siihen, että
 Puhuja 1: eikö rationaalista edes uskoa, että isompi viisaus asuu kaksisataa päässä kuin yhdessä päässä? Paitsi se
-Puhuja 1: lukee.
-Puhuja 2: Niin ehdottomasti olen samaa mieltä siitä että kaikki järki
+Puhuja 0: lukee.
+Puhuja 2: Niin ehdottomasti olen samaa mieltä siitä, että kaikki järki
 Puhuja 2: omasta mielestäni viittaa siihen, että me mahdollisimman pitkälti
 Puhuja 2: jaetaan valtaa.
 Puhuja 2: Ja perustelu on se, että kun ajatellaan entisiä aikoja, yksi ihminen ehkä pystyi hallitsemaan sen tiedollisen
@@ -135,30 +137,30 @@ Puhuja 2: tämän tehtävänhautuja.
 Puhuja 2: Plus,
 Puhuja 2: että pitää olla
 Puhuja 2: kyky tunnistaa asiantuntemus.
-Puhuja 2: On valtava joukko ihmisiä, joilta on saatava se kokonaisnäkemys
+Puhuja 2: On valtava joukko ihmisiä, joilta on saatava
+Puhuja 2: se kokonaisnäkemys
 Puhuja 2: koetuksi jota yhdellä ihmisellä ei voi olla. Joten on sitten osattava erottaa väärä profeetta ja paremmat profeetat.
 Puhuja 1: Meillä on paikalla filosofi niin haluaisin kysyä nyt Platonista.
-Puhuja 1: Tuomaksen ilme. Mikä sinulla on Platonia vastaan?
+Puhuja 1: Tuomaksen
+Puhuja 1: ilme. Mikä sinulla on Platonia vastaan?
 Puhuja 1: Ei mikään. No niin.
 Puhuja 0: Loukkasin että lähetit minulle
 Puhuja 0: taustaideiksiä
 Puhuja 0: jotka vilisivät Platoneita.
 Puhuja 1: Platon oli täsmälleen yhden kerroksen.
 Puhuja 1: Eli Platon, tämä kuuluisa antiikin Kregan filosofi.
-Puhuja 1: Hän arvioi koska itsekin on filosofi ehkä johtuen tästä että filosofit on oikeastaan se johtamisen
+Puhuja 1: Hän arvioi koska itsekin on filosofi ehkä johtuen tästä että... Filosofit on oikeastaan se johtamisen
 Puhuja 1: ylin
 Puhuja 1: luokka.
 Puhuja 1: Eli
 Puhuja 1: se on ainut ihmisryhmä
-Puhuja 1: jolla on kokonaisnäkemys siitä mikä on
-Puhuja 1: valtion kokonaisuuden ja valtion yhteinen hyvä. Sen takia filosofian pitäisi olla hallitsijana.
+Puhuja 1: jolla on... Kokonaisnäkemys siitä mikä on
+Puhuja 1: valtion... Kokonaisuuden ja valtion yhteinen hyvä. Sen takia filosofian pitäisi olla hallitsijana.
 Puhuja 1: Onko näin? Ja onko Sauli Niinistö,
-Puhuja 1: onhan sillä vähän semmoinen Salo koukoinen se puhetapa niin voiko hänet laskea niin kuin Salo Platoniksi?
+Puhuja 1: onhan sillä vähän semmoinen... Salo koukoinen se puhetapa niin voiko hänet laskea niin kuin Salo Platoniksi?
 Puhuja 2: Tässä
-Puhuja 2: Platonin näkemyksessä on onneksi toinenkin puoli. Toinen mahdollisuus on se, että filosofi ryhtyy hallitsijaksi
-Puhuja 2: ja toinen mahdollisuus on se, että hallitsija ryhtyy filosofiksi.
-Puhuja 2: Hän ryhtyy
-Puhuja 2: oikein vakavissaan
+Puhuja 2: Platonin näkemyksessä on onneksi toinenkin puoli. Toinen mahdollisuus on se, että filosofi ryhtyy hallitsijaksi ja toinen mahdollisuus on se, että hallitsija ryhtyy filosofiksi.
+Puhuja 2: Hän ryhtyy oikein vakavissaan
 Puhuja 2: pohdiskelemaan.
 Puhuja 2: Ja tämä vakava pohdinniskelu
 Puhuja 2: ei ole välttämättä
@@ -187,7 +189,7 @@ Puhuja 1: asiat on yhden henkilön päässä hallittavissa. Eli tämä laiva on 
 Puhuja 1: valtioneuvosto,
 Puhuja 1: että pääministeri on ehkä se laiva kapteeni joka ohjaa siellä.
 Puhuja 1: Ulkoministeriö
-Puhuja 2: on siellä mastossa reivaamassa purjetta ja näin edespäin. Niin ja tietysti demokratia ihanteen mukaisesti me yritetään
+Puhuja 1: on siellä mastossa reivaamassa purjettaja ja näin edespäin. Niin ja tietysti demokratian ihanteen mukaisesti me yritetään
 Puhuja 2: roikkua siinä laivan kyljessä itse kukin.
 Puhuja 0: Okei, onko meillä vielä?
 Puhuja 1: Ai tota Lippojen Palatoniin. Niin.
@@ -203,18 +205,18 @@ Puhuja 0: kollegoiden ja ystävien
 Puhuja 0: kanssa keskustella
 Puhuja 0: niin, mistä keskustelette heidän kanssaan? Mikä on semmoinen asia? Marko aloittaa.
 Puhuja 1: Täytyy aina olla yllättäen.
-Puhuja 1: Voisin puhua siitä, katsoin viikonloppuna,
+Puhuja 1: Voisin puhua siitä, katsoin
+Puhuja 1: viikonloppuna,
 Puhuja 1: taas jotenkin uppouduin katsomaan Netflixiä ja katsoin siellä on
 Puhuja 1: tämmöinen semi dokumentti
 Puhuja 1: tästä amerikkalaisesta Unaboberista.
 Puhuja 0: Jaha!
 Puhuja 1: Se on erittäin taitavasti tehty.
-Puhuja 1: Se on profiloija,
-Puhuja 1: joka on poliisissa,
-Puhuja 1: joka pystyy
-Puhuja 1: Se pystyy Unabomberin,
+Puhuja 1: Se on profiloija, joka siis poliisissa,
+Puhuja 1: joka
+Puhuja 1: pystyi Unabomberin,
 Puhuja 1: jonka
-Puhuja 1: Washington Post julkaisi, jossa oli
+Puhuja 1: Washington Post julkaisi, jossa oli siis
 Puhuja 1: kuusi printin sivua.
 Puhuja 1: Hän pystyi tekstianalyysillä
 Puhuja 1: pitkälle
@@ -231,7 +233,7 @@ Puhuja 1: tarina. Loppujen lopuksi itse asiassa Unabombergin
 Puhuja 1: veli sen ilmi antoi. Hän tunnisti sen,
 Puhuja 1: tai rupesi epäilemään että veli saattaa olla tämä. Mutta se oli erittäin paljon kiinnostavaa. Kiinnostavaa.
 Puhuja 1: Mutta se oli siinä meidän semidokumentti, että ymmärsin
-Puhuja 1: että tämä päähenkilö oli tämmöinen, joka itsekin sitten rupesi
+Puhuja 1: että tämä päähenkilö oli tämmöinen, joka itsekin sitten rupesi...
 Puhuja 1: Hän ymmärsi hyvin pitkälle Unabobergin ajatusmaailmaa, mutta tämmöistä henkilöä ei ole ollut, siinä oli useammin profiloida oikeasti.
 Puhuja 1: Mutta tekstianalyysiä on oikeasti tehty ja se on ollut tavallaan keino millä Unabomberg löytyi.
 Puhuja 1: Se oli kiehtova sarja tosi hyvin tehdä. Meta oli Netflixissä
@@ -250,7 +252,7 @@ Puhuja 2: Siitä pääsee liikkeelle
 Puhuja 2: ja todella huikeita näkökulmia
 Puhuja 0: avautuu.
 Puhuja 0: Tekoälyn etiikassa,
-Puhuja 0: tarkoitetaanko siinä
+Puhuja 0: tarkoitetaanko siinä...
 Puhuja 0: Siis
 Puhuja 0: on olemassa moraalinen
 Puhuja 0: ongelma siinä, että jos meillä on vaikka tekoälyauto,
@@ -263,10 +265,10 @@ Puhuja 0: miljardia
 Puhuja 0: eläkeloppuittia.
 Puhuja 0: Molemmat ongelmat ovat läsnä tekoälyteskustelussa.
 Puhuja 2: Ne ovat molemmat läsnä, ja sitten tietysti huikean mielenkiintoinen mahdollinen sinulariteetti.
-Puhuja 2: Tuleeko se hetki jolloin me jäädään tähän höpertelemään
-Puhuja 2: yksksemme toisarvoisista kysymyksistä kun kaiken vakavan pohdinnan tekee tekoälyn? Niin,
-Puhuja 1: sano nyt vielä oletko tämä
-Puhuja 1: Tämä on ollut kiinnostavaa seurata tätä tekoälykeskustelua Jenkeissä
+Puhuja 2: Tuleeko se hetki jolloin me jäädään tähän... Höpertelemään
+Puhuja 2: yksksemme toisarvoisista kysymyksistä kun kaiken vakavan pohdinnan tekee... Tekoälyn? Niin,
+Puhuja 1: sano nyt vielä oletko... Tämä
+Puhuja 1: Tämä on ollut kiinnostavaa seurata tätä tekoälykeskustelua... Jenkeissä
 Puhuja 1: missä on jatkunut jo monta vuotta. Esimerkiksi Bill Gates
 Puhuja 1: ja Elon Muskin oli mutta Bill Gates oli tosi, hän näki tässä kaikki maailmanlopun meiningillä. Hän on nyt vähän aikaa muuttanut näkemystään, nyt hän suhtautuu levollisemmin.
 Puhuja 1: Jos pitäisi valita nämä leirit, tämä
@@ -364,7 +366,7 @@ Puhuja 0: Aluksi Azi se oli, että häntä ei kiinnostanut vieraiden kanssa jute
 Puhuja 0: Mimmi meni selittämään sitä, että katsoin, meillä on samanlaiset kamerat siitä. Syntyi yhteys. Sitten ne jutteli ja tulikin ihan hyvin juttuja. Sitten vaihtiin puhelinnumeroita.
 Puhuja 0: Sitten Ansari
 Puhuja 0: oli laittanut Mimmille tekstiviestejä, että oli ihan mukava jutella, että nähdäänkö joku kerta?
-Puhuja 0: Josta seuraa se Ja nyt alkaa se varsinainen homma, mistä tämä juttu kertoo.
+Puhuja 0: Josta seuraa se... Ja nyt alkaa se varsinainen homma, mistä tämä juttu kertoo.
 Puhuja 0: Josta seurasi se, että he menivät treffelle.
 Puhuja 0: Sitä ennen nainen
 Puhuja 0: hän pisti itsensä
@@ -398,7 +400,7 @@ Puhuja 0: Ja sen jälkeen tapahtui se, että myöhemmin nainen sanoo, että hei 
 Puhuja 0: Ja että nehän lähtee nyt menemään ja lähti pois.
 Puhuja 0: Seuraavana päivänä käytiin joku tekstiviestin vaihto, että Azi Sansori laittoi, että hei, olipa kivaa, nähdäänkö
 Puhuja 0: uudelleen, en muista sana tarkkaan enkä
-Puhuja 0: järjestyksen muista tarkkaan. Mihin tämä aine vastasi,
+Puhuja 0: järjestyksen muista tarkkaan. Mihin tämä nainen vastasi,
 Puhuja 0: sinusta ehkä vaikutti, että se oli kivaa, mutta minulla ei ollut kivaa. Mihin Anskari vastasi,
 Puhuja 0: että okei, tämä tuli yllätyksenä,
 Puhuja 0: olen pahoillani tästä ja en tajunnut, että tässä on nyt joku virhe.
@@ -428,7 +430,8 @@ Puhuja 0: analysoida, mitä on tapahtunut.
 Puhuja 0: Jonkun pitäisi tehdä sen, mä en tule tekemään. Mutta
 Puhuja 0: siis
 Puhuja 0: baby piste net-julkaisussa
-Puhuja 0: I went on a date with Azies Ansaari, it turnt into the world nide my life.
+Puhuja 0: I went on a date with Azies Ansaari,
+Puhuja 0: it turn into the World nide my life.
 Puhuja 0: Kannattaa tsekata
 Puhuja 0: tosi
 Puhuja 0: kuohottavaa kamaa.

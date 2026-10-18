@@ -40,7 +40,7 @@ Puhuja 1: Oletko itse kissa vai koira ihminen? No koiraihminen ehdottomasti.
 Puhuja 1: Millainen terrier sä olisit? En tiedä yhtään terrieriä oikeasti. Tämä on paha. Okei. Vaikko kuvailla mulle sen?
 Puhuja 2: Terrierit ei ehkä ole se suosikirotu pakko sanoa.
 Puhuja 2: Tykkään vähän
-Puhuja 1: pehmeämmistä
+Puhuja 2: pehmeämmistä
 Puhuja 1: ja ne
 Puhuja 1: pyörii ympäri ja ne on XVY
 Puhuja 1: Okei
@@ -63,8 +63,7 @@ Puhuja 1: Miksi Britannia vaihtaa bännistelee kuin alusvaatteita ja mitä se ta
 Puhuja 1: Sen jälkeen keskustelemme Kauppatorilla turisteille myytävästä rikkamasta, tekoälystä sekä Suomen ja Helsingin turismibrändistä.
 Puhuja 1: Ja lopuksi tuttuun tapaan tarjoamme puheenaiheita pitkien kiusallista, ikäisyyksien valta.
 Puhuja 1: Eduskunnan kesäloma alkaa, mutta politiikassa sattuu ja tapahtuu.
-Puhuja 1: Viime viikolla ilmoitettiin sosiaali ja terveysministeriö
-Puhuja 1: leikkaavan
+Puhuja 1: Viime viikolla ilmoitettiin sosiaali ja terveysministeriö leikkaavan
 Puhuja 1: järjestöille maksettavia STEA-avustuksia.
 Puhuja 1: Uuden ohjeistuksen takana oli sosiaali ja terveysministeri
 Puhuja 1: Ville Rydma.
@@ -100,7 +99,7 @@ Puhuja 1: arvioi, että tekoälyllä tuotetun ja puutteellisen turisminkuvan lop
 Puhuja 1: Topi, millaisella tekoälykuvilla varustettuja magneetteja haluaisit myydä kauppatarina?
 Puhuja 3: En absoluuttisen
 Puhuja 3: minkäänlaisilla, siis mulla on pieni räntin paikka.
-Puhuja 3: Saanko? Sallitteko? Sallitteko? Sallitteko. Kiitos, kiitos. Mä näin tämmöisiä
+Puhuja 3: Saanko? Sallitteko? Sallitteko? Sallitteko. Kiitos, kiitos. Mä näin tämmösiä
 Puhuja 3: viime vuonna
 Puhuja 3: ensinnäkin Köpiksen jouluporilla ja sitten toukokuussa
 Puhuja 3: Oslossa poreilla myös myytiin magneetteja, joissa oli aivan ilmiselviä
@@ -133,16 +132,16 @@ Puhuja 3: megafirmoja.
 Puhuja 3: Mulla ensimmäinen esimerkki oli siis Coca-kola.
 Puhuja 3: En tiedä, muistatteko viime joululta
 Puhuja 3: sen yhden mainoksen. Siis
-Puhuja 3: kansainvälinen firma tahkoo
-Puhuja 3: miljardeja tulosta joka vuosi.
+Puhuja 3: kansainvälinen firma tahkoo miljardeja
+Puhuja 3: tulosta
+Puhuja 3: joka vuosi.
 Puhuja 3: Miksi näitä ihmisaivoja,
 Puhuja 3: jotka
 Puhuja 3: tekee upeita markkinointi-ideoita
 Puhuja 3: ja mieletöntä tehostetyötä noissa videoissa,
 Puhuja 3: korvataan prompteilla.
 Puhuja 3: Ja sitten vielä tästä Cocakolan kampiksesta semmoinen yksityiskohta, että
-Puhuja 3: Wall Street Street Journal kirjoitti, että seitsemänkymmentä tuhatta klippiä vaadittiin
-Puhuja 3: tekoälyn tekemänä
+Puhuja 3: Wall Street Street Journal kirjoitti, että seitsemänkymmentä tuhatta klippiä vaadittiin tekoälyn tekemänä
 Puhuja 3: siihen mainokseen, että siitä tuli sellainen, mitä se on. Seitsemänkymmentä
 Puhuja 3: nolla ja sata
 Puhuja 3: ihmistä on ollut mukana tekemässä. Siis sata ihan palkallista ihmistä on ollut mukana tekemässä. Romtaamassa!
@@ -170,7 +169,8 @@ Puhuja 1: eihän nämä ole mitään
 Puhuja 1: kaupungissa palkkaamia tyyppejä, vaan että ne on tyyppejä maskkotippuvuissa,
 Puhuja 1: jotka ottaa kuvitituristeen kanssa saadakseen turisteja rahaa siitä.
 Puhuja 1: En nyt tiedä,
-Puhuja 1: voiko heitä syyttää siitä,
+Puhuja 1: voiko heitä
+Puhuja 1: syyttää siitä,
 Puhuja 1: miksi te ette paranna Suomi-brändiä.
 Puhuja 1: Olisihan se varmaan toivottavaa,
 Puhuja 1: mutta
@@ -189,13 +189,10 @@ Puhuja 1: saa myydä tekoäly roskaa kauppatorilla, se olisi hirveän vaikea val
 Puhuja 1: Mutta
 Puhuja 1: tällaisilla infrapäätöksillä
 Puhuja 1: taikka kaavoituspäätöksillä ja muillahan
-Puhuja 1: varmasti voidaan vaikuttaa siihen, että kellä on varaa tulla, kellä on kykyä myymään sitä.
+Puhuja 1: varmasti voidaan vaikuttaa siihen, että kellä on varaa tulla, kellä on kykyä
+Puhuja 1: myymään sitä.
 Puhuja 1: Ehkä
-Puhuja 3: taukkasta, mitä me tehdään koko ajan, tavallaan, että
-Puhuja 3: me kelpuutetaan se ja niitä ostetaan
-Puhuja 3: ja
-Puhuja 3: homma pyörii ja kuluu, niin mua ärsyttää ehkä eniten tässä se elämän
-Puhuja 3: tason asia.
+Puhuja 3: taukkasta, mitä me tehdään koko ajan,
 Puhuja 1: Itseäni fiksumpia nuoria ihmisiä.
 Puhuja 1: Ei ole ehkä hirveän innostuneita näistä
 Puhuja 1: tekoälyasioista.
@@ -206,13 +203,14 @@ Puhuja 1: kuva,
 Puhuja 1: jossa oli se kauppa ja tehty vähän
 Puhuja 1: niin kuin jollain lastenkirjamaisella
 Puhuja 1: tyylillä.
-Puhuja 1: Kyllä mä huomaan katsovani kaikkia,
-Puhuja 1: nykyään sanoin, että onkohan tämä tehty Aila.
+Puhuja 1: Kyllä mä huomaan katsovani kaikkia.
+Puhuja 1: Nykyään hän sanoi, että onkohan tämä tehty Aila.
 Puhuja 3: Mä en osaa varmaksi sanoa siitä. Sitä on tosi vaikea nykyään oikeasti erottaa. Parhaat mallit tekee niin
 Puhuja 3: realistisia kuvia, että se
 Puhuja 3: on niin karmi vaikuttava
-Puhuja 1: itselle
-Puhuja 1: sen vaikuttavan ostopäätökseen, että onko joku asia tehty aila vai ei. Vaikka itsekin käytän päivittäin aita mun työssä. Yritän käyttää sitä siihen, ettei se vaan anna mulle valmiita asioita tai kuvia, vaan
+Puhuja 1: kyllä huomaan itselleni sen
+Puhuja 1: vaikuttavan ostopäätökseen, että onko joku asia tehty aila vai ei. Vaikka itsekin käytän päivittäin aita mun työssä. Yritän käyttää sitä siihen, ettei se vaan
+Puhuja 1: anna mulle valmiita asioita tai kuvia, vaan
 Puhuja 1: käytän sitä esimerkiksi
 Puhuja 1: hakemaan ja tiivistämään mulle lähteitä,
 Puhuja 1: ja pystyn
@@ -227,8 +225,9 @@ Puhuja 2: Mutta eikö se yleisesti mene sellainen, että nuoret löytää jonkun
 Puhuja 2: Kukaan nuori, en kai juo kuinjun nuori siellä Facebookissa yhä ole, mutta
 Puhuja 2: vanhemmat
 Puhuja 2: ikäpolvet tulevat myöhemmin näissä kaikissa trendeissä mukaan.
-Puhuja 1: Tässä artikkelissa tietty
-Puhuja 1: asiantuntijat tämän
+Puhuja 1: Tässä
+Puhuja 1: artikkelissa tietty asiantuntijat
+Puhuja 1: tämän
 Puhuja 1: monikkolyhyjen
 Puhuja 1: lisäksi arvioi, tai siis vähän niin kuin, no kauhisti on ehkä väärä sana, mutta he suhtautuvat tähän kriittisesti. Mekin olemme suhtautuneet tähän kriittisesti, mutta nämä artikkelissa
 Puhuja 1: haastatellut turistit
@@ -375,8 +374,7 @@ Puhuja 1: niin Nivlisaari
 Puhuja 1: toimii oikein hyvin. Se oli hirveän vähän
 Puhuja 1: ihmisiä juhannus sunnuntaina,
 Puhuja 1: vaikka aurinkoporotti ja siis minäkin paloin punaiseksi kuin rapu.
-Puhuja 2: Puna John, is making.
-Puhuja 3: Kyllä, viime kesän.
+Puhuja 2: Puna John, is making. Kyllä, viime kesän.
 Puhuja 3: Mutta hyvin olet palautunut siitä, että ei tässä
 Puhuja 3: nyt mitenkään punaista näy ainakaan iholla
 Puhuja 3: sielussa

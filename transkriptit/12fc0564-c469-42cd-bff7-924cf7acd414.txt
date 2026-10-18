@@ -21,9 +21,8 @@ Puhuja 1: yksitoista. Kesäkuuta.
 Puhuja 1: Täällä Helsingin Sanomien
 Puhuja 1: studiossa.
 Puhuja 1: Vähän kuuluu se rimpsu sitten, maapallolla Euroopassa,
-Puhuja 1: Helsingin pää kaikus-Suomen pääkaupungissa.
-Puhuja 1: Minun nimeni on Marko Jukkari.
-Puhuja 1: Täällä kanssani ovat
+Puhuja 1: Helsingin pää kaikukus-Suomen pääkaupungissa.
+Puhuja 1: Minun nimeni on Marko Jukkari, ja täällä kanssani ovat
 Puhuja 1: tutkivien juttujen
 Puhuja 1: ylipäällikkö,
 Puhuja 1: Salla Vuorikoski.
@@ -113,7 +112,7 @@ Puhuja 2: videotarkistusjärjestelmä
 Puhuja 2: jalkapallossa, että tämä on massoja
 Puhuja 2: jakava
 Puhuja 2: tai suorastaan
-Puhuja 2: suurta vastarintaa herättävä liikehdintä, tämä anti VARK. Ihmisiä ärsyttää se, että
+Puhuja 2: suurta vastarintaa herättävä liikehdintä tämä anti VARK. Ihmisiä ärsyttää se, että
 Puhuja 2: niitä tilanteita, ilmeisesti nyt vielä entistä enemmän kuin ennen, katsotaan jälkikäteen
 Puhuja 2: ja oliko virhe vai ei. Se vie autenttisuuden.
 Puhuja 1: No se vie autenttisuuden. Eikä siinä eniten rasittaa se, että
@@ -131,8 +130,8 @@ Puhuja 1: MM-kisoissa, jolloin englanti voitto ainoa mestaruutensa. Ja se, että
 Puhuja 1: Niin
 Puhuja 1: tuota... Tää oli tavallaan kiva, että se varsit tavallaan ratkaisee tai se, että oliko aikoinaan mardadonat muutti Jumalan kädestä, kun hän tosi lyhyt pelaaja, miten hän pystyi
 Puhuja 1: sieltä maalibaarin
-Puhuja 1: edestä mukavasti pukkaamaan sen pallon, vaikka hän oikeasti läpäisi sen kädellä. Tästäkin on kiistelty nyt jo mitä kolmekymmentä vuotta, että oliko siinä käsi vai ei. Ehkä se nyt on selvää, että se oli käsi, mutta Siinä
-Puhuja 1: mielessä se on tavallaan oikeudenmukaista. Mutta mua ehkä
+Puhuja 1: edestä mukavasti pukkaamaan sen pallon, vaikka hän oikeasti läpäisi sen kädellä. Tästäkin on kiistelty nyt jo mitä kolmekymmentä vuotta, että oliko siinä käsi vai ei. Ehkä se nyt on selvä, että se oli käsi, mutta
+Puhuja 1: No siinä mielessä, että se on tavallaan oikeudenmukaista. Mutta mua ehkä
 Puhuja 1: niin kuin... Mikä mua tässä ehkä nyppii, on ensinnäkin Yhdysvallat
 Puhuja 1: tässä,
 Puhuja 1: tavallaan tässä on...
@@ -142,16 +141,19 @@ Puhuja 1: katsojien
 Puhuja 1: intomielisyys ja rakkausjien laji, mutta kun eihän Yhdysvallat... Tämä just jostain luu, että nykyään
 Puhuja 1: tämä Soker-jalkapallo
 Puhuja 1: on Yhdysvaltain kolmanneksi
-Puhuja 1: suosittu urheilulaji. Onko todella?
+Puhuja 2: suosittu urheilulaji. Onko todella?
 Puhuja 1: On, se lähentelee ja on hoitanut baseball.
 Puhuja 2: Ihan
 Puhuja 2: tosi, tämä on uutinen.
 Puhuja 1: Siitä huolimatta se on edelleen suurimmalle osalle jenkeistä
 Puhuja 1: marginaali
 Puhuja 1: laji.
-Puhuja 1: No tänään itse asiassa luin New York chamsessa.
+Puhuja 1: Ja
+Puhuja 1: sitten
+Puhuja 1: esimerkiksi
+Puhuja 1: luin New York chamsessa.
 Puhuja 1: Näki saattoi kolmessa maassa Yhdysvalloissa Kanadassa ja Neksikossa ja siellä oli joka maassa yksi
-Puhuja 1: tämmöinen jalkapallotoimittajan
+Puhuja 1: jalkapallotoimittajan
 Puhuja 1: analysoi ja kertoi mitä tuntemuksia on. Ja Se oli minusta oikeastaan aika hieno se jenkkitoimittaja
 Puhuja 1: kirjoitti siitä, että edellisen kerran nämä kisat olivat Yhdysvalloissa vuonna tuhat yhdeksänsataayhdeksänkymmentäneljä
 Puhuja 1: ja hänkin silloin nuorena poikana harrasti innokkaasti jalkapalloa, mutta hän ei ollut koskaan nähnyt, kun ei jenkkitelevisiossa
@@ -166,7 +168,7 @@ Puhuja 1: jokaikinen
 Puhuja 1: liikennevä euro ja dollari joka paikasta ja nehän on niin super kaupalliset kisat, että siellä on ne lippujen hinnat,
 Puhuja 1: tuhannella dollarilla ei taida saada lippua edes. Niin, vaikka luvattiin,
 Puhuja 2: että tavan ihminenkin pääsisi kohtuullisella kustannuksella.
-Puhuja 1: No ei pääse. Ja sitten lopputulema on se, että mun mielestä siinä jenkkien avamatsasiissakin taitaa olla vielä lippuja myymättä.
+Puhuja 1: No ei pääse. Ja sitten lopputulema on se, että mun mielestä siinä Jenkkien avamatsasiissakin taitaa olla vielä lippuja myymättä.
 Puhuja 1: Että mikä se tunnelma sitten loppujen lopuksi stadioneilla on.
 Puhuja 1: Vaikka
 Puhuja 1: nyt on luvattu, että siellä ei pitäisi olla näitä
@@ -226,20 +228,19 @@ Puhuja 2: pöytään.
 Puhuja 2: Ja että laajennetaan
 Puhuja 2: sitä. Kuinka paljon pitää laajentaa, että me päästään?
 Puhuja 3: Saan kaikkien jalkapallofanien
-Puhuja 3: piha kiskaan. No
+Puhuja 3: piha kiskaa. No
 Puhuja 2: ei, kun onhan meillä hyvä joukkue, mutta ei nyt ole toistaiseksi päästä. Mutta ehkä minun elinaikin...
 Puhuja 1: EM-kisoissa oltiin jo.
-Puhuja 1: Ehkä tuo joukkueiden määrä kyllä kiva tulee paljon matseja, mutta onhan se siellä tulee olemaan aika monta tosi tylsää peliä, koska onhan se niin
+Puhuja 1: Ehkä tuo joukkueiden määrä. Kyllä kiva tulee paljon matseja, mutta onhan se siellä tulee olemaan aika monta tosi tylsää peliä, koska onhan se niin
 Puhuja 1: kuin, että siellä on ne lohkot aiheuttavia, että siellä
 Puhuja 1: on aika harvassa alkolohkossa
 Puhuja 1: kovin montaa elämästä huippumaata, että sieltä tulee semmoisia, voi tulla aika suurenumeroisia
 Puhuja 1: voittoja sun muuta, mikä ei ole tietenkään kiva.
 Puhuja 1: Mutta tänään ne alkaa ja kuukauden kestää ja kyllä mä meinasin nyt kaikkia pelejä, mutta kyllä vähän aika monta niistä ajattelin katsoa kaikesta Meidän miesväylä on joku
 Puhuja 2: peliveikkaus, varmaan jokainen matsi erikseen ja minua on erityisesti kielletty osallistumasta
-Puhuja 2: siihen. Onko? Äitien mix?
+Puhuja 3: siihen. Onko? Äitien mix?
 Puhuja 2: Vaikka
-Puhuja 2: äitini on voittanut, siitä nyt on varmaan kymmenen vuotta vai mitä liian, paljonko niistä kisoista on, mutta äitini on voittanut
-Puhuja 2: suvun laajan
+Puhuja 2: siis äitini on voittanut, siitä nyt on varmaan kymmenen vuotta vai mitä liian, paljonko niistä kisoista on, mutta äitini on siis voittanut suvun laajan
 Puhuja 2: Veikkauksen
 Puhuja 2: tietämällä
 Puhuja 2: voittojen.
@@ -275,6 +276,7 @@ Puhuja 3: Ne nimet ovat lapsuus, nuoruus ja aikuisuus.
 Puhuja 3: Hän osaa kuvata ihan muutamilla
 Puhuja 3: sanoilla ihan järisyttäviä
 Puhuja 3: asioita.
+Puhuja 3: Minua
 Puhuja 3: Minua viehätti kohta
 Puhuja 3: joko lapsuus tai nuoruuskirjassa.
 Puhuja 3: Se päähenkilö minäkertoja
@@ -305,10 +307,11 @@ Puhuja 2: Se on fiktiivinen
 Puhuja 2: leffa, mutta siellä kulkee. Mietin, kun katsoin
 Puhuja 2: sitä, että onkohan niin, että kaikki asia-asiat
 Puhuja 2: siihen ohjukseen
-Puhuja 2: liittyen olivat totta, mutta siinä kulkee päällä tällainen fiktiivinen
+Puhuja 2: liittyen olivat totta. Siinä kulkee päällä tällainen fiktiivinen
 Puhuja 2: stoori
 Puhuja 2: yksinhuoltajaaäidistä,
-Puhuja 2: nuoresta naisesta, joka on elämässään
+Puhuja 2: nuoresta naisesta,
+Puhuja 2: joka on elämässään
 Puhuja 2: hankalassa paikassa ja äiti yhtäkkiä paikallislehden
 Puhuja 2: toimittajaksi ja rupeaa tavallaan selvittämään
 Puhuja 2: suuremmalla innolla tätä ohjusasiaa kuin mitä häneltä varsinaisesti toivotaankaan.
@@ -316,8 +319,7 @@ Puhuja 2: Siinä
 Puhuja 2: on rakkausasioita ja
 Puhuja 2: siinä on kaikenlaisia hahmoja.
 Puhuja 2: Se on siis
-Puhuja 2: sen
-Puhuja 2: elokuvan tunnelma ihan pelkästään
+Puhuja 2: sen elokuvan tunnelma ihan pelkästään
 Puhuja 2: on jotenkin täysin
 Puhuja 2: semmoinen hykerryttävä
 Puhuja 2: ja sellainen, että siinä on ihana
@@ -332,7 +334,8 @@ Puhuja 2: ja niihin,
 Puhuja 2: siinä on
 Puhuja 2: henkilöhahmoja.
 Puhuja 2: Siellä on tietenkin nämä kaikki
-Puhuja 2: parhaat näyttelijät mukana Suomesta,
+Puhuja 2: parhaat näyttelijät
+Puhuja 2: mukana Suomesta,
 Puhuja 2: tunnetuimmat näyttelijät. Pääosassa
 Puhuja 2: on Oona Airola, joka on aivan kreisin hyvä. Sitten siellä on Hannu-Pekka Björkmania ja
 Puhuja 2: näitä kaikkia hahmoja. Se on siis ihan hirveän hauska,
@@ -374,8 +377,7 @@ Puhuja 1: suomeksikin tarjolle.
 Puhuja 1: Ja se on ihan huikea kirja. Siis lyhyestihän,
 Puhuja 1: tavallaan New Yorkissa on semmoisia tolkuttoman pitkiä ne jutut ja niitä toimittaja
 Puhuja 1: tekee kuukausia yhtä juttuja ja usein vaatii valtavan tutkimustyö. Eli tavallaan
-Puhuja 1: kirjan tarina on ensin ilmestynyt New Yorkissa,
-Puhuja 1: jonka jälkeen hän on useamman vuoden aikana laajentanut tätä tarinaa. Mutta
+Puhuja 1: kirjan tarina on ensin ilmestynyt New Yorkissa, jonka jälkeen hän on useamman vuoden aikana laajentanut tätä tarinaa. Mutta
 Puhuja 1: Se yksinkertaisuudessaan
 Puhuja 1: kertoo sellaisesta
 Puhuja 1: pojasta, nuori mies,
@@ -387,7 +389,7 @@ Puhuja 1: ja
 Puhuja 1: myös rahaa, niin hän
 Puhuja 1: on krooninen
 Puhuja 1: valehtelija, että hän koko ajan esiintyy jonain henkilönä, mitä hän ei ole.
-Puhuja 1: Sitten hän sitten jossain vaiheessa rupeaa esiintymään tällaisen venäläisen oligarkin
+Puhuja 1: Sitten hän sitten tuossa vaiheessa rupeaa esiintymään tällaisen venäläisen oligarkin
 Puhuja 1: upporikkaana
 Puhuja 1: poikana,
 Puhuja 1: joka

@@ -34,7 +34,8 @@ Puhuja 2: keskustellaan
 Puhuja 2: muun muassa Euroopan tappohelteistä,
 Puhuja 2: joita voi
 Puhuja 2: kirjaimellisesti sellaiseksi kutsua.
-Puhuja 2: Mitä pitäisi ajatella siitä, että Britanniassa rautatiet vääntyvät käyttökellottomiksi
+Puhuja 2: Mitä pitäisi ajatella siitä, että Britanniassa
+Puhuja 2: rautatiet vääntyvät käyttökellottomiksi
 Puhuja 2: ja koko Eurooppa palaa?
 Puhuja 2: Myös puhutaan toisesta kriisistä eli Ukrainan sodasta.
 Puhuja 2: Ukrainan asemaa on parantaneet Yhdysvalolta saadut himars-raketinheittimet,
@@ -47,9 +48,10 @@ Puhuja 2: Kerrataan mursun matkaa päivien varrelta ja pohditaan sitä,
 Puhuja 2: mitä tämä kertoo meidän ajastamme.
 Puhuja 2: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljaisuuksien
 Puhuja 2: varalle.
-Puhuja 2: Okei, ottaa puheliteet, jotka valitettavasti sellaisia ovat.
+Puhuja 2: Okei, ottaa puheliteet, jotka valitettavasti sellaisia
+Puhuja 2: ovat.
 Puhuja 2: Ilmo on niihin perehtyä.
-Puhuja 3: Joo. Tuossa alkuviikosta
+Puhuja 3: Joo, tuossa alkuviikosta
 Puhuja 3: maanantaina
 Puhuja 3: julkaistiin juttu ulkomailta.
 Puhuja 3: Lämpöaalto on aiheuttanut jo tuhat kuolemaa Espanjassa Portugalissa.
@@ -60,7 +62,7 @@ Puhuja 3: helteeseen ja siihen
 Puhuja 3: liittyviin sivuoireisiin
 Puhuja 3: vaikutuksiin kuollut nämä tuhat, valitettavasti ihmistä, niin myös
 Puhuja 3: maastopalot ja tulipalot ovat nyt olleet erittäin
-Puhuja 3: suuria.
+Puhuja 4: suuria.
 Puhuja 3: Ja
 Puhuja 3: tietenkin ihmisiä on jouduttu evakuoimaan
 Puhuja 3: maastopalojen ja tulipalojen, muidenkin palojen
@@ -197,9 +199,7 @@ Puhuja 1: dosentti,
 Puhuja 1: puhui nimenomaan siitä,
 Puhuja 1: että
 Puhuja 1: onko jotenkin kaksi naamasta tai eettisesti arveluttavaa se, että on tosi investoinut tämän mursun kohtaloon, mutta sitten vaikka
-Puhuja 1: kannattaa tai tukee lihan
-Puhuja 1: tehotuotantoa,
-Puhuja 1: niin
+Puhuja 1: kannattaa tai tukee lihan tehotuotantoa, niin
 Puhuja 1: hän oli sitä mieltä, että on kuitenkin aina plussaa,
 Puhuja 1: jos ihmiset
 Puhuja 1: välittää jostain eläimestä. Ei se, että
@@ -215,17 +215,18 @@ Puhuja 1: täysin jotenkin kaksi naamasta nyt olla investoinut siihen mursuun,
 Puhuja 1: koska
 Puhuja 1: tuhannet
 Puhuja 1: ja tuhannet ja tuhannet ja miljoonat eläimet kuolee koko ajan
-Puhuja 1: ihmisen takia, niin sitten että itkee tavallaan sen mursun perään.
+Puhuja 1: ihmisen takia, niin
+Puhuja 1: sitten että itkee tavallaan sen mursun perään.
 Puhuja 1: Mutta kyllähän se on todella
 Puhuja 1: inhimillistä, että se on herättänyt ihmisissä paljon tunteita. Ja se Elisa Aaltolokin sanoisin, että se on iso nisäkäs,
 Puhuja 1: niin siihen on todella helppo kiintyä.
 Puhuja 1: Ihmiset kiintyvät isoihin
 Puhuja 1: nisäkkäisiin.
 Puhuja 1: Esimerkiksi, että jos olisi ollut vaikka käärme,
-Puhuja 1: joka olisi vaikka joku laji, joka olisi tullut ensi kertaa Suomeen, niin tuskin olisi saanut
-Puhuja 1: tällaista kansan suosiota,
+Puhuja 1: joka olisi vaikka joku laji, joka olisi tullut ensi kertaa Suomeen, niin tuskin olisi saanut tällaista
+Puhuja 1: kansan suosiota,
 Puhuja 1: koska se on mateliaa ja
-Puhuja 2: ei niin ihmisille herättävä. Tämä on mielenkiintoista. Molempien lännen on hevonen.
+Puhuja 2: ei niin ihmisille herättävä herättää. Tämä on mielenkiintoista. Molempien lännen on hevonen.
 Puhuja 2: Mitä isompi eläin, sitä
 Puhuja 2: enemmän luotan siihen. Mutta ei dinosaurukset.
 Puhuja 3: Mutta mä halusin tuoda siis vanhan
@@ -292,14 +293,14 @@ Puhuja 1: sille ennen kuin suuren yleisön tietoon oli tullut, että
 Puhuja 1: se on rouas henkilö.
 Puhuja 3: Mun mielestä
 Puhuja 3: olisi pitempää ja lyhyempi Marimursu.
-Puhuja 2: Mario
-Puhuja 3: on niin mene. Ei Mario mursu. Ei, mulla on pointti. Marjo voisi olla. Mutta
+Puhuja 3: Mario on niin mene. Ei Mario mursu. Ei, mulla on pointti. Marjo voisi olla. Mutta
 Puhuja 3: Mari voi viittaa myös
 Puhuja 3: tähän fly
 Puhuja 3: meemittelyyn,
 Puhuja 3: koska Mari huono.
 Puhuja 1: Se män Marjan lentämisessä.
-Puhuja 4: Niin, mäkin oon varmaan lentänyt. Aasisilta olet tänään
+Puhuja 4: Niin, mäkin oon varmaan lentänyt.
+Puhuja 4: Osinsilta olet tänään
 Puhuja 4: mursoja ja meemikulttuurien
 Puhuja 4: välillä.
 Puhuja 2: Yllättävän syvälle menee tämä keskustelu. Mari Mursa. Kyllä, Marjo Mursa. Mä oon sitä mieltä, että se ei tarvitse nimeä. Mun mielestä Haminan mursu on, tai pelkkä mursu. Kyllä me kaikki tietenkin sitä puhutaan. On ollut yksi mursu.
@@ -321,13 +322,12 @@ Puhuja 3: että erittäin suomalainen katsontakanta elämää. Hetken aikaa on i
 Puhuja 4: Hetki riehutaan jossain Kotkassa ja Haminassa
 Puhuja 4: ja pistetään mattelineeitä matalaksi ja sitten kuolla.
 Puhuja 2: Voi kauhea.
-Puhuja 2: Mutta oli ihanaa huomata, että tästä mursueritettiin
-Puhuja 2: auttaa.
+Puhuja 2: Mutta oli ihanaa huomata, että tästä mursu editettiin auttaa.
 Puhuja 2: Se oli hyvä. Ja että ihmiset välitti siitä. Niin, ihmiset välitti. Oli se,
 Puhuja 2: kun sitä mursuliveä
 Puhuja 2: tuossa aikansa tuijotti, mä olin tuossa meidän uutisteeskissä
 Puhuja 2: koko sen illan, niin ihan työkseni katsoin mursuliveä.
-Puhuja 2: Kyllä siihen kiintyi ja kyllä se surkealta näytti. Oli se
+Puhuja 2: Niin oli se kyllä. Kyllä siihen kiintyi ja kyllä se surkealta näytti. Oli se
 Puhuja 4: sympaattinen kaikin tavoin.
 Puhuja 4: Kaikkea hyvää mursulle sinne jonnekin.
 Puhuja 1: Kukka pärssiseen ja muiden seuraan.
@@ -384,9 +384,10 @@ Puhuja 4: Liittyisitkö se jotenkin tähän aborttiin?
 Puhuja 1: Katsoin sitten ennen, kun tätä oli hämmentävää lukea myös tämän aborttikeskustelun
 Puhuja 1: takia. Se ei mun mielestä ole mitenkään kovin pro life, mutta siis se on jo kaksituhatta
 Puhuja 1: neljätoista
-Puhuja 1: tehty, että ei ole mikään ihan tuore.
+Puhuja 1: tehty, että ei ole
+Puhuja 1: mikään ihan tuore.
 Puhuja 1: Tähänkin
-Puhuja 1: taustaan peilaten sitä on tosi outo lukea se.
+Puhuja 1: taustaan peilaten sitä on tosi outo lukea.
 Puhuja 1: Siinä se
 Puhuja 1: sikiö epätavaisesti
 Puhuja 1: yrittää estää vanhempien tekemästä täysin typeriä asioita.
@@ -418,7 +419,7 @@ Puhuja 2: ja sitten myös swaippaamalla
 Puhuja 2: alas erilaisiin kansioihin.
 Puhuja 2: Tää on upeaa,
 Puhuja 2: koska tää ratkaisee sen ongelman,
-Puhuja 2: joka puhelimessa on, että siellä on kuvia, mutta sitten sä et ikinä jotenkin selaa niitä tai et ikinä katsotua, että mitä siellä jotenkin on. Mulla ainakin käy näin.
+Puhuja 2: joka puhelimessa on, että siellä on kuvia, mutta sitten sä et ikinä jotenkin selaa niitä tai et tule ikinä katsottua, että mitä siellä jotenkin on. Mulla ainakin käy näin.
 Puhuja 2: Tää oli mun mielestä tosi hyvä.
 Puhuja 4: Tää on tosi hyvä ratkaisu varmasti. Mä en nyt ehtinyt tässä katsomaan, mutta just joku päiväukat paljon, kun mulla on kuvia ja
 Puhuja 3: mindfullness-tyyppinen.
@@ -433,7 +434,7 @@ Puhuja 4: ja mulla ei ole ollut mitään hirveästi sisältöä elämässä täl
 Puhuja 2: Toi oli mun elämänsä sisältö taipuu.
 Puhuja 4: Mä oon aamuisin herännyt ja sitten mä oon pyykännyt. Sitten mä oon mennyt töihin.
 Puhuja 4: Sitten mä oon ollut töissä.
-Puhuja 1: Suositteletko sä vähän? Suosittelko työntekoa?
+Puhuja 2: Suositteletko sä vähän? Suosittelko työntekoa?
 Puhuja 4: En suosittele työntekoa, vaikka se kivaa onkin.
 Puhuja 4: Mutta mä ehkä suosittelen
 Puhuja 4: sitä, mitä mä aion tehdä ensi viikonloppuna
@@ -444,7 +445,7 @@ Puhuja 4: lähteä
 Puhuja 4: ja olla tekemättä varsinaisesti mitään. Eli pötkötellä.
 Puhuja 4: Petsy löjenkö?
 Puhuja 3: Ei!
-Puhuja 2: Ja siihen sitten loppukin säästää.
+Puhuja 1: Ja siihen sitten loppukin säästää.
 Puhuja 2: Okei, siinä kaikki tältä erää. Kiitos Inkeri Harju. Kiitos Ilmo Ilkkaa. Kiitos,
 Puhuja 2: Joona Aaltonen. Kiitos. Minun nimeni on Anni Keski-Heikkilä ja äänen ja kuvan ja kaiken muun mahtavan tekee meille tällä viikolla Ville Veikko Niemelä. Muistakaa lähettää meille palautettauutisraportti.
 Puhuja 2: Kuullaan taas ensi viikolla. Moikka!

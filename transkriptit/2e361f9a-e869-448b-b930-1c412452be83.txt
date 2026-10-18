@@ -1,415 +1,468 @@
-Puhuja 0: Miksi
-Puhuja 0: pesukoneen viimeinen minuutti kestää vartin?
-Puhuja 0: Entä milloin Suomen valtiolla on liikaa velkaa?
-Puhuja 0: Minä olen Inkeri Harju ja Keskiönkaan Inkolopodcastin
-Puhuja 0: toinen kausi on kuunneltavissa Helsingin Sanomien
-Puhuja 0: sovelluksessa sekä missä ikinä podcasteja kuunteletkaan.
-Puhuja 0: Tervetuloa uppoamaan kaninkoloon.
-Puhuja 0: Helsingin Sanomat.
-Puhuja 1: Hei vain ja tervetuloa Helsingin Sanomien USP raportti podcastin pariin.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast menetetyt miljardi
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 1: Hei vain ja tervetuloa Helsingin Sanomien uutisraportti podcastin
+Puhuja 1: pariin.
 Puhuja 1: Tänään on elokuun
 Puhuja 1: kuudes päivä täällä Helsingin Sanomien podcast-studiossa,
 Puhuja 1: Helsingin aurinkoisessa
-Puhuja 1: ja lämpimässä
-Puhuja 1: klubissa.
-Puhuja 1: Töölölen lahti kimaltaa tuolla jossain kaukaisuudessa ja syksykin
-Puhuja 1: saapuu sillä, että tänään on viimeinen kesällä portti!
-Puhuja 1: Minä olen John Helin ja tänään seurassani ovat Tuija Siltamäki
-Puhuja 1: Päivää Pihosanavirta sekä
-Puhuja 1: TOP-viisi
-Puhuja 2: Kosojoi. Hei vain, hei vain.
-Puhuja 1: Mikä fiilis teillä tästä, että
-Puhuja 1: olemme täällä viimeistä kertaa yhdessä, siksi meitä on myös neljä aloittaa vaikka topista. Mun piti kaksi tuntia itkeä aamulla
-Puhuja 2: ja miettiä, uskallanko mä edes tulla tänne ja kohdata tätä päivää ja hetkeä, kun tämä tulee, että me ollaan viimeistä kertaa täällä. Mutta kykenin siihen. Olen täällä itkut itketty ja nyt tehdään podcast. Mitäs
-Puhuja 3: Tuija? Mulla menee mainiosti.
-Puhuja 3: Olen alkanut kiinnostua
-Puhuja 3: energiajuomien
-Puhuja 3: päihdekäytöstä
-Puhuja 3: ja en ole syönyt aamupalaa, vaan sen sijaan olen juonut kaksi kuppia kahvia ja kohta yhden
-Puhuja 3: energiajuoman, niin tästä voi tulla aika nopea lähetys.
-Puhuja 1: Erinomaista.
-Puhuja 1: Mites Pihla?
-Puhuja 4: Eihän ole mitään parempaa, kuin olla täällä teidän kanssa viimeisen kerran ja itse asiassa ensimmäisen kerran kaikki yhdessä.
-Puhuja 1: Aivan mahtavaa. No niin, erittäin hyvä. Minullakin
-Puhuja 1: on oikein hyvä fiilis
+Puhuja 1: ja lämpimässä Klovessa.
+Puhuja 1: Töölen Lahti kimaltaa
+Puhuja 1: jossain kaukaisuudessa ja
+Puhuja 1: syksykin
+Puhuja 1: saapuu sillä tänään on viimeinen kesäportti!
+Puhuja 1: Minä olen John Heliin ja tänään seurassani ovat Tuija Siltamäki.
+Puhuja 1: Päivää. Pihu Sannavirta. Moi. Sekä TOP-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-
+Puhuja 3: Mun piti kaksi tuntia itkeä aamulla ja miettiä, uskallanko edes tulla tänne ja kohdata tätä päivää ja hetkeä, kun tämä tulee, että me ollaan viimeistä kertaa täällä. Mutta kykenin siihen, olen täällä itku itketty ja nyt tehdään podcast. Mites Tuija?
+Puhuja 2: Mulla menee
+Puhuja 2: mainiosti. Olen alkanut kiinnostua
+Puhuja 2: energiajuomien
+Puhuja 2: päihdekäytöstä ja en ole syönyt aamupalaa, vaan sen sijaan olen juonut kaksi kuppia kahvia ja kohta yhden energiajuoman, niin tästä voi tulla aika nopea
+Puhuja 2: lähetys.
+Puhuja 2: Erinomaista.
+Puhuja 2: Mites Pihla?
+Puhuja 4: Eihän ole mitään parempaa kuin olla täällä teidän kanssa viimeisen kerran ja itse asiassa ensimmäisen kerran kaikki yhdessä.
+Puhuja 4: Aivan mahtavaa.
+Puhuja 1: Noniin, erittäin hyvä. Minullakin on
+Puhuja 1: oikein hyvä fiilis
 Puhuja 1: jännittynyttä
-Puhuja 1: nurvysenergiaa
-Puhuja 1: havaittavissa pöydällä sekä myös varsinkin siellä Tuija Silta meidän nurkkauksessa.
-Puhuja 3: Sä et edes näe, kun mun jalat tipahtavat täällä pöydän alla. Oikeastaan selitystä.
-Puhuja 2: Okei, jätetään se siihen.
-Puhuja 3: Varmaan kaikkihan rakastavat Marko Junkkaria.
-Puhuja 4: En mie voi muuttaa tätä linjaa, mie sanon Marko.
-Puhuja 1: Onkos meille kaikille siis Marko? On. On. Marko Junkkari.
-Puhuja 1: Minulle siksi, koska kuten jo aikaisemmin Instagramissa
-Puhuja 1: sanoin,
-Puhuja 1: niin olemme kumpikin
-Puhuja 1: opiskelleet samaa alaa eli siis poliittista historiaa Helsingin yliopistossa.
-Puhuja 1: Markoa arvostetaan edelleen korkeasti
-Puhuja 1: opiskelijoiden keskuudessa. Edelleen. Varsinkin hänen vaalisloganeitaan,
-Puhuja 1: niitä voitte käydä tutkimassa
-Puhuja 1: esimerkiksi
-Puhuja 1: Poleimil-lehdestä.
-Puhuja 1: Olemme myös molemmat kirjoittaneet Poleimilehteen,
-Puhuja 1: joka on siis poliittisen historian ainejärjestölehti.
-Puhuja 1: Perinteikäs,
-Puhuja 1: upea, kunnioitettava
-Puhuja 1: muun muassa
-Puhuja 1: scouppasi
-Puhuja 1: ainejärjestölehti avustusten leikkaamisen tuossa muutamia vuosia sitten. En tiedä kuka sen teki, mutta joku siellä sen teki.
-Puhuja 1: Elikkä Marko linjaa vedämme. Kyllä.
-Puhuja 1: Onko teille annettu vakit tyyppien taholta ohjeita Porin tekemiseen?
-Puhuja 1: Jos on, niin mitä? Tuija?
-Puhuja 3: Aika maltillinen määrä ohjeistusta on tullut. Oli meillä sellainen kokous,
-Puhuja 3: kun
-Puhuja 3: kesätiimi aloitti
-Puhuja 3: ja
-Puhuja 3: sitten vähän syötiin pullaa ja juotiin kahvia, mutta mun piti lähteä jonnekin muualle, niin en kuunnellut loppuun asti.
-Puhuja 1: Tila.
-Puhuja 4: Ei ole kyllä tullut, mutta
-Puhuja 4: ensimmäisen jakson jälkeen tuli palaute
-Puhuja 4: nimettömältä kollegaltani,
-Puhuja 4: että siähän olit ihan järkevä.
-Puhuja 1: Meillä on kiva. Tää on kova. Kiva kuulla tällaisia.
-Puhuja 2: Topi? Hyvin vähän on tullut,
-Puhuja 2: istuttiin tosiaan siellä kahvilla minä ja sinä siellä istuttiin John ainakin
-Puhuja 2: muistaakseni koko aika, mutta muistaakseni
-Puhuja 2: ohje oli aika pitkälti se, että älkää yrittäkö olla vakijengi ja olkaa oma porukanne.
-Puhuja 2: Mielestäni se on kyllä mennyt hyvin ja me ollaan siitä pidetty kiinni. Aikalailla näin. Annettiin myös ohje siihen, että olkaa
-Puhuja 1: omia itseänne ja siis yrittäkää kertoa niistä uutisista
-Puhuja 1: mahdollisimman paljon kuulijalle, joka ei välttämättä
-Puhuja 1: ole perehtynyt asiaan.
-Puhuja 1: Myös se, että uutiskesä on hiljainen.
-Puhuja 2: Kyllä.
-Puhuja 2: Sitten on välillä kaivettu
-Puhuja 1: asioita. Jo pelkästä Guarden Helsingistä ei ole voinut puhua koko kesää.
+Puhuja 1: nurvysenergiaa havaittavissa pöydällä
+Puhuja 1: sekä myös varsinkin Tuija
+Puhuja 1: Siltamäen nurkkauksessa.
+Puhuja 2: Sä et edes näe ole, kun mun jalat tipahtaa täällä pöydän
+Puhuja 1: Mutta tällä on hyvä
+Puhuja 1: mennä viimeiseen raporttiin. Tänään puhumme Espanjan
+Puhuja 1: seutalle viime viikolla tunkeutuneista ihmismassoista,
+Puhuja 1: pakolaispolitiikasta
+Puhuja 1: sekä sisäministeri Mari Rantasesta, joka ehdotti Espanjan sulkemista Schengen-alueen ulkopuolelle tai oikeammin
+Puhuja 1: tarttui Italian pääministerin
+Puhuja 1: ehdotukseen.
+Puhuja 1: Miten Euroopan rajoja valvotaan? Onko käsillä kriisi ja miten Schengen edes toimii? Ainakin näistä aiheista puhumme tänään.
+Puhuja 1: Sen jälkeen
+Puhuja 1: keskustelemme ajoittain vellovasta
+Puhuja 1: keskustelusta
+Puhuja 1: yliopistojen lukukausmaksuista
+Puhuja 1: eli metakeskustelu
+Puhuja 1: luvassa.
+Puhuja 1: Onko maksullisessa väylässä mitään järkeä ja voidaanko Suomessa hengähtää helpotuksesta nyt, kun maksuton koulutuspolku on turvattu ainakin vuoteen
+Puhuja 1: kaksituhatta neljäkymmentä asti?
+Puhuja 1: Kolmantena teemme jotain varsin epätavallista, nimittäin vastaamme lukijakysymyksiin!
+Puhuja 1: Tuolloin
+Puhuja 1: saatetaan kysyä esimerkiksi, onko vuorossa pikakysymyskierros,
+Puhuja 1: pohditaanko syvällisiä
+Puhuja 1: yhteiskunnallisia
+Puhuja 1: asioita vai saammeko tietää, millaisia ruskeita eläimiä kukin meistä olisi?
+Puhuja 1: Tai mikä on pahin ruoka, jota olemme syöneet? Ken tietää? Mekin saamme tietää nämä todelliset kysymykset vasta podcastin lopulla, sillä Helmin täytyy vielä toimittaa minulle. Tai näin ainakin kirjoitin, Helmi on tuonut sen lapun tähän viereen.
+Puhuja 1: Lopuksi tarjoamme totuttuun sekä viralliseen tapaan puheenaiheita
+Puhuja 1: pitkien
+Puhuja 1: epämukavien
+Puhuja 1: hiljaisuuksien
+Puhuja 1: varalle. Mä
+Puhuja 1: olin kirjoittanut sen tänne alunperin oikein. Se on kirjoittanut sen lippiksenkin.
+Puhuja 3: Mun piti tuoda tänne uutisraportti-podcastin
+Puhuja 3: virallinen Merch-lippis,
+Puhuja 3: jotta John Mother Fucking heliin saa tämän oikein.
+Puhuja 1: Toivottavasti nyt on kaikki
+Puhuja 1: kuulijat
+Puhuja 1: jollain tavalla lepytelty.
+Puhuja 1: Mennään niihin aiheisiin, sillä oikaisuja ei ole.
+Puhuja 1: Viime viikolla EU:ssa koettiin lyhyt siirtoiskriisi, kun jopa seitsemänkymmentäkaksi
+Puhuja 1: nolla
+Puhuja 1: ihmistä tunkeutui Pohjois-Afrikassa sijaitsevalle Espanjan hallitsemalle seutan autonomiselle alueelle.
+Puhuja 1: Alue sijaitsee Markon rajalla heti Gbrautrin saunan etelärannalla.
+Puhuja 1: Ainakin yhdeksänkymmentäyhdeksän
+Puhuja 1: ihmistä kuoli
+Puhuja 1: tässä tapauksessa.
+Puhuja 1: Ihmisvirran alkamisen syytä ovat vieläkin hieman hämärät, mutta mitä ilmeisimmin ainakin sosiaalisessa mediassa oli kiertänyt väitteitä, joiden mukaan seuta raja olisi auki ja ihmisiä kehotettiin matkaamaan alueelle.
+Puhuja 1: Espanja on syyttänyt tästä ihmisalojen kuljettajia,
+Puhuja 1: mutta monet siirtolaiset
+Puhuja 1: kertoivat järjestäneensä
+Puhuja 1: itse matkansa.
+Puhuja 1: Espanjassa on spekuloitu myös Marokon osallisuudesta.
+Puhuja 1: Tiedusteluviranomaiset
+Puhuja 1: ovat kiistäneet tämän julkisuudessa.
+Puhuja 1: Internetissä on myös spekuloitu kyseessä olleen jonkinlainen Yhdysvaltojen näpäytys Espanja. Ensimmäisen jakson jälkeen tuli palaute nimettömältä kollegaltani,
+Puhuja 4: että siähän olit ihan järkevä.:
+Puhuja 3: Menee.
+Puhuja 1: Tää on kovaa. Kiva kuulla tällaisia
+Puhuja 3: Topi? Hyvin vähän on tullut, istuttiin tosiaan siellä kahvilla. Minä ja sinä siellä istuttiin Jon ainakin muistaakseni
+Puhuja 3: koko aika, mutta muistaakseni
+Puhuja 3: ohje oli aika pitkälti se, että älkää yrittäkö olla vakijengi
+Puhuja 3: ja olkaa oma porukanne.
+Puhuja 3: Mielestäni se on kyllä mennyt hyvin ja me ollaan siitä pidetty kiinni. Aikalailla näin. Annettiin myös ohje siihen, että
+Puhuja 1: tosiaan
+Puhuja 1: olkaa omia itseänne ja siis yrittäkää kertoa niistä uutisista
+Puhuja 1: mahdollisimman paljon kuulijalle, joka ei välttämättä ole
+Puhuja 1: perehtynyt asiaan.
+Puhuja 1: Myös se, että uutiskes saa hiljaineen.
+Puhuja 3: Kyllä, sitten on välillä kaivettu
+Puhuja 1: asioita. Kyllä, ja pelkästä Guardian Helsingistä ei ole voinut puhua koko kesää.
 Puhuja 1: Sitten seuraava vakava kysymys:
-Puhuja 1: Miksi suomalaiset
-Puhuja 1: toimittajat seuraavat niin häpeällisen vähän
-Puhuja 1: EU-politiikkaa? Pihla. Tässä saa spekuloida.
-Puhuja 4: Apua. No ehkä siis EU yleisesti, kun miettii
-Puhuja 4: lukijoita, niin EU näyttäytyy tosi kaukaisen asiana. Ehkä tavallaan se on jotenkin sellainen itseään toteuttava
-Puhuja 4: ennuste, että
-Puhuja 4: kun lukijoita ei kiinnosta se, niin siihen ei ehkä jollain tavalla myöskään paneuduta riittävän hyvin. Toisaalta tuokin on vähän sellainen, että jos siitä osattaisiin
-Puhuja 4: kertoa kuulija ja lukijaystävällisesti,
-Puhuja 4: niin se
-Puhuja 4: ehkä
-Puhuja 3: parantuisi tai sitä tehtäisiin enemmän. Tähän on monta syytä nuo
-Puhuja 3: edellä mainitut ja se, että
-Puhuja 3: nähdään, että eivät nämä EU-aiheet vedä, niin niitä
-Puhuja 3: on turha tehdä. Sen lisäksi
-Puhuja 3: toimituksissa on paljon ulkomaanjournalismia
-Puhuja 3: resursseja vuosikymmenten
-Puhuja 3: aikana leikattu,
-Puhuja 3: niin
-Puhuja 3: on vähemmän mahdollisuuksia lähettää ihmisiä Brysseliin tai pitää kirjeenvaihtajia
-Puhuja 3: ympäri maailmaa, jolloin väistämättä kaikkien
-Puhuja 3: ulkomaihin liittyvien asioiden seuraaminen,
-Puhuja 3: joihin kuuluvat myös EU -kysymykset,
-Puhuja 3: jää vähemmälle.
-Puhuja 2: Mulla ei ole tähän mitään lisättävää.
-Puhuja 2: Mun mielestä tässä tuli oikein hyvin kyllä. Lisäksi EU on aika
-Puhuja 3: monimutkainen himmeli.
-Puhuja 3: Siinä
-Puhuja 3: on paljon
-Puhuja 4: selitettävää ja asiat tapahtuvat hitaasti. Ja tästä pitää ehkä kertoa omakohtainen kokemus melkein aina, kun
-Puhuja 4: kirjoitan jostain EU-säädnöstä
+Puhuja 1: Miksi suomalaiset toimittajat seuraavat niin häpeällisen vähän EU-politiikkaa?
+Puhuja 1: Pihla.
+Puhuja 1: Tässä saa spekuloida.
+Puhuja 4: Apua. Ehkä siis EU yleisesti, kun miettii
+Puhuja 4: lukijoita,
+Puhuja 4: niin EU näyttäytyy tosi kaukaisena asiana. Ehkä tavallaan se on jotenkin sellainen itseään toteuttava ennuste, että kun
+Puhuja 4: lukijoita ei kiinnosta se, niin siihen ei ehkä jollain tavalla myöskään paneuduta riittävän hyvin. Toisaalta tuokin on vähän sellainen, että jos siitä osattaisiin kertoa
+Puhuja 4: kuulija, lukijaystävällisesti,
+Puhuja 4: niin
+Puhuja 4: se ehkä
+Puhuja 2: parantuisi tai sitä tehtäisiin enemmän. Tämähän on monta syytä nuo
+Puhuja 2: edellä mainitut ja se, että
+Puhuja 2: kun nähdään, että eivät nämä EU-aiheet vedä, niin niitä
+Puhuja 2: on turha tehdä. Sen lisäksi
+Puhuja 2: toimituksissa on paljon ulkomaanjournalismin
+Puhuja 2: resursseja vuosikymmenten
+Puhuja 2: aikana leikattu,
+Puhuja 2: on
+Puhuja 2: vähemmän mahdollisuuksia lähettää ihmisiä Brysselien tai pitää kirjeenvaihtajia
+Puhuja 2: ympäri maailmaa, jolloin väistämättä kaikkien tällaisten
+Puhuja 2: ulkomaihin liittyvien asioiden seuraaminen,
+Puhuja 2: joihin kuuluu myös EU-kysymykset, jää vähemmälle.
+Puhuja 3: Mulla ei ole tähän mitään lisättävää. Mun mielestä
+Puhuja 3: tässä tuli oikein hyvin kyllä. Lisäksi EU on aika
+Puhuja 2: monimutkainen
+Puhuja 2: himmeli. Siinä
+Puhuja 2: on paljon
+Puhuja 2: on paljon
+Puhuja 4: selitettävää ja asiat tapahtuvat hitaasti. Tästä pitää ehkä kertoa omakohtainen kokemus. Melkein aina, kun kirjoitan jostain EU-säädnöstä
 Puhuja 4: direktiivistä,
 Puhuja 4: niin siitä tulee oikaisupyyntö.
 Puhuja 4: On ollut kertoja, kun olen ollut vaikka kahteen
 Puhuja 4: Suomen EU-asiantuntijaan
 Puhuja 4: yhteydessä. Me ollaan yhdessä pohdittu, miten tämä asia pitää oikaista.
 Puhuja 4: Kun hekään eivät ole välttämättä tienneet suoraa vastausta siihen. Se ehkä kertoo sellaisesta yleisestä,
-Puhuja 4: kun ne on tosi monimutkaisia. Sellainen, että vaikka on joku asiantuntija, niin hänkään ei välttämättä tiedä suoraa vastausta siihen. Niin sitten se on tosi vaikea kertoa noita asioita myös lukijoille.
-Puhuja 1: Joo, nämä on kohtuullisia. Lisään tähän vielä ehkä sen, että vaikka meillä, ja tämä on nyt salaista tietoa teille siellä pienet
+Puhuja 4: kun ne on tosi monimutkaisia sellainen, että vaikka on joku asiantuntija, niin hänkään ei välttämättä tiedä suoraa vastausta siihen, niin sitten se on tosi vaikea kertoa noita asioita myös lukijoille.
+Puhuja 1: Joo, nää on kohtuullisia. Lisään tähän vielä ehkä sen, että vaikka meillä... Tämä on nyt salaista tietoa teille siellä pienet
 Puhuja 1: mussuppalleroiset
 Puhuja 1: kuulijamme,
 Puhuja 1: mutta meillähän siis
-Puhuja 1: EU-asiat on politiikan toimituksen alla, joka kuitenkin
-Puhuja 1: pääasiallisesti seuraa kotimaan politiikkaa.
-Puhuja 1: Ulkomaan toimitus tekee vähän siinä
-Puhuja 1: samassa, mutta kuitenkin pääosin muuta kuin EU-asiaa.
+Puhuja 1: EU-asiat on politiikan toimituksen alla, joka kuitenkin pääasiallisesti
+Puhuja 1: seuraa kotimaan politiikkaa.
+Puhuja 1: Ulkomaan toimitus tekee vähän siinä samassa,
+Puhuja 1: mutta kuitenkin pääosin muuta kuin EU-asiaa.
 Puhuja 1: Se on
-Puhuja 1: ehkä kaikkien näidenkin syiden takia
+Puhuja 1: ehkä kaikkien näidenkin syiden takia se on
 Puhuja 1: organisaationaalisesti
 Puhuja 1: vähän sellainen väliinputoaja.
 Puhuja 1: Kenelle se pitäisi
 Puhuja 1: laittaa ja kuka siitä on vastuussa.
 Puhuja 1: Onko resursseja
-Puhuja 1: seurata EU:ta pieteetillä, josta ei se lukijoitakaan kiinnosta.
-Puhuja 1: Häpeällinen kyllä on musta sinänsä
-Puhuja 1: koska se vaikuttaa kaikki elämään. Sitten on iloinen kysymys, johon varmasti osaamme kaikki vasta-aikana.
+Puhuja 1: seurata EU:ta pieteetillä, jos ei se lukijoitakaan kiinnosta.
+Puhuja 1: Häpeällinen on musta sinänsä totta,
+Puhuja 1: koska se vaikuttaa kaikki elämään. Sitten on iloinen kysymys, johon varmasti osaamme kaikki vastata.
 Puhuja 1: TOP Kosunen, miten päästä Hesariin
-Puhuja 2: töihin? Itsellä ainakin on ollut
-Puhuja 2: ensimmäisenä toimittajakesänä, kun sinisilmäisesti hain kaikkiin paikkoihin juuri ensimmäisen fuksivuoden jälkeen, niin Helsingin päätöstä ei kukaan vastannut.
-Puhuja 2: Veikkaan, että se johtui siitä, että
-Puhuja 2: ei ollut vaan yksinkertaisesti tarpeeksi kokemusta.
-Puhuja 2: Sitten kun kävin yhden, menin sinä kesänä, pääsin kuitenkin
-Puhuja 2: omaan kotimaakuntaani Etelä-Pohjanmaalle Ilkka Pohjalaiseen töihin.
-Puhuja 2: Kävin siellä pyörätämässä sen yhden kesän opin hyvin, hyvin paljon. Sitä myös suosittelen kaikille toimittajan aluille, että jos
-Puhuja 2: on fuksivuonna ja haluaa mennä heti toimittajat töihin ekana kesänä,
-Puhuja 2: niin lähtekää pois sieltä teidän omasta maakunnasta kauemmas
-Puhuja 2: tuonne pohjoiseen, itään länteen, minne vaan eteläänkin, jos täältä löytyy,
-Puhuja 2: se opettaa niin paljon. Näissä maakuntalehdissä ja vaikkapa ihan vaan pienissä paikallislehdissäkin
-Puhuja 2: oppii hyvin
-Puhuja 2: kokonaisvaltaisella
-Puhuja 2: tavalla sen toimittajan työn perusteet, uutishankinnan,
-Puhuja 2: valokuvaamisen, koska siellä monesti valokuvataa jutut myös itse. Siellä editoidaan niitä aika pitkälti myös itseä julkaistaan ja näin poispäin, että sä opit siellä tosi paljon.
-Puhuja 2: Täällä etelän päädyssä
-Puhuja 2: meidän näissä isoimmissa medioissa arvostetaan
-Puhuja 2: tätä osaamista todella paljon,
-Puhuja 2: Joten kannattaa kerryttää ihan sikana kaikkea mahdollista kokemusta. Nimenomaan
-Puhuja 2: myös, jos miettii
-Puhuja 2: toimittajuuden
-Puhuja 2: ja journalistien
-Puhuja 2: ulkopuolelta, niin myöskin se, että sulla on vaan
-Puhuja 2: tosi montaa. Jotkut viestinnän hommat
-Puhuja 2: auttaa. Tai tosi moni asia
-Puhuja 2: Hesarin pääsemiseksi auttaa, että sä oot tehnyt muutakin kuin toimittajan työtä. Sulla on vaikka erikoisosaamista jostain
-Puhuja 2: tietystä osa-alueesta tai tietystä asiasta.
-Puhuja 2: Tällaiset asiat
-Puhuja 2: edesauttaa. Ehkä vielä viimeisenä se, että tänne pääseminen sun
-Puhuja 2: täytyy kyllä, että tää on niin, niin, niin ympäripyöreä klisee paska vastaus. Mutta
-Puhuja 2: se
-Puhuja 2: oman itsensä
-Puhuja 2: korostaminen, vaikka niissä haastatteluissa tai missä ikinä,
-Puhuja 2: ainakin
-Puhuja 2: itsellä tuntui toimivan,
-Puhuja 2: että sinne menee
-Puhuja 2: vähän takki auki ja jotenkin naureskelen, niin heitin jo läppää ja kirosanoja vaihtelin. En suosittele tätä välttämättä, mutta itsellä se toimii. Semmoinen persoona.
-Puhuja 3: Ylimielisyys.
-Puhuja 2: Oletko oma itsisyys? No minä olin ehkä. Ylimielisyys ja oman persoonan
-Puhuja 2: pönkittäminen ja korostaminen hyvän maun rajoissa varmasti myös voi auttaa, että sinut nähdään jonkinlaisena
-Puhuja 2: persoonana siellä.
+Puhuja 3: töihin? Itsellä ainakin on ollut
+Puhuja 3: ensimmäisenä
+Puhuja 3: toimittajakesänä, kun sinisilmäisesti hain kaikkiin paikkoihin juuri ensimmäisen fuksivuoden jälkeen, niin Helsingin päätöstä
+Puhuja 3: ei kukaan vastannut.
+Puhuja 3: Veikkaan, että se johtui siitä, että
+Puhuja 3: ei ollut vaan yksinkertaisesti tarpeeksi kokemusta siinä kohtaa. Kun kävin yhden,
+Puhuja 3: menin sinä kesänä, pääsin kuitenkin omaan
+Puhuja 3: kotimaakuntaani Etelä-Pohjanmaalle Ilkka Pohjalaiseen töihin.
+Puhuja 3: Kävin siellä pyörämässä sen yhden kesän opin hyvin, hyvin paljon. Sitä myös suosittelen kaikille toimittajan aluille. Jos
+Puhuja 3: on fuksivuonna ja haluaa mennä heti toimittajat töihin ekana kesänä,
+Puhuja 3: niin lähtekää pois sieltä teidän omasta maakunnasta kauemmas tuonne pohjoiseen, itään länteen, minne vaan eteläänkin, jos täältä löytyy,
+Puhuja 3: se opettaa niin paljon. Näissä maakuntalehdissä ja vaikkapa ihan vaan pienissä paikallislehdissäkin
+Puhuja 3: oppii hyvin
+Puhuja 3: kokonaisvaltaisella
+Puhuja 3: tavalla sen toimittajan työn perusteet, uutishankinnan,
+Puhuja 3: valokuvaamisen, koska siellä monesti valokuvataan jutut myös itse. Siellä editoidaan niitä aika pitkälti myös itseä julkaistaan ja näin poispäin, että sä opit siellä tosi paljon. Täällä
+Puhuja 3: etelänpäädyssä
+Puhuja 3: meidän näissä isoimmissa medioissa arvostetaan
+Puhuja 3: tätä osaamista
+Puhuja 3: todella paljon,
+Puhuja 3: joten kannattaa kerryttää
+Puhuja 3: ihan sikana kaikkea mahdollista kokemusta. Nimenomaan myös, jos miettii
+Puhuja 3: toimittajuuden ja journalistien
+Puhuja 3: ulkopuolelta, niin myös se, että sulla on vaan tosi montaa.
+Puhuja 3: Jotkut viestinnän hommat varmasti
+Puhuja 3: Tai tosi moni asia Hesarin
+Puhuja 3: pääsemiseksi auttaa, että sä oot tehnyt muutakin kuin toimittajan työtä. Sulla on vaikka erikoisosaamista
+Puhuja 3: jostain tietystä osa-alueesta
+Puhuja 3: tai tietystä asiasta.
+Puhuja 3: Tällaiset asiat
+Puhuja 3: edesauttaa. Ehkä vielä viimeisenä se, että tänne pääseminen sun
+Puhuja 3: täytyy kyllä, että tää on niin, niin ympäripyöreää klisee paska vastaus. Mutta se
+Puhuja 3: oman itsensä
+Puhuja 3: korostaminen niissä haastatteluissa tai missä ikinä, ainakin
+Puhuja 3: itsellä tuntui toimivan,
+Puhuja 3: että sinne menee vähän silleen, jopa ehkä itse menin vähän takki auki ja jotenkin naureskelen ja heitin jo läppää ja kirosanoja vaihtelin. En suosittele tätä välttämättä, mutta itsellä se toimii. Semmoinen persoona.
+Puhuja 2: Ylimielisyys.
+Puhuja 3: Oletko oma itsisyys? Minä olin ehkä. Ylimielisyys ja oman persoonan
+Puhuja 3: pönkittäminen ja korostaminen
+Puhuja 3: hyvän maun rajoissa varmasti myös voi auttaa, että sinut nähdään jonkinlaisena
+Puhuja 3: persoonana siellä.
 Puhuja 1: Onko tähän lisättävää?
-Puhuja 4: Ei. Kokemus on tärkeää, että ehkä Hesari ei välttämättä ole.
+Puhuja 4: Ei. No toi kokemus on kyllä tärkeä, että ei ehkä Hesari välttämättä ole.
 Puhuja 4: Harvoin se on kenenkään ensimmäinen työpaikka, että kannattaa lähteä
-Puhuja 4: muualle opiskelemaan.
-Puhuja 4: Yksi konkreettinen vinkki sitten, kun haku aukeaa,
+Puhuja 4: muualle sitten ehkä opiskelemaan. Yksi konkreettinen vinkki sitten, kun haku aukeaa,
 Puhuja 4: kesätoimittajahaku
-Puhuja 4: aukeaa
-Puhuja 4: tammikuussa, niin laittakaa ekana päivänä jo hakemus tulemaan,
-Puhuja 4: koska
-Puhuja 4: yleensä rekryprosessi tapahtuu siinä sen viikon aikana, jolloin
-Puhuja 1: paikat menevät nopeasti. Kyllä. Tämä ei ole julkinen laitos,
-Puhuja 1: jossa rekry on auki sen aikaa, kun se on ja päätös tehdään sitten vaan. Sieltä saatetaan hyvinkin nopeasti napsia niitä. Kyllä. Mulla on tähän kanssa oma vinkki, joka on se, että odota, että Euroopassa syttyy suursota,
+Puhuja 4: aukeaa tammikuussa, niin laittakaa ekana päivänä jo hakemus tulemaan,
+Puhuja 4: koska yleensä
+Puhuja 4: rekryprosessi tapahtuu siinä sen viikon aikana, jolloin
+Puhuja 1: paikat menevät nopeasti. Kyllä. Tämä ei ole mikään julkinen laitos,
+Puhuja 1: jossa rekry on auki sen aikaa, kun sen aikaa kun se on ja päätös tehdään sitten.
+Puhuja 1: Sieltä saatetaan hyvinkin nopeasti napsia niitä. Kyllä. Mulla on tähän kanssa oma vinkki, joka on se, että odota, että Euroopassa syttyy suursota,
 Puhuja 1: aloita poikien kanssa tekemään karttaa
 Puhuja 1: sekä verifioimaan
-Puhuja 1: tavaraa somesta ja hups heijaa, oletkin Helsingin Sanomissa töissä! Tämä ei ole ehkä toistettavissa tämä oma
+Puhuja 1: tavaraa somesta ja hups heijaa, oletkin Helsingin Sanomissa töissä! Tämä ei ole ehkä toistettavissa
+Puhuja 1: oma
 Puhuja 1: polku.
-Puhuja 3: Ainakin
-Puhuja 3: vaatii paljon vaivannäköä.
-Puhuja 1: Kyllä,
-Puhuja 1: joten kannattaa lähettää sähköpostia
-Puhuja 1: erilaisille
-Puhuja 2: autoritäärisille johtajille, jos on sellainen työpaikka lailla. Tämä todistaa myös, tee kaikkea muuta.
-Puhuja 2: Se auttaa sikana.
-Puhuja 1: Seuraava kysymys, mistä kesän uutisesta haluaisitte tai olisitte halunneet tehdä syväluotaavan ekstrajakson?
+Puhuja 2: Ainakin
+Puhuja 2: vaatii paljon vaivannäköä.
+Puhuja 1: Jep, kyllä.
+Puhuja 1: Joten kannattaa lähettää sähköpostia
+Puhuja 1: erilaisille autoiliisille johtajille, jos on sellainen työpaikka lailla. Mutta tämä onnistuisi myös tehdä kaikkea muuta,
+Puhuja 3: se auttaa sikana.
+Puhuja 1: Se oli hyvä kysymys, mistä kesän uutisesta haluaisitte tai olisitte halunneet tehdä syvää luotaavan extrajakson?
 Puhuja 1: Tuija.
-Puhuja 1: En tiedä,
-Puhuja 3: mitä uutisia kesällä ei ole ollut.
-Puhuja 3: Mä en nyt keksi mitään vastausta, sori.
-Puhuja 4: Menen tuohon eläkelinjalle.
-Puhuja 4: Tein tuossa, oliko se alkukesästä Tuomo Pietiläisen kanssa tämmöisen jutun, jossa selvitettiin
+Puhuja 2: En tiedä,
+Puhuja 2: mitä
+Puhuja 2: uutisia kesällä ei se ollut.
+Puhuja 2: En
+Puhuja 2: nyt keksi mitään vastausta, sori.
+Puhuja 4: Menen tuohon eläkelinjalle
+Puhuja 4: tein tuossa, oliko se alkukesästä Tuomo Pietiläisen kanssa tämmöisen jutun, jossa selvitettiin
 Puhuja 4: eläkeyhtiöiden
 Puhuja 4: palkkausta ja siitä, miten heidän
 Puhuja 4: palkkaa on korotettu
-Puhuja 4: enemmän kuin normaali palkansaajan.
-Puhuja 4: Näen jotenkin, että tämä eläke herätti myös äskenkin keskusteluun, niin siitä olisi varmasti saanut myös oman jakson.
-Puhuja 3: Varmasti kiinnostaa kuulijoita myös.
-Puhuja 2: Tästä juuri eilen tulleesta uutisesta oli eka, mikä mulle tuli mieleen, kun Ilo Vainio oli kirjoittanut Dennis Pustersteinin
-Puhuja 2: jostain. Hyvin kiinnostavia
-Puhuja 2: kirjoituksia oli Facebookissa ollut.
-Puhuja 2: Menkää lukemaan
-Puhuja 2: hakusanoilla Dennis Pusterstain ja Ilkka Ielevainio
-Puhuja 2: juttu, niin olisin tästä tehnyt. En ala tämän tässä tiivistämään, mutta keissi on ihmeellinen ja olen sitä mieltä, että se tarvitsisi oman podcastin jakson.
-Puhuja 1: Oma olisin
-Puhuja 1: ehkä mieluusti puhunut Iran hormus,
+Puhuja 4: enemmän kuin normaalipalkansaajan.
+Puhuja 4: Näen jotenkin, että eläke herätti myös äskenkin keskusteluun, niin siitä olisi varmasti saanut myös oman jakson. Varmasti kiinnostaa kuulijoita myös.
+Puhuja 3: Juuri eilen tulleesta uutisesta oli eka, mikä mulla tuli mieleen, kun Ilo Vainio oli kirjoittanut Dennis Pustersteinin
+Puhuja 3: jostain.
+Puhuja 3: Hyvin
+Puhuja 3: kiinnostavia kirjoituksia oli Facebookissa ollut,
+Puhuja 3: niin menkää lukemaan
+Puhuja 3: hakusanoilla Dennis Pusterstein ja Ilkka Ilevainio
+Puhuja 3: juttu, niin olisin tästä tehnyt. En ala tämän tässä nyt tiivistämään, mutta keissi on ihmeellinen ja olen sitä mieltä, että se tarvitsisi oman podcast-jakson.
+Puhuja 3: Omaisin
+Puhuja 1: ehkä
+Puhuja 1: mieluusti puhunut Iran hormuus
 Puhuja 1: Yhdysvaltain ulkopolitiikka,
-Puhuja 1: extraplajaus,
-Puhuja 1: mutta siitä voisi puhua vaikka kolme tuntia itse ulkomaan toimittajien
-Puhuja 1: keskuudessa. En tiedä kiinnostaisiko lukijoita niin paljon.
-Puhuja 1: Mistä tulevaisuus uskoo ja visiota Suomelle? HS-visio toimittaja, Pihla-arvoltaan.
+Puhuja 1: ekstrapläjäys,
+Puhuja 1: mutta siitä voisi puhua vaikka kolme tuntia itse ulkomaantoimittajien keskuudessa. En tiedä kiinnostaisiko lukijoita niin paljon.
+Puhuja 1: Mistä tulevaisuus uskoo ja visiota Suomelle? HS-visio toimittaja PIosaarvilta.
 Puhuja 4: Ai, apua.
 Puhuja 4: Mikä kysymys tämä on?
-Puhuja 4: Tulevaisuususkoa
-Puhuja 4: Suomelle ja visiota:
-Puhuja 4: No, menkää kouluun.
-Puhuja 3: Piste!
-Puhuja 3: Seuraava kysymys.
-Puhuja 1: Okei,
-Puhuja 1: miten podcast eroaa etiketiltään muusta uutisoinnista? Mikä on niin sanotusti rajaspekulointiin?
-Puhuja 1: Mitä ilmeisimmin kepeä jutustelu ja arvelu
-Puhuja 1: muut sellaiset hauskat analyysit ovat paljon hyväksyympiä kuin lehden muussa uutisoinnissa?
-Puhuja 1: Ja kiva näin, siksihän tätä kuuntelenkin. KaksoisdD.
-Puhuja 3: Kyllähän, myös journalistin ohjeet pätevät kaikkiin
-Puhuja 3: journalistisiin tuotteisiin,
-Puhuja 3: että siksi täälläkin
-Puhuja 3: me teemme oikaisuja, jos tulee puhuttua
-Puhuja 3: Toki sitten keskustelee,
-Puhuja 3: kun on keskustelevampia
-Puhuja 3: ohjelmia eikä
-Puhuja 4: vakavaa uutistekstiä, niin sitten voi keskustelevampi ja kevyempi ote olla. Niin ja saa olla omia mielipiteitä mukana. Se on ehkä ollut itsellä semmoinen havainto
+Puhuja 3: Loistavan. Seuraava kysymys.
+Puhuja 3: Hyvä, kiitos eteenpäin.
+Puhuja 1: Okei, miten podcast eroaa etiketiltään muusta uutisoinnista?
+Puhuja 1: Mikä on niin sanotusti rajas spekulointiin, kun mitä ilmeisimmin kepeä jutustelu ja arvelu
+Puhuja 1: ym. Hauskat analyysit ovat paljon hyväksyympiä kuin lehden muussa uutisoinnissa.
+Puhuja 1: Siis kiva näin, siksihän tätä kuuntelinkin. Kaksois. D. Kyllä
+Puhuja 2: myös journalistin ohjeet pätee kaikkiin
+Puhuja 2: journalistisiin tuotteisiin.
+Puhuja 2: Täälläkin me teemme oikaisuja, jos tulee puhuttua virheellisesti.
+Puhuja 2: Toki
+Puhuja 2: sitten keskustelee,
+Puhuja 2: kun on
+Puhuja 2: keskustelevampia ohjelmia eikä
+Puhuja 2: vakavaa
+Puhuja 4: uutistekstiä, niin sitten voi keskustelevampi ja kevyempi ote olla. Niin ja saa olla omia mielipiteitä mukana. Se on ehkä ollut itsellä semmoinen havainto
 Puhuja 4: kesän aikana.
-Puhuja 4: On ollut vaikea ehkä tuoda aluksi niitä omia mielipiteitä, mutta
+Puhuja 4: On ollut vaikea tuoda aluksi omia mielipiteitä, mutta
 Puhuja 4: jotenkin se on tässä formaatissa ehkä ihan sallittua. Just tuosta formaatista piti sanoa, että podcast-formaattina
-Puhuja 2: ylipäätään
-Puhuja 2: on keskustelevaa. Ainakin tämä uutisraportti-podcast,
-Puhuja 2: niitä on toki monenlaisia, mutta tämä on hyvin keskusteleva ja rennon rempseä.
-Puhuja 2: Mites tämä joskus ainakin markkinointiin sellaisella
-Puhuja 2: lainilla,
-Puhuja 2: että
-Puhuja 2: tässä
-Puhuja 2: ohjelmassa
-Puhuja 2: jutellaan uutisaiheesta niin kuin
-Puhuja 2: toimittajat lounaspöydän
-Puhuja 2: ääressä tyylisesti? Se on vähän niin kuin omia ajatuksia, mutta totta kai totuudenmukaisesti.
-Puhuja 1: Niin,
-Puhuja 1: kyllähän se kysyy myös hyvin paljon tavallaan podcastiformaatissa.
+Puhuja 3: ylipäätään
+Puhuja 3: on keskustelevaa. Ainakin tämä uutisraportti-podcast.
+Puhuja 3: Niitä on toki monenlaisia, mutta tämä on hyvin keskusteleva ja Renon rempseä.
+Puhuja 3: Mites tämä joskus ainakin markkinointiin sellaisena
+Puhuja 3: lainilla, että
+Puhuja 3: tässä
+Puhuja 3: ohjelmassa jutellaan uutisaiheesta niin kuin
+Puhuja 3: toimittajat lounaspöydän
+Puhuja 3: ääressä tyylisesti? Se on vähän
+Puhuja 3: omia ajatuksia, mutta totta kai totuudenmukaisesti.
+Puhuja 1: Niin, kyllä se kysyy myös hyvin paljon podcastiformaatista.
 Puhuja 1: Minäkin olen ollut Ylen uutispodcastissa
 Puhuja 1: vieraana
-Puhuja 1: puhumassa Ukrainan sodasta.
-Puhuja 1: Toki sekin on keskusteleva, mutta se muistuttaa paljon enemmän sitä,
-Puhuja 1: että sä menet radioon ja että sua siellä haastatellaan jonkun
-Puhuja 1: toisen asiantuntijan kanssa.
-Puhuja 1: Kyllähän se on tavallaan valintakysymys
-Puhuja 1: ja se etiketti on
-Puhuja 1: ehkä se, että
-Puhuja 1: Tai se tulee vain siitä, että
-Puhuja 1: meillä on useita ihmisiä huoneessa
-Puhuja 1: puhumassa, eikä se yksi toimittaja kirjoittamassa.
-Puhuja 1: Tämä on
-Puhuja 1: ehkä tekstilajina lähimpänä
+Puhuja 1: puhumassa Ukrainan sodasta. Ja siis se ei ole, toki sekin on keskusteleva, mutta se muistuttaa paljon enemmän sitä, että
+Puhuja 1: sä menet radioon ja että sua siellä haastatellaan jonkun toisen asiantuntijan kanssa.
+Puhuja 1: Kyllähän se on tavallaan
+Puhuja 1: valintakysymys.
+Puhuja 1: Se etiketti sitten on ehkä
+Puhuja 1: se,
+Puhuja 1: että... Tai siis se tulee vaan siitä, että meillä on useita ihmisiä huoneessa
+Puhuja 1: puhumassa, eikä se yksi toimittaja
+Puhuja 1: kirjoittamassa. Tämä on tekstilajina
+Puhuja 1: lähimpänä
 Puhuja 1: jotain uutiskommenttia,
 Puhuja 1: jossa toimittaja
-Puhuja 1: toki puhuu asiasta, mutta se tuo
-Puhuja 1: omia mielipiteitään kuitenkin esiin, jos vähän pohtii sitä. Mutta tässä on päällekkäin kolme tai neljä kommenttia,
-Puhuja 1: jotka kommentoivat
+Puhuja 1: toki puhuu asiasta, mutta se
+Puhuja 1: tuo
+Puhuja 1: omia mielipiteitään kuitenkin esiin, jos vähän pohtii sitä.
+Puhuja 1: Tässä on päällekkäin kolme tai neljä
+Puhuja 1: kommenttia, jotka kommentoivat
 Puhuja 1: toisiaan.
-Puhuja 3: Nyt mulla on ihan hirveä nälkä, pitää mennä nopeasti ja tää jakso on kestänyt jo viikon nyt eteenpäin.
-Puhuja 1: Jos te toivon sitten normi popoon käsittelevän yhtä aihetta syksylle, mikä se olisi? Yksi
+Puhuja 2: Nyt
+Puhuja 2: mulla on ihan hirveä nälkä, pitää mennä nopeasti ja tämä jakso on kestänyt jo viikon nyt eteen.
+Puhuja 1: Jos toivoo sitten normiwapoon käsittelevän yhtä aihetta syksylle, mikä se olisi? Yksi
 Puhuja 1: aihe syksylle, mikä se olisi?
-Puhuja 3: Eläkkeet.
-Puhuja 1: Eläkkeet. Melkein päin.
+Puhuja 2: Eläkkeet.
+Puhuja 3: Eläkkeet. Joo, eteenpäin.
 Puhuja 1: Itse sanoisin,
-Puhuja 1: että Yhdysvaltain välivaalit, mutta varmasti käsittelevät niitä myös. Sitten vielä speedraund
-Puhuja 1: elikkä siis kysymyksiä kuulijoilta sekä Hesarin somea audiotiimiltä.
+Puhuja 1: että Yhdysvaltain välivaalit, mutta varmasti käsittelevät niitä myös. Ja sitten vielä speed drond. Elikkä siis kysymyksiä kuulijoilta sekä Hesarin someadiotiimiltä.
 Puhuja 1: Inspiraatiota
-Puhuja 1: muun muassa viikon uutiset vasta pitää nopeasti ja ilmaisedellytyksiä.
+Puhuja 1: muun muassa viikon uutiset vasta pitää nopeasti jo ilmaisedellytyksiä.
 Puhuja 1: Länsi vai itä?
 Puhuja 3: Länsi.
-Puhuja 1: Itä. Itä.
-Puhuja 1: Länsi Menisitkö mieluummin töihin Teslalle vai SpaceX:lle?
+Puhuja 4: Itä. Itä.
+Puhuja 1: Länsi.
+Puhuja 1: Menisitkö mieluummin töihin Teslalle vai SpaceX:lle?
 Puhuja 1: SpaceX.
-Puhuja 4: SpaceX. SpaceX. SpaceX.
-Puhuja 1: Avauskia, on kiva. Pelaisitko mieluummin jalkapalloa infantiinon kanssa vai golfia Trumpin kanssa? Golf.
-Puhuja 3: Futis, ehdottomasti.
-Puhuja 3: Futis!
-Puhuja 1: Varmaan golf
-Puhuja 1: Okei. Onko murakulho
+Puhuja 4: SpaceX.
+Puhuja 4: SpaceX.
+Puhuja 1: Avauski, on kiva. Pelaisitko mieluummin jalkapalloa infantiinon
+Puhuja 1: kanssa vai golfia Trumpin kanssa?
+Puhuja 1: Golf.
+Puhuja 1: Footis, ehdottomasti.
+Puhuja 1: Footis?
+Puhuja 1: Varmaan
+Puhuja 1: golf. Okei.
+Puhuja 1: Onko murakulho
 Puhuja 1: keitto?
 Puhuja 1: Ei.
-Puhuja 1: Mikä on Murokuho? No se on kulho, jos on muroja.
-Puhuja 3: Ovatko murot keitto? Murot,
-Puhuja 4: Joo, oikeesti ne nesquikin
-Puhuja 4: ne pyöreät. Onko muurapurhokeittoa?
-Puhuja 4: No ei se ainakaan ruokaa ole. Ei se ole keittoa, mitä hittoa?
-Puhuja 1: Vastaan kyllä, koska
-Puhuja 1: mikä ole.
+Puhuja 1: Mikä on murakulho? Se on kulho, jossa on muroja.
+Puhuja 2: Murot. Ovatko murot-keitto? Ei
+Puhuja 1: ne on
+Puhuja 2: muroja.
+Puhuja 2: Kuka aikuinen syö mulle?
+Puhuja 4: Minä.
+Puhuja 4: Oikeasti ne nestuikin
+Puhuja 1: pyöreät. Onko muurakuluha keitto?
+Puhuja 4: No ei se ainakaan ruokaa ole. Ei se ole keittoa, mitä hittoa.
+Puhuja 1: Vastaan kyllä, kun sitä ei ole.
 Puhuja 1: Joudut nyt kilpailemaan yleisurheilussa.
 Puhuja 1: Mikä on lajissa?
 Puhuja 4: Yleisurheilulaji.
-Puhuja 4: Voi jaksa aloittaa jostain muusta, kun miusta mie mietin. Sata metriä.
-Puhuja 3: Sata metriä. No voi vittu. Vaikka pituushyppy.
+Puhuja 4: Voijaks aloittaa jostain muusta kuin miusta, mie mietin. Sata metriä. Sata
+Puhuja 2: metriä. Voi vittu, vaikka pituushyppy.
 Puhuja 1: Ehkä joku kuulantyöntö.
-Puhuja 1: Rakennatko mieluummin Tuomaksen kanssa talon? Vai onko hiihdet kolmesataa kilometriä Sallan
-Puhuja 2: kanssa? Kaksi mun hirveää mahdollista aktiviteettia. Mitä vasta ikinä olla. Tuomas ja talo.
-Puhuja 4: Ehdottomasti Salla ja hiihto.
-Puhuja 4: Sama.
+Puhuja 3: Rakennatko mieluummin Tuomaksen kanssa talon, vaiko hiihdet kolmesataa kilometriä Sallan kanssa? Kaksi mun hirveätä mahdollista haittaiteettia voi päästä ikinä olla. Tuomas ja talo.
+Puhuja 4: Ehdottomasti Salla ja hiihto sama.
 Puhuja 1: Tuomas ja talo.
-Puhuja 1: Ja
-Puhuja 2: näin. Ja aivan lopuksi
-Puhuja 2: vinkkejä
-Puhuja 2: lue tästä hatusta, John Helin.
-Puhuja 1: Aivan lopuksi,
-Puhuja 1: kertokaa minulle puheenaiheita pitkien epämukavien hiljaisuuksien
+Puhuja 3: Ja aivan lopuksi
+Puhuja 3: vinkkejä
+Puhuja 3: lue tästä hatusta John Helin.
+Puhuja 1: Aivan
+Puhuja 1: lopuksi kertokaa minulle puheenaiheita pitkien epämukavien hiljaisuuksien
 Puhuja 1: varalle.
-Puhuja 4: Okei, nyt on Reality ystäville herkkua tarjolla. Katsomoon on tullut
-Puhuja 4: viime vuoden ensitreffit alttarilla Australia.
+Puhuja 4: Okei,
+Puhuja 4: tota, nyt on Reality ystäville
+Puhuja 4: herkkua tarjolla. Katsomoon on tullut
+Puhuja 4: viime vuoden ensitreffit
+Puhuja 4: alttarilla Australia.
 Puhuja 4: Sen
 Puhuja 4: parempaa viihdettä
-Puhuja 4: ei saa
-Puhuja 4: sitten Lawillent UK:n kolmoskauden.
+Puhuja 4: ei saa sitten lava-Lent UK:n kolmoskauden.
 Puhuja 4: Se on siis niin hyvä. Siellä on draamaa, nopeita leikkauksia.
-Puhuja 4: Vitsi kun se tuotanto, se on ollut niin nokkela.
-Puhuja 4: Sitten minä kerron vielä tähän tai lupasin tässä viimeisen raportin yhteydessä lähettää terveiset
+Puhuja 4: Ja vitsi kun se tuotanto, se on ollut niin nokkela.
+Puhuja 4: Ja sitten minä kerron vielä tähän tai lupasin tässä viimeisen raportin yhteydessä lähettää terveiset
 Puhuja 4: äidille ja iskälle
 Puhuja 4: sekä eräälle uutisraportin
 Puhuja 4: uskollisimmalle
-Puhuja 4: kuuntelijalle,
-Puhuja 4: serkulleni Emmalle.
-Puhuja 4: Hän on järjestänyt tänä kesänä
-Puhuja 4: laajoja mainoskampanjoita
-Puhuja 4: kavereille ja sukulaisille, että tänä kesänä kannattaa kuunnella rapsaa.
-Puhuja 4: Joten mikäli me huomataan piikkejä kuuntelijoissa,
-Puhuja 4: niin se johtuu varmaan siitä.
-Puhuja 2: Kiitos Emma. Ei Emma, kiitos.
-Puhuja 3: Minullakin on suositus
-Puhuja 3: loppukeselle.
-Puhuja 3: Suosittelisin, että ILLEo
-Puhuja 3: olisi loppukesän hiljaa.
-Puhuja 3: Ihanaa,
-Puhuja 3: että tähän jo vähän viitattiin. Siis
-Puhuja 3: keskiviikkona oli tämä liikennevalvontatoiminnan
-Puhuja 3: johtaja Denis Pastersteinia
-Puhuja 3: herjaava Facebook päivitys, jonka illa sitten myöhemmin päätyi
-Puhuja 3: poistamaan. Hän olisi saanut ylinopeussa
-Puhuja 3: sakotajettua
-Puhuja 3: käpylässä kameraa,
-Puhuja 3: jossa siis siellä on kameraa, siellä on monta liikennemerkkiä, siellä on hidasteita.
-Puhuja 3: Kuten Pasterstein
-Puhuja 3: sanoi, niin ei paljon selkeämmin voisi ilmaista, että siinä pitää ajaa rajoitusten mukaan, mutta koska
-Puhuja 3: kyseessä on
-Puhuja 3: tämän ikäinen mies, niin se on jonkun muun syy, jos ei osaa ajaa autoa.
-Puhuja 3: Lisäksi hän on kertonut Iltalehden Seksikäs
-Puhuja 3: podcastissa
-Puhuja 3: Mieskunnostaan,
-Puhuja 3: joka on kuulemma loistava edelleen ja lähdetään hakemaan sitä, että seisoisi kunnolla loppuun asti.
-Puhuja 3: Suosittelen,
-Puhuja 3: että ole
-Puhuja 3: hiljaa loppukesä.
-Puhuja 3: Kukaan ei halua kuulla näitä juttuja.
-Puhuja 2: Ja mä teen sen podcastin silti tästä uutisesta.
-Puhuja 2: Itse suosittelen,
-Puhuja 2: että musiikilla aloitettiin, niin musiikilla myös lopetetaan tämä kesäkausi. Nimittäin
-Puhuja 2: The Strou julkaisi
-Puhuja 2: Reality Aways
-Puhuja 2: levyn monen vuoden tauon jälkeen. Itse stroagsia nautiskelen.
-Puhuja 2: Tämä levy, joka on jakanut kovasti mielipiteitä Julian Kaza Blankkasin aututuneen käytöstä, on minun mielestäni erinomainen ja suosittelen. Mennään itse asiassa Sroagea katsomaankin Saksaan myöhemmin
-Puhuja 2: syksyllä.
-Puhuja 2: Suosittelen
-Puhuja 2: levyn kuuntelemista.
-Puhuja 2: DM:n
-Puhuja 2: ovat auki keskustelulle
-Puhuja 2: tästä kyseisestä levystä, koska mielipiteitä ja ajatuksia on. Kuunnelkaa
-Puhuja 2: stroksia, joka
-Puhuja 2: lähestyy toki pappaliikaa pikku hiljaa iän ikänsä puolesta. Miten
-Puhuja 3: miten on mieskunnalla?
-Puhuja 2: Ei mies kyllä selvittää, mutta
-Puhuja 2: se ei kyllä kuulu tässä levyllä.
-Puhuja 1: Sunnelkaa rock-musiikkia.
+Puhuja 4: kuuntelijalle, serkulleni Emmalle.
+Puhuja 4: Hän on järjestänyt tänä kesänä laajoja mainoskampanjoita
+Puhuja 4: kavereille ja sukulaisille,
+Puhuja 4: että tänä kesänä kannattaa kuunnella rapsaa.
+Puhuja 4: Mikäli
+Puhuja 4: me huomaamme piikkejä kuuntelijoissa, niin se johtuu varmaan sitten siitä.
+Puhuja 3: Kiitos Emma. Ei Emma, kiitos.
+Puhuja 2: Minullakin on suositus
+Puhuja 2: loppukeselle.
+Puhuja 2: Suosittelisin,
+Puhuja 2: että ILe Vainio olisi loppukesän hiljaa.
+Puhuja 2: Ihanaa,
+Puhuja 2: että tähän jo vähän viitattiin.
+Puhuja 2: Keskiviikkona
+Puhuja 2: oli
+Puhuja 2: liikennevalvontatoiminnan
+Puhuja 2: johtaja Denis Pastersteinia
+Puhuja 2: herjaava Facebook-päivitys,
+Puhuja 2: jonka ilme sitten myöhemmin päätyi
+Puhuja 2: poistamaan. Sehän oli saanut ylinopeussa sakotaettua
+Puhuja 2: käpylässä kameraa, jossa siis siellä on kameraa, siellä on monta liikennemerkkiä, siellä on hidasteita.
+Puhuja 2: Kuten
+Puhuja 2: Bastasstein sanoi, ei paljon selkeämmin voisi
+Puhuja 2: ilmaista, että siinä pitää ajaa rajoitusten mukaan. Se oli tietysti jo, koska kyseessä on
+Puhuja 2: tämän ikäinen mies, niin se on jonkun muun syy, jos ei osaa ajaa autoa.
+Puhuja 2: Lisäksi hän on kertonut Iltalehden seksikäs podcastissa
+Puhuja 2: Mieskunnostaan, joka on kuulemma
+Puhuja 2: Suosittelen, että ole hiljaa, loppukesä.
+Puhuja 2: Kukaan ei halua kuulla näitä juttuja.
+Puhuja 3: Ja mä teen sen podcastin silti tästä uutisesta.
+Puhuja 3: Itse suosittelen...
+Puhuja 3: Musiikilla aloitettiin, niin musiikilla myös lopetetaan tämä kesäkausi. Nimittäin
+Puhuja 3: The Strou julkaisi
+Puhuja 3: Reality Awaates
+Puhuja 3: levyn monen vuoden tauon jälkeen.
+Puhuja 3: Ja itse strogsia nautiskelen.
+Puhuja 3: Tämä levy, joka on jakanut kovasti mielipiteitä Julian Kasa blankkasin autounnin
+Puhuja 3: käytöstä, on minun mielestäni erinomainen
+Puhuja 3: ja suosittelen. Minä itse asiassa menen Strouia katsomaankin Saksaan
+Puhuja 3: tässä myöhemmin
+Puhuja 3: syksyllä. Suosittelen
+Puhuja 3: levyn kuuntelemista.
+Puhuja 3: DM:ni
+Puhuja 3: ovat auki keskustelulle tästä kyseisestä levystä, koska mielipiteitä ja ajatuksia on. Niin kuunnelkaa strogea,
+Puhuja 3: joka
+Puhuja 3: lähestyy toki pappa liikaa pikkuhiljaa
+Puhuja 3: ikänsä puolesta ja mitä. Miten on mieskunnalla? Miten on mieskunnalla? Miten ei pitäisi kyllä selvittää,
+Puhuja 3: mutta se ei kyllä kuulu tässä levyllä.
+Puhuja 1: Kuunnelkaa rock-musiikkia.
 Puhuja 1: Itse voin suositella kaikille
 Puhuja 1: tikan heittoa sekä lautapelejä
-Puhuja 1: mökillä poikain kanssa sekä
-Puhuja 1: miehisiä
-Puhuja 1: keskusteluja
+Puhuja 1: mökillä poikain
+Puhuja 1: kanssa sekä miehisiä keskusteluja
 Puhuja 1: sielunne
 Puhuja 1: syvimmistä asioista. Minulla oli erinomainen viikonloppu. Pidin siitä kovin. Puhukaa ystävienne kanssa
 Puhuja 1: vaikeistakin asioista. Se on hienoa.
 Puhuja 1: Kiitos Tuija!
-Puhuja 2: Kiitos Pihla! Kiitos Topi! Kiitos Topi! Tekniikassa
-Puhuja 1: meillä on toiminut Helmi Sundström lähes koko kesän ajan. Kiitos Helmi!
-Puhuja 1: Hän myös tarjoi teille somekonssaa tällä viikolla.
-Puhuja 1: Tämä on ollut viimeinen kesäraportti ensi viikolla jälleen remmissä: Tuomas Peltomäki, Sala Vuorikoski, Marko Junkkari sekä muut. En ole aivan varma ovatko kaikki kolme täällä. Mutta kiitos teille kuulijat,
+Puhuja 1: Kiitos Pihla!
+Puhuja 1: Kiitos Topi. Kiitos Topi. Kiitos. Tekniikassa meillä on toiminut Helmi Sundström lähes koko kesän ajan. Kiitos Helmi. Hän myös tarjoi teille somekonssaa tällä viikolla.
+Puhuja 1: Tämä on ollut viimeinen kesäraportti ensi viikolla jälleen remmissä: Tuomas Peltomäki, Salla Vuorikoski, Marko Junkkari sekä muut. En ole aivan varma, ovatko kaikki kolme täällä.
+Puhuja 1: Mutta kiitos teille kuulijat,
 Puhuja 1: tähän loppuu
-Puhuja 1: meidän Viandaolorossamme.
+Puhuja 1: meidän Viiddol lossanmme.
 Puhuja 1: Kiitos.
+Puhuja 2: Helsingin Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: syntyi.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen
+Puhuja 0: yrityksen eli Fortumin.
+Puhuja 0: Melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui taloudellinen
+Puhuja 0: murhamysteeri.
+Puhuja 0: Tän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greatot Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai on Vladimir
+Puhuja 0: Putin ja hänen hämähäkinverkkosa.
+Puhuja 0: Verkkonsa. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C:a, kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.

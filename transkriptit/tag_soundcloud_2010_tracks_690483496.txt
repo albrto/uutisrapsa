@@ -67,8 +67,8 @@ Puhuja 0: pääkohde, tämmöinen nuori
 Puhuja 0: ukrainalaisnainen
 Puhuja 0: tai ainakin ukrainalaissyntyinen
 Puhuja 0: nainen.
-Puhuja 0: Ja tota,
-Puhuja 0: näin.
+Puhuja 0: Ja
+Puhuja 0: tota, näin.
 Puhuja 0: Poliisi saapui paikalle kahdeksan minuutissa ja sai ammuttua tekijän, joka on puolesta vuonna tuhat
 Puhuja 0: yhdeksänsataayhdeksänkymmentäneljä
 Puhuja 0: syntynyt suomalaismies,
@@ -76,9 +76,11 @@ Puhuja 0: tämmöinen niin kuin
 Puhuja 0: normaalikantosuomalainen
 Puhuja 0: valkoinen,
 Puhuja 0: ei millään tavalla mamumies.
-Puhuja 0: Ja jotenkin netin
+Puhuja 0: Ja
+Puhuja 0: jotenkin netin
 Puhuja 0: oikeisto trollaussivustoilla
-Puhuja 0: hänet on jo nostettu jonkinnäköiseen Insankarin
+Puhuja 0: hänet on jo nostettu jonkinnäköiseen
+Puhuja 0: Insankarin
 Puhuja 0: asemaan.
 Puhuja 0: Okei, faktat on edelleen siis liikkuvia ja uutta tietoa tulee koko ajan.
 Puhuja 0: Olennaisia tietoja ei tiedetä, kuten esimerkiksi, että mikä oli iskun motiivi.
@@ -89,16 +91,14 @@ Puhuja 0: ensimmäistä kertaa kuulustelemaan tätä iskuntekijää
 Puhuja 0: ja jossain vaiheessa sitten jonkunnäköinen arvio tästä tulee
 Puhuja 0: julki.
 Puhuja 0: Tota,
-Puhuja 0: Aloitan vähän ehkä tylsästi mediakkulmasta.
+Puhuja 0: Tota, aloitan vähän ehkä tylsästi mediakkulmasta.
 Puhuja 0: Tämä on mun käsityksen mukaan ensimmäinen
-Puhuja 0: tämmöinen väkivallanteko, joka Mä haluaisin nähdä sen gallupin, että
-Puhuja 0: okei, sitten ne ihmiset, jotka on vanhempia,
-Puhuja 1: ihmisen on myös pakko kokea ja sanoa niin. Niin, että elämä olisi jotenkin mielekästä ja järkevää. En tiedä, kyllä mä tunnen yhden niistä kahdeksantoista
+Puhuja 0: tämmöinen väkivallanteko, joka... Mä haluaisin nähdä sen gallupin, että okei, sitten ne ihmiset, jotka on vanhempia, niin kuinka moni niistä sanoo, että se on niin kuin, että kannattaa. Ja
+Puhuja 0: ihmisen on myös pakko kokea ja sanoa niin. Niin, että elämä olisi jotenkin mielekästä ja järkevää. En tiedä, kyllä mä tunnen yhden niistä kahdeksantoista
 Puhuja 0: tuhannasta
 Puhuja 0: ihmisistä.
-Puhuja 2: Nyt mennään eteenpäin. Mä haluan aina saada loppukandetit tälle keskustelulle, niin olenhan
-Puhuja 2: ja
-Puhuja 2: muuttotappiokaupungeissa
+Puhuja 2: Nyt mennään eteenpäin. Mä haluan saada loppukandetit tälle keskustelulle, niin olenhan ja
+Puhuja 2: tällaisissa muuttotappiokaupungeissa
 Puhuja 2: ja kunnissa
 Puhuja 2: on tyrmistyneitä
 Puhuja 2: siitä, kun niiden asuntojen arvo laskee.
@@ -110,7 +110,8 @@ Puhuja 1: Kukaan ei osta sitä rintamiestä.
 Puhuja 2: Kukaan ei ole pakottanut ketään ikinä ostamaan
 Puhuja 2: jotain rivarin pätkää Kotkasta.
 Puhuja 0: Siis vertaiseksi nyt sitä, että ihmiset eivät tee lapsia. Se on sama asia kuin, että ihmiset eivät halua asukkaitaan.
-Puhuja 1: No niin, nyt mennään eteenpäin. Okei, mennään.
+Puhuja 1: No niin, nyt mennään eteenpäin.
+Puhuja 0: Okei, mennään.
 Puhuja 0: Mutta mennään siihen, että
 Puhuja 0: eilen keskiviikkona tasavallan presidentti Sauli Niinistö oli virkamatkalla
 Puhuja 0: Washingtonissa
@@ -135,8 +136,8 @@ Puhuja 0: levinneeseen mediajuttuun, koska Trump teki siinä heidän
 Puhuja 0: lehdistötilaisuudessaan
 Puhuja 0: hyvin Trumpmäiset
 Puhuja 0: temput ja
-Puhuja 0: sekoilija suuttui ja haukku kaikki ja pisti siitä Hyrskyn myrskyjänä ja sitten oikein niinku tää
-Puhuja 0: tapaamisen agenda ei oikein päässyt niinku missään
+Puhuja 0: sekoilija suuttui ja haukku kaikki ja pisti siitä Hyrskyn myrskyjänä ja sitten oikein tää
+Puhuja 0: tapaamisen agenda ei oikein päässyt missään
 Puhuja 0: esille.
 Puhuja 0: Marko, miksi meille syntyy semmoinen mielikuva,
 Puhuja 0: että
@@ -147,20 +148,21 @@ Puhuja 1: Tästä oli Kari Huudda mainio analyysi joku aika sitten.
 Puhuja 1: Suomihan neljätoista vuotta täällä itkettiin sisäänpäin, kun valkoisella taloon ei tullut presidentille kutsua. Nyt tulee joka viikko.
 Puhuja 2: Vaan pehmitellä kokoomuslaisia, jotka on suuttuneet siitä, että olet vainonnut niitä viikkokausia. Ai niin, kun me ollaan Unkarintiellä. Etkö sinä, joka meitä vei Unkarintielle?
 Puhuja 2: No näin näin.
-Puhuja 2: Mutta
+Puhuja 2: Mutta...
 Puhuja 2: Tällaisiakin väitteitä on nostettu.
 Puhuja 1: Niin, mutta
 Puhuja 1: oli ihan mahtava seurata. Mun mielestä nämä Niinistön muutamat kommentit siinä, missä hän kertoi käyneensä museossa ja kehotti, että suojelkaa
-Puhuja 0: tätä Pitäkää huolta tästä maailman valtavan hienosta demokratiasta. Ei, mutta tämä oli. Miten hienosti Niinistö oli sen sanottu, että you have a great demokracy,
-Puhuja 1: please geep it going. Ja sitten olihan se toinen se Ehkä se hienoa kohta oli se
+Puhuja 0: tätä... Pitäkää huolta tästä maailman valtavan hienosta demokratiasta. Ei, mutta tämä oli. Miten hienosti Niinistö oli sen sanottu, että you have a great demokracy,
+Puhuja 1: please geep it going. Ja sitten olihan se toinen se... Ehkä se hienoa kohta oli se
 Puhuja 1: hetki, kun Trump keskeytti sen infoon ennenaikaisesti. Niin kuin sanoit Reutersin toimittaja
 Puhuja 1: kysyi toistamiseen tätä kysymystä. Säilytti itse Malttiin hienosti ja mahtavasti.
-Puhuja 1: Trumpin vastaus oli se, että sun pitää kysyä täältä
+Puhuja 1: Trumpin vastaus oli se, että sun pitää kysyä täältä...
+Puhuja 1: Ei
 Puhuja 1: kysyä häneltä jotain. Rutterista, mitä sanoi, että minulla on hänelle kysymys, mutta voitko ensin
 Puhuja 1: vastata tähän minun kysymykseen?
 Puhuja 1: Trump suuttu ja keskeytti
 Puhuja 1: höskädin.
-Puhuja 1: Ai niin, sitten se välissähän
+Puhuja 1: Ai niin, sitten se välissähän...
 Puhuja 1: Niin,
 Puhuja 1: sitten
 Puhuja 1: se Trump pakotti, niin niinirille osoitettiin yksi kysymys. Mutta eihän Trump antanut vastata, se ei rupesi itse vastaamaan.
@@ -170,8 +172,7 @@ Puhuja 2: erityisesti siitä GIFinä maailmalle levinneestä
 Puhuja 2: tilanteessa,
 Puhuja 2: jossa Trump koskettaa Niinistön polvea ja Niinistön heilauttaa.
 Puhuja 0: Siis se Niinistön käden liike
-Puhuja 0: Asiapuolelta mua kiinnostaa se, että
-Puhuja 0: Ja tämä on ehkä sinulle Marko, kun tunnet Suomen
+Puhuja 0: Asiapuolelta mua kiinnostaa se, että... Ja tämä on ehkä sinulle Marko, kun tunnet Suomen
 Puhuja 0: poliittisen koneiston
 Puhuja 0: ja viranomaiskoneiston
 Puhuja 0: toimintaa. Ai minä en naisena voi tuntea sitä. Sinulla on kohta ja se sekoittaa sun pään.
@@ -189,8 +190,9 @@ Puhuja 0: Mutta onko olemassa Suomessa semmoista, että okei, niin niistä käy
 Puhuja 0: jotenkin sanomassa jostain virkamiesten kautta, että
 Puhuja 0: ovatko
 Puhuja 1: ne jenkkihävittäjät hyvin, että voitasiinko me päätyä sinne? Ehkä me varmaan joka tapauksessa päädytään, en tiedä, mutta sehän on se todennäköisin vaihtoehto.
-Puhuja 1: Vaikka oli se Trumpin motiivi mikä tahansa, että hän haluaa mainostaa näitä
-Puhuja 1: kahta amerikkalaista konetyyppiä,
+Puhuja 1: Vaikka oli se Trumpin motiivi mikä tahansa, että hän haluaa mainostaa näitä......
+Puhuja 1: Kahta
+Puhuja 1: amerikkalaista konetyyppiä,
 Puhuja 1: mutta
 Puhuja 1: onhan tämä Suomen kannalta pieni maa, jolle on
 Puhuja 1: äärimmäisen tärkeää pystyä kommunikoimaan sekä itään että länteen. Onhan tämä nyt niinistölle
@@ -200,7 +202,7 @@ Puhuja 1: Oli se Trumpin motiivi mikä tahansa,
 Puhuja 1: mutta
 Puhuja 1: eihän sekään niinistö ei myöskään päätä sitä konetyyppiä.
 Puhuja 0: Ei niin, mutta kyllä hän kuitenkin on silti tasavallan presidentti ja pystyy vaikuttamaan asioita. Jos iskee silmään ja
-Puhuja 0: kohottelee kulmakarvoja oikeiden tyyppien luona, niin kyllä hän
+Puhuja 0: kohottelee kulmakarvoja oikeiden tyyppien luona, niin kyllä hän...
 Puhuja 0: Vaikutusvaltaa hänellä on. Haluan rinnastaa tämän
 Puhuja 0: Fennovoimaan,
 Puhuja 0: joka tänne tuosta noin vain pyöräteltiin joku aivan helvetin neukku reaktori, näin jonkun ihme puolalais-serbialaisen
@@ -219,15 +221,15 @@ Puhuja 0: Amerikan halki suomalaiset 5G-verkot,
 Puhuja 0: jotka sitoisivat meitä taloudellisesti sinnepäin, ettei me olla vain yksi joku venäläisen reaktorin takapih.
 Puhuja 0: Kysymys oli kärjessä. Kuunnellaan kysymystä
 Puhuja 1: Suomi ei ole Naton jäseniä ja Suomelle
-Puhuja 1: suhteet Yhdysvaltoihin ovat äärimmäisen tärkeät, koska olemme huolissaan, mitä idässä tapahtuu. Ja se nyt varmaan on Mielestäni Suomen hävittäjävalinta on se, että kävi Niinistö miten monta kertaa tahansa valkoisessa talossa.
+Puhuja 1: suhteet Yhdysvaltoihin ovat äärimmäisen tärkeät, koska olemme huolissaan, mitä idässä tapahtuu. Ja se nyt varmaan on... Mielestäni Suomen hävittäjävalinta on se, että kävi Niinistö miten monta kertaa tahansa valkoisessa talossa.
 Puhuja 1: Suomen hävittäjäväli todennäköisesti
-Puhuja 1: joka tapauksessa Niinhän se meni viimeksikin, otettiin Hornetit, ja siinä oli turvallisuuspoliittinen taustasyy.
+Puhuja 1: joka tapauksessa... Niinhän se meni viimeksikin, otettiin Hornetit, ja siinä oli turvallisuuspoliittinen taustasyy.
 Puhuja 1: Samat syyt ovat edelleen voimassa, mutta jos
 Puhuja 1: tämän asian tiimoilta
 Puhuja 1: Suomi pääsee näin tiiviisti
 Puhuja 1: keskustelemaan tunnetuimpien
 Puhuja 1: maailmanjohtajien kanssa, niin sehän on ihan hyvä.
-Puhuja 1: En näe tällaista
+Puhuja 1: En näe tällaista...
 Puhuja 1: En näe tällaista skoplalausongelmaa
 Puhuja 1: tässä, jossa oli sinun pointti, koska tämä on tavallaan kaksi eri asiaa.
 Puhuja 1: Ja toinen vaihtoehto on ruotsalainen.
@@ -250,9 +252,10 @@ Puhuja 2: että mitä ne niin sitten oikeasti
 Puhuja 2: ajattelee sitten kun se
 Puhuja 2: tulee tai lähtee sieltä tapaamisesta ja sitten kaikki toimittajat on lähtenyt menemään ja se pääsee oman
 Puhuja 2: auton takapenkille
-Puhuja 2: niin istutaanko se siis se
+Puhuja 2: niin... Istutaanko se siis se
 Puhuja 2: Voi vittu mikä meininki
-Puhuja 1: ja vetää kuusi röökii putkeen. Onhan toi niin kuin silleen, onhan toi Niinistö,
+Puhuja 2: ja vetää kuusi röökii putkeen. Onhan toi niin kuin
+Puhuja 1: Niinistö,
 Puhuja 1: missä. Onhan tuo tosi hankala tilanne. Olet infossa, jossa on täynnä jenkkkitoimittajia
 Puhuja 1: pari suomalaista. Kaikki ovat vain ja ainoastaan
 Puhuja 1: kiinnostuneet jenkkien sisäpoliittisista kysymyksistä. Ja olet täysin statisti ja samaan aikaan
@@ -359,7 +362,8 @@ Puhuja 0: podcastin
 Puhuja 0: kuuntelijoille osoitteesta hös. Fipaparempaa
 Puhuja 0: kuunneltavaa.
 Puhuja 0: Vielä kerran:
-Puhuja 0: näytetilaus ei sido mihinkään. Kestää kuukauden ja loppuu itsestään siihen. Sen saat sinä, koska kuuntelet tätä podcastia.
+Puhuja 0: näytetilaus
+Puhuja 0: ei sido mihinkään. Kestää kuukauden ja loppuu itsestään siihen. Sen saat sinä, koska kuuntelet tätä podcastia.
 Puhuja 0: Käy hakemassa se itsellesi osoitteesta
 Puhuja 0: hsys.
 Puhuja 0: Fi:parempaa

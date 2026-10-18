@@ -41,7 +41,7 @@ Puhuja 1: tai iluutinen
 Puhuja 1: riippuen siitä, miten asian näette. Tää on kesätiimin
 Puhuja 1: vikajakso
 Puhuja 1: ja täällä menetetään!
-Puhuja 2: Ensi viikolla taas Margot, Annit ja Tuomakset vauhdissa!
+Puhuja 2: Ensi viikolla taas Margot ja Annit ja Tuomakset vauhdissa!
 Puhuja 2: Kyllä! Pitäiskö sanoa tuomaat?
 Puhuja 2: Oho!
 Puhuja 2: Siis puraalis? En tiedä! Jatketaan, jatketaan!
@@ -64,12 +64,13 @@ Puhuja 3: linjasta Venäjää vastaan
 Puhuja 3: ja kannustanut
 Puhuja 3: sekä kaikkia
 Puhuja 3: yrityksiä että muita Euroopan
-Puhuja 3: maita, Yhdysvaltoja, ottamaan tiukemman linjan Venäjän kanssa. Ja ollut tällainen
+Puhuja 3: maita Yhdysvalmman linjan Venäjän kanssa. Ja ollut tällainen
 Puhuja 3: hyvin moraalisesti puhdas, hyvin sellainen, että hän on ainakin tiukan linjan
 Puhuja 3: kannalla ja sanonut, että sodassa ei ole,
 Puhuja 3: mustavalkoista, että siinä ollaan jollain puolella tai ei olla.
 Puhuja 3: Tässä mustavalkoisessa
-Puhuja 3: linjassa, jota hän on ajanut, näyttää sitten aika mustalta
+Puhuja 3: linjassa, jota hän on ajanut,
+Puhuja 3: näyttää sitten aika mustalta
 Puhuja 3: töhryltä,
 Puhuja 3: että hänen miehensä
 Puhuja 3: on ollut mukana kuviossa, jossa jatketaan
@@ -118,7 +119,7 @@ Puhuja 1: Pieni ajatusleikki:
 Puhuja 1: Miltä politiikan syksy vaikuttaa?
 Puhuja 1: Mitä asioita nousee esiin?
 Puhuja 1: Mitkä aiheuttaa hankausta äänestää kunnassa ääntä hallituksen sisällä?
-Puhuja 2: Annetaan klassikkokysymys, miltä näyttää politiikan syksy? Näyttää sateiselta.
+Puhuja 2: Annetaan klassikkokysymys, että miltä näyttää politiikan syksy? Näyttää sateiselta.
 Puhuja 2: Taitaa olla Hakaniemessä soppatykit
 Puhuja 2: varmasti
 Puhuja 2: jo,
@@ -137,8 +138,10 @@ Puhuja 2: miten
 Puhuja 2: budjettikeskustelut
 Puhuja 2: etenee. Mielestäni tulee tosi mielenkiintoista nähdä, löytyykö hallituksen sisäisiä jakolinjoja, kun budjetti lopulta aletaan sorvaamaan
 Puhuja 2: valtiovarainministeriön ehdotuksen pohjalta vai onko siinä hallitus yhtenä. Jos hallitus pysyy yhtenäisenä, niin sittenhän se etenee
-Puhuja 2: kuin juna. Mutta se mikä... Mikä ei juna.
-Puhuja 2: Se mikä välttämättä ei etene kun juna on
+Puhuja 2: kuin juna.
+Puhuja 2: Mutta se mikä...
+Puhuja 2: Mikä
+Puhuja 2: ei välttämättä etene kuin juna on
 Puhuja 2: työmarkkina-asiat.
 Puhuja 2: Eli työntekijäjärjestöt
 Puhuja 2: on jo antanut signaalia siitä, että ne valmistautuvat
@@ -181,21 +184,21 @@ Puhuja 1: Joo, mä pohdin ihan samaa
 Puhuja 1: asiaa, että millaisia vaikutuksia tällä on kuluttajiin ja erityisesti juuri näihin
 Puhuja 1: omakotitaloon odottaviin.
 Puhuja 1: Käsittääkseni tilanne ei kuitenkaan ole se,
-Puhuja 1: että vaikka olisi maksanut neljäsataa tonnia taivaan tuuliin, ja olisit silleen, että mitä ihmettä. Enemmän se on aikaa ja
+Puhuja 1: että vaikka olisi maksanut neljäsataa tonnia taivaan tuuliin, ja sitten olisit silleen, että mitä ihmettä. Enemmän se on aikaa ja
 Puhuja 1: vaivaa vievä asia, mutta
 Puhuja 1: varmaan henkisesti voin kuvitella, että tosi raskas tilanne näille asiakkaille.
 Puhuja 2: Varsinkin kun lähtökohtaisesti miettii
 Puhuja 2: kodin
-Puhuja 2: rakennusprojekti, niin se ei henkisesti ole kevytön lähtökohtaisesti muutenkaan.
+Puhuja 2: rakennusprojekti, niin se ei henkisesti ole kevyt lähtökohtaisesti muutenkaan.
 Puhuja 2: Tai muutamien ihmisten tai vaikka me kaikki olemme Tuomaksen kodin rakennuttajiksi
 Puhuja 2: vaikka kuulleet, niin kaikki ei aina mene välttämättä jää helpoimman kautta
 Puhuja 2: ja joskus tulee muitakin haasteita, niin sitten tällainen haaste vielä voi olla aika, että siinä on hymy. Ei ole hirveän herkässä siinä vaiheessa.
 Puhuja 3: Varmasti ihmisiä tosi eri asemissa, että vaikka
-Puhuja 3: missä vaiheessa olet suunnitellut muuttavassa sinne, niin sitten jos kuluu paljon aikaa ja olet
-Puhuja 3: suunnitellut muuttavansa
+Puhuja 3: missä vaiheessa olet suunnitellut muuttavassa sinne, niin sitten jos kuluu paljon aikaa ja olet suunnitellut muuttavassa
 Puhuja 3: melko pian ja vaikka luopumassa
 Puhuja 1: toisesta asunnosta, niin sitten siinä voidaan olla kipeissä tilanteissa. Kyllä, voi olla tosi outoja tilanteita. Pitää hankkia yhtäkkiä vuokrakämppä, jos on
-Puhuja 1: omistuskämppien välillä tai sitten toinen vaihtoehto. Nolla
+Puhuja 1: omistuskämppien
+Puhuja 1: välillä tai sitten toinen vaihtoehto. Nolla
 Puhuja 3: asunnon loukko erilainen kuin kahden asunnon loukko.
 Puhuja 1: Niin, juuri tämän tyyppisiä tilanteita
 Puhuja 1: ja kaikki semmoinen säätö ja selvittely ja mitä tapahtuu seuraavaksi ja muuta.
@@ -212,9 +215,10 @@ Puhuja 1: Se on isoja ne luvut joka tapauksessa
 Puhuja 1: olleet aikaisemminkin,
 Puhuja 1: mutta nyt ne ovat selkeästi merkittävästi isompia.
 Puhuja 1: Sitten on arvioitu,
-Puhuja 1: että Aallonpohja olisi vasta edessä. Esimerkiksi Lehdon toimitusjohtaja
-Puhuja 1: on arvioinut. Lehto
-Puhuja 1: on sellainen yhtiö,
+Puhuja 1: että
+Puhuja 1: Aallonpohja olisi vasta edessä. Esimerkiksi Lehdon toimitusjohtaja
+Puhuja 1: on arvioinut Lehdulla...
+Puhuja 1: Lehto on sellainen yhtiö,
 Puhuja 1: jonka konkurssi on odotettu ihan tässä niin kuin julkisuudessa.
 Puhuja 1: Sanotaan näin, että on tullut ihan julkisuudessa lausuntoja ja hän on myös itse tämä toimitusjohtaja
 Puhuja 1: joutunut kommentoimaan,
@@ -222,8 +226,7 @@ Puhuja 1: miltäs näyttää.
 Puhuja 1: Tilanne on tosi haastava.
 Puhuja 1: Voisin vielä nostaa esiin esimerkiksi YIT:n
 Puhuja 1: tilanteen, joka
-Puhuja 1: on
-Puhuja 1: siinä
+Puhuja 1: on siinä
 Puhuja 1: mielessä mielenkiintoinen,
 Puhuja 1: että heillä on
 Puhuja 1: yli kuusisataa myymätöntä asuntoa Suomessa.
@@ -245,14 +248,14 @@ Puhuja 1: esimerkiksi YIT:n velkaantumisasteet
 Puhuja 1: nousi yhdeksänkymmentäyhdeksän
 Puhuja 1: prosenttiin.
 Puhuja 1: Heidän tavoitteena on alle viisikymmentä prosentissa.
-Puhuja 1: Nehän
-Puhuja 1: näyttää tosi pahalta. Lehdon velkaantumisasteista
+Puhuja 1: Nehän näyttää tosi pahalta. Lehdon velkaantumisasteista
 Puhuja 1: ei kannata edes puhua. Se näyttää aivan hirveältä.
 Puhuja 1: Mutta nämä on myös teknisiä
 Puhuja 1: juttuja. Esimerkiksi velkaantumisaste,
 Puhuja 1: kun ne asunnot saataisiin
 Puhuja 1: myytyä, niin se palautuu, koska osittain siellä on taloyhtiölainoja.
-Puhuja 1: Eli myös sellaisia asioita, että nyt tavallaan missä kohtaa on haaste
+Puhuja 1: Eli myös sellaisia asioita, että nyt tavallaan
+Puhuja 1: missä kohtaa on haaste
 Puhuja 1: rakennusalalla, niin se on erityisesti se, että koska asuntokauppa
 Puhuja 1: on jäässä ja
 Puhuja 1: kauppaa ei tehdä, niin se on haaste
@@ -265,7 +268,7 @@ Puhuja 1: On vähän
 Puhuja 1: siinä mielessä, että kun ihmistä odottaa vähän kielipitkällä,
 Puhuja 1: että jos siellä on paljon myymättömiä asuntoja tarkoittaakseen, että uudiskohteiden hinnat laskee. Valitettavasti ei. Se ei valitettavasti tarkoita sitä, että siellä on kaiken maailman vippaskonsteja
 Puhuja 1: nähty. En tiedä, oletteko huomanneet, että myydään esimerkiksi kaupan päällis grilleja,
-Puhuja 1: siis kun ostat asunnon, niin sä oot jonkun laadukkaan grillin?
+Puhuja 1: siis kun ostat asunnon, niin saat jonkun laadukkaan grillin?
 Puhuja 3: Kyllä, että se on aika pieni lohdutuspalkinto
 Puhuja 3: siinä kohtaa, kun on
 Puhuja 1: joku tietty aika kaksi vuotta tai vastaavaa. Siellä on
@@ -277,25 +280,25 @@ Puhuja 1: joku etsii
 Puhuja 1: omaa kotiaan ja pohtii,
 Puhuja 1: niin siinä kohtaa ei olla kyllä sellaista
 Puhuja 1: tiedossa. Mutta se
-Puhuja 1: mikä on kanssa olennaista on se, että tää vaikuttaa varmaan alan työllisyystilanteeseen. Sitä
-Puhuja 1: ja sitä on ummoitu, että sillä on aika merkittäväkin vaikutus mahdollisesti. Luvut vaihtelee tosi paljon sen välillä, että mimmoinen vaikutus voi olla, mutta se voi olla
+Puhuja 1: mikä on kanssa olennaista on se, että tää vaikuttaa varmaan alan työllisyystilanteeseen.
+Puhuja 1: Ja sitä on ummoitu, että sillä on aika merkittäväkin vaikutus mahdollisesti. Luvut vaihtelee tosi paljon sen välillä, että mimmoinen vaikutus voi olla, mutta se voi olla
 Puhuja 1: aika paha. Oisko se ollut kaksikymmentä
 Puhuja 1: tuhatta, mitä on...
-Puhuja 1: Joo, rakennusteollisuus on arvioinut, että ala työllistää noin kaksisataa tuhatta ihmistä Suomessa ja työttömäksi voi jäädä noin kaksikymmentä tuhatta.
-Puhuja 2: Olis aika iso paukkeja. Sitten se on kun ylipäätään miettii, että uskaltaako kukaan täällä rakentaa taloja
+Puhuja 1: Joo, rakennusteollisuus on arvioinut, että ala työllistää noin kaksisataa nolla ihmistä Suomessa ja työttömäksi voi jäädä noin kaksikymmentä nolla. Olis aika iso paukkus. Sitten se on kun ylipäätään miettii, että uskaltaako kukaan täällä rakentaa taloja
 Puhuja 2: tässä maassa, että kuitenkin kyllähän ei Helsingissä ole mitenkään sellainen tilanne, että täällä olisi jotenkin rajattoman paljon ylimääräisiä asuntoja
 Puhuja 2: ja tarjolla, että
 Puhuja 2: kyllä se asunnon etsiminen joskus voi olla täälläkin haastavaa,
 Puhuja 2: niin
 Puhuja 2: milloin kun hallitaan seuraavan kerran kunnolla taas rakentaa, kun tässä on nyt tämä rakennusbuumi hiljentynyt?
 Puhuja 1: Sitä on arvioitu, että
-Puhuja 1: se on pitkän aikavälin kehitys se kaupungistuminen ja tämä suunta. Olet
+Puhuja 1: se on pitkän aikavälin kehitys
+Puhuja 1: se kaupungistuminen ja tämä suunta. Olet
 Puhuja 1: oikeassa jooona siinä, että rakentamista.
 Puhuja 1: Sitä on ollut ihan älyttömästi viime vuosina. Se totta kai myös näkyy siinä, että tarjontaa on tällä hetkellä aika paljonkin. Mutta se on eri asia, että onko sitä just, mitä vaikka, jos etsit omaa kotia, niin onko juuri sitä, mitä sinä haluaisit sillä alueella, mitä sä haluaisit, niin se on eri asia. Eikö näissäkin ole vähän menty siihen, että esim. Joku asuntosijoittaminen
 Puhuja 3: on joillain alueilla
-Puhuja 3: haukannut aika ison osan siitä
-Puhuja 3: asuntotarjonnasta ja niitä
-Puhuja 3: ehkä sijoittajia varten on rakennettu tai suunniteltu
+Puhuja 3: haukannut aika ison osan
+Puhuja 3: siitä asuntotarjonnasta ja
+Puhuja 3: niitä ehkä sijoittajia varten on rakennettu tai suunniteltu
 Puhuja 3: joitain
 Puhuja 3: paketteja, mitkä ei sitten välttämättä aina vastaa
 Puhuja 1: yksittäisen kodinestesian tarvetta samalla tavalla. Kyllä, juuri näin. Siellä on kehityskulkuja,
@@ -329,24 +332,25 @@ Puhuja 1: Jep.
 Puhuja 1: Katson, että meidän kello näyttää nyt sen verran, että
 Puhuja 1: mennään vielä suosituksiin.
 Puhuja 1: Kuunteleette kesän viimeisille
-Puhuja 1: aftereille ja skoolette siinä hurteisilla tai höyräävillä juomilla,
+Puhuja 1: aftereille ja skoolette siinä hurteisilla
+Puhuja 1: tai höyräävillä juomilla,
 Puhuja 1: kun siinä siemauksen jälkeen silmäkulmaan alkaa kijota kosteutta helpotuksen tai haikeuden hetkellä eli millä siinä alatte harhat harhauttaa
 Puhuja 1: Vierustoverian
 Puhuja 1: net tai ehkä itseänne, jotta tunnelma ei mutu liian Mollivoittoiseksi.
 Puhuja 2: Molli voittoiseksi!
 Puhuja 2: Nyt tässä hyvä. Nyt tässä on sellainen
 Puhuja 2: tunnelma, että kesä olisi lopussa. Mä siis itse syyskyyneenä
-Puhuja 2: olen sitä mieltä, että syyskuu on vielä aika pitkälti kesäkuukausi ainakin se alkupuoli, siellä on vielä lämpimiä ja mukana. Se on katsonut ulos viime aikoina. No joo, vähän tässä on tällaista harmautta, mutta uskon että syyskuussa me nähdään vielä ainakin pari sellaista kivaa aurinkoista viikonloppua,
-Puhuja 2: että älkää vielä antako periksi.
-Puhuja 1: Siis kritisaako just mun juontoa?
+Puhuja 2: olen sitä mieltä, että syyskuu on vielä aika pitkälti kesäkuukausi ainakin se alkupuoli, siellä on vielä lämpimiä ja mukana. Se on katsonut ulos viime aikoina. No joo, vähän tässä on tällaista harmautta, mutta uskon että syyskuussa me nähdään vielä ainakin pari sellaista kivaa aurinkoista viikonloppua, että älkää vielä antako periksi.
+Puhuja 2: Kyllä tässä vielä en väärin. Siis kritisaako just mun juontoa?
 Puhuja 2: Yleistä mentaliteettia
 Puhuja 2: siitä, että kesä olisi jo ohi jotenkin.
-Puhuja 2: Ei, mitähän suosittelisin?
-Puhuja 2: Olen nyt
+Puhuja 2: Ei, mitähän suosittelisin,
+Puhuja 2: olen nyt
 Puhuja 2: alkanut katsomaan ekan jakson verran Star
 Puhuja 2: Warshowca-sarjaa.
 Puhuja 2: Ensimmäinen jakso oli oikein lupaa,
-Puhuja 2: vai mielenkiintoinen. Minusta Disneyllä on ollut ihan hyviä joitain näitä Star Wars-sarjoja, jotkut on ollut vähän flopimpia, mutta tämä vaikuttaa sellaiselta, minkä itse voin suositella
+Puhuja 2: vai mielenkiintoinen. Minusta Disneyllä on ollut ihan hyviä joitain näitä Star Wars-sarjoja, jotkut on ollut vähän flopimpia, mutta tämä vaikuttaa sellaiselta, minkä itse
+Puhuja 2: voin suositella
 Puhuja 2: tähtien sotasaagan ystävän.
 Puhuja 3: Joo,
 Puhuja 3: mä en ole syksyihminen.
@@ -362,7 +366,7 @@ Puhuja 2: Meillä on nyt selkeästi tosi erilainen suhtautuminen syksyyn. Mä ky
 Puhuja 2: Ihanaa, kun sä laitat villapaidan päälle. Ja kynttilöitä,
 Puhuja 3: teetä.
 Puhuja 3: Sitten sisäilman laatu laskee, kun se on täynnä kynttilöitä.
-Puhuja 2: Pitäis pitää ikkunoita auki.
+Puhuja 2: Pitäis pitää ikkunoita auki. Tulee
 Puhuja 1: Mä olen lukenut Miika Nousiaisen
 Puhuja 1: Juurihoito
 Puhuja 1: kirjaa ja romaania vuodelta kaksituhatta kuusitoista tai itse asiassa olen kuunnellut sitä.
@@ -408,7 +412,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

@@ -7,7 +7,8 @@ Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
 Puhuja 0: Maailma on muuttunut tavalla,
-Puhuja 0: jota tuskin kukaan osasi ennakoida. Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
 Puhuja 0: miljardit.
 Puhuja 1: Helsingin
@@ -23,7 +24,7 @@ Puhuja 0: Joo. Innostunut. Kai. Minä olen Tuomas Peltomäki. Kanssani täällä
 Puhuja 0: Moi. Terve, Marko. Terve.
 Puhuja 0: Ja ulkomaantoimittaja
 Puhuja 0: Aino Frilander,
-Puhuja 2: hei Aino. Hei, Tuomas.
+Puhuja 0: hei Aino. Hei, Tuomas.
 Puhuja 0: Tämän viikon podcastissa puhutaan vaaleeista, jotka siis käytiin viime sunnuntaina. Vaaleista puhutaan valtaosa tästä showsta ja sen jälkeen pari hassua vaivaaista mitätöntä lausetta eurovaaleista.
 Puhuja 2: Okei, asia selvä.
 Puhuja 0: Joka tulee,
@@ -65,9 +66,8 @@ Puhuja 0: Eikö se voida suoraan lukea, että se
 Puhuja 0: johtuu siitä, että Antti Rinne palasi
 Puhuja 0: ruoriin?
 Puhuja 0: En ole yhtään varma. Etkä.
-Puhuja 0: En minäkään.
-Puhuja 1: Minä vain heittelen tällaista.
-Puhuja 1: Varmaan vain. Eihän Antti Rinne onnistunut kauhean hyvin näissä viime tenteissä,
+Puhuja 1: En minäkään. Minä vain heittelen tällaista.
+Puhuja 1: Varmaan vain. Eihän Antti Rinne onnistunut kauhean hyvin näissä viimeisissä tenteissä,
 Puhuja 1: mutta
 Puhuja 1: minun näkemykseni, mikä ei perustu yhtään mihinkään, on se, että ei niillä tenteillä ole kauheasti merkitystä enää.
 Puhuja 1: Tenttien
@@ -88,7 +88,7 @@ Puhuja 1: Eli laskut ja nousut
 Puhuja 1: eivät ole tasan, vaan
 Puhuja 1: laskua oli paljon enemmän kuin nousua.
 Puhuja 0: Oliko? Oli. Vaikka
-Puhuja 0: äänestysprosentti nousi. Millä logiikalla? Se johtuu siitä,
+Puhuja 0: äänestysprosentti nousi. Millä logiikkani? Se johtuu siitä,
 Puhuja 1: että
 Puhuja 1: tuli valtavasti uusia äänestäjiä, koska äänestysprosentti
 Puhuja 1: nousi. Ja nämä uudet äänestäjät,
@@ -100,8 +100,8 @@ Puhuja 1: mutta oletan,
 Puhuja 1: että sillä nykyinen, koska muita vaihtoehtoja ei ole,
 Puhuja 1: koska vihreät ei lähde persujen kanssa eikä
 Puhuja 1: demaritkaan,
-Puhuja 1: niin sitten se pohja olisi kokoomus, perussuomalaiset
-Puhuja 1: keskusta, ja se olisi nykyinen pohja.
+Puhuja 1: niin sitten se pohja olisi kokoomus persuomalaisreskusta,
+Puhuja 1: ja se olisi nykyinen pohja.
 Puhuja 1: Ajattele taas, millainen huuto siitä tulisi, jos
 Puhuja 1: hallituspuolueet
 Puhuja 1: kärsii isomman tappion kuin ikinä
@@ -128,7 +128,8 @@ Puhuja 0: niin mikä voi olla keskustalle
 Puhuja 0: sellainen
 Puhuja 0: täky, että ne on valmis riskeeraamaan
 Puhuja 0: koko puolueensa
-Puhuja 0: seuraavan, sanotaan viisitoista vuoden tulevaisuuden sillä, että ne menee tähän seuraavaan hallitukseen?
+Puhuja 0: seuraavan, sanotaan viisitoista vuoden tulevaisuuden
+Puhuja 0: sillä, että ne menee tähän seuraavaan hallitukseen?
 Puhuja 0: Mikä on niille semmoinen, mitä ne haluaa niin paljon saada läpi,
 Puhuja 0: että ne ottaa sen riskin? No maakuntahallintoon.
 Puhuja 0: Onko se niin tärkeä?
@@ -136,7 +137,8 @@ Puhuja 1: Se voi ajatella, että tavallaan on tärkeä ja sehän sementoisi
 Puhuja 1: kepun vallan maakunnissa, mutta toisaalta, jos kepua ei kohtaa ole, niin mitä ne sementoi.
 Puhuja 1: Ei pidä nyt muistaa, että kepunko olemaan on kuvattu 70-luvun alusta lähtien, etten usko, että se mihinkään kuolee. Mutta varmaan siellä joku viskaali on, joka laskee,
 Puhuja 1: tiedätkö, niidenkin elämää kaksikymmentä vuotta eteen. Kepukkien. Keskustassa ajatellaan ehkä myös sitä, että jos tulee sinipunaapia,
-Puhuja 1: keskusta ja perussuomalaiset on oppositiossa, niin kyllähän keskusta on silloin taas,
+Puhuja 1: keskusta ja perussuomalaiset on oppositiossa, niin kyllähän
+Puhuja 1: keskusta on silloin taas,
 Puhuja 1: perussa on ykkösoppositiopuolu
 Puhuja 1: ja keskusta jää ihan jalkoihin. Se
 Puhuja 1: ei ole mikään ehkä automaatio, että se keskustan kannatus lähtee niin huikeasti kasvamaan, kun se olisi siinä tapauksessa, jos keskusta olisi suurin oppositiopuolu.
@@ -153,7 +155,7 @@ Puhuja 0: Tuleva hallituskausi on niille ihan valtava riskialtis,
 Puhuja 0: koska siellä pitäisi tehdä niin massiivisia asioita.
 Puhuja 1: Niin,
 Puhuja 1: kyllä minä, siis hankalaa se keskustaan meneminen on, ja tässä nyt viimeksi mielestäni Mauri Pekkarinen lähti, että ei ikinä hallitukseen. Mutta
-Puhuja 1: aasin on siis vallanhimo,
+Puhuja 1: Aaa siinä on siis vallanhimo,
 Puhuja 1: onhan se hallituksessa kiva olla, kun pääsee päättämään
 Puhuja 1: asioista.
 Puhuja 1: Ei se nyt minusta täysin poissuljettua
@@ -176,8 +178,8 @@ Puhuja 1: Onhan sinimuna nyt ollut monta kertaa aikaisemmin, kyllä niillä yhte
 Puhuja 1: Talouspolitiikassa eroja,
 Puhuja 1: mutta Antti Rinne on pragmaattinen
 Puhuja 1: ja sitten hän nielee kaikki lupauksensa ja vappusataset
-Puhuja 1: ja muut. Siitä mennään niin kuin ei olisi mitään tapahtunut.
-Puhuja 0: Perinteisemmalta. Okei,
+Puhuja 1: ja muut. Siitä mennään, kun ei olisi mitään tapahtunut.
+Puhuja 2: Perinteisemmalta. Okei,
 Puhuja 0: otetaanko vielä vähän aikaa noista europarlamentinvaaleista?
 Puhuja 0: Siis
 Puhuja 0: valtavan iso asia, todella merkittävä aikana, jolloin on Donald Trumpit ja Kiinat ja Brexitit ja Unkarin
@@ -191,8 +193,7 @@ Puhuja 0: tulossa.
 Puhuja 0: Varmaan kukaan ei ole halunnut näin, mutta ne on jääneet täysin
 Puhuja 0: totaali täysin jalkoihin, niistä ei
 Puhuja 0: halaistua sanaa.
-Puhuja 0: Tänään ensimmäiset
-Puhuja 0: kannanotot puolueilta ja muilta,
+Puhuja 0: Tänään ensimmäiset kannanotot puolueilta ja muilta,
 Puhuja 0: no ei nyt ensimmäiset,
 Puhuja 0: mutta
 Puhuja 0: tänään se nyt vähän nousi framille.
@@ -215,15 +216,16 @@ Puhuja 2: jotka tippui nyt
 Puhuja 2: eduskuntavaaleissa, jotta ne saisi jotain
 Puhuja 2: duunia tuleviksi vuosiksi siellä
 Puhuja 2: Brysselissä.
-Puhuja 2: Ja onhan tämä nyt vähän sellainen hassu
-Puhuja 2: äänestäjän
+Puhuja 2: Ja onhan tämä nyt vähän sellainen hassu äänestäjän
 Puhuja 2: kannalta.
-Puhuja 1: Onhan se, Jonan, huomasin, että vasemmistoliittoripi täysin pelihousunsa, kun Hesarissa oli eilen juttu, missä vasemmistoliitto oli nostettu oikein otsikkoon, koska siis Merja Kyllönen, joka pääsi siis eduskuntavaaleissa läpi ja on myös eurovaaleissa.
+Puhuja 1: Onhan se, Jonan, huomasin, että vasemmistoliittoripi täysin pelihousunsa, kun Hesarissa oli eilen juttu, missä vasemmistoliitto oli nostettu oikein otsikkoon, koska siis Merja Kyllönen, joka pääsi siis eduskuntavaaleissa läpi
+Puhuja 1: ja on myös eurovaaleissa.
 Puhuja 1: Onhan tuo, että on eurovaaleissa ehdokkaana ja ilmoittaa etukäteen, että ei aio ottaa sitä paikkaa vastaan, niin onhan se aika hassua.
-Puhuja 1: Haluatko vai et halua? Niin, mutta on näitä muitakin puolueita. Onhan näitä varsinkin pienemmillä puolueilla, myös Sari Essayah, jo olette tänään lähtevänsä eurovaaleihin. No,
-Puhuja 1: ensinnäkään kristilliset ei sitä paikkaa saa, mutta kyllähän hän myös alkoi olla eduskunnassa.
+Puhuja 1: Haluatko vai et halua? Niin, mutta on näitä muitakin puolueita.
+Puhuja 1: Varsinkin pienemmillä puolueilla, myös Sari Essayah, jo olette tänään lähtevänsä eurovaaleihin.
+Puhuja 1: Ensinnäkään kristilliset ei sitä paikkaa saa, mutta kyllähän hän myös alkoi olla eduskunnassa.
 Puhuja 2: Mutta
-Puhuja 2: pitääkö suomalaiset poliitikot kuitenkin niitä eurovaaleja jotenkin sekundavaaleina
+Puhuja 2: pitääkö suomalaiset poliitikot kuitenkin niitä eurovaaleja jotenkin sekununtavaaleina
 Puhuja 2: itselle? Haluatko ne paistatella siinä kotimaan huomiossa, vaikka sitten kuitenkin meidän lainsäädännöstäkin
 Puhuja 2: joku 70-kahdeksankymmentä prosenttia tulee sieltä Brysselistä, että vaikuttamismahdollisuudet
 Puhuja 2: on siellä tavallaan merkittävästi suuremmat?
@@ -243,9 +245,9 @@ Puhuja 0: näyttämöllä
 Puhuja 0: se
 Puhuja 0: teatraalistuu
 Puhuja 0: entistä enemmän,
-Puhuja 0: samalla tavalla kuin
-Puhuja 0: Yhdysvaltain
-Puhuja 0: politiikan seuraamisesta
+Puhuja 0: samalla tavalla kuin Yhdysvaltain
+Puhuja 0: politiikan
+Puhuja 0: seuraamisesta
 Puhuja 0: on tullut täyttä saippua-oopperaa,
 Puhuja 0: ihan totaalista
 Puhuja 0: viihdesirkusta,
@@ -258,15 +260,15 @@ Puhuja 0: tietköiden
 Puhuja 0: politiikan säätämisen
 Puhuja 0: seurantaa.
 Puhuja 0: Sitä on nyt tavallaan yhdysvaltaista
-Puhuja 0: uutisointia. Brexitissä on hyvin paljon samoja sävyjä. Ehkä enemmän, että sitä
+Puhuja 0: uutisointia.
+Puhuja 0: Brexitissä on hyvin paljon samoja sävyjä. Ehkä enemmän, että sitä
 Puhuja 0: käsitellään, kun se on lähempänä, sitä käsitellään
 Puhuja 0: kompleksisemmin ja eri pykälävaihtoehtoja
-Puhuja 0: ja tämä klausuuli ja näin.
-Puhuja 0: Mutta selkeästi siinä päällä on semmoista isoa
-Puhuja 0: asetelma, semmoista,
-Puhuja 0: olen toistanut sanaa, asetelmallinen tässä. Sopii selvä. Se on pitkälti. Niin,
-Puhuja 0: että siihen on tullut
-Puhuja 0: teatteria lisää. Uskon, että EU on se seuraava blokki, ja se johtuu siitä, että nyt tulee ihan katastrofi
+Puhuja 0: ja tämä klausuuli ja näin. Mutta selkeästi siinä päällä on semmoista isoa asetelma, semmoista,
+Puhuja 0: mä olen toistanut sanaa, asetelmallinen tässä. Sopii selvä. Se on pitkälti
+Puhuja 0: asetelmallinen. Niin, että siihen on tullut
+Puhuja 0: teatteria lisää.
+Puhuja 0: Uskon, että EU on se seuraava blokki ja se johtuu siitä, että nyt tulee ihan katastrofivaalit
 Puhuja 0: EU:n itsensä kannalta, että sinne äänestetään lähinnä persuja ja kaikkia EU:n kriittisiä. Britit äänestää jotenkin aivan päin helvettiä sinne, ties mitä porukkaa.
 Puhuja 0: EU ajautuu
 Puhuja 0: eksistentiaaliseen
@@ -305,8 +307,7 @@ Puhuja 2: Mä nyt aloitin jo tästä, niin nyt mä horisan jotain ja sitä voi j
 Puhuja 2: nousujohteisesti
 Puhuja 2: loppua
 Puhuja 2: kun te pääsette ääneen. Mutta siis mulla oli tällainen Bisari-artikkelikaksikko,
-Puhuja 2: joka tavallaan käsittelee mediaa ja identiteettiä, kun Vietlanticissä
-Puhuja 2: oli
+Puhuja 2: joka tavallaan käsittelee mediaa ja identiteettiä, kun Viat Langicissä oli
 Puhuja 2: sen Andrew Fergsen nimisen kirjoittajan Horina otsikolla There is no substitute for print, joka on siis pitkä pätkä siitä, miten ihanaa oli, kun hän oli digilehtiä lukenut niin kauhean kauan, sitten hän tilasi ihan semmoisen printtilähde,
 Puhuja 2: kuinka ihanaa sitä oli lukea ja tohveleessa käydä hakemassa se sieltä pihalta ja nilkkoja vähän kylmäsiä. Se oli kauhean huono juttu, mutta sitä on mun mielestä
 Puhuja 2: jaettu tosi paljon ja sitten sitä on jotenkin myhistelty, että onpa ihanaa sitä printtiä lukea.
@@ -339,7 +340,7 @@ Puhuja 2: ja olla parempi kuin muut ihmiset siellä Amerikan
 Puhuja 0: itärannikolla. Tässä on minusta jotain todella perversiä kiinnostavaa. Tosin jotenkin, en tiedä, tuli niviä kas olo. Joo,
 Puhuja 2: Odotellessa
 Puhuja 2: sitä
-Puhuja 1: käkkimässä.
+Puhuja 0: käkkimässä.
 Puhuja 1: Kaikki katkeruus, miten perussuomalaiset itse kokee, miten heitä on nöyryyt.
 Puhuja 1: Minä
 Puhuja 1: seiskaan pilkan keskellä kuin toteen paalu, sanoi Leena-Mari. Se oli upea juttu, ja se oli inhimillinen ja humaatti. Ja sitten se oli vielä hauska
@@ -353,14 +354,15 @@ Puhuja 1: Täällä tosiaan lukee, että, ei kun eilen illalla tuhat yhdeksänsa
 Puhuja 1: shamppanjaa, vaan erittäin kuivaa ranskalaista
 Puhuja 1: kuohuviiniä, joka ei kuitenkaan ollut shamppanjaa.
 Puhuja 1: Nyt tässä on tavallaan saaga jatkuu täällä nyt edelleen, se kohta mikä täällä jutussa on korjattu, niin siinä lukee, että ei kuohuviini vaan kuohihviini.
-Puhuja 1: En tiedä milloin se oikeastaan
-Puhuja 2: tämäkin. Oikais on oikaisu tuommoisessa
-Puhuja 2: journalistinen mepilavatetiseltä?
+Puhuja 1: En tiedä, milloin se oikeastaan
+Puhuja 2: tämäkin. Oikaisun
+Puhuja 2: oikaisu tuommoisessa
+Puhuja 2: journalistinen mepilavateittiseltä?
 Puhuja 0: Mä ihailen
-Puhuja 2: Paavo Teitteistä. Hän halusi... Hän halusi joka podcastissa toistemme tänään. Mutta mä haluan alleviivata.
+Puhuja 0: Paavo Teittistä. Hän luo nyt. Hän lähden joka podcastissa toistemme tähän. Mutta mä haluan alleviivata.
 Puhuja 0: Mä ihailen häntä. Siis ihmisenä,
-Puhuja 0: ennen kaikkea
-Puhuja 0: toimittajana aivan niin kuin sukupolvessa, joka on siis mun sukupolvi kuitenkin, niin sen parhaimmistoa.
+Puhuja 0: ennen kaikkea toimittajana
+Puhuja 0: aivan niin kuin sukupolvensa, joka on siis mun sukupolvi kuitenkin, niin sen parhaimmistoa.
 Puhuja 0: Okei,
 Puhuja 0: mä aion nyt prepaired to surprise yearself, että nyt yllätykää.
 Puhuja 0: Mä aion suositella
@@ -380,7 +382,7 @@ Puhuja 0: viisitoista. Hän on ihastuttava
 Puhuja 0: lyyrikko.
 Puhuja 0: Aivan ihastuttava.
 Puhuja 2: Mitä, Tuomas, kevät on sulle tehnyt? Tää on todella kummallista.
-Puhuja 0: Mä aion nyt lukea teille pätkän Edu Kettusen
+Puhuja 0: Mä aion nyt lukea teille pätkän Edu Kettusen lyriikkaa.
 Puhuja 0: Tämä kuulostaa hirveältä. Tämä oli muistaakseni
 Puhuja 0: perheretki merenrantaan tai joku tällainen tämä biisi.
 Puhuja 0: Haluan sanoa vielä, että Edu Ketosella, sillä on minun mielestä kahden tyyppistä musaa. On sellaista autolla ajelu

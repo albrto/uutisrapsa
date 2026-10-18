@@ -1,7 +1,7 @@
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast menetetyt miljardit,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
-Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huurudenhullu
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
 Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
@@ -43,8 +43,7 @@ Puhuja 0: henkivästä
 Puhuja 0: aloituksesta,
 Puhuja 0: jossa muskelit litisee
 Puhuja 0: ja Tanner tytisee. Ja tytöt kiattelevat.
-Puhuja 0: Eteenpäin.
-Puhuja 0: Hei vaan Villet. Ei, ei. Tällaistakö täällä on aina täällä. Täällä on. Täällä on ollut. Tämän viikon podcastissa
+Puhuja 0: Eteenpäin. Hei vaan Villet. Ei, ei. Tällaistakö täällä on aina täällä. Täällä on. Täällä on ollut. Tämän viikon podcastissa
 Puhuja 0: keskustellaan dramaattisista
 Puhuja 0: käänteistä Atlantilla, kun soutaja Jari Saario vangitsi Koko Suomen kansan huomion viikonlopun aikana soutaessa on Atlantin halki
 Puhuja 0: seuranaan vain vene
@@ -129,7 +128,7 @@ Puhuja 1: nyt siellä Saariselän läpi
 Puhuja 1: bussilla ajaessani, että
 Puhuja 1: onkohan Kanariansaarilla
 Puhuja 1: tuntunut
-Puhuja 1: tältä, kun he ovat edenneet siellä elämäänsä
+Puhuja 1: tältä, kun he ovat edenneet siellä elämäänsä.
 Puhuja 1: Ja sitten joskus 1960-luvulla
 Puhuja 1: yhtäkkiä onkin ilmestynyt valtavat hotellit ja hirveästi porukkaa, jotka eivät tiedä. Mutta tiedän, että huomasi itsessäni molemmilla lapin reissuilla jotenkin kummallisen
 Puhuja 2: ajatuksen, että kun enhän minä ole sieltä kotoisin enkä ole mitenkään
@@ -152,8 +151,7 @@ Puhuja 2: miten
 Puhuja 2: valtavasti kasvaa ja miten monta kymmentä miljoonaa ne on ne liikevaihdot.
 Puhuja 2: Kyllä siellä joku
 Puhuja 2: täällä tienaakin.
-Puhuja 0: Mika on hyvä? Mulla sattui tästä koko hommasta silmään
-Puhuja 0: mielenkiintoinen
+Puhuja 0: Mika on hyvä? Mulla sattui tästä koko hommasta silmään mielenkiintoinen
 Puhuja 0: sivupolku, missä
 Puhuja 0: meillä
 Puhuja 0: oli todella ansiokas juttu siitä, miten esimerkiksi lappilaiset hotellit oli kirjelmöineet,
@@ -215,7 +213,7 @@ Puhuja 1: Suomessa. No mut ajattele nyt, kun...
 Puhuja 1: En tiedä.
 Puhuja 2: Eikö se tuomasta liikunta yhtään? Haliwood näyttelijät siellä liikuttaa
 Puhuja 1: kyllä. Haliwood näyttelijät menevät
-Puhuja 1: Kreikan saarille, niin ei siellä varmaan olla jees, se tuli
+Puhuja 1: Krean saarille, niin ei siellä varmaan olla jees, se tuli
 Puhuja 0: tähän.
 Puhuja 0: Sitten kun
 Puhuja 0: istutte rovaniemeläisen
@@ -241,7 +239,7 @@ Puhuja 1: The pit, jossa on päähenkilönä
 Puhuja 1: yksi teho-osaston silloisista
 Puhuja 1: silloisista silloisista silloisista silloista Noa HWil,
 Puhuja 1: joka on
-Puhuja 1: kokenut parrakas kokenut juhannus juhla pitchburgiläisellä
+Puhuja 1: kokenut parrakas kokenut Jehu tällä pitchburgiläisellä
 Puhuja 1: ensiapualla,
 Puhuja 1: mihin tämä sarja sijoittuu.
 Puhuja 1: Ja sitten aloin silloin katsoa, kun se sarja alkoi, ja sitten totesin, ettei tämä ole mikään teho-osasto ja hylkäsin sen kokonaan
@@ -250,19 +248,19 @@ Puhuja 1: Mutta nyt se on tosiaan ehkä näiden golden groupien ja palkintokaude
 Puhuja 1: myötä noussut uudestaan otsikoihin, ja vissiin toinen kausi on alkanut myös. Olin niin, että pitäisikö kysyä antaa
 Puhuja 1: uusi
 Puhuja 1: mahdollisuus ja annoin. Ja nyt olen ollut monta iltaa ihan koukussa tähän sarjaan, jossa seurataan
-Puhuja 1: yhtä työvuoroa tässä osastolla.
+Puhuja 1: yhtä työvuoroa
+Puhuja 1: tässä osastolla.
 Puhuja 1: Jokainen päivä ei vaihdu, vaan se koko ajan pysyy samassa
 Puhuja 0: päivässä. Se on vähän niin kuin kaksikymmentä miljardia. Niin,
 Puhuja 1: ja tietenkin siinä tapahtuu. Mutta sitten juuri eilen mietin, että sairaalasarjoissa on kyllä
-Puhuja 1: mä ehkä tykkään, että on tällainen genreä ihminen, että tietynlaiset rikosarjat kiinnostavat.
+Puhuja 1: mä ehkä tykkään, että on tällainen genreihminen, että tietynlaiset rikosarjat kiinnostavat.
 Puhuja 1: Ja sairaalasarjoissa on myös se, että
-Puhuja 1: asioita tapahtuu koko ajan nopeasti ja yllättäen,
-Puhuja 1: ja ne ovat
+Puhuja 1: asioita tapahtuu koko ajan nopeasti ja yllättäen, ja ne ovat
 Puhuja 1: kuoleman vakavia ja ne voivat olla myös hassuja. Ja sä saat tosi moninaisen
 Puhuja 1: henkilögallerian
 Puhuja 1: kaikki yhteiskunnan eri osat. Ja
 Puhuja 2: ne tarinat vaihtuvat. Tarinat vaihtuvat. Jos joku potilas on vähän epäkiinnostava, niin sitten kuitenkin just näin seuraava. Just näin.
-Puhuja 1: Ihmisiä kuolee, syntyy
+Puhuja 1: Ja ihmisiä kuolee, syntyy
 Puhuja 1: kaikkea
 Puhuja 1: tosi
 Puhuja 1: draaman ytimessä olevaa. Ja sitten kun jaksoin jatkaa niistä kahdesta jaksosta eteenpäin, niin se myös syveni ja oudosti ne henkilöhahmot sen yhden työvuoron aikana kasvavat ja syvenee.
@@ -277,12 +275,13 @@ Puhuja 0: lasten kanssa, koska yritän pakko syöttää niille jotain muuta kuin
 Puhuja 0: Aluksi jouduin pakottamaan, mutta nykyään ei tarvitse pakottaa katsomaan housea
 Puhuja 0: lääkäri-sarjan kanssa.
 Puhuja 0: Hyvin purit osin, miksi lääkärisarjat toimivat niihin. Kumpi on enemmän, lääkäri vai poliisisarjoja?
-Puhuja 2: Leisarjoja
-Puhuja 2: on, miten murhia enemmän.
+Puhuja 2: Leisarjoja on,
+Puhuja 2: miten murhia enemmän.
 Puhuja 2: Minulla on sekä suositus että
 Puhuja 2: avunpyyntö.
-Puhuja 2: Minun suositukseni vaihdoin sen nyt lennosta tuosta, mutta jos menette saariselälle,
-Puhuja 2: sinnehän on jonkin verran matkaa, lentämällä pääsee nopeammin ja autolla hitaammin. Mutta Saanko sanoa tähän väliin, että kollega Jussi Liemiläinen kertaisikin
+Puhuja 2: Minun suositukseni vaihdoin sen lennosta tuosta, mutta jos menette Saariselälle,
+Puhuja 2: sinnehän on jonkin verran matkaa, lentämällä pääsee nopeammin ja autolla hitaammin. Mutta
+Puhuja 1: Saanko sanoa tähän väliin, että kollega Jussi Liemiläinen kertaisikin
 Puhuja 1: lounaalla, että kohta
 Puhuja 1: on Finnairilla Rovaniemelle
 Puhuja 1: kymmenen lentoa päivässä
@@ -300,9 +299,8 @@ Puhuja 2: Siellä voi siis majoittua, mutta sen varsinainen suositukseni on se, 
 Puhuja 2: ja se on siis savusauna.
 Puhuja 2: Siinä yhteydessä
 Puhuja 2: on sellainen
-Puhuja 2: no,
-Puhuja 2: siis auki pidettävä avanto.
-Puhuja 1: Itseasiassa purossa? Purossa.
+Puhuja 2: no, siis Avanto. Avanto. Avanto. Avanto.
+Puhuja 1: Itseasiassa purossa? Puroossa.
 Puhuja 2: Se maksoi jonkun, mitä parikymppiä
 Puhuja 2: se kerta, en muista,
 Puhuja 2: Mutta sinne pitää siis varata vuoro.
@@ -316,15 +314,17 @@ Puhuja 2: kaulaa myöten. Ja sen jälkeen mä tulin sieltä pois ja huusin vaan 
 Puhuja 2: siis romanttiset elokuvat.
 Puhuja 2: No joku Titanic varmaan joo, mutta
 Puhuja 2: sitten tämmöinen vanha kunnon genre, mikä se oli se, missä oli Cameron dias ja Jud Law se jouluelokuva.
-Puhuja 2: Ei
-Puhuja 2: saa olla kliseinen.
+Puhuja 2: Se on hyvä esimerkki. Mutta missä ovat tämän päivän hyvät,
+Puhuja 2: romanttiset elokuvat? Jos mä tarkoitan
+Puhuja 2: nyt hyvällä sitä. Ei saa olla kliseinen.
 Puhuja 2: Ja saa olla kökköjuoni.
 Puhuja 2: Pitää olla hyvät näyttelijät.
 Puhuja 0: Tällaisilla kriteereillä. Kaipaan suosituksia. Mä olen ihan satavarmoja, että nuo leffat syntyvät vain silleen, että Britanniassa on joku
 Puhuja 0: nollarin alun hittikirja,
 Puhuja 0: josta on tehty leffa. Ne on kaikki sellaisia. Nottinghille
 Puhuja 2: esimerkiksi.
-Puhuja 2: Laittakaa viestiä. Mä
+Puhuja 2: Laittakaa viestiä.
+Puhuja 0: Mä
 Puhuja 0: haluan
 Puhuja 0: suositella
 Puhuja 0: Tai mä olen vain innoissani
@@ -355,8 +355,7 @@ Puhuja 0: heillä menee huonommin koulussa.
 Puhuja 0: Tämä oli
 Puhuja 0: mun käsittääkseni Marinin hallituksen
 Puhuja 0: aikainen hanke. Toive oli se, että jos laitetaan lapset kaksivuotiseen esiopetukseen,
-Puhuja 0: se
-Puhuja 0: tasoittaa eroja
+Puhuja 0: se tasoittaa eroja
 Puhuja 0: ryhmien
 Puhuja 0: välillä. Tää on mun mielestä tosi
 Puhuja 0: kannatettavaa.
@@ -368,7 +367,8 @@ Puhuja 0: Tehtiin
 Puhuja 0: kahden vuoden kokeilu.
 Puhuja 1: Iskari ja eskari.
 Puhuja 0: Katsottiin,
-Puhuja 0: että tuleeko muutoksia, auttaako tämä mihinkään,
+Puhuja 0: että
+Puhuja 0: tuleeko muutoksia, auttaako tämä mihinkään,
 Puhuja 0: saadaanko tämmöisillä muutoksilla aikaan sitä, mitä halutaan.
 Puhuja 0: Kokeiltiin, tehtiin iso, laadukas tutkimus, johon osallistui kolmekymmentäkahdeksan nolla lasta,
 Puhuja 0: SAK neljäkymmentäkahdeksan.
@@ -385,8 +385,7 @@ Puhuja 0: Noonan
 Puhuja 0: aivan erinomaisessa jutussa käydään sitä läpikin, että itse asiassa koska se ei saanut aikaan
 Puhuja 0: tasoerojen
 Puhuja 0: tasoittumista ennen peruskoulun alkua
-Puhuja 1: Tai sai mut sitten ne tasoittui heti
-Puhuja 1: ekalla. Käytännössä
+Puhuja 1: Tai sai mut sitten ne tasoittui heti ekalla. Käytännössä
 Puhuja 0: tämä olisi
 Puhuja 0: tarkoittanut sitä, että
 Puhuja 0: että se olisi ollut lähinnä tulonsiirto
@@ -409,8 +408,8 @@ Puhuja 0: Mun nimi on Tuomas Peltolamäki. Ja äänen kuva, joka olikin muu maht
 Puhuja 0: Mikko Peura, kiitos Mikolle.
 Puhuja 0: Ehkä ensi viikolla. Moikka!
 Puhuja 0: Moi, Tuomas tässä.
-Puhuja 0: Mun uusi podcast menetetyt
-Puhuja 0: miljardit kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: Mun uusi podcast menetetyt miljardit
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?

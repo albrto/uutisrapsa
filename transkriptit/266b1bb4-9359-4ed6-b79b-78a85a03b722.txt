@@ -38,7 +38,7 @@ Puhuja 0: aiheuttaen loputonta tuhoa ja
 Puhuja 0: silmitöntä
 Puhuja 0: mustuutta Euroopan tulevaisuudelle.
 Puhuja 0: Keskustellaan siitä.
-Puhuja 0: Tämän sisällä ehkä puhutaan niin kuin... Ainakin haluan puhua Stubista, joka on ollut
+Puhuja 0: Tämän sisällä ehkä puhutaan niin kuin ainakin haluan puhua Stubista, joka on ollut
 Puhuja 0: kansainvälisillä estradeilla
 Puhuja 0: asian tiimoilta.
 Puhuja 0: Ukrainan tulevaisuus Euroopassa on nyt selkeästi pullautettu
@@ -51,8 +51,7 @@ Puhuja 0: aihe en tiedä levity pakottaa. Mutta olkoon tekosyynä nyt vaikka se,
 Puhuja 0: Yhdysvaltain puolustusministeri Pentagon aikoo pakottaa tekoälyyhtiön Antropickin
 Puhuja 0: antamaan tekoälynsä
 Puhuja 0: heinän käyttöönsä
-Puhuja 0: myös sotilaallisiin
-Puhuja 0: tarkoituksiin. Kaikkea muutakin tapahtuu
+Puhuja 0: myös sotilaallisiin tarkoituksiin. Tarkoituksiin. Kaikkea muutakin tapahtuu
 Puhuja 0: tekoäly rintamalla.
 Puhuja 0: Mun mielestä nyt on otollinen aika puhua
 Puhuja 0: tekoälystä
@@ -93,16 +92,15 @@ Puhuja 2: sinuttelisi.
 Puhuja 2: Et vaan suostu.
 Puhuja 0: Vaikka vankila uhkaisi, niin et sinuttelisi. En minäkään. En suostuisi kyllä, mutta en suostuisi sinuttelemaan
 Puhuja 1: myöskään. Kunnotaatio on jotenkin...
-Puhuja 1: Mutta koronaa ei siellä ajatella, niin ne puhuivat covidista.
-Puhuja 1: Mä
-Puhuja 2: olen ollut tämän töissä Sotssin olympialaisissa ja siellä huomasivat sen,
+Puhuja 1: Mutta koronaa ei siellä ajatella, niin ne puhuivat covidista. Olen
+Puhuja 2: ollut tämän töissä Sotssin olympialaisissa ja siellä huomasivat sen,
 Puhuja 2: miten tarkkaa se on, että se käypas vaan visa. Kyllä. Mutta siellä oli pelkästään McDonald's
 Puhuja 2: oli esimerkiksi siellä lehdyssäkeskuksessa. Se oli kahvila, että oli varsin McDonaldsin
 Puhuja 2: kahvila, missä sai kahvia. Ainoa, jolla oli eri kahvia, oli NbC,
 Puhuja 2: joka oli myös
 Puhuja 2: sponsory,
 Puhuja 2: niin NbC:llä oli omassa paikassa niille oma pien Starbucksissa.
-Puhuja 1: Koska ne oli isompi kuin McDonald's. Mutta se tavallaan siihen olympialaisiin, vaikka se on sellaista,
+Puhuja 1: Koska ne oli niin isompi kuin McDonald's. Mutta se tavallaan siihen olympialaisiin, vaikka se on sellaista,
 Puhuja 1: että hauskaa kansat
 Puhuja 1: ja yhteinen mukava tunnelma. Kieltämättä oli
 Puhuja 1: todella ihanaa. Yksi kaikista hauskimmista asioista on se, että se kynnys
@@ -114,7 +112,7 @@ Puhuja 1: tarkkaan
 Puhuja 1: määritelty. Ja sitten myös Suomenkin joukkueen tasolla, kun siellä oli, oliko se nyt niin, että Luhta on virallinen sponssi ja sitten jotkut olivat esiintyneet jossain väärän firman haltin
 Puhuja 1: vaatteissa tai toisinpäin.
 Puhuja 1: Et kauhea hässäkkä siitä.
-Puhuja 0: Nyt mun pääkysymys on. Valitettavasti sinun pitää vastata tähän minuutissa. Kyllä voin käyttää lyhyemmällä.
+Puhuja 0: Nyt mun pääkysymys on. Valitettavasti sinun pitää vastata tähän minuutissa. Kyllä voin käyttää myöhempään.
 Puhuja 0: Kun katsoo Suomen joukkueen mitalikehitystä,
 Puhuja 0: kehitystä kaikissa olympialaisissa,
 Puhuja 0: mutta totta kai me ollaan.
@@ -140,21 +138,20 @@ Puhuja 1: mitalisaldo
 Puhuja 1: näissä kaikissa, kun mennään sinne sadan vuoden takaa ja tullaan tähän päivään?
 Puhuja 1: Suomi on saanut keskimäärin seitsemän mitalia per talviolympialaiset.
 Puhuja 1: Kuinka monessa talviolympialaisissa
-Puhuja 1: Suomi on saanut yli kymmenen
-Puhuja 1: mitalia?
+Puhuja 1: Suomi on saanut yli kymmenen mitalia?
 Puhuja 0: Mutta mitä tämä on nyt jotain propagandaa?
 Puhuja 1: Kolmissa talviolympialaisissa.
 Puhuja 1: Kulkumitalia.
 Puhuja 0: Mitä minulla on? Luuserikan kannalta, mitä mieltä? Meillä on
 Puhuja 1: useita
 Puhuja 1: talviolympialaisia
-Puhuja 1: pitkin historiaa, joissa Suomi on saanut nollakultamitalia niin kuin kävi nyt.
-Puhuja 1: Ehkä itse
+Puhuja 1: pitkin historiaa, joissa Suomi on saanut
 Puhuja 1: pronssimitalin ero on tavallaan, että jos sä saat mitalin, niin sä olet aivan sairaan kova hiihtäjä.
 Puhuja 1: Me voidaan tietysti murehtia sitä, että nyt ei tullut kultaa, mutta mä ajattelin, että näissäkin
 Puhuja 1: olympialaisissa olleissa suoritti aikalailla sillä suomalaisella tasolla. Ja sitten meidän muistikuvia
 Puhuja 1: varmaan vääristää, tai ei vääristä, mutta niihin vaikuttaa
-Puhuja 1: esimerkiksi tällaiset tietyt sankarit Matti Nykänen sai yksisolympialaisissa kolme
+Puhuja 1: esimerkiksi tällaiset tietyt sankarit Matti Nykänen sai yksisolympialaisissa
+Puhuja 1: kolme
 Puhuja 1: kultamitalia
 Puhuja 1: Mutta
 Puhuja 1: esimerkiksi niissä kultamitali,
@@ -164,15 +161,19 @@ Puhuja 1: mitaleissa oli seitsemän.
 Puhuja 1: Tavallaan
 Puhuja 1: meillä on mäkihyppy ja sitten meillä on maastohiihto ollut. Maastohiihto on tuonut puolet Suomen kaikista, yli puolet kaikista talviolympialais
 Puhuja 1: mitaleista kautta linjan. Meillä on nämä kaksi lajia ollut,
-Puhuja 1: jotka ovat niitä kahmineet, pikaluistelukin joskus.
+Puhuja 1: jotka ovat niitä kahmineet, pikaluistelukin
+Puhuja 1: joskus.
 Puhuja 1: Mutta kun me pärjätään nyt mäkihypyssä tosi huonosti
-Puhuja 1: ja maastohiihdossa on semmoinen notkelma tällä hetkellä menossa, niin sitten se vaikuttaa tosi paljon. Mutta me ei olla koskaan oltu suuri talvi oppilas maa. Mä oon sitä mieltä, että
-Puhuja 0: se on
+Puhuja 1: ja maastohiihdossa on sellainen notkelma tällä hetkellä menossa, niin sitten se vaikuttaa tosi paljon. Mutta me ei olla koskaan oltu suuri talvi oppilasmaa.
+Puhuja 0: Mä oon sitä mieltä, että se
+Puhuja 0: on
 Puhuja 0: että
 Puhuja 0: mun mielestä me ollaan, meillä pitää olla. Pitäisi olla. Me ollaan talvikansaa,
 Puhuja 0: me ollaan talvimaa,
 Puhuja 0: meillä pitäisi olla. Meidän mittari kaikessa, mitä me ikinä tehdään yhteiskuntana, meidän mittarin pitää olla, että meidän pitää puolet siitä, mitä Ruotsi. Se on se meidän oikea taso.
-Puhuja 0: Ruotsi on kaksi kertaa isompi maa kuin Suomi. Meillä on tuhat vuotta ollut sama kulttuuri. Meidän olisi pitänyt jo tähän mennessä kasvaa aikuisiksi siihen asti, vaikka nyt Venäjän alla jouduttiin olemaan parisataa vuotta, me olisi pitänyt kasvaa siihen sata vuotta, me olisi pitänyt kasvaa siihen, että me pärjäämme yhtä hyvin kuin Ruotsi. Se tarkoittaa, että meillä on viisikymmentä prosenttia Ruotsista.
+Puhuja 0: Ruotsi on kaksi kertaa isompi maa kuin Suomi. Meillä on tuhat vuotta ollut sama kulttuuri. Meidän olisi pitänyt jo tähän mennessä kasvaa aikuisiksi siihen asti, vaikka nyt Venäjän alla jouduttiin olemaan parisataa vuotta,
+Puhuja 0: niin me olisi pitänyt kasvaa siihen sata vuotta,
+Puhuja 0: että me pärjäämme yhtä hyvin kuin Ruotsi. Se tarkoittaa, että meillä on viisikymmentä prosenttia Ruotsista.
 Puhuja 0: Ruotsilla oli kahdeksantoista
 Puhuja 0: mitalia ja Suomella oli kuusi.
 Puhuja 2: Se on yksi... Okei, se on aika lähellä. Hitto. Mä en koskaan kuullut kenenkään ränttää vähän, että Suomen pitäisi olla viisikymmentä prosenttia Ruotsissa.
@@ -184,9 +185,9 @@ Puhuja 1: niitä mitaleita niille tuli.
 Puhuja 0: Kun Ruotsilla oli kahdeksan kultamitalia, meillä pitäisi olla neljä.
 Puhuja 1: Mutta se on hyvä tavoite. Näin voi ajatella, että pitäisi olla. Minä ehkä itse
 Puhuja 1: mietin silleen, että se miten me... Puolet Ruotsissa on kyllä masentava tavoite. Niin, mutta miten me voitaisiin jotenkin... Se on meidän identiteetin
-Puhuja 0: ydin olla puolet ruotsista. Jos mennään sen alle, niin sitten
+Puhuja 0: ydin olla puolet Ruotsista. Jos mennään sen alle, niin sitten
 Puhuja 0: me tiedetään, että okei, nyt on hommat mennyt pieleen.
-Puhuja 1: Mutta sitten meidän täytyisi miettiä sitä, että jos me ajattelemme niin, ja tämänkin voi minusta kyseenalaistaa, että meillä pitäisi olla
+Puhuja 1: Mutta sitten meidän täytyisi miettiä sitä, että jos me ajattelemme niin ja tämänkin voi minusta kyseenalaistaa, että meillä pitäisi olla
 Puhuja 1: hirveästi talviolympialaismitaleita,
 Puhuja 1: sitä
 Puhuja 1: voi miettiä, että miksi tarvitsisi olla.
@@ -272,8 +273,8 @@ Puhuja 0: ne taskumattia siinä samalla. Sitten
 Puhuja 0: näitte, että siinähän on Norjan hiihtojoukkoja ja Clab.
 Puhuja 0: Ovat siellä mitalikaulassa
 Puhuja 0: niin paljon, että nenä viisisataa
-Puhuja 0: hanke, koska mitalin
-Puhuja 0: määrä painaa heidät kumaraan.
+Puhuja 0: hanke, koska mitalinmäärä painaa
+Puhuja 0: heidät kumaraan.
 Puhuja 0: Millä
 Puhuja 0: näitä naapureita sitten alatte viihdyttää milillitulle?
 Puhuja 1: Nyt on
@@ -285,8 +286,7 @@ Puhuja 1: Mä en ole nähnyt tämän elokuvan vielä, mutta mulla tuli jotenkin 
 Puhuja 1: vuonna
 Puhuja 1: tuhat
 Puhuja 1: kahdeksansataaneljäkymmentäseitsemän tai siinä huudeilla kirjoittamaan
-Puhuja 1: kirjaa. Niinpä tein lomalla niin, että luin tämän kirjan
-Puhuja 1: kokonaan.
+Puhuja 1: kirjaa. Niinpä tein lomalla niin, että luin tämän kirjan kokonaan.
 Puhuja 1: Ellei elokuvaa katsomassa? En ole nähnyt elokuvaa, ja sitten se elokuva on saanut nyt niin heikkoja arvioita. Että mä en tiedä menenkö mä katson, että laittakaa viestiä, kannattaako käydä katsomassa,
 Puhuja 1: pohdin sitä vielä. Mutta mä suosittelen tätä Emil Bronten kirjaa, koska siinä on paljon sellaista
 Puhuja 1: Mä sanon ihan lyhyesti, että se on siis stoori sellaisesta tilanteesta,
@@ -298,11 +298,11 @@ Puhuja 1: rikkaista ja köyhistä.
 Puhuja 1: Se on tosi karu ja tosi
 Puhuja 1: synkeä.
 Puhuja 0: Sen sijaan elokuva kertoo ilmeisesti panemisesta? Ja se on minusta ihmeellistä,
-Puhuja 1: koska ajattelin, että okei nyt tämä on tällainen, että tässä on varmaan jotain intohimoa ja rakkautta ja kaikenlaista ihanaa. Niin täytyy sanoa, että jos haluatte lukea sitä kirjaa niin, että nyt on kaikkea
-Puhuja 1: he kummallisia kohtauksia
-Puhuja 1: kohtauksia, se ei ole yhtään semmoinen. Se on hienovaraisempaa
-Puhuja 1: se kuvailu siinä. Se on hienovaraisempaa ja siinä jätetään aika paljon sanomatta asioita. Mielikuvituksen
-Puhuja 1: vaara. Siitä huolimatta, että se on melkein kaksisataa vuotta vanha kirja, niin se oli itseasiassa kohtuullisen, ainakin tämä suomalainen käännös. Oli kohtuullisen helppo ja kiehtova lukea. Suositukseni.
+Puhuja 1: koska ajattelin,
+Puhuja 1: että okei nyt tämä on tällainen, että tässä on varmaan jotain intohimoa ja rakkautta ja kaikenlaista ihanaa. Niin täytyy sanoa, että jos haluatte lukea sitä kirjaa niin, että nyt on kaikkea
+Puhuja 1: he kummallisia kohtauksia kohtauksia, se ei ole yhtään semmoinen. Se on hienovaraisempaa se kuvailu siinä. Se on hienovaraisempaa, ja siinä jätetään aika paljon sanomatta.
+Puhuja 2: Mielikuvituksen
+Puhuja 1: vaara. Mutta siitä huolimatta, että se on melkein kaksisataa vuotta vanha kirja, niin se oli itseasiassa kohtuullisen, ainakin tämä suomalainen käännös. Oli kohtuullisen helppo ja kiehtova lukea. Suositukseni.
 Puhuja 0: Koska myös minulla on vanha kirja, niin minä pungin tähän väliin.
 Puhuja 0: Jonkun
 Puhuja 0: random googlailun
@@ -322,15 +322,15 @@ Puhuja 0: mystisiä kivipaasia piirretty sinne. Todella
 Puhuja 2: mahtava tuttu. Pohjaamaa taida puuttua, mutta muuten.
 Puhuja 0: Siellä on
 Puhuja 0: Hattul, josta on merkitty Hattulan
-Puhuja 0: Pyhän Ristin kirkko, jossa kävin viime kesänä, joka on vaikuttavimpia paikkoja, missä olen ikinä käynyt. Senkin takia oli kiva nähdä, että siellä se on 1500-luvulla
+Puhuja 0: Pyhän Ristin kirkko, jossa kävin viime kesänä, joka on yksi vaikuttavimpia paikkoja, missä olen ikinä käynyt. Senkin takia oli kiva nähdä, että siellä se on 1500-luvulla
 Puhuja 0: tehdyssä
 Puhuja 0: kartta Marinassa.
 Puhuja 0: Hän on myös kirjoittanut ensimmäisen
 Puhuja 0: kirjan, jossa
-Puhuja 0: käydään seikkaperäisesti läpi, mitä
+Puhuja 0: käydään seikkaperäisesti läpi, mitä suomalaiset on.
 Puhuja 0: Pohjoisten
 Puhuja 0: kansojen historia.
-Puhuja 0: Totta kai se kirja on täysin lukukelvoton, koska se on ensinnäkin tehty latinaksi ja toiseksi 1500-luvulla.
+Puhuja 0: Totta kai se kirja on täysin lukukelvoton, koska se on ensinnäkin tehty latinaksi ja toisekseen 1500-luvulla.
 Puhuja 0: Mutta
 Puhuja 0: aivan mainiosti
 Puhuja 0: tämmöinen harrastajahistorioitsija
@@ -384,13 +384,13 @@ Puhuja 2: Ruotsalainen piispa Ola Magnus Kotus. Ruksas, että kerron juustotarin
 Puhuja 2: oman suositukseni.
 Puhuja 0: Kerro lyhyesti, ollaan yliajalla.
 Puhuja 2: Tämä liittyy siihen Venäjän kehitykseen. Venäjälle ei ole tehty juustoa vanhastaan.
-Puhuja 2: Heidän professorissa Ser Veiv selitti sitä sillä, että
+Puhuja 2: Heidän professorissäkin
+Puhuja 2: Medvedb selitti sitä sillä, että
 Puhuja 2: oikein hyvät juustot saattaa kypsiä viisikymmentä vuotta. Sun pitää luottaa tulevaisuuteen,
-Puhuja 2: ja sulla pitää olla käsitys siitä, että omaisuudellasi
-Puhuja 2: on suoja.
+Puhuja 2: ja sulla pitää olla käsitys siitä, että omaisuudellasi on suoja.
 Puhuja 2: Venäjällä ei ole koskaan ollut niitä. Siellä ei ole ainoastaan tehty juustoa, vaan siellä on vain tehty rahkaa. Eka
 Puhuja 2: tulee nopeasti. Se tulee päivässä valmiiksi.
-Puhuja 2: Sitä vaatii silloin myös sataneljätoista, kun Ukrainan
+Puhuja 2: Sitä vaatii silloin kanssa sataneljätoista, kun Ukrainan
 Puhuja 2: sota alkoi
 Puhuja 2: ja EU asetti alkoi asettaa
 Puhuja 2: pakotteita,
@@ -401,8 +401,10 @@ Puhuja 2: Silloin huomattiin tämä asia.
 Puhuja 2: Että mehän emme osaa tähän juustoa ollenkaan. Kiehtovaa. Joo. Mutta hei, mun suositus on, se yhdistyy teidän molempiin
 Puhuja 2: Italiaan ja ruokaan. Mun suositus on
 Puhuja 2: pistaasi levitä.
-Puhuja 2: Joo. Mä oon löytänyt hyvän pistaasilevetteen Tää on nyt joku hits. Joka
-Puhuja 2: on Dolsey Kabnan
+Puhuja 2: Joo. Mä oon löytänyt hyvän pistaasilevetteen Tää on nyt joku hitää.
+Puhuja 0: Joka
+Puhuja 2: on
+Puhuja 2: Dolsey Kabnan
 Puhuja 2: pistaasi levitä. Sen muotitalon? Joo.
 Puhuja 2: Mä toivon sitä yleensä just Milanasta tästä. Aivan
 Puhuja 2: sairaan hyvää.
@@ -412,21 +414,22 @@ Puhuja 2: Voi arvata, että se on aika makeaa, mutta se on esimerkiksi piparin p
 Puhuja 2: Jos olette menossa Italiaan,
 Puhuja 2: niin etsikää
 Puhuja 2: hyvinvarusteluissa
-Puhuja 2: kaupoista Doltchey Gubbaanan pistäsi levitä.
+Puhuja 2: kaupoista Doltsei Gubbaanan pistäsi levitä.
 Puhuja 0: Erinomaista.
 Puhuja 0: Thalla tästä jo häipykin, mutta kiitos Jussi.
 Puhuja 0: Mun nimi on Tuomas Peltonki. Äänikuva ja kaiken muun mahtava meille tekee
 Puhuja 0: tällä viikolla Helmi Sundström.
 Puhuja 0: Ja
-Puhuja 0: tehdään niin, että
+Puhuja 0: Ja tehdään niin, että
 Puhuja 0: kuullaan ens viikolla. Heippa-reppa!
 Puhuja 1: Helsingin Sanomat.
 Puhuja 0: Moi, Tuomas tässä.
-Puhuja 0: Mun uusi podcast Menetetyt miljardi,
+Puhuja 0: Mun uusi podcast Menetetyt miljardit,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen
-Puhuja 0: yrityksen eli Fortumin, melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: yrityksen eli Fortumin.
+Puhuja 0: Melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi

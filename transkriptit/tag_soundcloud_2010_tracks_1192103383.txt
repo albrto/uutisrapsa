@@ -6,9 +6,9 @@ Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 1: Maailma on muuttunut tavalla,
-Puhuja 1: jota tuskin
-Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin
+Puhuja 0: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
@@ -22,15 +22,15 @@ Puhuja 0: kyllä vaan. Kyllä.
 Puhuja 0: Tuo pirtsakasti
 Puhuja 0: ensimmäiseen vuoden
 Puhuja 0: suhtautunut ääni oli taloustoimittaja Alma Onali. Hei Alma.
-Puhuja 2: Ihanaa tätä vuotta, Tuomas.
+Puhuja 1: Ihanaa tätä vuotta, Tuomas.
 Puhuja 0: Ihanaa sinne myös.
 Puhuja 0: Alman lisäksi meillä on kuulijoille
 Puhuja 0: tuttu
 Puhuja 0: ääni
 Puhuja 0: politiikan toimittaja Marko Honkkari. Hei Marko.
-Puhuja 1: Vai sunnuntai? Et sä kyllä sano sunnuntaieliittien
+Puhuja 2: Vai sunnuntai? Et sä kyllä sano sunnuntaieliittien
 Puhuja 0: toimintaa. Ei kyllä. Sä voit kyllä.
-Puhuja 1: No niin, terve vaan.
+Puhuja 2: No niin, terve vaan.
 Puhuja 0: Politiikan toimittaja sunnuntailiitteessä.
 Puhuja 0: Koska ei se sano varmaan nykyään oikein yhtään mitään
 Puhuja 0: kenellekään ihmiselle, mikä on joku sunnuntai. Hyväksytään.
@@ -48,25 +48,27 @@ Puhuja 0: sunnuntaipäivän
 Puhuja 0: ajan aikasyöppö.
 Puhuja 0: Sitä vain makoili
 Puhuja 0: tuntikausia
-Puhuja 0: sohvalla ja lueskelin niitä juttuja. Mutta näinä kiireisinä internetaikoina
+Puhuja 0: sohvalla ja lueskelin juttuja.
+Puhuja 0: Mutta näinä kiireisinä internetaikoina
 Puhuja 0: ne jutut lukee vähän niin kuin, milloin
 Puhuja 0: ehtii.
 Puhuja 0: Ehkä tälleen.
 Puhuja 0: Tämän viikon podcastissa
-Puhuja 0: keskustellaan koulujen sulkemisuhasta,
+Puhuja 0: keskustellaan
+Puhuja 0: koulujen sulkemisuhasta,
 Puhuja 0: joka siis ei ole tätä podcastia nauhoitettaessa näin perjantaina vielä
 Puhuja 0: selvinnyt, siis tämä lopputulema,
 Puhuja 0: mutta joka jo pelkkänä uhkana horisontissa
 Puhuja 0: uhkaa syö sitä Suomea käytännössä hallitsevan
 Puhuja 0: THL-STM
 Puhuja 0: Kiuru triumvirraatin
-Puhuja 1: takaisin sekasorron tilaan. Ja tarkennuksena siis
-Puhuja 1: samaan aikaan kun aloitimme
-Puhuja 1: podcast tai ehkä vähän aikaisemmin kun aloitimme myöhässä. Meidän piti aloittaa kello neljätoista mutta Tuomas ei ollut paikalla.
-Puhuja 1: Mutta samaan aikaan kello neljätoista alkoi hallituksen
-Puhuja 1: koronaministeriryhmän
-Puhuja 1: kokous. Kyllä. Kestää
-Puhuja 1: varmaan iltaa, mutta siellä pohditaan samaa asiaa mitä me tässä. Juuri näin. Eli tästä podcastista
+Puhuja 0: takaisin sekasorron tilaan. Ja tarkennuksena siis
+Puhuja 2: samaan aikaan kun aloitimme
+Puhuja 2: podcast tai ehkä vähän aikaisemmin kun aloitimme myöhässä. Meidän piti aloittaa kello neljätoista mutta Tuomas ei ollut paikalla.
+Puhuja 2: Mutta samaan aikaan kello neljätoista alkoi hallituksen
+Puhuja 2: koronaministeriryhmän
+Puhuja 2: kokous. Kyllä. Kestää
+Puhuja 2: varmaan iltaa, mutta siellä pohditaan samaa asiaa mitä me tässä. Juuri näin. Eli tästä podcastista
 Puhuja 0: viiden tunnin päästä tulee varmaan varmaan tietoa siitä, miten tässä käy. Joten emme äänet sitä odottamaan.
 Puhuja 0: Millä perusteella koulut pitäisi nyt sulkea vai eikö niitä pitäisi? Kuka siitä päättää ja mitä tästä seuraa?
 Puhuja 0: Hallitus on ainakin jotenkin poikkeuksellisen
@@ -110,7 +112,7 @@ Puhuja 0: STM:n kansliapäällikkö
 Puhuja 0: Kirsi Varhila sanoi keskiviikkona
 Puhuja 0: Ylelle,
 Puhuja 0: että esitämme tänään virkakunnan kysymyksen kaikille.
-Puhuja 2: Mutta voitko briiffat?
+Puhuja 1: Mutta voitko briiffat?
 Puhuja 0: Se oli mun mielestä Biden puhuu siis hyvin.
 Puhuja 0: Kun kuunteli sen puheen, niin siinä havahtui siihen, että niin joo Biden ei ole puhunut suoraan Trubista
 Puhuja 0: tyyliin
@@ -121,7 +123,7 @@ Puhuja 0: Capital Hillin hyökkäys päällä, silloin hän puhui Trubista. Mutt
 Puhuja 0: Trumpia oikeastaan ollenkaan, varmasti taktisesti järkevä veto. Nyt hän puhui Trumpista, ei nimellä mun mielestä ehkä kertaakaan.
 Puhuja 0: Hän sanoo
 Puhuja 0: Formresident
-Puhuja 1: and Hese Prokers ja näin. Mä luin jostain, että ei käyttänyt kertaakaan Trumpin. Kyllä.
+Puhuja 2: and Hese Prokers ja näin. Mä luin jostain, että ei käyttänyt kertaakaan Trumpin. Kyllä.
 Puhuja 0: Biden puhui
 Puhuja 0: siis siitä, että
 Puhuja 0: tästä Capital Hillin hyökkäyksestä,
@@ -168,7 +170,7 @@ Puhuja 0: jotka tulee, jotka näyttäisivät tähtäävän siihen, että
 Puhuja 0: seuraavat
 Puhuja 0: vaalit pystytään mitätöimään.
 Puhuja 0: En muista niitä yksityiskohtia, mitä ne on. Kuunnelkaa esimerkiksi Political Cap Festian, missä näitä käydään tosi seikkaperäisesti ja hyvin läpi.
-Puhuja 0: Se oli mun mielestä tosi hyvä puhe. Ja Se oli kylmäävää se,
+Puhuja 0: Se oli mun mielestä tosi hyvä puhe. Ja sitten se oli kylmäävää se,
 Puhuja 0: että siitä pystyi päättelemään, että mitä Biden ajattelee republikaanipuolueen
 Puhuja 0: tilanteesta.
 Puhuja 0: Hän käytännössä ajattelee, että sen puolueen on sen, että siellä vallan ovat kaapanneet
@@ -176,59 +178,59 @@ Puhuja 0: kaikista huuruisimmat QAnon
 Puhuja 0: vallan Anasta ja
 Puhuja 0: foliopat.
 Puhuja 0: Mikä on jotenkin supersurullista?
-Puhuja 2: Se on ihan supersurullista. Ja tavallista ja pelattava.
-Puhuja 2: Koska se, mikä tuntui jotenkin erikoiselta, että yritin jotenkin
-Puhuja 2: lukea joitain analyyseja siitä, mikä on
-Puhuja 2: tämä Capitalin valtaamisen aftermath vuosi sen jälkeen.
-Puhuja 2: Odotin
-Puhuja 2: näkeväni
-Puhuja 2: puheenvuoroja
-Puhuja 2: joiltakin vaikka republikaaneilta,
-Puhuja 2: jotka sanoisi näin vuosi jälkeenpäin, että vitsi, me oltiin muuten väärässä ja olipas muuten väärin
-Puhuja 2: väittää niitä vaaleja varastetuiksi.
-Puhuja 2: Tämän tyyppistä,
-Puhuja 2: en löytänyt mitään sellaista. En oikeastaan nähnyt mitään sellaista.
-Puhuja 2: Katsoin,
-Puhuja 2: eilen se oli tosi hyvä ulkolinja.
-Puhuja 2: Ylellä näytti tämän hyökkäys USA:n
-Puhuja 2: kongressi nimisen
-Puhuja 2: dokumentin siitä päivästä, missä on tosi paljon videomateriaalia.
-Puhuja 2: Sieltä
-Puhuja 2: ihan
-Puhuja 2: näiden mielenosoittajien tai vallankapeille, miksi heitä pitäisi kutsua. En tiedä, voisit sanoa vallankaappaukseksi,
-Puhuja 2: kun Ei ne kaapannut mitään valtaa, vaan...
+Puhuja 1: Se on ihan supersurullista. Ja tavallista ja pelattava.
+Puhuja 1: Koska se, mikä tuntui jotenkin erikoiselta, että yritin jotenkin
+Puhuja 1: lukea joitain analyyseja siitä, mikä on
+Puhuja 1: tämä Capitalin valtaamisen aftermath vuosi sen jälkeen.
+Puhuja 1: Odotin
+Puhuja 1: näkeväni
+Puhuja 1: puheenvuoroja
+Puhuja 1: joiltakin vaikka republikaaneilta,
+Puhuja 1: jotka sanoisi näin vuosi jälkeenpäin, että vitsi, me oltiin muuten väärässä ja olipas muuten väärin
+Puhuja 1: väittää niitä vaaleja varastetuiksi.
+Puhuja 1: Tämän tyyppistä,
+Puhuja 1: en löytänyt mitään sellaista. En oikeastaan nähnyt mitään sellaista.
+Puhuja 1: Katsoin,
+Puhuja 1: eilen se oli tosi hyvä ulkolinja.
+Puhuja 1: Ylellä näytti tämän hyökkäys USA:n
+Puhuja 1: kongressi nimisen
+Puhuja 1: dokumentin siitä päivästä, missä on tosi paljon videomateriaalia.
+Puhuja 1: Sieltä
+Puhuja 1: ihan
+Puhuja 1: näiden mielenosoittajien tai vallankapeille, miksi heitä pitäisi kutsua. En tiedä, voiko sanoa vallankaappaukseksi,
+Puhuja 1: kun Ei ne kaapannut mitään valtaa, vaan...
 Puhuja 0: Kuitenkin oli iso osa sitä asiaa. Mellankoitsijat
 Puhuja 0: joo, ehkä näin.
-Puhuja 2: Oli haastateltu myös heitä.
-Puhuja 2: Mulla heräsi paljon erikoisia tunteita sinä aikana, kun katsoin sitä
-Puhuja 2: dokumenttia, koska se menee niin syvälle sinne polttopisteeseen siihen, mitä siellä tapahtuu. Jotenkin
-Puhuja 2: niihin
-Puhuja 2: törmäyslinjoihin,
-Puhuja 2: missä ne poliisit ja ne mielenosoittajat ottaa yhteen.
-Puhuja 2: Se herätti
-Puhuja 2: kysymyksiä demokratiasta, sen tilasta ja sen rituaaleista.
-Puhuja 2: Jotenkin se suuri
-Puhuja 2: vastakohta sen välillä, että siellä kongressin sisällä
-Puhuja 2: pukeutuneet ihmiset yrittävät jonkun protokollan
-Puhuja 2: mukaan, mikä on vain sovittu, että näin tätä demokratiaa konkreettisesti
-Puhuja 2: toteutetaan tässä yhteiskunnassa. Me ollaan vain sovittu, että se menee näin, että nämä pukutyypit
-Puhuja 2: täällä hienossa
-Puhuja 2: salissa ottavat näitä puheenvuoroja ja käyttävät tietyllä tavalla niitä. Sitten siellä ulkona on
-Puhuja 2: kaikkiin taljoihin
-Puhuja 2: ja mellakkavarusteisiin
-Puhuja 2: pukeutuneita lähinnä
-Puhuja 2: miehiä, jotka jotenkin uskoo ihan täysin olevansa oikealla asialla, uskoo olevansa demokratian
-Puhuja 2: puolella
-Puhuja 2: ja uskoo menevänsä jotenkin keskeyttämään
-Puhuja 2: tällaiseen Bidenin vallankaappauksen.
-Puhuja 2: Ja sitten se ihmeellinen ristiriita,
-Puhuja 2: että sitten, kun se joukko pääsee sinne sisään ja se on niin selvää, että ei kellään ole mitään hajua, mitä ne menevät sinne tekemään, mitä ne siellä haluavat, mikä se niiden
-Puhuja 2: En uskalla edes ajatella, että jos ne olisivat löytäneet länsipelosin, mitä ne olisivat tehneet. Olisivatko ne valleet,
-Puhuja 2: ou, Nancy
-Puhuja 2: fu, vai ovatko ne oikeasti tyyliin,
-Puhuja 2: en tiedä, heittänyt keihään sen rinnasta läpi. Sitten siinä on se outo ristiriita. Siellä on jotain tyyppejä, jotka ovat silleen, että jää, mä olen täällä kongressin sisältä, pääkupolin alla, voisi sytyttää jointin.
-Puhuja 2: Eli kun vain pörssyttelee pilveen ja toisessa huoneessa länsipelosin avustaja pelkäävät tulevansa raiskatuiksi ja tapetuiksi, koska ne ei oikeasti tiedä,
-Puhuja 2: että mikä se tilanteen vakavuusaste on. Tähän kysymykseen
+Puhuja 1: Oli haastateltu myös heitä.
+Puhuja 1: Mulla heräsi paljon erikoisia tunteita sinä aikana, kun katsoin sitä
+Puhuja 1: dokumenttia, koska se menee niin syvälle sinne polttopisteeseen siihen, mitä siellä tapahtuu. Jotenkin
+Puhuja 1: niihin
+Puhuja 1: törmäyslinjoihin,
+Puhuja 1: missä ne poliisit ja ne mielenosoittajat ottaa yhteen.
+Puhuja 1: Se herätti
+Puhuja 1: kysymyksiä demokratiasta, sen tilasta ja sen rituaaleista.
+Puhuja 1: Jotenkin se suuri
+Puhuja 1: vastakohta sen välillä, että siellä kongressin sisällä
+Puhuja 1: pukeutuneet ihmiset yrittävät jonkun protokollan
+Puhuja 1: mukaan, mikä on vain sovittu, että näin tätä demokratiaa konkreettisesti
+Puhuja 1: toteutetaan tässä yhteiskunnassa. Me ollaan vain sovittu, että se menee näin, että nämä pukutyypit
+Puhuja 1: täällä hienossa
+Puhuja 1: salissa ottavat näitä puheenvuoroja ja käyttävät tietyllä tavalla niitä. Sitten siellä ulkona on
+Puhuja 1: kaikkiin taljoihin
+Puhuja 1: ja mellakkavarusteisiin
+Puhuja 1: pukeutuneita lähinnä
+Puhuja 1: miehiä, jotka jotenkin uskoo ihan täysin olevansa oikealla asialla, uskoo olevansa demokratian
+Puhuja 1: puolella
+Puhuja 1: ja uskoo menevänsä jotenkin keskeyttämään
+Puhuja 1: tällaiseen Bidenin vallankaappauksen.
+Puhuja 1: Ja sitten se ihmeellinen ristiriita,
+Puhuja 1: että sitten, kun se joukko pääsee sinne sisään ja se on niin selvää, että ei kellään ole mitään hajua, mitä ne menevät sinne tekemään, mitä ne siellä haluavat, mikä se niiden
+Puhuja 1: En uskalla edes ajatella, että jos ne olisivat löytäneet länsipelosin, mitä ne olisivat tehneet. Olisivatko ne valleet,
+Puhuja 1: ou, Nancy
+Puhuja 1: fu, vai ovatko ne oikeasti tyyliin,
+Puhuja 1: en tiedä, heittänyt keihään sen rinnasta läpi. Sitten siinä on se outo ristiriita. Siellä on jotain tyyppejä, jotka ovat silleen, että jää, mä olen täällä kongressin sisältä, pääkupolin alla, voisi sytyttää jointin.
+Puhuja 1: Eli kun vain pörssyttelee pilveen ja toisessa huoneessa länsipelosin avustaja pelkäävät tulevansa raiskatuiksi ja tapetuiksi, koska ne ei oikeasti tiedä,
+Puhuja 1: että mikä se tilanteen vakavuusaste on. Tähän kysymykseen
 Puhuja 0: liittyy se, että siinä on sitä jointipoltelua
 Puhuja 0: for the lols,
 Puhuja 0: että ei vitsi, tämä on mahtavaa sekoilua.
@@ -247,36 +249,36 @@ Puhuja 0: valkoisten
 Puhuja 0: miehen jengejä.
 Puhuja 0: Näillä on ollut suunniteltu
 Puhuja 0: tarkoitus iskeä sinne ja aiheuttaa
-Puhuja 2: mahdollisimman paljon kaaosta ja tuhoa. Ja se, mikä jotenkin oli ehkä...
-Puhuja 2: Siellähän kuoli
-Puhuja 2: myös ihmisiä
-Puhuja 2: ja sen jälkeen myös jotenkin poliiseja, se teki itsemurhan,
-Puhuja 2: mikä jotenkin osoittaa sen, miten traumaattisesta asiasta oli kyse.
-Puhuja 2: Se, mikä mua jotenkin kylmässä, oli se, että
-Puhuja 2: vaikka näkee tuon kaiken
-Puhuja 2: ja jotenkin omin silmin vaan näkee, että tässä ei ole järjen häivääkään
-Puhuja 2: tämän porukan toiminnassa,
-Puhuja 2: mutta sitten tajuaa, että he itse uskovat olevansa logiikan ja rationaalisuuden
-Puhuja 2: puolella ja siellä joku tyyppi selittää, että
-Puhuja 2: mun mielestä on väärin sanoa, että ne olivat Trumpin kannattajia, jotka käyttivät väkivaltaa. Se, että sulla on magalippisa tramppaita päällä ei tarkoita, että olet Trumpin kannattaja välttämättä. Vähän näin, että sinne on soluttautunut jotain Trumpin vastustajia. Trump lippikset päässä
-Puhuja 2: tappelemaan
-Puhuja 2: poliisin kanssa. Mitä helvettiä?
-Puhuja 2: Se näytti niin
-Puhuja 2: totiselta se touhu, että en mä ainakaan
-Puhuja 2: näe, että siellä olisi ollut kukaan muu kuin nimenomaan ne tyypit, jotka täysin uskoi näihin salaliittoteorioihin ja olivat menossa sinne. Marke. Mä sanon vielä, ei mä
-Puhuja 1: opetellaan kohta, mutta mä rakastan tämä
-Puhuja 1: Annostan tämä Sohvi Bernerin
-Puhuja 1: aivan loistavaa
-Puhuja 1: esseetä. Hänen kirjavaihtajakautensa
-Puhuja 1: Jenkeissä päättyi. Oliko se pari päivää sitten? Tuli tämmöinen viimeinen
-Puhuja 1: Amerikan kirjoitus mikä kehyksenä oli nimenomaan kun Sohvi on itse
-Puhuja 1: siellä kongressin edustalla
-Puhuja 1: kännykän akku vähissä
-Puhuja 1: päivittelemässä.
-Puhuja 1: Sohvin kirjoituksen oli hieno loppu, missä Sohvi oli siellä
-Puhuja 1: jonkin matkan päässä kongressista ja katseli sinne mutta hän lopetti sen, että ei hän nähnyt. Hän näki, että hän näki kun ihmiset ryhtyivät
-Puhuja 1: kongressiin päin, mutta hän ei itse asiassa nähnyt kongressiin sisään tunkeutumista.
-Puhuja 1: Tavallaan se hienosti siinä kovasti, että asiat voivat olla. Se ei näyttänyt siinä missä sohvi seisoi niin pahalta kuin se tilanne oikeasti olikaan.
+Puhuja 1: mahdollisimman paljon kaaosta ja tuhoa. Ja se, mikä jotenkin oli ehkä...
+Puhuja 1: Siellähän kuoli
+Puhuja 1: myös ihmisiä
+Puhuja 1: ja sen jälkeen myös jotenkin poliiseja, se teki itsemurhan,
+Puhuja 1: mikä jotenkin osoittaa sen, miten traumaattisesta asiasta oli kyse.
+Puhuja 1: Se, mikä mua jotenkin kylmässä, oli se, että
+Puhuja 1: vaikka näkee tuon kaiken
+Puhuja 1: ja jotenkin omin silmin vaan näkee, että tässä ei ole järjen häivääkään
+Puhuja 1: tämän porukan toiminnassa,
+Puhuja 1: mutta sitten tajuaa, että he itse uskovat olevansa logiikan ja rationaalisuuden
+Puhuja 1: puolella ja siellä joku tyyppi selittää, että
+Puhuja 1: mun mielestä on väärin sanoa, että ne olivat Trumpin kannattajia, jotka käyttivät väkivaltaa. Se, että sulla on magalippisa tramppaita päällä ei tarkoita, että olet Trumpin kannattaja välttämättä. Vähän näin, että sinne on soluttautunut jotain Trumpin vastustajia. Trump lippikset päässä
+Puhuja 1: tappelemaan
+Puhuja 1: poliisin kanssa. Mitä helvettiä?
+Puhuja 1: Se näytti niin
+Puhuja 1: totiselta se touhu, että en mä ainakaan
+Puhuja 1: näe, että siellä olisi ollut kukaan muu kuin nimenomaan ne tyypit, jotka täysin uskoi näihin salaliittoteorioihin ja olivat menossa sinne. Marke. Mä sanon vielä, ei mä
+Puhuja 2: opetellaan kohta, mutta mä rakastan tämä
+Puhuja 2: Annostan tämä Sohvi Bernerin
+Puhuja 2: aivan loistavaa
+Puhuja 2: esseetä. Hänen kirjavaihtajakautensa
+Puhuja 2: Jenkeissä päättyi. Oliko se pari päivää sitten? Tuli tämmöinen viimeinen
+Puhuja 2: Amerikan kirjoitus mikä kehyksenä oli nimenomaan kun Sohvi on itse
+Puhuja 2: siellä kongressin edustalla
+Puhuja 2: kännykän akku vähissä
+Puhuja 2: päivittelemässä.
+Puhuja 2: Sohvin kirjoituksen oli hieno loppu, missä Sohvi oli siellä
+Puhuja 2: jonkin matkan päässä kongressista ja katseli sinne mutta hän lopetti sen, että ei hän nähnyt. Hän näki, että hän näki kun ihmiset ryhtyivät
+Puhuja 2: kongressiin päin, mutta hän ei itse asiassa nähnyt kongressiin sisään tunkeutumista.
+Puhuja 2: Tavallaan se hienosti siinä kovasti, että asiat voivat olla. Se ei näyttänyt siinä missä sohvi seisoi niin pahalta kuin se tilanne oikeasti olikaan.
 Puhuja 0: Okei.
 Puhuja 0: Nyt teillä on sellainen tilanne, että te olette aloittaneet
 Puhuja 0: pitkän, pitkän, kuivan kauden teidän elämässä. Kuvitelkaa,
@@ -291,79 +293,79 @@ Puhuja 0: Siinä kun istutte
 Puhuja 0: Kyprokkipinojen
 Puhuja 0: päälle ja sitten siinä jotain sähköä putkimiestä möyriin menemään ja rupeatte ottamaan kaljaa ja katselette, kun he siinä. Milläs jutuilla heitä
 Puhuja 0: viihdytte?
-Puhuja 1: Voisin
-Puhuja 1: oikeastaan kysymyksen
-Puhuja 1: Almalle, mutta katsoin nyt tämän
-Puhuja 1: Dont Lock uppa. Joo.
-Puhuja 1: Tämä on siis Netflix-elokuva, josta on kauheasti kohkattu. Tavallaan kriitikot ovat haukkuneet mutta monet tavalliset ihmiset tykkäävät.
-Puhuja 1: Ennen kuin katsoin sitä olin lukenut liian monta juttua siitä ja olin lukenut näistä
-Puhuja 1: erilaisista tulkinnoista ja
-Puhuja 1: kritiikkiä
-Puhuja 1: ja innostusta sitä kohtaan.
-Puhuja 1: Aloin katsomaan sitä
-Puhuja 1: ylianalyyttisessa
-Puhuja 1: tilassa. Koko ajan mietin että mitä ajattelen tästä.
-Puhuja 1: Se varmaan pilassa kyllä on. Se oli minusta leffa oli hyvä. Katsoin sitä mielelläni,
-Puhuja 1: mutta koko ajan mietin liikaa.
-Puhuja 2: Mitä
-Puhuja 2: pidit siitä leffasta?
-Puhuja 2: Mä keskustelin vähän tästä teemasta yhden mun ystävän kanssa, kun mä putisin, miten me luetaan kirjoja. Mä sanoin, että mä kulutan kirjojen viihteenä. Jos
-Puhuja 2: mä luen huvikseni enkä mitään
-Puhuja 2: opiskelua varten, niin se on mulle puhdasta viihdettä ja mä en tavallaan yritä. Välillä saattaa tulla joku upea idea siitä tekstistä, mikä ruokkii sitä, jos mä olen silleen, että vau. Katson elokuvia samalla tavalla. Olin lukenut Dont look uppista myös paljon
-Puhuja 2: kaikkia näitä analyyseja. Okei, hype oli ehkä vähän liian ylhäällä, joten sen jälkeen, kun hype on asetettu niin ylös, niin sitten on vaikea omassa kokemuksessa enää päästä mielikuvissaan rakennettuun tasoon siitä.
-Puhuja 2: Mun mielestä se oli elokuvana
-Puhuja 2: viihdyttävä, kyllä sitä jakso katsoo, vaikka se oli yli kaksi tuntia pitkä.
-Puhuja 2: Se oli jotenkin juuri siinä...
-Puhuja 2: En ehkä naurannut niin paljon sen aikana. Mun mielestä se ei ollut niin hauska, kun jotkut ovat sanoneet, että
-Puhuja 2: se on täysi komedia. Mun mielestä se oli myös monin paikoin aika surullinen.
-Puhuja 2: Tai ei surullinen, vaan enemmänkin sellainen,
-Puhuja 2: että se oli enemmän kauhuelokuva
+Puhuja 2: Voisin
+Puhuja 2: oikeastaan kysymyksen
+Puhuja 2: Almalle, mutta katsoin nyt tämän
+Puhuja 2: Dont look uppa. Aku vain? Joo.
+Puhuja 2: Tämä on siis Netflix-elokuva, josta on kauheasti kohkattu. Tavallaan kriitikot ovat haukkuneet mutta monet tavalliset ihmiset tykkäävät.
+Puhuja 2: Ennen kuin katsoin sitä olin lukenut liian monta juttua siitä ja olin lukenut näistä
+Puhuja 2: erilaisista tulkinnoista ja
+Puhuja 2: kritiikkiä
+Puhuja 2: ja innostusta sitä kohtaan.
+Puhuja 2: Aloin katsomaan sitä
+Puhuja 2: ylianalyyttisessa
+Puhuja 2: tilassa. Koko ajan mietin että mitä ajattelen tästä.
+Puhuja 2: Se varmaan pilassa kyllä on. Se oli minusta leffa oli hyvä. Katsoin sitä mielelläni,
+Puhuja 2: mutta koko ajan mietin liikaa.
+Puhuja 1: Mitä
+Puhuja 1: pidit siitä leffasta?
+Puhuja 1: Mä keskustelin vähän tästä teemasta yhden mun ystävän kanssa, kun mä putisin, miten me luetaan kirjoja. Mä sanoin, että mä kulutan kirjojen viihteenä. Jos
+Puhuja 1: mä luen huvikseni enkä mitään
+Puhuja 1: opiskelua varten, niin se on mulle puhdasta viihdettä ja mä en tavallaan yritä. Välillä saattaa tulla joku upea idea siitä tekstistä, mikä ruokkii sitä, jos mä olen silleen, että vau. Katson elokuvia samalla tavalla. Olin lukenut Dont look uppista myös paljon
+Puhuja 1: kaikkia näitä analyyseja. Okei, hype oli ehkä vähän liian ylhäällä, joten sen jälkeen, kun hype on asetettu niin ylös, niin sitten on vaikea omassa kokemuksessa enää päästä mielikuvissaan rakennettuun tasoon siitä.
+Puhuja 1: Mun mielestä se oli elokuvana
+Puhuja 1: viihdyttävä, kyllä sitä jakso katsoo, vaikka se oli yli kaksi tuntia pitkä.
+Puhuja 1: Se oli jotenkin juuri siinä...
+Puhuja 1: En ehkä naurannut niin paljon sen aikana. Mun mielestä se ei ollut niin hauska, kun jotkut ovat sanoneet, että
+Puhuja 1: se on täysi komedia. Mun mielestä se oli myös monin paikoin aika surullinen.
+Puhuja 1: Tai ei surullinen, vaan enemmänkin sellainen,
+Puhuja 1: että se oli enemmän kauhuelokuva
 Puhuja 0: kuin komedia. Mutta siellä oli komediaa enemmän ehkä satiiri.
 Puhuja 0: Joo. Se pilkkasi meitä ihmiset, koska jos
 Puhuja 0: tulisi komeetta,
 Puhuja 0: se kaikki tapahtuisi just tuolla tavalla. Joo,
-Puhuja 2: siinä on se...
-Puhuja 2: Kaikkihan vetää siitä... Se on siinä mielessä hyvä elokuva, että kaikki voi vetää siitä vähän jotkut omat analogiansa
-Puhuja 2: ja metaforansa. Joo, siinä on ilmiselvä tämä ilmastonmuutos
-Puhuja 2: metafora.
-Puhuja 2: Esimerkiksi Sanna Ukkola sanoi Twitterissä, että hänen mielestään se oli metafora tästä pandemiasta.
+Puhuja 1: siinä on se...
+Puhuja 1: Kaikkihan vetää siitä... Se on siinä mielessä hyvä elokuva, että kaikki voi vetää siitä vähän jotkut omat analogiansa
+Puhuja 1: ja metaforansa. Joo, siinä on ilmiselvä tämä ilmastonmuutos
+Puhuja 1: metafora.
+Puhuja 1: Esimerkiksi Sanna Ukkola sanoi Twitterissä, että hänen mielestään se oli metafora tästä pandemiasta.
 Puhuja 0: Se vaan tupsahti jouluna
 Puhuja 0: Netflix, en tiedä haluakaan siitä. Näin, että okei, tässä sauvon kuuluisi näyttelijät. Katsotaanpa, tämä oli mun siskon luona joulunvietossa.
 Puhuja 0: Siinä kaikki perheineen asettuivat katsomaan.
 Puhuja 0: Kaikki piti,
 Puhuja 0: lapset tykkäsivät, aikuiset tykkäsivät.
 Puhuja 0: Meni kaikille läpi, että kyllä se toimii. Joo. Sittenhän siellä on kaikkea
-Puhuja 2: Elon Musk kritiikkiä.
-Puhuja 2: Sitten sieltä löytyy tämä media kritiikki, salaliittoteorakenikki.
-Puhuja 2: Eilen, kun katsoin
-Puhuja 2: hyökkäys USA:n kongressiin juttua, mulle tuli aivan
-Puhuja 2: yksi yhteen
-Puhuja 2: jotenkin rinnastus siihen kohtaan siinä don't look up elokuvassa, kun ne ovat don't look up ja sitten se yksi äijä katsoo taivaalle, on
-Puhuja 2: Häh, ne valehtelivat meille. Se on aivan täydellinen
-Puhuja 2: metafora
-Puhuja 2: salaliittoteoriasta ja muista.
-Puhuja 2: Mun mielestä don't look up on
-Puhuja 2: hyvä elokuva ja ymmärrän sen, että ihmiset, jotka tekevät aidosti töitä vaikka ilmastotutkijoina ja
-Puhuja 2: yrittävät saada sitä viestiään läpi,
-Puhuja 2: varmasti löytävät siitä elokuvasta
-Puhuja 2: hyvinkin
-Puhuja 2: kivuliasta.
-Puhuja 2: Kyllä,
-Puhuja 2: jalostuttavaa
+Puhuja 1: Elon Musk kritiikkiä.
+Puhuja 1: Sitten sieltä löytyy tämä media kritiikki, salaliittoteorakenikki.
+Puhuja 1: Eilen, kun katsoin
+Puhuja 1: hyökkäys USA:n kongressiin juttua, mulle tuli aivan
+Puhuja 1: yksi yhteen
+Puhuja 1: jotenkin rinnastus siihen kohtaan siinä don't look up elokuvassa, kun ne ovat don't look up ja sitten se yksi äijä katsoo taivaalle, on
+Puhuja 1: Häh, ne valehtelivat meille. Se on aivan täydellinen
+Puhuja 1: metafora
+Puhuja 1: salaliittoteoriasta ja muista.
+Puhuja 1: Mun mielestä don't look up on
+Puhuja 1: hyvä elokuva ja ymmärrän sen, että ihmiset, jotka tekevät aidosti töitä vaikka ilmastotutkijoina ja
+Puhuja 1: yrittävät saada sitä viestiään läpi,
+Puhuja 1: varmasti löytävät siitä elokuvasta
+Puhuja 1: hyvinkin
+Puhuja 1: kivuliasta.
+Puhuja 1: Kyllä,
+Puhuja 1: jalostuttavaa
 Puhuja 0: samaistuspintaa.
 Puhuja 0: Kyllä.
-Puhuja 1: Kritiikki oli minusta ennen kaikkea mediakritiikkiä.
-Puhuja 2: Joo, kyllä.
-Puhuja 2: Mun mielestä hienosti yksi mun ystävä sanoi, että
-Puhuja 2: häntä oli kerta kaikkiaan alkanut itkettä
-Puhuja 2: siinä elokuvassa, kun näytetään näitä eläimiä.
-Puhuja 2: Aina välissä
-Puhuja 2: leikataan
-Puhuja 2: kuvia
-Puhuja 2: maailman ihmeellisyydestä? Ja sitten siellä on kuin virtahepo ja Koliperi.
-Puhuja 2: Kerta kaikkiaan tuli tippalinssi,
-Puhuja 2: niin joo, mun mielestä se on siinä mielessä onnistunut kuva. Leonardo de Gabrio vitsit tekee hyvän rotan. Joo, mä olin myös sun suositus.
-Puhuja 2: Sanotaan näin. Ja sitten mä suosittelen myös tätä hyökkäys USA:n kongressiin. Katsokaa nää yhdessä ja nähkää. Kerääperää.
+Puhuja 2: Kritiikki oli minusta ennen kaikkea mediakritiikkiä.
+Puhuja 1: Joo, kyllä.
+Puhuja 1: Mun mielestä hienosti yksi mun ystävä sanoi, että
+Puhuja 1: häntä oli kerta kaikkiaan alkanut itkettä
+Puhuja 1: siinä elokuvassa, kun näytetään näitä eläimiä.
+Puhuja 1: Aina välissä
+Puhuja 1: leikataan
+Puhuja 1: kuvia
+Puhuja 1: maailman ihmeellisyydestä? Ja sitten siellä on kuin virtahepo ja Koliperi.
+Puhuja 1: Kerta kaikkiaan tuli tippalinssi,
+Puhuja 1: niin joo, mun mielestä se on siinä mielessä onnistunut kuva. Leonardo de Gabrio vitsit tekee hyvän rotan. Joo, mä olin myös sun suositus.
+Puhuja 1: Sanotaan näin. Ja sitten mä suosittelen myös tätä hyökkäys USA:n kongressiin. Katsokaa nää yhdessä ja nähkää. Kerääperää.
 Puhuja 0: Mä haluan nimittäin suositella aivan todella,
 Puhuja 0: todella painokkaasti
 Puhuja 0: yhtä parhaista kirjoista, mitä on lukenut.
@@ -407,9 +409,9 @@ Puhuja 0: Oksykondin
 Puhuja 0: lääkkeen
 Puhuja 0: ja myivät sitä, joka on käytännössä
 Puhuja 0: siis opiaatti, eli käytännössä niinku herskaa.
-Puhuja 1: No, jossa oli pahin näistä, jenkkien opioidikriisissä,
-Puhuja 1: niin tämähän he tekivät sen kaikkein ne koukuttavimmat
-Puhuja 1: pahimmat lääkkeet. He ovat pääsyyllisiä.
+Puhuja 2: No, jossa oli pahin näistä, jenkkien opioidikriisissä,
+Puhuja 2: niin tämähän he tekivät sen kaikkein ne koukuttavimmat
+Puhuja 2: pahimmat lääkkeet. He ovat pääsyyllisiä.
 Puhuja 0: He ovat syyllisiä siihen, että amerikkalainen
 Puhuja 0: länsimaana
 Puhuja 0: on heidän eliniänodote
@@ -425,7 +427,7 @@ Puhuja 0: Patry Craig Din and Kief, Empire pain. Lupa Tuomas hänen edellinen ki
 Puhuja 0: aksentilla. Onko? On.
 Puhuja 0: There.
 Puhuja 0: There was norrs 1 and the oy. In the promous of the nuorten wordrs. Osaan kyllä paremminkin englantia, mutta tietenkin se on tosi iloista kuunneltavaa.
-Puhuja 1: Mutta saa loistaa kirja. Uskon
+Puhuja 2: Mutta saa loistaa kirja. Uskon
 Puhuja 0: kyllä senkin. Olen kahdesta jo yrittänyt kuunnella sitä sen takia, että saa niin paljon siitä puhua.
 Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos, Marko Junkkari. Kiitos.
 Puhuja 0: Kiitos Alma Onaali. Kiitos. Minun nimi on Tuomas Peltomäki. Ääniä ja kuva. Kaiken minun mahtavan meille tekee tällä viikolla Janne Elkki.
@@ -443,7 +445,7 @@ Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi
 Puhuja 0: suurvaltapolitiikassa.
-Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä podcastiin, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
 Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui taloudellinen

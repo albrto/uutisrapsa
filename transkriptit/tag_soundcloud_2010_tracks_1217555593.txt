@@ -6,9 +6,9 @@ Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 0: Maailma on muuttunut tavalla,
-Puhuja 0: jota tuskin
-Puhuja 0: kukaan osasi ennakoida.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
@@ -29,17 +29,17 @@ Puhuja 0: kombinaatiolla ollaan nyt liikkeellä
 Puhuja 0: ensimmäistä kertaa ikinä tällä tavalla. On
 Puhuja 0: taloustoimittaja
 Puhuja 0: Alma Onali.
-Puhuja 2: Hei Alma. Moikka. Mun mielestä on ihanaa päästä Sohvin kanssa samaan aikaan studioon.
+Puhuja 3: Hei Alma. Moikka. Mun mielestä on ihanaa päästä Sohvin kanssa samaan aikaan studioon.
 Puhuja 0: Joo.
 Puhuja 0: Munkin mielestä, kumman tahansa teistä kanssa, on aina
 Puhuja 0: ihanaa päästä studioon yhtä aikaa. Nyt on tosi ihanaa, kun
 Puhuja 0: olet siinä. Nimittäin Marko Junkkari on...
 Puhuja 0: Sillä oli jotain tärkeitä juttu, kiireitä, josta varmasti kuulemme myöhemmin.
-Puhuja 2: Joten nyt ollaan tämmöisiä. Se on taas metsästämässä sotarikollisia Sveitsissä.
+Puhuja 3: Joten nyt ollaan tämmöisiä. Se on taas metsästämässä sotarikollisia Sveitsissä.
 Puhuja 0: Niin,
 Puhuja 0: ollaan paremmalla
 Puhuja 0: kombinaatiolla liikenteessä.
-Puhuja 1: Naisvalta kerrankin. Kerrankin.
+Puhuja 2: Naisvalta kerrankin. Kerrankin.
 Puhuja 0: Tämän viikon podcastissa keskustellaan
 Puhuja 0: hyvin
 Puhuja 0: epämääräisestä,
@@ -107,18 +107,18 @@ Puhuja 0: Yhdysvallat, jossain määrin myös Iso-Britannia, on poikkeuksellisen
 Puhuja 0: paljon koko ajan
 Puhuja 0: ison ääneen pitäneet lehdistötilaisuuksia,
 Puhuja 0: kaksi vai kolmekin kertaa jopa presidentti Bidenin suulla.
-Puhuja 2: Koko homma tämä, että
-Puhuja 2: asuntojen hinnat ja asuntolainojen
-Puhuja 2: koot karkaavat kaikki aivan käsistä, niin kyllä se mun mielestä me ollaan nyt siinä murroskohdassa,
-Puhuja 1: että... Mitä
-Puhuja 1: keskustelu koskee meitä, keillä on asuntovarallisuutta.
-Puhuja 1: Koko tämä pandemia
-Puhuja 1: aikainen tilannehan on ollut se, että kun rahaa on ollut,
-Puhuja 1: niin ne keil
-Puhuja 1: on omaisuutta oli se sitten osakkeita tai asuntoja,
-Puhuja 1: niiden tilanne paranee
-Puhuja 1: ja
-Puhuja 1: muilla menee vähän heikommin.
+Puhuja 3: Koko homma tämä, että
+Puhuja 3: asuntojen hinnat ja asuntolainojen
+Puhuja 3: koot karkaavat kaikki aivan käsistä, niin kyllä se mun mielestä me ollaan nyt siinä murroskohdassa,
+Puhuja 2: että... Mitä
+Puhuja 2: keskustelu koskee meitä, keillä on asuntovarallisuutta.
+Puhuja 2: Koko tämä pandemia
+Puhuja 2: aikainen tilannehan on ollut se, että kun rahaa on ollut,
+Puhuja 2: niin ne keil
+Puhuja 2: on omaisuutta oli se sitten osakkeita tai asuntoja,
+Puhuja 2: niiden tilanne paranee
+Puhuja 2: ja
+Puhuja 2: muilla menee vähän heikommin.
 Puhuja 0: Saatiinpa täällä hymyihytymä.
 Puhuja 0: Halusin puhua tämän täysin nostaalta syistä olympialaisista.
 Puhuja 0: Mulle tulee niin valtavan hyvä fiilis, kun taustalla pajastaa joku selostaja, ehkä Kimmo Portila.
@@ -132,34 +132,34 @@ Puhuja 0: mikä syntyy. Siinä on jotain niin
 Puhuja 0: lämmintä ja turvallista ja
 Puhuja 0: sellaista
 Puhuja 0: hyvinvointivaltiosuuntaa. Niin. Ja
-Puhuja 1: minä syön... Se on tuossa Riisto Pekingessä.
-Puhuja 1: Joo, tosi mukavaa. Minä syytän myös
-Puhuja 1: tätä minun
-Puhuja 1: uudelleenkotoutumistani.
-Puhuja 1: Että samaistun tähän täysin.
-Puhuja 1: Ja olen aloittanut viikonloppuja
-Puhuja 1: laittamalla
-Puhuja 1: Yle Areenassa kisat päälle.
-Puhuja 1: Olen huudellut
-Puhuja 1: kotona
-Puhuja 1: yksin kattonut, niin sitten olen huudanut Vitsi tämä hiihto, tämä on ihan hullu laji.
+Puhuja 2: minä syön... Se on tuossa Riisto Pekingessä.
+Puhuja 2: Joo, tosi mukavaa. Minä syytän myös
+Puhuja 2: tätä minun
+Puhuja 2: uudelleenkotoutumistani.
+Puhuja 2: Että samaistun tähän täysin.
+Puhuja 2: Ja olen aloittanut viikonloppuja
+Puhuja 2: laittamalla
+Puhuja 2: Yle Areenassa kisat päälle.
+Puhuja 2: Olen huudellut
+Puhuja 2: kotona
+Puhuja 2: yksin kattonut, niin sitten olen huudanut Vitsi tämä hiihto, tämä on ihan hullu laji.
 Puhuja 0: Ja sitten lapset oli siellä. Niin mä soitin silleen, että Hei, pystytkökö sä telkkarin päällä, että mä haluan, että ne kokee.
-Puhuja 0: Sitten mä
-Puhuja 1: kävin
-Puhuja 1: siellä koulussa keikalla just silloin, kun Iivo voitti kultaa. Ja sitten olin ihan sillein, että jos oppilaat katsoivat kännyköitä tunnilla. Ja sitten kun se voitti, ne rupesivat tuulettaa. Olin, että oho, tämä siirtyy eteenpäin
-Puhuja 1: uusille sukupolville.
-Puhuja 2: Mua ei niin paljon kiinnosta katsoa urheilua, kun minua kiinnostaa itse kärsiä. Olen menossa ensi viikon viikonloppuun suorittaa kaukopartiohiihdon.
-Puhuja 2: Seitsemänkymmentäviisi kilometriä
-Puhuja 2: me tässä suunnistusta. Kuusuksilla. Sellaiset lankot armeijalta yli. Just näin. Paitsi, että tänä vuonna ei ilmeisesti saa edes vuokrata armeijalta lankkuisuuksia, vaan pitää mennä omista tietoisuksilla. Tämä ei ollut vitsi.
-Puhuja 2: Ei, kun olen oikeasti menossa tekemään tällaisen seitsemänkymmentäviisi kilometriä
-Puhuja 2: puskahiihdon
-Puhuja 2: ensi viikolla. Joo, jonka olen joskus voinut tehdä myös Nils niarmijan suhteen. Kaksi vuotta sitten suoritin sen viimeksi ja Jotta se olisi hauskempaa, me teemme sen yöllä.
-Puhuja 2: Se seitsemänkymmentäviisi kilometriä. Se aito koko. Partiohiihtoreittihän
-Puhuja 1: on kolmesataa kilometriä. Ja tehdäänkö se kaikkien latujen ulkopuolella?
-Puhuja 1: Joo.
-Puhuja 2: Mutta voin hakea näistä
-Puhuja 2: inspiraatiota jostain Iivosta ja muista, että heillä on kyllä
-Puhuja 2: henkeä. Heillä on speed
+Puhuja 1: Sitten mä
+Puhuja 2: kävin
+Puhuja 2: siellä koulussa keikalla just silloin, kun Iivo voitti kultaa. Ja sitten olin ihan sillein, että jos oppilaat katsoivat kännyköitä tunnilla. Ja sitten kun se voitti, ne rupesivat tuulettaa. Olin, että oho, tämä siirtyy eteenpäin
+Puhuja 2: uusille sukupolville.
+Puhuja 3: Mua ei niin paljon kiinnosta katsoa urheilua, kun minua kiinnostaa itse kärsiä. Olen menossa ensi viikon viikonloppuun suorittaa kaukopartiohiihdon.
+Puhuja 3: Seitsemänkymmentäviisi kilometriä
+Puhuja 3: me tässä suunnistusta. Kuusuksilla. Sellaiset lankot armeijalta yli. Just näin. Paitsi, että tänä vuonna ei ilmeisesti saa edes vuokrata armeijalta lankkuisuuksia, vaan pitää mennä omista tietoisuksilla. Tämä ei ollut vitsi.
+Puhuja 3: Ei, kun olen oikeasti menossa tekemään tällaisen seitsemänkymmentäviisi kilometriä
+Puhuja 3: puskahiihdon
+Puhuja 3: ensi viikolla. Joo, jonka olen joskus voinut tehdä myös Nils niarmijan suhteen. Kaksi vuotta sitten suoritin sen viimeksi ja Jotta se olisi hauskempaa, me teemme sen yöllä.
+Puhuja 3: Se seitsemänkymmentäviisi kilometriä. Se aito koko. Partiohiihtoreittihän
+Puhuja 2: on kolmesataa kilometriä. Ja tehdäänkö se kaikkien latujen ulkopuolella?
+Puhuja 2: Joo.
+Puhuja 3: Mutta voin hakea näistä
+Puhuja 3: inspiraatiota jostain Iivosta ja muista, että heillä on kyllä
+Puhuja 3: henkeä. Heillä on speed
 Puhuja 0: Asiallisesti olin
 Puhuja 0: jotenkin tyytyväinen siihen, että olin jälleen kerran totaalisen väärässä siinä, että olin hahmotellut jotain semmoista...
 Puhuja 0: Minä jotenkin hoidan oman sellaisen intrrospekon silleen, että minä hahmottelen jotain somepostausta
@@ -168,46 +168,46 @@ Puhuja 0: Ja
 Puhuja 0: se
 Puhuja 0: sellainen
 Puhuja 0: kolumni-idea, mikä minulla oli, oli jotenkin se varmistus siitä, miten huono Suomi on ja miksi Norja ja ruotsi ja kaikki muut ovat niin hyviä. Ja sitten kun se
-Puhuja 1: oli totaosit just toisin päin... Tosin Norja ja Ruotsi on saanut ihan sikana enemmän mitaleja.
-Puhuja 1: Norja on saanut jotain yli kaksikymmentä ja Suomi on saanut ehkä neljä.
-Puhuja 1: Mutta
-Puhuja 1: ne ei ole ehkä ollut huvilla.
-Puhuja 1: Ja hiihdossa me olemme nyt kai pärjätty paremmin kuin pitkän aikaa.
-Puhuja 1: Mutta niillä on vähän enemmän sitä lajikirjoa.
-Puhuja 1: Koska ne ovat vain niin paljon parempia kaikessa kuin me. Mutta vähän loukkaannuin myös
-Puhuja 1: Twitterissä, kun
-Puhuja 1: amerikkalainen toimittaja mielipideautomaattihahmo
-Puhuja 1: Matthew Equeecias
-Puhuja 1: twiittaisi.
-Puhuja 1: Että se pilkkaisi norjalaisia ja sitä, että ne laittaa öljylahat siihen, että ne ovat olleet
-Puhuja 1: obscuureissa
-Puhuja 1: talvilajeissa.
-Puhuja 1: Se on mitaleja. Ja sitten loukkaanuduin meidän kaikkien pohjoismaalaisten
-Puhuja 1: puolesta ja talvilajien ja hiihrien
-Puhuja 1: puolesta.
-Puhuja 1: Ja huomasin myös, kun luin kommentteja, että siellä oli myös hyvin paljon loukkaantuneita
-Puhuja 2: norjalaisia kovetoja. Jes!
-Puhuja 1: Just näin!
-Puhuja 2: Kapskuurit talvilaji. Kyllä siis minä ihan hetkenä, minä hyvänsä pidän hiihtoa
-Puhuja 2: todella paljon arvokkaampana ja todellisempana urheiluna kuin vaikka
+Puhuja 2: oli totaosit just toisin päin... Tosin Norja ja Ruotsi on saanut ihan sikana enemmän mitaleja.
+Puhuja 2: Norja on saanut jotain yli kaksikymmentä ja Suomi on saanut ehkä neljä.
+Puhuja 2: Mutta
+Puhuja 2: ne ei ole ehkä ollut huvilla.
+Puhuja 2: Ja hiihdossa me olemme nyt kai pärjätty paremmin kuin pitkän aikaa.
+Puhuja 2: Mutta niillä on vähän enemmän sitä lajikirjoa.
+Puhuja 2: Koska ne ovat vain niin paljon parempia kaikessa kuin me. Mutta vähän loukkaannuin myös
+Puhuja 2: Twitterissä, kun
+Puhuja 2: amerikkalainen toimittaja mielipideautomaattihahmo
+Puhuja 2: Matthew Equeecias
+Puhuja 2: twiittaisi.
+Puhuja 2: Että se pilkkaisi norjalaisia ja sitä, että ne laittaa öljylahat siihen, että ne ovat olleet
+Puhuja 2: obscuureissa
+Puhuja 2: talvilajeissa.
+Puhuja 2: Se on mitaleja. Ja sitten loukkaanuduin meidän kaikkien pohjoismaalaisten
+Puhuja 2: puolesta ja talvilajien ja hiihrien
+Puhuja 2: puolesta.
+Puhuja 2: Ja huomasin myös, kun luin kommentteja, että siellä oli myös hyvin paljon loukkaantuneita
+Puhuja 3: norjalaisia kovetoja. Jes!
+Puhuja 2: Just näin!
+Puhuja 3: Kapskuurit talvilaji. Kyllä siis minä ihan hetkenä, minä hyvänsä pidän hiihtoa
+Puhuja 3: todella paljon arvokkaampana ja todellisempana urheiluna kuin vaikka
 Puhuja 0: Varsinainen hiihto avaa hirveää. Kuka tahansa, joka on kasvanut pohjoisessa, on pihahiihtoa,
 Puhuja 0: koska meidän on tietenkin ollut pakkohiihtää.
 Puhuja 0: Ja
-Puhuja 1: tuota ei, ei, ei. Mitä sitten, jos viikonloppuna vielä tulee ultimaattinen
-Puhuja 1: olympiahetki,
-Puhuja 1: jos leijonat pelaa signaalissa.
+Puhuja 2: tuota ei, ei, ei. Mitä sitten, jos viikonloppuna vielä tulee ultimaattinen
+Puhuja 2: olympiahetki,
+Puhuja 2: jos leijonat pelaa signaalissa.
 Puhuja 0: Se on kyllä kova.
-Puhuja 1: Se oli ihan hienoa. Minä kuuntelin sen kolmannen erän,
-Puhuja 1: voitti nousi kolmekymmentä
-Puhuja 1: tappiota
-Puhuja 2: radio vähän rätisee.
-Puhuja 2: Sieltä kuuluu selostusta.
-Puhuja 2: Mutta toisaalta, kun ei selostajatkaan puhu enää samalla tavalla kuin entisaika.
+Puhuja 2: Se oli ihan hienoa. Minä kuuntelin sen kolmannen erän,
+Puhuja 2: voitti nousi kolmekymmentä
+Puhuja 2: tappiota
+Puhuja 3: radio vähän rätisee.
+Puhuja 3: Sieltä kuuluu selostusta.
+Puhuja 3: Mutta toisaalta, kun ei selostajatkaan puhu enää samalla tavalla kuin entisaika.
 Puhuja 0: Radio on aika paljon. Mun mielestä Kimmo Portila, joka on ilmeisesti ollut pääselosteja,
 Puhuja 0: tuolla ainakin yksi pääselosteja. Hän on todella hyvä. Tunnen Kimmon,
 Puhuja 0: hän sattui olemaan oman vaimonsa kanssa häämatkalla samassa paikassa, missä olin omani kanssa, niin ihan sattumalta, niin tunnetaan sieltä. Oliko New York Timesin toimittaja paikalla? Ei ollut. Ei ollut Tyrnävän villisikäfarmilla,
 Puhuja 0: missä mun
-Puhuja 1: hoitaa myös niin.
+Puhuja 2: hoitaa myös niin.
 Puhuja 0: Okei.
 Puhuja 0: Ehkä tässä on nyt naurettu ja läpsitelty tarpeeksi.
 Puhuja 0: Jep.
@@ -226,65 +226,65 @@ Puhuja 0: Hyvinkäällä. Se on semmoinen kaksoislammi ja piilalammi,
 Puhuja 0: johon kaikki suuntaavat ja upeat kalliami maisemat
 Puhuja 0: ihmisille nauhkua ja kerrottiin juttujanne, niin mistä teille
 Puhuja 0: kerrottiin?
-Puhuja 2: No mä ajattelin
-Puhuja 2: puhua seksistä.
-Puhuja 2: Joo. Mä
-Puhuja 2: olen kuunnellut tässä
-Puhuja 2: Yle Areenassa
-Puhuja 2: vasta julkaistua uutta podcastia nimeltä hehku.
+Puhuja 3: No mä ajattelin
+Puhuja 3: puhua seksistä.
+Puhuja 3: Joo. Mä
+Puhuja 3: olen kuunnellut tässä
+Puhuja 3: Yle Areenassa
+Puhuja 3: vasta julkaistua uutta podcastia nimeltä hehku.
 Puhuja 0: Tässä on ollut juttua, mä olen kuullut tästä. Seksi-podcastia.
-Puhuja 2: Sehän on aiheuttanut suuresti
-Puhuja 2: sanomista, porua ja pahaa mieltä muun muassa Twitterissä
-Puhuja 2: jo etukäteen.
-Puhuja 2: Sieltä on tavallaan ja musta tuntuu, että Ai sellaista meidän verorahoilla.
-Puhuja 2: Ei jäänyt verorahoilla tällaista.
-Puhuja 2: Joo ja musta tuntuu, että
-Puhuja 2: sitä
-Puhuja 2: on viisauttaneet sellaiset ihmiset, jotka eivät ole aidosti kuunnelleet sitä podcastia, vaan on vaan lukenut, että kun se esittelytekstiminen
-Puhuja 2: Janne Lankoski ja Malena Holmström, että ne on mun kavereita,
-Puhuja 2: niin
-Puhuja 2: esittelytekstissä luki jotenkin näin, että Malena ja Janne omistavat
-Puhuja 2: asunnon yhdessä, mutta he eivät seurustele.
-Puhuja 2: Vau, ja nyt he puhuvat seksistä tosi avoimesti.
+Puhuja 3: Sehän on aiheuttanut suuresti
+Puhuja 3: sanomista, porua ja pahaa mieltä muun muassa Twitterissä
+Puhuja 3: jo etukäteen.
+Puhuja 3: Sieltä on tavallaan ja musta tuntuu, että Ai sellaista meidän verorahoilla.
+Puhuja 3: Ei jäänyt verorahoilla tällaista.
+Puhuja 3: Joo ja musta tuntuu, että
+Puhuja 3: sitä
+Puhuja 3: on viisauttaneet sellaiset ihmiset, jotka eivät ole aidosti kuunnelleet sitä podcastia, vaan on vaan lukenut, että kun se esittelytekstiminen
+Puhuja 3: Janne Lankoski ja Malena Holmström, että ne on mun kavereita,
+Puhuja 3: niin
+Puhuja 3: esittelytekstissä luki jotenkin näin, että Malena ja Janne omistavat
+Puhuja 3: asunnon yhdessä, mutta he eivät seurustele.
+Puhuja 3: Vau, ja nyt he puhuvat seksistä tosi avoimesti.
 Puhuja 0: Jos
-Puhuja 2: Twitterissä nousi jotain möyhyä, että taas Yle verorahoilla polygamiaa ja jotain tällaista edistää, mutta
-Puhuja 2: podcast on todella
-Puhuja 2: rehellinen
-Puhuja 2: ja aito ja aidosti jotakin sellaista, millaista en ole ikinä ennen kuullut suomalaisessa
-Puhuja 2: podcast ja mediamaailmassa.
-Puhuja 2: Janne ja Maleena
-Puhuja 2: jakavat omia ajatuksiaan ja kokemuksiaan
-Puhuja 2: todella
-Puhuja 2: avoimesti
-Puhuja 2: ja todella
-Puhuja 2: kuitenkin
-Puhuja 2: niin kunnioittavalla tavalla se tapa, millä ne puhuvat toisilleen
-Puhuja 2: ja millä tavalla
-Puhuja 2: ne kuuntelevat toisiaan ja kysyvät toisiltaan
-Puhuja 2: asioita.
-Puhuja 2: Siinä on jotakin sellaista,
-Puhuja 2: että se on samaan aikaan sellaista
-Puhuja 2: todella freesia, mutta siinä on myös pieni
-Puhuja 2: sellainen yleläinen
-Puhuja 2: valistusnäkökulma.
-Puhuja 2: Tiedätkökö sellainen, että tällä tavalla
-Puhuja 2: suostumuksellisesta
-Puhuja 2: seksistä tänä päivänä
-Puhuja 2: kuuluisi puhua ja näin.
-Puhuja 2: Mun
-Puhuja 2: mielestä
-Puhuja 2: se on aidosti sellainen, että
-Puhuja 2: sitä kun kuuntelee,
-Puhuja 2: rupeaa tietysti omat kaikki käsitykset
-Puhuja 2: ja ajatukset tuulettumaan ja laukkaamaan. Ei tarvitse olla mitenkään.
-Puhuja 2: Se,
-Puhuja 2: missä ihmiset menevät mun mielestä
-Puhuja 2: pieleen tuollaisessa kritiikissä on se, että he nyt ajattelevat, että Yle on sitä mieltä, että
-Puhuja 2: kaikkien pitää ottaa anaali tappija
-Puhuja 2: anukseen nyt heti saman tien silleen, että ei, mitä jos vaan kuuntelisit
+Puhuja 3: Twitterissä nousi jotain möyhyä, että taas Yle verorahoilla polygamiaa ja jotain tällaista edistää, mutta
+Puhuja 3: podcast on todella
+Puhuja 3: rehellinen
+Puhuja 3: ja aito ja aidosti jotakin sellaista, millaista en ole ikinä ennen kuullut suomalaisessa
+Puhuja 3: podcast ja mediamaailmassa.
+Puhuja 3: Janne ja Maleena
+Puhuja 3: jakavat omia ajatuksiaan ja kokemuksiaan
+Puhuja 3: todella
+Puhuja 3: avoimesti
+Puhuja 3: ja todella
+Puhuja 3: kuitenkin
+Puhuja 3: niin kunnioittavalla tavalla se tapa, millä ne puhuvat toisilleen
+Puhuja 3: ja millä tavalla
+Puhuja 3: ne kuuntelevat toisiaan ja kysyvät toisiltaan
+Puhuja 3: asioita.
+Puhuja 3: Siinä on jotakin sellaista,
+Puhuja 3: että se on samaan aikaan sellaista
+Puhuja 3: todella freesia, mutta siinä on myös pieni
+Puhuja 3: sellainen yleläinen
+Puhuja 3: valistusnäkökulma.
+Puhuja 3: Tiedätkökö sellainen, että tällä tavalla
+Puhuja 3: suostumuksellisesta
+Puhuja 3: seksistä tänä päivänä
+Puhuja 3: kuuluisi puhua ja näin.
+Puhuja 3: Mun
+Puhuja 3: mielestä
+Puhuja 3: se on aidosti sellainen, että
+Puhuja 3: sitä kun kuuntelee,
+Puhuja 3: rupeaa tietysti omat kaikki käsitykset
+Puhuja 3: ja ajatukset tuulettumaan ja laukkaamaan. Ei tarvitse olla mitenkään.
+Puhuja 3: Se,
+Puhuja 3: missä ihmiset menevät mun mielestä
+Puhuja 3: pieleen tuollaisessa kritiikissä on se, että he nyt ajattelevat, että Yle on sitä mieltä, että
+Puhuja 3: kaikkien pitää ottaa anaali tappija
+Puhuja 3: anukseen nyt heti saman tien silleen, että ei, mitä jos vaan kuuntelisit
 Puhuja 0: ja... Jos oli kaksi annosta liikaa tähän palkassa. Kaksaa,
-Puhuja 2: joo.
-Puhuja 2: Ylellä niitä ei ole bliipattu, ja mun mielestä ne puhuu tosi järkevästi ja kauniisti.
+Puhuja 1: joo.
+Puhuja 3: Ylellä niitä ei ole bliipattu, ja mun mielestä ne puhuu tosi järkevästi ja kauniisti.
 Puhuja 0: Seksi. Se on lähtökohtaisesti aina paskaa. Joo. Mutta ilmeisesti
 Puhuja 0: tässä on silleen onnistuttu.
 Puhuja 0: Mun
@@ -305,60 +305,60 @@ Puhuja 0: julkisessa keskustelussa,
 Puhuja 0: paitsi tässä potkessa.
 Puhuja 0: Sillä tavalla se kuulosti aika
 Puhuja 0: arvokkaalta.
-Puhuja 2: Kyllä ehdottomasti.
-Puhuja 2: Mun mielestä siinä tehdään tietynlaista pioneerityötä
-Puhuja 2: tässä. Mun pointti on just se, että ei tarvitse olla mitenkään samaa mieltä heidän viestistään
-Puhuja 2: ja myöskään, että just vaikka tuntuisi ihan saakelin kiusalliselta kuunnella tuollaista podcastia, ei sitä tarvitse kuunnella,
-Puhuja 2: mutta
-Puhuja 2: yleisesti vaan, mun mielestä se on
-Puhuja 2: kiinnostavaa ja uudenlaista sisältöä, mitä ennen ennen kuulu. Kyllä. Mikä se oli? Hehku löytyy Yle Areenasta? Joo, heti kun avaan Yle Areenalla,
+Puhuja 3: Kyllä ehdottomasti.
+Puhuja 3: Mun mielestä siinä tehdään tietynlaista pioneerityötä
+Puhuja 3: tässä. Mun pointti on just se, että ei tarvitse olla mitenkään samaa mieltä heidän viestistään
+Puhuja 3: ja myöskään, että just vaikka tuntuisi ihan saakelin kiusalliselta kuunnella tuollaista podcastia, ei sitä tarvitse kuunnella,
+Puhuja 3: mutta
+Puhuja 3: yleisesti vaan, mun mielestä se on
+Puhuja 0: kiinnostavaa ja uudenlaista sisältöä, mitä ennen ennen kuulu. Kyllä. Mikä se oli? Hehku löytyy Yle Areenasta? Joo, heti kun avaan Yle Areenalla,
 Puhuja 0: se on
 Puhuja 0: No niin.
 Puhuja 0: Tässä on liikaa. Pahoittelut, että kaikilla on kummallista.
-Puhuja 2: Sen
-Puhuja 2: haluan sanoa, että se, mikä siinä on mun mielestä erityistä, on silleen, että on kyse ihmisistä, jotka eivät ole mitenkään kasvaneet
-Puhuja 2: sellaiseen
-Puhuja 2: suostumuksellisen
-Puhuja 2: vapaan
-Puhuja 2: ja tällaisen seksin maailmaan, vaan ihmisistä, jotka ovat
-Puhuja 2: yhtä estyneitä kuin tekaksi
-Puhuja 2: ja jotka sitten yrittävät diilaa sen oman
-Puhuja 2: estyneen
-Puhuja 2: menneisyydensä
-Puhuja 2: kanssa ja vapautua siitä
-Puhuja 1: No niin, mutta minähän katsoin...
-Puhuja 1: Tämä ei ole mikään uusi juttu, mutta Netflixiin on tullut Ali Wong nimisen koomikon uusi spesiaali, jota minun kaverini alkoi suosittelemaan. Ja minut sanoin, että myös nämä aiemmat ovat hyviä, niin aloin katsomaan siitä ekasta, joka oli useita vuosia
-Puhuja 1: vanha.
-Puhuja 1: Ja se oli kyllä minun mielestä todella hauska. Se on
-Puhuja 1: amerikkalainen aasialainen
-Puhuja 1: nainen, joka tekee
-Puhuja 1: ainakin yhden spesiaalin perusteella
-Puhuja 1: aika törkeää. Kakkahuumoria on siinä ja hän on siinä pitkälle raskaana
-Puhuja 1: lavalla.
-Puhuja 1: Siinä
-Puhuja 1: käydään
-Puhuja 1: sekä eritteitä että seksiä että sukupuolia. Ollaan sellaisia klassisia
-Puhuja 1: miestäännd up koomikon aiheita, mutta niitä kertookin sellainen skarppi,
-Puhuja 1: raskaana oleva nainen.
-Puhuja 1: Mielestäni Ali Wong
-Puhuja 1: oli aika hauska ja odotan, että pääsen katsomaan ne kaksi muuta, jotka
-Puhuja 1: sieltä löytyy.
-Puhuja 1: Ja baby Coopra oli se
-Puhuja 1: ensimmäinen.
+Puhuja 3: Sen
+Puhuja 3: haluan sanoa, että se, mikä siinä on mun mielestä erityistä, on silleen, että on kyse ihmisistä, jotka eivät ole mitenkään kasvaneet
+Puhuja 3: sellaiseen
+Puhuja 3: suostumuksellisen
+Puhuja 3: vapaan
+Puhuja 3: ja tällaisen seksin maailmaan, vaan ihmisistä, jotka ovat
+Puhuja 3: yhtä estyneitä kuin tekaksi
+Puhuja 3: ja jotka sitten yrittävät diilaa sen oman
+Puhuja 3: estyneen
+Puhuja 3: menneisyydensä
+Puhuja 3: kanssa ja vapautua siitä
+Puhuja 2: No niin, mutta minähän katsoin...
+Puhuja 2: Tämä ei ole mikään uusi juttu, mutta Netflixiin on tullut Ali Wong nimisen koomikon uusi spesiaali, jota minun kaverini alkoi suosittelemaan. Ja minut sanoin, että myös nämä aiemmat ovat hyviä, niin aloin katsomaan siitä ekasta, joka oli useita vuosia
+Puhuja 2: vanha.
+Puhuja 2: Ja se oli kyllä minun mielestä todella hauska. Se on
+Puhuja 2: amerikkalainen aasialainen
+Puhuja 2: nainen, joka tekee
+Puhuja 2: ainakin yhden spesiaalin perusteella
+Puhuja 2: aika törkeää. Kakkahuumoria on siinä ja hän on siinä pitkälle raskaana
+Puhuja 2: lavalla.
+Puhuja 2: Siinä
+Puhuja 2: käydään
+Puhuja 2: sekä eritteitä että seksiä että sukupuolia. Ollaan sellaisia klassisia
+Puhuja 2: miestäännd up koomikon aiheita, mutta niitä kertookin sellainen skarppi,
+Puhuja 2: raskaana oleva nainen.
+Puhuja 2: Mielestäni Ali Wong
+Puhuja 2: oli aika hauska ja odotan, että pääsen katsomaan ne kaksi muuta, jotka
+Puhuja 2: sieltä löytyy.
+Puhuja 2: Ja baby Coopra oli se
+Puhuja 2: ensimmäinen.
 Puhuja 0: Te olette molemmat todella...
-Puhuja 0: Viljeltarinassa
-Puhuja 2: Komonborrain
-Puhuja 2: primaveraali kuin aasikeväällä
-Puhuja 1: Kyllä. Ja sitten haluan vielä sanoa, että huomenna kello seitsemäntoista
-Puhuja 1: Roospat-sivullinen
-Puhuja 1: kirjakaupassa Kaisaniemessä
-Puhuja 1: haastattelen
-Puhuja 1: amerikansuomalaista
-Puhuja 1: Outi Paba Marcosia, jolta on tullut kirja
-Puhuja 1: siitä omasta elämästään Trumpin Amerikassa. Tulkaa sinne paikan päälle kuuntelemaan, kun me puhutaan
-Puhuja 1: Amerikasta ja Truista ja
-Puhuja 1: arjesta
-Puhuja 1: tämän kaiken keskellä.
+Puhuja 1: Viljeltarinassa
+Puhuja 3: Komonborrain
+Puhuja 3: primaveraali kuin aasikeväällä
+Puhuja 2: Kyllä. Ja sitten haluan vielä sanoa, että huomenna kello seitsemäntoista
+Puhuja 2: Roospat-sivullinen
+Puhuja 2: kirjakaupassa Kaisaniemessä
+Puhuja 2: haastattelen
+Puhuja 2: amerikansuomalaista
+Puhuja 2: Outi Paba Marcosia, jolta on tullut kirja
+Puhuja 2: siitä omasta elämästään Trumpin Amerikassa. Tulkaa sinne paikan päälle kuuntelemaan, kun me puhutaan
+Puhuja 2: Amerikasta ja Truista ja
+Puhuja 2: arjesta
+Puhuja 2: tämän kaiken keskellä.
 Puhuja 0: Mä haluan suositella
 Puhuja 0: Erinomaista,
 Puhuja 0: erinomaista
@@ -381,8 +381,7 @@ Puhuja 0: The Night of,
 Puhuja 0: joka on
 Puhuja 0: todella hyvä,
 Puhuja 0: todella,
-Puhuja 0: todella, todella käsittämättömän
-Puhuja 0: hyvä.
+Puhuja 0: todella, todella käsittämättömän hyvä.
 Puhuja 0: On
 Puhuja 0: tämmöinen tiivistunnelmainen
 Puhuja 0: semistimystinen,
@@ -436,17 +435,16 @@ Puhuja 0: Sitä ei olisi tapahtunut, jos Markun olisi ollut täällä
 Puhuja 0: suitsimassa
 Puhuja 0: teitä
 Puhuja 0: kahta.
-Puhuja 2: Seksuaalisuus
-Puhuja 2: on selvästi liian vaikea asia
-Puhuja 2: kelle tahansa, joka on yli yhdeksäntoista.
+Puhuja 3: Seksuaalisuus
+Puhuja 3: on selvästi liian vaikea asia
+Puhuja 3: kelle tahansa, joka on yli yhdeksäntoista.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
-Puhuja 0: Kaiken keskiössä on yhden suomalaisen
-Puhuja 0: yrityksen eli Fortumin, melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan, joka päätyi aseeksi aseeksi suurvaltapolitiikassa.
-Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä Podcastini, mä luulin, että mä lähtisin selvittämään
 Puhuja 0: kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui

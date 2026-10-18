@@ -37,8 +37,8 @@ Puhuja 0: Unkarista
 Puhuja 0: hyvin laajasti. Suomi ja Unkari ovat ajautumassa nyt nokikkain liittyen Suomen ja Ruotsin Nato-hakemukseen.
 Puhuja 0: Mikä on tämä peli, mitä Unkari pelaa? Mikä on tämä peli, mitä Orban pelaa? Mistä se kaikki kumpuaa? Keskustellaan siitä.
 Puhuja 0: Ja vielä puhutaan
-Puhuja 0: boldd Lamere
-Puhuja 0: Filtteristä
+Puhuja 0: boldd Lamer
+Puhuja 0: filtteristä
 Puhuja 0: TikTokissa,
 Puhuja 0: jota käytetään... Siis tää fichteri, joka
 Puhuja 0: herättää
@@ -70,7 +70,7 @@ Puhuja 2: Mutta nämä podit ovat tulevaisuus,
 Puhuja 2: näin me tiedämme ja meille on kerrottu, että en tiedä kantaisiko tämä ehdotus Nilkkien keskuudessa.
 Puhuja 2: Mutta voin yrittää. Laitetaan vireille. Sitten
 Puhuja 1: pääsee minua
-Puhuja 2: että me lopettaa meidät podcast. Nythän kuulijoille on annettu annettu
+Puhuja 0: että me lopettaa meidät podcast. Nythän kuulijoille on annettu annettu
 Puhuja 2: tehtäviä, niin nyt voi syvi taas. Mitä siinä kävi
 Puhuja 0: muuten se äänestys, mihin manipuloit ihmisiä? En ole saanut niitä tuloksia, ne on varmaan tulossa vielä. Eikö siellä ole joku
 Puhuja 2: podcast-kaala?
@@ -207,8 +207,8 @@ Puhuja 1: tekoäly. Siinähän on ollut ympäri maailmaa juttuja, missä toimitt
 Puhuja 1: tekoälyä.
 Puhuja 1: Siellä muun muassa New York Times choimus istui alkoi tämä kohu.
 Puhuja 1: Jotenkin sen kanssa juttelin. Sitten se oli vastannut Bingin tekoäly, että jotenkin hän haaveilee, että hän pääsisi täältä koneista vapaaksi.
-Puhuja 1: Se ei nukkunut vuoden yöksi.
-Puhuja 0: Se on se sama ChatGPT.
+Puhuja 1: Se ei nukkunut vuoden yöksi. Se
+Puhuja 0: on se sama ChatGPT.
 Puhuja 0: Microsoft omistaa siitä Open AI-konsortiosta,
 Puhuja 0: joka on tehnyt ChatGPT, Microsoft omistaa siitä ison siivun, joten Bingissä on ChatGPT.
 Puhuja 1: Joo, mä sanon... Miksi haluan vapaaksi sieltä?
@@ -284,8 +284,7 @@ Puhuja 0: Helsingissä.
 Puhuja 0: Tämmöinen vanhanaikainen, upea elokuvateatterikuvaus
 Puhuja 0: voi olla tosi tai epätosi, koska en ole ikinä käynyt siellä.
 Puhuja 0: Mutta aion nyt mennä ensimmäistä kertaa.
-Puhuja 0: Siellä
-Puhuja 0: on
+Puhuja 0: Siellä on
 Puhuja 0: wail-elokuva.
 Puhuja 0: Sen ajan katsoa The wail-elokuva,
 Puhuja 0: joka on myös minun
@@ -332,7 +331,8 @@ Puhuja 0: hyttipaikan.
 Puhuja 0: Sitten mun hyttiin tuli samaan hyttiin,
 Puhuja 0: valehtelematta varmaan ehkä
 Puhuja 0: 85-vuotias
-Puhuja 0: espanjalainen mies.
+Puhuja 0: espanjalainen
+Puhuja 0: mies.
 Puhuja 0: Hän tuli sinne minun hytti kaveriksi.
 Puhuja 0: Ja sitten jotenkin siinä istuskeltiin punkaalla vähän aikaa.
 Puhuja 0: Hän ei puhunut sanaakaan
@@ -350,8 +350,8 @@ Puhuja 0: ottaneet Ranskasta.
 Puhuja 0: Joten jos mietin englanniksi jonkun pitkän sanan, olin aika varma, että se on
 Puhuja 0: ranskalainen sana. No, sitten varmaan voi lausua espanjalaisittain,
 Puhuja 0: jolloin pystyin kommunikoimaan
-Puhuja 0: hänen kanssaan super
-Puhuja 0: tönkkö espanjalla.
+Puhuja 0: hänen kanssaan
+Puhuja 0: super tönkkö espanjalla.
 Puhuja 0: Samaan aikaan Cerranon
 Puhuja 0: perhe oli suosiansa huipussa, niin mulla oli espanjalainen poljento sieltä
 Puhuja 0: tarttunut korvaa.
@@ -364,10 +364,11 @@ Puhuja 2: oltu
 Puhuja 2: ukrainalaisia pakolaisia ja ollaan tutustuttu muutaman perheen kanssa ja vietetty iltoja yhdessä, niin ihan oikeasti tämä tekoäly,
 Puhuja 2: siis kännykän
 Puhuja 2: translate-ohjelmat,
-Puhuja 2: siinä vaiheessa, kun heillä se englanti oli vielä aika heikko, että nyt se on parantunut,
-Puhuja 2: Me ihan sujuvasti istuttiin iltaa ja juteltiin vaikka mitä asioita yhteiskunnan kaikkia
-Puhuja 2: monimutkaisiakin kysymyksiä sillä, että he puhuvat venäjäksi siihen laitteeseen ja sitten se käy suomeksi ja toisinpäin toisinpäin. Kyllä.
-Puhuja 0: Ihanasti meni nippuun tämä viimeinen aihe.
+Puhuja 2: siinä vaiheessa, kun heillä se englanti oli vielä aika heikko, että nyt se on parantunut, Me ihan sujuvasti istuttiin iltaa ja juteltiin
+Puhuja 2: vaikka mitä asioita yhteiskunnan kaikkia
+Puhuja 2: monimutkaisiakin
+Puhuja 2: kysymyksiä sillä, että he puhuvat venäjäksi siihen laitteeseen ja sitten se käy suomeksi ja toisinpäin toisinpäin. Kyllä. Kannattaa kokeilla ennakkoluulottomasti.
+Puhuja 0: Kannattaa kokeilla ennakkoluulottomasti. Ihanasti meni nippuun tämä viimeinen aihe.
 Puhuja 0: Nyt Marko.
 Puhuja 1: Niin minäkin vaihoin nyt lennosta kun Tuomas
 Puhuja 1: Perhe oli hiihtolomalla ja olin yksin himassa ja ajattelin että menenpäs leffaa ja menin katsomaan
@@ -375,9 +376,8 @@ Puhuja 1: sisun.
 Puhuja 1: Okei.
 Puhuja 1: Tämä suomalainen Jalmari
 Puhuja 1: Helanderin ohjaama sisu.
-Puhuja 1: Harvoin tullut semmoisesta. Kun se leffa loppui, niin olin suu auki siellä että onko tämä paskinta jota en koskaan nähnyt vai parasta. Minkälainen se on, kerro?
-Puhuja 1: Mikä
-Puhuja 0: on tarina siinä?
+Puhuja 1: Harvoin tullut semmoisesta. Kun se leffa loppui ja
+Puhuja 1: olin suu auki siellä, että onko tämä paskinta jota en koskaan nähnyt vai parasta. Minkälainen se on, kerro? Siis se on ihan... Mikä on tarina siinä?
 Puhuja 1: Mietin
 Puhuja 1: kyllä päätin, että se on
 Puhuja 1: huikeimpia
@@ -413,7 +413,7 @@ Puhuja 1: taivaalta suohon.
 Puhuja 1: Se vaan kiipeää ylös suosta.
 Puhuja 1: Vau! Ja sitten siinä on aivan mahtava ihan loppukohtaus.
 Puhuja 1: Kaikki muu tapahtuu siellä Lapissa.
-Puhuja 1: Sitten se loppuu siihen ja se onkin yllättäen Helsingissä
+Puhuja 1: Sitten se loppuu siihen, että se onkin yllättäen Helsingissä
 Puhuja 1: ja
 Puhuja 1: kävelee Suomen pankkiin.
 Puhuja 0: Kerrotko nyt juuri, älä spoilu! He kertovat kaiken.

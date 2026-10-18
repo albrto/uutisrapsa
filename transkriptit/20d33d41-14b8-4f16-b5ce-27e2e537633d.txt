@@ -34,7 +34,7 @@ Puhuja 3: Kyllä.
 Puhuja 1: Tuijan lisäksi paikalla on HS-visio
 Puhuja 1: toimituksen Pihla Saravilta.
 Puhuja 1: Moi. Tai Lapila.
-Puhuja 1: Mitä mieltä olet tästä
+Puhuja 1: Mitä mieltä sinä olet tästä
 Puhuja 1: syksyisestä käänteestä? Olisitko mieluummin Ipitsalla vai
 Puhuja 1: Senaatintorilla
 Puhuja 1: ottamassa vastaan tihkusadetta?
@@ -110,7 +110,7 @@ Puhuja 1: Elon Musk sanoi, että hänen tekoälynsa Grock pystyisi tämän vuode
 Puhuja 1: historiallisesti tarkan elokuvaversion Odysseyosta,
 Puhuja 1: mitä ikinä tällä sitten tarkoitetaankaan.
 Puhuja 1: Toisaalta, elokuvaa kritisoitiin myös kiistellyssä
-Puhuja 1: länsisaharassa kuvaamisesta sekä siitä, ettei kreikkalaisiin myytteihin perustuvassa elokuvassa ollut kreikkalaisia näyttelijöitä.
+Puhuja 1: Länsi-Saharassa kuvaamisesta sekä siitä, ettei kreikkalaisiin myytteihin perustuvassa elokuvassa ollut kreikkalaisia näyttelijöitä.
 Puhuja 1: Keskustelua herätti myös se, että Christapher Nolan ei järjestynyt influenssareille ennakonäytöksiä, vaan keskittyi nämä näytökset
 Puhuja 1: elokuvakriitikoihin.
 Puhuja 1: Kaikesta tästä huolimatta kaksisataayhdeksäntoista
@@ -130,14 +130,15 @@ Puhuja 2: siellä mieskarkkia?
 Puhuja 2: Kyllä on.
 Puhuja 2: Se on täynnä
 Puhuja 2: miehiä,
-Puhuja 2: jopa tällä Odysseyn vaimolla Penelopella, jota Ann Hatway esittää,
+Puhuja 2: jopa tällä Odyssein vaimolla Penelopella, jota Ann Hatway esittää,
 Puhuja 2: hänellähän on kosioita
 Puhuja 2: kilpailuun asti sillä aikaa, kun tämä hänen miehensä Odysseja yrittää löytää kotiin hänen
 Puhuja 2: luokseen.
 Puhuja 2: Itse pidin tästä
 Puhuja 2: elokuvasta.
-Puhuja 2: Ei haitannut oikeastaan se,
-Puhuja 2: että tässä olisi kästetty ihmisiä vääriin rooleihin.
+Puhuja 2: Ei haitannut oikeastaan se, että
+Puhuja 2: että tässä olisi
+Puhuja 2: kästetty ihmisiä vääriin rooleihin.
 Puhuja 2: Ehkä kun tässä puhutaan
 Puhuja 2: mytologiasta,
 Puhuja 2: niin se on minulle ihan samantekevää,
@@ -291,7 +292,7 @@ Puhuja 3: ymmärtää, että miehellä on visio ja on miehen oikeus toteuttaa se
 Puhuja 1: Kulttuuritoimittaja Johanna Valjakka itse asiassa vahvisti minulle, että
 Puhuja 1: Suomea lähin paikka
 Puhuja 1: nähdä tämä
-Puhuja 1: elokuva niin kuin Christopher Nolan sinun on tarkoittanut, löytyy Prahassa.
+Puhuja 1: elokuva niin kuin Christopher Nolan, sinun on tarkoittanut, löytyy Prahassa.
 Puhuja 1: Eli nyt kaikki voivat hankkia lentoliput Prahan nähdäkseen tämän, kuten on tarkoitettu.
 Puhuja 1: Se on minusta tosi hyvä kysymys, että kuinka paljon se oikeasti kärsii.
 Puhuja 1: Juhannat suositteli tätä äärimmäisen paljon,
@@ -309,8 +310,7 @@ Puhuja 3: voisinko kaikki rauhoittua.
 Puhuja 1: Mä haluun vähän palata taaksepäin siinä, että tavallaan mä en täysin yllättynyt siitä, että
 Puhuja 1: just Odysseja joutuu
 Puhuja 1: tämän kulttuurisodan
-Puhuja 1: hampaisiin. Okei, osittain siksi, koska kyseessä on nollan ja siis oppena emereritty
-Puhuja 1: oli melko suosittu myös oikeistopiireissä.
+Puhuja 1: hampaisiin. Okei, osittain siksi, koska kyseessä on nollan ja siis oppena emereritty oli oli melko suosittu myös oikeistopiireissä.
 Puhuja 1: Mutta onhan tässä myös otettu hyvinkin
 Puhuja 1: perinteinen,
 Puhuja 1: länsimaisen kulttuurin kulmakivi
@@ -376,8 +376,8 @@ Puhuja 3: kuvassa.
 Puhuja 3: Mutta
 Puhuja 3: tässäkin
 Puhuja 3: tarinan motivointi jäi ohueksi.
-Puhuja 3: Kun
-Puhuja 3: hirveä kuuleman perheen teurastus
+Puhuja 3: Kun hirveä
+Puhuja 3: kuuleman perheen teurastus
 Puhuja 3: alkaa
 Puhuja 3: ja untamo tappaa yleensä kaleeron ja
 Puhuja 3: kaleron vaimo ja sytyttää talut palamaan. Sitten
@@ -481,7 +481,7 @@ Puhuja 1: kolmannen kauden
 Puhuja 1: itsessään pääsarjaa. Voin
 Puhuja 1: näin keskiaika nörttinä ja siis vanhassa nörttinä suuresti
 Puhuja 1: suositella sitä sellaista pienempää ja henkilökohtaisempaa
-Puhuja 1: tarinaa. Pidä niistä kovin. Eikö siinä ollut päähahmona
+Puhuja 2: tarinaa. Pidä niistä kovin. Eikö siinä ollut päähahmona
 Puhuja 2: tällainen muna?
 Puhuja 1: Joo.
 Puhuja 1: Kyllä joo. Siinä pääsee näkemään munan

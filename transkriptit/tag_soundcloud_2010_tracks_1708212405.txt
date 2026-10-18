@@ -17,7 +17,7 @@ Puhuja 0: politiikkaa työkseen ruotiva ja tällä hetkellä ymmärtääkseni
 Puhuja 0: presidentinvaalien erikoistoimittaja
 Puhuja 0: Marko Junkkari. Moi. Olenko on
 Puhuja 0: kerrottu, että olet erikoistoimittaja.
-Puhuja 1: En oikein mistään muista
+Puhuja 0: En oikein mistään muista
 Puhuja 1: mutta musta erikoistoimittajatitteli
 Puhuja 1: on niin kamalaa tämä. Luovutaanko sitä nyt ihan tällä puolella? Onko sulla joskus tarjottu erikoistoimittajuutta?
 Puhuja 2: Onneksi.
@@ -26,11 +26,10 @@ Puhuja 0: titteliä erikoinen toimittaja?
 Puhuja 0: Joskus somessa kysytään, että mikä se on se erikoistoimittaja,
 Puhuja 0: niin mä olen sanonut sillä tavalla, että se on usein sellainen toimittaja, joka on aika ansioitunut ja pitkän uran tehnyt ja saattanut esimerkiksi olla pomotehtävissä
 Puhuja 0: ja sitten kun tulee
-Puhuja 0: toimittajatehtäviin, niin sitten hän saa sen erikoistoimittaja-itppin.
+Puhuja 0: toimittajatehtäviin, niin hän saa sen erikoistoimittaja-ikkunan.
 Puhuja 1: Se vanha vitsi on se, että mitä eroa taloustoimittajalla
 Puhuja 1: ja toimittajalla, niin se on sama kuin on talous nakkia ja tavallisia nakkia.
-Puhuja 2: Salaus
-Puhuja 2: suklaa. Niin.
+Puhuja 2: Salaussuklaa.
 Puhuja 0: Mutta vuosi on alkanut hyvissä merkeissä.
 Puhuja 0: Eikö niin?
 Puhuja 0: Vai onko?
@@ -104,8 +103,8 @@ Puhuja 0: ja pienet näppärät sormemme
 Puhuja 0: tekisivät jotain sellaisia hommia, mitä kone ei voi tehdä. Kyllä.
 Puhuja 1: Luulen, että uutisraporttiakin
 Puhuja 1: täällä huoneessa
-Puhuja 1: keskustelee kolme robotti ja sitten voi kanssa tuhat kaksikymmentäneljä.
-Puhuja 2: Voitaisiin totta kai neljä. Pelkään, että entäs jos en olekaan fiksumpi kuin tekoäly, että se pystyykin tehdä täysin kaiken, mitä
+Puhuja 1: keskustelee kolme robottia ja sitten voi kanssa tuhat kaksikymmentäneljä.
+Puhuja 2: Voi myös totta kai neljä. Pelkään, että entä jos en olekaan fiksumpi kuin tekoäly, että se pystyykin tehdä täysin kaiken, mitä
 Puhuja 2: jo
 Puhuja 0: Kuvitelkaa Tuomas Peltomäki, kun hän kuuntelee tätä meidän keskustelua ja repii hiuksia
 Puhuja 2: päästä. Oletteko nähneet niitä, missä Sauli Niinistö laitetaan laulamaan kaikkea?
@@ -133,7 +132,7 @@ Puhuja 2: että
 Puhuja 2: ihmiset olisivat kivempia toisilleen
 Puhuja 1: sellaista maailma olisi parempi paikka elää. Voin kertoa tämän lähetyksessä mielestäni ennenkin, että kerron nyt taas, että mihin tämä minun ja Santeri halki läheinen suhde johtuu.
 Puhuja 1: Aikoinaan kun kollegamme Unto Hämäläinen ja eläkkeelle
-Puhuja 1: laittoi viestin, että hänellä on työpisteessään jotain kirjoja, että nopein saa tulla hakemaan ja minä menin ja kaikki muut oli mennyt, mutta siellä oli Santeri Alkion päiväkirjat,
+Puhuja 1: laittoi viestin, että hänellä on työpisteessään jotain kirjoja, että nopein saa tulla hakemaan ja minä menin ja kaikki muut oli mennyt mutta siellä oli Santeri Alkion päiväkirjat,
 Puhuja 1: kolme osaa,
 Puhuja 1: paksut niteet ja minä otin sitten ne.
 Puhuja 1: Ne oli pitkän aikaa ja mä en niitä avannutkaan mutta ne Santeri Alkio päiväkirjat oli mun työpisteessä näyttöpäätteen
@@ -151,7 +150,7 @@ Puhuja 1: Mutta siis ihan miksi sä? No mä sanon, että tämä on ehkä vähän
 Puhuja 0: Eihän pidä ikinä myöntää. Voisit sanoa, että mulla on nyt niin kiire, kun mä teen muita Santeri Alkioon liittyviä projekteja.
 Puhuja 2: Ootko se sittemmin lukenut
 Puhuja 1: No mä itse asiassa olen käyttänyt niitä. Esimerkiksi
-Puhuja 1: tuo Teivo Tevanen tai alan politiikan profeja, en mä tiedä sellaista mihin se liittyi. Hän teki jotain kirjaa, missä hän käsitteli Santeri Alkiota ja hänkin soitti mulle, että sä olet kolme maan johtava
+Puhuja 1: tuo Teivo Tevanen tai alan politiikan profeja, en mä tiedä sellaista mihin se liittyi. Hän teki jotain kirjaa, missä hän käsitteli Santeri Alkiota ja hänkin soitti mulle, että sä ootko varmaan johtava
 Puhuja 1: Santeri Alkiotunti.
 Puhuja 1: Pystytkö sen jeesaamaan. Sitten me yhdessä
 Puhuja 1: otin päiväkirjat vedän mukaan ja se oli kesä ja me tavattiin jossain terassilla ja me yhdessä katsottiin päiväkirjoista, että mitä Santeri
@@ -199,10 +198,7 @@ Puhuja 0: teen sitten samoin.
 Puhuja 1: Musta
 Puhuja 1: on kylmä.
 Puhuja 1: Musta ollaan erikoinen tunnelma.
-Puhuja 1: Sitten bussivuoro
-Puhuja 1: bussivuorkojen välistä ja ihan semmoinen apokalyptinen
-Puhuja 1: tunnelma, että ihmiset ei ole ketään missään, mikä on kylmä. Ja meillähän ei ole niin kylmä täällä meillä
-Puhuja 2: etelän vetelillä,
+Puhuja 1: Sitten meni bussivuorkojen pussivuorkojen välistä ja ihan semmoinen apokalyptinen tunnelma, että ihmiset ei ole ketään missään, mikä on kylmä. Ja meillähän ei ole niin kylmä täällä meillä etelän vetelillä,
 Puhuja 2: koska
 Puhuja 2: oikeasti
 Puhuja 2: kylmähän on
@@ -215,8 +211,7 @@ Puhuja 0: että onpas nyt jännä kun on näin kylmä
 Puhuja 0: ja mitä laittaa päälle
 Puhuja 0: ja milloin lataa sähköautoja.
 Puhuja 0: Eihän tästä ole kuin hetkisistä tarkalleen ottaen mitään vuosi ja kaksi vuotta, kun
-Puhuja 0: sähkön,
-Puhuja 0: energiaan,
+Puhuja 0: sähkön, energiaan,
 Puhuja 0: lämpöön, kaikki on liittynyt tällaisia isoja
 Puhuja 0: poliittisia, ulkopoliittisia kysymyksiä. Mitä niille tapahtui?
 Puhuja 0: Meilläkin
@@ -243,7 +238,7 @@ Puhuja 2: Mutta täytyy sanoa, että kyllä joskus vielä kesällä ja alkusyksy
 Puhuja 2: kyllä mä kuulin sellaisia
 Puhuja 2: arvioita, että kyllä täällä talvena varmaan taas sitten se sähkön hinta nousee
 Puhuja 2: keskusteluun ja siitä nousee poliittinen keskustelu, mutta eipä ainakaan vielä. Niin, ja sitten kun katsoo
-Puhuja 0: ihmisiä, joilla on pörssisähkö noita hintoja, niin nämä on tietysti hetkelliset, että sehän ei saisi koskaan
+Puhuja 0: ihmisiä, joilla on pörssisähkö noita hintoja, niin nämä on tietysti hetkelliset, että sitähän ei saisi koskaan
 Puhuja 0: tuijottaa hetkellisesti, mutta alkaako meillä kohta taas keskustelu siitä, että pitääkö joidenkin ihmisten saada tukea vai ehtiikö meillä tulla jo lämmin ja tämä unohtuu.
 Puhuja 0: Ei teillä ole mitään sanottavaa. Onko teillä pörssisähkö?
 Puhuja 2: On, on. Mulla on niin pieni, että sä sitä. En mä katso kauheasti.
@@ -255,12 +250,12 @@ Puhuja 1: ja Helsingin Energia, niin
 Puhuja 1: ei edelleenkään kiinnitä mitään huomiota. Ei paljon jaksa kiinnostaa.
 Puhuja 1: Ja kauppia ja kaukolämpö.
 Puhuja 0: Kyllä.
-Puhuja 0: Kun hytisete
+Puhuja 0: Sitten kun hytisete
 Puhuja 0: kylmässä
 Puhuja 0: autossa
-Puhuja 0: ja raaputat, että eihän auto ei ehkä käy.
-Puhuja 0: Ei autoilua tuoda tähän mukaan. Mutta hytise ei ole autoakaan. Niin ei ole autoakaan.
-Puhuja 0: Hytisette
+Puhuja 0: ja raaputat...
+Puhuja 0: Ihan auto ei ehkä käy.
+Puhuja 0: Ei autoilua tuoda tähän mukaan. Mutta hytise ei ole autoakaan. Niin ei ole autoakaan. Mutta Hytisette
 Puhuja 0: kylmässä,
 Puhuja 0: kodissanne. Siellä on
 Puhuja 0: ikkunoista vetää ja
@@ -302,8 +297,8 @@ Puhuja 1: niitä Netflixin
 Puhuja 2: että mä haluaisin tänä
 Puhuja 2: vuonna elvyttää mun vähän huonolle menneen lukuharrastuksen
 Puhuja 2: ja lukea enemmän kirjoja. Mutta sitten kun on sohvalla ja siinä on valtava
-Puhuja 2: iso
-Puhuja 2: televisio, ihan vain mustana kiinni,
+Puhuja 2: iso televisio,
+Puhuja 2: ihan vain mustana kiinni,
 Puhuja 2: niin se jotenkin on ahdistava ja että siinä pitäisi jotain pyöriä. Mutta en mä halua harhautua katsoa jotain telkkaria tai jotain. Ja musiikkia siihen voi laittaa. Mutta hyvä vaihtoehto on ollut tämä takkatuli 4K
 Puhuja 2: ohjelma Netflixissä. Se on tunnin kestävä
 Puhuja 2: takkatuli.
@@ -312,10 +307,9 @@ Puhuja 0: jollekin Santeri Alkiolle, jos sanotte tuhat yhdeksänsataakaksikymmen
 Puhuja 0: Sata vuoden kuluttua maailma on mennyt tosi paljon eteenpäin. Meillä on Takan
 Puhuja 0: vieressä sellaisia tv-ruutuja,
 Puhuja 0: joista voi katsoa takkatulta.
-Puhuja 2: Mä laitoin sen tietysti aluksi vitsillä päälle, mutta nyt varmaan laittaa sitä vitsillä päälle jo niin monta kertaa, että se ei ole enää vitsi. Mutta se ei mikään niskaan missään.
+Puhuja 1: Mä laitan sen tietysti aluksi vitsillä päälle, mutta nyt varmaan laittaa sitä vitsillä päälle jo niin monta kertaa, että se ei ole enää vitsi. Mutta se ei mikään niskaan missään.
 Puhuja 2: Niin, mutta jotenkin se ajatus, kun se siinä loimottaa, niin kyllä se vähän sillain. Mutta tänään sinun täytyy 17-kaksikymmentäkaksi
-Puhuja 0: pappi tästä kiinni,
-Puhuja 0: koska yhteiset talkoilla. Polttomatta
+Puhuja 0: pappi tästä kiinni, koska yhteiset talkoilla. Polttomatta
 Puhuja 2: takkaa tänä iltana. Joo.
 Puhuja 0: Sinun suosituksessa on siis tänään. Tuli neljäg
 Puhuja 2: K: Tuli
@@ -324,12 +318,12 @@ Puhuja 2: on semmoinen koivuklapi
 Puhuja 2: 4K, että siinä räiskyvät koivuklapit.
 Puhuja 2: Mutta mun mielestä se on parempi originaali
 Puhuja 2: takkatuli.
-Puhuja 0: Ihanaa, että siinä on myös tuommoista variananssia. Joo. Tai sitten juhannuskoko varmaan saa sitten? Niin varmaan, joo.
-Puhuja 1: Joo. Marko, mitä sinä sinne naapuriin huutelet?
-Puhuja 1: Voisin kehua,
-Puhuja 1: minulla on
-Puhuja 1: vaikeuksia löytää niitä. Tämä itse asiassa ei ole lakimiesdekkari, mutta tämä löytyy etsinnän lomassa.
-Puhuja 1: Tässä on kuitenkin juristeista kyse, vaikkei olekaan siellä oikeussalissa.
+Puhuja 0: Ihanaa, että siinä on myös tuommoista variananssia. Joo. Taiks sä sitten juhannuskoko varmaan saa sitten? Niin varmaan, joo.
+Puhuja 1: Joo. Marko, mitä sä sinne naapuriin huutelet?
+Puhuja 1: Voisin kehua, minulla on
+Puhuja 1: Aina vaikeuksia löytää niitä.
+Puhuja 1: Tämä ei ole lakimiesdekkari, mutta tämä löytyy etsinnän lomassa.
+Puhuja 1: Tässä on kuitenkin juristeista kyse, vaikkei ollakaan siellä oikeussalissa.
 Puhuja 1: Semmoinen romaani kuin
 Puhuja 1: The Emperory
 Puhuja 1: of Ocean Pork. Tämän on kirjoittanut Stephen L Carter.
@@ -338,7 +332,8 @@ Puhuja 1: Jotenkin näiden dekkareiden ongelmat on aina se, että
 Puhuja 1: henkilöhahmot ovat semmoisia
 Puhuja 1: Mutta tässä on ne hahmot luotu sille, että
 Puhuja 1: sankari ei olekaan kaikessa vain hyvä, vaan on harmaan sävyjä ja tosi nopeasti kirjoitettu.
-Puhuja 1: Päähenkilö on
+Puhuja 1: Tämä
+Puhuja 1: päähenkilö on
 Puhuja 1: musta
 Puhuja 1: oikeustieteen opettaja Jenkkiyliopistossa
 Puhuja 1: ja sitten hänen isänsä
@@ -348,10 +343,9 @@ Puhuja 1: paljastanut skandaali
 Puhuja 1: loppumetreillä
 Puhuja 1: ja presidentti veti sen
 Puhuja 1: nimityksen pois ja tämä on ollut tämmöinen suuri häpeä tälle isälle ja myös tälle perheelle.
-Puhuja 1: Sitten se isä kuolee
-Puhuja 1: ja sitten se lähettää
-Puhuja 1: kuoleman takaa
-Puhuja 1: viestejä tälle pojalle ja mitä tämän pojan pitää lähteä selvittämään.
+Puhuja 1: Sitten se isä kuolee ja sitten se lähettää kuoleman
+Puhuja 1: takaa.
+Puhuja 1: Ja viestejä tälle pojalle, mitä tämän pojan pitää lähteä selvittämään.
 Puhuja 1: Tosi makee kirja, tosi hienosti kirjoitettu ja jotenkin.
 Puhuja 1: Aivan välillä tulee kirjassa sille, että oikein harmittaako se loppuun, mutta tässä harmittaa.
 Puhuja 0: Ja sekään ei kuluta sähköä, jos se on paperisena. Pasen vain kyllä sähköisenä.
@@ -383,25 +377,26 @@ Puhuja 0: norjalainen Yleisradioyhtiö
 Puhuja 0: teki Sanna Marinista jutun.
 Puhuja 1: Kaikkihan sen on lukenut. Kaikkihan
 Puhuja 0: sen
-Puhuja 0: Mutta siis,
-Puhuja 0: Norja projekti tuossa, että me oltiin Oslossa työskennelty ja muuta.
+Puhuja 1: Mutta siis tämä on se, että kannattaa lukea niitä alkuperäisiä juttuja, koska sitten kun ulkopuolelta... Mut siellä on norjaksi? Mä itse asiassa osaan norjaa.
+Puhuja 2: Mä voisin itse asiassa oikeasti lukea. Sulla on joku salainen Norja. Mä olen ollut siellä vaihdossa.
+Puhuja 0: Okei, no sano jotain norjaksi.
+Puhuja 0: Norja. Mehän me tehtiin yksi semmoinen Norja projekti tuossa, että me oltiin Oslossa työskenneltiin ja muuta.
 Puhuja 0: No niin, mutta jos me tarvitaan Norjan osaamista, niin me käännytään Anni sun puoleen. Sanna
 Puhuja 0: Marinista oli NRK:lla juttu, jonka voi siis Google Translate hän nätisti kääntää näitä sivuja.
 Puhuja 0: Tämän nimi oli Festvideo
 Puhuja 0: OR. Sun pitäisi nyt lausua tämä feminisme
-Puhuja 0: fresmtid.
+Puhuja 0: ug
+Puhuja 0: Frentid.
 Puhuja 0: Tämä oli muuten hauska tämä juttu, kun tässä oli
 Puhuja 0: tällaisia suomalaisia sananlaskuja.
 Puhuja 0: Esimerkiksi
-Puhuja 0: tällainen,
-Puhuja 0: että
+Puhuja 0: tällainen, että
 Puhuja 0: maailma on kova opettaja.
 Puhuja 0: Nyt pitää ihan katsoa vielä, että miten tämä nyt tavallaan
 Puhuja 0: kääntyy.
 Puhuja 0: Maailma on varma opettaja, mutta se
 Puhuja 0: verottaa kovasti.
-Puhuja 0: Alueella.:
-Puhuja 0: Mikä ihmeen suomalainen sananlasku, englanniksi tällainen, että World is a shur teacer but it takes a heavy toll.
+Puhuja 0: Alueella.: Mikä ihmeen suomalainen sananlasku, englanniksi tällainen, että World is a shur teacer but it takes a heavy toll.
 Puhuja 0: Laittakaa kuulijat jotain tietoa, että mikä tämä on. Täällä on joku
 Puhuja 0: toinenkin suomalainen sananlasku. No se ei ollut minun pointtini,
 Puhuja 0: mutta tämmöistäkin on. Tässä Sanna Marin puhuu

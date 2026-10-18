@@ -12,64 +12,65 @@ Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
 Puhuja 0: miljardit.
 Puhuja 2: Helsingin
-Puhuja 3: Sanomat
-Puhuja 3: Hei ja tervetuloa Helsingin Sanomien uutisraportti
-Puhuja 3: podcastiin
-Puhuja 3: torstaina
-Puhuja 3: neljäs elokuuta.
-Puhuja 3: Minun nimeni on Anni Keski-Heikkilä ja kanssani
-Puhuja 3: täällä Sanomatalon
-Puhuja 3: hyvin tilavatunnelmaisessa
-Puhuja 3: studiossa
-Puhuja 3: ovat Helsingin Sanomien nyh. Fi:n toimittaja Inkeri Harju. Hei Inkeri. Hei.
-Puhuja 3: Ja politiikan
-Puhuja 3: toimittaja Joona Aaltonen. Hei Joona. Ihanaa torstaita.
-Puhuja 3: Ja ulkomaantoimittaja
-Puhuja 3: Ilmo
-Puhuja 3: Ilkka. Hei Ilmo. Hei
-Puhuja 3: Anni. Ollaan taas neljän poppolla täällä. Tämän viikon podcastissa keskustellaan
-Puhuja 3: kautta Suomen päivystyksiä piinaavasta
-Puhuja 3: katastrofista,
-Puhuja 3: jossa ihmiset joutuvat odottamaan tuntikausia käytävillä ja hoitohenkilökunnalla
-Puhuja 3: on liikaa töitä.
-Puhuja 3: Taustalla
-Puhuja 3: on tuttu pula hoitajista.
-Puhuja 3: Ja myös puhutaan Kiinasta.
-Puhuja 3: Yhteydet Venäjään on monilla
-Puhuja 3: yrityksillä esimerkiksi kosahtaneet
-Puhuja 3: Tuuli lasiin, mutta pitäisikö puhua Kiina riskistä ja myös Taiwanin tilanne näyttää eskaloituvan.
-Puhuja 3: Ja vielä puhutaan Helsingin Sanomien tuoreesta podcastista, joka kertoo Suomen hakeutumisesta
-Puhuja 3: Natoon, eli podcastin nimi Päätös, jota ei koskaan tehty.
-Puhuja 3: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljaisuuksien varalle.
-Puhuja 3: Lähdetään
-Puhuja 3: liikkeelle
-Puhuja 3: päivystyksistä,
-Puhuja 3: terveydenhuollosta
-Puhuja 3: ja sairaaloista.
-Puhuja 3: HS on tässä heinä-elokuun
-Puhuja 3: vaihteessa uutisoinut
-Puhuja 3: erityisesti Helsingin ja Uudenmaan sairaanhoitopiirin,
-Puhuja 3: HUSin sairaaloiden päivystyksistä.
-Puhuja 3: Siellä on kovia ruuhkia ja pitkiä jontusaikoja.
-Puhuja 3: Nyt on tässä selvinnyt, että vastaavien ongelmien kanssa kamppaillaan myös muualla Suomessa.
-Puhuja 3: Oikeastaan kautta Suomen.
-Puhuja 3: Päivystysten työntekijät on kertonut HSL:lle, että potilasturvallisuus
-Puhuja 3: vaarantuu
-Puhuja 3: toistuvasti.
-Puhuja 3: Taustalla vaikuttaa siis olevan sijaispula. Kesäksi ei
-Puhuja 3: yksinkertaisesti olla vain saatu
-Puhuja 3: tarpeeksi sijaisia.
-Puhuja 3: Tästä on
-Puhuja 3: tällä viikolla etsitty
-Puhuja 3: syyllisiä ja ratkaisuja.
-Puhuja 3: Perhe ja peruspalveluministeri
-Puhuja 3: Aki sanoi
-Puhuja 3: esimerkiksi HSL:lle maanantaina, että hänellä ei ole
-Puhuja 3: ministerinä tarjota käytännössä minkäänlaista
-Puhuja 3: auttavaa kättä
-Puhuja 3: tässä asiassa.
-Puhuja 3: Nyt tuntuu, että niitä ratkaisuja
-Puhuja 3: kaivattaisiin, niin mistäs me lähdettäisiin niitä hakemaan?
+Puhuja 2: Sanomat
+Puhuja 2: Hei ja tervetuloa Helsingin Sanomien uutisraportti
+Puhuja 2: podcastiin
+Puhuja 2: torstaina
+Puhuja 2: neljäs elokuuta.
+Puhuja 2: Minun nimeni on Anni Keski-Heikkilä ja kanssani
+Puhuja 2: täällä Sanomatalon
+Puhuja 2: hyvin tilavatunnelmaisessa
+Puhuja 2: studiossa
+Puhuja 2: ovat Helsingin Sanomien nyh. Fi:n toimittaja Inkeri Harju. Hei Inkeri. Hei.
+Puhuja 2: Ja politiikan
+Puhuja 2: toimittaja Joona Aaltonen. Hei Joona. Ihanaa torstaita.
+Puhuja 2: Ja ulkomaantoimittaja
+Puhuja 2: Ilmo
+Puhuja 2: Ilkka. Hei Ilmo. Hei
+Puhuja 2: Anni. Ollaan taas neljän poppolla täällä. Tämän viikon podcastissa keskustellaan
+Puhuja 2: kautta Suomen päivystyksiä piinaavasta
+Puhuja 2: katastrofista,
+Puhuja 2: jossa ihmiset joutuvat odottamaan tuntikausia käytävillä ja hoitohenkilökunnalla
+Puhuja 2: on liikaa töitä.
+Puhuja 2: Taustalla
+Puhuja 2: on tuttu pula hoitajista.
+Puhuja 2: Ja myös puhutaan Kiinasta.
+Puhuja 2: Yhteydet Venäjään on monilla
+Puhuja 2: yrityksillä esimerkiksi kosahtaneet
+Puhuja 2: Tuuli lasiin, mutta pitäisikö puhua Kiina riskistä ja myös Taiwanin tilanne näyttää eskaloituvan.
+Puhuja 2: Ja vielä puhutaan Helsingin Sanomien tuoreesta podcastista, joka kertoo Suomen hakeutumisesta
+Puhuja 2: Natoon, eli podcastin nimi Päätös, jota ei koskaan tehty.
+Puhuja 2: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljaisuuksien varalle.
+Puhuja 2: Lähdetään
+Puhuja 2: liikkeelle
+Puhuja 2: päivystyksistä,
+Puhuja 2: terveydenhuollosta
+Puhuja 2: ja sairaaloista.
+Puhuja 2: HS on tässä heinä-elokuun
+Puhuja 2: vaihteessa uutisoinut
+Puhuja 2: erityisesti Helsingin ja Uudenmaan sairaanhoitopiirin,
+Puhuja 2: HUSin sairaaloiden päivystyksistä.
+Puhuja 2: Siellä on kovia ruuhkia ja pitkiä jontusaikoja.
+Puhuja 2: Nyt on tässä selvinnyt, että vastaavien ongelmien kanssa kamppaillaan myös muualla Suomessa.
+Puhuja 2: Oikeastaan kautta Suomen.
+Puhuja 2: Päivystysten työntekijät on kertonut HSL:lle, että potilasturvallisuus
+Puhuja 2: vaarantuu
+Puhuja 2: toistuvasti.
+Puhuja 2: Ja taustalla vaikuttaa siis olevan sijaispula. Kesäksi ei
+Puhuja 2: yksinkertaisesti olla vaan saatu
+Puhuja 2: tarpeeksi sijaisia.
+Puhuja 2: Tästä on
+Puhuja 2: tällä viikolla etsitty
+Puhuja 2: syyllisiä ja ratkaisuja.
+Puhuja 2: Perhe ja peruspalveluministeri
+Puhuja 2: Aki sanoi
+Puhuja 2: esimerkiksi
+Puhuja 2: HSL:lle maanantaina, että hänellä ei ole
+Puhuja 2: ministerinä tarjota käytännössä minkäänlaista
+Puhuja 2: auttavaa kättä
+Puhuja 2: tässä asiassa.
+Puhuja 2: Nyt tuntuu, että
+Puhuja 2: ratkaisuja kaivattaisiin, niin mistäs me lähdettäisiin niitä hakemaan?
 Puhuja 4: Sepäs olisi ihan helppo tässä
 Puhuja 4: nyt kodin aikana ratkaista. Meillä tunnetusti
 Puhuja 4: on kaikki
@@ -83,8 +84,8 @@ Puhuja 4: Siihen vaikuttaa tietenkin
 Puhuja 4: korona-aika,
 Puhuja 4: rokotevelvoite
 Puhuja 4: ja muut.
-Puhuja 4: En ihan
-Puhuja 4: usko tai allekirjoita
+Puhuja 4: En ihan usko
+Puhuja 4: tai allekirjoita
 Puhuja 4: sitä, mitä HUSin
 Puhuja 4: edustaja muistaakseni
 Puhuja 4: sanoi,
@@ -92,12 +93,12 @@ Puhuja 4: että päivystyksen ruuhkat johtuvat opiskelijoiden asenteiden muutoks
 Puhuja 4: Tässä siis sanottiin, että
 Puhuja 4: opiskelijoiden syy, koska opiskelijat haluaa pitää
 Puhuja 4: kesälomaa.
-Puhuja 3: Dam Tays opiskelijat. No niinpä. Mites tämä sitaatti menikään tarkasti?
-Puhuja 3: HUSin
-Puhuja 3: toimialajohtaja
-Puhuja 3: Jukka Louhia sanoi, että opiskelijoiden asenteet ovat muuttuneet.
-Puhuja 3: Nykyään pitkälle koulutetut opiskelijat tahtovat pitää myös lomaa
-Puhuja 3: eivätkä he halua tehdä kesäisin yhtä paljon töitä.
+Puhuja 2: Dam Tays opiskelijat. No niinpä. Mites tämä sitaatti menikään tarkasti?
+Puhuja 2: HUSin
+Puhuja 2: toimialajohtaja
+Puhuja 2: Jukka Louhia sanoi, että opiskelijoiden asenteet ovat muuttuneet.
+Puhuja 2: Nykyään pitkälle koulutetut opiskelijat tahtovat pitää myös lomaa,
+Puhuja 2: eivätkä he halua tehdä kesäisin yhtä paljon töitä.
 Puhuja 4: En
 Puhuja 4: yhtään allekirjoita tätä itsekin.
 Puhuja 4: Korkeakouluopiskelijana
@@ -106,28 +107,29 @@ Puhuja 4: muistan, että
 Puhuja 4: koko sen ajan, mitä olin yliopistossa, niin en pitänyt lomaa.
 Puhuja 4: Joululomat taisi olla pisimmät,
 Puhuja 4: milloin ei tehnyt töitä.
-Puhuja 3: Kylläpä sä olit
-Puhuja 3: ihana ja tuottelias yhteiskunnan ratas.
-Puhuja 4: Okei esimerkki. Tappeluita aina välillä ja heitellään kaikkia
+Puhuja 2: Kylläpä sä olit
+Puhuja 2: ihana ja tuottelias yhteiskunnan ratas.
+Puhuja 4: Okei esimerkki. Tappeluita
+Puhuja 4: aina välillä ja heitellään kaikkia
 Puhuja 4: sijanteukasta
 Puhuja 5: jätteitä ym. Mukava sana, johon uskomattoman hieno juttu. Vau, pitää mennä äkkiä lukemaan. On nyt ohi tällainen helmi. Lukekaa kaikki Marimamniä. Laittakaa vaan hakuun Marimamniä ja Taiwani. Ymmärätte paremmin Taiwania.
-Puhuja 3: Kyllä. Ja Kiinaa myös.
-Puhuja 3: Ihana kehu moment.
-Puhuja 3: Mennäänkö päivän viimeiseen aiheeseen,
-Puhuja 3: joka on
-Puhuja 3: Nato-podcast
-Puhuja 3: päätös, jota ei koskaan tehty. Tuomas
-Puhuja 3: Peltömäki
-Puhuja 3: pyysi meitä puhumaan tästä. Suorastaan käski puhumaan tästä.
-Puhuja 2: No on vähän liioittelu, kyllä me oltaisiin muutenkin
-Puhuja 2: puhuttu.
-Puhuja 3: Olisimme muutenkin jouttu, mutta
-Puhuja 3: tosiaan päätös jota ei koskaan tehty. Sen kaikki neljä osaa on kuunneltavissa
-Puhuja 3: esimerkiksi
-Puhuja 3: Spotifysta ja muista
-Puhuja 3: suoratoistopalveluista.
+Puhuja 2: Kyllä. Ja Kiinaa myös.
+Puhuja 2: Ihana kehu moment.
+Puhuja 2: Mennäänkö päivän viimeiseen aiheeseen,
+Puhuja 2: joka on
+Puhuja 2: Nato-podcast
+Puhuja 2: päätös, jota ei koskaan tehty. Tuomas
+Puhuja 2: Peltömäki
+Puhuja 2: pyysi meitä puhumaan tästä. Suorastaan käski puhumaan tästä.
+Puhuja 3: No on vähän liioittelu, kyllä me oltaisiin muutenkin
+Puhuja 3: puhuttu.
+Puhuja 2: Olisimme muutenkin jouttu, mutta
+Puhuja 2: tosiaan päätös jota ei koskaan tehty. Sen kaikki neljä osaa on kuunneltavissa
+Puhuja 2: esimerkiksi
+Puhuja 2: Spotifysta ja muista
+Puhuja 2: suoratoistopalveluista.
 Puhuja 5: Kerro vaan.
-Puhuja 3: Inkeri kerro meille.
+Puhuja 2: Inkeri kerro meille.
 Puhuja 5: Vai Ilmo kenen piti kertoa? Minä voin kertoa, vaikka kerron juuri kaiken mitä aion sanoa.
 Puhuja 5: Olisi
 Puhuja 5: loistava podcast
@@ -167,7 +169,7 @@ Puhuja 5: Viimeisenä puhutaan siitä, että
 Puhuja 5: kuinka
 Puhuja 5: jäsenyys johtuu pohjimmiltaan siitä, että SDP:ssä tehtiin
 Puhuja 5: sukupolvenvaihdos.
-Puhuja 2: Kyllä siellä myös sukupuoli vaihtunut. Kyllä on vaihtunut, mutta sukupolvesta
+Puhuja 5: Kyllä siellä myös sukupuoli vaihtunut. Kyllä on vaihtunut, mutta sukupolvesta
 Puhuja 5: tässä enemmän puhutaan. Tuskin
 Puhuja 5: Marinin sukupuoli liittyy hirveästi siihen.
 Puhuja 5: Kyllä voin siis suositella, koska siis se oli viihdyttävä mun mielestä
@@ -176,47 +178,48 @@ Puhuja 5: äänimaailmaa
 Puhuja 5: ja käytetty tosi paljon erilaisia musaa ja kaikkia
 Puhuja 5: vanhoja haastattelupätkiä. Se oli
 Puhuja 5: myös hellikorvia.
-Puhuja 3: Tästä
-Puhuja 3: huomasi, että se on ollut Tuomaksen
-Puhuja 3: intohimo
-Puhuja 3: varmasti
-Puhuja 3: sen enempää taustoja tietämättä kuuluu
-Puhuja 3: lopputuloksessa,
-Puhuja 3: että sitä on haluttu tehdä tunteella.
-Puhuja 2: Kyllä. Se on erityisesti musta tuntuu, että olen meidän
-Puhuja 2: kesäsijaisuuden
-Puhuja 2: aikana saanut useita palautteita, jossa sanotaan, että
-Puhuja 2: onpa teillä hyvä meno siellä podcastissa, mutta kaipaan silti tuomasta.
-Puhuja 2: Niin nyt Tuomaksen kaipuuseen tämä on aivan erinomainen.
-Puhuja 3: Niin saako nyt pelkästään Arto? Ja Markon. Marko on myös siellä.
-Puhuja 2: Eli jos on ikävä Tuomasta ja Markoa, niin kipin kapin
-Puhuja 2: kuuntelemaan. Mun on
-Puhuja 2: pakko todeta, että mä oon itse vähän sellainen
-Puhuja 2: tylsä hahmo.
-Puhuja 2: Tykkään sellasta tylsästä harmaasta journalismista,
-Puhuja 2: joka on sellasta
-Puhuja 2: asiat faktat pinoon ja niin edespäin.
-Puhuja 2: Kun kuuntelin
-Puhuja 2: tuota podcastia, mulla aina välillä tulee sellainen, että Äh, nyt tässä lähdetään ihan sivuraiteille
-Puhuja 2: ja Äh, tämä ei liity ihan tähän asiaan, mistä puhutaan.
-Puhuja 2: Se on hyvin Tuomas Peltomäkimäinen
-Puhuja 2: podcast. Mutta siinä se ikään kuin
-Puhuja 2: narratiivi
-Puhuja 2: jännite on niin hyvä, minkä Tuomas pystyy rakentamaan. Siinä on koko ajan sellainen koukku läpi sen podcastin, joka
-Puhuja 2: on koko ajan sellainen koukku läpi
-Puhuja 2: sen podcastin, joka vetää sua sen podcastin läpi ja koko ajan sellainen olo, että no, haluan nyt kuulla, mitä
-Puhuja 2: tämän jälkeen tapahtui.
-Puhuja 2: Ei, nyt Tuomas lähti taas sivuraiteille,
-Puhuja 2: että
-Puhuja 2: kertoisi jopa jo, että mikä tämä asia on. Ja
-Puhuja 2: mä itse kuuntelin sen putken koko
-Puhuja 2: sen
-Puhuja 2: podcastin läpi. Että se on ehdottomasti se
-Puhuja 2: paras puoli, jotenkin se jännite, mikä siihen on pystytty rakentamaan. Ja olet myös ehkä poikkeuksellisella tavalla Nato-Nörtti
-Puhuja 3: ja vielä sellaisella
-Puhuja 3: virkamiesmäisellä
-Puhuja 3: tavalla. Sekin ehkä saattaa vaikuttaa tähän sun niin kuin. Se huutelus on taakse.
-Puhuja 5: Tiesit jo suuren osan näistä mulle oli esimerkiksi
+Puhuja 2: Tästä
+Puhuja 2: huomasi, että se on ollut Tuomaksen
+Puhuja 2: intohimo
+Puhuja 2: varmasti
+Puhuja 2: sen enempää taustoja tietämättä kuuluu
+Puhuja 2: lopputuloksessa,
+Puhuja 2: että sitä on haluttu tehdä tunteella.
+Puhuja 3: Kyllä. Se on erityisesti musta tuntuu, että olen meidän
+Puhuja 3: kesäsijaisuuden
+Puhuja 3: aikana saanut useita palautteita, jossa sanotaan, että
+Puhuja 3: onpa teillä hyvä meno siellä podcastissa, mutta kaipaan silti tuomasta.
+Puhuja 3: Niin nyt Tuomaksen kaipuuseen tämä on aivan erinomainen.
+Puhuja 2: Niin saako nyt pelkästään Arto? Ja Markon. Marko on myös siellä.
+Puhuja 3: Eli jos on ikävä Tuomasta ja Markoa, niin kipin kapin
+Puhuja 3: kuuntelemaan. Mun on
+Puhuja 3: pakko todeta, että mä oon itse vähän sellainen
+Puhuja 3: tylsä hahmo.
+Puhuja 3: Tykkään sellasta tylsästä harmaasta journalismista,
+Puhuja 3: joka on sellasta
+Puhuja 3: asiat faktat pinoon ja niin edespäin.
+Puhuja 3: Kun kuuntelin
+Puhuja 3: tuota podcastia, mulla aina välillä tulee sellainen, että Äh, nyt tässä lähdetään ihan sivuraiteille
+Puhuja 3: ja Äh, tämä ei liity ihan tähän asiaan, mistä puhutaan.
+Puhuja 3: Se on hyvin Tuomas Peltomäkimäinen
+Puhuja 3: podcast. Mutta siinä se ikään kuin
+Puhuja 3: narratiivi
+Puhuja 3: jännite on niin hyvä, minkä Tuomas pystyy rakentamaan. Siinä on koko ajan sellainen koukku läpi sen podcastin, joka
+Puhuja 3: on koko ajan sellainen koukku läpi
+Puhuja 3: sen podcastin, joka vetää sua sen podcastin läpi ja koko ajan sellainen olo, että no, haluan nyt kuulla, mitä
+Puhuja 3: tämän jälkeen tapahtui.
+Puhuja 3: Ei, nyt Tuomas lähti taas sivuraiteille,
+Puhuja 3: että
+Puhuja 3: kertoisi jopa jo, että mikä tämä asia on. Ja
+Puhuja 3: mä itse kuuntelin sen putken koko
+Puhuja 3: sen
+Puhuja 3: podcastin läpi. Että se on ehdottomasti se
+Puhuja 3: paras puoli, jotenkin se jännite, mikä siihen on pystytty rakentamaan. Ja olet myös ehkä poikkeuksellisella tavalla Nato-Nörtti
+Puhuja 2: ja vielä sellaisella
+Puhuja 2: virkamiesmäisellä
+Puhuja 2: tavalla. Sekin ehkä saattaa vaikuttaa tähän sun niin kuin. Se huutelus vaikuttaa.
+Puhuja 5: Tiesit
+Puhuja 5: jo suuren osan näistä mulle oli esimerkiksi
 Puhuja 5: kyllä paljon uutta, kun en ole. Ja just sekin, että ehkä
 Puhuja 5: kun ei ole tuollaista,
 Puhuja 5: tai en niin paljon nauti harmaasta
@@ -225,22 +228,23 @@ Puhuja 5: Mutta siis kippasin silloin niitä, kun en enää jaksanut lukea sitä
 Puhuja 5: tästä saa sen semmoisessa
 Puhuja 5: tosi viihdyttävässä muodossa, jos
 Puhuja 5: tuli semmoinen Nato kyllästy silloin eikä jaksanut lukea ihan jokaista uutista.
-Puhuja 3: Joo, se tuntuu että se on sillä tavalla tullut hyvään paikkaan, että pari kuukautta sitten ei olisi ehkä
-Puhuja 3: jaksanut kuunnella sitä samalla tavalla kuin nyt sillä tavalla kesän jäljiltä levänneenä.
-Puhuja 3: Ei sillä, että kesä olisi vielä ohi, mutta
-Puhuja 3: jotenkin
-Puhuja 3: on tullut pieni etäisyys tähän suurimpaan Nato-uutisointihuumaan.
-Puhuja 3: Sitä oli sillä tavalla jopa virkistävää kuunnella jälleen.
-Puhuja 2: Toi nimenomaan toi tällaisen perspektiivin, että se
-Puhuja 2: ei hätiköi
-Puhuja 2: ja heittele niitä faktoja, vaan se asettaa sen perspektiiviin.
+Puhuja 2: Joo, se tuntuu että se on sillä tavalla tullut hyvään paikkaan, että pari kuukautta sitten ei olisi ehkä
+Puhuja 2: jaksanut kuunnella sitä samalla tavalla kuin nyt sillä tavalla kesän jäljiltä levänneenä.
+Puhuja 2: Ei sillä, että kesä olisi vielä ohi, mutta
+Puhuja 2: jotenkin
+Puhuja 2: on tullut pieni etäisyys tähän suurimpaan Nato-uutisointihuumaan.
+Puhuja 2: Sitä oli sillä tavalla jopa virkistävää kuunnella jälleen.
+Puhuja 3: Toi nimenomaan toi tällaisen perspektiivin, että se
+Puhuja 3: ei hätiköi
+Puhuja 3: ja heittele niitä faktoja, vaan se asettaa sen perspektiiviin.
 Puhuja 4: Itse
 Puhuja 4: olen jonkinlainen historionörtti.
 Puhuja 4: Ihanaa, että me olemme näin moninaisia ja monipuolisia toimittajia.
 Puhuja 4: Tykkäsin tosi paljon, että sinne mentiin siihen
-Puhuja 4: syvään taustaan tai syvään taustaan, mutta siihen historialliseen, että siellä käydään just näitä Deep state syvä tausta. Kyllä. Mutta Kekkosesta lähtien, koska Kekkonen pitää aina näissä yhteyksissä mainita, ihan siis validi.
+Puhuja 4: syvään taustaan tai syvään taustaan, mutta se on siihen historialliseen, että siellä käydään just näitä... Deep state syvä tausta. Kyllä.
+Puhuja 4: Mutta Kekkosesta lähtien, koska Kekkonen pitää aina näissä yhteyksissä mainita, ihan siis validi.
 Puhuja 4: Kun kuuntelin sitä, mäkin kuuntelin sen putkeen,
-Puhuja 4: niin jotenkin
+Puhuja 4: niin jotenkin...
 Puhuja 4: Tuli hirveät
 Puhuja 4: aikamatkustusflasbackit
 Puhuja 4: menneeseen
@@ -257,17 +261,17 @@ Puhuja 4: kantoja, esimerkiksi herran
 Puhuja 4: presidentin kantoja ja pääministerin
 Puhuja 4: kantoja
 Puhuja 4: kysyttiin.
-Puhuja 4: Se oli hyvin
-Puhuja 4: Ei välttämättä yksipuolista, mutta siinä mielessä tietyssä mielessä rajoittunutta, että heti
-Puhuja 4: kun presidentti ja pääministeri on ilmaissut
+Puhuja 4: Se oli hyvin...
+Puhuja 4: Ei välttämättä yksipuolista, mutta siinä mielessä tietyssä mielessä rajoittunutta, että heti kun presidentti ja pääministeri on ilmaissut
 Puhuja 4: suoraan oman Nato-kantansa
 Puhuja 4: erityisesti Niinistön kohdalla.
 Puhuja 4: Se otettiin
-Puhuja 4: annettuna, että nyt mennään Natoon.
-Puhuja 4: Oli galluppeja ja oli mielipide kyselyitä muutenkin, että Suomen kansa ajattelee, että no, no, no, no, no, prosenttia haluaa mennä Natoon. Jotenkin
-Puhuja 4: tosi vähälle jäi
-Puhuja 4: analyyttinen
-Puhuja 4: haaste
+Puhuja 4: annettuna,
+Puhuja 4: että nyt mennään Natoon.
+Puhuja 4: Oli galluppeja ja oli mielipide kyselyitä muutenkin, että Suomen kansa ajattelee, että no, no, no, no, no, prosenttia haluaa mennä Natoon.
+Puhuja 4: Tosi vähälle jäi
+Puhuja 4: analyyttinen,
+Puhuja 4: haastoi
 Puhuja 4: keskustelu siitä, että mitä se
 Puhuja 4: käytännössä tarkoittaa, kun me mennään Natoon. Ja onko
 Puhuja 4: mitään muita
@@ -276,51 +280,50 @@ Puhuja 4: Totta kai näistä asioista
 Puhuja 4: nämä asiat tuotiin esille, mutta niistä ei keskusteltu.
 Puhuja 4: Se semmoinen mielikuva mulla on nyt, kun
 Puhuja 4: kuuntelin tämän jakson.
-Puhuja 3: Niin, ehkä tuo
-Puhuja 3: niin kuin sanoit, niin gallupit, niin olihan se semmoinen, että kyllä ne gallupit ohjasi myös sitä,
-Puhuja 3: että sitä ennen ei poliitikot uskaltanut sanoa Natosta mitään. Mutta
-Puhuja 3: kun kansan mielipide tuntui olevan niin vahva ja oli niin vahva, niin siitähän se oikeastaan lähti pyörimään pyörät.
-Puhuja 3: Se tulee esille
-Puhuja 3: siinä kodissa.
-Puhuja 3: Niin.
+Puhuja 2: Niin, ehkä tuo
+Puhuja 2: niin kuin sanoit, niin gallupit, niin olihan se semmoinen, että kyllä ne gallupit ohjasi myös sitä,
+Puhuja 2: että sitä ennen ei poliitikot uskaltanut sanoa Natosta mitään. Mutta
+Puhuja 2: kun kansan mielipide tuntui olevan niin vahva ja oli niin vahva, niin siitähän se oikeastaan lähti pyörimään pyörät.
+Puhuja 2: Se tulee esille
+Puhuja 2: siinä kodissa.
+Puhuja 2: Niin.
 Puhuja 1: Niin.
 Puhuja 5: No se on siellä ja sen voi ilmaiseksi kuunnella, jos ei halua ottaa Hesarin tilausta.
 Puhuja 5: Mutta saa myös kahden viikon kokeiluja? Saa myös kahden viikon kokeiluja. Voi myös tilata Helsingin.
-Puhuja 3: Kyllä. Kaikenlaisissa
-Puhuja 3: julkaisukanavissa,
-Puhuja 3: missä podcastia yleensä kuuntelet,
-Puhuja 3: niin sieltä
-Puhuja 3: pitäisi löytyä
-Puhuja 3: myös podcastpäätös,
-Puhuja 3: jota ei koskaan tehty.
+Puhuja 2: Kyllä. Kaikenlaisissa
+Puhuja 2: julkaisukanavissa,
+Puhuja 2: missä podcastia yleensä kuuntelet,
+Puhuja 2: niin sieltä
+Puhuja 2: pitäisi löytyä
+Puhuja 2: myös podcastpäätös,
+Puhuja 2: jota ei koskaan tehty.
 Puhuja 5: Mikä on mun mielestä erinomainen nimissä. Niin onkin tosi hyvä nimi. Ja tiedän myös sen että Tuomas Peltämämäki toivoo kovasti palautetta kaikilta niin jos kuuntelette sen niin laittakaa jossain kanavassa
 Puhuja 5: hänelle palautetta. Hän on sitä
 Puhuja 5: oikein vaatinut kaikilta. Jos kuuntelet sen velvollisuutesi ja antaa palaute. Me nyt tässä sitten annettiin. Jätekin voitte kaikki antaa, kun
 Puhuja 5: kuuntelette sen.
 Puhuja 5: Kyllä.
 Puhuja 5: Ihania kuunteluhetkiä kaikille.
-Puhuja 3: Okei, siinä kaikki tältä erää.
-Puhuja 3: Kiitos Inkeri Harju.
+Puhuja 2: Okei, siinä kaikki tältä erää.
+Puhuja 2: Kiitos Inkeri Harju.
 Puhuja 5: Anteeksi.
-Puhuja 5: Vai sä tiedät valmistellut.
+Puhuja 1: Vai sä tiedät valmistellut!
 Puhuja 5: Miksi skippaat minun puheenaiheeni?
-Puhuja 3: Mä unohdin.
+Puhuja 2: Mä unohdin. Mä unohdin.
 Puhuja 5: Kollektiivinen.
 Puhuja 5: Kaikki suosittelee vaan tätä Tuomas Peltomäen podcastia. Ja sitten mä tämmönen. Anteeksi.
-Puhuja 0: Juhlistamaan
-Puhuja 3: kesää
-Puhuja 3: tai kenties lähdemme joskus toistemme juhlistamaan kesää.
-Puhuja 3: Kun siinä tulee tämmöinen hetki, että
-Puhuja 3: vähän tuntematon ihminen ja mitäs tässä sanoisi,
-Puhuja 3: niin mistäs sitä
-Puhuja 3: puhutte?
-Puhuja 2: Olipa
-Puhuja 2: kryptinen muotoilu.
-Puhuja 3: Kun joskus ehkä saatatte jonkun kanssa puhua, niin mitä mahdollisesti
-Puhuja 3: sanoisitte? Inkeri.
+Puhuja 2: Juhlistamaan
+Puhuja 2: kesää
+Puhuja 2: tai kenties lähdemme joskus toistemme juhlistamaan kesää.
+Puhuja 2: Kun siinä tulee tämmöinen hetki, että
+Puhuja 2: vähän tuntematon ihminen ja mitäs tässä sanoisi,
+Puhuja 2: niin mistäs sitä sitten puhutte?
+Puhuja 3: Olipa
+Puhuja 3: kryptinen muotoilu.
+Puhuja 2: Kun joskus ehkä saatatte jonkun kanssa puhua, niin mitä mahdollisesti
+Puhuja 2: sanoisitte? Inkeri.
 Puhuja 5: Voisin kertoa tälle mystiselle
 Puhuja 5: vieraalle,
-Puhuja 5: että kannattaa katsoa. Tämä on vähän aikaa jo sitten tullut ehkä vuosi sitten tai jotain. Disney plus :aan on tullut tämmönen
+Puhuja 5: että kannattaa katsoa. Tämä on vähän aikaa jo sitten tullut ehkä vuosi sitten tai jotain. Disney Plussaan on tullut tämmönen
 Puhuja 5: sarja, kun Dobbsig.
 Puhuja 5: Tämä
 Puhuja 5: on
@@ -335,49 +338,50 @@ Puhuja 5: Siinä on mielestäni hyvin palansoitu
 Puhuja 5: semmoisen,
 Puhuja 5: että miten tehdään tositapahtumiin pohjautuva
 Puhuja 5: ei-dokumentti.
-Puhuja 5: Se oli viihdyttävä. Jotenkin vähän masentava aihe,
+Puhuja 5: Se oli viihdyttävä. Jotenkin
+Puhuja 5: vähän masentava aihe,
 Puhuja 5: mutta erittäin
 Puhuja 5: sivistävä ja hyvä. Suosittelen kaikille. Eli Dobbsig.
 Puhuja 5: Niistä ainakin Disney plussista löytyy.
 Puhuja 5: Hienoa.
-Puhuja 3: Kuka haluaa? No mäkin toisaalta voin ottaa vaikka nyt.
-Puhuja 3: Minäpä puhuisin siitä, että mulla on ollut tässä käynnissä tänä vuonna yhden
-Puhuja 3: naisen sekoilu
-Puhuja 3: nimeltä Vaatelakko.
-Puhuja 3: En ole ostanut yhtään uutta vaatetta tämän vuoden aikana.
-Puhuja 3: Luin viime vuonna Laura Frimanin kirjan tauko, jossa hän
-Puhuja 3: tai ryhtyy tällaiseen ostolakkoon.
-Puhuja 3: Silloin luin sen, niin ajattelin, että ei
-Puhuja 3: mun tarvitse. En ole mikään himosopppailu.
-Puhuja 3: Mutta sitten tuli tämän vuoden alku ja ajattelin, että
-Puhuja 3: minulla on
-Puhuja 3: kaapissa vaatteita, joita ihminen tarvitsee elääkseen
-Puhuja 3: ihan tarpeeksi.
-Puhuja 3: Siellä on ihan jokaista vaatekappaletta
-Puhuja 3: tarpeeksi
-Puhuja 3: tällaiseen normaaliin elämään. Niin ajattelin, että minäpä testaan tällaista
-Puhuja 3: vaatelakkoa ja suosittelen
-Puhuja 3: sellaiseen ryhtymistä kaikille,
-Puhuja 3: jotka siihen vain kykenee. Se
-Puhuja 3: ei ole mikään ekoteko, en ole säästänyt rahaa, mä ostanut kaikenlaista muuta. Mutta
-Puhuja 3: toivon, että tämä tulevaisuudessa
-Puhuja 3: johtaa siihen, että ylipäätään ostetaan vähemmän
-Puhuja 3: vaatteita
-Puhuja 3: ja harkitummin.
-Puhuja 3: Ja
-Puhuja 3: tämä on ollut myös tilaisuus
-Puhuja 3: miettiä omaa suhdetta vaatteisiin, että mistä ne impulssit vaatteiden ostamiseen tulee. Ne saattaa tulla tosi usein, tämä on huomannut, että esimerkiksi
-Puhuja 3: vuodenajanvaihdokset,
-Puhuja 3: kun tulee kevät, kesä, niin aina pitäisi uusia koko vaatekaappi.
-Puhuja 3: Se on ollut aika kiinnostavaa.
-Puhuja 3: Yhden vaatteen olen nostanut itse asiassa.
+Puhuja 2: Kuka haluaa? No minäkin toisaalta voin ottaa vaikka nyt.
+Puhuja 2: Minäpä puhuisin siitä, että mulla on ollut tässä käynnissä tänä vuonna yhden
+Puhuja 2: naisen sekoilu
+Puhuja 2: nimeltä Vaatelakko.
+Puhuja 2: En ole ostanut yhtään uutta vaatetta tämän vuoden aikana.
+Puhuja 2: Luin viime vuonna Laura Frimanin kirjan tauko, jossa hän
+Puhuja 2: tai ryhtyy tällaiseen ostolakkoon.
+Puhuja 2: Silloin luin sen, niin ajattelin, että ei
+Puhuja 2: mun tarvitse. En ole mikään himosopppailu.
+Puhuja 2: Mutta sitten tuli tämän vuoden alku ja ajattelin, että
+Puhuja 2: minulla on
+Puhuja 2: kaapissa vaatteita, joita ihminen tarvitsee elääkseen
+Puhuja 2: ihan tarpeeksi.
+Puhuja 2: Siellä on ihan jokaista vaatekappaletta
+Puhuja 2: tarpeeksi
+Puhuja 2: tällaiseen normaaliin elämään. Niin ajattelin, että minäpä testaan tällaista
+Puhuja 2: vaatelakkoa ja suosittelen
+Puhuja 2: sellaiseen ryhtymistä kaikille,
+Puhuja 2: jotka siihen vain kykenee. Se
+Puhuja 2: ei ole mikään ekoteko, en ole säästänyt rahaa, mä ostanut kaikenlaista muuta. Mutta
+Puhuja 2: toivon, että tämä tulevaisuudessa
+Puhuja 2: johtaa siihen, että ylipäätään ostetaan vähemmän
+Puhuja 2: vaatteita
+Puhuja 2: ja harkitummin.
+Puhuja 2: Ja
+Puhuja 2: tämä on ollut myös tilaisuus
+Puhuja 2: miettiä omaa suhdetta vaatteisiin, että mistä ne impulssit vaatteiden ostamiseen tulee. Ne saattaa tulla tosi usein, tämä on huomannut, että esimerkiksi
+Puhuja 2: vuodenajanvaihdokset,
+Puhuja 2: kun tulee kevät, kesä, niin aina pitäisi uusia koko vaatekaappi.
+Puhuja 2: Se on ollut aika kiinnostavaa.
+Puhuja 2: Yhden vaatteen olen nostanut itse asiassa.
 Puhuja 4: Eli ne oli
 Puhuja 4: kaikki turhaa.
-Puhuja 3: Mä olin Harry styles keikalla
-Puhuja 3: ja ostin sieltä keikka t-paidan, kiertueteepaidan.
-Puhuja 3: Sitä ei vaan voi ostaa ensi vuonna. Se piti ostaa sillä hetkellä.
+Puhuja 2: Mä olin Harry styles keikalla
+Puhuja 2: ja ostin sieltä keikka t-paidan, kiertueteepaidan.
+Puhuja 2: Sitä ei vaan voi ostaa ensi vuonna. Se piti ostaa sillä hetkellä.
 Puhuja 4: Hyväksytään jos kehyst sen. Sittenhän se tulee nyt paidan vaa. Sitten se on taide. Totta. Okei, semmoinen multa se
-Puhuja 3: oli
+Puhuja 2: oli
 Puhuja 4: ilmaisi
 Puhuja 4: erittäin innoissaan, koska Fanny Fantasy seiskasta, eli pitkään jatkuneesta japanilaisesta
 Puhuja 4: roolipelisarjasta,
@@ -398,7 +402,7 @@ Puhuja 4: Kuten sanoin, seitsemänvuotias
 Puhuja 4: pikkuilma olisi erittäin innoissaan siitä, että tästä on nyt tehty. Muistan, että siitä puhuttiin, että kohta se tulee se remake,
 Puhuja 4: puhuttiin vuonna kaksituhatta. Kohta ne julkaisee uuden remake. Ei mennyt kuin kaksisataakaksi vuotta, niin ollaan tässä. Mutta
 Puhuja 4: siis joo, Fina of Finacan Deamake, integrade.
-Puhuja 3: Mistä näitä pelejä
+Puhuja 2: Mistä näitä pelejä
 Puhuja 4: ostetaan nykyään? Se löytyy muun muassa Steamista
 Puhuja 4: ja muistaakseni Epic Gamesista myös.
 Puhuja 4: Ainakin näistä kahdesta isosta.
@@ -410,60 +414,62 @@ Puhuja 4: ja se on nyt myöhemmin tullut PC:lle,
 Puhuja 4: niin PS5:n
 Puhuja 4: tai PS4:n
 Puhuja 4: omistajat varmaan löytää omista palveluistaan.
-Puhuja 3: Joona.
-Puhuja 2: Keskustelisin ehkä mun
-Puhuja 2: tän kesän kirjapalusta
-Puhuja 2: ehkä tietyllä tavalla. Olen palannut
-Puhuja 2: pienen tavoin jälkeen tänä kesänä yhden suosikkikirjailijan
-Puhuja 2: pariin.
-Puhuja 2: Eli itävaltalaiskirjailija
-Puhuja 2: Thomas Bernhardin,
-Puhuja 2: jonka tuotanto
-Puhuja 2: sijoittuu erityisesti 60-70-luvuille.
-Puhuja 2: Hän kirjoittaa usein sellaisesta, miten mä sanoisin
-Puhuja 2: Vanhenevan miehen maailmantuskasta.
-Puhuja 3: Siinä meidän pitääkin kuulla tässä maailmassa lisää.
-Puhuja 2: Kyllä, mutta jotenkin se
-Puhuja 2: on
-Puhuja 2: aivan loistava kirjailija. Niissä sen kirjoissa siis dumataan ja
-Puhuja 2: haukutaan
-Puhuja 2: itävaltalainen
-Puhuja 2: politiikka,
-Puhuja 2: itävaltalainen
-Puhuja 2: kulttuuri,
-Puhuja 2: itävaltalainen
-Puhuja 2: yhteiskunta.
-Puhuja 2: Kirjat siis koostuvat
-Puhuja 2: usein siitä, että valitetaan erilaisista asioista, mitkä on huonosti.
-Puhuja 2: Mun mielestä hän
-Puhuja 2: on hieman sellainen extentrinen kirjailija, että siellä ei välttämättä
-Puhuja 2: lausemuodot ja kaikki eivät noudata
-Puhuja 2: välttämättä kieliopin mukaista etenemistä ja saattaa olla puolensivu mittaisia
-Puhuja 2: virkkeitä.
-Puhuja 2: Se on hyvin
-Puhuja 2: valittamisen tajunnanvirtaus
-Puhuja 2: ne kirjat. Mulla tulee niissä aina sellainen
-Puhuja 2: rentoutunut olo, että kyllä asiat voisi olla paljon huonomminkin.
-Puhuja 2: Erilaiset
-Puhuja 2: ympäröivät asiat voisivat vituttaa huomattavasti enemmän kuin
-Puhuja 2: omassa
-Puhuja 2: elämässä. Siinä plussana on vielä se, että se
-Puhuja 2: on kääntänyt
-Puhuja 2: Tarja Roinila Saksasta suomeksi aivan äärimmäisen
-Puhuja 2: hyvin
-Puhuja 2: sittemmin
-Puhuja 2: edesmennyt kääntäjä, mutta ehdottomasti yksi Suomen kääntäjä
-Puhuja 2: parhaimmistoa,
-Puhuja 2: vaikka Jaana Kapari-Jutan ohessa.
-Puhuja 2: Se tuo ehdottomasti
-Puhuja 2: niihin kirjoihin sellaisen lisämausteen, että tuntuu, kun lukisi Saksaa,
-Puhuja 2: mutta se onkin suomeksi.
-Puhuja 3: Hienoa.
-Puhuja 3: Okei, kiitos. Siinä kaikki tältä erää. Kiitos Inkeri Harju. Kiitos. Kiitos Joona Aaltonen. Kiitos. Kiitos, Ilmo Ilkka. Kiitos. Minun nimeni on Anni Keski-Heikkilä ja äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla Oona Mattila.
-Puhuja 3: Muistakaa lähettää meille palautetta:
-Puhuja 3: uutisraportti kaikenlaisissa
-Puhuja 3: kanavissa, ainakin Twitterissä.
-Puhuja 3: Kuullaan taas ensi viikolla.
+Puhuja 2: Joona.
+Puhuja 3: Keskustelisin ehkä mun
+Puhuja 3: tän kesän kirjapalusta
+Puhuja 3: ehkä tietyllä tavalla. Olen palannut
+Puhuja 3: pienen tavoin jälkeen tänä kesänä yhden suosikkikirjailijan
+Puhuja 3: pariin.
+Puhuja 3: Eli itävaltalaiskirjailija
+Puhuja 3: Thomas Bernhardin,
+Puhuja 3: jonka tuotanto
+Puhuja 3: sijoittuu erityisesti 60-70-luvuille.
+Puhuja 3: Hän kirjoittaa usein sellaisesta, miten mä sanoisin...
+Puhuja 3: Vanhenevan miehen maailmantuskasta.
+Puhuja 2: Siinä meidän pitääkin kuulla tässä maailmassa lisää.
+Puhuja 3: Kyllä, mutta jotenkin se
+Puhuja 3: on
+Puhuja 3: aivan loistava kirjailija. Niissä sen kirjoissa
+Puhuja 3: siis dumataan ja
+Puhuja 3: haukutaan
+Puhuja 3: itävaltalainen
+Puhuja 3: politiikka,
+Puhuja 3: itävaltalainen
+Puhuja 3: kulttuuri,
+Puhuja 3: itävaltalainen
+Puhuja 3: yhteiskunta.
+Puhuja 3: Kirjat siis koostuvat
+Puhuja 3: usein siitä, että valitetaan erilaisista asioista, mitkä on huonosti.
+Puhuja 3: Mun mielestä hän
+Puhuja 3: on hieman sellainen extentrinen kirjailija, että siellä ei välttämättä
+Puhuja 3: lausemuodot ja kaikki eivät noudata
+Puhuja 3: välttämättä kieliopin mukaista etenemistä ja saattaa olla puolensivu mittaisia
+Puhuja 3: virkkeitä.
+Puhuja 3: Se on hyvin
+Puhuja 3: valittamisen tajunnanvirtaus
+Puhuja 3: ne kirjat. Mulla tulee niissä aina sellainen
+Puhuja 3: rentoutunut olo, että kyllä asiat voisi olla paljon huonomminkin.
+Puhuja 3: Erilaiset
+Puhuja 3: ympäröivät asiat voisivat vituttaa
+Puhuja 3: huomattavasti enemmän kuin
+Puhuja 3: omassa
+Puhuja 3: elämässä. Siinä plussana on vielä se, että se
+Puhuja 3: on kääntänyt
+Puhuja 3: Tarja Roinila Saksasta suomeksi aivan äärimmäisen
+Puhuja 3: hyvin
+Puhuja 3: sittemmin
+Puhuja 3: edesmennyt kääntäjä, mutta ehdottomasti yksi Suomen kääntäjä
+Puhuja 3: parhaimmistoa,
+Puhuja 3: vaikka Jaana Kapari-Jutan ohessa.
+Puhuja 3: Se tuo ehdottomasti
+Puhuja 3: niihin kirjoihin sellaisen lisämausteen, että tuntuu, kun lukisi Saksaa,
+Puhuja 3: mutta se onkin suomeksi.
+Puhuja 2: Hienoa.
+Puhuja 2: Okei, kiitos. Siinä kaikki tältä erää. Kiitos Inkeri Harju. Kiitos. Kiitos Joona Aaltonen. Kiitos. Kiitos, Ilmo Ilkka. Kiitos. Minun nimeni on Anni Keski-Heikkilä ja äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla Oona Mattila.
+Puhuja 2: Muistakaa lähettää meille palautetta:
+Puhuja 2: uutisraportti kaikenlaisissa
+Puhuja 2: kanavissa, ainakin Twitterissä.
+Puhuja 2: Kuullaan taas ensi viikolla.
 Puhuja 4: Moi. Moikku LIIHI.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit,

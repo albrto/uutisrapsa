@@ -42,8 +42,10 @@ Puhuja 1: Oliko viikkoa ihan ollut.
 Puhuja 2: Te olette tehneet jonkun aivan tajuttoman
 Puhuja 2: määrän juttuja?
 Puhuja 2: Kyllä. Kyllä. Juuri näin. Annnekin on viikonlopun tarpeessa. Hei, mä tähän alkuun
-Puhuja 0: haluan huomioida muutamia seikkoja.
-Puhuja 0: Mulla on valehtelematta yli
+Puhuja 0: haluan
+Puhuja 0: huomioida muutamia seikkoja.
+Puhuja 0: Mulla on valehtelematta
+Puhuja 0: yli
 Puhuja 0: sata dm:ää
 Puhuja 0: vastaamatta
 Puhuja 0: Instagramissa,
@@ -53,10 +55,11 @@ Puhuja 0: X:ssä ja
 Puhuja 0: Fredtzissä, että podcasteja ei
 Puhuja 0: eilen muutosneuvotteluista
 Puhuja 0: johtuen
-Puhuja 0: ehditty tehdä, siitä heräsi ihmisillä huoli, että tarkoittaako se, että podcast on nyt lopetettu tai että joku podcastin tekijöistä on irtisanottu.
+Puhuja 0: ehditty tehdä, siitä heräsi ihmisillä huoli, että tarkoittaako se, että podcast on nyt lopetettu tai että joku podcastin tekijöistä on
+Puhuja 0: irtisanottu.
 Puhuja 0: Mutta ei tarkoita... En nyt ota
-Puhuja 0: kantaa siihen, mitä täällä tapahtuu muutosneuvotteluissa,
-Puhuja 0: mutta mitään tällaista ei ollut. Eilen vaan oli, koska täällä Helsingin Sanomissa on siis muutosneuvottelut saatu tällä viikolla päätökseen. Eilen oli semmoinen päivä, että
+Puhuja 0: kantaa siihen, mitä täällä tapahtuu muutosneuvotteluissa.
+Puhuja 0: Mutta mitään tällaista ei ollut. Eilen vaan oli, koska täällä Helsingin Sanomissa on siis muutosneuvottelut saatu tällä viikolla päätökseen. Eilen oli semmoinen päivä, että
 Puhuja 0: kaikkia työpaikan
 Puhuja 0: asioita
 Puhuja 0: ja järjestäytymisiä
@@ -70,25 +73,24 @@ Puhuja 0: että podcast, jos oltaisiin ehdittykin, niin se tehdä niin, että si
 Puhuja 0: Valitettavasti
 Puhuja 0: joudun nyt heti perään sanomaan, että myös tämä podcast, mitä tässä ollaan tekemässä, on hyvin tynkä
 Puhuja 0: podcast johtuen näistä samoista.
-Puhuja 2: Tuomas!
+Puhuja 1: Tuomas!
 Puhuja 2: Aina
-Puhuja 0: nyt yhden aiheen podcastiksi.
-Puhuja 0: Haluttiin, että tämän viikon asioista, jotka ovat tärkeitä ja merkittäviä,
+Puhuja 0: haluttiin, että tämän viikon asioista, jotka ovat tärkeitä ja merkittäviä,
 Puhuja 0: päästään edes vähän puhumaan.
 Puhuja 0: Vielä yksi pieni asia. Olen törmännyt toistuvasti
 Puhuja 0: tässä podcast-tekemisessä
 Puhuja 0: siihen, että nyt kun X:t ja muut ovat pirstaloituneet
-Puhuja 0: ja ihmiset ovat
-Puhuja 0: hyvin paljon siirtyneet eri someihin. Jotkut ovat lopettaneet somen käytön kokonaan.
+Puhuja 0: ja ihmiset
+Puhuja 0: ovat hyvin paljon siirtyneet eri someihin. Jotkut ovat lopettaneet somen käytön kokonaan.
 Puhuja 0: Myös
 Puhuja 0: jakelukanavat ovat pirstaloituneet siten, että on kaiken maailman joku tilaa ja kuuntelee bodmiita, joku Spotify tai joku Applea.
 Puhuja 0: Tämä homma pirstaloituu
 Puhuja 0: tosi paljon. Niin on vaikea
 Puhuja 0: tiedottaa asioista silleen...
-Puhuja 1: Mutta
-Puhuja 1: tällaisia esimerkkejä on tosi paljon.
+Puhuja 1: Tällaisia esimerkkejä on tosi paljon.
 Puhuja 1: Kyllä nämä on tosi isot heikennykset
-Puhuja 1: sote-palveluihin meillä. Sote ei varatun
+Puhuja 1: sote-palveluihin
+Puhuja 1: meillä. Sote ei varatun
 Puhuja 1: varattu
 Puhuja 2: väestön ikääntymisestä. Sehän on
 Puhuja 2: argumentatiivinen
@@ -99,11 +101,12 @@ Puhuja 2: Totta.
 Puhuja 2: Mutta olennainen on tavallaan, että mikä on se rahan tarpeen kasvu
 Puhuja 2: tulevaisuudessa.
 Puhuja 2: Jos tänään hoidat kymmentä vanhusta,
-Puhuja 2: niin ensi vuonna kaksikymmentä:n vanhusta tämä suhdeluku ei perustu mihinkään,
+Puhuja 2: ensi vuonna kaksikymmentä:n vanhusta tämä suhdeluku ei perustu mihinkään,
 Puhuja 2: mutta totta kai se pitääkin kasvaa se rahamäärä.
 Puhuja 2: Mutta
 Puhuja 2: tietysti tässä täytyy vähän ymmärtää
-Puhuja 2: tätä palapeliä, että tämä on ihan hirveän vaikea tilanne, koska sitten on asioita, joita voisi ajatella velkarahalla vaan, että otetaan vaan velkaa ja sitten
+Puhuja 2: tätä palapeliä, että tämä on ihan hirveän vaikea tilanne, koska
+Puhuja 2: on asioita, joita voisi ajatella velkarahalla vaan, että otetaan vaan velkaa ja sitten
 Puhuja 2: laitetaan vaan sote hirveästi rahaa. Mutta kun siellä on muitakin muuttujia, jotka ovat ongelmallisia. Vaikka se, että meillä ei ole niitä ammattilaisia.
 Puhuja 2: Joka paikassa kilpaillaan
 Puhuja 2: niistä sote-alan ammattilaisista,
@@ -119,27 +122,26 @@ Puhuja 1: yksityisen sairaanhoidon
 Puhuja 1: terveydenhoidon
 Puhuja 1: Kela-korvauksia.
 Puhuja 0: Tietenkin on, mitä kovasti haluaakin.
-Puhuja 1: Siihen taas on lisätty rahaa. Se valinta on tehty, että
+Puhuja 1: Siihen
+Puhuja 1: taas on lisätty rahaa. Se valinta on tehty, että
 Puhuja 1: panostetaan
-Puhuja 1: tai siirretään sitä
-Puhuja 1: painopistettä yksityiseen terveydenhuoltoon.
+Puhuja 1: tai siirretään sitä painopistettä
+Puhuja 1: yksityiseen terveydenhuoltoon.
 Puhuja 0: Me oltiin meillä viettämässä viikonloppua
-Puhuja 0: poikain kanssa ja siinä sitten rilluteltiin ja syöpöteltiin ja pelailtiin ja tällaista. Sitten otettiin
-Puhuja 0: keskusteluun suomalainen julkinen terveydenhuolto.
+Puhuja 0: poikain kanssa ja siinä sitten rilluteltiin ja syöpöteltiin ja pelailtiin ja tällaista. Ja sitten otettiin keskusteluun suomalainen julkinen terveydenhuolto.
 Puhuja 0: Se herätti raivoa,
-Puhuja 0: kun kerroin
-Puhuja 0: niille. Totta kai. Ehkä minun esitystapakin oli hyvin provosella.
+Puhuja 0: kun minä kerroin niille. Totta kai. Ehkä minun esitystapakin oli hyvin provosella.
 Puhuja 0: Että Suomessa on jo
 Puhuja 0: amerikkalaistatyylinen
 Puhuja 0: yksityinen terveydenhuolto.
 Puhuja 0: Itse asiassa ei Suomessa ole mitään julkista terveydenhuoltoa, vaan Suomessa on vielä typerää pysysteemi kuin
-Puhuja 0: Amerikassa, missä yksityiset mehilä ja muut hoitavat
+Puhuja 0: Amerikassa, missä
+Puhuja 0: yksityiset mehilä ja muut hoitavat
 Puhuja 0: sen perusterveydenhuollon
-Puhuja 0: isot siivut. Mutta he eivät hoida sieltä
-Puhuja 0: sitä sairasta osaa, vaan ne hyvinvoivat,
+Puhuja 0: isot siivut. Mutta he eivät hoida sieltä sitä sairasta osaa, vaan ne hyvinvoivat,
 Puhuja 0: työssäkäyvät
-Puhuja 0: terveet osat ja sitten
-Puhuja 0: sen sairaan
+Puhuja 0: terveet osat. Ja sitten
+Puhuja 0: sen sairaan,
 Puhuja 0: iljettävän hyihihaisevan...
 Puhuja 0: Nimenomaan. Nimenomaanmasipuatun mummon. Niin, sen
 Puhuja 0: hoitaa julkinen
@@ -153,7 +155,8 @@ Puhuja 0: tuoksuvia kivoja, joilla on vähän yskää ja sitten he haluavat ehk�
 Puhuja 0: Ja sitten kuitenkin, jos paljastui, että sillä hyväosasellakin
 Puhuja 0: on joku A, sulla on joku patiselässä, että tämä näyttää vaaralliselta,
 Puhuja 0: niin sitten se taas heitetään sille, että okei, menepäs nyt taas sinne julkiselle puolelle erityisterveydenhuoltoon.
-Puhuja 0: Moni, moni, moni, moni suomalainen kärsii semmoisesta illuusiosta,
+Puhuja 0: Moni,
+Puhuja 0: moni, moni, moni suomalainen kärsii semmoisesta illuusiosta,
 Puhuja 0: että
 Puhuja 0: Suomessa on julkinen terveydenhuolto,
 Puhuja 0: jossa suomalaiset käy. Ei ole. Suuri osa suomalaisista käy yksityisestä terveydenhuollosta, koska meillä on työterveysjärjestelmä.
@@ -163,12 +166,12 @@ Puhuja 0: hommat. Se on typerämpi systeemi kuin Amerikassa,
 Puhuja 0: jossa se yksityinen sektori kuitenkin
 Puhuja 0: viime kädessä hoitaa ne aivoleikkaukset,
 Puhuja 0: sydänsiirrot ja muut. Meillä yksityinen sektori ei hoida niitä, vaan ne hoidetaan julkisesti.
-Puhuja 0: Suomessa on kenties
-Puhuja 0: hyvin mahdollisesti tämä hatusta, tämä ei fakta typerin terveydenhuoltosysteemi
+Puhuja 0: Suomessa on kenties hyvin mahdollisesti tämä hatusta, tämä ei fakta typerin terveydenhuoltosysteemi
 Puhuja 0: koko maapallo.
-Puhuja 0: No niin, siinä on mun mielipide tälle perjantaille. Olkaa hyvä!:
-Puhuja 1: Mä en tiedä tarpeeksi tuosta vertailusta En
-Puhuja 1: tiedä tarpeeksi tuosta vertailusta
+Puhuja 0: No niin, siinä on mun mielipide
+Puhuja 0: tälle perjantaille. Olkaa hyvä!:
+Puhuja 1: Mä en tiedä tarpeeksi tuosta vertailusta
+Puhuja 1: En tiedä tarpeeksi tuosta vertailusta
 Puhuja 1: Yhdysvaltoihin, mutta siis onhan toi asia, mitä...
 Puhuja 1: Esimerkiksi THL:n
 Puhuja 1: johtaja Mika Salminen on pitänyt todella isona ongelmana, siis isoimpana
@@ -210,7 +213,7 @@ Puhuja 2: isoon juttu, että
 Puhuja 2: onpas
 Puhuja 2: aikamoinen juttu, että mistähän tässä on kysymys. Sitten se yhtäkkiä vähän häviää johonkin taivaanrantaan,
 Puhuja 2: ja että muistakaa, että semmoista oli. Mulla tuli tällainen olo,
-Puhuja 2: kun luin Anu Nousiaisen juttua tässä ihan vasta taannoin, eli hän on Helsingin Sanomien
+Puhuja 2: kun luin Anu Nousiaisen juttua tässä ihan vasta taannoin, eli hän on siis Helsingin Sanomien
 Puhuja 2: toimittaja
 Puhuja 2: ja kuukausiliitteen
 Puhuja 2: juttu.
@@ -252,8 +255,8 @@ Puhuja 2: vuosituhannen
 Puhuja 2: vaihteeseen, että se on ollut tällaisia vähän aaltoja.
 Puhuja 2: En viitsi spoilaa tätä kokonaan,
 Puhuja 2: mutta
-Puhuja 2: Anu on tavallaan ruotinut. Minä juttelin Anun kanssa tästä ja hän sanoi, että häntä oli jäänyt vaivaamaan tämä asia. Hän oli aina palannut siihen, että mistä siinä oli kysymys. Ai jaa, okei, okei. Koska Anu on niin käsittämättömän hyvä
-Puhuja 2: toimittaja, niin sitten hän
+Puhuja 2: Anu on tavallaan ruotinut. Minä juttelin Anun kanssa tästä ja hän sanoi, että häntä oli jäänyt vaivaamaan tämä asia. Hän oli aina palannut siihen, että mistä siinä oli kysymys. Ai jaa, okei, okei. Koska Anu on niin käsittämättömän
+Puhuja 2: hyvä toimittaja, niin sitten hän
 Puhuja 2: pureutui tähän. Okei, että hän muisti sieltä, että olipa outo juttu siellä Ruotsissa. Joo, se oli jotenkin. Mä en ihan tarkkaan tiedä, mikä se historia on, mutta Anu oli jäänyt asiaa miettimään ja nyt hän oli päättänyt tarttua tähän.
 Puhuja 2: En spoilaa asiaa enempää, mutta on kyllä juttu, josta
 Puhuja 0: jää paljon kysymyksiä. Mutta voi olla kysymyksiä.
@@ -336,7 +339,7 @@ Puhuja 1: Se on kertonut
 Puhuja 1: yhdestä levystä
 Puhuja 1: ja kaksi tuntia sen levyn julkaisun jälkeen se julkaisee viisitoista dieseliä. Ja sitten sä olet täällä etkä ole kuuntelemassa. Mä olin sanomassa, että jokainen sekunti, kun mä olen täällä töissä,
 Puhuja 1: täällä podissa, kun mä en pysty kuuntelemaan sitä
-Puhuja 0: levyä, on tuskaa. Tittakin katsojat ehkä muistavat sen jossain keskustelussa. On näkeneet, että Annilla on upea Teller Swft muki. Joo, se on ihanan työmuki.
+Puhuja 0: levyä, on tuskaa. Tittakin katsojat ehkä muistavat sen jossain keskustelussa. On näkynyt, että Annilla on upea Teller Swift muki. Joo, se on ihanan työmuki.
 Puhuja 1: Oli tosi hyvä ja ihana.
 Puhuja 2: Eikö se ole niitä teemoja, niin onko se joku teema? Sen levyn nimi on The Torcher Powatch the Dpartment
 Puhuja 1: eli kidutettujen
@@ -391,8 +394,10 @@ Puhuja 0: siinä kaikki tältä erää.
 Puhuja 0: Kiitos, Anne Keski-Heikkilä.
 Puhuja 0: Kiitos. Kiitos, Salla Vuorikoski. Kiitos.
 Puhuja 0: Mä muistuttaisin
-Puhuja 0: kuulijoita, että jos haluat kuulla mun podcast tekemisistä vielä, niin saatetiedoissa
-Puhuja 0: Taimman Twitterin pinnatuissa
+Puhuja 0: kuulijoita, että jos haluat kuulla mun podcast-tekemisistä
+Puhuja 0: vielä,
+Puhuja 0: niin saatetiedoissa
+Puhuja 0: Taimon Twitterin pinnatuissa
 Puhuja 0: on linkki, jossa voit luovuttaa minulle sähköpostisi. Se on hyvä tapa pysyä kärryillä
 Puhuja 0: ja kulmisissa.
 Puhuja 0: Äänikuvan ja kaiken muun mahtava meille tekee tällä viikolla Mikko Peura.

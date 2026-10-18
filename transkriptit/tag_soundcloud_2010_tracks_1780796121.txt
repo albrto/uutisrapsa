@@ -39,8 +39,7 @@ Puhuja 0: Sitä iloisesti huudellaan tuolla
 Puhuja 0: toimituksen käytävillä päivästä toiseen.
 Puhuja 0: Mutta se, mikä
 Puhuja 0: tässä iloisessa päivässä on ilahduttavalla tavalla, hieman poikkeuksellista, on se, että olemme saaneet
-Puhuja 0: aivan
-Puhuja 0: mahtava vieras tähän podcastiin.
+Puhuja 0: aivan mahtava vieras tähän podcastiin.
 Puhuja 0: Toki podcastin vanha ystävä,
 Puhuja 0: nimittäin
 Puhuja 0: Helsingin Sanomien
@@ -60,26 +59,26 @@ Puhuja 0: juristi. Tiedätkö, mitä Anni vastasi?
 Puhuja 0: No eihän se ole edes notaari!
 Puhuja 0: Kyllä.
 Puhuja 0: Toivottavasti
-Puhuja 0: pian et pysty sanomaan noin. Pian juristi Paavo Teittinen. Toivotaan.
+Puhuja 2: pian et pysty sanomaan noin. Pian juristi Paavo Teittinen. Toivotaan.
 Puhuja 0: Syy siihen on se, että tämän viikon podcastissa keskustellaan
-Puhuja 0: hallituksen
-Puhuja 0: luonnoksesta.
+Puhuja 0: hallituksen luonnoksesta.
 Puhuja 0: En nyt muista sillä lailla nimeä. Sillä oli pitkä ja vaikea nimi.
 Puhuja 0: Rajalaki.
 Puhuja 0: Paitsi se ei ole rajjalaki, koska rajjalaki on se toinen laki. Any who.
 Puhuja 2: Nimeni on hallituksen esitys eduskunnalle
 Puhuja 2: laiksi väliaikaisista
 Puhuja 2: toimenpiteistä välineellistäetyn
-Puhuja 0: maahantulon torjumiseksi. Torjumiseksi. Kyllä, juuri tästä näin keskustellaan.
-Puhuja 0: Tämä on siis
-Puhuja 0: hallituksen laki luonnos, joka on lähtenyt lausuntokierrokselle.
-Puhuja 0: Tarkoittaa sitä, että erinäköiset
+Puhuja 2: maahantulon torjumiseksi. Torjumiseksi. Kyllä, juuri tästä
+Puhuja 0: näin
+Puhuja 0: keskustellaan. Tämä on siis hallituksen
+Puhuja 0: laki luonnos, joka on lähtenyt lausuntokierrokselle. Tarkoittaa sitä, että erinäköiset
 Puhuja 0: asiantuntijat
 Puhuja 0: haukkuvat sen.
-Puhuja 0: Mutta tämä on siis viimeisin
-Puhuja 0: ja kenties merkittävä etappi hallituksen pitkässä saagassa,
-Puhuja 0: jolla jollakin tavalla yritetään epätoivoisesti
-Puhuja 0: varautua siihen, että Venäjä
+Puhuja 0: Mutta
+Puhuja 0: tämä on siis viimeisin
+Puhuja 0: ja kenties merkittävin etappi
+Puhuja 0: hallituksen pitkässä saagassa,
+Puhuja 0: jolla jollakin tavalla yritetään epätoivoisesti varautua siihen, että Venäjä
 Puhuja 0: käyttää
 Puhuja 0: hybridimielessä
 Puhuja 0: hyväkseen
@@ -126,9 +125,8 @@ Puhuja 0: siellä, missä rahaa on vähiten, eli käytännössä
 Puhuja 0: opiskelijoilla, jotka ei sitten enää lähde vaihtoon.
 Puhuja 1: Se on tosi surullista, ettei lähde vaihtoon. Jep.
 Puhuja 1: Pääsemme osioon. Mulla ainakin oli tosi kivaa vaihdossa.
-Puhuja 1: Missä
-Puhuja 1: Olin Oslossa.
-Puhuja 2: Joo, Oslossa kiva kaupunki. Olin Pariisissa, oli kans tosi kivaa.
+Puhuja 1: Missä oli? Olin Oslossa.
+Puhuja 2: Joo, Oslossa kiva kaupunki. Olin Pariisissa, oli myös tosi kivaa.
 Puhuja 2: En oppia kyllä ranskaa.
 Puhuja 1: En minäkään Norjaa. Mulla kävi niin, että halusin oppia,
 Puhuja 1: kävi niin, että mä luulin, että
@@ -148,10 +146,10 @@ Puhuja 2: varmaan välineellistä.
 Puhuja 2: Onko tästä hyötyä opinnoille?
 Puhuja 1: Ja myös
 Puhuja 1: se, että saako niitä hyväksiluettua sinne omiin opintoihin. Niin.
-Puhuja 0: Edistätkö sä sun opiskeluja? Kuulostaa kaikki hyvin epäterveltä.
+Puhuja 0: Edistätkö sä sun opiskeluja. Kuulostaa kaikki hyvin epäterveltä.
 Puhuja 0: Ei pidä miettiä, että edistääkö se jotain opintoja.
 Puhuja 1: Mutta jotain tapahtui korona-aikana.
-Puhuja 1: Koska mekin tässä puhuimme, että voi vielä mun aikana silloin lähdettiin paljon vaihtoon. Niin oikeasti
+Puhuja 1: Koska mekin tässä puhuimme, että voin vielä mun aikana silloin lähdettiin paljon vaihtoon. Niin oikeasti
 Puhuja 1: kääntyi laskuun vaihto-opiskeluun lähtö siis
 Puhuja 1: Opetushallituksen tilastoissa,
 Puhuja 1: koska kaikkia tutkinto-opiskelijoita
@@ -170,7 +168,7 @@ Puhuja 0: Miten tätä voisi kommentoida
 Puhuja 0: kuulostamatta
 Puhuja 0: tosi vaivaan
 Puhuja 0: ottavan boomerilta?
-Puhuja 0: Mä en osaa, mä en keksi niitä sanoja. Vaihdossa on ihan sika hauskaa. Ihan mahtavaa. Tai siis se on myös ihan perseestä.
+Puhuja 0: Mä en osaa, mä en keksi niitä sanoja. Vaihdossa on ihan sika hauskaa. Mahtavaa. Tai siis se on myös ihan perseestä.
 Puhuja 0: Siis se on tosi, tosi perseestä.
 Puhuja 1: Ei ollut yhtään.
 Puhuja 0: Menee aika laskurse. Oli siellä vaikeita hetkiä. Mä asuin semmoisessa hillittämässä
@@ -185,7 +183,8 @@ Puhuja 0: Myös
 Puhuja 0: vaihdan aikana hoksasin yhtäkkiä olin ensimmäistä kertaa elämässä yksin jossain.
 Puhuja 0: Yhtäkkiä havahduin sille, miten
 Puhuja 0: isossa roolissa mun läheiset ihmiset mun ympärillä on ollut, mitä mä en pärjää yhtään ilman niitä.
-Puhuja 0: Se oli niin tärkeä opetus mulle. Kyllä se kasvattaa myös sen. Niin, todella joo. Sä havahdut siihen, miten paljon sä merkkaat ne tutut on siellä ympärillä
+Puhuja 0: Se oli niin tärkeä opetus mulle. Kyllä se kasvattaa myös sen. Niin, todella joo. Sä
+Puhuja 0: havahdut siihen, miten paljon sä merkkaat ne tutut on siellä ympärillä
 Puhuja 0: ja sä tiedät, mistä mennään. Siis
 Puhuja 1: kasvatuksen määrä. Joo ja siellä tuli jotenkin rohkeammaksi, että
 Puhuja 2: Korkein inflaatio
@@ -197,9 +196,9 @@ Puhuja 2: Tavallaan
 Puhuja 2: sellainen. Sehän on ollut jo pidempään, mutta mietin, onko se tavallaan kiihtynyt, koska maailman ympärillä tuntuu muuttuvan yhä epävarmemmaksi
 Puhuja 2: ja väkivaltaisemmaksi.
 Puhuja 2: Viisi vuotta puhuttiin paljon esim. Siitä, että työelämä huonontuu.
-Puhuja 2: Tein silloin jutun siitä, miten ainakin professori Roope Uusitalo oli tutkinut tilastoja ja sitä mieltä, että ei se itse asiassa huononut, mutta se kokemus on lisääntynyt
+Puhuja 2: Viisi vuotta puhuttiin paljon esim. Siitä, että työelämä huonontuu. Tein silloin jutun siitä, miten ainakin professori Roope Uusitalo oli tutkinut tilastoja ja sitä mieltä, että ei se itse asiassa huononut, mutta se kokemus on lisääntynyt
 Puhuja 2: merkittävästi.
-Puhuja 2: Esimerkiksi pätkätyösuhteet eivät olleet tilastojen mukaan kasvanut, työntekijöiden tyytyväisyys oli
+Puhuja 2: Esimerkiksi pätkä työsuhteet eivät olleet tilastojen mukaan kasvanut, työntekijöiden tyytyväisyys oli
 Puhuja 2: Mutta mitä tilanne tällä hetkellä on? Voihan se olla, että se on aidosti huonontunut nyt. Mutta mitä tässä voisi olla... Tunnistan sen fiiliksen, että kun tuntuu siltä, että stressaaja on ihan sikana kaikkeen, niin
 Puhuja 1: Onhan se vaihtua hakeminen ja sitten se vielä lähteminen, niin se on ylimääräinen
 Puhuja 2: vaiva. Niin ja sä mietit sanoa, että
@@ -210,14 +209,14 @@ Puhuja 2: huoli ilmastosta tai kokemus
 Puhuja 2: työelämän epävarmuudesta
 Puhuja 2: tai stressi, että työllistyykö opiskelujen jälkeen.
 Puhuja 1: Itse asiassa yllätyin siitä, että vaihtoon lähdön
-Puhuja 1: kultakausi oli siis 2010-luku.
+Puhuja 1: kultakausi oli 2010-luku.
 Puhuja 1: Olisin kuvitellut, että se on 2000-luvun
 Puhuja 1: alku,
 Puhuja 1: että silloin oli semmoinen, Eurooppa aukeaa ja kaikki lähti. Silloin oli tosi globaali.
 Puhuja 1: Juuri tuollainen, mutta itse asiassa silloin lähti vaihtoon ihmisiä vielä vähemmän kuin nyt. No en oikein.
 Puhuja 0: Mietin, että tässä
 Puhuja 0: varmasti myös vaikuttaa se... Nyt on todella sitä boomeri muistelee juttua.
-Puhuja 0: Mutta jos olin kaksituhatta neljä, eli tasan kaksikymmentä vuotta sitten
+Puhuja 0: Mutta jos olin kaksituhatta neljä eli tasan kaksikymmentä vuotta sitten
 Puhuja 0: vaihdossa, ei silloin,
 Puhuja 0: ei vähän
 Puhuja 0: joka toinen tyyppi ollut välttämättä käynyt,
@@ -237,7 +236,7 @@ Puhuja 0: vanhemmat, ei niillä ollut varaa viedä koko perhettä johonkin ransk
 Puhuja 0: Parempi osasten homma on se. Ei normi-ihmiset käynyt joka
 Puhuja 0: vuosi missään reissussa tälleen perheineen.
 Puhuja 0: Mutta nykyään siis ihmiset on paljon kansainvälisimpiä.
-Puhuja 0: Ehkä siinä on se... Ja mä sanon illuusio siitä, että se ei ole mitään. Mutta mehän, jotka ollaan käyty vaihdossa, tajutaan, että se on ihan totaalisen eri asia, mennä asumaan sille kuin käymään.
+Puhuja 0: Ehkä siinä on se... Mä sanon illuusio siitä, että se ei ole mitään. Mutta mehän, jotka ollaan käyty vaihdossa, tajutaan, että se on ihan totaalisen eri asia, mennä asumaan sille kuin käymään.
 Puhuja 0: Mut siitä puuttuu semmoinen jano, mikä oli silloin, kun sä et ollut ikinä vittu edes nähnyt ulkomaita,
 Puhuja 2: niin se jano on niin uskomaton. Ja puuttuu semmoinen fooon, kun kaverit sanoo, että mä oon ollut vaihdossa, sä oot silleen aijaa okei, kiva, mäkin olin just lomat, mäkin olin just lomalla. Just näin.
 Puhuja 0: Haluaisin sanoa tähän vielä sen,
@@ -266,12 +265,14 @@ Puhuja 2: hyötyjä
 Puhuja 2: Suomelle
 Puhuja 2: ikään kuin kansantaloutena tai muuta. Ajattelin, että se on yksilön kannalta tärkeää se sama.
 Puhuja 2: Niin,
-Puhuja 2: okei. Sitten
+Puhuja 0: okei.
+Puhuja 0: Sitten
 Puhuja 0: paikkaansa.
-Puhuja 1: Niin,
+Puhuja 0: Niin,
 Puhuja 0: oli... Skipattiin se yksi aihe. Mä en onneksi enää edes muista, mikä se oli. Eikä puhuta näistä miesasioista vielä. Ensi viikolla. No niin, ensi viikolla.
 Puhuja 0: Mutta kun
-Puhuja 0: lähdette, otatte sellaisen
+Puhuja 0: lähdette,
+Puhuja 0: otatte sellaisen
 Puhuja 0: sipulisäkin,
 Puhuja 0: vanhan
 Puhuja 0: sipulisäkin selkään,
@@ -291,13 +292,14 @@ Puhuja 0: ota siitä huikkapiimään
 Puhuja 0: ja minä kerron tämmöisen jutun. Mistäs kerrot heille?
 Puhuja 1: Mä olen ladannut tällaisen
 Puhuja 1: vihdoinkin New York Timesin Games-sovelluksen.
-Puhuja 2: Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. H
+Puhuja 2: Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. Huut. H
 Puhuja 1: Mikä on Connections?
-Puhuja 1: Sun pitää löytää viisi kirjaaminen sana. Et sä
-Puhuja 1: se, mitä aina joka päivä etsitään. Se sana
-Puhuja 1: joka päivä vaihtuu. Ja sulla on muutama yritys löytää se tietty sana.
-Puhuja 1: Se on tosi hyvä veli. Ja connections
-Puhuja 1: on
+Puhuja 1: Sun pitää löytää
+Puhuja 2: viisi kirjaaminen sana. Et sä kuullu Worldstäkään?
+Puhuja 0: Oon mä joskus
+Puhuja 0: kaksikymmentä vuotta sitten pelannut sitä, mutta
+Puhuja 1: ja sulla on muutama yritys löytää se tietty sana.
+Puhuja 1: Se on tosi hyvä veli. Ja sitten se connections on semmoinen, missä on
 Puhuja 1: joukko sanoja.
 Puhuja 1: Sun pitää
 Puhuja 1: löytää neljän ryhmiä, jotka on aina niin, että
@@ -307,8 +309,7 @@ Puhuja 1: kaukaa haettuja ne yhteydet.
 Puhuja 1: Mutta se on tällainen älypeli.
 Puhuja 0: Suosittelen lataamaan tämän sovelluksen. Se on tosi hyvä peli. Vau! Ei ikinä olisi tullut edes tuo konsepti mieleen The New Yor Timesin
 Puhuja 2: pelisovellus. No, itse hyviä tuossa. Onko sinulla myös New Yor Timesin kuking app? Ei. Se on loistava. Latatko seuraavaksi. Saat sen sille hinnalle, jos tilaat sen. Se on loistava, New Yor Timesin kuking app. Mä aina katselen reseptejä.
-Puhuja 0: Joo, joo, joo. New Yor Timesin kuking vuoksi. Tosi
-Puhuja 0: hyviä reseptejäukkoja.
+Puhuja 0: Joo, joo, joo. New Yor Timesin kuking vuoksi. Ihan valoisalta. Tosi hyviä reseptejäukkoja.
 Puhuja 0: Vau. No niin.
 Puhuja 0: New York Times on hyvä meininki,
 Puhuja 1: sitä on kehuttu tässä podcast senkin. Sitten siellä on jotain ristikoita ja sudokuja.
@@ -398,8 +399,7 @@ Puhuja 0: Sunnuntaina on hiljaista.
 Puhuja 0: Kävelet polkua, joka kerran oli tie.
 Puhuja 0: Kilometripylväissä
 Puhuja 0: matkojen määrät tuumaa syvällä graniitissa.
-Puhuja 0: Liian monta kilometriä
-Puhuja 0: minne tahansa.
+Puhuja 0: Liian monta kilometriä minne tahansa.
 Puhuja 0: Sunnuntaina on hiljaista kuin Holtin Erkin majan tuvalla.
 Puhuja 0: Kuusen oksaa on heitetty polkupyörän sisäkumi.
 Puhuja 0: Rikoetussa
@@ -419,8 +419,7 @@ Puhuja 0: hei, lähettäkää meille palautettauutisraportti
 Puhuja 0: ja kuullaan taas ensi viikolla!
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit
-Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritys
-Puhuja 0: syntyi.
+Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen
 Puhuja 0: yrityksen eli Fortumin, melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
@@ -428,8 +427,8 @@ Puhuja 0: Kaasukauppaan, joka päätyi aseeksi aseeksi suurvaltapolitiikassa.
 Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä Podcastini, mä luulin, että mä lähtisin selvittämään
 Puhuja 0: kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
-Puhuja 0: Mun eteen avautui taloudellinen
-Puhuja 0: murhamysteeri.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
 Puhuja 0: ja on poliitikkoja
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti

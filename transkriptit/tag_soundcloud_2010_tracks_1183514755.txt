@@ -14,13 +14,13 @@ Puhuja 1: Helsingin Sanomat.
 Puhuja 0: Hei ja tervetuloa Helsingin Sanomien Ut raportti!
 Puhuja 0: POSina
 Puhuja 0: kaksikymmentäkolme.
-Puhuja 0: Päivä joulukuuta.
-Puhuja 0: Joulukuuta
+Puhuja 0: Päivä joulukuuta
+Puhuja 0: joulukuuta
 Puhuja 0: on todellakin aaton aaton aaton
 Puhuja 0: aaton
-Puhuja 1: aaton
+Puhuja 0: aaton
 Puhuja 0: aatto. Ja mun nimi on
-Puhuja 0: Kalenter
+Puhuja 0: Kalenterihuone
 Puhuja 0: huono.
 Puhuja 0: Tuomas peltoväki. Tässä vedellään on todellakin vuoden
 Puhuja 0: viimeisiä podeja.
@@ -37,8 +37,7 @@ Puhuja 0: Helsingin Sanomien meidän politiikassa.
 Puhuja 2: No eihän mä, ei herra jumala. Älä nyt sano tuommoisia.
 Puhuja 2: Kuuntelevansa, ei kuuntele tätä.
 Puhuja 2: Joulu on parasta, mitä on. Kokeilin
-Puhuja 0: vähän, että jos sieltä irtoaisi joku reaktio. Näin tapahtui. Tämän viikon
-Puhuja 0: joulupodcastissa,
+Puhuja 0: vähän, että jos sieltä irtoaisi joku reaktio. Näin tapahtui. Tämän viikon joulupodcastissa,
 Puhuja 0: joka pidetään toivottavasti
 Puhuja 0: tavanomaista lyhyempänä
 Puhuja 0: ja joka julkaistaan Autonattona
@@ -49,7 +48,7 @@ Puhuja 0: Tuomaksen päivänä.
 Puhuja 1: Hyvää nimipäivää Tuomas. Mäkin
 Puhuja 2: olen Tuomas.
 Puhuja 1: Oletko ollutko Tuomas Junkkari?
-Puhuja 0: Arko Tuomas Kalevi. Aava ja mä lähden. No onneksi olkoon kertakaikkisesti.
+Puhuja 0: Arko Tuomas Kalevi. Aava ja mä en ole. No onneksi olkoon kertakaikkisesti.
 Puhuja 0: Mä en ole Tuomas.
 Puhuja 0: Mikäs on Vesa Tuomas.
 Puhuja 1: Sä löydät kyllä vähän Veosalta myös. Mä näytän aivan isältäni nykyään,
@@ -109,7 +108,8 @@ Puhuja 0: että sinappikaaasu.
 Puhuja 0: Se on vasta.
 Puhuja 0: Tämmöinen mieltä ylentävä
 Puhuja 0: loppuanekdoti.
-Puhuja 0: Okei. Nyt sitten, kun tulee joulu,
+Puhuja 0: Okei.
+Puhuja 0: Nyt sitten, kun tulee joulu,
 Puhuja 0: millä mielellä te nyt laskeudutte joulua?
 Puhuja 1: Työstressihuolet
 Puhuja 1: kyllä jatkuu heti joulun jälkeen.
@@ -129,12 +129,13 @@ Puhuja 1: ja tämän tyyppistä. Pysykää minulta? No oletko jouluihminen?
 Puhuja 0: Lokakuun viimeisellä viikolla
 Puhuja 0: Michael Bublen joulu levysoimaan.
 Puhuja 0: Palata joulunvietto jo silloin,
-Puhuja 0: rupeaa suunnittelemaan menyitä
+Puhuja 0: rupeaa suunnittelemaan menyitä ja
 Puhuja 0: ja valmistella ja fiilistelemään vähän pikkuhiljaa.
-Puhuja 0: Kuuntelen sitä Bublen joululevyä
-Puhuja 0: aika aktiivisesti
+Puhuja 0: Kuuntelen sitä Bubleyn
+Puhuja 0: joululevyä aika aktiivisesti
 Puhuja 0: joulukuulle asti, mutta joulukuun alussa ruvetaan pistämään jo Väämiä George Michaelia.
-Puhuja 0: Ja... Sitten rupeaa tulemaan ihan... Sitten kun joulu jo lähenee, otetaan
+Puhuja 0: Ja... Sitten rupeaa tulemaan ihan... Sitten kun joulu jo lähenee,
+Puhuja 0: otetaan
 Puhuja 0: suomalaiset 50-luvun
 Puhuja 0: klassikot.
 Puhuja 0: Joulupäivinä
@@ -150,8 +151,7 @@ Puhuja 2: Mutta
 Puhuja 0: tuohon liittyy ehdottomasti siihen, mikä lapsilla, ihan pienillä lapsilla, on
 Puhuja 0: näyttämisen, että
 Puhuja 0: ei katso tätä. Oi,
-Puhuja 0: onpa hieno upea! Sitten sille lapsellekin tulee mahtava olo, kun hän on saanut upea lahja. Kaikki ympärillä sanoo, että se on upea lahja. Kyllä. Itsellä
-Puhuja 2: tulee sellainen paha mieli, kun mä saan ne kaksi
+Puhuja 0: onpa hieno upea! Sitten sille lapsellekin tulee mahtava olo, kun hän on saanut upea lahja. Kaikki ympärillä sanoo, että se on upea lahja. Kyllä. Itsellä tulee sellainen paha mieli, kun mä saan ne kaksi
 Puhuja 1: niin meillä ei ole siis ikinä ollut mitään paskoja jouluruokia, vaan me ollaan syöty oikeasti hyvää ruokaa.
 Puhuja 1: Ei todellakaan mitään rosollia
 Puhuja 1: eikä mitään,
@@ -165,20 +165,19 @@ Puhuja 1: oli
 Puhuja 1: tällainen venäläinen sillitahna.
 Puhuja 1: Kokeilin sitä viime viikonloppuna.
 Puhuja 1: Ja vitsi, se oli hyvä. Tiedättekö, että minulle se silli on vähän sellainen,
-Puhuja 1: että se on aika pahaa ja jotenkin sellaista dänkkiä kamaa, ja toin eka sillein, että hyi helvetti, tiedätkö sinappia silliä ja tilliä, tiedättekö, kuulostaa ihan hirveältä. Mutta sitten, kun sitä on syönyt muutaman
+Puhuja 1: että se on aika pahaa ja jotenkin sellaista dänkkiä kamaa ja toin eka sillein, että hi helvetti, tiedätkö sinappia silliä ja tilliä, tiedättekö, kuulostaa ihan hirveältä. Mutta sitten, kun sitä on syönyt muutaman
 Puhuja 1: lusikallisen, niin sitten siihen tulee sellainen vihahimo, tiedättekö? Sillä ei halua syödä sitä lisää, koska se on niin dänkin makuista ja
-Puhuja 1: Sitten siihen onkin vaan täysin koukussa.
-Puhuja 1: Suosittelen kokeilemaan viime kuukausiliitteessä.
+Puhuja 1: Sitten siihen onkin vaan täysin koukussa. Suosittelen kokeilemaan viime kuukausiliitteessä.
 Puhuja 0: Valmistelen semmoisen,
-Puhuja 0: siinä on minun mielestäni kuusikymmentäseitsemän
+Puhuja 0: siinä on minun mielestäni joku 67-kahdeksan
 Puhuja 0: eri ruokalajia,
 Puhuja 0: sellaisen joulupöydän.
 Puhuja 0: Olen täydellinen jouluihminen, en stressaa siitä ollenkaan.
 Puhuja 0: Joka hetki, kun saan kastaa jonkun lusikan jonnekin ja kahdeksantoista eri pataa porisee siellä. Olen joka hetki niin syvästi onnellinen
 Puhuja 0: kaikesta siitä, Michael Bubleesoi...
 Puhuja 1: Oispa jouluainainen....
-Puhuja 0: Telee uunissa ja näin. Mä en stressaa, en ollenkaan rupea kellekään huutaa. Mä olen
-Puhuja 0: omimmillani
+Puhuja 0: Telee uunissa ja näin. Mä en stressaa, en ollenkaan rupea kellekään huutaa. Mä
+Puhuja 0: olen omimmillani
 Puhuja 0: siinä fiiliksessa, mikä on joulukeittiössä.
 Puhuja 0: Yksi kiitos siitä kuuluu keittiömestari Matti Sotaniemellä, joka oli siis mun keittiömestari siinä, kun olin kokkina töissä.
 Puhuja 0: Kerran pääsin Rauhalan kartanossa Oulussa tekemään heidän joulunmenyytään
@@ -188,7 +187,7 @@ Puhuja 0: Siellä hän opetti tekemään
 Puhuja 0: oman joulukastikkeensa,
 Puhuja 0: jonka salaisuutta mä en voi paljastaa, mutta voin kuiskata sen verran kuulijoille, että kun teette Kinkunkastiketta,
 Puhuja 0: niin kokeilkaapa ensi kerralla suurusteessa eli ruussa. Eli tässä jauho voi seoksessa käyttää jauheen sijaan raastettua
-Puhuja 1: piparia. No
+Puhuja 0: piparia. No
 Puhuja 1: huhhuh.
 Puhuja 1: Mutta se joulun taika vielä, että tavallaan
 Puhuja 1: just se, että se on vähän karissu ehkä tässä
@@ -197,18 +196,18 @@ Puhuja 1: konserttitalo
 Puhuja 1: tai konserttisali, niin siellä on yksi Suomen parhaita akustiikka. Se on oikeasti, muusikot Suomessa tietää, että Kuusankosken konserttisali, jes, se on hyvä. Ja siellä sitten, kun me musiikkiluokijan
 Puhuja 1: suurkuoron kanssa kaikki eri ikäiset lapset
 Puhuja 1: tulee
-Puhuja 1: sinne yleisön ympärille koko salin kuorruttaa sellaiselle,
+Puhuja 1: yleisön ympärille koko salin kuorruttaa sellaiselle,
 Puhuja 1: ringillä. Siellä on ihan pimeää
 Puhuja 1: ja sitten alkaa tämä nyt syttyä valot tuhannet silleen, että yksiyttää kynttilän, laulaa ekassa säkeistön, niin sitten tulee toinen mukaan duona ja näin, kunnes
 Puhuja 1: kynttilöiden valot piirittää kaikki ja se koko
 Puhuja 1: lasten
 Puhuja 1: kuoro yhtyy siihen lauluun. Se on rakkaimpia
 Puhuja 1: muistoja, mitä meillä on.
-Puhuja 0: Minäkin olen käynyt
-Puhuja 0: Madetelmusiikki luki Oulussa.
+Puhuja 0: Minäkin olen käynyt Madetelmusiikki
+Puhuja 0: luki Oulussa.
 Puhuja 0: Voisko olla, että sieltä
 Puhuja 0: asti tulee joulun
-Puhuja 0: määritelmää? Meilläkin oli nämä massiivikuorot.
+Puhuja 0: määritelmää. Meilläkin oli nämä massiivikuorot.
 Puhuja 0: Ylipäätänsä
 Puhuja 0: kirkossa, kun kaikki rupeaa laulamaan, se menee moniäänisesti, ja se on niin jumalaisen
 Puhuja 1: kuulostaja näin, ja aja jäi. Aijai. Täytyy sanoa, että se hetki, kun mulla on lopullisessa tavallaan
@@ -228,8 +227,10 @@ Puhuja 0: Iiska verkkariin!
 Puhuja 0: Pilalla.
 Puhuja 0: Ihanaa. Okei, ja sitten, kun te alatte tinkkaamaan ja pilatte kaikkien joulun
 Puhuja 0: vetämällä raakaakosken korvaa
-Puhuja 0: te
-Puhuja 0: muita jouluoppottelijoita
+Puhuja 0: korvaa halkopilon takana,
+Puhuja 0: niin
+Puhuja 0: millä muita
+Puhuja 0: jouluoppottelijoita
 Puhuja 0: viidtätte?
 Puhuja 0: Sanotaan, että okei, tähän jotenkin vähän hellempi aloitus. Sitten, kun nyt joululoma
 Puhuja 0: alkaa, ihmisen hyvin lyhyet
@@ -306,23 +307,19 @@ Puhuja 2: Eikä.
 Puhuja 2: Idea on siis se, että itse asiassa veronalennukset,
 Puhuja 2: tai
 Puhuja 2: se,
-Puhuja 2: että tavallaan supply cy
+Puhuja 2: että tavallaan supply cyde
 Puhuja 2: eli tarjontalähtöinen talous.
-Puhuja 2: Mitä
-Puhuja 2: enemmän kaupassa on tavaraa, sitä enemmän ihmiset ostaa. Mitä enemmän on asioita tarjolla, sitä enemmän ihmiset niitä kuluttaa ja talous kasvaa.
-Puhuja 2: Ja sitä enemmän saadaan tarjontaa kuin mitä alempana verot on. Jos yritysten verotusta alennetaan, niin jää fyrkkaaille avaa uuden tehtaille ja jos rikkaiden verotusta alennetaan vielä enemmän niin sitten rikkaat investoivat siihen yritykseen ja taas perustaa lisää tehtaita. Ja sitten tulee tämmöinen niin kuin ylhäältä alas talous, Sygood
+Puhuja 2: Eli mitä
+Puhuja 2: enemmän kaupassa on tavaraa, sitä enemmän ihmiset ostaa. Mitä enemmän on asioita tarjolla, sitä enemmän ihmiset niitä kuluttaa ja talous kasvaa. Ja sitä enemmän saadaan tarjontaa kuin mitä alempana verot on. Jos
+Puhuja 2: yritysten verotusta alennetaan, niin jää fyrkkaaille avaa uuden tehtaille ja jos rikkaiden verotusta alennetaan vielä enemmän niin sitten rikkaat investoivat siihen yritykseen ja taas perustaa lisää tehtaita. Ja sitten tulee tämmöinen niin kuin ylhäältä alas talous. Sygood
 Puhuja 2: down Economics eli
-Puhuja 0: rikkaalta jakautuu sinne. Tämä kaikki on peräisin tässä jo ollutkinmmasta.
-Puhuja 2: Joo.
-Puhuja 2: Ja
-Puhuja 2: sitten... Vau. Tämä jatkuu vielä.
-Puhuja 2: Sitähän liittyy myös semmoinen puoli, sitten ennen nerokkuus oli siinä, että tavallaan nyt ruvetaan vain ja ainoastaan eikä puhuta siitä että nämä veronalennukset oikeasti
-Puhuja 2: kohdistuu rikkaisiin yrityksiin vaan että pieni
-Puhuja 2: työtä tekevä amerikkalainen saa veron alennuksia että joulupukki antaa sinulle ja maksat vähemmän veroja ja tästä amerikkalaiset tykkää.
-Puhuja 2: Siinä alkoi republikaanien
+Puhuja 0: rikkaalta jakautuu sinne. Tämä kaikki on peräisin tässä jo loppukihommasta. Joo. Ja sitten...
+Puhuja 2: Vau. Tämä jatkuu vielä.
+Puhuja 2: Sitähän liittyy myös semmoinen puoli, sitten ennen nerokkuus oli siinä, että
+Puhuja 2: tavallaan nyt ruvetaan vain ja ainoastaan eikä puhuta siitä että nämä veronalennukset oikeasti kohdistuu rikkaisiin yrityksiin vaan että pieni työtä tekevä amerikkalainen saa veronalennuksia,
+Puhuja 2: että joulupukki antaa sinulle ja maksat vähemmän veroja ja tästä amerikkalaiset tykkää. Ja Siinä alkoi republikaanien
 Puhuja 2: uusi nousu, jonka Ronald D Recan tavallaan täydensi, joka osti täysillä tänne. Joulupukkiteorian
-Puhuja 2: ja hän nimenomaan puhui tästä. Ja
-Puhuja 2: sitten
+Puhuja 2: ja hän nimenomaan puhui tästä. Ja sitten
 Puhuja 2: vielä toinen aspekti tässä oli se, että sen
 Puhuja 2: lisäksi,
 Puhuja 2: että kansalaiset ajattelevat että
@@ -343,14 +340,14 @@ Puhuja 0: ylittää sen,
 Puhuja 1: mitä ne sai tehtyä. Mistä ne aiemmat Spiremenit näkee?
 Puhuja 0: Disney
 Puhuja 0: plussasta. Mun mielestä kaikki Marvelet on
-Puhuja 0: siirtynyt.
+Puhuja 2: siirtynyt.
 Puhuja 2: On jotenkin niin rasittavia. Mutta itse asiassa taas Spidoneman-ajit on aika hauska. Se on kepeä, se on humoristinen. Ja sitten siinä on tavallaan... Hän on tämmöinen niin kuin paikallis supersankari. Joo, se on niin kuin maanpinnalle. Ja nyt tullaan tähän, mistä mä oikeasti sitten haluaisin puhua.
 Puhuja 0: Ja se on se, että
 Puhuja 0: Marvel
 Puhuja 0: sairastaa semmoista jännää kosmista tautia. Se on semmoinen itseään ruokkiva
 Puhuja 0: liiallisen kosmisuuden tauti. Kun aluksi se sankari
 Puhuja 0: tulee ja sitten se pelastaa maapallon.
-Puhuja 0: Niin, mitä sitten... Joo, mitäs sitten... Seuraavat leffassa sen pitää pelastaa jo universumi.
+Puhuja 0: Niin, mitä sitten... Joo, mitäs sitten... Seuraavat leffassa sen pitää pelastaa ja universumi.
 Puhuja 0: No, sitten
 Puhuja 0: kolmannessa leffassa täytyy olla jo multiversumi.
 Puhuja 0: Ja Marvel sairastaa tätä, että ne leffa leffalta ja myös sarjakuvat syyllistyi siihen, Sarjakuvan sarjakuvatlta meni aina vain äärimmäiseksi
@@ -383,7 +380,7 @@ Puhuja 0: mikä niistä sonyntekeleistä,
 Puhuja 0: jossa
 Puhuja 0: lihas muskelipäät
 Puhuja 0: vaan
-Puhuja 0: listii toisiaan, niin se puuttui ihan täysin. Ja Marvel on onnistunut sen takia, että se on ottanut ne, mikä ysärin sarjakuvassa on täysin olennaista
+Puhuja 0: listii toisiaan, niin se puuttui ihan täysin. Ja Marvel on onnistunut sen takia, että se on ottanut ne, mikä ysärin sarjakuvassa on täysin olennaista semmoiset
 Puhuja 0: pienet inhimilliset tarinat. Mä muistan ikuisesti,
 Puhuja 0: Excalburg sarjakuassa on kapteeni Britannian näköinen semmoinen muskelimasa.
 Puhuja 0: Ja sitten
@@ -393,7 +390,7 @@ Puhuja 0: että kaikki sen ympärillä kärsii siitä.
 Puhuja 0: Ja sitten, totta kai jostain tulee joku superömppi ja tämmöistä näin, mutta koko sarjakuvan aikana ei tietenkään se pointti ollut, vaan sitä seurattiin sitä inhimillistä tarinaa siinä ympärillä. Ja se on se, minkä näin kolmekymmentä vuoden jälkeen sieltä
 Puhuja 0: muistaa.
 Puhuja 0: No
-Puhuja 0: niin... Nörd rate!
+Puhuja 0: niin, nörd rate!
 Puhuja 0: Siinä kaikki tältä erää.
 Puhuja 0: Kiitos Marko Junkkari. Kiitos.
 Puhuja 0: Kiitos Alma-Oonaali.

@@ -55,7 +55,7 @@ Puhuja 0: Ei.
 Puhuja 0: Mitä se vastasi?
 Puhuja 2: Lupas selvittää. Se oli vielä silleen. Anteeksi, mikä sen sarjan nimi oli? Olin silleen
 Puhuja 0: Pentikka
-Puhuja 2: Anisteja! Ihan hirveetä, miksi teen näitä töitä. Tämän viikon podcastissa
+Puhuja 2: Anistaja. Ihan hirveetä, miksi teen näitä töitä. Tämän viikon podcastissa
 Puhuja 0: keskustellaan
 Puhuja 0: Pohjois-Koreasta,
 Puhuja 0: joka myös nimellä Venäjä tunnetaan.
@@ -65,8 +65,7 @@ Puhuja 0: vuosiin.
 Puhuja 0: Mitä pitäisi tehdä Suomen?
 Puhuja 0: Mitä tästä ajattelevat viisaat suomalaiset Marko ja Alma
 Puhuja 0: siitä, että ennen naapurina oli vähän nihkään oloinen
-Puhuja 0: koulukiusaajamaa. Mutta nyt se on morfutunut
-Puhuja 0: kyllä ihan oikeaksi hirmohallinnoksi.
+Puhuja 0: koulukiusaajamaa. Mutta nyt se on morfutunut kyllä ihan oikeaksi hirmohallinnoksi.
 Puhuja 0: Myös keskustelemme EU:n turvatakuista
 Puhuja 0: ja niiden mutkikkaasta
 Puhuja 0: historiasta,
@@ -108,17 +107,17 @@ Puhuja 0: Miten Alman aamut
 Puhuja 0: koostuvat?
 Puhuja 0: Mistä ne koostuvat?
 Puhuja 0: Ja millä mediatuotteilla...
-Puhuja 0: Erittäin tärkeää. Mitä vanhemmaksi menee, sitä enemmän niillä on merkitystä. Koska jotenkin aamulla pitää saada hyvin paljon aikaa hyvin vähässä
+Puhuja 0: Erittäin tärkeää. Mitä vanhemmaksi menee, sitä enemmän niillä on merkitystä.
+Puhuja 0: Koska jotenkin aamulla pitää saada hyvin paljon aikaa hyvin vähässä
 Puhuja 0: ajassa.
 Puhuja 0: Ja siksi ajattelin, että haluaisin kuulla, miten teidän...
 Puhuja 0: Mitä
-Puhuja 0: kikka kutosia te olette keksineet teidän aamuiheen, että niistä tulee hyviä?
-Puhuja 2: En tiedä, onko aamut mitenkään erityisen
+Puhuja 0: kikka kutosia te olette keksineet teidän aamuiheen, että niistä tulee hyviä? En tiedä, onko aamut mitenkään
+Puhuja 2: erityisen
 Puhuja 2: vastaan. Olen pitänyt
 Puhuja 2: rutiineja mielenkiintoisen elämän loppuna.
 Puhuja 2: Ja sinä päivänä, kun minä ostan vitriinin ja laitan sinne astioita,
-Puhuja 2: niin sinä päivänä
-Puhuja 2: elämäni on ohi Ja ehkä jotkut rutiinit istuvat tähän
+Puhuja 2: niin sinä päivänä elämäni on ohi Ja ehkä jotkut rutiinit istuvat tähän
 Puhuja 2: samaan kategoriaan.
 Puhuja 2: Mutta
 Puhuja 2: kuten sanoit,
@@ -128,11 +127,12 @@ Puhuja 2: Ei vielä.
 Puhuja 2: Olen alkanut haaveelle sellaisesta. Onneksi minun asunto on vielä liian pieni, sellaiselle. En omistan mitään, mitä voisin sinne laittaa.
 Puhuja 2: Kieltämättä
 Puhuja 2: rutiinithan
-Puhuja 2: tietyssä määrin myös ehkä helpottaa jossain vaiheessa elämää. Jos jotkut asiat tekee aina samalla tavalla, niin siihen ei kulu niin paljon aikaa. Aamurutiinithan meni ihan pieleen ensinnäkin koronan aikana,
+Puhuja 2: tietyssä määrin myös ehkä helpottaa jossain vaiheessa elämää. Jos jotkut asiat tekee aina samalla tavalla, niin siihen ei kulu niin paljon aikaa. No aamurutiinithan meni ihan pieleen ensinnäkin koronan aikana,
 Puhuja 2: koska
-Puhuja 2: kaikki meni ihan sekaisin ja joku, että ei käynyt missään toimistolla töissä
+Puhuja 2: kaikki meni ihan sekaisin ja joku silleen, että ei käynyt missään toimistolla töissä
 Puhuja 2: kuukausiin,
-Puhuja 2: niin ennen kuin mulla oli koira, mun aamurutiinit olivat sellaisia, että heräsin ehkä vartti ennen kuin piti ryhtyä töihin.
+Puhuja 2: niin ennen kuin mulla oli koira,
+Puhuja 2: mun aamurutiinit olivat sellaisia, että heräsin ehkä vartti ennen kuin piti ryhtyä töihin.
 Puhuja 2: Tiedättekö vaan
 Puhuja 2: ylös, pesee hampaat, joku
 Puhuja 2: vaan olikohan edes housuja jalassa, en tiedä. Ja sitten vaan kone auki ja taka
@@ -144,15 +144,16 @@ Puhuja 2: koirahan on kyllä muuttanut asiaa. Nykyään
 Puhuja 2: riippuu siitä aamusta, onko menossa toimistolle vai jääkö
 Puhuja 2: etätöihin. Riippuu siitä, kuinka paljon aamulla on aikaa tehdä mitään. Mutta kyllä mun aamut on nykyään ihan samanlainen. Siis
 Puhuja 2: ihan Alma kymmenen vuotta sitten kauhistuisi,
-Puhuja 2: jos se kuulisi. Sinun jokainen aamu on samanlainen,
+Puhuja 2: jos se kuulisi. Että jokainen aamu on samanlainen,
 Puhuja 2: peset hampaat, pistät pablarin otsatumaan ja lähdet koiran kanssa metsään. Niin kuin
 Puhuja 0: SOS! Pablarien koira, Marko?
 Puhuja 1: En minäkään kyllä aamuisin...
 Puhuja 1: Ero lähinnä se viikonlopunaamu ja arki.
 Puhuja 1: On jotenkin mahtavia.
 Puhuja 1: Ainut aamu kun luen paperin Hesarin ja odotan.
-Puhuja 1: Laato aika. Kunnon aamupala ja jotenkin vetkuttelee sen lehden kanssa niin pitkään kuin mahdollista. Mutta sitten arkiaamuisin...
-Puhuja 1: Mulle on jotenkin tullut tämä ei kuulosta
+Puhuja 1: Laato aika. Kunnon aamupala
+Puhuja 1: ja vetkuttelee sen lehden kanssa niin pitkään kuin mahdollista. Mutta sitten arkiaamuisin...
+Puhuja 1: Mulle on jotenkin tullut, tämä ei kuulosta
 Puhuja 1: ihan sairaalta,
 Puhuja 1: mutta yleensä nämä herään sen, mutta ainakin ensimmäinen reaktio. Otan kännykän käteen ja katson mitä Ukrainassa on tapahtunut ja rupeaa katsomaan sitä. Mutta mikä se on? Minua kiinnostaa ne yksityis.
 Puhuja 0: Sä heräät aamulla, sitten sä käännyt näin, pistät kellon kiinni ja samalla varmaan nappaat sen kännykän
@@ -165,8 +166,8 @@ Puhuja 1: Ehkä katson
 Puhuja 1: jonkun uutissivuston, onko maailmanloppu. Ja sitten Twitter alkoi aika nopeasti. Ai jonkun ulkomaalaisen?
 Puhuja 0: Ei kun
 Puhuja 1: Hesari tai Yle tai joku mikä siinä on.
-Puhuja 0: Yhden lauseen
-Puhuja 1: kirjoittaminen
+Puhuja 0: Yhden lauseen kirjoittaminen kännykällä ei ole ihan liikaa.
+Puhuja 0: Vau.
 Puhuja 1: Sitten avaan sen jutun mikä on kesken
 Puhuja 1: ja luen sen läpi kännykästä.
 Puhuja 1: Sitten hän näkee aamuisin
@@ -188,7 +189,7 @@ Puhuja 2: kirjoitus tai työrutiineja.
 Puhuja 2: Ehkä joku kahvinkeittoa aamuisin oli juuri ja just se, että keitän kahvin ja sitten se alkaa,
 Puhuja 2: mutta muuten ei mitään. Mulle
 Puhuja 2: kaikkein
-Puhuja 2: tämä, kun asiat alkaa järjestyä päässä ja se joku jutun, kirkas ydin, alkaa muotoutumaan, otsikko tulee mieleen, kaikki ne parhaat ideat ja näin se menee, niin minulla se on noin kello kaksikymmentäkolme
+Puhuja 2: tämä, kun asiat alkaa järjestyä päässä ja se joku jutun, kirkas ydin alkaa muotoutumaan, otsikko tulee mieleen, kaikki ne parhaat ideat ja näin se menee, niin minulla se on noin kello kaksikymmentäkolme
 Puhuja 2: nollayksi
 Puhuja 2: illalla myöhään yöllä. Juuri kun painan pään tyynyyn, olen silleen, Nyt se aukeaa, se portti siellä sisällä, tiedätkö.
 Puhuja 2: No, sitten on se puhelin, mihin kirjoittaa ne ajatukset ennen kuin nukahtaa. Ja sitten aamulla ne on siellä.
@@ -208,22 +209,21 @@ Puhuja 0: Älypistorasia
 Puhuja 0: taas on kytketty mun Google Älykajariin.
 Puhuja 0: Joten mun aamut alkaa silleen, että kello soi, tai sitten oikeastaan herään, kun aurinko rupeaa killittämään silmään. Ja sitten karjasin Googlen kajarille, että Hei, gugo,
 Puhuja 0: makemi some coffee.
-Puhuja 0: Sitten mä kuulen, kun se naksahtaa siellä kaukana se kahvin käteen. Ja sitten rupeaa kuulemaan: bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul bul b.
 Puhuja 0: Mutta sitten mä häimen raksalle aamulla heti.
 Puhuja 1: Milloin se talo on valmis?
-Puhuja 0: Kohtaa, missä ruveta maalaamaan sisäseiniä, että kyllä se loppui. Kohtuu ne kohta tuparit. Kohta tuparit. Sitten
+Puhuja 0: Kohtaa, missä ruveta maalaamaan sisäseiniä, että kyllä se loppui. Kohtuu ne kohta tuparit. Kohta tuparit.
+Puhuja 0: Sitten
 Puhuja 0: teen yleensä tunnin,
 Puhuja 0: puolitoista raksalla
 Puhuja 0: ennen kuin meillä alkaa noi aamu-kokoukset.
 Puhuja 0: Sitten kun meillä alkaa aamu-kokoukset, niin mä hujahan
 Puhuja 0: takaisin koti ja olen etänä ne aamu-kokoukset ja sitten lähden tänne.
 Puhuja 1: Nyt mennään loppuasiaan. Pitää päästä pois. Okei.
-Puhuja 0: Sitten
-Puhuja 0: kun
+Puhuja 0: Sitten kun
 Puhuja 0: joku aamu, ota, että tempsyt siinä.
-Puhuja 0: Sitten lemmikeille ja perheenjäsenille
-Puhuja 0: haluatte kertoa jotain virkistävää heti aamun aluksi. Mistä se kerrottiin?
-Puhuja 0: Jos
+Puhuja 0: Sitten
+Puhuja 0: lemmikeille ja perheenjäsenille
+Puhuja 0: haluatte kertoa jotain virkistävää heti aamun aluksi. Mistäs kerrottiin? Jos
 Puhuja 1: Niin siellä oli kanadalainen joukkue loppuottelussa ja sitten jenkki
 Puhuja 1: tämmöiset
 Puhuja 1: merijalkaväen ja sotilaat kantoivat
@@ -231,7 +231,7 @@ Puhuja 1: maaperän
 Puhuja 1: lipun värivä sinne stadionille ja sitten tuli valtava kriisi. Mutta tämä lippu oli väärinpäin ja tämä meni jutussa oikein.
 Puhuja 1: Mutta tästä sain palautetta, kiitos vain palautteenantajalle.
 Puhuja 1: Lähti vinkit ja lähdin vinkit, että sanoin että tämä oli kasarilla, ei se oli tuhat yhdeksänsataayhdeksänkymmentäkaksi. Mikä edelleen ihmetellyt, että se oli paljon aikaisemmin.
-Puhuja 1: Ja sitten tämä kanadalainen joukkue, taisin sanoa että se oli
+Puhuja 1: Ja sitten tämä kanadalainen joukkue oli
 Puhuja 1: montrealioinen
 Puhuja 1: tai se olikin Toronto Blue Chaseko se oli. Joukkueen meni väärin
 Puhuja 1: ja sitten joku muukin siinä meni väärin.
@@ -245,10 +245,10 @@ Puhuja 1: jota
 Puhuja 1: esitetään
 Puhuja 1: kouluissa.
 Puhuja 1: Kansallisoopperat tekevät sitä.
-Puhuja 1: Tytön koulu oli siinä mukana ja maanantaina
+Puhuja 1: Meidän tytön koulu oli siinä mukana ja maanantaina
 Puhuja 1: esitys. Sen nimi oli Lähde.
-Puhuja 1: Se on kirjoitta, joka on siis kirjoittajana kirjoittama ja
-Puhuja 1: lyhyt kestää noin neljäkymmentäviisi minuuttia ja siinä on kolme
+Puhuja 1: Se on kirjoitta, joka on siis
+Puhuja 1: lyhyt ja kestää neljäkymmentäviisi minuuttia. Siinä on kolme
 Puhuja 1: ammattioopperolaulajaa
 Puhuja 1: ja sitten siellä on kuusikymmentä
 Puhuja 1: meidän tytön ala-asteen lasta.
@@ -275,13 +275,14 @@ Puhuja 1: oli jotenkin niin innoissaan.
 Puhuja 1: Harvoin olen ollut mistään niin vaikuttanut kuin tästä maanantaista esityksestä. Ja tätä tehdään
 Puhuja 1: eri kouluissa.
 Puhuja 1: Siis mahdollisuus mennä katsomaan?
-Puhuja 1: No on, tai ei tätä. Tämä
-Puhuja 1: esittivät käytännössä omalle koululle ja maanantaina ensimmäisessä näytöksessä
+Puhuja 1: On tai ei tätä. Tämä
+Puhuja 1: esittivät omalle koululle ja maanantaina ensimmäisessä näytöksessä
 Puhuja 1: olisit vanhemmat. Sinne myytiin lippuja kaikille mutta ei se varmaan kukaan muu juuri ostaa lippua. Mutta näitä
 Puhuja 1: esityksiä tulee aina uudestaan eri kouluilla.
 Puhuja 1: Kannattaa suosittelen.
 Puhuja 1: Ihanaa.
-Puhuja 1: Alma. Minä suosittelen
+Puhuja 1: Alma.
+Puhuja 2: Suosittelen
 Puhuja 2: toimittaja ja päätoimittaja
 Puhuja 2: Tuija Siltamäen
 Puhuja 2: artikkelia ylioppilaslehdessä.
@@ -292,8 +293,9 @@ Puhuja 2: muistuttaa päätoimittaja
 Puhuja 2: tärkeässä kirjoituksessaan.
 Puhuja 2: Luojan kiitos tässä lukee alla vielä, että osastona on satiiri,
 Puhuja 2: koska tämä juttu on ensinnäkin ilmiselvää kettuilua kaikille tämän maan herrasmiestoimittajille,
-Puhuja 2: jotka pyrkivät nyt juuri tätä historiaa ja menneisyyttä
-Puhuja 2: ja suomalaista kansan luontoa perkaamalla
+Puhuja 2: jotka pyrkivät
+Puhuja 2: historiaa ja
+Puhuja 2: menneisyyttä ja suomalaista kansan luontoa perkaamalla
 Puhuja 2: selittämään,
 Puhuja 2: mikä tässä ajassamme
 Puhuja 2: on
@@ -333,7 +335,7 @@ Puhuja 0: yhteinen kokemus, jonka kautta me voidaan käsitellä jotain meidän y
 Puhuja 0: mitä se ei kyllä varmasti ole. Tai sauna tai joku tällainen.
 Puhuja 0: Se ihmiskuva, minkä tuommoiset kolumnnet tarjoaa, on niin pintapuolinen
 Puhuja 0: ja vanhanaikainen.
-Puhuja 2: Niin, ja sitten kun tämä on
+Puhuja 2: Niin, ja sitten kun tää on
 Puhuja 2: täynnä jotenkin
 Puhuja 2: sellaisia, tämä räjäyttää auki kaikki ne klisee, joita
 Puhuja 2: me toimittajat itse jutuissa käytämme ja sitten vaan tulee fiilis, että ei vittu, mäkin olen niellyt näitä juttuja
@@ -341,13 +343,12 @@ Puhuja 2: aivan juonut niitä, kun
 Puhuja 2: miettää
 Puhuja 2: mämmiä. Tiedättekö silleen ropponen toisensa perään?
 Puhuja 2: Ja mua vaan ilahduttaa suuresti se, että näinä aikoina, kun kaikki on kovin
-Puhuja 2: vakavaa
-Puhuja 2: ja kaikki on hyvin
+Puhuja 2: vakavaa ja kaikki on hyvin
 Puhuja 2: asiallista
 Puhuja 2: ja tärkeää ja suurta, niin mielestäni on ihanaa,
 Puhuja 2: että Tuija viittaa sille kaikelle aivan kintaalla ja osoittaa, että meidän pitäisi osata nauraa itsellemme,
-Puhuja 2: vaikkakin myös on vakavaa.
-Puhuja 0: Tämä podcastin Twitter-seuraajille,
+Puhuja 2: vaikkakin myös vakavaa. Vaikka se on vakavaa. Tämä
+Puhuja 0: podcastin Twitter-seuraajille,
 Puhuja 0: Just Drudon.
 Puhuja 0: Marko oli pois silloin, kun podcastissa
 Puhuja 0: liian kiihkeästi he kumoitiin
@@ -393,21 +394,23 @@ Puhuja 0: hiton pitkä
 Puhuja 0: kolumni ylioppilaslehdessä
 Puhuja 0: vastaan, niin tallennat sen sun pakettiin.
 Puhuja 0: Sen jälkeen avaat kännykällä sun paketin. Ainakin iPhonessa on
-Puhuja 0: screen reader eli Voice over, asetuksesta pistetään päälle.
+Puhuja 0: screen reader eli Voice over-asetuksesta
+Puhuja 0: pistetään päälle.
 Puhuja 0: Sen jälkeen painat playta.
-Puhuja 0: Ja iPhonen Siri ääni, joka on ihan törkeän hyvä lukea siitä, voi erottaa oikeasta ihmisestä. Se lukee sulle sen jutun. Se on ihan sika hyvä se kombo. Poket, sillä otetaan se juttu talteen. Ja sen jälkeen sillä Voice overilla
+Puhuja 0: Ja iPhonen Siri ääni, joka on ihan törkeän hyvä lukea siitä, voi erottaa oikeasta ihmisestä. Se lukee sinulle sen jutun. Se on ihan sika hyvä se kombo. Poket, sillä otetaan se juttu talteen, ja sen jälkeen sillä Voice overilla
 Puhuja 0: se lukee sen sulle. Se toimii ihan mielettömän hyvin. Se myös lukee esimerkiksi e-kirjat ääneen. Se on ihan käsittämättömän hyvä. Eli suosittelen
 Puhuja 0: Roboääni
 Puhuja 0: plus poket plus iPhone Roboääni.
 Puhuja 0: Sillä saa kuunneltua kaiken tekstin.
 Puhuja 0: Okei,
-Puhuja 0: siinä kaikki tältä erää. Kiitos, Alma Unalille. Kiitti. Kiitos Marko Junkkari.
+Puhuja 0: siinä kaikki tältä erää. Kiitos, Alma Unaliin. Kiitti. Kiitos Marko Junkkari.
 Puhuja 0: Kiitos. Minun nimi on Tuomas Peltomäki. Ääni ja kuva ja kaiken minun mahtavan meille tekevät tällä viikolla Janne Elkki.
 Puhuja 0: Lähettäkää palautetta
 Puhuja 0: Twitterissä
 Puhuja 0: ja kuullaan taas ensi viikolla.
 Puhuja 0: Moi, Tuomas tässä.
-Puhuja 0: Mun uusi podcast Menetetyt miljardit
+Puhuja 0: Mun uusi
+Puhuja 0: podcast Menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen
 Puhuja 0: yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
@@ -416,7 +419,7 @@ Puhuja 0: Kaasukauppaan, joka päätyi aseeksi
 Puhuja 0: suurvaltapolitiikassa.
 Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
 Puhuja 0: osasi
-Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastin, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastini, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
 Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui taloudellinen
 Puhuja 0: murhamysteeri.

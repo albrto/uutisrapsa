@@ -1,8 +1,8 @@
 Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti-podcastiin.
 Puhuja 0: Torstaina
 Puhuja 0: kaksimiljoonaa kaksikymmentäkuusi.
-Puhuja 0: Paitsi
-Puhuja 0: että me nauhoitetaan tämä keskiviikkona yhdeksäntoista.
+Puhuja 0: Paitsi että
+Puhuja 0: me nauhoitetaan tämä keskiviikkona yhdeksäntoista.
 Puhuja 0: Pete-huiputusta.
 Puhuja 0: Minun nimeni on Anni Keski-Heikkilä
 Puhuja 0: kanssani
@@ -58,8 +58,8 @@ Puhuja 0: Tämä tarkoittaa draamaa eduskunnassa,
 Puhuja 0: järkyttyneitä
 Puhuja 0: oikeustieteilijöitä,
 Puhuja 0: onko koko perustuslakivaliokunnan
-Puhuja 0: perimmäinen tehtävä heitetty
-Puhuja 0: vessanpönttöön ja vedetty alas viemäristä?
+Puhuja 0: perimmäinen tehtävä heitetty vessanpönttöön
+Puhuja 0: ja vedetty alas viemäristä?
 Puhuja 0: Puhutaan siitä.
 Puhuja 0: Myös fiilistellään politiikan superviikonloppua,
 Puhuja 0: jossa Antti Kanki Kaikkonen ja kreiviherra
@@ -68,9 +68,9 @@ Puhuja 0: johtoon.
 Puhuja 1: Petteri Orpo valittiin jatkokaudelle.
 Puhuja 0: Petteri
 Puhuja 0: Orpo sai jatkaa kokoomuksen
-Puhuja 0: puheenjohtajana. Puhutaan minkälaisissa
-Puhuja 0: tiloissa nämä, erityisesti nämä keskusta
-Puhuja 0: ja RKP keskusta voimat Suomessa oikein on.
+Puhuja 0: puheenjohtajana. Puhutaan minkälaisissa tiloissa nämä,
+Puhuja 0: erityisesti nämä keskusta
+Puhuja 0: ja RKP keskustavoimat Suomessa oikein on.
 Puhuja 0: Siihen antaa vinkkiä myös keskiviikkona julkaistu HSYgallup.
 Puhuja 0: Käsitellään sitäkin luonnollisesti
 Puhuja 0: myös. Vielä meidän tähtivieras Milla on istunut
@@ -104,10 +104,8 @@ Puhuja 0: jota käännytyslaiksikin
 Puhuja 0: kutsutaan.
 Puhuja 0: Itse asiassa mun
 Puhuja 0: tietojeni mukaan tämä termi on peräisin ehkä Helsingin Sanomien toimituksesta ja sitten muutkin sitä alkoivat käyttää tätä käännytlakia.
-Puhuja 0: Mutta siis sehän on kuvaava termi.
-Puhuja 0: Lain tarkoituksena on, että ihmisiä voitaisiin
-Puhuja 0: käännyttää
-Puhuja 0: rajalta
+Puhuja 0: Mutta siis sehän on kuvaava termi. Lain tarkoituksena on, että ihmisiä voitaisiin
+Puhuja 0: käännyttää rajalta
 Puhuja 0: takaisin Venäjälle.
 Puhuja 0: Voin vielä lukea tämän virallisemman, että tämän lain nojalla valtioneuvosto voisi yhteistoiminnassa tasavallan
 Puhuja 0: presidentin kanssa estää ihmisiä
@@ -116,8 +114,7 @@ Puhuja 0: On aika pieni ero.
 Puhuja 0: Voiko nämä kääntää toisin päin?
 Puhuja 0: Keskusta
 Puhuja 1: ohittaa perussuomalaiset kanoille. Vähän yli kaksi pilkku viisi prosenttiyksikköä. Tähänhän keskusta on koko laskenut
-Puhuja 1: tämän varaan. Kyllä perussuomalaisten kannatus siellä hallituksessa
-Puhuja 1: laskee.
+Puhuja 1: tämän varaan. Kyllä perussuomalaisten kannatus siellä hallituksessa laskee.
 Puhuja 1: Tuntuu, että koko syksy meni siinä, että ne laskivat sen varaan, että näin kohta alkaa.
 Puhuja 1: Kun ei alkanutkaan,
 Puhuja 1: alkoi kaikenlainen hosuminen ja hätiköinti.
@@ -128,9 +125,8 @@ Puhuja 1: Antti Kurvisella kaikenlaista työkalupakkioperaatiota,
 Puhuja 0: operaatiota
 Puhuja 1: somessa ja tällaista, mutta silti se puolue on ollut
 Puhuja 1: aika hukassa.
-Puhuja 1: Tuntuu, että ne laskee tosiaan vaan sen varaan, että sieltä perussuomalaisten
-Puhuja 1: kannatus pikku hiljaa tulee alas
-Puhuja 1: keskusta,
+Puhuja 1: Tuntuu, että ne laskevat tosiaan vain sen varaan, että sieltä perussuomalaisten
+Puhuja 1: kannatus pikku hiljaa tulee alas ja keskusta,
 Puhuja 1: riippumatta siitä nousee, kun se vai ei, on kolmanneksi suurin puolue. Nytkin tässä uudessa gallupissa nousu oli nolla pilkku yksi prosenttiyksikköä.
 Puhuja 1: Varsinainen
 Puhuja 1: keskustan tilanne ei varsinaisesti
@@ -140,22 +136,22 @@ Puhuja 2: uskon salaa.
 Puhuja 2: Paavo Väyrynen eduskunnan Paternosterhississä,
 Puhuja 2: niin kyllä se kepu vielä itse asiassa vähän nousee sieltä.
 Puhuja 2: Nyt kun ne on päässyt eroon Marinin
-Puhuja 2: hallituksen aikaisesta painolastista,
-Puhuja 2: että siellä ei ole enää mitään
+Puhuja 2: hallituksen aikaisesta painolastista, että siellä ei ole enää mitään
 Puhuja 2: traumoja hierota kenenkään
 Puhuja 2: naamaan ja siellä on vain
 Puhuja 2: Kaikkonen.
 Puhuja 2: Uskon, että niillä on mahdollisuus
 Puhuja 2: loivaan nousuun.
-Puhuja 1: Tähän on aina se klassikko, että aina keskustellaan politiikan toimittajien lempipuolue ja aina ennustetaan, että kuka ennustaisi, milloin keskusta kuolee, milloin aurinkolaskun puolue ja aurinko laskee viimeisen kerran. Sieltä se aina aamulla nousee.
+Puhuja 1: Tähän on aina se klassikko, että aina keskustellaan politiikan toimittajien lempipuolue ja aina ennustetaan, että kuka ennustaisi milloin keskusta kuolee, milloin aurinkolaskun puolue ja aurinko laskee viimeisen kerran. Sieltä se aina aamulla nousee.
 Puhuja 1: Aamulla nousee taas pienen yön jälkeen
 Puhuja 1: uudestaan.
 Puhuja 1: Täytyy katsoa, että noudatetaanko tätä hyväksi
-Puhuja 2: todettua kaavaa sieltä taas. Nyt tämä kuulostaa siltä, että olen vain endorcian keskustaa, koska siis myös, mä tiedän, että me palataan tähän kohta, mutta kirjoitin Helsingin kaupunkivaltuustosta.
+Puhuja 2: todettua kaavaa sieltä taas. Nyt tämä kuulostaa siltä, että olen vain endorcian keskustaa, koska siis myös,
+Puhuja 2: mä tiedän, että me palataan tähän kohta, mutta kirjoitin Helsingin kaupunkivaltuustosta.
 Puhuja 2: Kun me mietittiin, ketä
 Puhuja 2: ahkeraa
 Puhuja 2: ja luotettavaa
-Puhuja 2: valtuutettua me nostetaan, ja todettiin, että se on parasta
+Puhuja 2: valtuutettua me nostetaan ja todettiin, että se on parasta
 Puhuja 2: neutraalista puolueesta Helsingin kaupunkipolitiikan
 Puhuja 2: kannalta, niin päädyimme kehumaan Terhi PeltoKorpea,
 Puhuja 2: joka on keskustalainen
@@ -198,7 +194,8 @@ Puhuja 2: mutta enemmän olen järkyttynyt siihen, miten ihmisiä kiinnostaa kau
 Puhuja 2: joka on minulle suuri
 Puhuja 2: rakkaus, kun se on niin konkreettista ja näkyvää arjessa.
 Puhuja 0: Ei mennä siihen, se on hirveän ylevää. Mutta nyt kukaan ei lopeta kuuntelemista tähän, kun voin puhua
-Puhuja 0: jakeluverkon politiikasta. Se on nyt kiinnostavaa. Mutta Helsingin kaupunkipolitiikassa
+Puhuja 0: järkikkanpolitiikasta.
+Puhuja 0: Se on nyt kiinnostavaa. Mutta Helsingin kaupunkipolitiikassa
 Puhuja 2: on ihan samanlainen kulttuuri
 Puhuja 2: esimerkiksi kokonaan se, että kaupunginvaltuusto
 Puhuja 2: on välillä vähän kumileimaisin, kun ne päätökset on tehty kaupunginhallituksessa
@@ -255,11 +252,12 @@ Puhuja 0: ihan kaikilla politiikan tasoilla. Mä rupesin myös miettimään, kat
 Puhuja 0: niin paljon, että niille kannattaisi pitää tuollaista show'ta. Mä
 Puhuja 2: olen itse ollut myös kaupungintalolla
 Puhuja 2: viestinnässä töissä ja mun käsitys on niiltä ajoilta se, että
-Puhuja 2: ei ole mikään Roni Backin katseluluvut
-Puhuja 2: siellä kuin muun lisäksi muutamaa perverssiä, jotka haluavat katsoa
+Puhuja 2: ei ole mikään Roni Backin katseluluvut.
+Puhuja 2: Mun lisäksi muutamaa perverssiä, jotka haluavat katsoa
 Puhuja 2: tämän tason päätöksentekoa.
 Puhuja 1: Kun eduskunnassahan täysistunto keskustelu, sitä oikeasti myös katsotaan. Ihmiset katsoo sitä vähän hämmentävän paljon.
-Puhuja 1: Politiikassa käyttää sen silleen, että ne klippaa niitä omia videoita ja sitten ikään kuin omassa somessa jakaa, että näin puhuin kyselytunnilla tai näin tyhmiä sanojakö kyselytunnilla, niin harrastaako kaupungin? Ei. Viitataan
+Puhuja 1: Politiikassa käyttää sen silleen, että ne klippaa niitä omia videoita ja sitten ikään kuin omassa somessa jakaa, että näin puhuin kyselytunnilla tai näin tyhmiä
+Puhuja 1: sanojakö kyselytunnilla, niin harrastaako kaupungin? Ei. Viitataan
 Puhuja 2: jonkin verran ja itsekin teen
 Puhuja 2: yleensä liveseurannan
 Puhuja 2: sieltä, missä nostan parhaita
@@ -274,7 +272,8 @@ Puhuja 2: lautakunnan
 Puhuja 2: jäsenten tai ryhmänjohtajan kautta.
 Puhuja 2: Onhan se varmasti vähän turhauttavaa, että tosi monet rivivaltuutetut
 Puhuja 2: eivät
-Puhuja 2: niihin päätöksiin vaikuttamaan ennen kuin siellä. Sitten siellä tapahtuu välillä
+Puhuja 2: niihin
+Puhuja 2: päätöksiin vaikuttamaan ennen kuin siellä. Siellä tapahtuu välillä
 Puhuja 2: ryhmäpäätöksistä irtoamista.
 Puhuja 2: Mutta Helsingin
 Puhuja 2: päätöksenteko on niin massiivisista rahoista ja asioista kyse.
@@ -284,7 +283,7 @@ Puhuja 2: aikoja. Nämä tapahtuu tosi pitkälti. Isot
 Puhuja 2: raamit ja rahat tulee valtakunnan tasolta.
 Puhuja 2: Mutta Helsingissä pystytään tosi nopeastikin tekemään
 Puhuja 2: muutoksia asioihin
-Puhuja 2: halutessaan. Tai halutessaan niitä voidaan katsoa kaksikymmentä
+Puhuja 2: halutessaan. Tai halutessaan niitä voidaan vatvo kaksikymmentä
 Puhuja 2: vuotta.
 Puhuja 2: Esimerkiksi tuo manskuremontti on semmoinen, joka on tiedetty
 Puhuja 2: tsaarinajoista asti, että se on pakko tehdä.
@@ -297,7 +296,7 @@ Puhuja 0: ja demarit päätti asioista.
 Puhuja 2: On se tosi hyvä. Oikeastihan me
 Puhuja 2: rakastamme sitä. Mun mielestä se on mahtavin viihdettä.
 Puhuja 2: Tämähän on varmaan joku diagnoosi olemassa.
-Puhuja 2: Mutta se on tosi kiehtovaa ja se antaa myös itselle hirveästi ajattelun aihetta, miten mekin käsitellään juttuja. Kun siellä tulee eri näkökulmia, siellä nostetaan esiin.
+Puhuja 2: Mutta se on tosi kiehtovaa ja se antaa myös itselle hirveästi ajattelunvaihetta, miten mekin käsitellään juttuja. Kun siellä tulee eri näkökulmia, siellä nostetaan esiin.
 Puhuja 2: Kun nämä ovat kuitenkin tavallisia kaupunkilaisia, jotka siellä on päättämässä asioista, niin he tuovat omien kotikulmiensa tai oman lähiöönsä ongelmia esiin. Siellä
 Puhuja 2: tulee niitä ääniä edustettuna hyvin olkootkin. Suurin osa meidän valtuutetuista on aika keskustapainotteisesti
 Puhuja 2: asuinalueena,
@@ -319,7 +318,8 @@ Puhuja 2: kyllä mua vähän jännittää, että tästä valtuustokaudesta me va
 Puhuja 2: Kuntavaalit,
 Puhuja 2: vitsit,
 Puhuja 1: vitsit, ihmisen parasta alle vuoden päästä. Ja ylipäätään aina, kun tulee sellaisia uusia ihmisiä, joilla ei ole kokemusta Helsingin Hengestä vaikka.
-Puhuja 1: Nytkin eduskunnassakin olisi ollut mielenkiintoista, kuinka korona-aikaan kaikki meni ikään kuin
+Puhuja 1: Nytkin eduskunnassakin
+Puhuja 1: olisi ollut mielenkiintoista, kuinka korona-aikaan kaikki meni ikään kuin
 Puhuja 1: etämoodiin,
 Puhuja 1: valiokunnat sun muut. Siellä oli tämän kauden alussa tosi paljon ihmisiä, jotka eivät ole ikinä nähneet, millaista eduskunnan
 Puhuja 1: kuppila keskustelu tai yhteistyö voi olla. Nyt se alkaa elpyy pikkuhiljaa
@@ -332,7 +332,7 @@ Puhuja 2: Siellä on Harryboglomooloff,
 Puhuja 2: Pekka Sauri ja Ode taitaa olla kanssa Soininvaara,
 Puhuja 2: on siellä
 Puhuja 2: vanhaa kaartia. Niiden kanssa juttelin tosi paljon ja kyllä he nosti esiin sen, että
-Puhuja 2: joku niistä käytti semmoista termiä konniatonta
+Puhuja 2: joku niistä käytti sellaista termiä konniatonta
 Puhuja 2: nykyään suorastaan se keskustelu.
 Puhuja 2: Mutta luulen, että eihän se rajoitu valtuus, vaan me puhutaan ihan paitsi
 Puhuja 2: valtakunnallisesta niin kansainvälisestä ilmiöstä.
@@ -373,12 +373,13 @@ Puhuja 1: varsinaisesti
 Puhuja 1: suosittelen
 Puhuja 1: luettavaksi
 Puhuja 1: kenellekään.
-Puhuja 1: No suosittelen totta kai. Niitä pitää kulua yleissivistykseen,
+Puhuja 1: No suosittelen totta kai. Niitä pitää kulu yleissivystyksen,
 Puhuja 1: mutta ei ehkä hupaisinta.
 Puhuja 1: Olin ensin soittelemassa vähän kevyempää, mutta ajattelin, että kaupunginvaltuuston
 Puhuja 1: hengessä
 Puhuja 1: ja pormestari Juhana Vartiaisen hengessä.
-Puhuja 1: I raus. Kyllä, olen aloittanut nyt suurin operaation. Mulla on aina sellainen luktaktiikka, että mulla on ikään kuin sellaisia kirjoja, joita luen aktivisteja ja passiivinen
+Puhuja 0: Piraus.
+Puhuja 1: Kyllä, olen aloittanut nyt suurin operaation. Mulla on aina sellainen luktaktiikka, että mulla on ikään kuin sellaisia kirjoja, joita luen aktivisteja ja passiivinen
 Puhuja 1: pidempi kirjaprojekti,
 Puhuja 1: mitä luen. Nyt on rusin kadonnutta aika etsimässä. Vihdoin aloitettu, olen nyt
 Puhuja 1: toisessa kirjassa ja on tämä vielä aika unittavaa menoa.
@@ -386,8 +387,8 @@ Puhuja 1: Minulla ei ole ihan vielä tässä vaiheessa auennut, miksi tämä kir
 Puhuja 1: kirjasarja, mitä koskaan on kirjoitettu, varsinkin, jos Juhana Vartiaselta kysyy. Pormestari varmaan kutsuu sinut nyt keskustelemaan tästä. Kuule Juhana, jos kuuntelet, niin voidaan keskustella Brustista
 Puhuja 1: ihan oikein
 Puhuja 1: vaikka simpukoiden äärellä tai jotenkin muuten.
-Puhuja 1: Vaatimattavia
-Puhuja 1: toiveita. Ranskalainen
+Puhuja 1: Vaatimattomia toiveita.
+Puhuja 1: Ranskalainen
 Puhuja 1: jalli Peet siideri siinä toisessa kädessä.
 Puhuja 1: Luen
 Puhuja 1: kahlan sitä läpi ja suosittelen lähinnä tätä taktiikkaa.
@@ -438,7 +439,8 @@ Puhuja 0: ja jään tästä
 Puhuja 0: eteenpäin
 Puhuja 0: kesälomalle.
 Puhuja 0: Äänen ja kuvan ja kaiken muun mahtavan meille tekee tällä viikolla
-Puhuja 0: Jonne Piltonen.
+Puhuja 0: Jonne
+Puhuja 0: Piltonen.
 Puhuja 0: Muistakaa lähettää meille palautetta,
 Puhuja 0: uutisraporttitilille.
 Puhuja 0: Ja

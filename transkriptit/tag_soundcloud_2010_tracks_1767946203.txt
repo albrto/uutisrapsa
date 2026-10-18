@@ -17,32 +17,32 @@ Puhuja 0: torstaina
 Puhuja 0: seitsemän.
 Puhuja 0: Maaliskuuta vuonna kaksituhatta kaksikymmentäneljä. Mun nimi on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien podcast studiossa Helsingissä Suomessa Euroopassa Maapallulla
 Puhuja 0: galaksissa nimeltä Linnunrata.
-Puhuja 0: Ovat astronomisen
+Puhuja 0: Astronomisen
 Puhuja 0: kovat toimittajat
-Puhuja 1: Rupesit harkitsemaan?
-Puhuja 2: Ei siellä sittenkään.
-Puhuja 2: Eikö tuo ole, mutta tuo ei ole. Ei tyhjää,
-Puhuja 2: että mikä se oli organisaation
+Puhuja 1: Rupesit
+Puhuja 1: harkitsemaan? Ei siellä sittenkään.
+Puhuja 1: Eikö tuo ole, mutta tuo ei ole. Ei tyhjää,
+Puhuja 1: että mikä se oli organisaation
 Puhuja 0: sijoituspaikka.
 Puhuja 0: Mutta olet tutkivien
 Puhuja 0: toimittajien
 Puhuja 0: tuottaja eli Boss,
 Puhuja 0: Salla Vuorikaskoski,
-Puhuja 2: hei Salla. Hei vaan.
+Puhuja 1: hei Salla. Hei vaan.
 Puhuja 0: Paikalla myös Helsingin Sanomien
 Puhuja 0: politiikan toimituksen
 Puhuja 0: Työ Myyrä numero Uuno.
 Puhuja 0: Täksi viikoksi esimiesvelvoitteistaan
 Puhuja 0: luomunut Anni Keski-Heikjän
 Puhuja 0: kesken AKH, heipä hei AKH.
-Puhuja 1: Heipä hei. Ei ole esimiesvelvoitteita
-Puhuja 1: muuta kuin loma-aikoina.
-Puhuja 1: Ai niin, sinä olit samalla. Niin, olin itse lomalla viime viikolla.
+Puhuja 2: Heipä hei, ei ole esimiesvelvoitteita
+Puhuja 2: muuta kuin loma-aikoina.
+Puhuja 2: Ai niin, sinä olit samalla. Niin, olin itse lomalla viime viikolla.
 Puhuja 0: Oliko ihanaa?
 Puhuja 0: Oli tosi ihanaa. Teitkö mitään jännittävää, kuten kävit ampumassa peton ja Itä-Suomessa?
-Puhuja 1: Kaulussaha sitä en tehnyt. Kävin
-Puhuja 1: kasvuhoidossa se oli tosi ihanaa. Ai semmoisessa korjalaisessa?
-Puhuja 1: No ei, se oli luonnonkasmetiikka kasvohoito, mutta se oli tosi ihanaa. Se oli loman kohokohta.
+Puhuja 2: Kaulussaha sitä en tehnyt. Kävin
+Puhuja 2: kasvuhoidossa se oli tosi ihanaa. Ai semmoisessa korjalaisessa?
+Puhuja 2: No ei, se oli luonnonkasmetiikka kasvohoito, mutta se oli tosi ihanaa. Se oli loman kohokohta.
 Puhuja 0: Tämän viikon podcastissa
 Puhuja 0: keskustellaan
 Puhuja 0: Leikkuulauta
@@ -101,7 +101,7 @@ Puhuja 0: Lapinlahdella on paljastunut kammottava
 Puhuja 0: salametsästys
 Puhuja 0: gate
 Puhuja 0: tai skandaali tai kuohunta. Tai suoraan sanottuna siis rikos.
-Puhuja 1: Rikossaari. Kokonaisuus.
+Puhuja 0: Rikossaari. Kokonaisuus.
 Puhuja 0: Rikossarja. Kokonaisuus, jossa on ammuttu petoja
 Puhuja 0: ilman lupia
 Puhuja 0: muun muassa
@@ -110,30 +110,31 @@ Puhuja 0: valvonnassa ollut susi. Keskustellaan siitä myös tällä Casella tot
 Puhuja 0: Vain ja metsätalousministeri
 Puhuja 0: on nimenomaan tältä paikkakunnalta peräisin.
 Puhuja 0: Lopuksi vielä hyviä keskustelu, niin kuin katson nykyään kaikki metsästysjutut
-Puhuja 0: sen läpi, mitä juopot tänään ovat puuhanneet. En siis todellakaan tiedä, onko tässä kyse mistään sellaisesta, ei varmasti ole. Mutta minun linssiksi on asettunut ikävä kyllä tämä tästä metsästyksestä. Varmaan metsästäjiäkin on tosi monenlaisia.
-Puhuja 2: Itse muistan, tästä on vuosia jo aikaa, mutta oltiin kansallispuistossa
-Puhuja 2: retkeilemässä
-Puhuja 2: ja sitten
-Puhuja 2: kuului
-Puhuja 2: aseen äänet sieltä. Ajattelin, että okei, hirveä metsästys ja varmaan siinä on metsästysalue siinä
-Puhuja 2: aika lähellä.
-Puhuja 2: Minulle tuli jotenkin sellainen olo, että no mutta, se on ammattimaista ja hyvin hoidettua
-Puhuja 2: ja voimme
-Puhuja 2: turvallisesti, vaikka vähän
-Puhuja 2: tuntui, että aika lähellä ammutaan.
-Puhuja 2: Ei siinä mitään, retki tehtiin ja kaikki meni hyvin, mutta sitten siitä
-Puhuja 2: vähän aikaa, oliko se seuraavalla viikolla tai jotenkinhan muutaman päivän päästä tuli Urho
-Puhuja 2: Kekkosen kansallispuiston
-Puhuja 2: tapaus, jossa oli
-Puhuja 2: vahingossa ammuttu
-Puhuja 2: maastopyöräilijää, joka sitten menehtyi siinä tilanteessa.
-Puhuja 2: Silloin muistan vain ajatelleeni sitä, että tietenkin itsellä on sellainen lähtökohta, että asiat on hoidettu fiksusti ja metsästäjät
-Puhuja 2: on järjestäytyneitä ja heillä on tarkat systeemit ja säännöt, joilla he menevät.
-Puhuja 2: Se oli tietysti
-Puhuja 2: vahinkotilanne.
-Puhuja 2: Ei tämä
-Puhuja 2: kauhean kivaa kuvaa tietysti. Tässä on varmasti mukana ihmisiä, jotka metsästävät myös laillisesti.
-Puhuja 1: Niin, sekä laittomasti että laillisesti. Ja sitä oli käytetty tekosyynä
+Puhuja 0: sen läpi, mitä juopot tänään ovat puuhanneet.
+Puhuja 0: En siis todellakaan tiedä, onko tässä kyse mistään sellaisesta, ei varmasti ole. Mutta minun linssiksi on asettunut ikävä kyllä tämä tästä metsästyksestä. Varmaan metsästäjiäkin on tosi monenlaisia.
+Puhuja 1: Itse muistan, tästä on vuosia jo aikaa, mutta oltiin kansallispuistossa
+Puhuja 1: retkeilemässä
+Puhuja 1: ja sitten
+Puhuja 1: kuului
+Puhuja 1: aseen äänet sieltä. Ajattelin, että okei, hirveä metsästys ja varmaan siinä on metsästysalue siinä
+Puhuja 1: aika lähellä.
+Puhuja 1: Minulle tuli jotenkin sellainen olo, että no mutta, se on ammattimaista ja hyvin hoidettua
+Puhuja 1: ja voimme
+Puhuja 1: turvallisesti, vaikka vähän
+Puhuja 1: tuntui, että aika lähellä ammutaan.
+Puhuja 1: Ei siinä mitään, retki tehtiin ja kaikki meni hyvin, mutta sitten siitä
+Puhuja 1: vähän aikaa, oliko se seuraavalla viikolla tai jotenkinhan muutaman päivän päästä tuli Urho
+Puhuja 1: Kekkosen kansallispuiston
+Puhuja 1: tapaus, jossa oli
+Puhuja 1: vahingossa ammuttu
+Puhuja 1: maastopyöräilijää, joka sitten menehtyi siinä tilanteessa.
+Puhuja 1: Silloin muistan vain ajatelleeni sitä, että tietenkin itsellä on sellainen lähtökohta, että asiat on hoidettu fiksusti ja metsästäjät
+Puhuja 1: on järjestäytyneitä ja heillä on tarkat systeemit ja säännöt, joilla he menevät.
+Puhuja 1: Se oli tietysti
+Puhuja 1: vahinkotilanne.
+Puhuja 1: Ei tämä
+Puhuja 1: kauhean kivaa kuvaa tietysti. Tässä on varmasti mukana ihmisiä, jotka metsästävät myös laillisesti.
+Puhuja 0: Niin, sekä laittomasti että laillisesti. Ja sitä oli käytetty tekosyynä
 Puhuja 0: laillista metsästystä, mikä minun mielestä on vielä pahempi, koska sitten viedään siltäkin
 Puhuja 0: legitimiteettiä asioita. Me ei sinänsä metsästystä vastaan ole mitään. Ihmiset ovat
 Puhuja 0: petoja siinä missä vähäisemmätkin perot.
@@ -142,134 +143,137 @@ Puhuja 0: Mutta
 Puhuja 0: ihmisellä on
 Puhuja 0: niin musertava se ylivoimaeläimiä
 Puhuja 0: kohtaan, että se täytyy huomioida siinä meidän käytöksessä.
-Puhuja 1: Tässä mun mielestä nousee taas vähän esiin semmoinen, mikä usein metsästykseen liittyen
-Puhuja 1: nousee esiin, että ollaan myös huolissaan
-Puhuja 1: oman metsästysharrastuksen
-Puhuja 1: jatkumisesta.
-Puhuja 1: Siinä mielessä, että tässä oli esimerkiksi
-Puhuja 1: ilvekset ilvekset.
+Puhuja 2: Tässä mun mielestä nousee taas vähän esiin semmoinen, mikä usein metsästykseen liittyen
+Puhuja 2: nousee esiin, että ollaan myös huolissaan
+Puhuja 2: oman metsästysharrastuksen
+Puhuja 2: jatkumisesta.
+Puhuja 2: Siinä mielessä, että tässä oli esimerkiksi ilvekset
+Puhuja 2: ilvekset.
 Puhuja 0: Ilvekset. Ilvekset.
-Puhuja 2: Miten sinut sinä kuuntelemaan tätä podia tuolla jossain Lapinlahdella
-Puhuja 2: ja miettiä
-Puhuja 1: toi. Ilvekset.
-Puhuja 1: Ilveksiä pidettiin
-Puhuja 1: suurena
-Puhuja 1: ongelmana,
-Puhuja 1: joka siis juontaa
-Puhuja 1: juurensa siihen, että ilvekset syö
-Puhuja 1: esimerkiksi
-Puhuja 1: jänikkansa.
-Puhuja 1: Tällaisia
-Puhuja 1: pieni riistaa,
-Puhuja 1: niin ongelma onkin se, että ilvekset syö niitä menestyjien saaliita.
-Puhuja 1: Tämähän on myös
-Puhuja 1: näissä kauis ja hirvi.
-Puhuja 1: Nyt ei mene ihan monenlaisen
-Puhuja 1: ytimeen,
-Puhuja 1: mutta näissä asioissa myös. Ollaan huolissaan, että halutaan tappaa eläimiä siksi, että eläimet syö meidän kivoja
-Puhuja 1: metsästyssaaliita.
-Puhuja 1: Eikö tuo ole jotenkin?
+Puhuja 1: Miten sinut sinä kuuntelemaan tätä podia tuolla jossain Lapinlahdella
+Puhuja 1: ja miettiä
+Puhuja 2: toi. Ilvekset.
+Puhuja 2: Ilveksiä pidettiin
+Puhuja 2: suurena
+Puhuja 2: ongelmana,
+Puhuja 2: joka siis juontaa
+Puhuja 2: juurensa siihen, että ilvekset syö
+Puhuja 2: esimerkiksi jänikkansa.
+Puhuja 2: Tällaisia
+Puhuja 2: pieni riistaa,
+Puhuja 2: niin ongelma onkin se, että ilvekset syö niitä menestyjien saaliita.
+Puhuja 2: Tämähän on myös
+Puhuja 2: näissä kauis ja hirvi.
+Puhuja 2: Nyt ei mene ihan monenlaisen
+Puhuja 2: ytimeen,
+Puhuja 2: mutta näissä asioissa myös. Ollaan huolissaan, että halutaan tappaa eläimiä siksi, että eläimet syö meidän kivoja
+Puhuja 2: metsästyssaaliita.
+Puhuja 2: Eikö tuo ole jotenkin?
 Puhuja 0: Käykö ne ilveet siitä tynnyriltä
 Puhuja 0: napsimassa
 Puhuja 0: niitä
-Puhuja 1: oli
-Puhuja 1: kiinnostavaa, miten poliisin
-Puhuja 1: tiedotusteollisuudessa
-Puhuja 1: kerrottiin tästä
-Puhuja 1: keissistä. Avattiin todella laajasti epäiltyjä motiiveja
-Puhuja 1: Avattiin tosi paljon sitä, miten he epäilytyjen omasta mielestään
-Puhuja 1: ovat sanoneet, että pettymys
-Puhuja 1: petopolitiikkaan
-Puhuja 1: on
-Puhuja 1: suuri syy tälle.
-Puhuja 1: Tässä on sellainen ajatus,
-Puhuja 2: kivempi ajaa kovempaa.
-Puhuja 2: Tavallaan toihan on tuollaista logiikkaa.
-Puhuja 1: Soitin tässä maa ja metsätalousministeri Sari Essayah, joka myös
-Puhuja 1: asuu Lapinlahdella,
-Puhuja 1: sillä tavalla myös linkittyneet tähän, mutta hän ei tähän syöttiin tarttunut ollenkaan tässä tilanteessa.
-Puhuja 1: Sen sijaan
-Puhuja 1: kiinnitti huomion, että
-Puhuja 1: tähän asiaan liittyvää
-Puhuja 1: poliisi oli, en tiedä kuuntelitteko Ylen uutispodcastiin jaksoa tästä aiheesta, mutta hän sanoi suoraan, että hän kannattaa kannanhoidollisen metsästyksen lisäämistä.
-Puhuja 2: Poliisi sanoi.
-Puhuja 1: Se oli
-Puhuja 1: mielenkiintoista
-Puhuja 2: ja mielenkiintoisia valokuva asetti myös tämän tiedot jälkeen. Eikö siihen auttaisi se, että ne eivät menisi laittomasti ampumaan niitä eläimiä sinne? Sehän lopettaisi sen nopeammin se homma.
-Puhuja 2: Tämä on
-Puhuja 2: vitsi,
-Puhuja 2: mutta kertoo ehkä jotain.
-Puhuja 2: Okei.
+Puhuja 2: oli
+Puhuja 2: kiinnostavaa, miten poliisin
+Puhuja 2: tiedotusteollisuudessa
+Puhuja 2: kerrottiin tästä
+Puhuja 2: keissistä. Avattiin todella laajasti epäiltyjä motiiveja
+Puhuja 2: Avattiin tosi paljon sitä, miten he epäilytyjen omasta mielestään
+Puhuja 2: ovat sanoneet, että pettymys
+Puhuja 2: petopolitiikkaan
+Puhuja 2: on
+Puhuja 2: suuri syy tälle.
+Puhuja 2: Tässä on sellainen ajatus,
+Puhuja 1: kivempi ajaa kovempaa.
+Puhuja 1: Tavallaan toihan on tuollaista logiikkaa.
+Puhuja 2: Soitin tässä maa ja metsätalousministeri Sari Essayah, joka myös
+Puhuja 2: asuu Lapinlahdella,
+Puhuja 2: sillä tavalla myös linkittyneet tähän, mutta hän ei tähän syöttiin tarttunut ollenkaan tässä tilanteessa.
+Puhuja 2: Sen sijaan
+Puhuja 2: kiinnitti huomion, että
+Puhuja 2: tähän asiaan liittyvää
+Puhuja 2: poliisi oli, en tiedä kuuntelitteko Ylen uutispodcastiin jaksoa tästä aiheesta, mutta hän sanoi suoraan, että hän kannattaa kannanhoidollisen metsästyksen lisäämistä.
+Puhuja 1: Poliisi sanoi.
+Puhuja 2: Se oli
+Puhuja 2: mielenkiintoista
+Puhuja 1: ja mielenkiintoisia valokuva asetti myös tämän tiedot jälkeen. Eikö siihen auttaisi se vain, että ne eivät menisi laittomasti ampumaan niitä eläimiä sinne? Sehän lopettaisi sen nopeammin se homma.
+Puhuja 1: Mutta
+Puhuja 1: joo, tämä on
+Puhuja 1: vitsi,
+Puhuja 1: mutta kertoo ehkä jotain.
+Puhuja 1: Okei.
 Puhuja 0: Tämmöistä tänään. Sitten kun otatte naurita hirveästi ja vanhoja perunoita ja
 Puhuja 0: porkkanoita ja sitten laitatte niitä tynnyriin,
 Puhuja 0: raahtaa sen tynnyrin
 Puhuja 0: paikallisen pellon laitaan silleen, että se on vähän mukaan
 Puhuja 0: metsän suojassa, mutta kuitenkin siinä pellolla tynnyr.
 Puhuja 0: Aloittelette, että siihen tulee joku peura syömään teidän raahaamia
-Puhuja 0: nauriita. Sen jälkeen tusautatte siltä
-Puhuja 0: aivot pellolle.
+Puhuja 0: nauriita. Sen jälkeen tusautatte
+Puhuja 0: siltä aivot pellolle.
 Puhuja 0: Joku
-Puhuja 0: ituhippi tulee siihen huutamaan, että Jumalan soimaan, mitä sä hommat? Sitten se sanoi, että olen metsästäjä
+Puhuja 0: ituhippi tulee siihen huutamaan, että tämä on jumala, mitä sä hommat? Sitten se sanoo, että olen metsästäjä
 Puhuja 0: ja tarjoat lohdutukseksi
 Puhuja 0: hipille ryppyä taskomatista,
-Puhuja 2: niin mitäs juttuja sitten alatte teille kertoa? Minä kysyisin häneltä, että riippuen vähän hipin iästä, minkä ikäinen tämä hippi suurin piirtein on? Sellainen viisas
+Puhuja 1: niin mitäs juttuja sitten alatte teille kertoa? Minä kysyisin häneltä, että riippuen vähän hipin iästä, minkä ikäinen tämä hippi suurin piirtein on? Sellainen viisas
 Puhuja 0: kolmekymppinen.
-Puhuja 2: Okei, kysyisin häneltä, että mitä muistat
-Puhuja 2: 90-luvusta,
-Puhuja 2: mitä tulee ysäristä mieleen? Kysyn teiltä.
-Puhuja 1: Älä kysy
-Puhuja 2: Mitä sinulle, Tuomas, tulee lisää lisäarvoa? Tosi paljon. Expilees ehkä ensimmäisenä.
-Puhuja 0: Expilees? Ja Jari Litmaisen
+Puhuja 1: Okei, kysyisin häneltä, että mitä muistat
+Puhuja 1: 90-luvusta,
+Puhuja 1: mitä tulee ysäristä mieleen? Kysyn teiltä.
+Puhuja 2: Älä kysy
+Puhuja 1: Mitä sinulle, Tuomas, tulee lisää lisäarvoa? Tosi paljon. Expilees ehkä ensimmäisenä.
+Puhuja 0: Expilees. Ja Jari Litmaisen
 Puhuja 0: ajaksi ajalta, jos sanoisin näin. Tiedättekö, mikä minulle tulee?
-Puhuja 2: Sen nimi oli Juppikuppi. Tiedätkö, mikä se on? Se oli varmaan joku laukaalainen termi. Siis
-Puhuja 2: jännäksi kiekkuretta korkealle. Ja sitten se on vähän liimaisen oloinen. Polanaoopperiin. Osumme sitä jumpikupiksi.
-Puhuja 2: Siihen liittyi levikset
-Puhuja 2: myös ja tämmöinen.
-Puhuja 2: Mutta
-Puhuja 2: 90-lukuun,
-Puhuja 2: jolloin itse olen siis,
-Puhuja 2: olen ollut rippileirillä
-Puhuja 2: vuonna -yhdeksänkymmentäkaksi, siitä voi laskeskella.
-Puhuja 2: Ysäri on nuoruuteni kuvastoa hyvin vahvasti ja niin se on varmaan osin Tuomaksenkin. Osin joo, kyllä.
-Puhuja 2: Oli mielenkiintoinen kokemus, kun kävin
-Puhuja 2: ystäväni kanssa katsomassa Q-teatterissa
-Puhuja 2: näytelmän uuteen nousuun, koska se kertoo laman lapsista, mehän olimme laman lapsia myös
-Puhuja 2: ja täytyy sanoa, että
-Puhuja 2: oli
-Puhuja 2: hieno kokemus.
-Puhuja 2: Siinä oli ihan vahva tarina ja siinä seurattiin
-Puhuja 2: tällaista
-Puhuja 2: nelikkoa, lapsia. Ne olivat ikään kuin minua vähän nuorempia,
-Puhuja 2: jotka kasvoivat siinä laman ja ysärin aikana.
-Puhuja 2: Mutta sitten se tarjosi sellaista myös, mitä pikkuisen pitäisi olla
-Puhuja 2: juuri niitä hetkiä, kun on Kurt Cobain ja ehkä se Jari Litmanen ja joku
-Puhuja 2: Commodore kuusikymmentäneljä ja muuta.
-Puhuja 2: Sellaista nostalgiakarkkia
-Puhuja 2: oli jonkin verran, mutta ei ylitsevuotavasti,
-Puhuja 2: se
-Puhuja 2: oli
-Puhuja 2: hieno kokemus. Täytyy sanoa, että kun teatterissa
-Puhuja 2: käytte, niin tiedätte, että sinne on tuonut viimeisten vuosien aikana aika paljon
-Puhuja 2: tämmöistä audiovisuaalista kamaa, siis videota
-Puhuja 2: ja uutta elementtiä, elokuvallisia
-Puhuja 2: keinoja.
-Puhuja 2: Tämä on minusta aivan
-Puhuja 2: omalla tasollaan jo.
-Puhuja 2: Se, miten ne soljuvat yhteen, semmoinen perinteinen teatteri ja sitten
-Puhuja 2: tämmöinen
-Puhuja 2: audiovisuaalisuus,
-Puhuja 2: niin se oli aivan huikeata. Minun suositukseni tälle hipille olisi se, jos vaan jostain pystyt saamaan lipun, koska tämä on loppuunmyytyä,
-Puhuja 2: niin Anna Brotkin ja Juho mantereen uuteen nousuun.
-Puhuja 2: Oli hieno kokemus.
-Puhuja 0: Saanko jatkaa ihan
-Puhuja 0: vähän tästä samasta aihepiiristä.
+Puhuja 1: Sen nimi oli Juppikuppi. Tiedätkö, mikä se on? Se oli varmaan joku laukaalainen termi. Siis
+Puhuja 1: jänneksi
+Puhuja 1: kiekkurussarin
+Puhuja 1: korkealle.
+Puhuja 1: Ja sitten se on vähän liimaisen oloinen. Konanavigaattori
+Puhuja 1: sitä jumpikupiksi.
+Puhuja 1: Siihen liittyi levikset
+Puhuja 1: myös ja tämmöinen.
+Puhuja 1: Mutta
+Puhuja 1: 90-lukuun,
+Puhuja 1: jolloin itse olen siis,
+Puhuja 1: olen ollut rippileirillä
+Puhuja 1: vuonna -yhdeksänkymmentäkaksi, siitä voin laskeskella.
+Puhuja 1: Ysäri on nuoruuteni kuvastoa hyvin vahvasti ja niin se on varmaan osin Tuomaksenkin. Osin joo, kyllä.
+Puhuja 1: Oli mielenkiintoinen kokemus, kun kävin
+Puhuja 1: ystäväni kanssa katsomassa Q-teatterissa
+Puhuja 1: näytelmän uuteen nousuun, koska se kertoo laman lapsista, mehän olimme laman lapsia myös
+Puhuja 1: ja täytyy sanoa, että
+Puhuja 1: oli
+Puhuja 1: hieno kokemus
+Puhuja 1: Siinä oli ihan vahva tarina ja siinä seurattiin
+Puhuja 1: tällaista
+Puhuja 1: nelikkoa, lapsia. Ne olivat ikään kuin minua vähän nuorempia,
+Puhuja 1: jotka kasvoivat siinä laman ja ysärin aikana.
+Puhuja 1: Mutta sitten se tarjosi sellaista myös, mitä pikkuisen pitäisi olla
+Puhuja 1: juuri niitä hetkiä, kun on Kurt Cobain ja ehkä se Jari Litmanen ja joku
+Puhuja 1: Commodore kuusikymmentäneljä ja muuta.
+Puhuja 1: Sellaista nostalgiakarkkia
+Puhuja 1: oli jonkin verran, mutta ei ylitsevuotavasti,
+Puhuja 1: se
+Puhuja 1: oli
+Puhuja 1: hieno kokemus. Täytyy sanoa, että kun teatterissa
+Puhuja 1: käytte tiedätte, tiedätte, että sinne on tuonut viimeisten vuosien aikana aika paljon
+Puhuja 1: audiovisuaalista kamaa, siis videota
+Puhuja 1: ja
+Puhuja 1: uutta elementtiä, elokuvallisia
+Puhuja 1: keinoja. Tämä on minusta aivan
+Puhuja 1: omalla tasollaan jo.
+Puhuja 1: Se, miten ne soljuvat yhteen, semmoinen perinteinen teatteri ja sitten
+Puhuja 1: tämmöinen
+Puhuja 1: audiovisuaalisuus,
+Puhuja 1: niin se oli aivan huikeata. Minun suositukseni tälle hipille olisi se, että jos vaan jostain pystyt saamaan lipun, koska tämä on loppuunmyytyä,
+Puhuja 1: niin mitä Anna Brotkin ja Juho Mantereen uuteen nousuun. Oli hieno kokemus.
+Puhuja 0: Saanko jatkaa ihan vähän
+Puhuja 0: tästä samasta aihepiiristä.
 Puhuja 0: Kun
 Puhuja 0: mietin,
-Puhuja 0: mikä on ysärin lapsi?
-Puhuja 0: Tai
-Puhuja 0: sä olet selkeästi Gen X:ää.
-Puhuja 2: Oliko se se Gen... Joo, on joo. Joo. Tästä on kirjoitettu
-Puhuja 0: hyvä kirja Lamaan lapset, mitä meille tapahtui? Sanna Kajander Ruth on kirjoittanut
+Puhuja 0: mikä on ysärin
+Puhuja 0: lapsi?
+Puhuja 0: Tai sä oot selkeästi Gen X:ää.
+Puhuja 1: Oliko se se Gen... Joo, on, joo. Tästä on kirjoitettu
+Puhuja 0: hyvä kirja, laman lapset. Mitä meille tapahtui? Sanna Kajander Ruth on kirjoittanut
 Puhuja 0: kirjan, jossa käydään läpi tätä
 Puhuja 0: ysärinä
 Puhuja 0: kasvaneiden
@@ -281,23 +285,22 @@ Puhuja 0: Kurtcobain ei merkkaa mulle yhtään mitään. Kaikki ne ysäri
 Puhuja 0: asiat, olen ollut ihan pieni lapsi silloin.
 Puhuja 0: Olen katsonut transformssia.
 Puhuja 0: Eivät ne merkkaa minulle mitään. Minulle tulee vasta ysärin lopussa
-Puhuja 0: nuoruuskokemuksia. Sitä ennen ne ovat olleet lapsuuskokemuksia.
+Puhuja 0: nuoruuskokemuksia.
+Puhuja 0: Sitä ennen ne ovat olleet lapsuuskokemuksia.
 Puhuja 0: Se on se jakava asia. Jossain täällä menee juuri se Gen
-Puhuja 0: X ja milleniaalijako,
-Puhuja 0: minkä verran se
+Puhuja 0: X ja milleniaalijako.
+Puhuja 0: Minkä verran se
 Puhuja 0: tavallaan on se ysärin kuvasto,
 Puhuja 0: onko silloin ollut lapsuutta vai nuoruutta. Jos nuoruus on ollut ysärillä, sanotaan ysärin puolivälissä suurin piirtein menossa, niin silloin olet X:ää. Jos myöhemmin, niin sitten olet milleniaalla. En minä ole X:ää.
-Puhuja 1: Meillä on tässä kolmen sukupolven
-Puhuja 2: podcast.
-Puhuja 2: Hei, anteeksi, mä poistun nyt tästä, niin te voitte jatkaa
-Puhuja 2: suosituksia, koska mulle tulee puhelu. No niin. Joo,
-Puhuja 0: Anni.
-Puhuja 0: Mä sanoin eka, koska sulla oli jotain eeppistä. Mä
-Puhuja 0: haluan
+Puhuja 2: Meillä on tässä kolmen sukupolven
+Puhuja 1: podcast.
+Puhuja 1: Hei, anteeksi, mä poistun nyt tästä, niin te voitte jatkaa
+Puhuja 1: suosituksia, koska mulle tulee puhelu. No niin. Joo.
+Puhuja 0: Anni,
+Puhuja 0: sanoisin eka, koska sulla oli jotain eeppistä. Haluan
 Puhuja 0: suositella semmoista
 Puhuja 0: juuri... Netflix on jotenkin
-Puhuja 0: nyt
-Puhuja 0: tosi
+Puhuja 0: nyt tosi
 Puhuja 0: voimissaan,
 Puhuja 0: vaikka välistähän näytti, että Netflix
 Puhuja 0: häviää tämän pelin.
@@ -318,7 +321,8 @@ Puhuja 0: Saa tietää totta kai,
 Puhuja 0: mitä meininkiä maailmassa, mutta siellä tulee
 Puhuja 0: joka päivä jotain silleen, että hei vitsi, hei, toi on hieno juttu, mä haluan tuota kokeilla tai Täytyypä katsoa tai jotain tälleen. Siellä se suositusmeininki
 Puhuja 0: jotenkin
-Puhuja 0: älyttömän hyvin toimii. Sieltä esimerkiksi löytyy tosi hyvin, että mitä Netflixistä kannattaa katsoa ja kaikkea tällaista. Joten suosittelen, että lukekaa aamuisin The New York Timesia.
+Puhuja 0: älyttömän hyvin toimii. Sieltä esimerkiksi löytyy tosi hyvin, että mitä Netflixistä kannattaa katsoa ja kaikkea tällaista.
+Puhuja 0: Joten suosittelen, että lukekaa aamuisin The New York Timesia.
 Puhuja 0: Niillä on DHafunder
 Puhuja 0: Moto.
 Puhuja 0: Netflixissä
@@ -329,76 +333,75 @@ Puhuja 0: näytelty versio, eli Avatado the Last Airpender,
 Puhuja 0: josta katsoimme eilen poikani kanssa ensimmäisen jakson. Se oli todella hyvä,
 Puhuja 0: aivan älyttömän hyvin tehty klassikkoanimaatiosta
 Puhuja 0: tällainen sarja.
-Puhuja 1: Olipa kiinnostavat
-Puhuja 1: molemmat.
-Puhuja 1: No minäpä olen.
-Puhuja 1: Mä olen
-Puhuja 1: tällä viikolla
-Puhuja 1: järkyttynyt
-Puhuja 1: uudestaan
-Puhuja 1: syvästi
-Puhuja 1: kaikesta,
-Puhuja 1: mitä Jari Aarnio on tehnyt,
-Puhuja 1: koska mä olen nyt vihdoin lukenut
-Puhuja 1: Susanne Rainbotin ja Minna Passin kirjan Keisari Aarnio. Kollegamme.
-Puhuja 1: Suski on nykyinen kollega ja Minna Passsi on ennen ollut Hesarissa töissä. Nykyinen suojelupoliisin
+Puhuja 2: Olipa kiinnostavat molemmat.
+Puhuja 2: No minäpä olen.
+Puhuja 2: Mä olen
+Puhuja 2: tällä viikolla
+Puhuja 2: järkyttynyt
+Puhuja 2: uudestaan
+Puhuja 2: syvästi
+Puhuja 2: kaikesta,
+Puhuja 2: mitä Jari Aarnio on tehnyt,
+Puhuja 2: koska mä olen nyt vihdoin lukenut
+Puhuja 2: Susanne Rainbotin ja Minna Passin kirjan Keisari Aarnio. Kollegamme.
+Puhuja 2: Suski on nykyinen kollega ja Minna Passsi on ennen ollut Hesarissa töissä. Nykyinen suojelupoliisin
 Puhuja 0: työntekijä?
 Puhuja 1: Kyllä.
-Puhuja 1: Mulla oli ollut se kirja. Olin varmaan saanut sen ilmaiseksi täältä töistä tai jotain. Se oli ollut pitkään. Totta kai tiesin, mitä kaikkea Adni on pohastellut ja
-Puhuja 1: mitä kaikkea kamalaa on
-Puhuja 1: olemassa.
-Puhuja 1: Mua ei kiinnosta mikään rikosuutiset
-Puhuja 1: ja muutenkaan rikokset, ei mikään true crime eikä mikään tämmöinen.
-Puhuja 1: Siitä
-Puhuja 1: on
-Puhuja 1: tehty telkkarisarjakin
-Puhuja 1: pari vuotta sitten, en sitäkään katsonut,
-Puhuja 1: koska ei jotenkin lähtenyt.
+Puhuja 2: Mulla oli ollut se kirja. Olin varmaan saanut sen ilmaiseksi täältä töistä tai jotain. Se oli ollut pitkään. Totta kai tiesin, mitä kaikkea Adni on pohastellut ja
+Puhuja 2: mitä kaikkea kamalaa on
+Puhuja 2: olemassa.
+Puhuja 2: Mua ei kiinnosta mikään rikosuutiset
+Puhuja 2: ja muutenkaan rikokset, ei mikään true crime eikä mikään tämmöinen.
+Puhuja 2: Siitä
+Puhuja 2: on
+Puhuja 2: tehty telkkarisarjakin
+Puhuja 2: pari vuotta sitten, en sitäkään katsonut,
+Puhuja 2: koska ei jotenkin lähtenyt.
 Puhuja 0: Olen vähän kaikkia tähän myös syyllinen. Joo,
-Puhuja 1: mutta siis, ja kaikille
-Puhuja 1: muillekin, jotka on tällaisia, niin sanon, että
-Puhuja 1: tuo Kesä Aarnio-kirja koukutti ensimmäisestä sivusta lähtien
-Puhuja 1: ihan sairaan hyvin. Se on todella
-Puhuja 1: kiinnostavasti kirjoitettu.
-Puhuja 1: Siinä on käyty
-Puhuja 1: läpi ihan järjetön määrä papereita
-Puhuja 1: niistä valtavista tutkinnoista, mitä on ollut.
-Puhuja 1: Siinä on
-Puhuja 1: todella paljon sellaista
-Puhuja 1: niin yksityiskohtaista tietoa niistä asioista, että siinä todella järkyttyy.
-Puhuja 1: Olen lukenut sitä sillä tavalla, että koko ajan
-Puhuja 1: olen ihmisille ympärillä, että hei vitsi, tiesitkökö, että teki tätä? Ja sitten tulee niitä otteita sieltä kirjasta. Minkälaista siellä?
-Puhuja 0: Totta kai oli huumepoliisia,
-Puhuja 0: ja harjoitti huumekaapaa,
-Puhuja 0: ja kai se oli siinä. Niin, nimenomaan.
-Puhuja 1: Mitä kaikkea se siellä newmepoliisin
-Puhuja 1: sisällä teki. Hänellä oli suhde tällaiseen
-Puhuja 1: Saara-naiseen.
-Puhuja 1: Ja kaikki se, mitä olit sanonut Saaralle. Siellä on tekstiviestejä
-Puhuja 1: tosi paljon, mitä on siinä
-Puhuja 1: tutkinnassa tietysti paljastunut.
-Puhuja 1: Niin ne kulkee
-Puhuja 1: kirjan mukana koko ajan ja todella yksityiskohtaisesti asiat.
-Puhuja 1: Ja
-Puhuja 1: se
-Puhuja 1: jotenkin järkyttää.
-Puhuja 1: Poliisipäällikkö.
-Puhuja 1: Mutta
-Puhuja 1: mä todella suosittelen sitä kirjaa. Okei.
+Puhuja 2: mutta siis, ja kaikille
+Puhuja 2: muillekin, jotka on tällaisia, niin sanon, että
+Puhuja 2: tuo Kesä Aarnio-kirja koukutti ensimmäisestä sivusta lähtien
+Puhuja 2: ihan sairaan hyvin. Se on todella
+Puhuja 2: kiinnostavasti kirjoitettu.
+Puhuja 2: Siinä on käyty
+Puhuja 2: läpi ihan järjetön määrä papereita
+Puhuja 2: niistä valtavista tutkinnoista, mitä on ollut.
+Puhuja 2: Siinä on
+Puhuja 2: todella paljon sellaista
+Puhuja 2: niin yksityiskohtaista tietoa niistä asioista, että siinä todella järkyttyy.
+Puhuja 2: Olen lukenut sitä sillä tavalla, että koko ajan
+Puhuja 2: olen ihmisille ympärillä, että hei vitsi, tiesitkökö, että teki tätä? Ja sitten tulee niitä otteita sieltä kirjasta. Minkälaista
+Puhuja 0: siellä?
+Puhuja 0: Totta kai harotti huumepoliisia,
+Puhuja 0: ja
+Puhuja 2: mitä kaikkea se siellä newmepoliisin
+Puhuja 2: sisällä teki. Hänellä oli suhde tällaiseen
+Puhuja 2: Saara-naiseen.
+Puhuja 2: Ja kaikki se, mitä olit sanonut Saaralle. Siellä on tekstiviestejä
+Puhuja 2: tosi paljon, mitä on siinä
+Puhuja 2: tutkinnassa tietysti paljastunut.
+Puhuja 2: Niin ne kulkee
+Puhuja 2: kirjan mukana koko ajan ja todella yksityiskohtaisesti asiat.
+Puhuja 2: Ja
+Puhuja 2: siis
+Puhuja 2: se jotenkin järkyttää.
+Puhuja 2: Poliisipäällikkö.
+Puhuja 2: Mutta
+Puhuja 2: mä todella suosittelen sitä kirjaa. Okei.
 Puhuja 0: Tämä vaan vaillinainen liittyy mainion suositukseen.
 Puhuja 0: Tuo on toinen, mitä monesti mietin,
 Puhuja 0: jos joskus mun työtä on esimerkiksi
 Puhuja 0: miettiä sitä, miten
-Puhuja 0: kerrotaan
-Puhuja 0: uutisia ja asioita ihmisille ja miten saadaan tehokkaasti tietoa siirrettyä ja kiinnostavasti ja muuten.
-Puhuja 0: Esimerkiksi
-Puhuja 0: Jari Aarnio keissi oli mun mielestä tavallaan
+Puhuja 0: kerrotaan uutisia ja asioita ihmisille ja miten saadaan tehokkaasti tietoa
+Puhuja 0: siirrettyä ja kiinnostavasti ja muuten.
+Puhuja 0: Jari Aarnio keissi oli mun mielestä
+Puhuja 0: tavallaan
 Puhuja 0: paras mahdollinen
 Puhuja 0: esimerkki siinä, että aivan älyttömän tärkeä asia, siis poliisikorruptio
 Puhuja 0: Suomessa,
 Puhuja 0: laittomuudet,
-Puhuja 0: joilla on hillittömästi valtaa ja aseita ihan lain siunaamana,
-Puhuja 0: eli poliisi,
+Puhuja 0: joilla on hillittömästi valtaa ja aseita
+Puhuja 0: ihan lain siunaamana, eli poliisi,
 Puhuja 0: niin korruptoituu
 Puhuja 0: ja sitten
 Puhuja 0: uppoaa tämmöiseen rikollisuuden
@@ -426,23 +429,23 @@ Puhuja 0: yhteistyössä
 Puhuja 0: kustantajien kanssa, että toimittajalle tulisi semmoinen, että seuraa kolme vuotta Aarnio-keissiä
 Puhuja 0: ja sitten tulee niin törkeän hyvä kirja sen päätteeksi,
 Puhuja 0: että oksat pois. Tämä
-Puhuja 1: on just tosi hyvä esimerkki siitä.
-Puhuja 1: Sulla ei voi olla sellaista kokonaiskuvaa, mikä siitä kirjasta tulee
-Puhuja 1: pelkästään sillä, että olet seurannut
-Puhuja 1: uutisointia
-Puhuja 1: vuosien ajan.
-Puhuja 1: Vaikka olisit lukenut ne kaikki aarniouutiset silloin aikanaan, niin minä takaan, että tuosta kirjasta syntyy
-Puhuja 1: laajempi,
-Puhuja 1: yksityiskohtaisempi
-Puhuja 1: ja
-Puhuja 1: sitä kautta karmivampi
-Puhuja 1: kuva vielä tuosta koko asiasta.
+Puhuja 2: on just tosi hyvä esimerkki siitä.
+Puhuja 2: Sulla ei voi olla sellaista kokonaiskuvaa, mikä siitä kirjasta tulee
+Puhuja 2: pelkästään sillä, että olet seurannut
+Puhuja 2: uutisointia
+Puhuja 2: vuosien ajan.
+Puhuja 2: Vaikka olisit lukenut ne kaikki aarniouutiset silloin aikanaan, niin minä takaan, että tuosta kirjasta syntyy
+Puhuja 2: laajempi,
+Puhuja 2: yksityiskohtaisempi
+Puhuja 2: ja
+Puhuja 2: sitä kautta karmivampi
+Puhuja 2: kuva vielä tuosta koko asiasta.
 Puhuja 0: Kyllä. Kiitos Anni.
-Puhuja 1: Kiitos.
+Puhuja 2: Kiitos.
 Puhuja 0: Mun nimi on Tuomas Speltämäki.
 Puhuja 0: Äänenäkuva ja kaiken mun mahtava, mitä meille teki tällä viikolla Mikko Peura. Kiitos Mikko.
 Puhuja 0: Toivon, että ensi viikolla on enemmän uutisia.
-Puhuja 1: Kyllä niitä tulee. Joo. Mä
+Puhuja 2: Kyllä niitä tulee. Joo. Mä
 Puhuja 0: lupaan, että olen paljon paremmin perillä.
 Puhuja 0: Tällä viikolla oli tällaista. Onneksi sinä Anni ja totta kai rakas kollega Salla,
 Puhuja 0: olette armoitettuja
@@ -450,7 +453,7 @@ Puhuja 0: neroja
 Puhuja 0: ja viisaita
 Puhuja 0: naisia.
 Puhuja 0: Kuullaan taas
-Puhuja 0: viikolla.
+Puhuja 0: ensi viikolla.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
@@ -461,12 +464,12 @@ Puhuja 0: Kaasukauppaan, joka päätyi aseeksi aseeksi suurvaltapolitiikassa.
 Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä Podcastini, mä luulin, että mä lähtisin selvittämään
 Puhuja 0: kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
-Puhuja 0: Mun eteen avautui taloudellinen
-Puhuja 0: murhamysteeri.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
 Puhuja 0: ja on poliitikkoja
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti
-Puhuja 0: Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkinverkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.

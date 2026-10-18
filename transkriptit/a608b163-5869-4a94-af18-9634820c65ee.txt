@@ -61,8 +61,10 @@ Puhuja 2: minuuttia.
 Puhuja 2: Ja omistan tämän oikaisun äidilleni, joka on suuri Länsi-rata-hankkeen
 Puhuja 2: ystävä
 Puhuja 2: ja asuu Turussa.
-Puhuja 3: Ylitetään
-Puhuja 2: anteeksi. Vaikka Tuomas on poissa, niin Tuomaksen lempiaiheesta eli Sanna Marinista ja hänen uudesta Helsingin Sanomissa aika kovaa kritiikkiä sanoista kirjastaan
+Puhuja 2: Ylitetään anteeksi. Tämä
+Puhuja 2: viikon podcastissa
+Puhuja 2: keskustellaan,
+Puhuja 2: vaikka Tuomas on poissa, niin Tuomaksen lempiaiheesta eli Sanna Marinista ja hänen uudesta Helsingin Sanomissa aika kovaa kritiikkiä sanoista kirjastaan
 Puhuja 2: Toivo on tekoja.
 Puhuja 2: Ja myös maailman
 Puhuja 2: parhaasta kaupungista
@@ -78,7 +80,7 @@ Puhuja 2: itänaapurissa jotakin muutosta
 Puhuja 2: nähtävillä.
 Puhuja 2: Siitä meidän kanssa tulee puhumaan vastikään Venäjästä kirjan julkaissut HS:n toimittaja Jussi Niemeläinen.
 Puhuja 2: Ja lopuksi vielä hyviä
-Puhuja 2: keskustelunaiheita pitkien
+Puhuja 2: keskustelunaiheita pitkien,
 Puhuja 2: epämukavien
 Puhuja 2: hiljaisuuksien
 Puhuja 2: varten.
@@ -96,11 +98,10 @@ Puhuja 2: jossa lähinnä vanhemmat miehet harmaitapuvuissa
 Puhuja 2: kinastelivat
 Puhuja 2: milloin mistäkin.
 Puhuja 2: Tuo kaikki oli kaukana siitä todellisuudesta,
-Puhuja 2: josta itse tulin. Aluksi en tiennyt, olisiko poliittisessa järjestelmässä
+Puhuja 2: josta itse tulin. Aluksi en tiennyt,
+Puhuja 2: olisiko poliittisessa järjestelmässä
 Puhuja 2: tilaa minunlaiselle ihmiselle.
-Puhuja 2: Näin kirjoittaa
-Puhuja 2: Suomen entinen pääministeri
-Puhuja 2: Sanna Marin
+Puhuja 2: Näin kirjoittaa Suomen entinen pääministeri Sanna Marin
 Puhuja 2: Tällä viikolla julkaistun
 Puhuja 2: Toivo on tekoja kirjansa alkusanoissa.
 Puhuja 2: Kirja julkaistaan heti useassa maassa ja on kirjoitettu alun perin englanniksi. Sotahan alkoi neljätoista.
@@ -108,21 +109,20 @@ Puhuja 5: Silloin se näytti, että
 Puhuja 5: Venäjä menee huonosti, mutta sitten huomattiin, että itse asiassa näyttääkin menevän ihan ok
 Puhuja 5: ja se talous kasvoi.
 Puhuja 5: Kun ne paljon niin paljon rahaa siihen.
-Puhuja 5: Ja vaikka varastettiin, niin sitten kuitenkin valui ihmisiä, että sieltä talouskasvu ja BKT kasvoi ihan hurjia lukuja.
+Puhuja 5: Ja vaikka varastettiin, niin sitten kuitenkin valui ihmisiä, että siellä talouskasvu
+Puhuja 5: BKT kasvoi ihan hurjia lukuja.
 Puhuja 5: Ja sitten näytti siltä, että venäläiset eivät välittäneet yhtään. Huolun urheileilla ei ollut mitään väliä, eikä ukrainalaisten
 Puhuja 5: tilanteella.
 Puhuja 5: Mutta nyt näyttää siltä, että Venäjällä on sotaväsymystä. Sitten tietysti ne droonit, alkavat yltää paljon pidemmälle. On nähty joku bensajonoja,
-Puhuja 2: meilläkin juttu. Niin, jokainen droonit siis. Ohranen
-Puhuja 5: droonit yltyy venäläis syvemmälle. Niin kyllä se alkaa näkymään Venäjällä, niin kuin Venäjälläkin alkaa näkyä tämä sota. Kun venäläiset
-Puhuja 5: ovat sanoneet
+Puhuja 2: meilläkin juttu. Niin yksittäinen droonit siis. Ohranen
+Puhuja 5: droonit yltyy venäläis syvemmälle. Niin kyllä se alkaa näkymään Venäjällä, niin kuin Venäjälläkin alkaa näkyä tämä sota. Kun venäläiset ovat sanoneet
 Puhuja 5: silmät kiinni, että ei tässä mitään. Niinpä. Niinpä.
-Puhuja 5: Ja se alkaa näkyä varmaan kaikessa vähän
-Puhuja 5: niin
-Puhuja 5: kuin Putin suosiossakin on jouduttu aika
-Puhuja 3: korottamaan veroja ja kaikkea tällaista. Paljonhan sitä on puhuttu, että näissä isoissa kaupungeissa Moskova ja Pietari ja siellä ihmiset elävät enemmän tavallaan siltä sodalta jotenkin ja kurjuudelta ja muuta piilossa, niin edelleen se sama jako tavallaan on. On se joo. Ja se on siis ihan tietoista, että se ei ole mikään sattuma.
+Puhuja 5: Ja se alkaa näkyä varmaan kaikessa vähän niin kuin Putin suosiossaossakin
+Puhuja 5: korottamaan
+Puhuja 3: veroja ja kaikkea tällaista. Paljonhan sitä on puhuttu, että näissä isoissa kaupungeissa Moskova ja Pietari ja siellä ihmiset elävät enemmän tavallaan siltä sodalta jotenkin ja kurjuudelta ja muuta piilossa, niin edelleen se sama jako tavallaan on. On se joo. Ja se on siis ihan tietoista, että se ei ole mikään sattuma.
 Puhuja 5: Joskus sanoin, että sota on käyty
 Puhuja 5: köyhien aloitteen pojilla.
-Puhuja 5: Niin se on haluttu pitää, että isot kaupungit
+Puhuja 5: Se on haluttu pitää, että isot kaupungit
 Puhuja 5: sota
 Puhuja 5: ei oikein koskettaisi niitä. Ja nyt se on halunnut koskettaa.
 Puhuja 2: Marko, sinä olit viime viikolla
@@ -145,30 +145,27 @@ Puhuja 4: nälänhätää ja kurjuutta.
 Puhuja 4: Lähinnä ne ovat kunnostautuneet siihen, että siellä on
 Puhuja 4: avaruusalusten
 Puhuja 4: lähtökeskuksia
-Puhuja 4: sun muita.
-Puhuja 4: Mutta
+Puhuja 4: sun muita. Mutta
 Puhuja 4: ne ovat tosi kiinnostavassa tilanteessa. Meillä on edelleen, esim. Crasrocktani, jolla on seitsemän viisisataa
 Puhuja 4: kilometriä rajaa Venäjän kanssa ja musta tuhat viisisataa kilometriä Kiinan kanssa.
 Puhuja 4: Se on
 Puhuja 4: todella hankalassa tai kiinnostavassa
-Puhuja 4: maantieteellisessä
-Puhuja 4: asemassa.
-Puhuja 4: Tavallaan se
+Puhuja 4: maantieteellisessä asemassa. Tavallaan
+Puhuja 4: se
 Puhuja 4: kaksisataakahdeksankymmentä tammi ja Venäjän suhde on
 Puhuja 4: tulliliitto ja näitä pakotteiden alaisia tavaroitahan
-Puhuja 4: ainakin silloin, vielä joku aika sitten meni ihan surutta rajan yli ja nyt menee edelleen, mutta ehkä vähän vähemmän kuin aikaisemmin.
+Puhuja 4: ainakin silloin, vielä joku aika sitten meni ihan surutta rajan yli ja nyt menee edelleenkin, mutta ehkä vähän vähemmän kuin aikaisemmin.
 Puhuja 3: Niin Suomenkin vienti. Kun sota alkoi ja pakotteet tulivat, niin Suomen vienttikasakstan
 Puhuja 3: veti
 Puhuja 4: sitä läpi. Kilgisia ja moni muihin vaiheena. Se on varmaan näin, mutta sitten siinä on myös yksi selitys, jossa on kuulemma se, että
 Puhuja 4: aikaisemmin ennen sotaa,
 Puhuja 4: ei me suomalaisyritystä, jotka kävivät paljon Venäjäkauppaa
 Puhuja 4: ja myös kasastetta kauppaa,
-Puhuja 4: niin se hoidettiin Moskovasta. Se oli suomalaisyhtiön Moskovan
-Puhuja 4: toimipiste, joka hoiti sen kaupan. Hän hoiti samalla sen Craxtaniin ja kirjautui Venäjän kaupaksi moni asia, joka sittemmin
+Puhuja 4: niin se hoidettiin Moskovasta. Se oli suomalaisyhtiön Moskovan toimipiste, joka hoiti sen kaupan. Hän hoiti samalla sen Craxtaniin ja kirjautui Venäjän kaupaksi moni asia, joka sittemmin
 Puhuja 3: on kirjautunut Craxtanin kaupaksi. Mutta oli ne luvut aika
 Puhuja 3: suhde.
 Puhuja 2: Meillä on hyvä
-Puhuja 4: molempien maiden presidentit, ja hänellä oli mukana Fölyssä suomalainen kauppavaltuuskunta,
+Puhuja 4: molempien maiden presidentit, ja sitten hänellä oli mukana Fölyssä suomalainen kauppavaltuuskunta,
 Puhuja 4: joka
 Puhuja 4: teki bisnestä.
 Puhuja 4: Pääasiallinen
@@ -177,16 +174,18 @@ Puhuja 4: kauppavaltuuskuntaa.
 Puhuja 4: Siitä tulee mieleen Kekkosen aika, ja koskavuus
 Puhuja 4: ja Kotkajuominen
 Puhuja 4: Neuvostoliitossa.
-Puhuja 2: Oliko se sellaista?
-Puhuja 4: No juttu ilmestyy lauantaille,
-Puhuja 3: mutta meille hapatettua hevosen maitoa siellä. Hevosen liha, minä en pääse syömään. Ethän sinä nyt haitannut Suomen vientiponnisteluja?
+Puhuja 4: Oliko se sellaista? No juttu ilmestyy lauantaille,
+Puhuja 4: mutta meille hapatettua hevosen maitoa siellä. Hevosen liha, minä en pääse syömään. Ethän sinä nyt haitannut Suomen vientiponnisteluja?
 Puhuja 3: Tai autoit.
 Puhuja 4: Niin se oli joku paikallinen
 Puhuja 4: mulle
 Puhuja 4: sanomaan, että hän haluaisi tehdä bisnestä mun kanssa.
-Puhuja 4: Teidän
-Puhuja 4: bisnestä mun kanssa.
-Puhuja 4: Siellä Kazakstanissa, missä se on astana pääkaupunki, niin
+Puhuja 2: Teidän
+Puhuja 4: bisnestä
+Puhuja 4: mun kanssa.
+Puhuja 4: Siellä Kazakstanissa,
+Puhuja 4: missä
+Puhuja 4: astana pääkaupunki, niin
 Puhuja 4: se
 Puhuja 4: on vuonna tuhat yhdeksänsataayhdeksänkymmentäseitsemän
 Puhuja 4: määrätty pääkaupunki. Se
@@ -208,28 +207,28 @@ Puhuja 4: jotka ohjasivat meitä yhteen nurkkaan, mistä saimme katsoa seremonio
 Puhuja 4: Sitten vietiin puoleksitoista tunniksi jokin
 Puhuja 4: pressihuoneeseen,
 Puhuja 4: ettei häiritä häiritä.
-Puhuja 4: Eikä ollut tietoakaan, se ei olisi tällainen pressitilaisuus,
-Puhuja 4: jossa pääsisi kysymään jotain, kuten Kazakstarin
-Puhuja 4: presidentti Tukajevilta.
+Puhuja 4: Eikä ollut tietoakaan, se ei sovi tällainen pressitilaisuus,
+Puhuja 4: jossa pääsisi kysymään jotain, kuten Kahdeksastarin presidentti Tukajevilta.
 Puhuja 4: Joka tapauksessa se on päättymässä tilaisuus ja
 Puhuja 4: nämä meidän oppaat
-Puhuja 4: ja päällystänimme lähtivät opastamaan meitä pois sieltä linnasta.
-Puhuja 4: Samalla sattumalta Stuub
-Puhuja 4: ja Tokajve tulivat samassa
+Puhuja 4: ja päällystänit lähtivät opastamaan meitä pois sieltä linnasta.
+Puhuja 4: Samalla sattumalta
+Puhuja 4: Stuub ja Tokajve tulivat samassa
 Puhuja 4: aulassa vastaan. Sitten Stuub näki minut
 Puhuja 4: ja moi Markus, että moi Marko!
 Puhuja 4: Veitetsin Tokajevyn Kahdeksastadin presidentin mukaan. Se esitteli meidät. Tässä me käteltiin.
-Puhuja 4: Nämä paikalliset toimittajat
-Puhuja 4: Ja jotenkin se tuli opasta kylmään, että mitä tapahtuu?
-Puhuja 5: Se tokaijev on sellanen
-Puhuja 5: vanha vitsi, kun Putin yrittää osoittaa,
-Puhuja 5: että
-Puhuja 5: nämä pienet on vähän niin kuin alempia.
-Puhuja 5: Ja kun ne puhuu Venäjä keskenään, Venäjäksi on kohtelais puhetule on etunimi ja isän nimi, niin Putin aina lausui väärin sen
-Puhuja 5: pitkän kasakstelaisen
-Puhuja 5: nimen.
-Puhuja 4: Joo ja sehän oli hauskaa, että just tätä paremmin, mutta Putin siis jossain sanoi, että eihän Csaksantani ole mikään oikea maa, koska siellä puhutaan vain Venäjää. Se ei ole mikään itsenäinen erillinen valtio.
-Puhuja 4: Tämähän ei loukkaisi Csaksanilaisia
+Puhuja 4: Nämä
+Puhuja 4: paikalliset
+Puhuja 4: toimittajat
+Puhuja 4: ja jotenkin se tuli opas kysymään että mitä tapahtuu?
+Puhuja 5: Se tokaije voi olla
+Puhuja 5: vanha vitsi kun Putin yrittää osoittaa
+Puhuja 5: että se on vähän niin kuin alempia nämä pienet. Kun Venäjä puhuu Venäjä keskenään, niin Venäjäksi on puhetulomuotoinen
+Puhuja 5: ja isän
+Puhuja 5: nimi. Putin aina lausui väärin sen pitkän
+Puhuja 5: kasakstelaisen
+Puhuja 4: nimen. Joo ja sehän oli hauskaa, että just tätä paremmin, mutta Putin siis jossain sanoi, että eihän Kazakstani ole mikään edes oikea maa, koska siellä puhutaan vain Venäjää. Se ei ole mikään itsenäinen erillinen valtio.
+Puhuja 4: Tämähän ei loukkaisi kasakstanilaisia
 Puhuja 4: todella vahvasti. Tähän tokajien vastasi kasakin
 Puhuja 4: kielellä, mitä hän ei ilmeisesti kovin hyvin osaa. Se alkoi pitää puhetta Kasakincea.
 Puhuja 4: Se on nykyään se Kasakin kielen. Irak ei puhu Venäjää, mutta se Kasakin kielen merkitys
@@ -239,7 +238,7 @@ Puhuja 5: joutuu siitä, että
 Puhuja 5: kahdeksaksi pohjoisessa on etelä-Siperiaa ja Venäjä säännöllisesti
 Puhuja 5: nousee keskusteluun, että
 Puhuja 5: oikeastaan se kuuluisi meille. Niin, että se on niin. Niin, että ne
-Puhuja 5: kasakit ovat koko ajan vähän varpaillaan siinä ja ne joutuvat miettimään. Sen takia ne yrittää mielellään
+Puhuja 5: kasakit ovat koko ajan vähän varpaillaan siinä ja ne joutuu miettimään. Sen takia ne yrittää mielellään
 Puhuja 5: laajentaa diplomaattisuhteitaan
 Puhuja 5: joka
 Puhuja 2: suuntaan. Sen takia siinä otetaan suomalaisetkin mielellään vieraat. Eli onko se myös Suomen kannalta järkevää, että käy siellä muutenkin kuin ensi?
@@ -259,17 +258,12 @@ Puhuja 5: alueita. Toinen on se, että sieltä saadaan
 Puhuja 5: kaasua ja öljyä, mitä Venäjältä ei haluta. Mutta se on
 Puhuja 5: myös maareitti Kiinasta joka väistää Venäjää tai ohittaa Venäjän. Sitä varten siellä nyt trampataan. Mutta
 Puhuja 2: eli ensi viikolla, vai koska jos Trumpilta tulee uusia Venäjä-avauksia, niin voi olla
-Puhuja 2: että Markon tapahtuma presidentti on ensin
-Puhuja 2: Putinin luona
-Puhuja 4: ja sitten siellä on jutellut Trumpin korvaan. Se on myös EU:lle se on tosi tärkeää.
-Puhuja 4: Ei se kauppavaltuuskunta ollut varmaan se pääsy miksi Stub siellä halusi käydä, vaan nimenomaan
-Puhuja 4: globaali tilanne.
+Puhuja 2: että Markon tapahtuma presidentti on ensin käynyt ensin
 Puhuja 2: Sitten
 Puhuja 2: kun nostatte... Mikä se oli? Hevosen maitoa. Tamman
 Puhuja 5: maitoa.
-Puhuja 5: Oisasti
-Puhuja 4: hapatettu tamman maitoa. Sitä oli tarjolla, vaan mä onnistuin
-Puhuja 4: tosi taitavasti ohittamaan tämän tilanteen.
+Puhuja 5: Oisasees tamman maitoa.
+Puhuja 4: Sitä oli tarjolla, vaan mä onnistuin tosi taitavasti ohittamaan tämän tilanteen.
 Puhuja 2: Ohittamaan
 Puhuja 4: paitsi sen maidon mausta? No aloittaa. Mun piti suositella ihan muuta, mutta tässä on Jussin kirja pöydälle. En ole päässyt tätä kirjaa kehumaan, ja mä puhun nyt tästä.
 Puhuja 4: Luin loppuun
@@ -277,11 +271,11 @@ Puhuja 4: lentokoneessa
 Puhuja 4: matkalla sinne,
 Puhuja 4: tai itse asiassa lennolla Istanbulista
 Puhuja 4: astanaan.
-Puhuja 4: Minua siis Jussiin vähän jääni kaikkeen. Älkää uskoko kaikkea, koska olen Jussin hyvä ystävä.
+Puhuja 4: Minua siis Jussi vähän jääni kaikkeen. Älkää uskoko kaikkea, koska olen Jussin hyvä ystävä.
 Puhuja 5: Uskokaa.
 Puhuja 4: Me harrastamme kerran vuodessa ja käymme yhdessä ja omassa yhdet Vimlet-laselliset,
 Puhuja 4: joka on meidän ystävyyden ydin.
-Puhuja 4: Mä oon aina tehnyt, että Jussi on viisas mies ja arvostanut Jussia, mutta kun olin kirjaa lukiessa, niin olin aivan mykistönnyt, että en mä tiennyt, että se näin viisas oli.
+Puhuja 4: Mä oon aina tehnyt, että Jussi on viisas mies ja arvostanut Jussia, mutta kun olin kirjaa lukiessa, niin olin aivan mykistönyt, että en mä tiennyt, että se näin viisas oli.
 Puhuja 4: Tämä kertoo... Tässä käydään läpi näitä Venäjän läntisiä
 Puhuja 4: rajamaita. Jussilla on vaikka mitä pääministereiden
 Puhuja 4: presidenttiä haastatteluita siellä. Mutta miten Taitavaat olet
@@ -305,14 +299,14 @@ Puhuja 5: kun reppureisuin
 Puhuja 5: siellä, niin viisumi hakee berliinissä tai Riiasta. Mutta nyt sinne voi vaan lentää.
 Puhuja 5: Siellä on ihan mahtavia paikkoja. Niin kuin Martta toteaa, siellä oli pakko juoda sitä tamman maitoa.
 Puhuja 5: Mutta
-Puhuja 5: silkkitie on mennyt siellä, siellä on komeat historiallisia kohteita. Ja siellä on
+Puhuja 5: silkkitie on mennyt siellä, siellä on komeat historiallisia kohteita ja siellä on
 Puhuja 5: nuori ja hauska väestö, jotka
 Puhuja 5: kaupunki sykkii ja elää.
-Puhuja 4: Niin samoin vielä. Se on myös yksi syy miksi ulkoinen maailma on kiinnostunut niistä. Se on tosiaan todella nuorta. Se väestö säilyy usbikisterissä miljoona lasta vuodessa. Kun se väestö on nuorta ja kasvaa nopeasti.
+Puhuja 4: Niin samoin vielä. Se on myös yksi syy miksi ulkoinen maailma on kiinnostunut niistä. Se on tosiaan todella nuorta. Se väestö säilyy usbikisterissä miljoona lasta vuodessa, ja Kun se väestö on nuorta ja kasvaa nopeasti.
 Puhuja 3: En ole varmaan ikinä suositellut ruokaa, mutta suosittelen nyt kuitenkin.
 Puhuja 3: Jokaisella meillähän on tiettyjä erikoistaitoja.
 Puhuja 3: Olen aika hyvä tehdä pizzaa kotona.
-Puhuja 3: Nyt on löytynyt vuosien
+Puhuja 3: Ja nyt on löytynyt vuosien
 Puhuja 3: hieromisen jälkeen, en ehkä itse ole tässä asiassa se päätekijä tässä asiassa, mutta
 Puhuja 3: tällainen pizza, en tiedä miten tämä sen tammanmaidon kanssa voisi toimia.
 Puhuja 3: En tiedä, ehkä itse asiassa toimiikin.
@@ -320,41 +314,39 @@ Puhuja 3: Sardelli,
 Puhuja 3: Oliivi, Kapris,
 Puhuja 3: valkosipuli,
 Puhuja 3: chili ja tomaattikastike.
-Puhuja 2: Se on täydellinen, suosittelen sitä. Mutta jos on vähän niin
-Puhuja 2: kuin itse
+Puhuja 2: Se on täydellinen, suosittelen sitä. Mutta jos on vähän niin kuin
+Puhuja 2: itse
 Puhuja 3: tällä viikolla tulivat Tieto-Finlandia-ehdokkaat
 Puhuja 3: esille, siellä on monta hyvää,
 Puhuja 3: mutta minun tiimini toimittaja Paavo Teittinen on kirjoittanut. Se on eräänlainen Uko on vasta 40-vuotias,
 Puhuja 3: mutta hän on kirjoittanut
 Puhuja 3: vähän elämäntyönsä
-Puhuja 3: kirjojen ja kansien sisään. Toivottavasti se työ ei vielä ole valmis, eikä olekaan. Mutta
-Puhuja 3: ulkomaisen
-Puhuja 3: työvoiman riistosta,
+Puhuja 3: kirjojen ja kansien sisään. Toivottavasti se työ ei vielä ole valmis, eikä olekaan.
+Puhuja 3: Mutta ulkomaisen työvoiman
+Puhuja 3: riistosta,
 Puhuja 3: kirjan nimeltä
 Puhuja 3: Pitkä vuoro.
 Puhuja 3: Siellä aloitetaan nepalilaisista
 Puhuja 3: ravintoloista,
-Puhuja 3: käydään marjanpoiminnassa
+Puhuja 3: käydään marjanpoiminnassa,
 Puhuja 3: ja puhutaan siivoamisesta raksatyömaista.
 Puhuja 3: Vaikka minäkin olen paljon Paavon juttuja tuottanut
-Puhuja 3: ja olen ollut tekemisissä,
-Puhuja 3: niin silti
-Puhuja 3: se kokemus on
+Puhuja 3: ja olen myös ollut tekemisissä,
+Puhuja 3: niin silti se kokemus on
 Puhuja 3: hätkähdyttävä, kun sen kokonaisuutena
 Puhuja 3: lukee
 Puhuja 3: ja vähän sellainen what the fack olo, että mitä tässä maassa
 Puhuja 3: jossain toisessa kerroksessa yhteiskuntaa
-Puhuja 2: oikein tapahtuu. Niin, ja eikö se ole niin, että se kertoo myös ennen
+Puhuja 3: oikein tapahtuu.
+Puhuja 2: Niin, ja eikö se ole niin, että se kertoo myös ennen
 Puhuja 2: kaikkea Suomesta ja suomalaisesta yhteiskunnasta.
 Puhuja 3: Nimenomaan. Ja ehkä myös saa pakottaa meidät ajattelemaan,
 Puhuja 3: että onko meillä asiat täällä ihan niin hyvin
-Puhuja 2: kuin me ajattelemme.
-Puhuja 3: Sanna-Mari
-Puhuja 3: kertoo.
-Puhuja 5: Paavo tuo eilen minulle sen kirjan vastaan, se on toista painosta.
+Puhuja 3: kuin me ajattelemme.
+Puhuja 3: Sanna-Mari kertoo.
+Puhuja 5: Minä voin vahvistaa tuon. Paavo tuo eilen minulle sen kirjan vastaan, se on toista painosta.
 Puhuja 5: Vahvistan tuon, aloin eilen lukea. Sitä oli vaikea keskeyttää.
-Puhuja 5: Vahvistan kyllä tuon
-Puhuja 2: Sallan kehut suositukset. Minä otan nyt suositukset sentään
+Puhuja 5: Vahvistan kyllä tuon Sallan kehut suositukset. Minä otan nyt suositukset sentään
 Puhuja 2: lähipiirin ulkopuolelta.
 Puhuja 2: Ja
 Puhuja 2: suosittelen
@@ -365,7 +357,7 @@ Puhuja 2: jolla on minusta hankala nimi. Olin vain, että okei sitä on kehuttu 
 Puhuja 2: että mistä on kyse. Se oli ihan sairaan hyvä elokuva.
 Puhuja 2: Kun istuin siellä heti alusta asti olin, että ai että nyt on kiva katsoa hyvää
 Puhuja 2: elokuvaa, joka on jännittävää ja vetävä ja jossa on vähän jotain syvyyttä, mutta joka on kuitenkin myös hauska.
-Puhuja 2: Ja se kertoo siis, siinä on Leonardo Decebrion yhdessä pääroolissa. On Benissialel-Toroa
+Puhuja 2: Ja se kertoo siis, siinä on Leonardo De Gabrio on yhdessä pääroolissa. On Benissialel-Toroa
 Puhuja 2: ja Shawn Benniä ja muita. Mutta siinä on tällainen
 Puhuja 2: vasemmisto terroristinen
 Puhuja 2: liike
@@ -383,7 +375,7 @@ Puhuja 2: pommeja ja vapauttaa
 Puhuja 2: maahanmuuttajia
 Puhuja 2: pidäyskeskuksista
 Puhuja 2: ja niin edelleen.
-Puhuja 2: Ja
+Puhuja 2: Ja sitten
 Puhuja 2: sitten siinä tulee semmoinen aikahyppy, että hypätään kuusitoista vuotta
 Puhuja 2: taaksepäin ja seuraa
 Puhuja 2: Leonardo decaprion
@@ -405,7 +397,7 @@ Puhuja 2: toiseen siirtyvää terroristista
 Puhuja 2: toimintaa esimerkiksi. Tai nuo valtion
 Puhuja 2: reaktiot on ehkä.
 Puhuja 2: Ja näin Sitten
-Puhuja 2: täällä on kaksoissuoritus. Aloin lukea. Luulen, että Marko on saattanut suositella tätä aikaisemmin, mutta Patri Graden Keeff nimisen amerikkalaistoimittajan
+Puhuja 2: täällä on kaksoissuoritus. Aloin lukea. Luulen, että Marko on saattanut suositella tätä aikaisemmin, mutta Patri Gradn Keeff nimisen amerikkalaistoimittajan
 Puhuja 2: kirjaa Say Nothing joka kertoo pohjoisiin rannista.
 Puhuja 2: Ja sitten aloin sattumalta heti sen jälkeen lukea tätä. Ja sitten totesin, että tämähän on juuri sitä. Pohjois-Irlannissa
 Puhuja 2: se aate siirtyi sukupolvelta

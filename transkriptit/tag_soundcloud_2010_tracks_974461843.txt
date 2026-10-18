@@ -43,7 +43,7 @@ Puhuja 1: tulee yhtä aikaa,
 Puhuja 1: että...
 Puhuja 1: Time se flat circ on. Ei kun, en tiedä, että jotain sosiaalipsykologista
 Puhuja 1: tai psykologista siinä on. Monesti tuntuu, että samalla viikolla ihmiset... Samalla tavalla sanovat, että ne on tosi väsyneitä.
-Puhuja 0: Tämä reflektoi
+Puhuja 1: Tämä reflektoi
 Puhuja 0: omien vireusten kautta koko maailmaa. Jos ite
 Puhuja 0: sattuu olemaan
 Puhuja 1: väsynyt, niin sitten mieltää, että maailmassa Ei vaan päinvastoin, kun mä olen itse ajatellut tähän mennessä, että mun turnaus kestää, tai olisi jotenkin sellainen resilienssi aika hyvä. Mua ei
@@ -59,7 +59,7 @@ Puhuja 0: ja myi
 Puhuja 0: rokotteensa
 Puhuja 0: muualle, vaikka oli meille luvannut.
 Puhuja 0: Mun mielestä jonkin näköiset sotatoimet
-Puhuja 0: on suotavia ja sallittuja ja hyökätään sekä Tukholmaan että Lontooseen.
+Puhuja 0: on suotavia ja sallittuja, hyökätään sekä Tukholmaan että Lontooseen.
 Puhuja 0: Sen lisäksi keskustellaan,
 Puhuja 0: keskustellaan,
 Puhuja 0: miten sen sanoisi, stongsista.
@@ -104,21 +104,21 @@ Puhuja 0: että Kuula sai tuta, Nimittäin kolumni poistettiin
 Puhuja 0: ja
 Puhuja 0: MTK:lta pyydettiin
 Puhuja 0: anteeksi oikein päätoimittajan voimin. Keskustellaan siitä. Mitä
-Puhuja 0: ne
-Puhuja 0: sisältää ja ne on haavoittuvia sille, että joukko
+Puhuja 0: ne sisältää
+Puhuja 0: ja ne on haavoittuvia sille, että joukko
 Puhuja 0: tämmöisiä... Yleensä kierrolla tavalla nerokkaita
 Puhuja 0: nuoria miehiä päättää tehdä jotain ja hommat menee isosti vituiksi.
 Puhuja 0: Maailmaan tulee yhtäkkiä neljäksi vuodeksi
 Puhuja 0: S-klov
 Puhuja 0: Yhdysvaltain presidentiksi.
-Puhuja 0: Onks nää semmosia, että pitäiskö meidän yhteiskuntina
-Puhuja 0: meidän niinku
-Puhuja 0: establishment-mallin
+Puhuja 0: Onks nää semmosia, että pitäiskö meidän yhteiskuntina meidän niinku
+Puhuja 0: establishment-malteellisen
 Puhuja 0: edustajana, jota me tavallaan mukaan ollaan?
-Puhuja 0: Tää LOL ja LOLs meininki mahtavaa, rakastan sitä. Rakastan sitä, että 4M pystyy laittamaan
+Puhuja 0: Tää LOL ja LOLs meininki mahtavaa, rakastan sitä,
+Puhuja 0: että 4M pystyy laittamaan
 Puhuja 0: Donald Trumpin
 Puhuja 0: reality TV-klovnin
-Puhuja 0: Yhdysvaltain presidentiksi. Se on upeata, niinku Waret Thanm to be Ive, mut pitäiskö tätä ruveta jotenkin huomioimaan?
+Puhuja 0: Yhdysvaltain presidentti. Se on upeata, niinku Waret Thanm to be Ive, mut pitäiskö tätä ruveta jotenkin huomioimaan?
 Puhuja 2: Varmaan sitä pitäisi, koska onhan tässä myös...
 Puhuja 2: Mä en tiedä miten amerikkalaiset viranomaiset tekee tälle asialle, koska siellä on varmasti
 Puhuja 2: aika monta
@@ -166,7 +166,7 @@ Puhuja 1: Sellainenkin keskustelu pitäisi
 Puhuja 1: käydä, me pitää jotenkin
 Puhuja 1: pystyä ratkomaan niitä asioita,
 Puhuja 1: että mitä voisi tehdä, että tämmöistä ei kävisi ikinä uudestaan.
-Puhuja 0: Susanna on suuri verran. Luoen ehdottomasti.
+Puhuja 0: Susanna on suurin verran. Luoen ehdottomasti.
 Puhuja 1: Joo, ja moi. Kiitos, Maria.
 Puhuja 0: Okei,
 Puhuja 0: Kirkko ja kaupunki niminen lehti... Annako me nyt kahden tähän? Kyllä me
@@ -214,8 +214,8 @@ Puhuja 2: Joo MTK:n toimitusjohtaja Juha Marttila.
 Puhuja 2: Tästä nosti sen metelin. Hän ilmoitti,
 Puhuja 2: että ärstyy oikeustoimiin
 Puhuja 2: kirkko ja kaupunkia vastaan ja ilmeisesti myös kirjoittajaa vastaan. Mutta joku koitti varovasti piipittää, että
-Puhuja 2: ammattikunnalle
-Puhuja 2: ei ole kunnia. Ei ole
+Puhuja 2: ammattikunnalle ei ole kunnia.
+Puhuja 2: Ei ole kollektiivia
 Puhuja 2: Et
 Puhuja 2: voi sanoa että maajussi
 Puhuja 2: ovat höpönassyja.
@@ -230,7 +230,7 @@ Puhuja 2: ja kuulaa tätä pastoria.
 Puhuja 2: Hän hän ammoitti valitsemaan JSN:ää ja ties minne. Ja tässä tuli ihan kamala härdelli.
 Puhuja 2: Mutta hän on Juha Martilaan näköjään tulinen kaveri.
 Puhuja 2: Reagoi ensin ja sitten myös se, että eihän kolumnin olisi kukaan huomannut. Ei. Ilman
-Puhuja 2: tätä Marttilaria. Eli Streycen-ilmieksi
+Puhuja 0: tätä Marttilaria. Eli Streycen-ilmieksi
 Puhuja 0: kutsutaan
 Puhuja 0: sitä,
 Puhuja 0: että no,
@@ -282,8 +282,7 @@ Puhuja 0: höhlältä.
 Puhuja 0: Ja sitten se makropointti, mikä tähän liittyy,
 Puhuja 0: on se, että
 Puhuja 0: joka ikinen asia
-Puhuja 0: politisoituu
-Puhuja 0: pikkuhiljaa.
+Puhuja 0: politisoituu pikkuhiljaa.
 Puhuja 0: Mä muistan, kun me käytiin tästä keskustelua joku pari vuotta sitten sun kanssa ja sit sä sanoit, että ei politisoituminen
 Puhuja 0: niin kuin vähenee yhteiskunnassa, mikä varmasti pitää paikkaansa, koska verrattuna siihen, että ennen oli tavallaan pukukopitkin
 Puhuja 0: nimetty, ketkä on sosiisteille ja ja kokoomuslaisille

@@ -1,168 +1,170 @@
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast menetetyt miljardit,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
-Puhuja 1: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
-Puhuja 1: päätös asettua välikappaleeksi
-Puhuja 1: Saksan ja Venäjän väliseen kaasukauppaan.
-Puhuja 1: Kaasukauppaan,
-Puhuja 1: joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 0: Maailma on muuttunut tavalla,
-Puhuja 0: jota tuskin
-Puhuja 0: kukaan osasi ennakoida.
-Puhuja 1: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
-Puhuja 1: Lataa siis se ja kuuntele viisiosainen
-Puhuja 1: menetetyt miljardit.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko huuruudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis se ja kuuntele viisiosainen
+Puhuja 0: menetetyt miljardit.
 Puhuja 2: Helsingin Sanomat.
-Puhuja 1: Hei, ja tervetuloa
-Puhuja 1: Helsingin
-Puhuja 1: Sanomien
-Puhuja 1: Uusiisraportti-podcastiin
-Puhuja 1: poikkeuksellisesti
-Puhuja 1: perjantaina
-Puhuja 1: neljätoista.
-Puhuja 1: Joulukuuta. En tiedä, mistä toi tuli. Helmikuuta vuonna kaksituhatta
-Puhuja 1: kaksikymmentäviisi.
-Puhuja 0: Ystävänpäivänä.
-Puhuja 0: Ystävän
+Puhuja 0: Hei, ja tervetuloa
+Puhuja 0: Helsingin
+Puhuja 0: Sanomien
+Puhuja 0: Uusiisraportti-podcastiin
+Puhuja 0: poikkeuksellisesti
+Puhuja 0: perjantaina
+Puhuja 0: neljätoista.
+Puhuja 0: Joulukuuta. En tiedä, mistä toi tuli. Helmikuuta vuonna kaksituhatta
+Puhuja 0: kaksikymmentäviisi.
+Puhuja 1: Ystävänpäivänä.
+Puhuja 1: Ystävän
 Puhuja 3: päivää. Ystävän päivää. Hyvää ystävän päivää. Hyvää ystävän päivää. Hyvää
-Puhuja 1: ystävän päivää,
-Puhuja 1: Marko Junkkari
-Puhuja 1: Helsingin Sanomissa
-Puhuja 1: politiikantoimittajana.
-Puhuja 1: Niin. Työskentelet.
-Puhuja 0: Ei.
-Puhuja 1: Näin olen ymmärtänyt.
-Puhuja 1: Sen lisäksi meillä on täällä
-Puhuja 1: influenssa tai jonkun aallon pyyhkäistyö
-Puhuja 1: tämän
-Puhuja 1: podcastin
-Puhuja 1: leidi-jäsenten
-Puhuja 1: yli, niin meillä on
-Puhuja 1: miesvoimala.
+Puhuja 0: ystävän päivää,
+Puhuja 0: Marko Junkkari
+Puhuja 0: Helsingin Sanomissa
+Puhuja 0: politiikantoimittajana.
+Puhuja 0: Niin. Työskentelet.
+Puhuja 1: Ei.
+Puhuja 0: Näin olen ymmärtänyt.
+Puhuja 0: Sen lisäksi meillä on täällä
+Puhuja 0: influenssa tai jonkun aallon pyyhkäistyö
+Puhuja 0: tämän
+Puhuja 0: podcastin
+Puhuja 0: leidi-jäsenten
+Puhuja 0: yli. Meillä on
+Puhuja 0: miesvoimala.
 Puhuja 3: Kyllä, varamies.
-Puhuja 1: Tommi Nieminen, Helsingin Sanomien feature-toimittaja.
+Puhuja 0: Tommi Nieminen, Helsingin Sanomien feature-toimittaja.
 Puhuja 3: Beature
 Puhuja 3: niin kuin me sanotaan. Beatse.
-Puhuja 1: Zeta ja ö.
+Puhuja 0: Zeta ja ö.
 Puhuja 3: Kyllä, suunnilleen.
-Puhuja 1: Jotain täytyy sanoa, huomaatteko, että eilisessä A-studiossakin
-Puhuja 1: oli pelkästään miehiä paikalla. Kun turbassa alkaa tapahtua, niin
-Puhuja 1: silloin se vetää puoleensa kuin hunajankärpäsiä.
-Puhuja 0: Se oli itseasiassa hyvä keskustelu, mutta olihan se aika kornen tekijä.
-Puhuja 1: Mutta ei meitä.
-Puhuja 1: Nimittäin meillä on aivan ihastuttava
-Puhuja 1: ja
-Puhuja 1: upea,
-Puhuja 1: nimittäin linkki maailmaan. Ja se on se, että meillä on tässä podcastissa mukana
-Puhuja 1: Helsingin Sanomien Berliinin kirjeenvaihtaja,
-Puhuja 1: joka tosin on tällä hetkellä siis Mynchenissä,
-Puhuja 1: jossa on kaikki koko muunkin
-Puhuja 1: maapallon
-Puhuja 1: ulko ja turvallisuuspoliittinen
-Puhuja 1: eliitti. Suvi Turtiainen,
-Puhuja 1: olet siellä Mynchissä eli Mynchenissä.
-Puhuja 1: Heisuvi.
+Puhuja 0: Jotain täytyy sanoa, huomaatteko, että eilisessä A-studiossakin
+Puhuja 0: oli pelkästään miehiä paikalla. Kun turbassa alkaa tapahtua, niin
+Puhuja 0: silloin se vetää puoleensa kuin hunajankärpäsiä.
+Puhuja 1: Se oli itseasiassa hyvä keskustelu, mutta olihan se aika kornen tekijä.
+Puhuja 0: Mutta ei meitä.
+Puhuja 0: Nimittäin meillä on aivan ihastuttava
+Puhuja 0: ja
+Puhuja 0: upea,
+Puhuja 0: nimittäin linkki maailmaan. Ja se on se, että meillä on tässä podcastissa mukana
+Puhuja 0: Helsingin Sanomien Berliinin kirjeenvaihtaja,
+Puhuja 0: joka tosin on tällä hetkellä siis Mynchenissä,
+Puhuja 0: jossa on kaikki koko muunkin
+Puhuja 0: maapallon
+Puhuja 0: ulko ja turvallisuuspoliittinen
+Puhuja 0: eliitti. Suvi Turtiainen,
+Puhuja 0: olet siellä Mynchissä eli Mynchenissä.
+Puhuja 0: Heisuvi.
 Puhuja 2: Moi. Moi Tuomas, Tommi ja Marko.
-Puhuja 0: Heiissan. Kiitos. Moi.
+Puhuja 1: Heiissan. Kiitos. Moi.
 Puhuja 2: Ja hyvää ystävänpäivää.
 Puhuja 2: Ja tämä hyvä symboliikka, koska täällä puhutaan siitä,
 Puhuja 2: että
 Puhuja 2: kuka on Euroopan ystävä
 Puhuja 2: saatavilla? Onko enää Yhdysvallat
 Puhuja 2: vai onko tässä nyt joku uusi ystävyyden dynamiikka syntynyt?
-Puhuja 1: Kas siinäpä sinulle aloitusjuttusi!
-Puhuja 0: Saako esittää yhden mun mielestä olennaisen asian, jota olen ihmetellyt monta viikkoa?
-Puhuja 0: Tiesitkö Suvi,
-Puhuja 0: mikä on Mundfhen italiaksi?
+Puhuja 0: Kas siinäpä sinulle aloitusjuttusi!
+Puhuja 1: Saako esittää yhden mun mielestä olennaisen asian, jota olen ihmetellyt monta viikkoa?
+Puhuja 1: Tiesitkö Suvi,
+Puhuja 1: mikä on Mundfhen italiaksi?
 Puhuja 2: Nyt leikkaa tyhjä. En tiedä. Se on Monako.
-Puhuja 0: Se on Monakodi Babaaria.
-Puhuja 1: Mitä helvettiä?
-Puhuja 1: Tämän viikon podcastissa keskustellaan
-Puhuja 1: eilen
-Puhuja 1: vähän puskista ryöpsähtaneestä
-Puhuja 1: totaalisesta
-Puhuja 1: eskalaatiosta
-Puhuja 1: Ukrainan
-Puhuja 1: rauhansopimuksen
-Puhuja 1: suhteen
+Puhuja 1: Se on Monakodi Babaaria.
+Puhuja 0: Mitä helvettiä?
+Puhuja 0: Tämän viikon podcastissa keskustellaan
+Puhuja 0: eilen
+Puhuja 0: vähän puskista ryöpsähtaneestä
+Puhuja 0: totaalisesta
+Puhuja 0: eskalaatiosta
+Puhuja 0: Ukrainan
+Puhuja 0: rauhansopimuksen
+Puhuja 0: suhteen
 Puhuja 2: sillä tavalla, että... Tai siis keskiviikkona.
-Puhuja 1: Anteeksi, keskiviikkona tapahtui tämmöinen... Joo, kyllä se täysin puskista tuli. Ei kenelläkään ollut mitään vihiä, Trump yhtäkkiä, mutta hän on soittanut Putinille ja sitten he ovat keskustelleet
-Puhuja 1: puolentoista tunnin
-Puhuja 1: keskustelun. Itse
-Puhuja 1: asiassa siitä
-Puhuja 1: alkoi tämän rauhasopimuksen
-Puhuja 1: hierominen. Tähän liittyy
-Puhuja 1: todella paljon asioita, jotka kaikki tavallaan ovat tällä hetkellä ilmassa.
-Puhuja 1: Käytännössä olen hyvin varmaa, että
-Puhuja 1: podcastin asiasisältö on vanhentunut sillä hetkellä, kun se tulee meidän livestriimistä ulos. Saanko...
-Puhuja 0: Trumpin ulostulot olivat ehkä lievä yllätys, mutta kyllä se etukäteen tiedettiin, että
-Puhuja 0: turvallisuuspolitiikan
-Puhuja 0: superviikko.
-Puhuja 0: Maanantaina ja tiistaina Pariisissa,
-Puhuja 0: se tekoälyn huippukokous,
-Puhuja 0: sitten oli
-Puhuja 0: ulkoministerikokous
-Puhuja 0: keskiviikkona. Puolustusministerikokous.
-Puhuja 0: Mitä sanoin? Puolustusministerikokous
-Puhuja 0: ja sitten Myssenin turvallisuuskokous.
-Puhuja 0: Juuri näin. Tämähän tiedettiin
-Puhuja 1: Kyllä. Otat sitä puhelua. Se miettii sitä puhelua, jonka Trump tekee Stubille. Vielä viimeinen valloitus, mitä on tapahtunut on, että Erika Vikman on viimein valloittanut suomalaisten sydämet.
-Puhuja 1: Kaikkihan me katsoimme viikonloppuna, kun Uuden musiikin kilpailussa
-Puhuja 1: Suomi esitti
-Puhuja 1: parasta musiikillista
-Puhuja 1: osaamistaan.
-Puhuja 1: Erika Vikmanin
-Puhuja 1: kappale Icome
-Puhuja 1: voitti.
-Puhuja 1: Toiseksi tuli kenties kappaleena
-Puhuja 1: ainakin sofistikoituneempi
-Puhuja 1: Goldiloxin
-Puhuja 1: en muista kappaleen nimeä, mutta se oli hyvä. Sen takia kuulosti oikealta musiikilta.
-Puhuja 1: Joo, minulle toimi myös paremmin kyllä. Mutta se on sanottava totta kai Erika Vikmanin
-Puhuja 1: eduksi, että hänen sowshow oli kyllä mahtava. Siinä oli semmoista niin kuin
-Puhuja 1: nahkalateksi
-Puhuja 1: bossleirimeininkiä.
-Puhuja 1: Sä loppu mikrofoni oli mun mielestä mykistä.
-Puhuja 1: Kyllä,
-Puhuja 1: Kyllä. Mikrofoni
-Puhuja 1: mykisti
-Puhuja 1: koko kansan. Se oli jotenkin
-Puhuja 1: semmoisella rempseällä ja
-Puhuja 1: hyvin suomalaisella tavalla
-Puhuja 1: eroattisesti
-Puhuja 1: latautunut
-Puhuja 1: esitys.
-Puhuja 1: Mistäs me lähdetään?
-Puhuja 1: Lähdetäänkö
-Puhuja 1: Uudenmaan
-Puhuja 1: kokoomus? No, lähdetään Uudenmaan kokoomus. No niin.
-Puhuja 1: Uudenmaan kokoomusnuoret
-Puhuja 1: heräsivät protestoimaan tätä Erika Vikmanin
-Puhuja 1: esiintymistä. Mä luen tästä nyt heidän protestiaan ääneen. Erika Vikmanin Ich komea ei ole sovelias kappale edustamaan Suomea euroviisuissa.
-Puhuja 1: Jos verovaroin kustannetaan uuden musiikin kilpailu, jonka voittaja edustaa Suomea, myös euroviisuissa on ylenpidettävä huoli, että kilpailu on aidosti koko perheelle.
-Puhuja 1: Koko esitys on täynnä pelkästään ylenpalttista
-Puhuja 1: seksillä ja seksuaalisella
-Puhuja 1: vapautumisella mässäilyä,
-Puhuja 1: joka asettaa euroviisuissa suomalaisen naisen seksuaalisen objektin asemaan.
-Puhuja 1: En voi uskoa, että tämä luen nuorisojärjestely
-Puhuja 1: kannanottoa. Pidämme erityisen huolestuttavana tätä seksin ja yliseksuisen normalisointia
-Puhuja 1: euroviisuissa.
-Puhuja 1: On tärkeää, että tiettyjä tabuja puretaan, mutta tällainen seksin tyrkyttäminen
-Puhuja 1: nuorillekin...
-Puhuja 1: En tiedä, minkälainen teidän
-Puhuja 1: nuorillekin lapsille on
-Puhuja 1: yksinkertaisen ällöttävää.
-Puhuja 1: Tämä oli Instagram-tiivistelmä
-Puhuja 1: koko kannanotosta, joka on nettisivuilla, jossa en ole käynyt.
-Puhuja 1: Minua shokeerasi
-Puhuja 1: tämä
-Puhuja 1: patavanhoillisuus,
-Puhuja 1: mikä nuorisojärjestöstä
-Puhuja 1: tihkui.
-Puhuja 1: Oli hämmentävää. Siis purkat
-Puhuja 1: liehuu
-Puhuja 1: tuulessa aivan
-Puhuja 1: omituista
+Puhuja 0: Anteeksi, keskiviikkona tapahtui tämmöinen... Joo, kyllä se täysin puskista tuli. Ei kenelläkään ollut mitään vihiä, Trump yhtäkkiä, mutta hän on soittanut Putinille ja sitten he ovat keskustelleet
+Puhuja 0: puolentoista tunnin
+Puhuja 0: keskustelun. Itse
+Puhuja 0: asiassa siitä
+Puhuja 0: alkoi tämän rauhasopimuksen
+Puhuja 0: hierominen. Tähän liittyy
+Puhuja 0: todella paljon asioita, jotka kaikki tavallaan ovat tällä hetkellä ilmassa.
+Puhuja 0: Käytännössä olen hyvin varmaa, että
+Puhuja 0: podcastin
+Puhuja 0: asiasisältö on vanhentunut sillä hetkellä, kun se tulee meidän livestriimistä ulos. Saanko...
+Puhuja 1: Trumpin ulostulot olivat ehkä lievä yllätys, mutta kyllä se etukäteen tiedettiin, että
+Puhuja 1: turvallisuuspolitiikan
+Puhuja 1: superviikko.
+Puhuja 1: Maanantaina ja tiistaina Pariisissa,
+Puhuja 1: se tekoälyn huippukokous,
+Puhuja 1: sitten oli
+Puhuja 1: ulkoministerikokous
+Puhuja 1: keskiviikkona. Puolustusministerikokous.
+Puhuja 1: Mitä sanoin? Puolustusministerikokous
+Puhuja 1: ja sitten Missenin turvallisuuskokous.
+Puhuja 1: Juuri näin. Tämähän tiedettiin
+Puhuja 0: Kyllä. Otat sitä puhelua. Se miettii sitä puhelua, jonka Trump tekee Stubille. Vielä viimeinen valloitus, mitä on tapahtunut on, että Erika Vikman on viimein valloittanut suomalaisten sydämet.
+Puhuja 0: Kaikkihan me katsoimme viikonloppuna, kun Uuden musiikin kilpailussa
+Puhuja 0: Suomi esitti
+Puhuja 0: parasta musiikillista
+Puhuja 0: osaamistaan.
+Puhuja 0: Erika Vikmanin
+Puhuja 0: kappale Icome
+Puhuja 0: voitti.
+Puhuja 0: Toiseksi tuli kenties kappaleena
+Puhuja 0: ainakin sofistikoituneempi
+Puhuja 0: Goldiloxin
+Puhuja 0: en muista kappaleen nimeä, mutta se oli hyvä. Sen takia kuulosti oikealta musiikilta.
+Puhuja 0: Joo, minulle toimi myös paremmin kyllä. Mutta se on sanottava totta kai Erika Vikmanin
+Puhuja 0: eduksi, että hänen sowshow oli kyllä mahtava. Siinä oli semmoista niin kuin
+Puhuja 0: nahkalateksi
+Puhuja 0: bossleirimeininkiä.
+Puhuja 0: Sä loppu mikrofoni oli mun mielestä mykistä.
+Puhuja 0: Kyllä,
+Puhuja 0: Kyllä. Mikrofoni
+Puhuja 0: mykisti
+Puhuja 0: koko kansan. Se oli jotenkin
+Puhuja 0: semmoisella rempseällä ja
+Puhuja 0: hyvin suomalaisella tavalla
+Puhuja 0: eroattisesti
+Puhuja 0: latautunut
+Puhuja 0: esitys.
+Puhuja 0: Mistäs me lähdetään?
+Puhuja 0: Lähdetäänkö
+Puhuja 0: Uudenmaan
+Puhuja 0: kokoomus? No, lähdetään Uudenmaan kokoomus. No niin.
+Puhuja 0: Uudenmaan kokoomusnuoret
+Puhuja 0: heräsivät protestoimaan tätä Erika Vikmanin
+Puhuja 0: esiintymistä. Mä luen tästä nyt heidän protestiaan ääneen. Erika Vikmanin Ich komea ei ole sovelias kappale edustamaan Suomea euroviisuissa.
+Puhuja 0: Jos verovaroin kustannetaan uuden musiikin kilpailu, jonka voittaja edustaa Suomea, myös euroviisuissa on ylenpidettävä huoli, että kilpailu on aidosti koko perheelle.
+Puhuja 0: Koko esitys on täynnä pelkästään ylenpalttista
+Puhuja 0: seksillä ja seksuaalisella
+Puhuja 0: vapautumisella mässäilyä,
+Puhuja 0: joka asettaa euroviisuissa suomalaisen naisen seksuaalisen objektin asemaan.
+Puhuja 0: En voi uskoa, että tämä luen nuorisojärjestely
+Puhuja 0: kannanottoa.
+Puhuja 0: Pidämme erityisen huolestuttavana tätä seksin ja yliseksuisen normalisointia
+Puhuja 0: euroviisuissa.
+Puhuja 0: On tärkeää, että tiettyjä tabuja puretaan, mutta tällainen seksin tyrkyttäminen
+Puhuja 0: nuorillekin...
+Puhuja 0: En tiedä, minkälainen teidän
+Puhuja 0: nuorillekin lapsille on
+Puhuja 0: yksinkertaisen ällöttävää.
+Puhuja 0: Tämä oli Instagram-tiivistelmä
+Puhuja 0: koko kannanotosta, joka on nettisivuilla, jossa en ole käynyt.
+Puhuja 0: Minua shokeerasi
+Puhuja 0: tämä
+Puhuja 0: patavanhoillisuus,
+Puhuja 0: mikä nuorisojärjestöstä
+Puhuja 0: tihkui.
+Puhuja 0: Oli hämmentävää. Siis purkat
+Puhuja 0: liehuu
+Puhuja 0: tuulessa aivan
+Puhuja 0: omituista
 Puhuja 3: juttua. Olen samaa mieltä ja kyllä kuitenkin kun miettii,
 Puhuja 3: että pahamaineinen
 Puhuja 3: seksuaalinen vapautuminen alkoi 60-luvulla
@@ -186,42 +188,42 @@ Puhuja 3: vanhoillisuuteen.
 Puhuja 3: He taas haukkuivat nyt
 Puhuja 3: tuon konservatismin
 Puhuja 3: ja ilmoittautuivat, että he kyllä tukevat eri kai ihan täysillä.
-Puhuja 0: Olisiko se ollut läpäisemään
-Puhuja 0: kokoomosnuorten?
-Puhuja 0: Tai provo.
-Puhuja 1: Mä mietin sitä, että mun mielestä tässä on kuitenkin,
-Puhuja 1: kun
-Puhuja 1: mä kyselin, että
-Puhuja 1: miksei se selkeästi parempi biisi nyt tässä menestynyt se Goldiloxin,
-Puhuja 1: joka kuulostaa siltä oikealta biisiltä eikä euroviisbiisiltä.
-Puhuja 1: Biisiltä. Miksi ei se menestynyt?
-Puhuja 1: Paras analyysi,
-Puhuja 1: mitä mä sain, oli, että
-Puhuja 1: tytöt ja homot tykkäsivät
+Puhuja 1: Olisiko se ollut läpäisemään
+Puhuja 1: kokoomosnuorten?
+Puhuja 1: Tai provo.
+Puhuja 0: Mä mietin sitä, että mun mielestä tässä on kuitenkin,
+Puhuja 0: kun
+Puhuja 0: mä kyselin, että
+Puhuja 0: miksei se selkeästi parempi biisi nyt tässä menestynyt se Goldiloxin,
+Puhuja 0: joka kuulostaa siltä oikealta biisiltä eikä euroviisbiisiltä.
+Puhuja 0: Biisiltä. Miksi ei se menestynyt?
+Puhuja 0: Paras analyysi,
+Puhuja 0: mitä mä sain, oli, että
+Puhuja 0: tytöt ja homot tykkäsivät
 Puhuja 3: ekasta.
-Puhuja 1: Se siis tarkoittaa sitä, että euroviisut kuitenkin on
-Puhuja 1: ilahduttavalla
-Puhuja 1: tavalla
-Puhuja 1: nimenomaan
-Puhuja 1: eurooppalaisen gaikulttuurin.
-Puhuja 1: Se on myös hyvin paljon naisten suosiossa
-Puhuja 1: ohjelmana,
-Puhuja 1: tapahtumana
-Puhuja 1: ja suuntauksena ja minä ikinä. Se selittää sen, että nyt haluttiin tämmöistä empowermenttia ja muuta.
-Puhuja 1: Ei ollut kyse
-Puhuja 1: objektiivisesta
-Puhuja 1: biisi tai musiikkikilpailusta,
-Puhuja 1: vaan tämä on tietyn kulttuurin
-Puhuja 1: asia. Tavallaan just se on se, mikä kokoomus nuorella Uudellamaalla ei ollenkaan
-Puhuja 1: jotenkin rekisteröi.
-Puhuja 1: Euroviisujen
-Puhuja 1: paras puoli on se, että me osataan näin hienosti juhlistaa nimenomaan
-Puhuja 1: gei-kulttuuria
-Puhuja 1: ja minun mielestä jonkinlaista semmoista nykyaikaista modernia naiskulttuuria.
-Puhuja 1: Siihen kuuluu tämmöinen
+Puhuja 0: Se siis tarkoittaa sitä, että euroviisut kuitenkin on
+Puhuja 0: ilahduttavalla
+Puhuja 0: tavalla
+Puhuja 0: nimenomaan
+Puhuja 0: eurooppalaisen gaikulttuurin.
+Puhuja 0: Se on myös hyvin paljon naisten suosiossa
+Puhuja 0: ohjelmana,
+Puhuja 0: tapahtumana
+Puhuja 0: ja suuntauksena ja minä ikinä. Se selittää sen, että nyt haluttiin tämmöistä empowermenttia ja muuta.
+Puhuja 0: Ei ollut kyse
+Puhuja 0: objektiivisesta
+Puhuja 0: biisi tai musiikkikilpailusta,
+Puhuja 0: vaan tämä on tietyn kulttuurin
+Puhuja 0: asia. Tavallaan just se on se, mikä kokoomus nuorella Uudellamaalla ei ollenkaan
+Puhuja 0: jotenkin rekisteröi.
+Puhuja 0: Euroviisujen
+Puhuja 0: paras puoli on se, että me osataan näin hienosti juhlistaa nimenomaan
+Puhuja 0: gei-kulttuuria
+Puhuja 0: ja minun mielestä jonkinlaista semmoista nykyaikaista modernia naiskulttuuria.
+Puhuja 0: Siihen kuuluu tämmöinen
 Puhuja 3: seksuaalisuuserotus.
-Puhuja 3: Epäilen
-Puhuja 3: Marko epäilyä,
+Puhuja 3: Epäilen Marko
+Puhuja 3: epäilyä,
 Puhuja 3: että se olisi ollut kokoomusnuorilta
 Puhuja 3: tarkoituksellinen
 Puhuja 3: koepallo
@@ -232,16 +234,16 @@ Puhuja 3: varmaan viraaliksi,
 Puhuja 3: mutta mielestäni
 Puhuja 3: ne sanamuodot jotka Tuomas äsken luki
 Puhuja 3: niin ne mun mielestä vaikutti kyllä silleen, että ollaan tosissaan
-Puhuja 0: liikenteessä. En rupea tästä väittelemään, nuorisoristo on yllättävää, mutta aina.
-Puhuja 1: Mun mielestä kuitenkin meidän kaikkien velvollisuus on, varsinkin kun otetaan huomioon, mitä kaikkea outoa paskaa Yhdysvalloissa on tapahtunut, niin meidän kaikkien velvollisuus on pitää silmällä tämmöisiä under curenteja, jotka menee. Eli
-Puhuja 1: piilovirtauksia,
-Puhuja 1: jotka liikkuu tuolla
-Puhuja 1: meidän
-Puhuja 1: poliittisessa
-Puhuja 1: skenessä,
-Puhuja 1: koska kyllä mä luulen, että jossain vaiheessa sieltäkin tämmöinen, aletaan vaatia aborttia pois ja tämmöinen
-Puhuja 1: ihmepatahoidoillisuus
-Puhuja 1: nostaa päätänsä.
+Puhuja 1: liikenteessä. En rupea tästä väittelemään, nuorisoristo on yllättävää, mutta aina.
+Puhuja 0: Mun mielestä kuitenkin meidän kaikkien velvollisuus on, varsinkin kun otetaan huomioon, mitä kaikkea outoa paskaa Yhdysvalloissa on tapahtunut, niin meidän kaikkien velvollisuus on pitää silmällä tämmöisiä under curenteja, jotka menee. Eli
+Puhuja 0: piilovirtauksia,
+Puhuja 0: jotka liikkuu tuolla
+Puhuja 0: meidän
+Puhuja 0: poliittisessa
+Puhuja 0: skenessä,
+Puhuja 0: koska kyllä mä luulen, että jossain vaiheessa sieltäkin tämmöinen, aletaan vaatia aborttia pois ja tämmöinen
+Puhuja 0: ihmepatahoidoillisuus
+Puhuja 0: nostaa päätänsä.
 Puhuja 3: Mutta
 Puhuja 3: oikeasti se, että vuosikymmenestä
 Puhuja 3: tai vuosisadasta
@@ -261,27 +263,27 @@ Puhuja 3: minun sydämessä sykkii
 Puhuja 3: 1960-luvun
 Puhuja 3: hippien ajatus, että make lave not war ja nyt viime aikojen maailmaa kun katsoo, se on täsmälleen toisin päin: make war on not lave.
 Puhuja 3: Kyllä semmoinen pieni hippi täälläkin sykkii.
-Puhuja 1: Tuohon liittyen, että
-Puhuja 1: mun mielestä sellainenkin ilmiö on olemassa, että sitten kun asiasta tulee pelkkä teoreettinen rakennelma, että se ei ole enää elettyä
-Puhuja 1: historiaa.
-Puhuja 1: 60-lukukin
-Puhuja 1: rupeaa pikkuhiljaa olemaan semmoista, että kukaan ei ole enää
-Puhuja 1: elänyt
-Puhuja 1: sitä.
-Puhuja 1: Ihmiset, jotka on 60-luvulla
-Puhuja 1: ollut aikuisia
-Puhuja 1: alkaa olla kyllä aika
+Puhuja 0: Tuohon liittyen, että
+Puhuja 0: mun mielestä sellainenkin ilmiö on olemassa, että sitten kun asiasta tulee pelkkä teoreettinen rakennelma, että se ei ole enää elettyä
+Puhuja 0: historiaa.
+Puhuja 0: 60-lukukin
+Puhuja 0: rupeaa pikkuhiljaa olemaan semmoista, että kukaan ei ole enää
+Puhuja 0: elänyt
+Puhuja 0: sitä.
+Puhuja 0: Ihmiset, jotka on 60-luvulla
+Puhuja 0: ollut aikuisia
+Puhuja 0: alkaa olla kyllä aika
 Puhuja 3: todella vanha ja pikku hiljaa. Lipposen Paavohan on ehkä legendaarisin
 Puhuja 3: 60-lukulainen
-Puhuja 1: ja hän jaksaa itse sitä yhä uudestaan ja uudestaan. Sen jälkeen meillä ei ole enää kukaan meidän, eikä mummu pysty sanomaan, että hei, mä oon omin silmin nähnyt, mä oon elänyt sen ajan, jolloin ei saanutkaan naiset olla
-Puhuja 1: rinnat paljaana.
-Puhuja 1: Silloin kepillä lyötiin jalanpohjiin
-Puhuja 1: tai että vaadittiin
-Puhuja 1: huivi
-Puhuja 1: hiustenpeitoksi.
-Puhuja 1: Sitten siitä tulee teoriaa ja sitten tuleekin se vastaliike, että me ei pidetäkään tätä enää minään ja me lähetetään tämmöinen typerä tiedote. Kyllä mä väitän, että
-Puhuja 0: nousiko tästä Erika Vikmanin biisistä, että jos asiaan reagoi Uudenmaan kokoomusnuoret?
-Puhuja 0: Aijoittikoko mitään lainkaan?
+Puhuja 0: ja hän jaksaa itse sitä yhä uudestaan ja uudestaan. Sen jälkeen meillä ei ole enää kukaan meidän, eikä mummu pysty sanomaan, että hei, mä oon omin silmin nähnyt, mä oon elänyt sen ajan, jolloin ei saanutkaan naiset olla
+Puhuja 0: rinnat paljaana.
+Puhuja 0: Silloin kepillä lyötiin jalanpohjiin
+Puhuja 0: tai että vaadittiin
+Puhuja 0: huivi
+Puhuja 0: hiustenpeitoksi.
+Puhuja 0: Sitten siitä tulee teoriaa ja sitten tuleekin se vastaliike, että me ei pidetäkään tätä enää minään ja me lähetetään tämmöinen typerä tiedote. Kyllä mä väitän, että
+Puhuja 1: nousiko tästä Erika Vikmanin biisistä, että jos asiaan reagoi Uudenmaan kokoomusnuoret?
+Puhuja 1: Aijoittikoko mitään lainkaan?
 Puhuja 3: Se ilmestyi.
 Puhuja 3: Tänä aamuna kun heräsin
 Puhuja 3: niin puolisoni Inka aloitti hirveän,
@@ -291,60 +293,60 @@ Puhuja 3: Eerikaan kohdistuvasta, se on ilmeisesti lähtenyt oikeasti,
 Puhuja 3: ne vihaviestien
 Puhuja 3: määrä verkon
 Puhuja 3: syövereissä on ilmeisesti hyvin huomattava. Sen
-Puhuja 0: uskon ja se kohdistuu aika moniinkin naisartiseihin, varsinkin
-Puhuja 0: ne varsinkin, jotka esiintyvät jollain
-Puhuja 0: tavalla lainausmerkeissä proosoivasti. Jos
-Puhuja 0: vertaa 1960-luvun johonkin Hannu Salama juhannuspansseihin,
-Puhuja 0: niin virallinen
-Puhuja 0: Suomi ei ole
-Puhuja 0: pahoittanut sitä yhtään mieltä.
+Puhuja 1: uskon ja se kohdistuu aika moniinkin naisartiseihin, varsinkin
+Puhuja 1: ne varsinkin, jotka esiintyvät jollain
+Puhuja 1: tavalla lainausmerkeissä proosoivasti. Jos
+Puhuja 1: vertaa 1960-luvun johonkin Hannu Salama juhannuspansseihin,
+Puhuja 1: niin virallinen
+Puhuja 1: Suomi ei ole
+Puhuja 1: pahoittanut sitä yhtään mieltä.
 Puhuja 3: Päinvastoin, julkisella rahoillahan tuo on tehty. Ei, mutta luulen, että Hannukin oli vain tyytyväinen
 Puhuja 3: lyhyestä
 Puhuja 3: vankeustuomiosta, jonka Kekkonen
 Puhuja 3: vielä poisti.
 Puhuja 3: Hän sai valtavan maineen.
-Puhuja 1: Sitten kun
-Puhuja 1: laskeudutte Minggenin lentokentälle ja kipiitätte sieltä kiireen vilkkaa kohti päämesstoja.
-Puhuja 1: Eli Monacon lentokentällä. Niin, kippaavuorian
-Puhuja 1: Monacon lentokentälle.
-Puhuja 1: Saksa tietenkin täytyy juoda olutta ja varsinkin Myykissä täytyy juoda olutta. Onhan se
-Puhuja 1: kenties maailman keskeisin olutkulttuurin
-Puhuja 1: pääkaupunki.
-Puhuja 1: Isutte
-Puhuja 1: siellä semmoisen vierhalleen
-Puhuja 1: pitkän pöydän ääreen.
-Puhuja 1: Sitten tällaiset provosoivasti pukeutuneet saksalaisnaiset alkavat kantaa niitä kolpakoita teille.
-Puhuja 1: Siinä sitten käytte tietenkin pientä juttelua heidän kanssaan
-Puhuja 1: silleen haparoivalla Saksalla, niin mistäs heille alatte
-Puhuja 0: kertoa? Mä voisin kehua, että tää kirja
-Puhuja 0: nauratti mua suuresti. Tästä oli jo vähän aikaa, kun mä luin tän.
-Puhuja 0: Tätä on kehuttu kovasti, tämä oli mun muistaakseni sisarenkin arviossa
-Puhuja 0: kiitoksia. Tämä on norjalainen
-Puhuja 0: kirjailija
-Puhuja 0: Niina Lycke,
-Puhuja 0: hänellä on kirja, emme ole täällä pitämässä hauskaa.
-Puhuja 0: Se kertoo
-Puhuja 0: keski-ikäisestä
-Puhuja 0: mieskirjailijasta,
-Puhuja 0: jossa
-Puhuja 0: maailma on ajanut vähän ohi, kun on kaiken maailman mukea ja ja pitää tiedostaa ja tavallaan
-Puhuja 0: mitään ei saa enää sanoa.
-Puhuja 0: Eikä hän ole kymmenenvuotias mitään oikein kirjoitettuakaan, mutta hän lähtee
-Puhuja 0: Norjan suurimmat
-Puhuja 0: kirjallisuusfestivaalit, niin siellä joku oikeasti olennainen kirjailija peruuttaa ja viime hetkessä hänet pyydetään paikkaamaan.
-Puhuja 0: Hän menee siellä paneeliin.
-Puhuja 0: Siinä paneelissa on joku naiskirjailija,
-Puhuja 0: joka on omassa kirjassaan
-Puhuja 0: nimellä syyttänyt
-Puhuja 0: mieskirjailija seksuaalisesta häirinnästä.
-Puhuja 0: Hän on vain tarina, kun hän matkustaa junalla kirjallisuusfestivaaleille,
-Puhuja 0: ja se on ihan suunnattoman hauska. Siinä
-Puhuja 0: pilkataan kirjallisuuspiirejä,
-Puhuja 0: siinä pilkataan wokeja ja siinä pilkataan mieskirjailijoita ja siinä pilkataan kaikkia, ja saa oikeasti sitten kirjoissa noudattaa ääneen ja loppujen lopuksi ovat samassa paneelissa.
-Puhuja 0: Sitten tämä keskikäden mieskirjailija
-Puhuja 0: saa
-Puhuja 0: täydelliset hepulit ja hänestä tulee someilmiöt.
-Puhuja 0: Kannattaa oikein. Oon ohut kirja, mutta todella hauska.
+Puhuja 0: Sitten kun
+Puhuja 0: laskeudutte Minggenin lentokentälle ja kipiitätte sieltä kiireen vilkkaa kohti päämesstoja.
+Puhuja 0: Eli Monacon lentokentällä. Niin, kippaavuorian
+Puhuja 0: Monacon lentokentälle.
+Puhuja 0: Saksa tietenkin täytyy juoda olutta ja varsinkin Myykissä täytyy juoda olutta. Onhan se
+Puhuja 0: kenties maailman keskeisin olutkulttuurin
+Puhuja 0: pääkaupunki.
+Puhuja 0: Isutte
+Puhuja 0: siellä semmoisen vierhalleen
+Puhuja 0: pitkän pöydän ääreen.
+Puhuja 0: Sitten tällaiset provosoivasti pukeutuneet saksalaisnaiset alkavat kantaa niitä kolpakoita teille.
+Puhuja 0: Siinä sitten käytte tietenkin pientä juttelua heidän kanssaan
+Puhuja 0: silleen haparoivalla Saksalla, niin mistäs heille alatte
+Puhuja 1: kertoa? Mä voisin kehua, että tää kirja
+Puhuja 1: nauratti mua suuresti. Tästä oli jo vähän aikaa, kun mä luin tän.
+Puhuja 1: Tätä on kehuttu kovasti, tämä oli mun muistaakseni sisarenkin arviossa
+Puhuja 1: kiitoksia. Tämä on norjalainen
+Puhuja 1: kirjailija
+Puhuja 1: Niina Lycke,
+Puhuja 1: hänellä on kirja, emme ole täällä pitämässä hauskaa.
+Puhuja 1: Se kertoo
+Puhuja 1: keski-ikäisestä
+Puhuja 1: mieskirjailijasta,
+Puhuja 1: jossa
+Puhuja 1: maailma on ajanut vähän ohi, kun on kaiken maailman mukea ja ja pitää tiedostaa ja tavallaan
+Puhuja 1: mitään ei saa enää sanoa.
+Puhuja 1: Eikä hän ole kymmenenvuotias mitään oikein kirjoitettuakaan, mutta hän lähtee
+Puhuja 1: Norjan suurimmat
+Puhuja 1: kirjallisuusfestivaalit, niin siellä joku oikeasti olennainen kirjailija peruuttaa ja viime hetkessä hänet pyydetään paikkaamaan.
+Puhuja 1: Hän menee siellä paneeliin.
+Puhuja 1: Siinä paneelissa on joku naiskirjailija,
+Puhuja 1: joka on omassa kirjassaan
+Puhuja 1: nimellä syyttänyt
+Puhuja 1: mieskirjailija seksuaalisesta häirinnästä.
+Puhuja 1: Sitten hän on vaan tarina, kun hän matkustaa junalla kirjallisuusfestivaaleille,
+Puhuja 1: ja se on ihan suunnattoman hauska. Siinä
+Puhuja 1: pilkataan kirjallisuuspiirejä,
+Puhuja 1: siinä pilkataan wokeja ja siinä pilkataan mieskirjailijoita ja siinä pilkataan kaikkia, ja saa oikeasti sitten kirjoissa noudattaa ääneen ja loppujen lopuksi ovat samassa paneelissa.
+Puhuja 1: Sitten tämä keskikäden mieskirjailija
+Puhuja 1: saa
+Puhuja 1: täydelliset hepulit ja hänestä tulee someilmiöt.
+Puhuja 1: Kannattaa oikein. Oon ohut kirja, mutta todella hauska.
 Puhuja 3: Näitkö
 Puhuja 3: itsesi siinä kirjassa?
 Puhuja 3: Tämä oli sinun tulkintasi.
@@ -371,7 +373,7 @@ Puhuja 3: brittipääministeri
 Puhuja 3: Nevel Chamberleyn,
 Puhuja 3: joka oli
 Puhuja 3: aiemmin
-Puhuja 3: nössöidy
+Puhuja 3: nössöidllyt
 Puhuja 3: Hitlerin edessä ja mahdollistanut
 Puhuja 3: osaltaan Hitlerin maailmanvalloitusoperaatiot,
 Puhuja 3: niin hän oli menettänyt lopullisesti
@@ -428,96 +430,96 @@ Puhuja 3: ja sitten se ilmoittaa tämän saman
 Puhuja 3: jollekin Britannian
 Puhuja 3: puolustusneuvostolle.
 Puhuja 3: Mahtava elokuva. Kuullaan siinä
-Puhuja 1: Churchillin
-Puhuja 1: legendaarisia puheita
-Puhuja 1: Gary Oudmanin Puumona? Totta kai
-Puhuja 1: auki. Pakko olla hyvä. Kyllä. Siinä on kaksi suurta.
-Puhuja 1: Hei, mä haluan
-Puhuja 1: suositella tarinaa, jossa esiintyy Mrr Target.
-Puhuja 1: Oletteko kuulleet hänestä?
-Puhuja 1: Hän on Britanniassa
-Puhuja 1: juuri ikään nimitetty Britannian
-Puhuja 1: raja-tsaareksi,
-Puhuja 1: joka
-Puhuja 1: siis maahanmuutto,
-Puhuja 1: virkamies,
-Puhuja 1: joka siis valvoo Britannian
-Puhuja 1: rajoja ja rajojen ylityksiä ja maahanmuuttoaliikennettä
-Puhuja 1: Britanniassa
-Puhuja 1: ja ykkösdiirikka
-Puhuja 1: siinä
-Puhuja 1: hommassa. MisterR Taget on joutunut
-Puhuja 1: skandaalin
-Puhuja 1: kouriin, nimittäin
-Puhuja 1: Britanniassa ei ole ollenkaan tyytyväisiä siihen, että Britannian maahanmuutosta
-Puhuja 1: vastaava rajakomissaari,
-Puhuja 1: mikähän hän on tismalleen
-Puhuja 1: Boards Watch Dog täällä sanotaan.
-Puhuja 1: Hän
-Puhuja 1: tästä varsin
-Puhuja 1: keskeisestä
-Puhuja 1: ammatistaan huolimatta,
-Puhuja 1: hän aikoo
-Puhuja 1: toteuttaa, siis
-Puhuja 1: toteuttaa tämän ammatin, siis kotoaan käsin etänä.
-Puhuja 1: Valvoa näitä Britannian rajoja.
-Puhuja 1: Hän
-Puhuja 1: on ollut arkkipiispalla töissä ja hän on ollut jossain muissakin huippuvirroissa. Hän on aina tehnyt etänä kaikki homman.
-Puhuja 1: Hän haluaisi mielellään jatkaa tässä rajatkomissaarinakin
-Puhuja 1: tai tsaari tai mikä onkaan, että hän haluaisi jatkaa tehden töitä
-Puhuja 1: etänä kotoaan Suomesta käsin.
-Puhuja 1: Hirveä kiistely tästä
-Puhuja 1: asiasta tullut. Tästä on siis
-Puhuja 1: pääministerin kyselytunnillakin
-Puhuja 1: kyselty, että mitä helvettiä...
-Puhuja 1: Se on Suomessa. Hän siis asuu Suomessa. Hän on Suomen...
-Puhuja 1: Hänen kotinsa on Suomessa,
-Puhuja 1: hänen perheensä kanssa. No, missä hän asuu ja mikä on hänen numeerinen? Nyt hakee, että mä en tiedä tarkemmin, että missä hän asuu.
-Puhuja 1: Mutta häneltä siis kysyttiin,
-Puhuja 1: täällä on parhaita kortteja, että
-Puhuja 1: ensinnäkin opposition,
-Puhuja 1: oppositiojohtaja
-Puhuja 1: Kimi Baadenok
-Puhuja 1: sanoi, että: the government is no recruing a new chief inpector of boders' who lives in Finland and wance to work from home. This is not careas. Why should the bringa public up with this?
-Puhuja 1: Kun täältä Mrr. Tagetilta kysyttiin sitten, että asuu hän
-Puhuja 1: niin lähellä, että hän pystyy työmatkailemaan
-Puhuja 1: töihinsä Lontoon keskustaan,
-Puhuja 1: niin hän vastasi: No I don't, I have a family home in Finland. I come across to this country whenever I need.
-Puhuja 1: Hän vaikuttaa aivan mainiolta tyhjenkuilta
-Puhuja 1: ja kunniaksi
-Puhuja 1: sekä Suomelle että englannilla
-Puhuja 1: meiltä täysi tuki hänelle. Kyllä.
-Puhuja 1: Siinä kaikki tältä erää. Kiitos,
-Puhuja 1: Marko Junkkarin. Kiitos. Kiitos, Tommi Nieminen.
-Puhuja 1: Minun nimi on Tuomas Peltolakin, äänenkuva ja kaiken muu mahtava meille tekee tällä viikolla
-Puhuja 1: Janne Piltonen.
-Puhuja 1: Me kuullaan taas normaaliaikataulussa.
-Puhuja 1: Toivon mukaan
-Puhuja 1: mitään niin yllättävää ei tapahdu. Ensi viikolla.
+Puhuja 0: Churchillin
+Puhuja 0: legendaarisia
+Puhuja 0: puheita
+Puhuja 0: Kari Ahlmanin puumana? Totta kai
+Puhuja 0: auki. Pakko olla hyvä. Kyllä. Siinä on kaksi suurta.
+Puhuja 0: Hei, mä haluan
+Puhuja 0: suositella tarinaa, jossa esiintyy Mrr Target.
+Puhuja 0: Oletteko kuulleet hänestä?
+Puhuja 0: Hän on Britanniassa
+Puhuja 0: juuri ikään nimitetty Britannian
+Puhuja 0: raja-tsaareksi,
+Puhuja 0: joka siis maahanmuutto,
+Puhuja 0: virkamies,
+Puhuja 0: joka siis valvoo Britannian
+Puhuja 0: rajoja ja rajojen ylityksiä ja maahanmuuttoaliikennettä
+Puhuja 0: Britanniassa
+Puhuja 0: ja ykkösdiirikka
+Puhuja 0: siinä
+Puhuja 0: hommassa. MisterR Taget on joutunut
+Puhuja 0: skandaalin
+Puhuja 0: kouriin, nimittäin
+Puhuja 0: Britanniassa ei ole ollenkaan tyytyväisiä siihen, että Britannian maahanmuutosta
+Puhuja 0: vastaava rajakomissaari,
+Puhuja 0: mikähän hän on tismalleen
+Puhuja 0: Boards Watch Dog täällä sanotaan.
+Puhuja 0: Hän
+Puhuja 0: tästä varsin
+Puhuja 0: keskeisestä
+Puhuja 0: ammatistaan huolimatta,
+Puhuja 0: hän aikoo
+Puhuja 0: toteuttaa, siis
+Puhuja 0: toteuttaa tämän ammatin, siis kotoaan käsin etänä.
+Puhuja 0: Valvoa näitä Britannian rajoja.
+Puhuja 0: Hän
+Puhuja 0: on ollut arkkipiispalla töissä ja hän on ollut jossain muissakin huippuvirroissa. Hän on aina tehnyt etänä kaikki homman.
+Puhuja 0: Hän haluaisi mielellään jatkaa tässä rajatkomissaarinakin
+Puhuja 0: tai tsaari tai mikä onkaan, että hän haluaisi jatkaa tehden töitä
+Puhuja 0: etänä kotoaan
+Puhuja 0: Suomesta käsin.
+Puhuja 0: Hirveä kiistely tästä asiasta
+Puhuja 0: tullut. Tästä on siis
+Puhuja 0: pääministerin kyselytunnillakin
+Puhuja 0: kyselty, että mitä helvettiä...
+Puhuja 0: Se on Suomessa. Hän siis asuu Suomessa. Hän on Suomen...
+Puhuja 0: Hänen kotinsa on Suomessa,
+Puhuja 0: hänen perheensä kanssa. No, missä hän asuu ja mikä on hänen numeerinen? Nyt hakee, että mä en tiedä tarkemmin, että missä hän asuu.
+Puhuja 0: Mutta häneltä siis kysyttiin,
+Puhuja 0: täällä on parhaita kootteja, että
+Puhuja 0: ensinnäkin opposition,
+Puhuja 0: oppositiojohtaja
+Puhuja 0: Kimi Baadenok
+Puhuja 0: sanoi, että: the government is no recruing a new chief inspekt of boders who livs in Finland and wance to work from home. This is not careas. Why should the brich public up with this?
+Puhuja 0: Kun täältä Mrr. Tagetilta kysyttiin sitten, että asuu hän
+Puhuja 0: niin lähellä, että hän pystyy työmatkailemaan
+Puhuja 0: töihinsä Lontoon keskustaan,
+Puhuja 0: niin hän vastasi: No I don't, I have a family home in Finland. I come across to this country whenever I need.
+Puhuja 0: Hän vaikuttaa aivan mainiolta tyhjenkuilta
+Puhuja 0: ja kunniaksi
+Puhuja 0: sekä Suomelle että englannilla
+Puhuja 0: meiltä täysi tuki hänelle. Kyllä.
+Puhuja 0: Siinä kaikki tältä erää. Kiitos,
+Puhuja 0: Marko Junkkarin. Kiitos. Kiitos, Tommi Nieminen.
+Puhuja 0: Minun nimi on Tuomas Peltolakin, äänenkuva ja kaiken muu mahtava meille tekee tällä viikolla
+Puhuja 0: Janne Piltonen.
+Puhuja 0: Me kuullaan taas normaaliaikataulussa.
+Puhuja 0: Toivon mukaan
+Puhuja 0: mitään niin yllättävää ei tapahdu. Ensi viikolla.
 Puhuja 3: Moi,
 Puhuja 0: Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
-Puhuja 1: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
-Puhuja 1: päätös asettua välikappaleeksi
-Puhuja 1: Saksan ja Venäjän väliseen kaasukauppaan?
-Puhuja 1: Kaasukauppaan,
-Puhuja 1: joka päätyi aseeksi
-Puhuja 1: suurvaltapolitiikassa.
-Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
-Puhuja 0: osasi
-Puhuja 1: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
-Puhuja 1: aihetta, mutta kävikin aivan päinvastoin.
-Puhuja 1: Mun eteen avautui
-Puhuja 1: taloudellinen murhamysteeri.
-Puhuja 1: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
-Puhuja 1: ja on poliitikkoja.
-Puhuja 1: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
-Puhuja 1: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
-Puhuja 1: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 1: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
-Puhuja 1: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
-Puhuja 1: Lataa siis C ja kuuntele viisiosainen
-Puhuja 1: menetetyt
-Puhuja 1: miljardit.
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan
+Puhuja 1: osasi
+Puhuja 0: ennakoida. Kun mä aloin tehdä tätä podcastia, niin mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Mun eteen avautui
+Puhuja 0: taloudellinen murhamysteeri.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
+Puhuja 0: ja on poliitikkoja.
+Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
+Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
+Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Lataa siis C ja kuuntele viisiosainen
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

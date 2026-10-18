@@ -12,8 +12,7 @@ Puhuja 0: ei oikeasti ole, me omistetaan täältä enää pienen siivu. Ei muist
 Puhuja 1: Vuokralaisen.
 Puhuja 0: Kyllä. Niin, täällä kuitenkin on
 Puhuja 0: tämä yllättävä ääni, jonka kuulitte korvinani juuri nyt. Hän on Helsingin Sanomien politiikan
-Puhuja 0: toimituksen esimies Jussi Pullinen. Hei, Jussi. Hei vaan. Talouden ja politiikan
-Puhuja 0: toimintaa. No body carees about talous. Kaikkia kiinnostaa vain politiikka.
+Puhuja 0: toimituksen esimies Jussi Pullinen. Hei, Jussi. Hei vaan. Talouden ja politiikan toimintaa. Toimintaa. No body carees about talous. Kaikkia kiinnostaa vain politiikka.
 Puhuja 0: Jussi on täällä sen vuoksi, että meidän oma Marko Junkkarimme on hiihtolomalla
 Puhuja 0: jossain hyvin lumisessa
 Puhuja 0: paikassa. En muista, mutta jossain hänellä näytti olevan. Ainakin sosiaalisen median tilien perusteella hyvin hauskaa. Terveisiä Markolle. Terveisiä vaan Markolle. Terveisiä Marko. Terveisiä lähetti tuolta siis tämä kuolema Vetasalpaajan
@@ -64,7 +63,7 @@ Puhuja 0: palautteesta suuresti.
 Puhuja 0: Kiittäisin nimeltä, mutta varsinaisesti
 Puhuja 0: ei lukenut tässä postissa lupaa nimien kertomiseen. Saat
 Puhuja 1: olla, että nyt paljastu. Kuveäkin on niitä härönny.
-Puhuja 1: Kuvia
+Puhuja 0: Kuvia
 Puhuja 2: lähetettiin kyllä,
 Puhuja 0: Mutta en pysty näin audion
 Puhuja 0: toisessa reunassa niitä esittelemään.
@@ -99,8 +98,7 @@ Puhuja 0: on kielletty turvapaikka,
 Puhuja 0: miten heille pystyttäisiin
 Puhuja 0: hoitamaan esimerkiksi
 Puhuja 0: työlupa.
-Puhuja 0: Koska muuten
-Puhuja 0: Suomessa on vaara, että syntyy varjoyhteiskunta
+Puhuja 0: Koska muuten Suomessa on vaara, että syntyy varjoyhteiskunta
 Puhuja 0: ja se on kaikista mahdollisista
 Puhuja 1: Yhteiskunnakunnista pahin.
 Puhuja 0: Niin ja varjoisisin ja auringottaminen.
@@ -166,8 +164,7 @@ Puhuja 0: niin sitten se siirrettiin
 Puhuja 0: Lapin keskussairaalaan.
 Puhuja 0: Tällä naisella oli siis tämä
 Puhuja 0: koronavirustartunta, joka on siis tähän mennessä ainoa suomalainen tapahtunut tai Suomessa tapahtunut, tämmöinen koronavirustapaus.
-Puhuja 0: Mun mielestä oli todella mielenkiintoista
-Puhuja 0: seurata se, että miten tämä Suomen
+Puhuja 0: Mun mielestä oli todella mielenkiintoista seurata se, että miten tämä Suomen
 Puhuja 0: systeemi toimii.
 Puhuja 0: Miten
 Puhuja 0: siellä vaan, jos on aivan hevosen kuusessa keskellä jotain tuntureita ja puskia, niin siellä löytyykin vaan joku infektioylilääkäri
@@ -178,8 +175,9 @@ Puhuja 0: että kuka keksii jos tuollaisia juttuja, että jossain
 Puhuja 0: Rovaniemellä on jotain pandemiaa. Sitten siellä ne tyypit oli
 Puhuja 0: paikallaan. Sitten ne soitteli THL:lle ja HUSiin Helsinkiä, että mitäs nyt tehdään.
 Puhuja 0: Mun mielestä se oli semmoinen, että homma toimi.
-Puhuja 0: Ainoa kelolla paniikki oli Twitteriä. Ootko sä yletön? On. Siis kun eihän semmoinen... Mä olin liikaa Twitterissä. Siis silleen, että siellä ne on,
-Puhuja 1: luokan ammattilaiset. Sä olet erkaantunut.
+Puhuja 0: Ainoakin on paniikki ja Twitteriä.
+Puhuja 0: Ootko sä yletön? On. Siis kun eihän semmoinen... Mä olin liikaa Twitterissä. Siis silleen, että siellä ne on,
+Puhuja 2: luokan ammattilaiset. Sä olet erkaantunut.
 Puhuja 1: Suomalainen
 Puhuja 1: kansanterveystoimintahan on valtion tai maailman mitassa ollut yleensä varsin arvostettua ja hyvää. Meidän varsin kattavat ja hyvin toimivat rokotusohjelmat ja terveysviranomaiset.
 Puhuja 1: Just tässä luen
@@ -364,8 +362,8 @@ Puhuja 0: tykkää ollenkaan siitä plus yhdestä asteesta.
 Puhuja 0: Se on hyvin huono, mutta plus kahdeksan astetta helmikuussa,
 Puhuja 0: niin onhan siinä nyt jotain ihan
 Puhuja 0: mahtavaa. Jokainen suomalainen voi allekirjoittaa tän. Menette sitten
-Puhuja 0: käymään jossain
-Puhuja 0: hyvin veneellä ja otatte
+Puhuja 0: käymään jossain hyvin veneellä
+Puhuja 0: ja otatte
 Puhuja 0: siellä, vaikka rommitotin siellä veneen kannella ja sitten
 Puhuja 0: muita seilarikavereita
 Puhuja 0: me siellä viihdytätte. Niin millaisissa jutuilla,
@@ -449,7 +447,7 @@ Puhuja 0: järjestyksessä naksutellaan ne takaisin.
 Puhuja 0: Ihmiset, te voitte säästää isoja summia rahaa. Varsinkin sellaista, joilla on lapsia
 Puhuja 0: ja lapset hajottaa kerran puolessa luoda omat kännykkään. Ostakaa Tuomas Peltola ja brändätä puhelinkorjaussetteet.
 Puhuja 0: Hei,
-Puhuja 0: voin tehdä niin, että voin pineena
+Puhuja 0: mä voin tehdä niin, että voin pineena
 Puhuja 0: ruveta tekemään
 Puhuja 0: puhelinkorjauksia huokeampaan hintaan kuin jotkut oikeat liikkeet.
 Puhuja 0: Siinä kaikki tältä viikolta. Kiitos, Jussi Pullinen.

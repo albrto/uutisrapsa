@@ -80,7 +80,8 @@ Puhuja 2: Niin, Halla-aho itsehän on puhunut tällaisia kulttijohtajia
 Puhuja 2: ja Kekkossyndroomaa
 Puhuja 2: vastaan.
 Puhuja 2: Olen ollut sitä mieltä, että puolueen ei pitäisi levätä vain yhden henkilön harteilla. Perussuomalaisethan
-Puhuja 2: nyt vaan ovat perinteisesti olleet sellainen puolue, joka lepää yhden ihmisen harteilla, ja sitten kun se johtaja vaihtuu, se tuntuu aluksi ihan todella omituiselta. Kyllä silloin, kun
+Puhuja 2: nyt vaan ovat
+Puhuja 2: perinteisesti olleet sellainen puolue, joka lepää yhden ihmisen harteilla, ja sitten kun se johtaja vaihtuu, se tuntuu aluksi ihan todella omituiselta. Kyllä silloin, kun
 Puhuja 2: niin kyllähän silloinkin tuntui siltä,
 Puhuja 2: että miten voi olla, kun se on henkilöity niin vahvasti
 Puhuja 2: yhteen ihmiseen.
@@ -88,7 +89,7 @@ Puhuja 2: Mutta sitä juuri mietin, onko tässä muutakin taustalla. Kyllähän 
 Puhuja 2: sanoi, että Halla-aho tekee tietä Riikka Purralle sitä elokuuista
 Puhuja 2: puoluekokousta varten.
 Puhuja 2: Mitä te arvelette?
-Puhuja 2: Otan kantaa näin. Mitkä on Kouvolasta, mä tiedän.
+Puhuja 2: Ota mitään kantaa näin. Mitkä ovat Kouvolasta, mä tiedän.
 Puhuja 2: Mutta tämä, mikä on yllättänyt ehkä tässä, on se, että elokapinan
 Puhuja 2: toimet ovat herättäneet aika paljon raivoa.
 Puhuja 2: Itse en ainakaan
@@ -108,7 +109,7 @@ Puhuja 2: kulttuurialan ihmisten
 Puhuja 2: erittäin esteettinen ja hieno mielenosoitus
 Puhuja 2: tuossa sanomatalon edustalla.
 Puhuja 2: Miksi tämä elokapina nyt
-Puhuja 1: osuu ihmisten hermoa? Tämä on identiteettipolitiikan
+Puhuja 2: osuu ihmisten hermoa? Tämä on identiteettipolitiikan
 Puhuja 1: ytimessä,
 Puhuja 1: oletko sä meitä vai heitä.
 Puhuja 1: Oletko hippi vai ei hippi
@@ -151,7 +152,7 @@ Puhuja 1: heidän
 Puhuja 1: kadulla istuminen
 Puhuja 1: ns. Järjestelmää vaurioita,
 Puhuja 1: sehän
-Puhuja 1: kiinnostaa tavallisia työmatkalaisia.
+Puhuja 1: kiinnostaa niitä tavallisia työmatkalaisia.
 Puhuja 1: Monet kokevat, että
 Puhuja 1: he osoittaa mieltä minua vastaan, koska minä en pääse nyt autolla töihin tai en ratikalla. Itsekin joudun kiertämään
 Puhuja 1: ratikalla
@@ -159,8 +160,7 @@ Puhuja 1: duunia muutaman minuutin kauemmin. Ihan sama periaatteessa. Olen asunu
 Puhuja 1: Ehkä tämä on muuten myös osoitus siitä, että Helsingistä on kasvamassa aidosti iso kaupunki.
 Puhuja 1: Täällä voi
 Puhuja 1: tapahtua tuollaista.
-Puhuja 1: Kaupungissa nyt on paljon ihmisiä, joilla on erilaisia mielipiteitä ja
-Puhuja 1: välillä
+Puhuja 1: Kaupungissa nyt on paljon ihmisiä, joilla on erilaisia mielipiteitä ja välillä
 Puhuja 1: mielipiteet
 Puhuja 1: eskaloituu
 Puhuja 1: mielenosoitukseksi,
@@ -178,10 +178,10 @@ Puhuja 2: pöyristön turvetuottajista
 Puhuja 2: varmaan muista
 Puhuja 2: syistä,
 Puhuja 2: mutta kyllähän nyt mielenosoitus on
-Puhuja 2: ihmisten perusoikeus mun mielestä. Mun mielestä se on jotenkin omituista, miten täällä niin voimakkaasti
+Puhuja 2: ihmisten
+Puhuja 2: perusoikeus mun mielestä. Mun mielestä se on jotenkin omituista, miten täällä niin voimakkaasti
 Puhuja 2: lähdettiin keskustelemaan siitä, pitäisikö
-Puhuja 2: mielenostuksille asettaa tiukempia tiukempia
-Puhuja 2: rajoituksia.
+Puhuja 2: mielenostuksille asettaa tiukempia tiukempia rajoituksia.
 Puhuja 2: Kyllähän ihmisellä pitäisi olla oikeus osoittaa mieltä niin kauan kuin ne haluaa. Mä olen ehkä silleen
 Puhuja 1: poikkeuksellinen
 Puhuja 1: yksilö tässä ajassa, koska mulla ei ole tästä oikein mitään mielipidettä. Mulla ei ole mitään semmoista, kun mä en ole mitenkään selkeästi
@@ -216,7 +216,8 @@ Puhuja 2: tavallaan
 Puhuja 2: osoittaa olevansa aktiivinen osa jonkinlaista
 Puhuja 2: kansalaisliikettä
 Puhuja 2: ja mitä se tekee toimittajan
-Puhuja 2: no, ehkä hyvin hauraalle puolueettomuudelle
+Puhuja 2: no, ehkä hyvin hauraalle
+Puhuja 2: puolueettomuudelle
 Puhuja 2: tai sellaiselle.
 Puhuja 2: Mutta sitten tästä tulee helposti se fiilis,
 Puhuja 2: että jos ei ole varauksetta, että Go elokapina, niin ihmiset ehkä ajattelisivat, että sä
@@ -293,7 +294,7 @@ Puhuja 2: Saitaisko me Mika Salminen
 Puhuja 2: tekee
 Puhuja 2: ilmastokriisiviestintää
 Puhuja 2: valtiolle?
-Puhuja 2: Niin, se voisi olla. Hän nyt on jotenkin
+Puhuja 1: Niin, se voisi olla. Hän nyt on jotenkin
 Puhuja 2: sellainen
 Puhuja 1: rauhoittava. Tai Riikka Purra. No, Riikka Purra. Me just puhuttiin, miten taitava mediaviestiä Persut on ja miten hän on Persoen taustalla toiminut. Kyllä ja hänhän on ainakin aiemmin ollut huolissaankin
 Puhuja 2: mun mielestä ilmastonmuutoksesta.
@@ -335,7 +336,8 @@ Puhuja 2: nuoret järjestivät ilmastomarsseja
 Puhuja 2: ja näitä nyt on pakko, mielenosoituksia ja nyt on tätä Elokapinaa.
 Puhuja 2: Onhan tämä ihan uudenlaista
 Puhuja 2: liikettä, mitä
-Puhuja 2: itse, kun ajattelen omaa nuoruuttani Kouvolassa, niin ei siellä ikinä tapahtunut mitään eikä kukaan järjestänyt mitään mielenosoituksia eikä ollut poliittisesti
+Puhuja 2: itse, kun ajattelen omaa nuoruuttani Kouvolassa, niin ei siellä ikinä tapahtunut mitään eikä kukaan järjestänyt mitään mielenosoituksia
+Puhuja 2: eikä ollut poliittisesti
 Puhuja 2: valveutunut meininki.
 Puhuja 2: Jollakin tavalla mun mielestä on
 Puhuja 2: suotavaa se, että
@@ -389,8 +391,7 @@ Puhuja 2: se ei välttämättä pidä paikkaansa. Niinpä. Nyt kaikki pistäkä�
 Puhuja 2: kiinni kesäksi. Ihan oikeasti pistäkää se Twitter kiinni. Nyt lähdetään juhannuksen viettoon.
 Puhuja 2: Hei, kuules Emil, kun olet siellä
 Puhuja 2: koiraasi uittamassamassa,
-Puhuja 2: jossain ihanassa,
-Puhuja 2: viileässä
+Puhuja 2: jossain ihanassa viileässä
 Puhuja 2: poukamassa
 Puhuja 2: ja mietiskelät,
 Puhuja 2: että millä mä nyt avaisin tämän keskustelun
@@ -449,14 +450,13 @@ Puhuja 2: Muistakaa lähettää palautetta
 Puhuja 2: kesätiimillekin
 Puhuja 2: uutisraportti,
 Puhuja 2: paitsi juuri pyysin teitä pysymään posa Twitteristä, mutta käykää laittaa palautetta, sitten voitte
-Puhuja 2: poistua. Kuullaan taas ensi viikolla! Ihanaa juhannusta kaikille!
-Puhuja 2: Moi,
-Puhuja 0: Tuomas tässä.
+Puhuja 2: poistua. Kuullaan taas ensi viikolla! Ihanaa juhannusta
+Puhuja 2: kaikille!
+Puhuja 0: Moi Tuomas tässä.
 Puhuja 0: Mun uusi podcast menetetyt miljardit
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
-Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu
-Puhuja 0: päätös asettua välikappaleeksi
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan?
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi
@@ -472,7 +472,7 @@ Puhuja 0: ja on poliitikkoja.
 Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa
 Puhuja 0: ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina
 Puhuja 0: vuosikymmeninä? On Greta Thunberg ja Ruotsin kuningas ja suomalaiset Elokapinan aktivistit.
-Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkosa.
+Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkin verkkosa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

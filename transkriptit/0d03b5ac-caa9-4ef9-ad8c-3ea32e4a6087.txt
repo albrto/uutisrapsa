@@ -15,8 +15,8 @@ Puhuja 0: menetetyt miljardit.
 Puhuja 2: Helsingin
 Puhuja 2: Sanomat. Hei ja tervetuloa Helsingin Sanomien uutisraportti
 Puhuja 2: podcastiin
-Puhuja 2: torstaina viisitoista. Toukokuuta
-Puhuja 2: kaksituhatta kaksikymmentäviisi
+Puhuja 2: torstaina viisitoista.
+Puhuja 2: Toukokuuta kaksituhatta kaksikymmentäviisi
 Puhuja 2: Sohvin nimipäivänä.
 Puhuja 2: Miksi tänään Sohvin nimipäivänä? Onneksi olkoon!
 Puhuja 2: Noniin. Tästä voittekin päätellä, että minun nimeni on Anne-Sofia Berner, ystävien kesken Sohvi
@@ -25,7 +25,7 @@ Puhuja 2: podcast-studiossa
 Puhuja 2: Klovissa
 Puhuja 2: Helsingissä, Suomessa, Euroopassa
 Puhuja 2: ovat politiikkaa. Helsingin Sanomissa toimittava
-Puhuja 2: Marko Junkkari. Moi Marko. Moi. Onko sitä Klovia?
+Puhuja 1: Marko Junkkari. Moi Marko. Moi. Onko sitä Klovia?
 Puhuja 2: Äläpä. Katso
 Puhuja 2: ekaa kertaa rupesin selvittämään, että missä kaupunginosassa
 Puhuja 2: olen ollut viisitoista vuotta töissä.
@@ -35,20 +35,24 @@ Puhuja 2: tietopalvelun karttuista, että kyllä, olemme Klovissa. Tämähän on
 Puhuja 3: aihe, kun nämä kaupunginosien nimet ovat ehkä aika vaikeita.
 Puhuja 1: Sankaisitko tämän tietokilpailysymyksen?
 Puhuja 1: No ei sitä. Kuulin Heli jalalla Deskissä.
-Puhuja 1: Edes ole hauskaa, mutta jotenkin mykisti. Mikä on
+Puhuja 1: Edes ole hauska, mutta jotenkin mykisti. Mikä on
 Puhuja 1: Suomen suurin kunta?
 Puhuja 1: Kaupunkia ei hyväksytä, mutta kunta, joka on kunta, jossa on eniten asukkaita.
 Puhuja 1: Ei kaupunki. Sodankylä.
-Puhuja 2: Väkiluvut. Ai väkiluvulta.
-Puhuja 2: Ai väkiluvultaan.
-Puhuja 2: Ai, mutta kaupunkia ei hyväksytä. Ei.
-Puhuja 3: Onko tämä semmoinen mitään ärsyttää, kun me kuullaan tätä vastaus?
+Puhuja 2: Väkiluutan. Ai
+Puhuja 3: väkiluutan.
+Puhuja 2: Ai,
+Puhuja 2: mutta kaupunkia ei hyväksytä. Ei.
+Puhuja 2: No
+Puhuja 2: en tiedä.
+Puhuja 3: Onko tämä se nyt, mitä ärsyttää, kun me kuullaan tämä vastaus?
 Puhuja 1: En
-Puhuja 1: tiedä. Sitä ei ole
-Puhuja 1: mitään jekkua. No niin. Kerrotko
+Puhuja 1: tiedä. Sitä ei ole mitään
+Puhuja 1: jekkua. No niin. Kerrotko
 Puhuja 1: lähetyksen lopussa?
 Puhuja 2: Meidän pitää päästä esittelemään
-Puhuja 2: tämä upea
+Puhuja 2: tämä
+Puhuja 2: upea
 Puhuja 2: ihminen, joka meidän kanssamme täällä keskustelee. Hän on ulkomaantoimittaja
 Puhuja 2: ja Viisu-raportin
 Puhuja 2: podcastin juontaja Anni Huttunen. Moi Anni. Moi.
@@ -67,7 +71,8 @@ Puhuja 2: täällä työpaikalla, joten ilmeisesti hän on yhä mukana siinä ki
 Puhuja 1: Luulen, että
 Puhuja 1: vaikka hän tippuisi, niin hän ei tuu. Kuulin, että hän saattaisi saada palamat
 Puhuja 1: Kyllä, kyllä, vaikka kaipaamme. Tuomas on siis samassa joukkueessa kaksoisiskonsa kanssa.
-Puhuja 3: Ihanaa, mahtavaa.
+Puhuja 3: Ihanaa,
+Puhuja 3: mahtavaa.
 Puhuja 3: Voi
 Puhuja 3: olla, että on aika katsoa tätä kyseistä farmaatti ensimmäinen kausi minunkin. Todellakin.
 Puhuja 2: No niin.
@@ -94,8 +99,8 @@ Puhuja 3: Ukrainan sodan,
 Puhuja 3: Kaasakeskusteluiden
 Puhuja 3: ja taloudellisen kurimuksen keskellä nyt ehkä sellainen hetki, että
 Puhuja 3: nyt
-Puhuja 3: vaan ollaan aika hauska
-Puhuja 1: läppä ja se on petoa. Niin, minua jotenkin itseäni oli
+Puhuja 1: vaan ollaan aika hauska
+Puhuja 3: läppä ja se on petoa. Niin, minua jotenkin itseäni oli
 Puhuja 1: jotenkin
 Puhuja 1: kumminkin presidentti Stubon.
 Puhuja 1: Suomalaiset kyselyssä, jotka kyselyssä, että hän suomalaiset
@@ -110,28 +115,28 @@ Puhuja 1: Ja antoi tukensa
 Puhuja 1: Kaille, jonka jälkeen Eeika ihan oikeutetusti kysyi, että entäs minä.
 Puhuja 1: Sieltä tuli paniikkiviestejä
 Puhuja 1: siitä kansliasta,
-Puhuja 2: ei tueta? Joo, niin oli
+Puhuja 3: ei tueta? Joo, niin oli
 Puhuja 1: joo. Jos hän oli niin semmoinen buukko.
 Puhuja 2: Kyllä, kyllä. Ja Erika saa myös hyvin ja usein varmasti myös aiheellisesti käyttää sitä
 Puhuja 2: korttia. Onhan se hänelle myös, varmaan kaikillekin,
-Puhuja 2: mutta Ericalle Euroviisut ovat varmaan elämän mittainen unelma.
+Puhuja 2: mutta Ericalle Euroviisut on varmaan elämän mittainen unelma.
 Puhuja 2: Ja nyt kun hän on, niin
 Puhuja 2: oliko se Ilta-Sanomien vai Ilta-lehden Euroviisueksran
 Puhuja 2: kannessa onkin kai. Onhan nämä
-Puhuja 3: aika rajua. On, ja voi siinä miettiä, miltä se itsestä tuntuisi. Ja musta se oli tässä samassa yhteydessä näiden suppin kommenttien jälkeen, niin hänhän oli myös ollut jotenkin silleen, että
-Puhuja 3: saa nähdä, mitä Kai laittaa päälle Linnan
+Puhuja 3: aika rajua. On, ja voi siinä miettiä, miltä se itsestä tuntuisi.
 Puhuja 3: Oli kyllä jotenkin semmoinen.
 Puhuja 2: Täytyy sanoa sinne, että kannattaa muistaa lähettää se kutsu myös sinne Ricarin. Joo, voi olla. Kävi miten kävi. Kävi, miten kävi. Kyllä.
 Puhuja 3: Voiko Marko kysyä, että ketä teillä sitten kannatetaan?
-Puhuja 1: Tuota...
+Puhuja 2: Tuota...
 Puhuja 1: Olen ollut alusta lähtien suuri
 Puhuja 1: Kaifani,
 Puhuja 1: veikkaan kerran sen kuulin. Mun
 Puhuja 1: mielestä meidän ykkösasiasiantuntija
 Puhuja 1: on meidän 13-vuotias tyttö, joka alkuun suhtautuu aika kriittisesti Kaihin.
-Puhuja 1: Olen puhunut Kain puolesta. Kyllä luulen, että Kai fanitus on levinnyt koko perheeseen.
+Puhuja 1: Olen
+Puhuja 1: puhunut Kain puolesta. Kyllä luulen, että Kai fanitus on levinnyt koko perheeseen.
 Puhuja 1: Mulle vaan anteeksi, mä haluan tottakai tukea Aerikaa, mutta musta biisiä jopa kauhean hyvä. Fehernof, Fehernof.
-Puhuja 3: Ja kyllä varmaan Stubillakin on oikeus tämmönen. Jos hän niin ajattelee hänkin, on toki vain ihminen jolla on korvat kuten
+Puhuja 3: Ja kyllä varmaan Stubillakin on oikeus tämmönen. Jos hän niin ajattelee, hänkin on toki vain ihminen jolla on korvat kuten
 Puhuja 3: kaikki. Ja se on ihan
 Puhuja 3: fine.
 Puhuja 2: Olen vähän samoilla linjoilla.
@@ -140,7 +145,8 @@ Puhuja 2: vielä, koska minusta tuntuu, että suomalainen keskitys voi hyvin tä
 Puhuja 2: keskittyä. Joko
 Puhuja 3: Semmoinen kuin JJJJ.
 Puhuja 3: Se on siis
-Puhuja 3: aivan... Olen meidän viisuraportissakin tätä hehkuttanut, mutta jos ette ole kuulleet, niin kannattaa käydä
+Puhuja 3: aivan... Olen meidän viisuraportissakin
+Puhuja 3: tätä hehkuttanut, mutta jos ette ole kuulleet, niin kannattaa käydä
 Puhuja 3: ehdottomasti kuuntelemassa viisi. Se on sellainen pop-ooppera siis. Ja se on vähän sellainen.
 Puhuja 3: Ja just tähän pointtiin, mitä sanoit, että monet kuulevat sen ekan
 Puhuja 3: kerran, niin se on sellainen biisi, kun sen ekan kerran kuulee, niin sulla vaan loksahtaa suu auki. Se on aivan käsittämätön
@@ -175,13 +181,13 @@ Puhuja 1: pieni panokseni tähän eurovisuhuumaan
 Puhuja 1: on se,
 Puhuja 1: että... Olin viikonloppuna vuorossa deskissä silloin, kun Kai valittiin.
 Puhuja 1: Kai voitti ja Melodi
-Puhuja 3: festivaaleille. Melodifestivaalit.
+Puhuja 1: festivaaleille. Melodifestivaalit.
 Puhuja 3: Heidän Ruotsin vähän niin kuin huomaa.
 Puhuja 1: Tuli sunnuntaina töihin ja oikein keksitty mitään tekemistä. Mielestäni tämä oli vielä oma idea.
 Puhuja 1: Tuolla deskissä sitten kuumeisesti mietittiin, mitä ihmettä keksittäisiin tästä kaistaa.
 Puhuja 1: Sanoin soittaa
 Puhuja 1: Adlercreutsille
-Puhuja 1: ja kysyä, pitäisikö Suomeen ja Ruotsin mennä valtioliittoon yhdessä..
+Puhuja 1: ja kysyä, että pitäisikö nyt Suomeen ja Ruotsin mennä valtioliittoon yhdessä...
 Puhuja 1: Kun olin avokonttori,
 Puhuja 1: tein sen haastattelun sitten. Soitin ministerille kello kymmenen sunnuntaina aamuna.
 Puhuja 1: Minua kaiuttimessa
@@ -206,8 +212,8 @@ Puhuja 3: sen kain voiton, mellovoiton jälkeen, niin sellainen pääkäri, joss
 Puhuja 3: tuli pilaamaan nämä meidän
 Puhuja 3: kisat.
 Puhuja 2: Mutta toihan vaan vahvistaa
-Puhuja 2: suomalaista sellaista, että no siitä
-Puhuja 2: saitte. Jos miettii sitä, että miksi kaista on tullut niin iso ilmiö versus Erika
+Puhuja 2: suomalaista sellaista, että no siitä saitte.
+Puhuja 2: Saitte. Jos miettii sitä, että miksi kaista on tullut niin iso ilmiö versus Erika
 Puhuja 2: ja näin, että ketä kuuluu isänmaallisen ihmisen kannattaa.
 Puhuja 2: Niin
 Puhuja 2: kyllähän Kaisassa on juuri se, että koskaan he voitti siellä Ruotsissa
@@ -244,15 +250,14 @@ Puhuja 3: suosteteltu jo kyseistä
 Puhuja 3: se ensimmäinen kausi oli semmoinen, että minulle se saa sut... Se on sekä tosi viihdyttävä että upeasti
 Puhuja 3: tehty ja tuotettu ja todella kauniisti kuvattu, mutta myös etenkin se eka kausi oli semmoinen, että sai mut kyseenalaistamaan
 Puhuja 3: työelämää ja itseäni ja mun paikkaa
-Puhuja 3: tässä yhteiskunnassa ihmisenä. Todella
-Puhuja 3: suosittelen sitä. Nyt saimme katsottua
+Puhuja 3: tässä yhteiskunnassa ihmisenä.
+Puhuja 3: Todella suosittelen sitä. Nyt saimme katsottua
 Puhuja 3: hiljattain loppuun sen toisen kauden, joka jäi vielä cliffhangeriin, tulee selvästi kolmas kausi vielä, mutta se on todella
 Puhuja 3: siis mukaansa tempava. Se kertoo tämmöisestä maailmasta, missä siis on kehitetty
 Puhuja 3: sellainen toimenpide, että aivoihinsi voidaan asentaa sellainen siru, joka erottaa työminän
 Puhuja 3: täysin
 Puhuja 3: henkilökohtaisesta
-Puhuja 3: minästä. Se on myyty ihmisille sille, että tämä vaan helpottaa. Jos sulla on työmita, et fiilaa
-Puhuja 3: kauheasti, niin voit
+Puhuja 3: minästä. Se on myyty ihmisille sille, että tämä vaan helpottaa. Jos sulla on työmita, et fiilaa kauheasti, niin voit
 Puhuja 3: kääntää aivot pois
 Puhuja 3: sen ajan, kun olet työpaikalla.
 Puhuja 3: Tämä on mieletön
@@ -327,13 +332,17 @@ Puhuja 1: että se olisi
 Puhuja 1: jossain määrin tahallaan tehnyt sen. Tätä lähdetään selvittämään.
 Puhuja 1: Siinä on
 Puhuja 1: sisarusten välinen kuvaus ja tragedia.
-Puhuja 1: Lopussa tulee ihan käsittämään tämä huikea käänne, mitä kerron tässä. Kannattaa lukea, sellainen kiehtova kirja. En ole varma pystynyt. En tiedä. Kuulostiiko jotenkin
-Puhuja 3: ori hirveän hirveältä.
-Puhuja 2: Okei. Mutta
+Puhuja 1: Lopussa tulee ihan käsittämään tämä huikea käänne, mitä kerron tässä. Kannattaa lukea, sellainen on kiehtova
+Puhuja 1: kirja.
+Puhuja 3: En ole varma pystynyt. En tiedä. Kuulostiiko jotenkin
+Puhuja 3: ori hirveän hirveältä. Okei.
+Puhuja 2: Mutta
 Puhuja 2: ehkä jos sen alun voi nyt hypätä
-Puhuja 2: Niin. Okei, minun sarjassa on sarjassa jotain
+Puhuja 2: juttu
+Puhuja 2: on jotain
 Puhuja 2: aika muuta.
-Puhuja 2: Nimittäin ruokapornoa,
+Puhuja 2: Nimittäin
+Puhuja 2: ruokapornoa,
 Puhuja 2: koska tämä olen Netflixin algoritmien uhri tässä.
 Puhuja 2: Olen joskus katsonut
 Puhuja 2: niitä Sheff Stable kokkiohjelmia.
@@ -349,7 +358,8 @@ Puhuja 2: Siinä
 Puhuja 2: on eri puolilta maailmaa muistaakseni neljä jaksoa,
 Puhuja 2: joissa on
 Puhuja 2: huippupastan tai nuudelien tekijä, joka on erikoistunut. Ja miten ne näyttävät niitä, kun ne tekevät käsin
-Puhuja 2: niitä sekä pastaa että nuudeliaa ja minkälaista
+Puhuja 2: niitä
+Puhuja 2: sekä pastaa että nuudeliaa ja minkälaista
 Puhuja 2: käsityötaitoa ja perinnettä ne välittää eteenpäin.
 Puhuja 2: Ja ne on kauniisti kuvattu ja kauniisti valaistu. Ja ne yhdistyy niiden kokkien
 Puhuja 2: elämäntarinoihin.
@@ -370,8 +380,7 @@ Puhuja 2: huippukokiksi ja ravintoloitsijaksi.
 Puhuja 2: Ja millaisella hinnalla. Että hänellä on myös oma lapsi,
 Puhuja 2: joka tavallaan on tämän kaiken nuudelin tekemisen ansiosta saanut paremman elämän,
 Puhuja 2: mutta tämä, että ei käytännössä ehdi viettää aikaa viettää aikaa sen lapsensa kanssa.
-Puhuja 2: Ja tätä ei
-Puhuja 2: hirveästi problematisoitu
+Puhuja 2: Ja tätä ei hirveästi problematisoitu
 Puhuja 2: siinä, mutta mielestäni se kyllä tosi
 Puhuja 2: aika
 Puhuja 2: pysähyttävä tavalla kuvasi
@@ -387,13 +396,15 @@ Puhuja 2: ja
 Puhuja 2: minkälaista
 Puhuja 2: pastaa kannattaa syödä.
 Puhuja 2: Hyvä.
-Puhuja 3: Ennen kuin mennään... Marko, haluatko kertoa
-Puhuja 3: Suomen suurimman kunnan?
-Puhuja 2: Junkkari. Minun nimeni on Anna-Sofia Bernberg ja äänen ja kuvan ja kaiken muunmahtavan meille tekee tällä viikolla Jonne Piltonen.
+Puhuja 3: Ennen kuin mennään... Marko, haluatko kertoa Suomen suurimman
+Puhuja 3: kunnan?
+Puhuja 3: Kyllä. Mä en tiedä, miksi tämä minua
+Puhuja 2: niin kauan. Kyllä. Mä en
+Puhuja 2: tiedä,
+Puhuja 2: kiitos Anni Huttunen. Kiitos. Kiitos Marko Junkkari. Kiitos. Minun nimeni on Anna-Sofia Bernberg ja äänen ja kuvan ja kaiken muunmattoman meille tekevät tällä viikolla Jonne Piltonen.
 Puhuja 2: Muistakaa lähettää palautetta
 Puhuja 2: uutisraportti ja kuullaan taas ensi viikolla.
-Puhuja 3: Moi,
-Puhuja 0: Tuomas tässä.
+Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardi
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin
 Puhuja 0: yritystappio syntyi.

@@ -27,12 +27,11 @@ Puhuja 0: väliaikaisessa
 Puhuja 0: podcast-studiossa
 Puhuja 0: ovat
 Puhuja 0: politiikan toimittaja Anni Keski-Heikkilä ja ystävien kesken AKH Hei AK Hei! Onko se edelleen talonrakennusprojekti
-Puhuja 0: vai eiks sä asu siinä talossa? Kyllä mä asun siellä. Ihan rakennushan on osa. Se on osa rakennus.
+Puhuja 0: vai etkö asu siinä talossa? Kyllä mä asun siellä. Ihan rakennushan on osa. Se on osa rakennus.
 Puhuja 0: Ei oo kuin väliaikainen asumislupa,
-Puhuja 0: hyvinkään kun voin vielä kiskasta sen pois päältä. Tai sinä hanki niitä sellaisia rullia.
+Puhuja 0: hyvinkään kun voin vielä kiskaista sen pois päältä. Tai sinä hanki niitä sellaisia rullia.
 Puhuja 2: Ei keino vaan siis tämä siirronurmi.
-Puhuja 0: Joo, se on hyvin yksinkertainen
-Puhuja 0: syy.
+Puhuja 0: Joo, se on hyvin yksinkertainen syy.
 Puhuja 0: Rullat
 Puhuja 0: kaksituhatta euroa
 Puhuja 2: säkki siihen en enää kolmekymmentä euroa. Ai niin, mä unohdan, että sä et oo miljonääri.
@@ -50,17 +49,17 @@ Puhuja 0: Kyllä, mutta kävit itseasiassa juttukeikalle
 Puhuja 0: tätä podcastia
 Puhuja 0: Anteeksi Ficohlin.
 Puhuja 0: Piti Yleltä tarkistaa,
-Puhuja 0: mitenhän ne oikeat ankkurit sanovat Ficoneen.
-Puhuja 1: Meilläkin tiedettiin, kun äsken toimituksessa huusin, että miten se lausutaan. Sieltä
+Puhuja 0: mitenhän ne oikeat ankkurit sanoo Ficoneen.
+Puhuja 1: Meilläkin tiedettiin, kun
+Puhuja 1: äsken toimituksessa huusin, että miten se lausutaan. Sieltä
 Puhuja 2: tuli Fitzo.
 Puhuja 0: Mulla on yksi ihminen, kehen luotan ulkomaan asioissa Suomessa. Se on Tom Kankkonen, Ylen
 Puhuja 0: old school toimittaja joka tietää kaiken ja osaa kaiken.
-Puhuja 0: Robert Twitchha,
-Puhuja 0: ammuttiin
-Puhuja 0: tämän hetkisestä tietojen mukaan viisi kertaa,
+Puhuja 0: Robert Twitcha
+Puhuja 0: ammuttiin tämänhetkisestä tietojen mukaan viisi kertaa,
 Puhuja 0: joista kaksi osui.
-Puhuja 0: Hän on
-Puhuja 0: edelleen sairaalassa edelleen varmasti...
+Puhuja 0: Hän on edelleen
+Puhuja 0: sairaalassa edelleen varmasti...
 Puhuja 0: Tai siis tila on nyt vakaa.
 Puhuja 0: Hengenkulintä varmasti tämmöisessä tapauksissa on aina mahdollista, mutta nyt juuri ei uskota, että se välttämättä on tällainen ampumisen seuraus.
 Puhuja 0: Keskustellaan tästä tapahtumasta
@@ -127,8 +126,7 @@ Puhuja 1: ihmismäinen,
 Puhuja 1: että millä elämänaloilla ne on hyödyksi. Mielestäni tämä lista oli tosi
 Puhuja 1: hieno.
 Puhuja 1: Asiakaspalvelu,
-Puhuja 1: aikuisviihde,
-Puhuja 1: nettirikollisuus.
+Puhuja 1: aikuisviihde, nettirikollisuus.
 Puhuja 1: Nää on ne, jotka varmasti tehdään.
 Puhuja 1: Näiden tekijät nauttii siitä ihmismäisestä. Mielestäni se on lähempänä esimerkiksi sitä, mitä me tehdään.
 Puhuja 0: Me
@@ -159,9 +157,9 @@ Puhuja 2: Googlella.
 Puhuja 2: Siellä saatiin kokeilla Google Class.
 Puhuja 2: Ja mä muistan, että mulla on kuvakin, kun mulla on ne päässä, ja ajattelin, että tämä on
 Puhuja 2: todella cool.
-Puhuja 2: Mutta ne Google Class:n toiminnot
+Puhuja 2: Mutta ne Google Classin toiminnot
 Puhuja 2: olivat ehkä vähän aikaansa edellä.
-Puhuja 2: Miten ne olivat? Tavallaan laitat
+Puhuja 2: Miten ne olivat? Tavallaan että laitat
 Puhuja 2: ne lasit silmille ja sitten se voisi näyttää vaikka karttaa
 Puhuja 2: silmiin heijastaa,
 Puhuja 0: heijastaa.
@@ -189,22 +187,21 @@ Puhuja 1: Mä luulen, että se tulee menemään enemmän niin, että se jeppe it
 Puhuja 0: me sivuutatte
 Puhuja 0: nyt sen näkökulmasta siitä. Miten me suhtaudutaan
 Puhuja 0: näihin
-Puhuja 0: osana meidän elämää.
-Puhuja 0: Jos valitaan tämmöinen Tinga vellren esimerkki,
+Puhuja 0: osana meidän elämää?
+Puhuja 0: Jos valitaan tämmöinen Tinga what children esimerkki,
 Puhuja 0: niin sehän valitaan vain sen takia, että se paljastaa
 Puhuja 0: ydintä siitä, mitä me ajatellaan ihmisyydestä ja kanssakäymisestä
-Puhuja 0: ja
-Puhuja 0: tällaisesta. Onko sillä joku arvo, että se on nimenomaan ihminen, joka opettaa sitä matikkaa vaikka opettaisi huonommin?
-Puhuja 2: Me koulussa ollaan katsottu, meillä oli ainakin usein tunnilla niitä katsottiin koulut tv-jaksoja,
-Puhuja 2: ja siinä ihan samalla tavalla katsottiin, kun joku muu kertoi miten okei, tämä on ihan hirveän yksinkertaistus, mutta en ole vielä päässyt tuohon
-Puhuja 1: huolen asteelle. Meinasin kanssa sanoa, että en osaa nyt jotenkin järkyttyä tai jotenkin
+Puhuja 0: ja tällaisesta? Onko sillä joku arvo, että se on nimenomaan ihminen, joka opettaa sitä matikkaa vaikka opettaisi huonommin? No mutta ollaan mekin koulussa katsottu, meillä oli ainakin usein tunnilla niitä katsottiin koulut TV:n
+Puhuja 2: jaksoja ja siinä ihan samalla tavalla katsottiin, kun joku muu kertoi miten okei, tämä on ihan hirveän yksinkertaistus, mutta en ole vielä päässyt
+Puhuja 1: tuohon huolen asteelle. Meinasin kanssa sanoa, että en osaa nyt jotenkin järkyttyä tai jotenkin
 Puhuja 1: ollakaan.
-Puhuja 1: En osaa pelätä asiaa.
-Puhuja 1: Ehkä mä en ole tarpeeksi syvällä tuossa maailmassa,
-Puhuja 1: että näkisin mitä ne uhat on.
+Puhuja 1: En osaa pelätä nyt tuota asiaa.
+Puhuja 1: Ehkä en ole tarpeeksi syvällä tuossa
+Puhuja 1: maailmassa, että
+Puhuja 1: näkisin mitä ne uhat on.
 Puhuja 0: En
-Puhuja 0: minäkään ole järkyttynyt.
-Puhuja 0: Tarkoitan
+Puhuja 0: minäkään
+Puhuja 0: ole järkyttynyt. Tarkoitan
 Puhuja 0: enemmän sitä, että kysymys on läsnä nyt.
 Puhuja 0: Meidän pitää about nyt meidän pitää päättää,
 Puhuja 0: koska kokoomus tulee sieltä ja ne on silleen, että hei,
@@ -222,12 +219,13 @@ Puhuja 2: Aivan. Mutta tämähän on ihan samaa asiaa läsnä meidän omassa amm
 Puhuja 2: että ei teitä toimittajia kautta tarvita,
 Puhuja 2: että sähköt kirjoitetaan
 Puhuja 2: ja
-Puhuja 2: jutut siitä tuleeko aurinkoista vai ei, tekee kone. Olen ollut, että
-Puhuja 2: hyvä, antaa koneen tehdä mitä se pystyy tekemään, jos
+Puhuja 2: jutut siitä, tuleeko aurinkoista vai ei, tekee kone. Olen ollut, että
+Puhuja 2: hyvä,
+Puhuja 2: antaa koneen tehdä mitä se pystyy tekemään, jos
 Puhuja 2: lisäarvo on sama.
-Puhuja 2: Kone tehköön ja yritämme me tehdä jotain semmoista, mikä on koneelle liian vaikeata. Tämä
-Puhuja 2: on myös
-Puhuja 2: EU-vaaliteema.
+Puhuja 2: Kone tehköön ja yritämme me tehdä jotain semmoista, mikä on koneelle liian vaikeata. Aamen.
+Puhuja 1: Tämä on
+Puhuja 1: myös EU-vaaliteema.
 Puhuja 1: Mutta
 Puhuja 1: siis tämähän on asia, jota EU on jo pohtinut.
 Puhuja 1: EU loi tällaiset tekoälysäännöt.
@@ -271,21 +269,22 @@ Puhuja 1: nähneet kuningas Charlesin uuden muotokuvan? Olen.
 Puhuja 0: Olen.
 Puhuja 0: Se on punainen utu.
 Puhuja 1: Se on niin kuin punainen koko maalaus. Se on
-Puhuja 2: tällainen kokovartalokuva,
-Puhuja 2: ehkä joku puolivartalokuva
+Puhuja 1: tällainen kokovartalokuva,
+Puhuja 1: ehkä joku puolivartalokuva
 Puhuja 1: hänestä.
 Puhuja 1: Hänen olkapäälleen laskeutuu Perhonen.
-Puhuja 1: Joo, siinä on kaikkea tällaista.
+Puhuja 1: Kyllä. Joo, siinä on kaikkea tällaista.
 Puhuja 1: Suosittelen
-Puhuja 1: katsomaan
-Puhuja 1: internetistä,
+Puhuja 1: katsomaan internetistä,
 Puhuja 1: vaikka TikTokista tai YouTubesta, tällaisia videoita, joissa analysoidaan taideteosta.
 Puhuja 1: Tämä on siis tällainen hyvin moderni muotokuva. Tämä on ensimmäinen virallinen
 Puhuja 1: maalattu muotokuva, jonka Charlesista on nyt julkaistu.
 Puhuja 1: Se on myös hieno video, missä Charles näkee tämän muotokuvan.
-Puhuja 0: Kaikki tämä lähti liikkeelle Barack Obamasta,
+Puhuja 1: Kuninkaalliset tekevät. Se on aina kuninkaallisfikt.
+Puhuja 1: Silloin olikin tuosta ennen kuin pestä video.
+Puhuja 0: Haluan sanoa, että mielestäni kaikki tämä lähti liikkeelle Barack Obamasta,
 Puhuja 0: joka julkaisi sen office presidenttikuvan
-Puhuja 0: Kehin de Wihlen
+Puhuja 0: Kehin de Wihliin
 Puhuja 0: maalaamana, jossa hän oli vihreän lehvästön
 Puhuja 0: edellä istutuolissa.
 Puhuja 0: Se oli ensimmäinen

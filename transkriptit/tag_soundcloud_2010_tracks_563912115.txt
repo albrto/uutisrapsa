@@ -6,8 +6,8 @@ Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 1: Maailma on muuttunut tavalla,
-Puhuja 1: jota tuskin kukaan osasi ennakoida.
+Puhuja 0: Maailma on muuttunut tavalla,
+Puhuja 0: jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen menetetyt
 Puhuja 0: miljardit.
@@ -53,7 +53,7 @@ Puhuja 1: ja kirjat täällä aika paljon kuvataiteesta,
 Puhuja 1: mutta myös muista asioista.
 Puhuja 1: Loppiaisesta asti olen larpannut ulkomaantoimittajaa.
 Puhuja 0: Se on mahtavaa, miltä sä olet maistunut? Se on niin kuin oikeaa työtä,
-Puhuja 1: ulkomaantoimittajan
+Puhuja 0: ulkomaantoimittajan
 Puhuja 1: Lähinnä se on vaikuttanut minun elämään niin,
 Puhuja 1: että
 Puhuja 1: minun huijari-syndrooma
@@ -92,8 +92,8 @@ Puhuja 1: Ei ole joka kerta. Stradown. Mutta tämä on
 Puhuja 1: selvittää sitä,
 Puhuja 2: Minusta oli äärimmäisen kiehtova.
 Puhuja 2: Siellä on kahdenlaisia duunareita.
-Puhuja 2: Osa, joiden on sanottu että älkää tuloko töihin ettekä saa palkkaamista. Osajat saa
-Puhuja 1: tulla.
+Puhuja 2: Osa, joiden on sanottu että älkää tuloko töihin ettekä saa palkkaamista. Osajat... Ei saa tulla.
+Puhuja 1: On lailla kielletty avaamasta läppäriään. On, mutta sitten on näitä
 Puhuja 2: Kaikki saa liksaa? Kaikki saa liksaa. Joo, tämähän on kiva.
 Puhuja 1: Mutta se on aivan fantastista,
 Puhuja 1: että presidentti voi olla vaan silleen, että jos ette anna mulle rahaa, niin sitten koko maa menee kiinni. Siis nyt viime viikolla FBI valitti sitä, että ne
@@ -127,11 +127,10 @@ Puhuja 0: Kahdeksansataa nolla julkisen hallinnon työntekijää.
 Puhuja 0: Se kuulostaa minusta todella pieneltä. Eikö Suomessa ole joku kaksi. Ei siis se ole se kokonaissumma. Ne on ne,
 Puhuja 1: joihin tämä vaikuttaa, mutta se on noin neljäsosa kokonaisuudesta.
 Puhuja 0: Niin. Mutta kuitenkin heillä on aika pieni julkinen
-Puhuja 0: sektori eko.
-Puhuja 0: Eikö Suomen työvoimasta ole joku puolet julkisella tai jotain tällä tavalla täysin hatusta vetää?
+Puhuja 0: sektori eko. Eikö Suomen työvoimasta ole joku puolet julkisella tai jotain tällä tavalla täysin hatusta vetää?
 Puhuja 0: Kuusikymmentäkahdeksan
 Puhuja 0: pinnaa oli joskus Sipilän mukaansa
-Puhuja 0: prosenttiluku, mikä oli Suomessa julkista?
+Puhuja 0: prosenttiluku, mikä oli Suomessa julkista.
 Puhuja 1: Ehkä siihen olivat nämä alihankkijat laskeneet mukaan. Niin, en tiedä.
 Puhuja 0: Suomen julkinen sektori on kuitenkin työntekijämäärässä
 Puhuja 0: iso.
@@ -151,8 +150,7 @@ Puhuja 0: laittomien maahanmuuttajien
 Puhuja 0: lapsille
 Puhuja 1: kansalaisuus, joka on demomatka. Mutta vain kolmeksi vuodeksi
 Puhuja 1: heitä ei karkoiteta tämän Donald Trumpin lupauksen mukaan, siis tämä ei ollut mikään ikuinen suojelu heille. Okei, kyllä. Tämä oli vaan tällainen kolmen vuoden, teitä ei tarkoiteta kolmeen vuoteen. Saatte
-Puhuja 1: sosiaaliturvaturvallisuudessa.
-Puhuja 0: Tämä on ollut demokraateille
+Puhuja 0: sosiaaliturvaturvallisuudessa. Tämä on ollut demokraateille
 Puhuja 0: tosi tärkeitä teemoja
 Puhuja 0: usean vuoden ajan ja Trump käydä
 Puhuja 0: pelosen
@@ -163,7 +161,8 @@ Puhuja 2: Eikö niin? Ainakin tänään on Senaatissa
 Puhuja 2: sekä demokrattilähtöinen
 Puhuja 2: että riugrikainilähtöinen
 Puhuja 2: mielestäni toinen on. Kompromisesitys.
-Puhuja 2: Niin, toinen on mennyt jo kongressista läpi. Siinä demokraattien
+Puhuja 2: Niin, toinen on mennyt jo kongressista läpi ja siinä
+Puhuja 2: demokraattien
 Puhuja 2: esityksessä ne esittävät, että
 Puhuja 2: avattaisiin vain hallinto ja selvitetään riidat myöhemmin, että siinä oli jonkinlainen, että päästäisiin eteenpäin tästä. Mutta ainakin analyysi, minkä minä tästä
 Puhuja 0: luin
@@ -186,7 +185,7 @@ Puhuja 0: läheiseen baariin ja siellä muita
 Puhuja 0: pakkasen kestäviä ystämiänne.
 Puhuja 0: Te haluatte viidettä jalalla tarinoilla.
 Puhuja 0: Mistäs heille puhutte?
-Puhuja 0: Marko? Aloitanko
+Puhuja 2: Marko? Aloitanko
 Puhuja 2: minä? Tämähän tuli nyt yllättäen. Onko meillä tämmöinen osio tässä lähetyksen lopussa?
 Puhuja 2: Oikeastaan kaksi vaihtoehtoa.
 Puhuja 2: Tänään
@@ -256,7 +255,7 @@ Puhuja 0: suorastaan
 Puhuja 1: Goria. Näitä öisin luen, skrollailen menemään.
 Puhuja 0: Kaksituhatta neljä,
 Puhuja 0: mutta
-Puhuja 0: edelleen hengen. Ei siis,
+Puhuja 1: edelleen hengen. Ei siis,
 Puhuja 1: voisin lukea myös jotain syvällisiä artikkeleita näistä mutta
 Puhuja 1: haluan
 Puhuja 1: tuohduttavimmat detaljit. Siinä
@@ -285,7 +284,7 @@ Puhuja 0: Mutta kaikkea muuta.
 Puhuja 0: Juttu, Paimella Colleffin juttu, oli silmiä avaava,
 Puhuja 0: mielenkiintoinen
 Puhuja 0: ja hieno.
-Puhuja 0: Tarinankerrallinen
+Puhuja 0: Se tarinankerronnallinen
 Puhuja 0: kehikko on Julia Rea, joka tuomittiin oman poikansa
 Puhuja 0: tappamisesta
 Puhuja 0: vankilaan.
@@ -376,8 +375,7 @@ Puhuja 2: taloustieteen oletuksista,
 Puhuja 2: eli ihmiset lähtökohtaisesti
 Puhuja 2: pyrkivät maksimoimaan tulonsa
 Puhuja 2: ohi kaiken muun.
-Puhuja 2: Täällä on nyt yhtenä rintavana kaikki ekonomisti sanoi että juttu on ihan paskaa. Joo.
-Puhuja 0: Minä luin itse asiassa nuo
+Puhuja 2: Täällä on nyt yhtenä rintavana kaikki ekonomisti sanoi että juttu on ihan paskaa. Joo. Minä luin itse asiassa nuo
 Puhuja 0: vastaan sanomiset
 Puhuja 0: Twitteristä itsekin, mutta mielestäni
 Puhuja 0: tässä ekonomistit
@@ -415,8 +413,8 @@ Puhuja 0: asiasta. Melkein kaikki kritiikki, mitä olen taloustieteestä
 Puhuja 0: lukenut, on validia, mutta se ei kohdistu taloustieteeseen
 Puhuja 0: tieteenä, vaan taloustieteen
 Puhuja 0: käyttöön osana yhteiskunnallista
-Puhuja 0: narratiivia ja tarkastelukehtyä.
-Puhuja 2: Onneksi ei mennä tässä nyt tämän pidemmälle, vaan lopetetaan lähetystä.
+Puhuja 0: narratiivia ja tarkastelukehiettyä.
+Puhuja 2: Onneksi ei mennä tässä nyt tämän pidemmälle, vaan lopetetaan lähetys.
 Puhuja 1: Palataan tähän.
 Puhuja 0: Siinä kaikki tältä erää.
 Puhuja 0: Kiitos Marko.

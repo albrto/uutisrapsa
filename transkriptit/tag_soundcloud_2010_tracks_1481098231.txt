@@ -59,11 +59,11 @@ Puhuja 0: ja vaikuttamisyritykset
 Puhuja 0: ja niillä. Tarkoitan semmoista
 Puhuja 0: normaalia hyvää vaikuttamista, että hei, kirjoita tästä, tuosta juttu ja näin, näin, näin.
 Puhuja 3: Lisääntyykö? Ehkä vähän lisääntyy ja ehkä
-Puhuja 3: se tapahtuu aina. Tämä tapahtuu jo monta viikkoa sitten, että hyvinkin
+Puhuja 3: se tapahtuu aina. Tää tapahtuu jo monta viikkoa sitten, että hyvinkin
 Puhuja 3: fiksuina pitämäni
 Puhuja 3: poliitikot menevät sekaisin ja sitä rupeaa kitisemään
 Puhuja 3: pikkuasioista.
-Puhuja 0: Ai että tulee semmonen hiukan poissa. Miksi häntä ei huomioitu tai että tää oli nyt vääräotsikoitu. Ehkä sitä
+Puhuja 0: Ai että tulee semmonen hiukan poissa. Miksi häntä ei huomioitu tai että tää oli nyt välotsikoitu. Ehkä sitä
 Puhuja 3: pommitusta ei niin kauheesti tule että mun mielestä ne
 Puhuja 3: ei jankaan minulle.
 Puhuja 2: What aboutismi
@@ -81,7 +81,8 @@ Puhuja 2: Mutta
 Puhuja 2: aina on määrät aihevalinnat
 Puhuja 2: joidenkin mielestä, mutta sitten taas ne käy. Ja sitten olen
 Puhuja 3: tehnyt tämmöisiä,
-Puhuja 3: olen töissä Hesarin sunnuntaisivuilla ja olen tehnyt sunnuntaisivuille pari isompaa
+Puhuja 3: olen siis töissä Hesarin sunnuntaisivuilla ja olen tehnyt sunnuntaisivuille
+Puhuja 3: pari isompaa
 Puhuja 3: vaalikampanjoita
 Puhuja 3: juttua, jotka molemmat ovat
 Puhuja 3: hyväntuulisia
@@ -94,8 +95,7 @@ Puhuja 0: lehdessä ollutta virhettä, joten se täytyy oikaista, koska siitä m
 Puhuja 0: Journalismissa,
 Puhuja 0: jota tämäkin podcast
 Puhuja 0: hämmästyttävä kyllä ennustaa.
-Puhuja 0: Meillä on semmoinen käytäntö, että jos kuulija vaikka bongaa virheen, niin siitä voi meille reklamoida. Jos virhe on todellakin virhe ja se on olennainen, sitten meillä on velvollisuus
-Puhuja 0: oikaista se
+Puhuja 0: Meillä on semmoinen käytäntö, että jos kuulija vaikka bongaa virheen, niin siitä voi meille reklamoida. Jos virhe on todellakin virhe ja se on olennainen, sitten meillä on velvollisuus oikaista se
 Puhuja 0: samassa paikassa, missä se virhe on tehty. Eli tässä podcastissa.
 Puhuja 0: Näin
 Puhuja 0: olen lukenut
@@ -103,11 +103,11 @@ Puhuja 0: Helsingin Sanomien juttua, jossa
 Puhuja 2: väitettiin virheellisesti, että Riikka Purra olisi sanonut keskustella. Myös Työmies Matti Putkonen toimistolla on laittanut rastiin johonkin ruutuun, josta purra ei tiedä mitään.
 Puhuja 2: Tässähän on tavallaan samahan nämä mitä tulee sote-puolen
 Puhuja 2: säästöihin mistä tekin
-Puhuja 2: kysyitte siellä tentissä, että mitä ne nyt oikeasti koskevat ja Lulunanteella
+Puhuja 2: kysyitte siellä tentissä, että mitä ne nyt oikeasti koskee ja Lulunanteella
 Puhuja 3: ja Lulunalla. Ne eivät olleet sotepuolella. Ne olivat kaikki säästöt. Persujen
 Puhuja 3: talousohjelmassa lukee, että tehdään
 Puhuja 3: juustohöylällä
-Puhuja 3: kaksi neljä prosenttia :n leikkaukset
+Puhuja 3: kaksi neljä prosenttia: n leikkaukset
 Puhuja 3: kaikille hallinnonaloille.
 Puhuja 3: Sitten on kysymys, että koskeeko
 Puhuja 3: leikkaus pelkästään hallintoa näillä kaikilla hallinnonaloilla vai koskeeko se koko sitä hallinnon alan budjettia?
@@ -117,8 +117,8 @@ Puhuja 3: sanoi Teemu Muhosen mainoissa jutussa, että se koskee
 Puhuja 3: koko sitä pottia.
 Puhuja 3: Eli silloin puhuttaisiin kymmenen miljardista.
 Puhuja 3: Riikka Purra sanoi
-Puhuja 3: että se koskee vain hallintoa ja silloin puhuttaisiin muutamista sanoista miljardista. Kyllähän tässä täytyy
-Puhuja 2: kysyä se kysymys, että
+Puhuja 3: että se koskee vain hallintoa ja silloin puhuttaisiin muutamista sanoista miljardista. Kyllähän tässä
+Puhuja 2: täytyy kysyä se kysymys, että
 Puhuja 2: nämä ovat kuitenkin
 Puhuja 2: taloudellisesti
 Puhuja 2: aika
@@ -128,8 +128,9 @@ Puhuja 2: ja
 Puhuja 2: asioiden hoitamisen taso on jos puoluejohdollakin
 Puhuja 2: on näin
 Puhuja 2: erilaisia näkemyksiä näistä asioista
-Puhuja 3: vai onko tämä vähän tämmöistä että ne vaaleissa tuota tuonne ja sitä sinne? Niin minusta se näkyy. Perustus on kuitenkin aika nuori puolue ja heillä on ehkä
-Puhuja 3: tavallaan Muistaa kun olen tehnyt juttuja pitkin matkaa, jossa on kysytty kaikkien eduskuntapuolueiden kantaa
+Puhuja 2: vai onko tämä vähän tämmöistä, että ne ovat vaaleissa tuota
+Puhuja 3: tuonne ja sitä sinne? Niin minusta se näkyy. Perustus on kuitenkin aika nuori puolue ja heillä on ehkä
+Puhuja 3: tavallaan... Muistaa kun olen tehnyt juttuja pitkin matkaa, jossa on kysytty kaikkien eduskuntapuolueiden kantaa
 Puhuja 3: johonkin viinien tuomiseen maitokauppaan.
 Puhuja 3: Kyllä näissä vanhemmissa puolueissa ei sitä vastausta vaan joku läiskäise sinne, vaan ne kierrättää sen aina
 Puhuja 3: jonkun
@@ -138,13 +139,14 @@ Puhuja 3: tai puheenjohtajan tai jonkun kautta. Kyllä ne kauhean tarkasti muoto
 Puhuja 3: Mutta Persuissa näköjään Matti Putkonen tai joku muu pääsee laittamaan uuteen
 Puhuja 2: haluamallaan tavalla, mikä on vähän hassua. Mutta siinä tietenkin sitten kun ajatellaan hallitusyhteistyötä,
 Puhuja 2: että kyllähän sitten kun tehdään
-Puhuja 2: muutoksia, lakimuutoksia tai rahoitusmuutoksia, niin aina on virkamieskunta, jossa
+Puhuja 2: muutoksia, lakimuutoksia
+Puhuja 2: tai rahoitusmuutoksia, niin aina on virkamieskunta, jossa
 Puhuja 2: vahvoilla
 Puhuja 2: ja hartioilla valmistellaan
 Puhuja 2: asioita.
 Puhuja 2: Jos puolueilla on
-Puhuja 2: monenlaista
-Puhuja 2: käsitystä perustavanlaatuisista asioista,
+Puhuja 2: monenlaista käsitystä
+Puhuja 2: perustavanlaatuisista asioista,
 Puhuja 2: niin kuka siellä pyörittää. Onko kokoomus
 Puhuja 2: ja virkamieskunta,
 Puhuja 2: jotka nuotittaa?
@@ -155,7 +157,7 @@ Puhuja 0: nolla
 Puhuja 0: arabiankieliseltä
 Puhuja 0: äänestäjältä tai asukkaalta
 Puhuja 0: ääniä.
-Puhuja 2: Mutta aika loppu Luulen, että nyt, kun nostat tämän esille,
+Puhuja 2: Mutta aika loppu... Luulen, että nyt, kun nostat tämän esille,
 Puhuja 2: jos me ei yhtään keskustella tästä, meille tulee hirveät cancelointi ja sensori.
 Puhuja 0: Saanko sanoa tästä yhden asian? Mä haluan sanoa tähän sen, että
 Puhuja 0: kuunnelkaa ne vittu.
@@ -167,15 +169,16 @@ Puhuja 0: Tuukka Tuomas-Jukka ja Adille Sevimli.
 Puhuja 0: Kaikesta
 Puhuja 0: tästä Hussein altaeen
 Puhuja 0: kampanjointiin, jossa on tosi paljon kaikkea epäilyttävää,
-Puhuja 0: tämä oli ylivoimaisesti paras
-Puhuja 0: juttu ylioppilaslehtipiste.
-Puhuja 2: Tässä on ihan puoli minuuttia tai kaksikymmentä sekuntia yhden asian. Mun mielestä tämä
+Puhuja 0: tämä oli ylivoimaisesti
+Puhuja 2: paras juttu ylioppilaslehtipiste. Tässä on ihan puoli minuuttia tai kaksikymmentä sekuntia yhden asian. Mun mielestä tämä
 Puhuja 2: keissi, johon ei nyt mennä yksityiskohtiin, mutta
 Puhuja 2: että tämä keissi,
 Puhuja 2: johon ei nyt mennä yksityiskohtiin. Mutta mielestäni tämä osoittaa, että meidän vaalikeskustelu operoi isojen enemmistöjen tasolla. Puhutaan työttömät tai eläkeläiset tai jotkut tämmöiset. Sitten on tällaisia
 Puhuja 2: isoja äänestäjäryhmiä,
 Puhuja 2: jotka jotenkin ovat missään olemassa. Sitten voi syntyä
-Puhuja 0: joissa puhutaan muita vaalipuheita, mitä muualla. Se on kiinnostavaa. Puhutaan vielä loppuun Ranskan tilanteesta. Presidentti Emmen Lelma Kron kertoi keskiviikon suorassa televisiohaastattelussa,
+Puhuja 2: mikrotaskuja,
+Puhuja 2: joissa puhutaan
+Puhuja 0: muita vaalipuheita, mitä muualla. Se on kiinnostavaa. Puhutaan vielä loppuun Ranskan tilanteesta. Presidentti Emmenuel Macron kertoi keskiviikon suorassa televisiohaastattelussa,
 Puhuja 0: että ei aio perääntyä välttämättömästä
 Puhuja 0: eläkeuudistuuksestaan.
 Puhuja 0: Torstaina ranskalaiset järjestivät yleislakonia, yli miljoona ihmistä osoitti raivokkaasti mieltään kaduilla ympäri maata.
@@ -196,9 +199,9 @@ Puhuja 0: mutta kyse on noin kymmenen miljardista eurosta.
 Puhuja 0: Se on Lawinin mukaan
 Puhuja 0: saman verran kuin mitä Ranska laittoi pandemian aikana ilmaisiin
 Puhuja 0: koronatesteihin.
-Puhuja 0: Ei siis mitään. Se uudistus on mitätön Ranskan kokoisessa maassa.
-Puhuja 0: Ja
-Puhuja 0: silti
+Puhuja 0: Ei siis mitään. Se uudistus on mitätön
+Puhuja 0: Ranskan kokoisessa maassa.
+Puhuja 0: Silti
 Puhuja 0: makroruno tämän
 Puhuja 0: läpi kaikkien demokraattisten
 Puhuja 0: elinten ilman ja läpi massiivisen
@@ -211,23 +214,23 @@ Puhuja 2: presidentinrenki.
 Puhuja 2: Näin mä luin just. Joo, just näin.
 Puhuja 0: Sitten ranskalaiset aloittivat tämän mellakointinsa.
 Puhuja 3: Jokainen osaa.
-Puhuja 0: Jokainen osaa.
-Puhuja 0: Olen jotenkin
+Puhuja 0: Jokainen osaa. Olen
+Puhuja 0: jotenkin
 Puhuja 0: super, super tyytyväinen siihen, että ne pistää vastaan. Mun mielestä on aivan paskaa kaikki Macronin selitykset, että pitää, pitää, pitää ja näin. Ranskan
 Puhuja 0: valtionlainoja alennetaan.
 Puhuja 0: VA-vaa, ei kiinnosta ollenkaan. Hyvä just paikat paskaksi ja pari liekkeihin. Oliko teillä samanlainen
 Puhuja 0: ottei tähän?
 Puhuja 3: Mun oli pakko myöntää, että Ranskan eläkeuudistus
-Puhuja 3: ei loppujen lopuksi En ole
+Puhuja 3: ei loppujen lopuksi... En ole
 Puhuja 3: kauheasti. Ihan sama, mikä heidän eläkkeen kanssa on. Ovat toki EU-maa ja iso EU-maa.
 Puhuja 3: Mutta
-Puhuja 3: onhan tämä ollut
+Puhuja 3: onhan tämä ollut...
 Puhuja 3: Ranskassa on tämmöinen mielenosoituksen
 Puhuja 3: osoittamisen kulttuuri. Tuo on se vähän eri meininki. Jos Suomessa tietäisi eläkeuudistus, niin tuossa olisi yhtenä päivänä
 Puhuja 3: viisituhatta SAK heppua
 Puhuja 3: Senaatintorilla
 Puhuja 3: tai eduskunnan edessä. That's it.
-Puhuja 2: Meillähän tuli Anteeksi.
+Puhuja 2: Meillähän tuli... Anteeksi.
 Puhuja 2: Meillä oli vuoden kaksituhatta seitsemäntoista alusta Voiman eläkeuudistus.
 Puhuja 2: Se on siis kaksituhatta neljätoista se valmistelu. Se oli ilmeisesti kahden
 Puhuja 2: hallituksen välillä mennyt se asia. Ja sitten kun tuli voimaan, niin minun piti oikein tarkastella arkistosta, että minkä tyyppisiä mielenilmauksia
@@ -259,7 +262,7 @@ Puhuja 0: eläke on se, että sä et pelaa, pysyt hengissä. Myös silleen, ett�
 Puhuja 3: Teemu Keskisarehan ehdotti sitä, että palattaisiin tähän vanhaan systeemiin. Vanhanta
 Puhuja 3: että
 Puhuja 0: Mutta sitten,
-Puhuja 0: että mun mielestä on jotenkin se Mua vaivaa jatkuvasti se kysymys,
+Puhuja 0: että mun mielestä on jotenkin se... Mua vaivaa jatkuvasti se kysymys,
 Puhuja 0: että miten voi olla mahdollista, että maailmassa, joka on joka sekunti
 Puhuja 0: ja yltäkylläisempi,
 Puhuja 0: jossa kaikki on sujuvampaa ja kätevämpää
@@ -281,11 +284,11 @@ Puhuja 0: elinajanodote
 Puhuja 0: on kasvanut samassa suhteessa kuin rikkaus. Siitä se johtuu, että ihmiset elävät
 Puhuja 0: vanhemmaksi ja näin ja näin.
 Puhuja 0: Mutta myös, että tämän edistyksen rahoista iso osa on mennyt myös muualle kuin ihmisille, että ne kerääntyy tiettyihin paikkoihin. Mutta kyllähän myös meidän elintaso on se, että mitä
-Puhuja 2: laitteita ja VIPstaakee meidän ympärillä.
-Puhuja 0: Niin, olen kerännyt tästä isot osat hedelmistä
+Puhuja 0: Olen kerännyt tästä
+Puhuja 0: isot osat hedelmistä
 Puhuja 0: nimeltä consumers. Eli ihmiset saa
 Puhuja 0: aivan mielettömiä
-Puhuja 3: asioita. Onhan se jotenkin
+Puhuja 3: asioita. Onhan se jotenkin...
 Puhuja 3: Elinikä on pidentynyt ja myös se, että ylipäätään terveydenhoito ja lääketiede.
 Puhuja 3: Ihminen joka jää kuusi neljä tai kuusi viisi:nä
 Puhuja 3: eläkkeelle,
@@ -323,11 +326,11 @@ Puhuja 0: Se ei todellakaan ole vain sillä vitun näppäimistöllä istumista. 
 Puhuja 0: aivan hullua
 Puhuja 0: haaskata tämä yksi ainoa.
 Puhuja 2: Mitä, mistä täällä
-Puhuja 0: on? Se, että se on niin käsittämätön
-Puhuja 0: ajatus, että ihmiset
+Puhuja 1: on? Se, että se on niin käsittämätön
+Puhuja 0: ajatus,
+Puhuja 0: että ihmiset...
 Puhuja 0: Että ne vielä eläkkeellä
-Puhuja 0: jatkaisi
-Puhuja 0: sitä paskaa.
+Puhuja 0: jatkaisi sitä paskaa.
 Puhuja 0: Vaikka sun työ olisi upea, sun työ on
 Puhuja 0: ottamassa vastaan
 Puhuja 0: sormihierrontoja
@@ -336,7 +339,7 @@ Puhuja 0: Mahtava testaa kuusikymmentäkaksi-vuotiaaksi
 Puhuja 0: asti. Mutta sen jälkeen tee äkkiä jotain muuta. Älä me hirveetä. Sulla
 Puhuja 0: on ainoata elämää siihen, että sä teet yhtä asiaa.
 Puhuja 0: Tee miljoonaa eri asiaa. Mie banaanin kääriäx Borne on. Tee tätä planeettaa!
-Puhuja 2: Se ei oo ehkä sitten meidän Ai sulutakaapa,
+Puhuja 2: Se ei oo ehkä sitten meidän... Ai sulutakaapa,
 Puhuja 0: tee sinne mulle ja mitä tahansa.
 Puhuja 2: Niin, mutta onhan ihmisillä paljon semmoisia asioita, jotkut esimerkiksi maanisia hiihtäjiä,
 Puhuja 2: joista ne nauttii hirveästi. Sitten kun ne jää eläkkeelle, ne jatkaa maanista hiihtämistä.
@@ -373,14 +376,14 @@ Puhuja 2: on jotenkin rajaa tuo vuoteen kaksituhatta kolmekymmentäyhdeksän ast
 Puhuja 2: lehtien aineistoihin.
 Puhuja 2: Suosittelen, että käykää vaikka oman paikkakunta tai oman suvun henkilöiden
 Puhuja 2: nimellä tai jotain mikä on kiinnostavaa itsellä tai oman kadun osoitteen nimellä,
-Puhuja 2: koska sieltä voi löytyä
-Puhuja 2: aika jänniä asioita historiasta.
+Puhuja 2: koska sieltä voi
+Puhuja 2: löytyä aika jänniä
+Puhuja 2: asioita historiasta.
 Puhuja 2: Olen aikaisemmin
-Puhuja 2: yhdessä, olikohan Suomen Kuva-lehden
-Puhuja 2: tai Hesari-arkistossa,
-Puhuja 2: kokeillut mun vanhojen sukulaisteni nimillä. Löysin
+Puhuja 2: yhdessä, olikohan Suomen Kuvalhden tai Hesari-arkistossa,
+Puhuja 2: kokeillut mun vanhojen sukulaistenni nimillä. Löysin
 Puhuja 2: uutisen
-Puhuja 2: jostain 20-luvulta, kun eräs mun vähän etäisempi sukulainen
+Puhuja 2: 20-luvulta, kun eräs mun vähän etäisempi sukulainen
 Puhuja 2: oli
 Puhuja 2: joutunut ikävään tämmöiseen
 Puhuja 2: johonkin muualle onnetto, mutta jonkun reentaan jonkun alle. Se oli jännä
@@ -395,27 +398,24 @@ Puhuja 2: Siellä voi käydä arkistoissa tutkia vaikka sitä, että oliko media
 Puhuja 2: Kansalliskirjasto. Fi
 Puhuja 3: Mä voisin maanantaina jatkuu tämä
 Puhuja 3: HBO:n
-Puhuja 3: kerran.
-Puhuja 0: Aivan mahtavaa, se jatkuu. Mun täytyy vaihtaa mun suositusta.
-Puhuja 0: Mä lupasin pitkän nyrkktisuosituksen.
-Puhuja 0: Nyt mä
 Puhuja 0: lupaan lyhyen suosituksen. Nimittäin se on myös successon.
-Puhuja 0: Nimittäin
-Puhuja 0: session
-Puhuja 0: Eiku anteeksi? SAession
-Puhuja 0: sessio
+Puhuja 0: Nimittäin......
+Puhuja 0: Session...
+Puhuja 0: Eiku anteeksi? SAession...
+Puhuja 0: Sessio
 Puhuja 0: podcast,
 Puhuja 0: joka alkoi tulla
 Puhuja 0: viime jakson yhteydessä. Eli kun ensimmäinen suggestion-jakso
 Puhuja 0: tuli ulos, Helsingin Sanomien kulttuuritoimituksen
-Puhuja 0: Hilla Kökköjä Eleonora Riihinen Onko tämmöinen? Ovat alkaneet tehdä
+Puhuja 0: Hilla Kökköjä Eleonora Riihinen... Onko tämmöinen?...... Ovat alkaneet tehdä
 Puhuja 0: jakso jaksolta tulevaa suggestion-podcastia.
 Puhuja 0: Se on sillä tavalla, että heti, kun
 Puhuja 0: jakso on ulos HBO:lla ja tullut Suomessa,
 Puhuja 0: tämä podcasti on kuunneltavissa.
 Puhuja 0: Siinä
 Puhuja 0: he käyvät läpi, mitä tapahtuu, analysoivat, puhuvat siitä, reagoivat tapahtumia tällä tavalla yhdessä katsoen. Kuulostaa ihan. Onko terminä tämä suggession vähän samanlainen kuin siinä Jäni Hanskan tämä Pöpose?
-Puhuja 0: Pitäis ottaa täyvästi. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä esimerkki. Se on hyvä
+Puhuja 0: Sovelluksesta
+Puhuja 0: Spotifysta. Ei se mitään. Ei se mitään. Ei se mitään. Ei se mitään. Se on se, että se on. Se on se, että se on se, että se on se, että se on se, että se on se, että se on se, että se on se, että se on se
 Puhuja 0: Ja löytyy Applesta ja löytyy kaikkialta muualta, mistä kuuntelette
 Puhuja 0: podcasteja.
 Puhuja 0: Siinä kaikki tältä erää. Mun nimi on Tuomas Peltomäki. Kiitos Marko Junkkari. Kiitos. Kiitos. Kiitos, Salla Vuorikoski. Annankuva ja kaiken muun mahtava meille G. Mikko Peura, kiitos Mikko.

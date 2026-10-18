@@ -88,8 +88,8 @@ Puhuja 3: isommat muutokset,
 Puhuja 3: vaikka kaasuputket
 Puhuja 3: räjähtelee
 Puhuja 3: Itämerelle, niin onhan se ihan poikkeuksellista.
-Puhuja 3: Mutta en mä nyt ehkä kuitenkaan näitä Pekan ihan
-Puhuja 2: näitä yhteenvetoja allekirjoita kuitenkaan. Niin ja toveri on näissä kuitenkin aika yksi, jos mietitään muita
+Puhuja 3: En mä nyt ehkä kuitenkaan näitä Pekan ihan
+Puhuja 2: näitä yhteenvetoja allekirjoitoita kuitenkaan. Niin ja toveri on näissä kuitenkin aika yksi, jos mietitään muita
 Puhuja 2: eurooppalaisia maita, niin siellähän tuntuu olevan, että
 Puhuja 2: Suomessakin tendenssi on aika pitkälti se, että pyritään korostamaan sitä, ettei ole missään sodassa, jos miettii Naton pääsihteerä,
 Puhuja 2: Ranskan presidentti, Macronia,
@@ -97,8 +97,8 @@ Puhuja 2: Puolan pääministeri Donald TASKia.
 Puhuja 2: Kaikissa puheissa aina korostaa, että ei olla Venäjän kanssa sodassa vaan tuetaan Ukrainaa, joka käy omaa sotansa Venäjän kanssa, että ollaan yritetty
 Puhuja 2: välttää mielikuvaa, että me oltaisiin osallisia tässä
 Puhuja 2: sodassa tietyllä tavalla. Mitä mieltä te muutto olette? Asiantuntijatkinhan
-Puhuja 4: jyrähti meidän jutussa eilen, että ei tämä nyt ole mikään sota. Tämä on sabotan asia ja se on täysin eri asia kuin asellinen hyökkäyssota,
-Puhuja 4: jossa tutkimusjohtaja Marko Lehti sanoi myös. Kyllä minä itsekin näkisin, tiedän että ihan hetken ei ole tapahtumassa.
+Puhuja 4: jyrähti meidän jutussa eilen, että ei tämä nyt ole mikään sota. Tämä on sabotan asia ja se on täysin eri asia kuin asellinen
+Puhuja 4: hyökkäyssota, jossa tutkimusjohtaja Marko Lehti sanoi myös. Kyllä minä itsekin näkisin, tiedän että ihan hetken ei ole tapahtumassa.
 Puhuja 4: Mutta jossakin vaiheessa uraanini olisi kyllä tosi hienoa päästä
 Puhuja 4: siihen neljä plus kolme rytmiin elämään.
 Puhuja 3: En tiedä, kuka tähän vastaisi jotenkin toisin, että jos teet neljä päivää töitä, mutta saat saman liksan niin tottakai
@@ -177,7 +177,7 @@ Puhuja 2: mihin aikaan sitä tietyllä tavalla tekee monessa tilanteessa.
 Puhuja 2: Kirjoittaa pystyy aamupäivällä tai iltapäivällä
 Puhuja 2: tai nelinä
 Puhuja 2: päivänä
-Puhuja 2: viikossa, vaikka on tiettyjä asioita, mitkä pitää hoitaa, niin jos yhtenä päivänä joku puuttuu, niin maailma ei kaadu siihen. Mutta joku tehdas voi kaatua siihen, jos sieltä yksi ihminen puuttuu. Kyllä väitän, että asiantuntijatöissä,
+Puhuja 2: viikossa, vaikka on tiettyjä asioita, mitkä pitää hoitaa, niin jos yhtenä päivänä joku puuttuu, niin maailma ei kaadu siihen. Joku tehdas voi kaatua siihen, jos sieltä yksi ihminen puuttuu. Kyllä väitän, että asiantuntijatöissä,
 Puhuja 4: ihan
 Puhuja 4: sama oletko toimistolla kahdeksan tuntia vai kuusi tuntia, niin se panos mitä pystyt tekemään ei siitä tavallaan kasva sen tuntimäärän mukaan.
 Puhuja 3: Mä olen kyllä eri mieltä tuosta. Oikeasti,
@@ -193,9 +193,8 @@ Puhuja 3: Mäkin suhtaudun on aika kriittisesti, että millä aloilla tämä on 
 Puhuja 1: Tuo mistä
 Puhuja 1: itse puhuin alussa
 Puhuja 1: oli tavallaan sellainen missä olisi sitten kahdeksankymmentä prosenttinen
-Puhuja 1: työaika ja myös
-Puhuja 1: palkka.
-Puhuja 4: Mutta senhän sä voit tehdä ihan siis kunhan on vaan töitä niin sä voit periaatteessa ilmoittaa, että Jos vaan työnantajalle sopii, eihän se nyt vain ole mitään suurta yhteiskunnallista muutosta, että sä itse teet vähemmän ja tienaat vähemmän. Kuinka monta ihmistä sä tiedät, jotka tekee?
+Puhuja 1: työaika ja myös palkka.
+Puhuja 4: Mutta senhän sä voit tehdä ihan siis kunhan on vaan töitä niin sä voit periaatteessa ilmoittaa, että Jos vaan työnantajalle sopii, eihän se nyt vaan ole mitään suurta yhteiskunnallista muutosta, että sä itse teet vähemmän ja tienaat vähemmän. Kuinka monta ihmistä sä tiedät, jotka tekee?
 Puhuja 3: Tällä
 Puhuja 4: hetkellä yksi hyvä ystäväni harkitsee juuri tätä uudesta. Tämä
 Puhuja 2: on myös, että Suomessa ylipäätään tällaisille erilaisille vaihteudelle on huomattavasti
@@ -230,8 +229,7 @@ Puhuja 3: Jitkin on
 Puhuja 3: nuoret työelämän kynnyksellä olevat eivät
 Puhuja 3: muuta muualle EU:hun. Ainakaan minä en tunnista tällaista ilmiötä.
 Puhuja 4: Jos tulisi case, että nyt vaan ilmoitamme, että teillä on kuusipäiväinen työviikko, miten absurdia. Tämä siis tapahtuu viime marraskuussa suomalaisessa yrityksessä.
-Puhuja 4: En tiedä sinullasitteko, mutta tämä Bronto Scuilyff
-Puhuja 4: ilmoitti, että nyt tehdään kuusipäiväistä työviikkoa, pitää saada hommat valmiiksi. Sit siitä uutisoitiin.
+Puhuja 4: En tiedä sinullasitteko, mutta tämä Bronto Scuilft ilmoitti, että nyt tehdään kuusipäiväistä työviikkoa, pitää saada hommat valmiiksi. Sit siitä uutisoitiin.
 Puhuja 4: Ihmiset ei siis tullut legit töihin. Tämä oli siis.
 Puhuja 4: Brotta Scileft luopui kohun nostattaneestä kuuden päivän työviikosta, kun työntekijät eivät saapuneet töihin. Toimitusjohtajan
 Puhuja 4: sitaattien henkisiä traumoja jäi jo.
@@ -273,7 +271,8 @@ Puhuja 2: Ei tällaista.
 Puhuja 2: No niin, ehkä tästä on hyvä siirtyä.
 Puhuja 2: Lopuksi vielä
 Puhuja 2: kiusallisten
-Puhuja 2: tilanteiden varalta hyviin
+Puhuja 2: tilanteiden
+Puhuja 2: varalta hyviin
 Puhuja 2: keskusteluaiheisiin.
 Puhuja 2: Kun te nyt teette kuusipäiväistä
 Puhuja 2: työviikkoa,
@@ -290,7 +289,7 @@ Puhuja 2: niiden työkavereiden kanssa juttelisitte? Mitä suosittelisitte
 Puhuja 2: ajanvietteeksi
 Puhuja 2: sille ainoalle vapaapäivällä?
 Puhuja 4: Minäpäs starttaa. Tässä juuri pohdin, että suositukset tulee varmaan pysymään aika paljon siellä rikosalueella,
-Puhuja 4: koska vietän
+Puhuja 4: koska vietän...
 Puhuja 4: Viettän aika rikosten parissa. Viettän ison osan rajoistani rikosten parissa. Joo, mun suositutus. Suositukseni on
 Puhuja 4: vähän tällainen kirjtosuositus.
 Puhuja 4: Ylen erinomainen
@@ -306,7 +305,7 @@ Puhuja 4: Olen hahmottanut sellaisen janan, missä on tällaiset
 Puhuja 4: keskustelupodit, missä vähän kerrataan rikosta, ehkä naureskellaan jotain toisen juontoparin kanssa hyvän mielen ikään kuin tällaista sisältöä, mitä ihmiset kuuntelee, kun ne haluavat nukkua. Sitten on se toinen pää, mikä on sellaista tutkivaa narratiivista
 Puhuja 4: rikospodisettiä.
 Puhuja 4: Tämä menee
-Puhuja 4: tähän tutkivan narratiivinen rikospodijanan
+Puhuja 4: tähän tutkivan narratiivinen rikosporijanan
 Puhuja 4: toiseen päähän. Voisi
 Puhuja 4: perustella, että vähän eettisempää, mitä ikinä.
 Puhuja 4: Sellainen Dirty Cone. Siis aivan erinomainen
@@ -372,8 +371,8 @@ Puhuja 3: Mulla on suositellut tätä, mutta sitten aina kun joku pitsejä sen m
 Puhuja 3: niin se jotenkin mun mielestä ei kun anna elokuvasta
 Puhuja 3: jotenkin, minusta se on todella omituinen kombo.
 Puhuja 2: Olin just sanomassa sama, että pelkän nimen perusteella olisi ollut kiinnostuneempi kuin tämän tennisaiheisen
-Puhuja 2: ihmissuhdedraaman,
-Puhuja 2: mutta ehkä tämän suosituksen jälkeen pitää käydä katsomassa.
+Puhuja 2: ihmissuhdedraaman.
+Puhuja 2: Mutta ehkä tämän suosituksen jälkeen pitää käydä katsomassa.
 Puhuja 1: Se tennis on siinä enemmän
 Puhuja 1: sellainen kulissi.
 Puhuja 1: Mun mielestä se leffan
@@ -396,7 +395,7 @@ Puhuja 2: jossa keskustellaan kaikenlaisesta
 Puhuja 2: maan ja taivaan väliltä kulttuurisuosituksia.
 Puhuja 2: Sitä kuuntelemalla
 Puhuja 2: saa tietää, että mikä on lipppari tai mitä on sutsurella.
-Puhuja 2: Suosittelen lämpimästi kyllä. Se on sellaista
+Puhuja 2: Suosittelen lämpimästi. Se on sellaista
 Puhuja 2: low efort
 Puhuja 2: high
 Puhuja 2: reward tiivistä

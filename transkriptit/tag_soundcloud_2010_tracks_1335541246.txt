@@ -37,7 +37,7 @@ Puhuja 2: Uusi normaali on yksi maailmanloppu,
 Puhuja 2: itel
 Puhuja 2: you. Me puhumme tänään energiasta ja sähköstä.
 Puhuja 2: Lisäksi puhumme budjettiriihestä
-Puhuja 2: ja Veikkauksesta ja sitten loppukevennykseksi
+Puhuja 2: ja veikkauksesta ja sitten loppukevennykseksi
 Puhuja 2: otetaan vielä
 Puhuja 2: puheeksi
 Puhuja 2: tämä Mot Innovation
@@ -64,8 +64,7 @@ Puhuja 3: kunnalliset
 Puhuja 3: energiayhtiöt
 Puhuja 3: vähän hoputtaa valtiolta toimia, että selvitä lähikuukausista
 Puhuja 3: ja viikoista.
-Puhuja 1: Pystytkö Jarno selittämään, kun mulle tämä koko tämä sähköasia
-Puhuja 1: on
+Puhuja 1: Pystytkö Jarno selittämään, kun mulle tämä etenkin koko tämä sähköasia on
 Puhuja 1: suuri mysteeri ja sähkön hinnan muodostus.
 Puhuja 1: Mistä se johtuu? Kumpikin
 Puhuja 1: on Ukrainassa sota ja kaasuputkei
@@ -82,8 +81,9 @@ Puhuja 3: Se on tosi keskeinen Euroopassa. Ja sitten kun tässä ollaan samoilla
 Puhuja 3: sisämarkkinoilla
 Puhuja 3: ja siirtoyhteydet
 Puhuja 3: toimii
-Puhuja 3: ja
-Puhuja 3: näin niin tota, sitten se vaikka meillä maakaasu täällä Suomessa on hyvin marginaalinen
+Puhuja 3: ja näin niin tota, sitten se vaikka meillä
+Puhuja 3: maakaasu täällä Suomessa on
+Puhuja 3: hyvin marginaalinen
 Puhuja 3: sähköntuotannossa,
 Puhuja 3: energiantuotannossa,
 Puhuja 3: niin sitten se
@@ -95,28 +95,25 @@ Puhuja 3: tää
 Puhuja 3: selkäranka
 Puhuja 3: tai
 Puhuja 3: kivijalka, jonka varaan Keski-Euroopan
-Puhuja 3: energiahuoltoon
-Puhuja 3: on aika
+Puhuja 3: energiahuoltoon on aika
 Puhuja 3: pitkälti rakennettu eli halpa
 Puhuja 3: venäläinen kaasu,
 Puhuja 3: kun sitä ei ole enää tarjolla. Tänä aamulla, siis keskiviikkoaamuna,
 Puhuja 3: katkesi
 Puhuja 3: Nordstream
-Puhuja 3: putken kautta
-Puhuja 3: kaasutoimitukset
+Puhuja 3: putken kautta kaasutoimitukset
 Puhuja 3: Saksaan tykkänään.
-Puhuja 3: Siis,
-Puhuja 3: huoltotöiden takia tämä oli ennalta...
+Puhuja 3: Siis nyt... Huoltotöiden
+Puhuja 3: takia tämä oli ennalta...
 Puhuja 1: Kaikkia muita säädellään samalla tavalla, että he eivät kärsi tästä.
 Puhuja 1: Ne veikkaus tietää sen, että se ei pysty sillä markkinalla niin kuin...
 Puhuja 1: Sen markkinaosuus pienenee koko ajan. Toive on se, että
 Puhuja 1: Ruotsissa siirryttiin aikaa sitten tähän lisenssimalliin.
-Puhuja 1: Tanskassa
-Puhuja 1: on siirrytty ja Hollannissa ja kaikkialla maailmassa.
+Puhuja 1: Tanskassa on siirrytty ja Hollannissa ja kaikkialla maailmassa.
 Puhuja 1: Veikkauksen huoli on se, että jos sen lisenssimalliin
 Puhuja 1: siirtyminen tapahtuu, jossa se kestää kauhean pitkään
-Puhuja 1: Veikkauksen markkinaosuus laskee, jos se on viisikymmentäyksi tai vähän yli viisikymmentä, niin vuoden päästä se on neljäkymmentäviisi.
-Puhuja 1: Sitten se on neljäkymmentä ja kolmekymmentäviisi.
+Puhuja 1: Veikkauksen markkinaosuus laskee. Jos se on viisikymmentäyksi tai vähän yli viisikymmentä, niin vuoden päästä se on neljäkymmentäviisi,
+Puhuja 1: sitten se on neljäkymmentä ja kolmekymmentäviisi.
 Puhuja 1: Se laskee koko ajan. Sitten tulee lisenssimalli.
 Puhuja 1: Jos Veikkauksen
 Puhuja 1: markkinaosuus on siinä vaiheessa kauhean pieni,
@@ -130,11 +127,12 @@ Puhuja 1: niin se jäi vielä laajemmin jalkoihin. Alussa, että se tapahtuisi n
 Puhuja 2: Kaiken kaikkiaan on myös vaan jotenkin niin ongelmallista. Se on vähän ongelmallista,
 Puhuja 2: että... Tämä on vähän kuin myös analoginen
 Puhuja 2: tavallaan
-Puhuja 2: Saksan meininkiin. Tiedätkö silleen, että me jotenkin,
+Puhuja 2: Saksan meininkiin. Tiedätkö silleen, että me
+Puhuja 2: jotenkin,
 Puhuja 2: jotta pääsisimme
 Puhuja 2: vihreään siirtymään,
 Puhuja 2: tehdäänkin itsemme riippuvaiseksi venäläisestä maakaasusta ja itse asiassa ei ole edes mitään suunnitelmia päästä
-Puhuja 2: eroon siitä venäläisestä maakaasusta, vaan oikeastaan vaan jatketaan ja jatketaan sen käyttöä Ei ole mistään vihreästä siirtymästä tietoakaan.
+Puhuja 2: eroon siitä venäläisestä maakaasusta, vaan oikeastaan vain jatketaan ja jatketaan sen käyttöä Ei ole mistään vihreästä siirtymästä tietoakaan.
 Puhuja 2: Suomessa
 Puhuja 2: kulttuuri, taide, elokuvat
 Puhuja 2: on rahoitettu
@@ -170,8 +168,7 @@ Puhuja 2: uhkapelimarkkinoille.
 Puhuja 2: Siirrytään viimeiseen aiheeseen, joka on viikon absurdein
 Puhuja 2: uutinen.
 Puhuja 2: Niin kuin aikaisemmin jo sanoin tässä lähetyksessä, että mulla on sellainen fiilis, että yhteiskunta on käynyt jotenkin tosi ylikierroksilla
-Puhuja 2: viime kuukaudet, ja sitten kuitenkin, että ylikierroksilla käydään yhteiskunta
-Puhuja 2: kiertyy
+Puhuja 2: viime kuukaudet, ja sitten kuitenkin, että ylikierroksilla käydään yhteiskunta kiertyy
 Puhuja 2: itsensä ympäri, Ja sitten välillä jotain jää
 Puhuja 2: puristuksiin ja siellä alkaa pullistua sellainen tukos ja siellä tukoksessa muhii absurdiuden
 Puhuja 2: siemen. Ja sitten välillä se tukos, se räjähtää.
@@ -195,8 +192,7 @@ Puhuja 2: jotka päättivät yhdessä matkustaa Grönlantiin
 Puhuja 2: toteamaan
 Puhuja 2: ilmastonmuutoksen omin silmin, ja sitten he kehystyivät
 Puhuja 2: tämän seikkauretken, siis vuorikiipeilyä ja melontaa, piti sisällään tämä heidän retkensä, niin kehystyivät sen tällaiseksi
-Puhuja 2: vastuullisuustyöksi.
-Puhuja 2: Viime sunnuntaina
+Puhuja 2: vastuullisuustyöksi. Viime sunnuntaina
 Puhuja 2: lähettivät siitä tiedotteen
 Puhuja 2: STT:lle,
 Puhuja 2: STT:n kautta. Tämä
@@ -253,8 +249,8 @@ Puhuja 2: jäätiköt sulavat, niin he inspiroituvat tekemään vastuullisuustek
 Puhuja 2: Tämä herättää valtavasti kysymyksiä. Ensinnäkin,
 Puhuja 2: jos lähtökohtaisesti
 Puhuja 2: esimerkiksi joku
-Puhuja 2: tämän retkikunnan jäsenistä
-Puhuja 2: esimerkiksi hänen työnsä järjestää
+Puhuja 2: tämän retkikunnan
+Puhuja 2: jäsenistä esimerkiksi hänen työnsä järjestää
 Puhuja 2: golf-matkoja
 Puhuja 2: kaukomaille,
 Puhuja 2: niin silloin ilmastoteko olisi varmaan pistää
@@ -265,7 +261,7 @@ Puhuja 2: vaihtaa kaikki
 Puhuja 2: golftit biopohjaisiksi.
 Puhuja 2: Tiedätkö,
 Puhuja 2: että
-Puhuja 2: mitä ne ilmastoteot nyt sitten ovat.
+Puhuja 2: mitä ne ilmastoteot sitten ovat.
 Puhuja 2: Ja sitten kysyin, että kuka tätä dokumenttielokuvaa
 Puhuja 2: tekee.
 Puhuja 2: He itse.
@@ -319,7 +315,8 @@ Puhuja 1: enempää. Mutta ehkä huolestuttavaa on se,
 Puhuja 1: että jos sanot, että onko mitään hajua ilmastoviestinnästä.
 Puhuja 1: Mutta ilmeisesti mielikuva on se, että ilmastoviestintä on sellainen tarra, joka liimataan
 Puhuja 1: firman
-Puhuja 1: työsuhdeauton ikkunaan, että minä teen ilmastotekoja,
+Puhuja 1: työsuhdeauton
+Puhuja 1: ikkunaan. Minä teen ilmastotekoja,
 Puhuja 1: oli ne mitä tahansa. Että
 Puhuja 1: tosi outo case. Ja
 Puhuja 1: ovat olleet vilpittöllä hämmästyneitä,
@@ -329,7 +326,8 @@ Puhuja 2: miksi
 Puhuja 2: ilmastotutkijoiden viesti
 Puhuja 2: tämän tilanteen vakavuudesta ei riitä eli miksi on lennettävä itse Grönlantiin
 Puhuja 2: katsomaan sulavaa jäätikköä omin silmin, eikö se viesti riitä.
-Puhuja 2: Siellä oli kyllä aika pitkä hiljaisuus, siellä puhelimen toisessa päässä.
+Puhuja 2: Siellä oli kyllä aika pitkä hiljaisuus, puhelimen
+Puhuja 2: toisessa päässä.
 Puhuja 2: Se, että he kyllä lähtökohtaisesti kokivat, olivat vahvasti sitä mieltä, että kyllä minun täytyy tämä omin silmin nähdä,
 Puhuja 2: että voin todella ryhtyä näihin ilmastotekoihin.
 Puhuja 2: Sehän on täysin kestämätön ajatus, että jokaisen meistä pitäisi
@@ -359,8 +357,7 @@ Puhuja 2: tämä herättää paljon kysymyksiä
 Puhuja 2: tällaisista etuoikeuksista ja siitä, kenellä on lupa tehdä ja mitä. Ja sitten herättää tietysti huolen, että tällä hetkellä nykydiskurssi
 Puhuja 2: tuntuu olevan se, että monethan sanovat näin,
 Puhuja 2: että yritykset johtavat tällä hetkellä ilmastotoimia
-Puhuja 2: ja niihin tarttumista ja vastuullisuustekoja.
-Puhuja 2: Kun valtiot tarttuvat kovin hitaasti
+Puhuja 2: ja niihin tarttumista ja vastuullisuustekoja. Kun valtiot tarttuvat kovin hitaasti
 Puhuja 2: näihin eikä halua tehdä poliittisia päätöksiä, mutta yritykset ovat oikeastaan etunojassa.
 Puhuja 2: Jos tämä on se, mitä ne yritykset
 Puhuja 2: tekevät etunojassa, niin me ollaan aivan rähmällällään tämän tilanteen edessä. Ja sitten tämä yhdistyvä näihin uutisusta, että sakistamista.
@@ -372,21 +369,21 @@ Puhuja 1: yritysjohtajien maailmankatsomuksesta. Eivätkö ne firmat kyllä väk
 Puhuja 2: Tämä oli enemmänkin tällainen pöhinäkupla,
 Puhuja 2: joka tässä puhkesi. Hei, Puoles Marko, nyt kun käyt haikeana nuhkimassa
 Puhuja 2: raikasta syysilmaa ja katsot putoile vielä lehtikadulla, koska se on kohta ainoa harrastus, mihin kenelläkään meistä on varaa.
-Puhuja 2: Sitten sähkölaskuhuoliisi
-Puhuja 2: nauhkaat povarista pienen töpsyn ja joku ohikulkija katsoo sinua ymmärtäväisesti, että tiedän tasan tarkkaan mitä tuo murehtii, koska samassa veneessä on kaikki. Millä tavalla avaat keskustelun?
+Puhuja 2: Sitten
+Puhuja 2: sähkölaskuhuoliisi
+Puhuja 2: nauhkaat povarista pienen tömpsyn ja joku ohikulkija katsoo sinua ymmärtäväisesti, että tiedän tasan tarkkaan mitä tuo murehtii, koska samassa veneessä on kaikki. Millä tavalla avaat keskustelun?
 Puhuja 1: Emme kyllä näistä keskustelua varmaan avaa, mutta mulle tuli mieleen tästä meidän viimeisestä Grönlatiaiheesta,
 Puhuja 1: niin voisin kehua suomalainen
 Puhuja 1: valokuvaaja Tiina Itkonen. Hän on myös
 Puhuja 1: tuttu.
 Puhuja 1: Hän on siis iät ja ajat varmaan kaksikymmentä vuotta. Tämä ei yli hatustanut tosi pitkään.
-Puhuja 1: Hän valokuva Grönlantia.
-Puhuja 1: Se on aina siellä kuukausi kaupalla.
+Puhuja 1: Hän valokuva Grönlantia. Se
+Puhuja 1: on aina siellä kuukausi kaupalla.
 Puhuja 1: Hän on
 Puhuja 1: siis taidevalokuvaa. Hän on itse asiassa
 Puhuja 1: tänä vuonna näyttelyjä Pariisissa tai Ranskassa.
 Puhuja 1: Hän ottaa
-Puhuja 1: tällaisia kuvia jäävuorista
-Puhuja 1: ja jääkarhuista.
+Puhuja 1: tällaisia kuvia jäävuorista ja jääkarhuista.
 Puhuja 1: Ne Ne ovat ihan sairaan makeita. Niissä valokuvissa on jotain
 Puhuja 1: maagista.
 Puhuja 1: Varsinkin kun ne vedostaa sellaisiksi isoiksi. Ne ovat ihan huikeita. Suosittelen.
@@ -397,7 +394,7 @@ Puhuja 1: ne ovat hienoja.
 Puhuja 2: Sanotko vielä sen nimen? Tiina Itkonen. Tiina Itkonen.
 Puhuja 2: Jes,
 Puhuja 2: upeata. Saisinpa olla Tiina Itkonen ja vaan ottaa kuvia jäävuorista.
-Puhuja 2: Yritin keksiä, mitä sanoisin tähän, mutta
+Puhuja 2: Yritin keksiä, mitä sanoisin tähän, mutta tämä on
 Puhuja 2: on mun viimeinen työpäivä, mulla alkaa olla takki
 Puhuja 2: tyhjänä.
 Puhuja 1: Onko sulla bileet tänään? On! Onko? Joo, tervetuloa! Missään? Ei kun erehtänyt.
@@ -431,7 +428,7 @@ Puhuja 2: kun on varmaan edessä aika vaikeita aikoja ja aika rankka syksy ja ta
 Puhuja 2: niin tässä vaiheessa on ehkä
 Puhuja 2: hyvä hetki kalibroitua
 Puhuja 2: siihen syksyn niin, että voisi
-Puhuja 2: kynttilän valossa, villasukat jalassa, värjätellessa miettiä,
+Puhuja 2: kynttilän valossa, villasukat jalassa, värjätellässä miettiä,
 Puhuja 2: mikä tässä elämässä
 Puhuja 2: oikeastaan on tärkeää
 Puhuja 2: ja mikä minulle antaa lohtua.
@@ -468,7 +465,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

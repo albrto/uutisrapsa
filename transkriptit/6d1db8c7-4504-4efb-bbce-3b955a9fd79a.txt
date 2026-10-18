@@ -140,7 +140,8 @@ Puhuja 0: skandai.
 Puhuja 0: En tiedä, mutta... Siis näin, että se oli kuitenkin hyvin
 Puhuja 0: rajoittunut,
 Puhuja 0: se Suomi-meininki silloin.
-Puhuja 0: Ysärillä se kaikki alkoi pyyhkiytyä pois. Maailma avautui Suomeen, globalisaatio tuli ja tälleen.
+Puhuja 0: Ysärillä se kaikki alkoi pyyhkiytyä pois.
+Puhuja 0: Maailma avautui Suomeen, globalisaatio tuli ja tälleen.
 Puhuja 0: Mutta väitän,
 Puhuja 0: miksi siihen kohdistuu
 Puhuja 0: poikkeuksellista nostalgiaa on totta kai lähinnä ikätekijät. Ihmiselläkin
@@ -178,7 +179,7 @@ Puhuja 1: jääkiekko, sitten Mika Häkkinen pärjäsi formulassa
 Puhuja 1: ja sitten kaksituhatta yksi lahti
 Puhuja 1: kaikkien niiden hiihdon
 Puhuja 1: huippuvuosien
-Puhuja 2: jälkeen kaikki lässähti ja... Voi ilmeessaan edelleen tuskaa.
+Puhuja 1: jälkeen kaikki lässähti ja... Voi ilmeessaan edelleen tuskaa.
 Puhuja 1: Sitten me oltiin ihan silleen, että ei me oltukaan niin hyviä. Tämä oli huijausta, tämä oli vedätystä. Siitä toivottiin pitkään.
 Puhuja 0: Mulla tuli tuosta hauska mieleen, mitä sanoit sanoi,
 Puhuja 0: että noin yksi.
@@ -266,7 +267,7 @@ Puhuja 2: Mikä se nimi nyt onkaan, missä on...
 Puhuja 2: Runardin sen nimen.
 Puhuja 2: Mikä pitäisi olla myös todella hyvä. On kaksi leffaa, joka pitää nähdä. Mutta suosittelen,
 Puhuja 2: en ole lukenut ihan loppuun vielä, mutta rupesin lukemaan
-Puhuja 2: Clint Eastwordin elämäkertaa tai hänestä kirjoitettua elämäkertaa. Voin ikialainen juoni. Oliko Weis Ander niille?
+Puhuja 0: Clint Eastwordin elämäkertaa tai hänestä kirjoitettua elämäkertaa. Voin ikialainen juoni. Oliko Weis Ander niille?
 Puhuja 2: Ei, se on tähän nyt uusin. Joo.
 Puhuja 2: Se on jotenkin...
 Puhuja 2: Ensimmäinen Crizkuurehan on huikea hahmo, se on mitä 94-vuotias
@@ -278,7 +279,7 @@ Puhuja 2: ja supertähti ja näin. Mutta jotenkin ne hänen uransa alkuvuodet ku
 Puhuja 2: Hänen
 Puhuja 2: pelastus millä hän se nousi tähteyteen on, hän lähti
 Puhuja 2: vastentahtoisesti.
-Puhuja 2: Kaikki dissasi häntä lähti Italo
+Puhuja 2: Kaikki dissasi häntähän lähti Italo
 Puhuja 2: Westernit.
 Puhuja 2: Olen Italo Westernit.
 Puhuja 2: Hyvät pahat ja rumat ja vain kourallinen dollareita. Kolmas
@@ -297,7 +298,7 @@ Puhuja 2: niin hän alkoi käsikirjoituksesta
 Puhuja 2: elokuvassa mitään. Hän koitti kaikki omat vuorosanansa.
 Puhuja 2: Ja se leffaa on kuuluisa siitä, mitä hän istuu
 Puhuja 2: kivikasvois siinä hevosen selässä ja tuijottaa eikä puhu mitään. Mutta kun hän oli poistanut käytännössä kaikki vuorosanansa siitä
-Puhuja 2: käsikirjoituksesta, niin sitten elokuvan rahoittajat suuttutuivat ja sanoivat, että ei he maksa sille, jos ei sano mitään. Se piti vähän palautella sinne muutamiin vuorosoihin. Se on
+Puhuja 2: käsikirjoituksesta, niin elokuvan rahoittajat suuttuivat ja sanoivat, että ei he maksa sille, jos ei sano mitään. Se piti vähän palautella sinne muutamiin vuorosanoihin. Se on
 Puhuja 2: tosi mahtava, hyvin yksityiskohtainen ja hauska
 Puhuja 2: elämäkerta.
 Puhuja 1: Clinti Iswood on kyllä vähän semmoinen, että sille varmaan tulisi sanottua, että vieläkö sä elät. Kyllä se on tuhat yhdeksänsataayhdeksänkymmentäviisi.
@@ -377,8 +378,7 @@ Puhuja 0: paperiin, jossa se ostaa paikalliselta painekattilalta jotain sähkö�
 Puhuja 0: se on ihan typerää ja se on aivan väärin.
 Puhuja 0: Mutta koska me eletään nykyään tämmöisessä maailmassa, kaiken maailman
 Puhuja 0: paikalliset
-Puhuja 0: liikelaitokset on mukaolevina
-Puhuja 0: jotain oikeita yrityksiä,
+Puhuja 0: liikelaitokset on mukaan olevinaan jotain oikeita yrityksiä,
 Puhuja 0: sitten
 Puhuja 0: ei
 Puhuja 0: ole
@@ -439,7 +439,7 @@ Puhuja 0: Mitä mä tähän sanoin? Miten se heti tippuu päästä?
 Puhuja 0: Mun nimi on Tuomas Peltomäki.
 Puhuja 0: Ja kiitos Janne Elkki. Äänikuva ja kaiken muun mahtoi meille tekee tällä viikolla Janne Elkki, kiitos Jannelle.
 Puhuja 0: Lähettäkää palautetta, sitä onkin tullut jo runsaasti.
-Puhuja 0: Oi fikt. Mä unohdin sanoa siitä
+Puhuja 0: Oi fikt! Mä unohdin sanoa siitä
 Puhuja 0: pikkujoulusta.
 Puhuja 0: Mä annoin sanoa teillekin siitä pikkujoulusta.
 Puhuja 0: No? Vähemmän määrä on valittu. No, mä tiedän sen.
@@ -465,12 +465,11 @@ Puhuja 2: surffihause. Pitääkö meidän tulla siis pikgginit on...
 Puhuja 0: Voitte harkita itse, tuutteko
 Puhuja 0: polit vai
 Puhuja 0: vikineissä
-Puhuja 0: vikineissä vikineissä.
+Puhuja 0: vikineissä vikineissä vikineissä.
 Puhuja 0: Mutta me kehitetään siihen
 Puhuja 0: ja jotain nyt vaaditaan tämmöistä Havaiimeininkiä
 Puhuja 0: Synth Waveit soimaan ja palmot siellä onkin jo trooppisissa
-Puhuja 0: ja lämpimissä
-Puhuja 0: tunnelmissa.
+Puhuja 0: ja lämpimissä tunnelmissa.
 Puhuja 0: Me nyt jollakin tavalla ilmoittautuminen
 Puhuja 0: hoidetaan sillä tavalla, että se ei ole silleen, että kuka ensimmäisenä ehtii
 Puhuja 0: podcastin kuultuaan,

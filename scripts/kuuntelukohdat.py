@@ -16,8 +16,9 @@ JUURI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KUUNTELU_TIEDOSTO = os.path.join(JUURI, "kuuntelu.json")
 
 # Suositusosio alkaa yleensä loppuleikkeen puolivälin jälkeen: ikkuna alkaa VARALLA riviä
-# ennen loppuleikkeen ensimmäistä "suosit…"-sanaa
-VARALLA = 25
+# ennen loppuleikkeen ensimmäistä "suosit…"-sanaa (25 jäi joskus liian lyhyeksi: ensimmäinen
+# suosittelija ei aina sano "suosit…", 18.10.2026)
+VARALLA = 60
 ETUAIKA = 1.0  # aloitetaan hetki ennen rivin alkua, ettei ensimmäinen tavu leikkaudu
 TAYTESANAT = {"podcast", "kirja", "sarja", "elokuva", "the", "and", "kausi", "osa", "dokumentti",
               "yle", "areena", "netflix", "hbo", "kirjoittanut", "suomeksi"}
@@ -45,11 +46,11 @@ def lyhenna(rivi):
     return re.sub(r"^Puhuja (\S+):", r"P\1:", rivi)
 
 
-def ikkunan_alku(rivit, ajat):
+def ikkunan_alku(rivit, ajat, varalla=VARALLA):
     """Suositusosion ensimmäinen rivi (arvio)."""
     loppuleike = next((i for i, t in enumerate(ajat["rivit"]) if t >= ajat["leike"]["alku_s"]), 0)
     eka = next((i for i in range(loppuleike, len(rivit)) if "suosit" in rivit[i].lower()), None)
-    return max(loppuleike, (eka if eka is not None else (loppuleike + len(rivit)) // 2) - VARALLA)
+    return max(loppuleike, (eka if eka is not None else (loppuleike + len(rivit)) // 2) - varalla)
 
 
 def vihje(teos, rivit, alku, loppu):
@@ -66,10 +67,10 @@ def vihje(teos, rivit, alku, loppu):
     return paras_i
 
 
-def jakson_teksti(jakso, rivit, ajat):
+def jakson_teksti(jakso, rivit, ajat, varalla=VARALLA):
     """Paikannettava teksti yhdestä jaksosta: suositukset vihjeineen + suositusosion rivit.
     Palauttaa (teksti, ikkunan_alku)."""
-    alku = ikkunan_alku(rivit, ajat)
+    alku = ikkunan_alku(rivit, ajat, varalla)
     recs = [(i, r) for i, r in enumerate(jakso["suositukset"]) if not r.get("piilotettu")]
     osa = [f"=== JAKSO {jakso['id']}", f"{jakso['paivamaara']} – {jakso['jakso_otsikko']}", "SUOSITUKSET:"]
     lisat = []

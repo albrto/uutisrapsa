@@ -3271,8 +3271,10 @@ a.henkilo:hover .henkilo-nimi {
   background: var(--bg-tagi);
 }
 
+/* Vihreä = kuunneltu suosituksen alusta eteenpäin (ennen alkua oleva osa jää uraksi) */
 .soitin-jana::after {
-  width: var(--osuus);
+  left: var(--alku);
+  width: max(0%, calc(var(--osuus) - var(--alku)));
   background: var(--vari);
 }
 

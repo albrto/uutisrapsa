@@ -107,7 +107,9 @@ Puhuja 0: hiljaisyyksien,
 Puhuja 0: varren neljännes.
 Puhuja 1: No vois vuoden jakaa neljään osaan edes on niinku se, että jos ei tarvitse mitään tammi maaliskuu ja
 Puhuja 1: maalis-kesäkuu
-Puhuja 0: on sitten se aika, että tän vuoden Ja jolla on nimet, Talv, syksy, kevät, kesää Niin, keväällä.
+Puhuja 1: on sitten se aika, että tän vuoden...
+Puhuja 0: Ja jolla on nimet, Talvisyksy,
+Puhuja 0: kevät, kesää Niin, keväällä.
 Puhuja 1: Keväällä, koska nyt kaikki on täysin seis, niin se pudotus
 Puhuja 1: voi olla todella dramaattinen sen yhden kolmen kuukauden pätkän aikana, mutta se toive on se, että tämä vuosi
 Puhuja 1: tasaa sitä elikkä se koko vuoden pudotus olisi viisi ja puoli
@@ -126,7 +128,7 @@ Puhuja 0: ja on tosi tärkeää tietää, että kummassa me ollaan. Joko silleen
 Puhuja 0: se syöksy, mikä on meidän takanapäin, että kaikki loppuu, kukaan ei mennä töihin, kukaan ei ostanut mitään,
 Puhuja 0: Miinus
 Puhuja 0: tuhat
-Puhuja 0: prosenttia rahaa pyörii maassa ja se iso kuilu
+Puhuja 0: prosenttia rahaa pyörii maassa ja se iso kuilu...
 Puhuja 0: Ja sieltä ollaan tultu jo pois. Se on takanapäin.
 Puhuja 0: Se on yksi tapa olla taantumassa. Tämä on se, joka aiheuttaa koko vuoden laskelmissa sitten.
 Puhuja 0: Muuten vuosi oli täysin normaali, mutta sitten meillä oli keväällä
@@ -192,8 +194,7 @@ Puhuja 1: Meillähän rahoitusmarkkinat
 Puhuja 1: skulasi ja muuta Kiinnostavaa
 Puhuja 1: nähdä, mitä nyt tapahtuu, että
 Puhuja 1: jos taksifirma
-Puhuja 1: menee nyt kattowayn
-Puhuja 1: jos Suomessa menee taas kymmeniätuhansia
+Puhuja 1: menee nyt cutterway niin jos Suomessa menee taas kymmeniätuhansia
 Puhuja 1: firmoja tämän kriisin takia, niin kyllähän ne vaikutukset on täällä aika dramaattiset.
 Puhuja 0: Mun fiilis on se, että hallituksen, koska hallitus ei pysty silleen ei Sanna Marin pysty, jotka tulee
 Puhuja 0: nipistä joka ikistä virusta itse, vaan hallituksen tärkein
@@ -283,21 +284,19 @@ Puhuja 0: ääneen luettuna jenkki laatumedoiden
 Puhuja 0: jutut Autum-apillä.
 Puhuja 0: Se on mahtavaa.
 Puhuja 0: Mä oon huomannut, että mulla on ihan viime vuosina ruvennut käymään silleen,
-Puhuja 0: että täälläkin puhutaan paljon New Yourger lehdestä ja kehutaan sitä ja näin.
-Puhuja 0: The Atlantic-lehti
+Puhuja 0: että täälläkin puhutaan paljon New Yourger lehdestä ja kehutaan sitä. The Atlantic-lehti, se on todella hyvä! Siitä on The Atlantic-lehti
 Puhuja 0: on todella hyvä ja siitä on tullut jotenkin sellainen, että jos haluan tietää jostain asiasta jotain, niin pistän yleensä Googlen se asia ja sitten peräti Atlantic.
 Puhuja 0: Että onko ne kirjoittanut aiheesta mitään juttua.
 Puhuja 0: Mikä on Atlantic-lehden
 Puhuja 0: asema
 Puhuja 0: amerikkalaisessa mediakentässä?
-Puhuja 2: Mun mielestä ne asettuu
+Puhuja 2: Mun mielestä ne asettuu...
 Puhuja 2: Se on siis hyvin perinteinen aikakauslehti tietenkin jotain ja
 Puhuja 2: siinä että New Yorker lähestyy aina asioita tarinan kautta
 Puhuja 2: ja hyvin yksityiskohtaisesti
-Puhuja 2: ja tarinallisesti,
-Puhuja 2: kun taas Atlantikin
+Puhuja 2: ja tarinallisesti, kun taas Atlantikin
 Puhuja 2: otsikoissaan usein joku suuri kysymys tai ajatus, että ne lähestyvät
-Puhuja 2: ajatuksen kautta, että ne vasta on Niillä on käytännössä kysymysotsikko ja sitten taas New Yorkeri lähtee siitä jostain ihmisestä jossain
+Puhuja 2: ajatuksen kautta, että ne vasta on... Niillä on käytännössä kysymysotsikko ja sitten taas New Yorkeri lähtee siitä jostain ihmisestä jossain
 Puhuja 2: pellolla ja mitä sille sitten tapahtuu.
 Puhuja 2: Eli niillä on musta ihan selkeä ero
 Puhuja 2: siinä, että miten ne jutut tehdään.
@@ -378,14 +377,15 @@ Puhuja 0: He eivät halua olla koirien kanssa samassa huoneessa.
 Puhuja 0: Lastenpsykiatri selitti, että
 Puhuja 0: hänellä on aivan sama, jos joku pelkää koiria, paitsi että
 Puhuja 0: jos viisivuotiaana pelkäät koiraa, korreloi
-Puhuja 0: tosi vahvasti sen kanssa, että olet 26-vuotiaana, kouluttaja-vuotiaana,
+Puhuja 0: tosi vahvasti sen kanssa, että olet 26-vuotiaana,
+Puhuja 0: kouluttaja-vuotiaana,
 Puhuja 0: joka on isoissa veloissa.
 Puhuja 0: Ja
 Puhuja 0: sitten tästä lähdettiin purkamaan
 Puhuja 0: sitä, että mistä on kyse ja miksi nämä lisääntyvät, koska ne merkkaa
 Puhuja 0: huonoa lasten tulevaisuuden
 Puhuja 0: kannalta. Ja sitten siinä tosi nopeasti upplaettiin siihen, että itse asiassa nykyaikainen moderni vanhemmuus
-Puhuja 0: on tosi
+Puhuja 0: on tosi...
 Puhuja 0: Vanhemmat ovat yllättävän kyseessä sen homman kanssa. Vanhemmat käyttää lastensa kanssa huomattavasti
 Puhuja 0: enemmän aikaa kuin vaikka heidän vanhempaan heidän kanssa.
 Puhuja 0: Mutta se ajankäyttö on tosi

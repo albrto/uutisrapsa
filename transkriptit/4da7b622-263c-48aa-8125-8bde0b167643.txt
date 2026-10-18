@@ -30,7 +30,8 @@ Puhuja 1: Terve.
 Puhuja 0: Tutki vain
 Puhuja 0: juttuja.
 Puhuja 0: Bos. Pikabo.
-Puhuja 1: Ja iloitsen siitä, että meillä on uusi kuva. Eiks se tällä hetkellä täällä ole mitään? Niin on. Joo. Onkohan se laitettu? On. Kun mä huomasin sen. No niin. Onko se laitettu
+Puhuja 1: Ja iloitsen siitä, että meillä on uusi kuva. Eiks se tällä hetkellä? Niin on. Joo. Onkohan se laitettu? On. Kun mä huomasin sen.
+Puhuja 0: Onko se laitettu? No niin. Onko se laitettu
 Puhuja 0: Spotify?
 Puhuja 0: Se on sun homma. Se on Jannen homma. Se on hieno.
 Puhuja 1: Siinä
@@ -124,7 +125,7 @@ Puhuja 1: oman tiimini juttuja.
 Puhuja 1: Me tavallaan pystyttiin katsomaan vähän sinne sisälle, että mistä tällaiset järjestelyt
 Puhuja 1: syntyvät. Onko niin, että somevaikuttaja
 Puhuja 1: herää yhtenä aamuna
-Puhuja 2: ja ajattelin, että ei vitsi nyt on kyllä pakko tehdä holdingyhtiön
+Puhuja 1: ja ajattelin, että ei vitsi nyt on kyllä pakko tehdä holdingyhtiön
 Puhuja 1: järjestelyjä.
 Puhuja 1: Osakevaihto.
 Puhuja 1: Tietenkään se ei ole näin, vaan
@@ -161,48 +162,50 @@ Puhuja 1: kysymys vaan tämmöinen yksi
 Puhuja 1: ikään kuin järjestelmän porsaandreiän.
 Puhuja 1: Ja vähän oikeudessa kysymys. No siis se, että verotusjärjestelmän
 Puhuja 1: tietysti pitää olla tarkoituksenmukaista.
-Puhuja 1: Tavallaanhan tässä käytetään, että kun lainsäätäjä on tehnyt tämän mahdollisuuden, niin sitä ei ole tarkoitettu tällaiseen keinotekoiseen pumppaamiseen vaan se on tarkoitettu siihen, että on haluttu kannustaa niinku aidosti kasvattamaan
-Puhuja 1: liiketoiminnan
+Puhuja 1: Tavallaanhan tässä käytetään, että kun lainsäätäjä on tehnyt tämän mahdollisuuden, niin sitä ei ole tarkoitettu tällaiseen keinotekoiseen pumppaamiseen vaan se on tarkoitettu siihen, että on haluttu kannustaa niinku aidosti kasvattamaan liiketoiminnan
 Puhuja 1: arvoa.
-Puhuja 0: Keskustelleet. Nyt näytät mulle. Kun mä haluan kysyä tuosta.
 Puhuja 0: Mun ymmärrys on ja sanoo, jos menee aivan päin mettä. Ei tarvitse ruveta laskea mitään matikkaa.
-Puhuja 0: Se on suurinpiirteinkö
-Puhuja 0: silleen, että
+Puhuja 0: Se on suurin
+Puhuja 0: piirteinkö silleen, että
 Puhuja 0: nämä ole...
 Puhuja 0: Siis influenssasseri nimeltä
 Puhuja 0: Tuomas raportti
 Puhuja 0: perustaa yhtiön
 Puhuja 0: ja perustaa myös toisen yhtiön nimeltä holding-yhtiö.
-Puhuja 1: Eiks näin? Ja holding-yhtiö omistaa sen ensimmäisen. Tai se KPMG todennäköisesti tekee sun puolestanne, kun maksat kymppitonnin tai jotain siitä. Sen jälkeen
+Puhuja 0: Eiks näin? Ja holding-yhtiö omistaa sen ensimmäisen. Tai se KPMG
+Puhuja 1: todennäköisesti tekee sun puolestanne, kun maksat kymppitonnin tai jotain siitä. Sen jälkeen
 Puhuja 0: nimellisesti
-Puhuja 0: myönnän mun omista rahoista
+Puhuja 0: myönnän mun omista
+Puhuja 0: rahoista
 Puhuja 0: mun holding-yhtiölle
-Puhuja 1: lainaa. No ei se itse asiassa ihan noin mee. Vaan se liittyy... Joku muka myöntää lainaa. No se liittyy enemmän tämmöseen
+Puhuja 1: lainaa. No ei se itse asiassa ihan noin mee. Vaan se liittyy... Joku muka myöntää lainaa. No se liittyy enemmän
 Puhuja 1: omaisuuden arvostamiseen.
 Puhuja 1: Osakevaihdon,
 Puhuja 1: kun tehdään tommoinen kauppa
 Puhuja 1: tavallaan. Mä en tiedä onko se järkevää mennä kauhean syvälle, mutta kun yrittäjä tekee omien firmojen kesken semmoisen osakevaihdon eli siirtää varsinaisen
 Puhuja 1: liiketoimintayhtiön
 Puhuja 0: omistuksen sinne holdingyhtiöön.
-Puhuja 1: Siinä yhteydessä on mahdollista tehdä
-Puhuja 0: arvonmäärä.
-Puhuja 1: Se on niinku tulevaisuuden odotuksiin, että tää niinku kasvaa tää liiketoiminta. Sillä pystytään
-Puhuja 1: niinku salmelaan yhdessä viestissä näille muille julkisuuden henkilöille sanoo, että hän pystyy niinku jopa sataneljäkymmentä tonnia
+Puhuja 0: Siinä yhteydessä on mahdollista tehdä arvonmäärä. Että minkäs arvoisia nää mun osakkeet on? Ja sit ne tehdään ihan poskettua vuoksi. Ne voidaan tehdä. Tulee Suomen
+Puhuja 0: tärkein influenssaeri yksi osake on kuusitoista miljoonaa euroa.
+Puhuja 1: Pystyykö ihan hatusta vetämään, mikä se on Se on niinku tulevaisuuden odotuksiin, että tää niinku kasvaa tää liiketoiminta. Sillä pystytään
+Puhuja 1: salmelaan
+Puhuja 1: yhdessä viestissä näille muille julkisuuden henkilöille sanoo, että hän pystyy niinku jopa sataneljäkymmentä nolla
 Puhuja 1: ottamaan ulos. Hänhän ei ole itse nostanut näitä huojennettuja osinkoja, mikä on ihan totta.
-Puhuja 1: Hän tavallaan mainiosti ja markkinoi muille sitä tuottoa.
-Puhuja 0: Tällä tavalla saadaan
-Puhuja 0: keinotekoisesti kasvatettua
+Puhuja 1: Hän tavallaan mainiosti ja markkinoi muille muille
+Puhuja 0: tuottoa. Tällä tavalla saadaan keinotekoisesti
+Puhuja 0: kasvatettua
 Puhuja 0: koko influenssamisen
 Puhuja 0: arvoa. Se näyttää siellä kirjanpidossa, että hitto, tässä on ihan mieletön bisnes. Ja tästä johtuu semmoinen edullisempi verokohtelu,
 Puhuja 0: koska valtio on halunnut, että hei, kasvattakaa sitä bisnestä. Se on teille edullisempaa myös veromielessä. Niin, se on tämmöinen suomalainen erikoisuus
 Puhuja 0: verotusvero. Aina, kun on jossain suomalainen erikoisuus, niin se on yleensä aina kuulostaa vittumonalta idea. Joo, mutta se on selkeästi semmoinen. Laajasti katsotaan, että se on aggressiivisen verosuunnittelun
 Puhuja 1: keino ja se on veroporsaan reikä, joka
-Puhuja 1: muuten hauska, kun teen, nyt kohta julkaistaan uusi juttu aiheesta.
+Puhuja 1: muuten hauska, kun teen, että kohta julkaistaan uusi juttu aiheesta.
 Puhuja 1: Siinä isku sanana ja asiasanana on veroporsaan
 Puhuja 1: reikä. En varmaan ikinä käy. Katsotaan meneekö se tuolta läpi. Mutta siis pointti.
 Puhuja 0: Vielä. No niin. Ja nyt toi, minkä sä kuvasit äsken mun mielestä tosi hyvin. Mene otti liian syvälle. Ei mennyt pää pyörälle.
 Puhuja 0: Miten tää kuulostaa kuitenkin vähän jotenkin samalta, mitä tekee vaikka Apple sillä, että se rekisteröi
-Puhuja 0: jonnekin Irlantiin muka toimintaansa. Ja siitä Irlannissa...
+Puhuja 0: jonnekin Irlantiin muka
+Puhuja 0: toimintaansa. Ja siitä Irlannissa...
 Puhuja 0: Mukaan kaikki voitot maksetaan Irlannissa, jossa ei makseta niistä veroa tai jotain siis tän tyylistä.
 Puhuja 0: Se kuulostaa...
 Puhuja 0: Tai onko tässä olemassa semmoinen, että itse asiassa
@@ -218,15 +221,17 @@ Puhuja 0: asian
 Puhuja 1: pohtia voi ite arvottaa sitä että mikä on pahempaa kuin joku toinen ja onko se edes. Jotkuthan on sitä mieltä että kaikki vaan mitä saan nyhdettyä irti niin hyvä on vaikka valtion verotulot siitä niinku kärsisi
 Puhuja 1: mutta siis totta kai on tosiasia
 Puhuja 1: että tällaisen niinkun ikään kuin laillisen verosuunnittelun,
-Puhuja 1: johon sit ehkä tää aggressiivinen pää kuuluu myös, niin se kenttä on valtavan laaja. Sithän aina kun näistä keskustelee, niin nostaa esille että tiedätkö työhuonevähennyksen
+Puhuja 1: johon sit ehkä tää aggressiivinen pää kuuluu myös, niin se kenttä on valtavan laaja. Sithän aina kun näistä keskustelee, niin nostaa esille että
+Puhuja 1: tiedätkö työhuonevähennyksen
 Puhuja 1: ja haetko kotitalousvähennykset
-Puhuja 1: ja muut. Totta kai sekin on tietynlaiset verosuunnittelua, et sä mietit tarkkaan, et mihin sulla on oikeus. Mut sit siellä toisessa päässä on tietenkin ne järjestelyt, joita lainsäätäjä ei ole tarkoittanut,
+Puhuja 1: ja muut. Totta kai sekin on tietynlaiset verosuunnittelua,
+Puhuja 1: et sä mietit tarkkaan, et mihin sulla on oikeus. Mut sit siellä toisessa päässä on tietenkin ne järjestelyt, joita lainsäätäjä ei ole tarkoittanut,
 Puhuja 1: että pykäliä käytetään siihen mitä käytetään. Sitten niinku veivataan
 Puhuja 1: se paheksuttamus. Niin ja sitten haetaan oikeudestakin ratkaisuja. Haetaan sitä viimeistä
 Puhuja 1: pykälää,
 Puhuja 1: että mitä pystyy menke. Totta kai isot suuryritykset,
 Puhuja 1: kansainväliset jätit on tehnyt erittäin
-Puhuja 0: Ja aivan törkeää kupata oma kokonainen
+Puhuja 0: kyseenalaisia. Aivan törkeää kupata oma kokonainen
 Puhuja 0: maa osa kuiviin veroista.
 Puhuja 1: Me ollaan oltu tällaisen
 Puhuja 1: keskustelun keskellä
@@ -248,8 +253,8 @@ Puhuja 1: kyseenalaista toimintaa tai suorastaan
 Puhuja 1: ihan laittomuksia tai jotain törkeyksiä,
 Puhuja 1: niin mä oon tehnyt ihan valtavasti juttuja, joissa lähes
 Puhuja 1: poikkeuksetta mä sanoisin, että yhdeksänkymmentäkolme
-Puhuja 1: prosenttia ikään kuin
-Puhuja 1: juttujen kohdehenkilöistä
+Puhuja 1: prosenttia
+Puhuja 1: ikään kuin juttujen kohdehenkilöistä
 Puhuja 1: on ollut miehiä.
 Puhuja 1: Siis niinku Markoja, Mikko
 Puhuja 1: ja niin edespäin.
@@ -257,15 +262,13 @@ Puhuja 1: Juhhia.
 Puhuja 0: Markoja, Mikko ja Juhhia. Suomessa taitaa edelleen olla pörssiyhtiöiden...
 Puhuja 0: On enemmän juhlia pörssiyhtiöiden
 Puhuja 1: johtajana kuin naisia. Joo, ja välillä toki jotain ulkomaalaisiakin
-Puhuja 1: nimiä, mutta ehkä nämä
-Puhuja 1: tyypillisimpinä
+Puhuja 1: nimiä, mutta ehkä nämä tyypillisimpinä
 Puhuja 1: esiintyy. Näissä yhteyksissä ei toki tämmöistä mitään sukupuolikeskustelua
 Puhuja 1: ole koskaan käyty. Mä itse ajattelisin silleen, että mun mielestä kannattaisi somevaikuttajien,
 Puhuja 1: jotka ei ole tästä tietenkään mikään homogeeninen joukko meidän jutuistakin käy ilmi, että osa näistä
 Puhuja 1: influenssareistä
 Puhuja 1: niinku itsekin katsoo, että tällaista ei pidä tehdä. Tää ei oo oikeudenmukaista ja reilua ja eettistä.
-Puhuja 1: Mut et noin yleisesti ottaen, ne kannattaa miettiä nyt sitä, et
-Puhuja 1: onks se nyt se ammattikunta siis varteenotettavaa, tärkeää liiketoimintaa, ihan oikeaa bisnestä, jota ei pidä väheksyä,
+Puhuja 1: Mut et noin yleisesti ottaen, ne kannattaa miettiä nyt sitä, et onks se nyt se ammattikunta siis varteenotettavaa, tärkeää liiketoimintaa, ihan oikeaa bisnestä, jota ei pidä väheksyä,
 Puhuja 1: jakasimme ja nyt vielä
 Puhuja 1: tälläkin viikolla jankutimme ja vihdoin toimitusjohtajaltä
 Puhuja 1: löyty sitten aikaa
@@ -312,25 +315,24 @@ Puhuja 1: Sit
 Puhuja 1: siellä
 Puhuja 1: välissä kulkee
 Puhuja 1: kertomus siitä, miten hän käy
-Puhuja 1: terapiassa ja tilittää terapeutille just näitä samoja asioita. Musta aika kauniisti rakennettu.
-Puhuja 1: Siinä ei oo mitään semmoista kauheaa räjähtävää suurta juonta tai jännitystä, mut se jotenkin pitää otteessa ja sen haluun loppuun lukea.
-Puhuja 1: Tosi kiinnostava.
-Puhuja 1: Sitten
-Puhuja 1: se, miksi erityisesti sitä
+Puhuja 1: terapiassa ja tilittää terapeutille just näitä samoja asioita. Musta aika kauniisti rakennettu, että siinä ei oo mitään semmosta kauheaa räjähtävää suurta juonta tai jännitystä, mut se jotenkin pitää otteessa ja sen haluun loppuun lukea.
+Puhuja 1: Tosi kiinnostava. Ja
+Puhuja 1: sitten se, miksi erityisesti sitä
 Puhuja 1: tässä suosittelen, on se, että koko ajan jotenkin... Välillä
-Puhuja 1: luen sitä kirjaa ja välillä katson, mitä New York Timesissa tai Ciennellä ja
-Puhuja 1: sitten
-Puhuja 1: se, mihin viitattiin tossa, mikä on Trumpin motiivi Putinin mielistelyssä, että palautuuko se lopulta tällaisiin
+Puhuja 1: luen sitä kirjaa ja välillä katson, mitä New York Timesissa tai Ciennellä ja sitten
+Puhuja 1: se, mihin
+Puhuja 1: viitattiin tossa, mikä on Trumpin motiivi Putinin mielistelyssä, että palautuuko se lopulta tällaisiin
 Puhuja 1: miesten
-Puhuja 1: välisiin kompleksisiin
-Puhuja 1: suhteisiin ja mikä Trump
+Puhuja 1: välisiin kompleksisiin suhteisiin
+Puhuja 1: ja mikä hahmo
 Puhuja 1: Trumpille
 Puhuja 1: olisi tavallaan se hahmo, joka on putralle vaikka levy-yhtiön
 Puhuja 1: ukkeli.
 Puhuja 1: Jotenkin tällaiset valtasuhteet
 Puhuja 1: se on karua, että mitä tässä pienenä
 Puhuja 1: palikkana täällä maailmassa meitä voi pyörittää
-Puhuja 2: ihmisten inhimilliset rautavia. Joo ja hienosti siinä mun mielestä, että
+Puhuja 1: ihmisten inhimilliset
+Puhuja 2: rautavia. Joo ja hienosti siinä mun mielestä, että
 Puhuja 2: tän tyyppistä analyysiä mitä siinä on me ei kuitenkaan usein
 Puhuja 2: kuulla nimenomaan
 Puhuja 2: miesten välisistä suhteista sellaisella
@@ -340,8 +342,7 @@ Puhuja 2: analyysillä, mitä hän
 Puhuja 2: esittää. Mikä oli musta tosi
 Puhuja 2: hienoa. Se ei ollut aktiivista. Se on niin kuin niin. Mutta harvinaista.
 Puhuja 0: Mä ehkä tunnistan tuossa...
-Puhuja 0: Musta tuntuu vähän vastenmieliseltä
-Puhuja 0: ajatukselta
+Puhuja 0: Musta tuntuu vähän vastenmieliseltä ajatukselta
 Puhuja 0: lukea toi kirja. Ja
 Puhuja 0: tietenkin
 Puhuja 0: on paras merkki siitä, että mun pitää lukea se. Mä mietin, että onkohan yhdeksänkymmentäkolme prosenttia lukijoista naista. Eiköhän.
@@ -371,7 +372,7 @@ Puhuja 1: ja ovet ja ikkunat kiinni ja kämmenköt pois ja oootetaan,
 Puhuja 2: että asiat selkenee. Joo ja tässä Ronin kirjassa on hienosti
 Puhuja 2: hienoa kuvausta, sellaista kielenkäyttöä,
 Puhuja 2: tiettyä sellaista, että se imaisee sellaisella tavalla, mitä just sellaiset parhaat romaanit imaisee. Ihan
-Puhuja 2: tämmöistä käyttökamaa tähän maailmanhetkeen
+Puhuja 1: tämmöistä käyttökamaa tähän maailmanhetkeen
 Puhuja 1: suoraan suoneen. Kyllä.
 Puhuja 0: Mä haluan kehottaa kaikkia kuuntelemaan,
 Puhuja 0: vaikka sitä on tullut

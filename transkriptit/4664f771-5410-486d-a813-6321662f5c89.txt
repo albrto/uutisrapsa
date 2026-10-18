@@ -34,16 +34,16 @@ Puhuja 3: Kyllä. Kiitos vain.
 Puhuja 3: Olen vetänyt,
 Puhuja 3: en muista mikä vuosi oli, ehkä kaksituhatta kaksikymmentäyksi. Minä vuonna, olikohan mennä mursu?
 Puhuja 3: Niin sinä vuonna.
-Puhuja 4: No siitä on ehkä just kolme vuotta. Niin, silloin ei tapahtunut mitään muuta kuin se,
+Puhuja 4: No siitä on ehkä just kolme vuotta. Niin, silloin ei tapahtunut mitään muuta kuin
+Puhuja 3: se,
 Puhuja 2: Mut joo, kiva olla pitkästä aikaa. Sulla on mursun tuoksui se muistus,
-Puhuja 2: uutisraportti. Podista. Kiva, kun oot täällä.
+Puhuja 2: uutisraportti. Podista. Kiva, kun olet täällä.
 Puhuja 2: Ja sitten Inkerin
 Puhuja 2: vieressä Mursua muisteli
 Puhuja 2: politiikkaa
 Puhuja 2: työkseen Helsingin Sanomissa toimittava Marko Junkkari. Moi. Heiissä.
 Puhuja 2: Mitä sulle kuuluu?
-Puhuja 1: Olen
-Puhuja 4: iltavuorossa koko viikon. Olen täällä vähän niin kuin vapaa-ajalla.
+Puhuja 4: Olen iltavuorossa koko viikon. Olen täällä vähän niin kuin vapaa-ajalla.
 Puhuja 2: Monen asti sä joudut illalla täällä olemaan? Mulla alkaa työvuoro tuhat neljäsataakolmekymmentä
 Puhuja 4: ja mä olen täällä kymmenen. Tosin tänään tulee vielä Ylen vaalitentejä. Katson nekin, että mulla on täällä varmaan yhteentoista.
 Puhuja 2: Alkaako sua jo vähän puuduttamaan nuo vaalitentit?
@@ -97,8 +97,7 @@ Puhuja 4: uusia vempaimia, joilla voidaan
 Puhuja 4: tutkia joidenkin muumioiden ikää sun muuta. Onko se muuttunut,
 Puhuja 4: jos silloin 40-luvulla
 Puhuja 4: todettiin, että siinä ei ole kauheasti virheitä, mutta nyt olisi mitään nykytietämyksen valossa. Niin. Ja ehkä seuraava sovellus on se, että laitetaan tekoäly
-Puhuja 2: vertaamaan
-Puhuja 2: Minna Silverin
+Puhuja 2: vertaamaan Minna Silverin
 Puhuja 2: kirjoitusta Sinuhe egyptiläisestäsi.
 Puhuja 2: Etsitäänkin
 Puhuja 2: virheitä hänen työstään, mutta hänen työstään ei varmaan löydy, koska hän on hyvin arvostettu
@@ -173,22 +172,22 @@ Puhuja 3: Esimerkiksi on sellaisia,
 Puhuja 3: joiden
 Puhuja 3: silmät on siellä sivuilla silleen, että ne katsoo ylöspäin.
 Puhuja 3: Sieltä akvaarion
-Puhuja 4: pinnalta sä näet niiden silmät. Tai sit sellaisia, jolla on melkein sen koko kalan kokoinen
-Puhuja 4: ihmeen hyytelö.
-Puhuja 4: Tuosta tulee saman fiilis, kun välillä on
+Puhuja 3: pinnalta sä näet niiden silmät. Tai sit sellaisia, joilla on melkein sen koko kalan kokoinen
+Puhuja 3: ihmeen hyytelö.
+Puhuja 3: Tossa tulee saman fiilis, kun välillä on
 Puhuja 2: näitä botox-pistoksia,
 Puhuja 2: mutta mitä ihmiset tekee itsellensä
 Puhuja 2: tai kauneusvillityksiä
 Puhuja 2: tai ihanteita, mikä on milloinkin cool.
 Puhuja 2: Tuosta
-Puhuja 2: tulee vähän samat fiilis. Kyllä ihminen on jotenkin niin tosi tyhmä.
-Puhuja 2: Mikä ihmeen etu on se, että mun, jos sä akvaariossa lilluvat kalaa, jolla on silmät ylöspäin? What's the point? Ei, mikä on joku
-Puhuja 3: esteetön.
-Puhuja 4: Niin ja onko se edes esteettistä ja kuka keksi, että se on ja pitääkö kaikkea urpoon lähteä mukaan?
-Puhuja 4: Ilmeisesti pitää? Ilmeisesti kyllä. Ja sitten tää on johtanut siihen, että
+Puhuja 2: tulee vähän samat fiilis, että kyllä ihminen on jotenkin niin tosi tyhmä.
+Puhuja 2: Mikä ihmeen etu on se, että mun akvaariossa lilluvat kalaa, jolla on silmät ylöspäin? What's the point? Mikä on joku esteettinen? Niin ja onko se edes esteettistä
+Puhuja 2: ja kuka keksi, että se on ja pitääkö kaikkea urpoon lähteä mukaan?
+Puhuja 3: Ilmeisesti pitää? Ilmeisesti kyllä. Ja sitten tää on johtanut siihen, että
 Puhuja 3: kun kultakala on aikoinaan ollut ennen kuin siitä tuli kultakala, niin ihan siis sellainen ehkä lahnan näköinen
 Puhuja 3: Lahnan näköinen
-Puhuja 3: kohdassa ja se on hirveätä ongelmia sen, kun sen sisälle ei mahdu sisälle. Se vaan törmäilee siellä akvaariossa kaikkialle, kun
+Puhuja 3: kohdassa ja se on hirveätä ongelmia sen, kun sen sisälle ei mahdu sisälle.
+Puhuja 3: Se vaan törmäilee siellä akvaariossa kaikkialle, kun
 Puhuja 3: se on niin pallo. Ei sen pyrstökään
 Puhuja 3: pysty oikein ohjaamaan sitä.
 Puhuja 2: No oisko eettistä ottaa
@@ -203,8 +202,9 @@ Puhuja 3: Voin nyt paljastaa, että Elisan mielestä selvästi eettisin. Lemmikk
 Puhuja 4: oli kiva täällä. Me tosiaan aamulla
 Puhuja 4: oltiin meidän koiran Lyytin kanssa ulkona. Koska mä löydän kuulokkeita, niin mä kävelin
 Puhuja 4: Lyytin kanssa. Mulla oli kännykässä ällö päällä. Lyyti kuunteli kanssa.
-Puhuja 4: Musta oli sinänsä lohtua. Lyytti se myöhemmissä lisää. Just näin.
-Puhuja 4: Kyllähän koirat on ihan sairaanmaita.
+Puhuja 4: Musta oli sinänsä lohen. Lyytit se myöhemmissä lisää.
+Puhuja 4: Just näin. Kyllähän
+Puhuja 4: koirat on ihan sairaanmaita.
 Puhuja 4: Mun täytyy kehua ja podia, mutta sitä oli tosi kiva kuunnella.
 Puhuja 4: Te olit tosi luontevia
 Puhuja 3: se
@@ -258,8 +258,8 @@ Puhuja 2: lonkeron
 Puhuja 2: tai
 Puhuja 2: jonkun muun juoman, mikä teitä sillä hetkellä miellyttää
 Puhuja 2: ja istutte alas baaritiskelle
-Puhuja 4: ja huokaatte ja ryhdytte baarimikolle
-Puhuja 4: kertomaan mitä.
+Puhuja 3: ja huokaatte ja ryhdytte baarimikolle
+Puhuja 3: kertomaan mitä.
 Puhuja 3: Minä kertoisin hänelle ja itse asiassa suosittelisin tätä myös
 Puhuja 3: Porbolle ja Purralle ja kaikille muille.
 Puhuja 3: Areenaan on tullut tällainen
@@ -320,9 +320,9 @@ Puhuja 4: on sama ihminen, mutta ne eivät tiedä toisistaan niin voiko mitään
 Puhuja 4: Töissä oleva ihminen on aina töissä ja vapaalla oleva ihminen on aina vapaalla. Se on
 Puhuja 4: ihan huikea sarja ollut jenkeissä, tällainen
 Puhuja 4: jättimenestys.
-Puhuja 4: Se toinen kausi nyt tuli ja toisen kauden...
+Puhuja 4: Toinen kausi nyt tuli ja toisen kauden...
 Puhuja 4: Katsoin Tuomaksen suostuuksesta katsomaan. Onhan semmoista oli sairaan makee.
-Puhuja 4: Toinen kausi päättyi juuri. Se on
+Puhuja 4: Toinen kausi päättyi juuri. Se
 Puhuja 4: aika hieno loppu.
 Puhuja 4: Sitten kuitenkin mietin,
 Puhuja 4: kun seuraavana päivänä se sarja loppui, niin kerrotaan, että nyt ruvetaan tekemään kolmatta kautta. Mutta
@@ -333,9 +333,9 @@ Puhuja 2: suosittelet sitä vain. Ei.
 Puhuja 4: Mä innostuin uudestaan, koska tämä oli mun oma ajatus. Sitten luin New York Timesissa eilen
 Puhuja 4: tämmöinen Liisa Schwarchbaumin
 Puhuja 4: kolumni,
-Puhuja 4: jossa hän kertoi rakasteneensa severanssia ja
-Puhuja 4: ihmetteli sitä, miksi
-Puhuja 4: lähes aina
+Puhuja 4: jossa hän kertoi rakasteneensa severanssia ja sitten ihmetteli
+Puhuja 4: ihmetteli,
+Puhuja 4: miksi lähes aina
 Puhuja 4: nämä
 Puhuja 4: striimauspalveluiden
 Puhuja 4: hittisarjat, miksi megä
@@ -407,6 +407,9 @@ Puhuja 2: on se, että pitäkää työpaikalla elokuva-iltapäivä.
 Puhuja 2: Me
 Puhuja 2: haettiin popcornia,
 Puhuja 2: karkkia ja limpparia.
+Puhuja 3: Mistä sen näkee?
+Puhuja 3: Se oli Netflixilla.
+Puhuja 3: Noni.
 Puhuja 2: Siinä kaikki tältä erää.
 Puhuja 2: Kiitos Inkeri Harju. Kiitos paljon. Kiitos Marko Junkkari. Kiitos. Minun nimeni on edelleen tämän lähetyksen
 Puhuja 2: jälkeenkin Salla Vuorikoski. Äänenkuvan ja kaiken muun ihanan tekee meille tällä viikolla Jonne Piltonen.

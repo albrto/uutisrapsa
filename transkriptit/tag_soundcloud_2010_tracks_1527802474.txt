@@ -25,25 +25,25 @@ Puhuja 0: Euroopassa ja maapallolla
 Puhuja 0: ovat.
 Puhuja 0: Helsingin Sanomien
 Puhuja 0: politiikan toimittaja Marko Junckyri, saako puhua tästä itse asiasta, mikä tässä on nyt suuresti läsnä?
-Puhuja 2: Ai mun hampaasta?
-Puhuja 0: No, saadaan. Marko on käynyt
-Puhuja 0: eilen toissapäivänä? Toissapäivänä
+Puhuja 1: Ai mun hampaasta?
+Puhuja 0: No, saadaan. Marko on käynyt eilen toissapäivänä?
+Puhuja 0: Toissapäivänä
 Puhuja 0: viisaudempaan
 Puhuja 0: leikkauksessa.
 Puhuja 0: Se on nyt niin huumattuna
 Puhuja 0: täällä studiossa, että
 Puhuja 0: Pyhä Luoja varjele, mitä sieltä voi tulla?
-Puhuja 2: Ensinnäkin tämä kirurgi moitti mua, että miks mä en leikkauttanut niitä tai revityttänyt kolmekymmentä vuotta sitten. Mutta nyt ne sitten.
-Puhuja 2: Tää kirurgi, joka oli paljon
-Puhuja 2: hyvin
-Puhuja 2: kokenut ammatissaan, sanoi, että hän on elämässään
-Puhuja 2: leikannut noin 40000 tai viisikymmentätuhatta viisauden hammasta. Ja mun hammas pääsi, kun ollaan vaikeudessaan topkykkää.
-Puhuja 2: En tiedä oikeastaan
-Puhuja 3: vähän säväytti, että aika siistiä. Joo, huhhuh.
+Puhuja 1: Ensinnäkin tämä kirurgi moitti mua, että miks mä en leikkauttanut niitä tai revityttänyt kolmekymmentä vuotta sitten. Mutta nyt ne sitten.
+Puhuja 1: Tää kirurgi, joka oli paljon
+Puhuja 1: hyvin
+Puhuja 1: kokenut ammatissaan, sanoi, että hän on elämässään
+Puhuja 1: leikannut noin 40000 tai viisikymmentätuhatta viisauden hammasta. Ja mun hammas pääsi, kun ollaan vaikeudessaan topkykkää.
+Puhuja 1: En tiedä oikeastaan
+Puhuja 2: vähän säväytti, että aika siistiä. Joo, huhhuh.
 Puhuja 0: Kun sä aiemmin tuossa kuvasit Marko
 Puhuja 0: tätä rutinaa, napsumista ja luiden murskauttamista,
 Puhuja 0: mitä
-Puhuja 0: siellä tapahtuu, niin kuuluu kyllä hurjalta. Mä haluan kertoa, että multakin
+Puhuja 0: siellä tapahtuu, niin kuuluu kyllä hurjalta. Mä haluan kertoa, että multakin...
 Puhuja 0: Tai mulle tehtiin iso hammasremontti
 Puhuja 0: kevään aikana.
 Puhuja 0: Mun piti eka mennä hammashommaan
@@ -62,18 +62,18 @@ Puhuja 0: Ei vaan täysin randomme hyminää. Koko operaation
 Puhuja 0: ajan alusta loppuun.
 Puhuja 0: Se jotenkin helpottaa mun pitää hermosteen.
 Puhuja 0: Lauloitko sä Marko?
-Puhuja 2: Laulanut. Puristin
-Puhuja 2: hammaslääketuolin
-Puhuja 2: käsi.
-Puhuja 2: Kunhan
-Puhuja 2: on mahdollista. Ei sattunut yhtään. Puuttukset onnistuivat hyvin, mutta ei se kauhean kivaa ole.
+Puhuja 1: Laulanut. Puristin
+Puhuja 1: hammaslääketuolin
+Puhuja 1: käsi.
+Puhuja 1: Kunhan
+Puhuja 1: on mahdollista. Ei sattunut yhtään. Puuttukset onnistuivat hyvin, mutta ei se kauhean kivaa ole.
 Puhuja 0: Oo. Hammasmyötäelämässä
 Puhuja 0: meidän kanssa on
 Puhuja 0: politiikan
 Puhuja 0: toimituksen supertykki.
 Puhuja 0: Anni keskehetkilän ystävien kesken AKH. Hei, AKH.
-Puhuja 1: Hei. Nyt mua hävettää, kun tossa ennen nauhoitusta mä elvsittelen, kuinka vaikeeta mun
-Puhuja 1: viisaren hampaat oli, mutta ne ei ollut kyllä noin vaikeat kuin matkustaa. Mitään verrattivat tähän. Ei mitään. Mukana on myös
+Puhuja 3: Hei. Nyt mua hävettää, kun tossa ennen nauhoitusta mä elvsittelen, kuinka vaikeeta mun
+Puhuja 3: viisaren hampaat oli, mutta ne ei ollut kyllä noin vaikeat kuin matkustaa. Mitään verrattivat tähän. Ei mitään. Mukana on myös
 Puhuja 0: Helsingin Sanomien politiikan toimituksen ympäristöasiantuntija,
 Puhuja 0: mutta tällä viikolla varsinkin ruotsalaisen kansanpuolueen
 Puhuja 0: asioihin erityisesti
@@ -88,43 +88,40 @@ Puhuja 0: riitelystä ja
 Puhuja 0: kaoottisesta ovien paukuttelusta
 Puhuja 0: liittyen hallitusneuvotteluihin.
 Puhuja 0: Eikös pääsyy ollut se, että et uskaltanut päästämaan lähetykseen kaupuksella niin paljon Burana kussatasta.
-Puhuja 3: Marko jo pakenemassa tältä heti kun me astuin sisään.
-Puhuja 1: Petjalla on erinomainen ruotsin kielen taito, niin Petja ymmärtää kaikki ne huvistat laaditin jutut.
-Puhuja 0: Juuri näin. Ja
+Puhuja 2: Marko jo pakenemassa tältä, heti kun me astuin sisään.
+Puhuja 3: Petjalla on erinomainen ruotsin kielen taito, niin Petja ymmärtää kaikki ne huvistajat laaditin jutut. Juuri näin. Ja
 Puhuja 0: Sen lisäksi keskustellaan
 Puhuja 0: vihreiden
 Puhuja 0: puheenjohtajakamppailusta,
 Puhuja 0: joka saavuttaa kliimaxinsa
 Puhuja 0: ihan pian, eikö olekin kesäkuun alussa, Marko.
-Puhuja 2: Puoluekokous on paljon tossa viikon päästä. Kyllä. Vihreiden puheenjohtajakamppailu
+Puhuja 1: Puoluekokous on paljon tossa viikon päästä. Kyllä. Vihreiden puheenjohtajakamppailu
 Puhuja 0: on ollut
 Puhuja 0: täysin
-Puhuja 2: poikkeuksellisen surkea vaalituloksen jälkeen. Siihen Eemil Kastehelmeen yhteyttä. Oletko joka Iltalehden
-Puhuja 2: faktojen tarkistaja? Otatko sä et tsekata näitä juttuja?
-Puhuja 3: Oli tullut myös lukijoilta. Oli muitakin. Mutta tämä oli yksi, mistä oli todennäköisesti lähtenyt. Ja ne kuvat pystyttiin osoittamaan, että ne ei ainakaan ole sieltä ja sinä aikana, kun niissä väitettiin.
+Puhuja 1: poikkeuksellisen surkea vaalituloksen jälkeen. Siihen Eemil Kastehelmeen yhteyttä. Oletko joka Iltalehden
+Puhuja 1: faktojen tarkistaja? Otatko sä et tsekata näitä juttuja?
+Puhuja 2: Oli tullut myös lukijoilta. Oli muitakin. Mutta tämä oli yksi, mistä oli todennäköisesti lähtenyt. Ja ne kuvat pystyttiin osoittamaan, että ne ei ainakaan ole sieltä ja sinä aikana, kun niissä väitettiin.
 Puhuja 0: Mun mielestä
 Puhuja 0: se kuulostaa hyvin
 Puhuja 0: ymmärrettävältä, että tälleen nyt kävi, että tyyppi, joka oli ansainnut luottamuksen,
 Puhuja 0: ei ollutkaan.
 Puhuja 0: Kunnes sitten rupeaa lukemaan niitä juttuja, mitä se on kirjoittanut.
-Puhuja 0: Ne oli kyllä jotenkin
+Puhuja 0: Ne oli kyllä jotenkin...
 Puhuja 0: Ne on nyt poistettu, niitä on vaikea löytää, mutta kuvakaappahot on otettu talteen sosiaaliseen
 Puhuja 0: mediaan. Ne on tosi, tosi
 Puhuja 0: poskettomia.
 Puhuja 0: Mä siteerään hyvin lyhyesti pätkän yhdestä jutusta,
 Puhuja 0: joka
 Puhuja 0: käsittelee sota tilannetta Ukrainassa. Ahdistavan
-Puhuja 0: hetken Näin siis kirjoittaa tämän fikseritoimittaja.
+Puhuja 0: hetken... Näin siis kirjoittaa tämän fikseritoimittaja.
 Puhuja 0: Ahdistavan hetken keskellä yksi iskujoukon
 Puhuja 0: jäsenistä syöksyy kohti panssarivaunungon
 Puhuja 0: rungon päällä makeaa kaatunutta ukrainalaista sotilasta.
 Puhuja 0: Epäuskoinen huuto karkaa hänen huuliltaan:
 Puhuja 0: Pyhän Hengen kautta! En voi uskoa, että sä olet sinä,
-Puhuja 0: veli! Hän tarttuu liikkumattomaan
-Puhuja 0: käteen, joka riippuu velttona ja painaa sen hien kastelemaan
+Puhuja 0: veli! Hän tarttuu liikkumattomaan käteen, joka riippuu velttona ja painaa sen hien kastelemaan
 Puhuja 0: otsaansa vasten kyyneleet, valovat vapaasti hänen päästäessään valloilleen äänekkään huudon Minä halveksin venäläisiä jokaista heistä!
-Puhuja 0: Tunteidensa kourissa sotilas lähestyi Iltalehden toimittajaa
-Puhuja 0: silmät täynnä päättäväisyyttä.
+Puhuja 0: Tunteidensa kourissa sotilas lähestyi Iltalehden toimittajaa silmät täynnä päättäväisyyttä.
 Puhuja 0: Sinun täytyy ymmärtää, että tämä soturikesti
 Puhuja 0: vankeuden kauhut, ne paskiaiset
 Puhuja 0: kinuttivat häntä, tappoivat hänen lähimmän ystävänsä ja silti hän palasi taistelukentälle
@@ -133,33 +130,34 @@ Puhuja 0: Ja nyt minä kostan hänen kuolemansa.
 Puhuja 0: Tämmöinen paska pääsee läpi
 Puhuja 0: juttuun asti, niin onhan se sillä, että jossain on prosessi
 Puhuja 0: pettänyt ja pahasti.
-Puhuja 1: Kyllähän tuossa herää kysymys siitä, kuka ne on editoinut ja kääntänyt ja
-Puhuja 1: onko siellä tarpeeksi
-Puhuja 1: sellaisia tuottajahahmoja
-Puhuja 1: tekemässä tällaista työtä.
-Puhuja 3: Ehkä me olin joskus ulkomaan toimituksessa
-Puhuja 3: just uutistuottajana
-Puhuja 3: hahmo, joka vaikka
-Puhuja 3: avustajienkin tekstejä otti vastaan.
-Puhuja 3: Ehkä nyt vähintäänkin tuossa olisi pitänyt miettiä,
-Puhuja 3: että onko mitenkään mahdollista että toimittaja on tuollaisessa tilanteessa
-Puhuja 3: noin lähellä.
-Puhuja 3: Ja ollaanko me lähetetty meidän toimittaja tuollaiseen tilanteeseen?
-Puhuja 3: Käytännössä siis taisteluiden keskellä.
-Puhuja 3: Kun sotaan voi mennä niin monella tavalla ja suurin osa Suomenkin toimittajista jotka sinne menee on Kiovassa tai hyvin turvallisissa paikoissa.
-Puhuja 3: Sitten jotkut harvat menee käymään lähellä rintamaa jolloin aina mennään toisen joukon
-Puhuja 3: mukana tässä tapauksessa Ukrainan joukon mukana. Onhan meiltä vaikka Sami Sillanpää ollut Ukrain
-Puhuja 3: ukrainalaisten kranaatinheitin
-Puhuja 3: asemassa käymässä lyhyesti riskialttiimpia juttuja mitä meidän riskinoppimpia juttuja, mitä meidän toimittaja on tehnyt. Siinä olisi joku
-Puhuja 3: droneja
-Puhuja 1: Tuntematon sotilas. Mä
-Puhuja 1: itse asiassa näin yhden esimerkin
-Puhuja 1: Iltalehden jutusta mukaan, joka ehkä on osoittautunut lopulta vitsiksi, koska täällä seikkailee Kari Luocuk
-Puhuja 1: ja Carna Zev ja
-Puhuja 1: hakkaa päälle Kiovan poika. Mitä ei ehkä ollutkaan vissiin toista.
-Puhuja 1: Se ei ehkä ollutkaan. Mutta siis samanlaista kamaa.
-Puhuja 1: Ekaksi meni ihan läpi, että tollaistako siellä on lukenut. Mä
-Puhuja 0: mietin vaan
+Puhuja 3: Kyllähän tuossa herää kysymys siitä, kuka ne on editoinut ja kääntänyt ja
+Puhuja 3: onko siellä tarpeeksi
+Puhuja 3: sellaisia tuottajahahmoja
+Puhuja 3: tekemässä tällaista työtä.
+Puhuja 2: Ehkä me olin joskus ulkomaan toimituksessa
+Puhuja 2: just uutistuottajana
+Puhuja 2: hahmo, joka vaikka
+Puhuja 2: avustajienkin tekstejä otti vastaan.
+Puhuja 2: Ehkä nyt vähintäänkin tuossa olisi pitänyt miettiä,
+Puhuja 2: että onko mitenkään mahdollista että toimittaja on tuollaisessa tilanteessa
+Puhuja 2: noin lähellä.
+Puhuja 2: Ja ollaanko me lähetetty meidän toimittaja tuollaiseen tilanteeseen?
+Puhuja 2: Käytännössä siis taisteluiden keskellä.
+Puhuja 2: Kun sotaan voi mennä niin monella tavalla ja suurin osa Suomenkin toimittajista jotka sinne menee on Kiovassa tai hyvin turvallisissa paikoissa.
+Puhuja 2: Jotkut harvat menee käymään lähellä rintamaa, jolloin aina mennään toisen joukon
+Puhuja 2: mukana tässä
+Puhuja 2: tapauksessa Ukrainan joukon mukana. Onhan meiltä vaikka Sami Sillanpää ollut
+Puhuja 2: Ukrainalaisten kranaatinheitin
+Puhuja 2: asemassa käymässä lyhyesti
+Puhuja 2: riskinoppimpia juttuja, mitä meidän toimittaja on tehnyt. Siinä olisi joku droneja
+Puhuja 3: Tuntematon sotilas. Mä
+Puhuja 3: itse asiassa näin yhden esimerkin
+Puhuja 3: Iltalehden jutusta mukaan, joka ehkä on osoittautunut lopulta vitsiksi, koska täällä seikkailee Kari Luocuk
+Puhuja 3: ja Carna Zev ja
+Puhuja 3: hakkaa päälle Kiovan poika. Mitä ei ehkä ollutkaan vissiin toista.
+Puhuja 3: Se ei ehkä ollutkaan. Mutta siis samanlaista kamaa.
+Puhuja 3: Ekaksi meni ihan läpi, että tollaistako siellä on lukenut. Mä
+Puhuja 0: mietin vaan...
 Puhuja 0: Millä tavalla en halua puolustella ketään, eikä varsinkaan mediaa. Mun mielestä mediaa
 Puhuja 0: pitäisi arvostella kovemmin kuin
 Puhuja 0: muita tai mitä media arvostelee.
@@ -168,70 +166,72 @@ Puhuja 0: esimerkiksi, muistatteko, kun
 Puhuja 0: melkein kaikkialla meni läpi ne jutut siitä, että venäläissotilaat
 Puhuja 0: raiskaavat vauvoja Ukrainassa.
 Puhuja 0: Se laitettiin ihan kaikkialla vaan, että joku
-Puhuja 0: ukrainalainen tyyppi, Laittoikut tiedotteet jo venäläis täällä raiskaa vauvoja. Kaikki maailman mediat kirjot kirjot kirjot ne suoraan juttuun. Vauvoja raiskaa ääneen. Ja näitä raiskaamisia on
-Puhuja 3: oikeasti todennettukin. Siinä
-Puhuja 3: Siinä tapahtui niin nopeesti se, että tietenkin Ei oo vaan avoin raskauksia, ei todennäköisesti. Ei, mutta me tarvitaan ylipäänsä raskauksia. Ratkaisut, joo! Mistä avoin rasvoja on?
-Puhuja 0: Miten sitä voi
-Puhuja 3: Kyllä. Ja on just sanomassa sitä, että siinä tapahtui niin äkkiä Suomessakin se mentaliteetin
-Puhuja 3: muutos
-Puhuja 3: myöskin mediassa siihen. Totta kai ollaan Ukrainan puolella,
-Puhuja 3: mutta
-Puhuja 3: ei se semmonen lähdekriittisyys
-Puhuja 3: saisi hävitä siitä mihinkään. Ja ehkä aika pitkään annettiin myöskin
-Puhuja 3: sitä kuvaa. Vahvistettiin sitä viestiä, että Venäjän armeija on niin ammattitaidon, että ne vaan ampuvat itsensä jalkaa sieltä. Itseasiassa vaan hyvää, jos järjestävät kutsunut, koska sitten siellä on vielä useampi ihminen ampumassa itsensä jalkaa.
-Puhuja 3: Ei
-Puhuja 3: asia
-Puhuja 3: ole realismia.
+Puhuja 0: ukrainalainen tyyppi, Laittoikut tiedotteet jo venäläiset raiskaa vauvoja. Kaikki maailman mediat kirjot kirjot kirjot ne suoraan juttuun. Vauvoja raiskaa ääneen. Ja näitä raiskaamisia on
+Puhuja 2: oikeasti todennettukin. Siinä
+Puhuja 0: Siinä tapahtui niin nopeesti se, että tietenkin... Ei oo vaan avoin raskauksia, ei todennäköisesti. Ei, mutta me tarvitaan ylipäänsä raskauksia. Ratkaisut, joo! Mistä avoin rasvoja on?
+Puhuja 2: Miten sitä voi... Kyllä. Ja on just sanomassa sitä, että siinä tapahtui niin äkkiä Suomessakin se mentaliteetin
+Puhuja 2: muutos
+Puhuja 2: myöskin mediassa siihen. Totta kai ollaan Ukrainan puolella,
+Puhuja 2: mutta
+Puhuja 2: ei se semmonen lähdekriittisyys
+Puhuja 2: saisi hävitä siitä mihinkään. Ja ehkä aika pitkään annettiin myöskin
+Puhuja 2: sitä kuvaa. Vahvistettiin sitä viestiä, että Venäjän armeija on niin ammattitaidon, että ne vaan ampuvat itsensä jalkaa sieltä. Itseasiassa vaan hyvää, jos järjestävät kutsunut, koska sitten siellä on vielä useampi ihminen ampumassa itsensä jalkaa.
+Puhuja 2: Ei
+Puhuja 2: asia
+Puhuja 2: ole realismia.
 Puhuja 0: Mun mielestä se on karhunpalvelus Ukrainan asialle, jossa ruvetaan tekemään ihan semmoista sumeilematonta
 Puhuja 0: propagandaa.
 Puhuja 0: Se on tosi tyhmää.
-Puhuja 1: Tässähän vähän niin kuin Iltalehti, kun he ovat selitellyt
-Puhuja 1: tätä asiaa ja poistivat
-Puhuja 1: juttuja ja selittivät, miksi poistettiin, niin vähän ehkä meni
-Puhuja 1: ukrainalaisten selän taakse siinä, että
-Puhuja 1: Titule heräsi häntä nyt ukrainalaiseksi
-Puhuja 1: avustajaksi, kun aiemmin näissä jutuissa hän oli ollut IEL:n
-Puhuja 1: toimittaja. Ja jotenkin että Ukrainassa ei ehkä ole samaa. En muista sano tarkasti, miten se kirjoitti Siellä on 5G-konventiot
-Puhuja 2: ovat erilaisia. Niin.
-Puhuja 1: Uskon, että on myös
-Puhuja 1: ukrainalaisia luotettavasti toimivia journalisteja.
-Puhuja 1: Ja toisaalta suomalaistenkin
-Puhuja 1: monien toimittajien se käsitys on semmoinen, että Ukrainan puolellahan tässä ollaan
+Puhuja 3: Tässähän vähän niin kuin Iltalehti, kun he ovat selitellyt
+Puhuja 3: tätä asiaa ja poistivat
+Puhuja 3: juttuja ja selitti, miksi poistettiin, niin vähän ehkä meni
+Puhuja 3: ukrainalaisten selän taakse siinä, että
+Puhuja 3: Titule heräsi häntä nyt ukrainalaiseksi
+Puhuja 3: avustajaksi, kun aiemmin näissä jutuissa hän oli ollut IEL:n
+Puhuja 3: toimittaja. Ja jotenkin että Ukrainassa ei ehkä ole samaa. En muista sano tarkasti, miten se kirjoitti... Siellä on 5G-konventiot
+Puhuja 1: ovat erilaisia. Niin.
+Puhuja 3: Uskon, että on myös
+Puhuja 3: ukrainalaisia luotettavasti toimivia journalisteja.
+Puhuja 3: Ja toisaalta suomalaistenkin
+Puhuja 3: monien toimittajien se käsitys on semmoinen, että Ukrainan puolellahan tässä ollaan...
 Puhuja 0: Totta kai pitää auki. Niin.
 Puhuja 0: Viimeinen kysymys.
 Puhuja 0: Oisko teidän mielestä
 Puhuja 0: pitänyt poistaa nämä jutut?
 Puhuja 0: Vai olisiko pitänyt jättää huomautuksineen,
 Puhuja 0: että tällaista soopasta tuli julkaistua? Sori, mikään tässä ei ole varmennettu.
-Puhuja 2: Jos oikein ymmärsin, musta
-Puhuja 2: päätoimittaja
-Puhuja 2: Perttu Kauppinen on sanonut, että nyt ne käy ne läpi ja tsekkaa, jonka jälkeen ne
-Puhuja 2: julkaistaan
-Puhuja 2: ne uudestaan. Olis kai se vähimmäis. Onhan tääkin hassua, että ne
-Puhuja 2: vedetään pois ja
-Puhuja 2: koitetaan peittää ne virheet.
+Puhuja 1: Jos oikein ymmärsin, musta
+Puhuja 1: päätoimittaja
+Puhuja 1: Perttu Kauppinen on sanonut, että nyt he käy ne läpi ja tsekkaa, jonka jälkeen
+Puhuja 1: he
+Puhuja 1: julkaistaan
+Puhuja 1: ne uudestaan. Olis kai se vähimmäis. Onhan tääkin hassua, että vedetään
+Puhuja 1: pois ja koitetaan peittää ne virheet.
 Puhuja 0: Kiestään säännöt kieltää
-Puhuja 0: sen, ei saa poistaa. Painavista syistä.
-Puhuja 1: Se
-Puhuja 1: järjestys on väärä mun mielestä.
-Puhuja 1: Ensiksi olisi pitänyt
-Puhuja 1: näyttää ne virheet, että missä on virhe.
-Puhuja 1: Näin on oikea tapa. Tapahtuma. Ja
-Puhuja 1: sitten en tiedä. Niin. Se on jännä.
-Puhuja 1: Mutta haluan sanoa sen myös, että
-Puhuja 1: ei me tässä mitenkään olla iloisia toisen median virheistä. Ei tiedosta.
-Puhuja 3: Jotain merkkejä. Kaiken kaikkiaan tietenkin tosi valitettavaa. Ja se alkuperäinen pyrkimys,
-Puhuja 3: että koittaa työllistää paikallistatoimittaja,
-Puhuja 3: joka tuntee paikalliset olot ihan kentällä. Se alkuperäinen pyrkivyyshän on tietenkin
-Puhuja 3: just oikein. Se pitää sanoa.
-Puhuja 2: Niin, hänen työllistäminen ja myös se pyrkimys, että yritetään saada suomalaisille lukioina kamaa sieltä. Niin,
-Puhuja 3: paikan päältä
-Puhuja 0: havaintoja. Kaikista paras tapa estää virheet on se, että on hyvä editöörikerros, joka käsittelee jutut kriittisesti, soittaa toimittajalle perään, että ihan kuin varmasti sanoo, että Pyhän Hengen kautta. En voi uskoa, että sä olet sinä, veli. Olen esimerkiksi soittanut kerran
+Puhuja 0: sen? Ei saa poistaa. Painavista syistä.
+Puhuja 3: Se
+Puhuja 3: järjestys on väärä mun mielestä.
+Puhuja 3: Ensiksi olisi pitänyt
+Puhuja 3: näyttää ne virheet, että missä on
+Puhuja 3: virhe.
+Puhuja 3: Näin on oikea tapa.
+Puhuja 3: Tapahtuma. Ja
+Puhuja 3: sitten en tiedä. Niin. Se on jännä.
+Puhuja 3: Mutta haluan sanoa sen myös, että
+Puhuja 3: ei me tässä mitenkään olla iloisia toisen median virheistä.
+Puhuja 2: Jotain merkkejä. Kaiken kaikkiaan tietenkin tosi valitettavaa. Ja se alkuperäinen pyrkimys,
+Puhuja 2: että koittaa työllistää paikallistatoimittaja,
+Puhuja 2: joka tuntee paikalliset olot ihan kentällä. Se alkuperäinen pyrkivyyshän on tietenkin
+Puhuja 2: just oikein. Se pitää sanoa.
+Puhuja 1: Niin, hänen työllistäminen ja myös se pyrkimys, että yritetään saada suomalaisille lukioina kamaa sieltä. Niin,
+Puhuja 2: paikan päältä
+Puhuja 2: havaintoja.
+Puhuja 0: Kaikista paras tapa estää virheet on se, että on hyvä editöörikerros, joka käsittelee jutut kriittisesti, soittaa toimittajalle perään, että ihan kuin varmasti sanoo, että Pyhän Hengen kautta. En voi uskoa, että sä olet sinä, veli. Olen esimerkiksi soittanut kerran
 Puhuja 0: meidän toimittaja Esa Juntuselle, että tässä sun
 Puhuja 0: jutun alussa sanotaan, että koira sanoi, että
 Puhuja 0: Wuf,
 Puhuja 0: mutta eikö suomalainen koira sanoisi, että Wuf.
-Puhuja 2: Hän varmaan arvostaa sulle soittaa.
+Puhuja 1: Hän varmaan arvostaa sulle soittaa.
 Puhuja 0: Kaikki deskit sä naurat. Hyppääti tarkistus.
 Puhuja 0: Okei.
 Puhuja 0: Sitten, kun hyppäätte,
@@ -258,19 +258,19 @@ Puhuja 0: toimittajia.
 Puhuja 0: Milläs jutuilla
 Puhuja 0: heitä
 Puhuja 0: viihdettäisiin?
-Puhuja 1: Minä sanoisin, että nyt on oikea aika ottaa käteen
-Puhuja 1: superpesiksen otteluohjelma
-Puhuja 1: ja katsoa sieltä, että mihinkäs peleihin pääsisin paikan päälle. Tuletko Hyvinkäälle Tukholmaan. No ehkä tuun. Mä oon merkannut. Tein tätä itse nyt kalenteriin.
-Puhuja 1: Kun
-Puhuja 1: Helsingissä ei oo näitä, niin Mikä sun joukkue on?
-Puhuja 1: Kenen-joukkue on kossuken korvan urheilijat Kossu.
-Puhuja 1: Mutta
-Puhuja 1: mun mielestä kaikki eteläpohjalaiset joukkueet käy. Vimpeli käy ja seinäjuoma löysi sen kasvot. Kyllä ja Hyvinkäälle
-Puhuja 1: Se näkyy ruutu Plussasta ne ottelut, ja on ihan kehittynyt viime vuosina se
-Puhuja 1: televisiointi.
-Puhuja 1: Mutta
-Puhuja 1: paljon parempi livenä paikan päällä. Ja ehkä
-Puhuja 1: jonkun kaverin kanssa osaa säännöt.
+Puhuja 3: Minä sanoisin, että nyt on oikea aika ottaa käteen
+Puhuja 3: superpesiksen otteluohjelma
+Puhuja 3: ja katsoa sieltä, että mihinkäs peleihin pääsisin paikan päälle. Tuletko Hyvinkäälle Tukholmaan. No ehkä tuun. Mä oon merkannut. Tein tätä itse nyt kalenteriin.
+Puhuja 3: Kun
+Puhuja 3: Helsingissä ei oo näitä, niin... Mikä sun joukkue on?
+Puhuja 3: Kenen-joukkue on kossuken korvan urheilijat Kossu.
+Puhuja 3: Mutta
+Puhuja 3: mun mielestä kaikki eteläpohjalaiset joukkueet käy. Vimpeli käy ja seinäjuoma löysi sen kasvot. Kyllä ja Hyvinkäälle
+Puhuja 3: Se näkyy ruutu Plussasta ne ottelut, ja on ihan kehittynyt viime vuosina se
+Puhuja 3: televisiointi.
+Puhuja 3: Mutta
+Puhuja 3: paljon parempi livenä paikan päällä. Ja ehkä
+Puhuja 3: jonkun kaverin kanssa osaa säännöt.
 Puhuja 0: Mä oon varmasti puhunut tästä.
 Puhuja 0: Mä oon ihan varma, että sä oot Anni aiemmin suositellut pesistä ja mä oon vastannut samalla asialla.
 Puhuja 0: Mun mielestä pesiksestä pitäisi tehdä Suomen ykköslaji.
@@ -279,64 +279,62 @@ Puhuja 0: hyvä sunnuntaipäiväfiilis
 Puhuja 0: Kaikki ne makkarat ja sitten semmoinen vähän käyskennellään siellä. Siinä on
 Puhuja 0: tosi hyvä fiilis olla
 Puhuja 0: matkalla kohti jotain upeaa. Se pitäisi sekoittaa siihen, mitä jenkit tekee baseball:nsa
-Puhuja 0: kanssa, joka Ne on ihan mielettömiä kokemuksia. Mutta niissäkin on semmoinen Se fiilis on silleen, että sä voit ottaa siellä pari kaljaa, mutta silti siellä on lapsia. Ja on
+Puhuja 0: kanssa, joka Ne on ihan mielettömiä kokemuksia. Mutta niissäkin on semmoinen... Se fiilis on silleen, että sä voit ottaa siellä pari kaljaa, mutta silti siellä on lapsia. Ja on
 Puhuja 0: tarkoitus, että kivasti pitää vaan mukavaa
 Puhuja 0: keskenään.
 Puhuja 0: Pesissä on tosi lähellä. Kaksi
 Puhuja 0: asiaa on pakko muuttaa. Kun
-Puhuja 0: televisiosta katsoo pesistä, siinä on se
+Puhuja 0: televisiosta katsoo pesistä, siinä on se...
 Puhuja 0: Lyöjä on
 Puhuja 0: se hetki, kun se osuu, eikö osuu, mihin se lähtee näin. Aivan mieletön dramaattinen hetki. Sen edessä heiluu joku kymmenen humalaisen näköistä tyyppiä.
 Puhuja 0: Heiluttelee räpylöitä ja kaiken maailman viuhkoja ja mailoja. Hej!
 Puhuja 0: Ne heiluu siis kameran ja sen lyönjän välissä. Siinä ei ole mitään järkeä. Se näyttää ihan kuin se olisi kaikki vaan päissään siellä.
 Puhuja 0: Haloo herätkää. Toinen asia ne kypärvät. Voi Jeesus, se norsun röntsä.
 Puhuja 0: Se on niin järkyttävän näköinen se asia, mikä niillä on päässä. Se on muutettava heti, niin siitä voi joku päivä olla kuuliila. Kypärät on pakko olla, ja niillä
-Puhuja 1: kaarella seisovilla pelaajilla on pointti.
-Puhuja 1: Joku televisio ihminen sinne töihin. Niillä on jokaisella oma tehtävänsä siinä kaarella. Yksi ihminen näyttää yhdelle ihmiselle tiettyä asiaa. Ne nostaa kameran sille, ettei ne näy siinä edessä. Sen sanon vielä, että pesispeleissä on todella hyvät
-Puhuja 1: musiikit.
-Puhuja 1: Aina kun tulee vähän hiljainen hetki, niin siellä alkaa soida joku dirlandaa tai mahtava
-Puhuja 1: minkä tahdissa sitten taputetaan. Se on tosi hyvä.
+Puhuja 3: kaarella seisovilla pelaajilla on pointti.
+Puhuja 3: Joku televisio ihminen sinne töihin. Niillä on jokaisella oma tehtävänsä siinä kaarella. Yksi ihminen näyttää yhdelle ihmiselle tiettyä asiaa. Ne nostaa kameran sille, ettei ne näy siinä edessä. Sen sanon vielä, että pesispeleissä on todella hyvät
+Puhuja 3: musiikit.
+Puhuja 3: Aina kun tulee vähän hiljainen hetki, niin siellä alkaa soida joku dirlandaa tai mahtava
+Puhuja 3: minkä tahdissa sitten taputetaan. Se on tosi hyvä.
 Puhuja 0: Helsinkiläisille
 Puhuja 0: kaikista lähin pesäpallo-peli,
 Puhuja 0: mitä pääset katsomaan, tämmöinen superpesissä on siis Hyvinkään tahko. Eli sinne vaan tervetuloa. Mä majotan kaikki tän podcastin kuulijat, jotka haluaa tulla käymään. Miesten puolella. Naisten pelejä voi olla lähempänä. Onko?
-Puhuja 2: Roihu varressa.
+Puhuja 1: Roihu varressa.
 Puhuja 0: Roihuttaret.
 Puhuja 0: Aivan totta.
 Puhuja 0: Pet.
-Puhuja 3: Mie
-Puhuja 3: suosittelen kunhan tässä
-Puhuja 3: kylmä jakso menee ohi ja tulee taas vähän lämpimämpää toivottavasti pian tän viikon jälkeen
-Puhuja 3: lähtemään
-Puhuja 3: illalla tai yöllä kävelylle johonkin paikkaan jossa voi kuulla yölaulajia Nyt
-Puhuja 3: on paras hetki kuulla yöllä laulavia lintuja kuten vaikkapa Viitakertusta,
-Puhuja 3: jota pidetään yhtenä Suomen parhaista laulajista
-Puhuja 3: tai erilaisia sirkkalintuja jotka kuulostaa hepokateilta mutta on itseasiassa lintuja niin kuin viitasirkkalintuja
-Puhuja 3: tai pensasirkkalintuja
-Puhuja 3: tai vähintäänkin nyt sata kieli jota Helsingissäkin
-Puhuja 3: täällä joka puska täynnä. Olin tosi yksi ilta just ennen tätä kylmää jaksoa kävelyllä Tamminiemessä
-Puhuja 3: päineilahdessa niin siellä oli esimerkiksi sata kielet äänessä ja viitasikkalintu.
-Puhuja 3: Siitä tulee tosi sellainen
-Puhuja 3: hieno alkukesän
-Puhuja 3: fiilis vaikka niitä ei tunnistaisikaan. Ja tämä aikaikkuna on itse asiassa aika lyhyt. Nämä kaikki
-Puhuja 3: ylälaulajalinnut
-Puhuja 3: ovat hyönteissyölintuja
-Puhuja 3: jotka tulevat Suomeen tosi myöhään, on tulleet tänne just. Ja nyt ne koirat siellä laulaa ja etsii naarasta. Ja sitten kun ne najutaan se naarraa, niin sitten ne hiljenee.
-Puhuja 3: Aikaikkunan näiden kuulemiselle on tässä
-Puhuja 0: nyt ihan kesäkuva alkupäivinä. Upeat. Mihin menisi, jos on täysi ääri, en ollut eläissäni, niin edes nähnyt lintua? Jos haluaisin mennä johonkin
+Puhuja 2: Mie
+Puhuja 2: suosittelen kunhan tässä
+Puhuja 2: kylmä jakso menee ohi ja tulee taas vähän lämpimämpää toivottavasti pian tän viikon jälkeen
+Puhuja 2: lähtemään
+Puhuja 2: illalla tai yöllä kävelylle johonkin paikkaan jossa voi kuulla yölaulajia Nyt
+Puhuja 2: on paras hetki kuulla yöllä laulavia lintuja kuten vaikkapa Viitakertusta,
+Puhuja 2: jota pidetään yhtenä Suomen parhaista laulajista
+Puhuja 2: tai erilaisia sirkkalintuja jotka kuulostaa hepokateilta mutta on itseasiassa lintuja niin kuin viitasirkkalintuja
+Puhuja 2: tai pensasirkkalintuja
+Puhuja 2: tai vähintäänkin nyt sata kieli jota Helsingissäkin
+Puhuja 2: täällä joka puska täynnä. Olin tosi yksi ilta just ennen tätä kylmää jaksoa kävelyllä Tamminiemessä
+Puhuja 2: päineilahdessa niin siellä oli esimerkiksi sata kielet äänessä ja viitasikkalintu.
+Puhuja 2: Siitä tulee tosi sellainen
+Puhuja 2: hieno alkukesän
+Puhuja 2: fiilis vaikka niitä ei tunnistaisikaan. Ja tämä aikaikkuna on itse asiassa aika lyhyt. Nämä kaikki
+Puhuja 2: ylälaulajalinnut
+Puhuja 2: ovat hyönteissyölintuja
+Puhuja 2: jotka tulevat Suomeen tosi myöhään, on tulleet tänne just. Ja nyt ne koirat siellä laulaa ja etsii naarasta. Ja sitten kun ne najutaan se naarraa, niin sitten ne hiljenee.
+Puhuja 0: Aikaikkunan näiden kuulemiselle on tässä nyt ihan kesäkuva alkupäivinä. Upeat. Mihin menisi, jos on täysi ääri, en ollut eläissäni, niin edes nähnyt lintua? Jos haluaisin mennä johonkin
 Puhuja 0: ja kuunnella niitä? Minkälainen paikka, mihin mä hakeutuisit?
-Puhuja 3: Vaikka niitunlaite,
-Puhuja 3: jossa jonkinlaista pusikkoa sin vois olla monenlaista, tai sitten ruovikko.
-Puhuja 3: Se
-Puhuja 0: on ruonu, mutta
-Puhuja 3: niitä pitkospuita, niin siinä missä on puskaa, niin siinä kuuluu luultavasti viitakerttu jossain kohtaa. Ja ruovikossa voi kuulua bensa-Sirkku
-Puhuja 3: lintuja. Okei.
+Puhuja 2: Vaikka niitunlaite,
+Puhuja 2: jossa jonkinlaista pusikkoa sin vois olla monenlaista, tai sitten ruovikko.
+Puhuja 2: Se on ruonu, mutta huono. Järvruokakauden. Jos ajattelee Helsingissä, niin
+Puhuja 2: niitä pitkospuita, niin siinä missä on puskaa, niin siinä kuuluu luultavasti viitakerttu jossain kohtaa. Ja ruovikossa voi kuulua bensa-Sirkku
+Puhuja 0: lintuja. Okei.
 Puhuja 0: Upeeta. Viikalupuohjelma
 Puhuja 0: Hyvinkäällä pesistä ja sitten Lammassaaren kuuntelee Lintoja. Marko!
-Puhuja 2: Mä voisin ensinnäkin toistaa sen, että
-Puhuja 2: mä ensi viikolla yritän saada kasaan syväluotavan
-Puhuja 2: analyysin vihreiden kriisin eri sävyistä.
-Puhuja 2: Laittakaa mulle viestiä
-Puhuja 2: kaikki vihreät, aktiivit ja muutkin. Kertokaa mun oman näkemykselleen asiasta. Selkeästi merkkimäärä ei ole vielä täynnä.
+Puhuja 1: Mä voisin ensinnäkin toistaa sen, että
+Puhuja 1: mä ensi viikolla yritän saada kasaan syväluotavan
+Puhuja 1: analyysin vihreiden kriisin eri sävyistä.
+Puhuja 1: Laittakaa mulle viestiä
+Puhuja 1: kaikki vihreät, aktiivit ja muutkin. Kertokaa mun oman näkemykselleen asiasta. Selkeästi merkkimäärä ei ole vielä täynnä.
 Puhuja 0: Ikä mä jatkan nää riemastuttavan
 Puhuja 0: suosituksen perään. Televisio
 Puhuja 0: on
@@ -381,10 +379,10 @@ Puhuja 0: vakava aihe, mutta se on tiiviydessään just hyvä, että se on vain 
 Puhuja 0: Janette Björqvist,
 Puhuja 0: kannattaa katsoa varsinkin nyt, kun poliittisesti
 Puhuja 0: turvapaikan pakolaisasiat
-Puhuja 0: jää maahanmuutto on niin
-Puhuja 0: tärkeitä.
+Puhuja 0: jää maahanmuutto on niin......
+Puhuja 0: Tärkeitä.
 Puhuja 0: Siinä kaikki tältä erää. Kiitos, Petri Pelli.
-Puhuja 3: Kiitos.
+Puhuja 2: Kiitos.
 Puhuja 0: Kiitos, Anne Keski-Heikkilä. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Peltomäki, äänenkuvan. Kaiken muun mahtava meille tekee
 Puhuja 0: viikikäimani
 Puhuja 0: Mikko Peura tällä viikolla.
@@ -394,7 +392,7 @@ Puhuja 0: Osoitteet ja kaikki on
 Puhuja 0: the usual.
 Puhuja 0: Ja me kuullaan jälleen
 Puhuja 0: ensi viikolla.
-Puhuja 1: Helsingin Sanomat.
+Puhuja 3: Helsingin Sanomat.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
@@ -411,7 +409,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

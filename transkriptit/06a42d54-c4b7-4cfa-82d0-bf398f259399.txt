@@ -15,10 +15,10 @@ Puhuja 0: menetetyt miljardit.
 Puhuja 2: Helsingin Sanomat.
 Puhuja 3: Hei ja tervetuloa Uusi-Saportti podcastiin poikkeuksellisesti
 Puhuja 3: keskiviikkona
-Puhuja 3: kaksimiljoonaa kolmesataa... Heinäkuuta kaksituhatta kaksikymmentäviisi.
+Puhuja 3: kaksimiljoonaa kolmesataakaksituhatta
+Puhuja 3: kaksikymmentäviisi.
 Puhuja 3: Vuoryön ilojen vuoksi äänitämme tämän viikon jaksanut
-Puhuja 3: keskiviikkona. Jos jotain räjähtää tai pamahtaa keskiviikkona illalla tai yöllä, niin emme tiedä siitä mitään.
-Puhuja 3: Minun nimeni on Rasmus Alaniemi. Mukanai täällä Sanomatalon studiossa on tuttuun tapaan ihana kesätiimi,
+Puhuja 3: keskiviikkona. Jos jotain räjähtää tai pamahtaa keskiviikkona illalla tai yöllä, niin emme tiedä siitä mitään. Minun nimeni on Rasmus Alaniemi ja mukanani täällä Sanomatalon studiossa on tuttuun tapaan ihana kesätiimi,
 Puhuja 3: tosin vahvennettuna vierailevalla politiikan toimittajalla.
 Puhuja 3: Talouden ja politiikan toimittaja Hanna Avusta, mitä tällä viikolla kuuluu?
 Puhuja 2: Tällä viikolla on ollut vähän hiljainen viikko.
@@ -40,14 +40,12 @@ Puhuja 3: Tällä viikolla uudisraportissa vierailee myös politiikan kesätoimi
 Puhuja 3: Saat vasta tässä kesällä kirjoittaa. Mä oikein tarkistin muun muassa Ottavan sopimuksesta, Palestiinan tunnustamisesta
 Puhuja 3: ja Suomen Akatemian kynsishalonkin
 Puhuja 3: tutkimuksesta.
-Puhuja 3: Millainen tää kesä on ollut?
-Puhuja 4: Oikein mukavaa. Ulkona on lämmin ja aurinko paistaa. Täällä on viileää.
-Puhuja 4: Nyt on ollut vähän hiljaisempi viikko, ehkä tää
-Puhuja 4: jäi edellinen. Mutta muuten on ollut mun mielestä
+Puhuja 4: Millainen tämä kesä on ollut? Oikein mukavaa. Ulkona on lämmin, aurinko paistaa. Täällä on viileää. Nyt on ollut vähän hiljaisempi viikko, ehkä tämä jäi edellinen. Mutta muuten on ollut mun mielestä
 Puhuja 4: kaikenlaisia juttuaiheita.
-Puhuja 3: Ilmastointi toimii. Kyllä. Sitä ei tarvi täällä
+Puhuja 2: Ilmastointi toimii.
+Puhuja 3: Sitä ei tarvi täällä
 Puhuja 3: täällä huolehtia vaikka teillä on kaikilla
-Puhuja 3: t-paidat päällä mä tarviin huppari... Mä jäänyn tänne hemmetin tehokkaaseen moderniin... Sanomalon studioon. Tosin oli vielä viime kesänä mutta ei mene siihen.
+Puhuja 3: t-paidat päällä mä tarviin huppari. Jäädyn tänne hemmetin tehokkaaseen moderniin... Sanomatalon studioon. Tosin oli vielä viime kesänä mutta ei mene siihen.
 Puhuja 3: Tänään puhutaan ensin Ukrainaa kohottavasta uudesta korruption vastaisesta laista.
 Puhuja 3: Ukrainan presidentti Volemirce Lenski... Allekirjoitti tiistailtaan kiistelyn lakimuutoksen,
 Puhuja 3: joka tiukentaa kahden keskeisen korruptionvastaisen...
@@ -58,11 +56,11 @@ Puhuja 3: Mistä on kyse, puhutaan siitä.
 Puhuja 3: Lisäksi puhutaan pitkästä aikaa Saksasta.
 Puhuja 3: Saksaa on viime päivinä koottu hallituskiista,
 Puhuja 3: joka uhkaa ajaa Saksan toukokuussa valtaannousseen liittokanslerin Frik Mertzin hallituksen jopa toimintakyvyttömäksi
-Puhuja 3: ja sillä olisi... Ehdottomasti vaikutuksia koko Eurooppaan.
+Puhuja 3: ja sillä olisi ehdottomasti... Vaikutuksia koko Eurooppaan.
 Puhuja 3: Onko tämän liian dramaattisesti sanottu mistä on kyse? Puhutaan myös siitä.
-Puhuja 3: Kolmanneksi puhutaan työpaikkaetiketistä.
-Puhuja 3: Saako työpaikalla olla Coldplay keikka romansseja?
-Puhuja 3: Saako töihin tulla varpaat paljaana? Puhutaan myös siitä.
+Puhuja 3: Kolmanneksi
+Puhuja 3: puhutaan työpaikkaetiketistä.
+Puhuja 3: Saako työpaikalla olla Coldplay keikka romansseja? Saako töihin tulla varpaat paljaana? Puhutaan myös siitä.
 Puhuja 3: Lopuksi vielä tuntuu keskustelun aiheita pitkien epämukavien hiljaisuuksien
 Puhuja 3: varaan.
 Puhuja 3: Ukrainan presidentti Volody Mirse Lenski allekirjoitti tiistai-iltana kihistelyn lakimuutoksen joka tiukentaa kahden keskeisen korruption vastaisen... Viraston valvontaa ja rajoittaa niiden itsenäisyyttä.
@@ -100,11 +98,10 @@ Puhuja 1: Se ongelmia tulee, kun ihmiset eivät osaa olla aikuisia sillain, ett�
 Puhuja 1: kaveriporukan työpaikan sisäisiä suhteita ja eroja järkevästi.
 Puhuja 1: Ja siis
 Puhuja 1: se on luonnollista, mutta tähän
-Puhuja 1: liittyen, niin toisaalta musta tärkeämpi kysymys on myös se, että
-Puhuja 1: millä tavalla pukukoodi vaikuttaa työpaikkaromansien
+Puhuja 1: liittyen, niin toisaalta musta tärkeämpi kysymys on myös se, että millä tavalla pukukoodi vaikuttaa työpaikkaromansien
 Puhuja 1: syntymiseen.
 Puhuja 1: Siis jos
-Puhuja 2: ei varpapaita saa näyttää työpaikalla, vaan myöskään syntyä työpaikkaroomukseen. Mä myös siis Rakastin tätä juttua, missä puhuttiin työpukeutumisetiketistä.
+Puhuja 1: ei varpapaita saa näyttää työpaikalla, vaan myöskään syntyä työpaikkaroman. Mä myös siis Rakastin tätä juttua, missä puhuttiin työpukeutumisetiketistä.
 Puhuja 2: Jotenkin ilmaistiin näin tai asiantuntijan kautta, että
 Puhuja 2: ei ole ok, että on hihaton paita, koska ei saa
 Puhuja 2: intiimialuetta
@@ -116,10 +113,7 @@ Puhuja 1: Millä tavalla työpaikat vaikuttaa työpaikkaromanssiin
 Puhuja 1: syntyyn?
 Puhuja 1: Rasmus.
 Puhuja 3: Ei palautettavasta lähteestä, mutta jota voidaan varmaan käyttää, koska
-Puhuja 2: kesätyöt.
-Puhuja 2: Nehän
-Puhuja 2: on
-Puhuja 2: siis
+Puhuja 2: Kesätyöthän on siis
 Puhuja 2: rakkauden
 Puhuja 2: tyyssioita.
 Puhuja 2: Enkä puhu Helsingin Sanomista ja puhun tästä.
@@ -128,20 +122,21 @@ Puhuja 2: jutuista.
 Puhuja 2: Minähän olen tavannut pitkäaikaisen
 Puhuja 2: poikaystäväni
 Puhuja 2: kesätöissä. Niin minä mietin, että olenko minä nyt tämä tyylinen tähän. Ja se oli hautausmaa.
-Puhuja 1: Miten teidän hautausmaarovan siihen suhtauduttiin silloin, kun teillä oli? No ei mennyt mitään tiedotustilaisuudesta
+Puhuja 1: Miten teidän hautausmaavan siihen suhtauduttiin silloin, kun teillä oli? No ei mennyt mitään tiedotustilaisuudesta
 Puhuja 2: aiheesta pidetty.
 Puhuja 2: Mutta tämä liittyy se, että siellä oli ihan hullusti pareja. Mä
 Puhuja 2: intouduin tästä Rasmuksen Irinmäki asiasta. Tomaattinen ympäristö sekin. Kyllä.
 Puhuja 2: Olen siis päätellyt siihen, että kun työssä on raskasta ja ollaan vaikeiden asioiden äärellä, niin rakkaus tuo iloa.
-Puhuja 1: Kyllä. Ja tää on tosiaan täydellinen kesäjuttu, kuten sanoit siinä mielessä, että tässä on ollut viikkoja, jolloin mitään isoa ja mielenkiintoista ei ole tapahtunut. Sitäkin on ehkä subjektiivista, että onko tää isoa tai mielenkiintoista.
-Puhuja 1: Mutta se täyttää tän uutistyhjiön.
+Puhuja 1: Kyllä. Ja tämä on tosiaan täydellinen kesäjuttu, kuten sanoit siinä mielessä, että tässä on ollut viikkoja, jolloin mitään isoa ja mielenkiintoista ei ole tapahtunut. Sitäkin on ehkä subjektiivista, että onko tää isoa tai mielenkiintoista.
+Puhuja 1: Mutta se täyttää tän
+Puhuja 1: uutistyhjiön.
 Puhuja 3: Haminan mursuun ei ole tänne, vaan on kesällätä.
 Puhuja 2: Vaikka tää onkin nyt kepeä aihe, mistä me puhutaan, mutta onhan tää oikeasti silti myös merkittävä asia, koska
 Puhuja 2: sillä on väliä, että jos on vaikka joku firma, jossa on pomo ja se vaikka seurustelee tai on suhteessa alaisensa kanssa, niin kyllähän siinä herää kysymys, että saako se alainen
 Puhuja 2: etuja, mitä muut ei saa, että tuleeko siinä sellaista suosimista.
 Puhuja 2: Sehän on oikeasti ihan validi keskustelu. Mitä te ajattelette tästä?
-Puhuja 1: Kyllähän siinä on hirveän paljon riskejä.
-Puhuja 1: Tavallaan Valterunnamiikkohan
+Puhuja 1: Kyllähän siinä on hirveän paljon riskejä. Tavallaan
+Puhuja 1: Valterunnamiikkohan
 Puhuja 1: näissä usein on se ongelma. Se,
 Puhuja 1: että miten se ihminen, jolla on enemmän valtaa
 Puhuja 1: siellä
@@ -162,10 +157,10 @@ Puhuja 2: asia.
 Puhuja 2: Esimerkiksi se, että joitain oli vissiin alettu kiusaamaan sen takia, että he olivat alkaneet seurustelemaan työpaikan sisällä.
 Puhuja 2: Onhan se nyt, kun ennen sai olla ja nyt kiusataankin siitä,
 Puhuja 2: että on parisuhde. Mutta mitä te ajattelette, miten se
-Puhuja 2: toimia, kun jengi kiusaa
+Puhuja 2: toimii, kun jengi kiusaa
 Puhuja 2: työn
 Puhuja 2: lomassa takia?
-Puhuja 1: Kiusaaminen on aina väärin
+Puhuja 1: Kiusaaminenhan on aina väärin
 Puhuja 1: ja kiusaaja on aina väärässä.
 Puhuja 1: Mutta jos se on tosi tyhmä työromaani, niin tulee miksi.
 Puhuja 2: Toikin on kyllä tosi outoa. Niin on, se on jotenkin vaikea asia. Voin kuvitella, että
@@ -175,21 +170,20 @@ Puhuja 2: perhe tai parisuhde,
 Puhuja 2: niin ne myös saattavat vaikuttaa työhyvinvointiin.
 Puhuja 2: Mun mielestä se on ihan tärkeä näkökulma siihen tapaan. Toki tässä meidän tulee minusta
 Puhuja 1: ilmi se, että
-Puhuja 1: PunaJO' ilmestyy jälleen paikalle,
-Puhuja 1: mutta vaikka me eletään tosi individividiologisessallisessa
+Puhuja 1: Siis PunaJO' ilmestyy jälleen paikalle,
+Puhuja 1: mutta vaikka me eletään tosi individividiologisessa
 Puhuja 1: yhteiskunnassa,
-Puhuja 1: niin nämä parisuhteet ja sutina on vahvasti
+Puhuja 1: niin nämä parisuhteet ja sutina on muutenkin aika vahvasti
 Puhuja 1: laajempia sosiaalisia asioita, joihin liittyy sosiaalista painetta
 Puhuja 1: ulkopuolelta. Tämähän on luonnollista
 Puhuja 1: ihmisyhteisössä, jolloin
 Puhuja 1: kahdella tyypillä on
-Puhuja 1: siis juttua,
-Puhuja 1: tavallaan on kahden ihmisen yksityisasiaa, mutta
+Puhuja 1: juttua, tavallaan on kahden ihmisen yksityisasiaa, mutta
 Puhuja 1: siinä on paljon paineita, joiden
-Puhuja 1: kanssa ihmiset parutuu.
-Puhuja 1: Tai ei parisuhde varsinkin nuorena. Kun saattaa olla, että hihii, onpas hauskaa tai onpa sellainen noloa, jos tykkää ihmisistä.
-Puhuja 1: Niin
-Puhuja 1: se kiusaaminen tulee
+Puhuja 1: kanssa ihmiset parutuu
+Puhuja 1: tai ei parisuhde varsinkin nuorena. Kun saattaa olla sellainen, että hihii, onpas hauskaa tai onpa sellainen noloa, jos tykkää ihmisistä.
+Puhuja 1: Niin se
+Puhuja 1: kiusaaminen tulee
 Puhuja 2: tärkeät.
 Puhuja 1: Mitä teillä olisi? Suht tärkeät pitää päällä, vaikisiltä pois.
 Puhuja 1: Pitäisikö rumat vaatteet kieltää?
@@ -204,7 +198,7 @@ Puhuja 2: Mutta ehkä tähän
 Puhuja 2: suhteellisen
 Puhuja 2: lopputiloihin voisin nostaa mahtavan Suomi24 polun,
 Puhuja 2: koska
-Puhuja 2: seurasin sieltä keskustelua, missä puhuttiin työpaikkaromanseista.
+Puhuja 2: seurasin sieltä keskustelua, missä puhuttiin työpaikkaromanseissa.
 Puhuja 2: Siitä puhutaan hirvittävän arvostavasti, kun me ollaan tässäkin puhuttu
 Puhuja 2: ainakin jossain määrin siitä,
 Puhuja 1: että... Ei arvostavasti.
@@ -227,7 +221,8 @@ Puhuja 1: on sinänsä hyvä. Toki valonen saisi varmaan Slagin Helsingin Sanomi
 Puhuja 1: Rasmuksen TAKKista, mutta jos sulla on vaikka paikka, johon plepalasiasiakkaita,
 Puhuja 1: niin
 Puhuja 1: yleinen etiketti ja pukeutuminen on siinä mielessä tärkeää, että se asettaa jonkinlaisen
-Puhuja 1: yleisen riman sille, miten se firma haluaa esiintyä. Totta kai.
+Puhuja 1: yleisen riman sille, miten se firma haluaa esiintyä.
+Puhuja 3: Totta kai.
 Puhuja 1: Tuomariksipäästöessään
 Puhuja 1: Bruce us Gersdorf aikoo käyttää rumaa Jongaa?
 Puhuja 4: Ja musta hauskat punaset kaaput on.
@@ -239,7 +234,7 @@ Puhuja 1: joka on leveä...
 Puhuja 2: Joo, jos on huononainen kuten minä, niin... Leve valkoinen ruokalappu.
 Puhuja 2: Kyllä, toi oli muuten hyvä. Tällaisen
 Puhuja 3: Brossis
-Puhuja 3: pitäisi sen kanssa jutella.
+Puhuja 3: pidä sen kanssa jotain jutella.
 Puhuja 3: Mitä suosittelisitte heille tällä viikolla? Haluaako John vaikka aloittaa?
 Puhuja 1: Suosittelen kaikille
 Puhuja 1: ensinnäkin helteestä nauttimista. Olin eilen rannalla makoilemassa
@@ -264,8 +259,7 @@ Puhuja 4: joka on hirveän suosittu. Siis fiktiivinen sarja kyllä
 Puhuja 4: Jenkeissä ja kaikesta draamasta ja muusta, mikä siihen liittyen. Mä oon katsonut viisi, kuusi jaksoa. Se on kyllä aika hyvä. Voin suositella sitä lämpimästi.
 Puhuja 4: Keskittyy ehkä enemmän kaikkeen draamaan,
 Puhuja 4: konfliktiin ja muuhun, mitä siellä on sisällä. Miksi se on niin hyvä?
-Puhuja 4: Siinä alkoi hyvät näyttelijät. Ensinnäkin
-Puhuja 4: Jennyffer Anistun pääosassa.
+Puhuja 4: Siinä alkoi hyvät näyttelijät. Ensinnäkin Jennyffer Anistun pääosassa.
 Puhuja 4: Steve
 Puhuja 4: Careile näyttelee toista
 Puhuja 4: pääosa.
@@ -295,11 +289,11 @@ Puhuja 3: Suosittelen kilpailijaa eli Suomen kuvaleiden paperista printtitilasta
 Puhuja 3: tai jos on modernia, niin miksei digiäkin.
 Puhuja 3: Mites Hanna?
 Puhuja 2: On kaksi suositusta.
-Puhuja 2: Eka on crocsit, koska ostin aidot crocsit. Ne on mulla tänään jalassa.
-Puhuja 2: Siellä näkyy varpaat. Niin näkyy, mulla näkyy varpaat. S skandaalit.
+Puhuja 2: Eka on crocsit, koska ostin aidot crocsit. Ne on mulla tänään jalassa. Siellä
+Puhuja 2: näkyy varpaat. Niin näkyy, mulla näkyy varpaat. Skandaalit.
 Puhuja 2: Niihin liittyen myös kroksikoruja.
-Puhuja 2: Ostin siis kroksikoruja.
-Puhuja 2: Kato,
+Puhuja 2: Mä ostin siis kroksikoruja.
+Puhuja 2: Katso,
 Puhuja 2: tämmöinen helminen hieno Ja sitten
 Puhuja 1: viisi. Ne on siis mustat paksupohjaiset crocsit,
 Puhuja 1: joissa on esimerkiksi helminauha
@@ -311,11 +305,11 @@ Puhuja 1: Plus
 Puhuja 1: sitten niissä on oikeassa helminauha
 Puhuja 1: kiinnitetty
 Puhuja 1: tähän ylempään sandaalista trappiin.
-Puhuja 1: Ja vasemmassa on erinäisiä kiviä.
+Puhuja 1: Ja vasemmassa on erinäisiä
+Puhuja 1: kiviä.
 Puhuja 1: Oliko sulla lapsena kronsikoruja?
 Puhuja 3: Oli,
-Puhuja 3: feikkikrossit.
-Puhuja 2: Mä olin jo vanha tähän ympäristöön. Etkä ole. Sä vaan luulet, että sä oot. Sä oot vaan liian hieno olla Krokselle vaan. Sä oot sulla vikaa niille.
+Puhuja 2: feikkikrossit. Mä olin jo vanha tähän ympäristöön. Etkä ole. Sä vaan luuleta, että sä oot. Sä oot vaan liian hieno olla Krokselle vaan. Sä oot sulla vikaa niille.
 Puhuja 2: Mutta
 Puhuja 2: Toinen suositus on. Etelä-Pohjanmaalla
 Puhuja 2: on

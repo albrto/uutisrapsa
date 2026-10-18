@@ -20,11 +20,11 @@ Puhuja 0: Mun nimi on Tuomas Peltömäki,
 Puhuja 0: Helsingin Sanomien podcast-tuottaja.
 Puhuja 0: Kanssani täällä Helsingin Sanomien podcast-studiossa
 Puhuja 0: ovat:
-Puhuja 0: Helsingin Sanomien politiikan työmyyrä numero UNA!
+Puhuja 0: Helsingin Sanomien politiikan työmyyrä
+Puhuja 0: numero UNA!
 Puhuja 0: A.
 Puhuja 0: H eli Anni Keski-Heikvä.
-Puhuja 1: Hei Anni, mitä kaikkea? Hyvää päivää.
-Puhuja 1: Kuuluu hyvää.
+Puhuja 1: Hei Anni, mitä kaikkea? Hyvää päivää. Kuuluu hyvää.
 Puhuja 0: Sulla on kiirettä pitänyt. Työmyyräisiä
 Puhuja 0: tunnelmia. Oletko
 Puhuja 0: juossut
@@ -40,7 +40,7 @@ Puhuja 0: rautanyrkkiä,
 Puhuja 0: rautarouva.
 Puhuja 0: Ihan.
 Puhuja 2: Vitsi vetää, ihanaa. Hei
-Puhuja 2: Salla. Terve Tuomas. Miten sulla menee? Ja Anni.
+Puhuja 0: Salla. Terve Tuomas. Miten sulla menee? Ja Anni.
 Puhuja 2: Mulla menee oikein hyvin. Nyt on semmoinen meininki, että monta palloa ilmassa ja paljon tapahtuu. Ja sitten mä tykkään. Se on parasta. Ai että.
 Puhuja 0: Tämän viikon
 Puhuja 0: keskustelussa sijoitetaan aiheesta.
@@ -60,8 +60,7 @@ Puhuja 0: selvitys oli päätynyt siihen, että mitään hakkerointia ei ole tap
 Puhuja 0: Tää on joko tällä selvä tai sitten tää jatkuu
 Puhuja 0: vielä pahenevän
 Puhuja 0: syvenevän kierteen keinoin kohti Lintilän loppua. Keskustellaan siitä.
-Puhuja 0: Lisäksi
-Puhuja 0: keskustellaan ilmastosta, johon suomalaiset puolueet ottivat kantaa Helsingin Sanomien järjestämässä
+Puhuja 0: Lisäksi keskustellaan ilmastosta, johon suomalaiset puolueet ottivat kantaa Helsingin Sanomien järjestämässä
 Puhuja 0: yllättävänkin,
 Puhuja 0: jotenkin freshistä,
 Puhuja 0: syvällisesti ja järkevästi
@@ -75,16 +74,18 @@ Puhuja 0: Ja vielä puhutaan kalapuikoista
 Puhuja 0: ja niiden alkuperästä.
 Puhuja 2: Ja ei liity iin, vaikka Tuomaksen naamaan tässä katselen ja tulevat ne mieleen. Mutta siis ihan oikeista kalapuikoista.
 Puhuja 0: Kyllä. Tässä podcastissa on kolme kalapuikkoa läsnä. Minä,
-Puhuja 0: matie Mäkynen Mika Lintilän
+Puhuja 0: matie-Näkynen
+Puhuja 0: Mika Lintilän
 Puhuja 0: meemin muodossa. Ja sitten ihan oikeat kalapuikot, jotka ovat siis yllättävän kyllä peräisin suurilta osin Venäjältä,
 Puhuja 0: kuten Helsingin Sanomien jutussa kerrottiin viime sunnuntaina.
-Puhuja 2: Vain ne oikeat
+Puhuja 1: Vain ne oikeat
 Puhuja 1: kalapuikot? Kyllä. Ei, mut mä kylny. Mistä
 Puhuja 0: tiedetään? Mistä tietää? Mä en ole peräisin Venäjältä.
 Puhuja 0: Turkista.
 Puhuja 0: -yhdeksänkymmentäkahdeksan
 Puhuja 0: prosenttia suomalainen ja kaksi prosenttia Turkkilainen.
-Puhuja 2: Eipä olisi uskonut.
+Puhuja 2: Eipä
+Puhuja 2: olisi uskonut.
 Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien
 Puhuja 0: hiljaisuuden varalle.
 Puhuja 2: Koska
@@ -108,8 +109,7 @@ Puhuja 0: robotteja, meillä on myös
 Puhuja 0: ihan vaan organisointikyky
 Puhuja 0: ja työpaikan
 Puhuja 0: toimitusketjut ja prosessointiorganisaatiot
-Puhuja 0: ja sellaset. Ne on tehokkaampia kuin aiemmin. On tutkimusta ja muuta. Kaikki toimii paljon
-Puhuja 0: sutjakkaammin kuin ennen,
+Puhuja 0: ja sellaset. Ne on tehokkaampia kuin aiemmin. On tutkimusta ja muuta. Kaikki toimii paljon sutjakkaammin kuin ennen,
 Puhuja 0: mikä mahdollistaa sen, että meidän tuotanto
 Puhuja 0: on huomattavasti kovempaa. Oli sitten kyse palveluista, oli kyse
 Puhuja 0: tiedon tuottamisesta, niin kuin me,
@@ -126,8 +126,9 @@ Puhuja 0: tekee kuusisataa
 Puhuja 0: ihmisen työt,
 Puhuja 0: niin nyt kuusisataa ihmistä chillaäx,
 Puhuja 0: joogaa bisseä
-Puhuja 0: ja makoilkaa. Mutta näinhän ei käy missään.
-Puhuja 0: Samalla myös ihmiset puristaa
+Puhuja 0: ja makoilkaa. Mutta näinhän ei käy missään,
+Puhuja 0: Samalla
+Puhuja 0: myös ihmiset puristaa
 Puhuja 0: enemmän ja enemmän ja enemmän, kun sä oot tehokas työntekijä ja sitten tursatitse mennä rotta.
 Puhuja 0: Tosin täytyy sanoa, että tietenkin osa ihmisistä siirtyy kokonaan työvoiman ulkopuolelle.
 Puhuja 0: Mun mielestä kapitalisti on suuri saatanna, joka tekee sekä tän mielettömän yltäkylläisen maailman, jossa yksi iPhone
@@ -135,13 +136,14 @@ Puhuja 0: vastaa
 Puhuja 0: samasta mistä ennen koko Amerikka
 Puhuja 0: näin.
 Puhuja 0: Samalla se myös tekee silleen, että
-Puhuja 0: meidän elämää ei helpotu, vaan että jotenkin se ekstra menee sinne kapitalistin taskuun. Näin mä luulen. En ole talousteorieita, enkä tiedä, toimiiko se näin, mutta semmoinen pelko on.
+Puhuja 0: meidän elämää ei helpotu, vaan että jotenkin se ekstra menee sinne kapitalistin taskuun. En
+Puhuja 0: ole talousteorieita, enkä tiedä, toimiiko se näin, mutta semmoinen pelko on.
 Puhuja 0: Mutta tämähän on se ydinkysymys. Eikö meidän pitäisi jotenkin vähentää
 Puhuja 0: tuotantoa, sitä loputonta kasvua? Eikö sitä voisi vaan lopettaa, että
 Puhuja 0: uusi iPhone tulee joka neljäs vuosi.
 Puhuja 0: Se tarkoittaa silleen, että isot osat ihmisestä pystyisi ottamaan rennommin.
-Puhuja 2: Niin. No sitten pitää ehkä... Joo,
-Puhuja 2: tuo on tärkeä kysymys. Pitää
+Puhuja 2: Niin. No sitten pitää ehkä... Joo, tuo
+Puhuja 2: on tärkeä kysymys. Pitää
 Puhuja 2: ehkä erotella,
 Puhuja 2: että on materiaa ja sitten on palveluita.
 Puhuja 2: Tavallaan tänään luin, oli uutinen siitä, että joku sinua, oliko se kotimainen lastenvaate,
@@ -178,17 +180,19 @@ Puhuja 0: Onko uuden
 Puhuja 0: vaatteet fiilis parempaa asiaa olemassa? Löydät uuden jonkun ahsuan uusi paita, sitten pistät sen päälle ja ton nymii. Mutta huomasin sanon, että ketään muut ei kiinnosta. Kaikki oli vaan se, että kukaan ei tajunnut. Ja se kestää fiilis
 Puhuja 0: Tää on liian pitkälle menemistä. Äitilaatikko on mahtava asia. Se on ihana asia, että se annetaan tuoreille perheille.
 Puhuja 0: Mutta voisiko Suomen äitiyslaatikko
-Puhuja 0: ruveta koostumaan kierrätetyistä lastenvaadoista.
-Puhuja 2: Se olisi ihana idea.
+Puhuja 0: ruveta koostumaan kierrätetyistä lastenvaa?
+Puhuja 2: Loistavaa. Se olisi ihana idea.
 Puhuja 0: Samalla kehitettäisiin
-Puhuja 0: keinoja, miten nämä laitetaan kiertää ja tälleen.
-Puhuja 2: Tällä rahoitusvaihe.
-Puhuja 0: Nyt aivan yliajalle.
+Puhuja 0: keinoja, miten nämä laitetaan kiertää ja tälleen. Tällä rahoitusvaihe.
+Puhuja 0: Sitten se voisi nimetä Tuomas Peltomäen muistolaatikoksia jokaiseen suomalaiseen
+Puhuja 2: perheeseen. Tuomas Peltomäen muistolaatikko kuulostaa siitä, että siellä on sun tuhkat.
+Puhuja 2: Tällä ratkeaa tää taloustuki. Nyt
+Puhuja 0: nyt aivan yliajalle.
 Puhuja 0: Mutta Salla, pliis kerro meille vielä kalapuikoista.
 Puhuja 2: Syöttekö kalapuikkoja?
 Puhuja 0: Kyllä, rakastan kalapuikkoja. En kyllä syö niitä.
-Puhuja 2: Useammin niitä. Useammin rapeita kalafileitä.
-Puhuja 2: Onko niissä teidän syömis kalapuikoissa semmoista valkoista kalaa
+Puhuja 2: Useammin niitä. Useammin rapeita
+Puhuja 2: kalafileitä. Onko niissä teidän syömis kalapuikoissa semmoista valkoista kalaa
 Puhuja 2: sisällä? Kyllä. Muhissa Alaskanseitiä?
 Puhuja 0: Kyllä.
 Puhuja 0: Mä myönnän, että mä olin niin tyhmä, että mä luulin, että Alaskanseitit
@@ -208,8 +212,7 @@ Puhuja 2: juttu askaroi
 Puhuja 2: paitsi lapsiperheiden
 Puhuja 2: lautasilla, niin askaroi
 Puhuja 2: myös
-Puhuja 2: Venäjän johdossa ja Venäjän
-Puhuja 2: kansainvälispoliittisissa
+Puhuja 2: Venäjän johdossa ja Venäjän kansainvälispoliittisissa
 Puhuja 2: tavoitteissa ja pakotteiden vastaisessa taistelussa.
 Puhuja 2: Suosittelen lämpimästi lukemaan sitä.
 Puhuja 2: Peruskuvio
@@ -218,21 +221,22 @@ Puhuja 2: niitä Lidlin
 Puhuja 2: kalapuikkoja, jossa on Alaskan seitiä,
 Puhuja 2: niin
 Puhuja 2: osa...
-Puhuja 2: Se ei ole täysin aukot, mutta kaikki valkoinen kalapuikkojen... Ei tarvitse liennnellä.
+Puhuja 2: Se ei ole täysin aukot, mutta kaikki valkoinen kalapuikkojen.
+Puhuja 0: Ei tarvitse liennellä.
 Puhuja 2: Merkittävä osa kalapuikkojen valkoisesta ulkomailta tuodusta kalasta on venäläisten kalastusalusten
 Puhuja 2: kalastamaa.
 Puhuja 0: Sanktioiden ohi.
 Puhuja 2: No Sanktioiden ohi, mutta täysin laillisesti. Kyllä kyllä.
 Puhuja 2: Ja sitten se juttu mielenkiintoisella
 Puhuja 2: tavalla kertoo siitä,
-Puhuja 2: että miten vaikeaa meidän lopulta on, kun meillä on pöydällä jotain ruokaa, niin miten vaikeaa meidän on selvittää lopulta
+Puhuja 2: että miten vaikeaa meidän lopulta on, kun meillä on pöydällä jotain ruokaa, niin miten vaikeaa meidän on selvittää
+Puhuja 2: lopulta
 Puhuja 2: sitä ketjua, että kuka sen sieltä vedestä on poiminut ja mikä kalastusfirma siitä on rahat saanut omaan
 Puhuja 2: taskuunsa.
 Puhuja 0: Tässä jutussa käydään läpi tää... Se oli huikea kuvaus. Se oli niin mieletön.
 Puhuja 0: Mä kirjoitin tänne mun muistiinpanoihin,
-Puhuja 0: että mieletön kuvaus siitä pedonkidasta
-Puhuja 0: suuresta saatanasta, joka jauhaa
-Puhuja 0: lempimaiselle ihmiselle onnea. Se oli
+Puhuja 0: että mieletön kuvaus siitä pedonkidasta,
+Puhuja 0: suuresta saatanasta, joka jauhaa lempimaiselle ihmiselle onnea. Se oli
 Puhuja 0: lopun aikojen kuvaus, että mistä helvetistä tämä meidän mammona
 Puhuja 0: ja materiaalinen
 Puhuja 0: hyvinvointi tulee? Se tulee just tollasesta kaikkialla
@@ -265,8 +269,7 @@ Puhuja 0: Kun me ostetaan
 Puhuja 0: kalapuikkoja täällä, niin sieltä ne jänit kulkee silleen, että se rimpsu just silleen, että
 Puhuja 0: se on muka puolalainen, no se onkin muka kiinalainen. No oikeasti se on venäläinen ja sinne se menee. Ja sit sillä ostetaan tykkää ja avutaan ukrainalaisille.
 Puhuja 2: Itse
-Puhuja 2: olin tuossa jutussa
-Puhuja 2: tuottajana ja Pauliina
+Puhuja 2: olin tuossa jutussa tuottajana ja Pauliina
 Puhuja 2: sitten selvitteli.
 Puhuja 2: Tietenkin niin kuin aina me teemme, että me kysymme näiltä myyjiltä Suomessa ja valmistajilta pyritään saamaan selkoa, että kertokaa nyt itse,
 Puhuja 2: miten se kala tulee ja mitä kalaa se on ja onko siellä venäläistä kalaa.
@@ -277,11 +280,11 @@ Puhuja 2: jolle Pauliina muistaa, että mitähän me sen jutun sanottiin.
 Puhuja 2: Kahdeksan soittopyyntöä eri reittejä
 Puhuja 2: ja tehtiin soittoja suoraan hänelle tekstiviestejä no oliko tekstiviestejä, mutta viestejä.
 Puhuja 2: Pauliina kävi
-Puhuja 2: vielä siellä konttorillakin
+Puhuja 2: vielä siellä
+Puhuja 2: konttorillakin
 Puhuja 2: kyselemässä tämän Saku Oikarisen perään. Tähän päivään mennessä
 Puhuja 2: ymmärtääkseni emme ole saaneet häneltä mitään
-Puhuja 2: minkäänlaista vastausta.
-Puhuja 1: Tää kalahomma on ihan kreisejä oletteko nähnyt sen Netflixin, sen tokkarin niistä, että miten ne kalojen kestävyys
+Puhuja 1: minkäänlaista vastausta. Tää kalahomma on ihan kreisejä oletteko nähnyt sen Netflixin, sen tokkarin niistä, että miten ne kalojen kestävyys
 Puhuja 1: Mä olisin voinut kaivaa sen nimen kanssa. Mä voin suositella sitä
 Puhuja 1: kohta.
 Puhuja 1: Kun sanotaan, että on kaiken maailman MMSC
@@ -293,7 +296,7 @@ Puhuja 0: Sitten,
 Puhuja 0: kun
 Puhuja 0: laitatte
 Puhuja 0: jää kylmää
-Puhuja 0: vodkaa shottilasiin
+Puhuja 0: vodkaa Shottilasiin
 Puhuja 0: ja sitten
 Puhuja 0: sinne itse kalastamaan ne järvikalaa, siivota
 Puhuja 0: ja hakatte ihan pieneksi silpuksi
@@ -303,7 +306,7 @@ Puhuja 0: ja tilliä.
 Puhuja 0: Sitten pistätte tämän poskeenne,
 Puhuja 0: niin se maistuu ihan hirveen.
 Puhuja 0: Katsin ton reseptin just äsken mun päästä.
-Puhuja 0: Mutta tämmöistä nyt tänään juodaan. Kulia oli jo siellä sekoittelemassa.
+Puhuja 2: Mutta tämmöistä nyt tänään juodaan. Kulia oli jo siellä sekoittelemassa.
 Puhuja 0: Millä
 Puhuja 0: kalastajakavereitanne
 Puhuja 0: viihdatatte,
@@ -424,12 +427,12 @@ Puhuja 0: Se on yllättävän toimiva. Ehkä jotain vähän samantyylistä
 Puhuja 0: suomalainen media voisi tehdä, kun tehdään jotain. Putin sanoo sitä, että siinä on se konteksti pieninä. Meillä on aina vakiolausekkeena,
 Puhuja 2: että
 Puhuja 2: on syytä ottaa huomioon, että
-Puhuja 1: Putinin puheet ovat pääasiassa valheellisesti. Tämä on siis perikon kontekstin. Tähän sama kuin Kiinan talouskasvu
+Puhuja 0: Putinin puheet ovat pääasiassa valheellisesti. Tämä on siis perikon kontekstin. Tähän sama kuin Kiinan talouskasvu
 Puhuja 0: Erittäin hyvä. Okei, siinä kaikki tältä erää. Kiitos Saila Vuorikoski. Kiitos.
 Puhuja 0: Kiitos Anni Keskinen Heikkilä. Kiitos. Mun nimi on Tuomas Peltomäki, ääni ja kuva. Kaiken muun mahtava meille tekee tällä viikolla Janne Elkki.
 Puhuja 0: Kiitos, Janne.
 Puhuja 0: Lähettäkää
-Puhuja 2: Se
+Puhuja 0: Se
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin
 Puhuja 0: yritystappio syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu päätös asettua välikappaleeksi

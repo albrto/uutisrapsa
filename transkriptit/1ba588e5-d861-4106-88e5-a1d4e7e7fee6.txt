@@ -36,7 +36,8 @@ Puhuja 2: No joo, onkohan rullaamaan juttu? Mun ymmärtääkseni siinä Trumpin
 Puhuja 1: Madition
 Puhuja 1: Godenin
 Puhuja 1: tilaisuudessa alkuun laitettiin panssa tän patton elokuvasta pätkän. Okei, ehkä mä oon se sitten.
-Puhuja 0: Ja sen lisäksi, koska on näin aivan erityislaatuinen
+Puhuja 0: Ja sen lisäksi, koska on
+Puhuja 0: näin aivan erityislaatuinen
 Puhuja 0: viikko,
 Puhuja 0: viimeinen
 Puhuja 0: viikko ennakoida ja spekuloida
@@ -61,8 +62,8 @@ Puhuja 3: tehdä podia vai mitä olet arvioinut? Eiköhän me tehdä niin pitkä
 Puhuja 3: Mutta sanotaan, että ainakin varmaan tonne virkaan astuiisten
 Puhuja 3: kieppeille voisi olla järkevä. Mutta katsotaan tilanteen mukaan. Kyllä. Nimittäin tämän viikon-podcastissa
 Puhuja 0: keskustellaan ensi viikolla käytävistä Yhdysvaltain presidentinvaaleista.
-Puhuja 0: Tämmöinen viimeinen rab-up, että missä mennään.
-Puhuja 0: Mitkä on ne vaikuttavat
+Puhuja 0: Tämmöinen viimeinen rab-up, että missä mennään,
+Puhuja 0: mitkä on ne vaikuttavat
 Puhuja 0: tekijät, joiden perusteella
 Puhuja 0: tämä vaalit tulee
 Puhuja 0: ratkeamaan.
@@ -91,7 +92,8 @@ Puhuja 0: sodan johdosta.
 Puhuja 0: Vielä kolmanneksi puhutaan poliittisista
 Puhuja 0: loikkauksista, joita on tapahtunut varsinkin keskusta puolueen
 Puhuja 0: ympärillä suuntaan, jos
-Puhuja 0: toisenkin. Jo useampi kansanedustaja on vaihtanut
+Puhuja 0: toisenkin. Jo useampi kansanedustaja
+Puhuja 0: on vaihtanut
 Puhuja 0: väriä.
 Puhuja 0: Aiemmin Pekka Aittakumpu
 Puhuja 0: vaihtoi
@@ -185,7 +187,7 @@ Puhuja 0: Ne
 Puhuja 1: ole tylsimmät.
 Puhuja 2: Sote on hyvin tärkeä asia. Mä en tiedä, mitä kuntavaltuutuksen
 Puhuja 0: on. Ne ei ole tylsät, mutta ne on vaaleista tylsimmät.
-Puhuja 2: On ne tylsämmät kuin Trumpkamaala.
+Puhuja 2: On ne tylsämmät kuin Trumpkamala.
 Puhuja 0: Kyllä.
 Puhuja 0: Varmaan tätä
 Puhuja 0: liikehdintää tullaan näkemään.
@@ -200,6 +202,7 @@ Puhuja 1: että kansanedustajat
 Puhuja 1: loikkavat aika harvoin, mutta kuntakentässä näitä loikkauksia tapahtuu jatkuvasti ja niitä on lähes joka kunnassa.
 Puhuja 1: Niissä hyvin usein perussuomalaiset on ollut viime vuosina osallisena.
 Puhuja 1: Porukka lähtee perussuomalaisista tai tulee perussuomalaisiin.
+Puhuja 1: Kyllä
 Puhuja 1: Valtuustoissa tämä myllääys tapahtuu joka kunnassa. Niin, ja sitten kun voidaan
 Puhuja 2: se puoluevalinta
 Puhuja 2: tehdä aika kevyestikin,
@@ -214,8 +217,7 @@ Puhuja 0: maahanmuuttoon,
 Puhuja 0: rasismiin, kaikkeen tämmöiseen
 Puhuja 0: keskusteluun
 Puhuja 0: liittyen. Se on siellä polttopisteessä.
-Puhuja 0: Oulussa tapahtui nämä
-Puhuja 0: hirvittävät pienten
+Puhuja 0: Oulussa tapahtui nämä hirvittävät pienten
 Puhuja 0: nuorten poikien puukotukset
 Puhuja 0: uusnatsin toimesta.
 Puhuja 0: Oulussa on myös ollut tämä
@@ -228,17 +230,17 @@ Puhuja 0: ja töräytuksineen
 Puhuja 0: ja rasismeineen
 Puhuja 0: somepostauksissa.
 Puhuja 0: Oulussa oli myös,
-Puhuja 0: vuosia sitten, Oulussa oli myös hyvin hätkähdyttävä tapaus,
-Puhuja 0: jossa paikalle tulleet
+Puhuja 0: vuosia sitten, Oulussa oli myös hyvin hätkähdyttävä tapaus, jossa
+Puhuja 0: paikalle tulleet
 Puhuja 0: turvapaikanhakijat
 Puhuja 0: muistaakseni raiskas vai oliko se pelkkä hyväksikäyttö, en muista näitä termejä, tämmöistä
-Puhuja 0: nuorta naista joukolla. Hän oli vielä muistaakseni vaikeasti kehitysvammainen.
+Puhuja 0: nuorta naista joukolla hän oli vielä muistaakseni vaikeasti kehitysvammainen.
 Puhuja 0: Oulu
 Puhuja 0: on jostain syystä tämmöisen kaiken
 Puhuja 0: keskiössä. Mun mielestä tässä on joku outo ristiriita myös sen kanssa. Lestadiolaiset
 Puhuja 0: mun mielestä ikinä, konservatiiviset kallestadiolaiset, ei ikinä millään tavalla ole linkittyneitä
 Puhuja 0: mihinkään rasistiseen.
-Puhuja 1: Heillä ei ole mitään tekemässä tämmöiset touhuksi. Siihen liittyy varmaan myös yksi syy, miksi
+Puhuja 0: Heillä ei ole mitään tekemässä tämmöiset touhuksi. Siihen liittyy varmaan myös yksi syy, miksi
 Puhuja 1: lestadiolaiset
 Puhuja 1: on pysyneet. Lestadiolaiset
 Puhuja 1: eivät ole niin kauheasti äänestäneet perussuomalaisia.
@@ -277,7 +279,7 @@ Puhuja 0: pitää olla. Niin, mikä se olisi? Jotain koti.
 Puhuja 0: Joka on amerikkalaisten trailerch,
 Puhuja 2: puna iskujen ollut. Sehän sopii siihen.
 Puhuja 0: Kyllä.
-Puhuja 0: Otatte siitä Satan comefort ja Paps blue Ribonia, jotta saatte unenpäästä taas kiinni. Ja sitten,
+Puhuja 0: Otatte siitä Satan comefort ja Paps Blue Ripunia, jotta saatte unenpäästä taas kiinni. Ja sitten,
 Puhuja 0: jos sängyssä on joku kumppani, vaikka koira, jos ei muuta ole, niin mistäs hänelle alatte siinä
 Puhuja 2: nukahtaessa jutella? Meillä ei koira pääse sänkyyn. Mutta sitten kun pojalle alakertaan
 Puhuja 2: ostettiin uusi sänky, niin meillä on valjennus,
@@ -286,7 +288,8 @@ Puhuja 2: alalla on ihan eri meininki. Eli kun meillä on tiukat säännöt ylä
 Puhuja 2: niin alakerrassa
 Puhuja 2: tämä jatteri
 Puhuja 2: on antanut meidän kertolle täyden
-Puhuja 2: mikä se on tämmöiseen hol-päässi, että se saa mennä sänkyyn. Hol-päässin, se saa mennä sänkyyn.
+Puhuja 2: tämmöiseen
+Puhuja 2: hol-päässin, se saa mennä sänkyyn.
 Puhuja 2: Se ei liity tähän.
 Puhuja 2: Kyllähän
 Puhuja 2: kova paine on
@@ -295,9 +298,10 @@ Puhuja 2: että pitäisi jaksaa katsoa
 Puhuja 2: yön
 Puhuja 2: läpi. Mä oon aika varma, että
 Puhuja 2: en mä jaksa sitä tehdä, mutta kyllä meillä himassa
-Puhuja 2: tietysti pitää seurata monia uutislähteitä, mutta siihen ennen nuo vaalilähetykset on muodostunut
-Puhuja 2: urheilujuhlan
-Puhuja 2: tuntua, kun sitä ruvetaan seuraamaan.
+Puhuja 2: tietysti pitää seurata monia uutislähteitä, mutta siihen ennen nuo vaalilähetykset
+Puhuja 2: on muodostunut
+Puhuja 2: urheilujuhlan tuntua,
+Puhuja 2: kun sitä ruvetaan seuraamaan.
 Puhuja 2: Ve mut
 Puhuja 2: katsomaan
 Puhuja 2: tällaista näytelmää, jonka nimi on Erika Rantasen Tähänastinen elämä. Se pyörii Kansallisteatterissa.
@@ -310,10 +314,11 @@ Puhuja 2: Ja sitten se pyöritän vielä Jyväskylässä,
 Puhuja 2: joka minua lämmittää, koska olen siellä itsekin nuorena pyörinyt.
 Puhuja 2: Se on ihan
 Puhuja 2: taidonnäyte
-Puhuja 2: ja kantsii. Mä en tiedä yhtään, saako sinne lippuja.
-Puhuja 0: Mikä
-Puhuja 1: Mutta aika monen vuoden takaa. Musta on hyvä kerrata
-Puhuja 1: asiaan. Sitä kannattaa aina suositella.
+Puhuja 2: ja kantsii. Mä en tiedä yhtään, saako sinne lippuja. Mikä
+Puhuja 2: siinä mielessä? Mutta jos ette saa Erika Rantasen tähän
+Puhuja 2: astinen elämä.
+Puhuja 1: Mutta aika monen vuoden takaa. Musta on hyvä ja kerrata asiaa. Kuinka se sun pointti? No
+Puhuja 1: sitä kannattaa aina suositella.
 Puhuja 1: Koska nyt tiistaina on ne vaalit ja jenkkivaalit ovat kiinnostavinta mitä maailmankaikkeudessa on, niin suosittelen
 Puhuja 1: toistamiseen
 Puhuja 1: kahta maailman parasta
@@ -325,8 +330,7 @@ Puhuja 1: kirja Feyre and Lowthing on the Camei Gre Trail tuhat
 Puhuja 1: yhdeksänsataaseitsemänkymmentäkaksi.
 Puhuja 1: Huntre Tomsson, minkä varmaan monet tietää, oli
 Puhuja 1: Gontso-journalismi.
-Puhuja 1: Niissä ehkä tarkoittaa sitä, että hän
-Puhuja 1: oli vahvasti mukana näissä tapahtumissa ja hän kertoi näissä kirjassa, miten hän on kännissä ja vetää huumeita ja tavallaan koko ajan aiheuttaa erilaista härdelliä.
+Puhuja 1: Niissä ehkä tarkoittaa sitä, että hän oli vahvasti mukana näissä tapahtumissa ja hän kertoi näissä kirjassa, miten hän on kännissä ja vetää huumeita ja tavallaan koko ajan aiheuttaa erilaista härdelliä.
 Puhuja 1: Hän oli Rolling Stone lehden
 Puhuja 1: raportointi
 Puhuja 1: raportoimassa
@@ -342,7 +346,7 @@ Puhuja 1: niminen toimittaja,
 Puhuja 1: joka on myöskin Rolling stoodista.
 Puhuja 1: Rulling Ston lähetti Huntera Fongsonin raportoivalle,
 Puhuja 1: mutta he epäilevät, että hän
-Puhuja 1: Gross. Hän kirjoitti
+Puhuja 1: Grosss. Hän kirjoitti
 Puhuja 1: kirjan Voice on the Bas, joka on huomattavasti parempi näistä kahdesta. Hän siellä koko ajan seikkailee Hantra Thoson
 Puhuja 1: sähläämässä
 Puhuja 1: erilaisissa kampanjatilaisuuksissa.
@@ -384,13 +388,13 @@ Puhuja 0: myös julkiselle taideinstituutiolle
 Puhuja 0: tekisi
 Puhuja 0: pikkulikistys
 Puhuja 0: välistä hyvää.
-Puhuja 0: Mä toivoisin, että...
-Puhuja 1: Eikös niitä likistötuki
+Puhuja 1: Mä toivoisin, että... Eikös niitä likistötuki
 Puhuja 0: ole. Joo, mutta
 Puhuja 0: mun ajatus on se, että se pikkupuristus
 Puhuja 0: rahoituksessa on ihan hyvä.
 Puhuja 0: Mä uskon, sano vaan varmasti, että sen ei tarvitse automaattisesti johtaa siihen, että irtisanotaan porukkaa,
-Puhuja 0: vaan se pikkupuristus pitäisi johtaa siihen, että okei, me tehdään tällaisia, järkeistetään, siivotaan kaikki ne vanhat, tyhmät tavat tehdä pois ja keksitään kaikkea uutta. Nyt meidän pitää saada enemmän lipputuloja, joten me joudutaan puristamaan mieletön somekampanja, missä suomalaiset
+Puhuja 0: vaan se pikkupuristus pitäisi johtaa siihen, että okei, me tehdään tällaisia, järkeistetään, siivotaan kaikki ne vanhat, tyhmät tavat tehdä pois ja keksitään kaikkea uutta. Nyt meidän pitää saada enemmän lipputuloja, joten me joudutaan puristamaan mieletön somekampanja, missä
+Puhuja 0: suomalaiset
 Puhuja 0: ottaa selfietä itsestään meidän näyttelijöiden kanssa. Whatever.
 Puhuja 0: Tai meidän museossa on selfie seiniä tai mitä ikinä.
 Puhuja 0: Toivoisin, että se johtaisi tämmöisiin
@@ -417,10 +421,10 @@ Puhuja 0: tuotoksia.
 Puhuja 0: Kaikki vaikuttaa paranoidilta.
 Puhuja 0: Itse museo valaistus
 Puhuja 0: hämyihin valoihin, missä
-Puhuja 0: pimeässä vaellat sieltä, ja
+Puhuja 0: pimeässä vaillat sieltä, ja
 Puhuja 0: pelottavia kaikkia juttuja tulee vastaan. Se on
 Puhuja 0: tyylillä ja tosi
-Puhuja 0: modernilla otteella. Siitä on tehty sellainen tapahtuma, että se tuntuu joltain, kun sä meet kattoon, että ei vitsi, mä olin tuolla.
+Puhuja 0: modernilla otteella. Siitä on tehty sellainen tapahtuma, että se tuntuu joltain, kun meet kattoon, että ei vitsi, mä olin tuolla.
 Puhuja 0: Siinä on jotain
 Puhuja 0: mahtavaa,
 Puhuja 0: nykyaikaista tapaa tuottaa elämyksiä.
@@ -436,19 +440,20 @@ Puhuja 0: aikakauden tylsätkin
 Puhuja 0: ne teokset.
 Puhuja 0: Siinä on jotain hyvää.
 Puhuja 0: Ja
-Puhuja 0: jotenkin ehkä siitä semmoinen...
-Puhuja 0: Mä jotenkin toivoisin,
+Puhuja 0: jotenkin ehkä siitä semmoinen... Mä jotenkin toivoisin,
 Puhuja 0: että siitä mallia vaan kaikille. Toki tiedostaen, että Ateneum
 Puhuja 0: on aivan eri asemassa kuin joku Peräseinäjoen
 Puhuja 0: kunnallis
 Puhuja 0: taidemuseo.
 Puhuja 1: Siellä on jotain hyvää. Eivätkö nämä suljetvat nimenomaan, että eivät olleet Peräseinäjoen
 Puhuja 1: museoita, vaan
-Puhuja 1: Mannerheimin syntymäkoti ja Seurasaaren tönöt ja muut.
+Puhuja 1: Mannerheimin syntymäkoti Seurasaaren tönöt
+Puhuja 1: ja muut.
 Puhuja 0: Mitä elämystä saisi Mannerheimin
 Puhuja 0: johonkin kotimuseon
 Puhuja 0: pihalle?
-Puhuja 2: Kaikkia mielettömiä pajalle. Se kun ne vain tajuaisivat.
+Puhuja 2: Kaikkia mielettömiä paastoon. Se kun ne vain tajuaisivat.
+Puhuja 2: Vaatteita.
 Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Marke Junkkari. Kiitos. Kiitos Salla Vuorikoski.
 Puhuja 0: Kiitos. Mun nimi on Tuomas Peltomäki. Äänenkuva ja kaiken muun meille tekee näinä mainioina Amerikan Yhdysvaltojen
 Puhuja 0: vaalien alusviikkoina.

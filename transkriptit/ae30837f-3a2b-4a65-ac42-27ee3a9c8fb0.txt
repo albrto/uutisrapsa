@@ -17,11 +17,11 @@ Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti
 Puhuja 0: podcastiin,
 Puhuja 0: joka nauhoitetaan
 Puhuja 0: keskiviikkona.
-Puhuja 0: Meillä on monen keskiviikon sarja
-Puhuja 0: meneillään,
+Puhuja 0: Meillä on monen keskiviikon sarja meneillään,
 Puhuja 0: Johtuen siitä tiedättekö te, mistä johtuu?
 Puhuja 0: Tiedän. Tietääkö
-Puhuja 2: Inkeri? Tiedän, huomenna iso päivä hesarilaisilla. Huomenna on Helsingin Sanomien firma. Aika on, mutta on sanoman se yhtiökokous, mikä se on? Totta, sekin on. Mutta sitä me ei väistämättä.
+Puhuja 2: Inkeri? Tiedän, huomenna iso päivä hesarilaisilla. Huomenna on Helsingin Sanomien firma. Aika on, mutta on sanoman
+Puhuja 0: yhtiökokous, mikä se on? Totta, sekin on. Mutta sitä me ei väistämättä.
 Puhuja 0: Sen sijaan huomiona Hesari firman bileet,
 Puhuja 1: sillä mennään. Katsotaan, ketkä meistä on töissä vielä niiden jälkeen.
 Puhuja 1: Ynnä nu.
@@ -96,8 +96,8 @@ Puhuja 0: kaikkinensa. Sen lisäksi keskustellaan laajasti
 Puhuja 0: työelämää
 Puhuja 0: ja sitä kautta suomalaisten elämää
 Puhuja 0: koskevista
-Puhuja 0: kannanotoista, joita on tullut
-Puhuja 0: Elinkeinoelämän
+Puhuja 0: kannanotoista, joita on tullut.
+Puhuja 0: Muun muassa Elinkeinoelämän
 Puhuja 0: keskusliiton piiristä. Viimeisimmäksi
 Puhuja 0: tämmöisessä
 Puhuja 0: hyvin paljon tutkimusta herättäneessä artikkelissa haastateltiin
@@ -134,7 +134,8 @@ Puhuja 0: miljardiluku, joka ei myöskään voi tarkoittaa mitään. Koska ei me
 Puhuja 0: Pelkästään
 Puhuja 0: ylimmällä mahdollisella abstraktiotasolla
 Puhuja 0: käsitellään. Ja sitten siinä sun podcastissa
-Puhuja 0: mennään silleen, että okei, kun Suomi ottaa valtion velkaa, niin millä tietokoneella
+Puhuja 0: mennään silleen, että okei,
+Puhuja 0: kun Suomi ottaa valtion velkaa, niin millä tietokoneella
 Puhuja 0: se tehdään?
 Puhuja 0: Mistä se käynnistetään?
 Puhuja 0: Kuka sinne näpyttelee sen summan?
@@ -177,8 +178,7 @@ Puhuja 2: ainakaan näköpiirissä, jossa me emme saisi jossain. Ja luottoluokit
 Puhuja 1: kannalta, niin kuin siinä hyvin kuvattiinkin,
 Puhuja 1: niin Ranska on semmoinen iso maa
 Puhuja 1: ja vähän kauhukakara, kun ei voida oikein tietää, aikovatko he tehdä mitään ja saavatko he mitään eläkeuudistuksia ja muita läpi.
-Puhuja 1: Sille tuli semmoinen, että hyvä Suomi torille ja Euroviisuista
-Puhuja 1: voitto ja mitä muuta.
+Puhuja 1: Sille tuli semmoinen, että hyvä Suomi torille ja Euroviisuista voitto.
 Puhuja 0: Mitä muita aiheita teillä on tulossa tällä kaudella?
 Puhuja 2: Meillä ulkona on jo viime
 Puhuja 2: viikolla tullut, että miksi pesukoneen viimeinen menettää kestää vartin. Se on taas
@@ -221,10 +221,10 @@ Puhuja 0: kaikki Keskiyön kanin kolo. Missäs kaikkialla se on tällä kaudella
 Puhuja 2: Headri-sovelluksesta
 Puhuja 2: tietenkin toivomme, että kaikki kuuntelevat, mutta tulee myös Spotifyhin, Appleen ja Suplaan.
 Puhuja 2: Mistä nyt ihmiset kuuntelevat? Jep,
-Puhuja 2: juuri näin. Ja ihan ilmaiseksi for you. Sitten
-Puhuja 0: kun
+Puhuja 2: juuri näin. Ja ihan ilmaiseksi for you. Hyvä.
+Puhuja 0: Sitten kun
 Puhuja 0: lähdette
-Puhuja 1: kesken etätyöpäivän käymään parissa... Mä aattelin, että valkoisen
+Puhuja 0: kesken etätyöpäivän käymään parissa... Mä aattelin, että valkoisen
 Puhuja 1: vapunmarssissa,
 Puhuja 1: mutta okei, ei sinne.
 Puhuja 0: Vappuinen
@@ -245,7 +245,8 @@ Puhuja 0: Elinkeinoelämän
 Puhuja 0: keskusliitosta.
 Puhuja 0: Tarjoatte sinne sitten Häksylle
 Puhuja 0: suopillisen,
-Puhuja 0: vähän semmoista rauhantassua paikkaatte siinä.
+Puhuja 0: vähän semmoista rauhantassua
+Puhuja 0: paikkaatte siinä.
 Puhuja 0: Nyt kun tässä kaikki ollaan loisimassa
 Puhuja 0: nykyään,
 Puhuja 0: niin millä salatte
@@ -254,11 +255,13 @@ Puhuja 1: Pakko sanoa
 Puhuja 1: tuohon vanha story, että Hesarissa aika ennen kuin minä olin, tuli jotkut anturit,
 Puhuja 1: jotka mittasivat sitä, että kuka istuu työpisteellä. Että voidaan
 Puhuja 1: arvioida, mitä työpisteet tarvitaan ja mitä ei.
-Puhuja 1: Mä en tiedä, kuka tämä oli, mutta joku keksi tähän hyvän ratkaisun. Muistatko sä Tuomas, mikä se ratkaisu oli? En muista.
-Puhuja 1: Tiedättekö niitä kissoja,
-Puhuja 1: sellaisia
+Puhuja 1: Ja
+Puhuja 1: sitten joku, mä en tiedä, kuka tämä oli, mutta joku keksi tähän hyvän ratkaisun. Muistatko sä Tuomas, mikä se ratkaisu oli? En muista.
+Puhuja 1: Tiedättekö niitä
+Puhuja 1: kissoja, sellaisia
 Puhuja 1: ja sitten niitä laitettiin siihen
-Puhuja 1: tuolille sitten? Ei, että siinä oli niinku liike. Ai kauhea. Tietääköhän pomo, nyt mä varmaan kerroin tän. Päätoimittajakin on vaihtunut jo tässä välissä, että ei oo niin väliks. Mutta niin,
+Puhuja 1: tuolille sitten? Ei, että siinä oli niinku liike.
+Puhuja 1: Tietääköhän pomo, nyt mä varmaan kerroin tän. Päätoimittajakin on vaihtunut jo tässä välissä, että ei oo niin väliks. Mutta niin,
 Puhuja 1: asiaan. Jyri Häkämiehelle sanoisin,
 Puhuja 1: että käypä kuulla lukemassa tämä on tehty
 Puhuja 1: meitä kerrosta ylempänä ilta-Sanomissa.
@@ -287,8 +290,7 @@ Puhuja 1: otsikolla Totuus palvelutalosta,
 Puhuja 1: siitä, millaista arki
 Puhuja 1: siellä
 Puhuja 1: talossa on.
-Puhuja 1: Kerronta on äärimmäisen kiehtovaa ja siinä
-Puhuja 1: näytetään
+Puhuja 1: Kerronta on äärimmäisen kiehtovaa ja siinä näytetään
 Puhuja 1: sekä niitä hyviä hetkiä, mutta sitten aika
 Puhuja 1: graaveja
 Puhuja 1: ikäviä hetkiä ja tuodaan esille sitä, että vaikka osa hoitajista on ahkeria ja tekee työtään täydellä
@@ -361,10 +363,10 @@ Puhuja 0: projektiksi.
 Puhuja 0: Ja mä oon käynyt Claudan kanssa pitkiä
 Puhuja 1: keskusteluita siitä. Ihmiset jo ryyppääkin tekoälyn kanssa.
 Puhuja 0: Miten mä voisin
-Puhuja 0: muuttaa mun juomatottumusta? Ja
-Puhuja 0: sitten me päädyttiin siihen, että
-Puhuja 0: ne voisivat reflektoida
-Puhuja 0: mun elämän semmoisia tärkeitä hetkiä. Ja sitten mä vähän päädyin, että mä voisin... Että
+Puhuja 0: muuttaa
+Puhuja 0: mun juomatottumusta?
+Puhuja 0: Ja sitten me päädyttiin siihen, että
+Puhuja 0: ne voisivat reflektoida mun elämän semmoisia tärkeitä hetkiä. Ja sitten mä vähän päädyin, että mä voisin
 Puhuja 0: kolme maata, jotka on mulle tärkeitä,
 Puhuja 0: jotka on Skotlanti, jossa mä oon asunut,
 Puhuja 0: Intia, jossa mä oon asunut ja sitten Amerikka, joka on ollut muuten vain läsnä läpi mun elämän mulla.
@@ -423,8 +425,7 @@ Puhuja 0: Sen jälkeen otetaan vielä Gimlet, joka on myös samalta alueelta ole
 Puhuja 0: Giniin tehty Gimlet.
 Puhuja 0: Kello yhdeksäntoista
 Puhuja 0: on viimeinen juoma. Sen jälkeen syödään kunnon ateria.
-Puhuja 0: Jälleen kerran
-Puhuja 0: nukkumaan mennessä ollaan selvinpäin. Ja viimeinen on
+Puhuja 0: Jälleen kerran nukkumaan mennessä ollaan selvinpäin. Ja viimeinen on
 Puhuja 0: American cocktail aure, jossa otetaan eka IPA, että saadaan se homma käyntiin. Sekin alkaa kello seitsemäntoista.
 Puhuja 0: Kello
 Puhuja 0: 174500
@@ -445,16 +446,18 @@ Puhuja 1: tissuttelukaverin?
 Puhuja 1: Niin, ehkä.
 Puhuja 0: Ehkä. Mä ajattelin, että mä
 Puhuja 0: otan nämä näin. Ja sitten mä katson seitsemäntoista.
-Puhuja 0: Jonkun baarin, joka pystyisi hoitamaan nämä. Sitten mä kutsun mun kaverit sinne ja mä sanoin, että meillä on nyt mennyt jo valmiina. Tässä on teema. Ja sitten me kaikki juodaan noin sanoa. Verätte ne kaikki kolme.
+Puhuja 0: Jonkun baarin, joka pystyisi hoitamaan nämä.
+Puhuja 0: Sitten mä kutsun mun kaverit sinne ja mä sanoin, että meillä on nyt mennyt jo valmiina. Tässä on teema. Ja sitten me kaikki juodaan noin Verätte ne kaikki kolme.
 Puhuja 0: Okei, siinä kaikki tältä erää. Kiitos Inkeri Harju. Kiitos.
-Puhuja 0: Kiitos Salla Vuorikoski. Kiitos. Mun nimi on Tuomas Peltolamäki.
+Puhuja 0: Kiitos Salla Vuorikoski. Kiitos. Mun nimi on Tuomas Peltolamäki
 Puhuja 0: Äänikuva on kaiken mun mahtava meille tekee tällä viikolla Janne Elkki. Kiitos Janne.
 Puhuja 0: Ja
 Puhuja 0: jälleen kerran me kuulemme
 Puhuja 0: ensi viikolla silloin ehkä vähän kokoomushenkisempää
 Puhuja 0: juttua.
 Puhuja 0: Ilmaiseksi
-Puhuja 0: sanoma oikein. Mun mielestä pitää jaosto. Ei tarvitse maksaa mitään. No niin, okei, hyvä. Siinä kaikki. Kiitos kaikille ja
+Puhuja 0: sanoma oikein. Mun mielestä pitää jaosto. Ei tarvitse maksaa mitään. No niin, okei,
+Puhuja 0: hyvä. Siinä kaikki. Kiitos kaikille ja
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardit,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.
@@ -471,10 +474,10 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
-Puhuja 0: on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt

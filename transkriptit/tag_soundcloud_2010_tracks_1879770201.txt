@@ -12,8 +12,7 @@ Puhuja 1: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
-Puhuja 2: Helsingin
-Puhuja 2: Sanomat
+Puhuja 2: Helsingin Sanomat
 Puhuja 1: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin
 Puhuja 1: keskiviikkona
 Puhuja 1: kaksikymmentäneljä. Heinäkuuta.
@@ -38,7 +37,7 @@ Puhuja 1: Myös mustikkatarjontaa
 Puhuja 1: uhkaavasta
 Puhuja 1: poimiapulasta,
 Puhuja 1: kun poimijoille ei enää myönnetä viisumeita
-Puhuja 1: ja vielä ystävvyys avioliitoista,
+Puhuja 1: ja vielä Ystävyys avioliitoista,
 Puhuja 1: joista ainakin Japanissa on tullut ilmi.
 Puhuja 1: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljaisyyksien varaan.
 Puhuja 1: Heinin
@@ -63,8 +62,7 @@ Puhuja 1: karanteenissa
 Puhuja 1: yksinään.
 Puhuja 1: Kun hänellä oli voimakkaasti sanonut
 Puhuja 1: ihan
-Puhuja 1: vielä viikonloppuun saakka, että hän jatkaa
-Puhuja 1: kampanjointia ja hän on nyt se ehdokas.
+Puhuja 1: vielä viikonloppuun saakka, että hän jatkaa kampanjointia ja hän on nyt se ehdokas.
 Puhuja 1: Oliko se, että tässä oli jotenkin sellainen hengähdystauko
 Puhuja 1: jäädä miettimään tämän ehdokkuuden
 Puhuja 1: vaikutuksia?
@@ -94,7 +92,7 @@ Puhuja 1: nyt täyttää Bideni saappaat?
 Puhuja 2: Aika varmasti kamala haris. Ja sitten hän vielä lopuksi huomauttaa tällaisen oikean
 Puhuja 2: haastattelun kommentin:
 Puhuja 2: Suomalaiselle marjonpoiminta ei ole elinkeino, vaan lisätulo
-Puhuja 2: Partanen huomauttaa. Eli tällöin yhteydessä pitää hänen mukaansa huomioida myös luonnossa liikkumisen ilo.
+Puhuja 2: Partanen huomauttaa, eli tällöin yhteydessä pitää hänen mukaansa huomioida myös luonnossa liikkumisen ilo.
 Puhuja 1: Tuohan kuulostaa tuo hänen kommentti siitä, että miten thaimaalaiset ovat työteliäitä. Sehän kuulostaa vain siltä, että
 Puhuja 1: ulkomaalaiset ihmiset eivät tunne meidän työlainsäädäntöä.
 Puhuja 2: Minustakin tätä kun luin, niin se kuulosti juuri siltä, ettei ihmekkään näitä ihmisiä ihmiskaupan uhreina, jos puhe on tällaista.
@@ -116,9 +114,8 @@ Puhuja 3: tv-sarja Pasilan jakso, millainen työvoima, jossa tämä fiktiivinen 
 Puhuja 3: kiinalaisia työntekijöitä
 Puhuja 3: kiinnostaa, siis ala kuljettaa kiinalaisia työntekijöitä Kiinasta, koska ne nyt vaan on jotenkin niille niin luontaista tehdä töitä.
 Puhuja 3: Mun mielestä
-Puhuja 3: suomalaisille poimijoille tai sitten jotenkin valvotaan niiden muualta tulevien työoloja.
-Puhuja 3: Jos se tapahtuisi valtion toimesta ja jos valtion vastuut lisääntyy niin sitten verotus kasvaa ja sitten se raha on pois kuluttautua jollain muulla tavalla.
-Puhuja 3: Ei tässä nyt ole mitään ilmaisia musikoita jaossa.
+Puhuja 3: missä
+Puhuja 3: ei tässä nyt ole mitään ilmaisia musikoita jaossa.
 Puhuja 2: Se on juuri näin. Meillä oli myös jatkokulmana
 Puhuja 2: tällainen,
 Puhuja 2: hän ei ollut Karkkilasta, hän kävi poimimassa Marjat Karkkilasta, mutta hän on
@@ -174,7 +171,8 @@ Puhuja 2: yhdessä tyylisiä vitsejä vaikka frendeissä ja missä kaikkialla vi
 Puhuja 2: vuosikymmeniä.
 Puhuja 2: Mutta ehkä tämmöinen
 Puhuja 2: ihan ystävyysavioliiton
-Puhuja 2: nimellä menevä ilmiö ei ole yhtä pinnalla.
+Puhuja 2: nimellä menevä ilmiö ei
+Puhuja 2: ole yhtä pinnalla.
 Puhuja 1: Tässähän ei ollut
 Puhuja 1: oikeastaan kysymys, heillä ei ollut tavallaan
 Puhuja 1: virallista avioliittoa.
@@ -194,8 +192,8 @@ Puhuja 1: silleen. Onko tämä asunut kimppa kämpässä missään vaiheessa el�
 Puhuja 2: Mä olen asunut kimppa kämpässään vain ja ainoastaan ulkomailla.
 Puhuja 2: Se oli kokemus, mutta se ei ole minua varten.
 Puhuja 3: Ja mä kans hyvin tietysti että no jos varusmiespalvelus
-Puhuja 3: lasketaan niin sehän on tavallaan kimppaasumista mutta mä luulen että se kyllä riitti mulle aika hyvin.
-Puhuja 3: Mutta tässäkin on mielenkiintoisesti tässä on selvästi joku kierros
+Puhuja 3: lasketaan niin sehän on tavallaan kimppaasumista, mutta mä luulen että se kyllä riitti mulle aika hyvin. Mutta tässäkin
+Puhuja 3: on mielenkiintoisesti tässä on selvästi joku kierros
 Puhuja 3: mitä suomalaisen on vaikea ymmärtää tästä. Tämä toinen on jollain tapaa julkkis ja tämä toinen ei käy töissä.
 Puhuja 3: Se tietysti helpottaa tällaista
 Puhuja 3: kämppiselämää vai helpottaako, en tiedä että tavallaan
@@ -211,7 +209,7 @@ Puhuja 2: Mutta ainakin hyvin
 Puhuja 2: vakiintuneessa parisuhteessa, siis tällaisen
 Puhuja 2: virtuaalihahmon
 Puhuja 2: kanssa. Siellä oli siis tällainen boksi, mikä heijastaa.
-Puhuja 2: Siis mä oon kuullut kanssa näistä. Kyllä, siis se heijastaa sellaisen ikään kuin 3D-heijastuksen
+Puhuja 2: Siis mä oon kuullut kanssa näistä. Kyllä, siis se heijastaa sellaisen niinkuin ikään kuin 3D-heijastuksen
 Puhuja 2: tästä hahmosta.
 Puhuja 2: Hänellä oli siis
 Puhuja 2: syväromanttinen
@@ -222,13 +220,13 @@ Puhuja 2: siis myös jonkinnäköinen seksuaalinen puoli siinä oli. Ja sitten t
 Puhuja 2: ohjelmistotuottaja,
 Puhuja 2: joka tätä hoitaa, niin että se lisenssi on loppumassa. Ja se
 Puhuja 2: hänen kumppanin.
-Puhuja 1: Kumppani ei tule enää päivitykseksi.
+Puhuja 1: Kumppanien ei tule enää päivitykseksi.
 Puhuja 2: Itse sen kumppanin
 Puhuja 2: poistetaan.
-Puhuja 2: Tää jäi tosi vahvasti mieleen. Musta tuntuu, että jotenkin kaikki Japani parisuhdeasiat
+Puhuja 2: Tää jäi tosi vahvasti mieleen. Musta tuntuu, että jotenkin kaikki Japani parisuhdeasiat,
 Puhuja 2: mitä mä kuulen, on jotain tällaisia.
-Puhuja 2: Eiks siellä oo siis tosi vahvana myös se naisten sellainen,
-Puhuja 2: mikähän tämän nimi oli, mutta ei olla missään kontaktissa
+Puhuja 2: Eiks siellä oo siis tosi vahvana myös se naisten
+Puhuja 2: sellainen, mikähän tän nimi oli, mutta ei olla missään kontaktissa
 Puhuja 2: miehiin eikä eikä miessukupuoleen.
 Puhuja 1: Joo ja siellähän yleisesti
 Puhuja 1: myös avioliitossa
@@ -257,37 +255,36 @@ Puhuja 3: Puhutaan tässä jutussa
 Puhuja 3: tällaisesta kolorusfirmasta,
 Puhuja 3: lahkasta, joka välittää näitä
 Puhuja 3: pystyisäolijuutta.
-Puhuja 3: En tiedä, olisiko tässä, en halua kuullut Suomessa,
-Puhuja 3: vasta se markkinarako,
+Puhuja 3: En tiedä, olisiko tässä, en halua kuullut Suomessa, vasta vasta se markkinarako,
 Puhuja 3: joku
 Puhuja 3: Inderin ja Woltin välimuoto.
 Puhuja 1: Ai Woltin!
-Puhuja 1: Minä tiedän.
+Puhuja 1: Minä tiedä.
 Puhuja 1: Yhteys niiden ihmisten kanssa, jotka hankkii yhteisen lapseen, mutta kuitenkin. Työ Suomessa on ainakin joku yhdistys, joka välittää näitä tavallaan tai auttaa ihmisiä tapaamaan näitä potentiaalisia
 Puhuja 1: kumppanivalempia.
 Puhuja 1: Joo. Mutta en tiedä tästä kyllä ystävyysavioliitosta.
-Puhuja 2: Mutta
-Puhuja 2: tästä japanilaisten seksittömyydestä, niin Yle oli tehnyt siis kaksikymmentäviisi kesäkuuta.
-Puhuja 2: Eli ihan vastikään, niin tällaisen japanilaiset parit eivät enää harrasta seksiä
+Puhuja 2: Tuosta
+Puhuja 2: japanilaisten seksittömyydestä.
+Puhuja 2: Yle oli tehnyt siis kaksikymmentäviisi kesäkuuta.
+Puhuja 2: Eli ihan vastikään tällaisen japanilaiset parit eivät enää harrasta seksiä
 Puhuja 2: ja sitaatti on liian vaivalloista.
 Puhuja 2: Avioparitkaan eivät enää harrasta siellä seksiä.
 Puhuja 2: Ihan faktapohja.
 Puhuja 3: En tiedä onko siellä lähettänyt pääministeri mitään lentäviä lausuntoja. Huoltosuhdihan sielläkään ei ole hirveästi kunnossa.
 Puhuja 2: Kyllä hallitus oli tästä huolestunut.
-Puhuja 2: Muistaakseni tuo Ylen uutispodcast
-Puhuja 2: puhuu jotain otsikolla Jokulaiset harrastavat seksiä niin vähän, että maan hallituskin huolestui.
+Puhuja 2: Muistaakseni tuo
+Puhuja 2: Ylen uutispodcast puhuu jotain otsikolla Jokulaiset harrastavat seksiä niin vähän, että maan hallituskin huolestui.
 Puhuja 3: Paikallinen Antti Rinne.
 Puhuja 1: Tästä tulee mieleen aikoinaan tällä sittemmin
 Puhuja 1: lakkautetulla
 Puhuja 1: nykyisin on tämä uusi perussuomalainen
 Puhuja 1: nuorisojärjestö,
 Puhuja 1: mutta sen edeltäjälle eikös ollut tällainen
-Puhuja 1: Rajat kiinni raajat auki kampanja jossain vaiheessa. Tämä on kyllä ihan järkyttävä otsikkona.
+Puhuja 1: Rajat kiinni raajat auki kampanja jossain vaiheessa. Kään kyllä ihan järkyttävä otsikkona.
 Puhuja 3: Suomalaisten puolueiden nuorisojärjestöt on sellainen,
-Puhuja 3: että kipsa on kips.
-Puhuja 3: Voin
-Puhuja 3: hyvin
-Puhuja 3: kuvitella
+Puhuja 3: että kipsa
+Puhuja 3: on kips.
+Puhuja 3: Voin hyvin kuvitella
 Puhuja 3: perustamaan, ei tarvii mitään roiltella.
 Puhuja 2: Joka jaksossa you, hörd here here 1st. Poimita alkaa kans löytyy. Joka jaksossa on joku bisnesidea.
 Puhuja 1: Mutta onhan näitä niinkun,
@@ -307,7 +304,7 @@ Puhuja 1: Joo.
 Puhuja 1: Mutta
 Puhuja 1: kun
 Puhuja 1: lataatte
-Puhuja 1: sovelluksen, jos te alatte etsiä itsellenne
+Puhuja 1: sovelluksen, josta alatte etsiä itsellenne
 Puhuja 1: elämänkumppani
 Puhuja 1: kaveria ja sitten tällaisen
 Puhuja 1: potentiaalisen
@@ -315,15 +312,14 @@ Puhuja 1: ihmisen kanssa suuntaatte
 Puhuja 1: vaikka juomaan
 Puhuja 1: ananas
 Puhuja 1: lonkerot
-Puhuja 1: terassille,
+Puhuja 1: Perassille,
 Puhuja 1: niin mistäs
 Puhuja 1: voisitte hänen kanssa sitten
 Puhuja 1: keskustella?
 Puhuja 2: Joo, mun suositus
 Puhuja 2: jatkaa tuttua linjaa. Tämä tuli itse asiassa suoraan ihan kirjallisuusa
 Puhuja 2: ihmiseltä tämä vinkki.
-Puhuja 2: Tartuin siihen ja totesin, että on kyllä kierrättämisen arvoinen.
-Puhuja 2: Suosittelen tällaista Michael Finkkelin
+Puhuja 2: Tartuin siihen ja totesin, että on kyllä kierrättämisen arvoinen. Suosittelen tällaista Michael Finkkelin
 Puhuja 2: kirjoittamaa true story nimistä kirjaa.
 Puhuja 2: Tämä on yhä siis true crime
 Puhuja 2: alueella. Kertoo tällaisesta
@@ -346,10 +342,10 @@ Puhuja 2: Hän on huijannut, valellut
 Puhuja 2: jutussansa
 Puhuja 2: ja koko maailma romahtaa.
 Puhuja 2: Toimittaja
-Puhuja 2: sanoo hänelle puhelimessa, että tämä
+Puhuja 2: sanoo hänelle puhelimessaan,
+Puhuja 2: että tää
 Puhuja 2: juttu on torstaina,
-Puhuja 2: että mitä ihmettä? Tämähän on julkaistu,
-Puhuja 2: senhän takia sä soitat.
+Puhuja 2: että mitä ihmettä? Tämähän on julkaistu just, senhän takia sä soitat.
 Puhuja 2: Ei, puhun tällaisesta
 Puhuja 2: ihan toisesta jutusta.
 Puhuja 2: Tällainen perhesurmasta epäilty mies on käyttänyt sun nimeä.
@@ -360,10 +356,10 @@ Puhuja 2: toimittajan itsensä tekemä.
 Puhuja 2: Hänellä on paljon tarinoita siinä mukana.
 Puhuja 2: Itse kuuntelin tai koska mulla on nyt poikkeuksellisesti
 Puhuja 2: kolme kirjaa kesken, niin halusin
-Puhuja 2: jotain vaihtelua. Kuuntelen tätä tällä hetkellä, en ole ihan lopussa vielä,
+Puhuja 2: jotain vaihtelua.
+Puhuja 2: Kuuntelen tätä tällä hetkellä, en ole ihan lopussa vielä,
 Puhuja 2: äänikirjana. Englanniksi löytyy ainakin näistä suosituimmista palveluista, mutta ymmärtääkseni myös esimerkiksi suomalaisen
-Puhuja 2: verkkokaupasta voi varmaan tilata jonkinnäköisen suomennoksen, jos
-Puhuja 2: sieltä haluaa.
+Puhuja 2: verkkokaupasta voi varmaan tilata jonkinnäköisen suomennoksen, jos sieltä haluaa.
 Puhuja 1: Suositus sille. Kuulostaa aika usein, että Fistiltä keillä on.
 Puhuja 2: Ihan uskomaton tarina.
 Puhuja 2: Käsittämätön
@@ -372,7 +368,7 @@ Puhuja 1: Saanko mä jatkaa? Mulla on kanssa kirjasosi tuossa.
 Puhuja 1: Tämä on itseasiassa
 Puhuja 1: kolmen kirjon tällainen trilogia.
 Puhuja 1: Ootteko nähnyt koskaan elokuvaa Crazy Rich
-Puhuja 1: Aisions? Ehkä? Joo, tuttu.
+Puhuja 2: Aisions? Ehkä? Joo, tuttu.
 Puhuja 1: Se on tällainen
 Puhuja 1: vanha hyvin suosittu
 Puhuja 1: komedial leffa tuosta
@@ -397,7 +393,8 @@ Puhuja 1: ulkokiinalaisten
 Puhuja 1: ihmisten
 Puhuja 1: seurapiiri elämästä. Siellä on kaikkea
 Puhuja 1: suvun sisäistä juonittelua.
-Puhuja 1: Ne ei ole tavallaan ehkä ihmisille, jotka haluavat sellaista
+Puhuja 1: Ne
+Puhuja 1: eivät ole tavallaan ehkä ihmisille, jotka haluavat sellaista
 Puhuja 1: tosi laadukasta
 Puhuja 1: kieltä ja
 Puhuja 1: tällaista
@@ -413,20 +410,21 @@ Puhuja 1: Kwanin Ökyrikkaat aasialaiset
 Puhuja 1: trilogiaa.
 Puhuja 1: Mites
 Puhuja 1: Rasmus?
-Puhuja 3: Harmi, että Joona ei päässyt tänään tällä viikolla. Se olisi varmaan tehnyt jonkun kolmannen kirjasosuosituksen, ehkä sen kannalta kuitenkin.
+Puhuja 3: Harmi, että Joona ei päässyt tänään tällä viikolla. Se olisi varmaan tehnyt jonkun kolmannen kirjasoituksen, ehkä sen kannalta kuitenkin.
 Puhuja 3: Mä jatkan tällaisilla autof-the box suosituksilla.
 Puhuja 3: Mä suosittelen
 Puhuja 3: reseptiä
 Puhuja 3: nimeltä mainitsemattoman suomalaisen maitoyhtiön.
-Puhuja 3: Sulta löytyy ihan googlaamalla kesäkasvispizza.
+Puhuja 3: Siltä löytyy ihan googlaamalla kesäkasvispizza.
 Puhuja 3: Tulee aivan loistava resepti, mutta suositteli tämän peston pois.
 Puhuja 3: Tällainen kesäinen pizza, missä on vähän kesäkurpitsaa,
 Puhuja 3: kirsikotamaatteja
 Puhuja 3: ja Oliiveja
 Puhuja 3: toimii muuten loistavasti
 Puhuja 3: kaikissa kiusallisissa tilanteissa. Ei tarvitse olla kiusallista, jos on tarjota tällaista itsetehtyä
-Puhuja 3: pizzaa tai missä ikinä kotibileissä tai muuta, niin aivan loistava resepti. Osoite sano. Kyllä. Enkä mä muuten nyt suostunut? Mihin
-Puhuja 3: sosiaaliseen tilanteeseen sanoit, että itse leiponut tätä pizzaa. Olen tarvinnut sitä kotonani kyllä. Vieraat tykkäsivät kovasti.
+Puhuja 3: pizzaa tai missä ikinä kotibileissä tai muuta, niin aivan loistava resepti. Osoite sano. Kyllä. Enkä mä muuten nyt suositteli? Mihin
+Puhuja 1: sosiaaliseen
+Puhuja 3: tilanteeseen sanoit, että itse leiponut tätä pizzaa. Olen tarvinnut sitä kotonani kyllä. Vieraat tykkäsivät kovasti.
 Puhuja 3: Suosittelen.
 Puhuja 1: Mahtavaa, että meillä on kans ruoka suasi tuossa.
 Puhuja 1: Okei siinä kaikki tältä erää. Kiitos Heini. Kiitos. Ja kiitos Rasmus. Kiitos.
@@ -434,8 +432,9 @@ Puhuja 1: Minun nimeni on Oskari Eronen ja äänen ja kuvan ja kaiken muun mahta
 Puhuja 1: Muistakaa lähettää meille
 Puhuja 1: palautetta uutisraportti.
 Puhuja 1: Ja kuullaan taas ensi viikolla.
-Puhuja 3: Moi,
-Puhuja 0: Tuomas tässä.
+Puhuja 3: Helsingin
+Puhuja 2: Sanomat.
+Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast menetetyt miljardi
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.

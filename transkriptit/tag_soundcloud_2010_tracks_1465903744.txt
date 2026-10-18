@@ -16,7 +16,7 @@ Puhuja 0: toimituksen
 Puhuja 0: uutistikki
 Puhuja 0: numero Uuno.
 Puhuja 0: Anni Keski-Heikkilä
-Puhuja 2: ystävien kesken A. KH. Hei A. KH. Hei, mä hei. Sanotaanko sä A. Kohoksi missään muualla kuin täällä? Ei, se on keksitty täällä
+Puhuja 2: ystävien kesken A. KH. Hei A. KH. Hei, mä hei. Sanotaanko sä A. Hoks missään muualla kuin täällä? Ei, se on keksitty täällä
 Puhuja 2: heteryssä.
 Puhuja 0: Okei, minusta toimii. Se oli kiva. Se on tosi kiva. Se on vähän semmoista terminaattori vibaa jotenkin.
 Puhuja 0: Täältä tulee tehoa.
@@ -62,7 +62,7 @@ Puhuja 0: Lopuksi vielä hyviä
 Puhuja 0: keskustelun aiheita pitkien
 Puhuja 0: epämukavien
 Puhuja 0: hiljaisuuksien varalle.
-Puhuja 0: Ok.
+Puhuja 0: Varalle.
 Puhuja 0: Valtiovarainministeriö
 Puhuja 0: julkaisi maanantaina omat listansa mahdollisista leikkauksista ja veronkorotuksista,
 Puhuja 0: joiden pohjalta seuraava hallitus voisi aloittaa velkaantuneen
@@ -109,29 +109,30 @@ Puhuja 0: repesi
 Puhuja 0: ihan täysi
 Puhuja 0: helvetti,
 Puhuja 1: koska nyt pitää vähän ehkä määritellä täysi helvetti. Tämä oli mun mielestä Twitterissä lähinnä. No niin. No, joo, kyllä. Mutta lehtien palstoilla kirjoiteltiin,
-Puhuja 0: mukaan lukien kaikki Suomen suurimmat mediat, paitsi yleisradiolta en nähnyt mitään. Sitten paikallislehtiin Salon seudun sanomat, johon palataan kohta, teki tämän asian puitteissa
-Puhuja 0: hyvin ansiokasta
+Puhuja 0: mukaan lukien kaikki Suomen suurimmat mediat, paitsi yleisradiolta en nähnyt mitään.
+Puhuja 0: Sitten paikallislehtiin Salon seudun sanomat, johon palataan kohta, teki tämän asian
+Puhuja 0: puitteissa hyvin ansiokasta
 Puhuja 0: työtä.
-Puhuja 2: Tästähän käytiin keskustelua myös.
-Puhuja 2: Ihan vain lukematta tasa-arvonlla
+Puhuja 2: Tästähän käytiin
+Puhuja 2: keskustelua myös
+Puhuja 2: ihan vain lukematta tasa-arvonlla
 Puhuja 2: tuotetun tekstiä. Siinähän ei ollut ensinnäkään pelkästään se, että sukupuolia on vain kaksi. Vaan siinä oli myös, että siinä oli ollut sateenkaari, jonka päälle piirretty rastit. Ja mä en ainakaan
 Puhuja 2: ensin somekeskustelua
-Puhuja 2: ja sitten kävin lukemassa sen. Ei siellä somekeskusteluissa tästä mitään puhu.
+Puhuja 2: ja sitten kävin lukemassa sen. Ei siellä somekeskusteluissa
+Puhuja 2: tästä mitään puhu.
 Puhuja 2: Se oli kanssa
 Puhuja 2: hyvin valikoivaa jo tuossa vaiheessa.
-Puhuja 1: Tässä
-Puhuja 1: media jätti omat tehtävänsä jossain määrin puolitiehen, paitsi Salon Sedun sanomat, joka tosi ansiokkaasti toi koko kontekstin tässä myöhemmin esille, että mistä kaikessa olikaan oikeasti kysymys yksityiskohtineen. Tarjotko sen kontekstineen sieltä, jos sulla on se? No, mä kaivan sen. Tämähän on siis...
+Puhuja 1: Tässä ehkä media jätti
+Puhuja 1: omat tehtävänsä jossain määrin puolitiehen, paitsi Salon Sedun sanomat, joka tosi ansiokkaasti toi koko kontekstin tässä myöhemmin esille, että mistä kaikessa olikaan oikeasti kysymys yksityiskohtineen. Tarjotko sen kontekstineen sieltä, jos sulla on se? No, mä kaivan sen. Tämähän on siis...
 Puhuja 0: Tai ehkä mä haluan kuvata sen, että näillä tasa-arvovaltuutetun
 Puhuja 0: tiedoilla lähdettiin liikkeelle.
 Puhuja 0: Sitten
-Puhuja 0: yritin
-Puhuja 0: tarkastella, että missä järjestyksessä
+Puhuja 0: yritin tarkastella, että missä järjestyksessä
 Puhuja 0: eri isot mediat tästä
 Puhuja 0: asiasta uutisoi. En saanut siitä tolkkua, koska siinä on
 Puhuja 0: julkaisuhetkiä
 Puhuja 0: ja päivitettyjä juttuja.
-Puhuja 0: Vaikea sanoa, että missä vaiheessa mitkäkin lisäykset on juttuihin tehtyä.
-Puhuja 0: Mutta minun mielestä siinä kävi sillä tavalla, että esim.
+Puhuja 0: Vaikea sanoa, että missä vaiheessa mitkäkin lisäykset on juttuihin tehty ja näin. Mutta minun mielestä siinä kävi sillä tavalla, että esim.
 Puhuja 0: Iltalehti uutisoi tämän asian pelkästään
 Puhuja 0: tasa-arvovaltuutetun
 Puhuja 0: lausunnon pohjalta. Eli siihen ei sisältynyt mitään ekstraktietoa,
@@ -141,15 +142,14 @@ Puhuja 0: itse tarjosi. Okei, ja sitä ei voi sanoa, että se oli Iltalehdestä 
 Puhuja 0: jäi sellainen tosi kiero mielikuva, että mitä helvettiä täällä tapahtuu.
 Puhuja 0: Tasa-arvovaltuutettu
 Puhuja 0: tavallaan
-Puhuja 0: ensinnäkin on väärässä ja siitä puuttuu asioihin, jotka ei hänelle
-Puhuja 0: kuulu.
+Puhuja 0: ensinnäkin on väärässä ja siitä puuttuu asioihin, jotka ei hänelle kuulu.
 Puhuja 0: Myöhemmin
 Puhuja 0: muut
 Puhuja 0: mediat tarjosivat enemmän tätä kontekstia esimerkiksi sen, että kyse ei ollut pelkästään siitä, että
 Puhuja 0: oppilas olisi kirjoittanut, että sukupuolia on vain kaksi, vaan että siihen liittyy
 Puhuja 0: tämä Pride-sateenkaari ja sen päälle vedetyt henkselit.
-Puhuja 2: Se oli siinä tasa-arvovaltuutetun tekstissä. Oli
-Puhuja 2: se oli
+Puhuja 2: Se oli siinä tasa-arvovaltuutetun tekstissä. Oli se
+Puhuja 1: oli
 Puhuja 0: tapauksessa se on varmaan tämä
 Puhuja 0: kontekstin puuttuminen Iltalehdellä, joka on johtanut siihen, että se
 Puhuja 0: on
@@ -194,12 +194,13 @@ Puhuja 1: keissilta.
 Puhuja 1: On perusteltua käydä isompi keskustelu, mitä kouluissa saa sanoa,
 Puhuja 1: millainen koulujen
 Puhuja 1: ajatuksenvaihtoilmapiiri
-Puhuja 0: on. Kiinnostava tosi hyvä.
-Puhuja 1: Varsinkin taideaineissa,
+Puhuja 0: on. Kiinnostava tosi hyvä. Varsinkin
+Puhuja 1: taideaineissa,
 Puhuja 1: mikä sen tehtävä on,
 Puhuja 1: Voisiko taiteessa jopa alakouluissa ottaa
 Puhuja 1: raskaammin kantaa asioihin? Miksei taiteen keinoin ääntä? Niin, sinä sivistyne ja järjestivät Heikki tähän. Kiitos. Niin.
-Puhuja 1: Löytyykö kouluissa kaikille ajatuksille tilaa, vaikka se ajatus olisi ehkä vähän
+Puhuja 1: Löytyykö kouluissa
+Puhuja 1: kaikille ajatuksille tilaa, vaikka se ajatus olisi ehkä vähän
 Puhuja 1: tunkkainen,
 Puhuja 1: mutta mitä sitten?
 Puhuja 1: Eikö se olisi ihan jees?
@@ -207,14 +208,15 @@ Puhuja 1: Toki pitää antaa konteksti, että olen asunut paljon Yhdysvalloissa 
 Puhuja 1: Viisivuotiaat laitetaan väittelykilpailuihin
 Puhuja 1: ja kuusivuotiaat alkavat tekemään näytelmäkerhoa, missä käydä
 Puhuja 1: päinvastaisia keskusteluita mielipiteiden
-Puhuja 1: mielipiteiden valossa.
+Puhuja 2: mielipiteiden valossa.
 Puhuja 2: Mietin toisaalta myös siltä kannalta, että jos ympäristö olisi joku muu kuin koulu, niin miten me suhtauduttaisiin siihen, että jos joku tulisi tänne työpaikalle sellaisen kassin kanssa, että sukupuoli on vain kaksi ja rastit sateenkaarien päällä. Wou, ne on ainoa tuomaksen kassaja.
 Puhuja 2: Niin kyllähän sitä
 Puhuja 2: voisi
 Puhuja 2: hyvin iso osa työyhteisöstä pitää loukkaavana
 Puhuja 2: itseään henkilökohtaisesti.
 Puhuja 1: Ja kyllä sinne mentäisiin sanomaan, että hei, Alapa nyt. Nyt ei ole. En mä kyllä menisi. Mä menin sen sanomaan. Mun mielestä olisi silleen, että sä oot tuota mieltä, mä olen eri mieltä,
-Puhuja 0: Joo. Olipa ihanaa, että sanoit, että meidän pitäisi pystyä keskustelemaan, koska mun ainoa pointti
+Puhuja 0: Joo. Olipa ihanaa, että sanoit, että meidän pitäisi pystyä keskustelemaan, koska mun ainoa
+Puhuja 0: pointti
 Puhuja 0: oli se, että kun mietin monesti juuri tämmöisessä instansseja, kuten tasa-arvovaltuutettu,
 Puhuja 0: yhdenvertaisuusvaltuutettu
 Puhuja 0: ja on tällaisia,
@@ -232,8 +234,7 @@ Puhuja 0: Just
 Puhuja 1: näin. Ehkä hyvä oikaisu heti perään. Kiitos kun tämä on. Ehkä mahdollisesti.
 Puhuja 0: Tasa-arvovaltuutettu.
 Puhuja 0: Joko he... Okei, tässä on kaksi teoriaa.
-Puhuja 0: Joko he teki aivan oikein, kuten tämän
-Puhuja 0: tapaisen
+Puhuja 0: Joko he teki aivan oikein, kuten tämän tapasin
 Puhuja 0: instanssin täytyykin tehdä, että he pyrkivät maksimaalisesti
 Puhuja 0: suojelemaan tätä alakouluikäistä
 Puhuja 0: ihmistä ja hänen perhettään ja sitä koulua ylipäätänsä. Että
@@ -289,8 +290,7 @@ Puhuja 1: hyväksytään kulttuurinen
 Puhuja 1: ulottuvuus, että
 Puhuja 1: vaikka koen, että... Vaimon
 Puhuja 0: veli on sun sukulainen.
-Puhuja 1: Niin, tai että isäpuoli on mun isä, vaikka se ei ole geneettisesti sun isä. Mutta se
-Puhuja 1: hyväksytään
+Puhuja 1: Niin, tai että isäpuoli on mun isä, vaikka se ei ole geneettisesti sun isä. Mutta se hyväksytään
 Puhuja 1: yleisesti, että hän on mun isä,
 Puhuja 1: mutta jos
 Puhuja 1: sanon, että koen olevani nainen, niin se on heti, että ethän sä voi kokea olevasi nainen, koska biologia on biologiaa.
@@ -313,7 +313,8 @@ Puhuja 0: vaikka hän
 Puhuja 0: ei biologisesti olekaan isä.
 Puhuja 2: Niin, mutta se tulee silloin susta itsestä.
 Puhuja 1: Mut niinhän se mun kokemus mun sukupuolestakin tulee muista.
-Puhuja 2: Jos ihminen vastustaisi tuollaista
+Puhuja 2: Jos
+Puhuja 2: ihminen vastustaisi tuollaista
 Puhuja 2: kokemusta,
 Puhuja 2: niin se ei ole sun päässä se, että hän on nainen. Vaan se tulee sitä toinen. Tää menee todella sellainen nainen. Sori, mä avasin tän.
 Puhuja 0: Mun mielestä tehdään tästä erikoispodcasta.
@@ -328,12 +329,14 @@ Puhuja 0: niin
 Puhuja 0: sitten huikkaatte
 Puhuja 0: teidän ystäville ja perheenjäsenille muualla huoneistossa, että katsokaa se nyt tätä, taidapa.
 Puhuja 0: Näin. Höpitte siinä ja
-Puhuja 0: kertin juttua outoon. Kertin juttuja
+Puhuja 0: kertin juttua outoon.
+Puhuja 0: Kertin juttuja
 Puhuja 0: niille, jotka haluavat kuunnella teidän...
 Puhuja 2: Ennen tai edellistä aihetta emme kysy, että olinko
 Puhuja 1: tiettyä kansanosaa kiihottaa suuresti. Niin, siis se on tärkeää, mutta mä en
 Puhuja 1: jaksa osallistua. Mut se on vähän silleen niinku...
-Puhuja 1: Politiikankin on tärkeitä, mutta en mä halua olla politiikassa. Onhan jättää niitä vaikeita:
+Puhuja 1: Politiikankin on tärkeitä, mutta en mä halua olla politiikassa. Onhan jättää niitä
+Puhuja 0: vaikeita:
 Puhuja 0: isyys, lapsius, äitiysys,
 Puhuja 0: transtasa-arvokeskusteluita
 Puhuja 0: Twitteriin.
@@ -341,8 +344,7 @@ Puhuja 0: Kannattaa käydä ne tälleen, että hei, tässä on aika fiksu
 Puhuja 0: Emil, tässä on aika fiksu Anni, tässä on aika hullu
 Puhuja 0: taas. Käydään tässä niitä keskusteluita, niin se on jollain tavalla parempi kuitenkin kaikille meille, että ne käydään myös täällä, eikä pelkästään siellä
 Puhuja 0: kaikista huuruisimmalla
-Puhuja 0: areenalla. Näin mä väitän.
-Puhuja 1: Joo kyllä. No mutta.
+Puhuja 0: areenalla. Näin mä väitän. Joo kyllä. No mutta.
 Puhuja 1: Kyllä mieluusti silti haluaisin, että tässä olisi jotkut tutkijat puhumassa ehkä. Ei, jos tutkijat mumisisee ja höpisee, ne ei uskalla. Ne uskaltavat.
 Puhuja 0: Meillä ei ole mitään omaa pelissä tässä.
 Puhuja 2: Niin,
@@ -351,9 +353,7 @@ Puhuja 2: kulttuurituotos tai
 Puhuja 2: tapahtuma, jota me suosimme kuulijoille.
 Puhuja 1: Ai niin. Jos joku pari vuotta, kun olen viimeksi ollut täällä. Tämä oli tämä Tuomaksen
 Puhuja 2: alustus hetki sitten.
-Puhuja 2: Mä voin mennä nyt siihen
-Puhuja 1: osuuteen.
-Puhuja 2: Suosittelen
+Puhuja 2: Mä voin mennä siihen nyt osuuteen. Suosittelen
 Puhuja 2: Hoaisvision tarjontaa, koska Hoaisvisioita täytti kaksi vuotta.
 Puhuja 2: Sieltä erityisesti
 Puhuja 2: Merja Saarisen juttu
@@ -372,13 +372,14 @@ Puhuja 2: Mä ainakin itse huomasin, että tästä juttua siis en saanut luettua
 Puhuja 2: elämässä ja kaikenlaisia
 Puhuja 2: sosiaalisen median pingahteluja siinä välissä.
 Puhuja 2: Tässä jutussa kuvataan hyvin sitä,
-Puhuja 2: että miten iso ongelma se on myös
+Puhuja 2: että
+Puhuja 2: miten iso ongelma se on myös
 Puhuja 2: yhteiskunnallisesti, että me kaikki multitaskaamme.
 Puhuja 0: Keskittymiskyvyttömille.
 Puhuja 0: Tästä on olemassa tietenkin podcast-versio
 Puhuja 1: HS Vision podcastissa, jossa puhutaan Merjan kanssa. Se oli erinomainen myös. Pakko meitä sanoa, että tässä just itse selaan Twitteriä, kun kuuntelen nyökytellään, niin
 Puhuja 1: Jos ihminen kuvittelee olevansa hauska, niin testauttaa se pienelle lapselle. Se kertoo täysin rehellisesti,
-Puhuja 1: nauraa vain itkeä. Se ei välitä tunteistasi
+Puhuja 1: nauraa vaan itkee. Se ei välitä tunteistasi
 Puhuja 1: yhtään. Se vain antaa palaa
 Puhuja 1: totuuden peilinä
 Puhuja 1: siinä, millainen kuvittelet olevasi ja millainen oikeasti olet.

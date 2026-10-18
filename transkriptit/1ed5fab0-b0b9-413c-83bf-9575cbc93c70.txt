@@ -51,8 +51,8 @@ Puhuja 0: on ilo ja kunnia
 Puhuja 0: saada
 Puhuja 0: tänne vieraaksi,
 Puhuja 0: tai siis vierailemaan, vierashan et ole, mutta vierailemaan
-Puhuja 0: sosiaali ja terveyslaskelmien
-Puhuja 0: hormonit
+Puhuja 0: sosiaali ja terveyslaskelmien......
+Puhuja 0: Hormonit
 Puhuja 0: kuningas,
 Puhuja 0: Teemu Muhonen Helsingin Sanomien politiikan
 Puhuja 0: toimituksesta. Hei Teemu. Terve.
@@ -114,7 +114,7 @@ Puhuja 0: hyvin, hyvin
 Puhuja 0: karmivassa,
 Puhuja 0: oudossa typerässä videohaastattelussa
 Puhuja 0: kaikennäköistä.
-Puhuja 0: Kimmo Kiljunipää on sairauslomalta ja hän on nyt Lanzarotella kirjoittamassa kirjaa tämän vaimonsa kanssa, jonka kirjan nimi on rajalla. Nyt hän antoi seiskalle haastattelun ja sitten vähän joka lehdelle, missä hän jossain
+Puhuja 2: Kimmo Kiljunipäällinen sairauslomalta ja hän on nyt Lanzarotella kirjoittamassa kirjaa tämän vaimonsa kanssa, jonka kirjan nimi on rajalla. Nyt hän antoi seiskalle haastattelun ja sitten vähän joka lehdelle, missä hän jossain
 Puhuja 2: haastattelussa sanoi, että ei hän sanonut mitään väärää ja tätä kaikki on Suomen ulko ja turvallisuuspoliittisen
 Puhuja 2: linjan mukaista. Sen jälkeen haastattelussa aina on perunut, että ei kaikki ryttiä ollutkaan.
 Puhuja 2: Tämä on ollut jotenkin
@@ -122,18 +122,19 @@ Puhuja 2: niin murheellista
 Puhuja 2: seurattavaa kaikin puolin.
 Puhuja 2: Sitten siinä oli vielä
 Puhuja 2: viimeisimmissä
-Puhuja 2: haastatteluissa, taisi olla myös Hesarin haastattelussa ja jossain muussakin, hän sanoi, että hän oli ymmärtänyt, että kun
-Puhuja 2: Aleksanterin
+Puhuja 2: haastatteluissa,
+Puhuja 2: taisi olla myös Hesarin haastattelussa ja jossain muussakin, hän sanoi, että hän oli ymmärtänyt, että kun
+Puhuja 2: Aleksanterin...
 Puhuja 2: Aleksanterin liitto
 Puhuja 2: tuli käymään. Tämä oli
-Puhuja 2: yksi niistä hänen kaverinsa ja tämä oli chat-ham-hous
-Puhuja 2: säännöillä. Chat-ham-house
+Puhuja 2: yksi niistä hänen kaverinsa ja tämä oli chat-ham-hause
+Puhuja 2: säännöillä. Chat-ham-hause
 Puhuja 2: tarkoittaa sitä, että joku poliitikko puhuu jotain ja kuulijat eivät saa suoraan siteerata.
 Puhuja 2: Mutta miten ihmeessä, jos siellä on
 Puhuja 2: vähintään kaksi videokamerää kuvaamassa häntä.
 Puhuja 0: Plus hän on ainoa poliitikko siinä tilaisuudessa.
 Puhuja 0: Ei se ole mikään, että täällä on neljäkymmentä poliitikkoa.
-Puhuja 0: Ei, ja miten hän Mikä on se, missä yleensä chathakemuksessa.
+Puhuja 0: Ei, ja miten hän... Mikä on se, missä yleensä chathakemuksessa.
 Puhuja 2: Tavallaan tai yleensä joku voi pitää luennon ja siellä on normi. Yksi poliitikko pitää luennon ja muut kuuntelee, ja sitten ei saa vain siteerata suoraan.
 Puhuja 0: Eikö chat-häm-hous
 Puhuja 0: ole, että saa siteerata, mutta ei saa sanoa,
@@ -156,8 +157,8 @@ Puhuja 0: nykyisen kansanedustaja Teresa Sammanlahden kanssa
 Puhuja 0: haastattelussa,
 Puhuja 0: hän sanoi siellä, että ei heitä ukrainalaiset
 Puhuja 0: kiinnosta, kuka siellä valtaa pitää. Onko se
-Puhuja 0: Kiovassa joku tyyppi vai onko Moskova, joka tällä kertaa pitää valtaa. Niillä on aivan sama,
-Puhuja 0: kuka kuuntelee juttua olevan, mitä helvettiä. Niitä
+Puhuja 0: Kiovassa joku tyyppi vai onko Moskova, joka tällä kertaa pitää valtaa. Niillä on aivan sama, kuka
+Puhuja 0: kuuntelee sitä juttua olevan mitään helvettiä. Niitä
 Puhuja 0: sanotaan vähän venäläisiksi.
 Puhuja 2: Ehkä tässä pitää muistaa,
 Puhuja 2: kun
@@ -171,25 +172,25 @@ Puhuja 2: Sitten
 Puhuja 2: on viritetty, että onko tämä
 Puhuja 2: jonkinlainen SDP:n sisällä oleva viideskolona
 Puhuja 2: tai Suomen sisällä oleva salaliitto.
-Puhuja 2: Ai minä olin tuon missannut ihan koko ajan. Vaikka katsoin sitä videota? En katsonut varmaan ihan loppuun. Joo, mutta en muista myöskään mikä se sanamuoto siinä kohdassa oli. Mutta se on kuitenkin fakta, että Kimmo Kiljunen edustaa
+Puhuja 2: Ai minä olin tuon missannut ihan koko ajan. Vaikka katsoin sitä videota? En katsonut varmaan ihan loppuun. Joo, mutta en muista myöskään mikä se sanamuoto siinä kohdassa oli. Mutta se on kuitenkin fakta, että Kimmo Kiljunen edustaa...
 Puhuja 2: Hän on eduskunnan vanhin kansanedustaja ja hän edustaa tavallaan
 Puhuja 2: hyvin vanhaa demari,
 Puhuja 2: sieltä Neuvostoliiton ajoilta kumpuavaa perinnettä. Ehkä sitä Kimmo Kiljusen
 Puhuja 2: ajatusmaailmaa ei voi yleistää koko SDP:hen
 Puhuja 2: ulkopoliittisen ajattelu tällä hetkellä. Hän edustaa Erkki Tuomioja
 Puhuja 0: sukupolven ajattelua. Aiheesta paljon lisää monia sun tekemässä podcastissa
-Puhuja 2: päätös siitä ei koskaan tee. Niinpä.
-Puhuja 0: Haluan vielä loppuun sanoa, en nyt tähän Alexander, en tavallaan
+Puhuja 0: päätös siitä ei koskaan tee. Niinpä.
+Puhuja 0: Haluan vielä loppuun sanoa, en nyt tähän... Alexander, en tavallaan
 Puhuja 0: symppaan Suomessa asuvia venäläisiä.
-Puhuja 0: Ei varmasti ole helppoa
+Puhuja 0: Ei varmasti ole helppoa...
 Puhuja 0: Kyllä huomaan junassakin, että jos kuuluu venäjän kieltä, kaikki kääntyy katsomaan, mitä vittua.
 Puhuja 0: Ei varmasti ole helppoa olla tavallinen fiksu venäläinen tällä hetkellä missään Venäjän
 Puhuja 0: ulkopuolella. Paljon
 Puhuja 0: on katseita ja muita.
 Puhuja 0: Mutta kun luin Aleksanteriliiton
-Puhuja 0: toiminnasta, josta erinomainen Outi Salovaara oli tehnyt selvitystä meille, niin se kuulostaa Se kuulostaa ihan
-Puhuja 0: Putinin
-Puhuja 0: käsikassaralta täällä Suomessa. En väitä, että on, mutta siltä kuulostaa. Esimerkiksi
+Puhuja 0: toiminnasta, josta erinomainen Outi Salovaara oli tehnyt selvitystä meille, niin se kuulostaa... Siis se kuulostaa ihan
+Puhuja 0: Putinin käsikassaralta
+Puhuja 0: täällä Suomessa. En väitä, että on, mutta siltä kuulostaa. Esimerkiksi
 Puhuja 0: yhdistys
 Puhuja 0: osoittaa mieltä pelkästään Suomen
 Puhuja 0: eduskuntatalon edessä
@@ -222,7 +223,8 @@ Puhuja 0: Kuulosti hyvin, hyvin sisusyhdistykseltä tämä. Tietenkään
 Puhuja 0: en voi sanoa, onko, mutta ainakin raportoinnin perusteella
 Puhuja 0: heiltä puuttuu totaalisesti semmoinen ymmärrys,
 Puhuja 0: mitä esimerkiksi Suomessa
-Puhuja 0: pitää tai miten olisi hyvä edistää venäläisten asioita Suomessa, mitä olisi hyvä sanoa, olisi hyvä tuomita, mitä olisi hyvä käydä keskustelua,
+Puhuja 0: pitää tai miten olisi hyvä edistää venäläisten asioita Suomessa, mitä olisi hyvä sanoa, tuo,
+Puhuja 0: mitä olisi hyvä käydä keskustelua,
 Puhuja 0: joka huomioi sen, mikä on kansalais mielipide siinä maassa, missä he ovat.
 Puhuja 0: Okei. Sitten,
 Puhuja 0: kun viimeisillä
@@ -260,7 +262,7 @@ Puhuja 2: pahojen temppujen
 Puhuja 2: osaston superosaaja.
 Puhuja 2: Hän syöttää
 Puhuja 2: medialle
-Puhuja 2: uutisia, mitä
+Puhuja 2: uutisia, mitä...
 Puhuja 2: Hän on hyvin häikäisevä. Hän kertoo hyvin yksityiskohtaisesti
 Puhuja 2: tässä kirjassa, että mitä kaikkea hän
 Puhuja 2: ei lähtökohtaisesti valehdellut toimittajille, mutta ei kertonut koko totuutta ja pyrki niin, koska hänellä oli hyvät mediasuhteet. Hän pystyy syöttämään mediaa
@@ -270,7 +272,7 @@ Puhuja 2: Ja tämä heppu
 Puhuja 2: on ihan mahtava,
 Puhuja 2: kenen kanssa hän työskentelee. Hän ei pelkästään työskennellyt amerikkalaisten firmojen kanssa. Hänen asiakkaitaan oli muun muassa Bazhar
 Puhuja 2: Assad.
-Puhuja 2: Hän oli siellä syrjässä. Aina se nostaa pääse,
+Puhuja 0: Hän oli siellä syrjässä. Aina se nostaa pääse,
 Puhuja 0: josta Bachardalberg.
 Puhuja 2: Ja muamar Goddaf. Hänen
 Puhuja 2: tehtäväänsä oli jossakin vaiheessa Goddafin poika
@@ -356,7 +358,7 @@ Puhuja 0: viimeiset
 Puhuja 0: tuomiot, jotka tulivat
 Puhuja 0: kahdelle tämän tytön asioista vastanneille
 Puhuja 0: sosiaalivirkailijalle
-Puhuja 0: sillä tavalla, että
+Puhuja 0: sillä tavalla, että...
 Puhuja 0: Tämä on kaikki
 Puhuja 0: hyvin
 Puhuja 0: yksinkertaistetusti.
@@ -391,7 +393,7 @@ Puhuja 0: sakkoja.
 Puhuja 0: Sakkoja
 Puhuja 0: siis
 Puhuja 0: sosiaalivirkaarkailijoille.
-Puhuja 0: Yritin googlata, että mikä Jos tuo oli se viimeinen,
+Puhuja 0: Yritin googlata, että mikä... Jos tuo oli se viimeinen,
 Puhuja 0: koko tästä isosta
 Puhuja 0: henkisesti
 Puhuja 0: merkittävästä vyyhdistä.
@@ -450,13 +452,14 @@ Puhuja 2: tyttöjä, ja mistä hän nyt vaatii
 Puhuja 2: Britannian pääministeri Keir Starteria
 Puhuja 2: vastuuseen, koska hän toimi silloin
 Puhuja 0: syyttäjänä.
-Puhuja 0: Tämä on sun tämmöinen Mutta en tiennyt, että tämä on menossa Briteissä.
+Puhuja 0: Tämä on sun tämmöinen... Mutta en tiennyt, että tämä on menossa Briteissä.
 Puhuja 0: Vasta kun olin itse postannut oman X-seurauksen,
 Puhuja 0: niin siellä
 Puhuja 0: kommenteissa
 Puhuja 0: oikeisto-perusteettyyliset
-Puhuja 0: oli, että englannissa on just sama meininki. Mulla se ei liittynyt siihen Sulla ja Elon Musk on henkinen yhteys. Mutta kun mulla se ei liity, kun
-Puhuja 2: Mua tässä tämä mamu-aspekti ei kiinnosta. Tai siis se on olennainen asia. Se asia on nimenomaan tämä vastuukysymys, että mikä on silloin se syyttäjä ja miksi tämä saattoi mennä näin. Niin, juuri näin. En tiedä,
+Puhuja 0: oli, että englannissa on just sama meininki. Mulla se ei liittynyt siihen... Sulla ja Elon Musk on henkinen yhteys. Mutta kun mulla se ei liity, kun...
+Puhuja 0: Mua tässä tämä mamuaspekti
+Puhuja 2: ei kiinnosta. Tai siis se on olennainen asia. Se asia on nimenomaan tämä vastuukysymys, että mikä on silloin se syyttäjä ja miksi tämä saattoi mennä näin. Niin, juuri näin. En tiedä,
 Puhuja 0: mutta kun minua kiinnostaa se, että miksi tästä minun mielestä keskustelu sen ympärillä, että okei, hei, sinä
 Puhuja 0: sosiaalitoimen
 Puhuja 0: johtaja, vituiksi meni, miksi meni. Sitten hän voisi sanoa, että no hei, sen takia jouduttiin aliresursoimaan

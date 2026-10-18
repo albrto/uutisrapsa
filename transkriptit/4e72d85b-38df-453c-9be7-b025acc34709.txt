@@ -3,37 +3,34 @@ Puhuja 1: Hei, ja tervetuloa Helsingin Sanomien Utimaportti-podcastiin
 Puhuja 1: torstaina viisitoista. Päivä.
 Puhuja 1: Lokakuuta vuonna kaksituhatta kaksikymmentäkuusi
 Puhuja 1: Helsingissä
-Puhuja 1: Suomessa,
-Puhuja 1: Aasiassa
+Puhuja 1: Suomessa, Aasiassa
 Puhuja 1: Mutta että on nykyään joka viikonloppu.
 Puhuja 2: No en. Olen myös viikonloppuisin välillä töissä. Niska limassa
 Puhuja 1: raadat kuin joku harjoittelija.
-Puhuja 1: Ja tuolla ivallisesti
-Puhuja 1: kanssani Markalle
+Puhuja 1: Ja tuolla ivallisesti kanssani Markalle
 Puhuja 1: Helsingin Sanomien maineikkaan
 Puhuja 1: ja rakastetun Amerikka-podin
 Puhuja 1: juontaja
 Puhuja 1: Elina Väntönen. Hei vaan, Elina.
-Puhuja 0: No hei vaan, Tuomas. Mähän en ole viikonloppuisin
+Puhuja 0: No hei vaan, Tuomas. Ja vähän en ole viikonloppuisin
 Puhuja 0: töissä.
 Puhuja 1: Elina,
 Puhuja 1: olet Amerikka-podin
 Puhuja 1: juontaja. Amerikka-podi just aloitti. Mikä se oli? Minäkin luin siitä kuvauksesta, että mikä kolmas tuotantokatsaus.
-Puhuja 2: Näin se on. Meidän pitää olla väliaikainen.
+Puhuja 2: Näin se on. Sen pitänyt olla väliaikainen.
 Puhuja 2: Nyt se vaan jatkuu ja jatkuu.
 Puhuja 0: Ei me maltata lopettaa. Meiltä tuli tosiaan
 Puhuja 0: minituotantokauden
 Puhuja 0: ensimmäinen jakso
 Puhuja 0: nyt ulos keskiviikkona.
-Puhuja 0: Erityisesti tämän Porin kuulijoita ehkä kiinnostaa, että siellä on äänessä muuan Anna-Sofia Berner, ystävien kesken sohvi. Eli jos sohvi on ikävä, niin kaikkien kannattaa tulla kuuntelemaan Amerikkapodi. Onko se välivaalien takia tämä
+Puhuja 0: Erityisesti tämän Porin kuulijoita ehkä kiinnostaa, että siellä on äänessä muuan Anna-Sofia Berner, ystävien kesken sohvi. Eli jos sohvi on ikävä, niin kaikkien kannattaa tulla kuuntelemaan Amerikkapodi. Niin onko se välivaalien takia tämä
 Puhuja 2: uudelleen käynnissä?
 Puhuja 0: Joo.
-Puhuja 0: Koska Sohvi on Ääkkärillä,
-Puhuja 0: emme pysty jatkamaan tuotantoa joka viikkoisesti, mutta
-Puhuja 0: minituottaja on parempi kuin ei mitään. Kolmen viikon päästä
-Puhuja 1: Yhdysvalloissa
+Puhuja 0: Koska Sophie on Äikkärillä,
+Puhuja 0: niin emme pysty jatkamaan tuotantoa joka viikkoisesti, mutta minituottaja
+Puhuja 0: on parempi kuin ei mitään. Kolmen viikon päästä Yhdysvalloissa
 Puhuja 1: käydään välivaalit. Jos haluat intensiivisesti
-Puhuja 1: seurata sitä, niin Amerikkapodi on oikea osoite. Ja totta kai myös Uusiraportti-podcast
+Puhuja 1: seurata sitä, niin Amerikkapodi on oikea osoite. Totta kai myös Uusiraportti-podcast
 Puhuja 1: nimittäin tän viikon podcastissa keskustellaan
 Puhuja 1: todella paljon Yhdysvalloista.
 Puhuja 1: Wau, mä en tiedä ees, mistä lähteä liikkeelle.
@@ -56,7 +53,7 @@ Puhuja 1: Mutta ei siinä kaikki. Nimittäin sen lisäksi
 Puhuja 1: Yhdysvalloissa
 Puhuja 1: on tehty
 Puhuja 1: tämmöinen
-Puhuja 1: yleinen sekoilu aikakausi,
+Puhuja 1: yleinen sekoiluaikakausi,
 Puhuja 1: johon liittyy
 Puhuja 1: kuolemantuomiota,
 Puhuja 1: julkisia teloituksia,
@@ -64,20 +61,21 @@ Puhuja 1: kaikkia muuta välivaaleihin liittyvää
 Puhuja 1: valmistelua.
 Puhuja 1: Siellä on niin paljon kaikkea.
 Puhuja 1: En osaa edes sanoa,
-Puhuja 1: että mitä kaikkea ehditään puhumaan.
+Puhuja 1: mitä kaikkea ehditään puhumaan.
 Puhuja 1: Väitän,
 Puhuja 1: että täällä on sisällä Suomi aihe sillä tavalla, että nämä kaikki kumpuavat
 Puhuja 1: nämä
 Puhuja 1: Yhdysvaltojen
 Puhuja 1: sekoilut
-Puhuja 1: Trumpin
-Puhuja 1: ongelmasta, jonka hän on ihan itse aiheuttanut itselleen, mutta myös meille muille. Se on se, että öljyn hinta on aivan käsittämättömän
+Puhuja 1: Trumpin ongelmasta, jonka hän on ihan itse aiheuttanut itselleen, mutta myös meille muille. Se on se, että öljyn hinta on aivan käsittämättömän
 Puhuja 1: korkealla.
-Puhuja 1: Trump yrittää keinolla millä hyvänsä painaa sitä alaspäin.
-Puhuja 1: Tilanne on samanlainen kuin Suomessa, jossa hallitus yrittää jakeluvelvoitteen,
+Puhuja 1: Trump yrittää keinolla millä hyvänsä sitä alaspäin.
+Puhuja 1: Tilanne
+Puhuja 1: on samanlainen kuin Suomessa, jossa hallitus yrittää jakeluvelvoitteen,
 Puhuja 1: voi Jeesus, mikä sana,
 Puhuja 1: siitä vääntämällä saada
-Puhuja 1: dieselin hintaa alaspäin. Näin.
+Puhuja 1: dieselintaa
+Puhuja 1: alaspäin. Näin.
 Puhuja 1: Mutta onko näin? Puhutaan siitä.
 Puhuja 1: Sen lisäksi
 Puhuja 1: puhutaan toisena aiheena. Jos tuo äsken oli sekavaa, niin tämä on vielä
@@ -96,27 +94,26 @@ Puhuja 1: niin Ranskan ja Saksan välinen valtionvelan
 Puhuja 1: spreviksi, kai sitä sanotaan taloustieteissä,
 Puhuja 1: se on leventynyt
 Puhuja 1: eurokriisi
-Puhuja 1: leveleihin. Eurokriisi oli vuonna kaksituhatta yksitoista hetki, jolloin ajateltiin, että koko Eurooppa lakkaa
-Puhuja 1: olemasta yhtenä yönä.
-Puhuja 1: Okei, no niin, ja nyt tulee se vaikea, ei hyppy. Mun mielestä tämä liittyy Suomen eläkekeskusteluun tiiviisti.
-Puhuja 1: Mutta keskusteluun
+Puhuja 1: leveleihin. Eurokriisi oli vuonna kaksituhatta yksitoista, tämmöinen hetki, jolloin ajateltiin, että koko Eurooppa vaan lakkaa olemasta yhtenä yönä.
+Puhuja 1: Okei, no niin, ja nyt tulee se vaikea, ei hyppy. Mun mielestä tämä liittyy Suomen eläke
+Puhuja 1: keskusteluun
 Puhuja 1: tiiviisti, mutta mä en tiedä, pääsenkö mä ikinä sinne asti.
 Puhuja 1: Ja hei,
 Puhuja 1: kolmannen aiheen sijaan nyt todella tärkeä ilmoitusasia.
 Puhuja 1: Nimittäin
-Puhuja 1: pikku
-Puhuja 1: God, ne tulee myös tänä vuonna. Päivämäärä on nyt dollaria.
+Puhuja 1: pikku God
+Puhuja 1: tulee myös tänä vuonna. Päivämäärä on niin dollaria.
 Puhuja 1: Bondit on myös dollareissa.
-Puhuja 1: Jos se on silleen, että jotain bondien arvo on tuhat dollaria, niin sitten jengit voi printata tuhat dollaria ja antaa sulle, että siinä
+Puhuja 1: Jos se on silleen, että joo, tämän bondin arvo on tuhat dollaria, niin sitten jengit voi printata tuhat dollaria ja antaa sulle, että siinä
 Puhuja 2: käytännössä. Periaatteessa näin.
-Puhuja 2: Joo, mutta
-Puhuja 2: sitten kun korot nousee, niin yleensä
+Puhuja 2: Joo,
+Puhuja 2: mutta
+Puhuja 2: sitten kun korot nousee, niin siinä yleensä
 Puhuja 2: osakkeiden hinnat laskevat.
 Puhuja 2: Edelleenkin
 Puhuja 2: jenkkiosakkeet ovat kaikkien aikojen huippuhinnoissaan.
 Puhuja 2: Ne riskit kasvavat siihen, että jos
-Puhuja 2: nämä valtava nämä tsiljardit, jotka on tähän tekoälyn kehitykseen laitettu ja joista
-Puhuja 2: tulee tämmöistä yleistä härdelliä, niin saattaa tulla
+Puhuja 2: nämä valtava nämä tsiljardit, jotka on tähän tekoäly kehitykseen laitettu ja joista tulee yleistä härdelliä, niin saattaa tulla
 Puhuja 2: kunnon omaksi. Jos
 Puhuja 1: nyt se
 Puhuja 1: tekoälykupla, mistä on puhuttu siitä, kuukausia, kuukausia on puhuttu, ilmiselvästi olemassa
@@ -131,32 +128,33 @@ Puhuja 2: Mä
 Puhuja 2: en tiedä, mistä päästä se nyt lähtee, mutta kaikki
 Puhuja 2: nämä viittaa siihen, että talouden
 Puhuja 2: riskit kasvaa koko ajan.
-Puhuja 0: Onhan se velan määrä siis Jenkeillä ihan jäätävä. Itsessään
-Puhuja 0: joo,
-Puhuja 0: se yksittäinen luku, että onko se neljäkymmentä vai viisikymmentä miljoonaa dollaria, niin sillä ei varmaan ole hirveän suurta väliä. Mutta se, että kuinka paljon rahaa niihin korkomenoihin
+Puhuja 0: Onhan se velan määrä siis Jenkeillä ihan jäätävä.
+Puhuja 0: Itsessään joo, se
+Puhuja 0: yksittäinen luku, että onko se neljäkymmentä vai viisikymmentä miljoonaa dollaria, niin sillä ei varmaan ole hirveän suurta väliä. Mutta se, että kuinka paljon rahaa niihin korkomenoihin
 Puhuja 0: menee, on
 Puhuja 0: ihan valtava kysymys. Minua auttoi tämä, kun jossain
 Puhuja 0: lehtiartikkelissa
 Puhuja 0: oli rinnastettu tämä
 Puhuja 0: Yhdysvaltojen puolustusmenoihin.
 Puhuja 0: Menee
-Puhuja 0: siis enemmän rahaa niihin korkomenoihin
-Puhuja 0: kuin siihen koko helvetin
+Puhuja 0: siis enemmän rahaa
+Puhuja 0: niihin korkomenoihin
+Puhuja 0: kuin koko helvetin
 Puhuja 0: puolustussektoriin,
-Puhuja 1: joka on ihan järkyttävän kokoinen. Nythän tässä alkaa taas esiintyy sanoja, joka alkaa kuulostaa aika tutulta myös suomalaisille. Kyllä. Vähän nopeasti, että sehän tässä on jollain tavalla
+Puhuja 0: joka on ihan järkyttävän kokoinen. Nythän tässä
+Puhuja 2: esiintyy sana, joka alkaa kuulostaa aika tutulta myös suomalaisille. Kyllä. Vähän nopeasti, että sehän tässä on jollain tavalla
 Puhuja 2: erikoista.
 Puhuja 2: Perinteisestihän
-Puhuja 2: republikaanit
-Puhuja 2: ovat halunneet
-Puhuja 2: pienentää
-Puhuja 2: valtion roolia ja ollut tiukan talouden ja varsinkin julkisen talouden
-Puhuja 2: edesauttajia.
-Puhuja 2: Trompi on tullut sillä ei ole mitään väliä. Tässä velka vaan kasvaa
+Puhuja 2: republikaanit ovat
+Puhuja 2: halunneet pienentää
+Puhuja 2: valtion roolia ja ollut tällaisia tiukan talouden ja varsinkin julkisen talouden
+Puhuja 2: edesauttajia. Eihän Trump tule sille mitään väliä.
+Puhuja 2: Tässä velka vaan kasvaa
 Puhuja 2: ihan käsititään.
 Puhuja 0: Ehkä tuohon jatkaen vielä, että se mitä siellä halutaan suojella ennen kaikkea on matalat verot. Se on se, minkä
 Puhuja 0: se republikaanipuolue
-Puhuja 0: rakentuu. Mutta samaan aikaan halutaan kuitenkin myös se vahva armeija, joka maksaa rahaa. Ja toisaalta halutaan kuitenkin suojella niitä keskeisiä
-Puhuja 0: sosiaaliturvaetuuksia. Ja sitten se on johtanut siihen, että se vaan paisuu ja paisuu. Eikä se itse asiassa olekaan enää mikään samanlainen ongelma kuin vielä joskus jotain vuosia sitten. Euroopan maista Ranska on se, joka tässä on nostettu keskiöön.
+Puhuja 0: rakentuu. Samaan aikaan halutaan kuitenkin myös se vahva armeija, joka maksaa rahaa. Ja toisaalta halutaan kuitenkin suojella niitä keskeisiä
+Puhuja 0: sosiaaliturvaetuuksia. Se on johtanut siihen, että se vaan paisuu ja paisuu. Eikä se itse asiassa olekaan enää mikään samanlainen ongelma kuin vielä joskus jotain vuosia sitten. Euroopan maista Ranska on se, joka tässä on nostettu keskiöön.
 Puhuja 1: Tässä oli
 Puhuja 1: toissa viikolla
 Puhuja 1: joukkomyynti, eli Ranskan
@@ -194,29 +192,27 @@ Puhuja 1: Mun mielestä tässä on nyt mainittu kaksi asiaa, jotka ovat
 Puhuja 1: eläkkeet
 Puhuja 1: ja toisaalta, minkä sinä juuri äsken sanoit,
 Puhuja 1: Elina, siis korkomenot.
-Puhuja 1: Nämähän on niin hämmentävää kuin se on, niin nehän ovat täysin samoja asioita, minkä kanssa Petteri Orpo on
-Puhuja 1: paininut koko hallituskautensa
-Puhuja 1: ajan.
-Puhuja 1: Ehkä Riikka Purra enemmän kuin Petteri Orpo,
+Puhuja 1: Nämähän on niin hämmentävää kuin se on, niin nehän on täysin samoja asioita, minkä kanssa Petteri Orpo on paininut koko hallituskautensa
+Puhuja 1: ajan, sillä tavalla, että, ja ehkä Riikka Purra enemmän kuin Petteri Orpo,
 Puhuja 1: Suomenkin korkomenot ovat niin käsittämättömän
-Puhuja 1: isot, että se
-Puhuja 1: aiheuttaa kylmän hikeä poliitikoissa,
+Puhuja 1: isot, että se aiheuttaa
+Puhuja 1: kylmän hikeä poliitikoissa,
 Puhuja 1: valtiovarainministeriön
 Puhuja 1: virkamiehissä.
 Puhuja 1: Se on koko ajan semmoinen peikko, että mitä helvettiä, jos Suomen
-Puhuja 2: korkomenot, joka siis jos Ranskassa ja USA:ssa se oli noin viisi, niin Suomella ne on tänään kolme pilkku kahdeksan viisi, on Suomen valtion verran korko. Mun mielestä Saksa, joka on taas Euroopan, on se Amerikka, se on se benchmark. Saksa on jotain kolme pilkku kuusi, jos huomio on. Jää sen kolme
-Puhuja 2: pilkku
-Puhuja 2: kahdeksan viisi. Tavallaan kuitenkin suhteellisen lähellä saksaa. Edelleen.
+Puhuja 1: korkomenot, joka siis jos Ranskassa ja USA:ssa se oli noin viisi, niin Suomella ne on tänään kolme pilkku kahdeksan viisi, on Suomen valtion verran korko. Mun mielestä Saksa, joka on taas Euroopan, on se Amerikka, se on se benchmark. Saksa on jotain kolme pilkku kuusi, jos huomioi.
+Puhuja 2: Jää sen kolme pilkku kahdeksan viisi. Tavallaan kuitenkin suhteellisen lähellä saksaa. Edelleen.
 Puhuja 1: Mutta minulla tuli mieleen,
 Puhuja 1: oliko toisessa podcastissa Salla mainitsi tämän,
 Puhuja 1: että kun
 Puhuja 1: Kokoomukselta tuli näitä eläkeavauksia
 Puhuja 1: ja tässä välissä myös valtiovarainministeriöltä
-Puhuja 1: on tullut seitsemänkymmentä
-Puhuja 1: vuoden eläkeikä nuorille,
-Puhuja 1: niin
-Puhuja 1: nämä on
-Puhuja 1: saman tilanteen setvimistä Suomessa, mitä toisaalta Ranska yrittää setviä ja toisaalta Yhdysvallat yrittävät setviä.
+Puhuja 1: on tullut
+Puhuja 1: seitsemänkymmentä
+Puhuja 1: vuoden eläkeikä nuorille.
+Puhuja 1: Nämä on
+Puhuja 1: saman tilanteen setvimistä
+Puhuja 1: Suomessa, mitä toisaalta Ranska setviä ja toisaalta Yhdysvallat yrittävät setviä.
 Puhuja 1: Suomessa se, miten sitä setvitään, on se, että käytännössä nuoret pistetään
 Puhuja 1: maksamaan antamalla niille pienempiä eläkkeitä myöhemmin.
 Puhuja 1: Mutta
@@ -237,33 +233,34 @@ Puhuja 1: luottoluokitus,
 Puhuja 1: koska me ei kestäettäisi
 Puhuja 1: yhtään nousua meidän valtionvelan korkoon. Itse asiassa siitä tässä kokonaan on kyse, että meidän poliitikot tällä hetkellä
 Puhuja 1: dumppaavat meidän tällä hetkellä opiskelevien
-Puhuja 1: tai nuorten vasta työelämään lähteneiden tulevaisuuden
-Puhuja 1: Pitääkseen
-Puhuja 1: luottoluokittajat
-Puhuja 1: tyytyväisinä,
-Puhuja 1: jotta valtionvelan korot eivät
-Puhuja 2: lähtisi nyt nousuun, koska me ei kestäettäisi sitä? No joo, korot on iso ongelma. Mutta kaikkein isoin ongelma on se, että julkiset menot kasvaa vain koko ajan. Siitähän on tavallaan nämä sote-menot, mikä ehkä nopeimmin kasvaa, johtuu
-Puhuja 2: Suomen väestön
-Puhuja 2: ikärakenne. Meillä on niin paljon iäkkäitä ihmisiä ja liian vähän töissäkäyviä.
-Puhuja 2: Ne korot ovat kuitenkin vain
-Puhuja 2: ovat seuraus.
-Puhuja 2: Eihän
-Puhuja 2: tätä
-Puhuja 2: säästyä tee sen takia, että nimenomaan korkomenot laskisi, vaan se, että velkaantuminen saataisiin kuriin yli. Totta kai, tämähän
-Puhuja 0: varmasti liittyy toisiinsa. Aina kun luen tästä, niin minulle tulee sellainen olo, että tämä on ihan ilmiselvä aikapommi. Tilanne on kestämätön ja hitaasti menemässä kohti kuilua. Kaikki tavallaan tiedostaa sen tosiasian, että tämä homma ei voi jatkua näin. Mutta
+Puhuja 1: tai nuorten vasta työelämään lähteneiden
+Puhuja 1: tulevaisuuden? Pitääkseen luottoluokittajat
+Puhuja 1: tyytyväisinä, jotta valtionvelan korot eivät
+Puhuja 1: lähtisi nyt nousuun, koska me ei kestäettäisi sitä? No joo, korot on iso ongelma.
+Puhuja 2: Mutta kaikkein isoin ongelma on se, että julkiset menot kasvaa vain koko ajan. Siitähän on tavallaan nämä sote-menot, jotka ehkä nopeimmin
+Puhuja 2: kasvaa. Suomen
+Puhuja 2: väestön
+Puhuja 2: ikärakenne on. Meillä on niin paljon iäkkäitä ihmisiä ja liian vähän töissäkäyviä.
+Puhuja 2: Ne korot
+Puhuja 2: vain
+Puhuja 2: seuraus.
+Puhuja 2: Eihän tätä säästyä tee sen takia, että nimenomaan vain korkomenot laskisi, vaan se, että
+Puhuja 0: velkaantuminen saataisiin kuriin yli. Totta kai, että nämähän varmasti liittyvät toisiinsa. Aina kun luen tästä, niin minulle tulee sellainen olo, että tämä on ihan ilmiselvä aikapommi. Tilanne on kestämätön ja hitaasti menemässä kohti kuilua. Kaikki tavallaan tiedostaa sen tosiasian, että tämä homma ei voi jatkua näin. Mutta
 Puhuja 0: kuitenkin
 Puhuja 0: jotain isoa korjausliikettä ei tehdä.
-Puhuja 0: Koska meillä on Ranska, koska Ranskassa ne ei pysty puuttumaan niihin eläkkeisiin. Annan toisen verran. Meillä
-Puhuja 1: ei myöskään pystytä puuttumaan eläkkeisiin. Sen takia meillä VM ja poliitikot on silleen, että hei, nämä nykyisin opiskelevat,
-Puhuja 1: niin me Kustaan niiden eläkkeet.
-Puhuja 1: Koska ne ei Suomessa mennä pistämään autoja paskaksi Pariisissa. Ei meillä ole. Missä on opiskelijajärjestöt?
-Puhuja 1: Missä on joku protesti, että: Mitä vittua meidän eläkkeitä dumppaatte?
+Puhuja 1: Koska meillä on Ranska, koska Ranskassa ne ei pysty puuttumaan niihin eläkkeisiin. Annan toisen verran. Meillä
+Puhuja 1: ei myöskään pystytä puuttumaan eläkkeisiin. Sen takia meillä VM ja poliitikot on silleen, että hei, nämä nykyisin
+Puhuja 1: opiskelevat,
+Puhuja 1: niin me kustaan niiden eläkkeen.
+Puhuja 1: Koska
+Puhuja 1: ne ei Suomessa mennä pistämään autoja paskaksi Pariisissa. Missä
+Puhuja 1: on opiskelijajärjestöt? Missä on joku protesti, että: Mitä vittua meidän eläkkeitä dumppaatte?
 Puhuja 1: Mitä helvettiä?
-Puhuja 0: Tämähän on myös vähän niin kuin ilmastonmuutoksen
+Puhuja 0: Ja tämähän on myös vähän niin kuin ilmastonmuutoksen
 Puhuja 0: kanssa, eikö niin? Kaikki tavallaan tunnistaa,
-Puhuja 0: että ollaan menemään hiljalleen kohti katastrofia, mutta tilanne on kuitenkin vielä semmoinen, että nyt voidaan elää sen kanssa. Kaikki vaan on silleen, että OK, jossain kohtaa teemme asialle jotain, mutta nyt ei ole se hetki. Just näin. Hyvä
+Puhuja 0: että ollaan menemään hiljalleen kohti katastrofia. Mutta tilanne on kuitenkin vielä semmoinen, että nyt voidaan elää sen kanssa. Kaikki vaan on silleen, että OK, jossain kohtaa teemme asialle jotain, mutta nyt ei ole se hetki. Just näin. Hyvä
 Puhuja 1: Elina.
-Puhuja 2: Sitten
+Puhuja 1: Sitten
 Puhuja 1: kun
 Puhuja 1: olette
 Puhuja 1: lähdössä duunista
@@ -284,27 +281,27 @@ Puhuja 1: ja otatte siinä
 Puhuja 1: tällä kertaa vaikka
 Puhuja 1: tuon Ginger-eilin.
 Puhuja 2: Jos aloitan.
-Puhuja 2: Koska
-Puhuja 2: suosittelen jo tätä Slow Horcesin uutta kautta, vedän sen suosituksen pois. Ei!
-Puhuja 2: On se ihan hyvä, mutta ei tämä osin kalsio yhtään. Tämä on liian
-Puhuja 2: Slow Hors se ihanuus ollut se, että se on ollut niin härö ja niin outo ja jotenkin niin kamala.
-Puhuja 2: Se on viehättää törkeäällä
-Puhuja 2: kielenkäytöllään, Jotenkin
-Puhuja 2: siinä, että mitä tahansa voi tapahtua.
+Puhuja 2: Koska tavallaan suosittelen jo tätä Slow Horcesin uutta kautta. Vedän sen suosituksen pois. Ei!
+Puhuja 2: On se ihan hyvä, mutta ei tämä uusin kausi ole yhtään. Tämä on liian
+Puhuja 2: Slow Horsissa
+Puhuja 2: ihanuus ollut se, että on ollut niin härö ja niin outo ja jotenkin niin
+Puhuja 2: kamala.
+Puhuja 2: Se on viehättää törkeän
+Puhuja 2: törkeän
+Puhuja 2: Jotenkin siinä, että mitä tahansa voi tapahtua.
 Puhuja 2: Tämä
 Puhuja 2: viimeisin kausi, joka
 Puhuja 2: on kesken vielä, mutta tämä on liian
 Puhuja 2: action täyteistä. Se
 Puhuja 2: on ollut
-Puhuja 2: yllättävänkin väkivaltana, ja siinä on ollut ihan perinteistä
-Puhuja 2: action toimintaa. Oli minusta vähän tylsää. Olin minusta minullakin jonossa, että alkaisin katsoa. Se on ihan hyvä, mutta
+Puhuja 2: yllättävänkin väkivaltana, ja siinä on ollut ihan perinteistä action-toimintaa.
+Puhuja 2: Oli minusta vähän tylsää. Olin minusta minullakin jonossa, että alkaisin katsoa. Se on ihan hyvä, mutta
 Puhuja 2: olin silloin kun se kausi alkoi, niin olin niin onnellinen. Nyt olen vähän
 Puhuja 2: laantunut.
 Puhuja 1: Olen nyt jotenkin pettynyt tähän.
 Puhuja 1: Okei Elina.
 Puhuja 0: Haluaisin suositella
-Puhuja 0: sellaista
-Puhuja 0: podcastia kuin The Daily.
+Puhuja 0: sellaista podcastia kuin The Daily.
 Puhuja 0: Oho, kovaa vaan. Mutta haluan suositella
 Puhuja 0: yhteisen tuoretta jaksoa.
 Puhuja 0: En nykyään
@@ -338,12 +335,12 @@ Puhuja 1: erinomaisen brittikirjailijan
 Puhuja 1: I am Maquerning
 Puhuja 1: kirjaa
 Puhuja 1: What we can know? Tämä oli outo.
-Puhuja 1: Ensinnäkin siksi, että tämä on fiktiota. Mä en kyllä
-Puhuja 1: saa fiktiota luettua melkein yhtään.
-Puhuja 1: Mä en ole itse asiassa I am McQuenin kirjoja. Mä olen lukenut yhden joskus kokonaan, mutta
+Puhuja 1: Ensinnäkin siksi, että tämä on fiktiota. En
+Puhuja 1: kyllä saa fiktiota luettua melkein yhtään.
+Puhuja 1: En ole itse asiassa I am McQuerning kirjoja. Olen lukenut yhden joskus kokonaan,
+Puhuja 1: mutta
 Puhuja 1: hänen
-Puhuja 1: sovitus
-Puhuja 1: kirjasta on tehty erittäin kuuluisa elokuva, joka on erinomainen.
+Puhuja 1: sovitus kirjasta on tehty erittäin kuuluisa elokuva, joka on erinomainen.
 Puhuja 1: Sitten I am McCuerning-kirjasta
 Puhuja 1: tehtiin Helsingin kaupunginteatteriin
 Puhuja 1: teatteriesitys,
@@ -365,10 +362,10 @@ Puhuja 1: yllätys.
 Puhuja 1: Koska siinä on juoni,
 Puhuja 1: joka valaisee
 Puhuja 1: asian, mikä on pakko olla totta.
-Puhuja 1: Tämä kirja kertoo siitä vuoden kaksituhatta satayhdeksäntoista
+Puhuja 1: Kirja
+Puhuja 1: kertoo siitä vuoden kaksituhatta satayhdeksäntoista
 Puhuja 1: Britanniasta,
-Puhuja 1: jossa historiantutkija
-Puhuja 1: nimeltä Som Svenska MetCalf
+Puhuja 1: jossa historian tutkija nimeltä Thomas MetCalf,
 Puhuja 1: yrittää selvittää
 Puhuja 1: hyvin kuuluisan
 Puhuja 1: runon kohtaloa.
@@ -393,12 +390,11 @@ Puhuja 1: että se on siellä lausuttu. Mutta se käär on kadonnut ja se on sel
 Puhuja 1: Thomas MetCalfille
 Puhuja 1: on tullut.
 Puhuja 1: Hän yrittää
-Puhuja 1: historiallisten lähteiden ja kaikkien perusteella selvittää, missä voi olla se käärö tästä runosta, joka lausuttiin vain kerran.
-Puhuja 1: Se käänteentekevä
-Puhuja 1: kohta, en spoilaa isosti mitään, mutta se tulee siinä, kun hän tutustuu
-Puhuja 1: niin historia-aineistoon,
-Puhuja 1: jossa kerrotaan tästä illasta vuonna kaksituhatta neljätoista, jolloin oli runoilijan syntymäpäiväjuhlat ja hän esittäisi siellä
-Puhuja 1: runon vaimolleen.
+Puhuja 1: historiallisten lähteiden ja kaikkien
+Puhuja 1: perusteella selvittää, missä voi olla se käärö tästä runosta, joka lausuttiin vain kerran.
+Puhuja 1: Se käänteentekevä kohta, en spoilaa isosti mitään, mutta se tulee siinä, kun hän tutustuu niin
+Puhuja 1: historia-aineistoon,
+Puhuja 1: jossa kerrotaan tästä illasta vuonna kaksituhatta neljätoista, jolloin oli runoilijan syntymäpäiväjuhlat ja hän esittäisi siellä runon vaimolleen.
 Puhuja 1: Sinne saapui vieraita. Hän
 Puhuja 1: kutsui, kutsu vieraslistasta
 Puhuja 1: selvittää, että nämä ja nämä ihmiset oli siellä
@@ -410,9 +406,10 @@ Puhuja 1: syntymäjuhliin
 Puhuja 1: autolla. Ja sitten, että Hert otettiin vastaan, kaikki vaikutti hyvin iloisilta. Sitten tulee se käännekohta.
 Puhuja 1: Historioitsija
 Puhuja 1: vuonna kaksituhatta satayhdeksäntoista
-Puhuja 1: tietää, että se oli falskia. Ei nämä ihmiset ollut onnellisia, nämä vieraat, jotka tulivat sinne, vaan että automatkalla
-Puhuja 1: kohti runoilija
-Puhuja 1: asuntoa, he olivat riidelleet siellä autossa. No, mistä tämä tiedetään? Koska
+Puhuja 1: tietää,
+Puhuja 1: että se oli falskia. Ei nämä ihmiset ollut onnellisia, nämä vieraat, jotka tulivat sinne, vaan että automatkalla
+Puhuja 1: kohti runoilija asuntoa,
+Puhuja 1: he olivat riidelleet siellä autossa. No, mistä tämä tiedetään? Koska
 Puhuja 1: vuonna kaksituhatta satayhdeksäntoista
 Puhuja 1: kaikki näiden ihmisten viestit on historiantutkijoiden
 Puhuja 1: käytössä.
@@ -433,13 +430,14 @@ Puhuja 1: Se on valtava
 Puhuja 1: tietotulvan
 Puhuja 1: setvimistä
 Puhuja 1: historiantutkijan
-Puhuja 1: työ tuolloin. Mun mielestä näinhän tää tulee menemään. Tää on se tulevaisuus, mikä meistä jää jälleen. Kaikki meidän ihme aivopierot ja muut tulee tallentuu tonne metanserveleille
+Puhuja 1: työ
+Puhuja 1: tuolloin. Mun mielestä näinhän tää tulee menemään. Tää on se tulevaisuus, mikä meistä jää jälleen. Kaikki meidän ihme aivopierot ja muut tulee tallentuu tonne metanserveleelle
 Puhuja 1: ja muille. Ja ne tulee olemaan siellä ikuisesti. Eihän meta tule missään vaiheessa olemaan silleen, että no, ehkä me vaan deletoidaan.
 Puhuja 1: Ja siellä se joku onneton parka joutuu ruveta aika rapsuttelemaan.
 Puhuja 1: Niin, mitä se Tuomas Peltomäki ajatteli silloin kaksituhatta
 Puhuja 1: kaksikymmentäkuusi?
-Puhuja 1: Mun mielestä tässä oli niin ja hän on mainio kirjailija. Sattuiko sisälle jo toinen, joka suosittelee mulle tätä? Ehkä tämä on merkki. I'm makyern what we can now. Siinä kaikki tältä erää. Kiitos Elina Mäntynen. Kiitos. Kiitos Marko Junkkari, joka tuosta jo häipyi.
-Puhuja 1: Mun nimi on Tuomas Peltämämäki, äänen kuva ja kaiken muun mahtava. Meille tekee tällä viikolla Mikko Peura.
+Puhuja 1: Mun mielestä tässä oli niin, ja hän on mainio kirjailija. Sä oot viikon sisällä jo toinen, joka suosittelee mulle tätä? Ehkä tämä on merkki. I am maky year What we can now. Siinä kaikki tältä erää. Kiitos Elina Vänteren. Kiitos. Kiitos Marko Junkkari, joka tuosta jo häipyi.
+Puhuja 1: Mun nimi on Tuomas Peltomäki. Äänenäkuva ja kaiken muun mahtava meille tekee tällä viikolla Mikko Peura.
 Puhuja 1: Hei, vielä kerran muistutan,
 Puhuja 1: että
 Puhuja 1: pikkujoulut
@@ -448,20 +446,17 @@ Puhuja 1: kaksisataakaksitoista.
 Puhuja 1: Ravintolatyölössä.
 Puhuja 1: Ilmoittautuminen
 Puhuja 1: avataan
-Puhuja 1: tässä pikapuoliin.
-Puhuja 1: Mutta ilmoittautumisohje
-Puhuja 1: tulee
-Puhuja 1: ensi viikon Porissa,
-Puhuja 1: koska niitä ei ole vielä tehty. Mutta ne tulee silloin.
-Puhuja 1: Laittakaa kalentereihin
-Puhuja 1: nyt
-Puhuja 1: siis kaksituhatta
+Puhuja 1: tässä pikapuoliin,
+Puhuja 1: mutta ilmoittautumisohjeet
+Puhuja 1: tulee ensi viikon Porissa,
+Puhuja 1: koska niitä ei ole vielä tehty, mutta ne tulee silloin.
+Puhuja 1: Laittakaa kalentereihin nyt siis
+Puhuja 1: kaksisataakaksitoista. Vuonna kaksituhatta
 Puhuja 1: kaksikymmentäkuusi
 Puhuja 1: Ravintola Töölössä Helsingissä
-Puhuja 1: ja että ilmoittautumisohjeet
-Puhuja 1: tulevat
-Puhuja 1: ensi
-Puhuja 1: viikon jaksossa. Unelkaa myös siis ensi viikon jaksot. Mutta nyt kalenteri esimerkkejä.
+Puhuja 1: ja
+Puhuja 1: että ilmoittautumisohjeet
+Puhuja 1: tulevat ensi viikon jaksossa. Unelkaa myös siis ensi viikon jaksot. Mutta nyt kalenteriin esimerkki.
 Puhuja 1: Hyvä, kiitos. Heippa!
 Puhuja 1: Moi, Tuomas tässä.
 Puhuja 1: Mun uusi podcast Menetetyt miljardi
@@ -475,14 +470,15 @@ Puhuja 1: suurvaltapolitiikassa.
 Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 1: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
 Puhuja 1: aihetta, mutta kävikin aivan päinvastoin.
-Puhuja 1: Mun eteen avautui taloudellinen
-Puhuja 1: murhamysteeri.
+Puhuja 1: Mun eteen avautui
+Puhuja 1: taloudellinen murhamysteeri.
 Puhuja 1: Tämän tarinan hahmoina on kunnianhimoisia
-Puhuja 1: bisnesmiehiä,
+Puhuja 1: bisnesmiehiä
 Puhuja 1: ja on poliitikkoja,
-Puhuja 1: ja oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
-Puhuja 1: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
-Puhuja 1: Ja totta kai on Vladimir Putin ja hänen hämääkinverkkonsa.
+Puhuja 1: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, Ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 1: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 1: aktivistit.
+Puhuja 1: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.
 Puhuja 1: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
-Puhuja 1: Lataa siis C ja kuuntele viisiosainen
+Puhuja 1: Lataa siis C:a Kuuntele viisiosainen
 Puhuja 1: menetetyt miljardit.

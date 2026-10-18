@@ -9,7 +9,7 @@ Puhuja 0: erikoisvieras
 Puhuja 0: Helsingin Sanomien kuukausiliitteen
 Puhuja 0: pitkäaikainen
 Puhuja 0: politiikan toimittaja Unto Hämäläinen ystävien kesken Unski.
-Puhuja 2: Terve Unski. Terve, Sahvi.
+Puhuja 0: Terve Unski. Terve, Sahvi.
 Puhuja 0: Hauskaa saada tänne
 Puhuja 0: Unski poikkeuksellisesti
 Puhuja 0: vieraaksi.
@@ -49,22 +49,23 @@ Puhuja 2: Minä luulen, että se ei oikeasti ollut se, että Tillery ihan uhri
 Puhuja 2: oikeasti,
 Puhuja 2: vaan se nautti siitä.
 Puhuja 2: Se on jotenkin sellainen ohjelma, jota hän varmaan
-Puhuja 2: oli kauan aikaa haaveillut tekevänsä ja sitten ne palaset
-Puhuja 2: sattuivat sillä tavalla kohdalle. Siitähän tuli sitten tämmöinen
+Puhuja 2: oli kauan aikaa haaveillut tekevänsä ja sitten
+Puhuja 2: ne palaset sattuivat sillä tavalla kohdalle. Siitähän tuli sitten tämmöinen
 Puhuja 2: journalismin historiaa jäävä
-Puhuja 1: dokumentti, jos näin voi sanoa. Kyllä minä, mutta minä kyllä luulen, että se kuitenkin
-Puhuja 1: Mielestäni on näille ulkopuolisena, minusta on ihan käsittämätöntä, että Ruben Stillerille annettiin varoitus ja sehän on aika järeä.
+Puhuja 1: dokumentti, jos näin voi sanoa. Kyllä minä, mutta minä kyllä luulen, että se kuitenkin...
+Puhuja 1: Mielestäni ulkopuolisena on minusta ihan käsittämätöntä, että Ruben Stillerille annettiin varoitus ja sehän on aika järeä.
 Puhuja 1: Juridinen toimija. Sen seuraava askel hän on irtisanominen.
 Puhuja 1: Oli hänellä myös syytä olla siinä vähän herkillä.
 Puhuja 2: No, se on totta tietysti näin,
 Puhuja 2: mutta toisaalta hän on niin totaalinen
-Puhuja 2: ohjelmantekijä
+Puhuja 2: ohjelmantekijä,
 Puhuja 2: ja tämmöisessä
 Puhuja 2: tilanteessa niin taitava, että hän kyllä
 Puhuja 2: tavallaan
 Puhuja 2: näki myös tämän
 Puhuja 2: toisen puolen tästä asiasta.
-Puhuja 2: Ja käytti sitä todella hyväkseen.
+Puhuja 2: Ja käytti sitä todella
+Puhuja 2: hyväkseen.
 Puhuja 1: Oli, mutta ehkä ohjelman viihdyttävyys
 Puhuja 1: tuli siitä, että mielestäni siinä
 Puhuja 0: myös oltiin aika sydänvierellä. Se jännite oli aitoa todella.
@@ -80,13 +81,13 @@ Puhuja 0: aina on tullut linjoja pitkin toimittajille
 Puhuja 0: ja hermostunut ja suuttanut, mutta silti olit sitä mieltä, että tämä on myös poikkeuksellinen
 Puhuja 0: keissi, niin kertaan vielä, että mikä tässä oli erityistä, että miksi tämä ei ollut maan
 Puhuja 0: business as usual?
-Puhuja 2: Tässä on kaksi sellaista poikkeuksellista juttua. Ensinnäkin, mihin Atte Jääskeläinen
+Puhuja 2: Tässä on kaksi sellaista poikkeuksellista juttua. Ensinnäkin,
+Puhuja 2: mihin Atte Jääskeläinen
 Puhuja 2: kahdessa
 Puhuja 2: eri
 Puhuja 2: haastattelussa on viitannut, eli tämä on jatkunut
-Puhuja 2: melkein koko tämän, tai oikeastaan tämä koko pääministeri
-Puhuja 2: kauden ja alkanut jo aikaisemmin.
-Puhuja 2: Eli puhutaan jo parista vuodesta eli olemassa Yleisradion ja nimenomaan pääministerin,
+Puhuja 2: melkein koko tämän, tai oikeastaan tämä koko pääministeri kauden ja alkanut jo aikaisemmin.
+Puhuja 2: Puhutaan jo parista vuodesta eli olemassa Yleisradion ja nimenomaan pääministerin,
 Puhuja 2: tai siis Johan Sipilän välillä tällainen
 Puhuja 2: jännite, joka on
 Puhuja 2: jatkuva.
@@ -98,7 +99,7 @@ Puhuja 2: Se on erikoista.
 Puhuja 2: Ne yleensä näin pitkään jatkuu. Se
 Puhuja 2: tekee siitä
 Puhuja 2: oudon.
-Puhuja 2: Toinen asia on, että se toissa perjantaina
+Puhuja 2: Toinen asia on, että toissa perjantaina
 Puhuja 2: sähköpostiviestinvaihto
 Puhuja 2: toimittaja Vuorikoskelle ja päätoimittaja Jääskeläiselle
 Puhuja 2: olosuhteissa eikä se aiheuta
@@ -107,7 +108,8 @@ Puhuja 2: niitä
 Puhuja 2: toimenpiteitä
 Puhuja 2: tai
 Puhuja 2: jatkotapahtumia,
-Puhuja 2: mitä koko ajan pelkää, että
+Puhuja 2: mitä koko ajan
+Puhuja 2: pelkää, että
 Puhuja 2: syntyy jotain väkivaltaisia
 Puhuja 2: otteita siellä tai täällä.
 Puhuja 2: Eli nyt tavallaan viranomaiset ovat ottaneet tämän kontolleen tämän asian. Nyt heidän tehtävänsä on huolehtia siitä, että mitään tällaista ei tapahdu.
@@ -148,12 +150,11 @@ Puhuja 0: Mitä
 Puhuja 2: sieltä odotat? Miten olet pukeutunut?
 Puhuja 2: Minulla on frakkiin,
 Puhuja 2: ihan oikea frakki.
-Puhuja 1: On ihan
-Puhuja 1: oikeaa pukuvuokraamusta
+Puhuja 1: On
+Puhuja 1: ihan oikeaa pukuvuokraamusta
 Puhuja 1: haettu.
-Puhuja 1: Selvä.
-Puhuja 1: Joo,
-Puhuja 1: meillä on tosiaan Huomisiltana HSTV:n
+Puhuja 2: Selvä.
+Puhuja 1: Meillä on tosiaan Huomisiltana HSTV:n
 Puhuja 1: ja Ilta-Sanomien ISTV:n
 Puhuja 1: yhteislähetys.
 Puhuja 1: Meillä on
@@ -163,27 +164,25 @@ Puhuja 1: ja siellä me haastattelemme Linnan kiinnostavimpia ihmisiä. Ja itse 
 Puhuja 1: ja kannattaa ehdottomasti katsoa huomenna, ja laittaa vaikka se Ylelähetys äänettömälle, ottaa äänet meiltä.
 Puhuja 1: Meillä lähetys alkaa siis jo ennen kello kuutta, ja samaan aikaan meillä on kamerat tuolla kaupungilla seuraamassa näitä mielenosoituksia
 Puhuja 1: ja mahdollisia mellakoita, joita kukaan ei toivo. Mutta sitten tämä meidän linnan juhlalakähetys alkaa siinä joskus
-Puhuja 1: kello kahdeksantoista
-Puhuja 1: jälkeen,
+Puhuja 1: kello kahdeksantoista jälkeen,
 Puhuja 1: jolloin sinne rupeavat ensimmäiset ihmiset kerääntymään jo. Mutta huomenna vissiin kymmenen asteen pakkanen. Tiesittekös?
 Puhuja 0: Hoh, aikamoinen. Viime vuonna oli se karmea ja karmea sade. Kyllä. Teemme
 Puhuja 1: haastatteluja sieltä jonosta, missä ihmiset jonottavat
 Puhuja 1: linnan sisälle.
 Puhuja 1: Ja sitten me näytämme tämän kättelyn, ja sitten noin,
-Puhuja 1: ehkä puoli kahdeksan aikaan rupeaa näitä vielä tupsahtelemaan sinne kättelyn jälkeen
+Puhuja 1: ehkä puoli kahdeksan aikaan rupeaa näitä vielä tupsahtelemaan
+Puhuja 1: sinne kättelyn jälkeen
 Puhuja 1: sinne Atriumiin kakkoskerrokseen.
 Puhuja 1: Tarkoitus on haastaa kaikki kiinnostavimmat vieraat. Mielestäni Linnan juhlien
 Puhuja 0: haastattelut perinteisesti ovat jo lähtökohtaisesti
 Puhuja 0: usein hyvin kiusallisia ja jotenkin sellaisia vaivaantuneita ja teennaisia.
 Puhuja 0: Mutta mitä ajattelette tänä vuonna, esimerkiksi jos Ylentoimittajat haastattelevat ylempäätoimittajat te äskeläisten Linnan juhlista, niin onko se jonkinnäköinen
 Puhuja 0: kiusallisuuden
-Puhuja 2: Suomen ennätys? Ei, minun mielestäni. Itseasiassa se on ihan mukava, jos haastattelevat,
-Puhuja 2: koska
+Puhuja 2: Suomen ennätys? Ei, minun mielestäni. Itseasiassa se on ihan mukava, jos haastattelevat, koska
 Puhuja 2: sillä tavalla
-Puhuja 2: palautetaan järjestystä maahan eli
-Puhuja 2: itsenäisyyspäivänä
-Puhuja 2: tehdään itsenäisyyspäivän
-Puhuja 2: rituaaleja
+Puhuja 2: palautetaan järjestystä maahan.
+Puhuja 2: Itsenäisyyspäivänä
+Puhuja 2: tehdään itsenäisyyspäivän rituaaleja
 Puhuja 2: tälläkin osalla.
 Puhuja 2: Sitä paitsi se on ihan kiva kuulla, mitä Atte sanoo itsenäisyyspäivänä.
 Puhuja 1: On, ja tavallaan tämä nyt sinänsä
@@ -207,18 +206,15 @@ Puhuja 2: siitä, mitä
 Puhuja 2: toimittajat kysyvät tai edes siitä, mitä
 Puhuja 2: nämä vieraat vastaavat, vaan me olemme kiinnostuneita siitä, että ketä siellä on,
 Puhuja 2: mikä se tilanne on ja miltä se näyttää ja ketä siellä takana kulkee ja niin poispäin.
-Puhuja 2: Siinä mielessä
-Puhuja 2: sitä ei kannata jännittää. Että oikeastaan ihan samaa, mitä kysyttiin. Niin ei ihan sama, mutta kun sinä kuitenkin joudut kysymään eri sanoin
+Puhuja 2: Siinä mielessä sitä ei kannata jännittää. Että oikeastaan ihan samaa, mitä kysyttiin. Niin ei ihan sama, mutta kun sinä kuitenkin joudut kysymään eri sanoin
 Puhuja 2: sitä, että mitä itsenäisyys
 Puhuja 2: merkitsee,
-Puhuja 2: niin
 Puhuja 2: Se tavallaan täytyy tunnustaa.
 Puhuja 2: Ja tosiaan, jos tästä mediapersoonista
 Puhuja 2: on puhetta,
 Puhuja 2: tai mediapersoonia
 Puhuja 2: sattuu kohdallesi, niin ilman muista
-Puhuja 2: haastatella
-Puhuja 2: Helena Petäistöä.
+Puhuja 2: haastatella Helena Petäistöä.
 Puhuja 2: Helenahan
 Puhuja 2: sairastui viime keväänä
 Puhuja 2: ja on ollut monta kuukautta pois
@@ -226,8 +222,8 @@ Puhuja 2: työelämästä, mutta arvatenkin
 Puhuja 2: on hyvin tarkkaan seurannut sitä, mitä maailmassa tapahtuu. Hän on hyvä
 Puhuja 2: esiintyä, että
 Puhuja 1: häneen kiinni. Minä lupaan uusikin tarttua häneen kiinni. Hyvä.
-Puhuja 0: Kuulosti epämääräisesti
-Puhuja 0: joltain, mitä tapahtui Slushin
+Puhuja 0: Kuulosti
+Puhuja 0: epämääräisesti joltain mitä tapahtui Slushin
 Puhuja 0: jatkobileissä.
 Puhuja 0: Älä,
 Puhuja 1: tämä oli niin kuin niin.
@@ -242,8 +238,7 @@ Puhuja 2: Itsenäisyys merkitsee minulle
 Puhuja 2: sitä, kun pohdin omassa elämässäni, että onpas
 Puhuja 2: minulle käynyt hyvä säkä.
 Puhuja 2: Olen 62-vuotias
-Puhuja 2: syntynyt kymmenen vuotta sodan
-Puhuja 2: päättymisen jälkeen.
+Puhuja 2: syntynyt kymmenen vuotta sodan päättymisen jälkeen.
 Puhuja 2: Hän sanoi elää koko elämäni rauhan aikana.
 Puhuja 2: Kun katsoo sitä, että
 Puhuja 2: mikä on Suomen historia, tämä on
@@ -258,7 +253,8 @@ Puhuja 2: yhtenäinen jakso, jolloin
 Puhuja 2: hyvinvointia
 Puhuja 2: on pystytty juuri tämän rauhan
 Puhuja 2: ansiosta
-Puhuja 2: kasvattamaan. Kolmas asia on vielä se, että demokratia on
+Puhuja 2: kasvattamaan. Kolmas asia on vielä se, että
+Puhuja 2: demokratia on
 Puhuja 2: Suomessa
 Puhuja 2: säilynyt
 Puhuja 2: koko ajan. Se ei oikeasti ollut kertaakaan maanalaisena
@@ -269,12 +265,13 @@ Puhuja 1: Niin, kyllä väitän, että olen syntynyt itse kaksituhatta kaksikymm
 Puhuja 1: kuin
 Puhuja 1: unski, koska unski joutui kituttamaan sen hankkeen 50-luvun,
 Puhuja 1: mutta olen syntynyt vuonna tuhat yhdeksänsataakuusikymmentäyhdeksän
-Puhuja 1: ja minua on syntynyt juuri siinä, kun hyvinvointivaltio projekti
+Puhuja 1: ja minua on syntynyt juuri siinä, kun
+Puhuja 1: hyvinvointivaltio projekti
 Puhuja 1: lähti vimmaisimmin
 Puhuja 1: pyörimään, ja olen tosiaan
 Puhuja 1: käynyt yhden vuoden kansakoulua,
 Puhuja 1: jonka jälkeen tuli peruskoulu, koska asuin siis Helsingissä.
-Puhuja 1: Ja vielä muistan Montrealin olympialaiset pulassa vireä voitti kulutaus suomalainen kestävyysjuoksu
+Puhuja 1: Ja vielä muistan Montrealin olympialaiset, kun Lassi vireä kulutaus suomalainen kestävyysjuoksu
 Puhuja 1: oli kunniassaan.
 Puhuja 1: Minua
 Puhuja 1: on päässyt nauttimaan tästä Suomen itsenäisyyden
@@ -288,13 +285,15 @@ Puhuja 2: jos se rauha
 Puhuja 2: järkkyy,
 Puhuja 2: niin sen jälkeen nämä kaikki muutkin järkkyvät.
 Puhuja 2: Se on se, mistä aina pitää lähteä liikkeelle. Pitkään tämä puhe
-Puhuja 0: oli ehkä semmoinen vaihe, jolloin se tuntui niin kuin jäänikuiselta
-Puhuja 0: ja vähän jotenkin tarpeettomalta, mutta
-Puhuja 0: sekin on kylmäävää, että nyt
-Puhuja 0: se ei ihan niin ja semmoiselta enää tunnukaan, vaan jotenkin tässä ajassa olevalta. Kyllä, kyllä aina
-Puhuja 1: jotenkin liikutun myös itsenäisyyspäivänä. Mielestäni ne kynttilät senaatin torilla ja kysyn, että minusta on jotain liikuttavaa. Saanko sohvi kysyä sinulta sen, kun en huomenna saa kysyä sitä kysymystä. Tänne? Saanko
+Puhuja 0: oli ehkä semmoinen vaihe, jolloin se tuntui jäänikuiselta
+Puhuja 0: ja
+Puhuja 0: tarpeettomalta, mutta
+Puhuja 0: sekin on kylmäävää, että
+Puhuja 1: nyt se ei ihan niin ja semmoiselta enää tunnukaan, vaan jotenkin tässä ajassa olevalta. Kyllä, kyllä aina jotenkin liikutun myös itsenäisyyspäivänä. Mielestäni ne kynttilät senaatin torilla ja näin, ne kysyy minusta
+Puhuja 1: jotain liikuttavaa. Saanko sohvi kysyä sinulta sen, kun en huomenna saa kysyä sitä kysymystä. Tänne? Saanko
 Puhuja 1: kysyä nyt sinulta sohvi, mitä
-Puhuja 1: itsenäisyys sinulle merkitsee?
+Puhuja 1: itsenäisyys sinulle
+Puhuja 2: merkitsee?
 Puhuja 2: Niin, omin
 Puhuja 2: sanoin,
 Puhuja 2: älä nyt yritä etsiä sieltä sen Linnan juhlien vastaus Katakasta
@@ -319,9 +318,8 @@ Puhuja 0: ja hyvinvointivaltio kukoisti työttömyyttä, ei ollut nimeksikään
 Puhuja 0: ja mahtavaa.
 Puhuja 0: Tänä aamuna ihan muista syistä
 Puhuja 0: palasin vanhoihinliitteisiin
-Puhuja 0: vuosikertoihin,
-Puhuja 0: ja siellä
-Puhuja 0: vuoden tuhat yhdeksänsataakahdeksankymmentäkuusi ensimmäinen numero
+Puhuja 0: vuosikertoihin
+Puhuja 0: ja siellä vuoden tuhat yhdeksänsataakahdeksankymmentäkuusi ensimmäinen numero
 Puhuja 0: julisti vuoden tuhat yhdeksänsataakahdeksankymmentäviisi
 Puhuja 0: syntymävuoteni
 Puhuja 0: vihan ja surun vuodeksi,
@@ -341,12 +339,14 @@ Puhuja 0: ei tullut loppua.
 Puhuja 0: Euroopassa pommit tappoivat
 Puhuja 0: ihmisiä kaduilla kaupoissa lentoasemilla.
 Puhuja 0: Terrori ulotti otteensa myös Pohjoismaihin.
-Puhuja 0: Pääministeri Olaf Palmen murha sai suomalaisetkin ymmälleen.
+Puhuja 0: Pääministeri Olaf Palmen murha sai
+Puhuja 0: suomalaisetkin ymmälleen.
 Puhuja 0: Vuoden viimeisinä viikkoina väkivalta tainnutti Pariisin, kun opiskelijoiden
 Puhuja 0: mielenosoitusmarssit
-Puhuja 0: yliopistolakia vastaan levisivät hurjiksi mellakoiksi.
+Puhuja 0: yliopistolakia
+Puhuja 0: vastaan levisivät hurjiksi mellakoiksi.
 Puhuja 0: Vuosi oli pelkoa, vihaa ja surua täynnä. AIDSiin emme löytäneet parannuskeinoa
-Puhuja 0: maapallon saastumista emmekö jääneet estämään. Tsnopylyn
+Puhuja 0: maapallon saastumista emmeköineet estämään. Tsnopylyn
 Puhuja 0: ydinvoimaonnettomuus
 Puhuja 0: järkytti pahasti mieliä,
 Puhuja 0: Reyn oli myrkytetty
@@ -375,12 +375,11 @@ Puhuja 2: aika lujaa hyvin. Vähän liiankin lujaa. Niin, vähän liiankin
 Puhuja 2: lujaa.
 Puhuja 2: Mutta silloin maailmalla oli tosiaan tällaisia niin kuin Ola, Valmet, murha, Tsernobyal
 Puhuja 2: ja niin poispäin.
-Puhuja 2: Kun tätä perspektiiviä
+Puhuja 2: Kun
+Puhuja 2: tätä perspektiiviä
 Puhuja 2: pidetään, niin tietyllä lailla tämä vuosi
 Puhuja 2: niin ahdistavalta kuin se monelta osaltaan on tuntunut,
-Puhuja 2: niin
-Puhuja 2: se
-Puhuja 2: asettuu tähän
+Puhuja 2: niin se asettuu tähän
 Puhuja 2: pitkään jatkumoon.
 Puhuja 2: Maailmassa on aina ollut
 Puhuja 2: tällaista vaikeutta. Nyt niitä on vain sattunut tälle vuodelle aika paljon. Kyllä. Vuonnakasivu
@@ -415,7 +414,7 @@ Puhuja 1: ruvennut lukemaan hänelle ääneen Harry Pottereita. Minun mielestän
 Puhuja 1: itse asiassa aika hauskaa.
 Puhuja 1: Kirjat tulee luettua ihan eri tavalla, kun ne joutuvat
 Puhuja 1: lukemaan hitaammin ja ääneen. Se huomaa paljon asioita, mitä
-Puhuja 1: ei muuten puhuta. Kyllä, minäkin äskettäin
+Puhuja 0: ei muuten puhuta. Kyllä, minäkin äskettäin
 Puhuja 0: muutama viikko sitten
 Puhuja 0: luin runoja ääneen, mikä oli jotenkin hämmentävää, koska yleensä en lue runoja ollenkaan, mutta me oltiin viettämässä väkiviikonloppua,
 Puhuja 0: ja päädyin lukemaan Saarikoskea ääneen, ja se oli tosi kivaa.

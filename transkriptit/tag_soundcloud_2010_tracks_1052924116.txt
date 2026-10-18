@@ -39,7 +39,7 @@ Puhuja 1: mulla on Lehtimäellä, joka on
 Puhuja 1: toinen kunta, joka liitettiin Alajärveen reilu
 Puhuja 1: kymmenen vuotta sitten. Olen ollut täällä Lehtimäen
 Puhuja 1: metsiköissä, ja kohta saavumme Alajärven keskusta. Ja varmaan äänenkin paranee, kun tulee enemmän pylväitä tähän kännykän kenttään.
-Puhuja 2: Hyvä. Mutta loistavaa, että on saatu sinut langoille, koska kohta kuullaan erikoisraportti
+Puhuja 2: Hyvä. Mutta loistavaa, että on saatu sut langoille, koska kohta kuullaan erikoisraportti
 Puhuja 2: kehittyvien
 Puhuja 2: maakuntien keskusta Suomesta. Eikö niin?
 Puhuja 2: Juuri näin. Eli me puhutaan tänään kuntavaaleista,
@@ -48,7 +48,7 @@ Puhuja 2: Kaikki aiheet liittyvät politiikkaan ja tavallaan kunnallispolitiikka
 Puhuja 2: tavalla tai toisella.
 Puhuja 2: Aloitetaan
 Puhuja 2: nyt kuntavaaleista,
-Puhuja 2: joihin on vielä nelisen viikkoa vai mitä tässä on? En osaa laskea. Kolme vai neljä viikkoa? Kolme viikkoa. Kolme viikkoa ja pari päivää.
+Puhuja 2: joihin on vielä nelisen viikkoa vai mitä tässä on? En osaa laskea, kolme vai neljä viikkoa? Kolme viikkoa. Kolme viikkoa ja pari päivää.
 Puhuja 2: Kohta alkaa ennakkoäänestys,
 Puhuja 2: kiihkeet tunne. Alkaako ensi viikolla? Mitä se nyt on?
 Puhuja 1: Joo, ennakkoäänestys alkaa nyt ja... Ennakkoäänestyshän
@@ -64,13 +64,12 @@ Puhuja 2: Marialla oli jäänyt puhelin myös päälle.
 Puhuja 2: Ei se mitään.
 Puhuja 2: Aletaan nyt kuntavaaleista. Ja aloitetaan Marko nyt.
 Puhuja 2: Sinä olet viettänyt muutaman päivän
-Puhuja 2: maakuntien
-Puhuja 2: Suomessa, ja sä just ehdit tuossa sanoa, että olet Alajärven
+Puhuja 2: maakuntien Suomessa,
+Puhuja 2: ja sä just ehdit tuossa sanoa, että olet Alajärven
 Puhuja 2: keskustaan saapumassa.
 Puhuja 2: Miksi olet Alajärvellä?
 Puhuja 1: No joo, tämä ehkä nyt ei ole tämän koko juttu, projekti ei ole ehkä maailman omaperäisin tai yllättävin idea, mutta tämä lähti siitä
-Puhuja 1: ajatuksesta. Tässä itse asiassa Jaakko sinunkin kanssa keskustelusta, kun sun piti lähteä matkaan, mutta etpäs sitten lähtenytkään, kun olet niin urbaan ihminen etkä halunnut
-Puhuja 1: liata
+Puhuja 1: ajatuksesta. Tässä itse asiassa Jaakko sinunkin kanssa keskustelusta, kun sun piti lähteä matkaan, mutta etpäs sitten lähtenytkään, kun olet niin urbaan ihminen etkä ole liata
 Puhuja 1: kenkiä siitä tämmöisestä maakuntien savetta vai miten se menettää?
 Puhuja 2: Se on totta, joo. Mä en löytänyt mun kumisaappaita, mä en voinut lähteä sun mukaan.
 Puhuja 2: Mutta sä lähdit taas.
@@ -81,7 +80,8 @@ Puhuja 1: käsitellään
 Puhuja 1: paljolti,
 Puhuja 1: pääkaupunkiseudun ja Uudenmaan
 Puhuja 1: vinkkelistä,
-Puhuja 1: ja sitten tavallaan koko muu Suomi
+Puhuja 1: ja sitten
+Puhuja 1: koko muu Suomi
 Puhuja 1: hoituu siinä, että
 Puhuja 1: tarkastellaan kuntavaaleja
 Puhuja 1: yhtenä
@@ -136,8 +136,7 @@ Puhuja 3: Osaatko sanoa tämän bullshit business. Onko sinulla Kimi Räikkösti
 Puhuja 3: kymmenen virkkeen?
 Puhuja 2: Transformaation.
 Puhuja 2: No niin, se oli kun menen
-Puhuja 3: paljon monta minuuttia. Olen aina kirjoittanut. No niin Marko, onko
-Puhuja 2: ajatuksia? Eli onko luuseri, jos
+Puhuja 2: paljon monta minuuttia. Olen aina kirjoittanut. No niin Marko, onko ajatuksia? Niin. Eli onko luuseri, jos
 Puhuja 2: ottaa julkisen viran ja sitten taas on Luopio,
 Puhuja 2: jos ottaa
 Puhuja 2: yksityisen virran? Mihin voi tällaiset vapaavuodet edes mennä? Onko heille paikkaa?
@@ -176,8 +175,7 @@ Puhuja 2: Aika vaikeaa on tämä sijoittuminen. Jyrki Katainen on varmaan ihan t
 Puhuja 2: mutta hän on ollut vähintään yhtä näkyvä
 Puhuja 2: poliitikko ellei paljon näkyvämpi kuin monet viimeaikaiset pääministerit.
 Puhuja 2: Nämä lyhytaikaiset sellaiset.
-Puhuja 2: Mihin
-Puhuja 2: voi siirtyä?
+Puhuja 2: Mihin voi siirtyä?
 Puhuja 2: Vastaan ensin että mielestäni
 Puhuja 2: näiden viestintätoimistojen
 Puhuja 2: iso ongelma on se, että ne eivät kerro asiakkaitaan. Niiden toiminta on täysin läpinäkymätöntä.
@@ -193,8 +191,7 @@ Puhuja 2: tämä on poliitikkojen perusosaamista
 Puhuja 2: heidän
 Puhuja 2: aineettoman pääomansa kova ydin. Olisi ihan outoa kieltää, etteivät he saisi käyttää sitä, jos he haluavat siirtyä elinkeinoelämän
 Puhuja 2: palvelukseen. Ongelmat alkavat siinä, että emme tiedä keitä nämä asiakkaat ovat, mitä palveluksia heille ikään kuin
-Puhuja 2: myydään, koska liikettä tapahtuu molempiin suuntiin. Joku menee viestintätoimistoon tai lobbariksi
-Puhuja 2: palaa politiikkaan, jolloin on syntynyt myös siteitä
+Puhuja 2: myydään, koska liikettä tapahtuu molempiin suuntiin. Joku menee viestintätoimistoon tai lobbariksi palaa politiikkaan, jolloin on syntynyt myös siteitä
 Puhuja 2: kenties näihin asiakasyrityksiin.
 Puhuja 2: Siinä kohtaa tietysti olisi hyvä tietää, ketä olet lobbannut ja mitä olet lobbannut
 Puhuja 2: ja niin edelleen. Samaan aikaan olisi todella autoa ruveta kieltämään ja karanteenit
@@ -219,8 +216,7 @@ Puhuja 1: kaikki miltton aikana hänellä olleet asiakkaat, mutta kai kyllähän
 Puhuja 1: asiakkaiden puolesta, mutta kyllähän ne ei ne täysin suljettuja ole. Kyllä sieltä myös saa tietoja ihan kysymällä.
 Puhuja 3: Mutta ajatteletko sinä Marko? Ihan vilpitön
 Puhuja 3: kysymys, koska ajattelin eilen, että tämä ei kuulosta ihmiseltä,
-Puhuja 3: joka olisi tässä nyt vaan vetämässä vähän
-Puhuja 3: happea yksityisellä
+Puhuja 3: joka olisi tässä nyt vaan vetämässä vähän happea yksityisellä
 Puhuja 3: puolella tai jossain ja sitten palaamassa ehdoilla.
 Puhuja 1: Osaa. En minä ota, en minä sinänsä sitä noin.
 Puhuja 1: Sen takia kysyn, koska en ole varma mihin lausun tuossa viittasit. Sen verran muistan siinä syksyllä, kun tein se juttu, mistä hän kertoo, että hän
@@ -238,8 +234,8 @@ Puhuja 1: Ja Sitten vielä
 Puhuja 1: miten minä sanoisin
 Puhuja 1: nuo molemmat hommat ovat sellaisia
 Puhuja 1: Oi, minä sain kahvikupin tänne.
-Puhuja 1: Mielestäni tarvii vähän jostain nyrkkaa, että saa nyt rahaa noista ja luulen, että se saa näillä
-Puhuja 1: näistä niin hyvän korvauksen, että hän voi sitten jatkaa muiden
+Puhuja 1: Mielestäni tarvii vähän jostain nyrkkaa, että saa nyt rahaa noista ja luulen, että se saa
+Puhuja 1: näillä näistä niin hyvän korvauksen, että hän voi sitten jatkaa muiden
 Puhuja 1: asioiden harrastamista tässä ohessa.
 Puhuja 1: Tämän pohjalta ei voi tehdä päätelmiä suuntaan eikä toiseen. Ehkä mennään tällaiseen enemmin. Musta tämä menee aika lailla kuin veikkasinkin.
 Puhuja 3: Asuntolain pitää kaikkien
@@ -254,7 +250,7 @@ Puhuja 3: Mikä minua ehkä hämätä tässä aina edelleen, kun mietin sitä, e
 Puhuja 3: kunnolla toimintaa avaavaa. Ja siksi se viime vuonna Katri Kulmunin
 Puhuja 3: eroon johtanut serkkaus oli jotenkin avartava, vaikka ottamatta kantaa se, että olisiko hänen pitänyt
 Puhuja 3: erota vai ei, niin minusta se oli kiinnostava siksi, että se paljasti konkreettisella konkreettisella tasolla siinä tapauksessa Tekirin ja Kulmunin välillä.
-Puhuja 1: Ne on kauhean erilaisia nämä Suomessakin toimivat lobbausvalmistajat.
+Puhuja 1: Nuo on kauhean erilaisia nämä Suomessakin toimivat lobbausvalmistajat.
 Puhuja 1: Ei
 Puhuja 1: oikeastaan
 Puhuja 1: voi tehdä yhtä juttua, missä kerrottaisiin,
@@ -271,7 +267,8 @@ Puhuja 2: tietenkin ja se missä raha virtaa liittyy siihen, että ne auttavat y
 Puhuja 2: juuri näillä tavoilla. Loppujen lopuksi tässä julkisuudessa korostuu
 Puhuja 2: yhteydet politiikkaan, mutta se on lopulta
 Puhuja 2: liikevaihdollisesti
-Puhuja 2: kohtuullisen pieni osuus. Joku Katre Kulmunille
+Puhuja 2: kohtuullisen pieni osuus. Joku Katre
+Puhuja 2: Kulmunille
 Puhuja 2: vedetty kriisiviestintäkoulutus,
 Puhuja 2: puhekoulutus,
 Puhuja 2: niin kuin ei paljon Tekirin
@@ -286,8 +283,8 @@ Puhuja 1: vaikuttajaviestintää,
 Puhuja 1: lobbausta.
 Puhuja 1: Se on vain hyvin pieni osa siitä
 Puhuja 1: firman koko paletista.
-Puhuja 1: Sehän
-Puhuja 1: pitää
+Puhuja 1: Sehän tarkoittaa,
+Puhuja 1: että nehän pitää
 Puhuja 1: tämmöisiä yhteiskuntaopin luentoja
 Puhuja 1: yritysjohtajille,
 Puhuja 1: jotka hätääntyy kun ne ymmärtää, että on tulossa joku
@@ -302,14 +299,13 @@ Puhuja 1: vielä kysyy, että mitähän ne pitäisi nyt tehdä, ja sitten nämä
 Puhuja 1: tai pyytää jotain tehdä tyyppiä soittamaan tuolle valiokunnan puheenjohtajalle tai jotain muuta. Ne ei itse tee lopausta, vaan ne kertoo, mitä yrityksen kannattaa tehdä. Nyt tässä kohtaa pitää sanoa, että ohjelma ei sisällä tuotesijoittelua.
 Puhuja 2: Miltton ei sponsoroi tätä ohjelmaa, vaikka koko ajan tässä toistellaan saman firman nimeä. Mutta sitten on näköjään tullut yleisnimi vähän kuin Airamn sähkölampuille.
 Puhuja 2: Ja
-Puhuja 2: abloiloille, että Miltton
-Puhuja 2: kun haluatte yhteiskuntaan... Sanokaa Miltton, kun haluatte yhteiskuntasuhteita.
+Puhuja 2: abloil aloille, että Miltton
+Puhuja 2: kun haluatte yhteiskuntaa... Sanokaa Miltton, kun haluatte yhteiskuntasuhteita.
 Puhuja 2: Mutta okei,
 Puhuja 2: case-vapaavuori,
 Puhuja 2: klousattu.
 Puhuja 2: Pakko sanoa että
-Puhuja 2: ongelmat on täällä pieniä. Keskustelu on pientä, katsokaa mitä
-Puhuja 2: tapahtuu Britanniassa. Entinen pääministeri
+Puhuja 2: ongelmat on täällä pieniä. Keskustelu on pientä, katsokaa mitä tapahtuu Britanniassa. Entinen pääministeri
 Puhuja 2: David Cameron
 Puhuja 2: on
 Puhuja 2: siellä kaikkien aikojen skandaalisotkussa
@@ -331,13 +327,14 @@ Puhuja 2: siinä
 Puhuja 2: hallitukselle ja eri virkamiehille. Anna-Mari Sipilä Hesarin Lontoon kirjeenvaihtaja, kirjoitti kolumnissaan mun mielestä hyvin tässä. Cameron voisi ottaa mallia muista Britannian lähihistorian häviäjäpääministereistä.
 Puhuja 2: Teresa May istuu siellä tyynesti alahuoneissa rivikansanedustajana
 Puhuja 2: ja työväenpuolueen pääministeri Gordon Brown on puolestaan kampanoinut köyhien maiden koronarokot
-Puhuja 2: rokottamisen puolesta. No niin, ehkä heillä on jotain pelimerkkejä
+Puhuja 2: rokottamisen puolesta. No niin ehkä heillä on jotain pelimerkkejä
 Puhuja 2: mitä suomalaisilla poliitikoilla ei ole.
-Puhuja 2: Mutta lopetellaanpa uutisraportti tähän. Mikäs tässä lopussa nyt Maria pitää sanoa? Ja Marko,
+Puhuja 2: Mutta lopetellaanpa uutisraportti tähän. Mikäs tässä lopussa nyt Maria pitääkään sanoa? Ja Marko,
 Puhuja 2: olette konkareita ja nyt tämä... Jotta suositukseni. Niin, ne suositukset. Eli nyt me ollaan käyty nämä aiheet läpi ja otetaan suosituksi. En ole valmistautunut tähän mitenkään, joten paitsi onko mulla joku suositus aina antaa.
 Puhuja 2: Aloitetaan Marko lyhyesti sieltä. Olet pitänyt pitkiä puheenvuoroja niin kuin minä itsekin,
 Puhuja 2: mutta sanopa nyt sieltä maakuntien Suomesta joku
 Puhuja 2: suositus vaikka matkailuvinkki tulevan kesän kotimaan reissuille.
+Puhuja 1: Minusta oli kiva, kun Maria sanoi, että he eivät koskaan kuulu olemaan näin innoissaan.
 Puhuja 1: Niin
 Puhuja 1: kuin. Eleti taustalla on se, että me ollaan kaikki kolme
 Puhuja 1: oltu etätöissä nyt jo reilusti yli vuosi
@@ -358,13 +355,10 @@ Puhuja 3: Tuota... Saanko pöllin
 Puhuja 3: suosituksen? Mitä suosittelisit
 Puhuja 3: minulle tällä viikolla? Ai minun vai Markon? Ei kun Jaakko.
 Puhuja 3: Sinähän
-Puhuja 3: Sinet Oy Connerin haastattelua
-Puhuja 2: Niin suosittelenkin.
-Puhuja 3: En aiomme melkein puhua siitä, mutta se on kiinnostava.
-Puhuja 3: En saa sitä auki, koska tähän tulee maksumuureja. En muista näitä tunnuksia. Mutta New York Timesissa
-Puhuja 3: on
-Puhuja 3: otsikoitu, että Sinä Add Åckor
-Puhuja 3: remembers things differently ja siinä oli hullun...
+Puhuja 3: Sinet O Connerin haastattelua
+Puhuja 3: Mutta New York Timesissa
+Puhuja 3: on otsikoitu, että Sinä Add
+Puhuja 3: Åckorrs things differently ja siinä oli hullun...
 Puhuja 2: No säkin luin sen. Mä luin sen. Joo, se oli kiehtova.
 Puhuja 2: Se oli hätkähdyttävä haastattelu oli hienoa nähdä miltä hän nyt näyttää. Hän on kääntynyt islamin uskoon. Hän on vetäytynyt Irlannin maaseudulle. Hän on valitettavasti joutunut olemaan useita vuosia
 Puhuja 2: käsittääkseni
@@ -422,8 +416,8 @@ Puhuja 2: Okei, tällä on uutisraportti...
 Puhuja 2: Niin, turarmimiesky.
 Puhuja 2: No niin, minä olen ATK:ssa.
 Puhuja 2: No niin, hyvä. Tämä oli uutisraportti taas ensi viikolla sitten uudet aiheet ja toivottavasti vakivettäjä.
-Puhuja 2: No niin, moikka! Moi moi!
-Puhuja 1: Moikka! Moikka!
+Puhuja 2: No niin, moikka. Moi moi.
+Puhuja 1: Moikka moi.
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi
 Puhuja 0: podcast menetetyt miljardit

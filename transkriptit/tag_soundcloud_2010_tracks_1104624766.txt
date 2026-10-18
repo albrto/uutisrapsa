@@ -47,7 +47,7 @@ Puhuja 2: Hienoa! Eli nyt saat siis levänneenä takaisin täällä hommissa.
 Puhuja 2: Tämä onkin tällainen takaisin arkeen: pläjäys meidän tämänpäiväinen lähetys, koska tänään me puhutaan niinkin kevyistä
 Puhuja 2: aiheista kuin perussuomalaisista,
 Puhuja 2: ilmastoraportista
-Puhuja 2: ja budjettiriihestä
+Puhuja 2: ja budjettiriihessäestä
 Puhuja 2: sekä Talebanista.
 Puhuja 2: Lopuksi vielä puheenaiheita pitkien kiusallisten hiljaisuuksien
 Puhuja 2: varalle.
@@ -59,8 +59,7 @@ Puhuja 2: paikalta. Riikka
 Puhuja 2: Purra ja Sakari Puisto
 Puhuja 2: ovat ykkössuosikit
 Puhuja 2: kamppailemaan puheenjohtajuudesta.
-Puhuja 2: Asiasta päätetään ensi viikonloppuna
-Puhuja 2: perussuomalaisten
+Puhuja 2: Asiasta päätetään ensi viikonloppuna perussuomalaisten
 Puhuja 2: puoluekokouksessa.
 Puhuja 2: Seinäjoella.
 Puhuja 3: Onko se Seinäjoella? No on! Se oli Jyväskylässä silloin kaksituhatta seitsemäntoista.
@@ -86,8 +85,8 @@ Puhuja 3: Ja iltariennoissa, jotka on keskeinen osa puoluekokoista, niin ne viim
 Puhuja 3: Eikä siinä kaikki, samalla viikonloppuna siinä, joilla on myös vauhtiajot, mikä on Seinäjoen kesänä.
 Puhuja 3: Suurin tapahtuma Rokkifestio-festiri
 Puhuja 3: ja siellä on sitten kaikki
-Puhuja 3: teinit.
-Puhuja 3: Miten käy.
+Puhuja 3: teinit. Katsotaan
+Puhuja 3: miten käy.
 Puhuja 2: Juuri näin. Mutta onko...
 Puhuja 2: Siinä päästäänkin tähän kysymykseen, että kuinka tärkeää puolue koko se on perussuomalaisten historiassa. Jääkö se historian kirjoihin vaan massiivisena koronalinkona
 Puhuja 2: vai onko tässä jotain muutakin merkittävää käsillä?
@@ -109,10 +108,10 @@ Puhuja 3: köyhä ja maantieteellisesti äärimmäisen
 Puhuja 3: haastava vuoristoinen. Erilaisten
 Puhuja 3: heimojen
 Puhuja 3: hallitsemaa. Oisko
-Puhuja 3: siinäkaan vuodessa pystynyt rakentamaan mitään
-Puhuja 3: pysyvää paikallishallintarakennetta?
-Puhuja 1: Mäkäsyyshän
-Puhuja 1: tässä myös ärsyttää, että kun on paljon maailmanpoliittisia ilmiöitä, joissa tällainen ei ole edes itsekäs
+Puhuja 3: siinäkaan
+Puhuja 3: vuodessa pystynyt rakentamaan mitään
+Puhuja 1: pysyvää paikallishallintarakentaetta?
+Puhuja 1: Mäkäsyyshän tässä myös ärsyttää, että kun on paljon maailmanpoliittisia ilmiöitä, joissa tällainen ei ole edes itsekäs
 Puhuja 1: veto vetäytyä, koska se kostautuu meille
 Puhuja 1: kaikille. Me ollaan tässä samassa veneessä jotenkin.
 Puhuja 1: Tällaisista ääriliikkeestä Lähi-idässä on seurannut esimerkiksi Suomeen kaksituhatta viisitoista
@@ -178,8 +177,9 @@ Puhuja 1: yhteisölle, koska ne pitää sen kaiken ongelmallisuuden
 Puhuja 1: rajojensa sisäpuolella melkeinpä.
 Puhuja 1: Mutta sitten taas tämä Lähi-itä purkautuu koko ajan joka paikkaan,
 Puhuja 1: niin
-Puhuja 1: se terrori-iskuina
-Puhuja 1: ja ihmisvirtoina ja muina. Siihen on pakko. Vasta, kun se tulee omalle
+Puhuja 1: terrori-iskuina
+Puhuja 1: ja ihmisvirtoina
+Puhuja 1: ja muina. Siihen on pakko. Vasta, kun se tulee omalle
 Puhuja 1: rappuselle,
 Puhuja 1: se ongelma, niin sitten se alkaa kiinnostamaan.
 Puhuja 2: Jotenkin vaan just mietin
@@ -213,8 +213,7 @@ Puhuja 2: tällaisiin piirteisiin
 Puhuja 2: tunnelmiin.
 Puhuja 2: Nyt kun täällä meidän keskuuteen laskeutui tällainen kiusallinen hiljaisuus,
 Puhuja 2: Niin
-Puhuja 2: millaisella
-Puhuja 2: suosituksella te lähtisitte
+Puhuja 2: millaisella suosituksella te lähtisitte
 Puhuja 2: tätä
 Puhuja 2: ikävää
 Puhuja 2: viikkoa
@@ -227,9 +226,9 @@ Puhuja 3: Tämä
 Puhuja 3: on ilmestynyt kesäkuussa.
 Puhuja 3: Tämän jutun otsikko
 Puhuja 3: on How Coservative
-Puhuja 3: aktivisti inventied the conflict Our Crical Rasee theeary.
-Puhuja 3: Oletko lukenut tämän? Joo. Ja se oli musta...
-Puhuja 3: Onko tätä mainostettu tällä? Ei.
+Puhuja 3: activisted inventied the conflict Our Crical Rasee theeary.
+Puhuja 3: Oletko lukenut tämän? Joo. Onko
+Puhuja 3: tätä mainostettu tällä? Ei.
 Puhuja 3: Kriittinen rotuteorian tämmöinen termi,
 Puhuja 3: josta nyt
 Puhuja 3: jenkkikonservatiivit
@@ -242,8 +241,7 @@ Puhuja 3: Musta ihminen voi
 Puhuja 3: yhteiskunnan rakenteiden ja sen takia, että se on syntynyt
 Puhuja 3: huonossa kaupunginosassa eikä saa koulutusta. Nämä rakenteet estää tavallaan,
 Puhuja 3: pitävät rasismia yllä ja estää tasa-arvon synnyn.
-Puhuja 3: Mutta
-Puhuja 3: tämä oli jotenkin kiehtova juttu. Tämä kertoo
+Puhuja 3: Mutta tämä oli jotenkin kiehtova juttu. Tämä kertoo
 Puhuja 3: tämmöisestä Christopher
 Puhuja 3: Rubfo-nimisestä
 Puhuja 3: kolmekymppisestä
@@ -294,17 +292,16 @@ Puhuja 3: jonkun näistä
 Puhuja 3: kuuluisista
 Puhuja 3: hosteista eli haastatteluun.
 Puhuja 3: Ja sitten siellä hän piti parin minuutin tämmöisen vouhkaamisen tästä
-Puhuja 3: nimeämästään
-Puhuja 3: teoriasta,
-Puhuja 3: Sen jälkeen Trump soitti sille. Hänhän se kutsuttiin valkoiseen taloon.
+Puhuja 3: nimeämästään teoriasta,
+Puhuja 3: jonka jälkeen Trump soitti sille. Hänhän se kutsuttiin valkoiseen taloon.
 Puhuja 3: Trump teki yksi viimeisistä toimista. Hän lopetti, hän antoi vielä tämmöisen
 Puhuja 3: määräyksen, että kaikki tämmöinen critical Race Tauryn, jonka termi miten tämä on keksinyt,
-Puhuja 3: Käyttäminen pitää kieltää amerikkalaisissa
-Puhuja 3: virastoissa ja kouluissa.
+Puhuja 3: Käyttäminen pitää kieltää amerikkalaisissa virastoissa ja kouluissa.
 Puhuja 3: Heppu pystyi omassa kellarissa aiheuttamaan
-Puhuja 3: valtavan
-Puhuja 3: poliittisen
-Puhuja 3: operaation ja härdellin. Ja musta on hienoa. Sitten nämä
+Puhuja 3: valtavan poliittisen
+Puhuja 3: operaation
+Puhuja 3: ja härdellin.
+Puhuja 3: Musta on hienoa. Sitten nämä
 Puhuja 3: alan tutkijat, jotka tämä on nimennyt kuuluvaksi
 Puhuja 3: tämän
 Puhuja 3: teorian kehittäjiin, ovat hyvin hämmentyneitä,
@@ -313,7 +310,7 @@ Puhuja 2: Siinä tiivistyy mun mielestä jotain hyvin olennaista tän
 Puhuja 2: päivän
 Puhuja 2: polarisoitumisesta
 Puhuja 2: ja kulttuurisodista ja
-Puhuja 2: vaikka mistä. Ja täähän on
+Puhuja 2: vaikka mistä. Ja tämähän on
 Puhuja 2: aika yleinen, että nyt tosiaan monet
 Puhuja 2: ilmeisesti yliopistoissa ja kouluissa vanhemmat tulee sinne ihan raivona silleen, että opetetaanko täällä nyt sitä critical race theoria ja sitten
 Puhuja 2: ne opettajat on, että voitko kuvailla mulle millainen tai mitä on critical race the? Ja sitten ne
@@ -359,12 +356,8 @@ Puhuja 1: Mutta sitten siinä on se vaarallinen kysymys, että näkeekö kaikki 
 Puhuja 1: Ranskan vallankumouksesta,
 Puhuja 1: niin entä jos joku maalaiskapitolin
 Puhuja 1: tapahtumista sellaisen, että siellä on tämä puhujapönttö kädessä pipo päässä
-Puhuja 1: kävelevääriä,
-Puhuja 1: maalattu jotenkin
-Puhuja 1: tosi neutraaliseen
-Puhuja 1: asentoon tai tämä shamaanikaveri.
-Puhuja 1: Se kapinallisuuden
-Puhuja 1: romantiikka, sehän on Ranskan vallankumouksesta itse asiassa peräisin. Ennen sitä meillä ei ollut tällaista ajatusta, että kapinallisuus olisi jotenkin rock-uskottavaa,
+Puhuja 1: kävelevää
+Puhuja 1: Ennen sitä meillä ei ollut tällaista ajatusta, että kapinallisuus olisi jotenkin rock-uskottavaa,
 Puhuja 1: vaan se oli vaan
 Puhuja 1: maailman suistumista sijoiltaan.
 Puhuja 1: Me ollaan paljon velkaa edelleen
@@ -388,11 +381,12 @@ Puhuja 2: eli tällainen kirjalla kuin Andy Where,
 Puhuja 2: joka tunnetaan
 Puhuja 2: yksin Marsissa
 Puhuja 2: kirjan kirjoittamisesta, kirjoittaa tällaista todella koukuttavaa viihteellista scifiä,
-Puhuja 2: joissa yleensä juoni on se, että joku äijä joutuu yksin avaruuteen ja joutuu sitten selviämään siellä. No,
-Puhuja 2: tämä kirja Project Tayl Mary, jota Obama suosittelee,
+Puhuja 2: joissa yleensä juoni on se, että joku äijä joutuu yksin avaruuteen ja joutuu sitten selviämään siellä. No, tämä
+Puhuja 2: kirja Project Tayl Mary, jota Obama suosittelee,
 Puhuja 2: on jälleen kerran ihan samaa genreen kuuluu, että joku äijä on yksin avaruudessa ja joutuu selviytyä siellä. Siihen kuuluu tällainen hieno
 Puhuja 2: rakenne siinä mielessä, että tämä
-Puhuja 2: päähenkilö, niin hän herää
+Puhuja 2: päähenkilö,
+Puhuja 2: niin hän herää
 Puhuja 2: avaruusaluksessa
 Puhuja 2: tai siis hän herää vaan jossakin
 Puhuja 2: sängyssä

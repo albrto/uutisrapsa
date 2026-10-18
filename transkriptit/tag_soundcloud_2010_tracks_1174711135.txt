@@ -26,7 +26,7 @@ Puhuja 0: Podcast
 Puhuja 0: Studiossa
 Puhuja 0: Helsingissä Suomessa Euroopassa maapallolla
 Puhuja 0: Linnunradalla
-Puhuja 0: galaksiklusterissa
+Puhuja 0: galaksiklusterissa...
 Puhuja 0: Ei kun
 Puhuja 0: siihen lopu osaaminen.
 Puhuja 0: Ovat Helsingin Sanomien politiikan toimittaja Marko Junkkari. Hei, Marko. No heissä. Ja myös, mikä tärkeämpää ei vaatisikaan. Mutta mikä upeampaa,
@@ -51,7 +51,7 @@ Puhuja 0: Suomen medioissa,
 Puhuja 0: Kankaanpään
 Puhuja 0: natsideelari-iskusta.
 Puhuja 0: Kyllä.
-Puhuja 0: Suomessa paljastui tällä viikolla natsien suunnittelema
+Puhuja 0: Suomessa paljastui tällä viikolla natsien suunnittelema...
 Puhuja 0: Anteeksi, joo, viime perjantaina.
 Puhuja 0: Natsien suunnittelema terrori-isku,
 Puhuja 0: joka
@@ -146,8 +146,8 @@ Puhuja 0: Tuolla tavalla kuvattuna
 Puhuja 0: rinnastus woke-meininkiin
 Puhuja 0: ja cancel-kulttuuriin
 Puhuja 0: ja muuhun on paljon järkevämpi. Se on sama,
-Puhuja 0: jossa moneen vasemmistolaiseen
-Puhuja 0: jos ajatellaan, mitä woke on, niin se on nimenomaan
+Puhuja 0: jossa moneen vasemmistolaiseen...
+Puhuja 0: Jos ajatellaan, mitä woke on, niin se on nimenomaan
 Puhuja 0: vasemmisto-indellgenssiä
 Puhuja 0: keskenään jossain
 Puhuja 0: nettiformeilla
@@ -157,8 +157,7 @@ Puhuja 0: ja aktivistisen kulttuurin muoto. Vasemmistolaisiin
 Puhuja 0: liikehdtiin
 Puhuja 0: kuuluu
 Puhuja 0: tosi paljon
-Puhuja 0: oman ryhmän
-Puhuja 0: vartiointi
+Puhuja 0: oman ryhmän vartiointi
 Puhuja 0: ja oman ryhmän
 Puhuja 0: puhdasoppisuuden.
 Puhuja 0: Vartiointi tästä kannattaa lukea lisää ehdottomasti todella kuuluisa teksti kuin Iscapon The van time Cassel, jossa
@@ -171,7 +170,7 @@ Puhuja 0: ja suomettumisen
 Puhuja 0: välillä.
 Puhuja 0: Tosin
 Puhuja 0: mua joku siinä rassaa siinä semmoisessa,
-Puhuja 0: miten
+Puhuja 0: miten...
 Puhuja 0: Vanhemmat
 Puhuja 0: ihmiset,
 Puhuja 0: jotka
@@ -247,8 +246,10 @@ Puhuja 0: ala-asteelle.
 Puhuja 0: Yhdessä vastustetaan rasismia ja kaikki vastustetaan tietenkin, ja se on ihan ok. Pitäisi
 Puhuja 0: instituutioida olla kuitenkin hereillä, mikä on vasemmistolaista
 Puhuja 0: politiikkaa.
-Puhuja 2: Ehkä meidän tarvitsee mennä siihen, jos nyt
-Puhuja 2: Siis rasismin vastustaminen on ihan ok, vaikka se, että se epäpoliittista, poliittisesti ei tunnu jotenkin oikein Mun mielestä ei kannata käyttää
+Puhuja 2: Ehkä meidän tarvitsee mennä siihen. Rasismin
+Puhuja 2: vastustaminen on ihan ok, vaikka se,
+Puhuja 2: että
+Puhuja 2: epäpoliittista, poliittisesti ei tunnu jotenkin oikein. Mun mielestä ei kannata käyttää
 Puhuja 0: läpeensä vasemmistolaista
 Puhuja 0: termiä, jossa on ilmaistavissa sille, että se on myös kaikille muillekin hyväksyttävää. Se on kannatettava idea se tausta. Se on
 Puhuja 0: Kun
@@ -269,7 +270,7 @@ Puhuja 1: kuunnella sen jälkikäteen.
 Puhuja 1: Voisin esitellä teille kysymyksen.
 Puhuja 1: Onko mulla jotenkin hassu ääni?
 Puhuja 0: Ei.
-Puhuja 2: Ei. Miksi?
+Puhuja 0: Ei. Miksi?
 Puhuja 1: Minusta tämä on käynyt kaksi kertaa. Viimeksi kävi eilen. Olin kahvilassa ja maski naamalla ja puhuin kännykkään.
 Puhuja 1: Ja kun ihminen tuli moikkaamaan että kiitos uutisraportista
 Puhuja 1: ja sanoi että ei se mua edes muuten tunnistaella, mutta se tunnisti mun äänen.
@@ -286,7 +287,7 @@ Puhuja 1: miehelle,
 Puhuja 1: joka eilen kohtasin kahvilassa. Kiva kun kuuntelet meitä.
 Puhuja 2: Taisi
 Puhuja 0: Kerro Mari.
-Puhuja 2: Mullakin oli suosittu Markku ei ollut suositusta, mutta mulla on. Se on yksi paikka mikä tässä kaupungissa tekee onnelliseksi nykyään. Ja minne huomaan, että silloin tällöin vaeltelen ihan vaan siksi, että tulin niin iloiseksi siellä.
+Puhuja 2: Mullakin oli suosittu... Markku ei ollut suositusta, mutta mulla on. Se on yksi paikka mikä tässä kaupungissa tekee onnelliseksi nykyään. Ja minne huomaan, että silloin tällöin vaeltelen ihan vaan siksi, että tulin niin iloiseksi siellä.
 Puhuja 2: Tämä on kaupallinen mainos. Tai siis ei tästä kukaan mulle maksanut. Mutta mainostan kuitenkin. Ja siis Kaisaniemessä sivullinen kirjakauppa,
 Puhuja 2: uusi, Hannu Palovidan ja Rousbonin
 Puhuja 2: kirjakauppaketjun avaava kirjakauppa, jossa on paljon kirjoja.
@@ -353,7 +354,7 @@ Puhuja 0: Kun luin sitä juttua, tajusin
 Puhuja 0: sen aikana, että se on se juttu, mitä mä oon koko ajan kaivannut
 Puhuja 0: koronasta.
 Puhuja 0: Se oli pitkä kuin nälkävin vuosi. Se kertoi, että
-Puhuja 0: mulla on semmoinen tapa ajatella Mulla on semmoinen joku ihme,
+Puhuja 0: mulla on semmoinen tapa ajatella... Mulla on semmoinen joku ihme,
 Puhuja 0: ehkä se on sitä putkiaivoisuutta
 Puhuja 0: tai jotain.
 Puhuja 0: Mun on vaikea ajatella mitään asiaa, jos mä en tiedä, mitä siinä aidosti, oikeasti, konkreettisesti
@@ -383,8 +384,7 @@ Puhuja 0: tuloillaan.
 Puhuja 0: Käynnistäkää teidän puolustusreaktiot
 Puhuja 0: heti tässä ympärillä kaikki.
 Puhuja 0: Tehkää puolustusmuuri tähän ympärille,
-Puhuja 0: että täällä on nyt jotain pahaa. Sen lisäksi lähtee toinen
-Puhuja 0: molekyyli leijuun pitkin kanavia
+Puhuja 0: että täällä on nyt jotain pahaa. Sen lisäksi lähtee toinen molekyyli leijuun pitkin kanavia
 Puhuja 0: imusolmukkeisiin.
 Puhuja 0: Toisen molekyylin nimi on Sytykiinni.
 Puhuja 0: Sytokiini
@@ -414,8 +414,8 @@ Puhuja 0: hyvä artikkeli. Mä olin niin.
 Puhuja 0: Mä kirjoitin sille Jameselle sen jälkeen.
 Puhuja 0: Mä luen nyt teille,
 Puhuja 0: mitä mä kirjoitin hänelle.
-Puhuja 0: High James. Tai englanniksi.
-Puhuja 0: High James. I just a couple of daysygow liten to your story about brain Newons and AI, I lisien to it on orden and it was briljant!
+Puhuja 0: High James. Tai englanniksi siis.
+Puhuja 0: High James. I just a couple of daysy going to your story about brain Newons and AI, I lisien to it on orden and it was briljant!
 Puhuja 0: I imedately got interted in you as a rider and filtered the service to see what other stories you might have in there. I then red, well actually lysnty, the story you road about how the human enmmun system work and how the coronawarus
 Puhuja 0: effected.
 Puhuja 0: I was so blon away by the peace, seriously,
@@ -441,7 +441,7 @@ Puhuja 0: Okei. Siinä kaikki tältä erää. Kiitos, Maria Manner. Kiitos.
 Puhuja 0: Kiitos myös Marko Junkkarille, jonka piti ihan häipyä Teams-kokoukseen.
 Puhuja 0: Mun nimi on Tuomas Peltonki. Äänenä kuvan, ja kaiken muun mahtava meille tekee tällä viikolla
 Puhuja 0: kaksi minuuttia myöhästynyt Mikko Fehura.
-Puhuja 0: Laittakaa Mikollekin kiitoksia siitä, että Ja painostakaahan se tulemaan ajoissa, sinä ei vaihdos. Mikko ei ole ikinä myöhästynyt. Ja
+Puhuja 0: Laittakaa Mikollekin kiitoksia siitä, että... Ja painostakaahan se tulemaan ajoissa, sinä ei vaihdos. Mikko ei ole ikinä myöhästynyt. Ja
 Puhuja 0: hei, lähettäkää meille palautetta
 Puhuja 0: sähköposteihin.
 Puhuja 0: Uutisraporttia

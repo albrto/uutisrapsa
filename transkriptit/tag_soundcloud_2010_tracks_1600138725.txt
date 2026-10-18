@@ -18,7 +18,7 @@ Puhuja 0: Jakson lopussa vielä henkeviä keskustelun aiheita, joilla voi joko t
 Puhuja 0: tai saada kiusalliset tilanteet tuntumaan vieläkin
 Puhuja 0: entistä kiusamista.
 Puhuja 2: Jees,
-Puhuja 0: eli
+Puhuja 1: eli
 Puhuja 0: Bagnerjohtaja
 Puhuja 0: Gevgeni prikooshinin käyttämä Yksityiskone syöksyi maahan
 Puhuja 0: keskiviikkona Venäjällä.
@@ -43,8 +43,8 @@ Puhuja 0: kysymyksestä.
 Puhuja 0: Eli tää lentokoneen syöks maahan on herättänyt aikamoisia spekulaatioita.
 Puhuja 0: Onko kyse onnettomuudesta
 Puhuja 0: vai onko tää murha?
-Puhuja 1: Siis onnettomuus se
-Puhuja 1: ei varmaan kyllä ole.
+Puhuja 2: Siis
+Puhuja 1: onnettomuus se ei ei varmaan kyllä ole.
 Puhuja 2: Venäläiset koneet nyt ei tunnetusti ole mitään parhaita, mutta se nyt olisi
 Puhuja 2: hyvin, hyvin, hyvin outoa sattumaa, että
 Puhuja 2: juuri koko Wagner-johto
@@ -61,8 +61,7 @@ Puhuja 2: kipitellä vapaalla jalalla,
 Puhuja 2: niin sehän on enemmän
 Puhuja 2: herättänyt hämmennystä ja
 Puhuja 2: spekulaatioita
-Puhuja 2: asiantuntijoiden keskustelussa kuin sitten se, miksi
-Puhuja 2: Putin haluaisi
+Puhuja 2: asiantuntijoiden keskustelussa kuin sitten se, miksi Putin haluaisi
 Puhuja 2: paprikotsi, mikä on aika
 Puhuja 2: ilmeistä, että miksi.
 Puhuja 1: Tilanne on aika tuore. Varmaan tätä keskustelua helpottaa sitten, kun
@@ -70,8 +69,7 @@ Puhuja 1: aikanaan saadaan jotain tietoa,
 Puhuja 1: minkälaisia ihmisten jäänteitä sieltä turvapaikalta on löydetty ja mahdollisesti saada varmuus siitä, onko
 Puhuja 1: tämä rikos siellä mukana. Mutta nyt tällä hetkellä
 Puhuja 1: uutisilanteille,
-Puhuja 1: jossa epävarmuudessa
-Puhuja 1: on kyllä
+Puhuja 1: jossa epävarmuudessa on kyllä
 Puhuja 1: kiinnostavaa silleen, mitä itse
 Puhuja 1: monitoroin
 Puhuja 1: kv-medioiden
@@ -81,14 +79,14 @@ Puhuja 1: sille, ettei
 Puhuja 1: suljeta pois sitä vaihtoehtoa,
 Puhuja 1: että kyseessä olisi jopa
 Puhuja 1: tällainen mestarillinen
-Puhuja 1: juoni, tällainen valemurhatuksi tai valekuoleman lavastaminen, valemurhatuksi
-Puhuja 1: tai valekuoleman
-Puhuja 1: lavastaminen prikooshinin
+Puhuja 1: juoni, tällainen valemurhatuksi tai valekuoleman lavastaminen,
+Puhuja 1: valekuoleman
+Puhuja 1: lavastaminen
+Puhuja 1: Rikooshinin
 Puhuja 1: itsensä
-Puhuja 1: toimesta. Tai jotenkin, kun ei ole kerta kaikkiaan varmuutta siitä, että onkohan siinä koneessa ollut tää näin poispäin.
-Puhuja 1: Sille on annettu,
-Puhuja 1: painoluokaa
-Puhuja 1: varattu
+Puhuja 1: toimesta. Tai jotenkin, kun ei ole kerta kaikkiaan varmuutta varmuutta siitä, että onkohan siinä koneessa ollut tää näin poispäin.
+Puhuja 1: Sille on annettu
+Puhuja 1: painoluokaa varattu
 Puhuja 1: sulkemasta pois sitä,
 Puhuja 1: että kyse olisi tällaisestakin
 Puhuja 1: juonesta,
@@ -115,8 +113,7 @@ Puhuja 2: aito murha,
 Puhuja 2: niin Putinilla on kyllä ollut vähän tarve
 Puhuja 2: hankkiutua
 Puhuja 2: julkiseen...
-Puhuja 2: No
-Puhuja 2: siis, erityinen asia... Tai joku yksittäinen
+Puhuja 2: No siis, erityinen asia... Tai joku yksittäinen
 Puhuja 0: asia, joka ehkä... No siis tavallaan
 Puhuja 2: elintila on kaventunut ihan hirveästi.
 Puhuja 2: Tavallaan
@@ -130,8 +127,8 @@ Puhuja 0: tosi monessa eri tehtävässä.
 Puhuja 0: Joo, yliopistot myös suljettu.
 Puhuja 2: Kauneussalongit,
 Puhuja 2: ei saa mennä puistoihin.
-Puhuja 2: Joo,
-Puhuja 2: piknikillä ei pääse perheen kanssa.
+Puhuja 2: Piknikille
+Puhuja 2: ei pääse perheen kanssa.
 Puhuja 2: Julkiset puistot, niin ei.
 Puhuja 2: Todella tällaiset,
 Puhuja 2: sanotaanko, hyvin perusjutut,
@@ -148,11 +145,12 @@ Puhuja 0: Joo, mua ehkä itse myös sellaiset asiat
 Puhuja 0: huolestutti
 Puhuja 0: aika paljon tai tuntuu
 Puhuja 0: aika rajuilta.
-Puhuja 0: Toki näiden perusasioiden, kuten työnteko ja opiskelu
-Puhuja 0: lisäksi
-Puhuja 0: Niin esimerkiksi se, että kampaamot on paikkoja, jossa naiset on pystynyt tapaamaan toisiaan kodin ulkopuolella. Ja
+Puhuja 0: Toki näiden perusasioiden,
+Puhuja 0: kuten työnteko ja opiskelu lisäksi
+Puhuja 0: niin esimerkiksi se, että kampaamot on paikkoja, jossa naiset on pystynyt tapaamaan toisiaan kodin ulkopuolella. Ja
 Puhuja 0: sit myös turvakodit.
-Puhuja 0: Se vielä
+Puhuja 0: Se
+Puhuja 0: vielä
 Puhuja 0: kaventaa elintilaa mutta myös mahdollistaa vielä enemmän sellaista väärinkäytöstä väkivaltaa ja kaikkea sellaista, että sä et pääse
 Puhuja 0: mihinkään tietyllä tavalla pois siitä tai edes jakamaan sitä
 Puhuja 0: kokemusta liittyen
@@ -174,17 +172,16 @@ Puhuja 1: vakaaksi,
 Puhuja 1: että
 Puhuja 1: Turvallisuustilanne on
 Puhuja 1: huomattavasti parempi kuin mitä se oli ennen sen talebanin valtaannousuja.
-Puhuja 1: Ovat
-Puhuja 1: ainakin kertoneet
+Puhuja 1: Ovat ainakin kertoneet
 Puhuja 1: pyrkieensä taltuttamaan
-Puhuja 1: jotain Eezyis-läheisiä
+Puhuja 1: jotain Easis-läheisiä
 Puhuja 1: ekstromistijoukkoja
 Puhuja 1: siellä maassa.
 Puhuja 2: Joo, hyvinkin mahdollista. Ja tohonhan osittain perustuu
 Puhuja 2: se Talebanin
 Puhuja 2: suosiokin.
-Puhuja 2: Tai siis
-Puhuja 2: koska kun aina puhutaan siitä, että
+Puhuja 2: Tai siis koska
+Puhuja 2: kun aina puhutaan siitä, että
 Puhuja 2: miten
 Puhuja 2: se hallitus vaan romahti ja miten ei osattu
 Puhuja 2: sotia vastaan, niin siinähän oli kuitenkin aika keskeistä se, että ei se ehkä taidoista ollut keskeisimmin kiinni, vaan siitä, että kyllähän siellä oli myös
@@ -201,8 +198,8 @@ Puhuja 2: kesken koulupäivän
 Puhuja 2: ja Talibanen
 Puhuja 2: taistelijat joillain maalaisalueella
 Puhuja 2: pakotti
-Puhuja 2: nämä opettajat jäämään sinne, mikä tavallaan kuulostaa myös ihan kauhealta,
-Puhuja 2: mutta vanhemmat ajattelivat, että no nyt lapset
+Puhuja 2: nämä opettajat jäämään sinne, mikä tavallaan kuulostaa myös ihan kauhealta.
+Puhuja 2: Mutta vanhemmat ajatteli, että no nyt lapset
 Puhuja 2: saa asianmukaisempaa...
 Puhuja 2: Tällaisilla
 Puhuja 2: aika kovilla otteilla saatiin
@@ -223,8 +220,8 @@ Puhuja 2: se opiskelevien naisten ryhmä
 Puhuja 2: mitenkään
 Puhuja 2: vastannut sitä
 Puhuja 2: kansanenemmistöä.
-Puhuja 0: Hyvä ja tärkeä pointti ehdottomasti sulta. Ja
-Puhuja 0: just tämä on ehkä ne asiat, mitkä itsekin poimii
+Puhuja 0: Hyvä ja tärkeä pointti ehdottomasti sulta.
+Puhuja 0: Ja just tämä on ehkä ne asiat, mitkä itsekin poimii
 Puhuja 0: tietysti uutisvirrasta, koska ne on sellaisia
 Puhuja 0: itseä järkyttäviä asioita, kun taas just tavallaan se kontekstin ymmärtäminen on äärimmäisen tärkeää, jotta pystyy
 Puhuja 0: asettamaan sen siihen, miten se on muuttunut ja vaikuttanut siellä
@@ -255,8 +252,8 @@ Puhuja 2: ehkä se...
 Puhuja 2: Mun mielestä ehkä se on jotenkin kiinnostavaa, miten mediassa usein se kulminoituu siihen, että se on vähän niinku naiset vastaan, miehet, että ollaan kauhean isosti
 Puhuja 2: naisten puolella, mutta sitten vähän niinku ehkä samalla miehiä vastaan. Ja sitten kuitenkin niissä yhteisöissä, mikä se yhteisö sitten olikaan,
 Puhuja 2: niin se suhde on usein aika tiiviskin
-Puhuja 2: välillä. Täällä vaikka yliopistolla
-Puhuja 2: miesopiskelijat yritti poikotoida niitä päättökokeita,
+Puhuja 2: välillä. Täällä vaikka
+Puhuja 2: yliopistolla miesopiskelijat yritti poikotoida niitä päättökokeita,
 Puhuja 2: mihin naisia ei päästetty. Mutta sitten tavallaan
 Puhuja 2: niihin kohdistettiin väkivaltaa ja tavallaan
 Puhuja 2: pakotettiin ottamaan ne kokeet.
@@ -271,8 +268,8 @@ Puhuja 2: yhteisöllisyys
 Puhuja 2: ja
 Puhuja 2: puolen väestön asema siinä
 Puhuja 2: auttamistyylissä.
-Puhuja 0: Mun mielestä oli taas hyvä nosto, mitä itsekin pohdin siitä. Just se sun juttu avasi sitä, että helposti tulee vastakkainasettelu,
-Puhuja 0: jota todellisuudessa...
+Puhuja 0: Mun mielestä oli taas hyvä nosto, mitä itsekin pohdin siitä. Just se sun juttu avasi sitä, että helposti tulee
+Puhuja 0: vastakkainasettelu, jota todellisuudessa...
 Puhuja 0: Tai se vastakkainasettelu jollain tavalla hyvin vahvasti korostuu tai ajatuksissa tulee. Se voi olla jopa semmoinen,
 Puhuja 0: en tiedä, mistä johtuu, mutta se oli,
 Puhuja 0: suosittelen sitä juttua. Se auttaa myös hahmottamaan
@@ -291,12 +288,11 @@ Puhuja 1: on onnistunut säilyttämään
 Puhuja 1: talouden
 Puhuja 1: jotakuinkin vakaana
 Puhuja 1: neuvottelemalla
-Puhuja 1: sellaisten autoritääristen
-Puhuja 1: hallintojen
+Puhuja 1: sellaisten autoritääristen hallintojen
 Puhuja 1: kanssa.
 Puhuja 1: Jos länsimaat
 Puhuja 1: vaikka muodostaisivat keskusteluyhteyksiä sinne, niin legitimoisiko se Vaaralta tavallaan sitä talibaani hallintaa ja sitä kautta.
-Puhuja 1: Oli vaikka minun Luja kuin BBC-juttu, missä oli haastateltu just tällaista kauneus
+Puhuja 1: Oli vaikka minun luja kuin BBC-juttu, missä oli haastateltu just tällaista kauneus
 Puhuja 1: alan yrittäjää, joka oli joutunut
 Puhuja 1: viemään
 Puhuja 1: liiketoimintansa
@@ -312,19 +308,21 @@ Puhuja 1: se
 Puhuja 1: kontrolli vaikkapa juuri näiden kaupungissa asuvien naisten
 Puhuja 1: ympäriltä vai
 Puhuja 1: tiukentuisiko
-Puhuja 1: se vaan lineaarisesti
+Puhuja 1: se
+Puhuja 1: vaan lineaarisesti
 Puhuja 1: ja menisi
 Puhuja 1: huonompaan
 Puhuja 1: suuntaan eli naisten oikeudet heikkenisivät
 Puhuja 0: enemmän. Niin, ja onhan siellä myös muita... Naisten oikeudet on se
-Puhuja 0: yksi osa sitä, mutta just turvallisuustilanne ja levottomuudet,
+Puhuja 0: yksi osa sitä, mutta just turvallisuustilanne
+Puhuja 0: ja levottomuudet,
 Puhuja 2: kaikki muut. Ja monien vähemmistöjen, vaikka hasaroiden oikeudet, on kanssa
 Puhuja 2: tosi tukalolla.
 Puhuja 1: Ja
 Puhuja 1: ylipäätään tota...
 Puhuja 1: Näiden konfliktien seurauksena on miljoonia
-Puhuja 1: ihmisiä, miten se nyt menee, ei nälän hädässä, vaan nälän
-Puhuja 1: hädän uhan alla.
+Puhuja 1: ihmisiä, miten se nyt menee, ei nälän hädässä, vaan nälän hädän uhan
+Puhuja 1: alla.
 Puhuja 2: Ja tuollaisissa
 Puhuja 2: akuuteissa kriiseissä
 Puhuja 2: tavallaanhan se perinteinen lähtökohta
@@ -340,22 +338,22 @@ Puhuja 2: Avustusjärjestöille
 Puhuja 2: se on tosi looginen ratkaisu.
 Puhuja 2: Sitten se hankala kysymys on just se, että mitä sitten valtioiden, jotka on taas toimijoina hyvin
 Puhuja 2: erityyppisiä kuin avustusjärjestöt, niin mitä valtioiden pitäisi tehdä.
-Puhuja 2: Koska tämä selvä viesti, mitä näiltä naisilta
+Puhuja 2: Koska tämä selvä viesti,
+Puhuja 2: mitä näiltä naisilta
 Puhuja 2: itseltään tulee,
-Puhuja 2: on se, että pitäisi esimerkiksi
-Puhuja 2: antaa enemmän
+Puhuja 2: on se, että pitäisi esimerkiksi antaa enemmän
 Puhuja 2: opiskelumahdollisuuksia
-Puhuja 2: ulkopuolella ja antaa stipendejä ja
+Puhuja 2: ulkopuolella ja antaa stipendejä
+Puhuja 2: ja
 Puhuja 2: opintopaikkoja
 Puhuja 2: kansainvälisissä yliopistoissa,
 Puhuja 2: Euroopassa, Jenkeissä, muualla.
-Puhuja 2: Ja se olisi tosi tärkeää ja nythän nämä luvut on tosi pieniä, että vaikka periaatteessa EU
-Puhuja 2: on
+Puhuja 2: Ja se olisi tosi tärkeää ja nythän nämä luvut on tosi pieniä, että vaikka periaatteessa EU on
 Puhuja 2: periaatteessa on taattu
 Puhuja 2: kaikille afganistanilaisille
 Puhuja 2: naisille
-Puhuja 2: sukupuolensa perusteella turvapaikka, niin eihän se käytännön mahdollisuus tulla hakemaan sitä turvapaikkaa
-Puhuja 2: ole
+Puhuja 2: sukupuolensa perusteella turvapaikka, niin eihän se käytännön mahdollisuus tulla hakemaan sitä
+Puhuja 2: turvapaikkaa ole
 Puhuja 2: ole enemmistölle
 Puhuja 2: millään tavalla mahdollinen, koska turvapaikkaa voi hakea vaan
 Puhuja 2: saavuttua
@@ -375,7 +373,8 @@ Puhuja 2: matkustamaan lentokoneella tai maan sisällä, niin pitää olla viel�
 Puhuja 2: Jos perhe olisi vastaan, niin se on jo käytännössä mahdotonta.
 Puhuja 2: Tosi monen asian pitää täyttyä,
 Puhuja 2: mikä näkyy siitä, että ne luvut, mitä on
-Puhuja 2: saanut turvapaikkoja, niin ne luvut on todella pieniä, vaikka tavallaan
+Puhuja 2: saanut
+Puhuja 2: turvapaikkoja, niin ne luvut on todella pieniä, vaikka tavallaan
 Puhuja 2: siihen riittää se sukupuoli.
 Puhuja 2: Ja tietenkin tässä opiskelupaikka-asiassa
 Puhuja 2: on se, että
@@ -387,8 +386,7 @@ Puhuja 2: Somaliassa tällä hetkellä
 Puhuja 2: aika moni sellaisista
 Puhuja 2: ihmisistä, jotka on kouluttautunut
 Puhuja 2: ulkomailla, korkeakoulututunut,
-Puhuja 2: niin ne on palannut
-Puhuja 2: Somaliaan rakentamaan parempaa
+Puhuja 2: niin ne on palannut Somaliaan rakentamaan parempaa
 Puhuja 2: Somaliaa, eli
 Puhuja 2: kyllähän siinä voi olla sellaista
 Puhuja 2: toivoa, että
@@ -447,6 +445,12 @@ Puhuja 1: Sitten antakaa lääkkeen tepsiä.
 Puhuja 0: Tää oli myös aika sinistävä vinkki. Tämä oli myös aika sinistävä vinkki. Tämä on nytkin tortilla.
 Puhuja 0: Kyllä, joo. Mulle tulee vaan mieleen, että joku vastasyntynyt.
 Puhuja 0: Ei tai mitkä pikkuvauvat,
+Puhuja 0: että
+Puhuja 0: siellä oot rauhassa. Miten sun kissa
+Puhuja 0: reagoi tähän tortille?
+Puhuja 1: Ei se nyt hyvin.
+Puhuja 1: Seuraavaksi oli
+Puhuja 1: vähemmän tuhoisia
 Puhuja 2: että tämä oli ihan täysin
 Puhuja 2: uutta
 Puhuja 2: informaatiota. Minä
@@ -464,8 +468,7 @@ Puhuja 2: murhaamisesta,
 Puhuja 2: kuolemat, niin kannustaisin kaikkia tarkkailemaan
 Puhuja 2: sellaisia, että jos
 Puhuja 2: näkyy sellaisia
-Puhuja 2: positiivisia ilmiöitä,
-Puhuja 2: niin kertoo ja levittää näitä uutisia.
+Puhuja 2: positiivisia ilmiöitä, niin sitten kertoo ja levittää näitä uutisia.
 Puhuja 2: Saa levittää myös toimituksille.
 Puhuja 1: Osuvasti
 Puhuja 1: tämän räjähdysten ja kriisien ja luotien
@@ -481,7 +484,8 @@ Puhuja 0: Mekin siis kaipaamme
 Puhuja 0: täällä positiivisia uutisaiheita ja jos niitä jostain bongaa tai tulee, niin
 Puhuja 0: niitä kyllä erittäin mielellään otetaan
 Puhuja 0: vastaan.
-Puhuja 0: Mä jatkan tällä kirjallisuuslinjalla.
+Puhuja 0: Mä
+Puhuja 0: jatkan tällä kirjallisuuslinjalla.
 Puhuja 0: Aloitin sellaisen
 Puhuja 0: ranskalaiskirjailija...
 Puhuja 0: Anteeksi lausuminen
@@ -494,8 +498,7 @@ Puhuja 0: Tässä on miljoona hautaus mua, mutta
 Puhuja 0: päähenkilö hoitaa tätä antaumuksella ja tässä on jotain tosi semmosta...
 Puhuja 2: Pidä hautausmaata.
 Puhuja 2: Joo,
-Puhuja 0: ja niitä hautausmaan kukkia ja siinä on jotain tosi viehättävää. Kuulostaa just tänne, kaivetaan positiivisia
-Puhuja 0: uutisia ja
+Puhuja 0: ja niitä hautausmaan kukkia ja siinä on jotain tosi viehättävää. Kuulostaa just tänne, kaivetaan positiivisia uutisia ja
 Puhuja 0: teos
 Puhuja 0: voi olla jotenkin
 Puhuja 0: myös
@@ -505,7 +508,7 @@ Puhuja 0: positiivishenkinen.
 Puhuja 0: Ja
 Puhuja 0: siinä on jännä, kun se aina kertoo niistä ihmisistä, että tämän haudalla kävi tämä tyyppi niin sit siinä sanotaan,
 Puhuja 0: että
-Puhuja 0: laitetaan aina sen koko nimi Kuka on kuollut? Ja sitten
+Puhuja 0: laitetaan sen koko nimi Kuka on kuollut? Ja sitten
 Puhuja 0: sen sulkeissa perässä on ne elinvuodet.
 Puhuja 0: Se on jotenkin tosi
 Puhuja 0: outoa luettavaa,

@@ -29,7 +29,7 @@ Puhuja 0: podcastia
 Puhuja 0: ovat
 Puhuja 0: Helsingin Sanomien
 Puhuja 0: sunnuntailiitteentoimittaja
-Puhuja 1: Maria Manner. Hei Maria. Hei Tuomas ja Marko.
+Puhuja 0: Maria Manner. Hei Maria. Hei Tuomas ja Marko.
 Puhuja 0: Ja kuten äskeisestä lauseesta saatoit aavistellakin,
 Puhuja 0: niin täällä on paikalla myös
 Puhuja 0: politiikan toimittaja
@@ -54,8 +54,7 @@ Puhuja 0: free Jasu
 Puhuja 0: on pyrkinyt semmoisella Matrixin omaisilla väistöliikkeellä
 Puhuja 0: puikkelehtimaan.
 Puhuja 0: Myös puhumme huimasti
-Puhuja 0: merkityksellisemmästä
-Puhuja 0: asiasta.
+Puhuja 0: merkityksellisemmästä asiasta.
 Puhuja 0: Eli jotenkin snigistit tässä sivussa hallitus rusikoi valmiiksi ehdotuksen sote-uudistukseksi.
 Puhuja 0: Kyseessä on kuusisataa ehdotus, jota
 Puhuja 0: on tehnyt järjestyksessään yhdeksänsataa
@@ -88,16 +87,18 @@ Puhuja 0: Lopuksi vielä hyviä keskustelun aiheita pitkien epämukavien hiljais
 Puhuja 0: Okei, ootteko koskaan pysähtyneet miettimään,
 Puhuja 0: että kasvoille asetettava
 Puhuja 0: naamio?
-Puhuja 0: Sillä on pidetty pahoja henkiä pois muinaisesta kulttuureista asti.
-Puhuja 0: Mä oon vakuuttunut, että tämmöisillä
+Puhuja 0: Sillä on pidetty pahoja henkiä pois muinaisesta
+Puhuja 0: kulttuureista asti.
+Puhuja 0: Mä oon vakuuttunut, että tämmöisillä...
 Puhuja 0: Sillä
 Puhuja 0: muodolla on väliä. Sillä on jotain merkitystä, että ihminen on vuosituhansia asettanut
-Puhuja 0: jonkun naamalleen vartioimaan
-Puhuja 0: tämmöistä näkymätöntä
-Puhuja 0: uhkaa vastaan. Sitten me tehdään sitä samaa täällä. Mä itseasiassa mietin tänään, koska mun
-Puhuja 2: mielestä maskeja on käyttänyt pankkirosvot ja
+Puhuja 0: jonkun naamalleen vartioimaan tämmöistä näkymätöntä
+Puhuja 0: uhkaa vastaan.
+Puhuja 2: Sitten me tehdään sitä samaa täällä. Mä itseasiassa mietin tänään, koska mun
+Puhuja 2: mielestä
+Puhuja 2: maskeja on käyttänyt pankkirosvot ja
 Puhuja 2: Mutta
-Puhuja 2: siis miten
+Puhuja 2: siis miten...
 Puhuja 2: Jos sulla on pankkirosvalla, sulla on tämmöinen peität suun, että sua ei muka tunnistettaisiin, mutta kyllähän ihmisen tunnistaa.
 Puhuja 1: Mahdollisesti
 Puhuja 1: hän joutuu siitä ongelmiin, ja sitten jos hän taas sanoo, että hän
@@ -115,12 +116,11 @@ Puhuja 2: heppu nykykeltiin ja haukkuu
 Puhuja 2: New York Timesin ulkomaan toimituksen editoreita nimellä ja tavallaan toimii aika hienosti.
 Puhuja 2: Mutta siis
 Puhuja 2: ymmärtääkseni ei kai kukaan epäile, että se toimittaja joka on tämän kalifaattijutun
-Puhuja 2: tehnyt, että hän olisi rahaa. Niin, kalimak. Että hän olisi tahallaan huijannut. Vaan ongelma on ollut se, että hän ei ole tavallaan selvittänyt
-Puhuja 2: ISIS:n Pyövelin
+Puhuja 2: alun perin tehnyt, että hän olisi rahaa. Niin, kalimak. Että hän olisi tahallaan huijannut. Vaan ongelma on ollut se, että hän ei ole tavallaan selvittänyt sen ISIS:n Pyövelin
 Puhuja 2: taustoja. Eikö se ole näin?
 Puhuja 1: Niin,
-Puhuja 0: tässä mun mielestä tässä oli
-Puhuja 0: Siis vaikuttavimpia kohteita oli tässä, missä
+Puhuja 0: tässä mun mielestä tässä oli...
+Puhuja 0: Siis vaikuttavimpia kohteita oli tässä, missä...
 Puhuja 0: Siis New Yorsilla on tämä lehdistöasiamies,
 Puhuja 0: jonka nimi on
 Puhuja 0: Benz. Ja Benz on siis Busfeedin
@@ -147,7 +147,7 @@ Puhuja 0: ja he oli julkaissut ne jutut silti. Se oli muut pari ilmeisesti nimet
 Puhuja 1: tämmöistä turvallisuusviranomaisten
 Puhuja 1: jotenkin vahvistusta, jotka jäi vähän epämääräisiksi.
 Puhuja 1: Ja mun se kritiikki tossa kohdistui nimenomaan se, että ei siihen, että tää rukmiini
-Puhuja 1: kalliinma
+Puhuja 1: kalliinma...
 Puhuja 1: Kallimäki. Mut miten se lausutaan? No, vaikkakin romaani muistaakseni.
 Puhuja 0: Kallimäki
 Puhuja 1: suomalaisittain. Ei siihen, että niitähän on tullut paljon
@@ -158,21 +158,23 @@ Puhuja 1: tapauksessa liittynä lähdekritiikkiin ja sitten toisaalta siihen, mi
 Puhuja 1: tai jotenkin vinoutuneesti
 Puhuja 1: hän on raportoinut aikaisemmin matkan varrella. Jotain kiinnostavaa siksi, koska hän on ollut niin sellainen Stara-toimittaja.
 Puhuja 1: Oletteko seurannut häntä Twitterissä?
-Puhuja 1: En. Hän on ollut jotenkin niin kuin
+Puhuja 1: En. Hän on ollut jotenkin niin kuin...
 Puhuja 1: Jossain vaiheessa ajattelee, että tuo aueta tuo tekee, niin pääsee noille alkuperäislähteille ja siellä oli aina Twitterissä todella kovaa raportointia.
 Puhuja 1: Nyt en minä hankki, mutta hän ei osaa arabiaa lainkaan.
 Puhuja 1: Kiinnostavaa, että New York Timesin kaltainen julkaisu
 Puhuja 2: laittaa nimenomaan jakamaan raportoimaan terapian taidottoman. Ja siitähän liittyy se, että hän on tavallaan
 Puhuja 2: narratiivisen journalismin
 Puhuja 2: yksi
-Puhuja 2: tämmöisiä isoja nimiä, mikä tarkoittaa siis sitä, että siinä niin kuin
-Puhuja 2: Siis kaunokirjallisin
+Puhuja 2: tämmöisiä isoja nimiä, mikä tarkoittaa siis sitä, että siinä niin
+Puhuja 2: kuin...
+Puhuja 2: Siis kaunokirjallisin...
 Puhuja 2: Ei keksitä asioita, mutta ne jutut lähenee usein kaunokirjallisuutta.
 Puhuja 2: Mennään
 Puhuja 2: yksityiskohtiin ja tavallaan tarinallistetaan
 Puhuja 2: sitä
 Puhuja 2: juttua. Se voi näyttää jopa
-Puhuja 2: kaunokirjallisuudelta. Hän on tässä tosi taitava, mutta hän on ilmeisesti myös käyttänyt taiteellisia
+Puhuja 2: kaunokirjallisuudelta. Hän on tässä tosi taitava, mutta hän on ilmeisesti myös
+Puhuja 2: käyttänyt taiteellisia
 Puhuja 2: vapauksia
 Puhuja 1: vapauksia. Niin hän oli ainakin vetänyt mutkia suoraksi ja jossain kohtaa
 Puhuja 1: selkeästi fuskannut,
@@ -182,7 +184,8 @@ Puhuja 1: tismalleen mitä hän oli saanut selville ja mikä oli pystytty osoitt
 Puhuja 1: mikä ei. En ollut ehkä ajatellut, että hän olisi ollut, no, olin lukenut sitä niin paljon, se on narratiivisen.
 Puhuja 1: Minusta se iso ongelma tuossa liittyy siihen.
 Puhuja 1: Ajattelin jo silloin kun itse
-Puhuja 1: olen jonkun verran tehnyt näiden isojen kansainvälisten medioiden kanssa,
+Puhuja 1: olen jonkun verran tehnyt
+Puhuja 1: isojen kansainvälisten medioiden kanssa,
 Puhuja 1: tai siis vietin aikaa kirjeenvaihtateen kanssa Brasiliassa aikoinaan,
 Puhuja 1: etenkin olympiakisoja tiimoilta. Siellä oli kaikki maailman suuret mediat ja joskus kreissasin niiden kanssa yhdessä.
 Puhuja 1: Ja sitten kun olin pieniä Suomesta, niin ketä ei haitannut, jos tulin
@@ -255,7 +258,8 @@ Puhuja 0: kuuntelemalla yhtä lähdettä.
 Puhuja 1: Tietysti
 Puhuja 1: sitten, jos on tilanteita, jossa on ollut vain yksi lähde. Mun
 Puhuja 0: mielestä ihan mielenkiintoista,
-Puhuja 0: minkä mä en kovin paljon voi mennä detaljeihin. Mutta mä olin sitten taas esimiehenä
+Puhuja 0: minkä mä en kovin paljon voi mennä detaljeihin. Mutta mä olin sitten taas
+Puhuja 0: esimiehenä
 Puhuja 0: torppaamassa
 Puhuja 0: juttua, joka perustuu
 Puhuja 0: yhden uskottuvan lähteen kertomukselle.
@@ -298,7 +302,7 @@ Puhuja 2: lasteni
 Puhuja 2: kanssa. Lähdemme länsirannikolle ja tarkoitus mennä kalaa. Meidän 12-vuotias
 Puhuja 2: on aivan sairaan innostunut kalastamisesta ja hän on nyt löytänyt jigit ja hänellä on valtava pakki täällä näitä. Ne on semmoisia kumisia,
 Puhuja 2: kumisa madon näköisiä, mitä ne onkaan.
-Puhuja 2: Meille tuli Me tänä aamuna tästä keskustelimme, ja meille tuli tämmöinen suuri kiistan, että miten niillä jgeillä kalastetaan.
+Puhuja 2: Meille tuli... Me tänä aamuna tästä keskustelimme, ja meille tuli tämmöinen suuri kiistan, että miten niillä jgeillä kalastetaan.
 Puhuja 2: En ole
 Puhuja 2: alaa harrastanut, mutta olen joskus ollut jonkun jiggalastajan
 Puhuja 2: seurassa. Ainakin häneltä opin, että se jiggi
@@ -347,9 +351,8 @@ Puhuja 1: Ja miten sitten
 Puhuja 1: Marianne muistelee, tai sehän on nyt siis kuollut perustus elämänkertaan, että miten se on niin kamalaa ja traagista ja hän halusi tappaa itsensä kun hän oli niin mustasukkainen
 Puhuja 1: ja tulla hulluksi niiden Leonardin naisten kanssa. Sitten taas Leonar Cohen kertoo, että
 Puhuja 1: tekevät töitä yhteisen määrän, eli vapaan rakkauden eteen.
-Puhuja 1: Ja siinä on jotain muitakin
-Puhuja 1: No joo, miten hyvin eri tavalla ihmiset muistelee, että miten auvoisaa aikaan se vapaan rakkauden 60-luku
-Puhuja 1: oli, niin sitten se jäi mieleen, mutta katsokaa. Se on kaunis ja hieno. Se oli mikä Leonard ja Marianne Leonard
+Puhuja 1: Ja siinä on jotain muitakin... No joo, miten hyvin eri tavalla ihmiset muistelee, että miten auvoisaa aikaan se vapaan rakkauden 60-luku
+Puhuja 1: oli, niin sitten se... Joo, jäi mieleen, mutta katsokaa. Se on kaunis ja hieno. Se oli mikä Leonard ja... Marianne Leonard
 Puhuja 2: sanoja rakkaudesta. Mä en sako jatkaa vielä Cohenista ihan pikkupätkään. Olin aikoinaan
 Puhuja 2: vaihto-oppilaana Kanadassa.
 Puhuja 2: Opiskelin siis englantia
@@ -375,11 +378,9 @@ Puhuja 0: Lukea ja varsinkin kuunnella. Mä käytän niitä paitsi silleen, ett�
 Puhuja 0: kova fysiikka varsinkin suhteellisuusteoria
 Puhuja 0: ja tämmöiset mut mä käytän niitä silleen myös
 Puhuja 0: uni apuna. Mä
-Puhuja 0: oon nähnyt jossain foorumeilla joskus ympäri Tässä muutamia ihmisiä ympäri maapalloa tekee samaa kuin minä jossa esimerkiksi suhteellisuusteoriaa,
+Puhuja 0: oon nähnyt jossain foorumeilla joskus ympäri... Tässä muutamia ihmisiä ympäri maapalloa tekee samaa kuin minä jossa esimerkiksi suhteellisuusteoriaa,
 Puhuja 0: joka on totaalisen
-Puhuja 0: abstrakti,
-Puhuja 0: miten
-Puhuja 0: aika kaartuu
+Puhuja 0: abstrakti, että miten aika kaartuu
 Puhuja 0: tiettyjen painojen
 Puhuja 0: läheisyydessä. Se on täysin abstraktia semmosta,
 Puhuja 0: miten galaksin
@@ -413,7 +414,7 @@ Puhuja 0: josta on kirja nimeltä Cayos Making and New science.
 Puhuja 0: Siinä selitetään, miten tää kaaos
 Puhuja 0: tieteenalaan
 Puhuja 0: syntyi.
-Puhuja 0: Ymmärrät esimerkki on vaikka myrsky tai sää. Sään on niinku
+Puhuja 0: Ymmärrät esimerkki on vaikka myrsky tai sää. Sään on niinku...
 Puhuja 0: Sään tutkiminen on kaaoksen tutkimista, koska se on semmosta. Sä et pysty mallintamaan, sä et
 Puhuja 0: seuraamaan jokaista atomia siellä, miten ne menee ja näin. Se on täysin mahdotonta. Siellä on aivan erilailla,
 Puhuja 0: mutta niitäkin pystytään jollain tavalla hanskaamaan, mitä se kaaos on, miten se toimii. Mikä on kaaoksen
@@ -440,7 +441,7 @@ Puhuja 0: murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
 Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.

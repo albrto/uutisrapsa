@@ -14,8 +14,8 @@ Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
 Puhuja 0: Hei, tervetuloa Helsingin Sanomien Uuteenaaja-podcasti-podcistaina
 Puhuja 0: kaksikymmentäviisi.
-Puhuja 0: Päivä
-Puhuja 0: edelleen
+Puhuja 0: Päivä...
+Puhuja 0: Edelleen
 Puhuja 0: marraskuu.
 Puhuja 0: Vuonna kaksituhatta kaksikymmentäyksi mun nimi on Tuomas Peltomäki
 Puhuja 0: ja kanssani tässä
@@ -73,8 +73,8 @@ Puhuja 0: jotka
 Puhuja 0: tällä viikolla ovat kuvastaneet Amerikan tämmöistä
 Puhuja 0: hyvin kiihkeää
 Puhuja 0: kahtiajakoisuutta,
-Puhuja 0: sitä, miten nostetaan
-Puhuja 0: Oman käden oikeutta otetaan vähän suuntaan ja toiseen ja sitten
+Puhuja 0: sitä, miten nostetaan...
+Puhuja 0: Oman käden oikeutta otetaan vähän suuntaa ja toiseen ja sitten
 Puhuja 0: Amerikka joutuu elämään
 Puhuja 0: alati kiristyvän, jopa väkivaltaan
 Puhuja 0: purkautuvan kahtiajaon
@@ -90,7 +90,8 @@ Puhuja 0: riidasta, nimittäin woke-höikkytyksestä,
 Puhuja 0: johon joutui professori
 Puhuja 0: Esko
 Puhuja 0: Valtaoja. Mutta joutuiko hän siihen vai oliko hän itse siinä syypää typeryyksiin?
-Puhuja 0: Kyse on tästä N-sanan käytöstä televisio-ohjelmassa.
+Puhuja 0: Kyse on tästä N-sanan käytöstä
+Puhuja 0: televisio-ohjelmassa.
 Puhuja 0: Oliko se
 Puhuja 0: paikallaan, oliko suuttumisesta suuttuminen paikallaan?
 Puhuja 0: Paissutteko media tyhmää kohua vai onko tässä
@@ -139,7 +140,7 @@ Puhuja 0: tappeluksi. Sitten mä olen jotenkin, mä olen jotenkin,
 Puhuja 0: mä yritän mun lapsille käydä aina sanoa, että ei kannata, tai että pitää välttää ärsyttää sanaa, koska se on liian helppo heitellä silleen. Mutta mua vähän tässä juulii se,
 Puhuja 0: että tässäkin
 Puhuja 0: olisi tilaisuus,
-Puhuja 0: kun Okei, mä perytän. Mua itseä rupesi ärsyttää se, että voi Jeesus, että onko pakko
+Puhuja 0: kun... Okei, mä perytän. Mua itseä rupesi ärsyttää se, että voi Jeesus, että onko pakko
 Puhuja 0: copypasta
 Puhuja 0: sieltä Amerikasta joka
 Puhuja 0: Jumalan ongelma tänne sellaisenaan, koska se on tyhmää, koska meillä on ihan erilainen
@@ -148,18 +149,17 @@ Puhuja 0: ihan
 Puhuja 0: erilainen maahanmuuttohistoria,
 Puhuja 0: ihan erilainen väestörakenne,
 Puhuja 0: ihan erilaiset
-Puhuja 0: suomalaiset ruskeat ihmiset Se on yö ja päivä Amerikan kanssa. On typerää copy-pasteta Amerikasta ne asiat tänne Suomeen, koska meillä olisi myös omasta takaa tosi mielenkiintoisia
+Puhuja 0: suomalaiset ruskeat ihmiset... Se on yö ja päivä Amerikan kanssa. On typerää copy-pasteta Amerikasta ne asiat tänne Suomeen, koska meillä olisi myös omasta takaa tosi mielenkiintoisia
 Puhuja 0: keskusteluja, mitä käydä,
 Puhuja 0: mitä kuuluu Suomen somaleille,
 Puhuja 0: mitä on Somppukulttuuri,
-Puhuja 0: mikä siellä on, mitä sanoja ne käyttää, jotka on eri kuin alluaminen ja blaa blaa blaa Mitä kuuluu
+Puhuja 0: mikä siellä on, mitä sanoja ne käyttää, jotka on eri kuin alluaminen ja blaa blaa blaa... Mitä kuuluu
 Puhuja 0: niille Suomen vietnamilaiselle,
 Puhuja 0: jotka tuli tänne ysärille kasarille?
 Puhuja 0: Mitä kuuluu heidän jälkeläisen?
 Puhuja 0: Kaikki tämä olisi mahtavaa.
 Puhuja 0: Mutta
-Puhuja 0: mun mielestä tämä nykyinen
-Puhuja 0: Tämä esimerkiksi tässä tapauksessa olisi ollut ihanaa kuulla
+Puhuja 0: mun mielestä tämä nykyinen... Tämä esimerkiksi tässä tapauksessa olisi ollut ihanaa kuulla
 Puhuja 0: suomalaisilta
 Puhuja 0: mustilta, että hei, okei, nyt nämä asiat pulpahti.
 Puhuja 0: Amerikkalaisilla on omat käsityksensä
@@ -198,7 +198,9 @@ Puhuja 1: no viraaleja.
 Puhuja 1: Eikä vaikuta siltä, että Esko aikaan olisi tässä känsälattu,
 Puhuja 1: että vaikka hän kovan kritiikin kohteeksi
 Puhuja 0: Mä olen kirjoittanut, olen viitannut tässä podcastissa monesti mun huonoimpaan kolumiin, jonka olen ikinä kirjoittanut. Ja
-Puhuja 0: se on semmoinen, että siinä käsittelen, mä nimitin näitä asioita kummitusjutuiksi.
+Puhuja 0: se on semmoinen,
+Puhuja 0: että
+Puhuja 0: siinä mä käsittelen, mä nimitin näitä asioita kummitusjutuiksi.
 Puhuja 0: Että
 Puhuja 0: on semmoinen joku nuotiopiiri,
 Puhuja 0: missä me istutaan. Ja sitten joku tulee kertomaan, että ääää, kaikki
@@ -207,7 +209,7 @@ Puhuja 0: Mutta myös vasta voi olla, että
 Puhuja 0: on kaikkialla, kaikki on fasisteja, rasisteja ne on kummitusjuttuja.
 Puhuja 0: Ja ei aikuiset ihmiset usko kummitusjuttuihin.
 Puhuja 0: Niin,
-Puhuja 1: ja mä oon ollut tosi tuota mieltä ja mä oon aina hyvin sellainen, että no onkohan nyt noin ja mitenkähän nyt näin ja noin. Mutta
+Puhuja 1: ja mä oon ollut tosi tota mieltä ja mä oon aina hyvin sellainen, että no onkohan nyt noin ja mitenkähän nyt näin ja noin. Mutta
 Puhuja 1: sitten mun täytyy sanoa, että kun olin viime viikolla yhdellä mun viimeisistä juttukeikoista kun mahdollisti jopa viimeisellä, koska mullahan on alle kuukausi tätä kirjeenvaihtajuutta
 Puhuja 1: jäljellä.
 Puhuja 1: Ja mä olin semmosessa kaupungissa, jonka nimi on 'Nal',
@@ -223,14 +225,14 @@ Puhuja 1: juuri näiden jakolinjojen mukaan.
 Puhuja 1: Ja jotenkin ne
 Puhuja 1: asiat, vaikka ne on irrallaan ihmisten omista elämistä niin se silti alkaa
 Puhuja 1: vaikuttaa niiden ihmissuhteisiin ja niiden työpaikoilla
-Puhuja 1: ja niiden kouluissa Niin se se
-Puhuja 1: että sit niistä kummitusjutuista
+Puhuja 1: ja niiden kouluissa Niin se... Se... Että
+Puhuja 1: sit niistä kummitusjutuista
 Puhuja 1: jotenkin voi tulla myös Kyllä.
 Puhuja 1: Pelottoman totta. Niin se oli ehkä
 Puhuja 1: siitä,
 Puhuja 0: että olisi hyvä. Kyllä me itsemme saadaan ajettua aika solmua, jos näin päätetään tehdä.
 Puhuja 1: Kyllä, kyllä.
-Puhuja 1: Mutta tota Mut hei, mä sanon vielä noista, että yksi, vaikka hänkin on kyllä poliitikko, mutta mä oon pitänyt
+Puhuja 1: Mutta tota... Mut hei, mä sanon vielä noista, että yksi, vaikka hänkin on kyllä poliitikko, mutta mä oon pitänyt
 Puhuja 1: just Instagramissa kovasti tästä Helsingin kaupunginvaltuuston
 Puhuja 1: puheenjohtajan Fatim Diaran tavasta
 Puhuja 1: nostaa näitä asioita esille ja sieltä just tulee osittain ilmi se, että
@@ -258,10 +260,10 @@ Puhuja 0: 50-luvulla
 Puhuja 0: oli OK hakata vaimoa ja hakata lapsia. Kukaan ei ole sitä mieltä, että se on ok nykyään, koska maailma menee eteenpäin ja kehittyy. Ja Hamos oli rikos ja niin edelleen. Kyllä se
 Puhuja 1: pätee kaikkeen myös tässä.
 Puhuja 0: Okei. Sohvi,
-Puhuja 0: kun sä lähdet sieltä
+Puhuja 0: kun sä lähdet sieltä...
 Puhuja 1: Kiitos päiväyksestä.
 Puhuja 0: Ei, mä sanoin, että sä lähdet
-Puhuja 0: kohti
+Puhuja 0: kohti...
 Puhuja 0: Minkälainen lentokenttä on Washingtonissa?
 Puhuja 1: Täällä on kaksi, toinen Reagan.
 Puhuja 1: Joo. Mutta se, mistä lähdetään Suomeen, on DALLEs. DALLEs. Okei. Sitten kun sä lähdet DALLEsin
@@ -273,8 +275,9 @@ Puhuja 0: Dallerllesin lentokentän baarissa ennen yölentoa.
 Puhuja 0: Otat siinä yhden, ehkä
 Puhuja 0: Miller on semmoinen amerikkalainen olut. Eikö näin?
 Puhuja 0: Ja
-Puhuja 0: tota, sä otat sen ja kummaa viimeisen tuoppis
-Puhuja 0: Yhdysvaltain kirjeenvaihtaja, niin
+Puhuja 0: tota sä otat sen ja kummaa viimeisen tuoppis
+Puhuja 0: Yhdysvaltain kirjeenvaihtajana,
+Puhuja 0: niin
 Puhuja 0: mistä sä
 Puhuja 0: siellä rupeet
 Puhuja 0: naapuripöytiin kertomaan, mitä juttuja
@@ -297,15 +300,15 @@ Puhuja 1: hillyttömän
 Puhuja 1: hyvä edelleen
 Puhuja 1: ja älytön ja naudan usein ääneen. Siis SainFall
 Puhuja 0: Se on kenties paras cowedia-sarja, mitä ikinä on tehty. Se on aivan
-Puhuja 0: älyttömän hyvä. Ja mulla on, jos mä saan Mä oon vasta nyt löytänyt sen. Niin, kato, kun mulla kävi just sama.
-Puhuja 0: Että silloin, kun se tuli Mä olen sen verran sua vanhempi, että mä olen
+Puhuja 0: älyttömän hyvä. Ja mulla on, jos mä saan... Mä oon vasta nyt löytänyt sen. Niin, kato, kun mulla kävi just sama.
+Puhuja 0: Että silloin, kun se tuli... Mä olen sen verran sua vanhempi, että mä olen
 Puhuja 0: tiedostanut
 Puhuja 0: sen jo silloin, kun se tuli alun perin joskus ysärillä.
 Puhuja 0: Mä muistan, että mä katsoin sitä. Ja sitten siinä oli se Jerry Signfeld.
-Puhuja 0: Siitä näki, että toi osaa näytellä ollenkaan. Ja sen En
+Puhuja 0: Siitä näki, että toi osaa näytellä ollenkaan. Ja sen... En
 Puhuja 0: mä voi tämmöistä katsoa. Sitten se tuli mun mielestä Suomen telkkarissa uusintoina joskus 2000-luvulla.
-Puhuja 0: Sillä oli kanssa sama, että miten toi tyyppi Että se ei osaa ollenkaan näytellä, että onpa typeräsarja.
-Puhuja 1: Mutta sitten oli Sä näyttää koko ajan siltä, että se alkaisi nauhan. Joo, joo.
+Puhuja 0: Sillä oli kanssa sama, että miten toi tyyppi... Että se ei osaa ollenkaan näytellä, että onpa typeräsarja.
+Puhuja 1: Mutta sitten oli... Sä näyttää koko ajan siltä, että se alkaisi nauhan. Joo, joo.
 Puhuja 0: Sitten oli semmoinen luojan kiitos, joku kymmenen vuotta sitten. Mulle tuli flunssa
 Puhuja 0: ja mä downloadasin
 Puhuja 0: kun olin lukenut netistä, että tämän pitäisi olla parasta mitä on, mä downloadasin siitä pari seiseniä
@@ -326,7 +329,7 @@ Puhuja 1: hyvin vähän, mutta kuitenkin jonkun verran jotain vanhentuneita seks
 Puhuja 1: vitsejä ja jonkun verran, tota, ne on vähän Georgia.
 Puhuja 1: Grey on aika homofobisia
 Puhuja 1: tavalla, jolla nykyään ei ehkä oltais. Mutta
-Puhuja 1: tota
+Puhuja 1: tota...
 Puhuja 1: Mutta sitäkin on aika vähän. Se on yllättävän hyvin kestänyt sitä aikaa. Kyllä. Ja sit just se, että tosi paljon huumoria syntyy siitä, että ne ei vaik pysty soittaa toisilleen, että missä
 Puhuja 1: niinku
 Puhuja 1: tällaista. Ja se tuntuu
@@ -345,7 +348,7 @@ Puhuja 0: hyvä
 Puhuja 0: ja yksi on
 Puhuja 0: semmoinen ihan ok,
 Puhuja 0: mutta tärkeä eri syistä.
-Puhuja 0: Nämä molemmat on
+Puhuja 0: Nämä molemmat on...
 Puhuja 0: Okei, toinen on selkeästi konservatiivpodcast,
 Puhuja 0: amerikkalainen,
 Puhuja 0: tämmöinen kuin
@@ -362,12 +365,12 @@ Puhuja 0: liian woke-meininki.
 Puhuja 0: Ja nyt se Bergywise tekee semmoisia podcasteja, jotka käsittelee näitä
 Puhuja 0: tavallaan woke-aiheita,
 Puhuja 0: silleen kritisoida niitä semmoista republikaanikonservatiivi
-Puhuja 0: näkökulmasta. Se on vähän silleen Mun mielestä se on vähän vastenmielinen. Sillä on semmoinen
+Puhuja 0: näkökulmasta. Se on vähän silleen... Mun mielestä se on vähän vastenmielinen. Sillä on semmoinen
 Puhuja 0: semmoinen ihmeellinen täti klangi siinä. Mä en pidä siitä.
-Puhuja 0: Mutta kiistatta bergywise on fiksu. Se on tosi fiksu.
-Puhuja 0: Siellä on
+Puhuja 0: Mutta kiistatta bergywise on fiksu. Se on tosi
+Puhuja 0: fiksu. Siellä on
 Puhuja 0: valtavirrasta
-Puhuja 0: poikkeava vastakarvainen
+Puhuja 0: poikkeava, vastakarvainen
 Puhuja 0: konservatiivivin näkemys näihin asioihin. Se on mielenkiintoista,
 Puhuja 0: vaikka itse ei olisi konservatiiv niin kuin minä en ole minkäänlainen konservatiivivi,
 Puhuja 0: niin se on mielenkiintoinen.
@@ -385,7 +388,7 @@ Puhuja 0: tämän takia woke
 Puhuja 0: ihmiset pitää häntä suurena saatanana.
 Puhuja 0: Mutta Jessi Single on itse asiassa todella fiksu tyyppi. Hän Kati Hershowg nimisen
 Puhuja 0: naisen kanssa pitää tätä Block and Repodet
-Puhuja 0: podcastia, joka on myös He
+Puhuja 0: podcastia, joka on myös... He
 Puhuja 0: on selvästi liberaaleja. He on
 Puhuja 0: tämmöisiä
 Puhuja 0: normaaleja
@@ -435,7 +438,7 @@ Puhuja 0: mennä kirjoittamaan juttunsa loppuun
 Puhuja 0: ja annamme sen hänelle anteeksi, vaikka tiedän, että ihmisiä
 Puhuja 0: harmittaa, jos täällä on toisilla kiire pois podcastista.
 Puhuja 0: Mutta nyt Markulla oli ihan tosissaan
-Puhuja 0: pakko mennä. Mutta me sohvin kesken revittiin
+Puhuja 0: pakko mennä. Mutta me sohvin kesken revittiin...
 Puhuja 0: Ehkä vedettiin ennätys, saattaa olla pisin podcast koskaan.
 Puhuja 0: Koskaan. Kiitos,
 Puhuja 0: Ari.

@@ -32,7 +32,7 @@ Puhuja 0: Sinulla oli jotain mielenkiintoista sanoa tuo sokerista.
 Puhuja 2: Ai,
 Puhuja 2: Luin Helsingin Sanomien
 Puhuja 2: mielipidekirjoitusta siitä, miten kohtuullinen sokerin
-Puhuja 0: syönnissä ei ole mitään vikaa. Mutta se on kyllä varmasti
+Puhuja 2: syönnissä ei ole mitään vikaa. Mutta se on kyllä varmasti
 Puhuja 2: aivan täysin oikea. Minä en vielä päässyt siihen asti, että mikä on kohtuullista.
 Puhuja 0: Kevyesti ja vienosti isokevisyönnistä
 Puhuja 0: ehkä innostuneena siinä vieressä ja olen ollut
@@ -45,14 +45,16 @@ Puhuja 0: Miksi? Aivan erinomaista. Detaljeja detaljeja, spesifiteettiä.
 Puhuja 0: Tietysti, joiden audiassa on erittäin tärkeää, että ne asiat, mitä sanotaan, on
 Puhuja 0: visualisoitavissa
 Puhuja 3: ihmisten päissä. No mun mielestä, koska nyt on syyslomaviikko ja aika monet kollegat on lomalla, niin mielestäni toimituksessa on kiva, mutta tämä on tosi paljon vapaita paikkoja. Aa niin, aivan totta.
-Puhuja 3: Meidän toimitustilat on vuosia saatossa likistyneitä jo pian. Niin kuin meillä nykyään on omia paikkoja, pitää istua siellä mihin kerkeää. Se on
+Puhuja 3: Meidän toimitustilat on vuosia saatossa likistyneitä jo pian. Niin kuin meillä nykyään on omia paikkoja, pitää istua siellä mihin kerkiä. Se on
 Puhuja 3: harmittavaa, jos ei saa hyvää paikkaa. Mutta nyt saa helpommin.
 Puhuja 0: Mutta meillä on ilo
 Puhuja 0: ja kunnia, että meillä on paikalla täällä
 Puhuja 0: kerrankin asiantuntemusta.
 Puhuja 0: Nimittäin
 Puhuja 0: Teemu Muhonen Helsingin Sanomien
-Puhuja 0: kenties talous ymmärtäväisin
+Puhuja 0: kenties
+Puhuja 0: talous
+Puhuja 0: ymmärtäväisin
 Puhuja 0: toimittaja.
 Puhuja 0: Hei vaan Teemu. No, moi.
 Puhuja 0: Ja syy, miksi Teemu olet täällä paikalla ja riensit
@@ -175,7 +177,7 @@ Puhuja 0: koska Petteri
 Puhuja 0: Orpo vaikuttaa jotenkin niin
 Puhuja 0: keskimaltilliselta
 Puhuja 0: ja niin perus
-Puhuja 0: poliisille. No siitä kirjassa Mä en sytytä liekkiin juuri ketään. Mutta silti hän tämmöisellä jatkuvasti vaan menee eteenpäin ja toteuttaa, toteuttaa, toteuttaa, toteuttaa. Voittaa itse asiassa kaikki vaalit,
+Puhuja 0: poliisille. No siitä kirjassa... Mä en sytytä liekkiin juuri ketään. Mutta silti hän tämmöisellä jatkuvasti vaan menee eteenpäin ja toteuttaa, toteuttaa, toteuttaa, toteuttaa. Voittaa itse asiassa kaikki vaalit,
 Puhuja 0: mitä eteen tulee, paitsi oliko viime joku aluevaali, ei ollut ihan nyt täysi menneestä. Voitte sanoa
 Puhuja 3: eduskuntavaalit, mutta
 Puhuja 3: niin, kuntaaluevaaleissa kokoomuksen Kokoomus.
@@ -231,12 +233,13 @@ Puhuja 0: Okei,
 Puhuja 0: tota, tää on nyt täysin brändä tähän loppuun, mutta onko teillä eKirjastosovellus
 Puhuja 0: käytössä?
 Puhuja 0: Mikä?
-Puhuja 0: E-kirjasto. Ei. Se on kansallisarkiston
+Puhuja 0: E-kirjasto. Ei. Se on kansallisarkiston...
 Puhuja 0: Ei kun siis anteeksi, kansalliskirjaston
 Puhuja 0: ja ilmeisesti Suomen kirjastojen ylläpitämä
 Puhuja 0: siis appi,
 Puhuja 0: jonka sä saa kännykkään ja sitten sä saat sinne krekattua näillä pankkitunnuksilla ja muilla, että kuka sä olet.
-Puhuja 0: Sieltä se on ihan toimiva ja sä voit varata sieltä, että haluan kuunnella vaikka tämän Teemuluokan kirjan. Ja sitten sä menet jonoon ja se ilmoittaa sulle, että okei, nyt on sun vuoro kuunnella tää Teemu Luukan kirja. Se on täysin ilmainen ja se on
+Puhuja 0: Sieltä se on ihan toimiva ja sä voit varata sieltä, että haluan kuunnella vaikka tämän Teemuluokan kirjan.
+Puhuja 0: Sitten sä menet jonoon ja se ilmoittaa sulle, että okei, nyt on sun vuoro kuunnella tää Teemu Luukan kirja. Se on täysin ilmainen ja se on
 Puhuja 0: kirjastotoiminnan
 Puhuja 0: jatke.
 Puhuja 0: Mä en tiennyt, että tämmöinen appi on olemassa.
@@ -285,13 +288,13 @@ Puhuja 0: kun on sellainen vanhan liiton toimittaja,
 Puhuja 0: ollut tosiaan todella pitkään uran tehnyt Hesarissa. Hän on ollut kulttuuritoimituksen
 Puhuja 0: päällikkö joskus. Ei ollut tai muuta. Ei ollut, mutta kunta. Hän oli
 Puhuja 3: talouden
-Puhuja 3: uutispäällikkö ja nyt siis palkkasi mut aikoinaan Hesadiin. Hän on yksi keskeisiä suomalaisia
+Puhuja 3: uutispäällikkö ja nyt siis palkkasi mut aikoinaan Hesariin. Hän on yksi keskeisiä suomalaisia
 Puhuja 0: New Yorkin tuntioita. Hän on kirjoittanut monta
 Puhuja 2: kirjaa. No yhden kirjan.
 Puhuja 2: Mutta
 Puhuja 2: olin puhumassa tästä, koska
 Puhuja 2: Teemu on myös siis mieletön ravintolakriitikko
-Puhuja 2: ja sitten mullakin on ollut silloin, kun muutin New Yorkiin, niin sain Teemulta
+Puhuja 2: ja sitten minullakin on ollut silloin, kun muutin New Yorkiin, niin sain Teemulta
 Puhuja 2: Tästä tuli nyt tällainen Teemu suositus, mutta myös se edellinen kirja New Yorkin uhmatar, joka kertoi tällaisesta
 Puhuja 2: amerikansuomalaista
 Puhuja 2: baarinpitäjästä,
@@ -369,7 +372,7 @@ Puhuja 0: jollekin näin.
 Puhuja 0: Se historia ei ole niin kaukana kuin mä luulen. Se säteilee
 Puhuja 0: aika äkkiä niiden sukupolvien läpi.
 Puhuja 0: Jes. Ai niin, sitten se olikin mun vuoro. Mitä mä tässä avaan?
-Puhuja 0: Hei, mä haluan sanoa semmoisen, tää on hauska random asia, ei liity mihinkään. Mutta kun mä olen mennyt takaisin opiskelemaan
+Puhuja 0: Hei, mä haluan sanoa semmoisen, kun tää on hauska random asia, ei liity mihinkään. Mutta kun mä olen mennyt takaisin opiskelemaan
 Puhuja 0: ja mä suoritan nyt tilastotieteen peruskurssia,
 Puhuja 0: joka jäi kaksituhatta
 Puhuja 0: kahdeksan kesken.

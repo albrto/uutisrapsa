@@ -6,25 +6,24 @@ Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi suurvaltapolitiikassa.
-Puhuja 0: Maailma on muuttunut tavalla,
-Puhuja 0: jota tuskin
-Puhuja 0: kukaan osasi ennakoida.
+Puhuja 1: Maailma on muuttunut tavalla,
+Puhuja 1: jota tuskin
+Puhuja 1: kukaan osasi ennakoida.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis se ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.
-Puhuja 1: Helsingin
-Puhuja 2: Sanomat.
+Puhuja 2: Helsingin
+Puhuja 3: Sanomat.
 Puhuja 0: Hei ja tervetuloa Helsingin Sanomien uutisraportti podcastiin torstaina
 Puhuja 0: kahdeksantoista.
-Puhuja 0: Päivä joulukuuta vuonna kaksituhatta kaksikymmentäviisi. Mun nimi on
-Puhuja 0: nimi on Thomas Petungia Kanssani täällä Helsingin Sanomien podcast studiossa vielä kerran ennen joulua
+Puhuja 0: Päivä joulukuuta vuonna kaksituhatta kaksikymmentäviisi. Mun nimi on nimi on Thomas Petungia Kanssani täällä Helsingin Sanomien podcast studiossa vielä kerran ennen joulua
 Puhuja 0: ovat
 Puhuja 0: Helsingin Sanomien tutkivien
 Puhuja 0: juttujain
 Puhuja 0: pää
 Puhuja 0: hefe
 Puhuja 0: Salla Vuoikoski. Hei vaan
-Puhuja 2: Salla. Heippa.
+Puhuja 3: Salla. Heippa.
 Puhuja 0: Lisäksi myös
 Puhuja 0: paikalla on
 Puhuja 0: politiikkaa
@@ -38,26 +37,26 @@ Puhuja 0: johtuen siitä, että on
 Puhuja 0: kiireiset joulunalusviikot,
 Puhuja 0: mekin
 Puhuja 0: kannatan tässä tehokkuutta ja olemme typistäneet aihevalikoimamme yhtä.
-Puhuja 4: Vaihd korostaa, että nimenomaan ei sen takia, että tää olisi niin iso ja merkittävä aihe.
+Puhuja 5: Vaihd korostaa, että nimenomaan ei sen takia, että tää olisi niin iso ja merkittävä aihe.
 Puhuja 0: Se on ihan sama kuin nimenomaan värmää. Sen takia tätä on niin iso ja merkittävä aihe. Että me halutaan paisuttaa tätä.
 Puhuja 0: Nimittäin tällä viikolla
 Puhuja 0: keskustellaan
 Puhuja 0: Miss-Suomen
 Puhuja 0: Snapchat-postauksesta
 Puhuja 0: lähteneestä
-Puhuja 2: Mikä tämän kohun nimi on? Eikö se ollut se hänen ystävänsä
-Puhuja 2: postaus, johon
-Puhuja 2: Mutta usein on se, että kun
-Puhuja 2: joku termi vakiintuu mediaan, on se sitten mikä hyvänsä,
-Puhuja 2: niin sitten sitä ei pysty muuttamaan. Se on se. Se on silmien venytys.
+Puhuja 3: Mikä tämän kohun nimi on? Eikö se ollut se hänen ystävänsä
+Puhuja 3: postaus, johon
+Puhuja 3: Mutta usein on se, että kun
+Puhuja 3: joku termi vakiintuu mediaan, on se sitten mikä hyvänsä,
+Puhuja 3: niin sitten sitä ei pysty muuttamaan. Se on se. Se on silmien venytys.
 Puhuja 0: Mutta ei kukaan ikinä Suomen historiassa puhunut silmien venyttämisestä.
 Puhuja 0: Tulee mieleen, että otetaan silmän mun alta kiinni ja sinne venytetään
 Puhuja 0: neuvoa.
-Puhuja 2: Siinä on varmaan haettu jotain semmoista, että
-Puhuja 2: käytetään sellaista
-Puhuja 2: kuvaavaa, mutta jotenkin asiallista
-Puhuja 2: hyvin konkreettista, että mitä siinä kuvassa
-Puhuja 2: tapahtuu. Sitten on päädytty tämmöiseen. Varmaan sen on joku meillä keksinyt.
+Puhuja 3: Siinä on varmaan haettu jotain semmoista, että
+Puhuja 3: käytetään sellaista
+Puhuja 3: kuvaavaa, mutta jotenkin asiallista
+Puhuja 3: hyvin konkreettista, että mitä siinä kuvassa
+Puhuja 3: tapahtuu. Sitten on päädytty tämmöiseen. Varmaan sen on joku meillä keksinyt.
 Puhuja 0: Tai iltapäivälehdet on kyllä.
 Puhuja 0: Aika lailla omalla tontillaan näissä sanojen keksimisessä.
 Puhuja 0: Selkeästi en ole törmännyt tähän, kuka ikinä onkaan keksinyt,
@@ -67,144 +66,143 @@ Puhuja 0: niillä totutuilla fraaseilla, mitä tässä elein toistetaan,
 Puhuja 0: tultaisiin toistaneeksi
 Puhuja 0: niitä rasistisia
 Puhuja 0: stereotypioita.
-Puhuja 2: Pieni rönsy sallita. Oletteko joskus keksineet
-Puhuja 2: yleiseen
-Puhuja 2: uutiskieleen
+Puhuja 3: Pieni rönsy sallita. Oletteko joskus keksineet
+Puhuja 3: yleiseen
+Puhuja 3: uutiskieleen
 Puhuja 0: edes vähäksi aikaa, jonkun termin? Minkä? Mä olen keksinyt ala-asteen kolmannella luokalla välitunnilla sanan flera.
 Puhuja 0: En
-Puhuja 4: ole ikinä vetänyt, kun tämä on kumotunut moneen kertaan.
+Puhuja 5: ole ikinä vetänyt, kun tämä on kumotunut moneen kertaan.
 Puhuja 0: Joku muu on myös 60-luvulla
 Puhuja 0: Helsingissä keksinyt sen, mutta mä olen keksinyt sen lisäksi.
-Puhuja 2: Entäs Marko?
-Puhuja 3: En vain keksinyt varmaan mitään. Kateellisena näinhän se on
-Puhuja 3: seksihelleenä, kaikki termejä. Ne on klassikoita, en ole keksinyt mitään. Mä olen keksinyt. Tämä oli urani huippuhetki.
-Puhuja 2: Kun me tutkimme Teuvo Hakkareaisen
-Puhuja 2: Europarlamentti aktiivisuutta
-Puhuja 2: ja sitten oikein pohjamultia myöten vedettiin, kun hänellä oli tietyt väitteet, niin me halusimme tutkia pitääkö se paikkansa.
-Puhuja 2: Hän esitti tällaisen, että hän ei ole pystynyt oikein tekemään kaikkea sitä työtä siellä kunnolla, koska hänellä on niin paljon näitä matkoja tänne Latinalaiseen Amerikkaan.
-Puhuja 2: Ja sitten yritin otsikkoa sitä muotoilla, että Teuvo Hakkarainen selittää
-Puhuja 2: tätä tilannetta.
-Puhuja 2: Se on hirmu pitkä asia. Niin sitten laitoin Latinokiireillä.
-Puhuja 2: Ja
-Puhuja 2: seuraavan lauantain
-Puhuja 2: Jukka Lindströmin
-Puhuja 2: kovan viikon
-Puhuja 3: Toki on lähellä. Ei Tokiossa, mutta toki on kupeessa olevassa isossa
-Puhuja 3: yliopistossa.
-Puhuja 3: Japanissa on pieni kourallinen Pohjoismaita
-Puhuja 3: ja
-Puhuja 3: Suomea tutkivia ja tuntevia yhteiskuntatieteilijöitä. Hän on yksi niistä. Itse asiassa tässä
-Puhuja 3: tuntemia yhteiskuntatieteilijöitä. Hän on yksi niistä ja itse asiassa meidän Poddissa mainostin.
-Puhuja 3: Hänelle tuli yhteistyöstä suomalaisten tutkijoiden kanssa tehty kirja joskus
-Puhuja 3: viime
-Puhuja 3: alkusyksystä.
-Puhuja 3: Siinä olikin
-Puhuja 3: sitä juontamassa heidän julkkaritilaisuuttaan.
+Puhuja 3: Entäs Marko?
+Puhuja 4: En vain keksinyt varmaan mitään. Kateellisena näinhän se on
+Puhuja 4: seksihelleenä, kaikki termejä. Ne on klassikoita, en ole keksinyt mitään. Mä olen keksinyt. Tämä oli urani huippuhetki.
+Puhuja 3: Kun me tutkimme Teuvo Hakkareaisen
+Puhuja 3: Europarlamentti aktiivisuutta
+Puhuja 3: ja sitten oikein pohjamultia myöten vedettiin, kun hänellä oli tietyt väitteet, niin me halusimme tutkia pitääkö se paikkansa.
+Puhuja 3: Hän esitti tällaisen, että hän ei ole pystynyt oikein tekemään kaikkea sitä työtä siellä kunnolla, koska hänellä on niin paljon näitä matkoja tänne Latinalaiseen Amerikkaan.
+Puhuja 3: Ja sitten yritin otsikkoa sitä muotoilla, että Teuvo Hakkarainen selittää
+Puhuja 3: tätä tilannetta.
+Puhuja 3: Se on hirmu pitkä asia. Niin sitten laitoin Latinokiireillä.
+Puhuja 3: Ja
+Puhuja 3: seuraavan lauantain
+Puhuja 3: Jukka Lindströmin
+Puhuja 3: kovan
+Puhuja 3: viikon...
+Puhuja 4: Toki on lähellä. Ei Tokiossa, mutta toki on kupeessa olevassa isossa
+Puhuja 4: yliopistossa.
+Puhuja 4: Japanissa on pieni kourallinen Pohjoismaita
+Puhuja 4: ja
+Puhuja 4: Suomea tutkivia ja tuntevia yhteiskuntatieteilijöitä. Hän on yksi niistä. Itse asiassa tässä
+Puhuja 4: tuntemia yhteiskuntatieteilijöitä. Hän on yksi niistä ja itse asiassa meidän Poddissa mainostin.
+Puhuja 4: Hänelle tuli yhteistyöstä suomalaisten tutkijoiden kanssa tehty kirja joskus
+Puhuja 4: viime alkusyksystä.
+Puhuja 4: Siinä olikin
+Puhuja 4: sitä juontamassa heidän julkkaritilaisuuttaan.
 Puhuja 0: Hän on kiva tyyppi tuntea Suomen. Ja hän on tällä viikolla ollut tosi paljon Japanin
-Puhuja 3: mediassa esillä. Joo, hän oli ilmeisesti Japanin aikaa tänä aamuna
-Puhuja 3: AM-TV:ssä
-Puhuja 3: ajelittelemassa tätä.
+Puhuja 4: mediassa esillä. Joo, hän oli ilmeisesti Japanin aikaa tänä aamuna
+Puhuja 4: AM-TV:ssä
+Puhuja 4: ajelittelemassa tätä.
 Puhuja 0: Joten me päätettiin, että me nyt soitetaan tälle Juricolle.
-Puhuja 4: Hello, Jurico Shipbajama! New workast the assistent Professor. Is it right In the Chaphenese University? It's
-Puhuja 1: is associate professor,
-Puhuja 4: yes. And you teach and study their
-Puhuja 4: Finland and Nordic
-Puhuja 4: history and
-Puhuja 4: societes and stuff, don't
-Puhuja 1: you? I say do I'm a social feen this and have coopered a social policy history
-Puhuja 1: and poliitics as species
-Puhuja 1: of Finland and NOdy countries.
-Puhuja 4: Jes. And you are specially interesteed
-Puhuja 4: in Kela.
-Puhuja 4: Kela
-Puhuja 4: and the
-Puhuja 4: Central Partcy!
-Puhuja 1: That
-Puhuja 1: has been kind of newicinece
-Puhuja 1: of Finland.
-Puhuja 1: Vig difference from Naeighor country Sweeden.
-Puhuja 1: I have followed about Kela, and Kela
-Puhuja 1: esports researchhip, work
-Puhuja 1: about years now.
-Puhuja 4: What the unfortunately,
-Puhuja 4: we
-Puhuja 4: are not going to tal about the kela today.
-Puhuja 4: Sorey
-Puhuja 4: about that.
-Puhuja 1: I wow years, but you have all the that newes, but good that can be later. We here
-Puhuja 4: lately.
-Puhuja 4: Yes.
-Puhuja 4: Yes.
-Puhuja 4: How big is sanddal
-Puhuja 4: in Chapan right now? It is like everybody stoking about it?
-Puhuja 1: Full,
-Puhuja 1: it maybe not body things, but quite many people.
-Puhuja 1: It sins may be this week some major Newspear roa bardy
-Puhuja 1: and share the news online.
-Puhuja 1: And
-Puhuja 1: maybe tove program
-Puhuja 1: that has more like a peaker impact,
-Puhuja 1: started broadcastting it.
-Puhuja 1: Buther their that may be more than that social mediatraffic
-Puhuja 1: has been vysy and then
-Puhuja 1: the
-Puhuja 1: newpear started the bic
-Puhuja 1: up now.
-Puhuja 4: Yes.
-Puhuja 4: How serious de
-Puhuja 4: scandel is in
-Puhuja 4: your eise?
-Puhuja 1: Hello very difficult
-Puhuja 1: to say.
-Puhuja 1: Care-to-Guch,
-Puhuja 1: and
-Puhuja 1: begatention,
-Puhuja 1: and
-Puhuja 1: begatention.
-Puhuja 1: I can see some people
-Puhuja 1: a shoked new
-Puhuja 1: happy,
-Puhuja 1: bith
-Puhuja 1: anger as well.
-Puhuja 1: And maybe
-Puhuja 1: the kind a problem all the these gunder vari is aletherbit
-Puhuja 1: here and there of course discrimination
-Puhuja 1: is pick thing,
-Puhuja 1: and kind of visal impact of a ticture is really strong on Tivi.
-Puhuja 1: And maybe because we
-Puhuja 1: don't knowknow do now
-Puhuja 1: or
-Puhuja 1: the Finnish poliitics that much,
-Puhuja 1: The shoking party is that the Parodement member
-Puhuja 1: has thand this kind of things. We we can of things, but is public persons,
-Puhuja 1: and can bear important that we represent the country.
-Puhuja 1: That was kind of shoking the thing and possibley
-Puhuja 1: little bit to understand
-Puhuja 1: why it has happened. That's why
-Puhuja 1: anksjus and
-Puhuja 1: interest increest gaining
-Puhuja 2: chain,
-Puhuja 2: that an Emp
-Puhuja 2: in Chapaan.
-Puhuja 2: Or act like that in
-Puhuja 2: public?
-Puhuja 1: I don't know about yester
-Puhuja 1: much, but also we have a published party,
-Puhuja 1: and
-Puhuja 1: there are some kind of trapo som Balticons
-Puhuja 1: among them, and they kind of be
-Puhuja 1: produce the news briiti of thing.
-Puhuja 1: May be we didn't experct that kind of things from other country toures a yeartoures
-Puhuja 1: jopan.
-Puhuja 1: A specif Finland has been
-Puhuja 1: gained very good imag in jopan.
-Puhuja 1: Yes the gap has been very deck.
-Puhuja 1: I don't know it happened in us. I don't, if it happened in us, I don't know how much it maheter huge impact
-Puhuja 1: but it came from Finland,
-Puhuja 1: which very good
-Puhuja 1: imag.
-Puhuja 1: And been bugkrush
-Puhuja 1: all are the country.
+Puhuja 5: Hello, Jurico Shipbajama! New workast the assistent Professor. Is it right In the Chaphenese University? It's is
+Puhuja 2: associate professor,
+Puhuja 5: yes. And you teach and study their
+Puhuja 5: Finland and Nordic
+Puhuja 5: history and
+Puhuja 5: societes and stuff, don't
+Puhuja 2: you? I say do I'm a social feen this and have coopered a social policy history
+Puhuja 2: and poliitics as species
+Puhuja 2: of Finland and NOdy countries.
+Puhuja 5: Jes. And you are specially interesteed
+Puhuja 5: in Kela.
+Puhuja 5: Kela
+Puhuja 5: and the
+Puhuja 5: Central Partcy!
+Puhuja 2: That
+Puhuja 2: has been kind of newicinece
+Puhuja 2: of Finland.
+Puhuja 2: Vig difference from Naeighor country Sweeden.
+Puhuja 2: I have followed about Kela, and Kela esports research waseep
+Puhuja 2: for about years now.
+Puhuja 5: What the unfortunately,
+Puhuja 5: we
+Puhuja 5: are not going to tal about the kela today.
+Puhuja 5: Sorey
+Puhuja 5: about that.
+Puhuja 2: I wow years, but you have all the that newes, but good that can be later. We here
+Puhuja 5: lately.
+Puhuja 5: Yes.
+Puhuja 5: Yes.
+Puhuja 5: How big is sanddale
+Puhuja 5: in Chapan right now? It is like everybody stoking about it?
+Puhuja 2: Full,
+Puhuja 2: it maybe not body things, but quite many people.
+Puhuja 2: It sins may be this week some major Newspear roa bardy
+Puhuja 2: and share the news online.
+Puhuja 2: And
+Puhuja 2: maybe tove program
+Puhuja 2: that has more like a peaker impact,
+Puhuja 2: started broadcastting it.
+Puhuja 2: Buther their that may be more than that social mediatraffic
+Puhuja 2: has been vysy and then
+Puhuja 2: the
+Puhuja 2: newpear started the bic
+Puhuja 2: up now.
+Puhuja 5: Yes.
+Puhuja 5: How serious de
+Puhuja 5: scandel is in
+Puhuja 5: your eise?
+Puhuja 2: Hello very difficult
+Puhuja 2: to say.
+Puhuja 2: Care-to-Guch,
+Puhuja 2: and
+Puhuja 2: begatention,
+Puhuja 2: and
+Puhuja 2: begatention.
+Puhuja 2: I can see some people
+Puhuja 2: a shoked new
+Puhuja 2: happy,
+Puhuja 2: bith
+Puhuja 2: anger as well.
+Puhuja 2: And maybe
+Puhuja 2: the kind a problem all the these gunder vari is aletherbit
+Puhuja 2: here and there of course discrimination
+Puhuja 2: is pick thing,
+Puhuja 2: and kind of visal impact of a ticture is really strong on Tivi.
+Puhuja 2: And maybe because we
+Puhuja 2: don't knowknow do now
+Puhuja 2: or
+Puhuja 2: the Finnish poliitics that much,
+Puhuja 2: The shoking party is that the Parodement member
+Puhuja 2: has thand this kind of things. We we can of things, but is public persons,
+Puhuja 2: and can bear important that we represent the country.
+Puhuja 2: That was kind of shoking the thing and possibley
+Puhuja 2: little bit to understand
+Puhuja 2: why it has happened. That's why
+Puhuja 2: anksjus and
+Puhuja 2: interest increest gaining
+Puhuja 3: chain,
+Puhuja 3: that an Emp
+Puhuja 3: in Chapaan.
+Puhuja 3: Or act like that in
+Puhuja 3: public?
+Puhuja 2: I don't know about yester
+Puhuja 2: much, but also we have a published party,
+Puhuja 2: and
+Puhuja 2: there are some kind of trapo som Balticons
+Puhuja 2: among them, and they kind of be
+Puhuja 2: produce the news briiti of thing.
+Puhuja 2: May be we didn't experct that kind of things from other country toures a yeartoures
+Puhuja 2: jopan.
+Puhuja 2: A specif Finland has been
+Puhuja 2: gained very good imag in jopan.
+Puhuja 2: Yes the gap has been very deck.
+Puhuja 2: I don't know it happened in us. I don't, if it happened in us, I don't know how much it maheter huge impact
+Puhuja 2: but it came from Finland,
+Puhuja 2: which very good
+Puhuja 2: imag.
+Puhuja 2: And been bugkrush
+Puhuja 2: all are the country.
 Puhuja 0: Kind of make the news?
 Puhuja 0: How they make media splashes?
 Puhuja 0: So is the wow in Jepan that
@@ -215,81 +213,83 @@ Puhuja 0: that
 Puhuja 0: is it is you here? It is the populared 1 or the large
 Puhuja 0: poliitics
 Puhuja 0: 1?
-Puhuja 1: Lother
-Puhuja 1: work is more strongs now.
-Puhuja 1: For my
-Puhuja 1: research and specially is its tried to nation discess from Finnspordy
-Puhuja 1: through feens, but most of other don't know about it.
-Puhuja 1: We here,
-Puhuja 1: we don't have that culture
-Puhuja 1: that government colliition or government party includes published party.
-Puhuja 1: It's it come from
-Puhuja 1: colliition
-Puhuja 1: party,
-Puhuja 1: maybe
-Puhuja 1: people thing that more mojority
-Puhuja 1: voi
-Puhuja 1: I think
-Puhuja 1: the people who understans that it comes from Finnish populist party
-Puhuja 4: is very, very small num number. Yes. If I go back a bit like the use said earlier that there
-Puhuja 4: chapenese
-Puhuja 4: you like us Fins. And us fins we are like you chapenese.
-Puhuja 4: And the
-Puhuja 4: relationship between the Cherpen and
-Puhuja 4: Finland has alwes been good and the and the Cherdy nice people you like mumies and you like callwaralto and
-Puhuja 4: because
-Puhuja 4: some kind of their
-Puhuja 4: architecture
-Puhuja 4: estäts extchics and that is the
-Puhuja 4: the Finland and Chapan
-Puhuja 4: has been so closes and that's the reason the Chapanis are so so shoked about this skandal.
-Puhuja 1: The
-Puhuja 1: is
-Puhuja 1: some kind of years. I could say, there has been cupup of players. Some people who do like Finland and dou understand Finnish culture more. There are shockt. Product don't want to see this kind of these krimin'remenation
-Puhuja 1: or this kind of mews from Finlands.
-Puhuja 1: The some
-Puhuja 1: kind of the groups who will have a huge moblication
-Puhuja 1: for the great, they'll not
-Puhuja 1: about Finland bliefely
-Puhuja 1: and maded as country or good education, good wellher,
-Puhuja 1: but not that much having information of Finland.
-Puhuja 1: Then
-Puhuja 1: they were
-Puhuja 1: in the shoked differently,
-Puhuja 1: they will be that they image and the reality has a big jäb.
-Puhuja 2: What does it matter that
-Puhuja 2: our primeister
-Puhuja 2: Petteri Orpo has already apologised
-Puhuja 2: and that statement has been published on the Empasyes
-Puhuja 2: count I think in social media.
-Puhuja 2: Is it meetingful?
-Puhuja 1: Yes, I think lång term
-Puhuja 1: somebody has appropjo yzed and especially priminister
-Puhuja 1: has
-Puhuja 1: pick meeting and good meeting. I would like to believe.
-Puhuja 1: But some ex tent
-Puhuja 1: that maded new a little bit pigar. Okay, Preminister has a process that is ready but used are very but used are have say, cirous new incleition.
-Puhuja 1: But I think,
-Puhuja 1: always Finland was very could that, very
-Puhuja 1: farst and very couldble.
-Puhuja 1: So I in the end it was could. But of coulds, there are more new is awards of whatever with
-Puhuja 4: the
-Puhuja 4: theipen and Finland for longer term?
-Puhuja 1: Well,
-Puhuja 1: I don't say it is the 0 the managemen.
-Puhuja 1: But again this is different group of people
-Puhuja 1: will have a different reaction.
-Puhuja 1: So by now may be findhan hearts aleta bits book toget
-Puhuja 1: toget. May be betterhan
-Puhuja 1: it is
-Puhuja 1: behavi and the behavi and the behavi and the
-Puhuja 2: behavi and
-Puhuja 4: the behavi
-Puhuja 4: care and happyer things like Kela and
-Puhuja 4: keskusta.
-Puhuja 2: Eros so nice so
-Puhuja 2: nice toking to you. I was sin Chaphan in Tokyoy and Åcky Navalast someer and water a wanderful country, I love you! Thank you! Thank you! Thank you! Thank you! Thank
-Puhuja 4: Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Sitten
+Puhuja 2: Lother
+Puhuja 2: work is more strongs now.
+Puhuja 2: For my
+Puhuja 2: research and specially is its tried to nation discess from Finnspordy
+Puhuja 2: through feens, but
+Puhuja 2: most of other don't know about it.
+Puhuja 2: We here,
+Puhuja 2: we don't have that culture
+Puhuja 2: that government colliition or government party includes published party.
+Puhuja 2: It's it come from
+Puhuja 2: colliition
+Puhuja 2: party,
+Puhuja 2: maybe
+Puhuja 2: people thing that more mojority
+Puhuja 2: voi
+Puhuja 2: I think
+Puhuja 2: the people who understans that it comes from Finnish populist party
+Puhuja 5: is very, very small num number. Yes. If I go back a bit like the use said earlier that there
+Puhuja 5: chapenese
+Puhuja 5: you like us Fins. And us fins we are like you chapenese.
+Puhuja 5: And the
+Puhuja 5: relationship between the Cherpen and
+Puhuja 5: Finland has alwes been good and the and the Cherdy nice people you like mumies and you like callwaralto and
+Puhuja 5: because
+Puhuja 5: some kind of their
+Puhuja 5: architecture
+Puhuja 5: estäts extchics and that is the
+Puhuja 5: Finland chapen
+Puhuja 5: has been so closes and that's the reason the chapenis are so so shockked about this skandal.
+Puhuja 2: The
+Puhuja 2: is
+Puhuja 2: some kind of years. I could say, there has been cupup of players. Some people who do like Finland and dou understand Finnish culture more. There are shockt. Product don't want to see this kind of these krimin'remenation
+Puhuja 2: or this kind of mews from Finlands.
+Puhuja 2: The some
+Puhuja 2: kind of the groups who will have a huge moblication
+Puhuja 2: for the great, they'll not
+Puhuja 2: about Finland bliefely
+Puhuja 2: and maded as country or good education, good wellher,
+Puhuja 2: but not that much having information of Finland.
+Puhuja 2: Then
+Puhuja 2: they were
+Puhuja 2: in the shoked differently,
+Puhuja 2: they will be that they image and the reality has a big jäb.
+Puhuja 3: What does it matter that
+Puhuja 3: our primeister
+Puhuja 3: Petteri Orpo has already apologised
+Puhuja 3: and that statement has been published on the Empasyes
+Puhuja 3: count I think in social media.
+Puhuja 3: Is it meetingful?
+Puhuja 2: Yes, I think lång term
+Puhuja 2: somebody has appropjo yzed and especially priminister
+Puhuja 2: has
+Puhuja 2: pick meeting and good meeting. I would like to believe.
+Puhuja 2: But some ex tent
+Puhuja 2: that maded new a little bit pigar. Okay, Preminister has a process that is ready but used are very but used are have say, cirous new incleition.
+Puhuja 2: But I think,
+Puhuja 2: always Finland was very could that, very
+Puhuja 2: farst and very couldble.
+Puhuja 2: So I in the end it was could. But of coulds, there are more new is awards of whatever with
+Puhuja 5: the
+Puhuja 5: theipen and Finland for longer term?
+Puhuja 2: Well,
+Puhuja 2: I don't say it is the 0 the managemen.
+Puhuja 2: But again this is different group of people
+Puhuja 2: will have a different reaction.
+Puhuja 2: So by now may be findhan hearts aleta bits book toget
+Puhuja 2: toget. May be betterhan
+Puhuja 2: it is
+Puhuja 2: behavi and the behavi and the behavi and the
+Puhuja 3: behavi and
+Puhuja 5: the behavi
+Puhuja 5: niceer and happyer things like Kela and keskusta. Jee!
+Puhuja 3: Edes! Edos so
+Puhuja 3: nice toking to you. I was sin Chap and
+Puhuja 3: Toky knowwaware.
+Puhuja 3: And water a wanderful country, I love you! Thank you! Thank you! That's a lot.
+Puhuja 5: Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Sitten
 Puhuja 0: kun
 Puhuja 0: lähdette tästä
 Puhuja 0: tällä viikolla osa meistä, kuten minä,
@@ -305,85 +305,86 @@ Puhuja 0: Svenskateatteria,
 Puhuja 0: mistäs
 Puhuja 0: tulee enemmän joulutunnelmaa mennä sinne
 Puhuja 0: Svenskateatteriin
-Puhuja 0: ja ottaa glökit.
-Puhuja 0: Istutte siihen glögien. Ja sitten siellä on kauniita
-Puhuja 0: typyjä
+Puhuja 0: ja ottaa
+Puhuja 0: glökit. Istutte siihen glögien. Ja sitten siellä on
+Puhuja 0: kauniita typyjä
 Puhuja 0: ja yhdeksänkymmentä vuotta koittaa
-Puhuja 0: suomenruotsalaisia miljoonan
-Puhuja 2: ja meidän kuulijoissa on varmaan paljon valkokaulustyöntekijöitä,
-Puhuja 2: niin kuin mekin olemme. Istutaan koneen ääressä ja nakutetaan, joskus saatetaan jopa soittaa joku puhelu. Mutta tehdään tällaista
-Puhuja 2: aivoja rassaavaa työtä
-Puhuja 2: ja katsotaan jodelia ja kaikkea
-Puhuja 2: soopaani.
-Puhuja 2: Mulla olisi nyt semmoinen suositus, että älkää ottako nyt mitään kirjoja ja elokuvia ja muuta, vaan katsokaa siellä himassa, jos on jotain sellaisia asioita, jotka ovat rempallaan
-Puhuja 2: esimerkiksi portaat,
-Puhuja 2: esimerkiksi portaiden maali on tosi kulunut niin kuin meillä oli,
-Puhuja 2: niin
-Puhuja 2: remontoikaa.
-Puhuja 2: Portaiden maalaaminen on semmoista hyvää hommaa, että siinä näkee
-Puhuja 2: ihanasti Tuomas, on mitä sille nyökytellä minulle, kun ymmärrät remontoinnin pointin.
-Puhuja 2: Ihana voi ensin rapsutella,
-Puhuja 2: hioa niitä
-Puhuja 2: ja pestä maalipesulla
-Puhuja 2: ja muuta. Sitten pääsee maalaamaan ja näet heti sen, miten se pinta muuttuu
-Puhuja 2: sellaisesta rupusesta
-Puhuja 2: kauniin valkoiseksi.
-Puhuja 2: Ja se on ihanaa. Ja minun suositukseni on se,
-Puhuja 2: että
-Puhuja 2: teette näin, maalaatte portaat,
-Puhuja 2: jotain muutakin voi tehdä.
-Puhuja 2: Mutta
-Puhuja 2: jos ette pysty olemaan täysin vain sen siinä hetkessä, niin sitten suosittelisin,
-Puhuja 2: että otatte siihen kylkeen kuulokkeet korville ja kuuntelette
-Puhuja 2: Helsingin Sanomien
-Puhuja 2: Amerikka-podin
-Puhuja 2: viimeisimmän jakso, jossa kerrotaan siitä,
-Puhuja 2: mitä kokouksessa,
-Puhuja 2: jossa
-Puhuja 2: Stubb oli paikalla, mikä tämä kokous oli,
-Puhuja 2: missä oli Chhared Cusher
-Puhuja 2: ja Withffit
-Puhuja 2: ja muut.
-Puhuja 2: Suvi Turtiainen kertoo todella hauskasti siinä, että mitä siellä kulisseissa tapahtui
-Puhuja 2: Loistohotellin
-Puhuja 2: Aulabaarissa.
-Puhuja 2: Tämä on suositukseni. Todella hyvä.
-Puhuja 3: No suosittelen, että älkää ruvetko korjaanit Burtiin.
-Puhuja 3: Ei missään nimessä. Mielestäni tuossa on, sanotaan
-Puhuja 3: että koko syksy on hääräastettu ja näpytettyä konetta ja nyt tulee muutama päivä
-Puhuja 3: joulun omaa.
-Puhuja 3: Semmoista nyt herra jumalarootko
-Puhuja 3: sillatko sitä
-Puhuja 3: raapottamalla jotain lakkoja pois portaista.
-Puhuja 2: Mutta ehkä jos
-Puhuja 2: olette sukulaisissa, niin sitten ei välttämättä kannata.
-Puhuja 2: Ja kannattaa ainakin kysyä, että minkä väriset portaat ne haluavat. Mutta joo, jatka. No ei suosittelen, että
-Puhuja 3: älkää
-Puhuja 3: ehkä mitään rempoja just nyt. Ne kannattaa suunnitella tarkkaan ja tehdä sitten joskus on aika ja mahdollisesti käyttää myös
-Puhuja 3: ammattilaista apuna, koska
-Puhuja 3: tarvitaan
-Puhuja 3: kotimainen kulutus taas
-Puhuja 3: nousuun.
-Puhuja 3: Sen voin suositella hyvän kirjan viime yönä loppuun.
-Puhuja 3: Sen nimi on Mississihip
-Puhuja 3: Blue
-Puhuja 3: 42.
-Puhuja 3: Kertoo
-Puhuja 3: jenkkifutiksesta.
-Puhuja 3: Dekkari,
-Puhuja 3: joka sijoittuu tämmöiseen amerikkalaisen
-Puhuja 3: jalkapallolon yliopistosarjoihin.
-Puhuja 3: Todella hienosti kirjoitettu
-Puhuja 3: kirja, jonka on kirjoittanut
-Puhuja 3: ILI KR.
-Puhuja 3: Jos tykkää Jenkkifutiksesta ja dekkareista, suosittelen.
-Puhuja 3: Kannattaa lukea. Älkää koretko niitä portaita.
+Puhuja 0: suomenruotsalaisia
+Puhuja 0: miljoonan
+Puhuja 3: ja meidän kuulijoissa on varmaan paljon valkokaulustyöntekijöitä,
+Puhuja 3: niin kuin mekin olemme. Istutaan koneen ääressä ja nakutetaan, joskus saatetaan jopa soittaa joku puhelu. Mutta tehdään tällaista
+Puhuja 3: aivoja rassaavaa työtä
+Puhuja 3: ja katsotaan jodelia ja kaikkea
+Puhuja 3: soopaani.
+Puhuja 3: Mulla olisi nyt semmoinen suositus, että älkää ottako nyt mitään kirjoja ja elokuvia ja muuta, vaan katsokaa siellä himassa, jos on jotain sellaisia asioita, jotka ovat rempallaan
+Puhuja 3: esimerkiksi portaat,
+Puhuja 3: esimerkiksi portaiden maali on tosi kulunut niin kuin meillä oli,
+Puhuja 3: niin
+Puhuja 3: remontoikaa.
+Puhuja 3: Portaiden maalaaminen on semmoista hyvää hommaa, että siinä näkee
+Puhuja 3: ihanasti Tuomas, on mitä sille nyökytellä minulle, kun ymmärrät remontoinnin pointin.
+Puhuja 3: Ihana voi ensin rapsutella,
+Puhuja 3: hioa niitä
+Puhuja 3: ja pestä maalipesulla
+Puhuja 3: ja muuta. Sitten pääsee maalaamaan ja näet heti sen, miten se pinta muuttuu
+Puhuja 3: sellaisesta rupusesta
+Puhuja 3: kauniin valkoiseksi.
+Puhuja 3: Ja se on ihanaa. Ja minun suositukseni on se,
+Puhuja 3: että
+Puhuja 3: teette näin, maalaatte portaat,
+Puhuja 3: jotain muutakin voi tehdä.
+Puhuja 3: Mutta
+Puhuja 3: jos ette pysty olemaan täysin vain sen siinä hetkessä, niin sitten suosittelisin,
+Puhuja 3: että otatte siihen kylkeen kuulokkeet korville ja kuuntelette
+Puhuja 3: Helsingin Sanomien
+Puhuja 3: Amerikka-podin
+Puhuja 3: viimeisimmän jakso, jossa kerrotaan siitä,
+Puhuja 3: mitä kokouksessa,
+Puhuja 3: jossa
+Puhuja 3: Stubb oli paikalla, mikä tämä kokous oli,
+Puhuja 3: missä oli Chhared Cusher
+Puhuja 3: ja Withffit
+Puhuja 3: ja muut.
+Puhuja 3: Suvi Turtiainen kertoo todella hauskasti siinä, että mitä siellä kulisseissa tapahtui
+Puhuja 3: Loistohotellin
+Puhuja 3: Aulabaarissa.
+Puhuja 3: Tämä on suositukseni. Todella hyvä.
+Puhuja 4: No suosittelen, että älkää ruvetko korjaanit Burtiin.
+Puhuja 4: Ei missään nimessä. Mielestäni tuossa on, sanotaan
+Puhuja 4: että koko syksy on hääräastettu ja näpytettyä konetta ja nyt tulee muutama päivä
+Puhuja 4: joulun omaa.
+Puhuja 4: Semmoista nyt herra jumalarootko
+Puhuja 4: sillatko sitä
+Puhuja 4: raapottamalla jotain lakkoja pois portaista.
+Puhuja 3: Mutta ehkä jos
+Puhuja 3: olette sukulaisissa, niin sitten ei välttämättä kannata.
+Puhuja 3: Ja kannattaa ainakin kysyä, että minkä väriset portaat ne haluavat. Mutta joo, jatka. No ei suosittelen, että
+Puhuja 4: älkää
+Puhuja 4: ehkä mitään rempoja just nyt. Ne kannattaa suunnitella tarkkaan ja tehdä sitten joskus on aika ja mahdollisesti käyttää myös
+Puhuja 4: ammattilaista apuna, koska
+Puhuja 4: tarvitaan
+Puhuja 4: kotimainen kulutus taas
+Puhuja 4: nousuun.
+Puhuja 4: Sen voin suositella hyvän kirjan viime yönä loppuun.
+Puhuja 4: Sen nimi on Mississihip
+Puhuja 4: Blue
+Puhuja 4: 42.
+Puhuja 4: Kertoo
+Puhuja 4: jenkkifutiksesta.
+Puhuja 4: Dekkari,
+Puhuja 4: joka sijoittuu tämmöiseen amerikkalaisen
+Puhuja 4: jalkapallolon yliopistosarjoihin.
+Puhuja 4: Todella hienosti kirjoitettu
+Puhuja 4: kirja, jonka on kirjoittanut
+Puhuja 4: ILI KR.
+Puhuja 4: Jos tykkää Jenkkifutiksesta ja dekkareista, suosittelen.
+Puhuja 4: Kannattaa lukea. Älkää koretko niitä portaita.
 Puhuja 0: Minulle
 Puhuja 0: lähetettiin ihan viesti, jossa muistutettiin, että joulu ei tunnu joululta, ellei uutisraportti-podcastissa
 Puhuja 0: kerrota
 Puhuja 0: joulukiinkun kastikkeen
-Puhuja 2: reseptiä.
-Puhuja 2: Onko tämä joku perintä?
+Puhuja 3: reseptiä.
+Puhuja 3: Onko tämä joku perintä?
 Puhuja 0: Tämä löytyy myös muun muassa mun Instagramista. Mutta
 Puhuja 0: Jos olet sen verran kokkaileva,
 Puhuja 0: että
@@ -411,9 +412,9 @@ Puhuja 0: paistilientä.
 Puhuja 0: Sen jälkeen se maisti oman maun mukaan. Sinne laitetaan kermaa, sinappia, pippuria.
 Puhuja 0: Siinä on yhdessä paketissa kaikki tämmöiset jouluisat maut. Se sopii todella hyvin perunoiden
 Puhuja 0: ja
-Puhuja 2: Kinkun siivoojan kanssa. Onko toi Marko sulle liian puuhastelua myös? Jos remontointi ei käy, niin mites ruoalla?
+Puhuja 3: Kinkun siivoojan kanssa. Onko toi Marko sulle liian puuhastelua myös? Jos remontointi ei käy, niin mites ruoalla?
 Puhuja 0: Olin kokin apuvoikana Oulussa
-Puhuja 0: tämmöinen kartano kuin Rauhala. Siellä on Matti Sotaniemi niminen keittiömestari, joka tämän on siis Kokeilkee joka joulua kertonut tuolla lailla.
+Puhuja 0: tämmöinen kartano kuin Rauhala. Siellä on Matti Sotaniemi niminen keittiömestari, joka tämän on siis... Kokeilkee joka joulua kertonut tuolla lailla.
 Puhuja 0: Ei kuulemma joulutunnu joulun tälleen, ellen kerro.
 Puhuja 0: Siitä vaan, pistäkää vispillä vaan helmaa. Hyvää tulee todella hyvä, paras mahdollinen. Tämä on meidän perheen
 Puhuja 0: joulun kohokohta, että saa
@@ -436,7 +437,7 @@ Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi
 Puhuja 0: suurvaltapolitiikassa.
-Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
+Puhuja 1: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
 Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään kenties maailman ehkä luotaantyöntävintä
 Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui

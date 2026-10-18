@@ -34,11 +34,10 @@ Puhuja 0: abstraktissa bittien avaruudessa
 Puhuja 0: ovat
 Puhuja 0: Helsingin Sanomissa
 Puhuja 0: politiikkaa toimittaa
-Puhuja 0: Marko Junkkari. Hei vaan, Marko. Hesan
+Puhuja 0: Marko Junkkari. Hei vaan Marko. Hesan
 Puhuja 0: Tuomas. Mä kysyn sulta nyt tähän heti alkuun kysymykseen, että kuinka paljon sulla korpesi se, että vaikka oot ikäspolitiikkaa
 Puhuja 0: toimittanut, sinua ei lähetetty Washingtoniin
-Puhuja 0: tänä suurena suomalaisen
-Puhuja 0: politiikan hetken?
+Puhuja 0: tänä suurena suomalaisen politiikan hetken?
 Puhuja 2: Musta oli paljon kivempi, että siellä oli Susanne.
 Puhuja 4: Joka suorastaan työtehtäviinsä
 Puhuja 2: kuuluu olla siellä.
@@ -53,6 +52,7 @@ Puhuja 0: Yhdysvaltain kirjeenvaihtaja Susanna Salmi. Hei vaan Susanna, sinne Yh
 Puhuja 0: No
 Puhuja 5: hyvä taito ja hyvää huomenta täältä. Täällä aurinko juuri nousee Washingtonissa.
 Puhuja 5: Mä haluan sanoa, että mä olisin tosi mielelläni ottanut, Marko, sut, sut tänne työpariksi. En olisi ehkä antanut tätä tehtävää sulle, mutta jos sä
+Puhuja 0: Vuorikoski. Hei vaan.
 Puhuja 0: Okei, tän viikon podcastissa
 Puhuja 0: keskustellaan
 Puhuja 0: koko jäänmurtajaselkkauksesta.
@@ -115,8 +115,7 @@ Puhuja 0: koska keskustapuolue oli kannattanut...
 Puhuja 0: Mitä se oli kannattanut?
 Puhuja 2: Toinen esimerkki taisi olla se,
 Puhuja 2: että Parikkaradion
-Puhuja 2: haastattelussa
-Puhuja 2: vihreiden Sofia Virta
+Puhuja 2: haastattelussa vihreiden Sofia Virta
 Puhuja 2: oli Vilhelm Junnilan perussuomalaisten kansanedustaja siihen paikalleen.
 Puhuja 2: Sofia Virta oli sanonut,
 Puhuja 2: että jotain
@@ -169,7 +168,8 @@ Puhuja 0: Eli agitoida,
 Puhuja 0: haukkua, halventaa,
 Puhuja 0: vitsailla, naljailla,
 Puhuja 0: sanoa tyhmästi, sanoa rumasti.
-Puhuja 0: Sanoa myös suoraan ja kaunistelematta kaunistelematta asiat juuri niin kuin ne on. Tässähän tämä ristiriita on.
+Puhuja 0: Sanoa myös suoraan ja kaunistelematta
+Puhuja 0: kaunistelematta asiat juuri niin kuin ne on. Tässähän tämä ristiriita on.
 Puhuja 2: Näin on, mutta mun mielestä tuo oli itse asiassa
 Puhuja 2: hyvin sanottu. Mun mielestä pointti on ehkä lähinnä se, että
 Puhuja 2: eduskunta kuitenkin edustaa ylintä lainsäädäntövaltaa
@@ -222,11 +222,10 @@ Puhuja 0: Kela-tukien väärinkäyttäjä
 Puhuja 0: ja muslimeista,
 Puhuja 0: kyllähän tulee
 Puhuja 0: vaahtosuista
-Puhuja 0: ylistystä, että nyt olet mies paikalla ja sanot oikein. Sitten jos me aletaan kuvitella, että itse asiassa
+Puhuja 0: ylistystä, että nyt olet mies paikalla ja sanot oikein. Jos me aletaan kuvitella, että itse asiassa
 Puhuja 0: siellä niitä tykkäyksiä on
 Puhuja 0: tuhat, joista puolet on venäläisbotteja.
-Puhuja 0: Sitten siellä on varmaan joku muutaman sadan joukko, jotka on itse asiassa samaa mieltä sun kanssa tai joilla on niin äärimmäinen mielipide.
-Puhuja 0: Mutta ihmisen
+Puhuja 0: Ja sitten siellä on varmaan joku muutaman sadan joukko, jotka on itse asiassa samaa mieltä sun kanssa tai joilla on niin äärimmäinen mielipide. Mutta ihmisen
 Puhuja 0: mieli toimii silleen, että alkaa
 Puhuja 0: ekstrapoloida
 Puhuja 0: siitä eteenpäin,
@@ -370,14 +369,15 @@ Puhuja 0: kaverini
 Puhuja 0: Esan kanssa me käytettiin
 Puhuja 0: oikeastaan kaikki meidän vapaa-aika aina silleen, että me tavattiin jossain ja painettiin metsää. Me vaan käveltiin siellä ja juteltiin.
 Puhuja 0: Siitä lähtien mulla on ollut semmoinen tapa, että kävelen metsissä, siis aivan umpimetsissä.
-Puhuja 0: Se on hirveän miellyttävää ja siellä
+Puhuja 0: Se on hirveän miellyttävää, ja siellä
 Puhuja 0: sielu lepää.
-Puhuja 0: Sitten mun aiemman talon lähellä oli aivan valtavan hieno vanha metsä, missä oli upeita, hienoja puita.
+Puhuja 0: Sitten
+Puhuja 0: mun aiemman talon lähellä oli aivan valtavan hieno vanha metsä, missä oli upeita, hienoja puita.
 Puhuja 0: Mä tykkäsin tosi paljon kävellä siellä
 Puhuja 0: koiran kanssa ja lasten kanssa käydä
-Puhuja 0: eväsretkillä siellä. Semmoinen kuin metsä. Tässä ei mitään coolia, ei mitään
+Puhuja 0: eväsretkillä siellä. Semmoinen kuin metsä. Tässä ei ole mitään coolia, ei mitään
 Puhuja 0: vaeltamista tai samoilua tai mitä vaan
-Puhuja 0: normijäppinen kävelee vähän metsässä. Se on hirveän kiva. Sitten tuossa, mihin mä rakensin mun uuden talon, mä oon vähän harmittanut, kun mä koiran kanssa lähden, siinä ei oikein ole semmoista,
+Puhuja 0: normijäppinen kävelee vähän metsässä. Mutta se on hirveän kiva. Sitten tuossa, mihin mä rakensin mun uuden talon, mä oon vähän harmittanut, kun mä koiran kanssa lähden, siinä ei oikein ole semmoista,
 Puhuja 0: mihin mennä, semmoista luontojuttua,
 Puhuja 0: mihin mennä. Se on vähän niin kuin pururata, mutta
 Puhuja 0: se on liian oikein
@@ -386,7 +386,7 @@ Puhuja 0: se pururata.
 Puhuja 0: Mutta siinä lähellä on, siis ihan lähellä mua kulkee Vantaajoki.
 Puhuja 2: Menetkö suositella Vantaanjokea?
 Puhuja 0: Tavallaan.
-Puhuja 0: Sitten siinä on semmoinen
+Puhuja 0: Siinä on semmoinen
 Puhuja 0: silta, joka menee sen, siis autotiesilta,
 Puhuja 0: joka menee sen Vantaanjoen yli. Ja sitten mä oon vähän katsonut sinne joelle päin. Se näyttää hirveän hienolta. Vantaanjokihan on siis hieno joki. Leveä ja
 Puhuja 0: mutkitteleva ja
@@ -424,9 +424,9 @@ Puhuja 0: Huomaan, että se vaikuttaa johonkin
 Puhuja 0: tunnetilaan tosi vahvasti, että siihen oman kodin lähelle on tullut
 Puhuja 0: oma luontopaikka,
 Puhuja 0: johon voin aina mennä.
-Puhuja 0: Jotain
-Puhuja 0: melkein tuntuu
-Puhuja 0: fyysiseltä.
+Puhuja 0: Siihen
+Puhuja 0: melkein
+Puhuja 0: tuntuu fyysiseltä.
 Puhuja 2: Olen, että kun Hyvinkään kaupungin
 Puhuja 2: pusikkovastaava
 Puhuja 2: kuuntelee nyt, ja

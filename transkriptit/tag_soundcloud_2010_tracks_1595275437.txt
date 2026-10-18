@@ -37,11 +37,14 @@ Puhuja 0: lintujen
 Puhuja 0: ampumiselle.
 Puhuja 0: Tästä aiheesta voisi tietysti keskustella hyvin monesta eri näkökulmasta
 Puhuja 0: esim. Siitä, miten tämä vaikuttaa lintuihin,
-Puhuja 0: miten tämä vaikuttaa turkistarhaukseen ja sit vielä ihmiset
+Puhuja 0: miten tämä vaikuttaa turkistarhaukseen ja sitten
+Puhuja 0: vielä ihmiset
 Puhuja 0: ja muutkin nisäkkäät, että miten nämä tartuntapuolet.
-Puhuja 0: Mennään vähän eri näkökulmia tässä läpi.
-Puhuja 0: Mutta lähetäänkö ihan ensimmäiseksi liikkeelle sitä, että mitä tässä on tapahtunut? Miksi tämä on lähtenyt leviämään just Pohjanmaalla
-Puhuja 0: ja turkistarhoilla?
+Puhuja 0: Mennään
+Puhuja 0: vähän eri näkökulmia tässä läpi.
+Puhuja 0: Mutta lähetäänkö ihan ensimmäiseksi liikkeelle sitä, että mitä tässä on tapahtunut? Miksi tämä on lähtenyt leviämään Pohjanmaalla
+Puhuja 0: ja
+Puhuja 0: turkistarhoilla?
 Puhuja 1: Tässähän
 Puhuja 1: on se korkea patogeeninen
 Puhuja 1: H5N1-virus,
@@ -54,9 +57,11 @@ Puhuja 1: Tässä taustalla on se, että
 Puhuja 1: turvatoimet on ehkä ollut
 Puhuja 1: hiukan vajavaiset.
 Puhuja 1: Linnut on päässeet
-Puhuja 1: kosketuksiin rehun kanssa.
+Puhuja 1: kosketuksiin
+Puhuja 1: rehun kanssa.
 Puhuja 1: Siellä ei ole siis joissain tämmöisissä,
-Puhuja 1: kutsutaan varjotaloiksi tämmöisiä
+Puhuja 1: kutsutaan varjotaloiksi
+Puhuja 1: tämmöisiä
 Puhuja 1: paikkoja, missä
 Puhuja 1: ruokitaan niitä turkiseläimiä, niin niissä ei välttämättä ole ovea tai seiniä tai minkäänlaista
 Puhuja 1: lintusuojaa tai verkkoa.
@@ -88,7 +93,7 @@ Puhuja 0: Ja Karoliina Juntunen siinä avaa tarkasti, miten tauti leviää. Ja j
 Puhuja 0: olikohan se just se juttu, missä näistä varjotaloista
 Puhuja 0: puhuttiin, niin
 Puhuja 0: kannattaa tsekata.
-Puhuja 0: Kuvat voivat avata aika paljon vielä Nyt on Rasikat on tosi hyviä siinä jutussa, tosi avaavia.
+Puhuja 0: Kuvat voivat avata aika paljon vielä. Rakkaikat on tosi hyviä siinä jutussa, tosi avaavia.
 Puhuja 0: Jep. Vielä
 Puhuja 0: ensimmäinen tartunta todettiin heinäkuun puolivälissä Suomessa,
 Puhuja 0: ja nyt tartuntoja on todettu jo kaksikymmentäneljä
@@ -152,7 +157,7 @@ Puhuja 0: että jutussa käy ilmi, että osalla menee hyvin ja osalla
 Puhuja 0: menee entistä huonommin ja
 Puhuja 0: Yläkoulussa jo poikin välillä on paljon hajontaa. Mistä tämä kertoo?
 Puhuja 0: Onko meidän syytä olla huolissaan tästä asiasta?
-Puhuja 0: Tuossa
+Puhuja 1: Tuossa
 Puhuja 1: jutussa jonkin verran käytiinkin sitä läpi, että
 Puhuja 1: tytöt hakeutuvat helpommin lukioon ja pojat
 Puhuja 1: muihin
@@ -176,8 +181,9 @@ Puhuja 2: lukiokeskiarvot
 Puhuja 2: oli Helsingissä aivan eri tasolla. Ennen joku
 Puhuja 2: seiskan keskiarvo oli ihan
 Puhuja 2: perus monen lukion vähän päälle seiskan. Nykyään on hirveästi lukijoita, missä ysin pintaan pitää olla keskiarvo, niin se voi tuntua tosi monille
-Puhuja 2: aika kaukaiselta. Tavallaan
-Puhuja 2: Moni voi siinä yläasteen vipellyksessä
+Puhuja 2: aika kaukaiselta.
+Puhuja 2: Tavallaan
+Puhuja 2: miksi lähtee... Tai Moni voi siinä yläasteen vipellyksessä
 Puhuja 2: ajatella, että miksi lähtee tavoittelemaan jotain, mikä on niin kaukana.
 Puhuja 2: Se on jotenkin vähän ehkä liian aikaisempia nykyään
 Puhuja 0: saavuttaa tietynlainen taso. Mun mielestä tämä on niin hauskaa seurata.
@@ -197,7 +203,8 @@ Puhuja 0: katsomista, jos mä katson Helsingistä päin tätä asiaa.
 Puhuja 1: Mä ainakin ainakin poikkeaa isoissa kaupungeissa semmoisesta ihan
 Puhuja 2: maaseutuvuutta. Siis vino on ehkä vahva.
 Puhuja 2: Ne on kaksi eri todellisuutta. Osa meidän nuorista elää yhdessä todellisuudessa
-Puhuja 2: ja osa elää toisessa ja osa kolmannessa. Tai siis silleen, että ei mikään niistä ehkä ole väärä näkökanta vaan eri ihmisillä, vaan heitä
+Puhuja 2: ja osa elää toisessa ja osa kolmannessa. Tai siis silleen, että ei mikään niistä ehkä ole väärä näkökanta
+Puhuja 2: vaan eri ihmisillä, vaan heitä
 Puhuja 2: koskeva todellisuus on eri, ja ne asiat, mitkä siihen vaikuttaa, on vähän erilaiset.
 Puhuja 1: Tässä
 Puhuja 1: jutussa tuotiin myös esiin se, että
@@ -205,7 +212,8 @@ Puhuja 1: ammattikoulussa
 Puhuja 1: ilmeisesti keskeytysprosentti
 Puhuja 1: on aika iso,
 Puhuja 1: niin tavallaan se puhuu jonkin verran
-Puhuja 1: myös sen puolesta, että välttämättä semmoinen keskittäminen ei ole kauhean hyvä asia pojille sen takia,
+Puhuja 1: myös sen puolesta, että
+Puhuja 1: välttämättä semmoinen keskittäminen ei ole kauhean hyvä asia pojille sen takia,
 Puhuja 1: koska se voi kertoa siitä, että
 Puhuja 1: opiskelija on tyytynyt siihen lähiseudun
 Puhuja 1: lähimpään
@@ -223,9 +231,9 @@ Puhuja 2: on menossa huonompaan suuntaan kuin tytölle. Sama
 Puhuja 2: keskustelu on tosi monessa maassa, niin miksi se tavallaan on just sitten meille romauttanut ne Pisa-tulokset?
 Puhuja 0: Mun mielestä tavallaan
 Puhuja 0: olennainen osa keskustelu on se, että
-Puhuja 0: tehnyt niin monessa eri paikassa, että ei aleta siitä puhumaan. Mutta just tätä puolta.
-Puhuja 0: Eikö se ole myös vähän silleen, että sitä saadaan, mitä mitataan tai jos
-Puhuja 1: halutaan mitata jotain asiaa, niin silloin pitäisi panostaa siihen. Ehkä tämä on Suomessa kriisi myös sen takia, koska ollaan oltu älyttömän ylpeitä niistä PISA-tuloksista.
+Puhuja 0: että ei aleta siitä puhumaan. Mutta just tätä puolta. Eikö se ole myös vähän silleen, että sitä saadaan, mitä mitataan tai jos
+Puhuja 0: halutaan mitata jotain asiaa, niin silloin pitäisi panostaa siihen.
+Puhuja 1: Ehkä tämä on Suomessa kriisi myös sen takia, koska ollaan oltu älyttömän ylpeitä niistä PISA-tuloksista.
 Puhuja 2: Se on ollut maakunnan
 Puhuja 2: vahvimpia tällaisia, mitä on haluttu
 Puhuja 2: viedä maailmalle. Meillä on tämä koulutus ja kaikki
@@ -276,8 +284,8 @@ Puhuja 2: niissä tuloksissa, kuinka
 Puhuja 2: pieni prosentti enää
 Puhuja 2: lapsista on kiinnostunut lukemisesta
 Puhuja 2: ja haluaa lukea. Ja sitähän on
-Puhuja 2: ulkomailla ollut just siitä, että monesti
-Puhuja 2: huonot oppimistulokset lapsilla ylipäänsä johtuu siitä, että kauhean
+Puhuja 2: ulkomailla ollut just siitä, että monesti huonot oppimistulokset lapsilla ylipäänsä johtuu siitä, että
+Puhuja 2: kauhean
 Puhuja 2: huonoksi, niin tavallaan se heijastuu ihan kaikkiin eri aloihin, koska tavallaan se luetun ymmärtäminen ja kirjoittaminen
 Puhuja 2: on keskeisessä osassa kaikkia eri oppiaineita.
 Puhuja 2: Niin ehkä jotenkin se,
@@ -290,7 +298,7 @@ Puhuja 2: oppisivat
 Puhuja 2: sisäistämään tekstiä ja sisältöä.
 Puhuja 0: Niin, ettei väkisin yrittää mennä johonkin vanhoihin hyviin aikoihin, vaan yritetään etsiä, että mikä tässä
 Puhuja 0: TikTok-aivojen...
-Puhuja 2: Ei voida luoda Sinuhe egyptiläisellä
+Puhuja 2: Ei niiden luoda Sinuhe egyptiläisellä
 Puhuja 2: päähän ja olla silleen, että aloittakaa
 Puhuja 2: siitä Valterin paatoksesta vaan voi lähteä jostain
 Puhuja 0: voi lähteä jostain vähän uudestakin liikkeelle, jostain erilaisesta ajattelusta. Mä tunnen nyt just tosi suven pistän sydämessäni, koska mä oon yrittänyt kaksi kertaa elämässäni kahlata Sinuhoja läpi Mähän olen kirjallisuuden opiskelija, enkä ole pystynyt siihen. Se on hyvä kirja,
@@ -324,7 +332,7 @@ Puhuja 1: palautteeseen,
 Puhuja 1: mitä saadaan. Onko esimerkiksi lukeminen tai
 Puhuja 1: oppiminen, joka ei tuo välitöntä
 Puhuja 1: palkintoa.
-Puhuja 2: Kaikkea ei voi pelillistää kuitenkaan. Lapsilta ehkä odotetaan nykyään aika paljon,
+Puhuja 2: Kaikkea ei voi pelillistää kuitenkaan. Lapsilta ehkä myös odotetaan nykyään aika paljon,
 Puhuja 2: sellaista aika vahvaa itseohjautuvuutta.
 Puhuja 2: Kuitenkin, kun katsoo etenkin PISA-tulosmaista
 Puhuja 2: tulosta, niin ne maathan, jotka
@@ -342,8 +350,8 @@ Puhuja 1: ja muusta on puhuttu aika pitkään,
 Puhuja 1: niin tässä kohtaa ehkä painottaisin
 Puhuja 1: opettajien
 Puhuja 1: kuulemista.
-Puhuja 0: Tämän me varmaan kaikki voidaan allekirjoittaa,
-Puhuja 0: että kuullaan
+Puhuja 0: Tämän me varmaan kaikki voidaan allekirjoittaa, että
+Puhuja 0: kuullaan
 Puhuja 0: opettajia asiassa, joissa he ovat asiantuntijoita,
 Puhuja 0: eikä kaikki puhu vain omistaa koulukokemuksistaan
 Puhuja 0: ja sieltä käsin.
@@ -394,10 +402,11 @@ Puhuja 1: En ehkä aivan, mutta siinä tavallaan tulee erilainen keskittyminen,
 Puhuja 1: kun keskittyy samalla tekemään jotakin käsillään.
 Puhuja 1: Voihan se toki niitä
 Puhuja 1: yleisurheilujuttujakin
-Puhuja 1: juttujakin kuunnella tai
+Puhuja 1: kuunnella tai
 Puhuja 1: laittaa kännykän siihen viereen, jos tekee mieli. Multitasking.
 Puhuja 0: Katso yleisurheilua, kuunnella äänikirjaa ja poimimaan marjoja.
-Puhuja 2: Selvä! Mitä maailma lisää, kai vähemmän, mistä on pulaa multitaskingistä?
+Puhuja 0: Selvä!
+Puhuja 2: Mitä maailma lisää, kai vähemmän, mistä on pulaa multitaskingistä?
 Puhuja 2: Kyllä nykymaailmassa!
 Puhuja 2: Ehdottomasti! Kaivataan
 Puhuja 2: lisää ja paljon!

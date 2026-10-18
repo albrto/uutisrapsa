@@ -187,7 +187,7 @@ Puhuja 0: En tiedä, onko se ollut millään tavalla uskottavaa.
 Puhuja 0: Trump reagoi tähän monilla eri tavoilla.
 Puhuja 0: Heti alkoi agitoimaan
 Puhuja 0: omaa kannattajakuntaan. Saa väitti
-Puhuja 0: tyyppiä oudosti jotenkin kristinuskon vastaisesti, vaikka ehkä päinvastoin. Tyyppi oli
+Puhuja 0: tyyppiä oudosti jotenkin kristinuskon vastaisesti, vaikka ehkä päinvastoin tyyppi oli
 Puhuja 0: kristityn oloinen.
 Puhuja 0: Sitten
 Puhuja 0: Kimelin ja samalla hän myös kaikkia muita vasemmistolaisia.
@@ -304,9 +304,9 @@ Puhuja 0: puolivälissä HS:n uutisia, että pitääkö
 Puhuja 0: tätä nyt edes noteerotaan.
 Puhuja 0: On tämä ihan kiinnostava, kun tässä on näitä huumoriaspekteja mukana.
 Puhuja 0: Vitsi, meidän käsitys maailmasta muuttuu
-Puhuja 0: tällaisten myötä. Tämä on jo kolmas Attentaatti,
-Puhuja 0: Yhdysvaltain presidentti. Meidän mielestä tämä on ihan silleen kainaloperöjuttu.
-Puhuja 0: Sen takia muistaa sen ensimmäisen, se oli shokeeraavaa,
+Puhuja 0: tällaisten myötä. Tää on jo kolmas Attentaatti,
+Puhuja 0: Yhdysvaltain presidentti. Meidän mielestä tää on ihan silleen kainaloperöjuttu.
+Puhuja 0: Ja muistaa sen ensimmäisen, se oli shokeeraavaa,
 Puhuja 0: kun näki sen uutis, se
 Puhuja 0: uutishälytyksen,
 Puhuja 0: että on Trumpia
@@ -320,11 +320,12 @@ Puhuja 0: kun...
 Puhuja 0: Sitten kun...
 Puhuja 0: Vuorostessanne A-studioon
 Puhuja 0: haastateltavaksi
-Puhuja 0: ja Olette perustanut
+Puhuja 0: ja olette perustanut
 Puhuja 0: Kiinasta adoptoitujen koirien Kennelin,
 Puhuja 0: joka pyörii
-Puhuja 0: vapaaehtoistyööin.
-Puhuja 0: Ville ryhmän perhana on leikkaamaan teidänkin rahoitusta
+Puhuja 0: vapaaehtoistyöihin.
+Puhuja 0: Ville ryhmän perhana on leikkaan teidänkin
+Puhuja 0: rahoitusta
 Puhuja 0: syyttänyt rälsiksi.
 Puhuja 0: Niin Sakari Sirkkanen tarjoaa teille
 Puhuja 1: mahdollisuutta puolustaa itseään. Keskeytyksettä.

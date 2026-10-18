@@ -37,8 +37,7 @@ Puhuja 0: poikkeuksellisen paljon kehuja Anni
 Puhuja 0: sua kohtaan. Miten tää sanotaan suomeksi? Sua kehuttu mulle ihan hirveästi. Kiva. On sanottu, että miten se Anni on niin...
 Puhuja 0: Se mikä toistuu on se, että miten se on niin hauskaa, olematta yhtään vaivaannuttava.
 Puhuja 0: Ja sitten se on tosi semmoinen asiapapattaja
-Puhuja 0: olematta yhtään tylsä.
-Puhuja 3: Kiva!
+Puhuja 0: olematta yhtään tylsä. Kiva!
 Puhuja 3: Kiitos!
 Puhuja 0: Okei,
 Puhuja 0: tän viikon podcastissa
@@ -89,19 +88,22 @@ Puhuja 0: Oliko kyseessä aitaa rakkautta vai hahmokirjoittaevan
 Puhuja 0: elokuvamarkkinointipomon
 Puhuja 0: ovela juoni?
 Puhuja 0: Arvuutellaan tätä asiaa. Ja lopuksi vielä
-Puhuja 0: hyviä keskustelunaiheita pitkien epämukavien
+Puhuja 0: hyviä
+Puhuja 0: keskustelunaiheita pitkien epämukavien
 Puhuja 0: hiljaisuuden varaan.
 Puhuja 0: Okei,
 Puhuja 0: 12-vuotiaan pojan epäillään tiistaina murhanneen luokkatoverinsa
 Puhuja 0: ja yrittäneen murhata kaksi muuta.
 Puhuja 0: Compsonin avoin kirje vertautuu näihin kirjoituksiin.
 Puhuja 0: Muun muassa järki ja tunteet sekä rakkautta vain elokuvista tunnettu
-Puhuja 0: ja Harry Potterista
+Puhuja 0: ja
+Puhuja 0: Harry Potterista
 Puhuja 0: Harry Potteresta tunnette näyttelijää ylisti tekstissään Suomen luontoa, meikäläistä työilmapiiriä ja elokuvaratuunarien
 Puhuja 0: ahkeruutta.
 Puhuja 0: Tätä kaikkea näyttelijää oli päässyt ihastelemaan
 Puhuja 0: tehdessään elokuvaa nimeltä The Fyser Woman
-Puhuja 0: Collin kansallismaisemissa.
+Puhuja 0: Collin
+Puhuja 0: kansallismaisemissa.
 Puhuja 0: Vastaavaa suuri maailman elokuvahumua ei Pohjois-Karjalassa
 Puhuja 0: ole kaiketi koettu tohtori siivagran kuvausten vuonna tuhat yhdeksänsataakuusikymmentäviisi.
 Puhuja 0: Sitten Vepsu jatkaa vielä, että kirjan toinen puoli oli jäänyt vähemmälle huomiolle. Eli Emma Tommi kirjoitti näistä tukijärjestelmistä.
@@ -125,8 +127,8 @@ Puhuja 0: Mutta joo, okei.
 Puhuja 3: Niin, mutta se näkyi siitä todella selvästi, että semmoinen
 Puhuja 3: pieni
 Puhuja 3: fantasiamaa.
-Puhuja 2: Tässä näkee miten me aika harvoin joudutaan kuitenkin nykyään tämmöisen eksotisoinnin kohteeksi.
-Puhuja 2: Sitä juuri huomaa kuinka kummallista se on, kun joku turhe ulkopuolelta
+Puhuja 2: Tässä näkee, miten me aika harvoin joudutaan kuitenkin nykyään tämmöisen eksotisoinnin kohteeksi.
+Puhuja 2: Sitä juuri huomaa, kuinka kummallista se on, kun joku turhe ulkopuolelta
 Puhuja 2: pällistelee.
 Puhuja 2: Ja vaikka se olisi tämmöistä
 Puhuja 2: ylistämällä alistamista, niin silti
@@ -138,7 +140,7 @@ Puhuja 0: tämmöinen, että joku on kirjoittanut,
 Puhuja 0: vienyt Emma Hombsonille, että voidaanko laittaa sun nimissä tämmöinen tiedotus ulos, että tässä tuetaan tätä meidän elokuvatuki miljoona plaapä.
 Puhuja 0: Mutta mitä enemmän mä tähän pureuduin, sitä enemmän mulla nousi semmoinen arvostus...
 Puhuja 0: Mä rakastan Emmanssonin, on aina rakastunut. Mun mielestä hän on täydellinen nainen. Siis... Ei voi olla rakastanut. Siis valtavan hieno ja upea ja kaikilla tavoin. Emma Thoson
-Puhuja 0: sinänsä upeata, mahtava, mutta myös se ihminen, joka tässä on ollut takana. Oli hän sitten Emma Thosonin porukoissa
+Puhuja 0: sinänsä upeata, mahtava. Mutta myös se ihminen, joka tässä on ollut takana. Oli hän sitten Emma Thosonin porukoissa
 Puhuja 0: tai sitten oli hän jossain näissä suomalaisissa
 Puhuja 0: tuotantoyhtiössä
 Puhuja 0: tai niiden kattojärjestöissä.
@@ -149,9 +151,9 @@ Puhuja 0: Hän on selkeästi etukäteen miettinyt, että sitten kun tänne saada
 Puhuja 0: niin mulla on valmiina tää playbukki,
 Puhuja 0: missä mulla on nämä Kolin
 Puhuja 0: jyllät maisemat mainittu,
-Puhuja 0: maahiset, jotka työntää
-Puhuja 0: sulavassa
-Puhuja 0: rannan jäätikössä pulkkaa ja mitä siinä nyt olikaan. Ja
+Puhuja 0: maahiset, jotka työntävät sulavassa
+Puhuja 0: rannan
+Puhuja 0: jäätikössä pulkkaa ja mitä siinä nyt olikaan. Ja
 Puhuja 0: sitten upeita Suomen maisemia. Maisemia. Se oli kirjoitettu
 Puhuja 0: muille tuotannoille, että katsokaa, miten upeata Suomessa on ahkerat maahiset täällä tekevät leffat ilmaiseksi teidän puolesta. Ai aivan.
 Puhuja 0: Ja sitten se oli vielä järjestänyt, että se painetaan Hesariin
@@ -161,7 +163,7 @@ Puhuja 2: Tässä maailmanajassa
 Puhuja 2: korostaa sitä, että Suomessa on myös
 Puhuja 2: tällaista taloudellista
 Puhuja 2: toimintaa kuin elokuvatuotantoa.
-Puhuja 2: En tiedä, olisi ihan kiinnostavaa. Tuntuu, että enenevissä määrin. Ja vepsu varmaan tästä siinä jutussaan myös kirjoitti. Ja
+Puhuja 2: En tiedä, olisi ihan kiinnostavaa. Tuntuu että enenevissä määrin. Ja vepsu varmaan tästä siinä jutussaan myös kirjoitti. Ja
 Puhuja 3: siis
 Puhuja 3: tässä jatkojutussa kerrottiin, että he olivat alun perin ajatelleet lähettää tälläiseen kirjeen vain pääministeri
 Puhuja 3: Orpolle.
@@ -172,10 +174,11 @@ Puhuja 0: Tämä Laura kuulostaa niin juonikkaalta tyypiltä
 Puhuja 0: junaillut kaikki nämä hommat. Niin precis. Saanko sanoa?
 Puhuja 3: Ja
 Puhuja 3: tässä
-Puhuja 3: oli tämmöinen lause, että antaisin mitä tahansa, jos saisin mahdollisuuden työskennellä täällä uudelleen. Siksi kiitän kaikkia, jotka työskentelevät sen eteen, että audiovisuaalinen tuotantokannustin pysyy elossa ja voi hyvin. Aivan.
+Puhuja 3: oli tämmöinen lause, että antaisin mitä tahansa, jos saisin mahdollisuuden työskennellä täällä uudelleen. Siksi kiitän kaikkia, jotka työskentelevät sen eteen, että audiovisuaalinen
+Puhuja 3: tuotantokannustin pysyy elossa ja voi hyvin. Aivan.
 Puhuja 3: Tässä oli alun perin ilmeisesti käännetty tämä audiovisuaalinen
 Puhuja 3: tuotantokannusti
-Puhuja 3: jotenkin vähän silleen, että AV-ala
+Puhuja 3: jotenkin vähän sillain, että AV-ala
 Puhuja 3: voi hyvin. Mutta
 Puhuja 3: se oli vielä muokattu
 Puhuja 3: tänne.
@@ -193,10 +196,9 @@ Puhuja 0: ankeutta,
 Puhuja 0: joka verhoillaan
 Puhuja 0: resurssiruikutukseen
 Puhuja 0: silleen, että pitäisi tehdä tämmöinen, pitäisi tehdä tämmöinen no kun ei ole rahaa ja missä tuki ja niinku ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee ee. Siis on
-Puhuja 0: päättänyt selkeästi jo vuosia hauttanut tätä suunnitelmaa.
-Puhuja 0: Sitten kun tulee mahis, niin hän hoitaa nää tukimiljardit
-Puhuja 0: tänne. Hän ottaa Emma Holmsson korvasta kiinni ja vie pääministerin luettavaksi. Niinku kaikki oli.
-Puhuja 0: Vau! Upeeta. Niin
+Puhuja 0: päättänyt selkeästi jo vuosia hauttanut tätä suunnitelmaa. Sitten kun tulee mahis, niin hän hoitaa nää tukimiljardit
+Puhuja 0: tänne. Hän ottaa Emma Holmsson korvasta kiinni, vie pääministerin luettavaksi. Niinku kaikki oli. Vau! Upeeta.
+Puhuja 3: Niin, niin. Oliks sen pakko
 Puhuja 2: Kyllä sitä
 Puhuja 2: joo lukiessani, että tässä on tällainen kulttuuriero myös, joka ei käänny.
 Puhuja 2: Olen kerran kirjoittanut yhden jutun
@@ -209,7 +211,9 @@ Puhuja 0: suomen joka elokuva-alan
 Puhuja 0: tekijöiden lehti.
 Puhuja 0: Jos mä en ole ikinä eläissäni käyttänyt kokaiinia enkä ollut mikään Hollywood moguli. Mutta jos sä aamulla kopy päässäsi heräät, sulla on kultaiset tohvelit, sä menet alasti sinne sohvalle, avaat Vriedhin
 Puhuja 0: ja luet Emma Tomsonin ylistyksen ihmeellisestä Suomesta Kolintuntureineen
-Puhuja 0: ja lumisine huippuineen viimeinen etappios, joka on säästynyt ilmastonmuutoksesta.
+Puhuja 0: ja lumisine
+Puhuja 0: huippuineen
+Puhuja 0: viimeinen etappios, joka on säästynyt ilmastonmuutoksesta.
 Puhuja 0: Koska mikä siellä mainittiin...
 Puhuja 0: Amerikan Clondi,
 Puhuja 0: siellä ei oo enää lunta
@@ -239,7 +243,7 @@ Puhuja 0: vetämässä pulkkaa.
 Puhuja 0: Mitä juttua alatte
 Puhuja 2: Damille kertomaan? Tämä sopii ihan hyvin skenaarioon,
 Puhuja 2: koska haluaisin puhua sanapeleistä.
-Puhuja 2: Puhuitko niistä pari kertaa. Puhuitko sitten, mutta puhu vain, mistä sanapelistä puhui? Puhuin
+Puhuja 3: Puhuitko niistä pari kertaa. Puhuitko sitten, mutta puhu vain, mistä sanapelistä puhui? Puhuin
 Puhuja 2: New Timesiin sanapeleistä. Puhuitko siitä Strengestä, siitä uusimmasta? No niin hyvä, tämä
 Puhuja 2: on
 Puhuja 2: jatkoa Annin
@@ -252,9 +256,10 @@ Puhuja 2: En ole koskaan ennen harrastanut sanapelejä. Ja sitten tämä Word-le
 Puhuja 2: joka on se suurin hitti heräsin aika myöhään ehkä
 Puhuja 2: vuosi sitten tai jotain tällaista.
 Puhuja 2: Mutta jäin koukkuun niin kuin monet ovat jääneet.
-Puhuja 2: Mutta inhosin toista Connections-stapeliä
+Puhuja 2: Mutta inhosin toista Connections-stapeliä,
 Puhuja 2: koska siinä ei minusta ollut mitään järkeä. Ja se oli jotenkin hirvittävän turhauttavaa.
-Puhuja 2: Emot. Apriinapäivänä, joo. Mutta nyt se ei ole vielä siellä apissä, mutta yhdessä uutiskirjeessä oli, että niillä on betapeli jonka nimi löytyy Google Class Trange
+Puhuja 3: Teen sen joka päivä. Siinä oli nyt yksi päivä emoo. No kuulin tästä.
+Puhuja 2: Mutta se ei ole vielä siellä appissä, mutta yhdessä uutiskirjeessä oli, että niillä on betapeli, jonka nimi löytyy Google Class Trange
 Puhuja 2: New York Times Strange.
 Puhuja 2: Ja siinä
 Puhuja 2: pitää
@@ -262,7 +267,7 @@ Puhuja 2: löytää
 Puhuja 2: ruudukosta sanoja.
 Puhuja 2: Ja kun olin jo päättänyt että aion puhua tästä täällä, niin Helsingin Sanomat julkaisi
 Puhuja 2: saman tyyppisen pelin eilen nimeltä Sana louhos.
-Puhuja 2: Ne ovat hyvin lähellä toisiaan, mutta ei ihan sama. Voi hyvin tehdä molemmat. Mutta se on musta ihanaa... Meillä on varmaan parempi.
+Puhuja 2: Ne ovat hyvin lähellä toisiaan, mutta ei ihan sama. Voi hyvin tehdä molemmat. Mutta se on minusta ihanaa... Meillä on varmaan parempi.
 Puhuja 2: No niissä on joitain eroja.
 Puhuja 2: Mutta meillä on parempi koska se on suomeksi. Ja se on minusta aivan hirvittävän hauskaa paras. Me olemme Helsingin Sanomat
 Puhuja 2: mutta myös hyvin samanlainen.
@@ -272,7 +277,7 @@ Puhuja 2: Se on ollut minun iloni. Se on
 Puhuja 2: korvannut sitä, että en pysty tekemään sitä connectionsia.
 Puhuja 3: Mä
 Puhuja 3: olen
-Puhuja 2: tehnyt vasta kerran, mutta
+Puhuja 2: tehnyt vasta kerran mutta
 Puhuja 3: Kyllä englanninkielisissä niissä on aina sellainen...
 Puhuja 3: Ei tiedä kaikkia sanoja. Nimenomaan. Mutta sen sijaan mä voisin suositella myös
 Puhuja 3: telkkarista tuli Yleltä
@@ -329,7 +334,8 @@ Puhuja 0: Whatsappissa.
 Puhuja 0: Nyt se kaikki raha on käytetty, joten mä haluaisin vaan kertoa teille rakkaat kuulijat,
 Puhuja 0: että teidän lahjoittamalla
 Puhuja 0: neljätuhatta eurolla on Ukrainaan toimitettu
-Puhuja 0: tai materiaalit on liikenteeseen laitettu näin Pyry kirjoittaa.
+Puhuja 0: tai materiaalit on liikenteeseen
+Puhuja 0: laitettu näin Pyry kirjoittaa.
 Puhuja 0: Sinne on lähtenyt aggregaatti
 Puhuja 0: ensiaputarvikkeita.
 Puhuja 0: Kolme kirvestä viisikymmentä termospulloa.
@@ -372,7 +378,8 @@ Puhuja 0: Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardi
 Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin
 Puhuja 0: yritystappio syntyi.
-Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu päätös asettua välikappaleeksi
+Puhuja 0: Kaiken keskiössä on yhden suomalaisen yrityksen eli Fortumin. Melko suuuudenhullu
+Puhuja 0: päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
 Puhuja 0: Kaasukauppaan,
 Puhuja 0: joka päätyi aseeksi
@@ -385,7 +392,7 @@ Puhuja 0: taloudellinen murhamysteeri.
 Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
 Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja,
-Puhuja 0: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, Ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
+Puhuja 0: oli jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteli sieltä koko maailmaa seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
 Puhuja 0: aktivistit.
 Puhuja 0: Ja tottakai on Vladimir Putin ja hänen hämähäkinverkkonsa.

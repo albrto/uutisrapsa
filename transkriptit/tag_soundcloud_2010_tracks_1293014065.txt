@@ -139,8 +139,7 @@ Puhuja 4: tämmöisiä, mihin ne lupaukset vaikka briteiltä ja Yhdysvalloista o
 Puhuja 4: johtanut, niin Suomessahan on ollut tosi paljon
 Puhuja 4: nyt keväällä ja nyt kesällä. Siis
 Puhuja 4: yhdysvaltalaisia ja Britannialaisia
-Puhuja 4: sota-aluksia tai sotakalustoa.
-Puhuja 4: Joukkuja ihan juttuja. Joo, kyllä. Se on ihan selkeä merkki,
+Puhuja 4: sota-aluksia tai sotakalustoa. Joukkoja ihan juttuja. Joo, kyllä. Se on ihan selkeä merkki,
 Puhuja 4: silleen niin symboli
 Puhuja 4: kuin symboli voi olla, että ne on
 Puhuja 4: lupautunut siihen Suomen
@@ -165,10 +164,9 @@ Puhuja 4: Jonson on hyvinkin
 Puhuja 4: tunnettu.
 Puhuja 4: Häntä ei ehkä tunneta siitä, että hän aina kunnioittaa kansainvälisiä sitoumuksia.
 Puhuja 3: Se on totta.
-Puhuja 3: Ja Briteissähän tää on täysin sidottu
+Puhuja 3: Briteissähän tämä on täysin sidottu
 Puhuja 3: tämänhetkisen hallituksen olemassaoloon.
-Puhuja 3: Että sitten, jos hallitus vaihtuu,
-Puhuja 3: niin nämä on tällaisia
+Puhuja 3: Että sitten, jos hallitus vaihtuu, niin nämä on tällaisia
 Puhuja 3: hallituksen poliittisia sitoumuksia.
 Puhuja 3: Ei varsinaisesti mitään juridista sopimustekstiä, jolla Suomi voisi olla silleen, että: Hei, te olette lukeneet tämän asian ja nyt, jos ette toteuta, me viedään tämä johonkin tuomioistuimeen.
 Puhuja 3: Tai
@@ -215,11 +213,10 @@ Puhuja 2: Musta leima, emäntäal juusto!
 Puhuja 3: Kuiskaa siellä jossain takamuoleen kulmella ja katsoa, mitä tapahtuu.
 Puhuja 4: Trenssi ja semmoinen
 Puhuja 4: hattu pääsee. Mutta tulee silmälasit, avit.
-Puhuja 4: Salainen kädenpuristus
-Puhuja 4: siinä.
+Puhuja 4: Salainen kädenpuristus siinä.
 Puhuja 4: Tämä on ollut oikea ongelma? Tämä on ollut oikea ongelma, että sieltä varastetaan
 Puhuja 4: mustaleima emmentaljuustoa
-Puhuja 4: ihan
+Puhuja 4: ihan siis
 Puhuja 4: tosiaan niin paljon, että sitä ei enää hyllyssä voi pitää.
 Puhuja 4: Ja Helsingin Sanomat kerroin tästä ensimmäisen kerran
 Puhuja 4: kaksi toissapäivänä sitten eli tiistaina.
@@ -449,7 +446,7 @@ Puhuja 2: kun on katsonut aamulla,
 Puhuja 2: Ylen aamua. Ja
 Puhuja 2: sitten toiseksi
 Puhuja 2: siinä pääsee hyvin kärryille kaikesta
-Puhuja 2: asioistaan. Se on mukava siinä aamutoimien lomassa. Tiedän, että on myös toinen koulukunta, joka kuuntelee Ylen ykkösaamua radiosta ja sekin
+Puhuja 2: asioistaan. Se on mukava siinä aamutoimien lomassa. Tiedän, että on myös toinen koulukunta, joka kuuntelee Ylen ykkösaamua radiosta. Sekin
 Puhuja 2: vaikuttaa hyvältä tavalta.
 Puhuja 3: Voisin katsoa, miten puolison raakaa, jos aamulla läväyttää ja herää aamulla, niin aamu-tv:n päälle,
 Puhuja 3: pälättävän sille taustalle, niin voi olla, että tulisi palautetta.

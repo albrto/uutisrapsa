@@ -117,8 +117,7 @@ Puhuja 0: saamelaisia
 Puhuja 0: ja sitten
 Puhuja 0: repiin tätä podcastia
 Puhuja 0: tämän ensimmäisen aiheen ajan. Sika vaikea aihe, jossa on tosi paljon kaikennäköisiä herkkyyksiä, mistä varmaan meistä kukaan ei ole saamelainen tehdä. Koska meidän täytyy, vaikka meillä ei olisi lapsia, vaikka me ei oltaisi päiväkodissa töissä,
-Puhuja 0: vaikka me ei itse oltaisi käyty
-Puhuja 0: päiväkodissa, meidän täytyy suomalaisina
+Puhuja 0: vaikka me ei itse oltaisi käyty päiväkodissa, meidän täytyy suomalaisina
 Puhuja 0: keskustella ja päästä jonkinnäköiseen yhteisymmärrykseen
 Puhuja 0: nimenomaan siitä,
 Puhuja 0: mitä me tehdään yhteisesti,
@@ -129,7 +128,8 @@ Puhuja 4: Onhan se sellainen tietynlainen
 Puhuja 4: pakko sitten. Pitääkö siinä vaan punnita hyvät ja huonot? Paljon siitä tulee iloa tosi monille ja sitten joillekin tulee pahemmat. Haluatko sanoa? No mulla on niitä ryhmä, että mä sanoin ekana. Sä voit sanoa,
 Puhuja 3: että
 Puhuja 3: Mä mietin sitä, että
-Puhuja 3: kuitenkin semmoista perheen ja päiväkodin yhteyttä täytyy käsitellä
+Puhuja 3: kuitenkin semmoista perheen ja päiväkodin yhteyttä täytyy
+Puhuja 3: käsitellä
 Puhuja 3: Ja se, että lasten kanssa
 Puhuja 3: puhutaan asioista.
 Puhuja 3: Tosiaan nyt sanon tämän lapsettomana ja täysin epäasiantuntijana,
@@ -157,7 +157,7 @@ Puhuja 2: jotenkin pääomaa.
 Puhuja 2: Mäkin tiedän, että on ollut vuosia,
 Puhuja 2: tai joinain vuosina ei ole tullut sitä askarreltua korttia. Mä en ole
 Puhuja 2: ikinä hetkeäkään
-Puhuja 2: miettinyt, että miksikö hän nyt tai otanpa yhteyttä henkilökuntaan, vaan se on vaan, että no, näin on käynyt.
+Puhuja 2: miettinyt, että miksikö hän nyt ottaa yhteyttä henkilökuntaan, vaan se on vaan, että no, näin on käynyt.
 Puhuja 0: Ei toi ole se argumentti, että sen
 Puhuja 0: kieltäminen.
 Puhuja 0: Se on se, mikä herätti raivon, ei se itse korkea.
@@ -168,8 +168,7 @@ Puhuja 2: lapsuuden asioihin, perheeseen, kouluun ja päiväkotiin. Miten siell�
 Puhuja 2: syntyy omina aikoinani ja jos ei nyt ole korttiaskartelua,
 Puhuja 2: niin on jotain muuta,
 Puhuja 2: josta tulee lapsille sitten ne omat
-Puhuja 2: yhteiset kokemukset
-Puhuja 2: ja
+Puhuja 2: yhteiset kokemukset ja
 Puhuja 0: Jotenkin ne puhuu itselleen ja sellaiselle sisäiselle alalle. Mutta sä sanot, että tuolla ei olisi väliä, mutta onhan tuolla väliä.
 Puhuja 2: Ei kun mä vaan tarkoitan, että kun Anun näkökulma siinä tekstissä
 Puhuja 2: oli lapsen näkökulma.
@@ -179,7 +178,7 @@ Puhuja 2: hankala tilanne, onko se sitten menehtynyt isää tai jotain muuta. Si
 Puhuja 0: semmoinen, että näin maailma on ollut ja aina on askarreltu ja muu. Sitten näitä punnitaan, että kenen tunteet on tässä nyt niitä tärkeitä. Mun mielestä tuohonkin sisältyy semmoinen olettamus, mikä ei välttämättä pidä ollenkaan paikkaansa, että olisi jotenkin haitallista, että lapset kohtaa näitä asioita päiväkodissa ja koulussa.
 Puhuja 2: Mä ajattelin, että... Eikö toi ole aika ylimielistä tavallaan, että jos
 Puhuja 2: jonkun lapsi oireilee
-Puhuja 2: ja on kärttynä ja on vaikeata
+Puhuja 2: ja on kärttyne ja on vaikeata
 Puhuja 2: sen asian kanssa, niin tuletko sä siihen sitten sanomaan, että ei kun tää on sulle jotain hyvää? Ei,
 Puhuja 0: totta kai perheet voi sanoa, että hei, että meidän lapsella tää on ihan hirveä asia, että hänen isänsä on kuollut tosi traagisesti
 Puhuja 0: viime jouluna.
@@ -256,7 +255,7 @@ Puhuja 3: sitä, kun ei tykkää. Se on siis Jouni K. Kemppäisen kirjoittama.
 Puhuja 3: Siinä siis mä jotenkin olen
 Puhuja 3: tosi
 Puhuja 3: yllättynyt,
-Puhuja 3: että miten kamalaa elämä Kaija koolla on ollut. Ja miten siinä jotenkin koko ajan tapahtuu vain hirveämpiä asioita ja sitten tuntuu, että nyt Kaija selvisi ja sitten taas tapahtuu jotain kauheaa.
+Puhuja 3: että miten kamalaa elämä Kaija koolla on ollut. Ja miten siinä koko ajan tapahtuu vain hirveämpiä asioita ja sitten tuntuu, että nyt Kaija selvisi ja sitten taas tapahtuu jotain kauheaa.
 Puhuja 3: Se on ollut aika rankka elämä.
 Puhuja 3: Sen lisäksi musta tuntuu,
 Puhuja 3: että
@@ -268,7 +267,7 @@ Puhuja 3: En tietysti tiedä, onko se todenmukaista.
 Puhuja 3: Mun mielestä se on tosi mielenkiintoista lukea sitä kirjaa sillä ajatuksella, että tommoista elämää on ollut.
 Puhuja 3: Joo, siinä tulee jotenkin läpi semmoinen kasari ja ysäri ainakin niissä vaiheissa,
 Puhuja 0: missä mä nyt oon mennyt. Saanko mä kertoa aivan hirveän jutun, joka liittyy Ysäri-fiilistelyyn?
-Puhuja 2: No mä sanon. Mä muistan, että sun lapsi on tuolla
+Puhuja 3: No mä sanon. Mä muistan, että sun lapsi on tuolla
 Puhuja 2: Salla. Okei, hyvä. No niin, mä olen
 Puhuja 2: lasten asialla.
 Puhuja 2: Pelastatelet.
@@ -277,7 +276,7 @@ Puhuja 2: olette huomanneet, että Ranskan presidentti ja Manuelle Macron
 Puhuja 2: on aika monet kerrat soitellut
 Puhuja 2: Putinille.
 Puhuja 2: Ja
-Puhuja 2: mä oon ehkä jossain Twitterissäkin vähän silleen, että kuinka paljon hyötyä on tästä soittelusta ollut ja onko siitä jopa jotain haittaa
+Puhuja 2: mä olen ehkä jossain Twitterissäkin vähän silleen, että kuinka paljon hyötyä on tästä soittelusta ollut ja onko siitä jopa jotain haittaa
 Puhuja 2: ja tätä asiaa pohdiskellut. Siitä on erilaisia mielipiteitä,
 Puhuja 2: mutta
 Puhuja 2: tulin kotiin lenkiltä yhtenä iltana ja televisiossa
@@ -290,7 +289,7 @@ Puhuja 2: Mä ehkä kun mä katsoin sen, niin sitten vähän ymmärsin enemmän 
 Puhuja 2: Tämä dokumentti
 Puhuja 2: on aivan historiallinen. Mä en ole ikinä nähnyt mitään vastaavaa. Se seuraa Emmanuelin,
 Puhuja 4: ihan kun mä saan kaverin,
-Puhuja 2: Macronin kintereillä
+Puhuja 3: Macronin kintereillä
 Puhuja 2: tapahtumia,
 Puhuja 2: jonkin verran ennen sodan syttymistä,
 Puhuja 2: kun tavallaan intensiteetti
@@ -310,22 +309,23 @@ Puhuja 2: tai puhelinkeskusteluista
 Puhuja 2: Putinin kanssa, jollasia ei tavallisesti,
 Puhuja 2: mehän ei tavallisesti kuulla valtiojohtajien
 Puhuja 2: puhelinkeskusteluja,
-Puhuja 2: mutta tässä
-Puhuja 2: niitä soitetaan
+Puhuja 2: mutta tässä niitä soitetaan
 Puhuja 2: ja näytetään tilanteita. Se on
 Puhuja 2: aivan käsittämätöntä. Niin, mutta todellakin.
 Puhuja 4: Entisenä
 Puhuja 4: ulkomaantoimittajana ja Ranskan seuraajana mä oon pettynyt tässä matkan varrella Macroniin.
 Puhuja 4: Esimerkiksi se, että se meni sanomaan, että Ranska ei
-Puhuja 2: aivan kun hän olisi odottavat sitä. Joo. Ja mä jossain vaiheessa dokumentti on aika kiehtova.
+Puhuja 4: tätä tähän
+Puhuja 4: ydinaseen käyttöön Ukrainassa. Tällaisia ihan tuntuu diplomaattisia lapsuksia tai sitten sä ehdottelet. Ei saa nöyryyttä.
+Puhuja 4: Putinin
+Puhuja 4: tunteista huolehtia tai paavia ehdottaa sinne neuvotteluun. Tuntuu, että aivan kun hän olisi odottavat sitä. Joo. Ja mä jossain vaiheessa dokumentti on aika kiehtova.
 Puhuja 2: Kello oli jo ihan älyttömästi ja taas tuli huonot yöunet sen takia, kun tuli valvottua ja katoin, että mä jossain vaiheessa
 Puhuja 2: siinä aikana mietin, että tuleeko tästä liian
-Puhuja 2: myötäsukaninen kuva
-Puhuja 2: Macronista, mutta ei.
+Puhuja 2: myötäsukaninen kuva myötäsukaninen kuva Macronista, mutta ei.
 Puhuja 2: Siinä dokumentissa tulee kohta, jossa häntä haastetaan.
-Puhuja 0: Lämmin sitä. Todella kiinnostaa. Sano vielä sen dokumentin nimi. Mitäs
+Puhuja 0: Lämmin sitä. Todella kiinnostaa, sano vielä sen dokumentin nimi. Mitäs
 Puhuja 2: mä sanoin, Macron,
-Puhuja 4: Eurooppa ja sota. Okei ja Yle Areenasta löytyi. Yle Areenasta löytyi. Petja. Mulle tuli tää omaisuus mieleen, kun Anni mainitsi ajankuvaa 80- ja 90-luvulta.
+Puhuja 4: Eurooppa ja sota. Okei ja Yle Areenasta löytyy. Yle Areenasta löytyy. Petja. Mulle tuli tää omaisuus mieleen, kun Anni mainitsi ajankuvaa 80- ja 90-luvulta.
 Puhuja 4: Niin me katottiin tossa puolison kanssa vähän aikaa sitten tää munkkivuorisarja
 Puhuja 4: Jani Voolasen.
 Puhuja 4: Otettiin sitä varten tää kyseinen maksupalvelu, jota ei tässä nyt varmaan mainostaa, mutta tää on mainostaa.
@@ -347,7 +347,7 @@ Puhuja 0: Haluan kertoa käänteestä minun elämässä. Nimittäin olen aina va
 Puhuja 0: fiktion kuuntelemista
 Puhuja 0: äänikirjana. Sen seurauksena, koska en todellakaan jaksa lukea mitään, niin en vain kuluta fiktiota ollenkaan,
 Puhuja 0: koska se ei vaan toimi äänikirjana. Paitsi kaikki Mika Valtari jutut toimivat ihan hiton-hyviä.
-Puhuja 0: Mutta nyt, olen vissiin, kun olen rakentanut sitä taloja, siinä aina tulee kuunneltua
+Puhuja 0: Mutta nyt, mä olen vissiin, kun olen rakentanut sitä taloa, siinä aina tulee kuunneltua
 Puhuja 0: äänikirjoja ja siinä tulee kuunneltua podcasteja.
 Puhuja 0: Minun korvat tursuaa
 Puhuja 0: kaikkea
@@ -372,8 +372,7 @@ Puhuja 0: henkilöhahmo on tämmöisessä tilanteessa, jossa se joutuu kehittäm
 Puhuja 0: on
 Puhuja 0: joko Marsissa
 Puhuja 0: yksin ja pitää siellä selvitä. Tai tässä tapauksessa tämä
-Puhuja 0: Helmeryn
-Puhuja 0: päähenkilö on ammuttu syvään avaruuteen. Sieltä hänen pitää omin voimin päästä takaisin A-planeettamaalle.
+Puhuja 0: Helmeryn päähenkilö on ammuttu syvään avaruuteen. Sieltä hänen pitää omin voimin päästä takaisin A-planeettamaalle.
 Puhuja 0: Se on tavallaan semmoista scifi Mac giverismia.
 Puhuja 0: Se on jotenkin
 Puhuja 0: todella
@@ -394,8 +393,8 @@ Puhuja 0: tausta toimitti Viljami Peltomäki, 11-vuotias.
 Puhuja 0: Hän kamalalla tavalla kuuli isänsä sanovan kirosanan.
 Puhuja 2: Koskaan ei ole tapahtunut.
 Puhuja 0: Pyydän, että
-Puhuja 0: meidän ihana Oona Mattila
-Puhuja 0: leikkaa sen pois.
+Puhuja 0: meidän ihana Oona
+Puhuja 0: Mattila leikkaa sen pois.
 Puhuja 0: Oona puristaa päätä. Mutta tällä tavalla tämä nyt meni. Lähettäkää meille palautetta:
 Puhuja 0: uutisraportti
 Puhuja 0: ja kuullaan taas ensi viikolla. Kiitos vain kaikille. Kiitos.
@@ -422,6 +421,6 @@ Puhuja 0: bisnesmiehiä
 Puhuja 0: ja on poliitikkoja, on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivisti.
 Puhuja 0: Ja tottakai on Vladimir Putin ja hänen Hämääkin verkkonsa.
-Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
+Puhuja 0: Voit kuunnella Podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
 Puhuja 0: menetetyt miljardit.

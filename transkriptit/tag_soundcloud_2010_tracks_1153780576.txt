@@ -26,23 +26,26 @@ Puhuja 2: Onko sieltä niin pitkään aikaa? En mä vedetty aivan täysin hatust
 Puhuja 0: Ja mullakin toki teitä molempia. Ja kiva olla kolmestaan
 Puhuja 0: täällä studiossa. Pitkästä aikaa. Pitkästä aikaa. Kyllä,
 Puhuja 2: kyllä. Repalinin syksy. Entä talo?
-Puhuja 0: Kuulet, että on jo täysin kyllästynyt siihen, kun vain jauhan talo asioista koko ajan. Mutta talo on pystyssä, siellä pysyy lämpö sisällä.
+Puhuja 0: Kuulet, että on jo täysin kyllästynyt siihen, kun vain jauhan talo asioista koko ajan. Mutta talo on pystyssä, siellä pysyy
+Puhuja 0: lämpö sisällä.
 Puhuja 0: Viimeksi teippasin
 Puhuja 0: eilen yöllä, teippasin höyrynsulkumuovin
 Puhuja 0: ikkunanpieliin
 Puhuja 0: kiinni ja kohta saan tiivistettyä ikkunat.
-Puhuja 0: Näin. Rakentajat tietää, mistä puhun kaikille muille ihan täältä epröä.
-Puhuja 0: Mitä se tarkoittaa? Mutta
+Puhuja 0: Näin. Rakentajat tietää, mistä puhun kaikille muille ihan täältä epröä,
+Puhuja 0: mitä se tarkoittaa?
+Puhuja 0: Mutta
 Puhuja 0: luulen, että se on nyt siinä
 Puhuja 0: vaiheessa, että se ei voi enää
 Puhuja 0: kusta ihan täysin.
-Puhuja 0: Otin esimerkiksi vuokratontin sen takia, että ajattelin, että jos tipun tikkailta ja jouduin pyörätuoliin, ja näin, ja en saa ikinä tehtyä sitä
+Puhuja 0: Otin esimerkiksi vuokratontin sen takia, että ajattelin, että jos minä tipu tikkailta ja jouduin pyörätuoliin,
+Puhuja 0: ja näin, ja en saa ikinä tehtyä sitä
 Puhuja 0: valmiiksi,
 Puhuja 0: niin minun on helpompi päästä vuokratontista eroon sille, että en vain maksa niitä vuokria kuin että ruveta myymään
 Puhuja 2: Eikö omisttontti just ole halutuimpi?
 Puhuja 0: Niin, mutta jos en olisi saanut taloa tehtyä loppuun, niin olisin kusessa, kun olisin ostanut sen tontin.
 Puhuja 0: Mutta jos se on vuokratontti, niin hyvin käy kaupunki on kyseessä, koska ne omistaa tontti, jossa on risatalon Räiske. Mutta luulen, että nyt ollaan tavallaan ohitettu se vaihe. Se ei sinänsä voi enää
-Puhuja 0: epäonnistua, tämä on projekti. Niin, katsotaan, mitä rakennustarkastaja
+Puhuja 2: epäonnistua, tämä on projekti. Niin, katsotaan, mitä rakennustarkastaja
 Puhuja 2: lopulta sanoo. Hyvä.
 Puhuja 0: Vauva. Mulla on jostain syystä edellisviikon
 Puhuja 0: juonnat tässä.
@@ -83,28 +86,26 @@ Puhuja 0: vieras,
 Puhuja 0: mutta silti mun mielestä todella mielenkiintoinen. Nimittäin Paris Hilttanista.
 Puhuja 0: Tänä vuonna on nähty
 Puhuja 0: useita eräänlaisia
-Puhuja 0: uudelleenframeuksia.
+Puhuja 0: uudelleenframauksia.
 Puhuja 0: Tämä on totaali Amerikka aihe. Mun mielestä tämän homman pitäisi tulla myös Suomeen.
 Puhuja 0: Mutta on nähty uudelleenframea...
 Puhuja 0: Tai
 Puhuja 1: viitattiin ja näytettiin pätkiä erilaisista
-Puhuja 1: Jenkkien
-Puhuja 1: talkshowsta siltä ajalta millaista vitsiä Louiskista
-Puhuja 1: on väännetty.
-Puhuja 1: Ja se on ollut ihan kamalaa. Se näyttää nykyhetkestä
-Puhuja 1: katsoen jotenkin
+Puhuja 1: jenkkien
+Puhuja 1: talkshowsta
+Puhuja 1: siltä ajalta millaista vitsiä Louiskista on
+Puhuja 1: väännetty.
+Puhuja 1: Ja se on ollut ihan kamalaa. Se näyttää nykyhetkestä katsoen jotenkin
 Puhuja 1: ihan käsittämättä. Se hänen kiusaaminen
 Puhuja 0: ja nöyryyttäminen.
 Puhuja 2: Se oli käsittämätöntä siinä, että hän oli nuori harjoittelija. Ja sitten meillä on äijä, joka on maailman ehkä vastuullisimpia tehtäviä.
-Puhuja 2: Ketä
-Puhuja 2: siinä nöyryyttetään
+Puhuja 2: Ketä siinä nöyryyttetään
 Puhuja 2: eniten, on kuitenkin se nuori harjoittelija.
 Puhuja 2: Eikä se tyyppi, jolta voisi odottaa
 Puhuja 2: itsehillintää tai jotain käytöstä. Se tuntui käsittämättömältä
 Puhuja 0: nyt. Se oli vaan semmoinen, että totta kai tämä on näin. Ja kaikki vaan hyväksi.
 Puhuja 2: Ymmärtääkseni jotenkin monet feministitkin silloin,
-Puhuja 2: tavallaan, että he eivät puolustaneet siinä Monica Luinskiä, vaan hän lähtee enemmän sellaiseksi, että hän
-Puhuja 2: pilaa
+Puhuja 2: tavallaan, että he eivät puolustaneet siinä Monica Luinskiä, vaan hän lähtee enemmän sellaiseksi, että hän pilaa
 Puhuja 2: edistyksellisen
 Puhuja 2: johtajan
 Puhuja 2: uran
@@ -113,14 +114,13 @@ Puhuja 0: Hän on
 Puhuja 0: todella rikas periaate. Ja
 Puhuja 0: hänellä oli
 Puhuja 0: ohjelma nimeltä The Simple life,
-Puhuja 0: jossa
-Puhuja 0: hän ja Linold Richien
+Puhuja 0: jossa hän ja Linold Richien
 Puhuja 0: tytär,
-Puhuja 0: Nicle Richi, he menivät tekemään jotain normi ihmisten duunia. Oli todella äll ja Bimboja,
+Puhuja 0: Nicle Richi, he menivät tekemään jotain normi ihmisten duunia. Oli todella äll ja bimboja,
 Puhuja 0: humoristisesti ja kolmillisesti.
 Puhuja 0: Myöhemmin Hiltten on sanonut, että ne olivat roolihahmoja.
 Puhuja 0: Esimerkiksi
-Puhuja 0: yhdessä ikimuisto esimerkiksi nimetyssä kohtauksessa Hiltten tiedustelee isäntäperheeltään,
+Puhuja 0: yhdessä ikimuisto esimerkiksi nimetyssässä kohtauksessa Hiltten tiedustelee isäntäperheeltään,
 Puhuja 0: myydäänkö Walmartissa
 Puhuja 0: seiniä?
 Puhuja 0: Ja näin.
@@ -132,19 +132,17 @@ Puhuja 0: nuori nainen,
 Puhuja 0: jonka
 Puhuja 0: seksivideo
 Puhuja 0: pistettiin mua kaikkialle pyörimään. Sen jälkeen kaikki osoitti häntä sormella ja nauroi ja sanoi, että hitto, mikä hora.
-Puhuja 2: Aivan uskomaton. Niin se lähti
-Puhuja 2: hänen
-Puhuja 2: syynään. Vaikikö hän silloin, kun sanon julkisesti, että hän ei jostain halua? Joo, hän sanoi jatkuvasti, että hän ei halua sitä julki.
+Puhuja 2: Aivan uskomaton. Niin se
+Puhuja 2: lähti hänen syynään. Vaikikö hän silloin, kun sanoin julkisesti, että hän ei jostain halua? Joo, hän sanoi jatkuvasti, että hän ei halua sitä julki.
 Puhuja 0: Ja näin. Ja sitten
 Puhuja 0: se ei lakannut mihinkään,
 Puhuja 0: se pilkko. Ei mihinkään.
-Puhuja 0: Tuossa SouthWor, joka on upea
-Puhuja 0: TV-ohjelma,
-Puhuja 0: niin Hilla kirjoittaa tällä tavalla jutussa.
+Puhuja 0: Tuossa SouthWork, joka on upea
+Puhuja 0: TV-ohjelma.
+Puhuja 0: Hilla kirjoittaa tällä tavalla jutussa.
 Puhuja 0: Kenties joku muistaa Spermaan yskivän Pary Schildtten Suthworks sarjan jaksossa nimeltä Stupid Spoild Hore video Plac it.
 Puhuja 0: Siinä Pary Schildtten hahmo muun muassa avaa paikalliseen tavaratalon kaupan nimeltä Ryhmä hemmoteltu vuora ja hänen koiransa tekee itsemurhan.
-Puhuja 0: Tämä oli tällaista.
-Puhuja 0: Ja nyt jos joku nuori nainen, vasten
+Puhuja 0: Tämä oli tällaista. Ja nyt jos joku nuori nainen, vasten
 Puhuja 0: hänen tahtoon pistettäisiin seksivideon ulos,
 Puhuja 0: niin mitään tällaista ei seuraisi.
 Puhuja 0: Mua oikeastaan kiinnostaa,
@@ -152,15 +150,15 @@ Puhuja 0: miten me ollaan
 Puhuja 0: päädytty tähän?
 Puhuja 0: Miksi nykyään maailma tuntuu jotakin niin eriltä kuin silloin?
 Puhuja 0: Mikä siinä on muuttunut?
-Puhuja 2: Oikeastaan just mietin, aikaisemmin puhuin tästä
-Puhuja 2: keskuskeittiökosta.
+Puhuja 2: Mä oikeastaan just mietin, aikaisemmin puhuin tästä keskuskeittiökosta.
 Puhuja 2: Joskus tuntuu, että asiat muuttuu tosi hitaasti tai että ne ei ehkä muutu ollenkaan. Ja yhtäkkiä
 Puhuja 2: vaikka Monika Luinski tai
 Puhuja 2: Britniss Vierella, kun miettii sitä, että suhtautuminen nuoria näissä on häpäisyys.
 Puhuja 2: Miten jotkut asiat, mitä ei ehkä silloin olisi osannut kasvaessaan kyseenalaistaa, niin miten oudolta ne näyttää. Yhtäkkiä tosi paljon onkin muuttunut. Niin no varmaan Me Too on ollut yksi semmoinen. Onko se Me Too?
-Puhuja 2: Niin, mitä kaikkea muuta? Onhan Me Too varmaan ollut ihan jotenkin...
-Puhuja 1: Miksi ei ole se ollut niin kuin kotona.
-Puhuja 0: Ehkä enemmän. En enää muista, mitä mieltä olin asioista ennen Meatuuta. Nyt tavallaan kaikki ajatukset, jotka on tullut sen jälkeen, niin ne tuntuu itsestäänselvyyksiltä.
+Puhuja 2: Niin, mitä kaikkea muuta?
+Puhuja 2: Onhan Me Too varmaan ollut ihan jotenkin...
+Puhuja 1: Miksi ei ole se ollut niin
+Puhuja 0: kuin korona. Ehkä enemmän. En enää muista, mitä mieltä olin asioista ennen Meatuuta. Nyt tavallaan kaikki ajatukset, jotka on tullut sen jälkeen, ne tuntuu itsestäänselvyyksiltä.
 Puhuja 0: Onko se ollut just se?
 Puhuja 0: Vai mä en muista, mitä tapahtuu ne Meatuuta. Onko ollut jotain muita, jotka on myös vaikuttanut? Meatuuta ehdottomasti ja selkeästi on.
 Puhuja 2: Olisiko siitä purkautunut keskustelu?
@@ -222,7 +220,7 @@ Puhuja 0: upeana kaunattarina.
 Puhuja 0: Hän oli jotenkin erityisasemassa.
 Puhuja 0: Liittyikö siihen vähän sellaista.
 Puhuja 2: Hän väheksyntääsä.
-Puhuja 0: Vähekyntää, niin.
+Puhuja 0: Vähekyntääsä.
 Puhuja 0: Nämä ovat hyvin suomalaisia
 Puhuja 0: esimerkkejä.
 Puhuja 0: Ne
@@ -279,7 +277,8 @@ Puhuja 0: kurlaava horro joskus kaksituhatta.
 Puhuja 0: Sä oot vaikka kielellä näin.
 Puhuja 0: Se on jännittävää,
 Puhuja 0: mitä tässä skenessä tapahtuu.
-Puhuja 2: Totta puhuu.
+Puhuja 0: Totta
+Puhuja 2: puhuu.
 Puhuja 2: Anteeksi, voin sanoa.
 Puhuja 0: Niin. Sä olet Parkin kilometriä mun lempparinen.
 Puhuja 1: Mennäänkö eteenpäin? Pääsinpä
@@ -305,19 +304,17 @@ Puhuja 1: ja ostin sen kirjan häneltä joku aika sitten ja turvesin sitä nyt v
 Puhuja 1: lukemaan ja se oli minusta
 Puhuja 1: kiehtova
 Puhuja 1: kokemus.
-Puhuja 1: Jouni on vaan niin sairaan hyvä kirja, se on ihan sika hyvä kirja. Sitä lukee
+Puhuja 1: Jouni on vain niin sairaan hyvä kirja, se on ihan sika hyvä kirja. Sitä lukee
 Puhuja 1: niin kuin... Se ei ole semmoinen julkkiselämäkerta
 Puhuja 1: vaan aito
-Puhuja 1: elämäkerta.
-Puhuja 1: Se on tehty kauheasti töitä ja siinä mennään todella syvälle hänen persoonaansa ja elämäänsä.
+Puhuja 1: elämäkerta. Se on tehty kauheasti töitä ja siinä mennään todella syvälle hänen persoonaansa ja elämäänsä.
 Puhuja 1: Todella makee kirja. En ole usko puolivälissä mutta
 Puhuja 1: voin, en ole yllättynyt kun Jouni on huikean hirveän toimittaja ja kirjoittaja.
-Puhuja 1: Se kirja oli silti,
-Puhuja 1: en pystynyt vain laskemaan sitä kädestä. Olen luin ja luin, se oli minusta niin hyvin kirjoitettu.
+Puhuja 1: Se kirja oli silti, kun en pystynyt vain laskemaan sitä kädestä. Olen luin ja luin, se oli minusta niin hyvin kirjoitettu.
 Puhuja 1: Suosittelen sitä.
 Puhuja 2: Kyllä, pitää tottua.
 Puhuja 2: Haluaisin suositella
-Puhuja 2: teille Ujuni Ahmedin podcastin etenkin se uusintajaksoa.
+Puhuja 2: teille Ujuni Ahmedin Podcast etenkin se uusintajaksoa.
 Puhuja 2: Olen yksinltä kuunnella sitä. Se oli aiheena
 Puhuja 2: Afganistanin.
 Puhuja 2: Siellä oli keskustelemassa Aziza Hosseiniä,
@@ -336,7 +333,8 @@ Puhuja 2: tilanteeseen ja Talibanin Sharia tulkintoihin. Ja miten he itse näkee
 Puhuja 2: Patriarkaaliset islamin tulkinnat ja eri maissa naisten asemat. Miksei synny jotain globaalia musliminaisten
 Puhuja 2: liikehdintää
 Puhuja 2: esimerkiksi.
-Puhuja 2: Se oli älyttömän kiinnostavia. Hän oli tosi teräviä
+Puhuja 2: Tällaisessa
+Puhuja 2: tilanteessa. Se oli älyttömän kiinnostavaa. Hän oli tosi teräviä
 Puhuja 2: puhujia ja
 Puhuja 2: puhuu minusta mielenkiintoista.
 Puhuja 2: Ujuniahmetin
@@ -344,9 +342,9 @@ Puhuja 2: vieraana. Ujuniahmed
 Puhuja 2: on ihmisoikeusaktivisti.
 Puhuja 0: Hän on aika kärkäs.
 Puhuja 0: Twitter kommentoi myös.
-Puhuja 2: Niin, en tiedä onko sen. No ehkä kärkässin. Niin, siis suhun
-Puhuja 2: verrattuna.
-Puhuja 2: Tosi virkistävää ja
+Puhuja 2: Niin, en tiedä onko sen. No ehkä kärkässin.
+Puhuja 2: Niin, siis suhun verrattuna.
+Puhuja 2: Jotenkin tosi virkistävää ja
 Puhuja 2: keskustelua,
 Puhuja 2: mitä
 Puhuja 2: minusta julkisuudessa ei kauhean usein kuule.
@@ -356,11 +354,12 @@ Puhuja 0: Ujuni Ahmenin niminen podcast.
 Puhuja 0: Pian kuunnella.
 Puhuja 0: Haluan nyt selventää, että kun äsken sanoin,
 Puhuja 0: että Permaalla kurlaava horo, niin tarkoitin, että
-Puhuja 0: tuosta,
+Puhuja 0: tosta,
 Puhuja 0: joka on ehkä se alin, mitä on, ollaan päästy siihen, että arvioidaan totaalisen uusiksi ihminen. Se on häkellyttävää hienoa ja upeaa. En tarkoittanut sitä.
 Puhuja 1: Ai sä huolestuit tässä.
 Puhuja 0: Mulla on
-Puhuja 0: käsittämätön suositus, täysin
+Puhuja 0: käsittämätön
+Puhuja 0: suositus, täysin
 Puhuja 0: epätyypillinen
 Puhuja 0: itselleni, nimittäin fiktiokirja.
 Puhuja 0: Ja vielä,
@@ -371,7 +370,7 @@ Puhuja 0: Se on semmoinen kirous, minkä mun isä langetti mun päälle.
 Puhuja 0: Muistan sen hetken, seisoin meidän olohuoneessa.
 Puhuja 0: Muistaakseni
 Puhuja 0: iskällä oli ajan lyhyt historia siinä. Ja sitten jotain puhuin siitä, me aika paljon puhuttiin isän kanssa kirjoista,
-Puhuja 0: Puhuin hänen kanssaan. Sitten hän vain mainitsi siinä, että
+Puhuja 0: Minä puhuin hänen kanssaan. Sitten hän vain mainitsi siinä, että
 Puhuja 0: hän ei pysty enää lukemaan fiktiota.
 Puhuja 0: Tuntuu niin typerältä, miksi jonkun ihmisen keksimiä juttuja, kun nämä oikeat jutut ovat niin kiinnostavia ja osoitti ajan lyhyen historiaa.
 Puhuja 0: Silloin se oli mielestäni aivan uskomattoman käsittämätön
@@ -389,8 +388,7 @@ Puhuja 0: Se on semmoinen kuin Susen & Clarkin
 Puhuja 0: Piraneesi.
 Puhuja 0: Susanne Clar on käsittämättömän
 Puhuja 0: upea kirjailija, kirjoittanut ennen tätä vuonna kaksituhatta neljä yhden kirjan
-Puhuja 0: nimeltään Johnathan Strange ja Mroral,
-Puhuja 0: joka oli fantasiamaailmassa semmoinen tapaus. Se oli semmoinen uskomaton
+Puhuja 0: nimeltään Johnathan Strange ja Mroral, joka oli fantasiamaailmassa semmoinen tapaus. Se oli semmoinen uskomaton
 Puhuja 0: käsittämättömän upea
 Puhuja 0: kirja
 Puhuja 0: magiasta
@@ -453,7 +451,8 @@ Puhuja 0: ja on poliitikkoja,
 Puhuja 0: ja on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa ja se, miten hänen ajatuksensa säteli sieltä koko maailmaan seuraavina vuosikymmeninä.
 Puhuja 0: On Greta Thunynberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
 Puhuja 0: Ja tottakai
-Puhuja 0: on Vladimir Putin ja hänen Hämääkin verkkonsa.
+Puhuja 0: on Vladimir Putin ja hänen Hämääkinverkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
-Puhuja 0: menetetyt miljardit.
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.

@@ -17,8 +17,8 @@ Puhuja 0: torstaina
 Puhuja 0: kolmekymmentä päivä lokakuuta vuonna kaksituhatta
 Puhuja 0: kaksikymmentäneljä. Nimeni on Tuomas Peltomäki ja kanssani täällä Helsingin Sanomien podcast-studiossa
 Puhuja 0: väliaikaisessa
-Puhuja 0: sellaisessa viides kerros-Sanomattalon
-Puhuja 0: nimisessä rakennuksessa. Suomen, pääkaupungissa ja Helsingissä ovat
+Puhuja 0: sellaisessa viides kerros-sanomatlon
+Puhuja 0: nimisessä rakennuksessa Suomen, pääkaupungissa ja Helsingissä ovat
 Puhuja 0: politiikkaa toimittaa
 Puhuja 0: Marko Junkkari Helsingin Sanomissa.
 Puhuja 0: Hei Marko.
@@ -31,7 +31,7 @@ Puhuja 0: Tässä vieressä
 Puhuja 0: istuu varsin
 Puhuja 0: Anna-Sofia Berner,
 Puhuja 0: ystävien kesken Sohvi. Hei Sohvi. Hei, Sohvi. Heipä hei. Mä olin aamupäivän Tapiolassa. Ehkä se tuo vähän ryhtiä. Aijaa. Ai se oli tämä aamupäivä?
-Puhuja 0: Oliko se sun kirjo kiertueella? En, mä olin tekemässä haastattelua.
+Puhuja 3: Oliko se sun kirjo kiertueella? En, mä olin tekemässä haastattelua.
 Puhuja 0: Töissä,
 Puhuja 0: hienoa.
 Puhuja 0: Sen lisäksi meillä on, silloin, kun tilanne käy
@@ -51,10 +51,9 @@ Puhuja 0: ulkomaan tuntia numero yksi
 Puhuja 0: tästä
 Puhuja 0: uutisorganisaatiosta,
 Puhuja 0: nimeltä Helsingin Sanomat. Hei Jukka! Terve, Tuomas.
-Puhuja 2: Kerrotko itsestäsi, kun mä en oikein tiedä, mitä sä teet?
+Puhuja 2: Kerrotko itsestäsi, kun en oikein tiedä, mitä teet?
 Puhuja 0: Mä olen Helsingin Sanomien tämmöinen podcast-heppoli.
-Puhuja 0: Tämän
-Puhuja 0: viikon
+Puhuja 0: Tämän viikon
 Puhuja 0: podcastissa keskustellaan...
 Puhuja 0: Kuten tuli mainittua
 Puhuja 0: Lähi-idän tilanteesta.
@@ -70,8 +69,8 @@ Puhuja 0: sodaksi.
 Puhuja 0: Onko näin?
 Puhuja 0: Mistä on kyse?
 Puhuja 0: Tässä
-Puhuja 0: on nyt toistensa kimpussa? Keskustellaan
-Puhuja 0: siitä.
+Puhuja 0: on nyt toistensa kimpussa,
+Puhuja 0: keskustellaan siitä?
 Puhuja 0: Sen lisäksi puhutaan
 Puhuja 0: huolestuttavista
 Puhuja 0: tutkimustuloksista, joissa on
@@ -81,8 +80,8 @@ Puhuja 0: siihen, miten maahanmuuttajataustaisella
 Puhuja 0: nuorisolla menee
 Puhuja 0: suomalaisissa
 Puhuja 0: kouluissa.
-Puhuja 0: Kyse on tästä PISA-kaksikymmentäkaksi
-Puhuja 0: tutkimuksesta, jossa
+Puhuja 0: Kyse on
+Puhuja 0: PISA-kaksikymmentäkaksi tutkimuksesta, jossa
 Puhuja 0: seurataan suomalaisten
 Puhuja 0: koulumenestystä,
 Puhuja 0: joka on ollut vuoden kaksituhatta kuusi jälkeen aina vaan huonompaa, mutta nyt luotiin
@@ -148,13 +147,16 @@ Puhuja 0: ystävällisen,
 Puhuja 0: innostuneen meining kautta.
 Puhuja 0: Se jotenkin imee mukaan. Se on niin hyvä tie...
 Puhuja 0: Ei tiedonvälityksen,
-Puhuja 0: mutta semmoisen jotenkin ymmärryksen ja välittäjään.
+Puhuja 0: mutta semmosen jotenkin ymmärryksen ja välittäjään.
 Puhuja 3: Siitä olen tosi samaa mieltä. Samaan aikaan olin kauhissani, kun kuuntelin sitä, koska se myös osoitti,
 Puhuja 3: miten tyhjä suuri osa
 Puhuja 3: mediapuheesta ja analyysista on, koska ne käyttivät myös paljon semmoisia
 Puhuja 3: kliseitä,
-Puhuja 3: että nyt on tällaista, aika näyttää,
-Puhuja 3: ja onpa kiinnostavaa. Ja hirveästi täysin tyhjiä lauseita,
+Puhuja 3: että
+Puhuja 3: nyt on tällaista, aika näyttää
+Puhuja 3: ja onpa kiinnostavaa. Ja
+Puhuja 3: hirveästi
+Puhuja 3: täysin tyhjiä lauseita,
 Puhuja 3: jotka olivat
 Puhuja 3: pelottavan
 Puhuja 3: oli hämmentynyt ja sitten vähän ärsyynyin myös siitä, miten tyhjää se
@@ -166,15 +168,15 @@ Puhuja 0: erinomainen haastattelu, kannattaa ehdottomasti kuunnella. Muutenkin h
 Puhuja 0: Stephen Jonson sanoi, että he kehittyi tätä...
 Puhuja 0: Se
 Puhuja 0: toimii suurin piirtein silleen, että se on se perus kielimalli, joka generoi tekstiä. Silloin, kun me syötetään meidän
-Puhuja 0: generoi tekstiä. Silloin, kun me syötetään meidän uutisraportti podcast, niin oikeasti, minkä se tekee, on se ottaa sen transkription, jonka Youtube tekee.
+Puhuja 0: generoi tekstiä. Silloin, kun me syötetään meidän uutisraportti podcast, niin oikeasti, minkä se tekee, on se ottaa sen transkription, jonka YouTube tekee.
 Puhuja 0: Sitten se lukee sitä transkriptiota.
 Puhuja 0: Se ei kuuntele sitä podcastia ääntä, vaan
-Puhuja 0: molemmille Robo-puhujalle,
+Puhuja 0: molemmille robotopuhujalle,
 Puhuja 0: niin kuin nyt ChatGPT generoi tekstiä.
 Puhuja 0: Sen jälkeen puhesyntadisaattori
 Puhuja 0: lukee sen tekstin
-Puhuja 0: Robo-podcastajien
-Puhuja 0: äänellä. Steven Jonsson sanoi siinä, että kun he olivat tekemässä tätä ja he huomasivat, että ei hitta, se tuli jostain toisesta projektista tähän projektiin tämä
+Puhuja 0: robot-podcastajien
+Puhuja 0: äänellä. Steven Jonson sanoi siinä, että kun he olivat tekemässä tätä ja he huomasivat, että ei hitta, se tuli jostain toisesta projektista tähän projektiin tämä
 Puhuja 0: podcast-ominaisuus.
 Puhuja 0: Aluksi se oli semmoinen no filler no nonsens.
 Puhuja 0: Suoraan asiaan just pois nämä sun
@@ -210,7 +212,8 @@ Puhuja 0: Kun mä vaikka joskus
 Puhuja 0: yritän neuvoa meidän nuorempia toimittajia, miten tehdään podcasteja,
 Puhuja 0: niin painotan, että
 Puhuja 0: se vaikein asia podcastissa on olla ihminen. Olla niin kuin...
-Puhuja 0: Englannksi on semmoinen sanonta kuin words in all
+Puhuja 0: Englannksi on semmoinen sanonta kuin words in
+Puhuja 0: all
 Puhuja 0: ryppyineen päivineen.
 Puhuja 0: Olla
 Puhuja 0: oikea, aito ihminen siellä. Se on kaikista vaikeinta.
@@ -228,7 +231,7 @@ Puhuja 0: ei silleen pysty korvaamaan.
 Puhuja 3: Varmaan tähän pätee sama kuin moneen muuhunkin. Muuhunkin.
 Puhuja 3: Semmoinen vähän turhempi
 Puhuja 3: toivon mukaan katoaa.
-Puhuja 3: Me voidaan tehdä vaan entistä paremmin. Mutta vakava kysymys, koska podcastaajat on
+Puhuja 0: Me voidaan tehdä vaan entistä paremmin. Mutta vakava kysymys, koska podcastaajat on
 Puhuja 0: kuitenkin pieni siivujournalismi.
 Puhuja 0: Mun
 Puhuja 0: mielestä
@@ -241,7 +244,7 @@ Puhuja 0: tiedotteen, että hei, nyt on paljon auringonpaistetta ja siitepölyä
 Puhuja 0: Joku toimittaja
 Puhuja 0: palvelee
 Puhuja 0: ihmisiä koostamalla siitä olennaiset osat ja sitten ehkä
-Puhuja 0: lukemalla jostain wikipediasta,
+Puhuja 0: lukemalla jostain Wikipediasta,
 Puhuja 0: mikä kasvi koivu oli ja sitten siitä tulee se synteesi, joka on bulkkiuutisjuttu.
 Puhuja 0: Nämä meni nyt pois. Ne tulee
 Puhuja 0: tätä kautta
@@ -249,7 +252,7 @@ Puhuja 0: tapahtumaan.
 Puhuja 0: Näin mä uskon.
 Puhuja 0: Teillä ei ole meidän alasta mitään sanottavaa tai huomioita. Tai
 Puhuja 0: kannustuksen sanaa nuorille toimittajille.
-Puhuja 0: Okei.
+Puhuja 2: Okei.
 Puhuja 0: Sitten, kun......
 Puhuja 0: Rakikuppi täytti,
 Puhuja 0: istutte
@@ -317,7 +320,7 @@ Puhuja 2: Maliran on
 Puhuja 2: siis Laboren, joka on Taloustutkimuslaitos,
 Puhuja 2: toimitusjohtaja ja Jyväskylän yliopiston professori.
 Puhuja 2: Kirja on syntynyt. Hän on käynyt monen vuoden aikana puhumassa eri tahoille. Malirannan
-Puhuja 2: on tavallaan tutkimuskohde, jossa hän on
+Puhuja 2: on tavallaan tutkimuskohde, missä hän on
 Puhuja 2: parhaimmillaan ja varmaan Suomen paras, on tällainen luova tuho, miten työpaikkoja syntyy, miten työpaikkoja häviää, miten ihmiset vaihtavat työpaikkaa ja miten talous luovan tuhon kautta kehittyy.
 Puhuja 2: Se Maire on useamman vuoden ajan käynyt tästä puhumassa ja käynyt läpi erilaisia tilastoja ja dataa.
 Puhuja 2: Hänen näkemyksensä onkin
@@ -328,7 +331,7 @@ Puhuja 2: merkittävä
 Puhuja 2: talouskasvun
 Puhuja 2: paikka johtuen.
 Puhuja 2: Ennen kaikkea
-Puhuja 2: suht uusista start upeista. Täällä on
+Puhuja 2: suhteellisen uusista start upeista. Täällä on
 Puhuja 2: kaksituhatta
 Puhuja 2: 12-kuusitoista
 Puhuja 2: välillä perustettu
@@ -341,14 +344,15 @@ Puhuja 2: vauhdittaa kasvua.
 Puhuja 2: Yksi seikka on myös se, että koska Suomen tuottavuuden... Kaikki lähtee siis tuottavuuden kasvusta, ja Suomen tuottavuuden kasvu
 Puhuja 2: on ollut niin huonossa jamassa. Se rupeaa vääjäämättä
 Puhuja 2: jossain vaiheessa. Sen on pakko kasvaa.
-Puhuja 2: Mutta Maliran pointti on se, että tämä ei ole varmaa, mutta voi hyvinkin
+Puhuja 2: Malirannan pointti on se, että tämä ei ole varmaa, mutta voi hyvinkin
 Puhuja 2: olla, että...
 Puhuja 3: Kulollemme ovat poispyyhitty.
 Puhuja 2: Ei poispyyhity.
 Puhuja 2: Eilen
 Puhuja 2: tämän kirjan julkistustilaisuudessa,
 Puhuja 2: ja siellä myös Mariranta puhui siitä, että
-Puhuja 2: ei tarkoita sitä, että ei tarvitse alan sopeuttaa taloutta ja hoitaa taloutta ja eletään, ei ole mikään
+Puhuja 2: ei tarvitse
+Puhuja 2: alan sopeuttaa taloutta ja hoitaa taloutta ja eletään, ei ole mikään
 Puhuja 2: vapaamatkustajan
 Puhuja 2: paikka.
 Puhuja 2: En malta olla sanomatta
@@ -359,15 +363,17 @@ Puhuja 2: Lähitte
 Puhuja 2: erittäin aggressiiviseen Twitter-viestinnässä
 Puhuja 2: Malirannalle,
 Puhuja 2: jossa hän sanoi,
+Puhuja 2: että ihmetteli, mitä hyötyä määrätietoisen
+Puhuja 2: kasvutoimenpide
+Puhuja 2: tahtotilan esittämisessä on. Musta ajatus on kokoomuksessa Matti Paasi ajatteli,
 Puhuja 2: että
-Puhuja 2: ihmetteli, mitä hyötyä määrätietoisen kasvutoimenpide
-Puhuja 2: tahtotilan esittämisessä
-Puhuja 2: on. Musta ajatus on
 Puhuja 2: Nyt on voimakas
 Puhuja 2: kasvotoimenpide tahtotila.
 Puhuja 2: Saavutettu Suomen kansan keskuuteen. Ja nyt tällainen urpo.
 Puhuja 2: Joku maliranta tulee sössimään. Ei menekään niin huonosti.
-Puhuja 2: Vau. Maliranta vasta
+Puhuja 2: Vau. Maliranta vasta hänelle aika tylysti, että hän
+Puhuja 2: on tiedemies ja pitäisikö hänen tehdä
+Puhuja 2: kirjan lopputulemat sen mukaan mitä kokoomus haluaa. Etkö hän lähde siitä mitä se data
 Puhuja 2: kertoo.
 Puhuja 2: Suosittelen pinnan alta Mika Maliranta.
 Puhuja 0: Hyvä.
@@ -399,7 +405,7 @@ Puhuja 0: He tekee ruokaa
 Puhuja 0: kaikennäköisistä
 Puhuja 0: huonommista
 Puhuja 0: lihan, ruhon osista.
-Puhuja 0: Eli ei pelkkää filettä, vaan siellä on niiden nimetä tai joku scurd-stake,
+Puhuja 0: Eli ei pelkkää filettä, vaan sitten siellä on niiden nimetä tai joku scurd-stake,
 Puhuja 0: jotain tällaista, mistä täällä Siperiassa
 Puhuja 0: ei olla vielä kuultukaan.
 Puhuja 0: Mutta tavallaan käytetään
@@ -456,15 +462,15 @@ Puhuja 0: Fi. Siellä on paikalliset
 Puhuja 2: tuotteet. Miten siellä tilalla voi olla, koska
 Puhuja 2: eihän ne siellä tilalla teurasta niitä eläimiä? On myös teurastamoita.
 Puhuja 0: Mitä voi hakea.
-Puhuja 0: Mä en tiedä tarkkaan, miten se toimii. Siellä lukee, mitä ne myy.
+Puhuja 0: Mä en tiedä tarkkaan, miten se toimii. Mutta siellä lukee, mitä ne myy.
 Puhuja 0: Eli aitojenmakuja.
 Puhuja 0: Fi. Käykää sieltä ja menkää sieltä ostamaan
-Puhuja 0: jotain muuta kuin fileettä.
+Puhuja 0: jotain muuta kuin filettä.
 Puhuja 0: Siinä kaikki tältä erää. Kiitos Anna-Sofia Bermero. Kiitos. Kiitos Marko Junkkari. Kiitos. Mun nimi on Tuomas Pelmäki.
 Puhuja 0: Äänenkuva ja kaiken muun meille tekee tällä viikolla Mikko Peura. Kiitos Mikko.
 Puhuja 0: Laittakaa meille palautetut
-Puhuja 0: ja kuullaan taas...
-Puhuja 0: Vaikka ensi viikolla!
+Puhuja 0: ja kuullaan
+Puhuja 0: taas... Vaikka ensi viikolla!
 Puhuja 0: Moi, Tuomas tässä.
 Puhuja 0: Mun uusi podcast Menetetyt miljardi,
 Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio syntyi.

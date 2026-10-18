@@ -9,8 +9,9 @@ Puhuja 0: Sanomatalossa Helsingissä
 Puhuja 0: osoitteessa Töölönlahden KU2.
 Puhuja 0: Katso, katu, katu, kaksi. Vuonna kaksi, ei mitä, apua. No niin, on
 Puhuja 0: politiikkaa toimittava.
-Puhuja 0: Helsingin Sanomista toimittava.
-Puhuja 1: Pukeeltu. Se on totta. Mutta niin säkin, että mulla on jäänyt saman tila jos ei taida olla.
+Puhuja 0: Helsingin Sanomista toimittava. Marko Juncker. Hei ja Marko. Nojis.
+Puhuja 0: Sä olet varsin feenisti pukeutunut tänään? Onko joku erityinen?
+Puhuja 1: Ainahan mä olen pukeeltu. Se on totta. Mutta niin säkin, että mulla on jäänyt saman tila jos ei taida olla.
 Puhuja 0: Saako sen kertoa? Kyllä sen saa.
 Puhuja 0: En mä tiedä. En mä käy tiedä. Ei sanota mitään. Jätetään kutkuttava mysteeriksi.
 Puhuja 0: Mutta sanotaan, että siihen liittyy
@@ -88,7 +89,7 @@ Puhuja 0: palestiinalaiset
 Puhuja 0: asiansa
 Puhuja 0: on tärkeä
 Puhuja 0: ja tämä on heille kuohuvuttavaa.
-Puhuja 0: Mut mun on pakko ihailla, mistä
+Puhuja 0: Mutta Mut mun on pakko ihailla, mistä
 Puhuja 0: helvetistä
 Puhuja 0: jo viidettä vuotta tranpre repineitä siis joka päivä... Siis joka päivä... Kymmenettä vuotta.
 Puhuja 0: No, neljä vuotta aiempi presidentinkausi, ja nyt on viides vuosikämistö. No, totta.
@@ -97,20 +98,19 @@ Puhuja 0: Miten se mielikuvitus
 Puhuja 0: riittää näihin juttuihin?
 Puhuja 0: Että se pystyy ylittämään itsensä päivä toisensa jälkeen keksimään jotain vielä absurdimpaa
 Puhuja 0: kuin aiempina vuosina. Kuin Grönlanti?
-Puhuja 0: Kyllä! Miten se pystyy?
+Puhuja 0: Kyllä!
+Puhuja 0: Miten se pystyy?
 Puhuja 0: Puhutaan tästä.
-Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita pitkien epämukavien hiljaisyyksien
+Puhuja 0: Lopuksi vielä hyviä keskustelunaiheita
+Puhuja 0: pitkien epämukavien hiljaisyyksien
 Puhuja 0: varalle.
-Puhuja 2: Niin se ohittaa tämän koko
+Puhuja 2: Niin se ohittaa koko
 Puhuja 2: vuosikymmeniä kestäneen konfliktin perusasian, joka on juuri se, että ne ihmiset haluavat olla siellä. Ja ne on ollut siellä, ja ne ei halua sieltä pois.
 Puhuja 0: Vielä haluatko sä, sohvi, haluatko
 Puhuja 0: sä lyhyesti? Mä en ole jaksanut seurata sen maskin
 Puhuja 0: edesottamuksia.
-Puhuja 0: Silloin tämä doge, jonka amerikkalaiset jostain syystä lausuu, että does. Joo, mä olen miettinyt sitä, miksi en mä kääntä. Se kuuluu. Maistuisi suussa ihan hyvältä, että se olisi does.
-Puhuja 2: En mä tiedä. No niin,
-Puhuja 0: Musk vetää sitä. Siellä
-Puhuja 0: ilmeisesti Trump antoi hänelle jotain erityisvaltuuksia,
-Puhuja 0: jossa hän pystyy pääsemään
+Puhuja 0: Silloin tämä doge, jonka amerikkalaiset jostain syystä lausuu, että does.
+Puhuja 0: Pääsemään
 Puhuja 0: käsiksi Valtiokonttoritietoihin,
 Puhuja 0: järkeistämään,
 Puhuja 0: siivoamaan, antamaan potkuja, lopettamaan kokonaisia
@@ -123,7 +123,8 @@ Puhuja 0: Hän on
 Puhuja 0: niin vaikuttava tyyppi, että Jos haluatte nähdä nimenomaan hienon naisen, käykää tsekkaamassa
 Puhuja 2: sägawein
 Puhuja 2: kaltaisilla, joka oli siis Obaman hallinnon ajan virkamies, ei ole nyt valtaa Yhdysvalloissa, sanotaanko näin.
-Puhuja 2: Niin. Ja mietin, että
+Puhuja 2: Niin.
+Puhuja 2: Ja mietin, että
 Puhuja 2: Pohjallahan on se ajatus
 Puhuja 2: tai kaksi asiaa Trump
 Puhuja 2: ja osin varmaan
@@ -146,7 +147,7 @@ Puhuja 2: ympäri maailmaa huomisesta alkaen
 Puhuja 2: ajataan lomauttaa, ja heillä on kolmekymmentä päivää aikaa palata Yhdysvaltoihin sieltä eri puolilta maailmaa, missä he nyt saavat olemaan tekemässä
 Puhuja 2: jotain malarian vastaista työtä
 Puhuja 2: tai
-Puhuja 2: kaikenlaista. Siis kaikki USA:n liittovaltion työntekijä. Ei kaikki USA:n. Juuri.
+Puhuja 2: kaikenlaista. Siis kaikki liittovaltion työntekijä. Ei kaikki USA:n. Juuri.
 Puhuja 2: Mutta kaikki liittovaltion työntekijät saivat tämän viestin, että ota lobbarit, ota lähtöpaketti
 Puhuja 2: käytännössä. Ja ilmeisesti noin
 Puhuja 2: joitakin kymmeniätuhansia tähän ainakin tarttumassa.
@@ -159,7 +160,7 @@ Puhuja 0: kaikkea. Ö say this a crivingal organization.
 Puhuja 2: Tätä nyt tapahtuu, ja sitten kaikki ovat vähän helisemässä. Jos mietitään tätä meidän sote-uudistusta,
 Puhuja 2: ja mitä me puhuimme siitä,
 Puhuja 2: kuinka monta vuotta annetaan johonkin siirtymäaikoihin, niin tämä kaikki ei ole poispyyhittyä, vaan asioita tapahtuu.
-Puhuja 2: Nyt halutaan, että tapahtuu nopeasti.
+Puhuja 2: Nyt halutaan, että tapahtuu nopeasti,
 Puhuja 2: Ja osin
 Puhuja 2: monien mielestä laittomasti,
 Puhuja 2: ja että he käyttävät valtaa, jota heillä ei ole.
@@ -186,18 +187,20 @@ Puhuja 0: arkkitehti. Ja sitten Esro Clin näytti videoklipin,
 Puhuja 2: missä tämä Stea Bännan sanoo. Niin, se on se kuuluisa sitaatti, että
 Puhuja 0: mitä tehdään on, että koska
 Puhuja 0: ihmiset saavat tietonsa
-Puhuja 0: politiikasta median läpi, niin mitä tehdään on se, että medialle lähetetään joka päivä kolme asiaa, kolme aivan jotain pähkähullua
+Puhuja 0: politiikasta median läpi, niin mitä tehdään on se, että medialle
+Puhuja 0: lähetetään joka päivä kolme asiaa, kolme aivan jotain pähkähullua
 Puhuja 0: viestiä,
 Puhuja 0: joista vähintään yhteen media, sen on pakko tarttua, koska se on median toimintalogiikka,
 Puhuja 0: että jotain uutta tulee, niin siitä uutisoidaan.
 Puhuja 0: Sitten kaikki tarttuu siihen johonkin yhteen niistä kolmesta, mitä on lähetetty ja alkaa myllyttää sitä ihan valtavalla volyymilla,
 Puhuja 0: Jolloin media, jonka pitäisi kertoa ihmisille siitä, mitä tapahtuu ja seurata, mitä tapahtuu, media tavallaan
-Puhuja 0: väistämättä kompastuu omiin jalkoihinsa ja se ei pysty hoitamaan sitä tietotehtävää. Kun miettii sitä, että me ollaan kaksi viikkoa kirjoitettu siitä pervoillusta koulussa, mutta ajattelinko, että pervoja tulisi joka päivä? Joka päivä kolme eri vaihtoehtoa, mihin tarttuu, mihin tämän tyyppiseen syötteeseen.
-Puhuja 0: Siinä kun se Ester CLIE näytti sen, oli aivan täysin kiistatonta, että tämä on meneillään. Se oli ihan selkeää, että just tämä on meneillään. Tämä on taktiikka, jota Trump käyttää. Mä oon samaa mieltä, mutta samaan aikaan kun mä sanoin sitä, että mä olen herännyt joka aamu siihen, että mitä tässä nyt pitäisi, että mitä nyt taas.
+Puhuja 0: väistämättä kompastuu omiin jalkoihinsa ja se ei pysty hoitamaan sitä tietotehtävää. Kun miettii sitä, että me ollaan kaksi viikkoa kirjoitettu siitä pervoulasta koulussa, mutta ajattelinko, että pervoja tulisi joka päivä? Joka päivä kolme eri vaihtoehdot, mihin tarttuu, mihin tämän tyyppiseen syötteeseen.
+Puhuja 0: Siinä kun se Esro Cly näytti sen, oli aivan täysin kiistatonta, että tämä on meneillään. Se oli ihan selkeää, että just tämä on meneillään. Tämä on taktiikka, jota Trump käyttää. Mä oon samaa mieltä, mutta samaan aikaan kun mä sanoin sitä, että mä olen herännyt joka aamu siihen, että mitä tässä nyt pitäisi, että mitä nyt taas.
 Puhuja 2: Niin sitten sitä joutuu nimenomaan koko ajan käymään päässään läpi, että mikä on
 Puhuja 2: todellista. Onko tällä oikeita vaikutuksia? Onko tämä alarmismia
 Puhuja 2: vai
-Puhuja 2: onko tämä totta? Ja se on sellainen pohdinta, mihin tämä myös johtaa. Ja kyllä tässä on varmasti
+Puhuja 2: onko tämä totta? Ja se on sellainen pohdinta, mihin tämä
+Puhuja 2: myös johtaa. Ja kyllä tässä on varmasti
 Puhuja 2: Yhdysvalloissa tällä hetkellä valtava määrä tosi peloissaan olevia
 Puhuja 2: virkamiehiä
 Puhuja 2: esimerkiksi, ja se
@@ -210,8 +213,7 @@ Puhuja 2: modernin byrokratian ja
 Puhuja 2: hallinnon rooli ja merkitys ja asiantuntemuksen
 Puhuja 2: ja osaamisen ja kaiken sellaisen, että onko sillä
 Puhuja 2: merkitystä vai onko se ihan turhaa.
-Puhuja 2: Ja
-Puhuja 2: voisiko Elon maskit tuntuu uskovan, että kaiken voisi tehdä paljon vähemmällä ja paljon tehokkaammin.
+Puhuja 2: Ja voisiko, niin kuin Elon maskit tuntuu uskovan, että kaiken voisi tehdä paljon vähemmällä ja paljon tehokkaammin.
 Puhuja 2: Mutta jos katsotaan, mihin
 Puhuja 2: Amerikan veronmaksajien rahat menevät, niin ne ovat eläke,
 Puhuja 2: terveydenhoitajapuolustus,
@@ -232,7 +234,7 @@ Puhuja 0: Sitten teidän pitää siinä jotenkin pyrkiä
 Puhuja 0: keskustelemaan kaikkien valtakunnan silmää tekevien kanssa. Mistäs heille
 Puhuja 1: juttelette?
 Puhuja 1: Jos aloitetaan,
-Puhuja 1: kun tämä jotenkin liittyy tuohon, mitä Sohvi äsken mun mielestä hienosti kuvasi.
+Puhuja 1: kun tämä liittyy tuohon, mitä Sohvi äsken mun mielestä hienosti kuvasi.
 Puhuja 1: New York Timesissa
 Puhuja 1: oli historian professori,
 Puhuja 1: Jenny För Mitter Stad.
@@ -255,9 +257,9 @@ Puhuja 1: Hän sanoo, että näitä on myös neljäs ryhmä.
 Puhuja 1: Hän kutsuu niitä
 Puhuja 1: tässä esseessään
 Puhuja 1: Sover niists.
-Puhuja 1: Mitä se lausutaan? Sovernists. Sovern,
-Puhuja 1: ei. Sovern,
-Puhuja 1: Sovern, Soventista.
+Puhuja 1: Mitä se lausutaan? Sover En. Sover En. SoverN, eiks,
+Puhuja 0: SoverNS OverNS.
+Puhuja 1: Ja SoverNS OverNS OverNS.
 Puhuja 1: Se kirjoittaa,
 Puhuja 1: että mitä Trump tekee, että hän himoitsee Panaman kanavaa tai Grönlantia,
 Puhuja 1: niin
@@ -281,12 +283,13 @@ Puhuja 1: ohjelmaan
 Puhuja 1: ja tavoitteisiin.
 Puhuja 1: Tämä on musta
 Puhuja 1: tosi pitkä ja tosi kiehtova. Mikä se oli? Miten sen löytää? Kirjoittaja
-Puhuja 1: oli siis...
+Puhuja 1: oli
+Puhuja 1: siis...
 Puhuja 1: Kirjoittaja oli
 Puhuja 1: Jenny Ferran
-Puhuja 1: Mitter Stad.
-Puhuja 1: Esseen nimi oli Widedaust Trump Threts in Amerikassa Alice. Kuka se on julkaissut? Joo.
-Puhuja 1: Ja tämmöinen Gesto essee.
+Puhuja 1: Tel Stad.
+Puhuja 1: Esseen nimi oli Widedaust Drump trets in Amerikassa Alice. Kuka se on julkaissut? Joo.
+Puhuja 1: Ja tämmöinen Gaste.
 Puhuja 2: SAF. Tästä tulee ihana Amerikan historian katsaus.
 Puhuja 2: Voiko olla mitään parempaa? Minä olen lukenut sattumalta nyt.
 Puhuja 2: Sain siis kirjastosta
@@ -295,8 +298,7 @@ Puhuja 2: jonka olin tehnyt joskus loppuvuodesta,
 Puhuja 2: tällaisen Door is Kierrans
 Puhuja 2: Goodwimin kirja: Anfinished
 Puhuja 2: Love story, a Personal History of the Siksdes.
-Puhuja 2: Olin varannut tämän, kun tämä oli jossain vuoden parhaat kirjat listalla ja sitten kiitos
-Puhuja 2: Helsingin kaupungin kirjaston, niin se tipahti minulle
+Puhuja 2: Olin varannut tämän, kun tämä oli jossain vuoden parhaat kirjat listalla ja sitten kiitos Helsingin kaupungin kirjaston, niin se tipahti minulle
 Puhuja 2: juuri nyt.
 Puhuja 2: Ja mä ensin katsoin sitä kirjaa, että tämä näyttää aika
 Puhuja 2: vanhanaikaiselta
@@ -309,7 +311,7 @@ Puhuja 2: työskenteli myös silloisen presidentin Linnob Bezonsonin hallinnossa
 Puhuja 2: Ja sitten hän oli hänen puolisonsa. He menivät naimisiin vasta myöhemmin, mutta hänen puolisonsa oli alun perin John F Gellenin
 Puhuja 2: puheenkirjoittaja ja myös Linnan Bezonesin puheenkirjoittajaa.
 Puhuja 2: Se oli valkoisessa talossa
-Puhuja 2: alan ytimessä silloin 1960-luvun
+Puhuja 2: kamalan ytimessä silloin 60-luvun
 Puhuja 2: kiihkeinä vuosina.
 Puhuja 2: Ja
 Puhuja 2: tämä on kuten nimi sanoo niin
@@ -391,12 +393,14 @@ Puhuja 0: se minä, minä palautuu ja sitten hän muistaa vain omat asiat. Eli n
 Puhuja 0: Okei,
 Puhuja 0: no, tämä ei ole spoileri, koska se paljastuu melkein
 Puhuja 0: heti.
-Puhuja 0: Työminän
-Puhuja 0: kannalta, työminän perspektiivistä,
+Puhuja 0: Tietenkin
+Puhuja 0: sitten
+Puhuja 0: työminän kannalta, työminän perspektiivistä,
 Puhuja 0: se työminä on jatkuvasti siellä töissä. Se ei ikinä pääse sieltä pois, vaikka se
-Puhuja 0: lähteekin pois. Hän tiedostaa, että hän on muka kaksitoista tuntia jossain muualla, ennen kuin palaa tänne. Mutta tietenkin hänen perspektiivistään hän on jatkuvasti töissä. Se työpaikka on semmoinen 70-lukulainen
-Puhuja 0: ahdistava
-Puhuja 0: avokonttori,
+Puhuja 0: lähteekin pois. Hän tiedostaa, että hän on muka
+Puhuja 0: kaksitoista tuntia jossain muualla, ennen kuin palaa tänne. Mutta tietenkin hänen perspektiivistään hän on jatkuvasti töissä. Se työpaikka on
+Puhuja 0: 70-lukulainen
+Puhuja 0: ahdistava avokonttori,
 Puhuja 0: jossa on semmoinen
 Puhuja 0: keinovalo
 Puhuja 0: hämy kaikkialla.
