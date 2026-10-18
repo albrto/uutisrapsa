@@ -1879,6 +1879,58 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 487,
+    "jakso_id": "912a3138-3937-4dde-8b2c-bde04b3882df",
+    "jakso_otsikko": "Ylimielinen Google, ilon ja valon rahaministeriö, epäonnistunut teloitus",
+    "paivamaara": "8.10.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/912a3138-3937-4dde-8b2c-bde04b3882df.mp3",
+    "kesto_sek": 4495,
+    "kesto_str": "01:14:55",
+    "rss_osallistujat": [
+      "Petja Pelli",
+      "Salla Vuorikoski",
+      "Suvi Turtiainen"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Salla Vuorikoski, Suvi Turtiainen ja Petja Pelli kysyvät, kyykyttääkö jättimäinen Google pientä Suomea. Lisäksi puhutaan rahaministeriön iloa, valoa ja hauskuutta markkinoivasta puheenvuorosta. Onko se epäpoliittinen? Lopuksi vaikea kysymys Christa Piken epäonnistunesta teloituksesta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Suliko",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "näytelmä"
+        ],
+        "kuvaus": "Salla suosittelee Q-teatterin Sulikko-näytelmää, joka perustuu Pirkko Saision romaaniin ja kertoo Stalinin viimeisestä päivästä. Hän kehuu erityisesti Elina Knihtilän esitystä Stalinina ja pitää näytelmää yhtenä parhaista teatterikokemuksistaan.",
+        "google_linkki": "https://www.google.com/search?q=Sulikko+Q-teatteri",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Suvi Turtiainen",
+        "teos": "Kehollinen luova ajattelu -työpaja",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "elämäntapa",
+          "luovuus",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Suvi suosittelee irtautumista tietokoneen äärestä ja luovan ajattelun etsimistä liikkeen ja musiikin kehollisuuden kautta – hän kävi itse tällaisessa työpajassa ja koki sen avaavan uusia ajatuspolkuja.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 156,
     "jakso_id": "tag:soundcloud,2010:tracks/907091107",
     "jakso_otsikko": "8.10.2020: Poliisi vs elokapina, herrat vs duunarit, Trump vs korona",
@@ -23371,6 +23423,77 @@ window.VALIDATION_DATA = [
         "kuvaus": "Scott McCloudin klassikkokirja sarjakuvan psykologiasta, joka on itse sarjakuvamuodossa. Avaa silmiä sille, miten ihminen katsoo ja kokee sarjakuvan.",
         "google_linkki": "https://www.google.com/search?q=Understanding+Comics+The+Invisible+Art+Scott+McCloud",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Understanding+Comics+The+Invisible+Art+Scott+McCloud",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      }
+    ]
+  },
+  {
+    "j_idx": 488,
+    "jakso_id": "4e72d85b-38df-453c-9be7-b025acc34709",
+    "jakso_otsikko": "Diesel-selkäänpuukotus, kuolemantuomiot USA:ssa, 007-kriisi",
+    "paivamaara": "15.10.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4e72d85b-38df-453c-9be7-b025acc34709.mp3",
+    "kesto_sek": 5448,
+    "kesto_str": "01:30:48",
+    "rss_osallistujat": [
+      "Elina Väntönen",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Amerikkapodin juontaja Elina Väntönen keskustelevat USA-painotteisesti välivaalien asetelmista, Trumpin hallinnon organisoimasta selkäänpuukotuksten ketjusta ukrainalaisten selkään, kuolemantuomioiden täytäntöönpanosta ja oikeutuksesta, yleisestä Trump-sirkuksesta, ja vielä ns. bond-kriisin syistä ja seurauksista. Jakso sisältää pikkujou",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "What We Can Know",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fiktio",
+          "mysteeri",
+          "tulevaisuus"
+        ],
+        "kuvaus": "Tuomas suosittelee Ian McEwanin uutta romaania, joka kertoo tulevaisuuden historiantutkijasta selvittämässä kadonneen runon kohtaloa – yllättävän koukuttava ja ajatuksia herättävä teos siitä, miten kaikki digitaalinen jälkemme säilyy ikuisesti.",
+        "google_linkki": "https://www.google.com/search?q=What+We+Can+Know+Ian+McEwan",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=What+We+Can+Know+Ian+McEwan",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Elina Väntönen",
+        "teos": "The Daily: When A.I. Comes for Your Purpose in Life",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "yhteiskunta",
+          "ajankohtainen"
+        ],
+        "kuvaus": "Elina suosittelee The Daily -podcastin tuoretta jaksoa, jossa keski-ikäinen matematiikan professori pohtii, mitä tapahtuu kun tekoäly ylittää hänen elämäntyönsä – jakso kääntyy lopulta koskettavaksi pohdinnaksi ihmisyyden kauneudesta.",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+AI+comes+for+your+purpose+in+life",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily",
+        "alkupera": "ulkomainen",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Slow Horses",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittisarja",
+          "trilleri",
+          "huumori"
+        ],
+        "kuvaus": "Marko aikoo aluksi suositella Slow Horsesin tuoretta kautta, mutta perääntyy heti ja toteaa pettyneensä: sarjan aiempi viehätys piili sen omituisuudessa ja synkässä huumorissa, kun taas uusi kausi on hänen mielestään liian tavanomaisen toimintapainotteinen.",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
