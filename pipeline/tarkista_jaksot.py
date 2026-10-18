@@ -134,9 +134,15 @@ def hae_transkripti(jakso_id, audio_url):
     if not audio_url:
         print("  ⚠️ Ei audio-osoitetta — ohitetaan.")
         return None, 0.0
+    return litteroi_ajoilla(jakso_id, audio_url)
 
-    mp3_temp = os.path.join(PIPELINE_KANSIO, "temp_tarkistus_full.mp3")
-    clip_temp = os.path.join(PIPELINE_KANSIO, "temp_tarkistus_clip.mp3")
+
+def litteroi_ajoilla(jakso_id, audio_url):
+    """Lataa jakson, leikkaa sen kuten pääputki, litteroi rivien aikaleimoineen ja tallentaa
+    transkriptit/<id>.txt + <id>.ajat.json. Palauttaa (teksti, litteroidut_minuutit)."""
+    tunnus = os.path.basename(paa.transkriptin_polku(jakso_id))[:-4]
+    mp3_temp = os.path.join(PIPELINE_KANSIO, f"temp_tarkistus_full_{tunnus}.mp3")
+    clip_temp = os.path.join(PIPELINE_KANSIO, f"temp_tarkistus_clip_{tunnus}.mp3")
     try:
         print("  Ladataan audiota...")
         r = requests.get(audio_url, timeout=300)

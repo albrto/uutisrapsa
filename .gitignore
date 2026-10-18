@@ -31,3 +31,7 @@ pipeline/tarkistusjono_*.txt
 pipeline/agenttiarvio/erat/
 pipeline/agenttiarvio/tulokset/
 pipeline/agenttiarvio/varmistus/
+
+# Kuuntelukohtien täydennys: erät ja loki syntyvät uudelleen (tulokset/ commitoidaan varmuuskopioksi)
+pipeline/kuuntelukohdat/erat/
+pipeline/kuuntelukohdat/*.log

@@ -309,6 +309,8 @@ function parsiOsoite(osoite) {
     uusi.valilehti = osa[2] === 'ilmiot' || osa[2] === 'kuviot' ? 'ilmiot' : 'top';
   } else if (polku === '/suosikit') {
     uusi.nakyma = 'suosikit';
+  } else if (polku === '/arvonta') {
+    uusi.nakyma = 'arvonta';
   }
   return uusi;
 }
@@ -318,6 +320,8 @@ function rakennaOsoite(t) {
   const p = new URLSearchParams();
   if (t.nakyma === 'suosittelijat') {
     polku = '/suosittelijat';
+  } else if (t.nakyma === 'arvonta') {
+    polku = '/arvonta';
   } else if (t.nakyma === 'tilastot') {
     polku = t.valilehti === 'ilmiot' ? '/tilastot/ilmiot' : '/tilastot';
   } else {
@@ -606,6 +610,7 @@ function renderStaattiset() {
     `${luku(allRecs.length)} suositusta ${luku(jaksoja)} jaksosta ja ${luku(suosittelijat.size)} suosittelijalta.`;
   renderAikajana();
   renderHeroKuvio();
+  renderHeroPilleri();
   renderSuosittelijavalinta();
   paivitaSuosikkiMaara();
 }
@@ -645,6 +650,18 @@ function renderAikajana() {
     </button>`;
   }
   $('#aikajana').innerHTML = html;
+}
+
+// Uusin jakso pillerinä otsikon yllä: päivä ja suositusten määrä, napautus vie jaksoon
+function renderHeroPilleri() {
+  const uusin = allRecs[0];
+  const el = $('#heroUusin');
+  if (!uusin || !el) return;
+  const n = allRecs.filter(r => r.jakso_id === uusin.jakso_id).length;
+  const pvm = uusin.paivamaara.replace(/\d{4}$/, '');
+  el.innerHTML = `<span class="hero-pilleri-pallo" aria-hidden="true"></span>Uusin jakso ${escapeHtml(pvm)}<span class="hero-pilleri-himmea"> · ${n} ${n === 1 ? 'suositus' : 'suositusta'}</span>`;
+  el.dataset.jakso = uusin.jakso_tunniste;
+  el.hidden = false;
 }
 
 // Vuosirenkaat (heron kuvio): arkisto puun poikkileikkauksena. Jokainen vuosi on rengas
@@ -715,7 +732,8 @@ const onTilastoOsio = t => t.nakyma === 'tilastot' || t.nakyma === 'suosittelija
 function renderNakyma() {
   edellinenAvain = JSON.stringify(tila);
   const koti = tila.nakyma === 'koti' && !tila.profiili;
-  const erikois = onTilastoOsio(tila);
+  // Tilastot, suosittelijat ja arvonta: ei hakupalkkia eikä listaa
+  const erikois = onTilastoOsio(tila) || tila.nakyma === 'arvonta';
 
   document.body.dataset.nakyma = tila.profiili ? 'suosittelija' : tila.nakyma;
   $('#alku').hidden = !koti;
@@ -741,11 +759,13 @@ function renderNakyma() {
   $('#results').hidden = erikois;
   $('#suosittelijaRuudukko').hidden = tila.nakyma !== 'suosittelijat';
   $('#tilastot').hidden = tila.nakyma !== 'tilastot';
+  $('#arvonta').hidden = tila.nakyma !== 'arvonta';
   piilotaVihje();
 
   paivitaOtsikko();
   if (erikois) {
     if (tila.nakyma === 'suosittelijat') renderSuosittelijaRuudukko();
+    else if (tila.nakyma === 'arvonta') renderArvonta();
     else renderTilastot(tila.valilehti);
     return;
   }
@@ -772,6 +792,7 @@ function renderNakyma() {
 function paivitaOtsikko() {
   let otsikko = 'Uutisraportti suosittelee';
   if (tila.nakyma === 'suosittelijat') otsikko = 'Suosittelijat – Uutisraportti suosittelee';
+  else if (tila.nakyma === 'arvonta') otsikko = 'Arvonta – Uutisraportti suosittelee';
   else if (tila.nakyma === 'tilastot') otsikko = `${tila.valilehti === 'ilmiot' ? 'Ilmiöt' : 'Top-listat'} – Uutisraportti suosittelee`;
   else if (tila.nakyma === 'suosikit') otsikko = 'Suosikit – Uutisraportti suosittelee';
   else if (tila.profiili) otsikko = `${tila.profiili} suosittelee – Uutisrapsa`;
@@ -807,7 +828,7 @@ function renderSivuotsake() {
       <div class="sivuotsake-sisa">
         <h1 class="sivuotsake-otsikko">Tilastot</h1>
         <p class="sivuotsake-meta">${luku(allRecs.length)} suositusta, ${luku(allData.length)} jaksoa ja ${luku(suosittelijat.size)} suosittelijaa vuodesta ${ekaVuosi} lähtien. Kuka suosittelee mitäkin?</p>
-        <nav class="valilehdet" aria-label="Tilastojen osiot">
+        <nav class="valilehdet segmentti" aria-label="Tilastojen osiot">
           ${valilehdet.map(([href, nimi, nyt]) =>
             `<a href="${href}" class="valilehti" data-reitti${nyt ? ' aria-current="page"' : ''}>${nimi}</a>`).join('')}
         </nav>
@@ -978,7 +999,8 @@ function renderTulosotsake(tulos) {
     ? `${luku(tulos.length)} ${tulos.length === 1 ? 'suositus' : 'suositusta'} · ${luku(jaksoja)} ${jaksoja === 1 ? 'jakso' : 'jaksoa'}`
     : 'Ei osumia';
   $('#tyhjennaRajaukset').hidden = !aktiivisiaRajauksia(tila);
-  $('#jarjestysTeksti').textContent = tila.jarjestys === 'vanhin' ? 'Vanhimmat ensin' : 'Uusimmat ensin';
+  $('#jarjestys').querySelectorAll('[data-jarjestys]').forEach(b =>
+    b.setAttribute('aria-pressed', String(b.dataset.jarjestys === tila.jarjestys)));
 }
 
 // ---------- Renderöinti: lista ----------
@@ -1740,6 +1762,7 @@ function naytaSuositus(rec, { historia = true, arvottu = false, avain = null, pa
   const el = $('#suositusDialogi');
   $('#suositusSisalto').innerHTML = renderTarkka(rec, arvottu);
   $('#suositusSisalto').scrollTop = 0;
+  liitaSoitin(rec);
   const otsikko = `${rec.teos} – Uutisraportti suosittelee`;
   if (historia) {
     avaaModaali('suositus', el, { url: recUrl(rec), otsikko, rec });
@@ -1751,6 +1774,120 @@ function naytaSuositus(rec, { historia = true, arvottu = false, avain = null, pa
     paivitaOtsikko();
     if (laske) laskeSivu();
   }
+}
+
+// ---------- Soitin: suositus jakson äänitteestä ----------
+// kuuntelu.json (pipeline/kuuntelukohdat) kertoo jokaisen suosituksen alkukohdan jakson
+// äänitteessä; se haetaan vasta, kun suositus avataan, ja äänite vasta Kuuntele-painalluksesta.
+let kuunteluLupaus = null;
+const haeKuuntelu = () => kuunteluLupaus ||
+  (kuunteluLupaus = fetch('/kuuntelu.json').then(r => (r.ok ? r.json() : {})).catch(() => ({})));
+const Soitin = { audio: null, avain: '', alku: 0, kesto: 0 };
+
+function aikaTeksti(s) {
+  s = Math.max(0, Math.floor(s || 0));
+  const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sek = String(s % 60).padStart(2, '0');
+  return h ? `${h}:${String(m).padStart(2, '0')}:${sek}` : `${m}:${sek}`;
+}
+
+async function liitaSoitin(rec) {
+  const paikka = $('#suositusSisalto .soitin-paikka');
+  if (!paikka) return;
+  const j = (await haeKuuntelu())[rec.jakso_id];
+  const t = j && j.t[String(rec.r_idx)];
+  if (t === undefined || !paikka.isConnected) return;
+  const avain = `${rec.jakso_id}:${rec.r_idx}`;
+  const soi = Soitin.avain === avain && Soitin.audio && !Soitin.audio.paused;
+  paikka.innerHTML = `
+    <div class="soitin${soi ? ' soi' : ''}" data-avain="${escapeHtml(avain)}">
+      <button type="button" class="soitin-toista" aria-label="Kuuntele suositus">
+        ${ikoni('toista', 'ikoni-toista')}${ikoni('tauko', 'ikoni-tauko')}<span class="soitin-pyora" aria-hidden="true"></span>
+      </button>
+      <div class="soitin-keski">
+        <div class="soitin-rivi">
+          <span class="soitin-otsikko">Kuuntele suositus</span>
+          <span class="soitin-aika"><span class="soitin-nyt">${aikaTeksti(t)}</span> / ${aikaTeksti(j.k)}</span>
+        </div>
+        <div class="soitin-jana" style="--alku:${(t / j.k * 100).toFixed(2)}%;--osuus:${(t / j.k * 100).toFixed(2)}%">
+          <input type="range" class="soitin-liuku" min="0" max="${Math.round(j.k)}" step="1" value="${Math.round(t)}"
+            aria-label="Kohta jaksossa" aria-valuetext="${aikaTeksti(t)}">
+        </div>
+      </div>
+      <button type="button" class="soitin-alkuun" title="Suosituksen alkuun" aria-label="Suosituksen alkuun">${ikoni('toisto')}</button>
+    </div>
+    <p class="soitin-lahde">Jakso ${escapeHtml(rec.paivamaara)} kohdasta ${aikaTeksti(t)} · kohta haettu litteroinnista, voi heittää hieman</p>`;
+  const el = paikka.querySelector('.soitin');
+  el.querySelector('.soitin-toista').addEventListener('click', () => toistaTauko(rec, j, t, el));
+  el.querySelector('.soitin-alkuun').addEventListener('click', () => {
+    toistaTauko(rec, j, t, el, { alkuun: true });
+  });
+  el.querySelector('.soitin-liuku').addEventListener('input', e => {
+    const v = Number(e.target.value);
+    if (Soitin.avain === avain && Soitin.audio.readyState > 0) Soitin.audio.currentTime = v;
+    paivitaSoitin(el, v, j.k);
+  });
+  if (Soitin.avain === avain && Soitin.audio) paivitaSoitin(el, Soitin.audio.currentTime, j.k);
+}
+
+function paivitaSoitin(el, nyt, kesto) {
+  const jana = el.querySelector('.soitin-jana');
+  jana.style.setProperty('--osuus', `${Math.min(100, (nyt / kesto) * 100).toFixed(2)}%`);
+  const liuku = el.querySelector('.soitin-liuku');
+  if (document.activeElement !== liuku) liuku.value = Math.round(nyt);
+  liuku.setAttribute('aria-valuetext', aikaTeksti(nyt));
+  el.querySelector('.soitin-nyt').textContent = aikaTeksti(nyt);
+}
+
+async function toistaTauko(rec, j, t, el, { alkuun = false } = {}) {
+  const avain = `${rec.jakso_id}:${rec.r_idx}`;
+  if (!Soitin.audio) setupAudio();
+  const a = Soitin.audio;
+  if (Soitin.avain !== avain) {
+    Soitin.avain = avain;
+    Soitin.kesto = j.k;
+    el.classList.add('lataa');
+    a.src = j.a;
+    await new Promise((ok, virhe) => {
+      a.addEventListener('loadedmetadata', ok, { once: true });
+      a.addEventListener('error', virhe, { once: true });
+      a.load();
+    }).catch(() => null);
+    if (!a.duration) { el.classList.remove('lataa'); soitinVirhe(el); Soitin.avain = ''; return; }
+    // Tiedosto on eri pituinen kuin litteroitaessa (mainokset): kohta lopusta päin
+    Soitin.alku = Math.abs(a.duration - j.k) > 3 ? Math.max(0, a.duration - (j.k - t)) : t;
+    const liuku = el.querySelector('.soitin-liuku');
+    const valittu = Number(liuku.value);
+    a.currentTime = Math.abs(valittu - Math.round(t)) > 1 ? valittu : Soitin.alku;
+    if ('mediaSession' in navigator) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: rec.teos, artist: `${rec.suosittelija} · Uutisraportti`, album: rec.jakso_otsikko,
+      });
+    }
+  } else if (alkuun) {
+    a.currentTime = Soitin.alku;
+  } else if (!a.paused) {
+    a.pause();
+    return;
+  }
+  a.play().catch(() => soitinVirhe(el));
+}
+
+function soitinVirhe(el) {
+  const lahde = el.parentElement.querySelector('.soitin-lahde');
+  if (lahde) lahde.textContent = 'Äänitettä ei saatu soimaan. Kokeile hetken päästä uudelleen.';
+}
+
+function setupAudio() {
+  const a = Soitin.audio = new Audio();
+  a.preload = 'none';
+  const nykyinen = () => document.querySelector(`.soitin[data-avain="${CSS.escape(Soitin.avain)}"]`);
+  a.addEventListener('timeupdate', () => { const el = nykyinen(); if (el) paivitaSoitin(el, a.currentTime, Soitin.kesto); });
+  a.addEventListener('play', () => { const el = nykyinen(); if (el) el.classList.add('soi'); });
+  a.addEventListener('pause', () => { const el = nykyinen(); if (el) el.classList.remove('soi'); });
+  a.addEventListener('waiting', () => { const el = nykyinen(); if (el) el.classList.add('lataa'); });
+  a.addEventListener('playing', () => { const el = nykyinen(); if (el) el.classList.remove('lataa'); });
+  // Dialogin sulkeminen pysäyttää äänen
+  $('#suositusDialogi').addEventListener('close', () => a.pause());
 }
 
 function renderTarkka(rec, arvottu) {
@@ -1780,6 +1917,7 @@ function renderTarkka(rec, arvottu) {
         : `<a class="henkilo henkilo-iso" href="${suosittelijaUrl(rec.suosittelija)}" data-reitti>${avatar(rec.suosittelija, 'avatar-l')}
             <span><span class="henkilo-nimi">${escapeHtml(rec.suosittelija)}</span><span class="henkilo-rooli">suosittelee · ${s ? luku(s.maara) : 1} suositusta</span></span></a>`}
       ${rec.kuvaus ? `<p class="tarkka-kuvaus">${escapeHtml(rec.kuvaus)}</p>` : ''}
+      <div class="soitin-paikka"></div>
       ${(rec.kategoriat || []).length ? `<p class="rec-tags">${rec.kategoriat.map(t => `<span class="rec-tag">${escapeHtml(t)}</span>`).join('')}</p>` : ''}
       ${linkit.length ? `<div class="tarkka-linkit">${linkit.map(l => linkkiHtml(l, 'rec-link rec-link-iso')).join('')}</div>` : ''}
       <div class="tarkka-toiminnot">
@@ -1809,12 +1947,270 @@ function renderTarkka(rec, arvottu) {
     </section>` : ''}`;
 }
 
+// Arvo-napit vievät arvontanäkymään; siellä ollessa vedetään vivusta
 function arvoSuositus() {
-  const pohja = suodata({ ...tila, nakyma: tila.nakyma === 'suosittelijat' ? 'koti' : tila.nakyma });
-  const lahde = pohja.length ? pohja : allRecs;
-  const rec = lahde[Math.floor(Math.random() * lahde.length)];
-  if (rec) naytaSuositus(rec, { arvottu: true });
+  if (tila.nakyma === 'arvonta') arvoTaululle();
+  else siirry('/arvonta');
 }
+
+// ---------- Arvonta (/arvonta): lentokenttätaulu ja vipu ----------
+// Suositus ilmestyy vanhanaikaisen lähtötaulun läpille: jokainen merkki pyörähtää
+// aakkosjärjestyksessä kohti oikeaa kirjainta. Uusi arvonta vedetään vivusta (tai
+// painetaan vipua / Enter). Läppien naksutus on vapaaehtoinen (oletuksena pois).
+
+const TAULU_MERKIT = " ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ0123456789.,:;-–!?&()/'+#";
+const TAULUN_RYHMAT = [
+  { nimi: 'Teos', rivit: 3, arvo: r => r.teos },
+  { nimi: 'Suosittelija', rivit: 1, arvo: r => (onTuntematon(r.suosittelija) ? 'Tuntematon' : r.suosittelija) },
+  { nimi: 'Kategoria', rivit: 1, arvo: r => kategoria(r.paakategoria).nimi },
+  { nimi: 'Jakso', rivit: 1, arvo: r => r.paivamaara },
+];
+const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, sarakkeet: 0, kehys: null, aani: false };
+try { Arvonta.aani = localStorage.getItem('arvontaAani') === '1'; } catch (e) {}
+
+function taulunMerkki(c) {
+  const iso = c.toLocaleUpperCase('fi');
+  if (TAULU_MERKIT.includes(iso)) return iso;
+  const perus = iso.normalize('NFD').replace(/[̀-ͯ]/g, '');
+  if (perus && TAULU_MERKIT.includes(perus[0])) return perus[0];
+  if (/[’‘`´]/.test(c)) return "'";
+  if (/[—]/.test(c)) return '–';
+  return ' ';
+}
+
+// Teksti taulun riveiksi sanarajoista; liian pitkä loppu korvataan pisteillä
+function taulunRivit(teksti, sarakkeet, maara) {
+  const rivit = [];
+  let rivi = '';
+  for (let sana of String(teksti || '').split(/\s+/).filter(Boolean)) {
+    while (sana.length > sarakkeet) {
+      if (rivi) { rivit.push(rivi); rivi = ''; }
+      rivit.push(sana.slice(0, sarakkeet));
+      sana = sana.slice(sarakkeet);
+    }
+    if (!rivi) rivi = sana;
+    else if (rivi.length + 1 + sana.length <= sarakkeet) rivi += ' ' + sana;
+    else { rivit.push(rivi); rivi = sana; }
+  }
+  if (rivi) rivit.push(rivi);
+  if (rivit.length > maara) {
+    rivit.length = maara;
+    rivit[maara - 1] = rivit[maara - 1].slice(0, sarakkeet - 3).trimEnd() + '...';
+  }
+  while (rivit.length < maara) rivit.push('');
+  return rivit.map(r => [...r.padEnd(sarakkeet)].map(taulunMerkki));
+}
+
+function renderArvonta() {
+  const el = $('#arvonta');
+  if (!el.firstChild) {
+    el.innerHTML = `
+      <div class="arvonta-otsake">
+        <div>
+          <h1 class="sivuotsake-otsikko">Arvonta</h1>
+          <p class="sivuotsake-meta">Pitkä epämukava hiljaisuus? Vedä vivusta, niin taulu kääntää eteesi
+            yhden ${luku(allRecs.length)} suosituksesta.</p>
+        </div>
+        <button type="button" class="arvonta-aani" id="arvontaAani" aria-pressed="${Arvonta.aani}">
+          ${ikoni('kaiutin')}<span>${Arvonta.aani ? 'Ääni päällä' : 'Ääni pois'}</span></button>
+      </div>
+      <div class="arvonta-alue">
+        <div class="taulu-kehys">
+          <div class="taulu" id="taulu" aria-hidden="true"></div>
+          <p class="vain-ruudunlukijalle" id="tauluTeksti" aria-live="polite"></p>
+        </div>
+        <div class="vipu-alue">
+          <button type="button" class="vipu" id="vipu" aria-label="Vedä vivusta: arvo uusi suositus">
+            <span class="vipu-ura" aria-hidden="true"></span>
+            <span class="vipu-varsi" aria-hidden="true"></span>
+            <span class="vipu-nuppi" aria-hidden="true"></span>
+          </button>
+          <span class="vipu-vihje" aria-hidden="true">Vedä</span>
+        </div>
+      </div>
+      <div class="arvonta-tiedot" id="arvontaTiedot"></div>`;
+    setupVipu();
+    $('#arvontaAani').addEventListener('click', vaihdaArvontaAani);
+    new ResizeObserver(() => sovitaTaulu()).observe($('#taulu'));
+  }
+  sovitaTaulu();
+  if (!Arvonta.rec) arvoTaululle();
+}
+
+// Sarakemäärä taulun leveyden mukaan; muutoksessa taulu piirretään uudelleen ilman animaatiota
+function sovitaTaulu() {
+  const taulu = $('#taulu');
+  if (!taulu || !taulu.clientWidth) return;
+  const lappu = matchMedia('(max-width: 640px)').matches ? 21 : 30;
+  const sarakkeet = Math.max(10, Math.min(28, Math.floor((taulu.clientWidth + 4) / (lappu + 4))));
+  if (sarakkeet === Arvonta.sarakkeet) return;
+  Arvonta.sarakkeet = sarakkeet;
+  taulu.style.setProperty('--sarakkeet', sarakkeet);
+  taulu.innerHTML = TAULUN_RYHMAT.map(g => `
+    <div class="taulu-ryhma">
+      <span class="taulu-nimi">${g.nimi}</span>
+      ${Array.from({ length: g.rivit }, () =>
+        `<div class="taulu-rivi">${'<span class="lappu"><span class="lappu-m"> </span></span>'.repeat(sarakkeet)}</div>`).join('')}
+    </div>`).join('');
+  if (Arvonta.rec) naytaTaululla(Arvonta.rec, { animoi: false });
+}
+
+function arvoTaululle() {
+  if (Arvonta.kaynnissa || !allRecs.length) return;
+  let rec;
+  for (let i = 0; i < 20; i++) {
+    rec = allRecs[Math.floor(Math.random() * allRecs.length)];
+    if (!Arvonta.viimeiset.includes(rec.id)) break;
+  }
+  Arvonta.viimeiset = [rec.id, ...Arvonta.viimeiset].slice(0, 30);
+  Arvonta.rec = rec;
+  naytaTaululla(rec, { animoi: !matchMedia('(prefers-reduced-motion: reduce)').matches });
+}
+
+function naytaTaululla(rec, { animoi = true } = {}) {
+  const lapput = [...document.querySelectorAll('#taulu .lappu')];
+  const kohteet = TAULUN_RYHMAT.flatMap(g => taulunRivit(g.arvo(rec), Arvonta.sarakkeet, g.rivit).flat());
+  const tiedot = $('#arvontaTiedot');
+  $('#tauluTeksti').textContent = `${rec.teos}. ${TAULUN_RYHMAT.slice(1).map(g => g.arvo(rec)).join(', ')}.`;
+  if (!animoi) {
+    lapput.forEach((l, i) => { l.firstChild.textContent = kohteet[i]; });
+    renderArvontaTiedot(rec);
+    return;
+  }
+  Arvonta.kaynnissa = true;
+  document.body.classList.add('arvonta-kaynnissa');
+  tiedot.classList.remove('nakyvissa');
+
+  // Jokainen läppä kulkee aakkosjärjestyksessä 5–16 askelta kohti oikeaa merkkiä,
+  // viiveellä vasemmalta oikealle ja ylhäältä alas (kuin oikea lähtötaulu)
+  const N = TAULU_MERKIT.length;
+  const nyt = performance.now();
+  const sarakkeet = Arvonta.sarakkeet;
+  const tehtavat = lapput.map((l, i) => {
+    const m = l.firstChild;
+    const kohde = kohteet[i];
+    if (kohde === ' ' && m.textContent === ' ') return null;
+    const askeleet = 5 + Math.floor(Math.random() * 12);
+    const loppu = TAULU_MERKIT.indexOf(kohde);
+    const sarja = Array.from({ length: askeleet }, (_, k) => TAULU_MERKIT[(loppu - askeleet + 1 + k + N * 2) % N]);
+    const rivi = Math.floor(i / sarakkeet), sarake = i % sarakkeet;
+    return { l, m, sarja, k: 0, seuraava: nyt + rivi * 70 + sarake * 22 + Math.random() * 40 };
+  }).filter(Boolean);
+
+  let edellinenNaksu = 0;
+  const kehys = t => {
+    let kaantyi = 0, kesken = false;
+    for (const tt of tehtavat) {
+      if (tt.k >= tt.sarja.length) continue;
+      kesken = true;
+      if (t < tt.seuraava) continue;
+      tt.m.textContent = tt.sarja[tt.k++];
+      tt.l.dataset.k = tt.l.dataset.k === 'a' ? 'b' : 'a';  // vaihtuva nimi käynnistää animaation uudelleen
+      tt.seuraava = t + 48 + Math.random() * 22;
+      kaantyi++;
+    }
+    if (kaantyi && Arvonta.aani && t - edellinenNaksu > 30) { naksu(Math.min(1, kaantyi / 10)); edellinenNaksu = t; }
+    if (kesken) { Arvonta.kehys = requestAnimationFrame(kehys); return; }
+    Arvonta.kaynnissa = false;
+    document.body.classList.remove('arvonta-kaynnissa');
+    renderArvontaTiedot(rec);
+  };
+  cancelAnimationFrame(Arvonta.kehys);
+  Arvonta.kehys = requestAnimationFrame(kehys);
+}
+
+function renderArvontaTiedot(rec) {
+  const tiedot = $('#arvontaTiedot');
+  const linkit = rakennaLinkit(rec);
+  const suosikki = Suosikit.onko(rec.id);
+  tiedot.innerHTML = `
+    <p class="arvonta-sittenkun">${escapeHtml(sittenKun(rec))}</p>
+    ${rec.kuvaus ? `<p class="arvonta-kuvaus">${escapeHtml(rec.kuvaus)}</p>` : ''}
+    <div class="arvonta-toiminnot">
+      <a class="nappi nappi-ensisijainen" href="${recUrl(rec)}" data-suositus="${rec.id}">Avaa suositus</a>
+      <button type="button" class="nappi nappi-toissijainen suosikki-iso" data-suosikki="${rec.id}" aria-pressed="${suosikki}">
+        ${ikoni('sydan')}<span>${suosikki ? 'Suosikeissa' : 'Tallenna suosikiksi'}</span></button>
+      ${linkit.map(l => linkkiHtml(l, 'rec-link rec-link-iso')).join('')}
+    </div>`;
+  requestAnimationFrame(() => tiedot.classList.add('nakyvissa'));
+}
+
+// Vipu: vedä alas (hiiri tai sormi) – yli 55 % matkasta laukaisee arvonnan; napautus
+// tai Enter vetää vivun automaattisesti
+function setupVipu() {
+  const vipu = $('#vipu');
+  const nuppi = vipu.querySelector('.vipu-nuppi');
+  const matka = () => vipu.clientHeight - nuppi.offsetHeight;
+  let alku = null, siirto = 0;
+
+  const aseta = (y, siirtyma = false) => {
+    vipu.classList.toggle('palaa', siirtyma);
+    vipu.style.setProperty('--veto', `${y}px`);
+    vipu.style.setProperty('--veto-osuus', (y / matka()).toFixed(3));
+  };
+  const laukaise = () => {
+    aseta(matka(), true);
+    setTimeout(() => { aseta(0, true); arvoTaululle(); }, 220);
+  };
+
+  vipu.addEventListener('pointerdown', e => {
+    if (Arvonta.kaynnissa) return;
+    alku = e.clientY;
+    siirto = 0;
+    vipu.setPointerCapture(e.pointerId);
+    vipu.classList.add('vedetaan');
+  });
+  vipu.addEventListener('pointermove', e => {
+    if (alku === null) return;
+    siirto = Math.max(0, Math.min(matka(), e.clientY - alku));
+    aseta(siirto);
+  });
+  const irti = () => {
+    if (alku === null) return;
+    alku = null;
+    vipu.classList.remove('vedetaan');
+    if (siirto > matka() * 0.55) { aseta(0, true); arvoTaululle(); }
+    else if (siirto < 6) laukaise();          // napautus
+    else aseta(0, true);                       // liian lyhyt veto: vipu palaa
+  };
+  vipu.addEventListener('pointerup', irti);
+  vipu.addEventListener('pointercancel', irti);
+  vipu.addEventListener('keydown', e => {
+    if ((e.key === 'Enter' || e.key === ' ') && !Arvonta.kaynnissa) { e.preventDefault(); laukaise(); }
+  });
+  vipu.addEventListener('click', e => e.preventDefault());  // osoitin hoitaa, Enter keydownissa
+}
+
+// Läpän naksahdus: lyhyt suodatettu kohinapurske (Web Audio), luodaan vasta käyttäjän luvalla
+let aaniKonteksti = null, kohina = null;
+function naksu(voima) {
+  if (!aaniKonteksti) return;
+  const lahde = aaniKonteksti.createBufferSource();
+  lahde.buffer = kohina;
+  const suodin = aaniKonteksti.createBiquadFilter();
+  suodin.type = 'bandpass';
+  suodin.frequency.value = 2400 + Math.random() * 1600;
+  suodin.Q.value = 1.4;
+  const vahvistus = aaniKonteksti.createGain();
+  vahvistus.gain.value = 0.05 + voima * 0.12;
+  lahde.connect(suodin).connect(vahvistus).connect(aaniKonteksti.destination);
+  lahde.start();
+}
+
+function vaihdaArvontaAani() {
+  Arvonta.aani = !Arvonta.aani;
+  try { localStorage.setItem('arvontaAani', Arvonta.aani ? '1' : '0'); } catch (e) {}
+  if (Arvonta.aani && !aaniKonteksti) {
+    aaniKonteksti = new (window.AudioContext || window.webkitAudioContext)();
+    kohina = aaniKonteksti.createBuffer(1, Math.floor(aaniKonteksti.sampleRate * 0.012), aaniKonteksti.sampleRate);
+    const d = kohina.getChannelData(0);
+    for (let i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * (1 - i / d.length) ** 3;
+  }
+  const nappi = $('#arvontaAani');
+  nappi.setAttribute('aria-pressed', String(Arvonta.aani));
+  nappi.querySelector('span').textContent = Arvonta.aani ? 'Ääni päällä' : 'Ääni pois';
+}
+
 
 async function jaaSuositus(rec) {
   const url = location.origin + recUrl(rec);
@@ -2047,8 +2443,10 @@ function setupListeners() {
   });
 
   $('#recommenderFilter').addEventListener('change', e => paivitaTila({ suosittelija: e.target.value }));
-  $('#jarjestys').addEventListener('click', () =>
-    paivitaTila({ jarjestys: tila.jarjestys === 'vanhin' ? 'uusin' : 'vanhin' }));
+  $('#jarjestys').addEventListener('click', e => {
+    const b = e.target.closest('[data-jarjestys]');
+    if (b && b.dataset.jarjestys !== tila.jarjestys) paivitaTila({ jarjestys: b.dataset.jarjestys });
+  });
 
 
   // Yksi delegoitu kuuntelija kaikille dynaamisille napeille ja sisäisille linkeille
@@ -2061,6 +2459,13 @@ function setupListeners() {
     if (kohde.dataset.jaa) { const r = recById.get(kohde.dataset.jaa); if (r) jaaSuositus(r); return; }
     if (kohde.dataset.ilmoita) { const r = recById.get(kohde.dataset.ilmoita); if (r) avaaPalaute(r); return; }
     if (kohde.hasAttribute('data-arvo')) { arvoSuositus(); return; }
+    if (kohde.id === 'heroUusin') {
+      e.preventDefault();
+      if (aktiivisiaRajauksia(tila)) { kentta.value = ''; paivitaTila({ ...TYHJAT_RAJAUKSET }, { vieritys: false }); }
+      const jakso = document.getElementById(`jakso-${kohde.dataset.jakso}`);
+      if (jakso) jakso.scrollIntoView({ behavior: pehmea(), block: 'start' });
+      return;
+    }
     if (kohde.dataset.teos !== undefined && kohde.matches('.toisto-merkki, .top-teos')) {
       e.preventDefault();
       const slug = kohde.dataset.teos;
@@ -2102,9 +2507,9 @@ function setupListeners() {
     }
     if (kohde.dataset.vuosi !== undefined && kohde.matches('.aj-vuosi')) {
       const v = kohde.dataset.vuosi;
-      // Aikajanasta valittaessa vieritetään pehmeästi tuloksiin
+      // Sivu pysyy paikallaan (käyttäjän toive 18.10.2026: automaattivieritys ärsytti);
+      // aikajanan osumat ja tulosotsikko kertovat valinnan
       paivitaTila({ vuosi: tila.vuosi === v ? '' : v }, { vieritys: false });
-      window.scrollTo({ top: tulostenAlku(), behavior: pehmea() });
       return;
     }
     if (kohde.dataset.poista) {

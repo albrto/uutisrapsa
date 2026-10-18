@@ -8,6 +8,7 @@ from pydub import AudioSegment
 from dotenv import load_dotenv
 import anthropic
 from nimet import poimi_osallistujat_rss, TUNNETUT_NIMET
+import kuuntelukohdat
 
 # --- POLUT ---
 # Sama skripti ajaa sekä GitHub Actionsin (data repon juuressa) että
@@ -54,6 +55,12 @@ def lue_transkripti(jakso_id):
     return None
 
 def transkriboi_deepgram(audio_path):
+    return transkriboi_deepgram_ajoilla(audio_path)[0]
+
+
+def transkriboi_deepgram_ajoilla(audio_path):
+    """Palauttaa (teksti, rivien_alkuajat_leikkeessä). Ajat tarvitaan suositusten
+    kuuntelukohtiin (kuuntelukohdat.py); tyhjä lista, jos puhujarivejä ei saatu."""
     print("Lähetetään ääni Deepgramille transkriptioon (tämä kestää vain pari sekuntia)...")
     url = "https://api.deepgram.com/v1/listen?model=nova-2&language=fi&smart_format=true&diarize=true&utterances=true"
     headers = {
@@ -69,20 +76,21 @@ def transkriboi_deepgram(audio_path):
         # suosittelija voidaan päätellä puhujasta eikä pelkästä asiayhteydestä
         try:
             utterances = data['results']['utterances']
-            rivit = []
+            rivit, alut = [], []
             for u in utterances:
                 puhuja = u.get('speaker', '?')
                 transcript = u.get('transcript', '').strip()
                 if transcript:
                     rivit.append(f"Puhuja {puhuja}: {transcript}")
+                    alut.append(round(u.get('start', 0), 2))
             if rivit:
-                return "\n".join(rivit)
+                return "\n".join(rivit), alut
         except KeyError:
             pass
         try:
-            return data['results']['channels'][0]['alternatives'][0]['transcript']
+            return data['results']['channels'][0]['alternatives'][0]['transcript'], []
         except KeyError:
-            return ""
+            return "", []
     else:
         print(f"Deepgram virhe: {response.status_code} - {response.text}")
         return ""
@@ -428,12 +436,19 @@ def aja_prosessi():
             yhdistetty_audio.export(clip_temp, format="mp3")
             
             # 1. Ääni tekstiksi Deepgramilla
-            raakateksti = transkriboi_deepgram(clip_temp)
+            raakateksti, rivien_alut = transkriboi_deepgram_ajoilla(clip_temp)
             
             if raakateksti:
                 # Talletetaan raakatranskripti (commitoidaan repoon), jotta
                 # uudelleenanalyysi ei vaadi audion uudelleenlatausta
                 tallenna_transkripti(jakson_tunniste, raakateksti)
+                # Rivien alkuajat (leikkeessä) suositusten kuuntelukohtia varten
+                ajat = None
+                if rivien_alut:
+                    ajat = {"leike": {"alku_s": ALKU_SEKUNTIA, "loppu_alku_s": loppu_osa_alku_ms / 1000,
+                                      "kesto_s": kesto_ms / 1000}, "rivit": rivien_alut}
+                    with open(transkriptin_polku(jakson_tunniste)[:-4] + ".ajat.json", "w", encoding="utf-8") as f_ajat:
+                        json.dump(ajat, f_ajat)
                 # 2. Tekstistä JSONiks Claudella — jaksokohtaiset osallistujat RSS-kuvauksesta
                 jakso_kuvaus = entry.get("summary", "") or entry.get("description", "")
                 osallistujat = poimi_osallistujat_rss(jakso_kuvaus)
@@ -473,6 +488,17 @@ def aja_prosessi():
                 
                 with open(HISTORIA_TIEDOSTO, "a", encoding="utf-8") as h:
                     h.write(jakson_tunniste + "\n")
+
+                # 3. Kuuntelukohdat: missä kohtaa äänitettä kukin suositus alkaa (sivuston
+                # soitin). Epäonnistuminen ei estä julkaisua – suositus vain jää ilman soitinta.
+                if ajat and suositukset_json:
+                    try:
+                        n = kuuntelukohdat.paikanna_jakso(
+                            anthropic.Anthropic(api_key=ANTHROPIC_API_KEY), kysy_claudelta,
+                            jakso_data, raakateksti.split("\n"), ajat, audio_url)
+                        print(f"🎧 Kuuntelukohdat: {n}/{len(suositukset_json)} suositusta paikannettu.")
+                    except Exception as e:
+                        print(f"⚠️ Kuuntelukohtien paikannus epäonnistui: {e}")
                     
                 # Tallennetaan tilapäistieto sähköposti-ilmoitusta varten.
                 # Lista kirjoitetaan joka jakson jälkeen, jotta kesken kaatunut

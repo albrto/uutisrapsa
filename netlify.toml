@@ -27,6 +27,11 @@
   status = 200
 
 [[redirects]]
+  from = "/arvonta"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
   from = "/suosikit"
   to = "/index.html"
   status = 200
