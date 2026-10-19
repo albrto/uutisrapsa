@@ -2764,7 +2764,7 @@ function kaynnistaPikkujoululaskuri() {
     const t = pikkujoulujenTila(Date.now());
     if (!t) { laatikko.hidden = true; clearInterval(ajastin); return; }
     if (t.kaynnissa) {
-      otsake.textContent = 'Uutisraportin pikkujoulut';
+      otsake.textContent = 'Pikkujoulut';
       aika.textContent = 'ovat käynnissä!';
       laatikko.hidden = false;
       return;

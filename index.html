@@ -189,10 +189,22 @@
         <!-- Pikkujoululaskuri (app.js kaynnistaPikkujoululaskuri): näkyy 3.12.2026 asti,
              sitten piiloutuu itsestään. Kellonaika on arvio, siksi "noin*". -->
         <div class="pikkujoululaskuri" id="pikkujoululaskuri" hidden>
-          <p class="laskuri-otsake" id="laskuriOtsake">Uutisraportin pikkujouluihin on noin<span aria-hidden="true">*</span></p>
-          <p class="laskuri-aika" id="laskuriAika" role="timer" aria-labelledby="laskuriOtsake laskuriAika"></p>
-          <p class="laskuri-huomautus"><span aria-hidden="true">*</span>Ravintola Töölö 2.12. Kellonaika tarkentuu,
-            ilmoittautumisohjeet tulevat seuraavassa jaksossa.</p>
+          <!-- Joulupallo heiluu langan varassa (viivapiirros kuten hiihtäjä, style.css .joulupallo) -->
+          <svg class="joulupallo" viewBox="0 0 24 46" fill="none" stroke="currentColor" stroke-width="1.6"
+               stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+            <path d="M12 0v12.5"/>
+            <rect x="9" y="12.5" width="6" height="3.5" rx="0.8"/>
+            <circle cx="12" cy="29" r="12" fill="var(--joulu-tausta)"/>
+            <path d="M0.6 26c3.8 2.4 7.6 2.4 11.4 0s7.6-2.4 11.4 0"/>
+            <path d="M0.6 32c3.8 2.4 7.6 2.4 11.4 0s7.6-2.4 11.4 0"/>
+            <path d="M5.5 22.5a8 8 0 0 1 3.5-3" stroke-width="1.3"/>
+          </svg>
+          <div class="laskuri-rivi">
+            <p class="laskuri-otsake" id="laskuriOtsake">Uutisraportti-podcastin pikkujouluihin&nbsp;noin<span aria-hidden="true">*</span></p>
+            <p class="laskuri-aika" id="laskuriAika" role="timer" aria-labelledby="laskuriOtsake laskuriAika"></p>
+          </div>
+          <p class="laskuri-huomautus"><span aria-hidden="true">*</span>Ke 2.12. Ravintola Töölö. Kellonaika ja ilmoittautuminen
+            selviävät seuraavassa jaksossa.</p>
         </div>
         </div>
         <!-- Vuosirenkaat: koko arkisto yhtenä kuviona (app.js renderHeroKuvio) -->
