@@ -1988,6 +1988,11 @@ function renderArvontaRajaus() {
   // toista samoja kortteja ("muu" jätetään pois)
   const genret = Object.keys(KATEGORIAT).filter(k => k !== 'muu' && (maarat[k] || 0) >= 15)
     .sort((a, b) => maarat[b] - maarat[a]);
+  // Elokuvat heti TV-sarjojen viereen: ne valitaan usein yhdessä
+  if (genret.includes('tv-sarja') && genret.includes('elokuva')) {
+    genret.splice(genret.indexOf('elokuva'), 1);
+    genret.splice(genret.indexOf('tv-sarja') + 1, 0, 'elokuva');
+  }
   Arvonta.rajaus = Arvonta.rajaus.filter(k => genret.includes(k));
   $('#arvontaRajaus').innerHTML =
     chippi('', 'Kaikki', allRecs.length, !Arvonta.rajaus.length) +
