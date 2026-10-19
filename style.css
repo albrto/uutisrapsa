@@ -727,11 +727,12 @@ button {
   display: inline-block;
   max-width: 100%;
   margin-top: 24px;
-  padding: 9px 14px 8px;
+  /* 16 px gridi; alareunaan poikkeuksena 20 px, koska tasan mitattuna ala näyttää ahtaammalta */
+  padding: 16px 16px 20px;
   border-left: 3px solid var(--joulu);
   border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
   position: relative;
-  padding-right: 52px;
+  padding-right: 48px;
   background: var(--joulu-tausta);
   color: var(--joulu);
 }
