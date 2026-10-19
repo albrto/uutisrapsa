@@ -1103,16 +1103,17 @@ function tyhjaTila() {
     </div>`;
 }
 
-// Linkit: Google-haku, lisätietolinkki palvelun nimellä, podcasteille kuuntelulinkit
+// Linkit: lisätietolinkki palvelun nimellä tai podcasteille kuuntelulinkit ensin,
+// Google-haku aina viimeisenä (varalinkki, kun parempaa ei ole)
 function rakennaLinkit(rec) {
   const linkit = [];
-  if (rec.google_linkki) linkit.push(['Google', rec.google_linkki]);
   if (rec.paakategoria === 'podcast') {
     linkit.push(...podcastLinkit(rec));
   // Google-haku lisätietolinkkinä olisi tupla Google-linkin kanssa
   } else if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki && !onGoogleLinkki(rec.lisatieto_linkki)) {
     linkit.push([linkinNimi(rec.lisatieto_linkki), rec.lisatieto_linkki]);
   }
+  if (rec.google_linkki) linkit.push(['Google', rec.google_linkki]);
   return linkit;
 }
 
