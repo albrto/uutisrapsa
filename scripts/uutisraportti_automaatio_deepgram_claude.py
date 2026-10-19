@@ -93,7 +93,7 @@ def transkriboi_deepgram_ajoilla(audio_path):
             return "", []
     else:
         print(f"Deepgram virhe: {response.status_code} - {response.text}")
-        return ""
+        return "", []
 
 # Mallit fallback-järjestyksessä. Huom: Sonnet 5 ei hyväksy temperature-parametria,
 # joten sitä ei anneta millekään mallille.
