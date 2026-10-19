@@ -27,9 +27,15 @@
   status = 200
 
 [[redirects]]
-  from = "/arvonta"
+  from = "/yllata"
   to = "/index.html"
   status = 200
+
+# Yllätä minut -näkymän vanha osoite (19.10.2026 asti)
+[[redirects]]
+  from = "/arvonta"
+  to = "/yllata"
+  status = 301
 
 [[redirects]]
   from = "/suosikit"

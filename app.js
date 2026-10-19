@@ -309,7 +309,7 @@ function parsiOsoite(osoite) {
     uusi.valilehti = osa[2] === 'ilmiot' || osa[2] === 'kuviot' ? 'ilmiot' : 'top';
   } else if (polku === '/suosikit') {
     uusi.nakyma = 'suosikit';
-  } else if (polku === '/arvonta') {
+  } else if (polku === '/yllata' || polku === '/arvonta') {  // /arvonta = vanha osoite
     uusi.nakyma = 'arvonta';
   }
   return uusi;
@@ -321,7 +321,7 @@ function rakennaOsoite(t) {
   if (t.nakyma === 'suosittelijat') {
     polku = '/suosittelijat';
   } else if (t.nakyma === 'arvonta') {
-    polku = '/arvonta';
+    polku = '/yllata';
   } else if (t.nakyma === 'tilastot') {
     polku = t.valilehti === 'ilmiot' ? '/tilastot/ilmiot' : '/tilastot';
   } else {
@@ -435,6 +435,10 @@ function sovellaReitti({ alku = false, ylos = false } = {}) {
   // Välilehden vanha nimi osoitteessa → nykyinen
   if (location.pathname.replace(/\/+$/, '') === '/tilastot/kuviot') {
     history.replaceState(history.state, '', '/tilastot/ilmiot' + location.search);
+  }
+  // Yllätä minut -näkymän vanha osoite (/arvonta 19.10.2026 asti) → nykyinen
+  if (location.pathname.replace(/\/+$/, '') === '/arvonta') {
+    history.replaceState(history.state, '', '/yllata' + location.search);
   }
 
   // Tuntematon suosittelija (nimi korjattu tai linkissä kirjoitusvirhe)
@@ -1094,7 +1098,7 @@ function tyhjaTila() {
       <p>Suosituksia ei löytynyt${haku}. Kokeile toista sanaa tai väljennä rajauksia.</p>
       <div class="empty-toiminnot">
         <button type="button" class="nappi nappi-toissijainen" data-poista="kaikki">Tyhjennä rajaukset</button>
-        <button type="button" class="nappi nappi-haamu" data-arvo>${ikoni('noppa')}Arvo suositus</button>
+        <a class="nappi nappi-haamu" href="/yllata" data-reitti>${ikoni('noppa')}Yllätä minut</a>
       </div>
     </div>`;
 }
@@ -1950,10 +1954,10 @@ function renderTarkka(rec, arvottu) {
 // Arvo-napit vievät arvontanäkymään; siellä ollessa vedetään vivusta
 function arvoSuositus() {
   if (tila.nakyma === 'arvonta') pyoraytaRulla();
-  else siirry('/arvonta');
+  else siirry('/yllata');
 }
 
-// ---------- Yllätä minut (/arvonta): hedelmäpelin rulla ja vipu ----------
+// ---------- Yllätä minut (/yllata): hedelmäpelin rulla ja vipu ----------
 // Vivun veto pyöräyttää yhden rullan, jonka "symbolit" ovat samoja suosituskortteja kuin
 // selausnäkymässä (renderCard). Rulla nykäisee liikkeelle, vilistää hetken täyttä vauhtia ja
 // hidastuu pysähtyen arvottuun suositukseen. Edellinen versio (lentokentän lähtötaulu) on

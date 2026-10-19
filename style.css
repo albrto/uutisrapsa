@@ -1311,19 +1311,6 @@ button {
   color: inherit;
 }
 
-.palkki-nappi-ikoni {
-  width: 44px;
-  padding: 0;
-  justify-content: center;
-}
-
-.palkki-nappi-ikoni:hover .ikoni {
-  animation: pyorahdys 0.5s var(--ulos-ease);
-}
-
-@keyframes pyorahdys {
-  from { transform: rotate(-90deg) scale(0.8); }
-}
 
 /* ===== TULOKSET ===== */
 .tulokset {
