@@ -1,0 +1,565 @@
+[
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1448332225",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1439031883",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1439031883",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1439031883",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 1,
+    "teos": "Love, Pamela",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 3 (r. 283–285): \"Mutta Andersonit olivat nyt elämäkerta joskus muutama päivä sitten. En ole lukenut sitä, mutta siitä on kauheasti kehuttu.\"; r. 382 vain nimeää muistelmat (\"uusien muistelmien nimi on Love-Panela\"). P3 = Marko, varsinainen suositus on NYT-juttu (r. 310 \"Kiehtova juttu. Suosittelen.\").",
+    "uusi_data": {},
+    "suositus": "poista",
+    "varmuus": "varma",
+    "perustelu": "Marko sanoo itse, ettei ole lukenut muistelmia; ne ovat vain taustaa hänen varsinaiselle suositukselleen, NYT:n Pamela Anderson -jutulle (r0)."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1313434396",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1313434396",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1326470023",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Helsinkiläismies odotti idolinsa näkemistä iäisyyden (HS)"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1317896176",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Päätös, jota ei koskaan tehty"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/593546820",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/589960536",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/597272277",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "2b9d578f-075e-49c0-a0a2-9cf1c44090e2",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "2b9d578f-075e-49c0-a0a2-9cf1c44090e2",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "926674a4-00ae-4f88-ae51-60760c996c12",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "926674a4-00ae-4f88-ae51-60760c996c12",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "c3fc4ac4-4968-4502-96d2-0aa1aea09b21",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/563912115",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "f05ccbcc-51dc-47f3-b2b9-f48fdef22dc2",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "f05ccbcc-51dc-47f3-b2b9-f48fdef22dc2",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "2b9d578f-075e-49c0-a0a2-9cf1c44090e2",
+    "tyyppi": "teos",
+    "r_idx": 0,
+    "teos": "Making Sense with Sam Harris",
+    "vanha": "Making Sense with Sam Harris",
+    "uusi": "Making Sense with Sam Harris (ent. Waking Up)",
+    "peruste": "Puhuja 0 (r. 287–289): \"On olemassa tämmöinen podcast, joka on ihan järjettömän hyvä… Tämmöinen kuin Vekeking Up. Sam Harris on sen podcastin housta.\"",
+    "uusi_data": {
+      "teos": "Making Sense with Sam Harris (ent. Waking Up)",
+      "kuvaus": "Sam Harrisin podcast, joka jakson aikaan (2018) tunnettiin nimellä Waking Up. Siinä käsitellään muun muassa tekoälyä ja singulariteettia; suosittelijan mukaan aina sataprosenttista laatua ja tekoälyjaksot erityisen mielenkiintoisia.",
+      "google_linkki": "https://www.google.com/search?q=Making+Sense+with+Sam+Harris+podcast"
+    },
+    "suositus": "hyvaksy",
+    "varmuus": "epävarma",
+    "perustelu": "Jaksossa podcast mainitaan silloisella nimellään Waking Up (nimi vaihtui Making Senseksi syksyllä 2018). Nykyinen nimi ei ole väärä, joten muutos on vain tarkennus; sulut pitävät toistoryhmittelyn ennallaan. Kuvaus on kirjoitettu ilman suosittelijan nimeä, koska suosittelijasta on erillinen ehdotus."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/621516915",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Can CBD Really Do All That? (artikkeli)"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/589960536",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Eurooppa puhuu (HS)",
+    "vanha": null,
+    "uusi": "Maria Manner",
+    "peruste": "Puhuja 1 (r. 313–333): \"Minä ehkä käytän tämän tilaisuuden härskisti mainostaakseni työnantajani hanketta… Hesarilla aukesi sellainen Eurooppa puhuu tapahtuma tänään… suosittelisin tätä hanketta.\"; Tuomas antaa vuoron \"Maria.\" (r. 311), P1 = Maria.",
+    "uusi_data": {
+      "teos": "Eurooppa puhuu (HS)",
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Maria suosittelee Helsingin Sanomien ja kymmenien eurooppalaisten lehtien Eurooppa puhuu -hanketta, jossa ilmoittautuneet pääsevät keskustelemaan kanssaan aivan eri mieltä olevan eurooppalaisen kanssa. Hanke jatkoi suosittua Suomi puhuu -tapahtumaa.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "keskustelu",
+        "Eurooppa",
+        "HS"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Eurooppa+puhuu+Helsingin+Sanomat",
+      "lisatieto_linkki": ""
+    },
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Maria suosittelee sitä suositusosiossa selvästi, mutta hän sanoo itse mainostavansa työnantajan hanketta, ja kyse oli kertaluonteisesta, kauan sitten päättyneestä tapahtumasta. Jos omien hankkeiden mainokset halutaan arkistoon, hyväksy."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/586395102",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Jezebelin artikkeli epäpätevän naistoimittajan stereotyypistä"
+  },
+  {
+    "jakso_id": "2b9d578f-075e-49c0-a0a2-9cf1c44090e2",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Tekoälykeskustelu Twitterissä"
+  },
+  {
+    "jakso_id": "2b9d578f-075e-49c0-a0a2-9cf1c44090e2",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Manhunt: Unabomber"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/563912115",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Does Journalism Have a Future? (The New Yorker)"
+  },
+  {
+    "jakso_id": "c3fc4ac4-4968-4502-96d2-0aa1aea09b21",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/763752994",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/756078853",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/744410899",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/737178817",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/730866847",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/712712776",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/709190071",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/705897046",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/705897046",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/690483496",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/680552795",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/672766730",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/669445718",
+    "tyyppi": "suosittelija",
+    "r_idx": 5,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/652905347",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/629544684",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/756078853",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Bernie Sandersin kampanjavideo, jossa puhuu Killer Mike"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/744410899",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Among the Thugs"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/737178817",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Koivisto (Yle-dokumenttisarja)"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/712712776",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Suomi–Liechtenstein, jalkapallon EM-karsinta",
+    "vanha": null,
+    "uusi": "Tuomas Peltomäki",
+    "peruste": "Puhuja 1 (r. 161–203, jakson viimeinen aihe): \"perjantaina, kello yhdeksäntoista alkaen Suomi kohtaa… Lietensteinin… suosittelen seuraamaan sen takia, että jos siitä tulee voitto… kyse on historiasta.\"; r. 300–304 \"Kun huomenna lähdette katsomaan… kansalaistorille tulee jättiscreeniin\". P1 esittäytyy Tuomas Peltomäeksi (r. 17).",
+    "uusi_data": {
+      "teos": "Suomi–Liechtenstein, jalkapallon EM-karsinta",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas suositteli seuraamaan Suomen ja Liechtensteinin EM-karsintaottelua 15.11.2019, jossa Suomi saattoi varmistaa ensimmäisen paikkansa miesten jalkapallon arvokisoissa. Historiallista ottelua seurattiin myös jättinäytöltä Kansalaistorilla.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "jalkapallo",
+        "Huuhkajat",
+        "EM-karsinta"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Suomi+Liechtenstein+2019+EM-karsinta",
+      "lisatieto_linkki": ""
+    },
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Sana \"suosittelen seuraamaan\" kuuluu, mutta osana jakson viimeistä uutisaihetta ja suositusosion alun kehyksenä (kehys ei ole suositus). Kyse on myös kertaluonteisesta ottelusta, josta ei ole enää tallennetta Areenassa."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/690483496",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "VP-Lehtonen",
+    "vanha": null,
+    "uusi": "Marko Junkkari",
+    "peruste": "Puhuja 1 (r. 313): \"Mun puhelin on ihan vimmaisesti. Mä haluaisin kehua VP-Lehtosen\" – heti perään P0 aloittaa oman podcast-suosituksensa, eikä aiheeseen palata. P1 = Marko (r. 17–21 vastaa Tuomaksen tervehdykseen).",
+    "uusi_data": {
+      "teos": "VP-Lehtonen",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko aloitti kehumaan VP-Lehtosta, mutta suositus katkesi ennen kuin hän ehti kertoa mistä on kyse.",
+      "paakategoria": "muu",
+      "kategoriat": [],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Suositus katkeaa yhteen lauseeseen, eikä litteroinnista selviä, mitä tai ketä Marko tarkoitti, joten siitä ei saa suositusta."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/669445718",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Perttu Häkkisen radio-ohjelmat"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/669445718",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "EVAn talouspodcast (Matti Apunen ja Mika Maliranta)",
+    "vanha": null,
+    "uusi": "Tuija Siltamäki",
+    "peruste": "Puhuja 2 (r. 249–256, kuulijakysymysosio): \"mun lempipodcastit on kaikki Perttu Häkkisen radio-ohjelmat sekä toimintansa lopettanut elinkeinoelämän valtuuskunnan podcast, jossa Matti Apuna ja Mika Maliranta puhuu taloudesta, kuivan humoristiseen sävyyn.\" P2 esittäytyy Tuija Siltamäeksi (r. 19).",
+    "uusi_data": {
+      "teos": "EVAn talouspodcast (Matti Apunen ja Mika Maliranta)",
+      "suosittelija": "Tuija Siltamäki",
+      "kuvaus": "Tuija nimeää yhdeksi lempipodcastikseen Elinkeinoelämän valtuuskunnan jo lopetetun podcastin, jossa Matti Apunen ja Mika Maliranta puhuvat taloudesta kuivan humoristiseen sävyyn.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "talous",
+        "EVA"
+      ],
+      "google_linkki": "https://www.google.com/search?q=EVA+podcast+Matti+Apunen+Mika+Maliranta",
+      "lisatieto_linkki": "",
+      "alkupera": "kotimainen"
+    },
+    "suositus": "hyvaksy",
+    "varmuus": "epävarma",
+    "perustelu": "Tuija nimeää podcastin selvästi lempipodcastikseen samassa lauseessa kuin Perttu Häkkisen ohjelmat, joista on jo ehdotus, joten ne kannattaa ratkaista samalla tavalla. Epävarmuus: kohta on kuulijakysymysosiossa eikä suositusosiossa, ja podcast oli jo silloin lopetettu."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1595275437",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1583127527",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1552777555",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1552777555",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1552777555",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Prigožinin kapinan pohtiminen",
+    "vanha": null,
+    "uusi": "Matilda Jokinen",
+    "peruste": "Puhuja 3 (r. 370–374): \"Luin just jotain hyvää kirjaa, mutta en nyt muista edes mikä se on. Brigot sin on ihan sekoittanut.\" Venla: \"Sinä siis jatkaisit Ricosini sitä keskusteluamesta?\" P3: \"Todennäköisesti, olen niin tylsä.\" Venla osoittaa vuoron Matildalle (r. 365).",
+    "uusi_data": {
+      "teos": "Prigožinin kapinan pohtiminen",
+      "suosittelija": "Matilda Jokinen",
+      "kuvaus": "Matilda ei muistanut lukemansa kirjan nimeä ja sanoi jatkavansa mieluummin keskustelua Prigožinin kapinasta.",
+      "paakategoria": "muu",
+      "kategoriat": [],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Matilda ei suosittele mitään: hän ei muista kirjan nimeä ja vitsailee jäävänsä pohtimaan jakson pääaihetta, joten \"Rikoshini\" ei ole teos."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1546984510",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1546984510",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Is Taylor Swift Underpaid? (Paul Krugman, The New York Times)"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1540850749",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1540850749",
+    "tyyppi": "teos",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1540850749",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1540850749",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "New York Timesin uutisointi Trumpin asiakirjajutusta"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Tina Turner – Simply the Best"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Millionaire vs. Billionaire in the Battle of the SoHo Pergola (The New York Times)"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1511828713",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Matti Vanhanen TikTokissa"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1465903744",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1465903744",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1459655491",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1459655491",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Orionin 95-vuotisjuhlat ja The Whale"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1558157026",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Pyöräretki Laurinlahden uimarannalle"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1475743510",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Jari Hanskan Alma Spirit -videot"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1470207121",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true,
+    "teos": "Matti Apusen ja Mika Malirannan talouspodcast"
+  }
+]

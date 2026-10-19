@@ -1,0 +1,631 @@
+[
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1183514755",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Spider-Man: No Way Home",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1183514755",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Shakki",
+    "vanha": "Tuomas Peltomäki",
+    "uusi": null,
+    "peruste": "Puhuja 1 (= Alma: 'Mun oikea etunimihän on siis Alma-Sofia', r. 58) r. 242–247: \"Minä suosittelen hiihtämistä. Jos haluaa jotain enemmän matalan kynnyksen tekemistä, niin jotenkin lämmöllä muistelen sitä viime joulua, kun tosiaan oli tämä … shakkikuningatar homma\"; myös r. 126 \"verisiä shakkiotteluita veljen kanssa\".",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Alma tarjoaa shakkia 'matalan kynnyksen tekemisenä' joulun pyhiin, joten se on löyhä mutta oikea vinkki; suosittelija on kuitenkin Alma, ei Tuomas (jo olemassa oleva suosittelijaehdotus korjaa sen)."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1183514755",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 1,
+    "teos": "Kuningattaren gambiitti",
+    "vanha": "Tuomas Peltomäki",
+    "uusi": null,
+    "peruste": "Puhuja 1 (Alma) r. 245–247: \"mikäs se nyt Netflix-hitin nimi olikaan, tämä shakkikuningatar homma\"; Puhuja 0 r. 250: \"Queens Gamith oli.\" – sarja mainitaan vain viime joulun shakkibuumin taustana.",
+    "uusi_data": {},
+    "suositus": "poista",
+    "varmuus": "epävarma",
+    "perustelu": "Sarjaa ei suositella katsottavaksi, se mainitaan vain muistelussa shakkivinkin yhteydessä; jos halutaan pitää, suosittelija on joka tapauksessa Alma."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1166616847",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Honestly with Bari Weiss",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1166616847",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Block and Reported",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1157528071",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Menneisyyden jäljillä",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1153780576",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Kaija K",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1153780576",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Ujuni Ahmed -podcast",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1149466168",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Politiikka-Suomi",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1149466168",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Radiolab: Everybody's Got a Genome",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1125642721",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 3,
+    "teos": "Scott Turow'n kirjat",
+    "vanha": "Marko Junkkari",
+    "uusi": null,
+    "peruste": "Puhuja 3 esittäytyy r. 19: \"Minä olen Marko Junkkari ja … tuuraan Tuomas Peltomäkeä\" – Marko on tämän jakson juontaja. r. 416–418: \"olen lukenut kaikki Scott Turo'n kirjat … Sain yhden vinkin joku, suosittelen Michael Konellin kirjoja. Olen lukenut niitä jotain ja se on hyvä.\"",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Juontaja on tässä jaksossa Marko Junkkari itse, joten suosittelija on jo oikein; Marko kehuu kirjoja ja kertoo lukevansa niitä, mikä riittää suositukseksi."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1125642721",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 4,
+    "teos": "Michael Connellyn kirjat",
+    "vanha": "Marko Junkkari",
+    "uusi": null,
+    "peruste": "Puhuja 3 esittäytyy r. 19: \"Minä olen Marko Junkkari ja … tuuraan Tuomas Peltomäkeä\" – Marko on tämän jakson juontaja. r. 416–418: \"olen lukenut kaikki Scott Turo'n kirjat … Sain yhden vinkin joku, suosittelen Michael Konellin kirjoja. Olen lukenut niitä jotain ja se on hyvä.\"",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Juontaja on tässä jaksossa Marko Junkkari itse, joten suosittelija on jo oikein; Marko kehuu kirjoja ja kertoo lukevansa niitä, mikä riittää suositukseksi."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1170494980",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Lämpenevä maa – Ilmastolukutaidon käsikirja",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1217555593",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Ali Wong: Baby Cobra",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1209058897",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "NFL-otteluiden katsominen tallenteelta",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1048732801",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Merimelonta",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1039086244",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Umbrella Academy",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1039086244",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "Super Context podcast",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1025081755",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Jacques Brel -dokumentti (Yle Areena)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1025081755",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Futility Closet",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1025081755",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Taru Salamurhojen Oppipoika",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1025081755",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "Katiska",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/998493811",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "True Believer: The Rise and Fall of Stan Lee",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/988040050",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Koneruhtinas – Pekka Herlinin elämä",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1052924116",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Sinéad O'Connor muistelmahaastattelu – New York Times",
+    "vanha": "Jaakko Lyytinen",
+    "uusi": "Maria Manner",
+    "peruste": "Jaakko (Puhuja 2, esittäytyy r. 21) antaa vuoron r. 353: \"Otetaan Marjo. Mikä on sinun suosituksesi?\"; Puhuja 3 (Maria) r. 354–360: \"Saanko pöllin suosituksen? … Sinet O Connerin haastattelua … New York Timesissa on otsikoitu …\"; Jaakko r. 362: \"Mä luin sen … Se oli hyvä juttu. Lukekaa se.\"",
+    "uusi_data": {
+      "suosittelija": "Maria Manner",
+      "kuvaus": "New York Timesin haastattelu Sinéad O'Connorista, otsikoitu 'Sinéad O'Connor Remembers Things Differently'. Maria suosittelee haastattelua, joka käsittelee O'Connorin elämää, islamin uskoon kääntymistä ja muistelmia; myös Jaakko Lyytinen kehuu juttua."
+    },
+    "suositus": "hyvaksy",
+    "varmuus": "epävarma",
+    "perustelu": "Maria nostaa jutun omalla suositusvuorollaan ('Saanko pöllin suosituksen?'), Jaakko yhtyy ja jatkaa siitä; yhteissuositus → pääsuosittelija Maria, Jaakko kuvaukseen. Epävarma, koska Maria 'pölli' aiheen ja Jaakko puhuu siitä enemmän."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1121632636",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Ylioppilaslehti",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1066498348",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Stadi Cup",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/988871245",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Hiihtäminen lasten perässä",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1747983588",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Viikinki",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1695141360",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Politiikan puskaraatio",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1672693716",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Robin Williams – haastattelu Graham Nortonissa",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1672693716",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Politics on the Edge",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1672693716",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "The Rest Is Politics",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1708212405",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "NRK:n artikkeli Sanna Marinista",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1649789154",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Sateentekijät – Eräänlaiset päiväkirjat 1992–2001",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1638345129",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Rocketman",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1638345129",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Errol Morris, Do Not Like This Q&A About His New Le Carré Film",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1638345129",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "The Pigeon Tunnel",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1627527729",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Super Pumped: The Battle for Uber",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1616332467",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Matkalla kadonneessa maailmassa",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1616332467",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Winning Time: The Rise of the Lakers Dynasty",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1600138725",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Anteeksi lausuminen (Vladei, Pöre tai vastaava hautausmaa-aiheinen teos)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/902759080",
+    "tyyppi": "teos",
+    "r_idx": 0,
+    "teos": "The Wilderness: A History of the First Presidential Race (Mark Halperin & John Heilemann)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/890918854",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/867122464",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Yoga With Adriene",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/824431384",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 1,
+    "teos": "Mikael Hakim",
+    "vanha": "Tuomas Peltomäki",
+    "uusi": null,
+    "peruste": "Puhuja 0 (Tuomas) r. 367–368 Markon kolumnia kehuessaan: \"resonoi mulla tosi paljon senkin vuoksi, että luen sitä Waltarin Mikael Hakimia, jossa … puhuu koko ajan oikusta\" – ei suositusta, vain sivulause.",
+    "uusi_data": {},
+    "suositus": "poista",
+    "varmuus": "varma",
+    "perustelu": "Kirja mainitaan ohimennen perusteluna sille, miksi Markon kolumni resonoi; Tuomas ei kehota lukemaan sitä."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/815560156",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 2,
+    "teos": "The Irishman",
+    "vanha": "Tuomas Peltomäki",
+    "uusi": null,
+    "peruste": "Puhuja 0 (Tuomas) r. 332–343: \"Marko tämä oli sun suositus The Irishmanin! … Mutta mä ihan pidin siitä! Se oli hidas tempoinen, mutta … pohdiskeleva … Mä pidin siitä! Siitä leffasta innostuneena ja nyt päästän mun varsinaiseen suositukseen\" (= Silence).",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Tuomas kutsuu Silencea 'varsinaiseksi suositukseksi', mutta kehuu The Irishmania selvästi ja perustellen, joten se toimii myös suosituksena; pitäisin sen."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/815560156",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Mating",
+    "vanha": "Alma Onali",
+    "uusi": "Alma Onali",
+    "peruste": "Tuomas r. 48–49: \"Alma Onali. Hei Alma!\" → Puhuja 2 r. 50: \"Jihuu! Ihanaa olla taas täällä!\"; P2 kertoo r. 120–123 olleensa Tallinnassa (Alman Viro-aihe). P2 r. 230–262: \"Yle Areenassa on nyt sellainen ihan kiinnostava dokumentti … sen nimi on Mating.\"",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Matingin suosittelija Puhuja 2 on Alma Onali (vastaa tervehdykseen ja puhuu Viron-kokemuksistaan), joten nykyinen merkintä on oikein."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/805366771",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Aatos ja Amine",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/890918854",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Tenet",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/779003464",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Monopoli",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/899397160",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Juniorivalmentaminen urheiluseurassa",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/902759080",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "@UutisraporttiAW (Twitter-tili)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1857839199",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Kööpenhamina-trilogia (Tove Ditlevsen)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1852589244",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Blue",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1846505895",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Robin Packalen – varhaistuotanto",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1846505895",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "High School Musical 2 – soundtrack",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1846505895",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Politiikan pinnan vangit",
+    "vanha": null,
+    "uusi": "Salla Vuorikoski",
+    "peruste": "Puhuja 2 r. 362–367: \"Salla? Joo. Suosittelen kirjaa … Matti Mörttinen … ja Janni Klahti. He ovat kirjoittaneet tällaisen politiikan pinnan vangit kirjan.\" – sama teos on jo listalla r_idx 0 Sallan nimissä.",
+    "uusi_data": {
+      "teos": "Politiikan pinnan vangit",
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Salla suosittelee Matti Mörttisen ja Janni Klahdin kirjaa politiikan pinnallisuudesta ja mediaoperaatioista.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "politiikka",
+        "historia",
+        "media"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Politiikan+pinnan+vangit+Matti+M%C3%B6rttinen+Janni+Klahti",
+      "lisatieto_linkki": ""
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Suositus ei puutu: se on jo jakson ensimmäisenä (r_idx 0) oikealla suosittelijalla, joten lisäys tekisi tuplan."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1823242773",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Kuningas Charlesin virallinen muotokuva (Jonathan Yeo, 2024)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1823242773",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Piilotettu kamera Putinin palatsissa (Navalny-tiimin video)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1812591534",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Keisari Aarnio",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1767946203",
+    "tyyppi": "suosittelija",
+    "r_idx": 4,
+    "teos": "Keisari Aarnio",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1792514650",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Pako Pohjois-Koreasta",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1792514650",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Sanalouhos",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1780796121",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "New York Times Games -sovellus",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1780796121",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "New York Times Cooking -sovellus",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1767946203",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Laman lapset – mitä meille tapahtui?",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1767946203",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "The New York Times",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1767946203",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "Avatar: The Last Airbender (Netflix-sarja)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1798431229",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Politiikan puskaradio",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1817202819",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Windows95man – No Rules (kuoroversio)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1761187194",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Kymmenen haavaa Amerikan sydämessä",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1279761181",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Älä sano mitään",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1279761181",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Severance",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1403332597",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Pennun kasvatusopas",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1403332597",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Why Is She Like This? – artikkeli Margery Taylor Greenistä",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1417180747",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Tokyo Vice",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1412326084",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "The Rest Is History",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1385826109",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "Munkkivuori",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1394800534",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "We Might Have Long Covid All Wrong – artikkeli (The New Republic)",
+    "jo_olemassa": true
+  }
+]

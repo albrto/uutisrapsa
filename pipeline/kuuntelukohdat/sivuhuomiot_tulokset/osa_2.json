@@ -1,0 +1,454 @@
+[
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/978965908",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1057300072",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1057300072",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Pikku naisia (Louisa May Alcott)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/949407838",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/949407838",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Kuningattaren gambiitti",
+    "vanha": "Paavo Teittinen",
+    "uusi": "Marko Junkkari",
+    "peruste": "Puhuja 2 (r. 342-353): \"mä oon kattonut semmoista sarjaa... shakkisarja... Netflixissä tää Queenscampit niminen sarja... kirvoitti mut taas aloittamaan kytevän nettishakkiharrastuksen\". P2 = Paavo (vastaa r. 34-36 Tuomaksen 'hei Paavo' -tervehdykseen). Puhuja 1 (Marko, eduskunta/Niinistö-anekdootit) vain yhtyy: \"Mä itse asiassa just ajattelin kehua. Kehutaan yhdessä\" (r. 345).",
+    "uusi_data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Netflix-sarja lahjakkaasta mutta ongelmallisen taustan omaavasta naispuolisesta shakkipelaajasta. Marko Junkkari kehuu sarjaa erittäin hyväksi."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Litteroinnin mukaan Kuningattaren gambiitin esittelee Paavo (sama puhuja kuin The Boysissa), Marko vain yhtyy kehuihin; nykyinen kirjaus Paavo on oikein."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/983410054",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Ystäväksi maahanmuuttajaäidille (MLL)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1079537803",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Tuhlaaminen",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1079537803",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1506372778",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1506372778",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1506372778",
+    "tyyppi": "suosittelija",
+    "r_idx": 4,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1506372778",
+    "tyyppi": "suosittelija",
+    "r_idx": 5,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1506372778",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Etana Serum (korealainen etanalima-kosmetiikka)",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 3 (r. 47-50): \"Etana Serumin on korealaista kosmetiikkaa... sitä mä laitan naamaani omia illoin. Se on ihan supertuote. Suosittelen kaikille.\" P3 = Anni (Tuomas esittelee juuri ennen 'Etana Serumin ystävä Anni Keski-Heikkilä... Hei Anni').",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Anni suosittelee tuotetta jakson alussa sanatarkasti ('Suosittelen kaikille'); käytännön mukaan ennen suositusosiota tehdyt suositukset pidetään."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1348828480",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1342473310",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1340072536",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1340072536",
+    "tyyppi": "suosittelija",
+    "r_idx": 4,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1271386186",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1271386186",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1271386186",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 1,
+    "teos": "Decoupling",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 2 (r. 344-346): \"...kulttuurituotteita tässä paitsi sitä podcastia, jota suosittelen viimeksi... miellyttävä podcast. Mikä se olikaan? Dekoodering.\" P2 = Alma (r. 32 vastaa 'Alma?'-kysymykseen ja kertoo palanneensa Ruotsista).",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Decoupling mainitaan litteroinnissa ('Dekoodering', r. 346), joten huomio 'ei näy' ei pidä; kyseessä on Alman uudelleenmaininta edellisen kerran suosituksesta (suosittelijamuutos Almalle on jo ehdotuksissa). Pidä, ellei toistomainintoja haluta karsia."
+  },
+  {
+    "jakso_id": "963bcce3-af52-47bd-b0fc-6420d7684306",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "963bcce3-af52-47bd-b0fc-6420d7684306",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "963bcce3-af52-47bd-b0fc-6420d7684306",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "e5392796-e1ec-4b89-a9d2-1df0e47558d4",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "e5392796-e1ec-4b89-a9d2-1df0e47558d4",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "6f166f57-f459-425b-9bcb-adc4235d8639",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "a79e11d1-83ee-4521-b451-55d6e819cfc2",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 2,
+    "teos": "Orjattaren taru",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 2 (r. 232-240): \"Olen katsonut... hand Matds Zaiya... se perustuu Margeret Atwoodin 80-luvun kirjoittamaan kirjaan, joka kaikkien naisten tyyliin olisi pitänyt lukea ja olen ehkä lukenut joskus koulussa, mutta en todellakaan muista siitä mitään.\"",
+    "uusi_data": {},
+    "suositus": "poista",
+    "varmuus": "varma",
+    "perustelu": "Kirja mainitaan vain sarjan taustana, eikä Anna-Sofia suosittele sitä (ei muista siitä mitään); suositus on The Handmaid's Tale -sarja (r1), joten r2 on tuplaus."
+  },
+  {
+    "jakso_id": "891747a2-f519-4ae4-902a-6cb83d1825a8",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "The Thick of It",
+    "vanha": "Marko Junkkari",
+    "uusi": "Tuomas Peltomäki",
+    "peruste": "Puhuja 0 (r. 355-356): \"Tiedätkö Armando Januchi, joka on Viipin luoja?\" - \"En. Kuka se?\" (Marko); sen jälkeen P0 (r. 380-385): \"Viip on Jenkkiversio tämmöisestä brittiläisestä sarjasta... The Fick of Ed. Siitä löytyy aika pitkiä pätkiä YouTubesta... Kannattaa katsoa, se on aivan huikea\" ja jatkaa suoraan (r. 410-415) \"mä halusin kans puhua tv-sarjasta... Rakkautta ja rima kauhua\" (Tuomaksen suositus). P0 esittäytyy Tuomakseksi (r. 3); Veepin esittelee P1 = Marko.",
+    "uusi_data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Brittiläinen poliittinen komediasarja, jonka pohjalta Veep on tehty. Tuomas Peltomäki suosittelee katsomaan pitkiä pätkiä YouTubesta ja kuvailee sitä huikeaksi."
+    },
+    "suositus": "hyvaksy",
+    "varmuus": "epävarma",
+    "perustelu": "Tuomas kysyy Markolta Iannuccista, Marko ei tunne häntä, ja Tuomas esittelee The Thick of Itin ja siirtyy suoraan omaan sarjasuositukseensa; diarisointi on tässä jaksossa kuitenkin sotkuista (P0:lla on myös Markon repliikkejä)."
+  },
+  {
+    "jakso_id": "7dfb89c1-afce-4d2c-9d24-95ffd7f77f3f",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Max Perkins: Editor of Genius",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "7dfb89c1-afce-4d2c-9d24-95ffd7f77f3f",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "teos": "Nuoret ja lupaavat (Unge lovende)",
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/625310046",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/604402233",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Veep",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 1/0 (r. 309-316): Markon vuoro katkeaa ('Ennen oli paljon helpompaa, kun oli pelkät printti dead...'), seuraavaksi \"Louis Drainhus. Hän on upea, aivan upea, koska hän on ollut Sain Feldissa...\" ja Tuomas: \"Hei, mulla on monta suositusta\". Sarjan nimi puuttuu litteroinnista.",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Julia Louis-Dreyfus -viittaus sopii Veepiin, jonka viimeinen kausi alkoi 31.3.2019, ja Marko on suositellut Veepiä aiemminkin (29.3.2017); nimi lienee jäänyt litteroinnin aukkoon, ei syytä poistaa."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1516127749",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Ystäväkirja",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 0 (r. 48-96): \"Lyhyt ilmoitusasia. Tällä viikolla alkoi ilmestyä aivan erinomainen uusi podcast nimeltä Ystäväkirja... Inkeri Harju... Eli ystäväkirja-podcast kuunnelkaa\". P0 esittäytyy Tuomakseksi (r. 21).",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Ystäväkirja löytyy jakson alusta (r. 48-96), ei suositusosiosta; Tuomas suosittelee sitä selvästi ('kuunnelkaa'), joten käytännön mukaan pidetään. (Kaksi sivuhuomiota koski samaa asiaa.)"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1868885901",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1868885901",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1892403972",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1892403972",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1897673451",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1897673451",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1879770201",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1879770201",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1924030769",
+    "tyyppi": "suosittelija",
+    "r_idx": 4,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1924030769",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1924030769",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "2717fa52-d590-4196-9c1c-84a8bbba8b40",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "2717fa52-d590-4196-9c1c-84a8bbba8b40",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1684585905",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1250146321",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1250146321",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "63e724c9-43cc-42ce-824c-6c5a41358027",
+    "tyyppi": "teos",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "a608b163-5869-4a94-af18-9634820c65ee",
+    "tyyppi": "teos",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "d01deb2c-2887-47fa-be1d-d7830c8630f6",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "d01deb2c-2887-47fa-be1d-d7830c8630f6",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "d01deb2c-2887-47fa-be1d-d7830c8630f6",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "e16e59b7-2fdf-4526-a09e-813f9688a1a2",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "e16e59b7-2fdf-4526-a09e-813f9688a1a2",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 1,
+    "teos": "Sinun Margot (näytelmä, Helsingin Kaupunginteatteri)",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 4 (r. 310-321): \"Olen siis käynyt katsomassa Helsingin Kaupunginteatterissa... näytelmän Sinun Margot... perustuu Meri Valkaman... Se on loistava kirja\"; r. 323: \"Nyt on varmaan näytökset muuten jo ohi, mutta jos nyt joku haluaa vaikka kirjan lukea\"; r. 354: \"Musta se on hieno näytelmä\". P4 = Salla (r. 41 vastaa 'Heissan Salla').",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Salla kehuu erikseen sekä kirjaa että näytelmää, ja datassa kirja + sovitus on pidetty kahtena suosituksena (esim. Annihilation); poisto on perusteltu vain, jos sama teos halutaan yhdeksi riviksi. Huom: r0:n kuvaus nimeää virheellisesti Anna-Sofia Bernerin ('Anna-Sofia Bernerin mukaan...'), vaikka puhuja on Salla – korjaa kuvaus."
+  },
+  {
+    "jakso_id": "b5ab2750-f5b5-4280-83e9-fa380e856c67",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "b5ab2750-f5b5-4280-83e9-fa380e856c67",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "b5ab2750-f5b5-4280-83e9-fa380e856c67",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
+    "tyyppi": "teos",
+    "r_idx": 0,
+    "teos": "Petteri Orpo ja oikeistovallan nousu",
+    "vanha": "Petteri Orpo ja oikeistovallan nousu",
+    "uusi": "Petteri Orpo ja oikeistovallan paluu",
+    "peruste": "Puhuja 3 (r. 115): \"Kirja on Petteri Orpo ja oikeistovallan nousu\" (Marko sanoo näin litteroinnissa), mutta kirjan julkaistu nimi on kauppojen (mm. Prisma) mukaan Teemu Luukan \"Petteri Orpo ja oikeistovallan paluu\".",
+    "uusi_data": {
+      "teos": "Petteri Orpo ja oikeistovallan paluu",
+      "kuvaus": "Teemu Luukan kirja käy yksityiskohtaisesti läpi Orpon hallituksen toimintaa ja Suomen oikeistolaistumista. Tuomas nostaa kirjan esiin, ja Marko suosittelee sitä lämpimästi kaikille, joita politiikan tapahtumat kiinnostavat.",
+      "google_linkki": "https://www.google.com/search?q=Petteri+Orpo+ja+oikeistovallan+paluu+Teemu+Luukka",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Petteri+Orpo+ja+oikeistovallan+paluu"
+    },
+    "suositus": "hyvaksy",
+    "varmuus": "varma",
+    "perustelu": "Kirjan oikea nimi on 'Petteri Orpo ja oikeistovallan paluu' (tarkistettu verkosta); 'nousu' on puhujan tai litteroinnin lipsahdus. Myös hakulinkit päivitetään."
+  },
+  {
+    "jakso_id": "d98d2fd8-573c-4062-b2bd-26df6a1e57f6",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 1,
+    "teos": "Moulin Rouge!",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 0 (r. 304-306): \"Saanko hypätä sun suosituksen kelkkaan sen verran, että sanon, että Baz Luhrmann on tehnyt jonkun muunkin hyvän leffan, mutta en muista sen nimeä... Mulla ondrusiin. Aivan eeppisen hyvä elokuva.\" ('Mulla ondrusiin' = Moulin Rouge, litterointivirhe). P0 = Tuomas (siirtyy samassa vuorossa Sunscreen-biisiin, joka on kirjattu Tuomakselle).",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Elokuva löytyy litteroinnista vääristyneenä ('Mulla ondrusiin', r. 305) ja sitä kehutaan 'eeppisen hyväksi', joten se on ohimenevä mutta todellinen kehu; suosittelijan vaihto Tuomakselle on jo ehdotuksissa. Poista vain, jos ohimenomaininnat halutaan karsia."
+  }
+]

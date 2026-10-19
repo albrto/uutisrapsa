@@ -1949,57 +1949,20 @@ function renderTarkka(rec, arvottu) {
 
 // Arvo-napit vievät arvontanäkymään; siellä ollessa vedetään vivusta
 function arvoSuositus() {
-  if (tila.nakyma === 'arvonta') arvoTaululle();
+  if (tila.nakyma === 'arvonta') pyoraytaRulla();
   else siirry('/arvonta');
 }
 
-// ---------- Arvonta (/arvonta): lentokenttätaulu ja vipu ----------
-// Suositus ilmestyy vanhanaikaisen lähtötaulun läpille: jokainen merkki pyörähtää
-// aakkosjärjestyksessä kohti oikeaa kirjainta. Uusi arvonta vedetään vivusta (tai
-// painetaan vipua / Enter). Läppien naksutus on vapaaehtoinen (oletuksena pois).
+// ---------- Arvonta (/arvonta): hedelmäpelin rulla ja vipu ----------
+// Vivun veto pyöräyttää yhden rullan, jonka "symbolit" ovat samoja suosituskortteja kuin
+// selausnäkymässä (renderCard). Rulla nykäisee liikkeelle, vilistää hetken täyttä vauhtia ja
+// hidastuu pysähtyen arvottuun suositukseen. Edellinen versio (lentokentän lähtötaulu) on
+// tallessa git-tagissa "arvonta-lahtotaulu".
 
-const TAULU_MERKIT = " ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ0123456789.,:;-–!?&()/'+#";
-const TAULUN_RYHMAT = [
-  { nimi: 'Teos', rivit: 3, arvo: r => r.teos },
-  { nimi: 'Suosittelija', rivit: 1, arvo: r => (onTuntematon(r.suosittelija) ? 'Tuntematon' : r.suosittelija) },
-  { nimi: 'Kategoria', rivit: 1, arvo: r => kategoria(r.paakategoria).nimi },
-  { nimi: 'Jakso', rivit: 1, arvo: r => r.paivamaara },
-];
-const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, sarakkeet: 0, kehys: null, aani: false };
+const RULLA_KORTTEJA = 28;   // kortteja yhdellä pyöräytyksellä (toiseksi viimeinen = arvottu)
+const RULLA_KESTO = 3800;    // ms, nykäisystä pysähdykseen
+const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, kehys: null, aani: false, nauha: [], kohta: 0 };
 try { Arvonta.aani = localStorage.getItem('arvontaAani') === '1'; } catch (e) {}
-
-function taulunMerkki(c) {
-  const iso = c.toLocaleUpperCase('fi');
-  if (TAULU_MERKIT.includes(iso)) return iso;
-  const perus = iso.normalize('NFD').replace(/[̀-ͯ]/g, '');
-  if (perus && TAULU_MERKIT.includes(perus[0])) return perus[0];
-  if (/[’‘`´]/.test(c)) return "'";
-  if (/[—]/.test(c)) return '–';
-  return ' ';
-}
-
-// Teksti taulun riveiksi sanarajoista; liian pitkä loppu korvataan pisteillä
-function taulunRivit(teksti, sarakkeet, maara) {
-  const rivit = [];
-  let rivi = '';
-  for (let sana of String(teksti || '').split(/\s+/).filter(Boolean)) {
-    while (sana.length > sarakkeet) {
-      if (rivi) { rivit.push(rivi); rivi = ''; }
-      rivit.push(sana.slice(0, sarakkeet));
-      sana = sana.slice(sarakkeet);
-    }
-    if (!rivi) rivi = sana;
-    else if (rivi.length + 1 + sana.length <= sarakkeet) rivi += ' ' + sana;
-    else { rivit.push(rivi); rivi = sana; }
-  }
-  if (rivi) rivit.push(rivi);
-  if (rivit.length > maara) {
-    rivit.length = maara;
-    rivit[maara - 1] = rivit[maara - 1].slice(0, sarakkeet - 3).trimEnd() + '...';
-  }
-  while (rivit.length < maara) rivit.push('');
-  return rivit.map(r => [...r.padEnd(sarakkeet)].map(taulunMerkki));
-}
 
 function renderArvonta() {
   const el = $('#arvonta');
@@ -2008,16 +1971,18 @@ function renderArvonta() {
       <div class="arvonta-otsake">
         <div>
           <h1 class="sivuotsake-otsikko">Arvonta</h1>
-          <p class="sivuotsake-meta">Pitkä epämukava hiljaisuus? Vedä vivusta, niin taulu kääntää eteesi
-            yhden ${luku(allRecs.length)} suosituksesta.</p>
+          <p class="sivuotsake-meta">Pitkä epämukava hiljaisuus? Vedä vivusta, niin rulla pyörähtää ja
+            pysähtyy yhteen ${luku(allRecs.length)} suosituksesta.</p>
         </div>
         <button type="button" class="arvonta-aani" id="arvontaAani" aria-pressed="${Arvonta.aani}">
           ${ikoni('kaiutin')}<span>${Arvonta.aani ? 'Ääni päällä' : 'Ääni pois'}</span></button>
       </div>
       <div class="arvonta-alue">
-        <div class="taulu-kehys">
-          <div class="taulu" id="taulu" aria-hidden="true"></div>
-          <p class="vain-ruudunlukijalle" id="tauluTeksti" aria-live="polite"></p>
+        <div class="automaatti">
+          <div class="rulla" id="rulla"><div class="rulla-nauha" id="rullaNauha"></div></div>
+          <span class="rulla-osoitin rulla-osoitin-vasen" aria-hidden="true"></span>
+          <span class="rulla-osoitin rulla-osoitin-oikea" aria-hidden="true"></span>
+          <p class="vain-ruudunlukijalle" id="rullaTeksti" aria-live="polite"></p>
         </div>
         <div class="vipu-alue">
           <button type="button" class="vipu" id="vipu" aria-label="Vedä vivusta: arvo uusi suositus">
@@ -2031,106 +1996,122 @@ function renderArvonta() {
       <div class="arvonta-tiedot" id="arvontaTiedot"></div>`;
     setupVipu();
     $('#arvontaAani').addEventListener('click', vaihdaArvontaAani);
-    new ResizeObserver(() => sovitaTaulu()).observe($('#taulu'));
+    new ResizeObserver(() => asetaRullanKohta(Arvonta.kohta)).observe($('#rulla'));
   }
-  sovitaTaulu();
-  if (!Arvonta.rec) arvoTaululle();
+  if (!Arvonta.rec) {
+    // Ensimmäinen käynti: rullassa on valmiiksi kortti, ja se pyörähtää kerran itsestään
+    const alku = arvoRec();
+    piirraNauha([arvoRec(), alku, arvoRec()], 1);
+    Arvonta.rec = alku;
+    setTimeout(pyoraytaRulla, 350);
+  } else {
+    asetaRullanKohta(Arvonta.kohta);
+  }
 }
 
-// Sarakemäärä taulun leveyden mukaan; muutoksessa taulu piirretään uudelleen ilman animaatiota
-function sovitaTaulu() {
-  const taulu = $('#taulu');
-  if (!taulu || !taulu.clientWidth) return;
-  const lappu = matchMedia('(max-width: 640px)').matches ? 21 : 30;
-  const sarakkeet = Math.max(10, Math.min(28, Math.floor((taulu.clientWidth + 4) / (lappu + 4))));
-  if (sarakkeet === Arvonta.sarakkeet) return;
-  Arvonta.sarakkeet = sarakkeet;
-  taulu.style.setProperty('--sarakkeet', sarakkeet);
-  taulu.innerHTML = TAULUN_RYHMAT.map(g => `
-    <div class="taulu-ryhma">
-      <span class="taulu-nimi">${g.nimi}</span>
-      ${Array.from({ length: g.rivit }, () =>
-        `<div class="taulu-rivi">${'<span class="lappu"><span class="lappu-m"> </span></span>'.repeat(sarakkeet)}</div>`).join('')}
-    </div>`).join('');
-  if (Arvonta.rec) naytaTaululla(Arvonta.rec, { animoi: false });
-}
-
-function arvoTaululle() {
-  if (Arvonta.kaynnissa || !allRecs.length) return;
+function arvoRec(valtettavat = []) {
   let rec;
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 25; i++) {
     rec = allRecs[Math.floor(Math.random() * allRecs.length)];
-    if (!Arvonta.viimeiset.includes(rec.id)) break;
+    if (!Arvonta.viimeiset.includes(rec.id) && !valtettavat.includes(rec.id)) break;
   }
-  Arvonta.viimeiset = [rec.id, ...Arvonta.viimeiset].slice(0, 30);
-  Arvonta.rec = rec;
-  naytaTaululla(rec, { animoi: !matchMedia('(prefers-reduced-motion: reduce)').matches });
+  return rec;
 }
 
-function naytaTaululla(rec, { animoi = true } = {}) {
-  const lapput = [...document.querySelectorAll('#taulu .lappu')];
-  const kohteet = TAULUN_RYHMAT.flatMap(g => taulunRivit(g.arvo(rec), Arvonta.sarakkeet, g.rivit).flat());
-  const tiedot = $('#arvontaTiedot');
-  $('#tauluTeksti').textContent = `${rec.teos}. ${TAULUN_RYHMAT.slice(1).map(g => g.arvo(rec)).join(', ')}.`;
-  if (!animoi) {
-    lapput.forEach((l, i) => { l.firstChild.textContent = kohteet[i]; });
-    renderArvontaTiedot(rec);
+// Rullan mitat tulevat CSS:stä: kortin korkeus + väli = yksi askel
+function rullanAskel() {
+  const r = getComputedStyle($('#rulla'));
+  return parseFloat(r.getPropertyValue('--kortti-k')) + parseFloat(r.getPropertyValue('--rako'));
+}
+
+function piirraNauha(recs, kohta) {
+  Arvonta.nauha = recs;
+  $('#rullaNauha').innerHTML = recs.map(r => `<div class="rulla-kortti">${renderCard(r)}</div>`).join('');
+  asetaRullanKohta(kohta);
+}
+
+// kohta = nauhan indeksi (desimaaliluku), joka on keskellä rullan ikkunaa
+function asetaRullanKohta(kohta) {
+  Arvonta.kohta = kohta;
+  const nauha = $('#rullaNauha');
+  if (!nauha) return;
+  nauha.style.transform = `translate3d(0, ${(-kohta * rullanAskel()).toFixed(1)}px, 0)`;
+}
+
+function pyoraytaRulla() {
+  if (Arvonta.kaynnissa || !allRecs.length) return;
+  const nyt = Arvonta.nauha[Math.round(Arvonta.kohta)];
+  const ylla = Arvonta.nauha[Math.round(Arvonta.kohta) - 1] || arvoRec();
+  const kohde = arvoRec([nyt.id]);
+  Arvonta.viimeiset = [kohde.id, ...Arvonta.viimeiset].slice(0, 30);
+  // Uusi nauha alkaa samasta näkymästä (yllä oleva + nykyinen), joten vaihto ei näy
+  const valissa = Array.from({ length: RULLA_KORTTEJA - 4 }, () => arvoRec([kohde.id]));
+  const recs = [ylla, nyt, ...valissa, kohde, arvoRec([kohde.id])];
+  piirraNauha(recs, 1);
+  const loppu = recs.length - 2;
+  Arvonta.rec = kohde;
+
+  $('#arvontaTiedot').classList.remove('nakyvissa');
+  $('#rullaTeksti').textContent = '';
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    asetaRullanKohta(loppu);
+    rullaPysahtyi(kohde);
     return;
   }
+
   Arvonta.kaynnissa = true;
   document.body.classList.add('arvonta-kaynnissa');
-  tiedot.classList.remove('nakyvissa');
+  const rulla = $('#rulla');
+  const alku = performance.now();
+  const NYKAISY = 160;                 // ms: rulla painuu hieman taaksepäin ennen lähtöä
+  const YLITYS = 0.06;                 // askelta: pysähtyy hieman yli ja palaa (jousto)
+  const matka = loppu - 1;
+  let edellinenKortti = 1, edellinenNaksu = 0, edellinenKohta = 1;
 
-  // Jokainen läppä kulkee aakkosjärjestyksessä 5–16 askelta kohti oikeaa merkkiä,
-  // viiveellä vasemmalta oikealle ja ylhäältä alas (kuin oikea lähtötaulu)
-  const N = TAULU_MERKIT.length;
-  const nyt = performance.now();
-  const sarakkeet = Arvonta.sarakkeet;
-  const tehtavat = lapput.map((l, i) => {
-    const m = l.firstChild;
-    const kohde = kohteet[i];
-    if (kohde === ' ' && m.textContent === ' ') return null;
-    const askeleet = 5 + Math.floor(Math.random() * 12);
-    const loppu = TAULU_MERKIT.indexOf(kohde);
-    const sarja = Array.from({ length: askeleet }, (_, k) => TAULU_MERKIT[(loppu - askeleet + 1 + k + N * 2) % N]);
-    const rivi = Math.floor(i / sarakkeet), sarake = i % sarakkeet;
-    return { l, m, sarja, k: 0, seuraava: nyt + rivi * 70 + sarake * 22 + Math.random() * 40 };
-  }).filter(Boolean);
-
-  let edellinenNaksu = 0;
   const kehys = t => {
-    let kaantyi = 0, kesken = false;
-    for (const tt of tehtavat) {
-      if (tt.k >= tt.sarja.length) continue;
-      kesken = true;
-      if (t < tt.seuraava) continue;
-      tt.m.textContent = tt.sarja[tt.k++];
-      tt.l.dataset.k = tt.l.dataset.k === 'a' ? 'b' : 'a';  // vaihtuva nimi käynnistää animaation uudelleen
-      tt.seuraava = t + 48 + Math.random() * 22;
-      kaantyi++;
+    const kulunut = t - alku;
+    let kohta;
+    if (kulunut < NYKAISY) {
+      const p = kulunut / NYKAISY;
+      kohta = 1 - 0.08 * Math.sin(p * Math.PI);           // pieni nykäisy taaksepäin
+    } else if (kulunut < NYKAISY + RULLA_KESTO) {
+      const p = (kulunut - NYKAISY) / RULLA_KESTO;
+      const hidastuva = 1 - Math.pow(1 - p, 4);             // easeOutQuart: täysi vauhti → pysähdys
+      kohta = 1 + (matka + YLITYS) * hidastuva;
+    } else {
+      const p = Math.min(1, (kulunut - NYKAISY - RULLA_KESTO) / 320);
+      kohta = loppu + YLITYS * (1 - (1 - Math.pow(1 - p, 3)));   // jousto takaisin kohdalleen
     }
-    if (kaantyi && Arvonta.aani && t - edellinenNaksu > 30) { naksu(Math.min(1, kaantyi / 10)); edellinenNaksu = t; }
-    if (kesken) { Arvonta.kehys = requestAnimationFrame(kehys); return; }
+    asetaRullanKohta(kohta);
+    // Liike-epäterävyys nopeuden mukaan (vain rullan ikkunan kokoinen kerros)
+    const nopeus = Math.abs(kohta - edellinenKohta) * rullanAskel();
+    rulla.style.setProperty('--sumennus', `${Math.min(4, nopeus * 0.045).toFixed(2)}px`);
+    edellinenKohta = kohta;
+    const kortti = Math.round(kohta);
+    if (kortti !== edellinenKortti) {
+      edellinenKortti = kortti;
+      if (Arvonta.aani && t - edellinenNaksu > 28) { naksu(0.6); edellinenNaksu = t; }
+    }
+    if (kulunut < NYKAISY + RULLA_KESTO + 320) { Arvonta.kehys = requestAnimationFrame(kehys); return; }
+    asetaRullanKohta(loppu);
+    rulla.style.setProperty('--sumennus', '0px');
     Arvonta.kaynnissa = false;
     document.body.classList.remove('arvonta-kaynnissa');
-    renderArvontaTiedot(rec);
+    if (Arvonta.aani) naksu(1);
+    rullaPysahtyi(kohde);
   };
   cancelAnimationFrame(Arvonta.kehys);
   Arvonta.kehys = requestAnimationFrame(kehys);
 }
 
-function renderArvontaTiedot(rec) {
+function rullaPysahtyi(rec) {
+  $('#rullaTeksti').textContent = `${rec.teos}. ${onTuntematon(rec.suosittelija) ? '' : rec.suosittelija + ' suosittelee.'}`;
   const tiedot = $('#arvontaTiedot');
-  const linkit = rakennaLinkit(rec);
-  const suosikki = Suosikit.onko(rec.id);
   tiedot.innerHTML = `
     <p class="arvonta-sittenkun">${escapeHtml(sittenKun(rec))}</p>
-    ${rec.kuvaus ? `<p class="arvonta-kuvaus">${escapeHtml(rec.kuvaus)}</p>` : ''}
     <div class="arvonta-toiminnot">
       <a class="nappi nappi-ensisijainen" href="${recUrl(rec)}" data-suositus="${rec.id}">Avaa suositus</a>
-      <button type="button" class="nappi nappi-toissijainen suosikki-iso" data-suosikki="${rec.id}" aria-pressed="${suosikki}">
-        ${ikoni('sydan')}<span>${suosikki ? 'Suosikeissa' : 'Tallenna suosikiksi'}</span></button>
-      ${linkit.map(l => linkkiHtml(l, 'rec-link rec-link-iso')).join('')}
+      <button type="button" class="nappi nappi-toissijainen" data-arvo>${ikoni('noppa')}Pyöräytä uudestaan</button>
     </div>`;
   requestAnimationFrame(() => tiedot.classList.add('nakyvissa'));
 }
@@ -2150,7 +2131,7 @@ function setupVipu() {
   };
   const laukaise = () => {
     aseta(matka(), true);
-    setTimeout(() => { aseta(0, true); arvoTaululle(); }, 220);
+    setTimeout(() => { aseta(0, true); pyoraytaRulla(); }, 220);
   };
 
   vipu.addEventListener('pointerdown', e => {
@@ -2169,7 +2150,7 @@ function setupVipu() {
     if (alku === null) return;
     alku = null;
     vipu.classList.remove('vedetaan');
-    if (siirto > matka() * 0.55) { aseta(0, true); arvoTaululle(); }
+    if (siirto > matka() * 0.55) { aseta(0, true); pyoraytaRulla(); }
     else if (siirto < 6) laukaise();          // napautus
     else aseta(0, true);                       // liian lyhyt veto: vipu palaa
   };
@@ -2181,7 +2162,7 @@ function setupVipu() {
   vipu.addEventListener('click', e => e.preventDefault());  // osoitin hoitaa, Enter keydownissa
 }
 
-// Läpän naksahdus: lyhyt suodatettu kohinapurske (Web Audio), luodaan vasta käyttäjän luvalla
+// Rullan naksahdus: lyhyt suodatettu kohinapurske (Web Audio), luodaan vasta käyttäjän luvalla
 let aaniKonteksti = null, kohina = null;
 function naksu(voima) {
   if (!aaniKonteksti) return;

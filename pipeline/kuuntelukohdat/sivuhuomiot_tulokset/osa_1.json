@@ -1,0 +1,338 @@
+[
+  {
+    "jakso_id": "6aac3b69-2cf9-4376-a755-53ee36496071",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "a608b163-5869-4a94-af18-9634820c65ee",
+    "tyyppi": "teos",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "7485f7b1-4d5d-40b5-95bd-0cb9247caa4e",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Don't Look Up",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 2 (r. 98–106, Tuija): \"myös asteroidi lähestyy maapalloa ... Bruce Willis haetaan miehineen tätä asteroidia halkaisemaan\" – vertauskuva ilmastokeskustelussa. Suositusosiossa Pihla (P3, r. 422–431) suosittelee vain juustonaksujäätelöä; Don't Look Upia ei mainita nimeltä missään.",
+    "uusi_data": {},
+    "suositus": "poista",
+    "varmuus": "varma",
+    "perustelu": "Don't Look Up ei ole suositus: kyse on ilmastokeskustelun vertauskuvasta (kuvaus muistuttaa enemmän Armageddonia), ja Pihlan ainoa suositus on jäätelö."
+  },
+  {
+    "jakso_id": "7485f7b1-4d5d-40b5-95bd-0cb9247caa4e",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 2,
+    "teos": "Maniac",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 2 (r. 432–447, Tuija; John kysyy \"Mitäs Tuija?\" r. 431): \"Gileläisen Benumin labatuutin toinen romaani kuin Mein ... tekoälyn kehittämisestä ... kone voitti ihmisen shakissa\" = Benjamín Labatut, MANIAC.",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Maniac löytyy suositusosiosta (Deepgram kuuli nimen muodossa \"Mein\"), ja suosittelija Tuija Siltamäki on oikein – suositus pidetään."
+  },
+  {
+    "jakso_id": "d3fc6922-8831-473c-b339-60b0f367521f",
+    "tyyppi": "teos",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "fd965dcd-d330-4c79-b74e-36fddc32c731",
+    "tyyppi": "teos",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "63e724c9-43cc-42ce-824c-6c5a41358027",
+    "tyyppi": "teos",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1258577011",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "We Own This City",
+    "vanha": "Marko Junkkari",
+    "uusi": "Tuomas Peltomäki",
+    "peruste": "Puhuja 0 (r. 421–423): \"Haluan suositella asiaa, mitä en ole nähnyt, mutta David Simonilta on tullut uusi sarja HBO:lle. We own this City\", jatkuu samassa vuorossa \"Mutta mun varsinainen suositus on ... Krypto ilende\" (Tuomaksen Crypto Island). P0 esittäytyy Tuomas Peltomäeksi (r. 23 ja 457).",
+    "uusi_data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "David Simonin uusi HBO-sarja. Tuomas mainitsee sen ohimennen The Wiren tekijän uutena teoksena, mutta ei ole itse vielä nähnyt sitä."
+    },
+    "suositus": "hyvaksy",
+    "varmuus": "varma",
+    "perustelu": "Sama puhuja (Tuomas) siirtyy suoraan We Own This Citystä varsinaiseen suositukseensa Crypto Islandiin; Marko ei puhu tässä kohdassa."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1229810752",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1229810752",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1221748702",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1221748702",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1195826071",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1129673461",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Rakkautta autismin kirjolla",
+    "vanha": "Alma Onali",
+    "uusi": "Tuomas Peltomäki",
+    "peruste": "Puhuja 0 esittäytyy jakson alussa: \"Minun nimeni on Alma Onali\" (r. 5) ja juontaa koko jakson; P0 (r. 384–407): \"Mä haluan suositella Netflixistä ... Rakkautta autismin kirjolla\", ja kiittää lopuksi Emil Eloa ja Marko Junkkaria (r. 417). Tuomas ei ole jaksossa.",
+    "uusi_data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Australialainen Netflix-deittisarja, jossa autismin kirjolla olevat ihmiset etsivät rakkautta. Sarja tuo esiin länsimaisen kulttuurin harhakäsityksiä rakkaudesta ja antaa autismin kirjolla oleville ihmisille mahdollisuuden representoida itseään omalla äänellään."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Alma Onali on jakson juontaja ja suosittelee sarjan itse; sivuhuomio luki loppukiitokset väärin – nykyinen merkintä on oikein."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/659507876",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/723065566",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Pokémon GO",
+    "vanha": "Tuija Siltamäki",
+    "uusi": "Tuomas Peltomäki",
+    "peruste": "Tuomas (P0) esittelee \"Tuija ole hyvä\" (r. 56) → P2: \"Kiitos Tuomas\" (r. 57), eli P2 = Tuija. P2 (r. 380–394): \"minä osasin uudestaan Go:n ... sitä voin suositella kaikille. Minä olen jollain levelillä kaksikymmentä\" ja päättää jakson \"kiva varmaan Tuomas lähteä ... vetämään tähän\" (r. 409). Tuomas puhuu vain intro- ja mainososuuksissa.",
+    "uusi_data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas suositteli Pokémon GO -mobiilipeliä, jonka hän oli ottanut uudelleen käyttöön. Hän kehui peliä erityisesti raitiovaunussa pelaamiseen, koska vauhti on sopivan hidas."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Pokémon GO:n suosittelee Tuija (P2), joka myös luovuttaa lopuksi vuoron Tuomakselle; nykyinen merkintä on oikein."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/748183261",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/748183261",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/748183261",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Yle Areena – musiikkidokumentit",
+    "vanha": "Marko Junkkari",
+    "uusi": "Maria Manner",
+    "peruste": "P1 = Maria (\"Hei Maria. Hei, Tuomas ja Marko\", r. 22), P2 = Marko (vastaa Tuomaksen \"Marko, haluatko\" -kysymykseen \"Kiitos Tuomas...\", r. 90–94). P2 (r. 272–288): \"Siellä on valtavasti musiikkidokumentteja ... John Zetistä ... Me tarvitsemme katsoa Yle Areen\"; P1 kommentoi heti perään \"löytävät tietysti sinne Markon suosituksesta\" (r. 294) ja aloittaa sitten oman Fatwa-suosituksensa (r. 296).",
+    "uusi_data": {
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Yle Areenalla on laaja valikoima musiikkidokumentteja. Maria suosittelee erityisesti dokumenttia Joan Jettistä, joka kertoo hänen uransa vaiheista levy-yhtiöiden sortamana artistina ja feministisenä ikonina."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Yle Areenan musiikkidokumentit (Joan Jett) suosittelee Marko – Maria viittaa siihen kolmannessa persoonassa \"Markon suosituksena\"; nykyinen merkintä on oikein. (Fatwa on Marian, ks. erillinen ehdotus.)"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/810491629",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "teos": "Mitch McConnell -henkilökuva (artikkeli)",
+    "vanha": "Marko Junkkari",
+    "uusi": "Paavo Teittinen",
+    "peruste": "P3 = Paavo (\"minä olen Paavo Teittinen\", r. 18). Paavo kysyy \"Marko, mitä sulla on tarjolla?\" (r. 254) → P4 (r. 258–330): \"Aivan mahtava henkilökuva tästä Senaatin ... Mitch McGONella\". Paavo kiittää lopuksi \"Hyvä, kiitos, pitää lukea\" ja kysyy Sohvilta (r. 340).",
+    "uusi_data": {
+      "suosittelija": "Paavo Teittinen",
+      "kuvaus": "Pitkä henkilökuva Mitch McConnellista, joka paljastaa hänen häikäilemättömän poliittisen uransa ja täydellisen vallanhalunsa ilman aatteellisia periaatteita."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "McConnell-henkilökuvan suosittelee Marko vastauksena Paavon kysymykseen; nykyinen merkintä on oikein."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/810491629",
+    "tyyppi": "suosittelija",
+    "r_idx": 2,
+    "teos": "The Last Dance",
+    "vanha": "Paavo Teittinen",
+    "uusi": "Marko Junkkari",
+    "peruste": "P3 = Paavo (itse-esittely r. 18, juontaa ja kiittää lopuksi \"Kiitos sohvi\", r. 421–424). P3 (r. 386–415): \"Minä suosittelisin ... tätä Netflix uutta Chicague bulls ... Michael Chordan dokkari sarjaa The Lanz Dancea ... minuahan ei siis hirveästi kiinnosta koripallo\".",
+    "uusi_data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Netflixin dokumenttisarja Chicago Bullsin ja Michael Jordanin mestaruuskaudesta. Sopii myös niille, joita koripallo ei erityisesti kiinnosta – teos avaa huippu-urheilijan psykologiaa kiehtovasti."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "The Last Dancen suosittelee juontaja Paavo Teittinen itse; suositukset eivät ole ristissä, nykyinen merkintä on oikein."
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/842321587",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/879031654",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/879031654",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/846655741",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/846655741",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/875111908",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "75cf93b8-7cc2-4924-b87c-4b6fff94e75e",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Minä, Daniel Blake",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Tuomas kysyy \"Sohvi, kun viikonloppuna lähdet ... niin mistä ajattelit kertoa\" (r. 284–287) → P2 (r. 288–330): \"kävin viime viikolla katsomassa tämän kannessa [Cannesissa] voittaneen brittielokuvan Ai Daniel Black ... Hyvä elokuva.\"",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Elokuva mainitaan litteroinnissa (Deepgram kuuli \"Ai Daniel Black\"), ja Anna-Sofia suosittelee sen; suositus ja suosittelija ovat oikein."
+  },
+  {
+    "jakso_id": "29d1560d-6e92-4174-a4c0-838f8dc69bb5",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "teos": "Suomi (näytelmä, Kansallisteatteri)",
+    "vanha": "Anna-Sofia Berner",
+    "uusi": "Marko Junkkari",
+    "peruste": "P2 = Marko: vastaa kahdesti kun häneltä kysytään nimellä (\"Marko.\" r. 67 → P2 r. 68; \"Haluaisin Marko kysyä\" r. 199 → P2 r. 201) ja kertoo sauvakävelystä (r. 327–345). Juha Jokelan Suomi-näytelmän (r. 397–403: \"minua kiinnostaa ... Juha Jokelan näytelmä Suomi Kansallisteatterissa\") sanoo P1, joka vastaa lopuksi \"Kiitoksia Sohvi\" -kiitokseen \"Kiitos\" (r. 411–412).",
+    "uusi_data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Juha Jokelan näytelmä Kansallisteatterissa, joka käsittelee Venäjä-teemoja. Marko Junkkari harkitsee menevänsä katsomaan sitä vapauttavana kokemuksena."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "epävarma",
+    "perustelu": "Näytelmän mainitsija on eri puhuja kuin Marko (P2), joten Anna-Sofia on todennäköisimmin oikein; P1:n vuoroihin on kuitenkin sekoittunut myös juontajan repliikkejä, joten äänestä varmistaminen ei ole pahitteeksi."
+  },
+  {
+    "jakso_id": "a436f8d0-fea7-4148-a8a3-91f4d863809b",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "a436f8d0-fea7-4148-a8a3-91f4d863809b",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "a436f8d0-fea7-4148-a8a3-91f4d863809b",
+    "tyyppi": "suosittelija",
+    "r_idx": 3,
+    "teos": "Gilmoren tytöt: Vuosi elämässä",
+    "vanha": "Anna-Sofia Berner",
+    "uusi": "Tuomas Peltomäki",
+    "peruste": "P1 = Anna-Sofia (Helvalin taulu, \"valmistuin ... maisteriksi\", \"olin Kiinassa\", luovuttaa vuoron \"Marko.\" r. 314). P1 (r. 401–403): \"minäkin kyllä perjantaina tajusin että puhun Gilmoren tyttöjen uusista jaksoista, että tulee perjantaina Netflix, vuosien jälkeen\"; Tuomas (P0) vain kommentoi faneista.",
+    "uusi_data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Netflixiin tuleva Gilmoren tyttöjen jatko-osa, josta fanit ovat olleet innoissaan puoli vuotta. Tuomas mainitsee uusien jaksojen ilmestyvän perjantaina."
+    },
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Gilmoren tytöt -maininta on Anna-Sofian (P1); nykyinen merkintä on oikein. Helvalin näyttelyn ja Narcosin suosittelijamuutokset ovat jo olemassa olevina ehdotuksina."
+  },
+  {
+    "jakso_id": "7c74177b-0f82-4369-9ac9-4ddce3539e7d",
+    "tyyppi": "ylimaarainen",
+    "r_idx": 0,
+    "teos": "Westworld",
+    "vanha": null,
+    "uusi": null,
+    "peruste": "Puhuja 0 (Tuomas, itse-esittely r. 3 ja 480; r. 352–396): \"haluan Markon kanssa keskustella ... mikä mua innottaa nyt suuresti ... on HBO:n uusi laatusarja West World ... todella mielenkiintoinen\"; Marko (P2) vain toppuuttelee (r. 398–407).",
+    "uusi_data": {},
+    "suositus": "hylkaa",
+    "varmuus": "varma",
+    "perustelu": "Westworld on Tuomaksen pitkä, innostunut suositus eikä Markon sivukommentti; suositus ja suosittelija ovat oikein."
+  },
+  {
+    "jakso_id": "8a66178d-1bca-4f7e-80b4-e5fad715f708",
+    "tyyppi": "teos",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1010448784",
+    "tyyppi": "suosittelija",
+    "r_idx": 0,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1010448784",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/936479926",
+    "tyyppi": "suosittelija",
+    "r_idx": 1,
+    "jo_olemassa": true
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/936479926",
+    "tyyppi": "puuttuu",
+    "r_idx": null,
+    "jo_olemassa": true
+  }
+]

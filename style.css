@@ -3343,7 +3343,7 @@ a.henkilo:hover .henkilo-nimi {
   color: var(--teksti-himmea);
 }
 
-/* ===== ARVONTA: lähtötaulu ja vipu ===== */
+/* ===== ARVONTA: hedelmäpelin rulla ja vipu ===== */
 .arvonta {
   padding-top: 64px;
 }
@@ -3388,96 +3388,119 @@ a.henkilo:hover .henkilo-nimi {
 
 .arvonta-alue {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 640px) auto;
+  justify-content: center;
   gap: 28px;
   margin-top: 40px;
 }
 
-/* Taulu on aina tumma esine (myös vaaleassa teemassa), kuten oikea lähtötaulu */
-.taulu-kehys {
-  padding: 30px 30px 32px;
-  border-radius: 28px;
-  background: #0b0b0b;
-  border: 1px solid rgba(255, 255, 255, 0.06);
-}
-
-.taulu {
-  container-type: inline-size;
-  display: grid;
-  gap: 20px;
-}
-
-.taulu-ryhma {
-  display: grid;
-  gap: 4px;
-}
-
-.taulu-nimi {
-  margin-bottom: 4px;
-  font-family: var(--fontti-koodi);
-  font-size: 11px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: #3bdaa5;
-}
-
-.taulu-rivi {
-  display: grid;
-  grid-template-columns: repeat(var(--sarakkeet, 20), minmax(0, 1fr));
-  gap: 4px;
-}
-
-.lappu {
+/* Automaatti: pehmeä kehys, jonka ikkunassa pyörii yksi korttirulla. Keskimmäinen kortti on
+   "voittorivi" (vihreät merkit reunoilla), ylä- ja alapuolelta näkyy pala naapureista. */
+.automaatti {
   position: relative;
-  display: grid;
-  place-items: center;
-  aspect-ratio: 0.74;
+  padding: 18px;
+  border-radius: 32px;
+  background: var(--bg-tagi);
+}
+
+.rulla {
+  --kortti-k: 300px;
+  --rako: 14px;
+  --kurkistus: 64px;
+  --sumennus: 0px;
+  position: relative;
+  height: calc(var(--kortti-k) + 2 * var(--kurkistus) + 2 * var(--rako));
   overflow: hidden;
-  border-radius: 5px;
-  background: linear-gradient(#222 0 50%, #1b1b1b 50%);
-  color: #f2f2ea;
-  font-family: var(--fontti-koodi);
-  font-size: calc(100cqi / var(--sarakkeet, 20) * 0.6);
-  font-weight: 500;
-  line-height: 1;
+  border-radius: 22px;
+  -webkit-mask-image: linear-gradient(transparent, #000 24%, #000 76%, transparent);
+  mask-image: linear-gradient(transparent, #000 24%, #000 76%, transparent);
 }
 
-/* Läpän sauma */
-.lappu::before {
+/* Liike-epäterävyys pyörimisen aikana (nopeuden mukaan, app.js) */
+.rulla::after {
   content: '';
   position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
+  inset: 0;
   z-index: 2;
-  height: 1px;
-  background: rgba(0, 0, 0, 0.7);
+  pointer-events: none;
+  -webkit-backdrop-filter: blur(var(--sumennus));
+  backdrop-filter: blur(var(--sumennus));
 }
 
-/* Putoava yläläppä: kaksi samanlaista animaatiota vuorotellen (app.js data-k),
-   jotta jokainen askel käynnistää animaation uudelleen */
-.lappu::after {
-  content: '';
+.rulla-nauha {
   position: absolute;
   left: 0;
   right: 0;
-  top: 0;
-  z-index: 1;
-  height: 50%;
-  background: linear-gradient(rgba(255, 255, 255, 0.08), rgba(0, 0, 0, 0.45));
-  transform: scaleY(0);
-  transform-origin: bottom;
+  top: calc(var(--kurkistus) + var(--rako));
+  display: flex;
+  flex-direction: column;
+  gap: var(--rako);
+  will-change: transform;
 }
 
-.lappu[data-k="a"]::after { animation: lapsahdus-a 90ms ease-in; }
-.lappu[data-k="b"]::after { animation: lapsahdus-b 90ms ease-in; }
-.lappu[data-k="a"] .lappu-m { animation: merkki-a 90ms ease-out; }
-.lappu[data-k="b"] .lappu-m { animation: merkki-b 90ms ease-out; }
+.arvonta-kaynnissa .rulla-nauha {
+  pointer-events: none;
+}
 
-@keyframes lapsahdus-a { from { transform: scaleY(1); } }
-@keyframes lapsahdus-b { from { transform: scaleY(1); } }
-@keyframes merkki-a { from { transform: translateY(-10%); opacity: 0.55; } }
-@keyframes merkki-b { from { transform: translateY(-10%); opacity: 0.55; } }
+.rulla-kortti {
+  height: var(--kortti-k);
+  flex-shrink: 0;
+}
+
+/* Rullan kortit ovat tasakorkeita: otsikko ja kuvaus katkaistaan riveihin */
+.rulla-kortti .rec-card {
+  height: 100%;
+  overflow: hidden;
+  background: var(--bg-kortti);
+}
+
+.rulla-kortti .rec-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.rulla-kortti .rec-desc {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+
+.rulla-kortti .rec-footer {
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rulla-kortti .rec-links {
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+
+/* Voittorivin merkit: vihreät kolmiot keskimmäisen kortin kohdalla */
+.rulla-osoitin {
+  position: absolute;
+  top: 50%;
+  z-index: 3;
+  width: 0;
+  height: 0;
+  border-top: 9px solid transparent;
+  border-bottom: 9px solid transparent;
+  transform: translateY(-50%);
+}
+
+.rulla-osoitin-vasen {
+  left: 4px;
+  border-left: 10px solid var(--vari);
+}
+
+.rulla-osoitin-oikea {
+  right: 4px;
+  border-right: 10px solid var(--vari);
+}
 
 /* Vipu */
 .vipu-alue {
@@ -3576,8 +3599,8 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .arvonta-tiedot {
-  max-width: 760px;
-  margin-top: 36px;
+  max-width: 640px;
+  margin: 28px auto 0;
   opacity: 0;
   transform: translateY(10px);
   transition: opacity 0.45s ease, transform 0.45s var(--ulos-ease);
@@ -3973,21 +3996,16 @@ a.henkilo:hover .henkilo-nimi {
     margin-top: 28px;
   }
 
-  .taulu-kehys {
-    padding: 18px 16px 20px;
-    border-radius: 22px;
+  .automaatti {
+    padding: 12px;
+    border-radius: 26px;
   }
 
-  .taulu {
-    gap: 14px;
-  }
-
-  .taulu-rivi {
-    gap: 3px;
-  }
-
-  .lappu {
-    border-radius: 3px;
+  .rulla {
+    --kortti-k: 330px;
+    --rako: 10px;
+    --kurkistus: 40px;
+    border-radius: 18px;
   }
 
   .vipu-alue {
