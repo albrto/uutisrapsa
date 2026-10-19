@@ -3611,14 +3611,21 @@ a.henkilo:hover .henkilo-nimi {
 .arvonta-tiedot {
   max-width: 640px;
   margin: 28px auto 0;
-  opacity: 0;
-  transform: translateY(10px);
-  transition: opacity 0.45s ease, transform 0.45s var(--ulos-ease);
 }
 
-.arvonta-tiedot.nakyvissa {
-  opacity: 1;
-  transform: none;
+.arvonta-sittenkun {
+  transition: opacity 0.35s ease;
+}
+
+.arvonta-tiedot.pyorii .arvonta-sittenkun {
+  opacity: 0.3;
+}
+
+/* Avaa suositus pois käytöstä rullan pyöriessä */
+.nappi[aria-disabled="true"] {
+  opacity: 0.35;
+  pointer-events: none;
+  cursor: default;
 }
 
 .arvonta-sittenkun {

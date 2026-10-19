@@ -1961,35 +1961,37 @@ function arvoSuositus() {
 
 const RULLA_KORTTEJA = 28;   // kortteja yhdellä pyöräytyksellä (toiseksi viimeinen = arvottu)
 const RULLA_KESTO = 3800;    // ms, nykäisystä pysähdykseen
-const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, kehys: null, aani: false, nauha: [], kohta: 0, rajaus: '' };
+const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, kehys: null, aani: false, nauha: [], kohta: 0, rajaus: [] };
 try {
   Arvonta.aani = localStorage.getItem('arvontaAani') === '1';
-  Arvonta.rajaus = localStorage.getItem('arvontaRajaus') || '';
+  const tallessa = localStorage.getItem('arvontaRajaus');
+  if (tallessa) {
+    // Aiempi muoto oli yksi merkkijono ("kirja" tai "tv-sarja+elokuva")
+    Arvonta.rajaus = tallessa.startsWith('[') ? JSON.parse(tallessa) : tallessa.split('+');
+  }
 } catch (e) {}
 
-// Genrerajaus: kaikki, yksi pääkategoria tai poikkeuksena yhdistelmä "tv-sarja + elokuva"
-const ARVONTA_YHDISTELMA = 'tv-sarja+elokuva';
-const arvontaKategoriat = () => (Arvonta.rajaus === ARVONTA_YHDISTELMA ? ['tv-sarja', 'elokuva'] : [Arvonta.rajaus]);
+// Genrerajaus toimii kuin valintaruudut: mikä tahansa yhdistelmä pääkategorioita, tai
+// tyhjä = kaikki. Valinta vaikuttaa seuraavaan vetoon (ei pyöräytä itse).
 function arvontaPohja() {
-  if (!Arvonta.rajaus) return allRecs;
-  const k = arvontaKategoriat();
-  const pohja = allRecs.filter(r => k.includes(r.paakategoria));
+  if (!Arvonta.rajaus.length) return allRecs;
+  const pohja = allRecs.filter(r => Arvonta.rajaus.includes(r.paakategoria));
   return pohja.length ? pohja : allRecs;
 }
 
 function renderArvontaRajaus() {
   const maarat = {};
   for (const r of allRecs) maarat[r.paakategoria] = (maarat[r.paakategoria] || 0) + 1;
-  const chippi = (arvo, nimi, n) => `<button type="button" class="chippi" data-arvontarajaus="${arvo}"
-    aria-pressed="${Arvonta.rajaus === arvo}">${escapeHtml(nimi)}<span class="chippi-maara">${luku(n)}</span></button>`;
-  // Yksittäiset genret samassa järjestyksessä kuin etusivun chipeissä; vain ne, joissa on
-  // tarpeeksi suosituksia, jotta rulla ei toista samoja kortteja
+  const chippi = (arvo, nimi, n, paalla) => `<button type="button" class="chippi" data-arvontarajaus="${arvo}"
+    aria-pressed="${paalla}">${escapeHtml(nimi)}<span class="chippi-maara">${luku(n)}</span></button>`;
+  // Genret suosituimmasta alkaen; vain ne, joissa on tarpeeksi suosituksia, jotta rulla ei
+  // toista samoja kortteja ("muu" jätetään pois)
   const genret = Object.keys(KATEGORIAT).filter(k => k !== 'muu' && (maarat[k] || 0) >= 15)
     .sort((a, b) => maarat[b] - maarat[a]);
+  Arvonta.rajaus = Arvonta.rajaus.filter(k => genret.includes(k));
   $('#arvontaRajaus').innerHTML =
-    chippi('', 'Kaikki', allRecs.length) +
-    chippi(ARVONTA_YHDISTELMA, 'TV-sarjat + elokuvat', (maarat['tv-sarja'] || 0) + (maarat.elokuva || 0)) +
-    genret.map(k => chippi(k, KATEGORIAT[k].monikko, maarat[k])).join('');
+    chippi('', 'Kaikki', allRecs.length, !Arvonta.rajaus.length) +
+    genret.map(k => chippi(k, KATEGORIAT[k].monikko, maarat[k], Arvonta.rajaus.includes(k))).join('');
 }
 
 function renderArvonta() {
@@ -2025,16 +2027,25 @@ function renderArvonta() {
       <div class="arvonta-tiedot" id="arvontaTiedot"></div>`;
     setupVipu();
     $('#arvontaAani').addEventListener('click', vaihdaArvontaAani);
-    // Genren vaihto pyöräyttää heti, jotta valinta näkyy rullassa
+    // Genret: "Kaikki" tyhjentää valinnan, muut kytkeytyvät päälle/pois (valinta koskee
+    // seuraavaa vetoa)
     $('#arvontaRajaus').addEventListener('click', e => {
       const b = e.target.closest('[data-arvontarajaus]');
-      if (!b || Arvonta.kaynnissa) return;
-      Arvonta.rajaus = b.dataset.arvontarajaus;
-      try { localStorage.setItem('arvontaRajaus', Arvonta.rajaus); } catch (e2) {}
+      if (!b) return;
+      const k = b.dataset.arvontarajaus;
+      if (!k) Arvonta.rajaus = [];
+      else if (Arvonta.rajaus.includes(k)) Arvonta.rajaus = Arvonta.rajaus.filter(x => x !== k);
+      else Arvonta.rajaus = [...Arvonta.rajaus, k];
+      try { localStorage.setItem('arvontaRajaus', JSON.stringify(Arvonta.rajaus)); } catch (e2) {}
       renderArvontaRajaus();
-      pyoraytaRulla();
     });
     renderArvontaRajaus();
+    // Tiedot pysyvät paikallaan; Avaa suositus on pois käytöstä rullan pyöriessä
+    $('#arvontaTiedot').innerHTML = `
+      <p class="arvonta-sittenkun" id="arvontaSittenKun">&nbsp;</p>
+      <div class="arvonta-toiminnot">
+        <a class="nappi nappi-ensisijainen" id="arvontaAvaa" href="/" aria-disabled="true" tabindex="-1">Avaa suositus</a>
+      </div>`;
     new ResizeObserver(() => asetaRullanKohta(Arvonta.kohta)).observe($('#rulla'));
   }
   if (!Arvonta.rec) {
@@ -2091,7 +2102,7 @@ function pyoraytaRulla() {
   const loppu = recs.length - 2;
   Arvonta.rec = kohde;
 
-  $('#arvontaTiedot').classList.remove('nakyvissa');
+  paivitaArvontaTiedot(null);
   $('#rullaTeksti').textContent = '';
   if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
     asetaRullanKohta(loppu);
@@ -2146,13 +2157,26 @@ function pyoraytaRulla() {
 
 function rullaPysahtyi(rec) {
   $('#rullaTeksti').textContent = `${rec.teos}. ${onTuntematon(rec.suosittelija) ? '' : rec.suosittelija + ' suosittelee.'}`;
-  const tiedot = $('#arvontaTiedot');
-  tiedot.innerHTML = `
-    <p class="arvonta-sittenkun">${escapeHtml(sittenKun(rec))}</p>
-    <div class="arvonta-toiminnot">
-      <a class="nappi nappi-ensisijainen" href="${recUrl(rec)}" data-suositus="${rec.id}">Avaa suositus</a>
-    </div>`;
-  requestAnimationFrame(() => tiedot.classList.add('nakyvissa'));
+  paivitaArvontaTiedot(rec);
+}
+
+// rec = pysähtynyt suositus, null = rulla pyörii (nappi pois käytöstä, lause himmenee)
+function paivitaArvontaTiedot(rec) {
+  const avaa = $('#arvontaAvaa');
+  const lause = $('#arvontaSittenKun');
+  if (!avaa) return;
+  $('#arvontaTiedot').classList.toggle('pyorii', !rec);
+  if (rec) {
+    avaa.href = recUrl(rec);
+    avaa.dataset.suositus = rec.id;
+    avaa.removeAttribute('aria-disabled');
+    avaa.removeAttribute('tabindex');
+    lause.textContent = sittenKun(rec);
+  } else {
+    delete avaa.dataset.suositus;
+    avaa.setAttribute('aria-disabled', 'true');
+    avaa.setAttribute('tabindex', '-1');
+  }
 }
 
 // Vipu: vedä alas (hiiri tai sormi) – yli 55 % matkasta laukaisee arvonnan; napautus
