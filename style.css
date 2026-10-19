@@ -45,6 +45,9 @@
   --vari-teksti: #3bdaa5;
   --vari-tausta: rgba(59, 218, 165, 0.16);
   --vari-paalla: #111111;
+  /* Vihreät pinnat, joiden päällä on tekstiä (valittu siru, ensisijainen nappi …):
+     tummassa hillitympi kuin --vari, vaaleassa sama */
+  --vari-pinta: oklch(0.64 0.13 165);
 
   /* Kategoriabadge */
   --badge-teksti: #858585;
@@ -146,6 +149,7 @@
     --vari-teksti: #086a4b;
     --vari-tausta: rgba(10, 125, 88, 0.14);
     --vari-paalla: #ffffff;
+    --vari-pinta: var(--vari);
 
     --badge-teksti: #696964;
     --badge-tausta: rgba(34, 34, 34, 0.06);
@@ -204,6 +208,7 @@
   --vari-teksti: #086a4b;
   --vari-tausta: rgba(10, 125, 88, 0.14);
   --vari-paalla: #ffffff;
+  --vari-pinta: var(--vari);
 
   --badge-teksti: #696964;
   --badge-tausta: rgba(34, 34, 34, 0.06);
@@ -269,7 +274,7 @@ body {
 }
 
 ::selection {
-  background: var(--vari);
+  background: var(--vari-pinta);
   color: var(--vari-paalla);
 }
 
@@ -987,13 +992,13 @@ button {
 }
 
 .nappi-ensisijainen {
-  background: var(--vari);
+  background: var(--vari-pinta);
   color: var(--vari-paalla);
 }
 
 .nappi-ensisijainen:hover {
   color: var(--vari-paalla);
-  background: color-mix(in oklab, var(--vari) 85%, var(--teksti-vahva));
+  background: color-mix(in oklab, var(--vari-pinta) 85%, var(--teksti-vahva));
 }
 
 .nappi-toissijainen {
@@ -1386,8 +1391,8 @@ button {
 }
 
 .palkki-valinta.valittu {
-  border-color: var(--vari);
-  background: var(--vari);
+  border-color: var(--vari-pinta);
+  background: var(--vari-pinta);
   color: var(--vari-paalla);
 }
 
@@ -1499,7 +1504,7 @@ button {
 }
 
 .chippi[aria-pressed="true"] {
-  background: var(--vari);
+  background: var(--vari-pinta);
   color: var(--vari-paalla);
 }
 
@@ -1526,7 +1531,8 @@ button {
 
 .chippi[aria-pressed="true"] .chippi-maara {
   color: inherit;
-  opacity: 0.7;
+  /* 0.9: hillityn --vari-pinnan (ja vaalean teeman vihreän) päällä 0.7 jäi alle 4.5:1 */
+  opacity: 0.9;
 }
 
 .kat-ikoni {
@@ -1585,7 +1591,7 @@ button {
 }
 
 .tyhjenna-rajaukset:hover {
-  background: var(--vari);
+  background: var(--vari-pinta);
   color: var(--vari-paalla);
 }
 
@@ -1944,8 +1950,8 @@ a.henkilo:hover {
 }
 
 .rec-link:hover {
-  background: var(--vari);
-  border-color: var(--vari);
+  background: var(--vari-pinta);
+  border-color: var(--vari-pinta);
   color: var(--vari-paalla);
 }
 
@@ -2712,7 +2718,7 @@ a.henkilo:hover .henkilo-nimi {
 
 .toisto-merkki:hover,
 .toisto-merkki[aria-pressed="true"] {
-  background: var(--vari);
+  background: var(--vari-pinta);
   color: var(--vari-paalla);
 }
 
@@ -3260,14 +3266,14 @@ a.henkilo:hover .henkilo-nimi {
   height: 52px;
   border: none;
   border-radius: 50%;
-  background: var(--vari);
+  background: var(--vari-pinta);
   color: var(--vari-paalla);
   cursor: pointer;
   transition: transform 0.12s ease, background-color var(--transition);
 }
 
 .soitin-toista:hover {
-  background: color-mix(in oklab, var(--vari) 85%, var(--teksti-vahva));
+  background: color-mix(in oklab, var(--vari-pinta) 85%, var(--teksti-vahva));
 }
 
 .soitin-toista:active {
