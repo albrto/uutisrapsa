@@ -4069,20 +4069,15 @@ a.henkilo:hover .henkilo-nimi {
   /* Yllätä minut puhelimessa: kaikki (genret, rulla, vipu, Avaa suositus) mahtuu yhdelle
      näytölle – otsikko ja ääninappi samalle riville, vipu rullan viereen kuten isolla näytöllä */
   .arvonta {
-    padding-top: 20px;
+    padding-top: 32px;
   }
 
+  /* Ääninappi otsikon oikealle puolelle (ingressi jatkuu otsikon alla) */
   .arvonta-otsake {
-    flex-wrap: nowrap;
-    align-items: center;
-  }
-
-  .arvonta-otsake .sivuotsake-otsikko {
-    font-size: 34px;
-  }
-
-  .arvonta-otsake .sivuotsake-meta {
-    display: none;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: start;
+    gap: 12px;
   }
 
   .arvonta-aani {
@@ -4127,8 +4122,10 @@ a.henkilo:hover .henkilo-nimi {
     border-radius: 22px;
   }
 
+  /* Kortin korkeus näytön korkeuden mukaan: muu sisältö vie ~430 px ja Safarin alapalkki
+     ~110 px, kortti saa loput (iso puhelin täyttyy, pieni pysyy matalana) */
   .rulla {
-    --kortti-k: 268px;
+    --kortti-k: clamp(260px, calc(100svh - 540px), 420px);
     --rako: 8px;
     --kurkistus: 20px;
     border-radius: 16px;

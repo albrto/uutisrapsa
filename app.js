@@ -2054,7 +2054,8 @@ function renderArvonta() {
       <div class="arvonta-toiminnot">
         <a class="nappi nappi-ensisijainen" id="arvontaAvaa" href="/" aria-disabled="true" tabindex="-1">Avaa suositus</a>
       </div>`;
-    new ResizeObserver(() => asetaRullanKohta(Arvonta.kohta)).observe($('#rulla'));
+    // Koon muuttuessa (kierto, ikkunan koko) askel mitataan uudelleen
+    new ResizeObserver(() => { Arvonta.askel = 0; asetaRullanKohta(Arvonta.kohta); }).observe($('#rulla'));
   }
   if (!Arvonta.nauha.length) {
     // Tyhjä tila: kehotus vetää vivusta haamukorttien keskellä (rulla ei pyöri itsestään)
@@ -2085,14 +2086,17 @@ function arvoRec(valtettavat = []) {
   return rec;
 }
 
-// Rullan mitat tulevat CSS:stä: kortin korkeus + väli = yksi askel
+// Rullan mitat tulevat CSS:stä: kortin korkeus + väli = yksi askel. Korkeus mitataan
+// kortista, koska puhelimessa se lasketaan näytön korkeudesta (clamp/svh)
 function rullanAskel() {
-  const r = getComputedStyle($('#rulla'));
-  return parseFloat(r.getPropertyValue('--kortti-k')) + parseFloat(r.getPropertyValue('--rako'));
+  const kortti = document.querySelector('#rullaNauha .rulla-kortti');
+  const rako = parseFloat(getComputedStyle($('#rulla')).getPropertyValue('--rako')) || 0;
+  return (kortti ? kortti.getBoundingClientRect().height : 300) + rako;
 }
 
 function piirraNauha(recs, kohta) {
   Arvonta.nauha = recs;
+  Arvonta.askel = 0;
   $('#rullaNauha').innerHTML = recs.map(r =>
     `<div class="rulla-kortti">${typeof r === 'string' ? RULLAN_PAIKKAMERKIT[r] : renderCard(r)}</div>`).join('');
   asetaRullanKohta(kohta);
@@ -2103,7 +2107,8 @@ function asetaRullanKohta(kohta) {
   Arvonta.kohta = kohta;
   const nauha = $('#rullaNauha');
   if (!nauha) return;
-  nauha.style.transform = `translate3d(0, ${(-kohta * rullanAskel()).toFixed(1)}px, 0)`;
+  if (!Arvonta.askel) Arvonta.askel = rullanAskel();
+  nauha.style.transform = `translate3d(0, ${(-kohta * Arvonta.askel).toFixed(1)}px, 0)`;
 }
 
 function pyoraytaRulla() {
@@ -2153,7 +2158,7 @@ function pyoraytaRulla() {
     }
     asetaRullanKohta(kohta);
     // Liike-epäterävyys nopeuden mukaan (vain rullan ikkunan kokoinen kerros)
-    const nopeus = Math.abs(kohta - edellinenKohta) * rullanAskel();
+    const nopeus = Math.abs(kohta - edellinenKohta) * Arvonta.askel;
     rulla.style.setProperty('--sumennus', `${Math.min(4, nopeus * 0.045).toFixed(2)}px`);
     edellinenKohta = kohta;
     const kortti = Math.round(kohta);
