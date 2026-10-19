@@ -792,7 +792,7 @@ function renderNakyma() {
 function paivitaOtsikko() {
   let otsikko = 'Uutisraportti suosittelee';
   if (tila.nakyma === 'suosittelijat') otsikko = 'Suosittelijat – Uutisraportti suosittelee';
-  else if (tila.nakyma === 'arvonta') otsikko = 'Arvonta – Uutisraportti suosittelee';
+  else if (tila.nakyma === 'arvonta') otsikko = 'Yllätä minut – Uutisraportti suosittelee';
   else if (tila.nakyma === 'tilastot') otsikko = `${tila.valilehti === 'ilmiot' ? 'Ilmiöt' : 'Top-listat'} – Uutisraportti suosittelee`;
   else if (tila.nakyma === 'suosikit') otsikko = 'Suosikit – Uutisraportti suosittelee';
   else if (tila.profiili) otsikko = `${tila.profiili} suosittelee – Uutisrapsa`;
@@ -1953,7 +1953,7 @@ function arvoSuositus() {
   else siirry('/arvonta');
 }
 
-// ---------- Arvonta (/arvonta): hedelmäpelin rulla ja vipu ----------
+// ---------- Yllätä minut (/arvonta): hedelmäpelin rulla ja vipu ----------
 // Vivun veto pyöräyttää yhden rullan, jonka "symbolit" ovat samoja suosituskortteja kuin
 // selausnäkymässä (renderCard). Rulla nykäisee liikkeelle, vilistää hetken täyttä vauhtia ja
 // hidastuu pysähtyen arvottuun suositukseen. Edellinen versio (lentokentän lähtötaulu) on
@@ -1961,8 +1961,36 @@ function arvoSuositus() {
 
 const RULLA_KORTTEJA = 28;   // kortteja yhdellä pyöräytyksellä (toiseksi viimeinen = arvottu)
 const RULLA_KESTO = 3800;    // ms, nykäisystä pysähdykseen
-const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, kehys: null, aani: false, nauha: [], kohta: 0 };
-try { Arvonta.aani = localStorage.getItem('arvontaAani') === '1'; } catch (e) {}
+const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, kehys: null, aani: false, nauha: [], kohta: 0, rajaus: '' };
+try {
+  Arvonta.aani = localStorage.getItem('arvontaAani') === '1';
+  Arvonta.rajaus = localStorage.getItem('arvontaRajaus') || '';
+} catch (e) {}
+
+// Genrerajaus: kaikki, yksi pääkategoria tai poikkeuksena yhdistelmä "tv-sarja + elokuva"
+const ARVONTA_YHDISTELMA = 'tv-sarja+elokuva';
+const arvontaKategoriat = () => (Arvonta.rajaus === ARVONTA_YHDISTELMA ? ['tv-sarja', 'elokuva'] : [Arvonta.rajaus]);
+function arvontaPohja() {
+  if (!Arvonta.rajaus) return allRecs;
+  const k = arvontaKategoriat();
+  const pohja = allRecs.filter(r => k.includes(r.paakategoria));
+  return pohja.length ? pohja : allRecs;
+}
+
+function renderArvontaRajaus() {
+  const maarat = {};
+  for (const r of allRecs) maarat[r.paakategoria] = (maarat[r.paakategoria] || 0) + 1;
+  const chippi = (arvo, nimi, n) => `<button type="button" class="chippi" data-arvontarajaus="${arvo}"
+    aria-pressed="${Arvonta.rajaus === arvo}">${escapeHtml(nimi)}<span class="chippi-maara">${luku(n)}</span></button>`;
+  // Yksittäiset genret samassa järjestyksessä kuin etusivun chipeissä; vain ne, joissa on
+  // tarpeeksi suosituksia, jotta rulla ei toista samoja kortteja
+  const genret = Object.keys(KATEGORIAT).filter(k => k !== 'muu' && (maarat[k] || 0) >= 15)
+    .sort((a, b) => maarat[b] - maarat[a]);
+  $('#arvontaRajaus').innerHTML =
+    chippi('', 'Kaikki', allRecs.length) +
+    chippi(ARVONTA_YHDISTELMA, 'TV-sarjat + elokuvat', (maarat['tv-sarja'] || 0) + (maarat.elokuva || 0)) +
+    genret.map(k => chippi(k, KATEGORIAT[k].monikko, maarat[k])).join('');
+}
 
 function renderArvonta() {
   const el = $('#arvonta');
@@ -1970,13 +1998,14 @@ function renderArvonta() {
     el.innerHTML = `
       <div class="arvonta-otsake">
         <div>
-          <h1 class="sivuotsake-otsikko">Arvonta</h1>
+          <h1 class="sivuotsake-otsikko">Yllätä minut</h1>
           <p class="sivuotsake-meta">Pitkä epämukava hiljaisuus? Vedä vivusta, niin rulla pyörähtää ja
-            pysähtyy yhteen ${luku(allRecs.length)} suosituksesta.</p>
+            pysähtyy yhteen suositukseen. Rajaa halutessasi genre.</p>
         </div>
         <button type="button" class="arvonta-aani" id="arvontaAani" aria-pressed="${Arvonta.aani}">
           ${ikoni('kaiutin')}<span>${Arvonta.aani ? 'Ääni päällä' : 'Ääni pois'}</span></button>
       </div>
+      <div class="arvonta-rajaus" id="arvontaRajaus" role="group" aria-label="Rajaa genre"></div>
       <div class="arvonta-alue">
         <div class="automaatti">
           <div class="rulla" id="rulla"><div class="rulla-nauha" id="rullaNauha"></div></div>
@@ -1996,6 +2025,16 @@ function renderArvonta() {
       <div class="arvonta-tiedot" id="arvontaTiedot"></div>`;
     setupVipu();
     $('#arvontaAani').addEventListener('click', vaihdaArvontaAani);
+    // Genren vaihto pyöräyttää heti, jotta valinta näkyy rullassa
+    $('#arvontaRajaus').addEventListener('click', e => {
+      const b = e.target.closest('[data-arvontarajaus]');
+      if (!b || Arvonta.kaynnissa) return;
+      Arvonta.rajaus = b.dataset.arvontarajaus;
+      try { localStorage.setItem('arvontaRajaus', Arvonta.rajaus); } catch (e2) {}
+      renderArvontaRajaus();
+      pyoraytaRulla();
+    });
+    renderArvontaRajaus();
     new ResizeObserver(() => asetaRullanKohta(Arvonta.kohta)).observe($('#rulla'));
   }
   if (!Arvonta.rec) {
@@ -2010,9 +2049,10 @@ function renderArvonta() {
 }
 
 function arvoRec(valtettavat = []) {
+  const pohja = arvontaPohja();
   let rec;
   for (let i = 0; i < 25; i++) {
-    rec = allRecs[Math.floor(Math.random() * allRecs.length)];
+    rec = pohja[Math.floor(Math.random() * pohja.length)];
     if (!Arvonta.viimeiset.includes(rec.id) && !valtettavat.includes(rec.id)) break;
   }
   return rec;
@@ -2111,7 +2151,6 @@ function rullaPysahtyi(rec) {
     <p class="arvonta-sittenkun">${escapeHtml(sittenKun(rec))}</p>
     <div class="arvonta-toiminnot">
       <a class="nappi nappi-ensisijainen" href="${recUrl(rec)}" data-suositus="${rec.id}">Avaa suositus</a>
-      <button type="button" class="nappi nappi-toissijainen" data-arvo>${ikoni('noppa')}Pyöräytä uudestaan</button>
     </div>`;
   requestAnimationFrame(() => tiedot.classList.add('nakyvissa'));
 }

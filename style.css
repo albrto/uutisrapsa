@@ -3386,12 +3386,22 @@ a.henkilo:hover .henkilo-nimi {
   color: var(--vari-teksti);
 }
 
+/* Genrerajaus automaatin yläpuolella */
+.arvonta-rajaus {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  max-width: 760px;
+  margin: 36px auto 0;
+}
+
 .arvonta-alue {
   display: grid;
   grid-template-columns: minmax(0, 640px) auto;
   justify-content: center;
   gap: 28px;
-  margin-top: 40px;
+  margin-top: 28px;
 }
 
 /* Automaatti: pehmeä kehys, jonka ikkunassa pyörii yksi korttirulla. Keskimmäinen kortti on
@@ -3994,6 +4004,20 @@ a.henkilo:hover .henkilo-nimi {
     grid-template-columns: minmax(0, 1fr);
     gap: 20px;
     margin-top: 28px;
+  }
+
+  /* Puhelimessa genret yhdellä vaakarullattavalla rivillä, kuten etusivun kategoriat */
+  .arvonta-rajaus {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    margin: 24px -16px 0;
+    padding: 0 16px 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .arvonta-rajaus::-webkit-scrollbar {
+    display: none;
   }
 
   .automaatti {
