@@ -2732,9 +2732,56 @@ function setupPerustoiminnot() {
   });
 }
 
+// Pikkujoululaskuri heron alla. Alkuhetki on arvio (Ravintola Töölö 2.12.2026, kellonaika
+// ei vielä tiedossa → klo 18 Suomen aikaa = 16 UTC), siksi otsakkeessa "noin*".
+// Yli vuorokausi jäljellä: päivät, tunnit ja minuutit; viimeinen vuorokausi sekunteineen
+// (juoksevat sekunnit veisivät viikkokausia liikaa huomiota). Juhlien aikana teksti vaihtuu,
+// ja PIKKUJOULUT_LOPPU jälkeen laskuri piiloutuu itsestään.
+const PIKKUJOULUT_ALKU = Date.UTC(2026, 11, 2, 16, 0);
+const PIKKUJOULUT_LOPPU = Date.UTC(2026, 11, 3, 4, 0);
+
+function pikkujoulujenTila(nyt) {
+  if (nyt >= PIKKUJOULUT_LOPPU) return null;
+  if (nyt >= PIKKUJOULUT_ALKU) return { kaynnissa: true };
+  const s = Math.floor((PIKKUJOULUT_ALKU - nyt) / 1000);
+  return { pv: Math.floor(s / 86400), h: Math.floor(s / 3600) % 24, min: Math.floor(s / 60) % 60, s: s % 60 };
+}
+
+function pikkujouluLaskurinHtml(t) {
+  const yks = (n, nimi) => `${n}<span class="yksikko">${nimi}</span>`;
+  if (t.pv >= 1) return yks(t.pv, 'pv') + yks(t.h, 'h') + yks(t.min, 'min');
+  const kaksi = n => String(n).padStart(2, '0');
+  return `${kaksi(t.h)}:${kaksi(t.min)}:${kaksi(t.s)}`;
+}
+
+function kaynnistaPikkujoululaskuri() {
+  const laatikko = $('#pikkujoululaskuri');
+  if (!laatikko) return;
+  const aika = $('#laskuriAika'), otsake = $('#laskuriOtsake');
+  let edellinen = '', ajastin = null;
+  const paivita = () => {
+    if (document.hidden) return;
+    const t = pikkujoulujenTila(Date.now());
+    if (!t) { laatikko.hidden = true; clearInterval(ajastin); return; }
+    if (t.kaynnissa) {
+      otsake.textContent = 'Uutisraportin pikkujoulut';
+      aika.textContent = 'ovat käynnissä!';
+      laatikko.hidden = false;
+      return;
+    }
+    const html = pikkujouluLaskurinHtml(t);
+    if (html !== edellinen) { aika.innerHTML = html; edellinen = html; }
+    laatikko.hidden = false;
+  };
+  paivita();
+  if (!laatikko.hidden) ajastin = setInterval(paivita, 1000);
+  document.addEventListener('visibilitychange', paivita);
+}
+
 // Käynnistys
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 setupTeemakytkin();
 setupPerustoiminnot();
+kaynnistaPikkujoululaskuri();
 setupFeedbackForm();
 init();

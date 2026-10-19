@@ -186,6 +186,14 @@
         <p class="hero-subtitle"><strong>Uutisraportti suosittelee</strong> – kaikki Helsingin Sanomien
           <a href="https://www.hs.fi/kuuntele/uutisraportti/">Uutisraportti-podcastin</a> kulttuuri- ja
           tekemissuositukset haettavana ja selattavana.<span class="hero-luvut" id="tervehdysLuvut"></span></p>
+        <!-- Pikkujoululaskuri (app.js kaynnistaPikkujoululaskuri): näkyy 3.12.2026 asti,
+             sitten piiloutuu itsestään. Kellonaika on arvio, siksi "noin*". -->
+        <div class="pikkujoululaskuri" id="pikkujoululaskuri" hidden>
+          <p class="laskuri-otsake" id="laskuriOtsake">Uutisraportin pikkujouluihin on noin<span aria-hidden="true">*</span></p>
+          <p class="laskuri-aika" id="laskuriAika" role="timer" aria-labelledby="laskuriOtsake laskuriAika"></p>
+          <p class="laskuri-huomautus"><span aria-hidden="true">*</span>Ravintola Töölö 2.12. Kellonaika tarkentuu,
+            ilmoittautumisohjeet tulevat seuraavassa jaksossa.</p>
+        </div>
         </div>
         <!-- Vuosirenkaat: koko arkisto yhtenä kuviona (app.js renderHeroKuvio) -->
         <div class="hero-kuvio" id="heroKuvio" aria-hidden="true"></div>
