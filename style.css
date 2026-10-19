@@ -4066,22 +4066,48 @@ a.henkilo:hover .henkilo-nimi {
     flex: 1 1 auto;
   }
 
+  /* Yllätä minut puhelimessa: kaikki (genret, rulla, vipu, Avaa suositus) mahtuu yhdelle
+     näytölle – otsikko ja ääninappi samalle riville, vipu rullan viereen kuten isolla näytöllä */
   .arvonta {
-    padding-top: 40px;
+    padding-top: 20px;
   }
 
-  .arvonta-alue {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 20px;
-    margin-top: 28px;
+  .arvonta-otsake {
+    flex-wrap: nowrap;
+    align-items: center;
   }
 
-  /* Puhelimessa genret yhdellä vaakarullattavalla rivillä, kuten etusivun kategoriat */
+  .arvonta-otsake .sivuotsake-otsikko {
+    font-size: 34px;
+  }
+
+  .arvonta-otsake .sivuotsake-meta {
+    display: none;
+  }
+
+  .arvonta-aani {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    justify-content: center;
+  }
+
+  .arvonta-aani span {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  /* Genret yhdellä vaakarullattavalla rivillä, kuten etusivun kategoriat */
   .arvonta-rajaus {
     flex-wrap: nowrap;
     justify-content: flex-start;
-    margin: 24px -16px 0;
-    padding: 0 16px 4px;
+    margin: 14px -16px 0;
+    padding: 0 16px 2px;
     overflow-x: auto;
     scrollbar-width: none;
   }
@@ -4090,36 +4116,80 @@ a.henkilo:hover .henkilo-nimi {
     display: none;
   }
 
+  .arvonta-alue {
+    grid-template-columns: minmax(0, 1fr) 46px;
+    gap: 10px;
+    margin-top: 14px;
+  }
+
   .automaatti {
-    padding: 12px;
-    border-radius: 26px;
+    padding: 8px;
+    border-radius: 22px;
   }
 
   .rulla {
-    --kortti-k: 330px;
-    --rako: 10px;
-    --kurkistus: 40px;
-    border-radius: 18px;
+    --kortti-k: 268px;
+    --rako: 8px;
+    --kurkistus: 20px;
+    border-radius: 16px;
   }
 
+  .rulla-kortti .rec-card {
+    padding: 16px 16px 18px;
+  }
+
+  .rulla-kortti .rec-top {
+    margin-bottom: 8px;
+  }
+
+  .rulla-kortti .rec-title {
+    font-size: 18px;
+  }
+
+  .rulla-kortti .rec-desc {
+    font-size: 14px;
+  }
+
+  .rulla-tyhja {
+    padding: 16px;
+  }
+
+  .rulla-tyhja-otsikko {
+    font-size: 20px;
+  }
+
+  .rulla-tyhja-teksti {
+    font-size: 14px;
+  }
+
+  .rulla-osoitin-vasen { left: 1px; }
+  .rulla-osoitin-oikea { right: 1px; }
+
   .vipu-alue {
-    flex-direction: row;
-    justify-content: center;
-    gap: 16px;
+    gap: 6px;
   }
 
   .vipu {
-    flex: none;
-    height: 170px;
+    width: 46px;
     min-height: 0;
   }
 
-  .arvonta-kuvaus {
-    font-size: 17px;
+  .vipu-ura {
+    width: 12px;
+  }
+
+  .vipu-nuppi {
+    width: 44px;
+    height: 44px;
+  }
+
+  .vipu-vihje {
+    font-size: 10px;
   }
 
   .arvonta-tiedot {
     grid-template-columns: minmax(0, 1fr);
+    margin-top: 12px;
   }
 }
 
