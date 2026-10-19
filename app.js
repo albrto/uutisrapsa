@@ -1967,7 +1967,7 @@ const RULLA_KORTTEJA = 28;   // kortteja yhdellä pyöräytyksellä (toiseksi vi
 const RULLA_KESTO = 3800;    // ms, nykäisystä pysähdykseen
 const Arvonta = { rec: null, viimeiset: [], kaynnissa: false, kehys: null, aani: false, nauha: [], kohta: 0, rajaus: [] };
 try {
-  Arvonta.aani = localStorage.getItem('arvontaAani') === '1';
+  Arvonta.aani = localStorage.getItem('arvontaAani') !== '0';  // oletuksena päällä
   const tallessa = localStorage.getItem('arvontaRajaus');
   if (tallessa) {
     // Aiempi muoto oli yksi merkkijono ("kirja" tai "tv-sarja+elokuva")
@@ -2051,22 +2051,29 @@ function renderArvonta() {
     renderArvontaRajaus();
     // Tiedot pysyvät paikallaan; Avaa suositus on pois käytöstä rullan pyöriessä
     $('#arvontaTiedot').innerHTML = `
-      <p class="arvonta-sittenkun" id="arvontaSittenKun">&nbsp;</p>
       <div class="arvonta-toiminnot">
         <a class="nappi nappi-ensisijainen" id="arvontaAvaa" href="/" aria-disabled="true" tabindex="-1">Avaa suositus</a>
       </div>`;
     new ResizeObserver(() => asetaRullanKohta(Arvonta.kohta)).observe($('#rulla'));
   }
-  if (!Arvonta.rec) {
-    // Ensimmäinen käynti: rullassa on valmiiksi kortti, ja se pyörähtää kerran itsestään
-    const alku = arvoRec();
-    piirraNauha([arvoRec(), alku, arvoRec()], 1);
-    Arvonta.rec = alku;
-    setTimeout(pyoraytaRulla, 350);
+  if (!Arvonta.nauha.length) {
+    // Tyhjä tila: kehotus vetää vivusta haamukorttien keskellä (rulla ei pyöri itsestään)
+    piirraNauha(['haamu', 'tyhja', 'haamu'], 1);
   } else {
     asetaRullanKohta(Arvonta.kohta);
   }
 }
+
+// Rullan paikkamerkit ennen ensimmäistä vetoa
+const RULLAN_PAIKKAMERKIT = {
+  tyhja: `
+    <div class="rulla-tyhja">
+      ${ikoni('noppa', 'rulla-tyhja-ikoni')}
+      <p class="rulla-tyhja-otsikko">Mitä tänään?</p>
+      <p class="rulla-tyhja-teksti">Vedä vivusta, niin rulla arpoo sinulle suosituksen arkistosta.</p>
+    </div>`,
+  haamu: '<div class="rulla-haamu" aria-hidden="true"><span></span><span></span><span></span></div>',
+};
 
 function arvoRec(valtettavat = []) {
   const pohja = arvontaPohja();
@@ -2086,7 +2093,8 @@ function rullanAskel() {
 
 function piirraNauha(recs, kohta) {
   Arvonta.nauha = recs;
-  $('#rullaNauha').innerHTML = recs.map(r => `<div class="rulla-kortti">${renderCard(r)}</div>`).join('');
+  $('#rullaNauha').innerHTML = recs.map(r =>
+    `<div class="rulla-kortti">${typeof r === 'string' ? RULLAN_PAIKKAMERKIT[r] : renderCard(r)}</div>`).join('');
   asetaRullanKohta(kohta);
 }
 
@@ -2100,9 +2108,10 @@ function asetaRullanKohta(kohta) {
 
 function pyoraytaRulla() {
   if (Arvonta.kaynnissa || !allRecs.length) return;
+  if (Arvonta.aani) alustaAani();   // vivun veto on käyttäjän ele, joten ääni saa alkaa
   const nyt = Arvonta.nauha[Math.round(Arvonta.kohta)];
   const ylla = Arvonta.nauha[Math.round(Arvonta.kohta) - 1] || arvoRec();
-  const kohde = arvoRec([nyt.id]);
+  const kohde = arvoRec(typeof nyt === 'object' ? [nyt.id] : []);
   Arvonta.viimeiset = [kohde.id, ...Arvonta.viimeiset].slice(0, 30);
   // Uusi nauha alkaa samasta näkymästä (yllä oleva + nykyinen), joten vaihto ei näy
   const valissa = Array.from({ length: RULLA_KORTTEJA - 4 }, () => arvoRec([kohde.id]));
@@ -2172,15 +2181,12 @@ function rullaPysahtyi(rec) {
 // rec = pysähtynyt suositus, null = rulla pyörii (nappi pois käytöstä, lause himmenee)
 function paivitaArvontaTiedot(rec) {
   const avaa = $('#arvontaAvaa');
-  const lause = $('#arvontaSittenKun');
   if (!avaa) return;
-  $('#arvontaTiedot').classList.toggle('pyorii', !rec);
   if (rec) {
     avaa.href = recUrl(rec);
     avaa.dataset.suositus = rec.id;
     avaa.removeAttribute('aria-disabled');
     avaa.removeAttribute('tabindex');
-    lause.textContent = sittenKun(rec);
   } else {
     delete avaa.dataset.suositus;
     avaa.setAttribute('aria-disabled', 'true');
@@ -2250,15 +2256,22 @@ function naksu(voima) {
   lahde.start();
 }
 
-function vaihdaArvontaAani() {
-  Arvonta.aani = !Arvonta.aani;
-  try { localStorage.setItem('arvontaAani', Arvonta.aani ? '1' : '0'); } catch (e) {}
-  if (Arvonta.aani && !aaniKonteksti) {
+// Selaimet sallivat äänen vasta käyttäjän eleen jälkeen: konteksti luodaan vivun vedossa
+// tai ääninapin painalluksessa
+function alustaAani() {
+  if (!aaniKonteksti) {
     aaniKonteksti = new (window.AudioContext || window.webkitAudioContext)();
     kohina = aaniKonteksti.createBuffer(1, Math.floor(aaniKonteksti.sampleRate * 0.012), aaniKonteksti.sampleRate);
     const d = kohina.getChannelData(0);
     for (let i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * (1 - i / d.length) ** 3;
   }
+  if (aaniKonteksti.state === 'suspended') aaniKonteksti.resume();
+}
+
+function vaihdaArvontaAani() {
+  Arvonta.aani = !Arvonta.aani;
+  try { localStorage.setItem('arvontaAani', Arvonta.aani ? '1' : '0'); } catch (e) {}
+  if (Arvonta.aani) alustaAani();
   const nappi = $('#arvontaAani');
   nappi.setAttribute('aria-pressed', String(Arvonta.aani));
   nappi.querySelector('span').textContent = Arvonta.aani ? 'Ääni päällä' : 'Ääni pois';

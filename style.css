@@ -3496,6 +3496,68 @@ a.henkilo:hover .henkilo-nimi {
   overflow: hidden;
 }
 
+/* Tyhjä tila ennen ensimmäistä vetoa: kehotus keskellä, haamukortit ympärillä */
+.rulla-tyhja {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 100%;
+  padding: 24px 32px;
+  border: 1.5px dashed var(--reuna-vahva);
+  border-radius: var(--radius-md);
+  text-align: center;
+}
+
+.rulla-tyhja-ikoni {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 10px;
+  color: var(--vari);
+  stroke-width: 1.5;
+  animation: tyhja-heilunta 3s ease-in-out infinite;
+}
+
+@keyframes tyhja-heilunta {
+  0%, 100% { transform: rotate(-8deg); }
+  50% { transform: rotate(8deg); }
+}
+
+.rulla-tyhja-otsikko {
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  color: var(--teksti-ensisijainen);
+}
+
+.rulla-tyhja-teksti {
+  max-width: 34ch;
+  font-size: 15px;
+  color: var(--teksti-himmea);
+}
+
+.rulla-haamu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  height: 100%;
+  padding: 28px;
+  border-radius: var(--radius-md);
+  background: var(--bg-kortti);
+}
+
+.rulla-haamu span {
+  height: 12px;
+  border-radius: 6px;
+  background: var(--bg-tagi);
+}
+
+.rulla-haamu span:nth-child(1) { width: 30%; }
+.rulla-haamu span:nth-child(2) { width: 65%; height: 18px; }
+.rulla-haamu span:nth-child(3) { width: 85%; }
+
 /* Voittorivin merkit: vihreät kolmiot keskimmäisen kortin kohdalla */
 .rulla-osoitin {
   position: absolute;
@@ -3615,16 +3677,16 @@ a.henkilo:hover .henkilo-nimi {
 }
 
 .arvonta-tiedot {
-  max-width: 640px;
-  margin: 28px auto 0;
+  display: grid;
+  grid-template-columns: minmax(0, 640px) 72px;   /* sama ruudukko kuin automaatti + vipu */
+  justify-content: center;
+  gap: 28px;
+  margin-top: 24px;
 }
 
-.arvonta-sittenkun {
-  transition: opacity 0.35s ease;
-}
-
-.arvonta-tiedot.pyorii .arvonta-sittenkun {
-  opacity: 0.3;
+.arvonta-tiedot .arvonta-toiminnot {
+  justify-content: center;
+  margin-top: 0;
 }
 
 /* Avaa suositus pois käytöstä rullan pyöriessä */
@@ -3634,11 +3696,6 @@ a.henkilo:hover .henkilo-nimi {
   cursor: default;
 }
 
-.arvonta-sittenkun {
-  font-size: 15px;
-  font-weight: 500;
-  color: var(--vari-teksti);
-}
 
 .arvonta-kuvaus {
   margin-top: 10px;
@@ -4059,6 +4116,10 @@ a.henkilo:hover .henkilo-nimi {
 
   .arvonta-kuvaus {
     font-size: 17px;
+  }
+
+  .arvonta-tiedot {
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 
