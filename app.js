@@ -2332,6 +2332,18 @@ function setupFeedbackForm() {
   const btn = $('#submitBtn');
   if (!form) return;
 
+  // "Haluan vastauksen" tekee sähköpostista pakollisen (muuten vastausta ei voi lähettää)
+  const vastaus = $('#palauteVastaus');
+  const sposti = $('#palauteSposti');
+  const paivitaSposti = () => {
+    sposti.required = vastaus.checked;
+    $('#palauteSpostiVihje').textContent = vastaus.checked ? '(vastausta varten)' : '(valinnainen)';
+  };
+  vastaus.addEventListener('change', () => {
+    paivitaSposti();
+    if (vastaus.checked && !sposti.value) sposti.focus();
+  });
+
   form.addEventListener('submit', e => {
     e.preventDefault();
     btn.textContent = 'Lähetetään…';
@@ -2345,7 +2357,11 @@ function setupFeedbackForm() {
     })
       .then(res => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        $('#palauteKiitosTeksti').textContent = vastaus.checked
+          ? 'Palaute luetaan, ja vastaamme sähköpostiisi.'
+          : 'Palaute luetaan, ja virheet korjataan arkistoon.';
         form.reset();
+        paivitaSposti();
         form.hidden = true;
         $('#palauteKiitos').hidden = false;
       })

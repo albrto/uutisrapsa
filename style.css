@@ -2415,6 +2415,25 @@ a.henkilo:hover .henkilo-nimi {
   transition: border-color var(--transition), box-shadow var(--transition);
 }
 
+/* Valintaruutu lomakkeessa (palaute: "Haluan vastauksen") */
+.valintaruutu {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: -4px 0 16px;
+  font-size: 14px;
+  color: var(--teksti-toissijainen);
+  cursor: pointer;
+}
+
+.valintaruutu input {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  accent-color: var(--vari);
+  cursor: pointer;
+}
+
 .kentta textarea {
   min-height: 128px;
   resize: vertical;

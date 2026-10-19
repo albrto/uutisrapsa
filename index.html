@@ -308,6 +308,14 @@
             <input type="text" name="nimi" autocomplete="name">
           </label>
           <label class="kentta">
+            <span class="kentta-nimi">Sähköposti <span class="himmea" id="palauteSpostiVihje">(valinnainen)</span></span>
+            <input type="email" name="sahkoposti" id="palauteSposti" autocomplete="email" inputmode="email">
+          </label>
+          <label class="valintaruutu">
+            <input type="checkbox" name="haluaa_vastauksen" value="kyllä" id="palauteVastaus">
+            <span>Haluan vastauksen sähköpostiini</span>
+          </label>
+          <label class="kentta">
             <span class="kentta-nimi">Viesti</span>
             <textarea name="viesti" id="palauteViesti" rows="5" required></textarea>
           </label>
@@ -316,7 +324,7 @@
         </form>
         <div class="lomake-kiitos" id="palauteKiitos" hidden>
           <p class="lomake-kiitos-otsikko">Kiitos, viesti meni perille!</p>
-          <p>Palaute luetaan, ja virheet korjataan arkistoon.</p>
+          <p id="palauteKiitosTeksti">Palaute luetaan, ja virheet korjataan arkistoon.</p>
           <button type="button" class="nappi nappi-toissijainen" data-sulje>Sulje</button>
         </div>
       </div>
