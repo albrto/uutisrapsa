@@ -1,12 +1,22 @@
 <!DOCTYPE html>
-<!-- Apple touch -ikonin ja faviconin lähde: renderöidään kuvalahteet/tee_kuvat.sh:lla.
-     Täysi neliö ilman pyöristystä – iOS pyöristää kulmat itse. -->
-<html><head><style>
-  html, body { margin: 0; background: #09090f; }
+<!-- Ikonien lähde (720×720): apple-touch-icon.png, Androidin ikoni-192/512.png ja favicon.ico.
+     Merkki = yläpalkin sanamerkin äänipalkit (index.html .sanamerkki-ikoni), ikonikokoon hieman
+     paksumpina. ?pyorea = pyöristetyt kulmat (favicon.ico; iOS ja Android pyöristävät itse).
+     Renderöinti: kuvalahteet/tee_kuvat.sh. favicon.svg on sama kuvio käsin kirjoitettuna. -->
+<html lang="fi"><head><meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; }
+  html, body { width: 720px; height: 720px; background: transparent; overflow: hidden; }
   svg { display: block; width: 720px; height: 720px; }
 </style></head><body>
-<svg viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet">
-  <rect width="64" height="64" fill="#09090f"/>
-  <path d="M19 14v20a13 13 0 0 0 26 0V14" fill="none" stroke="#3bdaa5" stroke-width="9"/>
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect id="pohja" width="64" height="64" fill="#111111"/>
+  <g fill="#3bdaa5">
+    <rect x="12" y="24.3" width="7" height="15.4" rx="3.5"/>
+    <rect x="23" y="14" width="7" height="36" rx="3.5"/>
+    <rect x="34" y="20.45" width="7" height="23.1" rx="3.5"/>
+    <rect x="45" y="26.85" width="7" height="10.3" rx="3.5"/>
+  </g>
 </svg>
+<script>if (location.search.includes('pyorea')) document.getElementById('pohja').setAttribute('rx', 14);</script>
 </body></html>
