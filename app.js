@@ -613,7 +613,6 @@ function renderStaattiset() {
   $('#tervehdysLuvut').textContent =
     `${luku(allRecs.length)} suositusta ${luku(jaksoja)} jaksosta ja ${luku(suosittelijat.size)} suosittelijalta.`;
   renderAikajana();
-  renderHeroKuvio();
   renderHeroPilleri();
   renderSuosittelijavalinta();
   paivitaSuosikkiMaara();
@@ -622,6 +621,10 @@ function renderStaattiset() {
 // Aikajana: jokainen vuosi on nappi, jonka pylväät ovat kuukausien suositusmääriä
 // (podcastin ääniaalto, joka on samalla vuosisuodatin). Kaksi kerrosta samassa
 // mittakaavassa: haalea = koko arkisto, vihreä = nykyisten rajausten osumat (renderVuodet).
+// Suodattimena jana on suosittelijan sivulla; Tilastot › Ilmiöt näyttää saman janan
+// linkkeinä etusivun vuosirajaukseen (aikajanaHtml(true)). Etusivun herosta jana ja
+// vuosirenkaat poistettiin 20.10.2026 (käyttäjä: mobiilissa liian pientä tiherrystä,
+// ja vuoden mukaan selaaminen sopii paremmin tilastoihin).
 let aikajanaMaksimi = 1;
 const kkAvain = r => `${r.vuosi}-${r.kuukausi}`;
 
@@ -636,6 +639,10 @@ function laskeKuukaudet(recs) {
 const pylvasKorkeus = m => (m ? Math.max(0.07, m / aikajanaMaksimi).toFixed(3) : '0');
 
 function renderAikajana() {
+  $('#aikajana').innerHTML = aikajanaHtml(false);
+}
+
+function aikajanaHtml(linkit) {
   const kaikki = laskeKuukaudet(allRecs);
   aikajanaMaksimi = Math.max(1, ...kaikki.values());
   const vuodet = allRecs.map(r => Number(r.vuosi)).filter(Boolean);
@@ -648,12 +655,16 @@ function renderAikajana() {
       const m = kaikki.get(`${v}-${k}`) || 0;
       kuukaudet += `<span class="aj-kk" data-kk="${v}-${k}" style="--i:${i++};--kaikki:${pylvasKorkeus(m)};--osuma:${pylvasKorkeus(m)}"></span>`;
     }
-    html += `<button type="button" class="aj-vuosi" data-vuosi="${v}" aria-pressed="false">
-      <span class="aj-palkit" aria-hidden="true">${kuukaudet}</span>
-      <span class="aj-vuosi-nimi"><span class="aj-pitka">${v}</span><span class="aj-lyhyt">’${String(v).slice(2)}</span></span>
-    </button>`;
+    const sisalto = `<span class="aj-palkit" aria-hidden="true">${kuukaudet}</span>
+      <span class="aj-vuosi-nimi"><span class="aj-pitka">${v}</span><span class="aj-lyhyt">’${String(v).slice(2)}</span></span>`;
+    if (linkit) {
+      const n = allRecs.filter(r => r.vuosi === String(v)).length;
+      html += `<a class="aj-vuosi" href="/?vuosi=${v}" data-reitti aria-label="${v}: ${luku(n)} ${n === 1 ? 'suositus' : 'suositusta'}" title="${v}: ${luku(n)} ${n === 1 ? 'suositus' : 'suositusta'} – näytä listana">${sisalto}</a>`;
+    } else {
+      html += `<button type="button" class="aj-vuosi" data-vuosi="${v}" aria-pressed="false">${sisalto}</button>`;
+    }
   }
-  $('#aikajana').innerHTML = html;
+  return html;
 }
 
 // Uusin jakso pillerinä otsikon yllä: päivä ja suositusten määrä, napautus vie jaksoon
@@ -668,13 +679,11 @@ function renderHeroPilleri() {
   el.hidden = false;
 }
 
-// Vuosirenkaat (heron kuvio): arkisto puun poikkileikkauksena. Jokainen vuosi on rengas
-// (vanhin keskellä), jokainen jakso säde julkaisupäivänsä kulmassa ja säteen pituus
-// jakson suositusmäärä. Uusin jakso on vihreä; renderVuodet himmentää jaksot, joissa ei
-// ole rajausten osumia, ja värittää osumat vihreiksi.
-function renderHeroKuvio() {
-  const kohde = $('#heroKuvio');
-  if (!kohde) return;
+// Vuosirenkaat (Tilastot › Ilmiöt, aiemmin etusivun herossa): arkisto puun poikkileikkauksena.
+// Jokainen vuosi on rengas (vanhin keskellä), jokainen jakso säde julkaisupäivänsä kulmassa
+// ja säteen pituus jakson suositusmäärä. Uusin jakso on vihreä. Sama geometria on
+// jakokuvassa (kuvalahteet/og-image.html).
+function vuosirenkaatSvg() {
   const jaksot = [];
   for (const jakso of allData) {
     const pvm = parsiPvm(jakso.paivamaara);
@@ -682,7 +691,7 @@ function renderHeroKuvio() {
     const n = jakso.suositukset.filter(r => !r.piilotettu).length;
     jaksot.push({ id: jakso.id, pvm, n });
   }
-  if (!jaksot.length) return;
+  if (!jaksot.length) return '';
   const vuodet = jaksot.map(j => j.pvm.getFullYear());
   const eka = Math.min(...vuodet), vika = Math.max(...vuodet);
   const R0 = 52, R1 = 192;
@@ -705,7 +714,7 @@ function renderHeroKuvio() {
     return `<line class="hk-sade${uusin}" data-jakso="${escapeHtml(j.id)}" style="--i:${i}" x1="${f(r1 * cos)}" y1="${f(r1 * sin)}" x2="${f(r2 * cos)}" y2="${f(r2 * sin)}"/>`;
   }).join('');
 
-  kohde.innerHTML = `<svg viewBox="-200 -200 400 400" focusable="false">
+  return `<svg viewBox="-200 -200 400 400" focusable="false" aria-hidden="true">
     ${renkaat}${sateet}
     <text class="hk-vuosi" text-anchor="middle" y="-3">${eka}–${vika}</text>
     <text class="hk-vuosi" text-anchor="middle" y="8">${luku(jaksot.length)} jaksoa</text>
@@ -747,10 +756,10 @@ function renderNakyma() {
     else a.removeAttribute('aria-current');
   });
 
-  // Aikajana on etusivun herossa ja suosittelijan sivun otsakkeessa (sama elementti).
-  // Otsake piirretään uudelleen innerHTML:llä, joten aikajana nostetaan ensin talteen heroon.
+  // Aikajana näkyy vain suosittelijan sivun otsakkeessa. Otsake piirretään uudelleen
+  // innerHTML:llä, joten aikajana nostetaan ensin talteen piilotettuun säilöön.
   const aikajana = $('#aikajana');
-  $('#alku .hero-content').appendChild(aikajana);
+  $('#aikajanaVarasto').appendChild(aikajana);
   renderSivuotsake();
   if (tila.profiili) {
     const paikka = $('#sivuotsake .aikajana-paikka');
@@ -934,7 +943,12 @@ function renderKategoriat() {
   const toistuvia = suodata(tila, 'toistuvat').filter(r => r.toisto > 1).length;
   const toistuvatChip = `<button type="button" class="chippi chippi-toisto" data-toistuvat aria-pressed="${Boolean(tila.toistuvat)}"
     ${!toistuvia && !tila.toistuvat ? 'disabled' : ''}>${CHIP_IKONIT ? ikoni('toisto') : ''}Useasti suositellut<span class="chippi-maara">${luku(toistuvia)}</span></button>`;
-  $('#kategoriarivi').innerHTML = html + '<span class="chippi-erotin" aria-hidden="true"></span>' + toistuvatChip;
+  // Vuosirajaus (Tilastojen vuosijanasta tai jaetusta linkistä) näkyy poistettavana chippinä
+  // rivin alussa, koska etusivulla ei enää ole vuosijanaa
+  const vuosiChip = tila.vuosi && !tila.profiili
+    ? `<button type="button" class="chippi chippi-vuosi" data-poista="vuosi" aria-pressed="true" aria-label="Vuosi ${escapeHtml(tila.vuosi)}, poista rajaus">${escapeHtml(tila.vuosi)}${ikoni('sulje')}</button><span class="chippi-erotin" aria-hidden="true"></span>`
+    : '';
+  $('#kategoriarivi').innerHTML = vuosiChip + html + '<span class="chippi-erotin" aria-hidden="true"></span>' + toistuvatChip;
   // Valittu chip näkyviin rivillä (vain vaakasuunnassa – sivu ei saa liikkua)
   const rivi = $('#kategoriarivi');
   const valittu = rivi.querySelector('.chippi[aria-pressed="true"]');
@@ -959,18 +973,6 @@ function renderVuodet() {
   aikajana.querySelectorAll('.aj-kk').forEach(kk => {
     kk.style.setProperty('--osuma', pylvasKorkeus(osumat.get(kk.dataset.kk) || 0));
   });
-  // Vuosirenkaat: osumattomat jaksot himmenevät (vuosirajaus mukaan erikseen)
-  const kuvio = $('#heroKuvio');
-  if (kuvio && kuvio.offsetParent) {
-    const rajattu = pohja.length !== allRecs.length || tila.vuosi;
-    const osumaJaksot = new Set();
-    if (rajattu) for (const r of pohja) if (!tila.vuosi || r.vuosi === tila.vuosi) osumaJaksot.add(r.jakso_id);
-    kuvio.querySelectorAll('.hk-sade').forEach(l => {
-      const osuu = osumaJaksot.has(l.dataset.jakso);
-      l.classList.toggle('hk-pois', Boolean(rajattu) && !osuu);
-      l.classList.toggle('hk-osuma', Boolean(rajattu) && osuu);
-    });
-  }
   aikajana.querySelectorAll('.aj-vuosi').forEach(nappi => {
     const v = nappi.dataset.vuosi;
     let n = 0;
@@ -984,7 +986,7 @@ function renderVuodet() {
 }
 
 // Tulosotsikko kertoo, mitä katsotaan ("Kulttuuri · 2023", teoksen nimi …) – erillistä
-// rajausriviä ei tarvita, koska kategoria näkyy chipeistä ja vuosi aikajanasta
+// rajausriviä ei tarvita, koska kategoria ja vuosi näkyvät chipeistä
 function renderTulosotsake(tulos) {
   const osat = [];
   if (tila.kategoria) osat.push(kategoria(tila.kategoria).monikko);
@@ -1566,7 +1568,24 @@ function renderIlmiot(t) {
       </span>
     </li>`).join('');
 
+  // 0. Arkisto vuosittain: vuosirenkaat + kuukausijana (siirretty etusivulta 20.10.2026).
+  // Janan vuodet ovat linkkejä etusivun listaan rajattuna siihen vuoteen.
+  const jaksoja = allData.length;
   return `
+    <section class="tilastopaneeli kuvio arkisto">
+      <div class="arkisto-teksti">
+        <h2 class="tilastopaneeli-otsikko">Vuosirenkaat</h2>
+        <p class="tilastopaneeli-kuvaus">Koko arkisto puun poikkileikkauksena: jokainen rengas on vuosi (vanhin keskellä), jokainen viiva jakso julkaisupäivänsä kohdalla, ja viivan pituus kertoo suositusten määrän. Vihreä viiva on uusin jakso.</p>
+        <p class="arkisto-luvut">${luku(jaksoja)} jaksoa · ${luku(allRecs.length)} suositusta</p>
+      </div>
+      <div class="arkisto-renkaat">${vuosirenkaatSvg()}</div>
+      <div class="arkisto-jana">
+        <h3 class="arkisto-alaotsikko">Suositukset kuukausittain</h3>
+        <p class="tilastopaneeli-kuvaus">Valitse vuosi, niin näet sen suositukset listana.</p>
+        <nav class="aikajana aikajana-linkit" aria-label="Suositukset vuosittain">${aikajanaHtml(true)}</nav>
+      </div>
+    </section>
+
     <section class="tilastopaneeli kuvio">
       <h2 class="tilastopaneeli-otsikko">Maku muuttuu</h2>
       <p class="tilastopaneeli-kuvaus">Mitä suositeltiin minäkin vuonna – kategorioiden osuudet vuoden suosituksista. Vuosien alla suositusten määrä; vuodet 2016–2018 ovat ohuempia, koska vanhoista jaksoista on poimittu vähemmän.</p>
@@ -2777,6 +2796,16 @@ function kaynnistaPikkujoululaskuri() {
   paivita();
   if (!laatikko.hidden) ajastin = setInterval(paivita, 1000);
   document.addEventListener('visibilitychange', paivita);
+  // Lisätiedot (paikka, alkamisaika, ilmoittautuminen) ponnahdusikkunassa: isolla näytöllä
+  // laskurin alle (sivun koordinaatteina, jotta se vierii laskurin mukana), puhelimessa
+  // alareunan sheetinä (style.css)
+  const tiedot = $('#laskuriTiedot');
+  if (tiedot) tiedot.addEventListener('beforetoggle', e => {
+    if (e.newState !== 'open') return;
+    const r = laatikko.getBoundingClientRect();
+    tiedot.style.setProperty('--tiedot-y', `${Math.round(r.bottom + window.scrollY + 8)}px`);
+    tiedot.style.setProperty('--tiedot-x', `${Math.round(r.left + window.scrollX)}px`);
+  });
 }
 
 // Käynnistys

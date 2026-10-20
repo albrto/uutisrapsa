@@ -501,35 +501,9 @@ button {
   padding: 104px 0 48px;
 }
 
-/* Iso näyttö: teksti vasemmalla, vuosirengaskuvio oikealla */
-.hero-ylaosa {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr);
-  align-items: center;
-  gap: 48px;
-}
-
-.hero-kuvio {
-  display: none;
-}
-
-@media (min-width: 1024px) {
-  .hero-ylaosa {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 400px);
-  }
-
-  .hero-kuvio {
-    display: block;
-    width: 100%;
-    aspect-ratio: 1;
-    margin: -48px 0;
-    color: var(--teksti-ensisijainen);
-  }
-}
-
-/* Vuosirenkaat: jokainen jakso on säde omalla vuosirenkaallaan, pituus = suositusten
-   määrä. Rajaukset himmentävät osumattomat jaksot (app.js renderHeroKuvio). */
-.hero-kuvio svg {
+/* Vuosirenkaat (Tilastot › Ilmiöt, app.js vuosirenkaatSvg): jokainen jakso on säde omalla
+   vuosirenkaallaan, pituus = suositusten määrä. Etusivun herossa 3.–20.10.2026. */
+.arkisto-renkaat svg {
   display: block;
   width: 100%;
   height: 100%;
@@ -725,20 +699,38 @@ button {
   color: var(--teksti-himmea);
 }
 
-/* Pikkujoululaskuri heron tekstin alla: himmeä vihreä pohja, kaikki teksti vihreää.
-   Otsake ja aika samalla rivillä, numerot tasalevyisinä, jotta rivi ei hypi. */
+/* Pikkujoululaskuri heron tekstin alla: tiivis nappi (otsake + aika), himmeä vihreä pohja,
+   kaikki teksti vihreää. Lisätiedot avautuvat napautuksesta (.laskuri-tiedot). Numerot
+   tasalevyisinä, jotta rivi ei hypi. */
 .pikkujoululaskuri {
-  display: inline-block;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 10px;
+  row-gap: 2px;
   max-width: 100%;
   margin-top: 24px;
-  /* 16 px gridi; alareunaan poikkeuksena 20 px, koska tasan mitattuna ala näyttää ahtaammalta */
-  padding: 16px 16px 20px;
+  padding: 11px 46px 12px 14px;
+  border: none;
   border-left: 3px solid var(--joulu);
   border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
   position: relative;
-  padding-right: 48px;
   background: var(--joulu-tausta);
   color: var(--joulu);
+  font-family: var(--fontti);
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background-color var(--transition);
+}
+
+.pikkujoululaskuri:hover {
+  background: color-mix(in oklab, var(--joulu) 20%, transparent);
+}
+
+.pikkujoululaskuri:hover .laskuri-tahti {
+  background: var(--joulu);
+  color: var(--bg-sivu);
 }
 
 /* Joulupallo roikkuu laatikon yläreunasta ja heiluu hiljaa kuin tuulessa
@@ -746,8 +738,8 @@ button {
 .joulupallo {
   position: absolute;
   top: 0;
-  right: 16px;
-  width: 22px;
+  right: 14px;
+  width: 18px;
   height: auto;
   overflow: visible;
   transform-origin: 50% 0;
@@ -759,22 +751,30 @@ button {
   to { transform: rotate(7deg); }
 }
 
-.laskuri-rivi {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  column-gap: 10px;
-}
-
 .laskuri-otsake {
   font-size: 14px;
   font-weight: 500;
   line-height: 1.3;
 }
 
+/* Tähti on lisätietojen vihje: pieni pallo, joka täyttyy osoitettaessa */
+.laskuri-tahti {
+  display: inline-grid;
+  place-items: center;
+  width: 15px;
+  height: 15px;
+  margin-left: 2px;
+  border-radius: 50%;
+  background: color-mix(in oklab, var(--joulu) 22%, transparent);
+  font-size: 11px;
+  line-height: 1;
+  vertical-align: 1px;
+  transition: background-color var(--transition), color var(--transition);
+}
+
 .laskuri-aika {
   font-family: var(--fontti-koodi);
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 600;
   /* Tiivis riviväli: muuten ylärivin lisäilma tekee yläreunan tyhjästä alareunaa isomman */
   line-height: 1.2;
@@ -793,9 +793,63 @@ button {
   margin-right: 0;
 }
 
-.laskuri-huomautus {
-  margin-top: 2px;
-  font-size: 12px;
+/* Lisätiedot: isolla näytöllä pieni kortti laskurin alla (app.js asettaa --tiedot-x/-y
+   sivun koordinaatteina), puhelimessa alareunan sheet (ks. max-width: 640px) */
+.laskuri-tiedot {
+  position: absolute;
+  inset: var(--tiedot-y, 30vh) auto auto var(--tiedot-x, 24px);
+  width: min(340px, calc(100vw - 32px));
+  margin: 0;
+  padding: 20px 20px 18px;
+  border: 1px solid var(--reuna);
+  border-radius: var(--radius-md);
+  background: var(--bg-kortti);
+  color: var(--teksti-ensisijainen);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.laskuri-tiedot p + p {
+  margin-top: 6px;
+}
+
+.laskuri-tiedot-otsikko {
+  margin-bottom: 4px;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--joulu);
+}
+
+.laskuri-tiedot-himmea {
+  font-size: 14px;
+  color: var(--teksti-toissijainen);
+}
+
+.laskuri-tiedot-sulje {
+  margin-top: 16px;
+}
+
+.laskuri-tiedot::backdrop {
+  background: transparent;
+}
+
+/* Selain ilman popover-tukea näyttää tiedot tavallisena tekstinä laskurin alla */
+@supports not selector(:popover-open) {
+  .laskuri-tiedot {
+    position: static;
+    margin-top: 8px;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 12px;
+    color: var(--joulu);
+  }
+
+  .laskuri-tiedot-otsikko,
+  .laskuri-tiedot-sulje {
+    display: none;
+  }
 }
 
 .vain-ruudunlukijalle {
@@ -827,13 +881,13 @@ button {
 .aikajana {
   display: flex;
   gap: 2px;
-  margin-top: 88px;
 }
 
 .aj-vuosi {
   flex: 1 1 0;
   min-width: 0;
   display: flex;
+  text-decoration: none;
   flex-direction: column;
   gap: 6px;
   padding: 6px 3px 4px;
@@ -853,6 +907,10 @@ button {
 .aj-vuosi:disabled {
   cursor: default;
   opacity: 0.4;
+}
+
+.aikajana-linkit .aj-kk::after {
+  background: var(--vari);
 }
 
 .aj-vuosi:disabled:hover {
@@ -1593,6 +1651,18 @@ button {
 .tyhjenna-rajaukset .ikoni {
   width: 15px;
   height: 15px;
+  stroke-width: 2;
+}
+
+/* Vuosirajaus chippinä kategoriarivin alussa (× poistaa) */
+.chippi-vuosi {
+  gap: 6px;
+  font-variant-numeric: tabular-nums;
+}
+
+.chippi-vuosi .ikoni {
+  width: 14px;
+  height: 14px;
   stroke-width: 2;
 }
 
@@ -2794,6 +2864,58 @@ a.henkilo:hover .henkilo-nimi {
   margin-top: 24px;
 }
 
+/* Tilastot › Ilmiöt: vuosirenkaat + kuukausijana (siirretty etusivulta 20.10.2026) */
+.arkisto {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 360px);
+  grid-template-areas: "teksti renkaat" "jana jana";
+  gap: 8px 48px;
+  align-items: center;
+}
+
+.arkisto-teksti { grid-area: teksti; }
+.arkisto-renkaat {
+  grid-area: renkaat;
+  width: 100%;
+  aspect-ratio: 1;
+  color: var(--teksti-ensisijainen);
+}
+.arkisto-jana {
+  grid-area: jana;
+  margin-top: 24px;
+}
+
+.arkisto-luvut {
+  margin-top: 16px;
+  font-family: var(--fontti-koodi);
+  font-size: 13px;
+  color: var(--teksti-himmea);
+  font-variant-numeric: tabular-nums;
+}
+
+.arkisto-alaotsikko {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--teksti-ensisijainen);
+}
+
+.arkisto-jana .aikajana {
+  margin-top: 20px;
+}
+
+@media (max-width: 860px) {
+  .arkisto {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "teksti" "renkaat" "jana";
+  }
+
+  .arkisto-renkaat {
+    max-width: 320px;
+    margin: 16px auto 0;
+  }
+}
+
 .kuvio + .kuvio {
   margin-top: 16px;
 }
@@ -3940,29 +4062,52 @@ a.henkilo:hover .henkilo-nimi {
     margin-top: 20px;
   }
 
+  /* Puhelimessa lisätiedot alareunan sheetinä */
+  .laskuri-tiedot {
+    position: fixed;
+    inset: auto 0 0 0;
+    width: 100%;
+    max-width: none;
+    padding: 24px 20px calc(20px + env(safe-area-inset-bottom));
+    border: none;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  }
+
+  .laskuri-tiedot::backdrop {
+    background: var(--verho);
+  }
+
+  .laskuri-tiedot-sulje {
+    width: 100%;
+    justify-content: center;
+  }
+
   .kupla {
     font-size: 14px;
   }
 
+  /* Puhelimessa jana rivittyy enintään neljän vuoden riveiksi, jotta kuukausipylväät
+     eivät kutistu tiherrykseksi */
   .aikajana {
-    margin-top: 40px;
-    gap: 1px;
+    flex-wrap: wrap;
+    gap: 12px 4px;
   }
 
   .aj-vuosi {
-    padding: 4px 1px;
+    flex: 1 0 calc(25% - 3px);
+    max-width: calc(25% - 3px);
+    padding: 6px 4px 4px;
+    border-radius: 6px;
   }
 
   .aj-palkit {
-    height: 36px;
-  }
-
-  .aj-vuosi-nimi {
-    font-size: 10px;
+    height: 40px;
   }
 
   .aj-pitka { display: none; }
   .aj-lyhyt { display: inline; }
+  .aikajana .aj-pitka { display: inline; }
+  .aikajana .aj-lyhyt { display: none; }
 
   .sivuotsake {
     padding: 40px 0 4px;
@@ -4006,6 +4151,18 @@ a.henkilo:hover .henkilo-nimi {
 
   .tulosotsake {
     margin-top: 40px;
+    row-gap: 6px;
+  }
+
+  /* Järjestys omalle rivilleen koko levyiseksi, ettei se ahdistu otsikon ja määrän kylkeen */
+  .jarjestys {
+    flex: 1 0 100%;
+    margin: 12px 0 0;
+  }
+
+  .jarjestys > button {
+    flex: 1 1 0;
+    justify-content: center;
   }
 
   .tulosotsake-otsikko {
