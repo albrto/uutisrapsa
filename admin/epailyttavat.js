@@ -12058,7 +12058,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "suosittelija": "Maria Manner",
-        "teos": "Karakasissa on vielä yö",
+        "teos": "Caracasissa on vielä yö",
         "paakategoria": "kirja",
         "kategoriat": [
           "romaani",
@@ -12066,8 +12066,8 @@ window.VALIDATION_DATA = [
           "poliittinen kriisi"
         ],
         "kuvaus": "Romaani, joka kuvaa Venezuelan poliittista kriisiä ja arkea. Suositellaan, koska taide voi välittää poliittisia kriisejä paremmin kuin uutiset.",
-        "google_linkki": "https://www.google.com/search?q=Karakasissa+on+vielä+yö",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Karakasissa+on+vielä+yö",
+        "google_linkki": "https://www.google.com/search?q=Caracasissa+on+vielä+yö",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Caracasissa+on+vielä+yö",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -15939,6 +15939,130 @@ window.VALIDATION_DATA = [
         "kuvaus": "Netflixiin tuleva Gilmoren tyttöjen jatko-osa, josta fanit ovat olleet innoissaan puoli vuotta. Anna-Sofia mainitsee uusien jaksojen ilmestyvän perjantaina.",
         "google_linkki": "https://www.google.com/search?q=Gilmore+Girls+A+Year+in+the+Life+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Gilmore+Girls+A+Year+in+the+Life",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      }
+    ]
+  },
+  {
+    "j_idx": 489,
+    "jakso_id": "4aeb117c-340b-4f31-b31d-f01023e57f41",
+    "jakso_otsikko": "Kokpers/perskok, Bishmillah c'est les ténèbres!, suomalaiset datapisteinä",
+    "paivamaara": "22.10.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4aeb117c-340b-4f31-b31d-f01023e57f41.mp3",
+    "kesto_sek": 5480,
+    "kesto_str": "01:31:20",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Sami Sillanpää",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski, Marko Junkkari ja podcastissa vieraillut Sami Sillanpää keskustelevat kiihkeän uutisviikon annista mitä tulee Ukrainan tilanteeseen Stubbeineen, Trumpeineen ja Putineineen; kokoomuksen ja perussuomalaisten fuusioitumisesta ainakin poliittisten ohjelmiensa perusteella; Ranskan mellakoista ja Greta Thunbergin vierailusta siellä; sekä Samin",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Päiväunet stressin lievittäjänä",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "rentoutuminen",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Kun olo käy ahdistuneeksi ja päätä huimaa, Tuomas suosittelee yksinkertaisesti menemään päiväunille.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "tuntematon",
+        "teos": "Mökkiloma Lapin hiihtoladun varrella ilman kännykkää",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "lomailu",
+          "digidetox",
+          "luonto"
+        ],
+        "kuvaus": "Kun meininki käy liian kovaksi, vastauksena ehdotetaan Lapista vuokrattavaa mökkiä hiihtoladun varrelta ja puhelimen sulkemista koko loman ajaksi.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "tuntematon",
+        "teos": "Myitso Bern",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "talous",
+          "tietokirjallisuus",
+          "yhdysvallat"
+        ],
+        "kuvaus": "Suositellaan journalistin kirjoittamaa tietokirjaa Apollo-sijoitusyhtiön perustajasta Leon Blackista, joka alkaa menestystarinana mutta muuttuu kuvaukseksi hänen kytköksistään Jeffrey Epsteiniin.",
+        "google_linkki": "https://www.google.com/search?q=William+D.+Cohan+Leon+Black+Apollo+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Leon+Black+Apollo+William+Cohan",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "tuntematon",
+        "teos": "Sijoituskäsi",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "Ukraina",
+          "sota",
+          "sijoittaminen"
+        ],
+        "kuvaus": "Suositellaan suositun sijoituspodcastin jaksoa, jonka vieraana oli Ukrainassa taisteleva suomalainen vapaaehtoinen 'Lumipallo'. Hän kertoo droonisodankäynnistä ja Suomen puolustusvoimien valmiuksista, ja podcastin juontajia kehutaan taitavista kysymyksistä.",
+        "google_linkki": "https://www.google.com/search?q=Sijoitusk%C3%A4si+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Sijoitusk%C3%A4si",
+        "alkupera": "kotimainen",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ennakkoluulolla",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "haastattelu",
+          "viihde"
+        ],
+        "kuvaus": "Tuomas suosittelee kuuntelemaan näyttelijä Pekka Strangin Ennakkoluulolla-podcastia, jossa hän itse oli vieraana ja jossa vieraasta esitetään joukko ennakkoluuloisia väitteitä.",
+        "google_linkki": "https://www.google.com/search?q=Ennakkoluulolla+Pekka+Strang+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Ennakkoluulolla%20Pekka%20Strang",
+        "alkupera": "kotimainen",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Helsingin kirjamessut - Patrick Radden Keefe -haastattelu",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "kirjamessut",
+          "haastattelu",
+          "tapahtuma"
+        ],
+        "kuvaus": "Tuomas kehottaa saapumaan lauantaina Helsingin kirjamessuille seuraamaan hänen haastatteluaan amerikkalaisen toimittajakirjailija Patrick Radden Keefen kanssa, joka kirjoitti muun muassa kirjan Valehtelijoiden kaupunki.",
+        "google_linkki": "https://www.google.com/search?q=Helsingin+kirjamessut+Patrick+Radden+Keefe",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -20296,7 +20420,7 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Lähellä Uuttamaata sijaitseva kaunis kumpuileva kansallispuisto, jossa on muun muassa Korteniemen perinnetila lampasineen. Suositellaan erityisesti helsinkiläisille helposti saavutettavana luontokohteena.",
         "google_linkki": "https://www.google.com/search?q=Liesjärven+kansallispuisto",
-        "lisatieto_linkki": "https://www.luontoon.fi/liesjärvi",
+        "lisatieto_linkki": "https://www.luontoon.fi/fi/kohteet/liesjarven-kansallispuisto",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
