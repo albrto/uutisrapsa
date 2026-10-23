@@ -15998,9 +15998,9 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "tuntematon",
-        "teos": "Money to Burn",
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Myitso Bern",
         "paakategoria": "kirja",
         "kategoriat": [
           "talous",
