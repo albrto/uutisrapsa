@@ -1851,5 +1851,21 @@
         "näytelmä"
       ]
     }
+  },
+  {
+    "tyyppi": "poisto",
+    "jakso_id": "4aeb117c-340b-4f31-b31d-f01023e57f41",
+    "jakso_otsikko": "Kokpers/perskok, Bishmillah c'est les ténèbres!, suomalaiset datapisteinä",
+    "paivamaara": "22.10.2026",
+    "r_idx": 0,
+    "teos": "Päiväunet stressin lievittäjänä"
+  },
+  {
+    "tyyppi": "poisto",
+    "jakso_id": "4aeb117c-340b-4f31-b31d-f01023e57f41",
+    "jakso_otsikko": "Kokpers/perskok, Bishmillah c'est les ténèbres!, suomalaiset datapisteinä",
+    "paivamaara": "22.10.2026",
+    "r_idx": 1,
+    "teos": "Mökkiloma Lapin hiihtoladun varrella ilman kännykkää"
   }
 ]
