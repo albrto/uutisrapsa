@@ -699,6 +699,16 @@ button {
   color: var(--teksti-himmea);
 }
 
+/* Epävirallisuushuomautus johdannon alla, pienempänä ja himmeänä */
+.hero-huomautus {
+  max-width: 52ch;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--teksti-himmea);
+  text-wrap: pretty;
+}
+
 /* Pikkujoululaskuri heron tekstin alla: tiivis nappi (otsake + aika), himmeä vihreä pohja,
    kaikki teksti vihreää. Lisätiedot avautuvat napautuksesta (.laskuri-tiedot). Numerot
    tasalevyisinä, jotta rivi ei hypi. */
