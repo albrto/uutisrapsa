@@ -191,8 +191,10 @@
         <p class="hero-huomautus">Uutisrapsa.fi on epävirallinen fanisivusto. Se ei ole Helsingin
           Sanomien tai Sanoma Oyj:n virallinen sivusto eikä liity niihin.</p>
         <!-- Pikkujoululaskuri (app.js kaynnistaPikkujoululaskuri): näkyy 3.12.2026 asti,
-             sitten piiloutuu itsestään. Laskee ovien aukeamiseen klo 18; podissa sanottiin "noin", siksi "noin*". -->
-        <div class="pikkujoululaskuri" id="pikkujoululaskuri" hidden>
+             sitten piiloutuu itsestään. Laskee ovien aukeamiseen klo 18; podissa sanottiin "noin", siksi "noin*". Tiivis rivi;
+             lisätiedot avautuvat napautuksesta ponnahdusikkunaan (#laskuriTiedot). -->
+        <button type="button" class="pikkujoululaskuri" id="pikkujoululaskuri" popovertarget="laskuriTiedot"
+                aria-haspopup="dialog" aria-describedby="laskuriVihje" hidden>
           <!-- Joulupallo heiluu langan varassa (viivapiirros kuten hiihtäjä, style.css .joulupallo) -->
           <svg class="joulupallo" viewBox="0 0 24 46" fill="none" stroke="currentColor" stroke-width="1.6"
                stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
@@ -203,20 +205,29 @@
             <path d="M0.6 32c3.8 2.4 7.6 2.4 11.4 0s7.6-2.4 11.4 0"/>
             <path d="M5.5 22.5a8 8 0 0 1 3.5-3" stroke-width="1.3"/>
           </svg>
-          <div class="laskuri-rivi">
-            <p class="laskuri-otsake" id="laskuriOtsake">Podin pikkujouluihin vielä&nbsp;noin<span aria-hidden="true">*</span></p>
-            <p class="laskuri-aika" id="laskuriAika" role="timer" aria-labelledby="laskuriOtsake laskuriAika"></p>
-          </div>
-          <p class="laskuri-huomautus"><span aria-hidden="true">*</span>Ke 2.12. Ravintola Töölö: ovet aukeavat klo 18,
-            ohjelma alkaa noin klo 19.</p>
+          <span class="laskuri-otsake" id="laskuriOtsake">Podin pikkujouluihin vielä&nbsp;noin<span class="laskuri-tahti" aria-hidden="true">*</span></span>
+          <span class="laskuri-aika" id="laskuriAika" role="timer"></span>
+          <span class="vain-ruudunlukijalle" id="laskuriVihje">Näytä lisätiedot</span>
+        </button>
+        <div class="laskuri-tiedot" id="laskuriTiedot" popover role="dialog" aria-labelledby="laskuriTiedotOtsikko">
+          <p class="laskuri-tiedot-otsikko" id="laskuriTiedotOtsikko">Podin pikkujoulut</p>
+          <p>Ke 2.12. Ravintola Töölö, Helsinki.</p>
+          <p>Ovet aukeavat klo 18, ohjelma alkaa noin klo 19.</p>
+          <p class="laskuri-tiedot-himmea">*Laskuri laskee ovien aukeamiseen. Ajat ovat podin mukaan
+            ”noin suurin piirtein”.</p>
+          <button type="button" class="nappi nappi-toissijainen laskuri-tiedot-sulje" popovertarget="laskuriTiedot" popovertargetaction="hide">Selvä</button>
         </div>
         </div>
-        <!-- Vuosirenkaat: koko arkisto yhtenä kuviona (app.js renderHeroKuvio) -->
-        <div class="hero-kuvio" id="heroKuvio" aria-hidden="true"></div>
        </div>
-        <div class="aikajana" id="aikajana" role="group" aria-label="Suositukset vuosittain – valitse vuosi"></div>
       </div>
     </section>
+
+    <!-- Vuosijanan säilö: jana näytetään vain suosittelijan sivun otsakkeessa (renderNakyma
+         siirtää sen sinne). Etusivulta jana ja vuosirenkaat siirtyivät Tilastot › Ilmiöt
+         -välilehdelle 20.10.2026. -->
+    <div id="aikajanaVarasto" hidden>
+      <div class="aikajana" id="aikajana" role="group" aria-label="Suositukset vuosittain – valitse vuosi"></div>
+    </div>
 
     <!-- Alasivujen otsake: suosittelijan profiili, suosikit, suosittelijalista -->
     <section class="sivuotsake" id="sivuotsake" hidden></section>
