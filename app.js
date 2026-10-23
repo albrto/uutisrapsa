@@ -2341,7 +2341,7 @@ function avaaPalaute(rec = null) {
   $('#palauteOtsikko').textContent = rec ? 'Ilmoita virheestä' : 'Anna palautetta';
   $('#palauteOhje').innerHTML = rec
     ? `Mikä suosituksessa <strong>${escapeHtml(rec.teos)}</strong> (${escapeHtml(rec.paivamaara)}) on pielessä? Väärä suosittelija, nimi tai kuvaus – kerro, niin korjataan.`
-    : 'Kehu, moiti tai ehdota korjausta – kaikki viestit luetaan.';
+    : 'Kehu, moiti tai ehdota korjausta – kaikki viestit luetaan. Viestit tulevat tämän fanisivuston tekijälle, eivät podcastin toimitukselle.';
   avaaModaali('palaute', $('#palauteDialogi'));
   setTimeout(() => $('#palauteViesti').focus(), 60);
 }
