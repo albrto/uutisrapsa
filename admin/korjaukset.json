@@ -1996,5 +1996,23 @@
       ],
       "alkupera": "kotimainen"
     }
+  },
+  {
+    "jakso_id": "4aeb117c-340b-4f31-b31d-f01023e57f41",
+    "jakso_otsikko": "Kokpers/perskok, Bishmillah c'est les ténèbres!, suomalaiset datapisteinä",
+    "paivamaara": "22.10.2026",
+    "r_idx": 2,
+    "teos": "Money to Burn",
+    "uusi_data": {
+      "teos": "Money to Burn",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Suositellaan journalisti William D. Cohanin kirjoittamaa tietokirjaa Apollo-sijoitusyhtiön perustajasta Leon Blackista, joka alkaa menestystarinana mutta muuttuu kuvaukseksi hänen kytköksistään Jeffrey Epsteiniin.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "talous",
+        "tietokirjallisuus",
+        "yhdysvallat"
+      ]
+    }
   }
 ]
