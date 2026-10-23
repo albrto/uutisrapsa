@@ -16000,7 +16000,7 @@
         "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
-        "teos": "Myitso Bern",
+        "teos": "Money to Burn",
         "paakategoria": "kirja",
         "kategoriat": [
           "talous",
@@ -16016,8 +16016,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "tuntematon",
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Sijoituskästi",
         "paakategoria": "podcast",
         "kategoriat": [
