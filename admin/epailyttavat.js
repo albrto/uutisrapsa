@@ -16000,7 +16000,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": true,
         "suosittelija": "tuntematon",
-        "teos": "Myitso Bern",
+        "teos": "Money to Burn",
         "paakategoria": "kirja",
         "kategoriat": [
           "talous",
@@ -16018,7 +16018,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": true,
         "suosittelija": "tuntematon",
-        "teos": "Sijoituskäsi",
+        "teos": "Sijoituskästi",
         "paakategoria": "podcast",
         "kategoriat": [
           "Ukraina",
