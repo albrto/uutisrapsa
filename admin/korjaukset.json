@@ -1867,5 +1867,42 @@
     "paivamaara": "22.10.2026",
     "r_idx": 1,
     "teos": "Mökkiloma Lapin hiihtoladun varrella ilman kännykkää"
+  },
+  {
+    "jakso_id": "4aeb117c-340b-4f31-b31d-f01023e57f41",
+    "jakso_otsikko": "Kokpers/perskok, Bishmillah c'est les ténèbres!, suomalaiset datapisteinä",
+    "paivamaara": "22.10.2026",
+    "r_idx": 2,
+    "teos": "Myitso Bern",
+    "uusi_data": {
+      "teos": "Money to Burn",
+      "suosittelija": "tuntematon",
+      "kuvaus": "Suositellaan journalistin kirjoittamaa tietokirjaa Apollo-sijoitusyhtiön perustajasta Leon Blackista, joka alkaa menestystarinana mutta muuttuu kuvaukseksi hänen kytköksistään Jeffrey Epsteiniin.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "talous",
+        "tietokirjallisuus",
+        "yhdysvallat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "4aeb117c-340b-4f31-b31d-f01023e57f41",
+    "jakso_otsikko": "Kokpers/perskok, Bishmillah c'est les ténèbres!, suomalaiset datapisteinä",
+    "paivamaara": "22.10.2026",
+    "r_idx": 3,
+    "teos": "Sijoituskäsi",
+    "uusi_data": {
+      "teos": "Sijoituskästi",
+      "suosittelija": "tuntematon",
+      "kuvaus": "Suositellaan suositun sijoituspodcastin jaksoa, jonka vieraana oli Ukrainassa taisteleva suomalainen vapaaehtoinen 'Lumipallo'. Hän kertoo droonisodankäynnistä ja Suomen puolustusvoimien valmiuksista, ja podcastin juontajia kehutaan taitavista kysymyksistä.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "Ukraina",
+        "sota",
+        "sijoittaminen"
+      ],
+      "alkupera": "kotimainen"
+    }
   }
 ]
