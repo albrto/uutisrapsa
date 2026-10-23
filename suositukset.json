@@ -14,7 +14,8 @@
         "kategoriat": [
           "rentoutuminen",
           "hyvinvointi"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Mökkiloma Lapin hiihtoladun varrella ilman kännykkää",
@@ -27,7 +28,8 @@
           "lomailu",
           "digidetox",
           "luonto"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Myitso Bern",

@@ -15976,11 +15976,11 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
-        "piilotettu": false
+        "piilotettu": true
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "tuntematon",
         "teos": "Mökkiloma Lapin hiihtoladun varrella ilman kännykkää",
         "paakategoria": "muu",
@@ -15994,7 +15994,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
-        "piilotettu": false
+        "piilotettu": true
       },
       {
         "r_idx": 2,
