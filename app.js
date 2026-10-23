@@ -2733,8 +2733,8 @@ function setupPerustoiminnot() {
   });
 }
 
-// Pikkujoululaskuri heron alla. Alkuhetki on arvio (Ravintola Töölö 2.12.2026, kellonaika
-// ei vielä tiedossa → klo 18 Suomen aikaa = 16 UTC), siksi otsakkeessa "noin*".
+// Pikkujoululaskuri heron alla. Ravintola Töölö 2.12.2026: ovet klo 18 Suomen aikaa = 16 UTC,
+// ohjelma klo 19 (kerrottu 22.10. jaksossa "noin suurin piirtein"), siksi otsakkeessa "noin*".
 // Yli vuorokausi jäljellä: päivät, tunnit ja minuutit; viimeinen vuorokausi sekunteineen
 // (juoksevat sekunnit veisivät viikkokausia liikaa huomiota). Juhlien aikana teksti vaihtuu,
 // ja PIKKUJOULUT_LOPPU jälkeen laskuri piiloutuu itsestään.
