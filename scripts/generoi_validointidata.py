@@ -119,26 +119,36 @@ def main():
             suosittelija = rec.get("suosittelija", "")
             
             # Tarkistetaan onko tämä suositus epäilyttävä
-            is_suspicious = False
+            # Liputuksen syyt adminin varoitustekstiä varten:
+            # "tuntematon" = puhujaa ei tunnistettu, "ei_osallistuja" = nimi ei
+            # ole jakson RSS-osallistujissa, "ei_tunnettu" = nimi on
+            # osallistujissa, mutta ei täsmälleen TUNNETUT_NIMET-listassa.
+            syyt = []
             if suosittelija:
-                if rss_osallistujat and not loytyy(suosittelija, rss_osallistujat):
-                    is_suspicious = True
-                # Tarkan kirjoitusasun invariantti: lähes oikea nimi (esim.
-                # "Johnn Helin") ei saa mennä loytyy():n sukunimiosuman turvin
-                # läpi — kaikki muut kuin täsmälleen tunnetut nimet liputetaan.
-                if suosittelija != "tuntematon" and suosittelija not in TUNNETUT_NIMET:
-                    is_suspicious = True
-                if is_suspicious and (jakso_id, r_idx) in ohitukset_set:
-                    is_suspicious = False
+                if suosittelija == "tuntematon":
+                    if rss_osallistujat:
+                        syyt.append("tuntematon")
+                else:
+                    if rss_osallistujat and not loytyy(suosittelija, rss_osallistujat):
+                        syyt.append("ei_osallistuja")
+                    # Tarkan kirjoitusasun invariantti: lähes oikea nimi (esim.
+                    # "Johnn Helin") ei saa mennä loytyy():n sukunimiosuman turvin
+                    # läpi — kaikki muut kuin täsmälleen tunnetut nimet liputetaan.
+                    if suosittelija not in TUNNETUT_NIMET:
+                        syyt.append("ei_tunnettu")
+                if (jakso_id, r_idx) in ohitukset_set:
+                    syyt = []
             # Sivulta piilotettua (poistettua) ei tarvitse enää tarkistaa
             if rec.get("piilotettu"):
-                is_suspicious = False
+                syyt = []
+            is_suspicious = bool(syyt)
             
             # Lisää kaikki suositukset listaan (oli ne epäilyttäviä tai ei)
             # Rajoitetaan määrää hieman jos satoja, mutta tässä otetaan kaikki
             muokattavat_jaksot[jakso_id]["suositukset"].append({
                 "r_idx": r_idx,
                 "is_suspicious": is_suspicious,
+                "epailyn_syyt": syyt,
                 "suosittelija": suosittelija,
                 "teos": rec.get("teos", "?"),
                 "paakategoria": rec.get("paakategoria", ""),

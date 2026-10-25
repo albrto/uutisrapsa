@@ -17,6 +17,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Mare of Easttown",
         "paakategoria": "tv-sarja",
@@ -53,6 +54,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Killers of the Flower Moon",
         "paakategoria": "elokuva",
@@ -72,6 +74,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "The Wager",
         "paakategoria": "kirja",
@@ -91,6 +94,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "The Lost City of Z",
         "paakategoria": "kirja",
@@ -110,6 +114,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Topi Kosunen",
         "teos": "The Last Weeks",
         "paakategoria": "podcast",
@@ -129,6 +134,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Yövartiosto",
         "paakategoria": "kirja",
@@ -165,6 +171,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "Dark Waters",
         "paakategoria": "elokuva",
@@ -184,6 +191,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Politics Theory Other",
         "paakategoria": "podcast",
@@ -203,6 +211,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "MasterChef Australia",
         "paakategoria": "tv-sarja",
@@ -239,6 +248,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "We Own This City",
         "paakategoria": "tv-sarja",
@@ -275,6 +285,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "When Einstein Walked with Gödel: Excursions to the Edge of Thought",
         "paakategoria": "kirja",
@@ -311,6 +322,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Elvis Presley in Concert (dokumenttielokuva)",
         "paakategoria": "elokuva",
@@ -330,6 +342,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Moulin Rouge!",
         "paakategoria": "elokuva",
@@ -349,6 +362,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Everybody's Free (To Wear Sunscreen)",
         "paakategoria": "musiikki",
@@ -368,6 +382,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "East West Street",
         "paakategoria": "kirja",
@@ -387,6 +402,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Whispers in the Moss (peli)",
         "paakategoria": "muu",
@@ -423,6 +439,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Splendid and the Vile",
         "paakategoria": "kirja",
@@ -442,6 +459,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Plot Against America",
         "paakategoria": "tv-sarja",
@@ -461,6 +479,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Good Bread (artikkeli, The New Yorker)",
         "paakategoria": "artikkeli",
@@ -497,6 +516,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Fauda",
         "paakategoria": "tv-sarja",
@@ -516,6 +536,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Babylon Berlin",
         "paakategoria": "tv-sarja",
@@ -552,6 +573,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Science of Mind Reading – James Somers",
         "paakategoria": "artikkeli",
@@ -571,6 +593,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Immuunijärjestelmä ja COVID-19 – James Somers",
         "paakategoria": "artikkeli",
@@ -590,6 +613,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Sivullinen-kirjakauppa, Kaisaniemi",
         "paakategoria": "kulttuuri",
@@ -609,6 +633,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kirjakauppakahvilassa vierailu matkoilla ja kirjan ostaminen matkamuistoksi",
         "paakategoria": "muu",
@@ -628,6 +653,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "James Somers (toimittaja, jsomers.net)",
         "paakategoria": "muu",
@@ -663,6 +689,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Huset (tanskalainen vankilasarja)",
         "paakategoria": "tv-sarja",
@@ -682,6 +709,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Korkeintaan vähän väsynyt",
         "paakategoria": "kirja",
@@ -714,6 +742,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Black Rabbit",
         "paakategoria": "tv-sarja",
@@ -733,6 +762,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "How Do We Change Our Confidence Trajectory?",
         "paakategoria": "artikkeli",
@@ -770,6 +800,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "All the Worst Humans",
         "paakategoria": "kirja",
@@ -806,6 +837,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Ei enää (Annie Ernaux)",
         "paakategoria": "kirja",
@@ -825,6 +857,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "Ulkolinja: Iran ja Yhdysvallat (Yle Areena -dokumentti)",
         "paakategoria": "tv-sarja",
@@ -844,6 +877,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kari Haakanan toimittajamuistelmat",
         "paakategoria": "kirja",
@@ -880,6 +914,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "True Story: Murder, Memoir, Mea Culpa",
         "paakategoria": "kirja",
@@ -899,6 +934,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kesälomakellarissa",
         "paakategoria": "musiikki",
@@ -917,6 +953,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Cairo Affair",
         "paakategoria": "kirja",
@@ -936,6 +973,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Hunting Warhead",
         "paakategoria": "podcast",
@@ -955,6 +993,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "House of the Dragon",
         "paakategoria": "tv-sarja",
@@ -991,6 +1030,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "The Dropout",
         "paakategoria": "tv-sarja",
@@ -1010,6 +1050,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jukka Huusko",
         "teos": "Madoff: The Monster of Wall Street",
         "paakategoria": "tv-sarja",
@@ -1029,6 +1070,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jukka Huusko",
         "teos": "Maameren velho",
         "paakategoria": "kirja",
@@ -1048,6 +1090,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "Unelmakoti Sisiliassa",
         "paakategoria": "tv-sarja",
@@ -1084,6 +1127,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "Musta pilleri",
         "paakategoria": "artikkeli",
@@ -1103,6 +1147,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Teemu Muhonen",
         "teos": "Kyllä, ministeri",
         "paakategoria": "tv-sarja",
@@ -1122,6 +1167,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Monty Pythonin lentävä sirkus",
         "paakategoria": "tv-sarja",
@@ -1158,6 +1204,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Sauna (Kasper Strömman -sarja)",
         "paakategoria": "tv-sarja",
@@ -1177,6 +1224,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Ilmo Ilkka",
         "teos": "Origin Story (podcast)",
         "paakategoria": "podcast",
@@ -1196,6 +1244,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Inkeri Harju",
         "teos": "Kaikki synnit (kausi 2)",
         "paakategoria": "tv-sarja",
@@ -1232,6 +1281,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Sara Vainio",
         "teos": "Hyvän historia (Humankind)",
         "paakategoria": "kirja",
@@ -1251,6 +1301,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Twilight-elokuvasarja",
         "paakategoria": "elokuva",
@@ -1270,6 +1321,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Joel Sloten näyttely – Tampereen taidemuseo",
         "paakategoria": "kulttuuri",
@@ -1306,6 +1358,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Putinin sisäpiiri",
         "paakategoria": "kirja",
@@ -1325,6 +1378,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "Jälkiviisas historia – Ruben Stiller",
         "paakategoria": "podcast",
@@ -1344,6 +1398,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Traffic",
         "paakategoria": "kirja",
@@ -1363,6 +1418,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Pitkä tie Natoon",
         "paakategoria": "kirja",
@@ -1395,6 +1451,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
@@ -1414,6 +1471,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Sideways Festival",
         "paakategoria": "kulttuuri",
@@ -1448,6 +1506,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sinun Margot",
         "paakategoria": "kirja",
@@ -1467,6 +1526,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sinun Margot (näytelmä, Helsingin Kaupunginteatteri)",
         "paakategoria": "kulttuuri",
@@ -1486,6 +1546,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "The Righteous Gemstones",
         "paakategoria": "tv-sarja",
@@ -1522,6 +1583,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Greatest Nights in Pop (dokumentti)",
         "paakategoria": "elokuva",
@@ -1541,6 +1603,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Alison Roman – reseptit",
         "paakategoria": "ruoka",
@@ -1560,6 +1623,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Viki ja Köpi matkailuohjelma – kausi 2",
         "paakategoria": "tv-sarja",
@@ -1596,6 +1660,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Jacques Brel -dokumentti (Yle Areena)",
         "paakategoria": "elokuva",
@@ -1615,6 +1680,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Futility Closet",
         "paakategoria": "podcast",
@@ -1634,6 +1700,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Taru Salamurhojen Oppipoika",
         "paakategoria": "kirja",
@@ -1652,6 +1719,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Katiska",
         "paakategoria": "kirja",
@@ -1688,6 +1756,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Paljastus – tarina dopinguutisesta ja toimittajasta, joka haluttiin vaientaa",
         "paakategoria": "kirja",
@@ -1707,6 +1776,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Levyraati",
         "paakategoria": "tv-sarja",
@@ -1726,6 +1796,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sali 403 – Suomalainen rikos on onneton sotku",
         "paakategoria": "artikkeli",
@@ -1745,6 +1816,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "A Teen's Fatal Plunge into the London Underworld",
         "paakategoria": "artikkeli",
@@ -1781,6 +1853,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Singles Inferno (kausi 2)",
         "paakategoria": "tv-sarja",
@@ -1800,6 +1873,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Poliittiset päiväkirjat 2003–2004 (Erkki Tuomioja)",
         "paakategoria": "kirja",
@@ -1819,6 +1893,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Only Murders in the Building",
         "paakategoria": "tv-sarja",
@@ -1838,6 +1913,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "ChatGPT",
         "paakategoria": "muu",
@@ -1870,6 +1946,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Unto Hämäläinen",
         "teos": "Jaakko Teppo – elämäkerta",
         "paakategoria": "kirja",
@@ -1889,6 +1966,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Unto Hämäläinen",
         "teos": "Harry Potter -kirjasarja",
         "paakategoria": "kirja",
@@ -1908,6 +1986,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Saara Aalto – X Factor Iso-Britannia",
         "paakategoria": "musiikki",
@@ -1940,6 +2019,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Juha Kauppinen",
         "teos": "Iivisniemen pesänjakajat",
         "paakategoria": "artikkeli",
@@ -1959,6 +2039,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "HyperNormalisaatio",
         "paakategoria": "elokuva",
@@ -1995,6 +2076,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Suliko",
         "paakategoria": "kulttuuri",
@@ -2013,6 +2095,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Suvi Turtiainen",
         "teos": "Kehollinen luova ajattelu -työpaja",
         "paakategoria": "muu",
@@ -2049,6 +2132,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Laiton lapsi (Born a Crime)",
         "paakategoria": "kirja",
@@ -2068,6 +2152,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sunderland 'Til I Die",
         "paakategoria": "tv-sarja",
@@ -2104,6 +2189,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Cover Up",
         "paakategoria": "elokuva",
@@ -2123,6 +2209,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Popeda",
         "paakategoria": "musiikki",
@@ -2142,6 +2229,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Down Cemetery Road",
         "paakategoria": "tv-sarja",
@@ -2161,6 +2249,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Children of Ash and Elm: A History of the Vikings",
         "paakategoria": "kirja",
@@ -2180,6 +2269,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kalevala (sarjakuva)",
         "paakategoria": "kirja",
@@ -2217,6 +2307,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "When McKinsey Comes to Town",
         "paakategoria": "kirja",
@@ -2236,6 +2327,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Minne virta kuljettaa",
         "paakategoria": "kirja",
@@ -2255,6 +2347,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Vallisaari",
         "paakategoria": "kulttuuri",
@@ -2274,6 +2367,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Rise and Fall of the Third Reich",
         "paakategoria": "kirja",
@@ -2306,6 +2400,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Helsingin uimastadionin ranskalaiset",
         "paakategoria": "ruoka",
@@ -2325,6 +2420,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Ensitreffit alttarilla Australia",
         "paakategoria": "tv-sarja",
@@ -2344,6 +2440,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Rest Is History",
         "paakategoria": "podcast",
@@ -2363,6 +2460,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Michael Collins",
         "paakategoria": "elokuva",
@@ -2382,6 +2480,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Stakeknife",
         "paakategoria": "podcast",
@@ -2401,6 +2500,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Helsingin uimastadion",
         "paakategoria": "muu",
@@ -2438,6 +2538,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alli Hallonblad",
         "teos": "The Ezra Klein Show: What's Really Going On in Russia",
         "paakategoria": "podcast",
@@ -2459,6 +2560,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "La Haine",
         "paakategoria": "elokuva",
@@ -2478,6 +2580,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Venla Kuokkanen",
         "teos": "Aleksi",
         "paakategoria": "kirja",
@@ -2497,6 +2600,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Jaakko Muilu",
         "teos": "Pyöräretki Laurinlahden uimarannalle",
         "paakategoria": "muu",
@@ -2533,6 +2639,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keskiyön Kaninkolo",
         "paakategoria": "podcast",
@@ -2552,6 +2659,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Totuus palvelutalosta",
         "paakategoria": "artikkeli",
@@ -2588,6 +2696,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Mating",
         "paakategoria": "tv-sarja",
@@ -2607,6 +2716,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Peaky Blinders",
         "paakategoria": "tv-sarja",
@@ -2626,6 +2736,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Irishman",
         "paakategoria": "elokuva",
@@ -2645,6 +2756,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Silence",
         "paakategoria": "elokuva",
@@ -2681,6 +2793,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Okaisu – japanilaista kasvisruokaa",
         "paakategoria": "kirja",
@@ -2700,6 +2813,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Better Call Saul",
         "paakategoria": "tv-sarja",
@@ -2737,6 +2851,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Anna Brotkin ja Juho Mantereen uusi nousu (esitys)",
         "paakategoria": "kulttuuri",
@@ -2756,6 +2871,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Laman lapset – mitä meille tapahtui?",
         "paakategoria": "kirja",
@@ -2775,6 +2891,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "The New York Times",
         "paakategoria": "artikkeli",
@@ -2794,6 +2911,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Avatar: The Last Airbender (Netflix-sarja)",
         "paakategoria": "tv-sarja",
@@ -2813,6 +2931,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
@@ -2849,6 +2968,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "MS Romantika",
         "paakategoria": "tv-sarja",
@@ -2885,6 +3005,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Slow Horses, kausi 3",
         "paakategoria": "tv-sarja",
@@ -2904,6 +3025,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Pete Poskiparran mentalistishow",
         "paakategoria": "kulttuuri",
@@ -2923,6 +3045,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ihana raha – Tampereen Työväen Teatteri",
         "paakategoria": "kulttuuri",
@@ -2942,6 +3065,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Nehtilän tilan joulumarkkinat",
         "paakategoria": "muu",
@@ -2961,6 +3085,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Fallout (tv-sarja)",
         "paakategoria": "tv-sarja",
@@ -2980,6 +3105,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keho: Opas asukkaalle",
         "paakategoria": "kirja",
@@ -3016,6 +3142,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Catch and Kill",
         "paakategoria": "kirja",
@@ -3035,6 +3162,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Undoing Project",
         "paakategoria": "kirja",
@@ -3054,6 +3182,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Puhu vain siitä, mistä tiedät (Long Play / Sivuääni)",
         "paakategoria": "artikkeli",
@@ -3073,6 +3202,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The House of Lost Souls (Thrilling Adventures)",
         "paakategoria": "artikkeli",
@@ -3109,6 +3239,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Peril (Perillä)",
         "paakategoria": "kirja",
@@ -3128,6 +3259,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Squid Game",
         "paakategoria": "tv-sarja",
@@ -3164,6 +3296,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Don't Look Up",
         "paakategoria": "elokuva",
@@ -3183,6 +3316,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Empire of Pain: The Secret History of the Sackler Dynasty",
         "paakategoria": "kirja",
@@ -3219,6 +3353,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "This Naked Mind",
         "paakategoria": "kirja",
@@ -3238,6 +3373,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kultainen kompassi",
         "paakategoria": "kirja",
@@ -3257,6 +3393,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Three Identical Strangers",
         "paakategoria": "elokuva",
@@ -3276,6 +3413,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "DALL-E",
         "paakategoria": "muu",
@@ -3308,6 +3446,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Neuromaani-esitys (Marian sairaala)",
         "paakategoria": "kulttuuri",
@@ -3327,6 +3466,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Food Wishes (YouTube-kanava)",
         "paakategoria": "muu",
@@ -3364,6 +3504,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Ensitreffit alttarilla Australia (viime vuoden kausi)",
         "paakategoria": "tv-sarja",
@@ -3382,6 +3523,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Love Island UK, kausi 3",
         "paakategoria": "tv-sarja",
@@ -3401,6 +3543,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Topi Kosunen",
         "teos": "The Strokes – Reality Awaits",
         "paakategoria": "musiikki",
@@ -3420,6 +3563,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Ile Vainion loppukesän hiljaisuus",
         "paakategoria": "muu",
@@ -3438,6 +3582,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Tikanheitto, lautapelit ja syvälliset keskustelut ystävien kanssa",
         "paakategoria": "muu",
@@ -3474,6 +3619,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Tuca & Bertie (1. tuotantokausi)",
         "paakategoria": "tv-sarja",
@@ -3493,6 +3639,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Ghost of Tsushima",
         "paakategoria": "muu",
@@ -3512,6 +3659,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Villa Gyllenbergin esoteerisen taiteen näyttely",
         "paakategoria": "kulttuuri",
@@ -3531,6 +3679,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Onni Niemi",
         "teos": "Variksen kaaduin sylin verta ja aloin pelätä pyöräilemistä",
         "paakategoria": "artikkeli",
@@ -3565,6 +3714,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "A Man in Full",
         "paakategoria": "tv-sarja",
@@ -3584,6 +3734,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "404 Media -podcast",
         "paakategoria": "podcast",
@@ -3620,6 +3771,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Aino Frilander",
         "teos": "The Intersectionality Wars",
         "paakategoria": "artikkeli",
@@ -3639,6 +3791,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Fissioaktori-blogi (Jaakko Leppänen)",
         "paakategoria": "artikkeli",
@@ -3675,6 +3828,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jaakko Lyytinen",
         "teos": "Keski-ikäinen Oslo (Nina Lykke -romaani)",
         "paakategoria": "kirja",
@@ -3694,6 +3848,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jaakko Lyytinen",
         "teos": "Piisparomaani",
         "paakategoria": "kirja",
@@ -3713,6 +3868,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Sydämen asioita – perhe ja planeettakriisi",
         "paakategoria": "kirja",
@@ -3732,6 +3888,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Universumin tomu",
         "paakategoria": "kirja",
@@ -3768,6 +3925,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Fuska-ravintola, Oulu",
         "paakategoria": "ruoka",
@@ -3787,6 +3945,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Succession-sessio",
         "paakategoria": "podcast",
@@ -3806,6 +3965,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Benji Plants",
         "paakategoria": "muu",
@@ -3825,6 +3985,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "A-studio: Matti Vanhanen vieraana",
         "paakategoria": "tv-sarja",
@@ -3861,6 +4022,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Demon Copperhead",
         "paakategoria": "kirja",
@@ -3880,6 +4042,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Zero Day",
         "paakategoria": "tv-sarja",
@@ -3899,6 +4062,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Severance",
         "paakategoria": "tv-sarja",
@@ -3918,6 +4082,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Orjalauluista hiphoppiin – Mustan musiikin sielua etsimässä",
         "paakategoria": "kirja",
@@ -3954,6 +4119,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "An Unfinished Love Story: A Personal History of the 1960s",
         "paakategoria": "kirja",
@@ -3973,6 +4139,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Severance",
         "paakategoria": "tv-sarja",
@@ -3992,6 +4159,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Waffle Party (Bald Move -podcast)",
         "paakategoria": "podcast",
@@ -4028,6 +4196,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Dolly Parton's America",
         "paakategoria": "podcast",
@@ -4047,6 +4216,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Watership Down (Ruohometsän kansa)",
         "paakategoria": "kirja",
@@ -4066,6 +4236,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Energy: A Human History",
         "paakategoria": "kirja",
@@ -4103,6 +4274,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Pitkä vuoro",
         "paakategoria": "kirja",
@@ -4122,6 +4294,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "A Complete Unknown",
         "paakategoria": "elokuva",
@@ -4141,6 +4314,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Say Nothing",
         "paakategoria": "kirja",
@@ -4160,6 +4334,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sardelli-oliivi-kapris-pizza",
         "paakategoria": "ruoka",
@@ -4196,6 +4371,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Finding My Torturer (BBC)",
         "paakategoria": "artikkeli",
@@ -4215,6 +4391,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Midjourney",
         "paakategoria": "muu",
@@ -4234,6 +4411,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Little Earthquakes – Tori Amos",
         "paakategoria": "musiikki",
@@ -4270,6 +4448,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kunnon kansalainen",
         "paakategoria": "kirja",
@@ -4289,6 +4468,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Hamilton",
         "paakategoria": "kulttuuri",
@@ -4308,6 +4488,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Slow Horses",
         "paakategoria": "tv-sarja",
@@ -4327,6 +4508,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Presumed Innocent",
         "paakategoria": "tv-sarja",
@@ -4346,6 +4528,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Wieninjuojat",
         "paakategoria": "kirja",
@@ -4382,6 +4565,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "RuPaul's Drag Race, kausi 11",
         "paakategoria": "tv-sarja",
@@ -4401,6 +4585,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Fiasco: The Inside Story of the Brexit Talks",
         "paakategoria": "artikkeli",
@@ -4436,6 +4621,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Memories of Murder",
         "paakategoria": "elokuva",
@@ -4455,6 +4641,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Goldberg-variaatiot – Glenn Gould",
         "paakategoria": "musiikki",
@@ -4474,6 +4661,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Luzer",
         "paakategoria": "kirja",
@@ -4506,6 +4694,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Imitation Game",
         "paakategoria": "elokuva",
@@ -4525,6 +4714,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Katriina",
         "paakategoria": "kirja",
@@ -4544,6 +4734,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Mees, kes teadis ussisõnu (The Man Who Spoke Snakish)",
         "paakategoria": "kirja",
@@ -4580,6 +4771,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Robert K. Tanenbaum: Karp-dekkarisarja",
         "paakategoria": "kirja",
@@ -4599,6 +4791,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Esseitä eläimistä",
         "paakategoria": "kirja",
@@ -4618,6 +4811,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The New Atlantis",
         "paakategoria": "artikkeli",
@@ -4654,6 +4848,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Muistimerkintöjä Moskovasta",
         "paakategoria": "kirja",
@@ -4673,6 +4868,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Pistaasilevite",
         "paakategoria": "ruoka",
@@ -4692,6 +4888,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "The Swedish Connection",
         "paakategoria": "elokuva",
@@ -4711,6 +4908,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Keskellä virtaa – Kongo",
         "paakategoria": "kirja",
@@ -4743,6 +4941,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Nuclear Family (The Atlantic)",
         "paakategoria": "artikkeli",
@@ -4762,6 +4961,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Better Call Saul",
         "paakategoria": "tv-sarja",
@@ -4781,6 +4981,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Daily Show ja Last Week Tonight with John Oliver",
         "paakategoria": "tv-sarja",
@@ -4817,6 +5018,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Olympialaisten avajaiset – Milano Cortina 2026",
         "paakategoria": "urheilu",
@@ -4836,6 +5038,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Työaikainen ruokailusuositus",
         "paakategoria": "muu",
@@ -4855,6 +5058,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Lahti matkakohteena",
         "paakategoria": "muu",
@@ -4874,6 +5078,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Mamma Rosa, Lahti",
         "paakategoria": "ruoka",
@@ -4910,6 +5115,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Godfather - kirja (Mark Seal: Leave the Gun, Take the Cannoli)",
         "paakategoria": "kirja",
@@ -4929,6 +5135,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Angels in America (Kansallisteatteri)",
         "paakategoria": "kulttuuri",
@@ -4948,6 +5155,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Apprentice (elokuva)",
         "paakategoria": "elokuva",
@@ -4967,6 +5175,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Tuntematon sotilas (Lahtelainen pienteatteri / Vanha Jukko)",
         "paakategoria": "kulttuuri",
@@ -5003,6 +5212,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Karita Mattilan oopperaesitys – Vesa Shireenin arvio Helsingin Sanomissa",
         "paakategoria": "artikkeli",
@@ -5022,6 +5232,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Pokémon GO",
         "paakategoria": "muu",
@@ -5058,6 +5269,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Tokyo Vice",
         "paakategoria": "tv-sarja",
@@ -5077,6 +5289,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sinulle, Margot",
         "paakategoria": "kirja",
@@ -5114,6 +5327,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Expats",
         "paakategoria": "kirja",
@@ -5133,6 +5347,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Accident",
         "paakategoria": "kirja",
@@ -5151,6 +5366,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Travelers",
         "paakategoria": "kirja",
@@ -5170,6 +5386,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Pauliina Siniauer",
         "teos": "Ovi oli koko ajan auki",
         "paakategoria": "artikkeli",
@@ -5189,6 +5408,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Sami Sillanpää",
         "teos": "Ruplaruhtinat",
         "paakategoria": "kirja",
@@ -5208,6 +5430,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Hope This Helps",
         "paakategoria": "podcast",
@@ -5244,6 +5467,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Matilda Jokinen",
         "teos": "Rememberings",
         "paakategoria": "kirja",
@@ -5263,6 +5487,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alli Hallonblad",
         "teos": "Kristiinankaupungin merimuseo",
         "paakategoria": "kulttuuri",
@@ -5282,6 +5507,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Mengelen elämäkerta äänikirjana ennen nukkumaanmenoa",
         "paakategoria": "kirja",
@@ -5319,6 +5545,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Inkeri Harju",
         "teos": "Dopesick",
         "paakategoria": "tv-sarja",
@@ -5338,6 +5565,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Vaatelakko",
         "paakategoria": "muu",
@@ -5357,6 +5585,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Ilmo Ilkka",
         "teos": "Final Fantasy VII Remake",
         "paakategoria": "muu",
@@ -5376,6 +5605,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Thomas Bernhard – tuotanto",
         "paakategoria": "kirja",
@@ -5413,6 +5643,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "Dirty John",
         "paakategoria": "podcast",
@@ -5432,6 +5663,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Jet Lag: The Game",
         "paakategoria": "muu",
@@ -5451,6 +5683,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Challengers",
         "paakategoria": "elokuva",
@@ -5470,6 +5703,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Sami & Jorma",
         "paakategoria": "podcast",
@@ -5506,6 +5740,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "Sivurajaheitto",
         "paakategoria": "podcast",
@@ -5525,6 +5760,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "99% Invisible",
         "paakategoria": "podcast",
@@ -5544,6 +5780,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Ilmastouutiset – Timo Korven päästöpaasto",
         "paakategoria": "podcast",
@@ -5580,6 +5817,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Philadelphia's Been Good to Me (Kurt Vile)",
         "paakategoria": "musiikki",
@@ -5599,6 +5837,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Varkaiden kaupunki (Patrick Radden Keefe)",
         "paakategoria": "kirja",
@@ -5617,6 +5856,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sketsipoika78 (Instagram)",
         "paakategoria": "kulttuuri",
@@ -5636,6 +5876,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kaisa Koivisto (Instagram/TikTok)",
         "paakategoria": "kulttuuri",
@@ -5655,6 +5896,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Kivijalkakaupoissa asiointi",
         "paakategoria": "muu",
@@ -5690,6 +5932,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Wind of Change -podcast",
         "paakategoria": "podcast",
@@ -5709,6 +5952,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Say Nothing",
         "paakategoria": "kirja",
@@ -5728,6 +5972,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "LA 92",
         "paakategoria": "dokumentti",
@@ -5747,6 +5992,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Detroit",
         "paakategoria": "elokuva",
@@ -5766,6 +6012,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Education of an Idealist",
         "paakategoria": "kirja",
@@ -5798,6 +6045,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Etana Serum (korealainen etanalima-kosmetiikka)",
         "paakategoria": "muu",
@@ -5817,6 +6065,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Antin koulumatka",
         "paakategoria": "podcast",
@@ -5836,6 +6085,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Euroviisut 2023 – esityksiin perehtyminen etukäteen",
         "paakategoria": "kulttuuri",
@@ -5855,6 +6105,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Annihilation",
         "paakategoria": "elokuva",
@@ -5874,6 +6125,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Annihilation (kirja)",
         "paakategoria": "kirja",
@@ -5893,6 +6145,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "True Detective – kausi 1",
         "paakategoria": "tv-sarja",
@@ -5929,6 +6182,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Sanalouhos",
         "paakategoria": "muu",
@@ -5948,6 +6202,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Pako Pohjois-Koreasta",
         "paakategoria": "tv-sarja",
@@ -5984,6 +6239,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Robert Murdoch -erikoisraportti (New York Times)",
         "paakategoria": "artikkeli",
@@ -6003,6 +6259,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "A Mind at Play: How Claude Shannon Invented the Information Age",
         "paakategoria": "kirja",
@@ -6039,6 +6296,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "True Believer: The Rise and Fall of Stan Lee",
         "paakategoria": "kirja",
@@ -6058,6 +6316,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Can't Get You Out of My Head",
         "paakategoria": "tv-sarja",
@@ -6077,6 +6336,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Michael Jacksonin Thriller-koreografian opettelu",
         "paakategoria": "muu",
@@ -6112,6 +6372,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "The World in a Grain: The Story of Sand and How It Transformed Civilization",
         "paakategoria": "kirja",
@@ -6131,6 +6392,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Dynasty: New England Patriots",
         "paakategoria": "kirja",
@@ -6167,6 +6429,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Céline Dion – esiintyminen Pariisin olympialaisten avajaisissa 2024",
         "paakategoria": "musiikki",
@@ -6186,6 +6449,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "From Snarling Zombies to Frolicking Dogs (New York Times)",
         "paakategoria": "artikkeli",
@@ -6205,6 +6469,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Leave the World Behind",
         "paakategoria": "elokuva",
@@ -6241,6 +6506,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kaija K",
         "paakategoria": "kirja",
@@ -6260,6 +6526,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ujuni Ahmed -podcast",
         "paakategoria": "podcast",
@@ -6279,6 +6546,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Piraneesi",
         "paakategoria": "kirja",
@@ -6315,6 +6583,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Takkatuli 4K",
         "paakategoria": "tv-sarja",
@@ -6334,6 +6603,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Emperor of Ocean Park",
         "paakategoria": "kirja",
@@ -6353,6 +6623,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Vappu Rossin valoteosnäyttely – Galleria Halmet-Oja",
         "paakategoria": "kulttuuri",
@@ -6372,6 +6643,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "NRK:n artikkeli Sanna Marinista",
         "paakategoria": "artikkeli",
@@ -6404,6 +6676,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Crown",
         "paakategoria": "tv-sarja",
@@ -6423,6 +6696,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anu Koivunen",
         "teos": "Silta",
         "paakategoria": "tv-sarja",
@@ -6442,6 +6716,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Recovery Elevator",
         "paakategoria": "podcast",
@@ -6478,6 +6753,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Star Wars: Ahsoka",
         "paakategoria": "tv-sarja",
@@ -6497,6 +6773,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Matilda Jokinen",
         "teos": "Juuri Hyvää",
         "paakategoria": "kirja",
@@ -6529,6 +6806,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Stranger Things",
         "paakategoria": "tv-sarja",
@@ -6548,6 +6826,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Alex Otin valokuvanäyttely",
         "paakategoria": "kulttuuri",
@@ -6585,6 +6864,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Dogs of Mariupol",
         "paakategoria": "kirja",
@@ -6604,6 +6884,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Helmi Sundström",
         "teos": "Ilmajooga",
         "paakategoria": "urheilu",
@@ -6623,6 +6904,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Jakautunut kansakunta – Yhdysvaltain poliittinen historia Richard Nixonista Barack Obamaan",
         "paakategoria": "kirja",
@@ -6642,6 +6924,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Bosnia ja Hertsegovina matkakohteena (Sarajevo ja Mostar)",
         "paakategoria": "muu",
@@ -6661,6 +6944,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Pää edellä – Lloyd Loidesonin elämäkerta",
         "paakategoria": "kirja",
@@ -6697,6 +6981,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "How Football Leaks Is Exposing Corruption in European Soccer (New Yorker -artikkeli)",
         "paakategoria": "artikkeli",
@@ -6716,6 +7001,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kalorilaskuriappi (esim. MyFitnessPal)",
         "paakategoria": "muu",
@@ -6735,6 +7021,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Aino Frilander",
         "teos": "'I See Any Dinosaur, I Buy It' (Guardian -artikkeli)",
         "paakategoria": "artikkeli",
@@ -6771,6 +7058,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Inventing Anna",
         "paakategoria": "tv-sarja",
@@ -6790,6 +7078,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Moon Knight",
         "paakategoria": "tv-sarja",
@@ -6809,6 +7098,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Drive to Survive",
         "paakategoria": "tv-sarja",
@@ -6846,6 +7136,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Tähänastinen elämä",
         "paakategoria": "kulttuuri",
@@ -6865,6 +7156,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Fear and Loathing on the Campaign Trail '72",
         "paakategoria": "kirja",
@@ -6884,6 +7176,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Boys on the Bus",
         "paakategoria": "kirja",
@@ -6903,6 +7196,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mårten Göstickin näyttely Ateneumissa",
         "paakategoria": "kulttuuri",
@@ -6939,6 +7233,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Amazon-artikkeli (The New Yorker)",
         "paakategoria": "artikkeli",
@@ -6958,6 +7253,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Unbelievable",
         "paakategoria": "tv-sarja",
@@ -6977,6 +7273,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Was It Worth It? (New York Magazine)",
         "paakategoria": "artikkeli",
@@ -7014,6 +7311,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Kotiapulainen",
         "paakategoria": "kirja",
@@ -7032,6 +7330,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "The Only One Left",
         "paakategoria": "kirja",
@@ -7050,6 +7349,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Hiljainen potilas",
         "paakategoria": "kirja",
@@ -7069,6 +7369,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Kiertolainen",
         "paakategoria": "kirja",
@@ -7088,6 +7389,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Nakkikrokotiili",
         "paakategoria": "ruoka",
@@ -7124,6 +7426,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Kuolema Venetsiassa",
         "paakategoria": "kirja",
@@ -7143,6 +7446,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Yoga With Adriene",
         "paakategoria": "muu",
@@ -7162,6 +7466,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Onni Niemi",
         "teos": "Avara luonto",
         "paakategoria": "tv-sarja",
@@ -7197,6 +7502,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Inkeri Harju",
         "teos": "Tiedetrippi",
         "paakategoria": "podcast",
@@ -7216,6 +7522,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Ilmo Ilkka",
         "teos": "Pimeyden vasen käsi",
         "paakategoria": "kirja",
@@ -7235,6 +7542,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Duolingo",
         "paakategoria": "muu",
@@ -7272,6 +7580,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Hacks",
         "paakategoria": "tv-sarja",
@@ -7291,6 +7600,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Superpesis-ottelut",
         "paakategoria": "urheilu",
@@ -7323,6 +7633,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Black Bag",
         "paakategoria": "elokuva",
@@ -7342,6 +7653,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Taking of Getty Oil",
         "paakategoria": "kirja",
@@ -7378,6 +7690,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Mitch McConnell -henkilökuva (artikkeli)",
         "paakategoria": "artikkeli",
@@ -7397,6 +7710,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Mrs. America",
         "paakategoria": "tv-sarja",
@@ -7416,6 +7730,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "The Last Dance",
         "paakategoria": "tv-sarja",
@@ -7452,6 +7767,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kansalliskirjaston digitaaliset sanomalehtiarkistot (digi.kansalliskirjasto.fi)",
         "paakategoria": "muu",
@@ -7471,6 +7787,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Succession-sessio",
         "paakategoria": "podcast",
@@ -7490,6 +7807,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Succession (kausi 4)",
         "paakategoria": "tv-sarja",
@@ -7522,6 +7840,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Minä, Daniel Blake",
         "paakategoria": "elokuva",
@@ -7558,6 +7877,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Mahlamäki",
         "teos": "West End Girl – Lily Allen",
         "paakategoria": "musiikki",
@@ -7577,6 +7897,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Toni Lehtinen",
         "teos": "Oikeusmurha – Rami Mäkinen & Matti Rämö",
         "paakategoria": "kirja",
@@ -7596,6 +7917,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Ultra – Rachel Maddow (podcast)",
         "paakategoria": "podcast",
@@ -7615,6 +7937,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Toni Lehtinen",
         "teos": "Lily Allen ja David Harbour esittelevät New Yorkin kotiaan (YouTube-video)",
         "paakategoria": "muu",
@@ -7651,6 +7974,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kaikki taivaan sini",
         "paakategoria": "kirja",
@@ -7670,6 +7994,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alex af Heurlin",
         "teos": "The Big Lebowski",
         "paakategoria": "elokuva",
@@ -7689,6 +8014,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Dust-to-Digital",
         "paakategoria": "musiikki",
@@ -7708,6 +8034,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keilaaminen",
         "paakategoria": "urheilu",
@@ -7739,6 +8066,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Trump-kirja (Washington Post)",
         "paakategoria": "kirja",
@@ -7758,6 +8086,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pia Elonen",
         "teos": "Mikkelin asemaravintola",
         "paakategoria": "ruoka",
@@ -7777,6 +8106,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Vege-messut",
         "paakategoria": "kulttuuri",
@@ -7813,6 +8143,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Mahlamäki",
         "teos": "Tuhottu lapsuus",
         "paakategoria": "kirja",
@@ -7832,6 +8163,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Regime Change",
         "paakategoria": "kirja",
@@ -7851,6 +8183,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Futucast",
         "paakategoria": "podcast",
@@ -7871,6 +8204,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Luomakunta-podcast",
         "paakategoria": "podcast",
@@ -7889,6 +8223,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tekoälyn (Claude) käyttäminen luonnonilmiöiden seuraamiseen",
         "paakategoria": "muu",
@@ -7925,6 +8260,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Yhdeksäntoista – Ruotsin akatemian romahdus",
         "paakategoria": "kirja",
@@ -7944,6 +8280,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Blankets",
         "paakategoria": "kirja",
@@ -7963,6 +8300,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "What It Takes",
         "paakategoria": "kirja",
@@ -8000,6 +8338,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Havusto",
         "teos": "Jumalat juhlivat öisin",
         "paakategoria": "kirja",
@@ -8019,6 +8358,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Eppu Normaali – Repullinen hittejä",
         "paakategoria": "musiikki",
@@ -8038,6 +8378,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Leevi and the Leavings – Keskiviikko: 41 hittejä",
         "paakategoria": "musiikki",
@@ -8057,6 +8398,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "@WAR: The Rise of the Military-Internet Complex",
         "paakategoria": "kirja",
@@ -8093,6 +8435,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Karpo-dokumentti",
         "paakategoria": "tv-sarja",
@@ -8112,6 +8455,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Mielen tyyneydestä",
         "paakategoria": "kirja",
@@ -8144,6 +8488,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Sensuroimaton Päivärinta (IL-TV)",
         "paakategoria": "tv-sarja",
@@ -8181,6 +8526,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Linnahall-kierros, Tallinna",
         "paakategoria": "kulttuuri",
@@ -8200,6 +8546,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Twuins – Leija Lautamaja (levy)",
         "paakategoria": "musiikki",
@@ -8219,6 +8566,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Niskakangas",
         "teos": "Draghin raportti – B-osa",
         "paakategoria": "artikkeli",
@@ -8238,6 +8586,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Studio",
         "paakategoria": "tv-sarja",
@@ -8274,6 +8623,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Artemis Fowl -kirjasarja",
         "paakategoria": "kirja",
@@ -8293,6 +8643,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Petja Pelli",
         "teos": "Heräämisiä",
         "paakategoria": "kirja",
@@ -8312,6 +8663,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Petja Pelli",
         "teos": "Modernit naiset -näyttely, Ateneum",
         "paakategoria": "kulttuuri",
@@ -8331,6 +8683,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Petja Pelli",
         "teos": "Lintuharrastus ja BirdLife Suomen 100 lajin haaste",
         "paakategoria": "urheilu",
@@ -8350,6 +8703,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Kaukopartiohiihto",
         "paakategoria": "urheilu",
@@ -8369,6 +8723,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Anjalankosken ABC",
         "paakategoria": "ruoka",
@@ -8388,6 +8743,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 6,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Ufojen tarkkailu",
         "paakategoria": "muu",
@@ -8425,6 +8781,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Pamela Anderson doesn't need your redemption",
         "paakategoria": "artikkeli",
@@ -8444,6 +8801,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Love, Pamela",
         "paakategoria": "kirja",
@@ -8463,6 +8821,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Operaatio Kekkonen",
         "paakategoria": "kirja",
@@ -8482,6 +8841,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Articles of Interest",
         "paakategoria": "podcast",
@@ -8518,6 +8878,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "After the Gold Rush – Neil Young",
         "paakategoria": "musiikki",
@@ -8537,6 +8898,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Väylä – Rosa Liksom",
         "paakategoria": "kirja",
@@ -8556,6 +8918,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Hytti nro 6 – Rosa Liksom",
         "paakategoria": "kirja",
@@ -8574,6 +8937,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Taivaanpallo – Olli Jalonen",
         "paakategoria": "kirja",
@@ -8592,6 +8956,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Mikko Hyppösen internet – Mikko Hyppönen",
         "paakategoria": "kirja",
@@ -8628,6 +8993,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Crown (kausi 4)",
         "paakategoria": "tv-sarja",
@@ -8647,6 +9013,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Tommi Uschanov – haastattelu Ylioppilaslehdessä (Tuija Siltamäki)",
         "paakategoria": "artikkeli",
@@ -8666,6 +9033,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "His Dark Materials (Hämärän ainekset)",
         "paakategoria": "tv-sarja",
@@ -8702,6 +9070,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Untold Story of Russiagate and the Road to the War in Ukraine",
         "paakategoria": "artikkeli",
@@ -8721,6 +9090,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Munkkivuori",
         "paakategoria": "tv-sarja",
@@ -8740,6 +9110,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Kirjoittamisesta-podcast: Antti Holma vieraana",
         "paakategoria": "podcast",
@@ -8779,6 +9150,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Mureneva maa (podcast)",
         "paakategoria": "podcast",
@@ -8798,6 +9170,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Pinnan alta – Suomen talouden uusi nousu",
         "paakategoria": "kirja",
@@ -8817,6 +9190,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Aitojamakuja.fi",
         "paakategoria": "ruoka",
@@ -8853,6 +9227,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Surullinen pianisti",
         "paakategoria": "kirja",
@@ -8872,6 +9247,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "This Naked Mind",
         "paakategoria": "podcast",
@@ -8891,6 +9267,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Markus Selin – Perustuu tositapahtumiin",
         "paakategoria": "kirja",
@@ -8923,6 +9300,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Omenakrokotiilin kuolema",
         "paakategoria": "kirja",
@@ -8942,6 +9320,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kuolemantanssi",
         "paakategoria": "kirja",
@@ -8961,6 +9340,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Sairauksien keisari: syövän elämäkerta",
         "paakategoria": "kirja",
@@ -8997,6 +9377,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Rogues – Patrick Radden Keefe",
         "paakategoria": "kirja",
@@ -9016,6 +9397,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Dear Modern (TikTok/Instagram-tili)",
         "paakategoria": "muu",
@@ -9035,6 +9417,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kokeisiin lukeminen yhdessä yläkouluikäisen kanssa",
         "paakategoria": "muu",
@@ -9066,6 +9449,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Patarein vankila, Tallinna",
         "paakategoria": "kulttuuri",
@@ -9085,6 +9469,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Erkki Tuomiojan päiväkirjat, osa 2: 1995–1997",
         "paakategoria": "kirja",
@@ -9104,6 +9489,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "iTunes University",
         "paakategoria": "podcast",
@@ -9140,6 +9526,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Monimuotoisuus",
         "paakategoria": "kirja",
@@ -9159,6 +9546,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Taylor Swift – The Eras Tour (Wembley)",
         "paakategoria": "musiikki",
@@ -9178,6 +9566,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Rest Is History",
         "paakategoria": "podcast",
@@ -9197,6 +9586,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Past Present Future",
         "paakategoria": "podcast",
@@ -9233,6 +9623,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "The Rise of Victimhood Culture",
         "paakategoria": "kirja",
@@ -9252,6 +9643,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Friday Night Lights",
         "paakategoria": "kirja",
@@ -9271,6 +9663,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Hello World: Being Human in the Age of Algorithms",
         "paakategoria": "kirja",
@@ -9307,6 +9700,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hilla Körkkö",
         "teos": "Katriina Pajarin Instagram (Tokion olympialaiset)",
         "paakategoria": "muu",
@@ -9326,6 +9720,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hilla Körkkö",
         "teos": "Linnanmäki",
         "paakategoria": "kulttuuri",
@@ -9345,6 +9740,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Ichiro Suzuki -henkilökuva",
         "paakategoria": "artikkeli",
@@ -9364,6 +9760,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "Suomi Billi (Remarkably Bright Creatures)",
         "paakategoria": "kirja",
@@ -9400,6 +9797,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Matilda Jokinen",
         "teos": "Indiana Jones ja kohtalonpyörä",
         "paakategoria": "elokuva",
@@ -9418,6 +9816,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Vankilakokeilu Skandinavian malliin (dokumentti)",
         "paakategoria": "tv-sarja",
@@ -9450,6 +9849,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Mistä maailmat syntyvät",
         "paakategoria": "kirja",
@@ -9469,6 +9869,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "A Wilderness of Error: The Trials of Jeffrey MacDonald",
         "paakategoria": "kirja",
@@ -9505,6 +9906,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anu-Elina Lehti",
         "teos": "Ihmisiä, vuosia, elämää",
         "paakategoria": "kirja",
@@ -9524,6 +9926,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Useful Work versus Useless Toil",
         "paakategoria": "artikkeli",
@@ -9543,6 +9946,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Likainen somesota",
         "paakategoria": "kirja",
@@ -9562,6 +9966,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Anu-Elina Lehti",
         "teos": "Yle Abitreenit",
         "paakategoria": "muu",
@@ -9597,6 +10004,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Terminaattori",
         "paakategoria": "elokuva",
@@ -9616,6 +10024,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Susanna Reinboth",
         "teos": "Muistin varassa – Oikeusprosessi ja totuus",
         "paakategoria": "kirja",
@@ -9635,6 +10044,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Susanna Reinboth",
         "teos": "Simpanssi sisällämme",
         "paakategoria": "kirja",
@@ -9654,6 +10064,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Bluestocking – Helen Lewisin blogi",
         "paakategoria": "muu",
@@ -9690,6 +10101,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sooley",
         "paakategoria": "kirja",
@@ -9709,6 +10121,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Teemu Muhonen",
         "teos": "Line of Duty",
         "paakategoria": "tv-sarja",
@@ -9728,6 +10141,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Teemu Muhonen",
         "teos": "Umbrella Academy",
         "paakategoria": "tv-sarja",
@@ -9747,6 +10161,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Teemu Muhonen",
         "teos": "Super Context podcast",
         "paakategoria": "podcast",
@@ -9779,6 +10194,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Veep",
         "paakategoria": "tv-sarja",
@@ -9798,6 +10214,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Thick of It",
         "paakategoria": "tv-sarja",
@@ -9817,6 +10234,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Rakkautta ja rakkauden kauhuja",
         "paakategoria": "tv-sarja",
@@ -9854,6 +10272,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Think Twice (podcast Michael Jacksonista)",
         "paakategoria": "podcast",
@@ -9873,6 +10292,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Merriam-Webster: Word of the Day",
         "paakategoria": "podcast",
@@ -9909,6 +10329,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Mr. 1001 (Herra ykkönen)",
         "paakategoria": "kirja",
@@ -9928,6 +10349,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Rest Is History",
         "paakategoria": "podcast",
@@ -9965,6 +10387,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Schitt's Creek",
         "paakategoria": "tv-sarja",
@@ -9984,6 +10407,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Stuff to Blow Your Mind",
         "paakategoria": "podcast",
@@ -10003,6 +10427,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "A Spy Among Friends",
         "paakategoria": "kirja",
@@ -10022,6 +10447,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Vakooja ja petturi (The Spy and the Traitor)",
         "paakategoria": "kirja",
@@ -10059,6 +10485,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Landman",
         "paakategoria": "tv-sarja",
@@ -10078,6 +10505,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Wolf of Wall Street",
         "paakategoria": "elokuva",
@@ -10097,6 +10525,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Good Traitor",
         "paakategoria": "elokuva",
@@ -10133,6 +10562,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Lempipodi-podcast",
         "paakategoria": "podcast",
@@ -10152,6 +10582,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Veden varaan",
         "paakategoria": "musiikki",
@@ -10171,6 +10602,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Super Pumped: The Battle for Uber",
         "paakategoria": "kirja",
@@ -10207,6 +10639,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Darkest Hour",
         "paakategoria": "elokuva",
@@ -10226,6 +10659,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Jussi Halla-aho – elämäkerta",
         "paakategoria": "kirja",
@@ -10245,6 +10679,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ville Itälä – elämäkerta",
         "paakategoria": "kirja",
@@ -10264,6 +10699,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Plain English -podcast",
         "paakategoria": "podcast",
@@ -10283,6 +10719,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Dwarkesh Podcast",
         "paakategoria": "podcast",
@@ -10302,6 +10739,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Memos to the President -podcast",
         "paakategoria": "podcast",
@@ -10339,6 +10777,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Ilmo Ilkka",
         "teos": "How Civil Wars Start – Barbara F. Walter",
         "paakategoria": "kirja",
@@ -10358,6 +10797,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Stepa – uusi levy",
         "paakategoria": "musiikki",
@@ -10377,6 +10817,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Hamilton – saksankielinen versio (Hampuri)",
         "paakategoria": "kulttuuri",
@@ -10396,6 +10837,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Politiikka-Suomi – audiohenkilökuvat (podcast)",
         "paakategoria": "podcast",
@@ -10432,6 +10874,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "The Beatles: Get Back",
         "paakategoria": "elokuva",
@@ -10451,6 +10894,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Churchkhela (georgialainen jälkiruoka)",
         "paakategoria": "ruoka",
@@ -10470,6 +10914,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Ikitie",
         "paakategoria": "elokuva",
@@ -10506,6 +10951,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Systeemin murskaaja",
         "paakategoria": "elokuva",
@@ -10525,6 +10971,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Plot",
         "paakategoria": "kirja",
@@ -10561,6 +11008,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Le Bureau des Légendes (Vakoiluverkosto)",
         "paakategoria": "tv-sarja",
@@ -10580,6 +11028,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Upshot -kolumni (New York Times, Thomas Edsall)",
         "paakategoria": "artikkeli",
@@ -10599,6 +11048,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Wind of Change",
         "paakategoria": "podcast",
@@ -10635,6 +11085,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Borgen (kausi 3)",
         "paakategoria": "tv-sarja",
@@ -10654,6 +11105,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Julia",
         "paakategoria": "tv-sarja",
@@ -10673,6 +11125,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Kitchen Wise (Keys to Good Cooking)",
         "paakategoria": "kirja",
@@ -10692,6 +11145,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "We Own This City",
         "paakategoria": "tv-sarja",
@@ -10711,6 +11165,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Crypto Island",
         "paakategoria": "podcast",
@@ -10747,6 +11202,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Serious Problems (Ski-rious Problems)",
         "paakategoria": "podcast",
@@ -10766,6 +11222,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Vapaaehtoisesti lapseton",
         "paakategoria": "kirja",
@@ -10785,6 +11242,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "3 Body Problem",
         "paakategoria": "tv-sarja",
@@ -10821,6 +11279,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Aino Frilander",
         "teos": "Hesburgerin ranskanperunat paprikamajoneesilla",
         "paakategoria": "ruoka",
@@ -10839,6 +11298,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "It's Official: Russiagate Is This Generation's WMD",
         "paakategoria": "artikkeli",
@@ -10875,6 +11335,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Life on the Edge: The Coming of Age of Quantum Biology",
         "paakategoria": "kirja",
@@ -10894,6 +11355,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Aino Frilander",
         "teos": "Meet the Mormon Transhumanists Seeking Salvation in the Singularity",
         "paakategoria": "artikkeli",
@@ -10913,6 +11375,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Thomas Merton: The Monk Who Became a Prophet (The New Yorker)",
         "paakategoria": "artikkeli",
@@ -10949,6 +11412,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Many Mistakes – kirja omista mokista ja epäonnistumisista",
         "paakategoria": "kirja",
@@ -10967,6 +11431,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "ACT UP -kansanliike",
         "paakategoria": "kulttuuri",
@@ -10986,6 +11451,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kovan viikon ilta",
         "paakategoria": "tv-sarja",
@@ -11005,6 +11471,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ville Ranta – pilapiirtäjä",
         "paakategoria": "kulttuuri",
@@ -11042,6 +11509,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Katabasis",
         "paakategoria": "kirja",
@@ -11061,6 +11529,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Free Press: An Oral History of the Village Voice",
         "paakategoria": "kirja",
@@ -11080,6 +11549,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Paavo Teittisen Finlandia-palkittu kirja",
         "paakategoria": "kirja",
@@ -11098,6 +11568,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Monika Fagerholmin Finlandia-palkittu romaani",
         "paakategoria": "kirja",
@@ -11116,6 +11587,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Tomi Kontion Lasten Finlandia -palkittu kirja",
         "paakategoria": "kirja",
@@ -11151,6 +11623,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Inside the Highs and Lows of Sapphic Pop's Banner Year",
         "paakategoria": "artikkeli",
@@ -11170,6 +11643,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Dyyni (tv-sarja)",
         "paakategoria": "tv-sarja",
@@ -11189,6 +11663,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Rest Is Classified",
         "paakategoria": "podcast",
@@ -11225,6 +11700,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Lauma",
         "paakategoria": "kirja",
@@ -11244,6 +11720,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Long Play",
         "paakategoria": "artikkeli",
@@ -11280,6 +11757,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Succession",
         "paakategoria": "tv-sarja",
@@ -11299,6 +11777,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Politiikka-Suomi",
         "paakategoria": "tv-sarja",
@@ -11318,6 +11797,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Lari Malmberg",
         "teos": "Radiolab: Everybody's Got a Genome",
         "paakategoria": "podcast",
@@ -11354,6 +11834,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Art of Fermentation: An In-Depth Exploration of Essential Concepts",
         "paakategoria": "kirja",
@@ -11373,6 +11854,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Inkivääriolueen (Ginger Beer) kotivalmistus",
         "paakategoria": "ruoka",
@@ -11409,6 +11891,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Dolly Parton – Greatest Hits",
         "paakategoria": "musiikki",
@@ -11428,6 +11911,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Mad Men",
         "paakategoria": "tv-sarja",
@@ -11447,6 +11931,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Irakilainen isä yössä",
         "paakategoria": "artikkeli",
@@ -11483,6 +11968,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Muistissanne kiinni",
         "paakategoria": "kirja",
@@ -11502,6 +11988,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Sara Vainio",
         "teos": "Sadan vuoden yksinäisyys",
         "paakategoria": "kirja",
@@ -11521,6 +12008,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Agentti Sonja",
         "paakategoria": "kirja",
@@ -11557,6 +12045,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Alfred Baga – poliittinen satiiri (Instagram/TikTok)",
         "paakategoria": "muu",
@@ -11576,6 +12065,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Matilda Jokinen",
         "teos": "Pistaasijäätelö",
         "paakategoria": "ruoka",
@@ -11595,6 +12085,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Venla Kuokkanen",
         "teos": "Tamminiemen museo",
         "paakategoria": "kulttuuri",
@@ -11631,6 +12122,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "Kuningas kuolee (Elina Backman)",
         "paakategoria": "kirja",
@@ -11650,6 +12142,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Kööpenhamina-trilogia (Tove Ditlevsen)",
         "paakategoria": "kirja",
@@ -11669,6 +12162,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "UEFA Euroopan mestaruuskilpailut (jalkapallo)",
         "paakategoria": "urheilu",
@@ -11705,6 +12199,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Root of Evil -podcast (Black Dahlia -murha)",
         "paakategoria": "podcast",
@@ -11724,6 +12219,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "Helsingin Sanomien jutut Jari Aarnion tuomiosta",
         "paakategoria": "artikkeli",
@@ -11743,6 +12239,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Hercule Poirot -elokuvat (Yle Areena)",
         "paakategoria": "elokuva",
@@ -11762,6 +12259,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Downton Abbey (kausi 3)",
         "paakategoria": "tv-sarja",
@@ -11798,6 +12296,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jaakko Lyytinen",
         "teos": "Minä, koira ja ihmiskunta",
         "paakategoria": "kirja",
@@ -11817,6 +12316,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "Wienin Filharmonikkojen Philip Glass -konsertti 1993 (Gidon Kremer)",
         "paakategoria": "musiikki",
@@ -11836,6 +12336,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Fourth Man",
         "paakategoria": "kirja",
@@ -11872,6 +12373,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kovan viikon ilta",
         "paakategoria": "tv-sarja",
@@ -11891,6 +12393,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Ville Similä",
         "teos": "Salaliitto Kairossa",
         "paakategoria": "elokuva",
@@ -11910,6 +12413,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Past Present Future",
         "paakategoria": "podcast",
@@ -11942,6 +12446,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
@@ -11961,6 +12466,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Petja Pelli",
         "teos": "Ilosaarirock",
         "paakategoria": "kulttuuri",
@@ -11997,6 +12503,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Inkeri Harju",
         "teos": "Hard to Break",
         "paakategoria": "tv-sarja",
@@ -12016,6 +12523,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Severance",
         "paakategoria": "tv-sarja",
@@ -12035,6 +12543,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "She Said",
         "paakategoria": "elokuva",
@@ -12054,6 +12563,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Elokuva-iltapäivä työpaikalla",
         "paakategoria": "elokuva",
@@ -12085,6 +12595,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Norjan hiihtotähdet",
         "paakategoria": "tv-sarja",
@@ -12104,6 +12615,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Political Gabfest",
         "paakategoria": "podcast",
@@ -12123,6 +12635,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Obscure Islands (amanvir.com/obscure-islands)",
         "paakategoria": "muu",
@@ -12159,6 +12672,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Guardians",
         "paakategoria": "kirja",
@@ -12178,6 +12692,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
         "paakategoria": "kirja",
@@ -12214,6 +12729,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Antti Holman koulumatka",
         "paakategoria": "podcast",
@@ -12233,6 +12749,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Song of the Cell",
         "paakategoria": "kirja",
@@ -12252,6 +12769,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Korean kielen opinnot",
         "paakategoria": "muu",
@@ -12288,6 +12806,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kun niin perkeleesti sahaa",
         "paakategoria": "kirja",
@@ -12307,6 +12826,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alex af Heurlin",
         "teos": "Putinin sisäpiirissä",
         "paakategoria": "kirja",
@@ -12326,6 +12846,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Viirus",
         "paakategoria": "kirja",
@@ -12362,6 +12883,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Power Broker – Robert Moses and the Fall of New York",
         "paakategoria": "kirja",
@@ -12381,6 +12903,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "9 to 5 (WNNA) – Power Broker -lukupiiri-podcast",
         "paakategoria": "podcast",
@@ -12400,6 +12923,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Erkki Tuomiojan päiväkirjat",
         "paakategoria": "kirja",
@@ -12419,6 +12943,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Matti Vanhasen päiväkirjat 2023",
         "paakategoria": "kirja",
@@ -12438,6 +12963,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Sliced Bread (BBC)",
         "paakategoria": "podcast",
@@ -12470,6 +12996,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Storybased Inquiry -journalistinen metodi",
         "paakategoria": "muu",
@@ -12489,6 +13016,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mindscape-podcast",
         "paakategoria": "podcast",
@@ -12508,6 +13036,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Radio Sodoma, toinen tuotantokausi",
         "paakategoria": "podcast",
@@ -12545,6 +13074,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Helmi Sundström",
         "teos": "Kun saa rakastaa",
         "paakategoria": "tv-sarja",
@@ -12564,6 +13094,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Ursan Aurinkokuntamalli",
         "paakategoria": "kulttuuri",
@@ -12583,6 +13114,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Havusto",
         "teos": "Journalisti.fi – Marko-Oskari Lehtosen haastattelu",
         "paakategoria": "artikkeli",
@@ -12602,6 +13134,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Havusto",
         "teos": "Suomen Lehdistön podcast – Paavo Teittisen haastattelu",
         "paakategoria": "podcast",
@@ -12640,6 +13173,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Muistopäivä (Kansallisteatteri)",
         "paakategoria": "kulttuuri",
@@ -12659,6 +13193,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Täällä Pohjantähden alla (Kansallisteatteri)",
         "paakategoria": "kulttuuri",
@@ -12695,6 +13230,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Perfectloaf.com – hapanleipäsaitti",
         "paakategoria": "muu",
@@ -12714,6 +13250,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Say Nothing",
         "paakategoria": "kirja",
@@ -12750,6 +13287,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Humiseva harju",
         "paakategoria": "kirja",
@@ -12769,6 +13307,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Pohjoisten kansojen historia – Olaus Magnus",
         "paakategoria": "kirja",
@@ -12788,6 +13327,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Dolce & Gabbana pistaasilevite",
         "paakategoria": "ruoka",
@@ -12824,6 +13364,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Caracasissa on vielä yö",
         "paakategoria": "kirja",
@@ -12843,6 +13384,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Elements of Style",
         "paakategoria": "kirja",
@@ -12862,6 +13404,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Star Wars: Skywalkerin nousu",
         "paakategoria": "elokuva",
@@ -12897,6 +13440,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Burning Down the House",
         "paakategoria": "kirja",
@@ -12916,6 +13460,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Heräämisiä (Awakenings)",
         "paakategoria": "elokuva",
@@ -12953,6 +13498,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Pölynimurikauppiaat",
         "paakategoria": "tv-sarja",
@@ -12972,6 +13518,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sateentekijät – Eräänlaiset päiväkirjat 1992–2001",
         "paakategoria": "kirja",
@@ -13008,6 +13555,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Clint",
         "paakategoria": "kirja",
@@ -13027,6 +13575,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "One Battle After Another",
         "paakategoria": "elokuva",
@@ -13062,6 +13611,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ensilumi",
         "paakategoria": "elokuva",
@@ -13081,6 +13631,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Nosferatu (1922)",
         "paakategoria": "elokuva",
@@ -13100,6 +13651,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "What It Takes",
         "paakategoria": "kirja",
@@ -13136,6 +13688,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "This Is Us",
         "paakategoria": "tv-sarja",
@@ -13155,6 +13708,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tuca & Bertie",
         "paakategoria": "tv-sarja",
@@ -13174,6 +13728,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "PS Tykitellään",
         "paakategoria": "podcast",
@@ -13193,6 +13748,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Have You Heard George's Podcast?",
         "paakategoria": "podcast",
@@ -13225,6 +13781,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "Kainuun Raja (Twitter-tili)",
         "paakategoria": "muu",
@@ -13244,6 +13801,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Blade Runner",
         "paakategoria": "elokuva",
@@ -13263,6 +13821,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Jos tämä on ihminen",
         "paakategoria": "kirja",
@@ -13300,6 +13859,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Topi Kosunen",
         "teos": "Svart Rido",
         "paakategoria": "musiikki",
@@ -13319,6 +13879,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Vety (Lappeenrantalainen lihapiiras)",
         "paakategoria": "ruoka",
@@ -13338,6 +13899,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Kuninkaansaari, Helsinki",
         "paakategoria": "muu",
@@ -13374,6 +13936,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Koiria ja ihmisiä",
         "paakategoria": "podcast",
@@ -13393,6 +13956,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Onni Niemi",
         "teos": "Antti Holman oopperajuhlat",
         "paakategoria": "podcast",
@@ -13429,6 +13993,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "TikTok",
         "paakategoria": "muu",
@@ -13448,6 +14013,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Logical Song – Lisele Green (kitaraversio)",
         "paakategoria": "musiikki",
@@ -13467,6 +14033,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Nervous States",
         "paakategoria": "kirja",
@@ -13499,6 +14066,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Stenbäck",
         "paakategoria": "tv-sarja",
@@ -13518,6 +14086,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Lassila",
         "teos": "Käräjät",
         "paakategoria": "kirja",
@@ -13537,6 +14106,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "History 5: The Making of Modern Europe (1453 to the Present)",
         "paakategoria": "podcast",
@@ -13573,6 +14143,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "David Beckham (dokumenttisarja)",
         "paakategoria": "tv-sarja",
@@ -13592,6 +14163,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Civil War (elokuva)",
         "paakategoria": "elokuva",
@@ -13611,6 +14183,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kymmenen haavaa Amerikan sydämessä",
         "paakategoria": "kirja",
@@ -13630,6 +14203,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Love.Wats (Instagram/TikTok-tili)",
         "paakategoria": "muu",
@@ -13666,6 +14240,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Umbrella Academy",
         "paakategoria": "tv-sarja",
@@ -13685,6 +14260,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tiitinen – vakoilijoita ja veijareita",
         "paakategoria": "kirja",
@@ -13704,6 +14280,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Annikka Mutanen",
         "teos": "Auringonvalo",
         "paakategoria": "muu",
@@ -13723,6 +14302,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Vissy ja pihvi -dieetti",
         "paakategoria": "ruoka",
@@ -13759,6 +14339,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Strange Planet (Nathan W. Pyle)",
         "paakategoria": "kulttuuri",
@@ -13795,6 +14376,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Seinfeld",
         "paakategoria": "tv-sarja",
@@ -13814,6 +14396,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Honestly with Bari Weiss",
         "paakategoria": "podcast",
@@ -13833,6 +14416,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Blocked and Reported",
         "paakategoria": "podcast",
@@ -13852,6 +14436,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Politics War Room",
         "paakategoria": "podcast",
@@ -13884,6 +14469,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Westworld",
         "paakategoria": "tv-sarja",
@@ -13903,6 +14489,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Lennusadam – Viron merimuseon lentokonehalli",
         "paakategoria": "kulttuuri",
@@ -13939,6 +14526,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kittilän opetukset – kirja oikeusvaltiosta ja virkavastuusta",
         "paakategoria": "kirja",
@@ -13958,6 +14546,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Erään murhan anatomia",
         "paakategoria": "kirja",
@@ -13977,6 +14566,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Minne katosi Antti Järvi",
         "paakategoria": "kirja",
@@ -13996,6 +14586,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Jälkisuomettumisen ruumiinavaus",
         "paakategoria": "kirja",
@@ -14015,6 +14606,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Onko Brexit totuus Suomesta",
         "paakategoria": "kirja",
@@ -14051,6 +14643,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Slow Horses (uusi kausi)",
         "paakategoria": "tv-sarja",
@@ -14070,6 +14663,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Suomen lentopallomaajoukkueen EM-välierä Ranskaa vastaan",
         "paakategoria": "urheilu",
@@ -14089,6 +14683,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "A Poet (Un poeta)",
         "paakategoria": "elokuva",
@@ -14108,6 +14703,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tähtitaivaan opetteleminen tekoälyn kanssa",
         "paakategoria": "muu",
@@ -14144,6 +14740,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Anteeksi lausuminen (Vladei, Pöre tai vastaava hautausmaa-aiheinen teos)",
         "paakategoria": "kirja",
@@ -14181,6 +14778,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Julian Puumalainen",
         "teos": "The Morning Show",
         "paakategoria": "tv-sarja",
@@ -14200,6 +14798,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Naisten EM-jalkapallo 2025 – finaali",
         "paakategoria": "urheilu",
@@ -14219,6 +14818,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Suomen Kuvalehti",
         "paakategoria": "artikkeli",
@@ -14238,6 +14838,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Havusto",
         "teos": "Kusikivi, Etelä-Pohjanmaa",
         "paakategoria": "kulttuuri",
@@ -14274,6 +14875,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "True Story",
         "paakategoria": "kirja",
@@ -14293,6 +14895,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Ökyrikkaat aasialaiset -trilogia",
         "paakategoria": "kirja",
@@ -14312,6 +14915,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Kesäkasvispizza",
         "paakategoria": "ruoka",
@@ -14348,6 +14952,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Lumentaju",
         "paakategoria": "kirja",
@@ -14367,6 +14972,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Jää",
         "paakategoria": "kirja",
@@ -14385,6 +14991,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Muumit ja taikatalvi",
         "paakategoria": "kirja",
@@ -14404,6 +15011,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "UEFA Euro 2020 -jalkapallon EM-kisat",
         "paakategoria": "urheilu",
@@ -14440,6 +15048,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Lähde (koululaisooppera)",
         "paakategoria": "kulttuuri",
@@ -14459,6 +15068,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "YL-analyysi: Toimittaja hiihti Malmin lentokentällä ja ajatteli suuria ajatuksia",
         "paakategoria": "artikkeli",
@@ -14478,6 +15088,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Helsingin Sanomien Roboääni -kuuntelutoiminto",
         "paakategoria": "muu",
@@ -14514,6 +15125,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Tina Turner -dokumentti",
         "paakategoria": "elokuva",
@@ -14533,6 +15145,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Schitt's Creek",
         "paakategoria": "tv-sarja",
@@ -14552,6 +15165,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Tytöt 18",
         "paakategoria": "tv-sarja",
@@ -14587,6 +15201,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sinä osaat, sinä pystyt – Ilkka Suomisen elämäkerta",
         "paakategoria": "kirja",
@@ -14606,6 +15221,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Lighthouse",
         "paakategoria": "elokuva",
@@ -14642,6 +15258,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Faian vikavalhe",
         "paakategoria": "podcast",
@@ -14661,6 +15278,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Matkoja maalauksiin",
         "paakategoria": "podcast",
@@ -14680,6 +15298,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The White Lotus – kausi 2",
         "paakategoria": "tv-sarja",
@@ -14699,6 +15318,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Jalkapallon MM-kisat Qatarissa",
         "paakategoria": "urheilu",
@@ -14734,6 +15354,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "And the Band Played On",
         "paakategoria": "kirja",
@@ -14753,6 +15374,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Paper of Record: An Oral History of the New York Post 1976–2024",
         "paakategoria": "kirja",
@@ -14772,6 +15394,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Lasse Rantanen – haastattelu Helsingin kirjamessuilla",
         "paakategoria": "kulttuuri",
@@ -14808,6 +15431,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Dolly Parton's America",
         "paakategoria": "podcast",
@@ -14827,6 +15451,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Stalinin kuolema",
         "paakategoria": "elokuva",
@@ -14846,6 +15471,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Watchmen",
         "paakategoria": "tv-sarja",
@@ -14882,6 +15508,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Aino Frilander",
         "teos": "Brexit (elokuva)",
         "paakategoria": "elokuva",
@@ -14901,6 +15528,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Blatstein Analysis Convinced a Jury, She Stabbed Her Teenage Son. Now Even Freedom Can't Give Her Back Her Life",
         "paakategoria": "artikkeli",
@@ -14920,6 +15548,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The End of Economics",
         "paakategoria": "artikkeli",
@@ -14956,6 +15585,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Rakkautta autismin kirjolla",
         "paakategoria": "tv-sarja",
@@ -14975,6 +15605,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "HJK vs. HIFK jalkapallo-ottelu",
         "paakategoria": "urheilu",
@@ -14994,6 +15625,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "HIFK vs. TPS jääkiekko-ottelu",
         "paakategoria": "urheilu",
@@ -15031,6 +15663,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Obsession",
         "paakategoria": "elokuva",
@@ -15049,6 +15682,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "House of the Dragon",
         "paakategoria": "tv-sarja",
@@ -15067,6 +15701,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Pikalähettinä Pekingissä – Duunarielämää 2000-luvun Kiinassa",
         "paakategoria": "kirja",
@@ -15086,6 +15721,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Don Rosa: Sammon salaisuus",
         "paakategoria": "kirja",
@@ -15105,6 +15741,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "A Knight of the Seven Kingdoms",
         "paakategoria": "tv-sarja",
@@ -15141,6 +15778,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Onni Niemi",
         "teos": "Eristyksissä",
         "paakategoria": "tv-sarja",
@@ -15160,6 +15798,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Ville Vuorenmaan taidenäyttely – Tikketi-galleria, Kamppi",
         "paakategoria": "kulttuuri",
@@ -15179,6 +15818,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Brysselin kone",
         "paakategoria": "podcast",
@@ -15215,6 +15855,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Nazim Hikmet – runous",
         "paakategoria": "kirja",
@@ -15234,6 +15875,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Ylen aamu-tv",
         "paakategoria": "tv-sarja",
@@ -15270,6 +15912,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Kotka",
         "paakategoria": "kirja",
@@ -15289,6 +15932,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Can You Hear the Music – Oppenheimer soundtrack",
         "paakategoria": "musiikki",
@@ -15321,6 +15965,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Euroopan parlamentti",
         "paakategoria": "kirja",
@@ -15340,6 +15985,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "Mekanismi",
         "paakategoria": "tv-sarja",
@@ -15359,6 +16005,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "The Curse of Genius",
         "paakategoria": "artikkeli",
@@ -15396,6 +16043,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Last One Laughing (brittiläiset kaudet)",
         "paakategoria": "tv-sarja",
@@ -15415,6 +16063,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Marty Supreme",
         "paakategoria": "elokuva",
@@ -15434,6 +16083,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Last One Laughing Ruotsi",
         "paakategoria": "tv-sarja",
@@ -15469,6 +16119,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sticky Fingers – Jann Wennerin elämäkerta",
         "paakategoria": "kirja",
@@ -15488,6 +16139,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Conversation",
         "paakategoria": "artikkeli",
@@ -15507,6 +16159,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Anthill-podcast",
         "paakategoria": "podcast",
@@ -15525,6 +16178,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ologies-podcast",
         "paakategoria": "podcast",
@@ -15561,6 +16215,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Jooga with Adriene (YouTube)",
         "paakategoria": "muu",
@@ -15580,6 +16235,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Sun poika kävi täällä",
         "paakategoria": "kirja",
@@ -15599,6 +16255,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Imu: Pokemonvuodet",
         "paakategoria": "kirja",
@@ -15631,6 +16288,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Homo Deus: Huomisen lyhyt historia",
         "paakategoria": "kirja",
@@ -15650,6 +16308,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Genome: The Autobiography of a Species in 23 Chapters",
         "paakategoria": "kirja",
@@ -15669,6 +16328,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Red Queen: Sex and the Evolution of Human Nature",
         "paakategoria": "kirja",
@@ -15688,6 +16348,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Kuinka menestyä suomalaisessa televisiossa (blogikirjoitus)",
         "paakategoria": "artikkeli",
@@ -15724,6 +16385,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Chief of Staff – Gavin Barwell",
         "paakategoria": "kirja",
@@ -15743,6 +16405,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Hiihdon MM-kisat 2023",
         "paakategoria": "urheilu",
@@ -15762,6 +16425,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Antti ja Vuokko Nurmesniemi -näyttely, Designmuseo Helsinki",
         "paakategoria": "kulttuuri",
@@ -15798,6 +16462,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Shakki",
         "paakategoria": "urheilu",
@@ -15816,6 +16481,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kuningattaren gambiitti",
         "paakategoria": "tv-sarja",
@@ -15835,6 +16501,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Spider-Man: No Way Home",
         "paakategoria": "elokuva",
@@ -15871,6 +16538,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Robin Williams -dokumenttisarja",
         "paakategoria": "tv-sarja",
@@ -15890,6 +16558,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Robin Williams – haastattelu Graham Nortonissa",
         "paakategoria": "muu",
@@ -15909,6 +16578,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Politics on the Edge",
         "paakategoria": "kirja",
@@ -15928,6 +16598,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "The Rest Is Politics",
         "paakategoria": "podcast",
@@ -15964,6 +16635,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Every Day Is Sunday",
         "paakategoria": "kirja",
@@ -15983,6 +16655,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Elli Harju",
         "teos": "Luusarit (kausi 4)",
         "paakategoria": "tv-sarja",
@@ -16002,6 +16675,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Code: The Hidden Language of Computer Hardware and Software",
         "paakategoria": "kirja",
@@ -16038,6 +16712,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Presumed Guilty",
         "paakategoria": "kirja",
@@ -16057,6 +16732,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Jerry Springer: Fights, Camera, Action",
         "paakategoria": "tv-sarja",
@@ -16076,6 +16752,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Uusi Juttu",
         "paakategoria": "podcast",
@@ -16108,6 +16785,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Hyvinkään Sveitsi laskettelukeskus",
         "paakategoria": "muu",
@@ -16127,6 +16805,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Yle Areena – musiikkidokumentit",
         "paakategoria": "tv-sarja",
@@ -16146,6 +16825,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Fatwa (BBC podcast)",
         "paakategoria": "podcast",
@@ -16165,6 +16845,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Bon Appétit YouTube-kanava",
         "paakategoria": "muu",
@@ -16201,6 +16882,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Jenna Vehviläisen Italian vaalit -artikkelit (Yle)",
         "paakategoria": "artikkeli",
@@ -16220,6 +16902,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "HS Talousfoorumi -videot (Helsingin Sanomat)",
         "paakategoria": "muu",
@@ -16239,6 +16922,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "The Crown",
         "paakategoria": "tv-sarja",
@@ -16258,6 +16942,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "HS Visio -podcast: Fortum-kuviot",
         "paakategoria": "podcast",
@@ -16295,6 +16980,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "Do You Know Mordechai?",
         "paakategoria": "podcast",
@@ -16313,6 +16999,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "Believable: The Coco Berthmann Story",
         "paakategoria": "podcast",
@@ -16331,6 +17018,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Eero Järnefelt -näyttely (Ateneum)",
         "paakategoria": "kulttuuri",
@@ -16350,6 +17038,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "The Good Wife",
         "paakategoria": "tv-sarja",
@@ -16369,6 +17058,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Alarmy (herätyskello-sovellus)",
         "paakategoria": "muu",
@@ -16388,6 +17078,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Pasila",
         "paakategoria": "tv-sarja",
@@ -16407,6 +17098,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 6,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Väkivallan historia",
         "paakategoria": "kirja",
@@ -16443,6 +17135,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "The Daily",
         "paakategoria": "podcast",
@@ -16461,6 +17154,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "The Economist Podcast",
         "paakategoria": "podcast",
@@ -16480,6 +17174,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Mikä meitä vaivaa?",
         "paakategoria": "podcast",
@@ -16498,6 +17193,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "Olli Seurin haastattelijapodcast (Yle Areena)",
         "paakategoria": "podcast",
@@ -16517,6 +17213,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Once Upon a Time in Hollywood",
         "paakategoria": "elokuva",
@@ -16536,6 +17233,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "HS Teema: Saksa",
         "paakategoria": "artikkeli",
@@ -16572,6 +17270,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "Kiipeily olympialaisissa",
         "paakategoria": "urheilu",
@@ -16590,6 +17289,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Anne Mattilan Taidekahvila, Karvia",
         "paakategoria": "kulttuuri",
@@ -16626,6 +17326,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Venla Kuokkanen",
         "teos": "Rusetti",
         "paakategoria": "kirja",
@@ -16644,6 +17345,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Perussuomalaiset – Halla-ahon ja Purran linjalla",
         "paakategoria": "kirja",
@@ -16680,6 +17382,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Paisti – Ville Sivilä",
         "paakategoria": "kirja",
@@ -16699,6 +17402,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pekka Mykkänen",
         "teos": "Tennis – kunnalliset kentät pääkaupunkiseudulla",
         "paakategoria": "urheilu",
@@ -16718,6 +17422,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Eraserhead",
         "paakategoria": "elokuva",
@@ -16737,6 +17442,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pekka Mykkänen",
         "teos": "The Spy Factory – New York Times",
         "paakategoria": "artikkeli",
@@ -16773,6 +17479,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Shit Town -podcast",
         "paakategoria": "podcast",
@@ -16792,6 +17499,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "From Hell",
         "paakategoria": "kirja",
@@ -16828,6 +17536,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "One Day (Yksi päivä) -sarja",
         "paakategoria": "tv-sarja",
@@ -16847,6 +17556,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "One Day (Yksi päivä) -kirja",
         "paakategoria": "kirja",
@@ -16865,6 +17575,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Sky Guide -tähtisovellus",
         "paakategoria": "muu",
@@ -16897,6 +17608,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Karoliina Helvalin näyttely – Galleria Anhava",
         "paakategoria": "kulttuuri",
@@ -16916,6 +17628,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Narcos",
         "paakategoria": "tv-sarja",
@@ -16935,6 +17648,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Westworld",
         "paakategoria": "tv-sarja",
@@ -16954,6 +17668,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Gilmoren tytöt: Vuosi elämässä",
         "paakategoria": "tv-sarja",
@@ -16991,6 +17706,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Päiväunet stressin lievittäjänä",
         "paakategoria": "muu",
@@ -17009,6 +17725,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "tuntematon",
         "teos": "Mökkiloma Lapin hiihtoladun varrella ilman kännykkää",
         "paakategoria": "muu",
@@ -17028,6 +17745,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Money to Burn",
         "paakategoria": "kirja",
@@ -17047,6 +17765,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sijoituskästi",
         "paakategoria": "podcast",
@@ -17069,6 +17788,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ennakkoluulolla",
         "paakategoria": "podcast",
@@ -17089,6 +17809,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Helsingin kirjamessut - Patrick Radden Keefe -haastattelu",
         "paakategoria": "kulttuuri",
@@ -17125,6 +17846,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Sirkus Finlandia",
         "paakategoria": "kulttuuri",
@@ -17144,6 +17866,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Tammisaari",
         "paakategoria": "muu",
@@ -17181,6 +17904,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Virkkaaminen käsityöharrastuksena",
         "paakategoria": "muu",
@@ -17200,6 +17924,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Rise and Fall of the Third Reich",
         "paakategoria": "kirja",
@@ -17219,6 +17944,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Menneisyyden jäljillä",
         "paakategoria": "podcast",
@@ -17240,6 +17966,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Revisionist History",
         "paakategoria": "podcast",
@@ -17276,6 +18003,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Barbarian Days: A Surfing Life",
         "paakategoria": "kirja",
@@ -17295,6 +18023,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Siskokset",
         "paakategoria": "kirja",
@@ -17313,6 +18042,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Outojen eksperimenttien tekeminen tekoälyn kanssa",
         "paakategoria": "muu",
@@ -17349,6 +18079,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Ilmo Ilkka",
         "teos": "DIY Or DIE (DJ Orkidea)",
         "paakategoria": "musiikki",
@@ -17368,6 +18099,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Inkeri Harju",
         "teos": "Pähkinänkuori",
         "paakategoria": "kirja",
@@ -17387,6 +18119,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Get Sorted (kuvanhallinatasovellus)",
         "paakategoria": "muu",
@@ -17423,6 +18156,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Matkalla islamilaisessa Suomessa",
         "paakategoria": "kirja",
@@ -17442,6 +18176,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Georgialaiset viinit",
         "paakategoria": "ruoka",
@@ -17461,6 +18196,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ihana Agnes",
         "paakategoria": "elokuva",
@@ -17480,6 +18216,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "The Ruffian -blogi",
         "paakategoria": "artikkeli",
@@ -17516,6 +18253,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Sinéad O'Connor muistelmahaastattelu – New York Times",
         "paakategoria": "artikkeli",
@@ -17535,6 +18273,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jaakko Lyytinen",
         "teos": "Line of Duty",
         "paakategoria": "tv-sarja",
@@ -17554,6 +18293,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kotimaan matkailu – Alajärvi",
         "paakategoria": "muu",
@@ -17585,6 +18325,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Machines of Loving Grace",
         "paakategoria": "kirja",
@@ -17604,6 +18345,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Belgialainen trappistiolut",
         "paakategoria": "ruoka",
@@ -17640,6 +18382,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "New York Times Games -sovellus",
         "paakategoria": "muu",
@@ -17659,6 +18402,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "New York Times Cooking -sovellus",
         "paakategoria": "muu",
@@ -17678,6 +18422,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Havumetsän lapset",
         "paakategoria": "elokuva",
@@ -17697,6 +18442,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Arto Mellerin runot",
         "paakategoria": "kirja",
@@ -17732,6 +18478,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Aino Frilander",
         "teos": "Call Your Girlfriend – Business Special",
         "paakategoria": "podcast",
@@ -17753,6 +18500,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Letter from London: Bad Boy – New Yorker",
         "paakategoria": "artikkeli",
@@ -17789,6 +18537,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Deep State",
         "paakategoria": "kirja",
@@ -17808,6 +18557,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Brahen kentän tekojää",
         "paakategoria": "urheilu",
@@ -17827,6 +18577,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Professor and the Madman",
         "paakategoria": "kirja",
@@ -17863,6 +18614,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Helvetin soikoon – norjalaisen black metallin historia",
         "paakategoria": "tv-sarja",
@@ -17882,6 +18634,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Niclas Storås",
         "teos": "Helsingin kirjamessut",
         "paakategoria": "kulttuuri",
@@ -17901,6 +18654,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The New Atlantis",
         "paakategoria": "artikkeli",
@@ -17938,6 +18692,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "This One Summer",
         "paakategoria": "kirja",
@@ -17957,6 +18712,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Tappolista: Kremlin murhat",
         "paakategoria": "kirja",
@@ -17976,6 +18732,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Hiomattomat timantit",
         "paakategoria": "elokuva",
@@ -18007,6 +18764,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Century of the Self",
         "paakategoria": "elokuva",
@@ -18026,6 +18784,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Suomi (näytelmä, Kansallisteatteri)",
         "paakategoria": "kulttuuri",
@@ -18062,6 +18821,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kiinnostuksen vyöhyke (Zone of Interest)",
         "paakategoria": "elokuva",
@@ -18081,6 +18841,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "House of the Dragon",
         "paakategoria": "tv-sarja",
@@ -18100,6 +18861,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed",
         "paakategoria": "kirja",
@@ -18132,6 +18894,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Onni Niemi",
         "teos": "Sosiaalinen media ja politiikka -juttusarja",
         "paakategoria": "artikkeli",
@@ -18151,6 +18914,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Keijo Vilhunen -podcast",
         "paakategoria": "podcast",
@@ -18170,6 +18934,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Historian jännät naiset",
         "paakategoria": "kirja",
@@ -18206,6 +18971,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Hurrikaanien aika – Fernanda Melchor",
         "paakategoria": "kirja",
@@ -18225,6 +18991,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Venla Kuokkanen",
         "teos": "Lavarunous – Juho Kuusi",
         "paakategoria": "kulttuuri",
@@ -18244,6 +19011,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Kylmät suihkut",
         "paakategoria": "muu",
@@ -18280,6 +19048,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milla Palkoaho",
         "teos": "Haraldin äiti",
         "paakategoria": "kirja",
@@ -18299,6 +19068,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Kadonnutta aikaa etsimässä",
         "paakategoria": "kirja",
@@ -18318,6 +19088,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milla Palkoaho",
         "teos": "Blue",
         "paakategoria": "musiikki",
@@ -18354,6 +19125,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "The Curious Case of the Man Who Wouldn't Die",
         "paakategoria": "artikkeli",
@@ -18373,6 +19145,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Brooklyn Nine-Nine",
         "paakategoria": "tv-sarja",
@@ -18392,6 +19165,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Suuri kaalihuijaus",
         "paakategoria": "kirja",
@@ -18428,6 +19202,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Marko Junkkarin kolumni sattumasta (Helsingin Sanomat)",
         "paakategoria": "artikkeli",
@@ -18447,6 +19222,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mikael Hakim",
         "paakategoria": "kirja",
@@ -18466,6 +19242,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kuilun partaalla – Suomen pankkikriisi",
         "paakategoria": "kirja",
@@ -18485,6 +19262,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Suuri lama",
         "paakategoria": "kirja",
@@ -18504,6 +19282,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Constitutional Constraints Meet Political Pressure: Finland's Precarious Participation in the COVID-19 Solidarity Measures (Verfassungsblog)",
         "paakategoria": "artikkeli",
@@ -18540,6 +19319,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Hesari Musta Laatikko -esitys",
         "paakategoria": "kulttuuri",
@@ -18559,6 +19339,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Data Delusion",
         "paakategoria": "artikkeli",
@@ -18595,6 +19376,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sinuhe egyptiläinen",
         "paakategoria": "kirja",
@@ -18614,6 +19396,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Murhat ja mindfulness",
         "paakategoria": "kirja",
@@ -18633,6 +19416,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Origin Story -podcast",
         "paakategoria": "podcast",
@@ -18652,6 +19436,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Rugby ja 6 Nations Aussibarissa",
         "paakategoria": "urheilu",
@@ -18689,6 +19474,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Elämäni miehet",
         "paakategoria": "kirja",
@@ -18708,6 +19494,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Elina Kervinen",
         "teos": "Intermezzo",
         "paakategoria": "kirja",
@@ -18727,6 +19514,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keskiyön kaninkolo",
         "paakategoria": "podcast",
@@ -18763,6 +19551,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Kansallismuseon inkerinsuomalaisten näyttely",
         "paakategoria": "kulttuuri",
@@ -18782,6 +19571,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Weather (Sää)",
         "paakategoria": "kirja",
@@ -18801,6 +19591,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "iFixit.com",
         "paakategoria": "muu",
@@ -18837,6 +19628,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Politiikan puskaraatio",
         "paakategoria": "podcast",
@@ -18855,6 +19647,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Fall: The End of Fox News",
         "paakategoria": "kirja",
@@ -18874,6 +19667,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Confidence Man",
         "paakategoria": "kirja",
@@ -18893,6 +19687,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Uncensored Models",
         "paakategoria": "artikkeli",
@@ -18930,6 +19725,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Sauli Niinistön muistelmakirja",
         "paakategoria": "kirja",
@@ -18949,6 +19745,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Postwar: A History of Europe Since 1945",
         "paakategoria": "kirja",
@@ -18968,6 +19765,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Apple in China: The Capture of the World's Greatest Company",
         "paakategoria": "kirja",
@@ -18987,6 +19785,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Harri Sulavuori",
         "teos": "The Ukulele Orchestra of Great Britain",
         "paakategoria": "musiikki",
@@ -19021,6 +19820,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Bunga Bunga",
         "paakategoria": "podcast",
@@ -19040,6 +19840,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Prince – Xi Jinping",
         "paakategoria": "podcast",
@@ -19059,6 +19860,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Meduza English Podcast",
         "paakategoria": "podcast",
@@ -19095,6 +19897,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Black Rhino (Radio Lab -podcast)",
         "paakategoria": "podcast",
@@ -19116,6 +19919,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Drive",
         "paakategoria": "elokuva",
@@ -19135,6 +19939,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Puheenaihe-podcast",
         "paakategoria": "podcast",
@@ -19173,6 +19978,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Dancing in the Mosque (Tanssija moskeijassa)",
         "paakategoria": "kirja",
@@ -19192,6 +19998,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "Hintsan viimeinen vuosi",
         "paakategoria": "kirja",
@@ -19211,6 +20018,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The White Lotus",
         "paakategoria": "tv-sarja",
@@ -19248,6 +20056,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Don't Look Up",
         "paakategoria": "elokuva",
@@ -19267,6 +20076,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Juustonaksujäätelö (Närpiön jäätelötehdas)",
         "paakategoria": "ruoka",
@@ -19286,6 +20096,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Maniac",
         "paakategoria": "kirja",
@@ -19305,6 +20116,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Harold Holt -uintikeskus (Instagram-sarja)",
         "paakategoria": "muu",
@@ -19341,6 +20153,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "I Am Not Your Negro",
         "paakategoria": "elokuva",
@@ -19360,6 +20173,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Tommi Liimatan suuri serkkuteoria",
         "paakategoria": "podcast",
@@ -19379,6 +20193,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Onni Niemi",
         "teos": "Normaaleja ihmisiä",
         "paakategoria": "tv-sarja",
@@ -19398,6 +20213,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Kinuskikissan mokkapalat",
         "paakategoria": "ruoka",
@@ -19435,6 +20251,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Top Gun (1986)",
         "paakategoria": "elokuva",
@@ -19454,6 +20271,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Everything Everywhere All at Once",
         "paakategoria": "elokuva",
@@ -19473,6 +20291,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Love Death + Robots",
         "paakategoria": "tv-sarja",
@@ -19509,6 +20328,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
@@ -19528,6 +20348,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Vieraana omassa talossa – Taavi Törissaaren tarina",
         "paakategoria": "artikkeli",
@@ -19547,6 +20368,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Groubble Abdi TikTok",
         "paakategoria": "muu",
@@ -19566,6 +20388,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Fallout",
         "paakategoria": "tv-sarja",
@@ -19602,6 +20425,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Knock Down the House",
         "paakategoria": "elokuva",
@@ -19621,6 +20445,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Aino Frilander",
         "teos": "If You Want to Kill Someone, We Are the Right Guys (Wired)",
         "paakategoria": "artikkeli",
@@ -19640,6 +20465,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Rom-Coms Were Corny and Retrograde. Why Do I Miss Them So Much? (New York Times Magazine)",
         "paakategoria": "artikkeli",
@@ -19676,6 +20502,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Good Hang with Amy Poehler",
         "paakategoria": "podcast",
@@ -19697,6 +20524,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Pistaasilevite (Fiasconaro)",
         "paakategoria": "ruoka",
@@ -19716,6 +20544,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "LOL: Last One Laughing UK",
         "paakategoria": "tv-sarja",
@@ -19735,6 +20564,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Uutisrapsa.fi",
         "paakategoria": "muu",
@@ -19771,6 +20601,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Mauno Koiviston muistelmat",
         "paakategoria": "kirja",
@@ -19790,6 +20621,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Sinuhe egyptiläinen",
         "paakategoria": "kirja",
@@ -19826,6 +20658,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sisu",
         "paakategoria": "elokuva",
@@ -19845,6 +20678,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Jutteleminen vieraiden ihmisten kanssa",
         "paakategoria": "muu",
@@ -19881,6 +20715,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Selviytyjät (Survivor)",
         "paakategoria": "tv-sarja",
@@ -19900,6 +20735,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "We Might Have Long Covid All Wrong – artikkeli (The New Republic)",
         "paakategoria": "artikkeli",
@@ -19936,6 +20772,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Succession",
         "paakategoria": "tv-sarja",
@@ -19955,6 +20792,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Sinun Margot",
         "paakategoria": "kirja",
@@ -19973,6 +20811,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Lämpenevä maa – Ilmastolukutaidon käsikirja",
         "paakategoria": "kirja",
@@ -20009,6 +20848,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Timo R. Stewart",
         "teos": "Jaakob Boks (The Books of Jacob)",
         "paakategoria": "kirja",
@@ -20028,6 +20868,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Timo R. Stewart",
         "teos": "Fauda",
         "paakategoria": "tv-sarja",
@@ -20047,6 +20888,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Search Engine",
         "paakategoria": "podcast",
@@ -20083,6 +20925,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Competition is for Losers – How to Start a Startup -luento (Peter Thiel)",
         "paakategoria": "podcast",
@@ -20102,6 +20945,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Murenevan maa (Ida Tikka)",
         "paakategoria": "podcast",
@@ -20121,6 +20965,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Slow Horses",
         "paakategoria": "tv-sarja",
@@ -20157,6 +21002,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Boyhood (Poikavuodet)",
         "paakategoria": "elokuva",
@@ -20176,6 +21022,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Mahlamäki",
         "teos": "Mindhunter",
         "paakategoria": "tv-sarja",
@@ -20195,6 +21042,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Krakatau: The Day the World Exploded",
         "paakategoria": "kirja",
@@ -20231,6 +21079,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Cook Political Report – Demographic Swing-o-Meter",
         "paakategoria": "muu",
@@ -20250,6 +21099,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Balanssin anatomia",
         "paakategoria": "podcast",
@@ -20269,6 +21119,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Rest Is Politics: US",
         "paakategoria": "podcast",
@@ -20288,6 +21139,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Steve Martini: Paul Madriani -dekkarisarja",
         "paakategoria": "kirja",
@@ -20306,6 +21158,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Steve Cavanagh: Eddie Flynn -dekkarisarja",
         "paakategoria": "kirja",
@@ -20324,6 +21177,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Tekoälyllä tehtyjen Tiny House -kuvien bongailu Instagramissa",
         "paakategoria": "muu",
@@ -20343,6 +21197,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 6,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "ADHD-diagnoosien kasvua käsittelevät jutut (HS, Yle, Lääkärilehti)",
         "paakategoria": "artikkeli",
@@ -20378,6 +21233,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Book of Prince",
         "paakategoria": "artikkeli",
@@ -20397,6 +21253,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Frendit",
         "paakategoria": "tv-sarja",
@@ -20416,6 +21273,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Kaksikymmentäkaksi",
         "paakategoria": "kirja",
@@ -20452,6 +21310,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Veikkauskratia",
         "paakategoria": "kirja",
@@ -20484,6 +21343,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Nuorten ristikkokirjat",
         "paakategoria": "muu",
@@ -20503,6 +21363,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Rottien pyhimys (musikaali)",
         "paakategoria": "kulttuuri",
@@ -20522,6 +21383,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Hattulan Pyhän Ristin kirkko",
         "paakategoria": "kulttuuri",
@@ -20541,6 +21403,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Laila Pullisen veisto- ja kotimuseo",
         "paakategoria": "kulttuuri",
@@ -20560,6 +21423,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Politics Theory Other (podcast)",
         "paakategoria": "podcast",
@@ -20592,6 +21456,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Lincoln Lawyer",
         "paakategoria": "tv-sarja",
@@ -20611,6 +21476,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Decoupling",
         "paakategoria": "podcast",
@@ -20630,6 +21496,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Swedish Grace -näyttely, Tukholma",
         "paakategoria": "kulttuuri",
@@ -20649,6 +21516,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Niemi",
         "paakategoria": "kirja",
@@ -20668,6 +21536,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Love, Death & Robots",
         "paakategoria": "tv-sarja",
@@ -20704,6 +21573,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "The Tortured Poets Department",
         "paakategoria": "musiikki",
@@ -20722,6 +21592,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "One Day",
         "paakategoria": "tv-sarja",
@@ -20741,6 +21612,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "One Day",
         "paakategoria": "kirja",
@@ -20759,6 +21631,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kadonneet lapset (Anu Nousiainen, HS Kuukausiliite)",
         "paakategoria": "artikkeli",
@@ -20790,6 +21663,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "S-Town",
         "paakategoria": "podcast",
@@ -20827,6 +21701,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Love Story (sarja JFK Juniorista)",
         "paakategoria": "tv-sarja",
@@ -20846,6 +21721,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Yksin Putinia vastaan (Mr. Nobody Against Putin)",
         "paakategoria": "elokuva",
@@ -20865,6 +21741,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Moraalinen kunnianhimo",
         "paakategoria": "kirja",
@@ -20901,6 +21778,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Fleabag",
         "paakategoria": "tv-sarja",
@@ -20920,6 +21798,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "HS Päivä",
         "paakategoria": "podcast",
@@ -20939,6 +21818,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Syllabus",
         "paakategoria": "muu",
@@ -20975,6 +21855,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Kyllä, herra ministeri / Kyllä, herra pääministeri",
         "paakategoria": "tv-sarja",
@@ -20994,6 +21875,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Wirecutter",
         "paakategoria": "muu",
@@ -21013,6 +21895,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "J-Mail (Epstein-sähköpostit Gmail-käyttöliittymässä)",
         "paakategoria": "muu",
@@ -21049,6 +21932,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Somebody Somewhere (kausi 3)",
         "paakategoria": "tv-sarja",
@@ -21068,6 +21952,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Regime",
         "paakategoria": "tv-sarja",
@@ -21104,6 +21989,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "His Dark Materials",
         "paakategoria": "tv-sarja",
@@ -21140,6 +22026,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Murha Amsterdamissa",
         "paakategoria": "kirja",
@@ -21159,6 +22046,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Science of Mindfulness: A Research-Based Path to Well-Being",
         "paakategoria": "muu",
@@ -21195,6 +22083,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Venäjän vallankumous ja sisällissota",
         "paakategoria": "kirja",
@@ -21214,6 +22103,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Pukumiehet (Suits)",
         "paakategoria": "tv-sarja",
@@ -21233,6 +22123,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Survival of the Sickest",
         "paakategoria": "kirja",
@@ -21270,6 +22161,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Goliath",
         "paakategoria": "tv-sarja",
@@ -21289,6 +22181,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Natsin mieli: kaksitoista varoitusta historiasta",
         "paakategoria": "kirja",
@@ -21308,6 +22201,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Aleksanteri Kivimäen oikeusjutut (Helsingin Sanomat)",
         "paakategoria": "artikkeli",
@@ -21344,6 +22238,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Matilda Jokinen",
         "teos": "Tšernobylista nousee rukous",
         "paakategoria": "kirja",
@@ -21380,6 +22275,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Elden Ring",
         "paakategoria": "muu",
@@ -21399,6 +22295,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Elden Ring: Shadow of the Erdtree",
         "paakategoria": "muu",
@@ -21418,6 +22315,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Elden Ring: The Super Cut – SlimeSicle",
         "paakategoria": "muu",
@@ -21437,6 +22335,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "Suomenlinna",
         "paakategoria": "kulttuuri",
@@ -21456,6 +22355,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Idon Games: Myrsky-lautapeli",
         "paakategoria": "muu",
@@ -21492,6 +22392,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "Mother Is Not Going to Like This – artikkeli Politico-lehdessä (Tim Alberta)",
         "paakategoria": "artikkeli",
@@ -21511,6 +22412,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Teemu Muhonen",
         "teos": "Roger Federer – uran kohokohdat (YouTube)",
         "paakategoria": "urheilu",
@@ -21530,6 +22432,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Teemu Muhonen",
         "teos": "Pietarilaisia novelleja (Nikolai Gogol)",
         "paakategoria": "kirja",
@@ -21567,6 +22470,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Yksisarvinen maailman myyteissä ja tarinoissa",
         "paakategoria": "kirja",
@@ -21586,6 +22490,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Veli-Pekka Lehtonen",
         "teos": "Rooster",
         "paakategoria": "tv-sarja",
@@ -21605,6 +22512,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Naurava Sohvi -stand up -klubi",
         "paakategoria": "kulttuuri",
@@ -21624,6 +22532,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Oululainen hampurilaispizza",
         "paakategoria": "ruoka",
@@ -21642,6 +22551,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Läpikotaisin – Demi Mooren muistelmat",
         "paakategoria": "kirja",
@@ -21677,6 +22587,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "The Athletic",
         "paakategoria": "urheilu",
@@ -21696,6 +22607,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Cruelty Squad",
         "paakategoria": "muu",
@@ -21715,6 +22627,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Liesjärven kansallispuisto",
         "paakategoria": "muu",
@@ -21751,6 +22664,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Hillary (dokumentti)",
         "paakategoria": "tv-sarja",
@@ -21770,6 +22684,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ajankohtaisen kakkosen vihailta 2013 -video",
         "paakategoria": "muu",
@@ -21806,6 +22721,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ystäväkirja",
         "paakategoria": "podcast",
@@ -21827,6 +22743,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Rocky (Virus-teatteri)",
         "paakategoria": "kulttuuri",
@@ -21846,6 +22763,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Susanne Salmi",
         "teos": "Mehiläisten historia",
         "paakategoria": "kirja",
@@ -21865,6 +22783,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tuomas Peltomäki -podcast (äärioikeisto-jakso)",
         "paakategoria": "podcast",
@@ -21886,6 +22805,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tuomas Peltomäki -podcast (tekoäly-sarja)",
         "paakategoria": "podcast",
@@ -21905,6 +22825,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Nervous States: How Feeling Took Over the World",
         "paakategoria": "kirja",
@@ -21941,6 +22862,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Edu Kettunen – livekeikka 2015",
         "paakategoria": "musiikki",
@@ -21977,6 +22899,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Einari",
         "paakategoria": "kirja",
@@ -21995,6 +22918,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Why We Sleep",
         "paakategoria": "kirja",
@@ -22014,6 +22938,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Naarasleijona",
         "paakategoria": "kirja",
@@ -22050,6 +22975,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ticking Clock – Ira Rosen",
         "paakategoria": "kirja",
@@ -22069,6 +22995,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Koneruhtinas – Pekka Herlinin elämä",
         "paakategoria": "kirja",
@@ -22088,6 +23015,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Ruotsin television dokumentti rokotevastaisesta liikkeestä (Yle Areena)",
         "paakategoria": "elokuva",
@@ -22123,6 +23051,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Helsingin Sanomien Amerikka-podcast: Kulissien takana Mar-a-Lagossa",
         "paakategoria": "podcast",
@@ -22142,6 +23071,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Mississippi Blue 42 – Eli Cranor",
         "paakategoria": "kirja",
@@ -22161,6 +23091,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Piparijauhokastike kinkunliemestä",
         "paakategoria": "ruoka",
@@ -22180,6 +23111,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Remontointi",
         "paakategoria": "muu",
@@ -22198,6 +23130,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Älä remontoi joulun alla, lepää",
         "paakategoria": "muu",
@@ -22234,6 +23167,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kaija Koo: elämäkerta (Jouni K. Kemppäinen)",
         "paakategoria": "kirja",
@@ -22253,6 +23187,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Macron, Eurooppa ja sota",
         "paakategoria": "tv-sarja",
@@ -22272,6 +23207,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Munkkivuori",
         "paakategoria": "tv-sarja",
@@ -22291,6 +23227,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Project Hail Mary",
         "paakategoria": "kirja",
@@ -22327,6 +23264,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Rage",
         "paakategoria": "kirja",
@@ -22346,6 +23284,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Antti Holma – elämäkerta (äänikirja)",
         "paakategoria": "kirja",
@@ -22365,6 +23304,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "I'm Thinking of Ending Things",
         "paakategoria": "elokuva",
@@ -22401,6 +23341,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alli Hallonblad",
         "teos": "Marjastus ja äänikirjat luonnossa",
         "paakategoria": "muu",
@@ -22420,6 +23361,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Matilda Jokinen",
         "teos": "Huono tyttö",
         "paakategoria": "kirja",
@@ -22457,6 +23399,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Helmi Sundström",
         "teos": "Elämisen taito -podcast",
         "paakategoria": "podcast",
@@ -22476,6 +23419,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Havusto",
         "teos": "Murdle",
         "paakategoria": "muu",
@@ -22495,6 +23439,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Mikko Hyppösen Internet",
         "paakategoria": "kirja",
@@ -22531,6 +23476,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Case That Killed #MeToo in Sweden",
         "paakategoria": "artikkeli",
@@ -22550,6 +23496,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Teatteri (yleinen suositus)",
         "paakategoria": "kulttuuri",
@@ -22569,6 +23516,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Pitkä kuuma kesä",
         "paakategoria": "elokuva",
@@ -22588,6 +23536,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "My Father the Fool",
         "paakategoria": "artikkeli",
@@ -22624,6 +23573,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Hehku (podcast)",
         "paakategoria": "podcast",
@@ -22643,6 +23593,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ali Wong: Baby Cobra",
         "paakategoria": "muu",
@@ -22662,6 +23613,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Night Of",
         "paakategoria": "tv-sarja",
@@ -22698,6 +23650,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Boys",
         "paakategoria": "tv-sarja",
@@ -22717,6 +23670,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "Kuningattaren gambiitti",
         "paakategoria": "tv-sarja",
@@ -22736,6 +23690,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Aleksei Navalnyin video FSB-paljastuksesta",
         "paakategoria": "muu",
@@ -22772,6 +23727,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Syytös – Muuan akateeminen komitragedia",
         "paakategoria": "kirja",
@@ -22791,6 +23747,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Aikalisä-podcast (Roope Salminen)",
         "paakategoria": "podcast",
@@ -22810,6 +23767,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Stratechery",
         "paakategoria": "podcast",
@@ -22842,6 +23800,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Succession (kausi 2)",
         "paakategoria": "tv-sarja",
@@ -22861,6 +23820,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Is Amazon Unstoppable? (New Yorker -artikkeli)",
         "paakategoria": "artikkeli",
@@ -22898,6 +23858,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Tarina rakkaudesta ja pimeydestä",
         "paakategoria": "kirja",
@@ -22917,6 +23878,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Eläinten vallankumous",
         "paakategoria": "kirja",
@@ -22936,6 +23898,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Hävitys",
         "paakategoria": "kirja",
@@ -22968,6 +23931,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maija-Riitta Ollila",
         "teos": "Making Sense with Sam Harris",
         "paakategoria": "podcast",
@@ -22987,6 +23951,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "I Went on a Date with Aziz Ansari. It Turned into the Worst Night of My Life.",
         "paakategoria": "artikkeli",
@@ -23023,6 +23988,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Finns det en tystnadskultur i Göteborgs Stad?",
         "paakategoria": "artikkeli",
@@ -23042,6 +24008,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Waste Lands: The True Story of Farm Country on Trial",
         "paakategoria": "kirja",
@@ -23061,6 +24028,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Radionova 2004",
         "paakategoria": "musiikki",
@@ -23080,6 +24048,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "House of the Dragon",
         "paakategoria": "tv-sarja",
@@ -23099,6 +24068,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "HOTD – House of the Dragon Podcast (Bald Move)",
         "paakategoria": "podcast",
@@ -23118,6 +24088,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Energy: A Human History",
         "paakategoria": "kirja",
@@ -23137,6 +24108,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 6,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Making of the Atomic Bomb",
         "paakategoria": "kirja",
@@ -23172,6 +24144,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Anand Gobinin juttu afganistanilaisista naisista (New Yorker)",
         "paakategoria": "artikkeli",
@@ -23191,6 +24164,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "Kind of Blue – Miles Davis",
         "paakategoria": "musiikki",
@@ -23210,6 +24184,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "Juokseminen",
         "paakategoria": "urheilu",
@@ -23229,6 +24204,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Scott Turow'n kirjat",
         "paakategoria": "kirja",
@@ -23248,6 +24224,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Michael Connellyn kirjat",
         "paakategoria": "kirja",
@@ -23285,6 +24262,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Topi Kosunen",
         "teos": "What's Epic About the Odyssey? Everything (The Daily -podcast)",
         "paakategoria": "podcast",
@@ -23306,6 +24284,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "John Helin",
         "teos": "Tribe: On Homecoming and Belonging",
         "paakategoria": "kirja",
@@ -23325,6 +24304,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Pihla Saravirta",
         "teos": "Aikuisten leikkiklubi",
         "paakategoria": "muu",
@@ -23361,6 +24341,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Visulahden Vahakabinetit",
         "paakategoria": "kulttuuri",
@@ -23380,6 +24361,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Verlan tehdasmuseo",
         "paakategoria": "kulttuuri",
@@ -23399,6 +24381,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Onni Niemi",
         "teos": "Hohto-elokuva – HS:n erikoisartikkeli",
         "paakategoria": "artikkeli",
@@ -23436,6 +24419,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Obi-Wan Kenobi",
         "paakategoria": "tv-sarja",
@@ -23455,6 +24439,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Inkeri Harju",
         "teos": "Stranger Things (kausi 4)",
         "paakategoria": "tv-sarja",
@@ -23474,6 +24459,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "High Life",
         "paakategoria": "elokuva",
@@ -23493,6 +24479,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Color Out of Space",
         "paakategoria": "elokuva",
@@ -23525,6 +24512,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Red Queen: Sex and the Evolution of Human Nature",
         "paakategoria": "kirja",
@@ -23544,6 +24532,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Geeni: Intiimi historia",
         "paakategoria": "kirja",
@@ -23580,6 +24569,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tuomas Peltomäen tekoälypodcast (kolmiosainen sarja professori Teemu Roosin kanssa)",
         "paakategoria": "podcast",
@@ -23599,6 +24589,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kuningas Charlesin virallinen muotokuva (Jonathan Yeo, 2024)",
         "paakategoria": "kulttuuri",
@@ -23618,6 +24609,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Piilotettu kamera Putinin palatsissa (Navalny-tiimin video)",
         "paakategoria": "kulttuuri",
@@ -23637,6 +24629,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Lääkärilehti-podcast: Virtahepo lääkärin talossa – Onko sote-uudistuksesta tullut säästöprojekti?",
         "paakategoria": "podcast",
@@ -23675,6 +24668,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Leftovers",
         "paakategoria": "tv-sarja",
@@ -23711,6 +24705,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Last One Laughing (japanilainen formaatti)",
         "paakategoria": "tv-sarja",
@@ -23730,6 +24725,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Bob Mortimer",
         "paakategoria": "kulttuuri",
@@ -23749,6 +24745,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "London Falling",
         "paakategoria": "kirja",
@@ -23768,6 +24765,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Wind of Change",
         "paakategoria": "podcast",
@@ -23804,6 +24802,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sata litraa sahtia",
         "paakategoria": "elokuva",
@@ -23822,6 +24821,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Suunnistus Keskuspuistossa ja Nuuksiossa",
         "paakategoria": "urheilu",
@@ -23841,6 +24841,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "James",
         "paakategoria": "kirja",
@@ -23877,6 +24878,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Atlantic -lehti",
         "paakategoria": "muu",
@@ -23896,6 +24898,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Anxious Child and the Crisis of Modern Parenting",
         "paakategoria": "artikkeli",
@@ -23915,6 +24918,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Tiger King",
         "paakategoria": "tv-sarja",
@@ -23934,6 +24938,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Veitsi",
         "paakategoria": "kirja",
@@ -23952,6 +24957,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "NPR (National Public Radio)",
         "paakategoria": "podcast",
@@ -23971,6 +24977,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Floodlines",
         "paakategoria": "podcast",
@@ -23989,6 +24996,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 6,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Audm",
         "paakategoria": "muu",
@@ -24024,6 +25032,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "GPT-4 Launch Demo (OpenAI)",
         "paakategoria": "muu",
@@ -24043,6 +25052,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Your Undivided Attention",
         "paakategoria": "podcast",
@@ -24062,6 +25072,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Kadoneiden kaupunkien jäljillä",
         "paakategoria": "podcast",
@@ -24098,6 +25109,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sota vai rauha – kirjoituksia Venäjästä ja lännestä",
         "paakategoria": "kirja",
@@ -24117,6 +25129,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Seaspiracy",
         "paakategoria": "elokuva",
@@ -24153,6 +25166,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Salamurhaajan oppipoika",
         "paakategoria": "kirja",
@@ -24171,6 +25185,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "The Name of the Wind",
         "paakategoria": "kirja",
@@ -24189,6 +25204,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Nevermoor",
         "paakategoria": "kirja",
@@ -24208,6 +25224,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "An Elegant Defense: The Extraordinary New Science of the Immune System",
         "paakategoria": "kirja",
@@ -24244,6 +25261,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Vuosi 1984",
         "paakategoria": "kirja",
@@ -24263,6 +25281,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Past Present Future",
         "paakategoria": "podcast",
@@ -24284,6 +25303,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Times: How the Newspaper of Record Survived Scandal, Scorn, and the Transformation of Journalism",
         "paakategoria": "kirja",
@@ -24320,6 +25340,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Wolves of K Street",
         "paakategoria": "kirja",
@@ -24339,6 +25360,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Unequal Democracy",
         "paakategoria": "kirja",
@@ -24358,6 +25380,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Poikani tappoi ihmisen",
         "paakategoria": "artikkeli",
@@ -24377,6 +25400,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Lion Challenge TikTok-kanava",
         "paakategoria": "muu",
@@ -24413,6 +25437,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sinisilmäisesti (Talking to Strangers: What We Should Know About the People We Don't Know)",
         "paakategoria": "kirja",
@@ -24449,6 +25474,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Heini Pitkänen",
         "teos": "Aurinkokaupunki",
         "paakategoria": "kirja",
@@ -24468,6 +25494,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Skamanda",
         "paakategoria": "podcast",
@@ -24487,6 +25514,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Herrasmies-hakkerit",
         "paakategoria": "podcast",
@@ -24523,6 +25551,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Robyn – livevideoita (esim. Primavera Sound -festivaalilta, toukokuu 2019)",
         "paakategoria": "musiikki",
@@ -24542,6 +25571,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Seinabo Sey – I Owe You Nothing",
         "paakategoria": "musiikki",
@@ -24561,6 +25591,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "True Detective – kausi 1",
         "paakategoria": "tv-sarja",
@@ -24580,6 +25611,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Lolita",
         "paakategoria": "kirja",
@@ -24599,6 +25631,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Nauru pimeässä",
         "paakategoria": "kirja",
@@ -24618,6 +25651,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "World Press Photo -näyttely (Salotatalo, Helsinki 2019)",
         "paakategoria": "kulttuuri",
@@ -24654,6 +25688,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Sara Vainio",
         "teos": "Sompasauna",
         "paakategoria": "kulttuuri",
@@ -24673,6 +25708,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Niclas Storås",
         "teos": "Elämän lyhyydestä",
         "paakategoria": "kirja",
@@ -24692,6 +25728,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Emil Elo",
         "teos": "The Rolling Stones: A Bigger Bang",
         "paakategoria": "musiikki",
@@ -24728,6 +25765,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Geiger",
         "paakategoria": "kirja",
@@ -24747,6 +25785,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Stranger in the Woods",
         "paakategoria": "kirja",
@@ -24783,6 +25822,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Huttunen",
         "teos": "Severance (kausi 2)",
         "paakategoria": "tv-sarja",
@@ -24802,6 +25842,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Next of Kin",
         "paakategoria": "kirja",
@@ -24821,6 +25862,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Chef's Table: Nuudelit",
         "paakategoria": "tv-sarja",
@@ -24857,6 +25899,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Empire of Pain",
         "paakategoria": "kirja",
@@ -24876,6 +25919,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Toista maata – Kansallismuseon perusnäyttely",
         "paakategoria": "kulttuuri",
@@ -24912,6 +25956,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Greatest Night in Pop",
         "paakategoria": "elokuva",
@@ -24931,6 +25976,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Viikinki",
         "paakategoria": "elokuva",
@@ -24950,6 +25996,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Daily Show with John Stewart",
         "paakategoria": "tv-sarja",
@@ -24986,6 +26033,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Pennun kasvatusopas",
         "paakategoria": "kirja",
@@ -25005,6 +26053,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Why Is She Like This? – artikkeli Margery Taylor Greenistä",
         "paakategoria": "artikkeli",
@@ -25037,6 +26086,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Children's Book",
         "paakategoria": "kirja",
@@ -25056,6 +26106,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Understanding Comics: The Invisible Art",
         "paakategoria": "kirja",
@@ -25092,6 +26143,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "What We Can Know",
         "paakategoria": "kirja",
@@ -25110,7 +26162,8 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Elina Väntönen",
         "teos": "The Daily: When A.I. Comes for Your Purpose in Life",
         "paakategoria": "podcast",
@@ -25132,6 +26185,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Slow Horses",
         "paakategoria": "tv-sarja",
@@ -25168,6 +26222,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Petteri Orpo ja oikeistovallan nousu",
         "paakategoria": "kirja",
@@ -25187,6 +26242,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "E-kirjasto -sovellus",
         "paakategoria": "muu",
@@ -25206,6 +26262,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "New Yorkin uhmatar",
         "paakategoria": "kirja",
@@ -25225,6 +26282,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Vaino",
         "paakategoria": "kirja",
@@ -25244,6 +26302,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Pohjoismaisten pörssiyritysten animaatiovideot",
         "paakategoria": "muu",
@@ -25280,6 +26339,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Petja Pelli",
         "teos": "Ohuella langalla (kausi 3)",
         "paakategoria": "tv-sarja",
@@ -25299,6 +26359,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Room Next Door",
         "paakategoria": "elokuva",
@@ -25335,6 +26396,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Marianne & Leonard: Sanoja rakkaudesta",
         "paakategoria": "elokuva",
@@ -25354,6 +26416,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Chaos: Making a New Science",
         "paakategoria": "kirja",
@@ -25373,6 +26436,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kovan tieteen (esim. suhteellisuusteorian) kuunteleminen nukahtamisen apuna",
         "paakategoria": "muu",
@@ -25410,6 +26474,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Bear",
         "paakategoria": "tv-sarja",
@@ -25429,6 +26494,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "House (Hause lääkärisarja)",
         "paakategoria": "tv-sarja",
@@ -25448,6 +26514,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kuura Kaltio -savusauna, Kiilopää",
         "paakategoria": "muu",
@@ -25467,6 +26534,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Artikkeli kaksivuotisesta esiopetuskokeilusta (HS, Nona Backgram)",
         "paakategoria": "artikkeli",
@@ -25503,6 +26571,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Matkalla kadonneessa maailmassa",
         "paakategoria": "kirja",
@@ -25522,6 +26591,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Blindboy Podcast",
         "paakategoria": "podcast",
@@ -25558,6 +26628,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kaikki rakastaa ysäriä",
         "paakategoria": "podcast",
@@ -25579,6 +26650,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Middlesex",
         "paakategoria": "kirja",
@@ -25598,6 +26670,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Doorman",
         "paakategoria": "kirja",
@@ -25634,6 +26707,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alli Hallonblad",
         "teos": "Kaksisataakuusi pientä osaa",
         "paakategoria": "kirja",
@@ -25652,6 +26726,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Venla Kuokkanen",
         "teos": "Rakastitko Vesku? – Tarina Vesa-Matti Loirin elämästä",
         "paakategoria": "podcast",
@@ -25688,6 +26763,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Irina Hasala",
         "teos": "Lintujen tarkkailu",
         "paakategoria": "muu",
@@ -25707,6 +26783,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Financial Times Weekend Edition – How to Spend It -liite",
         "paakategoria": "artikkeli",
@@ -25726,6 +26803,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Crash Landing on You",
         "paakategoria": "tv-sarja",
@@ -25745,6 +26823,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Forecasting Love and Weather",
         "paakategoria": "tv-sarja",
@@ -25781,6 +26860,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Herkkusuun kasvatus – Sinistä forellia ja mustia tryffeleitä",
         "paakategoria": "kirja",
@@ -25800,6 +26880,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Harry Hole -sarja",
         "paakategoria": "kirja",
@@ -25819,6 +26900,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Merimelonta",
         "paakategoria": "urheilu",
@@ -25855,6 +26937,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Last Dance",
         "paakategoria": "tv-sarja",
@@ -25874,6 +26957,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mikael Hakim",
         "paakategoria": "kirja",
@@ -25910,6 +26994,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ennustivatko realistit Ukrainan sodan? (Veera Luoma-aho, HS)",
         "paakategoria": "artikkeli",
@@ -25929,6 +27014,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ville Rannan sarjakuvablogi",
         "paakategoria": "kulttuuri",
@@ -25948,6 +27034,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Yhdessä paikassa -sarjakuva-albumit (Ville Pirinen)",
         "paakategoria": "kulttuuri",
@@ -25967,6 +27054,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Fiona Hill -haastattelu (New York Times Magazine)",
         "paakategoria": "artikkeli",
@@ -26003,6 +27091,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Bref France (@bref.france Instagram-tili)",
         "paakategoria": "muu",
@@ -26039,6 +27128,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Trumpin valinnan ja Brexitin ratkaisi osin somessa tehtävä mikrotargetointi – ja Suomessa kaksi puoluetta tekee samaa",
         "paakategoria": "artikkeli",
@@ -26076,6 +27166,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Suvi Turtiainen",
         "teos": "Emme ole täällä pitämässä hauskaa",
         "paakategoria": "kirja",
@@ -26095,6 +27186,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Synkin hetki",
         "paakategoria": "elokuva",
@@ -26127,6 +27219,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Camtown (Come Town) -podcast",
         "paakategoria": "podcast",
@@ -26163,6 +27256,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Viru-hotelli KGB-museo, Tallinna",
         "paakategoria": "kulttuuri",
@@ -26182,6 +27276,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Makten",
         "paakategoria": "tv-sarja",
@@ -26201,6 +27296,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "History of the International System – James Sheehan, Stanford",
         "paakategoria": "podcast",
@@ -26237,6 +27333,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Tony Halme – Urho, tuho ja perintö",
         "paakategoria": "kirja",
@@ -26256,6 +27353,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Kuin veljet – Totuus Suomen katujengeistä",
         "paakategoria": "kirja",
@@ -26275,6 +27373,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Karla's Choice",
         "paakategoria": "kirja",
@@ -26294,6 +27393,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Rikosasianajaja Kaarle Gummerus",
         "paakategoria": "kirja",
@@ -26330,6 +27430,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Silicon Valley (viimeinen kausi)",
         "paakategoria": "tv-sarja",
@@ -26349,6 +27450,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Outliers",
         "paakategoria": "kirja",
@@ -26368,6 +27470,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Minä jaksan – tämän päivän tarinoita lastensuojelusta",
         "paakategoria": "kirja",
@@ -26404,6 +27507,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jarno Hartikainen",
         "teos": "Little Simz",
         "paakategoria": "musiikki",
@@ -26423,6 +27527,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Sokea piste",
         "paakategoria": "kulttuuri",
@@ -26460,6 +27565,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Doc Point -dokumenttielokuvafestivaali",
         "paakategoria": "kulttuuri",
@@ -26479,6 +27585,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Vakoilijan perintö",
         "paakategoria": "kirja",
@@ -26498,6 +27605,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Hiomattomat timantit",
         "paakategoria": "elokuva",
@@ -26534,6 +27642,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Matti Klingen päiväkirjat",
         "paakategoria": "kirja",
@@ -26553,6 +27662,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Eräitä huomioita Suomen poliittisesta järjestelmästä – Sakari Piipon valokuvanäyttely",
         "paakategoria": "kulttuuri",
@@ -26572,6 +27682,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Do Elephants Have Souls?",
         "paakategoria": "artikkeli",
@@ -26604,6 +27715,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kekkonen – Maarit Tyrkkö",
         "paakategoria": "kirja",
@@ -26623,6 +27735,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Sapiens – Ihmisen lyhyt historia",
         "paakategoria": "kirja",
@@ -26642,6 +27755,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Power of Nightmares",
         "paakategoria": "tv-sarja",
@@ -26674,6 +27788,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Tähtäimessä Eichmann",
         "paakategoria": "kirja",
@@ -26693,6 +27808,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "House of the Dragon",
         "paakategoria": "tv-sarja",
@@ -26711,6 +27827,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Works in Progress",
         "paakategoria": "artikkeli",
@@ -26730,6 +27847,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Odysseus",
         "paakategoria": "elokuva",
@@ -26749,6 +27867,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Rest Is History – Odysseus-erikoisjaksot",
         "paakategoria": "podcast",
@@ -26770,6 +27889,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Menetetyt miljardit",
         "paakategoria": "podcast",
@@ -26791,6 +27911,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 6,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
         "paakategoria": "muu",
@@ -26810,6 +27931,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 7,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Alt Shift X – House of the Dragon -jaksoanalyysit",
         "paakategoria": "muu",
@@ -26846,6 +27968,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Akira",
         "paakategoria": "elokuva",
@@ -26865,6 +27988,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "After Life",
         "paakategoria": "tv-sarja",
@@ -26901,6 +28025,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Politiikan pinnan vangit",
         "paakategoria": "kirja",
@@ -26920,6 +28045,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "FC Gnistan",
         "paakategoria": "urheilu",
@@ -26939,6 +28065,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Robin Packalen – varhaistuotanto",
         "paakategoria": "musiikki",
@@ -26958,6 +28085,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "High School Musical 2 – soundtrack",
         "paakategoria": "musiikki",
@@ -26995,6 +28123,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Mahlamäki",
         "teos": "Elämäni ilman sinua",
         "paakategoria": "kirja",
@@ -27014,6 +28143,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Edes vastuutonta väkeä (Careless People)",
         "paakategoria": "kirja",
@@ -27033,6 +28163,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Cineast",
         "paakategoria": "muu",
@@ -27069,6 +28200,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Decoder Ring",
         "paakategoria": "podcast",
@@ -27088,6 +28220,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Musta Laatikko",
         "paakategoria": "kulttuuri",
@@ -27107,6 +28240,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Scorpions",
         "paakategoria": "musiikki",
@@ -27143,6 +28277,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Karpolla on asiaa – Kristian Smeds / Kansallisteatteri",
         "paakategoria": "kulttuuri",
@@ -27162,6 +28297,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Kirjolla",
         "paakategoria": "tv-sarja",
@@ -27181,6 +28317,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "City on Fire",
         "paakategoria": "kirja",
@@ -27200,6 +28337,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Power of the Dog",
         "paakategoria": "kirja",
@@ -27236,6 +28374,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Rikos ja rangaistus (Q-teatteri)",
         "paakategoria": "kulttuuri",
@@ -27255,6 +28394,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Arcane",
         "paakategoria": "tv-sarja",
@@ -27274,6 +28414,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Veera Paananen",
         "teos": "Salpausselän kisat – hiihtoa paikan päällä",
         "paakategoria": "urheilu",
@@ -27305,6 +28448,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Not Like Us – Kendrick Lamar",
         "paakategoria": "musiikki",
@@ -27324,6 +28468,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Amerikkapodi – haastattelu professori Marko Maunulan kanssa",
         "paakategoria": "podcast",
@@ -27356,6 +28501,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Kaksi sisarusta",
         "paakategoria": "kirja",
@@ -27375,6 +28521,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Syllabus",
         "paakategoria": "muu",
@@ -27407,6 +28554,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Elon Musk",
         "paakategoria": "kirja",
@@ -27443,6 +28591,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Hack",
         "paakategoria": "tv-sarja",
@@ -27462,6 +28611,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Diplomaatti",
         "paakategoria": "tv-sarja",
@@ -27498,6 +28648,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Confidence Man",
         "paakategoria": "kirja",
@@ -27517,6 +28668,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Kim Ji-young, syntynyt 1982",
         "paakategoria": "kirja",
@@ -27553,6 +28705,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "IPA-ykkösolut",
         "paakategoria": "muu",
@@ -27572,6 +28725,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Power of the Dog",
         "paakategoria": "kirja",
@@ -27591,6 +28745,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Oikeusjuttu",
         "paakategoria": "kirja",
@@ -27610,6 +28765,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Problem with Jon Stewart",
         "paakategoria": "podcast",
@@ -27629,6 +28785,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Cum Town",
         "paakategoria": "podcast",
@@ -27666,6 +28823,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Banksyn näyttely Tallinnassa",
         "paakategoria": "kulttuuri",
@@ -27685,6 +28843,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Game of Thrones",
         "paakategoria": "tv-sarja",
@@ -27704,6 +28863,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Another Love – Tom Odell",
         "paakategoria": "musiikki",
@@ -27740,6 +28900,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "True Story: Murder, Memoir, Mea Culpa",
         "paakategoria": "kirja",
@@ -27759,6 +28920,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kesälomakellarissa",
         "paakategoria": "musiikki",
@@ -27777,6 +28939,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Cairo Affair",
         "paakategoria": "kirja",
@@ -27796,6 +28959,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Hunting Warhead",
         "paakategoria": "podcast",
@@ -27815,6 +28979,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "House of the Dragon",
         "paakategoria": "tv-sarja",
@@ -27851,6 +29016,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kuinka konservatiivinen aktivisti keksi konfliktin kriittisestä rotuteoriasta",
         "paakategoria": "artikkeli",
@@ -27870,6 +29036,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jantso Jokelin",
         "teos": "Neljätoista heinäkuuta",
         "paakategoria": "kirja",
@@ -27889,6 +29056,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Project Hail Mary",
         "paakategoria": "kirja",
@@ -27921,6 +29089,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Paluu Lempbergiin (East West Street)",
         "paakategoria": "kirja",
@@ -27940,6 +29109,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kollega-bingo (seuraleikki)",
         "paakategoria": "muu",
@@ -27959,6 +29129,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Cleopatra and Frankenstein",
         "paakategoria": "kirja",
@@ -27995,6 +29166,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Hymni elämälle, ei enää häpeää",
         "paakategoria": "kirja",
@@ -28014,6 +29186,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Et ole enää isäni",
         "paakategoria": "kirja",
@@ -28033,6 +29206,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "New York Times Spelling Bee",
         "paakategoria": "muu",
@@ -28052,6 +29226,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Hanna Mahlamäki",
         "teos": "Loikalan lapset",
         "paakategoria": "podcast",
@@ -28088,6 +29263,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Koresponentti",
         "paakategoria": "podcast",
@@ -28107,6 +29283,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Dark Towers",
         "paakategoria": "kirja",
@@ -28143,6 +29320,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Humiseva harju (elokuva, 2025)",
         "paakategoria": "elokuva",
@@ -28162,6 +29340,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Humiseva harju (romaani)",
         "paakategoria": "kirja",
@@ -28181,6 +29360,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Kate Bush – Wuthering Heights",
         "paakategoria": "musiikki",
@@ -28200,6 +29380,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Jussi Niemeläinen",
         "teos": "Would I Lie to You? (tv-sarja)",
         "paakategoria": "tv-sarja",
@@ -28219,6 +29400,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Astral Codex Ten -blogi",
         "paakategoria": "artikkeli",
@@ -28238,6 +29420,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Sininen kirja – Pekka Himanen",
         "paakategoria": "kirja",
@@ -28274,6 +29457,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Käräjät",
         "paakategoria": "kirja",
@@ -28293,6 +29477,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Konflikti",
         "paakategoria": "tv-sarja",
@@ -28312,6 +29497,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mikin takana (TikTok/podcast)",
         "paakategoria": "podcast",
@@ -28331,6 +29517,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Google Willow -kvanttitietokone",
         "paakategoria": "muu",
@@ -28368,6 +29555,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Irishman (The Irishman)",
         "paakategoria": "elokuva",
@@ -28387,6 +29575,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Avioliinariita (Marriage Story)",
         "paakategoria": "elokuva",
@@ -28406,6 +29595,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Markus vastaan kansa",
         "paakategoria": "tv-sarja",
@@ -28442,6 +29632,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Last Juror",
         "paakategoria": "kirja",
@@ -28461,6 +29652,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Läpimurto teos",
         "paakategoria": "kirja",
@@ -28480,6 +29672,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tiede-tv: Maan rajoihin puristettu historia – mistä Suomi on tehty",
         "paakategoria": "muu",
@@ -28499,6 +29692,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Robert Sapolsky: Introduction to Human Behavioral Biology (Stanford)",
         "paakategoria": "muu",
@@ -28536,6 +29730,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Rocketman",
         "paakategoria": "elokuva",
@@ -28555,6 +29750,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Sateentekijät",
         "paakategoria": "kirja",
@@ -28574,6 +29770,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Errol Morris, Do Not Like This Q&A About His New Le Carré Film",
         "paakategoria": "artikkeli",
@@ -28593,6 +29790,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "The Pigeon Tunnel",
         "paakategoria": "elokuva",
@@ -28625,6 +29823,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Post Alfa",
         "paakategoria": "kirja",
@@ -28644,6 +29843,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kekkonen-dokumentti (Yle)",
         "paakategoria": "tv-sarja",
@@ -28663,6 +29863,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Tunturikadun hiljaisuus",
         "paakategoria": "artikkeli",
@@ -28699,6 +29900,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Danhausen: How Danhausen Became Professional Wrestling's Great Weirdo of Charms",
         "paakategoria": "artikkeli",
@@ -28718,6 +29920,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Ralph Lauren (dokumentti)",
         "paakategoria": "elokuva",
@@ -28737,6 +29940,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Tutkija: diagnoosijärjestelmään liittyy merkittäviä eettisiä ongelmia",
         "paakategoria": "artikkeli",
@@ -28756,6 +29960,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Gastronomiadiplomatia",
         "paakategoria": "muu",
@@ -28788,6 +29993,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Vera or Fate",
         "paakategoria": "kirja",
@@ -28807,6 +30013,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Things Fell Apart",
         "paakategoria": "podcast",
@@ -28844,6 +30051,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Inkeri Harju",
         "teos": "Not Okay",
         "paakategoria": "elokuva",
@@ -28863,6 +30071,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Tokyo Vice",
         "paakategoria": "tv-sarja",
@@ -28882,6 +30091,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Knowing Animals",
         "paakategoria": "podcast",
@@ -28901,6 +30111,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Rotukarja (Tender Is the Flesh)",
         "paakategoria": "kirja",
@@ -28920,6 +30131,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Red Hand Files",
         "paakategoria": "muu",
@@ -28939,6 +30151,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Shania Twain: Not Just a Girl",
         "paakategoria": "elokuva",
@@ -28975,6 +30188,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Toppa-ravintolan kesäterassi",
         "paakategoria": "kulttuuri",
@@ -28994,6 +30208,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Kööpenhamina-trilogia",
         "paakategoria": "kirja",
@@ -29013,6 +30228,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Clickbait",
         "paakategoria": "tv-sarja",
@@ -29032,6 +30248,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Wok Lab – syyrialainen ravintola",
         "paakategoria": "ruoka",
@@ -29068,6 +30285,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "P3 Dystopia",
         "paakategoria": "podcast",
@@ -29087,6 +30305,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Paavo Teittinen",
         "teos": "Möhkö-artikkeli (Kuukausiliite)",
         "paakategoria": "artikkeli",
@@ -29106,6 +30325,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Jeeves ja Wooster",
         "paakategoria": "tv-sarja",
@@ -29142,6 +30362,9 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
         "suosittelija": "Satu Vasantola",
         "teos": "Lapsuus / Nuoruus / Aikuisuus (trilogia)",
         "paakategoria": "kirja",
@@ -29161,6 +30384,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Ohjus",
         "paakategoria": "elokuva",
@@ -29180,6 +30404,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "London Falling",
         "paakategoria": "kirja",
@@ -29216,6 +30441,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "The Native Scholar Who Wasn't (New York Times -artikkeli)",
         "paakategoria": "artikkeli",
@@ -29235,6 +30461,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Jalkapallon maailmanselitys",
         "paakategoria": "kirja",
@@ -29254,6 +30481,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Pallon herra",
         "paakategoria": "kirja",
@@ -29273,6 +30501,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tommi Nieminen",
         "teos": "Oi Suomi",
         "paakategoria": "kirja",
@@ -29309,6 +30538,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "What to Do with Robert E. Lee? (artikkeli)",
         "paakategoria": "artikkeli",
@@ -29328,6 +30558,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "To Run My Best Marathon at 44, I Had to Outrun My Past (artikkeli, Wired)",
         "paakategoria": "artikkeli",
@@ -29364,6 +30595,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Slow Horses",
         "paakategoria": "tv-sarja",
@@ -29383,6 +30615,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Evening Rocket",
         "paakategoria": "podcast",
@@ -29419,6 +30652,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Politiikan puskaradio",
         "paakategoria": "podcast",
@@ -29437,6 +30671,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "More Savory Goods",
         "paakategoria": "muu",
@@ -29456,6 +30691,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Pieni röyhkeys jalankulkijana suojatiellä",
         "paakategoria": "muu",
@@ -29482,6 +30718,7 @@ window.VALIDATION_DATA = [
     "kesto_sek": 3519,
     "kesto_str": "58:39",
     "rss_osallistujat": [
+      "Elina Väntönen",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -29490,6 +30727,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Veep",
         "paakategoria": "tv-sarja",
@@ -29509,6 +30747,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Valtaistuinjälkipeli – Game of Thrones -podcast",
         "paakategoria": "podcast",
@@ -29528,6 +30767,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Against the Rules with Michael Lewis",
         "paakategoria": "podcast",
@@ -29560,6 +30800,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Fall of the House of Maxwell",
         "paakategoria": "kirja",
@@ -29579,6 +30820,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "True Detective – kausi 1",
         "paakategoria": "tv-sarja",
@@ -29615,6 +30857,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Quiet Americans",
         "paakategoria": "kirja",
@@ -29634,6 +30877,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Jussi Halla-aho – epävirallinen elämäkerta",
         "paakategoria": "kirja",
@@ -29670,6 +30914,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Slow Horses",
         "paakategoria": "tv-sarja",
@@ -29689,6 +30934,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Down Cemetery Road",
         "paakategoria": "tv-sarja",
@@ -29708,6 +30954,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Pettersson",
         "teos": "Sky Team",
         "paakategoria": "muu",
@@ -29727,6 +30974,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "RSS-lukija ja Substack",
         "paakategoria": "muu",
@@ -29763,6 +31011,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuija Siltamäki",
         "teos": "Uiminen harrastuksena",
         "paakategoria": "urheilu",
@@ -29782,6 +31031,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Petja Pellin reportaasit Ruotsista",
         "paakategoria": "artikkeli",
@@ -29801,6 +31051,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Anna-Sofia Bernerin Instagram Stories",
         "paakategoria": "muu",
@@ -29837,6 +31088,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Ylen presidentinvaalitentit",
         "paakategoria": "muu",
@@ -29856,6 +31108,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Pääministeripeli",
         "paakategoria": "muu",
@@ -29875,6 +31128,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Photo Restoration Group (Facebook)",
         "paakategoria": "muu",
@@ -29912,6 +31166,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Last Days of Night",
         "paakategoria": "kirja",
@@ -29931,6 +31186,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Apple: The First 50 Years",
         "paakategoria": "kirja",
@@ -29967,6 +31223,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Teemu Muhonen",
         "teos": "Eläkekomitea-podcast",
         "paakategoria": "podcast",
@@ -29986,6 +31243,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
         "paakategoria": "kirja",
@@ -30005,6 +31263,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Tenet",
         "paakategoria": "elokuva",
@@ -30042,6 +31301,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Porco Rosso",
         "paakategoria": "elokuva",
@@ -30061,6 +31321,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Prinsessa Mononoke",
         "paakategoria": "elokuva",
@@ -30080,6 +31341,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Helsingin Jäätelötehdas",
         "paakategoria": "ruoka",
@@ -30099,6 +31361,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Vuosaaren huippu",
         "paakategoria": "muu",
@@ -30118,6 +31381,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Helmi Sundström",
         "teos": "OceanGate-dokumentti (Netflix)",
         "paakategoria": "tv-sarja",
@@ -30137,6 +31401,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Helmi Sundström",
         "teos": "Lontoon pommi-iskut -dokumenttisarja (Netflix)",
         "paakategoria": "tv-sarja",
@@ -30156,6 +31421,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 6,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Pod Save the World",
         "paakategoria": "podcast",
@@ -30188,6 +31454,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Getting to Yes: Negotiating Agreement Without Giving In",
         "paakategoria": "kirja",
@@ -30224,6 +31491,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "When the Going Was Good",
         "paakategoria": "kirja",
@@ -30243,6 +31511,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Daily – I Felt the Shame: Why One Lawyer Resigned When His Firm Caved to Trump",
         "paakategoria": "podcast",
@@ -30264,6 +31533,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "American Factory",
         "paakategoria": "elokuva",
@@ -30300,6 +31570,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kadonnut keskittymiskyky – artikkeli (Merja Saarinen, HS Visio)",
         "paakategoria": "artikkeli",
@@ -30319,6 +31590,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Babylon Berlin",
         "paakategoria": "tv-sarja",
@@ -30355,6 +31627,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Eversti",
         "paakategoria": "kirja",
@@ -30374,6 +31647,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Ylen uutispodcast",
         "paakategoria": "podcast",
@@ -30393,6 +31667,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "UEFA:n Instagram-tili",
         "paakategoria": "urheilu",
@@ -30429,6 +31704,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Lähiö (Joakim Zander)",
         "paakategoria": "kirja",
@@ -30448,6 +31724,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Suomalaiset naistenlehdet",
         "paakategoria": "muu",
@@ -30467,6 +31744,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Honestly-podcast (Bari Weiss)",
         "paakategoria": "podcast",
@@ -30488,6 +31766,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Troijan hevonen -podcast (The Trojan Horse Affair)",
         "paakategoria": "podcast",
@@ -30524,6 +31803,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Kadonneen arkin metsästys",
         "paakategoria": "kirja",
@@ -30543,6 +31823,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Matti Apunen",
         "teos": "Future Politics",
         "paakategoria": "kirja",
@@ -30562,6 +31843,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "A Civil Action",
         "paakategoria": "kirja",
@@ -30581,6 +31863,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Boys",
         "paakategoria": "tv-sarja",
@@ -30618,6 +31901,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Company",
         "paakategoria": "kirja",
@@ -30637,6 +31921,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Guillermo del Toron Cabinet of Curiosities",
         "paakategoria": "tv-sarja",
@@ -30656,6 +31941,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Game of Thrones",
         "paakategoria": "tv-sarja",
@@ -30692,6 +31978,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kari Lumikerron muistelmat – jatko-osa",
         "paakategoria": "kirja",
@@ -30711,6 +31998,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Kalifaatti",
         "paakategoria": "tv-sarja",
@@ -30730,6 +32018,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Menneisyyden jäljillä",
         "paakategoria": "podcast",
@@ -30766,6 +32055,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Task (TV-sarja)",
         "paakategoria": "tv-sarja",
@@ -30785,6 +32075,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Metsäpolun raivaaminen itse",
         "paakategoria": "muu",
@@ -30817,6 +32108,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Fire and Fury: Inside the Trump White House",
         "paakategoria": "kirja",
@@ -30836,6 +32128,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Taru Tujunen",
         "teos": "Kaikkien vitsausten ruhtinas: Syövän elämäkerta",
         "paakategoria": "kirja",
@@ -30855,6 +32148,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Taru Tujunen",
         "teos": "The Gene: An Intimate History",
         "paakategoria": "kirja",
@@ -30891,6 +32185,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Tiina Itkonen – Grönlanti-valokuvat",
         "paakategoria": "kulttuuri",
@@ -30927,6 +32222,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Rasmus Helaniemi",
         "teos": "Pod Save the World",
         "paakategoria": "podcast",
@@ -30946,6 +32242,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Oskari Eronen",
         "teos": "Hymni rakkaudelle – Céline Dionin esitys Pariisin olympialaisten avajaisissa",
         "paakategoria": "musiikki",
@@ -30965,6 +32262,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joona Aaltonen",
         "teos": "Ennen kuin kahvi jäähtyy",
         "paakategoria": "kirja",
@@ -31001,6 +32299,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Anna-Sofia Bernerin juttu Minnesotan somaliyhteisöstä (Helsingin Sanomat)",
         "paakategoria": "artikkeli",
@@ -31020,6 +32319,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Milka Valtanen",
         "teos": "The Clearing",
         "paakategoria": "podcast",
@@ -31056,6 +32356,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Sara Vainio",
         "teos": "Shakki (nettishakki)",
         "paakategoria": "muu",
@@ -31075,6 +32376,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Kaikki paskaksi ja ystävät",
         "paakategoria": "podcast",
@@ -31112,6 +32414,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Superpesis – pesäpallopelit paikan päällä",
         "paakategoria": "urheilu",
@@ -31131,6 +32434,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Petja Pelli",
         "teos": "Yölaulajalintujen kuuntelu luonnossa",
         "paakategoria": "muu",
@@ -31150,6 +32454,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Riistetyt",
         "paakategoria": "tv-sarja",
@@ -31182,6 +32487,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "House of Cards",
         "paakategoria": "tv-sarja",
@@ -31200,6 +32506,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Handmaid's Tale",
         "paakategoria": "tv-sarja",
@@ -31219,6 +32526,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Orjattaren taru",
         "paakategoria": "kirja",
@@ -31255,6 +32563,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Mindhunter",
         "paakategoria": "tv-sarja",
@@ -31274,6 +32583,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
         "teos": "Fevers, Feuds, and Diamonds: Ebola and the Ravages of History",
         "paakategoria": "kirja",
@@ -31293,6 +32603,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "From Hell",
         "paakategoria": "kirja",
@@ -31329,6 +32640,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Travis Kelce podcast",
         "paakategoria": "podcast",
@@ -31348,6 +32660,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Miss Americana",
         "paakategoria": "elokuva",
@@ -31367,6 +32680,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Emperor of Ocean Park",
         "paakategoria": "kirja",
@@ -31386,6 +32700,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "New England White",
         "paakategoria": "kirja",
@@ -31405,6 +32720,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Palace Council",
         "paakategoria": "kirja",
@@ -31424,6 +32740,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 5,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Karjala-tietokanta",
         "paakategoria": "muu",
@@ -31456,6 +32773,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Niskakangas",
         "teos": "Tatu ja Patu",
         "paakategoria": "elokuva",
@@ -31474,6 +32792,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kaikki presidentin miehet",
         "paakategoria": "elokuva",
@@ -31493,6 +32812,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Political Gabfest",
         "paakategoria": "podcast",
@@ -31529,6 +32849,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Kurtuluş (Salvation)",
         "paakategoria": "elokuva",
@@ -31548,6 +32869,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Money to Burn",
         "paakategoria": "kirja",
@@ -31567,6 +32889,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mikael Karvajalka",
         "paakategoria": "kirja",
@@ -31586,6 +32909,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Claude (tekoälyavustaja)",
         "paakategoria": "muu",
@@ -31623,6 +32947,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "IFK Helsingin kotipelit",
         "paakategoria": "urheilu",
@@ -31642,6 +32967,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
         "teos": "Tallinna",
         "paakategoria": "muu",
@@ -31661,6 +32987,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Joakim Westrén-Doll",
         "teos": "Cooper-testi keskustelunaiheena",
         "paakategoria": "urheilu",
@@ -31697,6 +33024,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "The Wilderness: A History of the First Presidential Race (Mark Halperin & John Heilemann)",
         "paakategoria": "kirja",
@@ -31734,6 +33062,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Something from Nothing – Alison Roman",
         "paakategoria": "kirja",
@@ -31753,6 +33082,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Technoir – Gunship",
         "paakategoria": "musiikki",
@@ -31772,6 +33102,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
         "teos": "Kino Regina",
         "paakategoria": "kulttuuri",
@@ -31791,6 +33122,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
         "teos": "Milanon talviolympialaiset 2026",
         "paakategoria": "urheilu",
@@ -31810,6 +33142,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 4,
         "is_suspicious": false,
+        "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Liikkuminen uudenvuodenlupauksena",
         "paakategoria": "muu",

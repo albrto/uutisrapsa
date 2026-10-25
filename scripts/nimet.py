@@ -32,6 +32,7 @@ TUNNETUT_NIMET = [
     "Alex af Heurlin", "Jaakko Lyytinen", "Harri Sulavuori",
     "Petja Pelli", "Suvi Turtiainen",
     "Pihla Saravirta", "Topi Kosunen", "Susanna Reinboth",
+    "Elina Väntönen",
 ]
 
 ETUNIMI_KARTTA = {
