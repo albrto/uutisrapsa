@@ -21401,7 +21401,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Timo R. Stewart",
-        "teos": "Jaakob Boks (The Books of Jacob)",
+        "teos": "Jaakobin kirjat (Olga Tokarczuk)",
         "paakategoria": "kirja",
         "kategoriat": [
           "historia",
@@ -21409,8 +21409,8 @@ window.VALIDATION_DATA = [
           "eurooppalainen kirjallisuus"
         ],
         "kuvaus": "Olga Tokarczukin romaani, joka kertoo 1700-luvun eurooppalaisesta messiaanisesta kultista juutalaisuuden piirissä. Teos on laajasti tutkittu ja täynnä mielenkiintoisia hahmoja ja ajankuvia.",
-        "google_linkki": "https://www.google.com/search?q=Olga+Tokarczuk+The+Books+of+Jacob",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Books+of+Jacob+Tokarczuk",
+        "google_linkki": "https://www.google.com/search?q=Olga+Tokarczuk+Jaakobin+kirjat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Olga+Tokarczuk+The+Books+of+Jacob",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -21452,6 +21452,25 @@ window.VALIDATION_DATA = [
         "google_linkki": "https://www.google.com/search?q=Search+Engine+podcast+PJ+Vogt",
         "lisatieto_linkki": "https://open.spotify.com/search/Search%20Engine%20PJ%20Vogt",
         "alkupera": "ulkomainen",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Amazing Race Suomi",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "tosi-tv",
+          "kilpailu"
+        ],
+        "kuvaus": "Suomalainen versio kansainvälisestä matkailukilpailusta, jossa parit kisaavat ympäri maailmaa. Annin suosikkeja ovat rallikuski Marcus Grönholm ja hänen parinsa Timo.",
+        "google_linkki": "https://www.google.com/search?q=Amazing+Race+Suomi",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Amazing+Race+Suomi",
+        "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
