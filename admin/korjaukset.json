@@ -2982,5 +2982,13 @@
         "tietokirja"
       ]
     }
+  },
+  {
+    "tyyppi": "poisto",
+    "jakso_id": "7485f7b1-4d5d-40b5-95bd-0cb9247caa4e",
+    "jakso_otsikko": "Areenahanke korruptoi, julkishallinnon tekoälykiima kiihottaa, apokalyptinen lämpö saa temuttamaan",
+    "paivamaara": "2.7.2026",
+    "r_idx": 0,
+    "teos": "Don't Look Up"
   }
 ]
