@@ -66,13 +66,16 @@
         "teos": "Ennakkoluulolla",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Ennakkoluulolla+Pekka+Strang+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Ennakkoluulolla%20Pekka%20Strang",
+        "lisatieto_linkki": "https://open.spotify.com/episode/0BKBQraz60uaBM54y5Qba9",
         "alkupera": "kotimainen",
         "kuvaus": "Tuomas suosittelee kuuntelemaan näyttelijä Pekka Strangin Ennakkoluulolla-podcastia, jossa hän itse oli vieraana ja jossa vieraasta esitetään joukko ennakkoluuloisia väitteitä.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "haastattelu",
           "viihde"
+        ],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/13-l%C3%B6ytyyk%C3%B6-tuomas-peltom%C3%A4est%C3%A4-kuvaa-jossa-h%C3%A4n-tiernapoikana/id1894815345?i=1000797373288"
         ]
       },
       {
@@ -112,7 +115,7 @@
         "teos": "The Daily: When A.I. Comes for Your Purpose in Life",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=The+Daily+AI+comes+for+your+purpose+in+life",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily",
+        "lisatieto_linkki": "https://open.spotify.com/episode/31voblXKw2y8zqxDl72i3w",
         "alkupera": "ulkomainen",
         "kuvaus": "Elina suosittelee The Daily -podcastin tuoretta jaksoa, jossa keski-ikäinen matematiikan professori pohtii, mitä tapahtuu kun tekoäly ylittää hänen elämäntyönsä – jakso kääntyy lopulta koskettavaksi pohdinnaksi ihmisyyden kauneudesta.",
         "suosittelija": "Elina Väntönen",
@@ -120,6 +123,9 @@
           "tekoäly",
           "yhteiskunta",
           "ajankohtainen"
+        ],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/when-a-i-comes-for-your-purpose-in-life/id1200361736?i=1000796109623"
         ]
       },
       {
@@ -367,20 +373,23 @@
         "teos": "Futucast",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Futucast+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Futucast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/4zqMhp0bBtXpGoHXkeSU0o",
         "kuvaus": "Isakko-nimisen haastattelijan podcast, jossa Tuomas Peltomäki vieraili puhumassa Menetetyt miljardit -podcastista - Peltomäki kehui haastattelijaa mahtavaksi ja jaksoa erinomaiseksi.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "haastattelu",
           "media"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/fortum-uniper-ja-6-miljardin-euron-tappiot-tuomas-peltom%C3%A4ki/id1304340812?i=1000786898627"
+        ]
       },
       {
         "teos": "Luomakunta-podcast",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Luomakunta-podcast+Jonne+Ranta",
-        "lisatieto_linkki": "https://open.spotify.com/search/Luomakunta-podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1MC9cWCyNThfShTVX9PvQG",
         "kuvaus": "Uutisrapsan entisen käsikirjoittajan, stand up -koomikko Jonne Rannan podcast, jossa Peltomäki kävi puhumassa Menetetyistä miljardeista - hyvin vapaamuotoinen ja hauska podcast.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -556,7 +565,7 @@
         "teos": "The Rest Is History – Odysseus-erikoisjaksot",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=The+Rest+Is+History+Odysseus",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20History%20Odysseus",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1Pj6Q2TrTHpnfn68aza5EU",
         "kuvaus": "The Rest Is History -podcastin kaksiosaiset erikoisjaksot, joissa käydään läpi Odysseiaa. Tuomas Peltomäen mukaan erinomaista kuunneltavaa Nolan-elokuvan jälkeen.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -564,7 +573,10 @@
           "kirjallisuus",
           "antiikin Kreikka"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-odyssey-hero-of-the-trojan-horse-part-1/id1537788786?i=1000775966069"
+        ]
       },
       {
         "teos": "Menetetyt miljardit",
@@ -830,7 +842,7 @@
         "teos": "What's Epic About the Odyssey? Everything (The Daily -podcast)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=The+Daily+What%27s+Epic+About+the+Odyssey+Everything",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20What%27s%20Epic%20About%20the%20Odyssey%20Everything",
+        "lisatieto_linkki": "https://open.spotify.com/episode/7grcFULcdBUtKRdKIHPTLS",
         "kuvaus": "New York Timesin The Daily -podcastin jakso, jossa keskustellaan Odysseiasta ja Christopher Nolanin tulevasta elokuvaversiosta. Vieraina muun muassa Odysseian englanniksi kääntänyt Emily Wilson sekä kirjailija Madeline Miller.",
         "suosittelija": "Topi Kosunen",
         "kategoriat": [
@@ -838,7 +850,10 @@
           "kirjallisuus",
           "elokuva"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/whats-epic-about-the-odyssey-everything/id1200361736?i=1000776456642"
+        ]
       },
       {
         "teos": "Tribe: On Homecoming and Belonging",
@@ -1664,7 +1679,7 @@
         "teos": "Good Hang with Amy Poehler",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Good%20Hang%20with%20Amy%20Poehler",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1KN7v1xqiEf0XN27Q1JZeB",
         "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
@@ -1672,7 +1687,10 @@
           "viihde",
           "haastattelu"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/steve-carell/id1795483480?i=1000756967954"
+        ]
       },
       {
         "teos": "Pistaasilevite (Fiasconaro)",
@@ -3059,7 +3077,7 @@
         "teos": "Competition is for Losers – How to Start a Startup -luento (Peter Thiel)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Peter+Thiel+Competition+is+for+Losers+How+to+Start+a+Startup",
-        "lisatieto_linkki": "https://open.spotify.com/search/How%20to%20Start%20a%20Startup%20Peter%20Thiel",
+        "lisatieto_linkki": "https://open.spotify.com/episode/4mx8GP3GTjApwWwi4O8Lud",
         "kuvaus": "Peter Thielin luento Sam Altmanin vetämältä How to Start a Startup -kurssilta, jossa käsitellään monopoleja ja kilpailua. Luento on kuunneltavissa Spotifyssa ja luettavissa esseenä Wall Street Journalissa.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -3436,7 +3454,7 @@
         "teos": "Kaikki rakastaa ysäriä",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Kaikki+rakastaa+ysäriä+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Kaikki%20rakastaa%20ysäriä",
+        "lisatieto_linkki": "https://open.spotify.com/episode/04OakPf7J5Gt9E65GFiVh6",
         "kuvaus": "Henry Lehdon ysärimusiikkipodcast, jossa vierailevana Tuomas Peltomäki kertoo lapsuudestaan ja nuoruudestaan Oulussa sekä tärkeästä U2-bändistä. Podcastissa puhutaan musiikista, mutta myös elämästä laajemmin.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -3444,7 +3462,10 @@
           "nostalgia",
           "haastattelu"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/u2-ja-tuomas-peltom%C3%A4ki/id1668426829?i=1000721604546"
+        ]
       },
       {
         "teos": "Middlesex",
@@ -3946,7 +3967,7 @@
         "teos": "Suomen Lehdistön podcast – Paavo Teittisen haastattelu",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Suomen+Lehdistö+podcast+Paavo+Teittinen",
-        "lisatieto_linkki": "https://open.spotify.com/search/Suomen%20Lehdist%C3%B6%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/63MG84Tu4qozYwvAXqlpXC",
         "kuvaus": "Suomen Lehdistön podcastin jakso, jossa Paavo Teittinen kertoo millaista on kun juttujen kohteet haastavat toimittajia käräjille ja miten paljon se vie työaikaa.",
         "suosittelija": "Hanna Havusto",
         "kategoriat": [
@@ -3954,7 +3975,10 @@
           "media",
           "oikeudenkäynnit"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/paavo-teittinen-rikostutkinnoista-totta-kai-sit%C3%A4-py%C3%B6ritt%C3%A4%C3%A4/id1684199544?i=1000709079468"
+        ]
       }
     ]
   },
@@ -4479,7 +4503,7 @@
         "teos": "The Daily – I Felt the Shame: Why One Lawyer Resigned When His Firm Caved to Trump",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=The+Daily+NYT+I+Felt+the+Shame+lawyer+resigned+firm+caved+Trump",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20NYT%20I%20Felt%20the%20Shame%20lawyer%20resigned",
+        "lisatieto_linkki": "https://open.spotify.com/episode/0i07M3DaRHqs0W8zfmYYkc",
         "kuvaus": "New York Timesin The Daily -podcastin jakso, jossa asianajaja Thomas Sipp kertoo, miksi hän irtisanoutui suuresta lakifirmasta sen antauduttua Trumpin hallinnon painostukselle. Jakso valottaa oikeusvaltion rapautumista yksittäisen ihmisen näkökulmasta.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
@@ -4487,7 +4511,10 @@
           "oikeusvaltio",
           "Yhdysvallat"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/i-felt-ashamed-why-one-lawyer-resigned-when-his-firm/id1200361736?i=1000702500208"
+        ]
       },
       {
         "teos": "American Factory",
@@ -6853,7 +6880,7 @@
         "teos": "Lääkärilehti-podcast: Virtahepo lääkärin talossa – Onko sote-uudistuksesta tullut säästöprojekti?",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Lääkärilehti+podcast+Annika+Saarikko+sote+virtahepo",
-        "lisatieto_linkki": "https://open.spotify.com/search/L%C3%A4%C3%A4k%C3%A4rilehti%20podcast%20Annika%20Saarikko",
+        "lisatieto_linkki": "https://open.spotify.com/episode/2leB6hoT8XjgxjHX03P35p",
         "kuvaus": "Suomen Lääkärilehden podcast-jakso, jossa toimittaja Lauri Korkeaoja haastattelee väistyvää keskustan puheenjohtajaa Annika Saarikkoa sote-uudistuksesta. Poikkeuksellisen avoin haastattelu, jossa Saarikko myös kritisoi itse tekemäänsä uudistusta.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -6861,7 +6888,10 @@
           "sote",
           "terveydenhuolto"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/virtahepo-l%C3%A4%C3%A4k%C3%A4ritalossa-onko-sote-uudistuksesta-tullut/id1693771503?i=1000653553320"
+        ]
       }
     ]
   },
@@ -8209,7 +8239,7 @@
         "teos": "Past Present Future",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Past+Present+Future+podcast+Oxford",
-        "lisatieto_linkki": "https://open.spotify.com/search/Past%20Present%20Future%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1IlDwLsys1L1Sgl4phYwsZ",
         "kuvaus": "Oxfordin professorin juoksema podcast, joka käsittelee korkealentoisia ideoita, esseitä ja teorioita. Erityisesti suositellaan jaksoa 'History of Ideas: George Orwell', jossa käsitellään Orwellin esseetä The Lion and the Unicorn.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -8217,7 +8247,10 @@
           "filosofia",
           "ideat"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/history-of-ideas-george-orwell/id1682047968?i=1000623267325"
+        ]
       },
       {
         "teos": "The Times: How the Newspaper of Record Survived Scandal, Scorn, and the Transformation of Journalism",
@@ -8506,7 +8539,7 @@
         "teos": "Menneisyyden jäljillä",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Lotta+Vuorio+Menneisyyden+j%C3%A4ljill%C3%A4+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Menneisyyden%20j%C3%A4ljill%C3%A4",
+        "lisatieto_linkki": "https://open.spotify.com/episode/2435vB7MUfB2LDBeyh0Twx",
         "kuvaus": "Lotta Vuorion historiapodcast, josta Tuomas suosittelee erityisesti tuoretta jaksoa salaisten symbolien ja symbolien historian aiheesta.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -8514,7 +8547,10 @@
           "symbolit",
           "suomalainen podcast"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/89-salaisia-symboleja-ja-symbolien-historiaa/id1494132405?i=1000628365144"
+        ]
       },
       {
         "teos": "Revisionist History",
@@ -8554,7 +8590,7 @@
         "teos": "Blindboy Podcast",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Blindboy+Podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Blindboy%20Podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/4TFXbTKHFd2D7z7O95TzPo",
         "kuvaus": "Pohjois-irlantilainen monologi-podcast, jossa naamioitu Blindboy käsittelee laajoja aiheita omalaatuisella tyylillään. Erityisesti jakso 'The Secret History of Bootcut Jeans' on suositeltava – tunnin monologi siitä, miksi 2000-luvun alussa bootcut-farkut ja teräväkärkiset nahkakengät olivat hetken aikaa valtamuotia.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -8562,7 +8598,10 @@
           "kulttuuri",
           "muoti"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-history-of-bootcut-jeans/id1300577518?i=1000626885894"
+        ]
       }
     ]
   },
@@ -8898,7 +8937,7 @@
         "teos": "The Ezra Klein Show: What's Really Going On in Russia",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=The+Ezra+Klein+Show+What%27s+Really+Going+On+in+Russia+Stephen+Kotkin",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Ezra%20Klein%20Show",
+        "lisatieto_linkki": "https://open.spotify.com/episode/5OGCL55QcPkhMVL21zM3qC",
         "kuvaus": "New York Timesin podcast-jakso, jossa Venäjä-asiantuntija Stephen Kotkin keskustelee Wagnerin kapinasta Venäjällä ja Putinin vallan tulevaisuudesta. Tunnin mittainen jakso.",
         "suosittelija": "Alli Hallonblad",
         "kategoriat": [
@@ -8906,7 +8945,10 @@
           "Venäjä",
           "Ukraina"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/whats-really-going-on-in-russia/id1548604447?i=1000618853053"
+        ]
       },
       {
         "teos": "La Haine",
@@ -9074,7 +9116,7 @@
         "teos": "Jälkiviisas historia – Ruben Stiller",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=J%C3%A4lkiviisas+historia+Ruben+Stiller+podcast",
-        "lisatieto_linkki": "https://areena.yle.fi/hae?q=J%C3%A4lkiviisas%20historia&service=radio",
+        "lisatieto_linkki": "https://areena.yle.fi/1-65593522",
         "kuvaus": "Kesäkuussa julkaistu Ruben Stillerin podcast-jakso, jossa vieraina professori Antero Holmila ja eduskuntatutkimuksen keskuksen johtaja Markku Joki-Sipilä. Käsittelee matalamielisen jälkiviisastelun rajaa ja Suomen Nato-prosessia.",
         "suosittelija": "Paavo Teittinen",
         "kategoriat": [
@@ -9256,7 +9298,7 @@
         "teos": "Tuomas Peltomäki -podcast (äärioikeisto-jakso)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Tuomas+Peltomäki+podcast+Oula+Silvennoinen",
-        "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/15pGlq5aiCVkXtAJd5FGNr",
         "kuvaus": "Tuomas Peltomäen oma podcast, jossa hän keskustelee Oula Silvennoisen kanssa äärioikeistosta ja perussuomalaisajattelusta kahden ja puolen tunnin haastattelussa.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -9264,7 +9306,10 @@
           "äärioikeisto",
           "perussuomalaiset"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/%C3%A4%C3%A4rioikeisto-suomessa-ja-perussuomalaiset-vieraana/id1501094207?i=1000492805200"
+        ]
       },
       {
         "teos": "Tuomas Peltomäki -podcast (tekoäly-sarja)",
@@ -10515,7 +10560,7 @@
         "teos": "Kirjoittamisesta-podcast: Antti Holma vieraana",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Erkka+Mykkänen+kirjoittamisesta+podcast+Antti+Holma",
-        "lisatieto_linkki": "https://open.spotify.com/search/Erkka%20Mykkänen%20kirjoittamisesta%20Antti%20Holma",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1hNT4n6t5ATMh8ApcTBn15",
         "kuvaus": "Erkka Mykkäsen Kirjoittamisesta-podcastin kaksiosainen jakso, jossa Antti Holma vierailee ja he juttelevat kirjoittamisesta kasuaalisti. Suositellaan erityisesti Antti Holman fanille Koulumatka-podcastin jälkeiseen tyhjiöön.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
@@ -10523,7 +10568,10 @@
           "haastattelu",
           "suomalainen"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/j46-antti-holma-osa-1/id1210163350?i=1000584573974"
+        ]
       }
     ]
   },
@@ -12552,7 +12600,7 @@
         "teos": "Honestly-podcast (Bari Weiss)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Honestly+podcast+Bari+Weiss",
-        "lisatieto_linkki": "https://open.spotify.com/search/Honestly%20Bari%20Weiss",
+        "lisatieto_linkki": "https://open.spotify.com/episode/2ChZnG9pv7IO4CbCOPJMyj",
         "kuvaus": "New York Timesin entisen mielipidetoimitajan Bari Weissin konservatiivi-republikaaninen podcast. Erityisesti jakso, jossa Matt Taibbi keskustelee Ukrainasta, on Tuomaksen mukaan raivostuttavan paljastava.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -12560,7 +12608,10 @@
           "yhdysvallat",
           "journalismi"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/matt-taibbi-v-bret-stephens-on-american-power/id1570872415?i=1000550543337"
+        ]
       },
       {
         "teos": "Troijan hevonen -podcast (The Trojan Horse Affair)",
@@ -12703,7 +12754,7 @@
         "teos": "Black Rhino (Radio Lab -podcast)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Radiolab+Black+Rhino+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Radiolab%20Black%20Rhino",
+        "lisatieto_linkki": "https://open.spotify.com/episode/5ZpG89sT47byEKygSdls4k",
         "kuvaus": "Radio Labin podcast-jakso mustasta sarvikuonosta, jossa amerikkalainen metsästäjä voitti huutokaupassa luvan ampua superharvinaisen mustan sarvikuonon. Tarina kääntyy yllättävästi päälaelleen, kun selviää, että tappaminen palvelee lajin suojelua.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -12711,7 +12762,10 @@
           "eläimet",
           "dokumentti"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rhino-hunter/id152249110?i=1000351674412"
+        ]
       },
       {
         "teos": "Drive",
@@ -12730,7 +12784,7 @@
         "teos": "Puheenaihe-podcast",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Puheenaihe+podcast+Rami+Kuriva",
-        "lisatieto_linkki": "https://open.spotify.com/search/Puheenaihe%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/3JFmbmYEEXJBfdU1js2vQw",
         "kuvaus": "Rami Kurivan vetämä kunnianhimoinen suomalainen podcast, jossa käy laaja kirjo suomalaisia vieraita puhumassa asioista seikkaperäisesti ja pitkään. Tuomas Peltomäki on ollut jaksossa mukana keskustelemassa mm. rokotteista ja mediasta räppäri Slim Millin kanssa.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -12738,7 +12792,10 @@
           "keskustelu",
           "suomalainen"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/zeitgeist-tieto-valta-ja-ajan-henki-tuomas-peltom%C3%A4ki/id1452356442?i=1000548418116"
+        ]
       }
     ]
   },
@@ -19291,7 +19348,7 @@
         "teos": "Call Your Girlfriend – Business Special",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Call+Your+Girlfriend+Business+Special+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Call%20Your%20Girlfriend",
+        "lisatieto_linkki": "https://open.spotify.com/episode/0QYzGiY3gKAIA8QCNLxtkq",
         "kuvaus": "Jakso käsittelee sitä, miten podcasteilla tehdään rahaa ja miten ihmisistä tulee podcast-miljonäärejä.",
         "suosittelija": "Aino Frilander",
         "kategoriat": [
@@ -19299,7 +19356,10 @@
           "bisnes",
           "media"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/businesswoman-special-2-podcast-millionaires/id881487725?i=1000431350477"
+        ]
       },
       {
         "teos": "Letter from London: Bad Boy – New Yorker",
