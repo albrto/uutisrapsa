@@ -30,6 +30,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mare+of+Easttown",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -65,6 +66,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Killers+of+the+Flower+Moon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -83,6 +85,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Wager+David+Grann",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -101,6 +104,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Lost+City+of+Z+David+Grann",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -119,6 +123,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Last%20Weeks%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -137,6 +142,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Night+Watch+Terry+Pratchett",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -172,6 +178,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Dark+Waters",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -190,6 +197,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Politics%20Theory%20Other",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -208,6 +216,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=MasterChef+Australia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -243,6 +252,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=We+Own+This+City",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -278,6 +288,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=When+Einstein+Walked+with+Gödel",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -313,6 +324,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Elvis+Presley+in+Concert+Baz+Luhrmann",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -331,6 +343,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Moulin+Rouge+Baz+Luhrmann",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -349,6 +362,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Everybody%27s%20Free%20To%20Wear%20Sunscreen%20Baz%20Luhrmann",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -367,6 +381,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=East+West+Street+Philippe+Sands",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -385,6 +400,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://store.steampowered.com/search/?term=Whispers+in+the+Moss",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -420,6 +436,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Splendid+and+the+Vile",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -438,6 +455,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Plot+Against+America",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -456,6 +474,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Bill+Buford+Good+Bread+New+Yorker",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -491,6 +510,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fauda",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -509,6 +529,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Babylon+Berlin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -544,6 +565,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.newyorker.com/search?q=The+Science+of+Mind+Reading+James+Somers",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -562,6 +584,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://jsomers.net",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -580,6 +603,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sivullinen+kirjakauppa+Kaisaniemi+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -598,6 +622,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -615,6 +640,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -650,6 +676,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Huset+danish+series",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -668,6 +695,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Korkeintaan+v%C3%A4h%C3%A4n+v%C3%A4synyt",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -699,6 +727,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Black+Rabbit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -717,6 +746,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -753,6 +783,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=All+the+Worst+Humans",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -788,6 +819,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Annie+Ernaux+La+Place",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -806,6 +838,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ulkolinja+Iran+Yhdysvallat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -824,6 +857,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kari+Haakana+muistelmat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -859,6 +893,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Story+Murder+Memoir+Mea+Culpa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -876,6 +911,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Jarkko%20Martikainen%20Kes%C3%A4lomakellarissa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -894,6 +930,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Cairo+Affair+Olen+Steinhauer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -912,6 +949,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Hunting%20Warhead",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -930,6 +968,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -965,6 +1004,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Dropout",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -983,6 +1023,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Madoff+The+Monster+of+Wall+Street",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1001,6 +1042,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Maameren+velho+Ursula+Le+Guin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1019,6 +1061,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Unelmakoti+Sisiliassa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1054,6 +1097,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Suomen+Kuvalehti+Musta+pilleri+joukkoampumiset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1072,6 +1116,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Yes+Minister",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1090,6 +1135,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Monty+Python%27s+Flying+Circus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1125,6 +1171,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/haku?q=Kasper+Str%C3%B6mman+sauna",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1143,6 +1190,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Origin%20Story%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1161,6 +1209,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kaikki+synnit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1196,6 +1245,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Humankind+Rutger+Bregman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1214,6 +1264,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Twilight",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1232,6 +1283,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Joel+Slote+Tampereen+taidemuseo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1267,6 +1319,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Putin%27s+People+Katharine+Belton",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1282,9 +1335,10 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Kesäkuussa julkaistu Ruben Stillerin podcast-jakso, jossa vieraina professori Antero Holmila ja eduskuntatutkimuksen keskuksen johtaja Markku Joki-Sipilä. Käsittelee matalamielisen jälkiviisastelun rajaa ja Suomen Nato-prosessia.",
         "google_linkki": "https://www.google.com/search?q=J%C3%A4lkiviisas+historia+Ruben+Stiller+podcast",
-        "lisatieto_linkki": "https://areena.yle.fi/hae?q=J%C3%A4lkiviisas%20historia&service=radio",
+        "lisatieto_linkki": "https://areena.yle.fi/1-65593522",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1303,6 +1357,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Traffic+Ben+Smith",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1321,6 +1376,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Pitk%C3%A4+tie+Natoon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1352,6 +1408,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1370,6 +1427,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sideways+Festival+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1403,6 +1461,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinun+Margot+Meri+Valkama",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1421,6 +1480,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sinun+Margot+Helsingin+Kaupunginteatteri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1439,6 +1499,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Righteous+Gemstones",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1474,6 +1535,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Greatest+Nights+in+Pop",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1492,6 +1554,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.alisoneroman.com/recipes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1510,6 +1573,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Viki+ja+K%C3%B6pi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1545,6 +1609,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Jacques+Brel+documentary",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1563,6 +1628,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Futility%20Closet",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1580,6 +1646,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Assassin%27s+Apprentice+Robin+Hobb",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1598,6 +1665,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Katiska+Kilpeläinen+Mäkinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1633,6 +1701,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Paljastus+tarina+dopinguutisesta+Johanna+Aatsalo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1651,6 +1720,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Levyraati",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1669,6 +1739,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sali+403+Ilkka+Pernu+Long+Play+Storytel",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1687,6 +1758,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Patrick+Radden+Keefe+New+Yorker+London+Underworld+teen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1722,6 +1794,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Singles+Inferno",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1740,6 +1813,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Erkki+Tuomioja+Poliittiset+p%C3%A4iv%C3%A4kirjat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1758,6 +1832,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Only+Murders+in+the+Building",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1776,6 +1851,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://chat.openai.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1807,6 +1883,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jaakko+Teppo+elämäkerta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1825,6 +1902,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Harry+Potter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1843,6 +1921,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Saara+Aalto+X+Factor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1874,6 +1953,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.longplay.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1892,6 +1972,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=HyperNormalisation",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1926,6 +2007,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1944,6 +2026,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -1979,6 +2062,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Born+a+Crime+Trevor+Noah",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -1997,6 +2081,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Sunderland+Til+I+Die",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2032,6 +2117,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Cover+Up+Seymour+Hersh",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2050,6 +2136,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Popeda",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2068,6 +2155,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Down+Cemetery+Road",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2086,6 +2174,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Children+of+Ash+and+Elm+Neil+Price",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2104,6 +2193,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sami+Makkonen+Kalevala",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2140,6 +2230,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=When+McKinsey+Comes+to+Town",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2158,6 +2249,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Go+as+a+River+Shelly+Read",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2176,6 +2268,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Vallisaari+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2194,6 +2287,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Rise+and+Fall+of+the+Third+Reich+William+Shirer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2225,6 +2319,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+uimastadion+ravintola",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2243,6 +2338,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Married+at+First+Sight+Australia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2261,6 +2357,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20History",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2279,6 +2376,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Michael+Collins+1996",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2297,6 +2395,26 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Stakeknife%20BBC",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Helsingin uimastadion",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "uimala",
+          "Helsinki",
+          "kesä"
+        ],
+        "kuvaus": "Tuomaksen podcast-historian ensimmäinen antisuositus: älkää missään nimessä menkö Helsingin uimastadionille, joka on hänestä Suomen uimastadioneista huonoin – niin täynnä porukkaa, että olo on epämiellyttävä. Stadikan ranskalaiset ovat silti varmasti hyviä.",
+        "google_linkki": "https://www.google.com/search?q=Helsingin+uimastadion",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -2330,9 +2448,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "New York Timesin podcast-jakso, jossa Venäjä-asiantuntija Stephen Kotkin keskustelee Wagnerin kapinasta Venäjällä ja Putinin vallan tulevaisuudesta. Tunnin mittainen jakso.",
         "google_linkki": "https://www.google.com/search?q=The+Ezra+Klein+Show+What%27s+Really+Going+On+in+Russia+Stephen+Kotkin",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Ezra%20Klein%20Show",
+        "lisatieto_linkki": "https://open.spotify.com/episode/5OGCL55QcPkhMVL21zM3qC",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/whats-really-going-on-in-russia/id1548604447?i=1000618853053"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2351,6 +2472,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=La+Haine",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2369,6 +2491,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Aleksi+Tuomas+Kyrö",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2387,6 +2510,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2422,6 +2546,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Keskiy%C3%B6n%20Kaninkolo",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2440,6 +2565,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Totuus+palvelutalosta+Ilta-Sanomat+Salli+Hakala",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2475,6 +2601,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mating",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2493,6 +2620,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Peaky+Blinders",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2511,6 +2639,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Irishman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2529,6 +2658,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Silence+2016+Scorsese",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2564,6 +2694,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Okaisu+japanilaista+kasvisruokaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2582,6 +2713,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Better+Call+Saul",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2618,6 +2750,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Anna+Brotkin+Juho+Manninen+uusi+nousu+teatteri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2636,6 +2769,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Laman+lapset+Sanna+Kajander+Ruth",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2654,6 +2788,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2672,6 +2807,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Avatar+The+Last+Airbender+Netflix+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2690,6 +2826,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio+Reinboth+Passi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2725,6 +2862,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=MS+Romantika",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2760,6 +2898,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2778,6 +2917,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Pete+Poskiparta+mentalisti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2796,6 +2936,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ihana+raha+Tampereen+Ty%C3%B6v%C3%A4en+Teatteri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2814,6 +2955,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Nehtil%C3%A4n+tila+Hyvink%C3%A4%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2832,6 +2974,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fallout+tv+series",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2850,6 +2993,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keho+Opas+asukkaalle+Bill+Bryson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2885,6 +3029,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Catch+and+Kill+Ronan+Farrow",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2903,6 +3048,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Undoing+Project+Michael+Lewis",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2921,6 +3067,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tommi+Uschanov+Long+Play+Sivuääni+puhu+vain+siitä+mistä+tiedät",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2939,6 +3086,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+House+of+Lost+Souls+Patrick+Gleason+McCurdy+Thrilling+Adventures",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -2974,6 +3122,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Peril+Woodward+Costa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -2992,6 +3141,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Squid+Game",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3027,6 +3177,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Don't+Look+Up",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3045,6 +3196,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Empire+of+Pain+Patrick+Radden+Keefe",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3080,6 +3232,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=This+Naked+Mind",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3098,6 +3251,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kultainen+kompassi+Philip+Pullman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3116,6 +3270,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Three+Identical+Strangers",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3134,6 +3289,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://openai.com/research/dall-e",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3165,6 +3321,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": null,
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3183,6 +3340,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/@foodwishes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3218,6 +3376,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Married+at+First+Sight+Australia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3236,6 +3395,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Island+UK+season+3",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3254,6 +3414,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Strokes%20Reality%20Awaits",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3271,6 +3432,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3289,6 +3451,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3324,6 +3487,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tuca+and+Bertie",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3342,6 +3506,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ghost+of+Tsushima+peli",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3360,6 +3525,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Villa+Gyllenberg+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3378,6 +3544,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Antti+Hurskainen+essee+yle+kulttuuricocktail+py%C3%B6r%C3%A4ily",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3411,6 +3578,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=A+Man+in+Full",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3429,6 +3597,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/404%20Media",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3464,6 +3633,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3482,6 +3652,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://fissioaktori.wordpress.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3517,6 +3688,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nina+Lykke",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3535,6 +3707,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Risto+Oikarinen+Piisparomaani",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3553,6 +3726,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sydämen+asioita+Thunberg",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3571,6 +3745,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Philip+Pullman+His+Dark+Materials",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3606,6 +3781,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Fuska+ravintola+Oulu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3624,6 +3800,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.supla.fi/podcast/succession-sessio",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3642,6 +3819,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Benji+Plants",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3660,6 +3838,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=A-studio+Matti+Vanhanen+Yle+Areena",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3695,6 +3874,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Demon+Copperhead",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3713,12 +3893,13 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Zero+Day+Robert+De+Niro",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       },
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Severance",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -3726,17 +3907,18 @@ window.VALIDATION_DATA = [
           "Apple TV+",
           "työelämä"
         ],
-        "kuvaus": "Apple TV+:n fantastinen mystinen jännärisarja, jossa työntekijät voivat erottaa työ- ja vapaa-ajan minänsä aivoihin asennettavan laitteen avulla. Teknisesti, visuaalisesti ja tarinankerronnallisesti huippuluokkaa.",
+        "kuvaus": "Apple TV+:n fantastinen mystinen jännärisarja, jossa työntekijät voivat erottaa työ- ja vapaa-ajan minänsä aivoihin asennettavan laitteen avulla. Tuomas kehui jo ensimmäistä kautta ja pitää toista kautta teknisesti, visuaalisesti ja tarinankerronnallisesti huippuluokkana.",
         "google_linkki": "https://www.google.com/search?q=Severance+Apple+TV+sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
         "r_idx": 3,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Orjalauluista hiphoppiin – Mustan musiikin sielua etsimässä",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -3744,11 +3926,12 @@ window.VALIDATION_DATA = [
           "afroamerikkalainen kulttuuri",
           "tietokirja"
         ],
-        "kuvaus": "Markku Salon uutuuskirja, joka käy läpi mustan musiikin historiaa. Sisältää muun muassa tarinan Fisk Jubilee Singers -yhtyeen Suomen kiertueesta vuonna 1895.",
+        "kuvaus": "Markku Salon uutuuskirja, joka käy läpi mustan musiikin historiaa. Tuomas innostui Harri Uusitorpan HS-jutusta, jossa kerrotaan muun muassa Fisk Jubilee Singers -yhtyeen Suomen-kiertueesta vuonna 1895.",
         "google_linkki": "https://www.google.com/search?q=Orjalauluista+hiphoppiin+Markku+Salo",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Orjalauluista+hiphoppiin+Markku+Salo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3784,6 +3967,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=An+Unfinished+Love+Story+Doris+Kearns+Goodwin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3802,6 +3986,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3820,6 +4005,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Bald%20Move%20Waffle%20Party",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3855,6 +4041,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Dolly%20Parton%27s%20America",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3873,6 +4060,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Watership+Down",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3891,6 +4079,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Energy+A+Human+History+Richard+Rhodes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -3927,6 +4116,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Pitk%C3%A4+vuoro+Paavo+Teittinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3945,6 +4135,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=A+Complete+Unknown",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3963,6 +4154,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Say+Nothing+Patrick+Radden+Keefe",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -3981,6 +4173,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=pizza+puttanesca+resepti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4016,6 +4209,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.bbc.com/search?q=Finding+My+Torturer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4034,6 +4228,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.midjourney.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4052,6 +4247,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Tori%20Amos%20Little%20Earthquakes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4087,6 +4283,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kunnon+kansalainen+Heikki+Aittakoski",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4105,6 +4302,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Hamilton+musical",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4123,6 +4321,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4141,6 +4340,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Presumed+Innocent+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4159,6 +4359,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Wieninjuojat+Ville+Ranta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4194,6 +4395,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=RuPaul%27s+Drag+Race",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4212,6 +4414,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Fiasco+The+Inside+Story+of+the+Brexit+Talks+Peter+Foster+Prospect",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4246,6 +4449,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Memories+of+Murder",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4264,6 +4468,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Goldberg%20Variations%20Glenn%20Gould",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4282,6 +4487,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Loser+Thomas+Bernhard",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4313,6 +4519,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Imitation+Game",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4331,6 +4538,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Katriina+Salli+Salminen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4349,6 +4557,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Man+Who+Spoke+Snakish+Kivirahk",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4384,6 +4593,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Robert+Tanenbaum+Karp",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4402,6 +4612,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Elisa+Aaltola+Esseit%C3%A4+el%C3%A4imist%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4420,6 +4631,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.thenewatlantis.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4455,6 +4667,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Muistimerkint%C3%B6j%C3%A4+Moskovasta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4473,6 +4686,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4491,6 +4705,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Swedish+Connection",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4509,6 +4724,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keskell%C3%A4+virtaa+Kongo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4540,6 +4756,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theatlantic.com/search/#q=nuclear+family+david+brooks",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4558,6 +4775,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Better+Call+Saul",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4576,6 +4794,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+Week+Tonight+John+Oliver",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4611,6 +4830,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+olympialaisten+avajaiset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4629,6 +4849,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4647,6 +4868,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Lahti+matkailu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4665,6 +4887,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Mamma+Rosa+ravintola+Lahti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4700,6 +4923,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Leave+the+Gun+Take+the+Cannoli+Mark+Seal",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4718,6 +4942,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Angels+in+America+Kansallisteatteri+2024+liput",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4736,6 +4961,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Apprentice+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4754,6 +4980,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tuntematon+sotilas+Vanha+Jukko+Espoon+teatteri+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4789,6 +5016,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/haku/?query=Karita+Mattila+ooppera",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4807,6 +5035,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://pokemongolive.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4842,6 +5071,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tokyo+Vice",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4860,6 +5090,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinulle+Margot+Meri+Valkama",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -4896,6 +5127,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Expats+Chris+Pavone",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4913,6 +5145,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Accident+Chris+Pavone",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4931,6 +5164,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Travelers+Chris+Pavone",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4949,6 +5183,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://longplay.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4967,6 +5202,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Ruplaruhtinat+Outi+Salovaara",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -4985,6 +5221,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Hope%20This%20Helps%20Dustin%20Nickerson",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5020,6 +5257,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Rememberings+Sinead+O%27Connor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5038,6 +5276,26 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Kristiinankaupungin+merimuseo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Mengelen elämäkerta äänikirjana ennen nukkumaanmenoa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "äänikirja",
+          "elämäkerta",
+          "uni"
+        ],
+        "kuvaus": "Moni nukahtaa rikosjuttuihin, mutta Joona kertoo, mikä ei toimi: Josef Mengelen elämäkerta iltakuunteluna. Nukahtaminen oli hidasta ja unet tosi omituisia, koska kirja kuvaa kokeita hyvin yksityiskohtaisesti. Ei suositella.",
+        "google_linkki": "https://www.google.com/search?q=Josef+Mengele+el%C3%A4m%C3%A4kerta",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -5074,6 +5332,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Dopesick",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5092,6 +5351,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5110,6 +5370,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://store.steampowered.com/search/?term=Final+Fantasy+VII+Remake",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5128,6 +5389,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Thomas+Bernhard",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5164,6 +5426,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Dirty%20John",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5182,6 +5445,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/@jetlagthegame",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5200,6 +5464,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Challengers+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5218,6 +5483,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Sami%20ja%20Jorma",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5253,6 +5519,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Sivurajaheitto",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5271,6 +5538,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/99%25+Invisible",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5289,6 +5557,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/@YleKioski",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5324,6 +5593,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Kurt%20Vile%20Philadelphia%27s%20Been%20Good%20to%20Me",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5341,6 +5611,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Patrick+Radden+Keefe+Varkaiden+kaupunki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5359,6 +5630,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/sketsipoika78",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5377,6 +5649,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/kaisakoivisto",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5394,6 +5667,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5429,6 +5703,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Wind%20of%20Change%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5447,6 +5722,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Say+Nothing+Patrick+Radden+Keefe",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5465,6 +5741,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=LA+92",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5483,6 +5760,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Detroit+2017+Kathryn+Bigelow",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5501,6 +5779,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Education+of+an+Idealist+Samantha+Power",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5532,6 +5811,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=snail+mucin+essence+korean+cosmetics",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5550,6 +5830,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Antin%20matka",
         "alkupera": "podme",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5568,6 +5849,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Eurovision+Song+Contest+2023",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5586,6 +5868,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Annihilation",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5604,6 +5887,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Annihilation+Jeff+VanderMeer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5622,6 +5906,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=True+Detective",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5657,6 +5942,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/visailut/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5675,6 +5961,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/haku?q=Pako+Pohjois-Koreasta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5710,6 +5997,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5728,6 +6016,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Mind+at+Play+How+Claude+Shannon+Invented+the+Information+Age",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5763,6 +6052,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Believer+The+Rise+and+Fall+of+Stan+Lee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5781,6 +6071,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Can%27t+Get+You+Out+of+My+Head+Adam+Curtis",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5798,6 +6089,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5833,6 +6125,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+World+in+a+Grain+Vince+Beiser",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5851,6 +6144,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Dynasty+New+England+Patriots+Jeff+Benedict",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5886,6 +6180,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Celine%20Dion%20Paris%20Olympics",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5904,6 +6199,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5922,6 +6218,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Leave+the+World+Behind",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -5957,6 +6254,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaija+K+Jouni+Kemppainen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5975,6 +6273,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Ujuni%20Ahmed",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -5993,6 +6292,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Piranesi+Susanna+Clarke",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6028,6 +6328,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fireplace+4K+Netflix",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6046,6 +6347,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+Ocean+Park",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6064,6 +6366,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Vappu+Rossi+taiteilija",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6082,6 +6385,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=NRK+Sanna+Marin+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6113,6 +6417,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Crown",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6131,6 +6436,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Broen+Broen+The+Bridge",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6149,6 +6455,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.recoveryelevator.com",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6184,6 +6491,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Star+Wars+Ahsoka",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6202,6 +6510,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Juuri+Hyv%C3%A4%C3%A4+Miikka+Nousiainen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6233,6 +6542,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Stranger+Things",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6251,6 +6561,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Alex+Ott+valokuvataiteen+museo+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6287,6 +6598,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Dogs+of+Mariupol",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6305,6 +6617,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=ilmajooga+tunnit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6323,6 +6636,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jakautunut+kansakunta+Markus+Kantola",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6341,6 +6655,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sarajevo+matkaopas",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6359,6 +6674,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Lloyd+Loideson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6394,6 +6710,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.newyorker.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6412,6 +6729,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.myfitnesspal.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6430,6 +6748,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theguardian.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6465,6 +6784,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Inventing+Anna",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6483,6 +6803,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Moon+Knight",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6501,6 +6822,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Drive+to+Survive",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6537,6 +6859,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.kansallisteatteri.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6555,6 +6878,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Fear+and+Loathing+on+the+Campaign+Trail+72",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6573,6 +6897,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Boys+on+the+Bus+Timothy+Crouse",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6591,6 +6916,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.ateneum.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6626,6 +6952,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.newyorker.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6644,6 +6971,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Unbelievable",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6662,6 +6990,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://nymag.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6697,6 +7026,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Help+Kathryn+Stockett",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6714,6 +7044,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Only+One+Left+Riley+Sager",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6732,6 +7063,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Silent+Patient+Alex+Michaelides",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6750,6 +7082,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kiertolainen+Fumiko+Hayashi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6768,6 +7101,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=nakkikrokotiili+naposteltava",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6803,6 +7137,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kuolema+Venetsiassa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6821,6 +7156,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/c/yogawithadriene",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6838,6 +7174,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/1-1566213",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6873,6 +7210,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Tiedetrippi",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6891,6 +7229,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Pimeyden+vasen+k%C3%A4si",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6909,6 +7248,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.duolingo.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6945,6 +7285,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Hacks",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -6963,6 +7304,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Superpesis+otteluohjelma+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -6994,6 +7336,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Black+Bag+2025",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7012,6 +7355,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Taking+of+Getty+Oil",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7047,6 +7391,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7065,6 +7410,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mrs.+America",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7083,6 +7429,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Last+Dance",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7118,6 +7465,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://digi.kansalliskirjasto.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7136,6 +7484,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.supla.fi/podcast/succession-sessio",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7154,6 +7503,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7185,6 +7535,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=I+Daniel+Blake",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7220,6 +7571,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/West%20End%20Girl%20Lily%20Allen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7238,6 +7590,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Oikeusmurha+Rami+M%C3%A4kinen+Matti+R%C3%A4m%C3%B6",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7256,6 +7609,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Ultra%20Rachel%20Maddow",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7273,6 +7627,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7309,6 +7664,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaikki+taivaan+sini",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7327,6 +7683,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Big+Lebowski",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7345,6 +7702,25 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/dust2digital/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Keilaaminen",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "keilailu",
+          "harrastus"
+        ],
+        "kuvaus": "Tuomaksen lyhyt antisuositus keilaamiselle: radalla käyminen on ollut hänelle aina nöyryyttävää.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -7376,6 +7752,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Trump+Washington+Post",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7394,6 +7771,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Mikkeli+asemaravintola+lounas",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7412,6 +7790,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Vege-messut+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7447,6 +7826,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tuhottu+lapsuus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7465,6 +7845,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Regime+Change+Trump",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7479,9 +7860,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Isakko-nimisen haastattelijan podcast, jossa Tuomas Peltomäki vieraili puhumassa Menetetyt miljardit -podcastista - Peltomäki kehui haastattelijaa mahtavaksi ja jaksoa erinomaiseksi.",
         "google_linkki": "https://www.google.com/search?q=Futucast+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Futucast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/4zqMhp0bBtXpGoHXkeSU0o",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/fortum-uniper-ja-6-miljardin-euron-tappiot-tuomas-peltom%C3%A4ki/id1304340812?i=1000786898627"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7496,9 +7880,10 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Uutisrapsan entisen käsikirjoittajan, stand up -koomikko Jonne Rannan podcast, jossa Peltomäki kävi puhumassa Menetetyistä miljardeista - hyvin vapaamuotoinen ja hauska podcast.",
         "google_linkki": "https://www.google.com/search?q=Luomakunta-podcast+Jonne+Ranta",
-        "lisatieto_linkki": "https://open.spotify.com/search/Luomakunta-podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1MC9cWCyNThfShTVX9PvQG",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7517,6 +7902,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7552,6 +7938,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nineteen+Swedish+Academy+Matilda+Gustafsson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7570,6 +7957,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Blankets+Craig+Thompson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7588,6 +7976,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=What+It+Takes+Richard+Ben+Cramer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7624,6 +8013,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jumalat+juhlivat+öisin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7642,6 +8032,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Eppu%20Normaali%20Repullinen%20hittejä",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7660,6 +8051,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Leevi%20and%20the%20Leavings%2041%20hitti%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7678,6 +8070,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=%40WAR+The+Rise+of+the+Military-Internet+Complex",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7713,6 +8106,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Karpo+dokumentti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7731,6 +8125,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mielen+tyyneydest%C3%A4+Plutarkhos",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7762,6 +8157,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Sensuroimaton+P%C3%A4iv%C3%A4rinta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7798,6 +8194,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Fienta+Linnahall+kierros",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7816,6 +8213,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Twuins%20Leija%20Lautamaja",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7834,6 +8232,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Draghi+report+part+B+competitiveness",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7852,6 +8251,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Studio+2025",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -7887,6 +8287,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Artemis+Fowl",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7905,6 +8306,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Her%C3%A4%C3%A4misi%C3%A4+Juha+Kauppinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7923,6 +8325,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Modernit+naiset+näyttely+Ateneum",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7941,6 +8344,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=BirdLife+Suomi+100+lajin+haaste",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7959,6 +8363,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=kaukopartiohiihto+Suomi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7977,6 +8382,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=ABC+Anjalankoski+Kouvola",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -7995,6 +8401,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8031,6 +8438,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/search?query=Pamela+Anderson+doesn%27t+need+your+redemption",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8049,6 +8457,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Love+Pamela",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8067,6 +8476,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Operaatio+Kekkonen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8085,6 +8495,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Articles%20of%20Interest",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8120,6 +8531,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Neil%20Young%20After%20the%20Gold%20Rush",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8138,6 +8550,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=V%C3%A4yl%C3%A4+Rosa+Liksom",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8155,6 +8568,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Hytti+nro+6+Rosa+Liksom",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8172,6 +8586,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Taivaanpallo+Olli+Jalonen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8190,6 +8605,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikko+Hypp%C3%B6nen+internet",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8225,6 +8641,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Crown",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8243,6 +8660,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tommi+Uschanov+haastattelu+Ylioppilaslehti+Tuija+Siltam%C3%A4ki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8261,6 +8679,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=His+Dark+Materials",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8296,6 +8715,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/search?query=Untold+Story+Russiagate+Road+War+Ukraine",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8314,6 +8734,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Munkkivuori",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8329,9 +8750,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Erkka Mykkäsen Kirjoittamisesta-podcastin kaksiosainen jakso, jossa Antti Holma vierailee ja he juttelevat kirjoittamisesta kasuaalisti. Suositellaan erityisesti Antti Holman fanille Koulumatka-podcastin jälkeiseen tyhjiöön.",
         "google_linkki": "https://www.google.com/search?q=Erkka+Mykkänen+kirjoittamisesta+podcast+Antti+Holma",
-        "lisatieto_linkki": "https://open.spotify.com/search/Erkka%20Mykkänen%20kirjoittamisesta%20Antti%20Holma",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1hNT4n6t5ATMh8ApcTBn15",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/j46-antti-holma-osa-1/id1210163350?i=1000584573974"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8368,6 +8792,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Mureneva+maa",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8386,6 +8811,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mika+Maliranta+Pinnan+alta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8404,6 +8830,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.aitojamakuja.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8439,6 +8866,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Unconsoled+Kazuo+Ishiguro",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8457,6 +8885,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/This%20Naked%20Mind",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8475,6 +8904,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.tammi.fi/kirjat/markus-selin-perustuu-tositapahtumiin/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8506,6 +8936,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Omenakrokotiilin+kuolema",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8524,6 +8955,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kuolemantanssi+Aittokoski",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8542,6 +8974,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+All+Maladies+Mukherjee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8577,6 +9010,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Rogues+Patrick+Radden+Keefe",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8595,6 +9029,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.tiktok.com/@dearmodern",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8612,6 +9047,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8643,6 +9079,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Patarei+vankila+Tallinna+kierros",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8661,6 +9098,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Erkki+Tuomiojan+p%C3%A4iv%C3%A4kirjat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8679,6 +9117,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://podcasts.apple.com/us/genre/podcasts-education/id1304",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8714,6 +9153,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Monimuotoisuus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8732,6 +9172,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Taylor%20Swift",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8750,6 +9191,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Rest%20Is%20History",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8768,6 +9210,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Past%20Present%20Future%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8803,6 +9246,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Rise+of+Victimhood+Culture",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8821,6 +9265,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Friday+Night+Lights+Bissinger",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8839,6 +9284,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Hello+World+Hannah+Fry",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8874,6 +9320,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/katriina.pajari/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8892,6 +9339,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.linnanmaki.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8910,6 +9358,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ichiro+Suzuki+feature+profile+baseball",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8928,6 +9377,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Remarkably+Bright+Creatures",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -8962,6 +9412,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Indiana+Jones+and+the+Dial+of+Destiny",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -8980,6 +9431,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=vankilakokeilu+skandinavian+malliin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9011,6 +9463,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Joel+Haahtela+Mist%C3%A4+maailmat+syntyvät",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9029,6 +9482,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Wilderness+of+Error+Errol+Morris",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9064,6 +9518,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Ihmisi%C3%A4+vuosia+el%C3%A4m%C3%A4%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9082,6 +9537,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Useful+Work+versus+Useless+Toil+William+Morris+full+text",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9100,6 +9556,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Likainen+somesota+Pekka+Mykk%C3%A4nen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9117,6 +9574,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9152,6 +9610,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Terminator",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9170,6 +9629,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Muistin+varassa+Julia+Korkman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9188,6 +9648,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Simpanssi+sisällämme+Sonja+Koski",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9206,6 +9667,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Helen+Lewis+The+Bluestocking+newsletter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9241,6 +9703,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sooley+John+Grisham",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9259,6 +9722,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Line+of+Duty",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9277,6 +9741,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Umbrella+Academy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9295,6 +9760,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Super%20Context%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9326,6 +9792,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Veep",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9344,6 +9811,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Thick+of+It",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9362,6 +9830,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Cold+Feet",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9398,6 +9867,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Think%20Twice%20Michael%20Jackson%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9416,6 +9886,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Merriam-Webster%20Word%20of%20the%20Day",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9451,6 +9922,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jens+Lapidus+Mr+1001",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9469,6 +9941,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20History",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9505,6 +9978,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Schitt%27s+Creek",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9523,6 +9997,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Stuff%20to%20Blow%20Your%20Mind",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9541,6 +10016,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Spy+Among+Friends+Ben+Macintyre",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9559,6 +10035,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Ben+Macintyre+The+Spy+and+the+Traitor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9595,6 +10072,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Landman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9613,6 +10091,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Wolf+of+Wall+Street",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9631,6 +10110,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Good+Traitor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9666,6 +10146,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Lempipodi",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9684,6 +10165,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/PMPmies%20Veden%20varaan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9702,6 +10184,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Super+Pumped+The+Battle+for+Uber",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9737,6 +10220,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Darkest+Hour+2017",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9755,6 +10239,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jussi+Halla-aho+Markku+Heikkilä",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9773,6 +10258,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Ville+Itälä+Pauli+Komsi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9791,6 +10277,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Plain%20English%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9809,6 +10296,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Dwarkesh%20Podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9827,6 +10315,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Memos%20to%20the%20President%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9863,6 +10352,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=How+Civil+Wars+Start+Barbara+Walter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9881,6 +10371,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Stepa%20r%C3%A4pp%C3%A4ri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9899,6 +10390,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Hamilton+Musical+Hamburg+deutsch",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9917,6 +10409,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://supla.fi/search?q=Politiikka-Suomi",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -9952,6 +10445,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Beatles+Get+Back",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9970,6 +10464,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -9988,6 +10483,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ikitie+2017",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10023,6 +10519,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Systemsprenger",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10041,6 +10538,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Plot+Jean+Hanff+Korelitz",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10076,6 +10574,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Le+Bureau+des+Legendes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10094,6 +10593,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=New+York+Times+The+Upshot+Thomas+Edsall+column",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10112,6 +10612,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Wind%20of%20Change%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10147,6 +10648,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Borgen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10165,6 +10667,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Julia+2022+HBO",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10183,6 +10686,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keys+to+Good+Cooking",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10201,6 +10705,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=We+Own+This+City",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10219,6 +10724,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Crypto%20Island%20PJ%20Vogt",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10254,6 +10760,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Ski-rious%20Problems",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10272,6 +10779,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Vapaaehtoisesti+lapseton+Heini+Maksimainen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10290,6 +10798,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=3+Body+Problem",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10324,6 +10833,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hesburger.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10342,6 +10852,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Matt+Taibbi+Russiagate+WMD+Medium",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10377,6 +10888,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Life+on+the+Edge+The+Coming+of+Age+of+Quantum+Biology",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10395,6 +10907,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Meet+the+Mormon+Transhumanists+Seeking+Salvation+in+the+Singularity",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10413,6 +10926,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Thomas+Merton+The+Monk+Who+Became+a+Prophet+New+Yorker",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10447,6 +10961,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Many+Mistakes+Dan+MacCrum",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10465,6 +10980,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://en.wikipedia.org/wiki/ACT_UP",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10483,6 +10999,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kovan+viikon+ilta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10501,6 +11018,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ville+Ranta+pilapiirrokset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10537,6 +11055,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Katabasis+R.F.+Kuang",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10555,6 +11074,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Free+Press+Oral+History+Village+Voice",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10572,6 +11092,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Paavo+Teittinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10589,6 +11110,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Monika+Fagerholm",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10606,6 +11128,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tomi+Kontio",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10641,6 +11164,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.rollingstone.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10659,6 +11183,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Dune+Prophecy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10677,6 +11202,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20Classified",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10712,6 +11238,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Lauma+Jouni+Tikkanen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10730,6 +11257,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://longplay.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10765,6 +11293,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10783,6 +11312,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Politiikka-Suomi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10801,6 +11331,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Radiolab%20Everybody%27s%20Got%20a%20Genome",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10836,6 +11367,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Art+of+Fermentation+Sandor+Katz",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10854,6 +11386,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=ginger+beer+homemade+fermentation+recipe",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10889,6 +11422,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Dolly%20Parton%20Greatest%20Hits",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10907,6 +11441,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mad%20Men",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10925,6 +11460,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/feature/art-2000011963093.html",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -10960,6 +11496,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Vivian+Gornick+Fierce+Attachments",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10978,6 +11515,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Hundred+Years+of+Solitude+Garcia+Marquez",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -10996,6 +11534,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Agent+Sonya+Ben+Macintyre",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11031,6 +11570,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.tiktok.com/search?q=Alfred+Baga",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11049,6 +11589,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=pistaasij%C3%A4%C3%A4tel%C3%B6+resepti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11067,6 +11608,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tamminiemen+museo+opastettu+kierros",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11102,6 +11644,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Elina+Backman+Kuningas+kuolee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11120,6 +11663,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+Copenhagen+trilogy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11138,6 +11682,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=UEFA+Euro+2024+Yle",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11173,6 +11718,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Root%20of%20Evil%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11191,6 +11737,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/haku/?query=Jari+Aarnio",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11209,6 +11756,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Hercule+Poirot",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11227,6 +11775,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Downton+Abbey",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11262,6 +11811,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Min%C3%A4+koira+ja+ihmiskunta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11280,6 +11830,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Philip%20Glass%20Gidon%20Kremer%20Vienna%20Philharmonic%201993",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11298,6 +11849,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Fourth+Man+Robert+Baer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11333,6 +11885,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kovan+viikon+ilta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11351,6 +11904,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Salaliitto+Kairossa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11369,6 +11923,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Past%20Present%20Future%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11400,6 +11955,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11418,6 +11974,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": null,
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11453,6 +12010,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Hard+to+Break",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11471,6 +12029,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11489,6 +12048,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=She+Said+2022",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11506,6 +12066,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11537,6 +12098,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Norjan+hiihtot%C3%A4hdet",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11555,6 +12117,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Political%20Gabfest",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11573,6 +12136,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://amanvir.com/obscure-islands",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11608,6 +12172,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Guardians+John+Grisham",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11626,6 +12191,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Digital+Minimalism+Cal+Newport",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11661,6 +12227,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Antin%20matka",
         "alkupera": "podme",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11679,6 +12246,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Song+of+the+Cell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11697,6 +12265,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11732,6 +12301,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kun+niin+perkeleesti+sahaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11750,6 +12320,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Putin%27s+People+Catherine+Belton",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11768,6 +12339,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Viral+Matt+Ridley+Alina+Chan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11803,6 +12375,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+Broker+Robert+Caro",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11821,6 +12394,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/9%20to%205%20WNNA%20Power%20Broker",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11839,6 +12413,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Erkki+Tuomiojan+p%C3%A4iv%C3%A4kirjat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11857,6 +12432,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Matti+Vanhanen+p%C3%A4iv%C3%A4kirja",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11875,6 +12451,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Sliced%20Bread%20BBC",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11906,6 +12483,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Story+Based+Inquiry+Association",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11924,6 +12502,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Mindscape%20Sean%20Carroll",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11942,6 +12521,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Radio+Sodoma",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -11978,6 +12558,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kun+saa+rakastaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -11996,6 +12577,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ursan+Aurinkokuntamalli+Helsinki+Espoo+Patterimäki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12014,6 +12596,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.journalisti.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12029,9 +12612,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Suomen Lehdistön podcastin jakso, jossa Paavo Teittinen kertoo millaista on kun juttujen kohteet haastavat toimittajia käräjille ja miten paljon se vie työaikaa.",
         "google_linkki": "https://www.google.com/search?q=Suomen+Lehdistö+podcast+Paavo+Teittinen",
-        "lisatieto_linkki": "https://open.spotify.com/search/Suomen%20Lehdist%C3%B6%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/63MG84Tu4qozYwvAXqlpXC",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/paavo-teittinen-rikostutkinnoista-totta-kai-sit%C3%A4-py%C3%B6ritt%C3%A4%C3%A4/id1684199544?i=1000709079468"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12067,6 +12653,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12085,6 +12672,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12120,6 +12708,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theperfectloaf.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12138,6 +12727,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Say+Nothing",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12173,6 +12763,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Wuthering+Heights+Emily+Brontë",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12191,6 +12782,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Historia+de+Gentibus+Septentrionalibus+Olaus+Magnus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12209,6 +12801,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Dolce+Gabbana+pistachio+cream+buy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12244,6 +12837,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Caracasissa+on+vielä+yö",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12262,6 +12856,25 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Elements+of+Style+Strunk+White",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Star Wars: Skywalkerin nousu",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "scifi",
+          "Star Wars"
+        ],
+        "kuvaus": "Marko kävi katsomassa uuden Tähtien sodan 11-vuotiaan poikansa kanssa eikä ole kärsinyt elokuvissa aikoihin yhtä paljon: 2,5 tuntia kuolettavan tylsää, kolmen elokuvan verran tavaraa ilman mitään tarttumapintaa. Suuri pettymys Star Wars -fanille.",
+        "google_linkki": "https://www.google.com/search?q=Star+Wars+Skywalkerin+nousu",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Star+Wars+The+Rise+of+Skywalker",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -12297,6 +12910,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Burning+Down+the+House+Julian+Zelizer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12315,6 +12929,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Awakenings+1990",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12351,6 +12966,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Pölynimurikauppiaat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12369,6 +12985,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sateentekijät+Björn+Wahlroos",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12404,6 +13021,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Clint+Shawn+Levy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12421,6 +13039,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=One+Battle+After+Another",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12456,6 +13075,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ensilumi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12474,6 +13094,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Nosferatu+1922",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12492,6 +13113,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=What+It+Takes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12527,6 +13149,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=This+Is+Us",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12545,6 +13168,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tuca+and+Bertie",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12563,6 +13187,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/PS%20Tykitell%C3%A4%C3%A4n",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12581,6 +13206,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Have%20You%20Heard%20George%27s%20Podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12612,6 +13238,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://twitter.com/KainuunRaja",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12630,6 +13257,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Blade+Runner+1982",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12648,6 +13276,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jos+t%C3%A4m%C3%A4+on+ihminen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12684,6 +13313,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Svart%20Rido",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12702,6 +13332,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=vety+lihapiiras+Lappeenranta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12720,6 +13351,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Kuninkaansaari+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12755,6 +13387,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Koiria+ja+ihmisi%C3%A4",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12773,6 +13406,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Antti+Holman+oopperajuhlat",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12808,6 +13442,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.tiktok.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12826,6 +13461,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Lisele%20Green%20The%20Logical%20Song",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12844,6 +13480,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nervous+States+William+Davies",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12875,6 +13512,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Stenb%C3%A4ck",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12893,6 +13531,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=K%C3%A4r%C3%A4j%C3%A4t+Markus+Nummi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12911,6 +13550,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/History%205%20Spring%202008%20The%20Making%20of%20Modern%20Europe",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -12946,6 +13586,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Beckham+documentary+Netflix",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12964,6 +13605,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Civil+War+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -12982,6 +13624,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13000,6 +13643,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/love.wats/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13035,6 +13679,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Umbrella+Academy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13053,6 +13698,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tiitinen+vakoilijoita+ja+veijareita",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13071,6 +13717,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13089,6 +13736,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13124,6 +13772,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/nathanwpyle/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13159,6 +13808,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Seinfeld",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13177,6 +13827,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Honestly%20with%20Bari%20Weiss",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13195,6 +13846,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Blocked%20and%20Reported",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13213,6 +13865,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Politics%20War%20Room",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13244,6 +13897,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Westworld",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13262,6 +13916,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Lennusadam+Viron+merimuseo+Tallinna",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13297,6 +13952,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kittil%C3%A4n+opetukset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13315,6 +13971,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Anatomy+of+a+Murder+Robert+Traver",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13333,6 +13990,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Minne+katosi+Antti+J%C3%A4rvi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13351,6 +14009,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=J%C3%A4lkisuomettumisen+ruumiinavaus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13369,6 +14028,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Onko+Brexit+totuus+Suomesta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13404,6 +14064,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13422,6 +14083,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/1-78624438",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13440,6 +14102,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=A%20Poet%20Un%20poeta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13458,6 +14121,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13493,6 +14157,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Anteeksi+lausuminen+hautausmaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13529,6 +14194,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Morning+Show",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13547,6 +14213,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Naisten+EM-jalkapallo+2025+finaali",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13565,6 +14232,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Suomen+Kuvalehti+tilaus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13583,6 +14251,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Kusikivi+Etel%C3%A4-Pohjanmaa+historiallinen+n%C3%A4ht%C3%A4vyys",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13618,6 +14287,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Story+Michael+Finkel",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13636,6 +14306,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Crazy+Rich+Asians+Kevin+Kwan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13654,6 +14325,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=kesäkasvispizza+resepti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13689,6 +14361,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Lumentaju+Peter+H%C3%B8eg",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13706,6 +14379,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=J%C3%A4%C3%A4+Ulla-Leena+Lundberg",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13724,6 +14398,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Muumit+ja+taikatalvi+Tove+Jansson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13742,6 +14417,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=UEFA+Euro+2020+EM-kisat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13777,6 +14453,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=L%C3%A4hde+koululaisooppera+Sari+Kaasinen+Kansallisooppera",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13795,6 +14472,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=YL-analyysi+Tuija+Siltam%C3%A4ki+toimittaja+hiihti+Malmin+lentokent%C3%A4ll%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13813,6 +14491,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+Sanomat+Robo%C3%A4%C3%A4ni+kuuntele+sovellus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13848,6 +14527,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tina+Turner+documentary",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13866,6 +14546,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Schitt%27s+Creek",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13884,6 +14565,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tyt%C3%B6t+18",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13918,6 +14600,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sin%C3%A4+osaat+sin%C3%A4+pystyt+Ilkka+Suominen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13936,6 +14619,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Lighthouse+2019",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -13971,6 +14655,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Faian+vikavalhe",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -13989,6 +14674,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Matkoja+maalauksiin",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14007,6 +14693,25 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+White+Lotus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Jalkapallon MM-kisat Qatarissa",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "Qatar"
+        ],
+        "kuvaus": "Tommi aloitti suosituksensa epä- ja antisuosituksella: älkää katsoko Qatarin MM-kisoja. Säästyneen ajan voi käyttää vaikka Hannu-Pekka Björkmanin maalausjuttujen kuunteluun Yle Areenasta.",
+        "google_linkki": "https://www.google.com/search?q=Jalkapallon+MM-kisat+2022+Qatar",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -14042,6 +14747,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=And+the+Band+Played+On",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14060,6 +14766,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Paper+of+Record+New+York+Post",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14078,6 +14785,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Lasse+Rantanen+kuvittaja+Helsingin+Sanomat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14113,6 +14821,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Dolly%20Parton%27s%20America",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14131,6 +14840,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Death+of+Stalin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14149,6 +14859,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Watchmen+HBO",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14184,6 +14895,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Brexit+2019",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14202,6 +14914,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=ProPublica+NYT+Magazine+Pamela+Colloff+bloodstain+analysis+jury",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14220,6 +14933,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Fareed+Zakaria+The+End+of+Economics+Foreign+Policy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14255,6 +14969,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+on+the+Spectrum",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14273,6 +14988,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=HJK+HIFK+jalkapallo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14291,6 +15007,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=HIFK+TPS+jääkiekko",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14326,6 +15043,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Obsession",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14343,6 +15061,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14361,6 +15080,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Pikalähettinä+Pekingissä",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14379,6 +15099,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Don+Rosa+Sammon+salaisuus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14397,6 +15118,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=A+Knight+of+the+Seven+Kingdoms",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14432,6 +15154,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Eristyksissä",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14450,6 +15173,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ville+Vuorenmaa+taiteilija",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14468,6 +15192,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Brysselin%20kone",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14503,6 +15228,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nazim+Hikmet",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14521,6 +15247,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ylen+aamu-tv",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14556,6 +15283,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kotka+Tuomas+Niskakangas",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14574,6 +15302,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Can%20You%20Hear%20the%20Music%20Ludwig%20Goransson%20Oppenheimer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14605,6 +15334,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Euroopan+parlamentti+Satu+Helin+Pekka+Nurminen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14623,6 +15353,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=O+Mecanismo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14641,6 +15372,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Curse+of+Genius+1843+magazine",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14677,6 +15409,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14695,6 +15428,25 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Marty+Supreme",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Last One Laughing Ruotsi",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "reality"
+        ],
+        "kuvaus": "Brittikausien jälkeen Salla kokeili ruotsalaista Last One Laughingia – ruotsalaisethan ovat hauskoja ja osaavat kaiken. Tämä versio oli kuitenkin ihan onneton. Seuraavaksi vuorossa norjalainen.",
+        "google_linkki": "https://www.google.com/search?q=Last+One+Laughing+Sverige",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -14730,6 +15482,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sticky+Fingers+Jann+Wenner",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14748,6 +15501,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://theconversation.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14765,6 +15519,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Anthill%20The%20Conversation",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14783,6 +15538,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Ologies%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14818,6 +15574,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/@yogawithadriene",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14836,6 +15593,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sun+poika+k%C3%A4vi+t%C3%A4%C3%A4ll%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14854,6 +15612,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Imu+Pokemonvuodet",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14885,6 +15644,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Homo+Deus+Yuval+Noah+Harari",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14903,6 +15663,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Genome+Matt+Ridley",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14921,6 +15682,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Red+Queen+Matt+Ridley",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14939,6 +15701,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Antti+Holma+kuinka+menestyä+suomalaisessa+televisiossa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -14974,6 +15737,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Chief+of+Staff+Gavin+Barwell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -14992,6 +15756,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Hiihdon+MM-kisat+2023",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15010,6 +15775,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Antti+Vuokko+Nurmesniemi+n%C3%A4yttely+Designmuseo+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15044,6 +15810,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15062,6 +15829,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Queen%27s+Gambit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15080,6 +15848,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Spider-Man+No+Way+Home",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15115,6 +15884,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Robin+Williams+documentary+Netflix",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15133,6 +15903,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Robin+Williams+Graham+Norton",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15151,6 +15922,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Politics+on+the+Edge+Rory+Stewart",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15169,6 +15941,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20Politics",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15204,6 +15977,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Every+Day+Is+Sunday+Ken+Belson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15222,6 +15996,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Luusarit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15240,6 +16015,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Code+The+Hidden+Language+of+Computer+Hardware+and+Software+Charles+Petzold",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15275,6 +16051,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Presumed+Guilty+Scott+Turow",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15293,6 +16070,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Jerry+Springer+Fights+Camera+Action",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15311,6 +16089,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Uusi%20Juttu",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15342,6 +16121,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Hyvink%C3%A4%C3%A4n+Sveitsi+laskettelukeskus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15360,6 +16140,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15378,6 +16159,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Fatwa%20BBC%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15396,6 +16178,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/@bonappetit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15431,6 +16214,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://yle.fi/search/?query=Jenna+Vehviläinen+Italia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15449,6 +16233,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15467,6 +16252,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Crown",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15485,6 +16271,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/HS%20Visio%20Fortum",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15520,6 +16307,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Do%20You%20Know%20Mordechai",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15537,6 +16325,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Believable%20The%20Coco%20Berthmann%20Story",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15555,6 +16344,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://ateneum.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15573,6 +16363,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Good+Wife",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15591,6 +16382,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://alar.my",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15609,6 +16401,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Pasila+tv-sarja",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15627,6 +16420,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15661,6 +16455,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20New%20York%20Times",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15679,6 +16474,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Economist%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15696,6 +16492,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Mikä%20meitä%20vaivaa",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15714,6 +16511,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Olli+Seuri",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15732,6 +16530,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Once+Upon+a+Time+in+Hollywood",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15750,6 +16549,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=HS+Teema+Saksa+2019+Helsingin+Sanomat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15784,6 +16584,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=kiipeily+olympialaiset+2021",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15802,6 +16603,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Anne+Mattilan+Taidekahvila+Karvia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15836,6 +16638,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Rusetti+Anu+Kaaja",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15854,6 +16657,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Perussuomalaiset+Halla-ahon+ja+Purran+linjalla+Joki-Sipil%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15889,6 +16693,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Paisti+Ville+Sivilä",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15907,6 +16712,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=kunnalliset+tenniskentät+pääkaupunkiseutu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15925,6 +16731,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Eraserhead",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15943,6 +16750,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Spy+Factory+New+York+Times+Brazil+Russia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -15978,6 +16786,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/S-Town%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -15996,6 +16805,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=From+Hell+Alan+Moore",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16031,6 +16841,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=One+Day+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16048,6 +16859,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16066,6 +16878,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sky+Guide+app+download",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16097,6 +16910,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Karoliina+Helva+Galleria+Anhava",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16115,6 +16929,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Narcos",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16133,6 +16948,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Westworld",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16151,6 +16967,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Gilmore+Girls+A+Year+in+the+Life",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16186,6 +17003,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": true
       },
       {
@@ -16204,6 +17022,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": true
       },
       {
@@ -16222,6 +17041,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Leon+Black+Apollo+William+Cohan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16243,6 +17063,7 @@ window.VALIDATION_DATA = [
           "https://podcasts.apple.com/fi/podcast/ukrainan-droonisotilas-onko-puolustusvoimat-laiminly%C3%B6nyt/id1521917708?i=1000796589252",
           "https://www.supla.fi/podcast-series/d93e670a-c2e5-487a-8e69-39aca4a46cb7"
         ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16257,9 +17078,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Tuomas suosittelee kuuntelemaan näyttelijä Pekka Strangin Ennakkoluulolla-podcastia, jossa hän itse oli vieraana ja jossa vieraasta esitetään joukko ennakkoluuloisia väitteitä.",
         "google_linkki": "https://www.google.com/search?q=Ennakkoluulolla+Pekka+Strang+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Ennakkoluulolla%20Pekka%20Strang",
+        "lisatieto_linkki": "https://open.spotify.com/episode/0BKBQraz60uaBM54y5Qba9",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/13-l%C3%B6ytyyk%C3%B6-tuomas-peltom%C3%A4est%C3%A4-kuvaa-jossa-h%C3%A4n-tiernapoikana/id1894815345?i=1000797373288"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16278,6 +17102,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16313,6 +17138,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sirkus+Finlandia+kiertue",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16331,6 +17157,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tammisaari+matkakohde+Suomi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16367,6 +17194,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16385,6 +17213,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Rise+and+Fall+of+the+Third+Reich",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16400,9 +17229,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Lotta Vuorion historiapodcast, josta Tuomas suosittelee erityisesti tuoretta jaksoa salaisten symbolien ja symbolien historian aiheesta.",
         "google_linkki": "https://www.google.com/search?q=Lotta+Vuorio+Menneisyyden+j%C3%A4ljill%C3%A4+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Menneisyyden%20j%C3%A4ljill%C3%A4",
+        "lisatieto_linkki": "https://open.spotify.com/episode/2435vB7MUfB2LDBeyh0Twx",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/89-salaisia-symboleja-ja-symbolien-historiaa/id1494132405?i=1000628365144"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16421,6 +17253,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Revisionist%20History",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16456,6 +17289,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Barbarian+Days+A+Surfing+Life",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16473,6 +17307,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jonas+Hassen+Khemiri+Siskokset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16490,6 +17325,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16526,6 +17362,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/DJ%20Orkidea",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16544,6 +17381,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nutshell+Ian+McEwan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16562,6 +17400,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Get+Sorted+iPhone+app",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16597,6 +17436,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Matkalla+islamilaisessa+Suomessa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16615,6 +17455,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=georgialainen+viini+Alko",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16633,6 +17474,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ihana+Agnes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16651,6 +17493,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Ruffian+Ian+Leslie+Substack",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16686,6 +17529,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/search?query=Sinead+O%27Connor+remembers+things+differently",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16704,6 +17548,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Line+of+Duty",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16721,6 +17566,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16752,6 +17598,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Machines+of+Loving+Grace",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16770,6 +17617,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=belgialainen+trappistiolut+Bryssel",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16805,6 +17653,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/games",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16823,6 +17672,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://cooking.nytimes.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16841,6 +17691,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Havumets%C3%A4n+lapset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16858,6 +17709,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Arto+Melleri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16890,9 +17742,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Jakso käsittelee sitä, miten podcasteilla tehdään rahaa ja miten ihmisistä tulee podcast-miljonäärejä.",
         "google_linkki": "https://www.google.com/search?q=Call+Your+Girlfriend+Business+Special+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Call%20Your%20Girlfriend",
+        "lisatieto_linkki": "https://open.spotify.com/episode/0QYzGiY3gKAIA8QCNLxtkq",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/businesswoman-special-2-podcast-millionaires/id881487725?i=1000431350477"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16911,6 +17766,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.newyorker.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16946,6 +17802,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Deep+State+James+Comey",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16964,6 +17821,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Brahen+kentt%C3%A4+tekoj%C3%A4%C3%A4+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -16982,6 +17840,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Professor+and+the+Madman+Simon+Winchester",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17017,6 +17876,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Helvetin+soikoon+norjalaisen+black+metallin+historia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17035,6 +17895,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+kirjamessut+2021",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17053,6 +17914,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+New+Atlantis+journal+technology+society",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17089,6 +17951,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=This+One+Summer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17107,6 +17970,25 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tappolista+Kremlin+murhat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Hiomattomat timantit",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "rikoselokuva"
+        ],
+        "kuvaus": "Tuomas kehui Safdie-veljesten elokuvaa edellisellä viikolla, joten Marko katsoi sen – ja antoi antisuosituksen: hänestä elokuva oli todella huono, eikä loputtomasta sykkeestä ja musiikista saanut mitään otetta. Älkää vaivautuko.",
+        "google_linkki": "https://www.google.com/search?q=Hiomattomat+timantit+Uncut+Gems+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Uncut+Gems",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -17138,6 +18020,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Century+of+the+Self",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17156,6 +18039,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Juha+Jokela+Suomi+n%C3%A4ytelm%C3%A4+Kansallisteatteri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17191,6 +18075,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Zone+of+Interest",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17209,6 +18094,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17227,6 +18113,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Seeing+Like+a+State+James+Scott",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17258,6 +18145,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://politiikka.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17276,6 +18164,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Keijo+Vilhunen",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17294,6 +18183,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Historian+j%C3%A4nn%C3%A4t+naiset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17329,6 +18219,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Hurrikaanien+aika+Fernanda+Melchor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17347,6 +18238,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Juho+Kuusi+lavarunous",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17365,6 +18257,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17400,6 +18293,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Haraldin+äiti+Johan+Fried",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17418,6 +18312,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=In+Search+of+Lost+Time+Proust",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17436,6 +18331,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Blue%20band",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17471,6 +18367,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Curious+Case+of+the+Man+Who+Wouldn%27t+Die+GQ+magazine",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17489,6 +18386,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Brooklyn+Nine-Nine",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17507,6 +18405,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Suuri+kaalihuijaus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17542,6 +18441,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17560,6 +18460,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikael+Hakim+Waltari",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17578,6 +18479,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kuilun+partaalla+Kulha",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17596,6 +18498,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Suuri+lama+Kiander+Vartia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17614,6 +18517,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://verfassungsblog.de/?s=Leino-Sandberg",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17649,6 +18553,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Hesari+Musta+Laatikko+live-journalismi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17667,6 +18572,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Data+Delusion+New+Yorker+Jill+Lepore",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17702,6 +18608,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinuhe+egyptiläinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17720,6 +18627,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Murhat+ja+mindfulness+Karsten+Dusse",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17738,6 +18646,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Origin%20Story%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17756,6 +18665,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Six+Nations+rugby+Helsinki+Aussibar",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17792,6 +18702,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=El%C3%A4m%C3%A4ni+miehet+Samuli+Putro",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17810,6 +18721,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Intermezzo+Sally+Rooney",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17828,6 +18740,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Keskiy%C3%B6n%20kaninkolo",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17863,6 +18776,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.kansallismuseo.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17881,6 +18795,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Weather+Jenny+Offill",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17899,6 +18814,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.ifixit.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -17933,6 +18849,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Politiikan%20puskaraatio",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17951,6 +18868,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Fall+The+End+of+Fox+News",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17969,6 +18887,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Confidence+Man+Maggie+Haberman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -17987,6 +18906,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Uncensored+Models+Erik+Hoel+blog+post",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18023,6 +18943,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sauli+Niinistö",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18041,6 +18962,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Postwar+A+History+of+Europe+Since+1945+Tony+Judt",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18059,6 +18981,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Apple+in+China+Patrick+McGee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18077,6 +19000,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Ukulele%20Orchestra%20of%20Great%20Britain",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18110,6 +19034,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Bunga%20Bunga%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18128,6 +19053,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Economist%20Xi%20Jinping%20The%20Prince",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18146,6 +19072,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Meduza%20English%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18178,9 +19105,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Radio Labin podcast-jakso mustasta sarvikuonosta, jossa amerikkalainen metsästäjä voitti huutokaupassa luvan ampua superharvinaisen mustan sarvikuonon. Tarina kääntyy yllättävästi päälaelleen, kun selviää, että tappaminen palvelee lajin suojelua.",
         "google_linkki": "https://www.google.com/search?q=Radiolab+Black+Rhino+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Radiolab%20Black%20Rhino",
+        "lisatieto_linkki": "https://open.spotify.com/episode/5ZpG89sT47byEKygSdls4k",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rhino-hunter/id152249110?i=1000351674412"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18199,6 +19129,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Drive+2011",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18214,9 +19145,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Rami Kurivan vetämä kunnianhimoinen suomalainen podcast, jossa käy laaja kirjo suomalaisia vieraita puhumassa asioista seikkaperäisesti ja pitkään. Tuomas Peltomäki on ollut jaksossa mukana keskustelemassa mm. rokotteista ja mediasta räppäri Slim Millin kanssa.",
         "google_linkki": "https://www.google.com/search?q=Puheenaihe+podcast+Rami+Kuriva",
-        "lisatieto_linkki": "https://open.spotify.com/search/Puheenaihe%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/3JFmbmYEEXJBfdU1js2vQw",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/zeitgeist-tieto-valta-ja-ajan-henki-tuomas-peltom%C3%A4ki/id1452356442?i=1000548418116"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18252,6 +19186,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Dancing+in+the+Mosque+Homeira+Qaderi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18270,6 +19205,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Hintsan+viimeinen+vuosi+Oskari+Saari",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18288,6 +19224,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+White+Lotus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18324,6 +19261,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Don%27t+Look+Up",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18342,6 +19280,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Närpiön+jäätelötehdas+erikoisjäätelöt",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18360,6 +19299,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Maniac+Labatut",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18378,6 +19318,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/explore/search/?q=Harold+Holt+swimming+centre",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18413,6 +19354,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=I+Am+Not+Your+Negro",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18431,6 +19373,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Tommi+Liimatan+suuri+serkkuteoria",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18449,6 +19392,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Normal+People+Sally+Rooney",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18467,6 +19411,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=kinuskikissa+mokkapalat+resepti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18503,6 +19448,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Top+Gun+1986",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18521,6 +19467,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Everything+Everywhere+All+at+Once",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18539,6 +19486,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Death+Robots",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18574,6 +19522,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18592,6 +19541,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Kaija+Kunnas+Taavi+Törissaari+virolainen+rakennusmies+HS",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18610,6 +19560,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.tiktok.com/search?q=Groubble+Abdi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18628,6 +19579,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fallout+TV+series",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18663,6 +19615,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Knock+Down+the+House",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18681,6 +19634,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.wired.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18699,6 +19653,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18731,9 +19686,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
         "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Good%20Hang%20with%20Amy%20Poehler",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1KN7v1xqiEf0XN27Q1JZeB",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/steve-carell/id1795483480?i=1000756967954"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18752,6 +19710,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18770,6 +19729,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing+UK",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18788,6 +19748,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://uutisrapsa.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18823,6 +19784,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mauno+Koiviston+muistelmat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18841,6 +19803,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinuhe+egyptiläinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18876,6 +19839,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Sisu+2022",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18894,6 +19858,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18929,6 +19894,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Survivor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18947,6 +19913,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=We+Might+Have+Long+Covid+All+Wrong+New+Republic+Natalie+Shure",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -18982,6 +19949,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -18999,6 +19967,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinun+Margot+Meri+Valkama",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19017,6 +19986,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=L%C3%A4mpene%C3%A4+maa+Mikko+Pelttari",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19052,6 +20022,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Books+of+Jacob+Tokarczuk",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19070,6 +20041,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fauda",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19088,6 +20060,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Search%20Engine%20PJ%20Vogt",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19120,9 +20093,10 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Peter Thielin luento Sam Altmanin vetämältä How to Start a Startup -kurssilta, jossa käsitellään monopoleja ja kilpailua. Luento on kuunneltavissa Spotifyssa ja luettavissa esseenä Wall Street Journalissa.",
         "google_linkki": "https://www.google.com/search?q=Peter+Thiel+Competition+is+for+Losers+How+to+Start+a+Startup",
-        "lisatieto_linkki": "https://open.spotify.com/search/How%20to%20Start%20a%20Startup%20Peter%20Thiel",
+        "lisatieto_linkki": "https://open.spotify.com/episode/4mx8GP3GTjApwWwi4O8Lud",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19141,6 +20115,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/hae?q=Mureneva%20maa&service=radio",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19159,6 +20134,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19194,6 +20170,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Boyhood+2014",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19212,6 +20189,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mindhunter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19230,6 +20208,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Krakatoa+The+Day+the+World+Exploded+Simon+Winchester",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19265,6 +20244,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.cookpolitical.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19283,6 +20263,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Balanssin%20anatomia",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19301,6 +20282,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Rest%20Is%20Politics%20US",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19318,6 +20300,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Steve+Martini+Paul+Madriani",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19335,6 +20318,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Steve+Cavanagh+Eddie+Flynn",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19353,6 +20337,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19370,6 +20355,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19405,6 +20391,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Book+of+Prince+Dan+Piepenbring+article",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19423,6 +20410,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Friends+TV+series",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19441,6 +20429,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaksikymmentäkaksi+Antti+Hurskainen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19476,6 +20465,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Veikkauskratia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19507,6 +20497,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=nuorten+ristikkokirjat+osta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19525,6 +20516,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Rottien+pyhim%C3%BDs+musikaali+lippu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19543,6 +20535,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Hattulan+kirkko+vist+aukioloajat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19561,6 +20554,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Laila+Pullinen+museo+Sotunki+Vantaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19579,6 +20573,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Politics%20Theory%20Other",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19610,6 +20605,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Lincoln+Lawyer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19628,6 +20624,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Decoupling%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19646,6 +20643,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Swedish+Grace+n%C3%A4yttely+Nationalmuseum+Tukholma",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19664,6 +20662,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Juha+Hurme+Niemi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19682,6 +20681,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Death+%26+Robots",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19716,6 +20716,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Taylor%20Swift%20The%20Tortured%20Poets%20Department",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19734,6 +20735,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=One+Day+Netflix",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19751,6 +20753,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19768,6 +20771,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19799,6 +20803,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://stownpodcast.org/",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19835,6 +20840,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Story+JFK+Junior",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19853,6 +20859,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mr+Nobody+Against+Putin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19871,6 +20878,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Moraalinen+kunnianhimo+Bregman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19906,6 +20914,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fleabag",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19924,6 +20933,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/HS%20P%C3%A4iv%C3%A4",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19942,6 +20952,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Syllabus+newsletter+subscribe",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -19977,6 +20988,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Yes+Minister+Yes+Prime+Minister",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -19995,6 +21007,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/wirecutter/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20013,6 +21026,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=J-Mail+Epstein+emails",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20048,6 +21062,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Somebody+Somewhere",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20066,6 +21081,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Regime+HBO",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20101,6 +21117,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=His+Dark+Materials",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20136,6 +21153,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Murder+in+Amsterdam+Ian+Buruma",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20154,6 +21172,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=The+Science+of+Mindfulness+Research-Based+Path+to+Well-Being+luentosarja",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20189,6 +21208,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Russia+Revolution+Civil+War+Anthony+Beevor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20207,6 +21227,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Suits",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20225,6 +21246,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Survival+of+the+Sickest+Sharon+Moalem",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20261,6 +21283,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Goliath+tv+series",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20279,6 +21302,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Natsin+mieli+kaksitoista+varoitusta+historiasta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20297,6 +21321,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Aleksanteri+Kivim%C3%A4ki+Vastaamo+hovioikeus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20332,6 +21357,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tšernobylista+nousee+rukous",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20367,6 +21393,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.igdb.com/games/elden-ring",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20385,6 +21412,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.igdb.com/games/elden-ring-shadow-of-the-erdtree",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20403,6 +21431,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=SlimeSicle+Elden+Ring+Super+Cut",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20421,6 +21450,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.suomenlinna.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20439,6 +21469,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Idon+Games+Myrsky+lautapeli+osta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20474,6 +21505,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.politico.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20492,6 +21524,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Roger+Federer+highlights",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20510,6 +21543,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Gogol+Petersburg+Tales",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20546,6 +21580,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Yksisarvinen+maailman+myyteissä+ja+tarinoissa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20564,6 +21599,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Rooster+Steve+Carell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20582,6 +21618,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Naurava+Sohvi+stand+up+Käpylä+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20599,6 +21636,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20616,6 +21654,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Demi+Moore+Inside+Out",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": true,
         "piilotettu": false
       }
     ]
@@ -20651,6 +21690,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://theathletic.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20669,6 +21709,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://store.steampowered.com/search/?term=Cruelty+Squad",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20687,6 +21728,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.luontoon.fi/fi/kohteet/liesjarven-kansallispuisto",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20722,6 +21764,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Hillary+2020+documentary",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20740,6 +21783,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ajankohtainen+kakkonen+vihailta+2013+Sanna+Marin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20777,6 +21821,7 @@ window.VALIDATION_DATA = [
         "lisalinkit": [
           "https://www.hs.fi/nyt/art-2000009587257.html"
         ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20795,6 +21840,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Rocky+näytelmä+Virus-teatteri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20813,6 +21859,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mehiläisten+historia+Maja+Lunde",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20828,9 +21875,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Tuomas Peltomäen oma podcast, jossa hän keskustelee Oula Silvennoisen kanssa äärioikeistosta ja perussuomalaisajattelusta kahden ja puolen tunnin haastattelussa.",
         "google_linkki": "https://www.google.com/search?q=Tuomas+Peltomäki+podcast+Oula+Silvennoinen",
-        "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/15pGlq5aiCVkXtAJd5FGNr",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/%C3%A4%C3%A4rioikeisto-suomessa-ja-perussuomalaiset-vieraana/id1501094207?i=1000492805200"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20849,6 +21899,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20podcast",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20867,6 +21918,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nervous+States+William+Davies",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20902,6 +21954,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Edu%20Kettunen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -20936,6 +21989,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Einari+Antti+Heikkinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20954,6 +22008,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Why+We+Sleep+Matthew+Walker",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -20972,6 +22027,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Naarasleijona+Blixen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21007,6 +22063,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Ticking+Clock+Ira+Rosen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21025,6 +22082,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Koneruhtinas+Pekka+Herlin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21042,6 +22100,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21077,6 +22136,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Helsingin%20Sanomien%20Amerikka-podcast",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21095,6 +22155,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mississippi+Blue+42+Eli+Cranor",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21113,6 +22174,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=piparijauhokastike+kinkku+jouluruoka+ohje",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21130,6 +22192,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21147,6 +22210,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21183,6 +22247,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaija+Koo+elämäkerta+Jouni+K+Kemppäinen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21201,6 +22266,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/haku?q=Macron+Eurooppa+ja+sota",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21219,6 +22285,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Munkkivuori",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21237,6 +22304,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Project+Hail+Mary+Andy+Weir",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21272,6 +22340,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Rage+Bob+Woodward",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21290,6 +22359,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Antti+Holma",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21308,6 +22378,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=I%27m+Thinking+of+Ending+Things",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21343,6 +22414,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21361,6 +22433,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Huono+tyttö+Sara+Al+Husain",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21397,6 +22470,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Elämisen%20taito%20podcast",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21415,6 +22489,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://murdle.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21433,6 +22508,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikko+Hyppönen+Internet",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21468,6 +22544,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21486,6 +22563,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21504,6 +22582,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Pitk%C3%A4+kuuma+kes%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21522,6 +22601,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theatlantic.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21557,6 +22637,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/podcastit/haku?q=Hehku",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21575,6 +22656,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ali+Wong+Baby+Cobra",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21593,6 +22675,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Night+Of",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21628,6 +22711,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Boys",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21646,6 +22730,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Queen%27s+Gambit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21664,6 +22749,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Navalny+Bellingcat+FSB",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21699,6 +22785,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Syyt%C3%B6s+Hanna+Kuusela",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21717,6 +22804,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Aikalis%C3%A4%20Roope%20Salminen",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21735,6 +22823,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Stratechery",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21766,6 +22855,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21784,6 +22874,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.newyorker.com/search?q=Is+Amazon+Unstoppable",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21820,6 +22911,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Tale+of+Love+and+Darkness+Amos+Oz",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21838,6 +22930,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Animal+Farm+George+Orwell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21856,6 +22949,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Hävitys+Iida+Rauma",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21887,6 +22981,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.samharris.org/podcasts/making-sense-episodes",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21905,6 +23000,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=babe.net+Aziz+Ansari+Grace+article",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -21940,6 +23036,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21958,6 +23055,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Waste+Lands+Corban+Addison",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21976,6 +23074,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Radionova%202004",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -21994,6 +23093,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22012,6 +23112,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Bald%20Move%20House%20of%20the%20Dragon",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22030,6 +23131,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Energy+A+Human+History+Richard+Rhodes",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22047,6 +23149,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Making+of+the+Atomic+Bomb",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22082,6 +23185,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.newyorker.com/search?q=Anand+Gopal+Afghanistan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22100,6 +23204,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Miles%20Davis%20Kind%20of%20Blue",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22118,6 +23223,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22136,6 +23242,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Scott+Turow",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22154,6 +23261,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Michael+Connelly",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22187,9 +23295,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "New York Timesin The Daily -podcastin jakso, jossa keskustellaan Odysseiasta ja Christopher Nolanin tulevasta elokuvaversiosta. Vieraina muun muassa Odysseian englanniksi kääntänyt Emily Wilson sekä kirjailija Madeline Miller.",
         "google_linkki": "https://www.google.com/search?q=The+Daily+What%27s+Epic+About+the+Odyssey+Everything",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20What%27s%20Epic%20About%20the%20Odyssey%20Everything",
+        "lisatieto_linkki": "https://open.spotify.com/episode/7grcFULcdBUtKRdKIHPTLS",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/whats-epic-about-the-odyssey-everything/id1200361736?i=1000776456642"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22208,6 +23319,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tribe+On+Homecoming+and+Belonging+Sebastian+Junger",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22226,6 +23338,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22261,6 +23374,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Visulahden+Vahakabinetit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22279,6 +23393,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Verlan+tehdasmuseo+Kymenlaakso",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22297,6 +23412,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/kulttuuri/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22333,6 +23449,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Obi-Wan+Kenobi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22351,6 +23468,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Stranger+Things",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22369,6 +23487,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=High+Life+2018",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22387,6 +23506,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Color+Out+of+Space",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22418,6 +23538,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Red+Queen+Matt+Ridley",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22436,6 +23557,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Gene+An+Intimate+History+Mukherjee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22471,6 +23593,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20teko%C3%A4ly%20Teemu%20Roos",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22489,6 +23612,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=King+Charles+portrait+analysis",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22507,6 +23631,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Hidden+Camera+Putin+Palace+Navalny",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22522,9 +23647,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Suomen Lääkärilehden podcast-jakso, jossa toimittaja Lauri Korkeaoja haastattelee väistyvää keskustan puheenjohtajaa Annika Saarikkoa sote-uudistuksesta. Poikkeuksellisen avoin haastattelu, jossa Saarikko myös kritisoi itse tekemäänsä uudistusta.",
         "google_linkki": "https://www.google.com/search?q=Lääkärilehti+podcast+Annika+Saarikko+sote+virtahepo",
-        "lisatieto_linkki": "https://open.spotify.com/search/L%C3%A4%C3%A4k%C3%A4rilehti%20podcast%20Annika%20Saarikko",
+        "lisatieto_linkki": "https://open.spotify.com/episode/2leB6hoT8XjgxjHX03P35p",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/virtahepo-l%C3%A4%C3%A4k%C3%A4ritalossa-onko-sote-uudistuksesta-tullut/id1693771503?i=1000653553320"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22560,6 +23688,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Leftovers",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22595,6 +23724,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22613,6 +23743,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Bob+Mortimer+comedian",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22631,6 +23762,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=London+Falling+Patrick+Radden+Keefe",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22649,6 +23781,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Wind%20of%20Change%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22683,6 +23816,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Sata+litraa+sahtia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22701,6 +23835,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22719,6 +23854,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=James+Percival+Everett",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22754,6 +23890,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theatlantic.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22772,6 +23909,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theatlantic.com/search/#q=The+Anxious+Child+and+the+Crisis+of+Modern+Parenting",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22790,6 +23928,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tiger+King",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22807,6 +23946,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jo+Nesb%C3%B8+Veitsi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22825,6 +23965,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/NPR",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22842,6 +23983,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Floodlines",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22859,6 +24001,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22894,6 +24037,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/@OpenAI",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22912,6 +24056,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Your%20Undivided%20Attention",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22930,6 +24075,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -22965,6 +24111,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sota+vai+rauha+Mihail+Shishkin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -22983,6 +24130,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Seaspiracy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23017,6 +24165,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Assassin%27s+Apprentice+Robin+Hobb",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23034,6 +24183,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Name+of+the+Wind+Patrick+Rothfuss",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23052,6 +24202,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nevermoor+Jessica+Townsend",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23070,6 +24221,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=An+Elegant+Defense+Matt+Richtel",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23105,6 +24257,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=1984+George+Orwell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23120,9 +24273,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Oxfordin professorin juoksema podcast, joka käsittelee korkealentoisia ideoita, esseitä ja teorioita. Erityisesti suositellaan jaksoa 'History of Ideas: George Orwell', jossa käsitellään Orwellin esseetä The Lion and the Unicorn.",
         "google_linkki": "https://www.google.com/search?q=Past+Present+Future+podcast+Oxford",
-        "lisatieto_linkki": "https://open.spotify.com/search/Past%20Present%20Future%20podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1IlDwLsys1L1Sgl4phYwsZ",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/history-of-ideas-george-orwell/id1682047968?i=1000623267325"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23141,6 +24297,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Times+Adam+Nagourney",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23176,6 +24333,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Wolves+of+K+Street",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23194,6 +24352,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Unequal+Democracy+Larry+Bartels",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23212,6 +24371,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Poikani+tappoi+ihmisen+Katariina+Malmberg+Helsingin+Sanomat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23230,6 +24390,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.tiktok.com/search?q=The+Lion+Challenge",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23265,6 +24426,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Talking+to+Strangers+Malcolm+Gladwell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23300,6 +24462,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Aurinkokaupunki+Tove+Jansson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23318,6 +24481,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Skamanda",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23336,6 +24500,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Herrasmies-hakkerit",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23371,6 +24536,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Robyn",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23389,6 +24555,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Seinabo%20Sey%20I%20Owe%20You%20Nothing",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23407,6 +24574,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=True+Detective",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23425,6 +24593,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Lolita+Nabokov",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23443,6 +24612,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Laughter+in+the+Dark+Nabokov",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23461,6 +24631,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=World+Press+Photo+näyttely+Helsinki+2019",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23496,6 +24667,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sompasauna+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23514,6 +24686,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=El%C3%A4m%C3%A4n+lyhyydest%C3%A4+Seneca",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23532,6 +24705,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/A%20Bigger%20Bang%20Live%20on%20Copacabana%20Beach",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23567,6 +24741,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Geiger+Gustav+Skordeman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23585,6 +24760,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Stranger+in+the+Woods+Michael+Finkel",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23620,6 +24796,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23638,6 +24815,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Next+of+Kin+Kia+Abdullah",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23656,6 +24834,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Chef%27s+Table+Noodles",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23691,6 +24870,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Empire+of+Pain",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23709,6 +24889,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Toista+maata+Kansallismuseo+n%C3%A4yttely",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23744,6 +24925,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Greatest+Night+in+Pop",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23762,6 +24944,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Viikinki+Toni+Halme",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23780,6 +24963,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Daily+Show",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23815,6 +24999,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tuire+Kaimio+pennun+kasvatusopas",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23833,6 +25018,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theatlantic.com/search/#q=Why+is+she+like+this+Marjorie+Taylor+Greene",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23864,6 +25050,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Children%27s+Book+A.S.+Byatt",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23882,6 +25069,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Understanding+Comics+The+Invisible+Art+Scott+McCloud",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23917,6 +25105,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=What+We+Can+Know+Ian+McEwan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23932,9 +25121,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Elina suosittelee The Daily -podcastin tuoretta jaksoa, jossa keski-ikäinen matematiikan professori pohtii, mitä tapahtuu kun tekoäly ylittää hänen elämäntyönsä – jakso kääntyy lopulta koskettavaksi pohdinnaksi ihmisyyden kauneudesta.",
         "google_linkki": "https://www.google.com/search?q=The+Daily+AI+comes+for+your+purpose+in+life",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily",
+        "lisatieto_linkki": "https://open.spotify.com/episode/31voblXKw2y8zqxDl72i3w",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/when-a-i-comes-for-your-purpose-in-life/id1200361736?i=1000796109623"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -23953,6 +25145,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow%20Horses",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -23988,6 +25181,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Petteri+Orpo+ja+oikeistovallan+nousu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24006,6 +25200,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24024,6 +25219,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=New+Yorkin+uhmatar",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24042,6 +25238,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jenni+Räinä+Vaino",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24060,6 +25257,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24095,6 +25293,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ohuella+langalla",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24113,6 +25312,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Room+Next+Door",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24148,6 +25348,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Marianne+%26+Leonard+Words+of+Love",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24166,6 +25367,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Chaos+Making+a+New+Science+James+Gleick",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24184,6 +25386,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24220,6 +25423,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Bear",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24238,6 +25442,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+MD",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24256,6 +25461,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Kuura+Kaltio+Kiilopää+savusauna",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24274,6 +25480,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24309,6 +25516,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Matkalla+kadonneessa+maailmassa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24324,9 +25532,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Pohjois-irlantilainen monologi-podcast, jossa naamioitu Blindboy käsittelee laajoja aiheita omalaatuisella tyylillään. Erityisesti jakso 'The Secret History of Bootcut Jeans' on suositeltava – tunnin monologi siitä, miksi 2000-luvun alussa bootcut-farkut ja teräväkärkiset nahkakengät olivat hetken aikaa valtamuotia.",
         "google_linkki": "https://www.google.com/search?q=Blindboy+Podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Blindboy%20Podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/4TFXbTKHFd2D7z7O95TzPo",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-history-of-bootcut-jeans/id1300577518?i=1000626885894"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24357,9 +25568,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Henry Lehdon ysärimusiikkipodcast, jossa vierailevana Tuomas Peltomäki kertoo lapsuudestaan ja nuoruudestaan Oulussa sekä tärkeästä U2-bändistä. Podcastissa puhutaan musiikista, mutta myös elämästä laajemmin.",
         "google_linkki": "https://www.google.com/search?q=Kaikki+rakastaa+ysäriä+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Kaikki%20rakastaa%20ysäriä",
+        "lisatieto_linkki": "https://open.spotify.com/episode/04OakPf7J5Gt9E65GFiVh6",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/u2-ja-tuomas-peltom%C3%A4ki/id1668426829?i=1000721604546"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24378,6 +25592,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Middlesex+Jeffrey+Eugenides",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24396,6 +25611,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Doorman+Chris+Pavone",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24430,6 +25646,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaksisataakuusi+pient%C3%A4+osaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24448,6 +25665,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/haku?q=Rakastitko+Vesku",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24483,6 +25701,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24501,6 +25720,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Financial+Times+Weekend+Edition+How+to+Spend+It",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24519,6 +25739,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Crash+Landing+on+You",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24537,6 +25758,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Forecasting+Love+and+Weather",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24572,6 +25794,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Herkkusuun+kasvatus+Wahberg",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24590,6 +25813,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Harry+Hole+Jo+Nesbo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24608,6 +25832,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24643,6 +25868,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Last+Dance",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24661,6 +25887,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikael+Hakim+Waltari",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24696,6 +25923,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/visio/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24714,6 +25942,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ville+Ranta+blogi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24732,6 +25961,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Ville+Pirinen+Yhdessä+paikassa+sarjakuva+albumi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24750,6 +25980,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/section/magazine",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24785,6 +26016,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24820,6 +26052,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24856,6 +26089,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Emme+ole+t%C3%A4%C3%A4ll%C3%A4+pit%C3%A4m%C3%A4ss%C3%A4+hauskaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24874,6 +26108,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Darkest+Hour+2017",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24905,6 +26140,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Camtown%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -24940,6 +26176,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Viru+hotelli+KGB+museo+Tallinna",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24958,6 +26195,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Makten",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -24976,6 +26214,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://podcasts.apple.com/search?term=History+of+the+International+System+Stanford",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25011,6 +26250,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tony+Halme+Urho+tuho+ja+perint%C3%B6",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25029,6 +26269,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kuin+veljet+totuus+Suomen+katujengeist%C3%A4",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25047,6 +26288,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Karla%27s+Choice+Nick+Harkaway",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25065,6 +26307,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Rikosasianajaja+Kaarle+Gummerus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25100,6 +26343,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Silicon+Valley",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25118,6 +26362,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Outliers+Malcolm+Gladwell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25136,6 +26381,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Min%C3%A4+jaksan+tarinoita+lastensuojelusta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25171,6 +26417,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Little%20Simz",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25189,6 +26436,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sokea+piste+Susanna+Kuparinen+Kansallisteatteri",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25225,6 +26473,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.docpoint.info",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25243,6 +26492,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Legacy+of+Spies+John+le+Carr%C3%A9",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25261,6 +26511,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Uncut+Gems",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25296,6 +26547,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Matti+Klingen+p%C3%A4iv%C3%A4kirjat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25314,6 +26566,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sakari+Piippo+valokuvataiteen+museo+Kaapelitehdas",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25332,6 +26585,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Do+Elephants+Have+Souls+The+New+Atlantis",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25363,6 +26617,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Maarit+Tyrkkö+Kekkonen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25381,6 +26636,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sapiens+Yuval+Noah+Harari",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25399,6 +26655,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Power+of+Nightmares",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25430,6 +26687,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Hunting+Eichmann+Neal+Bascomb",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25447,6 +26705,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25465,6 +26724,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.worksinprogress.news",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25483,6 +26743,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Odyssey+Christopher+Nolan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25498,9 +26759,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "The Rest Is History -podcastin kaksiosaiset erikoisjaksot, joissa käydään läpi Odysseiaa. Tuomas Peltomäen mukaan erinomaista kuunneltavaa Nolan-elokuvan jälkeen.",
         "google_linkki": "https://www.google.com/search?q=The+Rest+Is+History+Odysseus",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20History%20Odysseus",
+        "lisatieto_linkki": "https://open.spotify.com/episode/1Pj6Q2TrTHpnfn68aza5EU",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-odyssey-hero-of-the-trojan-horse-part-1/id1537788786?i=1000775966069"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25521,6 +26785,7 @@ window.VALIDATION_DATA = [
         "lisalinkit": [
           "https://www.hs.fi/visio/art-2000012191398.html"
         ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25539,6 +26804,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25557,6 +26823,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/@AltShiftX",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25592,6 +26859,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Akira+1988",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25610,6 +26878,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=After+Life+Ricky+Gervais",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25645,6 +26914,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Politiikan+pinnan+vangit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25663,6 +26933,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=FC+Gnistan+Veikkausliiga",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25681,6 +26952,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Robin%20Packalen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25699,6 +26971,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/High%20School%20Musical%202%20soundtrack",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25735,6 +27008,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=El%C3%A4m%C3%A4ni+ilman+sinua",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25753,6 +27027,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Careless+People+Sarah+Wynn-Williams",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25771,6 +27046,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.cineast.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25806,6 +27082,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Decoder%20Ring%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25824,6 +27101,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Musta+Laatikko+livejournalismi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25842,6 +27120,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Scorpions",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25877,6 +27156,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.kansallisteatteri.fi/esitys/karpolla-asiaa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25895,6 +27175,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kirjolla",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25913,6 +27194,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=City+on+Fire+Don+Winslow",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25931,6 +27213,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+of+the+Dog+Don+Winslow",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -25966,6 +27249,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.q-teatteri.fi/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -25984,6 +27268,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Arcane",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26001,6 +27286,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26032,6 +27318,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Kendrick%20Lamar%20Not%20Like%20Us",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": true
       },
       {
@@ -26050,6 +27337,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/kuuntele/audio-2000011259682.html",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26081,6 +27369,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Two+Sisters+Asne+Seierstad",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26099,6 +27388,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://the-syllabus.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26130,6 +27420,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Elon+Musk+Walter+Isaacson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26165,6 +27456,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Hack",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26183,6 +27475,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Diplomat+Netflix",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26218,6 +27511,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Confidence+Man+Maggie+Haberman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26236,6 +27530,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kim+Ji-Young+Born+1982+Cho+Nam-Joo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26271,6 +27566,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26289,6 +27585,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+of+the+Dog",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26307,6 +27604,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Oikeusjuttu+Johanna+Vehkoo",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26325,6 +27623,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Problem%20with%20Jon%20Stewart",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26343,6 +27642,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Cum%20Town",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26379,6 +27679,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Banksy+n%C3%A4yttely+Tallinna+Telliskivi+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26397,6 +27698,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Game+of+Thrones",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26415,6 +27717,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Tom%20Odell%20Another%20Love",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26450,6 +27753,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Story+Murder+Memoir+Mea+Culpa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26467,6 +27771,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Jarkko%20Martikainen%20Kes%C3%A4lomakellarissa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26485,6 +27790,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Cairo+Affair+Olen+Steinhauer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26503,6 +27809,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Hunting%20Warhead",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26521,6 +27828,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26556,6 +27864,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.newyorker.com/news/annals-of-inquiry/how-a-conservative-activist-invented-the-conflict-over-critical-race-theory",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26574,6 +27883,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Neljätoista+heinäkuuta+Eric+Vuillard",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26592,6 +27902,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Project+Hail+Mary+Andy+Weir",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26623,6 +27934,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=East+West+Street+Philippe+Sands",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26641,6 +27953,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26659,6 +27972,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Cleopatra+and+Frankenstein+Coco+Mellors",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26694,6 +28008,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Gisèle+Pelicot+hymne+à+la+vie",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26712,6 +28027,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Caroline+Darian+M+en+veux+plus+comme+père",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26730,6 +28046,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/puzzles/spelling-bee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26748,6 +28065,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Loikalan%20lapset",
         "alkupera": "hs-vain",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26783,6 +28101,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Koresponentti",
         "alkupera": "hs",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26801,6 +28120,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Dark+Towers+David+Enrich",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26836,6 +28156,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Wuthering+Heights+2025",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26854,6 +28175,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Wuthering+Heights",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26872,6 +28194,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Kate%20Bush%20Wuthering%20Heights",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26890,6 +28213,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Would+I+Lie+to+You",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26908,6 +28232,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.astralcodexten.com/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26926,6 +28251,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sininen+kirja+Pekka+Himanen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -26961,6 +28287,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=K%C3%A4r%C3%A4j%C3%A4t+Markus+Nummi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26979,6 +28306,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Konflikti+Aku+Louhimies",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -26997,6 +28325,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Mikin%20takana",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27015,6 +28344,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Google+Willow+quantum+chip",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27051,6 +28381,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Irishman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27069,6 +28400,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Marriage+Story",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27087,6 +28419,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Markus+vastaan+kansa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27122,6 +28455,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Last+Juror+John+Grisham",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27140,6 +28474,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=L%C3%A4pimurto+teos+Janne+Sarja",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27158,6 +28493,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Tiede-tv+Suomen+historia+maan+rajoihin+puristettu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27176,6 +28512,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Robert+Sapolsky+Introduction+to+Human+Behavioral+Biology+Stanford",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27212,6 +28549,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Rocketman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27230,6 +28568,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sateentekijät",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27248,6 +28587,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Errol+Morris+Do+Not+Like+This+Q%26A+New+York+Times+Magazine",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27266,6 +28606,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Pigeon+Tunnel",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27297,6 +28638,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Post+Alfa",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27315,6 +28657,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kekkonen+dokumentti+Yle",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27333,6 +28676,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tunturikadun+hiljaisuus+Teppo+Sillantaus+Mika+Waltari",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27368,6 +28712,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/search?query=Danhausen+wrestling",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27386,6 +28731,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ralph+Lauren+documentary",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27404,6 +28750,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/search/?query=diagnoosijärjestelmä+eettiset+ongelmat",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27422,6 +28769,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=gastro+diplomacy+Thailand+Nordic+Council",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27453,6 +28801,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Vera+or+Fate",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27471,6 +28820,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Things%20Fell%20Apart%20Jon%20Ronson",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27507,6 +28857,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Not+Okay",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27525,6 +28876,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tokyo+Vice",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27543,6 +28895,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Knowing%20Animals",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27561,6 +28914,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Rotukarja+Agustina+Bazterrica",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27579,6 +28933,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.theredhandfiles.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27597,6 +28952,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Shania+Twain+Not+Just+a+Girl",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27632,6 +28988,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Toppa+ravintola+Katajanokka+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27650,6 +29007,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+Copenhagen+trilogy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27668,6 +29026,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Clickbait",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27686,6 +29045,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Wok+Lab+syyrialainen+ravintola+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27721,6 +29081,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/P3%20Dystopia",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27739,6 +29100,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Möhkö+Sami+Sillanpää+Kuukausiliite",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27757,6 +29119,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Jeeves+and+Wooster",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27792,6 +29155,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+trilogia",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27810,6 +29174,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ohjus+2024",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27828,6 +29193,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Patrick+Radden+Keefe+London+Falling",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27863,6 +29229,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.nytimes.com/search?query=native+scholar+andrea+smith",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27881,6 +29248,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jalkapallon+maailmanselitys+Franklin+Foer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27899,6 +29267,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Pallon+herra+Vesa+Vares",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27917,6 +29286,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Oi+Suomi+Ari+Virtanen",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -27952,6 +29322,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=What+to+do+with+Robert+E+Lee+university+article",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -27970,6 +29341,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.wired.com/search/?q=To+Run+My+Best+Marathon",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28005,6 +29377,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28023,6 +29396,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Evening%20Rocket",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28057,6 +29431,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Politiikan%20puskaradio",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28075,6 +29450,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/explore/search/keyword/?q=moresavorygoods",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28092,6 +29468,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28126,6 +29503,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Veep",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28144,6 +29522,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://supla.fi/search?q=Valtaistuinjälkipeli",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28162,6 +29541,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Against%20the%20Rules%20with%20Michael%20Lewis",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28193,6 +29573,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Fall+of+the+House+of+Maxwell+John+Preston",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28211,6 +29592,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=True+Detective",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28246,6 +29628,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Quiet+Americans+Scott+Anderson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28264,6 +29647,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Jussi+Halla-aho+ep%C3%A4virallinen+el%C3%A4m%C3%A4kerta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28299,6 +29683,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28317,6 +29702,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Down+Cemetery+Road",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28335,6 +29721,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Sky+Team+lautapeli",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28353,6 +29740,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Feedly+RSS+lukija",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28388,6 +29776,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28406,6 +29795,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Petja+Pelli+Helsingin+Sanomat+Ruotsi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28424,6 +29814,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/annasofiaberner",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28459,6 +29850,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/search?q=presidentinvaalitentit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28477,6 +29869,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=P%C3%A4%C3%A4ministeripeli+lautapeli+2015",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28495,6 +29888,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.facebook.com/groups/search/results/?q=Photo+Restoration+Group",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28531,6 +29925,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/book/show/28363972-the-last-days-of-night",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28549,6 +29944,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/book/show/239495879-apple",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28584,6 +29980,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Eläkekomitea%20podcast",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28602,6 +29999,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Innovators+Walter+Isaacson",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28620,6 +30018,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tenet",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28656,6 +30055,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Porco+Rosso",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28674,6 +30074,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Princess+Mononoke",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28692,6 +30093,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+J%C3%A4%C3%A4tel%C3%B6tehdas",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28710,6 +30112,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Vuosaaren+huippu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28728,6 +30131,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=OceanGate+documentary+Netflix",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28746,6 +30150,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=London+bombing+documentary+Netflix",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28764,6 +30169,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Pod+Save+the+World",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28795,6 +30201,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Getting+to+Yes+Fisher+Ury+Patton",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28830,6 +30237,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=When+the+Going+Was+Good+Graydon+Carter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28845,9 +30253,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "New York Timesin The Daily -podcastin jakso, jossa asianajaja Thomas Sipp kertoo, miksi hän irtisanoutui suuresta lakifirmasta sen antauduttua Trumpin hallinnon painostukselle. Jakso valottaa oikeusvaltion rapautumista yksittäisen ihmisen näkökulmasta.",
         "google_linkki": "https://www.google.com/search?q=The+Daily+NYT+I+Felt+the+Shame+lawyer+resigned+firm+caved+Trump",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20NYT%20I%20Felt%20the%20Shame%20lawyer%20resigned",
+        "lisatieto_linkki": "https://open.spotify.com/episode/0i07M3DaRHqs0W8zfmYYkc",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/i-felt-ashamed-why-one-lawyer-resigned-when-his-firm/id1200361736?i=1000702500208"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28866,6 +30277,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=American+Factory",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28901,6 +30313,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi/visio/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28919,6 +30332,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Babylon+Berlin",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -28954,6 +30368,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Eversti+Rosa+Liksom",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28972,6 +30387,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://areena.yle.fi/podcastit",
         "alkupera": "yle",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -28990,6 +30406,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.instagram.com/uefachampionsleague/",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29025,6 +30442,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=L%C3%A4hi%C3%B6+Joakim+Zander",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29043,6 +30461,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29058,9 +30477,12 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "New York Timesin entisen mielipidetoimitajan Bari Weissin konservatiivi-republikaaninen podcast. Erityisesti jakso, jossa Matt Taibbi keskustelee Ukrainasta, on Tuomaksen mukaan raivostuttavan paljastava.",
         "google_linkki": "https://www.google.com/search?q=Honestly+podcast+Bari+Weiss",
-        "lisatieto_linkki": "https://open.spotify.com/search/Honestly%20Bari%20Weiss",
+        "lisatieto_linkki": "https://open.spotify.com/episode/2ChZnG9pv7IO4CbCOPJMyj",
         "alkupera": "ulkomainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/matt-taibbi-v-bret-stephens-on-american-power/id1570872415?i=1000550543337"
+        ],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29079,6 +30501,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Trojan%20Horse%20Affair",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29114,6 +30537,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kadonneen+arkin+metsästys",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29132,6 +30556,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Future+Politics+Jamie+Susskind",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29150,6 +30575,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Civil+Action+Jonathan+Harr",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29168,6 +30594,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Boys",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29204,6 +30631,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Company+Robert+Littell",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29222,6 +30650,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Guillermo+del+Toro+Cabinet+of+Curiosities",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29240,6 +30669,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Game+of+Thrones",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29275,6 +30705,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kari+Lumikerro",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29293,6 +30724,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kalifaatti",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29311,6 +30743,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Menneisyyden%20j%C3%A4ljill%C3%A4",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29346,6 +30779,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Task+HBO",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29364,6 +30798,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29395,6 +30830,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Fire+and+Fury+Michael+Wolff",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29413,6 +30849,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+All+Maladies+Mukherjee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29431,6 +30868,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Gene+An+Intimate+History+Mukherjee",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29466,6 +30904,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tiina+Itkonen+photographer+Greenland",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29501,6 +30940,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Pod%20Save%20the%20World",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29519,6 +30959,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Olympics+Celine+Dion+Hymne+a+l+amour",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29537,6 +30978,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Ennen+kuin+kahvi+j%C3%A4%C3%A4htyy",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29572,6 +31014,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.hs.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29590,6 +31033,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Clearing%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29625,6 +31069,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.chess.com",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29643,6 +31088,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Kaikki%20paskaksi%20ja%20ystävät",
         "alkupera": "kotimainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29679,6 +31125,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.superpesis.fi",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29697,6 +31144,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29715,6 +31163,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://imdb.com/find/?q=Riistetyt",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29745,6 +31194,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+Cards",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29763,6 +31213,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Handmaid%27s+Tale",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29781,6 +31232,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Orjattaren+taru",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29816,6 +31268,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mindhunter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29834,6 +31287,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Fevers+Feuds+and+Diamonds+Paul+Farmer",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29852,6 +31306,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=From+Hell+Alan+Moore",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -29887,6 +31342,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Travis%20Kelce%20podcast",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29905,6 +31361,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Miss+Americana",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29923,6 +31380,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+Ocean+Park",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29941,6 +31399,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=New+England+White+Stephen+L+Carter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29959,6 +31418,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Palace+Council+Stephen+L+Carter",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -29977,6 +31437,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Karjala-tietokanta",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -30007,6 +31468,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tatu+ja+Patu",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30025,6 +31487,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=All+the+President%27s+Men",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30043,6 +31506,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://podcasts.apple.com/us/podcast/slate-political-gabfest/id201671138",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -30078,6 +31542,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Kurtulus",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30096,6 +31561,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Money+to+Burn+William+D.+Cohan",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30114,6 +31580,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikael+Karvajalka",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30132,6 +31599,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -30168,6 +31636,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=IFK+Helsinki+jalkapallo+kotipelit",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30186,6 +31655,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Tallinna+matkailu+Telliskivi+Kopli",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30204,6 +31674,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -30239,6 +31710,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Wilderness+Halperin+Heilemann",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -30275,6 +31747,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Something+from+Nothing+Alison+Roman",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30293,6 +31766,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://open.spotify.com/search/Gunship%20Technoir",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": true
       },
       {
@@ -30311,6 +31785,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Kino+Regina+Helsinki",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30329,6 +31804,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+talviolympialaiset",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       },
       {
@@ -30346,6 +31822,7 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
