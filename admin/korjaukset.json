@@ -2014,5 +2014,791 @@
         "yhdysvallat"
       ]
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1048732801",
+    "jakso_otsikko": "14.5.2021: Omituinen jarrutuskeskustelu, hallitus ei piittaa taitelijoista, Israelissa kuohuu",
+    "paivamaara": "14.5.2021",
+    "r_idx": 2,
+    "teos": "Merimelonta",
+    "uusi_data": {
+      "teos": "Merimelonta",
+      "paakategoria": "urheilu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tommi suosittelee merimelontaa koronaturvallisena ja todella hauskana harrastuksena. Helsingissä useat melontaseurat vuokraavat kajakkeja kohtuuhintaan.",
+      "suosittelija": "Tommi Nieminen",
+      "kategoriat": [
+        "melonta",
+        "luonto",
+        "vesiliikunta"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/998493811",
+    "jakso_otsikko": "4.3.2021: Koronatonni ja pykäläsekoilu, Kirsi Piha ja kokoomus",
+    "paivamaara": "4.3.2021",
+    "r_idx": 0,
+    "teos": "True Believer: The Rise and Fall of Stan Lee",
+    "uusi_data": {
+      "teos": "True Believer: The Rise and Fall of Stan Lee",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=True+Believer+The+Rise+and+Fall+of+Stan+Lee",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Believer+The+Rise+and+Fall+of+Stan+Lee",
+      "kuvaus": "Marko suosittelee Abraham Riesmanin kriittistä elämäkertaa Stan Leestä. Kirja kertoo, ettei Lee juurikaan luonut Marvelin hahmoja, vaikka otti niistä kunnian, ja käy läpi myös hänen myöhemmät epäonnistuneet liiketoimensa.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "elämäkerta",
+        "sarjakuva",
+        "Marvel"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/890918854",
+    "jakso_otsikko": "10.9.2020: Jussi Halla-ahon talousoikeistolaisuus, Saarikko, EU:n koronamiljardit",
+    "paivamaara": "10.9.2020",
+    "r_idx": 1,
+    "teos": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+    "uusi_data": {
+      "teos": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=The+Innovators+Walter+Isaacson",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Innovators+Walter+Isaacson",
+      "kuvaus": "Tuomas suosittelee Walter Isaacsonin tietokirjaa, joka kertoo tietotekniikan historian henkilöiden kautta Charles Babbagen laskukoneesta nykyiseen iPhoneen. Hänen mukaansa kirja on lähestyttävä, viihdyttävä ja avaa ymmärrystä.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "tietotekniikka",
+        "historia",
+        "elämäkerrat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/867122464",
+    "jakso_otsikko": "30.7.2020:  Koronapandemian toinen aalto, kansanedustajien kielenkäyttö ja Turkin alamäki",
+    "paivamaara": "30.7.2020",
+    "r_idx": 1,
+    "teos": "Yoga With Adriene",
+    "uusi_data": {
+      "teos": "Yoga With Adriene",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Yoga+With+Adriene+YouTube",
+      "lisatieto_linkki": "https://www.youtube.com/c/yogawithadriene",
+      "kuvaus": "YouTube-kanava, jolla joogaopettaja Adriene pitää ilmaisia joogatunteja joka tasolle ja tarpeeseen, kahdeksan minuutin tuokioista tunnin harjoituksiin. Alman mukaan kanava auttoi häntä koronan ensimmäisen aallon läpi ja antaa sekä fyysistä että henkistä treeniä.",
+      "suosittelija": "Alma Onali",
+      "kategoriat": [
+        "jooga",
+        "hyvinvointi",
+        "YouTube"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/690483496",
+    "jakso_otsikko": "3.10.2019: Kuopion väkivallanteot, katastrofaaliset syntyvyysluvut, Niinistö v. Trump",
+    "paivamaara": "3.10.2019",
+    "r_idx": 1,
+    "teos": "This Naked Mind",
+    "uusi_data": {
+      "teos": "This Naked Mind",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=This+Naked+Mind+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/This%20Naked%20Mind",
+      "kuvaus": "Tuomas suosittelee alkoholinkäytön lopettamista käsittelevää podcastia, johon kuulijat soittavat kertomaan omista kokemuksistaan. Hänen mielestään se on matalin kynnys alkaa pohtia omaa juomistaan.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "terveys",
+        "alkoholi",
+        "elämäntapa"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/998493811",
+    "jakso_otsikko": "4.3.2021: Koronatonni ja pykäläsekoilu, Kirsi Piha ja kokoomus",
+    "paivamaara": "4.3.2021",
+    "r_idx": 2,
+    "teos": "Michael Jacksonin Thriller-koreografian opettelu",
+    "uusi_data": {
+      "teos": "Michael Jacksonin Thriller-koreografian opettelu",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas vinkkaa opettelemaan Michael Jacksonin Thriller-koreografian. Hän kävi itse joka päivä ryhmätanssitunneilla ja piti kokemusta mahtavana.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "tanssi",
+        "harrastus"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/890918854",
+    "jakso_otsikko": "10.9.2020: Jussi Halla-ahon talousoikeistolaisuus, Saarikko, EU:n koronamiljardit",
+    "paivamaara": "10.9.2020",
+    "r_idx": 2,
+    "teos": "Tenet",
+    "uusi_data": {
+      "teos": "Tenet",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=Tenet+elokuva",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Tenet",
+      "kuvaus": "Marko kävi katsomassa Christopher Nolanin Tenetin Ouluhallin isossa salissa. Hänen mielestään elokuva oli jytisevä, komean näköinen ja tiukka, vaikka juonesta ei ottanut selvää.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "elokuva",
+        "toiminta",
+        "Christopher Nolan"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/867122464",
+    "jakso_otsikko": "30.7.2020:  Koronapandemian toinen aalto, kansanedustajien kielenkäyttö ja Turkin alamäki",
+    "paivamaara": "30.7.2020",
+    "r_idx": 2,
+    "teos": "Avara luonto",
+    "uusi_data": {
+      "teos": "Avara luonto",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Avara+luonto+Yle+Areena",
+      "lisatieto_linkki": "https://areena.yle.fi/1-1566213",
+      "kuvaus": "Ylen pitkäikäinen luontodokumenttisarja, jota Onni katsoi viikolla ensimmäistä kertaa vuosiin. Lapsuudesta tuttu sarja toi nostalgista lohtua, ja hän aikoo turvautua siihen, jos toinen aalto sulkee ihmiset taas koteihinsa.",
+      "suosittelija": "Onni Niemi",
+      "kategoriat": [
+        "luontodokumentti",
+        "Yle Areena"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/690483496",
+    "jakso_otsikko": "3.10.2019: Kuopion väkivallanteot, katastrofaaliset syntyvyysluvut, Niinistö v. Trump",
+    "paivamaara": "3.10.2019",
+    "r_idx": 2,
+    "teos": "Markus Selin – Perustuu tositapahtumiin",
+    "uusi_data": {
+      "teos": "Markus Selin – Perustuu tositapahtumiin",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Markus+Selin+Perustuu+tositapahtumiin+Veli-Pekka+Lehtonen",
+      "lisatieto_linkki": "https://www.tammi.fi/kirjat/markus-selin-perustuu-tositapahtumiin/",
+      "kuvaus": "Marko kehuu kollegansa, HS:n elokuvakriitikon Veli-Pekka Lehtosen tuoretta elämäkertaa Markus Selinistä, Solar Filmsin perustajasta ja suomalaisen viihdeteollisuuden konkarista.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "elämäkerta",
+        "elokuvat",
+        "tietokirja"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/593546820",
+    "jakso_otsikko": "21.3.2019: Junes Lokan ja Johanna Vehkoon oikeudenkäynti, ilmastolakko ja vaaligallupit",
+    "paivamaara": "21.3.2019",
+    "r_idx": 1,
+    "teos": "Letter from London: Bad Boy – New Yorker",
+    "uusi_data": {
+      "teos": "Letter from London: Bad Boy – New Yorker",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=New+Yorker+Letter+from+London+Bad+Boy+Brexit",
+      "lisatieto_linkki": "https://www.newyorker.com",
+      "kuvaus": "Tuomas suosittelee Ed Caesarin New Yorkeriin kirjoittamaa pitkää juttua Brexit-kampanjan rahoittajasta, johon viitattiin myös HBO:n Brexit-elokuvassa.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "politiikka",
+        "Brexit",
+        "pitkä juttu"
+      ]
+    }
+  },
+  {
+    "jakso_id": "ef7ee644-0c61-4674-b551-b35a5aa7c52f",
+    "jakso_otsikko": "Hallitushimo, Anneli Auer, nepotismi",
+    "paivamaara": "30.10.2025",
+    "r_idx": 2,
+    "teos": "Ultra – Rachel Maddow (podcast)",
+    "uusi_data": {
+      "teos": "Ultra – Rachel Maddow (podcast)",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Ultra+Rachel+Maddow+podcast+MSNBC",
+      "lisatieto_linkki": "https://open.spotify.com/search/Ultra%20Rachel%20Maddow",
+      "kuvaus": "Salla suosittelee MSNBC:n Rachel Maddow'n Ultra-podcastia, jonka toinen kausi sukeltaa amerikkalaisen äärioikeiston ja natsisympatioiden historiaan sodanjälkeisessä Yhdysvalloissa. Hänen mielestään se herättää paljon ajatuksia myös tässä ajassa.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "historia",
+        "politiikka",
+        "Yhdysvallat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "c26ffc71-35cc-4a07-8275-bb4741d1aa15",
+    "jakso_otsikko": "Silmien”venyttely”kohu",
+    "paivamaara": "18.12.2025",
+    "r_idx": 0,
+    "teos": "Helsingin Sanomien Amerikka-podcast: Kulissien takana Mar-a-Lagossa",
+    "uusi_data": {
+      "teos": "Helsingin Sanomien Amerikka-podcast: Kulissien takana Mar-a-Lagossa",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Helsingin+Sanomien+Amerikka-podcast+Stubb+Kushner+Witkoff",
+      "lisatieto_linkki": "https://open.spotify.com/search/Helsingin%20Sanomien%20Amerikka-podcast",
+      "kuvaus": "Salla suosittelee HS:n Amerikka-podcastin jaksoa, jossa Suvi Turtiainen kertoo hauskasti, mitä tapahtui kulisseissa loistohotellin aulabaarissa pidetyssä kokouksessa, jossa Stubb oli Jared Kushnerin ja Steve Witkoffin seurassa.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "politiikka",
+        "Yhdysvallat",
+        "ulkopolitiikka"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "ef7ee644-0c61-4674-b551-b35a5aa7c52f",
+    "jakso_otsikko": "Hallitushimo, Anneli Auer, nepotismi",
+    "paivamaara": "30.10.2025",
+    "r_idx": 3,
+    "teos": "Lily Allen ja David Harbour esittelevät New Yorkin kotiaan (YouTube-video)",
+    "uusi_data": {
+      "teos": "Lily Allen ja David Harbour esittelevät New Yorkin kotiaan (YouTube-video)",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Lily+Allen+David+Harbour+New+York+home+video",
+      "lisatieto_linkki": "",
+      "kuvaus": "Toni vinkkaa Hannan Lily Allen -suosituksen jatkoksi YouTube-videosta, jossa Allen ja hänen entinen miehensä David Harbour esittelevät värikkäästi ja mielikuvituksellisesti sisustettua New Yorkin asuntoaan.",
+      "suosittelija": "Toni Lehtinen",
+      "kategoriat": [
+        "video",
+        "sisustus"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "c26ffc71-35cc-4a07-8275-bb4741d1aa15",
+    "jakso_otsikko": "Silmien”venyttely”kohu",
+    "paivamaara": "18.12.2025",
+    "r_idx": 3,
+    "teos": "Remontointi",
+    "uusi_data": {
+      "teos": "Remontointi",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Salla suosittelee joulun alla kirjojen ja elokuvien sijaan korjaamaan kotona jotain rempallaan olevaa, esimerkiksi kuluneet portaat: rapsutus, hionta ja maalaus palkitsevat heti, kun pinta muuttuu rupuisesta kauniin valkoiseksi.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "remontti",
+        "tekeminen"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "c26ffc71-35cc-4a07-8275-bb4741d1aa15",
+    "jakso_otsikko": "Silmien”venyttely”kohu",
+    "paivamaara": "18.12.2025",
+    "r_idx": 4,
+    "teos": "Älä remontoi joulun alla, lepää",
+    "uusi_data": {
+      "teos": "Älä remontoi joulun alla, lepää",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Marko vastaa Sallan portaiden maalausvinkkiin vastasuosituksella: joulun alla ei pidä ryhtyä remontteihin vaan levätä pitkän syksyn jälkeen. Remontit kannattaa suunnitella huolella ja teettää tarvittaessa ammattilaisella.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "lepo",
+        "joulu"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "d55782ea-b780-4eda-826f-7bd94646f634",
+    "jakso_otsikko": "Stump... Trubb?, kalliit asunnot,  Halla-aho-kirja",
+    "paivamaara": "21.8.2025",
+    "r_idx": 1,
+    "teos": "Siskokset",
+    "uusi_data": {
+      "teos": "Siskokset",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Jonas+Hassen+Khemiri+Siskokset",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Jonas+Hassen+Khemiri+Siskokset",
+      "kuvaus": "Sohvi osti kesälukemisekseen Rosebud-kirjakaupasta ruotsalaisen Jonas Hassen Khemirin paksun romaanin, joka kulkee vuosikymmenten läpi Ruotsista New Yorkiin kolmen sisaruksen ja heidän naapurinsa tarinana. Hän piti kirjasta todella paljon.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "romaani",
+        "ruotsalainen kirjallisuus"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "d55782ea-b780-4eda-826f-7bd94646f634",
+    "jakso_otsikko": "Stump... Trubb?, kalliit asunnot,  Halla-aho-kirja",
+    "paivamaara": "21.8.2025",
+    "r_idx": 2,
+    "teos": "Outojen eksperimenttien tekeminen tekoälyn kanssa",
+    "uusi_data": {
+      "teos": "Outojen eksperimenttien tekeminen tekoälyn kanssa",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas suosittelee kokeilemaan tekoälyä rohkeasti: hän pyysi tekoälyä laatimaan itsestään laajan kyselylomakkeen, täytti sen ja juttelee nyt koiralenkeillä tekoälyn kanssa äänitilassa elämän kysymyksistä.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "tekoäly",
+        "tekeminen"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "4664f771-5410-486d-a813-6321662f5c89",
+    "jakso_otsikko": "Viestisekoilu, Orpon moka ja lemmikkisyyllisyys",
+    "paivamaara": "27.3.2025",
+    "r_idx": 3,
+    "teos": "Elokuva-iltapäivä työpaikalla",
+    "uusi_data": {
+      "teos": "Elokuva-iltapäivä työpaikalla",
+      "paakategoria": "elokuva",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "She Said -elokuvan rinnalla Salla suosittelee järjestämään työpaikalla yhteisen elokuva-iltapäivän popcornin, karkkien ja limsan kera, kuten hän teki oman tiiminsä kanssa.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "työyhteisö",
+        "elokuvat"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "59551047-19b8-431e-9f34-d54b8af93e53",
+    "jakso_otsikko": "Miniraportti: Podcast ulos vasta huomenna",
+    "paivamaara": "9.10.2025",
+    "r_idx": 1,
+    "teos": "How Do We Change Our Confidence Trajectory?",
+    "uusi_data": {
+      "teos": "How Do We Change Our Confidence Trajectory?",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Mario+Draghi+How+do+we+change+our+confidence+trajectory",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas suosittelee lukemaan Euroopan keskuspankin entisen pääjohtajan Mario Draghin kirjoituksen Euroopan kilpailukyvystä ja tekoälystä. Teksti on julkaistu Groupe d'études géopolitiques -julkaisussa (geopolitique.eu), ja siihen viitataan myös HS:n Henna Virkkusen haastattelussa.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "artikkeli",
+        "EU",
+        "tekoäly"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1353458533",
+    "jakso_otsikko": "29.9.2022: Gaasubutgi, turistiviisumit rip, kirjoitukset rip",
+    "paivamaara": "29.9.2022",
+    "r_idx": 2,
+    "teos": "Kokeisiin lukeminen yhdessä yläkouluikäisen kanssa",
+    "uusi_data": {
+      "teos": "Kokeisiin lukeminen yhdessä yläkouluikäisen kanssa",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas suosittelee vanhemmille, että he lukisivat yläkouluikäisen lapsensa kanssa yhdessä kokeisiin. Hän on istunut tyttärensä kanssa tuntikausia kahdeksannen luokan kemian kirjan ääressä ja kertoo sen tuoneen syvää iloa ja yhteisen oivaltamisen hetkiä.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "vanhemmuus",
+        "oppiminen"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1166616847",
+    "jakso_otsikko": "25.11.2021: Perttuoletettu ja nuorisosäätiön sotkut, Rittenhouse, n-sana",
+    "paivamaara": "25.11.2021",
+    "r_idx": 1,
+    "teos": "Honestly with Bari Weiss",
+    "uusi_data": {
+      "teos": "Honestly with Bari Weiss",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Honestly+with+Bari+Weiss",
+      "lisatieto_linkki": "https://open.spotify.com/search/Honestly%20with%20Bari%20Weiss",
+      "kuvaus": "Tuomas suosittelee New York Timesista lähteneen Bari Weissin podcastia, joka käsittelee ajankohtaisia aiheita konservatiivisesta ja woke-kriittisestä näkökulmasta. Tuomaksen mielestä juontaja on vähän vastenmielinen mutta kiistatta fiksu.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "politiikka",
+        "konservatiivismi",
+        "yhdysvallat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1166616847",
+    "jakso_otsikko": "25.11.2021: Perttuoletettu ja nuorisosäätiön sotkut, Rittenhouse, n-sana",
+    "paivamaara": "25.11.2021",
+    "r_idx": 2,
+    "teos": "Block and Reported",
+    "uusi_data": {
+      "teos": "Blocked and Reported",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Blocked+and+Reported+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Blocked%20and%20Reported",
+      "kuvaus": "Tuomas suosittelee Jesse Singalin ja Katie Herzogin podcastia, joka käy kriittisesti ja hauskasti läpi uusimpia woke-kohuja. Tuomas kuuntelee sitä remonttia tehdessään ja kertoo saavansa siitä ilon läikähdyksiä.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "politiikka",
+        "kulttuuri",
+        "huumori"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1491442675",
+    "jakso_otsikko": "13.4.2023: Vihreät, hallitusspekulaatiot, Pentagon-paperit",
+    "paivamaara": "13.4.2023",
+    "r_idx": 2,
+    "teos": "City on Fire",
+    "uusi_data": {
+      "teos": "City on Fire",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=City+on+Fire+Don+Winslow",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=City+on+Fire+Don+Winslow",
+      "kuvaus": "Don Winslow'n mafiatarina, sukudraama ja rikoskertomus, joka sijoittuu New Yorkiin ja muihin kaupunkeihin. Marko on kehunut kirjaa aiemminkin, ja sen jatko-osa City of Dreams oli ilmestymässä huhtikuun lopussa.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "rikos",
+        "mafiatarina",
+        "amerikkalainen kirjallisuus"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1491442675",
+    "jakso_otsikko": "13.4.2023: Vihreät, hallitusspekulaatiot, Pentagon-paperit",
+    "paivamaara": "13.4.2023",
+    "r_idx": 3,
+    "teos": "The Power of the Dog",
+    "uusi_data": {
+      "teos": "The Power of the Dog",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=The+Power+of+the+Dog+Don+Winslow",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+of+the+Dog+Don+Winslow",
+      "kuvaus": "Don Winslow'n neliosaisen kirjasarjan (The Power of the Dog, The Cartel, The Force, The Border) avausosa Yhdysvaltain viisikymmentä vuotta kestäneestä ja toivottomasta huumesodasta Meksikon kartelleja vastaan. Marko luki sarjan juuri loppuun ja kehuu sitä viihdyttäväksi ja realistiseksi.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "rikos",
+        "huumesota",
+        "amerikkalainen kirjallisuus"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/988040050",
+    "jakso_otsikko": "18.2.2021: Kuulijapalautteita ja -kysymyksiä vol. 1",
+    "paivamaara": "18.2.2021",
+    "r_idx": 1,
+    "teos": "Koneruhtinas – Pekka Herlinin elämä",
+    "uusi_data": {
+      "teos": "Koneruhtinas – Pekka Herlinin elämä",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Koneruhtinas+Pekka+Herlin+John+Simen",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Koneruhtinas+Pekka+Herlin",
+      "kuvaus": "Kone-yhtiön viestintäpäällikön kirjoittama elämäkerta yhtiön patruunasta Pekka Herlinistä. Tuomas kuunteli sen äänikirjana ja kehuu, miten rehellisesti kirja käsittelee Herlinin alkoholismia ja sen vaikutusta perheeseen sekä Koneen yritystarinaa.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "elämäkerta",
+        "suomalaiset",
+        "liike-elämä"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1798431229",
+    "jakso_otsikko": "11.4.2024: Eläkkeet, Reissu-Alex, Pikkuvihreät",
+    "paivamaara": "11.4.2024",
+    "r_idx": 2,
+    "teos": "Pieni röyhkeys jalankulkijana suojatiellä",
+    "uusi_data": {
+      "teos": "Pieni röyhkeys jalankulkijana suojatiellä",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Salla suosittelee aikuisille jalankulkijoille pientä röyhkeyttä: astu harkiten suojatielle, jotta autoilijat oppivat pysähtymään, ja jos auto silti ajaa ohi, näytä mieltäsi italialaisittain käsiä heiluttaen.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "liikenne",
+        "arki"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/988040050",
+    "jakso_otsikko": "18.2.2021: Kuulijapalautteita ja -kysymyksiä vol. 1",
+    "paivamaara": "18.2.2021",
+    "r_idx": 2,
+    "teos": "Ruotsin television dokumentti rokotevastaisesta liikkeestä (Yle Areena)",
+    "uusi_data": {
+      "teos": "Ruotsin television dokumentti rokotevastaisesta liikkeestä (Yle Areena)",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=SVT+dokumentti+rokotevastainen+liike+Yle+Areena",
+      "lisatieto_linkki": "",
+      "kuvaus": "Yle Areenasta löytyvä ruotsalainen dokumentti, jossa toimittajat soluttautuvat rokotevastaiseen liikkeeseen ja paljastavat sen taustalla olevia salaliittoteorioita. Maria pitää sitä pitkänä mutta hämmästyttävänä ja katsomisen arvoisena.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "dokumentti",
+        "Yle Areena"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1708212405",
+    "jakso_otsikko": "4.1.2024: Pressahuumaa, kirje menneisyydestä, pakkasinferno",
+    "paivamaara": "4.1.2024",
+    "r_idx": 3,
+    "teos": "NRK:n artikkeli Sanna Marinista",
+    "uusi_data": {
+      "teos": "NRK:n artikkeli Sanna Marinista",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=NRK+Sanna+Marin+feminisme+artikkeli",
+      "lisatieto_linkki": "https://www.google.com/search?q=NRK+Sanna+Marin+2024",
+      "kuvaus": "Norjan yleisradioyhtiö NRK:n juttu Sanna Marinista, jossa hän puhuu suoraan Venäjän uhasta, Ukrainasta ja demokratioiden ja autoritaaristen maiden kamppailusta. Salla suosittelee sitä esimerkkinä siitä, miltä Suomi näyttää ulkomaisessa mediassa.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "politiikka",
+        "kansainvälinen media",
+        "Suomi-kuva"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1052924116",
+    "jakso_otsikko": "21.5.2021: Kuntavaalit, vaalikoneet ja Vapaavuori",
+    "paivamaara": "21.5.2021",
+    "r_idx": 0,
+    "teos": "Sinéad O'Connor muistelmahaastattelu – New York Times",
+    "uusi_data": {
+      "teos": "Sinéad O'Connor muistelmahaastattelu – New York Times",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Sinead+O%27Connor+New+York+Times+interview+remembers+things+differently",
+      "lisatieto_linkki": "https://www.nytimes.com/search?query=Sinead+O%27Connor+remembers+things+differently",
+      "kuvaus": "New York Timesin haastattelu Sinéad O'Connorista, otsikoitu 'Sinéad O'Connor Remembers Things Differently'. Maria suosittelee haastattelua, joka käsittelee O'Connorin elämää, islamin uskoon kääntymistä ja muistelmia; myös Jaakko Lyytinen kehuu juttua.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "haastattelu",
+        "musiikki",
+        "muistelmat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/672766730",
+    "jakso_otsikko": "29.8.2019: Porvoon poliisiampumiset, Boris Johnson, kepun puheenjohtajakisa",
+    "paivamaara": "29.8.2019",
+    "r_idx": 0,
+    "teos": "The Rise of Victimhood Culture",
+    "uusi_data": {
+      "teos": "The Rise of Victimhood Culture",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=The+Rise+of+Victimhood+Culture+Bradley+Campbell+Jason+Manning",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Rise+of+Victimhood+Culture",
+      "kuvaus": "Tuijan suosittelema Bradley Campbellin ja Jason Manningin kirja, joka käsittelee mikroaggressioita, safe spaceja ja 2010-luvun kulttuurisotia. Sopii täydentämään keskustelua uhriutumisen käsitteestä.",
+      "suosittelija": "Tuija Siltamäki",
+      "kategoriat": [
+        "yhteiskunta",
+        "kulttuurisodat",
+        "sosiologia"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1052924116",
+    "jakso_otsikko": "21.5.2021: Kuntavaalit, vaalikoneet ja Vapaavuori",
+    "paivamaara": "21.5.2021",
+    "r_idx": 2,
+    "teos": "Kotimaan matkailu – Alajärvi",
+    "uusi_data": {
+      "teos": "Kotimaan matkailu – Alajärvi",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Alaj%C3%A4rvi+matkailu",
+      "lisatieto_linkki": "",
+      "kuvaus": "Marko kehottaa yli vuoden etätöiden jälkeen lähtemään kotoa kiertämään Suomea – esimerkiksi Etelä-Pohjanmaan Alajärvelle, jossa hän oli juttukeikalla.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "matkailu",
+        "kotimaa"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1558157026",
+    "jakso_otsikko": "6.7.2023: Maalitus, Ranskan mellakat, toimittaja arkussa",
+    "paivamaara": "7.7.2023",
+    "r_idx": 3,
+    "teos": "Pyöräretki Laurinlahden uimarannalle",
+    "uusi_data": {
+      "teos": "Pyöräretki Laurinlahden uimarannalle",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Laurinlahden+uimaranta+Espoo",
+      "lisatieto_linkki": "",
+      "kuvaus": "Jaakon kesävinkki on kotiseutumatkailu: hän pyöräili Helsingin kantakaupungista Länsi-Espoon Laurinlahden uimarannalle, jossa ei ollut koskaan käynyt. Tärkeintä on lähteä liikkeelle ja luottaa, että matkalta löytyy jotain kivaa.",
+      "suosittelija": "Jaakko Muilu",
+      "kategoriat": [
+        "pyöräily",
+        "matkailu",
+        "uimaranta"
+      ]
+    }
+  },
+  {
+    "jakso_id": "12fc0564-c469-42cd-bff7-924cf7acd414",
+    "jakso_otsikko": "Are things getting Petter eli kaikki kokoomuksen puoluekokouksesta, Karoliina Partasen saamasta rangaistuksesta ja fudiksen MM-kisoista",
+    "paivamaara": "11.6.2026",
+    "r_idx": 0,
+    "teos": "Lapsuus / Nuoruus / Aikuisuus (trilogia)",
+    "uusi_data": {
+      "teos": "Lapsuus / Nuoruus / Aikuisuus (trilogia)",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Tove+Ditlevsen+trilogia+suomi",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+trilogia",
+      "kuvaus": "Tanskalaisen Tove Ditlevsenin kuuluisa omaelämäkerrallinen trilogia, joka on julkaistu suomeksi. Satu lukee sitä jo kolmatta kertaa ja kehuu kirjailijan kykyä kuvata järisyttäviä asioita muutamalla sanalla.",
+      "suosittelija": "Satu Vasantola",
+      "kategoriat": [
+        "omaelämäkerta",
+        "tanskalaisuus",
+        "klassikko"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/919661269",
+    "jakso_otsikko": "29.10.2020: Trump–Biden 2020, this is it baby!",
+    "paivamaara": "29.10.2020",
+    "r_idx": 3,
+    "teos": "Vakooja ja petturi (The Spy and the Traitor)",
+    "uusi_data": {
+      "teos": "Vakooja ja petturi (The Spy and the Traitor)",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Ben+Macintyre+Vakooja+ja+petturi",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Ben+Macintyre+The+Spy+and+the+Traitor",
+      "kuvaus": "Ben Macintyren tietokirja venäläisestä vakoojasta, joka loikkasi Suomen kautta länteen. Marko kehuu kirjaa huikean hienoksi ennen kuin siirtyy saman kirjoittajan Kim Philby -kirjaan.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "tietokirja",
+        "vakoilu",
+        "historia"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "2a47db7e-b4fc-40b5-ad1c-3445b467c189",
+    "jakso_otsikko": "Pelkoa Kiovassa, Bidenin sairauspiilottelu ja ylioppilaskirjoitukset",
+    "paivamaara": "29.5.2025",
+    "r_idx": 3,
+    "teos": "Yle Abitreenit",
+    "uusi_data": {
+      "teos": "Yle Abitreenit",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Yle+Abitreenit",
+      "lisatieto_linkki": "",
+      "kuvaus": "Ylen palvelu, jossa voi tehdä vanhoja ylioppilaskokeita ja verrata vastauksiaan mallivastauksiin. Anu-Elina treenasi sillä äidinkielen koetta yhdessä poikansa kanssa ja kehuu sitä uskomattoman hienoksi.",
+      "suosittelija": "Anu-Elina Lehti",
+      "kategoriat": [
+        "opiskelu",
+        "verkkopalvelu"
+      ]
+    }
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "9b77b795-d2bc-4e40-8cbc-ccc6f5039354",
+    "jakso_otsikko": "Uutisraportin mega-areena, asunnot, Britannian rakastetuin roskis",
+    "paivamaara": "16.7.2026",
+    "r_idx": 2,
+    "teos": "Aikuisten leikkiklubi",
+    "uusi_data": {
+      "teos": "Aikuisten leikkiklubi",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=leikkiklubi+aikuisille+Helsinki",
+      "lisatieto_linkki": "",
+      "kuvaus": "Pihla vinkkaa aikuisille suunnattua leikkiklubia, jossa leikitään lapsuuden pihaleikkejä, kuten kirkonrottaa. Hän oli itse menossa klubin olympiateemaiseen iltaan.",
+      "suosittelija": "Pihla Saravirta",
+      "kategoriat": [
+        "harrastus",
+        "leikki",
+        "Helsinki"
+      ]
+    }
+  },
+  {
+    "jakso_id": "918fa3a1-5a9e-4e0d-a497-8b2e791144ff",
+    "jakso_otsikko": "Hallituksen kriiseily, kodinhoitajat, Kiina pullistelee",
+    "paivamaara": "4.9.2025",
+    "r_idx": 3,
+    "teos": "Ovi oli koko ajan auki",
+    "uusi_data": {
+      "teos": "Ovi oli koko ajan auki",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Ovi+oli+koko+ajan+auki+Long+Play+Anni+Pasanen+Anu+Silverberg",
+      "lisatieto_linkki": "https://longplay.fi",
+      "kuvaus": "Long Play -verkkomedian artikkeli, jonka ovat kirjoittaneet Anni Pasanen ja Anu Silverberg. Kertoo helsinkiläisestä tanssinopettajasta, joka keräsi ympärilleen lahkon ja alkoi kontrolloida jäsentensä elämää – ja siitä, kuinka vaikeaa lahkosta on päästä pois.",
+      "suosittelija": "Pauliina Siniauer",
+      "kategoriat": [
+        "tutkiva journalismi",
+        "lahkot",
+        "manipulaatio"
+      ]
+    }
+  },
+  {
+    "jakso_id": "918fa3a1-5a9e-4e0d-a497-8b2e791144ff",
+    "jakso_otsikko": "Hallituksen kriiseily, kodinhoitajat, Kiina pullistelee",
+    "paivamaara": "4.9.2025",
+    "r_idx": 4,
+    "teos": "Ruplaruhtinat",
+    "uusi_data": {
+      "teos": "Ruplaruhtinat",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Ruplaruhtinat+Outi+Salovaara",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Ruplaruhtinat+Outi+Salovaara",
+      "kuvaus": "Toimittaja Outi Salovaaran kirja siitä, kuinka venäläinen bisnes hankki omistuksia ja vaikutusvaltaa Suomessa vuosien varrella. Perusteellinen ja palkittu tutkiva teos Venäjän lonkeroista Suomessa.",
+      "suosittelija": "Sami Sillanpää",
+      "kategoriat": [
+        "tutkiva journalismi",
+        "Venäjä",
+        "talous"
+      ]
+    }
+  },
+  {
+    "jakso_id": "918fa3a1-5a9e-4e0d-a497-8b2e791144ff",
+    "jakso_otsikko": "Hallituksen kriiseily, kodinhoitajat, Kiina pullistelee",
+    "paivamaara": "4.9.2025",
+    "r_idx": 5,
+    "teos": "Hope This Helps",
+    "uusi_data": {
+      "teos": "Hope This Helps",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Hope+This+Helps+Dustin+Nickerson+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Hope%20This%20Helps%20Dustin%20Nickerson",
+      "kuvaus": "Amerikkalaisen koomikon podcast, jossa ei puhuta politiikasta tai vakavista aiheista vaan äärimmäisen arkisista ja kummallisista asioista. Sallan mukaan hauskaa ajatuksenvirtaa, jonka äärellä ei voi muuta kuin nauraa.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "komedia",
+        "huumori",
+        "kevyt viihde"
+      ]
+    }
   }
 ]
