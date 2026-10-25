@@ -4310,5 +4310,91 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1649789154",
+    "jakso_otsikko": "26.10.2023: Putki vs ankkuri, presidentinvaalit, influensserit politiikassa",
+    "paivamaara": "26.10.2023",
+    "r_idx": 1,
+    "teos": "Sateentekijät – Eräänlaiset päiväkirjat 1992–2001",
+    "uusi_data": {
+      "teos": "Sateentekijät – Eräänlaiset päiväkirjat 1992–2001",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Sateentekijät+päiväkirjat+Björn+Wahlroos+Jarkko+Pajunen",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Sateentekijät+Björn+Wahlroos",
+      "kuvaus": "Björn Wahlroosin ja Jarkko Pajusen päiväkirjojen toinen osa. Tuomas antaa kirjasta puolittaisen antisuosituksen: kirja on ihan hyvä, mutta paljastaa, että Wahlroosin elämä on vallasta ja rahasta huolimatta ollut käsittämättömän tylsää – mikä on jotenkin vapauttavaa.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "elämäkerta",
+        "talous",
+        "päiväkirja"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1649789154",
+    "jakso_otsikko": "26.10.2023: Putki vs ankkuri, presidentinvaalit, influensserit politiikassa",
+    "paivamaara": "26.10.2023",
+    "r_idx": 2,
+    "teos": "Vankimielisairaala-pakohuone (Turku)",
+    "uusi_data": {
+      "teos": "Vankimielisairaala-pakohuone (Turku)",
+      "paakategoria": "kulttuuri",
+      "google_linkki": "https://www.google.com/search?q=pakohuone+Turku+vankimielisairaala",
+      "lisatieto_linkki": "",
+      "kuvaus": "Marko kävi syyslomalla perheensä kanssa Turussa pakohuoneessa, joka on rakennettu entisen vankimielisairaalan aitoihin vankikoppeihin. Tehtävät olivat hänen mukaansa sairaan hyvin tehtyjä ja vaativia.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "pakohuone",
+        "Turku",
+        "perhe"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/607788249",
+    "jakso_otsikko": "18.4.2019: Eduskuntavaalien tulos, tuloksen merkitys ja seuraavat vaalit",
+    "paivamaara": "18.4.2019",
+    "r_idx": 1,
+    "teos": "There Is No Substitute for Print (The Atlantic)",
+    "uusi_data": {
+      "teos": "There Is No Substitute for Print (The Atlantic)",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=There+Is+No+Substitute+for+Print+Atlantic+Andrew+Ferguson",
+      "lisatieto_linkki": "",
+      "kuvaus": "Andrew Fergusonin The Atlanticin kirjoitus siitä, miten ihanaa on palata digilehdistä paperilehden tilaajaksi. Ainon mielestä juttu on huono, mutta kiinnostava esimerkki siitä, miten paperilehden lukemisesta on tullut identiteettikysymys.",
+      "suosittelija": "Aino Frilander",
+      "kategoriat": [
+        "media",
+        "journalismi"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/607788249",
+    "jakso_otsikko": "18.4.2019: Eduskuntavaalien tulos, tuloksen merkitys ja seuraavat vaalit",
+    "paivamaara": "18.4.2019",
+    "r_idx": 2,
+    "teos": "Nieman Lab: New York Timesin ja Everlanen vaatemallisto",
+    "uusi_data": {
+      "teos": "Nieman Lab: New York Timesin ja Everlanen vaatemallisto",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Nieman+Lab+New+York+Times+Everlane+collection",
+      "lisatieto_linkki": "",
+      "kuvaus": "Nieman Labin juttu siitä, miten The New York Times on tehnyt eettisesti profiloituneen Everlane-vaatemerkin kanssa oman t-paitamalliston. Ainon mielestä ilmiössä, jossa lehden lukijuuteen voi kirjaimellisesti kietoutua, on jotain perversin kiinnostavaa.",
+      "suosittelija": "Aino Frilander",
+      "kategoriat": [
+        "media",
+        "journalismi",
+        "muoti"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

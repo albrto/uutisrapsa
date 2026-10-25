@@ -2474,5 +2474,77 @@
     },
     "aika": "2026-10-25T19:40:55",
     "viety": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/1649789154::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Björn Wahlroosin ja Jarkko Pajusen päiväkirjojen toinen osa. Tuomas antaa kirjasta puolittaisen antisuosituksen: kirja on ihan hyvä, mutta paljastaa, että Wahlroosin elämä on vallasta ja rahasta huolimatta ollut käsittämättömän tylsää – mikä on jotenkin vapauttavaa."
+    },
+    "aika": "2026-10-25T19:47:32",
+    "viety": "2026-10-25T19:47:32"
+  },
+  "tag:soundcloud,2010:tracks/1649789154::puuttuu::vankimielisairaala-pakohuone (turku)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Vankimielisairaala-pakohuone (Turku)",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko kävi syyslomalla perheensä kanssa Turussa pakohuoneessa, joka on rakennettu entisen vankimielisairaalan aitoihin vankikoppeihin. Tehtävät olivat hänen mukaansa sairaan hyvin tehtyjä ja vaativia.",
+      "paakategoria": "kulttuuri",
+      "kategoriat": [
+        "pakohuone",
+        "Turku",
+        "perhe"
+      ],
+      "google_linkki": "https://www.google.com/search?q=pakohuone+Turku+vankimielisairaala",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:47:32",
+    "viety": "2026-10-25T19:47:32"
+  },
+  "tag:soundcloud,2010:tracks/607788249::puuttuu::there is no substitute for print (the atlantic)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "There Is No Substitute for Print (The Atlantic)",
+      "suosittelija": "Aino Frilander",
+      "kuvaus": "Andrew Fergusonin The Atlanticin kirjoitus siitä, miten ihanaa on palata digilehdistä paperilehden tilaajaksi. Ainon mielestä juttu on huono, mutta kiinnostava esimerkki siitä, miten paperilehden lukemisesta on tullut identiteettikysymys.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "media",
+        "journalismi"
+      ],
+      "google_linkki": "https://www.google.com/search?q=There+Is+No+Substitute+for+Print+Atlantic+Andrew+Ferguson",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:47:32",
+    "viety": "2026-10-25T19:47:32"
+  },
+  "tag:soundcloud,2010:tracks/607788249::puuttuu::nieman lab: new york timesin ja everlanen vaatemallisto": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Nieman Lab: New York Timesin ja Everlanen vaatemallisto",
+      "suosittelija": "Aino Frilander",
+      "kuvaus": "Nieman Labin juttu siitä, miten The New York Times on tehnyt eettisesti profiloituneen Everlane-vaatemerkin kanssa oman t-paitamalliston. Ainon mielestä ilmiössä, jossa lehden lukijuuteen voi kirjaimellisesti kietoutua, on jotain perversin kiinnostavaa.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "media",
+        "journalismi",
+        "muoti"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Nieman+Lab+New+York+Times+Everlane+collection",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:47:32",
+    "viety": "2026-10-25T19:47:32"
+  },
+  "tag:soundcloud,2010:tracks/607788249::puuttuu::hs:n juttu perussuomalaisten vaalivalvojaisista": {
+    "paatos": "hylatty",
+    "r_idx": null,
+    "data": null,
+    "aika": "2026-10-25T19:47:32"
   }
 }
