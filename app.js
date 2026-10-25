@@ -1116,7 +1116,7 @@ function tyhjaTila() {
 }
 
 // Linkit: lisätietolinkki palvelun nimellä tai podcasteille kuuntelulinkit ensin,
-// Google-haku aina viimeisenä (varalinkki, kun parempaa ei ole)
+// Google-haku viimeisenä varalinkkinä – vain kun suoraa linkkiä ei ole (pelkkiä hakuja)
 function rakennaLinkit(rec) {
   const linkit = [];
   if (rec.paakategoria === 'podcast') {
@@ -1125,7 +1125,8 @@ function rakennaLinkit(rec) {
   } else if (rec.lisatieto_linkki && rec.lisatieto_linkki !== rec.google_linkki && !onGoogleLinkki(rec.lisatieto_linkki)) {
     linkit.push([linkinNimi(rec.lisatieto_linkki), rec.lisatieto_linkki]);
   }
-  if (rec.google_linkki) linkit.push(['Google', rec.google_linkki]);
+  const suoraLinkki = linkit.some(([, osoite]) => !onHakulinkki(osoite));
+  if (rec.google_linkki && !suoraLinkki) linkit.push(['Google', rec.google_linkki]);
   return linkit;
 }
 
@@ -1185,6 +1186,7 @@ const LINKKIEN_NIMET = [
   ['areena.yle.fi', 'Yle Areena'],
   ['yle.fi', 'Yle'],
   ['hs.fi', 'HS'],
+  ['suomenlehdisto.fi', 'Suomen Lehdistö'],
   ['youtube.com', 'YouTube'],
   ['youtu.be', 'YouTube'],
   ['instagram.com', 'Instagram'],
@@ -1262,7 +1264,7 @@ function podcastLinkit(rec) {
       return [{
         osoite,
         host: u.hostname.toLowerCase().replace(/^www\./, ''),
-        haku: /search|haku|hae/i.test(u.pathname + u.search),
+        haku: onHakulinkki(osoite),
       }];
     } catch { return []; }
   });
@@ -1312,6 +1314,16 @@ function onGoogleLinkki(url) {
     return /(^|\.)google\.[a-z.]+$/.test(new URL(url).hostname.toLowerCase());
   } catch {
     return false;
+  }
+}
+
+// Hakusivu (Spotify-, Areena-, IMDb-haku …) eikä suora sivu
+function onHakulinkki(url) {
+  try {
+    const u = new URL(url);
+    return /search|haku|hae|find/i.test(u.pathname + u.search) || onGoogleLinkki(url);
+  } catch {
+    return true;
   }
 }
 
