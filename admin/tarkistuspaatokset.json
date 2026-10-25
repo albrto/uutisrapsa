@@ -2244,5 +2244,235 @@
     },
     "aika": "2026-10-25T19:30:22",
     "viety": "2026-10-25T19:30:22"
+  },
+  "tag:soundcloud,2010:tracks/589960536::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas suosittelee kollegansa Ossi Mansikan laajaa HS-selvitystä siitä, miten mikrotargetointi vaikutti Trumpin vaaliin ja Brexitiin ja miten suomalaiset puolueet hyödyntävät samaa tekniikkaa eduskuntavaaleissa."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/589960536::puuttuu::eurooppa puhuu (hs)": {
+    "paatos": "hylatty",
+    "r_idx": null,
+    "data": null,
+    "aika": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/974461843::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Sandor Ellix Katzin kattava teos fermentaatiosta eli hapattamisesta. Tuomas kuuntelee sitä äänikirjana ja kertoo nukahtavansa sen rauhoittavaan selostukseen alle kahdessa minuutissa."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/974461843::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Kotitekoinen fermentoitu inkiväärijuoma, joka valmistetaan raastetusta inkivääristä, vedestä ja sokerista. Tuomas kehuu fermentointia helposti aloitettavana kotiprojektina, joka tutustuttaa luontoon ja siihen, miten maailma toimii."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/974461843::puuttuu::susanna reinbothin kirjoitus koskelan surmasta ja julkisuuslaista": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Susanna Reinbothin kirjoitus Koskelan surmasta ja julkisuuslaista",
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Maria suosittelee HS:n Susanna Reinbothin kirjoitusta Koskelan surmasta ja julkisuuslaista: miksi viranomaisten toimista pojan auttamiseksi on saatu niin vähän tietoa. Marian mukaan juttu on supertärkeä, koska kunnollista poliittista keskustelua siitä, mikä meni pieleen, ei ole käyty.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "journalismi",
+        "yhteiskunta"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Susanna+Reinboth+Koskela+julkisuuslaki",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/974461843::puuttuu::r/wallstreetbets": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "r/WallStreetBets",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko kertoo viettävänsä iltansa Redditin WallStreetBets-foorumilla, joka on täynnä meemejä, stonks-raketteja ja GameStop-hullutusta mutta myös kokeneiden sijoittajien analyyseja. Erityismaininta tyypille, joka selitti GameStop-operaation seitsemän tunnin YouTube-videolla.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "internet",
+        "sijoittaminen"
+      ],
+      "google_linkki": "https://www.google.com/search?q=r%2FWallStreetBets",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/1066498348::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Maria suosittelee New York Timesin pitkää feature-artikkelia yhdysvaltalaisista tutkijoista, jotka ovat huijanneet etnisen taustansa – muun muassa Andrea Smithistä, joka esiintyi cherokee-alkuperäiskansan jäsenenä."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "tag:soundcloud,2010:tracks/1066498348::puuttuu::stadi cup": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Stadi Cup",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko suosittelee Käpylässä pelattavaa Stadi Cupia, Suomen suurinta tyttöjen jalkapallotapahtumaa. Hänestä tunnelma on mahtava ja tyttöjen peli iloista ja mukavaa katsottavaa.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "jalkapallo",
+        "tapahtuma"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Stadi+Cup+jalkapallo",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "7a072bd6-ce95-4fb1-b66f-1dd92f598fe8::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Helmi Sundström",
+      "kuvaus": "Helmi suosittelee suomalaisen kesätunnelman herättämiseksi lapsuuden mökkimatkalevyjä, kuten Eppu Normaalin hittikoostetta. Sopii erityisesti niille, joilla ei ole kesälomaa."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "7a072bd6-ce95-4fb1-b66f-1dd92f598fe8::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Helmi Sundström",
+      "kuvaus": "Toinen Helmin lapsuuden kesätunnelmaa herättävä suomalainen hittikooste. Hän ehdottaa soittamaan sitä taustalla samalla, kun paistaa makkaraa kerrostalokaksiossa."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "7a072bd6-ce95-4fb1-b66f-1dd92f598fe8::puuttuu::vedä julkisen vessan ovi nopeasti kiinni": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Vedä julkisen vessan ovi nopeasti kiinni",
+      "suosittelija": "Hanna Havusto",
+      "kuvaus": "Hannan sivusuositus: julkisessa vessassa ovi kannattaa vetää kiinni ripeästi. Muuten joku satunnainen lapsi voi kiskaista sen auki ja jäädä tuijottamaan, kuten Hannalle kävi huoltoasemalla.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "elämänohje",
+        "huumori"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "7a072bd6-ce95-4fb1-b66f-1dd92f598fe8::puuttuu::aurinkorasva": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Aurinkorasva",
+      "suosittelija": "John Helin",
+      "kuvaus": "John suosittelee aurinkorasvaa sateisestakin Suomen kesästä huolimatta, sillä rintansa voi polttaa jo töistä kotiin kävellessä, jos on tarpeeksi kuuma.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "elämänohje",
+        "kesä"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "7a072bd6-ce95-4fb1-b66f-1dd92f598fe8::puuttuu::sanomatalon viereisen ravintolan miesten vessa": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Sanomatalon viereisen ravintolan miesten vessa",
+      "suosittelija": "John Helin",
+      "kuvaus": "John suosittelee Sanomatalon vieressä olevan ravintolan, jossa ulkomaantoimitus kävi lounaalla, persoonallista miesten vessaa. Hänestä ravintoloiden pitäisi brändäytyä useammin vessoillaan, kuten Hotelli Tornin kuuluisa vessa.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "ravintola",
+        "huumori"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "7a072bd6-ce95-4fb1-b66f-1dd92f598fe8::puuttuu::grillaaminen ja ykkösolut": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Grillaaminen ja ykkösolut",
+      "suosittelija": "Rasmus Helaniemi",
+      "kuvaus": "Rasmuksen spontaani kesäsuositus: grillaamista ja 2,8-prosenttista ykkösolutta heti nauhoituksen päätyttyä.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "kesä",
+        "grillaus"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "8ce0c841-8e4c-4da0-b760-30c2ea1f5f2d::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Historioitsija Tony Judtin laaja klassikkoteos Euroopan historiasta toisen maailmansodan päättymisestä 2000-luvun alkuun. Sohvi on vasta alussa, mutta jo kirjan lakoninen kuvaus Euroopan tilasta vuonna 1945 on ollut hänestä järisyttävää luettavaa."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "8ce0c841-8e4c-4da0-b760-30c2ea1f5f2d::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Sauli Niinistön muistelmateos, jossa käydään läpi muun muassa Suomen Nato-tietä ja tapaamisia maailmanjohtajien kuten Putinin, Trumpin ja Xin kanssa. Sallan mukaan mukana on humoristisia päiväkirjamerkintöjä, kuten kuvaus Trumpin hikisestä yöstä ilman ilmastointia Helsingissä 2018."
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
+  },
+  "8ce0c841-8e4c-4da0-b760-30c2ea1f5f2d::puuttuu::e-kirjasto": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "E-kirjasto",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas kehuu yleisten kirjastojen yhteistä E-kirjastoa, josta saa e- ja äänikirjoja ilmaiseksi kaikille suomalaisille. Hänen perheensä on käyttänyt sitä tauon ajan maksullisista äänikirjapalveluista.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "äänikirjat",
+        "kirjasto"
+      ],
+      "google_linkki": "https://www.google.com/search?q=E-kirjasto",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T19:40:55",
+    "viety": "2026-10-25T19:40:55"
   }
 }
