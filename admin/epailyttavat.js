@@ -13807,7 +13807,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Sateentekijät – Eräänlaiset päiväkirjat 1992–2001",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -13815,9 +13815,29 @@ window.VALIDATION_DATA = [
           "talous",
           "päiväkirja"
         ],
-        "kuvaus": "Björn Wahlroosin päiväkirjojen toinen osa, kirjoitettu yhdessä Jarkko Pajusen kanssa. Marko Junkkari suosittelee kirjaa laadukkaana teoksena, mutta huomauttaa ironisesti, että Wahlroosin elämä vaikuttaa yllättävän tylsältä valtavasta vallasta ja rahasta huolimatta.",
+        "kuvaus": "Björn Wahlroosin ja Jarkko Pajusen päiväkirjojen toinen osa. Tuomas antaa kirjasta puolittaisen antisuosituksen: kirja on ihan hyvä, mutta paljastaa, että Wahlroosin elämä on vallasta ja rahasta huolimatta ollut käsittämättömän tylsää – mikä on jotenkin vapauttavaa.",
         "google_linkki": "https://www.google.com/search?q=Sateentekijät+päiväkirjat+Björn+Wahlroos+Jarkko+Pajunen",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sateentekijät+Björn+Wahlroos",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Vankimielisairaala-pakohuone (Turku)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "pakohuone",
+          "Turku",
+          "perhe"
+        ],
+        "kuvaus": "Marko kävi syyslomalla perheensä kanssa Turussa pakohuoneessa, joka on rakennettu entisen vankimielisairaalan aitoihin vankikoppeihin. Tehtävät olivat hänen mukaansa sairaan hyvin tehtyjä ja vaativia.",
+        "google_linkki": "https://www.google.com/search?q=pakohuone+Turku+vankimielisairaala",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -23338,6 +23358,45 @@ window.VALIDATION_DATA = [
         "kuvaus": "Tuomas Peltomäki suosittelee Edu Kettusen livekeikkaa vuodelta 2015 YouTubessa. Erityisesti Kettusen ihmisbiisit muistoista ja parisuhteista ovat Tuomaksen mielestä todella kauniita ja lyyrisesti mahtavia.",
         "google_linkki": "https://www.google.com/search?q=Edu+Kettunen+livekeikka+2015",
         "lisatieto_linkki": "https://open.spotify.com/search/Edu%20Kettunen",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Aino Frilander",
+        "teos": "There Is No Substitute for Print (The Atlantic)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "media",
+          "journalismi"
+        ],
+        "kuvaus": "Andrew Fergusonin The Atlanticin kirjoitus siitä, miten ihanaa on palata digilehdistä paperilehden tilaajaksi. Ainon mielestä juttu on huono, mutta kiinnostava esimerkki siitä, miten paperilehden lukemisesta on tullut identiteettikysymys.",
+        "google_linkki": "https://www.google.com/search?q=There+Is+No+Substitute+for+Print+Atlantic+Andrew+Ferguson",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Aino Frilander",
+        "teos": "Nieman Lab: New York Timesin ja Everlanen vaatemallisto",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "media",
+          "journalismi",
+          "muoti"
+        ],
+        "kuvaus": "Nieman Labin juttu siitä, miten The New York Times on tehnyt eettisesti profiloituneen Everlane-vaatemerkin kanssa oman t-paitamalliston. Ainon mielestä ilmiössä, jossa lehden lukijuuteen voi kirjaimellisesti kietoutua, on jotain perversin kiinnostavaa.",
+        "google_linkki": "https://www.google.com/search?q=Nieman+Lab+New+York+Times+Everlane+collection",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
