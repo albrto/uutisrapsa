@@ -6632,9 +6632,9 @@ window.VALIDATION_DATA = [
           "huumeet",
           "rikollisuus"
         ],
-        "kuvaus": "Suomen Lehdistö -ammattijulkaisun kolumni, jossa Jekaterina Mantsinen perustelee, miten huumeiden bilekäyttö ruokkii rikollisjengejä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
-        "google_linkki": "https://www.google.com/search?q=Jekaterina+Mantsinen+Suomen+Lehdist%C3%B6+kolumni",
-        "lisatieto_linkki": "",
+        "kuvaus": "Jecaterina Mantsisen Suomen Lehdistön kolumni (21.9.2023) siitä, miten huumeiden bilekäyttö ruokkii rikollisryhmiä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
+        "google_linkki": "https://www.google.com/search?q=Rikollisryhm%C3%A4%2C+joka+n%C3%A4ytt%C3%A4%C3%A4+meilt%C3%A4+Suomen+Lehdist%C3%B6",
+        "lisatieto_linkki": "https://suomenlehdisto.fi/rikollisryhma-joka-nayttaa-meilta/",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
