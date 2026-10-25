@@ -3042,6 +3042,26 @@
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Aino Frilander",
+        "teos": "Jezebelin artikkeli epäpätevän naistoimittajan stereotyypistä",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "media",
+          "populaarikulttuuri",
+          "journalismi"
+        ],
+        "kuvaus": "Jezebelin juttu tutkii amerikkalaisen populaarikulttuurin toistuvaa hahmoa, kyvytöntä ja epärationaalista naistoimittajaa House of Cardsista Gilmoren tyttöjen paluujaksoon, ja jäljittää sen juuria aina Henry Jamesin romaaniin The Portrait of a Lady asti. Aino suosittelee juttua, koska aihe liippaa läheltä hänen omaa työtään.",
+        "google_linkki": "https://www.google.com/search?q=Jezebel+female+journalist+trope+incompetent",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
