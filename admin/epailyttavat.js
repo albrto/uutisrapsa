@@ -14362,7 +14362,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Nervous States",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -14370,9 +14370,69 @@ window.VALIDATION_DATA = [
           "filosofia",
           "politiikka"
         ],
-        "kuvaus": "William Daviesin teos pyrkii selittämään, miksi nykymaailma on niin jännitteinen ja täynnä patoutunutta aggressiota – kirja käy läpi muun muassa kartesiolaisen mieli–keho-kahtiajaon perintöä ja sen vaikutusta yhteiskuntaluokkien väliseen katkokseen.",
+        "kuvaus": "William Daviesin teos pyrkii selittämään, miksi nykymaailma on niin jännitteinen ja täynnä patoutunutta aggressiota. Tuomasta puhutteli erityisesti kirjan kaari Descartesin mieli–keho-kahtiajaosta ruumiillisen työn kipuun ja yhteiskuntaluokkien väliseen katkokseen.",
         "google_linkki": "https://www.google.com/search?q=Nervous+States+William+Davies",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nervous+States+William+Davies",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Millionaire vs. Billionaire in the Battle of the SoHo Pergola (The New York Times)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "New York",
+          "asuminen",
+          "naapuririita"
+        ],
+        "kuvaus": "Katherine Rosmanin New York Times -juttu siitä, miten miljardööri ja alakerran miljonäärinaapuri riitelevät oikeudessa sohoalaisen kerrostalon katolle rakennetusta raskaasta pergolasta. Markon mielestä tarina on aivan mahtava.",
+        "google_linkki": "https://www.google.com/search?q=Millionaire+vs+Billionaire+Battle+of+the+SoHo+Pergola+New+York+Times",
+        "lisatieto_linkki": "https://www.nytimes.com/2023/05/24/nyregion/dalio-soho-apartment-feud.html",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Salaliitto Kairossa",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "trilleri",
+          "Egypti"
+        ],
+        "kuvaus": "Tarik Salehin elokuva, jonka Ville Similä suositteli aiemmin podcastissa. Salla kävi katsomassa sen ja kehuu sitä ihmeelliseksi ja upeasti kuvatuksi elokuvaksi toisesta kulttuuripiiristä – yhdeksi Uutisrapsan historian parhaista suosituksista.",
+        "google_linkki": "https://www.google.com/search?q=Salaliitto+Kairossa+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Boy+from+Heaven",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Tina Turner – Simply the Best",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "rock",
+          "pop",
+          "kokoelma"
+        ],
+        "kuvaus": "Tina Turnerin vuonna 1991 julkaistu kokoelmalevy, jota Salla kuunteli 90-luvulla helsinkiläisen serkkunsa cd-hyllystä. Turnerin kuoleman jälkeen Salla suosittelee palaamaan hänen laulunsa ja tarinansa voimaan.",
+        "google_linkki": "https://www.google.com/search?q=Tina+Turner+Simply+the+Best+albumi",
+        "lisatieto_linkki": "https://open.spotify.com/search/Tina%20Turner%20Simply%20the%20Best",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -20697,7 +20757,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Alma Onali",
         "teos": "Top Gun (1986)",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -20705,7 +20765,7 @@ window.VALIDATION_DATA = [
           "klassikko",
           "lentäjät"
         ],
-        "kuvaus": "Klassinen toimintaelokuva vuodelta 1986. Suosittelija kehuu erityisesti elokuvan musiikkia, visuaalisuutta ja Kelly McGillisin hahmoa vahvana naisena.",
+        "kuvaus": "Klassinen toimintaelokuva vuodelta 1986, jonka Alma katsoi ensimmäistä kertaa. Hän kehuu elokuvan musiikkia ja visuaalisuutta ja erityisesti Kelly McGillisin itsenäistä astrofyysikkohahmoa, jota ei tarvitse pelastaa missään vaiheessa.",
         "google_linkki": "https://www.google.com/search?q=Top+Gun+1986",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Top+Gun+1986",
         "alkupera": "",
@@ -20717,7 +20777,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Alma Onali",
         "teos": "Everything Everywhere All at Once",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -20725,7 +20785,7 @@ window.VALIDATION_DATA = [
           "toiminta",
           "rinnakkaistodellisuus"
         ],
-        "kuvaus": "Daniel Kwanin ja Daniel Scheinerin ohjaama rinnakkaistodellisuusseikkailu, jossa kiinalaisnainen pelastaa maailman rinnakkaistodellisuuden avulla. Elokuva on monella tasolla iskevä ja tunteita herättävä kokemus.",
+        "kuvaus": "Daniel Kwanin ja Daniel Scheinertin ohjaama rinnakkaistodellisuusseikkailu, jossa keski-ikäinen kiinalaisnainen pelastaa maailman rinnakkaistodellisuuksien itsejensä avulla. Alman mukaan elokuva on hulvaton, hurjan koskettava ja visuaalisesti omaa luokkaansa.",
         "google_linkki": "https://www.google.com/search?q=Everything+Everywhere+All+at+Once",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Everything+Everywhere+All+at+Once",
         "alkupera": "",
@@ -20737,7 +20797,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Love Death + Robots",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -20745,9 +20805,55 @@ window.VALIDATION_DATA = [
           "scifi",
           "antologia"
         ],
-        "kuvaus": "Netflixin animaatiosarja, jonka kolmas kausi ilmestyi. Erityisesti jakso 'The Very Pulse of the Machine' sai suosittelijan täysin valloitetuksi – jakso kertoo astronautista Jupiterin kuussa iossa ja on suosittelijan mukaan vaikuttavin televisiokokemus vuosikymmeniin.",
+        "kuvaus": "Netflixin animaatiosarja, jonka kolmas kausi ilmestyi. Tuomas jatkaa aiempaa suositustaan nostamalla esiin jakson The Very Pulse of the Machine, joka kertoo Jupiterin Io-kuussa yksin kamppailevasta astronautista ja on hänen mukaansa vaikuttavinta televisiota vuosikymmeniin.",
         "google_linkki": "https://www.google.com/search?q=Love+Death+Robots+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Death+Robots",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_osallistuja",
+          "ei_tunnettu"
+        ],
+        "suosittelija": "Patrick Radden Keefe",
+        "teos": "Severance",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "trilleri",
+          "scifi",
+          "työelämä"
+        ],
+        "kuvaus": "Apple TV+:n työpaikkatrilleri, jota New Yorkerin toimittaja-kirjailija Patrick Radden Keefe suosittelee nauhoitetussa tervehdyksessään. Hän kuvaa sarjaa oudoksi, Twilight Zone -henkiseksi kertomukseksi työstä.",
+        "google_linkki": "https://www.google.com/search?q=Severance+Apple+TV",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_osallistuja",
+          "ei_tunnettu"
+        ],
+        "suosittelija": "Patrick Radden Keefe",
+        "teos": "Älä sano mitään",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "Pohjois-Irlanti",
+          "true crime"
+        ],
+        "kuvaus": "Patrick Radden Keefen tietokirja Pohjois-Irlannin levottomuuksien aikaisesta murhasta ja sen pitkästä varjosta, joka ilmestyi suomeksi toukokuussa 2022. Keefe suosittelee nauhoitteessa omaa kirjaansa, ja Tuomas ja Marko kehuvat sitä huikean hienoksi.",
+        "google_linkki": "https://www.google.com/search?q=Patrick+Radden+Keefe+%C3%84l%C3%A4+sano+mit%C3%A4%C3%A4n",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Say+Nothing+Patrick+Radden+Keefe",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
