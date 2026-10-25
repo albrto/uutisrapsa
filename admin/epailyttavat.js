@@ -14322,7 +14322,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "TikTok",
         "paakategoria": "muu",
         "kategoriat": [
@@ -14330,7 +14330,7 @@ window.VALIDATION_DATA = [
           "algoritmi",
           "musiikki"
         ],
-        "kuvaus": "TikTokin algoritmi on poikkeuksellisen hyvä löytämään juuri sinulle sopivaa sisältöä – esimerkiksi unohdettuja musiikkihelmiä tai tuntemattomien artistien versioita klassikoista.",
+        "kuvaus": "Tuomaksen mielestä TikTokin algoritmi on käsittämättömän hyvä löytämään juuri sinulle sopivaa sisältöä – esimerkiksi unohdettuja musiikkihelmiä tai tuntemattomien artistien versioita klassikoista.",
         "google_linkki": "https://www.google.com/search?q=TikTok",
         "lisatieto_linkki": "https://www.tiktok.com",
         "alkupera": "",
@@ -14342,7 +14342,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "The Logical Song – Lisele Green (kitaraversio)",
         "paakategoria": "musiikki",
         "kategoriat": [
@@ -14350,7 +14350,7 @@ window.VALIDATION_DATA = [
           "akustinen",
           "70-luku"
         ],
-        "kuvaus": "Tuntematon artisti Lisele Green on tehnyt koskettavan minuutti 30 sekunnin kitaraversion Supertramp-yhtyeen klassikosta The Logical Song, jonka Marko löysi TikTokin kautta.",
+        "kuvaus": "Tuntematon artisti on tehnyt koskettavan puolentoista minuutin kitaraversion Supertrampin klassikosta The Logical Song, jonka Tuomas löysi TikTokin kautta.",
         "google_linkki": "https://www.google.com/search?q=Lisele+Green+The+Logical+Song",
         "lisatieto_linkki": "https://open.spotify.com/search/Lisele%20Green%20The%20Logical%20Song",
         "alkupera": "",
