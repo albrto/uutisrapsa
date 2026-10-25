@@ -1569,5 +1569,190 @@
     "r_idx": 2,
     "data": null,
     "aika": "2026-10-25T17:47:03"
+  },
+  "tag:soundcloud,2010:tracks/1879770201::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Oskari Eronen",
+      "kuvaus": "Kevin Kwanin kolmiosainen viihdekirjallisuuden trilogia (Ökyrikkaat aasialaiset, Ökyrikas tyttöystävä, Ökyrikkaiden ongelmia), joka kertoo käsittämättömän rikkaiden ulkokiinalaisten seurapiirielämästä ja suvun sisäisestä juonittelusta. Oskarin mielestä erinomaista kesälomaluettavaa."
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1879770201::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Rasmus Helaniemi",
+      "kuvaus": "Kesäinen kotitekoinen pizza kesäkurpitsalla, kirsikkatomaateilla ja oliiveilla – resepti löytyy googlaamalla. Rasmus suosittelee jättämään peston pois ja tarjoamaan pizzaa vaikka kotibileissä."
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1892403972::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Joona Aaltonen",
+      "kuvaus": "Netflixin dokumenttisarja Bernie Madoffista, joka pyöritti historian suurinta pyramidihuijausta ja vei valtavia rahamääriä sekä tavallisilta ihmisiltä että suursijoittajilta. Joona vinkkasi sen Heinin Theranos-suosituksen jatkoksi."
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1892403972::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Joona Aaltonen",
+      "kuvaus": "Yle-sarja, jonka neljännellä tuotantokaudella ruotsalainen Mari ajaa siskonsa kanssa halki Euroopan Sisiliaan keräten matkan varrelta vintage-huonekaluja ja -vaatteita. Pariisin antiikkimarkkinat ovat yksi kohokohta."
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1892403972::puuttuu::dirty pop: the boy band scam": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Dirty Pop: The Boy Band Scam",
+      "suosittelija": "Jukka Huusko",
+      "kuvaus": "Tuore dokumenttisarja poikabändien tuottajasta Lou Pearlmanista, joka paljastui pyramidihuijariksi. Jukka vinkkasi sen pyramidihuijauskeskustelun jatkoksi.",
+      "paakategoria": "tv-sarja",
+      "kategoriat": [
+        "dokumentti",
+        "huijaus",
+        "musiikki"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Dirty+Pop+The+Boy+Band+Scam",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Dirty+Pop+The+Boy+Band+Scam"
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1892403972::puuttuu::hs:n artikkeli israelin ja iranin suhteiden historiasta": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "HS:n artikkeli Israelin ja Iranin suhteiden historiasta",
+      "suosittelija": "Jukka Huusko",
+      "kuvaus": "Helsingin Sanomien juttu siitä, miten Israelin ja Iranin suhteet ovat kehittyneet ystävällismielisistä, jopa liittolaismaisista nykyiseen vihamielisyyteen. Jukka suositteli sitä Lähi-idän keskustelun lopuksi.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "Lähi-itä",
+        "ulkopolitiikka"
+      ],
+      "google_linkki": "https://www.google.com/search?q=HS+Israel+Iran+suhteet+historia+elokuu+2024",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1897673451::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Oskari Eronen",
+      "kuvaus": "Tove Janssonin romaani, joka sijoittuu ikäihmisten vierastaloon Floridan Saint Petersburgissa. Oskarin mielestä kirja käsittelee vanhenemista mielenkiintoisin hahmoin ja tunnelmallisesti, vaikka juoni on vähäeleinen."
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1897673451::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Heini Pitkänen",
+      "kuvaus": "Lionsgate Soundin podcast vuosikymmeniä kestäneestä uskomattomasta huijaustarinasta. Heinin mukaan kahdeksaa noin tunnin mittaista jaksoa kuuntelee suu auki."
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1897673451::teos::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "teos": "Scamanda",
+      "google_linkki": "https://www.google.com/search?q=Scamanda+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Scamanda",
+      "kuvaus": "Lionsgate Soundin podcast vuosikymmeniä kestäneestä uskomattomasta huijaustarinasta. Heinin mukaan kahdeksaa noin tunnin mittaista jaksoa kuuntelee suu auki."
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1897673451::puuttuu::kaisan helmi (entinen ravintola kaisaniemi)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Kaisan Helmi (entinen ravintola Kaisaniemi)",
+      "suosittelija": "Rasmus Helaniemi",
+      "kuvaus": "Kaisaniemen puistossa sijaitseva kahvila, joka on 1800-luvun puolivälistä yksi Helsingin vanhimmista kahvilaravintoloista ja sisustettu menneen maailman henkeen. Rasmus suosittelee sitä retron ystäville.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "kahvila",
+        "Helsinki",
+        "retro"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Kaisan+Helmi+Kaisaniemi+Helsinki",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/1897673451::puuttuu::kattoterassi taka-töölössä (nimi epäselvä)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Pinehill Terrace – Kattoterassi Taka-Töölössä",
+      "suosittelija": "Rasmus Helaniemi",
+      "kuvaus": "Parkkipaikan vieressä sijaitseva kattoterassi Taka-Töölössä. Rasmus suosittelee sitä urbaanina ja jännänä kesäisenä vierailukohteena.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "terassi",
+        "Helsinki"
+      ],
+      "google_linkki": "https://www.google.com/search?q=kattoterassi+Taka-Töölö",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/988871245::puuttuu::hiihtäminen lasten perässä": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Hiihtäminen lasten perässä",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko kertoo hiihtäneensä nuorena kilpaa ja ajavansa itsensä yksin hiihtäessä nopeasti puhki. Lasten perässä hiihtäminen pitää vauhdin maltillisena, joten siitä jaksaa nauttia.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "hiihto",
+        "liikunta",
+        "perhe"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
+  },
+  "tag:soundcloud,2010:tracks/988871245::puuttuu::yle areenan historia-aiheiset radiodokumentit (esim. viikinkiaika, tautien historia: kolera)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Yle Areenan historia-aiheiset radiodokumentit (esim. Viikinkiaika, Tautien historia: kolera)",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Kuulijan vinkistä Tuomas sukelsi Yle Areenan radiopuolen historiadokumentteihin, kuten 28-osaiseen Viikinkiaika-sarjaan ja Tautien historia: kolera -ohjelmaan. Hänen mielestään ne ovat laadukasta ja kiinnostavaa tietosisältöä, jota kannattaa kuunnella podcasteina.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "historia",
+        "radiodokumentti",
+        "Yle Areena"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Yle+Areena+Viikinkiaika+radio",
+      "lisatieto_linkki": "https://open.spotify.com/search/Viikinkiaika",
+      "alkupera": "yle"
+    },
+    "aika": "2026-10-25T18:46:06",
+    "viety": "2026-10-25T18:46:06"
   }
 }
