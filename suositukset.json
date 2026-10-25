@@ -2697,8 +2697,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Sauli+Niinistö+muistelmat+kirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sauli+Niinistö",
-        "kuvaus": "Sauli Niinistön muistelmakirja, jossa käydään läpi mm. Suomen Nato-tietä ja tapaamisia maailmanjohtajien kuten Putinin, Trumpin ja Xin kanssa. Sisältää humoristisia päiväkirjamerkintöjä, kuten kuvauksen Trumpin yöstä ilman ilmastointia Helsingissä 2018.",
-        "suosittelija": "Anna-Sofia Berner",
+        "kuvaus": "Sauli Niinistön muistelmateos, jossa käydään läpi muun muassa Suomen Nato-tietä ja tapaamisia maailmanjohtajien kuten Putinin, Trumpin ja Xin kanssa. Sallan mukaan mukana on humoristisia päiväkirjamerkintöjä, kuten kuvaus Trumpin hikisestä yöstä ilman ilmastointia Helsingissä 2018.",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "politiikka",
           "muistelmat",
@@ -2710,8 +2710,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Postwar+A+History+of+Europe+Since+1945+Tony+Judt",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Postwar+A+History+of+Europe+Since+1945+Tony+Judt",
-        "kuvaus": "Historioitsija Tony Judtin laaja klassikkoteos Euroopan historiasta toisen maailmansodan päättymisestä 2000-luvun alkuun. Kirja avaa lakonisesti ja järkyttävän tarkasti Euroopan tilan vuonna 1945 ja sen jälkeisen nousun.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Historioitsija Tony Judtin laaja klassikkoteos Euroopan historiasta toisen maailmansodan päättymisestä 2000-luvun alkuun. Sohvi on vasta alussa, mutta jo kirjan lakoninen kuvaus Euroopan tilasta vuonna 1945 on ollut hänestä järisyttävää luettavaa.",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "historia",
           "Eurooppa",
@@ -2743,6 +2743,18 @@
           "ukulele",
           "huumori",
           "joulu"
+        ]
+      },
+      {
+        "teos": "E-kirjasto",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=E-kirjasto",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas kehuu yleisten kirjastojen yhteistä E-kirjastoa, josta saa e- ja äänikirjoja ilmaiseksi kaikille suomalaisille. Hänen perheensä on käyttänyt sitä tauon ajan maksullisista äänikirjapalveluista.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "äänikirjat",
+          "kirjasto"
         ]
       }
     ]
@@ -3970,8 +3982,8 @@
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=Eppu+Normaali+Repullinen+hittejä",
         "lisatieto_linkki": "https://open.spotify.com/search/Eppu%20Normaali%20Repullinen%20hittejä",
-        "kuvaus": "Suomalaisen kesätunnelman herättämiseksi suositellaan lapsuuden mökkimatkalevyjä, kuten Eppu Normaalin hittikooste. Sopii erityisesti niille, joilla ei ole kesälomaa.",
-        "suosittelija": "Rasmus Helaniemi",
+        "kuvaus": "Helmi suosittelee suomalaisen kesätunnelman herättämiseksi lapsuuden mökkimatkalevyjä, kuten Eppu Normaalin hittikoostetta. Sopii erityisesti niille, joilla ei ole kesälomaa.",
+        "suosittelija": "Helmi Sundström",
         "kategoriat": [
           "suomipop",
           "nostalgia",
@@ -3983,8 +3995,8 @@
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=Leevi+and+the+Leavings+41+hittejä",
         "lisatieto_linkki": "https://open.spotify.com/search/Leevi%20and%20the%20Leavings%2041%20hitti%C3%A4",
-        "kuvaus": "Toinen lapsuuden kesätunnelmaa herättävä suomalainen hittikooste. Suositellaan soitettavaksi taustalla samalla kun grillaa makkaraa parvekkeella.",
-        "suosittelija": "Rasmus Helaniemi",
+        "kuvaus": "Toinen Helmin lapsuuden kesätunnelmaa herättävä suomalainen hittikooste. Hän ehdottaa soittamaan sitä taustalla samalla, kun paistaa makkaraa kerrostalokaksiossa.",
+        "suosittelija": "Helmi Sundström",
         "kategoriat": [
           "suomipop",
           "nostalgia",
@@ -4002,6 +4014,54 @@
           "tietokirja",
           "kyberturvallisuus",
           "historia"
+        ]
+      },
+      {
+        "teos": "Vedä julkisen vessan ovi nopeasti kiinni",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Hannan sivusuositus: julkisessa vessassa ovi kannattaa vetää kiinni ripeästi. Muuten joku satunnainen lapsi voi kiskaista sen auki ja jäädä tuijottamaan, kuten Hannalle kävi huoltoasemalla.",
+        "suosittelija": "Hanna Havusto",
+        "kategoriat": [
+          "elämänohje",
+          "huumori"
+        ]
+      },
+      {
+        "teos": "Aurinkorasva",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "John suosittelee aurinkorasvaa sateisestakin Suomen kesästä huolimatta, sillä rintansa voi polttaa jo töistä kotiin kävellessä, jos on tarpeeksi kuuma.",
+        "suosittelija": "John Helin",
+        "kategoriat": [
+          "elämänohje",
+          "kesä"
+        ]
+      },
+      {
+        "teos": "Sanomatalon viereisen ravintolan miesten vessa",
+        "paakategoria": "ruoka",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "John suosittelee Sanomatalon vieressä olevan ravintolan, jossa ulkomaantoimitus kävi lounaalla, persoonallista miesten vessaa. Hänestä ravintoloiden pitäisi brändäytyä useammin vessoillaan, kuten Hotelli Tornin kuuluisa vessa.",
+        "suosittelija": "John Helin",
+        "kategoriat": [
+          "ravintola",
+          "huumori"
+        ]
+      },
+      {
+        "teos": "Grillaaminen ja ykkösolut",
+        "paakategoria": "ruoka",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Rasmuksen spontaani kesäsuositus: grillaamista ja 2,8-prosenttista ykkösolutta heti nauhoituksen päätyttyä.",
+        "suosittelija": "Rasmus Helaniemi",
+        "kategoriat": [
+          "kesä",
+          "grillaus"
         ]
       }
     ]
@@ -14433,8 +14493,8 @@
         "paakategoria": "artikkeli",
         "google_linkki": "https://www.google.com/search?q=The+Native+Scholar+Who+Wasn%27t+New+York+Times",
         "lisatieto_linkki": "https://www.nytimes.com/search?query=native+scholar+andrea+smith",
-        "kuvaus": "New York Timesin pitkä feature-artikkeli yhdysvaltalaisista tutkijoista, jotka ovat huijanneet etnisen taustansa – muun muassa Andrea Smith, joka esiintyi alkuperäiskansan jäsenenä cherokeena.",
-        "suosittelija": "Tommi Nieminen",
+        "kuvaus": "Maria suosittelee New York Timesin pitkää feature-artikkelia yhdysvaltalaisista tutkijoista, jotka ovat huijanneet etnisen taustansa – muun muassa Andrea Smithistä, joka esiintyi cherokee-alkuperäiskansan jäsenenä.",
+        "suosittelija": "Maria Manner",
         "kategoriat": [
           "etnisyys",
           "yhdysvallat",
@@ -14478,6 +14538,18 @@
           "jalkapallo",
           "suomi",
           "urheiluhistoria"
+        ]
+      },
+      {
+        "teos": "Stadi Cup",
+        "paakategoria": "urheilu",
+        "google_linkki": "https://www.google.com/search?q=Stadi+Cup+jalkapallo",
+        "lisatieto_linkki": "",
+        "kuvaus": "Marko suosittelee Käpylässä pelattavaa Stadi Cupia, Suomen suurinta tyttöjen jalkapallotapahtumaa. Hänestä tunnelma on mahtava ja tyttöjen peli iloista ja mukavaa katsottavaa.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "jalkapallo",
+          "tapahtuma"
         ]
       }
     ]
@@ -15286,8 +15358,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=The+Art+of+Fermentation+Sandor+Katz",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Art+of+Fermentation+Sandor+Katz",
-        "kuvaus": "Sandor Ellix Katzin kirjoittama kattava teos fermentaatiosta eli hapatuksesta. Suosittelija kuuntelee sitä äänikirjana ja kehuu sen rauhoittavan vaikutuksen.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Sandor Ellix Katzin kattava teos fermentaatiosta eli hapattamisesta. Tuomas kuuntelee sitä äänikirjana ja kertoo nukahtavansa sen rauhoittavaan selostukseen alle kahdessa minuutissa.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "fermentaatio",
           "ruoanlaitto",
@@ -15299,12 +15371,36 @@
         "paakategoria": "ruoka",
         "google_linkki": "https://www.google.com/search?q=inkiv%C3%A4%C3%A4riolut+kotivalmistus+fermentaatio",
         "lisatieto_linkki": "https://www.google.com/search?q=ginger+beer+homemade+fermentation+recipe",
-        "kuvaus": "Kotitekoinen fermentoitu inkiväärijuoma, joka valmistetaan raastetusta inkivääristä, vedestä ja sokerista. Suosittelija kehuu fermentaatioharrastusta luontoon tutustuttavana ja helposti aloitettavana kotiprojektina.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Kotitekoinen fermentoitu inkiväärijuoma, joka valmistetaan raastetusta inkivääristä, vedestä ja sokerista. Tuomas kehuu fermentointia helposti aloitettavana kotiprojektina, joka tutustuttaa luontoon ja siihen, miten maailma toimii.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "fermentaatio",
           "kotivalmistus",
           "juomat"
+        ]
+      },
+      {
+        "teos": "Susanna Reinbothin kirjoitus Koskelan surmasta ja julkisuuslaista",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Susanna+Reinboth+Koskela+julkisuuslaki",
+        "lisatieto_linkki": "",
+        "kuvaus": "Maria suosittelee HS:n Susanna Reinbothin kirjoitusta Koskelan surmasta ja julkisuuslaista: miksi viranomaisten toimista pojan auttamiseksi on saatu niin vähän tietoa. Marian mukaan juttu on supertärkeä, koska kunnollista poliittista keskustelua siitä, mikä meni pieleen, ei ole käyty.",
+        "suosittelija": "Maria Manner",
+        "kategoriat": [
+          "journalismi",
+          "yhteiskunta"
+        ]
+      },
+      {
+        "teos": "r/WallStreetBets",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=r%2FWallStreetBets",
+        "lisatieto_linkki": "",
+        "kuvaus": "Marko kertoo viettävänsä iltansa Redditin WallStreetBets-foorumilla, joka on täynnä meemejä, stonks-raketteja ja GameStop-hullutusta mutta myös kokeneiden sijoittajien analyyseja. Erityismaininta tyypille, joka selitti GameStop-operaation seitsemän tunnin YouTube-videolla.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "internet",
+          "sijoittaminen"
         ]
       }
     ]
@@ -19688,8 +19784,8 @@
         "paakategoria": "artikkeli",
         "google_linkki": "https://www.google.com/search?q=Trumpin+valinnan+ja+Brexitin+ratkaisi+osin+somessa+tehtava+mikrotargetointi+Suomessa+kaksi+puoluetta+tekee+samaa",
         "lisatieto_linkki": "https://www.hs.fi/",
-        "kuvaus": "Helsingin Sanomien toimittaja Ossi Mansikan laaja selvitys siitä, miten mikrotargetointi vaikutti Trumpin vaaliin ja Brexitiin, ja miten suomalaiset puolueet hyödyntävät samaa tekniikkaa eduskuntavaaleissa.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Tuomas suosittelee kollegansa Ossi Mansikan laajaa HS-selvitystä siitä, miten mikrotargetointi vaikutti Trumpin vaaliin ja Brexitiin ja miten suomalaiset puolueet hyödyntävät samaa tekniikkaa eduskuntavaaleissa.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "politiikka",
           "some",
