@@ -700,6 +700,24 @@
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "How Do We Change Our Confidence Trajectory?",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "artikkeli",
+          "EU",
+          "tekoäly"
+        ],
+        "kuvaus": "Tuomas suosittelee lukemaan Euroopan keskuspankin entisen pääjohtajan Mario Draghin kirjoituksen Euroopan kilpailukyvystä ja tekoälystä. Teksti on julkaistu Groupe d'études géopolitiques -julkaisussa (geopolitique.eu), ja siihen viitataan myös HS:n Henna Virkkusen haastattelussa.",
+        "google_linkki": "https://www.google.com/search?q=Mario+Draghi+How+do+we+change+our+confidence+trajectory",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
       }
     ]
   },
@@ -2349,6 +2367,24 @@
         "kuvaus": "Tuomas Kyrön romaani suomalaisesta miehestä, joka lähtee sotimaan Ukrainaan Venäjän hyökkäyssodan aikana. Vaikuttava ja surullinen teos.",
         "google_linkki": "https://www.google.com/search?q=Tuomas+Kyrö+Aleksi+äänikirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Aleksi+Tuomas+Kyrö",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Jaakko Muilu",
+        "teos": "Pyöräretki Laurinlahden uimarannalle",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "pyöräily",
+          "matkailu",
+          "uimaranta"
+        ],
+        "kuvaus": "Jaakon kesävinkki on kotiseutumatkailu: hän pyöräili Helsingin kantakaupungista Länsi-Espoon Laurinlahden uimarannalle, jossa ei ollut koskaan käynyt. Tärkeintä on lähteä liikkeelle ja luottaa, että matkalta löytyy jotain kivaa.",
+        "google_linkki": "https://www.google.com/search?q=Laurinlahden+uimaranta+Espoo",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -4917,8 +4953,8 @@
       },
       {
         "r_idx": 4,
-        "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "is_suspicious": true,
+        "suosittelija": "Sami Sillanpää",
         "teos": "Ruplaruhtinat",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -4936,7 +4972,7 @@
       {
         "r_idx": 5,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Hope This Helps",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -4944,7 +4980,7 @@
           "huumori",
           "kevyt viihde"
         ],
-        "kuvaus": "Amerikkalaisen koomikko Dustin Nickersonin podcast, jossa ei puhuta politiikasta tai vakavista aiheista vaan äärimmäisen arkisista ja kummallisista asioista. Hauskaa ajatuksenvirtaa, jonka äärellä ei voi muuta kuin nauraa.",
+        "kuvaus": "Amerikkalaisen koomikon podcast, jossa ei puhuta politiikasta tai vakavista aiheista vaan äärimmäisen arkisista ja kummallisista asioista. Sallan mukaan hauskaa ajatuksenvirtaa, jonka äärellä ei voi muuta kuin nauraa.",
         "google_linkki": "https://www.google.com/search?q=Hope+This+Helps+Dustin+Nickerson+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Hope%20This%20Helps%20Dustin%20Nickerson",
         "alkupera": "ulkomainen",
@@ -5714,7 +5750,7 @@
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Marko Junkkari",
         "teos": "True Believer: The Rise and Fall of Stan Lee",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -5722,7 +5758,7 @@
           "sarjakuva",
           "Marvel"
         ],
-        "kuvaus": "Abraham Riesman kirjoittama elämäkerta Stan Leestä, Marvelin hahmojen isäksi tituleeratusta miehestä. Kirja käy kriittisesti läpi Leen todellisen roolin Marvelin hahmojen luomisessa sekä hänen myöhemmät epäonnistuneet liiketoimintaseikkailunsa.",
+        "kuvaus": "Marko suosittelee Abraham Riesmanin kriittistä elämäkertaa Stan Leestä. Kirja kertoo, ettei Lee juurikaan luonut Marvelin hahmoja, vaikka otti niistä kunnian, ja käy läpi myös hänen myöhemmät epäonnistuneet liiketoimensa.",
         "google_linkki": "https://www.google.com/search?q=True+Believer+The+Rise+and+Fall+of+Stan+Lee",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Believer+The+Rise+and+Fall+of+Stan+Lee",
         "alkupera": "",
@@ -5743,6 +5779,23 @@
         "kuvaus": "Adam Curtisin kuusiosainen dokumenttisarja, joka käsittelee sitä, miten nykymaailman kaaos, kulttuurisodat ja salaliittoteoriat ovat syntyneet. Sarja löytyy YouTubesta.",
         "google_linkki": "https://www.google.com/search?q=Can%27t+Get+You+Out+of+My+Head+Adam+Curtis+documentary",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Can%27t+Get+You+Out+of+My+Head+Adam+Curtis",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Michael Jacksonin Thriller-koreografian opettelu",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tanssi",
+          "harrastus"
+        ],
+        "kuvaus": "Tuomas vinkkaa opettelemaan Michael Jacksonin Thriller-koreografian. Hän kävi itse joka päivä ryhmätanssitunneilla ja piti kokemusta mahtavana.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -6016,7 +6069,7 @@
       {
         "r_idx": 3,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "NRK:n artikkeli Sanna Marinista",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -6024,7 +6077,7 @@
           "kansainvälinen media",
           "Suomi-kuva"
         ],
-        "kuvaus": "Norjalaisen yleisradioyhtiö NRK:n artikkeli Sanna Marinista, jossa hän puhuu avoimesti Venäjän uhasta, Ukrainasta ja demokratian puolustamisesta. Kiinnostava ulkopuolinen näkökulma Suomeen.",
+        "kuvaus": "Norjan yleisradioyhtiö NRK:n juttu Sanna Marinista, jossa hän puhuu suoraan Venäjän uhasta, Ukrainasta ja demokratioiden ja autoritaaristen maiden kamppailusta. Salla suosittelee sitä esimerkkinä siitä, miltä Suomi näyttää ulkomaisessa mediassa.",
         "google_linkki": "https://www.google.com/search?q=NRK+Sanna+Marin+feminisme+artikkeli",
         "lisatieto_linkki": "https://www.google.com/search?q=NRK+Sanna+Marin+2024",
         "alkupera": "",
@@ -6755,7 +6808,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Iida Sofia Hirvonen",
+        "suosittelija": "Alma Onali",
         "teos": "Yoga With Adriene",
         "paakategoria": "muu",
         "kategoriat": [
@@ -6763,9 +6816,26 @@
           "hyvinvointi",
           "YouTube"
         ],
-        "kuvaus": "YouTube-kanava, jossa joogaopettaja Adriene tarjoaa ilmaisia joogatunteja kaikille tasoille ja tilanteisiin – aloittelijoista juoksijoihin, lyhyistä kahdeksan minuutin sessioista tunnin harjoituksiin.",
+        "kuvaus": "YouTube-kanava, jolla joogaopettaja Adriene pitää ilmaisia joogatunteja joka tasolle ja tarpeeseen, kahdeksan minuutin tuokioista tunnin harjoituksiin. Alman mukaan kanava auttoi häntä koronan ensimmäisen aallon läpi ja antaa sekä fyysistä että henkistä treeniä.",
         "google_linkki": "https://www.google.com/search?q=Yoga+With+Adriene+YouTube",
         "lisatieto_linkki": "https://www.youtube.com/c/yogawithadriene",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Onni Niemi",
+        "teos": "Avara luonto",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "luontodokumentti",
+          "Yle Areena"
+        ],
+        "kuvaus": "Ylen pitkäikäinen luontodokumenttisarja, jota Onni katsoi viikolla ensimmäistä kertaa vuosiin. Lapsuudesta tuttu sarja toi nostalgista lohtua, ja hän aikoo turvautua siihen, jos toinen aalto sulkee ihmiset taas koteihinsa.",
+        "google_linkki": "https://www.google.com/search?q=Avara+luonto+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/1-1566213",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -7181,10 +7251,27 @@
           "politiikka",
           "Yhdysvallat"
         ],
-        "kuvaus": "MSNBC:n Rachel Maddowin podcast, jonka toinen kausi sukeltaa amerikkalaisen äärioikeiston ja natsisympatioiden historiaan 1940–50-lukujen Yhdysvalloissa. Ajatuksia herättävä ja tässä ajassa erittäin ajankohtainen.",
+        "kuvaus": "Salla suosittelee MSNBC:n Rachel Maddow'n Ultra-podcastia, jonka toinen kausi sukeltaa amerikkalaisen äärioikeiston ja natsisympatioiden historiaan sodanjälkeisessä Yhdysvalloissa. Hänen mielestään se herättää paljon ajatuksia myös tässä ajassa.",
         "google_linkki": "https://www.google.com/search?q=Ultra+Rachel+Maddow+podcast+MSNBC",
         "lisatieto_linkki": "https://open.spotify.com/search/Ultra%20Rachel%20Maddow",
         "alkupera": "ulkomainen",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Toni Lehtinen",
+        "teos": "Lily Allen ja David Harbour esittelevät New Yorkin kotiaan (YouTube-video)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "video",
+          "sisustus"
+        ],
+        "kuvaus": "Toni vinkkaa Hannan Lily Allen -suosituksen jatkoksi YouTube-videosta, jossa Allen ja hänen entinen miehensä David Harbour esittelevät värikkäästi ja mielikuvituksellisesti sisustettua New Yorkin asuntoaan.",
+        "google_linkki": "https://www.google.com/search?q=Lily+Allen+David+Harbour+New+York+home+video",
+        "lisatieto_linkki": "",
+        "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
       }
@@ -8357,7 +8444,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Tuija Siltamäki",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "This Naked Mind",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -8365,10 +8452,28 @@
           "alkoholi",
           "elämäntapa"
         ],
-        "kuvaus": "Podcast, jossa käsitellään alkoholin käytön lopettamista tai vähentämistä. Kuuntelijat soittavat ohjelmaan ja kertovat omista kokemuksistaan – matala kynnys lähestyä omaa suhdetta alkoholiin.",
+        "kuvaus": "Tuomas suosittelee alkoholinkäytön lopettamista käsittelevää podcastia, johon kuulijat soittavat kertomaan omista kokemuksistaan. Hänen mielestään se on matalin kynnys alkaa pohtia omaa juomistaan.",
         "google_linkki": "https://www.google.com/search?q=This+Naked+Mind+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/This%20Naked%20Mind",
         "alkupera": "ulkomainen",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Markus Selin – Perustuu tositapahtumiin",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "elokuvat",
+          "tietokirja"
+        ],
+        "kuvaus": "Marko kehuu kollegansa, HS:n elokuvakriitikon Veli-Pekka Lehtosen tuoretta elämäkertaa Markus Selinistä, Solar Filmsin perustajasta ja suomalaisen viihdeteollisuuden konkarista.",
+        "google_linkki": "https://www.google.com/search?q=Markus+Selin+Perustuu+tositapahtumiin+Veli-Pekka+Lehtonen",
+        "lisatieto_linkki": "https://www.tammi.fi/kirjat/markus-selin-perustuu-tositapahtumiin/",
+        "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
       }
@@ -8488,6 +8593,23 @@
         "kuvaus": "Arkkitehti Cliftonin ylläpitämä TikTok- ja Instagram-tili, jossa hän neuvoo feng shui -periaatteiden mukaisessa huonekalujen sijoittelussa pohjapiirustuksia hyödyntäen.",
         "google_linkki": "https://www.google.com/search?q=Dear+Modern+Clifton+feng+shui+TikTok",
         "lisatieto_linkki": "https://www.tiktok.com/@dearmodern",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Kokeisiin lukeminen yhdessä yläkouluikäisen kanssa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "vanhemmuus",
+          "oppiminen"
+        ],
+        "kuvaus": "Tuomas suosittelee vanhemmille, että he lukisivat yläkouluikäisen lapsensa kanssa yhdessä kokeisiin. Hän on istunut tyttärensä kanssa tuntikausia kahdeksannen luokan kemian kirjan ääressä ja kertoo sen tuoneen syvää iloa ja yhteisen oivaltamisen hetkiä.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -8668,7 +8790,7 @@
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Tuija Siltamäki",
         "teos": "The Rise of Victimhood Culture",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -8676,7 +8798,7 @@
           "kulttuurisodat",
           "sosiologia"
         ],
-        "kuvaus": "Bradley Campbellin ja Jason Manningin kirja, joka käsittelee mikroaggressioita, safe spaceja ja 2010-luvun kulttuurisotia. Sopii täydentämään keskustelua uhriutumisen käsitteestä.",
+        "kuvaus": "Tuijan suosittelema Bradley Campbellin ja Jason Manningin kirja, joka käsittelee mikroaggressioita, safe spaceja ja 2010-luvun kulttuurisotia. Sopii täydentämään keskustelua uhriutumisen käsitteestä.",
         "google_linkki": "https://www.google.com/search?q=The+Rise+of+Victimhood+Culture+Bradley+Campbell+Jason+Manning",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Rise+of+Victimhood+Culture",
         "alkupera": "",
@@ -8976,6 +9098,23 @@
         "kuvaus": "Pekka Mykkäsen kirja Riikka Purran rasismikohun ympärillä käydystä somesodasta, perussuomalaisten aggressiivisesta viestintäkulttuurista ja yhteiskunnallisen keskustelun myrkyttymisestä. Teos avaa ohjelmallista some-manipulaatiota suomalaisessa politiikassa.",
         "google_linkki": "https://www.google.com/search?q=Likainen+somesota+Pekka+Mykk%C3%A4nen",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Likainen+somesota+Pekka+Mykk%C3%A4nen",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Anu-Elina Lehti",
+        "teos": "Yle Abitreenit",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "opiskelu",
+          "verkkopalvelu"
+        ],
+        "kuvaus": "Ylen palvelu, jossa voi tehdä vanhoja ylioppilaskokeita ja verrata vastauksiaan mallivastauksiin. Anu-Elina treenasi sillä äidinkielen koetta yhdessä poikansa kanssa ja kehuu sitä uskomattoman hienoksi.",
+        "google_linkki": "https://www.google.com/search?q=Yle+Abitreenit",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -9400,6 +9539,24 @@
         "kuvaus": "Ben Macintyre'n kirja brittivakooja Kim Philbystä, joka toimi kolmekymmentä vuotta kaksoisagenttina välittäen tietoja Neuvostoliitolle. Narratiivinen historiakuvaus Cambridgen vakoilijaporukasta ja petoksesta.",
         "google_linkki": "https://www.google.com/search?q=A+Spy+Among+Friends+Ben+Macintyre",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Spy+Among+Friends+Ben+Macintyre",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Vakooja ja petturi (The Spy and the Traitor)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "vakoilu",
+          "historia"
+        ],
+        "kuvaus": "Ben Macintyren tietokirja venäläisestä vakoojasta, joka loikkasi Suomen kautta länteen. Marko kehuu kirjaa huikean hienoksi ennen kuin siirtyy saman kirjoittajan Kim Philby -kirjaan.",
+        "google_linkki": "https://www.google.com/search?q=Ben+Macintyre+Vakooja+ja+petturi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Ben+Macintyre+The+Spy+and+the+Traitor",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -11333,6 +11490,23 @@
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Elokuva-iltapäivä työpaikalla",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "työyhteisö",
+          "elokuvat"
+        ],
+        "kuvaus": "She Said -elokuvan rinnalla Salla suosittelee järjestämään työpaikalla yhteisen elokuva-iltapäivän popcornin, karkkien ja limsan kera, kuten hän teki oman tiiminsä kanssa.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
       }
     ]
   },
@@ -12954,7 +13128,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Honestly with Bari Weiss",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -12962,7 +13136,7 @@
           "konservatiivismi",
           "yhdysvallat"
         ],
-        "kuvaus": "Entisen New York Times -toimittajan Bari Weissin podcast, joka käsittelee ajankohtaisia aiheita konservatiivisesta ja woke-kriittisestä näkökulmasta. Suosittelija pitää sitä vastenmielisenä mutta kiistattoman fiksuna.",
+        "kuvaus": "Tuomas suosittelee New York Timesista lähteneen Bari Weissin podcastia, joka käsittelee ajankohtaisia aiheita konservatiivisesta ja woke-kriittisestä näkökulmasta. Tuomaksen mielestä juontaja on vähän vastenmielinen mutta kiistatta fiksu.",
         "google_linkki": "https://www.google.com/search?q=Honestly+with+Bari+Weiss",
         "lisatieto_linkki": "https://open.spotify.com/search/Honestly%20with%20Bari%20Weiss",
         "alkupera": "ulkomainen",
@@ -12972,17 +13146,17 @@
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
-        "teos": "Block and Reported",
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Blocked and Reported",
         "paakategoria": "podcast",
         "kategoriat": [
           "politiikka",
           "kulttuuri",
           "huumori"
         ],
-        "kuvaus": "Jesse Singalin ja Katie Herzogerin pitämä podcast, joka käy kriittisesti ja humoristisesti läpi woke-kulttuuria. Suosittelija kehuu sitä erittäin hauskaksi ja ilon lähteeksi.",
-        "google_linkki": "https://www.google.com/search?q=Block+and+Reported+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Block%20and%20Reported",
+        "kuvaus": "Tuomas suosittelee Jesse Singalin ja Katie Herzogin podcastia, joka käy kriittisesti ja hauskasti läpi uusimpia woke-kohuja. Tuomas kuuntelee sitä remonttia tehdessään ja kertoo saavansa siitä ilon läikähdyksiä.",
+        "google_linkki": "https://www.google.com/search?q=Blocked+and+Reported+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Blocked%20and%20Reported",
         "alkupera": "ulkomainen",
         "lisalinkit": [],
         "piilotettu": false
@@ -16244,6 +16418,40 @@
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Siskokset",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "ruotsalainen kirjallisuus"
+        ],
+        "kuvaus": "Sohvi osti kesälukemisekseen Rosebud-kirjakaupasta ruotsalaisen Jonas Hassen Khemirin paksun romaanin, joka kulkee vuosikymmenten läpi Ruotsista New Yorkiin kolmen sisaruksen ja heidän naapurinsa tarinana. Hän piti kirjasta todella paljon.",
+        "google_linkki": "https://www.google.com/search?q=Jonas+Hassen+Khemiri+Siskokset",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jonas+Hassen+Khemiri+Siskokset",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Outojen eksperimenttien tekeminen tekoälyn kanssa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tekoäly",
+          "tekeminen"
+        ],
+        "kuvaus": "Tuomas suosittelee kokeilemaan tekoälyä rohkeasti: hän pyysi tekoälyä laatimaan itsestään laajan kyselylomakkeen, täytti sen ja juttelee nyt koiralenkeillä tekoälyn kanssa äänitilassa elämän kysymyksistä.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
       }
     ]
   },
@@ -16426,7 +16634,7 @@
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Jaakko Lyytinen",
+        "suosittelija": "Maria Manner",
         "teos": "Sinéad O'Connor muistelmahaastattelu – New York Times",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -16434,7 +16642,7 @@
           "musiikki",
           "muistelmat"
         ],
-        "kuvaus": "New York Timesin haastattelu Sinéad O'Connorista, otsikoitu 'Sinéad O'Connor Remembers Things Differently'. Haastattelu käsittelee hänen elämäänsä, islamin uskoon kääntymistään ja muistelmiaan.",
+        "kuvaus": "New York Timesin haastattelu Sinéad O'Connorista, otsikoitu 'Sinéad O'Connor Remembers Things Differently'. Maria suosittelee haastattelua, joka käsittelee O'Connorin elämää, islamin uskoon kääntymistä ja muistelmia; myös Jaakko Lyytinen kehuu juttua.",
         "google_linkki": "https://www.google.com/search?q=Sinead+O%27Connor+New+York+Times+interview+remembers+things+differently",
         "lisatieto_linkki": "https://www.nytimes.com/search?query=Sinead+O%27Connor+remembers+things+differently",
         "alkupera": "",
@@ -16455,6 +16663,23 @@
         "kuvaus": "Brittiläinen poliisisarja, joka kertoo poliisin sisäisen valvonnan korruptioyksiköstä ja sen tutkinnoista. Uusin kausi löytyy Yle Areenasta, vanhemmat kaudet maksullisista suoratoistopalveluista.",
         "google_linkki": "https://www.google.com/search?q=Line+of+Duty+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Line+of+Duty",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kotimaan matkailu – Alajärvi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "matkailu",
+          "kotimaa"
+        ],
+        "kuvaus": "Marko kehottaa yli vuoden etätöiden jälkeen lähtemään kotoa kiertämään Suomea – esimerkiksi Etelä-Pohjanmaan Alajärvelle, jossa hän oli juttukeikalla.",
+        "google_linkki": "https://www.google.com/search?q=Alaj%C3%A4rvi+matkailu",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -16634,7 +16859,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Aino Frilander",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Letter from London: Bad Boy – New Yorker",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -16642,7 +16867,7 @@
           "Brexit",
           "pitkä juttu"
         ],
-        "kuvaus": "New Yorker -lehden pitkä artikkeli Brexit-kampanjan rahoittajista ja taustavaikuttajista – silmiä avaava katsaus siihen, mistä rahat tulivat ja ketkä vetivät lankoja.",
+        "kuvaus": "Tuomas suosittelee Ed Caesarin New Yorkeriin kirjoittamaa pitkää juttua Brexit-kampanjan rahoittajasta, johon viitattiin myös HBO:n Brexit-elokuvassa.",
         "google_linkki": "https://www.google.com/search?q=New+Yorker+Letter+from+London+Bad+Boy+Brexit",
         "lisatieto_linkki": "https://www.newyorker.com",
         "alkupera": "",
@@ -20748,7 +20973,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Koneruhtinas – Pekka Herlinin elämä",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -20756,9 +20981,26 @@
           "suomalaiset",
           "liike-elämä"
         ],
-        "kuvaus": "John Simenin kirjoittama elämäkerta Kone-yhtiön patruunasta Pekka Herlinistä. Teos käsittelee rehellisesti Herlinin alkoholismia, sen vaikutusta perheeseen sekä Koneen yritystarinan – saatavilla myös äänikirjana.",
+        "kuvaus": "Kone-yhtiön viestintäpäällikön kirjoittama elämäkerta yhtiön patruunasta Pekka Herlinistä. Tuomas kuunteli sen äänikirjana ja kehuu, miten rehellisesti kirja käsittelee Herlinin alkoholismia ja sen vaikutusta perheeseen sekä Koneen yritystarinaa.",
         "google_linkki": "https://www.google.com/search?q=Koneruhtinas+Pekka+Herlin+John+Simen",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Koneruhtinas+Pekka+Herlin",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Ruotsin television dokumentti rokotevastaisesta liikkeestä (Yle Areena)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "Yle Areena"
+        ],
+        "kuvaus": "Yle Areenasta löytyvä ruotsalainen dokumentti, jossa toimittajat soluttautuvat rokotevastaiseen liikkeeseen ja paljastavat sen taustalla olevia salaliittoteorioita. Maria pitää sitä pitkänä mutta hämmästyttävänä ja katsomisen arvoisena.",
+        "google_linkki": "https://www.google.com/search?q=SVT+dokumentti+rokotevastainen+liike+Yle+Areena",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -20783,7 +21025,7 @@
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Helsingin Sanomien Amerikka-podcast: Kulissien takana Mar-a-Lagossa",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -20791,7 +21033,7 @@
           "Yhdysvallat",
           "ulkopolitiikka"
         ],
-        "kuvaus": "Suvi Turtiainen kertoo hauskasti kulisseissa tapahtuneesta loistohotellin aulabaarissa kokouksessa, jossa Stubb oli paikalla Kushnerin ja Witkoffin kanssa.",
+        "kuvaus": "Salla suosittelee HS:n Amerikka-podcastin jaksoa, jossa Suvi Turtiainen kertoo hauskasti, mitä tapahtui kulisseissa loistohotellin aulabaarissa pidetyssä kokouksessa, jossa Stubb oli Jared Kushnerin ja Steve Witkoffin seurassa.",
         "google_linkki": "https://www.google.com/search?q=Helsingin+Sanomien+Amerikka-podcast+Stubb+Kushner+Witkoff",
         "lisatieto_linkki": "https://open.spotify.com/search/Helsingin%20Sanomien%20Amerikka-podcast",
         "alkupera": "hs",
@@ -20830,6 +21072,40 @@
         "kuvaus": "Jouluinen kinkunkastike, jossa perinteinen jauhopohjainen roux tehdään piparijauheesta ja voista, johon lisätään kylmä kinkunliemi, kerma ja sinappi. Sopii perunoiden ja kinkunsiivujen kanssa.",
         "google_linkki": "https://www.google.com/search?q=piparijauhokastike+kinkku+jouluruoka",
         "lisatieto_linkki": "https://www.google.com/search?q=piparijauhokastike+kinkku+jouluruoka+ohje",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Remontointi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "remontti",
+          "tekeminen"
+        ],
+        "kuvaus": "Salla suosittelee joulun alla kirjojen ja elokuvien sijaan korjaamaan kotona jotain rempallaan olevaa, esimerkiksi kuluneet portaat: rapsutus, hionta ja maalaus palkitsevat heti, kun pinta muuttuu rupuisesta kauniin valkoiseksi.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Älä remontoi joulun alla, lepää",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "lepo",
+          "joulu"
+        ],
+        "kuvaus": "Marko vastaa Sallan portaiden maalausvinkkiin vastasuosituksella: joulun alla ei pidä ryhtyä remontteihin vaan levätä pitkän syksyn jälkeen. Remontit kannattaa suunnitella huolella ja teettää tarvittaessa ammattilaisella.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -21891,6 +22167,24 @@
         "kuvaus": "Sotajournalisti Sebastian Jungerin teos vuodelta 2016, joka käsittelee sodassa koetun yhteisöllisyyden hajoamista kotiinpaluun jälkeen ja sen yhteyttä traumoihin. Yhdistää journalismia ja konfliktiantropologiaa.",
         "google_linkki": "https://www.google.com/search?q=Tribe+On+Homecoming+and+Belonging+Sebastian+Junger",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tribe+On+Homecoming+and+Belonging+Sebastian+Junger",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Aikuisten leikkiklubi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "harrastus",
+          "leikki",
+          "Helsinki"
+        ],
+        "kuvaus": "Pihla vinkkaa aikuisille suunnattua leikkiklubia, jossa leikitään lapsuuden pihaleikkejä, kuten kirkonrottaa. Hän oli itse menossa klubin olympiateemaiseen iltaan.",
+        "google_linkki": "https://www.google.com/search?q=leikkiklubi+aikuisille+Helsinki",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -24262,7 +24556,7 @@
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tommi Nieminen",
         "teos": "Merimelonta",
         "paakategoria": "urheilu",
         "kategoriat": [
@@ -24270,7 +24564,7 @@
           "luonto",
           "vesiliikunta"
         ],
-        "kuvaus": "Tommi Nieminen suosittelee merimelontaa Suomenlahdella – hänen mukaansa sekä hauskaa että koronaturvallista. Helsingissä on useita melontaseuroja, joilta voi vuokrata kajakkeja kohtuuhintaan.",
+        "kuvaus": "Tommi suosittelee merimelontaa koronaturvallisena ja todella hauskana harrastuksena. Helsingissä useat melontaseurat vuokraavat kajakkeja kohtuuhintaan.",
         "google_linkki": "",
         "lisatieto_linkki": "",
         "alkupera": "",
@@ -25567,7 +25861,7 @@
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Tommi Nieminen",
+        "suosittelija": "Marko Junkkari",
         "teos": "City on Fire",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -25575,7 +25869,7 @@
           "mafiatarina",
           "amerikkalainen kirjallisuus"
         ],
-        "kuvaus": "Don Winslown mafiatarina, joka sijoittuu New Yorkiin ja muihin kaupunkeihin. Sukudraama ja rikollistarina, jonka jatko-osa City of Dreams ilmestyy kuun lopussa.",
+        "kuvaus": "Don Winslow'n mafiatarina, sukudraama ja rikoskertomus, joka sijoittuu New Yorkiin ja muihin kaupunkeihin. Marko on kehunut kirjaa aiemminkin, ja sen jatko-osa City of Dreams oli ilmestymässä huhtikuun lopussa.",
         "google_linkki": "https://www.google.com/search?q=City+on+Fire+Don+Winslow",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=City+on+Fire+Don+Winslow",
         "alkupera": "",
@@ -25585,7 +25879,7 @@
       {
         "r_idx": 3,
         "is_suspicious": false,
-        "suosittelija": "Tommi Nieminen",
+        "suosittelija": "Marko Junkkari",
         "teos": "The Power of the Dog",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -25593,7 +25887,7 @@
           "huumesota",
           "amerikkalainen kirjallisuus"
         ],
-        "kuvaus": "Don Winslown neliosaisen kirjasarjan ensimmäinen osa, joka kertoo Amerikan huumesodasta meksikolaisten huumekartellien ja yhdysvaltalaisten viranomaisten näkökulmasta. Sarja sisältää myös osat The Cartel, The Force ja The Border.",
+        "kuvaus": "Don Winslow'n neliosaisen kirjasarjan (The Power of the Dog, The Cartel, The Force, The Border) avausosa Yhdysvaltain viisikymmentä vuotta kestäneestä ja toivottomasta huumesodasta Meksikon kartelleja vastaan. Marko luki sarjan juuri loppuun ja kehuu sitä viihdyttäväksi ja realistiseksi.",
         "google_linkki": "https://www.google.com/search?q=The+Power+of+the+Dog+Don+Winslow",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+of+the+Dog+Don+Winslow",
         "alkupera": "",
@@ -27445,8 +27739,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "is_suspicious": true,
+        "suosittelija": "Satu Vasantola",
         "teos": "Lapsuus / Nuoruus / Aikuisuus (trilogia)",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -27454,7 +27748,7 @@
           "tanskalaisuus",
           "klassikko"
         ],
-        "kuvaus": "Tanskalaisen Tove Ditlevsenin kuuluisa omaelämäkerrallinen trilogia, joka on julkaistu suomeksi. Salla Vuorikoski lukee sitä kolmatta kertaa ja kehuu kirjailijan kykyä kuvata järisyttäviä asioita muutamilla sanoilla.",
+        "kuvaus": "Tanskalaisen Tove Ditlevsenin kuuluisa omaelämäkerrallinen trilogia, joka on julkaistu suomeksi. Satu lukee sitä jo kolmatta kertaa ja kehuu kirjailijan kykyä kuvata järisyttäviä asioita muutamalla sanalla.",
         "google_linkki": "https://www.google.com/search?q=Tove+Ditlevsen+trilogia+suomi",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+trilogia",
         "alkupera": "",
@@ -27740,6 +28034,23 @@
         "kuvaus": "Instagram-tili, jossa esitellään tyylikkäästi eksoottisten ja perinteisten cocktailien valmistusta. Tuomas seuraa tiliä absolutisminsa aikana ja haaveilee kokteilien tekemisestä.",
         "google_linkki": "https://www.google.com/search?q=More+Savory+Goods+Instagram+cocktail",
         "lisatieto_linkki": "https://www.instagram.com/explore/search/keyword/?q=moresavorygoods",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Pieni röyhkeys jalankulkijana suojatiellä",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "liikenne",
+          "arki"
+        ],
+        "kuvaus": "Salla suosittelee aikuisille jalankulkijoille pientä röyhkeyttä: astu harkiten suojatielle, jotta autoilijat oppivat pysähtymään, ja jos auto silti ajaa ohi, näytä mieltäsi italialaisittain käsiä heiluttaen.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -28239,7 +28550,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Teemu Muhonen",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -28247,9 +28558,27 @@
           "historia",
           "elämäkerrat"
         ],
-        "kuvaus": "Walter Isaacsonin tietokirja, joka käy henkilöiden kautta läpi tietotekniikan historian Charles Babbagen difference enginestä nykypäivän iPhoneen. Lähestyttävä, viihdyttävä ja ymmärrystä avaava teos.",
+        "kuvaus": "Tuomas suosittelee Walter Isaacsonin tietokirjaa, joka kertoo tietotekniikan historian henkilöiden kautta Charles Babbagen laskukoneesta nykyiseen iPhoneen. Hänen mukaansa kirja on lähestyttävä, viihdyttävä ja avaa ymmärrystä.",
         "google_linkki": "https://www.google.com/search?q=The+Innovators+Walter+Isaacson",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Innovators+Walter+Isaacson",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Tenet",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "elokuva",
+          "toiminta",
+          "Christopher Nolan"
+        ],
+        "kuvaus": "Marko kävi katsomassa Christopher Nolanin Tenetin Ouluhallin isossa salissa. Hänen mielestään elokuva oli jytisevä, komean näköinen ja tiukka, vaikka juonesta ei ottanut selvää.",
+        "google_linkki": "https://www.google.com/search?q=Tenet+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Tenet",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
