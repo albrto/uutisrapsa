@@ -10578,6 +10578,26 @@
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kymmenen haavaa Amerikan sydämessä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "Yhdysvallat",
+          "politiikka"
+        ],
+        "kuvaus": "Anna-Sofia Bernerin huhtikuussa 2024 ilmestyvä kirja Yhdysvaltojen politiikasta. Marko suosittelee kollegansa kirjaa ennen kuin jää itse kirjoittamaan omaansa.",
+        "google_linkki": "https://www.google.com/search?q=Anna-Sofia+Berner+Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
