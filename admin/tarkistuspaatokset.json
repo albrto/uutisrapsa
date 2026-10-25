@@ -1434,5 +1434,97 @@
     },
     "aika": "2026-10-25T15:46:04",
     "viety": "2026-10-25T15:46:09"
+  },
+  "tag:soundcloud,2010:tracks/1016086960::puuttuu::auringonvalo": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Auringonvalo",
+      "suosittelija": "Annikka Mutanen",
+      "kuvaus": "Tiedetoimittaja Annikka kehottaa nauttimaan kevätauringosta silloin kun sitä on. Auringolla on huonosta maineestaan huolimatta paljon hyviä terveysvaikutuksia, joten varjoon ei kannata jäädä palamisen pelossa.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "terveys",
+        "ulkoilu",
+        "elämäntapa"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T14:55:36",
+    "viety": "2026-10-25T14:55:36"
+  },
+  "tag:soundcloud,2010:tracks/1016086960::puuttuu::vissy ja pihvi -dieetti": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Vissy ja pihvi -dieetti",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko kertoo puolitosissaan aloittaneensa netistä löytämänsä viikon dieetin, jolla juodaan paljon kivennäisvettä ja syödään pihviä. Alku oli kamala, mutta lopulta olo oli yllättävän hyvä.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "dieetti",
+        "elämäntapa",
+        "huumori"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T14:55:36",
+    "viety": "2026-10-25T14:55:36"
+  },
+  "tag:soundcloud,2010:tracks/1846505895::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "Annin vinkki kesälomaa odottavalle: Robin Packalénin varhaiset levyt ja muut teiniajan suosikit toimivat loistavana työmotivaattorina ja saavat ajatukset virtaamaan."
+    },
+    "aika": "2026-10-25T14:55:36",
+    "viety": "2026-10-25T14:55:36"
+  },
+  "tag:soundcloud,2010:tracks/1846505895::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "High School Musical 2:n soundtrack on Annin mukaan oivaa taustamusiikkia töihin, kun kesäloma alkaa jo houkutella. Lapsuuden suosikkimusiikki nostaa mielialaa raskaanakin työpäivänä."
+    },
+    "aika": "2026-10-25T14:55:36",
+    "viety": "2026-10-25T14:55:36"
+  },
+  "tag:soundcloud,2010:tracks/1846505895::puuttuu::politiikan pinnan vangit": {
+    "paatos": "hylatty",
+    "r_idx": null,
+    "data": null,
+    "aika": "2026-10-25T14:55:36"
+  },
+  "0d03b5ac-caa9-4ef9-ad8c-3ea32e4a6087::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Anni Huttunen",
+      "kuvaus": "Filosofinen sci-fi-sarja, jossa työntekijöiden aivot on sirutettu erottamaan työ- ja yksityisminä täysin toisistaan. Toinen kausi syventää kysymyksiä identiteetistä, rakkaudesta ja siitä, missä ihminen alkaa ja päättyy."
+    },
+    "aika": "2026-10-25T14:55:36",
+    "viety": "2026-10-25T14:55:36"
+  },
+  "0d03b5ac-caa9-4ef9-ad8c-3ea32e4a6087::puuttuu::jj: wasted love": {
+    "paatos": "hylatty",
+    "r_idx": null,
+    "data": null,
+    "aika": "2026-10-25T14:55:36"
+  },
+  "tag:soundcloud,2010:tracks/1087927099::teos::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "teos": "The Rolling Stones: A Bigger Bang",
+      "google_linkki": "https://www.google.com/search?q=The+Rolling+Stones+A+Bigger+Bang+Live+on+Copacabana+Beach",
+      "lisatieto_linkki": "https://open.spotify.com/search/A%20Bigger%20Bang%20Live%20on%20Copacabana%20Beach",
+      "kuvaus": "Rolling Stonesin heinäkuussa 2021 julkaistu livealbumi, joka esittelee bändin vuosikymmenten hiomaa soittotaitoa ja yhteissoittoa parhaimmillaan. Emil kuunteli sitä virtuositeetin näkökulmasta."
+    },
+    "aika": "2026-10-25T14:55:36",
+    "viety": "2026-10-25T14:55:36"
   }
 }
