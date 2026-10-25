@@ -1536,5 +1536,25 @@
     },
     "aika": "2026-10-25T14:56:58",
     "viety": "2026-10-25T14:56:58"
+  },
+  "df01fe48-0608-4082-82a2-fc0e764c750b::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Apple TV+:n fantastinen mystinen jännärisarja, jossa työntekijät voivat erottaa työ- ja vapaa-ajan minänsä aivoihin asennettavan laitteen avulla. Tuomas kehui jo ensimmäistä kautta ja pitää toista kautta teknisesti, visuaalisesti ja tarinankerronnallisesti huippuluokkana."
+    },
+    "aika": "2026-10-25T17:36:38",
+    "viety": "2026-10-25T17:36:38"
+  },
+  "df01fe48-0608-4082-82a2-fc0e764c750b::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Markku Salon uutuuskirja, joka käy läpi mustan musiikin historiaa. Tuomas innostui Harri Uusitorpan HS-jutusta, jossa kerrotaan muun muassa Fisk Jubilee Singers -yhtyeen Suomen-kiertueesta vuonna 1895."
+    },
+    "aika": "2026-10-25T17:36:38",
+    "viety": "2026-10-25T17:36:38"
   }
 }

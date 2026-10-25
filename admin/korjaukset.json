@@ -2942,5 +2942,45 @@
         "kyberhyökkäys"
       ]
     }
+  },
+  {
+    "jakso_id": "df01fe48-0608-4082-82a2-fc0e764c750b",
+    "jakso_otsikko": "USA:n vetäytyminen, pelon tunnelmat ja kasvuraportti",
+    "paivamaara": "6.3.2025",
+    "r_idx": 2,
+    "teos": "Severance",
+    "uusi_data": {
+      "teos": "Severance",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Severance+Apple+TV+sarja",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance",
+      "kuvaus": "Apple TV+:n fantastinen mystinen jännärisarja, jossa työntekijät voivat erottaa työ- ja vapaa-ajan minänsä aivoihin asennettavan laitteen avulla. Tuomas kehui jo ensimmäistä kautta ja pitää toista kautta teknisesti, visuaalisesti ja tarinankerronnallisesti huippuluokkana.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "sci-fi",
+        "Apple TV+",
+        "työelämä"
+      ]
+    }
+  },
+  {
+    "jakso_id": "df01fe48-0608-4082-82a2-fc0e764c750b",
+    "jakso_otsikko": "USA:n vetäytyminen, pelon tunnelmat ja kasvuraportti",
+    "paivamaara": "6.3.2025",
+    "r_idx": 3,
+    "teos": "Orjalauluista hiphoppiin – Mustan musiikin sielua etsimässä",
+    "uusi_data": {
+      "teos": "Orjalauluista hiphoppiin – Mustan musiikin sielua etsimässä",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Orjalauluista+hiphoppiin+Markku+Salo",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Orjalauluista+hiphoppiin+Markku+Salo",
+      "kuvaus": "Markku Salon uutuuskirja, joka käy läpi mustan musiikin historiaa. Tuomas innostui Harri Uusitorpan HS-jutusta, jossa kerrotaan muun muassa Fisk Jubilee Singers -yhtyeen Suomen-kiertueesta vuonna 1895.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "musiikkihistoria",
+        "afroamerikkalainen kulttuuri",
+        "tietokirja"
+      ]
+    }
   }
 ]
