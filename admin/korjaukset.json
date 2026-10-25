@@ -3296,5 +3296,93 @@
       "alkupera": "yle"
     },
     "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "76bb2bed-e44a-4e8c-86a1-1e4d15baef71",
+    "jakso_otsikko": "Trumpin hullut tullit, Ottawan sopimuksesta irtoaminen ja vaalikuume",
+    "paivamaara": "3.4.2025",
+    "r_idx": 4,
+    "teos": "Lauantaikerho-podcastin vaalijaksot",
+    "uusi_data": {
+      "teos": "Lauantaikerho-podcastin vaalijaksot",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Lauantaikerho+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Lauantaikerho",
+      "kuvaus": "Sohvi suosittelee vaalitenttien sijaan Lauantaikerho-podcastin jaksoja, jotka keskittyvät syvällisesti vaalien aihepiireihin. Hän aikoo kuunnella ne läpi ennen äänestämistä.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "vaalit",
+        "politiikka"
+      ],
+      "alkupera": "hs"
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1108767634",
+    "jakso_otsikko": "19.8.2021: Afganistan, perussuomalaisten puoluekokous",
+    "paivamaara": "19.8.2021",
+    "r_idx": 1,
+    "teos": "Tuijotustekniikka ajatusten tyhjentämiseen",
+    "uusi_data": {
+      "teos": "Tuijotustekniikka ajatusten tyhjentämiseen",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Maria luki MTV3:n uutisesta niksin: kun tuijottaa yhtä pistettä silmiä liikuttamatta, häiritsevät ajatukset katoavat mielestä. Hänen mukaansa se toimii yllättävän hyvin, vaikka Marko ei usko siihen.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "mieli",
+        "rentoutuminen",
+        "elämänvinkki"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "2fca672e-9a55-41d1-94d8-e8a523c522d8",
+    "jakso_otsikko": "Kehysriihi oli melankolinen startti vaaleihin",
+    "paivamaara": "23.4.2026",
+    "r_idx": 3,
+    "teos": "Istumapaikan tarjoaminen raskaana oleville julkisissa liikennevälineissä",
+    "uusi_data": {
+      "teos": "Istumapaikan tarjoaminen raskaana oleville julkisissa liikennevälineissä",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Sohvi kehottaa nousemaan ja tarjoamaan paikkaa raskaana oleville ja huonojalkaisille ratikoissa ja junissa. Hän ehdottaa HSL:lle Lontoon mallin mukaisia Baby on board -merkkejä, jotta kenenkään ei tarvitse arvailla.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "joukkoliikenne",
+        "käytöstavat",
+        "elämänvinkki"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1632294387",
+    "jakso_otsikko": "4.10.2023: Här kommer dödspatrullet!, sote-räjähdys, Täydellinen pako",
+    "paivamaara": "4.10.2023",
+    "r_idx": 0,
+    "teos": "Rikollisryhmä, joka näyttää meiltä",
+    "uusi_data": {
+      "teos": "Rikollisryhmä, joka näyttää meiltä",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Jekaterina+Mantsinen+Suomen+Lehdist%C3%B6+kolumni",
+      "lisatieto_linkki": "",
+      "kuvaus": "Suomen Lehdistö -ammattijulkaisun kolumni, jossa Jekaterina Mantsinen perustelee, miten huumeiden bilekäyttö ruokkii rikollisjengejä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kategoriat": [
+        "kolumni",
+        "huumeet",
+        "rikollisuus"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

@@ -1754,5 +1754,81 @@
     },
     "aika": "2026-10-25T18:46:06",
     "viety": "2026-10-25T18:46:06"
+  },
+  "76bb2bed-e44a-4e8c-86a1-1e4d15baef71::puuttuu::lauantaikerho-podcastin vaalijaksot": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Lauantaikerho-podcastin vaalijaksot",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Sohvi suosittelee vaalitenttien sijaan Lauantaikerho-podcastin jaksoja, jotka keskittyvät syvällisesti vaalien aihepiireihin. Hän aikoo kuunnella ne läpi ennen äänestämistä.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "vaalit",
+        "politiikka"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Lauantaikerho+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Lauantaikerho",
+      "alkupera": "hs"
+    },
+    "aika": "2026-10-25T18:54:18",
+    "viety": "2026-10-25T18:54:18"
+  },
+  "tag:soundcloud,2010:tracks/1108767634::puuttuu::tuijotustekniikka ajatusten tyhjentämiseen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Tuijotustekniikka ajatusten tyhjentämiseen",
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Maria luki MTV3:n uutisesta niksin: kun tuijottaa yhtä pistettä silmiä liikuttamatta, häiritsevät ajatukset katoavat mielestä. Hänen mukaansa se toimii yllättävän hyvin, vaikka Marko ei usko siihen.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "mieli",
+        "rentoutuminen",
+        "elämänvinkki"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T18:54:18",
+    "viety": "2026-10-25T18:54:18"
+  },
+  "2fca672e-9a55-41d1-94d8-e8a523c522d8::puuttuu::istumapaikan tarjoaminen raskaana oleville julkisissa liikennevälineissä": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Istumapaikan tarjoaminen raskaana oleville julkisissa liikennevälineissä",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Sohvi kehottaa nousemaan ja tarjoamaan paikkaa raskaana oleville ja huonojalkaisille ratikoissa ja junissa. Hän ehdottaa HSL:lle Lontoon mallin mukaisia Baby on board -merkkejä, jotta kenenkään ei tarvitse arvailla.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "joukkoliikenne",
+        "käytöstavat",
+        "elämänvinkki"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T18:54:18",
+    "viety": "2026-10-25T18:54:18"
+  },
+  "tag:soundcloud,2010:tracks/1632294387::puuttuu::jekaterina mantsisen kolumni (suomen lehdistö)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Rikollisryhmä, joka näyttää meiltä",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "Suomen Lehdistö -ammattijulkaisun kolumni, jossa Jekaterina Mantsinen perustelee, miten huumeiden bilekäyttö ruokkii rikollisjengejä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "kolumni",
+        "huumeet",
+        "rikollisuus"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Jekaterina+Mantsinen+Suomen+Lehdist%C3%B6+kolumni",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-25T18:54:18",
+    "viety": "2026-10-25T18:54:18"
   }
 }
