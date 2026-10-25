@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Analytiikka · Uutisrapsa</title>
+  <meta name="robots" content="noindex" />
+  <link rel="icon" href="/favicon.ico" sizes="48x48" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..500&display=swap" rel="stylesheet" />
+  <!-- Teema: sama tallennettu valinta kuin julkisella sivulla; ennen tyylejä, ettei välähdä -->
+  <script>
+    try {
+      var t = localStorage.getItem('teema');
+      if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
+  <style>
+    /* Muotokirja-ilme (sama kuin julkisen sivun style.css): yksivärinen, Geist,
+       pehmeät pinnat, minttu ainoana korostusvärinä. Arvot ovat kahdesti vaalealle
+       teemalle, koska media query ja attribuuttivalitsin eivät yhdisty. */
+    :root {
+      --bg-sivu: #111111;
+      --bg-kortti: #171717;
+      --bg-tagi: rgba(204, 204, 204, 0.07);
+      --reuna: rgba(204, 204, 204, 0.12);
+      --reuna-vahva: rgba(204, 204, 204, 0.3);
+      --teksti-ensisijainen: #cccccc;
+      --teksti-toissijainen: #a3a3a3;
+      --teksti-himmea: #858585;
+      --teksti-vahva: #ededed;
+      --segmentti-nosto: #2c2c2c;
+      --vari: #3bdaa5;
+      --vari-teksti: #3bdaa5;
+      --vari-tausta: rgba(59, 218, 165, 0.16);
+      --vari-paalla: #111111;
+      --palkki: oklch(0.64 0.13 165);
+      --virhe: #ff8a8a;
+      --vihje-tausta: #ededed;
+      --vihje-teksti: #111111;
+      color-scheme: dark;
+
+      --fontti: 'Geist', -apple-system, BlinkMacSystemFont, sans-serif;
+      --fontti-koodi: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+      --radius-sm: 10px;
+      --radius-md: 20px;
+      --radius-lg: 24px;
+      --radius-pill: 100px;
+      --sivun-leveys: 1280px;
+      --transition: 0.2s ease;
+    }
+
+    @media (prefers-color-scheme: light) {
+      :root:not([data-theme="dark"]) {
+        --bg-sivu: #f5f5f0;
+        --bg-kortti: #ecece6;
+        --bg-tagi: rgba(34, 34, 34, 0.05);
+        --reuna: rgba(34, 34, 34, 0.1);
+        --reuna-vahva: rgba(34, 34, 34, 0.28);
+        --teksti-ensisijainen: #222222;
+        --teksti-toissijainen: #4f4f4a;
+        --teksti-himmea: #696964;
+        --teksti-vahva: #111111;
+        --segmentti-nosto: #ffffff;
+        --vari: #0a7d58;
+        --vari-teksti: #086a4b;
+        --vari-tausta: rgba(10, 125, 88, 0.14);
+        --vari-paalla: #ffffff;
+        --palkki: oklch(0.6 0.13 165);
+        --virhe: #c62828;
+        --vihje-tausta: #222222;
+        --vihje-teksti: #f5f5f0;
+        color-scheme: light;
+      }
+    }
+
+    :root[data-theme="light"] {
+      --bg-sivu: #f5f5f0;
+      --bg-kortti: #ecece6;
+      --bg-tagi: rgba(34, 34, 34, 0.05);
+      --reuna: rgba(34, 34, 34, 0.1);
+      --reuna-vahva: rgba(34, 34, 34, 0.28);
+      --teksti-ensisijainen: #222222;
+      --teksti-toissijainen: #4f4f4a;
+      --teksti-himmea: #696964;
+      --teksti-vahva: #111111;
+      --segmentti-nosto: #ffffff;
+      --vari: #0a7d58;
+      --vari-teksti: #086a4b;
+      --vari-tausta: rgba(10, 125, 88, 0.14);
+      --vari-paalla: #ffffff;
+      --palkki: oklch(0.6 0.13 165);
+      --virhe: #c62828;
+      --vihje-tausta: #222222;
+      --vihje-teksti: #f5f5f0;
+      color-scheme: light;
+    }
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    [hidden] { display: none !important; }
+
+    body {
+      font-family: var(--fontti);
+      background: var(--bg-sivu);
+      color: var(--teksti-ensisijainen);
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    ::selection { background: var(--vari); color: var(--vari-paalla); }
+    :focus-visible { outline: 2px solid var(--vari); outline-offset: 2px; }
+    a { color: inherit; }
+    button { font: inherit; color: inherit; }
+    .ikoni { width: 16px; height: 16px; flex-shrink: 0; display: block; }
+
+    .rajaus {
+      max-width: var(--sivun-leveys);
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* === Yläpalkki === */
+    .ylapalkki { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg-sivu) 94%, transparent); backdrop-filter: blur(8px); }
+    .ylapalkki-sisa {
+      display: flex; align-items: center; gap: 16px;
+      height: 64px;
+      background: linear-gradient(var(--reuna), var(--reuna)) bottom / calc(100% - 48px) 1px no-repeat;
+    }
+    .sanamerkki { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-weight: 600; font-size: 17px; letter-spacing: -0.03em; color: var(--teksti-vahva); }
+    .sanamerkki svg { width: 20px; height: 20px; fill: var(--vari); }
+    .sanamerkki-osa { color: var(--teksti-himmea); font-weight: 500; }
+    .ylapalkki-nav { margin-left: auto; display: flex; align-items: center; gap: 4px; }
+    .nav-linkki {
+      display: inline-flex; align-items: center; gap: 6px;
+      height: 36px; padding: 0 12px;
+      border-radius: var(--radius-pill);
+      font-size: 14px; font-weight: 500;
+      color: var(--teksti-toissijainen);
+      text-decoration: none;
+      background: none; border: none; cursor: pointer;
+      transition: color var(--transition), background-color var(--transition);
+    }
+    .nav-linkki:hover { color: var(--vari-teksti); background: var(--bg-tagi); }
+    .teemanappi { width: 36px; padding: 0; justify-content: center; }
+    .teemanappi svg { width: 18px; height: 18px; transition: transform 0.4s ease; }
+    :root[data-theme="light"] .teemanappi svg { transform: rotate(180deg); }
+    @media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) .teemanappi svg { transform: rotate(180deg); } }
+
+    /* === Otsikko + aikavälin valinta === */
+    .sivuotsake { padding-top: 48px; display: flex; flex-wrap: wrap; align-items: flex-end; gap: 20px 32px; }
+    .sivuotsake-teksti { flex: 1 1 360px; min-width: 0; }
+    h1 { font-size: clamp(40px, 6vw, 64px); font-weight: 600; letter-spacing: -0.045em; line-height: 1.02; color: var(--teksti-vahva); }
+    .ingressi { margin-top: 10px; font-size: 15px; color: var(--teksti-toissijainen); max-width: 62ch; }
+    .ingressi .mono { font-family: var(--fontti-koodi); font-size: 13px; }
+
+    .segmentti { display: inline-flex; gap: 2px; padding: 4px; border-radius: var(--radius-pill); background: var(--bg-tagi); }
+    .segmentti > button {
+      height: 32px; padding: 0 14px;
+      border: none; border-radius: var(--radius-pill);
+      background: transparent; color: var(--teksti-himmea);
+      font-size: 13px; font-weight: 500; white-space: nowrap; cursor: pointer;
+      transition: background-color var(--transition), color var(--transition);
+    }
+    .segmentti > button:hover { color: var(--teksti-ensisijainen); }
+    .segmentti > [aria-pressed="true"] { background: var(--segmentti-nosto); color: var(--teksti-vahva); }
+    .segmentti > button:active { transform: scale(0.96); }
+
+    /* === Luvut === */
+    .luvut { margin-top: 40px; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+    .luku { background: var(--bg-kortti); border-radius: var(--radius-md); padding: 22px 24px 20px; min-width: 0; }
+    .luku-nimi { font-size: 13px; color: var(--teksti-toissijainen); }
+    .luku-arvo { margin-top: 8px; font-size: clamp(30px, 3.6vw, 44px); font-weight: 600; letter-spacing: -0.045em; line-height: 1; color: var(--teksti-vahva); font-variant-numeric: tabular-nums; }
+    .luku-ala { margin-top: 10px; font-family: var(--fontti-koodi); font-size: 12px; color: var(--teksti-himmea); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .muutos { display: inline-flex; align-items: center; gap: 4px; padding: 2px 8px; border-radius: var(--radius-pill); background: var(--bg-tagi); color: var(--teksti-ensisijainen); }
+    .muutos.nousu { background: var(--vari-tausta); color: var(--vari-teksti); }
+
+    /* === Paneelit === */
+    .paneeli { background: var(--bg-kortti); border-radius: var(--radius-lg); padding: 32px 36px; min-width: 0; }
+    .paneeli + .paneeli, .ruudukko { margin-top: 12px; }
+    .paneeli-otsikko { font-size: 22px; font-weight: 600; letter-spacing: -0.035em; line-height: 1.2; color: var(--teksti-vahva); }
+    .paneeli-kuvaus { margin-top: 4px; font-size: 14px; color: var(--teksti-toissijainen); max-width: 64ch; }
+    .ruudukko { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+    .ruudukko > .paneeli + .paneeli { margin-top: 0; }
+    main { padding-bottom: 96px; }
+    main > .paneeli:first-of-type { margin-top: 12px; }
+
+    /* === Päiväkaavio (HTML-palkit: skaalautuu leveyteen ilman SVG-venytystä) === */
+    .kaavio { position: relative; margin-top: 28px; display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: 12px; }
+    .kaavio-y { position: relative; height: 240px; font-family: var(--fontti-koodi); font-size: 11px; color: var(--teksti-himmea); text-align: right; min-width: 2.5em; }
+    .kaavio-y span { position: absolute; right: 0; transform: translateY(50%); }
+    .kaavio-ala { position: relative; height: 240px; }
+    .kaavio-viiva { position: absolute; left: 0; right: 0; height: 1px; background: var(--reuna); }
+    .kaavio-viiva.pohja { background: var(--reuna-vahva); }
+    .kaavio-palkit { position: absolute; inset: 0; display: flex; align-items: flex-end; gap: 2px; }
+    .kaavio-palkit.tiheä { gap: 1px; }
+    .palkki { flex: 1 1 0; min-width: 0; height: 100%; display: flex; align-items: flex-end; cursor: default; }
+    .palkki i { display: block; width: 100%; min-height: 1px; background: var(--palkki); border-radius: 4px 4px 0 0; transition: background-color 0.12s; }
+    .kaavio-palkit.tiheä .palkki i { border-radius: 2px 2px 0 0; }
+    .palkki.vkl i { opacity: 0.72; }
+    .palkki:hover i, .palkki.aktiivinen i { background: var(--vari); opacity: 1; }
+    .kaavio-x { grid-column: 2; display: flex; justify-content: space-between; margin-top: 8px; font-family: var(--fontti-koodi); font-size: 11px; color: var(--teksti-himmea); }
+
+    .vihje {
+      position: fixed; z-index: 50; pointer-events: none;
+      padding: 8px 12px; border-radius: var(--radius-sm);
+      background: var(--vihje-tausta); color: var(--vihje-teksti);
+      font-size: 13px; line-height: 1.35; white-space: nowrap;
+      transform: translate(-50%, calc(-100% - 10px));
+    }
+    .vihje b { font-weight: 600; font-variant-numeric: tabular-nums; }
+    .vihje small { display: block; font-family: var(--fontti-koodi); font-size: 11px; opacity: 0.75; }
+
+    /* === Viikonpäivät + tunnit === */
+    .viikko { margin-top: 24px; display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 8px; align-items: end; height: 150px; }
+    .vp { height: 100%; display: flex; flex-direction: column; justify-content: flex-end; align-items: stretch; gap: 6px; }
+    .vp i { display: block; background: var(--palkki); border-radius: 4px 4px 0 0; min-height: 2px; }
+    .vp:hover i { background: var(--vari); }
+    .vp span { font-family: var(--fontti-koodi); font-size: 11px; color: var(--teksti-himmea); text-align: center; }
+    .lampo { margin-top: 24px; display: grid; grid-template-columns: 2.2em repeat(24, minmax(0, 1fr)); gap: 2px; font-family: var(--fontti-koodi); font-size: 10px; color: var(--teksti-himmea); }
+    .lampo b { font-weight: 400; align-self: center; }
+    .lampo i { aspect-ratio: 1; border-radius: 3px; background: color-mix(in oklab, var(--vari) calc(var(--t) * 100%), var(--bg-tagi)); }
+    .lampo .tunti { text-align: center; }
+
+    /* === Listat === */
+    .lista { list-style: none; margin-top: 18px; }
+    .rivi { border-top: 1px solid var(--reuna); }
+    .rivi:first-child { border-top: none; }
+    .rivi-sisa {
+      display: grid; grid-template-columns: minmax(0, 1fr) minmax(48px, 30%) 4.2em; align-items: center; column-gap: 16px;
+      width: 100%; min-height: 56px; padding: 10px 0;
+      background: none; border: none; text-align: left;
+    }
+    button.rivi-sisa { cursor: pointer; }
+    button.rivi-sisa:hover .rivi-nimi { color: var(--vari-teksti); }
+    .rivi-nimi { display: block; font-size: 15px; font-weight: 500; letter-spacing: -0.01em; line-height: 1.35; color: var(--teksti-ensisijainen); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: color var(--transition); }
+    .rivi-meta { display: block; margin-top: 2px; font-family: var(--fontti-koodi); font-size: 11.5px; color: var(--teksti-himmea); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .rivi-palkki { display: block; height: 6px; border-radius: 3px; background: var(--bg-tagi); overflow: hidden; }
+    .rivi-palkki i { display: block; height: 100%; border-radius: 3px; background: var(--palkki); }
+    button.rivi-sisa:hover .rivi-palkki i { background: var(--vari); }
+    .rivi-maara { text-align: right; font-family: var(--fontti-koodi); font-size: 14px; color: var(--teksti-vahva); font-variant-numeric: tabular-nums; }
+    .rivi-maara small { display: block; font-size: 11px; color: var(--teksti-himmea); }
+    .rivi-ulos { display: inline-block; margin-left: 6px; color: var(--teksti-himmea); text-decoration: none; font-size: 13px; }
+    .rivi-ulos:hover { color: var(--vari-teksti); }
+    .rivi-auki .rivi-nimi { color: var(--vari-teksti); }
+    .alalista { margin: 0 0 14px; padding: 12px 16px; border-radius: var(--radius-sm); background: var(--bg-tagi); font-size: 13px; }
+    .alalista-otsikko { font-family: var(--fontti-koodi); font-size: 11px; color: var(--teksti-himmea); margin-bottom: 6px; }
+    .alalista ol { list-style: none; }
+    .alalista li { display: flex; justify-content: space-between; gap: 16px; padding: 3px 0; }
+    .alalista li span:first-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .alalista li span:last-child { font-family: var(--fontti-koodi); font-variant-numeric: tabular-nums; color: var(--teksti-vahva); }
+
+    .lisaa {
+      margin-top: 14px; height: 34px; padding: 0 16px;
+      border: none; border-radius: var(--radius-pill); background: var(--bg-tagi);
+      color: var(--teksti-ensisijainen); font-size: 13px; font-weight: 500; cursor: pointer;
+    }
+    .lisaa:hover { color: var(--vari-teksti); }
+    .tyhja { margin-top: 18px; font-size: 14px; color: var(--teksti-himmea); }
+
+    /* === Tilat: lataus, kirjautuminen, virhe === */
+    .tila { margin-top: 40px; max-width: 560px; }
+    .tila .paneeli-kuvaus { margin-top: 8px; }
+    .tila ol { margin: 14px 0 0 20px; font-size: 14px; color: var(--teksti-toissijainen); }
+    .tila li + li { margin-top: 6px; }
+    .tila code { font-family: var(--fontti-koodi); font-size: 12.5px; padding: 1px 6px; border-radius: 6px; background: var(--bg-tagi); color: var(--teksti-vahva); }
+    .kentta-rivi { margin-top: 20px; display: flex; gap: 8px; }
+    .kentta {
+      flex: 1; min-width: 0; height: 44px; padding: 0 18px;
+      border: 1px solid var(--reuna-vahva); border-radius: var(--radius-pill);
+      background: transparent; color: var(--teksti-vahva); font: inherit; font-size: 15px; outline: none;
+    }
+    .kentta:focus { border-color: var(--vari); }
+    .nappi {
+      height: 44px; padding: 0 22px; border: none; border-radius: var(--radius-pill);
+      background: var(--vari); color: var(--vari-paalla); font-weight: 600; font-size: 14px; cursor: pointer;
+    }
+    .nappi:active { transform: scale(0.96); }
+    .virheteksti { margin-top: 10px; font-size: 13px; color: var(--virhe); }
+    .esimerkki { display: inline-flex; margin-left: 8px; padding: 2px 10px; border-radius: var(--radius-pill); background: var(--vari-tausta); color: var(--vari-teksti); font-size: 12px; font-weight: 600; vertical-align: middle; letter-spacing: 0; }
+
+    .lataus .luku-arvo, .lataus .rivi-nimi { color: transparent; background: var(--bg-tagi); border-radius: 8px; }
+    .lataa-palkki { height: 2px; margin-top: 40px; border-radius: 1px; background: linear-gradient(90deg, transparent, var(--vari), transparent) 0 0 / 40% 100% no-repeat, var(--bg-tagi); animation: lataa 1.2s linear infinite; }
+    @keyframes lataa { from { background-position: -40% 0, 0 0; } to { background-position: 140% 0, 0 0; } }
+    @media (prefers-reduced-motion: reduce) { .lataa-palkki { animation: none; } }
+
+    .alaviite { margin-top: 28px; font-family: var(--fontti-koodi); font-size: 11.5px; color: var(--teksti-himmea); }
+
+    @media (max-width: 1023px) {
+      .luvut { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 760px) {
+      .ruudukko { grid-template-columns: minmax(0, 1fr); }
+    }
+    @media (max-width: 640px) {
+      .rajaus { padding: 0 16px; }
+      .ylapalkki-sisa { background-size: calc(100% - 32px) 1px; }
+      .nav-teksti { display: none; }
+      .sanamerkki { white-space: nowrap; }
+      .luku-ala { white-space: normal; line-height: 1.6; }
+      .sivuotsake { padding-top: 32px; }
+      .segmentti { width: 100%; }
+      .segmentti > button { flex: 1; padding: 0 6px; }
+      .luvut { margin-top: 28px; gap: 8px; }
+      .luku { padding: 18px 18px 16px; border-radius: var(--radius-sm); }
+      .paneeli { padding: 24px 20px; border-radius: var(--radius-md); }
+      .kaavio-y, .kaavio-ala { height: 180px; }
+      .rivi-sisa { grid-template-columns: minmax(0, 1fr) 3.8em; }
+      .rivi-palkki { grid-column: 1 / -1; grid-row: 2; margin-top: 6px; }
+      .lampo { font-size: 9px; gap: 1px; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="ylapalkki">
+  <div class="rajaus ylapalkki-sisa">
+    <a href="/admin/" class="sanamerkki" aria-label="Ylläpitoon">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><rect x="1" y="7" width="2.6" height="6" rx="1.3"/><rect x="5.6" y="3" width="2.6" height="14" rx="1.3"/><rect x="10.2" y="5.5" width="2.6" height="9" rx="1.3"/><rect x="14.8" y="8" width="2.6" height="4" rx="1.3"/></svg>
+      <span>uutisrapsa <span class="sanamerkki-osa">/ analytiikka</span></span>
+    </a>
+    <nav class="ylapalkki-nav">
+      <a class="nav-linkki" href="/admin/" title="Ylläpito">
+        <svg class="ikoni" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+        <span class="nav-teksti">Ylläpito</span>
+      </a>
+      <a class="nav-linkki" href="https://uutisrapsa.goatcounter.com" target="_blank" rel="noopener" title="Avaa GoatCounter">
+        <svg class="ikoni" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
+        <span class="nav-teksti">GoatCounter</span>
+      </a>
+      <button type="button" class="nav-linkki teemanappi" id="teemanappi" aria-label="Vaihda teemaa" title="Vaihda vaalean ja tumman teeman välillä">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<main class="rajaus">
+  <section class="sivuotsake">
+    <div class="sivuotsake-teksti">
+      <h1>Kuka kuuntelee?<span class="esimerkki" id="esimerkkimerkki" hidden>Esimerkkidata</span></h1>
+      <p class="ingressi" id="ingressi">Kävijät, luetuimmat suositukset ja mistä sivulle tullaan.</p>
+    </div>
+    <div class="segmentti" id="jakso" role="group" aria-label="Aikaväli">
+      <button type="button" data-paivia="7">7 pv</button>
+      <button type="button" data-paivia="30">30 pv</button>
+      <button type="button" data-paivia="90">90 pv</button>
+      <button type="button" data-paivia="365">12 kk</button>
+    </div>
+  </section>
+
+  <!-- Kirjautuminen: sama salasana kuin ylläpidossa (localStorage validaattori_token) -->
+  <section class="tila" id="kirjautuminen" hidden>
+    <h2 class="paneeli-otsikko">Kirjaudu sisään</h2>
+    <p class="paneeli-kuvaus">Sama salasana kuin ylläpidossa.</p>
+    <form class="kentta-rivi" id="kirjautumislomake">
+      <input class="kentta" type="password" id="salasana" placeholder="Salasana" autocomplete="current-password" aria-label="Salasana" />
+      <button class="nappi" type="submit">Kirjaudu</button>
+    </form>
+    <p class="virheteksti" id="kirjautumisvirhe" hidden>Väärä salasana.</p>
+  </section>
+
+  <section class="tila" id="avainPuuttuu" hidden>
+    <h2 class="paneeli-otsikko">Vielä yksi asetus</h2>
+    <p class="paneeli-kuvaus">Sivu hakee luvut GoatCounterista, mutta Netlifystä puuttuu GoatCounterin API-avain.</p>
+    <ol>
+      <li>GoatCounterissa: <b>Settings → API → New API key</b>. Anna nimeksi esim. <i>uutisrapsa-admin</i> ja ruksaa vain <b>Read statistics</b>.</li>
+      <li>Netlifyssä: <b>Site configuration → Environment variables → Add a variable</b>, nimi <code>GOATCOUNTER_TOKEN</code>, arvoksi avain.</li>
+      <li>Julkaise sivusto uudelleen (Deploys → Trigger deploy), jotta funktio näkee avaimen.</li>
+    </ol>
+    <p class="paneeli-kuvaus" style="margin-top:14px"><a href="?demo=1">Katso millainen näkymä on esimerkkidatalla →</a></p>
+  </section>
+
+  <section class="tila" id="virhe" hidden>
+    <h2 class="paneeli-otsikko">Tilastojen haku epäonnistui</h2>
+    <p class="paneeli-kuvaus" id="virheteksti"></p>
+    <button class="lisaa" type="button" id="yritaUudelleen">Yritä uudelleen</button>
+  </section>
+
+  <div class="lataa-palkki" id="lataus" hidden></div>
+
+  <div id="sisalto" hidden>
+    <section class="luvut">
+      <div class="luku"><div class="luku-nimi">Kävijät</div><div class="luku-arvo" id="lukuKavijat">–</div><div class="luku-ala" id="lukuKavijatAla">&nbsp;</div></div>
+      <div class="luku"><div class="luku-nimi">Päivässä keskimäärin</div><div class="luku-arvo" id="lukuPaiva">–</div><div class="luku-ala" id="lukuPaivaAla">&nbsp;</div></div>
+      <div class="luku"><div class="luku-nimi">Avattuja suosituksia</div><div class="luku-arvo" id="lukuSuositukset">–</div><div class="luku-ala" id="lukuSuosituksetAla">&nbsp;</div></div>
+      <div class="luku"><div class="luku-nimi">Vilkkain päivä</div><div class="luku-arvo" id="lukuHuippu">–</div><div class="luku-ala" id="lukuHuippuAla">&nbsp;</div></div>
+    </section>
+
+    <section class="paneeli">
+      <h2 class="paneeli-otsikko" id="kaavioOtsikko">Kävijät päivittäin</h2>
+      <p class="paneeli-kuvaus" id="kaavioKuvaus">Torstain uusi jakso näkyy yleensä piikkinä.</p>
+      <div class="kaavio" id="kaavio"></div>
+    </section>
+
+    <div class="ruudukko">
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Mitä katsotaan</h2>
+        <p class="paneeli-kuvaus">Kävijät näkymittäin.</p>
+        <ol class="lista" id="listaNakymat"></ol>
+      </section>
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Milloin käydään</h2>
+        <p class="paneeli-kuvaus" id="viikkoKuvaus">Kävijät viikonpäivittäin.</p>
+        <div class="viikko" id="viikko"></div>
+        <div class="lampo" id="lampo" hidden></div>
+      </section>
+    </div>
+
+    <section class="paneeli">
+      <h2 class="paneeli-otsikko">Avatuimmat suositukset</h2>
+      <p class="paneeli-kuvaus">Suosituksen oma näkymä avattu (kortin klikkaus tai jaettu linkki). Napauta riviä nähdäksesi, mistä sinne tultiin.</p>
+      <ol class="lista" id="listaSuositukset"></ol>
+    </section>
+
+    <div class="ruudukko">
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Mistä tullaan</h2>
+        <p class="paneeli-kuvaus">Viittaavat sivustot. Napauta lähdettä nähdäksesi, mille sivuille sieltä tultiin.</p>
+        <ol class="lista" id="listaLahteet"></ol>
+      </section>
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Suosittelijasivut</h2>
+        <p class="paneeli-kuvaus">Kenen profiilia katsotaan.</p>
+        <ol class="lista" id="listaSuosittelijat"></ol>
+      </section>
+    </div>
+
+    <div class="ruudukko">
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Laitteet</h2>
+        <p class="paneeli-kuvaus">Näytön koon mukaan.</p>
+        <ol class="lista" id="listaKoot"></ol>
+      </section>
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Maat</h2>
+        <p class="paneeli-kuvaus">Sijainti IP-osoitteen perusteella.</p>
+        <ol class="lista" id="listaMaat"></ol>
+      </section>
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Selaimet</h2>
+        <ol class="lista" id="listaSelaimet"></ol>
+      </section>
+      <section class="paneeli">
+        <h2 class="paneeli-otsikko">Käyttöjärjestelmät</h2>
+        <ol class="lista" id="listaJarjestelmat"></ol>
+      </section>
+    </div>
+
+    <section class="paneeli">
+      <h2 class="paneeli-otsikko">Kaikki sivut</h2>
+      <p class="paneeli-kuvaus">Jokainen osoite erikseen, sellaisenaan.</p>
+      <ol class="lista" id="listaSivut"></ol>
+    </section>
+
+    <p class="alaviite" id="alaviite"></p>
+  </div>
+</main>
+
+<div class="vihje" id="vihje" hidden></div>
+
+<script>
+'use strict';
+
+// ---------- Teema (sama logiikka ja localStorage-avain kuin julkisella sivulla) ----------
+document.getElementById('teemanappi').addEventListener('click', () => {
+  const laiteVaalea = matchMedia('(prefers-color-scheme: light)').matches;
+  const nyt = document.documentElement.dataset.theme || (laiteVaalea ? 'light' : 'dark');
+  const uusi = nyt === 'light' ? 'dark' : 'light';
+  document.documentElement.dataset.theme = uusi;
+  try {
+    if ((uusi === 'light') === laiteVaalea) localStorage.removeItem('teema');
+    else localStorage.setItem('teema', uusi);
+  } catch (e) {}
+});
+
+// ---------- Apurit ----------
+const $ = id => document.getElementById(id);
+const DEMO = new URLSearchParams(location.search).has('demo');
+const lukuMuoto = new Intl.NumberFormat('fi-FI');
+const luku = n => lukuMuoto.format(Math.round(n || 0));
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const VIIKONPAIVAT = ['ma', 'ti', 'ke', 'to', 'pe', 'la', 'su'];
+const VIIKONPAIVAT_PITKA = ['maanantai', 'tiistai', 'keskiviikko', 'torstai', 'perjantai', 'lauantai', 'sunnuntai'];
+
+function lueAvain(avain, oletus) { try { return localStorage.getItem(avain) ?? oletus; } catch (e) { return oletus; } }
+function kirjoitaAvain(avain, arvo) { try { localStorage.setItem(avain, arvo); } catch (e) {} }
+
+// Paikallinen aika RFC3339-muotoon tasatunnein (GoatCounter vaatii), oikealla
+// aikavyöhykepoikkeamalla – kesä- ja talviaika vaihtelevat päivän mukaan.
+function rfc(d) {
+  const p = n => String(n).padStart(2, '0');
+  const o = -d.getTimezoneOffset();
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}T${p(d.getHours())}:00:00${o >= 0 ? '+' : '-'}${p(Math.floor(Math.abs(o) / 60))}:${p(Math.abs(o) % 60)}`;
+}
+function aikavali(paivia) {
+  const nyt = new Date();
+  const alku = new Date(nyt.getFullYear(), nyt.getMonth(), nyt.getDate() - (paivia - 1));
+  const loppu = new Date(nyt.getFullYear(), nyt.getMonth(), nyt.getDate(), 23);
+  const edAlku = new Date(alku.getFullYear(), alku.getMonth(), alku.getDate() - paivia);
+  const edLoppu = new Date(alku.getFullYear(), alku.getMonth(), alku.getDate() - 1, 23);
+  return { alku: rfc(alku), loppu: rfc(loppu), edAlku: rfc(edAlku), edLoppu: rfc(edLoppu) };
+}
+function pvmTeksti(iso, vuosi) {
+  const [v, k, p] = iso.split('-').map(Number);
+  return vuosi ? `${p}.${k}.${v}` : `${p}.${k}.`;
+}
+function viikonpaiva(iso) { return (new Date(iso + 'T12:00:00Z').getUTCDay() + 6) % 7; }
+
+// ---------- Suositusten nimet (sama tunniste() ja slugiksi() kuin app.js:ssä) ----------
+function slugiksi(teksti) {
+  return String(teksti || '').toLowerCase()
+    .replace(/[äå]/g, 'a').replace(/ö/g, 'o')
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+    .slice(0, 60).replace(/-+$/, '');
+}
+function tunniste(teksti) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < teksti.length; i++) {
+    h ^= teksti.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return (h >>> 0).toString(36).padStart(7, '0');
+}
+
+let SUOSITUKSET = null; // id → { teos, suosittelija, pvm }
+let SUOSITTELIJAT = null; // slug → nimi
+async function lataaSuositukset() {
+  if (SUOSITUKSET) return;
+  SUOSITUKSET = new Map();
+  SUOSITTELIJAT = new Map();
+  try {
+    const jaksot = await (await fetch('/suositukset.json')).json();
+    for (const jakso of jaksot) {
+      (jakso.suositukset || []).forEach((rec, r_idx) => {
+        SUOSITUKSET.set(tunniste(`${jakso.id}:${r_idx}`), { teos: rec.teos, suosittelija: rec.suosittelija, pvm: jakso.paivamaara });
+        if (rec.suosittelija && rec.suosittelija !== 'tuntematon') SUOSITTELIJAT.set(slugiksi(rec.suosittelija), rec.suosittelija);
+      });
+    }
+  } catch (e) { /* nimet puuttuvat → näytetään osoitteet */ }
+}
+
+// Osoite → näkymä. GoatCounter voi tallentaa osoitteen kyselyosineen; ne ohitetaan.
+function nakyma(polku) {
+  const p = polku.split('?')[0].replace(/\/+$/, '') || '/';
+  if (p === '/' || p === '/index.html') return 'Etusivu';
+  if (p.startsWith('/suositus/')) return 'Suositukset';
+  if (p.startsWith('/suosittelija/')) return 'Suosittelijasivut';
+  if (p === '/suosittelijat' || p.startsWith('/tilastot')) return 'Tilastot';
+  if (p === '/yllata' || p === '/arvonta') return 'Yllätä minut';
+  if (p === '/suosikit') return 'Suosikit';
+  if (p === '/muutokset.html') return 'Muutosloki';
+  if (p === '/kiitos.html') return 'Palaute lähetetty';
+  return 'Muut sivut';
+}
+function suositusPolusta(polku) {
+  const m = polku.split('?')[0].match(/^\/suositus\/(?:.*-)?([0-9a-z]{7})\/?$/);
+  return m ? m[1] : null;
+}
+
+// ---------- Esimerkkidata (?demo=1): ulkoasun voi katsoa ilman API-avainta ----------
+function esimerkkidata(paivia, kyselyt) {
+  let siemen = 7;
+  const satunnainen = () => (siemen = (siemen * 16807) % 2147483647) / 2147483647;
+  const paivat = [];
+  const alku = new Date(kyselyt.alku.slice(0, 10) + 'T12:00:00Z');
+  for (let i = 0; i < paivia; i++) {
+    const d = new Date(alku.getTime() + i * 864e5);
+    const vp = (d.getUTCDay() + 6) % 7;
+    const kerroin = [1, 0.9, 0.85, 1.9, 1.5, 0.7, 0.8][vp];
+    paivat.push({ pvm: d.toISOString().slice(0, 10), maara: Math.round((28 + satunnainen() * 22) * kerroin) });
+  }
+  const yht = paivat.reduce((s, p) => s + p.maara, 0);
+  const tunnit = Array.from({ length: 7 }, (_, vp) => Array.from({ length: 24 }, (_, h) =>
+    Math.round((h < 6 ? 0.2 : h < 9 ? 1 : h < 16 ? 2 : h < 22 ? 3 : 1) * (vp === 3 ? 2.4 : 1) * (2 + satunnainen() * 3) * paivia / 7)));
+  const recIdt = SUOSITUKSET ? [...SUOSITUKSET.keys()].slice(0, 40) : [];
+  const sivut = [
+    { polku: '/', maara: Math.round(yht * 0.62) },
+    { polku: '/tilastot', maara: Math.round(yht * 0.11) },
+    { polku: '/yllata', maara: Math.round(yht * 0.08) },
+    { polku: '/tilastot/ilmiot', maara: Math.round(yht * 0.05) },
+    { polku: '/suosikit', maara: Math.round(yht * 0.03) },
+    { polku: '/muutokset.html', maara: Math.round(yht * 0.02) },
+    { polku: '/suosittelijat', maara: Math.round(yht * 0.02) },
+    ...recIdt.map((id, i) => ({ polku: `/suositus/x-${id}`, maara: Math.max(1, Math.round(yht * 0.05 / (i + 1))) })),
+    ...(SUOSITTELIJAT ? [...SUOSITTELIJAT.keys()].slice(0, 8) : []).map((s, i) => ({ polku: `/suosittelija/${s}`, maara: Math.max(1, Math.round(yht * 0.03 / (i + 1))) })),
+  ].map((s, i) => ({ id: i + 1, otsikko: '', tapahtuma: false, ...s }));
+  return {
+    haettu: new Date().toISOString(),
+    yhteensa: yht, tapahtumat: 0, edellinen: Math.round(yht * 0.86),
+    paivat, tunnit, sivut, sivujaLisaa: false,
+    lahteet: [
+      { id: '', nimi: '', maara: Math.round(yht * 0.48) }, { id: 'Google', nimi: 'Google', maara: Math.round(yht * 0.21), tyyppi: 'g' },
+      { id: 'hs.fi', nimi: 'hs.fi', maara: Math.round(yht * 0.09), tyyppi: 'h' }, { id: 'reddit.com', nimi: 'reddit.com', maara: Math.round(yht * 0.05), tyyppi: 'h' },
+      { id: 'Facebook', nimi: 'Facebook', maara: Math.round(yht * 0.04), tyyppi: 'g' }, { id: 'bsky.app', nimi: 'bsky.app', maara: Math.round(yht * 0.02), tyyppi: 'h' },
+    ],
+    koot: [{ id: 'phone', nimi: 'Phones', maara: Math.round(yht * 0.58) }, { id: 'larger', nimi: 'Computer monitors', maara: Math.round(yht * 0.27) }, { id: 'tablet', nimi: 'Tablets and small laptops', maara: Math.round(yht * 0.11) }, { id: 'unknown', nimi: '(unknown)', maara: Math.round(yht * 0.04) }],
+    selaimet: [{ id: 'Safari', nimi: 'Safari', maara: Math.round(yht * 0.52) }, { id: 'Chrome', nimi: 'Chrome', maara: Math.round(yht * 0.31) }, { id: 'Firefox', nimi: 'Firefox', maara: Math.round(yht * 0.08) }, { id: 'Edge', nimi: 'Edge', maara: Math.round(yht * 0.06) }],
+    jarjestelmat: [{ id: 'iOS', nimi: 'iOS', maara: Math.round(yht * 0.49) }, { id: 'macOS', nimi: 'macOS', maara: Math.round(yht * 0.2) }, { id: 'Android', nimi: 'Android', maara: Math.round(yht * 0.17) }, { id: 'Windows', nimi: 'Windows', maara: Math.round(yht * 0.12) }],
+    maat: [{ id: 'FI', nimi: 'Finland', maara: Math.round(yht * 0.93) }, { id: 'SE', nimi: 'Sweden', maara: Math.round(yht * 0.03) }, { id: 'DE', nimi: 'Germany', maara: Math.round(yht * 0.02) }, { id: '', nimi: '(unknown)', maara: Math.round(yht * 0.02) }],
+  };
+}
+
+// ---------- Haku ----------
+let paivia = Number(lueAvain('analytiikkaJakso', '30')) || 30;
+let DATA = null;
+let pyynto = 0;
+
+async function hae(kyselyt) {
+  if (DEMO) {
+    await lataaSuositukset();
+    if (kyselyt.polku || kyselyt.lahde !== undefined) {
+      await new Promise(r => setTimeout(r, 250));
+      return kyselyt.polku
+        ? { lahteet: [{ nimi: '', maara: 12 }, { nimi: 'Google', maara: 5 }, { nimi: 'hs.fi', maara: 2 }] }
+        : { sivut: [{ nimi: '/', maara: 30 }, { nimi: '/tilastot', maara: 4 }] };
+    }
+    return esimerkkidata(paivia, kyselyt);
+  }
+  const token = lueAvain('validaattori_token', '');
+  if (!token) { const e = new Error('kirjaudu'); e.status = 401; throw e; }
+  const res = await fetch('/.netlify/functions/analytiikka?' + new URLSearchParams(kyselyt), {
+    headers: { Authorization: 'Bearer ' + token },
+  });
+  let data = null;
+  try { data = await res.json(); } catch (e) {}
+  if (!res.ok) {
+    const e = new Error((data && data.virhe) || `HTTP ${res.status}`);
+    e.status = res.status;
+    throw e;
+  }
+  return data;
+}
+
+function naytaTila(tila) {
+  for (const id of ['kirjautuminen', 'avainPuuttuu', 'virhe', 'lataus', 'sisalto']) $(id).hidden = id !== tila && !(tila === 'lataus-sisalto' && (id === 'lataus' || id === 'sisalto'));
+}
+
+async function lataa() {
+  const oma = ++pyynto;
+  document.querySelectorAll('#jakso button').forEach(b => b.setAttribute('aria-pressed', String(Number(b.dataset.paivia) === paivia)));
+  naytaTila(DATA ? 'lataus-sisalto' : 'lataus');
+  try {
+    const [data] = await Promise.all([hae(aikavali(paivia)), lataaSuositukset()]);
+    if (oma !== pyynto) return;
+    DATA = data;
+    naytaTila('sisalto');
+    piirra();
+  } catch (e) {
+    if (oma !== pyynto) return;
+    DATA = null;
+    if (e.status === 401) {
+      const oliToken = !!lueAvain('validaattori_token', '');
+      try { localStorage.removeItem('validaattori_token'); } catch (x) {}
+      $('kirjautumisvirhe').hidden = !oliToken || e.message === 'kirjaudu';
+      naytaTila('kirjautuminen');
+      $('salasana').focus();
+    } else if (e.status === 503 && e.message === 'avain-puuttuu') {
+      naytaTila('avainPuuttuu');
+    } else {
+      $('virheteksti').textContent = e.message;
+      naytaTila('virhe');
+    }
+  }
+}
+
+// ---------- Piirto ----------
+function piirra() {
+  const d = DATA;
+  $('esimerkkimerkki').hidden = !DEMO;
+  const paivat = d.paivat || [];
+  const kayneita = paivat.length || paivia;
+
+  // Luvut
+  $('lukuKavijat').textContent = luku(d.yhteensa);
+  if (d.edellinen) {
+    const m = Math.round((d.yhteensa / d.edellinen - 1) * 100);
+    $('lukuKavijatAla').innerHTML = `<span class="muutos${m > 0 ? ' nousu' : ''}">${m > 0 ? '↑' : m < 0 ? '↓' : '±'} ${Math.abs(m)} %</span> edelliseen ${paivia} päivään`;
+  } else {
+    $('lukuKavijatAla').textContent = d.edellinen === 0 ? 'edellisellä jaksolla ei kävijöitä' : '';
+  }
+  $('lukuPaiva').textContent = luku(d.yhteensa / kayneita);
+  $('lukuPaivaAla').textContent = `${paivia} päivän ajalta`;
+
+  const recSivut = d.sivut.filter(s => suositusPolusta(s.polku));
+  const recYht = recSivut.reduce((s, x) => s + x.maara, 0);
+  $('lukuSuositukset').textContent = (d.sivujaLisaa ? 'yli ' : '') + luku(recYht);
+  $('lukuSuosituksetAla').textContent = `${luku(new Set(recSivut.map(s => suositusPolusta(s.polku))).size)} eri suositusta`;
+
+  const huippu = paivat.reduce((a, p) => (p.maara > (a ? a.maara : -1) ? p : a), null);
+  if (huippu && huippu.maara > 0) {
+    $('lukuHuippu').textContent = luku(huippu.maara);
+    $('lukuHuippuAla').textContent = `${VIIKONPAIVAT[viikonpaiva(huippu.pvm)]} ${pvmTeksti(huippu.pvm, true)}`;
+  } else {
+    $('lukuHuippu').textContent = '–';
+    $('lukuHuippuAla').textContent = '';
+  }
+
+  $('ingressi').innerHTML = `${pvmTeksti(paivat[0]?.pvm || '', true)} – ${pvmTeksti(paivat.at(-1)?.pvm || '', true)} <span class="mono">· päivitetty ${new Date(d.haettu).toLocaleTimeString('fi-FI', { hour: '2-digit', minute: '2-digit' })}</span>`;
+
+  piirraKaavio(paivat);
+  piirraViikko(paivat, d.tunnit);
+  piirraListat(d);
+
+  $('alaviite').textContent = 'Kävijä = yksi selain yhtenä päivänä yhdellä sivulla (GoatCounterin laskutapa). Lukuja ei kerätä dev-versiosta eikä paikallisesta selailusta.'
+    + (d.sivujaLisaa ? ' GoatCounter palauttaa 100 suosituinta osoitetta – näkymä- ja suositussummat ovat siksi alarajoja.' : '');
+}
+
+// Pyöreä akselin maksimi (1, 2, 2.5, 5 × 10^n)
+function pyorea(max) {
+  if (max <= 4) return 4;
+  const e = 10 ** Math.floor(Math.log10(max));
+  for (const k of [1, 2, 2.5, 5, 10]) if (k * e >= max) return k * e;
+  return 10 * e;
+}
+
+function piirraKaavio(paivat) {
+  // Vuoden aikavälillä palkit viikoittain, muuten päivittäin
+  let sarja = paivat.map(p => ({ alku: p.pvm, loppu: p.pvm, maara: p.maara }));
+  const viikoittain = paivat.length > 120;
+  if (viikoittain) {
+    sarja = [];
+    for (const p of paivat) {
+      const viim = sarja.at(-1);
+      if (!viim || viikonpaiva(p.pvm) === 0) sarja.push({ alku: p.pvm, loppu: p.pvm, maara: p.maara, paivia: 1 });
+      else { viim.loppu = p.pvm; viim.maara += p.maara; viim.paivia++; }
+    }
+  }
+  $('kaavioOtsikko').textContent = viikoittain ? 'Kävijät viikoittain' : 'Kävijät päivittäin';
+  $('kaavioKuvaus').textContent = viikoittain
+    ? 'Yksi palkki = maanantaista sunnuntaihin. Vajaat reunaviikot himmeämpinä.'
+    : 'Torstain uusi jakso näkyy yleensä piikkinä. Viikonloput hieman himmeämpinä.';
+
+  const max = pyorea(Math.max(1, ...sarja.map(s => s.maara)));
+  const ticks = [0, max / 2, max];
+  const tiheä = sarja.length > 45;
+  const keski = sarja[Math.floor((sarja.length - 1) / 2)];
+  $('kaavio').innerHTML = `
+    <div class="kaavio-y" aria-hidden="true">${ticks.map(t => `<span style="bottom:${t / max * 100}%">${luku(t)}</span>`).join('')}</div>
+    <div class="kaavio-ala">
+      ${ticks.map(t => `<div class="kaavio-viiva${t === 0 ? ' pohja' : ''}" style="bottom:${t / max * 100}%"></div>`).join('')}
+      <div class="kaavio-palkit${tiheä ? ' tiheä' : ''}" role="list" aria-label="Kävijät ${viikoittain ? 'viikoittain' : 'päivittäin'}">
+        ${sarja.map((s, i) => {
+          // Himmeämpi: viikonloppu (päivittäin) tai vajaa reunaviikko (viikoittain)
+          const vkl = viikoittain ? s.paivia < 7 : viikonpaiva(s.alku) >= 5;
+          const nimi = viikoittain ? `${pvmTeksti(s.alku)}–${pvmTeksti(s.loppu)}` : `${VIIKONPAIVAT[viikonpaiva(s.alku)]} ${pvmTeksti(s.alku)}`;
+          return `<div class="palkki${vkl ? ' vkl' : ''}" role="listitem" data-i="${i}" aria-label="${esc(nimi)}: ${s.maara} kävijää"><i style="height:${s.maara / max * 100}%"></i></div>`;
+        }).join('')}
+      </div>
+    </div>
+    <div class="kaavio-x" aria-hidden="true">
+      <span>${pvmTeksti(sarja[0]?.alku || '')}</span><span>${keski ? pvmTeksti(keski.alku) : ''}</span><span>${pvmTeksti(sarja.at(-1)?.alku || '')}</span>
+    </div>`;
+
+  const palkit = $('kaavio').querySelector('.kaavio-palkit');
+  const vihje = $('vihje');
+  let aktiivinen = null;
+  const nayta = (el, x, y) => {
+    if (aktiivinen) aktiivinen.classList.remove('aktiivinen');
+    aktiivinen = el;
+    el.classList.add('aktiivinen');
+    const s = sarja[el.dataset.i];
+    const otsikko = viikoittain
+      ? `${pvmTeksti(s.alku)}–${pvmTeksti(s.loppu, true)}`
+      : `${VIIKONPAIVAT_PITKA[viikonpaiva(s.alku)]} ${pvmTeksti(s.alku, true)}`;
+    vihje.innerHTML = `<small>${otsikko}</small><b>${luku(s.maara)}</b> kävijää`;
+    vihje.hidden = false;
+    const r = el.getBoundingClientRect();
+    const leveys = vihje.offsetWidth / 2 + 8;
+    vihje.style.left = Math.min(innerWidth - leveys, Math.max(leveys, r.left + r.width / 2)) + 'px';
+    vihje.style.top = (r.bottom - el.firstElementChild.offsetHeight) + 'px';
+  };
+  const piilota = () => { vihje.hidden = true; if (aktiivinen) aktiivinen.classList.remove('aktiivinen'); aktiivinen = null; };
+  piilotaVihje = piilota;
+  // Osoitin palkkien alueella → lähin palkki (osuma-alue = koko sarake, ei vain palkki)
+  palkit.addEventListener('pointermove', e => {
+    const el = document.elementFromPoint(e.clientX, e.clientY)?.closest('.palkki');
+    if (el) nayta(el);
+  });
+  palkit.addEventListener('pointerleave', e => { if (e.pointerType === 'mouse') piilota(); });
+  palkit.addEventListener('pointerdown', e => {
+    const el = e.target.closest('.palkki');
+    if (el) nayta(el);
+  });
+}
+// Vihje piiloon muualle napautettaessa ja vieritettäessä (kuuntelijat kerran, kaavio vaihtuu)
+let piilotaVihje = () => {};
+document.addEventListener('pointerdown', e => { if (!e.target.closest('.kaavio-palkit')) piilotaVihje(); });
+addEventListener('scroll', () => piilotaVihje(), { passive: true });
+
+function piirraViikko(paivat, tunnit) {
+  const summat = new Array(7).fill(0), maarat = new Array(7).fill(0);
+  for (const p of paivat) { const vp = viikonpaiva(p.pvm); summat[vp] += p.maara; maarat[vp]++; }
+  const keskiarvot = summat.map((s, i) => (maarat[i] ? s / maarat[i] : 0));
+  const max = Math.max(1, ...keskiarvot);
+  $('viikkoKuvaus').textContent = 'Keskimäärin kävijöitä viikonpäivittäin' + (tunnit ? ', ja alla tunneittain.' : '.');
+  $('viikko').innerHTML = keskiarvot.map((k, i) =>
+    `<div class="vp" title="${VIIKONPAIVAT_PITKA[i]}: keskimäärin ${luku(k)} kävijää"><i style="height:calc(${k / max} * (100% - 24px))"></i><span>${VIIKONPAIVAT[i]}</span></div>`).join('');
+
+  const lampo = $('lampo');
+  lampo.hidden = !tunnit;
+  if (!tunnit) return;
+  const tmax = Math.max(1, ...tunnit.flat());
+  lampo.innerHTML = '<b></b>' + Array.from({ length: 24 }, (_, h) => `<span class="tunti">${h % 6 === 0 ? h : ''}</span>`).join('')
+    + tunnit.map((rivi, vp) => `<b>${VIIKONPAIVAT[vp]}</b>` + rivi.map((n, h) =>
+      `<i style="--t:${(n / tmax).toFixed(3)}" title="${VIIKONPAIVAT_PITKA[vp]} klo ${h}–${h + 1}: ${luku(n)} kävijää"></i>`).join('')).join('');
+}
+
+// Yleinen rankattu lista: rivit = [{ nimi, meta, maara, href, laajenna }]
+function piirraLista(el, rivit, { nayta = 8, yhteensa } = {}) {
+  if (el.nextElementSibling?.classList.contains('lisaa')) el.nextElementSibling.remove();
+  if (!rivit.length) { el.outerHTML = `<p class="tyhja" id="${el.id}">Ei vielä kävijöitä tällä aikavälillä.</p>`; return; }
+  if (el.tagName !== 'OL') { const ol = document.createElement('ol'); ol.className = 'lista'; ol.id = el.id; el.replaceWith(ol); el = ol; }
+  const max = Math.max(...rivit.map(r => r.maara), 1);
+  const summa = yhteensa || rivit.reduce((s, r) => s + r.maara, 0);
+  const html = (r, i) => {
+    const osuus = summa ? Math.round(r.maara / summa * 100) : 0;
+    const sisalto = `
+      <span><span class="rivi-nimi">${esc(r.nimi)}${r.href ? `<a class="rivi-ulos" href="${esc(r.href)}" target="_blank" rel="noopener" title="Avaa sivu" aria-label="Avaa sivu">↗</a>` : ''}</span>${r.meta ? `<span class="rivi-meta">${esc(r.meta)}</span>` : ''}</span>
+      <span class="rivi-palkki" aria-hidden="true"><i style="width:${r.maara / max * 100}%"></i></span>
+      <span class="rivi-maara">${luku(r.maara)}<small>${osuus < 1 && r.maara ? '<1' : osuus} %</small></span>`;
+    return `<li class="rivi"${i >= nayta ? ' data-yli hidden' : ''}>${r.laajenna
+      ? `<button type="button" class="rivi-sisa" data-r="${i}" aria-expanded="false">${sisalto}</button>`
+      : `<div class="rivi-sisa">${sisalto}</div>`}</li>`;
+  };
+  el.innerHTML = rivit.map(html).join('');
+  if (rivit.length > nayta) {
+    const nappi = document.createElement('button');
+    nappi.type = 'button';
+    nappi.className = 'lisaa';
+    nappi.textContent = `Näytä kaikki ${rivit.length}`;
+    nappi.addEventListener('click', () => {
+      const auki = nappi.dataset.auki === '1';
+      el.querySelectorAll('[data-yli]').forEach(li => { li.hidden = auki; });
+      nappi.dataset.auki = auki ? '0' : '1';
+      nappi.textContent = auki ? `Näytä kaikki ${rivit.length}` : 'Näytä vähemmän';
+    });
+    el.after(nappi);
+  }
+  el.onclick = async e => {
+    if (e.target.closest('a')) return;
+    const nappi = e.target.closest('button.rivi-sisa');
+    if (!nappi) return;
+    const li = nappi.parentElement;
+    const vanha = li.querySelector('.alalista');
+    if (vanha) { vanha.remove(); nappi.setAttribute('aria-expanded', 'false'); li.classList.remove('rivi-auki'); return; }
+    nappi.setAttribute('aria-expanded', 'true');
+    li.classList.add('rivi-auki');
+    const laatikko = document.createElement('div');
+    laatikko.className = 'alalista';
+    laatikko.textContent = 'Haetaan…';
+    li.append(laatikko);
+    try {
+      laatikko.innerHTML = await rivit[nappi.dataset.r].laajenna();
+    } catch (err) {
+      laatikko.textContent = 'Haku epäonnistui: ' + err.message;
+    }
+  };
+}
+
+function alalistaHtml(otsikko, rivit) {
+  if (!rivit.length) return `<div class="alalista-otsikko">${otsikko}</div>Ei tietoja.`;
+  return `<div class="alalista-otsikko">${otsikko}</div><ol>${rivit.slice(0, 15).map(r =>
+    `<li><span>${esc(r.nimi)}</span><span>${luku(r.maara)}</span></li>`).join('')}</ol>`;
+}
+const lahdeNimi = (nimi, tyyppi) => !nimi ? 'Suora käynti tai ei tietoa' : tyyppi === 'c' ? `Kampanja: ${nimi}` : nimi.replace(/^https?:\/\//, '').replace(/\/$/, '');
+
+function polunLahteet(id) {
+  return async () => {
+    const r = await hae({ ...aikavali(paivia), polku: String(id) });
+    return alalistaHtml('Mistä tänne tultiin', r.lahteet.map(x => ({ nimi: lahdeNimi(x.nimi, x.tyyppi), maara: x.maara })));
+  };
+}
+
+const KOOT = {
+  'Phones': 'Puhelimet', 'Large phones, small tablets': 'Isot puhelimet, pienet tabletit',
+  'Tablets and small laptops': 'Tabletit ja pienet läppärit', 'Computer monitors': 'Tietokoneet',
+  'Computer monitors larger than HD': 'Isot näytöt (yli HD)', '(unknown)': 'Tuntematon',
+};
+let maaNimet = null;
+try { maaNimet = new Intl.DisplayNames(['fi'], { type: 'region' }); } catch (e) {}
+const maaNimi = (id, nimi) => {
+  if (/^[A-Z]{2}$/.test(id || '') && maaNimet) { try { return maaNimet.of(id); } catch (e) {} }
+  return nimi === '(unknown)' || !nimi ? 'Tuntematon' : nimi;
+};
+const tuntematon = n => (n === '(unknown)' || !n ? 'Tuntematon' : n);
+
+function piirraListat(d) {
+  const sivut = d.sivut.filter(s => !s.tapahtuma);
+
+  // Näkymät
+  const ryhmat = new Map();
+  for (const s of sivut) { const n = nakyma(s.polku); ryhmat.set(n, (ryhmat.get(n) || 0) + s.maara); }
+  piirraLista($('listaNakymat'), [...ryhmat].sort((a, b) => b[1] - a[1]).map(([nimi, maara]) => ({ nimi, maara })), { nayta: 10 });
+
+  // Suositukset
+  const recit = new Map();
+  for (const s of sivut) {
+    const id = suositusPolusta(s.polku);
+    if (!id) continue;
+    const vanha = recit.get(id);
+    if (vanha) { vanha.maara += s.maara; continue; }
+    const tieto = SUOSITUKSET && SUOSITUKSET.get(id);
+    recit.set(id, {
+      nimi: tieto ? tieto.teos : (s.otsikko || s.polku),
+      meta: tieto ? `${tieto.suosittelija} · jakso ${tieto.pvm}` : s.polku,
+      maara: s.maara,
+      href: 'https://uutisrapsa.fi' + s.polku.split('?')[0],
+      laajenna: polunLahteet(s.id),
+    });
+  }
+  piirraLista($('listaSuositukset'), [...recit.values()].sort((a, b) => b.maara - a.maara), { nayta: 10 });
+
+  // Suosittelijasivut
+  const profiilit = sivut.filter(s => nakyma(s.polku) === 'Suosittelijasivut').map(s => {
+    const slug = s.polku.split('?')[0].replace(/^\/suosittelija\//, '').replace(/\/$/, '');
+    return { nimi: (SUOSITTELIJAT && SUOSITTELIJAT.get(slug)) || slug, maara: s.maara, href: 'https://uutisrapsa.fi' + s.polku.split('?')[0], laajenna: polunLahteet(s.id) };
+  });
+  piirraLista($('listaSuosittelijat'), profiilit);
+
+  // Lähteet
+  piirraLista($('listaLahteet'), d.lahteet.map(l => ({
+    nimi: lahdeNimi(l.nimi, l.tyyppi),
+    meta: l.tyyppi === 'g' ? 'ryhmitelty' : '',
+    maara: l.maara,
+    laajenna: async () => {
+      const r = await hae({ ...aikavali(paivia), lahde: l.id ?? '' });
+      return alalistaHtml('Tänne saavuttiin', r.sivut.map(x => ({ nimi: x.nimi, maara: x.maara })));
+    },
+  })), { yhteensa: d.yhteensa });
+
+  piirraLista($('listaKoot'), d.koot.map(k => ({ nimi: KOOT[k.nimi] || tuntematon(k.nimi), maara: k.maara })), { yhteensa: d.yhteensa });
+  piirraLista($('listaMaat'), d.maat.map(m => ({ nimi: maaNimi(m.id, m.nimi), maara: m.maara })), { yhteensa: d.yhteensa });
+  piirraLista($('listaSelaimet'), d.selaimet.map(s => ({ nimi: tuntematon(s.nimi), maara: s.maara })), { yhteensa: d.yhteensa });
+  piirraLista($('listaJarjestelmat'), d.jarjestelmat.map(s => ({ nimi: tuntematon(s.nimi), maara: s.maara })), { yhteensa: d.yhteensa });
+
+  // Kaikki osoitteet
+  piirraLista($('listaSivut'), d.sivut.map(s => {
+    const id = suositusPolusta(s.polku);
+    const tieto = id && SUOSITUKSET && SUOSITUKSET.get(id);
+    return {
+      nimi: s.polku,
+      meta: (s.tapahtuma ? 'tapahtuma · ' : '') + (tieto ? tieto.teos : nakyma(s.polku)),
+      maara: s.maara,
+      laajenna: polunLahteet(s.id),
+    };
+  }), { nayta: 15 });
+}
+
+// ---------- Käynnistys ----------
+document.querySelectorAll('#jakso button').forEach(b => b.addEventListener('click', () => {
+  paivia = Number(b.dataset.paivia);
+  kirjoitaAvain('analytiikkaJakso', String(paivia));
+  lataa();
+}));
+$('kirjautumislomake').addEventListener('submit', e => {
+  e.preventDefault();
+  const s = $('salasana').value;
+  if (!s) return;
+  kirjoitaAvain('validaattori_token', s);
+  $('salasana').value = '';
+  lataa();
+});
+$('yritaUudelleen').addEventListener('click', lataa);
+lataa();
+</script>
+</body>
+</html>

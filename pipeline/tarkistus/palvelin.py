@@ -1,5 +1,10 @@
 """Tarkistusnäkymän paikallinen palvelin (http://127.0.0.1:5002).
 
+KORVATTU 25.10.2026 admin-näkymän Tarkistus-välilehdellä (admin/tarkistus.js),
+jonka päätökset tallentuvat admin/tarkistuspaatokset.json:iin ja korjauksiin
+suoraan mainiin. Tämä jää varalle; älä käytä rinnakkain, sillä tämän päätökset
+(pipeline/tarkistuspaatokset.json) eivät näy adminissa.
+
 Lukee tarkista_jaksot.py:n tulokset (tarkistusehdotukset.json) ja tallentaa
 ihmisen päätökset erilliseen tiedostoon tarkistuspaatokset.json — erillään siksi,
 että käynnissä oleva tarkistusajo kirjoittaa ehdotustiedoston kokonaan uudelleen
