@@ -2749,5 +2749,24 @@
     },
     "aika": "2026-10-25T20:12:37",
     "viety": "2026-10-25T20:12:37"
+  },
+  "tag:soundcloud,2010:tracks/1761187194::puuttuu::kymmenen haavaa amerikan sydämessä": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Kymmenen haavaa Amerikan sydämessä",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Anna-Sofia Bernerin huhtikuussa 2024 ilmestyvä kirja Yhdysvaltojen politiikasta. Marko suosittelee kollegansa kirjaa ennen kuin jää itse kirjoittamaan omaansa.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "tietokirja",
+        "Yhdysvallat",
+        "politiikka"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Anna-Sofia+Berner+Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4"
+    },
+    "aika": "2026-10-25T20:20:48",
+    "viety": "2026-10-25T20:20:48"
   }
 }

@@ -4696,5 +4696,27 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1761187194",
+    "jakso_otsikko": "29.2.2024: Gaza sirpaloi politiikkaa, rkp, kulttuuriskandaalit",
+    "paivamaara": "29.2.2024",
+    "r_idx": 2,
+    "teos": "Kymmenen haavaa Amerikan sydämessä",
+    "uusi_data": {
+      "teos": "Kymmenen haavaa Amerikan sydämessä",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Anna-Sofia+Berner+Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4",
+      "kuvaus": "Anna-Sofia Bernerin huhtikuussa 2024 ilmestyvä kirja Yhdysvaltojen politiikasta. Marko suosittelee kollegansa kirjaa ennen kuin jää itse kirjoittamaan omaansa.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "tietokirja",
+        "Yhdysvallat",
+        "politiikka"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
