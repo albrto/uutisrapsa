@@ -2922,5 +2922,25 @@
         "huumori"
       ]
     }
+  },
+  {
+    "jakso_id": "df01fe48-0608-4082-82a2-fc0e764c750b",
+    "jakso_otsikko": "USA:n vetäytyminen, pelon tunnelmat ja kasvuraportti",
+    "paivamaara": "6.3.2025",
+    "r_idx": 1,
+    "teos": "Zero Day",
+    "uusi_data": {
+      "teos": "Zero Day",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Zero+Day+Netflix+Robert+De+Niro",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Zero+Day+Robert+De+Niro",
+      "kuvaus": "Netflixin sarja, jossa Robert De Niro esittää Yhdysvaltain entistä presidenttiä, joka selvittää laajamittaista kyberhyökkäystä. Markon mielestä järkyttävän huono – älkää katsoko.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "trilleri",
+        "Netflix",
+        "kyberhyökkäys"
+      ]
+    }
   }
 ]

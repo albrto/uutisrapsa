@@ -1526,5 +1526,15 @@
     },
     "aika": "2026-10-25T14:55:36",
     "viety": "2026-10-25T14:55:36"
+  },
+  "df01fe48-0608-4082-82a2-fc0e764c750b::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Netflixin sarja, jossa Robert De Niro esittää Yhdysvaltain entistä presidenttiä, joka selvittää laajamittaista kyberhyökkäystä. Markon mielestä järkyttävän huono – älkää katsoko."
+    },
+    "aika": "2026-10-25T14:56:58",
+    "viety": "2026-10-25T14:56:58"
   }
 }
