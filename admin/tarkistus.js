@@ -56,10 +56,10 @@ const Tarkistus = (() => {
         return r.json();
       };
       const [data, tallennetut, suositukset] = await Promise.all([
-        hae('tarkistus.json'), hae('tarkistuspaatokset.json', {}), hae('/suositukset.json'),
+        hae('tarkistus.json'), haeAdminJson('tarkistuspaatokset.json'), hae('/suositukset.json'),
       ]);
       DATA = data;
-      TALLENNETUT = tallennetut;
+      TALLENNETUT = tallennetut || {};
       LIVE = new Map(suositukset.map(j => [j.id, j]));
       for (const avain of Object.keys(ODOTTAVAT)) if (TALLENNETUT[avain]?.viety) delete ODOTTAVAT[avain];
       tallennaLuonnos();

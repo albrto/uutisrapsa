@@ -139,6 +139,10 @@ exports.handler = async (event) => {
           commit: uusiSha,
           message: `Tallennettu ${uudet.length} korjausta`,
           tallennetut: uudet,
+          // Kirjoitetut tiedostot kokonaisina: selain käyttää niitä, kunnes
+          // Netlify on julkaissut uudet versiot (deploy kestää ~1 min)
+          tiedostot: Object.fromEntries(tiedostot.map(([polku, sisalto]) =>
+            [polku.replace('admin/', ''), JSON.parse(sisalto)])),
         });
       }
       if (paivitysRes.status !== 422 || yritys === 3) {

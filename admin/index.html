@@ -1237,6 +1237,47 @@ let currentSearch = '';
 let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
 const audioObjects = {}; // jakso_id → Audio (puuttui: Toista-nappi kaatui ReferenceErroriin)
 
+// Juuri tallennetut tiedostot (tallenna.js palauttaa ne). Netlifyn julkaisu
+// kestää noin minuutin, ja sitä ennen palvelin antaa vielä vanhat versiot —
+// ilman tätä tallennetut muutokset näkyivät uudelleenlatauksen jälkeen taas
+// avoimina. Tuore kopio on käytössä, kunnes palvelimen versio on sama tai
+// TUORE_MAX_MS on kulunut.
+const TUORE_AVAIN = 'adminTuoreet';
+const TUORE_MAX_MS = 15 * 60 * 1000;
+
+function muistaTuoreet(tiedostot) {
+  if (!tiedostot) return;
+  try {
+    const vanhat = JSON.parse(localStorage.getItem(TUORE_AVAIN) || '{}');
+    for (const [nimi, sisalto] of Object.entries(tiedostot)) vanhat[nimi] = { aika: Date.now(), sisalto };
+    localStorage.setItem(TUORE_AVAIN, JSON.stringify(vanhat));
+  } catch (e) {}
+}
+
+function unohdaTuore(nimi) {
+  try {
+    const tuoreet = JSON.parse(localStorage.getItem(TUORE_AVAIN) || '{}');
+    delete tuoreet[nimi];
+    if (Object.keys(tuoreet).length) localStorage.setItem(TUORE_AVAIN, JSON.stringify(tuoreet));
+    else localStorage.removeItem(TUORE_AVAIN);
+  } catch (e) {}
+}
+
+// Hakee admin-kansion JSON-tiedoston. Palauttaa null, jos tiedostoa ei ole.
+async function haeAdminJson(nimi) {
+  const res = await fetch(nimi + '?v=' + Date.now());
+  const palvelin = res.ok ? await res.json() : null;
+  if (!res.ok && res.status !== 404) throw new Error(`${nimi}: ${res.status}`);
+  let tuore = null;
+  try { tuore = JSON.parse(localStorage.getItem(TUORE_AVAIN) || '{}')[nimi]; } catch (e) {}
+  if (!tuore) return palvelin;
+  if (JSON.stringify(palvelin) === JSON.stringify(tuore.sisalto) || Date.now() - tuore.aika > TUORE_MAX_MS) {
+    unohdaTuore(nimi);
+    return palvelin;
+  }
+  return tuore.sisalto;
+}
+
 // =====================================================
 // LOAD DATA
 // =====================================================
@@ -1281,9 +1322,8 @@ function loadDataScriptAndInit() {
       
       // Lataa odottavat korjaukset (korjaukset.json)
       try {
-        const korjRes = await fetch('korjaukset.json?v=' + Date.now());
-        if (korjRes.ok) {
-          const korjaukset = await korjRes.json();
+        const korjaukset = await haeAdminJson('korjaukset.json');
+        if (korjaukset) {
           window.KORJAUKSET = korjaukset;
           lisaaOdottavatLisaykset(DATA_SUSPICIOUS);
           
@@ -1397,6 +1437,7 @@ async function loadFullData() {
           vj.suositukset.forEach(vs => {
             if (vs.is_suspicious && fj.suositukset[vs.r_idx]) {
               fj.suositukset[vs.r_idx].is_suspicious = true;
+              fj.suositukset[vs.r_idx].epailyn_syyt = vs.epailyn_syyt;
             }
           });
         }
@@ -1741,6 +1782,17 @@ function renderCard(jakso) {
 </div>`;
 }
 
+// Varoitusteksti generoi_validointidata.py:n antamien syiden mukaan. Vanha
+// data ilman syitä näyttää yleisen tekstin.
+function epailynTeksti(rec) {
+  const nimi = `<strong>"${escHtml(rec.suosittelija)}"</strong>`;
+  const syyt = rec.epailyn_syyt || [];
+  if (syyt.includes('tuntematon')) return 'Suosittelijaa ei tunnistettu – tarkista, kuka suosituksen antoi';
+  if (syyt.includes('ei_osallistuja')) return `Suosittelija ${nimi} ei löydy jakson RSS-osallistujista`;
+  if (syyt.includes('ei_tunnettu')) return `Suosittelija ${nimi} on jakson osallistujissa, mutta ei tunnettujen nimien listassa – tarkista kirjoitusasu`;
+  return `Suosittelija ${nimi} vaatii tarkistuksen`;
+}
+
 function renderRec(jakso, rec) {
   const c = getCorr(jakso.jakso_id, rec.r_idx);
   const isEdited = c && c.is_edited;
@@ -1764,7 +1816,7 @@ function renderRec(jakso, rec) {
   ${isSuspicious && !isEdited && !isSkipped ? `
   <div class="rec-alert">
     <svg class="ikoni" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3 2 21h20L12 3z"/><path d="M12 10v5M12 18h.01"/></svg>
-    <div class="rec-alert-text">Suosittelija <strong>"${escHtml(rec.suosittelija)}"</strong> ei löydy jakson RSS-osallistujista</div>
+    <div class="rec-alert-text">${epailynTeksti(rec)}</div>
   </div>
   ` : ''}
 
@@ -2237,6 +2289,8 @@ async function tallennaJarjestys(jakso_id) {
     const tulos = await response.json().catch(() => ({}));
     if (!response.ok) throw new Error(tulos.error || response.statusText);
     sovellaJarjestysPaikallisesti(jakso_id, jarj);
+    // Järjestys muutti korjausten r_idx:t palvelimella; tuore kopio olisi vanhentunut
+    unohdaTuore('korjaukset.json');
     delete JARJESTYS[jakso_id];
     refreshCard(jakso_id);
     showToast('Järjestys tallennettu. Julkinen sivu päivittyy noin minuutin kuluttua.', 5000);
@@ -2423,10 +2477,11 @@ function saveChanges() {
     return response.json();
   })
   .then(data => {
+    muistaTuoreet(data.tiedostot);
     Tarkistus.tallennettu();
-    showToast('Korjaukset tallennettu GitHubiin (viive n. 1min ennen kuin näkyy Netlifyssä)!', 5000);
+    showToast('Tallennettu! Julkinen sivu päivittyy muutaman minuutin kuluessa.', 5000);
     tallennusValmis = true;
-    setTimeout(() => location.reload(), 3000);
+    setTimeout(() => location.reload(), 1500);
   })
   .catch(err => {
     console.error('Save failed:', err);
