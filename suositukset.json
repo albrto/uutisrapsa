@@ -972,7 +972,8 @@
           "sci-fi",
           "komedia",
           "ilmastonmuutos"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Juustonaksujäätelö (Närpiön jäätelötehdas)",
