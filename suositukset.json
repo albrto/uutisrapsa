@@ -1112,7 +1112,8 @@
         "kategoriat": [
           "muistelmat",
           "Hollywood"
-        ]
+        ],
+        "antisuositus": true
       }
     ]
   },
@@ -1506,6 +1507,19 @@
           "kasvutarina",
           "urheilu"
         ]
+      },
+      {
+        "teos": "Last One Laughing Ruotsi",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Last+One+Laughing+Sverige",
+        "lisatieto_linkki": "",
+        "kuvaus": "Brittikausien jälkeen Salla kokeili ruotsalaista Last One Laughingia – ruotsalaisethan ovat hauskoja ja osaavat kaiken. Tämä versio oli kuitenkin ihan onneton. Seuraavaksi vuorossa norjalainen.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "komedia",
+          "reality"
+        ],
+        "antisuositus": true
       }
     ]
   },
@@ -3531,6 +3545,20 @@
           "vakoilu"
         ],
         "alkupera": "ulkomainen"
+      },
+      {
+        "teos": "Helsingin uimastadion",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Helsingin+uimastadion",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomaksen podcast-historian ensimmäinen antisuositus: älkää missään nimessä menkö Helsingin uimastadionille, joka on hänestä Suomen uimastadioneista huonoin – niin täynnä porukkaa, että olo on epämiellyttävä. Stadikan ranskalaiset ovat silti varmasti hyviä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "uimala",
+          "Helsinki",
+          "kesä"
+        ],
+        "antisuositus": true
       }
     ]
   },
@@ -4727,7 +4755,8 @@
           "trilleri",
           "Netflix",
           "kyberhyökkäys"
-        ]
+        ],
+        "antisuositus": true
       },
       {
         "teos": "Severance",
@@ -5015,6 +5044,19 @@
           "maailmanmusiikki",
           "Instagram"
         ]
+      },
+      {
+        "teos": "Keilaaminen",
+        "paakategoria": "urheilu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomaksen lyhyt antisuositus keilaamiselle: radalla käyminen on ollut hänelle aina nöyryyttävää.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "keilailu",
+          "harrastus"
+        ],
+        "antisuositus": true
       }
     ]
   },
@@ -8705,6 +8747,20 @@
           "historia",
           "merihistoria"
         ]
+      },
+      {
+        "teos": "Mengelen elämäkerta äänikirjana ennen nukkumaanmenoa",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Josef+Mengele+el%C3%A4m%C3%A4kerta",
+        "lisatieto_linkki": "",
+        "kuvaus": "Moni nukahtaa rikosjuttuihin, mutta Joona kertoo, mikä ei toimi: Josef Mengelen elämäkerta iltakuunteluna. Nukahtaminen oli hidasta ja unet tosi omituisia, koska kirja kuvaa kokeita hyvin yksityiskohtaisesti. Ei suositella.",
+        "suosittelija": "Joona Aaltonen",
+        "kategoriat": [
+          "äänikirja",
+          "elämäkerta",
+          "uni"
+        ],
+        "antisuositus": true
       }
     ]
   },
@@ -10297,6 +10353,19 @@
           "draama",
           "myötähäpeä"
         ]
+      },
+      {
+        "teos": "Jalkapallon MM-kisat Qatarissa",
+        "paakategoria": "urheilu",
+        "google_linkki": "https://www.google.com/search?q=Jalkapallon+MM-kisat+2022+Qatar",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tommi aloitti suosituksensa epä- ja antisuosituksella: älkää katsoko Qatarin MM-kisoja. Säästyneen ajan voi käyttää vaikka Hannu-Pekka Björkmanin maalausjuttujen kuunteluun Yle Areenasta.",
+        "suosittelija": "Tommi Nieminen",
+        "kategoriat": [
+          "jalkapallo",
+          "Qatar"
+        ],
+        "antisuositus": true
       }
     ]
   },
@@ -14923,6 +14992,19 @@
           "Venäjä",
           "politiikka"
         ]
+      },
+      {
+        "teos": "Hiomattomat timantit",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Hiomattomat+timantit+Uncut+Gems+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Uncut+Gems",
+        "kuvaus": "Tuomas kehui Safdie-veljesten elokuvaa edellisellä viikolla, joten Marko katsoi sen – ja antoi antisuosituksen: hänestä elokuva oli todella huono, eikä loputtomasta sykkeestä ja musiikista saanut mitään otetta. Älkää vaivautuko.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "draama",
+          "rikoselokuva"
+        ],
+        "antisuositus": true
       }
     ]
   },
@@ -17387,6 +17469,19 @@
           "opas",
           "tyyli"
         ]
+      },
+      {
+        "teos": "Star Wars: Skywalkerin nousu",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Star+Wars+Skywalkerin+nousu",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Star+Wars+The+Rise+of+Skywalker",
+        "kuvaus": "Marko kävi katsomassa uuden Tähtien sodan 11-vuotiaan poikansa kanssa eikä ole kärsinyt elokuvissa aikoihin yhtä paljon: 2,5 tuntia kuolettavan tylsää, kolmen elokuvan verran tavaraa ilman mitään tarttumapintaa. Suuri pettymys Star Wars -fanille.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "scifi",
+          "Star Wars"
+        ],
+        "antisuositus": true
       }
     ]
   },

@@ -148,6 +148,7 @@ def main():
                 "lisatieto_linkki": rec.get("lisatieto_linkki", ""),
                 "alkupera": rec.get("alkupera", ""),
                 "lisalinkit": rec.get("lisalinkit", []),
+                "antisuositus": bool(rec.get("antisuositus")),
                 "piilotettu": bool(rec.get("piilotettu")),
             })
 

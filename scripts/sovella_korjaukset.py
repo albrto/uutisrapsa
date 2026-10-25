@@ -82,6 +82,9 @@ def main():
             # Podcastin suorat lisälinkit (Supla-sivu, HS:n esittelyartikkeli …)
             if uusi_data.get("lisalinkit"):
                 uusi["lisalinkit"] = uusi_data["lisalinkit"]
+            # Antisuositus ("älkää katsoko"): sivu näyttää oranssina, arpakone ohittaa
+            if uusi_data.get("antisuositus"):
+                uusi["antisuositus"] = True
             suositukset.append(uusi)
             print(f"  ➕ {korj.get('paivamaara', '?')}: Lisätty uusi suositus: \"{uusi_data['teos']}\"")
             ok += 1

@@ -9,7 +9,7 @@
 
 const REC_KENTAT = ['teos', 'paakategoria', 'google_linkki', 'lisatieto_linkki', 'kuvaus', 'suosittelija', 'kategoriat'];
 // Viedään vain, jos päätöksen datassa on arvo (podcastin alkuperä ohjaa kuuntelulinkkejä)
-const VALINNAISET_KENTAT = ['alkupera', 'lisalinkit'];
+const VALINNAISET_KENTAT = ['alkupera', 'lisalinkit', 'antisuositus'];
 const PAATOKSET = ['hyvaksytty', 'hylatty', 'poista'];
 
 class TarkistusVirhe extends Error {

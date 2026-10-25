@@ -165,6 +165,8 @@ function rakennaIndeksit() {
 
   // Sama teos useassa jaksossa: ryhmitellään siistityn nimen mukaan
   for (const r of allRecs) {
+    // Antisuositus ei kasvata "N× suositeltu" -lukua (Markon tyrmäys ei ole uusi suositus)
+    if (r.antisuositus) continue;
     const avain = teosAvain(r.teos);
     if (!avain) continue;
     const slug = slugiksi(avain);
@@ -267,10 +269,10 @@ const Suosikit = (() => {
 
 // suosittelija = valintalistan rajaus (?suosittelija=<slug>, pysyy samassa näkymässä);
 // profiili = suosittelijan oma sivu (/suosittelija/<slug>), johon tullaan nimeä klikkaamalla
-let tila = { nakyma: 'koti', q: '', kategoria: '', suosittelija: '', profiili: '', vuosi: '', teos: '', toistuvat: '', jarjestys: 'uusin' };
+let tila = { nakyma: 'koti', q: '', kategoria: '', suosittelija: '', profiili: '', vuosi: '', teos: '', toistuvat: '', anti: '', jarjestys: 'uusin' };
 
 // Rajaukset, jotka "Tyhjennä rajaukset" nollaa (suosittelijan sivu itse säilyy)
-const TYHJAT_RAJAUKSET = { q: '', kategoria: '', suosittelija: '', vuosi: '', teos: '', toistuvat: '' };
+const TYHJAT_RAJAUKSET = { q: '', kategoria: '', suosittelija: '', vuosi: '', teos: '', toistuvat: '', anti: '' };
 
 const onSuositusPolku = polku => polku.startsWith('/suositus/');
 
@@ -292,6 +294,7 @@ function parsiOsoite(osoite) {
     vuosi: p.get('vuosi') || '',
     teos: teosRyhmat.has(p.get('teos')) ? p.get('teos') : '',
     toistuvat: p.get('toistuvat') === '1' ? '1' : '',
+    anti: p.get('anti') === '1' ? '1' : '',
     jarjestys: p.get('jarjestys') === 'vanhin' ? 'vanhin' : 'uusin',
     valilehti: 'top',
   };
@@ -333,6 +336,7 @@ function rakennaOsoite(t) {
     if (t.vuosi) p.set('vuosi', t.vuosi);
     if (t.teos) p.set('teos', t.teos);
     if (t.toistuvat) p.set('toistuvat', '1');
+    if (t.anti) p.set('anti', '1');
     if (t.jarjestys === 'vanhin') p.set('jarjestys', 'vanhin');
   }
   const kysely = p.toString();
@@ -578,6 +582,7 @@ function suodata(t, ohita = '') {
   if (t.vuosi && ohita !== 'vuosi') recs = recs.filter(r => r.vuosi === t.vuosi);
   if (t.teos) recs = recs.filter(r => r.teosSlug === t.teos);
   if (t.toistuvat && ohita !== 'toistuvat') recs = recs.filter(r => r.toisto > 1);
+  if (t.anti && ohita !== 'anti') recs = recs.filter(r => r.antisuositus);
   const q = hakuNormalisoi(t.q);
   if (q && ohita !== 'q') {
     const osumat = hakuOsumat(q);
@@ -587,7 +592,7 @@ function suodata(t, ohita = '') {
 }
 
 const aktiivisiaRajauksia = t =>
-  [t.q, t.kategoria, t.suosittelija, t.vuosi, t.teos, t.toistuvat].filter(Boolean).length;
+  [t.q, t.kategoria, t.suosittelija, t.vuosi, t.teos, t.toistuvat, t.anti].filter(Boolean).length;
 
 // Hakusanojen korostus kortin otsikossa ja kuvauksessa
 let korostus = null;
@@ -943,12 +948,16 @@ function renderKategoriat() {
   const toistuvia = suodata(tila, 'toistuvat').filter(r => r.toisto > 1).length;
   const toistuvatChip = `<button type="button" class="chippi chippi-toisto" data-toistuvat aria-pressed="${Boolean(tila.toistuvat)}"
     ${!toistuvia && !tila.toistuvat ? 'disabled' : ''}>${CHIP_IKONIT ? ikoni('toisto') : ''}Useasti suositellut<span class="chippi-maara">${luku(toistuvia)}</span></button>`;
+  // Antisuositukset ("älkää katsoko") omana oranssina suodattimenaan
+  const anteja = suodata(tila, 'anti').filter(r => r.antisuositus).length;
+  const antiChip = `<button type="button" class="chippi chippi-anti" data-anti aria-pressed="${Boolean(tila.anti)}"
+    ${!anteja && !tila.anti ? 'disabled' : ''}>Antisuositukset<span class="chippi-maara">${luku(anteja)}</span></button>`;
   // Vuosirajaus (Tilastojen vuosijanasta tai jaetusta linkistä) näkyy poistettavana chippinä
   // rivin alussa, koska etusivulla ei enää ole vuosijanaa
   const vuosiChip = tila.vuosi && !tila.profiili
     ? `<button type="button" class="chippi chippi-vuosi" data-poista="vuosi" aria-pressed="true" aria-label="Vuosi ${escapeHtml(tila.vuosi)}, poista rajaus">${escapeHtml(tila.vuosi)}${ikoni('sulje')}</button><span class="chippi-erotin" aria-hidden="true"></span>`
     : '';
-  $('#kategoriarivi').innerHTML = vuosiChip + html + '<span class="chippi-erotin" aria-hidden="true"></span>' + toistuvatChip;
+  $('#kategoriarivi').innerHTML = vuosiChip + html + '<span class="chippi-erotin" aria-hidden="true"></span>' + toistuvatChip + antiChip;
   // Valittu chip näkyviin rivillä (vain vaakasuunnassa – sivu ei saa liikkua)
   const rivi = $('#kategoriarivi');
   const valittu = rivi.querySelector('.chippi[aria-pressed="true"]');
@@ -992,6 +1001,7 @@ function renderTulosotsake(tulos) {
   if (tila.kategoria) osat.push(kategoria(tila.kategoria).monikko);
   if (tila.vuosi) osat.push(tila.vuosi);
   if (tila.toistuvat) osat.push('Useasti suositellut');
+  if (tila.anti) osat.push('Antisuositukset');
   if (tila.suosittelija) osat.push(tila.suosittelija);
   let otsikko = 'Kaikki suositukset';
   if (tila.teos) otsikko = teosRyhmat.get(tila.teos).nimi;
@@ -1121,6 +1131,10 @@ function rakennaLinkit(rec) {
 
 // Mainosmerkintä (KKV): kun affiliate-linkit tulevat, linkki saa luokan "mainos",
 // jolloin chippiin tulee näkyvä Mainos-merkintä (style.css .rec-link.mainos)
+// Antisuositus: oranssi merkki kortissa ja suosituksen näkymässä
+const antiMerkki = rec => rec.antisuositus
+  ? `<span class="rec-badge anti" title="Puhuja varoittaa tästä – suositus jättää väliin">${ikoni('peukalo-alas')}Antisuositus</span>` : '';
+
 const linkkiHtml = ([nimi, url], luokka = 'rec-link') =>
   `<a href="${escapeHtml(url)}" target="_blank" rel="noopener" class="${luokka}">${escapeHtml(nimi)}${ikoni('ulos')}</a>`;
 
@@ -1141,9 +1155,10 @@ function renderCard(rec) {
     : `<a class="henkilo" href="${suosittelijaUrl(rec.suosittelija)}" data-reitti>${avatar(rec.suosittelija)}${korosta(rec.suosittelija)}</a>`;
 
   return `
-    <article class="rec-card" data-id="${rec.id}">
+    <article class="rec-card${rec.antisuositus ? ' anti' : ''}" data-id="${rec.id}">
       <div class="rec-top">
         ${kategoriaMerkki(rec.paakategoria)}
+        ${antiMerkki(rec)}
         ${rec.kuulijasuositus ? `<span class="rec-badge listener">${ikoni('kuulokkeet')}Kuulijan suositus</span>` : ''}
         ${toistoMerkki(rec)}
         <button type="button" class="suosikki-nappi" data-suosikki="${rec.id}" aria-pressed="${suosikki}"
@@ -1930,16 +1945,17 @@ function renderTarkka(rec, arvottu) {
 
   return `
     ${arvottu ? `<p class="kupla kupla-tervehdys sitten-kun">${escapeHtml(sittenKun(rec))}</p>` : ''}
-    <article class="tarkka">
+    <article class="tarkka${rec.antisuositus ? ' anti' : ''}">
       <div class="rec-top">
         ${kategoriaMerkki(rec.paakategoria)}
+        ${antiMerkki(rec)}
         ${rec.kuulijasuositus ? `<span class="rec-badge listener">${ikoni('kuulokkeet')}Kuulijan suositus</span>` : ''}
       </div>
       <h2 class="tarkka-otsikko" id="tarkkaOtsikko">${escapeHtml(rec.teos)}</h2>
       ${onTuntematon(rec.suosittelija)
         ? `<p class="henkilo henkilo-iso henkilo-tuntematon">${avatar('?', 'avatar-l')}<span>Suosittelija ei tiedossa</span></p>`
         : `<a class="henkilo henkilo-iso" href="${suosittelijaUrl(rec.suosittelija)}" data-reitti>${avatar(rec.suosittelija, 'avatar-l')}
-            <span><span class="henkilo-nimi">${escapeHtml(rec.suosittelija)}</span><span class="henkilo-rooli">suosittelee · ${s ? luku(s.maara) : 1} suositusta</span></span></a>`}
+            <span><span class="henkilo-nimi">${escapeHtml(rec.suosittelija)}</span><span class="henkilo-rooli">${rec.antisuositus ? 'antisuosittelee' : 'suosittelee'} · ${s ? luku(s.maara) : 1} suositusta</span></span></a>`}
       ${rec.kuvaus ? `<p class="tarkka-kuvaus">${escapeHtml(rec.kuvaus)}</p>` : ''}
       <div class="soitin-paikka"></div>
       ${(rec.kategoriat || []).length ? `<p class="rec-tags">${rec.kategoriat.map(t => `<span class="rec-tag">${escapeHtml(t)}</span>`).join('')}</p>` : ''}
@@ -1997,15 +2013,19 @@ try {
 
 // Genrerajaus toimii kuin valintaruudut: mikä tahansa yhdistelmä pääkategorioita, tai
 // tyhjä = kaikki. Valinta vaikuttaa seuraavaan vetoon (ei pyöräytä itse).
+// Antisuositukset eivät kuulu arpakoneeseen: "yllätä minut" ei saa arpoa "älkää katsoko"
+const arvontaPohjaKaikki = () => allRecs.filter(r => !r.antisuositus);
+
 function arvontaPohja() {
-  if (!Arvonta.rajaus.length) return allRecs;
-  const pohja = allRecs.filter(r => Arvonta.rajaus.includes(r.paakategoria));
-  return pohja.length ? pohja : allRecs;
+  const kaikki = arvontaPohjaKaikki();
+  if (!Arvonta.rajaus.length) return kaikki;
+  const pohja = kaikki.filter(r => Arvonta.rajaus.includes(r.paakategoria));
+  return pohja.length ? pohja : kaikki;
 }
 
 function renderArvontaRajaus() {
   const maarat = {};
-  for (const r of allRecs) maarat[r.paakategoria] = (maarat[r.paakategoria] || 0) + 1;
+  for (const r of allRecs) if (!r.antisuositus) maarat[r.paakategoria] = (maarat[r.paakategoria] || 0) + 1;
   const chippi = (arvo, nimi, n, paalla) => `<button type="button" class="chippi" data-arvontarajaus="${arvo}"
     aria-pressed="${paalla}">${escapeHtml(nimi)}<span class="chippi-maara">${luku(n)}</span></button>`;
   // Genret suosituimmasta alkaen; vain ne, joissa on tarpeeksi suosituksia, jotta rulla ei
@@ -2019,7 +2039,7 @@ function renderArvontaRajaus() {
   }
   Arvonta.rajaus = Arvonta.rajaus.filter(k => genret.includes(k));
   $('#arvontaRajaus').innerHTML =
-    chippi('', 'Kaikki', allRecs.length, !Arvonta.rajaus.length) +
+    chippi('', 'Kaikki', arvontaPohjaKaikki().length, !Arvonta.rajaus.length) +
     genret.map(k => chippi(k, KATEGORIAT[k].monikko, maarat[k], Arvonta.rajaus.includes(k))).join('');
 }
 
@@ -2582,6 +2602,10 @@ function setupListeners() {
     }
     if (kohde.dataset.toistuvat !== undefined) {
       paivitaTila({ toistuvat: tila.toistuvat ? '' : '1' });
+      return;
+    }
+    if (kohde.dataset.anti !== undefined) {
+      paivitaTila({ anti: tila.anti ? '' : '1' });
       return;
     }
 

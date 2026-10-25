@@ -45,6 +45,11 @@
   --vari-teksti: #3bdaa5;
   --vari-tausta: rgba(59, 218, 165, 0.16);
   --vari-paalla: #111111;
+  /* Antisuositus ("älkää katsoko"): ainoa oranssi, vain antisuositusten merkeissä.
+     Teksti ≥ 4,5:1 kortin taustaa vasten molemmissa teemoissa. */
+  --anti: oklch(0.78 0.15 60);
+  --anti-tausta: oklch(0.78 0.15 60 / 0.14);
+  --anti-paalla: #111111;
 
   /* Kategoriabadge */
   --badge-teksti: #858585;
@@ -146,6 +151,9 @@
     --vari-teksti: #086a4b;
     --vari-tausta: rgba(10, 125, 88, 0.14);
     --vari-paalla: #ffffff;
+    --anti: oklch(0.52 0.15 48);
+    --anti-tausta: oklch(0.52 0.15 48 / 0.1);
+    --anti-paalla: #ffffff;
 
     --badge-teksti: #696964;
     --badge-tausta: rgba(34, 34, 34, 0.06);
@@ -204,6 +212,9 @@
   --vari-teksti: #086a4b;
   --vari-tausta: rgba(10, 125, 88, 0.14);
   --vari-paalla: #ffffff;
+  --anti: oklch(0.52 0.15 48);
+  --anti-tausta: oklch(0.52 0.15 48 / 0.1);
+  --anti-paalla: #ffffff;
 
   --badge-teksti: #696964;
   --badge-tausta: rgba(34, 34, 34, 0.06);
@@ -1852,6 +1863,21 @@ button {
   color: var(--teksti-ensisijainen);
 }
 
+.rec-badge.anti {
+  border-color: transparent;
+  background: var(--anti-tausta);
+  color: var(--anti);
+}
+
+/* Antisuosituskortti: oranssi viiva vasemmassa reunassa, otsikon hover oranssi */
+.rec-card.anti {
+  box-shadow: inset 3px 0 0 var(--anti);
+}
+
+.rec-card.anti:hover .rec-avaa {
+  color: var(--anti);
+}
+
 .rec-badge .ikoni {
   width: 14px;
   height: 14px;
@@ -2829,6 +2855,23 @@ a.henkilo:hover .henkilo-nimi {
 
 .chippi-toisto[aria-pressed="true"] .ikoni {
   color: inherit;
+}
+
+.chippi-anti::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--anti);
+}
+
+.chippi-anti[aria-pressed="true"] {
+  background: var(--anti);
+  color: var(--anti-paalla);
+}
+
+.chippi-anti[aria-pressed="true"]::before {
+  background: currentColor;
 }
 
 /* ===== TILASTOT ===== */
