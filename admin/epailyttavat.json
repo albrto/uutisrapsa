@@ -1051,7 +1051,7 @@
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Jukka Huusko",
+        "suosittelija": "Joona Aaltonen",
         "teos": "Madoff: The Monster of Wall Street",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -1059,7 +1059,7 @@
           "talousrikos",
           "pyramidihuijaus"
         ],
-        "kuvaus": "Netflixissä oleva dokumenttisarja Bernie Madoffista, joka pyöritti historian suurinta pyramidihuijausta ja vei valtavia rahamääriä sekä tavallisilta ihmisiltä että suursijoittajilta.",
+        "kuvaus": "Netflixin dokumenttisarja Bernie Madoffista, joka pyöritti historian suurinta pyramidihuijausta ja vei valtavia rahamääriä sekä tavallisilta ihmisiltä että suursijoittajilta. Joona vinkkasi sen Heinin Theranos-suosituksen jatkoksi.",
         "google_linkki": "https://www.google.com/search?q=Madoff+The+Monster+of+Wall+Street+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Madoff+The+Monster+of+Wall+Street",
         "alkupera": "",
@@ -1091,7 +1091,7 @@
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Heini Pitkänen",
+        "suosittelija": "Joona Aaltonen",
         "teos": "Unelmakoti Sisiliassa",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -1102,6 +1102,45 @@
         "kuvaus": "Yle-sarja, jonka neljännellä tuotantokaudella ruotsalainen Mari ajaa siskonsa kanssa halki Euroopan Sisiliaan keräten matkan varrelta vintage-huonekaluja ja -vaatteita. Pariisin antiikkimarkkinat ovat yksi kohokohta.",
         "google_linkki": "https://www.google.com/search?q=Unelmakoti+Sisiliassa+Yle",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Unelmakoti+Sisiliassa",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Jukka Huusko",
+        "teos": "Dirty Pop: The Boy Band Scam",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "huijaus",
+          "musiikki"
+        ],
+        "kuvaus": "Tuore dokumenttisarja poikabändien tuottajasta Lou Pearlmanista, joka paljastui pyramidihuijariksi. Jukka vinkkasi sen pyramidihuijauskeskustelun jatkoksi.",
+        "google_linkki": "https://www.google.com/search?q=Dirty+Pop+The+Boy+Band+Scam",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Dirty+Pop+The+Boy+Band+Scam",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Jukka Huusko",
+        "teos": "HS:n artikkeli Israelin ja Iranin suhteiden historiasta",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "Lähi-itä",
+          "ulkopolitiikka"
+        ],
+        "kuvaus": "Helsingin Sanomien juttu siitä, miten Israelin ja Iranin suhteet ovat kehittyneet ystävällismielisistä, jopa liittolaismaisista nykyiseen vihamielisyyteen. Jukka suositteli sitä Lähi-idän keskustelun lopuksi.",
+        "google_linkki": "https://www.google.com/search?q=HS+Israel+Iran+suhteet+historia+elokuu+2024",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -14355,6 +14394,46 @@
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Hiihtäminen lasten perässä",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "hiihto",
+          "liikunta",
+          "perhe"
+        ],
+        "kuvaus": "Marko kertoo hiihtäneensä nuorena kilpaa ja ajavansa itsensä yksin hiihtäessä nopeasti puhki. Lasten perässä hiihtäminen pitää vauhdin maltillisena, joten siitä jaksaa nauttia.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Yle Areenan historia-aiheiset radiodokumentit (esim. Viikinkiaika, Tautien historia: kolera)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "radiodokumentti",
+          "Yle Areena"
+        ],
+        "kuvaus": "Kuulijan vinkistä Tuomas sukelsi Yle Areenan radiopuolen historiadokumentteihin, kuten 28-osaiseen Viikinkiaika-sarjaan ja Tautien historia: kolera -ohjelmaan. Hänen mielestään ne ovat laadukasta ja kiinnostavaa tietosisältöä, jota kannattaa kuunnella podcasteina.",
+        "google_linkki": "https://www.google.com/search?q=Yle+Areena+Viikinkiaika+radio",
+        "lisatieto_linkki": "https://open.spotify.com/search/Viikinkiaika",
+        "alkupera": "yle",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -14896,7 +14975,7 @@
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Rasmus Helaniemi",
+        "suosittelija": "Oskari Eronen",
         "teos": "Ökyrikkaat aasialaiset -trilogia",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -14904,7 +14983,7 @@
           "komedia",
           "seurapiirit"
         ],
-        "kuvaus": "Kevin Kwanin kolmiosainen viihdekirjallisuuden trilogia (Ökyrikkaat aasialaiset, Ökyrikas tyttöystävä, Ökyrikkaiden ongelmia), joka kertoo käsittämättömän rikkaiden ulkokiinalaisten seurapiirielämästä ja suvun sisäisestä juonittelusta. Erinomaista kesälomakevyttä luettavaa.",
+        "kuvaus": "Kevin Kwanin kolmiosainen viihdekirjallisuuden trilogia (Ökyrikkaat aasialaiset, Ökyrikas tyttöystävä, Ökyrikkaiden ongelmia), joka kertoo käsittämättömän rikkaiden ulkokiinalaisten seurapiirielämästä ja suvun sisäisestä juonittelusta. Oskarin mielestä erinomaista kesälomaluettavaa.",
         "google_linkki": "https://www.google.com/search?q=%C3%96kyrikkaat+aasialaiset+Kevin+Kwan",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Crazy+Rich+Asians+Kevin+Kwan",
         "alkupera": "",
@@ -14916,7 +14995,7 @@
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Oskari Eronen",
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Kesäkasvispizza",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -14924,7 +15003,7 @@
           "kesäruoka",
           "resepti"
         ],
-        "kuvaus": "Kesäinen kotitekoinen pizza kesäkurpitsalla, kirsikkatomaateilla ja oliiveilla. Loistava resepti kotibileisiin ja sosiaalisiin tilanteisiin – toimii myös peston kanssa.",
+        "kuvaus": "Kesäinen kotitekoinen pizza kesäkurpitsalla, kirsikkatomaateilla ja oliiveilla – resepti löytyy googlaamalla. Rasmus suosittelee jättämään peston pois ja tarjoamaan pizzaa vaikka kotibileissä.",
         "google_linkki": "https://www.google.com/search?q=kesäkasvispizza+resepti",
         "lisatieto_linkki": "https://www.google.com/search?q=kesäkasvispizza+resepti",
         "alkupera": "",
@@ -25475,7 +25554,7 @@
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Heini Pitkänen",
+        "suosittelija": "Oskari Eronen",
         "teos": "Aurinkokaupunki",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -25483,7 +25562,7 @@
           "ikääntyminen",
           "klassikko"
         ],
-        "kuvaus": "Tove Janssonin romaani, joka sijoittuu ikäihmisten vierastaloon Floridan Saint Petersburgissa. Kirja käsittelee vanhentumista mielenkiintoisin hahmoin ja tunnelmallisesti, vaikka juoni on vähäeleinen.",
+        "kuvaus": "Tove Janssonin romaani, joka sijoittuu ikäihmisten vierastaloon Floridan Saint Petersburgissa. Oskarin mielestä kirja käsittelee vanhenemista mielenkiintoisin hahmoin ja tunnelmallisesti, vaikka juoni on vähäeleinen.",
         "google_linkki": "https://www.google.com/search?q=Tove+Jansson+Aurinkokaupunki",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Aurinkokaupunki+Tove+Jansson",
         "alkupera": "",
@@ -25495,17 +25574,17 @@
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Oskari Eronen",
-        "teos": "Skamanda",
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Scamanda",
         "paakategoria": "podcast",
         "kategoriat": [
           "tosi-tarina",
           "huijaus",
           "suomalainen podcast"
         ],
-        "kuvaus": "Lime Scene Productionsin podcast vuosikymmeniä kestäneestä uskomattomasta huijaustarinasta. Kahdeksan noin tunnin mittaista jaksoa, joita kuuntelee suu auki.",
-        "google_linkki": "https://www.google.com/search?q=Skamanda+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Skamanda",
+        "kuvaus": "Lionsgate Soundin podcast vuosikymmeniä kestäneestä uskomattomasta huijaustarinasta. Heinin mukaan kahdeksaa noin tunnin mittaista jaksoa kuuntelee suu auki.",
+        "google_linkki": "https://www.google.com/search?q=Scamanda+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Scamanda",
         "alkupera": "kotimainen",
         "lisalinkit": [],
         "antisuositus": false,
@@ -25527,6 +25606,45 @@
         "google_linkki": "https://www.google.com/search?q=Herrasmies-hakkerit+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Herrasmies-hakkerit",
         "alkupera": "kotimainen",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Kaisan Helmi (entinen ravintola Kaisaniemi)",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "kahvila",
+          "Helsinki",
+          "retro"
+        ],
+        "kuvaus": "Kaisaniemen puistossa sijaitseva kahvila, joka on 1800-luvun puolivälistä yksi Helsingin vanhimmista kahvilaravintoloista ja sisustettu menneen maailman henkeen. Rasmus suosittelee sitä retron ystäville.",
+        "google_linkki": "https://www.google.com/search?q=Kaisan+Helmi+Kaisaniemi+Helsinki",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Pinehill Terrace – Kattoterassi Taka-Töölössä",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "terassi",
+          "Helsinki"
+        ],
+        "kuvaus": "Parkkipaikan vieressä sijaitseva kattoterassi Taka-Töölössä. Rasmus suosittelee sitä urbaanina ja jännänä kesäisenä vierailukohteena.",
+        "google_linkki": "https://www.google.com/search?q=kattoterassi+Taka-Töölö",
+        "lisatieto_linkki": "",
+        "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
