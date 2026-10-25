@@ -1208,6 +1208,8 @@ const LINKKIEN_NIMET = [
   ['nymag.com', 'New York Mag'],
   ['theathletic.com', 'The Athletic'],
   ['theconversation.com', 'The Conversation'],
+  ['niemanlab.org', 'Nieman Lab'],
+  ['jezebel.com', 'Jezebel'],
   ['wikipedia.org', 'Wikipedia'],
   ['store.steampowered.com', 'Steam'],
   ['igdb.com', 'IGDB'],
