@@ -90,7 +90,9 @@ function muunnaPaatokset(paatokset, tallennetut, suositukset, korjaukset, aika) 
     }
     merkinta.viety = aika;
   }
-  return { korjaukset: [...muokkaukset.values(), ...poistot, ...lisaykset], tallennetut: uusiKirjanpito };
+  // lahde: admin-näkymän Muutetut-välilehti erottaa tarkistuksesta tulleet käsin tehdyistä
+  const uudet = [...muokkaukset.values(), ...poistot, ...lisaykset].map(k => ({ ...k, lahde: 'tarkistus' }));
+  return { korjaukset: uudet, tallennetut: uusiKirjanpito };
 }
 
 module.exports = { muunnaPaatokset, TarkistusVirhe };

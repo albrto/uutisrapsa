@@ -316,6 +316,33 @@
       padding: 0 32px 110px;
     }
 
+    /* Näkymän selite + Tarkistettavat-välilehden osiot */
+    .nakyma-ohje {
+      max-width: 1100px;
+      margin: 18px auto 0;
+      padding: 0 32px;
+      color: var(--teksti-toissijainen);
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    body[data-nakyma="tarkistettavat"] .nakyma-ohje,
+    body[data-nakyma="tarkistettavat"] main { max-width: 1400px; }
+    body[data-nakyma="tarkistettavat"] main { padding-bottom: 0; margin-bottom: 0; }
+    .osio-otsikko {
+      font-size: 13px;
+      font-weight: 600;
+      font-family: var(--fontti-koodi);
+      color: var(--teksti-ensisijainen);
+      margin: 8px 0 12px;
+    }
+    .osio-otsikko span { color: var(--teksti-himmea); font-weight: 400; margin-left: 6px; }
+    #muutos-suodatin { width: auto; }
+    .lahde-rivi { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+    .badge-lahde::before { display: none; }
+    .lahde-tarkistus { color: var(--aksentti); background: transparent; border-color: var(--aksentti-reuna); }
+    .lahde-kasin, .lahde-vahvistettu { color: var(--teksti-toissijainen); background: transparent; border-color: var(--reuna); }
+    .lahde-tallentamatta { color: var(--varoitus); background: var(--varoitus-tausta); border-color: var(--varoitus-reuna); }
+
     /* === JAKSOKORTTI === */
     .episode-card {
       background: var(--bg-kortti);
@@ -1049,6 +1076,7 @@
     @media (max-width: 640px) {
       header { padding: 12px 16px; }
       main { padding: 0 12px 100px; margin-top: 16px; }
+      .nakyma-ohje { padding: 0 12px; }
       .header-inner { flex-wrap: nowrap; gap: 12px; }
       h1 { font-size: 17px; }
       h1 .h1-aksentti { display: block; }
@@ -1118,10 +1146,16 @@
     <svg class="ikoni search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
     <input type="text" id="search" placeholder="Hae jaksoa tai suosittelijaa..." />
   </div>
-  <button class="filter-btn active" id="view-suspicious" onclick="setMainView('suspicious')">Vain epäilyttävät</button>
+  <button class="filter-btn active" id="view-tarkistettavat" onclick="setMainView('tarkistettavat')">Tarkistettavat</button>
   <button class="filter-btn" id="view-all" onclick="setMainView('all')">Kaikki</button>
-  <button class="filter-btn" id="view-corrected" onclick="setMainView('corrected')">Korjatut</button>
-  <button class="filter-btn" id="view-tarkistus" onclick="setMainView('tarkistus')">Tarkistus</button>
+  <button class="filter-btn" id="view-muutetut" onclick="setMainView('muutetut')">Muutetut</button>
+  <select class="custom-input" id="muutos-suodatin" aria-label="Näytä muutokset" hidden>
+    <option value="kaikki">Kaikki muutokset</option>
+    <option value="tarkistus">Tarkistuksesta hyväksytyt</option>
+    <option value="kasin">Käsin korjatut</option>
+    <option value="vahvistettu">Nimi vahvistettu oikeaksi</option>
+    <option value="tallentamatta">Tallentamatta</option>
+  </select>
   <div class="edistyminen">
     <div class="progress-bar-wrap">
       <div class="progress-bar-fill" id="global-progress" style="transform:scaleX(0)"></div>
@@ -1131,6 +1165,7 @@
   </div>
 </header>
 
+<p class="nakyma-ohje" id="nakyma-ohje"></p>
 <main id="main-list">
   <div class="empty" id="loading">
     <h2>Ladataan dataa...</h2>
@@ -1232,7 +1267,7 @@ let DATA_FULL = null;       // suositukset.json data (ladataan tarvittaessa)
 let CORRECTIONS = {};    // { "jakso_id:r_idx": { ...uudet_kentat... } }
 let NEW_RECS = [];       // tallentamattomat lisäykset: { tmp_id, jakso_id, uusi_data }
 let newRecSeq = 0;
-let mainView = 'suspicious'; // 'suspicious', 'all', 'corrected'
+let mainView = 'tarkistettavat'; // 'tarkistettavat', 'all', 'muutetut'
 let currentSearch = '';
 let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
 const audioObjects = {}; // jakso_id → Audio (puuttui: Toista-nappi kaatui ReferenceErroriin)
@@ -1350,10 +1385,8 @@ function loadDataScriptAndInit() {
         }
       } catch(e) { }
 
-      DATA = DATA_SUSPICIOUS;
-      updateStats();
       updateSaveBtn();  // Tarkistus-välilehden tallentamaton luonnos näkyy heti
-      renderList();
+      setMainView(mainView);
     } else {
       document.getElementById('loading').innerHTML = `
         <h2>Datan lataus epäonnistui</h2>
@@ -1542,9 +1575,42 @@ function getCorr(jakso_id, r_idx) {
   }
   return null;
 }
+// Mistä suosituksen muutokset tulivat: 'tarkistus' (Tarkistus-välilehdeltä
+// hyväksytty, korjausmerkinnän lahde), 'kasin' (korjattu käsin), 'vahvistettu'
+// (nimi vahvistettu oikeaksi = ohitukset.json), 'tallentamatta'
+function muutoksenLahteet(jakso_id, r_idx) {
+  const lahteet = new Set();
+  const paikallinen = CORRECTIONS[corrKey(jakso_id, r_idx)];
+  if (paikallinen && !paikallinen.saved && (paikallinen.is_edited || paikallinen.skipped)) lahteet.add('tallentamatta');
+  for (const k of window.KORJAUKSET || []) {
+    if (k.jakso_id === jakso_id && k.r_idx === r_idx) lahteet.add(k.lahde === 'tarkistus' ? 'tarkistus' : 'kasin');
+  }
+  if ((window.OHITUKSET || []).some(o => o.jakso_id === jakso_id && o.r_idx === r_idx)) lahteet.add('vahvistettu');
+  return lahteet;
+}
+function naytetaanMuutettuna(jakso_id, r_idx) {
+  const lahteet = muutoksenLahteet(jakso_id, r_idx);
+  const suodatin = document.getElementById('muutos-suodatin').value;
+  return suodatin === 'kaikki' ? lahteet.size > 0 : lahteet.has(suodatin);
+}
+const nakyvatUudet = () => ['kaikki', 'tallentamatta'].includes(document.getElementById('muutos-suodatin').value);
+const LAHDE_NIMET = { tarkistus: 'Tarkistuksesta', kasin: 'Käsin korjattu', vahvistettu: 'Nimi vahvistettu', tallentamatta: 'Tallentamatta' };
+function lahdeMerkit(jakso_id, r_idx) {
+  return [...muutoksenLahteet(jakso_id, r_idx)]
+    .map(l => `<span class="badge badge-lahde lahde-${l}">${LAHDE_NIMET[l]}</span>`).join('');
+}
+// Jaksokortin otsikkoon Muutetut-näkymässä: montako muutosta mistäkin lähteestä
+function lahdeYhteenveto(jakso) {
+  const maarat = {};
+  for (const r of jakso.suositukset) for (const l of muutoksenLahteet(jakso.jakso_id, r.r_idx)) maarat[l] = (maarat[l] || 0) + 1;
+  const uusia = NEW_RECS.filter(n => n.jakso_id === jakso.jakso_id).length;
+  if (uusia) maarat.tallentamatta = (maarat.tallentamatta || 0) + uusia;
+  return Object.keys(LAHDE_NIMET).filter(l => maarat[l])
+    .map(l => `<span class="badge badge-lahde lahde-${l}">${LAHDE_NIMET[l]} ${maarat[l]}</span>`).join('');
+}
 function setCorr(jakso_id, r_idx, val) { CORRECTIONS[corrKey(jakso_id, r_idx)] = val; updateStats(); updateSaveBtn(); }
 function totalRecs() { 
-  if (mainView === 'suspicious') {
+  if (mainView === 'tarkistettavat') {
     return DATA.reduce((s, j) => s + j.suositukset.filter(r => r.is_suspicious).length, 0); 
   }
   return DATA.reduce((s, j) => s + j.suositukset.length, 0); 
@@ -1602,39 +1668,51 @@ function showToast(msg, duration = 2500) {
 // =====================================================
 // RENDER (sama kuin aiemmin)
 // =====================================================
+// Välilehdet (25.10.2026): Tarkistettavat = kaikki avoimet epäillyt virheet
+// (tarkistusajon ehdotukset + validaattorin epäilyttävät nimet), Kaikki,
+// Muutetut = tallennetut ja tallentamattomat muutokset alkuperineen.
+const NAKYMA_OHJEET = {
+  tarkistettavat: 'Avoimet epäillyt virheet: tarkistusajon ehdotukset sekä suosittelijanimet, joita ei löydy jakson osallistujista.',
+  all: 'Kaikki jaksot ja suositukset. Täällä voit korjata, lisätä, piilottaa ja järjestää suosituksia käsin.',
+  muutetut: 'Suositukset, joita on muutettu – Tarkistuksesta hyväksytyt, käsin korjatut ja oikeiksi vahvistetut nimet. Jokaisessa näkyy, mistä muutos tuli.',
+};
+
 function setMainView(view) {
   mainView = view;
-  document.getElementById('view-suspicious').classList.toggle('active', view === 'suspicious');
-  document.getElementById('view-all').classList.toggle('active', view === 'all');
-  document.getElementById('view-corrected').classList.toggle('active', view === 'corrected');
-  document.getElementById('view-tarkistus').classList.toggle('active', view === 'tarkistus');
+  document.body.dataset.nakyma = view;
+  for (const v of ['tarkistettavat', 'all', 'muutetut']) {
+    document.getElementById('view-' + v).classList.toggle('active', view === v);
+  }
+  document.getElementById('muutos-suodatin').hidden = view !== 'muutetut';
+  document.getElementById('nakyma-ohje').textContent = NAKYMA_OHJEET[view];
+  // Tarkistettavissa edistyminen näkyy Tarkistus-osion omassa palkissa
+  document.querySelector('.filterbar .edistyminen').hidden = view === 'tarkistettavat';
 
-  // Tarkistus-välilehdellä on oma lista ja transkriptiopaneeli (admin/tarkistus.js)
-  document.getElementById('main-list').hidden = view === 'tarkistus';
-  document.querySelector('.filterbar .edistyminen').hidden = view === 'tarkistus';
-  if (view === 'tarkistus') {
+  if (view === 'tarkistettavat') {
+    DATA = DATA_SUSPICIOUS || [];
+    updateStats();
+    renderList();
     Tarkistus.nayta();
     return;
   }
   Tarkistus.piilota();
+  document.getElementById('main-list').hidden = false;
 
-  if (view === 'all' || view === 'corrected') {
-    if (!DATA_FULL || DATA_FULL.length === 0) {
-      loadFullData();
-      return;
-    }
-    DATA = DATA_FULL;
-  } else {
-    DATA = DATA_SUSPICIOUS || [];
+  if (!DATA_FULL || DATA_FULL.length === 0) {
+    loadFullData();
+    return;
   }
+  DATA = DATA_FULL;
   updateStats();
   renderList();
 }
 
+document.getElementById('muutos-suodatin').addEventListener('change', () => renderList());
+
 document.getElementById('search').addEventListener('input', e => {
   currentSearch = e.target.value.toLowerCase();
-  if (mainView === 'tarkistus') Tarkistus.piirra();
-  else renderList();
+  renderList();
+  if (mainView === 'tarkistettavat') Tarkistus.piirra();
 });
 
 function isJaksoResolved(jakso) {
@@ -1664,17 +1742,16 @@ function renderList() {
     }
 
     // 2. View filtering
-    if (mainView === 'suspicious') {
+    if (mainView === 'tarkistettavat') {
       const hasUnresolved = jakso.suositukset.some(r => {
         if (!r.is_suspicious) return false;
         const c = getCorr(jakso.jakso_id, r.r_idx);
         return !(c && (c.skipped || c.is_edited));
       });
       if (!hasUnresolved) return false;
-    } else if (mainView === 'corrected') {
-      const hasCorrection = jakso.suositukset.some(r => !!getCorr(jakso.jakso_id, r.r_idx))
-        || NEW_RECS.some(n => n.jakso_id === jakso.jakso_id);
-      if (!hasCorrection) return false;
+    } else if (mainView === 'muutetut') {
+      if (!jakso.suositukset.some(r => naytetaanMuutettuna(jakso.jakso_id, r.r_idx))
+          && !(nakyvatUudet() && NEW_RECS.some(n => n.jakso_id === jakso.jakso_id))) return false;
     }
 
     return true;
@@ -1682,12 +1759,23 @@ function renderList() {
 
   const container = document.getElementById('main-list');
 
+  // Tarkistettavissa epäilyttävät nimet ovat oma osionsa Tarkistus-ehdotusten
+  // yläpuolella — ja piilossa kokonaan, kun avoimia ei ole
+  if (mainView === 'tarkistettavat') {
+    container.hidden = filtered.length === 0;
+    container.innerHTML = filtered.length === 0 ? '' : `
+      <h2 class="osio-otsikko">Epäilyttävät suosittelijanimet <span>${filtered.length} jaksoa</span></h2>
+      ${filtered.map(jakso => renderCard(jakso)).join('')}
+      <h2 class="osio-otsikko">Tarkistusajon ehdotukset</h2>`;
+    return;
+  }
+
   if (filtered.length === 0) {
-    container.innerHTML = !currentSearch && mainView === 'suspicious'
+    container.innerHTML = mainView === 'muutetut' && !currentSearch
       ? `
       <div class="empty">
-        <h2>Ei epäilyttäviä suosittelijoita</h2>
-        <p>Kaikki nimet täsmäävät jaksojen osallistujiin. Kahvitauon paikka.</p>
+        <h2>Ei muutoksia</h2>
+        <p>Tällä suodattimella ei löytynyt muutettuja suosituksia.</p>
       </div>`
       : `
       <div class="empty">
@@ -1713,7 +1801,7 @@ function renderCard(jakso) {
   const startPct = jakso.kesto_sek > 0 ? Math.min(startSek / jakso.kesto_sek, 0.75) : 0;
 
   // Himmennä vain "epäilyttävät"-näkymässä, ei "kaikki"-näkymässä
-  const showResolved = resolved && mainView === 'suspicious';
+  const showResolved = resolved && mainView === 'tarkistettavat';
 
   return `
 <div class="episode-card${showResolved ? ' resolved' : ''}${openCards.has(jakso.jakso_id) ? ' open' : ''}" id="card-${jakso.jakso_id}">
@@ -1723,7 +1811,8 @@ function renderCard(jakso) {
       <div class="episode-date">${jakso.paivamaara}</div>
       <div class="episode-title">${escHtml(jakso.jakso_otsikko)}</div>
       <div class="episode-badge-row">
-        ${n_open > 0
+        ${mainView === 'muutetut' ? lahdeYhteenveto(jakso)
+          : n_open > 0
           ? `<span class="badge badge-warn">${n_open} auki</span>`
           : `<span class="badge badge-ok">Valmis</span>`}
         ${jakso.rss_osallistujat.length > 0
@@ -1768,15 +1857,18 @@ function renderCard(jakso) {
     </div>
     <div class="recs-section">
       <div class="recs-title-rivi">
-        <div class="recs-title">${mainView === 'suspicious' ? 'Epäilyttävät suositukset' : 'Kaikki suositukset'} (${jakso.suositukset.length} kpl)</div>
-        ${mainView !== 'suspicious' && jakso.suositukset.length > 1 && !JARJESTYS[jakso.jakso_id]
+        <div class="recs-title">${mainView === 'tarkistettavat' ? 'Epäilyttävät suositukset'
+          : mainView === 'muutetut' ? `Muutetut suositukset (${jakso.suositukset.filter(r => naytetaanMuutettuna(jakso.jakso_id, r.r_idx)).length} / ${jakso.suositukset.length})`
+          : `Kaikki suositukset (${jakso.suositukset.length} kpl)`}</div>
+        ${mainView !== 'tarkistettavat' && jakso.suositukset.length > 1 && !JARJESTYS[jakso.jakso_id]
           ? `<button class="jarjestys-btn" onclick="aloitaJarjestys('${jakso.jakso_id}')">⇅ Muuta järjestystä</button>` : ''}
       </div>
       ${JARJESTYS[jakso.jakso_id] ? renderJarjestys(jakso) : `
       ${jakso.suositukset
-          .filter(r => mainView !== 'suspicious' || r.is_suspicious)
+          .filter(r => mainView === 'tarkistettavat' ? r.is_suspicious
+                     : mainView === 'muutetut' ? naytetaanMuutettuna(jakso.jakso_id, r.r_idx) : true)
           .map(rec => renderRec(jakso, rec)).join('')}
-      ${mainView !== 'suspicious' ? renderNewRecs(jakso) : ''}`}
+      ${mainView === 'all' || (mainView === 'muutetut' && nakyvatUudet()) ? renderNewRecs(jakso) : ''}`}
     </div>
   </div>
 </div>`;
@@ -1812,6 +1904,8 @@ function renderRec(jakso, rec) {
     <div class="rec-teos">${piilossa ? `<span class="badge badge-warn" style="margin-right:8px">${rec.piilotettu ? 'Piilotettu sivulta' : 'Piilotetaan'}</span>` : ''}${isEdited && !piilossa ? `<span class="badge ${c.lisatty ? 'badge-new' : 'badge-ok'}" style="margin-right:8px">${c.lisatty ? 'Lisätty' : 'Muokattu'}</span>` : ''}${escHtml(currentRec.teos)}</div>
     <div class="rec-category">${escHtml(currentRec.paakategoria)}</div>
   </div>
+  ${mainView !== 'tarkistettavat' && muutoksenLahteet(jakso.jakso_id, rec.r_idx).size
+    ? `<div class="lahde-rivi">${lahdeMerkit(jakso.jakso_id, rec.r_idx)}</div>` : ''}
   
   ${isSuspicious && !isEdited && !isSkipped ? `
   <div class="rec-alert">
@@ -2337,7 +2431,8 @@ async function verifyCorrect(jakso_id, r_idx) {
     if (response.status === 401) throw new Error('Väärä salasana.');
     if (!response.ok) throw new Error('Palvelinvirhe: ' + response.statusText);
     
-    // Päivitä paikallinen tila: merkitse suositus ei-epäilyttäväksi
+    // Päivitä paikallinen tila: merkitse suositus ei-epäilyttäväksi (ja Muutetut-näkymään vahvistetuksi)
+    (window.OHITUKSET ||= []).push(item);
     const jakso = DATA.find(j => j.jakso_id === jakso_id);
     if (jakso) {
       const rec = jakso.suositukset.find(r => r.r_idx === r_idx);
