@@ -6605,6 +6605,44 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 320,
+    "jakso_id": "tag:soundcloud,2010:tracks/1632294387",
+    "jakso_otsikko": "4.10.2023: Här kommer dödspatrullet!, sote-räjähdys, Täydellinen pako",
+    "paivamaara": "4.10.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/527116ec-cb4e-494d-8b48-d07563a12279.mp3",
+    "kesto_sek": 4560,
+    "kesto_str": "01:16:00",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Jussi Sippola",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa keskustellaan suomalaista mediakenttää kuumottavalla otteella hallinneesta Ruotsin jengirikosaallosta, joka aiheuttaa kauhunväristyksiä, vanhan kyseenalaistamista ja itsetutkiskelua myös Pohjanlahden tällä puolella. Lisäksi aiheina ovat sote-uudistuksen ongelmat ja lääkäreihin liittyvät moraalikysymykset, sekä Täydellinen pako -podcast, jonka Tuomas, Salla ja Paavo Teittin",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Rikollisryhmä, joka näyttää meiltä",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "kolumni",
+          "huumeet",
+          "rikollisuus"
+        ],
+        "kuvaus": "Suomen Lehdistö -ammattijulkaisun kolumni, jossa Jekaterina Mantsinen perustelee, miten huumeiden bilekäyttö ruokkii rikollisjengejä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
+        "google_linkki": "https://www.google.com/search?q=Jekaterina+Mantsinen+Suomen+Lehdist%C3%B6+kolumni",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 335,
     "jakso_id": "tag:soundcloud,2010:tracks/1708212405",
     "jakso_otsikko": "4.1.2024: Pressahuumaa, kirje menneisyydestä, pakkasinferno",
@@ -8638,6 +8676,25 @@ window.VALIDATION_DATA = [
         "google_linkki": "https://www.google.com/search?q=The+Studio+tv-sarja+2025+Seth+Rogen",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Studio+2025",
         "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Lauantaikerho-podcastin vaalijaksot",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "vaalit",
+          "politiikka"
+        ],
+        "kuvaus": "Sohvi suosittelee vaalitenttien sijaan Lauantaikerho-podcastin jaksoja, jotka keskittyvät syvällisesti vaalien aihepiireihin. Hän aikoo kuunnella ne läpi ennen äänestämistä.",
+        "google_linkki": "https://www.google.com/search?q=Lauantaikerho+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Lauantaikerho",
+        "alkupera": "hs",
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
@@ -16177,6 +16234,26 @@ window.VALIDATION_DATA = [
         "lisalinkit": [],
         "antisuositus": true,
         "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Istumapaikan tarjoaminen raskaana oleville julkisissa liikennevälineissä",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "joukkoliikenne",
+          "käytöstavat",
+          "elämänvinkki"
+        ],
+        "kuvaus": "Sohvi kehottaa nousemaan ja tarjoamaan paikkaa raskaana oleville ja huonojalkaisille ratikoissa ja junissa. Hän ehdottaa HSL:lle Lontoon mallin mukaisia Baby on board -merkkejä, jotta kenenkään ei tarvitse arvailla.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -21401,6 +21478,26 @@ window.VALIDATION_DATA = [
         "kuvaus": "Senja Larsenin joukkorahoituksella kustannettu kirja, joka käsittelee Suomen rahapelijärjestelmää kriittisesti. Kirja kokoaa kahden vuoden Twitter-keskustelut ja tutkivan journalismin keinoin kaivettua tietoa Veikkauksen toiminnasta ja peliongelmaisiin suhtautumisesta.",
         "google_linkki": "https://www.google.com/search?q=Veikkauskratia+Senja+Larsen",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Veikkauskratia",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Maria Manner",
+        "teos": "Tuijotustekniikka ajatusten tyhjentämiseen",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "mieli",
+          "rentoutuminen",
+          "elämänvinkki"
+        ],
+        "kuvaus": "Maria luki MTV3:n uutisesta niksin: kun tuijottaa yhtä pistettä silmiä liikuttamatta, häiritsevät ajatukset katoavat mielestä. Hänen mukaansa se toimii yllättävän hyvin, vaikka Marko ei usko siihen.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,

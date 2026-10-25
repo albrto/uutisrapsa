@@ -1536,6 +1536,19 @@
           "reality"
         ],
         "antisuositus": true
+      },
+      {
+        "teos": "Istumapaikan tarjoaminen raskaana oleville julkisissa liikennevälineissä",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Sohvi kehottaa nousemaan ja tarjoamaan paikkaa raskaana oleville ja huonojalkaisille ratikoissa ja junissa. Hän ehdottaa HSL:lle Lontoon mallin mukaisia Baby on board -merkkejä, jotta kenenkään ei tarvitse arvailla.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "joukkoliikenne",
+          "käytöstavat",
+          "elämänvinkki"
+        ]
       }
     ]
   },
@@ -4588,6 +4601,19 @@
           "Hollywood",
           "Apple TV+"
         ]
+      },
+      {
+        "teos": "Lauantaikerho-podcastin vaalijaksot",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Lauantaikerho+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Lauantaikerho",
+        "kuvaus": "Sohvi suosittelee vaalitenttien sijaan Lauantaikerho-podcastin jaksoja, jotka keskittyvät syvällisesti vaalien aihepiireihin. Hän aikoo kuunnella ne läpi ennen äänestämistä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "vaalit",
+          "politiikka"
+        ],
+        "alkupera": "hs"
       }
     ]
   },
@@ -8506,7 +8532,21 @@
     "id": "tag:soundcloud,2010:tracks/1632294387",
     "jakso_otsikko": "4.10.2023: Här kommer dödspatrullet!, sote-räjähdys, Täydellinen pako",
     "paivamaara": "4.10.2023",
-    "suositukset": []
+    "suositukset": [
+      {
+        "teos": "Rikollisryhmä, joka näyttää meiltä",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Jekaterina+Mantsinen+Suomen+Lehdist%C3%B6+kolumni",
+        "lisatieto_linkki": "",
+        "kuvaus": "Suomen Lehdistö -ammattijulkaisun kolumni, jossa Jekaterina Mantsinen perustelee, miten huumeiden bilekäyttö ruokkii rikollisjengejä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
+        "suosittelija": "Anni Keski-Heikkilä",
+        "kategoriat": [
+          "kolumni",
+          "huumeet",
+          "rikollisuus"
+        ]
+      }
+    ]
   },
   {
     "id": "tag:soundcloud,2010:tracks/1627527729",
@@ -13794,6 +13834,19 @@
           "yhteiskunta",
           "tutkiva journalismi",
           "rahapelit"
+        ]
+      },
+      {
+        "teos": "Tuijotustekniikka ajatusten tyhjentämiseen",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Maria luki MTV3:n uutisesta niksin: kun tuijottaa yhtä pistettä silmiä liikuttamatta, häiritsevät ajatukset katoavat mielestä. Hänen mukaansa se toimii yllättävän hyvin, vaikka Marko ei usko siihen.",
+        "suosittelija": "Maria Manner",
+        "kategoriat": [
+          "mieli",
+          "rentoutuminen",
+          "elämänvinkki"
         ]
       }
     ]
