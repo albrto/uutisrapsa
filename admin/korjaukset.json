@@ -3373,9 +3373,9 @@
     "uusi_data": {
       "teos": "Rikollisryhmä, joka näyttää meiltä",
       "paakategoria": "artikkeli",
-      "google_linkki": "https://www.google.com/search?q=Jekaterina+Mantsinen+Suomen+Lehdist%C3%B6+kolumni",
-      "lisatieto_linkki": "",
-      "kuvaus": "Suomen Lehdistö -ammattijulkaisun kolumni, jossa Jekaterina Mantsinen perustelee, miten huumeiden bilekäyttö ruokkii rikollisjengejä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
+      "google_linkki": "https://www.google.com/search?q=Rikollisryhm%C3%A4%2C+joka+n%C3%A4ytt%C3%A4%C3%A4+meilt%C3%A4+Suomen+Lehdist%C3%B6",
+      "lisatieto_linkki": "https://suomenlehdisto.fi/rikollisryhma-joka-nayttaa-meilta/",
+      "kuvaus": "Jecaterina Mantsisen Suomen Lehdistön kolumni (21.9.2023) siitä, miten huumeiden bilekäyttö ruokkii rikollisryhmiä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
       "suosittelija": "Anni Keski-Heikkilä",
       "kategoriat": [
         "kolumni",
@@ -3384,5 +3384,25 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1632294387",
+    "jakso_otsikko": "4.10.2023: Här kommer dödspatrullet!, sote-räjähdys, Täydellinen pako",
+    "paivamaara": "4.10.2023",
+    "r_idx": 0,
+    "teos": "Rikollisryhmä, joka näyttää meiltä",
+    "uusi_data": {
+      "teos": "Rikollisryhmä, joka näyttää meiltä",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Rikollisryhm%C3%A4%2C+joka+n%C3%A4ytt%C3%A4%C3%A4+meilt%C3%A4+Suomen+Lehdist%C3%B6",
+      "lisatieto_linkki": "https://suomenlehdisto.fi/rikollisryhma-joka-nayttaa-meilta/",
+      "kuvaus": "Jecaterina Mantsisen Suomen Lehdistön kolumni (21.9.2023) siitä, miten huumeiden bilekäyttö ruokkii rikollisryhmiä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kategoriat": [
+        "kolumni",
+        "huumeet",
+        "rikollisuus"
+      ]
+    }
   }
 ]
