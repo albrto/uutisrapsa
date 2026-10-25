@@ -33,6 +33,25 @@ window.VALIDATION_DATA = [
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Alma Onali",
+        "teos": "Ylioppilaslehti",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "lehti",
+          "journalismi"
+        ],
+        "kuvaus": "Alma suosittelee Helsingin yliopiston Ylioppilaslehden uusinta numeroa, jonka päätoimittaja on Tuija Siltamäki. Lehden jutut, kuten kulttuuriministeri Kurvisen haastattelu, voi lukea myös netistä.",
+        "google_linkki": "https://www.google.com/search?q=Ylioppilaslehti",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -4335,16 +4354,16 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
-        "teos": "A Complete Unknown",
+        "teos": "One Battle After Another",
         "paakategoria": "elokuva",
         "kategoriat": [
           "trilleri",
           "poliittinen",
           "toiminta"
         ],
-        "kuvaus": "Jännittävä ja syvällinen elokuva, jossa Leonardo DiCaprio, Benicio del Toro ja Sean Penn tähdittävät tarinaa vasemmistoterroristeista Yhdysvalloissa. Sisältää aikahyppyjä, poliittisia sävyjä ja mieleenpainuvan takaa-ajokohtauksen.",
-        "google_linkki": "https://www.google.com/search?q=A+Complete+Unknown+elokuva",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=A+Complete+Unknown",
+        "kuvaus": "Paul Thomas Andersonin jännittävä ja hauska elokuva, jossa Leonardo DiCaprio, Benicio del Toro ja Sean Penn tähdittävät tarinaa vasemmistoterroristeista Yhdysvalloissa. Sohvin mukaan elokuvassa on poliittisia sävyjä, aikahyppy ja aivan uudenlainen takaa-ajokohtaus.",
+        "google_linkki": "https://www.google.com/search?q=One+Battle+After+Another+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=One+Battle+After+Another",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -4385,6 +4404,45 @@ window.VALIDATION_DATA = [
         "kuvaus": "Kotipizza sardelleilla, oliiveilla, kapriksilla, valkosipulilla, chilillä ja tomaattikastikkeella. Sama ainesosayhdistelmä toimii myös pasta puttanescana.",
         "google_linkki": "https://www.google.com/search?q=pizza+sardelli+oliivi+kapris+valkosipuli+chili+tomaattikastike",
         "lisatieto_linkki": "https://www.google.com/search?q=pizza+puttanesca+resepti",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Jussi Niemeläisen kirja Venäjän läntisistä rajamaista",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "Venäjä",
+          "geopolitiikka"
+        ],
+        "kuvaus": "HS:n toimittajan Jussi Niemeläisen tuore tietokirja, joka käy läpi Venäjän läntisiä rajamaita pääministerien ja presidenttien haastattelujen avulla. Marko kehui rakennetta mykistävän hienoksi ja kirjaa parhaaksi pitkään aikaan lukemakseen tietokirjaksi.",
+        "google_linkki": "https://www.google.com/search?q=Jussi+Niemel%C3%A4inen+kirja+2025",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jussi+Niemel%C3%A4inen",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Matka Keski-Aasiaan (Uzbekistan ja Kazakstan)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "matkailu",
+          "Keski-Aasia"
+        ],
+        "kuvaus": "Jussi suositteli kesämatkakohteeksi Keski-Aasiaa: Uzbekistaniin ja Kazakstaniin pääsee nykyään kuukaudeksi ilman viisumia. Silkkitien varrella on komeita historiallisia kohteita, ja nuori väestö pitää kaupungit sykkivinä.",
+        "google_linkki": "https://www.google.com/search?q=Uzbekistan+Kazakstan+matkailu",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -6635,6 +6693,26 @@ window.VALIDATION_DATA = [
         "kuvaus": "Jecaterina Mantsisen Suomen Lehdistön kolumni (21.9.2023) siitä, miten huumeiden bilekäyttö ruokkii rikollisryhmiä. Annin mielestä jokaisen bilekäyttäjän pitäisi lukea se.",
         "google_linkki": "https://www.google.com/search?q=Rikollisryhm%C3%A4%2C+joka+n%C3%A4ytt%C3%A4%C3%A4+meilt%C3%A4+Suomen+Lehdist%C3%B6",
         "lisatieto_linkki": "https://suomenlehdisto.fi/rikollisryhma-joka-nayttaa-meilta/",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Munch-museo, Oslo",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "museo",
+          "taide",
+          "matkailu"
+        ],
+        "kuvaus": "Oslon keskustassa veden äärellä oleva taidemuseo, joka esittelee Huuto-maalauksen tekijän Edvard Munchin taidetta. Salla kävi siellä Norjan-juttukeikalla, ja ylimmässä kerroksessa oli silloin amerikkalaisen taidemaalarin Alice Neelin näyttely.",
+        "google_linkki": "https://www.google.com/search?q=Munch-museo+Oslo",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -14877,17 +14955,55 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Joakim Westrén-Doll",
-        "teos": "Anteeksi lausuminen (Vladei, Pöre tai vastaava hautausmaa-aiheinen teos)",
+        "suosittelija": "Venla Kuokkanen",
+        "teos": "Vettä kukille",
         "paakategoria": "kirja",
         "kategoriat": [
           "hautausmaa",
           "positiivisuus",
           "arki"
         ],
-        "kuvaus": "Kirja, jonka päähenkilö hoitaa hautausmaan kukkia antaumuksella. Suosittelijan mukaan yllättävänkin positiivishenkinen teos, jossa kerrotaan haudattujen ihmisten tarinoita elinvuosineen.",
-        "google_linkki": "https://www.google.com/search?q=Anteeksi+lausuminen+hautausmaa+kirja",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Anteeksi+lausuminen+hautausmaa",
+        "kuvaus": "Valérie Perrinin romaani hautausmaanhoitajasta, joka hoitaa hautojen kukkia antaumuksella ja kertoo haudattujen tarinoita. Venlan mukaan kirja on hyvällä tavalla outo ja yllättävänkin positiivishenkinen.",
+        "google_linkki": "https://www.google.com/search?q=Val%C3%A9rie+Perrin+Vett%C3%A4+kukille",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Vett%C3%A4+kukille+Perrin",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Joakim Westrén-Doll",
+        "teos": "Kissan lääkitseminen pyyhetortillana",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "elämänvinkki",
+          "lemmikit"
+        ],
+        "kuvaus": "Joakim jakoi tutulta kuulemansa niksin: kun kissalle pitää antaa lääkettä, se kääritään pyyhkeeseen kuin tortilla, jolloin se ei pääse rimpuilemaan ja raapimaan. Vinkki osui tarpeeseen, kun hänen molemmat kissansa sairastivat vatsatautia.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Matilda Jokinen",
+        "teos": "Myönteisten uutisten etsiminen ja levittäminen",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "elämäntapa",
+          "hyvä mieli"
+        ],
+        "kuvaus": "Pimenevään syksyyn Matilda kannusti etsimään myönteisiä ilmiöitä ja uutisia ja kertomaan niistä muille – myös toimituksille. Hän itse kaipaa kirjoitettavaa kidutuksen ja kuoleman vastapainoksi.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -22415,7 +22531,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Matilda Jokinen",
+        "suosittelija": "Joona Aaltonen",
         "teos": "Tšernobylista nousee rukous",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -22423,9 +22539,48 @@ window.VALIDATION_DATA = [
           "historia",
           "ydinkatastrofi"
         ],
-        "kuvaus": "Svetlana Aleksijevitšin Nobel-palkittu teos vuodelta 2015 kertoo Tšernobylin ydinkatastrofin inhimillisistä kokemuksista haastattelujen kautta – ei siitä, mitä tapahtui teknisesti, vaan siitä, miten ihmiset elivät ja kärsivät sen keskellä.",
+        "kuvaus": "Svetlana Aleksijevitšin haastatteluihin perustuva kirja Tšernobylin ydinkatastrofin inhimillisistä kokemuksista: sammuttajista, heidän omaisistaan ja alueelle jääneistä. Joona luki sen keväällä, kun Venäjän joukot liikkuivat Tšernobylin alueella.",
         "google_linkki": "https://www.google.com/search?q=Tšernobylista+nousee+rukous+Svetlana+Aleksijevitš",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tšernobylista+nousee+rukous",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Alma Onali",
+        "teos": "Helsinkiläismies odotti idolinsa näkemistä iäisyyden (HS)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "HS-juttu",
+          "musiikki",
+          "Flow"
+        ],
+        "kuvaus": "HS Helsingin juttu Nick Caven pitkäaikaisesta fanista, jota Cave kosketti ja kehui kauniiksi Flow-festivaalin lavalta. Alman mielestä tarina muistuttaa musiikin ja fanittamisen merkityksestä ja siitä, että ihmisiä kannattaa kehua.",
+        "google_linkki": "https://www.google.com/search?q=Helsinkil%C3%A4ismies+odotti+idolinsa+n%C3%A4kemist%C3%A4+i%C3%A4isyyden+HS",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Matilda Jokinen",
+        "teos": "Helteisiin varautuminen (siesta ja päivärytmin muutos)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "elämäntapa",
+          "helle"
+        ],
+        "kuvaus": "Matilda suositteli pitkän aikavälin vinkkinä varautumaan yhä kuumempiin kesiin miettimällä esimerkiksi päivärytmiä uusiksi, kuten etelämpänä tehdään. Hän lopettaa itse työt jo yhdeltä.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -24766,7 +24921,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Kuningas Charlesin virallinen muotokuva (Jonathan Yeo, 2024)",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -24774,7 +24929,7 @@ window.VALIDATION_DATA = [
           "kuninkaallinen perhe",
           "muotokuva"
         ],
-        "kuvaus": "Kuningas Charlesin ensimmäinen virallinen maalattu muotokuva, jossa punaisella taustalla oleva kuningas ja hänen olkapäälleen laskeutuva perhonen. Suositellaan katsomaan analyysivideoita YouTubesta tai TikTokista.",
+        "kuvaus": "Kuningas Charlesin ensimmäinen virallinen maalattu muotokuva, jossa kuningas on punaisella taustalla ja hänen olkapäälleen laskeutuu perhonen. Anni suosittelee katsomaan YouTubesta tai TikTokista videoita, joissa teosta analysoidaan.",
         "google_linkki": "https://www.google.com/search?q=Kuningas+Charles+virallinen+muotokuva+Jonathan+Yeo+2024",
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=King+Charles+portrait+analysis",
         "alkupera": "",
@@ -24786,7 +24941,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Piilotettu kamera Putinin palatsissa (Navalny-tiimin video)",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -24794,7 +24949,7 @@ window.VALIDATION_DATA = [
           "tutkiva journalismi",
           "Venäjä"
         ],
-        "kuvaus": "Aleksei Navalny-tiimin tuore noin tunnin mittainen video, jossa piilokameran avulla esitellään Putinin palatsin tilat Gelendžikissä Venäjällä, mukaan lukien maanalainen jääkiekkokaukalo. Julkaistu 6. toukokuuta.",
+        "kuvaus": "Aleksei Navalnyin tiimin tuore, noin tunnin mittainen video, jossa piilokamera kiertää Putinin palatsin Gelendžikissä Venäjällä, maanalainen jääkiekkokaukalo mukaan lukien. Salla nauroi sitä katsoessaan ääneen monta kertaa, koska tiimi osaa käyttää vakavassa aiheessa huumoria.",
         "google_linkki": "https://www.google.com/search?q=Hidden+camera+Putin+palace+Navalny",
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Hidden+Camera+Putin+Palace+Navalny",
         "alkupera": "",
@@ -27781,7 +27936,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Maria Manner",
         "teos": "Doc Point -dokumenttielokuvafestivaali",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -27789,7 +27944,7 @@ window.VALIDATION_DATA = [
           "festivaali",
           "verkkokatselumahdollisuus"
         ],
-        "kuvaus": "Helsingin kansainvälinen dokumenttielokuvafestivaali, joka järjestettiin vuonna 2021 verkossa. Marko Junkkari kehui edellisvuoden ohjelmistoa erinomaiseksi.",
+        "kuvaus": "Helsingin kansainvälinen dokumenttielokuvafestivaali, joka järjestettiin vuonna 2021 verkossa. Maria kehui edellisvuoden ohjelmistoa erinomaiseksi ja muistutti, että festivaalilla näkee sekä huonoimpia että kiinnostavimpia elokuvia.",
         "google_linkki": "https://www.google.com/search?q=Doc+Point+dokumenttielokuvafestivaali",
         "lisatieto_linkki": "https://www.docpoint.info",
         "alkupera": "",
@@ -27802,7 +27957,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
-        "teos": "Vakoilijan perintö",
+        "teos": "Vakoojan perintö",
         "paakategoria": "kirja",
         "kategoriat": [
           "vakoilu",
@@ -27810,8 +27965,8 @@ window.VALIDATION_DATA = [
           "kylmä sota"
         ],
         "kuvaus": "John le Carrén myöhäistuotantoa, jossa käsitellään klassisen Kylmä sota -aikakauden tapahtumia nykyajan näkökulmasta. Kuolleen agentin poika haluaa selvittää, miksi hänen isänsä ammuttiin Berliinin muurilla.",
-        "google_linkki": "https://www.google.com/search?q=Vakoilijan+perint%C3%B6+John+le+Carr%C3%A9",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Legacy+of+Spies+John+le+Carr%C3%A9",
+        "google_linkki": "https://www.google.com/search?q=John+le+Carr%C3%A9+Vakoojan+perint%C3%B6",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Vakoojan+perint%C3%B6+le+Carr%C3%A9",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -27832,6 +27987,25 @@ window.VALIDATION_DATA = [
         "kuvaus": "Safdie-veljesten ohjaama intensiivinen draama juutalaisesta timanttikauppiaasta New Yorkissa, jolla on uhkapeliongelmia. Adam Sandler loistaa vakavassa pääosassa.",
         "google_linkki": "https://www.google.com/search?q=Hiomattomat+timantit+Uncut+Gems+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Uncut+Gems",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Pappi, lukkari, talonpoika, vakooja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "vakoiluromaani",
+          "klassikko"
+        ],
+        "kuvaus": "John le Carrén klassinen vakoiluromaani, jonka Marko luki uudelleen pitkän ajan jälkeen ja totesi edelleen erinomaiseksi. Suomeksi le Carrén vaativa kieli on hänen mukaansa mukavampaa luettavaa.",
+        "google_linkki": "https://www.google.com/search?q=Pappi+lukkari+talonpoika+vakooja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Pappi+lukkari+talonpoika+vakooja",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -31517,7 +31691,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Rasmus Helaniemi",
+        "suosittelija": "John Helin",
         "teos": "Porco Rosso",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -31525,7 +31699,7 @@ window.VALIDATION_DATA = [
           "studio ghibli",
           "seikkailu"
         ],
-        "kuvaus": "Studio Ghiblin animaatioelokuva. Mainitaan sikasteeman yhteydessä suosituksena.",
+        "kuvaus": "Studio Ghiblin animaatioelokuva lentäjästä, joka on muuttunut sianmuotoiseksi. John nosti sen esiin jakson sikateeman yhteydessä.",
         "google_linkki": "https://www.google.com/search?q=Porco+Rosso",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Porco+Rosso",
         "alkupera": "",
@@ -31537,7 +31711,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Rasmus Helaniemi",
+        "suosittelija": "John Helin",
         "teos": "Prinsessa Mononoke",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -31545,7 +31719,7 @@ window.VALIDATION_DATA = [
           "studio ghibli",
           "luonto"
         ],
-        "kuvaus": "Studio Ghiblin klassinen animaatioelokuva. Suositellaan sikasteeman yhteydessä.",
+        "kuvaus": "Studio Ghiblin klassinen animaatioelokuva, Johnin oma suosikki. Hän suositteli sitä sikateeman yhteydessä Porco Rosson rinnalla.",
         "google_linkki": "https://www.google.com/search?q=Prinsessa+Mononoke",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Princess+Mononoke",
         "alkupera": "",
@@ -31557,7 +31731,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Rasmus Helaniemi",
+        "suosittelija": "John Helin",
         "teos": "Helsingin Jäätelötehdas",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -31565,7 +31739,7 @@ window.VALIDATION_DATA = [
           "helsinki",
           "kesä"
         ],
-        "kuvaus": "Helsingin suurimpia jäätelöpalloja tarjoava jäätelötehdas. Hinta-laatusuhde kehuttu hyväksi.",
+        "kuvaus": "Helsingin Jäätelötehtaan jäätelöpallot ovat Johnin mukaan kaupungin suurimpia. Ne ovat myös kalliita, mutta hinta-laatusuhde on hänestä erinomainen.",
         "google_linkki": "https://www.google.com/search?q=Helsingin+J%C3%A4%C3%A4tel%C3%B6tehdas",
         "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+J%C3%A4%C3%A4tel%C3%B6tehdas",
         "alkupera": "",
@@ -31577,7 +31751,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Rasmus Helaniemi",
+        "suosittelija": "John Helin",
         "teos": "Vuosaaren huippu",
         "paakategoria": "muu",
         "kategoriat": [
@@ -31585,7 +31759,7 @@ window.VALIDATION_DATA = [
           "helsinki",
           "näköalapaikka"
         ],
-        "kuvaus": "Jätemaalle rakennettu kukkulanäköalapaikka Vuosaaressa, josta näkee Helsingin keskustaan ja Porvoon jalostamoille. Hyvät luontoarvot.",
+        "kuvaus": "Jätemaalle rakennettu näköalakukkula Vuosaaressa, josta näkee sataman, Helsingin keskustan ja Porvoon jalostamon. John kehui näkymiä ja luontoarvoja ja kehotti näkemään vaivaa, vaikka joukkoliikenne ei kulje sinne hyvin.",
         "google_linkki": "https://www.google.com/search?q=Vuosaaren+huippu",
         "lisatieto_linkki": "https://www.google.com/search?q=Vuosaaren+huippu",
         "alkupera": "",
@@ -31598,7 +31772,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Helmi Sundström",
-        "teos": "OceanGate-dokumentti (Netflix)",
+        "teos": "Titan: The OceanGate Disaster",
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "dokumentti",
@@ -31606,8 +31780,8 @@ window.VALIDATION_DATA = [
           "meri"
         ],
         "kuvaus": "Netflix-dokumentti OceanGaten sukellusveneestä, joka vei turisteja Titanicin hylylle, ja sitä seuranneesta onnettomuudesta ja etsinnästä.",
-        "google_linkki": "https://www.google.com/search?q=OceanGate+dokumentti+Netflix",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=OceanGate+documentary+Netflix",
+        "google_linkki": "https://www.google.com/search?q=Titan+The+OceanGate+Disaster+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Titan+The+OceanGate+Disaster",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -31618,7 +31792,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Helmi Sundström",
-        "teos": "Lontoon pommi-iskut -dokumenttisarja (Netflix)",
+        "teos": "Attack on London: Hunting the 7/7 Bombers",
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "dokumentti",
@@ -31626,8 +31800,8 @@ window.VALIDATION_DATA = [
           "terrorismi"
         ],
         "kuvaus": "Netflix-dokumenttisarja Lontoon pommi-iskujen tekijöiden jäljillä. Sivuaa myös median tapaa käsitellä terrori-iskuja.",
-        "google_linkki": "https://www.google.com/search?q=Lontoon+pommi-iskut+dokumentti+Netflix",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=London+bombing+documentary+Netflix",
+        "google_linkki": "https://www.google.com/search?q=Attack+on+London+Hunting+the+7%2F7+Bombers+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Attack+on+London+Hunting+the+7%2F7+Bombers",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -31649,6 +31823,82 @@ window.VALIDATION_DATA = [
         "google_linkki": "https://www.google.com/search?q=Pod+Save+the+World",
         "lisatieto_linkki": "https://open.spotify.com/search/Pod+Save+the+World",
         "alkupera": "ulkomainen",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 7,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Helmi Sundström",
+        "teos": "Kuukausiliitteen juttu Paavo-possusta",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "HS-juttu",
+          "eläimet"
+        ],
+        "kuvaus": "HS Kuukausiliitteen pitkä juttu Paavo-nimisestä possusta. Helmi suositteli sitä hyvän mielen vastapainoksi synkille dokumenteilleen; jutun lopun video, jossa Paavolle lauletaan tuutulaulu, sai hänet itkemään.",
+        "google_linkki": "https://www.google.com/search?q=Kuukausiliite+Paavo+possu",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 8,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Hanna Havusto",
+        "teos": "Googlen kissa- ja koirahaun tassu-yllätys",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "internet",
+          "hauska"
+        ],
+        "kuvaus": "Kun Googleen hakee sanalla kissa tai koira, tulosten viereen ilmestyy tassukuvake, jota painamalla ruudulle tulee tassunjälkiä ääniefektien kera. Hannan mielestä se on hauska piristys synkkien dokumenttien jälkeen.",
+        "google_linkki": "https://www.google.com/search?q=kissa",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 9,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Kruunusillat: uusi Merihaansilta pyöräillen",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "Helsinki",
+          "pyöräily"
+        ],
+        "kuvaus": "Rasmus suositteli pyöräilemään Kruunusiltojen uuden Merihaansillan yli, kun raitiovaunut eivät vielä kulje ja ympäristö Mustikkamaan suunnalla on vielä kesken. Kokemusta voi muistella kymmenen vuoden päästä.",
+        "google_linkki": "https://www.google.com/search?q=Kruunusillat+Merihaansilta",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 10,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Helmi Sundström",
+        "teos": "HS:n eläinpalstan juttu harhaanjohtavista sioista",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "HS-juttu",
+          "eläimet"
+        ],
+        "kuvaus": "HS:n viikon eläinpalsta kertoi eläimistä, joita kutsutaan sioiksi, vaikka ne eivät ole sikoja, kuten piikkisika ja vesisika. Helmi suositteli juttua ja siinä linkattua WWF:n mäyrän metsäkameraa hyvän mielen lukemiseksi.",
+        "google_linkki": "https://www.google.com/search?q=HS+el%C3%A4inpalsta+piikkisika+vesisika+m%C3%A4yr%C3%A4",
+        "lisatieto_linkki": "",
+        "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
@@ -32412,6 +32662,25 @@ window.VALIDATION_DATA = [
         "kuvaus": "Suomalainen taidevalokuvaaja Tiina Itkonen on kuvannut Grönlantia vuosikymmeniä. Hänen jäävuori- ja jääkarhokuvansa ovat huikeita ja hänellä on ollut näyttelyitä muun muassa Ranskassa.",
         "google_linkki": "https://www.google.com/search?q=Tiina+Itkonen+Gr%C3%B6nlanti+valokuvat",
         "lisatieto_linkki": "https://www.google.com/search?q=Tiina+Itkonen+photographer+Greenland",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Alma Onali",
+        "teos": "Syksyyn valmistautuminen: mieti, mikä tuo lohtua",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "elämäntapa",
+          "syksy"
+        ],
+        "kuvaus": "Viimeisessä jaksossaan Alma suositteli valmistautumaan rankkaan syksyyn ja talveen pysähtymällä kynttilänvalossa villasukat jalassa miettimään, mikä elämässä on tärkeää ja mistä saa lohtua. Silloin iloa voi löytää synkimpienkin hetkien keskellä.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
