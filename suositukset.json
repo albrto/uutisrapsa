@@ -48,7 +48,7 @@
         "teos": "Sijoituskästi",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Sijoitusk%C3%A4sti+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Sijoitusk%C3%A4sti",
+        "lisatieto_linkki": "https://open.spotify.com/episode/3cPwWdurVJpO4p3GufDfUU",
         "alkupera": "kotimainen",
         "kuvaus": "Suositellaan suositun sijoituspodcastin jaksoa, jonka vieraana oli Ukrainassa taisteleva suomalainen vapaaehtoinen 'Lumipallo'. Hän kertoo droonisodankäynnistä ja Suomen puolustusvoimien valmiuksista, ja podcastin juontajia kehutaan taitavista kysymyksistä.",
         "suosittelija": "Salla Vuorikoski",
@@ -56,6 +56,10 @@
           "Ukraina",
           "sota",
           "sijoittaminen"
+        ],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/ukrainan-droonisotilas-onko-puolustusvoimat-laiminly%C3%B6nyt/id1521917708?i=1000796589252",
+          "https://www.supla.fi/podcast-series/d93e670a-c2e5-487a-8e69-39aca4a46cb7"
         ]
       },
       {
