@@ -13054,6 +13054,42 @@ window.VALIDATION_DATA = [
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Annikka Mutanen",
+        "teos": "Auringonvalo",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "terveys",
+          "ulkoilu",
+          "elämäntapa"
+        ],
+        "kuvaus": "Tiedetoimittaja Annikka kehottaa nauttimaan kevätauringosta silloin kun sitä on. Auringolla on huonosta maineestaan huolimatta paljon hyviä terveysvaikutuksia, joten varjoon ei kannata jäädä palamisen pelossa.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Vissy ja pihvi -dieetti",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "dieetti",
+          "elämäntapa",
+          "huumori"
+        ],
+        "kuvaus": "Marko kertoo puolitosissaan aloittaneensa netistä löytämänsä viikon dieetin, jolla juodaan paljon kivennäisvettä ja syödään pihviä. Alku oli kamala, mutta lopulta olo oli yllättävän hyvä.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "piilotettu": false
       }
     ]
   },
@@ -16200,10 +16236,13 @@ window.VALIDATION_DATA = [
           "sijoittaminen"
         ],
         "kuvaus": "Suositellaan suositun sijoituspodcastin jaksoa, jonka vieraana oli Ukrainassa taisteleva suomalainen vapaaehtoinen 'Lumipallo'. Hän kertoo droonisodankäynnistä ja Suomen puolustusvoimien valmiuksista, ja podcastin juontajia kehutaan taitavista kysymyksistä.",
-        "google_linkki": "https://www.google.com/search?q=Sijoitusk%C3%A4si+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Sijoitusk%C3%A4si",
+        "google_linkki": "https://www.google.com/search?q=Sijoitusk%C3%A4sti+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/episode/3cPwWdurVJpO4p3GufDfUU",
         "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/ukrainan-droonisotilas-onko-puolustusvoimat-laiminly%C3%B6nyt/id1521917708?i=1000796589252",
+          "https://www.supla.fi/podcast-series/d93e670a-c2e5-487a-8e69-39aca4a46cb7"
+        ],
         "piilotettu": false
       },
       {
@@ -23481,16 +23520,16 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Emil Elo",
-        "teos": "Rolling Stones: Hackney Diamonds (livealbumi)",
+        "teos": "The Rolling Stones: A Bigger Bang",
         "paakategoria": "musiikki",
         "kategoriat": [
           "rock",
           "livealbumi",
           "klassikkoartisti"
         ],
-        "kuvaus": "Rolling Stonesin tuore livealbumi, joka esittelee bändin vuosikymmenten hiomaa soittotaitoa ja yhteissoittoa parhaimmillaan. Vaikuttava kuunneltava virtuositeetin näkökulmasta.",
-        "google_linkki": "https://www.google.com/search?q=Rolling+Stones+Hackney+Diamonds+live+album",
-        "lisatieto_linkki": "https://open.spotify.com/search/Rolling%20Stones%20Hackney%20Diamonds",
+        "kuvaus": "Rolling Stonesin heinäkuussa 2021 julkaistu livealbumi, joka esittelee bändin vuosikymmenten hiomaa soittotaitoa ja yhteissoittoa parhaimmillaan. Emil kuunteli sitä virtuositeetin näkökulmasta.",
+        "google_linkki": "https://www.google.com/search?q=The+Rolling+Stones+A+Bigger+Bang+Live+on+Copacabana+Beach",
+        "lisatieto_linkki": "https://open.spotify.com/search/A%20Bigger%20Bang%20Live%20on%20Copacabana%20Beach",
         "alkupera": "",
         "lisalinkit": [],
         "piilotettu": false
@@ -23568,7 +23607,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Anni Huttunen",
         "teos": "Severance (kausi 2)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -25629,7 +25668,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Robin Packalen – varhaistuotanto",
         "paakategoria": "musiikki",
         "kategoriat": [
@@ -25637,7 +25676,7 @@ window.VALIDATION_DATA = [
           "suomimusiikki",
           "nostalgia"
         ],
-        "kuvaus": "Robin Pakkalenin varhaiset levyt toimivat loistavana työmotivaattorina. Teini-iän suosikkimusiikki saa ajatukset virtaamaan, erityisesti kesäloman kynnyksellä.",
+        "kuvaus": "Annin vinkki kesälomaa odottavalle: Robin Packalénin varhaiset levyt ja muut teiniajan suosikit toimivat loistavana työmotivaattorina ja saavat ajatukset virtaamaan.",
         "google_linkki": "https://www.google.com/search?q=Robin+Packalen+diskografia",
         "lisatieto_linkki": "https://open.spotify.com/search/Robin%20Packalen",
         "alkupera": "",
@@ -25647,7 +25686,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "High School Musical 2 – soundtrack",
         "paakategoria": "musiikki",
         "kategoriat": [
@@ -25655,7 +25694,7 @@ window.VALIDATION_DATA = [
           "nostalgia",
           "pop"
         ],
-        "kuvaus": "High School Musical 2:n soundtrack nostaa mielialan ja sopii erinomaisesti töiden taustamusiikiksi, kun kesäloma alkaa houkutella.",
+        "kuvaus": "High School Musical 2:n soundtrack on Annin mukaan oivaa taustamusiikkia töihin, kun kesäloma alkaa jo houkutella. Lapsuuden suosikkimusiikki nostaa mielialaa raskaanakin työpäivänä.",
         "google_linkki": "https://www.google.com/search?q=High+School+Musical+2+soundtrack",
         "lisatieto_linkki": "https://open.spotify.com/search/High%20School%20Musical%202%20soundtrack",
         "alkupera": "",

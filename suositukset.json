@@ -4223,7 +4223,7 @@
         "google_linkki": "https://www.google.com/search?q=Severance+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance",
         "kuvaus": "Filosofinen sci-fi-sarja, jossa työntekijöiden aivot on sirutettu erottamaan työ- ja yksityisminä täysin toisistaan. Toinen kausi syventää kysymyksiä identiteetistä, rakkaudesta ja siitä, missä ihminen alkaa ja päättyy.",
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Anni Huttunen",
         "kategoriat": [
           "sci-fi",
           "filosofia",
@@ -6633,8 +6633,8 @@
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=Robin+Packalen+diskografia",
         "lisatieto_linkki": "https://open.spotify.com/search/Robin%20Packalen",
-        "kuvaus": "Robin Pakkalenin varhaiset levyt toimivat loistavana työmotivaattorina. Teini-iän suosikkimusiikki saa ajatukset virtaamaan, erityisesti kesäloman kynnyksellä.",
-        "suosittelija": "Salla Vuorikoski",
+        "kuvaus": "Annin vinkki kesälomaa odottavalle: Robin Packalénin varhaiset levyt ja muut teiniajan suosikit toimivat loistavana työmotivaattorina ja saavat ajatukset virtaamaan.",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "pop",
           "suomimusiikki",
@@ -6646,8 +6646,8 @@
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=High+School+Musical+2+soundtrack",
         "lisatieto_linkki": "https://open.spotify.com/search/High%20School%20Musical%202%20soundtrack",
-        "kuvaus": "High School Musical 2:n soundtrack nostaa mielialan ja sopii erinomaisesti töiden taustamusiikiksi, kun kesäloma alkaa houkutella.",
-        "suosittelija": "Salla Vuorikoski",
+        "kuvaus": "High School Musical 2:n soundtrack on Annin mukaan oivaa taustamusiikkia töihin, kun kesäloma alkaa jo houkutella. Lapsuuden suosikkimusiikki nostaa mielialaa raskaanakin työpäivänä.",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "soundtrack",
           "nostalgia",
@@ -13836,11 +13836,11 @@
         ]
       },
       {
-        "teos": "Rolling Stones: Hackney Diamonds (livealbumi)",
+        "teos": "The Rolling Stones: A Bigger Bang",
         "paakategoria": "musiikki",
-        "google_linkki": "https://www.google.com/search?q=Rolling+Stones+Hackney+Diamonds+live+album",
-        "lisatieto_linkki": "https://open.spotify.com/search/Rolling%20Stones%20Hackney%20Diamonds",
-        "kuvaus": "Rolling Stonesin tuore livealbumi, joka esittelee bändin vuosikymmenten hiomaa soittotaitoa ja yhteissoittoa parhaimmillaan. Vaikuttava kuunneltava virtuositeetin näkökulmasta.",
+        "google_linkki": "https://www.google.com/search?q=The+Rolling+Stones+A+Bigger+Bang+Live+on+Copacabana+Beach",
+        "lisatieto_linkki": "https://open.spotify.com/search/A%20Bigger%20Bang%20Live%20on%20Copacabana%20Beach",
+        "kuvaus": "Rolling Stonesin heinäkuussa 2021 julkaistu livealbumi, joka esittelee bändin vuosikymmenten hiomaa soittotaitoa ja yhteissoittoa parhaimmillaan. Emil kuunteli sitä virtuositeetin näkökulmasta.",
         "suosittelija": "Emil Elo",
         "kategoriat": [
           "rock",
@@ -14576,6 +14576,32 @@
           "historia",
           "vakoilu",
           "suomalainen politiikka"
+        ]
+      },
+      {
+        "teos": "Auringonvalo",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tiedetoimittaja Annikka kehottaa nauttimaan kevätauringosta silloin kun sitä on. Auringolla on huonosta maineestaan huolimatta paljon hyviä terveysvaikutuksia, joten varjoon ei kannata jäädä palamisen pelossa.",
+        "suosittelija": "Annikka Mutanen",
+        "kategoriat": [
+          "terveys",
+          "ulkoilu",
+          "elämäntapa"
+        ]
+      },
+      {
+        "teos": "Vissy ja pihvi -dieetti",
+        "paakategoria": "ruoka",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Marko kertoo puolitosissaan aloittaneensa netistä löytämänsä viikon dieetin, jolla juodaan paljon kivennäisvettä ja syödään pihviä. Alku oli kamala, mutta lopulta olo oli yllättävän hyvä.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "dieetti",
+          "elämäntapa",
+          "huumori"
         ]
       }
     ]
