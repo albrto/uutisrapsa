@@ -2720,5 +2720,34 @@
     },
     "aika": "2026-10-25T20:10:18",
     "viety": "2026-10-25T20:10:18"
+  },
+  "tag:soundcloud,2010:tracks/1654994466::teos::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "teos": "Jaakobin kirjat (Olga Tokarczuk)",
+      "google_linkki": "https://www.google.com/search?q=Olga+Tokarczuk+Jaakobin+kirjat",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Olga+Tokarczuk+The+Books+of+Jacob"
+    },
+    "aika": "2026-10-25T20:12:37",
+    "viety": "2026-10-25T20:12:37"
+  },
+  "tag:soundcloud,2010:tracks/1654994466::puuttuu::amazing race suomi": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Amazing Race Suomi",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "Suomalainen versio kansainvälisestä matkailukilpailusta, jossa parit kisaavat ympäri maailmaa. Annin suosikkeja ovat rallikuski Marcus Grönholm ja hänen parinsa Timo.",
+      "paakategoria": "tv-sarja",
+      "kategoriat": [
+        "tosi-tv",
+        "kilpailu"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Amazing+Race+Suomi",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Amazing+Race+Suomi"
+    },
+    "aika": "2026-10-25T20:12:37",
+    "viety": "2026-10-25T20:12:37"
   }
 }

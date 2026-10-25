@@ -4654,5 +4654,47 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1654994466",
+    "jakso_otsikko": "2.11.2023: Suomen Gaza-äänestys, Israel-asekaupat, DCA, Törhönen ja kakkatutkimukset",
+    "paivamaara": "2.11.2023",
+    "r_idx": 0,
+    "teos": "Jaakob Boks (The Books of Jacob)",
+    "uusi_data": {
+      "teos": "Jaakobin kirjat (Olga Tokarczuk)",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Olga+Tokarczuk+Jaakobin+kirjat",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Olga+Tokarczuk+The+Books+of+Jacob",
+      "kuvaus": "Olga Tokarczukin romaani, joka kertoo 1700-luvun eurooppalaisesta messiaanisesta kultista juutalaisuuden piirissä. Teos on laajasti tutkittu ja täynnä mielenkiintoisia hahmoja ja ajankuvia.",
+      "suosittelija": "Timo R. Stewart",
+      "kategoriat": [
+        "historia",
+        "uskonto",
+        "eurooppalainen kirjallisuus"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1654994466",
+    "jakso_otsikko": "2.11.2023: Suomen Gaza-äänestys, Israel-asekaupat, DCA, Törhönen ja kakkatutkimukset",
+    "paivamaara": "2.11.2023",
+    "r_idx": 3,
+    "teos": "Amazing Race Suomi",
+    "uusi_data": {
+      "teos": "Amazing Race Suomi",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Amazing+Race+Suomi",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Amazing+Race+Suomi",
+      "kuvaus": "Suomalainen versio kansainvälisestä matkailukilpailusta, jossa parit kisaavat ympäri maailmaa. Annin suosikkeja ovat rallikuski Marcus Grönholm ja hänen parinsa Timo.",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kategoriat": [
+        "tosi-tv",
+        "kilpailu"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
