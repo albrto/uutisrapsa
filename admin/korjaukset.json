@@ -4418,5 +4418,47 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "jakso_otsikko": "25.5.2023: Ps-ulosmarssi uhkaa, Pride vs. kok, DeSantiksen kampanja-avaus",
+    "paivamaara": "25.5.2023",
+    "r_idx": 0,
+    "teos": "TikTok",
+    "uusi_data": {
+      "teos": "TikTok",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=TikTok",
+      "lisatieto_linkki": "https://www.tiktok.com",
+      "kuvaus": "Tuomaksen mielestä TikTokin algoritmi on käsittämättömän hyvä löytämään juuri sinulle sopivaa sisältöä – esimerkiksi unohdettuja musiikkihelmiä tai tuntemattomien artistien versioita klassikoista.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "sosiaalinen media",
+        "algoritmi",
+        "musiikki"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "jakso_otsikko": "25.5.2023: Ps-ulosmarssi uhkaa, Pride vs. kok, DeSantiksen kampanja-avaus",
+    "paivamaara": "25.5.2023",
+    "r_idx": 1,
+    "teos": "The Logical Song – Lisele Green (kitaraversio)",
+    "uusi_data": {
+      "teos": "The Logical Song – Lisele Green (kitaraversio)",
+      "paakategoria": "musiikki",
+      "google_linkki": "https://www.google.com/search?q=Lisele+Green+The+Logical+Song",
+      "lisatieto_linkki": "https://open.spotify.com/search/Lisele%20Green%20The%20Logical%20Song",
+      "kuvaus": "Tuntematon artisti on tehnyt koskettavan puolentoista minuutin kitaraversion Supertrampin klassikosta The Logical Song, jonka Tuomas löysi TikTokin kautta.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "cover",
+        "akustinen",
+        "70-luku"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

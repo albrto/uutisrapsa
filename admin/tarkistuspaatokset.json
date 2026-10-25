@@ -2565,5 +2565,25 @@
     },
     "aika": "2026-10-25T19:52:37",
     "viety": "2026-10-25T19:52:37"
+  },
+  "tag:soundcloud,2010:tracks/1522418779::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomaksen mielestä TikTokin algoritmi on käsittämättömän hyvä löytämään juuri sinulle sopivaa sisältöä – esimerkiksi unohdettuja musiikkihelmiä tai tuntemattomien artistien versioita klassikoista."
+    },
+    "aika": "2026-10-25T20:02:01",
+    "viety": "2026-10-25T20:02:01"
+  },
+  "tag:soundcloud,2010:tracks/1522418779::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuntematon artisti on tehnyt koskettavan puolentoista minuutin kitaraversion Supertrampin klassikosta The Logical Song, jonka Tuomas löysi TikTokin kautta."
+    },
+    "aika": "2026-10-25T20:02:01",
+    "viety": "2026-10-25T20:02:01"
   }
 }
