@@ -4103,7 +4103,7 @@
         "google_linkki": "https://www.google.com/search?q=Journalisti.fi+Marko-Oskari+Lehtonen+haastattelu",
         "lisatieto_linkki": "https://www.journalisti.fi",
         "kuvaus": "Iltalehden politiikan toimittaja Marko-Oskari Lehtosen haastattelu, jossa pohditaan miksi ihmiset haluavat kuunnella podcasteja, joissa toimittajat puhuvat keskenään.",
-        "suosittelija": "Hanna Havusto",
+        "suosittelija": "Rasmus Helaniemi",
         "kategoriat": [
           "journalismi",
           "media",
@@ -4116,7 +4116,7 @@
         "google_linkki": "https://www.google.com/search?q=Suomen+Lehdistö+podcast+Paavo+Teittinen",
         "lisatieto_linkki": "https://open.spotify.com/episode/63MG84Tu4qozYwvAXqlpXC",
         "kuvaus": "Suomen Lehdistön podcastin jakso, jossa Paavo Teittinen kertoo millaista on kun juttujen kohteet haastavat toimittajia käräjille ja miten paljon se vie työaikaa.",
-        "suosittelija": "Hanna Havusto",
+        "suosittelija": "Rasmus Helaniemi",
         "kategoriat": [
           "journalismi",
           "media",
@@ -4125,6 +4125,19 @@
         "alkupera": "kotimainen",
         "lisalinkit": [
           "https://podcasts.apple.com/fi/podcast/paavo-teittinen-rikostutkinnoista-totta-kai-sit%C3%A4-py%C3%B6ritt%C3%A4%C3%A4/id1684199544?i=1000709079468"
+        ]
+      },
+      {
+        "teos": "Tyhjät pahvilaatikot näkyville häkkivarastossa",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Hannan häkkivarastoon murtauduttiin, ja varas ravisteli tyhjiä telkkarin ja Marimekon pahvilaatikoita. Hän neuvoo asettelemaan tyhjät laatikot niin, että varas näkee niiden olevan tyhjiä – se säästää vaivaa molemmilta.",
+        "suosittelija": "Hanna Havusto",
+        "kategoriat": [
+          "elämänohje",
+          "huumori",
+          "asuminen"
         ]
       }
     ]
@@ -19555,6 +19568,19 @@
           "tiede",
           "esseet",
           "filosofia"
+        ]
+      },
+      {
+        "teos": "Maameren tarinat",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Maameren+tarinat+Ursula+K.+Le+Guin",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Earthsea+Ursula+K.+Le+Guin",
+        "kuvaus": "Ursula K. Le Guinin fantasiakirjasarja, jota Marko on lukenut ääneen 11-vuotiaalle pojalleen. Hahmoja ja hassuja nimiä riittää, ja kirjan lopun karttaa pitää tutkia kymmenen minuutin välein.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "fantasia",
+          "ääneen lukeminen",
+          "kirjasarja"
         ]
       }
     ]

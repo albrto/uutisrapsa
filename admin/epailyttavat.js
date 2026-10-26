@@ -320,6 +320,26 @@ window.VALIDATION_DATA = [
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Maameren tarinat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fantasia",
+          "ääneen lukeminen",
+          "kirjasarja"
+        ],
+        "kuvaus": "Ursula K. Le Guinin fantasiakirjasarja, jota Marko on lukenut ääneen 11-vuotiaalle pojalleen. Hahmoja ja hassuja nimiä riittää, ja kirjan lopun karttaa pitää tutkia kymmenen minuutin välein.",
+        "google_linkki": "https://www.google.com/search?q=Maameren+tarinat+Ursula+K.+Le+Guin",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Earthsea+Ursula+K.+Le+Guin",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -13443,7 +13463,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Hanna Havusto",
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Journalisti.fi – Marko-Oskari Lehtosen haastattelu",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -13463,7 +13483,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Hanna Havusto",
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Suomen Lehdistön podcast – Paavo Teittisen haastattelu",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -13478,6 +13498,26 @@ window.VALIDATION_DATA = [
         "lisalinkit": [
           "https://podcasts.apple.com/fi/podcast/paavo-teittinen-rikostutkinnoista-totta-kai-sit%C3%A4-py%C3%B6ritt%C3%A4%C3%A4/id1684199544?i=1000709079468"
         ],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Hanna Havusto",
+        "teos": "Tyhjät pahvilaatikot näkyville häkkivarastossa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "elämänohje",
+          "huumori",
+          "asuminen"
+        ],
+        "kuvaus": "Hannan häkkivarastoon murtauduttiin, ja varas ravisteli tyhjiä telkkarin ja Marimekon pahvilaatikoita. Hän neuvoo asettelemaan tyhjät laatikot niin, että varas näkee niiden olevan tyhjiä – se säästää vaivaa molemmilta.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
       }
