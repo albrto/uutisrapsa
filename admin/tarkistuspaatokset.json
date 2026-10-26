@@ -2808,5 +2808,63 @@
     },
     "aika": "2026-10-26T09:26:26",
     "viety": "2026-10-26T09:26:26"
+  },
+  "tag:soundcloud,2010:tracks/617992386::puuttuu::maameren tarinat": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Maameren tarinat",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Ursula K. Le Guinin fantasiakirjasarja, jota Marko on lukenut ääneen 11-vuotiaalle pojalleen. Hahmoja ja hassuja nimiä riittää, ja kirjan lopun karttaa pitää tutkia kymmenen minuutin välein.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "fantasia",
+        "ääneen lukeminen",
+        "kirjasarja"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Maameren+tarinat+Ursula+K.+Le+Guin",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Earthsea+Ursula+K.+Le+Guin"
+    },
+    "aika": "2026-10-26T09:37:29",
+    "viety": "2026-10-26T09:37:29"
+  },
+  "5ae70b59-55ee-4a4e-9cf2-290640c7a9b8::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Rasmus Helaniemi",
+      "kuvaus": "Iltalehden politiikan toimittaja Marko-Oskari Lehtosen haastattelu, jossa pohditaan miksi ihmiset haluavat kuunnella podcasteja, joissa toimittajat puhuvat keskenään."
+    },
+    "aika": "2026-10-26T09:37:29",
+    "viety": "2026-10-26T09:37:29"
+  },
+  "5ae70b59-55ee-4a4e-9cf2-290640c7a9b8::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Rasmus Helaniemi",
+      "kuvaus": "Suomen Lehdistön podcastin jakso, jossa Paavo Teittinen kertoo millaista on kun juttujen kohteet haastavat toimittajia käräjille ja miten paljon se vie työaikaa."
+    },
+    "aika": "2026-10-26T09:37:29",
+    "viety": "2026-10-26T09:37:29"
+  },
+  "5ae70b59-55ee-4a4e-9cf2-290640c7a9b8::puuttuu::tyhjät pahvilaatikot näkyville häkkivarastossa": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Tyhjät pahvilaatikot näkyville häkkivarastossa",
+      "suosittelija": "Hanna Havusto",
+      "kuvaus": "Hannan häkkivarastoon murtauduttiin, ja varas ravisteli tyhjiä telkkarin ja Marimekon pahvilaatikoita. Hän neuvoo asettelemaan tyhjät laatikot niin, että varas näkee niiden olevan tyhjiä – se säästää vaivaa molemmilta.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "elämänohje",
+        "huumori",
+        "asuminen"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-26T09:37:29",
+    "viety": "2026-10-26T09:37:29"
   }
 }
