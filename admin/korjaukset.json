@@ -4718,5 +4718,89 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "1483d61d-6615-4424-8aa9-c35b2173ceec",
+    "jakso_otsikko": "Taloussurkeus vol 294, Venäjän vaikuttaminen Suomessa, Epstein",
+    "paivamaara": "5.2.2026",
+    "r_idx": 0,
+    "teos": "Olympialaisten avajaiset – Milano Cortina 2026",
+    "uusi_data": {
+      "teos": "Olympialaisten avajaiset – Milano Cortina 2026",
+      "paakategoria": "urheilu",
+      "google_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+olympialaisten+avajaiset",
+      "lisatieto_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+olympialaisten+avajaiset",
+      "kuvaus": "Salla kehotti katsomaan Milano Cortinan talviolympialaisten avajaisseremonian. Hän oli jo jakson alussa innoissaan Italiassa alkaneista kisoista.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "talviolympialaiset",
+        "urheilu",
+        "televisio"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "1483d61d-6615-4424-8aa9-c35b2173ceec",
+    "jakso_otsikko": "Taloussurkeus vol 294, Venäjän vaikuttaminen Suomessa, Epstein",
+    "paivamaara": "5.2.2026",
+    "r_idx": 1,
+    "teos": "Työaikainen ruokailusuositus",
+    "uusi_data": {
+      "teos": "Työaikainen ruokailusuositus",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Valtion ravitsemusneuvottelukunnan julkaisema suositus siitä, miten eri töissä kannattaa syödä. Salla suosittelee tutustumaan siihen humoristisessa hengessä ihanana kurkistuksena menneeseen.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "ravitsemus",
+        "työelämä",
+        "terveys"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "1483d61d-6615-4424-8aa9-c35b2173ceec",
+    "jakso_otsikko": "Taloussurkeus vol 294, Venäjän vaikuttaminen Suomessa, Epstein",
+    "paivamaara": "5.2.2026",
+    "r_idx": 2,
+    "teos": "Lahti matkakohteena",
+    "uusi_data": {
+      "teos": "Lahti matkakohteena",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Lahti+matkakohde+Suomi",
+      "lisatieto_linkki": "https://www.google.com/search?q=Lahti+matkailu",
+      "kuvaus": "Guardian-lehden lukijat suosittelivat Lahtea Suomen matkakohteeksi, ja Jussi yhtyy suositukseen. Tunnin päässä Helsingistä, mahdollisuus myös hiihtämiseen.",
+      "suosittelija": "Jussi Niemeläinen",
+      "kategoriat": [
+        "matkailu",
+        "Suomi",
+        "hiihto"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "1483d61d-6615-4424-8aa9-c35b2173ceec",
+    "jakso_otsikko": "Taloussurkeus vol 294, Venäjän vaikuttaminen Suomessa, Epstein",
+    "paivamaara": "5.2.2026",
+    "r_idx": 3,
+    "teos": "Mamma Rosa, Lahti",
+    "uusi_data": {
+      "teos": "Mamma Rosa, Lahti",
+      "paakategoria": "ruoka",
+      "google_linkki": "https://www.google.com/search?q=Mamma+Rosa+ravintola+Lahti",
+      "lisatieto_linkki": "https://www.google.com/search?q=Mamma+Rosa+ravintola+Lahti",
+      "kuvaus": "Italialaisen perheen pyörittämä ravintola Lahdessa, jossa noin neljäkymmentä perheenjäsentä tarjoilee kuutisataa pasta-annosta. Tuomas jatkoi Jussin Lahti-vinkkiä ja kuvailee kokemusta erinomaiseksi, hauskaksi ja omintakeiseksi.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "ravintola",
+        "italialainen ruoka",
+        "Lahti"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

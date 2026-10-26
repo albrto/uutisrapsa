@@ -2768,5 +2768,45 @@
     },
     "aika": "2026-10-25T20:20:48",
     "viety": "2026-10-25T20:20:48"
+  },
+  "1483d61d-6615-4424-8aa9-c35b2173ceec::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Salla kehotti katsomaan Milano Cortinan talviolympialaisten avajaisseremonian. Hän oli jo jakson alussa innoissaan Italiassa alkaneista kisoista."
+    },
+    "aika": "2026-10-26T09:26:26",
+    "viety": "2026-10-26T09:26:26"
+  },
+  "1483d61d-6615-4424-8aa9-c35b2173ceec::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Valtion ravitsemusneuvottelukunnan julkaisema suositus siitä, miten eri töissä kannattaa syödä. Salla suosittelee tutustumaan siihen humoristisessa hengessä ihanana kurkistuksena menneeseen."
+    },
+    "aika": "2026-10-26T09:26:26",
+    "viety": "2026-10-26T09:26:26"
+  },
+  "1483d61d-6615-4424-8aa9-c35b2173ceec::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Jussi Niemeläinen",
+      "kuvaus": "Guardian-lehden lukijat suosittelivat Lahtea Suomen matkakohteeksi, ja Jussi yhtyy suositukseen. Tunnin päässä Helsingistä, mahdollisuus myös hiihtämiseen."
+    },
+    "aika": "2026-10-26T09:26:26",
+    "viety": "2026-10-26T09:26:26"
+  },
+  "1483d61d-6615-4424-8aa9-c35b2173ceec::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Italialaisen perheen pyörittämä ravintola Lahdessa, jossa noin neljäkymmentä perheenjäsentä tarjoilee kuutisataa pasta-annosta. Tuomas jatkoi Jussin Lahti-vinkkiä ja kuvailee kokemusta erinomaiseksi, hauskaksi ja omintakeiseksi."
+    },
+    "aika": "2026-10-26T09:26:26",
+    "viety": "2026-10-26T09:26:26"
   }
 }
