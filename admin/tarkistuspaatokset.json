@@ -2991,5 +2991,54 @@
     },
     "aika": "2026-10-27T06:46:21",
     "viety": "2026-10-27T06:46:21"
+  },
+  "1862f21e-d368-4b9f-8459-2828794a7d56::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "John Helin",
+      "kuvaus": "Peter Jacksonin vuonna 2021 julkaisema dokumentti, joka perustuu Beatlesin itse nauhoittamaan materiaaliin heidän viimeisten albumiensa tekovaiheesta. Noin seitsemän tunnin teos antaa arkistomateriaalin puhua puolestaan ilman erillistä kertojaa."
+    },
+    "aika": "2026-10-27T06:48:28",
+    "viety": "2026-10-27T06:48:28"
+  },
+  "1862f21e-d368-4b9f-8459-2828794a7d56::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Jussi Niemeläinen",
+      "kuvaus": "Georgialainen perinteinen herkku, jossa pähkinät pujotetaan langalle ja upotetaan viinirypälemehusta ja jauhoista tehtyyn seokseen, joka jähmettyy pötkylämäiseksi makeiseksi. Vegaaninen ja sokeriton; Jussi toi niitä Georgiasta tuliaisiksi."
+    },
+    "aika": "2026-10-27T06:48:28",
+    "viety": "2026-10-27T06:48:28"
+  },
+  "bc9d023c-9ee8-4897-b82e-615da55da05b::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Norjalaisen Niina Lycken hauska romaani keski-ikäisestä mieskirjailijasta, joka joutuu kirjallisuusfestivaaleilla paneeliin naisen kanssa, joka on omassa kirjassaan syyttänyt häntä seksuaalisesta häirinnästä. Kirja pilkkaa kirjallisuuspiirejä, woke-kulttuuria ja mieskirjailijoita."
+    },
+    "aika": "2026-10-27T06:48:28",
+    "viety": "2026-10-27T06:48:28"
+  },
+  "bc9d023c-9ee8-4897-b82e-615da55da05b::puuttuu::uutinen britannian rajavalvontatarkastajasta, joka aikoo tehdä työtä etänä suomesta": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Uutinen Britannian rajavalvontatarkastajasta, joka aikoo tehdä työtä etänä Suomesta",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Brittikohu juuri nimitetystä raja- ja maahanmuuttovalvonnan päätarkastajasta, jonka perhe asuu Suomessa ja joka aikoo hoitaa tehtävää etänä. Asiasta kysyttiin jopa pääministerin kyselytunnilla, ja Tuomas lupasi hänelle podcastin täyden tuen.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "uutinen",
+        "Britannia",
+        "huumori"
+      ],
+      "google_linkki": "https://www.google.com/search?q=UK+chief+inspector+of+borders+lives+in+Finland+work+from+home",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-27T06:48:28",
+    "viety": "2026-10-27T06:48:28"
   }
 }

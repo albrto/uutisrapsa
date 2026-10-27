@@ -5078,5 +5078,90 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "1862f21e-d368-4b9f-8459-2828794a7d56",
+    "jakso_otsikko": "Naton lopullinen romahdus, Kalasataman jättipalo ja varoitus, täältä tulee Suvivirsi!",
+    "paivamaara": "28.5.2026",
+    "r_idx": 0,
+    "teos": "The Beatles: Get Back",
+    "uusi_data": {
+      "teos": "The Beatles: Get Back",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=The+Beatles+Get+Back+dokumentti",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Beatles+Get+Back",
+      "kuvaus": "Peter Jacksonin vuonna 2021 julkaisema dokumentti, joka perustuu Beatlesin itse nauhoittamaan materiaaliin heidän viimeisten albumiensa tekovaiheesta. Noin seitsemän tunnin teos antaa arkistomateriaalin puhua puolestaan ilman erillistä kertojaa.",
+      "suosittelija": "John Helin",
+      "kategoriat": [
+        "dokumentti",
+        "musiikki",
+        "historia"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "1862f21e-d368-4b9f-8459-2828794a7d56",
+    "jakso_otsikko": "Naton lopullinen romahdus, Kalasataman jättipalo ja varoitus, täältä tulee Suvivirsi!",
+    "paivamaara": "28.5.2026",
+    "r_idx": 1,
+    "teos": "Churchkhela (georgialainen jälkiruoka)",
+    "uusi_data": {
+      "teos": "Churchkhela (georgialainen jälkiruoka)",
+      "paakategoria": "ruoka",
+      "google_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
+      "lisatieto_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
+      "kuvaus": "Georgialainen perinteinen herkku, jossa pähkinät pujotetaan langalle ja upotetaan viinirypälemehusta ja jauhoista tehtyyn seokseen, joka jähmettyy pötkylämäiseksi makeiseksi. Vegaaninen ja sokeriton; Jussi toi niitä Georgiasta tuliaisiksi.",
+      "suosittelija": "Jussi Niemeläinen",
+      "kategoriat": [
+        "georgia",
+        "vegaaninen",
+        "matkatuliaiset"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "bc9d023c-9ee8-4897-b82e-615da55da05b",
+    "jakso_otsikko": "14.2.2025: Munchenin turpo-miitti, rauhansopimus, RareEarthElements, ICH KOMME",
+    "paivamaara": "14.2.2025",
+    "r_idx": 0,
+    "teos": "Emme ole täällä pitämässä hauskaa",
+    "uusi_data": {
+      "teos": "Emme ole täällä pitämässä hauskaa",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Emme+ole+t%C3%A4%C3%A4ll%C3%A4+pit%C3%A4m%C3%A4ss%C3%A4+hauskaa+Niina+Lycke",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Emme+ole+t%C3%A4%C3%A4ll%C3%A4+pit%C3%A4m%C3%A4ss%C3%A4+hauskaa",
+      "kuvaus": "Norjalaisen Niina Lycken hauska romaani keski-ikäisestä mieskirjailijasta, joka joutuu kirjallisuusfestivaaleilla paneeliin naisen kanssa, joka on omassa kirjassaan syyttänyt häntä seksuaalisesta häirinnästä. Kirja pilkkaa kirjallisuuspiirejä, woke-kulttuuria ja mieskirjailijoita.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "huumori",
+        "kirjallisuuspiirit",
+        "skandinaavinen kirjallisuus"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "bc9d023c-9ee8-4897-b82e-615da55da05b",
+    "jakso_otsikko": "14.2.2025: Munchenin turpo-miitti, rauhansopimus, RareEarthElements, ICH KOMME",
+    "paivamaara": "14.2.2025",
+    "r_idx": 2,
+    "teos": "Uutinen Britannian rajavalvontatarkastajasta, joka aikoo tehdä työtä etänä Suomesta",
+    "uusi_data": {
+      "teos": "Uutinen Britannian rajavalvontatarkastajasta, joka aikoo tehdä työtä etänä Suomesta",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=UK+chief+inspector+of+borders+lives+in+Finland+work+from+home",
+      "lisatieto_linkki": "",
+      "kuvaus": "Brittikohu juuri nimitetystä raja- ja maahanmuuttovalvonnan päätarkastajasta, jonka perhe asuu Suomessa ja joka aikoo hoitaa tehtävää etänä. Asiasta kysyttiin jopa pääministerin kyselytunnilla, ja Tuomas lupasi hänelle podcastin täyden tuen.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "uutinen",
+        "Britannia",
+        "huumori"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
