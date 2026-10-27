@@ -11185,7 +11185,7 @@
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "John Helin",
         "teos": "The Beatles: Get Back",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -11205,7 +11205,7 @@
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Jussi Niemeläinen",
         "teos": "Churchkhela (georgialainen jälkiruoka)",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -11213,7 +11213,7 @@
           "vegaaninen",
           "matkatuliaiset"
         ],
-        "kuvaus": "Georgialainen perinteinen herkku, jossa pähkinät pujotetaan langalle ja upotetaan viinimehusta ja jauhosta tehtyyn seokseen, joka jähmettyy pötkylämäiseksi makeiseksi. Vegaaninen ja sokeriton.",
+        "kuvaus": "Georgialainen perinteinen herkku, jossa pähkinät pujotetaan langalle ja upotetaan viinirypälemehusta ja jauhoista tehtyyn seokseen, joka jähmettyy pötkylämäiseksi makeiseksi. Vegaaninen ja sokeriton; Jussi toi niitä Georgiasta tuliaisiksi.",
         "google_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
         "lisatieto_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
         "alkupera": "",
@@ -27972,7 +27972,7 @@
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Suvi Turtiainen",
+        "suosittelija": "Marko Junkkari",
         "teos": "Emme ole täällä pitämässä hauskaa",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -28003,6 +28003,26 @@
         "kuvaus": "Vuoden 2017 historiallinen elokuva, jossa Gary Oldman esittää Winston Churchilliä. Teos kuvaa 1940-luvun alun kriittisiä hetkiä, kun Churchill nimitettiin pääministeriksi ja joutui vakuuttamaan britit taistelun jatkamisesta Hitleriä vastaan.",
         "google_linkki": "https://www.google.com/search?q=Synkin+hetki+2017+Churchill+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Darkest+Hour+2017",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Uutinen Britannian rajavalvontatarkastajasta, joka aikoo tehdä työtä etänä Suomesta",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "uutinen",
+          "Britannia",
+          "huumori"
+        ],
+        "kuvaus": "Brittikohu juuri nimitetystä raja- ja maahanmuuttovalvonnan päätarkastajasta, jonka perhe asuu Suomessa ja joka aikoo hoitaa tehtävää etänä. Asiasta kysyttiin jopa pääministerin kyselytunnilla, ja Tuomas lupasi hänelle podcastin täyden tuen.",
+        "google_linkki": "https://www.google.com/search?q=UK+chief+inspector+of+borders+lives+in+Finland+work+from+home",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
