@@ -25434,7 +25434,7 @@
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Last One Laughing (japanilainen formaatti)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -25442,7 +25442,7 @@
           "tosi-tv",
           "brittiläinen"
         ],
-        "kuvaus": "Tosi-tv-kilpailu, jossa huippukoomikoita suljetaan taloon ja heidän tehtävänään on saada muut nauramaan olematta itse repeämättä. Brittiläinen versio on kerännyt suosiota.",
+        "kuvaus": "Tosi-tv-kilpailu, jossa huippukoomikot suljetaan taloon ja heidän tehtävänään on saada muut nauramaan repeämättä itse. Japanilaisesta formaatista on tehty myös suosittu brittiversio.",
         "google_linkki": "https://www.google.com/search?q=Last+One+Laughing",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing",
         "alkupera": "",
@@ -25454,7 +25454,7 @@
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Bob Mortimer",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -25462,7 +25462,7 @@
           "brittiläinen",
           "stand-up"
         ],
-        "kuvaus": "Brittiläinen koomikko, jota suositellaan katsomaan ihan missä formaatissa tahansa – käsittämättömän hauska ukko.",
+        "kuvaus": "Brittiläinen koomikko, jota Salla suosittelee katsomaan missä formaatissa tahansa – käsittämättömän hauska ukko.",
         "google_linkki": "https://www.google.com/search?q=Bob+Mortimer+comedian",
         "lisatieto_linkki": "https://www.google.com/search?q=Bob+Mortimer+comedian",
         "alkupera": "",
@@ -25506,6 +25506,44 @@
         "google_linkki": "https://www.google.com/search?q=Wind+of+Change+podcast+Patrick+Radden+Keefe",
         "lisatieto_linkki": "https://open.spotify.com/search/Wind%20of%20Change%20podcast",
         "alkupera": "ulkomainen",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Karkkila",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "matkailu",
+          "kotimaa"
+        ],
+        "kuvaus": "Uusimaalainen pikkukaupunki, jossa Jussin mukaan tuntuu kuin olisi ajanut autolla 90-luvulle; siellä on tehtaanhotelli ja Aki Kaurismäen omistama elokuvateatteri. Jussi suosittelee käyntiä erityisesti keväällä.",
+        "google_linkki": "https://www.google.com/search?q=Karkkila",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Isänpäivä (Aleksi Salmenperä)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "kotimainen elokuva",
+          "draama"
+        ],
+        "kuvaus": "Aleksi Salmenperän ohjaama elokuva, jonka pääosissa ovat Tommi Korpela ja Laura Birn. Jussi näki sen Karkkilan elokuvateatterissa, jossa ohjaaja ja näyttelijät kävivät keskustelemassa yleisön kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Is%C3%A4np%C3%A4iv%C3%A4+elokuva+Aleksi+Salmenper%C3%A4",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Is%C3%A4np%C3%A4iv%C3%A4+Salmenper%C3%A4",
+        "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
