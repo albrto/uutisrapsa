@@ -4888,5 +4888,69 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/902759080",
+    "jakso_otsikko": "1.10.2020: Kiihtyvä korona, USA:n vaaliväittely, Sananvapaustuomio hovissa",
+    "paivamaara": "1.10.2020",
+    "r_idx": 0,
+    "teos": "The Wilderness: A History of the First Presidential Race (Mark Halperin & John Heilemann)",
+    "uusi_data": {
+      "teos": "What It Takes: The Way to the White House (Richard Ben Cramer)",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=What+It+Takes+Richard+Ben+Cramer",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=What+It+Takes+Richard+Ben+Cramer",
+      "kuvaus": "Richard Ben Cramerin yli tuhatsivuinen kirja Yhdysvaltain vuoden 1988 presidentinvaalikampanjasta, joka kuvaa ehdokkaita poikkeuksellisen inhimillisesti heidän sisäisen maailmansa kautta. Marko suositteli kirjaa kolmatta kertaa peräkkäin, ja Tuomas yhtyi suositukseen.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "politiikka",
+        "Yhdysvallat",
+        "vaalit"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/902759080",
+    "jakso_otsikko": "1.10.2020: Kiihtyvä korona, USA:n vaaliväittely, Sananvapaustuomio hovissa",
+    "paivamaara": "1.10.2020",
+    "r_idx": 1,
+    "teos": "@UutisraporttiAW (Twitter-tili)",
+    "uusi_data": {
+      "teos": "@UutisraporttiAW (Twitter-tili)",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=UutisraporttiAW+Twitter",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuntemattoman kuulijan perustama Twitter-tili, joka käy läpi vanhoja Uutisraportti-jaksoja ja listaa niiden suositukset linkkeineen. Tuomas toivoi, että tekijä jaksaa jatkaa, jotta tilistä kertyy kunnon linkkiaarteisto.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "some",
+        "Twitter",
+        "Uutisraportti"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/902759080",
+    "jakso_otsikko": "1.10.2020: Kiihtyvä korona, USA:n vaaliväittely, Sananvapaustuomio hovissa",
+    "paivamaara": "1.10.2020",
+    "r_idx": 2,
+    "teos": "Junes Lokan YouTube-video",
+    "uusi_data": {
+      "teos": "Junes Lokan YouTube-video",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Junes+Lokka+video+Vehkoo",
+      "lisatieto_linkki": "",
+      "kuvaus": "Video, jossa Junes Lokka kertoo poliittisen toimintansa tavoitteista ja nimeää Johanna Vehkoota vastaan käydyn oikeudenkäynnin menestyneimmäksi poliittiseksi tekemisekseen. Marian mukaan video antaa ajattelemisen aihetta hovioikeuden tuomiosta, jonka mukaan Vehkoon kirjoitukset eivät koskeneet Lokan poliittista toimintaa.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "video",
+        "sananvapaus"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

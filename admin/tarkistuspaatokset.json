@@ -2866,5 +2866,54 @@
     },
     "aika": "2026-10-26T09:37:29",
     "viety": "2026-10-26T09:37:29"
+  },
+  "tag:soundcloud,2010:tracks/902759080::teos::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "teos": "What It Takes: The Way to the White House (Richard Ben Cramer)",
+      "google_linkki": "https://www.google.com/search?q=What+It+Takes+Richard+Ben+Cramer",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=What+It+Takes+Richard+Ben+Cramer",
+      "kuvaus": "Richard Ben Cramerin yli tuhatsivuinen kirja Yhdysvaltain vuoden 1988 presidentinvaalikampanjasta, joka kuvaa ehdokkaita poikkeuksellisen inhimillisesti heidän sisäisen maailmansa kautta. Marko suositteli kirjaa kolmatta kertaa peräkkäin, ja Tuomas yhtyi suositukseen."
+    },
+    "aika": "2026-10-27T06:27:52",
+    "viety": "2026-10-27T06:27:52"
+  },
+  "tag:soundcloud,2010:tracks/902759080::puuttuu::@uutisraporttiaw (twitter-tili)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "@UutisraporttiAW (Twitter-tili)",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuntemattoman kuulijan perustama Twitter-tili, joka käy läpi vanhoja Uutisraportti-jaksoja ja listaa niiden suositukset linkkeineen. Tuomas toivoi, että tekijä jaksaa jatkaa, jotta tilistä kertyy kunnon linkkiaarteisto.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "some",
+        "Twitter",
+        "Uutisraportti"
+      ],
+      "google_linkki": "https://www.google.com/search?q=UutisraporttiAW+Twitter",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-27T06:27:52",
+    "viety": "2026-10-27T06:27:52"
+  },
+  "tag:soundcloud,2010:tracks/902759080::puuttuu::junes lokan youtube-video": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Junes Lokan YouTube-video",
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Video, jossa Junes Lokka kertoo poliittisen toimintansa tavoitteista ja nimeää Johanna Vehkoota vastaan käydyn oikeudenkäynnin menestyneimmäksi poliittiseksi tekemisekseen. Marian mukaan video antaa ajattelemisen aihetta hovioikeuden tuomiosta, jonka mukaan Vehkoon kirjoitukset eivät koskeneet Lokan poliittista toimintaa.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "video",
+        "sananvapaus"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Junes+Lokka+video+Vehkoo",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-27T06:27:52",
+    "viety": "2026-10-27T06:27:52"
   }
 }
