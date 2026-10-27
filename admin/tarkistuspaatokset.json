@@ -2915,5 +2915,61 @@
     },
     "aika": "2026-10-27T06:27:52",
     "viety": "2026-10-27T06:27:52"
+  },
+  "12121d03-6138-4c7c-8da6-cfa2ebc87100::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Tosi-tv-kilpailu, jossa huippukoomikot suljetaan taloon ja heidän tehtävänään on saada muut nauramaan repeämättä itse. Japanilaisesta formaatista on tehty myös suosittu brittiversio."
+    },
+    "aika": "2026-10-27T06:45:23",
+    "viety": "2026-10-27T06:45:23"
+  },
+  "12121d03-6138-4c7c-8da6-cfa2ebc87100::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Brittiläinen koomikko, jota Salla suosittelee katsomaan missä formaatissa tahansa – käsittämättömän hauska ukko."
+    },
+    "aika": "2026-10-27T06:45:23",
+    "viety": "2026-10-27T06:45:23"
+  },
+  "12121d03-6138-4c7c-8da6-cfa2ebc87100::puuttuu::karkkila": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Karkkila",
+      "suosittelija": "Jussi Niemeläinen",
+      "kuvaus": "Uusimaalainen pikkukaupunki, jossa Jussin mukaan tuntuu kuin olisi ajanut autolla 90-luvulle; siellä on tehtaanhotelli ja Aki Kaurismäen omistama elokuvateatteri. Jussi suosittelee käyntiä erityisesti keväällä.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "matkailu",
+        "kotimaa"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Karkkila",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-27T06:45:23",
+    "viety": "2026-10-27T06:45:23"
+  },
+  "12121d03-6138-4c7c-8da6-cfa2ebc87100::puuttuu::isänpäivä (aleksi salmenperä)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Isänpäivä (Aleksi Salmenperä)",
+      "suosittelija": "Jussi Niemeläinen",
+      "kuvaus": "Aleksi Salmenperän ohjaama elokuva, jonka pääosissa ovat Tommi Korpela ja Laura Birn. Jussi näki sen Karkkilan elokuvateatterissa, jossa ohjaaja ja näyttelijät kävivät keskustelemassa yleisön kanssa.",
+      "paakategoria": "elokuva",
+      "kategoriat": [
+        "kotimainen elokuva",
+        "draama"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Is%C3%A4np%C3%A4iv%C3%A4+elokuva+Aleksi+Salmenper%C3%A4",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Is%C3%A4np%C3%A4iv%C3%A4+Salmenper%C3%A4"
+    },
+    "aika": "2026-10-27T06:45:23",
+    "viety": "2026-10-27T06:45:23"
   }
 }

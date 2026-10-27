@@ -4952,5 +4952,89 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "12121d03-6138-4c7c-8da6-cfa2ebc87100",
+    "jakso_otsikko": "Trump-sus vs. paavi, Helsingin autoreply-tuet, Suomi jää kelkasta syöpähoidoissa",
+    "paivamaara": "16.4.2026",
+    "r_idx": 0,
+    "teos": "Last One Laughing (japanilainen formaatti)",
+    "uusi_data": {
+      "teos": "Last One Laughing (japanilainen formaatti)",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Last+One+Laughing",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing",
+      "kuvaus": "Tosi-tv-kilpailu, jossa huippukoomikot suljetaan taloon ja heidän tehtävänään on saada muut nauramaan repeämättä itse. Japanilaisesta formaatista on tehty myös suosittu brittiversio.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "komedia",
+        "tosi-tv",
+        "brittiläinen"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "12121d03-6138-4c7c-8da6-cfa2ebc87100",
+    "jakso_otsikko": "Trump-sus vs. paavi, Helsingin autoreply-tuet, Suomi jää kelkasta syöpähoidoissa",
+    "paivamaara": "16.4.2026",
+    "r_idx": 1,
+    "teos": "Bob Mortimer",
+    "uusi_data": {
+      "teos": "Bob Mortimer",
+      "paakategoria": "kulttuuri",
+      "google_linkki": "https://www.google.com/search?q=Bob+Mortimer+comedian",
+      "lisatieto_linkki": "https://www.google.com/search?q=Bob+Mortimer+comedian",
+      "kuvaus": "Brittiläinen koomikko, jota Salla suosittelee katsomaan missä formaatissa tahansa – käsittämättömän hauska ukko.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "komedia",
+        "brittiläinen",
+        "stand-up"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "12121d03-6138-4c7c-8da6-cfa2ebc87100",
+    "jakso_otsikko": "Trump-sus vs. paavi, Helsingin autoreply-tuet, Suomi jää kelkasta syöpähoidoissa",
+    "paivamaara": "16.4.2026",
+    "r_idx": 4,
+    "teos": "Karkkila",
+    "uusi_data": {
+      "teos": "Karkkila",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Karkkila",
+      "lisatieto_linkki": "",
+      "kuvaus": "Uusimaalainen pikkukaupunki, jossa Jussin mukaan tuntuu kuin olisi ajanut autolla 90-luvulle; siellä on tehtaanhotelli ja Aki Kaurismäen omistama elokuvateatteri. Jussi suosittelee käyntiä erityisesti keväällä.",
+      "suosittelija": "Jussi Niemeläinen",
+      "kategoriat": [
+        "matkailu",
+        "kotimaa"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "12121d03-6138-4c7c-8da6-cfa2ebc87100",
+    "jakso_otsikko": "Trump-sus vs. paavi, Helsingin autoreply-tuet, Suomi jää kelkasta syöpähoidoissa",
+    "paivamaara": "16.4.2026",
+    "r_idx": 5,
+    "teos": "Isänpäivä (Aleksi Salmenperä)",
+    "uusi_data": {
+      "teos": "Isänpäivä (Aleksi Salmenperä)",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=Is%C3%A4np%C3%A4iv%C3%A4+elokuva+Aleksi+Salmenper%C3%A4",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Is%C3%A4np%C3%A4iv%C3%A4+Salmenper%C3%A4",
+      "kuvaus": "Aleksi Salmenperän ohjaama elokuva, jonka pääosissa ovat Tommi Korpela ja Laura Birn. Jussi näki sen Karkkilan elokuvateatterissa, jossa ohjaaja ja näyttelijät kävivät keskustelemassa yleisön kanssa.",
+      "suosittelija": "Jussi Niemeläinen",
+      "kategoriat": [
+        "kotimainen elokuva",
+        "draama"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
