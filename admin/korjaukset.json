@@ -5036,5 +5036,47 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/969912847",
+    "jakso_otsikko": "21.1.2021: Saksan uusi Merkel, Suomen absurdit terrorilait, Navalnyi",
+    "paivamaara": "21.1.2021",
+    "r_idx": 0,
+    "teos": "This One Summer",
+    "uusi_data": {
+      "teos": "This One Summer",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=This+One+Summer+Jillian+Tamaki+Mariko+Tamaki",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=This+One+Summer",
+      "kuvaus": "Jillian ja Mariko Tamakin aikuisten sarjakuvaromaani kahden tytön kesästä mökkipaikkakunnalla ja kasvamisesta nuoreksi naiseksi. Tuomaksen mukaan kirja on erityisen koskettava tyttöjen vanhemmille, varsinkin isille.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "sarjakuva",
+        "nuorisokirjallisuus",
+        "kasvutarina"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/969912847",
+    "jakso_otsikko": "21.1.2021: Saksan uusi Merkel, Suomen absurdit terrorilait, Navalnyi",
+    "paivamaara": "21.1.2021",
+    "r_idx": 1,
+    "teos": "Tappolista: Kremlin murhat",
+    "uusi_data": {
+      "teos": "Tappolista: Kremlin murhat",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Tappolista+Kremlin+murhat+Heidi+Blake",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Tappolista+Kremlin+murhat",
+      "kuvaus": "Heidi Blaken tietokirja Kremlin tilaamista murhista. Maria sai kirjan lahjaksi Markolta ja lupasi kertoa siitä lisää luettuaan sen loppuun.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "tietokirja",
+        "Venäjä",
+        "politiikka"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

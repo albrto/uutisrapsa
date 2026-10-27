@@ -2971,5 +2971,25 @@
     },
     "aika": "2026-10-27T06:45:23",
     "viety": "2026-10-27T06:45:23"
+  },
+  "tag:soundcloud,2010:tracks/969912847::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Jillian ja Mariko Tamakin aikuisten sarjakuvaromaani kahden tytön kesästä mökkipaikkakunnalla ja kasvamisesta nuoreksi naiseksi. Tuomaksen mukaan kirja on erityisen koskettava tyttöjen vanhemmille, varsinkin isille."
+    },
+    "aika": "2026-10-27T06:46:21",
+    "viety": "2026-10-27T06:46:21"
+  },
+  "tag:soundcloud,2010:tracks/969912847::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Heidi Blaken tietokirja Kremlin tilaamista murhista. Maria sai kirjan lahjaksi Markolta ja lupasi kertoa siitä lisää luettuaan sen loppuun."
+    },
+    "aika": "2026-10-27T06:46:21",
+    "viety": "2026-10-27T06:46:21"
   }
 }
