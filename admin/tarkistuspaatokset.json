@@ -3040,5 +3040,98 @@
     },
     "aika": "2026-10-27T06:48:28",
     "viety": "2026-10-27T06:48:28"
+  },
+  "tag:soundcloud,2010:tracks/621516915::puuttuu::can cbd really do all that? (artikkeli)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Can CBD Really Do All That? (artikkeli)",
+      "suosittelija": "Aino Frilander",
+      "kuvaus": "Amerikkalaisen aikakauslehden erikoisnumeron pitkä pääjuttu kannabidiolista eli CBD:stä, jonka väitetään auttavan kaikkeen lasten epilepsiasta ahdistukseen, vaikka tutkimus laahaa perässä. Ainon mukaan juttu on erittäin mielenkiintoinen.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "tiede",
+        "terveys",
+        "kannabis"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Can+CBD+Really+Do+All+That",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-28T00:31:23",
+    "viety": "2026-10-28T00:31:23"
+  },
+  "93eb724b-a719-4da5-bd79-90efc0d4b2b9::puuttuu::the idea of you": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "The Idea of You",
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Vuoden 2024 romanttinen elokuva, jossa yli 40-vuotias nainen (Anne Hathaway) rakastuu suositun poikabändin nuoreen laulajaan. Salla nosti sen esiin kuulijoiden lukuisista romanttisten elokuvien ja sarjojen vinkeistä – siirappinen ja ihana.",
+      "paakategoria": "elokuva",
+      "kategoriat": [
+        "romantiikka",
+        "komedia"
+      ],
+      "google_linkki": "https://www.google.com/search?q=The+Idea+of+You+elokuva",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Idea+of+You"
+    },
+    "aika": "2026-10-28T00:31:23",
+    "viety": "2026-10-28T00:31:23"
+  },
+  "93eb724b-a719-4da5-bd79-90efc0d4b2b9::puuttuu::tahraton mieli (eternal sunshine of the spotless mind)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Tahraton mieli (Eternal Sunshine of the Spotless Mind)",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Michel Gondryn ohjaama elokuva parisuhteesta ja muistojen pyyhkimisestä – outo mutta realistinen romanttinen elokuva. Tuomas ehdotti sitä Sallan romantiikkalistan jatkoksi ja pitää sitä ehkä parhaana elokuvanaan.",
+      "paakategoria": "elokuva",
+      "kategoriat": [
+        "romantiikka",
+        "draama"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Eternal+Sunshine+of+the+Spotless+Mind",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Eternal+Sunshine+of+the+Spotless+Mind"
+    },
+    "aika": "2026-10-28T00:31:23",
+    "viety": "2026-10-28T00:31:23"
+  },
+  "93eb724b-a719-4da5-bd79-90efc0d4b2b9::puuttuu::klassinen musiikki radiosta": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Klassinen musiikki radiosta",
+      "suosittelija": "Jussi Niemeläinen",
+      "kuvaus": "Jussi on siirtynyt kotona kuuntelemaan radiosta klassista musiikkia uutisten sijaan ja huomannut sen rauhoittavan maailman myllerryksen keskellä. Hän suosittelee sitä kaikille Trump-ähkyyn.",
+      "paakategoria": "musiikki",
+      "kategoriat": [
+        "klassinen musiikki",
+        "radio",
+        "rauhoittuminen"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-28T00:31:23",
+    "viety": "2026-10-28T00:31:23"
+  },
+  "93eb724b-a719-4da5-bd79-90efc0d4b2b9::puuttuu::the new statesman": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "The New Statesman",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Brittiläinen, historialtaan vasemmalle kallellaan oleva politiikan ja ulkopolitiikan aikakauslehti, johon Tuomas törmäsi RSS-syötteitä lukiessaan. Hän ihastui sen älykkääseen, viiltävään ja silti hauskaan kirjoitustapaan, esimerkiksi Davos- ja Grönlanti-juttuihin.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "lehti",
+        "politiikka",
+        "Britannia"
+      ],
+      "google_linkki": "https://www.google.com/search?q=The+New+Statesman",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-28T00:31:23",
+    "viety": "2026-10-28T00:31:23"
   }
 }

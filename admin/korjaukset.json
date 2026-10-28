@@ -5163,5 +5163,113 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/621516915",
+    "jakso_otsikko": "16.5.2019: Hallitusneuvottelut, USA vs. Kiina kauppasodassa, naisten vartaloiden politiikka",
+    "paivamaara": "16.5.2019",
+    "r_idx": 1,
+    "teos": "Can CBD Really Do All That? (artikkeli)",
+    "uusi_data": {
+      "teos": "Can CBD Really Do All That? (artikkeli)",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Can+CBD+Really+Do+All+That",
+      "lisatieto_linkki": "",
+      "kuvaus": "Amerikkalaisen aikakauslehden erikoisnumeron pitkä pääjuttu kannabidiolista eli CBD:stä, jonka väitetään auttavan kaikkeen lasten epilepsiasta ahdistukseen, vaikka tutkimus laahaa perässä. Ainon mukaan juttu on erittäin mielenkiintoinen.",
+      "suosittelija": "Aino Frilander",
+      "kategoriat": [
+        "tiede",
+        "terveys",
+        "kannabis"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "93eb724b-a719-4da5-bd79-90efc0d4b2b9",
+    "jakso_otsikko": "Trump, Trump ja Trump, ja vähän Stubb",
+    "paivamaara": "22.1.2026",
+    "r_idx": 0,
+    "teos": "The Idea of You",
+    "uusi_data": {
+      "teos": "The Idea of You",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=The+Idea+of+You+elokuva",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Idea+of+You",
+      "kuvaus": "Vuoden 2024 romanttinen elokuva, jossa yli 40-vuotias nainen (Anne Hathaway) rakastuu suositun poikabändin nuoreen laulajaan. Salla nosti sen esiin kuulijoiden lukuisista romanttisten elokuvien ja sarjojen vinkeistä – siirappinen ja ihana.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "romantiikka",
+        "komedia"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "93eb724b-a719-4da5-bd79-90efc0d4b2b9",
+    "jakso_otsikko": "Trump, Trump ja Trump, ja vähän Stubb",
+    "paivamaara": "22.1.2026",
+    "r_idx": 1,
+    "teos": "Tahraton mieli (Eternal Sunshine of the Spotless Mind)",
+    "uusi_data": {
+      "teos": "Tahraton mieli (Eternal Sunshine of the Spotless Mind)",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=Eternal+Sunshine+of+the+Spotless+Mind",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Eternal+Sunshine+of+the+Spotless+Mind",
+      "kuvaus": "Michel Gondryn ohjaama elokuva parisuhteesta ja muistojen pyyhkimisestä – outo mutta realistinen romanttinen elokuva. Tuomas ehdotti sitä Sallan romantiikkalistan jatkoksi ja pitää sitä ehkä parhaana elokuvanaan.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "romantiikka",
+        "draama"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "93eb724b-a719-4da5-bd79-90efc0d4b2b9",
+    "jakso_otsikko": "Trump, Trump ja Trump, ja vähän Stubb",
+    "paivamaara": "22.1.2026",
+    "r_idx": 2,
+    "teos": "Klassinen musiikki radiosta",
+    "uusi_data": {
+      "teos": "Klassinen musiikki radiosta",
+      "paakategoria": "musiikki",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Jussi on siirtynyt kotona kuuntelemaan radiosta klassista musiikkia uutisten sijaan ja huomannut sen rauhoittavan maailman myllerryksen keskellä. Hän suosittelee sitä kaikille Trump-ähkyyn.",
+      "suosittelija": "Jussi Niemeläinen",
+      "kategoriat": [
+        "klassinen musiikki",
+        "radio",
+        "rauhoittuminen"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "93eb724b-a719-4da5-bd79-90efc0d4b2b9",
+    "jakso_otsikko": "Trump, Trump ja Trump, ja vähän Stubb",
+    "paivamaara": "22.1.2026",
+    "r_idx": 3,
+    "teos": "The New Statesman",
+    "uusi_data": {
+      "teos": "The New Statesman",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=The+New+Statesman",
+      "lisatieto_linkki": "",
+      "kuvaus": "Brittiläinen, historialtaan vasemmalle kallellaan oleva politiikan ja ulkopolitiikan aikakauslehti, johon Tuomas törmäsi RSS-syötteitä lukiessaan. Hän ihastui sen älykkääseen, viiltävään ja silti hauskaan kirjoitustapaan, esimerkiksi Davos- ja Grönlanti-juttuihin.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "lehti",
+        "politiikka",
+        "Britannia"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
