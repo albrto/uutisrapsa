@@ -26319,7 +26319,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Sinisilmäisesti (Talking to Strangers: What We Should Know About the People We Don't Know)",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -26327,7 +26327,7 @@ window.VALIDATION_DATA = [
           "psykologia",
           "tietokirja"
         ],
-        "kuvaus": "Malcolm Gladwellin kirja siitä, miksi me ymmärrämme vieraita ihmisiä niin huonosti ja miksi totuusolettama on meille sekä hyödyllinen että haitallinen. Marko Junkkari suosittelee erityisesti äänikirjaversiota, joka on tehty podcast-maisesti.",
+        "kuvaus": "Malcolm Gladwellin kirja siitä, miksi ymmärrämme vieraita ihmisiä niin huonosti ja miksi totuusolettama on meille sekä hyödyllinen että haitallinen. Tuomas suosittelee erityisesti äänikirjaversiota, joka on tehty podcastmaisesti; Maria oli kirjasta vähemmän innoissaan.",
         "google_linkki": "https://www.google.com/search?q=Talking+to+Strangers+Malcolm+Gladwell",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Talking+to+Strangers+Malcolm+Gladwell",
         "alkupera": "",
