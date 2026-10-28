@@ -3133,5 +3133,15 @@
     },
     "aika": "2026-10-28T00:31:23",
     "viety": "2026-10-28T00:31:23"
+  },
+  "266b1bb4-9359-4ed6-b79b-78a85a03b722::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Emily Brontën klassikkoromaani vuodelta 1847, joka kertoo kostosta, väkivallasta, katkeruudesta sekä rikkaiden ja köyhien välisistä jännitteistä. Salla luki kirjan lomalla uuden elokuvan innoittamana ja suosittelee sitä – suomennos oli yllättävän helppo ja kiehtova lukea."
+    },
+    "aika": "2026-10-28T00:31:56",
+    "viety": "2026-10-28T00:31:56"
   }
 }

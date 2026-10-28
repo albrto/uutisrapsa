@@ -5271,5 +5271,26 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "266b1bb4-9359-4ed6-b79b-78a85a03b722",
+    "jakso_otsikko": "Sota 4v – mitäs nyt?, tekoäly, mitalikato",
+    "paivamaara": "26.2.2026",
+    "r_idx": 0,
+    "teos": "Humiseva harju",
+    "uusi_data": {
+      "teos": "Humiseva harju",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Humiseva+harju+Emily+Brontë",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Wuthering+Heights+Emily+Brontë",
+      "kuvaus": "Emily Brontën klassikkoromaani vuodelta 1847, joka kertoo kostosta, väkivallasta, katkeruudesta sekä rikkaiden ja köyhien välisistä jännitteistä. Salla luki kirjan lomalla uuden elokuvan innoittamana ja suosittelee sitä – suomennos oli yllättävän helppo ja kiehtova lukea.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "klassikkokirjallisuus",
+        "gothic",
+        "rakkaus"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
