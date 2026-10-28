@@ -5313,5 +5313,26 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/744410899",
+    "jakso_otsikko": "16.1.2020: Hallituksen työllisyys/ilmastotoimet, Kontulan Gazan-valloitus, Megxit",
+    "paivamaara": "16.1.2020",
+    "r_idx": 0,
+    "teos": "Sinisilmäisesti (Talking to Strangers: What We Should Know About the People We Don't Know)",
+    "uusi_data": {
+      "teos": "Sinisilmäiset (Talking to Strangers: What We Should Know About the People We Don't Know)",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Malcolm+Gladwell+Sinisilmäiset",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Talking+to+Strangers+Malcolm+Gladwell",
+      "kuvaus": "Malcolm Gladwellin kirja siitä, miksi ymmärrämme vieraita ihmisiä niin huonosti ja miksi totuusolettama on meille sekä hyödyllinen että haitallinen. Tuomas suosittelee erityisesti äänikirjaversiota, joka on tehty podcastmaisesti; Maria oli kirjasta vähemmän innoissaan.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "sosiologia",
+        "psykologia",
+        "tietokirja"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
