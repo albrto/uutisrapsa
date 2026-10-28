@@ -5334,5 +5334,27 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/744410899",
+    "jakso_otsikko": "16.1.2020: Hallituksen työllisyys/ilmastotoimet, Kontulan Gazan-valloitus, Megxit",
+    "paivamaara": "16.1.2020",
+    "r_idx": 1,
+    "teos": "Among the Thugs",
+    "uusi_data": {
+      "teos": "Among the Thugs",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Among+the+Thugs+Bill+Buford",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Among+the+Thugs+Bill+Buford",
+      "kuvaus": "Amerikkalaistoimittaja Bill Bufordin kirja (1990), jossa hän hengaili vuosia brittiläisten jalkapallohuligaanien kanssa ja kuvaa, miten yksilöistä tulee raivopäinen lauma. Marko piti kirjaa hämmentävänä ja kiinnostavana kuvauksena laumapsykologiasta.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "tietokirja",
+        "jalkapallo",
+        "laumakäyttäytyminen"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
