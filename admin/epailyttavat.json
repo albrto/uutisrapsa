@@ -26334,6 +26334,26 @@
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Among the Thugs",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "jalkapallo",
+          "laumakäyttäytyminen"
+        ],
+        "kuvaus": "Amerikkalaistoimittaja Bill Bufordin kirja (1990), jossa hän hengaili vuosia brittiläisten jalkapallohuligaanien kanssa ja kuvaa, miten yksilöistä tulee raivopäinen lauma. Marko piti kirjaa hämmentävänä ja kiinnostavana kuvauksena laumapsykologiasta.",
+        "google_linkki": "https://www.google.com/search?q=Among+the+Thugs+Bill+Buford",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Among+the+Thugs+Bill+Buford",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
