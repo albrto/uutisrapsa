@@ -79,7 +79,8 @@
         "kategoriat": [
           "tekoäly",
           "verkkosivusto"
-        ]
+        ],
+        "piilotettu": true
       }
     ]
   },
