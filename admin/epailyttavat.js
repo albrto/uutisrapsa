@@ -10679,6 +10679,141 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 490,
+    "jakso_id": "2fe36076-81f0-40bd-8870-bdf351e23d85",
+    "jakso_otsikko": "Luoti v. Amirkhani, Stubb v. Putin, VM v. suomalaiset",
+    "paivamaara": "29.10.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/2fe36076-81f0-40bd-8870-bdf351e23d85.mp3",
+    "kesto_sek": 5102,
+    "kesto_str": "01:25:02",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Salla Vuorikoski, Marko Junkkari ja Tuomas Peltomäki keskustelevat koko Suomen seuraamasta Amirkhani v. Luoti -oikeudenkäynnistä; koko maailman seuraamasta Stubb v. Putin -puhelusta; ja VM v. suomalaiset -excelistä.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "LOL: Last One Laughing (UK-versio)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "viihde",
+          "Amazon Prime"
+        ],
+        "kuvaus": "Salla suosittelee brittiläistä versiota sarjasta, jossa koomikot yrittävät saada toisensa nauramaan huoneeseen suljettuina; tuore Halloween-erikoisjakso on katsottavissa Amazon Primessa.",
+        "google_linkki": "https://www.google.com/search?q=LOL+Last+One+Laughing+UK",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=LOL%20Last%20One%20Laughing%20UK",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "LOL: Last One Laughing (muiden maiden versiot)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "viihde"
+        ],
+        "kuvaus": "Salla varoittaa katsomasta sarjan muita maaversioita, sillä ainoastaan brittiversio on hänen mielestään onnistunut.",
+        "google_linkki": "https://www.google.com/search?q=LOL+Last+One+Laughing+versions",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": true,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "The Odyssey",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "seikkailu",
+          "Christopher Nolan",
+          "elokuvateatteri"
+        ],
+        "kuvaus": "Salla kävi katsomassa Christopher Nolanin ohjaaman Odysseus-elokuvan isolta kankaalta ja antaa sille neljä-viisi tähteä, erityisesti Matt Damonin ja toisen näyttelijän suorituksista.",
+        "google_linkki": "https://www.google.com/search?q=The+Odyssey+Christopher+Nolan+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The%20Odyssey%20Christopher%20Nolan",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kolmas supervalta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "Intia",
+          "yhteiskunta",
+          "tietokirjallisuus"
+        ],
+        "kuvaus": "Marko suosittelee kollegansa Tommi Niemisen Intia-aiheista kirjaa, joka käsittelee Intian nousua maailman seuraavaksi supervallaksi.",
+        "google_linkki": "https://www.google.com/search?q=Kolmas+supervalta+Tommi+Nieminen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kolmas+supervalta+Tommi+Nieminen",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ihmisen tekemää.fi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tekoäly",
+          "yhteiskunta",
+          "verkkosivusto"
+        ],
+        "kuvaus": "Tuomas suosittelee tutustumaan hankkeeseen, joka nostaa esiin ihmisen tekemän työn arvoa tekoälyn yleistyessä; mukana muun muassa tekoälyprofessori Teemu Roos.",
+        "google_linkki": "https://www.google.com/search?q=Ihmisen+tekemää.fi",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Koneentekemää.fi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tekoäly",
+          "verkkosivusto"
+        ],
+        "kuvaus": "Tuomas aikoo tutustua myös Koneentekemää.fi-sivustoon, joka on Ihmisen tekemää.fi -hankkeen vastinpari ja käsittelee tekoälyn tuottamaa sisältöä.",
+        "google_linkki": "https://www.google.com/search?q=Koneentekemää.fi",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 161,
     "jakso_id": "tag:soundcloud,2010:tracks/919661269",
     "jakso_otsikko": "29.10.2020: Trump–Biden 2020, this is it baby!",

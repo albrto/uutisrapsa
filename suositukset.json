@@ -1,5 +1,89 @@
 [
   {
+    "id": "2fe36076-81f0-40bd-8870-bdf351e23d85",
+    "jakso_otsikko": "Luoti v. Amirkhani, Stubb v. Putin, VM v. suomalaiset",
+    "paivamaara": "29.10.2026",
+    "suositukset": [
+      {
+        "teos": "LOL: Last One Laughing (UK-versio)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=LOL+Last+One+Laughing+UK",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=LOL%20Last%20One%20Laughing%20UK",
+        "kuvaus": "Salla suosittelee brittiläistä versiota sarjasta, jossa koomikot yrittävät saada toisensa nauramaan huoneeseen suljettuina; tuore Halloween-erikoisjakso on katsottavissa Amazon Primessa.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "komedia",
+          "viihde",
+          "Amazon Prime"
+        ]
+      },
+      {
+        "teos": "LOL: Last One Laughing (muiden maiden versiot)",
+        "paakategoria": "tv-sarja",
+        "antisuositus": true,
+        "google_linkki": "https://www.google.com/search?q=LOL+Last+One+Laughing+versions",
+        "lisatieto_linkki": "",
+        "kuvaus": "Salla varoittaa katsomasta sarjan muita maaversioita, sillä ainoastaan brittiversio on hänen mielestään onnistunut.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "komedia",
+          "viihde"
+        ]
+      },
+      {
+        "teos": "The Odyssey",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=The+Odyssey+Christopher+Nolan+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The%20Odyssey%20Christopher%20Nolan",
+        "kuvaus": "Salla kävi katsomassa Christopher Nolanin ohjaaman Odysseus-elokuvan isolta kankaalta ja antaa sille neljä-viisi tähteä, erityisesti Matt Damonin ja toisen näyttelijän suorituksista.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "seikkailu",
+          "Christopher Nolan",
+          "elokuvateatteri"
+        ]
+      },
+      {
+        "teos": "Kolmas supervalta",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Kolmas+supervalta+Tommi+Nieminen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kolmas+supervalta+Tommi+Nieminen",
+        "kuvaus": "Marko suosittelee kollegansa Tommi Niemisen Intia-aiheista kirjaa, joka käsittelee Intian nousua maailman seuraavaksi supervallaksi.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "Intia",
+          "yhteiskunta",
+          "tietokirjallisuus"
+        ]
+      },
+      {
+        "teos": "Ihmisen tekemää.fi",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Ihmisen+tekemää.fi",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas suosittelee tutustumaan hankkeeseen, joka nostaa esiin ihmisen tekemän työn arvoa tekoälyn yleistyessä; mukana muun muassa tekoälyprofessori Teemu Roos.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tekoäly",
+          "yhteiskunta",
+          "verkkosivusto"
+        ]
+      },
+      {
+        "teos": "Koneentekemää.fi",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Koneentekemää.fi",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas aikoo tutustua myös Koneentekemää.fi-sivustoon, joka on Ihmisen tekemää.fi -hankkeen vastinpari ja käsittelee tekoälyn tuottamaa sisältöä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tekoäly",
+          "verkkosivusto"
+        ]
+      }
+    ]
+  },
+  {
     "id": "4aeb117c-340b-4f31-b31d-f01023e57f41",
     "jakso_otsikko": "Kokpers/perskok, Bishmillah c'est les ténèbres!, suomalaiset datapisteinä",
     "paivamaara": "22.10.2026",
