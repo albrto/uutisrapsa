@@ -70,17 +70,17 @@
         ]
       },
       {
-        "teos": "Koneentekemää.fi",
+        "teos": "Tekoäly kunnan hankkeiden selvittämisessä",
         "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=Koneentekemää.fi",
+        "google_linkki": "",
         "lisatieto_linkki": "",
-        "kuvaus": "Tuomas aikoo tutustua myös Koneentekemää.fi-sivustoon, joka on Ihmisen tekemää.fi -hankkeen vastinpari ja käsittelee tekoälyn tuottamaa sisältöä.",
+        "kuvaus": "Tuomas kuuli lenkillä, että hänen lempipaikalleen Hyvinkäällä tulee tie, ja Claude kaivoi saman tien esiin kaavat, tiesuunnitelman ja vastuuvirkamiehen. Tuomaksen mielestä se oli \"ihan maagista\" – ja välähdys siitä, miten helposti kuntalainen voi nyt pysyä perillä lähiympäristönsä hankkeista.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "tekoäly",
-          "verkkosivusto"
-        ],
-        "piilotettu": true
+          "kuntapolitiikka",
+          "Claude"
+        ]
       }
     ]
   },
