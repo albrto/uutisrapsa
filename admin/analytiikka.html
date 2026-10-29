@@ -169,7 +169,7 @@
     .segmentti > button:active { transform: scale(0.96); }
 
     /* === Luvut === */
-    .luvut { margin-top: 40px; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+    .luvut { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
     .luku { background: var(--bg-kortti); border-radius: var(--radius-md); padding: 22px 24px 20px; min-width: 0; }
     .luku-nimi { font-size: 13px; color: var(--teksti-toissijainen); }
     .luku-arvo { margin-top: 8px; font-size: clamp(30px, 3.6vw, 44px); font-weight: 600; letter-spacing: -0.045em; line-height: 1; color: var(--teksti-vahva); font-variant-numeric: tabular-nums; }
@@ -179,13 +179,13 @@
 
     /* === Paneelit === */
     .paneeli { background: var(--bg-kortti); border-radius: var(--radius-lg); padding: 32px 36px; min-width: 0; }
-    .paneeli + .paneeli, .ruudukko { margin-top: 12px; }
     .paneeli-otsikko { font-size: 22px; font-weight: 600; letter-spacing: -0.035em; line-height: 1.2; color: var(--teksti-vahva); }
     .paneeli-kuvaus { margin-top: 4px; font-size: 14px; color: var(--teksti-toissijainen); max-width: 64ch; }
     .ruudukko { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
-    .ruudukko > .paneeli + .paneeli { margin-top: 0; }
     main { padding-bottom: 96px; }
-    main > .paneeli:first-of-type { margin-top: 12px; }
+    /* Kaikki lohkot (luvut, paneelit, ruudukot) samalla välillä: sisaruusvalitsimet
+       jättivät luvut + 1. paneelin ja ruudukon + paneelin kiinni toisiinsa. */
+    #sisalto:not([hidden]) { margin-top: 40px; display: flex; flex-direction: column; gap: 12px; }
 
     /* === Päiväkaavio (HTML-palkit: skaalautuu leveyteen ilman SVG-venytystä) === */
     .kaavio { position: relative; margin-top: 28px; display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: 12px; }
@@ -286,7 +286,7 @@
     @keyframes lataa { from { background-position: -40% 0, 0 0; } to { background-position: 140% 0, 0 0; } }
     @media (prefers-reduced-motion: reduce) { .lataa-palkki { animation: none; } }
 
-    .alaviite { margin-top: 28px; font-family: var(--fontti-koodi); font-size: 11.5px; color: var(--teksti-himmea); }
+    .alaviite { margin-top: 16px; font-family: var(--fontti-koodi); font-size: 11.5px; color: var(--teksti-himmea); }
 
     @media (max-width: 1023px) {
       .luvut { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -303,7 +303,8 @@
       .sivuotsake { padding-top: 32px; }
       .segmentti { width: 100%; }
       .segmentti > button { flex: 1; padding: 0 6px; }
-      .luvut { margin-top: 28px; gap: 8px; }
+      #sisalto:not([hidden]) { margin-top: 28px; }
+      .luvut { gap: 8px; }
       .luku { padding: 18px 18px 16px; border-radius: var(--radius-sm); }
       .paneeli { padding: 24px 20px; border-radius: var(--radius-md); }
       .kaavio-y, .kaavio-ala { height: 180px; }
