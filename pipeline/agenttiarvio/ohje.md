@@ -32,7 +32,9 @@ Lue transkriptio KOKONAAN (Read, isot tiedostot osissa).
    (elämäntavat, havainnot), jos ne kehystetään suositukseksi, sekä ennen varsinaista
    suositusosiota keskustellut ja selvästi suositellut asiat. EI: puhujan oman
    tuotteen/sarjan mainos, pelkkä uutisaihe jota ei suositella, juontajan kuvitteellinen
-   kehystarina/aasinsilta suositusosion pohjustuksena, mainosten sisältö. Poikkeus:
+   kehystarina/aasinsilta suositusosion pohjustuksena, mainosten sisältö, juontajan
+   pikakysymyksen vastaukset kun kysymys pohjustaa podcastin omaa ilmoitusta (esim.
+   "mikä auttaa stressiin?" → "päiväunet" → "tulkaa pikkujouluihin"). Poikkeus:
    vinkki kuunnella tietty toisen median jakso, jossa puhuja oli vieraana, ON suositus.
    Yhteissuositus (A aloittaa, B suosittelee) → yksi suositus, suosittelija = varsinainen
    suosittelija; toinen voi mainita kuvauksessa.
