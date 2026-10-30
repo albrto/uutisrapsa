@@ -3519,5 +3519,15 @@
     },
     "aika": "2026-10-30T20:07:54",
     "viety": "2026-10-30T20:07:54"
+  },
+  "tag:soundcloud,2010:tracks/1924030769::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Podcastin lukupiiri, jossa Robert Caron The Power Broker luetaan läpi jakso jaksolta. Vieraina mm. Caro itse, Alexandria Ocasio-Cortez ja Conan O'Brien."
+    },
+    "aika": "2026-10-30T20:10:04",
+    "viety": "2026-10-30T20:10:04"
   }
 }
