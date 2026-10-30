@@ -10744,7 +10744,7 @@ window.VALIDATION_DATA = [
           "Christopher Nolan",
           "elokuvateatteri"
         ],
-        "kuvaus": "Salla kävi katsomassa Christopher Nolanin ohjaaman Odysseus-elokuvan isolta kankaalta ja antaa sille neljä-viisi tähteä, erityisesti Matt Damonin ja toisen näyttelijän suorituksista.",
+        "kuvaus": "Salla kävi katsomassa Christopher Nolanin ohjaaman Odysseus-elokuvan isolta kankaalta ja antaa sille neljä tähteä viidestä. Erityisesti hän kehui Samantha Mortonin roolisuoritusta noita Kirkenä.",
         "google_linkki": "https://www.google.com/search?q=The+Odyssey+Christopher+Nolan+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The%20Odyssey%20Christopher%20Nolan",
         "alkupera": "",
@@ -10786,7 +10786,7 @@ window.VALIDATION_DATA = [
         ],
         "kuvaus": "Tuomas suosittelee tutustumaan hankkeeseen, joka nostaa esiin ihmisen tekemän työn arvoa tekoälyn yleistyessä; mukana muun muassa tekoälyprofessori Teemu Roos.",
         "google_linkki": "https://www.google.com/search?q=Ihmisen+tekemää.fi",
-        "lisatieto_linkki": "",
+        "lisatieto_linkki": "https://ihmisentekemaa.fi",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -10797,14 +10797,15 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Koneentekemää.fi",
+        "teos": "Tekoäly kunnan hankkeiden selvittämisessä",
         "paakategoria": "muu",
         "kategoriat": [
           "tekoäly",
-          "verkkosivusto"
+          "kuntapolitiikka",
+          "Claude"
         ],
-        "kuvaus": "Tuomas aikoo tutustua myös Koneentekemää.fi-sivustoon, joka on Ihmisen tekemää.fi -hankkeen vastinpari ja käsittelee tekoälyn tuottamaa sisältöä.",
-        "google_linkki": "https://www.google.com/search?q=Koneentekemää.fi",
+        "kuvaus": "Kun Tuomas kuuli lempipaikalleen suunnitellusta tiestä, Claude löysi hetkessä kaavat ja tiesuunnitelman. Välähdys siitä, mihin maailma on menossa ja miten helposti kuntalainen voi nyt pysyä perillä lähiympäristönsä hankkeista.",
+        "google_linkki": "",
         "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
@@ -16016,7 +16017,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "And the Band Played On",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -16024,7 +16025,7 @@ window.VALIDATION_DATA = [
           "tietokirja",
           "terveys"
         ],
-        "kuvaus": "1980-luvun klassikkotietokirja, joka seuraa hetki hetkeltä, miten AIDS saapui maailmaan ja Yhdysvaltoihin. Kertoo myös politiikasta ja siitä, miksi tieteellistä tietoa ei oteta vastaan.",
+        "kuvaus": "1980-luvun klassikkotietokirja, joka seuraa hetki hetkeltä, miten AIDS saapui maailmaan ja Yhdysvaltoihin. Sohvi kehuu kirjaa myös siksi, että se kertoo politiikasta ja siitä, miksi tieteellistä tietoa ei oteta vastaan.",
         "google_linkki": "https://www.google.com/search?q=And+the+Band+Played+On+Randy+Shilts",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=And+the+Band+Played+On",
         "alkupera": "",
@@ -16036,7 +16037,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Marko Junkkari",
         "teos": "Paper of Record: An Oral History of the New York Post 1976–2024",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -16044,7 +16045,7 @@ window.VALIDATION_DATA = [
           "historia",
           "media"
         ],
-        "kuvaus": "Tuore teos New York Postin historiasta, joka kertoo Rupert Murdochin valtavasta vaikutuksesta lehteen ja amerikkalaisen tabloidikulttuurin muutoksesta. Viihdyttävä ja mukaansatempaava journalismin historia.",
+        "kuvaus": "Tuore teos New York Postin historiasta, joka kertoo Rupert Murdochin valtavasta vaikutuksesta lehteen ja amerikkalaisen tabloidikulttuurin muutoksesta. Marko on vasta aloittanut kirjan, mutta kuvaa sitä huikeaksi tarinaksi.",
         "google_linkki": "https://www.google.com/search?q=Paper+of+Record+Oral+History+New+York+Post",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Paper+of+Record+New+York+Post",
         "alkupera": "",
@@ -18758,6 +18759,26 @@ window.VALIDATION_DATA = [
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Matilda Jokinen",
+        "teos": "Espanjalaiset teini- ja saippuasarjat Netflixissä",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "saippuasarja",
+          "Espanja",
+          "Netflix"
+        ],
+        "kuvaus": "Matilda katsoo nykyään lähinnä Netflixin espanjalaisia teini- ja saippuasarjoja, joita on loputtomasti ja joiden jaksot voivat kestää puolitoista tuntia – tosi viihdyttäviä ja ikuisesti katsottavia.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -20153,7 +20174,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Sinuhe egyptiläinen",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -20161,7 +20182,7 @@ window.VALIDATION_DATA = [
           "äänikirja",
           "klassikko"
         ],
-        "kuvaus": "Mika Waltarin klassinen historiallinen romaani muinaisesta Egyptistä, jonka Marko Junkkari on kuunnellut äänikirjana. Teos on hänen mukaansa fasisnoiva ja lukija Lars tekee siitä erityisen elämyksellisen.",
+        "kuvaus": "Mika Waltarin klassinen historiallinen romaani muinaisesta Egyptistä, jonka Salla on kuunnellut äänikirjana. Teos on hänen mukaansa kiehtova, ja lukija Lars Svedberg tekee siitä erityisen elämyksellisen.",
         "google_linkki": "https://www.google.com/search?q=Sinuhe+egyptiläinen+Mika+Waltari",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinuhe+egyptiläinen",
         "alkupera": "",
@@ -20173,7 +20194,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Marko Junkkari",
         "teos": "Murhat ja mindfulness",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -20181,7 +20202,7 @@ window.VALIDATION_DATA = [
           "rikos",
           "saksalainen kirjallisuus"
         ],
-        "kuvaus": "Saksalaisen Karsten Dussen musta komedia, jossa keski-ikäinen juristi ajautuu mindfulnessin kautta murhaamaan ihmisiä. Kirjasta on tehty myös Netflix-sarja.",
+        "kuvaus": "Saksalaisen Karsten Dussen musta komedia, jossa keski-ikäinen juristi ajautuu mindfulnessin kautta murhaamaan ihmisiä. Marko kehuu kirjaa mahtavaksi; siitä on tehty myös Netflix-sarja.",
         "google_linkki": "https://www.google.com/search?q=Murhat+ja+mindfulness+Karsten+Dusse",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Murhat+ja+mindfulness+Karsten+Dusse",
         "alkupera": "",
@@ -20193,7 +20214,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Origin Story -podcast",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -20201,7 +20222,7 @@ window.VALIDATION_DATA = [
           "historia",
           "brittiläinen"
         ],
-        "kuvaus": "Kahden brittiläisen toimittajan pitämä podcast, jossa selitetään nykyajan ilmiöiden – kuten wokismin tai fasististen liikkeiden – historialliset juuret. Syvällinen, hauska ja sivistynyt.",
+        "kuvaus": "Kahden brittiläisen toimittajan podcast, jossa selitetään nykyajan ilmiöiden, kuten wokismin tai fasismin, historialliset juuret. Tuomas sai vinkin kuulija-Jussilta ja kehuu podcastia syvälliseksi, hauskaksi ja sivistyneeksi.",
         "google_linkki": "https://www.google.com/search?q=Origin+Story+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Origin%20Story%20podcast",
         "alkupera": "ulkomainen",
@@ -20213,7 +20234,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Rugby ja 6 Nations Aussibarissa",
         "paakategoria": "urheilu",
         "kategoriat": [
@@ -20221,7 +20242,7 @@ window.VALIDATION_DATA = [
           "baari",
           "live-urheilu"
         ],
-        "kuvaus": "Marko Junkkari suosittelee menemään Helsingin Aussibariin katsomaan 6 Nations -rugbyturnauksen otteluita. Baari on täynnä irlantilaisia, ranskalaisia ja englantilaisia, ja tunnelma on kuin ulkomailla.",
+        "kuvaus": "Tuomas suosittelee menemään Helsingin Aussibariin katsomaan 6 Nations -rugbyturnauksen otteluita. Baari on täynnä irlantilaisia, ranskalaisia ja englantilaisia, ja tunnelma on kuin ulkomailla.",
         "google_linkki": "https://www.google.com/search?q=Six+Nations+rugby+Helsinki+Aussibar",
         "lisatieto_linkki": "https://www.google.com/search?q=Six+Nations+rugby+Helsinki+Aussibar",
         "alkupera": "",
@@ -21170,7 +21191,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -21178,7 +21199,7 @@ window.VALIDATION_DATA = [
           "rikos",
           "poliisi"
         ],
-        "kuvaus": "Susanna Reinboothin ja Minna Passin kirjoittama tietokirja huumepoliisi Jari Aarniosta, joka paljastui huumekauppiaaksi. Tuomas kuvaa kirjaa dekkarimaiseksi ja leuka-alas-kokemukseksi.",
+        "kuvaus": "Susanna Reinbothin ja Minna Passin tietokirja huumepoliisi Jari Aarniosta, joka paljastui huumekauppiaaksi. Salla kuvaa kirjaa dekkarimaiseksi ja sellaiseksi, että leuka loksahtaa yhä alemmas.",
         "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio+kirja",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
         "alkupera": "",
@@ -22870,7 +22891,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "His Dark Materials",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -22881,6 +22902,25 @@ window.VALIDATION_DATA = [
         "kuvaus": "HBO:n fantasiasarja, joka perustuu Philip Pullmanin kirjasarjaan. Kertoo erityislaatuisesta tytöstä ja rinnakkaisista todellisuuksista – suositellaan erityisesti katsottavaksi yhdessä lasten kanssa (noin 8–10 vuotta täyttäneille).",
         "google_linkki": "https://www.google.com/search?q=His+Dark+Materials+HBO+sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=His+Dark+Materials",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "10 teesiä modernille oikeistolle",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "pamfletti",
+          "politiikka"
+        ],
+        "kuvaus": "Kokoomuksen Matias Marttisen ja Juho Mäki-Lohiluoman Ajatuspaja Toivolle kirjoittama pamfletti siitä, miten maltillinen oikeisto voi pärjätä perussuomalaisten puristuksessa. Marko kiitteli erityisesti analyysiä Itävallan liittokanslerin noususta, vaikka taustoitusta olisi voinut olla vähemmänkin.",
+        "google_linkki": "https://www.google.com/search?q=10+teesiä+modernille+oikeistolle",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=10+teesiä+modernille+oikeistolle",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -30845,7 +30885,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Rocketman",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -30853,7 +30893,7 @@ window.VALIDATION_DATA = [
           "musiikki",
           "draama"
         ],
-        "kuvaus": "Elton Johnin elämästä kertova elokuva, joka on saatavilla Netflixissä. Marko Junkkari piti sitä viihdyttävänä ja syvällisehkönä, samaa tasoa kuin Bohemian Rhapsody.",
+        "kuvaus": "Elton Johnin elämästä kertova elokuva, joka on katsottavissa Netflixissä. Anni piti sitä todella hyvänä ja kiinnostavana – viihdyttävä ja vähän syvällisehkö.",
         "google_linkki": "https://www.google.com/search?q=Rocketman+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Rocketman",
         "alkupera": "",
@@ -30885,7 +30925,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Errol Morris, Do Not Like This Q&A About His New Le Carré Film",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -30893,7 +30933,7 @@ window.VALIDATION_DATA = [
           "journalismi",
           "profiili"
         ],
-        "kuvaus": "David Marchesen kirjoittama artikkeli dokumenttiohjaaja Errol Morrisista New York Timesin viikkoliitteessä. Käsittelee Morrisin uutta Apple TV+ -elokuvaa John le Carrésta.",
+        "kuvaus": "David Marchesen kirjoittama haastattelu dokumenttiohjaaja Errol Morrisista New York Timesin viikkoliitteessä. Käsittelee Morrisin uutta John le Carré -elokuvaa; Tuomas ihailee suuresti Morrisin tapaa ajatella.",
         "google_linkki": "https://www.google.com/search?q=Errol+Morris+Do+Not+Like+This+Q%26A+New+York+Times",
         "lisatieto_linkki": "https://www.google.com/search?q=Errol+Morris+Do+Not+Like+This+Q%26A+New+York+Times+Magazine",
         "alkupera": "",
@@ -30905,7 +30945,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "The Pigeon Tunnel",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -30913,7 +30953,7 @@ window.VALIDATION_DATA = [
           "kirjallisuus",
           "elämäkerta"
         ],
-        "kuvaus": "Errol Morrisin ohjaama dokumenttielokuva John le Carrésta, saatavilla Apple TV+:ssa. Anni Keski-Heikki ihailee suuresti Morrisin tapaa ajatella ja tehdä töitä.",
+        "kuvaus": "Errol Morrisin ohjaama dokumenttielokuva John le Carrésta, katsottavissa Apple TV+:ssa. Tuomas ihailee suuresti Morrisin tapaa ajatella ja tehdä töitä.",
         "google_linkki": "https://www.google.com/search?q=The+Pigeon+Tunnel+Errol+Morris+Apple+TV",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Pigeon+Tunnel",
         "alkupera": "",
@@ -32408,6 +32448,61 @@ window.VALIDATION_DATA = [
         "kuvaus": "Marko kävi katsomassa Christopher Nolanin Tenetin Ouluhallin isossa salissa. Hänen mielestään elokuva oli jytisevä, komean näköinen ja tiukka, vaikka juonesta ei ottanut selvää.",
         "google_linkki": "https://www.google.com/search?q=Tenet+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tenet",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
+    "j_idx": 312,
+    "jakso_id": "tag:soundcloud,2010:tracks/1589383315",
+    "jakso_otsikko": "10.8.2023: Tiedonanto, Amazonin sademetsä, myrsky",
+    "paivamaara": "10.8.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/054c2bbc-b16b-49a1-9f5d-510c45f761fd.mp3",
+    "kesto_sek": 3923,
+    "kesto_str": "01:05:23",
+    "rss_osallistujat": [
+      "Joakim Westrén-Doll",
+      "Joona Aaltonen",
+      "Matilda Jokinen"
+    ],
+    "rss_kuvaus": "Tässä jaksossa käsitellään hallituksen yhdenvertaisuustiedonantoa, Amazonin sademetsää ja Suomea melkein piinannutta Lahja-myrskyä.\nStudiossa Joona Aaltonen, Matilda Jokinen ja Joakim Westrén-Doll . \nJakson leikkasi Mikko Peura.\n\nJaksossa mainittuja linkkejä:\nJuttu hallituksen tiedonantotyön käynnistymisestä: https://www.hs.fi/politiikka/art-2000009769826.html, Juttu yhdenvertaisuusvaltuutetun kom",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Joakim Westrén-Doll",
+        "teos": "Painoliivi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "liikunta",
+          "treeni"
+        ],
+        "kuvaus": "Salin sisäilmaan kyllästynyt Joakim ostaa painoliivin, jolla voi tehdä kehonpainoharjoituksia lisäpainolla. Ainoa ongelma on, että liivi näyttää luotiliiviltä, joten hän toivoo muidenkin hankkivan sellaisen, jotta näky normalisoituu.",
+        "google_linkki": "https://www.google.com/search?q=painoliivi",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Helsingin julkiset saunat (Lonnan sauna, Sompasauna)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "sauna",
+          "Helsinki"
+        ],
+        "kuvaus": "Joona on kesän aikana kiertänyt Helsingin julkisia saunoja ja suosittelee etenkin Lonnan saaren merenrantasaunaa sekä vapaaehtoisvoimin pyöritettyä Sompasaunaa Kalasataman lähellä. Niissä tunnelma on rento ja ihmiset juttelevat matalalla kynnyksellä.",
+        "google_linkki": "https://www.google.com/search?q=Lonnan+sauna+Sompasauna+Helsinki",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
