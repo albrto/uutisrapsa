@@ -6090,8 +6090,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=The+Power+Broker+Robert+Caro",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+Broker+Robert+Caro",
-        "kuvaus": "Robert Caron klassikkokirja New Yorkin kaupunkisuunnittelija Robert Moseksesta ja vallankäytöstä. Täyttää viisikymmentä vuotta ja on herättänyt uutta kiinnostusta haastattelujen ja lukupiirien myötä.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Robert Caron 50 vuotta täyttävä klassikkokirja New Yorkin kaupunkisuunnittelija Robert Mosesista ja vallankäytöstä. Sohvi kehottaa, jos ei lukemaan järkälettä, niin ainakin kuuntelemaan juhlavuoden Caro-haastatteluja.",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "historia",
           "politiikka",
@@ -6099,10 +6099,10 @@
         ]
       },
       {
-        "teos": "9 to 5 (WNNA) – Power Broker -lukupiiri-podcast",
+        "teos": "99% Invisible: The Power Broker Book Club",
         "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=9+to+5+WNNA+Power+Broker+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/9%20to%205%20WNNA%20Power%20Broker",
+        "google_linkki": "https://www.google.com/search?q=99%+Invisible+Power+Broker+Book+Club",
+        "lisatieto_linkki": "https://open.spotify.com/search/99%25%20Invisible",
         "kuvaus": "Podcast, jossa luetaan Robert Caron Power Broker -kirja jakso jaksolta läpi. Vieraina mm. Robert Caro itse, Alexandria Ocasio-Cortez ja Conan O'Brien.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -6143,14 +6143,26 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Sliced+Bread+BBC+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Sliced%20Bread%20BBC",
-        "kuvaus": "BBC:n podcast, jossa perehdytään eri tuotteisiin ja selvitetään, onko niissä oikeasti katetta väitteille. Kuunneltuina jaksoina mm. auton renkaat ja kollageenia sisältävät kasvirasvat.",
-        "suosittelija": "Anna-Sofia Berner",
+        "kuvaus": "BBC:n podcast, jossa selvitetään asiantuntijoiden kanssa, onko ihmetuotteiden väitteissä katetta. Tuomas kuunteli jaksot autonrenkaista ja kollageenia sisältävistä kasvirasvoista.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "kuluttaja",
           "tiede",
           "BBC"
         ],
         "alkupera": "ulkomainen"
+      },
+      {
+        "teos": "Studio 1851 (märkälevyvalokuvaus, Pori)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Studio+1851+Pori+märkälevy",
+        "lisatieto_linkki": "",
+        "kuvaus": "Podcastin kuuntelijoiden Aliisa ja Tuomas Sinkkosen porilainen valokuvastudio, joka ottaa käsityönä kuvia vanhalla märkälevy-kollodiomenetelmällä. Tuomaksen mielestä kuvat ovat tarkkoja ja vanhanaikaisia mutta silti maagisen nykyaikaisia.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "valokuvaus",
+          "käsityö"
+        ]
       }
     ]
   },
@@ -6993,8 +7005,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Tove+Ditlevsen+K%C3%B6%C3%B6penhamina-trilogia",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+Copenhagen+trilogy",
-        "kuvaus": "Tanskalaisen kirjailijan Tove Ditlevsenin omaelämäkerrallinen klassikkotrilogia, joka kertoo lapsuudesta, nuoruudesta ja aikuisuudesta. Pienimuotoinen ja tiivis kerronta, jota suosittelija pitää parhaana kevään lukemisena.",
-        "suosittelija": "Rasmus Helaniemi",
+        "kuvaus": "Tanskalaisen Tove Ditlevsenin omaelämäkerrallinen klassikkotrilogia lapsuudesta, nuoruudesta ja aikuisuudesta. Joonan mielestä pienimuotoinen ja tiivis kerronta tekee siitä kevään parasta luettavaa.",
+        "suosittelija": "Joona Aaltonen",
         "kategoriat": [
           "omaelämäkerta",
           "tanskalainen kirjallisuus",
@@ -7333,6 +7345,30 @@
           "matkailu",
           "viihde",
           "suomalainen tv"
+        ]
+      },
+      {
+        "teos": "HS Lasten uutisten Windows95manin haastattelu",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=HS+Lasten+uutiset+Windows95man+haastattelu",
+        "lisatieto_linkki": "",
+        "kuvaus": "Euroviisukeskustelun lomassa Sohvi suosittelee HS Lasten uutisten haastattelua Suomen euroviisuedustajasta Windows95manista. Hänen mielestään juttu on tosi kiva.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "Euroviisut",
+          "haastattelu"
+        ]
+      },
+      {
+        "teos": "Windows95man – No Rules (kuoroversio)",
+        "paakategoria": "musiikki",
+        "google_linkki": "https://www.google.com/search?q=Windows95man+No+Rules+gregorian",
+        "lisatieto_linkki": "https://open.spotify.com/search/Windows95man%20No%20Rules",
+        "kuvaus": "Euroviisuboikotin kompromissina Petja näyttäisi kotona puhelimelta No Rules -kappaleen version, jossa kappale lauletaan gregoriaanisen kuoron tyyliin hissimusiikkimaisen kompin päällä.",
+        "suosittelija": "Petja Pelli",
+        "kategoriat": [
+          "Euroviisut",
+          "huumori"
         ]
       }
     ]
@@ -8369,12 +8405,12 @@
     "paivamaara": "20.12.2023",
     "suositukset": [
       {
-        "teos": "Politiikan puskaraatio",
+        "teos": "Politiikan puskaradio",
         "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Politiikan+puskaraatio+podcast+Iltalehti",
-        "lisatieto_linkki": "https://open.spotify.com/search/Politiikan%20puskaraatio",
-        "kuvaus": "Iltalehden poliittinen podcast, jossa vaihteleva kokoonpano käsittelee politiikan kulisseja. Marko Junkkari suosittelee kuunneltavaksi Uutisraportin rinnalla.",
-        "suosittelija": "Marko Junkkari",
+        "google_linkki": "https://www.google.com/search?q=Politiikan+puskaradio+podcast+Iltalehti",
+        "lisatieto_linkki": "https://open.spotify.com/search/Politiikan%20puskaradio",
+        "kuvaus": "Iltalehden poliittinen podcast, jossa vaihteleva kokoonpano käy läpi politiikan kulisseja hersyvällä otteella. Salla suosittelee sitä kuunneltavaksi Uutisraportin rinnalla.",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "politiikka",
           "suomalainen podcast"
@@ -10316,6 +10352,31 @@
           "äänikirja",
           "elämäkerta",
           "huumeet"
+        ]
+      },
+      {
+        "teos": "Jari Hanskan Alma Spirit -videot",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Jari+Hanska+Alma+Spirit+video",
+        "lisatieto_linkki": "",
+        "kuvaus": "Iltalehden toimittaja Jari Hanskan lähes päivittäin julkaisemat videot, joissa hän vilpittömän innostuneesti pohdiskelee Alma Median brändiä ja 'Alma Spiritiä'. Markoa ne naurattavat joka kerta yhtä paljon.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "video",
+          "some",
+          "huumori"
+        ]
+      },
+      {
+        "teos": "Miten saan ystäviä, menestystä, vaikutusvaltaa (Dale Carnegie)",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Dale+Carnegie+Miten+saan+ystäviä+menestystä+vaikutusvaltaa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=How+to+Win+Friends+and+Influence+People",
+        "kuvaus": "Dale Carnegien vuonna 1936 ilmestynyt self help -klassikko. Tuomaksen mielestä se on erittäin hyvä opas, eikä muita self help -kirjoja edes tarvita.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "self help",
+          "klassikko"
         ]
       }
     ]
