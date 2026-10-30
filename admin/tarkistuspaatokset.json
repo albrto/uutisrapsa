@@ -3529,5 +3529,191 @@
     },
     "aika": "2026-10-30T20:10:04",
     "viety": "2026-10-30T20:10:04"
+  },
+  "tag:soundcloud,2010:tracks/1852589244::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Joona Aaltonen",
+      "kuvaus": "Marcel Proustin monumentaalinen romaanisarja, jota Joona on vihdoin aloittanut. Hän suosittelee erityisesti 'passiivisen lukemisen' taktiikkaa: pitkää kirjaprojektia voi nautiskella pikkuhiljaa ilman paineita."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1852589244::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "Brittiläinen 2000-luvun poikabändi, jonka Anni näki Helsinki City -festivaalilla. Bändi veti ysärityylisiä tanssiliikkeitä täydellä pokalla, ja esiintyminen oli Annin mukaan aidosti cool."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "4e5d8448-2363-49fc-856c-05931759c383::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Helsingin Pirkkolan uimahallin kahviosta saa edullisesti suunnistuskarttoja, ja rasteja löytyy Keskuspuistosta, Nuuksiosta ja muualta. Sallan mukaan suunnistus vie ajatukset muualta, ja omaan tahtiin voi mennä ilman paineita."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "4e5d8448-2363-49fc-856c-05931759c383::puuttuu::tenniksen pelaaminen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Tenniksen pelaaminen",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Sohvin vinkki sille, joka haluaa hetkeksi unohtaa kaiken muun: menkää pelaamaan tennistä.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "urheilu",
+        "liikunta"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1672693716::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "Robin Williamsin haastattelu Graham Norton Show'ssa, jossa hän kertoo hauskan tarinan vuokraamastaan linnasta ja sinne tulleesta siivoojasta. Anni jatkoi tällä Robin Williams -dokkarisuositustaan."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1672693716::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Rory Stewartin muistelmat brittipolitiikasta. Kirja antaa realistisen ja hauskan kuvan siitä, miten kyvyttömiä poliitikot ovat tekemään päätöksiä ja miten koko brittijärjestelmä on rikki."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1672693716::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Rory Stewartin ja Alastair Campbellin yhteinen politiikkapodcast, jonka Tuomas suositteli Markolle Stewartin kirjan jatkoksi. Podcast nousi suureen suosioon muun muassa Stewartin Israel–Palestiina-analyysien ansiosta."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1672693716::puuttuu::minglausvinkki: ota selvää juhlavieraista etukäteen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Minglausvinkki: ota selvää juhlavieraista etukäteen",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas jakoi kuulijalta saamansa vinkin minglaamisen jännittämiseen: selvitä, millaisiin juhliin olet menossa ja keitä siellä on, googlaa heidän kuulumisiaan ja ole aidosti kiinnostunut ihmisistä.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "elämäntapa",
+        "sosiaaliset tilanteet"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "1ba588e5-d861-4106-88e5-a1d4e7e7fee6::teos::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "teos": "Gothic Modern -näyttely (Ateneum)",
+      "google_linkki": "https://www.google.com/search?q=Gothic+Modern+Ateneum",
+      "lisatieto_linkki": "",
+      "kuvaus": "Ateneumin kansainvälinen taidenäyttely, jonka keskiössä ovat pääkallot, synkkyys ja kuolema – mukana muun muassa Hugo Simbergin ja Edvard Munchin teoksia. Hämärästi valaistu näyttely on Tuomaksen mukaan elämyksellinen ja moderni."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1747983588::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "Netflix-dokumentti We Are the World -hyväntekeväisyysbiisin nauhoittamisesta yhden yön aikana American Music Awardsin jälkeen kasarilla. Mukana mm. Michael Jackson ja Bob Dylan."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1747983588::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Yle Areenassa saatavilla oleva dokumentti Toni Halmeen elämästä: matkasta pikkupojasta showpainijaksi, poliitikoksi ja surkeaan loppuun. Ohjaus Lauri Anssi Moilanen ja Olli Vuokko."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1747983588::teos::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "teos": "The Daily Show with Jon Stewart",
+      "google_linkki": "https://www.google.com/search?q=The+Daily+Show+Jon+Stewart",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Daily+Show"
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "tag:soundcloud,2010:tracks/1747983588::puuttuu::no rules! (windows95man)": {
+    "paatos": "hylatty",
+    "r_idx": null,
+    "data": null,
+    "aika": "2026-10-30T20:22:02"
+  },
+  "d01deb2c-2887-47fa-be1d-d7830c8630f6::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Ville Sivilän esikoisromaani yhdistää suvun historiaa 1800-luvulta nykypäivään sekä kirjailijan omia lapsuusmuistoja 70–90-luvun Uudeltamaalta. Sohvin mielestä tiivis, novellimainen ja välillä ääneen naurattava teos, joka kytkeytyy myös Suomen kohtaloihin."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "d01deb2c-2887-47fa-be1d-d7830c8630f6::teos::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "teos": "Kani nimeltä Paisti",
+      "google_linkki": "https://www.google.com/search?q=Kani+nimeltä+Paisti+Ville+Sivilä",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Kani+nimeltä+Paisti+Sivilä"
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "d01deb2c-2887-47fa-be1d-d7830c8630f6::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Pekka Mykkänen",
+      "kuvaus": "David Lynchin mustavalkoinen kulttielokuva dystooppisessa teollisuusmaisemassa, jossa nuori pari saa mutanttilapsen. Pekka katsoi sen täysi-ikäisen poikansa kanssa; elokuva on katsottavissa maksutta Yle Areenassa."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
+  },
+  "d01deb2c-2887-47fa-be1d-d7830c8630f6::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "New York Timesin toimittajien Michael Schwirtzin ja Jane Bradleyn artikkeli paljastaa, kuinka Venäjä on käyttänyt Brasiliaa deep cover -agenttien hautomona: agentit hankkivat aidot brasilialaiset henkilöllisyydet ja heidät sijoitettiin ympäri maailmaa. Markon mielestä ihan elokuvakamaa."
+    },
+    "aika": "2026-10-30T20:22:02",
+    "viety": "2026-10-30T20:22:02"
   }
 }
