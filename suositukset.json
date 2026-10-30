@@ -3887,6 +3887,42 @@
           "historia",
           "Yhdysvallat"
         ]
+      },
+      {
+        "teos": "Tampere – ihmiset eivät kävele päin",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Tampere",
+        "lisatieto_linkki": "",
+        "kuvaus": "Hanna suosittelee kotikaupunkiaan Tamperetta, jossa ihmiset eivät kävele kaduilla päin toisin kuin Helsingissä. Aamuinen kävely on siellä paljon vähemmän stressaavaa.",
+        "suosittelija": "Hanna Havusto",
+        "kategoriat": [
+          "kaupunki",
+          "Tampere"
+        ]
+      },
+      {
+        "teos": "Festareilla jonkun olkapäille nouseminen",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Hanna nousi 18-vuotiaana festareilla tuntemattoman olkapäille. Kokemus oli stressaava ja kiusallinen, mutta muistona kaunis, ja sieltä näki hyvin.",
+        "suosittelija": "Hanna Havusto",
+        "kategoriat": [
+          "festarit",
+          "elämys"
+        ]
+      },
+      {
+        "teos": "Itsemyötätunto",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Hannan mielestä tärkein suositus on olla armollinen itselleen silloinkin, kun elämä ei ole kivaa ja tulee vaikeita hetkiä.",
+        "suosittelija": "Hanna Havusto",
+        "kategoriat": [
+          "hyvinvointi",
+          "elämänohje"
+        ]
       }
     ]
   },

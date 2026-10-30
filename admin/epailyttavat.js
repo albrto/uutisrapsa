@@ -7193,6 +7193,63 @@ window.VALIDATION_DATA = [
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Hanna Havusto",
+        "teos": "Tampere – ihmiset eivät kävele päin",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "kaupunki",
+          "Tampere"
+        ],
+        "kuvaus": "Hanna suosittelee kotikaupunkiaan Tamperetta, jossa ihmiset eivät kävele kaduilla päin toisin kuin Helsingissä. Aamuinen kävely on siellä paljon vähemmän stressaavaa.",
+        "google_linkki": "https://www.google.com/search?q=Tampere",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 6,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Hanna Havusto",
+        "teos": "Festareilla jonkun olkapäille nouseminen",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "festarit",
+          "elämys"
+        ],
+        "kuvaus": "Hanna nousi 18-vuotiaana festareilla tuntemattoman olkapäille. Kokemus oli stressaava ja kiusallinen, mutta muistona kaunis, ja sieltä näki hyvin.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 7,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Hanna Havusto",
+        "teos": "Itsemyötätunto",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "hyvinvointi",
+          "elämänohje"
+        ],
+        "kuvaus": "Hannan mielestä tärkein suositus on olla armollinen itselleen silloinkin, kun elämä ei ole kivaa ja tulee vaikeita hetkiä.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
