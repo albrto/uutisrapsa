@@ -2969,16 +2969,16 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Salla Vuorikoski",
-        "teos": "Anna Brotkin ja Juho Mantereen uusi nousu (esitys)",
+        "teos": "Uusi nousu (Q-teatteri)",
         "paakategoria": "kulttuuri",
         "kategoriat": [
           "teatteri",
           "audiovisuaalisuus",
           "esittävä taide"
         ],
-        "kuvaus": "Loppuunmyyty teatteriesitys, jossa perinteinen teatteri ja audiovisuaalisuus yhdistyvät huikealla tavalla. Suosittelijan mukaan aivan omalla tasollaan oleva kokemus.",
-        "google_linkki": "https://www.google.com/search?q=Anna+Brotkin+Juho+Manninen+uusi+nousu+teatteri",
-        "lisatieto_linkki": "https://www.google.com/search?q=Anna+Brotkin+Juho+Manninen+uusi+nousu+teatteri",
+        "kuvaus": "Anna Brotkinin ja Juho Mantereen loppuunmyyty Q-teatterin näytelmä laman ja ysärin aikana kasvavista lapsista, jossa perinteinen teatteri ja audiovisuaalisuus yhdistyvät huikealla tavalla. Sallan mukaan esitys on aivan omalla tasollaan.",
+        "google_linkki": "https://www.google.com/search?q=Uusi+nousu+Q-teatteri+Brotkin+Mantere",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -2988,7 +2988,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Laman lapset – mitä meille tapahtui?",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -2996,7 +2996,7 @@ window.VALIDATION_DATA = [
           "sukupolvet",
           "yhteiskunta"
         ],
-        "kuvaus": "Sanna Kajander Ruthin kirja, jossa käydään läpi 1990-luvulla kasvaneiden ihmisten sielunmaisemaa. Käsittelee X-sukupolven kokemuksia laman ajalta.",
+        "kuvaus": "Kirja, jossa käydään läpi 1990-luvun lamavuosina kasvaneiden X-sukupolven ihmisten sielunmaisemaa. Tuomas huomasi lukiessaan olevansa itse hieman liian nuori samaistuakseen ysärin kuvastoon.",
         "google_linkki": "https://www.google.com/search?q=Laman+lapset+mit%C3%A4+meille+tapahtui+Sanna+Kajander+Ruth",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Laman+lapset+Sanna+Kajander+Ruth",
         "alkupera": "",
@@ -3008,7 +3008,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "The New York Times",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -3016,7 +3016,7 @@ window.VALIDATION_DATA = [
           "uutiset",
           "journalismi"
         ],
-        "kuvaus": "Suosittelija kehottaa lukemaan The New York Timesin maksullista versiota joka aamu. Lehti tarjoaa laadukasta journalismia ja hyviä suosituksia kulttuurista ja viihteestä.",
+        "kuvaus": "Tuomas on alkanut lukea joka aamu The New York Timesin maksullista versiota ja kehottaa muitakin tekemään niin. Lehdestä saa laadukkaan uutiskatsauksen lisäksi hyviä kulttuuri- ja viihdevinkkejä, esimerkiksi mitä Netflixistä kannattaa katsoa.",
         "google_linkki": "https://www.google.com/search?q=The+New+York+Times",
         "lisatieto_linkki": "https://www.nytimes.com",
         "alkupera": "",
@@ -3028,7 +3028,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Avatar: The Last Airbender (Netflix-sarja)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -3036,7 +3036,7 @@ window.VALIDATION_DATA = [
           "fantasia",
           "Netflix"
         ],
-        "kuvaus": "Netflixin näytelty versio legendaarisesta Avatar-animaatiosarjasta. Suosittelijan mukaan todella hyvin tehty ja uskollinen klassikkoanimaatiolle.",
+        "kuvaus": "Netflixin näytelty versio legendaarisesta Avatar-animaatiosarjasta. Tuomas katsoi ensimmäisen jakson poikansa kanssa ja piti sarjaa todella hyvin tehtynä.",
         "google_linkki": "https://www.google.com/search?q=Avatar+The+Last+Airbender+Netflix+2024",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Avatar+The+Last+Airbender+Netflix+2024",
         "alkupera": "",
@@ -3048,7 +3048,7 @@ window.VALIDATION_DATA = [
         "r_idx": 4,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -3056,7 +3056,7 @@ window.VALIDATION_DATA = [
           "poliisikorruptio",
           "journalismi"
         ],
-        "kuvaus": "Susanne Reinbothin ja Minna Passin kirja Jari Aarnion poliisikorruptiosta. Yksityiskohtainen ja koukuttava teos, joka järkyttää syvällisesti ja antaa laajemman kuvan kuin pelkkä uutisseuranta.",
+        "kuvaus": "Susanne Reinbothin ja Minna Passin kirja Jari Aarnion poliisikorruptiosta. Anni ei yleensä välitä true crimesta, mutta kirja koukutti ensimmäiseltä sivulta ja antaa laajemman ja karmivamman kuvan kuin pelkkä uutisseuranta.",
         "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio+Susanne+Reinboth+Minna+Passi",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio+Reinboth+Passi",
         "alkupera": "",
@@ -11087,7 +11087,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tommi Nieminen",
+        "suosittelija": "Marko Junkkari",
         "teos": "Super Pumped: The Battle for Uber",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -11095,7 +11095,7 @@ window.VALIDATION_DATA = [
           "startup",
           "teknologia"
         ],
-        "kuvaus": "Mike Isaacin kirja Uberin synkästä tarinasta: miten yhtiön perustaja kohteli sijoittajia, kilpailijoita ja työntekijöitä, sekä millainen kyseenalainen yrityskulttuuri startup-jättiläisen taustalla piilee.",
+        "kuvaus": "Mike Isaacin kirja Uberin synkästä tarinasta: miten yhtiön johto kohteli sijoittajia, kilpailijoita ja työntekijöitä ja millainen kyseenalainen yrityskulttuuri startup-jättiläisen taustalla piili. Marko luki kirjaa vielä kesken, mutta piti tarinaa huikeana.",
         "google_linkki": "https://www.google.com/search?q=Super+Pumped+The+Battle+for+Uber+Mike+Isaac",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Super+Pumped+The+Battle+for+Uber",
         "alkupera": "",
@@ -28663,7 +28663,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Rikosasianajaja Kaarle Gummerus",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -28671,9 +28671,29 @@ window.VALIDATION_DATA = [
           "sotarikokset",
           "tietokirja"
         ],
-        "kuvaus": "Veli-Pekka Lehtosen kirja rikosasianajaja Kaarle Gummeruksesta, joka puolusti Liberian sisällissotaan liittyvistä sotarikoksista syytettyä henkilöä. Kirja nostaa kriittisen kulman koko oikeusprosessiin ja tutkinnanjohtajan toimintaan.",
+        "kuvaus": "Veli-Pekka Lehtosen kirja rikosasianajaja Kaarle Gummeruksesta, joka puolusti Liberian sisällissotaan liittyvistä sotarikoksista syytettyä henkilöä. Sallan mukaan kirja nostaa kriittisen kulman koko oikeusprosessiin ja tutkinnanjohtajan toimintaan.",
         "google_linkki": "https://www.google.com/search?q=Rikosasianajaja+Kaarle+Gummerus+Veli-Pekka+Lehtonen",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Rikosasianajaja+Kaarle+Gummerus",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Hiihto – Oittaan ensilumenlatu",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "hiihto",
+          "ulkoilu",
+          "Espoo"
+        ],
+        "kuvaus": "Espoon Oittaalla on avattu ensilumenlatu, jolla pääsee hiihtämään jo ennen kunnon talvea. Salla kehottaa kokeilemaan lyhyen ladun hinkkaamista kaikkia hiihdosta pitäviä.",
+        "google_linkki": "https://www.google.com/search?q=Oittaa+ensilumen+latu",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
