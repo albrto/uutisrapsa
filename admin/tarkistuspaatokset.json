@@ -3715,5 +3715,96 @@
     },
     "aika": "2026-10-30T20:22:02",
     "viety": "2026-10-30T20:22:02"
+  },
+  "e2cb5198-2c86-4042-8f4b-91b605767d41::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Veli-Pekka Lehtosen kirja rikosasianajaja Kaarle Gummeruksesta, joka puolusti Liberian sisällissotaan liittyvistä sotarikoksista syytettyä henkilöä. Sallan mukaan kirja nostaa kriittisen kulman koko oikeusprosessiin ja tutkinnanjohtajan toimintaan."
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
+  },
+  "e2cb5198-2c86-4042-8f4b-91b605767d41::puuttuu::hiihto – oittaan ensilumenlatu": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Hiihto – Oittaan ensilumenlatu",
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Espoon Oittaalla on avattu ensilumenlatu, jolla pääsee hiihtämään jo ennen kunnon talvea. Salla kehottaa kokeilemaan lyhyen ladun hinkkaamista kaikkia hiihdosta pitäviä.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "hiihto",
+        "ulkoilu",
+        "Espoo"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Oittaa+ensilumen+latu",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
+  },
+  "tag:soundcloud,2010:tracks/1627527729::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Mike Isaacin kirja Uberin synkästä tarinasta: miten yhtiön johto kohteli sijoittajia, kilpailijoita ja työntekijöitä ja millainen kyseenalainen yrityskulttuuri startup-jättiläisen taustalla piili. Marko luki kirjaa vielä kesken, mutta piti tarinaa huikeana."
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
+  },
+  "tag:soundcloud,2010:tracks/1767946203::teos::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "teos": "Uusi nousu (Q-teatteri)",
+      "google_linkki": "https://www.google.com/search?q=Uusi+nousu+Q-teatteri+Brotkin+Mantere",
+      "lisatieto_linkki": "",
+      "kuvaus": "Anna Brotkinin ja Juho Mantereen loppuunmyyty Q-teatterin näytelmä laman ja ysärin aikana kasvavista lapsista, jossa perinteinen teatteri ja audiovisuaalisuus yhdistyvät huikealla tavalla. Sallan mukaan esitys on aivan omalla tasollaan."
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
+  },
+  "tag:soundcloud,2010:tracks/1767946203::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Kirja, jossa käydään läpi 1990-luvun lamavuosina kasvaneiden X-sukupolven ihmisten sielunmaisemaa. Tuomas huomasi lukiessaan olevansa itse hieman liian nuori samaistuakseen ysärin kuvastoon."
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
+  },
+  "tag:soundcloud,2010:tracks/1767946203::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas on alkanut lukea joka aamu The New York Timesin maksullista versiota ja kehottaa muitakin tekemään niin. Lehdestä saa laadukkaan uutiskatsauksen lisäksi hyviä kulttuuri- ja viihdevinkkejä, esimerkiksi mitä Netflixistä kannattaa katsoa."
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
+  },
+  "tag:soundcloud,2010:tracks/1767946203::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Netflixin näytelty versio legendaarisesta Avatar-animaatiosarjasta. Tuomas katsoi ensimmäisen jakson poikansa kanssa ja piti sarjaa todella hyvin tehtynä."
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
+  },
+  "tag:soundcloud,2010:tracks/1767946203::suosittelija::4": {
+    "paatos": "hyvaksytty",
+    "r_idx": 4,
+    "data": {
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "Susanne Reinbothin ja Minna Passin kirja Jari Aarnion poliisikorruptiosta. Anni ei yleensä välitä true crimesta, mutta kirja koukutti ensimmäiseltä sivulta ja antaa laajemman ja karmivamman kuvan kuin pelkkä uutisseuranta."
+    },
+    "aika": "2026-10-30T20:29:54",
+    "viety": "2026-10-30T20:29:54"
   }
 }
