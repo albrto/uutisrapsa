@@ -6387,5 +6387,68 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "94a090e5-cb24-4da5-9996-1591eee5b212",
+    "jakso_otsikko": "Karmiva Ukraina-suunnitelma, Suomi-vibes, conundrumit",
+    "paivamaara": "28.11.2025",
+    "r_idx": 1,
+    "teos": "The Free Press: An Oral History of the Village Voice",
+    "uusi_data": {
+      "teos": "The Freaks Came Out to Write: The Definitive History of the Village Voice",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=The+Freaks+Came+Out+to+Write+Village+Voice",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Freaks+Came+Out+to+Write",
+      "kuvaus": "Village Voice -lehden oraalihistoria, jossa on haastateltu lehden toimittajia eri vuosikymmeniltä. Viihdyttävä ja hauska kirja vastakulttuuri-journalismin maailmasta 1960-luvulta nykypäivään.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "journalismi",
+        "vastakulttuuri",
+        "historia"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "94a090e5-cb24-4da5-9996-1591eee5b212",
+    "jakso_otsikko": "Karmiva Ukraina-suunnitelma, Suomi-vibes, conundrumit",
+    "paivamaara": "28.11.2025",
+    "r_idx": 5,
+    "teos": "Hiihdon maailmancup (Krista Pärmäkosken viimeinen kausi)",
+    "uusi_data": {
+      "teos": "Hiihdon maailmancup (Krista Pärmäkosken viimeinen kausi)",
+      "paakategoria": "urheilu",
+      "google_linkki": "https://www.google.com/search?q=hiihdon+maailmancup+Krista+Pärmäkoski",
+      "lisatieto_linkki": "",
+      "kuvaus": "Hiihdon maailmancup käynnistyi, ja samalla alkoi Krista Pärmäkosken viimeinen kausi. Salla kehotti seuraamaan kisoja, ladut kun ovat jo auki.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "hiihto",
+        "maailmancup"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "94a090e5-cb24-4da5-9996-1591eee5b212",
+    "jakso_otsikko": "Karmiva Ukraina-suunnitelma, Suomi-vibes, conundrumit",
+    "paivamaara": "28.11.2025",
+    "r_idx": 6,
+    "teos": "Oman podcastin perustaminen",
+    "uusi_data": {
+      "teos": "Oman podcastin perustaminen",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas kehottaa kaikkia perustamaan oman podcastin ja jatkamaan sitä vuosikausia, vaikka aluksi kukaan ei kuuntelisi. Hänen mielestään podcastit tuovat ihmisiä yhteen toisin kuin moni muu, usein repivä media.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "podcastit",
+        "elämänohje"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

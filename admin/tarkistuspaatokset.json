@@ -3806,5 +3806,52 @@
     },
     "aika": "2026-10-30T20:29:54",
     "viety": "2026-10-30T20:29:54"
+  },
+  "94a090e5-cb24-4da5-9996-1591eee5b212::teos::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "teos": "The Freaks Came Out to Write: The Definitive History of the Village Voice",
+      "google_linkki": "https://www.google.com/search?q=The+Freaks+Came+Out+to+Write+Village+Voice",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Freaks+Came+Out+to+Write"
+    },
+    "aika": "2026-10-30T20:32:43",
+    "viety": "2026-10-30T20:32:43"
+  },
+  "94a090e5-cb24-4da5-9996-1591eee5b212::puuttuu::hiihdon maailmancup (krista pärmäkosken viimeinen kausi)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Hiihdon maailmancup (Krista Pärmäkosken viimeinen kausi)",
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Hiihdon maailmancup käynnistyi, ja samalla alkoi Krista Pärmäkosken viimeinen kausi. Salla kehotti seuraamaan kisoja, ladut kun ovat jo auki.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "hiihto",
+        "maailmancup"
+      ],
+      "google_linkki": "https://www.google.com/search?q=hiihdon+maailmancup+Krista+Pärmäkoski",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:32:43",
+    "viety": "2026-10-30T20:32:43"
+  },
+  "94a090e5-cb24-4da5-9996-1591eee5b212::puuttuu::oman podcastin perustaminen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Oman podcastin perustaminen",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas kehottaa kaikkia perustamaan oman podcastin ja jatkamaan sitä vuosikausia, vaikka aluksi kukaan ei kuuntelisi. Hänen mielestään podcastit tuovat ihmisiä yhteen toisin kuin moni muu, usein repivä media.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "podcastit",
+        "elämänohje"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:32:43",
+    "viety": "2026-10-30T20:32:43"
   }
 }
