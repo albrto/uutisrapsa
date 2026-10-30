@@ -6450,5 +6450,68 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "e669256d-640a-4bbd-bfb9-4887171c7884",
+    "jakso_otsikko": "Vapaaehtois­taistelijat, uimataito, kesätyyli",
+    "paivamaara": "31.7.2025",
+    "r_idx": 5,
+    "teos": "Tampere – ihmiset eivät kävele päin",
+    "uusi_data": {
+      "teos": "Tampere – ihmiset eivät kävele päin",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Tampere",
+      "lisatieto_linkki": "",
+      "kuvaus": "Hanna suosittelee kotikaupunkiaan Tamperetta, jossa ihmiset eivät kävele kaduilla päin toisin kuin Helsingissä. Aamuinen kävely on siellä paljon vähemmän stressaavaa.",
+      "suosittelija": "Hanna Havusto",
+      "kategoriat": [
+        "kaupunki",
+        "Tampere"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "e669256d-640a-4bbd-bfb9-4887171c7884",
+    "jakso_otsikko": "Vapaaehtois­taistelijat, uimataito, kesätyyli",
+    "paivamaara": "31.7.2025",
+    "r_idx": 6,
+    "teos": "Festareilla jonkun olkapäille nouseminen",
+    "uusi_data": {
+      "teos": "Festareilla jonkun olkapäille nouseminen",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Hanna nousi 18-vuotiaana festareilla tuntemattoman olkapäille. Kokemus oli stressaava ja kiusallinen, mutta muistona kaunis, ja sieltä näki hyvin.",
+      "suosittelija": "Hanna Havusto",
+      "kategoriat": [
+        "festarit",
+        "elämys"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "e669256d-640a-4bbd-bfb9-4887171c7884",
+    "jakso_otsikko": "Vapaaehtois­taistelijat, uimataito, kesätyyli",
+    "paivamaara": "31.7.2025",
+    "r_idx": 7,
+    "teos": "Itsemyötätunto",
+    "uusi_data": {
+      "teos": "Itsemyötätunto",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Hannan mielestä tärkein suositus on olla armollinen itselleen silloinkin, kun elämä ei ole kivaa ja tulee vaikeita hetkiä.",
+      "suosittelija": "Hanna Havusto",
+      "kategoriat": [
+        "hyvinvointi",
+        "elämänohje"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

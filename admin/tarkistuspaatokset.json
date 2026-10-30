@@ -3853,5 +3853,59 @@
     },
     "aika": "2026-10-30T20:32:43",
     "viety": "2026-10-30T20:32:43"
+  },
+  "e669256d-640a-4bbd-bfb9-4887171c7884::puuttuu::tampere – ihmiset eivät kävele päin": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Tampere – ihmiset eivät kävele päin",
+      "suosittelija": "Hanna Havusto",
+      "kuvaus": "Hanna suosittelee kotikaupunkiaan Tamperetta, jossa ihmiset eivät kävele kaduilla päin toisin kuin Helsingissä. Aamuinen kävely on siellä paljon vähemmän stressaavaa.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "kaupunki",
+        "Tampere"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Tampere",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:47:10",
+    "viety": "2026-10-30T20:47:10"
+  },
+  "e669256d-640a-4bbd-bfb9-4887171c7884::puuttuu::festareilla jonkun olkapäille nouseminen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Festareilla jonkun olkapäille nouseminen",
+      "suosittelija": "Hanna Havusto",
+      "kuvaus": "Hanna nousi 18-vuotiaana festareilla tuntemattoman olkapäille. Kokemus oli stressaava ja kiusallinen, mutta muistona kaunis, ja sieltä näki hyvin.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "festarit",
+        "elämys"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:47:10",
+    "viety": "2026-10-30T20:47:10"
+  },
+  "e669256d-640a-4bbd-bfb9-4887171c7884::puuttuu::itsemyötätunto": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Itsemyötätunto",
+      "suosittelija": "Hanna Havusto",
+      "kuvaus": "Hannan mielestä tärkein suositus on olla armollinen itselleen silloinkin, kun elämä ei ole kivaa ja tulee vaikeita hetkiä.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "hyvinvointi",
+        "elämänohje"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-10-30T20:47:10",
+    "viety": "2026-10-30T20:47:10"
   }
 }
