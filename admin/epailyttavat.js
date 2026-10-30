@@ -13426,7 +13426,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "99% Invisible: The Power Broker Book Club",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -13434,7 +13434,7 @@ window.VALIDATION_DATA = [
           "politiikka",
           "lukupiiri"
         ],
-        "kuvaus": "Podcast, jossa luetaan Robert Caron Power Broker -kirja jakso jaksolta läpi. Vieraina mm. Robert Caro itse, Alexandria Ocasio-Cortez ja Conan O'Brien.",
+        "kuvaus": "Podcastin lukupiiri, jossa Robert Caron The Power Broker luetaan läpi jakso jaksolta. Vieraina mm. Caro itse, Alexandria Ocasio-Cortez ja Conan O'Brien.",
         "google_linkki": "https://www.google.com/search?q=99%+Invisible+Power+Broker+Book+Club",
         "lisatieto_linkki": "https://open.spotify.com/search/99%25%20Invisible",
         "alkupera": "ulkomainen",
