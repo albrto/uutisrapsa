@@ -12015,7 +12015,7 @@
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
-        "teos": "The Free Press: An Oral History of the Village Voice",
+        "teos": "The Freaks Came Out to Write: The Definitive History of the Village Voice",
         "paakategoria": "kirja",
         "kategoriat": [
           "journalismi",
@@ -12023,8 +12023,8 @@
           "historia"
         ],
         "kuvaus": "Village Voice -lehden oraalihistoria, jossa on haastateltu lehden toimittajia eri vuosikymmeniltä. Viihdyttävä ja hauska kirja vastakulttuuri-journalismin maailmasta 1960-luvulta nykypäivään.",
-        "google_linkki": "https://www.google.com/search?q=The+Free+Press+Oral+History+Village+Voice",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Free+Press+Oral+History+Village+Voice",
+        "google_linkki": "https://www.google.com/search?q=The+Freaks+Came+Out+to+Write+Village+Voice",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Freaks+Came+Out+to+Write",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -12082,6 +12082,44 @@
         "kuvaus": "Tomi Kontion lastenkirja, joka voitti vuoden 2025 Lasten Finlandia -palkinnon.",
         "google_linkki": "https://www.google.com/search?q=Tomi+Kontio+Lasten+Finlandia+2025",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tomi+Kontio",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Hiihdon maailmancup (Krista Pärmäkosken viimeinen kausi)",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "hiihto",
+          "maailmancup"
+        ],
+        "kuvaus": "Hiihdon maailmancup käynnistyi, ja samalla alkoi Krista Pärmäkosken viimeinen kausi. Salla kehotti seuraamaan kisoja, ladut kun ovat jo auki.",
+        "google_linkki": "https://www.google.com/search?q=hiihdon+maailmancup+Krista+Pärmäkoski",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 6,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Oman podcastin perustaminen",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "podcastit",
+          "elämänohje"
+        ],
+        "kuvaus": "Tuomas kehottaa kaikkia perustamaan oman podcastin ja jatkamaan sitä vuosikausia, vaikka aluksi kukaan ei kuuntelisi. Hänen mielestään podcastit tuovat ihmisiä yhteen toisin kuin moni muu, usein repivä media.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,

@@ -2797,10 +2797,10 @@
         ]
       },
       {
-        "teos": "The Free Press: An Oral History of the Village Voice",
+        "teos": "The Freaks Came Out to Write: The Definitive History of the Village Voice",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=The+Free+Press+Oral+History+Village+Voice",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Free+Press+Oral+History+Village+Voice",
+        "google_linkki": "https://www.google.com/search?q=The+Freaks+Came+Out+to+Write+Village+Voice",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Freaks+Came+Out+to+Write",
         "kuvaus": "Village Voice -lehden oraalihistoria, jossa on haastateltu lehden toimittajia eri vuosikymmeniltä. Viihdyttävä ja hauska kirja vastakulttuuri-journalismin maailmasta 1960-luvulta nykypäivään.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -2843,6 +2843,30 @@
         "kategoriat": [
           "lastenkirja",
           "Finlandia-palkinto"
+        ]
+      },
+      {
+        "teos": "Hiihdon maailmancup (Krista Pärmäkosken viimeinen kausi)",
+        "paakategoria": "urheilu",
+        "google_linkki": "https://www.google.com/search?q=hiihdon+maailmancup+Krista+Pärmäkoski",
+        "lisatieto_linkki": "",
+        "kuvaus": "Hiihdon maailmancup käynnistyi, ja samalla alkoi Krista Pärmäkosken viimeinen kausi. Salla kehotti seuraamaan kisoja, ladut kun ovat jo auki.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "hiihto",
+          "maailmancup"
+        ]
+      },
+      {
+        "teos": "Oman podcastin perustaminen",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas kehottaa kaikkia perustamaan oman podcastin ja jatkamaan sitä vuosikausia, vaikka aluksi kukaan ei kuuntelisi. Hänen mielestään podcastit tuovat ihmisiä yhteen toisin kuin moni muu, usein repivä media.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "podcastit",
+          "elämänohje"
         ]
       }
     ]
