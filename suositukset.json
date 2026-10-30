@@ -4531,12 +4531,12 @@
     "paivamaara": "22.5.2025",
     "suositukset": [
       {
-        "teos": "Paisti – Ville Sivilä",
+        "teos": "Kani nimeltä Paisti",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Paisti+Ville+Sivilä",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Paisti+Ville+Sivilä",
-        "kuvaus": "Ville Sivilän esikoisromaani yhdistää suvun historiaa 1800-luvulta nykypäivään sekä kirjailijan omia lapsuusmuistoja 70–90-luvun Uudeltamaalta. Tiivis, novellimainen teos, joka kytkeytyy myös Suomen kohtaloihin.",
-        "suosittelija": "Marko Junkkari",
+        "google_linkki": "https://www.google.com/search?q=Kani+nimeltä+Paisti+Ville+Sivilä",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kani+nimeltä+Paisti+Sivilä",
+        "kuvaus": "Ville Sivilän esikoisromaani yhdistää suvun historiaa 1800-luvulta nykypäivään sekä kirjailijan omia lapsuusmuistoja 70–90-luvun Uudeltamaalta. Sohvin mielestä tiivis, novellimainen ja välillä ääneen naurattava teos, joka kytkeytyy myös Suomen kohtaloihin.",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "romaani",
           "suomalainen kirjallisuus",
@@ -4561,8 +4561,8 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Eraserhead+David+Lynch+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Eraserhead",
-        "kuvaus": "David Lynchin mustavalkoinen kulttielo­kuva dystooppisessa teollisuusmaisemassa, jossa nuori pari saa mutanttilapsen. Saatavilla maksuttomasti Yle Areenassa.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "David Lynchin mustavalkoinen kulttielokuva dystooppisessa teollisuusmaisemassa, jossa nuori pari saa mutanttilapsen. Pekka katsoi sen täysi-ikäisen poikansa kanssa; elokuva on katsottavissa maksutta Yle Areenassa.",
+        "suosittelija": "Pekka Mykkänen",
         "kategoriat": [
           "David Lynch",
           "kulttielo­kuva",
@@ -4574,8 +4574,8 @@
         "paakategoria": "artikkeli",
         "google_linkki": "https://www.google.com/search?q=The+Spy+Factory+New+York+Times+Brazil+Russia",
         "lisatieto_linkki": "https://www.google.com/search?q=The+Spy+Factory+New+York+Times+Brazil+Russia",
-        "kuvaus": "New York Timesin toimittajien Michael Schwirtz ja Jane Bradley kirjoittama artikkeli paljastaa, kuinka Venäjä on käyttänyt Brasiliaa deep cover -agenttien hautomona – agentit hankkivat aidot brasilialaiset henkilöllisyydet ja sijoitettiin ympäri maailmaa.",
-        "suosittelija": "Pekka Mykkänen",
+        "kuvaus": "New York Timesin toimittajien Michael Schwirtzin ja Jane Bradleyn artikkeli paljastaa, kuinka Venäjä on käyttänyt Brasiliaa deep cover -agenttien hautomona: agentit hankkivat aidot brasilialaiset henkilöllisyydet ja heidät sijoitettiin ympäri maailmaa. Markon mielestä ihan elokuvakamaa.",
+        "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "vakoilu",
           "Venäjä",
@@ -4778,8 +4778,8 @@
         "paakategoria": "urheilu",
         "google_linkki": "",
         "lisatieto_linkki": "",
-        "kuvaus": "Helsingin Pirkkalassa sijaitsevan uimahallin kahviolta saa suunnistuskarttoja edullisesti. Rasteja löytyy Keskuspuistosta, Nuuksiosta ja muualta – voi mennä omalla ajalla ilman paineita.",
-        "suosittelija": "Anna-Sofia Berner",
+        "kuvaus": "Helsingin Pirkkolan uimahallin kahviosta saa edullisesti suunnistuskarttoja, ja rasteja löytyy Keskuspuistosta, Nuuksiosta ja muualta. Sallan mukaan suunnistus vie ajatukset muualta, ja omaan tahtiin voi mennä ilman paineita.",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "suunnistus",
           "luonto",
@@ -4797,6 +4797,18 @@
           "amerikkalainen kirjallisuus",
           "historiallinen fiktio",
           "klassikko"
+        ]
+      },
+      {
+        "teos": "Tenniksen pelaaminen",
+        "paakategoria": "urheilu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Sohvin vinkki sille, joka haluaa hetkeksi unohtaa kaiken muun: menkää pelaamaan tennistä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "urheilu",
+          "liikunta"
         ]
       }
     ]
@@ -5892,11 +5904,11 @@
         ]
       },
       {
-        "teos": "Mårten Göstickin näyttely Ateneumissa",
+        "teos": "Gothic Modern -näyttely (Ateneum)",
         "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=Mårten+Göstick+Ateneum+näyttely",
-        "lisatieto_linkki": "https://www.ateneum.fi",
-        "kuvaus": "Ateneumin Halloween-henkinen taidenäyttely, jonka keskiössä ovat pääkallot ja synkät, paranoidiset teokset. Museo on valaistu hämyisesti ja kokemus on elämyksellinen ja moderni.",
+        "google_linkki": "https://www.google.com/search?q=Gothic+Modern+Ateneum",
+        "lisatieto_linkki": "",
+        "kuvaus": "Ateneumin kansainvälinen taidenäyttely, jonka keskiössä ovat pääkallot, synkkyys ja kuolema – mukana muun muassa Hugo Simbergin ja Edvard Munchin teoksia. Hämärästi valaistu näyttely on Tuomaksen mukaan elämyksellinen ja moderni.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "taidenäyttely",
@@ -7051,8 +7063,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Marcel+Proust+Kadonnutta+aikaa+etsimässä",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=In+Search+of+Lost+Time+Proust",
-        "kuvaus": "Marcel Proustin monumentaalinen kirjasarja, jota Anni on vihdoin aloittanut. Suosittelee erityisesti 'passiivisen lukemisen' taktiikkaa – nautiskele pikkuhiljaa ilman paineita.",
-        "suosittelija": "Anni Keski-Heikkilä",
+        "kuvaus": "Marcel Proustin monumentaalinen romaanisarja, jota Joona on vihdoin aloittanut. Hän suosittelee erityisesti 'passiivisen lukemisen' taktiikkaa: pitkää kirjaprojektia voi nautiskella pikkuhiljaa ilman paineita.",
+        "suosittelija": "Joona Aaltonen",
         "kategoriat": [
           "klassikko",
           "ranskalainen kirjallisuus",
@@ -7064,8 +7076,8 @@
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=Blue+yhtye",
         "lisatieto_linkki": "https://open.spotify.com/search/Blue%20band",
-        "kuvaus": "Brittiläinen 2000-luvun poikabändi, jonka Milla näki Helsinki City -festivaalilla. Veti ysäripaikan tanssiliikkeitä täydellä pokalla – esiintyminen oli hänen mukaansa aidosti cool.",
-        "suosittelija": "Milla Palkoaho",
+        "kuvaus": "Brittiläinen 2000-luvun poikabändi, jonka Anni näki Helsinki City -festivaalilla. Bändi veti ysärityylisiä tanssiliikkeitä täydellä pokalla, ja esiintyminen oli Annin mukaan aidosti cool.",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "pop",
           "livemusiikki",
@@ -7925,8 +7937,8 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=The+Greatest+Night+in+Pop+dokumentti",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Greatest+Night+in+Pop",
-        "kuvaus": "Netflix-dokumentti We Are the World -hyväntekeväisyysbiisin nauhoittamisesta yhden yön aikana American Music Awardsin jälkeen kasarilla. Mukana mm. Michael Jackson ja Bono.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Netflix-dokumentti We Are the World -hyväntekeväisyysbiisin nauhoittamisesta yhden yön aikana American Music Awardsin jälkeen kasarilla. Mukana mm. Michael Jackson ja Bob Dylan.",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "dokumentti",
           "musiikki",
@@ -7939,7 +7951,7 @@
         "google_linkki": "https://www.google.com/search?q=Viikinki+Toni+Halme+dokumentti+Yle+Areena",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Viikinki+Toni+Halme",
         "kuvaus": "Yle Areenassa saatavilla oleva dokumentti Toni Halmeen elämästä: matkasta pikkupojasta showpainijaksi, poliitikoksi ja surkeaan loppuun. Ohjaus Lauri Anssi Moilanen ja Olli Vuokko.",
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "dokumentti",
           "urheilu",
@@ -7947,9 +7959,9 @@
         ]
       },
       {
-        "teos": "The Daily Show with John Stewart",
+        "teos": "The Daily Show with Jon Stewart",
         "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=The+Daily+Show+John+Stewart+2024",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+Show+Jon+Stewart",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Daily+Show",
         "kuvaus": "Jon Stewart on palannut juontamaan The Daily Show'ta yhden jakson viikossa. Jaksot ovat katsottavissa kokonaan YouTube-kanavalla Comedy Central.",
         "suosittelija": "Tuomas Peltomäki",
@@ -8625,8 +8637,8 @@
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=Robin+Williams+Graham+Norton+Show+haastattelu",
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Robin+Williams+Graham+Norton",
-        "kuvaus": "Robin Williamsin haastattelu Graham Norton Show'ssa, jossa hän kertoo hauskan tarinan vuokraamastaan linnasta ja sinne tulleesta siivoojasta.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Robin Williamsin haastattelu Graham Norton Show'ssa, jossa hän kertoo hauskan tarinan vuokraamastaan linnasta ja sinne tulleesta siivoojasta. Anni jatkoi tällä Robin Williams -dokkarisuositustaan.",
+        "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "talk show",
           "haastattelu",
@@ -8639,7 +8651,7 @@
         "google_linkki": "https://www.google.com/search?q=Politics+on+the+Edge+Rory+Stewart",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Politics+on+the+Edge+Rory+Stewart",
         "kuvaus": "Rory Stewartin muistelmat brittipolitiikasta. Kirja antaa realistisen ja hauskan kuvan siitä, miten kyvyttömiä poliitikot ovat tekemään päätöksiä ja miten koko brittijärjestelmä on rikki.",
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "politiikka",
           "muistelmat",
@@ -8651,14 +8663,26 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=The+Rest+Is+Politics+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20Politics",
-        "kuvaus": "Rory Stewartin ja Alastair Campbellin yhteinen politiikkapodcast, joka nousi suureen suosioon muun muassa Stewartin erinomaisten Israel–Palestiina-analyysien ansiosta.",
-        "suosittelija": "Anni Keski-Heikkilä",
+        "kuvaus": "Rory Stewartin ja Alastair Campbellin yhteinen politiikkapodcast, jonka Tuomas suositteli Markolle Stewartin kirjan jatkoksi. Podcast nousi suureen suosioon muun muassa Stewartin Israel–Palestiina-analyysien ansiosta.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "politiikka",
           "Britannia",
           "ajankohtainen"
         ],
         "alkupera": "ulkomainen"
+      },
+      {
+        "teos": "Minglausvinkki: ota selvää juhlavieraista etukäteen",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas jakoi kuulijalta saamansa vinkin minglaamisen jännittämiseen: selvitä, millaisiin juhliin olet menossa ja keitä siellä on, googlaa heidän kuulumisiaan ja ole aidosti kiinnostunut ihmisistä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "elämäntapa",
+          "sosiaaliset tilanteet"
+        ]
       }
     ]
   },
