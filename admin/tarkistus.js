@@ -380,11 +380,49 @@ const Tarkistus = (() => {
     'yle', 'areena', 'areenan', 'hesari', 'suomi', 'suomen', 'sanomat', 'sanomien', 'helsingin', 'teos', 'levy', 'albumi']);
 
   function hakusanat(ero) {
+    const teos = ero.tyyppi === 'teos' ? `${ero.vanha} ${ero.uusi}` : `${ero.teos || ''} ${ero.uusi_data?.teos || ''}`;
     const sanat = [];
-    const teos = ero.tyyppi === 'teos' ? `${ero.vanha} ${ero.uusi}` : (ero.teos || '');
-    for (const s of teos.split(/[\s–—\-:,()"'””.!?]+/))
-      if (s.length >= 4 && !HUKKASANAT.has(s.toLowerCase())) sanat.push(s);
-    return sanat.slice(0, 4);
+    for (const s of hakuNormalisoi(teos).split(' '))
+      if (s.length >= 4 && !HUKKASANAT.has(s) && !sanat.includes(s)) sanat.push(s);
+    return sanat.slice(0, 5);
+  }
+
+  // Litterointi kuulee teosten nimet usein vähän sinnepäin ("Severance" → "Severens",
+  // "Ruplaruhtinat" → "Rupla ruhtinat", "Luukan" → "Kuukan"), joten haku on sumea:
+  // täysi osuma = sana sisältää hakusanan tai alkaa lähes samalla merkkijonolla
+  // (1 kirjain eroa, ≥8-kirjaimisissa 2); puoliosuma = pitkän hakusanan ja sanan 6 ensimmäistä kirjainta melkein samat.
+  // Vertailu tehdään myös kahden peräkkäisen sanan yhdistelmää vasten.
+  function osumanVahvuus(haku, sana) {
+    if (sana.includes(haku)) return 1;
+    if (haku.length < 5 || /\d/.test(haku)) return 0;
+    const raja = haku.length >= 8 ? 2 : 1;
+    for (let pituus = haku.length - raja; pituus <= haku.length + raja; pituus++)
+      if (pituus <= sana.length && lahesSama(haku, sana.slice(0, pituus), raja)) return 1;
+    if (haku.length >= 7 && sana.length >= 6 && lahesSama(haku.slice(0, 6), sana.slice(0, 6), 1)) return 0.5;
+    return 0;
+  }
+
+  // Rivin sanat ja kunkin hakusanan paras vahvuus; korostettavat sanat merkitään
+  function rivinOsumat(teksti, haut) {
+    const osat = teksti.split(/([\p{L}\p{N}]+)/u);
+    const sanat = [];
+    for (let i = 1; i < osat.length; i += 2) sanat.push({ i, n: hakuNormalisoi(osat[i]) });
+    const vahvuus = haut.map(() => 0), merkitty = new Set();
+    haut.forEach((haku, k) => {
+      sanat.forEach((s, m) => {
+        const v = osumanVahvuus(haku, s.n);
+        const seuraava = sanat[m + 1];
+        // Pari vain, kun kumpikaan sana ei osu yksin ("on" + "Rocketman" ei korosta sanaa "on")
+        const pari = !v && seuraava && !osumanVahvuus(haku, seuraava.n) ? osumanVahvuus(haku, s.n + seuraava.n) : 0;
+        const paras = Math.max(v, pari);
+        if (!paras) return;
+        vahvuus[k] = Math.max(vahvuus[k], paras);
+        merkitty.add(s.i);
+        if (pari > v) merkitty.add(seuraava.i);
+      });
+    });
+    const html = osat.map((osa, i) => merkitty.has(i) ? `<mark>${esc(osa)}</mark>` : esc(osa)).join('');
+    return { vahvuus, html };
   }
 
   const tiedostonimi = jakso_id => jakso_id.replace(/[^A-Za-z0-9_-]/g, '_');
@@ -422,36 +460,57 @@ const Tarkistus = (() => {
     }
     const sanat = hakusanat(ero);
     $('tk-haku').value = sanat.join(' ');
-    korosta(sanat);
+    korosta(sanat, await alkukohdanRivi(jakso_id, ero));
   }
 
-  function korosta(sanat) {
+  // Julkisen sivun kuuntelukohta (kuuntelu.json) → transkription rivi. Varalla, jos teoksen
+  // nimeä ei löydy transkriptiosta lainkaan; vain sivulla jo oleville suosituksille.
+  let kuunteluLupaus = null;
+  async function alkukohdanRivi(jakso_id, ero) {
+    if (ero.r_idx == null || ero.tyyppi === 'puuttuu' || !AANI?.ajat) return null;
+    kuunteluLupaus ||= fetch('/kuuntelu.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
+    const t = (await kuunteluLupaus)[jakso_id]?.t?.[ero.r_idx];
+    if (t == null) return null;
+    const { rivit, leike } = AANI.ajat;
+    let paras = null;
+    rivit.forEach((r, i) => {
+      if (r == null) return;
+      const aika = r < leike.alku_s ? r : leike.loppu_alku_s + (r - leike.alku_s);
+      if (aika <= t + 1) paras = i;
+    });
+    return paras;
+  }
+
+  function korosta(sanat, varakohta = null) {
     const rivit = [...document.querySelectorAll('#tk-rivit p[data-i]')];
-    const lausekkeet = sanat.filter(Boolean).map(s => new RegExp(s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i'));
-    osumat = [];
-    for (const p of rivit) {
-      const rt = p.querySelector('.rt') || p;
-      const alkuperainen = p.dataset.teksti ?? p.textContent;
-      let html = esc(alkuperainen), osui = false;
-      for (const re of lausekkeet) {
-        if (re.test(alkuperainen)) { osui = true; html = html.replace(new RegExp(re.source, 'gi'), m => `<mark>${m}</mark>`); }
-      }
-      rt.innerHTML = html;
+    const haut = [...new Set(sanat.map(hakuNormalisoi).filter(s => s.length >= 2))];
+    const tulokset = rivit.map(p => {
+      const tulos = rivinOsumat(p.dataset.teksti ?? p.textContent, haut);
+      (p.querySelector('.rt') || p).innerHTML = tulos.html;
       p.classList.remove('nykyinen');
-      if (osui) osumat.push(p);
-    }
-    // Aloituskohdaksi rivi, jolla on eniten ja harvinaisimpia hakusanoja (sana, joka esiintyy
-    // monella rivillä, painaa vähän) — muuten esim. "toimittaja" vei jakson alkuun
-    const harvinaisuus = lausekkeet.map(re => 1 / Math.max(1, rivit.filter(p => re.test(p.dataset.teksti ?? p.textContent)).length));
+      return tulos;
+    });
+    osumat = rivit.filter((p, n) => tulokset[n].vahvuus.some(Boolean));
+    // Aloituskohdaksi rivi, jolla (seuraavan rivin kanssa) on eniten ja harvinaisimpia hakusanoja
+    // (sana, joka esiintyy monella rivillä, painaa vähän) — muuten esim. "toimittaja" vei jakson alkuun
+    const harvinaisuus = haut.map((_, k) => 1 / Math.max(1, tulokset.filter(t => t.vahvuus[k]).length));
     let paras = -1, parasPisteet = 0;
     osumat.forEach((p, n) => {
-      const teksti = p.dataset.teksti ?? p.textContent;
-      const pisteet = lausekkeet.reduce((summa, re, k) => summa + (re.test(teksti) ? harvinaisuus[k] : 0), 0);
+      const i = rivit.indexOf(p);
+      const pisteet = haut.reduce((summa, _, k) => summa + harvinaisuus[k] *
+        Math.max(tulokset[i].vahvuus[k], 0.8 * (tulokset[i + 1]?.vahvuus[k] || 0)), 0);
       if (pisteet > parasPisteet + 1e-9) { paras = n; parasPisteet = pisteet; }
     });
+    // Ei osumia, mutta suosituksen alkukohta tiedetään (kuuntelu.json): aloitetaan siitä
+    const varalla = !osumat.length && varakohta != null && rivit[varakohta];
+    if (varalla) {
+      osumat = [rivit[varakohta]];
+      paras = 0;
+    }
     osumaIdx = paras - 1;
-    $('tk-osumat').textContent = sanat.length ? `${osumat.length} osumaa` : '';
+    $('tk-osumat').textContent = haut.length ? `${osumat.length} osumaa` : '';
     seuraavaOsuma();
+    if (varalla) $('tk-osumat').textContent = 'nimeä ei löytynyt – suosituksen alkukohta';
   }
 
   function seuraavaOsuma() {
