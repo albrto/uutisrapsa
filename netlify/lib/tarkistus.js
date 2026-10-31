@@ -30,6 +30,17 @@ function nykyinenSuositus(jakso, r_idx, korjaukset) {
   return rec;
 }
 
+// Ehdotuksen r_idx on ehdotuksen tekohetken paikka. Jos jakson järjestystä on muutettu
+// sen jälkeen ("Muuta järjestystä"), sama teos on nyt muualla: etsitään se teoksen nimellä
+// (sivun tai korjausten mukaisella). Ilman yksiselitteistä vastinetta pidetään alkuperäinen paikka.
+function oikeaPaikka(jakso, r_idx, teos, korjaukset) {
+  const recs = jakso.suositukset || [];
+  const sama = i => i < recs.length && (recs[i].teos === teos || nykyinenSuositus(jakso, i, korjaukset).teos === teos);
+  if (!teos || !Number.isInteger(r_idx) || sama(r_idx)) return r_idx;
+  const loydetyt = recs.map((_, i) => i).filter(sama);
+  return loydetyt.length === 1 ? loydetyt[0] : r_idx;
+}
+
 /**
  * @param paatokset  selaimen lähettämät: [{avain, paatos: hyvaksytty|hylatty|poista|null, r_idx, teos, data}]
  * @param tallennetut admin/tarkistuspaatokset.json ({avain: {paatos, r_idx, data, aika, viety?}})
@@ -43,7 +54,7 @@ function muunnaPaatokset(paatokset, tallennetut, suositukset, korjaukset, aika) 
   const muokkaukset = new Map();   // "jakso_id\u0000r_idx" → merkintä (useampi ero samaan suositukseen)
   const lisaykset = [], poistot = [];
 
-  for (const p of paatokset) {
+  for (let p of paatokset) {
     const vanha = tallennetut[p.avain];
     // Jo korjauksiin viety päätös on lukittu (esim. vanhentunut luonnos toisesta selaimesta)
     if (vanha && vanha.viety) continue;
@@ -57,6 +68,8 @@ function muunnaPaatokset(paatokset, tallennetut, suositukset, korjaukset, aika) 
 
     const jakso = jaksot.get(jakso_id);
     if (!jakso) throw new TarkistusVirhe(`Jaksoa ei löydy: ${jakso_id}`);
+    if (tyyppi !== 'puuttuu') p = { ...p, r_idx: oikeaPaikka(jakso, p.r_idx, p.teos, korjaukset) };
+    merkinta.r_idx = p.r_idx ?? null;
     const otsikko = { jakso_id, jakso_otsikko: jakso.jakso_otsikko, paivamaara: jakso.paivamaara };
     const recs = jakso.suositukset || [];
     const data = p.data || {};

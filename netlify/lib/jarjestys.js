@@ -5,7 +5,8 @@
 // korjaukset.json ajetaan uudelleen jokaisella tuotantoajolla. Siksi järjestystä
 // ei voi muuttaa korjausmerkinnällä, vaan kerralla kaikkiin paikkoihin:
 // suositukset.json (itse järjestys) sekä korjaukset.json, ohitukset.json ja
-// epailyttavat.json/.js (r_idx-viitteet uusiin paikkoihin). Puhdas funktio —
+// epailyttavat.json/.js (r_idx-viitteet uusiin paikkoihin) ja kuuntelu.json
+// (julkisen sivun "Kuuntele suositus" -alkukohdat, avaimena r_idx). Puhdas funktio —
 // GitHub-luku ja -kirjoitus ovat netlify/functions/jarjesta.js:ssä.
 
 class JarjestysVirhe extends Error {
@@ -75,4 +76,36 @@ function jarjestaJakso(data, jakso_id, jarjestys, teokset) {
   return { suositukset, korjaukset, ohitukset, epailyttavat, korjauksia, ohituksia };
 }
 
-module.exports = { jarjestaJakso, JarjestysVirhe };
+/**
+ * kuuntelu.json: {jakso_id: {a, k, t: {"r_idx": sekunnit}}}. Tiedosto on Pythonin
+ * kirjoittama (tiivis, sort_keys), joten muutetaan vain tämän jakson "t"-olio tekstinä —
+ * muut rivit ja lukujen kirjoitusasu (esim. 2989.0) pysyvät tavulleen samoina.
+ * @param {string|null} raaka  tiedoston sisältö
+ * @param {string} jakso_id
+ * @param {number[]} jarjestys  sama kuin jarjestaJakso:lle
+ * @returns {{kuuntelu: string|null, kuuntelukohtia: number}}
+ */
+function siirraKuuntelukohdat(raaka, jakso_id, jarjestys) {
+  if (!raaka) return { kuuntelu: raaka, kuuntelukohtia: 0 };
+  const alku = raaka.indexOf(JSON.stringify(jakso_id) + ':{');
+  if (alku < 0) return { kuuntelu: raaka, kuuntelukohtia: 0 };
+  const tAlku = raaka.indexOf('"t":{', alku) + 5;
+  const tLoppu = raaka.indexOf('}', tAlku);
+  if (tAlku < 5 || tLoppu < 0) throw new Error(`kuuntelu.json: jakson ${jakso_id} kohtia ei voitu lukea`);
+  const uusiPaikka = {};
+  jarjestys.forEach((vanha, uusi) => { uusiPaikka[vanha] = uusi; });
+  let kuuntelukohtia = 0;
+  const parit = raaka.slice(tAlku, tLoppu).split(',').filter(Boolean).map(pari => {
+    const m = pari.match(/^"(\d+)":(.+)$/);
+    if (!m) throw new Error(`kuuntelu.json: odottamaton kohta ${pari}`);
+    const vanha = +m[1], uusi = vanha in uusiPaikka ? uusiPaikka[vanha] : vanha;
+    if (uusi !== vanha) kuuntelukohtia++;
+    return [String(uusi), m[2]];
+  });
+  // Sama avainjärjestys kuin Pythonin sort_keys (merkkijonoina: "10" < "2")
+  parit.sort((a, b) => (a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0));
+  const t = parit.map(([k, v]) => `"${k}":${v}`).join(',');
+  return { kuuntelu: raaka.slice(0, tAlku) + t + raaka.slice(tLoppu), kuuntelukohtia };
+}
+
+module.exports = { jarjestaJakso, siirraKuuntelukohdat, JarjestysVirhe };

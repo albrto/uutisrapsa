@@ -2,12 +2,12 @@
 // Muuttaa jakson suositusten järjestyksen (admin-näkymän "Muuta järjestystä").
 //
 // Kirjoittaa YHDEN commitin, jossa suositukset.json ja kaikki r_idx-viitteet
-// (korjaukset.json, ohitukset.json, epailyttavat.json/.js) muuttuvat yhdessä —
+// (korjaukset.json, ohitukset.json, epailyttavat.json/.js, kuuntelu.json) muuttuvat yhdessä —
 // erillisinä tallennuksina välitila rikkoisi korjausten uudelleenajon.
 // Käyttää Git Data API:a (contents-API ei osaa monen tiedoston committia).
 // Jos main ehtii liikkua lukemisen ja kirjoittamisen välissä, yritetään uudelleen.
 
-const { jarjestaJakso, JarjestysVirhe } = require('../lib/jarjestys');
+const { jarjestaJakso, siirraKuuntelukohdat, JarjestysVirhe } = require('../lib/jarjestys');
 
 const REPO = 'albrto/uutisrapsa';
 const API = `https://api.github.com/repos/${REPO}`;
@@ -18,6 +18,7 @@ const TIEDOSTOT = {
   ohitukset: 'admin/ohitukset.json',
   epailyttavat: 'admin/epailyttavat.json',
   epailyttavatJs: 'admin/epailyttavat.js',
+  kuuntelu: 'kuuntelu.json',
 };
 
 exports.handler = async (event) => {
@@ -78,6 +79,7 @@ exports.handler = async (event) => {
       };
       const tulos = jarjestaJakso(data, jakso_id, jarjestys, teokset);
       const jakso = tulos.suositukset.find(j => j.id === jakso_id);
+      const { kuuntelu, kuuntelukohtia } = siirraKuuntelukohdat(raaka.kuuntelu, jakso_id, jarjestys);
 
       // Sama muoto kuin Python-skriptien json.dump(indent=2, ensure_ascii=False)
       const json = x => JSON.stringify(x, null, 2);
@@ -88,6 +90,7 @@ exports.handler = async (event) => {
         uudet.epailyttavat = json(tulos.epailyttavat);
         if (raaka.epailyttavatJs !== null) uudet.epailyttavatJs = `${JS_ETULIITE}${uudet.epailyttavat};\n`;
       }
+      if (kuuntelukohtia) uudet.kuuntelu = kuuntelu;
 
       const puu = [];
       for (const [avain, sisalto] of Object.entries(uudet)) {
@@ -101,7 +104,8 @@ exports.handler = async (event) => {
       if (!treeRes.ok) throw new Error(`Tree-luonti epäonnistui: ${treeRes.statusText}`);
       const viesti = `Järjestä suositukset: ${jakso.jakso_otsikko} (${jakso.paivamaara})\n\n`
         + `Uusi järjestys: ${jakso.suositukset.map(r => r.teos).join(' / ')}\n`
-        + `Siirretty viitteitä: ${tulos.korjauksia} korjausta, ${tulos.ohituksia} ohitusta (admin-näkymästä)`;
+        + `Siirretty viitteitä: ${tulos.korjauksia} korjausta, ${tulos.ohituksia} ohitusta, `
+        + `${kuuntelukohtia} kuuntelukohtaa (admin-näkymästä)`;
       const uusiCommitRes = await gh('/git/commits', {
         method: 'POST',
         body: JSON.stringify({ message: viesti, tree: (await treeRes.json()).sha, parents: [pohjaSha] }),
