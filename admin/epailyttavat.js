@@ -26646,7 +26646,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "Unequal Democracy",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -26654,7 +26654,7 @@ window.VALIDATION_DATA = [
           "tietokirja",
           "demokratia"
         ],
-        "kuvaus": "Larry Bartelsin klassikkotutkimus siitä, miten raha tuottaa valtaa amerikkalaisessa demokratiassa. Mainitaan The Wolves of K Street -kirjan yhteydessä.",
+        "kuvaus": "Larry Bartelsin klassikkotutkimus siitä, miten raha tuottaa valtaa amerikkalaisessa demokratiassa. Sohvi nosti sen Markon suositteleman The Wolves of K Street -kirjan jatkoksi ja vinkkasi myös Daily Show'n jaksosta, jossa Bartelsia haastatellaan.",
         "google_linkki": "https://www.google.com/search?q=Unequal+Democracy+Larry+Bartels",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Unequal+Democracy+Larry+Bartels",
         "alkupera": "",
@@ -26697,6 +26697,26 @@ window.VALIDATION_DATA = [
         "kuvaus": "Walesilaiseen hotelli Lioniin liittyvä TikTok-kanava, jossa hotellivieraat kilpailevat tietovisan kysymyksistä. Hauska ja aito – osallistujat ovat täysin tavallisia walesilaisisia.",
         "google_linkki": "https://www.google.com/search?q=The+Lion+Challenge+TikTok+hotel+Lion+Wales",
         "lisatieto_linkki": "https://www.tiktok.com/search?q=The+Lion+Challenge",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "His Three Daughters",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "Netflix",
+          "perhe"
+        ],
+        "kuvaus": "Netflixin elokuva kolmesta sisaruksesta, jotka kokoontuvat New Yorkin asuntoon kuolevan isänsä luo ja joutuvat selvittämään perhevälejään. Sohvin mukaan aliarvostettu ja hyvin newyorkilainen elokuva, jossa näyttelee hänen suosikkinsa Natasha Lyonne.",
+        "google_linkki": "https://www.google.com/search?q=His+Three+Daughters+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=His+Three+Daughters",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
