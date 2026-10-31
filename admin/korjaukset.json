@@ -6556,5 +6556,47 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1439031883",
+    "jakso_otsikko": "3.2.2022: Ruotsi osa XXIVXCC, Marinin Nato-kahminta, miesten seksinpuute",
+    "paivamaara": "3.2.2023",
+    "r_idx": 2,
+    "teos": "Operaatio Kekkonen",
+    "uusi_data": {
+      "teos": "Operaatio Kekkonen",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Operaatio+Kekkonen+Mikko+Virta",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Operaatio+Kekkonen",
+      "kuvaus": "Mikko Virran kirja Urho Kekkosen poliittisesta urasta ja toiminnasta, joka valottaa Suomen historian varjoisampia puolia lännen agenteista pyjaman taskupuheeseen. Salla on kuunnellut kirjaa hiihtolenkeillä ja pitää sitä erityisen kiinnostavana nykyisen Nato-keskustelun valossa.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "historia",
+        "politiikka",
+        "Suomi"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1439031883",
+    "jakso_otsikko": "3.2.2022: Ruotsi osa XXIVXCC, Marinin Nato-kahminta, miesten seksinpuute",
+    "paivamaara": "3.2.2023",
+    "r_idx": 3,
+    "teos": "Articles of Interest",
+    "uusi_data": {
+      "teos": "Articles of Interest",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Articles+of+Interest+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Articles%20of%20Interest",
+      "kuvaus": "Muotipodcast, jonka edellinen kausi käsitteli kokonaisuudessaan American Ivy -tyylisuuntausta ja sen yllättävää japanilaista alkuperää. Tuomaksen mielestä kiehtova tarina siitä, miten yksi japanilainen muoti-ihailija loi koko amerikkalaisen preppy-tyylin.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "muoti",
+        "historia",
+        "kulttuuri"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

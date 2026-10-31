@@ -3936,5 +3936,31 @@
     },
     "aika": "2026-10-31T09:19:14",
     "viety": "2026-10-31T09:19:14"
+  },
+  "tag:soundcloud,2010:tracks/1439031883::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Mikko Virran kirja Urho Kekkosen poliittisesta urasta ja toiminnasta, joka valottaa Suomen historian varjoisampia puolia lännen agenteista pyjaman taskupuheeseen. Salla on kuunnellut kirjaa hiihtolenkeillä ja pitää sitä erityisen kiinnostavana nykyisen Nato-keskustelun valossa."
+    },
+    "aika": "2026-10-31T09:28:24",
+    "viety": "2026-10-31T09:28:24"
+  },
+  "tag:soundcloud,2010:tracks/1439031883::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Muotipodcast, jonka edellinen kausi käsitteli kokonaisuudessaan American Ivy -tyylisuuntausta ja sen yllättävää japanilaista alkuperää. Tuomaksen mielestä kiehtova tarina siitä, miten yksi japanilainen muoti-ihailija loi koko amerikkalaisen preppy-tyylin."
+    },
+    "aika": "2026-10-31T09:28:24",
+    "viety": "2026-10-31T09:28:24"
+  },
+  "tag:soundcloud,2010:tracks/1439031883::ylimaarainen::1": {
+    "paatos": "hylatty",
+    "r_idx": 1,
+    "data": null,
+    "aika": "2026-10-31T09:28:24"
   }
 }
