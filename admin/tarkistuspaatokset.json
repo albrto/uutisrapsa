@@ -3907,5 +3907,34 @@
     },
     "aika": "2026-10-30T20:47:10",
     "viety": "2026-10-30T20:47:10"
+  },
+  "a8dde683-146a-4e3d-bb13-693922d21281::puuttuu::his three daughters": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "His Three Daughters",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Netflixin elokuva kolmesta sisaruksesta, jotka kokoontuvat New Yorkin asuntoon kuolevan isänsä luo ja joutuvat selvittämään perhevälejään. Sohvin mukaan aliarvostettu ja hyvin newyorkilainen elokuva, jossa näyttelee hänen suosikkinsa Natasha Lyonne.",
+      "paakategoria": "elokuva",
+      "kategoriat": [
+        "draama",
+        "Netflix",
+        "perhe"
+      ],
+      "google_linkki": "https://www.google.com/search?q=His+Three+Daughters+Netflix",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=His+Three+Daughters"
+    },
+    "aika": "2026-10-31T09:19:14",
+    "viety": "2026-10-31T09:19:14"
+  },
+  "a8dde683-146a-4e3d-bb13-693922d21281::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Larry Bartelsin klassikkotutkimus siitä, miten raha tuottaa valtaa amerikkalaisessa demokratiassa. Sohvi nosti sen Markon suositteleman The Wolves of K Street -kirjan jatkoksi ja vinkkasi myös Daily Show'n jaksosta, jossa Bartelsia haastatellaan."
+    },
+    "aika": "2026-10-31T09:19:14",
+    "viety": "2026-10-31T09:19:14"
   }
 }

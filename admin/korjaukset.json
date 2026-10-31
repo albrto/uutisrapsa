@@ -6513,5 +6513,48 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "a8dde683-146a-4e3d-bb13-693922d21281",
+    "jakso_otsikko": "16.1.2025: Tulitauko Gazaan, Eagle S–Nat O–Stub B, poliittiset huumeet ml alkoholi",
+    "paivamaara": "16.1.2025",
+    "r_idx": 1,
+    "teos": "Unequal Democracy",
+    "uusi_data": {
+      "teos": "Unequal Democracy",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Unequal+Democracy+Larry+Bartels",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Unequal+Democracy+Larry+Bartels",
+      "kuvaus": "Larry Bartelsin klassikkotutkimus siitä, miten raha tuottaa valtaa amerikkalaisessa demokratiassa. Sohvi nosti sen Markon suositteleman The Wolves of K Street -kirjan jatkoksi ja vinkkasi myös Daily Show'n jaksosta, jossa Bartelsia haastatellaan.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "politiikka",
+        "tietokirja",
+        "demokratia"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "a8dde683-146a-4e3d-bb13-693922d21281",
+    "jakso_otsikko": "16.1.2025: Tulitauko Gazaan, Eagle S–Nat O–Stub B, poliittiset huumeet ml alkoholi",
+    "paivamaara": "16.1.2025",
+    "r_idx": 4,
+    "teos": "His Three Daughters",
+    "uusi_data": {
+      "teos": "His Three Daughters",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=His+Three+Daughters+Netflix",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=His+Three+Daughters",
+      "kuvaus": "Netflixin elokuva kolmesta sisaruksesta, jotka kokoontuvat New Yorkin asuntoon kuolevan isänsä luo ja joutuvat selvittämään perhevälejään. Sohvin mukaan aliarvostettu ja hyvin newyorkilainen elokuva, jossa näyttelee hänen suosikkinsa Natasha Lyonne.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "draama",
+        "Netflix",
+        "perhe"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
