@@ -4311,6 +4311,26 @@ window.VALIDATION_DATA = [
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Jennifer Mittelstadtin essee Trumpin uhkailun juurista (New York Times)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "Yhdysvallat",
+          "politiikka",
+          "historia"
+        ],
+        "kuvaus": "Historian professori Jennifer Mittelstadtin New York Timesin essee, jonka mukaan Trumpin Grönlanti- ja Panama-puheiden taustalla on republikaanien vanha 'suvereenistien' siipi. Markon mielestä pitkä ja kiehtova historiallinen katsaus siihen, miten moni Trumpin hallinnon tavoite on ollut esillä jo aiemmin.",
+        "google_linkki": "https://www.google.com/search?q=Jennifer+Mittelstadt+New+York+Times+Trump+allies+essay",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -14214,6 +14234,82 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 282,
+    "jakso_id": "tag:soundcloud,2010:tracks/1432917166",
+    "jakso_otsikko": "26.1.2023: Haavisto vs. Ruotsi, vaalirahoituskuviot 2023, pandat",
+    "paivamaara": "26.1.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/f5e966aa-c6f3-4e35-80b8-dd5cb6139303/1432917166-uutisraportti-2612023-haavisto-vs-ruotsi-vaalirahoit.mp3",
+    "kesto_sek": 4510,
+    "kesto_str": "01:15:10",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski keskustelevat ulkoministeri Haaviston aiheuttamasta paniikista pommien puhkomassa Ruotsissa, Markon jutusta vaalirahoituksesta ja Tuomas ja Marko pumppaavat Sallan ehtymättömän oloista pandatietoutta.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Elon Musk's Appetite for Destruction (The New York Times)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "teknologia",
+          "Elon Musk",
+          "journalismi"
+        ],
+        "kuvaus": "Christopher Coxin New York Times -juttu Teslan itseohjautuvien autojen onnettomuuksista ja Elon Muskin filosofiasta, jonka mukaan riskit ovat hyväksyttävä hinta turvallisemmasta tulevaisuudesta. Marko suosittelee juttua vahvasti.",
+        "google_linkki": "https://www.google.com/search?q=Elon+Musk%27s+Appetite+for+Destruction+New+York+Times",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Miley Cyrus: Flowers",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "Miley Cyrus"
+        ],
+        "kuvaus": "Miley Cyrusin hittikappale, jonka on tulkittu vastaavan Bruno Marsin kappaleeseen When I Was Your Man ja kommentoivan avioliittoa Liam Hemsworthin kanssa. Salla kävi läpi somekohun, mutta suosittelee ennen kaikkea itse kappaletta.",
+        "google_linkki": "https://www.google.com/search?q=Miley+Cyrus+Flowers",
+        "lisatieto_linkki": "https://open.spotify.com/search/Miley%20Cyrus%20Flowers",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Reddit-kommentti kolmansien paikkojen (third place) katoamisesta",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "yhteiskunta",
+          "kaupunki",
+          "some"
+        ],
+        "kuvaus": "Pitkä Reddit-kommentti siitä, miten kodin ja työn väliset kolmannet paikat, kuten kirjastot, nuorisotalot ja pubit, ovat hiljalleen kadonneet länsimaista. Tuomaksen oma lempipaikka on Oulun kaupunginkirjasto.",
+        "google_linkki": "https://www.google.com/search?q=reddit+third+places+disappearing+comment",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 431,
     "jakso_id": "6d1db8c7-4504-4efb-bbce-3b955a9fd79a",
     "jakso_otsikko": "Nuorisotyöttömyysvibes, Palestiina, 90-luku",
@@ -15664,6 +15760,44 @@ window.VALIDATION_DATA = [
         "kuvaus": "Etelä-Pohjanmaalla sijaitseva historiallinen kivi, jonka luona perimätiedon mukaan Ruotsin kuningas on virtsannut 18. heinäkuuta 1752. Kohteessa on museokyltti.",
         "google_linkki": "https://www.google.com/search?q=Kusikivi+Etel%C3%A4-Pohjanmaa",
         "lisatieto_linkki": "https://www.google.com/search?q=Kusikivi+Etel%C3%A4-Pohjanmaa+historiallinen+n%C3%A4ht%C3%A4vyys",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Hanna Havusto",
+        "teos": "Crocsit ja Crocs-korut",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "kengät",
+          "muoti"
+        ],
+        "kuvaus": "Hanna osti aidot Crocsin paksupohjaiset sandaalit ja koristi ne Crocs-koruilla, kuten helminauhalla ja kivillä. Hänen mukaansa varpaat saavat näkyä.",
+        "google_linkki": "https://www.google.com/search?q=Crocs+Jibbitz+korut",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "John Helin",
+        "teos": "Helteestä nauttiminen rannalla",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "kesä",
+          "elämäntapa"
+        ],
+        "kuvaus": "John makoili Hietaniemen rannalla ensimmäistä kertaa vuosiin ja kehottaa kaikkia nauttimaan helteestä. Hänen mukaansa olo oli kuin rantalomalla. Puolitosissaan hän toivoi myös, että joku tekisi jotain uutisarvoista.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -27840,16 +27974,16 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Anna-Sofia Berner",
-        "teos": "The Bear",
+        "teos": "The Pitt",
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "draama",
           "ravintola",
           "amerikkalainen"
         ],
-        "kuvaus": "Sairaalasarjamainen draamasarja, joka seuraa yhtä työvuoroa ravintolan keittiössä. Anna-Sofia Berner kertoo olleensa aluksi skeptinen mutta myöhemmin täysin koukussa sarjaan.",
-        "google_linkki": "https://www.google.com/search?q=The+Bear+tv-sarja",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Bear",
+        "kuvaus": "Pittsburghin päivystykseen sijoittuva sairaalasarja, jossa koko kausi seuraa yhtä työvuoroa ja pääosassa on Teho-osastosta tuttu Noah Wyle. Sohvi hylkäsi sarjan aluksi kahden jakson jälkeen, mutta toisella yrityksellä jäi täysin koukkuun.",
+        "google_linkki": "https://www.google.com/search?q=The+Pitt+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Pitt",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -31652,7 +31786,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Joona Aaltonen",
+        "suosittelija": "Heini Pitkänen",
         "teos": "Clickbait",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -31660,7 +31794,7 @@ window.VALIDATION_DATA = [
           "Netflix",
           "minisarja"
         ],
-        "kuvaus": "Netflixin minisarja, jossa perheenisä pitää kylttiä tekstillä '5 million views and I die'. Joka jakso seuraa eri henkilön näkökulmaa, täynnä yllättäviä juonenkäänteitä. Noin kahdeksan jaksoa.",
+        "kuvaus": "Netflixin minisarja, jossa perheenisä pitelee kylttiä tekstillä \"5 million views and I die\". Heinin mukaan sarja ei ole laatudraamaa, mutta juonenkäänteet vievät mukanaan ja ajatukset irti työasioista.",
         "google_linkki": "https://www.google.com/search?q=Clickbait+Netflix+minisarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Clickbait",
         "alkupera": "",
@@ -31672,7 +31806,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Joona Aaltonen",
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Wok Lab – syyrialainen ravintola",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -31680,7 +31814,7 @@ window.VALIDATION_DATA = [
           "syyrialainen ruoka",
           "lounas"
         ],
-        "kuvaus": "Helsingin city-käytävällä sijaitseva ravintola, joka tarjoaa erinomaista syyrialaista ruokaa. Erityisesti lounas sai kehuja.",
+        "kuvaus": "Helsingin Citykäytävällä sijaitseva ravintola, joka tarjoaa erinomaista syyrialaista ruokaa. Rasmus kehui erityisesti lounasta.",
         "google_linkki": "https://www.google.com/search?q=Wok+Lab+syyrialainen+ravintola+Helsinki",
         "lisatieto_linkki": "https://www.google.com/search?q=Wok+Lab+syyrialainen+ravintola+Helsinki",
         "alkupera": "",
