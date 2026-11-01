@@ -6790,5 +6790,89 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "ebe225f5-0ca4-4dfb-8be5-1ec6e2083374",
+    "jakso_otsikko": "28.11.2024: Poikien seksikirjasta konservatiivikuohu, Ottawan-sopimuksesta irtautuminen, rauha Libanoniin",
+    "paivamaara": "28.11.2024",
+    "r_idx": 1,
+    "teos": "Dyyni (tv-sarja)",
+    "uusi_data": {
+      "teos": "Dyyni (tv-sarja)",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Dune+Prophecy+tv-sarja+2024",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Dune+Prophecy",
+      "kuvaus": "Uusi Dyyni-maailmaan sijoittuva tv-sarja, jonka ensimmäinen jakso vakuutti Markon. Hänen suhteensa Dyyni-universumiin on kahtalainen, mutta sarja vaikuttaa lupaavalta.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "sci-fi",
+        "fantasia",
+        "kirjasovitus"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1780796121",
+    "jakso_otsikko": "Erittäin pitkä rajalakikeskustelu, vaihto-opiskelu",
+    "paivamaara": "21.3.2024",
+    "r_idx": 0,
+    "teos": "New York Times Games -sovellus",
+    "uusi_data": {
+      "teos": "New York Times Games -sovellus",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=New+York+Times+Games+sovellus",
+      "lisatieto_linkki": "https://www.nytimes.com/games",
+      "kuvaus": "New York Timesin pelisovellus, jossa on muun muassa Wordle ja Connections. Connectionsissa etsitään neljän sanan ryhmiä, jotka kuuluvat yhteen, ja Anni kehuu sitä hyväksi älypeliksi.",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kategoriat": [
+        "pelit",
+        "sanapeli",
+        "mobiilisovellus"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1780796121",
+    "jakso_otsikko": "Erittäin pitkä rajalakikeskustelu, vaihto-opiskelu",
+    "paivamaara": "21.3.2024",
+    "r_idx": 1,
+    "teos": "New York Times Cooking -sovellus",
+    "uusi_data": {
+      "teos": "New York Times Cooking -sovellus",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=New+York+Times+Cooking+sovellus",
+      "lisatieto_linkki": "https://cooking.nytimes.com",
+      "kuvaus": "New York Timesin ruokasovellus, jossa on laaja valikoima laadukkaita reseptejä. Paavo selaa sieltä reseptejä jatkuvasti.",
+      "suosittelija": "Paavo Teittinen",
+      "kategoriat": [
+        "ruokasovellus",
+        "reseptit",
+        "mobiilisovellus"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1780796121",
+    "jakso_otsikko": "Erittäin pitkä rajalakikeskustelu, vaihto-opiskelu",
+    "paivamaara": "21.3.2024",
+    "r_idx": 2,
+    "teos": "Havumetsän lapset",
+    "uusi_data": {
+      "teos": "Havumetsän lapset",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=Havumets%C3%A4n+lapset+Virpi+Suutari",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Havumets%C3%A4n+lapset",
+      "kuvaus": "Virpi Suutarin dokumenttielokuva nuoresta metsiä suojelevasta aktivistiporukasta. Paavon mielestä elokuva käsittelee monia tasoja moralisoimatta ja sopii kaikille, ei vain aktivisteille.",
+      "suosittelija": "Paavo Teittinen",
+      "kategoriat": [
+        "dokumentti",
+        "ympäristö",
+        "aktivismi"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

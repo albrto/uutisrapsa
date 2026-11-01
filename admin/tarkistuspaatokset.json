@@ -4105,5 +4105,45 @@
     },
     "aika": "2026-11-01T09:51:08",
     "viety": "2026-11-01T09:51:08"
+  },
+  "ebe225f5-0ca4-4dfb-8be5-1ec6e2083374::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Uusi Dyyni-maailmaan sijoittuva tv-sarja, jonka ensimmäinen jakso vakuutti Markon. Hänen suhteensa Dyyni-universumiin on kahtalainen, mutta sarja vaikuttaa lupaavalta."
+    },
+    "aika": "2026-11-01T09:56:23",
+    "viety": "2026-11-01T09:56:23"
+  },
+  "tag:soundcloud,2010:tracks/1780796121::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kuvaus": "New York Timesin pelisovellus, jossa on muun muassa Wordle ja Connections. Connectionsissa etsitään neljän sanan ryhmiä, jotka kuuluvat yhteen, ja Anni kehuu sitä hyväksi älypeliksi."
+    },
+    "aika": "2026-11-01T09:56:23",
+    "viety": "2026-11-01T09:56:23"
+  },
+  "tag:soundcloud,2010:tracks/1780796121::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Paavo Teittinen",
+      "kuvaus": "New York Timesin ruokasovellus, jossa on laaja valikoima laadukkaita reseptejä. Paavo selaa sieltä reseptejä jatkuvasti."
+    },
+    "aika": "2026-11-01T09:56:23",
+    "viety": "2026-11-01T09:56:23"
+  },
+  "tag:soundcloud,2010:tracks/1780796121::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Paavo Teittinen",
+      "kuvaus": "Virpi Suutarin dokumenttielokuva nuoresta metsiä suojelevasta aktivistiporukasta. Paavon mielestä elokuva käsittelee monia tasoja moralisoimatta ja sopii kaikille, ei vain aktivisteille."
+    },
+    "aika": "2026-11-01T09:56:23",
+    "viety": "2026-11-01T09:56:23"
   }
 }
