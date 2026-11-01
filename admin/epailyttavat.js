@@ -12243,7 +12243,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Marko Junkkari",
         "teos": "Dyyni (tv-sarja)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -12251,7 +12251,7 @@ window.VALIDATION_DATA = [
           "fantasia",
           "kirjasovitus"
         ],
-        "kuvaus": "Uusi Dyyni-maailmaan sijoittuva tv-sarja, jonka ensimmäinen jakso vakuutti katsojan. Suhde Dyyni-universumiin on kahtalainen, mutta sarja vaikuttaa lupaavalta.",
+        "kuvaus": "Uusi Dyyni-maailmaan sijoittuva tv-sarja, jonka ensimmäinen jakso vakuutti Markon. Hänen suhteensa Dyyni-universumiin on kahtalainen, mutta sarja vaikuttaa lupaavalta.",
         "google_linkki": "https://www.google.com/search?q=Dune+Prophecy+tv-sarja+2024",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Dune+Prophecy",
         "alkupera": "",
@@ -19524,7 +19524,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Anni Keski-Heikkilä",
         "teos": "New York Times Games -sovellus",
         "paakategoria": "muu",
         "kategoriat": [
@@ -19532,7 +19532,7 @@ window.VALIDATION_DATA = [
           "sanapeli",
           "mobiilisovellus"
         ],
-        "kuvaus": "New York Timesin pelisovellus, joka sisältää mm. Wordle- ja Connections-pelit. Connections-pelissä etsitään neljän sanan ryhmiä, jotka kuuluvat yhteen.",
+        "kuvaus": "New York Timesin pelisovellus, jossa on muun muassa Wordle ja Connections. Connectionsissa etsitään neljän sanan ryhmiä, jotka kuuluvat yhteen, ja Anni kehuu sitä hyväksi älypeliksi.",
         "google_linkki": "https://www.google.com/search?q=New+York+Times+Games+sovellus",
         "lisatieto_linkki": "https://www.nytimes.com/games",
         "alkupera": "",
@@ -19544,7 +19544,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Paavo Teittinen",
         "teos": "New York Times Cooking -sovellus",
         "paakategoria": "muu",
         "kategoriat": [
@@ -19552,7 +19552,7 @@ window.VALIDATION_DATA = [
           "reseptit",
           "mobiilisovellus"
         ],
-        "kuvaus": "New York Timesin ruokasovellus, jossa on laaja valikoima laadukkaita reseptejä. Loistava inspiraation lähde ruoanlaittoon.",
+        "kuvaus": "New York Timesin ruokasovellus, jossa on laaja valikoima laadukkaita reseptejä. Paavo selaa sieltä reseptejä jatkuvasti.",
         "google_linkki": "https://www.google.com/search?q=New+York+Times+Cooking+sovellus",
         "lisatieto_linkki": "https://cooking.nytimes.com",
         "alkupera": "",
@@ -19564,7 +19564,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Paavo Teittinen",
         "teos": "Havumetsän lapset",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -19572,7 +19572,7 @@ window.VALIDATION_DATA = [
           "ympäristö",
           "aktivismi"
         ],
-        "kuvaus": "Virpi Suutarin dokumenttielokuva nuoresta metsiä suojelevasta aktivistiporukasta. Käsittelee monia tasoja moralisoimatta – sopii kaikille, ei vain aktivisteille.",
+        "kuvaus": "Virpi Suutarin dokumenttielokuva nuoresta metsiä suojelevasta aktivistiporukasta. Paavon mielestä elokuva käsittelee monia tasoja moralisoimatta ja sopii kaikille, ei vain aktivisteille.",
         "google_linkki": "https://www.google.com/search?q=Havumets%C3%A4n+lapset+Virpi+Suutari",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Havumets%C3%A4n+lapset",
         "alkupera": "",
