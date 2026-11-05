@@ -5447,6 +5447,83 @@
     ]
   },
   {
+    "j_idx": 492,
+    "jakso_id": "9ab07f77-5fa7-41ac-8315-aa0296b515f0",
+    "jakso_otsikko": "Kouluromahduskeskustelu, pakastimet ja Finnair operaatioiden kohteena, lätkä + Putin",
+    "paivamaara": "5.11.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/9ab07f77-5fa7-41ac-8315-aa0296b515f0.mp3",
+    "kesto_sek": 5179,
+    "kesto_str": "01:26:19",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Suvi Turtiainen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Suvi Turtiainen, Tuomas Peltomäki ja Marko Junkkari keskustelevat koulujen valtakunnallisista tasokokeista ja taloustieteilijöistä jotka alkoivat niitä vaatia; ja pakastimista lentokoneisiin ulottuvasta minikatastrofien sarjasta, joka saattaa olla Venäjän puuhailemaa tai sitten ei; ja jääkiekkoliiton kaoottisesta viikosta, jossa aluksi annetaan Putinille periksi ja sitt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sointula – näyttely, Työväenmuseo Werstas",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "näyttely",
+          "historia",
+          "utopiasosialismi"
+        ],
+        "kuvaus": "Marko suosittelee Tampereen Työväenmuseo Werstaassa avattua näyttelyä Sointulasta, suomalaisten 1800-luvun lopulla Kanadan Vancouversaarelle perustamasta utopiayhteisöstä.",
+        "google_linkki": "https://www.google.com/search?q=Sointula+näyttely+Työväenmuseo+Werstas",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Suvi Turtiainen",
+        "teos": "Kymmenen päivää Kabulin kentällä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "ulkopolitiikka",
+          "Afganistan"
+        ],
+        "kuvaus": "Suvi suosittelee suurlähettiläs Jussi Tannerin kirjaa, joka kertoo kronologisesti Suomen operaatiosta Kabulin lentokentällä elokuussa 2021 ja siitä, miten Suomi evakuoi kansalaisiaan ja heitä auttaneita afgaaneja.",
+        "google_linkki": "https://www.google.com/search?q=Kymmenen+päivää+Kabulin+kentällä+Jussi+Tanner",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kymmenen+päivää+Kabulin+kentällä",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Forgotten Formula for Lovable Cities",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "kaupunkisuunnittelu",
+          "arkkitehtuuri",
+          "historia"
+        ],
+        "kuvaus": "Tuomas suosittelee Works in Progress -verkkolehden artikkelia itävaltalaisesta arkkitehdista Camillo Sittesta, joka vaikutti muun muassa Helsingin Töölön kaupunkisuunnitteluun 1800-luvun lopulla.",
+        "google_linkki": "https://www.google.com/search?q=Works+in+Progress+The+Forgotten+Formula+for+Lovable+Cities",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 279,
     "jakso_id": "tag:soundcloud,2010:tracks/1417180747",
     "jakso_otsikko": "5.1.2023: Inkoon kultaa, Hurja Agentti Tarina, republican't",

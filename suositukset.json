@@ -1,5 +1,57 @@
 [
   {
+    "id": "9ab07f77-5fa7-41ac-8315-aa0296b515f0",
+    "jakso_otsikko": "Kouluromahduskeskustelu, pakastimet ja Finnair operaatioiden kohteena, lätkä + Putin",
+    "paivamaara": "5.11.2026",
+    "suositukset": [
+      {
+        "teos": "Sointula – näyttely, Työväenmuseo Werstas",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Sointula+näyttely+Työväenmuseo+Werstas",
+        "lisatieto_linkki": "",
+        "kuvaus": "Marko suosittelee Tampereen Työväenmuseo Werstaassa avattua näyttelyä Sointulasta, suomalaisten 1800-luvun lopulla Kanadan Vancouversaarelle perustamasta utopiayhteisöstä.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "näyttely",
+          "historia",
+          "utopiasosialismi"
+        ]
+      },
+      {
+        "teos": "Kymmenen päivää Kabulin kentällä",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Kymmenen+päivää+Kabulin+kentällä+Jussi+Tanner",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kymmenen+päivää+Kabulin+kentällä",
+        "kuvaus": "Suvi suosittelee suurlähettiläs Jussi Tannerin kirjaa, joka kertoo kronologisesti Suomen operaatiosta Kabulin lentokentällä elokuussa 2021 ja siitä, miten Suomi evakuoi kansalaisiaan ja heitä auttaneita afgaaneja.",
+        "suosittelija": "Suvi Turtiainen",
+        "kategoriat": [
+          "tietokirja",
+          "ulkopolitiikka",
+          "Afganistan"
+        ]
+      },
+      {
+        "teos": "The Forgotten Formula for Lovable Cities",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Works+in+Progress+The+Forgotten+Formula+for+Lovable+Cities",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas suosittelee Works in Progress -verkkolehden artikkelia itävaltalaisesta arkkitehdista Camillo Sittesta, joka vaikutti muun muassa Helsingin Töölön kaupunkisuunnitteluun 1800-luvun lopulla.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "kaupunkisuunnittelu",
+          "arkkitehtuuri",
+          "historia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d27e34c9-e651-411f-a09d-f6aa17395122",
+    "jakso_otsikko": "Demokraattien sininen aalto pyyhkäisi Trumpin ulapalle",
+    "paivamaara": "4.11.2026",
+    "suositukset": []
+  },
+  {
     "id": "2fe36076-81f0-40bd-8870-bdf351e23d85",
     "jakso_otsikko": "Luoti v. Amirkhani, Stubb v. Putin, VM v. suomalaiset",
     "paivamaara": "29.10.2026",
