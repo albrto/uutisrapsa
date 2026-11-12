@@ -17,6 +17,12 @@ on:
     # (ei meiliä, ei committia). Minuutti :23, koska tasatunnit ovat
     # GitHubin ruuhkaisimpia ja siksi viiveisimpiä.
     - cron: '23 13,15,17 * * 4'
+    # Varayritykset torstai-iltana 20:23 UTC ja perjantaiaamuna 05:23 UTC
+    # (lisätty 12.11.2026: GitHub jätti silloin KAIKKI kolme torstain ajoa
+    # käynnistämättä, ja 5.11. vain yksi lähti). Perjantaiaamun ajo ehtii
+    # ennen tuoreusvahtia (pe 16:00 UTC).
+    - cron: '23 20 * * 4'
+    - cron: '23 5 * * 5'
   workflow_dispatch:
     # Mahdollistaa käsin ajamisen GitHubin web-käyttöliittymästä
 
