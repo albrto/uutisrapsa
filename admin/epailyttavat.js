@@ -31249,6 +31249,81 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 493,
+    "jakso_id": "42f6c7d3-7bd3-4229-8fac-895bc5617e0d",
+    "jakso_otsikko": "Vero- ja kommunismipäivä 2026, Tavio vs. Somalia, Kiina…rakastettuni",
+    "paivamaara": "12.11.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/42f6c7d3-7bd3-4229-8fac-895bc5617e0d.mp3",
+    "kesto_sek": 4886,
+    "kesto_str": "01:21:26",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski keskustelevat veropäivästä ja rinnastavat sitä nuorten kommunistien pohdintoihin Kallion lukiossa, ulkomaankauppa- ja kehitysministeri Ville Tavion somalia-päätöksestä sekä Nvidia-hefe Jensen Huangin moninaisista syrjähypyistä ja vaikutuksesta koko teknokuplan puhkeamiseen.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Going Infinite",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "talous",
+          "rikos",
+          "elämäkerta"
+        ],
+        "kuvaus": "Marko suosittelee Michael Lewisin kirjaa, joka kertoo kryptopörssi FTX:n perustajasta Sam Bankman-Friedistä – nuoresta nerosta, joka tuomittiin 25 vuodeksi vankilaan vaikka asiakkaiden rahat lopulta löytyivät.",
+        "google_linkki": "https://www.google.com/search?q=Going+Infinite+Michael+Lewis",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Going+Infinite+Michael+Lewis",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Heikki Laise: Stories Before the Silence -näyttely (Fotografiska Tallinn)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "valokuvataide",
+          "näyttely"
+        ],
+        "kuvaus": "Salla suosittelee vierailua Tallinnan Fotografiskassa, jossa on esillä valokuvaaja Heikki Laisen kokoelma, jossa ihmiset on kuvattu erilaisissa maisemissa seisovien vesikuutioiden sisällä.",
+        "google_linkki": "https://www.google.com/search?q=Heikki+Laise+Fotografiska+Tallinn",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Chris Spargo (YouTube-tubettaja)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "youtube",
+          "populaaritiede"
+        ],
+        "kuvaus": "Tuomas suosittelee brittiläistä YouTube-tubettajaa, joka tutkii arkipäiväisiä kummallisuuksia – kuten sitä, miksi pullonkorkit eivät enää irtoa – perinpohjaisesti ja miellyttävällä tavalla.",
+        "google_linkki": "https://www.google.com/search?q=Chris+Spargo+YouTube",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 163,
     "jakso_id": "tag:soundcloud,2010:tracks/927955750",
     "jakso_otsikko": "12.11.2020: Ryöstelevät nuorisojengit, Jan Vapaavuori, koronarokote",
