@@ -19,6 +19,9 @@ KUUNTELU_TIEDOSTO = os.path.join(JUURI, "kuuntelu.json")
 # ennen loppuleikkeen ensimmäistä "suosit…"-sanaa (25 jäi joskus liian lyhyeksi: ensimmäinen
 # suosittelija ei aina sano "suosit…", 18.10.2026)
 VARALLA = 60
+# Jos suosituksen nimi osuu enintään näin monta riviä ennen ikkunaa, ikkuna alkaa
+# VARALLA riviä ennen sitä (kauempana olevat saavat vain lyhyen otteen, ks. jakson_teksti)
+LAAJENNUS_MAX = 150
 ETUAIKA = 1.0  # aloitetaan hetki ennen rivin alkua, ettei ensimmäinen tavu leikkaudu
 TAYTESANAT = {"podcast", "kirja", "sarja", "elokuva", "the", "and", "kausi", "osa", "dokumentti",
               "yle", "areena", "netflix", "hbo", "kirjoittanut", "suomeksi"}
@@ -56,6 +59,11 @@ def ikkunan_alku(rivit, ajat, varalla=VARALLA):
 def vihje(teos, rivit, alku, loppu):
     """Rivi, jolla teoksen nimen sanoista osuu eniten (sanan 5 ensimmäistä kirjainta riittävät,
     koska taivutus ja Deepgramin kirjoitusasu vaihtelevat)."""
+    return vihje_ja_osumat(teos, rivit, alku, loppu)[1]
+
+
+def vihje_ja_osumat(teos, rivit, alku, loppu):
+    """(osumien määrä, rivi) – ks. vihje."""
     sanat = [s for s in normalisoi(re.sub(r"\(.*?\)", " ", teos)).split()
              if len(s) >= 4 and s not in TAYTESANAT]
     paras, paras_i = 0, None
@@ -64,7 +72,7 @@ def vihje(teos, rivit, alku, loppu):
         osumat = sum(1 for s in sanat if " " + s[:5] in teksti)
         if osumat > paras:
             paras, paras_i = osumat, i
-    return paras_i
+    return paras, paras_i
 
 
 def jakson_teksti(jakso, rivit, ajat, varalla=VARALLA):
@@ -72,6 +80,17 @@ def jakson_teksti(jakso, rivit, ajat, varalla=VARALLA):
     Palauttaa (teksti, ikkunan_alku)."""
     alku = ikkunan_alku(rivit, ajat, varalla)
     recs = [(i, r) for i, r in enumerate(jakso["suositukset"]) if not r.get("piilotettu")]
+    # Ensimmäinen "suosit…" voi tulla vasta myöhemmän suosittelijan vuorolla, jolloin
+    # ikkuna alkaa kesken aiemman suosituksen (12.11.2026: Sallan näyttely jäi ilman
+    # kohtaa). Jos teoksen nimi osuu vähän ennen ikkunaa, ikkunaa laajennetaan taaksepäin.
+    # Vertailu osumien määrällä: yksittäinen sana ikkunassa voi olla sattumaa ("näyttää" ~
+    # "näyttely"), kun nimi itse ("Heikki Laise") on vähän ennen ikkunaa.
+    alku0 = alku
+    for _, r in recs:
+        sisalla = vihje_ja_osumat(r["teos"], rivit, alku0, len(rivit))[0]
+        ennen, v = vihje_ja_osumat(r["teos"], rivit, max(0, alku0 - LAAJENNUS_MAX), alku0)
+        if v is not None and ennen > sisalla:
+            alku = max(0, min(alku, v - varalla))
     osa = [f"=== JAKSO {jakso['id']}", f"{jakso['paivamaara']} – {jakso['jakso_otsikko']}", "SUOSITUKSET:"]
     lisat = []
     for i, r in recs:
