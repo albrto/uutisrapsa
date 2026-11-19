@@ -1,5 +1,63 @@
 [
   {
+    "id": "3c3860f1-92e5-4d05-9226-28fb727c5166",
+    "jakso_otsikko": "Sdp:n kipuilu, kolmen kopla kiinassa, FI-Ahöps",
+    "paivamaara": "19.11.2026",
+    "suositukset": [
+      {
+        "teos": "Michael Lewisin uusin kirja Trumpin ja Elon Muskin DOGE-hankkeesta",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Michael+Lewis+DOGE+kirja+2025",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Michael+Lewis",
+        "kuvaus": "Marko korjaa aiempaa suositustaan ja kertoo aloittaneensa Michael Lewisin uusimman kirjan, joka kuvaa värikkäästi Trumpin ja Elon Muskin DOGE-hanketta ja nuorten virkamiesten yllättävää sitoutumista työhönsä.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "politiikka",
+          "Yhdysvallat",
+          "talous"
+        ]
+      },
+      {
+        "teos": "Miksei kukaan tee mitään",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Timo+%C3%96stern+Stywart+Miksei+kukaan+tee+mit%C3%A4%C3%A4n",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Miksei+kukaan+tee+mit%C3%A4%C3%A4n",
+        "kuvaus": "Tuija suosittelee lämpimästi Tieto-Finlandia-ehdokkaana olevaa kirjaa, joka avaa monimutkaisen kansainvälisen tilanteen taustoja ja kumoaa yleisiä hokemia; hän kiittää myös Tuija Tarkiaisen tekemää tyylikästä, mustaa ja punaista kansigraafikkoa.",
+        "suosittelija": "Tuija Siltamäki",
+        "kategoriat": [
+          "tietokirjallisuus",
+          "yhteiskunta",
+          "Tieto-Finlandia"
+        ]
+      },
+      {
+        "teos": "Young Cheesy (TikTok-tili)",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Young+Cheesy+TikTok+pyör%C3%A4ily",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas suosittelee TikTok-tiliä, jota pitää pyörällä maailmaa kiertävä henkilö – tällä hetkellä Kirgisiassa – ja jonka lämminhenkiset videot ihmisistä ja kulkukoirista ('koiraa päivän kunniaksi') nostavat välittömästi mielialaa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tiktok",
+          "matkailu",
+          "sosiaalinen media"
+        ]
+      },
+      {
+        "teos": "Miksei kukaan tee mitään -kirjan graafinen ulkoasu",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Tuija+Tarkiainen+graafinen+suunnittelu",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuija nostaa esiin myös kirjan upean graafisen suunnittelun – mustassa kannessa on punainen piste ja hienot fontit – ja kehottaa kuulijoita käymään ihailemassa sitä kirjakaupassa.",
+        "suosittelija": "Tuija Siltamäki",
+        "kategoriat": [
+          "graafinen suunnittelu",
+          "kirjansuunnittelu"
+        ]
+      }
+    ]
+  },
+  {
     "id": "42f6c7d3-7bd3-4229-8fac-895bc5617e0d",
     "jakso_otsikko": "Vero- ja kommunismipäivä 2026, Tavio vs. Somalia, Kiina…rakastettuni",
     "paivamaara": "12.11.2026",

@@ -23350,6 +23350,102 @@
     ]
   },
   {
+    "j_idx": 494,
+    "jakso_id": "3c3860f1-92e5-4d05-9226-28fb727c5166",
+    "jakso_otsikko": "Sdp:n kipuilu, kolmen kopla kiinassa, FI-Ahöps",
+    "paivamaara": "19.11.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/3c3860f1-92e5-4d05-9226-28fb727c5166.mp3",
+    "kesto_sek": 5002,
+    "kesto_str": "01:23:22",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuija Siltamäki",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Tuija Siltamäki keskustelevat diplomatian superviikosta, joka tapahtuu yhtäaikaa Kiinassa ja Berliinissä, ja Sdp:n jakautumisesta ja Antti Lindtmanin tiukasta kurinpidosta käännytyslakiasiassa, sekä pielen menneestä FI-Alert -kokeilusta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Michael Lewisin uusin kirja Trumpin ja Elon Muskin DOGE-hankkeesta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "Yhdysvallat",
+          "talous"
+        ],
+        "kuvaus": "Marko korjaa aiempaa suositustaan ja kertoo aloittaneensa Michael Lewisin uusimman kirjan, joka kuvaa värikkäästi Trumpin ja Elon Muskin DOGE-hanketta ja nuorten virkamiesten yllättävää sitoutumista työhönsä.",
+        "google_linkki": "https://www.google.com/search?q=Michael+Lewis+DOGE+kirja+2025",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Michael+Lewis",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Miksei kukaan tee mitään",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirjallisuus",
+          "yhteiskunta",
+          "Tieto-Finlandia"
+        ],
+        "kuvaus": "Tuija suosittelee lämpimästi Tieto-Finlandia-ehdokkaana olevaa kirjaa, joka avaa monimutkaisen kansainvälisen tilanteen taustoja ja kumoaa yleisiä hokemia; hän kiittää myös Tuija Tarkiaisen tekemää tyylikästä, mustaa ja punaista kansigraafikkoa.",
+        "google_linkki": "https://www.google.com/search?q=Timo+%C3%96stern+Stywart+Miksei+kukaan+tee+mit%C3%A4%C3%A4n",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Miksei+kukaan+tee+mit%C3%A4%C3%A4n",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Young Cheesy (TikTok-tili)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tiktok",
+          "matkailu",
+          "sosiaalinen media"
+        ],
+        "kuvaus": "Tuomas suosittelee TikTok-tiliä, jota pitää pyörällä maailmaa kiertävä henkilö – tällä hetkellä Kirgisiassa – ja jonka lämminhenkiset videot ihmisistä ja kulkukoirista ('koiraa päivän kunniaksi') nostavat välittömästi mielialaa.",
+        "google_linkki": "https://www.google.com/search?q=Young+Cheesy+TikTok+pyör%C3%A4ily",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Miksei kukaan tee mitään -kirjan graafinen ulkoasu",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "graafinen suunnittelu",
+          "kirjansuunnittelu"
+        ],
+        "kuvaus": "Tuija nostaa esiin myös kirjan upean graafisen suunnittelun – mustassa kannessa on punainen piste ja hienot fontit – ja kehottaa kuulijoita käymään ihailemassa sitä kirjakaupassa.",
+        "google_linkki": "https://www.google.com/search?q=Tuija+Tarkiainen+graafinen+suunnittelu",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
     "j_idx": 164,
     "jakso_id": "tag:soundcloud,2010:tracks/932206942",
     "jakso_otsikko": "19.11.2020: Ranska vs. muslimit vs. media, koronatilanne pahenee, kuntavaalien asetelmat",
