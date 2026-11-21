@@ -9573,7 +9573,7 @@
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Munkkivuori",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -9581,7 +9581,7 @@
           "nostalgia",
           "murhamysteeri"
         ],
-        "kuvaus": "Jani Volan käsikirjoittama suomalainen tv-sarja, joka sijoittuu 1980-luvulle ja tarjoaa nostalgiaa irtokarkkeineen ja lapsuuden maailmoineen. Sarjassa on ahdistava pohjavire ja murhamysteerin aineksia, ja se sisältää mahtavia lapsinäyttelijöitä.",
+        "kuvaus": "Jani Volasen käsikirjoittama suomalainen tv-sarja, joka sijoittuu 1980-luvulle ja tarjoaa nostalgiaa irtokarkkeineen ja lapsuuden maailmoineen. Sallan mukaan sarjassa on ahdistava pohjavire, murhamysteerin aineksia ja mahtavia lapsinäyttelijöitä.",
         "google_linkki": "https://www.google.com/search?q=Munkkivuori+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Munkkivuori",
         "alkupera": "",
@@ -23616,6 +23616,25 @@
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Digitaalinen yhteiskalenteri",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "arki",
+          "ajanhallinta"
+        ],
+        "kuvaus": "Vannoutunut pitkäaikainen paperikalenterin käyttäjä Anni siirtyi digikalenteriin ja synkkasi sen puolisonsa kanssa. Yhteinen kalenteri helpottaa arkea ja pitää kartalla, vaikka tarrat jäävät paperikalenteriin.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -26734,9 +26753,12 @@
         ],
         "kuvaus": "Matti Apusen ja Mika Malirannan podcast talouspolitiikasta ja pohjoismaisen hyvinvointivaltion puolustamisesta. Marko esitteli studiossa podcastin Kalmarin unioni -paitaa ja kehotti kuuntelemaan podcastia.",
         "google_linkki": "https://www.google.com/search?q=Matti+Apunen+Mika+Maliranta+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Apunen%20Maliranta",
-        "alkupera": "kotimainen",
-        "lisalinkit": [],
+        "lisatieto_linkki": "https://open.spotify.com/show/38gkbPML29F2uJ5OIL8MoV",
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/m-a/id1596077418",
+          "https://labore.fi/podcast/"
+        ],
         "antisuositus": false,
         "piilotettu": false
       }
