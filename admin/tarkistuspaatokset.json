@@ -4309,5 +4309,31 @@
     },
     "aika": "2026-11-21T08:07:43",
     "viety": "2026-11-21T08:07:43"
+  },
+  "tag:soundcloud,2010:tracks/815560156::ylimaarainen::2": {
+    "paatos": "hylatty",
+    "r_idx": 2,
+    "data": null,
+    "aika": "2026-11-21T08:09:51"
+  },
+  "tag:soundcloud,2010:tracks/1039086244::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Netflixin supersankarisarja, jota Tuomas vertaa Game of Thronesiin intensiivisyytensä ja mielettömien cliffhangeriensa vuoksi. Kaksi kautta saatavilla."
+    },
+    "aika": "2026-11-21T08:09:51",
+    "viety": "2026-11-21T08:09:51"
+  },
+  "tag:soundcloud,2010:tracks/1039086244::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Lopetettu podcast, jossa graafikko ja kirjastonhoitaja pureutuvat merkittävien kulttuuriteosten – kirjojen, elokuvien ja sarjakuvien – syntyhistoriaan ja taustoihin. Tuomaksen mukaan jo kahdensadan jakson aiheet toimivat itsessään suosituslistana."
+    },
+    "aika": "2026-11-21T08:09:51",
+    "viety": "2026-11-21T08:09:51"
   }
 }

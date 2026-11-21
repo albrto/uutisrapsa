@@ -7138,5 +7138,47 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1039086244",
+    "jakso_otsikko": "29.4.2021: Keskustan arvoton sirkus, EU:n elvytyspaketin kohtalo, jea",
+    "paivamaara": "29.4.2021",
+    "r_idx": 2,
+    "teos": "Umbrella Academy",
+    "uusi_data": {
+      "teos": "Umbrella Academy",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Umbrella+Academy+Netflix",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Umbrella+Academy",
+      "kuvaus": "Netflixin supersankarisarja, jota Tuomas vertaa Game of Thronesiin intensiivisyytensä ja mielettömien cliffhangeriensa vuoksi. Kaksi kautta saatavilla.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "supersankari",
+        "netflix",
+        "fantasia"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1039086244",
+    "jakso_otsikko": "29.4.2021: Keskustan arvoton sirkus, EU:n elvytyspaketin kohtalo, jea",
+    "paivamaara": "29.4.2021",
+    "r_idx": 3,
+    "teos": "Super Context podcast",
+    "uusi_data": {
+      "teos": "Super Context podcast",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Super+Context+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Super%20Context%20podcast",
+      "kuvaus": "Lopetettu podcast, jossa graafikko ja kirjastonhoitaja pureutuvat merkittävien kulttuuriteosten – kirjojen, elokuvien ja sarjakuvien – syntyhistoriaan ja taustoihin. Tuomaksen mukaan jo kahdensadan jakson aiheet toimivat itsessään suosituslistana.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "kulttuuri",
+        "media",
+        "sarjakuva"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
