@@ -20475,7 +20475,7 @@ window.VALIDATION_DATA = [
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
-        "piilotettu": false
+        "piilotettu": true
       },
       {
         "r_idx": 2,
@@ -20532,6 +20532,25 @@ window.VALIDATION_DATA = [
         "kuvaus": "Helsingin yliopiston professori Päivi Leino-Sandbergin englanninkielinen analyysi saksalaisessa perustuslakiblogissa siitä, miten Suomen suuri valiokunta on ohittanut perustuslakivaliokunnan EU:n talousvakausmekanismeja koskevissa päätöksissä.",
         "google_linkki": "https://www.google.com/search?q=Paivi+Leino-Sandberg+Constitutional+Constraints+Political+Pressure+Finland+COVID+Verfassungsblog",
         "lisatieto_linkki": "https://verfassungsblog.de/?s=Leino-Sandberg",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Ex-onnelliset",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draamakomedia",
+          "kotimainen"
+        ],
+        "kuvaus": "Johanna Vuoksenmaan vuonna 2016 alkanut kotimainen ihmissuhdesarja, jossa eronneet vanhemmat asuvat talossa, jonka seinät siirtyvät lasten pysyessä paikallaan. Sohvi ahmi kaksi kautta viikossa ja kehuu sarjaa komediallisen mutta vakavan otteen vuoksi.",
+        "google_linkki": "https://www.google.com/search?q=Ex-onnelliset+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ex-onnelliset",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -21212,6 +21231,25 @@ window.VALIDATION_DATA = [
         "lisalinkit": [
           "https://podcasts.apple.com/fi/podcast/zeitgeist-tieto-valta-ja-ajan-henki-tuomas-peltom%C3%A4ki/id1452356442?i=1000548418116"
         ],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Alma Onali",
+        "teos": "Aluevaaleissa äänestäminen",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "vaalit",
+          "kansalaisuus"
+        ],
+        "kuvaus": "Alma kehottaa äänestämään sunnuntain aluevaaleissa ja seuraamaan vähän aluevaaliuutisointia, jotta olisi informoitu kansalainen.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
       }
@@ -25719,17 +25757,17 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
-        "teos": "Anand Gobinin juttu afganistanilaisista naisista (New Yorker)",
+        "suosittelija": "Maria Manner",
+        "teos": "Anand Gopalin juttu afganistanilaisista naisista (New Yorker)",
         "paakategoria": "artikkeli",
         "kategoriat": [
           "ulkopolitiikka",
           "Afganistan",
           "reportaasi"
         ],
-        "kuvaus": "New Yorkerissa julkaistu pitkä reportaasi afganistanilaisista naisista erityisesti Kabulin ulkopuolella. Juttu käsittelee elämän muutosta Talebanin vallan aikana sekä amerikkalaisen sodan siviiliuhreja.",
-        "google_linkki": "https://www.google.com/search?q=Anand+Gopal+New+Yorker+Afghanistan+women",
-        "lisatieto_linkki": "https://www.newyorker.com/search?q=Anand+Gopal+Afghanistan",
+        "kuvaus": "New Yorkerin pitkä reportaasi afganistanilaisista naisista etenkin Kabulin ulkopuolella. Maria kehuu juttua ihmiskohtaloiden kuvauksesta: se kertoo elämästä Talebanin vallan alla ja Yhdysvaltain sodan siviiliuhreista.",
+        "google_linkki": "https://www.google.com/search?q=Anand+Gopal+The+Other+Afghan+Women+New+Yorker",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -34075,7 +34113,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Menneisyyden jäljillä",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -34083,7 +34121,7 @@ window.VALIDATION_DATA = [
           "Suomi",
           "haastattelu"
         ],
-        "kuvaus": "Lotta Vuorion isännöimä suomalainen historia-podcast, jossa haastatellaan historiantutkijoita kiinnostavista aiheista kuten prostituutio 1800-luvun Turussa. Lempeä ja viehättävä tyyli.",
+        "kuvaus": "Lotta Vuorion juontama suomalainen historiapodcast, jossa haastatellaan historiantutkijoita kiinnostavista aiheista, kuten prostituutiosta 1800-luvun Turussa. Tuomas kehuu lempeää ja vieraita kunnioittavaa otetta.",
         "google_linkki": "https://www.google.com/search?q=Menneisyyden+j%C3%A4ljill%C3%A4+podcast+Lotta+Vuorio",
         "lisatieto_linkki": "https://open.spotify.com/search/Menneisyyden%20j%C3%A4ljill%C3%A4",
         "alkupera": "kotimainen",

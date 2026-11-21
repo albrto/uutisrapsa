@@ -13878,6 +13878,18 @@
         "lisalinkit": [
           "https://podcasts.apple.com/fi/podcast/zeitgeist-tieto-valta-ja-ajan-henki-tuomas-peltom%C3%A4ki/id1452356442?i=1000548418116"
         ]
+      },
+      {
+        "teos": "Aluevaaleissa äänestäminen",
+        "paakategoria": "muu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Alma kehottaa äänestämään sunnuntain aluevaaleissa ja seuraamaan vähän aluevaaliuutisointia, jotta olisi informoitu kansalainen.",
+        "suosittelija": "Alma Onali",
+        "kategoriat": [
+          "vaalit",
+          "kansalaisuus"
+        ]
       }
     ]
   },
@@ -14316,8 +14328,8 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Menneisyyden+j%C3%A4ljill%C3%A4+podcast+Lotta+Vuorio",
         "lisatieto_linkki": "https://open.spotify.com/search/Menneisyyden%20j%C3%A4ljill%C3%A4",
-        "kuvaus": "Lotta Vuorion isännöimä suomalainen historia-podcast, jossa haastatellaan historiantutkijoita kiinnostavista aiheista kuten prostituutio 1800-luvun Turussa. Lempeä ja viehättävä tyyli.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Lotta Vuorion juontama suomalainen historiapodcast, jossa haastatellaan historiantutkijoita kiinnostavista aiheista, kuten prostituutiosta 1800-luvun Turussa. Tuomas kehuu lempeää ja vieraita kunnioittavaa otetta.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "historia",
           "Suomi",
@@ -14631,12 +14643,12 @@
     "paivamaara": "16.9.2021",
     "suositukset": [
       {
-        "teos": "Anand Gobinin juttu afganistanilaisista naisista (New Yorker)",
+        "teos": "Anand Gopalin juttu afganistanilaisista naisista (New Yorker)",
         "paakategoria": "artikkeli",
-        "google_linkki": "https://www.google.com/search?q=Anand+Gopal+New+Yorker+Afghanistan+women",
-        "lisatieto_linkki": "https://www.newyorker.com/search?q=Anand+Gopal+Afghanistan",
-        "kuvaus": "New Yorkerissa julkaistu pitkä reportaasi afganistanilaisista naisista erityisesti Kabulin ulkopuolella. Juttu käsittelee elämän muutosta Talebanin vallan aikana sekä amerikkalaisen sodan siviiliuhreja.",
-        "suosittelija": "Marko Junkkari",
+        "google_linkki": "https://www.google.com/search?q=Anand+Gopal+The+Other+Afghan+Women+New+Yorker",
+        "lisatieto_linkki": "",
+        "kuvaus": "New Yorkerin pitkä reportaasi afganistanilaisista naisista etenkin Kabulin ulkopuolella. Maria kehuu juttua ihmiskohtaloiden kuvauksesta: se kertoo elämästä Talebanin vallan alla ja Yhdysvaltain sodan siviiliuhreista.",
+        "suosittelija": "Maria Manner",
         "kategoriat": [
           "ulkopolitiikka",
           "Afganistan",
@@ -17752,7 +17764,8 @@
           "historiallinen romaani",
           "klassikko",
           "Waltari"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Kuilun partaalla – Suomen pankkikriisi",
@@ -17791,6 +17804,18 @@
           "EU-oikeus",
           "perustuslaki",
           "talouspolitiikka"
+        ]
+      },
+      {
+        "teos": "Ex-onnelliset",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Ex-onnelliset+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ex-onnelliset",
+        "kuvaus": "Johanna Vuoksenmaan vuonna 2016 alkanut kotimainen ihmissuhdesarja, jossa eronneet vanhemmat asuvat talossa, jonka seinät siirtyvät lasten pysyessä paikallaan. Sohvi ahmi kaksi kautta viikossa ja kehuu sarjaa komediallisen mutta vakavan otteen vuoksi.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "draamakomedia",
+          "kotimainen"
         ]
       }
     ]
