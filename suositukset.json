@@ -10728,6 +10728,19 @@
           "yleissivistys"
         ],
         "alkupera": "yle"
+      },
+      {
+        "teos": "M&A-podcast",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Matti+Apunen+Mika+Maliranta+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Apunen%20Maliranta",
+        "kuvaus": "Matti Apusen ja Mika Malirannan podcast talouspolitiikasta ja pohjoismaisen hyvinvointivaltion puolustamisesta. Marko esitteli studiossa podcastin Kalmarin unioni -paitaa ja kehotti kuuntelemaan podcastia.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "talous",
+          "politiikka"
+        ],
+        "alkupera": "kotimainen"
       }
     ]
   },
@@ -11056,6 +11069,19 @@
           "lääketiede",
           "evoluutiobiologia",
           "tietokirja"
+        ]
+      },
+      {
+        "teos": "This Naked Mind",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=This+Naked+Mind+Annie+Grace",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=This+Naked+Mind",
+        "kuvaus": "Annie Gracen kirja alkoholin käytöstä ja siitä, miten huomaamatta juominen voi muuttua ongelmaksi. Tuomas kehuu kirjaa erittäin hyväksi tipattoman alkuvuoden lukemiseksi.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tietokirja",
+          "alkoholi",
+          "hyvinvointi"
         ]
       }
     ]
@@ -16869,8 +16895,8 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Ensilumi+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ensilumi",
-        "kuvaus": "Iranilaissuomalaisen perheen tarina, jossa kuvataan ihmisyyttä hienolla tavalla. Elokuvassa on loistava teinien näkökulma ja hyvät näyttelijät, kuten Laura Birn ja Kristiina Halkola.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Iranilaissuomalaisen perheen tarina, jossa kuvataan ihmisyyttä hienolla tavalla. Marian mukaan elokuvassa on loistava teinipojan näkökulma ja hyvät näyttelijät, kuten Laura Birn ja Kristiina Halkola.",
+        "suosittelija": "Maria Manner",
         "kategoriat": [
           "draama",
           "monikulttuurisuus",
@@ -16901,6 +16927,19 @@
           "politiikka",
           "Yhdysvallat",
           "non-fiction"
+        ]
+      },
+      {
+        "teos": "Juniorivalmentaminen urheiluseurassa",
+        "paakategoria": "urheilu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomas päätyi vahingossa poikansa jalkapallojoukkueen valmentajaksi kesäturnaukseen ja suosittelee junioritoimintaa lämpimästi: se on antanut paljon ja tutustuttanut hänet lapsen luokkakavereihin.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "vapaaehtoistyö",
+          "jalkapallo",
+          "vanhemmuus"
         ]
       }
     ]

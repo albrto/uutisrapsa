@@ -14461,7 +14461,7 @@
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Maria Manner",
         "teos": "Ensilumi",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -14469,7 +14469,7 @@
           "monikulttuurisuus",
           "suomalainen elokuva"
         ],
-        "kuvaus": "Iranilaissuomalaisen perheen tarina, jossa kuvataan ihmisyyttä hienolla tavalla. Elokuvassa on loistava teinien näkökulma ja hyvät näyttelijät, kuten Laura Birn ja Kristiina Halkola.",
+        "kuvaus": "Iranilaissuomalaisen perheen tarina, jossa kuvataan ihmisyyttä hienolla tavalla. Marian mukaan elokuvassa on loistava teinipojan näkökulma ja hyvät näyttelijät, kuten Laura Birn ja Kristiina Halkola.",
         "google_linkki": "https://www.google.com/search?q=Ensilumi+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ensilumi",
         "alkupera": "",
@@ -14512,6 +14512,26 @@
         "kuvaus": "Vuoden 1988 Yhdysvaltain presidentinvaaleja käsittelevä teos, jossa kuvataan yksityiskohtaisesti ehdokkaiden elämäntarinat. Sisältää muun muassa huikean kuvauksen nuoresta Joe Bidenista ja hänen matkastaan änkyttävästä pojasta ilmiömäiseksi puhujaksi.",
         "google_linkki": "https://www.google.com/search?q=What+It+Takes+Richard+Ben+Cramer",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=What+It+Takes",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Juniorivalmentaminen urheiluseurassa",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "vapaaehtoistyö",
+          "jalkapallo",
+          "vanhemmuus"
+        ],
+        "kuvaus": "Tuomas päätyi vahingossa poikansa jalkapallojoukkueen valmentajaksi kesäturnaukseen ja suosittelee junioritoimintaa lämpimästi: se on antanut paljon ja tutustuttanut hänet lapsen luokkakavereihin.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -23576,6 +23596,26 @@
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "This Naked Mind",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "alkoholi",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Annie Gracen kirja alkoholin käytöstä ja siitä, miten huomaamatta juominen voi muuttua ongelmaksi. Tuomas kehuu kirjaa erittäin hyväksi tipattoman alkuvuoden lukemiseksi.",
+        "google_linkki": "https://www.google.com/search?q=This+Naked+Mind+Annie+Grace",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=This+Naked+Mind",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -26677,6 +26717,25 @@
         "google_linkki": "https://www.google.com/search?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4+Yle+Areena",
         "lisatieto_linkki": "https://areena.yle.fi/search?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4",
         "alkupera": "yle",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "M&A-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "talous",
+          "politiikka"
+        ],
+        "kuvaus": "Matti Apusen ja Mika Malirannan podcast talouspolitiikasta ja pohjoismaisen hyvinvointivaltion puolustamisesta. Marko esitteli studiossa podcastin Kalmarin unioni -paitaa ja kehotti kuuntelemaan podcastia.",
+        "google_linkki": "https://www.google.com/search?q=Matti+Apunen+Mika+Maliranta+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Apunen%20Maliranta",
+        "alkupera": "kotimainen",
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
