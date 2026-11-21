@@ -4493,5 +4493,138 @@
     "r_idx": 1,
     "data": null,
     "aika": "2026-11-21T08:20:57"
+  },
+  "tag:soundcloud,2010:tracks/805366771::puuttuu::aatos ja amine": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Aatos ja Amine",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Yle Areenassa nähtävä suomalainen dokumenttielokuva kahdeksanvuotiaasta Aatoksesta ja hänen marokkolaistaustaisesta ystävästään Aminesta Brysselissä. Sohvin mukaan hurmaava kuvaus lapsuudesta, ystävyydestä ja lasten pohdinnoista Jumalasta.",
+      "paakategoria": "elokuva",
+      "kategoriat": [
+        "dokumentti",
+        "Yle Areena",
+        "lapsuus"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Aatos+ja+Amine+dokumentti",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Aatos+ja+Amine"
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/805366771::puuttuu::hypernormalisation": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "HyperNormalisation",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Brittiläisen dokumentaristi Adam Curtisin dokumenttielokuva, jonka nimi viittaa Neuvostoliiton viimeisten vuosien tilaan, jossa kaikki tiesivät vallanpitäjien puheen epätodeksi. Tuomaksen mukaan fantastinen dokumentti.",
+      "paakategoria": "elokuva",
+      "kategoriat": [
+        "dokumentti",
+        "politiikka"
+      ],
+      "google_linkki": "https://www.google.com/search?q=HyperNormalisation+Adam+Curtis",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=HyperNormalisation"
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Alma suosittelee shakin pelaamista jouluna ja muistelee lämmöllä edellisjoulua, jolloin lähipiirissä pelattiin shakkia innokkaasti."
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Netflixin hittiminisarja shakin ihmelapsesta Beth Harmonista. Alman mukaan sarja innoitti edellisjoulun shakkibuumin."
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas suosittelee lämpimästi Tom Hollandin kolmatta Spider-Man-elokuvaa, joka hänen mukaansa ylittää kaksi edellistä osaa ja on tyylikkäällä tavalla kosminen."
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::puuttuu::hiihtäminen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Hiihtäminen",
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Alma suosittelee joululomalle ennen kaikkea hiihtämistä.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "liikunta",
+        "joulu"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::puuttuu::venäläinen sillitahna (kuukausiliitteen resepti)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Venäläinen sillitahna (Kuukausiliitteen resepti)",
+      "suosittelija": "Alma Onali",
+      "kuvaus": "HS Kuukausiliitteessä julkaistu venäläisen sillitahnan resepti. Alma epäili ensin, mutta jäi tahnaan täysin koukkuun.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "resepti",
+        "joulu"
+      ],
+      "google_linkki": "https://www.google.com/search?q=venäläinen+sillitahna+Kuukausiliite+resepti",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::puuttuu::raastettu pipari kinkkukastikkeen suurusteeseen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Raastettu pipari kinkkukastikkeen suurusteeseen",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomaksen entiseltä keittiömestarilta oppima jouluvinkki: kinkkukastikkeen suurusteessa kannattaa käyttää jauhojen sijaan raastettua piparia.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "joulu",
+        "ruokavinkki"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T08:29:12",
+    "viety": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::ylimaarainen::0": {
+    "paatos": "hylatty",
+    "r_idx": 0,
+    "data": null,
+    "aika": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1183514755::ylimaarainen::1": {
+    "paatos": "hylatty",
+    "r_idx": 1,
+    "data": null,
+    "aika": "2026-11-21T08:29:12"
   }
 }
