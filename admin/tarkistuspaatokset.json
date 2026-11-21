@@ -4335,5 +4335,91 @@
     },
     "aika": "2026-11-21T08:09:51",
     "viety": "2026-11-21T08:09:51"
+  },
+  "tag:soundcloud,2010:tracks/824431384::puuttuu::ex-onnelliset": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Ex-onnelliset",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Johanna Vuoksenmaan vuonna 2016 alkanut kotimainen ihmissuhdesarja, jossa eronneet vanhemmat asuvat talossa, jonka seinät siirtyvät lasten pysyessä paikallaan. Sohvi ahmi kaksi kautta viikossa ja kehuu sarjaa komediallisen mutta vakavan otteen vuoksi.",
+      "paakategoria": "tv-sarja",
+      "kategoriat": [
+        "draamakomedia",
+        "kotimainen"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Ex-onnelliset+tv-sarja",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Ex-onnelliset"
+    },
+    "aika": "2026-11-21T08:16:44",
+    "viety": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/824431384::ylimaarainen::1": {
+    "paatos": "poista",
+    "r_idx": 1,
+    "data": null,
+    "aika": "2026-11-21T08:16:44",
+    "viety": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/1200029908::puuttuu::aluevaaleissa äänestäminen": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Aluevaaleissa äänestäminen",
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Alma kehottaa äänestämään sunnuntain aluevaaleissa ja seuraamaan vähän aluevaaliuutisointia, jotta olisi informoitu kansalainen.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "vaalit",
+        "kansalaisuus"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T08:16:44",
+    "viety": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/1157528071::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Lotta Vuorion juontama suomalainen historiapodcast, jossa haastatellaan historiantutkijoita kiinnostavista aiheista, kuten prostituutiosta 1800-luvun Turussa. Tuomas kehuu lempeää ja vieraita kunnioittavaa otetta."
+    },
+    "aika": "2026-11-21T08:16:44",
+    "viety": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/1125642721::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Maria Manner",
+      "kuvaus": "New Yorkerin pitkä reportaasi afganistanilaisista naisista etenkin Kabulin ulkopuolella. Maria kehuu juttua ihmiskohtaloiden kuvauksesta: se kertoo elämästä Talebanin vallan alla ja Yhdysvaltain sodan siviiliuhreista."
+    },
+    "aika": "2026-11-21T08:16:44",
+    "viety": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/1125642721::teos::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "teos": "Anand Gopalin juttu afganistanilaisista naisista (New Yorker)",
+      "google_linkki": "https://www.google.com/search?q=Anand+Gopal+The+Other+Afghan+Women+New+Yorker",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T08:16:44",
+    "viety": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/1125642721::ylimaarainen::3": {
+    "paatos": "hylatty",
+    "r_idx": 3,
+    "data": null,
+    "aika": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/1125642721::ylimaarainen::4": {
+    "paatos": "hylatty",
+    "r_idx": 4,
+    "data": null,
+    "aika": "2026-11-21T08:16:44"
   }
 }
