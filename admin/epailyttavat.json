@@ -20827,9 +20827,11 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": false,
-        "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "is_suspicious": true,
+        "epailyn_syyt": [
+          "ei_tunnettu"
+        ],
+        "suosittelija": "Jussi Pullinen",
         "teos": "Weather (Sää)",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -20837,7 +20839,7 @@
           "ilmastonmuutos",
           "ahdistus"
         ],
-        "kuvaus": "Jenny Ofillin kansainvälisesti ylistetty romaani, joka kertoo rakkaudesta, ilmastonmuutosahdistuksesta ja politiikan äärilaitallistumisesta kirjastonhoitajan näkökulmasta.",
+        "kuvaus": "Jenny Offillin kansainvälisesti ylistetty romaani rakkaudesta, ilmastoahdistuksesta ja politiikan äärimmäistymisestä kirjastonhoitajan näkökulmasta. Jussi oli tilannut kirjan ja aikoi lukea sen viikonloppuna.",
         "google_linkki": "https://www.google.com/search?q=Jenny+Offill+Weather",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Weather+Jenny+Offill",
         "alkupera": "",
@@ -20860,6 +20862,25 @@
         "kuvaus": "Verkkosivusto, joka tarjoaa vaiheittaiset ohjeet elektroniikan, kuten älypuhelinten, itse korjaamiseen. Särkyneen puhelinnäytön voi vaihtaa itse noin 30 euron osalla liikkeen 200 euron sijaan.",
         "google_linkki": "https://www.google.com/search?q=iFixit+puhelinkorjaus",
         "lisatieto_linkki": "https://www.ifixit.com",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Atul Gawanden ja Siddhartha Mukherjeen lääketiedekirjat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "lääketiede"
+        ],
+        "kuvaus": "Tuomas suosittelee lääketieteestä ja terveydenhuollon järjestelmistä kiinnostuneille Atul Gawanden tietokirjoja sekä lempikirjailijansa, syöpälääkäri Siddhartha Mukherjeen kirjoja.",
+        "google_linkki": "https://www.google.com/search?q=Atul+Gawande+Siddhartha+Mukherjee+kirjat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Atul+Gawande",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -23214,6 +23235,25 @@
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Marko Junkkari",
+        "teos": "Monopoli",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "lautapeli",
+          "perhe"
+        ],
+        "kuvaus": "Klassinen lautapeli, jota Markon perhe on pelannut karanteenissa. Peli on aiheuttanut perheessä skismaa ja paljastanut perheenjäsenistä uusia piirteitä.",
+        "google_linkki": "https://www.google.com/search?q=Monopoli+lautapeli",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -25186,7 +25226,7 @@
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "Alma Onali",
         "teos": "Hehku (podcast)",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -25194,7 +25234,7 @@
           "suomalainen podcast",
           "hyvinvointi"
         ],
-        "kuvaus": "Ylen podcast, jossa Janne ja Maleena keskustelevat seksistä, suostumuksesta ja seksuaalisuudesta avoimesti ja kunnioittavasti. Löytyy Yle Areenasta.",
+        "kuvaus": "Ylen podcast, jossa Janne ja Malena keskustelevat seksistä, suostumuksesta ja seksuaalisuudesta avoimesti ja kunnioittavasti. Alma pitää sitä pioneerityönä, jollaista ei ole ennen kuultu suomalaisessa podcastmaailmassa.",
         "google_linkki": "https://www.google.com/search?q=Hehku+podcast+Yle+Areena",
         "lisatieto_linkki": "https://areena.yle.fi/podcastit/haku?q=Hehku",
         "alkupera": "yle",
@@ -25206,7 +25246,7 @@
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "Ali Wong: Baby Cobra",
         "paakategoria": "muu",
         "kategoriat": [
@@ -25214,7 +25254,7 @@
           "komedia",
           "Netflix"
         ],
-        "kuvaus": "Amerikkalaisen stand-up-koomikon Ali Wongin ensimmäinen Netflix-spesiaali, jossa hän esiintyy pitkälle raskaana. Huumori käsittelee eritteitä, seksiä ja sukupuolia terävällä otteella.",
+        "kuvaus": "Amerikkalaisen stand-up-koomikon Ali Wongin ensimmäinen Netflix-spesiaali, jossa hän esiintyy pitkälle raskaana. Sohvi aloitti siitä kaverin vinkistä ja kehuu terävää huumoria eritteistä, seksistä ja sukupuolista.",
         "google_linkki": "https://www.google.com/search?q=Ali+Wong+Baby+Cobra+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ali+Wong+Baby+Cobra",
         "alkupera": "",

@@ -13610,8 +13610,8 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Hehku+podcast+Yle+Areena",
         "lisatieto_linkki": "https://areena.yle.fi/podcastit/haku?q=Hehku",
-        "kuvaus": "Ylen podcast, jossa Janne ja Maleena keskustelevat seksistä, suostumuksesta ja seksuaalisuudesta avoimesti ja kunnioittavasti. Löytyy Yle Areenasta.",
-        "suosittelija": "Anna-Sofia Berner",
+        "kuvaus": "Ylen podcast, jossa Janne ja Malena keskustelevat seksistä, suostumuksesta ja seksuaalisuudesta avoimesti ja kunnioittavasti. Alma pitää sitä pioneerityönä, jollaista ei ole ennen kuultu suomalaisessa podcastmaailmassa.",
+        "suosittelija": "Alma Onali",
         "kategoriat": [
           "seksuaalisuus",
           "suomalainen podcast",
@@ -13624,8 +13624,8 @@
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=Ali+Wong+Baby+Cobra+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Ali+Wong+Baby+Cobra",
-        "kuvaus": "Amerikkalaisen stand-up-koomikon Ali Wongin ensimmäinen Netflix-spesiaali, jossa hän esiintyy pitkälle raskaana. Huumori käsittelee eritteitä, seksiä ja sukupuolia terävällä otteella.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Amerikkalaisen stand-up-koomikon Ali Wongin ensimmäinen Netflix-spesiaali, jossa hän esiintyy pitkälle raskaana. Sohvi aloitti siitä kaverin vinkistä ja kehuu terävää huumoria eritteistä, seksistä ja sukupuolista.",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "stand-up",
           "komedia",
@@ -18275,6 +18275,18 @@
           "tieteen popularisointi",
           "koronavirus"
         ]
+      },
+      {
+        "teos": "Monopoli",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Monopoli+lautapeli",
+        "lisatieto_linkki": "",
+        "kuvaus": "Klassinen lautapeli, jota Markon perhe on pelannut karanteenissa. Peli on aiheuttanut perheessä skismaa ja paljastanut perheenjäsenistä uusia piirteitä.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "lautapeli",
+          "perhe"
+        ]
       }
     ]
   },
@@ -18420,8 +18432,8 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Jenny+Offill+Weather",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Weather+Jenny+Offill",
-        "kuvaus": "Jenny Ofillin kansainvälisesti ylistetty romaani, joka kertoo rakkaudesta, ilmastonmuutosahdistuksesta ja politiikan äärilaitallistumisesta kirjastonhoitajan näkökulmasta.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Jenny Offillin kansainvälisesti ylistetty romaani rakkaudesta, ilmastoahdistuksesta ja politiikan äärimmäistymisestä kirjastonhoitajan näkökulmasta. Jussi oli tilannut kirjan ja aikoi lukea sen viikonloppuna.",
+        "suosittelija": "Jussi Pullinen",
         "kategoriat": [
           "romaani",
           "ilmastonmuutos",
@@ -18439,6 +18451,18 @@
           "tee-se-itse",
           "teknologia",
           "säästäminen"
+        ]
+      },
+      {
+        "teos": "Atul Gawanden ja Siddhartha Mukherjeen lääketiedekirjat",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Atul+Gawande+Siddhartha+Mukherjee+kirjat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Atul+Gawande",
+        "kuvaus": "Tuomas suosittelee lääketieteestä ja terveydenhuollon järjestelmistä kiinnostuneille Atul Gawanden tietokirjoja sekä lempikirjailijansa, syöpälääkäri Siddhartha Mukherjeen kirjoja.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tietokirja",
+          "lääketiede"
         ]
       }
     ]
