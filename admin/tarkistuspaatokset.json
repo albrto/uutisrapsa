@@ -4626,5 +4626,25 @@
     "r_idx": 1,
     "data": null,
     "aika": "2026-11-21T08:29:12"
+  },
+  "tag:soundcloud,2010:tracks/1149466168::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Yleisradion dokumenttisarja, joka käy läpi suomalaisen politiikan merkittäviä tapauksia ja henkilöitä kuten Alexander Stubbin, Ahti Karjalaisen ja Sanna Marinin. Tuomaksen mukaan kärkipoliitikot puhuvat siinä poikkeuksellisen rehellisesti."
+    },
+    "aika": "2026-11-21T08:38:09",
+    "viety": "2026-11-21T08:38:09"
+  },
+  "tag:soundcloud,2010:tracks/1149466168::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Radiolab-podcastin kolmen jakson erikoissarja X-kromosomista ja immuniteettiin liittyvistä geeneistä. Tuomaksen mukaan se selittää evoluutiobiologisesti muun muassa, miksi naisilla on vahvempi immuniteetti kuin miehillä."
+    },
+    "aika": "2026-11-21T08:38:09",
+    "viety": "2026-11-21T08:38:09"
   }
 }

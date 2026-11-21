@@ -7546,5 +7546,47 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1149466168",
+    "jakso_otsikko": "28.10.2021: Kabinettibudjetti Helsingissä, Marinin boomer-kommentit, R.I.P. UROS-areena",
+    "paivamaara": "28.10.2021",
+    "r_idx": 1,
+    "teos": "Politiikka-Suomi",
+    "uusi_data": {
+      "teos": "Politiikka-Suomi",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Politiikka-Suomi+Yleisradio+dokumenttisarja",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Politiikka-Suomi",
+      "kuvaus": "Yleisradion dokumenttisarja, joka käy läpi suomalaisen politiikan merkittäviä tapauksia ja henkilöitä kuten Alexander Stubbin, Ahti Karjalaisen ja Sanna Marinin. Tuomaksen mukaan kärkipoliitikot puhuvat siinä poikkeuksellisen rehellisesti.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "dokumentti",
+        "politiikka",
+        "historia"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1149466168",
+    "jakso_otsikko": "28.10.2021: Kabinettibudjetti Helsingissä, Marinin boomer-kommentit, R.I.P. UROS-areena",
+    "paivamaara": "28.10.2021",
+    "r_idx": 2,
+    "teos": "Radiolab: Everybody's Got a Genome",
+    "uusi_data": {
+      "teos": "Radiolab: Everybody's Got a Genome",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Radiolab+Everybody%27s+Got+a+Genome+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Radiolab%20Everybody%27s%20Got%20a%20Genome",
+      "kuvaus": "Radiolab-podcastin kolmen jakson erikoissarja X-kromosomista ja immuniteettiin liittyvistä geeneistä. Tuomaksen mukaan se selittää evoluutiobiologisesti muun muassa, miksi naisilla on vahvempi immuniteetti kuin miehillä.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "tiede",
+        "biologia",
+        "evoluutio"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
