@@ -23441,7 +23441,7 @@ window.VALIDATION_DATA = [
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
-        "piilotettu": false
+        "piilotettu": true
       }
     ]
   },

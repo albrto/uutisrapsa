@@ -53,7 +53,8 @@
         "kategoriat": [
           "graafinen suunnittelu",
           "kirjansuunnittelu"
-        ]
+        ],
+        "piilotettu": true
       }
     ]
   },
