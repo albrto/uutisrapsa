@@ -17259,6 +17259,45 @@ window.VALIDATION_DATA = [
         "lisalinkit": [],
         "antisuositus": false,
         "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Aatos ja Amine",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "Yle Areena",
+          "lapsuus"
+        ],
+        "kuvaus": "Yle Areenassa nähtävä suomalainen dokumenttielokuva kahdeksanvuotiaasta Aatoksesta ja hänen marokkolaistaustaisesta ystävästään Aminesta Brysselissä. Sohvin mukaan hurmaava kuvaus lapsuudesta, ystävyydestä ja lasten pohdinnoista Jumalasta.",
+        "google_linkki": "https://www.google.com/search?q=Aatos+ja+Amine+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Aatos+ja+Amine",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "HyperNormalisation",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka"
+        ],
+        "kuvaus": "Brittiläisen dokumentaristi Adam Curtisin dokumenttielokuva, jonka nimi viittaa Neuvostoliiton viimeisten vuosien tilaan, jossa kaikki tiesivät vallanpitäjien puheen epätodeksi. Tuomaksen mukaan fantastinen dokumentti.",
+        "google_linkki": "https://www.google.com/search?q=HyperNormalisation+Adam+Curtis",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=HyperNormalisation",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
       }
     ]
   },
@@ -17567,14 +17606,14 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Alma Onali",
         "teos": "Shakki",
         "paakategoria": "urheilu",
         "kategoriat": [
           "lautapeli",
           "joulu"
         ],
-        "kuvaus": "Tuomas suosittelee shakin pelaamista jouluna, muistellen edellisvuoden jouluun liittynyttä maanista shakinpeluuta lähipiirin kanssa.",
+        "kuvaus": "Alma suosittelee shakin pelaamista jouluna ja muistelee lämmöllä edellisjoulua, jolloin lähipiirissä pelattiin shakkia innokkaasti.",
         "google_linkki": "",
         "lisatieto_linkki": "",
         "alkupera": "",
@@ -17586,7 +17625,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Alma Onali",
         "teos": "Kuningattaren gambiitti",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -17594,7 +17633,7 @@ window.VALIDATION_DATA = [
           "shakki",
           "draama"
         ],
-        "kuvaus": "Netflixin hitti-minisarja shakkiprodigy Beth Harmonesta. Tuomas mainitsi sen innoittaneen viime joulun shakinpeluubuumin.",
+        "kuvaus": "Netflixin hittiminisarja shakin ihmelapsesta Beth Harmonista. Alman mukaan sarja innoitti edellisjoulun shakkibuumin.",
         "google_linkki": "https://www.google.com/search?q=Kuningattaren+gambiitti+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Queen%27s+Gambit",
         "alkupera": "",
@@ -17606,7 +17645,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Spider-Man: No Way Home",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -17614,9 +17653,66 @@ window.VALIDATION_DATA = [
           "toiminta",
           "supersankari"
         ],
-        "kuvaus": "Marko suosittelee lämpimästi tätä kolmatta Tom Hollandin Spider-Man-elokuvaa, joka hänen mukaansa ylittää kaksi edellistä osaa ja on tyylikkäällä tavalla kosminen.",
+        "kuvaus": "Tuomas suosittelee lämpimästi Tom Hollandin kolmatta Spider-Man-elokuvaa, joka hänen mukaansa ylittää kaksi edellistä osaa ja on tyylikkäällä tavalla kosminen.",
         "google_linkki": "https://www.google.com/search?q=Spider-Man+No+Way+Home",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Spider-Man+No+Way+Home",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Alma Onali",
+        "teos": "Hiihtäminen",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "liikunta",
+          "joulu"
+        ],
+        "kuvaus": "Alma suosittelee joululomalle ennen kaikkea hiihtämistä.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Alma Onali",
+        "teos": "Venäläinen sillitahna (Kuukausiliitteen resepti)",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "resepti",
+          "joulu"
+        ],
+        "kuvaus": "HS Kuukausiliitteessä julkaistu venäläisen sillitahnan resepti. Alma epäili ensin, mutta jäi tahnaan täysin koukkuun.",
+        "google_linkki": "https://www.google.com/search?q=venäläinen+sillitahna+Kuukausiliite+resepti",
+        "lisatieto_linkki": "",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Raastettu pipari kinkkukastikkeen suurusteeseen",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "joulu",
+          "ruokavinkki"
+        ],
+        "kuvaus": "Tuomaksen entiseltä keittiömestarilta oppima jouluvinkki: kinkkukastikkeen suurusteessa kannattaa käyttää jauhojen sijaan raastettua piparia.",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,

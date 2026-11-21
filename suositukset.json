@@ -14016,8 +14016,8 @@
         "paakategoria": "urheilu",
         "google_linkki": "",
         "lisatieto_linkki": "",
-        "kuvaus": "Tuomas suosittelee shakin pelaamista jouluna, muistellen edellisvuoden jouluun liittynyttä maanista shakinpeluuta lähipiirin kanssa.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Alma suosittelee shakin pelaamista jouluna ja muistelee lämmöllä edellisjoulua, jolloin lähipiirissä pelattiin shakkia innokkaasti.",
+        "suosittelija": "Alma Onali",
         "kategoriat": [
           "lautapeli",
           "joulu"
@@ -14028,8 +14028,8 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Kuningattaren+gambiitti+Netflix",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Queen%27s+Gambit",
-        "kuvaus": "Netflixin hitti-minisarja shakkiprodigy Beth Harmonesta. Tuomas mainitsi sen innoittaneen viime joulun shakinpeluubuumin.",
-        "suosittelija": "Tuomas Peltomäki",
+        "kuvaus": "Netflixin hittiminisarja shakin ihmelapsesta Beth Harmonista. Alman mukaan sarja innoitti edellisjoulun shakkibuumin.",
+        "suosittelija": "Alma Onali",
         "kategoriat": [
           "Netflix",
           "shakki",
@@ -14041,12 +14041,48 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Spider-Man+No+Way+Home",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Spider-Man+No+Way+Home",
-        "kuvaus": "Marko suosittelee lämpimästi tätä kolmatta Tom Hollandin Spider-Man-elokuvaa, joka hänen mukaansa ylittää kaksi edellistä osaa ja on tyylikkäällä tavalla kosminen.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Tuomas suosittelee lämpimästi Tom Hollandin kolmatta Spider-Man-elokuvaa, joka hänen mukaansa ylittää kaksi edellistä osaa ja on tyylikkäällä tavalla kosminen.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "Marvel",
           "toiminta",
           "supersankari"
+        ]
+      },
+      {
+        "teos": "Hiihtäminen",
+        "paakategoria": "urheilu",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Alma suosittelee joululomalle ennen kaikkea hiihtämistä.",
+        "suosittelija": "Alma Onali",
+        "kategoriat": [
+          "liikunta",
+          "joulu"
+        ]
+      },
+      {
+        "teos": "Venäläinen sillitahna (Kuukausiliitteen resepti)",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=venäläinen+sillitahna+Kuukausiliite+resepti",
+        "lisatieto_linkki": "",
+        "kuvaus": "HS Kuukausiliitteessä julkaistu venäläisen sillitahnan resepti. Alma epäili ensin, mutta jäi tahnaan täysin koukkuun.",
+        "suosittelija": "Alma Onali",
+        "kategoriat": [
+          "resepti",
+          "joulu"
+        ]
+      },
+      {
+        "teos": "Raastettu pipari kinkkukastikkeen suurusteeseen",
+        "paakategoria": "ruoka",
+        "google_linkki": "",
+        "lisatieto_linkki": "",
+        "kuvaus": "Tuomaksen entiseltä keittiömestarilta oppima jouluvinkki: kinkkukastikkeen suurusteessa kannattaa käyttää jauhojen sijaan raastettua piparia.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "joulu",
+          "ruokavinkki"
         ]
       }
     ]
@@ -18015,6 +18051,31 @@
           "tietoviihde"
         ],
         "alkupera": "ulkomainen"
+      },
+      {
+        "teos": "Aatos ja Amine",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Aatos+ja+Amine+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Aatos+ja+Amine",
+        "kuvaus": "Yle Areenassa nähtävä suomalainen dokumenttielokuva kahdeksanvuotiaasta Aatoksesta ja hänen marokkolaistaustaisesta ystävästään Aminesta Brysselissä. Sohvin mukaan hurmaava kuvaus lapsuudesta, ystävyydestä ja lasten pohdinnoista Jumalasta.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "dokumentti",
+          "Yle Areena",
+          "lapsuus"
+        ]
+      },
+      {
+        "teos": "HyperNormalisation",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=HyperNormalisation+Adam+Curtis",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=HyperNormalisation",
+        "kuvaus": "Brittiläisen dokumentaristi Adam Curtisin dokumenttielokuva, jonka nimi viittaa Neuvostoliiton viimeisten vuosien tilaan, jossa kaikki tiesivät vallanpitäjien puheen epätodeksi. Tuomaksen mukaan fantastinen dokumentti.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka"
+        ]
       }
     ]
   },
