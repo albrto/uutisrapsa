@@ -4421,5 +4421,77 @@
     "r_idx": 4,
     "data": null,
     "aika": "2026-11-21T08:16:44"
+  },
+  "tag:soundcloud,2010:tracks/1217555593::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Ylen podcast, jossa Janne ja Malena keskustelevat seksistä, suostumuksesta ja seksuaalisuudesta avoimesti ja kunnioittavasti. Alma pitää sitä pioneerityönä, jollaista ei ole ennen kuultu suomalaisessa podcastmaailmassa."
+    },
+    "aika": "2026-11-21T08:20:57",
+    "viety": "2026-11-21T08:20:57"
+  },
+  "tag:soundcloud,2010:tracks/1217555593::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Amerikkalaisen stand-up-koomikon Ali Wongin ensimmäinen Netflix-spesiaali, jossa hän esiintyy pitkälle raskaana. Sohvi aloitti siitä kaverin vinkistä ja kehuu terävää huumoria eritteistä, seksistä ja sukupuolista."
+    },
+    "aika": "2026-11-21T08:20:57",
+    "viety": "2026-11-21T08:20:57"
+  },
+  "tag:soundcloud,2010:tracks/763752994::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Jussi Pullinen",
+      "kuvaus": "Jenny Offillin kansainvälisesti ylistetty romaani rakkaudesta, ilmastoahdistuksesta ja politiikan äärimmäistymisestä kirjastonhoitajan näkökulmasta. Jussi oli tilannut kirjan ja aikoi lukea sen viikonloppuna."
+    },
+    "aika": "2026-11-21T08:20:57",
+    "viety": "2026-11-21T08:20:57"
+  },
+  "tag:soundcloud,2010:tracks/763752994::puuttuu::atul gawanden ja siddhartha mukherjeen lääketiedekirjat": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Atul Gawanden ja Siddhartha Mukherjeen lääketiedekirjat",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas suosittelee lääketieteestä ja terveydenhuollon järjestelmistä kiinnostuneille Atul Gawanden tietokirjoja sekä lempikirjailijansa, syöpälääkäri Siddhartha Mukherjeen kirjoja.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "tietokirja",
+        "lääketiede"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Atul+Gawande+Siddhartha+Mukherjee+kirjat",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Atul+Gawande"
+    },
+    "aika": "2026-11-21T08:20:57",
+    "viety": "2026-11-21T08:20:57"
+  },
+  "tag:soundcloud,2010:tracks/779003464::puuttuu::monopoli": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Monopoli",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Klassinen lautapeli, jota Markon perhe on pelannut karanteenissa. Peli on aiheuttanut perheessä skismaa ja paljastanut perheenjäsenistä uusia piirteitä.",
+      "paakategoria": "muu",
+      "kategoriat": [
+        "lautapeli",
+        "perhe"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Monopoli+lautapeli",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T08:20:57",
+    "viety": "2026-11-21T08:20:57"
+  },
+  "tag:soundcloud,2010:tracks/779003464::ylimaarainen::1": {
+    "paatos": "hylatty",
+    "r_idx": 1,
+    "data": null,
+    "aika": "2026-11-21T08:20:57"
   }
 }

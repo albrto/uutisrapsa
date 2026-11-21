@@ -7273,5 +7273,110 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1217555593",
+    "jakso_otsikko": "17.2.2022: Niinistö NY Timesissa, korkojen nousu, olympiafiilis",
+    "paivamaara": "17.2.2022",
+    "r_idx": 0,
+    "teos": "Hehku (podcast)",
+    "uusi_data": {
+      "teos": "Hehku (podcast)",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Hehku+podcast+Yle+Areena",
+      "lisatieto_linkki": "https://areena.yle.fi/podcastit/haku?q=Hehku",
+      "kuvaus": "Ylen podcast, jossa Janne ja Malena keskustelevat seksistä, suostumuksesta ja seksuaalisuudesta avoimesti ja kunnioittavasti. Alma pitää sitä pioneerityönä, jollaista ei ole ennen kuultu suomalaisessa podcastmaailmassa.",
+      "suosittelija": "Alma Onali",
+      "kategoriat": [
+        "seksuaalisuus",
+        "suomalainen podcast",
+        "hyvinvointi"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1217555593",
+    "jakso_otsikko": "17.2.2022: Niinistö NY Timesissa, korkojen nousu, olympiafiilis",
+    "paivamaara": "17.2.2022",
+    "r_idx": 1,
+    "teos": "Ali Wong: Baby Cobra",
+    "uusi_data": {
+      "teos": "Ali Wong: Baby Cobra",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Ali+Wong+Baby+Cobra+Netflix",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Ali+Wong+Baby+Cobra",
+      "kuvaus": "Amerikkalaisen stand-up-koomikon Ali Wongin ensimmäinen Netflix-spesiaali, jossa hän esiintyy pitkälle raskaana. Sohvi aloitti siitä kaverin vinkistä ja kehuu terävää huumoria eritteistä, seksistä ja sukupuolista.",
+      "suosittelija": "Anna-Sofia Berner",
+      "kategoriat": [
+        "stand-up",
+        "komedia",
+        "Netflix"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/763752994",
+    "jakso_otsikko": "20.2.2020: Haavisto ja al-Hol valtakunnansyyttäjälle, turvapaikanhakijoiden työluvat ja koronavirus",
+    "paivamaara": "20.2.2020",
+    "r_idx": 1,
+    "teos": "Weather (Sää)",
+    "uusi_data": {
+      "teos": "Weather (Sää)",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Jenny+Offill+Weather",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Weather+Jenny+Offill",
+      "kuvaus": "Jenny Offillin kansainvälisesti ylistetty romaani rakkaudesta, ilmastoahdistuksesta ja politiikan äärimmäistymisestä kirjastonhoitajan näkökulmasta. Jussi oli tilannut kirjan ja aikoi lukea sen viikonloppuna.",
+      "suosittelija": "Jussi Pullinen",
+      "kategoriat": [
+        "romaani",
+        "ilmastonmuutos",
+        "ahdistus"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/763752994",
+    "jakso_otsikko": "20.2.2020: Haavisto ja al-Hol valtakunnansyyttäjälle, turvapaikanhakijoiden työluvat ja koronavirus",
+    "paivamaara": "20.2.2020",
+    "r_idx": 3,
+    "teos": "Atul Gawanden ja Siddhartha Mukherjeen lääketiedekirjat",
+    "uusi_data": {
+      "teos": "Atul Gawanden ja Siddhartha Mukherjeen lääketiedekirjat",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=Atul+Gawande+Siddhartha+Mukherjee+kirjat",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Atul+Gawande",
+      "kuvaus": "Tuomas suosittelee lääketieteestä ja terveydenhuollon järjestelmistä kiinnostuneille Atul Gawanden tietokirjoja sekä lempikirjailijansa, syöpälääkäri Siddhartha Mukherjeen kirjoja.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "tietokirja",
+        "lääketiede"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/779003464",
+    "jakso_otsikko": "19.3.2020: Suuri LOCKDOWN Suomessa!",
+    "paivamaara": "19.3.2020",
+    "r_idx": 3,
+    "teos": "Monopoli",
+    "uusi_data": {
+      "teos": "Monopoli",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Monopoli+lautapeli",
+      "lisatieto_linkki": "",
+      "kuvaus": "Klassinen lautapeli, jota Markon perhe on pelannut karanteenissa. Peli on aiheuttanut perheessä skismaa ja paljastanut perheenjäsenistä uusia piirteitä.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "lautapeli",
+        "perhe"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
