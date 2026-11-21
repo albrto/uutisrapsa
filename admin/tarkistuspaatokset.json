@@ -4646,5 +4646,37 @@
     },
     "aika": "2026-11-21T08:38:09",
     "viety": "2026-11-21T08:38:09"
+  },
+  "tag:soundcloud,2010:tracks/927955750::teos::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "teos": "The Last Trial",
+      "google_linkki": "https://www.google.com/search?q=Scott+Turow+The+Last+Trial",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=Scott+Turow+The+Last+Trial",
+      "kuvaus": "Scott Turowin oikeussalidekkari, jonka Marko luki lähes kahdessa illassa. Turow on John Grishamin ohella legendaarisimpia juristidekkareiden kirjoittajia."
+    },
+    "aika": "2026-11-21T09:09:20",
+    "viety": "2026-11-21T09:09:20"
+  },
+  "tag:soundcloud,2010:tracks/927955750::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Käsikirjoittaja ja humoristi Janne Sarjan kirja, jossa muun muassa parodioidaan ja pilkataan Helsingin Sanomia. Maria suositteli sitä viikon tunnelmiin."
+    },
+    "aika": "2026-11-21T09:09:20",
+    "viety": "2026-11-21T09:09:20"
+  },
+  "tag:soundcloud,2010:tracks/1104624766::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Andy Weirin scifi-romaani, jossa muistinsa menettänyt astronautti herää yksin avaruusaluksessa ja huomaa tehtäväkseen pelastaa koko ihmiskunta aurinkoa uhkaavilta mikro-organismeilta. Alma luki Barack Obaman suositteleman kirjan ruotsiksi ja suosittelee sitä koukuttavana eskapismina."
+    },
+    "aika": "2026-11-21T09:09:20",
+    "viety": "2026-11-21T09:09:20"
   }
 }
