@@ -6969,5 +6969,47 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1375678048",
+    "jakso_otsikko": "3.11.2022: Leikkauspaineet ja Sanna Marin, kiinteistösekoilut, Twitter ja Elon Musk",
+    "paivamaara": "3.11.2022",
+    "r_idx": 1,
+    "teos": "Munkkivuori",
+    "uusi_data": {
+      "teos": "Munkkivuori",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Munkkivuori+tv-sarja",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Munkkivuori",
+      "kuvaus": "Jani Volasen käsikirjoittama suomalainen tv-sarja, joka sijoittuu 1980-luvulle ja tarjoaa nostalgiaa irtokarkkeineen ja lapsuuden maailmoineen. Sallan mukaan sarjassa on ahdistava pohjavire, murhamysteerin aineksia ja mahtavia lapsinäyttelijöitä.",
+      "suosittelija": "Salla Vuorikoski",
+      "kategoriat": [
+        "suomalainen",
+        "nostalgia",
+        "murhamysteeri"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1427829517",
+    "jakso_otsikko": "19.1.2023: Translaki, apteekit, Turkin metkut",
+    "paivamaara": "19.1.2023",
+    "r_idx": 4,
+    "teos": "Digitaalinen yhteiskalenteri",
+    "uusi_data": {
+      "teos": "Digitaalinen yhteiskalenteri",
+      "paakategoria": "muu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Vannoutunut pitkäaikainen paperikalenterin käyttäjä Anni siirtyi digikalenteriin ja synkkasi sen puolisonsa kanssa. Yhteinen kalenteri helpottaa arkea ja pitää kartalla, vaikka tarrat jäävät paperikalenteriin.",
+      "suosittelija": "Anni Keski-Heikkilä",
+      "kategoriat": [
+        "arki",
+        "ajanhallinta"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]
