@@ -4270,5 +4270,44 @@
     },
     "aika": "2026-11-21T08:01:30",
     "viety": "2026-11-21T08:01:30"
+  },
+  "tag:soundcloud,2010:tracks/1288637074::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Ranskalaisen ohjaajan Claire Denisin vuoden 2018 kosmisen kauhun elokuva, jossa elinkautisvangit tekevät tutkimuksia mustan aukon lähettyvillä. Tuomaksen mukaan Robert Pattinsonin ja Juliette Binochen tähdittämä elokuva on masentava mutta vaikuttava ja jää vaivaamaan päiväkausiksi."
+    },
+    "aika": "2026-11-21T08:07:43",
+    "viety": "2026-11-21T08:07:43"
+  },
+  "tag:soundcloud,2010:tracks/1288637074::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "H.P. Lovecraftin tarinaan perustuva kosmisen kauhun elokuva, jossa Nicolas Cage kohtaa selittämättömän violetin uhan. Tuomas nostaa sen genren keskeiseksi elokuvaksi heikkouksistaan huolimatta."
+    },
+    "aika": "2026-11-21T08:07:43",
+    "viety": "2026-11-21T08:07:43"
+  },
+  "tag:soundcloud,2010:tracks/1288637074::puuttuu::turkkilainen visiitti (paavo lipposen mielipidekirjoitus)": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Turkkilainen visiitti (Paavo Lipposen mielipidekirjoitus)",
+      "suosittelija": "Joona Aaltonen",
+      "kuvaus": "Entisen pääministerin Paavo Lipposen Demokraatti-lehden mielipidekirjoitus Turkin asemasta Suomen Nato-prosessissa. Joona suosittelee sitä kaikille, jotka kaipaavat suorasanaista poliittista tykittelyä ja keskusteltavaa.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "politiikka",
+        "mielipide",
+        "Nato"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Paavo+Lipponen+Turkkilainen+visiitti+Demokraatti",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T08:07:43",
+    "viety": "2026-11-21T08:07:43"
   }
 }
