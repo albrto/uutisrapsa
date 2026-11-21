@@ -6882,5 +6882,92 @@
     "paivamaara": "19.11.2026",
     "r_idx": 3,
     "teos": "Miksei kukaan tee mitään -kirjan graafinen ulkoasu"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/899397160",
+    "jakso_otsikko": "25.9.2020: Koronavirustilanne, poliittinen väkivalta, USA:n korkein oikeus",
+    "paivamaara": "25.9.2020",
+    "r_idx": 0,
+    "teos": "Ensilumi",
+    "uusi_data": {
+      "teos": "Ensilumi",
+      "paakategoria": "elokuva",
+      "google_linkki": "https://www.google.com/search?q=Ensilumi+elokuva",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Ensilumi",
+      "kuvaus": "Iranilaissuomalaisen perheen tarina, jossa kuvataan ihmisyyttä hienolla tavalla. Marian mukaan elokuvassa on loistava teinipojan näkökulma ja hyvät näyttelijät, kuten Laura Birn ja Kristiina Halkola.",
+      "suosittelija": "Maria Manner",
+      "kategoriat": [
+        "draama",
+        "monikulttuurisuus",
+        "suomalainen elokuva"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1470207121",
+    "jakso_otsikko": "16.3.2023: NATO BABY YEAH!, MTV:n eka puheenjohtajatentti, Hornet-sotku",
+    "paivamaara": "16.3.2023",
+    "r_idx": 3,
+    "teos": "M&A-podcast",
+    "uusi_data": {
+      "teos": "M&A-podcast",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Matti+Apunen+Mika+Maliranta+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Apunen%20Maliranta",
+      "kuvaus": "Matti Apusen ja Mika Malirannan podcast talouspolitiikasta ja pohjoismaisen hyvinvointivaltion puolustamisesta. Marko esitteli studiossa podcastin Kalmarin unioni -paitaa ja kehotti kuuntelemaan podcastia.",
+      "suosittelija": "Marko Junkkari",
+      "kategoriat": [
+        "talous",
+        "politiikka"
+      ],
+      "alkupera": "kotimainen"
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/899397160",
+    "jakso_otsikko": "25.9.2020: Koronavirustilanne, poliittinen väkivalta, USA:n korkein oikeus",
+    "paivamaara": "25.9.2020",
+    "r_idx": 3,
+    "teos": "Juniorivalmentaminen urheiluseurassa",
+    "uusi_data": {
+      "teos": "Juniorivalmentaminen urheiluseurassa",
+      "paakategoria": "urheilu",
+      "google_linkki": "",
+      "lisatieto_linkki": "",
+      "kuvaus": "Tuomas päätyi vahingossa poikansa jalkapallojoukkueen valmentajaksi kesäturnaukseen ja suosittelee junioritoimintaa lämpimästi: se on antanut paljon ja tutustuttanut hänet lapsen luokkakavereihin.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "vapaaehtoistyö",
+        "jalkapallo",
+        "vanhemmuus"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "tyyppi": "lisays",
+    "jakso_id": "tag:soundcloud,2010:tracks/1427829517",
+    "jakso_otsikko": "19.1.2023: Translaki, apteekit, Turkin metkut",
+    "paivamaara": "19.1.2023",
+    "r_idx": 3,
+    "teos": "This Naked Mind",
+    "uusi_data": {
+      "teos": "This Naked Mind",
+      "paakategoria": "kirja",
+      "google_linkki": "https://www.google.com/search?q=This+Naked+Mind+Annie+Grace",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=This+Naked+Mind",
+      "kuvaus": "Annie Gracen kirja alkoholin käytöstä ja siitä, miten huomaamatta juominen voi muuttua ongelmaksi. Tuomas kehuu kirjaa erittäin hyväksi tipattoman alkuvuoden lukemiseksi.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "tietokirja",
+        "alkoholi",
+        "hyvinvointi"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

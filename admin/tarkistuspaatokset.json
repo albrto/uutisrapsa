@@ -4145,5 +4145,72 @@
     },
     "aika": "2026-11-01T09:56:23",
     "viety": "2026-11-01T09:56:23"
+  },
+  "tag:soundcloud,2010:tracks/1470207121::puuttuu::matti apusen ja mika malirannan talouspodcast": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "M&A-podcast",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Matti Apusen ja Mika Malirannan podcast talouspolitiikasta ja pohjoismaisen hyvinvointivaltion puolustamisesta. Marko esitteli studiossa podcastin Kalmarin unioni -paitaa ja kehotti kuuntelemaan podcastia.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "talous",
+        "politiikka"
+      ],
+      "google_linkki": "https://www.google.com/search?q=Matti+Apunen+Mika+Maliranta+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Apunen%20Maliranta",
+      "alkupera": "kotimainen"
+    },
+    "aika": "2026-11-21T07:55:35",
+    "viety": "2026-11-21T07:55:35"
+  },
+  "tag:soundcloud,2010:tracks/899397160::suosittelija::0": {
+    "paatos": "hyvaksytty",
+    "r_idx": 0,
+    "data": {
+      "suosittelija": "Maria Manner",
+      "kuvaus": "Iranilaissuomalaisen perheen tarina, jossa kuvataan ihmisyyttä hienolla tavalla. Marian mukaan elokuvassa on loistava teinipojan näkökulma ja hyvät näyttelijät, kuten Laura Birn ja Kristiina Halkola."
+    },
+    "aika": "2026-11-21T07:55:35",
+    "viety": "2026-11-21T07:55:35"
+  },
+  "tag:soundcloud,2010:tracks/899397160::puuttuu::juniorivalmentaminen urheiluseurassa": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "Juniorivalmentaminen urheiluseurassa",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Tuomas päätyi vahingossa poikansa jalkapallojoukkueen valmentajaksi kesäturnaukseen ja suosittelee junioritoimintaa lämpimästi: se on antanut paljon ja tutustuttanut hänet lapsen luokkakavereihin.",
+      "paakategoria": "urheilu",
+      "kategoriat": [
+        "vapaaehtoistyö",
+        "jalkapallo",
+        "vanhemmuus"
+      ],
+      "google_linkki": "",
+      "lisatieto_linkki": ""
+    },
+    "aika": "2026-11-21T07:55:35",
+    "viety": "2026-11-21T07:55:35"
+  },
+  "tag:soundcloud,2010:tracks/1427829517::puuttuu::this naked mind": {
+    "paatos": "hyvaksytty",
+    "r_idx": null,
+    "data": {
+      "teos": "This Naked Mind",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Annie Gracen kirja alkoholin käytöstä ja siitä, miten huomaamatta juominen voi muuttua ongelmaksi. Tuomas kehuu kirjaa erittäin hyväksi tipattoman alkuvuoden lukemiseksi.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "tietokirja",
+        "alkoholi",
+        "hyvinvointi"
+      ],
+      "google_linkki": "https://www.google.com/search?q=This+Naked+Mind+Annie+Grace",
+      "lisatieto_linkki": "https://www.goodreads.com/search?q=This+Naked+Mind"
+    },
+    "aika": "2026-11-21T07:55:35",
+    "viety": "2026-11-21T07:55:35"
   }
 }
