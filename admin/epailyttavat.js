@@ -14578,7 +14578,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Alma Onali",
         "teos": "Tuca & Bertie",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -14586,7 +14586,7 @@ window.VALIDATION_DATA = [
           "komedia",
           "naisystävyys"
         ],
-        "kuvaus": "Sairaan hauska animaatiosarja kahdesta kolmekymppisestä lintunaisesta, joka käsittelee työtä, parisuhdetta ja ystävyyttä. HBO Maxilla saatavilla useampi kausi.",
+        "kuvaus": "Sairaan hauska animaatiosarja kahdesta kolmekymppisestä lintunaisesta, joka käsittelee työtä, parisuhdetta ja ystävyyttä. Sarja pelasti Alman kesäisen koronasairastumisen, ja HBO Maxilla on saatavilla useampi kausi.",
         "google_linkki": "https://www.google.com/search?q=Tuca+%26+Bertie+animaatiosarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Tuca+and+Bertie",
         "alkupera": "",
@@ -14598,7 +14598,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Alma Onali",
         "teos": "PS Tykitellään",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -14606,7 +14606,7 @@ window.VALIDATION_DATA = [
           "popmusiikki",
           "analyysi"
         ],
-        "kuvaus": "Analyyttinen ja ajankohtainen popmusiikkipodcast, jota vetävät Oskari Onninen ja Niko Vartiainen. Innostaa kuuntelemaan uutta musiikkia ja irrottautumaan uutisvirrasta.",
+        "kuvaus": "Analyyttinen ja ajankohtainen popmusiikkipodcast, jota vetävät Oskari Onninen ja Niko Vartiainen. Alman mukaan se innostaa kuuntelemaan uutta musiikkia ja irrottautumaan uutisvirrasta.",
         "google_linkki": "https://www.google.com/search?q=PS+Tykitell%C3%A4%C3%A4n+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/PS%20Tykitell%C3%A4%C3%A4n",
         "alkupera": "kotimainen",
@@ -14618,7 +14618,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Have You Heard George's Podcast?",
         "paakategoria": "podcast",
         "kategoriat": [
