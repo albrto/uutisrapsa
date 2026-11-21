@@ -14024,11 +14024,11 @@
         ]
       },
       {
-        "teos": "Musta kuningatar",
+        "teos": "Kuningattaren gambiitti",
         "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=Musta+kuningatar+Netflix",
-        "lisatieto_linkki": "https://www.netflix.com/title/80234304",
-        "kuvaus": "Netflixin hittiminisarja (The Queen's Gambit) shakin ihmelapsesta Beth Harmonista. Alman mukaan sarja innoitti edellisjoulun shakkibuumin.",
+        "google_linkki": "https://www.google.com/search?q=Kuningattaren+gambiitti+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Queen%27s+Gambit",
+        "kuvaus": "Netflixin hittiminisarja shakin ihmelapsesta Beth Harmonista. Alman mukaan sarja innoitti edellisjoulun shakkibuumin.",
         "suosittelija": "Alma Onali",
         "kategoriat": [
           "Netflix",
@@ -14445,8 +14445,8 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Politiikka-Suomi+Yleisradio+dokumenttisarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Politiikka-Suomi",
-        "kuvaus": "Yleisradion dokumenttisarja, joka käy läpi suomalaisen politiikan merkittäviä tapauksia ja henkilöitä kuten Alexander Stubb, Ahti Karjalainen ja Sanna Marin. Kärkipoliitikot puhuvat poikkeuksellisella rehellisyydellä.",
-        "suosittelija": "Marko Junkkari",
+        "kuvaus": "Yleisradion dokumenttisarja, joka käy läpi suomalaisen politiikan merkittäviä tapauksia ja henkilöitä kuten Alexander Stubbin, Ahti Karjalaisen ja Sanna Marinin. Tuomaksen mukaan kärkipoliitikot puhuvat siinä poikkeuksellisen rehellisesti.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "dokumentti",
           "politiikka",
@@ -14458,8 +14458,8 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Radiolab+Everybody%27s+Got+a+Genome+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Radiolab%20Everybody%27s%20Got%20a%20Genome",
-        "kuvaus": "Radiolab-podcastin kolmen jakson spesiaali, joka käsittelee X-kromosomia ja immuniteettiin liittyviä geenejä. Selittää muun muassa evoluutiobiologisin perustein, miksi naisilla on vahvempi immuniteetti kuin miehillä.",
-        "suosittelija": "Lari Malmberg",
+        "kuvaus": "Radiolab-podcastin kolmen jakson erikoissarja X-kromosomista ja immuniteettiin liittyvistä geeneistä. Tuomaksen mukaan se selittää evoluutiobiologisesti muun muassa, miksi naisilla on vahvempi immuniteetti kuin miehillä.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "tiede",
           "biologia",
