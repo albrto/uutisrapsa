@@ -26034,7 +26034,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Joona Aaltonen",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "High Life",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -26042,7 +26042,7 @@ window.VALIDATION_DATA = [
           "sci-fi",
           "art house"
         ],
-        "kuvaus": "Ranskalaisen ohjaajan Claire Denisin vuoden 2018 kosmisen kauhun elokuva, jossa elinkautisvangit tekevät tutkimuksia mustan aukon lähettyvillä. Robert Pattinsonin ja Juliette Binoche'n tähdittämä masentava mutta vaikuttava teos, joka jää vaivaamaan päiväkausiksi.",
+        "kuvaus": "Ranskalaisen ohjaajan Claire Denisin vuoden 2018 kosmisen kauhun elokuva, jossa elinkautisvangit tekevät tutkimuksia mustan aukon lähettyvillä. Tuomaksen mukaan Robert Pattinsonin ja Juliette Binochen tähdittämä elokuva on masentava mutta vaikuttava ja jää vaivaamaan päiväkausiksi.",
         "google_linkki": "https://www.google.com/search?q=High+Life+2018+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=High+Life+2018",
         "alkupera": "",
@@ -26054,7 +26054,7 @@ window.VALIDATION_DATA = [
         "r_idx": 3,
         "is_suspicious": false,
         "epailyn_syyt": [],
-        "suosittelija": "Joona Aaltonen",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Color Out of Space",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -26062,9 +26062,29 @@ window.VALIDATION_DATA = [
           "Lovecraft",
           "Nicolas Cage"
         ],
-        "kuvaus": "H.P. Lovecraftin tarinaan perustuva kosmisen kauhun elokuva, jossa Nicolas Cage kohtaa selittämättömän violetti-värisen uhan. Mainitaan kosmisen kauhun genren keskeisenä teoksena.",
+        "kuvaus": "H.P. Lovecraftin tarinaan perustuva kosmisen kauhun elokuva, jossa Nicolas Cage kohtaa selittämättömän violetin uhan. Tuomas nostaa sen genren keskeiseksi elokuvaksi heikkouksistaan huolimatta.",
         "google_linkki": "https://www.google.com/search?q=Color+Out+of+Space+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Color+Out+of+Space",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
+        "piilotettu": false
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Turkkilainen visiitti (Paavo Lipposen mielipidekirjoitus)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "mielipide",
+          "Nato"
+        ],
+        "kuvaus": "Entisen pääministerin Paavo Lipposen Demokraatti-lehden mielipidekirjoitus Turkin asemasta Suomen Nato-prosessissa. Joona suosittelee sitä kaikille, jotka kaipaavat suorasanaista poliittista tykittelyä ja keskusteltavaa.",
+        "google_linkki": "https://www.google.com/search?q=Paavo+Lipponen+Turkkilainen+visiitti+Demokraatti",
+        "lisatieto_linkki": "",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,

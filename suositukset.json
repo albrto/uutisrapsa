@@ -12720,8 +12720,8 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=High+Life+2018+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=High+Life+2018",
-        "kuvaus": "Ranskalaisen ohjaajan Claire Denisin vuoden 2018 kosmisen kauhun elokuva, jossa elinkautisvangit tekevät tutkimuksia mustan aukon lähettyvillä. Robert Pattinsonin ja Juliette Binoche'n tähdittämä masentava mutta vaikuttava teos, joka jää vaivaamaan päiväkausiksi.",
-        "suosittelija": "Joona Aaltonen",
+        "kuvaus": "Ranskalaisen ohjaajan Claire Denisin vuoden 2018 kosmisen kauhun elokuva, jossa elinkautisvangit tekevät tutkimuksia mustan aukon lähettyvillä. Tuomaksen mukaan Robert Pattinsonin ja Juliette Binochen tähdittämä elokuva on masentava mutta vaikuttava ja jää vaivaamaan päiväkausiksi.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "kosminen kauhu",
           "sci-fi",
@@ -12733,12 +12733,25 @@
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Color+Out+of+Space+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Color+Out+of+Space",
-        "kuvaus": "H.P. Lovecraftin tarinaan perustuva kosmisen kauhun elokuva, jossa Nicolas Cage kohtaa selittämättömän violetti-värisen uhan. Mainitaan kosmisen kauhun genren keskeisenä teoksena.",
-        "suosittelija": "Joona Aaltonen",
+        "kuvaus": "H.P. Lovecraftin tarinaan perustuva kosmisen kauhun elokuva, jossa Nicolas Cage kohtaa selittämättömän violetin uhan. Tuomas nostaa sen genren keskeiseksi elokuvaksi heikkouksistaan huolimatta.",
+        "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "kosminen kauhu",
           "Lovecraft",
           "Nicolas Cage"
+        ]
+      },
+      {
+        "teos": "Turkkilainen visiitti (Paavo Lipposen mielipidekirjoitus)",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Paavo+Lipponen+Turkkilainen+visiitti+Demokraatti",
+        "lisatieto_linkki": "",
+        "kuvaus": "Entisen pääministerin Paavo Lipposen Demokraatti-lehden mielipidekirjoitus Turkin asemasta Suomen Nato-prosessissa. Joona suosittelee sitä kaikille, jotka kaipaavat suorasanaista poliittista tykittelyä ja keskusteltavaa.",
+        "suosittelija": "Joona Aaltonen",
+        "kategoriat": [
+          "politiikka",
+          "mielipide",
+          "Nato"
         ]
       }
     ]
