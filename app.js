@@ -1179,6 +1179,7 @@ function renderCard(rec) {
 const LINKKIEN_NIMET = [
   ['goodreads.com', 'Goodreads'],
   ['imdb.com', 'IMDb'],
+  ['netflix.com', 'Netflix'],
   ['spotify.com', 'Spotify'],
   ['apple.com', 'Apple'],
   ['tidal.com', 'Tidal'],
