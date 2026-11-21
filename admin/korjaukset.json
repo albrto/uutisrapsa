@@ -7011,5 +7011,68 @@
       ]
     },
     "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1331124493",
+    "jakso_otsikko": "25.8.2022: Sanna Marin I, Sanna Marin II, muovi",
+    "paivamaara": "25.8.2022",
+    "r_idx": 1,
+    "teos": "Tuca & Bertie",
+    "uusi_data": {
+      "teos": "Tuca & Bertie",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=Tuca+%26+Bertie+animaatiosarja",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Tuca+and+Bertie",
+      "kuvaus": "Sairaan hauska animaatiosarja kahdesta kolmekymppisestä lintunaisesta, joka käsittelee työtä, parisuhdetta ja ystävyyttä. Sarja pelasti Alman kesäisen koronasairastumisen, ja HBO Maxilla on saatavilla useampi kausi.",
+      "suosittelija": "Alma Onali",
+      "kategoriat": [
+        "animaatio",
+        "komedia",
+        "naisystävyys"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1331124493",
+    "jakso_otsikko": "25.8.2022: Sanna Marin I, Sanna Marin II, muovi",
+    "paivamaara": "25.8.2022",
+    "r_idx": 2,
+    "teos": "PS Tykitellään",
+    "uusi_data": {
+      "teos": "PS Tykitellään",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=PS+Tykitell%C3%A4%C3%A4n+podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/PS%20Tykitell%C3%A4%C3%A4n",
+      "kuvaus": "Analyyttinen ja ajankohtainen popmusiikkipodcast, jota vetävät Oskari Onninen ja Niko Vartiainen. Alman mukaan se innostaa kuuntelemaan uutta musiikkia ja irrottautumaan uutisvirrasta.",
+      "suosittelija": "Alma Onali",
+      "kategoriat": [
+        "musiikki",
+        "popmusiikki",
+        "analyysi"
+      ]
+    },
+    "lahde": "tarkistus"
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/1331124493",
+    "jakso_otsikko": "25.8.2022: Sanna Marin I, Sanna Marin II, muovi",
+    "paivamaara": "25.8.2022",
+    "r_idx": 3,
+    "teos": "Have You Heard George's Podcast?",
+    "uusi_data": {
+      "teos": "Have You Heard George's Podcast?",
+      "paakategoria": "podcast",
+      "google_linkki": "https://www.google.com/search?q=Have+You+Heard+George%27s+Podcast",
+      "lisatieto_linkki": "https://open.spotify.com/search/Have%20You%20Heard%20George%27s%20Podcast",
+      "kuvaus": "BBC:n podcast, jossa brittiläinen räppäri ja runoilija George the Poet käsittelee yhteiskunnan tasa-arvoa ja mustien brittien elämää poikkeuksellisen taiteellisesti yhdistäen puheen, riimit ja musiikin.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "yhteiskunta",
+        "runous",
+        "rap"
+      ]
+    },
+    "lahde": "tarkistus"
   }
 ]

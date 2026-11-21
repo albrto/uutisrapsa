@@ -4240,5 +4240,35 @@
     },
     "aika": "2026-11-21T07:58:49",
     "viety": "2026-11-21T07:58:49"
+  },
+  "tag:soundcloud,2010:tracks/1331124493::suosittelija::1": {
+    "paatos": "hyvaksytty",
+    "r_idx": 1,
+    "data": {
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Sairaan hauska animaatiosarja kahdesta kolmekymppisestä lintunaisesta, joka käsittelee työtä, parisuhdetta ja ystävyyttä. Sarja pelasti Alman kesäisen koronasairastumisen, ja HBO Maxilla on saatavilla useampi kausi."
+    },
+    "aika": "2026-11-21T08:01:30",
+    "viety": "2026-11-21T08:01:30"
+  },
+  "tag:soundcloud,2010:tracks/1331124493::suosittelija::2": {
+    "paatos": "hyvaksytty",
+    "r_idx": 2,
+    "data": {
+      "suosittelija": "Alma Onali",
+      "kuvaus": "Analyyttinen ja ajankohtainen popmusiikkipodcast, jota vetävät Oskari Onninen ja Niko Vartiainen. Alman mukaan se innostaa kuuntelemaan uutta musiikkia ja irrottautumaan uutisvirrasta."
+    },
+    "aika": "2026-11-21T08:01:30",
+    "viety": "2026-11-21T08:01:30"
+  },
+  "tag:soundcloud,2010:tracks/1331124493::suosittelija::3": {
+    "paatos": "hyvaksytty",
+    "r_idx": 3,
+    "data": {
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "BBC:n podcast, jossa brittiläinen räppäri ja runoilija George the Poet käsittelee yhteiskunnan tasa-arvoa ja mustien brittien elämää poikkeuksellisen taiteellisesti yhdistäen puheen, riimit ja musiikin."
+    },
+    "aika": "2026-11-21T08:01:30",
+    "viety": "2026-11-21T08:01:30"
   }
 }
