@@ -33,6 +33,10 @@ TUNNETUT_NIMET = [
     "Petja Pelli", "Suvi Turtiainen",
     "Pihla Saravirta", "Topi Kosunen", "Susanna Reinboth",
     "Elina Väntönen",
+    # Vieraat, jotka ovat jakson RSS-osallistujissa (tarkistettu RSS-kuvauksista 23.11.2026)
+    "Jaakko Muilu", "Pauliina Siniauer", "Sami Sillanpää",
+    "Anu-Elina Lehti", "Annikka Mutanen", "Jussi Pullinen",
+    "Veli-Pekka Lehtonen", "Veera Paananen", "Satu Vasantola",
 ]
 
 ETUNIMI_KARTTA = {
