@@ -38,7 +38,7 @@
         "kuvaus": "Tuomas suosittelee TikTok-tiliä, jota pitää pyörällä maailmaa kiertävä henkilö – tällä hetkellä Kirgisiassa – ja jonka lämminhenkiset videot ihmisistä ja kulkukoirista ('koiraa päivän kunniaksi') nostavat välittömästi mielialaa.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "tiktok",
+          "TikTok",
           "matkailu",
           "sosiaalinen media"
         ]
@@ -96,7 +96,7 @@
         "kuvaus": "Tuomas suosittelee brittiläistä YouTube-tubettajaa, joka tutkii arkipäiväisiä kummallisuuksia – kuten sitä, miksi pullonkorkit eivät enää irtoa – perinpohjaisesti ja miellyttävällä tavalla.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "populaaritiede"
         ]
       }
@@ -281,7 +281,7 @@
         "kategoriat": [
           "talous",
           "tietokirjallisuus",
-          "yhdysvallat"
+          "Yhdysvallat"
         ]
       },
       {
@@ -605,7 +605,7 @@
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "elämäkerta"
         ]
       },
@@ -633,7 +633,7 @@
         "kuvaus": "Uutisrapsan entisen käsikirjoittajan, stand up -koomikko Jonne Rannan podcast, jossa Peltomäki kävi puhumassa Menetetyistä miljardeista - hyvin vapaamuotoinen ja hauska podcast.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "stand up",
+          "stand-up",
           "keskustelu"
         ],
         "alkupera": "kotimainen"
@@ -856,7 +856,7 @@
         "kuvaus": "Tuomas Peltomäki vaihtoi House of the Dragon -jaksokeskustelunsa Alt Shift X -tubettajan jaksoanalyyseihin. Kauden finaalin analyysi kesti viisi ja puoli tuntia – Peltomäen mukaan kannattaa ehdottomasti kuunnella.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "fantasia",
           "jaksoanalyysi"
         ]
@@ -1209,7 +1209,7 @@
         "kuvaus": "Leonardo DiCaprio ja Jennifer Lawrence esittävät tutkijoita, jotka yrittävät varoittaa maailmaa lähestyvästä asteroidista, mutta kukaan ei usko heitä. Elokuva toimii vertauskuvana ilmastonmuutokselle.",
         "suosittelija": "Pihla Saravirta",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "komedia",
           "ilmastonmuutos"
         ],
@@ -1341,7 +1341,7 @@
         "kuvaus": "Käpylässä sijaitseva stand up -klubi, jossa esiintyy Suomen eturivin koomikkoja harjoittelemassa uutta materiaalia. Pieni ja intiimi tila, jossa mm. Jukka Lindström on esiintynyt.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
-          "stand up",
+          "stand-up",
           "komedia",
           "Helsinki"
         ]
@@ -1458,7 +1458,7 @@
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "sketsikomedia",
-          "instagram",
+          "Instagram",
           "huumori"
         ]
       },
@@ -1471,7 +1471,7 @@
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "sketsikomedia",
-          "instagram",
+          "Instagram",
           "huumori"
         ]
       },
@@ -1515,7 +1515,7 @@
         "kuvaus": "Georgialainen perinteinen herkku, jossa pähkinät pujotetaan langalle ja upotetaan viinirypälemehusta ja jauhoista tehtyyn seokseen, joka jähmettyy pötkylämäiseksi makeiseksi. Vegaaninen ja sokeriton; Jussi toi niitä Georgiasta tuliaisiksi.",
         "suosittelija": "Jussi Niemeläinen",
         "kategoriat": [
-          "georgia",
+          "Georgia",
           "vegaaninen",
           "matkatuliaiset"
         ]
@@ -2460,7 +2460,7 @@
         "kategoriat": [
           "rikos",
           "komedia",
-          "amerikka"
+          "Amerikka"
         ]
       },
       {
@@ -3092,7 +3092,7 @@
         "kuvaus": "Tuomas kehuu yleisten kirjastojen yhteistä E-kirjastoa, josta saa e- ja äänikirjoja ilmaiseksi kaikille suomalaisille. Hänen perheensä on käyttänyt sitä tauon ajan maksullisista äänikirjapalveluista.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "äänikirjat",
+          "äänikirja",
           "kirjasto"
         ]
       }
@@ -3347,7 +3347,7 @@
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "kirjastopalvelu",
-          "äänikirjat",
+          "äänikirja",
           "sovellus"
         ]
       },
@@ -3501,7 +3501,7 @@
         "kategoriat": [
           "vakoilu",
           "brittiläinen",
-          "thrilleri"
+          "trilleri"
         ]
       }
     ]
@@ -4251,7 +4251,7 @@
         "suosittelija": "John Helin",
         "kategoriat": [
           "jäätelö",
-          "helsinki",
+          "Helsinki",
           "kesä"
         ]
       },
@@ -4264,7 +4264,7 @@
         "suosittelija": "John Helin",
         "kategoriat": [
           "luontokohde",
-          "helsinki",
+          "Helsinki",
           "näköalapaikka"
         ]
       },
@@ -4303,7 +4303,7 @@
         "suosittelija": "Rasmus Helaniemi",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "maailmanpolitiikka"
         ],
         "alkupera": "ulkomainen"
@@ -4655,7 +4655,7 @@
         "kategoriat": [
           "chick lit",
           "ihmissuhteet",
-          "new york"
+          "New York"
         ]
       }
     ]
@@ -4836,7 +4836,7 @@
         "kuvaus": "Filosofinen sci-fi-sarja, jossa työntekijöiden aivot on sirutettu erottamaan työ- ja yksityisminä täysin toisistaan. Toinen kausi syventää kysymyksiä identiteetistä, rakkaudesta ja siitä, missä ihminen alkaa ja päättyy.",
         "suosittelija": "Anni Huttunen",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "filosofia",
           "työelämä"
         ]
@@ -5287,7 +5287,7 @@
         "kategoriat": [
           "rugby",
           "baari",
-          "live-urheilu"
+          "liveurheilu"
         ]
       }
     ]
@@ -5377,7 +5377,7 @@
         "kuvaus": "Apple TV+:n fantastinen mystinen jännärisarja, jossa työntekijät voivat erottaa työ- ja vapaa-ajan minänsä aivoihin asennettavan laitteen avulla. Tuomas kehui jo ensimmäistä kautta ja pitää toista kautta teknisesti, visuaalisesti ja tarinankerronnallisesti huippuluokkana.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "Apple TV+",
           "työelämä"
         ]
@@ -5430,7 +5430,7 @@
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "politiikka",
-          "amerikka",
+          "Amerikka",
           "uutisanalyysi"
         ],
         "alkupera": "ulkomainen"
@@ -5604,7 +5604,7 @@
         "kuvaus": "Apple TV+ -sarjassa päähenkilö on käynyt läpi aivoleikkauksen, jossa hänen työminänsä ja vapaa-ajan minänsä on kirurgisesti erotettu toisistaan. Mystinen, jännittävä ja monitasoinen sarja.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "dystopia",
           "psykologinen"
         ]
@@ -5712,7 +5712,7 @@
         "kategoriat": [
           "dekkari",
           "oikeusthrilleri",
-          "amerikkalainenkirjallisuus"
+          "amerikkalainen kirjallisuus"
         ]
       },
       {
@@ -5724,7 +5724,7 @@
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "dokumentti",
-          "amerikkalainenkulttuuri",
+          "amerikkalainen kulttuuri",
           "mediahistoria"
         ]
       },
@@ -5796,7 +5796,7 @@
         "kuvaus": "Walesilaiseen hotelli Lioniin liittyvä TikTok-kanava, jossa hotellivieraat kilpailevat tietovisan kysymyksistä. Hauska ja aito – osallistujat ovat täysin tavallisia walesilaisisia.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "tiktok",
+          "TikTok",
           "viihde",
           "visailu"
         ]
@@ -5908,7 +5908,7 @@
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "suomalainen draama",
-          "poliittinen jännäri",
+          "poliittinen jännitys",
           "puolustusvoimat"
         ]
       },
@@ -6015,7 +6015,7 @@
         "kategoriat": [
           "musiikkijournalismi",
           "queer-kulttuuri",
-          "pop-musiikki"
+          "popmusiikki"
         ]
       },
       {
@@ -6026,7 +6026,7 @@
         "kuvaus": "Uusi Dyyni-maailmaan sijoittuva tv-sarja, jonka ensimmäinen jakso vakuutti Markon. Hänen suhteensa Dyyni-universumiin on kahtalainen, mutta sarja vaikuttaa lupaavalta.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "fantasia",
           "kirjasovitus"
         ]
@@ -6237,7 +6237,7 @@
         "kategoriat": [
           "kuvitus",
           "kirjamessut",
-          "poliittinen satire"
+          "poliittinen satiiri"
         ]
       }
     ]
@@ -6698,7 +6698,7 @@
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "konsertti",
-          "pop-musiikki",
+          "popmusiikki",
           "live-esitys"
         ]
       },
@@ -6824,7 +6824,7 @@
         "suosittelija": "Joona Aaltonen",
         "kategoriat": [
           "omaelämäkerrallinen",
-          "ranskalaiskirjallisuus",
+          "ranskalainen kirjallisuus",
           "yhteiskunta"
         ]
       }
@@ -6856,7 +6856,7 @@
         "kuvaus": "Lionsgate Soundin podcast vuosikymmeniä kestäneestä uskomattomasta huijaustarinasta. Heinin mukaan kahdeksaa noin tunnin mittaista jaksoa kuuntelee suu auki.",
         "suosittelija": "Heini Pitkänen",
         "kategoriat": [
-          "tosi-tarina",
+          "tositarina",
           "huijaus",
           "suomalainen podcast"
         ],
@@ -7119,7 +7119,7 @@
         "kuvaus": "YouTubevideoija SlimeSiclen tekemä kymmenen tunnin tiivistetty läpipeluuvideo Elden Ringistä. Hyvä vaihtoehto niille, joita kiinnostaa Martinin fantasiamaailma mutta ei itse pelaaminen.",
         "suosittelija": "Oskari Eronen",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "videopeli",
           "fantasia"
         ]
@@ -7179,7 +7179,7 @@
         "suosittelija": "Joona Aaltonen",
         "kategoriat": [
           "omaelämäkerta",
-          "tanskalaiskirjallisuus",
+          "tanskalainen kirjallisuus",
           "klassikko"
         ]
       },
@@ -7226,7 +7226,7 @@
         "kategoriat": [
           "rikospodcast",
           "tutkiva journalismi",
-          "tosi tarina"
+          "tositarina"
         ],
         "alkupera": "ulkomainen"
       },
@@ -7238,7 +7238,7 @@
         "kuvaus": "Rasmus suosittelee YouTube-matkailusarjaa, jossa porukka kiertää eri maanosia ja suorittaa matkan varrella haasteita. Tuotantoarvot ovat Netflix-sarjan tasoa, ja aloittaa kannattaa esimerkiksi jostain Eurooppa-kaudesta.",
         "suosittelija": "Rasmus Helaniemi",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "matkailu",
           "reality"
         ]
@@ -7490,7 +7490,7 @@
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "pesäpallo",
-          "live-urheilu",
+          "liveurheilu",
           "kesä"
         ]
       }
@@ -7737,7 +7737,7 @@
         "kategoriat": [
           "dokumentti",
           "jalkapallo",
-          "90-luku"
+          "1990-luku"
         ]
       },
       {
@@ -8421,7 +8421,7 @@
         "kuvaus": "Pekka Viljasen ja Eeva-Liisa Hynysen kirjoittama teos, joka kertoo Kittilän kuntaskandaalista ja siitä, miten virkarikoksiin liittyvät asiat etenivät oikeusjärjestelmässä. Ilmainen julkaisu Kunnallisalan kehittämissäätiöltä.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
-          "oikeusvaltion",
+          "oikeusvaltio",
           "tietokirja",
           "suomalainen politiikka"
         ]
@@ -8586,7 +8586,7 @@
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
           "ambient",
-          "netflix",
+          "Netflix",
           "tunnelma"
         ]
       },
@@ -8717,7 +8717,7 @@
         "kategoriat": [
           "politiikka",
           "media",
-          "yhdysvallat"
+          "Yhdysvallat"
         ]
       },
       {
@@ -8729,7 +8729,7 @@
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "elämäkerta"
         ]
       },
@@ -9489,7 +9489,7 @@
         "kuvaus": "Disney+:n Star Wars -sarja, jonka ensimmäinen jakso vaikutti lupaavalta. Suositellaan erityisesti Tähtien sota -saagan ystäville.",
         "suosittelija": "Joona Aaltonen",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "Star Wars",
           "Disney+"
         ]
@@ -9723,9 +9723,9 @@
         "kuvaus": "Meksikolaisen nykykirjailijan Fernanda Melchorin romaani, joka tarjoaa kiinnostavan katsauksen meksikolaisen nykymaailman ongelmiin. Suositellaan osana strategiaa laajentaa kirjallisuuden lukemista eri alueilta.",
         "suosittelija": "Joona Aaltonen",
         "kategoriat": [
-          "latinalainen amerikka",
+          "latinalainen Amerikka",
           "nykykirjallisuus",
-          "meksiko"
+          "Meksiko"
         ]
       },
       {
@@ -9738,7 +9738,7 @@
         "kategoriat": [
           "runous",
           "spoken word",
-          "youtube"
+          "YouTube"
         ]
       },
       {
@@ -9819,7 +9819,7 @@
         "kuvaus": "Ranskalainen elokuva vuodelta 1995, joka käsittelee poliisiväkivallan teemoja Pariisin lähiöissä. Vincent Cassel pääosassa, ohjaajana Mathieu Kassovitz.",
         "suosittelija": "Joakim Westrén-Doll",
         "kategoriat": [
-          "ranska",
+          "Ranska",
           "yhteiskunta",
           "klassikko"
         ]
@@ -9937,7 +9937,7 @@
         "kategoriat": [
           "jännitys",
           "ruotsalainen kirjallisuus",
-          "thriller"
+          "trilleri"
         ]
       },
       {
@@ -10089,7 +10089,7 @@
         "kategoriat": [
           "cover",
           "akustinen",
-          "70-luku"
+          "1970-luku"
         ]
       },
       {
@@ -10316,7 +10316,7 @@
         "kategoriat": [
           "musiikki",
           "televisio",
-          "euroviisut"
+          "Euroviisut"
         ]
       },
       {
@@ -10420,7 +10420,7 @@
         "kuvaus": "Helsingin Sanomien live-journalismi-esitys, joka kiertää myös maakunnissa. Marko Junkkarin mukaan aina päräyttävä kokemus.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
-          "live-journalismi",
+          "livejournalismi",
           "teatteri",
           "tapahtuma"
         ]
@@ -11621,9 +11621,9 @@
         "kuvaus": "Anni Keski-Heikki suosittelee Korean kielen opiskelua työväenopistossa. Korealaiset aakkoset ovat yllättävän helppo opetella, koska ne perustuvat äänteisiin.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
-          "kielenopiskelu",
+          "kieltenopiskelu",
           "harrastus",
-          "korea"
+          "Korea"
         ]
       }
     ]
@@ -12623,7 +12623,7 @@
         "suosittelija": "Inkeri Harju",
         "kategoriat": [
           "tiede",
-          "yle areena",
+          "Yle Areena",
           "oppiminen"
         ],
         "alkupera": "yle"
@@ -12651,7 +12651,7 @@
         "kategoriat": [
           "kieltenopiskelu",
           "sovellus",
-          "korea"
+          "Korea"
         ]
       }
     ]
@@ -12702,7 +12702,7 @@
         "kuvaus": "Marko kertoo katsovansa poikansa kanssa uutta Tähtien sota -sarjaa Obi-Wan Kenobista ja pitää sitä ihastuttavana, vaikka myöntää juonen olevan epälooginen – aivan kuten alkuperäisissäkin elokuvissa.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "Tähtien sota",
           "Disney+"
         ]
@@ -12729,7 +12729,7 @@
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "kosminen kauhu",
-          "sci-fi",
+          "scifi",
           "art house"
         ]
       },
@@ -12913,7 +12913,7 @@
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "oikeusdraaama",
-          "thriller",
+          "trilleri",
           "Netflix"
         ]
       },
@@ -13665,7 +13665,7 @@
         "kuvaus": "Ruotsalainen nordic noir -dekkari, jossa yhdistyvät Syyrian Isis-taistelijoiksi lähteneet nuoret, lähiöongelmat ja venäläinen vaikuttaminen. Kirjailija Joakim Zander on itse työskennellyt EU-parlamentissa.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
-          "dekkarit",
+          "dekkari",
           "nordic noir",
           "poliittinen jännitys"
         ]
@@ -13692,7 +13692,7 @@
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "journalismi"
         ],
         "alkupera": "ulkomainen",
@@ -13710,7 +13710,7 @@
         "kategoriat": [
           "tutkiva journalismi",
           "islam",
-          "britannia"
+          "Britannia"
         ],
         "alkupera": "ulkomainen"
       }
@@ -13987,7 +13987,7 @@
         "kategoriat": [
           "satiiri",
           "komedia",
-          "sci-fi"
+          "scifi"
         ]
       },
       {
@@ -14293,7 +14293,7 @@
         "kategoriat": [
           "politiikka",
           "konservatiivismi",
-          "yhdysvallat"
+          "Yhdysvallat"
         ],
         "alkupera": "ulkomainen"
       },
@@ -14320,7 +14320,7 @@
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "demokratia"
         ],
         "alkupera": "ulkomainen"
@@ -14579,7 +14579,7 @@
         "kuvaus": "Netflixin kaikkien aikojen katsotuin sarja, korealainen selviytymistrillerinen draama. Hyytävä tarina käsittelee ihmisen moraalia, laumakäyttäytymistä ja peliriippuvuutta – samalla kun se on viihdyttävää Battle Royale -henkistä katsottavaa.",
         "suosittelija": "Alma Onali",
         "kategoriat": [
-          "korea",
+          "Korea",
           "selviytymisthrilleri",
           "Netflix"
         ]
@@ -14601,7 +14601,7 @@
         "kategoriat": [
           "jalkapallo",
           "fanikulttuuri",
-          "live-urheilu"
+          "liveurheilu"
         ]
       },
       {
@@ -14921,7 +14921,7 @@
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "kulttuurisota"
         ]
       },
@@ -14966,7 +14966,7 @@
         "kuvaus": "Bong Joon-hon vuoden 2003 eteläkorealainen rikosdraamaelokuva, joka on katsottavissa C Morella. Suosittelija kehuu eteläkorealaisia elokuvia yleisesti lämpimästi.",
         "suosittelija": "Alma Onali",
         "kategoriat": [
-          "rikosdraaama",
+          "rikosdraama",
           "eteläkorealainen elokuva",
           "jännitys"
         ]
@@ -15334,7 +15334,7 @@
         "suosittelija": "Maria Manner",
         "kategoriat": [
           "etnisyys",
-          "yhdysvallat",
+          "Yhdysvallat",
           "tutkiva journalismi"
         ]
       },
@@ -15361,7 +15361,7 @@
         "kategoriat": [
           "jalkapallo",
           "poliittinen historia",
-          "neuvostoliitto"
+          "Neuvostoliitto"
         ]
       },
       {
@@ -15373,7 +15373,7 @@
         "suosittelija": "Tommi Nieminen",
         "kategoriat": [
           "jalkapallo",
-          "suomi",
+          "Suomi",
           "urheiluhistoria"
         ]
       },
@@ -15529,7 +15529,7 @@
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "dekkari",
-          "thrilleri",
+          "trilleri",
           "norjalainen kirjallisuus"
         ]
       },
@@ -15628,7 +15628,7 @@
         "kategoriat": [
           "dekkari",
           "urheilu",
-          "amerikka"
+          "Amerikka"
         ]
       },
       {
@@ -15640,7 +15640,7 @@
         "suosittelija": "Teemu Muhonen",
         "kategoriat": [
           "poliisisarja",
-          "thrilleri",
+          "trilleri",
           "brittiläinen"
         ]
       },
@@ -15653,7 +15653,7 @@
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "supersankari",
-          "netflix",
+          "Netflix",
           "fantasia"
         ]
       },
@@ -15688,7 +15688,7 @@
         "kategoriat": [
           "rikostarina",
           "dokumentaari",
-          "amerikka"
+          "Amerikka"
         ],
         "alkupera": "ulkomainen"
       },
@@ -15722,7 +15722,7 @@
         "kategoriat": [
           "journalismi",
           "true crime",
-          "yhdysvallat"
+          "Yhdysvallat"
         ]
       },
       {
@@ -15735,7 +15735,7 @@
         "kategoriat": [
           "museo",
           "historia",
-          "suomi"
+          "Suomi"
         ]
       }
     ]
@@ -15814,7 +15814,7 @@
         "kategoriat": [
           "rikossarja",
           "psykologia",
-          "tosi tapahtumat"
+          "tositapahtumat"
         ]
       },
       {
@@ -16042,7 +16042,7 @@
         "kategoriat": [
           "sarjakuva",
           "huumori",
-          "instagram"
+          "Instagram"
         ]
       },
       {
@@ -16147,7 +16147,7 @@
         "kategoriat": [
           "elämäkerta",
           "politiikka",
-          "suomi"
+          "Suomi"
         ]
       }
     ]
@@ -17065,7 +17065,7 @@
         "kuvaus": "Charlie Kaufmanin ohjaama psykedeelinen taide-elokuva Netflixissä. Kertoo pariskunnasta, joka ajaa lumimyrskyssä tapaamaan miehen vanhempia – tunnelmallinen, karmiva ja syvällinen kokemus.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "taidepelokuva",
+          "taide-elokuva",
           "psykologinen",
           "Netflix"
         ]
@@ -17134,7 +17134,7 @@
         "kategoriat": [
           "tietokirja",
           "journalismi",
-          "metoo"
+          "MeToo"
         ]
       },
       {
@@ -17232,7 +17232,7 @@
         "suosittelija": "Iida Sofia Hirvonen",
         "kategoriat": [
           "anime",
-          "sci-fi",
+          "scifi",
           "japanilainen elokuva"
         ]
       },
@@ -17463,7 +17463,7 @@
         "kategoriat": [
           "oikeudenkäynti",
           "ympäristö",
-          "tosi tarina"
+          "tositarina"
         ]
       },
       {
@@ -18099,7 +18099,7 @@
         "kategoriat": [
           "media",
           "journalismi",
-          "yhdysvallat"
+          "Yhdysvallat"
         ]
       },
       {
@@ -18112,7 +18112,7 @@
         "kategoriat": [
           "vanhemmuus",
           "lastenpsykologia",
-          "yhdysvallat"
+          "Yhdysvallat"
         ]
       },
       {
@@ -18125,7 +18125,7 @@
         "kategoriat": [
           "dokumentti",
           "true crime",
-          "netflix"
+          "Netflix"
         ]
       },
       {
@@ -18426,7 +18426,7 @@
         "kategoriat": [
           "draama",
           "rikosjännitys",
-          "spinoff"
+          "spin-off"
         ]
       },
       {
@@ -18629,7 +18629,7 @@
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "tietokirja"
         ]
       },
@@ -19148,7 +19148,7 @@
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "tutkiva journalismi",
-          "metoo",
+          "MeToo",
           "tietokirja"
         ]
       },
@@ -19268,7 +19268,7 @@
         "kategoriat": [
           "komedia",
           "historia",
-          "poliittinen satiiiri"
+          "poliittinen satiiri"
         ]
       },
       {
@@ -19877,7 +19877,7 @@
         "kategoriat": [
           "true crime",
           "murha",
-          "amerikka"
+          "Amerikka"
         ],
         "alkupera": "ulkomainen"
       }
@@ -21598,7 +21598,7 @@
         "kuvaus": "Anna-Sofia Berner suosittelee katsomaan ainakin seitsemänteen jaksoon asti, jolloin tulee iso käänne. Tuomas myöntää vihdoin hyväksyvänsä sarjan.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "draama",
           "trilleri"
         ]
@@ -21723,7 +21723,7 @@
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "analyysi"
         ],
         "alkupera": "ulkomainen"
@@ -22027,9 +22027,9 @@
         "kuvaus": "Netflixin kahdeksanosainen minisarja, joka sijoittuu 1980-luvun amerikkalaiseen pikkukaupunkiin. Neljä nuorta poikaa, joista yksi katoaa – sekoitus nostalgiaa, kauhua ja 80-luvun syntetisaattorimusiikkia.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "kauhu",
-          "80-luku"
+          "1980-luku"
         ]
       },
       {
