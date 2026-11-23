@@ -789,7 +789,7 @@
         ]
       },
       {
-        "teos": "Odysseus",
+        "teos": "The Odyssey (elokuva)",
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Odyssey+Christopher+Nolan+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Odyssey+Christopher+Nolan",
@@ -1379,7 +1379,7 @@
     "paivamaara": "11.6.2026",
     "suositukset": [
       {
-        "teos": "Lapsuus / Nuoruus / Aikuisuus (trilogia)",
+        "teos": "Kööpenhamina-trilogia (Lapsuus / Nuoruus / Aikuisuus)",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Tove+Ditlevsen+trilogia+suomi",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+trilogia",
@@ -1739,7 +1739,7 @@
     "paivamaara": "23.4.2026",
     "suositukset": [
       {
-        "teos": "Last One Laughing (brittiläiset kaudet)",
+        "teos": "LOL: Last One Laughing UK (brittiläiset kaudet)",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Last+One+Laughing",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing",
@@ -1798,7 +1798,7 @@
     "paivamaara": "16.4.2026",
     "suositukset": [
       {
-        "teos": "Last One Laughing (japanilainen formaatti)",
+        "teos": "LOL: Last One Laughing UK",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Last+One+Laughing",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing",
@@ -2261,7 +2261,7 @@
     "paivamaara": "19.2.2026",
     "suositukset": [
       {
-        "teos": "Kyllä, herra ministeri / Kyllä, herra pääministeri",
+        "teos": "Kyllä, herra ministeri (ja jatko-osa Kyllä, herra pääministeri)",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Kyll%C3%A4+herra+ministeri+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Yes+Minister+Yes+Prime+Minister",
@@ -2965,11 +2965,11 @@
         ]
       },
       {
-        "teos": "Paavo Teittisen Finlandia-palkittu kirja",
+        "teos": "Pitkä vuoro",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Paavo+Teittinen+Finlandia+tietokirja+2025",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Paavo+Teittinen",
-        "kuvaus": "Paavo Teittisen tietokirja, joka voitti vuoden 2025 tietokirjallisuuden Finlandia-palkinnon.",
+        "google_linkki": "https://www.google.com/search?q=Pitk%C3%A4+vuoro+Paavo+Teittinen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Pitk%C3%A4+vuoro+Paavo+Teittinen",
+        "kuvaus": "Paavo Teittisen tietokirja ulkomaisen työvoiman riistosta, joka voitti vuoden 2025 tietokirjallisuuden Finlandia-palkinnon.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "tietokirja",
@@ -2977,10 +2977,10 @@
         ]
       },
       {
-        "teos": "Monika Fagerholmin Finlandia-palkittu romaani",
+        "teos": "Eristystila / Kapinoivia naisia",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Monika+Fagerholm+Finlandia+2025",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Monika+Fagerholm",
+        "google_linkki": "https://www.google.com/search?q=Eristystila+Kapinoivia+naisia+Monika+Fagerholm",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Eristystila+Kapinoivia+naisia+Fagerholm",
         "kuvaus": "Monika Fagerholmin romaani, joka voitti vuoden 2025 kaunokirjallisuuden Finlandia-palkinnon.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
@@ -2989,10 +2989,10 @@
         ]
       },
       {
-        "teos": "Tomi Kontion Lasten Finlandia -palkittu kirja",
+        "teos": "Koira nimeltään Kissa hyvästelee ystävän",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Tomi+Kontio+Lasten+Finlandia+2025",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tomi+Kontio",
+        "google_linkki": "https://www.google.com/search?q=Koira+nimelt%C3%A4%C3%A4n+Kissa+hyv%C3%A4stelee+yst%C3%A4v%C3%A4n+Tomi+Kontio",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Koira+nimelt%C3%A4%C3%A4n+Kissa+hyv%C3%A4stelee+yst%C3%A4v%C3%A4n",
         "kuvaus": "Tomi Kontion lastenkirja, joka voitti vuoden 2025 Lasten Finlandia -palkinnon.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
@@ -3478,11 +3478,11 @@
         "alkupera": "ulkomainen"
       },
       {
-        "teos": "Murenevan maa (Ida Tikka)",
+        "teos": "Mureneva maa (podcast)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Murenevan+maa+Ida+Tikka+Yle+Areena",
         "lisatieto_linkki": "https://areena.yle.fi/hae?q=Mureneva%20maa&service=radio",
-        "kuvaus": "Ida Tikan podcast-sarja Yle Areenassa Yhdysvaltain poliittisesta tilanteesta ja sen taustalla vaikuttavista voimista. Nyt ilmestynyt toinen kausi käsittelee Trumpin paluuta valtaan.",
+        "kuvaus": "Iida Tikan podcast-sarja Yle Areenassa Yhdysvaltain poliittisesta tilanteesta ja sen taustalla vaikuttavista voimista. Nyt ilmestynyt toinen kausi käsittelee Trumpin paluuta valtaan.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "politiikka",
@@ -3709,7 +3709,7 @@
     "paivamaara": "28.8.2025",
     "suositukset": [
       {
-        "teos": "The Darkest Hour",
+        "teos": "Synkin hetki (The Darkest Hour)",
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=The+Darkest+Hour+2017+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Darkest+Hour+2017",
@@ -4620,7 +4620,7 @@
     "paivamaara": "12.6.2025",
     "suositukset": [
       {
-        "teos": "Paluu Lempbergiin (East West Street)",
+        "teos": "East West Street (Paluu Lembergiin)",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Paluu+Lempbergiin+Philippe+Sands",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=East+West+Street+Philippe+Sands",
@@ -4875,7 +4875,7 @@
     "paivamaara": "8.5.2025",
     "suositukset": [
       {
-        "teos": "Sinun Margot",
+        "teos": "Sinun, Margot",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Sinun+Margot+Meri+Valkama",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinun+Margot+Meri+Valkama",
@@ -4888,7 +4888,7 @@
         ]
       },
       {
-        "teos": "Sinun Margot (näytelmä, Helsingin Kaupunginteatteri)",
+        "teos": "Sinun, Margot (näytelmä, Helsingin Kaupunginteatteri)",
         "paakategoria": "kulttuuri",
         "google_linkki": "https://www.google.com/search?q=Sinun+Margot+Helsingin+Kaupunginteatteri",
         "lisatieto_linkki": "https://www.google.com/search?q=Sinun+Margot+Helsingin+Kaupunginteatteri",
@@ -7007,7 +7007,7 @@
         "alkupera": "ulkomainen"
       },
       {
-        "teos": "Hymni rakkaudelle – Céline Dionin esitys Pariisin olympialaisten avajaisissa",
+        "teos": "Céline Dion – Hymni rakkaudelle Pariisin olympialaisten avajaisissa",
         "paakategoria": "musiikki",
         "google_linkki": "https://www.google.com/search?q=Celine+Dion+Olympics+Hymne+%C3%A0+l%27amour",
         "lisatieto_linkki": "https://www.youtube.com/results?search_query=Olympics+Celine+Dion+Hymne+a+l+amour",
@@ -7482,7 +7482,7 @@
         ]
       },
       {
-        "teos": "Superpesis-ottelut",
+        "teos": "Superpesis – ottelut paikan päällä",
         "paakategoria": "urheilu",
         "google_linkki": "https://www.google.com/search?q=Superpesis+otteluohjelma+2024",
         "lisatieto_linkki": "https://www.google.com/search?q=Superpesis+otteluohjelma+2024",
@@ -7599,10 +7599,10 @@
     "paivamaara": "8.5.2024",
     "suositukset": [
       {
-        "teos": "Greatest Nights in Pop (dokumentti)",
+        "teos": "The Greatest Night in Pop (dokumentti)",
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Greatest+Nights+in+Pop+dokumentti+Netflix",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Greatest+Nights+in+Pop",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Greatest+Night+in+Pop",
         "kuvaus": "Netflix-dokumentti We Are the World -biisin tekemisestä. Biisi nauhoitettiin yhdessä yössä palkintogaalan jälkeen, kun kaikki supertähdet koottiin yhteen paikkaan.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
@@ -9961,11 +9961,11 @@
     "paivamaara": "8.6.2023",
     "suositukset": [
       {
-        "teos": "Putinin sisäpiiri",
+        "teos": "Putinin sisäpiirissä",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Putinin+sis%C3%A4piiri+Katharine+Belton",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Putin%27s+People+Katharine+Belton",
-        "kuvaus": "Brittitoimittaja Katharine Beltonin kirja siitä, miten Putinin ympärille rakentui vallan väärinkäyttäjien ja oligarkkien verkosto ja miten kansan rahat kupattiin muihin taskuihin. Kirjassa käsitellään myös Suomea ja kenraali Timtšenkon toimintaa.",
+        "kuvaus": "Brittitoimittaja Catherine Beltonin kirja siitä, miten Putinin ympärille rakentui vallan väärinkäyttäjien ja oligarkkien verkosto ja miten kansan rahat kupattiin muihin taskuihin. Kirjassa käsitellään myös Suomea ja kenraali Timtšenkon toimintaa.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "politiikka",
@@ -10212,7 +10212,7 @@
         ]
       },
       {
-        "teos": "Tuomas Peltomäki -podcast (tekoäly-sarja)",
+        "teos": "Tuomas Peltomäen tekoälypodcast (Teemu Roos)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Tuomas+Peltomäki+podcast+tekoäly+Teemu+Roos",
         "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20podcast",
@@ -10413,7 +10413,7 @@
     "paivamaara": "20.4.2023",
     "suositukset": [
       {
-        "teos": "Hesari Musta Laatikko -esitys",
+        "teos": "Musta Laatikko (HS:n livejournalismiesitys)",
         "paakategoria": "kulttuuri",
         "google_linkki": "https://www.google.com/search?q=Hesari+Musta+Laatikko+live-journalismi",
         "lisatieto_linkki": "https://www.google.com/search?q=Hesari+Musta+Laatikko+live-journalismi",
@@ -10618,7 +10618,7 @@
     "paivamaara": "23.3.2023",
     "suositukset": [
       {
-        "teos": "Jooga with Adriene (YouTube)",
+        "teos": "Yoga With Adriene (YouTube)",
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=Yoga+with+Adriene+YouTube",
         "lisatieto_linkki": "https://www.youtube.com/@yogawithadriene",
@@ -11180,10 +11180,10 @@
         ]
       },
       {
-        "teos": "Sinulle, Margot",
+        "teos": "Sinun, Margot",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Sinulle+Margot+Meri+Valkama",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinulle+Margot+Meri+Valkama",
+        "google_linkki": "https://www.google.com/search?q=Sinun%2C+Margot+Meri+Valkama",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinun%2C+Margot+Meri+Valkama",
         "kuvaus": "Meri Valkaman romaani, jossa ihminen lähtee selvittämään isänsä ihmissuhteita ja kohtaloita Berliinissä. Taitavasti kirjoitettu, useita aikatasoja sisältävä teos, jonka Marko kuvailee kansainvälisen tason kirjaksi.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -11426,10 +11426,10 @@
     "paivamaara": "18.11.2022",
     "suositukset": [
       {
-        "teos": "Kaija Koo: elämäkerta (Jouni K. Kemppäinen)",
+        "teos": "Kaija Koo: Taipumaton (Jouni K. Kemppainen)",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Kaija+Koo+elämäkerta+Jouni+K+Kemppäinen",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaija+Koo+elämäkerta+Jouni+K+Kemppäinen",
+        "google_linkki": "https://www.google.com/search?q=Kaija+Koo+Taipumaton+Jouni+K.+Kemppainen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaija+Koo+Taipumaton+Kemppainen",
         "kuvaus": "Jouni K. Kemppäisen kirjoittama elämäkerta laulaja Kaija Koosta. Kirja tarjoaa rankasta elämästä kertovan tarinan sekä ajankuvaa 1980- ja 1990-luvuilta.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -11587,7 +11587,7 @@
     "paivamaara": "27.10.2022",
     "suositukset": [
       {
-        "teos": "Antti Holman koulumatka",
+        "teos": "Antin koulumatka",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Antti+Holman+koulumatka+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Antin%20matka",
@@ -12839,7 +12839,7 @@
         ]
       },
       {
-        "teos": "Älä sano mitään",
+        "teos": "Say Nothing (Älä sano mitään)",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Patrick+Radden+Keefe+%C3%84l%C3%A4+sano+mit%C3%A4%C3%A4n",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Say+Nothing+Patrick+Radden+Keefe",
@@ -13684,7 +13684,7 @@
         ]
       },
       {
-        "teos": "Honestly-podcast (Bari Weiss)",
+        "teos": "Honestly with Bari Weiss",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Honestly+podcast+Bari+Weiss",
         "lisatieto_linkki": "https://open.spotify.com/episode/2ChZnG9pv7IO4CbCOPJMyj",
@@ -14239,7 +14239,7 @@
         ]
       },
       {
-        "teos": "Sinun Margot",
+        "teos": "Sinun, Margot",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Sinun+Margot+Meri+Valkama",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinun+Margot+Meri+Valkama",
@@ -14386,10 +14386,10 @@
     "paivamaara": "4.11.2021",
     "suositukset": [
       {
-        "teos": "Kaija K",
+        "teos": "Kaija Koo: Taipumaton",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Kaija+K+Jouni+K+Kemppainen+kirja",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaija+K+Jouni+Kemppainen",
+        "google_linkki": "https://www.google.com/search?q=Kaija+Koo+Taipumaton+Jouni+K.+Kemppainen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaija+Koo+Taipumaton+Kemppainen",
         "kuvaus": "Jouni K. Kemppaisen kirjoittama elämäkerta Kaija Kärkkäisestä. Hyvin kirjoitettu, syvällinen teos, jota ei meinaa laskea kädestä.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -15044,11 +15044,11 @@
         ]
       },
       {
-        "teos": "Suomi Billi (Remarkably Bright Creatures)",
+        "teos": "Suon villi laulu (Where the Crawdads Sing)",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Remarkably+Bright+Creatures+Shelby+Van+Pelt+suomi",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Remarkably+Bright+Creatures",
-        "kuvaus": "Amerikkalaisen eläintieteilijän 72-vuotiaana kirjoittama esikoisromaani, josta tuli bestseller Yhdysvalloissa. Poikkeuksellisen kauniisti kirjoitettu teos, joka sai lukijan ihastumaan lausetasolla.",
+        "google_linkki": "https://www.google.com/search?q=Suon+villi+laulu+Delia+Owens",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Suon+villi+laulu+Delia+Owens",
+        "kuvaus": "Delia Owensin, amerikkalaisen eläintieteilijän, esikoisromaani, josta tuli valtava bestseller Yhdysvalloissa. Poikkeuksellisen kauniisti kirjoitettu teos, joka sai lukijan ihastumaan lausetasolla.",
         "suosittelija": "Emil Elo",
         "kategoriat": [
           "romaani",
@@ -15679,7 +15679,7 @@
     "paivamaara": "22.4.2021",
     "suositukset": [
       {
-        "teos": "Shit Town -podcast",
+        "teos": "S-Town (Shit Town)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=S-Town+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/S-Town%20podcast",
@@ -15773,10 +15773,10 @@
         "alkupera": "ulkomainen"
       },
       {
-        "teos": "Taru Salamurhojen Oppipoika",
+        "teos": "Salamurhaajan oppipoika",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Taru+Salamurhojen+Oppipoika+Robin+Hobb",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Assassin%27s+Apprentice+Robin+Hobb",
+        "google_linkki": "https://www.google.com/search?q=Salamurhaajan+oppipoika+Robin+Hobb",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Salamurhaajan+oppipoika+Robin+Hobb",
         "kuvaus": "Robin Hobbin fantasiakirjasarjan ensimmäinen osa. Suosittelija pitää sitä yhtenä eniten vaikutuksen tehneistä kirjasarjoista koskaan ja aikoo lukea sen ääneen pojalleen.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -18621,11 +18621,11 @@
     "paivamaara": "30.1.2020",
     "suositukset": [
       {
-        "teos": "Trump-kirja (Washington Post)",
+        "teos": "A Very Stable Genius (suom. Minä yksin)",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Trump+Washington+Post+kirja+2020",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Trump+Washington+Post",
-        "kuvaus": "Kahden Washington Post -toimittajan kirja Trumpin ensimmäisestä presidenttikaudesta. Ilmestyi samanaikaisesti suomeksi ja englanniksi, suomennoksen teki Raivio.",
+        "google_linkki": "https://www.google.com/search?q=A+Very+Stable+Genius+Rucker+Leonnig",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Very+Stable+Genius+Rucker+Leonnig",
+        "kuvaus": "Washington Postin toimittajien Philip Ruckerin ja Carol Leonnigin kirja Trumpin ensimmäisestä presidenttikaudesta ja Valkoisen talon sekasortoisista vuosista. Ilmestyi samana päivänä suomeksi nimellä Minä yksin – Donald Trump ja Valkoisen talon hullut päivät.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "politiikka",
@@ -19199,7 +19199,7 @@
     "paivamaara": "31.10.2019",
     "suositukset": [
       {
-        "teos": "Amazon-artikkeli (The New Yorker)",
+        "teos": "Is Amazon Unstoppable? (The New Yorker)",
         "paakategoria": "artikkeli",
         "google_linkki": "https://www.google.com/search?q=Amazon+New+Yorker+artikkeli+2019",
         "lisatieto_linkki": "https://www.newyorker.com/",
@@ -19822,7 +19822,7 @@
         ]
       },
       {
-        "teos": "Kyllä, ministeri",
+        "teos": "Kyllä, herra ministeri",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Kyll%C3%A4+ministeri+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Yes+Minister",
@@ -20906,10 +20906,10 @@
     "paivamaara": "14.2.2019",
     "suositukset": [
       {
-        "teos": "Camtown (Come Town) -podcast",
+        "teos": "Cum Town",
         "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Camtown+podcast+comedy",
-        "lisatieto_linkki": "https://open.spotify.com/search/Camtown%20podcast",
+        "google_linkki": "https://www.google.com/search?q=Cum+Town+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Cum%20Town",
         "kuvaus": "Räävitön komediapodcast, jossa stand up -koomikot käyvät viikon uutisia läpi kaoottisesti ja heittävät taukoamatta rohkeaa läppää. Sopii niille, jotka kaipaavat vastapainoa nykyajan hysterialle ja teennäisyydelle.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -21020,10 +21020,10 @@
         ]
       },
       {
-        "teos": "Kaikkien vitsausten ruhtinas: Syövän elämäkerta",
+        "teos": "Sairauksien keisari: Syövän elämäkerta",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=The+Emperor+of+All+Maladies+Siddhartha+Mukherjee",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+All+Maladies+Mukherjee",
+        "google_linkki": "https://www.google.com/search?q=Sairauksien+keisari+Siddhartha+Mukherjee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sairauksien+keisari+Mukherjee",
         "kuvaus": "Onkologi Siddhartha Mukherjeen kirja syövän historiasta ja biologiasta. Yksi suosittelijan lempikirjoja – selittää monimutkaiset tieteelliset asiat ymmärrettävästi tarinan muodossa.",
         "suosittelija": "Taru Tujunen",
         "kategoriat": [
@@ -21033,7 +21033,7 @@
         ]
       },
       {
-        "teos": "The Gene: An Intimate History",
+        "teos": "Geeni: Intiimi historia (The Gene: An Intimate History)",
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=The+Gene+An+Intimate+History+Siddhartha+Mukherjee",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Gene+An+Intimate+History+Mukherjee",
@@ -21670,7 +21670,7 @@
         ]
       },
       {
-        "teos": "HyperNormalisaatio",
+        "teos": "HyperNormalisation",
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=HyperNormalisation+Adam+Curtis",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=HyperNormalisation",
