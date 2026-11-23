@@ -188,3 +188,20 @@ ennen korjaamista (admin-UI tai korjaukset.json).
   This? → Tuomas (ei Marko); 5.1.2023 r0 Tokyo Vice → Tuomas (ei Salla); 29.12.2022 r1 The Rest
   Is History → Tuomas (ei Salla); 18.11.2022 r2 Munkkivuori → Petja Pelli? (ei Anni); 2.12.2022
   r1 We Might Have Long Covid All Wrong ehkä juontajan (epävarma).
+
+## Täydennysajo 23.11.2026 (107 myöhemmin lisättyä suositusta)
+
+Ei löytynyt litteroinnista lainkaan (ehkä virheellinen suositus tai litteroimattomassa jakson keskiosassa):
+- 29.5.2025 r3 Yle Abitreenit (Anu-Elina Lehti) – ei sanaa abi/treeni.
+- 18.5.2023 r0 Ystäväkirja – ei mainintaa; voi olla jakson keskiosassa.
+- 19.5.2022 Decoupling (Marko) – lähin on Alma Onalin "Dekoodering"-maininta.
+- 25.2.2021 Yle Areenan historia-aiheiset radiodokumentit (Tuomas) – ei Areenaa/viikinkejä/koleraa.
+- 3.10.2019 Markus Selin – Perustuu tositapahtumiin (Marko) – Marko kehuu vain VP-Lehtosta.
+- 30.11.2016 Minä, Daniel Blake (Anna-Sofia Berner) – ikkunassa vain nettivalvontaa.
+
+Muita huomioita:
+- 2.6.2022 r3/r4 Severance ja Älä sano mitään: suosittelija "Patrick Radden Keefe" on vieras, ei osallistuja (oikein, mutta validaattori voi liputtaa).
+- 14.1.2021 r3 Pappi, lukkari, talonpoika, vakooja – samaa le Carré -puhetta kuin r1 Vakoojan perintö (kaksoissuositus?).
+- Ohimennen mainintoja, ei varsinaisia suosituksia: 11.4.2024 r0 Politiikan puskaradio, 23.4.2020 r5 HyperNormalisation, 16.4.2025 r3 Tenniksen pelaaminen, 9.10.2025 r1 Draghin essee, 23.3.2023 Dale Carnegie, 20.11.2025 E-kirjasto.
+- 18.12.2025 r4 "Älä remontoi joulun alla, lepää" (Marko) – vastakommentti Sallan suositukseen.
+- 25.5.2023 r4 Salaliitto Kairossa (Salla) – kommentti Ville Similän suositukseen, ei uusi suositus.

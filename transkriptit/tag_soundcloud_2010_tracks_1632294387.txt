@@ -21,50 +21,58 @@ Puhuja 0: tuhat yhdeksänsataaneljäkymmentä Peltomäki.
 Puhuja 1: Toukokuuta?
 Puhuja 0: Ei, mikä nyt on? Sä oot aivan
 Puhuja 2: pilannut kärryiltä.
-Puhuja 0: No niin, vaan. Melkein.
-Puhuja 0: Ollut niin kiihkeä uutisviikko,
-Puhuja 0: että mä oon paljon pyörähtänyt eteenpäin. Ei kun aurinko se, mikä se menee?
-Puhuja 0: Nyt me aloumme alusta.
+Puhuja 0: No niin, vaan. Melkein. Ollut niin kiikeä uutisviikko, että
+Puhuja 0: mä oon paljon pyörähtänyt eteenpäin.
+Puhuja 0: Ei kun aurinko se... Mikä se menee?
+Puhuja 0: Nyt me aloitamme alusta.
 Puhuja 0: Hei, ja tervetuloa Helsingin Sanomien uuteen raportti-podcastiin
 Puhuja 0: keskiviikkona
 Puhuja 0: neljäsataakymmenen.
-Puhuja 0: Vuonna kaksituhatta kaksikymmentäkolme.
-Puhuja 0: Mun nimi on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien podcast-studiossa
-Puhuja 0: Helsingissä
-Puhuja 0: Suomessa, mutta myös virtuaalisesti
-Puhuja 0: Tukholmassa Ruotsissa
-Puhuja 0: ovat
+Puhuja 0: Vuonna kaksituhatta kaksikymmentäkolme. Mun nimi on Tuomas Peltomäki. Kanssani täällä Helsingin Sanomien
+Puhuja 0: podcast-studiossa
+Puhuja 0: Helsingissä, Suomessa, mutta myös virtuaalisesti
+Puhuja 0: Tukholmassa Ruotsissa ovat
 Puhuja 0: Helsingin Sanomien tutkivain juttujen
-Puhuja 0: tuottaja Salla Vuorikoski. Hei, Salla. Hei.
+Puhuja 0: tuottaja Salla Vuorikoski. Hei, Salla! Ei!
 Puhuja 0: Sallan vieressä on Helsingin Sanomien politiikan
-Puhuja 0: toimituksen nyrkki numero Uuno,
-Puhuja 0: Anni Keski-Heikkilä.
-Puhuja 0: Ystävien kesken A. KH. Hei A. KH. Hei.
+Puhuja 0: toimituksen
+Puhuja 0: nyrkki numero Uuno,
+Puhuja 0: Anni Keski-Heikkilä,
+Puhuja 0: ystävien kesken A. KH. Hei, A. KH. Hei.
 Puhuja 0: Mutta kaiken tämän ihastuttavuuden
 Puhuja 0: lisäksi meillä on ilo ja kunnia olla tällä hetkellä suorassa
 Puhuja 0: yhteydessä
-Puhuja 0: Pohjanlahden toiselle puolelle, eli
-Puhuja 0: entiseen
-Puhuja 0: emämaamme Ruotsiin.
+Puhuja 0: Pohjanlahden
+Puhuja 0: toiselle puolelle eli
+Puhuja 0: entiseen emämaamme
+Puhuja 0: Ruotsiin.
 Puhuja 0: Siellä on Tukholmassa,
 Puhuja 0: ilmeisesti omassa komerossaan
 Puhuja 0: istuu
-Puhuja 0: Helsingin Sanomien Tukholman kirjeenvaihtaja Jussi Sippola.
+Puhuja 0: Helsingin Sanomien Tukholman kirjeenvaihtaja
+Puhuja 0: Jussi Sippala.
 Puhuja 0: Terve, Jussi!
 Puhuja 0: Terve, terve ja hyvää
 Puhuja 0: kanelipullapäivää
 Puhuja 0: kaikille täältä komerosta.
 Puhuja 0: Suomessa tunnetaan korvapuustipäivänä
-Puhuja 0: tullut Ruotsista. Aijaa, okei hyvä. Mäkin
+Puhuja 0: tullut Ruotsista.
+Puhuja 0: Aijaa, okei! Mäkin
 Puhuja 2: kuulin tän,
 Puhuja 2: että on korvapuustipäivä.
 Puhuja 2: Pitääkö sitä itse tehdä vai voiko ostaa kaupasta vaan?
-Puhuja 0: Itse tehdään. Ei kyllä ikäl tehnyt korvapuustitia.
-Puhuja 2: Onko se vaikeaa? Ei se ole vaikeata. Se kaulitaan semmoista levyksi ja sitten laitetaan siihen kanelia ja rasvaa ja kaikkea ja sokeria ja rullataan ja sitten
-Puhuja 0: veitsellä sitten. No niin, siitäpä sitten puhun. Mä voin neuvo. Hei, iloitusasia
-Puhuja 0: eli pieni oikaisu piti tehdä viime jaksossa, mutta unohdettiin.
-Puhuja 0: Saman
-Puhuja 0: mittaisena. Mutta sitten Marko korjasi minua, että se laskee,
+Puhuja 0: Itse tehdään. Ei kyllä ikältä tehnyt korvapuustitia.
+Puhuja 2: Onko se vaikeaa? Ei se ole vaikeata. Se kaulitaan semmoista levyyksi ja sitten laitetaan siihen kanelia ja rasvaa ja kaikkea ja sokeria ja rullataan ja sitten
+Puhuja 0: veitsellä sitten. No niin, siitä mä sitten puhun. Avoin neuvo. Hei, iloitusasia
+Puhuja 0: eli pieni oikaisu piti tehdä viime jaksossa, mutta unohdettiin. Eli toisessa jaksossa käytiin
+Puhuja 0: mutta unohdettiin.
+Puhuja 0: Toisessa
+Puhuja 0: jaksossa käytiin tämmöinen keskustelu, jossa
+Puhuja 0: aluksi minä luonnehdin hallituksen
+Puhuja 0: hallituskauden
+Puhuja 0: velanottoa silleen, että se pysyy suurin piirtein vuosittain
+Puhuja 0: saman mittaisena.
+Puhuja 0: Mutta sitten Marko korjasi minua, että se laskee,
 Puhuja 0: mutta se ei laske.
 Puhuja 0: Korjaus oli väärä.
 Puhuja 0: Nimittäin ensi vuonna velkaa otetaan heti kaksitoista miljardia, eli ensi vuodeksi se nousee.
@@ -77,15 +85,18 @@ Puhuja 0: Suomessa otsikoita on hallinnut yhä kiittävät väkivaltaisuudet
 Puhuja 0: Ruotsissa.
 Puhuja 0: On tullut jotenkin symbolisesti
 Puhuja 0: tosi,
-Puhuja 0: tosi, tosi kuumottavilta tuntuvia
+Puhuja 0: tosi,
+Puhuja 0: tosi kuumottavilta
+Puhuja 0: tuntuvia
 Puhuja 0: tietoja, jonka mukaan esimerkiksi
-Puhuja 0: tai yksi tämmöisistä tiedosta on se, että vain Meksiko
+Puhuja 0: tai yksi tämmöisestä tiedosta on se, että vaan Meksiko
 Puhuja 0: on rauhanajasta
 Puhuja 0: nauttivista maista
 Puhuja 0: Ruotsia väkivaltaisempi paikka, mitä tulee pommituksia räjähdyksiin.
 Puhuja 0: Joo.
 Puhuja 0: Mikä
-Puhuja 0: kuitenkin on jotenkin... En tiedä, Meksiko on kartellien omistama maa
+Puhuja 0: kuitenkin on jotenkin... En tiedä, Meksiko on kartellien
+Puhuja 0: omistama maa
 Puhuja 0: Ilmeisesti on myös naapurimaammekin.
 Puhuja 0: Sen lisäksi Ruotsin entinen pääministeri Magdalena Andersson oli
 Puhuja 0: ehdottanut, että Ruotsissa olisi syytä kutsua armeija avuksi näitä
@@ -96,347 +107,350 @@ Puhuja 0: tavallaan vähän ehkä pinnallisesti ja typerästä, mutta mun suurin
 Puhuja 0: liittyy siihen, että mä en tiedä, mikä on totta ja mikä on mediaa. Mä en tiedä, mikä on totuus tässä Ruotsin tilanteessa. Sen takia mä lepraan
 Puhuja 0: Euroopassa ja kaikki se
 Puhuja 0: ammatti tarkoittaa, että te hoidatte ne. Sitä varten te olette olemassa. Se on se koko eetos.
-Puhuja 0: Mun mielestä tää puuttuu kokonaan tästä keskustelusta. Me puhutaan lääkäreistä ihan niin kuin ne olisi Excelin
-Puhuja 0: jatkeita. Ei ne
-Puhuja 0: ole pelkästään
-Puhuja 0: siitä systeemistä kiinni. Ei lääkäri ole joku otus, joka
-Puhuja 0: maksimoi omaa voittoaan
-Puhuja 0: tahdottomana olmina
-Puhuja 0: osakeyhtiön himmelin avulla, vaan lääkäri on nimenomaan ihminen, joka on tehnyt sen valinnan, että mä palvelen
-Puhuja 0: näitä rumia, mummoja koko elämäni
-Puhuja 0: hieron niitten pohkeita ja silitän niitten liian karvaisia
-Puhuja 2: käsiä. Niin, niin kuin ne on. Okei,
-Puhuja 0: mutta se on lääkäri.
-Puhuja 0: Mun mielestä joskus siihen voi vedota ja julkinen vetoaminen on tärkeää, jotta esimerkiksi
-Puhuja 0: opiskelijat, että niillä on siellä omissa piireissä
-Puhuja 0: se keskustelu, että niin, tää on se meidän juttu.
-Puhuja 1: Tää voi olla julkisesta
+Puhuja 0: Mun mielestä tämä puuttuu kokonaan tästä keskustelusta. Me puhutaan lääkäreistä ihan niin kuin ne olisi jotain Excelin jatkeita.
+Puhuja 0: Ei ne ole. Ei se ole pelkästään
+Puhuja 0: siitä systeemistä kiinni. Ei lääkäri ole joku otus,
+Puhuja 0: joka maksimoi omaa
+Puhuja 0: voittoaan tahdottomana olmina
+Puhuja 0: osakeyhtiönhimmelin
+Puhuja 0: avulla, vaan lääkäri on nimenomaan ihminen, joka on tehnyt sen valinnan, että mä palvelen näitä rumia, mummoja koko elämäni
+Puhuja 0: hieroa niiden pohkeita ja silitä niitten liian karvaisia
+Puhuja 0: käsiä. Niillä on niin ruma, okei näin ei. Mutta se on lääkäri.
+Puhuja 0: Mun mielestä joskus siihen voi vedota ja julkinen vetoaminen on tärkeää, jotta esimerkiksi opiskelijat, että niillä on siellä omissa piireissä se keskustelu, että niin, tää on se meidän juttu. No, siis täähän voi olla julkisesta
 Puhuja 1: keskustelusta
 Puhuja 1: poissa tai onkin varmasti, mutta
-Puhuja 1: kyllähän niitä lääkäreitä on ihan sairasta todella paljon, jotka ajattelee näin.
-Puhuja 1: Saivat
-Puhuja 1: näiden uutisten aikana. Siinä
-Puhuja 1: jakautuivat ne lääkärit kahteen ryhmään. Ne, ketkä on siellä julkisen oman moraalinsa takia
-Puhuja 1: ja ne, ketkä oli mennyt yksityiselle paremman palkan ja
-Puhuja 1: työolojen
-Puhuja 1: takia.
-Puhuja 1: Se oli tosi kiinnostava, siinä oli tosi kiinnostavia ne moraaliphdit.
-Puhuja 0: Okei, en nähnyt tuolla.
-Puhuja 2: Minulla on yksi yleislääkäri tuttu, niin häneltä kerran kysyin sitä, että miten
-Puhuja 2: yksityinen ja työterveyshuoltoja
-Puhuja 2: kiinnostaisi. Hän oli vähän sillä tavalla, että
-Puhuja 2: hän
-Puhuja 2: haluaa tehdä sellaista mielenkiintoista
-Puhuja 2: työtä, että
-Puhuja 2: toimistoihmisten flunssat ei niin paljon kiinnosta. No, ehkä se on vähän karkeistus, varmaan sielläkin puolella on kiinnostavia työtehtäviä.
+Puhuja 1: kyllähän niitä lääkäreitä on ihan sairasta
+Puhuja 1: todella paljon, jotka ajattelee näitä asioita. Kyllä, kyllä totta kai. He
+Puhuja 1: tekivät semmoisen jutun, missä oli kysytty lääkäreiltä, että niiden omasta palkasta ja työstä fiiliksiä
+Puhuja 1: näiden uutisten aikana.
+Puhuja 1: Siinä jakautui ne lääkärit vähän niin kuin kahteen ryhmään. Ne, ketkä on siellä julkisen oman moraalinsa takia
+Puhuja 1: ja sitten ne, ketkä oli mennyt yksityiselle
+Puhuja 1: paremman palkan ja työolojen takia.
+Puhuja 1: Se oli tosi kiinnostavaa, siinä oli tosi kiinnostavia ne moraalipohinnat.
+Puhuja 0: Okei, mä en nähnyt tuolla.
+Puhuja 2: Mulla on yksi yleislääkäri
+Puhuja 2: tuttu, niin häneltä kerran kysyin sitä, että mites
+Puhuja 2: yksityinen ja työterveyshuoltoja kiinnostaisiko. Hän oli vähän sillä tavalla, että
+Puhuja 2: hän haluaa tehdä sellaista mielenkiintoista
+Puhuja 2: työtä,
+Puhuja 2: että
+Puhuja 2: toimistoihmisten flunssat eivät niin paljon kiinnosta. No ehkä se on vähän karkeistus, varmaan sielläkin puolella on kiinnostavia työtehtäviä.
 Puhuja 2: Mutta mielenkiintoinen
-Puhuja 2: tällainen asettelu, että kun just loin noista
+Puhuja 2: tällainen
+Puhuja 2: asettelu, että kun just loi noista
 Puhuja 2: rikollisjengeistä
-Puhuja 2: ja siitä työstä, mitä poliisi tekee, niin
-Puhuja 2: liitto vaatii ja on aina vaatinut lisää poliiseja Suomeen.
-Puhuja 2: Kun taas Lääkäriliitto on
-Puhuja 2: toiminut vuosien varrella niin, että he ovat vastustaneet näiden koulutusmäärien
+Puhuja 2: ja siitä työstä mitä poliisi tekee, niin Poliisjärjestöjen Liitto.
+Puhuja 2: Poliisjärjestöjen liitto vaatii ja on aina vaatinut lisää poliiseja Suomeen.
+Puhuja 2: Kun taas
+Puhuja 2: Lääkäriliitto on toiminut vuosien varrella niin, että he ovat vastustaneet näiden koulutusmäärien
 Puhuja 2: lisäämistä.
-Puhuja 2: En tiedä, mistä tämä kertoo, mutta se on musta mielenkiintoista. Se on tosi mielenkiintoista.
-Puhuja 1: Hoitajien kohdallahan puhutaan paljon
-Puhuja 1: julkisuudessa kutsumusammatista
+Puhuja 2: En tiedä, mistä tämä kertoo, mutta se on minusta mielenkiintoista. Se on tosi mielenkiintoista.
+Puhuja 1: Ja miten
+Puhuja 1: hoitajien kohdallahan puhutaan paljon julkisuudessa
+Puhuja 1: kutsumusammatista
 Puhuja 1: ja ynnä muusta.
-Puhuja 1: Hoitajilla
-Puhuja 0: tämä sama ja palkassa. Mun mielestä tässä pitäisi puhua kuitenkin enemmän. Olisi järkevää, että se olisi enemmän läsnä
-Puhuja 0: moraalinen
-Puhuja 0: vaade.
-Puhuja 0: Millä ei ole tarkoitus nollata niitä, jotka tätä moraalista vaadetta selkeästi toteuttaa. Se on paras ongelmia
-Puhuja 2: aika usein se, että ihmisten pitäisi vaan olla parempia. Niin se on vaan puhua suomen kieltä ja vanhempien. Pitäisi vaan
-Puhuja 2: puhua
-Puhuja 0: on aina silleen, että järjestelmän pitää hoitaa tämä ja ihmisillä ei ole mitään vastuuta itsellä. Mua jotenkin henkilökohtaisesti loukkasi syvästi
+Puhuja 1: Hoitajilla tämä sama
+Puhuja 0: ei palkkasi. Mun mielestä tästä pitäisi puhua kuitenkin enemmän. Olisi järkevää, että se olisi enemmän läsnä moraalinen
+Puhuja 0: vaade,
+Puhuja 0: millä ei ole tarkoitus nollata niitä, jotka tätä moraalista vaadetta
+Puhuja 2: kaikkien kanssa. Vastaus
+Puhuja 2: ongelmia on aika usein se, että ihmisten pitäisi vaan olla parempia.
+Puhuja 2: Pitäisi vaan puhua suomen kieltä ja vanhempien, mitä me
+Puhuja 0: mediassa käydään
+Puhuja 0: yleensä yhteiskunnallinen koulutus ja me tarkastellaan systeemejä ja järjestelmiä. Meidän semmoinen selkäranka reaktio aina sille, että järjestelmän
+Puhuja 0: pitää hoitaa tämä ja ihmisillä ei ole mitään vastuuta itsellä. Mua jotenkin henkilökohtaisesti loukkasi syvästi
 Puhuja 0: silloin, kun oli Koskelassa se kiusaamistapaus,
 Puhuja 0: missä kiusattiin hengiltä se yksi koululaispoika.
-Puhuja 0: Media oli täynnä juttuja, että se on niinku sen koulun vika.
-Puhuja 0: Sen koulun olisi pitänyt estää. Jotenkin niitten opettajan pitää olla murhapoliiseja siinä. Niin kuin puhuttiin täälläkin. Niin, mä oon niinku jotenkin silleen, että mitä helvettiä.
-Puhuja 0: Että eikö näillä ihmisillä, eikö vanhemmilla
-Puhuja 0: lähellä ole niillä ihmisillä sen vastuu. Ja totta kai meillä ihmisillä on vastuu toisesta ihmisestä. Mä voin lukea sulle esimerkin.
+Puhuja 0: Media oli täynnä juttuja, että se on sen koulun vika.
+Puhuja 0: Että sen koulun olisi pitänyt estää. Jotenkin niitten opettajan pitää olla niinku murhapoliiseja siinä samalla.
+Puhuja 0: Totta kai meillä ihmisillä on vastuu toisesta ihmisestä. Mä voin lukea sulle esimerkin.
 Puhuja 1: Tää on sun ihanneihminen.
-Puhuja 1: Turkulainen
-Puhuja 1: hammaslääkäri esimerkiksi sanoi Hesarin kyselyssä, että omatuntoni ei kestäisi tehdä ostopalvelua.
+Puhuja 1: Turkulainen hammaslääkäri esimerkiksi sanoi Hesarin kyselyssä, että omatuntoni ei kestäisi tehdä ostopalvelua.
 Puhuja 1: Hänelle lähetetään mitään.
-Puhuja 1: Husilla anestesiaan erikoistuvana lääkärinä työskentelee
-Puhuja 1: ja saakuussa noin kolmetuhatta kuusisataa euroa saisi
-Puhuja 1: yksityisellä jopa viisitoista nolla euroa, mutta pysyy työssään, koska
-Puhuja 1: julkisella puolella on työntekijöistä pulaa.
-Puhuja 1: Just näin.
+Puhuja 1: Hussilla anestesiaan erikoistuvana
+Puhuja 1: lääkärinä työskentelee vastaan ja saakuussa. Noin kolmetuhatta kuusisataa euroa saisi yksityisellä jopa viisitoista nolla euroa, mutta pysyy työssään, koska julkisella
+Puhuja 1: puolella on
+Puhuja 2: työntekijöistä pulaa.
+Puhuja 2: Jos sä saat sitten Tuomas,
 Puhuja 2: Tuomas, jossain yksityisessä terveydenhuoltoyrityksessä
-Puhuja 2: podcast hommista viisitoista nolla euroa kuussa, mihin sä päädyit? Kaikki mun kaverit on mainosalalla
-Puhuja 0: ja niillä on joku yhdeksän kertaa isompi palkka kuin mulla. Mä oon mun kavereihin verrattuna vittu nero.
-Puhuja 0: Jos te ihmiset, joita Anni askin siteerasi tuota...
-Puhuja 0: Ei,
-Puhuja 0: mulla on ollut palkat kortoilla. Jos te ihmiset
-Puhuja 0: lähetätte minulle nimenne ja osoittelette, lupaa, että Jussi Sippola leipoa teille
-Puhuja 2: koronbusluuts. Teidän kanssa teidän keittiössä.
-Puhuja 0: Okei, vielä viimeiseksi aiheeksi, koska nyt mennään tosissaan yliajalle.
+Puhuja 0: podcast hommista viisitoista nolla euroa kuussa, mihin sä päädyit? Kaikki minun kaverit on mainosalalla ja niillä on joku yhdeksän kertaa isompi palkka kuin minulla. Olen kavereihin
+Puhuja 0: verrattuna vittu nero!
+Puhuja 0: Jos te ihmiset, joita Anni äsken siteerasi
+Puhuja 0: tuota... Ei, minulla ava parhaat kornit.
+Puhuja 0: Jos te
+Puhuja 0: ihmiset lähetätte minulle nimenne ja osoitte, lupaa, että Jussi Sippola leipoa teille koronpolit. Teidän kanssa, teidän keittiössä.
+Puhuja 0: Okei, vielä viimeiseksi aiheeksi, koska nyt mennään tosissaan yliajalle,
 Puhuja 0: Salla Vuorikoski,
 Puhuja 0: sinä pyysit minua
-Puhuja 0: mukaan tulemaan aivan erittäin mielenkiintoiseen juttuhankkeeseen,
+Puhuja 0: mukaan tulemaan aivan erittäin
+Puhuja 0: mielenkiintoiseen juttuhankkeeseen,
 Puhuja 0: jonka hedelmät julkaistiin viime lauantaina Helsingin Sanomissa
-Puhuja 0: toimittaja Paavo Teitteisen kirjoittama
-Puhuja 0: juttu,
-Puhuja 0: Täydellinen pako, ja minun,
+Puhuja 0: toimittaja Paavo Teittisen kirjoittama juttu Täydellinen pako ja minun,
 Puhuja 0: sinun Salla ja Paavon yhdessä tekemä
 Puhuja 0: podcast-minisarja,
 Puhuja 0: narratiivinen,
 Puhuja 0: tarinallinen, sanoisin jopa elokuvallinen
 Puhuja 0: podcast, Minisarja
 Puhuja 0: Täydellinen pako,
-Puhuja 0: jonka kaksi jaksoa on julkaistu kaikissa ilmaiskanavissa ja kokonaisuudessaan
-Puhuja 0: jo Helsingin Sanomien sovelluksessa.
+Puhuja 0: jonka kaksi jaksoa on julkaistu kaikissa ilmaiskanavissa
+Puhuja 0: ja kokonaisuudessaan jo Helsingin Sanomien sovelluksessa.
 Puhuja 0: Se oli ihan huikea tarina
 Puhuja 0: ja aivan mieletön
-Puhuja 0: keissi. Mutta mä kysyn nyt Annilta ekana, koska Anni sä oot tässä ulkopuolinen
+Puhuja 0: keissi. Mutta kysyn nyt Annilta ekana, koska
+Puhuja 0: Anni, sä oot tässä
+Puhuja 0: ulkopuolinen
 Puhuja 0: ja olet lukenut juttua ja kuunnellut podcastia.
 Puhuja 0: Miten sä summaisit sen tapauksen?
 Puhuja 1: Voi hei.
-Puhuja 1: Siis sen tapauksen. Me ollaan olemassa hissipuhe siitä, mistä siinä on kysymys. Mutta summassa sinä? Voin tästä lennosta yrittää heittää sellaisen.
+Puhuja 2: Siis sen tapauksen. Mulla on olemassa hissipuhe siitä, mistä siinä on kysymys.
+Puhuja 1: Mä voin tästä lennosta yrittää heittää sellaisen.
 Puhuja 1: Se on ihan uskomaton tarina. Luin sen silloin, tuliko se lauantai ja sunnuntaina,
 Puhuja 1: aamulla
 Puhuja 1: heti, kun avasin silmät, luin sen koko pitkän, pitkän sepustuksen.
 Puhuja 1: Siinä meni yli puoli tuntia tyyliin, kun se lukee
-Puhuja 1: tätä. On
+Puhuja 1: kertoo. Siis on
 Puhuja 1: tällainen irakilainen mies,
 Puhuja 1: joka muutti Norjaan.
 Puhuja 1: Siellä oli perhe Norjassa.
 Puhuja 1: Norjalainen vaimo ja saivat lapsia.
-Puhuja 1: Sitten ne meni lomamatkalle Irakin
-Puhuja 1: Kurdistaniin ja
-Puhuja 1: se oli tilannut vaimollensa palkkamurhan.
-Puhuja 1: Se vaimo murhattiin
+Puhuja 1: Sitten ne meni lomamatkalle
+Puhuja 1: Irakin
+Puhuja 1: Kurdistaniin
+Puhuja 1: ja
+Puhuja 1: se oli tilannut vaimollensa
+Puhuja 1: palkkamurhan. Se vaimo murhattiin
 Puhuja 1: Kurdistanissa.
-Puhuja 1: Sitten se sai
-Puhuja 1: siellä hirttotuomion
+Puhuja 1: Ja sitten se sai
+Puhuja 1: siellä hirttuomion
 Puhuja 1: siellä Kurdistanissa.
 Puhuja 1: Mutta koska se oli Norjan kansalaisuudenkin
-Puhuja 1: saanut, niin käytännössä
+Puhuja 1: saanut jo näin, niin käytännössä
 Puhuja 1: sitä ei tapettu
-Puhuja 1: siellä Kurtistanissa,
-Puhuja 1: vaan
-Puhuja 1: se meni vankilaan näin. Elinkautisen
-Puhuja 1: vankausrangaistuksen
-Puhuja 1: käytännössä sai. No sitten se vankilasta
-Puhuja 1: pakeni vuonna kaksituhatta kaksitoista
-Puhuja 1: ja sitten vähän katosi.
-Puhuja 1: Ja vuonna kaksituhatta neljätoista se tuli Suomeen,
-Puhuja 1: mutkien kautta Suomeen ja esitti olevansa muu kuin oli.
-Puhuja 1: Ja siltä ei voitu esim. Ottaa sormenjälkiä,
-Puhuja 1: niin käytännössä
-Puhuja 1: sai olla Suomessa, vaikka sen tarinat oli todella epäuskottavia.
-Puhuja 1: Suboki oli niin, että tämä on nyt uhkaa kansalliselle turvallisuudelle, mutta
-Puhuja 1: silti se vaan on saanut olla Suomessa, koska kaikenlaiset
-Puhuja 1: ihmeelliset syyt.
-Puhuja 2: Ja nyt Hesari löysi sen täältä Suomesta Vantaalta. Se on ihan uskomaton. Mä en laita yhtään virhettä tuosta.
+Puhuja 1: siellä kurdissaissa, vaan se
+Puhuja 1: meni vankilaan näin. Elinkautisen
+Puhuja 1: vankasrangaistuksen
+Puhuja 1: käytännössä sai. No sitten se sieltä vankilasta pakeni vuonna kaksituhatta kaksitoista
+Puhuja 1: ja sitten vähän niin kuin katosi.
+Puhuja 1: Vuonna kaksituhatta neljätoista se tuli Suomeen,
+Puhuja 1: mutkien kautta Suomeen ja sitten olevansa muu kuin oli.
+Puhuja 1: Siltä ei voitu esimerkiksi ottaa sormenjälkiä, niin sitten se sen takia
+Puhuja 1: käytännössä sai olla Suomessa, vaikka sen tarinat oli todella epäuskottavia.
+Puhuja 1: Ja
+Puhuja 1: sitten supoki oli silleen, että tämä on nyt uhkaa kansalliselle turvallisuudelle, mutta silti
+Puhuja 1: se vaan on saanut olla Suomessa, koska
+Puhuja 1: kaikenlaiset ihmeelliset syyt ja nyt Hesari löysi sen täältä Suomesta Vantaalta. Se on ihan uskomaton. Mä en löytänyt yhtään virhettä tuosta.
 Puhuja 2: Se oli koulussa varmaan tosi hyvä.
-Puhuja 1: Mä kirjoitin tästä ihan pienen uutisen ihan äsken,
-Puhuja 2: Meille pähkinänkuoressa kysymys oli siitä, että meille tuli toukokuussa Norjasta kollegoilta WeeG-lehdestä
-Puhuja 2: pyyntö, että voitteko auttaa, että on vihiä, että tämmöinen vankilasta vuonna kaksituhatta kaksitoista
-Puhuja 2: kadonnut mies olisi Suomessa. Se juttu kertoo paitsi, että se kertoo tän miehen tarinan, niin se kertoo myös sen,
-Puhuja 2: että miten
+Puhuja 1: Mä kirjoitin tästä ihan pienen uutisen ihan äsken, niin nämä vuosiluke jäi siitä vielä.
+Puhuja 2: Joo, tuo on
+Puhuja 2: hyvä summaus.
+Puhuja 2: Meille pähkinänkuoressa kysymys oli siitä, että meille tuli toukokuussa Norjasta
+Puhuja 2: kollegoilta WeeG-lehdestä
+Puhuja 2: tuli pyyntö, että voitteko auttaa, että on vihiä, että tämmöinen vankilasta vuonna kaksituhatta kaksitoista kadonnut
+Puhuja 2: mies olisi Suomessa. Sitten se juttu kertoo paitsi, että se kertoo tämän miehen tarinan, niin se kertoo myös sen, että
+Puhuja 2: miten
 Puhuja 2: monen mutkan ja umpikujan jälkeen me hänet löydettiin.
-Puhuja 0: Siinä jutussa itsessään
-Puhuja 0: se itse tarina on tosi jännittävää tietenkin.
-Puhuja 0: Varsinkin siinä podcastissa käydään tosi paljon läpi sitä, miten sitä miestä
-Puhuja 0: etsittiin ja löydettiin
-Puhuja 0: ja näin. Mutta
-Puhuja 0: se kaikista kuohuttavin asia siinä on se
-Puhuja 0: suomalaisen lainsäädännön
+Puhuja 0: Siinä
+Puhuja 0: jutussa itsessään...
+Puhuja 0: Se itse tarina on tosi jännittävä tietenkin.
+Puhuja 0: Varsinkin siinä podcastissa käydään tosi paljon läpi sitä,
+Puhuja 0: miten sitä miestä etsittiin ja löydettiin ja näin. Mutta
+Puhuja 0: kaikista kuohuttavin
+Puhuja 0: asia siinä on se suomalaisen lainsäädännön
 Puhuja 0: lähes täydellinen
 Puhuja 0: voimattomuus
-Puhuja 0: tämän kaiken edessä.
-Puhuja 0: Tai
-Puhuja 0: okei
-Puhuja 0: lainsäädäntö plus byrokratia
-Puhuja 0: plus viranomaisten
-Puhuja 0: toimivalta,
-Puhuja 0: että
-Puhuja 0: jotenkin tää mies on kaiken
-Puhuja 0: ulkopuolella. Häntä ei voida palauttaa mihinkään. Häntä ei voida komentaa mihinkään. Häntä ei voida laittaa vankilaan.
-Puhuja 0: Häntä ei voi
+Puhuja 0: tämän kaiken edessä. Tai
+Puhuja 0: okei lainsäädäntö
+Puhuja 0: plus byrokratia plus viranomaisten
+Puhuja 0: toimivalta.
+Puhuja 0: Jotenkin tää mies on kaiken ulkopuolella.
+Puhuja 0: Häntä ei voida palauttaa mihinkään. Häntä ei voida komentaa mihinkään. Häntä ei voida
+Puhuja 0: laittaa
+Puhuja 0: vankilaan. Häntä ei voi
 Puhuja 0: uudelleen syyttää. Hänen rikokseen ei voida edes tutkia.
 Puhuja 0: Joten hän on täällä Suomessa vähän niin kuin nauttii tämmöistä diplomaattista
 Puhuja 0: koskemattomuutta,
-Puhuja 0: että hänelle ei vaan kerta kaikkiaan mahdata mitään.
+Puhuja 0: että hänelle ei vaan kerta kaikkiaan mahdeta mitään.
 Puhuja 0: Se jotenkin tuntui sille, että okei, miten tää on mahdollista.
 Puhuja 1: Täydellinen pako, niin kuin se on sen koko jutun nimi.
-Puhuja 1: Ihan älytön. Joo,
-Puhuja 2: se kiteytyy
-Puhuja 2: jonain yön tunteina tän nimi, tai jutulle.
-Puhuja 2: Se on täydellinen pako
-Puhuja 2: ja tuo diplomaattinen koskemattomuus on aika hyvä termi kuvaamaan sitä. Meillä itseasiassa julkaistiin eilen
-Puhuja 2: tällainen jatkojuttu aiheesta, että miten sitten jopa siinä tilanteessa, kun hän todettiin, ja tosi pian maahantulon jälkeen, että hänellä on väärennetyt asiakirjat, mukaan lukien passi.
-Puhuja 2: Hän sai kaikista näistä valheistaan huolimatta turvapaikan
-Puhuja 2: oleskeluluvan Suomeen, niin sitten vasta vuosien päästä ruvettiin
-Puhuja 2: tutkimaan tätä väärennösrikosta,
-Puhuja 2: joka nyt on ehkä tässä pienemmästä päästä näitä asioita.
-Puhuja 2: Mutta sekin sitten lopulta
-Puhuja 2: tämäkin tutkinta,
-Puhuja 2: jonka aikana tehtiin kyllä kotietsintä ja tämmöistä, mutta sitten se vaan vanheni poliisin pöydälle.
+Puhuja 2: Ihan älytön. Joo,
+Puhuja 2: se kiteytyi jonain yön tunteina tän nimi, jutulle. Se on siis täydellinen pako ja tuo diplomaattinen koskemattomuus on aika hyvä termi kuvaamaan sitä. Meillä itseasiassa julkaistiin eilen tämmöinen
+Puhuja 2: jatkojuttu aiheesta, että miten sitten jopa siinä tilanteessa, kun hän todettiin, ja tosi pian maahantulon jälkeen, että hänellä on väärennetyt asiakirjat, mukaan lukien passi.
+Puhuja 2: Vasta vuosien päästä kun hän sai kaikista näistä valheistaan huolimatta turvapaikan
+Puhuja 2: oleskeluluvan
+Puhuja 2: Suomeen, niin sitten vasta vuosien päästä ruvettiin
+Puhuja 2: tutkimaan
+Puhuja 2: tätä väärennysrikosta, joka nyt on ehkä tässä pienemmästä päästä näitä asioita.
+Puhuja 2: Mutta sekin sitten lopulta, kuten tämäkin tutkinta,
+Puhuja 2: jonka aikana tehtiin kyllä kotietsintää ja tämmöistä, mutta sitten se vaan vanheni poliisin pöydälle.
 Puhuja 2: Eli myöskään tästä väärennyksestä
-Puhuja 2: ei koskaan seurannut
+Puhuja 2: ei koskaan sitten seurannut
 Puhuja 2: hänelle mitään.
-Puhuja 2: Hän on tavallaan
-Puhuja 2: esimerkki sellaisesta.
-Puhuja 2: Minä jotenkin kuvasin sitä, että tässä on ihminen, joka kelluu semmoisessa valtavan kokoisessa porsaan reiässä,
+Puhuja 2: Hän on tavallaan esimerkki sellaisesta. Mä jotenkin kuvasin sitä, että tässä on ihminen, joka kelluu semmoisessa valtavan kokoisessa porsaanrejässä,
 Puhuja 2: jonka ympärillä on kansainvälisiä sopimuksia, lainsäädäntöä,
 Puhuja 2: kaikenlaista.
 Puhuja 2: Jopa laissa on semmoinen sanamuotovirhe,
 Puhuja 2: jonka takia häntä ei edes teoriassa voisi myöskään Norjaan palauttaa.
-Puhuja 1: Nythän ministeriö ilmoitti, että näitä korjaillaan. Niin, siis tuli uutinen just ennen kuin aloitettiin tätä podiin ottamaan, että
-Puhuja 1: Suomi aikoo keskustella Irakin Norjan viranomaisten kanssa tästä asiasta. En tiedä, mitä siinä voi käytännössä tapahtua. Mutta niin aikoo tehdä ja aikoo myös korjata näitä virheitä laista.
+Puhuja 1: Nythän ministeriö ilmoitti, että näitä korjaillaan. Niin, siis tuli uutinen juuri ennen kuin aloitettiin tätä Poriin nauhoittamaan, että
+Puhuja 1: Suomi aikoo keskustella Irakin Norjan viranomaisten kanssa tästä asiasta. En tiedä, mitä siinä voi käytännössä tapahtua, mutta niin ne aikoo tehdä ja aikoo myös korjata näitä virheitä laista.
 Puhuja 1: Jotta vastaavaa ei tapahtuisi uudestaan.
-Puhuja 0: Mun mielestä aina tehdään asiat,
-Puhuja 0: jottei enää tulisi tällaista.
+Puhuja 0: Suomessa aina tehdään asiat, jottei enää uudelleen tulisi tällaista.
 Puhuja 0: Anni,
-Puhuja 0: podcast täydellinen pako on mun tekemä. Salla on sen tähti, joten olet kuulijan
+Puhuja 0: podcast täydellinen pako on mun tekemä. Salla on sen tähti, joten olet nyt tässä kuulijan
 Puhuja 0: ominaisuudessa.
-Puhuja 0: Haluatko yhdellä lauseella vain jotenkin sanoa, minkälainen se podcast oli? Se oli sairaan hyvä. Mä koukutin siihen.
-Puhuja 1: Tietysti ajattelin, että se on priimaa,
-Puhuja 1: mutta ajattelin, että se jotenkin vaan referoi sitä juttua. Mutta siinä on sairaan paljon enemmän kaikkea muuta kuin pelkästään se, mitä siinä on ajateltu, että ne toimii yhtenä paketissa.
-Puhuja 1: Jos
-Puhuja 1: on lukenut jutun,
-Puhuja 1: niin siinä tulee ihan sikana kaikkea lisää
-Puhuja 1: uutta tietoa ja kaikkea tosi mielenkiintoisia
-Puhuja 1: asioita. Se on
-Puhuja 1: todella hienosti rakennettu ja kunnan draaman kaari.
-Puhuja 2: Annikin saa korvapuustia
-Puhuja 2: tästä.
-Puhuja 1: Siitä sai tosi paljon lisää verrattuna siihen, että olisi lukenut vain sen jutun. Ja sitten taas vaikka ei olisi lukenut juttua, niin sekään ne haittaa, että siinä pääsi tosi hyvin kärryille. Siinä kerrottiin
-Puhuja 1: se podcast käsittelee sitä,
+Puhuja 0: Haluatko yhdellä lauseella jotenkin sanoa, että minkälainen se podcast oli? Se oli sairaan hyvä. Mä koukutin siihen.
+Puhuja 1: Tietysti ajattelin, että se on priimaa, mutta
+Puhuja 1: ajattelin, että se jotenkin vaan referoi sitä juttua. Mutta siinä on sairaan paljon enemmän kaikkea muuta kuin pelkästään se, mitä siinä on. Joo, se on ajateltu, että ne toimii yhtenä paketissa. Siis todellakin,
+Puhuja 1: jos on lukenut jutun,
+Puhuja 1: niin siinä tulee ihan sikana kaikkea lisää uutta tietoa ja kaikkea tosi mielenkiintoisia
+Puhuja 1: asioita. Se on todella
+Puhuja 1: hienosti rakennettu ja kunnan draaman kaariin
+Puhuja 1: ja kaikki oli tosi Annikin saa korvapuustia.
+Puhuja 1: Siitä sai tosi paljon lisää verrattuna siihen, että olisi lukenut vaan sen jutun. Ja taas vaikka ei olisi lukenut juttua, niin sekään ne haittaa, että siinä pääsi tosi hyvin kärryille. Siinä kerrottiin, että
+Puhuja 1: podcast käsittelee
+Puhuja 1: sitä,
 Puhuja 1: miten te saitte sen selville, miten te sitä jäljititte eri paikoissa. Se on todella mielenkiintoista.
-Puhuja 1: Toimittajan työhän ei useimmiten ole mielenkiintoista,
-Puhuja 1: mutta herranjestas tuo on kunnon
-Puhuja 2: että
-Puhuja 2: jutun tähti,
-Puhuja 2: jos tällaisia termejä nyt voi käyttää journalismin yhteydessä, mutta
-Puhuja 2: jutun Dynaamo on Paavo Teittinen, joka on
-Puhuja 2: tämän toimittaja. Olin tässä pomohommissa ja tuottajahommissa, mutta tosi hands on kyllä siellä.
-Puhuja 2: Niin kuin Paavolla yleensä, niin tämä on huimaa duunia.
-Puhuja 0: Kyllä, uskomattoman hieno
-Puhuja 0: äijä. Okei,
+Puhuja 1: Ja toimittajan työhän ei useimmiten ole mielenkiintoista, mutta herranjestas
+Puhuja 1: tuo
+Puhuja 1: on kunnon
+Puhuja 1: dekkarikamaa.
+Puhuja 2: Joo.
+Puhuja 2: Pakko nyt tähän sanoa,
+Puhuja 2: että jutun
+Puhuja 2: tähti,
+Puhuja 2: jos tällaisia termejä voi nyt käyttää journalismin yhteydessä,
+Puhuja 2: mutta jutun dynami on Paavo Teittinen, joka on
+Puhuja 2: tämän toimittaja. Minä olin tässä pomohommissa
+Puhuja 2: ja tuottajahommissa,
+Puhuja 2: mutta tosi hands on kyllä siellä. Mutta Niin kuin
+Puhuja 2: Paavolla yleensä, niin tää on huimaa duunia.
+Puhuja 0: Kyllä, uskomattoman hieno äijä.
+Puhuja 0: Okei,
 Puhuja 0: sitten kun
-Puhuja 0: syssateet
-Puhuja 0: tulee pikkuhiljaa niskaan ja olette
-Puhuja 0: kävelemässä
-Puhuja 0: tuolla
-Puhuja 0: Helsingin kaduilla ja sitten yhtäkkiä joku juoksee ohi silleen, että dönnspatrullen.
-Puhuja 0: Käsittää silleen, että
-Puhuja 0: aa, kauheeta tarvitsen sherrya nyt. Menette vaikka Kafeesplanadiin
-Puhuja 0: ja... Patette Kajhuoneelle.
-Puhuja 0: Kajohuoneelle
-Puhuja 0: ja otatte yhden rauhoittavan siinä.
-Puhuja 0: Mistä sitten
-Puhuja 0: sormustin
-Puhuja 0: tutisten avaatte naapuripöytään. Siellä keskustelen.
-Puhuja 1: Mä ajattelin hieroa tätä huumehommaa vielä ihmisten naamaan. Suositteletko jotain huumetta?
-Puhuja 0: Ihmisten nenää ajatteli
-Puhuja 1: jäädä. Tuosta aiheesta,
-Puhuja 1: mistä me vähän puhuttiin, tästä billekäyttäjien vastusta,
-Puhuja 1: niin siitä oli oikein erilainen kirjoitus Suomen lehdistö julkaisussa.
-Puhuja 1: Jegaterina Mantsinen
+Puhuja 0: syyssateet tulee pikkuhiljaa
+Puhuja 0: niskaan ja
+Puhuja 0: Olette kävelemässä tuolla Helsingin
+Puhuja 0: kaduilla ja sitten yhtäkkiä joku juoksee ohjaaja, että: A dödspatrullen!
+Puhuja 0: Ja sitten olette silleen: Kauheeta tarvitsen sherrya nyt! Ja sitten menette vaikka Kafe Esplanadiin ja... Patette Kaihuonelle.
+Puhuja 0: Kaikon huoneelle. Otatte yhden rauhoittavan siinä, niin
+Puhuja 0: mistä
+Puhuja 0: sitten sormusten
+Puhuja 0: tutisten avaatte naapuripöytään
+Puhuja 0: tiellä keskustelen.
+Puhuja 1: Mä ajattelin hierot tätä huumehommaa vielä ihmisten naamaan. Suositteletko jotain huumetta?
+Puhuja 0: Ihmisten nenää ajattelit hieronnan.
+Puhuja 1: Tuosta aiheesta,
+Puhuja 1: mistä me vähän puhuttiin, tästä bille käyttäjien vastusta,
+Puhuja 1: Siitä oli oikein erilainen kirjoitus Suomen
+Puhuja 1: lehdistö julkaisussa
+Puhuja 1: Jekaterina
+Puhuja 1: Mantsinen
 Puhuja 1: kirjoitti
-Puhuja 1: aivan loistavan tekstin siitä, joka mun mielestä kaikkien huumeiden, billekäyttäjien ja kaikkien ihmistenkin pitäisi lukea.
-Puhuja 1: Se käsitteli nimenomaan tuota aihetta. Siinä oli vaan äärimmäisen hyvin perusteltu se, että miten nimi oli joku, nyt mä en muista, mulla ei estä tässä ylhäällä, mutta nimi oli joku
-Puhuja 1: tämmöinen rikollisjengi,
-Puhuja 1: joka näyttää meiltä.
+Puhuja 1: aivan loistavan tekstin siitä, joka mun mielestä kaikkien huumeiden, billekäyttäjien ja kaikkien ihmistenkin pitäisi lukea. Kiitos.
+Puhuja 1: Se käsitteli nimenomaan tuota aihetta. Se oli vaan äärimmäisen hyvin perusteltu se, että miten se nimi oli joku, nyt en muista, mulla ei osta tässä ylhäällä, mutta se nimi oli joku
+Puhuja 1: tämmöinen rikollisjengi, joka näyttää meiltä.
 Puhuja 1: Suomen lehdistö.
 Puhuja 1: Se on ammattialan
 Puhuja 1: julkaisu, niin jos sinne sivulle menee, niin siellä näkyy.
 Puhuja 1: Se oli hyvä kolumnikirjoitus.
-Puhuja 2: Minä
-Puhuja 2: kehottaisin
-Puhuja 2: lähtemään Osloon, nimittäin juuri norjalaisprojektin,
-Puhuja 2: josta äsken puhuttiin yhteydessä,
-Puhuja 2: sain
-Puhuja 2: ilon käydä Oslossa.
+Puhuja 2: Mä kehottaisin
+Puhuja 2: lähtemään Osloon. Nimittäin just tämän norjalais
+Puhuja 2: projektin, josta äsken puhuttiin yhteydessä,
+Puhuja 2: sain ilon käydä Oslossa.
 Puhuja 2: Siellä on
 Puhuja 2: ihan kaupungin ytimessä
 Puhuja 2: veden äärellä
-Puhuja 2: tällainen
-Puhuja 2: rakennus, joka minun mielestä näyttää vähän sellaiselta raviradanssi
-Puhuja 2: tai
-Puhuja 2: mikä se nyt on se rakennus siinä, mistä katsellaan niitä raveja. Se on vähän
+Puhuja 2: tällainen rakennus, joka minun mielestäni näyttää vähän semmoisen raviradan
+Puhuja 2: sitä, mikä se nyt on se rakennus siinä, mistä katsellaan niitä raveja. Se
+Puhuja 2: on vähän semmoinen, että katsot sitä,
+Puhuja 2: tykkäänkö tästä vai oikeastaan aivan kauhea.
 Puhuja 2: Kysymyksessä on siis Munk-museo,
 Puhuja 2: jossa ehdimme
 Puhuja 2: työnteon yhteydessä käymään.
-Puhuja 2: On kyllä hieno paikka. Rakastan
-Puhuja 2: tanskalaisia, norjalaisia ja ruotsalaisia museoita, ne on aina ihan mahtavia.
-Puhuja 2: Tämä on taidemuseon
-Puhuja 2: nimensä mukaisesti muunkin
+Puhuja 2: Ja on kyllä hieno paikka.
+Puhuja 2: Rakastan
+Puhuja 2: tanskalaisia,
+Puhuja 2: norjalaisia ja ruotsalaisia museoita. Nämä on aina ihan mahtavia.
+Puhuja 2: Tietysti tämä on taidemuseon
+Puhuja 2: nimensä mukaisesti
+Puhuja 2: muunkin
 Puhuja 2: huutotaulun
-Puhuja 2: tekijän, hänet siitä tunnetaan hyvin, niin hänen nimeään kantava museo, jossa siis on paljon hänen taidettaan.
-Puhuja 2: Siellä oli sitten niin kuin ylimmässä kerroksessa oli amerikkalaisen taidemaalari Alice Niilin
-Puhuja 2: näyttely ja
-Puhuja 2: Oli hieno kokemus, suosittelen,
-Puhuja 2: että Timo Soinikin voi mennä, kun me naurettiin Paamon kanssa siellä. Timo Soinikin tykkäisi, kun tää näyttää raviradan
-Puhuja 2: rakennuksen,
+Puhuja 2: tekijän, hänet siitä tunnetaan hyvin, hänen nimeään kantava museo, jossa siis on paljon hänen taidettaan.
+Puhuja 2: Siellä oli
+Puhuja 2: sitten ylimmässä kerroksessa
+Puhuja 2: amerikkalaisen taidemaalari Alice Niilin
+Puhuja 2: näyttely.
+Puhuja 2: Oli hieno kokemus. Suosittelen,
+Puhuja 2: että Timo Soinikin voi mennä, kun me naurettiin Paavon kanssa siellä. Timo Soinikin tykkäisi, kun tää näyttää raviradan rakennukset, vaikka ei ehkä mistään muusta siellä. Kun tämä näyttää raviratalle rakennuksen,
 Puhuja 2: vaikkei ehkä mistään muusta siellä tykkäisikään.
-Puhuja 1: Sehän on aika uusi rakennus. Sitten ei ollut vielä. Olin Oslossa vaihdossa muutaman tai no siitä on jo aika kauan aikaa, mutta silloin kun olin vielä opiskelija, niin sitten ei vielä ollut. Joo, se muutti
-Puhuja 2: raviratan
-Puhuja 2: rakennukseen vuonna kaksituhatta kaksikymmentäyksi. Kohun kera
-Puhuja 2: on tämä syntynyt.
-Puhuja 0: Okei. Hauskasti ollaan Sallan kanssa jälleen synkronissa. Mullakin on matkustamiseen liittyvä
-Puhuja 0: keskustelunaihe. Nimittäin se on käänteinen.
-Puhuja 0: Rakkaat kuulijat,
-Puhuja 0: olen lähtemässä
+Puhuja 1: Sehän on aika uusi rakennus. Sitä ei ollut vielä. Mä olin Oslossa vaihdossa muutama, tai no, siitä oli jo aika kauan aikaa, mutta silloin kun olin vielä opiskelija, niin sitä ei vielä ollut. Se muutti
+Puhuja 2: tähän raviratan rakennukseen vuonna kaksituhatta kaksikymmentäyksi.
+Puhuja 2: Kohun kera on tämä syntynyt.
+Puhuja 0: Okei. Hauskasti ollaan Sallan kanssa jälleen synkronissa.
+Puhuja 0: Mullakin on matkustamiseen
+Puhuja 0: liittyvä
+Puhuja 0: keskustelun aihe nimittäin se on käänteinen.
+Puhuja 0: Rakkaat kuulijat. Olen
+Puhuja 0: lähtemässä
 Puhuja 0: tältä istumalta Varsovaan
 Puhuja 0: Puolaan.
 Puhuja 0: Aion siellä olla X päivää.
-Puhuja 0: Toivoisin, että semmoset
-Puhuja 0: must-see
+Puhuja 0: Toivoisin, että semmoset must seee
 Puhuja 0: vinkit
-Puhuja 0: tänne
-Puhuja 0: päin. Mä tykkään kaikesta hämärästä,
-Puhuja 0: siitä tyylielämästä.
-Puhuja 0: Kaikki hipterikaupat
-Puhuja 0: ja sellaiset. Kaikki design, kaikki tällainen. Myös
+Puhuja 0: tänne päin.
+Puhuja 0: Mä tykkään kaikesta hämärästä,
+Puhuja 0: sitten tyylielämästä,
+Puhuja 0: kaikki hipsterikaupat
+Puhuja 0: ja sellaiset,
+Puhuja 0: kaikki design, kaikki tällainen.
+Puhuja 0: Myös
 Puhuja 0: ruoka
-Puhuja 0: ja kummallisuudet
-Puhuja 0: pornaluoat,
-Puhuja 0: joissa on siileä tai ihan mitä vaan. Kaikki omituinen
-Puhuja 0: ja ruoka ja kirjakauppakahvilat.
-Puhuja 0: Instagram on paras tapa tavoittaa mut yksityisviestillä.
+Puhuja 0: ja
+Puhuja 0: kummallisuudet,
+Puhuja 0: pornaluoat, joissa on siileä tai ihan mitä vaan. Kaikki omituinen
+Puhuja 0: ja ruoka. Ja kirjakauppakahvilat.
+Puhuja 0: Okei. Instagram on paras tapa tavoittaa mut yksityisviestillä.
 Puhuja 0: Joten laittakaa mun Instagramiin
-Puhuja 1: varsavan vinkkejä, kiitos. Tinderiin voi myös laittaa.
-Puhuja 0: Näin, mutta en hyvin asiaan.
-Puhuja 0: Siinä
-Puhuja 0: kaikki tältä erää. Kiitos Anne Keski-Heikkilä.
-Puhuja 0: Kiitos Salla Vuorikoski. Kiitos. Minun nimi on Tuomas Peltolagi. Ääni ja kuvan kaiken muun mahtava meille tekee tällä viikolla Mikko Peura. Kiitos, Mikko.
-Puhuja 0: Muistakaa lähettää meille palautetta. Se onnistuu
+Puhuja 1: varsinva vinkkejä, kiitos. Tinderiin voi myös laittaa.
+Puhuja 0: No näin, mä vihaan asiaan.
+Puhuja 0: Okei,
+Puhuja 0: siinä kaikki tältä erää. Kiitos Anne Keski-Heikkilä. Kiitos. Kiitos Salla Vuorikoski. Kiitos. Mun nimi on Tuomas Peltomäki. Ääni, kuvan kaiken muun mahtava meille tekee tällä viikolla Mikko Peura. Kiitos, Mikko.
+Puhuja 0: Ja
+Puhuja 0: muistakaa lähettää meille palautetta. Se onnistuu
 Puhuja 0: sähköposteihin
-Puhuja 0: Instagram,
-Puhuja 0: DMI:n,
-Puhuja 0: Tinderiin
-Puhuja 0: ja myös
-Puhuja 0: X:ssä, josta aion vittolähta pois, kun sen uskon niin.
-Puhuja 0: Tämä on semmoinen Venäjä trollia, kätyri ja saatanan
-Puhuja 0: maanpetturi. No niin, uutisraportti
-Puhuja 0: siellä kuitenkin toistaiseksi,
-Puhuja 0: kunnes exit tapahtuu. Ja kuullaan taas ensi viikolla, sori,
-Puhuja 0: viimeisestä kirosanasta vähän niin kuin vähän tuli viime viikolla.
+Puhuja 0: Instagram
+Puhuja 0: DMI:n
+Puhuja 0: ja Tinderiin
+Puhuja 0: näemmä.
+Puhuja 0: Ja sitten myös x:ssä,
+Puhuja 0: josta
+Puhuja 0: aion vittolähde pois, kun sen uskon niin. Tämä on Venäjä trollia, kätyri ja saatanan maanpetturi.
+Puhuja 0: No niin,
+Puhuja 0: uutiksiraportti siellä kuitenkin toistaiseksi, kunnes exit tapahtuu. Kuullaan taas ensi viikolla, sori, viimeisestä kirosanasta vähän, mihin päähän tuli viime vuonna.
 Puhuja 0: Moi, Tuomas tässä.
-Puhuja 0: Mun uusi podcast Menetetyt miljardit
-Puhuja 0: kertoo tarinan siitä, miten Suomen historian suurin yritystappio
+Puhuja 0: Mun uusi podcast Menetyt miljardit,
+Puhuja 0: se kertoo tarinan siitä, miten Suomen historian suurin yritystappio
 Puhuja 0: syntyi.
 Puhuja 0: Kaiken keskiössä on yhden suomalaisen
-Puhuja 0: yrityksen eli Fortumin, melko suuruudenhullu päätös asettua välikappaleeksi
+Puhuja 0: yrityksen eli Fortumin. Melko suuruudenhullu päätös asettua välikappaleeksi
 Puhuja 0: Saksan ja Venäjän väliseen kaasukauppaan.
-Puhuja 0: Kaasukauppaan, joka päätyi aseeksi aseeksi suurvaltapolitiikassa.
+Puhuja 0: Kaasukauppaan,
+Puhuja 0: joka päätyi aseeksi
+Puhuja 0: suurvaltapolitiikassa.
 Puhuja 0: Energiasta on tullut ase. Maailma on muuttunut tavalla, jota tuskin kukaan osasi ennakoida.
-Puhuja 0: Kun mä aloin tehdä tätä Podcastini, mä luulin, että mä lähtisin selvittämään
-Puhuja 0: kenties maailman ehkä luotaan työntävintä aihetta, mutta kävikin aivan päinvastoin.
+Puhuja 0: Kun mä aloin tehdä tätä podcastia, mä luulin, että mä lähtisin selvittämään
+Puhuja 0: kenties maailman ehkä luotaantyöntävintä
+Puhuja 0: aihetta, mutta kävikin aivan päinvastoin.
 Puhuja 0: Mun eteen avautui taloudellinen
 Puhuja 0: murhamysteeri.
-Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia bisnesmiehiä
-Puhuja 0: ja on poliitikkoja
-Puhuja 0: On jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti
-Puhuja 0: Kaliforniaa ja se, miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
-Puhuja 0: On Greta Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapina aktivistit.
-Puhuja 0: Ja totta kai on Vladimir Putin ja hänen Hämääkinverkkonsa.
+Puhuja 0: Tämän tarinan hahmoina on kunnianhimoisia
+Puhuja 0: bisnesmiehiä
+Puhuja 0: ja on poliitikkoja,
+Puhuja 0: on jopa matemaatikko, joka lähti 70-luvulla Suomesta kohti Kaliforniaa, ja se miten hänen ajatuksensa säteili sieltä koko maailmaan seuraavina vuosikymmeninä.
+Puhuja 0: On Greatot Thunberg ja on Ruotsin kuningas ja suomalaiset Elokapinan
+Puhuja 0: aktivistit.
+Puhuja 0: Ja tottakai
+Puhuja 0: on Vladimir Putin ja hänen hämääkin verkkonsa.
 Puhuja 0: Voit kuunnella podcastin nyt ihan ilmaiseksi Hesarin sovelluksesta.
 Puhuja 0: Lataa siis C ja kuuntele viisiosainen
-Puhuja 0: menetetyt miljardit.
+Puhuja 0: menetetyt
+Puhuja 0: miljardit.
