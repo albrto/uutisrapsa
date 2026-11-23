@@ -197,7 +197,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "oikeudenkäynti",
           "ympäristö",
-          "tosi tarina"
+          "tositarina"
         ],
         "kuvaus": "Elokuva liikejuristin kamppailusta kemikaalijätti DuPontia vastaan. Perustuu New York Times Magazinen artikkeliin vuodelta 2016 ja käsittelee sitä, miten suuryritykset myrkyttävät ympäristöä ja miten vaikeaa on saattaa ne vastuuseen.",
         "google_linkki": "https://www.google.com/search?q=Dark+Waters+elokuva",
@@ -2682,7 +2682,7 @@ window.VALIDATION_DATA = [
         "teos": "La Haine",
         "paakategoria": "elokuva",
         "kategoriat": [
-          "ranska",
+          "Ranska",
           "yhteiskunta",
           "klassikko"
         ],
@@ -3283,7 +3283,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "tutkiva journalismi",
-          "metoo",
+          "MeToo",
           "tietokirja"
         ],
         "kuvaus": "Ronan Farrow'n kirja Harvey Weinstein -skandaalin paljastamisprosessista ja NBC:n roolista jutun hautaamisessa. Toimittajalle kiehtovaa luettavaa, joka kertoo yksityiskohtaisesti tutkivan journalismin prosessista.",
@@ -3399,7 +3399,7 @@ window.VALIDATION_DATA = [
         "teos": "Squid Game",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "korea",
+          "Korea",
           "selviytymisthrilleri",
           "Netflix"
         ],
@@ -3438,7 +3438,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "satiiri",
           "komedia",
-          "sci-fi"
+          "scifi"
         ],
         "kuvaus": "Netflix-satiirielokuva, jossa kaksi tiedemiestä yrittää varoittaa maailmaa tuhoisasta komeetasta. Toimii metaforana ilmastonmuutokselle, pandemialle ja medialle.",
         "google_linkki": "https://www.google.com/search?q=Don't+Look+Up+2021",
@@ -4202,7 +4202,7 @@ window.VALIDATION_DATA = [
         "teos": "Severance",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "Apple TV+",
           "työelämä"
         ],
@@ -4279,7 +4279,7 @@ window.VALIDATION_DATA = [
         "teos": "Severance",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "dystopia",
           "psykologinen"
         ],
@@ -4820,7 +4820,7 @@ window.VALIDATION_DATA = [
         "teos": "Memories of Murder",
         "paakategoria": "elokuva",
         "kategoriat": [
-          "rikosdraaama",
+          "rikosdraama",
           "eteläkorealainen elokuva",
           "jännitys"
         ],
@@ -5162,7 +5162,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "draama",
           "rikosjännitys",
-          "spinoff"
+          "spin-off"
         ],
         "kuvaus": "Breaking Badin spinoff, jonka viides ja viimeinen kausi on meneillään. Kertoo takaumana, kuinka rosvojen asianajajasta Saulista tuli se, mitä hän on. Kerronnaltaan hidas ja eurooppalaisen oloinen – Markon mielestä parantunut koko ajan.",
         "google_linkki": "https://www.google.com/search?q=Better+Call+Saul",
@@ -5917,7 +5917,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "rikospodcast",
           "tutkiva journalismi",
-          "tosi tarina"
+          "tositarina"
         ],
         "kuvaus": "Yhdysvaltalainen tutkiva narratiivinen rikospodcast, jossa äänessä ovat kaikki tapauksen tärkeimmät henkilöt ja omaiset. Yksi parhaista rikospodcasteista, erittäin hyvin tuotettu.",
         "google_linkki": "https://www.google.com/search?q=Dirty+John+podcast",
@@ -5935,7 +5935,7 @@ window.VALIDATION_DATA = [
         "teos": "Jet Lag: The Game",
         "paakategoria": "muu",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "matkailu",
           "reality"
         ],
@@ -6129,7 +6129,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kulttuuri",
         "kategoriat": [
           "sketsikomedia",
-          "instagram",
+          "Instagram",
           "huumori"
         ],
         "kuvaus": "Suomalainen Instagram-sketsitili, jossa absurdeja ja tolkuttomia hahmoja kuten iskelmälaulaja Janne Juhana. Paikoin hyvin asiaton mutta viihdyttävä.",
@@ -6149,7 +6149,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kulttuuri",
         "kategoriat": [
           "sketsikomedia",
-          "instagram",
+          "Instagram",
           "huumori"
         ],
         "kuvaus": "Suomalainen sketsiartisti Instagramissa ja TikTokissa. Erityisesti sohvan ostamisesta kertova sketsi sai suosittelijan mukaan nauramaan enemmän kuin mikään suomalainen sisältö vuosiin.",
@@ -6359,7 +6359,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "musiikki",
           "televisio",
-          "euroviisut"
+          "Euroviisut"
         ],
         "kuvaus": "Tuomas suosittelee katsomaan kaikki euroviisuesitykset ja semifinaalit etukäteen ennen lauantain finaalia, jotta finaalikokemus on paljon rikkaampi.",
         "google_linkki": "https://www.google.com/search?q=Eurovision+2023+semifinaalit+esitykset",
@@ -6914,7 +6914,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "ambient",
-          "netflix",
+          "Netflix",
           "tunnelma"
         ],
         "kuvaus": "Netflix-ohjelma, jossa kuvataan takkaa tunnin ajan. Täydellinen taustakuva sohvalla viltin alla istumiseen.",
@@ -7083,7 +7083,7 @@ window.VALIDATION_DATA = [
         "teos": "Star Wars: Ahsoka",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "Star Wars",
           "Disney+"
         ],
@@ -7136,9 +7136,9 @@ window.VALIDATION_DATA = [
         "teos": "Stranger Things",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "kauhu",
-          "80-luku"
+          "1980-luku"
         ],
         "kuvaus": "Netflixin kahdeksanosainen minisarja, joka sijoittuu 1980-luvun amerikkalaiseen pikkukaupunkiin. Neljä nuorta poikaa, joista yksi katoaa – sekoitus nostalgiaa, kauhua ja 80-luvun syntetisaattorimusiikkia.",
         "google_linkki": "https://www.google.com/search?q=Stranger+Things",
@@ -7890,7 +7890,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "podcast",
         "kategoriat": [
           "tiede",
-          "yle areena",
+          "Yle Areena",
           "oppiminen"
         ],
         "kuvaus": "Toimittaja Henry Tikkasen tiededokumenttipodcast Yle Areenassa. Lyhyet, noin 30 minuutin jaksot mielenkiintoisista tieteenaiheista ja next-level äänisuunnittelu.",
@@ -7931,7 +7931,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "kieltenopiskelu",
           "sovellus",
-          "korea"
+          "Korea"
         ],
         "kuvaus": "Suosittu kieltenopettelusovellus, jossa päivittäinen streak-mekanismi motivoi opiskelemaan. Anni opiskelee sovelluksella koreaa ja on saavuttanut yli sadan päivän strikin.",
         "google_linkki": "https://www.google.com/search?q=Duolingo+kieltenopiskelu",
@@ -7988,7 +7988,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "urheilu",
         "kategoriat": [
           "pesäpallo",
-          "live-urheilu",
+          "liveurheilu",
           "kesä"
         ],
         "kuvaus": "Merkitse superpesiksen ottelut kalenteriisi etukäteen, jotta tulee oikeasti lähdettyä katsomaan pelejä paikan päälle. Esimerkiksi Hyvinkäälle reissu on suunnitteilla.",
@@ -8454,7 +8454,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "tietokirja"
         ],
         "kuvaus": "Washington Postin toimittajien Philip Ruckerin ja Carol Leonnigin kirja Trumpin ensimmäisestä presidenttikaudesta ja Valkoisen talon sekasortoisista vuosista. Ilmestyi samana päivänä suomeksi nimellä Minä yksin – Donald Trump ja Valkoisen talon hullut päivät.",
@@ -8551,7 +8551,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "elämäkerta"
         ],
         "kuvaus": "New York Timesin toimittajan Trump-kirja, joka käy analyyttisesti teema kerrallaan läpi Trumpin pyrkimystä kostaa vihollisilleen ja miten hän on sen toteuttanut.",
@@ -8591,7 +8591,7 @@ window.VALIDATION_DATA = [
         "teos": "Luomakunta-podcast",
         "paakategoria": "podcast",
         "kategoriat": [
-          "stand up",
+          "stand-up",
           "keskustelu"
         ],
         "kuvaus": "Uutisrapsan entisen käsikirjoittajan, stand up -koomikko Jonne Rannan podcast, jossa Peltomäki kävi puhumassa Menetetyistä miljardeista - hyvin vapaamuotoinen ja hauska podcast.",
@@ -8649,7 +8649,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "tietokirja",
           "journalismi",
-          "metoo"
+          "MeToo"
         ],
         "kuvaus": "Matilda Gustafssonin tietokirja Ruotsin kulttuurieliitin romahduksesta, seksuaalisesta häirinnästä ja journalistisesta paljastusprosessista. Kirja kertoo Dagens Nyheterin paljastamasta kulttuuriprofiilista, joka tuomittiin raiskauksesta.",
         "google_linkki": "https://www.google.com/search?q=Yhdeksäntoista+Ruotsin+akatemian+romahdus+Matilda+Gustafsson",
@@ -10029,7 +10029,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "musiikki",
         "kategoriat": [
           "konsertti",
-          "pop-musiikki",
+          "popmusiikki",
           "live-esitys"
         ],
         "kuvaus": "Taylor Swiftin Eras Tour -konsertti Wembleyllä Lontoossa. Suosittelija kehuu paikkaa erinomaiseksi: ei jonoja, hyvät turvatoimet ja upea tunnelma.",
@@ -10583,7 +10583,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "dekkari",
           "urheilu",
-          "amerikka"
+          "Amerikka"
         ],
         "kuvaus": "John Grishamin uusi kirja, joka kertoo eteläsudanilaisesta nuoresta koripalloilijasta, joka saa stipendin amerikkalaiseen kouluun. Marko Junkkari luki kirjaa puoleen yöhön asti ja suosittelee lämpimästi.",
         "google_linkki": "https://www.google.com/search?q=Sooley+John+Grisham",
@@ -10602,7 +10602,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "poliisisarja",
-          "thrilleri",
+          "trilleri",
           "brittiläinen"
         ],
         "kuvaus": "Brittiläinen poliisisarja, jossa tutkitaan poliisin sisäistä korruptiota. Kuudes kausi tulossa Ylelle toukokuun alkupuolella. Erittäin hyvin käsikirjoitettu ja koukuttava.",
@@ -10622,7 +10622,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "supersankari",
-          "netflix",
+          "Netflix",
           "fantasia"
         ],
         "kuvaus": "Netflixin supersankarisarja, jota Tuomas vertaa Game of Thronesiin intensiivisyytensä ja mielettömien cliffhangeriensa vuoksi. Kaksi kautta saatavilla.",
@@ -11123,7 +11123,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "rikos",
           "komedia",
-          "amerikka"
+          "Amerikka"
         ],
         "kuvaus": "Tv-sarja Oklahomasta, jossa Billy Bob Thornton esittää paikallista toimittajaa, joka alkaa selvittää mahtisuvun konnantekojen ja epäilyttävän kuoleman salaisuuksia. Koominen pohjavire ja antisankarihahmo tekevät siitä viihdyttävää katsottavaa.",
         "google_linkki": "https://www.google.com/search?q=Landman+tv-sarja",
@@ -11530,7 +11530,7 @@ window.VALIDATION_DATA = [
         "teos": "Churchkhela (georgialainen jälkiruoka)",
         "paakategoria": "ruoka",
         "kategoriat": [
-          "georgia",
+          "Georgia",
           "vegaaninen",
           "matkatuliaiset"
         ],
@@ -12300,7 +12300,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "musiikkijournalismi",
           "queer-kulttuuri",
-          "pop-musiikki"
+          "popmusiikki"
         ],
         "kuvaus": "Rolling Stone -lehdessä julkaistu pitkä artikkeli siitä, miten lesbojen tekemä popmusiikki löi läpi ennennäkemättömällä tavalla vuonna 2024 ja mitä se merkitsee queer-ihmisille kulttuurisesti.",
         "google_linkki": "https://www.google.com/search?q=Inside+the+Highs+and+Lows+of+Sapphic+Pop+Banner+Year+Rolling+Stone",
@@ -12318,7 +12318,7 @@ window.VALIDATION_DATA = [
         "teos": "Dyyni (tv-sarja)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "fantasia",
           "kirjasovitus"
         ],
@@ -13329,7 +13329,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "podcast",
         "kategoriat": [
           "politiikka",
-          "amerikka",
+          "Amerikka",
           "uutisanalyysi"
         ],
         "kuvaus": "Amerikkalainen politiikkapodcast, joka käsittelee maailman tapahtumia viisaasti ja tiiviisti. Toimii osittain inspiraationa Uutisraportti-podcastille.",
@@ -13482,9 +13482,9 @@ window.VALIDATION_DATA = [
         "teos": "Korean kielen opinnot",
         "paakategoria": "muu",
         "kategoriat": [
-          "kielenopiskelu",
+          "kieltenopiskelu",
           "harrastus",
-          "korea"
+          "Korea"
         ],
         "kuvaus": "Anni Keski-Heikki suosittelee Korean kielen opiskelua työväenopistossa. Korealaiset aakkoset ovat yllättävän helppo opetella, koska ne perustuvat äänteisiin.",
         "google_linkki": "",
@@ -14209,7 +14209,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Maria Manner",
-        "teos": "Heräämisiä (Awakenings)",
+        "teos": "Awakenings (Heräämisiä)",
         "paakategoria": "elokuva",
         "kategoriat": [
           "draama",
@@ -14883,7 +14883,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "cover",
           "akustinen",
-          "70-luku"
+          "1970-luku"
         ],
         "kuvaus": "Little Green on tehnyt koskettavan puolentoista minuutin kitaraversion Supertrampin klassikosta The Logical Song, jonka Tuomas löysi TikTokin kautta.",
         "google_linkki": "https://www.google.com/search?q=Little+Green+The+Logical+Song",
@@ -15073,7 +15073,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "dokumentti",
           "jalkapallo",
-          "90-luku"
+          "1990-luku"
         ],
         "kuvaus": "Netflix-dokumenttisarja David Beckhamista, joka tarjoaa nostalgiapaketin 90-luvun jalkapallokulttuurista ja kurkistuksen Beckhamien kotielämään. Sisältää myös draamaa ja luokkanousun tarinan.",
         "google_linkki": "https://www.google.com/search?q=David+Beckham+dokumentti+Netflix",
@@ -15267,7 +15267,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "sarjakuva",
           "huumori",
-          "instagram"
+          "Instagram"
         ],
         "kuvaus": "Instagram-sarjakuvatili, jossa alienhahmot kuvaavat täysin tavallisia ihmisten arjen asioita omituisen kirjaimellisella ja vieraannuttavalla tavalla. Hauska ja visuaalisesti toimiva neliruutuinen sarjakuva.",
         "google_linkki": "https://www.google.com/search?q=Strange+Planet+Nathan+W+Pyle+Instagram",
@@ -15364,7 +15364,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "politiikka",
           "konservatiivismi",
-          "yhdysvallat"
+          "Yhdysvallat"
         ],
         "kuvaus": "Tuomas suosittelee New York Timesista lähteneen Bari Weissin podcastia, joka käsittelee ajankohtaisia aiheita konservatiivisesta ja woke-kriittisestä näkökulmasta. Tuomaksen mielestä juontaja on vähän vastenmielinen mutta kiistatta fiksu.",
         "google_linkki": "https://www.google.com/search?q=Honestly+with+Bari+Weiss",
@@ -15403,7 +15403,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "podcast",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "demokratia"
         ],
         "kuvaus": "Demokraattistrategien, muun muassa kuuluisan James Carvillen, pitämä podcast, jossa käydään läpi amerikkalaista politiikkaa ja kritisoidaan woke-kulttuuria. Sohvi kutsuu sitä kotona 'patupodcastiksi'.",
@@ -15492,7 +15492,7 @@ window.VALIDATION_DATA = [
         "teos": "Kittilän opetukset – kirja oikeusvaltiosta ja virkavastuusta",
         "paakategoria": "kirja",
         "kategoriat": [
-          "oikeusvaltion",
+          "oikeusvaltio",
           "tietokirja",
           "suomalainen politiikka"
         ],
@@ -16164,7 +16164,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Alma Onali",
-        "teos": "Tina Turner -dokumentti",
+        "teos": "Tina (dokumentti Tina Turnerista)",
         "paakategoria": "elokuva",
         "kategoriat": [
           "dokumentti",
@@ -16438,7 +16438,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "kuvitus",
           "kirjamessut",
-          "poliittinen satire"
+          "poliittinen satiiri"
         ],
         "kuvaus": "Tuomas Peltomäki haastattelee Helsingin Sanomien huippukuvittajaa Lasse Rantasta Helsingin kirjamessuilla Kruununhaka-lavalla. Rantanen tunnetaan sofistikoituneista poliittisista pilakuvistaan.",
         "google_linkki": "https://www.google.com/search?q=Lasse+Rantanen+kuvittaja+Helsingin+Sanomat",
@@ -16495,7 +16495,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "komedia",
           "historia",
-          "poliittinen satiiiri"
+          "poliittinen satiiri"
         ],
         "kuvaus": "Armando Iannuccolin ohjaama poliittinen musta komedia Stalinin kuoleman jälkeisestä valtataistelusta. Marko nauroi ääneen yksin sohvalla – harvinainen saavutus.",
         "google_linkki": "https://www.google.com/search?q=The+Death+of+Stalin+elokuva",
@@ -17930,7 +17930,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "dekkari",
           "oikeusthrilleri",
-          "amerikkalainenkirjallisuus"
+          "amerikkalainen kirjallisuus"
         ],
         "kuvaus": "Scott Turow'n uusin kirja, jonka Marko Junkkari luki yöllä loppuun valvoen melkein kolmeen. Turow on arvostettu juristidekkarikirjailija, ja tämä uusi teos sai Junkkarin hehkumaan koko alkuviikon.",
         "google_linkki": "https://www.google.com/search?q=Scott+Turow+Presumed+Guilty",
@@ -17949,7 +17949,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "dokumentti",
-          "amerikkalainenkulttuuri",
+          "amerikkalainen kulttuuri",
           "mediahistoria"
         ],
         "kuvaus": "Kaksosainen Netflix-dokumentti Jerry Springerin 90-luvun kuohuttavasta päivä-talk showsta. Anna-Sofia Bernerin mukaan dokumentti on kiinnostava aikakuvaus, joka kytkeytyy tosi-tv:n syntyyn, somekeskusteluun ja nykyajan ilmiöihin.",
@@ -18315,7 +18315,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "omaelämäkerrallinen",
-          "ranskalaiskirjallisuus",
+          "ranskalainen kirjallisuus",
           "yhteiskunta"
         ],
         "kuvaus": "Édouard Louisin omaelämäkerrallinen romaani, joka käsittelee toiseuden tunnetta ja omistajuutta omasta tarinasta. Joonan mukaan se on selvästi parempi kuin Louisin esikoinen Ei enää Eddy – kirjallisesti laadukas ja kiinnostavasti kirjoitettu.",
@@ -18697,7 +18697,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "rikostarina",
           "dokumentaari",
-          "amerikka"
+          "Amerikka"
         ],
         "kuvaus": "Palkittu dokumentaarinen podcast, jossa toimittaja lähtee selvittämään murhaa pienessä amerikkalaisessa kaupungissa. Kokonaisvaltainen ja upea tarina, joka kertoo murhasta, kaupungista ja sen asukkaista.",
         "google_linkki": "https://www.google.com/search?q=S-Town+podcast",
@@ -18864,7 +18864,7 @@ window.VALIDATION_DATA = [
         "teos": "Westworld",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "draama",
           "trilleri"
         ],
@@ -18963,7 +18963,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "talous",
           "tietokirjallisuus",
-          "yhdysvallat"
+          "Yhdysvallat"
         ],
         "kuvaus": "Suositellaan journalisti William D. Cohanin kirjoittamaa tietokirjaa Apollo-sijoitusyhtiön perustajasta Leon Blackista, joka alkaa menestystarinana mutta muuttuu kuvaukseksi hänen kytköksistään Jeffrey Epsteiniin.",
         "google_linkki": "https://www.google.com/search?q=William+D.+Cohan+Leon+Black+Apollo+kirja",
@@ -19022,7 +19022,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Helsingin kirjamessut - Patrick Radden Keefe -haastattelu",
+        "teos": "Patrick Radden Keefe -haastattelu Helsingin kirjamessuilla",
         "paakategoria": "kulttuuri",
         "kategoriat": [
           "kirjamessut",
@@ -20302,9 +20302,9 @@ window.VALIDATION_DATA = [
         "teos": "Hurrikaanien aika – Fernanda Melchor",
         "paakategoria": "kirja",
         "kategoriat": [
-          "latinalainen amerikka",
+          "latinalainen Amerikka",
           "nykykirjallisuus",
-          "meksiko"
+          "Meksiko"
         ],
         "kuvaus": "Meksikolaisen nykykirjailijan Fernanda Melchorin romaani, joka tarjoaa kiinnostavan katsauksen meksikolaisen nykymaailman ongelmiin. Suositellaan osana strategiaa laajentaa kirjallisuuden lukemista eri alueilta.",
         "google_linkki": "https://www.google.com/search?q=Hurrikaanien+aika+Fernanda+Melchor",
@@ -20324,7 +20324,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "runous",
           "spoken word",
-          "youtube"
+          "YouTube"
         ],
         "kuvaus": "Spoken word -lavarunoutta, jota voi nauttia esimerkiksi YouTubesta. Lavarunoudessa yhdistyvät omakohtaisuus, huumori ja yhteiskunnallinen kantaaottavuus – helposti lähestyttävä tapa tutustua runouteen.",
         "google_linkki": "https://www.google.com/search?q=Juho+Kuusi+lavarunous",
@@ -20669,7 +20669,7 @@ window.VALIDATION_DATA = [
         "teos": "Musta Laatikko (HS:n livejournalismiesitys)",
         "paakategoria": "kulttuuri",
         "kategoriat": [
-          "live-journalismi",
+          "livejournalismi",
           "teatteri",
           "tapahtuma"
         ],
@@ -20788,7 +20788,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "rugby",
           "baari",
-          "live-urheilu"
+          "liveurheilu"
         ],
         "kuvaus": "Tuomas suosittelee menemään Helsingin Aussibariin katsomaan 6 Nations -rugbyturnauksen otteluita. Baari on täynnä irlantilaisia, ranskalaisia ja englantilaisia, ja tunnelma on kuin ulkomailla.",
         "google_linkki": "https://www.google.com/search?q=Six+Nations+rugby+Helsinki+Aussibar",
@@ -21018,7 +21018,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "politiikka",
           "media",
-          "yhdysvallat"
+          "Yhdysvallat"
         ],
         "kuvaus": "Michael Wolffin kirja Fox Newsin ja Murdoch-perheen kulissien takaisista tapahtumista. Viihdyttävä mutta faktantarkistukseltaan kyseenalainen teos.",
         "google_linkki": "https://www.google.com/search?q=The+Fall+The+End+of+Fox+News+Michael+Wolff",
@@ -21037,7 +21037,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "elämäkerta"
         ],
         "kuvaus": "New York Timesin Trump-toimittaja Maggie Habermanin laaja teos, joka selittää miksi Trump on sellainen kuin on – ei pelkästään presidenttikautta vaan koko elämää käsitellen.",
@@ -21174,7 +21174,7 @@ window.VALIDATION_DATA = [
         "teos": "E-kirjasto",
         "paakategoria": "kirja",
         "kategoriat": [
-          "äänikirjat",
+          "äänikirja",
           "kirjasto"
         ],
         "kuvaus": "Tuomas kehuu yleisten kirjastojen yhteistä E-kirjastoa, josta saa e- ja äänikirjoja ilmaiseksi kaikille suomalaisille. Hänen perheensä on käyttänyt sitä tauon ajan maksullisista äänikirjapalveluista.",
@@ -21463,7 +21463,7 @@ window.VALIDATION_DATA = [
         "teos": "Don't Look Up",
         "paakategoria": "elokuva",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "komedia",
           "ilmastonmuutos"
         ],
@@ -22433,7 +22433,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "vakoilu",
           "brittiläinen",
-          "thrilleri"
+          "trilleri"
         ],
         "kuvaus": "Brittiläinen vakoilusarja Apple TV+:ssa, jossa MI5:n hylkäämät agentit toimivat omassa yksikössään ja päätyvät tutkimaan merkittäviä tapauksia. Viides kausi on parhaillaan käynnissä.",
         "google_linkki": "https://www.google.com/search?q=Slow+Horses+Apple+TV",
@@ -22582,7 +22582,7 @@ window.VALIDATION_DATA = [
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Rest Is Politics: US",
+        "teos": "The Rest Is Politics US",
         "paakategoria": "podcast",
         "kategoriat": [
           "politiikka",
@@ -22943,7 +22943,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "oikeusdraaama",
-          "thriller",
+          "trilleri",
           "Netflix"
         ],
         "kuvaus": "Netflixin uusi sarja Michael Connellin kirjaan perustuen. Kertoo juristista, joka hoitaa tapauksiaan Lincolnin takapenkiltä käsin. Markon mukaan kirja on tiivis, mutta sarja on venytetty turhan pitkäksi.",
@@ -23590,7 +23590,7 @@ window.VALIDATION_DATA = [
         "teos": "Young Cheesy (TikTok-tili)",
         "paakategoria": "muu",
         "kategoriat": [
-          "tiktok",
+          "TikTok",
           "matkailu",
           "sosiaalinen media"
         ],
@@ -24013,7 +24013,7 @@ window.VALIDATION_DATA = [
         "teos": "Elden Ring: The Super Cut – SlimeSicle",
         "paakategoria": "muu",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "videopeli",
           "fantasia"
         ],
@@ -24208,7 +24208,7 @@ window.VALIDATION_DATA = [
         "teos": "Naurava Sohvi -stand up -klubi",
         "paakategoria": "kulttuuri",
         "kategoriat": [
-          "stand up",
+          "stand-up",
           "komedia",
           "Helsinki"
         ],
@@ -25039,7 +25039,7 @@ window.VALIDATION_DATA = [
         "teos": "I'm Thinking of Ending Things",
         "paakategoria": "elokuva",
         "kategoriat": [
-          "taidepelokuva",
+          "taide-elokuva",
           "psykologinen",
           "Netflix"
         ],
@@ -26154,7 +26154,7 @@ window.VALIDATION_DATA = [
         "teos": "Obi-Wan Kenobi",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "Tähtien sota",
           "Disney+"
         ],
@@ -26195,7 +26195,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "elokuva",
         "kategoriat": [
           "kosminen kauhu",
-          "sci-fi",
+          "scifi",
           "art house"
         ],
         "kuvaus": "Ranskalaisen ohjaajan Claire Denisin vuoden 2018 kosmisen kauhun elokuva, jossa elinkautisvangit tekevät tutkimuksia mustan aukon lähettyvillä. Tuomaksen mukaan Robert Pattinsonin ja Juliette Binochen tähdittämä elokuva on masentava mutta vaikuttava ja jää vaivaamaan päiväkausiksi.",
@@ -26712,7 +26712,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "media",
           "journalismi",
-          "yhdysvallat"
+          "Yhdysvallat"
         ],
         "kuvaus": "Amerikkalainen laatuaikakauslehti, josta Tuomas tarkistaa aina ensimmäisenä, onko aiheesta kirjoitettu. Sohvin mukaan Atlantic lähestyy aiheita suurten kysymysten ja ajatusten kautta, kun New Yorker kertoo tarinoita.",
         "google_linkki": "https://www.google.com/search?q=The+Atlantic+lehti",
@@ -26732,7 +26732,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "vanhemmuus",
           "lastenpsykologia",
-          "yhdysvallat"
+          "Yhdysvallat"
         ],
         "kuvaus": "Kate Julianin kirjoittama pitkä artikkeli The Atlantic -lehdessä lasten ahdistuneisuushäiriöiden kasvusta Yhdysvalloissa ja modernin vanhemmuuden haasteista. Yli tunnin kuunneltava, valaiseva ja fiksu katsaus aihepiiriin.",
         "google_linkki": "https://www.google.com/search?q=The+Anxious+Child+and+the+Crisis+of+Modern+Parenting+The+Atlantic+Kate+Julian",
@@ -26752,7 +26752,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "dokumentti",
           "true crime",
-          "netflix"
+          "Netflix"
         ],
         "kuvaus": "Netflixin dokumenttisarja tiikeritarhojen maailmasta, joka alkaa mielenkiintoisena luontodokumenttina mutta muuttuu nopeasti koukuttavaksi murhamysteeriksi täynnä uskomattomia käänteitä.",
         "google_linkki": "https://www.google.com/search?q=Tiger+King+Netflix",
@@ -27254,7 +27254,7 @@ window.VALIDATION_DATA = [
         "teos": "The Lion Challenge TikTok-kanava",
         "paakategoria": "muu",
         "kategoriat": [
-          "tiktok",
+          "TikTok",
           "viihde",
           "visailu"
         ],
@@ -27388,7 +27388,7 @@ window.VALIDATION_DATA = [
         "teos": "Scamanda",
         "paakategoria": "podcast",
         "kategoriat": [
-          "tosi-tarina",
+          "tositarina",
           "huijaus",
           "suomalainen podcast"
         ],
@@ -27700,7 +27700,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "jännitys",
           "ruotsalainen kirjallisuus",
-          "thriller"
+          "trilleri"
         ],
         "kuvaus": "Gustav Skördemanin jännitysromaani, jossa Agneta Broman saa vuosikymmeniä odottamansa puhelun ja ampuu aviomiehensä. Tuomas aikoo aloittaa kirjan junalomallaan Euroopassa.",
         "google_linkki": "https://www.google.com/search?q=Geiger+Gustav+Sk%C3%B6rdeman",
@@ -27755,7 +27755,7 @@ window.VALIDATION_DATA = [
         "teos": "Severance (kausi 2)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
-          "sci-fi",
+          "scifi",
           "filosofia",
           "työelämä"
         ],
@@ -27834,7 +27834,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "journalismi",
           "true crime",
-          "yhdysvallat"
+          "Yhdysvallat"
         ],
         "kuvaus": "Patrick Radden Keffen kirja Sackler-suvun tarinasta ja heidän roolistaan Yhdysvaltain opioidikriisissä. Keffe on saanut käsiinsä ainutlaatuista sähköpostimateriaalia perheen sisältä.",
         "google_linkki": "https://www.google.com/search?q=Empire+of+Pain+Patrick+Radden+Keefe",
@@ -27854,7 +27854,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "museo",
           "historia",
-          "suomi"
+          "Suomi"
         ],
         "kuvaus": "Juha Hurmeen käsikirjoittama näyttely Kansallismuseossa, joka esittelee ideoiden ja vaikutteiden virtauksia Suomen alueella vuosien 1100–1917 välisenä aikana ja kyseenalaistaa tuttuja kansallisia tarinoita.",
         "google_linkki": "https://www.google.com/search?q=Toista+maata+Kansallismuseo+n%C3%A4yttely",
@@ -28176,7 +28176,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "muu",
         "kategoriat": [
           "kirjastopalvelu",
-          "äänikirjat",
+          "äänikirja",
           "sovellus"
         ],
         "kuvaus": "Tuomas suosittelee ilmaista E-kirjasto-sovellusta, jonka avulla voi lainata ja kuunnella äänikirjoja sekä lukea e-kirjoja ja lehtiä kirjastokortilla ilman maksullista äänikirjapalvelua.",
@@ -28814,7 +28814,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "dekkari",
-          "thrilleri",
+          "trilleri",
           "norjalainen kirjallisuus"
         ],
         "kuvaus": "Jo Nesbøn kirjoittama norjalainen dekkarisarja, jonka osat 10 ja 11 Marko luki viikossa – niin koukuttavia, ettei kirjaa saanut laskettua käsistä puoleen kolmeen yöllä. Varoituksena: väkivaltaisuus kasvaa kirja kirjalta.",
@@ -29923,7 +29923,7 @@ window.VALIDATION_DATA = [
         "teos": "Alt Shift X – House of the Dragon -jaksoanalyysit",
         "paakategoria": "muu",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "fantasia",
           "jaksoanalyysi"
         ],
@@ -29961,7 +29961,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "elokuva",
         "kategoriat": [
           "anime",
-          "sci-fi",
+          "scifi",
           "japanilainen elokuva"
         ],
         "kuvaus": "Japanilainen animaatioelokuva vuodelta 1988, joka sijoittuu kaoottiseen Tokioon vuonna 2019. Elokuvassa on maailmanlopun meininki ja uuden synty kaaoksen keskellä – esitetään 4K-versiona Orionissa ja Finnkinon IMAX-salissa.",
@@ -31007,7 +31007,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "artikkeli",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "kulttuurisota"
         ],
         "kuvaus": "New Yorker -lehden artikkeli siitä, kuinka konservatiivinen aktivisti kehitti kriittisen roututeorian käsitteen poliittiseksi aseeksi. Kirjoittanut Benjamin Wallace-Wells.",
@@ -31121,7 +31121,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "chick lit",
           "ihmissuhteet",
-          "new york"
+          "New York"
         ],
         "kuvaus": "Coco Mellorsin chick lit -romaani, joka seuraa nuorta brittinaista New Yorkissa ja hänen suhdettaan rikkaaseen mainostoimistomieheen, jonka alkoholismi koettelee parisuhdetta. Kirja tempaisee mukaansa tunteiden ja ihmissuhteiden maailmaan.",
         "google_linkki": "https://www.google.com/search?q=Cleopatra+and+Frankenstein+Coco+Mellors",
@@ -31468,7 +31468,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "suomalainen draama",
-          "poliittinen jännäri",
+          "poliittinen jännitys",
           "puolustusvoimat"
         ],
         "kuvaus": "Aku Louhimiehen ohjaama suomalainen tv-sarja, jossa Hankoniemi on vallattu vieraan vallan toimesta ja presidentti sekä pääministeri ovat täysin eri linjoilla kriisin ratkaisemisessa. Salla pitää sarjaa yllättävän laadukkaana ja kansainvälisen tason näköisenä.",
@@ -31661,7 +31661,7 @@ window.VALIDATION_DATA = [
         "teos": "Chris Spargo (YouTube-tubettaja)",
         "paakategoria": "muu",
         "kategoriat": [
-          "youtube",
+          "YouTube",
           "populaaritiede"
         ],
         "kuvaus": "Tuomas suosittelee brittiläistä YouTube-tubettajaa, joka tutkii arkipäiväisiä kummallisuuksia – kuten sitä, miksi pullonkorkit eivät enää irtoa – perinpohjaisesti ja miellyttävällä tavalla.",
@@ -32274,7 +32274,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "omaelämäkerta",
-          "tanskalaiskirjallisuus",
+          "tanskalainen kirjallisuus",
           "klassikko"
         ],
         "kuvaus": "Tanskalaisen kirjailijan Tove Ditlevsenin omaelämäkerrallinen trilogia, joka sijoittuu Kööpenhaminaan. Jakson suosittelijan kevään suosikkilukemisto.",
@@ -32505,7 +32505,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "artikkeli",
         "kategoriat": [
           "etnisyys",
-          "yhdysvallat",
+          "Yhdysvallat",
           "tutkiva journalismi"
         ],
         "kuvaus": "Maria suosittelee New York Timesin pitkää feature-artikkelia yhdysvaltalaisista tutkijoista, jotka ovat huijanneet etnisen taustansa – muun muassa Andrea Smithistä, joka esiintyi cherokee-alkuperäiskansan jäsenenä.",
@@ -32546,7 +32546,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "jalkapallo",
           "poliittinen historia",
-          "neuvostoliitto"
+          "Neuvostoliitto"
         ],
         "kuvaus": "Poliittisen historian professori Vesa Vareksen kirja, joka tarkastelee jalkapalloa poliittisen historian näkökulmasta – sisältää muun muassa legendaarisen tarinan Kiovan Dynamon voitosta saksalaisten miehittäjien joukkuetta vastaan vuonna 1942.",
         "google_linkki": "https://www.google.com/search?q=Pallon+herra+Vesa+Vares",
@@ -32565,7 +32565,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "kirja",
         "kategoriat": [
           "jalkapallo",
-          "suomi",
+          "Suomi",
           "urheiluhistoria"
         ],
         "kuvaus": "Helsingin Sanomien urheilutoimittaja Ari Virtasen kirja Huuhkajien tarinasta – kuinka Suomen jalkapallomaajoukkue kehittyi voittavaksi joukkueeksi.",
@@ -32961,7 +32961,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "elämäkerta",
           "politiikka",
-          "suomi"
+          "Suomi"
         ],
         "kuvaus": "Toimittaja Lauri Nurmen kirjoittama epävirallinen elämäkerta Jussi Halla-ahosta. Sisältää muun muassa kuvauksen Peltolammin kaupunginosasta Tampereella, jossa Halla-aho varttui.",
         "google_linkki": "https://www.google.com/search?q=Jussi+Halla-aho+ep%C3%A4virallinen+el%C3%A4m%C3%A4kerta+Lauri+Nurmi",
@@ -33479,7 +33479,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "ruoka",
         "kategoriat": [
           "jäätelö",
-          "helsinki",
+          "Helsinki",
           "kesä"
         ],
         "kuvaus": "Helsingin Jäätelötehtaan jäätelöpallot ovat Johnin mukaan kaupungin suurimpia. Ne ovat myös kalliita, mutta hinta-laatusuhde on hänestä erinomainen.",
@@ -33499,7 +33499,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "muu",
         "kategoriat": [
           "luontokohde",
-          "helsinki",
+          "Helsinki",
           "näköalapaikka"
         ],
         "kuvaus": "Jätemaalle rakennettu näköalakukkula Vuosaaressa, josta näkee sataman, Helsingin keskustan ja Porvoon jalostamon. John kehui näkymiä ja luontoarvoja ja kehotti näkemään vaivaa, vaikka joukkoliikenne ei kulje sinne hyvin.",
@@ -33559,7 +33559,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "podcast",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "maailmanpolitiikka"
         ],
         "kuvaus": "Yhdysvaltalainen podcast, jossa Obaman entinen neuvonantaja Ben Rhodes ja Tommy Vietor analysoivat maailmanpolitiikkaa demokraattilähtöisestä mutta analyyttisesta näkökulmasta.",
@@ -33917,7 +33917,7 @@ window.VALIDATION_DATA = [
         "teos": "Lähiö (Joakim Zander)",
         "paakategoria": "kirja",
         "kategoriat": [
-          "dekkarit",
+          "dekkari",
           "nordic noir",
           "poliittinen jännitys"
         ],
@@ -33958,7 +33958,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "podcast",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "journalismi"
         ],
         "kuvaus": "New York Timesin entisen mielipidetoimitajan Bari Weissin konservatiivi-republikaaninen podcast. Erityisesti jakso, jossa Matt Taibbi keskustelee Ukrainasta, on Tuomaksen mukaan raivostuttavan paljastava.",
@@ -33981,7 +33981,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "tutkiva journalismi",
           "islam",
-          "britannia"
+          "Britannia"
         ],
         "kuvaus": "Serial-tuotantotiimin uusi podcast-sarja, joka tutkii Englannissa syntynyttä skandaalia väitetyistä islamistiverkostoista kouluissa. Seuraa saagaa, johon liittyy myös Britannian hallituksen Michael Gove.",
         "google_linkki": "https://www.google.com/search?q=The+Trojan+Horse+Affair+podcast",
@@ -34553,7 +34553,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "true crime",
           "murha",
-          "amerikka"
+          "Amerikka"
         ],
         "kuvaus": "Amerikkalainen true crime -podcast, jossa nainen alkaa selvittää isänsä tekemiä murhia. Sarjaa on julkaistu muutama jakso ja se on herättänyt kiinnostusta.",
         "google_linkki": "https://www.google.com/search?q=The+Clearing+podcast",
@@ -34797,7 +34797,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "rikossarja",
           "psykologia",
-          "tosi tapahtumat"
+          "tositapahtumat"
         ],
         "kuvaus": "Netflix-sarja 1970-luvun FBI:stä, jossa kaksi agenttia kehittää sarjamurhaajien psykologista profilointia. Hyvin tehty, hauska 70-lukulainen tunnelma ja hyvät näyttelijät.",
         "google_linkki": "https://www.google.com/search?q=Mindhunter+Netflix",
@@ -35045,7 +35045,7 @@ window.VALIDATION_DATA = [
         "paakategoria": "podcast",
         "kategoriat": [
           "politiikka",
-          "yhdysvallat",
+          "Yhdysvallat",
           "analyysi"
         ],
         "kuvaus": "Slaten tuottama politiikan analyysipodcast, jossa mukana muun muassa David Plotz, John Dickerson ja Emily Bazelon. Erityisen suositeltava vaalien aikaan ylivoimaisen analyysinsä vuoksi.",
@@ -35181,7 +35181,7 @@ window.VALIDATION_DATA = [
         "kategoriat": [
           "jalkapallo",
           "fanikulttuuri",
-          "live-urheilu"
+          "liveurheilu"
         ],
         "kuvaus": "Suositellaan menemään katsomaan IFK Helsingin jalkapallo-ottelua ja kokemaan seuran ainutlaatuinen fanikulttuuri Bolt Areenalla.",
         "google_linkki": "https://www.google.com/search?q=IFK+Helsinki+jalkapallo+kotipelit",
