@@ -6332,7 +6332,7 @@
         "teos": "Mureneva maa (podcast)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Iida+Tikka+Mureneva+maa+podcast+Yle",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Mureneva+maa",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Mureneva+maa&service=radio",
         "kuvaus": "Iida Tikan kuusiosainen podcast Yle Areenassa, joka tarkastelee Yhdysvaltain politiikkaa pintaa syvemmältä ja tapaa kiinnostavia hahmoja. Ensimmäinen jakso alkaa Proud Boys -johtajan vankilasoitolla.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
@@ -7891,7 +7891,7 @@
         "teos": "Sanalouhos",
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=Sanalouhos+Helsingin+Sanomat",
-        "lisatieto_linkki": "https://www.hs.fi/visailut/",
+        "lisatieto_linkki": "https://www.hs.fi/sanalouhos/",
         "kuvaus": "Helsingin Sanomien julkaisema suomenkielinen sanapeli, jossa löydetään sanoja ruudukosta. Muistuttaa New York Timesin Strands-peliä.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
@@ -7904,7 +7904,7 @@
         "teos": "Pako Pohjois-Koreasta",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Pako+Pohjois-Koreasta+Ulkolinja+Yle",
-        "lisatieto_linkki": "https://areena.yle.fi/haku?q=Pako+Pohjois-Koreasta",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Pako+Pohjois-Koreasta",
         "kuvaus": "Ylen Ulkolinja-dokumentti, jossa seurataan Pohjois-Koreasta loikkaavia ihmisiä heidän vaarallisella matkallaan Kiinan, Vietnamin ja Laosin kautta Thaimaahan. Dokumentissa esiintyy myös eteläkorealainen pappi, joka järjestää loikkareiden pakoa.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
@@ -8535,7 +8535,7 @@
         "teos": "Ylen presidentinvaalitentit",
         "paakategoria": "muu",
         "google_linkki": "https://www.google.com/search?q=Ylen+presidentinvaalitentit+2024",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=presidentinvaalitentit",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=presidentinvaalitentit",
         "kuvaus": "Marko Junkkari suosittelee Ylen yksilötenttejä presidentinvaaliehdokkaille. Hän kehuu ohjelmien tasalaatuista tuotantoa ja ammattimaisuutta.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -9777,7 +9777,7 @@
         "teos": "Rakastitko Vesku? – Tarina Vesa-Matti Loirin elämästä",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Rakastitko+Vesku+Yle+Areena+audiodraama",
-        "lisatieto_linkki": "https://areena.yle.fi/haku?q=Rakastitko+Vesku",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Rakastitko+Vesku&service=radio",
         "kuvaus": "Yle Areenan audiodraama tai kuunnelma Vesa-Matti Loirin elämästä. Pyry Kähkönen esittää Veskua ilmiömäisesti.",
         "suosittelija": "Venla Kuokkanen",
         "kategoriat": [
@@ -9873,7 +9873,7 @@
         "teos": "Vankilakokeilu Skandinavian malliin (dokumentti)",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=vankilakokeilu+Skandinavian+malliin+dokumentti+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=vankilakokeilu+skandinavian+malliin",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=vankilakokeilu+skandinavian+malliin",
         "kuvaus": "Kolmiosainen dokumentti Yle Areenassa, joka kertoo yhdysvaltalaisesta vankilasta, jossa on otettu oppia Ruotsin ja Skandinavian vankilanhoidosta. Rinnastaa karut amerikkalaiset vankilaolot pohjoismaiseen malliin.",
         "suosittelija": "Joona Aaltonen",
         "kategoriat": [
@@ -10719,7 +10719,7 @@
         "teos": "Kadoneiden kaupunkien jäljillä",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4&service=radio",
         "kuvaus": "Ylen podcast Yle Areenassa, jossa tutkijat kertovat historiallisista kadonneista kaupungeista kuten Babyloniasta ja muinaisesta Egyptistä – kevyttä mutta yleissivistävää kuunneltavaa.",
         "suosittelija": "Anni Keski-Heikkilä",
         "kategoriat": [
@@ -11368,7 +11368,7 @@
         "teos": "Faian vikavalhe",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Faian+vikavalhe+podcast",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Faian+vikavalhe",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Faian+vikavalhe&service=radio",
         "kuvaus": "Yle Areenan podcast, jossa Axa Faler kertoo oman sukunsa tarinaa sukupolvien ketjussa. Sivuaa sisällissodan tapahtumia ja isä-poika-suhdetta – kansainvälistä tasoa oleva teos.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -11382,7 +11382,7 @@
         "teos": "Matkoja maalauksiin",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Matkoja+maalauksiin+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Matkoja+maalauksiin",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Matkoja+maalauksiin&service=radio",
         "kuvaus": "Näyttelijä Hannu-Pekka Björkmanin varttitunnin puhejutut Yle Areenassa, joissa hän esittelee yhden klassisen maalauksen kerrallaan perehtyneesti ja retorisesti taitavasti.",
         "suosittelija": "Tommi Nieminen",
         "kategoriat": [
@@ -11442,7 +11442,7 @@
         "teos": "Macron, Eurooppa ja sota",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Macron+Eurooppa+ja+sota+dokumentti+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/haku?q=Macron+Eurooppa+ja+sota",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Macron+Eurooppa+ja+sota",
         "kuvaus": "Yle Areenasta löytyvä dokumentti, joka seuraa Ranskan presidentti Macronin toimintaa ennen Ukrainan sotaa ja sen aikana. Sisältää harvinaisia otteita puhelinkeskusteluista Putinin kanssa.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
@@ -12434,7 +12434,7 @@
         "teos": "Politiikka-Suomi – audiohenkilökuvat (podcast)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Politiikka-Suomi+audiohenkilökuvat+podcast",
-        "lisatieto_linkki": "https://supla.fi/search?q=Politiikka-Suomi",
+        "lisatieto_linkki": "https://supla.fi/haku?search_term=Politiikka-Suomi",
         "kuvaus": "Dokumenttisarja Politiikka-Suomen haastatteluihin pohjautuvat audiohenkilökuvat eri poliitikoista. Erityisesti jo politiikasta vetäytyneiden poliitikkojen rehellinen puhe tekee sarjasta kiinnostavan.",
         "suosittelija": "Joona Aaltonen",
         "kategoriat": [
@@ -12560,7 +12560,7 @@
         "teos": "Sauna (Kasper Strömman -sarja)",
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Kasper+Str%C3%B6mman+Sauna+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/haku?q=Kasper+Str%C3%B6mman+sauna",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Kasper+Str%C3%B6mman+sauna",
         "kuvaus": "Kasper Strömmanin sarja Yle Areenassa, jossa hän tutustuu suomalaisiin saunoihin ja etsii suomalaisen saunakulttuurin ydintä. Rento ja rauhoittava kesäsarja.",
         "suosittelija": "Joona Aaltonen",
         "kategoriat": [
@@ -12613,7 +12613,7 @@
         "teos": "Tiedetrippi",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Tiedetrippi+podcast+Henry+Tikkanen",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Tiedetrippi",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Tiedetrippi&service=radio",
         "kuvaus": "Toimittaja Henry Tikkasen tiededokumenttipodcast Yle Areenassa. Lyhyet, noin 30 minuutin jaksot mielenkiintoisista tieteenaiheista ja next-level äänisuunnittelu.",
         "suosittelija": "Inkeri Harju",
         "kategoriat": [
@@ -17174,9 +17174,9 @@
       {
         "teos": "Sosiaalinen media ja politiikka -juttusarja",
         "paakategoria": "artikkeli",
-        "google_linkki": "https://www.google.com/search?q=Sosiaalinen+media+ja+politiikka+juttusarja+politiikka.fi",
-        "lisatieto_linkki": "https://politiikka.fi",
-        "kuvaus": "Politiikka.fi-sivustolla julkaistu juttusarja, johon tutkijat ovat kirjoittaneet mediasta, demokratiasta ja somealustojen vaikutuksesta julkiseen keskusteluun ja poliittiseen tilanteeseen.",
+        "google_linkki": "https://www.google.com/search?q=Sosiaalinen+media+ja+politiikka+juttusarja+politiikasta.fi",
+        "lisatieto_linkki": "https://politiikasta.fi/category/juttusarjat/sosiaalinen-media-ja-politiikka/",
+        "kuvaus": "Politiikasta.fi-sivustolla julkaistu juttusarja, johon tutkijat ovat kirjoittaneet mediasta, demokratiasta ja somealustojen vaikutuksesta julkiseen keskusteluun ja poliittiseen tilanteeseen.",
         "suosittelija": "Onni Niemi",
         "kategoriat": [
           "politiikka",
@@ -17188,7 +17188,7 @@
         "teos": "Keijo Vilhunen -podcast",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Keijo+Vilhunen+podcast+Yle",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Keijo+Vilhunen",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Keijo+Vilhunen&service=radio",
         "kuvaus": "Ylen podcast, joka kertoo entisen jengipomon Keijo Vilhusen elämäntarinan. Sarjaa on tutkinut ja juontaa rikos- ja oikeustoimittaja Merja Miettinen.",
         "suosittelija": "Iida Sofia Hirvonen",
         "kategoriat": [
@@ -17512,7 +17512,7 @@
         "teos": "Tommi Liimatan suuri serkkuteoria",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Tommi+Liimatan+suuri+serkkuteoria+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Tommi+Liimatan+suuri+serkkuteoria",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Tommi+Liimatan+suuri+serkkuteoria&service=radio",
         "kuvaus": "Tommi Liimatan monologisarja Yle Areenassa, jossa hän käsittelee muun muassa ääniteollisuutta, musiikkia ja henkilökohtaisia obsessioitaan terävällä ja hauskalla kielellä.",
         "suosittelija": "Iida Sofia Hirvonen",
         "kategoriat": [
@@ -17559,7 +17559,7 @@
         "teos": "Koiria ja ihmisiä",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Koiria+ja+ihmisi%C3%A4+Panu+Hietanen+podcast",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Koiria+ja+ihmisi%C3%A4",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Koiria+ja+ihmisi%C3%A4&service=radio",
         "kuvaus": "Panu Hietasen podcast Yle Areenassa, joka käsittelee koirien ja ihmisen yhteen nivoutunutta historiaa tutkimusmatkoilta sotatantereille ja kansainväliseen politiikkaan. Aiheina muun muassa koira tiibetiläisessä buddhalaisuudessa, eläinteologia ja koira kylmän sodan aikana.",
         "suosittelija": "Iida Sofia Hirvonen",
         "kategoriat": [
@@ -17573,7 +17573,7 @@
         "teos": "Antti Holman oopperajuhlat",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Antti+Holman+oopperajuhlat+Yle",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Antti+Holman+oopperajuhlat",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Antti+Holman+oopperajuhlat&service=radio",
         "kuvaus": "Antti Holman tekemä hauska oopperaaiheinen podcast Yle Areenassa. Kevyttä ja viihdyttävää kuunneltavaa, jossa Holma esittelee oopperaa omalla tyylillään ilman loukkaavuutta.",
         "suosittelija": "Onni Niemi",
         "kategoriat": [
@@ -17685,7 +17685,7 @@
       },
       {
         "teos": "LA 92",
-        "paakategoria": "dokumentti",
+        "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=LA+92+dokumentti+Netflix+Rodney+King",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=LA+92",
         "kuvaus": "Netflixissä oleva dokumentti vuoden 1992 Los Angelesin mellakoista Rodney Kingin tapauksen ympärillä, koottu kokonaan arkistomateriaalista. Kiinnostavaa ajankuvaa.",
@@ -18146,7 +18146,8 @@
           "radio",
           "uutiset",
           "Yhdysvallat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Floodlines",
@@ -18158,7 +18159,8 @@
         "kategoriat": [
           "dokumentti",
           "Yhdysvallat"
-        ]
+        ],
+        "alkupera": "ulkomainen"
       },
       {
         "teos": "Audm",
@@ -19441,7 +19443,7 @@
         "teos": "Radio Sodoma, toinen tuotantokausi",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Radio+Sodoma+toinen+tuotantokausi+Yle+Areena",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Radio+Sodoma",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Radio+Sodoma&service=radio",
         "kuvaus": "Antti Holman kirjoittama ja näyttelemä radiokuunnelma, jonka toinen tuotantokausi on saatavilla Yle Areenassa. Tällä kaudella Sodomaniemen paikallisradiossa kamppaillaan organisaatiouudistuksen kanssa.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
@@ -19673,7 +19675,7 @@
         "teos": "Olli Seurin haastattelijapodcast (Yle Areena)",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Olli+Seuri+podcast+Yle+Areena+haastattelijat",
-        "lisatieto_linkki": "https://areena.yle.fi/search?q=Olli+Seuri",
+        "lisatieto_linkki": "https://areena.yle.fi/hae?q=Olli+Seuri&service=radio",
         "kuvaus": "Olli Seurin Yle Areenaan tekemä podcast, jossa hän haastattelee haastattelijoita haastattelemisesta. Kiinnostava journalismin metatasoinen tarkastelu.",
         "suosittelija": "Milka Valtanen",
         "kategoriat": [
@@ -20570,7 +20572,7 @@
         "teos": "Valtaistuinjälkipeli – Game of Thrones -podcast",
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Valtaistuinjälkipeli+Game+of+Thrones+podcast+Supla",
-        "lisatieto_linkki": "https://supla.fi/search?q=Valtaistuinjälkipeli",
+        "lisatieto_linkki": "https://supla.fi/haku?search_term=Valtaistuinj%C3%A4lkipeli",
         "kuvaus": "Nelosen radioiden jaksoseurantapodcast Game of Thronesista. Jakso ilmestyy noin päivä uuden GoT-jakson jälkeen ja siinä analysoidaan tuorein jakso asiantuntevalla porukalla.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
