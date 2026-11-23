@@ -8651,7 +8651,7 @@
           "journalismi",
           "metoo"
         ],
-        "kuvaus": "Matilda Gustafsssonin tietokirja Ruotsin kulttuurieliitin romahduksesta, seksuaalisesta häirinnästä ja journalistisesta paljastusprosessista. Kirja kertoo Dagens Nyheterin paljastamasta kulttuuriprofiilista, joka tuomittiin raiskauksesta.",
+        "kuvaus": "Matilda Gustafssonin tietokirja Ruotsin kulttuurieliitin romahduksesta, seksuaalisesta häirinnästä ja journalistisesta paljastusprosessista. Kirja kertoo Dagens Nyheterin paljastamasta kulttuuriprofiilista, joka tuomittiin raiskauksesta.",
         "google_linkki": "https://www.google.com/search?q=Yhdeksäntoista+Ruotsin+akatemian+romahdus+Matilda+Gustafsson",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nineteen+Swedish+Academy+Matilda+Gustafsson",
         "alkupera": "",
@@ -13163,7 +13163,7 @@
           "rikos",
           "journalismi"
         ],
-        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuoma Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
+        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuomas Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
         "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
         "alkupera": "",
@@ -21953,7 +21953,7 @@
           "viihde",
           "haastattelu"
         ],
-        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
+        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Salla kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
         "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
         "lisatieto_linkki": "https://open.spotify.com/episode/1KN7v1xqiEf0XN27Q1JZeB",
         "alkupera": "ulkomainen",
@@ -21975,7 +21975,7 @@
           "italialainen",
           "levite"
         ],
-        "kuvaus": "Fiasconaaron pistaasilevite, jonka Salla kehuu parhaaksi. Myös Amazonilta löytyy hyvä vaihtoehto.",
+        "kuvaus": "Fiasconaron pistaasilevite, jota Jussi pitää edelleen parhaana – hän toi Italian-lomaltaan laukullisen pistaasilevitteitä.",
         "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
         "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
         "alkupera": "",
@@ -23268,7 +23268,7 @@
           "komedia",
           "draama"
         ],
-        "kuvaus": "Brittisarja, jota on kehuttu paljon ja joka on Marja Mannerin mukaan hillittömän hauska. Hän suosittelee sitä erityisesti Tuomas Peltomäelle.",
+        "kuvaus": "Brittisarja, jota on kehuttu paljon ja joka on Maria Mannerin mukaan hillittömän hauska. Hän suosittelee sitä erityisesti Tuomas Peltomäelle.",
         "google_linkki": "https://www.google.com/search?q=Fleabag+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fleabag",
         "alkupera": "",
@@ -30541,16 +30541,16 @@
         "is_suspicious": false,
         "epailyn_syyt": [],
         "suosittelija": "Marko Junkkari",
-        "teos": "Elon Musk",
+        "teos": "Elon Musk – visionääri Teslan, SpaceX:n ja Solar Cityn takana",
         "paakategoria": "kirja",
         "kategoriat": [
           "elämäkerta",
           "bisnes",
           "teknologia"
         ],
-        "kuvaus": "Walter Isaacsonin kirjoittama elämäkerta Elon Muskista, joka on suomennettu Jussi Sippalan toimesta. Kirja käsittelee Muskin uraa PayPalista Teslaan ja SpaceXiin.",
-        "google_linkki": "https://www.google.com/search?q=Elon+Musk+elämäkerta+Walter+Isaacson",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Elon+Musk+Walter+Isaacson",
+        "kuvaus": "Ashlee Vancen elämäkerta Elon Muskista, jonka Jussi Sippola suomensi juuri. Käy läpi Muskin uran PayPalista Teslaan ja SpaceXiin; Marko innostui siitä Slushin jälkeen, jossa Musk tuntui olevan kaikkien puheissa.",
+        "google_linkki": "https://www.google.com/search?q=Ashlee+Vance+Elon+Musk+visionääri+Teslan+SpaceX%3An+ja+Solar+Cityn+takana",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Ashlee+Vance+Elon+Musk",
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
@@ -30900,7 +30900,7 @@
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
-        "piilotettu": false
+        "piilotettu": true
       },
       {
         "r_idx": 1,
@@ -30919,7 +30919,7 @@
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
-        "piilotettu": false
+        "piilotettu": true
       },
       {
         "r_idx": 2,
@@ -30939,7 +30939,7 @@
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
-        "piilotettu": false
+        "piilotettu": true
       },
       {
         "r_idx": 3,
@@ -30959,7 +30959,7 @@
         "alkupera": "ulkomainen",
         "lisalinkit": [],
         "antisuositus": false,
-        "piilotettu": false
+        "piilotettu": true
       },
       {
         "r_idx": 4,
@@ -30979,7 +30979,7 @@
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": false,
-        "piilotettu": false
+        "piilotettu": true
       }
     ]
   },
