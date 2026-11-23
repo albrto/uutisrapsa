@@ -191,13 +191,7 @@ ennen korjaamista (admin-UI tai korjaukset.json).
 
 ## Täydennysajo 23.11.2026 (107 myöhemmin lisättyä suositusta)
 
-Ei löytynyt litteroinnista lainkaan (ehkä virheellinen suositus tai litteroimattomassa jakson keskiosassa):
-- 29.5.2025 r3 Yle Abitreenit (Anu-Elina Lehti) – ei sanaa abi/treeni.
-- 18.5.2023 r0 Ystäväkirja – ei mainintaa; voi olla jakson keskiosassa.
-- 19.5.2022 Decoupling (Marko) – lähin on Alma Onalin "Dekoodering"-maininta.
-- 25.2.2021 Yle Areenan historia-aiheiset radiodokumentit (Tuomas) – ei Areenaa/viikinkejä/koleraa.
-- 3.10.2019 Markus Selin – Perustuu tositapahtumiin (Marko) – Marko kehuu vain VP-Lehtosta.
-- 30.11.2016 Minä, Daniel Blake (Anna-Sofia Berner) – ikkunassa vain nettivalvontaa.
+Agentit eivät löytäneet kuutta suositusta, koska ne olivat suositusosion ikkunan ulkopuolella (jakson alussa tai keskellä). Kaikki kuusi löytyivät, kun luin koko litteroinnin, ja ne paikannettiin käsin (tulokset/taydennys_20261123_6.json): Yle Abitreenit (Deepgramissa "API-treenit"), Ystäväkirja (ilmoitusasia alussa), Decoupling ("Dekoodering"), Yle Areenan historiadokumentit (kuulijapalaute alussa), Markus Selin ("kehua VP-Lehtosen") ja Minä, Daniel Blake ("Ai Daniel Black", Sohvi = Anna-Sofia Berner). Suositukset ovat siis aitoja.
 
 Muita huomioita:
 - 2.6.2022 r3/r4 Severance ja Älä sano mitään: suosittelija "Patrick Radden Keefe" on vieras, ei osallistuja (oikein, mutta validaattori voi liputtaa).
