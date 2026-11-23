@@ -636,7 +636,10 @@
           "stand-up",
           "keskustelu"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/luomakunta/id1896849087"
+        ]
       },
       {
         "teos": "Tekoälyn (Claude) käyttäminen luonnonilmiöiden seuraamiseen",
@@ -3773,7 +3776,10 @@
           "teknologia",
           "Silicon Valley"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/dwarkesh-podcast/id1516093381"
+        ]
       },
       {
         "teos": "Memos to the President -podcast",
@@ -3928,7 +3934,10 @@
           "Britannia",
           "dokumentaari"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rest-is-history/id1537788786"
+        ]
       },
       {
         "teos": "Michael Collins",
@@ -4306,7 +4315,10 @@
           "Yhdysvallat",
           "maailmanpolitiikka"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/pod-save-the-world/id1200016351"
+        ]
       },
       {
         "teos": "Kuukausiliitteen juttu Paavo-possusta",
@@ -4610,7 +4622,10 @@
           "yhteiskunta",
           "vasemmisto"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/politics-theory-other/id1370561641"
+        ]
       }
     ]
   },
@@ -5433,7 +5448,10 @@
           "Amerikka",
           "uutisanalyysi"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/political-gabfest/id158004641"
+        ]
       },
       {
         "teos": "Obscure Islands (amanvir.com/obscure-islands)",
@@ -5924,7 +5942,10 @@
           "Suomi",
           "TikTok"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/mikin-takana/id1688980281"
+        ]
       },
       {
         "teos": "Google Willow -kvanttitietokone",
@@ -6043,7 +6064,10 @@
           "historia",
           "true crime"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rest-is-classified/id1780384916"
+        ]
       }
     ]
   },
@@ -6400,7 +6424,10 @@
           "politiikka",
           "lukupiiri"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/99-invisible/id394775318"
+        ]
       },
       {
         "teos": "Erkki Tuomiojan päiväkirjat",
@@ -6500,7 +6527,10 @@
           "USA",
           "historia"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rest-is-politics-us/id1743030473"
+        ]
       },
       {
         "teos": "Steve Martini: Paul Madriani -dekkarisarja",
@@ -6714,7 +6744,10 @@
           "brittiläinen",
           "tietopodcast"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rest-is-history/id1537788786"
+        ]
       },
       {
         "teos": "Past Present Future",
@@ -6748,7 +6781,10 @@
           "true crime",
           "huijarit"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/do-you-know-mordechai/id1750326782"
+        ]
       },
       {
         "teos": "Believable: The Coco Berthmann Story",
@@ -6761,7 +6797,10 @@
           "true crime",
           "huijarit"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/believable-the-coco-berthmann-story/id1688030822"
+        ]
       },
       {
         "teos": "Eero Järnefelt -näyttely (Ateneum)",
@@ -6860,7 +6899,10 @@
           "huijaus",
           "suomalainen podcast"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/scamanda/id1685691481"
+        ]
       },
       {
         "teos": "Herrasmies-hakkerit",
@@ -7004,7 +7046,10 @@
           "maailmanpolitiikka",
           "USA"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/pod-save-the-world/id1200016351"
+        ]
       },
       {
         "teos": "Céline Dion – Hymni rakkaudelle Pariisin olympialaisten avajaisissa",
@@ -7228,7 +7273,10 @@
           "tutkiva journalismi",
           "tositarina"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/dirty-john/id1814512586"
+        ]
       },
       {
         "teos": "Jet Lag: The Game",
@@ -7853,7 +7901,10 @@
           "politiikka",
           "suomalainen podcast"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/politiikan-puskaradio/id1565309768"
+        ]
       },
       {
         "teos": "More Savory Goods",
@@ -8705,7 +8756,10 @@
           "politiikka",
           "suomalainen podcast"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/politiikan-puskaradio/id1565309768"
+        ]
       },
       {
         "teos": "The Fall: The End of Fox News",
@@ -8948,7 +9002,10 @@
           "Britannia",
           "ajankohtainen"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rest-is-politics/id1611374685"
+        ]
       },
       {
         "teos": "Minglausvinkki: ota selvää juhlavieraista etukäteen",
@@ -9273,7 +9330,10 @@
           "viihde",
           "Taylor Swift"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/lempipodi/id1689943383"
+        ]
       },
       {
         "teos": "Veden varaan",
@@ -9363,7 +9423,10 @@
           "journalismi",
           "Yhdysvallat"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/revisionist-history/id1119389968"
+        ]
       },
       {
         "teos": "Espanjalaiset teini- ja saippuasarjat Netflixissä",
@@ -10223,7 +10286,10 @@
           "teknologia",
           "tiede"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/tuomas-peltom%C3%A4ki-podcast/id1501094207"
+        ]
       },
       {
         "teos": "Nervous States: How Feeling Took Over the World",
@@ -10713,7 +10779,10 @@
           "teknologia",
           "tulevaisuus"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/your-undivided-attention/id1460030305"
+        ]
       },
       {
         "teos": "Kadoneiden kaupunkien jäljillä",
@@ -10982,7 +11051,10 @@
           "historia",
           "kulttuuri"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/articles-of-interest/id1455169228"
+        ]
       }
     ]
   },
@@ -11224,7 +11296,10 @@
           "brittiläinen",
           "sivistys"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-rest-is-history/id1537788786"
+        ]
       }
     ]
   },
@@ -12183,7 +12258,10 @@
           "popmusiikki",
           "analyysi"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/ps-tykitell%C3%A4%C3%A4n/id1342819396"
+        ]
       },
       {
         "teos": "Have You Heard George's Podcast?",
@@ -12197,7 +12275,10 @@
           "runous",
           "rap"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/have-you-heard-georges-podcast/id1436036246"
+        ]
       }
     ]
   },
@@ -12289,7 +12370,10 @@
           "filosofia",
           "tiede"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/knowing-animals/id997543452"
+        ]
       },
       {
         "teos": "Rotukarja (Tender Is the Flesh)",
@@ -13712,7 +13796,10 @@
           "islam",
           "Britannia"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/the-trojan-horse-affair/id1606918193"
+        ]
       }
     ]
   },
@@ -14295,7 +14382,10 @@
           "konservatiivismi",
           "Yhdysvallat"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/honestly-with-bari-weiss/id1570872415"
+        ]
       },
       {
         "teos": "Blocked and Reported",
@@ -14309,7 +14399,10 @@
           "kulttuuri",
           "huumori"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/blocked-and-reported/id1504298199"
+        ]
       },
       {
         "teos": "Politics War Room",
@@ -14376,7 +14469,10 @@
           "Suomi",
           "haastattelu"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/menneisyyden-j%C3%A4ljill%C3%A4/id1494132405"
+        ]
       }
     ]
   },
@@ -15770,7 +15866,10 @@
           "kuriositeetti",
           "blogi"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/futility-closet/id842593579"
+        ]
       },
       {
         "teos": "Salamurhaajan oppipoika",
@@ -16756,7 +16855,10 @@
           "tiede",
           "esoteerisuus"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/stuff-to-blow-your-mind/id350359306"
+        ]
       },
       {
         "teos": "A Spy Among Friends",
@@ -17478,7 +17580,10 @@
           "teoria",
           "yhteiskunta"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/politics-theory-other/id1370561641"
+        ]
       },
       {
         "teos": "MasterChef Australia",
@@ -18165,7 +18270,10 @@
           "dokumentti",
           "Yhdysvallat"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/floodlines/id1501433969"
+        ]
       },
       {
         "teos": "Audm",
@@ -18585,7 +18693,10 @@
           "kulttuuri",
           "Yhdysvallat"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/dolly-partons-america/id1481398762"
+        ]
       },
       {
         "teos": "Watership Down (Ruohometsän kansa)",
@@ -19256,7 +19367,10 @@
           "kulttuuri",
           "Amerikka"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/dolly-partons-america/id1481398762"
+        ]
       },
       {
         "teos": "Stalinin kuolema",
@@ -19674,7 +19788,10 @@
           "suomalainen",
           "yhteiskunta"
         ],
-        "alkupera": "kotimainen"
+        "alkupera": "kotimainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/mik%C3%A4-meit%C3%A4-vaivaa/id1269115870"
+        ]
       },
       {
         "teos": "Olli Seurin haastattelijapodcast (Yle Areena)",
@@ -20053,7 +20170,10 @@
           "kaupunkisuunnittelu",
           "design"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/99-invisible/id394775318"
+        ]
       },
       {
         "teos": "Ilmastouutiset – Timo Korven päästöpaasto",
@@ -20984,7 +21104,10 @@
           "filosofia",
           "tiede"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/making-sense-with-sam-harris/id733163012"
+        ]
       },
       {
         "teos": "I Went on a Date with Aziz Ansari. It Turned into the Worst Night of My Life.",
@@ -21090,7 +21213,10 @@
           "elämäntapa",
           "hyvinvointi"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/recovery-elevator/id971959728"
+        ]
       }
     ]
   },
@@ -21346,7 +21472,10 @@
           "rikospodcast",
           "journalismi"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "lisalinkit": [
+          "https://podcasts.apple.com/fi/podcast/s-town/id1212558767"
+        ]
       }
     ]
   },
