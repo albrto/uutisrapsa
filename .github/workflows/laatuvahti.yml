@@ -1,0 +1,76 @@
+name: Laatuvahti
+
+# Ajaa perjantaisin pipeline/laatutarkistus.py:n julkaistulle datalle ja lähettää
+# sähköpostin, jos tyypillisiä datavirheitä on syntynyt (vanhentuneet hakulinkit,
+# tuplajaksot, aihetunnisteiden kirjoitusasut, nimien kirjoitusvirheet kuvauksissa,
+# saman teoksen eri nimet, väärä pääkategoria). Kaikki tarkistukset olivat nollassa
+# 23.11.2026, joten jokainen osuma on uusi. Puuttuvat kuuntelukohdat eivät yksin
+# hälytä (admin-lisäyksiltä ne puuttuvat aina, kunnes ne paikannetaan), mutta ne
+# luetellaan viestissä, jos se lähtee muusta syystä.
+# Löydökset eivät kaada ajoa – muuten halytys.yml lähettäisi lisäksi yleisen
+# "ajo epäonnistui" -viestin. Itse vahdin kaatuminen (esim. skriptivirhe) hälyttää
+# halytys.yml:n kautta.
+
+on:
+  schedule:
+    # Perjantaisin klo 16:30 UTC, tuoreusvahdin jälkeen
+    - cron: '30 16 * * 5'
+  workflow_dispatch:
+    inputs:
+      testihalytys:
+        description: 'Lähetä viesti, vaikka löydöksiä ei olisi (kanavan testaus)'
+        type: boolean
+        default: false
+
+jobs:
+  laatu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Aja laatutarkistus
+        run: python3 pipeline/laatutarkistus.py --json > laatu.json
+
+      - name: Ilmoita löydöksistä
+        env:
+          TESTIHALYTYS: ${{ inputs.testihalytys }}
+        run: |
+          python3 - <<'PYEOF'
+          import json
+          import os
+          import urllib.parse
+          import urllib.request
+
+          NETLIFY_URL = "https://uutisrapsa.fi/"
+          HALYTTAVAT = ["kategoria", "linkit", "tuplajaksot", "tunnisteet", "nimet", "teosnimet"]
+          L = json.load(open("laatu.json", encoding="utf-8"))
+          for nimi, rivit in L.items():
+              print(f"{nimi}: {len(rivit)}")
+
+          loydokset = {n: L.get(n, []) for n in HALYTTAVAT if L.get(n)}
+          testi = os.environ.get("TESTIHALYTYS") == "true"
+          if not loydokset and not testi:
+              print("Ei uusia laatuvirheitä.")
+              raise SystemExit(0)
+
+          osat = []
+          for nimi, rivit in list(loydokset.items()) + [("kuuntelu (tiedoksi)", L.get("kuuntelu", []))]:
+              if rivit:
+                  osat.append(f"{nimi} ({len(rivit)}):\n" + "\n".join(f"- {r}" for r in rivit[:40]))
+          viesti = (
+              ("TESTI: laatuvahdin viesti käynnistettiin käsin.\n\n" if testi else "")
+              + "Laatuvahti löysi julkaistusta datasta seuraavat asiat:\n\n"
+              + ("\n\n".join(osat) or "(ei löydöksiä)")
+              + "\n\nAja paikallisesti: cd pipeline && ./venv/bin/python3 laatutarkistus.py"
+          )
+          otsikko = ("TESTI: " if testi else "") + f"Uutisrapsan laatuvahti: {sum(len(v) for v in loydokset.values())} löydöstä"
+          data = urllib.parse.urlencode({"form-name": "automaatio-ilmoitus", "subject": otsikko, "viesti": viesti}).encode()
+          # Sama User-Agent kuin laheta_ilmoitus.py:llä: Python-urllibin oletus jää Akismetiin
+          req = urllib.request.Request(NETLIFY_URL, data=data, headers={"User-Agent": "python-requests/2.32.3"})
+          with urllib.request.urlopen(req, timeout=30) as res:
+              print(f"Viesti lähetetty, HTTP {res.status}")
+          PYEOF

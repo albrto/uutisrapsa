@@ -8,7 +8,7 @@ name: Automaatiohälytys
 
 on:
   workflow_run:
-    workflows: ["Uutisraportti Automaatio", "Tuoreusvahti", "Muutosloki"]
+    workflows: ["Uutisraportti Automaatio", "Tuoreusvahti", "Muutosloki", "Laatuvahti"]
     types: [completed]
   workflow_dispatch:
 

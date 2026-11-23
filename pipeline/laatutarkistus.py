@@ -7,6 +7,7 @@ jotta tulos vastaa sivun "N× suositeltu" -ryhmiä.
 
     ./venv/bin/python3 laatutarkistus.py          # kaikki tarkistukset
     ./venv/bin/python3 laatutarkistus.py --lyhyt  # vain määrät
+    python3 pipeline/laatutarkistus.py --json     # koneluettava (laatuvahti.yml)
 
 Tarkistukset:
   kategoria     pääkategoria ei ole sallittujen listalla; podcastilta puuttuu alkupera
@@ -144,11 +145,15 @@ def tarkista(data, kuuntelu, tiedosto=SUOSITUKSET):
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--lyhyt", action="store_true")
+    p.add_argument("--json", action="store_true", help="tulosta {tarkistus: [rivit]} JSON-muodossa")
     p.add_argument("--tiedosto", default=SUOSITUKSET, help="tarkistettava suositukset.json (oletus: repon juuri)")
     args = p.parse_args()
     data = json.load(open(args.tiedosto, encoding="utf-8"))
     kuuntelu = json.load(open(KUUNTELU, encoding="utf-8")) if os.path.exists(KUUNTELU) else {}
     L = tarkista(data, kuuntelu, args.tiedosto)
+    if args.json:
+        print(json.dumps(L, ensure_ascii=False))
+        return
     for nimi in ("kategoria", "linkit", "tuplajaksot", "tunnisteet", "nimet", "teosnimet", "kuuntelu"):
         rivit = L.get(nimi, [])
         print(f"## {nimi}: {len(rivit)}")
