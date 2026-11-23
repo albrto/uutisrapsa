@@ -1958,7 +1958,7 @@
         "paakategoria": "podcast",
         "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
         "lisatieto_linkki": "https://open.spotify.com/episode/1KN7v1xqiEf0XN27Q1JZeB",
-        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
+        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Salla kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
         "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "komedia",
@@ -1975,7 +1975,7 @@
         "paakategoria": "ruoka",
         "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
         "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
-        "kuvaus": "Fiasconaaron pistaasilevite, jonka Salla kehuu parhaaksi. Myös Amazonilta löytyy hyvä vaihtoehto.",
+        "kuvaus": "Fiasconaron pistaasilevite, jota Jussi pitää edelleen parhaana – hän toi Italian-lomaltaan laukullisen pistaasilevitteitä.",
         "suosittelija": "Jussi Niemeläinen",
         "kategoriat": [
           "herkku",
@@ -11975,7 +11975,8 @@
           "tositarina",
           "journalismi",
           "rikos"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Kesälomakellarissa",
@@ -11987,7 +11988,8 @@
         "kategoriat": [
           "suomalainen musiikki",
           "huumori"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Cairo Affair",
@@ -12000,7 +12002,8 @@
           "vakoilu",
           "trilleri",
           "fiktio"
-        ]
+        ],
+        "piilotettu": true
       },
       {
         "teos": "Hunting Warhead",
@@ -12014,7 +12017,8 @@
           "tutkiva journalismi",
           "tositarina"
         ],
-        "alkupera": "ulkomainen"
+        "alkupera": "ulkomainen",
+        "piilotettu": true
       },
       {
         "teos": "House of the Dragon",
@@ -12027,7 +12031,8 @@
           "fantasia",
           "draama",
           "HBO"
-        ]
+        ],
+        "piilotettu": true
       }
     ]
   },
@@ -17124,7 +17129,7 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Yhdeksäntoista+Ruotsin+akatemian+romahdus+Matilda+Gustafsson",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Nineteen+Swedish+Academy+Matilda+Gustafsson",
-        "kuvaus": "Matilda Gustafsssonin tietokirja Ruotsin kulttuurieliitin romahduksesta, seksuaalisesta häirinnästä ja journalistisesta paljastusprosessista. Kirja kertoo Dagens Nyheterin paljastamasta kulttuuriprofiilista, joka tuomittiin raiskauksesta.",
+        "kuvaus": "Matilda Gustafssonin tietokirja Ruotsin kulttuurieliitin romahduksesta, seksuaalisesta häirinnästä ja journalistisesta paljastusprosessista. Kirja kertoo Dagens Nyheterin paljastamasta kulttuuriprofiilista, joka tuomittiin raiskauksesta.",
         "suosittelija": "Maria Manner",
         "kategoriat": [
           "tietokirja",
@@ -18304,7 +18309,7 @@
         "paakategoria": "tv-sarja",
         "google_linkki": "https://www.google.com/search?q=Fleabag+tv-sarja",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Fleabag",
-        "kuvaus": "Brittisarja, jota on kehuttu paljon ja joka on Marja Mannerin mukaan hillittömän hauska. Hän suosittelee sitä erityisesti Tuomas Peltomäelle.",
+        "kuvaus": "Brittisarja, jota on kehuttu paljon ja joka on Maria Mannerin mukaan hillittömän hauska. Hän suosittelee sitä erityisesti Tuomas Peltomäelle.",
         "suosittelija": "Maria Manner",
         "kategoriat": [
           "brittisarja",
@@ -21301,7 +21306,7 @@
         "paakategoria": "kirja",
         "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
-        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuoma Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
+        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuomas Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
           "tietokirja",
@@ -21474,11 +21479,11 @@
     "paivamaara": "13.12.2016",
     "suositukset": [
       {
-        "teos": "Elon Musk",
+        "teos": "Elon Musk – visionääri Teslan, SpaceX:n ja Solar Cityn takana",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Elon+Musk+elämäkerta+Walter+Isaacson",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Elon+Musk+Walter+Isaacson",
-        "kuvaus": "Walter Isaacsonin kirjoittama elämäkerta Elon Muskista, joka on suomennettu Jussi Sippalan toimesta. Kirja käsittelee Muskin uraa PayPalista Teslaan ja SpaceXiin.",
+        "google_linkki": "https://www.google.com/search?q=Ashlee+Vance+Elon+Musk+visionääri+Teslan+SpaceX%3An+ja+Solar+Cityn+takana",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Ashlee+Vance+Elon+Musk",
+        "kuvaus": "Ashlee Vancen elämäkerta Elon Muskista, jonka Jussi Sippola suomensi juuri. Käy läpi Muskin uran PayPalista Teslaan ja SpaceXiin; Marko innostui siitä Slushin jälkeen, jossa Musk tuntui olevan kaikkien puheissa.",
         "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "elämäkerta",
