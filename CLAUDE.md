@@ -136,6 +136,13 @@ cd agenttiarvio && ../venv/bin/python3 tee_erat.py ../tarkistusjono_loput.txt --
 #   → launch 6 subagents, each told to follow agenttiarvio/ohje.md on erat/aaltoN_eraM.json → tulokset/aaltoN_eraM.json
 ../venv/bin/python3 yhdista.py [--kirjoita]   # → open proposals + Claude suggestions; then run julkaise_tarkistus.py
 
+# Data quality report (free, read-only; added 23.11.2026): wrong pääkategoria / podcast without
+# alkupera, dead search-link forms, duplicate episodes, tag case variants, misspelled podcast-member
+# names in kuvaus, near-identical title groups (uses app.js's teosAvain via node), recs without a
+# kuuntelu.json timestamp. All checks were 0 on 23.11.2026, so any hit is new. Known different works
+# with near-identical keys go to ERI_TEOKSET. --tiedosto <path> checks another copy (e.g. a git show).
+./venv/bin/python3 laatutarkistus.py [--lyhyt]
+
 # Regenerate validation data (epailyttavat.js + .json) without rerunning the pipeline
 ./venv/bin/python3 validoi_suosittelijat.py
 
