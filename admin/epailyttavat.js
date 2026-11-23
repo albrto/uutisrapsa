@@ -3055,7 +3055,7 @@ window.VALIDATION_DATA = [
           "poliisikorruptio",
           "journalismi"
         ],
-        "kuvaus": "Susanne Reinbothin ja Minna Passin kirja Jari Aarnion poliisikorruptiosta. Anni ei yleensä välitä true crimesta, mutta kirja koukutti ensimmäiseltä sivulta ja antaa laajemman ja karmivamman kuvan kuin pelkkä uutisseuranta.",
+        "kuvaus": "Susanna Reinbothin ja Minna Passin kirja Jari Aarnion poliisikorruptiosta. Anni ei yleensä välitä true crimesta, mutta kirja koukutti ensimmäiseltä sivulta ja antaa laajemman ja karmivamman kuvan kuin pelkkä uutisseuranta.",
         "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio+Susanne+Reinboth+Minna+Passi",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio+Reinboth+Passi",
         "alkupera": "",
@@ -13163,7 +13163,7 @@ window.VALIDATION_DATA = [
           "rikos",
           "journalismi"
         ],
-        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuomas Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
+        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Reinbothin kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuomas Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
         "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
         "alkupera": "",
@@ -14731,7 +14731,7 @@ window.VALIDATION_DATA = [
           "ruotsalainen musiikki",
           "indie"
         ],
-        "kuvaus": "Ruotsalainen kolmen naisen bändi, joka soittaa tummansävyistä, melodista kitaravetoista rock-musiikkia. Topi Kokonen suosittelee bändiä kuultuaan heidän keikkansa Kesärannassa.",
+        "kuvaus": "Ruotsalainen kolmen naisen bändi, joka soittaa tummansävyistä, melodista kitaravetoista rock-musiikkia. Topi Kosunen suosittelee bändiä kuultuaan heidän keikkansa Kesärannassa.",
         "google_linkki": "https://www.google.com/search?q=Svart+Rido+band",
         "lisatieto_linkki": "https://open.spotify.com/search/Svart%20Rido",
         "alkupera": "",
@@ -18602,7 +18602,7 @@ window.VALIDATION_DATA = [
           "suomalainen kirjallisuus",
           "sukutarina"
         ],
-        "kuvaus": "Ville Sivilän esikoisromaani yhdistää suvun historiaa 1800-luvulta nykypäivään sekä kirjailijan omia lapsuusmuistoja 70–90-luvun Uudeltamaalta. Sohvin mielestä tiivis, novellimainen ja välillä ääneen naurattava teos, joka kytkeytyy myös Suomen kohtaloihin.",
+        "kuvaus": "Ville Similän esikoisromaani yhdistää suvun historiaa 1800-luvulta nykypäivään sekä kirjailijan omia lapsuusmuistoja 70–90-luvun Uudeltamaalta. Sohvin mielestä tiivis, novellimainen ja välillä ääneen naurattava teos, joka kytkeytyy myös Suomen kohtaloihin.",
         "google_linkki": "https://www.google.com/search?q=Kani+nimeltä+Paisti+Ville+Sivilä",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Kani+nimeltä+Paisti+Sivilä",
         "alkupera": "",
@@ -25235,7 +25235,7 @@ window.VALIDATION_DATA = [
           "esittävä taide",
           "live-kokemus"
         ],
-        "kuvaus": "Alma Unali suosittelee lämpimästi menemään teatteriin, erityisesti koronarajoitusten jälkeen. Hän korostaa teatterin kehollisuutta ja läsnäolon kokemusta, jota ei voi pausettaa.",
+        "kuvaus": "Alma Onali suosittelee lämpimästi menemään teatteriin, erityisesti koronarajoitusten jälkeen. Hän korostaa teatterin kehollisuutta ja läsnäolon kokemusta, jota ei voi pausettaa.",
         "google_linkki": "",
         "lisatieto_linkki": "",
         "alkupera": "",
@@ -25255,7 +25255,7 @@ window.VALIDATION_DATA = [
           "nuorisoelokuva",
           "klassikko"
         ],
-        "kuvaus": "Legendaarinen suomalainen nuorisoelokuva, joka on katsottavissa Yle Areenassa. Alma Unali kertoo elokuvan määrittäneen hänen nuoruuttaan ja syyttää sitä monista huonoista päätöksistä sekä ihastumisesta rokkiin ja renttuihin.",
+        "kuvaus": "Legendaarinen suomalainen nuorisoelokuva, joka on katsottavissa Yle Areenassa. Alma Onali kertoo elokuvan määrittäneen hänen nuoruuttaan ja syyttää sitä monista huonoista päätöksistä sekä ihastumisesta rokkiin ja renttuihin.",
         "google_linkki": "https://www.google.com/search?q=Pitk%C3%A4+kuuma+kes%C3%A4+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Pitk%C3%A4+kuuma+kes%C3%A4",
         "alkupera": "",
