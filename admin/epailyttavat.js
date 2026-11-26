@@ -851,7 +851,7 @@ window.VALIDATION_DATA = [
           "politiikka",
           "tietokirja"
         ],
-        "kuvaus": "Kirja kertoo yksityiskohtaisesti lobbauksen maailmasta ja sen pimeistä puolista. Teemu Muhonen suositteli teosta, joka käsittelee muun muassa Qatarin MM-kisojen hankintaan liittynyttä lobbausta.",
+        "kuvaus": "Lobbari ja spin doctor Phil Elwoodin muistelmateos (2024) lobbauksen pimeästä puolesta: hän syötti medialle asiakkaidensa etuja palvelevia uutisia, asiakkaina mm. Bashar al-Assad ja Muammar Gaddafi, ja auttoi Qataria saamaan jalkapallon MM-kisat. Marko kehuu kirjaa huikeaksi.",
         "google_linkki": "https://www.google.com/search?q=All+the+Worst+Humans",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=All+the+Worst+Humans",
         "alkupera": "",
@@ -1596,7 +1596,7 @@ window.VALIDATION_DATA = [
           "DDR",
           "historia"
         ],
-        "kuvaus": "Meri Valkaman romaani, jossa päähenkilö selvittää vuosikymmeniä myöhemmin isänsä kiellettyä rakkautta DDR:ssä. Anna-Sofia Bernerin mukaan käsittämätön vääryys, ettei kirja ollut Finlandia-palkintoehdokkaana.",
+        "kuvaus": "Meri Valkaman romaani, jossa päähenkilö selvittää vuosikymmeniä myöhemmin isänsä kiellettyä rakkautta DDR:ssä. Sallan mukaan käsittämätön vääryys, ettei kirja ollut Finlandia-palkintoehdokkaana.",
         "google_linkki": "https://www.google.com/search?q=Sinun+Margot+Meri+Valkama",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinun+Margot+Meri+Valkama",
         "alkupera": "",
@@ -6333,7 +6333,7 @@ window.VALIDATION_DATA = [
           "ihonhoito",
           "korealainen beauty"
         ],
-        "kuvaus": "Korealainen ihonhoitotuote, joka sisältää oikeaa etanan limaa. Anni Keski-Heikki suosittelee sitä ihonhoitoon iltaisin.",
+        "kuvaus": "Korealainen ihonhoitotuote, joka sisältää oikeaa etanan limaa. Anni Keski-Heikkilä suosittelee sitä ihonhoitoon iltaisin.",
         "google_linkki": "https://www.google.com/search?q=etana+serum+korealainen+kosmetiikka",
         "lisatieto_linkki": "https://www.google.com/search?q=snail+mucin+essence+korean+cosmetics",
         "alkupera": "",
@@ -13518,7 +13518,7 @@ window.VALIDATION_DATA = [
           "harrastus",
           "Korea"
         ],
-        "kuvaus": "Anni Keski-Heikki suosittelee Korean kielen opiskelua työväenopistossa. Korealaiset aakkoset ovat yllättävän helppo opetella, koska ne perustuvat äänteisiin.",
+        "kuvaus": "Anni Keski-Heikkilä suosittelee Korean kielen opiskelua työväenopistossa. Korealaiset aakkoset ovat yllättävän helppo opetella, koska ne perustuvat äänteisiin.",
         "google_linkki": "",
         "lisatieto_linkki": "",
         "alkupera": "",
@@ -14199,6 +14199,41 @@ window.VALIDATION_DATA = [
         "alkupera": "",
         "lisalinkit": [],
         "antisuositus": true,
+        "piilotettu": false
+      }
+    ]
+  },
+  {
+    "j_idx": 495,
+    "jakso_id": "f5446cbe-aea8-4c7c-a5f6-5318d372fda7",
+    "jakso_otsikko": "COP31-fiasko, Jensenin paluu, viisipäiväinen konttoriviikko",
+    "paivamaara": "26.11.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/f5446cbe-aea8-4c7c-a5f6-5318d372fda7.mp3",
+    "kesto_sek": 3655,
+    "kesto_str": "01:00:55",
+    "rss_osallistujat": [
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki kaipaa erinäisistä syistä pois jääneitä kollegoitaan, mutta puolustaakseen kaikkia koiriaan lenkittäviä ihmisiä ja alushousujen viikkaajia kaikkialla, puhuu COP31-ilmastokokouksen fiaskosta, Jensen Huangin paluusta Nvidiaan ja Nordean päätöksestä palata 5-päiväiseen työviikkoon.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "epailyn_syyt": [],
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "William Wordsworth (runous)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "runous",
+          "kirjallisuus",
+          "klassikko"
+        ],
+        "kuvaus": "Tuomas suosittelee englantilaisen runoilijan William Wordsworthin runoutta, johon hän törmäsi uudelleen huomatessaan sen olevan osa Applen alkuperäistä logoa kiertävää tekstiä.",
+        "google_linkki": "https://www.google.com/search?q=William+Wordsworth+runous",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=William+Wordsworth",
+        "alkupera": "",
+        "lisalinkit": [],
+        "antisuositus": false,
         "piilotettu": false
       }
     ]
@@ -16965,7 +17000,7 @@ window.VALIDATION_DATA = [
           "uutiset",
           "televisio"
         ],
-        "kuvaus": "Anni Keski-Heikki suosittelee Ylen aamu-tv:tä aamuiseksi uutisseurannaksi – se antaa hyvän yleiskuvan päivän tapahtumista ja luo aikaansaavan olon.",
+        "kuvaus": "Anni Keski-Heikkilä suosittelee Ylen aamu-tv:tä aamuiseksi uutisseurannaksi – se antaa hyvän yleiskuvan päivän tapahtumista ja luo aikaansaavan olon.",
         "google_linkki": "https://www.google.com/search?q=Ylen+aamu-tv",
         "lisatieto_linkki": "https://www.imdb.com/title/tt0368470/",
         "alkupera": "",
@@ -19271,7 +19306,7 @@ window.VALIDATION_DATA = [
           "rentoutuminen",
           "harrastus"
         ],
-        "kuvaus": "Anni Keski-Heikki suosittelee virkkaamista rentoutumiskeinona. Yhdellä koukulla ja langoilla voi tehdä esimerkiksi viinipullopussukan – helppo ja konkreettinen tulos.",
+        "kuvaus": "Anni Keski-Heikkilä suosittelee virkkaamista rentoutumiskeinona. Yhdellä koukulla ja langoilla voi tehdä esimerkiksi viinipullopussukan – helppo ja konkreettinen tulos.",
         "google_linkki": "",
         "lisatieto_linkki": "",
         "alkupera": "",
@@ -23122,7 +23157,7 @@ window.VALIDATION_DATA = [
           "pop",
           "uusi julkaisu"
         ],
-        "kuvaus": "Taylor Swiftin uusi levy, jonka teemana on suuri tunteiden kokeminen ja rakkaus. Anni Keski-Heikki kehui levyä kuunneltuaan sen puoleen väliin aamulla.",
+        "kuvaus": "Taylor Swiftin uusi levy, jonka teemana on suuri tunteiden kokeminen ja rakkaus. Anni Keski-Heikkilä kehui levyä kuunneltuaan sen puoleen väliin aamulla.",
         "google_linkki": "https://www.google.com/search?q=Taylor+Swift+The+Tortured+Poets+Department",
         "lisatieto_linkki": "https://open.spotify.com/search/Taylor%20Swift%20The%20Tortured%20Poets%20Department",
         "alkupera": "",
@@ -33272,7 +33307,7 @@ window.VALIDATION_DATA = [
           "politiikka",
           "kirpputori"
         ],
-        "kuvaus": "Vuoden 2015 ajankohtaisin lautapeli, jossa pelataan Suomen kartalla pääministeriehdokkailla. Anni Keski-Heikki löysi sen kirpputorilta ja suosittelee erityisesti pelin pääministeripuolta.",
+        "kuvaus": "Vuoden 2015 ajankohtaisin lautapeli, jossa pelataan Suomen kartalla pääministeriehdokkailla. Anni Keski-Heikkilä löysi sen kirpputorilta ja suosittelee erityisesti pelin pääministeripuolta.",
         "google_linkki": "https://www.google.com/search?q=P%C3%A4%C3%A4ministeripeli+lautapeli+2015",
         "lisatieto_linkki": "https://www.google.com/search?q=P%C3%A4%C3%A4ministeripeli+lautapeli+2015",
         "alkupera": "",
@@ -34240,7 +34275,7 @@ window.VALIDATION_DATA = [
           "draama",
           "HBO"
         ],
-        "kuvaus": "Suosittu fantasiasarja, jonka Anni Keski-Heikki aloitti katsottuaan ensin jatko-osan House of the Dragon. Alkaa hyvin ja koukuttaa nopeasti.",
+        "kuvaus": "Suosittu fantasiasarja, jonka Anni Keski-Heikkilä aloitti katsottuaan ensin jatko-osan House of the Dragon. Alkaa hyvin ja koukuttaa nopeasti.",
         "google_linkki": "https://www.google.com/search?q=Game+of+Thrones",
         "lisatieto_linkki": "https://www.imdb.com/title/tt0944947/",
         "alkupera": "",

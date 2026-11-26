@@ -1,5 +1,25 @@
 [
   {
+    "id": "f5446cbe-aea8-4c7c-a5f6-5318d372fda7",
+    "jakso_otsikko": "COP31-fiasko, Jensenin paluu, viisipäiväinen konttoriviikko",
+    "paivamaara": "26.11.2026",
+    "suositukset": [
+      {
+        "teos": "William Wordsworth (runous)",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=William+Wordsworth+runous",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=William+Wordsworth",
+        "kuvaus": "Tuomas suosittelee englantilaisen runoilijan William Wordsworthin runoutta, johon hän törmäsi uudelleen huomatessaan sen olevan osa Applen alkuperäistä logoa kiertävää tekstiä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "runous",
+          "kirjallisuus",
+          "klassikko"
+        ]
+      }
+    ]
+  },
+  {
     "id": "3c3860f1-92e5-4d05-9226-28fb727c5166",
     "jakso_otsikko": "Sdp:n kipuilu, kolmen kopla kiinassa, FI-Ahöps",
     "paivamaara": "19.11.2026",
